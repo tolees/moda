@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCZ6B9J-es Marca Amazon - find. Abrigo Hombre Marrón Brown 3XL Label:...'
-tags: [ tole.es, abrigo, -, find. ]
+tags: [ 'tole.es','abrigo','-','find.', ]
 actualPrice: 29.21 EUR
 currency: EUR
 price: 29.21

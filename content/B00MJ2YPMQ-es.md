@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MJ2YPMQ-es Reslad Camisa vaquera para hombre Slim Fit Vintage Denim...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

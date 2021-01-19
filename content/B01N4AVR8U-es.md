@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4AVR8U-es oodji Ultra Hombre Jersey a Rayas con Cuello Redondo Azul...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

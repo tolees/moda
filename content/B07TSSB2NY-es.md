@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSSB2NY-es LIGE Relojes para Hombres Moda Relojes de Pulsera de para...'
-tags: [ tole.es, moda, vestido ]
+tags: [ 'tole.es','moda','vestido', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

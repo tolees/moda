@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KQECKWG-es Birkenstock Gizeh Eva - Sandalias unisex Negro Black 38'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 30 EUR
 currency: EUR
 price: 30

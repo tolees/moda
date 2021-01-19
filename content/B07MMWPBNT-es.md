@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWPBNT-es Wrangler Trucker Jacket Chaqueta Pine G01 X-Large para Hombre'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

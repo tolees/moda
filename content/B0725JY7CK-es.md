@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0725JY7CK-es Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta Azul...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

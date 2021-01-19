@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL9CPPB-es Superdry Echo Beach Cagoule Chaqueta deportiva Negro Black...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 21.76 EUR
 currency: EUR
 price: 21.76

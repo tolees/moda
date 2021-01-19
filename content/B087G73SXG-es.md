@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087G73SXG-es NIGHT CHERRY Mujer Moda Tacón Ancho Botines Cremallera...'
-tags: [ tole.es, botines, moda, vestido, zapatos ]
+tags: [ 'tole.es','botines','moda','vestido','zapatos', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

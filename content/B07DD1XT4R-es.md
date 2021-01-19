@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD1XT4R-es Odlo T-Shirt MC Millenium Element Camiseta Ligera Hombre...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 24.11 EUR
 currency: EUR
 price: 24.11

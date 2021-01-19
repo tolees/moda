@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWV18FS-es Geox D LEELU E Zapatillas para Niñas Blanco White/Off...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 30.1 EUR
 currency: EUR
 price: 30.1

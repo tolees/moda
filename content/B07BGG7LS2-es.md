@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGG7LS2-es Gola Mujer Sandalias Deportivas Zapatillas de Senderismo...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9TLTQ3-es Michael Kors Bedford - Bolso para mujer 13 x 25 x 29 cm...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 101.55 EUR
 currency: EUR
 price: 101.55

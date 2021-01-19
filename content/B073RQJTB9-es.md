@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RQJTB9-es Star Wars HQ2017 Pijama de una Pieza Rojo Red 4 años...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

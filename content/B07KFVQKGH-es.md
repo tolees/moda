@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFVQKGH-es edc by Esprit 019cc1f005 Blusa Blanco Off White 110 Large...'
-tags: [ tole.es, blusa ]
+tags: [ 'tole.es','blusa', ]
 actualPrice: 12.11 EUR
 currency: EUR
 price: 12.11

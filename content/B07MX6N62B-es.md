@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MX6N62B-es A+ Trainer Collar Antiladridos Perro – Collar...'
-tags: [ tole.es, collar ]
+tags: [ 'tole.es','collar', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

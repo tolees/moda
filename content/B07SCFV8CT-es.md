@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCFV8CT-es Crocs Classic Glitter Clog Kids Zuecos Unisex Niños Rosa...'
-tags: [ tole.es, zuecos ]
+tags: [ 'tole.es','zuecos', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

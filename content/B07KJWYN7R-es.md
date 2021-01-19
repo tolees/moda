@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJWYN7R-es El Naturalista N5372 Pleasant Sandalias con Correa de...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

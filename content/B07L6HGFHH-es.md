@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6HGFHH-es Under Armour Armour Insulated Chaqueta Hombre Negro MD'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 69.35 EUR
 currency: EUR
 price: 69.35

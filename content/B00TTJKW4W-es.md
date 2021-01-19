@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTJKW4W-es Clarks Tilden Cap Zapatos de Cordones Derby para Hombre...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 42.2 EUR
 currency: EUR
 price: 42.2

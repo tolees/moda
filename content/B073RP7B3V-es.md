@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP7B3V-es Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

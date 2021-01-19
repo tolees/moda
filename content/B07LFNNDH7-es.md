@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFNNDH7-es Levi s Francine Down Pckble Jkt Chaqueta Azul Sodalite...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

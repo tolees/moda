@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJH3KH-es Kipling Osyka Bolso Con Bandolera para Mujer Dorado Cloud...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 42.65 EUR
 currency: EUR
 price: 42.65

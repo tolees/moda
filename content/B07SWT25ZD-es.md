@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT25ZD-es Geox Jr Sandal Kyle A Sandalias Punta Cerrada para Niños...'
-tags: [ tole.es, geox, sandalias ]
+tags: [ 'tole.es','geox','sandalias', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

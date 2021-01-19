@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDFKYTK-es Tous K Shock Rever Girls Organizadore de Bolso para Mujer...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

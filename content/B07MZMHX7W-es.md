@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMHX7W-es Pepe Jeans Rogery Chaqueta Brass 891 Medium para Hombre'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 139.98 EUR
 currency: EUR
 price: 139.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084C2T9CH-es Cyelk Collar Antiparasitos Perro contra Garrapatas y...'
-tags: [ tole.es, collar ]
+tags: [ 'tole.es','collar', ]
 actualPrice: 15.68 EUR
 currency: EUR
 price: 15.68

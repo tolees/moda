@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLH8RRK-es Geox D Myria A Zapatillas para Mujer Azul Blue C4000 36 EU'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 46.92 EUR
 currency: EUR
 price: 46.92

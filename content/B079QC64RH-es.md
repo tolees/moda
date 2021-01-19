@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079QC64RH-es Kipling Gabbie Bolso bandolera para Mujer Azul True Dazz...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

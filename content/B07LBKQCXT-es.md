@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBKQCXT-es Tommy Hilfiger Saba Short Packable Windbreaker Chaqueta...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 37.83 EUR
 currency: EUR
 price: 37.83

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0887RR8ZC-es Aiboria Pijama Mujer Seda Verano Cortos 2 Piezas sin...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

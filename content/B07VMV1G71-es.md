@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMV1G71-es Lee Daren Zip Fly Vaqueros Straight Azul Mid Stonewash 44...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

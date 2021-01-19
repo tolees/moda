@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5L59KJ-es Replay Anbass Vaqueros Slim para Hombre Gris Grey Denim...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 77.25 EUR
 currency: EUR
 price: 77.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTDZT3Q-es Mizuno Sala Classic 2 IN Zapatilla de fútbol Sala Blue-...'
-tags: [ tole.es, zapatilla ]
+tags: [ 'tole.es','zapatilla', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

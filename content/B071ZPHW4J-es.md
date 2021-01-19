@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZPHW4J-es Finether 5m Escalera Telescópica de Aluminio Escalera...'
-tags: [ tole.es, guantes ]
+tags: [ 'tole.es','guantes', ]
 actualPrice: 122.99 EUR
 currency: EUR
 price: 122.99

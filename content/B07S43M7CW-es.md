@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S43M7CW-es BOSS Mabsoot Camisa Verde Open Green 350 Large para Hombre'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 33.92 EUR
 currency: EUR
 price: 33.92

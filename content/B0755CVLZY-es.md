@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0755CVLZY-es Vicloon Organizador de Equipaje 8 en 1 Set de...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

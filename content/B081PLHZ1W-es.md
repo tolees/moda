@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PLHZ1W-es Zapatillas de Baloncesto Altas Superiores Zapatillas de...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 33.4 EUR
 currency: EUR
 price: 33.4

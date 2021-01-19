@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014UNSQWQ-es Geox J54E6A00043 Zapatos con Velcro Niños Negro Blackc9999...'
-tags: [ tole.es, geox, zapatos ]
+tags: [ 'tole.es','geox','zapatos', ]
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

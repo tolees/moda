@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJX17FZ-es Lacoste Sport Th3377 Camiseta Naranja Glaieul/Cosmique Xrn...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

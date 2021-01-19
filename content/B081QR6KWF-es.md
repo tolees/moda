@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QR6KWF-es Under Armour UA Streaker 2.0 Half Zip Cremallera Media...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

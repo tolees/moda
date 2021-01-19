@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQ47RN-es Pepe Jeans Richardson Chaqueta Negro Black 999 Large para...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 60.5 EUR
 currency: EUR
 price: 60.5

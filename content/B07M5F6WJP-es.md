@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F6WJP-es Wrangler Larston Vaqueros Ice Lake 29W / 34L para Hombre'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

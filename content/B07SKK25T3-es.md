@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKK25T3-es CIVO Relojes Mujer Relojes de Señoras Acero Inoxidable...'
-tags: [ tole.es, moda ]
+tags: [ 'tole.es','moda', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

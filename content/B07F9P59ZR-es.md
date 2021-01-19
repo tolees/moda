@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9P59ZR-es Vestidos Estampados Flores Mujer de Verano Cuello en V...'
-tags: [ tole.es, falda, vestido ]
+tags: [ 'tole.es','falda','vestido', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

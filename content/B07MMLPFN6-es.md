@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLPFN6-es Napapijri BOVES H Sudadera con Capucha Rot Red Scarlet R01...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WTV7SQ-es Quiksilver Molokai-Flip-Flops For Men Zapatos de Playa y...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

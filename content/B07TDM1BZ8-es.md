@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDM1BZ8-es Quiksilver Scaly Chaqueta Acolchada con Capucha Hombre...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

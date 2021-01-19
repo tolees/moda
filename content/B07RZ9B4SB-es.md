@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ9B4SB-es Esprit 089ee1f005 Blusa Blanco Off White 110 36 Talla del...'
-tags: [ tole.es, blusa ]
+tags: [ 'tole.es','blusa', ]
 actualPrice: 9.18 EUR
 currency: EUR
 price: 9.18

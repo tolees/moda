@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJSNJSQ-es Hanek Funda iPhone XR Funda de móvil con cordón para...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

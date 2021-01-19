@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9K23DZ-es Chubasquero Mujer Chaqueta Impermeable Abrigo Manga Larga...'
-tags: [ tole.es, abrigo, chaqueta ]
+tags: [ 'tole.es','abrigo','chaqueta', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

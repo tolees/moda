@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7TFXH-es Pepe Jeans Waylon Pm305927 Camisa Indigo 561 Medium para...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 30.83 EUR
 currency: EUR
 price: 30.83

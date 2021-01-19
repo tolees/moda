@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JR8TQRY-es adidas Tiro 19 Camiseta Entrenamiento Hombre Negro...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

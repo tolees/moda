@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AC6P7M2-es Nike Park VI Camiseta de Manga Corta para hombre Negro...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

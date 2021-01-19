@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CGJKPP-es Geographical Norway Chaqueta Hombre BOKER Azul Marino XL'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

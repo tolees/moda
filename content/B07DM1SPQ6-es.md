@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM1SPQ6-es Samsonite Openroad - 3 Way Bag Expandable for 15.6" Laptop...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 155.46 EUR
 currency: EUR
 price: 155.46

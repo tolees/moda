@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897QNYDB-es qingqingR Bolso de Hombro pequeño Transparente para Mujer...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

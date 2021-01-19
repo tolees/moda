@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F29ZNX3-es Timberland Newport Bay 2 Eye Náuticos para Hombre Blanco...'
-tags: [ tole.es, timberland ]
+tags: [ 'tole.es','timberland', ]
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

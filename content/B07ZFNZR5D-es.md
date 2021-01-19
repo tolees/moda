@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFNZR5D-es XIANGUO Guantes Invierno Ciclismo Guantes Pantalla Tactil...'
-tags: [ tole.es, guantes ]
+tags: [ 'tole.es','guantes', ]
 actualPrice: 15.81 EUR
 currency: EUR
 price: 15.81

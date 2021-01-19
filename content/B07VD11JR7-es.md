@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD11JR7-es edc by Esprit 099cc1g012 Chaqueta Marrón Camel 230 X-Small...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 17.71 EUR
 currency: EUR
 price: 17.71

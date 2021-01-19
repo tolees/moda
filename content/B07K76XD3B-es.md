@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K76XD3B-es Levi s SS Original Hm tee Camiseta Cotton + Patch Dress...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -26,8 +26,8 @@ En este momento está [Levi s SS Original Hm tee Camiseta  Cotton + Patch Dress 
 
 🔎:
 
-- Modelo casual
-- Adecuada para el día a día
 - Logotipo pequeño de Levis en el pecho
+- Adecuada para el día a día
+- Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K76XD3B/?tag=tolees-21)

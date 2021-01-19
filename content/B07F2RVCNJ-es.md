@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2RVCNJ-es Helly Hansen Hp Fleece Jacket Chaqueta deportiva para...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 57.45 EUR
 currency: EUR
 price: 57.45

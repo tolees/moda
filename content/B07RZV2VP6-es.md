@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZV2VP6-es BOSS LS-Shirt RN Thermal+ Camiseta térmica Rojo Dark Red...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

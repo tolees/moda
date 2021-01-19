@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPRYRRC-es REPLAY Anbass Vaqueros Slim Azul Dark Blue 7 W29/L34 Talla...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

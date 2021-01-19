@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNVX4GR-es SINOES Zapatos De Los Hombres De Microfibra Otoño De...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

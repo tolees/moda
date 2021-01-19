@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRNNZVZ-es PUMA ESS Small Logo Camiseta Hombre Medium Gray Heather XL'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

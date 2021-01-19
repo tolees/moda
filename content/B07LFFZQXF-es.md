@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFFZQXF-es Levi s Thermore Padded Parka Verde Olive Night 2 0005...'
-tags: [ tole.es, parka ]
+tags: [ 'tole.es','parka', ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

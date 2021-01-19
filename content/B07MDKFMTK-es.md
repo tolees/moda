@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDKFMTK-es Lacoste TH6709 Camiseta para Hombre Azul Alby Chiné 5ch XS...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 37 EUR
 currency: EUR
 price: 37

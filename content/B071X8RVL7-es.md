@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071X8RVL7-es Adidas Adilette Shower Chanclas Hombre Rojo...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

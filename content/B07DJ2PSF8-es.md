@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2PSF8-es Geox Uomo Snake a Zapatillas para Hombre Black/Dk Grey...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 30.81 EUR
 currency: EUR
 price: 30.81

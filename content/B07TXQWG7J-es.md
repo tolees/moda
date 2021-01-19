@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXQWG7J-es Skechers Rumble On-Chart Topper Sandalias de Talón Abierto...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 30.4 EUR
 currency: EUR
 price: 30.4

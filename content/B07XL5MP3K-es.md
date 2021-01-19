@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL5MP3K-es Yuson Girl Conjunto Lencería Erótica De Mujer Sexy Camisón...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

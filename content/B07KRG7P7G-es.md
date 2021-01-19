@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRG7P7G-es Helly Hansen LIFA Dry Stripe Crew Thermal Baselayer...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

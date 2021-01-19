@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814RXLLP-es Under Armour Global Football Tag Camisa Manga Corta Hombre...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

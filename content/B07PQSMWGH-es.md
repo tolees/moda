@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQSMWGH-es deAO Juego del Lejano Oeste Conjunto de Vaqueros y Nativos...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

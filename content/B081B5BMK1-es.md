@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B5BMK1-es Columbia South Canyon Chaqueta Impermeable Mujer Azul...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 54.06 EUR
 currency: EUR
 price: 54.06

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPM21F6-es LOHOTEK Zapatillas Hombres Zapatos Deportivos para Hombres...'
-tags: [ tole.es, moda, zapatos ]
+tags: [ 'tole.es','moda','zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

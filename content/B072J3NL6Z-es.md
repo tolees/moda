@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J3NL6Z-es Under Armour Racing Pack Short Sleeve Camiseta de Manga...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

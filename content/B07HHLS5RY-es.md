@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHLS5RY-es PET MAGASIN Guantes Quita pelos 1 par - Guantes...'
-tags: [ tole.es, guantes ]
+tags: [ 'tole.es','guantes', ]
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29

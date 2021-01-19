@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQVGS36-es Tommy Hilfiger Tommy Flag Hilfiger tee Camisa Deportiva...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

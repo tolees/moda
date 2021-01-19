@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRJ3JVL-es REPLAY M3590 .000.2660 Camiseta Azul Midnight Blue. 576...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

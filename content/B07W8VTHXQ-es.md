@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8VTHXQ-es Tommy Hilfiger Structured Slim Polo Camiseta Deporte Rojo...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 34.96 EUR
 currency: EUR
 price: 34.96

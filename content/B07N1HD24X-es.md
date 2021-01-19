@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1HD24X-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Beige...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 38.03 EUR
 currency: EUR
 price: 38.03

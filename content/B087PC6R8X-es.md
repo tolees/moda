@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PC6R8X-es Suhctup Funda Compatible con Samsung Galaxy J7 Pro...'
-tags: [ tole.es, billetera ]
+tags: [ 'tole.es','billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

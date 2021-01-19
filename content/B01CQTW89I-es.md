@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQTW89I-es Glop Games- Princesa Disney muñeca Vaiana Detalle. Fíjate...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

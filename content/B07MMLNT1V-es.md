@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLNT1V-es Napapijri SIBU Camiseta Azul BLU Marine 176 L para Hombre'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

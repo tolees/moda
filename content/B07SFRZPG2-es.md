@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFRZPG2-es Helly Hansen HH Logo Crew Sudadera Deportiva para Hombres...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

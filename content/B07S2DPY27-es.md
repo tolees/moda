@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2DPY27-es Esprit 089ee2g006 Chaqueta Bomber Negro Black 001 X-Large...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

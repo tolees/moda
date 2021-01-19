@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D7RR4D-es HuiHang Mujer Cuero Confort Peep Toe Sandalias Plataforma...'
-tags: [ tole.es, sandalias, zapatos ]
+tags: [ 'tole.es','sandalias','zapatos', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

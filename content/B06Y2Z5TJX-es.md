@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2Z5TJX-es Joma 100801.109 Sudadera Hombre Negro/Amarillo S'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

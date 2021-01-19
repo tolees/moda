@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HWQQLW-es FM London Tagless Bóxer Multicolor Assorted Small Pack de...'
-tags: [ tole.es, bóxer ]
+tags: [ 'tole.es','bóxer', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

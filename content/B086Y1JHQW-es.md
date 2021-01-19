@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086Y1JHQW-es Levi s Kids Lvg Key Item Logo Crew Sudadera Deep Teal para...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

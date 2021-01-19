@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMNYHHH-es find. Fur Lined Hiker Zapatos de Low Rise Senderismo Negro...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 22.91 EUR
 currency: EUR
 price: 22.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMT4CHV-es adidas Essentials Linear Logo Camiseta Niños Negro...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 10.05 EUR
 currency: EUR
 price: 10.05

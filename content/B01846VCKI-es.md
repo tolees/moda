@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01846VCKI-es Timberland 6 In Boot Botas Altas para Hombre Marrón Brown...'
-tags: [ tole.es, timberland ]
+tags: [ 'tole.es','timberland', ]
 actualPrice: 112.35 EUR
 currency: EUR
 price: 112.35

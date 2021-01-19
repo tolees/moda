@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876LGBCD-es Sandalias duraderas para Hombres Sandalias de Verano para...'
-tags: [ tole.es, moda, sandalias, zapatos ]
+tags: [ 'tole.es','moda','sandalias','zapatos', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BLWN7H5-es Honghu Mujeres con Cord¨®n Pantalones Sueltos de Rayas...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 6.83 EUR
 currency: EUR
 price: 6.83

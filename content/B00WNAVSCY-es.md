@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WNAVSCY-es Timberland Euro Sprint Hiker Zapatillas Chukka para Hombre...'
-tags: [ tole.es, timberland ]
+tags: [ 'tole.es','timberland', ]
 actualPrice: 101.06 EUR
 currency: EUR
 price: 101.06

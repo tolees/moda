@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH7VW2H-es Polaroid PLD 6056/S Gafas de Sol Multicolor Blk Ruth 55...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 24.7 EUR
 currency: EUR
 price: 24.7

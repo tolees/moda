@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZKK84B-es Tommy Hilfiger Essential Basic Down Jacket Chaqueta Blue...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

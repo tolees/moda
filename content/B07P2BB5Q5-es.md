@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2BB5Q5-es Superdry Downhill Racer Applique tee Camiseta Rojo Rouge...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N19L5KP-es Lee Chunky Crew Neck Sudadera Verde Dk Bottle Green BB...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 18.19 EUR
 currency: EUR
 price: 18.19

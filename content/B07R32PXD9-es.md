@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R32PXD9-es Camfosy CAMFOSYUnifr136 - Sandalias Deportivas Mujer...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 46.31 EUR
 currency: EUR
 price: 46.31

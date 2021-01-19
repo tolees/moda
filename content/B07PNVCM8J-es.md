@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNVCM8J-es Leggins de Sudoracion Adelgazantes Mujer Fitness...'
-tags: [ tole.es, leggins ]
+tags: [ 'tole.es','leggins', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

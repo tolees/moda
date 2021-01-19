@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWVHTFQ-es Columbia WAYFINDER Zapatos Multideporte para Hombre Gris...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 39.63 EUR
 currency: EUR
 price: 39.63

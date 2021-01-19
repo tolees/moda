@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016ZKV91M-es Geox Vega S Sandalias con Punta Abierta para Mujer Azul...'
-tags: [ tole.es, geox, sandalias ]
+tags: [ 'tole.es','geox','sandalias', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

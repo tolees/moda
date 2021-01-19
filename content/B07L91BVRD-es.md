@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L91BVRD-es REPLAY Vivy Vaqueros Slim Gris Dark Grey 97 26W / 32L para...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96

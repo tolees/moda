@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7PSM13-es HUGO Trunk Brother Pack Bóxer Negro Black 9 M 2 para Hombre'
-tags: [ tole.es, bóxer ]
+tags: [ 'tole.es','bóxer', ]
 actualPrice: 22.15 EUR
 currency: EUR
 price: 22.15

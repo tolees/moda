@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNSV4S2-es find. Hurrache Sandalias con Punta Cerrada Beige Snake 38 EU'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

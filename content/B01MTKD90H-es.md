@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTKD90H-es Tous Jacalanda Brunock Chain Bolso Bandolera para Mujer...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

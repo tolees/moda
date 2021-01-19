@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKS3P2C-es Clarks Lafley Lily Sandalias de Talón Abierto para Mujer...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 39.34 EUR
 currency: EUR
 price: 39.34

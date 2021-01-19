@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJPC6P8-es REPLAY Donny Vaqueros Slim Azul Medium Blue 9 W29/L30...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

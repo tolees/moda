@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVV72SS-es Lee Scarlett High Vaqueros Azul Mid Vermont JY 32W/31L...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 44.09 EUR
 currency: EUR
 price: 44.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRLL58B-es Kipling ONALO Bolso de gimnasio 45 cm 18 liters Azul...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 31.66 EUR
 currency: EUR
 price: 31.66

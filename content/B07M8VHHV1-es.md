@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8VHHV1-es Lee Scarlett High Vaqueros Azul Sitka Worn In Jq 27W/31L...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

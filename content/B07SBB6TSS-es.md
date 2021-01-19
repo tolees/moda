@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBB6TSS-es Crocs Crocband Zuecos Unisex Adulto Rosa Blossom/White 6ph...'
-tags: [ tole.es, zuecos ]
+tags: [ 'tole.es','zuecos', ]
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

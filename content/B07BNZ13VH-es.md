@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BNZ13VH-es Columbia Ruckel Ridge Chukka WP Omni-Heat Zapatos de...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 71.89 EUR
 currency: EUR
 price: 71.89

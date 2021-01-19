@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFQ5J6K-es Quiksilver Everyday Sudadera con Capucha y Cremallera...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 35.46 EUR
 currency: EUR
 price: 35.46

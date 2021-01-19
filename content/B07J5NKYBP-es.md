@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5NKYBP-es Marca Amazon - find. Wedge Close Toe Canvas Espadrille...'
-tags: [ tole.es, sandalias, -, find. ]
+tags: [ 'tole.es','sandalias','-','find.', ]
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

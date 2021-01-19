@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VRTQ8Y-es Tommy Hilfiger KB0KB05547 Camiseta niño 16A'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

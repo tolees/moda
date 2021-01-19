@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ6YTMV-es Lacoste Th3377 Camiseta Plateado Argent Chiné/Marine Mnc...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

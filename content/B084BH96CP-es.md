@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084BH96CP-es Levi s SS Original Hm tee Camiseta Charcoal Heather XX M...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

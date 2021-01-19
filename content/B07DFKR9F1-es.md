@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFKR9F1-es Crocs LiteRide Flip Chanclas Unisex Adulto Multicolor...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

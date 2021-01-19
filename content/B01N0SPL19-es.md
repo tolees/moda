@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0SPL19-es Arena Envision Gafas de natación Unisex Adulto Clear Talla...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

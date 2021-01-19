@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PW8YKS8-es Duevin Bolso de la Motocicleta de la Mujer Mate PU...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

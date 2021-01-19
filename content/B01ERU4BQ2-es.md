@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ERU4BQ2-es Joma - Sudadera campus ii 1/2 cremallera royal para hombre...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 15.37 EUR
 currency: EUR
 price: 15.37

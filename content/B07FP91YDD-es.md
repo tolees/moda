@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP91YDD-es AmzBarley Disfraz Vestido Princesa Blancanieves Elsa...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

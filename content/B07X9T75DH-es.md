@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9T75DH-es Cevapro Guantes de ciclismo cálidos guantes de invierno...'
-tags: [ tole.es, guantes ]
+tags: [ 'tole.es','guantes', ]
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

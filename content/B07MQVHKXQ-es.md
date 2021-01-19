@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVHKXQ-es Napapijri Bra FZH Sudadera Gris Dark Grey Mel 197 XL para...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 26.12 EUR
 currency: EUR
 price: 26.12

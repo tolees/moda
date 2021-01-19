@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RY18YRV-es Only Frsfrankie Training SS tee-Unit Camiseta Negro Black...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

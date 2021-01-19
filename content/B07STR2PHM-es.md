@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STR2PHM-es YWLINK Mono NiñA NiñO Verano Sin Mangas De Color SóLido...'
-tags: [ tole.es, moda ]
+tags: [ 'tole.es','moda', ]
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

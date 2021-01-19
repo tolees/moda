@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QRPV12N-es Gaatpot Zapatos Invierno Botas Forradas de Nieve...'
-tags: [ tole.es, botines, zapatos ]
+tags: [ 'tole.es','botines','zapatos', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

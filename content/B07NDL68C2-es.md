@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL68C2-es G-STAR RAW Stem Round Neck Camiseta Beige Milk 111 XX-...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

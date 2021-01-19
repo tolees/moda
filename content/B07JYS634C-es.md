@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYS634C-es Tommy Hilfiger Stretch Slim Fit tee Camisa Deportiva Verde...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

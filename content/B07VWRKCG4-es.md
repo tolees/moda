@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWRKCG4-es AIMTOP 2 Pack Leggins Termicos Mujer Leggins Mujer...'
-tags: [ tole.es, leggins ]
+tags: [ 'tole.es','leggins', ]
 actualPrice: 9.35 EUR
 currency: EUR
 price: 9.35

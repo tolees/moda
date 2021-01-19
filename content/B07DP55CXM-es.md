@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP55CXM-es Tommy Hilfiger TJM Tommy Classics Logo tee Camisa Azul...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

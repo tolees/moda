@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087BVPL9M-es Coolcept Mujer Dulce Lazos Zapatos de la Corte Tacón Alto...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

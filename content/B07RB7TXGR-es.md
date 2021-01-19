@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB7TXGR-es Columbia Pike Lake Chaqueta Mujer Amarillo Raw Honey M'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

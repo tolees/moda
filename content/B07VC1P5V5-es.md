@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC1P5V5-es JACK & JONES Jorsprayed Sweat Crew Neck Sudadera Azul Sea...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 19.81 EUR
 currency: EUR
 price: 19.81

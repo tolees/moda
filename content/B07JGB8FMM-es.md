@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGB8FMM-es Cross Jeans Anya Vaqueros Slim Azul Mid Blue 153 W26/L30...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

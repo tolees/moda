@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM5B2MK-es De Mujer con Cuello en V Profunda con Volantes Lunares...'
-tags: [ tole.es, abrigo, vestido ]
+tags: [ 'tole.es','abrigo','vestido', ]
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

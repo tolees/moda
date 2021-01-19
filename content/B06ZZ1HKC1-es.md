@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZ1HKC1-es Miunana 5x Vestidos de noche + 10 Zapatos Vestir de Fiesta...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

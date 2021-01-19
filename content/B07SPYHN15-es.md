@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPYHN15-es New front Zapatos de Princesa Niñas Bailarina Sandalias...'
-tags: [ tole.es, sandalias, zapatos, zapatilla ]
+tags: [ 'tole.es','sandalias','zapatos','zapatilla', ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

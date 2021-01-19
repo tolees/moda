@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJJ1ZZY-es Tamaris 1-1-26250-23 Botines para Mujer Negro Black 1 39 EU'
-tags: [ tole.es, botines ]
+tags: [ 'tole.es','botines', ]
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

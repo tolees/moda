@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8JHTNT-es Marca Amazon - find. Mono Fluido de Manga Corta para Mujer...'
-tags: [ tole.es, -, find. ]
+tags: [ 'tole.es','-','find.', ]
 actualPrice: 22.97 EUR
 currency: EUR
 price: 22.97

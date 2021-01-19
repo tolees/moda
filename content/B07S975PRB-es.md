@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S975PRB-es Crocs Crocband Flip Women Chanclas para Mujer Azul Navy...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

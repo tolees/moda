@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBHH6KG-es JOINFREE Zapatos de Agua para niños Calzado de Secado...'
-tags: [ tole.es, botines, zapatos ]
+tags: [ 'tole.es','botines','zapatos', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

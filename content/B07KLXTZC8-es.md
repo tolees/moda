@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KLXTZC8-es Bolso de Mujer Pequeña Bolso de Noche Hombro Billetera...'
-tags: [ tole.es, billetera, bolso ]
+tags: [ 'tole.es','billetera','bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF3BS79-es Levi s Plus Size 311 Pl Shaping Skinny Vaqueros Light A...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 15.11 EUR
 currency: EUR
 price: 15.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KYV34Z8-es Helly Hansen Jacke W Loke Chaqueta Deportiva para Mujer...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 38.14 EUR
 currency: EUR
 price: 38.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3SPBL9-es Desigual Vest Jacob Vestido Blanco Blanco 1000 XXL para Mujer'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

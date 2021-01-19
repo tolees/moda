@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFWBWYJ-es Eono Essentials - Chaqueta impermeable para hombre con...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

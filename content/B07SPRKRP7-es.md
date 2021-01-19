@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPRKRP7-es Carteras Hombre pequeñas con Monedero - De Piel con Cierre...'
-tags: [ tole.es, monedero ]
+tags: [ 'tole.es','monedero', ]
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKWLVTF-es Havaianas High Light Chanclas para Mujer Negro Black/Dark...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

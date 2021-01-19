@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQZG22-es Pepe Jeans Golders Camiseta Gris Misty Grey 921 Medium...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

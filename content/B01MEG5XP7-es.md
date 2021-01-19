@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MEG5XP7-es ESPRIT 017EE2F018 Camisa Hombre Azul NAVY Large'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075X2RL4N-es find. NEWSTW050 vaqueros mujer cintura alta Azul Bright...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 8.07 EUR
 currency: EUR
 price: 8.07

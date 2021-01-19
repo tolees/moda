@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLZPPDG-es Calvin Klein Ckj 016 Vaqueros Skinny Azul Copenhagen Grey...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 33.56 EUR
 currency: EUR
 price: 33.56

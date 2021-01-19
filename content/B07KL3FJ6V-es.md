@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL3FJ6V-es adidas E 3s tee Camiseta de Manga Corta Hombre Black/White S'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

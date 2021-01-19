@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFJL6T1-es Camisa de Mujer Elegante Escote Redondo Blusa Camisa de...'
-tags: [ tole.es, blusa, camisa ]
+tags: [ 'tole.es','blusa','camisa', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

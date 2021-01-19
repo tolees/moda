@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKFKZR3-es Strellson Premium Allen Chaqueta de Traje Gris Grey 045...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785JWQJB-es Under Armour Fleece Sudadera para Hombre Camiseta de Manga...'
-tags: [ tole.es, camiseta, sudadera ]
+tags: [ 'tole.es','camiseta','sudadera', ]
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

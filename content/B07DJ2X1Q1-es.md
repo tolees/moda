@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2X1Q1-es Geox U Kennet B Zapatillas para Hombre Blanco White C1000...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 59.35 EUR
 currency: EUR
 price: 59.35

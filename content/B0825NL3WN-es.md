@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825NL3WN-es Quiksilver Stone Cold Classic - Camiseta para Hombre...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

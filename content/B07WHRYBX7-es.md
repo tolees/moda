@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHRYBX7-es SALOMON Blend Logo SS tee M Camiseta Deportiva de Manga...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 17.28 EUR
 currency: EUR
 price: 17.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHZ6H5T-es Geox D Theragon C Zapatillas para Mujer Blue/Navy C4294 36 EU'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

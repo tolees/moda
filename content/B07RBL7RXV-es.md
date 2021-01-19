@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBL7RXV-es SISMIURRA Colgante de Hoja chapada en Oro Blanco Collar de...'
-tags: [ tole.es, collar ]
+tags: [ 'tole.es','collar', ]
 actualPrice: 9.17 EUR
 currency: EUR
 price: 9.17

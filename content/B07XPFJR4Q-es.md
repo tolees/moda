@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XPFJR4Q-es BAIGIO Bolsa de Noche Mujer Bolso de Mano Bolso Clutch de...'
-tags: [ tole.es, bolso, monedero ]
+tags: [ 'tole.es','bolso','monedero', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

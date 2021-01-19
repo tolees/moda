@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BC3VC42-es Dr. Martens 1460 Zapatos de Vestir Unisex Adulto Negro 36'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 177.0 EUR
 currency: EUR
 price: 177.0

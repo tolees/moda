@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014YXD3F2-es Clarks Mapped Edge Zapatos de Cordones Oxford para Hombre...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 46.73 EUR
 currency: EUR
 price: 46.73

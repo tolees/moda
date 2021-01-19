@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KR3KVL-es Sudadera con Capucha de Gran tamaño la Original Sherpa con...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

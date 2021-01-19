@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNRJQ8S-es Superdry OL Vintage Emb Crew Camiseta Rosa Neon Pink Space...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

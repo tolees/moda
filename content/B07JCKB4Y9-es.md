@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCKB4Y9-es Columbia Autumn Rise Chaqueta impermeable de longitud...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

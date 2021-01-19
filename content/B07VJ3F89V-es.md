@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJ3F89V-es Calvin Klein Foundation Slim Denim Jacket Chaqueta Vaquera...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 64.28 EUR
 currency: EUR
 price: 64.28

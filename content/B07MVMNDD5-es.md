@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVMNDD5-es Marca Amazon - MERAKI Calzoncillo Corto de Algodón Hombre...'
-tags: [ tole.es, meraki ]
+tags: [ 'tole.es','meraki', ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

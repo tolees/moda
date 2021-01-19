@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDZGJ25-es PUMA Amplified Crew TR Sudadera Hombre Medium Gray Heather L'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

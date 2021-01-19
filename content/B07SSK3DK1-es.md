@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSK3DK1-es Geox D PONTOISE D Zapatillas para Mujer Negro Black/Lt...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 41.48 EUR
 currency: EUR
 price: 41.48

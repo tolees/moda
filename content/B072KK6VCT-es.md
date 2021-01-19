@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KK6VCT-es BOSS Mix & Match T-Shirt R Camiseta Negro Black 001 Small...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

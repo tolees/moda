@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6J6XIA-es Crocs Flip Flops Chanclas Unisex Adulto Negro Black/Smoke...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 24.22 EUR
 currency: EUR
 price: 24.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRF21-es Napapijri Gardiner Camisa Casual Azul Blue Stripe 00s L...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

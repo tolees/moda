@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C3L6TR1-es Superdry Tech Hood Pop Zip SD-wndcheate Chaqueta Deportiva...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

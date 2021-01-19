@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMVYXTP-es Lee Chest Logo tee Camiseta Rojo Warp Red KG Large para Mujer'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

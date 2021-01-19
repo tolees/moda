@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3G41KV-es Superdry Icelandic Parka Rojo New Port Oxa 34 Talla del...'
-tags: [ tole.es, parka ]
+tags: [ 'tole.es','parka', ]
 actualPrice: 40.31 EUR
 currency: EUR
 price: 40.31

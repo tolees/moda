@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ2CJY3-es BILLABONG Jackson SS Camiseta Negro Black 19 One Size...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

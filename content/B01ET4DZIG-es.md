@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ET4DZIG-es Helly Hansen W Aden Down Parka Mujer Black M'
-tags: [ tole.es, parka ]
+tags: [ 'tole.es','parka', ]
 actualPrice: 133.42 EUR
 currency: EUR
 price: 133.42

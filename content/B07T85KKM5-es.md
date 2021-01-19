@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T85KKM5-es Helly Hansen W Iris Sandalias de Punta Descubierta para...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 15.16 EUR
 currency: EUR
 price: 15.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ5BHY8-es Women s Secret Cozy Animals Ca Llama PJ Conjuntos de...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 20.72 EUR
 currency: EUR
 price: 20.72

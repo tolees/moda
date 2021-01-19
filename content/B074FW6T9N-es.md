@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FW6T9N-es Marca Amazon - find. Sudadera de Rayas Verticales con...'
-tags: [ tole.es, sudadera, -, find. ]
+tags: [ 'tole.es','sudadera','-','find.', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

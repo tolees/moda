@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSXDGAR-es find. Vestido con Escote Entrelazado para Mujer Rosa Old...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 7 EUR
 currency: EUR
 price: 7

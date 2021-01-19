@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076B5ZVGY-es Havaianas Brasil Logo Chanclas Unisex Adulto Negro 35/36 EU'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

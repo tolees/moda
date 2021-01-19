@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4W9QDH-es Levi s Francine Down Pckble Jkt Chaqueta Azul Baby Blue...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 31.55 EUR
 currency: EUR
 price: 31.55

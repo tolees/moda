@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPC6KFK-es Charles Wilson Sudadera con Cremallera Completa con...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

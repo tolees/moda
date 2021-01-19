@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNQYNXS-es Lacoste TH6709 Camiseta para Hombre Azul Electrique Z7z...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPTZ6BG-es Sexy Traje de baño de Dos Piezas para Mujer con Traje de...'
-tags: [ tole.es, bikini ]
+tags: [ 'tole.es','bikini', ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

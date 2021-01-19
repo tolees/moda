@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3NXTKJ-es SELECTED HOMME Slhslimnew-Mark Shirt LS B Noos Camisa...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

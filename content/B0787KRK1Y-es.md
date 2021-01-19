@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0787KRK1Y-es Crocs Crocband Platform Clog Zuecos Unisex Adulto Negro...'
-tags: [ tole.es, zuecos ]
+tags: [ 'tole.es','zuecos', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

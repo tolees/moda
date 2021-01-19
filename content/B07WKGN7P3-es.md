@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKGN7P3-es New Look Faith Belted PU Biker Chaqueta Beige Light Khaki...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

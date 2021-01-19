@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KLQSDQ-es PUMA Liga CR H Camiseta de Manga Corta Hombre Azul...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

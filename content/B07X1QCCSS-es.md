@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1QCCSS-es Zapatillas de Running Hombre Zapatillas para Hombre...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

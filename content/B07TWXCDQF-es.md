@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXCDQF-es Women s Secret Multilicense College MC DS Stars PJ...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

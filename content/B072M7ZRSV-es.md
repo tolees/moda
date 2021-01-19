@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072M7ZRSV-es Crocs Swiftwater Flip Women Zapatos de Playa y Piscina...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 9.35 EUR
 currency: EUR
 price: 9.35

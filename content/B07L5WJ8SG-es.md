@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5WJ8SG-es Regatta Cline III Coolweave Crew Neck Graphic Camiseta...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

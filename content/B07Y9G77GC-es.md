@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9G77GC-es CRZ YOGA Mujer Mallas Deportivo Pantalón Elastico para...'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

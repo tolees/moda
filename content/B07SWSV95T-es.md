@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWSV95T-es Geox J Buller Boy B Zapatillas para Niños Azul Navy/Grey...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

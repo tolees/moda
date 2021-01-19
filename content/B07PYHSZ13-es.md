@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYHSZ13-es Liu Jo A19066E0002 Bolso de baldolera Accesorios Rojo Pz.'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 87.45 EUR
 currency: EUR
 price: 87.45

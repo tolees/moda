@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Z6KCGH-es OAKLEY Holbrook Xl 941703 Gafas de sol para Hombre...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 71.0 EUR
 currency: EUR
 price: 71.0

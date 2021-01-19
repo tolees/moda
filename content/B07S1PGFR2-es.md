@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1PGFR2-es Rowenta Depiladora Flower Love Kit 3 en 1 - EP2853F0-2...'
-tags: [ tole.es, bikini ]
+tags: [ 'tole.es','bikini', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

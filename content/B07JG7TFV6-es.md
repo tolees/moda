@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7TFV6-es Pepe Jeans Sealey Pm581633 Sudadera Grey Marl 933 Small...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPVFDP-es Pepe Jeans Finsbury Vaqueros Skinny Gris Powerflex Grey...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3Z3QKL-es Desigual T-Shirt Daryl Camiseta Blanco Crudo 1001 Large...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSDS42Y-es JACK & JONES NOS Jjewashington Shirt L/s STS Camisa Rojo...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 13.61 EUR
 currency: EUR
 price: 13.61

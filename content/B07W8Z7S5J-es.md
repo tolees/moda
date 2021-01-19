@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8Z7S5J-es A+ Trainer Collar Antiladridos para Perros Collar Ladridos...'
-tags: [ tole.es, collar ]
+tags: [ 'tole.es','collar', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

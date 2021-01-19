@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF9QCWV-es Puma Reactive Chaqueta De Entrenamiento Hombre Azul...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

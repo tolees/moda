@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7KLCK5-es Hierro sobre papel de transferencia para tela oscura Magic...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

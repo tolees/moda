@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9NT83P-es Calvin Klein Sonnenbrille Ck18502S 1 Gafas de sol Negro...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 32.84 EUR
 currency: EUR
 price: 32.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2S5ZBX-es Levi s The Jacket Chaqueta Vaquera Azul Moon Lit Trucker...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 68.62 EUR
 currency: EUR
 price: 68.62

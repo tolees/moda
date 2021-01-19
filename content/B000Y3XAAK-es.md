@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y3XAAK-es Wrangler Texas Tonal Vaqueros Negro Black 100 30W / 32L...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 52.91 EUR
 currency: EUR
 price: 52.91

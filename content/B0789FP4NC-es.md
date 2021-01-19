@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0789FP4NC-es Under Armour - Camiseta de Tirantes para Mujer con...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

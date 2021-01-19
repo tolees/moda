@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1P2XXZ-es 【Vuelta al Colegio】 REYLEO Organizador de Equipaje...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

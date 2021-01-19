@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZJ9PJ5-es Under Armour Vanish Woven Short Pantalón Corto Hombre Azul...'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 23.31 EUR
 currency: EUR
 price: 23.31

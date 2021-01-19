@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XN62PPX-es Marca Amazon - find. Top sin Mangas de Algodón Mujer Azul...'
-tags: [ tole.es, -, find. ]
+tags: [ 'tole.es','-','find.', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

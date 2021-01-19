@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBJCL2K-es ACVIP - Abrigo - Chaqueta Guateada - Manga Larga - para...'
-tags: [ tole.es, abrigo, chaqueta ]
+tags: [ 'tole.es','abrigo','chaqueta', ]
 actualPrice: 34.96 EUR
 currency: EUR
 price: 34.96

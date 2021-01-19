@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NFBFNJ-es Nike Dry Academy Crew Camiseta Niños Negro Black M'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

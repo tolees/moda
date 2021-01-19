@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHTO118-es Under Armour UA Heatgear Long Sleeve Camiseta De Manga...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0714MTQJY-es Khanomak - Pantalón Corto Deportivo - para Mujer Negro...'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 9 EUR
 currency: EUR
 price: 9

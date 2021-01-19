@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7DZ2V2-es Jack & Jones Jjigeorge Shirt Stretch LS Camisa Vaquera...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 28.25 EUR
 currency: EUR
 price: 28.25

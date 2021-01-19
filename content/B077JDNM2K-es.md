@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077JDNM2K-es Feilan Gafas de natación Gafas para Nadar Antiempañado y...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

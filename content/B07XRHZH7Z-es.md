@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRHZH7Z-es Geographical Norway Parka Hombre BOKER Negro S'
-tags: [ tole.es, parka ]
+tags: [ 'tole.es','parka', ]
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

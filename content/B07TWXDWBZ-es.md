@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXDWBZ-es Women s Secret Bloom Feminine BF Blossom PJ FR Conjuntos...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

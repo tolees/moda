@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CUSC1PM-es Spalding Attack Tank Top Camiseta De Equipaciones Manga...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

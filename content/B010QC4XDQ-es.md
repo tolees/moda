@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010QC4XDQ-es ONLY Onlroyal High Waist Skinny Jeans Vaqueros Medium Blue...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

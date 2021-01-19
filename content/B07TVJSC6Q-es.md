@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVJSC6Q-es Timberland Camisa de Franela para Hombre Manga Larga'
-tags: [ tole.es, camisa, timberland ]
+tags: [ 'tole.es','camisa','timberland', ]
 actualPrice: 78.24 EUR
 currency: EUR
 price: 78.24

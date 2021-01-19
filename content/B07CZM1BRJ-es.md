@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZM1BRJ-es Under Armour Rival Fleece Logo Pantalones Cortos para...'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

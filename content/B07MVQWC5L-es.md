@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVQWC5L-es Gant D1. The Active Cloud Jacket Chaqueta Rojo Mahogany...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 115.61 EUR
 currency: EUR
 price: 115.61

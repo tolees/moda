@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YDZ76B-es HIKARO Parka Corta Hombre Beige Stone 48 Talla del...'
-tags: [ tole.es, parka ]
+tags: [ 'tole.es','parka', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

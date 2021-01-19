@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU2DTY3-es Activewear Sudadera Deportiva Hombre Negro Black Medium'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

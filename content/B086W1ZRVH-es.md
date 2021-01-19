@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086W1ZRVH-es Lil Yachty Vestido Asimetrico Mujer Mangas Largas Camisa...'
-tags: [ tole.es, blusa, camisa, sudadera, vestido ]
+tags: [ 'tole.es','blusa','camisa','sudadera','vestido', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWXV9HF-es G-STAR RAW Graphic 18 Mysid Slim Camiseta Beige Milk 111...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 8.84 EUR
 currency: EUR
 price: 8.84

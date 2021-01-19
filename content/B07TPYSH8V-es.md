@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYSH8V-es Clarks Foxwell Hall Zapatos de Cordones Derby Negro Black...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 37.19 EUR
 currency: EUR
 price: 37.19

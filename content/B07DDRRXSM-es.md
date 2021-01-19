@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDRRXSM-es Only Onlblush Mid ANK Raw Jeans Rea1303 Noos Vaqueros...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

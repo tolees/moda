@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N42ZXTY-es Desigual Shirt CAM Camisa Beige Crudo Beige 1008 XXL para...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087BXRQPY-es TAONEEF Mujer Moda Tacon Delgados Sandalias Cruzado Tacon...'
-tags: [ tole.es, moda, sandalias, zapatos ]
+tags: [ 'tole.es','moda','sandalias','zapatos', ]
 actualPrice: 22.88 EUR
 currency: EUR
 price: 22.88

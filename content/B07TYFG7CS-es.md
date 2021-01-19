@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYFG7CS-es BOSS T-Shirt RN 24 Camiseta Gris Medium Grey 32 Small para...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

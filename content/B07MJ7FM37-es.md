@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ7FM37-es Clarks Oliver Lace Zapatos de Cordones Derby para Hombre...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 39.68 EUR
 currency: EUR
 price: 39.68

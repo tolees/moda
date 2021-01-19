@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758FDQT2-es Care Bane Camiseta Morado Lavender 607 9 Meses/74 cm Pack...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJNVK22-es Clarks Un Bali Trek Sandalias de Talón Abierto para Mujer...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 44.13 EUR
 currency: EUR
 price: 44.13

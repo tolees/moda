@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776ZRL7R-es Tommy Hilfiger Original Jersey Camiseta Azul Black Iris...'
-tags: [ tole.es, camiseta, jersey ]
+tags: [ 'tole.es','camiseta','jersey', ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

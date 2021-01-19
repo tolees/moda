@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HMN94H-es Adidas Regista 18 Track Top Chaqueta Deportiva Hombre Bold...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

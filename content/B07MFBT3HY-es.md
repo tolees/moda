@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFBT3HY-es Kickers Home Zapatos de Cordones Derby para Mujer Negro...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

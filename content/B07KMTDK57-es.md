@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMTDK57-es Armani Exchange Cotton Satin Pois Camisa 3D Micro Boxes...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 31.63 EUR
 currency: EUR
 price: 31.63

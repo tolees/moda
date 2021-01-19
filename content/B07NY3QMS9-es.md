@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3QMS9-es Superdry Vintage Logo Crew Sudadera Negro Black 02a...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 23.26 EUR
 currency: EUR
 price: 23.26

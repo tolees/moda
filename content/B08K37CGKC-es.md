@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K37CGKC-es Bluelucon lenceria mujer 1pc El PañO De AlgodóN Estampado...'
-tags: [ tole.es, moda ]
+tags: [ 'tole.es','moda', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

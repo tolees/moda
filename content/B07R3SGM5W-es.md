@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3SGM5W-es Wrangler Sherpa Jacket Chaqueta Vaquera Negro Black Stone...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 37.36 EUR
 currency: EUR
 price: 37.36

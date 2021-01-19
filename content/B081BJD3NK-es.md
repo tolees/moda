@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BJD3NK-es Columbia Powder Pass Chaqueta con Capucha Mujer Rosa Peach...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 45.69 EUR
 currency: EUR
 price: 45.69

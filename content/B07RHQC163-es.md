@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHQC163-es Nike Wmns Revolution 5 Zapatilla de Correr para Mujer...'
-tags: [ tole.es, zapatilla ]
+tags: [ 'tole.es','zapatilla', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

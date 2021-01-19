@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZKV6G9-es Iris & Lilly BLIC004 Sujetadores Push up Azul Navy Sky 90C'
-tags: [ tole.es, iris, &, lilly ]
+tags: [ 'tole.es','iris','&','lilly', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4MQ49C-es Charles Wilson Camisa Manga Larga Popelina Lisa para...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

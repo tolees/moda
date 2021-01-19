@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGD2DN9-es DCalderoni Moncayo Zapatos Piel Negros De Vestir con...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

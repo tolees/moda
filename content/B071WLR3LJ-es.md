@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WLR3LJ-es Crocs Crocband U Zuecos Unisex Adulto Amarillo Tennis Ball...'
-tags: [ tole.es, zuecos ]
+tags: [ 'tole.es','zuecos', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

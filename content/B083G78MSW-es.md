@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083G78MSW-es New balance NBML574SNU Zapatos Hombre Azul 50'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 80 EUR
 currency: EUR
 price: 80

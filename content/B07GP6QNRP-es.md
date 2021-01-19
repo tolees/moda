@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GP6QNRP-es Zapatillas Hombre Mujer Invierno CáLido Zapatos Memory...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

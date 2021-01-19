@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014C3WXK-es Crocs Classic Clog Zuecos Unisex Adulto Azul Navy 36/37 EU'
-tags: [ tole.es, zuecos ]
+tags: [ 'tole.es','zuecos', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

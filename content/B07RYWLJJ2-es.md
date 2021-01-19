@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYWLJJ2-es Pepe Jeans Bobby Camiseta Gris Grey Marl 933 Talla única...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

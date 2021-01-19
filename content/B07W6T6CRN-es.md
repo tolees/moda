@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6T6CRN-es Tommy Hilfiger RWB Pocket Flex tee Camiseta Deporte Blanco...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

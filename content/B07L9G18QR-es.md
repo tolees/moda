@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9G18QR-es Under Armour Rival Solid Pantalón Niños Negro YSM'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 11.12 EUR
 currency: EUR
 price: 11.12

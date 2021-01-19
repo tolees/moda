@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1YUZOB-es Timberland Adventure Seeker 2 Strap Sandalias de Punta...'
-tags: [ tole.es, sandalias, timberland ]
+tags: [ 'tole.es','sandalias','timberland', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

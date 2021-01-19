@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAXDXB9-es Bolso de mano Pepe Jeans Porto Camel'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

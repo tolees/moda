@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6TP77R-es Tommy Hilfiger Comfort Footbed Beach Sandal Chanclas para...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

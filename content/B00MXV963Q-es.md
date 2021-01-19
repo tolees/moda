@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MXV963Q-es NNJXD Falda de Chicas con Volante de Encaje Vestidos de...'
-tags: [ tole.es, falda ]
+tags: [ 'tole.es','falda', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

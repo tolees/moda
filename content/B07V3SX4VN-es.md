@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3SX4VN-es TALED - Bolso Bandolera de Piel auténtica de 15 6 Pulgadas...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 97.97 EUR
 currency: EUR
 price: 97.97

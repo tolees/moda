@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H29B3ZL-es ZAFUL Suéter Mujer de Cuello Alto Sueter Básico Corto...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

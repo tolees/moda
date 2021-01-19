@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BJLZPF-es Columbia Powder Pass Chaqueta con Capucha Hombre Gris/Azul...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 64.16 EUR
 currency: EUR
 price: 64.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L1O2S8A-es SKYSPER Hombres Jersey Pantalones Largos Mangas Largas de...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

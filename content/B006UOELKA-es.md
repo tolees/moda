@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006UOELKA-es adidas Spiro espíritu de Equipo Polo Camiseta de la Mujer...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

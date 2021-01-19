@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017YNAGBS-es Gregster Hombre Chaqueta de Esquí - Snowboard - Chaqueta...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 18.06 EUR
 currency: EUR
 price: 18.06

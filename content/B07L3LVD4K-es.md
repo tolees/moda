@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3LVD4K-es GRACE KARIN Mujer Vestido Elegante Años 50 Vestido de...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

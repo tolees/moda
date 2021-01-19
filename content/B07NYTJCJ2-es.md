@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYTJCJ2-es Skechers Stamina Cutback Zapatilla Deportiva con Cordones...'
-tags: [ tole.es, zapatilla ]
+tags: [ 'tole.es','zapatilla', ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

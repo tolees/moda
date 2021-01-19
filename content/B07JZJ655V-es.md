@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZJ655V-es Tommy Hilfiger U Light Down Jacket Chaqueta Verde Olive...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 35.81 EUR
 currency: EUR
 price: 35.81

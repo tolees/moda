@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPKDVQ-es Helly Hansen Logo Hoodie Sudadera Con Capucha Hombre blanco M'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 44.2 EUR
 currency: EUR
 price: 44.2

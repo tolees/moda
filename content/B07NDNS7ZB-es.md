@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNS7ZB-es G-STAR RAW Graphic 14 Core Hooded Sudadera Azul Imperial...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVTVGJ-es Tommy Hilfiger Cheeky String Side Tie Bikini Braguita...'
-tags: [ tole.es, bikini ]
+tags: [ 'tole.es','bikini', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

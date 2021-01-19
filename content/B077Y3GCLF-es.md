@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y3GCLF-es HIKARO Sudadera con Capucha Hombre Gris Grey Marl 52 Talla...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

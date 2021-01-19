@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVBY81F-es Napapijri Berber C Sudadera Verde Green Forest 2 GE3...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

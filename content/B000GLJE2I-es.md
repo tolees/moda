@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GLJE2I-es Ray-Ban - Gafas de sol Aviador RB3025-W3275 Large Metal...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNSQB5D-es Burton Durable Goods Camiseta Hombre True Black S'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 10.51 EUR
 currency: EUR
 price: 10.51

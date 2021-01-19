@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YHMCFSF-es loonBonnie Estilo Coreano Moda Hombres Mujeres Amantes...'
-tags: [ tole.es, moda ]
+tags: [ 'tole.es','moda', ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

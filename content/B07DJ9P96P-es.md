@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ9P96P-es Geox D Marykarmen Mid Sandal E Sandalias con Punta Abierta...'
-tags: [ tole.es, geox, sandalias ]
+tags: [ 'tole.es','geox','sandalias', ]
 actualPrice: 28.66 EUR
 currency: EUR
 price: 28.66

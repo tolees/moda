@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777LWQMV-es JACK & JONES Jjifred Jjoriginal CR 033 STS Vaqueros...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 24 EUR
 currency: EUR
 price: 24

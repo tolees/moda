@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8VJHBC-es Lee CAROL Vaqueros straight Mujer Azul Light Stone Qa W28/L33'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 19.1 EUR
 currency: EUR
 price: 19.1

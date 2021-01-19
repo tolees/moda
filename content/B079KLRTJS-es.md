@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KLRTJS-es Puma Liga CR H Camiseta de Manga Corta Hombre Verde Pepper...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

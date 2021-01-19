@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ7G21K-es adidas Ultimate Adistar Skort Falda Blanco Blanco Dq2127...'
-tags: [ tole.es, falda ]
+tags: [ 'tole.es','falda', ]
 actualPrice: 38.22 EUR
 currency: EUR
 price: 38.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCNQBR7-es Marvel More Than A Fan Mujer Camiseta Negro S 100% algodón...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

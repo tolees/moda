@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZZX3Z1-es Women s Secret Soft Touch 1 St1 Grey PJ Conjuntos de...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

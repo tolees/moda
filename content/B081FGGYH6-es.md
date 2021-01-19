@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081FGGYH6-es BILLABONG™ - Bañador de Surf de pantalón - Hombre - M - Azul'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 21.44 EUR
 currency: EUR
 price: 21.44

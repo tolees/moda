@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D5DNPHS-es Compactor Taupe Home Zapatos Bolsa de Almacenamiento...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

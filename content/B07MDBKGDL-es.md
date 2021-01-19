@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDBKGDL-es G-STAR RAW 3301 High Waist Skinny Vaqueros Azul lt aged...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

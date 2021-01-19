@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRMWCRM-es Columbia Silver Ridge 2.0 Pantalón Capri de Senderismo...'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 6.34 EUR
 currency: EUR
 price: 6.34

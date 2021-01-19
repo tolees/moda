@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGT12H4-es LOHOTEK Guantes Gimnasio Hombre Mujer Guantes Acolchados...'
-tags: [ tole.es, guantes ]
+tags: [ 'tole.es','guantes', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

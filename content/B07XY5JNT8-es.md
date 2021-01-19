@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XY5JNT8-es UNIQUEBELLA Suit Esquí Térmica Ropa Interior Térmica Manga...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1DC86X-es Timberland Perkins Row 2-Strap Sandalias con Punta Abierta...'
-tags: [ tole.es, sandalias, timberland ]
+tags: [ 'tole.es','sandalias','timberland', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

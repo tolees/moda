@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1MNCSF-es New Balance 520v6 Zapatos para Correr para Hombre Negro...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

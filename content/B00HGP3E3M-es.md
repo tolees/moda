@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HGP3E3M-es Joma Suez Pantalón Hombre Rojo L'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

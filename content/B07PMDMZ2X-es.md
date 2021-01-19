@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMDMZ2X-es Only Onlmay S/s Dress Noos Vestido Multicolor Night Sky...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

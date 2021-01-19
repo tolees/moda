@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWYWKHB-es Bolso de viaje 52 cm Pepe Jeans Ason'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

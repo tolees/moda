@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RV4KW3W-es Marca Amazon - find. Divan Botas Clasicas Marrón Wood...'
-tags: [ tole.es, -, find. ]
+tags: [ 'tole.es','-','find.', ]
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K2RLTXM-es Antony Morato Camicia Basica Abbottonatura A Vista Camisa...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 15.65 EUR
 currency: EUR
 price: 15.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813HX1YK-es Marca Amazon - Find. Sandalias abiertas para mujer con...'
-tags: [ tole.es, sandalias, -, find. ]
+tags: [ 'tole.es','sandalias','-','find.', ]
 actualPrice: 10.07 EUR
 currency: EUR
 price: 10.07

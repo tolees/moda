@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005L8V1CC-es Duronic SCK102 Spray Limpiador x2 de 200ml para Pantallas...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

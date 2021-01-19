@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QHAT5X0-es Under Armour UA CG Armour Mock Camiseta de Manga Larga...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 30.7 EUR
 currency: EUR
 price: 30.7

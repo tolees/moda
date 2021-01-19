@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6RMFLY-es GettyGears Bolero - Chaqueta de piel sintética con broche...'
-tags: [ tole.es, abrigo, chaqueta, vestido ]
+tags: [ 'tole.es','abrigo','chaqueta','vestido', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

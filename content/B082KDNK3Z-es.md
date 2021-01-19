@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KDNK3Z-es Calentador de Cera Profesional Nivlan Calentador de Cera...'
-tags: [ tole.es, bikini ]
+tags: [ 'tole.es','bikini', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

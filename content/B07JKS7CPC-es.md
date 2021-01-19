@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKS7CPC-es Amazon Essentials - Chaqueta de uso diario para mujer...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084CP1L6S-es HAWKERS · ONE LS · Frozen rose · Gold · Gafas de sol para...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

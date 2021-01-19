@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4FC4FN-es Wrangler Puffer Jacket Chaqueta Negro Black 100 Large para...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

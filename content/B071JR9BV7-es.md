@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JR9BV7-es Marca Amazon - find. Camisa Hombre Marfil Stone M Label: M'
-tags: [ tole.es, camisa, -, find. ]
+tags: [ 'tole.es','camisa','-','find.', ]
 actualPrice: 5.57 EUR
 currency: EUR
 price: 5.57

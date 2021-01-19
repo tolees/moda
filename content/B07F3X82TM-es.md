@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3X82TM-es Levi s 511 Slim Vaqueros Negro Headed South 2090 28W / 34L...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

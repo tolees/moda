@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN8Y5L8-es MTNG 50740 Sandalias con Plataforma para Mujer Beige Antil...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

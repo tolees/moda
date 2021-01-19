@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088DCNCSG-es Gafas de Natación y Gorro de Natacion Para Hombres Mujeres...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 9.86 EUR
 currency: EUR
 price: 9.86

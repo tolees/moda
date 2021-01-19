@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNTZV8-es Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

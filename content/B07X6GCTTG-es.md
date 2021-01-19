@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X6GCTTG-es Esprit 099Ee1G023 Parka Azul Navy 400 M para Mujer'
-tags: [ tole.es, parka ]
+tags: [ 'tole.es','parka', ]
 actualPrice: 34.91 EUR
 currency: EUR
 price: 34.91

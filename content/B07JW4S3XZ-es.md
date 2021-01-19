@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW4S3XZ-es Hackett Aston Martin Racing Multi tee Camiseta Blanco...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

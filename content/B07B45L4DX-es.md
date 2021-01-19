@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B45L4DX-es SELECTED HOMME Slhslimpreston-Clean Shirt LS B Noos Camisa...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

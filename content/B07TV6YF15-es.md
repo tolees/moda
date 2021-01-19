@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV6YF15-es Levi s 510 Vaqueros Skinny Azul Noce Cool 1051 W34/L32...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

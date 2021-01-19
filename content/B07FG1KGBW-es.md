@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FG1KGBW-es Mujer Maxi Vestido Sexy Sin Mangas Cabestro Backless...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF87VL8-es Levi s Original Hm Icon Crew Sudadera Azul Sodalite Blue...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

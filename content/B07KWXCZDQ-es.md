@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWXCZDQ-es SMARTEN Air Zapatillas de Running Hombre Mujer Calzado...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

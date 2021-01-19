@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYTPMD5-es BOSS Delaware BC-l-c Vaqueros Slim Azul Dark Blue 407...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 30.97 EUR
 currency: EUR
 price: 30.97

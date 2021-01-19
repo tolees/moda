@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLJCLS3-es Calvin Klein 2pk Tees Top de Pijama Blanco 1white/1unique...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8PHV61-es Marca Amazon - IRIS & LILLY Picardías Mujer Gris Grey Grey...'
-tags: [ tole.es, iris, &, lilly ]
+tags: [ 'tole.es','iris','&','lilly', ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

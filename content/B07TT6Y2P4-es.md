@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT6Y2P4-es Levi s The tee Camiseta Negro 90 s Serif T2 Caviar 0959...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

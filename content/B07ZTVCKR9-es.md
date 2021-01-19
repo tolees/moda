@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTVCKR9-es Nike Air MAX Invigor Zapatilla de Correr para Hombre Smoke...'
-tags: [ tole.es, zapatilla ]
+tags: [ 'tole.es','zapatilla', ]
 actualPrice: 50.83 EUR
 currency: EUR
 price: 50.83

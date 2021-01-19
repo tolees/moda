@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJW8HK-es Geox U Snake.2 A Zapatillas para Hombre Gris Grey/Lt Grey...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 56.14 EUR
 currency: EUR
 price: 56.14

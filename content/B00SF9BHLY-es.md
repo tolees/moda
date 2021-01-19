@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SF9BHLY-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Medium Aged...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

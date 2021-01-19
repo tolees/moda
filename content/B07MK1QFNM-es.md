@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK1QFNM-es Napapijri GOAYO Camisa Casual Rojo Red Check 13C L para...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 24.57 EUR
 currency: EUR
 price: 24.57

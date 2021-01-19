@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLXXNX5-es Springfield 3Ip Offline-c/08 Camiseta Dorado Gold/Mustard...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSFQK3G-es Wrangler LS 1 Pkt Shirt Camisa Rojo Formula Red Xwo...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

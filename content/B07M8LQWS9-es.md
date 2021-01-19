@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8LQWS9-es Wrangler Logo Sweat Sudadera Verde Pine G01 Large para Mujer'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 14.02 EUR
 currency: EUR
 price: 14.02

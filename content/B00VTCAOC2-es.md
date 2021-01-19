@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VTCAOC2-es COOFIT Bolsos de Mujer Bolso Bandolera Lona Bolsos de...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

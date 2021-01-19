@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779FGLV5-es Pepe Jeans AMERSHAM PM504034 Camiseta Gris Middle Grey 925...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

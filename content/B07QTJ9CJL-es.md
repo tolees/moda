@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTJ9CJL-es wilbest® Cartera Hombre Cartera RFID Billetera de Hombre...'
-tags: [ tole.es, billetera ]
+tags: [ 'tole.es','billetera', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

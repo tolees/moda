@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHPP4F1-es LTB Jeans Valerie Vaqueros Corte de Bota Azul Nome Wash...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 31.41 EUR
 currency: EUR
 price: 31.41

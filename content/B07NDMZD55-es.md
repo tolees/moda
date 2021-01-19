@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMZD55-es G-STAR RAW Motac Slim Round Neck Sudadera Gris Granite Htr...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 42.56 EUR
 currency: EUR
 price: 42.56

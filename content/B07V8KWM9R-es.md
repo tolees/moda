@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8KWM9R-es Calvin Klein Instit Chest Logo Mock Neck Sudadera Gris Mid...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 49.07 EUR
 currency: EUR
 price: 49.07

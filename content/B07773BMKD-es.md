@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07773BMKD-es Tommy Hilfiger Original Stretch Camisa Azul Black Iris 002...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 43.7 EUR
 currency: EUR
 price: 43.7

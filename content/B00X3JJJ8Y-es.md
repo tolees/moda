@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X3JJJ8Y-es G-Star 60885 Vaqueros para Mujer Azul Medium Aged 6131...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCTVMJ8-es adidas T19 SS JSY M Camiseta de Manga Corta Hombre Power...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 11.82 EUR
 currency: EUR
 price: 11.82

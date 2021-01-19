@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRB3PDZ-es FitFlop Twiss Sandalias de Punta Descubierta para Mujer...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 42.92 EUR
 currency: EUR
 price: 42.92

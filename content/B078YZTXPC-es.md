@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YZTXPC-es Marca Amazon - MERAKI Sudadera con Capucha Hombre Negro...'
-tags: [ tole.es, meraki, sudadera ]
+tags: [ 'tole.es','meraki','sudadera', ]
 actualPrice: 9.37 EUR
 currency: EUR
 price: 9.37

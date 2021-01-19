@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8HXF42-es Only NOS Onlblush Mid SK ANK Raw Colour Jea Noos Vaqueros...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

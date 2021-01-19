@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084LDXKYK-es Syllana 2 PCS Bolsa de Lavadora para Zapatos Bolsa de...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

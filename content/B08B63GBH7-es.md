@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B63GBH7-es Reloj de Cuarzo Deportivo Casual de Moda para Hombres y...'
-tags: [ tole.es, moda ]
+tags: [ 'tole.es','moda', ]
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

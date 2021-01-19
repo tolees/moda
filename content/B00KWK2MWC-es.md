@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KWK2MWC-es Geox U Nebula B - Zapatos para hombre Negro 46 EU'
-tags: [ tole.es, geox, zapatos ]
+tags: [ 'tole.es','geox','zapatos', ]
 actualPrice: 86.44 EUR
 currency: EUR
 price: 86.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZTF3DS-es Skechers Reggae Slim-Vacay Sandalias de Talón Abierto para...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 40.82 EUR
 currency: EUR
 price: 40.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W35QBQY-es Pepe Jeans Marke Camiseta Azul Old Navy 584 Medium para...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

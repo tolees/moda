@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWKXZC6-es BILLABONG Tendencies Crew Sudadera Hombre Negro Black 19...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 25.21 EUR
 currency: EUR
 price: 25.21

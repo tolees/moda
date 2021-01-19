@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGHXZHL-es JACK & JONES Jorseth Jacket Chaqueta Rojo Brick Red...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

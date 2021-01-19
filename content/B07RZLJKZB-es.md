@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLJKZB-es Levi s 511 Slim Fit Vaqueros Biologia Adv 4102 40W / 34L...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

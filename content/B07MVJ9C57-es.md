@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJ9C57-es Kipling Creativity S Monedero para Mujer Gris Night Grey...'
-tags: [ tole.es, monedero ]
+tags: [ 'tole.es','monedero', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

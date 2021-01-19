@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJWXJ6H-es El Naturalista N5353 VAQUETILLA Aqua Sandalias con Correa...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

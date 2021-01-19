@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6ZGVBN-es DOACT Chaleco Calefactable Exteriores Chaqueta...'
-tags: [ tole.es, chaleco, chaqueta ]
+tags: [ 'tole.es','chaleco','chaqueta', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

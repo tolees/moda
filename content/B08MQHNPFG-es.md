@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08MQHNPFG-es Geographical Norway Chaqueta de hombre BOKER AZUL MARINO...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9
@@ -26,8 +26,8 @@ En este momento está [Geographical Norway Chaqueta de hombre BOKER AZUL MARINO 
 
 🔎:
 
-- pelo destomtable
 - Capucha
 - Chaqueta de hombre
+- pelo destomtable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MQHNPFG/?tag=tolees-21)

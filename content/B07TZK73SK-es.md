@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZK73SK-es BOSS Brief 3p Co/El Bóxer Multicolor Open Miscellaneous L...'
-tags: [ tole.es, bóxer ]
+tags: [ 'tole.es','bóxer', ]
 actualPrice: 31.07 EUR
 currency: EUR
 price: 31.07

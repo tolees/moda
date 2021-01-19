@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077P7WPJ1-es DIDINSKY Gafas de lectura sin patillas graduadas para...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

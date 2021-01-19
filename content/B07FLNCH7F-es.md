@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLNCH7F-es David Jones - Pequeño Bolso Bandolera Cadena Mujer -...'
-tags: [ tole.es, bolso, moda ]
+tags: [ 'tole.es','bolso','moda', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FL4DZS-es Oihxse Funda con Huawei Enjoy 7/Y6 Pro 2017 Cuero PU...'
-tags: [ tole.es, billetera ]
+tags: [ 'tole.es','billetera', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

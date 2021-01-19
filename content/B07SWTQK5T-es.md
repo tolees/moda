@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTQK5T-es Geox D AIRELL C Zapatillas para Mujer Blanco White C1000...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 41.98 EUR
 currency: EUR
 price: 41.98

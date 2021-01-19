@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG2HDLR-es Geox D HOSMOS B ABX B Botas de Nieve para Mujer Negro...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 43.18 EUR
 currency: EUR
 price: 43.18

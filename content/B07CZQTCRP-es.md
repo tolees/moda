@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZQTCRP-es Under Armour Sportstyle Terry H Sudadera con Capucha...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 30.19 EUR
 currency: EUR
 price: 30.19

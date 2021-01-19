@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B68Z6LW-es JACK & JONES Jjegingham Shirt L/s Camisa Multicolor Brick...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

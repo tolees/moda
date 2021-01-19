@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ENTYDD4-es The North Face M Resolve Chaqueta Hombre TNF Red/Cardina M'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 59.44 EUR
 currency: EUR
 price: 59.44

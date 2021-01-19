@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNSB9VJ-es Marca Amazon - find. Kitten Heel Court Zapatos de tacón...'
-tags: [ tole.es, zapatos, -, find. ]
+tags: [ 'tole.es','zapatos','-','find.', ]
 actualPrice: 6.78 EUR
 currency: EUR
 price: 6.78

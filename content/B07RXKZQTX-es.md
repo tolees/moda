@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXKZQTX-es Levi s 511 Slim Fit Jeans Pantalón vaquero elástico y con...'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

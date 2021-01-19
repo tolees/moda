@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZY5LM-es Geox D ANNYTAH D Bailarinas para Mujer Azul Navy C4002 42 EU'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 40.66 EUR
 currency: EUR
 price: 40.66

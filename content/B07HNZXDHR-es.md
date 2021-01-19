@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNZXDHR-es Alvivi Chaqueta de Piel Sintética Bebé Bolero Blanco Boda...'
-tags: [ tole.es, abrigo, chaqueta, vestido ]
+tags: [ 'tole.es','abrigo','chaqueta','vestido', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

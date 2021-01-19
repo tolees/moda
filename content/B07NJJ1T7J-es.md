@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJJ1T7J-es Tamaris 1-1-25356-23 Botines para Mujer Marrón Antelope...'
-tags: [ tole.es, botines ]
+tags: [ 'tole.es','botines', ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

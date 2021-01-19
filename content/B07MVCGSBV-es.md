@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVCGSBV-es Napapijri Soves Camiseta Negro Black 041 Medium para Hombre'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

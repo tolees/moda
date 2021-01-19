@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFL2PQF-es HUGO 734 Vaqueros Skinny Gris Medium Grey 30 W30/L30 Talla...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 85.69 EUR
 currency: EUR
 price: 85.69

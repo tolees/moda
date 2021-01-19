@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSN2WLP-es Rockport Dress Sport 2 Fast FLT Plain Toe Zapatos de...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

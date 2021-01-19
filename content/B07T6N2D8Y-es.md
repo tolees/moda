@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6N2D8Y-es Timberland Classic 2 Eye Náuticos para Hombre Beige Light...'
-tags: [ tole.es, timberland ]
+tags: [ 'tole.es','timberland', ]
 actualPrice: 68.95 EUR
 currency: EUR
 price: 68.95

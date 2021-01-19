@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKPXFFZ-es Pepe Jeans Grace Sudadera Amarillo 031lemon 031 X-Large...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 15.91 EUR
 currency: EUR
 price: 15.91

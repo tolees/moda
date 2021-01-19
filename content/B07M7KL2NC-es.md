@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7KL2NC-es Pikolinos Cadaques W8k_v19 Sandalias de Punta Descubierta...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 52.04 EUR
 currency: EUR
 price: 52.04

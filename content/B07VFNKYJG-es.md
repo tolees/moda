@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFNKYJG-es Desigual Bols rhapsody Durban - Bolso bandolera 4 x 17 5 x...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

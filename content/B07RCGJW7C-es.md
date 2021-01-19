@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCGJW7C-es Columbia Marquam Peak Chaqueta Hombre Marrón Camel Brown M'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 102.95 EUR
 currency: EUR
 price: 102.95

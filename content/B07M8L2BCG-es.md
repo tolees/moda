@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L2BCG-es Lee Rider Jeans Vaqueros Dark Marine 31W / 34L para Hombre'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

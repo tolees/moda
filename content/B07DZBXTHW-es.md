@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZBXTHW-es Bebé Pelele de Algodón Mameluco Béisbol Trajes Niños Niñas...'
-tags: [ tole.es, pelele ]
+tags: [ 'tole.es','pelele', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZHQ2K5-es Joma Equip. M/c Hombre Camiseta hispa Rojo-Blanco 2XL-3XL'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

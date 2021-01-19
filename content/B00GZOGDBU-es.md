@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GZOGDBU-es Joma Suez Pantalón Hombre Azul Marino S'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

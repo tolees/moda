@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GRJP1SS-es Columbia Techsun™ Vent Sandalias para Niñas Gris...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

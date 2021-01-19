@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ3PTQB-es Geox D Annytah D Bailarinas para Mujer Blanco White C1000...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 61.13 EUR
 currency: EUR
 price: 61.13

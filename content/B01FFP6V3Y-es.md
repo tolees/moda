@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFP6V3Y-es Under Armour Tech Tank-Twist Camiseta sin Mangas Mujer...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

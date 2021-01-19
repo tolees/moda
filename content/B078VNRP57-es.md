@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078VNRP57-es B BIDEN BLDEN Mujer Grande Gafas De Sol moda polarizadas...'
-tags: [ tole.es, gafas, moda ]
+tags: [ 'tole.es','gafas','moda', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

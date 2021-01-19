@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL67QDD-es NIKE M Polo TM Club19 SS Camiseta Hombre Blanco...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

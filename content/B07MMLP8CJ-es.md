@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLP8CJ-es Napapijri DAMAVAND V Jersey Rojo Red Scarlet R01 M para...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 29.76 EUR
 currency: EUR
 price: 29.76

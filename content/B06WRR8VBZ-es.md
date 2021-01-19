@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRR8VBZ-es Gant Stretch Oxford-Solid Shirt Blusa Rosa Light Pink 662...'
-tags: [ tole.es, blusa ]
+tags: [ 'tole.es','blusa', ]
 actualPrice: 57.1 EUR
 currency: EUR
 price: 57.1

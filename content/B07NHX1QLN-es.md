@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHX1QLN-es Springfield FQ. Apuesta Animal P Camisa Multicolor...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

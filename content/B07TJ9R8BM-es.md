@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9R8BM-es Levi s SS Classic 1 Pkt Standrd Camisa Azul Austin...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 21.57 EUR
 currency: EUR
 price: 21.57

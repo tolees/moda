@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFDVT9L-es JACK & JONES Jorvincey Sweat Zip Hood Chaleco Deportivo...'
-tags: [ tole.es, chaleco ]
+tags: [ 'tole.es','chaleco', ]
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

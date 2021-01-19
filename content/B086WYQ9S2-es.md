@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086WYQ9S2-es AARDIMI - Sandalias para mujer sandalias con tacón plano...'
-tags: [ tole.es, sandalias, zapatos ]
+tags: [ 'tole.es','sandalias','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

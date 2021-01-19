@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QJCLG7-es Tom Tailor Logo T-Shirt Camiseta 12880 XXXL para Hombre'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 4.84 EUR
 currency: EUR
 price: 4.84

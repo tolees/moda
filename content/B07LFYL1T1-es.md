@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYL1T1-es Geox J GRAYJAY Boy C Zapatillas Altas para Niños Azul Navy...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

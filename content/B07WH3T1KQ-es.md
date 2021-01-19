@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WH3T1KQ-es Marca Amazon - find. Mujer Vestido Midi Cruzado de Flores...'
-tags: [ tole.es, vestido, -, find. ]
+tags: [ 'tole.es','vestido','-','find.', ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

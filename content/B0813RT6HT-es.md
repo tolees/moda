@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813RT6HT-es adidas Fef Pre Jkt Chaqueta de Deporte Hombre Collegiate...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 41.46 EUR
 currency: EUR
 price: 41.46

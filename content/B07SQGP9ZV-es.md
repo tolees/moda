@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGP9ZV-es Geox U Timothy A Zapatos de Cordones Derby para Hombre...'
-tags: [ tole.es, geox, zapatos ]
+tags: [ 'tole.es','geox','zapatos', ]
 actualPrice: 33.51 EUR
 currency: EUR
 price: 33.51

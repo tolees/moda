@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779CZYRD-es Adidas Ref18 JSY Camiseta de Manga Corta Hombre Black XS'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 21.76 EUR
 currency: EUR
 price: 21.76

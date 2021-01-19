@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WWTMHR-es PUMA Liga Jersey Camiseta Hombre Negro Black/White 2XL'
-tags: [ tole.es, camiseta, jersey ]
+tags: [ 'tole.es','camiseta','jersey', ]
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

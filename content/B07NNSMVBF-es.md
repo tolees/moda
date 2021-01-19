@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNSMVBF-es Under Armour UA Tech 2.0 SS Tee Novelty Camiseta Para...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

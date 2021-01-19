@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS75JB3-es JACK & JONES Jcosteve Shirt LS Worker Camisa Azul Chambray...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 12.42 EUR
 currency: EUR
 price: 12.42

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YV7B82D-es Jack & Jones Jprlogo BLU. tee SS Crew Neck Pre Camiseta...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

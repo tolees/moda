@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2P0K6C-es KRISP 6610-CORBLK-08 Vestido Corto Patinadora Vuelo...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

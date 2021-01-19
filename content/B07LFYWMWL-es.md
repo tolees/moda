@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYWMWL-es Geox U Terence C Botines para Hombre Marrón Cognac C6001...'
-tags: [ tole.es, botines, geox ]
+tags: [ 'tole.es','botines','geox', ]
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

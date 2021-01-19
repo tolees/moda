@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072R3LYZX-es BOSS Trunk BF Original Bóxer Negro Black 001 Medium para...'
-tags: [ tole.es, bóxer ]
+tags: [ 'tole.es','bóxer', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

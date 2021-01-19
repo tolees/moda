@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX751Y-es Pepe Jeans Jett Camiseta Azul Deep Sea 597 Small para Hombre'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

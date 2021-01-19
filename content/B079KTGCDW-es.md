@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KTGCDW-es Foino Bolso de Moda Bolso Bandolera Mujer Bolsas de Viaje...'
-tags: [ tole.es, bolso, moda ]
+tags: [ 'tole.es','bolso','moda', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

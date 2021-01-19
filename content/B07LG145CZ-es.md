@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG145CZ-es Geox J Casey Girl WPF C Botas Militar para Niñas Negro...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 26.82 EUR
 currency: EUR
 price: 26.82

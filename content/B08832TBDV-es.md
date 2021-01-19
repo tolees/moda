@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08832TBDV-es Dragon Ball T-Shirts 3D Impresión Camisetas de Manga Corta...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

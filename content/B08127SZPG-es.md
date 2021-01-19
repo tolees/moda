@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08127SZPG-es Jack & Jones JPRBLUWIN Polo SS STS Camisa Azul Marino XL...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

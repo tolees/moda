@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YDTT7Q-es HIKARO Sudadera con Cremallera y Capucha Mujer Rosa Coral...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

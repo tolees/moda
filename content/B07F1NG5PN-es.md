@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1NG5PN-es Levi s Graphic tee-B Camiseta Negro Hm LS Better Black...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

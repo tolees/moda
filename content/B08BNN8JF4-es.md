@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNN8JF4-es NEWHEY Bolsa Mensajero Maletin Hombre Vintage Resistentes...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 37.86 EUR
 currency: EUR
 price: 37.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7P9LKF-es Morgan 192-rdenty.p Vestido Negro Noir Noir 36 Talla del...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

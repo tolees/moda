@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0747NW6ZR-es Timberland Courmayeur Valley Zapatillas Chukka para Mujer...'
-tags: [ tole.es, timberland ]
+tags: [ 'tole.es','timberland', ]
 actualPrice: 108.86 EUR
 currency: EUR
 price: 108.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L3TN1-es Lee Plain Crew Neck SWS Sudadera Azul Frost Blue MJ Large...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 20.68 EUR
 currency: EUR
 price: 20.68

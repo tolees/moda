@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012A3HYI0-es Geox D Nebula a Zapatillas para Mujer Negro BLACKC9999 36 EU'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 62.5 EUR
 currency: EUR
 price: 62.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK53D3H-es Geox J Alben D Zapatillas para Niños Azul Navy/Red C0735...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 54.32 EUR
 currency: EUR
 price: 54.32

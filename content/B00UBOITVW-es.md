@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBOITVW-es Tommy Hilfiger 3p Trunk Bóxer Blanco White/Tango...'
-tags: [ tole.es, bóxer ]
+tags: [ 'tole.es','bóxer', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086W43CMM-es MagiDeal Dentición Collar De Cuentas Babyteether Plana De...'
-tags: [ tole.es, collar ]
+tags: [ 'tole.es','collar', ]
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

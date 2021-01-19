@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVRDT6Y-es Pepe Jeans Golders Camiseta Azul Light Thames 533 X-Small...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

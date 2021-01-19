@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W5N8C4Z-es Tommy Hilfiger Bikini con Inserción de Malla Braguitas con...'
-tags: [ tole.es, bikini ]
+tags: [ 'tole.es','bikini', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

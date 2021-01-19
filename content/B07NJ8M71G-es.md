@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ8M71G-es Springfield 7.J.Ap.T.Turtle Neck Jersey Azul Azul 19 Large...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y3RJNYG-es Jack & Jones Jorbasic SS tee Crew Neck 3-Pack Logo Ka...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

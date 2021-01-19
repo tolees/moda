@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6TWYQN-es Columbia Pike Lake Chaqueta Mujer Rojo Red Lily M'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 43.59 EUR
 currency: EUR
 price: 43.59

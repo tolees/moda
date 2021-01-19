@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07556QBVJ-es Salomon Camiseta deportiva de manga corta AGILE SS tejido...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

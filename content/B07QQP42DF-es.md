@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQP42DF-es Anyeat Hormas para Zapatos 1 par Árbol del zapato Árbol...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

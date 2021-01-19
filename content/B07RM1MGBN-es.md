@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM1MGBN-es BAIGIO Maletín de Cuero Genuino Vintage Bolso Hombre...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 39.58 EUR
 currency: EUR
 price: 39.58

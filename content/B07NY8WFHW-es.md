@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY8WFHW-es lodi ESIN Botines para Mujer Negro Glove Negro Glove Negro...'
-tags: [ tole.es, botines ]
+tags: [ 'tole.es','botines', ]
 actualPrice: 129.74 EUR
 currency: EUR
 price: 129.74

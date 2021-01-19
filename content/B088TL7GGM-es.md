@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TL7GGM-es Ququcheng Funda Compatible con Huawei P Smart 2019 Cuerda...'
-tags: [ tole.es, collar ]
+tags: [ 'tole.es','collar', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EHVY666-es Antony Morato Camicia con Contrasto Collo E Interno Finta...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 24 EUR
 currency: EUR
 price: 24

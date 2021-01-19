@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001RADKYK-es Widmann -Conjunto de motorista - guantes 2 pulseras collar...'
-tags: [ tole.es, collar, guantes ]
+tags: [ 'tole.es','collar','guantes', ]
 actualPrice: 9.13 EUR
 currency: EUR
 price: 9.13

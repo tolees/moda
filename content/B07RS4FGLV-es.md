@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS4FGLV-es Q/S designed by 40.907.32.5405 Camiseta Blanco White 0100...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 8.43 EUR
 currency: EUR
 price: 8.43

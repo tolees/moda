@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH4XSNZ-es Pepe Jeans Duff LS Pm506549 Camiseta Sailor 580 XX-Large...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 10.74 EUR
 currency: EUR
 price: 10.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ4CDM6-es adidas Estro 19 JSY Camiseta de Manga Corta Niños White 1314Y'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDQRQXV-es Tommy Hilfiger TJM Novel Logo Crew Jersey de Deporte Gris...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 31.05 EUR
 currency: EUR
 price: 31.05

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PKYXSV3-es New Balance 574v2 Zapatilla Baja de Deporte para Hombre...'
-tags: [ tole.es, zapatilla ]
+tags: [ 'tole.es','zapatilla', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

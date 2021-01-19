@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQM2Q1X-es Under Armour Field Player s Glove 2.0 Guantes Hombre Negro...'
-tags: [ tole.es, guantes ]
+tags: [ 'tole.es','guantes', ]
 actualPrice: 15.73 EUR
 currency: EUR
 price: 15.73

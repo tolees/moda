@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDS1BB9-es Geox U Mattias B ABX A Botas Chukka para Hombre Azul Navy...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

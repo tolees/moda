@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I7OD03U-es Polaroid P7334 RC 9CA Gafas de sol Negro Black/Green...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Z7QXSF-es Jack & Jones JJEPAULOS Polo SS Noos Camisa Azul Vaquero...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

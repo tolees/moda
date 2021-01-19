@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8GMP69-es bedee Chaqueta Impermeable para Lluvia Ligera de Mujer...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

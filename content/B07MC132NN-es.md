@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC132NN-es Clarks Un Venture Low Zapatos de Cordones Derby para...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 39.86 EUR
 currency: EUR
 price: 39.86

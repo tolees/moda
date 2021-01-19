@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QV7QKP2-es flintronic Cartera Hombre Triple Pliegue Slim Billetera de...'
-tags: [ tole.es, billetera, monedero ]
+tags: [ 'tole.es','billetera','monedero', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

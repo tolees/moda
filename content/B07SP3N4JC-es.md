@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP3N4JC-es Havaianas Flash Urban Plus Sandalias de Talón Abierto para...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 17.55 EUR
 currency: EUR
 price: 17.55

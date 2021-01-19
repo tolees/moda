@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F4PNC-es Wrangler LS Western Shirt Camisa Amarillo Mineral Yellow...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 37.48 EUR
 currency: EUR
 price: 37.48

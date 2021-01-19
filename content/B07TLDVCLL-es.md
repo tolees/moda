@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLDVCLL-es FM London Fitted Boxer Azul Dark Assorted 03 Medium Pack...'
-tags: [ tole.es, boxer ]
+tags: [ 'tole.es','boxer', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

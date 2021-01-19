@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFFPK8F-es VECDY Ropa Mujer Blusas Elegante 2019 Solapa para Mujer...'
-tags: [ tole.es, abrigo, chaqueta ]
+tags: [ 'tole.es','abrigo','chaqueta', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

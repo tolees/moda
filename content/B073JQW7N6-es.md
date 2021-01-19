@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JQW7N6-es find. Camisa de Algodón Hombre Azul Navy 54 Talla del...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

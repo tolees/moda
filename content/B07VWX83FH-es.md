@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX83FH-es Pepe Jeans West Sir Camiseta Azul Dark Acqua 518 Small...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

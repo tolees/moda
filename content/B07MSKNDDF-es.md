@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSKNDDF-es Clarks Becken Lace Zapatos de Cordones Brogue para Hombre...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

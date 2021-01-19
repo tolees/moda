@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MRT86D0-es REPLAY MA955 Newbill Vaqueros Straight Azul Dark Blue...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 32.01 EUR
 currency: EUR
 price: 32.01

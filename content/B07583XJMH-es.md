@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07583XJMH-es The North Face T934VX Pantalón Infantil con Tirantes...'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 41.33 EUR
 currency: EUR
 price: 41.33

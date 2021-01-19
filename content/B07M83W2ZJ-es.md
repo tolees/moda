@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M83W2ZJ-es Napapijri Rainforest Pocket Chaqueta Verde Hunter Green 2...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 77.08 EUR
 currency: EUR
 price: 77.08

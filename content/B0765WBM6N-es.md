@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765WBM6N-es Levi s Relaxed Graphic Crew Sudadera Blanco Better Batwing...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 32.16 EUR
 currency: EUR
 price: 32.16

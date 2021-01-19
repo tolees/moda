@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FO0QZIQ-es Timberland Waterville 6 Inch Double Collar Waterproof...'
-tags: [ tole.es, collar, timberland ]
+tags: [ 'tole.es','collar','timberland', ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

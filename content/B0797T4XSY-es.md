@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797T4XSY-es adidas CY7875 Sudadera de Hombre Color Cortiz'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 26.82 EUR
 currency: EUR
 price: 26.82

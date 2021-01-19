@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M89FB5L-es Lee Luke Vaqueros Moto Trashed Jr 33W / 34L para Hombre'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 39.78 EUR
 currency: EUR
 price: 39.78

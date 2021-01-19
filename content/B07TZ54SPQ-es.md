@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ54SPQ-es Women s Secret Black & White Multilicense Mbw MF Igloo PJ...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

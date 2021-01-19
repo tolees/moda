@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHTVWJM-es Desigual Vest Cuautitlá Vestido Blanco Blanco 1000 4 años...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 15.22 EUR
 currency: EUR
 price: 15.22

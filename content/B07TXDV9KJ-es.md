@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXDV9KJ-es Levi s Orig Hm Vneck Camiseta Negro Mineral Black 0001...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

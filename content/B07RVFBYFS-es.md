@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVFBYFS-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Azul Medium...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 40.37 EUR
 currency: EUR
 price: 40.37

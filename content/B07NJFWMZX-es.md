@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJFWMZX-es Springfield 4.1.Gym.Skinny Cropped Ro Vaqueros Straight...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

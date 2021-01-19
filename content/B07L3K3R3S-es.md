@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3K3R3S-es Marca Amazon - find. Vestido Midi Camisero de Lino Mujer...'
-tags: [ tole.es, vestido, -, find. ]
+tags: [ 'tole.es','vestido','-','find.', ]
 actualPrice: 11.17 EUR
 currency: EUR
 price: 11.17

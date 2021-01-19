@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SP1ZM9-es Gifort Rotuladores para Tela Permanentes 24 Colores...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

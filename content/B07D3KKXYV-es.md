@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3KKXYV-es Marca Amazon - IRIS & LILLY BELK315M2 Legging para Mujer...'
-tags: [ tole.es, iris, &, lilly ]
+tags: [ 'tole.es','iris','&','lilly', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

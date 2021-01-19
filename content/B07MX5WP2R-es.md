@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MX5WP2R-es Levi s 501 Crop Vaqueros Boyfriend Blanco In The Clouds...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

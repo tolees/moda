@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0764KV9CR-es Kipling ARTO Bolso bandolera para Mujer Marrón True Beige...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 47.71 EUR
 currency: EUR
 price: 47.71

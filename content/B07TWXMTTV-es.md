@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXMTTV-es Women s Secret The Lion King LK DS Life PJ FR Conjuntos de...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 15.7 EUR
 currency: EUR
 price: 15.7

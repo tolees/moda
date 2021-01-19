@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC472PV-es Tommy Hilfiger John Cargo Short Light Twill Vaqueros...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

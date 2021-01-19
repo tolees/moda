@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5FCXCM-es El Naturalista N5144 Botines para Mujer Marrón Wood Wood...'
-tags: [ tole.es, botines ]
+tags: [ 'tole.es','botines', ]
 actualPrice: 27.85 EUR
 currency: EUR
 price: 27.85

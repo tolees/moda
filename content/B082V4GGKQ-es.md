@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V4GGKQ-es Canadian Peak Abrigo'
-tags: [ tole.es, abrigo ]
+tags: [ 'tole.es','abrigo', ]
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

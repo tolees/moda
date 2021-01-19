@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9WV9M-es JACK & JONES Jcowill Puffer Chaqueta Azul Navy Blazer...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 23.12 EUR
 currency: EUR
 price: 23.12

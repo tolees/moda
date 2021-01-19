@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TQFHQL-es adidas Fef Camiseta Polo Hombre Collegiate Navy L'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 18.21 EUR
 currency: EUR
 price: 18.21

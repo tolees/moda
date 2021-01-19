@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DHBXY-es Lee Luke Vaqueros Forest Night 31W / 34L para Hombre'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 22.63 EUR
 currency: EUR
 price: 22.63

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Z2LKLZ-es Jack & Jones JJEPAULOS Polo SS Noos Camisa Ojo XL para Hombre'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

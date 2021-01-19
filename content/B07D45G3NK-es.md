@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D45G3NK-es Tommy Hilfiger TJM Tommy Classics Logo tee Camisa Gris Lt...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

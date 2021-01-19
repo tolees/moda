@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YP6V2J-es HIKARO Sudadera Logo Hombre Verde Khaki 48 Talla del...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 16.66 EUR
 currency: EUR
 price: 16.66

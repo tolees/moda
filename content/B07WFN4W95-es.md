@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFN4W95-es Jack & Jones JORWONTON Sweat Hood Sudadera con Capucha...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 7.74 EUR
 currency: EUR
 price: 7.74

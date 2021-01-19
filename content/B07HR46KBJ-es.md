@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HR46KBJ-es Jack & Jones Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTTSSM-es Geox U Moner V Mocasines para Hombre Azul Avio C4005 43 5 EU'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

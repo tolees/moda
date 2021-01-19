@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J3QUQU6-es uhlsport Match Classic De Mujer Chaqueta De Entrenamiento...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

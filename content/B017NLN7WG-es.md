@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017NLN7WG-es HUGO Elisha01 Camisa Blanco Open White 199 X-Large Talla...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

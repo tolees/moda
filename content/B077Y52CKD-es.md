@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y52CKD-es HIKARO Chaqueta con Cremallera y Capucha Hombre Rojo...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

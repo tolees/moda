@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMZQ8NN-es Crocs Crocband Flip Chanclas Unisex-Adult Grey Light...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

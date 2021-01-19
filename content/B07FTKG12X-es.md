@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTKG12X-es Lee Brooklyn Vaqueros Straight Azul Dark Stone Xg 32W /...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 41.31 EUR
 currency: EUR
 price: 41.31

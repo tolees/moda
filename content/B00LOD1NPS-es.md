@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LOD1NPS-es The North Face Evolution II Triclimate Chaqueta Hombre...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 136.99 EUR
 currency: EUR
 price: 136.99

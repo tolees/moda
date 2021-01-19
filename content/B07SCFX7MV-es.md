@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCFX7MV-es adidas Mh Plain tee Camiseta de Manga Corta Hombre Medium...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 9.61 EUR
 currency: EUR
 price: 9.61

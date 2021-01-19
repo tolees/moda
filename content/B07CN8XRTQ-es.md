@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8XRTQ-es Crocs Crocband U Zuecos Unisex Adulto Azul Blue Jean-Pool...'
-tags: [ tole.es, zuecos ]
+tags: [ 'tole.es','zuecos', ]
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

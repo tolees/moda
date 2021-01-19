@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073GYK1VC-es Marca Amazon - find. Off The Shoulder Button Camisa para...'
-tags: [ tole.es, camisa, -, find. ]
+tags: [ 'tole.es','camisa','-','find.', ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

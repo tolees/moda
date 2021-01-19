@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3SPBNC-es Desigual Pullover MARYLEBONE Jersey Negro Storm Front 2104...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTYHBG-es Geox D Sandal Vega A Sandalias con Punta Abierta para...'
-tags: [ tole.es, geox, sandalias ]
+tags: [ 'tole.es','geox','sandalias', ]
 actualPrice: 50.62 EUR
 currency: EUR
 price: 50.62

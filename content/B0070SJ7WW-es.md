@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0070SJ7WW-es Timberland Stormbucks PT Zapatos de Cordones Oxford para...'
-tags: [ tole.es, timberland, zapatos ]
+tags: [ 'tole.es','timberland','zapatos', ]
 actualPrice: 85.3 EUR
 currency: EUR
 price: 85.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075D7MLRT-es IRIS & LILLY BLIC002 sujetadores Beige Nude 100A Talla del...'
-tags: [ tole.es, iris, &, lilly ]
+tags: [ 'tole.es','iris','&','lilly', ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

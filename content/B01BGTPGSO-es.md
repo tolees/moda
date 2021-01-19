@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTPGSO-es G-STAR RAW Core Super Slim Camisa Blanco White 110 XXS...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

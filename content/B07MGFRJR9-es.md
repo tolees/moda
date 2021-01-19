@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRJR9-es Napapijri Burgee 2 Sudadera con Capucha Verde Green Forest...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

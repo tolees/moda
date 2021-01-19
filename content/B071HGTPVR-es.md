@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HGTPVR-es LANGRIA Perchero de Pie Metálico Multiusos de Entrada con...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010WE7KDS-es Crocs Classic U Zuecos Unisex Adulto Lemon 43/44 EU'
-tags: [ tole.es, zuecos ]
+tags: [ 'tole.es','zuecos', ]
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

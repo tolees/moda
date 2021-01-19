@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0836T9TMB-es Casual Slipper Flip Flop Sandal Zapatillas para Mujer...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

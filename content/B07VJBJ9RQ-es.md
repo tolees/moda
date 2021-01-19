@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJBJ9RQ-es Esprit 099ee1j024 Sudadera Rojo Red 630 X-Large para Mujer'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 17.12 EUR
 currency: EUR
 price: 17.12

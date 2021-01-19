@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773KM9VS-es KONXIDO Serie de Moda Reloj Hombre Limunoso Impermeable de...'
-tags: [ tole.es, moda ]
+tags: [ 'tole.es','moda', ]
 actualPrice: 13.03 EUR
 currency: EUR
 price: 13.03

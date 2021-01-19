@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814BBR2T-es Columbia Delta Ridge Chaqueta con Capucha Hombre Azul...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 83.49 EUR
 currency: EUR
 price: 83.49

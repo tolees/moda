@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GWX255Q-es Geox U New Damon B Mocasines para Hombre Negro BLACKC9999...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 75.96 EUR
 currency: EUR
 price: 75.96

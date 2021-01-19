@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4BR8SF-es United Colors of Benetton Basico 2 Man Camiseta de Manga...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

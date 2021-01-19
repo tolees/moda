@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K23SVKW-es Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce...'
-tags: [ tole.es, blusa, camiseta, moda ]
+tags: [ 'tole.es','blusa','camiseta','moda', ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

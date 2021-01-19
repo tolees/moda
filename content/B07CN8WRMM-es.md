@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8WRMM-es Crocs Classic II Slide Zapatos de Playa y Piscina Unisex...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

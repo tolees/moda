@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLYG7C-es Geox D Myria B Zapatillas Altas para Mujer Blanco...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 54.25 EUR
 currency: EUR
 price: 54.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC8GHQS-es Columbia Timberturner Chaqueta Hombre Blanco...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 105.89 EUR
 currency: EUR
 price: 105.89

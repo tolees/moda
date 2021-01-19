@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYSCTNS-es The Drop Maya Falda con efecto seda para mujer fucsia S'
-tags: [ tole.es, falda ]
+tags: [ 'tole.es','falda', ]
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

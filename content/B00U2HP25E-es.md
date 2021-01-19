@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2HP25E-es Camiseta para chicos de Minecraft Negro negro 5-6 Years'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

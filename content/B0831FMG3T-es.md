@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831FMG3T-es Gafas de Presbicia con Visión Ultra Nítida Especiales para...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 19.43 EUR
 currency: EUR
 price: 19.43

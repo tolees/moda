@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLQ8SQN-es Timberland Bradstreet Perforated Plain Toe Zapatos de...'
-tags: [ tole.es, timberland, zapatos ]
+tags: [ 'tole.es','timberland','zapatos', ]
 actualPrice: 60 EUR
 currency: EUR
 price: 60

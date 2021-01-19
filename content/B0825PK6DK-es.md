@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825PK6DK-es GEOX B RISHON BOY B NAVY/DK RED Baby Boys First Walking...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9
@@ -26,9 +26,9 @@ Está [GEOX B RISHON BOY B NAVY/DK RED Baby Boys  First Walking Shoes Low-Top Tr
 
 ℹ️:
 
-- Material exterior: Ante
-- Material de la suela: Caucho
 - Cierre: Strap
+- Material de la suela: Caucho
+- Material exterior: Ante
 - Revestimiento: Sintético
 - Altura del tacón: 2 centímetros
 

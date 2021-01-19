@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGS5GQY-es Esprit 099EE1G091 Chaqueta Negro Black 001 XS para Mujer'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 24.68 EUR
 currency: EUR
 price: 24.68

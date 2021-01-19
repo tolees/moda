@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKWJWJT-es Lee Emblem tee Camiseta Beige Dust Beige LP Small para Hombre'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

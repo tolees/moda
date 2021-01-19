@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQTB33P-es Springfield 7Ba Jacquard Posicionado Jersey Azul Blue 11...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

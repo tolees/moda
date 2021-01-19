@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M67GLTM-es G-STAR RAW Core Super Slim Camisa Vaquera Azul Mazarine...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

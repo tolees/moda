@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081NZQB5R-es Marca Amazon - AURIQUE Shorts de Deporte con Banda Lateral...'
-tags: [ tole.es, aurique ]
+tags: [ 'tole.es','aurique', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075K7MXG4-es Pokèmon - Pijama para Niños Ajuste Ceñido - 10-11 Años'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

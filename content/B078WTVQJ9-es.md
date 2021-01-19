@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WTVQJ9-es Quiksilver Carver Nubuck-Sandals For Men Zapatos de Playa...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

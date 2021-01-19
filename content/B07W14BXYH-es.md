@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W14BXYH-es Pepe Jeans Raury Camiseta Verde 734safari 734 17-18 años...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

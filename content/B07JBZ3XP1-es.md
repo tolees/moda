@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBZ3XP1-es Columbia Powder Lite Jacket Chaqueta Hombre Amarillo...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

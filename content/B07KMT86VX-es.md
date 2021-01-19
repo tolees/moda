@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMT86VX-es FitFlop Lottie Shimmermesh Chanclas para Mujer Negro Black...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

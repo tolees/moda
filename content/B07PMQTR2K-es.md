@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMQTR2K-es AOQUSSQOA Mujer Traje de Baño de Una Pieza Retro Monokinis...'
-tags: [ tole.es, moda ]
+tags: [ 'tole.es','moda', ]
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

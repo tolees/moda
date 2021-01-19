@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QW1N8RN-es Helly Hansen Lifaloft Insulator Vest Chaleco Aislante...'
-tags: [ tole.es, chaleco ]
+tags: [ 'tole.es','chaleco', ]
 actualPrice: 83.5 EUR
 currency: EUR
 price: 83.5

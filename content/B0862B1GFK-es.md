@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0862B1GFK-es FOTN Zapatos 6PCS Beige plástico de Alta talón Consejos...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 2.93 EUR
 currency: EUR
 price: 2.93

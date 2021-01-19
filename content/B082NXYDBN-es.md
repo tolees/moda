@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NXYDBN-es Oihxse Transparente Silicona Case Compatible con Sony...'
-tags: [ tole.es, moda ]
+tags: [ 'tole.es','moda', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

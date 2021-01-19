@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVJWXMW-es Ganchos Carrito Bebé 6 Piezas Ganchos para Silla de Paseo...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZH8M1S-es Superdry Surplus Goods Box FIT tee Camiseta Turchese Capri...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

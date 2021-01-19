@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN54RSG-es G-Star Sp15046 Sweat Sudadera Azul Royal Blue 45 12 años...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 25.03 EUR
 currency: EUR
 price: 25.03

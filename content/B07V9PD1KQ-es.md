@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9PD1KQ-es Jack & Jones Jorwillow Stand Collar Jacket Chaqueta Azul...'
-tags: [ tole.es, chaqueta, collar ]
+tags: [ 'tole.es','chaqueta','collar', ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

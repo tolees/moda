@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BK461SF-es Portátil bolsas de zapatos de viaje multifuncional oxford...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VWDHWTH-es Braun Silk-épil 3 3-321 - Depiladora para mujer con...'
-tags: [ tole.es, bikini ]
+tags: [ 'tole.es','bikini', ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

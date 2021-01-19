@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I6SXPT0-es Alpha Industries MA-1 D-Tec Chaqueta Bomber para Hombre...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

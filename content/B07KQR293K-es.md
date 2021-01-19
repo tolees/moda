@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQR293K-es Under Armour Forefront Rain Chaqueta Mujer Negro LG'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

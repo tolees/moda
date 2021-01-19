@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4B5FDJ-es JACK & JONES Jcoglobe Parka Abrigos Hombre Azul China Blue...'
-tags: [ tole.es, parka ]
+tags: [ 'tole.es','parka', ]
 actualPrice: 40 EUR
 currency: EUR
 price: 40

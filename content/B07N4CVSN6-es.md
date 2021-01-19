@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4CVSN6-es Desigual Dress Always Vestido Azul Denim Medium Wash 5053...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 24.38 EUR
 currency: EUR
 price: 24.38

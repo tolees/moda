@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8LQX79-es Wrangler Sherpa Jacket Chaqueta Vaquera Azul Winter Bleach...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 33.78 EUR
 currency: EUR
 price: 33.78

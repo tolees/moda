@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FTWCZN-es Crocs Swiftwater Sandal W Sandalias de Punta Descubierta...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

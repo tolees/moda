@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWNLF4F-es JACK & JONES Jprvictor Shirt L/s Noos Camisa Azul Cashmere...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

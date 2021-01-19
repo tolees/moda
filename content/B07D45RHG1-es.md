@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D45RHG1-es FIND Court Zapatos de Tacón Rosa Nude 39 EU'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

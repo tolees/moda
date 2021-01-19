@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQMXBC-es Pepe Jeans Pixie New Wave Vaqueros Skinny Azul 1o0z Wavy...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 26.74 EUR
 currency: EUR
 price: 26.74

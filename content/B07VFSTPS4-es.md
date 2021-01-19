@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFSTPS4-es Mocasines Mujer Piel Cuero Loafers Plano Lazy Casual...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

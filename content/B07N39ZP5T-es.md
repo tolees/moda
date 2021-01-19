@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39ZP5T-es Desigual Coat AGGU Abrigo Negro Negro 2000 46 para Mujer'
-tags: [ tole.es, abrigo ]
+tags: [ 'tole.es','abrigo', ]
 actualPrice: 55.8 EUR
 currency: EUR
 price: 55.8

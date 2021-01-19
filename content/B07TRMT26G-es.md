@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRMT26G-es Levi s The tee Camiseta Blanco Pink California Skies...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

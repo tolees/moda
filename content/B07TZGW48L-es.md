@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZGW48L-es Farchat Vestidos Mujer Suelto Casual de la Camiseta Cuello...'
-tags: [ tole.es, camiseta, vestido ]
+tags: [ 'tole.es','camiseta','vestido', ]
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

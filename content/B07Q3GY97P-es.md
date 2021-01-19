@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3GY97P-es Dockers by Gerli 43ln201 Botines para Mujer Marrón Braun...'
-tags: [ tole.es, botines ]
+tags: [ 'tole.es','botines', ]
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

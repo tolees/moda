@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087P9XJ8Z-es Suhctup Funda Compatible con OnePlus 7T Pro Billetera...'
-tags: [ tole.es, billetera ]
+tags: [ 'tole.es','billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

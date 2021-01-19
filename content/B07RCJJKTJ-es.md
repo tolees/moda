@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCJJKTJ-es G-STAR RAW Graphic 1 Slim Camiseta Blanco White 110 Large...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 19.71 EUR
 currency: EUR
 price: 19.71

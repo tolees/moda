@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6MGYDR-es Tommy Hilfiger Classic Braguita de Bikini Rojo Red XCN...'
-tags: [ tole.es, bikini ]
+tags: [ 'tole.es','bikini', ]
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

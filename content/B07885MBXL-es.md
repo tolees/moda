@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07885MBXL-es Salomon PROPELLER DRY W Guantes para mujer'
-tags: [ tole.es, guantes ]
+tags: [ 'tole.es','guantes', ]
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003AOP0DK-es Havaianas Top Chanclas Unisex Adulto Rojo Ruby Red 37/38 EU'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 11.71 EUR
 currency: EUR
 price: 11.71

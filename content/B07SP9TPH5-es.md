@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP9TPH5-es Flintronic® Cartera Tarjeta de Crédito Slim Billetera...'
-tags: [ tole.es, billetera ]
+tags: [ 'tole.es','billetera', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

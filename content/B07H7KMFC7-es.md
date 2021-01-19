@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7KMFC7-es ZOEREA Bebé Chicos Conjunto de Conjunto Page Boy Trajes 4...'
-tags: [ tole.es, camisa, chaleco, chaqueta ]
+tags: [ 'tole.es','camisa','chaleco','chaqueta', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

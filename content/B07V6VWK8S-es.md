@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6VWK8S-es Camiseta Deportiva de Tirantes para Hombre Sin Manga Slim...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

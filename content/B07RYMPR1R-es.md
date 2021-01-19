@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYMPR1R-es Levi s Relaxed Graphic Crewneck Sudadera Blanco 90 s Serif...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 24.6 EUR
 currency: EUR
 price: 24.6

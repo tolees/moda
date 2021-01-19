@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XWXBKGX-es IPOTCH Collar De Signo De Paz De Color Iris De 3 Piezas...'
-tags: [ tole.es, collar ]
+tags: [ 'tole.es','collar', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

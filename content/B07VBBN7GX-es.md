@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBBN7GX-es HUGO Drick202 Sudadera Beige Dark Beige 251 L para Hombre'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

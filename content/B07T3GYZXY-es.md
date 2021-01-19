@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3GYZXY-es Timberland Adventure Seeker Toddler Sandalias de Punta...'
-tags: [ tole.es, sandalias, timberland ]
+tags: [ 'tole.es','sandalias','timberland', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

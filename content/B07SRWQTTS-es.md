@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRWQTTS-es Armani Exchange Icon Sweat Sudadera Azul Navy 1510 X-Small...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 51.53 EUR
 currency: EUR
 price: 51.53

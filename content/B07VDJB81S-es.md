@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDJB81S-es Desigual Vest Tresor Vestido Negro Negro 2000 42 Talla del...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 26.18 EUR
 currency: EUR
 price: 26.18

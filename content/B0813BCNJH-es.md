@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813BCNJH-es ZIGJOY GOT7 Sudadera Gruesa y Aterciopelada con Cremallera...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

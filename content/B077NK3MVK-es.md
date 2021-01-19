@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NK3MVK-es Lee Luke Vaqueros Kick It Cdpf 28W / 32L para Hombre'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

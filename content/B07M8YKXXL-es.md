@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8YKXXL-es Geox M Hilstone D Abrigo Azul Blue Nights F4386 Medium...'
-tags: [ tole.es, abrigo, geox ]
+tags: [ 'tole.es','abrigo','geox', ]
 actualPrice: 99.5 EUR
 currency: EUR
 price: 99.5

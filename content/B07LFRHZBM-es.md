@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRHZBM-es Geox D ANNYTAH C Bailarinas para Mujer Marrón Chestnut...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

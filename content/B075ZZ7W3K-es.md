@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZZ7W3K-es JACK & JONES Jacbasic Crew Neck tee SS 2 Pack Camiseta...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

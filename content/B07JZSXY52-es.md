@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZSXY52-es adidas Tiro19 PES Jkty Chaqueta de Deporte Unisex niños...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

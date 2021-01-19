@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT6SNHV-es Marca Amazon - TRUTH & FABLE Vestido Midi Evasé de Gasa...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

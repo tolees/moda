@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5P4YF9-es Mary White AF.INF.PCOGT Conjuntos de Pijama Beige...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

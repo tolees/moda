@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SKWJ9UM-es Lonsdale Caja de pantalón Corto para Hombre Pantalones de...'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZK1RLS-es Desigual TS_Barrie - Camiseta Niños Azul Navy 5000 6 años...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

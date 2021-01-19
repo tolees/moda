@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSJFC3D-es Marca Amazon - IRIS & LILLY Sporty Cotton - Braguita Mujer...'
-tags: [ tole.es, iris, &, lilly ]
+tags: [ 'tole.es','iris','&','lilly', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

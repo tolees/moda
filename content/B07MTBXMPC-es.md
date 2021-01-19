@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTBXMPC-es Napapijri Gardiner Camisa Casual Azul Blue Stripe S07 M...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 27.32 EUR
 currency: EUR
 price: 27.32

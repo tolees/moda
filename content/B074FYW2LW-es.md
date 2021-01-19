@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FYW2LW-es Star Wars HQ2022 Pijama de una Pieza Gris Grey 4 años...'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

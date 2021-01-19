@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017AG4IHW-es Polaroid P0115 JB N5N Gafas de sol Azul Bluette Royal...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

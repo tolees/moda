@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZW37FK-es GANT The Oxford Shirt Reg BD Camiseta Deporte Blanco White...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 62.15 EUR
 currency: EUR
 price: 62.15

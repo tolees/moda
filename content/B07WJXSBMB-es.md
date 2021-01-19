@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJXSBMB-es Jack & Jones Joroutdoors tee SS Crew Neck Camiseta Azul...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

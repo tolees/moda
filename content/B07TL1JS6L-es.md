@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TL1JS6L-es Quiksilver Comp T-Shirt Men Camiseta de Manga Corta Hombre...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

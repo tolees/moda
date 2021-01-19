@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B65CKL-es Columbia CSC Basic Logo II Sudadera con Capucha Hombre...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 38.94 EUR
 currency: EUR
 price: 38.94

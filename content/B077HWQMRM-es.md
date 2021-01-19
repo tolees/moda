@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HWQMRM-es Marca Amazon - find. Vestido Asimétrico de Flores Mujer...'
-tags: [ tole.es, vestido, -, find. ]
+tags: [ 'tole.es','vestido','-','find.', ]
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

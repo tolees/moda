@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VF6FS7D-es Hackett Amr Racing Line Strs Camiseta Blanco White 800...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 54.82 EUR
 currency: EUR
 price: 54.82

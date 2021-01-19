@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004GKLOKU-es arena 92338 Gafas de Natación Infantil Multicolor violet /...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

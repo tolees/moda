@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5ZH7NG-es Lee Ivy Vaqueros Azul Summer Night Vy 31W / 33L para Mujer'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 57.18 EUR
 currency: EUR
 price: 57.18

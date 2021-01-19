@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0828TKVV9-es Plantillas calentadas calentadores de pies plantillas de...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

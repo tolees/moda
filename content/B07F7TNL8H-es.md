@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7TNL8H-es SUNMEET Gafas de sol Hombre Polarizadas Clásico Retro...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

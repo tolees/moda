@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085GBX19X-es CAVEEN Organizador de Sofá - 2 Piezas Organizador de...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

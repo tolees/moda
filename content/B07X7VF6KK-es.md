@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7VF6KK-es JK-2 Pegamento de Alta Intensidad Claro DIY Artesanía...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

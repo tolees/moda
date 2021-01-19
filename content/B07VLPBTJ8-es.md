@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLPBTJ8-es Lee Pique Polo Camiseta Verde Utility Green NG L para Hombre'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

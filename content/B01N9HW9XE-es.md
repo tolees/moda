@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9HW9XE-es find. Camisa Entallada Óxford Estampada de Corte Entallado...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 9 EUR
 currency: EUR
 price: 9

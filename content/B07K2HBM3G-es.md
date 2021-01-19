@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2HBM3G-es Amazon Essentials - Camiseta de protección solar con manga...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

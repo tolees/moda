@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQX5LJT-es MAMALICIOUS Mliben Nell 2/4 Jersey Top Nf Camiseta de...'
-tags: [ tole.es, camiseta, jersey ]
+tags: [ 'tole.es','camiseta','jersey', ]
 actualPrice: 22.81 EUR
 currency: EUR
 price: 22.81

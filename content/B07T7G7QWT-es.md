@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T7G7QWT-es The North Face M Quest Triclimate Chaqueta Hombre Negro...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 185.64 EUR
 currency: EUR
 price: 185.64

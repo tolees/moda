@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYVLV5C-es Tommy Hilfiger TH ESS Classic Straight HW C Vaqueros Azul...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

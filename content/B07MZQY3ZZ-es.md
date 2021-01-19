@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQY3ZZ-es Pepe Jeans Ophelia Blusa Multicolor Multi 0aa Small para...'
-tags: [ tole.es, blusa ]
+tags: [ 'tole.es','blusa', ]
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

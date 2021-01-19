@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM22C8P-es Geox J KURAY Boy B ABX B Botas de Nieve para Niños Azul...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

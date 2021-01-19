@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRRSFCN-es Deevike Pantuflas Zapatillas Hombre Invierno CáLido...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

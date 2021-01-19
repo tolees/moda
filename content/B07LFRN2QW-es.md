@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRN2QW-es Geox U Jaylon E Botas Clasicas para Hombre Marrón Dk...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 57.91 EUR
 currency: EUR
 price: 57.91

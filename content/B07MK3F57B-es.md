@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK3F57B-es GANT The Broadcloth Reg BD Camisa Negro Black 5 Small para...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 56.65 EUR
 currency: EUR
 price: 56.65

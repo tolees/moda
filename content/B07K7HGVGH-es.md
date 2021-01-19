@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7HGVGH-es adidas TIRO19 TR JKTY Chaqueta Unisex niños Black/White 5-6A'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

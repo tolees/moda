@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDTDQSD-es Unisun Gafas de natación Niños Adultos Gafas de natación...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

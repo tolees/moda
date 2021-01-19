@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6ZSD69-es COZ7W|#Cole Haan Zerogrand Wingtip Zapatos de Cordones...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 25.81 EUR
 currency: EUR
 price: 25.81

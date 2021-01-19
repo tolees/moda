@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVCBTC-es Napapijri Berber H Sudadera con Capucha Rojo Red Scarlet...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

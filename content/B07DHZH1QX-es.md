@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHZH1QX-es Geox D Rubidia A Zapatillas para Mujer Azul Navy C4002 38 EU'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

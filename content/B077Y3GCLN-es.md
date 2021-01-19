@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y3GCLN-es HIKARO Sudadera con Capucha Hombre Rojo Red 52 Talla del...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 7.74 EUR
 currency: EUR
 price: 7.74

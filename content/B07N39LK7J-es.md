@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39LK7J-es Desigual Coat Cassidy Abrigo Azul Navy 5000 42 Talla del...'
-tags: [ tole.es, abrigo ]
+tags: [ 'tole.es','abrigo', ]
 actualPrice: 24.36 EUR
 currency: EUR
 price: 24.36

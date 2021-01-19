@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y5WNL4K-es G-STAR RAW Base V T S/s 2-Pack Camiseta Negro Black 990...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFN8ZRF-es Only Onlsedona Boucle Wool Coat Otw Noos Abrigo Gris Light...'
-tags: [ tole.es, abrigo ]
+tags: [ 'tole.es','abrigo', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99
@@ -26,7 +26,7 @@ En este momento está [Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Gris  Li
 
 🔎:
 
-- Boucle - Abrigo de lana
 - Con capucha
+- Boucle - Abrigo de lana
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DFN8ZRF/?tag=tolees-21)

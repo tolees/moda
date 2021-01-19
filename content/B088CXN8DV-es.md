@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088CXN8DV-es Meerway Bañador Hombre Bañadores de Natación para Hombre...'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

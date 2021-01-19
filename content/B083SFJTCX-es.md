@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SFJTCX-es TZAMLI - Zapatero de 10 pisos sobre la puerta organizador...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 39.47 EUR
 currency: EUR
 price: 39.47

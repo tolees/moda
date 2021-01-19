@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YL9P8QJ-es s.Oliver 03.899.32.5264 Camiseta Turquesa Türkis 6242...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

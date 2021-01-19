@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR7KD5G-es Under Armour UA Speed Stride Printed SS Camiseta Hombre...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

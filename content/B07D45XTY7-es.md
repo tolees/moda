@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D45XTY7-es find. Suede Zapatos de Cordones Derby Gris Grey 46 EU'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

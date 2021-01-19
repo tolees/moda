@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJBMB69-es Marca Amazon - find. Cinturón Doble Cierre para Hombre...'
-tags: [ tole.es, -, find. ]
+tags: [ 'tole.es','-','find.', ]
 actualPrice: 4.57 EUR
 currency: EUR
 price: 4.57

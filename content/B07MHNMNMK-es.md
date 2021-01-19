@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHNMNMK-es Columbia Horizons Pine Chaqueta Interchange Hombre Verde...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 129.49 EUR
 currency: EUR
 price: 129.49

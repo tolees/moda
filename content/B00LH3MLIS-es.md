@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LH3MLIS-es Helly Hansen W Paramount Softshell Chaqueta Mujer Negro L'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 45.26 EUR
 currency: EUR
 price: 45.26

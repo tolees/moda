@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8FSH5R-es SHIELDON Mochila Portatil 15.6 Pulgadas Mochila...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

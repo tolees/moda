@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B7GYM2-es Columbia CSC Basic Camiseta Estampada De Manga Corta...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

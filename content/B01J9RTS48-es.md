@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J9RTS48-es INBIKE Gafas De Sol Polarizadas para Ciclismo con 5 Lentes...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGW5GKM-es Calvin Klein Hip Brief 3pk Bóxer Azul Astral...'
-tags: [ tole.es, bóxer ]
+tags: [ 'tole.es','bóxer', ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

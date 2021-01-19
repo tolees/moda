@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFGB4V7-es Clarks Cotrell Lane 261486527 Zapatos de Cordones Derby...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 34.13 EUR
 currency: EUR
 price: 34.13

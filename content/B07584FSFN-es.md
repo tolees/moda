@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07584FSFN-es find. Vaqueros Skinny con Rotos Hombre Azul Mid Blue Wash...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 17.85 EUR
 currency: EUR
 price: 17.85

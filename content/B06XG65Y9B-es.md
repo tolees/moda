@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG65Y9B-es Marca Amazon - find. Camisa Hombre Verde Fresh Green S...'
-tags: [ tole.es, camisa, -, find. ]
+tags: [ 'tole.es','camisa','-','find.', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

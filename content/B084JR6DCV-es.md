@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084JR6DCV-es adidas Jg A Xfg WB Chaqueta Niñas Blanco/matama/Negro 152...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 43.17 EUR
 currency: EUR
 price: 43.17

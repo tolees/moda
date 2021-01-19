@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCFK2W5-es Clarks Adriel Viola Zapatos de Tacón para Mujer Negro...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 67.06 EUR
 currency: EUR
 price: 67.06

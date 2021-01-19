@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0156ZMLKA-es KRISP Vestido Mujer Tallas Grandes Largo Casual Ibicenco...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F31KK2N-es Helly Hansen HP 1/2 Zip Jersey Hombre Ebony M'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 32.34 EUR
 currency: EUR
 price: 32.34

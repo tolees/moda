@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9YWD18-es T-wilker Limpiador de Cadena de Bicicleta combinación de...'
-tags: [ tole.es, guantes ]
+tags: [ 'tole.es','guantes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

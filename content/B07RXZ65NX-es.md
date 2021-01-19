@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXZ65NX-es Pepe Jeans Finsbury Vaqueros Blue Medium Used 31W / 32L...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 63.92 EUR
 currency: EUR
 price: 63.92

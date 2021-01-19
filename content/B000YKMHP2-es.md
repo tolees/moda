@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000YKMHP2-es Havaianas Top Chanclas Unisex Adulto Blanco White 41/42 EU'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 11.27 EUR
 currency: EUR
 price: 11.27

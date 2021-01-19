@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVKCD4W-es Wrangler Greensboro Vaqueros Gris Pitch Grey 15d 30W / 34L...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

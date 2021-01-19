@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4QZPVH-es Amazon Brand - AURIQUE Leggings deportivos con paneles...'
-tags: [ tole.es, aurique ]
+tags: [ 'tole.es','aurique', ]
 actualPrice: 12.66 EUR
 currency: EUR
 price: 12.66

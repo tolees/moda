@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEXF5P0-es Crocs Crocband Clog K Zuecos con Correa Unisex-Bambini Blu...'
-tags: [ tole.es, zuecos ]
+tags: [ 'tole.es','zuecos', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

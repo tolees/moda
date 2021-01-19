@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0742J6KTB-es ARENA Gafas de natación para triatlón unisex Cobra Tri...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 29.17 EUR
 currency: EUR
 price: 29.17

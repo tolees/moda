@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MFG88KC-es ONLY onlAVA FAUX LEATHER BIKER OTW NOOS Chaqueta Mujer...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

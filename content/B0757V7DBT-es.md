@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757V7DBT-es Marca Amazon - find. Vaqueros Skinny Hombre Gris Grey Wash...'
-tags: [ tole.es, vaqueros, -, find. ]
+tags: [ 'tole.es','vaqueros','-','find.', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

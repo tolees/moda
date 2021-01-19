@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HEQZDA0-es Timberland 6 Inch Premium Waterproof Botas para Mujer...'
-tags: [ tole.es, timberland ]
+tags: [ 'tole.es','timberland', ]
 actualPrice: 137.57 EUR
 currency: EUR
 price: 137.57

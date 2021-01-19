@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S5Q7XG-es IRIS & LILLY Camisón Corto de Tirantes con Detalle de...'
-tags: [ tole.es, iris, &, lilly ]
+tags: [ 'tole.es','iris','&','lilly', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

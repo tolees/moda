@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9MK9P4-es Juego de Destornilladores Destornilladores de Precisión...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

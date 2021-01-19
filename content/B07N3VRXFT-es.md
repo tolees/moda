@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3VRXFT-es Desigual Pullover LOS Angeles Jersey Azul Ibiza 5106 M...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

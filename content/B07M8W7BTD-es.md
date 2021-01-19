@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8W7BTD-es Wrangler Skinny Jeans Vaqueros Azul Soft Worn 12b 25W /...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

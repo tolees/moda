@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY7YWST-es Wrangler Kabel tee Camiseta Blanco White 312 X-Large para...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

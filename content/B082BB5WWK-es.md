@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BB5WWK-es Geographical Norway Chaqueta Softshell Hombre Tyreek'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

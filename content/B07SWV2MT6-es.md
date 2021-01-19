@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWV2MT6-es Geox D Myria C Zapatillas para Mujer Azul Navy C4002 38 EU'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 38.15 EUR
 currency: EUR
 price: 38.15

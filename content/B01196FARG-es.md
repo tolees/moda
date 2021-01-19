@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01196FARG-es United Colors of Benetton Basico 1 Man Vaqueros Straight...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

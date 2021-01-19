@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0030ZSZXG-es adidas Duramo Slide Chanclas Unisex Azul New...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGWQYM-es Geox D Nebula B Zapatillas sin Cordones para Mujer Rojo...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 43.89 EUR
 currency: EUR
 price: 43.89

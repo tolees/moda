@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XNJPNZ-es Under Armour Hombre MK1 Short Sleeve EU SMU Camiseta'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

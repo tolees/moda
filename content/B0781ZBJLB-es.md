@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781ZBJLB-es Puma Liga Training Rain Core Camiseta de equipación Hombre...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

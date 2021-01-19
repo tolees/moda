@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVZX4S4-es LEGO Wear Boy Ninjago Tiger 322-T-shirt Camiseta Azul Dark...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 9.86 EUR
 currency: EUR
 price: 9.86

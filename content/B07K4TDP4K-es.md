@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K4TDP4K-es 2 Rollos 10 Metros 0.8mm / 1.0mm Cordón Fuerte Y Elástico...'
-tags: [ tole.es, collar ]
+tags: [ 'tole.es','collar', ]
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

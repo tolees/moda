@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7XTK1Z-es Tommy Hilfiger Nautical TH Lace Up Espadrille Zapatos de...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

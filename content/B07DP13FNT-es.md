@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP13FNT-es Umbro Set de 5 boxers 5NEGROS -100% algodón-color negro x5...'
-tags: [ tole.es, bóxer ]
+tags: [ 'tole.es','bóxer', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

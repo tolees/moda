@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B5ZR24C-es JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera Azul...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

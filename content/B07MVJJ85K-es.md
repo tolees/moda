@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJJ85K-es Kipling Eleva Bolso con Bandolera para Mujer Rosa Metallic...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

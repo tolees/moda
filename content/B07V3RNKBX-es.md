@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3RNKBX-es Marca Amazon - AURIQUE Bal181la18 - leggings deporte mujer...'
-tags: [ tole.es, aurique ]
+tags: [ 'tole.es','aurique', ]
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

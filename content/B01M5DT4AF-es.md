@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5DT4AF-es Under Armour UA HG Printedy Pantalón Corto Mujer Gris M'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

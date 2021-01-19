@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKS6X6Y-es Trangoworld Mendilaz Chaqueta Hombre Gris S'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 29.07 EUR
 currency: EUR
 price: 29.07

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCG8QNM-es Marca Amazon - find. Stitch Cardigan - chaqueta punto...'
-tags: [ tole.es, chaqueta, -, find. ]
+tags: [ 'tole.es','chaqueta','-','find.', ]
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

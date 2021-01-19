@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGCCN63-es Tommy Hilfiger Corp Bar tee Camiseta Deporte Gris Grey P9x...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNWQJ3C-es LPUK Moda Mujer Cuadrado De Gran Tamaño Lentes de...'
-tags: [ tole.es, gafas, moda ]
+tags: [ 'tole.es','gafas','moda', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

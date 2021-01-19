@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XMLGFPI-es Pepe Jeans Soho Vaqueros Dark Used Worn 31W / 32L para Mujer'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

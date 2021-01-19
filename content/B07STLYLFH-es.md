@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLYLFH-es Geox D Rubidia A Zapatillas para Mujer Dorado Gold/White...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 43.63 EUR
 currency: EUR
 price: 43.63

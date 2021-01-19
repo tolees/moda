@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8SBC49-es Marca Amazon - find. Vestido Largo Estilo Camiseta de...'
-tags: [ tole.es, camiseta, vestido, -, find. ]
+tags: [ 'tole.es','camiseta','vestido','-','find.', ]
 actualPrice: 5.16 EUR
 currency: EUR
 price: 5.16

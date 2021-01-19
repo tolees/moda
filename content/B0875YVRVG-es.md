@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0875YVRVG-es Sandalias Mujer Verano Cuña Cómodos Mules Zuecos Casual...'
-tags: [ tole.es, sandalias, zapatos, zuecos ]
+tags: [ 'tole.es','sandalias','zapatos','zuecos', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

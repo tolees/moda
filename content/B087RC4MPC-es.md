@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RC4MPC-es ELEEMEE Mujer Moda Sandalias Tacón Alto Correa de Tobillo...'
-tags: [ tole.es, moda, sandalias, vestido, zapatos ]
+tags: [ 'tole.es','moda','sandalias','vestido','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

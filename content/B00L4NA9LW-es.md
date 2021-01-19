@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L4NA9LW-es Columbia Flash Forward Chaqueta cortavientos Mujer Negro...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

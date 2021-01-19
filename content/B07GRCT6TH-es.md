@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRCT6TH-es Lol Surprise Pijama para niñas Dolls Multicolor 12-13 Años'
-tags: [ tole.es, pijama ]
+tags: [ 'tole.es','pijama', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

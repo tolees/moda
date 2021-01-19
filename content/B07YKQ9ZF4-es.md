@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKQ9ZF4-es Esprit 010eo1g304 Chaqueta Beige Light Taupe 260 Medium...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

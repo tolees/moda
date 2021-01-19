@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CRQ3FQ-es Zapatillas Running para Hombre Aire Libre y Deporte...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

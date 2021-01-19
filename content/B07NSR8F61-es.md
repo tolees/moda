@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSR8F61-es Rocf Rossini Gafas de Sol Mujer Polarizadas Medio Marco...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

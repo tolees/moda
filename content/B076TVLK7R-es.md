@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076TVLK7R-es Fruit of the Loom Mens Original 5 Pack T-Shirt Camiseta...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

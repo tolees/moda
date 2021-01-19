@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXL7RX3-es Under Armour Forefront Rain Chaqueta Hombre Azul SM'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

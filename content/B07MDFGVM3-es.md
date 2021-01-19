@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDFGVM3-es Dilwe Chaleco de Pesca Hombres Transpirable Multi-...'
-tags: [ tole.es, chaleco ]
+tags: [ 'tole.es','chaleco', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

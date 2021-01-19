@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTF06PS-es Lupa con Luz Led - Rightwell Gafas Lupa de Aumento con Luz...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

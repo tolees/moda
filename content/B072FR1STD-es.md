@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FR1STD-es Marca Amazon - find. Blusa Mujer Morado Violet Indigo...'
-tags: [ tole.es, blusa, -, find. ]
+tags: [ 'tole.es','blusa','-','find.', ]
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

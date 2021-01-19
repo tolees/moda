@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJ5VBX8-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros Faded Glacier...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

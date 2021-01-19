@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S75WSD2-es Crocs Classic II Flip Chanclas Unisex Adulto Negro Black...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

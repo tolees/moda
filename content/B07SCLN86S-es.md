@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCLN86S-es Lee Daren Zip Fly Vaqueros Mission Clean Zg 32W / 30L para...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 69.96 EUR
 currency: EUR
 price: 69.96

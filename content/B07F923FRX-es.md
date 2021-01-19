@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F923FRX-es Marvel Grafiti Bolso Bandolera 19 cm 2.85 litros Multicolor'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

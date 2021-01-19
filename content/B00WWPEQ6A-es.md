@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WWPEQ6A-es JACK & JONES SENSE TRUNKS 3-PACK Bóxer Blanco Small Pack...'
-tags: [ tole.es, bóxer ]
+tags: [ 'tole.es','bóxer', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

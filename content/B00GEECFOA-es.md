@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GEECFOA-es Rieker Mujer Sandalias de Vestir 62461 señora Sandalias de...'
-tags: [ tole.es, sandalias, zapatos ]
+tags: [ 'tole.es','sandalias','zapatos', ]
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

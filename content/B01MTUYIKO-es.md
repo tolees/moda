@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTUYIKO-es SELECTED HOMME Shhonevince Shirt LS STS Camisa Blanco...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

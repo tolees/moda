@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8PG91G-es PUMA Ftblnxt 1/4 Zip Top Sudadera Hombre Black-Ultra Yellow L'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 26.67 EUR
 currency: EUR
 price: 26.67

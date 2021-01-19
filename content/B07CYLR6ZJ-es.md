@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYLR6ZJ-es Levi s Graphic Set-in Neck Camiseta para Hombre Negro...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

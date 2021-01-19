@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DY2TG7E-es Geox Uomo Snake L Zapatos para Hombre Beige Beige/Dk...'
-tags: [ tole.es, geox, zapatos ]
+tags: [ 'tole.es','geox','zapatos', ]
 actualPrice: 83.03 EUR
 currency: EUR
 price: 83.03

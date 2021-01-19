@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075L9QNG2-es VENI MASEE Bolso de noche de flores para mujer Bolso de...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 12.84 EUR
 currency: EUR
 price: 12.84

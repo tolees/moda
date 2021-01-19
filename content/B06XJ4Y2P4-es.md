@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJ4Y2P4-es find. Camisa Entallada de Manga Corta con Bandas...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

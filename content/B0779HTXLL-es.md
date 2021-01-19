@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779HTXLL-es Pepe Jeans GOLDERS PM503213 Camiseta Blanco Optic White...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

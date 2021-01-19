@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088P4G8WM-es La Valenciana Sandalias Mustang 58553 Marrón - Color -...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

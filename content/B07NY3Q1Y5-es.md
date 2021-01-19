@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3Q1Y5-es Superdry Padded Elite Jacket Chaqueta Negro Jet Black 12a...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759FCQFV-es Skechers Reggae-Zig Swag 48228 Chanclas para Mujer Azul...'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

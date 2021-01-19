@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH9V6ZQ-es Amazon Essentials – Pantalón chino sin pinzas en la parte...'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

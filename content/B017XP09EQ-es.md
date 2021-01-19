@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017XP09EQ-es Helly Hansen Crew Vest Chaleco Marino con Forro Polar...'
-tags: [ tole.es, chaleco ]
+tags: [ 'tole.es','chaleco', ]
 actualPrice: 96.98 EUR
 currency: EUR
 price: 96.98

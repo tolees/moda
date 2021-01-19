@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRHKQZN-es Botas Altas para Mujer Cuero de Invierno Camfosy City...'
-tags: [ tole.es, botines ]
+tags: [ 'tole.es','botines', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

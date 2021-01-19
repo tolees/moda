@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ1X8XH-es Vans Flying V Crew tee Camiseta Negro Black Blk 34 Talla...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

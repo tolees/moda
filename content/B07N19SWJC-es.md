@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N19SWJC-es Lee Slim Button Down Camisa Azul Frost Blue XX-Large para...'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 14.48 EUR
 currency: EUR
 price: 14.48

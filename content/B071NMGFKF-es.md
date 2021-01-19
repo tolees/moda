@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NMGFKF-es find. Camisa Casual para Hombre Blanco Ecru Large'
-tags: [ tole.es, camisa ]
+tags: [ 'tole.es','camisa', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

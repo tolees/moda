@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ55KDQ-es Marca Amazon - MERAKI Joggers Ajustados Hombre Gris...'
-tags: [ tole.es, meraki ]
+tags: [ 'tole.es','meraki', ]
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

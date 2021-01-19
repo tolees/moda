@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FV12NRW-es Millet Route GTX Zapatos de High Rise Senderismo para...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

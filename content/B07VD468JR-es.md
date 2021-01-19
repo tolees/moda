@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD468JR-es Calvin Klein Institutional Logo Slim SS tee Camiseta Verde...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

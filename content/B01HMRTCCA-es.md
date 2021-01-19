@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HMRTCCA-es The North Face T92TX5 Camiseta De Manga Corta Simple Dome...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 16.84 EUR
 currency: EUR
 price: 16.84

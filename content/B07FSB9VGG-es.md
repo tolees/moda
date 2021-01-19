@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSB9VGG-es Ternua K7 W Chaqueta Mujer Azul Dark Lagoon Melange L'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

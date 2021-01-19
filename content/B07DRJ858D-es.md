@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRJ858D-es CoolBELL Bolso de Hombro Convertible en Mochila para...'
-tags: [ tole.es, bolso ]
+tags: [ 'tole.es','bolso', ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

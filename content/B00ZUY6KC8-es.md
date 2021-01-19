@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZUY6KC8-es REEF R2026ALB Chanclas Hombre Negro Black / Silver 36 EU'
-tags: [ tole.es, chanclas ]
+tags: [ 'tole.es','chanclas', ]
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

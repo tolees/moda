@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076PLZN1Q-es Adidas Regista 18 Track Top Chaqueta Deportiva Hombre Rojo...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 21.61 EUR
 currency: EUR
 price: 21.61

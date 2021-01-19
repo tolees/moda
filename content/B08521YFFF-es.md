@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08521YFFF-es Timberland Squall Canyon WT Pull ON MARRÓN TB0A296N9011'
-tags: [ tole.es, timberland ]
+tags: [ 'tole.es','timberland', ]
 actualPrice: 76.23 EUR
 currency: EUR
 price: 76.23

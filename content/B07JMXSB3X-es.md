@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMXSB3X-es Timberland Bradstreet Hiker Botas Chukka para Hombre Azul...'
-tags: [ tole.es, timberland ]
+tags: [ 'tole.es','timberland', ]
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

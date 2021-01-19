@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBONA7K-es Tommy Hilfiger Cotton cn tee SS Icon Camiseta Navy Blazer-...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

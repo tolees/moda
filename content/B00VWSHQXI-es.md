@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VWSHQXI-es Viking Rondane GTX Zapatos de High Rise Senderismo Unisex...'
-tags: [ tole.es, zapatos ]
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 35.8 EUR
 currency: EUR
 price: 35.8

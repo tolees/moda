@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014Z6TJX8-es G-STAR RAW Revend Skinny Vaqueros 3D Dark Aged 7101 33W /...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

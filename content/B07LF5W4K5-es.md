@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF5W4K5-es Levi s 514 Vaqueros Straight Azul Orinda ADV 1009 W34/L30...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 32.09 EUR
 currency: EUR
 price: 32.09

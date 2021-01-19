@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3SPBPK-es Desigual Sweat ANNARAU Jersey Azul Blue Depths 5149 S para...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 22.73 EUR
 currency: EUR
 price: 22.73

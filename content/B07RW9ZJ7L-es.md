@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW9ZJ7L-es GRACE KARIN Mujer Vestido Corto Elegante para Fiesta...'
-tags: [ tole.es, vestido ]
+tags: [ 'tole.es','vestido', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

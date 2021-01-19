@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZP2JVG-es Suhctup Funda Huawei Honor 30 Pro Carcasa Patrón de...'
-tags: [ tole.es, moda ]
+tags: [ 'tole.es','moda', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

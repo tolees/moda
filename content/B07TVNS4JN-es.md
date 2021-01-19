@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVNS4JN-es Only Onlantonia Faux Suede Midi Skirt Otw Falda Negro...'
-tags: [ tole.es, falda ]
+tags: [ 'tole.es','falda', ]
 actualPrice: 9.66 EUR
 currency: EUR
 price: 9.66

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8PJZKS-es JACK & JONES JCOOSCAR Jacket Collar Chaqueta Negro Black L...'
-tags: [ tole.es, chaqueta, collar ]
+tags: [ 'tole.es','chaqueta','collar', ]
 actualPrice: 25.32 EUR
 currency: EUR
 price: 25.32

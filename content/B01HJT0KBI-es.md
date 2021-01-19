@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HJT0KBI-es Mexx Women Pullover Jersey Azul Sky Captain 42 para Mujer'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

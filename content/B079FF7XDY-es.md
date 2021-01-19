@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FF7XDY-es Magichome Collar Antiparasitario para Gatos contra Pulgas...'
-tags: [ tole.es, collar ]
+tags: [ 'tole.es','collar', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

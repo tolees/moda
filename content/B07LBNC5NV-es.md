@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNC5NV-es Helly Hansen HH LIFA Merino 1/2 Zip Camiseta Azul Azul...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 57.59 EUR
 currency: EUR
 price: 57.59

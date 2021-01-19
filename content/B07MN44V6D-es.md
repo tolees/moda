@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN44V6D-es Wrangler Larston Vaqueros Grey Hill 31W / 32L para Hombre'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 56.85 EUR
 currency: EUR
 price: 56.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K73WZCR-es Levi s 511 Slim Fit Vaqueros Aegean Adapt 34W / 32L para...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 80.5 EUR
 currency: EUR
 price: 80.5

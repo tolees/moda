@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM9WJ2K-es Wrangler Regular Jacket Chaqueta Azul Bleached out 12d...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 24.43 EUR
 currency: EUR
 price: 24.43

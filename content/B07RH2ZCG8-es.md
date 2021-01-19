@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH2ZCG8-es G-STAR RAW D-STAQ 3D Slim Vaqueros Negro Pitch Black...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 58.72 EUR
 currency: EUR
 price: 58.72

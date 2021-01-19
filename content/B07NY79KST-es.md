@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY79KST-es Superdry Digitize Reflective Gilet Chaleco Negro Black 02a...'
-tags: [ tole.es, chaleco ]
+tags: [ 'tole.es','chaleco', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

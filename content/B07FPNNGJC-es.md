@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPNNGJC-es Tommy Hilfiger Classic Bikini Braguitas Rojo Tango Red 611...'
-tags: [ tole.es, bikini ]
+tags: [ 'tole.es','bikini', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

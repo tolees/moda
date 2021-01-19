@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWJTY6P-es Only Onlenya Faux Leather Biker CC Otw Chaqueta Rojo...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

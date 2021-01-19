@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRN1DC-es Geox D ANNYTAH D Bailarinas para Mujer Negro Black C9997...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 22.07 EUR
 currency: EUR
 price: 22.07

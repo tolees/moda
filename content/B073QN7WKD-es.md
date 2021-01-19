@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QN7WKD-es find. Chaqueta Efecto Cuero para Hombre Negro Schwarz Medium'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 18 EUR
 currency: EUR
 price: 18

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXL85K4-es Tommy Hilfiger Jersey Pant Pantalones de Deporte Azul Navy...'
-tags: [ tole.es, jersey ]
+tags: [ 'tole.es','jersey', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

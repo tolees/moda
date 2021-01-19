@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX78QP-es Pepe Jeans Jude Camiseta Azul Indigo 561 X-Large para Hombre'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 9.08 EUR
 currency: EUR
 price: 9.08

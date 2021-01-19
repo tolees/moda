@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMZPL4T-es Nike M NSW tee Icon Futura Camiseta Hombre Midnight...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 8.65 EUR
 currency: EUR
 price: 8.65

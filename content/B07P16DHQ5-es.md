@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P16DHQ5-es Superdry OL Elite Crew Neck tee Camiseta Blanco White 04c...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

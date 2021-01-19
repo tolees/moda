@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXHQ63J-es Negocios titular de la tarjeta RFID de lujo de piel y...'
-tags: [ tole.es, billetera ]
+tags: [ 'tole.es','billetera', ]
 actualPrice: 10.84 EUR
 currency: EUR
 price: 10.84

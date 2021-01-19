@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9GH93V-es Lacoste Sport SH2128 Sudadera Multicolor Noir/Argent Chine...'
-tags: [ tole.es, sudadera ]
+tags: [ 'tole.es','sudadera', ]
 actualPrice: 69 EUR
 currency: EUR
 price: 69

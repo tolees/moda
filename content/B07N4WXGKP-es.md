@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4WXGKP-es Tommy Hilfiger Tjw Essential Americana tee Camiseta Blue...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 18.17 EUR
 currency: EUR
 price: 18.17

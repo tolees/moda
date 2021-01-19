@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBG1JLG-es Quiksilver Mental Notes T-Shirt Men Camiseta de Manga...'
-tags: [ tole.es, camiseta ]
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 10.02 EUR
 currency: EUR
 price: 10.02

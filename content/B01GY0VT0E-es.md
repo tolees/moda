@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GY0VT0E-es Mercedes-Benz Sonnenbrille M7006 Gafas de sol Marrón Braun...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 54.11 EUR
 currency: EUR
 price: 54.11

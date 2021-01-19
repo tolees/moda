@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T6JGXY-es Puma Liga Casuals Hoody Jacket Chaqueta Hombre Pepper...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 22.47 EUR
 currency: EUR
 price: 22.47

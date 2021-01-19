@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZC7B7Z-es WOLA gafas de sol madera - AIR lentes mujer y hombre...'
-tags: [ tole.es, gafas ]
+tags: [ 'tole.es','gafas', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

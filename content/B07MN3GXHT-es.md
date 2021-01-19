@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN3GXHT-es Lee Sherpa Jacket Chaqueta Vaquera Azul Light Stone Oy...'
-tags: [ tole.es, chaqueta ]
+tags: [ 'tole.es','chaqueta', ]
 actualPrice: 88.2 EUR
 currency: EUR
 price: 88.2

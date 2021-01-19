@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XF5YVLC-es PHOENISING - Pantalón Corto - para Mujer Azul Azul Claro 36'
-tags: [ tole.es, pantalón ]
+tags: [ 'tole.es','pantalón', ]
 actualPrice: 17.27 EUR
 currency: EUR
 price: 17.27

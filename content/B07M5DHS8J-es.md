@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DHS8J-es Lee Austin Vaqueros Tapered Azul Dark Silver GV 30W / 32L...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 24.31 EUR
 currency: EUR
 price: 24.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBB8F33-es Crocs Isabella T-Strap Sandalias de Punta Descubierta para...'
-tags: [ tole.es, sandalias ]
+tags: [ 'tole.es','sandalias', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQ86L6-es Pepe Jeans Hatch Vaqueros Slim 120z Deep Sea Denim Denim...'
-tags: [ tole.es, vaqueros ]
+tags: [ 'tole.es','vaqueros', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

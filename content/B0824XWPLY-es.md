@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824XWPLY-es WeciBor Calcetines Hasta La Pantorrilla Para Hombre...'
-tags: [ tole.es, moda ]
+tags: [ 'tole.es','moda', ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

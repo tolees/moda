@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLYBLN-es Geox D NYDAME D Zapatillas para Mujer Blanco White/Off...'
-tags: [ tole.es, geox ]
+tags: [ 'tole.es','geox', ]
 actualPrice: 53.86 EUR
 currency: EUR
 price: 53.86

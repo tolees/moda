@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K92RH3M-es Crocs Crocband Zuecos con Correa Unisex Adulto Azul Bright...'
-tags: [ tole.es, zuecos ]
+tags: [ 'tole.es','zuecos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99
