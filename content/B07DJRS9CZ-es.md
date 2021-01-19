@@ -26,7 +26,7 @@ Tienes [Only Onlchris Fur Hooded Jacket Otw Noos Chaqueta  Gris  Pumice Stone Pu
 
 🔎:
 
-- Fake faux jacket with zipper
 - Fake faux jacket with hood
+- Fake faux jacket with zipper
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DJRS9CZ/?tag=tolees-21)
