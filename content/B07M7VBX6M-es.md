@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7VBX6M-es Geographical Norway - Chaqueta - para hombre azul marino L'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

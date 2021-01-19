@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8WTJ8V-es G-STAR RAW 3301 Slim Vaqueros Ultra Dk Aged 8968-9112 24W...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KHLFG1T-es Under Armour UA Rush Short Sleeve Camiseta Mujer Negro...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

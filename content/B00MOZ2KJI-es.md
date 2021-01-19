@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MOZ2KJI-es Dickies Streetwear Male Shirt Sacramento - Camiseta /...'
-tags: camisa, camiseta
+tags: tole.es, camisa, camiseta
 actualPrice: 34.78 EUR
 currency: EUR
 price: 34.78

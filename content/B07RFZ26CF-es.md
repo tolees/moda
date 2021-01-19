@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFZ26CF-es DC Comics Aquaman Logo Camiseta Negro Black Blk Small para...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

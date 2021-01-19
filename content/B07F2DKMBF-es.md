@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2DKMBF-es Timberland Gateway Pier Casual Zapatos de Cordones Oxford...'
-tags: timberland, zapatos
+tags: tole.es, timberland, zapatos
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

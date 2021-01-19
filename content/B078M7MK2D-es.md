@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078M7MK2D-es NEEGO Bolsillo Lateral de la Consola con Monedero y...'
-tags: monedero
+tags: tole.es, monedero
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

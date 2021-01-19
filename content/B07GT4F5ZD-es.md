@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT4F5ZD-es Alomejor Chaleco Reflectante De Noche Chaleco Reflectante...'
-tags: chaleco
+tags: tole.es, chaleco
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

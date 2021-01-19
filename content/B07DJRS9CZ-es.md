@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJRS9CZ-es Only Onlchris Fur Hooded Jacket Otw Noos Chaqueta Gris...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

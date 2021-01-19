@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTPG59Q-es WinCret Pareo Playa Mujer Traje de Baño Verano Camisolas y...'
-tags: bikini
+tags: tole.es, bikini
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

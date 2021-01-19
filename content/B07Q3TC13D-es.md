@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3TC13D-es TTYAOVO Chicas Arco Iris Unicornio Fancy Vestido Princesa...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

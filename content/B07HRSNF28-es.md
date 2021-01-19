@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRSNF28-es HAWKERS · COLLINS · Gold · Green Bottle · Gafas de sol...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

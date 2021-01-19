@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVDQ195-es Camper Hardwood K300027-006 Botines Hombre 42'
-tags: botines
+tags: tole.es, botines
 actualPrice: 132 EUR
 currency: EUR
 price: 132

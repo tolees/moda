@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081W1DK7K-es Fred Perry Taped Chest Track Jacket Chaqueta deportiva - M'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

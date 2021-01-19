@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX7GGW-es Pepe Jeans Theo Camiseta Azul Old Navy 584 Medium para Hombre'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

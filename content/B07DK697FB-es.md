@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK697FB-es Geox Jr Wader A Sandalias Punta Cerrada para Niños Azul...'
-tags: geox, sandalias
+tags: tole.es, geox, sandalias
 actualPrice: 31.57 EUR
 currency: EUR
 price: 31.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCY7VR3-es X-TIGER Vellón Térmico Invierno MTB Ciclismo Guantes con...'
-tags: guantes
+tags: tole.es, guantes
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

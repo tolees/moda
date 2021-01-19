@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHSG592-es Levi s SS Original Hm tee Camiseta Negro Cotton + Patch...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

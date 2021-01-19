@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXS74SW-es Timezone Tight Taviratz 7/8 Vaqueros Slim Blanco Dark Navy...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 18.17 EUR
 currency: EUR
 price: 18.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVQD4VR-es Collar de árbol de la vida y la familia con búho de...'
-tags: collar
+tags: tole.es, collar
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

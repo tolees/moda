@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GF6TZBS-es Semme Chaleco térmico eléctrico de Invierno USB Cargado...'
-tags: chaleco
+tags: tole.es, chaleco
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPNSGL-es G-STAR RAW Citishield Slim Chaqueta Vaquera Negro 3D...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

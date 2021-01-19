@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2N27HW-es MICHLEY Bebé Ropa Niños Niñas Pijama Disfraces Primavera...'
-tags: pelele, pijama
+tags: tole.es, pelele, pijama
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

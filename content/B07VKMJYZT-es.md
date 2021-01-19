@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKMJYZT-es Hackett Amr Tape LS Polo Camisa Manga Larga Azul 595navy...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 33.08 EUR
 currency: EUR
 price: 33.08

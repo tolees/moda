@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BLB3Y78-es AURIQUE Racerback Camiseta deportiva de tirantes...'
-tags: aurique, camiseta
+tags: tole.es, aurique, camiseta
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

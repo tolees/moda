@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ET4MO5Q-es Helly Hansen W Aden Long Chaqueta Mujer Black L'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 58.5 EUR
 currency: EUR
 price: 58.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ3B4B9-es Geox D Yulimar C Sandalias con Punta Abierta para Mujer Lt...'
-tags: geox, sandalias
+tags: tole.es, geox, sandalias
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

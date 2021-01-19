@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWSYMB1-es Geox UOMO Snake E Zapatillas para Hombre Azul Avio/Lt Grey...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

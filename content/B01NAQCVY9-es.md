@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAQCVY9-es Puma Cross The Line tee Camiseta Hombre Red White XL'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL6HYM-es G-STAR RAW Whistler Down Parka Gris Asfalt 995 XX-Small...'
-tags: parka
+tags: tole.es, parka
 actualPrice: 74.68 EUR
 currency: EUR
 price: 74.68

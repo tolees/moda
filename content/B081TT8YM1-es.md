@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TT8YM1-es adidas M BB T Camiseta de Manga Corta Hombre Scarlet/Black S'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

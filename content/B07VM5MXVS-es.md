@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM5MXVS-es OBEEII Vestidos Princesa Niña Traje del Vestido Princesa...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

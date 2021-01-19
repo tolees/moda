@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017XOZMM6-es Helly Hansen Salt Power Chaqueta Hombre Negro L'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 132.59 EUR
 currency: EUR
 price: 132.59

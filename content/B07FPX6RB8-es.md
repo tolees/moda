@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPX6RB8-es Jack & Jones Jjitim Jjoriginal Am 782 50sps Noos Vaqueros...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQ47TQ-es Pepe Jeans Josephs Camiseta Grey Marl 933 Large para Hombre'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

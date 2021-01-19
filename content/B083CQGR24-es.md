@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083CQGR24-es Le Coq Sportif Aluf Crew Sweat Sudadera - L'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

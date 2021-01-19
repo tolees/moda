@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYK968M-es KAPORAL Ozone Chaqueta Negro Black M62 L para Hombre'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 19.32 EUR
 currency: EUR
 price: 19.32

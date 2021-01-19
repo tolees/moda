@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08218VRMX-es Kit Ojetes Metalicos 8mm ManLee 100pcs Ojales Metalicos...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCJSHZP-es Columbia Carson Pass II Chaqueta Impermeable Mujer Verde...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 60.66 EUR
 currency: EUR
 price: 60.66

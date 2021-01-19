@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6KRQHD-es Under Armour Armour Insulated Hooded Chaqueta Mujer Gris SM'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 66.72 EUR
 currency: EUR
 price: 66.72

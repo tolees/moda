@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EECV5O0-es Timberland Authentics 3 Eye Classic Náuticos para Hombre...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 120.48 EUR
 currency: EUR
 price: 120.48

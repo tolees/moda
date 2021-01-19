@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNTM5P1-es Lee Elly Vaqueros Azul Dark Truxel HP W28/L31 para Mujer'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

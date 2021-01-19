@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HV6MH2-es BENNALD Short Deportivo Hombre Pantalones Cortos Deporte...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

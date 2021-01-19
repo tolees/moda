@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WUBHDPC-es CASUAL FRIDAY 500924 Camisa 50003 Black S para Hombre'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

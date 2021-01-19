@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2LNFW4-es Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 81.83 EUR
 currency: EUR
 price: 81.83

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHJBX4K-es Esprit Jelto NW PJ.LS_ll Pijama Negro Black 001 Large para...'
-tags: pijama
+tags: tole.es, pijama
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

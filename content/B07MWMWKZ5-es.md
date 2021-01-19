@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWMWKZ5-es Timberland TB9173 Gafas de sol Transparente Crystal/Smoke...'
-tags: gafas, timberland
+tags: tole.es, gafas, timberland
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXBZ58Q-es Superdry Tyler Vaqueros Slim Azul Union Dark Blue Vf6...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 25.3 EUR
 currency: EUR
 price: 25.3

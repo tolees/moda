@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CPGTGX-es Geographical Norway Parka Hombre Boomerang A Gris Oscuro S'
-tags: parka
+tags: tole.es, parka
 actualPrice: 65 EUR
 currency: EUR
 price: 65

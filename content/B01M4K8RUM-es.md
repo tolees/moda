@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4K8RUM-es Collares para Parejas Anillo Acero Inoxidable Regalo Amor...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

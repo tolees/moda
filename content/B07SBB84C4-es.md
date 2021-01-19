@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBB84C4-es Crocs Crocband Clog K Zuecos Unisex-Bambini Verde Neo Mint...'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

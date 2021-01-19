@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVNRTQ2-es Only Onlnew Carle L/S Pullover CC Knt Jersey Multicolor...'
-tags: jersey
+tags: tole.es, jersey
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

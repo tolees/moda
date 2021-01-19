@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRHYJNM-es Relojes para Hombres Moda Reloj de Cuarzo Reloj de Pulsera...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

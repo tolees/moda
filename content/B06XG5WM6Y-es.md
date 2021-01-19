@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG5WM6Y-es Marca Amazon - find. Camisa Hombre Azul Navy Polka S Label: S'
-tags: camisa, -, find.
+tags: tole.es, camisa, -, find.
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

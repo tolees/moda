@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQNWG2L-es Levi s 511 Slim Vaqueros Gris Dark Slate Sueded Sateen WT...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

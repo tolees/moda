@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SXFLXT-es XWZZZZ Juguete de la Felicidad Masturbador Masculino Copa...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

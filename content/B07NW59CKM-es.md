@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW59CKM-es Skechers Keepsakes 2.0 Botines Mujer Marrón Chestnut Suede...'
-tags: botines
+tags: tole.es, botines
 actualPrice: 50.76 EUR
 currency: EUR
 price: 50.76

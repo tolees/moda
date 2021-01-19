@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPFYQB9-es dockers Alpha 360 Button Up Camisa Casual Negro Pirate...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

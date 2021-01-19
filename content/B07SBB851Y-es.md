@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBB851Y-es Crocs Crocband Flip Chanclas Unisex Adulto Verde Deep...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B74DXL-es Columbia Triple Canyon Camisa de Manga Corta Hombre Rojo...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JP1RFG1-es Cressi Aqua Shoes Zapatos Deportivo para Uso Acuático...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

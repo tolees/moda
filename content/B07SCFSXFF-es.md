@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCFSXFF-es Crocs Classic Slide Sandalias de Punta Descubierta Unisex...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCXSN5K-es Cartera Mujer Cuero Auténtico Bloqueo RFID Billetera Mujer...'
-tags: billetera, monedero
+tags: tole.es, billetera, monedero
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ2P85-es Geox U Kristof A Zapatillas para Hombre Marrón Dk...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

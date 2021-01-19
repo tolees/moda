@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H8K9DH6-es Superdry Hombre Chaqueta degradada Power Lima/Turquesa S'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 84.98 EUR
 currency: EUR
 price: 84.98

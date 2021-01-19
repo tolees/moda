@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0723GB4VZ-es G-STAR RAW ARC 3D Low Waist Boyfriend Vaqueros Multicolor...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

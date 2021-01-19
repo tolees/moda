@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BBCXJV-es Zuecos Unisex Niños Verano Sandalias de Playa Respirable...'
-tags: sandalias, zapatos, zuecos
+tags: tole.es, sandalias, zapatos, zuecos
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

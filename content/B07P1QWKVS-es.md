@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P1QWKVS-es synmixx Gafas Natación Antiniebla Gafas de Natación...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

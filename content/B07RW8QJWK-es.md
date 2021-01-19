@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW8QJWK-es Riñonera Deportiva Riñonera Mujer Hombre Running Cinturón...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

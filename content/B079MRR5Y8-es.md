@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MRR5Y8-es Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con...'
-tags: camiseta, meraki
+tags: tole.es, camiseta, meraki
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

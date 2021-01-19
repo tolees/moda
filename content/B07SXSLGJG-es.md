@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXSLGJG-es Geox U IACOPO A Zapatos de Cordones Oxford para Hombre...'
-tags: geox, zapatos
+tags: tole.es, geox, zapatos
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

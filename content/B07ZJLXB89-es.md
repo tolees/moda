@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJLXB89-es Spongebob SquarePants: Battle for Bikini Bottom Rehydrated...'
-tags: bikini
+tags: tole.es, bikini
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

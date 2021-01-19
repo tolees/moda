@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ4K8ZZ-es New Look Maisie Fitted Puffer Abrigo Mujer Negro Black 1...'
-tags: abrigo
+tags: tole.es, abrigo
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYGL2C3-es Pepe Jeans Hatch Vaqueros 12Oz Clean Twill Denim 38W / 32L...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

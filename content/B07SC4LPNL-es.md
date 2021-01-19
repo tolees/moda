@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SC4LPNL-es Helly Hansen Daybreaker Fleece Jacket Forro Polar Chaqueta...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

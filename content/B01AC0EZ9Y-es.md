@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AC0EZ9Y-es Nike Yth Park II Knit Short Nb Pantalón Corto Niños Negro...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

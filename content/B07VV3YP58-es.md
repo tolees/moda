@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VV3YP58-es Meizas Conjuntos de Bikinis para Mujer Push Up Bikini...'
-tags: bikini
+tags: tole.es, bikini
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

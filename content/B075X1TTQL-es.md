@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075X1TTQL-es find. NEWSTW045 vaqueros mujer Azul Indigo Rinse W27/L30'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

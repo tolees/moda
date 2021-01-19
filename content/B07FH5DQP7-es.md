@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH5DQP7-es Havaianas Hype Chanclas Unisex Adulto Multicolor...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

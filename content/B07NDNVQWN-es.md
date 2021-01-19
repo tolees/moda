@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNVQWN-es G-STAR RAW Graphic 14 Core Hooded Sudadera Marrón Aged...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

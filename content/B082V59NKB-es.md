@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V59NKB-es Canadian Peak Parka'
-tags: parka
+tags: tole.es, parka
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

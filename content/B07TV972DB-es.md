@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV972DB-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Sudadera...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

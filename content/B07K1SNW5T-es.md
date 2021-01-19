@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1SNW5T-es Adidas Tiro 19 Polyester Jacke Chaqueta Deportiva Hombre...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

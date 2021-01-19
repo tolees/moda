@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVTNQDG-es Women s Secret Trendy Tapestry TT Green CLAS PJ FR...'
-tags: pijama
+tags: tole.es, pijama
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

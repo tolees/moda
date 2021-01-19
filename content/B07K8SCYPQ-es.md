@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8SCYPQ-es Levi s 512 Slim Taper Fit Jean Vaqueros Azul Abu ADV 32W /...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

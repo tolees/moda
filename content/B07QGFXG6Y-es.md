@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGFXG6Y-es PUMA Power BND tee Camiseta Hombre Rojo Rhubarb-Nrgy Red XXL'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

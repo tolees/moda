@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LMI51X0-es Quiksilver Monkey Abyss M SNDL Sandalias con Plataforma...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 10.12 EUR
 currency: EUR
 price: 10.12

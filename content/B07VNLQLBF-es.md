@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNLQLBF-es New Look Earnie Patch Pocket Camisa Negro Black 1 40 para...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 8.42 EUR
 currency: EUR
 price: 8.42

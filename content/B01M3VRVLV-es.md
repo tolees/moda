@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3VRVLV-es Pepe Jeans Spike Vaqueros Azul 11oz Streaky Vintage Used...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

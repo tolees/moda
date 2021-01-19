@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2QF9X2-es Helly Hansen Verglas Light Chaqueta De Pluma con Capucha...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 80.56 EUR
 currency: EUR
 price: 80.56

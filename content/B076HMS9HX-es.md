@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HMS9HX-es adidas CORE18 RN JKT Chaqueta Deportiva Hombre Azul Dark...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

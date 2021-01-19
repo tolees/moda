@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDBJ57G-es G-STAR RAW Revend Skinny Vaqueros Medium Aged Ripped...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 37.22 EUR
 currency: EUR
 price: 37.22

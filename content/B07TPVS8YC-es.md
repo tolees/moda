@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPVS8YC-es Superdry VL Fade T Shirt Store tee Camiseta Blanco Optic...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

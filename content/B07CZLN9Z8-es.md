@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZLN9Z8-es Under Armour UA Qualifier Shortsleeve Camiseta Hombre...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 10.42 EUR
 currency: EUR
 price: 10.42

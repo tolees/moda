@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHT2LP7-es Vans VN0A3I6C - Billetera de Sintético hombre Rojo Rojo...'
-tags: billetera
+tags: tole.es, billetera
 actualPrice: 15 EUR
 currency: EUR
 price: 15

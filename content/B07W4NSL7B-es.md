@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4NSL7B-es AIPER Chaleco Calefactable para Hombres y Mujeres con...'
-tags: chaleco, chaqueta
+tags: tole.es, chaleco, chaqueta
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1J47WD-es Clarks Un Venturehi Botines para Mujer Negro Black Combi...'
-tags: botines
+tags: tole.es, botines
 actualPrice: 53.34 EUR
 currency: EUR
 price: 53.34

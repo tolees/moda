@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STZKFYL-es Pepe Jeans Stanley Vaqueros Straight Blanco 000Denim 000...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 33.24 EUR
 currency: EUR
 price: 33.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZF1GTW-es IRIS & LILLY Camiseta de Manga Larga para Mujer Gris Grey...'
-tags: camiseta, iris, &, lilly
+tags: tole.es, camiseta, iris, &, lilly
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

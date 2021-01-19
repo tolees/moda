@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKC39X9-es edc by Esprit 069cc2k006 Camiseta Azul Navy 400 Large para...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

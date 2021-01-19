@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR7ZM4Q-es Clarks Un Lisbon Lace Zapatos de Cordones Derby para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 35.8 EUR
 currency: EUR
 price: 35.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6SWVP4-es Kipling LENEXA Bolso bandolera 44 cm 24 liters Negro Charcoal'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 100.65 EUR
 currency: EUR
 price: 100.65

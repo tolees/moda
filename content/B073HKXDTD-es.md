@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073HKXDTD-es XTI 26915 Sandalias ESCLAVAS Mujer Sandalias Fuxia 38'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

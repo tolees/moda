@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07795BQXN-es COMVIP Bebé niña Forro Polar Cachorro Suavemente único...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 4.68 EUR
 currency: EUR
 price: 4.68

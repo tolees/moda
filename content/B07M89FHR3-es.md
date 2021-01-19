@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M89FHR3-es Lee Luke Vaqueros Blue Black Wood Gq 29W / 30L para Hombre'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQNBPMT-es El Ganso 1 Camisa casual Rojo Rojo 0010 Small para Hombre'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 24.44 EUR
 currency: EUR
 price: 24.44

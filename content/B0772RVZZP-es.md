@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772RVZZP-es Marca Amazon - MERAKI Pantalón Cortos Chinos Hombre azul...'
-tags: meraki, pantalón
+tags: tole.es, meraki, pantalón
 actualPrice: 7.12 EUR
 currency: EUR
 price: 7.12

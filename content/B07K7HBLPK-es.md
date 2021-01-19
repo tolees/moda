@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7HBLPK-es adidas Tiro19 WOV SHO Pantalón Corto Hombre Negro...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

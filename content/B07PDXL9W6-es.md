@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDXL9W6-es Lego Movie Camiseta de Manga Larga para niños La Lego...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

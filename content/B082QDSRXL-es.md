@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082QDSRXL-es Marca Amazon - Iris & Lilly Caftán Mujer Multicolor Dark...'
-tags: iris, &, lilly
+tags: tole.es, iris, &, lilly
 actualPrice: 9.11 EUR
 currency: EUR
 price: 9.11

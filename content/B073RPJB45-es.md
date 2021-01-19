@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPJB45-es Helly Hansen HH Tech 1/2 Zip Camiseta de Manga Larga con...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

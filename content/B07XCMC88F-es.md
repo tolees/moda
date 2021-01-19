@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCMC88F-es coskefy Guantes Moto Invierno Guantes Termicos para Hombre...'
-tags: guantes
+tags: tole.es, guantes
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

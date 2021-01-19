@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CSN5DZ4-es Columbia Fast Trek II Chaqueta Polar para Mujer Color: Sea...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 20 EUR
 currency: EUR
 price: 20

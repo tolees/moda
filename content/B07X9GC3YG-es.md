@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9GC3YG-es Bolso de Hombro para Mujer Bolsos Cruzados de Marca para...'
-tags: bolso, moda
+tags: tole.es, bolso, moda
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

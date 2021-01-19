@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WEVRFP6-es KRISP Vestido Moda Mujer Fruncido Moca 6487 40 6487-MOC-12'
-tags: moda, vestido
+tags: tole.es, moda, vestido
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

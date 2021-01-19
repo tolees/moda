@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDDGZX-es NIKE W NP Tank Essential Swoosh Camiseta sin Mangas Mujer...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 15.78 EUR
 currency: EUR
 price: 15.78

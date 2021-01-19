@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8WHM9C-es REPLAY W2266a.000.52166 Blusa Multicolor Blue/Red/Azule 10...'
-tags: blusa
+tags: tole.es, blusa
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

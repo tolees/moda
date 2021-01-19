@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC8DK3D-es loonBonnie Bolso de Hombro de la Lona de la Moda Bolso de...'
-tags: bolso, moda
+tags: tole.es, bolso, moda
 actualPrice: 3.14 EUR
 currency: EUR
 price: 3.14

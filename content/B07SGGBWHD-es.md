@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGGBWHD-es Burton Brtn Camiseta Hombre True Black L'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

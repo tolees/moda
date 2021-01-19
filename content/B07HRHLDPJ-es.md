@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRHLDPJ-es YuamMei 1 Par de Guantes de Protección Completos Guantes...'
-tags: guantes
+tags: tole.es, guantes
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

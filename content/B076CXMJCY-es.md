@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CXMJCY-es RED WAGON Camiseta Print Niños Pack de 3 Multicolor...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

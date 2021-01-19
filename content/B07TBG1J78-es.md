@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBG1J78-es Quiksilver Stapilton - Chaqueta De Lona Con Cremallera...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 43.94 EUR
 currency: EUR
 price: 43.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9SK5F-es Levi s Camiseta Multicolor Authentic Colorblock tee...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

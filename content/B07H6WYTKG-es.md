@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6WYTKG-es Rockport - Zapatos de tacón Melora de Piel 39 EU Alpaca'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB4PN1K-es BLEND Jet Vaqueros Slim Azul Denim Light Blue 76200...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

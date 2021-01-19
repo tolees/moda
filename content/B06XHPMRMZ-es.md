@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHPMRMZ-es Marca Amazon - find. Camisa Hombre Azul Blue M Label: M'
-tags: camisa, -, find.
+tags: tole.es, camisa, -, find.
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

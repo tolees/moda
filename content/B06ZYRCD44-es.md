@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZYRCD44-es NOVECASA Chaleco Suana Mujer Neopreno Sweat Vest para...'
-tags: chaleco
+tags: tole.es, chaleco
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

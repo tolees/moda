@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYM1CV8-es Harry Potter Vestido para niñas Hogwarts Gris 9-10 Años'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

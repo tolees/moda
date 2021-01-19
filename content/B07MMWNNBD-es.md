@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWNNBD-es Wrangler 80\u00b4s Retro Sweat Sudadera Blanco White 989...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S89TRHQ-es Lee Rider Jeans Vaqueros Mission Worn 31W / 32L para Hombre'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

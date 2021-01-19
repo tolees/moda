@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019XXIPVU-es Crocs Classic Clog Zuecos Unisex Adulto Verde New Mint 3P7...'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

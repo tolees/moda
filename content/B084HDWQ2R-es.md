@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084HDWQ2R-es XTI - Sandalias con Tacón Casual - Sandalia con Tacón -...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

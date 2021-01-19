@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQGESND-es Deportes Hera Pantalón De Running Mallas De Correr...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

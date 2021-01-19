@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV7NG1Q-es Levi s The tee Camiseta de Manga Corta Azul BRW T2 Baby...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCLP9Q2-es Marca Amazon - find. Pantalón con Cintura de Fuelle Mujer...'
-tags: pantalón, -, find.
+tags: tole.es, pantalón, -, find.
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

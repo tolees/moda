@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSJQ5Y8-es Only Onlnorth Nylon Jacket CC Otw Chaqueta Azul Detalle...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

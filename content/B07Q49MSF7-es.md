@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q49MSF7-es ZERHOK Neceser Aseo pequeño 8pcs Bolso de Organizador de...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

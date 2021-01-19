@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0842RDGKR-es Cerdá Bebe-100% algodón Pelele Winnie The Pooh de Bebe...'
-tags: pelele
+tags: tole.es, pelele
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

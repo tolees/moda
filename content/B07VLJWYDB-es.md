@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLJWYDB-es SINOES Mujer 720 Caña Baja Gimnasia Ligero Transpirable...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

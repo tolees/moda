@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CD1TTVQ-es Skechers DELSON-Antigo 65693 Zapatos de Cordones Oxford...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

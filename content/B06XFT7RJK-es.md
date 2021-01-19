@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XFT7RJK-es Marca Amazon - find. Camisa Hombre Verde Mint Green...'
-tags: camisa, -, find.
+tags: tole.es, camisa, -, find.
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

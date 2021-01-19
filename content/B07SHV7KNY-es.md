@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHV7KNY-es G-Star Sp10515 LS tee Camiseta de Manga Larga Marfil...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

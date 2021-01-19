@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMNQZBC-es Superdry VL Shirt Shop Bonded tee Camiseta Negro Black 02a...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

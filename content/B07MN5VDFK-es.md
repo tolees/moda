@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN5VDFK-es Fly London Ragi539fly Botines para Mujer Rojo Red 006 38 EU'
-tags: botines
+tags: tole.es, botines
 actualPrice: 41.94 EUR
 currency: EUR
 price: 41.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BJD2KB8-es Just Cool - Camiseta lisa para hombre Primavera-Verano...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

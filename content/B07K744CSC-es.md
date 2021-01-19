@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K744CSC-es Levi s SS Colorblock tee Camiseta Multicolor Colorbock...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

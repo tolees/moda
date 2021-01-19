@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTWP8R1-es Adidas Adilette Shower - Zapatos de Playa y Piscina para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

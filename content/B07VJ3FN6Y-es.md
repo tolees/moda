@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJ3FN6Y-es Calvin Klein Zip Through HD Jacket Chaqueta Verde New...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 85.63 EUR
 currency: EUR
 price: 85.63

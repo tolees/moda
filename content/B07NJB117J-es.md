@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJB117J-es Bañador de Mujer Bikini Ropa de Baño de Una Pieza Azul...'
-tags: bikini
+tags: tole.es, bikini
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

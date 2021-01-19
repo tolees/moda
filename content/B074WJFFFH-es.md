@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074WJFFFH-es Timberland Union Wharf Lace Oxford Zapatillas Bajas para...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QRBLQZH-es Esprit 069ee2f005 Camisa Azul Light Blue 440 Small para...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

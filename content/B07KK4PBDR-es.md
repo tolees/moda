@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK4PBDR-es Columbia Fire Venture L II WP Zapatos de Senderismo para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 29.27 EUR
 currency: EUR
 price: 29.27

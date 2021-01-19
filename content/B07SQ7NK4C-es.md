@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ7NK4C-es Zapatillas de Hombre - Zapatos Casuales de Paseo Moda...'
-tags: moda, zapatos
+tags: tole.es, moda, zapatos
 actualPrice: 25.66 EUR
 currency: EUR
 price: 25.66

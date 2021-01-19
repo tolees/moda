@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCBTWNJ-es Pepe Jeans Pixie Vaqueros Pitillo Hombre Negro Black Wiser...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

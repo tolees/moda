@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQ2QMRW-es HKT by Hackett Hkt GMT W Piquet Camisa Indigo 561 Medium...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 17.31 EUR
 currency: EUR
 price: 17.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZY3Q39-es Wrangler Logo tee Camiseta Negro Real Black XW5 XXXX-Large...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

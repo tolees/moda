@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7WW6DN-es Love Moschino Jc4275pp0a Bolso tipo tote para Mujer Negro...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

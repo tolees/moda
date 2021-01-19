@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF5BDGD-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Ivy Adv...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

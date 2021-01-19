@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH2T43W-es Under Armour Playoff 20 Men s Transpirable Hombre cómoda y...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

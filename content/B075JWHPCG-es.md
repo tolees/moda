@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JWHPCG-es Amazon Essentials Hooded Fleece Sweatshirt Sudadera Verde...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FY2WX8M-es Souke Sports - Chaqueta de Ciclismo Hombre Chaqueta Ligera...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

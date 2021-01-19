@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK3CNPJ-es GANT D1.Winter TWI Buffalo Check Reg BD Camisa Azul...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 52.59 EUR
 currency: EUR
 price: 52.59

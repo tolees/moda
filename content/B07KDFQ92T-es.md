@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KDFQ92T-es adidas Tiro19 Pre Jkty Chaqueta de Deporte Unisex niños...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

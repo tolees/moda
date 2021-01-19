@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD9DBMY-es MerCie Joyeria de creación Artesanal de Juguete | 1800...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

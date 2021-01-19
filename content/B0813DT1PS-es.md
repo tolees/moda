@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813DT1PS-es Marca Amazon - TRUTH & FABLE Vestido Mujer Estampado...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 44.8 EUR
 currency: EUR
 price: 44.8

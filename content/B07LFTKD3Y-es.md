@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFTKD3Y-es Zapatillas de Seguridad Hombres LM-30 Zapatos de Trabajo...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

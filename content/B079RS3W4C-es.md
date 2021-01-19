@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RS3W4C-es Pepe Jeans Jenna PL952389 Vestido Multicolor Multi 0Aa...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

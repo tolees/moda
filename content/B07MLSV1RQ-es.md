@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSV1RQ-es Clarks Ronnie Limit Zapatos de Cordones Brogue para Hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 32.31 EUR
 currency: EUR
 price: 32.31

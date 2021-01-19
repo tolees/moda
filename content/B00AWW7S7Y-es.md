@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AWW7S7Y-es Gildan Soft Style V-Neck T Shirt Camiseta Negro M para Hombre'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 6.13 EUR
 currency: EUR
 price: 6.13

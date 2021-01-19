@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q2MZQC-es UTOBEST Mochila Running Hidratacion 3L Chaleco Hidratación...'
-tags: chaleco
+tags: tole.es, chaleco
 actualPrice: 25.8 EUR
 currency: EUR
 price: 25.8

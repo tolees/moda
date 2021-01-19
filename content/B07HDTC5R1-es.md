@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HDTC5R1-es Nike Precision III Zapatos de Baloncesto Unisex Adulto...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

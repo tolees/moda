@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLDFWFW-es Primigi Sandalo Bambina Sandalias con Punta Abierta para...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 28.32 EUR
 currency: EUR
 price: 28.32

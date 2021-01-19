@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHG78QH-es Lifewit Bolsa Térmica Porta Alimentos con Paquete de Hielo...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

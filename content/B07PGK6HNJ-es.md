@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGK6HNJ-es find. Flat Leather Pull On Botines Azul Navy 36 EU'
-tags: botines
+tags: tole.es, botines
 actualPrice: 14.08 EUR
 currency: EUR
 price: 14.08

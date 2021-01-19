@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6KRP13-es Under Armour Armour Insulated Chaqueta Hombre Verde XL'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 72.31 EUR
 currency: EUR
 price: 72.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCCQXX7-es Only Onlnew Skylar Spring Jacket CC OTW Chaqueta Rosa Rose...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 11.34 EUR
 currency: EUR
 price: 11.34

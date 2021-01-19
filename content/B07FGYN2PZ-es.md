@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FGYN2PZ-es Columbia Hombre Chaqueta Cascade Ridge II Softshell Azul...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 45.09 EUR
 currency: EUR
 price: 45.09

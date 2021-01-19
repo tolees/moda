@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF5RDZK-es Levi s LS Original Hm tee Camiseta Gris Medium Grey...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

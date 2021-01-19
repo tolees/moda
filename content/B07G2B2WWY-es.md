@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2B2WWY-es MISS MOLY Mujer Camiseta de Tirantes con Cuello en V...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6KZCHB-es Fall Out Boy - Camiseta Modelo Mania para Adultos Unisex L...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

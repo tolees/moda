@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Z2NBKT-es PUMA Om Stadium Training Pants Pantalón Largo Hombre...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

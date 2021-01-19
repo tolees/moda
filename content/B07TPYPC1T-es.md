@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYPC1T-es Clarks Botanic Strap Sandalias de Talón Abierto para Mujer...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 50.41 EUR
 currency: EUR
 price: 50.41

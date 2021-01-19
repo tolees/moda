@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NRVGH-es PUMA Epic Flip V2 Amplified Zapatos de Playa y Piscina...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

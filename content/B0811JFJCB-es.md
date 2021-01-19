@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811JFJCB-es Yigou Chubasquero Poncho de Lluvia Impermeable Poncho con...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

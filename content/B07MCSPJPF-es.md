@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPJPF-es Napapijri Rainforest Winter 1 Chaqueta Marrón Golden Brown...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 57.73 EUR
 currency: EUR
 price: 57.73

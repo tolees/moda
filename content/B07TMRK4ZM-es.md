@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMRK4ZM-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Gris Stone...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 28.26 EUR
 currency: EUR
 price: 28.26

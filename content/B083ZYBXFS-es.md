@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZYBXFS-es DCC FIONNI Collar Mujer Corazon Colgante Plata de Ley 925...'
-tags: collar
+tags: tole.es, collar
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD6JTLQ-es PUMA Nu-Tility Woven Jacket Chaqueta De Entrenamiento...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

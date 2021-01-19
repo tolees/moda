@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9Z3VP9-es United Colors of Benetton Layette BB B2 Camiseta de Manga...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 7.52 EUR
 currency: EUR
 price: 7.52

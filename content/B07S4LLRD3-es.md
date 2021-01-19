@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4LLRD3-es Esprit 089ee1k031 Camiseta Negro Black 001 Small para Mujer'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L951SJY-es JACK & JONES NOS JJEDESERT Bomber Noos Chaqueta Azul...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 12 EUR
 currency: EUR
 price: 12

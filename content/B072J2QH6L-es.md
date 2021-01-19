@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J2QH6L-es Under Armour Sportstyle Pique Pantalón deportivo para...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 33.75 EUR
 currency: EUR
 price: 33.75

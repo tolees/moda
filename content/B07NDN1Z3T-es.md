@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDN1Z3T-es Tous Kaos Shock Rever - Organizador de bolso para Mujer...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

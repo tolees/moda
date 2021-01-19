@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1K6YJ5-es Mishansha Zapatillas Invierno Hombre Casa Zapatos...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

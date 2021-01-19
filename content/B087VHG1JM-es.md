@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087VHG1JM-es Columbia Horizon Explorer Chaqueta con Capucha Hombre...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

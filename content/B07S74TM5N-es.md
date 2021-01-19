@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S74TM5N-es adidas Grand Court Base Zapatos de Tenis para Hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

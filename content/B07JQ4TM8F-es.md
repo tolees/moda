@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQ4TM8F-es Adidas Tiro 19 Training Track Top Jkt Chaqueta Deportiva...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

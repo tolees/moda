@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GUXJJ4Y-es Columbia Peakfreak Nomad Chukka WP Omni-Heat Zapatos...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

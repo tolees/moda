@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KWF4GLW-es Columbia Peakfreak Nomad Zapatos impermeables para hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TMC9ZJ-es BENYAR Cronógrafo de Cuero de Moda Relojes Impermeables de...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

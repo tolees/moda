@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTT9PS-es Geox U EOLO B Zapatillas para Hombre Azul Navy C4002 42 EU'
-tags: geox
+tags: tole.es, geox
 actualPrice: 90.02 EUR
 currency: EUR
 price: 90.02

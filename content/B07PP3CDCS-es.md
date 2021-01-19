@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PP3CDCS-es HUGO Alisters Chaqueta de Traje Negro Charcoal 010 105...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 35.46 EUR
 currency: EUR
 price: 35.46

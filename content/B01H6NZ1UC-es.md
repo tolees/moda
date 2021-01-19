@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H6NZ1UC-es Crocs Swiftwater River Sandal M Sandalias para Hombre...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 29.38 EUR
 currency: EUR
 price: 29.38

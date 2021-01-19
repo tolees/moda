@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPR8MCC-es Calvin Klein 2pk Bikini Azul 1BlackIris/1White 0HC 8-9...'
-tags: bikini
+tags: tole.es, bikini
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

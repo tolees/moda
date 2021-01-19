@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9CXKBB-es Lee New Pocket SWS Sudadera Gris Grey Mele MP X-Large para...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

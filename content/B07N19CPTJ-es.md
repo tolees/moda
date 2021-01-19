@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N19CPTJ-es Lee Logo tee Camiseta para Hombre Rojo Warp Red Kg Medium'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

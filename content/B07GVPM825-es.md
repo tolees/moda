@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVPM825-es GHYUGR Abrigos con Horn Botones Mujer Invierno Elegantes...'
-tags: chaqueta, parka, sudadera
+tags: tole.es, chaqueta, parka, sudadera
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

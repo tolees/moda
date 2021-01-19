@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY8NF3X-es Art Bergen Botines para Mujer Marrón Cuero Cuero 36 EU'
-tags: botines
+tags: tole.es, botines
 actualPrice: 52.6 EUR
 currency: EUR
 price: 52.6

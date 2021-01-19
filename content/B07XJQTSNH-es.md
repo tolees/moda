@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJQTSNH-es Desigual Mone adaggio - Monedero con Cremallera para Mujer...'
-tags: monedero
+tags: tole.es, monedero
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

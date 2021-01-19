@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081MYZ3HG-es Wesho Guantes Gimnasio XL Guantes Gimnasio Hombre...'
-tags: guantes
+tags: tole.es, guantes
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

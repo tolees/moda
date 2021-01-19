@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BP9MDDF-es find. Camisa Formal Entallada Hombre Azul Navy X-Large...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 10 EUR
 currency: EUR
 price: 10

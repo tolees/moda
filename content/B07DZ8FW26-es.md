@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZ8FW26-es Columbia Mission Air Chaqueta Interchange Hombre Azul Dark...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 85.84 EUR
 currency: EUR
 price: 85.84

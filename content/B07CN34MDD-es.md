@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN34MDD-es Crocs Crocband Flip U Chanclas para Mujer Rosa Melon/White...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

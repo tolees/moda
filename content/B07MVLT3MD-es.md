@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVLT3MD-es Napapijri DROZ Jersey Azul CLEMATIS BLUE VB1 L para Hombre'
-tags: jersey
+tags: tole.es, jersey
 actualPrice: 40.05 EUR
 currency: EUR
 price: 40.05

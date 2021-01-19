@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001QOF5NQ-es Levi s 501 Original Fit Jeans Pantalón vaquero con diseño...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 62.49 EUR
 currency: EUR
 price: 62.49

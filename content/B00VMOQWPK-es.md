@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VMOQWPK-es Jako Camiseta de LA Manga Blanco/Negro Talla:42-44'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

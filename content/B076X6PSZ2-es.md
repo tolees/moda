@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076X6PSZ2-es Geox Uomo Sandal Strada D Sandalia con Pulsera para Hombre...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 50.19 EUR
 currency: EUR
 price: 50.19

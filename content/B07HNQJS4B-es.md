@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNQJS4B-es 6 Ballenas Camisa Metal con 6 Imanes AOLVO Ballenas...'
-tags: camisa, collar
+tags: tole.es, camisa, collar
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

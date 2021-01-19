@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2C6HFP-es Timberland Nellie Double Waterproof Zapatillas Chukka para...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 56.21 EUR
 currency: EUR
 price: 56.21

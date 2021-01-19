@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQP8THX-es Clarks Un Karely Sun Chanclas Sandalias Flip-Flop Negro...'
-tags: chanclas, sandalias
+tags: tole.es, chanclas, sandalias
 actualPrice: 45.47 EUR
 currency: EUR
 price: 45.47

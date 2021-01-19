@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSS78X4-es Geox D Genziana Mid B Sandalias con Punta Abierta para...'
-tags: geox, sandalias
+tags: tole.es, geox, sandalias
 actualPrice: 65.43 EUR
 currency: EUR
 price: 65.43

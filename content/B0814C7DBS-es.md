@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814C7DBS-es Columbia Youth Nordic Strider Chaqueta para niña Niñas...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

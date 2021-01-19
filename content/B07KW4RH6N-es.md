@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW4RH6N-es AOQUSSQOA Abdomen de Las Mujeres Tankini Traje de baño de...'
-tags: falda
+tags: tole.es, falda
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

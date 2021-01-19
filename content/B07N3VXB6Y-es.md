@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3VXB6Y-es Desigual Dress Marian Vestido Multicolor Crudo 1001 40...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 71.42 EUR
 currency: EUR
 price: 71.42

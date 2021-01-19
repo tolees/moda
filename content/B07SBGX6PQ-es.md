@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBGX6PQ-es Lee Austin Vaqueros Tapered Azul Mission Clean Zg 29W /...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

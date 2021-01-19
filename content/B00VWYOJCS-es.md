@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VWYOJCS-es Joma Iris Chaqueta Niños Negro L'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

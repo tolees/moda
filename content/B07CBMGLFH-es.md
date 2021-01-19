@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBMGLFH-es Showu Camisetas Niños Manga Larga Camisa Pantalones Set of...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

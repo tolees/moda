@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08354XCNY-es Jack & Jones Jjelogo tee SS O-Neck 2 Col Ss20 Noos...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

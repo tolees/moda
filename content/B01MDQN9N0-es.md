@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDQN9N0-es Geox U WALEE A Zapatillas para Hombre Azul Navy c4002 40 EU'
-tags: geox
+tags: tole.es, geox
 actualPrice: 50.48 EUR
 currency: EUR
 price: 50.48

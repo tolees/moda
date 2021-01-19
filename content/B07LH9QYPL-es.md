@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH9QYPL-es The North Face Quest Jacket Chaqueta Estampada para Mujer...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

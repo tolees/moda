@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT7GPWS-es Marca Amazon - MERAKI Jersey Cuello Cremallera Hombre...'
-tags: jersey, meraki
+tags: tole.es, jersey, meraki
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

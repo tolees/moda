@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JRCB24D-es Tommy Hilfiger Logo T-Shirt Camiseta Informal Rojo Haute...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 25.57 EUR
 currency: EUR
 price: 25.57

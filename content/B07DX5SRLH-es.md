@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX5SRLH-es Tommy Hilfiger T Camiseta Básica de Manga Corta Blanco...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

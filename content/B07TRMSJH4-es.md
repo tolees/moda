@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRMSJH4-es Levi s HR Decon Iconic BF Skirt Falda Azul High Plains...'
-tags: falda
+tags: tole.es, falda
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

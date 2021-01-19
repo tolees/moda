@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6WM5C7-es O NEILL LM Olsen L/Slv - Camiseta para Hombre Hombre...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD9G2VB-es ALLROS Gafas de Esquí Máscara Gafas ski Snowboard OTG...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

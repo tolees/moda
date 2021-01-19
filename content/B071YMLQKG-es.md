@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071YMLQKG-es Boland 04241 Diadema Nilo Reina Disfraz de Vestido - Talla...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

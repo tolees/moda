@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF18N7Q-es G-STAR RAW Graphic 8 Sudadera Negro Dk Black 6484 Medium...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

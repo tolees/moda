@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XT9B9QJ-es Pepe Jeans Charing PM503215 Camiseta Gris Grey Marl 933...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQVCKYG-es Clarks Batcombe Hall Derby - Zapatos de Cordones para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 44.3 EUR
 currency: EUR
 price: 44.3

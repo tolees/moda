@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLVGSHP-es Hawiton Pijama de Lactancia Verano Ropa Premamá...'
-tags: pijama
+tags: tole.es, pijama
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

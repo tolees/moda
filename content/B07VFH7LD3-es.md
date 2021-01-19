@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFH7LD3-es JACK & JONES Jjebomb Puffer Collar Noos Chaqueta Bomber...'
-tags: chaqueta, collar
+tags: tole.es, chaqueta, collar
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

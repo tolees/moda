@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897FLPR5-es ELEEMEE Mujer Simple Tacón Bajo Sandalias Square Toe...'
-tags: sandalias, vestido, zapatos
+tags: tole.es, sandalias, vestido, zapatos
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQ7TCHQ-es Clarks Originals Desert London Zapatos de Cordones Derby...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 105.6 EUR
 currency: EUR
 price: 105.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGE85S-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

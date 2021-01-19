@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1J5LDB-es Clarks Orabella Alice Botines para Mujer Gris Light Grey...'
-tags: botines
+tags: tole.es, botines
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

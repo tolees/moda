@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831PMZ8Y-es Canadian Peak Chaqueta Mujer BUNATEAK Rojo 01'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

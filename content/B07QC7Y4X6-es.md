@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QC7Y4X6-es PUMA Reactive Chaqueta de Entrenamiento Hombre Negro...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 17.67 EUR
 currency: EUR
 price: 17.67

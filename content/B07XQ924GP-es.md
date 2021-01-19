@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQ924GP-es FIND Cork Two Part Sling Back Wedge Zapatos de tacón con...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

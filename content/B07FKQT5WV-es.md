@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKQT5WV-es Battle Royale Camiseta para niño Gaming Negro 13-14 Años'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

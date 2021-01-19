@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DH6K9-es Lee Chunky Knit Sudadera Marfil Off White MK Small para Mujer'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

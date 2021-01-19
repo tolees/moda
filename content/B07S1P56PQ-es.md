@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1P56PQ-es Levi s The Perfect Tee Camiseta Mujer Blanco Brw Outline...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 10.84 EUR
 currency: EUR
 price: 10.84

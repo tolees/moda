@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC12G3C-es Clarks - Botines de Sintético Hombre Color Marrón Talla 46 EU'
-tags: botines
+tags: tole.es, botines
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

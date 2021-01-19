@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD5NN78-es Trangoworld Borau Chaqueta Hombre Azul Oscuro/Negro S'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 71.49 EUR
 currency: EUR
 price: 71.49

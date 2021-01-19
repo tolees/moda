@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDSYDQ8-es Reebok Boxer para Hombre Multicolor X-Large pack de 4'
-tags: boxer
+tags: tole.es, boxer
 actualPrice: 16.28 EUR
 currency: EUR
 price: 16.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0752BGF4G-es G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros Dark Aged...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

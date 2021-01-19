@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XNSHA8G-es Pepe Jeans Cane Vaqueros Streaky Stretch Dk Z45 34W / 34L...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 51.04 EUR
 currency: EUR
 price: 51.04

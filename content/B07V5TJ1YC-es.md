@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5TJ1YC-es gracosy Botas Nieve Mujer de Piel Invierno Antideslizante...'
-tags: botines, zapatos
+tags: tole.es, botines, zapatos
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

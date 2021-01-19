@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5QR85Y-es Tommy Hilfiger Natural Wedge Sandal Sandalias Punta...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 44.18 EUR
 currency: EUR
 price: 44.18

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2JZBDF-es Levi s 510 Skinny Fit Vaqueros para Hombre Negro Stylo Adv...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 60.58 EUR
 currency: EUR
 price: 60.58

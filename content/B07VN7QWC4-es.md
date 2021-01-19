@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN7QWC4-es Hackett London Amr Hackett tee Camiseta Rojo 1bkorange...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

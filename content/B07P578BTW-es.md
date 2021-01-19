@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P578BTW-es Guess - Manhattan Logo Organizadores de bolso Hombre Negro...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 21.12 EUR
 currency: EUR
 price: 21.12

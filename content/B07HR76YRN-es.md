@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HR76YRN-es FOSTAK Bolso de hombro de viaje para Messenger Work...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

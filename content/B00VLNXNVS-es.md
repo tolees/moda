@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VLNXNVS-es Levi s L/S Barstow Western Shirt Camisa Casual de Manga...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRD5MQJ-es HAWKERS · DREAM · Silver · Chrome · Gafas de sol para...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

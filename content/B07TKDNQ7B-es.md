@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDNQ7B-es Levi s Sudadera Azul Logo Colorblock Crew Dress...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

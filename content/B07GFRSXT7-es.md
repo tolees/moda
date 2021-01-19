@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFRSXT7-es Collar GD Good Designs Est 2015 con letras en oro colgante...'
-tags: collar
+tags: tole.es, collar
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

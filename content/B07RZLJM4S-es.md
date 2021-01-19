@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLJM4S-es Levi s 29717 Sudadera Blanco Crew Box Taba White+ 0092 S...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT5V4Q-es REPLAY Zeumar Vaqueros Slim Gris Stone Grey 400 31W / 34L...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 63.67 EUR
 currency: EUR
 price: 63.67

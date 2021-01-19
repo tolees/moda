@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW4YBPS-es Hackett London Tie Placket Oxford Camisa Blanco White 800...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 92.51 EUR
 currency: EUR
 price: 92.51

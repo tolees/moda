@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCT1ZHM-es Pepe Jeans March Basic Metal Sandalias de Gladiador para...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 34.65 EUR
 currency: EUR
 price: 34.65

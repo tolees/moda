@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGRQL2Y-es alvorog Perchero con Zapatero Perchero Metálico de Pie...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

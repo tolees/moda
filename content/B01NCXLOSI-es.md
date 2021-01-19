@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCXLOSI-es hummel AUTH Charge Poly Zip Jacket Chaqueta Infantil Negro...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

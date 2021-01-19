@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSLWRZX-es ISTON - Maquinilla de afeitar eléctrica para mujer...'
-tags: bikini
+tags: tole.es, bikini
 actualPrice: 28.51 EUR
 currency: EUR
 price: 28.51

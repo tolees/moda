@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L2YYD-es Lee Chunky Knit Sudadera Azul Midnight Navy Ma Large para...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

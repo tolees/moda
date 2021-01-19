@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG1LTYT-es Geox D New ANNYA Mid A Zapatos con Tacón para Mujer Azul...'
-tags: geox, zapatos
+tags: tole.es, geox, zapatos
 actualPrice: 22.86 EUR
 currency: EUR
 price: 22.86

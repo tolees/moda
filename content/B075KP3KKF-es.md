@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KP3KKF-es MBT SHUGULI M Zapatos de Cordones Oxford para Hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 104.5 EUR
 currency: EUR
 price: 104.5

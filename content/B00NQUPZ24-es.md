@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NQUPZ24-es LTB Jeans 5346 - Vaqueros para mujer Azul Blue Lapis Wash...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

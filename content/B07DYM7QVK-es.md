@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYM7QVK-es Merrell District Mendi Backstrap Sandalias de Talón...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DPJ8QB-es La Vogue Zapatos Zapatilla con Lentejuela Para Niña...'
-tags: zapatos, zapatilla
+tags: tole.es, zapatos, zapatilla
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

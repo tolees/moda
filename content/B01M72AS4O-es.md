@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M72AS4O-es Lacoste TH6709 Camiseta Rojo Rouge XX-Large Talla del...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

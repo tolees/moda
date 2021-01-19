@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6QXLQG-es Tommy Hilfiger Cuff Jersey Pant Pantalones térmicos Gris...'
-tags: jersey
+tags: tole.es, jersey
 actualPrice: 18.86 EUR
 currency: EUR
 price: 18.86

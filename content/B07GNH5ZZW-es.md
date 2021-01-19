@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNH5ZZW-es Mujer Hombres Zapatos de Senderismo al Aire Libre Zapatos...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

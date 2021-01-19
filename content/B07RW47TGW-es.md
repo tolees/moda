@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW47TGW-es Zapatillas Hombres De Deporte Talla 39-48 Sin Cordones De...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

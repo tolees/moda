@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8WC9WY-es JACK & JONES Jprwetford Parka STS Negro Black Black Large...'
-tags: parka
+tags: tole.es, parka
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

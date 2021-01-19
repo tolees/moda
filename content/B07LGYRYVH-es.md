@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGYRYVH-es JOINFREE Niños Niñas Nadar Zapatos para el Agua Deportes...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

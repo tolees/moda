@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015W9LBH4-es Levi s kids Short Sleeves Batwin T-Shirt Camiseta para...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

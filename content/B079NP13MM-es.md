@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NP13MM-es MISS MOLY Chaleco Mujer Ligero Acolchado Chaquetas de...'
-tags: chaleco
+tags: tole.es, chaleco
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

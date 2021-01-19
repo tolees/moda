@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM97PDL-es Lee Luke Vaqueros Minimalee Fy 28W / 34L para Hombre'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 41.57 EUR
 currency: EUR
 price: 41.57

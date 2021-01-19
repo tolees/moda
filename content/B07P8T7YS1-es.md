@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8T7YS1-es Morgan 192-chessa.n Camisa Blanco Blanc Blanc 38 Talla del...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 12.91 EUR
 currency: EUR
 price: 12.91

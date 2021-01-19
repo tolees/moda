@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPBYWC1-es Kipling Iaka Monedero para Mujer Multicolor Water Camo...'
-tags: monedero
+tags: tole.es, monedero
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

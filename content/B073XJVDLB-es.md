@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XJVDLB-es Timberland Adventure 2.0 Cupsole Botas Chukka para Hombre...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 53.62 EUR
 currency: EUR
 price: 53.62

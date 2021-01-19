@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJCSG5C-es Springfield INT.R.Real Down Tecnico Chaqueta Azul Azul 19...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 23.12 EUR
 currency: EUR
 price: 23.12

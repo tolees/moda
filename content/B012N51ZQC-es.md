@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012N51ZQC-es Desconocido Ajustables Cordon Elastico Cuello Deporte...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

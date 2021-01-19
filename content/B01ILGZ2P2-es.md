@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ILGZ2P2-es Pintura para Tela y Ropa Permanente con Gran Capacidad de...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 16.4 EUR
 currency: EUR
 price: 16.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3FNJDF-es Tamaris 1-1-25946-33 Botines para Mujer Marrón Tobacco 336...'
-tags: botines
+tags: tole.es, botines
 actualPrice: 14.14 EUR
 currency: EUR
 price: 14.14

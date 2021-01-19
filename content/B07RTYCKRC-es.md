@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTYCKRC-es Emoji Camiseta de Manga Corta para niñas Llama Blanco...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

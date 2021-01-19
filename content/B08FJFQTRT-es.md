@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FJFQTRT-es Hoylson Gavena Calcetines Antideslizantes para Bebé Niños...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

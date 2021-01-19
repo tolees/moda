@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074XYM5LP-es BOSS Identity T-Shirt RN Top de Pijama Azul Dark Blue 403...'
-tags: pijama
+tags: tole.es, pijama
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

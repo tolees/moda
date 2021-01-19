@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC8KQ7C-es Columbia Tolt Track Chaqueta Interchange Mujer Azul Dark...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 158.29 EUR
 currency: EUR
 price: 158.29

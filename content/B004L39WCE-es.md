@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004L39WCE-es Timberland Rugged 6 Inch Plain Toe Waterproof Botas para...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

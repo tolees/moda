@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753KVDKS-es Uvex sportstyle 803 colorvision gafas de sol Rectangular...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 49.67 EUR
 currency: EUR
 price: 49.67

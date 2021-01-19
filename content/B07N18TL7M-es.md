@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N18TL7M-es G-STAR RAW 3301 Straight Vaqueros Worker Blue Faded...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 36.39 EUR
 currency: EUR
 price: 36.39

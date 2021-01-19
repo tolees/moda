@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZMJHFG-es Ever-Pretty A-línea Vestido de Fiesta Gasa Cuello en V sin...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

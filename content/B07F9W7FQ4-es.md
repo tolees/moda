@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9W7FQ4-es Marca Amazon - find. Blusa Mujer Beige 38 Label: S'
-tags: blusa, -, find.
+tags: tole.es, blusa, -, find.
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

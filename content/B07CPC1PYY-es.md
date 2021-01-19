@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPC1PYY-es Crocs Crocband Clog Kids Zuecos Unisex Niños Morado...'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

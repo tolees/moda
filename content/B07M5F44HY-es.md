@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F44HY-es Wrangler Graphic Logo tee Camiseta Marfil Off White 737...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

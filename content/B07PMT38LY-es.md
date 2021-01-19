@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMT38LY-es CARE OF by PUMA Sudadera con capucha forro y cremallera de...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 23.62 EUR
 currency: EUR
 price: 23.62

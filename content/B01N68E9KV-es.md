@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N68E9KV-es IEFIEL Chaqueta de Fiesta Boda para Niña Bolero Pompón de...'
-tags: abrigo, chaqueta
+tags: tole.es, abrigo, chaqueta
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

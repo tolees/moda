@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPPXGV-es Pepe Jeans Winter Ronit Sudadera Black 999 9-10 años Talla...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 21.54 EUR
 currency: EUR
 price: 21.54

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JC88Q-es Under Armour Graphic Script Logo Fashion SSC Camisa Manga...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

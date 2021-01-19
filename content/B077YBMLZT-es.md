@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YBMLZT-es HIKARO Camiseta Manga Corta Hombre Azul Navy 48 Talla del...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

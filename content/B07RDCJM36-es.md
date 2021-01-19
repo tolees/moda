@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDCJM36-es Tommy Hilfiger Tommy Logo Long Sleeve tee Camiseta Deporte...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

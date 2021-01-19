@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQR2SDZ-es Quiksilver Molokai Vacancy Youth Zapatos de Playa y...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

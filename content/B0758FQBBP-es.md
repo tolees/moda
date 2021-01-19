@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758FQBBP-es Clarks Garratt Lace Zapatos de Cordones Derby para Hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

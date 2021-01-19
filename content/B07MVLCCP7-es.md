@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVLCCP7-es Gant D1. The Quilted Windcheater Chaqueta Negro Black 5...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 82.77 EUR
 currency: EUR
 price: 82.77

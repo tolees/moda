@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MW8GJZ-es Marca Amazon - IRIS & LILLY Braguita Mujer Pack de 10...'
-tags: iris, &, lilly
+tags: tole.es, iris, &, lilly
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

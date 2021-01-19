@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHHHBLC-es Kipling Sara Bolso con Bandolera para Mujer Verde Seagrass...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

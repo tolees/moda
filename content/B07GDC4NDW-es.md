@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDC4NDW-es Nike Dri-FIT Academy Dril Top Camiseta de Manga Larga...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMM3HJ-es Pepe Jeans Kenth Camiseta Ochre Orange 190 Medium para Hombre'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 9.02 EUR
 currency: EUR
 price: 9.02

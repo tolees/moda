@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV52F4S-es TWBB Pantalón Casual de Camuflaje para Hombre'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

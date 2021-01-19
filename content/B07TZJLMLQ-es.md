@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZJLMLQ-es Mujer Cuñas Zapatos 35-43 EU De Lona High-Top Zapatos...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

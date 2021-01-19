@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FGVXBJJ-es Sibinulo Camisón de Maternidad Pijama Lactancia Vestido...'
-tags: pijama, vestido
+tags: tole.es, pijama, vestido
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

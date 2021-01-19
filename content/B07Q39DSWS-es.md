@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q39DSWS-es Under Armour Rush Heatgear Compression Camisa de Manga...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 27.53 EUR
 currency: EUR
 price: 27.53

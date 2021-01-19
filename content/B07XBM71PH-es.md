@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBM71PH-es adidas Core 18 Hoody Sudadera con Capucha Hombre...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

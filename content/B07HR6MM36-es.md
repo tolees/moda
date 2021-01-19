@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HR6MM36-es JACK & JONES Jjitim Jjoriginal JJ 320 Noos Vaqueros Slim...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFMGQW-es Levi s 510 Vaqueros Skinny Azul Moose Tracks Cool 1035...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 46.55 EUR
 currency: EUR
 price: 46.55

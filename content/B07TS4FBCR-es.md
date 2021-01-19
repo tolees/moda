@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS4FBCR-es Perfectmiaoxuan Gafas de sol para hombre mujer...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

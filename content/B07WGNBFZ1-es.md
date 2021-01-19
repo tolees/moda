@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGNBFZ1-es Jack & Jones JORBROOK Shirt LS Camisa Casual Multicolor...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

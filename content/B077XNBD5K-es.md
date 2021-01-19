@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XNBD5K-es Under Armour Rival Fleece Crew Sudadera Hombre Gris Steel...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

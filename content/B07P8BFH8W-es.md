@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8BFH8W-es Tommy Hilfiger Heritage Crew Neck Graphic tee Camiseta...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

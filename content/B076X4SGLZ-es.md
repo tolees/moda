@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076X4SGLZ-es Geox U Walee A Zapatillas para Hombre Beige Sand 40 EU'
-tags: geox
+tags: tole.es, geox
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

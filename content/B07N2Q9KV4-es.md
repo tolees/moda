@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2Q9KV4-es Aibrou Pijama Hombre Verano Corto de 100% Algodón Pijamas...'
-tags: pantalón, pijama
+tags: tole.es, pantalón, pijama
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

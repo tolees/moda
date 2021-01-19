@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD3HQ27-es Calvin Klein Modern Western Shirt Camisa Gris Da039 Grey...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 19.28 EUR
 currency: EUR
 price: 19.28

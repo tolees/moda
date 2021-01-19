@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006SWGJF4-es Helly Hansen W Seven J Chaqueta Mujer Negro M'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 61.8 EUR
 currency: EUR
 price: 61.8

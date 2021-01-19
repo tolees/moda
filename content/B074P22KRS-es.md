@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074P22KRS-es Marca Amazon - find. Vestido de Canalé Mujer Negro Black...'
-tags: vestido, -, find.
+tags: tole.es, vestido, -, find.
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

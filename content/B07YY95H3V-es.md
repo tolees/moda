@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY95H3V-es Guantes de Invierno para Smartphone Impermeables e...'
-tags: guantes
+tags: tole.es, guantes
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4V9PB3-es Superdry Classic University L/s Shirt Camisa Rojo Red...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

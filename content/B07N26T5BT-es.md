@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N26T5BT-es edc by Esprit 039cc2k024 Camiseta Azul Navy 2 401 Small...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 4.82 EUR
 currency: EUR
 price: 4.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSV1XQT-es G-STAR RAW Silber Slim Fit Camiseta Azul Servant Blue Htr...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 27.63 EUR
 currency: EUR
 price: 27.63

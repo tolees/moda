@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7ZCMMN-es Jack & Jones Jcofranklin Sweat Hood Sudadera con Capucha...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

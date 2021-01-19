@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A1YIKW0-es Wrangler Arizona Straight Jeans Vaqueros Rinsewash 30W /...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 16.03 EUR
 currency: EUR
 price: 16.03

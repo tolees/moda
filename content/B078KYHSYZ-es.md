@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KYHSYZ-es SDINAZ Bolsos de Mano Mujer Bolsos Bandolera Moda 6piezas...'
-tags: billetera, moda
+tags: tole.es, billetera, moda
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

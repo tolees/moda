@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX8BQWH-es SKYSPER Camiseta de Compresión Manga Larga para Hombre...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

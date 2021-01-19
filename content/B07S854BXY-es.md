@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S854BXY-es Crocs Crocband Zuecos Unisex Adulto Naranja Orange/White...'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

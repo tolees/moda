@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5GBCCG-es JACK & JONES JCOOSCAR Jacket Hood Chaqueta Negro Black M...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 28.83 EUR
 currency: EUR
 price: 28.83

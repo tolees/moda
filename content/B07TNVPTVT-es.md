@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNVPTVT-es Clarks Orinoco Strap Sandalias de Talón Abierto para Mujer...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 39.41 EUR
 currency: EUR
 price: 39.41

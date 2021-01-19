@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817FMGHW-es Columbia Heather Canyon Chaqueta Softshell Hombre Azul...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

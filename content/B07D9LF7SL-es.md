@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9LF7SL-es Levi s 501 Crop Vaqueros Boyfriend Gris Dancing In The...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 64.63 EUR
 currency: EUR
 price: 64.63

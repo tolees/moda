@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYMW3VM-es NOVECASA Chaleco Sauna Hombre Neopreno Camiseta sin...'
-tags: camiseta, chaleco
+tags: tole.es, camiseta, chaleco
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

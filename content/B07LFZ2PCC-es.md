@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ2PCC-es Geox U Kristof A Zapatillas para Hombre Negro Black C9999...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 36.97 EUR
 currency: EUR
 price: 36.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QYX6S-es PUMA DIVECAT V2 Zapatos de Playa y Piscina Unisex Adulto...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 15.7 EUR
 currency: EUR
 price: 15.7

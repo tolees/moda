@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LG7CUU4-es Under Armour UA TAC Tech Long Sleeve tee Camiseta De Manga...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

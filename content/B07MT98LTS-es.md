@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MT98LTS-es Zapatillas de Deporte para niños Niños Zapatillas de...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

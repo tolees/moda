@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076PML56F-es Marca Amazon - MERAKI Anorak Largo Mujer con Capucha Rojo...'
-tags: meraki
+tags: tole.es, meraki
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

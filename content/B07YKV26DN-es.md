@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKV26DN-es Esprit 999ee1n801 Camiseta Blanco White 100 Medium Pack de...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKXK5KH-es HKT by Hackett Hkt SS tee Camiseta Rojo 2eylt Jack Red 2ey...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

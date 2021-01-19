@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNNF4WC-es Tommy Hilfiger Tjw Essential Logo Sweatshirt Sudadera...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 23.31 EUR
 currency: EUR
 price: 23.31

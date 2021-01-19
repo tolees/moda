@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLP9KX1-es Burton Brtn Sudadera Hombre True Black M'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 31.91 EUR
 currency: EUR
 price: 31.91

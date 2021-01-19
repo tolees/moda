@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPKTZ-es Napapijri Aerons WOM Hood 1 Chaqueta Beige Natural Peyote...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 99.5 EUR
 currency: EUR
 price: 99.5

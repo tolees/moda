@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP13FN4-es Umbro Set de 3 boxers multicolor-100% algodón-color negro...'
-tags: bóxer
+tags: tole.es, bóxer
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

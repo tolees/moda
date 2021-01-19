@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0828PCTD6-es Mujer Vestido Elegante Años 50 Vestido de Mujeres...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

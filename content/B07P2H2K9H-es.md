@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2H2K9H-es Art Bergen Botines para Mujer Verde Kaki Kaki 37 EU'
-tags: botines
+tags: tole.es, botines
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG42ZPV-es Geox J Kalispera Girl A Zapatillas Altas para Niñas Rosa...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

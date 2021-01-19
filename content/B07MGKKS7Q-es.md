@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGKKS7Q-es Marca Amazon – Lark & Ro – Vestido de tejido crepé con...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 3.93 EUR
 currency: EUR
 price: 3.93

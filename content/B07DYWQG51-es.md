@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYWQG51-es Columbia Midweight Stretch Half Zip Camiseta técnica con...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

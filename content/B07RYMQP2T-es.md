@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYMQP2T-es Levi s Down Dehon Pkbl Puffer Chaqueta Negro Mineral Black...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 49.65 EUR
 currency: EUR
 price: 49.65

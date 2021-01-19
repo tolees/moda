@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH4ZYV9-es Pepe Jeans Kai Pm402100 Chaqueta Sailor 580 Small para Hombre'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 35.34 EUR
 currency: EUR
 price: 35.34

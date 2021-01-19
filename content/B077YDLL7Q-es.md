@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YDLL7Q-es HIKARO Sudadera con Capucha Hombre Azul Navy 48 Talla del...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDZF94N-es Puma Amplified tee Camiseta de Manga Corta Hombre Negro...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

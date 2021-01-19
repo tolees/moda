@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8PD9ZP-es PUMA Rebel Bold tee Camiseta Hombre Burnt Olive L'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

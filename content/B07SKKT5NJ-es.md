@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKKT5NJ-es Superdry Hombre Chaqueta Plegable Offshore Rojo Auténtico XL'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTK3HQZ-es Wrangler Retro Vaqueros Skinny Azul Montego Bay 11p...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

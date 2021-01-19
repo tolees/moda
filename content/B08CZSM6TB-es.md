@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZSM6TB-es AFFINEST Zapatos para Correr para Mujer Air Zapatillas de...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 34.23 EUR
 currency: EUR
 price: 34.23

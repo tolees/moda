@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5ZB5ZF-es G-STAR RAW Motac-x R N SS Camiseta Negro dk Black 6484...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 17.12 EUR
 currency: EUR
 price: 17.12

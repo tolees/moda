@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XT4Q9D1-es YAZILIND 18K joyeria plateada oro colorido cristal Cubic...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

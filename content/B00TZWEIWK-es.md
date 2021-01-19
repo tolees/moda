@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TZWEIWK-es Lumaland Horma de Zapatos de alta calidad para hombres y...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

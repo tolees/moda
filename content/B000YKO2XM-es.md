@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000YKO2XM-es Havaianas Top Chanclas Unisex Adulto Negro Black 41/42 EU'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

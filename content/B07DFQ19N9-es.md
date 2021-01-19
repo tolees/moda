@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFQ19N9-es Only Onlsedona Boucle Wool Coat Otw Noos Abrigo Gris Dark...'
-tags: abrigo
+tags: tole.es, abrigo
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

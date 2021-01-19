@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G1L1LWM-es Newfacelook De las mujeres Señoras Motocicleta Impermeable...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

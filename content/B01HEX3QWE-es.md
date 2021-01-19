@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEX3QWE-es opel-r elegante exterior bici en gafas de sol polarizadas...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

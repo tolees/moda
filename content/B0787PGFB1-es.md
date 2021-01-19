@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0787PGFB1-es Crocs Swiftwater Sandal Women Sandalias con Punta Abierta...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

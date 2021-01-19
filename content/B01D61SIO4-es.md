@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D61SIO4-es Trangoworld Ghawdex SN Pantalón Largo Hombre Rojo...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

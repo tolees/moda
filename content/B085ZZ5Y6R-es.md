@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZZ5Y6R-es Pijamas Dos Piezas para Niño Impresión de Aviones Manga...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

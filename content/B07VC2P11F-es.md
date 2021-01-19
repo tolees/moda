@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC2P11F-es BOSS Rash Camisa Blanco White 100 Large para Hombre'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 51.66 EUR
 currency: EUR
 price: 51.66

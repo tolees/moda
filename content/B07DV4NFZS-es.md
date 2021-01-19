@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV4NFZS-es Columbia Kea II Sandalias para Mujer Negro Black Ti Grey...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 18.02 EUR
 currency: EUR
 price: 18.02

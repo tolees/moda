@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RMHGV7-es GANT The Broadcloth Gingham Reg BD Camisa Azul Capri Blue...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 61.74 EUR
 currency: EUR
 price: 61.74

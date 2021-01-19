@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWLQFF4-es Lacoste Ch0763 Camisa Blanc 001 Medium Talla del...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 45.71 EUR
 currency: EUR
 price: 45.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS58SLD-es Jack & Jones Jjitim Jjleon GE 227 I.k. Noos Vaqueros Slim...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

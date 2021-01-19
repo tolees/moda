@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1HY6BB-es Clarks Un Adorn Lo Zapatos de Cordones Derby para Mujer...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 40.98 EUR
 currency: EUR
 price: 40.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07254THBV-es WenVen Chaqueta Casual de Algodón para Invierno para...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 54.03 EUR
 currency: EUR
 price: 54.03

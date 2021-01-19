@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NA9JXAK-es Ducomi® Master Classic - Gafas de Sol con Madera de Caña...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L6TWCZO-es Lee Rider Jeans Vaqueros Black Rinse Yc47 42W / 34L para...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

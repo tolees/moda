@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCYSY3P-es Chaquetas de Mujer Cortas Otoño Reflectante Casual PAOLIAN...'
-tags: abrigo, moda
+tags: tole.es, abrigo, moda
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

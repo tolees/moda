@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXR2HKC-es Havaianas Stars Wars Chanclas Unisex Adulto Multicolor...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07146QQKZ-es Hill Burry Cartera de Cuero para Mujer | Billetera -...'
-tags: billetera, monedero
+tags: tole.es, billetera, monedero
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

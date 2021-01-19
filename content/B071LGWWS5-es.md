@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LGWWS5-es Under Armour UA Athlete SS Camiseta de Manga Corta Hombre...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

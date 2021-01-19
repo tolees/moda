@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5ZBFNH-es adidas Must Haves Badge of Sports Hoodie Sudadera Hombre...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT6ZZ29-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera Blanco White...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

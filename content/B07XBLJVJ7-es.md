@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBLJVJ7-es coskefy Guantes Esquí Impermeable para Hombre y Mujer...'
-tags: guantes
+tags: tole.es, guantes
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

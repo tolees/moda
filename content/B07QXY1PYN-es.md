@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXY1PYN-es UBORSE Bolso de Fiesta Noche Moda para Mujer Embrague Hard...'
-tags: billetera, bolso, moda
+tags: tole.es, billetera, bolso, moda
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

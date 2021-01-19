@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKTJ2PY-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

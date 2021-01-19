@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ5GPYQ-es Springfield 4.1.Liuc.Mickey Leopardo Camiseta Multicolor...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

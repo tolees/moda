@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OBGZIEW-es Only onlROYAL REG SKINNY JEANS PIM504 NOOS - Vaqueros...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

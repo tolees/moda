@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HLYJXJ-es Mishansha Transpirables Zapatillas Running para Niños Hook...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 22.64 EUR
 currency: EUR
 price: 22.64

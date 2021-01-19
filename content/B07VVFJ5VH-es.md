@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVFJ5VH-es Tommy Hilfiger Small T Camiseta de Cuello Redondo y Logo...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 19.09 EUR
 currency: EUR
 price: 19.09

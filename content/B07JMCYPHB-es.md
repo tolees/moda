@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMCYPHB-es Lee Scarlett Vaqueros Mujer Azul Pine Cone Eg 24W / 33L'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

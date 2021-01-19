@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMWS29Z-es Clarks Adriel Viola Zapatos de Tacón para Mujer Beige...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 37.1 EUR
 currency: EUR
 price: 37.1

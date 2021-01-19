@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NH1YYN3-es Strellson Premium Cozer-j Chaqueta de Traje Gris Grey 019...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 66.96 EUR
 currency: EUR
 price: 66.96

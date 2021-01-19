@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LKZ6KB-es AMZTM Camiseta de Manga Corta con Flamenca - Bimba Niñas...'
-tags: blusa, camiseta
+tags: tole.es, blusa, camiseta
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

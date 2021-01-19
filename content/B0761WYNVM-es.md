@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0761WYNVM-es KRISP Bolero Mujer Fiesta Tallas Grandes Torera Chaqueta...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

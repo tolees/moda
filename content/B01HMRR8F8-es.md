@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HMRR8F8-es The North Face T92TX3 Camiseta Easy Hombre Multicolor...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

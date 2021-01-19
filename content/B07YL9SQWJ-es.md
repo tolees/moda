@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YL9SQWJ-es s.Oliver 03.899.32.5264 Camiseta Rojo Red 3185 Medium para...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

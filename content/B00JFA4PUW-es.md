@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JFA4PUW-es givova Podio Chaqueta Hombre Negro/Blanco M'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

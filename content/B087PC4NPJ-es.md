@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PC4NPJ-es Suhctup Funda Compatible con Xiaomi Redmi 6A Billetera...'
-tags: billetera
+tags: tole.es, billetera
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

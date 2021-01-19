@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYQHS5P-es REPLAY Jondrill Vaqueros Skinny Negro Black 98 W28/L30...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 46.94 EUR
 currency: EUR
 price: 46.94

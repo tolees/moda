@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GTC54-es Clarks Griffin Lane Zapatos de Cordones Derby para Mujer...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VXRVYML-es find. Sudadera de Volantes para Mujer Marfil Ivory 46...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXD89C2-es Superdry Rainbow Sleek Flip Flop Chanclas para Mujer...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

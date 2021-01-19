@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNMZTQ1-es G-STAR RAW Core Super Slim Camisa Casual Multicolor...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

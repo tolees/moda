@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071P56FTZ-es Only onlELCOS 4/5 AOP Top JRS Noos Camisa Manga Larga...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

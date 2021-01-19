@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZQZ8K3-es AMZTM Camiseta Cumpleaños Bebé Niña Flamenco 1er Cumpleaño...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

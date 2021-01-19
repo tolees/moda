@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPWMG3-es Geox D AIRELL A Zapatillas para Mujer Gris Lt Grey C1010...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

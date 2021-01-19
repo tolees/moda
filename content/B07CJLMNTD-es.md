@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJLMNTD-es Only Onlroyal Reg SK Dnm Jeans Bj312 Noos Vaqueros Skinny...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

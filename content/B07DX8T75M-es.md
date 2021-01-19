@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX8T75M-es Tommy Hilfiger Boys Basic Cn Knit S/s Camiseta Azul Sky...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

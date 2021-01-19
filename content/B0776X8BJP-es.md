@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776X8BJP-es Tommy Hilfiger Original Stretch Camisa Azul Lavender...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 49.88 EUR
 currency: EUR
 price: 49.88

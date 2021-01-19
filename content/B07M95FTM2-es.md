@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M95FTM2-es Lee Trend Fit Tee Camiseta para Hombre Blanco Bright White...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 6.43 EUR
 currency: EUR
 price: 6.43

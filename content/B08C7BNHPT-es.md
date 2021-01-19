@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C7BNHPT-es Zapatillas de Estar por Casa para Niñas Niños Invierno...'
-tags: zapatilla
+tags: tole.es, zapatilla
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

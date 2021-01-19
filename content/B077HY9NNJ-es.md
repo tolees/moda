@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HY9NNJ-es Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 19.35 EUR
 currency: EUR
 price: 19.35

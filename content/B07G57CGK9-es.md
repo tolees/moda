@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G57CGK9-es find. 2 Pack Slim Shirt - Camisa Hombre Blau Bengal Blue /...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTKT86-es G-STAR RAW 5620 3D Super Slim Vaqueros para Hombre Gris...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

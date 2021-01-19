@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B97MN7N-es Clarks Bampton Walk Zapatos de Cordones Derby para Hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 26.96 EUR
 currency: EUR
 price: 26.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX8YX4Q-es Tommy Hilfiger T Camiseta Básica de Manga Corta Azul Sky...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

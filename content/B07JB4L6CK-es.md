@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JB4L6CK-es Timberland NeWaterproofort Bay Oxford Zapatillas Unisex-...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

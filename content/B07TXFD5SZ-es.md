@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXFD5SZ-es Levi s Essential Western Blusa Negro Black Sheen 2 0004...'
-tags: blusa
+tags: tole.es, blusa
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

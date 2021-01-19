@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CKAKPO8-es Feliz Caminar - Zuecos Sanitarios Flotantes Blanco 41'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

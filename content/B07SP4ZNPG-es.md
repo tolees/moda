@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP4ZNPG-es Havaianas Flash Urban Sandalias de Talón Abierto para...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

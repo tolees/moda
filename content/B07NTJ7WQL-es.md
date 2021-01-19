@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTJ7WQL-es TTYAOVO Chicas Estrella Unicornio Fancy Vestido Princesa...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

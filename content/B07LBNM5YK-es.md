@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNM5YK-es Helly Hansen Paramount Resistente Al Agua Y Al Viento Y...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 72.19 EUR
 currency: EUR
 price: 72.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H9DBWUS-es VAUDE 50393005500 Abrigo y Chaqueta - Abrigos y Chaquetas...'
-tags: abrigo, chaqueta
+tags: tole.es, abrigo, chaqueta
 actualPrice: 40.26 EUR
 currency: EUR
 price: 40.26

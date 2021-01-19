@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074RDFDB6-es Red Tape Holker Zapatos de cordones derby hombre Negro...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

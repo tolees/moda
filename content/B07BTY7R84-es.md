@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BTY7R84-es ZCFXJiTuanYZ Traje de Deporte al Aire Libre Jersey de...'
-tags: jersey
+tags: tole.es, jersey
 actualPrice: 48.88 EUR
 currency: EUR
 price: 48.88

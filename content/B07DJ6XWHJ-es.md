@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ6XWHJ-es Geox U Leitan B Zapatos de Cordones Derby para Hombre...'
-tags: geox, zapatos
+tags: tole.es, geox, zapatos
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

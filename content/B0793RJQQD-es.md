@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793RJQQD-es WILDKEN Chaqueta de Protección para Motocross Motos Ropa...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

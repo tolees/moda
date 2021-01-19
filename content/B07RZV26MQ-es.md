@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZV26MQ-es BOSS Trunk 3p Co/El Bóxer Multicolor Open Miscellaneous...'
-tags: bóxer
+tags: tole.es, bóxer
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

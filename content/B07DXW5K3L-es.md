@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DXW5K3L-es Under Armour Sport Style Wind Anorak Chaqueta Hombre...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 12.92 EUR
 currency: EUR
 price: 12.92

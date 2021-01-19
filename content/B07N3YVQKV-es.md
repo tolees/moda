@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3YVQKV-es Desigual Dress Sevilla Vestido Azul Marino 5001 40 para Mujer'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 30.63 EUR
 currency: EUR
 price: 30.63

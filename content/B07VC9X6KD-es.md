@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9X6KD-es JACK & JONES Jorexplore Parka Jacket STS Verde Forest...'
-tags: parka
+tags: tole.es, parka
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQZR62M-es Souke Sports - Pantalones Ciclismo Hombre Invierno...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

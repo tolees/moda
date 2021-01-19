@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817J7CCS-es Columbia Zero Rules Camisa Técnica De Manga Corta Hombre...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

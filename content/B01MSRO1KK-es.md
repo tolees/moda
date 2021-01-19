@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSRO1KK-es NIZZIN Francine Camisa Negro Black Small'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

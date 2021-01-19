@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MG5X6P8-es Lacoste TH6712 Camiseta Gris Argent Chine Large Talla del...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 42.44 EUR
 currency: EUR
 price: 42.44

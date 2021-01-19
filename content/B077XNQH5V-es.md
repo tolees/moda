@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XNQH5V-es Under Armour Vanish Seamless Short Sleeve Camiseta Hombre...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPK1K-es Napapijri BIBU H Sudadera con Capucha Gris Med Grey Mel...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

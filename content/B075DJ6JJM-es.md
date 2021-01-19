@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DJ6JJM-es IRIS & LILLY BLIC004 sujetadores push up Rosa Azalea 90C...'
-tags: iris, &, lilly
+tags: tole.es, iris, &, lilly
 actualPrice: 6 EUR
 currency: EUR
 price: 6

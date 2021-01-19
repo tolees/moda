@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVQN7SH-es edc by Esprit 119CC1G008 Abrigo Negro Black 001 XS para Mujer'
-tags: abrigo
+tags: tole.es, abrigo
 actualPrice: 31.36 EUR
 currency: EUR
 price: 31.36

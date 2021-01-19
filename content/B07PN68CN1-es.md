@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PN68CN1-es Funda billetera Samsung para Samsung Galaxy A70 Funda...'
-tags: billetera
+tags: tole.es, billetera
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

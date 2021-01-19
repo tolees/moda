@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRWOTE8-es KRISP 6252-PNK-20 Vestido Corto Patinadora Vuelo Fruncido...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

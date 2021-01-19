@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHQCJ8N-es Nike Downshifter 9 Zapatilla de Correr para Hombre...'
-tags: zapatilla
+tags: tole.es, zapatilla
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

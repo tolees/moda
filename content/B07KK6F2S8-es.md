@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK6F2S8-es adidas Map Bag Bolso bandolera Unisex Adultos Negro Negro...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

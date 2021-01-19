@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4TDML3-es Wrangler Greensboro Regular Jeans Vaqueros Azul Smooth...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 36.22 EUR
 currency: EUR
 price: 36.22

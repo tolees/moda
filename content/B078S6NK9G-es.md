@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078S6NK9G-es find. Trucker Denim Chaqueta Rosa Pink 48 Talla del...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 15 EUR
 currency: EUR
 price: 15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBN9PPR-es Pepe Jeans Tourist LAMU Suede Sandalias con cuña Tipo...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 56.32 EUR
 currency: EUR
 price: 56.32

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVTJWLS-es TTYAOVO Niñas Muestran Princesa Vestido de Flores Baile...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVQMBCH-es Levi s Orig HM Vneck Camiseta Dusky Citron M para Hombre'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

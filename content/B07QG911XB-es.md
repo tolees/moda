@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QG911XB-es Kipling NEW ERASTO Bolso bandolera 40 cm 17 liters Dorado...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 57.3 EUR
 currency: EUR
 price: 57.3

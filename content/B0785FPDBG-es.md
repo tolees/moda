@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785FPDBG-es Under Armour Tech Hoody 2.0-Twist Sudadera con Capucha...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

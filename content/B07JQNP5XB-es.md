@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQNP5XB-es Amazon Essentials - Chaqueta deportiva con media...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 6.17 EUR
 currency: EUR
 price: 6.17

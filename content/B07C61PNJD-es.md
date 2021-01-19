@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C61PNJD-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera Gris...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

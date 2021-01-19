@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N195SPB-es Lee Logo SWS Sudadera Azul Midnight Navy Ma X-Large para...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 17.08 EUR
 currency: EUR
 price: 17.08

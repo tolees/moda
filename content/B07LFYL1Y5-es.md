@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYL1Y5-es Geox D Hiver E Zapatillas para Mujer Marfil Off White...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

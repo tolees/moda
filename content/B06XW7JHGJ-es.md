@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XW7JHGJ-es CGID E47 Pequeño Estilo Vintage Retro Lennon inspirado...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

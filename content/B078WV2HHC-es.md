@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WV2HHC-es Quiksilver Carver Nubuck Chanclas para Hombre Beige Tan-...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

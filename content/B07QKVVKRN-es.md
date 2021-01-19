@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKVVKRN-es La Chaqueta Metálica Edición Especial Bluray Iconic [Blu-ray]'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

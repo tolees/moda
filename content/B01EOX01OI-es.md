@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EOX01OI-es Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable...'
-tags: parka
+tags: tole.es, parka
 actualPrice: 156.78 EUR
 currency: EUR
 price: 156.78

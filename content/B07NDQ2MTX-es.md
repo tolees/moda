@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDQ2MTX-es G-STAR RAW Whistler Slim Down Hooded Chaqueta Gris Mercury...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 77.93 EUR
 currency: EUR
 price: 77.93

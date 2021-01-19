@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DB4W95T-es DAYNEW 5.1" de Hombre Funda de Piel Cinturón Bolso de...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

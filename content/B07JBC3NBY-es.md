@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBC3NBY-es Columbia Lay D Down II Chaqueta Mujer Negro Black 011 L'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

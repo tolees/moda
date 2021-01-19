@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDH1SSJ-es adidas Vintage tee Camiseta Hombre Negro Black/Bluebird S'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

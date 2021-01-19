@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9YGSB3-es Lacoste Sport Sh7613 Sudadera Verde Brome Chiné 5at Small...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 60.85 EUR
 currency: EUR
 price: 60.85

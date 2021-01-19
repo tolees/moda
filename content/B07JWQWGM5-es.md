@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWQWGM5-es Pepe Jeans Boreas Pm402096 Chaqueta Sailor 580 Small para...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 32.3 EUR
 currency: EUR
 price: 32.3

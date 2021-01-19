@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086DRDZSH-es Zapatos de Seguridad para Mujer Zapatillas Zapatos de...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

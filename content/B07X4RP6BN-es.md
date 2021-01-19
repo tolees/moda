@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X4RP6BN-es Ipanema Kirei Fem Chanclas para Mujer Multicolor Pink/Pink...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

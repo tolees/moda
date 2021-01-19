@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDNBG61-es Mexx Falda Multicolor Floral Printed 318186 36 Talla del...'
-tags: falda
+tags: tole.es, falda
 actualPrice: 9.11 EUR
 currency: EUR
 price: 9.11

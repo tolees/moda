@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDJF313-es Geographical Norway Parka DE Hombre BANTOU Caqui L'
-tags: parka
+tags: tole.es, parka
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

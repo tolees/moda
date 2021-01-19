@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BLBUG9M-es Arena Hydrofit Man Hook Zapatos de Playa y Piscina Hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

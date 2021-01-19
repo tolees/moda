@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN13GCF-es HAWKERS Gafas de Sol ONE Carbono para Hombre y Mujer con...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

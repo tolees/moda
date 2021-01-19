@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRRBDKY-es DAFENP Zapatillas de Casa Hombre Mujer Invierno Caliente...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K186XQG-es adidas CAMPEON19 JSY Camiseta de Manga Corta Hombre True...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WB91KH-es Stonefly Berry II 1 Calf Zapatos de Cordones Brogue para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 49.96 EUR
 currency: EUR
 price: 49.96

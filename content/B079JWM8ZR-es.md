@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JWM8ZR-es Napapijri Rainforest Winter Chaqueta para Hombre Rojo Red...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 91.5 EUR
 currency: EUR
 price: 91.5

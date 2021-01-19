@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBLVV3C-es Kappa Farvel Tex Kids Botines para Niñas Navy/Mint 6737 28 EU'
-tags: botines
+tags: tole.es, botines
 actualPrice: 11.76 EUR
 currency: EUR
 price: 11.76

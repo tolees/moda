@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SXQLZS-es Timberland Kiri Up Oxford Zapatillas de Gimnasia para...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 69.67 EUR
 currency: EUR
 price: 69.67

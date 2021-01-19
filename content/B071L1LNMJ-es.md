@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L1LNMJ-es Marca Amazon - find. Camisa Hombre Rosa Dusty Pink XL...'
-tags: camisa, -, find.
+tags: tole.es, camisa, -, find.
 actualPrice: 5.16 EUR
 currency: EUR
 price: 5.16

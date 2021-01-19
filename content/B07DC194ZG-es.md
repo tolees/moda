@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC194ZG-es PUMA DIVECAT V2 Sandalias deslizantes Unisex-Adulto Negro...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YSJD49-es AARDIMI - Sandalias para mujer planas de verano con lazo...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

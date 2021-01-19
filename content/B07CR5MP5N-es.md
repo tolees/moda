@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CR5MP5N-es Cartera Legado Horizontal con Bandera Billetera Tarjetero...'
-tags: billetera, monedero
+tags: tole.es, billetera, monedero
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

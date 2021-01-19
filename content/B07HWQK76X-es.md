@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HWQK76X-es Lacoste Ch9623 Camisa Azul Noir Phoenix/Lagon Nsv Medium...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 70.37 EUR
 currency: EUR
 price: 70.37

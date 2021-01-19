@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FG68M9V-es Lacoste Croco Slide 119 1 CMA Sandalias de Punta...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

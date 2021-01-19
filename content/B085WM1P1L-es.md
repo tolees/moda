@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085WM1P1L-es Verano de Deportivo Tops de Yoga Vests para Mujer Blusa...'
-tags: blusa, chaleco
+tags: tole.es, blusa, chaleco
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDSXZL-es Levi s 502 Regular Taper Vaqueros Azul Cedar Od Flat ADV...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

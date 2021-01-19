@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JQW7MX-es Marca Amazon - find. Camisa Hombre Verde Khaki S Label: S'
-tags: camisa, -, find.
+tags: tole.es, camisa, -, find.
 actualPrice: 9.58 EUR
 currency: EUR
 price: 9.58

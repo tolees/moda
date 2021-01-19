@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719CWLLF-es Under Armour Tech 1/2 Zip-Twist Sudadera Mujer Negro...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

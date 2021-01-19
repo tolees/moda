@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K75CH7J-es Levi s On Tour Camiseta Deportiva de Tirantes Blanco Red...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFRZPF4-es Helly Hansen HH Logo Hoodie Sudadera con Capucha Hombre...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 31.82 EUR
 currency: EUR
 price: 31.82

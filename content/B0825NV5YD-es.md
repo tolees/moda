@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825NV5YD-es Quiksilver Drift Away - Camiseta para Hombre Screen tee...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

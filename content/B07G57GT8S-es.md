@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G57GT8S-es find. 2 Pack Slim Shirt - Camisa Hombre Blanco White With...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

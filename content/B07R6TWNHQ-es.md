@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6TWNHQ-es Columbia Silver Ridge 2.0 Camisa De Manga Larga Mujer...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 44.48 EUR
 currency: EUR
 price: 44.48

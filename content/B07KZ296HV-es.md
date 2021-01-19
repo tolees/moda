@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZ296HV-es Springfield 6BA Polo Basico Reg T5 Jersey Gama Verdes 21...'
-tags: jersey
+tags: tole.es, jersey
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

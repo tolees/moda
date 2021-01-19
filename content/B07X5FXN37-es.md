@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5FXN37-es Mujer Vestido Lápiz de Oficina Elegante Mangas Cortas S...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

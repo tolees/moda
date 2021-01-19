@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYQ6C7P-es Tommy Hilfiger Essential Hooded Down Jacket Chaqueta Flame...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

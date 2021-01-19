@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJ97GX-es Geox J ALBEN Girl B Zapatillas de Deporte para Niñas Azul...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

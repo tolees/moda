@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNMNSGS-es G-STAR RAW Lash Building Straight Camiseta Blanco White...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

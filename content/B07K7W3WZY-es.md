@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7W3WZY-es Reebok Classic Slide Zapatos de Playa y Piscina Unisex...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 15.76 EUR
 currency: EUR
 price: 15.76

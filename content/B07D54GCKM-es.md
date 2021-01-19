@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D54GCKM-es HUGO Venzo Camisa Blanco Open White 199 XX-Large Talla del...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 20.86 EUR
 currency: EUR
 price: 20.86

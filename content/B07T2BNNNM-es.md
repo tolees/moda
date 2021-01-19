@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2BNNNM-es Sandalias Mujer Verano 2042 cáñamo Fondo Grueso Sandalias...'
-tags: sandalias, zapatos
+tags: tole.es, sandalias, zapatos
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

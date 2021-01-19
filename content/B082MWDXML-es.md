@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MWDXML-es Iris & Lilly Braga Brasileña de Algodón Mujer Pack de 10...'
-tags: iris, &, lilly
+tags: tole.es, iris, &, lilly
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

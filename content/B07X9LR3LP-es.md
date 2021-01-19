@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9LR3LP-es LIGE Relojes Hombre Negro Casual Minimalista Impermeable...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

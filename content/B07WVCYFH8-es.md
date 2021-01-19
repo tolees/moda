@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVCYFH8-es Charles Wilson Originals Sudadera con Capucha XXX-Large...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

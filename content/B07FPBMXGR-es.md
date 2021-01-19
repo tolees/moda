@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPBMXGR-es Calvin Klein Core Institutional Logo Sweatshirt Sudadera...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 27.34 EUR
 currency: EUR
 price: 27.34

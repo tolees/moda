@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DXP18FN-es Ocobudbxw Pulseras Coloridas Cuentas de Dados de acrílico...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

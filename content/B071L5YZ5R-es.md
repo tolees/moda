@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L5YZ5R-es Levi s Graphic Camiseta Gris 84 Sportswear Logo Grey...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

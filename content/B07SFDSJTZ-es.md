@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFDSJTZ-es Camiseta Tirantes sin Mangas de Deporte para Mujer Verano...'
-tags: camiseta, chaleco, pijama
+tags: tole.es, camiseta, chaleco, pijama
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

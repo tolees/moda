@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSDRM44-es Bolso Bandolera Tejido de Paja con Borlas Ganchillo Verano...'
-tags: bolso, moda
+tags: tole.es, bolso, moda
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

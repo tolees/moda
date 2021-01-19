@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0741MGNMT-es Volcom Rocker 2 SNDL Zehentrenner Chanclas para Hombre...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

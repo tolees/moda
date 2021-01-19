@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGJ6CWB-es JACK & JONES Jorclan Parka Verde Forest Night XX-Large...'
-tags: parka
+tags: tole.es, parka
 actualPrice: 37.84 EUR
 currency: EUR
 price: 37.84

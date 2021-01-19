@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB17NFB-es LOQI Van Gogh Almond Blossom Bag Bolso de Viaje 50 cm 15...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

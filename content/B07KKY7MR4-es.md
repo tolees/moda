@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKY7MR4-es adidas D2m 3s Pant Pantalón de Deporte Mujer Negro...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 37.98 EUR
 currency: EUR
 price: 37.98

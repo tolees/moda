@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897XNJ1X-es Zapatos Colchón Aire Deporte Mujer Zapatillas Deportivas...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

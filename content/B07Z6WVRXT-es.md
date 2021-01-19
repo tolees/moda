@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6WVRXT-es Hi-Tec Cove Breeze Sandalias Deportivas para Hombre Gris...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

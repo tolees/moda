@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF5W7F6-es Levi s Colorblock Windrunner Chaqueta Rojo Chinese Red...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 20.32 EUR
 currency: EUR
 price: 20.32

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3NDBPY-es Billabong™ - Chanclas - Hombre - EU 43 - Negro'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

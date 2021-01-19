@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UG4LPTU-es Charles Wilson Camiseta Polo Clásica Lisa Large Red'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

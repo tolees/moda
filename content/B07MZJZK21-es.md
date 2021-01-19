@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZJZK21-es Superdry Vintage Logo Layered Camo tee Camiseta Negro...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

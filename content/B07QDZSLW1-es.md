@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDZSLW1-es Cressi Ninja Floating - Gafas Flotantes Polarizadas para...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 17.32 EUR
 currency: EUR
 price: 17.32

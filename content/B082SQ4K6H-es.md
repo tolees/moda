@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SQ4K6H-es CRZ YOGA Mujer Deportivo Corto Falda Plisada Skorts de...'
-tags: falda
+tags: tole.es, falda
 actualPrice: 33 EUR
 currency: EUR
 price: 33

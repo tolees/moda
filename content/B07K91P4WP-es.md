@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K91P4WP-es Crocs Serena Sandal Women Sandalias de Punta Descubierta...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

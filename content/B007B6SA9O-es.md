@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007B6SA9O-es Superga 2750-linu Zapatos de Cordones Derby Unisex Adulto...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 47.17 EUR
 currency: EUR
 price: 47.17

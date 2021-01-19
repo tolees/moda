@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB2Z6RK-es Guantes Anticorte para Niños Herefun Guantes Resistentes a...'
-tags: guantes
+tags: tole.es, guantes
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

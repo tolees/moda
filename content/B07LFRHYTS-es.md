@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRHYTS-es Geox U HALLSON A Botas Chukka para Hombre Gris Stone C9007...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 60.19 EUR
 currency: EUR
 price: 60.19

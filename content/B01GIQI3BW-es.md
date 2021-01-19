@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GIQI3BW-es Columbia Saturday Trail Falda Pantalón con Protección...'
-tags: falda, pantalón
+tags: tole.es, falda, pantalón
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

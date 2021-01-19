@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7BRPHH-es Lee Luke Vaqueros Mission Worn Zi 31W / 34L para Hombre'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 45.48 EUR
 currency: EUR
 price: 45.48

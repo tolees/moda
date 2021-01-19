@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQJSGJ-es Pepe Jeans Nastia Sudadera Verdant 683 Medium para Mujer'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

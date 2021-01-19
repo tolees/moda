@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDRZYPD-es Geox J Xunday Boy B ABX A Botas Chukka para Niños Verde...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 47.11 EUR
 currency: EUR
 price: 47.11

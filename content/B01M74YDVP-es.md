@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M74YDVP-es Eye Candy Collar de doble collar de mujer 925 plata de ley...'
-tags: collar
+tags: tole.es, collar
 actualPrice: 71.85 EUR
 currency: EUR
 price: 71.85

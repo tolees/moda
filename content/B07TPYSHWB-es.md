@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYSHWB-es Clarks Unwilmore Ray Sandalias Punta Cerrada para Hombre...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

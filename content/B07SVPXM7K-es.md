@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPXM7K-es Geox D Tabelya A Zapatillas para Mujer Beige Cream/Lt Gold...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 58.73 EUR
 currency: EUR
 price: 58.73

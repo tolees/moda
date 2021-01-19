@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QL3DBMG-es Liu-jo BXX049PX003 Zapatos Mujeres Blanco 35'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

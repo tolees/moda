@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZVNJ5F-es Baoblaze 10pcs Tirador de Cremallera Zipper Pulls...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

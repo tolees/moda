@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNS16SH-es Under Armour Challenger III Knit Short Pantalones Cortos...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 12.11 EUR
 currency: EUR
 price: 12.11

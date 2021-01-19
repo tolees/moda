@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVTNMMX-es Women s Secret Bloom Feminine BF Dahlia PJ FR Conjuntos de...'
-tags: pijama
+tags: tole.es, pijama
 actualPrice: 18.04 EUR
 currency: EUR
 price: 18.04

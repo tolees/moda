@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPD1TR-es Helly Hansen HH Tech Crew Camiseta Deportiva Manga Larga...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

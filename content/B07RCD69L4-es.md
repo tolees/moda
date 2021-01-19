@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCD69L4-es Columbia Inner Limits II Chaqueta Impermeable Hombre Negro...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

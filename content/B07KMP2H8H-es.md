@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMP2H8H-es find. Leather Round Toe Block Heel Court Zapatos de Tacón...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

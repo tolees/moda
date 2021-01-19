@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P04KXEE-es Polaroid PLD 1013/S H8 V08 50 Gafas de sol Marrón...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

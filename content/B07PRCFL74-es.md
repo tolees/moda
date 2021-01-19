@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCFL74-es Kipling Osyka Bolso Con Bandolera para Mujer Multicolor...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 18.84 EUR
 currency: EUR
 price: 18.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJW7RH-es Geox U Renan B Zapatillas para Hombre Gris Grey C1006 45 EU'
-tags: geox
+tags: tole.es, geox
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

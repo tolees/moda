@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G73WSGX-es Aibrou Pijamas Mujer Algodón Invierno 2 Piezas Ropa de...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B6M6PL-es Columbia Model Sudadera con Capucha con Logo Mujer Gris...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

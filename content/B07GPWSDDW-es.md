@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPWSDDW-es Desigual T-Shirt Short Sleeve NANUK Woman Blue Camiseta...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 31.18 EUR
 currency: EUR
 price: 31.18

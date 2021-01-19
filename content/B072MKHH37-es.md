@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MKHH37-es Marca Amazon - find. Camisa Hombre Rosa S Label: S'
-tags: camisa, -, find.
+tags: tole.es, camisa, -, find.
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

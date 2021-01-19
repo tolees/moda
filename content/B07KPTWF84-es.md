@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPTWF84-es MaxMuxun Sandalias de Tacón con Correa del Tobillo Azul...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1LRQB6-es El Naturalista N413 PLEASANT BLACK / WAKATAUA Sandalias...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 32.86 EUR
 currency: EUR
 price: 32.86

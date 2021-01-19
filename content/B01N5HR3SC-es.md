@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5HR3SC-es Crocs Flip Flops Chanclas Unisex Adulto Azul Navy/Cerulean...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BFJ2WXM-es Charles Wilson Camiseta Polo con Solapa de Contraste Small...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

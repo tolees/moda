@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJ64XCS-es Skechers Go Walk 5 Sandalias de Punta Descubierta para...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

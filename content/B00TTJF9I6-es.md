@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTJF9I6-es Clarks Tilden Walk Zapatos de Cordones Derby Negro Black...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 67.95 EUR
 currency: EUR
 price: 67.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8Y3PG-es Crocs Classic Clog Zuecos Unisex Adulto Morado Neon Purple...'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 29.25 EUR
 currency: EUR
 price: 29.25

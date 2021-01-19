@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773JYB5Y-es Crocs Yukon Vista Clog M Zuecos para Hombre Negro...'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 31.63 EUR
 currency: EUR
 price: 31.63

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LDFT5D-es Lacoste TH6709 Camiseta para Hombre Negro Noir XS Talla...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

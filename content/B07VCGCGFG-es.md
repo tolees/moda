@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCGCGFG-es Esprit 099ee1g043 Abrigo Gris Anthracite 010 Large para Mujer'
-tags: abrigo
+tags: tole.es, abrigo
 actualPrice: 29.1 EUR
 currency: EUR
 price: 29.1

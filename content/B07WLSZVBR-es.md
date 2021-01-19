@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLSZVBR-es Jack & Jones Jornewshakedown Block Sweat Zip Hood Chaqueta...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 9.58 EUR
 currency: EUR
 price: 9.58

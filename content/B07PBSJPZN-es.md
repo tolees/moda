@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBSJPZN-es Fruit of the Loom - Camiseta Modelo Iconic para niñas 3-4...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

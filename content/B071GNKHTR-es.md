@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GNKHTR-es find. 59179 vaqueros mujer Azul Mid Blue W30/L32 Talla del...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 12 EUR
 currency: EUR
 price: 12

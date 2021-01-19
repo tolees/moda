@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YMXZBM1-es Hurley M One&Only Solid tee Camiseta Hombre Camelia L'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

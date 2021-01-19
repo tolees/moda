@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007K45LDU-es Dickies Philadelphia - Sudadera para hombre Grey Melange...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

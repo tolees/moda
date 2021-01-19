@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2PZWZF-es Under Armour UA Spawn Mid Zapatos de Baloncesto para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 67.45 EUR
 currency: EUR
 price: 67.45

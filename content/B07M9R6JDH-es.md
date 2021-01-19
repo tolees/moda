@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9R6JDH-es Angelady Collar de Pendientes Juego de Joyas de para Mujer...'
-tags: collar
+tags: tole.es, collar
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

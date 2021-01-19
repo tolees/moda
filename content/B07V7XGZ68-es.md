@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7XGZ68-es Tommy Hilfiger Casual Cork Beach Sandal Sandalias con...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

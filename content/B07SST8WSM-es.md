@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SST8WSM-es Quiksilver Molokai Hold Down Zapatos de Playa y Piscina...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

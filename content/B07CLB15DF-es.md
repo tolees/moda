@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLB15DF-es Corrector de Postura Espalda y Hombros Para Hombre y Mujer...'
-tags: chaleco
+tags: tole.es, chaleco
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

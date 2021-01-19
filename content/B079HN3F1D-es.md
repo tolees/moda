@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HN3F1D-es WisFox Niños Chaleco Táctico Kids Elite Tactical Chaleco...'
-tags: chaleco
+tags: tole.es, chaleco
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

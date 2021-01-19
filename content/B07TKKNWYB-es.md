@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKKNWYB-es Superdry OL Low Roller tee Camiseta Azul Rich Navy Adq S...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 16.51 EUR
 currency: EUR
 price: 16.51

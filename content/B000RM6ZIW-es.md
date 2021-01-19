@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RM6ZIW-es Havaianas Brasil Chanclas Unisex Adulto Blanco Brasil...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

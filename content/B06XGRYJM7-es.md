@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGRYJM7-es Little Sprouts - Cadena de chupete 2 en 1 - Moderna y Moda...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

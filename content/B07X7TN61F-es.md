@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7TN61F-es LIGE Relojes Hombre Negocio Acero Inoxidable Impermeable...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

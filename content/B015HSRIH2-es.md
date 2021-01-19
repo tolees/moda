@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015HSRIH2-es ESPRIT 2tone Strk Blz - Chaqueta de traje Hombre Dark Grey 50'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

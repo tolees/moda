@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSXJ6ZK-es Charles Wilson Original Sudadera de Hombre Algodón Premium...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

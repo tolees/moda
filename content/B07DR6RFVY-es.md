@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DR6RFVY-es Teva Hurricane Drift Sandalias de Punta Descubierta para...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

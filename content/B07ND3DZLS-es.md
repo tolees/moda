@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND3DZLS-es Billabong Sunlight Zapatos de Playa y Piscina para Mujer...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

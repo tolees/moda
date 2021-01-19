@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RBWFP0K-es Millet Friction Zapatos de Escalada Unisex Adulto Gris...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQPTPW9-es Vans Classic Camiseta Gris Athletic Heather/Black X-Small...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

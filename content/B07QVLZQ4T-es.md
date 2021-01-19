@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVLZQ4T-es Under Armour Forefront Rain Chaqueta Mujer Gris MD'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 44.26 EUR
 currency: EUR
 price: 44.26

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGW5N8-es Geox D Sandal Vega C Sandalias Punta Cerrada para Mujer...'
-tags: geox, sandalias
+tags: tole.es, geox, sandalias
 actualPrice: 47.33 EUR
 currency: EUR
 price: 47.33

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716NX7XX-es Activewear Mesh Camiseta Deportiva para Hombre Weiß White...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 4.07 EUR
 currency: EUR
 price: 4.07

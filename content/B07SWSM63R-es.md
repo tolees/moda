@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWSM63R-es Geox B Flexyper Boy A Zapatillas para Bebés Azul Dk...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 27.94 EUR
 currency: EUR
 price: 27.94

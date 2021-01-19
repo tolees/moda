@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788C3NYJ-es Tommy Hilfiger RN tee SS Camiseta Gris Grey Heather 004...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

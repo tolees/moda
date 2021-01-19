@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GLWLNQ-es Ermenegildo Zegna Brillengestelle EZ5038 Monturas de gafas...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 27.84 EUR
 currency: EUR
 price: 27.84

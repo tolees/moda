@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTXCJ2M-es Charles Wilson Originals Sudadera Algodón Ligera Capucha...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

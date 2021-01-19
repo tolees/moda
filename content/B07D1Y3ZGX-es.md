@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1Y3ZGX-es Dainese Hp1m1 - Chaqueta de esquí para Hombre Invierno...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 503.44 EUR
 currency: EUR
 price: 503.44

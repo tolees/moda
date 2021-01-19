@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RSDVM9-es Pepe Jeans Hiddleston PM305474 Camisa Azul Indigo 561...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 36.73 EUR
 currency: EUR
 price: 36.73

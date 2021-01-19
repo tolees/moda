@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSSJB7Y-es SKYSPER 3 Pares Calcetines de Deporte Deportivos para...'
-tags: zapatilla
+tags: tole.es, zapatilla
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

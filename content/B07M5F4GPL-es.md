@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F4GPL-es Wrangler SS Pocket tee Camiseta Amarillo Mineral Yellow...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

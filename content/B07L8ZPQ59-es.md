@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8ZPQ59-es REPLAY Anbass Vaqueros Slim Negro Blackboard 290 W36/L32...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

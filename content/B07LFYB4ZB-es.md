@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYB4ZB-es Geox D ANEEKA E Botines para Mujer Marrón Chestnut C6004...'
-tags: botines, geox
+tags: tole.es, botines, geox
 actualPrice: 26.47 EUR
 currency: EUR
 price: 26.47

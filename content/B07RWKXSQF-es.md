@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWKXSQF-es BILLABONG Alves Jacket Chaqueta Deportiva Verde Dark...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 45.68 EUR
 currency: EUR
 price: 45.68

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q249JCV-es Under Armour UA Jet Zapatos de Deporte para Hombre Negro...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 26.56 EUR
 currency: EUR
 price: 26.56

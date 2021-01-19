@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7VDPYN-es Geox Uomo Symbol B Zapatos de Cordones Oxford para Hombre...'
-tags: geox, zapatos
+tags: tole.es, geox, zapatos
 actualPrice: 71.87 EUR
 currency: EUR
 price: 71.87

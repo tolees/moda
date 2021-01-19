@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB5L3HR-es AOQUSSQOA Mujer Conjuntos de Bikinis para Mujer Bikini de...'
-tags: bikini, falda
+tags: tole.es, bikini, falda
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

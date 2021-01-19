@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078B5NHX7-es KONXIDO Relojes Hombres Moda de Negocio Deportivo Reloj de...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

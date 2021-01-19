@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FF488RN-es Aire Zapatillas Fitness Hombre Zapatos Deportivos para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

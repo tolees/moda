@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHR1HLS-es Desigual TS Milan Camiseta Blanco Blanco 1000 Large para...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

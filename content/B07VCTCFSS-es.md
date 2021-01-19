@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCTCFSS-es Sundried para Mujer Cuello en V Aptitud Camiseta de...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

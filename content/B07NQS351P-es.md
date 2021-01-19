@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQS351P-es Tom Tailor 7990106 Botines para Mujer Rosa Nude 01521 40 EU'
-tags: botines
+tags: tole.es, botines
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

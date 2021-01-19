@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG16PYD-es Geox Women s D NEW ANNYA MID A Closed Toe Heels Blue Navy...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 29.11 EUR
 currency: EUR
 price: 29.11

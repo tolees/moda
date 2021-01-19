@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7XFLCV-es Tommy Hilfiger Rope Stripe tee Camiseta Deporte Azul...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 24.09 EUR
 currency: EUR
 price: 24.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXCDPK-es Women s Secret Cozy Animals Ca Poodle PJ FR Conjuntos de...'
-tags: pijama
+tags: tole.es, pijama
 actualPrice: 18.1 EUR
 currency: EUR
 price: 18.1

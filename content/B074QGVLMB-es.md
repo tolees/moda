@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074QGVLMB-es Uvex Sportstyle 706 Gafas Deportivas Unisex Adulto Negro...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

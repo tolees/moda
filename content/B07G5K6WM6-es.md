@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5K6WM6-es find. 2 Pack Slim Shirt - Camisa Hombre Multicolor...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDGMY13-es CHENMA Hombre Naruto Kakashi Chaqueta de bombardero con...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

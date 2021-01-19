@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PBDKN8-es Suhctup Funda Compatible con OnePlus 7T Billetera Carcasa...'
-tags: billetera
+tags: tole.es, billetera
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

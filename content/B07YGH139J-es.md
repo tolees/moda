@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGH139J-es Jack & Jones JORTOPIAS Sweat Hood Sudadera con Capucha...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

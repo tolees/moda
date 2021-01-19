@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQSZJK-es Pepe Jeans Lucas Sudadera Ivy 673 Medium para Hombre'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 23.33 EUR
 currency: EUR
 price: 23.33

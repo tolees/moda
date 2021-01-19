@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZY5WB-es Geox D Myria A Zapatillas para Mujer Beige Champagne/Off...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94

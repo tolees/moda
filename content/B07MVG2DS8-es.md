@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVG2DS8-es Kipling Art Bolso de Mano para Mujer Morado Dark Plum...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 49.19 EUR
 currency: EUR
 price: 49.19

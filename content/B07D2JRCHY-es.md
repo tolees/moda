@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2JRCHY-es find. Paris Embroidered Sudadera Verde Green 44 Talla del...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 15 EUR
 currency: EUR
 price: 15

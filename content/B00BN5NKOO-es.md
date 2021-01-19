@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN5NKOO-es Pepe Jeans Original Stretch Camiseta Gris Grey Marl 933...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

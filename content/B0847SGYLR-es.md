@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0847SGYLR-es WOLFIRE SC Camiseta de Baloncesto para Hombre NBA Los...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

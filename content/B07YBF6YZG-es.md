@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBF6YZG-es Vans OG Checker SS Camiseta Blanco White Wht X-Small para...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

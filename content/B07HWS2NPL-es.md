@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HWS2NPL-es GANT D1. Harvest Moon Chiffon Blouse Blusa Azul Persian...'
-tags: blusa
+tags: tole.es, blusa
 actualPrice: 46.54 EUR
 currency: EUR
 price: 46.54

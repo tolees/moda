@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K4RY6M1-es BOSS Mabsoot Camisa Azul Open Blue X-Large para Hombre'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 24.41 EUR
 currency: EUR
 price: 24.41

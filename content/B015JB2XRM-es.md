@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015JB2XRM-es Uvex LGL 29 Gafas de Ciclismo Unisex Adulto Negro/Verde...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

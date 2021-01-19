@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDYVG59-es Zapatillas Casa Hombre Mujer Invierno Calido Zapatillas...'
-tags: zapatilla
+tags: tole.es, zapatilla
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

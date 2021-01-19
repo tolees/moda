@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHSFWCK-es Levi s SS Camiseta Colorblock tee Peacoat/Marshmallow/Ch...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

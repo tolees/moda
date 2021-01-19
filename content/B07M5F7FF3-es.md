@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F7FF3-es Wrangler Arizona Vaqueros Straight Azul Burnt Up 77p 36 W/...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 26.45 EUR
 currency: EUR
 price: 26.45

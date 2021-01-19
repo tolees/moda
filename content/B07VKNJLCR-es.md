@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKNJLCR-es Marca Amazon - AURIQUE Mallas de Deporte Tiro Alto Mujer...'
-tags: aurique
+tags: tole.es, aurique
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59

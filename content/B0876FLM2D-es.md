@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876FLM2D-es NIGHT CHERRY Mujer Moda Tacón Ancho Verano Sandalias...'
-tags: moda, sandalias, vestido, zapatos
+tags: tole.es, moda, sandalias, vestido, zapatos
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

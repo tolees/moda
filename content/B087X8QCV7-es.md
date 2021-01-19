@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087X8QCV7-es TEX - Pantalón Corto de Deporte para Hombre Gris Oscuro XL'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

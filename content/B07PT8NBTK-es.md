@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT8NBTK-es Marca Amazon - MERAKI Jersey de Algodón con Cremallera...'
-tags: jersey, meraki
+tags: tole.es, jersey, meraki
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

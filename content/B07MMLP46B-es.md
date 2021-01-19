@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLP46B-es Napapijri Aric Chaqueta Rojo Red Scarlet R01 XL para Hombre'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 139.6 EUR
 currency: EUR
 price: 139.6

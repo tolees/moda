@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R8TFJKB-es Mammut Camiseta Alnasca Mujer Camiseta Mujer Bright White XS'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

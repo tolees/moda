@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076X4RBK1-es Under Armour Curry 1 Lux Mid Zapatilla Baloncesto - 41'
-tags: zapatilla
+tags: tole.es, zapatilla
 actualPrice: 46.39 EUR
 currency: EUR
 price: 46.39

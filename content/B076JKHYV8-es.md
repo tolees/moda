@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JKHYV8-es Crocs LiteRide Flip Chanclas Unisex Adulto Negro...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

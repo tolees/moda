@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNJ1W94-es Youecci Zapatillas de Deportivos de Running para Mujer...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

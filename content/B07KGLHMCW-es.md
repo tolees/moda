@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGLHMCW-es Sik Silk Hombre Camiseta Raglan Veneciana Plateada Negro...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

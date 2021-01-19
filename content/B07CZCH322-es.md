@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZCH322-es Under Armour UA Qualifier Camiseta Hombre Amarillo High-...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P935RRG-es Tous K Mini Bolso de Mano para Mujer Beige 795900418...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 86.87 EUR
 currency: EUR
 price: 86.87

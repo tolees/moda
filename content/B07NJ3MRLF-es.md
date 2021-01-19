@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ3MRLF-es Springfield 4.2.T.Apuesta Cuadros Blusa Multicolor...'
-tags: blusa
+tags: tole.es, blusa
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

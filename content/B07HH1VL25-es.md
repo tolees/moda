@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH1VL25-es Tommy Jeans Hombre Scanton Vaqueros Slim Azul Vernon Black...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

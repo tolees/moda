@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDP6SB6-es G-STAR RAW Earth Core Raglan Round Neck Sudadera Rosa Dk...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 40.56 EUR
 currency: EUR
 price: 40.56

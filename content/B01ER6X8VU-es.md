@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ER6X8VU-es Mercedes-Benz Sonnenbrille M1047 Gafas de sol Negro...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

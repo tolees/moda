@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SQNPRP-es Leabags Cambridge - Bolso bandolera piel de búfalo diseño...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 94.98 EUR
 currency: EUR
 price: 94.98

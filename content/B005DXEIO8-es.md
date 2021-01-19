@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005DXEIO8-es Geox U Federico Y Zapatos de Cordones Derby para Hombre...'
-tags: geox, zapatos
+tags: tole.es, geox, zapatos
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

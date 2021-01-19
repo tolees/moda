@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC1VR2B-es Dorina Casablanca Maillot De Bain Braguita de Bikini Negro...'
-tags: bikini
+tags: tole.es, bikini
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

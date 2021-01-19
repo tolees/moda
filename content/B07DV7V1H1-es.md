@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV7V1H1-es Bolso de Noche Bolso de Hombro Mujer Glitter Diamond...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

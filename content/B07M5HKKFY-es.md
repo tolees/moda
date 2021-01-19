@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5HKKFY-es Geox M Vincit C Chaqueta Bomber Verde Mid Forest F3211...'
-tags: chaqueta, geox
+tags: tole.es, chaqueta, geox
 actualPrice: 49.83 EUR
 currency: EUR
 price: 49.83

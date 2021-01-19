@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQQVCTQ-es SALOMON Drifter Mid Hoodie W Chaqueta Reversible con...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 66.79 EUR
 currency: EUR
 price: 66.79

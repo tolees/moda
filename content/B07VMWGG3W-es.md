@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMWGG3W-es Tommy Hilfiger TH Essential Shirt LS W2 Camisa Azul Yd Web...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

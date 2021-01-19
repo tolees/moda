@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079M9L9WZ-es Geox J Kiwi Zapatos Para Niño 30'
-tags: geox, zapatos
+tags: tole.es, geox, zapatos
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

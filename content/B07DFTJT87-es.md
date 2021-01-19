@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFTJT87-es Vero Moda NOS Vmcurl High Neck Faux Fur Jacket Noos...'
-tags: chaqueta, moda
+tags: tole.es, chaqueta, moda
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

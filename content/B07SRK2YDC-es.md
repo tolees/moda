@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRK2YDC-es Geox U Snake.2 A Zapatillas para Hombre Beige Beige/Taupe...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 32.75 EUR
 currency: EUR
 price: 32.75

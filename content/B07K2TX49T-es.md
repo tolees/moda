@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2TX49T-es Adidas Adilette Aqua Zapatos de Playa y Piscina para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 6.01 EUR
 currency: EUR
 price: 6.01

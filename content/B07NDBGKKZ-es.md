@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDBGKKZ-es bugatti 311815014141 Zapatos de Cordones Derby para Hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0714JHB3J-es Paw Patrol HQ1227 Sudadera Gris Grey 5 años Tamaño del...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 13.02 EUR
 currency: EUR
 price: 13.02

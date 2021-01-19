@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJ5VCCM-es G-STAR RAW 3301 Straight Vaqueros Antic Charcoal B479-A800...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 33.21 EUR
 currency: EUR
 price: 33.21

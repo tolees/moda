@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNGWYZ3-es Lencería Sexy para Mujer Lencería Erótica Disfraz De...'
-tags: pijama
+tags: tole.es, pijama
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

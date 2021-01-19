@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HZPQYX4-es Merrell - sandalias de Cuero mujer Beige Taupe 39 EU'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 43.29 EUR
 currency: EUR
 price: 43.29

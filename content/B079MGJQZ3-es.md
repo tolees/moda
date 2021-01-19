@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MGJQZ3-es Marca Amazon - MERAKI Camiseta de Rayas de Manga Corta...'
-tags: camiseta, meraki
+tags: tole.es, camiseta, meraki
 actualPrice: 7.34 EUR
 currency: EUR
 price: 7.34

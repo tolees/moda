@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R88HHHN-es Helly Hansen Roam 2.5 Capa Chaqueta Impermeable con...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 86.21 EUR
 currency: EUR
 price: 86.21

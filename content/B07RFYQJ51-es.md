@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFYQJ51-es G-STAR RAW 5620 3D Vaqueros Slim Gris Dry Waxed Pebble...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 64.97 EUR
 currency: EUR
 price: 64.97

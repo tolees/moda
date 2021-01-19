@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Marca Amazon - AURIQUE Bal181la18 - legg con un 15.49 % de descuento'
-date: 2021-01-16 19:16:44
+date: 2021-01-19 14:42:07
 image: 'https://m.media-amazon.com/images/I/41hXbkfPo4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3RNKBX-es'
+slug: 'B07V3RNKBX-es Marca Amazon - AURIQUE Bal181la18 - leggings deporte mujer...'
+tags: tole.es, aurique
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

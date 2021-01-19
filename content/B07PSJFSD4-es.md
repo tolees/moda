@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJFSD4-es Kipling Amiel Bolso de Mano Mediano para Mujer Multicolor...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 20.44 EUR
 currency: EUR
 price: 20.44

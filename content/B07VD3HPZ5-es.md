@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD3HPZ5-es Calvin Klein Vegetable Dye Monogram Slim tee Camiseta Azul...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 13.61 EUR
 currency: EUR
 price: 13.61

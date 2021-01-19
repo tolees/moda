@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8GBQJZ-es SHIELDON Funda Portátil 13.5 Pulgadas Maletín Portatil...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

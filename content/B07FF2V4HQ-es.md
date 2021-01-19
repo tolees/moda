@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FF2V4HQ-es TRUTH & FABLE ACB022 vestido Multicolore Multi Colour 32...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 24 EUR
 currency: EUR
 price: 24

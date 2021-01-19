@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KM9XD13-es Clarks Tri Walk Sandalias para Niñas Negro Black Combi...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 77.6 EUR
 currency: EUR
 price: 77.6

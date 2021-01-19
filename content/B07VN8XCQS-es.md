@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN8XCQS-es Pepe Jeans Eggo Camiseta Azul Steel Blue 563 Medium para...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

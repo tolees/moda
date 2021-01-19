@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RR55RT-es Pepe Jeans Jepson PM302995 Camisa Azul Black Wk2 Medium...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

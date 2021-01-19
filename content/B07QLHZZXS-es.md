@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLHZZXS-es Mujer Pantalones Cortos Verano Elásticos Mallas Pantalones...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

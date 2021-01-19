@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW9RZ94-es AOQUSSQOA Mujer Ropa de baño Monokin Traje de una Pieza...'
-tags: bikini
+tags: tole.es, bikini
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

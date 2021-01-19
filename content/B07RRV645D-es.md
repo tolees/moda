@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRV645D-es Zapatos de Seguridad para Hombre Zapatillas de Seguridad...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

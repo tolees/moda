@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRTHF22-es Quiksilver Molokai Tijuana Zapatos de Playa y Piscina para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

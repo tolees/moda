@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JGMK8I2-es LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse Bifold...'
-tags: monedero
+tags: tole.es, monedero
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

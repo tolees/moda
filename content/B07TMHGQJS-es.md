@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMHGQJS-es Levi s 512 Slim Taper Vaqueros Tapered Azul Cioccolato...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 58.12 EUR
 currency: EUR
 price: 58.12

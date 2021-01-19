@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVFCD4T-es Pepe Jeans Bera Chaqueta Negro Black 999 X-Large para Mujer'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 83.86 EUR
 currency: EUR
 price: 83.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLSRKYT-es Viedouce Mochilas para Pañales Biberones Bolso del Bebé...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMJ4K8Q-es find. Large Buckle Block Heel Sandal Sandalias con Punta...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 23.62 EUR
 currency: EUR
 price: 23.62

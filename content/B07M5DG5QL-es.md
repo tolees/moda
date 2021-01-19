@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DG5QL-es Lee Rider Jeans Vaqueros Tawny Port 32W / 32L para Hombre'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCS1WHG-es Levi s 527 Slim Boot Cut Vaqueros Corte de Bota para...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 28.96 EUR
 currency: EUR
 price: 28.96

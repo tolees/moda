@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077G5NWT5-es gracosy Mujer Botas de Nieve Senderismo Zapatos...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

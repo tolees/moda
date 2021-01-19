@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078FBYJQR-es find. 64635 vaqueros mujer Azul Blue W36/L32 Talla del...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

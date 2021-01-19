@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG134PC-es Geox J HADRIEL Girl A Zapatillas Altas para Niñas Gris Dk...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

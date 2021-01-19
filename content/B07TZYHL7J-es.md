@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZYHL7J-es Kipling Gabbie Bolso bandolera para Mujer Azul Wave Blue...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 35.97 EUR
 currency: EUR
 price: 35.97

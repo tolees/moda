@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6XZ9SS-es Wrangler Texas Vaqueros Verde Dusty Olive 275 W31/L32...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 26.09 EUR
 currency: EUR
 price: 26.09

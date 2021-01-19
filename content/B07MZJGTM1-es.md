@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZJGTM1-es G-STAR RAW Graphic 8 Round Neck Camiseta Azul Sartho Blue...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

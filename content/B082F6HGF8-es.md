@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082F6HGF8-es Oihxse Mirror Funda Compatible con iPhone 11 Pro Espejo de...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

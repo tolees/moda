@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND3YKNQ-es Dockers Plaited Jersey Crew suéter Azul Logo Pembroke 0010...'
-tags: jersey
+tags: tole.es, jersey
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

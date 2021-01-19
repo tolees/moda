@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1WKQT7-es Timberland Newport Bay 2 Eye Mocasines para Hombre Azul...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

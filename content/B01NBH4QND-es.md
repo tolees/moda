@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBH4QND-es Realer - Bolso de asas de sintético para mujer negro negro'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

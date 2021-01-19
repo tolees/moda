@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXQFJPL-es Hot One Cambios De Color Monederos y Bolsos Luminosos...'
-tags: billetera, moda, monedero
+tags: tole.es, billetera, moda, monedero
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71

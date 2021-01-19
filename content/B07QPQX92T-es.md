@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPQX92T-es VGEBY1 Zapatos para Saltar Zapatos de Rebote Unisex Botas...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 112.59 EUR
 currency: EUR
 price: 112.59

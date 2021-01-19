@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDKC6PD-es Lacoste Ch9612 Camisa Azul Noir Phoenix/Lagon Nsv X-Small...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 45.05 EUR
 currency: EUR
 price: 45.05

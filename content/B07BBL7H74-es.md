@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBL7H74-es Timberland Perkins Row 2-Strap sandale junior Descubierta...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

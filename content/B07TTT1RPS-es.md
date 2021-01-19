@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTT1RPS-es Women s Secret Cozy Animals Ca Unicorn PJ Conjuntos de...'
-tags: pijama
+tags: tole.es, pijama
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

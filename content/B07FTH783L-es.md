@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTH783L-es Lee Daren Zip Fly Vaqueros Rectos Azul Broken Blue Sx 34W...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

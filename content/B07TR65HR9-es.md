@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TR65HR9-es Calvin Klein Ckj 026: Slim West Cut Vaqueros Azul...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 36.66 EUR
 currency: EUR
 price: 36.66

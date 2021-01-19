@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HJ3W2N-es IRIS & LILLY Braguita de Algodón Mujer Pack de 5...'
-tags: iris, &, lilly
+tags: tole.es, iris, &, lilly
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

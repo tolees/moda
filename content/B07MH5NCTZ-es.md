@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MH5NCTZ-es Nike Court Borough Low VF GS Zapatos de Baloncesto para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 37.28 EUR
 currency: EUR
 price: 37.28

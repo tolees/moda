@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4GD3HR-es Tommy Hilfiger Essential Hoodie Sweatdress Sudadera...'
-tags: sudadera, vestido
+tags: tole.es, sudadera, vestido
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

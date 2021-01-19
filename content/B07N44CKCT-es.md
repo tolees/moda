@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N44CKCT-es Desigual Dress Valentina Vestido Rojo Merlot 3215 38 Talla...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 42.2 EUR
 currency: EUR
 price: 42.2

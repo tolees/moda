@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XG48BWG-es edc by Esprit 109cc1k023 Camisa Manga Larga Negro Black...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

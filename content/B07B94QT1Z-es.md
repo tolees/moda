@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B94QT1Z-es Clarks Dalia Rose Zapatos de Tacón para Mujer Negro Black...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 28.14 EUR
 currency: EUR
 price: 28.14

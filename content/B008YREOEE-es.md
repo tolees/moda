@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008YREOEE-es JACK & JONES Basic O-Neck tee S/S Noos Camiseta Grau Light...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

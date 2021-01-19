@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXMRMC2-es Diesel S-Crew-Division-D Sweat-Shirt Sudadera Negro Negro...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 35.43 EUR
 currency: EUR
 price: 35.43

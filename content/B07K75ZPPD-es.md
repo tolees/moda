@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K75ZPPD-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Megamouth...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 66.78 EUR
 currency: EUR
 price: 66.78

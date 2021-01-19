@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VT4VHP-es G-STAR RAW 3301 High Waist Boyfriend Vaqueros Azul lt Aged...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 19.44 EUR
 currency: EUR
 price: 19.44

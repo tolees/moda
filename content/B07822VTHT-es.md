@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07822VTHT-es Helly Hansen Lifaloft Ligera Chaqueta Aislante Mujer Black XS'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 83.76 EUR
 currency: EUR
 price: 83.76

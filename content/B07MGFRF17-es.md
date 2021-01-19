@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRF17-es Napapijri BAUNT FZ Sudadera Negro Black 041 XXL para Hombre'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

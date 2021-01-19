@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007ZY4UE6-es Levi s 511 Slim Fit Vaqueros Rain Shower 32W / 32L para...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

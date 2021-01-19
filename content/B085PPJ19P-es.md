@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085PPJ19P-es Timberland World Hiker Mid TB0A1W47K511'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 55.04 EUR
 currency: EUR
 price: 55.04

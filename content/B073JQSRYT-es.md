@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JQSRYT-es find. Camiseta Manga Larga Hombre Gris Stone 50 Talla del...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7RJWTK-es LIGE Relojes Hombre Moda Impermeable Acero Inoxidable...'
-tags: moda
+tags: tole.es, moda
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

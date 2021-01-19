@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFNHWXD-es Levi s 501 Crop Vaqueros Straight Azul Market Vintage 0080...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

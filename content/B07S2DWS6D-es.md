@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2DWS6D-es Esprit 999ee1b803 Vaqueros Slim Negro Black 001 W28/L30...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0764JPDXF-es Kipling IZELLAH Bolso bandolera para Mujer Marrón True...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

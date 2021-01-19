@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB5GWZQ-es JACK & JONES Jorclan Parka Negro Black Black Medium para...'
-tags: parka
+tags: tole.es, parka
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

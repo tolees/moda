@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLNKJGZ-es ARTESANIA CERDA BOLSO RIÑONERA BATMAN Gris'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

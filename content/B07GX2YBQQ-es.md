@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX2YBQQ-es JIVANER Ultra Slim: Cartera Hombre de Piel Azul - Cartera...'
-tags: billetera, monedero
+tags: tole.es, billetera, monedero
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

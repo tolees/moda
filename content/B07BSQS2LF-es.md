@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSQS2LF-es oodji Ultra Hombre Camisa de Algodón con Cuello en...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDHXFXT-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Irish Sea...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 84.08 EUR
 currency: EUR
 price: 84.08

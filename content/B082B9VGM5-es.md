@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082B9VGM5-es Geographical Norway Chaqueta Softshell DE NIÑA TILSIT Azul...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

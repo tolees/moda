@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721CCZW1-es find. Vestido Recto para Mujer Rosa 38 Talla del...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 13 EUR
 currency: EUR
 price: 13

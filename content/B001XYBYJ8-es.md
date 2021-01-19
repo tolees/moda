@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001XYBYJ8-es Craft Cool Mesh Camiseta Interior para Hombre Hombre White L'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

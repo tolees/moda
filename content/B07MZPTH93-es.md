@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPTH93-es Pepe Jeans Mika Camiseta Black 999 Large para Mujer'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 20.62 EUR
 currency: EUR
 price: 20.62

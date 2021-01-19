@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9RN32Q-es Crocs Literide Stretch Sandal Women Sandalias de Punta...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 20.25 EUR
 currency: EUR
 price: 20.25

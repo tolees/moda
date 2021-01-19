@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFPWJFG-es Geox U Garret B Botas Clasicas para Hombre Marrón...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 67.5 EUR
 currency: EUR
 price: 67.5

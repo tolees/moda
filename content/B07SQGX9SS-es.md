@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGX9SS-es Geox D Tabelya A Zapatillas para Mujer Negro Black/Gun...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 35.89 EUR
 currency: EUR
 price: 35.89

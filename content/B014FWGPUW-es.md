@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014FWGPUW-es Pepe Jeans Soho Vaqueros Negro 10Oz Washed Black S98 24W /...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

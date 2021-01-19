@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBYPXWF-es PUMA Sudadera Rebel Hoody FL Light Gris Mujer'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 35.36 EUR
 currency: EUR
 price: 35.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXR2NWD-es Havaianas Slim Crystal Glamour SW Chanclas para Mujer...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

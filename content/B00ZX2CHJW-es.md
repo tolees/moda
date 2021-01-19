@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZX2CHJW-es Crocs Crocband Sandal Kids Sandalias Unisex Niños Azul...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T771RCV-es Mercedes-Benz Sonnenbrille M7008 Gafas de sol Azul Blau...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 21.44 EUR
 currency: EUR
 price: 21.44

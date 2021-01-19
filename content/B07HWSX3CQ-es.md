@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HWSX3CQ-es H&E - Abrigo de invierno para niña con capucha y capucha...'
-tags: abrigo
+tags: tole.es, abrigo
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

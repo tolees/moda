@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000V9HHQA-es Timberland Heritage Noreen 3 Eye Náuticos para Mujer...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 135.95 EUR
 currency: EUR
 price: 135.95

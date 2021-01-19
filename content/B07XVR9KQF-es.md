@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVR9KQF-es Esprit 119ee2k006 Camisa Manga Larga Blanco Off White 110...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

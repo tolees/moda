@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HKZ39X-es Marca Amazon - IRIS & LILLY Tanga de Hilo de Algodón Mujer...'
-tags: iris, &, lilly
+tags: tole.es, iris, &, lilly
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

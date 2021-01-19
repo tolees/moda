@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLXQRZ-es Geox D Sandal Vega A Sandalia con Pulsera para Mujer Azul...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 55.93 EUR
 currency: EUR
 price: 55.93

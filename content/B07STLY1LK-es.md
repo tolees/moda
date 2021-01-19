@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLY1LK-es Geox D Pontoise D Zapatillas para Mujer Blanco...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 34.6 EUR
 currency: EUR
 price: 34.6

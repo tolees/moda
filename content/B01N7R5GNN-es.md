@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7R5GNN-es Prada 0PR51SS VHT1A0 54 Gafas de Sol Plateado...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 143.0 EUR
 currency: EUR
 price: 143.0

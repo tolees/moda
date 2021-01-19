@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF9X1Y9-es PUMA Rebel Bold tee Camiseta Hombre White XL'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

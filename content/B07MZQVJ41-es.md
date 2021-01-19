@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQVJ41-es Pepe Jeans Nanete Sudadera Azul Blue 551 Medium para Mujer'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

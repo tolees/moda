@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRDRDYZ-es GANT Footwear Bari Zapatos de Cordones Brogue para Hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

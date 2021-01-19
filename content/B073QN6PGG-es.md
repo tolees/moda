@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QN6PGG-es find. Chaqueta de Leñador para Hombre Verde Grün Medium'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 18 EUR
 currency: EUR
 price: 18

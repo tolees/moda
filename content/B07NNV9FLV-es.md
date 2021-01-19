@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNV9FLV-es Under Armour Erwachsene Core Remix Dusch-& Badeschuhe...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

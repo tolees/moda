@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDCKKMJ-es Napapijri Gode Camisa Multicolor Red Check 38c 38c1 Large...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 34.2 EUR
 currency: EUR
 price: 34.2

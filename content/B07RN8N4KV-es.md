@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RN8N4KV-es HAWKERS · PAPARAZZI · Gold · Ligth Red · Gafas de sol para...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 6.28 EUR
 currency: EUR
 price: 6.28

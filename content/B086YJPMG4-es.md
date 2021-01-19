@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YJPMG4-es Odetina - Sandalias de tacón bajo para mujer color Blanco...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

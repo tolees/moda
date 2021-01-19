@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8R2FHT-es Lacoste CH4976 Camisa Blanco Blanc X-Small Talla del...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

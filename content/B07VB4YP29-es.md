@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB4YP29-es Jack & Jones Glenn Royal R215 Rdd Ltd Vaqueros Blue Denim...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

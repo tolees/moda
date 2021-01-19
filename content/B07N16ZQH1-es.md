@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N16ZQH1-es G-STAR RAW 3301 Vaqueros Relaxed Azul Worker Blue Faded...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 16.23 EUR
 currency: EUR
 price: 16.23

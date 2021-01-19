@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FK1K7Y-es Oihxse Funda con Samsung Galaxy A90 5G Cuero PU Billetera...'
-tags: billetera
+tags: tole.es, billetera
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

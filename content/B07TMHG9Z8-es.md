@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMHG9Z8-es Levi s Barstow Western Standard Camisa Azul Red Cast Stone...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

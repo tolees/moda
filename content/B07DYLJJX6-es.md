@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYLJJX6-es Quiksilver Carver Deluxe Zapatos de Playa y Piscina para...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

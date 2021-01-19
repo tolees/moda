@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076DDMT2G-es Tommy Hilfiger Essential Suede Lace Up Derby Zapatos de...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 93.95 EUR
 currency: EUR
 price: 93.95

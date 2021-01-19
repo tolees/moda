@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GWPNLK-es find. Camiseta Con Estampado Hombre Azul Blue Large'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

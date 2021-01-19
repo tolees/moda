@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E9AAW5K-es Timberland Waterville 6 Inch Basic Waterproof Botas para...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 105 EUR
 currency: EUR
 price: 105

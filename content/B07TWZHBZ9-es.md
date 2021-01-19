@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWZHBZ9-es Axcone Zapatillas Hombres Mujer Deporte Running Zapatos...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNKFSW-es Helly Hansen Welsey II Aislado Impermeable Gabardina...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 107.47 EUR
 currency: EUR
 price: 107.47

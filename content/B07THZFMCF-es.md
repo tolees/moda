@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THZFMCF-es Ermenegildo Zegna Sonnenbrille EZ0028-FN Gafas de sol...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 21.16 EUR
 currency: EUR
 price: 21.16

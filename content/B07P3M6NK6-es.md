@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3M6NK6-es Superdry Ana High Neck Crew Sudadera Blanco Soft White L6o...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

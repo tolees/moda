@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CN3D4C-es Geographical Norway Parka Mujer BOOMERA Ass B Rosa...'
-tags: parka
+tags: tole.es, parka
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

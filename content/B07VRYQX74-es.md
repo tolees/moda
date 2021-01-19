@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRYQX74-es Calvin Klein Hip Brief 2pk Boxer Negro Black with/White WB...'
-tags: boxer
+tags: tole.es, boxer
 actualPrice: 13.74 EUR
 currency: EUR
 price: 13.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDRS7RR-es SALOMON Agile Training tee M Camiseta de Manga Corta...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

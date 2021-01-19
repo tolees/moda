@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5CQ6PN-es Deevike Pantuflas Zapatillas Mujer Invierno CáLido Zapatos...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

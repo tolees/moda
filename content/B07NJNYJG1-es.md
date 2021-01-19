@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJNYJG1-es D C.Supernice - Zapatilla Baja Adultos Unisex Color Azul...'
-tags: zapatilla
+tags: tole.es, zapatilla
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

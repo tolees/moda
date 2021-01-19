@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWLBDTX-es Tommy Hilfiger TJM Chest Stripe Logo tee Camiseta Deporte...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

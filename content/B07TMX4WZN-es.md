@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMX4WZN-es Clarks Tri Sporty Sandalias de Talón Abierto para Mujer...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 31.38 EUR
 currency: EUR
 price: 31.38

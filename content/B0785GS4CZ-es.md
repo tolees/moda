@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785GS4CZ-es Gregster Bauna Zapatos de Low Rise Senderismo para Hombre...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

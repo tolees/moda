@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFQQ8ZK-es El Búho Nocturno Pijama de Caballero de Manga Larga canalé...'
-tags: pijama
+tags: tole.es, pijama
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

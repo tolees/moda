@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9P8MH9-es O NEILL LM Arrowhead T-Shirt Camiseta Manga Corta para...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

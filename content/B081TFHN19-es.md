@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TFHN19-es LuckyGirls Hombres Verano Roma Chanclas Zapatillas de...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 4.94 EUR
 currency: EUR
 price: 4.94

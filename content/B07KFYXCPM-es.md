@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYXCPM-es PUMA Rise XT 3 Zapatos de Futsal Unisex Adulto Black-...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 33.17 EUR
 currency: EUR
 price: 33.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMCBFM-es Tommy Hilfiger Modern T Shirt Bra Sujetador para Camiseta...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 22.61 EUR
 currency: EUR
 price: 22.61

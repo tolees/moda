@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6PZSG2-es JACK & JONES JCOSEAD Sweat Crew Neck FST Sudadera Gris...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

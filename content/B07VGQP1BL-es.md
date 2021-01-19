@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGQP1BL-es Desigual Vest Bondi Vestido Azul Turkish Sea 5114 Small...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW66DQZ-es Disney muñeca Princesa Anna con Vestido Capa y Botas de...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 30.5 EUR
 currency: EUR
 price: 30.5

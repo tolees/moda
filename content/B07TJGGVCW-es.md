@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJGGVCW-es Superdry OL Low Roller tee Camiseta Azul True Blue 69h XS...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

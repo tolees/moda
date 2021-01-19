@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JB4HYC-es uhlsport Camiseta Stream II Manga Larga Todo el año Unisex...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

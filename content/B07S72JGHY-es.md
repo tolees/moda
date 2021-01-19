@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S72JGHY-es Geschallino Chaqueta con Capucha de Suave Piel Falsa para...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

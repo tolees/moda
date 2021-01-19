@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJGJ6LB-es CMP Rigel Mid Zapatos de High Rise Senderismo Unisex...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 28.76 EUR
 currency: EUR
 price: 28.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFYNZ6L-es G-STAR RAW 3301 Slim Vaqueros Rinsed B780-082 26W / 34L...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

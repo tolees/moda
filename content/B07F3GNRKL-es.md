@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3GNRKL-es Geox Uomo Sandal Strada B Sandalias Punta Cerrada para...'
-tags: geox, sandalias
+tags: tole.es, geox, sandalias
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

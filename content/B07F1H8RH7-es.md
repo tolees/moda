@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1H8RH7-es Havaianas Slim Chanclas para Niñas Rosa Hollywood Rose...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

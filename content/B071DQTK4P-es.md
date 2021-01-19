@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071DQTK4P-es WenVen Chaqueta Parka de Algodón con Capucha para Hombres...'
-tags: chaqueta, parka
+tags: tole.es, chaqueta, parka
 actualPrice: 57.67 EUR
 currency: EUR
 price: 57.67

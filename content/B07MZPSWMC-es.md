@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPSWMC-es Pepe Jeans Nouvelle Sudadera Grey Marl 933 9-10 años Talla...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015EGSVQE-es Ermenegildo Zegna Sonnenbrille EZ0035 Gafas de Sol...'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

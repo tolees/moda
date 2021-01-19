@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010QRS11Q-es Timberland Larchmont Chelsea Waterproof Botas Hombre...'
-tags: timberland
+tags: tole.es, timberland
 actualPrice: 69.75 EUR
 currency: EUR
 price: 69.75

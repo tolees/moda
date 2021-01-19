@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYYG5TQ-es Apanphy® Bolsa de Aseo Neceseres de Viaje Travel Bolso...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

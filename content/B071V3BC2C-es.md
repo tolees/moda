@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071V3BC2C-es Tommy Hilfiger Core Poplin Classic Shirt Camisa Azul 411...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 39.43 EUR
 currency: EUR
 price: 39.43

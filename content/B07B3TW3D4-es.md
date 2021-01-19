@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3TW3D4-es gracosy Mocasines para Mujer Primavera/Verano Vintage...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJHSKB6-es G-STAR RAW Revend Skinny Vaqueros Rinsed 8970-082 28W /...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 31.53 EUR
 currency: EUR
 price: 31.53

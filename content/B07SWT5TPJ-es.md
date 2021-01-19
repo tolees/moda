@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT5TPJ-es Geox J Rebecca Girl B Zapatillas para Niñas Blanco...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 39.92 EUR
 currency: EUR
 price: 39.92

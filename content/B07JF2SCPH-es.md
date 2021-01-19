@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JF2SCPH-es P Prettyia 20 Juegos De Botines con Ganchos De Encaje con...'
-tags: botines
+tags: tole.es, botines
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

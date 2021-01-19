@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLVH14G-es Maglev Essentials BDX011M5 Camiseta Multicolor Grey...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

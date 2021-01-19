@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9KD7KH-es Kayhan Hombre Camisa TwoFace Bordeaux M'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

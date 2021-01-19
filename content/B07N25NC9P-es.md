@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N25NC9P-es Seidensticker X-Slim Fit Langarm Mit Business Kent-Kragen...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 18.94 EUR
 currency: EUR
 price: 18.94

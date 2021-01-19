@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVFHSLL-es Tommy Hilfiger TJM Bold tee Camiseta Azul Twilight Navy...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

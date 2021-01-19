@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894KMNS2-es E-More Ventilador Portátil Ventilador Clip de Cintura...'
-tags: collar
+tags: tole.es, collar
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

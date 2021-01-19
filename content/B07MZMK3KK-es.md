@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMK3KK-es Pepe Jeans Catrina Blusa Multi 0aa X-Small para Mujer'
-tags: blusa
+tags: tole.es, blusa
 actualPrice: 27.93 EUR
 currency: EUR
 price: 27.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JBXHY5-es Zapatos de Agua Escarpines Hombres Mujer Niños Verano...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

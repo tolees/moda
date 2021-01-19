@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LYTAI3A-es Hollywood Star Fashion - Camiseta de manga corta con...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

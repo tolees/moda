@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825RJKVH-es GEOX U WELLS C ANTHRACITE Men s Trainers Low-Top Trainers...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VVHVHS-es Crocs Classic Clog Zuecos Unisex Adulto Azul Tropical Teal...'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

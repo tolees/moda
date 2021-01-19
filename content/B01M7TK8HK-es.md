@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7TK8HK-es Funda para bolso estuche portatil Leorx superficie para...'
-tags: bolso
+tags: tole.es, bolso
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

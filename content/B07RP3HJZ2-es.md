@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP3HJZ2-es Conjunto regalo cumpleaños Cake Topper + Body o camiseta...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

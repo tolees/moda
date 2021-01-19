@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ2D9JG-es BILLABONG TRD Mrk LS tee Camiseta Hombre Azul Dark Blue...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

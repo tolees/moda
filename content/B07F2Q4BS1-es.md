@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2Q4BS1-es Helly Hansen HP Fleece Jacket Chaqueta Polar Hombre Quiet...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 58.05 EUR
 currency: EUR
 price: 58.05

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG246BH-es Geox J Sleigh Girl B ABX B Botas de Nieve para Niñas Negro...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

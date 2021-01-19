@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZQYR9J-es Joma Equip. M/c Hombre Camiseta hispa Rojo-Blanco S'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

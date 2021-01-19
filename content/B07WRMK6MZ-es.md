@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRMK6MZ-es Skechers Tresmen Hirano Sandalias de Punta Descubierta...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

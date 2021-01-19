@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PH3JYG3-es Scalpers New Oxford BD - Camisa para Hombre Talla 42 Color...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

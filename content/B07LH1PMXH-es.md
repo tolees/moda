@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH1PMXH-es The North Face Ambition S/S Camiseta de Manga Corta Hombre...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

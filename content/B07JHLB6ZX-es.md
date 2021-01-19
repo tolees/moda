@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHLB6ZX-es Columbia Redmond V2 WP Zapatos de Senderismo Impermeables...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 65.62 EUR
 currency: EUR
 price: 65.62

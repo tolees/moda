@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VS28VM9-es Izod Faux Down Hooded Parka Azul Navy Blazer 410 S para...'
-tags: parka
+tags: tole.es, parka
 actualPrice: 101.16 EUR
 currency: EUR
 price: 101.16

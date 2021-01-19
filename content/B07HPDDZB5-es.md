@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPDDZB5-es Dockers by Gerli 36li019-207120 Sandalias de Talón Abierto...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

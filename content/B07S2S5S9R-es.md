@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2S5S9R-es Levi s The Original Camiseta Multicolor Hm Patch OG tee...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

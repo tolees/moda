@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L7CMJCG-es JACK & JONES Jjitim Jjoriginal Am 814 Vaqueros Slim Azul...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

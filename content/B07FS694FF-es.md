@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FS694FF-es 52W Lámpara LED UV Uñas para Manicura/Pedicura con 4...'
-tags: guantes
+tags: tole.es, guantes
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

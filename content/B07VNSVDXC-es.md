@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNSVDXC-es Scotch & Soda Classic Garment Dyed Polo Chaleco Azul Pool...'
-tags: chaleco
+tags: tole.es, chaleco
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

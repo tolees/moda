@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ979ST-es Marca Amazon - find. Abrigo Cruzado de Cuadros Hombre Rojo...'
-tags: abrigo, -, find.
+tags: tole.es, abrigo, -, find.
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

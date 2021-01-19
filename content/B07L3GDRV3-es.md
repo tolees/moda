@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3GDRV3-es Tommy Hilfiger Sporty Flat Beach Sandal Chanclas para...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

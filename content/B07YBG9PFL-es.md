@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBG9PFL-es Vans Classic Camiseta Amarillo Sulphur Spring/Asphalt Ync...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

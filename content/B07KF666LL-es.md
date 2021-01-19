@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF666LL-es Levi s SS Battery Hm Shirt Camisa Blanco White X 0000...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

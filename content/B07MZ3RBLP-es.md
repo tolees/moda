@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ3RBLP-es Camisetas Hombre SHOBDW Verano de Lino Liso Algodón Talla...'
-tags: blusa, camiseta
+tags: tole.es, blusa, camiseta
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

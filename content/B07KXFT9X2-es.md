@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXFT9X2-es dPois Disfraz Princesa para Niña Bebé Vestido Princesa...'
-tags: falda, vestido
+tags: tole.es, falda, vestido
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

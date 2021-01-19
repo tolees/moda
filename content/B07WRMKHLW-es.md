@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRMKHLW-es Skechers TRESMEN HIRANO Sandalias con Punta Abierta para...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

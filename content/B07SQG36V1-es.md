@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQG36V1-es Geox J Alben Boy D Zapatillas para Niños Gris Grey/Yellow...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

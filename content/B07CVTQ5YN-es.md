@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVTQ5YN-es Billetera de cuero para hombre billetera de cuero genuino...'
-tags: billetera
+tags: tole.es, billetera
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

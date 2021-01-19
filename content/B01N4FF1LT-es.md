@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4FF1LT-es Columbia Pouring Adventure II Chaqueta para Lluvia Hombre...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

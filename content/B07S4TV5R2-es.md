@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4TV5R2-es Levi s 724 High Rise Straight Vaqueros Azul Los Angeles...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 50.39 EUR
 currency: EUR
 price: 50.39

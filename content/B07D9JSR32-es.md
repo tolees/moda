@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9JSR32-es Tommy Hilfiger Pant Pantalones de pijama Gris Grey Heather...'
-tags: pijama
+tags: tole.es, pijama
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

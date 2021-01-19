@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2M7CTK-es adidas M Mh 3s tee Camiseta de Manga Corta Hombre...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

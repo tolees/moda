@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39DKCJ-es Desigual Coat Letras Abrigo Azul Navy 5000 44 para Mujer'
-tags: abrigo
+tags: tole.es, abrigo
 actualPrice: 107.24 EUR
 currency: EUR
 price: 107.24

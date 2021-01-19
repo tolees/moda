@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2R9GW-es Geox U Goinway B Sandalias con Punta Abierta para Hombre...'
-tags: geox, sandalias
+tags: tole.es, geox, sandalias
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

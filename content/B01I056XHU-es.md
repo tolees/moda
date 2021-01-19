@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I056XHU-es Joma Gala Sudadera Hombre Rojo Vino 8XS'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

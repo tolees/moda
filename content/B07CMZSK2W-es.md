@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMZSK2W-es Crocs Crocband U Zuecos Unisex Adulto Morado Lavender-...'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 36.68 EUR
 currency: EUR
 price: 36.68

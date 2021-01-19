@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHY84K8-es New Balance 520v6 Zapatos para Correr para Mujer Azul Blue...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

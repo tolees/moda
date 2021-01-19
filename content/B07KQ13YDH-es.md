@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQ13YDH-es FitFlop Lottie Glitzy Sandalias de Punta Descubierta Women...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VMWGFN-es Under Armour UA HG Armour Shorty Pantalón Corto Mujer Gris...'
-tags: pantalón
+tags: tole.es, pantalón
 actualPrice: 15.08 EUR
 currency: EUR
 price: 15.08

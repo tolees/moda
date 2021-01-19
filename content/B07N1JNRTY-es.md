@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JNRTY-es Clarks Linvale Sea Zapatos con Tira de Tobillo para Mujer...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 38.18 EUR
 currency: EUR
 price: 38.18

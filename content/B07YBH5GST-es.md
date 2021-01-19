@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBH5GST-es Vans Colorblock tee Camiseta Multicolor Sulphur...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

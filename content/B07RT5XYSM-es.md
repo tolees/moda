@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT5XYSM-es GLEADING Collar Anti pulgas y garrapatas para Perros y...'
-tags: collar
+tags: tole.es, collar
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

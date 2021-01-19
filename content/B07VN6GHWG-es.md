@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN6GHWG-es edc by Esprit 099cc1k044 Camiseta sin Mangas Verde Khaki...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

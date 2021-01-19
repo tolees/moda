@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W368ZHF-es Pepe Jeans Montana Camiseta Azul Old Navy 584 XX-Large...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWY46RW-es Joma Cairo II Sudadera Hombre Royal S'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

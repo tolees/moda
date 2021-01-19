@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMHHRSZ-es Levi s 2pk Crewneck Graphic Camiseta Blanco 2pack tee...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

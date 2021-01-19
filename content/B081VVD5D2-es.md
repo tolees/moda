@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VVD5D2-es Vans Mochila diseño de vestido de esquí Azul a cuadros'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

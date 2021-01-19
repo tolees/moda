@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ8C6DQ-es Springfield 4.2.Pc. Midi Nudo Vestido Multicolor...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078CQMXFZ-es SIMYJOY Pareja Sudadera con Capucha Gato Encapuchado...'
-tags: camisa, sudadera
+tags: tole.es, camisa, sudadera
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

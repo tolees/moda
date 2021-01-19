@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AP4CYK-es Reebok Classic Nylon Zapatilla de Running Hombre Grigio...'
-tags: zapatilla
+tags: tole.es, zapatilla
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

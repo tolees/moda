@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDQ2MNQ-es G-STAR RAW Alkyne Slim Camiseta Negro White 110 XX-Small...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

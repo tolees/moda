@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076FCZS83-es RED WAGON Sudadera Print Niñas Morado Lavander Fog 13-3820...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

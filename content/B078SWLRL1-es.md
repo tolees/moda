@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SWLRL1-es Timberland Capri Sunset Wedge Sandalias para Mujer Marrón...'
-tags: sandalias, timberland
+tags: tole.es, sandalias, timberland
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

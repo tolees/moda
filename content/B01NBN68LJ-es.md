@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBN68LJ-es find. BAY001018W170205 vaqueros mujer Azul W30/L32 Talla...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

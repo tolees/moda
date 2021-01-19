@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K751PWC-es Levi s Graphic B Sudadera Negro Logo Ssnl Crew Mineral...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

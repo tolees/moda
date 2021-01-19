@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEXDQTC-es Crocs Classic Clog K Zuecos Unisex Niños Amarillo Lemon...'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5Q5K6X-es FIND Block Heel Mary-Jane Zapatos de Tacón Morado Purple...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 5.91 EUR
 currency: EUR
 price: 5.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007WPOB38-es Havaianas Brasil Logo Chanclas Unisex Adulto Azul Marine...'
-tags: chanclas
+tags: tole.es, chanclas
 actualPrice: 18.03 EUR
 currency: EUR
 price: 18.03

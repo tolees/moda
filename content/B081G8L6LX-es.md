@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081G8L6LX-es Mujer Zapatillas Deporte para Zapatillas de Ligeras...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 38.94 EUR
 currency: EUR
 price: 38.94

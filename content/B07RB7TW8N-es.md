@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB7TW8N-es Columbia Pike Lake Chaqueta Mujer Verde Olive Green S'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

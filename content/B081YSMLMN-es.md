@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YSMLMN-es Jack & Jones Jorpex Sweat Hood Sudadera con Capucha Ashley...'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 8.92 EUR
 currency: EUR
 price: 8.92

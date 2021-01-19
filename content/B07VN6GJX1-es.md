@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN6GJX1-es Desigual Jers Chill Chaqueta Punto Negro Negro 2000 Medium...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 55.1 EUR
 currency: EUR
 price: 55.1

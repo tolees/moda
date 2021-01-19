@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHDBPWY-es CIVO Relojes Mujeres Oro Rosa Impermeable de Acero...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

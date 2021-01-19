@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876LCB6R-es Shelfin - Camiseta de baloncesto de la NBA de Miami Heat...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

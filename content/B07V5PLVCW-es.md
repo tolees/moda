@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5PLVCW-es Mavi Printed tee Camiseta Azul Indigo 18790 Large Talla...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 10.52 EUR
 currency: EUR
 price: 10.52

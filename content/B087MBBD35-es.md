@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087MBBD35-es Ucayali Zapatos de Seguridad Hombre Trabajo Verano...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

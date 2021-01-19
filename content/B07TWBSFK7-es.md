@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWBSFK7-es Clarks Crown Stem K Sandalias Punta Cerrada para Niños...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

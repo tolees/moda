@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ST19TYK-es Quiksilver Monkey Caged Sandalias de Talón Abierto para...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

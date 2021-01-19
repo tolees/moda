@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZMPCT6-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

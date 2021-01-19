@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NK62TT-es Lee Logo tee Camiseta Azul Navy Drop Aiee Small para Hombre'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

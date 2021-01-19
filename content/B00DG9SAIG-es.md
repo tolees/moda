@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DG9SAIG-es Keen Newport H2 Sandalias de Senderismo Infantil Negro...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

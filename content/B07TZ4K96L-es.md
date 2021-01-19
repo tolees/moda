@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ4K96L-es New Look Maisie Fitted Puffer Abrigo Mujer Gris Dark Grey...'
-tags: abrigo
+tags: tole.es, abrigo
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FVYG8L0-es MY EVENING DRESS Grace - Vestido para Mujer Verde Dark...'
-tags: vestido
+tags: tole.es, vestido
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

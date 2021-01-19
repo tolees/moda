@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNZQJD-es Helly Hansen Logo Hoodie Sudadera con Capucha Hombre Gris 2XL'
-tags: sudadera
+tags: tole.es, sudadera
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

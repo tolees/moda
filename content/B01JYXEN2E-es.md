@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JYXEN2E-es MAMALICIOUS MLRAM COATED SLIM JEANS Vaqueros premamá Mujer...'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 33.26 EUR
 currency: EUR
 price: 33.26

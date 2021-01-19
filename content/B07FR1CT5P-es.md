@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR1CT5P-es Clarks Step Beat Sun Sandalias Punta Abierta para Hombre...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 36.66 EUR
 currency: EUR
 price: 36.66

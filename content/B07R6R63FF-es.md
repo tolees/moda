@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6R63FF-es WEB EYEWEAR WE0261 Gafas para Hombre Negro 60'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

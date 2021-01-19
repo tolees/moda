@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SXX3Y8-es Timberland Malibu Waves Thong Sandalias para Mujer Negro...'
-tags: sandalias, timberland
+tags: tole.es, sandalias, timberland
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

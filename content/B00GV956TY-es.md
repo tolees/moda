@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GV956TY-es Wrangler Arizona Vaqueros Cool Hand 38W / 30L para Hombre'
-tags: vaqueros
+tags: tole.es, vaqueros
 actualPrice: 43.74 EUR
 currency: EUR
 price: 43.74

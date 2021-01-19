@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PKJZMQ-es TYRY.HU dentición collar para mamá para usar silicona...'
-tags: collar
+tags: tole.es, collar
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

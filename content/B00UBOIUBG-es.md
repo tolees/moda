@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBOIUBG-es Tommy Hilfiger 3p Trunk Bóxer Negro Black/Grey...'
-tags: bóxer
+tags: tole.es, bóxer
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

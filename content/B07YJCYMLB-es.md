@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJCYMLB-es Eli-time Gafas de sol polarizadas ultraligeras para...'
-tags: gafas, moda
+tags: tole.es, gafas, moda
 actualPrice: 12.11 EUR
 currency: EUR
 price: 12.11

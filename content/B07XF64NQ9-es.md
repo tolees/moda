@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XF64NQ9-es Esprit 109ee1i012 Chaqueta Punto Gris Medium Grey 5 039 Mujer'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 19.84 EUR
 currency: EUR
 price: 19.84

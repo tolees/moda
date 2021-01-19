@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R4JL8II-es Izas Jalan Chaqueta polar Mujer Lima/ Turquesa XXL'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

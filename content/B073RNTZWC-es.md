@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNTZWC-es Helly Hansen HH Tech Crew Camiseta Hombre Blanco Blanco...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

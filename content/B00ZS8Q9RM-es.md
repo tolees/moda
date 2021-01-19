@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZS8Q9RM-es DC Shoes ADYS700071 Zapatilla Hombre Negro Black/White Bkw...'
-tags: zapatilla
+tags: tole.es, zapatilla
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7JGBRX-es edc by Esprit 099CC1G030 Abrigo Gris Anthracite 010 XL...'
-tags: abrigo
+tags: tole.es, abrigo
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

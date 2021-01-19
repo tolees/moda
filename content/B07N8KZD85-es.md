@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8KZD85-es Izod Poplin Plaid BD Shirt Camisa Casual Rosa Candy Pink...'
-tags: camisa
+tags: tole.es, camisa
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077P9BMZQ-es adidas Ask SPR LS Camiseta Sin género Negro 2XL'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JPLJR6-es Sucreven Mujer Elegante Tacón Ancho Pump Puntiagudo Tacón...'
-tags: vestido, zapatos
+tags: tole.es, vestido, zapatos
 actualPrice: 26.78 EUR
 currency: EUR
 price: 26.78

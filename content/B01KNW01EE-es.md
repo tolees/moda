@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KNW01EE-es Qomolo Guantes Para Carrito de Bebé Guantes de Silla de...'
-tags: guantes
+tags: tole.es, guantes
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

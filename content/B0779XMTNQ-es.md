@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779XMTNQ-es Marca Amazon - find. Camiseta Transpirable Deporte Hombre...'
-tags: camiseta, -, find.
+tags: tole.es, camiseta, -, find.
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

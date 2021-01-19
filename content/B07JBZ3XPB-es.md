@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBZ3XPB-es Columbia Powder Lite Jacket Chaqueta Hombre Rojo Jasper-...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

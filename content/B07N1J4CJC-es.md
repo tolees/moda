@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1J4CJC-es Clarks Step Explorhi Botines para Mujer Negro Black 37.5 EU'
-tags: botines
+tags: tole.es, botines
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

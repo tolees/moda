@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPCGCYQ-es Crocs Crocband U Zuecos Unisex Adulto Verde Army Green-...'
-tags: zuecos
+tags: tole.es, zuecos
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

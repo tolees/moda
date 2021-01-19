@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB85D9K-es Aurique Leggings deportivos para Mujer Azul Dress...'
-tags: aurique
+tags: tole.es, aurique
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

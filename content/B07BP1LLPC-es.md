@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BP1LLPC-es JACK & JONES JJIALVIN JJJACKET AKM 528 STS Chaqueta...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

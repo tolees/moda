@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKLY6JZ-es HAWKERS - Gafas de sol para mujer BUTERFLY Carey'
-tags: gafas
+tags: tole.es, gafas
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

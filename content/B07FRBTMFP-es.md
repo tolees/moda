@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRBTMFP-es Clarks Batcombe Wing Zapatos de Cordones Derby Marrón Tan...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 53.14 EUR
 currency: EUR
 price: 53.14

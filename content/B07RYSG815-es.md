@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYSG815-es Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta...'
-tags: camiseta
+tags: tole.es, camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

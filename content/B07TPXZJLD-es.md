@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPXZJLD-es Clarks Un Adorn Calm Sandalias de Talón Abierto para Mujer...'
-tags: sandalias
+tags: tole.es, sandalias
 actualPrice: 34.14 EUR
 currency: EUR
 price: 34.14

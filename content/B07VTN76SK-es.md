@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTN76SK-es Only Onlbeccy Crop7/8 Faux Leather Jacket Otw Chaqueta...'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

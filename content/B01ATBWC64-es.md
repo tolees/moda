@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ATBWC64-es Playmobil Maletín Moda 5652'
-tags: moda
+tags: tole.es, moda
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

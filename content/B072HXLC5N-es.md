@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HXLC5N-es Chaqueta Softshell Inatye'
-tags: chaqueta
+tags: tole.es, chaqueta
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

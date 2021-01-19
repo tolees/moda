@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMPYQSW-es Esprit Crosby Beach Padded Bandeau Parte de Arriba de...'
-tags: bikini
+tags: tole.es, bikini
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

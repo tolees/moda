@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXTHMMV-es Geox D Borealis A Sandalia con Pulsera para Mujer Negro...'
-tags: geox
+tags: tole.es, geox
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

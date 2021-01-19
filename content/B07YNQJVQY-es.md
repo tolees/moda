@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNQJVQY-es AURIQUE AZ20SS008 Pantalones Cortos de Gimnasio Negro...'
-tags: aurique
+tags: tole.es, aurique
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5
