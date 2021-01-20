@@ -26,10 +26,10 @@ En este momento está [PUMA Liga TR JSY Camiseta de Manga Corta  Hombre  Blanco 
 
 🔎:
 
-- Panel bajo la axila
-- Corte recto
-- Logotipo del felino PUMA en la parte derecha del pecho
 - Costura lateral hacia atrás
 - Bajo delantero liso
+- Logotipo del felino PUMA en la parte derecha del pecho
+- Corte recto
+- Panel bajo la axila
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079Y8PSGT/?tag=tolees-21)

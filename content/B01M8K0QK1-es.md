@@ -27,9 +27,9 @@ Está [Speedo Fastskin Speedsocket 2 Gafas de Natación  Unisex Adulto  Blanco/M
 ℹ️:
 
 - Correa de cabeza doble de silicona para un ajuste seguro
-- Perfil con cristales higroscópicos para la máxima visión periférica con el mínimo movimiento de cabeza
-- Cristales de espejo para reducir el brillo y los reflejos. Ideales para competir y para nadar al aire libre
 - Puentes de nariz intercambiables para un ajuste individual
 - Cristales con revestimiento antivaho con 100 % protección UV
+- Cristales de espejo para reducir el brillo y los reflejos. Ideales para competir y para nadar al aire libre
+- Perfil con cristales higroscópicos para la máxima visión periférica con el mínimo movimiento de cabeza
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M8K0QK1/?tag=tolees-21)
