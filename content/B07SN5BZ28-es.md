@@ -27,7 +27,7 @@ En este momento está [Levi s Graphic Diana Crew Sudadera  White  90 s Serif Whi
 🔎:
 
 - Ofrece comodidad todo el día
-- Con un diseño retro inspirado en los 90
 - Modelo de corte vintage
+- Con un diseño retro inspirado en los 90
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SN5BZ28/?tag=tolees-21)
