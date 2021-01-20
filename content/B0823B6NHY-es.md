@@ -27,7 +27,7 @@ Está [Levi s SS Original Hm tee Camiseta  Colony Blue  M para Hombre](https://w
 ℹ️:
 
 - Adecuada para el día a día
-- Modelo casual
 - Logotipo pequeño de Levis en el pecho
+- Modelo casual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0823B6NHY/?tag=tolees-21)
