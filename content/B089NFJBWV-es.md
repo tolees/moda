@@ -26,9 +26,9 @@ Tienes [Jack & Jones JJELOGO Blocking tee SS Noos Camiseta  Port Royale  M para 
 
 🔎:
 
-- Bloqueo de color
-- Camiseta básica con logotipo impreso
-- Corte ajustado
 - Algodón suave
+- Corte ajustado
+- Camiseta básica con logotipo impreso
+- Bloqueo de color
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089NFJBWV/?tag=tolees-21)

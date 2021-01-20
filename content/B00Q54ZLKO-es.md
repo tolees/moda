@@ -26,9 +26,9 @@ Tienes [Spontex 278057 Guantes Triple Capa  Talla Mediano 7  2 Unidades](https:/
 
 🔎:
 
-- Comodidad su forro algodón
 - Reforzados con neopreno, para poder usar productos de limpieza agresivos
 - Máxima resistencia gracias a sus tres capas, para limpiezas a fondo
+- Comodidad su forro algodón
 - Máxima algodón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00Q54ZLKO/?tag=tolees-21)
