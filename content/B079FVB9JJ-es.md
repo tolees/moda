@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FVB9JJ-es Under Armour Fitted Coldgear Crew Camiseta De Manga Larga...'
+sku: 'B079FVB9JJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.87 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BL4Y3TK-es ManLee Bolsa de lápiz Multifuncional Estuche de Lápices...'
+sku: 'B08BL4Y3TK-es'
 tags: [ 'bolso', ]
 actualPrice: 12.29 EUR
 currency: EUR

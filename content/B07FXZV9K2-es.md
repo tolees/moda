@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXZV9K2-es Havaianas Top Tiras Chanclas para Mujer Dorado Rose Nude...'
+sku: 'B07FXZV9K2-es'
 tags: [ 'chanclas', ]
 actualPrice: 12.79 EUR
 currency: EUR

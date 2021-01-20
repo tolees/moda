@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BS13NGT-es Brace Master MMA Gloves Guantes UFC Guantes de Boxeo para...'
+sku: 'B07BS13NGT-es'
 tags: [ 'guantes', ]
 actualPrice: 17.99 EUR
 currency: EUR

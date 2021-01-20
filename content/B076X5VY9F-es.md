@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076X5VY9F-es Geox U SAYMORE C Zapatos de Cordones Derby para Hombre...'
+sku: 'B076X5VY9F-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 89.95 EUR
 currency: EUR

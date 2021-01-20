@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7TN61F-es LIGE Relojes Hombre Negocio Acero Inoxidable Impermeable...'
+sku: 'B07X7TN61F-es'
 tags: [ 'vestido', ]
 actualPrice: 32.99 EUR
 currency: EUR

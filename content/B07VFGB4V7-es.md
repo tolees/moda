@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFGB4V7-es Clarks Cotrell Lane 261486527 Zapatos de Cordones Derby...'
+sku: 'B07VFGB4V7-es'
 tags: [ 'zapatos', ]
 actualPrice: 34.13 EUR
 currency: EUR

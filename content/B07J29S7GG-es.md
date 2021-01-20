@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J29S7GG-es JACK & JONES Jcoalu Jacket Noos Chaqueta Gris Light Grey...'
+sku: 'B07J29S7GG-es'
 tags: [ 'chaqueta', ]
 actualPrice: 18 EUR
 currency: EUR

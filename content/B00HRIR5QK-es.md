@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRIR5QK-es Timberland - Patucos y casquillo para bebés Rosa 17'
+sku: 'B00HRIR5QK-es'
 tags: [ 'timberland', ]
 actualPrice: 31.99 EUR
 currency: EUR

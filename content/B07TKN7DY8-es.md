@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKN7DY8-es Clarks Flex Sun Sandalias de Talón Abierto para Mujer...'
+sku: 'B07TKN7DY8-es'
 tags: [ 'sandalias', ]
 actualPrice: 50.72 EUR
 currency: EUR

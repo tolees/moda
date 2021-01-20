@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BJ4LQL-es Columbia Powder Pass Chaqueta Híbrida sin Mangas Hombre...'
+sku: 'B081BJ4LQL-es'
 tags: [ 'chaqueta', ]
 actualPrice: 49.52 EUR
 currency: EUR

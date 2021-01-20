@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M95CRZD-es Lee Scarlett High Vaqueros Azul Sitka Worn In Jq 28W/31L...'
+sku: 'B07M95CRZD-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.99 EUR
 currency: EUR

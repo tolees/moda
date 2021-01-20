@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2KC2B2-es Levi s 510 Skinny Fit Vaqueros para Hombre Negro Luther...'
+sku: 'B07D2KC2B2-es'
 tags: [ 'vaqueros', ]
 actualPrice: 31.79 EUR
 currency: EUR

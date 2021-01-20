@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQWGZ8J-es Clarks Declan Mix Sandalias de Gladiador para Mujer Negro...'
+sku: 'B07TQWGZ8J-es'
 tags: [ 'sandalias', ]
 actualPrice: 34.0 EUR
 currency: EUR

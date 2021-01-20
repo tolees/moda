@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPBDGX3-es HAWKERS Warwick Gafas de sol Carbon Black Chrome One Size...'
+sku: 'B07RPBDGX3-es'
 tags: [ 'gafas', ]
 actualPrice: 14.54 EUR
 currency: EUR

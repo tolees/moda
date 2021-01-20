@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTDRBX-es Geox D Tabelya A Zapatillas para Mujer Beige Cream/Lt Gold...'
+sku: 'B07SWTDRBX-es'
 tags: [ 'geox', ]
 actualPrice: 47.84 EUR
 currency: EUR

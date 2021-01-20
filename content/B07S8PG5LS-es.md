@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PG5LS-es PUMA Cali WN S Zapatos Deportivos para Mujer Blanco...'
+sku: 'B07S8PG5LS-es'
 tags: [ 'zapatos', ]
 actualPrice: 32.95 EUR
 currency: EUR

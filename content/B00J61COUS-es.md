@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J61COUS-es Columbia Woodburn II Zapatilla Multideporte para Hombre...'
+sku: 'B00J61COUS-es'
 tags: [ 'zapatilla', ]
 actualPrice: 39.44 EUR
 currency: EUR

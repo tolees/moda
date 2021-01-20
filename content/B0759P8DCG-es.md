@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759P8DCG-es Angkorly - Zapatillas de Moda Deportivos Tennis Slip-on...'
+sku: 'B0759P8DCG-es'
 tags: [ 'moda', ]
 actualPrice: 19.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6GF3QY-es HonourSport Falda Capri para Mujer Deportes faldones...'
+sku: 'B07R6GF3QY-es'
 tags: [ 'falda', ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQZTYZY-es Fila 4516_21189 Talla XXL 2 Boxer Verde-95% algodón 5%...'
+sku: 'B07RQZTYZY-es'
 tags: [ 'boxer', ]
 actualPrice: 13.9 EUR
 currency: EUR

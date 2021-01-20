@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJRX5HC-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva Negro Black...'
+sku: 'B07RJRX5HC-es'
 tags: [ 'chaqueta', ]
 actualPrice: 69.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFYRDXR-es G-STAR RAW Graphic 13 Sudadera Azul Sartho Blue 6067 XX-...'
+sku: 'B07RFYRDXR-es'
 tags: [ 'sudadera', ]
 actualPrice: 39.97 EUR
 currency: EUR

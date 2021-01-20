@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCX4LHF-es Mujer Camisones Conjunto de Pijama de Encaje Sexy Elegante...'
+sku: 'B07XCX4LHF-es'
 tags: [ 'pijama', ]
 actualPrice: 33.49 EUR
 currency: EUR

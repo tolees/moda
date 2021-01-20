@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTZDYC-es Geox D Sandal Hiver A Sandalias con Punta Abierta para...'
+sku: 'B07SWTZDYC-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 39.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079BPZ56N-es Jack & Jones Jjebasic Polo SS Noos - Camiseta para Hombre...'
+sku: 'B079BPZ56N-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.0 EUR
 currency: EUR

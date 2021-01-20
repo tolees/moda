@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0030ZSZXG-es adidas Duramo Slide Chanclas Unisex Azul New...'
+sku: 'B0030ZSZXG-es'
 tags: [ 'chanclas', ]
 actualPrice: 11.97 EUR
 currency: EUR

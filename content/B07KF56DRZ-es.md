@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF56DRZ-es Levi s 511 Slim Fit Vaqueros Durian Od Subtle 3720 32W /...'
+sku: 'B07KF56DRZ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 49.5 EUR
 currency: EUR

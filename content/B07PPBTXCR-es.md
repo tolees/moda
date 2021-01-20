@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPBTXCR-es 6 PCS Moño Pelo Accesorios Moda Natural Francesa Twists...'
+sku: 'B07PPBTXCR-es'
 tags: [ 'moda', ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5P4YF9-es Mary White AF.INF.PCOGT Conjuntos de Pijama Beige...'
+sku: 'B07W5P4YF9-es'
 tags: [ 'pijama', ]
 actualPrice: 6.05 EUR
 currency: EUR

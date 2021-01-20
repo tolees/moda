@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G1HHZ3D-es Ocobudbxw Moda Mujer Lona Crossbody Messenger Cremallera...'
+sku: 'B08G1HHZ3D-es'
 tags: [ 'moda', ]
 actualPrice: 11.3 EUR
 currency: EUR

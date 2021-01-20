@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SQNPRP-es Leabags Cambridge - Bolso bandolera piel de búfalo diseño...'
+sku: 'B083SQNPRP-es'
 tags: [ 'bolso', ]
 actualPrice: 94.98 EUR
 currency: EUR

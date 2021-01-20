@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9J61RW-es Under Armour Rival Fleece Sportstyle Pantalón Mujer Negro...'
+sku: 'B07L9J61RW-es'
 tags: [ 'pantalón', ]
 actualPrice: 28.99 EUR
 currency: EUR

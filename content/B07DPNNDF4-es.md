@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DPNNDF4-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Negro...'
+sku: 'B07DPNNDF4-es'
 tags: [ 'zapatos', ]
 actualPrice: 40.49 EUR
 currency: EUR

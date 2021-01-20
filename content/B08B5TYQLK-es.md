@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5TYQLK-es Nuevo teléfono Celular con Clip Trasero de Estilo de Moda...'
+sku: 'B08B5TYQLK-es'
 tags: [ 'moda', ]
 actualPrice: 6.69 EUR
 currency: EUR

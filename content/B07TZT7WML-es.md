@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZT7WML-es Wrangler ICONS Vaqueros Slim Azul 3 Years 10k W40/L34...'
+sku: 'B07TZT7WML-es'
 tags: [ 'vaqueros', ]
 actualPrice: 47.45 EUR
 currency: EUR

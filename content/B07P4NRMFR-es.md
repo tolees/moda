@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4NRMFR-es Art Harlem Botines para Mujer Marrón Cuero Cuero 40 EU'
+sku: 'B07P4NRMFR-es'
 tags: [ 'botines', ]
 actualPrice: 67.89 EUR
 currency: EUR

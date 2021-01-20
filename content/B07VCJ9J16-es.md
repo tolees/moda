@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCJ9J16-es Esprit 099ee2f007 Camisa Blanco Off White 110 X-Large para...'
+sku: 'B07VCJ9J16-es'
 tags: [ 'camisa', ]
 actualPrice: 8.72 EUR
 currency: EUR

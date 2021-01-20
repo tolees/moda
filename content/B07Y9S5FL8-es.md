@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9S5FL8-es edc by Esprit 129cc2g003 Chaqueta Beige Beige 270 Small...'
+sku: 'B07Y9S5FL8-es'
 tags: [ 'chaqueta', ]
 actualPrice: 94.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP47FS4-es Tommy Hilfiger New TH ESS Hilfiger C-nk tee SS Camiseta...'
+sku: 'B07RP47FS4-es'
 tags: [ 'camiseta', ]
 actualPrice: 27.79 EUR
 currency: EUR

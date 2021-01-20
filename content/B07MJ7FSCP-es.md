@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ7FSCP-es Clarks - Botines de Cuero Hombre color Taupe Suede talla...'
+sku: 'B07MJ7FSCP-es'
 tags: [ 'botines', ]
 actualPrice: 45.31 EUR
 currency: EUR

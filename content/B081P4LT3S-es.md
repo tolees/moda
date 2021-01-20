@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081P4LT3S-es NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaqueta de Deporte...'
+sku: 'B081P4LT3S-es'
 tags: [ 'chaqueta', ]
 actualPrice: 28.3 EUR
 currency: EUR

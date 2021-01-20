@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBZZ2RP-es JACK & JONES JCOSEAD Sweat Crew Neck FST Sudadera Gris...'
+sku: 'B07WBZZ2RP-es'
 tags: [ 'sudadera', ]
 actualPrice: 15.0 EUR
 currency: EUR

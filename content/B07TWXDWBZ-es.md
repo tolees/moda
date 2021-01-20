@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXDWBZ-es Women s Secret Bloom Feminine BF Blossom PJ FR Conjuntos...'
+sku: 'B07TWXDWBZ-es'
 tags: [ 'pijama', ]
 actualPrice: 13.24 EUR
 currency: EUR

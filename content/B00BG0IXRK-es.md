@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BG0IXRK-es Nike Benassi JDI Chanclas Unisex Adulto Azul Midnight...'
+sku: 'B00BG0IXRK-es'
 tags: [ 'chanclas', ]
 actualPrice: 10.01 EUR
 currency: EUR

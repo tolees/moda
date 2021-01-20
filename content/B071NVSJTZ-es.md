@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NVSJTZ-es Izas Nasser Chaqueta Fibra Hombre Agua Maria / Lima 2XL'
+sku: 'B071NVSJTZ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 24.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C51X7NH-es Mini Mango clásico de Cuerda con Inserto de Lona Bolsa...'
+sku: 'B08C51X7NH-es'
 tags: [ 'bolso', ]
 actualPrice: 6.8 EUR
 currency: EUR

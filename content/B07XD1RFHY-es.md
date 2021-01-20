@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD1RFHY-es WOLFIRE SC Camiseta de Baloncesto para Hombre NBA Los...'
+sku: 'B07XD1RFHY-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRHHZX4-es Art 0998 Memphis Sandalias con Correa de Tobillo para...'
+sku: 'B07KRHHZX4-es'
 tags: [ 'sandalias', ]
 actualPrice: 22.15 EUR
 currency: EUR

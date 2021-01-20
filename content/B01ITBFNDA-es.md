@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ITBFNDA-es SHINU Clasico Marco Redondo Espejo Gafas de sol de moda...'
+sku: 'B01ITBFNDA-es'
 tags: [ 'gafas','moda', ]
 actualPrice: 4.99 EUR
 currency: EUR

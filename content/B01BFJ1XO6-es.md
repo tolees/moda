@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BFJ1XO6-es Charles Wilson Camiseta Polo con Solapa de Contraste...'
+sku: 'B01BFJ1XO6-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR

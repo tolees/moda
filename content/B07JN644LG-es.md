@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN644LG-es Timberland Davis Square Leather Oxford Zapatillas Unisex-...'
+sku: 'B07JN644LG-es'
 tags: [ 'timberland', ]
 actualPrice: 27.99 EUR
 currency: EUR

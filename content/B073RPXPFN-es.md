@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPXPFN-es Helly Hansen HH Logo Camiseta Manga Corta Hombre White 4XL'
+sku: 'B073RPXPFN-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.49 EUR
 currency: EUR

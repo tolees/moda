@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFN4W95-es Jack & Jones JORWONTON Sweat Hood Sudadera con Capucha...'
+sku: 'B07WFN4W95-es'
 tags: [ 'sudadera', ]
 actualPrice: 7.74 EUR
 currency: EUR

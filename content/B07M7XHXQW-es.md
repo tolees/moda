@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7XHXQW-es G-STAR RAW 3301 Slim Vaqueros Light Indigo Aged 8968-8436...'
+sku: 'B07M7XHXQW-es'
 tags: [ 'vaqueros', ]
 actualPrice: 13.83 EUR
 currency: EUR

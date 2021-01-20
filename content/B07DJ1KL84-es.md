@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ1KL84-es Quiksilver Molokai Zapatos de Playa y Piscina para Hombre...'
+sku: 'B07DJ1KL84-es'
 tags: [ 'zapatos', ]
 actualPrice: 13.81 EUR
 currency: EUR

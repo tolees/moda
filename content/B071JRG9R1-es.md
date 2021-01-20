@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JRG9R1-es Clarks Batcombe Wing Zapatos de Cordones Derby Negro Black...'
+sku: 'B071JRG9R1-es'
 tags: [ 'zapatos', ]
 actualPrice: 42.67 EUR
 currency: EUR

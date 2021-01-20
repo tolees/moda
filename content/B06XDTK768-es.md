@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDTK768-es Lacoste TH6709 Camiseta para Hombre Blanco Blanc 3XL Talla...'
+sku: 'B06XDTK768-es'
 tags: [ 'camiseta', ]
 actualPrice: 30.49 EUR
 currency: EUR

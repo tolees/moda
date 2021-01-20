@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076TVLK7R-es Fruit of the Loom Mens Original 5 Pack T-Shirt Camiseta...'
+sku: 'B076TVLK7R-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7B52PW-es Guantes para la artritis Brace Master One guantes de...'
+sku: 'B07C7B52PW-es'
 tags: [ 'guantes', ]
 actualPrice: 14.99 EUR
 currency: EUR

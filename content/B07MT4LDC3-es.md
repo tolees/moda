@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MT4LDC3-es gracosy Sandalias Cuero Planas Verano Mujer Estilo Bohemia...'
+sku: 'B07MT4LDC3-es'
 tags: [ 'chanclas','sandalias','zapatos', ]
 actualPrice: 39.99 EUR
 currency: EUR

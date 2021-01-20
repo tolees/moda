@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHHHBLC-es Kipling Sara Bolso con Bandolera para Mujer Verde Seagrass...'
+sku: 'B07NHHHBLC-es'
 tags: [ 'bolso', ]
 actualPrice: 21.45 EUR
 currency: EUR

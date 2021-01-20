@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6YGRMZ-es Tuc Tuc Camiseta Punto NIÑA ROJA Chalk Painting'
+sku: 'B07N6YGRMZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.48 EUR
 currency: EUR

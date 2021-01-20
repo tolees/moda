@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002CT42SI-es adidas Originals Adilette Zapatos de Playa y Piscina...'
+sku: 'B002CT42SI-es'
 tags: [ 'zapatos', ]
 actualPrice: 12.0 EUR
 currency: EUR

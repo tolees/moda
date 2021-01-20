@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZP5MPC1-es Alvivi Bolero Fiesta Bebé Niñas para Boda Abrigo Manga...'
+sku: 'B07ZP5MPC1-es'
 tags: [ 'abrigo','vestido', ]
 actualPrice: 5.49 EUR
 currency: EUR

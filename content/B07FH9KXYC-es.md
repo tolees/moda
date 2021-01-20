@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH9KXYC-es Timberland Malibu Waves Sandalias para Mujer Verde Olive...'
+sku: 'B07FH9KXYC-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 41.49 EUR
 currency: EUR

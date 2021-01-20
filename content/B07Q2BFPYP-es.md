@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2BFPYP-es Vicloon Barras Luminosas Pulseras Luminosas con Variedad...'
+sku: 'B07Q2BFPYP-es'
 tags: [ 'gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDXL9W6-es Lego Movie Camiseta de Manga Larga para niños La Lego...'
+sku: 'B07PDXL9W6-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.95 EUR
 currency: EUR

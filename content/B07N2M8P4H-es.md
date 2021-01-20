@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2M8P4H-es LEMEGO Bolsa Bicicleta Manillar para Ciclista Ciclismo...'
+sku: 'B07N2M8P4H-es'
 tags: [ 'bolso', ]
 actualPrice: 13.99 EUR
 currency: EUR

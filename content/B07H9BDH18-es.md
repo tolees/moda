@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9BDH18-es Charles Wilson Camisa Manga Larga Popelina Lisa para...'
+sku: 'B07H9BDH18-es'
 tags: [ 'camisa', ]
 actualPrice: 18.95 EUR
 currency: EUR

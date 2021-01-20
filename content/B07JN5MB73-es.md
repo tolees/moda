@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN5MB73-es Timberland Nellie Double Waterproof Zapatillas Chukka para...'
+sku: 'B07JN5MB73-es'
 tags: [ 'timberland', ]
 actualPrice: 39.27 EUR
 currency: EUR

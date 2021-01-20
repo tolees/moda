@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007CHFQOE-es Helly Hansen W Seven J Chaqueta Mujer White S'
+sku: 'B007CHFQOE-es'
 tags: [ 'chaqueta', ]
 actualPrice: 63.5 EUR
 currency: EUR

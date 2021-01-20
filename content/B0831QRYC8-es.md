@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831QRYC8-es Canadian Peak Chaqueta Mujer BAMBOLINA Negro 02'
+sku: 'B0831QRYC8-es'
 tags: [ 'chaqueta', ]
 actualPrice: 69.3 EUR
 currency: EUR

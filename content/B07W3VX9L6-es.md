@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W3VX9L6-es JACK & JONES JORSHAREE Puffer Jacket Chaqueta Azul Forest...'
+sku: 'B07W3VX9L6-es'
 tags: [ 'chaqueta', ]
 actualPrice: 45.48 EUR
 currency: EUR

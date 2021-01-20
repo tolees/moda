@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNVR1G-es G-STAR RAW Vodan Quilted Chaqueta Bomber Gris Asfalt 995...'
+sku: 'B07NDNVR1G-es'
 tags: [ 'chaqueta', ]
 actualPrice: 89.97 EUR
 currency: EUR

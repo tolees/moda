@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GLWLNQ-es Ermenegildo Zegna Brillengestelle EZ5038 Monturas de gafas...'
+sku: 'B015GLWLNQ-es'
 tags: [ 'gafas', ]
 actualPrice: 27.84 EUR
 currency: EUR

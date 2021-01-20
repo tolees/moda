@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVCCVP-es Quiksilver Molokai-Flip-Flops For Men Zapatos de Playa y...'
+sku: 'B078WVCCVP-es'
 tags: [ 'zapatos', ]
 actualPrice: 14.4 EUR
 currency: EUR

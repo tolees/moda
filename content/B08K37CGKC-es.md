@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K37CGKC-es Bluelucon lenceria mujer 1pc El PañO De AlgodóN Estampado...'
+sku: 'B08K37CGKC-es'
 tags: [ 'moda', ]
 actualPrice: 2.29 EUR
 currency: EUR

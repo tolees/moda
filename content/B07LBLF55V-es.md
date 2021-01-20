@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBLF55V-es Tommy Hilfiger Seasonal SB Trench Abrigo Morado Lilac Snow...'
+sku: 'B07LBLF55V-es'
 tags: [ 'abrigo', ]
 actualPrice: 195.3 EUR
 currency: EUR

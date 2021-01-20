@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNN47J6-es Joma Torneo II Falda Mujer Marino M'
+sku: 'B06XNN47J6-es'
 tags: [ 'falda', ]
 actualPrice: 17.99 EUR
 currency: EUR

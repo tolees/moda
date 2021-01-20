@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQM7FJQ-es Clarks Oakland Lace Zapatos de Cordones Derby para Hombre...'
+sku: 'B07FQM7FJQ-es'
 tags: [ 'zapatos', ]
 actualPrice: 55.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMB8DVL-es Juguetes para Niños de 8-12 Años Dreamingbox Guantes...'
+sku: 'B07KMB8DVL-es'
 tags: [ 'guantes', ]
 actualPrice: 11.99 EUR
 currency: EUR

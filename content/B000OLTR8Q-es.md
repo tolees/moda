@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OLTR8Q-es Converse AS HI CAN OPTIC. WHT M7650 - Botines de lona...'
+sku: 'B000OLTR8Q-es'
 tags: [ 'botines', ]
 actualPrice: 54.95 EUR
 currency: EUR

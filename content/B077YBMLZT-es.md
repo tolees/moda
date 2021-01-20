@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YBMLZT-es HIKARO Camiseta Manga Corta Hombre Azul Navy 48 Talla del...'
+sku: 'B077YBMLZT-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.25 EUR
 currency: EUR

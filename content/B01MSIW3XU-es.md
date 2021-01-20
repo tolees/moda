@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSIW3XU-es Tous Efim Brunock Chain Bolso de Mano para Mujer Negro...'
+sku: 'B01MSIW3XU-es'
 tags: [ 'bolso', ]
 actualPrice: 76.5 EUR
 currency: EUR

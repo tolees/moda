@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793RJQQD-es WILDKEN Chaqueta de Protección para Motocross Motos Ropa...'
+sku: 'B0793RJQQD-es'
 tags: [ 'chaqueta', ]
 actualPrice: 41.99 EUR
 currency: EUR

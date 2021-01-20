@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZTZ4KM-es Zapatos de Seguridad Hombres LM-121 Zapatillas de Trabajo...'
+sku: 'B07QZTZ4KM-es'
 tags: [ 'zapatos', ]
 actualPrice: 41.99 EUR
 currency: EUR

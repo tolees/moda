@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3TYLQL-es Desigual Dress HILIER Vestido Verde Verde Jack 4074 46...'
+sku: 'B07N3TYLQL-es'
 tags: [ 'vestido', ]
 actualPrice: 58.45 EUR
 currency: EUR

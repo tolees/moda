@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ7YJN1-es Lacoste Th3377 Camiseta Blanc/Noir Au8 X-Small Talla del...'
+sku: 'B07JJ7YJN1-es'
 tags: [ 'camiseta', ]
 actualPrice: 31.33 EUR
 currency: EUR

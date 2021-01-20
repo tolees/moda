@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZQ3YQB-es Levi s The Perfect Tee Camiseta Mujer Blanco New Red Box...'
+sku: 'B07CZQ3YQB-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

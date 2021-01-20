@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VT2D3PZ-es Hawiton Camison Sexy Mujer Corto Camison de Dormir Satín...'
+sku: 'B07VT2D3PZ-es'
 tags: [ 'vestido', ]
 actualPrice: 12.99 EUR
 currency: EUR

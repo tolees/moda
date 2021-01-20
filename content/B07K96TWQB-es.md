@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K96TWQB-es Crocs Crocband Zuecos Unisex Adulto Rosa Pink...'
+sku: 'B07K96TWQB-es'
 tags: [ 'zuecos', ]
 actualPrice: 27.99 EUR
 currency: EUR

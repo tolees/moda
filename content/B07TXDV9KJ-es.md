@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXDV9KJ-es Levi s Orig Hm Vneck Camiseta Negro Mineral Black 0001...'
+sku: 'B07TXDV9KJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR

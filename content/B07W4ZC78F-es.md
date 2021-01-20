@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4ZC78F-es Zapatillas para Mujer Altas Aire Libre y Deporte...'
+sku: 'B07W4ZC78F-es'
 tags: [ 'zapatos', ]
 actualPrice: 29.99 EUR
 currency: EUR

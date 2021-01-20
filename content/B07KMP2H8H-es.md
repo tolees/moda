@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMP2H8H-es find. Leather Round Toe Block Heel Court Zapatos de Tacón...'
+sku: 'B07KMP2H8H-es'
 tags: [ 'zapatos', ]
 actualPrice: 16.62 EUR
 currency: EUR

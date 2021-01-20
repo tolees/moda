@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9KWS5X-es Winline Gafas de Natación Profesional Anti Niebla...'
+sku: 'B07T9KWS5X-es'
 tags: [ 'gafas', ]
 actualPrice: 18.99 EUR
 currency: EUR

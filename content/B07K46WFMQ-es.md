@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K46WFMQ-es WISHDOIT Hombre Moda Clásico Negro Ultra-Delgado Acero...'
+sku: 'B07K46WFMQ-es'
 tags: [ 'moda', ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKNDMCX-es Trangoworld Argualas Chaqueta Hombre Azul Profundo S'
+sku: 'B07FKNDMCX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 99.49 EUR
 currency: EUR

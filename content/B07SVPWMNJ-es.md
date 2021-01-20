@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPWMNJ-es Geox D Tabelya A Zapatillas para Mujer Negro Black/Gun...'
+sku: 'B07SVPWMNJ-es'
 tags: [ 'geox', ]
 actualPrice: 48.36 EUR
 currency: EUR

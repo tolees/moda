@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VLNXIQS-es Levi s L/S Barstow Western Shirt Camisa Casual de Manga...'
+sku: 'B00VLNXIQS-es'
 tags: [ 'camisa', ]
 actualPrice: 33.11 EUR
 currency: EUR

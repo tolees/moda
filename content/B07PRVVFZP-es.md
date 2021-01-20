@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRVVFZP-es MLMLANT Guantes de Barbacoa Resistentes Al Calor Extremo...'
+sku: 'B07PRVVFZP-es'
 tags: [ 'guantes', ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFN2BN7-es Tommy Hilfiger Tommy Logo tee Camiseta Gris Cloud Htr 501...'
+sku: 'B07HFN2BN7-es'
 tags: [ 'camiseta', ]
 actualPrice: 27.73 EUR
 currency: EUR

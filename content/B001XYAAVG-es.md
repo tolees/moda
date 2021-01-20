@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001XYAAVG-es Craft Cool Mesh Camiseta Interior para Hombre Hombre Black L'
+sku: 'B001XYAAVG-es'
 tags: [ 'camiseta', ]
 actualPrice: 27.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XPJJ7L-es Under Armour Sportstyle Left Chest Camiseta Hombre Blanco LG'
+sku: 'B077XPJJ7L-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR

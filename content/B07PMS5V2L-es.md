@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMS5V2L-es BOSS Maine BC-p Vaqueros Straight Azul Navy 410 33W / 36L...'
+sku: 'B07PMS5V2L-es'
 tags: [ 'vaqueros', ]
 actualPrice: 63.21 EUR
 currency: EUR

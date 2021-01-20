@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5FBV5C-es Deevike Pantuflas Zapatillas Hombre Invierno CáLido...'
+sku: 'B07Y5FBV5C-es'
 tags: [ 'zapatos', ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGYWND3-es El Naturalista N5311 Iris Coral Botines para Mujer Negro...'
+sku: 'B07NGYWND3-es'
 tags: [ 'botines', ]
 actualPrice: 74.95 EUR
 currency: EUR

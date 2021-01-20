@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPPV1YP-es Levi s Relaxed Graphic tee Camiseta Blanco 90 s Serif Logo...'
+sku: 'B07TPPV1YP-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR

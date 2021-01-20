@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVDCT8H-es Charles Wilson Originals Sudadera con Capucha X-Small...'
+sku: 'B07WVDCT8H-es'
 tags: [ 'sudadera', ]
 actualPrice: 21.95 EUR
 currency: EUR

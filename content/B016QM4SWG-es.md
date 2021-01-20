@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QM4SWG-es Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa Negro...'
+sku: 'B016QM4SWG-es'
 tags: [ 'camisa', ]
 actualPrice: 51.1 EUR
 currency: EUR

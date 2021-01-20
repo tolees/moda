@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFJVLRJ-es LIGE Relojes para Hombre Deportivo Impermeable Cuarzo...'
+sku: 'B07VFJVLRJ-es'
 tags: [ 'moda', ]
 actualPrice: 32.99 EUR
 currency: EUR

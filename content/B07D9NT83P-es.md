@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9NT83P-es Calvin Klein Sonnenbrille Ck18502S 1 Gafas de sol Negro...'
+sku: 'B07D9NT83P-es'
 tags: [ 'gafas', ]
 actualPrice: 32.84 EUR
 currency: EUR

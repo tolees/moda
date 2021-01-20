@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHL2GL2-es ECCO X-TRINSICM Sandalias con Punta Abierta para Hombre...'
+sku: 'B07VHL2GL2-es'
 tags: [ 'sandalias', ]
 actualPrice: 47.95 EUR
 currency: EUR

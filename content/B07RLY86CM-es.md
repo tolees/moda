@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLY86CM-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva Verde Green...'
+sku: 'B07RLY86CM-es'
 tags: [ 'chaqueta', ]
 actualPrice: 56.52 EUR
 currency: EUR

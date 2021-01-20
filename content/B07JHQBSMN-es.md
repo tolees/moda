@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHQBSMN-es Amazon Essentials - Camisa de lino a rayas de manga corta...'
+sku: 'B07JHQBSMN-es'
 tags: [ 'camisa', ]
 actualPrice: 3.74 EUR
 currency: EUR

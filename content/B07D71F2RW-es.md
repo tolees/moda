@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D71F2RW-es Levi s Type 3 Sherpa Trucker Chaqueta Beige True Chino...'
+sku: 'B07D71F2RW-es'
 tags: [ 'chaqueta', ]
 actualPrice: 82.78 EUR
 currency: EUR

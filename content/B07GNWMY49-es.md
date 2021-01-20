@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNWMY49-es Skechers On-The-Go 600-Flawless - Sandalias para Mujer...'
+sku: 'B07GNWMY49-es'
 tags: [ 'sandalias', ]
 actualPrice: 35.0 EUR
 currency: EUR

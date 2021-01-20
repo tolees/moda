@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087P97JSG-es Suhctup Funda Compatible con Samsung Galaxy Note 9...'
+sku: 'B087P97JSG-es'
 tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR

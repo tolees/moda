@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMZPL4T-es Nike M NSW tee Icon Futura Camiseta Hombre Midnight...'
+sku: 'B07HMZPL4T-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.65 EUR
 currency: EUR

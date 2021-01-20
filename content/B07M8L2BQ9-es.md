@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L2BQ9-es Lee Rider Jeans Vaqueros Mid Tinted 36W / 36L para Hombre'
+sku: 'B07M8L2BQ9-es'
 tags: [ 'vaqueros', ]
 actualPrice: 26.7 EUR
 currency: EUR

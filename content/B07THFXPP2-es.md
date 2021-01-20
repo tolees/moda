@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THFXPP2-es Lacoste Sport Th4865 Camiseta Azul Cosmique/Blanc Emj...'
+sku: 'B07THFXPP2-es'
 tags: [ 'camiseta', ]
 actualPrice: 34.95 EUR
 currency: EUR

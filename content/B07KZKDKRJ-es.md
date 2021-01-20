@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZKDKRJ-es Ever-Pretty A-línea Vestido de Fiesta Gasa Cuello en V sin...'
+sku: 'B07KZKDKRJ-es'
 tags: [ 'vestido', ]
 actualPrice: 51.99 EUR
 currency: EUR

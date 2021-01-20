@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCTCFSS-es Sundried para Mujer Cuello en V Aptitud Camiseta de...'
+sku: 'B07VCTCFSS-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.0 EUR
 currency: EUR

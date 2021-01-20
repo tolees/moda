@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001V83AZC-es crocs Baya Zuecos Unisex Adulto Negro Black 42/43 EU'
+sku: 'B001V83AZC-es'
 tags: [ 'zuecos', ]
 actualPrice: 23.95 EUR
 currency: EUR

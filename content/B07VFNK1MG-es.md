@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFNK1MG-es SELECTED HOMME Slhcolor Block Jacket W Chaqueta Turtle...'
+sku: 'B07VFNK1MG-es'
 tags: [ 'chaqueta', ]
 actualPrice: 17.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWPWP5K-es Bolsa de Deporte Hombre Bolsas Gimnasio Mujer de Grande...'
+sku: 'B07KWPWP5K-es'
 tags: [ 'zapatos', ]
 actualPrice: 29.86 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYPWYL-es Clarks Un Bali Trek Sandalias de Talón Abierto para Mujer...'
+sku: 'B07TPYPWYL-es'
 tags: [ 'sandalias', ]
 actualPrice: 43.86 EUR
 currency: EUR

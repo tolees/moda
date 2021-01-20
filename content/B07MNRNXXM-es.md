@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNRNXXM-es Lee Ivy Vaqueros Negro Black Rinse 47 28W / 33L para Mujer'
+sku: 'B07MNRNXXM-es'
 tags: [ 'vaqueros', ]
 actualPrice: 55.49 EUR
 currency: EUR

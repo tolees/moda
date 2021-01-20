@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QNCBBN-es find. Chaqueta Efecto Borreguito para Mujer Marrón Braun...'
+sku: 'B073QNCBBN-es'
 tags: [ 'chaqueta', ]
 actualPrice: 21 EUR
 currency: EUR

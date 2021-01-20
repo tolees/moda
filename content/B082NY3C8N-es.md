@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NY3C8N-es Oihxse Transparente Silicona Case Compatible con Huawei Y9...'
+sku: 'B082NY3C8N-es'
 tags: [ 'moda', ]
 actualPrice: 7.98 EUR
 currency: EUR

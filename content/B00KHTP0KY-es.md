@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHTP0KY-es Under Armour UA Heatgear Armour Sleeveless Camiseta Sin...'
+sku: 'B00KHTP0KY-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNRHGZ7-es Marca Amazon - find. High Heel Point Court Zapatos de...'
+sku: 'B07YNRHGZ7-es'
 tags: [ 'zapatos','-','find.', ]
 actualPrice: 4.52 EUR
 currency: EUR

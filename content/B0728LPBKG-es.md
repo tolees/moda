@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0728LPBKG-es WuiWuiyu - Zapatilla Baja de Material Sintético para Chico'
+sku: 'B0728LPBKG-es'
 tags: [ 'zapatilla', ]
 actualPrice: 18.51 EUR
 currency: EUR

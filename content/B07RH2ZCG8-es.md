@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH2ZCG8-es G-STAR RAW D-STAQ 3D Slim Vaqueros Negro Pitch Black...'
+sku: 'B07RH2ZCG8-es'
 tags: [ 'vaqueros', ]
 actualPrice: 58.72 EUR
 currency: EUR

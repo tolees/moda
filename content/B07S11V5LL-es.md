@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S11V5LL-es Only Frsfalcon Zip Hood Sweat-Unit Sudadera con Capucha de...'
+sku: 'B07S11V5LL-es'
 tags: [ 'sudadera', ]
 actualPrice: 9.74 EUR
 currency: EUR

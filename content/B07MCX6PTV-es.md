@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCX6PTV-es Hot One Cambios De Color Monederos y Bolsos Luminosos...'
+sku: 'B07MCX6PTV-es'
 tags: [ 'bolso','moda','monedero', ]
 actualPrice: 23.91 EUR
 currency: EUR

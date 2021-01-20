@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H29B3ZL-es ZAFUL Suéter Mujer de Cuello Alto Sueter Básico Corto...'
+sku: 'B07H29B3ZL-es'
 tags: [ 'jersey', ]
 actualPrice: 27.49 EUR
 currency: EUR

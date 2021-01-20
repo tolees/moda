@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007AFZX14-es Crocs Crocband Sandal Kids Sandalias Unisex Niños Azul...'
+sku: 'B007AFZX14-es'
 tags: [ 'sandalias', ]
 actualPrice: 23.32 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KZIPB3S-es SOLS - Camiseta básica de Manga Corta Modelo Regent Unisex...'
+sku: 'B00KZIPB3S-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.45 EUR
 currency: EUR

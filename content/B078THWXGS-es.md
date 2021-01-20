@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078THWXGS-es Puma Liga CR H Camiseta de Manga Corta Hombre Morado Prism...'
+sku: 'B078THWXGS-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.66 EUR
 currency: EUR

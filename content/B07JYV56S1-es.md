@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYV56S1-es Tommy Hilfiger Gramercy Tapered HW Vaqueros Straight Azul...'
+sku: 'B07JYV56S1-es'
 tags: [ 'vaqueros', ]
 actualPrice: 24.05 EUR
 currency: EUR

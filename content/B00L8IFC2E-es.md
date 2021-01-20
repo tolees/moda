@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L8IFC2E-es The North Face Evolution II Triclimate Chaqueta Hombre...'
+sku: 'B00L8IFC2E-es'
 tags: [ 'chaqueta', ]
 actualPrice: 136.99 EUR
 currency: EUR

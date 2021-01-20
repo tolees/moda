@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRN7S4-es Geox U Adrien A Zapatos de Cordones Derby para Hombre...'
+sku: 'B07LFRN7S4-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 33.62 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRKM4V7-es United Colors of Benetton Basic Bb2 Camiseta de Tirantes...'
+sku: 'B07MRKM4V7-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.79 EUR
 currency: EUR

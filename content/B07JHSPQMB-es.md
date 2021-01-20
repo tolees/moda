@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHSPQMB-es G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros Medium...'
+sku: 'B07JHSPQMB-es'
 tags: [ 'vaqueros', ]
 actualPrice: 41.32 EUR
 currency: EUR

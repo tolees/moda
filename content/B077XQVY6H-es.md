@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XQVY6H-es Under Armour Rival Fleece Crew Sudadera Hombre Azul XL'
+sku: 'B077XQVY6H-es'
 tags: [ 'sudadera', ]
 actualPrice: 18.82 EUR
 currency: EUR

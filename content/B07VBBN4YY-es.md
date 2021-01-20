@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBBN4YY-es HUGO Ernie Camisa Azul Navy 413 Small Talla del...'
+sku: 'B07VBBN4YY-es'
 tags: [ 'camisa', ]
 actualPrice: 46.46 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004YA4UDU-es Nike M NSW He WR Jkt HD Chaqueta de Deporte Hombre...'
+sku: 'B004YA4UDU-es'
 tags: [ 'chaqueta', ]
 actualPrice: 63.94 EUR
 currency: EUR

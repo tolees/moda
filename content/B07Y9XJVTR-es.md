@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9XJVTR-es Castellanisimos Zapatos Náuticos de Piel Marron Hombre con...'
+sku: 'B07Y9XJVTR-es'
 tags: [ 'zapatos', ]
 actualPrice: 64.0 EUR
 currency: EUR

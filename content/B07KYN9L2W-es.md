@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYN9L2W-es Springfield 8.Gym.GRAF Bella Crochet Camiseta Hielo 94...'
+sku: 'B07KYN9L2W-es'
 tags: [ 'camiseta', ]
 actualPrice: 4.35 EUR
 currency: EUR

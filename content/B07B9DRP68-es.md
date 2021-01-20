@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9DRP68-es Tous Kaos Mini - Monedero para Mujer Beige 13 x 11 x 2 cm'
+sku: 'B07B9DRP68-es'
 tags: [ 'monedero', ]
 actualPrice: 32.5 EUR
 currency: EUR

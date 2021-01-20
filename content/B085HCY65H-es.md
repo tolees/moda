@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HCY65H-es Donpapa Bragas para Mujer Pack sin Costuras Invisible...'
+sku: 'B085HCY65H-es'
 tags: [ 'bikini', ]
 actualPrice: 21.99 EUR
 currency: EUR

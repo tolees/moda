@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8XV8L-es Crocs Specialist II Vent Clog Zuecos Unisex Adulto Azul...'
+sku: 'B07CN8XV8L-es'
 tags: [ 'zuecos', ]
 actualPrice: 24.8 EUR
 currency: EUR

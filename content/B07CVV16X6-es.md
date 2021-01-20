@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVV16X6-es Foino Bolso Bandolera Mujer Moda Bolsa Diseño Bolsas de...'
+sku: 'B07CVV16X6-es'
 tags: [ 'bolso','moda', ]
 actualPrice: 18.99 EUR
 currency: EUR

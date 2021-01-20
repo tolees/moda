@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M72AS4O-es Lacoste TH6709 Camiseta Rojo Rouge XX-Large Talla del...'
+sku: 'B01M72AS4O-es'
 tags: [ 'camiseta', ]
 actualPrice: 41.95 EUR
 currency: EUR

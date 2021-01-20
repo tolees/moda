@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCKBQ7L-es Slimerence Guantes médicos desechables de nitrilo sin...'
+sku: 'B07YCKBQ7L-es'
 tags: [ 'guantes', ]
 actualPrice: 12.99 EUR
 currency: EUR

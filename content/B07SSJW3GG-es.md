@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJW3GG-es Geox U EOLO B Zapatillas para Hombre Gris White/Lt Grey...'
+sku: 'B07SSJW3GG-es'
 tags: [ 'geox', ]
 actualPrice: 40.62 EUR
 currency: EUR

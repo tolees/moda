@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZV6RZB-es Columbia CALDORADO III Zapatilla de Trail Running para...'
+sku: 'B07RZV6RZB-es'
 tags: [ 'zapatilla', ]
 actualPrice: 58.1 EUR
 currency: EUR

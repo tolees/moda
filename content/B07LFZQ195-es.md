@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZQ195-es Geox D Sukie C Zapatillas para Mujer Negro Black C9999 37 EU'
+sku: 'B07LFZQ195-es'
 tags: [ 'geox', ]
 actualPrice: 47.39 EUR
 currency: EUR

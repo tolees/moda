@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9BQ63H-es Superdry Utility Field Edition L/s Shirt Camisa Verde Army...'
+sku: 'B07Q9BQ63H-es'
 tags: [ 'camisa', ]
 actualPrice: 13.06 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6T6FXG-es Tommy Hilfiger Corp Hilfiger tee Camiseta Deporte Naranja...'
+sku: 'B07W6T6FXG-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR

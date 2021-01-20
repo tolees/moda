@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG2HDMD-es Geox D Hiver D Zapatillas sin Cordones para Mujer Azul DK...'
+sku: 'B07LG2HDMD-es'
 tags: [ 'geox', ]
 actualPrice: 31.46 EUR
 currency: EUR

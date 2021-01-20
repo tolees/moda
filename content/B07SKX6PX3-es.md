@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKX6PX3-es Levi s Graphic Diana Crew Sudadera Amarillo 90 s Serif...'
+sku: 'B07SKX6PX3-es'
 tags: [ 'sudadera', ]
 actualPrice: 20.7 EUR
 currency: EUR

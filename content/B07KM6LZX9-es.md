@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KM6LZX9-es Juego de Chaleco Táctico con Balas de Dardos de Espuma...'
+sku: 'B07KM6LZX9-es'
 tags: [ 'chaleco','gafas', ]
 actualPrice: 17.69 EUR
 currency: EUR

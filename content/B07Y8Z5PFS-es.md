@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8Z5PFS-es XTI 86290.0 Bolso bandolera para Mujer Negro Negro 22x22x7...'
+sku: 'B07Y8Z5PFS-es'
 tags: [ 'bolso', ]
 actualPrice: 14.34 EUR
 currency: EUR

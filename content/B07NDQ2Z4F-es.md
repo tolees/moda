@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDQ2Z4F-es G-STAR RAW Whistler Slim Down Hooded Long Abrigo Gris...'
+sku: 'B07NDQ2Z4F-es'
 tags: [ 'abrigo', ]
 actualPrice: 135.52 EUR
 currency: EUR

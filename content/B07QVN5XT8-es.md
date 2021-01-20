@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVN5XT8-es Under Armour Vanish Seamless Nov 1 Camisa de Manga Larga...'
+sku: 'B07QVN5XT8-es'
 tags: [ 'camisa', ]
 actualPrice: 12.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779WKCYN-es Marca Amazon - AURIQUE Sujetador Deportivo Bajo Impacto...'
+sku: 'B0779WKCYN-es'
 tags: [ 'aurique', ]
 actualPrice: 8.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078TNW3B9-es PUMA Liga Jersey Camiseta Hombre Negro Black/White XL'
+sku: 'B078TNW3B9-es'
 tags: [ 'camiseta','jersey', ]
 actualPrice: 9.75 EUR
 currency: EUR

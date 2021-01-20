@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXSZCGQ-es Geox J ALBEN Boy C Zapatillas para Niños Azul Navy/Red...'
+sku: 'B07SXSZCGQ-es'
 tags: [ 'geox', ]
 actualPrice: 34.93 EUR
 currency: EUR

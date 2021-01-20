@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJBMB69-es Marca Amazon - find. Cinturón Doble Cierre para Hombre...'
+sku: 'B07MJBMB69-es'
 tags: [ '-','find.', ]
 actualPrice: 4.57 EUR
 currency: EUR

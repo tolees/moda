@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQPXKSH-es Teva Terra Fi Lite Sandalias de Punta Descubierta para...'
+sku: 'B07VQPXKSH-es'
 tags: [ 'sandalias', ]
 actualPrice: 43.28 EUR
 currency: EUR

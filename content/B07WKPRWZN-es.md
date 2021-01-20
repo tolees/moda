@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKPRWZN-es Pepe Jeans Braguita de Bikini Multicolor Multi 0aa 40C...'
+sku: 'B07WKPRWZN-es'
 tags: [ 'bikini', ]
 actualPrice: 10.8 EUR
 currency: EUR

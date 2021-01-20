@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WJGZ2NS-es Burberry 0BE4203 336973 57 Gafas de sol Marrón Gradient...'
+sku: 'B00WJGZ2NS-es'
 tags: [ 'gafas', ]
 actualPrice: 68.7 EUR
 currency: EUR

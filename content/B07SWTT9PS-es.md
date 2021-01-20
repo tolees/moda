@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTT9PS-es Geox U EOLO B Zapatillas para Hombre Azul Navy C4002 42 EU'
+sku: 'B07SWTT9PS-es'
 tags: [ 'geox', ]
 actualPrice: 90.02 EUR
 currency: EUR

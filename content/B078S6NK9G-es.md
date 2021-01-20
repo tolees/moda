@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078S6NK9G-es find. Trucker Denim Chaqueta Rosa Pink 48 Talla del...'
+sku: 'B078S6NK9G-es'
 tags: [ 'chaqueta', ]
 actualPrice: 15 EUR
 currency: EUR

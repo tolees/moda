@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777SFVCB-es Dim Mix and Colors Boxer X2 Negro Negro CT Jaune...'
+sku: 'B0777SFVCB-es'
 tags: [ 'boxer', ]
 actualPrice: 14.61 EUR
 currency: EUR

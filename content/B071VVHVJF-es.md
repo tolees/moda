@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VVHVJF-es Crocs Crocband II Sandal PS K Sandalias Unisex Niños Rosa...'
+sku: 'B071VVHVJF-es'
 tags: [ 'sandalias', ]
 actualPrice: 23.99 EUR
 currency: EUR

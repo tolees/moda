@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVJVXFF-es New Balance MS 247 FK de la Zapatilla de deporte para...'
+sku: 'B07DVJVXFF-es'
 tags: [ 'zapatilla', ]
 actualPrice: 34.12 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ET4MIKW-es Helly Hansen Dubliner Jacket Chaqueta Chubasquero para...'
+sku: 'B01ET4MIKW-es'
 tags: [ 'chaqueta', ]
 actualPrice: 59.24 EUR
 currency: EUR

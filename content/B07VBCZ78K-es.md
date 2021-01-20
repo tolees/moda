@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBCZ78K-es Desigual Fal Norah Falda Azul Marino 5001 Medium para Mujer'
+sku: 'B07VBCZ78K-es'
 tags: [ 'falda', ]
 actualPrice: 27.98 EUR
 currency: EUR

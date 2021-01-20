@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS6HRSV-es CARE OF by PUMA Sudadera con capucha de manga larga con...'
+sku: 'B07PS6HRSV-es'
 tags: [ 'sudadera', ]
 actualPrice: 8.96 EUR
 currency: EUR

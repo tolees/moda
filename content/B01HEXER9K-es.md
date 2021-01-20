@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEXER9K-es Crocs Crocband Clog K Zuecos Unisex-Bambini BLU...'
+sku: 'B01HEXER9K-es'
 tags: [ 'zuecos', ]
 actualPrice: 19.2 EUR
 currency: EUR

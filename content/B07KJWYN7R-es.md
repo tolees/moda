@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJWYN7R-es El Naturalista N5372 Pleasant Sandalias con Correa de...'
+sku: 'B07KJWYN7R-es'
 tags: [ 'sandalias', ]
 actualPrice: 17.38 EUR
 currency: EUR

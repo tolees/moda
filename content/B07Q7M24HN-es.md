@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7M24HN-es Under Armour Rush Heatgear Compression Camisa de Manga...'
+sku: 'B07Q7M24HN-es'
 tags: [ 'camisa', ]
 actualPrice: 28.56 EUR
 currency: EUR

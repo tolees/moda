@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7R5GNN-es Prada 0PR51SS VHT1A0 54 Gafas de Sol Plateado...'
+sku: 'B01N7R5GNN-es'
 tags: [ 'gafas', ]
 actualPrice: 143.0 EUR
 currency: EUR

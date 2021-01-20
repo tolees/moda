@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSK5ZBK-es Clarks Atticus Cap Zapatos de Cordones Derby para Hombre...'
+sku: 'B07MSK5ZBK-es'
 tags: [ 'zapatos', ]
 actualPrice: 45.45 EUR
 currency: EUR

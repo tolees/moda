@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F4GXF-es Wrangler LS 2pkt Flap Shirt Corduroy Camisa Marrón Russet...'
+sku: 'B07M5F4GXF-es'
 tags: [ 'camisa', ]
 actualPrice: 37.48 EUR
 currency: EUR

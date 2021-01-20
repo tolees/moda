@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVDW1XG-es Calvin Klein Jeans Ckj 026 Vaqueros Slim Azul Stay Black...'
+sku: 'B07PVDW1XG-es'
 tags: [ 'vaqueros', ]
 actualPrice: 38.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZH1ZBL-es Tikea Cartera Geométrica Luminosa Holográfica para Mujer...'
+sku: 'B07SZH1ZBL-es'
 tags: [ 'billetera', ]
 actualPrice: 15.99 EUR
 currency: EUR

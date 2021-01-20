@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q14YD1T-es Voqeen Mujer Bañador con Cuello en V Sexy Bikin de Dos...'
+sku: 'B07Q14YD1T-es'
 tags: [ 'falda', ]
 actualPrice: 10.99 EUR
 currency: EUR

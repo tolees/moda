@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHDMG7V-es HKT by Hackett Hkt 3 SS tee Camiseta Azul 5mgaqua Sky 5mg...'
+sku: 'B07VHDMG7V-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.23 EUR
 currency: EUR

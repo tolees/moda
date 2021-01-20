@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5RT6WN-es Jack & Jones Jjimike Jjoriginal Am 816 Vaqueros Relaxed...'
+sku: 'B07L5RT6WN-es'
 tags: [ 'vaqueros', ]
 actualPrice: 16.0 EUR
 currency: EUR

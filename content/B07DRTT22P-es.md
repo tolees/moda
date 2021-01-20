@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRTT22P-es Salomon Xview Gafas de esquí unisex Azul Moroccan...'
+sku: 'B07DRTT22P-es'
 tags: [ 'gafas', ]
 actualPrice: 44.99 EUR
 currency: EUR

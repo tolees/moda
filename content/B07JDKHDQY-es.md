@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JDKHDQY-es Levi s Barstow Western Camisa Vaquera Azul Red Cast Rinse...'
+sku: 'B07JDKHDQY-es'
 tags: [ 'camisa', ]
 actualPrice: 10.4 EUR
 currency: EUR

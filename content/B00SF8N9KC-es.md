@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SF8N9KC-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros Medium Aged 6128...'
+sku: 'B00SF8N9KC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 34.9 EUR
 currency: EUR

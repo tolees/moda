@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YSMLMN-es Jack & Jones Jorpex Sweat Hood Sudadera con Capucha Ashley...'
+sku: 'B081YSMLMN-es'
 tags: [ 'sudadera', ]
 actualPrice: 8.92 EUR
 currency: EUR

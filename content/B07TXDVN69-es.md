@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXDVN69-es Levi s Graphic tee Camiseta Negro Boxtab SS T2 Mineral...'
+sku: 'B07TXDVN69-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR

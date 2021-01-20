@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RAJWIQI-es Fruit of the Loom - Sudadera con Capucha Hombre/Caballero...'
+sku: 'B00RAJWIQI-es'
 tags: [ 'sudadera', ]
 actualPrice: 17.2 EUR
 currency: EUR

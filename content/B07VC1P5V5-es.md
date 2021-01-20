@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC1P5V5-es JACK & JONES Jorsprayed Sweat Crew Neck Sudadera Azul Sea...'
+sku: 'B07VC1P5V5-es'
 tags: [ 'sudadera', ]
 actualPrice: 19.81 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NBQK9S-es Trangoworld Bern Chaqueta Hombre Gris Oscuro/Negro S'
+sku: 'B075NBQK9S-es'
 tags: [ 'chaqueta', ]
 actualPrice: 77.49 EUR
 currency: EUR

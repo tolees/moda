@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3YK9B2-es Desigual Shirt CAM Camisa Crudo Beige 1008 M para Mujer'
+sku: 'B07N3YK9B2-es'
 tags: [ 'camisa', ]
 actualPrice: 33.72 EUR
 currency: EUR

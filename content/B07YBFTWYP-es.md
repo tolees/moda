@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBFTWYP-es Vans Colorblock tee Camiseta Morado Dark Purple/White Ypj...'
+sku: 'B07YBFTWYP-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.95 EUR
 currency: EUR

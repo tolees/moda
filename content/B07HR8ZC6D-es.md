@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HR8ZC6D-es Gaatpot Zapatos Invierno Botas Forradas de Nieve...'
+sku: 'B07HR8ZC6D-es'
 tags: [ 'botines','zapatos', ]
 actualPrice: 25.95 EUR
 currency: EUR

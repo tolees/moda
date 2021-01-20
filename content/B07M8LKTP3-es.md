@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8LKTP3-es Wrangler Greensboro Regular Jeans Vaqueros Azul Green...'
+sku: 'B07M8LKTP3-es'
 tags: [ 'vaqueros', ]
 actualPrice: 29.52 EUR
 currency: EUR

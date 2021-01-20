@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGD1PWZ-es Calvin Klein CK Essential Slim tee Camisa Black L para Hombre'
+sku: 'B07ZGD1PWZ-es'
 tags: [ 'camisa', ]
 actualPrice: 20.95 EUR
 currency: EUR

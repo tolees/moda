@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHV88CC-es G-Star Sp10546 SS tee Camiseta Rosa Mid Pink 34 8 años...'
+sku: 'B07SHV88CC-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.96 EUR
 currency: EUR

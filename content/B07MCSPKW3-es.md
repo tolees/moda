@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPKW3-es Napapijri Aric Chaqueta Azul French Blue BB7 S para Hombre'
+sku: 'B07MCSPKW3-es'
 tags: [ 'chaqueta', ]
 actualPrice: 91.76 EUR
 currency: EUR

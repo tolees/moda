@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UNA3Z36-es Lacoste TH7618 Camiseta para Hombre Azul Marine X-Small...'
+sku: 'B00UNA3Z36-es'
 tags: [ 'camiseta', ]
 actualPrice: 24.45 EUR
 currency: EUR

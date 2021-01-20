@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKHGLKK-es Asics Gel-Nimbus 22 Zapatilla de Correr para Hombre...'
+sku: 'B07SKHGLKK-es'
 tags: [ 'zapatilla', ]
 actualPrice: 109.24 EUR
 currency: EUR

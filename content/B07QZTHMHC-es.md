@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZTHMHC-es Under Armour Challenger III Midlayer Camiseta de Hombre...'
+sku: 'B07QZTHMHC-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.16 EUR
 currency: EUR

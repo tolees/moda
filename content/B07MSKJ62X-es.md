@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSKJ62X-es Clarks Arla Free Zapatos de Cordones Derby para Hombre...'
+sku: 'B07MSKJ62X-es'
 tags: [ 'zapatos', ]
 actualPrice: 47.9 EUR
 currency: EUR

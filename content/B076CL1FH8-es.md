@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CL1FH8-es Samsonite Hip-Square - Tablet Cross-over M 7.9" Bolso...'
+sku: 'B076CL1FH8-es'
 tags: [ 'bolso', ]
 actualPrice: 41.39 EUR
 currency: EUR

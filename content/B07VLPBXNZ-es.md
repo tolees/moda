@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLPBXNZ-es Lee Malone Vaqueros Light del Rey Ej 29W / 34L para Hombre'
+sku: 'B07VLPBXNZ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 59.99 EUR
 currency: EUR

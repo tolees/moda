@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPXNJW-es Geox D SUZZIE B Zapatillas para Mujer Beige Dk Skin/Off...'
+sku: 'B07SVPXNJW-es'
 tags: [ 'geox', ]
 actualPrice: 30.06 EUR
 currency: EUR

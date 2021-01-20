@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZFXQF3-es find. Asymetric Toe Thong Wedge Sandalias con Punta...'
+sku: 'B07HZFXQF3-es'
 tags: [ 'sandalias', ]
 actualPrice: 13.48 EUR
 currency: EUR

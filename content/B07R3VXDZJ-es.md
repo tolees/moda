@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3VXDZJ-es Helly Hansen Lifaloft Insulator Jacket Chaqueta Aislante...'
+sku: 'B07R3VXDZJ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 76.88 EUR
 currency: EUR

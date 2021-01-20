@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8B84TJ-es Sandalias Mujer Verano 2019 con Plataforma Damas Moda...'
+sku: 'B07S8B84TJ-es'
 tags: [ 'moda','sandalias','zapatos', ]
 actualPrice: 0.01 EUR
 currency: EUR

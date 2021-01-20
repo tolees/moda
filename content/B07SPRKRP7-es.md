@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPRKRP7-es Carteras Hombre pequeñas con Monedero - De Piel con Cierre...'
+sku: 'B07SPRKRP7-es'
 tags: [ 'monedero', ]
 actualPrice: 10.63 EUR
 currency: EUR

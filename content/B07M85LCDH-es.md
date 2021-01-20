@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M85LCDH-es GANT D1.Winter TWI Buffalo Check Reg BD Camisa Rojo Port...'
+sku: 'B07M85LCDH-es'
 tags: [ 'camisa', ]
 actualPrice: 53.74 EUR
 currency: EUR

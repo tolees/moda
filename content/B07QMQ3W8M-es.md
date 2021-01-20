@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMQ3W8M-es Guzack Riñonera Deportivo Bolso Cintura Cinturón Running...'
+sku: 'B07QMQ3W8M-es'
 tags: [ 'bolso', ]
 actualPrice: 12.99 EUR
 currency: EUR

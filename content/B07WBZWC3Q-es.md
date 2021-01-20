@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBZWC3Q-es Jack & Jones JCOMOON Knit Crew Neck Jersey Negro Black...'
+sku: 'B07WBZWC3Q-es'
 tags: [ 'jersey', ]
 actualPrice: 17.49 EUR
 currency: EUR

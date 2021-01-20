@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPJMQTS-es El Ganso 1 Camisa casual Blanco Blanco 0003 XX-Large para...'
+sku: 'B07PPJMQTS-es'
 tags: [ 'camisa', ]
 actualPrice: 23.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYSZZD5-es Lacoste TH2036 - Camiseta de Manga Corta para Hombre...'
+sku: 'B07RYSZZD5-es'
 tags: [ 'camiseta', ]
 actualPrice: 27.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0774YK5RK-es Siux Falda Cloe Negra'
+sku: 'B0774YK5RK-es'
 tags: [ 'falda', ]
 actualPrice: 9.95 EUR
 currency: EUR

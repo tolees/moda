@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086R5GYSD-es Nautico J.Bradford Cuero Marino JB-CORVETTES - Color -...'
+sku: 'B086R5GYSD-es'
 tags: [ 'zapatos', ]
 actualPrice: 69.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV7V1H1-es Bolso de Noche Bolso de Hombro Mujer Glitter Diamond...'
+sku: 'B07DV7V1H1-es'
 tags: [ 'bolso', ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C4SVXJK-es Concert Light Stick 15 Sticks de colores intercambiables...'
+sku: 'B08C4SVXJK-es'
 tags: [ 'moda', ]
 actualPrice: 7.25 EUR
 currency: EUR

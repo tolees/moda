@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVCBTC-es Napapijri Berber H Sudadera con Capucha Rojo Red Scarlet...'
+sku: 'B07MQVCBTC-es'
 tags: [ 'sudadera', ]
 actualPrice: 44.55 EUR
 currency: EUR

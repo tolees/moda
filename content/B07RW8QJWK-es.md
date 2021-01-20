@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW8QJWK-es Riñonera Deportiva Riñonera Mujer Hombre Running Cinturón...'
+sku: 'B07RW8QJWK-es'
 tags: [ 'bolso', ]
 actualPrice: 11.72 EUR
 currency: EUR

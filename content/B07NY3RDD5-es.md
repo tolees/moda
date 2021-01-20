@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3RDD5-es Superdry Hooded Windtrekker Chaqueta Azul Navy Feeder V6z...'
+sku: 'B07NY3RDD5-es'
 tags: [ 'chaqueta', ]
 actualPrice: 51.99 EUR
 currency: EUR

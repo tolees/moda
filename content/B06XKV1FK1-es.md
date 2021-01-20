@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XKV1FK1-es ElegantPark HC1621 Zapatos para Novia Boda Tacon Bajo...'
+sku: 'B06XKV1FK1-es'
 tags: [ 'zapatos', ]
 actualPrice: 52.99 EUR
 currency: EUR

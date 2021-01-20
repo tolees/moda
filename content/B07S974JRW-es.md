@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S974JRW-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Electric Pink...'
+sku: 'B07S974JRW-es'
 tags: [ 'zuecos', ]
 actualPrice: 30.99 EUR
 currency: EUR

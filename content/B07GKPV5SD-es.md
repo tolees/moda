@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKPV5SD-es Levi s Big and Tall B&t Graphic tee Camiseta Blanco Hm Big...'
+sku: 'B07GKPV5SD-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.95 EUR
 currency: EUR

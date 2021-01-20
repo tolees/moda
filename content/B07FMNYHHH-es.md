@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMNYHHH-es find. Fur Lined Hiker Zapatos de Low Rise Senderismo Negro...'
+sku: 'B07FMNYHHH-es'
 tags: [ 'zapatos', ]
 actualPrice: 22.91 EUR
 currency: EUR

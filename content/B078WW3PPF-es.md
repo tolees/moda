@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WW3PPF-es Roxy Napili II J SNDL Zapatos de Playa y Piscina para...'
+sku: 'B078WW3PPF-es'
 tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR

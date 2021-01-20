@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSK2ZQQ-es Geox D Sozy E Sandalias de Gladiador para Mujer Amarillo...'
+sku: 'B07SSK2ZQQ-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 19.54 EUR
 currency: EUR

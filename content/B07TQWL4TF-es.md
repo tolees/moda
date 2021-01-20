@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQWL4TF-es HAWKERS · NARCISO · Electric Blue · Gafas de sol para...'
+sku: 'B07TQWL4TF-es'
 tags: [ 'gafas', ]
 actualPrice: 8.44 EUR
 currency: EUR

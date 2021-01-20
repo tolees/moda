@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5BPL7G-es Geographical Norway Sudadera DE Hombre GYMCLASS B Verde S'
+sku: 'B07Y5BPL7G-es'
 tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR

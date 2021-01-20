@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WCFT5J7-es Lámpara de techo LED Lámpara de sala de estar regulable...'
+sku: 'B07WCFT5J7-es'
 tags: [ 'moda', ]
 actualPrice: 49.72 EUR
 currency: EUR

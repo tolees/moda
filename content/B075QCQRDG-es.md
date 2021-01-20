@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QCQRDG-es Wantdo Chaqueta Gruesa Impermeable Contraviento para Niñas...'
+sku: 'B075QCQRDG-es'
 tags: [ 'chaqueta', ]
 actualPrice: 7.19 EUR
 currency: EUR

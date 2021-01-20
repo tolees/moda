@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGYPSLW-es Marca Amazon - Iris & Lilly Tanga Mujer Pack de 5 Negro...'
+sku: 'B07NGYPSLW-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 10.49 EUR
 currency: EUR

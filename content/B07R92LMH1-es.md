@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R92LMH1-es Columbia Columbia Lodge Chaqueta sudadera Hombre...'
+sku: 'B07R92LMH1-es'
 tags: [ 'chaqueta','sudadera', ]
 actualPrice: 48.82 EUR
 currency: EUR

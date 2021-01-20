@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9HS8K6-es Spiuk Altube Road Zapatilla Unisex Adulto Negro Mate 37'
+sku: 'B07L9HS8K6-es'
 tags: [ 'zapatilla', ]
 actualPrice: 74.9 EUR
 currency: EUR

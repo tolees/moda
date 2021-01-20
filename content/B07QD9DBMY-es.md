@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD9DBMY-es MerCie Joyeria de creación Artesanal de Juguete | 1800...'
+sku: 'B07QD9DBMY-es'
 tags: [ 'moda', ]
 actualPrice: 16.99 EUR
 currency: EUR

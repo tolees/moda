@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H3S16OA-es Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva...'
+sku: 'B01H3S16OA-es'
 tags: [ 'chaqueta', ]
 actualPrice: 83.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9TBTGF-es DANISH ENDURANCE Boxer Bambu Pack de 3 Negro XX-Large'
+sku: 'B07X9TBTGF-es'
 tags: [ 'boxer', ]
 actualPrice: 16.95 EUR
 currency: EUR

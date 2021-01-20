@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR7KD5G-es Under Armour UA Speed Stride Printed SS Camiseta Hombre...'
+sku: 'B07KR7KD5G-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.97 EUR
 currency: EUR

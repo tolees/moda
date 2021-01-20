@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCDSXN1-es Miss Lulu Bolso de Mano de Mujer Shopper de Hombro...'
+sku: 'B07HCDSXN1-es'
 tags: [ 'bolso', ]
 actualPrice: 17.41 EUR
 currency: EUR

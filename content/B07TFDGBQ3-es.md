@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFDGBQ3-es Quiksilver Brooks 5k Chaqueta Impermeable Hombre Gris...'
+sku: 'B07TFDGBQ3-es'
 tags: [ 'chaqueta', ]
 actualPrice: 77.49 EUR
 currency: EUR

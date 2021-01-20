@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8W2DZJ-es Clarks Un Geo Lace Zapatos de Cordones Derby para Hombre...'
+sku: 'B07B8W2DZJ-es'
 tags: [ 'zapatos', ]
 actualPrice: 88.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MG6CZF-es OBEEII Vestido Princesa Niña Bordado de Tul Disfraz...'
+sku: 'B082MG6CZF-es'
 tags: [ 'vestido', ]
 actualPrice: 12.86 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QLVYWX-es Marca Amazon - AURIQUE Leggings con Paneles en Contraste...'
+sku: 'B073QLVYWX-es'
 tags: [ 'aurique', ]
 actualPrice: 6.0 EUR
 currency: EUR

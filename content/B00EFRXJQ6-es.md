@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EFRXJQ6-es Helly Hansen Daybreaker Fleece Jacket Chaqueta Hombre...'
+sku: 'B00EFRXJQ6-es'
 tags: [ 'chaqueta', ]
 actualPrice: 30.9 EUR
 currency: EUR

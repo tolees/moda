@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4CKX3C-es FitFlop Lulu Leather Toepost Sandalias con Plataforma...'
+sku: 'B07S4CKX3C-es'
 tags: [ 'sandalias', ]
 actualPrice: 46.49 EUR
 currency: EUR

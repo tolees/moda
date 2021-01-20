@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KXIKF5E-es Under Armour Raid Shorts Pantalones para hombre pantalón...'
+sku: 'B00KXIKF5E-es'
 tags: [ 'pantalón', ]
 actualPrice: 16.99 EUR
 currency: EUR

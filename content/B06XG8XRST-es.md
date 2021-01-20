@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG8XRST-es Marca Amazon - find. Camisa Hombre Verde Khaki Palm L...'
+sku: 'B06XG8XRST-es'
 tags: [ 'camisa','-','find.', ]
 actualPrice: 7.17 EUR
 currency: EUR

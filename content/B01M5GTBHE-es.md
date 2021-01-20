@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5GTBHE-es Lacoste Sport SH7609 Sudadera con Capucha Gris Argent...'
+sku: 'B01M5GTBHE-es'
 tags: [ 'sudadera', ]
 actualPrice: 49.95 EUR
 currency: EUR

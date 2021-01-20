@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDST2Z-es Levi s 501 Original Fit Jeans Vaqueros Ironwood Od 40W /...'
+sku: 'B07LFDST2Z-es'
 tags: [ 'vaqueros', ]
 actualPrice: 39.95 EUR
 currency: EUR

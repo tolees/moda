@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSH9K2L-es Bolsa para Mascotas Pequeño Animal doméstico Gato Perro...'
+sku: 'B07KSH9K2L-es'
 tags: [ 'bolso', ]
 actualPrice: 6.25 EUR
 currency: EUR

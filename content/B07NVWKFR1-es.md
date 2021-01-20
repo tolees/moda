@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVWKFR1-es Armor Lux 77288 Chaqueta Negro Noir 010 Medium Talla del...'
+sku: 'B07NVWKFR1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 121.43 EUR
 currency: EUR

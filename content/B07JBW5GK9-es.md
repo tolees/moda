@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBW5GK9-es Guantes de Invierno otutun Guantes de Pantalla Táctil...'
+sku: 'B07JBW5GK9-es'
 tags: [ 'guantes', ]
 actualPrice: 9.99 EUR
 currency: EUR

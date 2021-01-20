@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWPTXJ5-es Voqeen Mujer Bikini de Gradiente de Color Establece Retro...'
+sku: 'B07PWPTXJ5-es'
 tags: [ 'bikini', ]
 actualPrice: 10.99 EUR
 currency: EUR

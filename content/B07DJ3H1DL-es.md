@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ3H1DL-es Geox U Damian A Zapatillas para Hombre Beige Sand C5004 40 EU'
+sku: 'B07DJ3H1DL-es'
 tags: [ 'geox', ]
 actualPrice: 44.95 EUR
 currency: EUR

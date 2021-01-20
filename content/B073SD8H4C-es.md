@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073SD8H4C-es find. Camiseta para Hombre Rosa Deauvile Mauve 002 Large'
+sku: 'B073SD8H4C-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.6 EUR
 currency: EUR

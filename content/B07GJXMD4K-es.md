@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJXMD4K-es Marca Amazon - MERAKI Paula Paper Bag - Pantalones Mujer...'
+sku: 'B07GJXMD4K-es'
 tags: [ 'meraki', ]
 actualPrice: 21.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYXZZ2V-es Columbia Pantalón de Excursionismo para Mujer Back Beauty...'
+sku: 'B07DYXZZ2V-es'
 tags: [ 'pantalón', ]
 actualPrice: 56.99 EUR
 currency: EUR

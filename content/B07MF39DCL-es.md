@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MF39DCL-es Columbia Lake 22 Chaqueta de plumas Hombre Gris Columbia...'
+sku: 'B07MF39DCL-es'
 tags: [ 'chaqueta', ]
 actualPrice: 34.42 EUR
 currency: EUR

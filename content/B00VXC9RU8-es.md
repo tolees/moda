@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VXC9RU8-es G-Star RAW 3301 Straight Vaqueros para Hombre Azul Dark...'
+sku: 'B00VXC9RU8-es'
 tags: [ 'vaqueros', ]
 actualPrice: 43.3 EUR
 currency: EUR

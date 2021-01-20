@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KD31YD-es Lee Morton Vaqueros Rectos Negro Black Rinse YC47 29W /...'
+sku: 'B072KD31YD-es'
 tags: [ 'vaqueros', ]
 actualPrice: 19.73 EUR
 currency: EUR

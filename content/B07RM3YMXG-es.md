@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM3YMXG-es Tommy Hilfiger Hyper Classic Stripe Shirt Camisa Azul Blue...'
+sku: 'B07RM3YMXG-es'
 tags: [ 'camisa', ]
 actualPrice: 40.91 EUR
 currency: EUR

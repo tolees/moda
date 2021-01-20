@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813HSPSS-es Marca Amazon - Find. Sandalias abiertas para mujer 90s...'
+sku: 'B0813HSPSS-es'
 tags: [ 'sandalias','-','find.', ]
 actualPrice: 5.52 EUR
 currency: EUR

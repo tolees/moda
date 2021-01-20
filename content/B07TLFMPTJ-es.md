@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFMPTJ-es Levi s Original Hm Icon Crew Sudadera Amarillo Golden...'
+sku: 'B07TLFMPTJ-es'
 tags: [ 'sudadera', ]
 actualPrice: 36.49 EUR
 currency: EUR

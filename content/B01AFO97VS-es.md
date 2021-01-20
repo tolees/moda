@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AFO97VS-es Diesel CREW NECK ESSENTIAL Camiseta para Hombre Multicolor...'
+sku: 'B01AFO97VS-es'
 tags: [ 'camiseta', ]
 actualPrice: 27.0 EUR
 currency: EUR

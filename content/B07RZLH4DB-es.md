@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLH4DB-es Levi s Perfect-tee Camiseta de Manga Corta Multicolor...'
+sku: 'B07RZLH4DB-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.49 EUR
 currency: EUR

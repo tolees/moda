@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZ8NYZR-es Marca Amazon - MERAKI Blazer Hombre Azul Navy 48 Label: 38'
+sku: 'B07GZ8NYZR-es'
 tags: [ 'meraki', ]
 actualPrice: 16.87 EUR
 currency: EUR

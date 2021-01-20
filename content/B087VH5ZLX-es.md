@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087VH5ZLX-es Columbia Lake 22 Chaqueta de Plumas para Hombre Azul...'
+sku: 'B087VH5ZLX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 59.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCHDFHV-es Quiksilver Stapilton - Chaqueta De Lona Con Cremallera...'
+sku: 'B07TCHDFHV-es'
 tags: [ 'chaqueta', ]
 actualPrice: 31.38 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NT8DZWU-es Dickies Kingsley Sudadera con Capucha Negro Black Small...'
+sku: 'B00NT8DZWU-es'
 tags: [ 'sudadera', ]
 actualPrice: 37.99 EUR
 currency: EUR

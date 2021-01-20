@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNL2WF-es Tommy Hilfiger Tjw Roll Up Sleeve Shirt Camisa de Deporte...'
+sku: 'B07VMNL2WF-es'
 tags: [ 'camisa', ]
 actualPrice: 32.5 EUR
 currency: EUR

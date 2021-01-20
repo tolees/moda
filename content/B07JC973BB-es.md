@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC973BB-es Timberland NeWaterproofort Bay Oxford Zapatillas Unisex-...'
+sku: 'B07JC973BB-es'
 tags: [ 'timberland', ]
 actualPrice: 16.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001B15OKI-es Timberland 6-Inch Premium Boot Botas para Hombre Marrón...'
+sku: 'B001B15OKI-es'
 tags: [ 'timberland', ]
 actualPrice: 111.01 EUR
 currency: EUR

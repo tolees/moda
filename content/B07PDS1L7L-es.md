@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDS1L7L-es Geox U Mattias B ABX A Botas Chukka para Hombre Azul Navy...'
+sku: 'B07PDS1L7L-es'
 tags: [ 'geox', ]
 actualPrice: 35.86 EUR
 currency: EUR

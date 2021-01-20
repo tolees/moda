@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKR8DJD-es Lacoste Sf1550 Sudadera con Capucha Azul Marine 423 32...'
+sku: 'B07MKR8DJD-es'
 tags: [ 'sudadera', ]
 actualPrice: 52.65 EUR
 currency: EUR

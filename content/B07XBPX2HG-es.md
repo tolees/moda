@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBPX2HG-es LIGE Relojes Hombre Acero Inoxidable Ocio Simple Cuarzo...'
+sku: 'B07XBPX2HG-es'
 tags: [ 'moda', ]
 actualPrice: 26.99 EUR
 currency: EUR

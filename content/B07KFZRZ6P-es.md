@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZRZ6P-es PUMA AURIZ Zapatos de fútbol para Hombre Negro Black...'
+sku: 'B07KFZRZ6P-es'
 tags: [ 'zapatos', ]
 actualPrice: 22.69 EUR
 currency: EUR

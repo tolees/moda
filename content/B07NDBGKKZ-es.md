@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDBGKKZ-es bugatti 311815014141 Zapatos de Cordones Derby para Hombre...'
+sku: 'B07NDBGKKZ-es'
 tags: [ 'zapatos', ]
 actualPrice: 24.79 EUR
 currency: EUR

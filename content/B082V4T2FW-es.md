@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V4T2FW-es Canadian Peak Parka'
+sku: 'B082V4T2FW-es'
 tags: [ 'parka', ]
 actualPrice: 77.4 EUR
 currency: EUR

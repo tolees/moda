@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FF2CFRS-es Wwoorr Quartz Relojes Analógicos Moda Casual para Mujer...'
+sku: 'B07FF2CFRS-es'
 tags: [ 'moda', ]
 actualPrice: 15.29 EUR
 currency: EUR

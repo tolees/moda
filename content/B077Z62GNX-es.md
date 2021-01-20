@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Z62GNX-es HIKARO Chaleco de Plumas con Capucha Hombre Rojo Burgundy...'
+sku: 'B077Z62GNX-es'
 tags: [ 'chaleco', ]
 actualPrice: 27.57 EUR
 currency: EUR

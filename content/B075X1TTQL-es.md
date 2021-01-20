@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075X1TTQL-es find. NEWSTW045 vaqueros mujer Azul Indigo Rinse W27/L30'
+sku: 'B075X1TTQL-es'
 tags: [ 'vaqueros', ]
 actualPrice: 10.8 EUR
 currency: EUR

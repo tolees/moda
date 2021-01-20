@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779SJTK6-es Timberland Newport Bay 2 Eye Mocasines para Hombre Azul...'
+sku: 'B0779SJTK6-es'
 tags: [ 'timberland', ]
 actualPrice: 32.5 EUR
 currency: EUR

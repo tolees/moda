@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YV7B82D-es Jack & Jones Jprlogo BLU. tee SS Crew Neck Pre Camiseta...'
+sku: 'B07YV7B82D-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.36 EUR
 currency: EUR

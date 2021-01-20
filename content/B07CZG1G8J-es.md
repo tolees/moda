@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZG1G8J-es Under Armour UA Heatgear Racer Camiseta Sin Mangas Mujer...'
+sku: 'B07CZG1G8J-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.05 EUR
 currency: EUR

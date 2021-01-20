@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MVL31M-es find. Chaqueta Estilo Bomber para Hombre Gris Charcoal...'
+sku: 'B072MVL31M-es'
 tags: [ 'chaqueta', ]
 actualPrice: 13.5 EUR
 currency: EUR

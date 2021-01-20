@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G17F7NR-es Tommy Hilfiger T Camiseta Básica de Manga Corta Negro...'
+sku: 'B07G17F7NR-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.95 EUR
 currency: EUR

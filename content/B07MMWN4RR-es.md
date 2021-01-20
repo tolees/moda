@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWN4RR-es Wrangler Sign Off Crew Sudadera Amarillo Mineral Yellow...'
+sku: 'B07MMWN4RR-es'
 tags: [ 'sudadera', ]
 actualPrice: 11.01 EUR
 currency: EUR

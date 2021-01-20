@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4FWTYQ-es edc by Esprit 999cc1k803 Camiseta Azul Navy 2 401 X-Large...'
+sku: 'B07N4FWTYQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.99 EUR
 currency: EUR

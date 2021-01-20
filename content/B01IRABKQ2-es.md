@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IRABKQ2-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De...'
+sku: 'B01IRABKQ2-es'
 tags: [ 'zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR

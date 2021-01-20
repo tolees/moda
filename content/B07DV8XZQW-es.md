@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV8XZQW-es Columbia Kyra III Sandalias para Mujer Negro Shark Steam...'
+sku: 'B07DV8XZQW-es'
 tags: [ 'sandalias', ]
 actualPrice: 37.99 EUR
 currency: EUR

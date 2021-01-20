@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJW215-es Geox U Tevere C Sandalias con Punta Abierta para Hombre...'
+sku: 'B07SSJW215-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 38.3 EUR
 currency: EUR

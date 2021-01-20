@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1Y2WTM-es Khroom Camiseta de Compresión de Superhéroe para Hombre |...'
+sku: 'B07N1Y2WTM-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.97 EUR
 currency: EUR

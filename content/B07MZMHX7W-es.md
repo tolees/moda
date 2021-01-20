@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMHX7W-es Pepe Jeans Rogery Chaqueta Brass 891 Medium para Hombre'
+sku: 'B07MZMHX7W-es'
 tags: [ 'chaqueta', ]
 actualPrice: 139.98 EUR
 currency: EUR

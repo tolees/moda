@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ54FSV-es Amazon Essentials - Camisa a cuadros de lino con manga...'
+sku: 'B07JJ54FSV-es'
 tags: [ 'camisa', ]
 actualPrice: 4.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWNMPCY-es Bveyzi Mujeres RFID Bloqueo Billetera Cuero Zip Alrededor...'
+sku: 'B07CWNMPCY-es'
 tags: [ 'billetera','bolso', ]
 actualPrice: 32.46 EUR
 currency: EUR

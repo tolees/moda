@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT1HFP9-es MTNG KADIRI Bolso totes para Mujer Marrón Pull Camel/Gris...'
+sku: 'B07PT1HFP9-es'
 tags: [ 'bolso', ]
 actualPrice: 8.22 EUR
 currency: EUR

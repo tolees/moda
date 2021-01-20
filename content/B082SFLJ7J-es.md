@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SFLJ7J-es BAIGIO Bolso Bandolera de Piel para Hombres iPad Bolso...'
+sku: 'B082SFLJ7J-es'
 tags: [ 'bolso', ]
 actualPrice: 22.22 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRIQU4S-es Timberland - Patucos y casquillo para bebés Multicolor...'
+sku: 'B00HRIQU4S-es'
 tags: [ 'timberland', ]
 actualPrice: 31.99 EUR
 currency: EUR

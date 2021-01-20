@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ1FS1L-es adidas FCB H JSY Y Camiseta Unisex Niños Rojfcb 164'
+sku: 'B07QZ1FS1L-es'
 tags: [ 'camiseta', ]
 actualPrice: 40.0 EUR
 currency: EUR

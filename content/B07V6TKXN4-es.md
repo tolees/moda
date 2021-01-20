@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6TKXN4-es Tommy Hilfiger Basic Opened Toe High Wedge Sandalias con...'
+sku: 'B07V6TKXN4-es'
 tags: [ 'sandalias', ]
 actualPrice: 36.56 EUR
 currency: EUR

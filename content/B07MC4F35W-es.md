@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC4F35W-es Cerdá Pijama Corto Algodón Harry Potter Conjuntos Gris...'
+sku: 'B07MC4F35W-es'
 tags: [ 'pijama', ]
 actualPrice: 8.25 EUR
 currency: EUR

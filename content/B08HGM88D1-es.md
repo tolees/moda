@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HGM88D1-es #N/A 2 Juegos Ropa de Vestir de Moda para Muñecas Chicas...'
+sku: 'B08HGM88D1-es'
 tags: [ 'moda', ]
 actualPrice: 12.99 EUR
 currency: EUR

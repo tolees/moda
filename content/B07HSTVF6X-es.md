@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSTVF6X-es WISHDOIT Relojes para Hombres Impermeable Acero Inoxidable...'
+sku: 'B07HSTVF6X-es'
 tags: [ 'vestido', ]
 actualPrice: 32.99 EUR
 currency: EUR

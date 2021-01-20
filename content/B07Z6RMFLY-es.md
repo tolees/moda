@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6RMFLY-es GettyGears Bolero - Chaqueta de piel sintética con broche...'
+sku: 'B07Z6RMFLY-es'
 tags: [ 'abrigo','chaqueta','vestido', ]
 actualPrice: 32.9 EUR
 currency: EUR

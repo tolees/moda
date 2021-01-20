@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0C85RC-es Geox U Wells C Zapatillas para Hombre Gris Anthracite...'
+sku: 'B01N0C85RC-es'
 tags: [ 'geox', ]
 actualPrice: 65.4 EUR
 currency: EUR

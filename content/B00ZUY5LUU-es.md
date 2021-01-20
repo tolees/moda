@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZUY5LUU-es REEF R2026ALB Chanclas Hombre Marrón Brown / Gum 36 EU'
+sku: 'B00ZUY5LUU-es'
 tags: [ 'chanclas', ]
 actualPrice: 21.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR9ZGXM-es Clarks Mena Blossom Zapatos de Tacón para Mujer Negro...'
+sku: 'B07FR9ZGXM-es'
 tags: [ 'zapatos', ]
 actualPrice: 32.62 EUR
 currency: EUR

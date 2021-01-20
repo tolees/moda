@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQK3CZC-es ESPRIT Collection 998eo2f804 Camisa Azul Light Blue 440...'
+sku: 'B07JQK3CZC-es'
 tags: [ 'camisa', ]
 actualPrice: 19.37 EUR
 currency: EUR

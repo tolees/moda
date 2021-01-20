@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079L52GSQ-es CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta...'
+sku: 'B079L52GSQ-es'
 tags: [ 'camisa', ]
 actualPrice: 12.94 EUR
 currency: EUR

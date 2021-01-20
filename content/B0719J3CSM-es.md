@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719J3CSM-es Lightess Apliques de Pared LED 12W Lámpara Exterior...'
+sku: 'B0719J3CSM-es'
 tags: [ 'moda', ]
 actualPrice: 31.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9P8MH9-es O NEILL LM Arrowhead T-Shirt Camiseta Manga Corta para...'
+sku: 'B07Z9P8MH9-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.83 EUR
 currency: EUR

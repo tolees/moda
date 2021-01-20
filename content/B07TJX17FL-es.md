@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJX17FL-es Lacoste Sport Sh7609 Sudadera Rojo Corrida/Noir G64 Large...'
+sku: 'B07TJX17FL-es'
 tags: [ 'sudadera', ]
 actualPrice: 54.95 EUR
 currency: EUR

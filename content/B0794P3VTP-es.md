@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0794P3VTP-es Columbia Tolmie Butte Chaqueta Hombre Negro Shark S'
+sku: 'B0794P3VTP-es'
 tags: [ 'chaqueta', ]
 actualPrice: 48.39 EUR
 currency: EUR

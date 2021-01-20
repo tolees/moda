@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5CVK7X-es Geographical Norway Sudadera DE Hombre GYMCLASS A Gris...'
+sku: 'B07Y5CVK7X-es'
 tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR

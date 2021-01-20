@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDNLQP-es Levi s Slim 2pk Crewneck 1 Camiseta Multicolor 2 Pack...'
+sku: 'B07LFDNLQP-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.5 EUR
 currency: EUR

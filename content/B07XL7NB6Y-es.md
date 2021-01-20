@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL7NB6Y-es Geographical Norway Parka Mujer Baby Ass A Azul Marino 4'
+sku: 'B07XL7NB6Y-es'
 tags: [ 'parka', ]
 actualPrice: 65.0 EUR
 currency: EUR

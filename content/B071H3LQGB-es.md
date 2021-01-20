@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071H3LQGB-es find. Botines con Suela de Crepe Estilo Óxford para Hombre...'
+sku: 'B071H3LQGB-es'
 tags: [ 'botines', ]
 actualPrice: 16.65 EUR
 currency: EUR

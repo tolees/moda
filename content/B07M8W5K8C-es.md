@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8W5K8C-es Wrangler Graphic Logo tee Camiseta Negro Black 100 Medium...'
+sku: 'B07M8W5K8C-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.33 EUR
 currency: EUR

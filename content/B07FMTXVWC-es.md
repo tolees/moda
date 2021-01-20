@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMTXVWC-es Ganchos de pared resistente ETSAMOR 2pcs Ganchos para...'
+sku: 'B07FMTXVWC-es'
 tags: [ 'abrigo', ]
 actualPrice: 9.08 EUR
 currency: EUR

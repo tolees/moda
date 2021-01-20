@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STR2PHM-es YWLINK Mono NiñA NiñO Verano Sin Mangas De Color SóLido...'
+sku: 'B07STR2PHM-es'
 tags: [ 'moda', ]
 actualPrice: 4.24 EUR
 currency: EUR

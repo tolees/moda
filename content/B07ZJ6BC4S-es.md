@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJ6BC4S-es JOINFREE Niños Niñas Nadar Zapatos para el Agua Deportes...'
+sku: 'B07ZJ6BC4S-es'
 tags: [ 'zapatos', ]
 actualPrice: 6.99 EUR
 currency: EUR

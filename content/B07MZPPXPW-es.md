@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPPXPW-es Pepe Jeans Regent Vaqueros Skinny Azul Medium Used...'
+sku: 'B07MZPPXPW-es'
 tags: [ 'vaqueros', ]
 actualPrice: 45.81 EUR
 currency: EUR

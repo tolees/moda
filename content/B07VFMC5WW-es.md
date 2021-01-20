@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFMC5WW-es edc by Esprit 099cc2g021 Chaqueta Azul Navy 400 Medium...'
+sku: 'B07VFMC5WW-es'
 tags: [ 'chaqueta', ]
 actualPrice: 20.87 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHV87BW-es G-Star Sp15046 Sweat Sudadera Azul Royal Blue 45 14 años...'
+sku: 'B07SHV87BW-es'
 tags: [ 'sudadera', ]
 actualPrice: 26.15 EUR
 currency: EUR

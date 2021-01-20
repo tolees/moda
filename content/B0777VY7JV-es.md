@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777VY7JV-es Tommy Hilfiger Original Triblend Camiseta Rojo Formula One...'
+sku: 'B0777VY7JV-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.79 EUR
 currency: EUR

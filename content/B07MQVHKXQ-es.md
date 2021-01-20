@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVHKXQ-es Napapijri Bra FZH Sudadera Gris Dark Grey Mel 197 XL para...'
+sku: 'B07MQVHKXQ-es'
 tags: [ 'sudadera', ]
 actualPrice: 26.12 EUR
 currency: EUR

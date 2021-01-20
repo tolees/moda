@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK1QN4D-es Napapijri Rainforest Winter 1 Chaqueta Amarillo Yellow...'
+sku: 'B07MK1QN4D-es'
 tags: [ 'chaqueta', ]
 actualPrice: 59.79 EUR
 currency: EUR

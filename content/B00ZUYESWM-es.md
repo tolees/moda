@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZUYESWM-es Reef Phantoms Sandalias Flip-Flop para Hombre Negro Black...'
+sku: 'B00ZUYESWM-es'
 tags: [ 'sandalias', ]
 actualPrice: 22.4 EUR
 currency: EUR

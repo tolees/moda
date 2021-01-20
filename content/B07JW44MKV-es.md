@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW44MKV-es Lee Extreme Motion Straight Vaqueros Beige Cougar 77 32W /...'
+sku: 'B07JW44MKV-es'
 tags: [ 'vaqueros', ]
 actualPrice: 25.87 EUR
 currency: EUR

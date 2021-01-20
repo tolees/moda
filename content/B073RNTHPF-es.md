@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNTHPF-es Helly Hansen Rider Stealth Zip Chaleco de Ayuda a la...'
+sku: 'B073RNTHPF-es'
 tags: [ 'chaleco', ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTMVKYJ-es Geox J Sandal FLEXYPER Boy A Sandalias con Punta Abierta...'
+sku: 'B07DTMVKYJ-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 29.95 EUR
 currency: EUR

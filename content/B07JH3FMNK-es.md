@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH3FMNK-es Pepe Jeans Wyatt Pm305905 Camisa Blue 551 Medium para Hombre'
+sku: 'B07JH3FMNK-es'
 tags: [ 'camisa', ]
 actualPrice: 23.37 EUR
 currency: EUR

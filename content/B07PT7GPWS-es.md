@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT7GPWS-es Marca Amazon - MERAKI Jersey Cuello Cremallera Hombre...'
+sku: 'B07PT7GPWS-es'
 tags: [ 'jersey','meraki', ]
 actualPrice: 21.85 EUR
 currency: EUR

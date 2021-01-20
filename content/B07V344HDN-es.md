@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V344HDN-es Chi Chi London Dollie Vestido de Fiesta Azul Navy NB 44...'
+sku: 'B07V344HDN-es'
 tags: [ 'vestido', ]
 actualPrice: 16.13 EUR
 currency: EUR

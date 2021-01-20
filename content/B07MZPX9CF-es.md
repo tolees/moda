@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPX9CF-es Pepe Jeans Edward Chaqueta Infinity 985 Medium para Hombre'
+sku: 'B07MZPX9CF-es'
 tags: [ 'chaqueta', ]
 actualPrice: 75.93 EUR
 currency: EUR

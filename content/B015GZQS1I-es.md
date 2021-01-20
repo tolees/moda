@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GZQS1I-es Timberland Bradstreet Chukka Leather Botas Hombre Marrón...'
+sku: 'B015GZQS1I-es'
 tags: [ 'timberland', ]
 actualPrice: 89.52 EUR
 currency: EUR

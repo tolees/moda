@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MJBK3F-es Marca Amazon - find. Camisa Hombre Marfil Stone S Label: S'
+sku: 'B072MJBK3F-es'
 tags: [ 'camisa','-','find.', ]
 actualPrice: 7.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRC1LGK-es Clarks Step Beat Sun Abierta Sandalias Punta Cerrada Negro...'
+sku: 'B07FRC1LGK-es'
 tags: [ 'sandalias', ]
 actualPrice: 36.2 EUR
 currency: EUR

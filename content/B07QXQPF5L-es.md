@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXQPF5L-es Amilril Perla Collar Colgante Mujer Plata de Ley 925 Moda...'
+sku: 'B07QXQPF5L-es'
 tags: [ 'collar','moda', ]
 actualPrice: 18.98 EUR
 currency: EUR

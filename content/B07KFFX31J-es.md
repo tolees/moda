@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFFX31J-es Charles Wilson Calzoncillo Bóxer de Hombre 6 Unidades...'
+sku: 'B07KFFX31J-es'
 tags: [ 'bóxer', ]
 actualPrice: 16.95 EUR
 currency: EUR

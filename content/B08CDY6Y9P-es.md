@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDY6Y9P-es OCTOBER Vestido Fluido Lyocell SALMÓN M'
+sku: 'B08CDY6Y9P-es'
 tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR

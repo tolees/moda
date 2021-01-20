@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNXRNK-es Helly Hansen Moss Aislado 3-In-1 Forro Polar Interior...'
+sku: 'B07LBNXRNK-es'
 tags: [ 'chaqueta', ]
 actualPrice: 61.12 EUR
 currency: EUR

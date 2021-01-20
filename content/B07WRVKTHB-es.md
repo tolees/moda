@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRVKTHB-es AOQUSSQOA Mujer Conjuntos de Bikinis para Mujer Bikini de...'
+sku: 'B07WRVKTHB-es'
 tags: [ 'bikini','falda', ]
 actualPrice: 19.99 EUR
 currency: EUR

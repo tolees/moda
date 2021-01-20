@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N19L5KP-es Lee Chunky Crew Neck Sudadera Verde Dk Bottle Green BB...'
+sku: 'B07N19L5KP-es'
 tags: [ 'sudadera', ]
 actualPrice: 18.19 EUR
 currency: EUR

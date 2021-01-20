@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1RFW6G-es Art Antibes Zapatos Planos Mary Jane para Mujer Negro...'
+sku: 'B07F1RFW6G-es'
 tags: [ 'zapatos', ]
 actualPrice: 40.0 EUR
 currency: EUR

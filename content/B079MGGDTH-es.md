@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MGGDTH-es Marca Amazon - MERAKI Camiseta de Manga Corta con Corte...'
+sku: 'B079MGGDTH-es'
 tags: [ 'camiseta','meraki', ]
 actualPrice: 7.14 EUR
 currency: EUR

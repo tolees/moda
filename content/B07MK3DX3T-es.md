@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK3DX3T-es GANT The Original C-Neck Sweat Sudadera Azul Marine...'
+sku: 'B07MK3DX3T-es'
 tags: [ 'sudadera', ]
 actualPrice: 53.95 EUR
 currency: EUR

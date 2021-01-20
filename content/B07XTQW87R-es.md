@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTQW87R-es Jack & Jones Jjiglenn Jjoriginal JOS 800 I.K Vaqueros Slim...'
+sku: 'B07XTQW87R-es'
 tags: [ 'vaqueros', ]
 actualPrice: 24.0 EUR
 currency: EUR

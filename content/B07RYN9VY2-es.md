@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYN9VY2-es Levi s Down Dehon Pkbl Puffer Chaqueta Multicolor Apricot...'
+sku: 'B07RYN9VY2-es'
 tags: [ 'chaqueta', ]
 actualPrice: 38.95 EUR
 currency: EUR

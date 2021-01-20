@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6RLQFX-es find. Sandalias de Cuero Trenzado Mujer Varios Colores Tan...'
+sku: 'B01N6RLQFX-es'
 tags: [ 'sandalias', ]
 actualPrice: 7.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCCQXX7-es Only Onlnew Skylar Spring Jacket CC OTW Chaqueta Rosa Rose...'
+sku: 'B07LCCQXX7-es'
 tags: [ 'chaqueta', ]
 actualPrice: 11.34 EUR
 currency: EUR

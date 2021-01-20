@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ822D-es Geox J INEK Boy E Zapatillas Altas para Niños Azul...'
+sku: 'B07LFZ822D-es'
 tags: [ 'geox', ]
 actualPrice: 32.02 EUR
 currency: EUR

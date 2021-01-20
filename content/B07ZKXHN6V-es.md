@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKXHN6V-es Charles Wilson Sudadera con Cremallera Completa con...'
+sku: 'B07ZKXHN6V-es'
 tags: [ 'sudadera', ]
 actualPrice: 24.95 EUR
 currency: EUR

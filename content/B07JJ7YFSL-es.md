@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ7YFSL-es Lacoste Th3377 Camiseta Plateado Argent Chiné/Marine Mnc...'
+sku: 'B07JJ7YFSL-es'
 tags: [ 'camiseta', ]
 actualPrice: 28.32 EUR
 currency: EUR

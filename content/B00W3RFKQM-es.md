@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W3RFKQM-es Joma Gala Sudadera Hombre Naranja M'
+sku: 'B00W3RFKQM-es'
 tags: [ 'sudadera', ]
 actualPrice: 12.99 EUR
 currency: EUR

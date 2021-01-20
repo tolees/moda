@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKWBGRX-es Sandalias Niño con Plantillas de Trekking Senderismo...'
+sku: 'B07NKWBGRX-es'
 tags: [ 'sandalias','zapatos', ]
 actualPrice: 23.39 EUR
 currency: EUR

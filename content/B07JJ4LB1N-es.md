@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ4LB1N-es G-STAR RAW Graphic 18 Mysid Slim Camiseta Beige Milk 111...'
+sku: 'B07JJ4LB1N-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.54 EUR
 currency: EUR

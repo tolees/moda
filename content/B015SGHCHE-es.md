@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGHCHE-es Havaianas You Metallic Sandalias para Mujer Dorado Sand...'
+sku: 'B015SGHCHE-es'
 tags: [ 'sandalias', ]
 actualPrice: 19.9 EUR
 currency: EUR

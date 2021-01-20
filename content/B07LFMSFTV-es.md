@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFMSFTV-es Levi s The Ultimate BF Shirt Blusa Azul Fondulac Sodalite...'
+sku: 'B07LFMSFTV-es'
 tags: [ 'blusa', ]
 actualPrice: 21.47 EUR
 currency: EUR

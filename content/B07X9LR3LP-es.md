@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9LR3LP-es LIGE Relojes Hombre Negro Casual Minimalista Impermeable...'
+sku: 'B07X9LR3LP-es'
 tags: [ 'vestido', ]
 actualPrice: 29.99 EUR
 currency: EUR

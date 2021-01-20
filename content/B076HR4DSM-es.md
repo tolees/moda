@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HR4DSM-es Adidas Regista 18 Track Top Chaqueta Deportiva Hombre...'
+sku: 'B076HR4DSM-es'
 tags: [ 'chaqueta', ]
 actualPrice: 20.49 EUR
 currency: EUR

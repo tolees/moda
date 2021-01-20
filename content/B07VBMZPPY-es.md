@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBMZPPY-es Iris & Lilly Mujer Blinl0006 Corsé Not Applicable Negro...'
+sku: 'B07VBMZPPY-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 14.94 EUR
 currency: EUR

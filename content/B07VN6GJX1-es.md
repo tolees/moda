@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN6GJX1-es Desigual Jers Chill Chaqueta Punto Negro Negro 2000 Medium...'
+sku: 'B07VN6GJX1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 55.1 EUR
 currency: EUR

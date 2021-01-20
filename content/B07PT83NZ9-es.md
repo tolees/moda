@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT83NZ9-es CARE OF by PUMA Sudadera con capucha forro y cremallera de...'
+sku: 'B07PT83NZ9-es'
 tags: [ 'sudadera', ]
 actualPrice: 9.64 EUR
 currency: EUR

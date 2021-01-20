@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084JJBWFR-es XTI - Sandalias con Tacón de Fiesta - Sandalia con Tacón...'
+sku: 'B084JJBWFR-es'
 tags: [ 'sandalias', ]
 actualPrice: 34.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5HQTWZ-es Tom Tailor Denim Print Camiseta Azul Slate Blue/Green...'
+sku: 'B07V5HQTWZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.56 EUR
 currency: EUR

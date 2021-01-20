@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3WK3ZL-es Desigual Vest Jacob Vestido Blanco Blanco 1000 S para Mujer'
+sku: 'B07N3WK3ZL-es'
 tags: [ 'vestido', ]
 actualPrice: 36.23 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TP5PF2M-es The North Face Trevail Chaqueta de Plumón Hombre Azul TNF...'
+sku: 'B07TP5PF2M-es'
 tags: [ 'chaqueta', ]
 actualPrice: 96.8 EUR
 currency: EUR

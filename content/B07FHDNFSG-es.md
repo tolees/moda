@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHDNFSG-es Helly Hansen Jr Moss Chaqueta Impermeable Unisex niños...'
+sku: 'B07FHDNFSG-es'
 tags: [ 'chaqueta', ]
 actualPrice: 33.99 EUR
 currency: EUR

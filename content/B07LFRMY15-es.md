@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRMY15-es Geox U Wells A Zapatillas para Hombre Negro Black/Dk Jeans...'
+sku: 'B07LFRMY15-es'
 tags: [ 'geox', ]
 actualPrice: 51.75 EUR
 currency: EUR

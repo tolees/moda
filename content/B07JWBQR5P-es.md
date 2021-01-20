@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWBQR5P-es dPois Vestidos de Princesa Diadema Niña Bebé Fiesta...'
+sku: 'B07JWBQR5P-es'
 tags: [ 'falda', ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7PGQ1H-es Only Onlnew Mallory L/s Blouse Wvn Noos Blusa Multicolor...'
+sku: 'B07F7PGQ1H-es'
 tags: [ 'blusa', ]
 actualPrice: 7.59 EUR
 currency: EUR

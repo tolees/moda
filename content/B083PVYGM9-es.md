@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083PVYGM9-es Relojes para Hombre Moda Deporte Cuarzo Analógico Negro...'
+sku: 'B083PVYGM9-es'
 tags: [ 'moda', ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D756WVZ-es Levi s 311 Shaping Skinny Vaqueros New Ultra Black 28W /...'
+sku: 'B07D756WVZ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 49.5 EUR
 currency: EUR

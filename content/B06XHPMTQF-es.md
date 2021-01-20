@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHPMTQF-es Marca Amazon - find. Camisa Hombre Negro Black S Label: S'
+sku: 'B06XHPMTQF-es'
 tags: [ 'camisa','-','find.', ]
 actualPrice: 6.44 EUR
 currency: EUR

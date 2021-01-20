@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQG2B7H-es Geox J Alben Boy B Zapatillas para Niños Verde...'
+sku: 'B07SQG2B7H-es'
 tags: [ 'geox', ]
 actualPrice: 22.75 EUR
 currency: EUR

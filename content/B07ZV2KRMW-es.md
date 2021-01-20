@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZV2KRMW-es Helly Hansen HH Tech Crew Camiseta Técnica Hombre Navy 2XL'
+sku: 'B07ZV2KRMW-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR

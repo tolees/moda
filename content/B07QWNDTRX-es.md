@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWNDTRX-es Under Armour Mk1 Warmup FZ Chaqueta Hombre Gris XL'
+sku: 'B07QWNDTRX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 20.85 EUR
 currency: EUR

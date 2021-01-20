@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMJ4K8Q-es find. Large Buckle Block Heel Sandal Sandalias con Punta...'
+sku: 'B07KMJ4K8Q-es'
 tags: [ 'sandalias', ]
 actualPrice: 23.62 EUR
 currency: EUR

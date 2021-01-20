@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9YFRZR-es Lacoste Sport Th3377 Camiseta Negro Noir/Enluminure 26n...'
+sku: 'B07M9YFRZR-es'
 tags: [ 'camiseta', ]
 actualPrice: 22.49 EUR
 currency: EUR

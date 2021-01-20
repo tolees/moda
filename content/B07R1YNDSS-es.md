@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1YNDSS-es Under Armour Hombre UA GL Foundation Short Sleeve tee...'
+sku: 'B07R1YNDSS-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.39 EUR
 currency: EUR

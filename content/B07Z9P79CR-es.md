@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9P79CR-es O NEILL LM 3Ple T-Shirt Camiseta Manga Corta Hombre Gris...'
+sku: 'B07Z9P79CR-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.55 EUR
 currency: EUR

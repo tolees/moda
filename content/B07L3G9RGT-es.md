@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3G9RGT-es Tommy Hilfiger Flatform Sandal Tommy Pastel Sandalias con...'
+sku: 'B07L3G9RGT-es'
 tags: [ 'sandalias', ]
 actualPrice: 27.16 EUR
 currency: EUR

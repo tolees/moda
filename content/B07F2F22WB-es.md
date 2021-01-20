@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2F22WB-es Deess IPL GP586 - Depiladora a base de luz para una piel...'
+sku: 'B07F2F22WB-es'
 tags: [ 'gafas', ]
 actualPrice: 66.48 EUR
 currency: EUR

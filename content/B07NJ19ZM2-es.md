@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ19ZM2-es Springfield 2.Zodiaco Rosa Camiseta Multicolor Multicolor...'
+sku: 'B07NJ19ZM2-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.79 EUR
 currency: EUR

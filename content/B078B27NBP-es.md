@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078B27NBP-es Under Armour Big Logo SS Ligera Camiseta Masculina cómoda...'
+sku: 'B078B27NBP-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.49 EUR
 currency: EUR

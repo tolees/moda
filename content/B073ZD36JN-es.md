@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZD36JN-es Tommy Hilfiger Core Stretch Slim Cneck tee Camiseta Gris...'
+sku: 'B073ZD36JN-es'
 tags: [ 'camiseta', ]
 actualPrice: 24.9 EUR
 currency: EUR

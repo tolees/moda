@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLXXPC-es Geox D ANNYTAH C Bailarinas para Mujer Azul Blue C4000 36...'
+sku: 'B07STLXXPC-es'
 tags: [ 'geox', ]
 actualPrice: 22.39 EUR
 currency: EUR

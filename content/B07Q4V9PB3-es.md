@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4V9PB3-es Superdry Classic University L/s Shirt Camisa Rojo Red...'
+sku: 'B07Q4V9PB3-es'
 tags: [ 'camisa', ]
 actualPrice: 11.04 EUR
 currency: EUR

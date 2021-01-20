@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXQW7WQ-es Skechers Go Walk Smart-First Class Chanclas para Mujer...'
+sku: 'B07TXQW7WQ-es'
 tags: [ 'chanclas', ]
 actualPrice: 28.96 EUR
 currency: EUR

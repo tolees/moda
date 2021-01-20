@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8WRMM-es Crocs Classic II Slide Zapatos de Playa y Piscina Unisex...'
+sku: 'B07CN8WRMM-es'
 tags: [ 'zapatos', ]
 actualPrice: 13.16 EUR
 currency: EUR

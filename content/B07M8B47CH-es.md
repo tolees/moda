@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8B47CH-es Wrangler Logo Sweat Sudadera Verde Pine G01 Medium para Mujer'
+sku: 'B07M8B47CH-es'
 tags: [ 'sudadera', ]
 actualPrice: 29.98 EUR
 currency: EUR

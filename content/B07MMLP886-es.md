@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLP886-es Napapijri Aerons Stand 2 Chaqueta Blau French Blue Bb7 XX-...'
+sku: 'B07MMLP886-es'
 tags: [ 'chaqueta', ]
 actualPrice: 53.17 EUR
 currency: EUR

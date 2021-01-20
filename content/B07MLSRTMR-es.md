@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSRTMR-es Clarks - Botines de Cuero Hombre Color Marrón Talla 45 EU'
+sku: 'B07MLSRTMR-es'
 tags: [ 'botines', ]
 actualPrice: 39.15 EUR
 currency: EUR

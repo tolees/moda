@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ27D3T-es Wrangler SS Logo tee Camiseta Azul Navy 114 Medium para...'
+sku: 'B07TZ27D3T-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.48 EUR
 currency: EUR

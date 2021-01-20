@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM5B2MK-es De Mujer con Cuello en V Profunda con Volantes Lunares...'
+sku: 'B07FM5B2MK-es'
 tags: [ 'abrigo','vestido', ]
 actualPrice: 6.19 EUR
 currency: EUR

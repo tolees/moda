@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW4S3XZ-es Hackett Aston Martin Racing Multi tee Camiseta Blanco...'
+sku: 'B07JW4S3XZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR

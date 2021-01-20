@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ2CJY3-es BILLABONG Jackson SS Camiseta Negro Black 19 One Size...'
+sku: 'B07RZ2CJY3-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.41 EUR
 currency: EUR

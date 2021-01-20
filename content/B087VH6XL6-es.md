@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087VH6XL6-es Columbia Cascade Ridge II Softshell Chaqueta Hombre Night...'
+sku: 'B087VH6XL6-es'
 tags: [ 'chaqueta', ]
 actualPrice: 50.99 EUR
 currency: EUR

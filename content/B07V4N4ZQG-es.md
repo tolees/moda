@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4N4ZQG-es Tommy Hilfiger Hilfiger Badge Beach Sandal Sandalias con...'
+sku: 'B07V4N4ZQG-es'
 tags: [ 'sandalias', ]
 actualPrice: 19.15 EUR
 currency: EUR

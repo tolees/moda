@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRHLDPJ-es YuamMei 1 Par de Guantes de Protección Completos Guantes...'
+sku: 'B07HRHLDPJ-es'
 tags: [ 'guantes', ]
 actualPrice: 15.0 EUR
 currency: EUR

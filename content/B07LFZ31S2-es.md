@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ31S2-es Geox U Nebula C Zapatillas para Hombre Negro Black C9999...'
+sku: 'B07LFZ31S2-es'
 tags: [ 'geox', ]
 actualPrice: 33.96 EUR
 currency: EUR

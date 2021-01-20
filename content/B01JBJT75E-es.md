@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JBJT75E-es Arena 1E49171 Gafas de natación Unisex Adulto Blue Talla...'
+sku: 'B01JBJT75E-es'
 tags: [ 'gafas', ]
 actualPrice: 19.96 EUR
 currency: EUR

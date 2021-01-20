@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FZHVRD-es Gafas de sol POLARIZADAS VERDSTER TourDePro Para Hombres y...'
+sku: 'B074FZHVRD-es'
 tags: [ 'gafas', ]
 actualPrice: 21.95 EUR
 currency: EUR

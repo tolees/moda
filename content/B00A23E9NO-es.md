@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A23E9NO-es Levi s 2 Pack Crew - Camiseta para Hombre Negro...'
+sku: 'B00A23E9NO-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.33 EUR
 currency: EUR

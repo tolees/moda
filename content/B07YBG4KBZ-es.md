@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBG4KBZ-es Vans Classic Camiseta Morado Heliotrope/White Ymm Large...'
+sku: 'B07YBG4KBZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSDS42Y-es JACK & JONES NOS Jjewashington Shirt L/s STS Camisa Rojo...'
+sku: 'B07VSDS42Y-es'
 tags: [ 'camisa', ]
 actualPrice: 13.61 EUR
 currency: EUR

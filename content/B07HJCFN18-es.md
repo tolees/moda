@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJCFN18-es Polaroid PLD 6062/S Gafas de sol Multicolor Havgreen 57...'
+sku: 'B07HJCFN18-es'
 tags: [ 'gafas', ]
 actualPrice: 36.81 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XTFCV6S-es Pepe Jeans Zip Thru Sudadera con Capucha para Hombre Gris...'
+sku: 'B06XTFCV6S-es'
 tags: [ 'sudadera', ]
 actualPrice: 25.53 EUR
 currency: EUR

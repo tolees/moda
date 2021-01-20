@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825NMJSH-es Quiksilver Drift Away - Camiseta para Hombre Screen tee...'
+sku: 'B0825NMJSH-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4PFN54-es Art Mainz Zapatos de Cordones Brogue Unisex Adulto Marrón...'
+sku: 'B07P4PFN54-es'
 tags: [ 'zapatos', ]
 actualPrice: 18.91 EUR
 currency: EUR

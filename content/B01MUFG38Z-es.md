@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUFG38Z-es Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta...'
+sku: 'B01MUFG38Z-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR

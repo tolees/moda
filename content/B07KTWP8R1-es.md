@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTWP8R1-es Adidas Adilette Shower - Zapatos de Playa y Piscina para...'
+sku: 'B07KTWP8R1-es'
 tags: [ 'zapatos', ]
 actualPrice: 8.01 EUR
 currency: EUR

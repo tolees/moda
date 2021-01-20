@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWBB4P7-es find. Blusa con Manga Acampanada para Mujer Marfil Ivory...'
+sku: 'B06XWBB4P7-es'
 tags: [ 'blusa', ]
 actualPrice: 8.7 EUR
 currency: EUR

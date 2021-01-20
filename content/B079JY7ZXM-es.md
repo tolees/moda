@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JY7ZXM-es YAZILIND Moda joyería Exquisita Personalidad Simple...'
+sku: 'B079JY7ZXM-es'
 tags: [ 'moda', ]
 actualPrice: 1.79 EUR
 currency: EUR

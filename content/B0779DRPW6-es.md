@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779DRPW6-es adidas Ask SPRT LST M Camiseta Sin género Negro'
+sku: 'B0779DRPW6-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.92 EUR
 currency: EUR

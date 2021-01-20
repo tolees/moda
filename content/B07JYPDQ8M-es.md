@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYPDQ8M-es Tommy Hilfiger Knitted Rain Boot Botines para Mujer Negro...'
+sku: 'B07JYPDQ8M-es'
 tags: [ 'botines', ]
 actualPrice: 40.09 EUR
 currency: EUR

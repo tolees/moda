@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNTV819-es Lee Luke Vaqueros Moto Used Zu 26W / 32L para Hombre'
+sku: 'B07VNTV819-es'
 tags: [ 'vaqueros', ]
 actualPrice: 29.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829RRCG8-es Plantillas calentadas calentadores de pies plantillas de...'
+sku: 'B0829RRCG8-es'
 tags: [ 'zapatos', ]
 actualPrice: 35.99 EUR
 currency: EUR

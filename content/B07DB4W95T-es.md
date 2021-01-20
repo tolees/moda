@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DB4W95T-es DAYNEW 5.1" de Hombre Funda de Piel Cinturón Bolso de...'
+sku: 'B07DB4W95T-es'
 tags: [ 'bolso', ]
 actualPrice: 10.99 EUR
 currency: EUR

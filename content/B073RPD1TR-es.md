@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPD1TR-es Helly Hansen HH Tech Crew Camiseta Deportiva Manga Larga...'
+sku: 'B073RPD1TR-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.09 EUR
 currency: EUR

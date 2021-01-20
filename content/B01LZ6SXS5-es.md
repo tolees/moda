@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ6SXS5-es NK GF3114 - Gafas con Visor Adaptador 3D Realidad Virtual...'
+sku: 'B01LZ6SXS5-es'
 tags: [ 'gafas', ]
 actualPrice: 23.96 EUR
 currency: EUR

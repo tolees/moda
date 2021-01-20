@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF5W75Y-es Levi s 501 Original Fit Jeans Pantalón vaquero con diseño...'
+sku: 'B07LF5W75Y-es'
 tags: [ 'pantalón', ]
 actualPrice: 40.54 EUR
 currency: EUR

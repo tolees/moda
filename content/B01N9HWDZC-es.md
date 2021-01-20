@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9HWDZC-es find. Jersey de Crochet con Hombros al Aire para Mujer...'
+sku: 'B01N9HWDZC-es'
 tags: [ 'jersey', ]
 actualPrice: 7.5 EUR
 currency: EUR

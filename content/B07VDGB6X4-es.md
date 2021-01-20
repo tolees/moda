@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDGB6X4-es Esprit 099ee1g006 Abrigo Gris Dark Grey 020 XX-Large para...'
+sku: 'B07VDGB6X4-es'
 tags: [ 'abrigo', ]
 actualPrice: 51.26 EUR
 currency: EUR

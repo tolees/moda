@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSRNJ6T-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos...'
+sku: 'B07KSRNJ6T-es'
 tags: [ 'camisa', ]
 actualPrice: 14.99 EUR
 currency: EUR

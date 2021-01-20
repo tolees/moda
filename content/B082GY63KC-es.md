@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082GY63KC-es Oihxse Cristal Case - Compatible con Samsung Galaxy A8S...'
+sku: 'B082GY63KC-es'
 tags: [ 'moda', ]
 actualPrice: 8.98 EUR
 currency: EUR

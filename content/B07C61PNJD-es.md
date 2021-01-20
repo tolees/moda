@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C61PNJD-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera Gris...'
+sku: 'B07C61PNJD-es'
 tags: [ 'camisa', ]
 actualPrice: 22.99 EUR
 currency: EUR

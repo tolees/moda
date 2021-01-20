@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCD69L4-es Columbia Inner Limits II Chaqueta Impermeable Hombre Negro...'
+sku: 'B07RCD69L4-es'
 tags: [ 'chaqueta', ]
 actualPrice: 37.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FPGEZT6-es JACK & JONES JACSENSE TRUNKS NOOS Bóxer Hombre Blanco...'
+sku: 'B00FPGEZT6-es'
 tags: [ 'bóxer', ]
 actualPrice: 5.99 EUR
 currency: EUR
@@ -26,9 +27,9 @@ Está [JACK & JONES JACSENSE TRUNKS NOOS  Bóxer Hombre  Blanco  White   Large](
 
 ℹ️:
 
-- Jack & Jones Designer Sense Boxer troncos negros todos los tamaños disponibles
-- Nuevo en paquete en color blanco.
 - 100% original.
 - Jack & Jones Sense Boxer Troncos Core
+- Jack & Jones Designer Sense Boxer troncos negros todos los tamaños disponibles
+- Nuevo en paquete en color blanco.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00FPGEZT6/?tag=tolees-21)

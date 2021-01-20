@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M29SLQ6-es adidas Tiro 17 Training Top Youth Camiseta niños Azul...'
+sku: 'B01M29SLQ6-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.75 EUR
 currency: EUR

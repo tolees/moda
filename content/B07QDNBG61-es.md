@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDNBG61-es Mexx Falda Multicolor Floral Printed 318186 36 Talla del...'
+sku: 'B07QDNBG61-es'
 tags: [ 'falda', ]
 actualPrice: 9.11 EUR
 currency: EUR

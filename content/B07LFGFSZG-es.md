@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFGFSZG-es Levi s LS Original Hm tee Camiseta Negro Black 0009 Small...'
+sku: 'B07LFGFSZG-es'
 tags: [ 'camiseta', ]
 actualPrice: 21.99 EUR
 currency: EUR

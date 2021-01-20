@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVFT719-es Gant D1. The Quilted Windcheater Chaqueta Azul Evening...'
+sku: 'B07MVFT719-es'
 tags: [ 'chaqueta', ]
 actualPrice: 125.0 EUR
 currency: EUR

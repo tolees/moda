@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AP0RXK-es Reebok Classic Nylon Zapatilla de Running Hombre Negro...'
+sku: 'B000AP0RXK-es'
 tags: [ 'zapatilla', ]
 actualPrice: 51.89 EUR
 currency: EUR

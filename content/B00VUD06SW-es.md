@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VUD06SW-es Roamers - Zapatos con Cordones para pies Anchos Hombre...'
+sku: 'B00VUD06SW-es'
 tags: [ 'zapatos', ]
 actualPrice: 50.2 EUR
 currency: EUR

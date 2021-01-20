@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNRFYP-es G-STAR RAW Graphic 16 Core Hooded Sudadera Azul Imperial...'
+sku: 'B07NDNRFYP-es'
 tags: [ 'sudadera', ]
 actualPrice: 30.08 EUR
 currency: EUR

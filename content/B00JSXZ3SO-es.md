@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JSXZ3SO-es Victoria Mercedes Lona Pañuelo Zapatos de primeros pasos...'
+sku: 'B00JSXZ3SO-es'
 tags: [ 'zapatos', ]
 actualPrice: 14.0 EUR
 currency: EUR

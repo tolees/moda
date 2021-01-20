@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD3G7HG-es Calvin Klein CK Essential Slim V Neck tee Camiseta Gris...'
+sku: 'B07VD3G7HG-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR

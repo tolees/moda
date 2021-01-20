@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGRJNNS-es Raging Bull Guantes Gimnasio Hombre Mujer calleras para...'
+sku: 'B07SGRJNNS-es'
 tags: [ 'guantes', ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DQZQ8D6-es junengSO Bolsa de Mensajero de Banda Ancha Simple Mujeres...'
+sku: 'B08DQZQ8D6-es'
 tags: [ 'bolso', ]
 actualPrice: 25.63 EUR
 currency: EUR

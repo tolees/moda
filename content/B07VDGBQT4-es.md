@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDGBQT4-es Esprit 099ee1g040 Abrigo Azul Navy 400 Small para Mujer'
+sku: 'B07VDGBQT4-es'
 tags: [ 'abrigo', ]
 actualPrice: 27.16 EUR
 currency: EUR

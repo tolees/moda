@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFLYVJV-es Victorem NBA Michael Jordan #23 Camiseta de Baloncesto...'
+sku: 'B07QFLYVJV-es'
 tags: [ 'camiseta','chaleco', ]
 actualPrice: 10.06 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLLJSV-es Napapijri Rainforest Winter 1 Chaqueta Orange Orangeade...'
+sku: 'B07MMLLJSV-es'
 tags: [ 'chaqueta', ]
 actualPrice: 58.15 EUR
 currency: EUR

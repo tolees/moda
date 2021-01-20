@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZQ8NT8-es ARTESANIA CERDA Bolso Bandolera 3D Harry Potter Unisex...'
+sku: 'B07XZQ8NT8-es'
 tags: [ 'bolso', ]
 actualPrice: 12.0 EUR
 currency: EUR

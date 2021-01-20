@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1H8FGR-es Clarks Sheer Rose Zapatos de Tacón para Mujer Multicolor...'
+sku: 'B07N1H8FGR-es'
 tags: [ 'zapatos', ]
 actualPrice: 44.95 EUR
 currency: EUR

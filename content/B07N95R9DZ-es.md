@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N95R9DZ-es BOSS Trek 4 Camiseta Blanco White 100 XX-Large para Hombre'
+sku: 'B07N95R9DZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.46 EUR
 currency: EUR

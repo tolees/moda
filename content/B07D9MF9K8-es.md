@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9MF9K8-es Tommy Hilfiger Trunk Bóxer Azul Navy Blazer 416 Medium...'
+sku: 'B07D9MF9K8-es'
 tags: [ 'bóxer', ]
 actualPrice: 11.45 EUR
 currency: EUR

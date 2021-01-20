@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075VDVWVC-es Esprit 997ee1b812 Vaqueros Straight Azul Blue Medium Wash...'
+sku: 'B075VDVWVC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 28.56 EUR
 currency: EUR

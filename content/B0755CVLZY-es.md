@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0755CVLZY-es Vicloon Organizador de Equipaje 8 en 1 Set de...'
+sku: 'B0755CVLZY-es'
 tags: [ 'zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR

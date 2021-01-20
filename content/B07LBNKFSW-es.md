@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNKFSW-es Helly Hansen Welsey II Aislado Impermeable Gabardina...'
+sku: 'B07LBNKFSW-es'
 tags: [ 'chaqueta', ]
 actualPrice: 107.47 EUR
 currency: EUR

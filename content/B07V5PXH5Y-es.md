@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5PXH5Y-es Kipling NEW ELDORADO Bolso bandolera 20 cm 1 litros...'
+sku: 'B07V5PXH5Y-es'
 tags: [ 'bolso', ]
 actualPrice: 27.5 EUR
 currency: EUR

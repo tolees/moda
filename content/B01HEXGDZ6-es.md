@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEXGDZ6-es Crocs Classic Clog K Zuecos Unisex Niños Negro Black 22/23 EU'
+sku: 'B01HEXGDZ6-es'
 tags: [ 'zuecos', ]
 actualPrice: 13.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHX1QLN-es Springfield FQ. Apuesta Animal P Camisa Multicolor...'
+sku: 'B07NHX1QLN-es'
 tags: [ 'camisa', ]
 actualPrice: 5.88 EUR
 currency: EUR

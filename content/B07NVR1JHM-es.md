@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVR1JHM-es G-STAR RAW Graphic Logo 4 Camiseta Azul Small Talla del...'
+sku: 'B07NVR1JHM-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WWQ0H1M-es Jack & Jones Jjprparma Shirt L/s Noos Camisa Weiß...'
+sku: 'B00WWQ0H1M-es'
 tags: [ 'camisa', ]
 actualPrice: 23.99 EUR
 currency: EUR

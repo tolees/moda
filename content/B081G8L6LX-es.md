@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081G8L6LX-es Mujer Zapatillas Deporte para Zapatillas de Ligeras...'
+sku: 'B081G8L6LX-es'
 tags: [ 'zapatos', ]
 actualPrice: 38.94 EUR
 currency: EUR

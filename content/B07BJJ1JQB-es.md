@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJJ1JQB-es G-STAR RAW ARC 3D Mid Waist Skinny Vaqueros Azul dk Aged...'
+sku: 'B07BJJ1JQB-es'
 tags: [ 'vaqueros', ]
 actualPrice: 27.49 EUR
 currency: EUR

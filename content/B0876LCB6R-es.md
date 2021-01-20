@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876LCB6R-es Shelfin - Camiseta de baloncesto de la NBA de Miami Heat...'
+sku: 'B0876LCB6R-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.99 EUR
 currency: EUR

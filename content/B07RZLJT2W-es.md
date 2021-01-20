@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLJT2W-es Levi s 510 Fit Vaqueros Skinny Azul Delray Pier 4/Waxy...'
+sku: 'B07RZLJT2W-es'
 tags: [ 'vaqueros', ]
 actualPrice: 38.6 EUR
 currency: EUR

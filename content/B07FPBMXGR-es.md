@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPBMXGR-es Calvin Klein Core Institutional Logo Sweatshirt Sudadera...'
+sku: 'B07FPBMXGR-es'
 tags: [ 'sudadera', ]
 actualPrice: 27.34 EUR
 currency: EUR

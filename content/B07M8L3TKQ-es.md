@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L3TKQ-es Lee Rider Jeans Vaqueros Moto Black 28W / 34L para Hombre'
+sku: 'B07M8L3TKQ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 14.92 EUR
 currency: EUR

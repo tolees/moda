@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF61ZKZ-es Levi s SS Original Hm tee Camiseta Azul Skyway 0023 Small...'
+sku: 'B07KF61ZKZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR

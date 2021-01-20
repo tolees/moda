@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H2DON6E-es Desires Jacket-Anine-A Long Chaqueta Azul XS para Mujer'
+sku: 'B01H2DON6E-es'
 tags: [ 'chaqueta', ]
 actualPrice: 15.79 EUR
 currency: EUR

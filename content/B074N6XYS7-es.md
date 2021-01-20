@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074N6XYS7-es Clarks Batcombe Hall Derby - Zapatos de Cordones para...'
+sku: 'B074N6XYS7-es'
 tags: [ 'zapatos', ]
 actualPrice: 61.03 EUR
 currency: EUR

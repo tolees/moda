@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FVQGAS8-es Oakley Line Miner Gafas Deportivas Hombre Matte Black...'
+sku: 'B01FVQGAS8-es'
 tags: [ 'gafas', ]
 actualPrice: 101.99 EUR
 currency: EUR

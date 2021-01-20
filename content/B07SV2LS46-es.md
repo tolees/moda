@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SV2LS46-es Asics Gel-Rocket 9 Zapatilla para Deportes para Hombre...'
+sku: 'B07SV2LS46-es'
 tags: [ 'zapatilla', ]
 actualPrice: 28.79 EUR
 currency: EUR

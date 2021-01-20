@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTJ7WQL-es TTYAOVO Chicas Estrella Unicornio Fancy Vestido Princesa...'
+sku: 'B07NTJ7WQL-es'
 tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR

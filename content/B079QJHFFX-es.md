@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079QJHFFX-es Levi s Graphic Camiseta Gris 84 Sportswear Logo Grey Mid...'
+sku: 'B079QJHFFX-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR

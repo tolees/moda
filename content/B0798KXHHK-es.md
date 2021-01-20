@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798KXHHK-es Pepe Jeans Thrift Pl400755cf7 Chaqueta Vaquera Azul Denim...'
+sku: 'B0798KXHHK-es'
 tags: [ 'chaqueta', ]
 actualPrice: 51.98 EUR
 currency: EUR

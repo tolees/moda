@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFMFZM-es Levi s Housemark Graphic tee Camiseta Verde Hm Ssnl Emb...'
+sku: 'B07TLFMFZM-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR

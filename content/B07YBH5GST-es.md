@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBH5GST-es Vans Colorblock tee Camiseta Multicolor Sulphur...'
+sku: 'B07YBH5GST-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR

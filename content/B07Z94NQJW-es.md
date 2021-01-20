@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z94NQJW-es PITTMAN Hombre Pantalones de Chándal Cargo Deportivo Bruno...'
+sku: 'B07Z94NQJW-es'
 tags: [ 'pantalón', ]
 actualPrice: 34.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R2BZVSS-es CARE OF by PUMA Chaqueta Hombre Gris Grey Silver S Label: S'
+sku: 'B07R2BZVSS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 18.28 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQQVCTQ-es SALOMON Drifter Mid Hoodie W Chaqueta Reversible con...'
+sku: 'B07KQQVCTQ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 66.79 EUR
 currency: EUR

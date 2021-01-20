@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTYD5LN-es Lee Rider Jacket Chaqueta de Jean Azul Oakwood Light XA...'
+sku: 'B07VTYD5LN-es'
 tags: [ 'chaqueta', ]
 actualPrice: 40.99 EUR
 currency: EUR

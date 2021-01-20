@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JHBJL-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Beige...'
+sku: 'B07N1JHBJL-es'
 tags: [ 'zapatos', ]
 actualPrice: 34.7 EUR
 currency: EUR

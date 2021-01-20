@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTYU22O-es Timberland Adventure 2.0 Cupsole Zapatillas Altas para...'
+sku: 'B01MTYU22O-es'
 tags: [ 'timberland', ]
 actualPrice: 90.0 EUR
 currency: EUR

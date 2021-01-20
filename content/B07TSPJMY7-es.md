@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSPJMY7-es Women s Secret Generic Funny GD Cactixmas PJ Conjuntos de...'
+sku: 'B07TSPJMY7-es'
 tags: [ 'pijama', ]
 actualPrice: 14.83 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5TNYXH-es Celio Maestro Camisa Blanc Large para Hombre'
+sku: 'B07D5TNYXH-es'
 tags: [ 'camisa', ]
 actualPrice: 15 EUR
 currency: EUR

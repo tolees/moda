@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNZHV7S-es Lacoste Ch9623 Camisa Gris Nimbus/Nimbus 7fp X-Small Talla...'
+sku: 'B07MNZHV7S-es'
 tags: [ 'camisa', ]
 actualPrice: 46.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTF06PS-es Lupa con Luz Led - Rightwell Gafas Lupa de Aumento con Luz...'
+sku: 'B01GTF06PS-es'
 tags: [ 'gafas', ]
 actualPrice: 17.97 EUR
 currency: EUR

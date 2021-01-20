@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2QTL25-es Vans Left Chest Logo tee Camiseta para Hombre Rojo Jazzy-...'
+sku: 'B07F2QTL25-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR

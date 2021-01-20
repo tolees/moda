@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N17P8QL-es Lee V Neck tee Camiseta Azul Midnight Navy Ma X-Large para...'
+sku: 'B07N17P8QL-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.49 EUR
 currency: EUR

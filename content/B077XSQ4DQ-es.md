@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XSQ4DQ-es Under Armour Sc30 MVP - Sudadera con Capucha y Cremallera...'
+sku: 'B077XSQ4DQ-es'
 tags: [ 'sudadera', ]
 actualPrice: 34.61 EUR
 currency: EUR

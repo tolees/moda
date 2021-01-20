@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKYKH3V-es BaZhaHei SúPer Fuego Nacional Viento Cadena PortáTil...'
+sku: 'B07QKYKH3V-es'
 tags: [ 'bolso', ]
 actualPrice: 1.29 EUR
 currency: EUR

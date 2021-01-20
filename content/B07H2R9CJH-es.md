@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2R9CJH-es Riñonera Deportiva Bolso Cintura Cinturón de Correr con...'
+sku: 'B07H2R9CJH-es'
 tags: [ 'bolso', ]
 actualPrice: 12.99 EUR
 currency: EUR

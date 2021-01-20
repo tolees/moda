@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HV6MH2-es BENNALD Short Deportivo Hombre Pantalones Cortos Deporte...'
+sku: 'B083HV6MH2-es'
 tags: [ 'pantalón', ]
 actualPrice: 14.59 EUR
 currency: EUR

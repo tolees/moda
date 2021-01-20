@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RT2QWQ-es Pepe Jeans Keith Chaqueta Negro Black 999 S para Hombre'
+sku: 'B079RT2QWQ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 209.48 EUR
 currency: EUR

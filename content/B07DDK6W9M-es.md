@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDK6W9M-es Marca Amazon - find. Rose Print Sudadera Mujer Multicolor...'
+sku: 'B07DDK6W9M-es'
 tags: [ 'sudadera','-','find.', ]
 actualPrice: 9.46 EUR
 currency: EUR

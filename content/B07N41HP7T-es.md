@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N41HP7T-es Desigual Coat Land Abrigo Amarillo Solar Power 8067 44...'
+sku: 'B07N41HP7T-es'
 tags: [ 'abrigo', ]
 actualPrice: 59.93 EUR
 currency: EUR

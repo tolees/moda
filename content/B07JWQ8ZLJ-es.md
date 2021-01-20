@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWQ8ZLJ-es Pepe Jeans Sealey Pm581633 Sudadera Sherwood 664 XX-Large...'
+sku: 'B07JWQ8ZLJ-es'
 tags: [ 'sudadera', ]
 actualPrice: 46.49 EUR
 currency: EUR

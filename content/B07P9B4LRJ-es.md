@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9B4LRJ-es ziitop Aqua Shoes Escarpines Hombres Mujer Niños Zapatos...'
+sku: 'B07P9B4LRJ-es'
 tags: [ 'zapatos', ]
 actualPrice: 18.99 EUR
 currency: EUR

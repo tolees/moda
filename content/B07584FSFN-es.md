@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07584FSFN-es find. Vaqueros Skinny con Rotos Hombre Azul Mid Blue Wash...'
+sku: 'B07584FSFN-es'
 tags: [ 'vaqueros', ]
 actualPrice: 17.85 EUR
 currency: EUR

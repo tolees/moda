@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJW8HK-es Geox U Snake.2 A Zapatillas para Hombre Gris Grey/Lt Grey...'
+sku: 'B07SSJW8HK-es'
 tags: [ 'geox', ]
 actualPrice: 56.14 EUR
 currency: EUR

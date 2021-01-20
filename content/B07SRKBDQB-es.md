@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRKBDQB-es Geox D Myria B Zapatillas Altas para Mujer Blanco...'
+sku: 'B07SRKBDQB-es'
 tags: [ 'geox', ]
 actualPrice: 50.48 EUR
 currency: EUR

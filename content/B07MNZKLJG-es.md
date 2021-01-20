@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNZKLJG-es Lacoste Th8550 Camiseta Azul Marine 166 X-Small Talla del...'
+sku: 'B07MNZKLJG-es'
 tags: [ 'camiseta', ]
 actualPrice: 31.01 EUR
 currency: EUR

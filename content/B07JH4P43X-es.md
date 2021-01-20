@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH4P43X-es Pepe Jeans Venus Pl200029 Vaqueros Straight Grey Wiser...'
+sku: 'B07JH4P43X-es'
 tags: [ 'vaqueros', ]
 actualPrice: 32.95 EUR
 currency: EUR

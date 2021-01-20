@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQL5NT-es Pepe Jeans Kenth Camiseta Coal 992 Small para Hombre'
+sku: 'B07MZQL5NT-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0789GBR2B-es Levi s The Perfect Tee Camiseta Mujer Gris Sportswear Logo...'
+sku: 'B0789GBR2B-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.49 EUR
 currency: EUR

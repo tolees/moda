@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPSWZN8-es Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de...'
+sku: 'B07NPSWZN8-es'
 tags: [ 'chaleco','chaqueta', ]
 actualPrice: 9.99 EUR
 currency: EUR

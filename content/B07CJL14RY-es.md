@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJL14RY-es Only Onlkendell Reg SK ANK JNS Cre178067 Noos Vaqueros...'
+sku: 'B07CJL14RY-es'
 tags: [ 'vaqueros', ]
 actualPrice: 27.99 EUR
 currency: EUR

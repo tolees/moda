@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082JD6SD8-es Jack & Jones Jcobernda Sweat Crew Neck Ka Sudadera Capitán...'
+sku: 'B082JD6SD8-es'
 tags: [ 'sudadera', ]
 actualPrice: 10.1 EUR
 currency: EUR

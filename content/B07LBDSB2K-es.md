@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBDSB2K-es URAQT Disfraz de Princesa Frozen Elsa Traje del Vestido...'
+sku: 'B07LBDSB2K-es'
 tags: [ 'vestido', ]
 actualPrice: 20.99 EUR
 currency: EUR

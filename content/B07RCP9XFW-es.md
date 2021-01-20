@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCP9XFW-es Columbia Lake 22 Chaqueta de Plumas para Mujer Negro M'
+sku: 'B07RCP9XFW-es'
 tags: [ 'chaqueta', ]
 actualPrice: 74.99 EUR
 currency: EUR

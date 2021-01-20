@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHV7XB9-es G-Star Sp15505 Sweat Sudadera Verde Kaki Green 56 8 años...'
+sku: 'B07SHV7XB9-es'
 tags: [ 'sudadera', ]
 actualPrice: 7.35 EUR
 currency: EUR

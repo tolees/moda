@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CSN5DZ4-es Columbia Fast Trek II Chaqueta Polar para Mujer Color: Sea...'
+sku: 'B00CSN5DZ4-es'
 tags: [ 'chaqueta', ]
 actualPrice: 20 EUR
 currency: EUR

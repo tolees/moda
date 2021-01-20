@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCZDR4A-es ValueHall Crampones universales 18 dientes acero hielo...'
+sku: 'B01MCZDR4A-es'
 tags: [ 'zapatos', ]
 actualPrice: 15.99 EUR
 currency: EUR

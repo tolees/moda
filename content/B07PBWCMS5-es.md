@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBWCMS5-es find. Vaqueros Ceñidos de Tiro Medio Mujer Blanco White...'
+sku: 'B07PBWCMS5-es'
 tags: [ 'vaqueros', ]
 actualPrice: 21.0 EUR
 currency: EUR

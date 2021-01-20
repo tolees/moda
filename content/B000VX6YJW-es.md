@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VX6YJW-es Timberland 6-Inch Premium Boot Botas para Hombre Amarillo...'
+sku: 'B000VX6YJW-es'
 tags: [ 'timberland', ]
 actualPrice: 148.38 EUR
 currency: EUR

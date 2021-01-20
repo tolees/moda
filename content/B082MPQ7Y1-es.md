@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MPQ7Y1-es Geographical Norway Chaqueta Mujer Abby Negro 01'
+sku: 'B082MPQ7Y1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 99.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XNCFKL-es Under Armour Armour Fleece Full Zip Sudadera con Capucha...'
+sku: 'B077XNCFKL-es'
 tags: [ 'sudadera', ]
 actualPrice: 34.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S31NSK3-es Columbia Vapor Vent Zapatos para Hombre Azul Pool/Red...'
+sku: 'B07S31NSK3-es'
 tags: [ 'zapatos', ]
 actualPrice: 51.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XBNK11-es Under Armour UA Challenger II Pantalones para Hombre...'
+sku: 'B077XBNK11-es'
 tags: [ 'pantalón', ]
 actualPrice: 22.99 EUR
 currency: EUR

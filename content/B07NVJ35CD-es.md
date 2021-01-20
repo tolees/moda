@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVJ35CD-es Zapatos de Playa y Piscina para Niña Niño Chanclas 2019...'
+sku: 'B07NVJ35CD-es'
 tags: [ 'chanclas','sandalias','zapatos', ]
 actualPrice: 14.36 EUR
 currency: EUR

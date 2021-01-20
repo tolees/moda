@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ31RN-es Geox U Timothy B Zapatos de Cordones Derby para Hombre...'
+sku: 'B07LFZ31RN-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 63.4 EUR
 currency: EUR

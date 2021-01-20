@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXJJTKF-es G-STAR RAW LUGE Knotted Camiseta Beige Milk B906/111...'
+sku: 'B07KXJJTKF-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.22 EUR
 currency: EUR

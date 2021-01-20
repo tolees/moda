@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWKMVD3-es QUEEN ROSE Almohada de Embarazo con Funda de Jersey...'
+sku: 'B07TWKMVD3-es'
 tags: [ 'jersey', ]
 actualPrice: 38.39 EUR
 currency: EUR

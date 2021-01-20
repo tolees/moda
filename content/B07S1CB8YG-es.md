@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1CB8YG-es New Look Tasmim Texture Chaqueta de Traje Beige Stone 16...'
+sku: 'B07S1CB8YG-es'
 tags: [ 'chaqueta', ]
 actualPrice: 7 EUR
 currency: EUR

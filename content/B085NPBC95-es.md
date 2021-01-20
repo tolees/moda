@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NPBC95-es 7 PCS Organizadores de Viaje para Maletas Bolsas de...'
+sku: 'B085NPBC95-es'
 tags: [ 'zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR

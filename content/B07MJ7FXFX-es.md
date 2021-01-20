@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ7FXFX-es Clarks Cotrell Stride Zapatos de Cordones Derby para...'
+sku: 'B07MJ7FXFX-es'
 tags: [ 'zapatos', ]
 actualPrice: 27.15 EUR
 currency: EUR

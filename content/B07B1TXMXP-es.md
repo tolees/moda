@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B1TXMXP-es Fruit of the Loom- Camiseta de Manga Corta Sofspun para...'
+sku: 'B07B1TXMXP-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.95 EUR
 currency: EUR

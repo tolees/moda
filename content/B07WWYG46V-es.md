@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWYG46V-es Dickies Horseshoe tee Men Camiseta Verde Mint MIN Large...'
+sku: 'B07WWYG46V-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.9 EUR
 currency: EUR

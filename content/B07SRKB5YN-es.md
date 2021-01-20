@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRKB5YN-es Geox D LEELU E Zapatillas para Mujer Negro Black C9999 40 EU'
+sku: 'B07SRKB5YN-es'
 tags: [ 'geox', ]
 actualPrice: 34.36 EUR
 currency: EUR

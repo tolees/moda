@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRN6FF-es Geox D New ANNYA Mid A Zapatos de Tacón para Mujer Negro...'
+sku: 'B07LFRN6FF-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 35.48 EUR
 currency: EUR

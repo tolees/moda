@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHYHL7D-es Mishansha Hombre Mujer Botas de Nieve Invierno Botines...'
+sku: 'B07VHYHL7D-es'
 tags: [ 'botines','zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR

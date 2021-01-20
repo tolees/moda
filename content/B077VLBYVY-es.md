@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VLBYVY-es Levi s 502 Regular Taper Vaqueros Azul Franklin LTWT Warp...'
+sku: 'B077VLBYVY-es'
 tags: [ 'vaqueros', ]
 actualPrice: 49.9 EUR
 currency: EUR

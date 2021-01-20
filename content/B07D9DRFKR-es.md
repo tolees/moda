@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9DRFKR-es Levi s 501 Original Fit Vaqueros Sponge St 33W / 34L para...'
+sku: 'B07D9DRFKR-es'
 tags: [ 'vaqueros', ]
 actualPrice: 29.99 EUR
 currency: EUR

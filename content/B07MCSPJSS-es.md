@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPJSS-es Napapijri ABERDAR WOM Chaqueta Azul BLU Marine 176 XL para...'
+sku: 'B07MCSPJSS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 74.4 EUR
 currency: EUR

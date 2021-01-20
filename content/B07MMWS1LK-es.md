@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWS1LK-es Wrangler Texas Contrast Vaqueros Azul Stay Warm 54s 32 W/...'
+sku: 'B07MMWS1LK-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.98 EUR
 currency: EUR

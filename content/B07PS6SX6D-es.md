@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS6SX6D-es Under Armour UA Knockout Tank Camiseta de Tirantes...'
+sku: 'B07PS6SX6D-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3BH1R5-es INSTINNCT Monokini Bikini Mujer Push-up Acolchado Bra...'
+sku: 'B07V3BH1R5-es'
 tags: [ 'bikini', ]
 actualPrice: 14.99 EUR
 currency: EUR

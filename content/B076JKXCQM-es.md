@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JKXCQM-es Hollywood Star - Camiseta de Manga Larga Lisa con Cuello...'
+sku: 'B076JKXCQM-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.99 EUR
 currency: EUR

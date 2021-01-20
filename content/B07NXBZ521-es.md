@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXBZ521-es Superdry Premium Goods Puff Entry tee Camiseta de Tirantes...'
+sku: 'B07NXBZ521-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR

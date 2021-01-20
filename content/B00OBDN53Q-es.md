@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OBDN53Q-es adidas Lange Trainingshose Core 15 Pantalón Hombre Negro XXL'
+sku: 'B00OBDN53Q-es'
 tags: [ 'pantalón', ]
 actualPrice: 10.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B63GBH7-es Reloj de Cuarzo Deportivo Casual de Moda para Hombres y...'
+sku: 'B08B63GBH7-es'
 tags: [ 'moda', ]
 actualPrice: 1.03 EUR
 currency: EUR

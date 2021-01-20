@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08527BFMD-es Haioo Mochilas Escolares 5 en 1 con Dibujo de Nube para...'
+sku: 'B08527BFMD-es'
 tags: [ 'bolso','monedero', ]
 actualPrice: 11.99 EUR
 currency: EUR

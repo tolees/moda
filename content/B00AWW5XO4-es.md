@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AWW5XO4-es Gildan Soft Style L Camiseta para Hombre Blanco White Small'
+sku: 'B00AWW5XO4-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.2 EUR
 currency: EUR

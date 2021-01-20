@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPZR8Z-es Helly Hansen W HH Tech T-Shirt Camiseta Mujer White M'
+sku: 'B073RPZR8Z-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.49 EUR
 currency: EUR

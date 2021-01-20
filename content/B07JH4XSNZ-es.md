@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH4XSNZ-es Pepe Jeans Duff LS Pm506549 Camiseta Sailor 580 XX-Large...'
+sku: 'B07JH4XSNZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.74 EUR
 currency: EUR

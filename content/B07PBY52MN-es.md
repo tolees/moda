@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBY52MN-es DANISH ENDURANCE Calzoncillos Bóxer de Deporte Pack de 3...'
+sku: 'B07PBY52MN-es'
 tags: [ 'bóxer', ]
 actualPrice: 16.95 EUR
 currency: EUR

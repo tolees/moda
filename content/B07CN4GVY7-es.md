@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN4GVY7-es Crocs Baya Clog Zuecos Unisex Niños Azul Ice Blue 4o9...'
+sku: 'B07CN4GVY7-es'
 tags: [ 'zuecos', ]
 actualPrice: 20.23 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQDGRP4-es Relojes para Hombre Acero Inoxidable Impermeable Reloj...'
+sku: 'B07FQDGRP4-es'
 tags: [ 'vestido', ]
 actualPrice: 32.99 EUR
 currency: EUR

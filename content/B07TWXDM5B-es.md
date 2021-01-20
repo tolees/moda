@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXDM5B-es Women s Secret Multilicense College MC WR B-Star PJ...'
+sku: 'B07TWXDM5B-es'
 tags: [ 'pijama', ]
 actualPrice: 16.74 EUR
 currency: EUR

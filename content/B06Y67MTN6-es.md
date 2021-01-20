@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y67MTN6-es Lois - Bolso Bandolera de Mujer Extensible. Doble Asa...'
+sku: 'B06Y67MTN6-es'
 tags: [ 'bolso', ]
 actualPrice: 29.85 EUR
 currency: EUR

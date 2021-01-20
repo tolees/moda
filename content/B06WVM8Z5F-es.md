@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVM8Z5F-es Tommy Hilfiger Bikini con Inserción de Malla Braguitas con...'
+sku: 'B06WVM8Z5F-es'
 tags: [ 'bikini', ]
 actualPrice: 12.99 EUR
 currency: EUR

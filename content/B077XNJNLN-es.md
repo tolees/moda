@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XNJNLN-es Under Armour Rival Fleece Logo Sudadera con Capucha para...'
+sku: 'B077XNJNLN-es'
 tags: [ 'sudadera', ]
 actualPrice: 33.99 EUR
 currency: EUR

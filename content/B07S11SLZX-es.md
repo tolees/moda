@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S11SLZX-es Only Frsfloyd Training Brushed Sweat-Unit Sudadera...'
+sku: 'B07S11SLZX-es'
 tags: [ 'sudadera', ]
 actualPrice: 9.57 EUR
 currency: EUR

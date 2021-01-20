@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFNH4S1-es XIANGUO Guantes Invierno Ciclismo Guantes Pantalla Tactil...'
+sku: 'B07ZFNH4S1-es'
 tags: [ 'guantes', ]
 actualPrice: 15.89 EUR
 currency: EUR

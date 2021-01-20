@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5GTEGH-es Lacoste TH6712 Camiseta Azul Marine Small Talla del...'
+sku: 'B01M5GTEGH-es'
 tags: [ 'camiseta', ]
 actualPrice: 25.77 EUR
 currency: EUR

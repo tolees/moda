@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ6ZKWC-es Vila Clothes 14053555 Chaqueta Punto Turquesa Oil Blue Oil...'
+sku: 'B07TJ6ZKWC-es'
 tags: [ 'chaqueta', ]
 actualPrice: 7.88 EUR
 currency: EUR

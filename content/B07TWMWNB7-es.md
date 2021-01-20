@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWMWNB7-es Skechers D lites 2.0 - Mega Summer Sandalias de Talón...'
+sku: 'B07TWMWNB7-es'
 tags: [ 'sandalias', ]
 actualPrice: 24.21 EUR
 currency: EUR

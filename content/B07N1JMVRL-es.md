@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JMVRL-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Negro Black...'
+sku: 'B07N1JMVRL-es'
 tags: [ 'zapatos', ]
 actualPrice: 31.07 EUR
 currency: EUR

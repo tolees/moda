@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHDBPWY-es CIVO Relojes Mujeres Oro Rosa Impermeable de Acero...'
+sku: 'B07WHDBPWY-es'
 tags: [ 'vestido', ]
 actualPrice: 26.99 EUR
 currency: EUR

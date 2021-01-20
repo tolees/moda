@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZLTQHT-es Tommy Hilfiger U Pop Over Chaqueta Naranja Russet Orange...'
+sku: 'B07JZLTQHT-es'
 tags: [ 'chaqueta', ]
 actualPrice: 13.57 EUR
 currency: EUR

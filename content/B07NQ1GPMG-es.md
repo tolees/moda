@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ1GPMG-es Marca Amazon - MERAKI Shorts de Lino Mujer Marfil Ecru 40...'
+sku: 'B07NQ1GPMG-es'
 tags: [ 'meraki', ]
 actualPrice: 7.87 EUR
 currency: EUR

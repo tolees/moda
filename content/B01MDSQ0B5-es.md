@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDSQ0B5-es Pepe Jeans New Brooke Vaqueros Azul 10Oz Str 8Dip Royal Dk...'
+sku: 'B01MDSQ0B5-es'
 tags: [ 'vaqueros', ]
 actualPrice: 33.99 EUR
 currency: EUR

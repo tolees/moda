@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKBZCSK-es UNISA Loreal Zapatos de tacón Mujeres Rojo - 38 - Zapatos...'
+sku: 'B07WKBZCSK-es'
 tags: [ 'zapatos', ]
 actualPrice: 54.95 EUR
 currency: EUR

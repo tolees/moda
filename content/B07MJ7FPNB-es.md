@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ7FPNB-es Clarks Ronnie Walk Zapatos de Cordones Derby para Hombre...'
+sku: 'B07MJ7FPNB-es'
 tags: [ 'zapatos', ]
 actualPrice: 37.62 EUR
 currency: EUR

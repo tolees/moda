@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CR5MP5N-es Cartera Legado Horizontal con Bandera Billetera Tarjetero...'
+sku: 'B07CR5MP5N-es'
 tags: [ 'billetera','monedero', ]
 actualPrice: 23.99 EUR
 currency: EUR

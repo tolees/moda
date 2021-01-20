@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLN2DV-es Napapijri Serber LS Camiseta Negro Black 041 S para Hombre'
+sku: 'B07MMLN2DV-es'
 tags: [ 'camiseta', ]
 actualPrice: 39.31 EUR
 currency: EUR

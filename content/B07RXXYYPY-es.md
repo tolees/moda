@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXXYYPY-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Gris Grey Wiser...'
+sku: 'B07RXXYYPY-es'
 tags: [ 'vaqueros', ]
 actualPrice: 48.02 EUR
 currency: EUR

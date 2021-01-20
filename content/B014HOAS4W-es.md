@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014HOAS4W-es BLEND 701711 Vaqueros Black/ 70155 28 para Hombre'
+sku: 'B014HOAS4W-es'
 tags: [ 'vaqueros', ]
 actualPrice: 22.52 EUR
 currency: EUR

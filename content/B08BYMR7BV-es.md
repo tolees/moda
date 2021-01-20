@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYMR7BV-es Pantalones Deportivos para Mujer para Yoga Running Fitness...'
+sku: 'B08BYMR7BV-es'
 tags: [ 'pijama', ]
 actualPrice: 17.99 EUR
 currency: EUR

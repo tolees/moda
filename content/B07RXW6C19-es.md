@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXW6C19-es DoGeek Zapato Seguridad para el Verano Zapatos Trabajo con...'
+sku: 'B07RXW6C19-es'
 tags: [ 'zapatos', ]
 actualPrice: 37.99 EUR
 currency: EUR

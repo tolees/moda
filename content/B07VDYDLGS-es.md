@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDYDLGS-es Fruit of the Loom - Camiseta básica de Manga Corta para...'
+sku: 'B07VDYDLGS-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.45 EUR
 currency: EUR

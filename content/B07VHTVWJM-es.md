@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHTVWJM-es Desigual Vest Cuautitlá Vestido Blanco Blanco 1000 4 años...'
+sku: 'B07VHTVWJM-es'
 tags: [ 'vestido', ]
 actualPrice: 15.22 EUR
 currency: EUR

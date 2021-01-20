@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXKU88C-es Trango Sieber Complet Chaqueta Hombre Rojo Rojo Fuego 2XL'
+sku: 'B01LXKU88C-es'
 tags: [ 'chaqueta', ]
 actualPrice: 178.49 EUR
 currency: EUR

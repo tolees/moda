@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPPZT-es Napapijri BIBU H Sudadera con Capucha Azul French Blue BB7...'
+sku: 'B07MCSPPZT-es'
 tags: [ 'sudadera', ]
 actualPrice: 39.6 EUR
 currency: EUR

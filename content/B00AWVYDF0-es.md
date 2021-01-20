@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AWVYDF0-es Gildan - Camiseta básica de manga corta Unisex Estilosa...'
+sku: 'B00AWVYDF0-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.45 EUR
 currency: EUR

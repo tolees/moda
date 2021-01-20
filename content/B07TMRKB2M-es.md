@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMRKB2M-es Clarks Un Karely Sun Sandalias de Talón Abierto para Mujer...'
+sku: 'B07TMRKB2M-es'
 tags: [ 'sandalias', ]
 actualPrice: 49.5 EUR
 currency: EUR

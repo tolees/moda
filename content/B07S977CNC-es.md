@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S977CNC-es Crocs Classic II Flip Chanclas Unisex Adulto Azul Navy 410...'
+sku: 'B07S977CNC-es'
 tags: [ 'chanclas', ]
 actualPrice: 7.5 EUR
 currency: EUR

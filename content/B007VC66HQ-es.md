@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VC66HQ-es Timberland Classic 2 Eye Náuticos para Hombre Marrón MD...'
+sku: 'B007VC66HQ-es'
 tags: [ 'timberland', ]
 actualPrice: 112.0 EUR
 currency: EUR

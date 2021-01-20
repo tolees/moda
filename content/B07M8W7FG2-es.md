@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8W7FG2-es Wrangler Sherpa Jacket Corduroy Chaqueta Marrón Russet...'
+sku: 'B07M8W7FG2-es'
 tags: [ 'chaqueta', ]
 actualPrice: 77.97 EUR
 currency: EUR

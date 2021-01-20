@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXWLGDJ-es Kipling Izellah Bolso con Bandolera para Mujer Blanco...'
+sku: 'B07TXWLGDJ-es'
 tags: [ 'bolso', ]
 actualPrice: 56.77 EUR
 currency: EUR

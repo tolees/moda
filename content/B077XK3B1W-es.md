@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XK3B1W-es Under Armour TAC Crew Base Camiseta Hombre Negro...'
+sku: 'B077XK3B1W-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.99 EUR
 currency: EUR

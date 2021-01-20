@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9HVS8G-es Under Armour Armour Insulated Hooded Chaqueta Hombre Azul MD'
+sku: 'B07L9HVS8G-es'
 tags: [ 'chaqueta', ]
 actualPrice: 69.91 EUR
 currency: EUR

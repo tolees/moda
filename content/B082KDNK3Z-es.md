@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KDNK3Z-es Calentador de Cera Profesional Nivlan Calentador de Cera...'
+sku: 'B082KDNK3Z-es'
 tags: [ 'bikini', ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y84WCF-es HIKARO Sudadera con Capucha Hombre Azul Denim 50 Talla del...'
+sku: 'B077Y84WCF-es'
 tags: [ 'sudadera', ]
 actualPrice: 17.97 EUR
 currency: EUR

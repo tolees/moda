@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJCSG5C-es Springfield INT.R.Real Down Tecnico Chaqueta Azul Azul 19...'
+sku: 'B07NJCSG5C-es'
 tags: [ 'chaqueta', ]
 actualPrice: 23.12 EUR
 currency: EUR

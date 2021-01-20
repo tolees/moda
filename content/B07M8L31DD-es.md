@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L31DD-es Lee Scarlett Cropped Vaqueros skinny Azul Clean Say Jj...'
+sku: 'B07M8L31DD-es'
 tags: [ 'vaqueros', ]
 actualPrice: 16.81 EUR
 currency: EUR

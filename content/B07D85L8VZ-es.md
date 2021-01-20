@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D85L8VZ-es Dickies Belspring Chaqueta Marrón Medium Talla del...'
+sku: 'B07D85L8VZ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 37.9 EUR
 currency: EUR

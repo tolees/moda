@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKWLWR5-es Nike M Breathe Academy SS Gx2 Camiseta Hombre Amarillo...'
+sku: 'B07KKWLWR5-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.15 EUR
 currency: EUR

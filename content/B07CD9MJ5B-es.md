@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CD9MJ5B-es REPLAY M3591 .000.2660 Camiseta Blanco White 1 Large para...'
+sku: 'B07CD9MJ5B-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR

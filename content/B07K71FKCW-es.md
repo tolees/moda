@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K71FKCW-es Levi s On Tour Camiseta Deportiva de Tirantes Negro Red...'
+sku: 'B07K71FKCW-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR

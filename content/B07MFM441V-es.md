@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFM441V-es Clarks Grandin Plain Zapatos de Cordones Derby para Hombre...'
+sku: 'B07MFM441V-es'
 tags: [ 'zapatos', ]
 actualPrice: 57.46 EUR
 currency: EUR

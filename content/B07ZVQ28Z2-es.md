@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVQ28Z2-es Levi s The tee Camiseta Logotipo de la Serie Sepia Rose...'
+sku: 'B07ZVQ28Z2-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFL40MC-es Under Armour Heatgear Armour 2.0 Comp Shorts Pantalón...'
+sku: 'B01FFL40MC-es'
 tags: [ 'pantalón', ]
 actualPrice: 14.49 EUR
 currency: EUR

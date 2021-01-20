@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078LDB9QG-es Tommy Jeans Original Ryan Vaqueros Straight para Hombre...'
+sku: 'B078LDB9QG-es'
 tags: [ 'vaqueros', ]
 actualPrice: 56.28 EUR
 currency: EUR

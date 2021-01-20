@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FHT3Y60-es MaxMuxun Sandalias de Vestir Moderna Azul Cotidiana...'
+sku: 'B01FHT3Y60-es'
 tags: [ 'sandalias', ]
 actualPrice: 24.5 EUR
 currency: EUR

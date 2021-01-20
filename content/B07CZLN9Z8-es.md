@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZLN9Z8-es Under Armour UA Qualifier Shortsleeve Camiseta Hombre...'
+sku: 'B07CZLN9Z8-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.42 EUR
 currency: EUR

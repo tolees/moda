@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDBJPMR-es G-STAR RAW Revend Skinny Vaqueros Lt Indigo Aged 8968-8436...'
+sku: 'B07MDBJPMR-es'
 tags: [ 'vaqueros', ]
 actualPrice: 64.99 EUR
 currency: EUR

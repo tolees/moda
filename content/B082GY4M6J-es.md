@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082GY4M6J-es Oihxse Cristal Case - Compatible con Samsung Galaxy A8...'
+sku: 'B082GY4M6J-es'
 tags: [ 'moda', ]
 actualPrice: 8.98 EUR
 currency: EUR

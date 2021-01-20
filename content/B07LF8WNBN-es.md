@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF8WNBN-es Levi s Coit Down Puffer Chaqueta Marrón Cabernet 0000 XX-...'
+sku: 'B07LF8WNBN-es'
 tags: [ 'chaqueta', ]
 actualPrice: 59.2 EUR
 currency: EUR

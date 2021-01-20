@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ6YT7-es Lee Scarlett High Vaqueros Verde Agave Green MW 29W/31L...'
+sku: 'B07TSQ6YT7-es'
 tags: [ 'vaqueros', ]
 actualPrice: 41.46 EUR
 currency: EUR

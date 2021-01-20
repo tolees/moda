@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5DLN38-es Dannto Zapatos luminosos de 7 colores con luz led para...'
+sku: 'B07H5DLN38-es'
 tags: [ 'zapatos', ]
 actualPrice: 31.19 EUR
 currency: EUR

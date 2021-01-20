@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079G3V7ZZ-es Under Armour Sportstyle Pantalones para Hombre de algodón...'
+sku: 'B079G3V7ZZ-es'
 tags: [ 'pantalón', ]
 actualPrice: 17.99 EUR
 currency: EUR

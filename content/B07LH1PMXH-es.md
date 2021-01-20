@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH1PMXH-es The North Face Ambition S/S Camiseta de Manga Corta Hombre...'
+sku: 'B07LH1PMXH-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.45 EUR
 currency: EUR

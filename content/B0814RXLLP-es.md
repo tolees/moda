@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814RXLLP-es Under Armour Global Football Tag Camisa Manga Corta Hombre...'
+sku: 'B0814RXLLP-es'
 tags: [ 'camisa', ]
 actualPrice: 15.49 EUR
 currency: EUR

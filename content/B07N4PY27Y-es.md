@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4PY27Y-es SAGUARO Hombre Mujer Barefoot Zapatillas de Trail Running...'
+sku: 'B07N4PY27Y-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.04 EUR
 currency: EUR

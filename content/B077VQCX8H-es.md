@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VQCX8H-es Levi s The Perfect Tee Camiseta Mujer Gris Pattern...'
+sku: 'B077VQCX8H-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.49 EUR
 currency: EUR

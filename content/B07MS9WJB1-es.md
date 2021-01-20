@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MS9WJB1-es TWBB Sudadera para Hombre Abrigo de la Chaqueta de la...'
+sku: 'B07MS9WJB1-es'
 tags: [ 'abrigo','chaqueta','sudadera', ]
 actualPrice: 1.78 EUR
 currency: EUR

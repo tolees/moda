@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZCCZP-es G-STAR RAW 3301 Slim Vaqueros Rinsed B780-082 31W / 38L...'
+sku: 'B07RCZCCZP-es'
 tags: [ 'vaqueros', ]
 actualPrice: 27.73 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPYPWT1-es Ever-Pretty Vestido de Boda Encaje Gasa Cuello Redondo...'
+sku: 'B07KPYPWT1-es'
 tags: [ 'vestido', ]
 actualPrice: 68.99 EUR
 currency: EUR

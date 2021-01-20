@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLZPPDG-es Calvin Klein Ckj 016 Vaqueros Skinny Azul Copenhagen Grey...'
+sku: 'B07TLZPPDG-es'
 tags: [ 'vaqueros', ]
 actualPrice: 33.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6GRSWD-es FOSTAK Mochila Femenina maletín Bolsa de Viaje Bolso...'
+sku: 'B07H6GRSWD-es'
 tags: [ 'bolso', ]
 actualPrice: 6.54 EUR
 currency: EUR

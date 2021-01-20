@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H9DBWUS-es VAUDE 50393005500 Abrigo y Chaqueta - Abrigos y Chaquetas...'
+sku: 'B00H9DBWUS-es'
 tags: [ 'abrigo','chaqueta', ]
 actualPrice: 40.26 EUR
 currency: EUR

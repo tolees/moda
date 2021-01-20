@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSRP7DT-es CMP Rigel Zapatos de Low Rise Senderismo Unisex Niños...'
+sku: 'B07MSRP7DT-es'
 tags: [ 'zapatos', ]
 actualPrice: 17.51 EUR
 currency: EUR

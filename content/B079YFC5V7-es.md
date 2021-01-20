@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YFC5V7-es Marca Amazon - AURIQUE Mallas de Deporte Cortas con Banda...'
+sku: 'B079YFC5V7-es'
 tags: [ 'aurique', ]
 actualPrice: 15.0 EUR
 currency: EUR

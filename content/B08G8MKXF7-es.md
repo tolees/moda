@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G8MKXF7-es Zapatillas de Seguridad Hombre Zapatos de Trabajo con...'
+sku: 'B08G8MKXF7-es'
 tags: [ 'zapatos', ]
 actualPrice: 38.99 EUR
 currency: EUR

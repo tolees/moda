@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z49XQSW-es Jack & Jones Jjeeric Puffer Collar Noos Chaqueta Rojo Rot...'
+sku: 'B07Z49XQSW-es'
 tags: [ 'chaqueta','collar', ]
 actualPrice: 18.58 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D45XTY7-es find. Suede Zapatos de Cordones Derby Gris Grey 46 EU'
+sku: 'B07D45XTY7-es'
 tags: [ 'zapatos', ]
 actualPrice: 12.0 EUR
 currency: EUR

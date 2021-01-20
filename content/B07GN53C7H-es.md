@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GN53C7H-es Uten Limpiador Ultrasónico Profesional Acero Inoxidable...'
+sku: 'B07GN53C7H-es'
 tags: [ 'gafas', ]
 actualPrice: 31.99 EUR
 currency: EUR

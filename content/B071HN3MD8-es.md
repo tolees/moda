@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HN3MD8-es Lacoste TH6709 Camiseta para Hombre Gris Argent Chine 4XL...'
+sku: 'B071HN3MD8-es'
 tags: [ 'camiseta', ]
 actualPrice: 32.22 EUR
 currency: EUR

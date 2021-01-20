@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SXRXYC-es Timberland Capri Sunset Wedge Sandalias para Mujer Marrón...'
+sku: 'B078SXRXYC-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 47.53 EUR
 currency: EUR

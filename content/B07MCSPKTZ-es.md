@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPKTZ-es Napapijri Aerons WOM Hood 1 Chaqueta Beige Natural Peyote...'
+sku: 'B07MCSPKTZ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 99.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078S7GPPD-es Alicia abrigo chaqueta de invierno damas negro - Gothic...'
+sku: 'B078S7GPPD-es'
 tags: [ 'abrigo','chaqueta', ]
 actualPrice: 52.99 EUR
 currency: EUR

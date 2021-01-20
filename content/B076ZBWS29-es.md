@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZBWS29-es Marca Amazon - TRUTH & FABLE Vestido Cuello Halter de...'
+sku: 'B076ZBWS29-es'
 tags: [ 'vestido', ]
 actualPrice: 45.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD33SFF-es Calvin Klein Essential Slim V Neck tee Camiseta Negro CK...'
+sku: 'B07VD33SFF-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR

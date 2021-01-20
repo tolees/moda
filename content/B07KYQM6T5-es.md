@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYQM6T5-es Springfield 5DS Polo Oxford Liso Jersey Gama Azules 11...'
+sku: 'B07KYQM6T5-es'
 tags: [ 'jersey', ]
 actualPrice: 8.69 EUR
 currency: EUR

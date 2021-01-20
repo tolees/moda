@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07925NGVB-es TTYAOVO Chicas Muestran Princesa Vestido de Flores para...'
+sku: 'B07925NGVB-es'
 tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR

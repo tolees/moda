@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753KVDKS-es Uvex sportstyle 803 colorvision gafas de sol Rectangular...'
+sku: 'B0753KVDKS-es'
 tags: [ 'gafas', ]
 actualPrice: 49.67 EUR
 currency: EUR

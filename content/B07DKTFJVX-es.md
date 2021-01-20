@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKTFJVX-es Dickies Farnham Chaqueta Marrón X-Small Talla del...'
+sku: 'B07DKTFJVX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 58.25 EUR
 currency: EUR

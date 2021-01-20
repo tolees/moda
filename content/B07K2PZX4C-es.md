@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2PZX4C-es Adidas Adilette Aqua Zapatos de playa y piscina Unisex...'
+sku: 'B07K2PZX4C-es'
 tags: [ 'zapatos', ]
 actualPrice: 7.01 EUR
 currency: EUR

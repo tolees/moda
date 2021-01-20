@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGR5B9R-es edc by Esprit 999cc2k803 Camiseta Rojo Red 630 Small para...'
+sku: 'B07KGR5B9R-es'
 tags: [ 'camiseta', ]
 actualPrice: 4.49 EUR
 currency: EUR

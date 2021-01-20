@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCT1ZHM-es Pepe Jeans March Basic Metal Sandalias de Gladiador para...'
+sku: 'B07VCT1ZHM-es'
 tags: [ 'sandalias', ]
 actualPrice: 34.65 EUR
 currency: EUR

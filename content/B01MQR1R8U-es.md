@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQR1R8U-es Columbia Carson Pass II Chaqueta para Mujer Negro M'
+sku: 'B01MQR1R8U-es'
 tags: [ 'chaqueta', ]
 actualPrice: 128.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFT52MQ-es bedee Chubasquero Chaqueta Impermeable Chubasquero Abrigo...'
+sku: 'B07TFT52MQ-es'
 tags: [ 'abrigo','chaqueta', ]
 actualPrice: 11.95 EUR
 currency: EUR

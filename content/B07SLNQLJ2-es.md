@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLNQLJ2-es Nike Jumpman Diamond Mid Zapatos de Baloncesto para Hombre...'
+sku: 'B07SLNQLJ2-es'
 tags: [ 'zapatos', ]
 actualPrice: 111.35 EUR
 currency: EUR

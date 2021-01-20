@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWQB71C-es Pepe Jeans Hailey Crop Pl203424 Vaqueros evasé Archive...'
+sku: 'B07JWQB71C-es'
 tags: [ 'vaqueros', ]
 actualPrice: 10.9 EUR
 currency: EUR

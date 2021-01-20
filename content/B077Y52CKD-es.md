@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y52CKD-es HIKARO Chaqueta con Cremallera y Capucha Hombre Rojo...'
+sku: 'B077Y52CKD-es'
 tags: [ 'chaqueta', ]
 actualPrice: 14.99 EUR
 currency: EUR

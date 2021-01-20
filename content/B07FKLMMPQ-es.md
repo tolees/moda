@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKLMMPQ-es Trangoworld PC007743-6ZT-L Pantalón Largo Mujer...'
+sku: 'B07FKLMMPQ-es'
 tags: [ 'pantalón', ]
 actualPrice: 70.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MWN4KW2-es Uvex Sportstyle 802 Vario Gafas de Ciclismo Unisex Adulto...'
+sku: 'B00MWN4KW2-es'
 tags: [ 'gafas', ]
 actualPrice: 71.13 EUR
 currency: EUR

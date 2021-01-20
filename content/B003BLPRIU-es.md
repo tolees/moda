@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003BLPRIU-es crocs Baya Zuecos Unisex Adulto Gris Graphite 41/42 EU'
+sku: 'B003BLPRIU-es'
 tags: [ 'zuecos', ]
 actualPrice: 23.95 EUR
 currency: EUR

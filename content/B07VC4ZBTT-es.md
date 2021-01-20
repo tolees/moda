@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC4ZBTT-es Calvin Klein Monogram Sweater Sudadera Blanco CK Black 0k4...'
+sku: 'B07VC4ZBTT-es'
 tags: [ 'sudadera', ]
 actualPrice: 35.59 EUR
 currency: EUR

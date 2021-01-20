@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDP9NPY-es TBS Paxsonn Zapatos de Cordones Derby para Hombre Marron...'
+sku: 'B07NDP9NPY-es'
 tags: [ 'zapatos', ]
 actualPrice: 29.7 EUR
 currency: EUR

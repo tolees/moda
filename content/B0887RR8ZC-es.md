@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0887RR8ZC-es Aiboria Pijama Mujer Seda Verano Cortos 2 Piezas sin...'
+sku: 'B0887RR8ZC-es'
 tags: [ 'pijama', ]
 actualPrice: 12.99 EUR
 currency: EUR

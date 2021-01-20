@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZCJQ1R0-es LEABAGS Philadelphia Monedero para Mujeres de auténtico...'
+sku: 'B00ZCJQ1R0-es'
 tags: [ 'monedero', ]
 actualPrice: 44.98 EUR
 currency: EUR

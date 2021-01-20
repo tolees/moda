@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ2YMGB-es Springfield 1.Gym.MD.Corto Cruzado Vestido Multicolor...'
+sku: 'B07NJ2YMGB-es'
 tags: [ 'vestido', ]
 actualPrice: 14.47 EUR
 currency: EUR

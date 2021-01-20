@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STWTJ4J-es Roxy Portofino Zapatos de Playa y Piscina para Mujer...'
+sku: 'B07STWTJ4J-es'
 tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR

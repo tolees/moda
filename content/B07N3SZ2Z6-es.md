@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3SZ2Z6-es Desigual Pullover MARYLEBONE Jersey Negro Storm Front 2104...'
+sku: 'B07N3SZ2Z6-es'
 tags: [ 'jersey', ]
 actualPrice: 22.98 EUR
 currency: EUR

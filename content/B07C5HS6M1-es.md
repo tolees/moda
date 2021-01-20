@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5HS6M1-es 3pcs Bikini Conjuntos Traje de Bano Das beste Bikini con...'
+sku: 'B07C5HS6M1-es'
 tags: [ 'bikini', ]
 actualPrice: 17.5 EUR
 currency: EUR

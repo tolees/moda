@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9VYFXC-es Skechers On-The-go-Bundle Up Botines para Mujer Morado...'
+sku: 'B07B9VYFXC-es'
 tags: [ 'botines', ]
 actualPrice: 48.1 EUR
 currency: EUR

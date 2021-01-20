@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792HQHTK-es Geox U Saymore D Mocasines para Hombre Negro Black C9999...'
+sku: 'B0792HQHTK-es'
 tags: [ 'geox', ]
 actualPrice: 58.96 EUR
 currency: EUR

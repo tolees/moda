@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S373JYH-es Only & Sons Onsstorm Check Shirt 3599 Camisa Multicolor...'
+sku: 'B07S373JYH-es'
 tags: [ 'camisa', ]
 actualPrice: 23.74 EUR
 currency: EUR

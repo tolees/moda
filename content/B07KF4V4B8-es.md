@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4V4B8-es Levi s 311 Shaping Skinny Vaqueros Paris Fade 34W / 32L...'
+sku: 'B07KF4V4B8-es'
 tags: [ 'vaqueros', ]
 actualPrice: 49.5 EUR
 currency: EUR

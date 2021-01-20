@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJPLJF4-es Clarks Annadel Parker Sandalias de Talón Abierto para...'
+sku: 'B07TJPLJF4-es'
 tags: [ 'sandalias', ]
 actualPrice: 28.27 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJWJRMJ-es Geox D Annytah Moc A Mocasines para Mujer Rojo Scarlet...'
+sku: 'B07DJWJRMJ-es'
 tags: [ 'geox', ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VS28VM9-es Izod Faux Down Hooded Parka Azul Navy Blazer 410 S para...'
+sku: 'B07VS28VM9-es'
 tags: [ 'parka', ]
 actualPrice: 101.16 EUR
 currency: EUR

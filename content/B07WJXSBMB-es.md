@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJXSBMB-es Jack & Jones Joroutdoors tee SS Crew Neck Camiseta Azul...'
+sku: 'B07WJXSBMB-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.24 EUR
 currency: EUR

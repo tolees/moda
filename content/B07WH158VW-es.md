@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WH158VW-es Mishansha Mujer Botas de Nieve Mujer Botines Zapatos...'
+sku: 'B07WH158VW-es'
 tags: [ 'botines','zapatos', ]
 actualPrice: 28.79 EUR
 currency: EUR

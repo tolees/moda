@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VF6FCBW-es Hackett London Amr Print Crew Sudadera Rojo 1bkorange Lacq...'
+sku: 'B07VF6FCBW-es'
 tags: [ 'sudadera', ]
 actualPrice: 36.89 EUR
 currency: EUR

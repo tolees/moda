@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J5YJX86-es Helly Hansen Loke Chaqueta Hombre Verde XL'
+sku: 'B01J5YJX86-es'
 tags: [ 'chaqueta', ]
 actualPrice: 40.38 EUR
 currency: EUR

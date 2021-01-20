@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000W8AMRG-es Havaianas Slim Chanclas Mujer Negro Black 0090 39/40 EU'
+sku: 'B000W8AMRG-es'
 tags: [ 'chanclas', ]
 actualPrice: 16.2 EUR
 currency: EUR

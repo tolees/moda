@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0733G7SKC-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
+sku: 'B0733G7SKC-es'
 tags: [ 'sudadera','-','find.', ]
 actualPrice: 6.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TC8WPD2-es Crocs Funlab Disney Frozen 2 Clog Kids Zuecos Unisex Niños...'
+sku: 'B07TC8WPD2-es'
 tags: [ 'zuecos', ]
 actualPrice: 19.1 EUR
 currency: EUR

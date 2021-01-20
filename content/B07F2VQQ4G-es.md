@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2VQQ4G-es Arena The One Gafas de Natación Unisex Adulto Rosa Talla...'
+sku: 'B07F2VQQ4G-es'
 tags: [ 'gafas', ]
 actualPrice: 13.37 EUR
 currency: EUR

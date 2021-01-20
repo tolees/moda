@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFK4Q7R-es Desigual TS Tropic Thoughts Camiseta Rojo Fresa Acid 3089...'
+sku: 'B07VFK4Q7R-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.61 EUR
 currency: EUR

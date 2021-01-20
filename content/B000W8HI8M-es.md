@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000W8HI8M-es Timberland Heritage 6 Inch Premium Waterproof Botas para...'
+sku: 'B000W8HI8M-es'
 tags: [ 'timberland', ]
 actualPrice: 154.74 EUR
 currency: EUR

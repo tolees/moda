@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0741MGNMT-es Volcom Rocker 2 SNDL Zehentrenner Chanclas para Hombre...'
+sku: 'B0741MGNMT-es'
 tags: [ 'chanclas', ]
 actualPrice: 10.95 EUR
 currency: EUR

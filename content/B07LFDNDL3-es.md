@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDNDL3-es Levi s Slim 2pk Crewneck 1 Camiseta Blanco Two-Pack tee...'
+sku: 'B07LFDNDL3-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.47 EUR
 currency: EUR

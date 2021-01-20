@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721WBBGL-es adidas Entrada 18 JSY Jersey de Fútbol de Manga Corta...'
+sku: 'B0721WBBGL-es'
 tags: [ 'jersey', ]
 actualPrice: 10.99 EUR
 currency: EUR

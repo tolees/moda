@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVJSC6Q-es Timberland Camisa de Franela para Hombre Manga Larga'
+sku: 'B07TVJSC6Q-es'
 tags: [ 'camisa','timberland', ]
 actualPrice: 78.24 EUR
 currency: EUR

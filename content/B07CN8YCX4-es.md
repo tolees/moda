@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8YCX4-es Crocs Sexi Flip Women Sandalias para Mujer Azul Pool 40m...'
+sku: 'B07CN8YCX4-es'
 tags: [ 'sandalias', ]
 actualPrice: 15.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K73BTQF-es Levi s Graphic B Sudadera Negro Logo Ssnl Crew Mineral...'
+sku: 'B07K73BTQF-es'
 tags: [ 'sudadera', ]
 actualPrice: 29.5 EUR
 currency: EUR

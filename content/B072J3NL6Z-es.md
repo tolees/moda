@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J3NL6Z-es Under Armour Racing Pack Short Sleeve Camiseta de Manga...'
+sku: 'B072J3NL6Z-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.4 EUR
 currency: EUR

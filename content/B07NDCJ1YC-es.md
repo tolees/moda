@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDCJ1YC-es Desigual Wallet Rep Comunika Mini Zi Monedero para Mujer...'
+sku: 'B07NDCJ1YC-es'
 tags: [ 'monedero', ]
 actualPrice: 24.99 EUR
 currency: EUR

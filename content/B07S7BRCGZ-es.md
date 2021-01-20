@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7BRCGZ-es Lee Austin Vaqueros Tapered Azul Mission Worn Zi 31W / 34L...'
+sku: 'B07S7BRCGZ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 16.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XLKW1K-es Under Armour Tech Graphic Short Pantalón Corto Hombre Azul...'
+sku: 'B077XLKW1K-es'
 tags: [ 'pantalón', ]
 actualPrice: 13.49 EUR
 currency: EUR

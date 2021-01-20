@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPK4M-es Napapijri DAMAVAND Crew Jersey Rojo Red Scarlet R01 M para...'
+sku: 'B07MCSPK4M-es'
 tags: [ 'jersey', ]
 actualPrice: 44.55 EUR
 currency: EUR

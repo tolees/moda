@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PB19RC9-es gracosy Sandalias Cuero Deportivas para Hombre Verano...'
+sku: 'B07PB19RC9-es'
 tags: [ 'sandalias', ]
 actualPrice: 36.99 EUR
 currency: EUR

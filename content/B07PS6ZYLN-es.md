@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS6ZYLN-es Under Armour Challenger III Training Top Transpirable para...'
+sku: 'B07PS6ZYLN-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.52 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LMI5CGQ-es Quiksilver MONKEY ABYSS M SNDL XGKC - sandalias abiertas...'
+sku: 'B00LMI5CGQ-es'
 tags: [ 'sandalias', ]
 actualPrice: 11.49 EUR
 currency: EUR

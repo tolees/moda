@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRPMP-es Napapijri Aric Chaqueta Rojo Red Scarlet R01 S para Hombre'
+sku: 'B07MGFRPMP-es'
 tags: [ 'chaqueta', ]
 actualPrice: 93.66 EUR
 currency: EUR

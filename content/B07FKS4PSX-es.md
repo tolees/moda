@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKS4PSX-es Battle Royale Camiseta para niño Gaming Negro 10-11 Años'
+sku: 'B07FKS4PSX-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.95 EUR
 currency: EUR

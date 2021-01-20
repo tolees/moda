@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXTHMKW-es Geox D Suzzie B Zapatillas para Mujer Marfil Off White/Lt...'
+sku: 'B07SXTHMKW-es'
 tags: [ 'geox', ]
 actualPrice: 30.48 EUR
 currency: EUR

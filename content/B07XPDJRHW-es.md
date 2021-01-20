@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XPDJRHW-es Desigual Bols Lazarus Barrel - Bolso para mujer color...'
+sku: 'B07XPDJRHW-es'
 tags: [ 'bolso', ]
 actualPrice: 29.72 EUR
 currency: EUR

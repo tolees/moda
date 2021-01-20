@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V4GGKQ-es Canadian Peak Abrigo'
+sku: 'B082V4GGKQ-es'
 tags: [ 'abrigo', ]
 actualPrice: 77.4 EUR
 currency: EUR

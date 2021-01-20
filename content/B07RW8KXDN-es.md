@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW8KXDN-es BAIGIO Bolso de Fiesta Noche de Moda para Mujer Brillante...'
+sku: 'B07RW8KXDN-es'
 tags: [ 'bolso','moda', ]
 actualPrice: 16.99 EUR
 currency: EUR

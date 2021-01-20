@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HY7SQ8W-es Charles Wilson Camiseta Cuello Redondo Punto Tipo Jacquard...'
+sku: 'B07HY7SQ8W-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.95 EUR
 currency: EUR

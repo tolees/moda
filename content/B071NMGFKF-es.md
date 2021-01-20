@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NMGFKF-es find. Camisa Casual para Hombre Blanco Ecru Large'
+sku: 'B071NMGFKF-es'
 tags: [ 'camisa', ]
 actualPrice: 7.5 EUR
 currency: EUR

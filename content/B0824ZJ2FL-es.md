@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824ZJ2FL-es AOTIAN Bolsos Bandolera de Mujer Nylon Bolso de Hombro...'
+sku: 'B0824ZJ2FL-es'
 tags: [ 'bolso', ]
 actualPrice: 14.99 EUR
 currency: EUR

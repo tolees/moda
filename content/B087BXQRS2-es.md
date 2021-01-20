@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087BXQRS2-es TAONEEF Mujer Moda Stiletto Sandalias Correa de Tobillo...'
+sku: 'B087BXQRS2-es'
 tags: [ 'moda','sandalias','zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR

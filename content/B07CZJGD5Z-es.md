@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZJGD5Z-es Under Armour UA Qualifier Storm Packable Jacket Chaqueta...'
+sku: 'B07CZJGD5Z-es'
 tags: [ 'chaqueta', ]
 actualPrice: 34.47 EUR
 currency: EUR

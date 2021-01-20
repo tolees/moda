@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLNWTP9-es Tommy Hilfiger Corp Split tee Camiseta Deporte Azul Blue...'
+sku: 'B07RLNWTP9-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.0 EUR
 currency: EUR

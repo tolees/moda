@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R92LMDZ-es Columbia Cascade Ridge Chaqueta Softshell Unisex Adulto...'
+sku: 'B07R92LMDZ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 53.99 EUR
 currency: EUR

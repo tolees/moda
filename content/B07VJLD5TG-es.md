@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJLD5TG-es Calvin Klein Low Rise Trunk 3pk Bóxer Hombre Blanco...'
+sku: 'B07VJLD5TG-es'
 tags: [ 'bóxer', ]
 actualPrice: 24.49 EUR
 currency: EUR

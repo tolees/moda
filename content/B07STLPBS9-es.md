@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLPBS9-es Geox U Renan B Zapatillas para Hombre Azul Navy C4064 41 EU'
+sku: 'B07STLPBS9-es'
 tags: [ 'geox', ]
 actualPrice: 42.98 EUR
 currency: EUR

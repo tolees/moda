@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KHLFG1T-es Under Armour UA Rush Short Sleeve Camiseta Mujer Negro...'
+sku: 'B07KHLFG1T-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.05 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5VZCTM-es El Naturalista N5144 Botines para Mujer Rojo Rioja Rioja...'
+sku: 'B07S5VZCTM-es'
 tags: [ 'botines', ]
 actualPrice: 23.32 EUR
 currency: EUR

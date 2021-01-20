@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJ7Z3T-es Kipling Art Bolso de Mano para Mujer Negro Black Indigo...'
+sku: 'B07MVJ7Z3T-es'
 tags: [ 'bolso', ]
 actualPrice: 52.99 EUR
 currency: EUR

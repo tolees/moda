@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QBH97Z-es Lee Malone Vaqueros Skinny Negro Black Rinse 47 31W / 34L...'
+sku: 'B076QBH97Z-es'
 tags: [ 'vaqueros', ]
 actualPrice: 42.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5HXB74-es find. 2 Pack Slim Shirt - Camisa Hombre Gris Contrast...'
+sku: 'B07G5HXB74-es'
 tags: [ 'camisa', ]
 actualPrice: 8.2 EUR
 currency: EUR

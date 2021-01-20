@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRD6CV7-es HAWKERS KIDS · LACMA · Black Silver · Dark · Gafas de sol...'
+sku: 'B07RRD6CV7-es'
 tags: [ 'gafas', ]
 actualPrice: 9.45 EUR
 currency: EUR

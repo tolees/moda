@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9PCZJQ-es FCB Conjunto Camiseta y Pantalón Primera Equipación...'
+sku: 'B07X9PCZJQ-es'
 tags: [ 'camiseta','pantalón', ]
 actualPrice: 29.99 EUR
 currency: EUR

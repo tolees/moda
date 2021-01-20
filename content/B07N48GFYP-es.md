@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N48GFYP-es United Colors of Benetton Basico 2 Man Camiseta de Manga...'
+sku: 'B07N48GFYP-es'
 tags: [ 'camiseta', ]
 actualPrice: 26.4 EUR
 currency: EUR

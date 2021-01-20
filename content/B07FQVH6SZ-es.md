@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQVH6SZ-es Clarks Edward Plain Zapatos de Cordones Derby para Hombre...'
+sku: 'B07FQVH6SZ-es'
 tags: [ 'zapatos', ]
 actualPrice: 24.41 EUR
 currency: EUR

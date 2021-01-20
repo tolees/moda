@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YDLLK9-es HIKARO Sudadera con Print Mujer Azul Navy 40 Talla del...'
+sku: 'B077YDLLK9-es'
 tags: [ 'sudadera', ]
 actualPrice: 8.09 EUR
 currency: EUR

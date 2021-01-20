@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGVRKJQ-es Calvin Klein Boxer Brief 2pk Gris Grey Heather/Surf The...'
+sku: 'B07NGVRKJQ-es'
 tags: [ 'boxer', ]
 actualPrice: 15.4 EUR
 currency: EUR

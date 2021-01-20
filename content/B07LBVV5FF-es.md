@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBVV5FF-es Calvin Klein Fixed Triangle-rp Top de Bikini Negro Pvh...'
+sku: 'B07LBVV5FF-es'
 tags: [ 'bikini', ]
 actualPrice: 24.65 EUR
 currency: EUR

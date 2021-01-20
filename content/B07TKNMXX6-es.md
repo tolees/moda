@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKNMXX6-es Havaianas Slim Animals Chanclas para Mujer Multicolor...'
+sku: 'B07TKNMXX6-es'
 tags: [ 'chanclas', ]
 actualPrice: 18.49 EUR
 currency: EUR

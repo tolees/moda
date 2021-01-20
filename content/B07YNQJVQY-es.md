@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNQJVQY-es AURIQUE AZ20SS008 Pantalones Cortos de Gimnasio Negro...'
+sku: 'B07YNQJVQY-es'
 tags: [ 'aurique', ]
 actualPrice: 13.5 EUR
 currency: EUR

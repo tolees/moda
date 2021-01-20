@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC8B12Z-es Clarks Tilden Walk Zapatos de Cordones Derby para Hombre...'
+sku: 'B06XC8B12Z-es'
 tags: [ 'zapatos', ]
 actualPrice: 27.02 EUR
 currency: EUR

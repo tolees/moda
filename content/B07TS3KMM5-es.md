@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS3KMM5-es Levi s Selma Dress Vestido Blanco Faint Heart 2 0001...'
+sku: 'B07TS3KMM5-es'
 tags: [ 'vestido', ]
 actualPrice: 35.04 EUR
 currency: EUR

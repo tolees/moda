@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNPFLW-es G-STAR RAW Whistler Slim Down Hooded Chaqueta Gris Mercury...'
+sku: 'B07NDNPFLW-es'
 tags: [ 'chaqueta', ]
 actualPrice: 69.56 EUR
 currency: EUR

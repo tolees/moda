@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L78ZQYD-es NIKE W Nk Dry SL Top Camiseta sin Mangas Mujer Black/ White M'
+sku: 'B07L78ZQYD-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.77 EUR
 currency: EUR

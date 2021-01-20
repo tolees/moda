@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT2T1P-es Geox D PONTOISE D Zapatillas para Mujer Blanco...'
+sku: 'B07SWT2T1P-es'
 tags: [ 'geox', ]
 actualPrice: 38.05 EUR
 currency: EUR

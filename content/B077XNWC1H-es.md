@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XNWC1H-es Under Armour Sportstyle Left Chest Camiseta Hombre Blanco SM'
+sku: 'B077XNWC1H-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR

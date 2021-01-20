@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QRQH1V4-es flintronic® Billetera Monedero para Hombres RFID Billetera...'
+sku: 'B07QRQH1V4-es'
 tags: [ 'billetera','monedero', ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWZH8KB-es Skechers Sargo REYON Chanclas para Hombre Negro Negro Lona...'
+sku: 'B07WWZH8KB-es'
 tags: [ 'chanclas', ]
 actualPrice: 22.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J31F9QF-es Under Armour Play Up Short 2.0 Pantalón Corto Mujer Rosa...'
+sku: 'B07J31F9QF-es'
 tags: [ 'pantalón', ]
 actualPrice: 12.51 EUR
 currency: EUR

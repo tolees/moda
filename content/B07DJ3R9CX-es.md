@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ3R9CX-es Geox D New Annya A Zapatos de Tacón para Mujer Negro Black...'
+sku: 'B07DJ3R9CX-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 43.41 EUR
 currency: EUR

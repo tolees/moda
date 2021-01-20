@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4TQR8V-es Jack & Jones Liam Original Jos 650 50sps Vaqueros Blue...'
+sku: 'B07V4TQR8V-es'
 tags: [ 'vaqueros', ]
 actualPrice: 46.99 EUR
 currency: EUR

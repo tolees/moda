@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1WB3RR-es Cressi Coral Shoes Zapatilla para Deportes Acuáticos...'
+sku: 'B07S1WB3RR-es'
 tags: [ 'zapatilla', ]
 actualPrice: 7.96 EUR
 currency: EUR

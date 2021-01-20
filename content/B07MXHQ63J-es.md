@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXHQ63J-es Negocios titular de la tarjeta RFID de lujo de piel y...'
+sku: 'B07MXHQ63J-es'
 tags: [ 'billetera', ]
 actualPrice: 10.84 EUR
 currency: EUR

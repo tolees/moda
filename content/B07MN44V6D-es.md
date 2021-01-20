@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN44V6D-es Wrangler Larston Vaqueros Grey Hill 31W / 32L para Hombre'
+sku: 'B07MN44V6D-es'
 tags: [ 'vaqueros', ]
 actualPrice: 56.85 EUR
 currency: EUR

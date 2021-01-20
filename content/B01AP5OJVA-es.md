@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AP5OJVA-es Wilson W Team RD Falda de Tenis Mujer Rojo L'
+sku: 'B01AP5OJVA-es'
 tags: [ 'falda', ]
 actualPrice: 8.0 EUR
 currency: EUR

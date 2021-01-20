@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJQ2MF3-es Desigual Vest Bonney Vestido Blanco Crudo 1001 34 Talla...'
+sku: 'B07VJQ2MF3-es'
 tags: [ 'vestido', ]
 actualPrice: 39.63 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ8SB69-es Calvin Klein Ckj 026 Vaqueros Slim Azul Antwerp Rinse 911...'
+sku: 'B07TQ8SB69-es'
 tags: [ 'vaqueros', ]
 actualPrice: 36.56 EUR
 currency: EUR

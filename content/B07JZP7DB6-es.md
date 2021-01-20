@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZP7DB6-es adidas Tiro19 PES Jkty Chaqueta de Deporte Unisex niños...'
+sku: 'B07JZP7DB6-es'
 tags: [ 'chaqueta', ]
 actualPrice: 21.9 EUR
 currency: EUR

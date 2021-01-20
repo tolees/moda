@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JBRKCP-es Zapatos de Agua Escarpines Hombres Mujer Niños Verano...'
+sku: 'B083JBRKCP-es'
 tags: [ 'zapatos', ]
 actualPrice: 15.49 EUR
 currency: EUR

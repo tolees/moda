@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KQFW0ZC-es Polaroid P0115 Y2 IUB Gafas de sol Morado Violet Pink...'
+sku: 'B00KQFW0ZC-es'
 tags: [ 'gafas', ]
 actualPrice: 17.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCLP9Q2-es Marca Amazon - find. Pantalón con Cintura de Fuelle Mujer...'
+sku: 'B07MCLP9Q2-es'
 tags: [ 'pantalón','-','find.', ]
 actualPrice: 11.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2TX49T-es Adidas Adilette Aqua Zapatos de Playa y Piscina para...'
+sku: 'B07K2TX49T-es'
 tags: [ 'zapatos', ]
 actualPrice: 6.01 EUR
 currency: EUR

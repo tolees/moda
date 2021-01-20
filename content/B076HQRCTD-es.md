@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQRCTD-es adidas CORE18 tee Camiseta de Manga Corta Hombre Dark...'
+sku: 'B076HQRCTD-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.12 EUR
 currency: EUR

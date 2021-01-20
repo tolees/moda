@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GP36XCR-es Zapatillas Hombre Mujer Invierno CáLido Zapatos Memory...'
+sku: 'B07GP36XCR-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.98 EUR
 currency: EUR

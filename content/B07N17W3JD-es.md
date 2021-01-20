@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N17W3JD-es Lee Slim Button Down Camisa Negro Black 01 XX-Large para...'
+sku: 'B07N17W3JD-es'
 tags: [ 'camisa', ]
 actualPrice: 18.01 EUR
 currency: EUR

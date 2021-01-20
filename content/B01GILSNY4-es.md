@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GILSNY4-es Calvin Klein 2pk Trunk Bóxer Negro Black Pr 002 140-152...'
+sku: 'B01GILSNY4-es'
 tags: [ 'bóxer', ]
 actualPrice: 18.3 EUR
 currency: EUR

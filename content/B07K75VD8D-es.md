@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K75VD8D-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Wobbegong...'
+sku: 'B07K75VD8D-es'
 tags: [ 'vaqueros', ]
 actualPrice: 78.0 EUR
 currency: EUR

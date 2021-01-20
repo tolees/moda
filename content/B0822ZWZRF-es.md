@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822ZWZRF-es Charles Wilson Pantalón de Deportes con Puño Pantalón...'
+sku: 'B0822ZWZRF-es'
 tags: [ 'pantalón', ]
 actualPrice: 11.95 EUR
 currency: EUR

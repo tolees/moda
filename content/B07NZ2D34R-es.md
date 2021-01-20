@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ2D34R-es Superdry Classic Twill L/s Shirt Camisa Azul Nórdica Blue...'
+sku: 'B07NZ2D34R-es'
 tags: [ 'camisa', ]
 actualPrice: 37.99 EUR
 currency: EUR

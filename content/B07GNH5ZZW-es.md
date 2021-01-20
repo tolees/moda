@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNH5ZZW-es Mujer Hombres Zapatos de Senderismo al Aire Libre Zapatos...'
+sku: 'B07GNH5ZZW-es'
 tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGFI66-es Havaianas Luna Sandalias para Mujer Dorado Rose Gold 39/40 EU'
+sku: 'B015SGFI66-es'
 tags: [ 'sandalias', ]
 actualPrice: 19.9 EUR
 currency: EUR

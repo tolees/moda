@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT5XK6G-es Superdry Super Sleek Flip Flop Chanclas para Mujer Rosa...'
+sku: 'B07TT5XK6G-es'
 tags: [ 'chanclas', ]
 actualPrice: 10.99 EUR
 currency: EUR

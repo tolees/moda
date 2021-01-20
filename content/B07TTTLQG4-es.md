@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTTLQG4-es Lee Pocket tee Camiseta Rojo Bright Red EF Small para Hombre'
+sku: 'B07TTTLQG4-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.84 EUR
 currency: EUR

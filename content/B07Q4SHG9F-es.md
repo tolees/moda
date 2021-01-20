@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4SHG9F-es Mochilas Escolares Fanspack Mochilas Escolares Juveniles...'
+sku: 'B07Q4SHG9F-es'
 tags: [ 'bolso', ]
 actualPrice: 30.21 EUR
 currency: EUR

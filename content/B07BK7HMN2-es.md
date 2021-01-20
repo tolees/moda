@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BK7HMN2-es Speedo Futura Biofuse Flexiseal Gafas Natación Infantil...'
+sku: 'B07BK7HMN2-es'
 tags: [ 'gafas', ]
 actualPrice: 14.9 EUR
 currency: EUR

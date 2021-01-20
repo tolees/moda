@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QQDC1V-es Marca Amazon - find. Jersey de Punto con Textura para...'
+sku: 'B073QQDC1V-es'
 tags: [ 'jersey','-','find.', ]
 actualPrice: 6.59 EUR
 currency: EUR

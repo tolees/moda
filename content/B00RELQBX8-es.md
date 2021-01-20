@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RELQBX8-es Crocs Patricia Women Sandalias de Punta Descubierta para...'
+sku: 'B00RELQBX8-es'
 tags: [ 'sandalias', ]
 actualPrice: 8.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXYIMAU-es find. Regular fit linen shirt Camisa Blanco White 52'
+sku: 'B01MXYIMAU-es'
 tags: [ 'camisa', ]
 actualPrice: 22.91 EUR
 currency: EUR

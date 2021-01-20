@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZC7B7Z-es WOLA gafas de sol madera - AIR lentes mujer y hombre...'
+sku: 'B06ZZC7B7Z-es'
 tags: [ 'gafas', ]
 actualPrice: 34.99 EUR
 currency: EUR

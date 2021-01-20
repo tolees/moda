@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNTZWC-es Helly Hansen HH Tech Crew Camiseta Hombre Blanco Blanco...'
+sku: 'B073RNTZWC-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.0 EUR
 currency: EUR

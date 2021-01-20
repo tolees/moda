@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NA9JXAK-es Ducomi® Master Classic - Gafas de Sol con Madera de Caña...'
+sku: 'B01NA9JXAK-es'
 tags: [ 'gafas', ]
 actualPrice: 12.95 EUR
 currency: EUR

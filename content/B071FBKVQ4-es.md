@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FBKVQ4-es Crocs Crocband U Zuecos Unisex Adulto Blanco White-Blue...'
+sku: 'B071FBKVQ4-es'
 tags: [ 'zuecos', ]
 actualPrice: 28.29 EUR
 currency: EUR

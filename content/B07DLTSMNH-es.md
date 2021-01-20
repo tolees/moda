@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLTSMNH-es SAMSONITE Openroad - Rolling Tote for 16.4" Laptop 2.9 KG...'
+sku: 'B07DLTSMNH-es'
 tags: [ 'bolso', ]
 actualPrice: 175.87 EUR
 currency: EUR

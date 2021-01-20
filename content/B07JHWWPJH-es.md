@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHWWPJH-es PUMA The Cat tee Camiseta Hombre Gris Glacier Gray Heather...'
+sku: 'B07JHWWPJH-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.32 EUR
 currency: EUR

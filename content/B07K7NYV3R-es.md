@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7NYV3R-es Esprit Kids Sweatshirt Card Sudadera Morado Plum 871 Talla...'
+sku: 'B07K7NYV3R-es'
 tags: [ 'sudadera', ]
 actualPrice: 11.71 EUR
 currency: EUR

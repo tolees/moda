@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGVCWTL-es Geox J Xunday Boy B ABX A Botas Chukka para Niños Verde...'
+sku: 'B07PGVCWTL-es'
 tags: [ 'geox', ]
 actualPrice: 18.35 EUR
 currency: EUR

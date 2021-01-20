@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39ZP5T-es Desigual Coat AGGU Abrigo Negro Negro 2000 46 para Mujer'
+sku: 'B07N39ZP5T-es'
 tags: [ 'abrigo', ]
 actualPrice: 55.8 EUR
 currency: EUR

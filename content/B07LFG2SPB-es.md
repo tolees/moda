@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFG2SPB-es Levi s 2pk Crewneck Graphic Camiseta Multicolor 2 Pack Hm...'
+sku: 'B07LFG2SPB-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.04 EUR
 currency: EUR

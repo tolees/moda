@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSK2HP1-es Ropa de Dormir para Mujeres SHOBDW Regalo del día de San...'
+sku: 'B07MSK2HP1-es'
 tags: [ 'vestido', ]
 actualPrice: 5.69 EUR
 currency: EUR

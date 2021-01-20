@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZHJ8RF-es Under Armour Sportstyle Camiseta sin Mangas con Logotipo...'
+sku: 'B07CZHJ8RF-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.5 EUR
 currency: EUR

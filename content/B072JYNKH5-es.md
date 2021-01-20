@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JYNKH5-es Marca Amazon - find. Camisa Hombre Marfil Stone L Label: L'
+sku: 'B072JYNKH5-es'
 tags: [ 'camisa','-','find.', ]
 actualPrice: 7.2 EUR
 currency: EUR

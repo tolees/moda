@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVWNHLM-es RATEL Kit de Chaleco Táctico para Niños 92pcs Traje de...'
+sku: 'B07MVWNHLM-es'
 tags: [ 'chaleco','chaqueta','gafas', ]
 actualPrice: 13.99 EUR
 currency: EUR

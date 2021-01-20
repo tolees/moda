@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVQMBCH-es Levi s Orig HM Vneck Camiseta Dusky Citron M para Hombre'
+sku: 'B07ZVQMBCH-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.49 EUR
 currency: EUR

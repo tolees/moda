@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLP38VF-es Clarks Un Perri Way Sandalias de Talón Abierto para Mujer...'
+sku: 'B07TLP38VF-es'
 tags: [ 'sandalias', ]
 actualPrice: 48.3 EUR
 currency: EUR

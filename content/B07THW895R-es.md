@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THW895R-es Lacoste TF5441 Camiseta Blanco Blanc 34 para Mujer'
+sku: 'B07THW895R-es'
 tags: [ 'camiseta', ]
 actualPrice: 36.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1YUZOB-es Timberland Adventure Seeker 2 Strap Sandalias de Punta...'
+sku: 'B01N1YUZOB-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 20.0 EUR
 currency: EUR

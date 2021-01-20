@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK4ZFBV-es Geox J Android Boy C Zapatillas para Niños Azul Navy/Lime...'
+sku: 'B07DK4ZFBV-es'
 tags: [ 'geox', ]
 actualPrice: 29.95 EUR
 currency: EUR

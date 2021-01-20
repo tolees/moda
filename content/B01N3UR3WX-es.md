@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3UR3WX-es Brandit Mella Sommerparka Parka Grün Olive 1 1 XL para Mujer'
+sku: 'B01N3UR3WX-es'
 tags: [ 'parka', ]
 actualPrice: 19.92 EUR
 currency: EUR

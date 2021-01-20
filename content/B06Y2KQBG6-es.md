@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2KQBG6-es Geox J Kalispera Girl I Zapatillas Altas para Niñas Negro...'
+sku: 'B06Y2KQBG6-es'
 tags: [ 'geox', ]
 actualPrice: 34.49 EUR
 currency: EUR

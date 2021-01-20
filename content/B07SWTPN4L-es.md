@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTPN4L-es Geox D Nebula B Zapatillas sin Cordones para Mujer Negro...'
+sku: 'B07SWTPN4L-es'
 tags: [ 'geox', ]
 actualPrice: 84.38 EUR
 currency: EUR

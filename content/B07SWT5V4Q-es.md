@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT5V4Q-es REPLAY Zeumar Vaqueros Slim Gris Stone Grey 400 31W / 34L...'
+sku: 'B07SWT5V4Q-es'
 tags: [ 'vaqueros', ]
 actualPrice: 63.67 EUR
 currency: EUR

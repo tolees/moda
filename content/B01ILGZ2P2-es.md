@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ILGZ2P2-es Pintura para Tela y Ropa Permanente con Gran Capacidad de...'
+sku: 'B01ILGZ2P2-es'
 tags: [ 'vaqueros', ]
 actualPrice: 16.4 EUR
 currency: EUR

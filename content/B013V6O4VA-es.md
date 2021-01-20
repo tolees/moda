@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013V6O4VA-es Levi s Housemark Polo Camiseta para Hombre Blanco C00987...'
+sku: 'B013V6O4VA-es'
 tags: [ 'camiseta', ]
 actualPrice: 26.0 EUR
 currency: EUR

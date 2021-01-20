@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRW7N8M-es DYKHMILY Zapatillas de Seguridad Hombre Ligeras Comodo...'
+sku: 'B08CRW7N8M-es'
 tags: [ 'zapatos', ]
 actualPrice: 38.5 EUR
 currency: EUR

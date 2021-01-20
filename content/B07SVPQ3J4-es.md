@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPQ3J4-es Geox U Artie B Chanclas para Hombre Marrón Coffee C6009 40 EU'
+sku: 'B07SVPQ3J4-es'
 tags: [ 'chanclas','geox', ]
 actualPrice: 31.75 EUR
 currency: EUR

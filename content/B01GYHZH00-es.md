@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GYHZH00-es Moolecole Seco Húmedo Separado Bolso De La Natación Bolsa...'
+sku: 'B01GYHZH00-es'
 tags: [ 'bolso', ]
 actualPrice: 13.99 EUR
 currency: EUR

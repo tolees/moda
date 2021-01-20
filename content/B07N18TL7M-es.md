@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N18TL7M-es G-STAR RAW 3301 Straight Vaqueros Worker Blue Faded...'
+sku: 'B07N18TL7M-es'
 tags: [ 'vaqueros', ]
 actualPrice: 36.39 EUR
 currency: EUR

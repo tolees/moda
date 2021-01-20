@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQGND5-es adidas CORE18 Hoody Sudadera con Capucha Hombre Azul...'
+sku: 'B076HQGND5-es'
 tags: [ 'sudadera', ]
 actualPrice: 23.3 EUR
 currency: EUR

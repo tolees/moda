@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4FDPW7-es Skechers MELBO Journeyman 2 Sandalias con Punta Cerrada...'
+sku: 'B07D4FDPW7-es'
 tags: [ 'sandalias', ]
 actualPrice: 15.8 EUR
 currency: EUR

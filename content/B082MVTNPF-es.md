@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MVTNPF-es Iris & Lilly Braga de Bikini de Algodón Mujer Pack de 10...'
+sku: 'B082MVTNPF-es'
 tags: [ 'bikini','iris','&','lilly', ]
 actualPrice: 20.22 EUR
 currency: EUR

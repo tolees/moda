@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMZSK2W-es Crocs Crocband U Zuecos Unisex Adulto Morado Lavender-...'
+sku: 'B07CMZSK2W-es'
 tags: [ 'zuecos', ]
 actualPrice: 36.68 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJBJKTG-es Geox D Rubidia A Zapatillas para Mujer Marrón Curry C2021...'
+sku: 'B07DJBJKTG-es'
 tags: [ 'geox', ]
 actualPrice: 45.57 EUR
 currency: EUR

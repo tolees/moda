@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L99LGQ3-es Spiuk Altube MTB Zapatilla Unisex Adulto Amarillo Flúor...'
+sku: 'B07L99LGQ3-es'
 tags: [ 'zapatilla', ]
 actualPrice: 59.88 EUR
 currency: EUR

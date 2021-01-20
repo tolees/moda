@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QKKXFV0-es Timberland Earthkeepers Oak Bluffs - Sandalias de cuero...'
+sku: 'B00QKKXFV0-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 30 EUR
 currency: EUR

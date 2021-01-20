@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGHTRY4-es Pepe Jeans Belair Pl580852 Sudadera Grey Marl 933 X-Small...'
+sku: 'B07JGHTRY4-es'
 tags: [ 'sudadera', ]
 actualPrice: 36.51 EUR
 currency: EUR

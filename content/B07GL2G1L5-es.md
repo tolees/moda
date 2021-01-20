@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL2G1L5-es Rismart Hombre Punta Cerrado Gancho y Bucle Al Aire Libre...'
+sku: 'B07GL2G1L5-es'
 tags: [ 'chanclas','sandalias','zapatos', ]
 actualPrice: 29.56 EUR
 currency: EUR

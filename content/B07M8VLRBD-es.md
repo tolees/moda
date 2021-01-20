@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8VLRBD-es Lee Plain Crew Neck SWS Sudadera Gris Grey Mele MP Large...'
+sku: 'B07M8VLRBD-es'
 tags: [ 'sudadera', ]
 actualPrice: 19.48 EUR
 currency: EUR

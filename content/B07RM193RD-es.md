@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM193RD-es Asics Classic CT Zapatos de Baloncesto para Hombre Blanco...'
+sku: 'B07RM193RD-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.23 EUR
 currency: EUR

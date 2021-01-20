@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTJ1YE-es G-STAR RAW 3301 Tapered Vaqueros para Hombre Azul dk aged...'
+sku: 'B01BGTJ1YE-es'
 tags: [ 'vaqueros', ]
 actualPrice: 20.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX5SRLH-es Tommy Hilfiger T Camiseta Básica de Manga Corta Blanco...'
+sku: 'B07DX5SRLH-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR

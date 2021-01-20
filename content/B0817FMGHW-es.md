@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817FMGHW-es Columbia Heather Canyon Chaqueta Softshell Hombre Azul...'
+sku: 'B0817FMGHW-es'
 tags: [ 'chaqueta', ]
 actualPrice: 37.99 EUR
 currency: EUR

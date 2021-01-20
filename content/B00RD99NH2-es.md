@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RD99NH2-es crocs Crocband U Zuecos Unisex Adulto Rosa Pearl Pink-Wild...'
+sku: 'B00RD99NH2-es'
 tags: [ 'zuecos', ]
 actualPrice: 28.88 EUR
 currency: EUR

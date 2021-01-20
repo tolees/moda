@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HXB12VL-es Gant D1. Harvest Moon Ruffle Dress Vestido Azul Marine 410...'
+sku: 'B07HXB12VL-es'
 tags: [ 'vestido', ]
 actualPrice: 87.29 EUR
 currency: EUR

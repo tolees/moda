@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9DMVCK-es adidas 18/19 Real Madrid Home Camiseta Niños Multicolor...'
+sku: 'B07D9DMVCK-es'
 tags: [ 'camiseta', ]
 actualPrice: 26.91 EUR
 currency: EUR

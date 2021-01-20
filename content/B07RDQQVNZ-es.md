@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDQQVNZ-es Tommy Hilfiger TJM Flannel Multi Check Shirt Camisa Negro...'
+sku: 'B07RDQQVNZ-es'
 tags: [ 'camisa', ]
 actualPrice: 22.15 EUR
 currency: EUR

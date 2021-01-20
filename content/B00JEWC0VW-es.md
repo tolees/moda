@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JEWC0VW-es Blend 700522 Blizzard - Vaqueros para hombres color azul...'
+sku: 'B00JEWC0VW-es'
 tags: [ 'vaqueros', ]
 actualPrice: 17.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3KFS39-es Superdry Colour Block Track Jacket Chaqueta Mujer...'
+sku: 'B07P3KFS39-es'
 tags: [ 'chaqueta', ]
 actualPrice: 20.7 EUR
 currency: EUR

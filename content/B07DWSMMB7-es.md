@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWSMMB7-es Zapatos de Seguridad Hombres LM-313 Zapatillas de Trabajo...'
+sku: 'B07DWSMMB7-es'
 tags: [ 'zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR

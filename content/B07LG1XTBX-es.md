@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG1XTBX-es Geox U Garret A Zapatos de Cordones Derby para Hombre Azul...'
+sku: 'B07LG1XTBX-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 41.97 EUR
 currency: EUR

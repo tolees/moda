@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FY2WX8M-es Souke Sports - Chaqueta de Ciclismo Hombre Chaqueta Ligera...'
+sku: 'B08FY2WX8M-es'
 tags: [ 'chaqueta', ]
 actualPrice: 39.99 EUR
 currency: EUR

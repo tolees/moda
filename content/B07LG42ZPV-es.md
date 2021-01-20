@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG42ZPV-es Geox J Kalispera Girl A Zapatillas Altas para Niñas Rosa...'
+sku: 'B07LG42ZPV-es'
 tags: [ 'geox', ]
 actualPrice: 38.4 EUR
 currency: EUR

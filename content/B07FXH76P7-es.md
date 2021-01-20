@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXH76P7-es ENKEEO - Gafas de Esquí Snowboard Esquiar VLT 8.59% Lente...'
+sku: 'B07FXH76P7-es'
 tags: [ 'gafas', ]
 actualPrice: 30.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018H8JYTY-es Pepe Jeans Venus Vaqueros Azul 10Oz Str American Blue Lt...'
+sku: 'B018H8JYTY-es'
 tags: [ 'vaqueros', ]
 actualPrice: 47.99 EUR
 currency: EUR

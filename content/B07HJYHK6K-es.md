@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJYHK6K-es Under Armour Grade School Jet 2019 Zapatos de Baloncesto...'
+sku: 'B07HJYHK6K-es'
 tags: [ 'zapatos', ]
 actualPrice: 49.82 EUR
 currency: EUR

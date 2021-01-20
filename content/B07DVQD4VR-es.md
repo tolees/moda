@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVQD4VR-es Collar de árbol de la vida y la familia con búho de...'
+sku: 'B07DVQD4VR-es'
 tags: [ 'collar', ]
 actualPrice: 23.99 EUR
 currency: EUR

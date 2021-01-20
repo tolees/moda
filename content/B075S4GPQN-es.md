@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S4GPQN-es MERAKI Sudadera con Capucha y Cremallera Mujer Gris Grey...'
+sku: 'B075S4GPQN-es'
 tags: [ 'meraki','sudadera', ]
 actualPrice: 16.18 EUR
 currency: EUR

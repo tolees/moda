@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4WBTY1-es Levi s Relaxed Graphic Sudadera Blanco Crew Box Taba...'
+sku: 'B07S4WBTY1-es'
 tags: [ 'sudadera', ]
 actualPrice: 38.95 EUR
 currency: EUR

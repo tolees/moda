@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HF5QRBL-es Bolso Mujer Pequeño Bolso Bandolera Mujer Pequeño Piel...'
+sku: 'B07HF5QRBL-es'
 tags: [ 'bolso', ]
 actualPrice: 22.99 EUR
 currency: EUR

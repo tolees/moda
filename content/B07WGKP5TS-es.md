@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGKP5TS-es Parfois - Clutch - Bolso De Fiesta Con Abalorios - Mujeres...'
+sku: 'B07WGKP5TS-es'
 tags: [ 'bolso', ]
 actualPrice: 19.99 EUR
 currency: EUR

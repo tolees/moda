@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPJPQ-es Napapijri Rainforest Pocket Chaqueta Azul Clematis Blue...'
+sku: 'B07MCSPJPQ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 100.83 EUR
 currency: EUR

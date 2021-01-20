@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W35QBWP-es Pepe Jeans Jett Camiseta Azul Deep Sea 597 Medium para Hombre'
+sku: 'B07W35QBWP-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR

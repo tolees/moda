@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5JLN81-es Joma Combi Camiseta Entrenamiento Hombre Negro L'
+sku: 'B07P5JLN81-es'
 tags: [ 'camiseta', ]
 actualPrice: 4.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGFHD9K-es Lacoste EF5473 Vestido Negro Noir 34 para Mujer'
+sku: 'B07TGFHD9K-es'
 tags: [ 'vestido', ]
 actualPrice: 93.0 EUR
 currency: EUR

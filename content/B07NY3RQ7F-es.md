@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3RQ7F-es Superdry Padded Elite Jacket Chaqueta Azul Nautical Navy...'
+sku: 'B07NY3RQ7F-es'
 tags: [ 'chaqueta', ]
 actualPrice: 23.46 EUR
 currency: EUR

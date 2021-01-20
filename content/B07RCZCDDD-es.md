@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZCDDD-es G-STAR RAW Graphic 8 Sudadera Negro Dk Black 6484 X-Small...'
+sku: 'B07RCZCDDD-es'
 tags: [ 'sudadera', ]
 actualPrice: 39.97 EUR
 currency: EUR

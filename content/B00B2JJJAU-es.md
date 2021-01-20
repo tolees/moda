@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B2JJJAU-es Brandit US Hemd Kurzarm Camisa Schwarz XXL para Hombre'
+sku: 'B00B2JJJAU-es'
 tags: [ 'camisa', ]
 actualPrice: 22.57 EUR
 currency: EUR

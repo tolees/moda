@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFDRRT3-es Tommy Hilfiger Corp Bar tee Camiseta Deporte Azul Blue Dw5...'
+sku: 'B07RFDRRT3-es'
 tags: [ 'camiseta', ]
 actualPrice: 21.95 EUR
 currency: EUR

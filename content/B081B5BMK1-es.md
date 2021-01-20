@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B5BMK1-es Columbia South Canyon Chaqueta Impermeable Mujer Azul...'
+sku: 'B081B5BMK1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 54.06 EUR
 currency: EUR

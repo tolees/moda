@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN7QWC4-es Hackett London Amr Hackett tee Camiseta Rojo 1bkorange...'
+sku: 'B07VN7QWC4-es'
 tags: [ 'camiseta', ]
 actualPrice: 31.0 EUR
 currency: EUR

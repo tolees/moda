@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW9J49F-es AOQUSSQOA Mujer Ropa de baño Monokin Traje de una Pieza...'
+sku: 'B07NW9J49F-es'
 tags: [ 'bikini', ]
 actualPrice: 27.99 EUR
 currency: EUR

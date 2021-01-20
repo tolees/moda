@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MRT86D0-es REPLAY MA955 Newbill Vaqueros Straight Azul Dark Blue...'
+sku: 'B00MRT86D0-es'
 tags: [ 'vaqueros', ]
 actualPrice: 32.01 EUR
 currency: EUR

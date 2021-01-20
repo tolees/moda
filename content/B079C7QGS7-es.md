@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C7QGS7-es JACK & JONES Jjebas tee SS U-Neck Noos Camiseta Azul Navy...'
+sku: 'B079C7QGS7-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.99 EUR
 currency: EUR

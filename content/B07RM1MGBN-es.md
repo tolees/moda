@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM1MGBN-es BAIGIO Maletín de Cuero Genuino Vintage Bolso Hombre...'
+sku: 'B07RM1MGBN-es'
 tags: [ 'bolso', ]
 actualPrice: 39.58 EUR
 currency: EUR

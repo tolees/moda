@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGP9PSF-es JACK & JONES Jjewashington Shirt L/s STS Camisa Verde...'
+sku: 'B07VGP9PSF-es'
 tags: [ 'camisa', ]
 actualPrice: 11.01 EUR
 currency: EUR

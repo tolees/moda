@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRJGJPK-es Geox J POSEIDO Boy D Zapatillas para Niños Azul Navy/Red...'
+sku: 'B07SRJGJPK-es'
 tags: [ 'geox', ]
 actualPrice: 26.36 EUR
 currency: EUR

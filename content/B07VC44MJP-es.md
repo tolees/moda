@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC44MJP-es Calvin Klein Center Monogram Box Slim tee Camiseta Negro...'
+sku: 'B07VC44MJP-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2L8JYV-es JACK & JONES PREMIUM 12154586 Abrigo Negro Black Black XX-...'
+sku: 'B07V2L8JYV-es'
 tags: [ 'abrigo', ]
 actualPrice: 104.99 EUR
 currency: EUR

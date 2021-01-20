@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KFC2CIK-es Bolso de Embrague Monedero Cartera Bolso de Lentejuelas...'
+sku: 'B01KFC2CIK-es'
 tags: [ 'bolso','monedero', ]
 actualPrice: 14.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1TZ4K9-es H by Hudson Antrim Zapatos de Cordones Derby para Hombre...'
+sku: 'B07C1TZ4K9-es'
 tags: [ 'zapatos', ]
 actualPrice: 30.99 EUR
 currency: EUR

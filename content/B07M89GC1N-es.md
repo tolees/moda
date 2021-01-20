@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M89GC1N-es Lee Sherpa Jacket Chaqueta Vaquera Negro Black 01 Large...'
+sku: 'B07M89GC1N-es'
 tags: [ 'chaqueta', ]
 actualPrice: 64.98 EUR
 currency: EUR

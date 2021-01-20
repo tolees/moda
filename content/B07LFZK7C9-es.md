@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZK7C9-es Geox D New ANNYA Mid A Zapatos con Tacón para Mujer Azul...'
+sku: 'B07LFZK7C9-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 23.02 EUR
 currency: EUR

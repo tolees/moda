@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHWQVV6-es Esprit 099EE1K016s Camiseta de Manga Larga Azul Navy 2 401...'
+sku: 'B07VHWQVV6-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR

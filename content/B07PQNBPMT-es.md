@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQNBPMT-es El Ganso 1 Camisa casual Rojo Rojo 0010 Small para Hombre'
+sku: 'B07PQNBPMT-es'
 tags: [ 'camisa', ]
 actualPrice: 24.44 EUR
 currency: EUR

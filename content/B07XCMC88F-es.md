@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCMC88F-es coskefy Guantes Moto Invierno Guantes Termicos para Hombre...'
+sku: 'B07XCMC88F-es'
 tags: [ 'guantes', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WTVQJL-es Quiksilver Monkey Abyss Zapatos de Playa y Piscina para...'
+sku: 'B078WTVQJL-es'
 tags: [ 'zapatos', ]
 actualPrice: 11.49 EUR
 currency: EUR

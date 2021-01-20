@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVFC53Y-es Pepe Jeans Dexter Camisa Azul Indigo 561 Large para Hombre'
+sku: 'B07RVFC53Y-es'
 tags: [ 'camisa', ]
 actualPrice: 29.89 EUR
 currency: EUR

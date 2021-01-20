@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG1SQG6-es Geox J HADRIEL Girl D Botas Slouch para Niñas Beige Smoke...'
+sku: 'B07LG1SQG6-es'
 tags: [ 'geox', ]
 actualPrice: 14.28 EUR
 currency: EUR

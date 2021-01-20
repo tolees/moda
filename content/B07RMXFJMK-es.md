@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMXFJMK-es SimpleLife Bolso Bandolera de Las Mujeres holográfica...'
+sku: 'B07RMXFJMK-es'
 tags: [ 'bolso', ]
 actualPrice: 17.25 EUR
 currency: EUR

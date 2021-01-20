@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBW7CXJ-es Tommy Hilfiger Bandeau-RP Parte de Arriba de Bikini Negro...'
+sku: 'B07LBW7CXJ-es'
 tags: [ 'bikini', ]
 actualPrice: 27.93 EUR
 currency: EUR

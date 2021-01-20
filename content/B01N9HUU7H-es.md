@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9HUU7H-es find. Camisa Clásica Manga Corta Hombre Azul Navy Small'
+sku: 'B01N9HUU7H-es'
 tags: [ 'camisa', ]
 actualPrice: 7.13 EUR
 currency: EUR

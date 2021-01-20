@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M83W2ZJ-es Napapijri Rainforest Pocket Chaqueta Verde Hunter Green 2...'
+sku: 'B07M83W2ZJ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 77.08 EUR
 currency: EUR

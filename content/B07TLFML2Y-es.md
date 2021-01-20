@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFML2Y-es Levi s Housemark Graphic tee Camiseta Rojo Hm Ssnl Emb...'
+sku: 'B07TLFML2Y-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0733F1SMP-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
+sku: 'B0733F1SMP-es'
 tags: [ 'sudadera','-','find.', ]
 actualPrice: 8.91 EUR
 currency: EUR

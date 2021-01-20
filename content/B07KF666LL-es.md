@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF666LL-es Levi s SS Battery Hm Shirt Camisa Blanco White X 0000...'
+sku: 'B07KF666LL-es'
 tags: [ 'camisa', ]
 actualPrice: 22.49 EUR
 currency: EUR

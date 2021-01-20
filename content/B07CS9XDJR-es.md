@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CS9XDJR-es Pepe Jeans Soho Vaqueros Violet 28W / 30L para Mujer'
+sku: 'B07CS9XDJR-es'
 tags: [ 'vaqueros', ]
 actualPrice: 35.61 EUR
 currency: EUR

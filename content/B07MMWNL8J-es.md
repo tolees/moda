@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWNL8J-es Wrangler Skinny Jeans Vaqueros Azul Dark Indigo X1e 30W /...'
+sku: 'B07MMWNL8J-es'
 tags: [ 'vaqueros', ]
 actualPrice: 57.69 EUR
 currency: EUR

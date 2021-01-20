@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9W19TF-es edc by Esprit 129cc1k040 Camisa Manga Larga Gris Light...'
+sku: 'B07Y9W19TF-es'
 tags: [ 'camisa', ]
 actualPrice: 9.99 EUR
 currency: EUR

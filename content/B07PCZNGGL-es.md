@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCZNGGL-es Tommy Hilfiger Heritage Crew Neck Sweatshirt Sudadera...'
+sku: 'B07PCZNGGL-es'
 tags: [ 'sudadera', ]
 actualPrice: 51.23 EUR
 currency: EUR

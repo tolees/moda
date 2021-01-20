@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF3BS79-es Levi s Plus Size 311 Pl Shaping Skinny Vaqueros Light A...'
+sku: 'B07KF3BS79-es'
 tags: [ 'vaqueros', ]
 actualPrice: 15.11 EUR
 currency: EUR

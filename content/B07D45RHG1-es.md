@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D45RHG1-es FIND Court Zapatos de Tacón Rosa Nude 39 EU'
+sku: 'B07D45RHG1-es'
 tags: [ 'zapatos', ]
 actualPrice: 25.2 EUR
 currency: EUR

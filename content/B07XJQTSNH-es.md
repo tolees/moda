@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJQTSNH-es Desigual Mone adaggio - Monedero con Cremallera para Mujer...'
+sku: 'B07XJQTSNH-es'
 tags: [ 'monedero', ]
 actualPrice: 24.95 EUR
 currency: EUR

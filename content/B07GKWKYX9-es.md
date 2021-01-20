@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKWKYX9-es FITTOO Mujeres PU Leggins Cuero Brillante Pantalón...'
+sku: 'B07GKWKYX9-es'
 tags: [ 'leggins','pantalón', ]
 actualPrice: 15.99 EUR
 currency: EUR

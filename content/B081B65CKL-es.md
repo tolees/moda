@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B65CKL-es Columbia CSC Basic Logo II Sudadera con Capucha Hombre...'
+sku: 'B081B65CKL-es'
 tags: [ 'sudadera', ]
 actualPrice: 38.94 EUR
 currency: EUR

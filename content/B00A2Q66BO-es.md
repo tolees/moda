@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A2Q66BO-es Black Diamond Crag Half Finger Gloves - Guantes de...'
+sku: 'B00A2Q66BO-es'
 tags: [ 'guantes', ]
 actualPrice: 11.99 EUR
 currency: EUR

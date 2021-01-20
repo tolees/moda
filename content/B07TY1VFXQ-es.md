@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY1VFXQ-es K-WAY Claudette Abrigo Gris Grey Lt Lead 343 104 Talla del...'
+sku: 'B07TY1VFXQ-es'
 tags: [ 'abrigo', ]
 actualPrice: 43.14 EUR
 currency: EUR

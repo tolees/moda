@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRRRQTH-es KUULEE Hombre Camisa Manga Larga Slim Fit Camisa...'
+sku: 'B07KRRRQTH-es'
 tags: [ 'camisa', ]
 actualPrice: 5.99 EUR
 currency: EUR

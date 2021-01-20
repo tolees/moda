@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV1RN7T-es Lacoste Croco Slide 119 1 737cma0018092 Sandalias de Punta...'
+sku: 'B07DV1RN7T-es'
 tags: [ 'sandalias', ]
 actualPrice: 28.95 EUR
 currency: EUR

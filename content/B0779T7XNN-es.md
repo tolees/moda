@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779T7XNN-es Marca Amazon - AURIQUE Sudadera para Yoga Mujer Verde Sea...'
+sku: 'B0779T7XNN-es'
 tags: [ 'aurique','sudadera', ]
 actualPrice: 7.2 EUR
 currency: EUR

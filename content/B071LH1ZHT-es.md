@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LH1ZHT-es Under Armour Sportstyle Pique Pantalón deportivo para...'
+sku: 'B071LH1ZHT-es'
 tags: [ 'pantalón', ]
 actualPrice: 35.41 EUR
 currency: EUR

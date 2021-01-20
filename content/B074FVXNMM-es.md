@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FVXNMM-es find. Sudadera con Capucha y Detalle Bordado para Hombre...'
+sku: 'B074FVXNMM-es'
 tags: [ 'sudadera', ]
 actualPrice: 9 EUR
 currency: EUR

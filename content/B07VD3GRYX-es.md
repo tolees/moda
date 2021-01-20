@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD3GRYX-es Calvin Klein Washed Stripe Stretch Shirt f Camisa Azul...'
+sku: 'B07VD3GRYX-es'
 tags: [ 'camisa', ]
 actualPrice: 29.72 EUR
 currency: EUR

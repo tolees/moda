@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJK3K5Q-es Clarks Hero Walk Zapatos de Cordones Derby Blanco White...'
+sku: 'B07TJK3K5Q-es'
 tags: [ 'zapatos', ]
 actualPrice: 47.41 EUR
 currency: EUR

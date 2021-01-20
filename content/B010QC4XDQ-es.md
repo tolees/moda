@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010QC4XDQ-es ONLY Onlroyal High Waist Skinny Jeans Vaqueros Medium Blue...'
+sku: 'B010QC4XDQ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 13.9 EUR
 currency: EUR

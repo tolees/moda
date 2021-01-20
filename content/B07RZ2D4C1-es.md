@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ2D4C1-es BILLABONG Bus Stop Jacket Chaqueta Deportiva Hombre Negro...'
+sku: 'B07RZ2D4C1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 41.52 EUR
 currency: EUR

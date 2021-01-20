@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B459VTX-es SELECTED HOMME Slhslimsel-Pelle Shirt LS B Noos Camisa...'
+sku: 'B07B459VTX-es'
 tags: [ 'camisa', ]
 actualPrice: 23.18 EUR
 currency: EUR

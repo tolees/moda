@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BBTDXJ8-es ATTCL Hombre Gafas De Sol Deportes Polarizado Súper Ligero...'
+sku: 'B01BBTDXJ8-es'
 tags: [ 'gafas', ]
 actualPrice: 25.0 EUR
 currency: EUR

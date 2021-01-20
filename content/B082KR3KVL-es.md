@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KR3KVL-es Sudadera con Capucha de Gran tamaño la Original Sherpa con...'
+sku: 'B082KR3KVL-es'
 tags: [ 'sudadera', ]
 actualPrice: 32.99 EUR
 currency: EUR

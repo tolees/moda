@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZRYZ4-es Geox U ARIAM B Zapatillas para Hombre Azul Navy C4002 45 EU'
+sku: 'B07LFZRYZ4-es'
 tags: [ 'geox', ]
 actualPrice: 31.27 EUR
 currency: EUR

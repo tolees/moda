@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0854DKYRP-es CheChury Bikini Mujer Moda Conjuntos De Bikini Rayas Talle...'
+sku: 'B0854DKYRP-es'
 tags: [ 'bikini','moda', ]
 actualPrice: 12.28 EUR
 currency: EUR

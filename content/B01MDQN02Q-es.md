@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDQN02Q-es BOSS T-Shirt RN 3p Co Camiseta para Hombre Blanco White...'
+sku: 'B01MDQN02Q-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.94 EUR
 currency: EUR

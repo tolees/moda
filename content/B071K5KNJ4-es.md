@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071K5KNJ4-es Lee Logo tee Camiseta Blanco White Ai12 XX-Large para Hombre'
+sku: 'B071K5KNJ4-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR

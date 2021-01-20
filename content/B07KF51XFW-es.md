@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF51XFW-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Ivy Adv...'
+sku: 'B07KF51XFW-es'
 tags: [ 'vaqueros', ]
 actualPrice: 69.64 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWSM63R-es Geox B Flexyper Boy A Zapatillas para Bebés Azul Dk...'
+sku: 'B07SWSM63R-es'
 tags: [ 'geox', ]
 actualPrice: 27.94 EUR
 currency: EUR

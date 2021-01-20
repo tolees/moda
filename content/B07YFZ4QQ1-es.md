@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFZ4QQ1-es Marca Amazon - find. SHANA-S-1A-58 - Tira de tobillo de...'
+sku: 'B07YFZ4QQ1-es'
 tags: [ '-','find.', ]
 actualPrice: 4.11 EUR
 currency: EUR

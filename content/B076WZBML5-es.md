@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076WZBML5-es find. Sudadera con Mensaje Mujer Rosa Medium'
+sku: 'B076WZBML5-es'
 tags: [ 'sudadera', ]
 actualPrice: 9.3 EUR
 currency: EUR

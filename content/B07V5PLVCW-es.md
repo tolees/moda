@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5PLVCW-es Mavi Printed tee Camiseta Azul Indigo 18790 Large Talla...'
+sku: 'B07V5PLVCW-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.52 EUR
 currency: EUR

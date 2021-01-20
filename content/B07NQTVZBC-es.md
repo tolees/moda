@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQTVZBC-es Springfield 7Ba C/Red G7 Block Torzal Jersey Verde Dark...'
+sku: 'B07NQTVZBC-es'
 tags: [ 'jersey', ]
 actualPrice: 14.99 EUR
 currency: EUR

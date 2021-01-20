@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MS8QW2-es find. 17 03 LLF 04 vestido fiesta mujer Rojo Rot 40 Talla...'
+sku: 'B072MS8QW2-es'
 tags: [ 'vestido', ]
 actualPrice: 7.8 EUR
 currency: EUR

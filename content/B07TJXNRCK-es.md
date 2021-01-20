@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJXNRCK-es Lacoste Sport Sh4899 Sudadera Azul Methylene/Noir-Blanc...'
+sku: 'B07TJXNRCK-es'
 tags: [ 'sudadera', ]
 actualPrice: 54.95 EUR
 currency: EUR

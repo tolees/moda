@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJGDYD-es Kipling New Hiphurray Bolso Saco para Mujer Azul Stone...'
+sku: 'B07PSJGDYD-es'
 tags: [ 'bolso', ]
 actualPrice: 17.5 EUR
 currency: EUR

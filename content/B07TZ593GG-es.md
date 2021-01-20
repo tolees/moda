@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ593GG-es Women s Secret Thermal Generic GF Snow PJ Conjuntos de...'
+sku: 'B07TZ593GG-es'
 tags: [ 'pijama', ]
 actualPrice: 14.48 EUR
 currency: EUR

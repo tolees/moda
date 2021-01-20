@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDNQ36-es Levi s 511 Slim Fit Vaqueros Verde Muddy Forest Sueded...'
+sku: 'B07TKDNQ36-es'
 tags: [ 'vaqueros', ]
 actualPrice: 55.99 EUR
 currency: EUR

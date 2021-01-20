@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K75FGFQ-es Levi s Graphic B Sudadera Blanco Add Crew T2 Flock White...'
+sku: 'B07K75FGFQ-es'
 tags: [ 'sudadera', ]
 actualPrice: 29.5 EUR
 currency: EUR

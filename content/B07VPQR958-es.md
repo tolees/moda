@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPQR958-es Calvin Klein Braguita de Bikini Gris Elementary Stars Grey...'
+sku: 'B07VPQR958-es'
 tags: [ 'bikini', ]
 actualPrice: 5.02 EUR
 currency: EUR

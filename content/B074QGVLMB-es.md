@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074QGVLMB-es Uvex Sportstyle 706 Gafas Deportivas Unisex Adulto Negro...'
+sku: 'B074QGVLMB-es'
 tags: [ 'gafas', ]
 actualPrice: 18.08 EUR
 currency: EUR

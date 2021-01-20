@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MA3FMRU-es flintronic ® Billetera Tarjetas de Crédito Slim Moda RFID...'
+sku: 'B01MA3FMRU-es'
 tags: [ 'billetera','moda','monedero', ]
 actualPrice: 9.99 EUR
 currency: EUR

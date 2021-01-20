@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0734HBFG3-es Lakerom Zapatos Mocasines para Hombres Zapatos sin...'
+sku: 'B0734HBFG3-es'
 tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR

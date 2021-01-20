@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFQ4BGF-es Gafas de Sol polarizadas Deportivas para Hombres Mujeres...'
+sku: 'B07QFQ4BGF-es'
 tags: [ 'gafas', ]
 actualPrice: 15.0 EUR
 currency: EUR

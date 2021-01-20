@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBM71PH-es adidas Core 18 Hoody Sudadera con Capucha Hombre...'
+sku: 'B07XBM71PH-es'
 tags: [ 'sudadera', ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BGJNFP-es Asics Gel-Pulse 11 Zapatos para Correr Mens Gris 44 1/2 EU'
+sku: 'B081BGJNFP-es'
 tags: [ 'zapatos', ]
 actualPrice: 70.0 EUR
 currency: EUR

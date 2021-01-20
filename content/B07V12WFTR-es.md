@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V12WFTR-es Women s Secret Sense 1 Se1 Ruffle PJ Conjuntos de Pijama...'
+sku: 'B07V12WFTR-es'
 tags: [ 'pijama', ]
 actualPrice: 9.99 EUR
 currency: EUR

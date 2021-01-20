@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018G2V6CO-es Tommy Hilfiger Corte Bikini A Braguitas con Cintura...'
+sku: 'B018G2V6CO-es'
 tags: [ 'bikini', ]
 actualPrice: 11.49 EUR
 currency: EUR

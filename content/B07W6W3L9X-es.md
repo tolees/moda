@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6W3L9X-es JACK & JONES Jorpannel Knit Crew Neck. Jersey Azul Navy...'
+sku: 'B07W6W3L9X-es'
 tags: [ 'jersey', ]
 actualPrice: 10.1 EUR
 currency: EUR

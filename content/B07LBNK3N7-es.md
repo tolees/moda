@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNK3N7-es Helly Hansen Urban Largo Parka Chaqueta de Invierno Hombre...'
+sku: 'B07LBNK3N7-es'
 tags: [ 'chaqueta','parka', ]
 actualPrice: 150.0 EUR
 currency: EUR

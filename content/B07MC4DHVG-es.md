@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC4DHVG-es Hackett Mini Chk BS Camisa Blue/White 5ar Small para Hombre'
+sku: 'B07MC4DHVG-es'
 tags: [ 'camisa', ]
 actualPrice: 19.66 EUR
 currency: EUR

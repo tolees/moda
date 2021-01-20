@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN8QX3X-es Napapijri Bolso Bandolera Negro Negro - N0YIY0'
+sku: 'B07MN8QX3X-es'
 tags: [ 'bolso', ]
 actualPrice: 31.15 EUR
 currency: EUR

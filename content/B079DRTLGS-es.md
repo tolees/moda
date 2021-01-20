@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DRTLGS-es Anna Smith Bolso de embrague con correa Bolso de noche de...'
+sku: 'B079DRTLGS-es'
 tags: [ 'bolso', ]
 actualPrice: 18.99 EUR
 currency: EUR

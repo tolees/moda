@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MJ2YPMQ-es Reslad Camisa vaquera para hombre Slim Fit Vintage Denim...'
+sku: 'B00MJ2YPMQ-es'
 tags: [ 'camisa', ]
 actualPrice: 29.95 EUR
 currency: EUR

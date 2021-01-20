@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRV645D-es Zapatos de Seguridad para Hombre Zapatillas de Seguridad...'
+sku: 'B07RRV645D-es'
 tags: [ 'zapatos', ]
 actualPrice: 45.99 EUR
 currency: EUR

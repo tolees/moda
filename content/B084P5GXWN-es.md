@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084P5GXWN-es Camiseta de Baloncesto para Hombre Los Angeles Lakers #24...'
+sku: 'B084P5GXWN-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.97 EUR
 currency: EUR

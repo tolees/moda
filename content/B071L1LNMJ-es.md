@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L1LNMJ-es Marca Amazon - find. Camisa Hombre Rosa Dusty Pink XL...'
+sku: 'B071L1LNMJ-es'
 tags: [ 'camisa','-','find.', ]
 actualPrice: 5.16 EUR
 currency: EUR

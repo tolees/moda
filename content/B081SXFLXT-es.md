@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SXFLXT-es XWZZZZ Juguete de la Felicidad Masturbador Masculino Copa...'
+sku: 'B081SXFLXT-es'
 tags: [ 'camiseta', ]
 actualPrice: 32.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH9TBSF-es Timberland Classic 2 Eye Náuticos para Hombre Marrón Brown...'
+sku: 'B07FH9TBSF-es'
 tags: [ 'timberland', ]
 actualPrice: 69.95 EUR
 currency: EUR

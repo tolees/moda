@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VV2NYVY-es Meizas Conjuntos de Bikinis para Mujer Push Up Bikini...'
+sku: 'B07VV2NYVY-es'
 tags: [ 'bikini', ]
 actualPrice: 5.26 EUR
 currency: EUR

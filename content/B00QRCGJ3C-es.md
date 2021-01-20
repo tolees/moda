@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QRCGJ3C-es Geox U NEBULA B - zapatilla deportiva de cuero hombre Azul...'
+sku: 'B00QRCGJ3C-es'
 tags: [ 'geox','zapatilla', ]
 actualPrice: 69.79 EUR
 currency: EUR

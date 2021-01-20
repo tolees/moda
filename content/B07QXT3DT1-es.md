@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXT3DT1-es I IHAYNER Mochila Para Mujer Mini Mochila Para Mujer...'
+sku: 'B07QXT3DT1-es'
 tags: [ 'monedero', ]
 actualPrice: 22.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007K8SJ2G-es Arena HYDROSOFT JR Boy HOO Zapatos de Playa y Piscina...'
+sku: 'B007K8SJ2G-es'
 tags: [ 'zapatos', ]
 actualPrice: 10.2 EUR
 currency: EUR

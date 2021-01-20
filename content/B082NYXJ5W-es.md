@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NYXJ5W-es Oihxse Transparente Silicona Case Compatible con Xiaomi Mi...'
+sku: 'B082NYXJ5W-es'
 tags: [ 'moda', ]
 actualPrice: 7.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJFWMZX-es Springfield 4.1.Gym.Skinny Cropped Ro Vaqueros Straight...'
+sku: 'B07NJFWMZX-es'
 tags: [ 'vaqueros', ]
 actualPrice: 13.84 EUR
 currency: EUR

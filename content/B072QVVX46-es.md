@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072QVVX46-es PHOENISING - Pantalón Corto - para Mujer Azul Azul Oscuro 40'
+sku: 'B072QVVX46-es'
 tags: [ 'pantalón', ]
 actualPrice: 18.23 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W97CMGC-es FIND Block Heel Round Toe Zapatos de Tacón Naranja Red 37 EU'
+sku: 'B07W97CMGC-es'
 tags: [ 'zapatos', ]
 actualPrice: 4.46 EUR
 currency: EUR

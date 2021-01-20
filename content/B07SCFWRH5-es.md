@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCFWRH5-es adidas FreeLift Climachill 3-Stripes tee Men Camiseta de...'
+sku: 'B07SCFWRH5-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.2 EUR
 currency: EUR

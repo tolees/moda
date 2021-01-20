@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYVNB2R-es Skechers D lites 2.0 Sandalias de Punta Descubierta para...'
+sku: 'B07TYVNB2R-es'
 tags: [ 'sandalias', ]
 actualPrice: 28.83 EUR
 currency: EUR

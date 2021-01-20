@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9YJ6BC-es Morgan 191-mentor.n Camiseta Negro Noir Noir X-Large Talla...'
+sku: 'B07P9YJ6BC-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.85 EUR
 currency: EUR

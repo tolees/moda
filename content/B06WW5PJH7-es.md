@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WW5PJH7-es Sloggi Men 24/7 Microfibre H Hipster C2p Boxer Hombre...'
+sku: 'B06WW5PJH7-es'
 tags: [ 'boxer', ]
 actualPrice: 16.73 EUR
 currency: EUR

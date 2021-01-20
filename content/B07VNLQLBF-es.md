@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNLQLBF-es New Look Earnie Patch Pocket Camisa Negro Black 1 40 para...'
+sku: 'B07VNLQLBF-es'
 tags: [ 'camisa', ]
 actualPrice: 8.42 EUR
 currency: EUR

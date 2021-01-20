@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLJM8P-es Levi s The Perfect Tee Camiseta Mujer Negro 90 s Serif...'
+sku: 'B07RZLJM8P-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR

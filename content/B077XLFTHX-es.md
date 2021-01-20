@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XLFTHX-es Under Armour Fleece Sudadera para Hombre Camiseta de Manga...'
+sku: 'B077XLFTHX-es'
 tags: [ 'camiseta','sudadera', ]
 actualPrice: 18.99 EUR
 currency: EUR

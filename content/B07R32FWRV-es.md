@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R32FWRV-es riou Bikini Conjuntos de Bikinis para Mujer Push Up...'
+sku: 'B07R32FWRV-es'
 tags: [ 'bikini', ]
 actualPrice: 1.97 EUR
 currency: EUR

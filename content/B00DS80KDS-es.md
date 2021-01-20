@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DS80KDS-es MY EVENING DRESS Marlene Vestido para Mujer Red - Burgundy 38'
+sku: 'B00DS80KDS-es'
 tags: [ 'vestido', ]
 actualPrice: 11.86 EUR
 currency: EUR

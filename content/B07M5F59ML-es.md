@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F59ML-es Wrangler Jacket Chaqueta Bomber Azul Navy 114 X-Large para...'
+sku: 'B07M5F59ML-es'
 tags: [ 'chaqueta', ]
 actualPrice: 74.98 EUR
 currency: EUR

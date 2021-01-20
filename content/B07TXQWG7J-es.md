@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXQWG7J-es Skechers Rumble On-Chart Topper Sandalias de Talón Abierto...'
+sku: 'B07TXQWG7J-es'
 tags: [ 'sandalias', ]
 actualPrice: 30.4 EUR
 currency: EUR

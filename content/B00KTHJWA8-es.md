@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KTHJWA8-es Under Armour Tech Short Sleeve V-Twist Camiseta Mujer...'
+sku: 'B00KTHJWA8-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.1 EUR
 currency: EUR

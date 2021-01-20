@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWRKCG4-es AIMTOP 2 Pack Leggins Termicos Mujer Leggins Mujer...'
+sku: 'B07VWRKCG4-es'
 tags: [ 'leggins', ]
 actualPrice: 9.35 EUR
 currency: EUR

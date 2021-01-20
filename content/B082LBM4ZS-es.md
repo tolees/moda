@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082LBM4ZS-es Zoggs Predator Flex Gafas de natación Unisex Adulto...'
+sku: 'B082LBM4ZS-es'
 tags: [ 'gafas', ]
 actualPrice: 26.49 EUR
 currency: EUR

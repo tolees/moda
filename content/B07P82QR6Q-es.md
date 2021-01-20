@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P82QR6Q-es Lee Elly Vaqueros Gris Lead Grey 30 31W / 31L para Mujer'
+sku: 'B07P82QR6Q-es'
 tags: [ 'vaqueros', ]
 actualPrice: 20.2 EUR
 currency: EUR

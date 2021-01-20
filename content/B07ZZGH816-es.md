@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZZGH816-es Charles Wilson Jersey de Punto Fino de Algodón Cuello Pico...'
+sku: 'B07ZZGH816-es'
 tags: [ 'jersey', ]
 actualPrice: 19.95 EUR
 currency: EUR

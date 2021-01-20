@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSDCNGY-es Clarks Un Maui Lace Zapatos de Cordones Derby para Mujer...'
+sku: 'B07FSDCNGY-es'
 tags: [ 'zapatos', ]
 actualPrice: 54.95 EUR
 currency: EUR

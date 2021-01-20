@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089LLHW6D-es Dihope - Pantalón de chándal para hombre de algodón estilo...'
+sku: 'B089LLHW6D-es'
 tags: [ 'pantalón', ]
 actualPrice: 16.99 EUR
 currency: EUR

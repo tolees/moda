@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRXMKYL-es SALOMON Agile Jkt M Chaqueta Softshell Mezcla de...'
+sku: 'B07KRXMKYL-es'
 tags: [ 'chaqueta', ]
 actualPrice: 57.15 EUR
 currency: EUR

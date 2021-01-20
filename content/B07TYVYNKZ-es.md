@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYVYNKZ-es Wrangler LS 1 Pkt Shirt Camisa Azul Navy 114 Small para...'
+sku: 'B07TYVYNKZ-es'
 tags: [ 'camisa', ]
 actualPrice: 29.99 EUR
 currency: EUR

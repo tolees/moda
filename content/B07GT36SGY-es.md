@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT36SGY-es PUMA Active Soft tee Camiseta Hombre Blanco 2XL'
+sku: 'B07GT36SGY-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.54 EUR
 currency: EUR

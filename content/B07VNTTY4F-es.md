@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNTTY4F-es Lee Luke Vaqueros Moto Flat EB 32W / 34L para Hombre'
+sku: 'B07VNTTY4F-es'
 tags: [ 'vaqueros', ]
 actualPrice: 52.58 EUR
 currency: EUR

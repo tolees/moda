@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IHZQN8W-es The North Face Tekware TNF Chaqueta 200 Shadow Hombre...'
+sku: 'B01IHZQN8W-es'
 tags: [ 'chaqueta', ]
 actualPrice: 64.54 EUR
 currency: EUR

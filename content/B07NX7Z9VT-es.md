@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NX7Z9VT-es Superdry Tyler Vaqueros Slim Azul Union Dark Blue Vf6...'
+sku: 'B07NX7Z9VT-es'
 tags: [ 'vaqueros', ]
 actualPrice: 46.49 EUR
 currency: EUR

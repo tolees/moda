@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KM9XD13-es Clarks Tri Walk Sandalias para Niñas Negro Black Combi...'
+sku: 'B07KM9XD13-es'
 tags: [ 'sandalias', ]
 actualPrice: 77.6 EUR
 currency: EUR

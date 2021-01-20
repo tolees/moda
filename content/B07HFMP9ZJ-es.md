@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFMP9ZJ-es Tommy Hilfiger Modern Jaspe Camiseta Blanco Classic White...'
+sku: 'B07HFMP9ZJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.49 EUR
 currency: EUR

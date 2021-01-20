@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YRDVN4J-es VIFUUR Zapatillas Hombre Mujer de casa Espuma de Memoria...'
+sku: 'B07YRDVN4J-es'
 tags: [ 'zapatos', ]
 actualPrice: 14.99 EUR
 currency: EUR

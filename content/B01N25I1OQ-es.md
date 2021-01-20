@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N25I1OQ-es Geox Uomo Symbol B Zapatos de Cordones Oxford para Hombre...'
+sku: 'B01N25I1OQ-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 69.95 EUR
 currency: EUR

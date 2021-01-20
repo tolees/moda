@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4B1ZW5-es G-STAR RAW Tacoma Long Sleeve Shirt Straight Vestido...'
+sku: 'B07Z4B1ZW5-es'
 tags: [ 'vestido', ]
 actualPrice: 69.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9GSKV4-es Under Armour Storm Launch Chaqueta Mujer Negro...'
+sku: 'B07L9GSKV4-es'
 tags: [ 'chaqueta', ]
 actualPrice: 27.64 EUR
 currency: EUR

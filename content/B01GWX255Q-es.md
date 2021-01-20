@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GWX255Q-es Geox U New Damon B Mocasines para Hombre Negro BLACKC9999...'
+sku: 'B01GWX255Q-es'
 tags: [ 'geox', ]
 actualPrice: 75.96 EUR
 currency: EUR

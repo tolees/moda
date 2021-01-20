@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMXM3B4-es Timberland Splitrock 2 Waterproof Zapatillas Chukka para...'
+sku: 'B07JMXM3B4-es'
 tags: [ 'timberland', ]
 actualPrice: 96.54 EUR
 currency: EUR

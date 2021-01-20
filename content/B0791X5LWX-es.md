@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0791X5LWX-es Recién nacido Pijama Algodón Mameluco Niñas Niños Peleles...'
+sku: 'B0791X5LWX-es'
 tags: [ 'pijama', ]
 actualPrice: 11.97 EUR
 currency: EUR

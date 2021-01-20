@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYKQFRT-es HAWKERS · ONE LS · Blue · Chrome · Gafas de sol para...'
+sku: 'B07HYKQFRT-es'
 tags: [ 'gafas', ]
 actualPrice: 16.7 EUR
 currency: EUR

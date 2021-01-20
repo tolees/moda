@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AC6P7M2-es Nike Park VI Camiseta de Manga Corta para hombre Negro...'
+sku: 'B01AC6P7M2-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.74 EUR
 currency: EUR

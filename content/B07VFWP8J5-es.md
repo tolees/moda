@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFWP8J5-es Reebok Boxer para Hombre Multicolor Small pack de 4'
+sku: 'B07VFWP8J5-es'
 tags: [ 'boxer', ]
 actualPrice: 17.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLPYDF-es Geox U Eolo A Zapatillas para Hombre Marrón Taupe C6029 42 EU'
+sku: 'B07STLPYDF-es'
 tags: [ 'geox', ]
 actualPrice: 41.93 EUR
 currency: EUR

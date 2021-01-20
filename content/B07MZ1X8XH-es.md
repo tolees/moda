@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ1X8XH-es Vans Flying V Crew tee Camiseta Negro Black Blk 34 Talla...'
+sku: 'B07MZ1X8XH-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2DX1D3-es Timberland Adventure Seeker Toddler Sandalias de Punta...'
+sku: 'B07T2DX1D3-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 20.0 EUR
 currency: EUR

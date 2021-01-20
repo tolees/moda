@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL7QZQQ-es Element Cornell Classic Ho Sudadera con Capucha Hombre...'
+sku: 'B07DL7QZQQ-es'
 tags: [ 'sudadera', ]
 actualPrice: 23.55 EUR
 currency: EUR

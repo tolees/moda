@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKGBQGY-es Under Armour UA HOVR Havoc 2 Zapatos de Baloncesto para...'
+sku: 'B07HKGBQGY-es'
 tags: [ 'zapatos', ]
 actualPrice: 52.19 EUR
 currency: EUR

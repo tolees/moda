@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKS7CPC-es Amazon Essentials - Chaqueta de uso diario para mujer...'
+sku: 'B07JKS7CPC-es'
 tags: [ 'chaqueta', ]
 actualPrice: 13.5 EUR
 currency: EUR

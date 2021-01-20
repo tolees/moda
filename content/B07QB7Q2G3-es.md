@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB7Q2G3-es P Prettyia Calzador de Zapatos de Madera Mango Largo...'
+sku: 'B07QB7Q2G3-es'
 tags: [ 'zapatos', ]
 actualPrice: 9.22 EUR
 currency: EUR

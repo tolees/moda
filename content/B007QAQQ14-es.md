@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007QAQQ14-es Cressi Portofino Chanclas Flip Flops Hombre Azul/Blanco...'
+sku: 'B007QAQQ14-es'
 tags: [ 'chanclas', ]
 actualPrice: 10.99 EUR
 currency: EUR

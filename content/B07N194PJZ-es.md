@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N194PJZ-es Lee Authentic Pkt T LS Camiseta Azul Midnight Navy Ma...'
+sku: 'B07N194PJZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.59 EUR
 currency: EUR

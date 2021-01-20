@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNL8WT3-es Only Onlcarol S/s Glitter V-Neck Top Jrs Camiseta sin...'
+sku: 'B07VNL8WT3-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.35 EUR
 currency: EUR

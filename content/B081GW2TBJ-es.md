@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GW2TBJ-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
+sku: 'B081GW2TBJ-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.04 EUR
 currency: EUR

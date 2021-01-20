@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GXEFGZ6-es Lemaitre 91538 tamaño 38 XL Ancho S3 Andy BAU bajo Zapatos...'
+sku: 'B00GXEFGZ6-es'
 tags: [ 'zapatos', ]
 actualPrice: 15.93 EUR
 currency: EUR

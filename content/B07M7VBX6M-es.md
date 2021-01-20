@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7VBX6M-es Geographical Norway - Chaqueta - para hombre azul marino L'
+sku: 'B07M7VBX6M-es'
 tags: [ 'chaqueta', ]
 actualPrice: 69.3 EUR
 currency: EUR

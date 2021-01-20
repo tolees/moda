@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9SVQ4L-es Esprit Kids RM1039307 Camiseta Blanco White 010 Talla del...'
+sku: 'B07F9SVQ4L-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.09 EUR
 currency: EUR

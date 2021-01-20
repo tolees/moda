@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHYZFVB-es LvShui Camiseta BTS Unisex Manga Corta Cuello Redondo...'
+sku: 'B08DHYZFVB-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.99 EUR
 currency: EUR

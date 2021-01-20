@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQPLKX2-es Clarks Cammy Glory Sandalias Punta Cerrada para Mujer...'
+sku: 'B07FQPLKX2-es'
 tags: [ 'sandalias', ]
 actualPrice: 36.78 EUR
 currency: EUR

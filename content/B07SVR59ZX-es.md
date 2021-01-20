@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVR59ZX-es Vero Moda NOS Vmexcursion Expedition Aw193/4parka Noos...'
+sku: 'B07SVR59ZX-es'
 tags: [ 'abrigo','moda', ]
 actualPrice: 29.99 EUR
 currency: EUR

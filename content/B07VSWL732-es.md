@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSWL732-es G-STAR RAW 3301 Slim jkt Vaqueros Gris Faded Stone...'
+sku: 'B07VSWL732-es'
 tags: [ 'vaqueros', ]
 actualPrice: 30.66 EUR
 currency: EUR

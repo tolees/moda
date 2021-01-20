@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002Y0EUA0-es Timberland Authentic 6” – Botas para Niños Marrón Brown...'
+sku: 'B002Y0EUA0-es'
 tags: [ 'timberland', ]
 actualPrice: 39.22 EUR
 currency: EUR

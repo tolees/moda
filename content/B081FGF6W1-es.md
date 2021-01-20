@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081FGF6W1-es BILLABONG™ - Bañador de Surf de pantalón - Hombre - M - Rojo'
+sku: 'B081FGF6W1-es'
 tags: [ 'pantalón', ]
 actualPrice: 23.48 EUR
 currency: EUR

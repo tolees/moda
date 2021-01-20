@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRM5LBB-es Levi s Original Hm tee Camiseta Blanco LS Cotton + Patch...'
+sku: 'B07TRM5LBB-es'
 tags: [ 'camiseta', ]
 actualPrice: 21.99 EUR
 currency: EUR

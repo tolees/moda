@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NVYY13-es ShyaWorld Chaqueta Alta Visibilidad Trabajo homologada...'
+sku: 'B082NVYY13-es'
 tags: [ 'chaqueta', ]
 actualPrice: 49.95 EUR
 currency: EUR

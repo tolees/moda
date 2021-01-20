@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F14NXMT-es Havaianas Slim Logo Chanclas para Niñas Azul Blue 29/30 EU'
+sku: 'B07F14NXMT-es'
 tags: [ 'chanclas', ]
 actualPrice: 11.65 EUR
 currency: EUR

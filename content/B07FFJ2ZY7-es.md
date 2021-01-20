@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFJ2ZY7-es Roxy Essential Element Chaqueta Mujer Verde Burnt Olive...'
+sku: 'B07FFJ2ZY7-es'
 tags: [ 'chaqueta', ]
 actualPrice: 36.67 EUR
 currency: EUR

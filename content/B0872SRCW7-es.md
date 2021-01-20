@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872SRCW7-es J TOHLO 3 Barrel Hair Waver Iron rizador de cerámica de...'
+sku: 'B0872SRCW7-es'
 tags: [ 'guantes', ]
 actualPrice: 31.99 EUR
 currency: EUR

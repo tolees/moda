@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894WQFJW-es EKQ Boxer Hombre Algodon Pack de 4 Calzoncillos Bóxers...'
+sku: 'B0894WQFJW-es'
 tags: [ 'boxer', ]
 actualPrice: 22.99 EUR
 currency: EUR

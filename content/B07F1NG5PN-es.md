@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1NG5PN-es Levi s Graphic tee-B Camiseta Negro Hm LS Better Black...'
+sku: 'B07F1NG5PN-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.0 EUR
 currency: EUR

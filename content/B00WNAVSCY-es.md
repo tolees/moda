@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WNAVSCY-es Timberland Euro Sprint Hiker Zapatillas Chukka para Hombre...'
+sku: 'B00WNAVSCY-es'
 tags: [ 'timberland', ]
 actualPrice: 101.06 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFK6MBT-es Kappa Kit Gara Home Bambino 2019/2020 Camiseta de Juego...'
+sku: 'B07SFK6MBT-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000G23DQK-es Timberland 6-Inch Premium Boot Botas para Hombre Amarillo...'
+sku: 'B000G23DQK-es'
 tags: [ 'timberland', ]
 actualPrice: 134.4 EUR
 currency: EUR

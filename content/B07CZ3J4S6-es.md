@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ3J4S6-es PUMA Epic Flip V2 Chanclas Unisex-Adulto Rosa Winsome...'
+sku: 'B07CZ3J4S6-es'
 tags: [ 'chanclas', ]
 actualPrice: 15.04 EUR
 currency: EUR

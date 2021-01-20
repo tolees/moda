@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7KMFC7-es ZOEREA Bebé Chicos Conjunto de Conjunto Page Boy Trajes 4...'
+sku: 'B07H7KMFC7-es'
 tags: [ 'camisa','chaleco','chaqueta', ]
 actualPrice: 33.99 EUR
 currency: EUR

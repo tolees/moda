@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMYPNQ-es G-STAR RAW Stem Round Neck Camiseta Rosa Dk Tea Rose A827...'
+sku: 'B07NDMYPNQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 25.9 EUR
 currency: EUR

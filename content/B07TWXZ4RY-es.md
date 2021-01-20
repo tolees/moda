@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXZ4RY-es Lee Rider Vaqueros Slim Negro Black Helen Kj W32/L30 Talla...'
+sku: 'B07TWXZ4RY-es'
 tags: [ 'vaqueros', ]
 actualPrice: 25.78 EUR
 currency: EUR

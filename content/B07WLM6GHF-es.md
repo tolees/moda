@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLM6GHF-es Marca Amazon - MERAKI Abrigo de Lana Mujer Gris...'
+sku: 'B07WLM6GHF-es'
 tags: [ 'abrigo','meraki', ]
 actualPrice: 20.26 EUR
 currency: EUR

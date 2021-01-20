@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39ZHGR-es Ever-Pretty Vestido de Noche Gasa Cuello en V A-línea sin...'
+sku: 'B07N39ZHGR-es'
 tags: [ 'vestido', ]
 actualPrice: 64.99 EUR
 currency: EUR

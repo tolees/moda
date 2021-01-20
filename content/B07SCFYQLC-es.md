@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCFYQLC-es Crocs Literide Flip Chanclas Unisex Adulto Azul Ice Blue...'
+sku: 'B07SCFYQLC-es'
 tags: [ 'chanclas', ]
 actualPrice: 27.43 EUR
 currency: EUR

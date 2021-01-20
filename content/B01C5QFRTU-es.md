@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C5QFRTU-es Emporio Armani Underwear 111610cc722 Bóxer Multicolor...'
+sku: 'B01C5QFRTU-es'
 tags: [ 'bóxer', ]
 actualPrice: 34.99 EUR
 currency: EUR

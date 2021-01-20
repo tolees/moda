@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JGMK8I2-es LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse Bifold...'
+sku: 'B00JGMK8I2-es'
 tags: [ 'monedero', ]
 actualPrice: 31.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831P6JVY-es Canadian Peak Sudadera DE Mujer GYRELLE Azul Marino 03'
+sku: 'B0831P6JVY-es'
 tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR

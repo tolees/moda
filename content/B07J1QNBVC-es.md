@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1QNBVC-es Petusco -Bolso piel para mujer. Bolso de mano. Elegante y...'
+sku: 'B07J1QNBVC-es'
 tags: [ 'bolso', ]
 actualPrice: 80.0 EUR
 currency: EUR

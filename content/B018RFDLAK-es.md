@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018RFDLAK-es Vixxsin Rest Sudadera con Capucha Negro XS'
+sku: 'B018RFDLAK-es'
 tags: [ 'sudadera', ]
 actualPrice: 25.99 EUR
 currency: EUR

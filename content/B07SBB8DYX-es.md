@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBB8DYX-es Crocs Crocband Flip Women Chanclas para Mujer Negro Black...'
+sku: 'B07SBB8DYX-es'
 tags: [ 'chanclas', ]
 actualPrice: 12.74 EUR
 currency: EUR

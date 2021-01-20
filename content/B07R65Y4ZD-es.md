@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R65Y4ZD-es Camiseta de Tirantes Deportiva Hombre Tirantes Culturismo...'
+sku: 'B07R65Y4ZD-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.88 EUR
 currency: EUR

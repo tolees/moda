@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076D9X6CY-es adidas CORE18 STD JKT Chaqueta de Deporte Hombre...'
+sku: 'B076D9X6CY-es'
 tags: [ 'chaqueta', ]
 actualPrice: 60.98 EUR
 currency: EUR

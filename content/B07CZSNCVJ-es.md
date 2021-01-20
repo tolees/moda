@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZSNCVJ-es Under Armour Sportstyle Logo LS Camiseta Hombre Azul...'
+sku: 'B07CZSNCVJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 21.49 EUR
 currency: EUR

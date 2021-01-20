@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPBKVPY-es Hackett Amr Tape LS Polo Camisa Manga Larga Azul 595navy...'
+sku: 'B07VPBKVPY-es'
 tags: [ 'camisa', ]
 actualPrice: 40.42 EUR
 currency: EUR

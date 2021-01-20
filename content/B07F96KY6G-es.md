@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F96KY6G-es Superdry Label Vntge Emb S/S tee Camiseta de Tirantes...'
+sku: 'B07F96KY6G-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR

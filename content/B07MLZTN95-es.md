@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLZTN95-es Chaleco de mujer con calefacción USB Chaqueta térmica de 5...'
+sku: 'B07MLZTN95-es'
 tags: [ 'chaleco','chaqueta', ]
 actualPrice: 26.29 EUR
 currency: EUR

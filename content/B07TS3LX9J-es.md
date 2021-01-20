@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS3LX9J-es Levi s 724 High Rise Straight Vaqueros Azul London Bridge...'
+sku: 'B07TS3LX9J-es'
 tags: [ 'vaqueros', ]
 actualPrice: 59.99 EUR
 currency: EUR

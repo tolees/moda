@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QC27NWW-es yuyte 288 Agujeros Seis Capas Colocan Cajas de Organizador...'
+sku: 'B07QC27NWW-es'
 tags: [ 'collar', ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMHGV8C-es Levi s 2pk Crewneck Graphic Camiseta Blanco 2pack tee...'
+sku: 'B07TMHGV8C-es'
 tags: [ 'camiseta', ]
 actualPrice: 23.99 EUR
 currency: EUR

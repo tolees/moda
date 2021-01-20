@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF8WPZR-es Levi s 511 Slim Fit Vaqueros Negro Caviar Warp Str Cord...'
+sku: 'B07LF8WPZR-es'
 tags: [ 'vaqueros', ]
 actualPrice: 53.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ML5KCD-es MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico...'
+sku: 'B079ML5KCD-es'
 tags: [ 'camiseta','meraki', ]
 actualPrice: 3.6 EUR
 currency: EUR

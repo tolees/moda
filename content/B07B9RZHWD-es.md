@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9RZHWD-es Neosens S970 Restored Skin TINTILLA Sandalias con Punta...'
+sku: 'B07B9RZHWD-es'
 tags: [ 'sandalias', ]
 actualPrice: 102.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP4DX9-es Helly Hansen W HH Tech Crew Camisa Deportiva Mujer Blanco...'
+sku: 'B073RP4DX9-es'
 tags: [ 'camisa', ]
 actualPrice: 18.05 EUR
 currency: EUR

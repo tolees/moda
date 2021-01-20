@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSNKYOL-es PUMA Popcat Zapatos de Playa y Piscina Unisex Adulto White...'
+sku: 'B01MSNKYOL-es'
 tags: [ 'zapatos', ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HX6FKPZ-es Lacoste Ch9623 Camisa Azul Marine/Marine 423 Medium Talla...'
+sku: 'B07HX6FKPZ-es'
 tags: [ 'camisa', ]
 actualPrice: 77.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVXY2KR-es Geox D Sandal Hiver B Sandalias con Tira Vertical para...'
+sku: 'B07SVXY2KR-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 22.95 EUR
 currency: EUR

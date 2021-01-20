@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074BQCDZ8-es Hombre s Zapatillas de Baloncesto Otoño Nuevo Entrenadores...'
+sku: 'B074BQCDZ8-es'
 tags: [ 'moda', ]
 actualPrice: 32.99 EUR
 currency: EUR

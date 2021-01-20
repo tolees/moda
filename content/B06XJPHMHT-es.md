@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJPHMHT-es GRITION Sandalias Hombre Verano Punta Cerrada Sandalias de...'
+sku: 'B06XJPHMHT-es'
 tags: [ 'sandalias', ]
 actualPrice: 45.99 EUR
 currency: EUR

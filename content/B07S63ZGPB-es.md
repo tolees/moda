@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S63ZGPB-es Crocs Crocband Flip Women Chanclas para Mujer Verde Neo...'
+sku: 'B07S63ZGPB-es'
 tags: [ 'chanclas', ]
 actualPrice: 11.25 EUR
 currency: EUR

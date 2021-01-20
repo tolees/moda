@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VMRCNU-es Timberland Heritage 6 Inch Premium Waterproof Botas para...'
+sku: 'B000VMRCNU-es'
 tags: [ 'timberland', ]
 actualPrice: 168 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SF8P4X2-es G-STAR RAW Midge Cody Mid Waist Skinny Vaqueros Gris...'
+sku: 'B00SF8P4X2-es'
 tags: [ 'vaqueros', ]
 actualPrice: 58.39 EUR
 currency: EUR

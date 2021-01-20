@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQ36K5-es Pepe Jeans Lucas Sudadera Ivy 673 Large para Hombre'
+sku: 'B07MZQ36K5-es'
 tags: [ 'sudadera', ]
 actualPrice: 23.59 EUR
 currency: EUR

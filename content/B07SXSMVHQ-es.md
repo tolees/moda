@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXSMVHQ-es Geox J Alben Boy D Zapatillas para Niños Azul Royal/Green...'
+sku: 'B07SXSMVHQ-es'
 tags: [ 'geox', ]
 actualPrice: 33.35 EUR
 currency: EUR

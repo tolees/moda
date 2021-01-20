@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KLQSDQ-es PUMA Liga CR H Camiseta de Manga Corta Hombre Azul...'
+sku: 'B079KLQSDQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC4Y7ZX-es Calvin Klein Vegetable Dye Monogram Slim tee Camiseta Gris...'
+sku: 'B07VC4Y7ZX-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.74 EUR
 currency: EUR

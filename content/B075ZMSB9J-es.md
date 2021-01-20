@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZMSB9J-es Zapatero Sable de 10 niveles almacenamiento para 50 pares...'
+sku: 'B075ZMSB9J-es'
 tags: [ 'zapatos', ]
 actualPrice: 23.4 EUR
 currency: EUR

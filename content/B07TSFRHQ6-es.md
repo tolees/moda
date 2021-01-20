@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSFRHQ6-es Wrangler Straight Vaqueros para Mujer Azul Montego Bay 11P...'
+sku: 'B07TSFRHQ6-es'
 tags: [ 'vaqueros', ]
 actualPrice: 53.66 EUR
 currency: EUR

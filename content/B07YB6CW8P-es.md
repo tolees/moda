@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB6CW8P-es XTI Zapatilla XTI049956 para Mujer Negro 39'
+sku: 'B07YB6CW8P-es'
 tags: [ 'zapatilla', ]
 actualPrice: 20.95 EUR
 currency: EUR

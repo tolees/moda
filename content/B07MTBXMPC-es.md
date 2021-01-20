@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTBXMPC-es Napapijri Gardiner Camisa Casual Azul Blue Stripe S07 M...'
+sku: 'B07MTBXMPC-es'
 tags: [ 'camisa', ]
 actualPrice: 27.32 EUR
 currency: EUR

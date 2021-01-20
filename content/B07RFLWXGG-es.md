@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFLWXGG-es Tommy Hilfiger Stretch Slim Fit Long Sleeve tee Camiseta...'
+sku: 'B07RFLWXGG-es'
 tags: [ 'camiseta', ]
 actualPrice: 35.82 EUR
 currency: EUR

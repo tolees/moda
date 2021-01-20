@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792PYNL7-es CooBELL Bolso portátil a Ordenadores portátiles de 15 6...'
+sku: 'B0792PYNL7-es'
 tags: [ 'bolso', ]
 actualPrice: 21.41 EUR
 currency: EUR

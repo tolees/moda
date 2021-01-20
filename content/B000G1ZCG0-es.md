@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000G1ZCG0-es Timberland Classic 2 Eye Náuticos para Hombre Marrón...'
+sku: 'B000G1ZCG0-es'
 tags: [ 'timberland', ]
 actualPrice: 88.94 EUR
 currency: EUR

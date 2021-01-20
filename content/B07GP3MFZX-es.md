@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GP3MFZX-es Skechers On-The-go 600-Flawless Sandalias de Talón Abierto...'
+sku: 'B07GP3MFZX-es'
 tags: [ 'sandalias', ]
 actualPrice: 39.95 EUR
 currency: EUR

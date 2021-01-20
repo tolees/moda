@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQ7QDVL-es MR.SIGA Guantes para el Lavado de Platos Reutilizables...'
+sku: 'B07ZQ7QDVL-es'
 tags: [ 'guantes', ]
 actualPrice: 12.99 EUR
 currency: EUR

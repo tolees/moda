@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJGHFWP-es Superdry VL Fade T Shirt Store tee Camiseta Azul Princedom...'
+sku: 'B07TJGHFWP-es'
 tags: [ 'camiseta', ]
 actualPrice: 28.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4BCMPG-es New Balance 574 Nms Deportes De Los Zapatos De La...'
+sku: 'B07S4BCMPG-es'
 tags: [ 'zapatos','zapatilla', ]
 actualPrice: 51.5 EUR
 currency: EUR

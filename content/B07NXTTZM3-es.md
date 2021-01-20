@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXTTZM3-es Dickies Belfry Camiseta Negro X-Large Talla del...'
+sku: 'B07NXTTZM3-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074VFP9ZG-es Cuddle Club Mono Polar Bebé para Recién Nacidos a Niños 4...'
+sku: 'B074VFP9ZG-es'
 tags: [ 'abrigo','chaqueta', ]
 actualPrice: 19.99 EUR
 currency: EUR

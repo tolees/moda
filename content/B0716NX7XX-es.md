@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716NX7XX-es Activewear Mesh Camiseta Deportiva para Hombre Weiß White...'
+sku: 'B0716NX7XX-es'
 tags: [ 'camiseta', ]
 actualPrice: 4.07 EUR
 currency: EUR

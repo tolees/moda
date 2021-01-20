@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006FI3JZY-es Twentyfour Freizeitshirt FM NY Kapuzen in frischen Farben...'
+sku: 'B006FI3JZY-es'
 tags: [ 'jersey', ]
 actualPrice: 12.95 EUR
 currency: EUR

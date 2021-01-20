@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSCQFTP-es TWBB Camiseta Hombre Cordon de Cuero Vintage Patchwork con...'
+sku: 'B07MSCQFTP-es'
 tags: [ 'camiseta', ]
 actualPrice: 1.28 EUR
 currency: EUR

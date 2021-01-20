@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JQW7N6-es find. Camisa de Algodón Hombre Azul Navy 54 Talla del...'
+sku: 'B073JQW7N6-es'
 tags: [ 'camisa', ]
 actualPrice: 7.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVLB5DV-es Columbia Mujer Pantalón Convertible Saturday Trail II...'
+sku: 'B07DVLB5DV-es'
 tags: [ 'pantalón', ]
 actualPrice: 18.08 EUR
 currency: EUR

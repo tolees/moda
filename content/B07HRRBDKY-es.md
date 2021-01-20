@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRRBDKY-es DAFENP Zapatillas de Casa Hombre Mujer Invierno Caliente...'
+sku: 'B07HRRBDKY-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTK3HKS-es Wrangler LS 1 Pkt Button Down Camisa Rojo Redlight 82v...'
+sku: 'B07TTK3HKS-es'
 tags: [ 'camisa', ]
 actualPrice: 13.42 EUR
 currency: EUR

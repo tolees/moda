@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YTD8PL4-es Kuako Zapatillas de Estar por casa con Forro de vellón...'
+sku: 'B07YTD8PL4-es'
 tags: [ 'zapatos', ]
 actualPrice: 16.99 EUR
 currency: EUR

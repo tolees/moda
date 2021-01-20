@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQFJL7C-es Adidas Altaswim C Jr Sandalias Unisex Niños Blanco...'
+sku: 'B07ZQFJL7C-es'
 tags: [ 'sandalias', ]
 actualPrice: 13.98 EUR
 currency: EUR

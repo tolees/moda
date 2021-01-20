@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQH9D9T-es FIND Cork Two Part Sling Back Wedge Zapatos de tacón con...'
+sku: 'B07XQH9D9T-es'
 tags: [ 'zapatos', ]
 actualPrice: 3.97 EUR
 currency: EUR

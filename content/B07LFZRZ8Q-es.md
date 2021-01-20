@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZRZ8Q-es Geox D ANNYTAH Moc A Mocasines para Mujer Azul Navy C4064...'
+sku: 'B07LFZRZ8Q-es'
 tags: [ 'geox', ]
 actualPrice: 44.95 EUR
 currency: EUR

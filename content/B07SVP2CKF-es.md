@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVP2CKF-es Geox J Alben Boy B Zapatillas para Niños Azul Avio/Beige...'
+sku: 'B07SVP2CKF-es'
 tags: [ 'geox', ]
 actualPrice: 31.85 EUR
 currency: EUR

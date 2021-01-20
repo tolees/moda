@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTYWCGT-es WILBEST Billetera de Hombre de Piel Cartera RFID Carteras...'
+sku: 'B07QTYWCGT-es'
 tags: [ 'billetera','monedero', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVKXJW8-es Napapijri Boves C Sudadera Negro Black 041 Small para Hombre'
+sku: 'B07MVKXJW8-es'
 tags: [ 'sudadera', ]
 actualPrice: 35.6 EUR
 currency: EUR

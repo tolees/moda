@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M89F9FQ-es Lee Luke Vaqueros Vintage Blue HX 29W / 32L para Hombre'
+sku: 'B07M89F9FQ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 40.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N272WCF-es Tommy Hilfiger TJM Classics Longsleeve tee Camisa Manga...'
+sku: 'B07N272WCF-es'
 tags: [ 'camisa', ]
 actualPrice: 26.15 EUR
 currency: EUR

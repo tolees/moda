@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8P33KS-es Geox M Hilstone D Abrigo Azul Blue Nights F4386 Large...'
+sku: 'B07M8P33KS-es'
 tags: [ 'abrigo','geox', ]
 actualPrice: 99.5 EUR
 currency: EUR

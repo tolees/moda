@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ2FF9-es Geox J INEK Girl B Zapatillas Altas para Niñas Negro Black...'
+sku: 'B07LFZ2FF9-es'
 tags: [ 'geox', ]
 actualPrice: 52.49 EUR
 currency: EUR

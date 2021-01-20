@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XNBKQY-es Under Armour Rival Fleece Po Hoodie Sudadera con Capucha...'
+sku: 'B077XNBKQY-es'
 tags: [ 'sudadera', ]
 actualPrice: 35.9 EUR
 currency: EUR

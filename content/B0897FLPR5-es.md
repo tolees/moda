@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897FLPR5-es ELEEMEE Mujer Simple Tacón Bajo Sandalias Square Toe...'
+sku: 'B0897FLPR5-es'
 tags: [ 'sandalias','vestido','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR

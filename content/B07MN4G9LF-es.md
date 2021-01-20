@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN4G9LF-es Wrangler Greensboro Regular Jeans Vaqueros Azul Black Dust...'
+sku: 'B07MN4G9LF-es'
 tags: [ 'vaqueros', ]
 actualPrice: 14.8 EUR
 currency: EUR

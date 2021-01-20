@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F7DPC-es Wrangler Greensboro Vaqueros Azul Something Warm 67q 34 W/...'
+sku: 'B07M5F7DPC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.98 EUR
 currency: EUR

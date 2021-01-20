@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0198WKA2S-es Timberland Kenniston 6 Inch Lace Up Botas para Mujer...'
+sku: 'B0198WKA2S-es'
 tags: [ 'timberland', ]
 actualPrice: 79.99 EUR
 currency: EUR

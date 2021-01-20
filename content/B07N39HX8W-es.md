@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39HX8W-es Desigual Coat Cassidy Abrigo Azul Navy 5000 40 Talla del...'
+sku: 'B07N39HX8W-es'
 tags: [ 'abrigo', ]
 actualPrice: 44.1 EUR
 currency: EUR

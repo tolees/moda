@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHLLT4J-es Bolso de Alforja de Bicicleta Bolso Impermeable de Viajero...'
+sku: 'B07BHLLT4J-es'
 tags: [ 'bolso', ]
 actualPrice: 13.19 EUR
 currency: EUR

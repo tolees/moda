@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD9G2VB-es ALLROS Gafas de Esquí Máscara Gafas ski Snowboard OTG...'
+sku: 'B07YD9G2VB-es'
 tags: [ 'gafas', ]
 actualPrice: 7.99 EUR
 currency: EUR

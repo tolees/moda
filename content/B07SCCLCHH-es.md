@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCCLCHH-es Fruit of the Loom Valueweight tee 3 Pack Camiseta Azul...'
+sku: 'B07SCCLCHH-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.88 EUR
 currency: EUR

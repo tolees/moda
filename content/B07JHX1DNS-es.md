@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHX1DNS-es Estuche SileuCase para copas menstruales – Ideal para...'
+sku: 'B07JHX1DNS-es'
 tags: [ 'bolso', ]
 actualPrice: 4.39 EUR
 currency: EUR

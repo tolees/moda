@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBZ3XPB-es Columbia Powder Lite Jacket Chaqueta Hombre Rojo Jasper-...'
+sku: 'B07JBZ3XPB-es'
 tags: [ 'chaqueta', ]
 actualPrice: 56.99 EUR
 currency: EUR

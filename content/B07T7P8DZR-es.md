@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T7P8DZR-es Lee Luke Vaqueros Deep Pool TR 33W / 34L para Hombre'
+sku: 'B07T7P8DZR-es'
 tags: [ 'vaqueros', ]
 actualPrice: 47.56 EUR
 currency: EUR

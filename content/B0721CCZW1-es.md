@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721CCZW1-es find. Vestido Recto para Mujer Rosa 38 Talla del...'
+sku: 'B0721CCZW1-es'
 tags: [ 'vestido', ]
 actualPrice: 13 EUR
 currency: EUR

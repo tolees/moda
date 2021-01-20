@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z8XZ2ZH-es Alfheim - Maletín para Hombres Bolso Bandolera Bolsa de...'
+sku: 'B07Z8XZ2ZH-es'
 tags: [ 'bolso', ]
 actualPrice: 18.99 EUR
 currency: EUR

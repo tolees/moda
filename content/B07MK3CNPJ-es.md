@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK3CNPJ-es GANT D1.Winter TWI Buffalo Check Reg BD Camisa Azul...'
+sku: 'B07MK3CNPJ-es'
 tags: [ 'camisa', ]
 actualPrice: 52.59 EUR
 currency: EUR

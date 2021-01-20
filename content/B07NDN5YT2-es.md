@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDN5YT2-es G-STAR RAW CITI You High Waist Jegging Ankle Vaqueros...'
+sku: 'B07NDN5YT2-es'
 tags: [ 'vaqueros', ]
 actualPrice: 28.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089B8LYDG-es CARPISA ® Bolso cesta - MANDEL'
+sku: 'B089B8LYDG-es'
 tags: [ 'bolso', ]
 actualPrice: 11.68 EUR
 currency: EUR

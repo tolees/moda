@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RCIU1S4-es Nike Team Club Hoody - Sudadera para hombre Negro/Blanco S'
+sku: 'B00RCIU1S4-es'
 tags: [ 'sudadera', ]
 actualPrice: 32.36 EUR
 currency: EUR

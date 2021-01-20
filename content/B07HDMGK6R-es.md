@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HDMGK6R-es Only Onltia Dnm Jacket BB MB Bex02 Noos Chaqueta Vaquera...'
+sku: 'B07HDMGK6R-es'
 tags: [ 'chaqueta', ]
 actualPrice: 27.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075MD3YJ9-es Clarks Un Reisel Mara Sandalias con Tira Vertical para...'
+sku: 'B075MD3YJ9-es'
 tags: [ 'sandalias', ]
 actualPrice: 41.2 EUR
 currency: EUR

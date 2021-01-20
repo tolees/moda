@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFQ5J6K-es Quiksilver Everyday Sudadera con Capucha y Cremallera...'
+sku: 'B07TFQ5J6K-es'
 tags: [ 'sudadera', ]
 actualPrice: 35.46 EUR
 currency: EUR

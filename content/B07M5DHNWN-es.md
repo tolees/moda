@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DHNWN-es Lee Brooklyn Straight Hombre Vaqueros Gris Moto Grey HG...'
+sku: 'B07M5DHNWN-es'
 tags: [ 'vaqueros', ]
 actualPrice: 13.31 EUR
 currency: EUR

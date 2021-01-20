@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK1R3BQ-es Napapijri TERRES Sudadera Gris Dark Grey Solid 198 S para...'
+sku: 'B07MK1R3BQ-es'
 tags: [ 'sudadera', ]
 actualPrice: 26.86 EUR
 currency: EUR

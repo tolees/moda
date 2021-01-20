@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMZQ87R-es Crocs Santa Cruz Canvas Flip Men Zapatos de Playa y...'
+sku: 'B07CMZQ87R-es'
 tags: [ 'zapatos', ]
 actualPrice: 18.95 EUR
 currency: EUR

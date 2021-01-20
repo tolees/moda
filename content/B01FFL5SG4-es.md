@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFL5SG4-es Under Armour Heatgear Long Compression Pantalón De...'
+sku: 'B01FFL5SG4-es'
 tags: [ 'pantalón', ]
 actualPrice: 15.49 EUR
 currency: EUR

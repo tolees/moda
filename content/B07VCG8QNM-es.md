@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCG8QNM-es Marca Amazon - find. Stitch Cardigan - chaqueta punto...'
+sku: 'B07VCG8QNM-es'
 tags: [ 'chaqueta','-','find.', ]
 actualPrice: 12.37 EUR
 currency: EUR

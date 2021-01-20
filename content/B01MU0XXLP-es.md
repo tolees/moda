@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU0XXLP-es find. 13641 vestido fiesta mujer Negro Black 40 Talla del...'
+sku: 'B01MU0XXLP-es'
 tags: [ 'vestido', ]
 actualPrice: 12.0 EUR
 currency: EUR

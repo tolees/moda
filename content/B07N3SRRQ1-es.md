@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3SRRQ1-es Desigual T-Shirt NIKO Camiseta Verde Cactus 4029 S para Mujer'
+sku: 'B07N3SRRQ1-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.25 EUR
 currency: EUR

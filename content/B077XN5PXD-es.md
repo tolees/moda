@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XN5PXD-es Under Armour Rival Fleece Short Pantalón Corto Hombre Gris...'
+sku: 'B077XN5PXD-es'
 tags: [ 'pantalón', ]
 actualPrice: 17.94 EUR
 currency: EUR

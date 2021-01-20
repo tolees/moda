@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWJDYC-es JACK & JONES Jjiliam Jjoriginal JJ 104 50sps Noos Vaqueros...'
+sku: 'B07FNWJDYC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 19.27 EUR
 currency: EUR

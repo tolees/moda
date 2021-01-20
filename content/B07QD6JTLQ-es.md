@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD6JTLQ-es PUMA Nu-Tility Woven Jacket Chaqueta De Entrenamiento...'
+sku: 'B07QD6JTLQ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 16.7 EUR
 currency: EUR

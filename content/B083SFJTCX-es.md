@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SFJTCX-es TZAMLI - Zapatero de 10 pisos sobre la puerta organizador...'
+sku: 'B083SFJTCX-es'
 tags: [ 'zapatos', ]
 actualPrice: 39.47 EUR
 currency: EUR

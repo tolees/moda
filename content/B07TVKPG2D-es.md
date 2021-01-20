@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVKPG2D-es Wrangler Flare Vaqueros evasé Azul Holiday 12y W24/L32...'
+sku: 'B07TVKPG2D-es'
 tags: [ 'vaqueros', ]
 actualPrice: 42.21 EUR
 currency: EUR

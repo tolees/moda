@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDNDL8-es Levi s 514 Vaqueros Straight Beige Harvest Gold Bi Stretch...'
+sku: 'B07TKDNDL8-es'
 tags: [ 'vaqueros', ]
 actualPrice: 25.83 EUR
 currency: EUR

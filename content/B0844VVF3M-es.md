@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0844VVF3M-es Pepe Jeans Camiseta Trey Marino Hombre Small Blanco'
+sku: 'B0844VVF3M-es'
 tags: [ 'camiseta', ]
 actualPrice: 23.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079M9L9WZ-es Geox J Kiwi Zapatos Para Niño 30'
+sku: 'B079M9L9WZ-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 24.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFG1FNZ-es VECDY Camisetas Mujer Blusas Elegante 2019 Hombres Mujeres...'
+sku: 'B07WFG1FNZ-es'
 tags: [ 'blusa','sudadera', ]
 actualPrice: 2.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001KS7CDE-es CATWALK COLLECTION - BELLSTONE - Bolso al hombro estilo...'
+sku: 'B001KS7CDE-es'
 tags: [ 'bolso', ]
 actualPrice: 69.95 EUR
 currency: EUR

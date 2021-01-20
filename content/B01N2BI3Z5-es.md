@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2BI3Z5-es Lacoste TH6709 Camiseta para Hombre Gris Argent Chine XL...'
+sku: 'B01N2BI3Z5-es'
 tags: [ 'camiseta', ]
 actualPrice: 30.49 EUR
 currency: EUR

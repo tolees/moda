@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2VNKWG-es Columbia Pouring Adventu Chaqueta Hombre Azul Hyper...'
+sku: 'B01N2VNKWG-es'
 tags: [ 'chaqueta', ]
 actualPrice: 47.72 EUR
 currency: EUR

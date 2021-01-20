@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075L9QNG2-es VENI MASEE Bolso de noche de flores para mujer Bolso de...'
+sku: 'B075L9QNG2-es'
 tags: [ 'bolso', ]
 actualPrice: 12.84 EUR
 currency: EUR

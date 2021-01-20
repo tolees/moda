@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNSYPBB-es find. Hurrache Sandalias con Punta Cerrada Rot Orange Red...'
+sku: 'B07YNSYPBB-es'
 tags: [ 'sandalias', ]
 actualPrice: 16.88 EUR
 currency: EUR

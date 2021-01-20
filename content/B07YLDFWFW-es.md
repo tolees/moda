@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLDFWFW-es Primigi Sandalo Bambina Sandalias con Punta Abierta para...'
+sku: 'B07YLDFWFW-es'
 tags: [ 'sandalias', ]
 actualPrice: 28.32 EUR
 currency: EUR

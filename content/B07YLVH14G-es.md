@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLVH14G-es Maglev Essentials BDX011M5 Camiseta Multicolor Grey...'
+sku: 'B07YLVH14G-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRZ1GN4-es Tommy Hilfiger Essential Original tee S/s Camiseta Azul...'
+sku: 'B07VRZ1GN4-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.16 EUR
 currency: EUR

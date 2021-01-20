@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXSLGJG-es Geox U IACOPO A Zapatos de Cordones Oxford para Hombre...'
+sku: 'B07SXSLGJG-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 51.0 EUR
 currency: EUR

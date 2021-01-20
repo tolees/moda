@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJHMSTP-es G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros...'
+sku: 'B07BJHMSTP-es'
 tags: [ 'vaqueros', ]
 actualPrice: 69.95 EUR
 currency: EUR

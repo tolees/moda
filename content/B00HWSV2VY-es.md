@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HWSV2VY-es crocs Baya Zuecos Unisex Adulto Azul Cerulean Blue 39/40 EU'
+sku: 'B00HWSV2VY-es'
 tags: [ 'zuecos', ]
 actualPrice: 27.95 EUR
 currency: EUR

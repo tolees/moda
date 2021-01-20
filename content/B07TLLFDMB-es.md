@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLLFDMB-es Superdry OL Vintage Emb Crew Camiseta Azul Blue Grindle...'
+sku: 'B07TLLFDMB-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

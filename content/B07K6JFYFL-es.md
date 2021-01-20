@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6JFYFL-es Marca Amazon - MERAKI Culottes Mujer Verde Khaki 42 Label: L'
+sku: 'B07K6JFYFL-es'
 tags: [ 'meraki', ]
 actualPrice: 9.72 EUR
 currency: EUR

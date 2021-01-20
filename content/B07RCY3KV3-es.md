@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCY3KV3-es TAIPAN Pulseras Mujer 925 Plata Original - Este Pulsera de...'
+sku: 'B07RCY3KV3-es'
 tags: [ 'moda', ]
 actualPrice: 13.9 EUR
 currency: EUR

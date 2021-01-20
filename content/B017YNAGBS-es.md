@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017YNAGBS-es Gregster Hombre Chaqueta de Esquí - Snowboard - Chaqueta...'
+sku: 'B017YNAGBS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 18.06 EUR
 currency: EUR

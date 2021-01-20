@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HMRV8UY-es The North Face T92TX3 Camiseta Easy Hombre Multicolor...'
+sku: 'B01HMRV8UY-es'
 tags: [ 'camiseta', ]
 actualPrice: 24.99 EUR
 currency: EUR

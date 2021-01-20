@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W6XWKLQ-es GANT Regular Jeans Vaqueros Straight Marrón Desert Brown...'
+sku: 'B00W6XWKLQ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 53.64 EUR
 currency: EUR

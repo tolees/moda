@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8Y8LFT-es Helly Hansen W HH Logo Hoodie Sudadera con Capucha Mujer...'
+sku: 'B07S8Y8LFT-es'
 tags: [ 'sudadera', ]
 actualPrice: 45.99 EUR
 currency: EUR

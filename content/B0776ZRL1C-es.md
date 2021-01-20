@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776ZRL1C-es Tommy Hilfiger Original Jersey Camiseta Blanco Classic...'
+sku: 'B0776ZRL1C-es'
 tags: [ 'camiseta','jersey', ]
 actualPrice: 19.49 EUR
 currency: EUR

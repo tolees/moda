@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB43FFV-es The North Face T93BRM Chaqueta Trevail Mujer Grisaille...'
+sku: 'B07BB43FFV-es'
 tags: [ 'chaqueta', ]
 actualPrice: 63.8 EUR
 currency: EUR

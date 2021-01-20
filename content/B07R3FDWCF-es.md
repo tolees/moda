@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3FDWCF-es Marca Amazon - find. Chaleco Acolchado Hombre Negro Black...'
+sku: 'B07R3FDWCF-es'
 tags: [ 'chaleco','-','find.', ]
 actualPrice: 11.9 EUR
 currency: EUR

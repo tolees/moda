@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXRT39V-es Levi s 502 Regular Taper Vaqueros Azul Rock Cod 0280 32W /...'
+sku: 'B07FXRT39V-es'
 tags: [ 'vaqueros', ]
 actualPrice: 32.19 EUR
 currency: EUR

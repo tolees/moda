@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7GSNL3-es GANT Jersey Fantasia Redondo - Color - Azul Talla - 2XL'
+sku: 'B07Y7GSNL3-es'
 tags: [ 'jersey', ]
 actualPrice: 76.3 EUR
 currency: EUR

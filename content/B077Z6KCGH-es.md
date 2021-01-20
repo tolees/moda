@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Z6KCGH-es OAKLEY Holbrook Xl 941703 Gafas de sol para Hombre...'
+sku: 'B077Z6KCGH-es'
 tags: [ 'gafas', ]
 actualPrice: 71.0 EUR
 currency: EUR

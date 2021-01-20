@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ6YY5-es Lee Scarlett Vaqueros Azul Dark Favourite Nr 27W / 29L...'
+sku: 'B07TSQ6YY5-es'
 tags: [ 'vaqueros', ]
 actualPrice: 59.95 EUR
 currency: EUR

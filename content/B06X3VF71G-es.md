@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X3VF71G-es Gant Stretch Oxford-Solid Shirt Blusa Rosa Light Pink 662...'
+sku: 'B06X3VF71G-es'
 tags: [ 'blusa', ]
 actualPrice: 66.94 EUR
 currency: EUR

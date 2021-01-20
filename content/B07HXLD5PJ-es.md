@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HXLD5PJ-es New Look Poplin Camisa para Hombre Azul Light Blue Medium...'
+sku: 'B07HXLD5PJ-es'
 tags: [ 'camisa', ]
 actualPrice: 11.24 EUR
 currency: EUR

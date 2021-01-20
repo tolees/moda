@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXV38XF-es Under Armour UA Core PTH SL Zapatos de Playa y Piscina...'
+sku: 'B07PXV38XF-es'
 tags: [ 'zapatos', ]
 actualPrice: 13.97 EUR
 currency: EUR

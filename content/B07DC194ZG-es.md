@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC194ZG-es PUMA DIVECAT V2 Sandalias deslizantes Unisex-Adulto Negro...'
+sku: 'B07DC194ZG-es'
 tags: [ 'sandalias', ]
 actualPrice: 14.99 EUR
 currency: EUR

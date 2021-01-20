@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K91P4WP-es Crocs Serena Sandal Women Sandalias de Punta Descubierta...'
+sku: 'B07K91P4WP-es'
 tags: [ 'sandalias', ]
 actualPrice: 12.17 EUR
 currency: EUR

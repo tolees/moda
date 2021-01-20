@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825NGVHZ-es Quiksilver Colors In Stereo - Camiseta para Hombre Screen...'
+sku: 'B0825NGVHZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.99 EUR
 currency: EUR

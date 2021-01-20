@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K71QH8Q-es Levi s Graphic Top Camiseta Deportiva de Tirantes Blanco...'
+sku: 'B07K71QH8Q-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.49 EUR
 currency: EUR

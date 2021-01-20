@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ31BN2-es Lonsdale - Chaqueta - Universidad - Manga Larga - para...'
+sku: 'B07JJ31BN2-es'
 tags: [ 'chaqueta', ]
 actualPrice: 28.99 EUR
 currency: EUR

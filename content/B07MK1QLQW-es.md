@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK1QLQW-es Napapijri Gardiner Camisa Casual Multicolor Multicol Check...'
+sku: 'B07MK1QLQW-es'
 tags: [ 'camisa', ]
 actualPrice: 35.6 EUR
 currency: EUR

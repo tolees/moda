@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L4NA7BE-es Columbia Flash Forward Chaqueta cortavientos Mujer Negro...'
+sku: 'B00L4NA7BE-es'
 tags: [ 'chaqueta', ]
 actualPrice: 30.49 EUR
 currency: EUR

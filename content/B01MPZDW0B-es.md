@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MPZDW0B-es Amazon Essentials Cotton Stretch Bikini Panty 6-Pack...'
+sku: 'B01MPZDW0B-es'
 tags: [ 'bikini', ]
 actualPrice: 9.8 EUR
 currency: EUR

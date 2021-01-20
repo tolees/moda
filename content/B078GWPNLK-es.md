@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GWPNLK-es find. Camiseta Con Estampado Hombre Azul Blue Large'
+sku: 'B078GWPNLK-es'
 tags: [ 'camiseta', ]
 actualPrice: 4.8 EUR
 currency: EUR

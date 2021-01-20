@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9T5LWP-es Litthing Sujetador Invisible Slim fit sin Anillo de Acero...'
+sku: 'B07H9T5LWP-es'
 tags: [ 'chaleco', ]
 actualPrice: 19.99 EUR
 currency: EUR

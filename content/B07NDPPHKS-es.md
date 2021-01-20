@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPPHKS-es G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta...'
+sku: 'B07NDPPHKS-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.95 EUR
 currency: EUR

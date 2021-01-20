@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYSVVC-es Under Armour UA Jet Zapatos de Deporte para Hombre Gris...'
+sku: 'B07PYYSVVC-es'
 tags: [ 'zapatos', ]
 actualPrice: 44.39 EUR
 currency: EUR

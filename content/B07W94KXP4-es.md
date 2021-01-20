@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W94KXP4-es LuckyGirls Zapatos de Deporte Zapatillas de Deporte...'
+sku: 'B07W94KXP4-es'
 tags: [ 'zapatos', ]
 actualPrice: 11.63 EUR
 currency: EUR

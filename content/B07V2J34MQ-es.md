@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J34MQ-es Tommy Hilfiger Natural Flatform Sandal Sandalias Punta...'
+sku: 'B07V2J34MQ-es'
 tags: [ 'sandalias', ]
 actualPrice: 49.95 EUR
 currency: EUR

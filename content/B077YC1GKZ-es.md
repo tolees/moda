@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YC1GKZ-es HIKARO Sudadera con Capucha Hombre Rojo Red 48 Talla del...'
+sku: 'B077YC1GKZ-es'
 tags: [ 'sudadera', ]
 actualPrice: 9.63 EUR
 currency: EUR

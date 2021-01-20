@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HPVYDT-es adidas Core18 Windbr Chaqueta de Deporte Hombre...'
+sku: 'B076HPVYDT-es'
 tags: [ 'chaqueta', ]
 actualPrice: 18.67 EUR
 currency: EUR

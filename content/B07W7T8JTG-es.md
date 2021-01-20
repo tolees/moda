@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7T8JTG-es Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha Gris...'
+sku: 'B07W7T8JTG-es'
 tags: [ 'sudadera', ]
 actualPrice: 25.99 EUR
 currency: EUR

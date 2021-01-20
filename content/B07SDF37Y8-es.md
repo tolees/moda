@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDF37Y8-es LOSMILE Bolsos Bandolera de Hombres Bolso de Hombro de...'
+sku: 'B07SDF37Y8-es'
 tags: [ 'bolso', ]
 actualPrice: 31.99 EUR
 currency: EUR

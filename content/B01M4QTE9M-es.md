@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4QTE9M-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros 3D Dark Aged...'
+sku: 'B01M4QTE9M-es'
 tags: [ 'vaqueros', ]
 actualPrice: 60.0 EUR
 currency: EUR

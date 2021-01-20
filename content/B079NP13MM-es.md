@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NP13MM-es MISS MOLY Chaleco Mujer Ligero Acolchado Chaquetas de...'
+sku: 'B079NP13MM-es'
 tags: [ 'chaleco', ]
 actualPrice: 28.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1HWP68-es EVERU Conjunto de Joyas Corazón de Plata 925 para Mujeres...'
+sku: 'B07Z1HWP68-es'
 tags: [ 'collar', ]
 actualPrice: 23.99 EUR
 currency: EUR

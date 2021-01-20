@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003PPCYOM-es Eastpak Jr Bolso bandolera 33 cm 11.5 L Gris Sunday Grey'
+sku: 'B003PPCYOM-es'
 tags: [ 'bolso', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYPZJTB-es Tommy Jeans Mujer Essential Slim Tee Camiseta Negro Tommy...'
+sku: 'B07JYPZJTB-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.75 EUR
 currency: EUR

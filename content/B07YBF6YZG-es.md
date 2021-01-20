@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBF6YZG-es Vans OG Checker SS Camiseta Blanco White Wht X-Small para...'
+sku: 'B07YBF6YZG-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0079JI4DU-es Arena Zoom X-Fit Gafas de Natación Unisex Adulto Negro...'
+sku: 'B0079JI4DU-es'
 tags: [ 'gafas', ]
 actualPrice: 7.36 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8XM1P-es Crocs Classic Flip K Chanclas Unisex Niños Azul Ice Blue...'
+sku: 'B07CN8XM1P-es'
 tags: [ 'chanclas', ]
 actualPrice: 13.06 EUR
 currency: EUR

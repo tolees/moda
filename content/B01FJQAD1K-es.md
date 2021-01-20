@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FJQAD1K-es Urban Classics Ladies Satin Bomber Jacket Chaqueta para...'
+sku: 'B01FJQAD1K-es'
 tags: [ 'chaqueta', ]
 actualPrice: 26.99 EUR
 currency: EUR

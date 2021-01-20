@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN4XXS7-es Havaianas Ipe Chanclas Unisex Adulto Multicolor...'
+sku: 'B07SN4XXS7-es'
 tags: [ 'chanclas', ]
 actualPrice: 9.95 EUR
 currency: EUR

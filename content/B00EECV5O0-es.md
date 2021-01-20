@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EECV5O0-es Timberland Authentics 3 Eye Classic Náuticos para Hombre...'
+sku: 'B00EECV5O0-es'
 tags: [ 'timberland', ]
 actualPrice: 120.48 EUR
 currency: EUR

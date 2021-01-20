@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKN86P3-es Clarks Orinoco Strap Sandalias de Talón Abierto para Mujer...'
+sku: 'B07TKN86P3-es'
 tags: [ 'sandalias', ]
 actualPrice: 24.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TDZDLY-es Gafas de Protección Gafas Protectoras para Depilación...'
+sku: 'B088TDZDLY-es'
 tags: [ 'bikini','gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR

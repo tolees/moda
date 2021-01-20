@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QNX8J5-es Levi s 26309 Camisa Para Mujer Multicolor Gallberry Merlot...'
+sku: 'B073QNX8J5-es'
 tags: [ 'camisa', ]
 actualPrice: 22.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3NHLHN-es BOSS Mabsoot Camisa Blanco White 00100 X-Large para Hombre'
+sku: 'B07K3NHLHN-es'
 tags: [ 'camisa', ]
 actualPrice: 26.62 EUR
 currency: EUR

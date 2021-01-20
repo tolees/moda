@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2L84KV-es Tikea Cartera Geométrica de Corcho Natural para Mujer...'
+sku: 'B07T2L84KV-es'
 tags: [ 'billetera','moda', ]
 actualPrice: 16.99 EUR
 currency: EUR

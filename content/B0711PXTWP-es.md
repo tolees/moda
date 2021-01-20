@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711PXTWP-es EULAGPRE Zapatillas de Lino Zapatos de Piso Zapatillas de...'
+sku: 'B0711PXTWP-es'
 tags: [ 'sandalias','zapatos', ]
 actualPrice: 7.99 EUR
 currency: EUR

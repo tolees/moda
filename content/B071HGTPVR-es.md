@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HGTPVR-es LANGRIA Perchero de Pie Metálico Multiusos de Entrada con...'
+sku: 'B071HGTPVR-es'
 tags: [ 'zapatos', ]
 actualPrice: 34.17 EUR
 currency: EUR

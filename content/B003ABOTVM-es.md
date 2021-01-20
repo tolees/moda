@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ABOTVM-es Havaianas Brasil Chanclas Unisex Adulto Verde Amazonia...'
+sku: 'B003ABOTVM-es'
 tags: [ 'chanclas', ]
 actualPrice: 12.9 EUR
 currency: EUR

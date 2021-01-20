@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVF9CLR-es adidas Tiro19 Pre Jkty Chaqueta de Deporte Unisex niños...'
+sku: 'B07JVF9CLR-es'
 tags: [ 'chaqueta', ]
 actualPrice: 26.95 EUR
 currency: EUR

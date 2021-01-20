@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFPV7T6-es Geox U Mattias B ABX A Botas Chukka para Hombre Negro...'
+sku: 'B07PFPV7T6-es'
 tags: [ 'geox', ]
 actualPrice: 35.37 EUR
 currency: EUR

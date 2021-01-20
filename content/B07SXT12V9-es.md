@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXT12V9-es Geox D Airell C Zapatillas para Mujer Blanco White C1000...'
+sku: 'B07SXT12V9-es'
 tags: [ 'geox', ]
 actualPrice: 32.48 EUR
 currency: EUR

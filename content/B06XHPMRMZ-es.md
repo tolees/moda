@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHPMRMZ-es Marca Amazon - find. Camisa Hombre Azul Blue M Label: M'
+sku: 'B06XHPMRMZ-es'
 tags: [ 'camisa','-','find.', ]
 actualPrice: 7.5 EUR
 currency: EUR

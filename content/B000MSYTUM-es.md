@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000MSYTUM-es Birkenstock 051791 - Sandalias con hebilla unisex Negro 40...'
+sku: 'B000MSYTUM-es'
 tags: [ 'sandalias', ]
 actualPrice: 49.95 EUR
 currency: EUR

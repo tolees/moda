@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3SD8MG-es Doaraha Camisón de Maternidad para Mujer Vestido Lactancia...'
+sku: 'B08D3SD8MG-es'
 tags: [ 'pijama','vestido', ]
 actualPrice: 20.99 EUR
 currency: EUR

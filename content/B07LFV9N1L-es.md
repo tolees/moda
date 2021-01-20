@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV9N1L-es Geox U Kristof A Zapatillas para Hombre Negro Black C9999...'
+sku: 'B07LFV9N1L-es'
 tags: [ 'geox', ]
 actualPrice: 39.44 EUR
 currency: EUR

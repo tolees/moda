@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FLPKV1-es P Prettyia Plantillas Cálidas de Invierno Unisex...'
+sku: 'B082FLPKV1-es'
 tags: [ 'zapatos', ]
 actualPrice: 7.67 EUR
 currency: EUR

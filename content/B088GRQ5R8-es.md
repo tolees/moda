@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088GRQ5R8-es Bragas Mujer sin Costuras Invisible Señoras Braguitas Low...'
+sku: 'B088GRQ5R8-es'
 tags: [ 'bikini', ]
 actualPrice: 23.99 EUR
 currency: EUR

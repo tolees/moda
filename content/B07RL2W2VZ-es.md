@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RL2W2VZ-es Tommy Hilfiger TJM Essential Logo tee Camiseta Deporte...'
+sku: 'B07RL2W2VZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.75 EUR
 currency: EUR

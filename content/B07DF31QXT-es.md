@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DF31QXT-es Niños Trolley Mochila Escolar Bolso - Niña Niño con Ruedas...'
+sku: 'B07DF31QXT-es'
 tags: [ 'bolso', ]
 actualPrice: 49.99 EUR
 currency: EUR

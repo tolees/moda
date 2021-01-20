@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHQ5P6X-es Tamaris 1-1-22444-23 Zapatos de Tacón para Mujer Negro Leo...'
+sku: 'B07NHQ5P6X-es'
 tags: [ 'zapatos', ]
 actualPrice: 16.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D97NVLQ-es Vunavueya Mujer Zapatillas de Estar por Casa Hombre...'
+sku: 'B08D97NVLQ-es'
 tags: [ 'zapatos', ]
 actualPrice: 16.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C9XI1ME-es Joopin Gafas de Sol Mujer Polarizadas de Moda Protección...'
+sku: 'B01C9XI1ME-es'
 tags: [ 'gafas','moda', ]
 actualPrice: 21.99 EUR
 currency: EUR

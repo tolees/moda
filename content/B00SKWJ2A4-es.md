@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SKWJ2A4-es Caja de pantalón corto para hombre Lonsdale pantalones de...'
+sku: 'B00SKWJ2A4-es'
 tags: [ 'pantalón', ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000QF2FWK-es Birkenstock Madrid Birko-Flor - Sandalias de pala unisex...'
+sku: 'B000QF2FWK-es'
 tags: [ 'sandalias', ]
 actualPrice: 42.72 EUR
 currency: EUR

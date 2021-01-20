@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071F2SRVY-es Lacoste TH6710 Camiseta Rojo Rouge XXX-Large Talla del...'
+sku: 'B071F2SRVY-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.72 EUR
 currency: EUR

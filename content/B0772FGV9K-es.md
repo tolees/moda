@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772FGV9K-es Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre...'
+sku: 'B0772FGV9K-es'
 tags: [ 'meraki', ]
 actualPrice: 15.91 EUR
 currency: EUR

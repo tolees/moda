@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5KT8RV-es Adidas Adilette Comfort Zapatos de Playa y Piscina para...'
+sku: 'B07D5KT8RV-es'
 tags: [ 'zapatos', ]
 actualPrice: 24.17 EUR
 currency: EUR

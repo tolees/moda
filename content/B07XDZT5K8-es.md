@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDZT5K8-es DANISH ENDURANCE Boxer Bambu Pack de 3 1x Negro 1x Blanco...'
+sku: 'B07XDZT5K8-es'
 tags: [ 'boxer', ]
 actualPrice: 16.95 EUR
 currency: EUR

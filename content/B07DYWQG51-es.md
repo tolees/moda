@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYWQG51-es Columbia Midweight Stretch Half Zip Camiseta técnica con...'
+sku: 'B07DYWQG51-es'
 tags: [ 'camiseta', ]
 actualPrice: 33.99 EUR
 currency: EUR

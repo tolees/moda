@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E3G29GK-es Dickies Cornwell Abrigo impermeable para Hombre Gris...'
+sku: 'B00E3G29GK-es'
 tags: [ 'abrigo', ]
 actualPrice: 26.65 EUR
 currency: EUR

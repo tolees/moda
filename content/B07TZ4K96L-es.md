@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ4K96L-es New Look Maisie Fitted Puffer Abrigo Mujer Gris Dark Grey...'
+sku: 'B07TZ4K96L-es'
 tags: [ 'abrigo', ]
 actualPrice: 17.52 EUR
 currency: EUR

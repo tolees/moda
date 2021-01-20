@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3ZLHXV-es Marca Amazon - find. Camisa de Manga Larga de Algodón...'
+sku: 'B07N3ZLHXV-es'
 tags: [ 'camisa','-','find.', ]
 actualPrice: 7.54 EUR
 currency: EUR

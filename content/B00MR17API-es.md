@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MR17API-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros Azul Medium Aged...'
+sku: 'B00MR17API-es'
 tags: [ 'vaqueros', ]
 actualPrice: 38.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5VFDYQ-es Tommy Hilfiger - Elevated Nylon Hanging Washbag...'
+sku: 'B07V5VFDYQ-es'
 tags: [ 'bolso', ]
 actualPrice: 26.68 EUR
 currency: EUR

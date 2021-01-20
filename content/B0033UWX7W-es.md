@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0033UWX7W-es Lee Brooklyn Comfort Vaqueros Rectos para Hombre Azul Dark...'
+sku: 'B0033UWX7W-es'
 tags: [ 'vaqueros', ]
 actualPrice: 34.49 EUR
 currency: EUR

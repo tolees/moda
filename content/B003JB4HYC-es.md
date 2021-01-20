@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JB4HYC-es uhlsport Camiseta Stream II Manga Larga Todo el año Unisex...'
+sku: 'B003JB4HYC-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.49 EUR
 currency: EUR

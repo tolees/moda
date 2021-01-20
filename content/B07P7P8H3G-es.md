@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7P8H3G-es Morgan 192-jzip.p Falda Marrón Cerise Cerise 38 Talla del...'
+sku: 'B07P7P8H3G-es'
 tags: [ 'falda', ]
 actualPrice: 27.5 EUR
 currency: EUR

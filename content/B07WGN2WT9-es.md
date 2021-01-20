@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGN2WT9-es Jack & Jones Joruptown tee LS Crew Neck Camiseta de Manga...'
+sku: 'B07WGN2WT9-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.87 EUR
 currency: EUR

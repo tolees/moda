@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFLF7P-es Charles Wilson Camiseta Polo de Punto Abultado X-Large Black'
+sku: 'B07TLFLF7P-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.95 EUR
 currency: EUR

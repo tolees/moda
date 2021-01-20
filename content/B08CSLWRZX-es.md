@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSLWRZX-es ISTON - Maquinilla de afeitar eléctrica para mujer...'
+sku: 'B08CSLWRZX-es'
 tags: [ 'bikini', ]
 actualPrice: 28.51 EUR
 currency: EUR

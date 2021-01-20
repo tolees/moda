@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPQYJLK-es Tommy Jeans Tjw Tommy Classics Stripe tee Camiseta de...'
+sku: 'B07VPQYJLK-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR

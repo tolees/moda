@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1QRNR6-es Jack & Jones Jjiliam Jjoriginal Am 816 Noos Vaqueros...'
+sku: 'B07L1QRNR6-es'
 tags: [ 'vaqueros', ]
 actualPrice: 25.99 EUR
 currency: EUR

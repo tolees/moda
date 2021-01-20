@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH387ZZ-es Under Armour Fleece PO Men s Pullover Hoodie Sudadera con...'
+sku: 'B07RH387ZZ-es'
 tags: [ 'sudadera', ]
 actualPrice: 23.02 EUR
 currency: EUR

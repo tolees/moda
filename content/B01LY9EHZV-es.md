@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY9EHZV-es IRIS & LILLY Braguita Brasileña Cotton para Mujer Pack de...'
+sku: 'B01LY9EHZV-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 8.33 EUR
 currency: EUR

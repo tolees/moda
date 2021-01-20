@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HR38KY-es adidas Core18 tee Camiseta de Manga Corta Hombre Dark...'
+sku: 'B076HR38KY-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.8 EUR
 currency: EUR

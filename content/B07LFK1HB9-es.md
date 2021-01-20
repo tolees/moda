@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFK1HB9-es Levi s LS Baby tee Camiseta Gris Smokestack Heather 0004...'
+sku: 'B07LFK1HB9-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPWSDDW-es Desigual T-Shirt Short Sleeve NANUK Woman Blue Camiseta...'
+sku: 'B07GPWSDDW-es'
 tags: [ 'camiseta', ]
 actualPrice: 31.18 EUR
 currency: EUR

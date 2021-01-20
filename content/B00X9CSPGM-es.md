@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9CSPGM-es Timberland Larchmont Waterproof Zapatillas Chukka para...'
+sku: 'B00X9CSPGM-es'
 tags: [ 'timberland', ]
 actualPrice: 78.95 EUR
 currency: EUR

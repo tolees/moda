@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVTMHX1-es Women s Secret Home Set 2 HS Say Yes PJ Conjuntos de...'
+sku: 'B07TVTMHX1-es'
 tags: [ 'pijama', ]
 actualPrice: 11.99 EUR
 currency: EUR

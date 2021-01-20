@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEXE2AE-es Crocs Classic Clog K Zuecos Unisex Niños Naranja Tangerine...'
+sku: 'B01HEXE2AE-es'
 tags: [ 'zuecos', ]
 actualPrice: 20.99 EUR
 currency: EUR

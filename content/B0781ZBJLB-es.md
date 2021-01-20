@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781ZBJLB-es Puma Liga Training Rain Core Camiseta de equipación Hombre...'
+sku: 'B0781ZBJLB-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.82 EUR
 currency: EUR

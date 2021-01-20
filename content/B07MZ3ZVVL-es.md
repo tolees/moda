@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ3ZVVL-es Camisetas Hombre SHOBDW Verano de Lino Liso Algodón Talla...'
+sku: 'B07MZ3ZVVL-es'
 tags: [ 'blusa','camiseta', ]
 actualPrice: 4.59 EUR
 currency: EUR

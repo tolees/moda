@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYMPZYY-es Levi s LS Baby tee Camisa Manga Larga Multicolor Agnes...'
+sku: 'B07RYMPZYY-es'
 tags: [ 'camisa', ]
 actualPrice: 17.45 EUR
 currency: EUR

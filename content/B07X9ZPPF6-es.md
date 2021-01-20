@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9ZPPF6-es edc by Esprit 109cc1k023 Camisa Manga Larga Azul Navy 400...'
+sku: 'B07X9ZPPF6-es'
 tags: [ 'camisa', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNX86P2-es SimpleLife Bolso de Las Mujeres del Bolso del Wristlet...'
+sku: 'B07NNX86P2-es'
 tags: [ 'bolso','monedero', ]
 actualPrice: 5.12 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSK2GY4-es Geox D Myria C Zapatillas para Mujer Blanco White/Off...'
+sku: 'B07SSK2GY4-es'
 tags: [ 'geox', ]
 actualPrice: 52.46 EUR
 currency: EUR

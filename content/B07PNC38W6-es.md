@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNC38W6-es Only Onlmay S/s Dress Noos Vestido Multicolor Night Sky...'
+sku: 'B07PNC38W6-es'
 tags: [ 'vestido', ]
 actualPrice: 9.49 EUR
 currency: EUR

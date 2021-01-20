@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ3VRF6-es Geox D Myria B Zapatillas para Mujer Blanco White C1001 35 EU'
+sku: 'B07DJ3VRF6-es'
 tags: [ 'geox', ]
 actualPrice: 53.0 EUR
 currency: EUR

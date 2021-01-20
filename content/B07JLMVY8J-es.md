@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLMVY8J-es Amazon Essentials – Pantalón corto chino con tiro de 8 89...'
+sku: 'B07JLMVY8J-es'
 tags: [ 'pantalón', ]
 actualPrice: 5.47 EUR
 currency: EUR

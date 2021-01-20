@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1VT6J1-es Tommy Hilfiger TJM 1985 Vertical Logo tee Camiseta Deporte...'
+sku: 'B07W1VT6J1-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.58 EUR
 currency: EUR

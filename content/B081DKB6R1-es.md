@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DKB6R1-es BILLABONG™ - Bañador de Surf de pantalón - Hombre - M - Azul'
+sku: 'B081DKB6R1-es'
 tags: [ 'pantalón', ]
 actualPrice: 20.44 EUR
 currency: EUR

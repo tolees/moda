@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHKZ1MV-es TENGTA Unisex Zapatos de jardinería Impermeables para...'
+sku: 'B07JHKZ1MV-es'
 tags: [ 'zapatos', ]
 actualPrice: 45.99 EUR
 currency: EUR

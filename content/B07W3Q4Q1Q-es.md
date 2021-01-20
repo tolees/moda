@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W3Q4Q1Q-es TOUS Dorp Monedero Women s U'
+sku: 'B07W3Q4Q1Q-es'
 tags: [ 'monedero', ]
 actualPrice: 19.5 EUR
 currency: EUR

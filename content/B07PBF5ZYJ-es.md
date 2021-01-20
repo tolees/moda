@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBF5ZYJ-es Ever-Pretty Vestido de Fiesta Noche Largo para Mujer...'
+sku: 'B07PBF5ZYJ-es'
 tags: [ 'vestido', ]
 actualPrice: 49.99 EUR
 currency: EUR

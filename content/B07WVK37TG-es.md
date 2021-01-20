@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVK37TG-es YUNB Gafas de Seguridad de oscurecimiento LCD automático...'
+sku: 'B07WVK37TG-es'
 tags: [ 'gafas', ]
 actualPrice: 12.79 EUR
 currency: EUR

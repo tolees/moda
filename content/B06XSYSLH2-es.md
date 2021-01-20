@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSYSLH2-es Paladinz Tripode Movil 106 cm 42" Inch de Aluminio...'
+sku: 'B06XSYSLH2-es'
 tags: [ 'bolso', ]
 actualPrice: 13.99 EUR
 currency: EUR

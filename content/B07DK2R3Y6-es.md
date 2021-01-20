@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK2R3Y6-es Geox J Borealis Boy B Sandalias Punta Cerrada para Niños...'
+sku: 'B07DK2R3Y6-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 31.99 EUR
 currency: EUR

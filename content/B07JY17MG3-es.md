@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JY17MG3-es JACK & JONES Jjiliam Jjoriginal Am 792 50sps Noos Vaqueros...'
+sku: 'B07JY17MG3-es'
 tags: [ 'vaqueros', ]
 actualPrice: 24.95 EUR
 currency: EUR

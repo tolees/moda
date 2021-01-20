@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C589DBJ-es Neceser de Maquillaje LOSMILE Bolsa de Maquillaje para...'
+sku: 'B08C589DBJ-es'
 tags: [ 'bolso', ]
 actualPrice: 19.98 EUR
 currency: EUR

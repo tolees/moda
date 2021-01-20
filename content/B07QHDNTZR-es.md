@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHDNTZR-es G-STAR RAW D-STAQ 3D Slim Vaqueros Faded Quartz B604-A805...'
+sku: 'B07QHDNTZR-es'
 tags: [ 'vaqueros', ]
 actualPrice: 56.06 EUR
 currency: EUR

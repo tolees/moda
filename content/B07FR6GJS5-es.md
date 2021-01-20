@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR6GJS5-es Clarks Step Beat Dune Zapatos de Cordones Derby para...'
+sku: 'B07FR6GJS5-es'
 tags: [ 'zapatos', ]
 actualPrice: 37.47 EUR
 currency: EUR

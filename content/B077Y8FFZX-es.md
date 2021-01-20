@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y8FFZX-es Sylvie Flirty Swimwear Bakela Parte de Arriba de Bikini...'
+sku: 'B077Y8FFZX-es'
 tags: [ 'bikini', ]
 actualPrice: 19.39 EUR
 currency: EUR

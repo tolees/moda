@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0070SJ6RI-es Timberland Stormbucks Plain Toe Zapatos de Cordones Oxford...'
+sku: 'B0070SJ6RI-es'
 tags: [ 'timberland','zapatos', ]
 actualPrice: 89.99 EUR
 currency: EUR

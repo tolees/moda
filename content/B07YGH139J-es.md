@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGH139J-es Jack & Jones JORTOPIAS Sweat Hood Sudadera con Capucha...'
+sku: 'B07YGH139J-es'
 tags: [ 'sudadera', ]
 actualPrice: 11.67 EUR
 currency: EUR

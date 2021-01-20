@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MH5NCTZ-es Nike Court Borough Low VF GS Zapatos de Baloncesto para...'
+sku: 'B07MH5NCTZ-es'
 tags: [ 'zapatos', ]
 actualPrice: 37.28 EUR
 currency: EUR

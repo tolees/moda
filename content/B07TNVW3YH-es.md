@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNVW3YH-es Clarks Cotrell Lane Zapatos de Cordones Derby para Hombre...'
+sku: 'B07TNVW3YH-es'
 tags: [ 'zapatos', ]
 actualPrice: 34.1 EUR
 currency: EUR

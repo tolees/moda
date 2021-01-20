@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KJ09TW6-es Calvin Klein Damen Slip MODERN COTTON - BIKINI Einfarbig...'
+sku: 'B00KJ09TW6-es'
 tags: [ 'bikini', ]
 actualPrice: 12.49 EUR
 currency: EUR

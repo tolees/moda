@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814NGBY8-es Largas Camisetas Vestido Mujer Verano Sexy Encaje Algodón...'
+sku: 'B0814NGBY8-es'
 tags: [ 'moda','vestido', ]
 actualPrice: 3.99 EUR
 currency: EUR

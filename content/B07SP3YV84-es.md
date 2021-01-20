@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP3YV84-es Under Armour Rush Heatgear Compression Camisa Manga Corta...'
+sku: 'B07SP3YV84-es'
 tags: [ 'camisa', ]
 actualPrice: 17.57 EUR
 currency: EUR

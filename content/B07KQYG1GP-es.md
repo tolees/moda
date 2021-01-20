@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQYG1GP-es SALOMON Drifter Mid Jkt M Chaqueta Reversible Hombre Negro...'
+sku: 'B07KQYG1GP-es'
 tags: [ 'chaqueta', ]
 actualPrice: 48.36 EUR
 currency: EUR

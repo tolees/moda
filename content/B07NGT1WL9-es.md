@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGT1WL9-es Calvin Klein Hip Brief 3pk Bóxer Gris Charcoal H/Rasp...'
+sku: 'B07NGT1WL9-es'
 tags: [ 'bóxer', ]
 actualPrice: 10.82 EUR
 currency: EUR

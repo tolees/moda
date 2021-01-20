@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HV6C9Q-es find. Sudadera Manga Fruncida para Mujer Rosa Soft Peach...'
+sku: 'B072HV6C9Q-es'
 tags: [ 'sudadera', ]
 actualPrice: 12 EUR
 currency: EUR

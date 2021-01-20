@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHNMNMK-es Columbia Horizons Pine Chaqueta Interchange Hombre Verde...'
+sku: 'B07MHNMNMK-es'
 tags: [ 'chaqueta', ]
 actualPrice: 129.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHTQ2CT-es Tom Tailor NOS 1010415 Camiseta para Mujer Marfil Whisper...'
+sku: 'B07NHTQ2CT-es'
 tags: [ 'camiseta', ]
 actualPrice: 2.51 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897RM2FV-es qingqingR Mujeres Niñas Bolso pequeño Bolso de Hombro...'
+sku: 'B0897RM2FV-es'
 tags: [ 'bolso', ]
 actualPrice: 13.38 EUR
 currency: EUR

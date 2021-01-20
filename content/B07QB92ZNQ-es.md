@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB92ZNQ-es PUMA Manchester City FC Kids Replica Dodge Jersey Unisex...'
+sku: 'B07QB92ZNQ-es'
 tags: [ 'jersey', ]
 actualPrice: 39.9 EUR
 currency: EUR

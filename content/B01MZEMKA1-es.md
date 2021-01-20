@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZEMKA1-es Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta...'
+sku: 'B01MZEMKA1-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR

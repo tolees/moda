@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC1XGCV-es JACK & JONES Jjifred Jjtool Cj 097 Vaqueros Relaxed Negro...'
+sku: 'B07VC1XGCV-es'
 tags: [ 'vaqueros', ]
 actualPrice: 19.18 EUR
 currency: EUR

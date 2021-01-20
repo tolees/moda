@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JKYPVH-es Sucreven Mujer Elegante Tacón Alto Pump Punta Redonda...'
+sku: 'B087JKYPVH-es'
 tags: [ 'vestido','zapatos', ]
 actualPrice: 27.78 EUR
 currency: EUR

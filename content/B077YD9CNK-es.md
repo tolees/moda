@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YD9CNK-es HIKARO Sudadera con Capucha Hombre Gris Charcoal Marl 48...'
+sku: 'B077YD9CNK-es'
 tags: [ 'sudadera', ]
 actualPrice: 21.21 EUR
 currency: EUR

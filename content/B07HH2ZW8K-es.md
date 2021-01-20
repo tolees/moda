@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH2ZW8K-es Mujer Botas de Nieve Zapatos Invierno Impermeables...'
+sku: 'B07HH2ZW8K-es'
 tags: [ 'zapatos', ]
 actualPrice: 22.99 EUR
 currency: EUR

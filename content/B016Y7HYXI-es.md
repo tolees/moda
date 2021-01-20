@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016Y7HYXI-es Luz Para Bolso Seguridad de Luz con Sensor de...'
+sku: 'B016Y7HYXI-es'
 tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR

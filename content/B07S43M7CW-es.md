@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S43M7CW-es BOSS Mabsoot Camisa Verde Open Green 350 Large para Hombre'
+sku: 'B07S43M7CW-es'
 tags: [ 'camisa', ]
 actualPrice: 33.92 EUR
 currency: EUR

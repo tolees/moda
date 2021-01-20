@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVT23W-es Quiksilver Zapatos de Playa y Piscina AQYL100047 XSKS'
+sku: 'B078WVT23W-es'
 tags: [ 'zapatos', ]
 actualPrice: 15.79 EUR
 currency: EUR

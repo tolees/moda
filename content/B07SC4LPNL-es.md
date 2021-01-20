@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SC4LPNL-es Helly Hansen Daybreaker Fleece Jacket Forro Polar Chaqueta...'
+sku: 'B07SC4LPNL-es'
 tags: [ 'chaqueta', ]
 actualPrice: 40.99 EUR
 currency: EUR

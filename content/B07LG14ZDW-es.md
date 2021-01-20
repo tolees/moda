@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG14ZDW-es Geox D Annytah D Bailarinas para Mujer Marrón Chestnut...'
+sku: 'B07LG14ZDW-es'
 tags: [ 'geox', ]
 actualPrice: 21.88 EUR
 currency: EUR

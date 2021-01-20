@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DG6Z3GC-es PUMA Energy Seamless tee Camiseta Hombre Negro Black...'
+sku: 'B07DG6Z3GC-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.49 EUR
 currency: EUR

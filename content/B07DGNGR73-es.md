@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGNGR73-es Timberland City S Edge Botas Clasicas para Hombre Marrón...'
+sku: 'B07DGNGR73-es'
 tags: [ 'timberland', ]
 actualPrice: 80.45 EUR
 currency: EUR

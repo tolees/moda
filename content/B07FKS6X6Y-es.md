@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKS6X6Y-es Trangoworld Mendilaz Chaqueta Hombre Gris S'
+sku: 'B07FKS6X6Y-es'
 tags: [ 'chaqueta', ]
 actualPrice: 29.07 EUR
 currency: EUR

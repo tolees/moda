@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SMKJDM-es Desigual Nisa TS Camiseta Azul Marino 5001 L para Mujer'
+sku: 'B079SMKJDM-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.98 EUR
 currency: EUR

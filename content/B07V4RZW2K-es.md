@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4RZW2K-es Camiseta de Baloncesto NBA Chicago Bulls para Hombre...'
+sku: 'B07V4RZW2K-es'
 tags: [ 'camiseta','jersey', ]
 actualPrice: 10.75 EUR
 currency: EUR

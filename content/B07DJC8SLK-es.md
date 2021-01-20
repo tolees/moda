@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJC8SLK-es Geox D Yulimar C Sandalias con Punta Abierta para Mujer...'
+sku: 'B07DJC8SLK-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 59.95 EUR
 currency: EUR

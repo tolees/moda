@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9GH93V-es Lacoste Sport SH2128 Sudadera Multicolor Noir/Argent Chine...'
+sku: 'B01M9GH93V-es'
 tags: [ 'sudadera', ]
 actualPrice: 69 EUR
 currency: EUR

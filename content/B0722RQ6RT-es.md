@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722RQ6RT-es El Naturalista N5142 Capretto Nectar Botines para Mujer...'
+sku: 'B0722RQ6RT-es'
 tags: [ 'botines', ]
 actualPrice: 35.98 EUR
 currency: EUR

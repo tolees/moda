@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STW5XKG-es Quiksilver Monkey Caged Sandalias de Talón Abierto para...'
+sku: 'B07STW5XKG-es'
 tags: [ 'sandalias', ]
 actualPrice: 19.35 EUR
 currency: EUR

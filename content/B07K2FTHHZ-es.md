@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2FTHHZ-es Timberland Adventure 2.0 Cupsole Modern Chukka Zapatillas...'
+sku: 'B07K2FTHHZ-es'
 tags: [ 'timberland', ]
 actualPrice: 34.98 EUR
 currency: EUR

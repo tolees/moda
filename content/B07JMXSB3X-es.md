@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMXSB3X-es Timberland Bradstreet Hiker Botas Chukka para Hombre Azul...'
+sku: 'B07JMXSB3X-es'
 tags: [ 'timberland', ]
 actualPrice: 72.5 EUR
 currency: EUR

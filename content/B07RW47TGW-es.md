@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW47TGW-es Zapatillas Hombres De Deporte Talla 39-48 Sin Cordones De...'
+sku: 'B07RW47TGW-es'
 tags: [ 'zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR

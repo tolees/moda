@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSK5Z7M-es Clarks Bampton Lace Zapatos de Cordones Brogue para Hombre...'
+sku: 'B07MSK5Z7M-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.02 EUR
 currency: EUR

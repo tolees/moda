@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8HHQHN-es Geox U Snake.2 A Zapatillas para Hombre Marrón Cigar/Dk...'
+sku: 'B07M8HHQHN-es'
 tags: [ 'geox', ]
 actualPrice: 56.95 EUR
 currency: EUR

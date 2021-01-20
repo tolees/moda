@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPPM66-es Geox U Snake.2 A Zapatillas para Hombre Naranja Dk...'
+sku: 'B07SVPPM66-es'
 tags: [ 'geox', ]
 actualPrice: 54.68 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FOJARBS-es DC Comics mujer Wonder Woman Logo Camiseta Large borgoña'
+sku: 'B01FOJARBS-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.5 EUR
 currency: EUR

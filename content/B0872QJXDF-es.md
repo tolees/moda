@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872QJXDF-es Odetina - Sandalias de tacón alto con correa de hebilla...'
+sku: 'B0872QJXDF-es'
 tags: [ 'sandalias', ]
 actualPrice: 22.41 EUR
 currency: EUR

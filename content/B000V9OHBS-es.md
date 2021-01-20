@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000V9OHBS-es Timberland 6 Inch Premium Waterproof Botas para Mujer...'
+sku: 'B000V9OHBS-es'
 tags: [ 'timberland', ]
 actualPrice: 129.89 EUR
 currency: EUR

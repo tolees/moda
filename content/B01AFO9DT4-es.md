@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AFO9DT4-es Diesel UMTEE-JAKETHREEPACK Camiseta para Hombre Multicolor...'
+sku: 'B01AFO9DT4-es'
 tags: [ 'camiseta', ]
 actualPrice: 26.99 EUR
 currency: EUR

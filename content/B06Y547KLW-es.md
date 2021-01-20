@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y547KLW-es Vans Colorblock tee Camiseta Blanco White/Black XX-Large...'
+sku: 'B06Y547KLW-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.15 EUR
 currency: EUR

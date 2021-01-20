@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHKPMC4-es Marca Amazon - AURIQUE Mallas de Deporte Capri de Tiro...'
+sku: 'B07QHKPMC4-es'
 tags: [ 'aurique', ]
 actualPrice: 6.51 EUR
 currency: EUR

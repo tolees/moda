@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STW3SYW-es Quiksilver Carver Print Zapatos de Playa y Piscina para...'
+sku: 'B07STW3SYW-es'
 tags: [ 'zapatos', ]
 actualPrice: 17.49 EUR
 currency: EUR

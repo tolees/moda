@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772JDDLL-es MERAKI Pantalón Cortos Chinos Hombre Gris Oscuro M'
+sku: 'B0772JDDLL-es'
 tags: [ 'meraki','pantalón', ]
 actualPrice: 5.07 EUR
 currency: EUR

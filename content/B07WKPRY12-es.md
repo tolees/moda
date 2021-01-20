@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKPRY12-es Pepe Jeans Montana Camiseta Azul Old Navy 584 Large para...'
+sku: 'B07WKPRY12-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.0 EUR
 currency: EUR

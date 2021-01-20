@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTQNZ7H-es Jack & Jones Jjiglenn Jjoriginal Jos 123 I.k Vaqueros Slim...'
+sku: 'B07XTQNZ7H-es'
 tags: [ 'vaqueros', ]
 actualPrice: 40.0 EUR
 currency: EUR

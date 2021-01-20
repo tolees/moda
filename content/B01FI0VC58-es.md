@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FI0VC58-es Birkenstock Arizona EVA Sandalias de Punta Descubierta...'
+sku: 'B01FI0VC58-es'
 tags: [ 'sandalias', ]
 actualPrice: 29.95 EUR
 currency: EUR

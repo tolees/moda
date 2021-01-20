@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPKHG1-es Helly Hansen HH Tech T Camiseta Hombre Gris Gris Oscuro...'
+sku: 'B073RPKHG1-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.75 EUR
 currency: EUR

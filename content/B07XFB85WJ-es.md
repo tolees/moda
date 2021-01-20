@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFB85WJ-es TTYAOVO Vestido de Fiesta con Volantes de Princesa sin...'
+sku: 'B07XFB85WJ-es'
 tags: [ 'vestido', ]
 actualPrice: 22.99 EUR
 currency: EUR

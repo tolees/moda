@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075X1TTSC-es find. NEWSTW046 vaqueros mujer Azul Dark Vintage W27/L32'
+sku: 'B075X1TTSC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 10.8 EUR
 currency: EUR

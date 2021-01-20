@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDS27GJ-es Geox U TAIKI B ABX A Zapatillas Altas para Hombre Marrón...'
+sku: 'B07PDS27GJ-es'
 tags: [ 'geox', ]
 actualPrice: 90.35 EUR
 currency: EUR

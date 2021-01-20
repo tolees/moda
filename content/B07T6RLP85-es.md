@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6RLP85-es Elegantpark FL Diseño de gotitas de agua Clips de zapatos...'
+sku: 'B07T6RLP85-es'
 tags: [ 'zapatos', ]
 actualPrice: 18.99 EUR
 currency: EUR

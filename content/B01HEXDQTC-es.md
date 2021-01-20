@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEXDQTC-es Crocs Classic Clog K Zuecos Unisex Niños Amarillo Lemon...'
+sku: 'B01HEXDQTC-es'
 tags: [ 'zuecos', ]
 actualPrice: 17.94 EUR
 currency: EUR

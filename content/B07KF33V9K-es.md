@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF33V9K-es Levi s 502 Regular Taper Vaqueros Azul Baltic Adapt 0472...'
+sku: 'B07KF33V9K-es'
 tags: [ 'vaqueros', ]
 actualPrice: 33.67 EUR
 currency: EUR

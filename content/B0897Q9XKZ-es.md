@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897Q9XKZ-es qingqingR Bolso Bandolera de Cuero de Mujer para Mujer...'
+sku: 'B0897Q9XKZ-es'
 tags: [ 'bolso', ]
 actualPrice: 24.32 EUR
 currency: EUR

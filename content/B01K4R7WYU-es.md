@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K4R7WYU-es LEABAGS Havana Bolso Bandolera de Cuero auténtico de...'
+sku: 'B01K4R7WYU-es'
 tags: [ 'bolso', ]
 actualPrice: 98.98 EUR
 currency: EUR

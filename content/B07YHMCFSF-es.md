@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YHMCFSF-es loonBonnie Estilo Coreano Moda Hombres Mujeres Amantes...'
+sku: 'B07YHMCFSF-es'
 tags: [ 'moda', ]
 actualPrice: 1.25 EUR
 currency: EUR

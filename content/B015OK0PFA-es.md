@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015OK0PFA-es PUMA Epic Flip V2 Chanclas Unisex-Adulto Negro Black/White...'
+sku: 'B015OK0PFA-es'
 tags: [ 'chanclas', ]
 actualPrice: 12.55 EUR
 currency: EUR

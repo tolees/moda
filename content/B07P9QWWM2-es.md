@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9QWWM2-es ESCATCH - Pantalón de Ropa de Pijama de Verano para...'
+sku: 'B07P9QWWM2-es'
 tags: [ 'pantalón','pijama', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC1DB71-es PUMA DIVECAT V2 Zapatos de Playa y Piscina Unisex Adulto...'
+sku: 'B07DC1DB71-es'
 tags: [ 'zapatos', ]
 actualPrice: 10.43 EUR
 currency: EUR

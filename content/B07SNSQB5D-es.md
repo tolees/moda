@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNSQB5D-es Burton Durable Goods Camiseta Hombre True Black S'
+sku: 'B07SNSQB5D-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.51 EUR
 currency: EUR

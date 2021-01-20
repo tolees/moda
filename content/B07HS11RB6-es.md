@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HS11RB6-es Armani Exchange Smart Stretch Satin Camisa Negro Black...'
+sku: 'B07HS11RB6-es'
 tags: [ 'camisa', ]
 actualPrice: 29.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PML1SFR-es MTNG Picton Bolso Bolera para Mujer Nylon/lis Negro...'
+sku: 'B07PML1SFR-es'
 tags: [ 'bolso', ]
 actualPrice: 15.54 EUR
 currency: EUR

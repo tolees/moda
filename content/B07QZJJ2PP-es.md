@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZJJ2PP-es BaZhaHei CinturóN Verde de Compras Monedero del...'
+sku: 'B07QZJJ2PP-es'
 tags: [ 'bolso','monedero', ]
 actualPrice: 1.12 EUR
 currency: EUR

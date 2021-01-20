@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQVB4JV-es B Blesiya Juego deAjedrez Acrílico Magnético Portátil...'
+sku: 'B07NQVB4JV-es'
 tags: [ 'moda', ]
 actualPrice: 14.99 EUR
 currency: EUR

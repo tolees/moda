@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KJ8J5X-es adidas Entrada 86 Camiseta de Fútbol para Hombre de Cuello...'
+sku: 'B071KJ8J5X-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.97 EUR
 currency: EUR

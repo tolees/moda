@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QBPDPJG-es ABIsedrin Collar con Nombre Personalizado Collar para...'
+sku: 'B07QBPDPJG-es'
 tags: [ 'collar', ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NH1VSKC-es Marca Amazon - Iris & Lilly Tanga Mujer Pack de 5 Rosa...'
+sku: 'B07NH1VSKC-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 10.49 EUR
 currency: EUR

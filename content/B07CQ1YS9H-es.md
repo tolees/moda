@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ1YS9H-es Lee Daren Zip Fly Vaqueros Rectos Azul Time out Dn 34W /...'
+sku: 'B07CQ1YS9H-es'
 tags: [ 'vaqueros', ]
 actualPrice: 49.98 EUR
 currency: EUR

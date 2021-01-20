@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SJYFYW-es VVA Gafas de sol polarizadas para hombres Gafas de sol...'
+sku: 'B083SJYFYW-es'
 tags: [ 'gafas', ]
 actualPrice: 16.99 EUR
 currency: EUR

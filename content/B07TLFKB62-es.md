@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFKB62-es Levi s Camiseta Multicolor Authentic Colorblock tee...'
+sku: 'B07TLFKB62-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.69 EUR
 currency: EUR

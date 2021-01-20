@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXBJPWZ-es JACK & JONES Jjebomb Puffer Noos Chaqueta Bomber Azul Navy...'
+sku: 'B07MXBJPWZ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 34.99 EUR
 currency: EUR

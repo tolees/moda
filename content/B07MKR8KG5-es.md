@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKR8KG5-es Lacoste Ch9861 Camisa Azul Marine/Hemisphere/Blanc 0wf...'
+sku: 'B07MKR8KG5-es'
 tags: [ 'camisa', ]
 actualPrice: 34.8 EUR
 currency: EUR

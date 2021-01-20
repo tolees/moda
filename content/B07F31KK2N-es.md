@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F31KK2N-es Helly Hansen HP 1/2 Zip Jersey Hombre Ebony M'
+sku: 'B07F31KK2N-es'
 tags: [ 'jersey', ]
 actualPrice: 32.34 EUR
 currency: EUR

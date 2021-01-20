@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX751Y-es Pepe Jeans Jett Camiseta Azul Deep Sea 597 Small para Hombre'
+sku: 'B07VWX751Y-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4YHLQB-es Vero Moda Vmsoraya SIV Aw19 Short Jacket Boos Chaqueta...'
+sku: 'B07S4YHLQB-es'
 tags: [ 'chaqueta','moda', ]
 actualPrice: 16.01 EUR
 currency: EUR

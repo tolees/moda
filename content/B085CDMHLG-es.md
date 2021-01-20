@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDMHLG-es Elover UV Lámpara de Desinfección para Teléfono...'
+sku: 'B085CDMHLG-es'
 tags: [ 'gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR

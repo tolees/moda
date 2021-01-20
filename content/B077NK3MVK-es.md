@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NK3MVK-es Lee Luke Vaqueros Kick It Cdpf 28W / 32L para Hombre'
+sku: 'B077NK3MVK-es'
 tags: [ 'vaqueros', ]
 actualPrice: 59.95 EUR
 currency: EUR

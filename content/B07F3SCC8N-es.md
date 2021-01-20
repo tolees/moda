@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3SCC8N-es Geox Uomo Sandal Strada D Sandalias con Punta Abierta para...'
+sku: 'B07F3SCC8N-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 44.35 EUR
 currency: EUR

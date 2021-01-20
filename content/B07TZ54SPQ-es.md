@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ54SPQ-es Women s Secret Black & White Multilicense Mbw MF Igloo PJ...'
+sku: 'B07TZ54SPQ-es'
 tags: [ 'pijama', ]
 actualPrice: 14.98 EUR
 currency: EUR

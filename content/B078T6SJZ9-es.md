@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T6SJZ9-es PUMA Liga CR H Camiseta de Manga Corta Hombre Blanco...'
+sku: 'B078T6SJZ9-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

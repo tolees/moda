@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BDJC13-es Crocs Baya Zuecos Unisex Adulto Rosa Party Pink 41/42 EU'
+sku: 'B078BDJC13-es'
 tags: [ 'zuecos', ]
 actualPrice: 29.44 EUR
 currency: EUR

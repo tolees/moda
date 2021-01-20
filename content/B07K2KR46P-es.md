@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2KR46P-es Timberland Dausette Low Zapatillas Altas para Mujer Rojo...'
+sku: 'B07K2KR46P-es'
 tags: [ 'timberland', ]
 actualPrice: 38.0 EUR
 currency: EUR

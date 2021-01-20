@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FXGNURU-es Under Armour UA TAC Heatgear Comp tee Camiseta Hombre...'
+sku: 'B01FXGNURU-es'
 tags: [ 'camiseta', ]
 actualPrice: 22.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2S9G5Z-es Pierre Calvini Signiture Bóxer para Hombre Negro Black...'
+sku: 'B07G2S9G5Z-es'
 tags: [ 'bóxer', ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX3IZIY-es Samsonite Openroad Tablet Crossover M 7.9" Bolso Bandolera...'
+sku: 'B01LX3IZIY-es'
 tags: [ 'bolso', ]
 actualPrice: 49.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFHVSDL-es Jack & Jones Jprmiles BLU tee LS Henley-Pre Camisa Manga...'
+sku: 'B07VFHVSDL-es'
 tags: [ 'camisa', ]
 actualPrice: 5.83 EUR
 currency: EUR

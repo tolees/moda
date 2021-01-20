@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076XF9FT3-es Geox JR CIAK Girl A Zapatillas para Niñas Azul Navy 39 EU'
+sku: 'B076XF9FT3-es'
 tags: [ 'geox', ]
 actualPrice: 32.5 EUR
 currency: EUR

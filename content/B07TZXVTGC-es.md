@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZXVTGC-es Only Onlnaiomi Hooded Jacket CC Otw Chaqueta Rojo Merlot...'
+sku: 'B07TZXVTGC-es'
 tags: [ 'chaqueta', ]
 actualPrice: 15.56 EUR
 currency: EUR

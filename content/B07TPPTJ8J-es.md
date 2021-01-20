@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPPTJ8J-es Levi s Crewneck 1 Camiseta Azul 2pk Slim Crew Dress Blues...'
+sku: 'B07TPPTJ8J-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.89 EUR
 currency: EUR

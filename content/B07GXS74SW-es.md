@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXS74SW-es Timezone Tight Taviratz 7/8 Vaqueros Slim Blanco Dark Navy...'
+sku: 'B07GXS74SW-es'
 tags: [ 'vaqueros', ]
 actualPrice: 18.17 EUR
 currency: EUR

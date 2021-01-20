@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVR9KPC-es Pepe Jeans Art Camiseta Azul 519light SPA 519 8-9 años...'
+sku: 'B07VVR9KPC-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.5 EUR
 currency: EUR

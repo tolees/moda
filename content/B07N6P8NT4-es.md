@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6P8NT4-es Tommy Hilfiger 3p Bikini Tanga Multicolor Multi 077 Talla...'
+sku: 'B07N6P8NT4-es'
 tags: [ 'bikini', ]
 actualPrice: 22.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J1LYWQ6-es Crocs Crocband Clog Kids Zuecos Unisex Niños Beige...'
+sku: 'B01J1LYWQ6-es'
 tags: [ 'zuecos', ]
 actualPrice: 22.33 EUR
 currency: EUR

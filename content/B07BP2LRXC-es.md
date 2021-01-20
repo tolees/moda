@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BP2LRXC-es Gant The Broadcloth Banker Reg BD Camisa Azul Capri Blue...'
+sku: 'B07BP2LRXC-es'
 tags: [ 'camisa', ]
 actualPrice: 63.62 EUR
 currency: EUR

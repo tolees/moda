@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073TZHHZ5-es Vero Moda Vmagoura LS O-Neck Blouse A suéter Mujer Negro...'
+sku: 'B073TZHHZ5-es'
 tags: [ 'moda', ]
 actualPrice: 19.82 EUR
 currency: EUR

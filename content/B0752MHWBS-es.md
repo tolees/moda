@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0752MHWBS-es G-STAR RAW D-Staq 3D Skinny Vaqueros Azul dk aged 8971-89...'
+sku: 'B0752MHWBS-es'
 tags: [ 'vaqueros', ]
 actualPrice: 73.97 EUR
 currency: EUR

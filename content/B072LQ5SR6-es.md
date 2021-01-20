@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LQ5SR6-es Crocs Classic Clog Zuecos Unisex Adulto Pink 36/37 EU'
+sku: 'B072LQ5SR6-es'
 tags: [ 'zuecos', ]
 actualPrice: 22.79 EUR
 currency: EUR

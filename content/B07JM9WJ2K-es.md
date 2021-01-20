@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM9WJ2K-es Wrangler Regular Jacket Chaqueta Azul Bleached out 12d...'
+sku: 'B07JM9WJ2K-es'
 tags: [ 'chaqueta', ]
 actualPrice: 24.43 EUR
 currency: EUR

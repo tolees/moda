@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M83VZHQ-es Napapijri Skidoo 2 Chaqueta Orange Orangeade A21 L para...'
+sku: 'B07M83VZHQ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 144.49 EUR
 currency: EUR

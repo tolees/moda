@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRHKQZN-es Botas Altas para Mujer Cuero de Invierno Camfosy City...'
+sku: 'B07HRHKQZN-es'
 tags: [ 'botines', ]
 actualPrice: 73.99 EUR
 currency: EUR

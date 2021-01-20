@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VW3X1XP-es Lee Luke Vaqueros Dark Marine 37 31W / 34L para Hombre'
+sku: 'B07VW3X1XP-es'
 tags: [ 'vaqueros', ]
 actualPrice: 18.83 EUR
 currency: EUR

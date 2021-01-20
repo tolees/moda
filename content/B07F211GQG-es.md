@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F211GQG-es Timberland Bradstreet Leather Sensorflex Botas Chukka para...'
+sku: 'B07F211GQG-es'
 tags: [ 'timberland', ]
 actualPrice: 70.0 EUR
 currency: EUR

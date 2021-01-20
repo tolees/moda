@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CS9W82W-es Pepe Jeans Melanie Blusa para Mujer Multi Bleu 0aa Small'
+sku: 'B07CS9W82W-es'
 tags: [ 'blusa', ]
 actualPrice: 14.88 EUR
 currency: EUR

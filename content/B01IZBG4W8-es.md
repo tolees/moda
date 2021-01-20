@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IZBG4W8-es PUMA Popcat Zapatos de Playa y Piscina Unisex Adulto...'
+sku: 'B01IZBG4W8-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.95 EUR
 currency: EUR

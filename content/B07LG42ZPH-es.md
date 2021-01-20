@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG42ZPH-es Geox J ALBEN Boy A Zapatillas para Niños Azul...'
+sku: 'B07LG42ZPH-es'
 tags: [ 'geox', ]
 actualPrice: 52.43 EUR
 currency: EUR

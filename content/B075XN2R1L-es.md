@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XN2R1L-es Emily Bridal Zapatos Nupciales De Mujer satén Sedoso Tacón...'
+sku: 'B075XN2R1L-es'
 tags: [ 'zapatos', ]
 actualPrice: 44.9 EUR
 currency: EUR

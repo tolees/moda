@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GH4KVSS-es Bolso organizador para coche animal león tigre jirafa de...'
+sku: 'B01GH4KVSS-es'
 tags: [ 'bolso', ]
 actualPrice: 31.91 EUR
 currency: EUR

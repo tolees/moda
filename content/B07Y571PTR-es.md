@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y571PTR-es Geographical Norway Chaqueta Softshell Hombre TYKOON rol 7...'
+sku: 'B07Y571PTR-es'
 tags: [ 'chaqueta', ]
 actualPrice: 69.3 EUR
 currency: EUR

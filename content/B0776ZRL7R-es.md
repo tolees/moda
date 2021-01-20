@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776ZRL7R-es Tommy Hilfiger Original Jersey Camiseta Azul Black Iris...'
+sku: 'B0776ZRL7R-es'
 tags: [ 'camiseta','jersey', ]
 actualPrice: 19.15 EUR
 currency: EUR

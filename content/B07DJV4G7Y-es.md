@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJV4G7Y-es Geox D Vega Moc B Mocasines para Mujer Azul Blue/Skin...'
+sku: 'B07DJV4G7Y-es'
 tags: [ 'geox', ]
 actualPrice: 38.49 EUR
 currency: EUR

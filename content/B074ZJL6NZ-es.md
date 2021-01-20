@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZJL6NZ-es Polaroid PLD 2058/S M9 003 55 Gafas de sol Negro Matt...'
+sku: 'B074ZJL6NZ-es'
 tags: [ 'gafas', ]
 actualPrice: 31.53 EUR
 currency: EUR

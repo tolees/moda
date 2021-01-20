@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9XVVVP-es FTIMILD - Chaqueta de Pana para Hombre con Cremallera...'
+sku: 'B07S9XVVVP-es'
 tags: [ 'chaqueta', ]
 actualPrice: 19.17 EUR
 currency: EUR

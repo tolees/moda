@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9F1G5F-es Quiksilver Get Buzzy Camiseta De Manga Larga Niños Gris...'
+sku: 'B07T9F1G5F-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR

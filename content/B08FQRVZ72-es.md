@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FQRVZ72-es Estudiante Coreano Hombro Arte Fresh Messenger Canvas Bag...'
+sku: 'B08FQRVZ72-es'
 tags: [ 'bolso', ]
 actualPrice: 5.44 EUR
 currency: EUR

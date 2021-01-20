@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBB8F8P-es Crocs Monterey Diamante Wedge Flip Chanclas para Mujer...'
+sku: 'B07SBB8F8P-es'
 tags: [ 'chanclas', ]
 actualPrice: 30.6 EUR
 currency: EUR

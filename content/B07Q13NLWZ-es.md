@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q13NLWZ-es Under Armour UA Lockdown 4 Zapatos de Baloncesto para...'
+sku: 'B07Q13NLWZ-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.0 EUR
 currency: EUR

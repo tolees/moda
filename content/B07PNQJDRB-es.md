@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNQJDRB-es Calvin Klein Core Monogram Logo Sweatshirt Sudadera Gris...'
+sku: 'B07PNQJDRB-es'
 tags: [ 'sudadera', ]
 actualPrice: 60.99 EUR
 currency: EUR

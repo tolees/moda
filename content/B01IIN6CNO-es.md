@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IIN6CNO-es Lee Twin Pack Crew Camiseta Negro Black Ai01 Large 2 para...'
+sku: 'B01IIN6CNO-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR

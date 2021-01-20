@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHB1KT4-es Timberland Newport Bay Zapatillas Bajas para Hombre Azul...'
+sku: 'B07FHB1KT4-es'
 tags: [ 'timberland', ]
 actualPrice: 38.99 EUR
 currency: EUR

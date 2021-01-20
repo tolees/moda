@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBCXG9Y-es Desigual TS Verona Camiseta Blanco Crudo 1001 X-Small para...'
+sku: 'B07VBCXG9Y-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.31 EUR
 currency: EUR

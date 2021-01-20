@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYXGTL9-es Columbia Horizon Explore H Chaqueta Térmica Impermeable...'
+sku: 'B07DYXGTL9-es'
 tags: [ 'chaqueta', ]
 actualPrice: 95.89 EUR
 currency: EUR

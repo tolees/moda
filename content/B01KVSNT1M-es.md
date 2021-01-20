@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KVSNT1M-es Timberland Killington Botas Unisex Niños Azul Black Iris...'
+sku: 'B01KVSNT1M-es'
 tags: [ 'timberland', ]
 actualPrice: 50.49 EUR
 currency: EUR

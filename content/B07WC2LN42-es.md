@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC2LN42-es Marca Amazon - MERAKI Abrigo de Lana Mujer Beige Camel 40...'
+sku: 'B07WC2LN42-es'
 tags: [ 'abrigo','meraki', ]
 actualPrice: 19.44 EUR
 currency: EUR

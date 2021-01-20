@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JZCFI8-es Clarks Nature Three 20340682 - Zapatos casual de cuero...'
+sku: 'B003JZCFI8-es'
 tags: [ 'zapatos', ]
 actualPrice: 87.11 EUR
 currency: EUR

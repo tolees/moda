@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVM96GK-es Tommy Hilfiger SS tee Print Camiseta con Logo Blanco White...'
+sku: 'B06WVM96GK-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR

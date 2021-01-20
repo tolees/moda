@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X3T8NSM-es Marca Amazon - find. Slip para Hombre Y-Front Multipack...'
+sku: 'B06X3T8NSM-es'
 tags: [ '-','find.', ]
 actualPrice: 12.4 EUR
 currency: EUR

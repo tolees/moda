@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BRCG1QR-es FUSHITON Hombre Zapatillas Casual Calzado Deportivo Moda...'
+sku: 'B08BRCG1QR-es'
 tags: [ 'moda','zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR

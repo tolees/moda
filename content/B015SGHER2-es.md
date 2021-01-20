@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGHER2-es Havaianas You Metallic Sandalias para Mujer Plateado Steel...'
+sku: 'B015SGHER2-es'
 tags: [ 'sandalias', ]
 actualPrice: 19.9 EUR
 currency: EUR

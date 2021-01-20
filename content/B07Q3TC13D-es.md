@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3TC13D-es TTYAOVO Chicas Arco Iris Unicornio Fancy Vestido Princesa...'
+sku: 'B07Q3TC13D-es'
 tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR

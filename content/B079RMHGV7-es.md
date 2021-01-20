@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RMHGV7-es GANT The Broadcloth Gingham Reg BD Camisa Azul Capri Blue...'
+sku: 'B079RMHGV7-es'
 tags: [ 'camisa', ]
 actualPrice: 61.74 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH3FMPS-es Pepe Jeans Pixie Pl200025 Vaqueros Skinny Gris Powerflex...'
+sku: 'B07JH3FMPS-es'
 tags: [ 'vaqueros', ]
 actualPrice: 41.64 EUR
 currency: EUR

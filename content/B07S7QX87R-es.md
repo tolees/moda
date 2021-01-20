@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QX87R-es PUMA Cozy Flip Zapatos de Playa y Piscina Unisex-Adulto...'
+sku: 'B07S7QX87R-es'
 tags: [ 'zapatos', ]
 actualPrice: 14.91 EUR
 currency: EUR

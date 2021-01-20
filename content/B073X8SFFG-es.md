@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073X8SFFG-es Timberland Larchmont Chelsea Waterproof Botas Hombre...'
+sku: 'B073X8SFFG-es'
 tags: [ 'timberland', ]
 actualPrice: 60.78 EUR
 currency: EUR

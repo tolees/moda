@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKYJHN3-es Nike Downshifter 9 Zapatilla de Correr para Hombre...'
+sku: 'B07RKYJHN3-es'
 tags: [ 'zapatilla', ]
 actualPrice: 37.61 EUR
 currency: EUR

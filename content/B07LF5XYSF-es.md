@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF5XYSF-es Levi s Coit Down Puffer Chaqueta Negro Black 0003 Medium...'
+sku: 'B07LF5XYSF-es'
 tags: [ 'chaqueta', ]
 actualPrice: 79.95 EUR
 currency: EUR

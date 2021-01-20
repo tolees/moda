@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTL7ZS2-es Tommy Hilfiger Boys Basic Cn Knit L/s Camiseta Blanco...'
+sku: 'B07QTL7ZS2-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P96XYXT-es Wrangler LS Western Shirt Camisa Gris Dark Grey Mel X06...'
+sku: 'B07P96XYXT-es'
 tags: [ 'camisa', ]
 actualPrice: 20.85 EUR
 currency: EUR

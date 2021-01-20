@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCOJDGN-es Gant The Original Slim V-Neck T-Shirt Camiseta Blanco...'
+sku: 'B01NCOJDGN-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.78 EUR
 currency: EUR

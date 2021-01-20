@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHTME8K-es Under Armour UA Heatgear Short Sleeve Camiseta Hombre Azul...'
+sku: 'B00KHTME8K-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR

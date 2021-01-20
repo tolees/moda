@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FS9T97M-es Clarks Step Urban Mix Zapatos de Cordones Derby para...'
+sku: 'B07FS9T97M-es'
 tags: [ 'zapatos', ]
 actualPrice: 34.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH2WPPL-es G-STAR RAW 3301 High Waist Straight 90 s Ankle Vaqueros...'
+sku: 'B07RH2WPPL-es'
 tags: [ 'vaqueros', ]
 actualPrice: 12.33 EUR
 currency: EUR

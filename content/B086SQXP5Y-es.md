@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086SQXP5Y-es Mujer Zapatos de tacón Alto con tacón de Aguja de Boda...'
+sku: 'B086SQXP5Y-es'
 tags: [ 'zapatos', ]
 actualPrice: 25.99 EUR
 currency: EUR

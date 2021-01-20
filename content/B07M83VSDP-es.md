@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M83VSDP-es Napapijri Gardiner Camisa Casual Rojo Red Check 01c XXXL...'
+sku: 'B07M83VSDP-es'
 tags: [ 'camisa', ]
 actualPrice: 35.6 EUR
 currency: EUR

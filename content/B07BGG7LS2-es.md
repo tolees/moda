@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGG7LS2-es Gola Mujer Sandalias Deportivas Zapatillas de Senderismo...'
+sku: 'B07BGG7LS2-es'
 tags: [ 'sandalias', ]
 actualPrice: 21.89 EUR
 currency: EUR

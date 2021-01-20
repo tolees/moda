@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1ZPYVF-es Under Armour UNDKU I Will Multi Camisa Manga Corta Hombre...'
+sku: 'B07R1ZPYVF-es'
 tags: [ 'camisa', ]
 actualPrice: 15.97 EUR
 currency: EUR

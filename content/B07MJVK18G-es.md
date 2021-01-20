@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJVK18G-es Victorem Lebron James #23 Camiseta de Baloncesto para...'
+sku: 'B07MJVK18G-es'
 tags: [ 'camiseta','jersey', ]
 actualPrice: 10.57 EUR
 currency: EUR

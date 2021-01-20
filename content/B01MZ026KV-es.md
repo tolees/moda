@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ026KV-es find. 13641 vestido fiesta mujer Rojo Red 38 Talla del...'
+sku: 'B01MZ026KV-es'
 tags: [ 'vestido', ]
 actualPrice: 6.38 EUR
 currency: EUR

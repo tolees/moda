@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U3O8TII-es Pepe Jeans Kingston Zip Vaqueros Regular para Hombre Azul...'
+sku: 'B00U3O8TII-es'
 tags: [ 'vaqueros', ]
 actualPrice: 35.99 EUR
 currency: EUR

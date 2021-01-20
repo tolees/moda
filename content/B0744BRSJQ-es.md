@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0744BRSJQ-es gracosy Alpargatas Zapatos de Mujer Caminando Zapatillas...'
+sku: 'B0744BRSJQ-es'
 tags: [ 'sandalias','zapatos', ]
 actualPrice: 21.99 EUR
 currency: EUR

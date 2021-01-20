@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDZ4G4N-es Zapatillas Casa Hombre Mujer Invierno Calido Zapatillas...'
+sku: 'B07YDZ4G4N-es'
 tags: [ 'zapatilla', ]
 actualPrice: 17.88 EUR
 currency: EUR

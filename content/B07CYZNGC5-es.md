@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYZNGC5-es Levi s Mile High Super Skinny Vaqueros Black Galaxy 24W /...'
+sku: 'B07CYZNGC5-es'
 tags: [ 'vaqueros', ]
 actualPrice: 69.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLP9KX1-es Burton Brtn Sudadera Hombre True Black M'
+sku: 'B07SLP9KX1-es'
 tags: [ 'sudadera', ]
 actualPrice: 31.91 EUR
 currency: EUR

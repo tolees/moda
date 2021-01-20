@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJ3FN6Y-es Calvin Klein Zip Through HD Jacket Chaqueta Verde New...'
+sku: 'B07VJ3FN6Y-es'
 tags: [ 'chaqueta', ]
 actualPrice: 85.63 EUR
 currency: EUR

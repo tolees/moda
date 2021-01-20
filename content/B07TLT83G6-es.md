@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLT83G6-es Clarks Step Juneshell Sandalias Punta Cerrada para Mujer...'
+sku: 'B07TLT83G6-es'
 tags: [ 'sandalias', ]
 actualPrice: 42.07 EUR
 currency: EUR

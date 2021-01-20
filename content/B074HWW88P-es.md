@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074HWW88P-es Blanco Rosa Sudaderas Mujer Largas Tumblr Invierno Raya...'
+sku: 'B074HWW88P-es'
 tags: [ 'moda', ]
 actualPrice: 14.99 EUR
 currency: EUR

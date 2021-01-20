@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748PJVZN-es find. Vestido de Tirantes con Raya Ejecutiva para Mujer...'
+sku: 'B0748PJVZN-es'
 tags: [ 'vestido', ]
 actualPrice: 9 EUR
 currency: EUR

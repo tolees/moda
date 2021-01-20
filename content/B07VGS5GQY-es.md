@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGS5GQY-es Esprit 099EE1G091 Chaqueta Negro Black 001 XS para Mujer'
+sku: 'B07VGS5GQY-es'
 tags: [ 'chaqueta', ]
 actualPrice: 24.68 EUR
 currency: EUR

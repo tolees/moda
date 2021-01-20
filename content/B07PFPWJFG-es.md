@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFPWJFG-es Geox U Garret B Botas Clasicas para Hombre Marrón...'
+sku: 'B07PFPWJFG-es'
 tags: [ 'geox', ]
 actualPrice: 67.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N81U4HW-es Joma Iris Chaqueta Niños Negro 6XS'
+sku: 'B00N81U4HW-es'
 tags: [ 'chaqueta', ]
 actualPrice: 11.99 EUR
 currency: EUR

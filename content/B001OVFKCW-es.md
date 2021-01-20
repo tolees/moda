@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OVFKCW-es adidas Originals Adilette Chanclas para Hombre Azul...'
+sku: 'B001OVFKCW-es'
 tags: [ 'chanclas', ]
 actualPrice: 12.0 EUR
 currency: EUR

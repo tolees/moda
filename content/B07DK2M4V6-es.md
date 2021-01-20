@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK2M4V6-es Geox J KOMMODOR Boy A Zapatillas para Niños Blue Navy/Lime...'
+sku: 'B07DK2M4V6-es'
 tags: [ 'geox', ]
 actualPrice: 38.17 EUR
 currency: EUR

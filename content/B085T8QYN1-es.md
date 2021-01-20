@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085T8QYN1-es Gafas de Natación Profesional Anti Niebla Sin Fugas...'
+sku: 'B085T8QYN1-es'
 tags: [ 'gafas', ]
 actualPrice: 8.99 EUR
 currency: EUR

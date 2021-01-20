@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRJBJS6-es 1 Unids Silicona de Grado Alimenticio Juguetes para...'
+sku: 'B07ZRJBJS6-es'
 tags: [ 'guantes', ]
 actualPrice: 2.19 EUR
 currency: EUR

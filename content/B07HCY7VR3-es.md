@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCY7VR3-es X-TIGER Vellón Térmico Invierno MTB Ciclismo Guantes con...'
+sku: 'B07HCY7VR3-es'
 tags: [ 'guantes', ]
 actualPrice: 7.99 EUR
 currency: EUR

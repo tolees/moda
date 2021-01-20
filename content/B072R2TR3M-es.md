@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072R2TR3M-es Columbia Chaqueta Impermeable para Mujer Largo Medio...'
+sku: 'B072R2TR3M-es'
 tags: [ 'chaqueta', ]
 actualPrice: 79.68 EUR
 currency: EUR

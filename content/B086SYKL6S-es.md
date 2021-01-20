@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086SYKL6S-es Oihxse Moda Lindo Cristal Case Compatible con Samsung...'
+sku: 'B086SYKL6S-es'
 tags: [ 'moda', ]
 actualPrice: 7.98 EUR
 currency: EUR

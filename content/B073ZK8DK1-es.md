@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZK8DK1-es Napapijri Rainforest Winter Chaqueta para Hombre Azul Blu...'
+sku: 'B073ZK8DK1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 120.49 EUR
 currency: EUR

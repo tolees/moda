@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7NN7B5-es Converse Accesorios Bolso Bandolera 22 cm Azul'
+sku: 'B01N7NN7B5-es'
 tags: [ 'bolso', ]
 actualPrice: 25.9 EUR
 currency: EUR

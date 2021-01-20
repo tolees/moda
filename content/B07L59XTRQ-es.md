@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L59XTRQ-es Only & Sons Onsowen Zip Track Sweat Chaqueta Deportiva...'
+sku: 'B07L59XTRQ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 9.46 EUR
 currency: EUR

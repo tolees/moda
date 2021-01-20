@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH2N39M-es G-STAR RAW Revend Skinny Vaqueros Waxed Black Destroyed...'
+sku: 'B07RH2N39M-es'
 tags: [ 'vaqueros', ]
 actualPrice: 64.97 EUR
 currency: EUR

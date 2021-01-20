@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ2D9G7-es BILLABONG™ - Camiseta de Manga Corta - Hombre - S - Negro'
+sku: 'B07RZ2D9G7-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR

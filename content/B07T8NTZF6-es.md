@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8NTZF6-es Gafas de Sol Mujer Gafas Gafas de Sol Mujer Polarizadas...'
+sku: 'B07T8NTZF6-es'
 tags: [ 'gafas','moda', ]
 actualPrice: 9.39 EUR
 currency: EUR

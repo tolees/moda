@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF36WYC-es Levi s 511 Slim Fit Vaqueros Norse Warp Cool 3721 36W /...'
+sku: 'B07KF36WYC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 57.5 EUR
 currency: EUR

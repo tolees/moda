@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P47XYTS-es PIECES Pckaysa SL Dress Noos Vestido Rosa Peach Skin Peach...'
+sku: 'B07P47XYTS-es'
 tags: [ 'vestido', ]
 actualPrice: 16.56 EUR
 currency: EUR

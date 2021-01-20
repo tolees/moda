@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGW5WKP-es Biwat Plantillas de Zapatos con Tacón Alto T-forma...'
+sku: 'B07DGW5WKP-es'
 tags: [ 'zapatos', ]
 actualPrice: 4.86 EUR
 currency: EUR

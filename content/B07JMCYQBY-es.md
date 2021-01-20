@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMCYQBY-es Lee Emblem T Camiseta Amarillo Yellow Sign Ln X-Small para...'
+sku: 'B07JMCYQBY-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWLQFF4-es Lacoste Ch0763 Camisa Blanc 001 Medium Talla del...'
+sku: 'B07JWLQFF4-es'
 tags: [ 'camisa', ]
 actualPrice: 45.71 EUR
 currency: EUR

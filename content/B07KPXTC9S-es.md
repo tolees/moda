@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPXTC9S-es adidas Essentials Linear Tk Camiseta de Tirantes Mujer...'
+sku: 'B07KPXTC9S-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR

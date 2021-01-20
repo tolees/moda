@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077JDNM2K-es Feilan Gafas de natación Gafas para Nadar Antiempañado y...'
+sku: 'B077JDNM2K-es'
 tags: [ 'gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR

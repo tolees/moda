@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZMN6T2-es BOYOU Guantes de Ciclismo a Prueba de Viento para Hombre...'
+sku: 'B07WZMN6T2-es'
 tags: [ 'guantes', ]
 actualPrice: 15.99 EUR
 currency: EUR

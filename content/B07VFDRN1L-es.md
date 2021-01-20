@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFDRN1L-es Vero Moda Vmmalena LS Rollneck Short Dress Noos Vestido...'
+sku: 'B07VFDRN1L-es'
 tags: [ 'moda','vestido', ]
 actualPrice: 5.09 EUR
 currency: EUR

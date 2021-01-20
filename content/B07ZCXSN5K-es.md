@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCXSN5K-es Cartera Mujer Cuero Auténtico Bloqueo RFID Billetera Mujer...'
+sku: 'B07ZCXSN5K-es'
 tags: [ 'billetera','monedero', ]
 actualPrice: 11.99 EUR
 currency: EUR

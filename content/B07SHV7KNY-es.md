@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHV7KNY-es G-Star Sp10515 LS tee Camiseta de Manga Larga Marfil...'
+sku: 'B07SHV7KNY-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.93 EUR
 currency: EUR

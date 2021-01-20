@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BTRXXSY-es Porsche Design Sonnenbrille P8486 A 71 0 130 Iconic Gafas...'
+sku: 'B00BTRXXSY-es'
 tags: [ 'gafas', ]
 actualPrice: 203.27 EUR
 currency: EUR

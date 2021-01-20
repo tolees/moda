@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJHRTQS-es DoGeek Leggins Deporte Mujer para Training Running Yoga...'
+sku: 'B07RJHRTQS-es'
 tags: [ 'leggins', ]
 actualPrice: 14.99 EUR
 currency: EUR

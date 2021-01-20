@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759PHDX4-es Clarks Step Isle Lace Zapatos de Cordones Derby para...'
+sku: 'B0759PHDX4-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.48 EUR
 currency: EUR

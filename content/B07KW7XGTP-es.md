@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW7XGTP-es Marca Amazon - find. Vestido Midi Cruzado Mujer Multicolor...'
+sku: 'B07KW7XGTP-es'
 tags: [ 'vestido','-','find.', ]
 actualPrice: 9.51 EUR
 currency: EUR

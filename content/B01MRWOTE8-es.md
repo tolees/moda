@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRWOTE8-es KRISP 6252-PNK-20 Vestido Corto Patinadora Vuelo Fruncido...'
+sku: 'B01MRWOTE8-es'
 tags: [ 'vestido', ]
 actualPrice: 12.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YO73MQ4-es Under Armour Tech T Camiseta sin Mangas Mujer Negro...'
+sku: 'B00YO73MQ4-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR

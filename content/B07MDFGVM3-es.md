@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDFGVM3-es Dilwe Chaleco de Pesca Hombres Transpirable Multi-...'
+sku: 'B07MDFGVM3-es'
 tags: [ 'chaleco', ]
 actualPrice: 10.99 EUR
 currency: EUR

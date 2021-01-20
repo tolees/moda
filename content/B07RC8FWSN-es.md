@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC8FWSN-es Columbia Pike Lake Chaqueta forrada con capucha Hombre...'
+sku: 'B07RC8FWSN-es'
 tags: [ 'chaqueta', ]
 actualPrice: 79.98 EUR
 currency: EUR

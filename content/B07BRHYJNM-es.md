@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRHYJNM-es Relojes para Hombres Moda Reloj de Cuarzo Reloj de Pulsera...'
+sku: 'B07BRHYJNM-es'
 tags: [ 'moda', ]
 actualPrice: 29.99 EUR
 currency: EUR

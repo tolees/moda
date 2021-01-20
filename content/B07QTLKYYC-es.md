@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTLKYYC-es Tommy Hilfiger T Camiseta Básica de Manga Corta Azul Sky...'
+sku: 'B07QTLKYYC-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLJWYDB-es SINOES Mujer 720 Caña Baja Gimnasia Ligero Transpirable...'
+sku: 'B07VLJWYDB-es'
 tags: [ 'zapatos', ]
 actualPrice: 25.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JZHJ5-es Clarks Hamble Oak Zapatos de Cordones Derby para Mujer...'
+sku: 'B07N1JZHJ5-es'
 tags: [ 'zapatos', ]
 actualPrice: 29.87 EUR
 currency: EUR

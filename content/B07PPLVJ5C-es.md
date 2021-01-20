@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPLVJ5C-es Zapatos de Trabajo Muy cómodos para Trabajos de hostelería...'
+sku: 'B07PPLVJ5C-es'
 tags: [ 'zapatos', ]
 actualPrice: 22.98 EUR
 currency: EUR

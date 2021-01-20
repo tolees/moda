@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C7BNHPT-es Zapatillas de Estar por Casa para Niñas Niños Invierno...'
+sku: 'B08C7BNHPT-es'
 tags: [ 'zapatilla', ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGP9DKW-es Marca Amazon - find. Vestido Corto con Estampado de Rayas...'
+sku: 'B07NGP9DKW-es'
 tags: [ 'vestido','-','find.', ]
 actualPrice: 4.78 EUR
 currency: EUR

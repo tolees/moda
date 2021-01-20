@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQ56SX-es Pepe Jeans Rogery Chaqueta Brass 891 Small para Hombre'
+sku: 'B07MZQ56SX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 28.37 EUR
 currency: EUR

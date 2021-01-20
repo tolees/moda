@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGJ5MXX-es Pepe Jeans Carter Pb502479 Camiseta Chambray 564 4-5 años...'
+sku: 'B07JGJ5MXX-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.07 EUR
 currency: EUR

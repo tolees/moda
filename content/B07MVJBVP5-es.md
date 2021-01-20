@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJBVP5-es Kipling Izellah Bolso con Bandolera para Mujer Morado Dark...'
+sku: 'B07MVJBVP5-es'
 tags: [ 'bolso', ]
 actualPrice: 37.5 EUR
 currency: EUR

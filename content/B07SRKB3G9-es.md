@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRKB3G9-es Geox D Tabelya A Zapatillas para Mujer Negro Black/Gun...'
+sku: 'B07SRKB3G9-es'
 tags: [ 'geox', ]
 actualPrice: 70.63 EUR
 currency: EUR

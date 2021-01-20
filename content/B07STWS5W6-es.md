@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STWS5W6-es Roxy - Sandalias - Mujer - EU 40 - Rosa'
+sku: 'B07STWS5W6-es'
 tags: [ 'sandalias', ]
 actualPrice: 20.66 EUR
 currency: EUR

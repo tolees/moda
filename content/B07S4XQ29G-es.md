@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4XQ29G-es Asics Classic CT Zapatos de Baloncesto para Hombre Blanco...'
+sku: 'B07S4XQ29G-es'
 tags: [ 'zapatos', ]
 actualPrice: 60.22 EUR
 currency: EUR

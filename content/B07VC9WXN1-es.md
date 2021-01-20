@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9WXN1-es JACK & JONES Jorhardy Light Puffer Chaqueta Rojo Scarlet...'
+sku: 'B07VC9WXN1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 19.26 EUR
 currency: EUR

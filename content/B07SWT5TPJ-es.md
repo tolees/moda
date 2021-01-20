@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT5TPJ-es Geox J Rebecca Girl B Zapatillas para Niñas Blanco...'
+sku: 'B07SWT5TPJ-es'
 tags: [ 'geox', ]
 actualPrice: 39.92 EUR
 currency: EUR

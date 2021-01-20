@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBB7ZPP-es Crocs Baya Zuecos Unisex Adulto Verde Grass Green 3e8...'
+sku: 'B07SBB7ZPP-es'
 tags: [ 'zuecos', ]
 actualPrice: 23.95 EUR
 currency: EUR

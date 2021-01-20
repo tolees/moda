@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ4XKL3-es Springfield 4.FQ. Slim Fit Camisa Multicolor Multicolor 15...'
+sku: 'B07NJ4XKL3-es'
 tags: [ 'camisa', ]
 actualPrice: 6.5 EUR
 currency: EUR

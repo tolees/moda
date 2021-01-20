@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXYR23P-es SALOMON Blend Logo SS tee M Camiseta Deportiva de Manga...'
+sku: 'B07MXYR23P-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.0 EUR
 currency: EUR

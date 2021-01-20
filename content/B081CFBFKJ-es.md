@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CFBFKJ-es Geographical Norway Chaqueta NIÑA BOOMERA Rosa Llamativo 14'
+sku: 'B081CFBFKJ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 59.0 EUR
 currency: EUR

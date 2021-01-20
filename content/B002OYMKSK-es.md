@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002OYMKSK-es Lacoste L1212 Camiseta Polo Azul Ruisseau 2XL Talla del...'
+sku: 'B002OYMKSK-es'
 tags: [ 'camiseta', ]
 actualPrice: 46.99 EUR
 currency: EUR

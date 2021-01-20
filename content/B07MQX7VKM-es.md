@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQX7VKM-es GANT D1. TP BC Micro Print Reg Hbd Camisa Azul Marine 410...'
+sku: 'B07MQX7VKM-es'
 tags: [ 'camisa', ]
 actualPrice: 44.7 EUR
 currency: EUR

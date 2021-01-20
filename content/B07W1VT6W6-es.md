@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1VT6W6-es Tommy Hilfiger TJM Corp Logo tee Camiseta Deporte Blanco...'
+sku: 'B07W1VT6W6-es'
 tags: [ 'camiseta', ]
 actualPrice: 21.99 EUR
 currency: EUR

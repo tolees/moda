@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2HBM3G-es Amazon Essentials - Camiseta de protección solar con manga...'
+sku: 'B07K2HBM3G-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.8 EUR
 currency: EUR

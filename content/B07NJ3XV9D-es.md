@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ3XV9D-es Springfield 2.T. Print Vestido Negro Negro 1 Medium Tamaño...'
+sku: 'B07NJ3XV9D-es'
 tags: [ 'vestido', ]
 actualPrice: 7.45 EUR
 currency: EUR

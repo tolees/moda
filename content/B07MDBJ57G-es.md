@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDBJ57G-es G-STAR RAW Revend Skinny Vaqueros Medium Aged Ripped...'
+sku: 'B07MDBJ57G-es'
 tags: [ 'vaqueros', ]
 actualPrice: 37.22 EUR
 currency: EUR

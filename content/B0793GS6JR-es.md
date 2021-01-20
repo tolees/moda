@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793GS6JR-es Clarks Un Aldric Lace Zapatos de Cordones Derby para...'
+sku: 'B0793GS6JR-es'
 tags: [ 'zapatos', ]
 actualPrice: 30.01 EUR
 currency: EUR

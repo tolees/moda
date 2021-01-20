@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG1V33H-es Geox J INEK Boy E Zapatillas Altas para Niños Negro...'
+sku: 'B07LG1V33H-es'
 tags: [ 'geox', ]
 actualPrice: 23.34 EUR
 currency: EUR

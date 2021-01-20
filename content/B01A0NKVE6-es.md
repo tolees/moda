@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A0NKVE6-es Under Armour Coldgear Armour Mock Camiseta De Manga Larga...'
+sku: 'B01A0NKVE6-es'
 tags: [ 'camiseta', ]
 actualPrice: 41.25 EUR
 currency: EUR

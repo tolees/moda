@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVJ51T-es Napapijri BOVES C Sudadera Gris Med Grey Mel 160 L para...'
+sku: 'B07MQVJ51T-es'
 tags: [ 'sudadera', ]
 actualPrice: 35.6 EUR
 currency: EUR

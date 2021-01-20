@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTL5V7Q-es Lee Scarlett Cropped Vaqueros Skinny Gris Concrete Grey Cm...'
+sku: 'B07FTL5V7Q-es'
 tags: [ 'vaqueros', ]
 actualPrice: 22.89 EUR
 currency: EUR

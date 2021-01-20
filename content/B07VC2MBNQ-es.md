@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC2MBNQ-es JACK & JONES Jcovally tee SS Crew Neck Camiseta Blanco...'
+sku: 'B07VC2MBNQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.77 EUR
 currency: EUR

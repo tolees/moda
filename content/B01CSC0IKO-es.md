@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CSC0IKO-es LEABAGS Illinois Monedero de auténtico Cuero Ternero en el...'
+sku: 'B01CSC0IKO-es'
 tags: [ 'monedero', ]
 actualPrice: 29.98 EUR
 currency: EUR

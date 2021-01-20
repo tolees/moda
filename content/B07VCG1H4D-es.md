@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCG1H4D-es Desigual TS varsovia Camiseta Azul Estate Blue 5016 Medium...'
+sku: 'B07VCG1H4D-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.95 EUR
 currency: EUR

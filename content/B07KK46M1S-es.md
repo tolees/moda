@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK46M1S-es Columbia Redmond V2 Zapatos de Senderismo Impermeables...'
+sku: 'B07KK46M1S-es'
 tags: [ 'zapatos', ]
 actualPrice: 57.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2KTT24-es Gifort 53Pcs Ganchillos Crochet Ergonómicos Agujas de...'
+sku: 'B07C2KTT24-es'
 tags: [ 'bolso', ]
 actualPrice: 10.39 EUR
 currency: EUR

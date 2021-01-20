@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHCGJYK-es Columbia REDMOND V2 Zapatos de senderismo impermeables...'
+sku: 'B07JHCGJYK-es'
 tags: [ 'zapatos', ]
 actualPrice: 57.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWVK278-es PUMA Cup Casuals tee Camiseta Hombre Blanco Whisper White...'
+sku: 'B07JWVK278-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.49 EUR
 currency: EUR

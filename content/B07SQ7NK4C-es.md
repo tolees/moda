@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ7NK4C-es Zapatillas de Hombre - Zapatos Casuales de Paseo Moda...'
+sku: 'B07SQ7NK4C-es'
 tags: [ 'moda','zapatos', ]
 actualPrice: 25.66 EUR
 currency: EUR

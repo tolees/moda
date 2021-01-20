@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LU7MJZQ-es Helly Hansen Crew Chaqueta Hombre Negro Black L'
+sku: 'B00LU7MJZQ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 68.0 EUR
 currency: EUR

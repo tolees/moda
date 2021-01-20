@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZY3Q39-es Wrangler Logo tee Camiseta Negro Real Black XW5 XXXX-Large...'
+sku: 'B07TZY3Q39-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.99 EUR
 currency: EUR

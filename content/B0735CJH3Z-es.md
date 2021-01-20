@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0735CJH3Z-es Napapijri Rainforest Winter Chaqueta para Hombre Gris Dark...'
+sku: 'B0735CJH3Z-es'
 tags: [ 'chaqueta', ]
 actualPrice: 89.95 EUR
 currency: EUR

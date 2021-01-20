@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVGPN7F-es Geographical Norway Sudadera Mujer GYMCLASS B Azul Cielo S'
+sku: 'B07XVGPN7F-es'
 tags: [ 'sudadera', ]
 actualPrice: 30.0 EUR
 currency: EUR

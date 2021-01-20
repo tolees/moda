@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFKX3PP-es Crocs LiteRide Flip Chanclas Unisex Adulto Multicolor...'
+sku: 'B07DFKX3PP-es'
 tags: [ 'chanclas', ]
 actualPrice: 19.99 EUR
 currency: EUR

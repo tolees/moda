@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MX6N62B-es A+ Trainer Collar Antiladridos Perro – Collar...'
+sku: 'B07MX6N62B-es'
 tags: [ 'collar', ]
 actualPrice: 26.99 EUR
 currency: EUR

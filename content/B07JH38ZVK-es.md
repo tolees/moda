@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH38ZVK-es Pepe Jeans William Pm305904 Camisa Indigo 561 Medium para...'
+sku: 'B07JH38ZVK-es'
 tags: [ 'camisa', ]
 actualPrice: 40.0 EUR
 currency: EUR

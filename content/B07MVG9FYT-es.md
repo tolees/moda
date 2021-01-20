@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVG9FYT-es Gant D1. The Light Down Jacket Chaqueta Azul Marine 410...'
+sku: 'B07MVG9FYT-es'
 tags: [ 'chaqueta', ]
 actualPrice: 140.24 EUR
 currency: EUR

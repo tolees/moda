@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015HWBRRK-es Hollywood Star Fashion - Camiseta de Manga Larga con...'
+sku: 'B015HWBRRK-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.99 EUR
 currency: EUR

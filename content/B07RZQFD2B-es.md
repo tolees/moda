@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZQFD2B-es Lacoste SH8654 - Sudadera Deportiva para Hombre Corte...'
+sku: 'B07RZQFD2B-es'
 tags: [ 'sudadera', ]
 actualPrice: 62.87 EUR
 currency: EUR

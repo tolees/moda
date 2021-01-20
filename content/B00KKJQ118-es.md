@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KKJQ118-es James & Nicholson Children s - Sudadera infantil Azul Sky...'
+sku: 'B00KKJQ118-es'
 tags: [ 'sudadera', ]
 actualPrice: 7.93 EUR
 currency: EUR

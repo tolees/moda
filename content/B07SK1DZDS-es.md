@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK1DZDS-es ACVIP - Correa de hombro ancha ajustable a rayas para...'
+sku: 'B07SK1DZDS-es'
 tags: [ 'bolso', ]
 actualPrice: 9.92 EUR
 currency: EUR

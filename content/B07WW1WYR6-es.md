@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WW1WYR6-es Charles Wilson Originals Sudadera Algodón Ligera Capucha...'
+sku: 'B07WW1WYR6-es'
 tags: [ 'sudadera', ]
 actualPrice: 18.95 EUR
 currency: EUR

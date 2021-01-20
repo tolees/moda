@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QC7Y4X6-es PUMA Reactive Chaqueta de Entrenamiento Hombre Negro...'
+sku: 'B07QC7Y4X6-es'
 tags: [ 'chaqueta', ]
 actualPrice: 17.67 EUR
 currency: EUR

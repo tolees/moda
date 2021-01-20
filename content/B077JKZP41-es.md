@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077JKZP41-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
+sku: 'B077JKZP41-es'
 tags: [ 'zapatos', ]
 actualPrice: 30.99 EUR
 currency: EUR

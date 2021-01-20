@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ERPHA9C-es Joma SHT.S0M01 - Falda de tenis para mujer color Verde...'
+sku: 'B01ERPHA9C-es'
 tags: [ 'falda', ]
 actualPrice: 13.99 EUR
 currency: EUR

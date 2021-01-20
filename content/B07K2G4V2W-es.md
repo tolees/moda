@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2G4V2W-es Timberland 6 Inch Premium Waterproof Botas para Mujer Rojo...'
+sku: 'B07K2G4V2W-es'
 tags: [ 'timberland', ]
 actualPrice: 58.38 EUR
 currency: EUR

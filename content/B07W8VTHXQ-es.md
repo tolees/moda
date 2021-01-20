@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8VTHXQ-es Tommy Hilfiger Structured Slim Polo Camiseta Deporte Rojo...'
+sku: 'B07W8VTHXQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 34.96 EUR
 currency: EUR

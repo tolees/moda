@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMY8MK3-es Timberland Davis Square Leather Oxford Zapatillas Unisex-...'
+sku: 'B07JMY8MK3-es'
 tags: [ 'timberland', ]
 actualPrice: 27.99 EUR
 currency: EUR

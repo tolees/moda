@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGE85S-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
+sku: 'B015SGE85S-es'
 tags: [ 'chanclas', ]
 actualPrice: 17.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JWJLN-es Clarks Adriel Mae Botines para Mujer Negro Black Leather...'
+sku: 'B07N1JWJLN-es'
 tags: [ 'botines', ]
 actualPrice: 66.47 EUR
 currency: EUR

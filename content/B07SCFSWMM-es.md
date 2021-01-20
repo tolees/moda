@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCFSWMM-es Crocs Classic II Flip Chanclas Unisex Adulto Negro Black...'
+sku: 'B07SCFSWMM-es'
 tags: [ 'chanclas', ]
 actualPrice: 14.22 EUR
 currency: EUR

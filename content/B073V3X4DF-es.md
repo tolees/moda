@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073V3X4DF-es Jack & Jones Jjiglenn Jjfelix Am 046 50 SPS Noos Vaqueros...'
+sku: 'B073V3X4DF-es'
 tags: [ 'vaqueros', ]
 actualPrice: 38.99 EUR
 currency: EUR

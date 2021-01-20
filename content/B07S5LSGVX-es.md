@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5LSGVX-es BOSS T-Shirt RN Camiseta Azul Bright Blue 436 Large para...'
+sku: 'B07S5LSGVX-es'
 tags: [ 'camiseta', ]
 actualPrice: 21.84 EUR
 currency: EUR

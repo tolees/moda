@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8FV4ML-es Gioseppo DEINZE Sandalias de Gladiador para Niñas Morado...'
+sku: 'B07Y8FV4ML-es'
 tags: [ 'sandalias', ]
 actualPrice: 10.43 EUR
 currency: EUR

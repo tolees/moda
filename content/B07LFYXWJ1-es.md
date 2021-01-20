@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYXWJ1-es Geox U Devan B Mocasines para Hombre Marrón Browncotto...'
+sku: 'B07LFYXWJ1-es'
 tags: [ 'geox', ]
 actualPrice: 35.95 EUR
 currency: EUR

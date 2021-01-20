@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSL1B4W-es Geox D BACKSIE B ABX C Botas de Nieve para Mujer Beige...'
+sku: 'B07MSL1B4W-es'
 tags: [ 'geox', ]
 actualPrice: 25.39 EUR
 currency: EUR

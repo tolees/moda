@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8X76RY-es G-STAR RAW 3301 Slim Vaqueros Ultra Dk Aged 8968-9112 26W...'
+sku: 'B07K8X76RY-es'
 tags: [ 'vaqueros', ]
 actualPrice: 84.99 EUR
 currency: EUR

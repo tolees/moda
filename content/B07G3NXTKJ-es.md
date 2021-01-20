@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3NXTKJ-es SELECTED HOMME Slhslimnew-Mark Shirt LS B Noos Camisa...'
+sku: 'B07G3NXTKJ-es'
 tags: [ 'camisa', ]
 actualPrice: 17.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPXW6F-es Geox D Vega A Zapatillas para Mujer Blanco Off White and...'
+sku: 'B07SVPXW6F-es'
 tags: [ 'geox', ]
 actualPrice: 83.93 EUR
 currency: EUR

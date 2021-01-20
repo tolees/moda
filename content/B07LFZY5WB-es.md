@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZY5WB-es Geox D Myria A Zapatillas para Mujer Beige Champagne/Off...'
+sku: 'B07LFZY5WB-es'
 tags: [ 'geox', ]
 actualPrice: 25.94 EUR
 currency: EUR

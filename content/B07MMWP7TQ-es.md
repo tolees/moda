@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWP7TQ-es Wrangler Graphic Logo tee Camiseta Blanco Antique White...'
+sku: 'B07MMWP7TQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNV9FLV-es Under Armour Erwachsene Core Remix Dusch-& Badeschuhe...'
+sku: 'B07NNV9FLV-es'
 tags: [ 'zapatos', ]
 actualPrice: 13.95 EUR
 currency: EUR

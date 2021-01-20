@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XNVS6L-es Under Armour UA Baseline Coaches Chaqueta Hombre...'
+sku: 'B077XNVS6L-es'
 tags: [ 'chaqueta', ]
 actualPrice: 19.44 EUR
 currency: EUR

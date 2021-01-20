@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S23DMN1-es Y.A.S YAS Yaschadro Wool Coat Abrigo Verde Beech Beech 40...'
+sku: 'B07S23DMN1-es'
 tags: [ 'abrigo', ]
 actualPrice: 52.19 EUR
 currency: EUR

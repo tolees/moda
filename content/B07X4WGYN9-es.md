@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X4WGYN9-es JACK & JONES Jorexplore Parka Jacket STS Abrigos Hombre...'
+sku: 'B07X4WGYN9-es'
 tags: [ 'parka', ]
 actualPrice: 55.77 EUR
 currency: EUR

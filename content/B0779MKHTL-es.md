@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779MKHTL-es Timberland Newport Bay 2 Eye Mocasines para Hombre Verde...'
+sku: 'B0779MKHTL-es'
 tags: [ 'timberland', ]
 actualPrice: 32.99 EUR
 currency: EUR

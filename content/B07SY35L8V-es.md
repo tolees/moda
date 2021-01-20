@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SY35L8V-es Quiksilver Molokai Vacancy Zapatos de Playa y Piscina para...'
+sku: 'B07SY35L8V-es'
 tags: [ 'zapatos', ]
 actualPrice: 10.49 EUR
 currency: EUR

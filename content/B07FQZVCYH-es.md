@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQZVCYH-es Ternua Corno Pants Pantalón Hombre Negro Black M'
+sku: 'B07FQZVCYH-es'
 tags: [ 'pantalón', ]
 actualPrice: 63.11 EUR
 currency: EUR

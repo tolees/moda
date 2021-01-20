@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1RP14P-es adidas Estro 19 JSY Camiseta de Manga Corta Niños Black L'
+sku: 'B07K1RP14P-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.99 EUR
 currency: EUR

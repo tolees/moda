@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CO4APA0-es Cressi Ninja Floating - Gafas Flotantes Polarizadas para...'
+sku: 'B00CO4APA0-es'
 tags: [ 'gafas', ]
 actualPrice: 18.49 EUR
 currency: EUR

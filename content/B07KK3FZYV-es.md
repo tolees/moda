@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK3FZYV-es Columbia Peakfreak X2 Mid Outdry Zapatos de Senderismo...'
+sku: 'B07KK3FZYV-es'
 tags: [ 'zapatos', ]
 actualPrice: 39.18 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3VZRT9-es Desigual T-Shirt Andora Camiseta Rojo Rojo Oscuro 3029 M...'
+sku: 'B07N3VZRT9-es'
 tags: [ 'camiseta', ]
 actualPrice: 22.79 EUR
 currency: EUR

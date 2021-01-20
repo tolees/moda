@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGRZKXV-es JACK & JONES Jprsander Detail Shirt L/s Pre Camisa Azul...'
+sku: 'B07VGRZKXV-es'
 tags: [ 'camisa', ]
 actualPrice: 20.83 EUR
 currency: EUR

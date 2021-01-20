@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HX9T9PV-es H&E - Abrigo de plumas con capucha para niña Niñas color...'
+sku: 'B07HX9T9PV-es'
 tags: [ 'abrigo', ]
 actualPrice: 29.68 EUR
 currency: EUR

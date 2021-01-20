@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QY38GBB-es Under Armour Storm Full Zip Chaqueta Hombre Negro XL'
+sku: 'B07QY38GBB-es'
 tags: [ 'chaqueta', ]
 actualPrice: 52.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNSVBMQ-es find. Hurrache Sandalias con Punta Cerrada Beige Natural...'
+sku: 'B07YNSVBMQ-es'
 tags: [ 'sandalias', ]
 actualPrice: 8.68 EUR
 currency: EUR

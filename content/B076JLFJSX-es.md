@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JLFJSX-es Crocs LiteRide Flip Chanclas Unisex Adulto Negro...'
+sku: 'B076JLFJSX-es'
 tags: [ 'chanclas', ]
 actualPrice: 12.67 EUR
 currency: EUR

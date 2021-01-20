@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0F9DCM-es ESPRIT Bodywear 996EF1A973 Parte de arriba de bikini Mujer...'
+sku: 'B01M0F9DCM-es'
 tags: [ 'bikini', ]
 actualPrice: 20.84 EUR
 currency: EUR

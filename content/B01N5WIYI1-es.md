@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5WIYI1-es JACK & JONES Jorhero tee SS Crew Neck Camiseta Rosa Peach...'
+sku: 'B01N5WIYI1-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CD1TTVQ-es Skechers DELSON-Antigo 65693 Zapatos de Cordones Oxford...'
+sku: 'B07CD1TTVQ-es'
 tags: [ 'zapatos', ]
 actualPrice: 48.9 EUR
 currency: EUR

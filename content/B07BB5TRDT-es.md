@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB5TRDT-es The North Face M Jacket Chaqueta Sangro Hombre Azul Kodiak...'
+sku: 'B07BB5TRDT-es'
 tags: [ 'chaqueta', ]
 actualPrice: 81.41 EUR
 currency: EUR

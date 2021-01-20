@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVNRTQ2-es Only Onlnew Carle L/S Pullover CC Knt Jersey Multicolor...'
+sku: 'B07TVNRTQ2-es'
 tags: [ 'jersey', ]
 actualPrice: 6.95 EUR
 currency: EUR

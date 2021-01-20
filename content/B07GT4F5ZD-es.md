@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT4F5ZD-es Alomejor Chaleco Reflectante De Noche Chaleco Reflectante...'
+sku: 'B07GT4F5ZD-es'
 tags: [ 'chaleco', ]
 actualPrice: 5.69 EUR
 currency: EUR

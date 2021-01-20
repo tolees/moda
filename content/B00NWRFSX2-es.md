@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NWRFSX2-es Nina Brautmoden - Vestido de novia - trapecio - Manga...'
+sku: 'B00NWRFSX2-es'
 tags: [ 'vestido', ]
 actualPrice: 23.5 EUR
 currency: EUR

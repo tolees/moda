@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYY7UB3-es G-Star Eyben Slim R T Wmn S/s Camiseta Azul Sartho Blue...'
+sku: 'B01MYY7UB3-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR

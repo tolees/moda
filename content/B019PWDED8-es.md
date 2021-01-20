@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019PWDED8-es Diesel CREW NECK ESSENTIAL Camiseta para Hombre Negro...'
+sku: 'B019PWDED8-es'
 tags: [ 'camiseta', ]
 actualPrice: 27.95 EUR
 currency: EUR

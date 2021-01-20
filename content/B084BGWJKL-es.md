@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084BGWJKL-es Levi s SS Original Hm tee Camiseta Charcoal Heather XX L...'
+sku: 'B084BGWJKL-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N8YU9W1-es Geox U Wells C Zapatillas para Hombre Azul Navy C4064 40 EU'
+sku: 'B01N8YU9W1-es'
 tags: [ 'geox', ]
 actualPrice: 52.91 EUR
 currency: EUR

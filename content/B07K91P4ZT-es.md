@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K91P4ZT-es Crocs Classic Clog Zuecos Unisex Adulto Verde Dusty Green...'
+sku: 'B07K91P4ZT-es'
 tags: [ 'zuecos', ]
 actualPrice: 27.99 EUR
 currency: EUR

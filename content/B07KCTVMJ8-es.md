@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCTVMJ8-es adidas T19 SS JSY M Camiseta de Manga Corta Hombre Power...'
+sku: 'B07KCTVMJ8-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N561AGO-es Pepe Jeans Regent Vaqueros Negro Denim H96 33W / 32L para...'
+sku: 'B01N561AGO-es'
 tags: [ 'vaqueros', ]
 actualPrice: 47.5 EUR
 currency: EUR

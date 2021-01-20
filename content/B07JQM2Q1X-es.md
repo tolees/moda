@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQM2Q1X-es Under Armour Field Player s Glove 2.0 Guantes Hombre Negro...'
+sku: 'B07JQM2Q1X-es'
 tags: [ 'guantes', ]
 actualPrice: 15.73 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084L7Q5BX-es Spiuk Sportline Zapatilla MTB ALDAPA Adultos Unisex...'
+sku: 'B084L7Q5BX-es'
 tags: [ 'zapatilla', ]
 actualPrice: 99.99 EUR
 currency: EUR

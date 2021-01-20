@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQWF4X6-es Clarks Edward Walk Zapatos de Cordones Derby para Hombre...'
+sku: 'B07FQWF4X6-es'
 tags: [ 'zapatos', ]
 actualPrice: 34.64 EUR
 currency: EUR

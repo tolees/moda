@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ382LJ-es Geox D Myria B Zapatillas para Mujer Black C9999 41 EU'
+sku: 'B07DJ382LJ-es'
 tags: [ 'geox', ]
 actualPrice: 46.94 EUR
 currency: EUR

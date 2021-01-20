@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCGJW7C-es Columbia Marquam Peak Chaqueta Hombre Marrón Camel Brown M'
+sku: 'B07RCGJW7C-es'
 tags: [ 'chaqueta', ]
 actualPrice: 102.95 EUR
 currency: EUR

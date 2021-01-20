@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYFNZRP-es Levi s Graphic Set-in Neck Camiseta para Hombre Blanco...'
+sku: 'B07CYFNZRP-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.5 EUR
 currency: EUR

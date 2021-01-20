@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086X3HMLJ-es 5 Piezas Bebé Body Mono de Manga Corta Mameluco Algodón...'
+sku: 'B086X3HMLJ-es'
 tags: [ 'pijama', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYGG4DY-es PIXNOR 4pcs mujeres flor pelo banda trenzado anudado Yoga...'
+sku: 'B06XYGG4DY-es'
 tags: [ 'abrigo', ]
 actualPrice: 4.19 EUR
 currency: EUR

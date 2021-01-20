@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W9G8PD2-es adidas Adilette Shower Chanclas Hombre Blanco Footwear...'
+sku: 'B06W9G8PD2-es'
 tags: [ 'chanclas', ]
 actualPrice: 19.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072ND8YJM-es JACK & JONES Jprnon Iron Shirt L/s Noos Camisa Azul Navy...'
+sku: 'B072ND8YJM-es'
 tags: [ 'camisa', ]
 actualPrice: 22.49 EUR
 currency: EUR

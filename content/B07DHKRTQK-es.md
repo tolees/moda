@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHKRTQK-es GRAT.UNIC Pantalón Corto Deportivo para Mujer Running...'
+sku: 'B07DHKRTQK-es'
 tags: [ 'pantalón', ]
 actualPrice: 16.99 EUR
 currency: EUR

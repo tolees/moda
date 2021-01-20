@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KMDHFS4-es oodji Collection Mujer Camiseta Básica de Algodón Verde ES...'
+sku: 'B01KMDHFS4-es'
 tags: [ 'camiseta', ]
 actualPrice: 1.9 EUR
 currency: EUR

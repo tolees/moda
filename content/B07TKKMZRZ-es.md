@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKKMZRZ-es Levi s HR Decon Iconic BF Skirt Falda Azul High Plains...'
+sku: 'B07TKKMZRZ-es'
 tags: [ 'falda', ]
 actualPrice: 23.99 EUR
 currency: EUR

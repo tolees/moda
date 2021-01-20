@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6VWK8S-es Camiseta Deportiva de Tirantes para Hombre Sin Manga Slim...'
+sku: 'B07V6VWK8S-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC6ZQK6-es NJunicorn Uncle Borderlands Cosplay - Sudadera con capucha...'
+sku: 'B07VC6ZQK6-es'
 tags: [ 'sudadera', ]
 actualPrice: 28.42 EUR
 currency: EUR

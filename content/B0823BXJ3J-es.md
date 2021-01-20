@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0823BXJ3J-es Jack & Jones Kapuzenpullover Sudadera con Capucha Negro M...'
+sku: 'B0823BXJ3J-es'
 tags: [ 'sudadera', ]
 actualPrice: 12.07 EUR
 currency: EUR

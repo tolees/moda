@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKQT5WV-es Battle Royale Camiseta para niño Gaming Negro 13-14 Años'
+sku: 'B07FKQT5WV-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.95 EUR
 currency: EUR

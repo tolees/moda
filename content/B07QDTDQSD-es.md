@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDTDQSD-es Unisun Gafas de natación Niños Adultos Gafas de natación...'
+sku: 'B07QDTDQSD-es'
 tags: [ 'gafas', ]
 actualPrice: 7.94 EUR
 currency: EUR

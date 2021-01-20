@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPRHP84-es Stenso Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de...'
+sku: 'B07NPRHP84-es'
 tags: [ 'chaleco','chaqueta', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TB4PT9S-es Vero Moda Vmnoramille 3/4 Wool Jacket Abrigo Rojo Birch 44...'
+sku: 'B07TB4PT9S-es'
 tags: [ 'abrigo','moda', ]
 actualPrice: 35.99 EUR
 currency: EUR

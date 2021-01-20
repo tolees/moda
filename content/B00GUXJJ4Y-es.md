@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GUXJJ4Y-es Columbia Peakfreak Nomad Chukka WP Omni-Heat Zapatos...'
+sku: 'B00GUXJJ4Y-es'
 tags: [ 'zapatos', ]
 actualPrice: 63.99 EUR
 currency: EUR

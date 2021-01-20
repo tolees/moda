@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZCLWCG-es G-STAR RAW ARC 2.0 3D Mid Boyfriend Jeans Vaqueros Azul lt...'
+sku: 'B07CZCLWCG-es'
 tags: [ 'vaqueros', ]
 actualPrice: 16.89 EUR
 currency: EUR

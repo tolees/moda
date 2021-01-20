@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGC8N54-es DCalderoni Moncayo Zapatos Piel Negros De Vestir con...'
+sku: 'B07KGC8N54-es'
 tags: [ 'zapatos', ]
 actualPrice: 69.0 EUR
 currency: EUR

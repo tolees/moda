@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJXXDQ7-es AmzBarley Princesa Disfraz Traje Vestido Niña Dress...'
+sku: 'B07BJXXDQ7-es'
 tags: [ 'vestido', ]
 actualPrice: 29.99 EUR
 currency: EUR

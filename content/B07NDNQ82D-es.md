@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNQ82D-es G-STAR RAW Scutar Utility Padded Abrigo Gris Dk Black 6484...'
+sku: 'B07NDNQ82D-es'
 tags: [ 'abrigo', ]
 actualPrice: 29.61 EUR
 currency: EUR

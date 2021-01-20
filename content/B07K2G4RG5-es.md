@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2G4RG5-es Timberland Euro Sprint Hiker Waterproof Zapatillas Chukka...'
+sku: 'B07K2G4RG5-es'
 tags: [ 'timberland', ]
 actualPrice: 99 EUR
 currency: EUR

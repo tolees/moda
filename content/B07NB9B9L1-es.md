@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NB9B9L1-es Esprit 049ee1k034 Camiseta Blanco Off White 110 Small para...'
+sku: 'B07NB9B9L1-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.01 EUR
 currency: EUR

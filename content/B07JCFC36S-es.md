@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCFC36S-es Columbia Carson Pass II Chaqueta Impermeable Mujer Verde...'
+sku: 'B07JCFC36S-es'
 tags: [ 'chaqueta', ]
 actualPrice: 107.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCZPKW2-es Crocs Literide Stretch Sandal Women Sandalias de Punta...'
+sku: 'B07SCZPKW2-es'
 tags: [ 'sandalias', ]
 actualPrice: 17.42 EUR
 currency: EUR

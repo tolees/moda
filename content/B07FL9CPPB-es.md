@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL9CPPB-es Superdry Echo Beach Cagoule Chaqueta deportiva Negro Black...'
+sku: 'B07FL9CPPB-es'
 tags: [ 'chaqueta', ]
 actualPrice: 21.76 EUR
 currency: EUR

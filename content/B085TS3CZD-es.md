@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TS3CZD-es DOUBLE M Calzoncillos Boxer Ropa Interior De Algodón...'
+sku: 'B085TS3CZD-es'
 tags: [ 'boxer', ]
 actualPrice: 23.99 EUR
 currency: EUR

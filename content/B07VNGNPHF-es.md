@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNGNPHF-es Fossil Collar para Hombre JF03175040'
+sku: 'B07VNGNPHF-es'
 tags: [ 'collar', ]
 actualPrice: 29.0 EUR
 currency: EUR

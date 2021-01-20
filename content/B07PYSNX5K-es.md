@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYSNX5K-es Marca Amazon - find. Statement Fairisle Jumper Suéter...'
+sku: 'B07PYSNX5K-es'
 tags: [ '-','find.', ]
 actualPrice: 19.63 EUR
 currency: EUR

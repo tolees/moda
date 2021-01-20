@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TZAB2SK-es uhlsport Stream 3.0 Ml Camiseta De Juego Manga Larga...'
+sku: 'B00TZAB2SK-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.99 EUR
 currency: EUR

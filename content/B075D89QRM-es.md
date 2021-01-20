@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075D89QRM-es INBIKE Guantes Calientes De Ciclismo De Invierno Guantes...'
+sku: 'B075D89QRM-es'
 tags: [ 'guantes', ]
 actualPrice: 19.99 EUR
 currency: EUR

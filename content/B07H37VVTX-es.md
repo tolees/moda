@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H37VVTX-es Pastaza Hombre Mujer Botas de Nieve Senderismo...'
+sku: 'B07H37VVTX-es'
 tags: [ 'zapatos', ]
 actualPrice: 26.83 EUR
 currency: EUR

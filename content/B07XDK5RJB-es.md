@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDK5RJB-es coskefy Guantes Moto Invierno Guantes Esquí Impermeable...'
+sku: 'B07XDK5RJB-es'
 tags: [ 'guantes', ]
 actualPrice: 19.99 EUR
 currency: EUR

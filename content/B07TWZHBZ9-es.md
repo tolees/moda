@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWZHBZ9-es Axcone Zapatillas Hombres Mujer Deporte Running Zapatos...'
+sku: 'B07TWZHBZ9-es'
 tags: [ 'zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR

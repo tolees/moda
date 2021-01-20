@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KLRTJS-es Puma Liga CR H Camiseta de Manga Corta Hombre Verde Pepper...'
+sku: 'B079KLRTJS-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.49 EUR
 currency: EUR

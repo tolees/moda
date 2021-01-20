@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831FMG3T-es Gafas de Presbicia con Visión Ultra Nítida Especiales para...'
+sku: 'B0831FMG3T-es'
 tags: [ 'gafas', ]
 actualPrice: 19.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSNGC67-es Clarks Mena Blossom Zapatos de Tacón para Mujer Plateado...'
+sku: 'B07FSNGC67-es'
 tags: [ 'zapatos', ]
 actualPrice: 44.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCCNK83-es Pañal Bolso Mochila Gran Capacidad Mochila de Pañales...'
+sku: 'B07FCCNK83-es'
 tags: [ 'bolso', ]
 actualPrice: 31.99 EUR
 currency: EUR

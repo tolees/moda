@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLN86C-es Napapijri BIBU H Sudadera con Capucha Verde Green Forest 2...'
+sku: 'B07MMLN86C-es'
 tags: [ 'sudadera', ]
 actualPrice: 39.6 EUR
 currency: EUR

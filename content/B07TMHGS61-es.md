@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMHGS61-es Levi s Graphic Po Hoodie- B Sudadera Azul Hm Ssnl Tonal...'
+sku: 'B07TMHGS61-es'
 tags: [ 'sudadera', ]
 actualPrice: 37.39 EUR
 currency: EUR

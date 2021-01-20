@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDC4NDW-es Nike Dri-FIT Academy Dril Top Camiseta de Manga Larga...'
+sku: 'B07GDC4NDW-es'
 tags: [ 'camiseta', ]
 actualPrice: 27.95 EUR
 currency: EUR

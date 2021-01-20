@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLQ5LV-es Geox U Nebula C Zapatillas para Hombre Gris Lt Grey C1010...'
+sku: 'B07STLQ5LV-es'
 tags: [ 'geox', ]
 actualPrice: 46.85 EUR
 currency: EUR

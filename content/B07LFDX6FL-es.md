@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDX6FL-es Levi s 514 Vaqueros Straight Azul Ivy ADV 1209 W30/L30...'
+sku: 'B07LFDX6FL-es'
 tags: [ 'vaqueros', ]
 actualPrice: 73.38 EUR
 currency: EUR

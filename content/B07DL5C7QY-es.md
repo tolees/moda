@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL5C7QY-es J.Rosée Mujer Colgante Collar Plata de Ley 925 Brillante...'
+sku: 'B07DL5C7QY-es'
 tags: [ 'collar', ]
 actualPrice: 13.99 EUR
 currency: EUR

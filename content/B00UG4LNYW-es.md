@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UG4LNYW-es Charles Wilson Camiseta Polo Clásica Lisa Medium Red'
+sku: 'B00UG4LNYW-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR

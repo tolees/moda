@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F5OTARK-es GANT The Original Solid T-Shirt Camiseta Negro Black 5...'
+sku: 'B00F5OTARK-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.56 EUR
 currency: EUR

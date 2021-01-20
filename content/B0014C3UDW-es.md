@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014C3UDW-es Crocs Classic Clog Zuecos Unisex Adulto Verde Army Green...'
+sku: 'B0014C3UDW-es'
 tags: [ 'zuecos', ]
 actualPrice: 28 EUR
 currency: EUR

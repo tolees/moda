@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHL9WB9-es Columbia WAYFINDER Zapatos Multideporte para Mujer Negro...'
+sku: 'B07JHL9WB9-es'
 tags: [ 'zapatos', ]
 actualPrice: 30.31 EUR
 currency: EUR

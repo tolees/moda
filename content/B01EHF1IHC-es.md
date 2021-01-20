@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EHF1IHC-es GANT The Original Slim T-Shirt Camiseta Negro Black 5...'
+sku: 'B01EHF1IHC-es'
 tags: [ 'camiseta', ]
 actualPrice: 24.23 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K23SVKW-es Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce...'
+sku: 'B07K23SVKW-es'
 tags: [ 'blusa','camiseta','moda', ]
 actualPrice: 4.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDRWNP8-es Calvin Klein Zip Through HD Jacket Chaqueta Blanco Bright...'
+sku: 'B07VDRWNP8-es'
 tags: [ 'chaqueta', ]
 actualPrice: 53.26 EUR
 currency: EUR

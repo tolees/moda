@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV9CMD-es Geox D HOSMOS B ABX B Botas de Nieve para Mujer Negro...'
+sku: 'B07LFV9CMD-es'
 tags: [ 'geox', ]
 actualPrice: 31.64 EUR
 currency: EUR

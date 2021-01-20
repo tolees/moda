@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP3WG2R-es adidas Freelift T Camiseta Hombre Negro Black S'
+sku: 'B07KP3WG2R-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD3HPZ5-es Calvin Klein Vegetable Dye Monogram Slim tee Camiseta Azul...'
+sku: 'B07VD3HPZ5-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.61 EUR
 currency: EUR

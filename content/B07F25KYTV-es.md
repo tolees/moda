@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F25KYTV-es Amazon Essentials – Camisa Oxford de manga corta de corte...'
+sku: 'B07F25KYTV-es'
 tags: [ 'camisa', ]
 actualPrice: 3.39 EUR
 currency: EUR

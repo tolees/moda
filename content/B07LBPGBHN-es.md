@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBPGBHN-es Helly Hansen Killarney II Aislado Parka Chaqueta De...'
+sku: 'B07LBPGBHN-es'
 tags: [ 'chaqueta','parka', ]
 actualPrice: 105.98 EUR
 currency: EUR

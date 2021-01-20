@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W85VJ8G-es Springfield 5.T.Blusa Print Cenefas-C/66 Blusa Naranja...'
+sku: 'B07W85VJ8G-es'
 tags: [ 'blusa', ]
 actualPrice: 7.95 EUR
 currency: EUR

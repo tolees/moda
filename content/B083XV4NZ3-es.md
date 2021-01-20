@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XV4NZ3-es Zuecos Unisex Infantil Niños Niñas Clogs Verano Respirable...'
+sku: 'B083XV4NZ3-es'
 tags: [ 'zapatos','zuecos', ]
 actualPrice: 16.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGRWWCY-es Desigual Back Galaxy Tribeca - Bolso de mano para mujer 15...'
+sku: 'B07VGRWWCY-es'
 tags: [ 'bolso', ]
 actualPrice: 19.82 EUR
 currency: EUR

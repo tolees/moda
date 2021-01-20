@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWZ5T3B-es Helly Hansen Lifaloft Insulator Vest Chaleco Aislante...'
+sku: 'B07QWZ5T3B-es'
 tags: [ 'chaleco', ]
 actualPrice: 40.98 EUR
 currency: EUR

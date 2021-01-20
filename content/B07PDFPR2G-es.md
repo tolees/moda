@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDFPR2G-es Tous Bowling New Essence Bolso bolera para Mujer...'
+sku: 'B07PDFPR2G-es'
 tags: [ 'bolso', ]
 actualPrice: 83.4 EUR
 currency: EUR

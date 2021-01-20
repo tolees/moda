@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4BMK5W-es United Colors of Benetton Basico 1 Man Chaqueta Punto Gris...'
+sku: 'B07N4BMK5W-es'
 tags: [ 'chaqueta', ]
 actualPrice: 23.89 EUR
 currency: EUR

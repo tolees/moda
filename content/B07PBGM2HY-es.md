@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBGM2HY-es Marca Amazon - find. Vaqueros Rectos de Tiro Medio Mujer...'
+sku: 'B07PBGM2HY-es'
 tags: [ 'vaqueros','-','find.', ]
 actualPrice: 6.74 EUR
 currency: EUR

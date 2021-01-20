@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTKSNC-es G-STAR RAW 5620 3D Super Slim Vaqueros para Hombre Gris...'
+sku: 'B01BGTKSNC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 41.98 EUR
 currency: EUR

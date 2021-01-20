@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NRYVMS-es Reef Smoothy - Chanclas para hombre Negro 42 EU'
+sku: 'B000NRYVMS-es'
 tags: [ 'chanclas', ]
 actualPrice: 13.49 EUR
 currency: EUR

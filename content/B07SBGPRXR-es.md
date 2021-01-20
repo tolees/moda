@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBGPRXR-es Lee Scarlett High Zip Vaqueros Skinny Azul Mulberry It 27W...'
+sku: 'B07SBGPRXR-es'
 tags: [ 'vaqueros', ]
 actualPrice: 40.4 EUR
 currency: EUR

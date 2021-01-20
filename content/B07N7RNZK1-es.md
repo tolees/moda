@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N7RNZK1-es Kipling - monedero de Sintético Mujer color Multicolor...'
+sku: 'B07N7RNZK1-es'
 tags: [ 'monedero', ]
 actualPrice: 24.42 EUR
 currency: EUR

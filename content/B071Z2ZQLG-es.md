@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071Z2ZQLG-es Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta Azul...'
+sku: 'B071Z2ZQLG-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.92 EUR
 currency: EUR

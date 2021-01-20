@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEPDM8U-es Crocs Crocband Clog K Zuecos con Correa Trasera Unisex-...'
+sku: 'B01HEPDM8U-es'
 tags: [ 'zuecos', ]
 actualPrice: 23.99 EUR
 currency: EUR

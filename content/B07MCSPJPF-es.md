@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPJPF-es Napapijri Rainforest Winter 1 Chaqueta Marrón Golden Brown...'
+sku: 'B07MCSPJPF-es'
 tags: [ 'chaqueta', ]
 actualPrice: 57.73 EUR
 currency: EUR

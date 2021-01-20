@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLYBLN-es Geox D NYDAME D Zapatillas para Mujer Blanco White/Off...'
+sku: 'B07STLYBLN-es'
 tags: [ 'geox', ]
 actualPrice: 53.86 EUR
 currency: EUR

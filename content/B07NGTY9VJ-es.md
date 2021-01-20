@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGTY9VJ-es Calvin Klein 3p Low Rise Trunk Bóxer Negro B/Astral...'
+sku: 'B07NGTY9VJ-es'
 tags: [ 'bóxer', ]
 actualPrice: 12.35 EUR
 currency: EUR

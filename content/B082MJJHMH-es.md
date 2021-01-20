@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MJJHMH-es TIK TOK Camiseta Corta para Niñas Adolescentes Moda Verano...'
+sku: 'B082MJJHMH-es'
 tags: [ 'camiseta','moda', ]
 actualPrice: 7.99 EUR
 currency: EUR

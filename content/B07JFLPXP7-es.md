@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFLPXP7-es Pepe Jeans Boreas Pm402096 Chaqueta Sailor 580 Large para...'
+sku: 'B07JFLPXP7-es'
 tags: [ 'chaqueta', ]
 actualPrice: 36.39 EUR
 currency: EUR

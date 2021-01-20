@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZP1L34X-es Jack & Jones Jcoisland tee SS Crew Neck Camiseta Azul...'
+sku: 'B07ZP1L34X-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.39 EUR
 currency: EUR

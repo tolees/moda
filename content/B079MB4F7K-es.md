@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MB4F7K-es MagiDeal 30 Piezas Kit de Resaca Bolso Fiesta de Soltería...'
+sku: 'B079MB4F7K-es'
 tags: [ 'bolso', ]
 actualPrice: 16.99 EUR
 currency: EUR

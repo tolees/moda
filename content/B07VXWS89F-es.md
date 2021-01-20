@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXWS89F-es Pepe Jeans Golders Camiseta Naranja Sundown 166 XX-Large...'
+sku: 'B07VXWS89F-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR

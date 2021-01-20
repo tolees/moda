@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLY1LK-es Geox D Pontoise D Zapatillas para Mujer Blanco...'
+sku: 'B07STLY1LK-es'
 tags: [ 'geox', ]
 actualPrice: 34.6 EUR
 currency: EUR

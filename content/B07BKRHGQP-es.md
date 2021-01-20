@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKRHGQP-es Marca Amazon – Goodthreads – «El pantalón chino perfecto»;...'
+sku: 'B07BKRHGQP-es'
 tags: [ 'pantalón', ]
 actualPrice: 18.54 EUR
 currency: EUR

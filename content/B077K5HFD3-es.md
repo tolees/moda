@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077K5HFD3-es REPLAY Jondrill Vaqueros Skinny Negro Black 98 W31/L32...'
+sku: 'B077K5HFD3-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Z4CMYT-es Vero Moda Vmhot Nine HW Dnm Pencil Skirt Mix Noos Falda...'
+sku: 'B075Z4CMYT-es'
 tags: [ 'falda','moda', ]
 actualPrice: 11.99 EUR
 currency: EUR

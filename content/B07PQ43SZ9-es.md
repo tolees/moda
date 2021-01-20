@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ43SZ9-es 8safe Bolso de Bebé Universal | Material de Alta Calidad...'
+sku: 'B07PQ43SZ9-es'
 tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR

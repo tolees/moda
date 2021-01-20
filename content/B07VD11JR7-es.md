@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD11JR7-es edc by Esprit 099cc1g012 Chaqueta Marrón Camel 230 X-Small...'
+sku: 'B07VD11JR7-es'
 tags: [ 'chaqueta', ]
 actualPrice: 17.71 EUR
 currency: EUR

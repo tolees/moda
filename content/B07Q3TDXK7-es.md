@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3TDXK7-es NNJXD Vestido de Unicornio para niñas Fiesta de Apliques...'
+sku: 'B07Q3TDXK7-es'
 tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR

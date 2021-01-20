@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK43FMR-es Columbia Fire Venture L II WP Zapatos de Senderismo para...'
+sku: 'B07KK43FMR-es'
 tags: [ 'zapatos', ]
 actualPrice: 31.11 EUR
 currency: EUR

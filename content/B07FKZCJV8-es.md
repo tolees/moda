@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKZCJV8-es Trangoworld PC008106 Pantalón Largo Mujer Verde Caza M'
+sku: 'B07FKZCJV8-es'
 tags: [ 'pantalón', ]
 actualPrice: 41.99 EUR
 currency: EUR

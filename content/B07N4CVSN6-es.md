@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4CVSN6-es Desigual Dress Always Vestido Azul Denim Medium Wash 5053...'
+sku: 'B07N4CVSN6-es'
 tags: [ 'vestido', ]
 actualPrice: 24.38 EUR
 currency: EUR

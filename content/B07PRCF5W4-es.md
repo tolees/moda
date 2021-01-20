@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCF5W4-es Kipling New S Bolso Shopper para Mujer Verde Seagrass...'
+sku: 'B07PRCF5W4-es'
 tags: [ 'bolso', ]
 actualPrice: 28.91 EUR
 currency: EUR

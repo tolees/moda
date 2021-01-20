@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8KWMCN-es Calvin Klein Center Monogram Box Slim tee Camiseta Blanco...'
+sku: 'B07V8KWMCN-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR

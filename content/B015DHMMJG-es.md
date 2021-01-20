@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015DHMMJG-es Levi s 711 Vaqueros Skinny Negro Black Sheen 0052 31W /...'
+sku: 'B015DHMMJG-es'
 tags: [ 'vaqueros', ]
 actualPrice: 46.7 EUR
 currency: EUR

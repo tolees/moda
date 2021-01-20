@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEXGCPM-es Crocs Crocband Clog K Zuecos con Correa Unisex-Bambini...'
+sku: 'B01HEXGCPM-es'
 tags: [ 'zuecos', ]
 actualPrice: 19.2 EUR
 currency: EUR

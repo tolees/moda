@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NARZKPB-es Kappa Fredo Pantalón Corto Hombre Verde L'
+sku: 'B01NARZKPB-es'
 tags: [ 'pantalón', ]
 actualPrice: 13.94 EUR
 currency: EUR

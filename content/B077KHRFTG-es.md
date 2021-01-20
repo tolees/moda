@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077KHRFTG-es Columbia M Thermarator Glove Guantes Hombre Negro Talla XL'
+sku: 'B077KHRFTG-es'
 tags: [ 'guantes', ]
 actualPrice: 14.49 EUR
 currency: EUR

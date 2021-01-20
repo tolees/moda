@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R53MJQQ-es Scotch & Soda Skim-Objet D art Vaqueros Straight Azul...'
+sku: 'B07R53MJQQ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 77.95 EUR
 currency: EUR

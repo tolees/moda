@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC4H3FH-es Scotch & Soda Nos Oxford Shirt Relaxed Fit Button Down...'
+sku: 'B07MC4H3FH-es'
 tags: [ 'camisa','collar', ]
 actualPrice: 55.95 EUR
 currency: EUR

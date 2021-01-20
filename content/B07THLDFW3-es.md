@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THLDFW3-es iWalker Guantes Gimnasios de Crossfit para los Deportes...'
+sku: 'B07THLDFW3-es'
 tags: [ 'guantes', ]
 actualPrice: 12.99 EUR
 currency: EUR

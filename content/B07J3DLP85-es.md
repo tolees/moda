@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3DLP85-es Under Armour UA Streaker 2.0 Camiseta Mujer Azul...'
+sku: 'B07J3DLP85-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.97 EUR
 currency: EUR

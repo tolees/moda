@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WY2RWL-es Amazon Essentials 6-Pack Crewneck Undershirts Camisa Negro...'
+sku: 'B071WY2RWL-es'
 tags: [ 'camisa', ]
 actualPrice: 15.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZQYR9J-es Joma Equip. M/c Hombre Camiseta hispa Rojo-Blanco S'
+sku: 'B07BZQYR9J-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.16 EUR
 currency: EUR

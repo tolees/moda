@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ9RDJY-es Springfield 1.Ap.Oi19.Tirante Bimater Blusa Multicolor...'
+sku: 'B07NJ9RDJY-es'
 tags: [ 'blusa', ]
 actualPrice: 4.49 EUR
 currency: EUR

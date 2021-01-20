@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087BXRQPY-es TAONEEF Mujer Moda Tacon Delgados Sandalias Cruzado Tacon...'
+sku: 'B087BXRQPY-es'
 tags: [ 'moda','sandalias','zapatos', ]
 actualPrice: 22.88 EUR
 currency: EUR

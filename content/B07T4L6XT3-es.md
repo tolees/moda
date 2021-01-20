@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4L6XT3-es SHIELDON Mochila Portátil 17.3 Pulgadas Mochilas Ordenador...'
+sku: 'B07T4L6XT3-es'
 tags: [ 'bolso', ]
 actualPrice: 52.99 EUR
 currency: EUR

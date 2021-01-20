@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYMW3VM-es NOVECASA Chaleco Sauna Hombre Neopreno Camiseta sin...'
+sku: 'B07DYMW3VM-es'
 tags: [ 'camiseta','chaleco', ]
 actualPrice: 14.96 EUR
 currency: EUR

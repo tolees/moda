@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYVTJY1-es Tommy Hilfiger Belle Boat-nk Top 3/4 Slv Jersey Deportivo...'
+sku: 'B07JYVTJY1-es'
 tags: [ 'jersey', ]
 actualPrice: 32 EUR
 currency: EUR

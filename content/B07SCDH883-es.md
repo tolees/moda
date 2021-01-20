@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCDH883-es HUGO 734 Vaqueros Slim Azul Dark Blue 401 W30/L30 Talla...'
+sku: 'B07SCDH883-es'
 tags: [ 'vaqueros', ]
 actualPrice: 57.95 EUR
 currency: EUR

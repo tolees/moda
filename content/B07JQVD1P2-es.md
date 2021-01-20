@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQVD1P2-es Tommy Hilfiger Essential Hooded Down Jacket Chaqueta Flame...'
+sku: 'B07JQVD1P2-es'
 tags: [ 'chaqueta', ]
 actualPrice: 135.53 EUR
 currency: EUR

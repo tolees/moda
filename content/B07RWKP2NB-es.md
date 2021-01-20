@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWKP2NB-es Ted Baker Sumpsa Zapatos de Cordones Derby para Hombre...'
+sku: 'B07RWKP2NB-es'
 tags: [ 'zapatos', ]
 actualPrice: 47.84 EUR
 currency: EUR

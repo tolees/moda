@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7DAAV1-es The North Face Outerwear TNF Chaqueta Mujer Negro Tnf...'
+sku: 'B01N7DAAV1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 78.62 EUR
 currency: EUR

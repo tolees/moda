@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPXVTGW-es Under Armour UA Seamless SS Manga Corta para Hombre...'
+sku: 'B07PPXVTGW-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.15 EUR
 currency: EUR

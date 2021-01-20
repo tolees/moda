@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5C7TXC-es Geographical Norway Sudadera DE Hombre GYMCLASS B Naranja L'
+sku: 'B07Y5C7TXC-es'
 tags: [ 'sudadera', ]
 actualPrice: 29.99 EUR
 currency: EUR

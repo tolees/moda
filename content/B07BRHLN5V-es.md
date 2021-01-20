@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRHLN5V-es Lifewit Bolsa Térmica Grande Porta Alimentos de...'
+sku: 'B07BRHLN5V-es'
 tags: [ 'bolso', ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PXSDLK-es Star Wars Jedi Master T-Shirt Top de Manga Corta Alrededor...'
+sku: 'B082PXSDLK-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.97 EUR
 currency: EUR

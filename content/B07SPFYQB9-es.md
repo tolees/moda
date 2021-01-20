@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPFYQB9-es dockers Alpha 360 Button Up Camisa Casual Negro Pirate...'
+sku: 'B07SPFYQB9-es'
 tags: [ 'camisa', ]
 actualPrice: 15.97 EUR
 currency: EUR

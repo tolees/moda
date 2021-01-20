@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCLYVZ7-es Lee Rider Jacket Chaqueta Vaquera Azul Cerulean EI XX-...'
+sku: 'B07SCLYVZ7-es'
 tags: [ 'chaqueta', ]
 actualPrice: 54.98 EUR
 currency: EUR

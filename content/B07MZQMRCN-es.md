@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQMRCN-es Pepe Jeans Spike Vaqueros Straight Azul Medium Used...'
+sku: 'B07MZQMRCN-es'
 tags: [ 'vaqueros', ]
 actualPrice: 17.65 EUR
 currency: EUR

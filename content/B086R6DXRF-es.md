@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086R6DXRF-es Nautico J.Bradford Cuero Marron JB-CORVETTES - Color -...'
+sku: 'B086R6DXRF-es'
 tags: [ 'zapatos', ]
 actualPrice: 62.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X3XSV5Y-es adidas Adilette Shower Chanclas para Hombre Azul...'
+sku: 'B06X3XSV5Y-es'
 tags: [ 'chanclas', ]
 actualPrice: 10.01 EUR
 currency: EUR

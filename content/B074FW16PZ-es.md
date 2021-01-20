@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FW16PZ-es Marca Amazon - find. Camiseta con Franjas para Hombre Rojo...'
+sku: 'B074FW16PZ-es'
 tags: [ 'camiseta','-','find.', ]
 actualPrice: 4.76 EUR
 currency: EUR

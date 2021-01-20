@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HWSX3CQ-es H&E - Abrigo de invierno para niña con capucha y capucha...'
+sku: 'B07HWSX3CQ-es'
 tags: [ 'abrigo', ]
 actualPrice: 22.6 EUR
 currency: EUR

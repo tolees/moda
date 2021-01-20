@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG173WC-es Geox U Renan B Zapatillas para Hombre Negro Black/Mud...'
+sku: 'B07LG173WC-es'
 tags: [ 'geox', ]
 actualPrice: 60.34 EUR
 currency: EUR

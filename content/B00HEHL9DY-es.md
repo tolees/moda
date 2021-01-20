@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HEHL9DY-es Conjunto de 3 piezas camiseta camisa a cuadros y...'
+sku: 'B00HEHL9DY-es'
 tags: [ 'camisa','camiseta', ]
 actualPrice: 13.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FGVGTF6-es SHOBDW Las Mujeres de Moda señora de la Cintura elástica...'
+sku: 'B07FGVGTF6-es'
 tags: [ 'moda', ]
 actualPrice: 4.59 EUR
 currency: EUR

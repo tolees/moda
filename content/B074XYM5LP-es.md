@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074XYM5LP-es BOSS Identity T-Shirt RN Top de Pijama Azul Dark Blue 403...'
+sku: 'B074XYM5LP-es'
 tags: [ 'pijama', ]
 actualPrice: 23.0 EUR
 currency: EUR

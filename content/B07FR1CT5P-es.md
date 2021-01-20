@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR1CT5P-es Clarks Step Beat Sun Sandalias Punta Abierta para Hombre...'
+sku: 'B07FR1CT5P-es'
 tags: [ 'sandalias', ]
 actualPrice: 36.66 EUR
 currency: EUR

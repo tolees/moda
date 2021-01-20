@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLXXWD-es Geox D Rubidia A Zapatillas para Mujer Gris Off White...'
+sku: 'B07STLXXWD-es'
 tags: [ 'geox', ]
 actualPrice: 45.81 EUR
 currency: EUR

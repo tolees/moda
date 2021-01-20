@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB1YZLY-es Helly Hansen Dubliner Jacket Chaqueta Hombre Royal Blue M'
+sku: 'B07SB1YZLY-es'
 tags: [ 'chaqueta', ]
 actualPrice: 81.99 EUR
 currency: EUR

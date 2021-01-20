@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SX45FVY-es Quiksilver Monkey Abyss Youth Zapatos de Playa y Piscina...'
+sku: 'B07SX45FVY-es'
 tags: [ 'zapatos', ]
 actualPrice: 7.74 EUR
 currency: EUR

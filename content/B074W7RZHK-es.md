@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074W7RZHK-es Marca Amazon - MERAKI Chaqueta de Algodón Mujer Cuello...'
+sku: 'B074W7RZHK-es'
 tags: [ 'chaqueta','meraki', ]
 actualPrice: 4.24 EUR
 currency: EUR

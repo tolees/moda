@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS3DL32-es Disney Sudadera para niñas Toy Story Jessie Azul 2-3 Años'
+sku: 'B07TS3DL32-es'
 tags: [ 'sudadera', ]
 actualPrice: 11.95 EUR
 currency: EUR

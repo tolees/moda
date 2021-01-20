@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYXWG4-es Geox Womens D New ANNYA MID A Pump Navy 41 EU'
+sku: 'B07LFYXWG4-es'
 tags: [ 'geox', ]
 actualPrice: 22.47 EUR
 currency: EUR

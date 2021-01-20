@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBZ3XP1-es Columbia Powder Lite Jacket Chaqueta Hombre Amarillo...'
+sku: 'B07JBZ3XP1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 54.95 EUR
 currency: EUR

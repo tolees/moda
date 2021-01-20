@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003W52GFW-es Timberland Classic 2-Eye Náuticos para Mujer Azul MD Blue...'
+sku: 'B003W52GFW-es'
 tags: [ 'timberland', ]
 actualPrice: 79.1 EUR
 currency: EUR

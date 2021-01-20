@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV9DHC-es Geox D ANNYTAH Moc A Mocasines para Mujer Negro Black...'
+sku: 'B07LFV9DHC-es'
 tags: [ 'geox', ]
 actualPrice: 30.53 EUR
 currency: EUR

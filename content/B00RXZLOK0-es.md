@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RXZLOK0-es Joma Combi Camiseta Manga Corta Hombre Negro 8-10'
+sku: 'B00RXZLOK0-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.99 EUR
 currency: EUR

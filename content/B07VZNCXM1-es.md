@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZNCXM1-es Pepe Jeans ANN Bolso para Ordenador Adaptable 40 cm 12...'
+sku: 'B07VZNCXM1-es'
 tags: [ 'bolso', ]
 actualPrice: 56.0 EUR
 currency: EUR

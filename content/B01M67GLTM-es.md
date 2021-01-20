@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M67GLTM-es G-STAR RAW Core Super Slim Camisa Vaquera Azul Mazarine...'
+sku: 'B01M67GLTM-es'
 tags: [ 'camisa', ]
 actualPrice: 38.45 EUR
 currency: EUR

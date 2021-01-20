@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSK8R65-es Clarks Un Karely Sun Chanclas para Mujer Gris Sage Nubuck-...'
+sku: 'B07FSK8R65-es'
 tags: [ 'chanclas', ]
 actualPrice: 68.69 EUR
 currency: EUR

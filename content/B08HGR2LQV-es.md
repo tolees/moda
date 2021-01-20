@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HGR2LQV-es catmoew Mujer Sudadera Tops Chaqueta Suéter Jersey Mujer...'
+sku: 'B08HGR2LQV-es'
 tags: [ 'chaqueta','jersey','sudadera', ]
 actualPrice: 12.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMB388-es Pepe Jeans Regent Vaqueros Skinny Powerflex Dark Used...'
+sku: 'B07MZMB388-es'
 tags: [ 'vaqueros', ]
 actualPrice: 56.49 EUR
 currency: EUR

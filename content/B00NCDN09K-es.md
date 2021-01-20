@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NCDN09K-es La Camisa de Popelina de Camino de Mesa de poliéster de...'
+sku: 'B00NCDN09K-es'
 tags: [ 'camisa', ]
 actualPrice: 22.51 EUR
 currency: EUR

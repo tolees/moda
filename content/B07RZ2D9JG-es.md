@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ2D9JG-es BILLABONG TRD Mrk LS tee Camiseta Hombre Azul Dark Blue...'
+sku: 'B07RZ2D9JG-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR

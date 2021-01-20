@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMZK99G-es YACUN Sujetador Deportivo Mujer Bra Chaleco de Malla Yoga...'
+sku: 'B07QMZK99G-es'
 tags: [ 'chaleco', ]
 actualPrice: 3.99 EUR
 currency: EUR

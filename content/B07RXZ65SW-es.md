@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXZ65SW-es Pepe Jeans Cash Vaqueros Straight Azul Medium Used 000...'
+sku: 'B07RXZ65SW-es'
 tags: [ 'vaqueros', ]
 actualPrice: 41.64 EUR
 currency: EUR

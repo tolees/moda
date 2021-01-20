@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH9GW6Z-es Timberland Capri Sunset Wedge Sandalias para Mujer Verde...'
+sku: 'B07FH9GW6Z-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 50.0 EUR
 currency: EUR

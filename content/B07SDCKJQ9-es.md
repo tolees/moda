@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDCKJQ9-es LIGE Relojes de Pulsera para Hombre Impermeable con Fecha...'
+sku: 'B07SDCKJQ9-es'
 tags: [ 'moda', ]
 actualPrice: 26.99 EUR
 currency: EUR

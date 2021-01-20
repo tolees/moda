@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T334QSV-es Parfois - Bolso Shopper Acolchado - Mujeres - Tallas M -...'
+sku: 'B07T334QSV-es'
 tags: [ 'bolso', ]
 actualPrice: 13 EUR
 currency: EUR

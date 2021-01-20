@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013R4MRQA-es Cream Basmalla Cardigan Chaqueta Marrón S para Mujer'
+sku: 'B013R4MRQA-es'
 tags: [ 'chaqueta', ]
 actualPrice: 11.16 EUR
 currency: EUR

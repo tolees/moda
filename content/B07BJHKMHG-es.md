@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJHKMHG-es G-STAR RAW 3301 Slim Vaqueros Dk Aged 8466-90 30W / 32L...'
+sku: 'B07BJHKMHG-es'
 tags: [ 'vaqueros', ]
 actualPrice: 77.99 EUR
 currency: EUR

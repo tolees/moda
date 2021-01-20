@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018JT4TI2-es Levi s 200Sf Trunk 2P Boxer Hombre Negro Jet Black X-Large...'
+sku: 'B018JT4TI2-es'
 tags: [ 'boxer', ]
 actualPrice: 11.0 EUR
 currency: EUR

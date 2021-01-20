@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07254THBV-es WenVen Chaqueta Casual de Algodón para Invierno para...'
+sku: 'B07254THBV-es'
 tags: [ 'chaqueta', ]
 actualPrice: 54.03 EUR
 currency: EUR

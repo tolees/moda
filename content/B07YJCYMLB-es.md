@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJCYMLB-es Eli-time Gafas de sol polarizadas ultraligeras para...'
+sku: 'B07YJCYMLB-es'
 tags: [ 'gafas','moda', ]
 actualPrice: 12.11 EUR
 currency: EUR

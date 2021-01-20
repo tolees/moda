@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B5MNLN-es Columbia CSC Basic Camiseta de Manga Corta Hombre Gris...'
+sku: 'B081B5MNLN-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMFBV95-es adidas Essentials Chelsea 7 Inch 3 Bandas Pantalón Corto...'
+sku: 'B07KMFBV95-es'
 tags: [ 'pantalón', ]
 actualPrice: 20.94 EUR
 currency: EUR

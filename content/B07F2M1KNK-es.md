@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2M1KNK-es Vans Left Chest Logo tee Camiseta para Hombre Negro Black...'
+sku: 'B07F2M1KNK-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR

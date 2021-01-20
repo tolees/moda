@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB97M7B-es adidas Grand Court Base Zapatos de Tenis para Hombre...'
+sku: 'B07SB97M7B-es'
 tags: [ 'zapatos', ]
 actualPrice: 25.39 EUR
 currency: EUR

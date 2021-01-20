@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007VHBQ8-es Vileda Gr00683 - Guantes de goma'
+sku: 'B0007VHBQ8-es'
 tags: [ 'guantes', ]
 actualPrice: 4.07 EUR
 currency: EUR

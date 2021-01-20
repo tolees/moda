@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DLWWW5-es Agatha Ruiz de la Prada Bandolera Bolso Redondo Infantil...'
+sku: 'B085DLWWW5-es'
 tags: [ 'bolso', ]
 actualPrice: 14.5 EUR
 currency: EUR

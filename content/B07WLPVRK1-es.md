@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLPVRK1-es Tommy Hilfiger Classic Parte de Arriba de Bikini Azul...'
+sku: 'B07WLPVRK1-es'
 tags: [ 'bikini', ]
 actualPrice: 26.99 EUR
 currency: EUR

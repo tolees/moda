@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BNCGD7R-es Timberland Perkins Row 2-Strap sandale junior Descubierta...'
+sku: 'B07BNCGD7R-es'
 tags: [ 'timberland', ]
 actualPrice: 21.99 EUR
 currency: EUR

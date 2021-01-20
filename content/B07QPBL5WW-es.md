@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPBL5WW-es New Look Bermuda Button Falda Blanco White 10 40 Talla del...'
+sku: 'B07QPBL5WW-es'
 tags: [ 'falda', ]
 actualPrice: 6.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGVRKHG-es Calvin Klein 3p Low Rise Trunk Bóxer Negro B/Tolerance/Wet...'
+sku: 'B07NGVRKHG-es'
 tags: [ 'bóxer', ]
 actualPrice: 12.12 EUR
 currency: EUR

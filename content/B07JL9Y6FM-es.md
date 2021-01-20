@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JL9Y6FM-es 2*Piezas Conjunto de Lencería Pijama Semi Transparente de...'
+sku: 'B07JL9Y6FM-es'
 tags: [ 'pijama', ]
 actualPrice: 5.15 EUR
 currency: EUR

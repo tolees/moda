@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLP8CJ-es Napapijri DAMAVAND V Jersey Rojo Red Scarlet R01 M para...'
+sku: 'B07MMLP8CJ-es'
 tags: [ 'jersey', ]
 actualPrice: 29.76 EUR
 currency: EUR

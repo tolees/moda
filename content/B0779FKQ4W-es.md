@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779FKQ4W-es adidas Entrada 18 JSY Teamtrikot Camiseta de Manga Corta...'
+sku: 'B0779FKQ4W-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.2 EUR
 currency: EUR

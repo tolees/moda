@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFFPFLG-es Karactermania Mickey Mouse Paisgreen Bolso Bandolera 22 cm...'
+sku: 'B07JFFPFLG-es'
 tags: [ 'bolso', ]
 actualPrice: 10.4 EUR
 currency: EUR

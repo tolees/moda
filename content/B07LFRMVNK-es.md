@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRMVNK-es Geox U New Life C Zapatos de Cordones Derby para Hombre...'
+sku: 'B07LFRMVNK-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 27.39 EUR
 currency: EUR

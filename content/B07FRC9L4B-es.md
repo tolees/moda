@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRC9L4B-es Clarks Un Trek Part Sandalias de Talón Abierto para Hombre...'
+sku: 'B07FRC9L4B-es'
 tags: [ 'sandalias', ]
 actualPrice: 40.27 EUR
 currency: EUR

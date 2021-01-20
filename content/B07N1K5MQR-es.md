@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1K5MQR-es Clarks Linvale Jerica Zapatos de tacón con Punta Cerrada...'
+sku: 'B07N1K5MQR-es'
 tags: [ 'zapatos', ]
 actualPrice: 33.3 EUR
 currency: EUR

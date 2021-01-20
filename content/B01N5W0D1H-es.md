@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5W0D1H-es Vero Moda Vmmaxi My Soft Long Tank Top Noos Camiseta sin...'
+sku: 'B01N5W0D1H-es'
 tags: [ 'camiseta','moda', ]
 actualPrice: 6.49 EUR
 currency: EUR

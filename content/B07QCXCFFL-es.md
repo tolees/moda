@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCXCFFL-es Abravo Mujer Vestido?Bohemio Corto Florales Nacional...'
+sku: 'B07QCXCFFL-es'
 tags: [ 'vestido', ]
 actualPrice: 15.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHD9Q4T-es Helly Hansen HP Racing Prueba De Viento Y Respirable...'
+sku: 'B07FHD9Q4T-es'
 tags: [ 'chaqueta', ]
 actualPrice: 74.66 EUR
 currency: EUR

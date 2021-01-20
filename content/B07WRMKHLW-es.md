@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRMKHLW-es Skechers TRESMEN HIRANO Sandalias con Punta Abierta para...'
+sku: 'B07WRMKHLW-es'
 tags: [ 'sandalias', ]
 actualPrice: 32.95 EUR
 currency: EUR

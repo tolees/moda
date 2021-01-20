@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771KM7MP-es SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim...'
+sku: 'B0771KM7MP-es'
 tags: [ 'abrigo','chaqueta','moda', ]
 actualPrice: 7.99 EUR
 currency: EUR

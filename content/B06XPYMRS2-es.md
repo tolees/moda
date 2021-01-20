@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPYMRS2-es Calzado Deportivo Masculino de Seguridad con Puntera...'
+sku: 'B06XPYMRS2-es'
 tags: [ 'zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR

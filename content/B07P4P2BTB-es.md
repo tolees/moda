@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4P2BTB-es Art 1521 Grass Black/Mainz Zapatos de Cordones para Hombre...'
+sku: 'B07P4P2BTB-es'
 tags: [ 'zapatos', ]
 actualPrice: 17.68 EUR
 currency: EUR

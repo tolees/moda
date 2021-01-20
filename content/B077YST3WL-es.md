@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YST3WL-es HIKARO Chaqueta Bomber Hombre Gris Charcoal 54 Talla del...'
+sku: 'B077YST3WL-es'
 tags: [ 'chaqueta', ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BTY7R84-es ZCFXJiTuanYZ Traje de Deporte al Aire Libre Jersey de...'
+sku: 'B07BTY7R84-es'
 tags: [ 'jersey', ]
 actualPrice: 48.88 EUR
 currency: EUR

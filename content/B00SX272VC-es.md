@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SX272VC-es Calvin Klein Modern Cotton-Bralette Braguita de bikini...'
+sku: 'B00SX272VC-es'
 tags: [ 'bikini', ]
 actualPrice: 19.99 EUR
 currency: EUR

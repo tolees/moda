@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BHWCMF-es Columbia Challenger Chaqueta cortavientos Mujer...'
+sku: 'B081BHWCMF-es'
 tags: [ 'chaqueta', ]
 actualPrice: 22.42 EUR
 currency: EUR

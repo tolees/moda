@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L1MH2-es Lee Button Down Camisa Casual Azul Beyond Blue Small para...'
+sku: 'B07M8L1MH2-es'
 tags: [ 'camisa', ]
 actualPrice: 34.98 EUR
 currency: EUR

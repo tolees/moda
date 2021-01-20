@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007MLY7XQ-es Derbystar Uni Spielertrikot - Camiseta de equipación...'
+sku: 'B007MLY7XQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.22 EUR
 currency: EUR

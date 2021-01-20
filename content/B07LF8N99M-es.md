@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF8N99M-es Levi s 502 Regular Taper Vaqueros Azul Cedar Od Flat ADV...'
+sku: 'B07LF8N99M-es'
 tags: [ 'vaqueros', ]
 actualPrice: 19.13 EUR
 currency: EUR

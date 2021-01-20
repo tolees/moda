@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FVZTMRY-es Lee Scarlett Vaqueros Azul Flight Wj 26W / 33L para Mujer'
+sku: 'B07FVZTMRY-es'
 tags: [ 'vaqueros', ]
 actualPrice: 39.99 EUR
 currency: EUR

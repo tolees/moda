@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QR6KWF-es Under Armour UA Streaker 2.0 Half Zip Cremallera Media...'
+sku: 'B081QR6KWF-es'
 tags: [ 'sudadera', ]
 actualPrice: 26.49 EUR
 currency: EUR

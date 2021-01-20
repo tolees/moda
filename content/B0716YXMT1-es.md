@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716YXMT1-es Under Armour Sportstyle Pique Track Jacket Chaqueta Hombre...'
+sku: 'B0716YXMT1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 23.99 EUR
 currency: EUR

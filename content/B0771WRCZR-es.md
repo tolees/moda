@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771WRCZR-es Art Mykonos Sandalias con Punta Abierta para Mujer Marrón...'
+sku: 'B0771WRCZR-es'
 tags: [ 'sandalias', ]
 actualPrice: 49.99 EUR
 currency: EUR

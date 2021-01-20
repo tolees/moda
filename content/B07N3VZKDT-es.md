@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3VZKDT-es Desigual Sweat ANNARAU Jersey Azul Blue Depths 5149 L para...'
+sku: 'B07N3VZKDT-es'
 tags: [ 'jersey', ]
 actualPrice: 48.99 EUR
 currency: EUR

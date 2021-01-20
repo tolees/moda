@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6N4LZ1-es Timberland Davis Square Alpine Oxford Zapatillas Unisex-...'
+sku: 'B07J6N4LZ1-es'
 tags: [ 'timberland', ]
 actualPrice: 12.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ2FBZX-es Superdry Astrid Puffer Chaqueta Verde City Green V2k XL...'
+sku: 'B07NZ2FBZX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 35.66 EUR
 currency: EUR

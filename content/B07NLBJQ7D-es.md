@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLBJQ7D-es Marca Amazon - TRUTH & FABLE Vestido Mujer Estampado...'
+sku: 'B07NLBJQ7D-es'
 tags: [ 'vestido', ]
 actualPrice: 36.09 EUR
 currency: EUR

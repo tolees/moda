@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3KS2ZW-es GRACE KARIN Mujer Vestido Fuera del Hombro Vintage Retro...'
+sku: 'B07P3KS2ZW-es'
 tags: [ 'vestido', ]
 actualPrice: 25.99 EUR
 currency: EUR

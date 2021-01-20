@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8KSKR9-es Calvin Klein Monogram Relaxed Short Hoodie Sudadera Gris...'
+sku: 'B07V8KSKR9-es'
 tags: [ 'sudadera', ]
 actualPrice: 29.99 EUR
 currency: EUR

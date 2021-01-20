@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW7HJYQ-es Sisley Jacket Chaqueta Mujer Negro Black 100 40 Talla...'
+sku: 'B07KW7HJYQ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 14.1 EUR
 currency: EUR

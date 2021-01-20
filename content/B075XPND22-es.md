@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XPND22-es Amaza Disfraz Años 80 Mujer Accesorios Guantes...'
+sku: 'B075XPND22-es'
 tags: [ 'guantes', ]
 actualPrice: 9.98 EUR
 currency: EUR

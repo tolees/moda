@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T54WVY9-es ZIGJOY Strangers TV Camiseta Unisex Camiseta Top One...'
+sku: 'B07T54WVY9-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR

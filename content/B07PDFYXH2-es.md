@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDFYXH2-es XTI 86138 Bolso bandolera para Mujer Negro 25x20x7 cm W x...'
+sku: 'B07PDFYXH2-es'
 tags: [ 'bolso', ]
 actualPrice: 32.49 EUR
 currency: EUR

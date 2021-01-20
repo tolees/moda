@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X6V76ND-es Ipanema Anat Temas IX Fem Chanclas para Mujer Multicolor...'
+sku: 'B07X6V76ND-es'
 tags: [ 'chanclas', ]
 actualPrice: 16.0 EUR
 currency: EUR

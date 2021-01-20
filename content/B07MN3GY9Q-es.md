@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN3GY9Q-es Lee Chunky Knit Sudadera Marfil Off White MK Medium para...'
+sku: 'B07MN3GY9Q-es'
 tags: [ 'sudadera', ]
 actualPrice: 40.63 EUR
 currency: EUR

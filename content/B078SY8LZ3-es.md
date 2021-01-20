@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SY8LZ3-es Timberland Wild Dunes Synthetic Thong Chanclas de Dedo...'
+sku: 'B078SY8LZ3-es'
 tags: [ 'chanclas','timberland', ]
 actualPrice: 20.99 EUR
 currency: EUR

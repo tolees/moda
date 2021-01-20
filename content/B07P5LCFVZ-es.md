@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5LCFVZ-es Ogeenier Pantalones de Yoga de Mujer Pantalón de Pilates...'
+sku: 'B07P5LCFVZ-es'
 tags: [ 'pantalón', ]
 actualPrice: 22.99 EUR
 currency: EUR

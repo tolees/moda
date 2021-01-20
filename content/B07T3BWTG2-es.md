@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3BWTG2-es Guess Brielle - Bolso bandolera color negro'
+sku: 'B07T3BWTG2-es'
 tags: [ 'bolso', ]
 actualPrice: 78.75 EUR
 currency: EUR

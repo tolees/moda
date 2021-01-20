@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9HF2XS-es Under Armour Coldgear Reactor Performance Hybrid Chaqueta...'
+sku: 'B07L9HF2XS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 38.62 EUR
 currency: EUR

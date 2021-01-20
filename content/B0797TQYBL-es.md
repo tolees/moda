@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797TQYBL-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Negro...'
+sku: 'B0797TQYBL-es'
 tags: [ 'zapatos', ]
 actualPrice: 14.66 EUR
 currency: EUR

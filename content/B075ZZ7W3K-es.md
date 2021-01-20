@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZZ7W3K-es JACK & JONES Jacbasic Crew Neck tee SS 2 Pack Camiseta...'
+sku: 'B075ZZ7W3K-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

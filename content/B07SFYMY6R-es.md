@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFYMY6R-es Levi s June Batwing Chanclas para Hombre Negro R Black 59...'
+sku: 'B07SFYMY6R-es'
 tags: [ 'chanclas', ]
 actualPrice: 16.49 EUR
 currency: EUR

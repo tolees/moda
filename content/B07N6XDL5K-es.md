@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6XDL5K-es Tommy Hilfiger Cosy Rainboot Botines para Mujer Midnight...'
+sku: 'B07N6XDL5K-es'
 tags: [ 'botines', ]
 actualPrice: 39.59 EUR
 currency: EUR

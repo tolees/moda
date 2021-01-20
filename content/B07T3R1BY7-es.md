@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3R1BY7-es NIKE FCB M Nk BRT Stad JSY SS AW - Camiseta de Equipacion...'
+sku: 'B07T3R1BY7-es'
 tags: [ 'camiseta', ]
 actualPrice: 33.56 EUR
 currency: EUR

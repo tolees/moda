@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F44HY-es Wrangler Graphic Logo tee Camiseta Marfil Off White 737...'
+sku: 'B07M5F44HY-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZW5W7S4-es Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón...'
+sku: 'B07ZW5W7S4-es'
 tags: [ 'zapatos','-','find.', ]
 actualPrice: 8.96 EUR
 currency: EUR

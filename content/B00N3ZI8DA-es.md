@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N3ZI8DA-es Havaianas Slim Chanclas Mujer Oro SandGrey/Light Golden...'
+sku: 'B00N3ZI8DA-es'
 tags: [ 'chanclas', ]
 actualPrice: 19.15 EUR
 currency: EUR

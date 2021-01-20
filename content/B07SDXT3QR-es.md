@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDXT3QR-es Vans WM Thanks Coach Attendance Jacket Chaqueta Verde...'
+sku: 'B07SDXT3QR-es'
 tags: [ 'chaqueta', ]
 actualPrice: 11.83 EUR
 currency: EUR

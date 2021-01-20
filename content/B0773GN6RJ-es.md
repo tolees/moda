@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773GN6RJ-es DCCN 3 Pcs Canvas Bolsas Escolares Mochila niños niñas...'
+sku: 'B0773GN6RJ-es'
 tags: [ 'billetera','bolso', ]
 actualPrice: 21.38 EUR
 currency: EUR

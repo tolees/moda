@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D38HMDS-es Ultrasport Chaqueta multifuncional de hombre Endy con...'
+sku: 'B01D38HMDS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 19.12 EUR
 currency: EUR

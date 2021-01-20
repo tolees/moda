@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPJJF4G-es LARNMERN Zapatos de Seguridad para Hombre con Puntera de...'
+sku: 'B07NPJJF4G-es'
 tags: [ 'zapatos', ]
 actualPrice: 46.99 EUR
 currency: EUR

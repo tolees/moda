@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZCMR8H-es TRUTH & FABLE 13842 vestido dama de honor mujer Rosa...'
+sku: 'B076ZCMR8H-es'
 tags: [ 'vestido', ]
 actualPrice: 18 EUR
 currency: EUR

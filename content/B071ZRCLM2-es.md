@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZRCLM2-es Crocs Classic Clog K Zuecos Unisex Niños Verde Grass Green...'
+sku: 'B071ZRCLM2-es'
 tags: [ 'zuecos', ]
 actualPrice: 13.49 EUR
 currency: EUR

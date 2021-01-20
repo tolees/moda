@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SWHTT1-es Timberland Malibu Waves Sandalias para Mujer Marrón Rust...'
+sku: 'B078SWHTT1-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 42.5 EUR
 currency: EUR

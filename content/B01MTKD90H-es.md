@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTKD90H-es Tous Jacalanda Brunock Chain Bolso Bandolera para Mujer...'
+sku: 'B01MTKD90H-es'
 tags: [ 'bolso', ]
 actualPrice: 58.0 EUR
 currency: EUR

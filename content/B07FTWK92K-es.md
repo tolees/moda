@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTWK92K-es Lee Brooklyn Comfort Vaqueros Straight Negro Black Rinse...'
+sku: 'B07FTWK92K-es'
 tags: [ 'vaqueros', ]
 actualPrice: 39.06 EUR
 currency: EUR

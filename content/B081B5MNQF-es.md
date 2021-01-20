@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B5MNQF-es Columbia Windgates Chaqueta impermeable Mujer Azul oscuro...'
+sku: 'B081B5MNQF-es'
 tags: [ 'chaqueta', ]
 actualPrice: 86.98 EUR
 currency: EUR

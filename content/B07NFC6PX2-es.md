@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFC6PX2-es Tommy Hilfiger Kitty C-nk Sweatshirt LS Sudadera Light...'
+sku: 'B07NFC6PX2-es'
 tags: [ 'sudadera', ]
 actualPrice: 49.95 EUR
 currency: EUR

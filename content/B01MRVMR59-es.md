@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRVMR59-es Timberland Adventure 2.0 Cupsole Chukka Zapatillas para...'
+sku: 'B01MRVMR59-es'
 tags: [ 'timberland', ]
 actualPrice: 116.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MPNZ58-es Geographical Norway Parka Mujer Destine Azul Marino 03'
+sku: 'B082MPNZ58-es'
 tags: [ 'parka', ]
 actualPrice: 77.4 EUR
 currency: EUR

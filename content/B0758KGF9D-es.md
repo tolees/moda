@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758KGF9D-es Clarks Vennor Walk Zapatos de Cordones Derby para Hombre...'
+sku: 'B0758KGF9D-es'
 tags: [ 'zapatos', ]
 actualPrice: 49.95 EUR
 currency: EUR

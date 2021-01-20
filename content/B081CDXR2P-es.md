@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CDXR2P-es Geographical Norway Chaqueta DE NIÑO BOKER Rojo 10'
+sku: 'B081CDXR2P-es'
 tags: [ 'chaqueta', ]
 actualPrice: 59.0 EUR
 currency: EUR

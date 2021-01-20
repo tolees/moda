@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ7FXJH-es Clarks - Botines de Cuero Hombre Color Negro Talla 45 EU'
+sku: 'B07MJ7FXJH-es'
 tags: [ 'botines', ]
 actualPrice: 34.74 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVFBYFS-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Azul Medium...'
+sku: 'B07RVFBYFS-es'
 tags: [ 'vaqueros', ]
 actualPrice: 40.37 EUR
 currency: EUR

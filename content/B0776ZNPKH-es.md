@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776ZNPKH-es Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3...'
+sku: 'B0776ZNPKH-es'
 tags: [ 'camiseta', ]
 actualPrice: 36.99 EUR
 currency: EUR

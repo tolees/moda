@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM2LTCL-es Tommy Hilfiger TJM Straight Small Logo Hoodie Jersey de...'
+sku: 'B07RM2LTCL-es'
 tags: [ 'jersey', ]
 actualPrice: 59.95 EUR
 currency: EUR

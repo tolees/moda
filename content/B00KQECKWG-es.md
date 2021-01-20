@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KQECKWG-es Birkenstock Gizeh Eva - Sandalias unisex Negro Black 38'
+sku: 'B00KQECKWG-es'
 tags: [ 'sandalias', ]
 actualPrice: 30 EUR
 currency: EUR

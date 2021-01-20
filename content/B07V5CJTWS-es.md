@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5CJTWS-es Titular de pasaporte minimalista xperg Billetera de viaje...'
+sku: 'B07V5CJTWS-es'
 tags: [ 'billetera', ]
 actualPrice: 19.99 EUR
 currency: EUR

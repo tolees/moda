@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6KZCHB-es Fall Out Boy - Camiseta Modelo Mania para Adultos Unisex L...'
+sku: 'B07S6KZCHB-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.7 EUR
 currency: EUR

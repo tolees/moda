@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBL7RXV-es SISMIURRA Colgante de Hoja chapada en Oro Blanco Collar de...'
+sku: 'B07RBL7RXV-es'
 tags: [ 'collar', ]
 actualPrice: 9.17 EUR
 currency: EUR

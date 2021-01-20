@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQ2DYQV-es Clarks - Botines de Cuero Hombre Color Gris Talla 44.5 EU'
+sku: 'B07MQ2DYQV-es'
 tags: [ 'botines', ]
 actualPrice: 90.95 EUR
 currency: EUR

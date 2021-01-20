@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JWHPCG-es Amazon Essentials Hooded Fleece Sweatshirt Sudadera Verde...'
+sku: 'B075JWHPCG-es'
 tags: [ 'sudadera', ]
 actualPrice: 16.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074BZNLCV-es Pepe Jeans Hatch Vaqueros Slim para Hombre Negro Denim...'
+sku: 'B074BZNLCV-es'
 tags: [ 'vaqueros', ]
 actualPrice: 45.99 EUR
 currency: EUR

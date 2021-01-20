@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792DXXMK-es Geox U NORWOLK B Botas Chukka para Hombre Negro Black...'
+sku: 'B0792DXXMK-es'
 tags: [ 'geox', ]
 actualPrice: 64.95 EUR
 currency: EUR

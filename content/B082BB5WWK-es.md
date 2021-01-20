@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BB5WWK-es Geographical Norway Chaqueta Softshell Hombre Tyreek'
+sku: 'B082BB5WWK-es'
 tags: [ 'chaqueta', ]
 actualPrice: 69.3 EUR
 currency: EUR

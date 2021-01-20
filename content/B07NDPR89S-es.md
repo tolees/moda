@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPR89S-es G-STAR RAW Core Super Slim Camisa Vaquera Multicolor...'
+sku: 'B07NDPR89S-es'
 tags: [ 'camisa', ]
 actualPrice: 14.35 EUR
 currency: EUR

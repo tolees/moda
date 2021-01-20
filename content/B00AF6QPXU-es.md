@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AF6QPXU-es Helly Hansen Seven J Chaqueta impermeable con forro de...'
+sku: 'B00AF6QPXU-es'
 tags: [ 'chaqueta', ]
 actualPrice: 54.67 EUR
 currency: EUR

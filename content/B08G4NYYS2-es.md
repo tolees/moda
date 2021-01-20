@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G4NYYS2-es UCAYALI Zapatos de Trabajo Unisex Adulto Azul/Negro Talla 44'
+sku: 'B08G4NYYS2-es'
 tags: [ 'zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR

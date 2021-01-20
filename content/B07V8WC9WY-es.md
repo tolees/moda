@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8WC9WY-es JACK & JONES Jprwetford Parka STS Negro Black Black Large...'
+sku: 'B07V8WC9WY-es'
 tags: [ 'parka', ]
 actualPrice: 42.99 EUR
 currency: EUR

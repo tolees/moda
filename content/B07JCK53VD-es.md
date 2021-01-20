@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCK53VD-es Columbia Alpine Action Chaqueta OH Ski de esquí Mujer Azul...'
+sku: 'B07JCK53VD-es'
 tags: [ 'chaqueta', ]
 actualPrice: 100.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VJSPF6-es Clarks Un Aldric Cap Zapatos de Cordones Derby para Hombre...'
+sku: 'B079VJSPF6-es'
 tags: [ 'zapatos', ]
 actualPrice: 66.91 EUR
 currency: EUR

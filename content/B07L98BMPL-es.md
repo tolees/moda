@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L98BMPL-es Under Armour Storm Launch Jacket 2.0 Chaqueta Hombre Negro LG'
+sku: 'B07L98BMPL-es'
 tags: [ 'chaqueta', ]
 actualPrice: 33.49 EUR
 currency: EUR

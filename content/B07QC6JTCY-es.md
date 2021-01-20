@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QC6JTCY-es BOYOU gafas de sol polarizadas de los hombres gafas de sol...'
+sku: 'B07QC6JTCY-es'
 tags: [ 'gafas', ]
 actualPrice: 21.98 EUR
 currency: EUR

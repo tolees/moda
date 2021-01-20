@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MA5RXQW-es Wrangler Straight Vaqueros para Mujer Azul Best Blue 94O...'
+sku: 'B01MA5RXQW-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVG2VB-es Napapijri SIBU Camiseta Azul BLU Marine 176 M para Hombre'
+sku: 'B07MQVG2VB-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.5 EUR
 currency: EUR

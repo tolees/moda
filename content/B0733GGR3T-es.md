@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0733GGR3T-es find. Sudadera con Capucha Hombre Gris Charcoal Marl Small'
+sku: 'B0733GGR3T-es'
 tags: [ 'sudadera', ]
 actualPrice: 7.5 EUR
 currency: EUR

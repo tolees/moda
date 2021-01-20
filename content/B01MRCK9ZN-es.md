@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRCK9ZN-es Nike Court Borough Low PSV Zapatos de Baloncesto para...'
+sku: 'B01MRCK9ZN-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.0 EUR
 currency: EUR

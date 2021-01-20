@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKKNWYB-es Superdry OL Low Roller tee Camiseta Azul Rich Navy Adq S...'
+sku: 'B07TKKNWYB-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.51 EUR
 currency: EUR

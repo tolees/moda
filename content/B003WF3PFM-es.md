@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WF3PFM-es Havaianas Top Chanclas Unisex Adulto Azul Marine Blue...'
+sku: 'B003WF3PFM-es'
 tags: [ 'chanclas', ]
 actualPrice: 10.43 EUR
 currency: EUR

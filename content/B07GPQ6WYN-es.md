@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPQ6WYN-es JOGVELO Maillot Ciclismo Ropa Ciclismo Conjunto Hombre...'
+sku: 'B07GPQ6WYN-es'
 tags: [ 'jersey', ]
 actualPrice: 38.99 EUR
 currency: EUR

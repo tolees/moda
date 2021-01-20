@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813BCNJH-es ZIGJOY GOT7 Sudadera Gruesa y Aterciopelada con Cremallera...'
+sku: 'B0813BCNJH-es'
 tags: [ 'sudadera', ]
 actualPrice: 17.99 EUR
 currency: EUR

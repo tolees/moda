@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FLR2NIE-es hummel HUMMEL SLIMMER STADIL LOW - Zapatos de caña baja de...'
+sku: 'B00FLR2NIE-es'
 tags: [ 'zapatos', ]
 actualPrice: 17.36 EUR
 currency: EUR

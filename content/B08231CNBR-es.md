@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08231CNBR-es Charles Wilson Pantalón Deportivo Polar Mezcla de Algodón...'
+sku: 'B08231CNBR-es'
 tags: [ 'pantalón', ]
 actualPrice: 13.95 EUR
 currency: EUR

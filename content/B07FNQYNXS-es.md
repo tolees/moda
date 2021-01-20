@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNQYNXS-es Lacoste TH6709 Camiseta para Hombre Azul Electrique Z7z...'
+sku: 'B07FNQYNXS-es'
 tags: [ 'camiseta', ]
 actualPrice: 35.95 EUR
 currency: EUR

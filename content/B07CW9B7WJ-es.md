@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CW9B7WJ-es Socluer Bikini Tankini de Mujer Bikini Push up de Playa de...'
+sku: 'B07CW9B7WJ-es'
 tags: [ 'bikini', ]
 actualPrice: 16.88 EUR
 currency: EUR

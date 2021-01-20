@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTKG12X-es Lee Brooklyn Vaqueros Straight Azul Dark Stone Xg 32W /...'
+sku: 'B07FTKG12X-es'
 tags: [ 'vaqueros', ]
 actualPrice: 41.31 EUR
 currency: EUR

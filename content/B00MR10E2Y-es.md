@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MR10E2Y-es G-Star 60885 Vaqueros para Mujer Negro Dark Aged 6545 W24/L30'
+sku: 'B00MR10E2Y-es'
 tags: [ 'vaqueros', ]
 actualPrice: 60.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTMLWVH-es Columbia 1420421 Chaqueta Forro Polar Hombre Rojo Red...'
+sku: 'B07QTMLWVH-es'
 tags: [ 'chaqueta', ]
 actualPrice: 30.99 EUR
 currency: EUR

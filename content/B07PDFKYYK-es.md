@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDFKYYK-es Tous New Essence Bolso bandolera para Mujer Multicolor...'
+sku: 'B07PDFKYYK-es'
 tags: [ 'bolso', ]
 actualPrice: 71.4 EUR
 currency: EUR

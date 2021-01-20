@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NB53QK-es Panama Jack Salton Basics Sandalias con Punta Abierta para...'
+sku: 'B071NB53QK-es'
 tags: [ 'sandalias', ]
 actualPrice: 32.95 EUR
 currency: EUR

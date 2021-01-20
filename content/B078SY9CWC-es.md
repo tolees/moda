@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SY9CWC-es Timberland Gateway Pier Casual Zapatos de Cordones Oxford...'
+sku: 'B078SY9CWC-es'
 tags: [ 'timberland','zapatos', ]
 actualPrice: 45.0 EUR
 currency: EUR

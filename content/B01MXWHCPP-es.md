@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXWHCPP-es find. Falda Mini de Rayas para Mujer Negro Black/white...'
+sku: 'B01MXWHCPP-es'
 tags: [ 'falda', ]
 actualPrice: 12.05 EUR
 currency: EUR

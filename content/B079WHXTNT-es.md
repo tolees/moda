@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079WHXTNT-es Pepe Jeans Hatch Vaqueros Slim para Hombre Azul Wiser Wash...'
+sku: 'B079WHXTNT-es'
 tags: [ 'vaqueros', ]
 actualPrice: 63.75 EUR
 currency: EUR

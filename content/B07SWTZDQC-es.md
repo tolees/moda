@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTZDQC-es Geox D Jaysen A Zapatillas para Mujer Azul Blue C4000 37 EU'
+sku: 'B07SWTZDQC-es'
 tags: [ 'geox', ]
 actualPrice: 38.3 EUR
 currency: EUR

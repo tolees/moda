@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6PNHG0-es Kappa Fredo Pantalón Corto Hombre Verde YS'
+sku: 'B01N6PNHG0-es'
 tags: [ 'pantalón', ]
 actualPrice: 8.74 EUR
 currency: EUR

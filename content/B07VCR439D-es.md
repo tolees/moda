@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCR439D-es Marcadores textiles RATEL 24 colores Marcadores de tela y...'
+sku: 'B07VCR439D-es'
 tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR

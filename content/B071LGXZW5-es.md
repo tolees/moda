@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LGXZW5-es Under Armour UA Tag tee Camiseta de Manga Corta Hombre...'
+sku: 'B071LGXZW5-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.09 EUR
 currency: EUR

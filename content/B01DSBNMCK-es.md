@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DSBNMCK-es Minions - Camiseta de Manga Corta - para niño Azul Azul'
+sku: 'B01DSBNMCK-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.85 EUR
 currency: EUR

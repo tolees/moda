@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKGVKPB-es Hackett London Amr Wings tee Camiseta Naranja 158flame...'
+sku: 'B07VKGVKPB-es'
 tags: [ 'camiseta', ]
 actualPrice: 26.95 EUR
 currency: EUR

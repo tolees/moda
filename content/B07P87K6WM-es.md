@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P87K6WM-es JACK & JONES Jcofin Shirt LS Plain Camisa Multicolor Blue...'
+sku: 'B07P87K6WM-es'
 tags: [ 'camisa', ]
 actualPrice: 10.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZS8D7Q-es GANT The Oxford Shirt Reg BD Camisa Rojo Light Pink 662...'
+sku: 'B073ZS8D7Q-es'
 tags: [ 'camisa', ]
 actualPrice: 67.45 EUR
 currency: EUR

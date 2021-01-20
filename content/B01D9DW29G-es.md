@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D9DW29G-es Khanomak - Camiseta - para Mujer Negro Negro S'
+sku: 'B01D9DW29G-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.99 EUR
 currency: EUR

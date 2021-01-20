@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772FLCKN-es Marca Amazon - MERAKI Pantalón Cortos Chinos Hombre gris...'
+sku: 'B0772FLCKN-es'
 tags: [ 'meraki','pantalón', ]
 actualPrice: 7.64 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C62RKWB-es JACK & JONES Jjegingham Shirt L/s Camisa Multicolor Port...'
+sku: 'B07C62RKWB-es'
 tags: [ 'camisa', ]
 actualPrice: 20.99 EUR
 currency: EUR

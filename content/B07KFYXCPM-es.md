@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYXCPM-es PUMA Rise XT 3 Zapatos de Futsal Unisex Adulto Black-...'
+sku: 'B07KFYXCPM-es'
 tags: [ 'zapatos', ]
 actualPrice: 33.17 EUR
 currency: EUR

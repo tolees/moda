@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08832TBDV-es Dragon Ball T-Shirts 3D Impresión Camisetas de Manga Corta...'
+sku: 'B08832TBDV-es'
 tags: [ 'camisa', ]
 actualPrice: 7.99 EUR
 currency: EUR

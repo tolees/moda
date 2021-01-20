@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFMH1J9-es Levi s HR Decon Iconic BF Skirt Falda Blanco Pearly White...'
+sku: 'B07LFMH1J9-es'
 tags: [ 'falda', ]
 actualPrice: 32.5 EUR
 currency: EUR

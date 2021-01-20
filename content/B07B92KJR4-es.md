@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B92KJR4-es Clarks Dalia Rose Zapatos de Tacón para Mujer Beige Nude...'
+sku: 'B07B92KJR4-es'
 tags: [ 'zapatos', ]
 actualPrice: 53.86 EUR
 currency: EUR

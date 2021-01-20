@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFZ26CF-es DC Comics Aquaman Logo Camiseta Negro Black Blk Small para...'
+sku: 'B07RFZ26CF-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.92 EUR
 currency: EUR

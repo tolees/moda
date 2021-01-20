@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RL2SLCG-es Tommy Hilfiger TJM Round Back Logo tee Camiseta Deporte...'
+sku: 'B07RL2SLCG-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.65 EUR
 currency: EUR

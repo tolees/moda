@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K2RLBDA-es Antony Morato Camicia Basica Abbottonatura A Vista Camisa...'
+sku: 'B01K2RLBDA-es'
 tags: [ 'camisa', ]
 actualPrice: 32.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW4RH6N-es AOQUSSQOA Abdomen de Las Mujeres Tankini Traje de baño de...'
+sku: 'B07KW4RH6N-es'
 tags: [ 'falda', ]
 actualPrice: 21.99 EUR
 currency: EUR

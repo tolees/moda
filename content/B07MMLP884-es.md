@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLP884-es Napapijri Aerons Hood 1 Chaqueta Verde Green Forest 2 Ge3...'
+sku: 'B07MMLP884-es'
 tags: [ 'chaqueta', ]
 actualPrice: 99.5 EUR
 currency: EUR

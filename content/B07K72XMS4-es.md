@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K72XMS4-es Levi s Original Hm tee Camiseta Azul LS Cotton + Patch...'
+sku: 'B07K72XMS4-es'
 tags: [ 'camiseta', ]
 actualPrice: 22.75 EUR
 currency: EUR

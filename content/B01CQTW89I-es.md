@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQTW89I-es Glop Games- Princesa Disney muñeca Vaiana Detalle. Fíjate...'
+sku: 'B01CQTW89I-es'
 tags: [ 'vestido', ]
 actualPrice: 19.49 EUR
 currency: EUR

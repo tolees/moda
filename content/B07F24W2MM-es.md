@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F24W2MM-es Levi s Plus Size 311 Pl Shaping Skinny Vaqueros 4X Stretch...'
+sku: 'B07F24W2MM-es'
 tags: [ 'vaqueros', ]
 actualPrice: 47.86 EUR
 currency: EUR

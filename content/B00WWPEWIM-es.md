@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WWPEWIM-es Jack & Jones Sense Trunks 3-Pack Bóxer Blanco X-Large Pack...'
+sku: 'B00WWPEWIM-es'
 tags: [ 'bóxer', ]
 actualPrice: 16.99 EUR
 currency: EUR

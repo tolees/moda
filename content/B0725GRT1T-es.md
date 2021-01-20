@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0725GRT1T-es JACK & JONES Jjimike Jjorg Jos 097 ID.k Lid Noos...'
+sku: 'B0725GRT1T-es'
 tags: [ 'vaqueros', ]
 actualPrice: 42.99 EUR
 currency: EUR

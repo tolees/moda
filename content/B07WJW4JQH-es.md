@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJW4JQH-es Jack & Jones JCOBOOSTER tee SS Crew Neck Oct 19 Camiseta...'
+sku: 'B07WJW4JQH-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.63 EUR
 currency: EUR

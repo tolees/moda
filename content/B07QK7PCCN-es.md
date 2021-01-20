@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QK7PCCN-es MTNG Collection 58662 Botines para Mujer Marrón Vintage...'
+sku: 'B07QK7PCCN-es'
 tags: [ 'botines', ]
 actualPrice: 36.22 EUR
 currency: EUR

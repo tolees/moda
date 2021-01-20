@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074WM3N4T-es find. Pantalón de Traje Ajustado Hombre Verde Teal W32/L31'
+sku: 'B074WM3N4T-es'
 tags: [ 'pantalón', ]
 actualPrice: 8.4 EUR
 currency: EUR

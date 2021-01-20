@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBYV752-es Morgan 192-jelini.n Falda Morado Marine Marine 42 Talla...'
+sku: 'B07PBYV752-es'
 tags: [ 'falda', ]
 actualPrice: 13.76 EUR
 currency: EUR

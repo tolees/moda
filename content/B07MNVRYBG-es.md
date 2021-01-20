@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNVRYBG-es Vicloon 9Pcs Princesa Vestir Accesorios Regalo Conjunto de...'
+sku: 'B07MNVRYBG-es'
 tags: [ 'collar','guantes', ]
 actualPrice: 8.59 EUR
 currency: EUR

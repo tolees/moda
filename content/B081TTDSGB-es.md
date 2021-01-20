@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TTDSGB-es adidas Cropped Hood Sudadera Mujer Rojo Trace Scarlet s18/...'
+sku: 'B081TTDSGB-es'
 tags: [ 'sudadera', ]
 actualPrice: 17.99 EUR
 currency: EUR

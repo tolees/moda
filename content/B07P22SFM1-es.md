@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P22SFM1-es Dickies Gapville Chaqueta Negro XX-Large Talla del...'
+sku: 'B07P22SFM1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 27.21 EUR
 currency: EUR

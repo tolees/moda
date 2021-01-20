@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4K24LV-es Lenny Sky EG.jap.psh Pijama Gris Gris Chine Gris Chine 10...'
+sku: 'B07W4K24LV-es'
 tags: [ 'pijama', ]
 actualPrice: 13.66 EUR
 currency: EUR

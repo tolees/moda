@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7XTK1Z-es Tommy Hilfiger Nautical TH Lace Up Espadrille Zapatos de...'
+sku: 'B07V7XTK1Z-es'
 tags: [ 'zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYPZDC-es Under Armour UA Jet Zapatos de Deporte para Hombre Negro...'
+sku: 'B07PYYPZDC-es'
 tags: [ 'zapatos', ]
 actualPrice: 40.22 EUR
 currency: EUR

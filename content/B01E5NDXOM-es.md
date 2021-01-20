@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E5NDXOM-es Joma Combi s/m Camiseta Técnica sin Manga Unisex Rojo L'
+sku: 'B01E5NDXOM-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKML7ZP-es Hackett London Amr Tape LS Polo Camisa Manga Larga Blanco...'
+sku: 'B07VKML7ZP-es'
 tags: [ 'camisa', ]
 actualPrice: 43.34 EUR
 currency: EUR

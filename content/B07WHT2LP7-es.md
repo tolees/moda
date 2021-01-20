@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHT2LP7-es Vans VN0A3I6C - Billetera de Sintético hombre Rojo Rojo...'
+sku: 'B07WHT2LP7-es'
 tags: [ 'billetera', ]
 actualPrice: 15 EUR
 currency: EUR

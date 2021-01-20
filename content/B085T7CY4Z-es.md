@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085T7CY4Z-es LIVACASA Riñoneras Mujeres Deportivas Riñoneras de Moda...'
+sku: 'B085T7CY4Z-es'
 tags: [ 'moda', ]
 actualPrice: 9.99 EUR
 currency: EUR

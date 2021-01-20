@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLNKJGZ-es ARTESANIA CERDA BOLSO RIÑONERA BATMAN Gris'
+sku: 'B07NLNKJGZ-es'
 tags: [ 'bolso', ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVV33W4-es Maglev Essentials Damen T-Shirt Mit V-Ausschnitt 5er-Pack...'
+sku: 'B07PVV33W4-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.77 EUR
 currency: EUR

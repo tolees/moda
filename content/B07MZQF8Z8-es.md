@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQF8Z8-es Pepe Jeans Josephs Camiseta Grey Marl 933 Medium para Hombre'
+sku: 'B07MZQF8Z8-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.49 EUR
 currency: EUR

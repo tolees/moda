@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4Y4LDK-es Columbia Flash Forward Chaqueta cortavientos Mujer Rosa...'
+sku: 'B07R4Y4LDK-es'
 tags: [ 'chaqueta', ]
 actualPrice: 20.99 EUR
 currency: EUR

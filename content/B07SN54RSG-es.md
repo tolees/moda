@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN54RSG-es G-Star Sp15046 Sweat Sudadera Azul Royal Blue 45 12 años...'
+sku: 'B07SN54RSG-es'
 tags: [ 'sudadera', ]
 actualPrice: 25.03 EUR
 currency: EUR

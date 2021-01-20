@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH1PMVZ-es The North Face Quest Print Jacket Chaqueta Estampada para...'
+sku: 'B07LH1PMVZ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 65.0 EUR
 currency: EUR

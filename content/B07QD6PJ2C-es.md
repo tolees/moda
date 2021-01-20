@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD6PJ2C-es PUMA Reactive Reversible Jacket Chaqueta De Entrenamiento...'
+sku: 'B07QD6PJ2C-es'
 tags: [ 'chaqueta', ]
 actualPrice: 40.5 EUR
 currency: EUR

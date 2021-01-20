@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZLWHWK-es Under Armour UA Heatgear Racer Camiseta Mujer Naranja...'
+sku: 'B07CZLWHWK-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.97 EUR
 currency: EUR

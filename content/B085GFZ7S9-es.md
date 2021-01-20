@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085GFZ7S9-es Superdry Hombre Chaqueta degradada Power Lima/Turquesa XXL'
+sku: 'B085GFZ7S9-es'
 tags: [ 'chaqueta', ]
 actualPrice: 84.98 EUR
 currency: EUR

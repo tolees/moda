@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GB71NK-es Tommy Hilfiger Bikini Culotte Gris Grey Heather 004 Large...'
+sku: 'B078GB71NK-es'
 tags: [ 'bikini', ]
 actualPrice: 13.99 EUR
 currency: EUR

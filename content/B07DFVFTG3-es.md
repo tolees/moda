@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFVFTG3-es Tommy Hilfiger Lightly Lined Demi Sujetador para Camiseta...'
+sku: 'B07DFVFTG3-es'
 tags: [ 'camiseta', ]
 actualPrice: 26.99 EUR
 currency: EUR

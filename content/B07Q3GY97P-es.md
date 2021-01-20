@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3GY97P-es Dockers by Gerli 43ln201 Botines para Mujer Marrón Braun...'
+sku: 'B07Q3GY97P-es'
 tags: [ 'botines', ]
 actualPrice: 18.31 EUR
 currency: EUR

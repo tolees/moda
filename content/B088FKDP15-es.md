@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FKDP15-es Oihxse Funda con Sony Xperia 10 Cuero PU Billetera Cierre...'
+sku: 'B088FKDP15-es'
 tags: [ 'billetera', ]
 actualPrice: 9.98 EUR
 currency: EUR

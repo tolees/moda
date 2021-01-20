@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SGT62R-es Polaroid PLD 4066/S Gafas de sol Marrón DKHAVANA 57 Unisex...'
+sku: 'B079SGT62R-es'
 tags: [ 'gafas', ]
 actualPrice: 25.1 EUR
 currency: EUR

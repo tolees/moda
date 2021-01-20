@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7P63ZG-es SISMIURRA Ajustable Collar Mujer Grabado Plata de Ley 925...'
+sku: 'B07R7P63ZG-es'
 tags: [ 'collar', ]
 actualPrice: 6.99 EUR
 currency: EUR

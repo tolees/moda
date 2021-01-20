@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y8KL2N-es Sylvie Flirty Swimwear Brix Parte de Arriba de Bikini para...'
+sku: 'B077Y8KL2N-es'
 tags: [ 'bikini', ]
 actualPrice: 5.91 EUR
 currency: EUR

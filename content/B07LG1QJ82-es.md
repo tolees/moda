@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG1QJ82-es Geox J HADRIEL Girl A Zapatillas Altas para Niñas Gris Dk...'
+sku: 'B07LG1QJ82-es'
 tags: [ 'geox', ]
 actualPrice: 38.4 EUR
 currency: EUR

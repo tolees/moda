@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND6JBH7-es Dockers Laundered Poplin Shirt Camisa Azul Prater Light...'
+sku: 'B07ND6JBH7-es'
 tags: [ 'camisa', ]
 actualPrice: 11.8 EUR
 currency: EUR

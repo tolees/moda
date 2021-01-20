@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDGRM18-es Superdry Orange Label Vntge Emb S/S tee Camiseta Azul...'
+sku: 'B07FDGRM18-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR

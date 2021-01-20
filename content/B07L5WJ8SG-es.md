@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5WJ8SG-es Regatta Cline III Coolweave Crew Neck Graphic Camiseta...'
+sku: 'B07L5WJ8SG-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.7 EUR
 currency: EUR

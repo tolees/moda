@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDYXSWW-es Marca Amazon - find. Casual Suede Ankle Botines Naranja...'
+sku: 'B07RDYXSWW-es'
 tags: [ 'botines','-','find.', ]
 actualPrice: 11.13 EUR
 currency: EUR

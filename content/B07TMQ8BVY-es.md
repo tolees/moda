@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMQ8BVY-es HAWKERS - Gafas de sol para hombre y mujer ONE Negro/Rosa'
+sku: 'B07TMQ8BVY-es'
 tags: [ 'gafas', ]
 actualPrice: 24.39 EUR
 currency: EUR

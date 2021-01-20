@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S62M3NK-es Fruit of the Loom Valueweight tee 3 Pack Camiseta...'
+sku: 'B07S62M3NK-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.47 EUR
 currency: EUR

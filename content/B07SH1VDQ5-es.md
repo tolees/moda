@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SH1VDQ5-es Levi s June L Chanclas para Hombre Rojo R Red 87 40 EU'
+sku: 'B07SH1VDQ5-es'
 tags: [ 'chanclas', ]
 actualPrice: 16.49 EUR
 currency: EUR

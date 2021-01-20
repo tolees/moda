@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKT6F6G-es Marca Amazon - find. Vaqueros Ceñidos con Bajo Elástico...'
+sku: 'B07VKT6F6G-es'
 tags: [ 'vaqueros','-','find.', ]
 actualPrice: 10.17 EUR
 currency: EUR

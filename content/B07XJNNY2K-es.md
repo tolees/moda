@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJNNY2K-es JACK & JONES Jorrafael tee SS Crew Neck Camiseta Rojo...'
+sku: 'B07XJNNY2K-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.27 EUR
 currency: EUR

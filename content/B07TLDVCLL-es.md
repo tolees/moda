@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLDVCLL-es FM London Fitted Boxer Azul Dark Assorted 03 Medium Pack...'
+sku: 'B07TLDVCLL-es'
 tags: [ 'boxer', ]
 actualPrice: 19.99 EUR
 currency: EUR

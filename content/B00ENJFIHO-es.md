@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ENJFIHO-es Nueva OU falda plisada para niñas con cintura elástica de...'
+sku: 'B00ENJFIHO-es'
 tags: [ 'falda', ]
 actualPrice: 1.78 EUR
 currency: EUR

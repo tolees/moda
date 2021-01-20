@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFBT3HY-es Kickers Home Zapatos de Cordones Derby para Mujer Negro...'
+sku: 'B07MFBT3HY-es'
 tags: [ 'zapatos', ]
 actualPrice: 16.48 EUR
 currency: EUR

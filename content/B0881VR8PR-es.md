@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881VR8PR-es WeciBor Calcetines cortos Mujer Estampados Mujer...'
+sku: 'B0881VR8PR-es'
 tags: [ 'moda', ]
 actualPrice: 12.99 EUR
 currency: EUR

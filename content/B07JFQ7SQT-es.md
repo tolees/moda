@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFQ7SQT-es Lacoste Ch9623 Camisa Gris Nimbus/Nimbus 7fp Medium Talla...'
+sku: 'B07JFQ7SQT-es'
 tags: [ 'camisa', ]
 actualPrice: 73.98 EUR
 currency: EUR

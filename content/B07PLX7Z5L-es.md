@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLX7Z5L-es Ogquaton Calidad superior 4 piezas Moda Zircon Crystal Cat...'
+sku: 'B07PLX7Z5L-es'
 tags: [ 'collar','moda', ]
 actualPrice: 2.25 EUR
 currency: EUR

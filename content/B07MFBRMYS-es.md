@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFBRMYS-es Kickers Oxfork Zapatos de Cordones Derby para Mujer Negro...'
+sku: 'B07MFBRMYS-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.98 EUR
 currency: EUR

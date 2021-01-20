@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NGYM2R-es find. Sudadera Mujer Verde Green 36 Talla del fabricante:...'
+sku: 'B077NGYM2R-es'
 tags: [ 'sudadera', ]
 actualPrice: 8.4 EUR
 currency: EUR

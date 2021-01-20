@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ8Z5X4-es Jack & Jones JJIMARCO JJBOWIE SA White Pepper STS Pantalón...'
+sku: 'B07MZ8Z5X4-es'
 tags: [ 'pantalón', ]
 actualPrice: 15.99 EUR
 currency: EUR

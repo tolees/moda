@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSJWLTD-es Peak Velocity - Sudadera con capucha con cremallera...'
+sku: 'B07FSJWLTD-es'
 tags: [ 'sudadera', ]
 actualPrice: 24 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBZMD5M-es Marca Amazon - Iris & Lilly Bralette de Rejilla Mujer Rojo...'
+sku: 'B07VBZMD5M-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 8.61 EUR
 currency: EUR

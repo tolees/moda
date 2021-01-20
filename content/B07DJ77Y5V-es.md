@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ77Y5V-es Geox Uomo Sandal Strada A Sandalias con Punta Abierta para...'
+sku: 'B07DJ77Y5V-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 44.3 EUR
 currency: EUR

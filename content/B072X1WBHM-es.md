@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072X1WBHM-es Columbia Chaqueta Impermeable para Mujer Largo Medio...'
+sku: 'B072X1WBHM-es'
 tags: [ 'chaqueta', ]
 actualPrice: 59.04 EUR
 currency: EUR

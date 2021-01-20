@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L11RPCF-es Under Armour Woven Graphic Short Pantalón Corto Hombre...'
+sku: 'B07L11RPCF-es'
 tags: [ 'pantalón', ]
 actualPrice: 9.92 EUR
 currency: EUR

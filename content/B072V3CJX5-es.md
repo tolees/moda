@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072V3CJX5-es Lifewit Bolsa Térmica Porta Alimentos con Paquete de Hielo...'
+sku: 'B072V3CJX5-es'
 tags: [ 'bolso', ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLCMZG1-es Marca Amazon - TRUTH & FABLE Vestido Midi Cruzado de Gasa...'
+sku: 'B07NLCMZG1-es'
 tags: [ 'vestido', ]
 actualPrice: 33.6 EUR
 currency: EUR

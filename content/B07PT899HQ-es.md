@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT899HQ-es Under Armour Camo Boxed Logo Camisa Manga Corta Hombre...'
+sku: 'B07PT899HQ-es'
 tags: [ 'camisa', ]
 actualPrice: 13.49 EUR
 currency: EUR

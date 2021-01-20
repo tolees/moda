@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007RNRII0-es Speedo 8082108137 Gafas de Natación Unisex Negro Cromo...'
+sku: 'B007RNRII0-es'
 tags: [ 'gafas', ]
 actualPrice: 39.99 EUR
 currency: EUR

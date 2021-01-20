@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781ZBGYX-es Helly Hansen Lifaloft Ligera Chaqueta Aislante Mujer Black S'
+sku: 'B0781ZBGYX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 56.38 EUR
 currency: EUR

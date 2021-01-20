@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGTTM3N-es adidas Bolso Weekend 1.9 2019 Gris Adultos unisex...'
+sku: 'B07NGTTM3N-es'
 tags: [ 'bolso', ]
 actualPrice: 29.45 EUR
 currency: EUR

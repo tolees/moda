@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CCJHZWX-es Jack & Jones Jjegingham Shirt L/s Camisa Multicolor Brick...'
+sku: 'B07CCJHZWX-es'
 tags: [ 'camisa', ]
 actualPrice: 17.99 EUR
 currency: EUR

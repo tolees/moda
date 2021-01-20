@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJHHMPW-es G-STAR RAW Revend Skinny Vaqueros Rinsed 8970-082 29W /...'
+sku: 'B07BJHHMPW-es'
 tags: [ 'vaqueros', ]
 actualPrice: 43.1 EUR
 currency: EUR

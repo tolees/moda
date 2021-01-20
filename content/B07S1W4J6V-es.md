@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1W4J6V-es LEGO Cm Ninjago Sudadera Verde Lime Green 810 104 para Niños'
+sku: 'B07S1W4J6V-es'
 tags: [ 'sudadera', ]
 actualPrice: 12.57 EUR
 currency: EUR

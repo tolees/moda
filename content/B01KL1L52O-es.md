@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KL1L52O-es Timberland Killington Chukka Zapatillas Altas para Hombre...'
+sku: 'B01KL1L52O-es'
 tags: [ 'timberland', ]
 actualPrice: 85.03 EUR
 currency: EUR

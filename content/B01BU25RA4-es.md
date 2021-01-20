@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BU25RA4-es Kempa Peak Training Jersey de Entrenamiento Hombre Azul...'
+sku: 'B01BU25RA4-es'
 tags: [ 'jersey', ]
 actualPrice: 25.99 EUR
 currency: EUR

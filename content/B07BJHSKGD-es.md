@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJHSKGD-es G-STAR RAW 3301 High Waist Skinny Vaqueros Azul Medium...'
+sku: 'B07BJHSKGD-es'
 tags: [ 'vaqueros', ]
 actualPrice: 31.97 EUR
 currency: EUR

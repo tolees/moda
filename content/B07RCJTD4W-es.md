@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCJTD4W-es JACK & JONES Jorretrovibe tee SS Crew Neck Camiseta...'
+sku: 'B07RCJTD4W-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.45 EUR
 currency: EUR

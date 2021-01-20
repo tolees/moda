@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2XCHY-es Geox U New Life B Zapatos de Cordones Derby para Hombre...'
+sku: 'B07DJ2XCHY-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 72.5 EUR
 currency: EUR

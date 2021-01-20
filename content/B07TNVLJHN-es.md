@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNVLJHN-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Rosa Pink...'
+sku: 'B07TNVLJHN-es'
 tags: [ 'zapatos', ]
 actualPrice: 29.5 EUR
 currency: EUR

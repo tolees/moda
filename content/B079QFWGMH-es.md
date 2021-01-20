@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079QFWGMH-es Levi s 502 Regular Taper Vaqueros Azul Stonewash 95978...'
+sku: 'B079QFWGMH-es'
 tags: [ 'vaqueros', ]
 actualPrice: 40.22 EUR
 currency: EUR

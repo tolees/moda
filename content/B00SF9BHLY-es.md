@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SF9BHLY-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Medium Aged...'
+sku: 'B00SF9BHLY-es'
 tags: [ 'vaqueros', ]
 actualPrice: 64.49 EUR
 currency: EUR

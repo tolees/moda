@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5ST9NB-es Tommy Hilfiger Brooklyn Short Light Twill Vaqueros Primary...'
+sku: 'B07W5ST9NB-es'
 tags: [ 'vaqueros', ]
 actualPrice: 27.47 EUR
 currency: EUR

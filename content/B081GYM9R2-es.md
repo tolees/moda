@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GYM9R2-es Mujer Zapatillas Deporte para Zapatillas de Ligeras...'
+sku: 'B081GYM9R2-es'
 tags: [ 'zapatos', ]
 actualPrice: 33.88 EUR
 currency: EUR

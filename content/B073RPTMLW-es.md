@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPTMLW-es Helly Hansen Logo Hoodie Sudadera con Capucha Hombre Gris M'
+sku: 'B073RPTMLW-es'
 tags: [ 'sudadera', ]
 actualPrice: 45.0 EUR
 currency: EUR

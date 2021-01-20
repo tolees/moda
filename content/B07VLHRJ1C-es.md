@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLHRJ1C-es Calvin Klein 3pk Braguita de Bikini Negro...'
+sku: 'B07VLHRJ1C-es'
 tags: [ 'bikini', ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTPR9PQ-es Charles Wilson Sudadera con Capucha de Peso Pesado Small...'
+sku: 'B07WTPR9PQ-es'
 tags: [ 'sudadera', ]
 actualPrice: 12.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WV77SV7-es Vinmori Chaleco Térmico Eléctrico Tamaño Lavable Carga USB...'
+sku: 'B07WV77SV7-es'
 tags: [ 'abrigo','chaleco', ]
 actualPrice: 25.99 EUR
 currency: EUR

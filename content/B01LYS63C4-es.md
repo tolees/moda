@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYS63C4-es Levi s Levis 200SF Vintage Stripe 0312 Boxer Brief...'
+sku: 'B01LYS63C4-es'
 tags: [ 'boxer', ]
 actualPrice: 12.5 EUR
 currency: EUR

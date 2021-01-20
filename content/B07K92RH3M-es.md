@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K92RH3M-es Crocs Crocband Zuecos con Correa Unisex Adulto Azul Bright...'
+sku: 'B07K92RH3M-es'
 tags: [ 'zuecos', ]
 actualPrice: 26.99 EUR
 currency: EUR

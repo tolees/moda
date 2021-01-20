@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XSP3YK-es Lee Clean Western Shirt Camisa Sky Captain M para Hombre'
+sku: 'B082XSP3YK-es'
 tags: [ 'camisa', ]
 actualPrice: 24.99 EUR
 currency: EUR

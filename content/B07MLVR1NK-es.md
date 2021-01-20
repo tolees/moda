@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLVR1NK-es Marca Amazon - find. Abrigo Cruzado de Lana Hombre azul...'
+sku: 'B07MLVR1NK-es'
 tags: [ 'abrigo','-','find.', ]
 actualPrice: 20.74 EUR
 currency: EUR

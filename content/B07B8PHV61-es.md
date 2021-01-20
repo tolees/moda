@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8PHV61-es Marca Amazon - IRIS & LILLY Picardías Mujer Gris Grey Grey...'
+sku: 'B07B8PHV61-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 5.25 EUR
 currency: EUR

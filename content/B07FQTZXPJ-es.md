@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQTZXPJ-es Clarks Sharon Crystal Zapatos de Cordones Derby para Mujer...'
+sku: 'B07FQTZXPJ-es'
 tags: [ 'zapatos', ]
 actualPrice: 23.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPXNTF-es Geox D Ottaya Sandal B Sandalias de Talón Abierto para...'
+sku: 'B07SVPXNTF-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 42.46 EUR
 currency: EUR

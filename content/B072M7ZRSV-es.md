@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072M7ZRSV-es Crocs Swiftwater Flip Women Zapatos de Playa y Piscina...'
+sku: 'B072M7ZRSV-es'
 tags: [ 'zapatos', ]
 actualPrice: 9.35 EUR
 currency: EUR

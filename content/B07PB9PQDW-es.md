@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PB9PQDW-es JACK & JONES Jcojordan tee SS Crew Neck Camiseta Azul...'
+sku: 'B07PB9PQDW-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.49 EUR
 currency: EUR

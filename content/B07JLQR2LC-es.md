@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLQR2LC-es Lee Scarlett Vaqueros Clean Wheaton In 28W / 35L para Mujer'
+sku: 'B07JLQR2LC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 29.81 EUR
 currency: EUR

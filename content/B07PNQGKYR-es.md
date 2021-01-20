@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNQGKYR-es LATEC Gafas de Sol Deportivas Gafas Ciclismo Polarizadas...'
+sku: 'B07PNQGKYR-es'
 tags: [ 'gafas', ]
 actualPrice: 12.79 EUR
 currency: EUR

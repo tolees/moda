@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I5EWOAM-es BENLEE Rocky Marciano T-Shirt Trägerhemd Gymnasium...'
+sku: 'B00I5EWOAM-es'
 tags: [ 'camiseta', ]
 actualPrice: 25.1 EUR
 currency: EUR

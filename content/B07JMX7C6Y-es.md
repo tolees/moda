@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMX7C6Y-es Timberland Sprint Trekker Mid Zapatillas Chukka para...'
+sku: 'B07JMX7C6Y-es'
 tags: [ 'timberland', ]
 actualPrice: 75.99 EUR
 currency: EUR

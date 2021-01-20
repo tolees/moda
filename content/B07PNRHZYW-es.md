@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNRHZYW-es CARE OF by PUMA Sudadera con capucha de forro con...'
+sku: 'B07PNRHZYW-es'
 tags: [ 'sudadera', ]
 actualPrice: 24.09 EUR
 currency: EUR

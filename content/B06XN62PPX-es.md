@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XN62PPX-es Marca Amazon - find. Top sin Mangas de Algodón Mujer Azul...'
+sku: 'B06XN62PPX-es'
 tags: [ '-','find.', ]
 actualPrice: 23.88 EUR
 currency: EUR

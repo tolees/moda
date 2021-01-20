@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VBPRLP-es Oihxse Silicona Matorral Funda Compatible con iPhone 11...'
+sku: 'B081VBPRLP-es'
 tags: [ 'moda', ]
 actualPrice: 6.98 EUR
 currency: EUR

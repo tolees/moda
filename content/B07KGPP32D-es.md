@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGPP32D-es edc by Esprit 999cc2k803 Camiseta Blanco White 100 X-Large...'
+sku: 'B07KGPP32D-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.49 EUR
 currency: EUR

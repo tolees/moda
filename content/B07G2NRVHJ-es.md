@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2NRVHJ-es AURIQUE Half Zip Sports Chaqueta Rojo Port Royale 40 Talla...'
+sku: 'B07G2NRVHJ-es'
 tags: [ 'aurique','chaqueta', ]
 actualPrice: 15 EUR
 currency: EUR

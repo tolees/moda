@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSF1MFR-es Skechers Pier Ave Sandalias de Talón Abierto para Mujer...'
+sku: 'B07TSF1MFR-es'
 tags: [ 'sandalias', ]
 actualPrice: 15.64 EUR
 currency: EUR

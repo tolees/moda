@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZXTT3W-es Under Armour Tech 2.0. Camiseta masculina camiseta...'
+sku: 'B077ZXTT3W-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.49 EUR
 currency: EUR

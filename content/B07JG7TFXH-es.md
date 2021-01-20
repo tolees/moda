@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7TFXH-es Pepe Jeans Waylon Pm305927 Camisa Indigo 561 Medium para...'
+sku: 'B07JG7TFXH-es'
 tags: [ 'camisa', ]
 actualPrice: 30.83 EUR
 currency: EUR

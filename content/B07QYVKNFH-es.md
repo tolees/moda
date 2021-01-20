@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYVKNFH-es MMTX Hawaiano Luau Falda de mesa Decoración de fiesta...'
+sku: 'B07QYVKNFH-es'
 tags: [ 'falda', ]
 actualPrice: 9.99 EUR
 currency: EUR

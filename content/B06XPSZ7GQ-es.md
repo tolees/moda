@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPSZ7GQ-es Desigual TS_Leopard Degrade Camiseta Gris Gris Medio 2007...'
+sku: 'B06XPSZ7GQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 24.58 EUR
 currency: EUR

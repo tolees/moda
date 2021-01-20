@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMZ487S-es Marca Amazon - Goodthreads - Camiseta de manga corta y...'
+sku: 'B07HMZ487S-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.83 EUR
 currency: EUR

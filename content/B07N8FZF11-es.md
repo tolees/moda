@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8FZF11-es JACK & JONES Jjialvin Jjjacket Sa 001 Noos Chaqueta de...'
+sku: 'B07N8FZF11-es'
 tags: [ 'chaqueta', ]
 actualPrice: 25.0 EUR
 currency: EUR

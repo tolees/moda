@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7DZ2V2-es Jack & Jones Jjigeorge Shirt Stretch LS Camisa Vaquera...'
+sku: 'B07V7DZ2V2-es'
 tags: [ 'camisa', ]
 actualPrice: 28.25 EUR
 currency: EUR

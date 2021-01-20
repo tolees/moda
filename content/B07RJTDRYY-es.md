@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJTDRYY-es adidas Hoops 2.0 Mid Zapatos de Baloncesto para Mujer...'
+sku: 'B07RJTDRYY-es'
 tags: [ 'zapatos', ]
 actualPrice: 32.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMND3TV-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte Azul...'
+sku: 'B07VMND3TV-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.82 EUR
 currency: EUR

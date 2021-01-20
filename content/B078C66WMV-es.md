@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078C66WMV-es Lacoste L1212 Camiseta Polo Azul Electrique 3XL Talla del...'
+sku: 'B078C66WMV-es'
 tags: [ 'camiseta', ]
 actualPrice: 58.99 EUR
 currency: EUR

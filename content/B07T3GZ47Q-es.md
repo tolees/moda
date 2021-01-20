@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3GZ47Q-es Timberland Adventure 2.0 Cupsole Modern Oxford Zapatillas...'
+sku: 'B07T3GZ47Q-es'
 tags: [ 'timberland', ]
 actualPrice: 63.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXY1PYN-es UBORSE Bolso de Fiesta Noche Moda para Mujer Embrague Hard...'
+sku: 'B07QXY1PYN-es'
 tags: [ 'billetera','bolso','moda', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SYXJL9-es Timberland Newport Bay 2 Eye Mocasines para Hombre Negro...'
+sku: 'B078SYXJL9-es'
 tags: [ 'timberland', ]
 actualPrice: 28.95 EUR
 currency: EUR

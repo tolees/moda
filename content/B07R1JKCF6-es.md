@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1JKCF6-es Bolso de Fiesta Pequeña Elegante Noche Diamantes de...'
+sku: 'B07R1JKCF6-es'
 tags: [ 'bolso','monedero', ]
 actualPrice: 24.99 EUR
 currency: EUR

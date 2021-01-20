@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746BVS9T-es Billetera Cuero Funda para Huawei P10 Lite Careynoce...'
+sku: 'B0746BVS9T-es'
 tags: [ 'billetera', ]
 actualPrice: 7.59 EUR
 currency: EUR

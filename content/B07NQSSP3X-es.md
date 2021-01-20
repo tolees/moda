@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQSSP3X-es Springfield 6Ba-Acolchada Cap Bas Chaqueta Verde Green 26...'
+sku: 'B07NQSSP3X-es'
 tags: [ 'chaqueta', ]
 actualPrice: 24.7 EUR
 currency: EUR

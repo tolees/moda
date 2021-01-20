@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJ3PSSL-es Artesania Cerda Largo AC/DC Conjuntos de pijama Gris Gris...'
+sku: 'B07XJ3PSSL-es'
 tags: [ 'pijama', ]
 actualPrice: 18.28 EUR
 currency: EUR

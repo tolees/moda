@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0SWEU7-es Antony Morato - Abrigo - para Hombre Verde XL'
+sku: 'B01M0SWEU7-es'
 tags: [ 'abrigo', ]
 actualPrice: 59 EUR
 currency: EUR

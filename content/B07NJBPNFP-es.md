@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJBPNFP-es Springfield 4.FQ. Corto Rodill Vestido Multicolor...'
+sku: 'B07NJBPNFP-es'
 tags: [ 'vestido', ]
 actualPrice: 9.86 EUR
 currency: EUR

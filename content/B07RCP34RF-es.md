@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCP34RF-es Columbia Lake 22 Chaqueta De Plumón con Capucha Mujer...'
+sku: 'B07RCP34RF-es'
 tags: [ 'chaqueta', ]
 actualPrice: 75.99 EUR
 currency: EUR

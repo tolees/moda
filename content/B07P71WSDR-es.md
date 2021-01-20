@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P71WSDR-es ziitop Aqua Shoes Escarpines Hombres Mujer Niños Zapatos...'
+sku: 'B07P71WSDR-es'
 tags: [ 'zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR

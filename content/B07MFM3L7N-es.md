@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFM3L7N-es Clarks Gilman Walk Zapatos de Cordones Derby para Hombre...'
+sku: 'B07MFM3L7N-es'
 tags: [ 'zapatos', ]
 actualPrice: 35.37 EUR
 currency: EUR

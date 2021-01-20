@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT8F4G1-es Under Armour Mk1 Warmup Po Hood Sudadera Hombre Negro XL'
+sku: 'B07PT8F4G1-es'
 tags: [ 'sudadera', ]
 actualPrice: 18.71 EUR
 currency: EUR

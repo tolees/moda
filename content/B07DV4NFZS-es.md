@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV4NFZS-es Columbia Kea II Sandalias para Mujer Negro Black Ti Grey...'
+sku: 'B07DV4NFZS-es'
 tags: [ 'sandalias', ]
 actualPrice: 18.02 EUR
 currency: EUR

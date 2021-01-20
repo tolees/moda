@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V69YPQJ-es JACK & JONES Jcovally tee SS Crew Neck Camiseta Marrón...'
+sku: 'B07V69YPQJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.18 EUR
 currency: EUR

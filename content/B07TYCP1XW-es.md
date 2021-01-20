@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYCP1XW-es Farchat Vestidos Mujer Suelto Casual de la Camiseta Cuello...'
+sku: 'B07TYCP1XW-es'
 tags: [ 'camiseta','vestido', ]
 actualPrice: 11.62 EUR
 currency: EUR

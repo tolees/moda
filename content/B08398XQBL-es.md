@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08398XQBL-es Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua...'
+sku: 'B08398XQBL-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.99 EUR
 currency: EUR

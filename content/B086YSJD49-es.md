@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YSJD49-es AARDIMI - Sandalias para mujer planas de verano con lazo...'
+sku: 'B086YSJD49-es'
 tags: [ 'sandalias', ]
 actualPrice: 19.58 EUR
 currency: EUR

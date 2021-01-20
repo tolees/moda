@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LFNP3N0-es Marvel Capitan America - Camiseta para Hombre - Talla L'
+sku: 'B00LFNP3N0-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.95 EUR
 currency: EUR

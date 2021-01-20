@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FRB17R-es Herzmutter Pijama de Maternidad - Pijama de Lactancia -...'
+sku: 'B071FRB17R-es'
 tags: [ 'pijama', ]
 actualPrice: 39.99 EUR
 currency: EUR

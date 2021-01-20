@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SQW1CZ-es CRZ YOGA Mujer Deportivo Corto Falda Plisada Skorts de...'
+sku: 'B082SQW1CZ-es'
 tags: [ 'falda', ]
 actualPrice: 33.0 EUR
 currency: EUR

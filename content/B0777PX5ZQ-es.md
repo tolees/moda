@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777PX5ZQ-es Tommy Hilfiger Jersey T Camiseta con Cuello de Pico y Logo...'
+sku: 'B0777PX5ZQ-es'
 tags: [ 'camiseta','jersey', ]
 actualPrice: 17.99 EUR
 currency: EUR

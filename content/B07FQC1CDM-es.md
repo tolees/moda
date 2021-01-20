@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQC1CDM-es JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos Vaqueros...'
+sku: 'B07FQC1CDM-es'
 tags: [ 'vaqueros', ]
 actualPrice: 27.99 EUR
 currency: EUR

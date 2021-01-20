@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXWLMA7-es TRANGO Neku Chaqueta Mujer Azul Tinta XS'
+sku: 'B01LXWLMA7-es'
 tags: [ 'chaqueta', ]
 actualPrice: 71.95 EUR
 currency: EUR

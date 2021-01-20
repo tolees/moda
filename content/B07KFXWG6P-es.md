@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFXWG6P-es PUMA Auriz Zapatos de Futsal para Hombre White-Green...'
+sku: 'B07KFXWG6P-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.26 EUR
 currency: EUR

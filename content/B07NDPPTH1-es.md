@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPPTH1-es G-STAR RAW Graphic 24 Loose Round Neck Sudadera Beige Milk...'
+sku: 'B07NDPPTH1-es'
 tags: [ 'sudadera', ]
 actualPrice: 21.65 EUR
 currency: EUR

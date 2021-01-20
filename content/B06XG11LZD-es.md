@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG11LZD-es CADeN Camera Hombro Bolsa de Mensajero Mochila de Lona...'
+sku: 'B06XG11LZD-es'
 tags: [ 'bolso', ]
 actualPrice: 32.99 EUR
 currency: EUR

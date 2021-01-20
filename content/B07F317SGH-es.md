@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F317SGH-es Helly Hansen Hp Ocean Fz Hoodie Sudadera para Hombre Gris...'
+sku: 'B07F317SGH-es'
 tags: [ 'sudadera', ]
 actualPrice: 50.99 EUR
 currency: EUR

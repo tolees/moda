@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQRH61W-es Amazon Essentials - Chaqueta deportiva con media...'
+sku: 'B07JQRH61W-es'
 tags: [ 'chaqueta', ]
 actualPrice: 5.02 EUR
 currency: EUR

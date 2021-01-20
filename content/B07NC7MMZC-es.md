@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC7MMZC-es Pepe Jeans Hatch Vaqueros Medium Used Wiser Wash Denim 32W...'
+sku: 'B07NC7MMZC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 48.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HQALKVY-es Crocs Crocband U Zuecos Unisex Adulto Gris Light Grey-Navy...'
+sku: 'B01HQALKVY-es'
 tags: [ 'zuecos', ]
 actualPrice: 33.25 EUR
 currency: EUR

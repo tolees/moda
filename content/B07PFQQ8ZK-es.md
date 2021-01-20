@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFQQ8ZK-es El Búho Nocturno Pijama de Caballero de Manga Larga canalé...'
+sku: 'B07PFQQ8ZK-es'
 tags: [ 'pijama', ]
 actualPrice: 27.95 EUR
 currency: EUR

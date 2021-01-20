@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4Y6ND8-es Levi s Relaxed Graphic Crewneck Sudadera Blanco 90 s Serif...'
+sku: 'B07S4Y6ND8-es'
 tags: [ 'sudadera', ]
 actualPrice: 31.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FTWCZN-es Crocs Swiftwater Sandal W Sandalias de Punta Descubierta...'
+sku: 'B071FTWCZN-es'
 tags: [ 'sandalias', ]
 actualPrice: 24.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNSMVBF-es Under Armour UA Tech 2.0 SS Tee Novelty Camiseta Para...'
+sku: 'B07NNSMVBF-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.51 EUR
 currency: EUR

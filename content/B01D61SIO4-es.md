@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D61SIO4-es Trangoworld Ghawdex SN Pantalón Largo Hombre Rojo...'
+sku: 'B01D61SIO4-es'
 tags: [ 'pantalón', ]
 actualPrice: 67.49 EUR
 currency: EUR

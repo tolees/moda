@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZQ1C8-es Geox U KEELBACK B ABX B Zapatillas Altas para Hombre Negro...'
+sku: 'B07LFZQ1C8-es'
 tags: [ 'geox', ]
 actualPrice: 74.95 EUR
 currency: EUR

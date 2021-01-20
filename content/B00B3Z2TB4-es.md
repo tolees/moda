@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B3Z2TB4-es NIKE Benassi JDI Chanclas Unisex Adulto Negro Negro 001 46 EU'
+sku: 'B00B3Z2TB4-es'
 tags: [ 'chanclas', ]
 actualPrice: 20.49 EUR
 currency: EUR
@@ -26,9 +27,9 @@ Tienes [NIKE Benassi JDI  Chanclas Unisex Adulto  Negro Negro 001  46 EU](https:
 
 🔎:
 
-- Plantilla con botones finos, correas acolchadas
-- Parte superior de imitación cuero
 - Suela de caucho con dibujo de tracción en espiga
+- Parte superior de imitación cuero
+- Plantilla con botones finos, correas acolchadas
 - Material interno textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00B3Z2TB4/?tag=tolees-21)

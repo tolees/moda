@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYX9P8Z-es Columbia Gate Racer Chaqueta Softshell para Hombre Azul...'
+sku: 'B07DYX9P8Z-es'
 tags: [ 'chaqueta', ]
 actualPrice: 94.95 EUR
 currency: EUR

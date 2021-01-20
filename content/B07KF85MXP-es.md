@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF85MXP-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Rajah Adv...'
+sku: 'B07KF85MXP-es'
 tags: [ 'vaqueros', ]
 actualPrice: 49.0 EUR
 currency: EUR

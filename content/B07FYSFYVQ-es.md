@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYSFYVQ-es Lee Brooklyn Straight Vaqueros para Hombre Azul Rinse Dp...'
+sku: 'B07FYSFYVQ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 35.99 EUR
 currency: EUR

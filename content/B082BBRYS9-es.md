@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BBRYS9-es Geographical Norway Parka Mujer DINASTY Negro 02'
+sku: 'B082BBRYS9-es'
 tags: [ 'parka', ]
 actualPrice: 95.2 EUR
 currency: EUR

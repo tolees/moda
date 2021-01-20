@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9QQFPF-es Zapatillas Hombres Deporte Running Zapatos para Correr...'
+sku: 'B07Q9QQFPF-es'
 tags: [ 'zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR

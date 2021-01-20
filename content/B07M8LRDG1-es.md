@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8LRDG1-es Wrangler Bootcut Vaqueros Azul Water Blue 78x 24 W/ 32L...'
+sku: 'B07M8LRDG1-es'
 tags: [ 'vaqueros', ]
 actualPrice: 37.21 EUR
 currency: EUR

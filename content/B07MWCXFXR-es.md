@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWCXFXR-es RFID Delgado Billetera de Acero Inoxidable con Tecnología...'
+sku: 'B07MWCXFXR-es'
 tags: [ 'billetera', ]
 actualPrice: 10.99 EUR
 currency: EUR

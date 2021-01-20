@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMJCC8K-es Chantelle DE Pyramide Sujetador para Camiseta Beige...'
+sku: 'B07JMJCC8K-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.28 EUR
 currency: EUR

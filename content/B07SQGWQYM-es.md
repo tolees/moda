@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGWQYM-es Geox D Nebula B Zapatillas sin Cordones para Mujer Rojo...'
+sku: 'B07SQGWQYM-es'
 tags: [ 'geox', ]
 actualPrice: 43.89 EUR
 currency: EUR

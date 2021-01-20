@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BJRS4D-es Columbia Powder Pass Chaqueta con Capucha Hombre Gris/Azul...'
+sku: 'B081BJRS4D-es'
 tags: [ 'chaqueta', ]
 actualPrice: 51.64 EUR
 currency: EUR

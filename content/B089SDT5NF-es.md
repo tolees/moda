@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SDT5NF-es BIGABIGA Mujer Moda Punta Redonda Shallow Casual Lofers...'
+sku: 'B089SDT5NF-es'
 tags: [ 'moda','zapatos', ]
 actualPrice: 27.79 EUR
 currency: EUR

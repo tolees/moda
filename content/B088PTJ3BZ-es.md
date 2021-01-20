@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088PTJ3BZ-es Oiotuyi - Camiseta de manga corta de algodón para niños...'
+sku: 'B088PTJ3BZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.48 EUR
 currency: EUR

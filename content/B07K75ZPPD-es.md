@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K75ZPPD-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Megamouth...'
+sku: 'B07K75ZPPD-es'
 tags: [ 'vaqueros', ]
 actualPrice: 66.78 EUR
 currency: EUR

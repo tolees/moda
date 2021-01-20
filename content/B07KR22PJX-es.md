@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR22PJX-es Clarks Un Costa Lace Zapatos de Cordones Derby para Hombre...'
+sku: 'B07KR22PJX-es'
 tags: [ 'zapatos', ]
 actualPrice: 69.95 EUR
 currency: EUR

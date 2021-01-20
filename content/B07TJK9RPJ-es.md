@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJK9RPJ-es Clarks Sunder Cross Sandalias Punta Cerrada para Hombre...'
+sku: 'B07TJK9RPJ-es'
 tags: [ 'sandalias', ]
 actualPrice: 48.46 EUR
 currency: EUR

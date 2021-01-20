@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVKP6YH-es Wrangler Larston Vaqueros Dusty Olive 28W / 32L para Hombre'
+sku: 'B07TVKP6YH-es'
 tags: [ 'vaqueros', ]
 actualPrice: 45.59 EUR
 currency: EUR

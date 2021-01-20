@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVSPSHC-es G-STAR RAW Graphic Logo 4 Camiseta Blanco Medium Talla del...'
+sku: 'B07NVSPSHC-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR

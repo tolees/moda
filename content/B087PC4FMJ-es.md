@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PC4FMJ-es Suhctup Funda Compatible con Xiaomi Redmi Note 8 Pro...'
+sku: 'B087PC4FMJ-es'
 tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR

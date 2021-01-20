@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1LN5JJ-es Pepe Jeans Zinc Vaqueros Straight Azul 000Denim 000...'
+sku: 'B07X1LN5JJ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 64.4 EUR
 currency: EUR

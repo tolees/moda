@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNNF4WC-es Tommy Hilfiger Tjw Essential Logo Sweatshirt Sudadera...'
+sku: 'B07VNNF4WC-es'
 tags: [ 'sudadera', ]
 actualPrice: 23.31 EUR
 currency: EUR

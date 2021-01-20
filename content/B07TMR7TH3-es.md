@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMR7TH3-es G-STAR RAW Graphic 15 Hooded Sudadera Multicolor Grey...'
+sku: 'B07TMR7TH3-es'
 tags: [ 'sudadera', ]
 actualPrice: 23.36 EUR
 currency: EUR

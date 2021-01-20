@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDFH6R4-es Superdry Orange Label Vntge Emb S/S tee Camiseta Negro...'
+sku: 'B07FDFH6R4-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR

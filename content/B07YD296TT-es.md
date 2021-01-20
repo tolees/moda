@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD296TT-es Kansoom Guantes de Dedo completos Viento cortante Azul S'
+sku: 'B07YD296TT-es'
 tags: [ 'guantes', ]
 actualPrice: 17.99 EUR
 currency: EUR

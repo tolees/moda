@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DZ5Z9-es Wrangler High Rise Skinny Vaqueros Azul Night Blue 78y 30W...'
+sku: 'B07M5DZ5Z9-es'
 tags: [ 'vaqueros', ]
 actualPrice: 52.99 EUR
 currency: EUR

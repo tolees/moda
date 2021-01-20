@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVTJWLS-es TTYAOVO Niñas Muestran Princesa Vestido de Flores Baile...'
+sku: 'B07WVTJWLS-es'
 tags: [ 'vestido', ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF5W4K5-es Levi s 514 Vaqueros Straight Azul Orinda ADV 1009 W34/L30...'
+sku: 'B07LF5W4K5-es'
 tags: [ 'vaqueros', ]
 actualPrice: 32.09 EUR
 currency: EUR

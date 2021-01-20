@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLDK73K-es BLEND 20708633 Chaqueta Verde Olive Night Green 77233 S...'
+sku: 'B07PLDK73K-es'
 tags: [ 'chaqueta', ]
 actualPrice: 23.54 EUR
 currency: EUR

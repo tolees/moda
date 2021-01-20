@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYPRYFQ-es Moonssy Leggins Reductores Adelgazantes Pantalones de...'
+sku: 'B07SYPRYFQ-es'
 tags: [ 'leggins', ]
 actualPrice: 22.8 EUR
 currency: EUR

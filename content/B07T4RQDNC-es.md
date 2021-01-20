@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4RQDNC-es Tikea Bolsa Geométrica de Corcho Natural para Mujer...'
+sku: 'B07T4RQDNC-es'
 tags: [ 'moda', ]
 actualPrice: 41.99 EUR
 currency: EUR

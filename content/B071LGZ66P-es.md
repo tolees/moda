@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LGZ66P-es Under Armour Tech Graphic Short Pantalón Corto Hombre...'
+sku: 'B071LGZ66P-es'
 tags: [ 'pantalón', ]
 actualPrice: 21.9 EUR
 currency: EUR

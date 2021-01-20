@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCXLOSI-es hummel AUTH Charge Poly Zip Jacket Chaqueta Infantil Negro...'
+sku: 'B01NCXLOSI-es'
 tags: [ 'chaqueta', ]
 actualPrice: 22.39 EUR
 currency: EUR

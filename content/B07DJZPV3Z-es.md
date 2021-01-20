@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJZPV3Z-es Geox B Kaytan a Sandalias para Bebés Dk Rose/Gold C8252 24 EU'
+sku: 'B07DJZPV3Z-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 37.03 EUR
 currency: EUR

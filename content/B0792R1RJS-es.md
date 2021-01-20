@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792R1RJS-es Geox JR Wader A Zapatillas para Niños Negro Black C9999 36 EU'
+sku: 'B0792R1RJS-es'
 tags: [ 'geox', ]
 actualPrice: 34.93 EUR
 currency: EUR

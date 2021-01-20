@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZCZB2-es G-STAR RAW Attacc Quilted Hooded Chaqueta Negro Dk Black...'
+sku: 'B07RCZCZB2-es'
 tags: [ 'chaqueta', ]
 actualPrice: 63.48 EUR
 currency: EUR

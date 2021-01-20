@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0761PYZ2C-es Soradoo Ciclismo Maillot Hombres Jersey Culote Pantalones...'
+sku: 'B0761PYZ2C-es'
 tags: [ 'jersey', ]
 actualPrice: 39.99 EUR
 currency: EUR

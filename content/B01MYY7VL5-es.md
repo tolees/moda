@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYY7VL5-es G-STAR RAW Eyben Slim V T Wmn S/s Camiseta Blanco White...'
+sku: 'B01MYY7VL5-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR

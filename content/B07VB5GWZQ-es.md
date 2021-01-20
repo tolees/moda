@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB5GWZQ-es JACK & JONES Jorclan Parka Negro Black Black Medium para...'
+sku: 'B07VB5GWZQ-es'
 tags: [ 'parka', ]
 actualPrice: 41.99 EUR
 currency: EUR

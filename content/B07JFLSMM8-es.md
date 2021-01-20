@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFLSMM8-es Pepe Jeans Kai Pm402100 Chaqueta Sailor 580 Medium para...'
+sku: 'B07JFLSMM8-es'
 tags: [ 'chaqueta', ]
 actualPrice: 31.8 EUR
 currency: EUR

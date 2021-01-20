@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075X2RL4N-es find. NEWSTW050 vaqueros mujer cintura alta Azul Bright...'
+sku: 'B075X2RL4N-es'
 tags: [ 'vaqueros', ]
 actualPrice: 8.07 EUR
 currency: EUR

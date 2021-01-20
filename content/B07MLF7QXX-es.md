@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLF7QXX-es Roman Originals Pantalón Capri elástico de bengalina para...'
+sku: 'B07MLF7QXX-es'
 tags: [ 'pantalón', ]
 actualPrice: 21.75 EUR
 currency: EUR

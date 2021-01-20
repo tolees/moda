@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y4WOP9W-es Neosens S849 Restored Skin Rococo Zapatos con tira...'
+sku: 'B00Y4WOP9W-es'
 tags: [ 'zapatos', ]
 actualPrice: 65.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5Y7K5W-es TEEHON Carteras Hombre con Monedero Billetera de Hombre de...'
+sku: 'B07R5Y7K5W-es'
 tags: [ 'billetera','monedero', ]
 actualPrice: 15.39 EUR
 currency: EUR

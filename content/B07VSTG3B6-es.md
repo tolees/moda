@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSTG3B6-es G-STAR RAW Kafey Ultra High Waist Skinny Vaqueros Azul...'
+sku: 'B07VSTG3B6-es'
 tags: [ 'vaqueros', ]
 actualPrice: 37.02 EUR
 currency: EUR

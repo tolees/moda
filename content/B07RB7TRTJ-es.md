@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB7TRTJ-es Columbia Horizon Explorer Chaqueta Térmica Impermeable...'
+sku: 'B07RB7TRTJ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 116.44 EUR
 currency: EUR

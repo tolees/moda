@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833ZFQWB-es Collar Antiparasitos para Perros y Gatos contra Pulgas...'
+sku: 'B0833ZFQWB-es'
 tags: [ 'collar', ]
 actualPrice: 12.99 EUR
 currency: EUR

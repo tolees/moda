@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079K3HL5Y-es Napapijri Rainforest Pocket Chaqueta para Hombre Blanco...'
+sku: 'B079K3HL5Y-es'
 tags: [ 'chaqueta', ]
 actualPrice: 104.0 EUR
 currency: EUR

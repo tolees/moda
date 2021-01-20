@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GF6TZBS-es Semme Chaleco térmico eléctrico de Invierno USB Cargado...'
+sku: 'B07GF6TZBS-es'
 tags: [ 'chaleco', ]
 actualPrice: 19.59 EUR
 currency: EUR

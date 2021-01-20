@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHJF5NJ-es Burton Oak Sudadera Hombre Keef Heather M'
+sku: 'B07SHJF5NJ-es'
 tags: [ 'sudadera', ]
 actualPrice: 26.37 EUR
 currency: EUR

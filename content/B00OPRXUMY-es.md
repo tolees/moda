@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OPRXUMY-es Dickies Milford Abrigo Multicolor Camouflge X-Small Tamaño...'
+sku: 'B00OPRXUMY-es'
 tags: [ 'abrigo', ]
 actualPrice: 59.4 EUR
 currency: EUR

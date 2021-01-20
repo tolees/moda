@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R14PH2B-es adidas Real Madrid 2019/2020 Camiseta Hombre Blanco 1ª...'
+sku: 'B07R14PH2B-es'
 tags: [ 'camiseta', ]
 actualPrice: 35.95 EUR
 currency: EUR

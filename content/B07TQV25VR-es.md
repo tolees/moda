@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQV25VR-es Superdry VL Fade T Shirt Store tee Camiseta Blanco Optic...'
+sku: 'B07TQV25VR-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082CZVMBZ-es ASICS Solution Speed FF Zapatilla Indoor S - SS20-40'
+sku: 'B082CZVMBZ-es'
 tags: [ 'zapatilla', ]
 actualPrice: 120.63 EUR
 currency: EUR

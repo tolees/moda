@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087Q5YMHM-es TAOFFEN Mujer Canvas Shoes Punta Redonda Zapatos para...'
+sku: 'B087Q5YMHM-es'
 tags: [ 'zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR

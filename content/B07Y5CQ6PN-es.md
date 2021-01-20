@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5CQ6PN-es Deevike Pantuflas Zapatillas Mujer Invierno CáLido Zapatos...'
+sku: 'B07Y5CQ6PN-es'
 tags: [ 'zapatos', ]
 actualPrice: 16.99 EUR
 currency: EUR

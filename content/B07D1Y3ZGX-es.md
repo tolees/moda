@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1Y3ZGX-es Dainese Hp1m1 - Chaqueta de esquí para Hombre Invierno...'
+sku: 'B07D1Y3ZGX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 503.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H6NYZSG-es Crocs Swiftwater River Sandals 203965-06 Sandalias para...'
+sku: 'B01H6NYZSG-es'
 tags: [ 'sandalias', ]
 actualPrice: 25.3 EUR
 currency: EUR

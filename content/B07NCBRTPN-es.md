@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCBRTPN-es Pepe Jeans Mable Vaqueros Straight Azul Light Used Denim...'
+sku: 'B07NCBRTPN-es'
 tags: [ 'vaqueros', ]
 actualPrice: 39.9 EUR
 currency: EUR

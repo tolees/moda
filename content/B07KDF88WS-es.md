@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KDF88WS-es adidas Regi18 Pre Jkt Chaqueta de Deporte Hombre Bold...'
+sku: 'B07KDF88WS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 22.18 EUR
 currency: EUR

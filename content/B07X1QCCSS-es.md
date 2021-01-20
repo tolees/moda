@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1QCCSS-es Zapatillas de Running Hombre Zapatillas para Hombre...'
+sku: 'B07X1QCCSS-es'
 tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR

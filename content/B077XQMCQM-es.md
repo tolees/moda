@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XQMCQM-es Under Armour Tech Graphic Short Pantalón Corto Hombre Gris...'
+sku: 'B077XQMCQM-es'
 tags: [ 'pantalón', ]
 actualPrice: 14.9 EUR
 currency: EUR

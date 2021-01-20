@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZCH7BL-es Under Armour UA Streaker 2.0 Camiseta Mujer Negro...'
+sku: 'B07CZCH7BL-es'
 tags: [ 'camiseta', ]
 actualPrice: 24.39 EUR
 currency: EUR

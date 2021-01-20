@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD8Z39G-es Zapatos de Hombres Zapatillas de Deportivos Running para...'
+sku: 'B07XD8Z39G-es'
 tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR

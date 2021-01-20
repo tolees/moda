@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y929VQS-es XTI 49690 Zapatos de Cordones Oxford para Hombre Marrón...'
+sku: 'B07Y929VQS-es'
 tags: [ 'zapatos', ]
 actualPrice: 12.94 EUR
 currency: EUR

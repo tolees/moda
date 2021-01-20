@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCFXX81-es Crocs Crocband Zuecos Unisex Adulto Verde Deep Green/White...'
+sku: 'B07SCFXX81-es'
 tags: [ 'zuecos', ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8RX9TW-es Hawiton Camisón Lactancia Manga Larga Pijama Embarazada...'
+sku: 'B07X8RX9TW-es'
 tags: [ 'pijama', ]
 actualPrice: 22.99 EUR
 currency: EUR

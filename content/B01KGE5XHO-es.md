@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KGE5XHO-es Goodthreads Slim-Fit Long-Sleeve Solid Oxford Shirt Camisa...'
+sku: 'B01KGE5XHO-es'
 tags: [ 'camisa', ]
 actualPrice: 8.93 EUR
 currency: EUR

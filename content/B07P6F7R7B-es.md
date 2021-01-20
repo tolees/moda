@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6F7R7B-es Vagabond Lara Botines para Mujer Multicolor Sand/Black 87...'
+sku: 'B07P6F7R7B-es'
 tags: [ 'botines', ]
 actualPrice: 56.79 EUR
 currency: EUR

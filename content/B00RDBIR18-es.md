@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RDBIR18-es adidas ESS 3S Chelsea - Pantalón corto para hombre color...'
+sku: 'B00RDBIR18-es'
 tags: [ 'pantalón', ]
 actualPrice: 17.51 EUR
 currency: EUR

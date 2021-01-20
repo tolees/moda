@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DHKPW-es Lee CAROL Vaqueros straight Mujer Azul Dark Garner Uv W26/L31'
+sku: 'B07M5DHKPW-es'
 tags: [ 'vaqueros', ]
 actualPrice: 40.99 EUR
 currency: EUR

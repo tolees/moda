@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4Y1NV-es Levi s Graphic Set-in Neck Camiseta para Hombre Blanco 501...'
+sku: 'B07KF4Y1NV-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.25 EUR
 currency: EUR

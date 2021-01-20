@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8PJZKS-es JACK & JONES JCOOSCAR Jacket Collar Chaqueta Negro Black L...'
+sku: 'B07W8PJZKS-es'
 tags: [ 'chaqueta','collar', ]
 actualPrice: 25.32 EUR
 currency: EUR

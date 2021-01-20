@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SHY4L7O-es Bogner Fire Ice Hombres Chaqueta Azul Azul/Azul Oscuro...'
+sku: 'B00SHY4L7O-es'
 tags: [ 'chaqueta', ]
 actualPrice: 278.27 EUR
 currency: EUR

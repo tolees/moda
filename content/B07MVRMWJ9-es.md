@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVRMWJ9-es Joules Golightly Abrigo para Lluvia Morado Berry Peony...'
+sku: 'B07MVRMWJ9-es'
 tags: [ 'abrigo', ]
 actualPrice: 34.96 EUR
 currency: EUR

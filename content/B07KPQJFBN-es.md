@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPQJFBN-es Helly Hansen Driftline Camiseta Tipo Polo de Manga Corta...'
+sku: 'B07KPQJFBN-es'
 tags: [ 'camiseta', ]
 actualPrice: 35.09 EUR
 currency: EUR

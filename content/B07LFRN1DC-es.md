@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRN1DC-es Geox D ANNYTAH D Bailarinas para Mujer Negro Black C9997...'
+sku: 'B07LFRN1DC-es'
 tags: [ 'geox', ]
 actualPrice: 22.07 EUR
 currency: EUR

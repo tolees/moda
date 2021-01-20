@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT71B9V-es Levi s 501 Crop Vaqueros Boyfriend Blanco In The Clouds...'
+sku: 'B07TT71B9V-es'
 tags: [ 'vaqueros', ]
 actualPrice: 49.5 EUR
 currency: EUR

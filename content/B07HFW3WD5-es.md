@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFW3WD5-es Crocs Baya Clog Kids Zuecos Unisex Niños Negro Black 001...'
+sku: 'B07HFW3WD5-es'
 tags: [ 'zuecos', ]
 actualPrice: 17.1 EUR
 currency: EUR

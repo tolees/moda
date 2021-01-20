@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0755XGH4S-es Skechers Beverlee-High Tea Sandalias de Punta Descubierta...'
+sku: 'B0755XGH4S-es'
 tags: [ 'sandalias', ]
 actualPrice: 31.47 EUR
 currency: EUR

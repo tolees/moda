@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS7K39P-es JACK & JONES Jcosteve Shirt LS Worker Camisa Azul Chambray...'
+sku: 'B07RS7K39P-es'
 tags: [ 'camisa', ]
 actualPrice: 20.0 EUR
 currency: EUR

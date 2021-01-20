@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP7DSG-es Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto...'
+sku: 'B073RP7DSG-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.95 EUR
 currency: EUR

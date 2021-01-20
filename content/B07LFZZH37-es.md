@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZZH37-es Geox J Alonisso Boy N Zapatillas Altas para Niños Azul...'
+sku: 'B07LFZZH37-es'
 tags: [ 'geox', ]
 actualPrice: 28.01 EUR
 currency: EUR

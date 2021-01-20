@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077JKKHQ7-es URAQT Traje del Vestido/Traje de Princesa de la Nieve...'
+sku: 'B077JKKHQ7-es'
 tags: [ 'vestido', ]
 actualPrice: 12.99 EUR
 currency: EUR

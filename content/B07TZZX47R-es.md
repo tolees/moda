@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZZX47R-es Women s Secret Multilicense College MC DS Stars PJ...'
+sku: 'B07TZZX47R-es'
 tags: [ 'pijama', ]
 actualPrice: 15.85 EUR
 currency: EUR

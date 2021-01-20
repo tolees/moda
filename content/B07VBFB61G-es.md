@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBFB61G-es JACK & JONES Jprwetford Parka STS Beige Kelp Kelp Large...'
+sku: 'B07VBFB61G-es'
 tags: [ 'parka', ]
 actualPrice: 37.82 EUR
 currency: EUR

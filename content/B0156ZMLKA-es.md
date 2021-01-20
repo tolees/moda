@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0156ZMLKA-es KRISP Vestido Mujer Tallas Grandes Largo Casual Ibicenco...'
+sku: 'B0156ZMLKA-es'
 tags: [ 'vestido', ]
 actualPrice: 13.99 EUR
 currency: EUR

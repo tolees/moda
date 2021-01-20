@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GNKHTR-es find. 59179 vaqueros mujer Azul Mid Blue W30/L32 Talla del...'
+sku: 'B071GNKHTR-es'
 tags: [ 'vaqueros', ]
 actualPrice: 12 EUR
 currency: EUR

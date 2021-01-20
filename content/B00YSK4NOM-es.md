@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YSK4NOM-es ARENA 000001E191 Gafas de Natación Mujer Azul Clear Talla...'
+sku: 'B00YSK4NOM-es'
 tags: [ 'gafas', ]
 actualPrice: 7.96 EUR
 currency: EUR

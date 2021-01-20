@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B94QV3V-es Clarks Laina RAE Zapatos de Tacón para Mujer Negro Black...'
+sku: 'B07B94QV3V-es'
 tags: [ 'zapatos', ]
 actualPrice: 50.0 EUR
 currency: EUR

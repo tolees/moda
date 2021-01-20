@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J42VC-es Tommy Hilfiger Comfort Footbed Beach Sandal Chanclas para...'
+sku: 'B07V2J42VC-es'
 tags: [ 'chanclas', ]
 actualPrice: 17.96 EUR
 currency: EUR

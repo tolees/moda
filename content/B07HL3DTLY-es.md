@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL3DTLY-es Amazon Essentials - Camisa de cambray de manga corta para...'
+sku: 'B07HL3DTLY-es'
 tags: [ 'camisa', ]
 actualPrice: 2.71 EUR
 currency: EUR

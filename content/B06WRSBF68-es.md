@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRSBF68-es Lacoste TH6709 Camiseta para Hombre Negro Noir S Talla del...'
+sku: 'B06WRSBF68-es'
 tags: [ 'camiseta', ]
 actualPrice: 34.95 EUR
 currency: EUR

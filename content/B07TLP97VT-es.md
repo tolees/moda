@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLP97VT-es Clarks Paulson Plain Zapatos de Cordones Derby para Hombre...'
+sku: 'B07TLP97VT-es'
 tags: [ 'zapatos', ]
 actualPrice: 23.37 EUR
 currency: EUR

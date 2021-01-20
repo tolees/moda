@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YRCL5Z7-es Marca Amazon - find. Vestido Largo Camisero Mujer...'
+sku: 'B07YRCL5Z7-es'
 tags: [ 'vestido','-','find.', ]
 actualPrice: 9.53 EUR
 currency: EUR

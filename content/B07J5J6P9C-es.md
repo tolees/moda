@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5J6P9C-es JACK & JONES Camiseta de Manga Larga T-Shirt Longsleeve...'
+sku: 'B07J5J6P9C-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQ2QMRW-es HKT by Hackett Hkt GMT W Piquet Camisa Indigo 561 Medium...'
+sku: 'B07MQ2QMRW-es'
 tags: [ 'camisa', ]
 actualPrice: 17.31 EUR
 currency: EUR

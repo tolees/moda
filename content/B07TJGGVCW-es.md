@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJGGVCW-es Superdry OL Low Roller tee Camiseta Azul True Blue 69h XS...'
+sku: 'B07TJGGVCW-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.49 EUR
 currency: EUR

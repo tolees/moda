@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0BT7IK-es Under Armour Rival Fitted Full Zip Sudadera Hombre Azul...'
+sku: 'B01N0BT7IK-es'
 tags: [ 'sudadera', ]
 actualPrice: 42.04 EUR
 currency: EUR

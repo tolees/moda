@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M89F6DP-es Lee V Neck tee Camiseta Verde DK Bottle Green BB Small...'
+sku: 'B07M89F6DP-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.83 EUR
 currency: EUR

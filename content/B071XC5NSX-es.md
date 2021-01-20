@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XC5NSX-es Marca Amazon - find. Vestido Asimétrico para Mujer Rojo...'
+sku: 'B071XC5NSX-es'
 tags: [ 'vestido','-','find.', ]
 actualPrice: 8.67 EUR
 currency: EUR

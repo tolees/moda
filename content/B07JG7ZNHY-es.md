@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7ZNHY-es Pepe Jeans Amberes Archive Camiseta Blanco Optic White 802...'
+sku: 'B07JG7ZNHY-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR

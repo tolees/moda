@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPCSJWH-es Cartera Pepe Jeans Jeans vertical con monedero Azul'
+sku: 'B07HPCSJWH-es'
 tags: [ 'monedero', ]
 actualPrice: 21.87 EUR
 currency: EUR

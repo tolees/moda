@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXRX42M-es oodji Ultra Mujer Blusa de Punto Ajustada Negro ES 40 / M'
+sku: 'B07RXRX42M-es'
 tags: [ 'blusa', ]
 actualPrice: 9.1 EUR
 currency: EUR

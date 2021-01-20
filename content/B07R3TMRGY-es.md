@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3TMRGY-es Wrangler Logo Sweat Sudadera Marrón Picante Brown X9h...'
+sku: 'B07R3TMRGY-es'
 tags: [ 'sudadera', ]
 actualPrice: 33.12 EUR
 currency: EUR

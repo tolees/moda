@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1LNLG1-es Pepe Jeans Chepstow Vaqueros Hombre Ajustados Azul...'
+sku: 'B07X1LNLG1-es'
 tags: [ 'vaqueros', ]
 actualPrice: 48.02 EUR
 currency: EUR

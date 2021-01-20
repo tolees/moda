@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XHJQ9W-es morpilot Arnés Antitirones Perro Transpirable Arnés Perro...'
+sku: 'B083XHJQ9W-es'
 tags: [ 'chaleco', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QHAT5X0-es Under Armour UA CG Armour Mock Camiseta de Manga Larga...'
+sku: 'B00QHAT5X0-es'
 tags: [ 'camiseta', ]
 actualPrice: 30.7 EUR
 currency: EUR

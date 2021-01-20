@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZJZK21-es Superdry Vintage Logo Layered Camo tee Camiseta Negro...'
+sku: 'B07MZJZK21-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR

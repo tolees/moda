@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMDVWHV-es Original Penguin Sailing Abrigo Azul Dark Sapphire 413...'
+sku: 'B07MMDVWHV-es'
 tags: [ 'abrigo', ]
 actualPrice: 20.96 EUR
 currency: EUR

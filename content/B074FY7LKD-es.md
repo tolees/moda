@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FY7LKD-es find. Chaqueta Punto con Cinturón para Mujer Azul Navy 36...'
+sku: 'B074FY7LKD-es'
 tags: [ 'chaqueta', ]
 actualPrice: 10.5 EUR
 currency: EUR

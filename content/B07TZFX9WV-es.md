@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZFX9WV-es Mujer Cuñas Zapatos 35-43 EU De Lona High-Top Zapatos...'
+sku: 'B07TZFX9WV-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.99 EUR
 currency: EUR

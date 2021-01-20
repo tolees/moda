@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4NGLV4-es Billabong™ - Chanclas - Hombre - EU 45 - Negro'
+sku: 'B07V4NGLV4-es'
 tags: [ 'chanclas', ]
 actualPrice: 11.99 EUR
 currency: EUR

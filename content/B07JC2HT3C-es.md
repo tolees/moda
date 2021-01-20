@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC2HT3C-es Columbia Lay D Down II Chaqueta Mujer Negro Black 011 M'
+sku: 'B07JC2HT3C-es'
 tags: [ 'chaqueta', ]
 actualPrice: 102.23 EUR
 currency: EUR

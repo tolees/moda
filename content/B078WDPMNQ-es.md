@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WDPMNQ-es Ultrasport Basic Braguita de bikini para mujer Skara Azul...'
+sku: 'B078WDPMNQ-es'
 tags: [ 'bikini', ]
 actualPrice: 5.33 EUR
 currency: EUR

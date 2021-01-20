@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXWQZPQ-es Pepe Jeans Charing Camiseta Verde Pond 774 XX-Large para...'
+sku: 'B07VXWQZPQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR

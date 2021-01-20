@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C6XTSGF-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
+sku: 'B07C6XTSGF-es'
 tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR

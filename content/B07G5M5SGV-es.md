@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5M5SGV-es Wrangler Authentic Vaqueros Straight Azul Blue Mid Stone...'
+sku: 'B07G5M5SGV-es'
 tags: [ 'vaqueros', ]
 actualPrice: 19.84 EUR
 currency: EUR

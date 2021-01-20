@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W53TYL7-es Lacoste TH6709 Camiseta para Hombre Blanco Blanc M Talla...'
+sku: 'B06W53TYL7-es'
 tags: [ 'camiseta', ]
 actualPrice: 34.99 EUR
 currency: EUR

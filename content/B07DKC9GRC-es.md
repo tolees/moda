@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKC9GRC-es PUMA Essential Crew SWS Big Logo M Sudadera Hombre Gris...'
+sku: 'B07DKC9GRC-es'
 tags: [ 'sudadera', ]
 actualPrice: 22.49 EUR
 currency: EUR

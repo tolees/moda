@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7ZBLD9-es O NEILL PM Alti Hyperfleece - Chaqueta para Hombre Hombre...'
+sku: 'B07R7ZBLD9-es'
 tags: [ 'chaqueta', ]
 actualPrice: 19.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FF7Q5T2-es Wrangler Greensboro Regular Jeans Vaqueros Azul Darkstone...'
+sku: 'B07FF7Q5T2-es'
 tags: [ 'vaqueros', ]
 actualPrice: 39.13 EUR
 currency: EUR

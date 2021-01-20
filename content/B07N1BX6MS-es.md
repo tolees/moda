@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1BX6MS-es Lee Essential Logo SWS Sudadera Gris Grey Mele MP XXX-...'
+sku: 'B07N1BX6MS-es'
 tags: [ 'sudadera', ]
 actualPrice: 10.96 EUR
 currency: EUR

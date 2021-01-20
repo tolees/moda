@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002LTH55Q-es Superga 2750 COTU Classic Zapatilla de Deporte Unisexo...'
+sku: 'B002LTH55Q-es'
 tags: [ 'zapatilla', ]
 actualPrice: 36.0 EUR
 currency: EUR

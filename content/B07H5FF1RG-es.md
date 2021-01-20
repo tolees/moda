@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5FF1RG-es Bikien Guantes para Mascotas Masaje con Pelo Largo y Corto...'
+sku: 'B07H5FF1RG-es'
 tags: [ 'guantes', ]
 actualPrice: 16.99 EUR
 currency: EUR

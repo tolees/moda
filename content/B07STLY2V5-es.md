@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLY2V5-es Geox Vega W Zapatillas para Mujer Azul Navy C4002 35 EU'
+sku: 'B07STLY2V5-es'
 tags: [ 'geox', ]
 actualPrice: 39.81 EUR
 currency: EUR

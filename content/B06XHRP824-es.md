@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHRP824-es Geox J Kommodor A Zapatillas para Niñas Plateado Dk...'
+sku: 'B06XHRP824-es'
 tags: [ 'geox', ]
 actualPrice: 30.9 EUR
 currency: EUR

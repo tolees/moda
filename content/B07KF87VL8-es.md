@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF87VL8-es Levi s Original Hm Icon Crew Sudadera Azul Sodalite Blue...'
+sku: 'B07KF87VL8-es'
 tags: [ 'sudadera', ]
 actualPrice: 32.45 EUR
 currency: EUR

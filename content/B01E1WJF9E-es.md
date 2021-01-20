@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E1WJF9E-es Mercedes-Benz Sonnenbrille M7005 Gafas de sol Negro...'
+sku: 'B01E1WJF9E-es'
 tags: [ 'gafas', ]
 actualPrice: 42.23 EUR
 currency: EUR

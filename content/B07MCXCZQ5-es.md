@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCXCZQ5-es Zapatillas de Deporte para niños Niños Zapatillas de...'
+sku: 'B07MCXCZQ5-es'
 tags: [ 'zapatos', ]
 actualPrice: 23.1 EUR
 currency: EUR

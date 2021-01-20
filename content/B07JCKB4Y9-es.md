@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCKB4Y9-es Columbia Autumn Rise Chaqueta impermeable de longitud...'
+sku: 'B07JCKB4Y9-es'
 tags: [ 'chaqueta', ]
 actualPrice: 114.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXVBPSB-es JACK & JONES Jjitim Jjoriginal Am 815 Vaqueros Skinny Azul...'
+sku: 'B07KXVBPSB-es'
 tags: [ 'vaqueros', ]
 actualPrice: 20.21 EUR
 currency: EUR

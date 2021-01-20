@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072F2QK4G-es G-STAR RAW Base Htr V T S/s 2-Pack Camiseta Negro Solid...'
+sku: 'B072F2QK4G-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.38 EUR
 currency: EUR

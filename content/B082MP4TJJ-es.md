@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MP4TJJ-es Geographical Norway Parka Mujer BOOMERA Camo Negro 02'
+sku: 'B082MP4TJJ-es'
 tags: [ 'parka', ]
 actualPrice: 65.0 EUR
 currency: EUR

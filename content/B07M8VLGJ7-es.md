@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8VLGJ7-es Lee Elly Vaqueros Negro/Lavado Negro Light Blue Taos Bg...'
+sku: 'B07M8VLGJ7-es'
 tags: [ 'vaqueros', ]
 actualPrice: 13.99 EUR
 currency: EUR

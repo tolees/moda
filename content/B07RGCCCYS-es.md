@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGCCCYS-es Tommy Hilfiger Basic Hilfiger Hoody Sudadera Blanco White...'
+sku: 'B07RGCCCYS-es'
 tags: [ 'sudadera', ]
 actualPrice: 70.4 EUR
 currency: EUR

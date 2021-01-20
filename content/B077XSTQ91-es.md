@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XSTQ91-es Under Armour UA HG Racer Tank Camiseta sin Mangas Mujer...'
+sku: 'B077XSTQ91-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.63 EUR
 currency: EUR

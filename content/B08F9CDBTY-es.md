@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F9CDBTY-es Voova Funda Portatil 11-11.6 11.3 Pulgada Upgraded...'
+sku: 'B08F9CDBTY-es'
 tags: [ 'bolso', ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792JFD2G-es Geox J RIDDOCK Boy WPF A Botas Chukka para Niños Amarillo...'
+sku: 'B0792JFD2G-es'
 tags: [ 'geox', ]
 actualPrice: 35.96 EUR
 currency: EUR

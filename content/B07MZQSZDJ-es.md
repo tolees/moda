@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQSZDJ-es Pepe Jeans Pixie New Wave Vaqueros Skinny Azul 1o0z Wavy...'
+sku: 'B07MZQSZDJ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 43.6 EUR
 currency: EUR

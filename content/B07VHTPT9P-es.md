@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHTPT9P-es Desigual Vest Charlotte Vestido Blanco Blanco 1000 Small...'
+sku: 'B07VHTPT9P-es'
 tags: [ 'vestido', ]
 actualPrice: 24.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJ4GV1K-es Fila Boxer para Hombre Multicolor Medium pack de 4'
+sku: 'B07VJ4GV1K-es'
 tags: [ 'boxer', ]
 actualPrice: 17.25 EUR
 currency: EUR

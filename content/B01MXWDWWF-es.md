@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXWDWWF-es Timberland Adventure 2.0 Cupsole Chukka Zapatillas para...'
+sku: 'B01MXWDWWF-es'
 tags: [ 'timberland', ]
 actualPrice: 79.49 EUR
 currency: EUR

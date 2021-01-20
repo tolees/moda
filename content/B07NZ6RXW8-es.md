@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ6RXW8-es Art Harlem Botines para Mujer Marrón Brown/Brown...'
+sku: 'B07NZ6RXW8-es'
 tags: [ 'botines', ]
 actualPrice: 81.23 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTSFBZ7-es Lee Western Shirt Camisa Heather Blue Li XL para Hombre'
+sku: 'B07FTSFBZ7-es'
 tags: [ 'camisa', ]
 actualPrice: 24.49 EUR
 currency: EUR

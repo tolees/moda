@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQGW2LT-es Samsung EF-WA705 Funda billetera para teléfono Galaxy A70...'
+sku: 'B07PQGW2LT-es'
 tags: [ 'billetera', ]
 actualPrice: 8.97 EUR
 currency: EUR

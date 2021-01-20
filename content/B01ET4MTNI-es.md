@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ET4MTNI-es Helly Hansen W Aden Long Chaqueta Mujer Black XXL'
+sku: 'B01ET4MTNI-es'
 tags: [ 'chaqueta', ]
 actualPrice: 99.5 EUR
 currency: EUR

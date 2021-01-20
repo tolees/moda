@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P1B5BLQ-es Superdry Orange Label Vintage Embroidery LS Top Camiseta...'
+sku: 'B07P1B5BLQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.4 EUR
 currency: EUR

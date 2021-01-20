@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNQVVJ-es G-STAR RAW Varve Wool Abrigo Negro Dk Black 6484 XX-Small...'
+sku: 'B07NDNQVVJ-es'
 tags: [ 'abrigo', ]
 actualPrice: 35.72 EUR
 currency: EUR

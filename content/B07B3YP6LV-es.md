@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3YP6LV-es Clarks Walbeck Edge II Zapatos de Cordones Derby para...'
+sku: 'B07B3YP6LV-es'
 tags: [ 'zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR

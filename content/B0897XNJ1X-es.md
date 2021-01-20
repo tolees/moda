@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897XNJ1X-es Zapatos Colchón Aire Deporte Mujer Zapatillas Deportivas...'
+sku: 'B0897XNJ1X-es'
 tags: [ 'zapatos', ]
 actualPrice: 23.75 EUR
 currency: EUR

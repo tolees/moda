@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6LDSWJ-es Under Armour Tactical All Season Chaqueta Hombre Negro MD'
+sku: 'B07L6LDSWJ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 47.99 EUR
 currency: EUR

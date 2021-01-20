@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVR1CLX-es Esprit 119EE1G014 Abrigo Azul Navy 400 S para Mujer'
+sku: 'B07XVR1CLX-es'
 tags: [ 'abrigo', ]
 actualPrice: 25.37 EUR
 currency: EUR

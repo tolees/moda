@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGHV519-es Pepe Jeans Antonia Pl504170 Camiseta Optic White 802...'
+sku: 'B07JGHV519-es'
 tags: [ 'camiseta', ]
 actualPrice: 25.95 EUR
 currency: EUR

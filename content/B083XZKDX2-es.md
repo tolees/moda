@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XZKDX2-es IPOTCH 1/6 Chaqueta Cortavientos de Mangas Largas con...'
+sku: 'B083XZKDX2-es'
 tags: [ 'chaqueta', ]
 actualPrice: 24.99 EUR
 currency: EUR

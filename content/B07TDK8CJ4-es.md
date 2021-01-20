@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDK8CJ4-es Bolso de Fiesta Noche Hard Shell Clutch Pequeña Diamantes...'
+sku: 'B07TDK8CJ4-es'
 tags: [ 'billetera','bolso', ]
 actualPrice: 26.99 EUR
 currency: EUR

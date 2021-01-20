@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PW8YKS8-es Duevin Bolso de la Motocicleta de la Mujer Mate PU...'
+sku: 'B07PW8YKS8-es'
 tags: [ 'bolso', ]
 actualPrice: 12.99 EUR
 currency: EUR

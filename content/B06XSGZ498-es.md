@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSGZ498-es Izas Chaqueta de Punto Samaun'
+sku: 'B06XSGZ498-es'
 tags: [ 'chaqueta', ]
 actualPrice: 30.98 EUR
 currency: EUR

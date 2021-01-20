@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XFFBDR8-es Vans Colorblock tee - Camiseta para Hombre Blanco...'
+sku: 'B06XFFBDR8-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.0 EUR
 currency: EUR

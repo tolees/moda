@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3NBN2B-es BOSS Mabsoot Camisa Azul Dark Blue 4040 XXX-Large para Hombre'
+sku: 'B07K3NBN2B-es'
 tags: [ 'camisa', ]
 actualPrice: 42.07 EUR
 currency: EUR

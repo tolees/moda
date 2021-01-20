@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Y7B7PV-es Jack & Jones Jjelogo tee SS O-Neck 2 Col Ss20 Noos...'
+sku: 'B082Y7B7PV-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.39 EUR
 currency: EUR

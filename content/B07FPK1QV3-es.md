@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPK1QV3-es The North Face M Tball Triclim Jkt Chaqueta Thermoball...'
+sku: 'B07FPK1QV3-es'
 tags: [ 'chaqueta', ]
 actualPrice: 175.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895XJSQJ-es Bst4UDirect Bebés Natación Anillo Recién Nacido Bebé...'
+sku: 'B0895XJSQJ-es'
 tags: [ 'gafas', ]
 actualPrice: 12.99 EUR
 currency: EUR

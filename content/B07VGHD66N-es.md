@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGHD66N-es BLEND Jet Vaqueros Slim Azul Denim Middle Blue 76201...'
+sku: 'B07VGHD66N-es'
 tags: [ 'vaqueros', ]
 actualPrice: 29.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMWRZHW-es Clarks Lafley Lily Sandalias de Talón Abierto para Mujer...'
+sku: 'B07TMWRZHW-es'
 tags: [ 'sandalias', ]
 actualPrice: 25.09 EUR
 currency: EUR

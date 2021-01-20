@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XR2WWBS-es Marca Amazon - FIND Mule Wedge Zapatos de tacón con Punta...'
+sku: 'B07XR2WWBS-es'
 tags: [ 'zapatos', ]
 actualPrice: 4.88 EUR
 currency: EUR

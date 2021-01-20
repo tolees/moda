@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN7HY5S-es Crocs Specialist II Vent Clog Zuecos Unisex Adulto Negro...'
+sku: 'B07CN7HY5S-es'
 tags: [ 'zuecos', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077V1GBM5-es Kipling Syro Bolso bandolera para Mujer Marrón True Beige...'
+sku: 'B077V1GBM5-es'
 tags: [ 'bolso', ]
 actualPrice: 21.22 EUR
 currency: EUR

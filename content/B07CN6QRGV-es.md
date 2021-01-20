@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN6QRGV-es Hollywood Star Fashion Camisa de Manga Corta con Cuello en...'
+sku: 'B07CN6QRGV-es'
 tags: [ 'camisa', ]
 actualPrice: 3.99 EUR
 currency: EUR

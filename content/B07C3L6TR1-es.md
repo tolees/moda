@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C3L6TR1-es Superdry Tech Hood Pop Zip SD-wndcheate Chaqueta Deportiva...'
+sku: 'B07C3L6TR1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 45.49 EUR
 currency: EUR

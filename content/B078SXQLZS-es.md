@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SXQLZS-es Timberland Kiri Up Oxford Zapatillas de Gimnasia para...'
+sku: 'B078SXQLZS-es'
 tags: [ 'timberland', ]
 actualPrice: 69.67 EUR
 currency: EUR

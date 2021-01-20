@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP3DTX-es Helly Hansen HH Tech 1/2 Zip Camiseta de Manga Larga con...'
+sku: 'B073RP3DTX-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR

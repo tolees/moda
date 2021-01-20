@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBV6WHR-es edc by Esprit 099cc1d009 Falda Azul Grey Blue 420 36 Talla...'
+sku: 'B07VBV6WHR-es'
 tags: [ 'falda', ]
 actualPrice: 8.17 EUR
 currency: EUR

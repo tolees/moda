@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000QDTSQ8-es Birkenstock Milano Birko-Flor Wide Sandalias con Correa de...'
+sku: 'B000QDTSQ8-es'
 tags: [ 'sandalias', ]
 actualPrice: 58.45 EUR
 currency: EUR

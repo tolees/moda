@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FGMVF7-es IWEMEK Disfraz Elsa Frozen 2 Vestido de Princesa con...'
+sku: 'B082FGMVF7-es'
 tags: [ 'abrigo','vestido', ]
 actualPrice: 22.55 EUR
 currency: EUR

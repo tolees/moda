@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SJ6WYL-es adidas Own The Run Jkt Chaqueta de Deporte Hombre...'
+sku: 'B081SJ6WYL-es'
 tags: [ 'chaqueta', ]
 actualPrice: 32.97 EUR
 currency: EUR

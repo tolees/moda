@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWGG44K-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Azul Wiser Wash...'
+sku: 'B07RWGG44K-es'
 tags: [ 'vaqueros', ]
 actualPrice: 48.02 EUR
 currency: EUR

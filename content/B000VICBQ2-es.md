@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VICBQ2-es Timberland 6-inch Premium Wp Botas Clasicas Unisex Niñitos...'
+sku: 'B000VICBQ2-es'
 tags: [ 'timberland', ]
 actualPrice: 70.99 EUR
 currency: EUR

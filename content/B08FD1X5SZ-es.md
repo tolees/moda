@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FD1X5SZ-es Doaraha Pantalones Deportivos Mujer Algodón Pantalón de...'
+sku: 'B08FD1X5SZ-es'
 tags: [ 'pantalón', ]
 actualPrice: 20.79 EUR
 currency: EUR

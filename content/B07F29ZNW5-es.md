@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F29ZNW5-es Timberland Union Wharf Plain Toe SO Slip On para Hombre...'
+sku: 'B07F29ZNW5-es'
 tags: [ 'timberland', ]
 actualPrice: 30.0 EUR
 currency: EUR

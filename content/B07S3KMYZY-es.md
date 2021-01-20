@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3KMYZY-es Levi s Vneck Camiseta Negro Caviar 0003 X-Small para Mujer'
+sku: 'B07S3KMYZY-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR

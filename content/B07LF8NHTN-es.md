@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF8NHTN-es Levi s Slim 2pk Crewneck 1 Camiseta Multicolor 2 Pack Pine...'
+sku: 'B07LF8NHTN-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.95 EUR
 currency: EUR

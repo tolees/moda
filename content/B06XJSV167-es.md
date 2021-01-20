@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJSV167-es Pepe Jeans Spike Vaqueros Negro Black Used Wa3 W28/L32...'
+sku: 'B06XJSV167-es'
 tags: [ 'vaqueros', ]
 actualPrice: 48.99 EUR
 currency: EUR

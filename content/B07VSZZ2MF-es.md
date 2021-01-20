@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSZZ2MF-es Lee Brooklyn Straight Hombre Vaqueros Gris Moto Flat EB...'
+sku: 'B07VSZZ2MF-es'
 tags: [ 'vaqueros', ]
 actualPrice: 37.99 EUR
 currency: EUR

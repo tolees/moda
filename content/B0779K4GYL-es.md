@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779K4GYL-es Pepe Jeans GOLDERS PM503213 Camiseta Blanco Optic White...'
+sku: 'B0779K4GYL-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YFPV4B-es Sportout Iños y Adolescentes Adultos Guantes de Portero de...'
+sku: 'B075YFPV4B-es'
 tags: [ 'guantes', ]
 actualPrice: 22.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ4LYZL-es amzdeal - 30pcs Organizadores de Zapatos Ajustables...'
+sku: 'B07SJ4LYZL-es'
 tags: [ 'zapatos', ]
 actualPrice: 37.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076P8L5SF-es HAPPY MAMA. Mujer Sudadera Capucha Lactancia Premamá...'
+sku: 'B076P8L5SF-es'
 tags: [ 'sudadera', ]
 actualPrice: 16.12 EUR
 currency: EUR

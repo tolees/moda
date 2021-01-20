@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJTJGS2-es Levi s SS Original Hm tee Camiseta Multicolor Cotton +...'
+sku: 'B07CJTJGS2-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP7Z8H-es Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de...'
+sku: 'B073RP7Z8H-es'
 tags: [ 'camiseta', ]
 actualPrice: 21.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1B9GDP-es JACK & JONES Jjeorganic Basic tee SS O-Neck Noos Camiseta...'
+sku: 'B07S1B9GDP-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.04 EUR
 currency: EUR

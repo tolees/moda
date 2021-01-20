@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSQZ4N6-es Columbia Inner Limits Chaqueta para Lluvia Negro/Gris 3XL...'
+sku: 'B07KSQZ4N6-es'
 tags: [ 'chaqueta', ]
 actualPrice: 45.56 EUR
 currency: EUR

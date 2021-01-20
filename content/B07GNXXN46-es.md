@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNXXN46-es The Indian Face Gafas de Sol Espejadas Oxygen Mujer Hombre...'
+sku: 'B07GNXXN46-es'
 tags: [ 'gafas', ]
 actualPrice: 39.0 EUR
 currency: EUR

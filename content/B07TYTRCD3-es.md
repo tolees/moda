@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYTRCD3-es Puma Junior Gafas de sol Multicolor Crystal/Silver/Havana...'
+sku: 'B07TYTRCD3-es'
 tags: [ 'gafas', ]
 actualPrice: 6.66 EUR
 currency: EUR

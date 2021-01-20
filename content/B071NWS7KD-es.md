@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NWS7KD-es Marca Amazon - find. Camiseta con Estampado Gráfico para...'
+sku: 'B071NWS7KD-es'
 tags: [ 'camiseta','-','find.', ]
 actualPrice: 4.89 EUR
 currency: EUR

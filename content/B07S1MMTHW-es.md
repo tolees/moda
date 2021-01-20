@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1MMTHW-es New Balance 373 Hook and Loop n Zapatilla Clásica para...'
+sku: 'B07S1MMTHW-es'
 tags: [ 'zapatilla', ]
 actualPrice: 27.22 EUR
 currency: EUR

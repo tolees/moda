@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5FXN37-es Mujer Vestido Lápiz de Oficina Elegante Mangas Cortas S...'
+sku: 'B07X5FXN37-es'
 tags: [ 'vestido', ]
 actualPrice: 26.99 EUR
 currency: EUR

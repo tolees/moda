@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMZSV7N-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños...'
+sku: 'B07CMZSV7N-es'
 tags: [ 'zuecos', ]
 actualPrice: 15.11 EUR
 currency: EUR

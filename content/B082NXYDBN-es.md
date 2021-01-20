@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NXYDBN-es Oihxse Transparente Silicona Case Compatible con Sony...'
+sku: 'B082NXYDBN-es'
 tags: [ 'moda', ]
 actualPrice: 7.98 EUR
 currency: EUR

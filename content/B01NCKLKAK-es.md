@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCKLKAK-es G-Star Eyben Slim R T Wmn S/s Camiseta Blanco White 110 42...'
+sku: 'B01NCKLKAK-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR

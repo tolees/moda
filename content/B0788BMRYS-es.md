@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788BMRYS-es Tommy Hilfiger RN tee SS Camiseta Blanco White 100 X-Large...'
+sku: 'B0788BMRYS-es'
 tags: [ 'camiseta', ]
 actualPrice: 25.99 EUR
 currency: EUR

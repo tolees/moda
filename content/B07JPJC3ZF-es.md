@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPJC3ZF-es Ledger Nano S - V1.4 - Monedero Hardware de criptomonedas...'
+sku: 'B07JPJC3ZF-es'
 tags: [ 'monedero', ]
 actualPrice: 44.25 EUR
 currency: EUR

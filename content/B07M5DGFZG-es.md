@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DGFZG-es Lee Rider Jeans Vaqueros Moto Black 32W / 32L para Hombre'
+sku: 'B07M5DGFZG-es'
 tags: [ 'vaqueros', ]
 actualPrice: 45.71 EUR
 currency: EUR

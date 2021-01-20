@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHTO118-es Under Armour UA Heatgear Long Sleeve Camiseta De Manga...'
+sku: 'B00KHTO118-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR

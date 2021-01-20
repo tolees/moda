@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2FTHP3-es Timberland Bradstreet Hiker Botas Chukka para Hombre Negro...'
+sku: 'B07K2FTHP3-es'
 tags: [ 'timberland', ]
 actualPrice: 58.99 EUR
 currency: EUR

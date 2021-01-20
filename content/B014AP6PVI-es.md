@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014AP6PVI-es Dockers by Gerli 37wa703 Botines Unisex Niños Marrón Braun...'
+sku: 'B014AP6PVI-es'
 tags: [ 'botines', ]
 actualPrice: 10.44 EUR
 currency: EUR

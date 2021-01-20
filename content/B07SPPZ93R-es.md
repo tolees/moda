@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPPZ93R-es Flintronic® Cartera Tarjeta de Crédito Slim Billetera...'
+sku: 'B07SPPZ93R-es'
 tags: [ 'billetera', ]
 actualPrice: 10.49 EUR
 currency: EUR

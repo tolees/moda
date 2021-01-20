@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B1J1WK1-es Pantalón Chándal y Deportivo para Mujer Pantalones de...'
+sku: 'B08B1J1WK1-es'
 tags: [ 'pantalón', ]
 actualPrice: 16.89 EUR
 currency: EUR

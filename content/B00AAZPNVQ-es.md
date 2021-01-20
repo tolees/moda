@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AAZPNVQ-es MUSTELA - MUSTELA BOLSO PRIMEROS PRODUCT'
+sku: 'B00AAZPNVQ-es'
 tags: [ 'bolso', ]
 actualPrice: 4.36 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3BRCS8-es Desigual Dress LORETHA Vestido Negro Negro 2000 46 para Mujer'
+sku: 'B07N3BRCS8-es'
 tags: [ 'vestido', ]
 actualPrice: 40.0 EUR
 currency: EUR

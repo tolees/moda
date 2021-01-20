@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PXB7Z-es PUMA Epic Flip V2 Amplified Zapatos de Playa y Piscina...'
+sku: 'B07S8PXB7Z-es'
 tags: [ 'zapatos', ]
 actualPrice: 13.15 EUR
 currency: EUR

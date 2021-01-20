@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN2QR1D-es Calvin Klein Sonnenbrille Ck4359S 22 Gafas de sol Rosa...'
+sku: 'B07CN2QR1D-es'
 tags: [ 'gafas', ]
 actualPrice: 36.81 EUR
 currency: EUR

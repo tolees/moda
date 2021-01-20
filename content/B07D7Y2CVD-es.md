@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7Y2CVD-es Charles Wilson Camisa Original Manga Larga Cuadros para...'
+sku: 'B07D7Y2CVD-es'
 tags: [ 'camisa', ]
 actualPrice: 12.95 EUR
 currency: EUR

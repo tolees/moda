@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCDV75-es Kipling Amiel Bolso de Mano Mediano para Mujer Dorado...'
+sku: 'B07PRCDV75-es'
 tags: [ 'bolso', ]
 actualPrice: 31.74 EUR
 currency: EUR

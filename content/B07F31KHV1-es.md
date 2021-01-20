@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F31KHV1-es Helly Hansen Crew Windbreaker Jacket Chaqueta deportiva...'
+sku: 'B07F31KHV1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 58.14 EUR
 currency: EUR

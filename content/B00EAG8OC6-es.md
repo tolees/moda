@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EAG8OC6-es SEAC Biogel Antiempañante para máscaras y Gafas 100%...'
+sku: 'B00EAG8OC6-es'
 tags: [ 'gafas', ]
 actualPrice: 5.49 EUR
 currency: EUR

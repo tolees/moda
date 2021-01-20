@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F22R8XJ-es Timberland Newport Bay Zapatillas Bajas para Hombre Blanco...'
+sku: 'B07F22R8XJ-es'
 tags: [ 'timberland', ]
 actualPrice: 32.5 EUR
 currency: EUR

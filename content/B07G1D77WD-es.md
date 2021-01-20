@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1D77WD-es Feilaxleer Ropa Ciclismo Verano para Hombre y Mujer - Un...'
+sku: 'B07G1D77WD-es'
 tags: [ 'jersey', ]
 actualPrice: 33.89 EUR
 currency: EUR

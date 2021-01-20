@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JHBL2V-es Marca Amazon - find. Calcetines Hombre Pack de 7 Blanco...'
+sku: 'B071JHBL2V-es'
 tags: [ '-','find.', ]
 actualPrice: 13.21 EUR
 currency: EUR

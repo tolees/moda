@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYD2NDF-es New Look Bermuda Button Falda Azul Navy 41 42 Talla del...'
+sku: 'B07PYD2NDF-es'
 tags: [ 'falda', ]
 actualPrice: 6.96 EUR
 currency: EUR

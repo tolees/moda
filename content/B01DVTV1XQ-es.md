@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DVTV1XQ-es URAQT Princesa Traje del Vestido Traje de Princesa Azul...'
+sku: 'B01DVTV1XQ-es'
 tags: [ 'vestido', ]
 actualPrice: 17.99 EUR
 currency: EUR

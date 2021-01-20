@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZH2Y73-es Tikea Bolsa Geométrica Luminosa Holográfica para Mujer...'
+sku: 'B07SZH2Y73-es'
 tags: [ 'moda', ]
 actualPrice: 17.99 EUR
 currency: EUR

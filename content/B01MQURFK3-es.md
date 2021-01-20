@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQURFK3-es Pendientes de Moda Rectángulo Largo Azul Gris y Púrpura...'
+sku: 'B01MQURFK3-es'
 tags: [ 'moda', ]
 actualPrice: 19.99 EUR
 currency: EUR

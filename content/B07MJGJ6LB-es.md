@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJGJ6LB-es CMP Rigel Mid Zapatos de High Rise Senderismo Unisex...'
+sku: 'B07MJGJ6LB-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.76 EUR
 currency: EUR

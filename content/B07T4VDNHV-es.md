@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4VDNHV-es Nike Barcelona Camiseta Hombre Amarillo 2ª Equipación M'
+sku: 'B07T4VDNHV-es'
 tags: [ 'camiseta', ]
 actualPrice: 32.1 EUR
 currency: EUR

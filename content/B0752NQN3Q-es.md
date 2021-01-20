@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0752NQN3Q-es G-STAR RAW 3301 Loose Vaqueros Medium Aged 9299-071 38W /...'
+sku: 'B0752NQN3Q-es'
 tags: [ 'vaqueros', ]
 actualPrice: 64.99 EUR
 currency: EUR

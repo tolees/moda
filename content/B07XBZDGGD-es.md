@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBZDGGD-es Esprit 109Ee1K026 Camiseta de Manga Larga Negro Black 001...'
+sku: 'B07XBZDGGD-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR

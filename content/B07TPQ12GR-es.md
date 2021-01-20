@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPQ12GR-es Levi s Crewneck 1 Camiseta Multicolor 2pk Slim Crew...'
+sku: 'B07TPQ12GR-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.5 EUR
 currency: EUR

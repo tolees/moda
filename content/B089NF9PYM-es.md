@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NF9PYM-es Jack & Jones JJEJEANS tee SS Crew Neck Noos 20/21 Camiseta...'
+sku: 'B089NF9PYM-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.99 EUR
 currency: EUR

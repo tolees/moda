@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0ZNA4P-es Kappa Fredo Pantalón Corto Hombre Azul Marino YL'
+sku: 'B01N0ZNA4P-es'
 tags: [ 'pantalón', ]
 actualPrice: 10.99 EUR
 currency: EUR

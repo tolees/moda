@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMT86VX-es FitFlop Lottie Shimmermesh Chanclas para Mujer Negro Black...'
+sku: 'B07KMT86VX-es'
 tags: [ 'chanclas', ]
 actualPrice: 59.4 EUR
 currency: EUR

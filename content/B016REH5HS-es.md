@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016REH5HS-es adidas Parma 16 Sho - Pantalón corto para Niños Negro...'
+sku: 'B016REH5HS-es'
 tags: [ 'pantalón', ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD93JVL-es Helly Hansen Nord Graphic T-Shirt Camiseta Hombre Grey...'
+sku: 'B07SD93JVL-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV7MVBC-es Levi s The tee Camiseta Negro 90 s Serif T2 Caviar 0959...'
+sku: 'B07TV7MVBC-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.49 EUR
 currency: EUR

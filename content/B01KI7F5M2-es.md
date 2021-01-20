@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KI7F5M2-es Samsonite Qibyte Laptop Bag 15.6" Bolso Bandolera 11...'
+sku: 'B01KI7F5M2-es'
 tags: [ 'bolso', ]
 actualPrice: 38.5 EUR
 currency: EUR

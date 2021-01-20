@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH9VHLQ-es Timberland Malibu Waves Thong Sandalias para Mujer Verde...'
+sku: 'B07FH9VHLQ-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 40.0 EUR
 currency: EUR

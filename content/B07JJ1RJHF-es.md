@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ1RJHF-es Timberland Adventure 2.0 Cupsole Zapatillas Altas para...'
+sku: 'B07JJ1RJHF-es'
 tags: [ 'timberland', ]
 actualPrice: 87 EUR
 currency: EUR

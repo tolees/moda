@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPKDVQ-es Helly Hansen Logo Hoodie Sudadera Con Capucha Hombre blanco M'
+sku: 'B073RPKDVQ-es'
 tags: [ 'sudadera', ]
 actualPrice: 44.2 EUR
 currency: EUR

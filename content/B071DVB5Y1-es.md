@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071DVB5Y1-es G-STAR RAW 3301 Slim Vaqueros Medium Aged 9118-071 27W /...'
+sku: 'B071DVB5Y1-es'
 tags: [ 'vaqueros', ]
 actualPrice: 26.13 EUR
 currency: EUR

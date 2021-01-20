@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3Q1Y5-es Superdry Padded Elite Jacket Chaqueta Negro Jet Black 12a...'
+sku: 'B07NY3Q1Y5-es'
 tags: [ 'chaqueta', ]
 actualPrice: 26.55 EUR
 currency: EUR

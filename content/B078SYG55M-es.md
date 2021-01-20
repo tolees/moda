@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SYG55M-es Marca Amazon - TRUTH & FABLE Vestido midi de gasa con...'
+sku: 'B078SYG55M-es'
 tags: [ 'vestido', ]
 actualPrice: 20.46 EUR
 currency: EUR

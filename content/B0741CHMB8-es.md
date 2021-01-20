@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0741CHMB8-es Verdster Islander – Gafas de Sol Clásicas de Espejo Anchas...'
+sku: 'B0741CHMB8-es'
 tags: [ 'gafas','moda', ]
 actualPrice: 16.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSF2YB3-es Greylags 100% Algodón Prima Camiseta para Hombre | Cuello...'
+sku: 'B07SSF2YB3-es'
 tags: [ 'camiseta', ]
 actualPrice: 22.46 EUR
 currency: EUR

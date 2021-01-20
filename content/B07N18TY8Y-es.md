@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N18TY8Y-es G-STAR RAW Lynn Mid Skinny Vaqueros Azul Faded Blue...'
+sku: 'B07N18TY8Y-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.68 EUR
 currency: EUR

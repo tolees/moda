@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ8J2KR-es Levi s Vneck Camiseta Azul Sea Captain Blue 0005 Small...'
+sku: 'B07RZ8J2KR-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR

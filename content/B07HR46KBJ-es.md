@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HR46KBJ-es Jack & Jones Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros...'
+sku: 'B07HR46KBJ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 36.9 EUR
 currency: EUR

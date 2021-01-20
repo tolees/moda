@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLQ46FD-es Cartera de Cuero Negro Cartera de Piel Billetera de Hombre...'
+sku: 'B07PLQ46FD-es'
 tags: [ 'billetera', ]
 actualPrice: 14.99 EUR
 currency: EUR

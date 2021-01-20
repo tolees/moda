@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SWXN8K-es Timberland Malibu Waves Sandalias para Mujer Negro Black...'
+sku: 'B078SWXN8K-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 54.99 EUR
 currency: EUR

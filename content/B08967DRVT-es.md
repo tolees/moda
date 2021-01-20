@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08967DRVT-es UMUSTY 3D One punch man Funda de lápiz con cremallera...'
+sku: 'B08967DRVT-es'
 tags: [ 'bolso', ]
 actualPrice: 5.89 EUR
 currency: EUR

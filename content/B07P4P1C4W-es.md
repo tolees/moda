@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4P1C4W-es Art Bergen Botines para Mujer Verde Forest Forest 39 EU'
+sku: 'B07P4P1C4W-es'
 tags: [ 'botines', ]
 actualPrice: 59.97 EUR
 currency: EUR

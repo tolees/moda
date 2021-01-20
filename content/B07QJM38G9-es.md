@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJM38G9-es Marca Amazon - AURIQUE Mallas de Deporte con Panel de...'
+sku: 'B07QJM38G9-es'
 tags: [ 'aurique', ]
 actualPrice: 14.82 EUR
 currency: EUR

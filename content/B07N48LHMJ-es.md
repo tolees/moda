@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N48LHMJ-es United Colors of Benetton Basico 3 Woman Abrigo Negro 100...'
+sku: 'B07N48LHMJ-es'
 tags: [ 'abrigo', ]
 actualPrice: 24.95 EUR
 currency: EUR

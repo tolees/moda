@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRCYVQP-es FitFlop Twiss Slide Sandalias de Punta Descubierta Mujer...'
+sku: 'B07KRCYVQP-es'
 tags: [ 'sandalias', ]
 actualPrice: 48.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0799BXFYT-es Marca Amazon - MERAKI Camisa de Vestir de Corte Recto...'
+sku: 'B0799BXFYT-es'
 tags: [ 'camisa','meraki', ]
 actualPrice: 6.7 EUR
 currency: EUR

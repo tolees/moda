@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRKSRSZ-es United Colors of Benetton Layette BB G2 Camiseta de Manga...'
+sku: 'B07MRKSRSZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.41 EUR
 currency: EUR

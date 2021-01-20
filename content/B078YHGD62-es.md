@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YHGD62-es PUMA Liga Training Jr Chaqueta de Entrenamiento Unisex...'
+sku: 'B078YHGD62-es'
 tags: [ 'chaqueta', ]
 actualPrice: 15.65 EUR
 currency: EUR

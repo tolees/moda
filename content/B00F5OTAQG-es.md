@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F5OTAQG-es GANT The Original SS T-Shirt Camiseta Blanco White 110...'
+sku: 'B00F5OTAQG-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.92 EUR
 currency: EUR

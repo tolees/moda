@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00845PWLU-es Joma Brama Classic - Camiseta térmica de manga larga para...'
+sku: 'B00845PWLU-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.88 EUR
 currency: EUR

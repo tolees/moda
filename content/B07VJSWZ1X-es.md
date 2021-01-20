@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJSWZ1X-es Desigual Bols legacy Holbox - Bolso con asas 17 x 30 5 x...'
+sku: 'B07VJSWZ1X-es'
 tags: [ 'bolso', ]
 actualPrice: 36.26 EUR
 currency: EUR

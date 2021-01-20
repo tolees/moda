@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYTCJRQ-es Marca Amazon - find. Vestido de Flores con Volantes Mujer...'
+sku: 'B07NYTCJRQ-es'
 tags: [ 'vestido','-','find.', ]
 actualPrice: 15.22 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF8NHX9-es Levi s Type 3 Chaqueta Vaquera Azul Miracle Sauce Sherpa...'
+sku: 'B07LF8NHX9-es'
 tags: [ 'chaqueta', ]
 actualPrice: 41.33 EUR
 currency: EUR

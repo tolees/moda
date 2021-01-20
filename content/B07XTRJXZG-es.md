@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTRJXZG-es Jack & Jones JORBRANDON Sweat Hood Sudadera con Capucha...'
+sku: 'B07XTRJXZG-es'
 tags: [ 'sudadera', ]
 actualPrice: 19.74 EUR
 currency: EUR

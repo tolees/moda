@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S72JGHY-es Geschallino Chaqueta con Capucha de Suave Piel Falsa para...'
+sku: 'B07S72JGHY-es'
 tags: [ 'chaqueta', ]
 actualPrice: 42.99 EUR
 currency: EUR

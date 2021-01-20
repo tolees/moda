@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFM2KB2-es Clarks 261440557 - Botines de Cuero Hombre Color Marrón...'
+sku: 'B07MFM2KB2-es'
 tags: [ 'botines', ]
 actualPrice: 35.95 EUR
 currency: EUR

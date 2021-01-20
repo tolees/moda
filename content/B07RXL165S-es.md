@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXL165S-es Levi s The Jacket Chaqueta Vaquera Azul Pale Shade Indigo...'
+sku: 'B07RXL165S-es'
 tags: [ 'chaqueta', ]
 actualPrice: 48.8 EUR
 currency: EUR

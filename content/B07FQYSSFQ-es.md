@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQYSSFQ-es Clarks Laina RAE Zapatos de Tacón para Mujer Beige Nude...'
+sku: 'B07FQYSSFQ-es'
 tags: [ 'zapatos', ]
 actualPrice: 59.9 EUR
 currency: EUR

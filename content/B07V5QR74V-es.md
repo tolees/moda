@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5QR74V-es Tommy Hilfiger Tommy Sequins Flat Sandal Sandalias Punta...'
+sku: 'B07V5QR74V-es'
 tags: [ 'sandalias', ]
 actualPrice: 28.0 EUR
 currency: EUR

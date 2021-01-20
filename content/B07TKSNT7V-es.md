@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKSNT7V-es Clarks Laina55 Court Zapatos de Tacón para Mujer Negro...'
+sku: 'B07TKSNT7V-es'
 tags: [ 'zapatos', ]
 actualPrice: 30.96 EUR
 currency: EUR

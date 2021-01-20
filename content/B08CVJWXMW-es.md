@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVJWXMW-es Ganchos Carrito Bebé 6 Piezas Ganchos para Silla de Paseo...'
+sku: 'B08CVJWXMW-es'
 tags: [ 'bolso', ]
 actualPrice: 6.99 EUR
 currency: EUR

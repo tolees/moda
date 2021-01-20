@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GH36GWV-es WOWOWO Bolso de Mano Multiusos de Cuero PU con Embrague...'
+sku: 'B08GH36GWV-es'
 tags: [ 'bolso', ]
 actualPrice: 13.99 EUR
 currency: EUR

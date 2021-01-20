@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQCPJNL-es LOHOTEK Guantes de Ciclismo Motocicleta Bicicleta Montaña-...'
+sku: 'B07PQCPJNL-es'
 tags: [ 'guantes', ]
 actualPrice: 12.99 EUR
 currency: EUR

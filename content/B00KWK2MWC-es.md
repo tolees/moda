@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KWK2MWC-es Geox U Nebula B - Zapatos para hombre Negro 46 EU'
+sku: 'B00KWK2MWC-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 86.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KC3VWM-es Birkenstock Gizeh Birko-Flor Chanclas para Mujer Negro...'
+sku: 'B000KC3VWM-es'
 tags: [ 'chanclas', ]
 actualPrice: 48.0 EUR
 currency: EUR

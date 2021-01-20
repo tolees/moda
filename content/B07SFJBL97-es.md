@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFJBL97-es Levi s June L S Chanclas para Mujer Negro R Black 59 40 EU'
+sku: 'B07SFJBL97-es'
 tags: [ 'chanclas', ]
 actualPrice: 16.49 EUR
 currency: EUR

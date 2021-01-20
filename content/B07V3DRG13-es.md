@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3DRG13-es HUGO Trunk Brother Pack Bóxer Azul Open Blue 465 Medium 2...'
+sku: 'B07V3DRG13-es'
 tags: [ 'bóxer', ]
 actualPrice: 18.1 EUR
 currency: EUR

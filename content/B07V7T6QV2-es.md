@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7T6QV2-es Bolsa Maternal de Pañales RUVALINO Gran Bolso de Viaje...'
+sku: 'B07V7T6QV2-es'
 tags: [ 'bolso', ]
 actualPrice: 32.98 EUR
 currency: EUR

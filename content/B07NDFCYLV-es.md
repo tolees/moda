@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDFCYLV-es CTAS Platform Layer HI Zapatos Deportivos Mujer Blanco...'
+sku: 'B07NDFCYLV-es'
 tags: [ 'zapatos', ]
 actualPrice: 76.0 EUR
 currency: EUR

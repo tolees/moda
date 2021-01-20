@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRHB672-es Khanomak Camisa Corta del Tirante de Espagueti Mini Encaje...'
+sku: 'B07GRHB672-es'
 tags: [ 'camisa', ]
 actualPrice: 3.99 EUR
 currency: EUR

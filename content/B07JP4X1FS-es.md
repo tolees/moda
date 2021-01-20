@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JP4X1FS-es Amazon Essentials - Pantalón de chándal pirata de algodón...'
+sku: 'B07JP4X1FS-es'
 tags: [ 'pantalón', ]
 actualPrice: 8.8 EUR
 currency: EUR

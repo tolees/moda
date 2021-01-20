@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085L89XTP-es MoneRffi Mujeres Sandalias Planas Sandalias Casuales...'
+sku: 'B085L89XTP-es'
 tags: [ 'sandalias','zapatos', ]
 actualPrice: 14.29 EUR
 currency: EUR

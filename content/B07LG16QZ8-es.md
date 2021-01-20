@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG16QZ8-es Geox U Jaylon F Botas Clasicas para Hombre Negro Black...'
+sku: 'B07LG16QZ8-es'
 tags: [ 'geox', ]
 actualPrice: 63.4 EUR
 currency: EUR

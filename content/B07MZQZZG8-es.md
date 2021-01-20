@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQZZG8-es Pepe Jeans Margaret Camiseta Mousse 808 3-4 Talla del...'
+sku: 'B07MZQZZG8-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR

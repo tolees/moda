@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHRYBX7-es SALOMON Blend Logo SS tee M Camiseta Deportiva de Manga...'
+sku: 'B07WHRYBX7-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.28 EUR
 currency: EUR

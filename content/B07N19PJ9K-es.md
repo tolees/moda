@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N19PJ9K-es Lee Trend Fit Tee Camiseta para Hombre Azul Midnight Navy...'
+sku: 'B07N19PJ9K-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.98 EUR
 currency: EUR

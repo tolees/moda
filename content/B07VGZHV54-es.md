@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGZHV54-es Mocasines Mujer Piel Cuero Loafers Plano Lazy Casual...'
+sku: 'B07VGZHV54-es'
 tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR

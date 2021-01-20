@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012N51ZQC-es Desconocido Ajustables Cordon Elastico Cuello Deporte...'
+sku: 'B012N51ZQC-es'
 tags: [ 'gafas', ]
 actualPrice: 2.99 EUR
 currency: EUR

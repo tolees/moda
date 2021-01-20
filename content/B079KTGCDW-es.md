@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KTGCDW-es Foino Bolso de Moda Bolso Bandolera Mujer Bolsas de Viaje...'
+sku: 'B079KTGCDW-es'
 tags: [ 'bolso','moda', ]
 actualPrice: 18.99 EUR
 currency: EUR

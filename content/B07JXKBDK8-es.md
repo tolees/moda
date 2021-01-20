@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXKBDK8-es XTI 49052 Sandalias con Plataforma para Mujer Marrón Camel...'
+sku: 'B07JXKBDK8-es'
 tags: [ 'sandalias', ]
 actualPrice: 14.95 EUR
 currency: EUR

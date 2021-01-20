@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X53X6NQ-es J.Rosée Caja de Organizador de joyería de Viaje pequeña...'
+sku: 'B07X53X6NQ-es'
 tags: [ 'collar', ]
 actualPrice: 3.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLQP937-es Geographical Norway Sudadera Mujer GYMCLASS B Gris Claro M'
+sku: 'B07XLQP937-es'
 tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR

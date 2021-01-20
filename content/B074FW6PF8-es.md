@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FW6PF8-es find. Sudadera de Raya Ejecutiva para Mujer Azul Navy 38...'
+sku: 'B074FW6PF8-es'
 tags: [ 'sudadera', ]
 actualPrice: 7.8 EUR
 currency: EUR

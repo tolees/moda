@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W59NL8R-es TOUS Dorp Monedero Women s Azul U'
+sku: 'B07W59NL8R-es'
 tags: [ 'monedero', ]
 actualPrice: 23.4 EUR
 currency: EUR

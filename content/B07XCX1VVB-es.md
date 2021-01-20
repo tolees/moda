@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCX1VVB-es Jersey De Hombre Sudadera con Capucha De La Camiseta con...'
+sku: 'B07XCX1VVB-es'
 tags: [ 'camiseta','jersey','sudadera', ]
 actualPrice: 25.0 EUR
 currency: EUR

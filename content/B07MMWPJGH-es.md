@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWPJGH-es Wrangler LS 1pkt Shirt Camisa Rojo Crimson Red X51 Medium...'
+sku: 'B07MMWPJGH-es'
 tags: [ 'camisa', ]
 actualPrice: 15.17 EUR
 currency: EUR

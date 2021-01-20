@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9VRFQ9-es edc by Esprit 129cc2g003 Chaqueta Beige Beige 270 XX-Large...'
+sku: 'B07Y9VRFQ9-es'
 tags: [ 'chaqueta', ]
 actualPrice: 24.77 EUR
 currency: EUR

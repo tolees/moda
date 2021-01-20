@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BP9MDDF-es find. Camisa Formal Entallada Hombre Azul Navy X-Large...'
+sku: 'B07BP9MDDF-es'
 tags: [ 'camisa', ]
 actualPrice: 10 EUR
 currency: EUR

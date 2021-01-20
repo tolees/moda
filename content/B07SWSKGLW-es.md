@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWSKGLW-es Geox J Alonisso Boy D Zapatillas Altas para Niños Azul...'
+sku: 'B07SWSKGLW-es'
 tags: [ 'geox', ]
 actualPrice: 20.42 EUR
 currency: EUR

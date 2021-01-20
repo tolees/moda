@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BZYSRF-es Only onlRAIN REG Skinny Jeans CRY6060 Noos Vaqueros Negro...'
+sku: 'B072BZYSRF-es'
 tags: [ 'vaqueros', ]
 actualPrice: 18.89 EUR
 currency: EUR

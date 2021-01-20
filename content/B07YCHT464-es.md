@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCHT464-es Vans Colorblock tee Camiseta Multicolor Ash Heather/Black...'
+sku: 'B07YCHT464-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR

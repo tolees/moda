@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M962THH-es Wrangler Slim Western Shirt Blusa Azul Dark Indigo X1e...'
+sku: 'B07M962THH-es'
 tags: [ 'blusa', ]
 actualPrice: 19.05 EUR
 currency: EUR

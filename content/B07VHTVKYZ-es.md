@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHTVKYZ-es Desigual Vest Paradise Vestido Rojo Rojo ROJA 3061 Small...'
+sku: 'B07VHTVKYZ-es'
 tags: [ 'vestido', ]
 actualPrice: 39.74 EUR
 currency: EUR

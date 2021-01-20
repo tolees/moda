@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN217GD-es MTNG Collection 50037 Sandalias con Punta Cerrada para...'
+sku: 'B07MN217GD-es'
 tags: [ 'sandalias', ]
 actualPrice: 22.0 EUR
 currency: EUR

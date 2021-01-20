@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPNNGJC-es Tommy Hilfiger Classic Bikini Braguitas Rojo Tango Red 611...'
+sku: 'B07FPNNGJC-es'
 tags: [ 'bikini', ]
 actualPrice: 15.96 EUR
 currency: EUR

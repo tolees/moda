@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPX5W1T-es Marca Amazon - MERAKI Shorts de Lino Mujer Negro Black 36...'
+sku: 'B07NPX5W1T-es'
 tags: [ 'meraki', ]
 actualPrice: 8.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005I0DSIS-es Carissima Gold Collar con colgante de mujer con oro...'
+sku: 'B005I0DSIS-es'
 tags: [ 'collar', ]
 actualPrice: 51.0 EUR
 currency: EUR

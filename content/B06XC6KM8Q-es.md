@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC6KM8Q-es Clarks Tilden Walk Zapatos de Cordones Derby Marrón Dark...'
+sku: 'B06XC6KM8Q-es'
 tags: [ 'zapatos', ]
 actualPrice: 39.5 EUR
 currency: EUR

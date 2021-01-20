@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYWBP6Y-es VPASS Pantalones Hombre Verano Casuales Moda Deportivos...'
+sku: 'B07RYWBP6Y-es'
 tags: [ 'moda', ]
 actualPrice: 1.56 EUR
 currency: EUR

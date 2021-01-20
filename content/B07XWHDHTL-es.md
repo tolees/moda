@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XWHDHTL-es SKPAT - Maletín Portadocumentos de Mujer. Cartera para...'
+sku: 'B07XWHDHTL-es'
 tags: [ 'bolso', ]
 actualPrice: 41.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788LWHL5-es Salomon AGILE LS Camiseta deportiva de manga larga Hombre...'
+sku: 'B0788LWHL5-es'
 tags: [ 'camiseta', ]
 actualPrice: 34.98 EUR
 currency: EUR

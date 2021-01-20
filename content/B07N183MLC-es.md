@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N183MLC-es G-STAR RAW 5620 3D Vaqueros Slim Azul Dry Waxed Cobler...'
+sku: 'B07N183MLC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 83.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9YWD18-es T-wilker Limpiador de Cadena de Bicicleta combinación de...'
+sku: 'B07B9YWD18-es'
 tags: [ 'guantes', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGRWW7J-es Desigual Mone Rhapsody Zip Around - Monedero para Mujer 2...'
+sku: 'B07VGRWW7J-es'
 tags: [ 'monedero', ]
 actualPrice: 13.76 EUR
 currency: EUR

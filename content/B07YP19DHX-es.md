@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YP19DHX-es SIMPLY BE Ladies Jersey Swing Dress Vestido Multicolor...'
+sku: 'B07YP19DHX-es'
 tags: [ 'jersey','vestido', ]
 actualPrice: 16.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMNWW3X-es Superdry OL Essential Vee tee Camiseta Negro Black 02a S...'
+sku: 'B07TMNWW3X-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.99 EUR
 currency: EUR

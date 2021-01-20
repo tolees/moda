@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC132NN-es Clarks Un Venture Low Zapatos de Cordones Derby para...'
+sku: 'B07MC132NN-es'
 tags: [ 'zapatos', ]
 actualPrice: 39.86 EUR
 currency: EUR

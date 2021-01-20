@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZCTCZR-es Under Armour Sportstyle Logo LS Camiseta Hombre Negro...'
+sku: 'B07CZCTCZR-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMZW7C-es G-STAR RAW Joosa V-Neck Camiseta Rojo Port Red 4608 40...'
+sku: 'B07NDMZW7C-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.98 EUR
 currency: EUR

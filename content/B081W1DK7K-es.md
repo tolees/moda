@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081W1DK7K-es Fred Perry Taped Chest Track Jacket Chaqueta deportiva - M'
+sku: 'B081W1DK7K-es'
 tags: [ 'chaqueta', ]
 actualPrice: 109.99 EUR
 currency: EUR

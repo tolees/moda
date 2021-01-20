@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJK4J93-es Clarks Adriel Cove Zapatos con Tacon y Correa de Tobillo...'
+sku: 'B07TJK4J93-es'
 tags: [ 'zapatos', ]
 actualPrice: 59.95 EUR
 currency: EUR

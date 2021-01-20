@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087P2PFVT-es Kaizi Karzi Mujer Moda Puntiagudo Zapatos de la Corte...'
+sku: 'B087P2PFVT-es'
 tags: [ 'moda','vestido','zapatos', ]
 actualPrice: 25.86 EUR
 currency: EUR

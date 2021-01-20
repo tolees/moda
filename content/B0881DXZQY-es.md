@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881DXZQY-es HAOYE Funda para Sony Xperia L4 Funda Suave PU Cuero Flip...'
+sku: 'B0881DXZQY-es'
 tags: [ 'billetera', ]
 actualPrice: 3.99 EUR
 currency: EUR

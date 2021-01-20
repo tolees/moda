@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VWWNBTJ-es Vans Colorblock tee - Camiseta para Hombre Negro...'
+sku: 'B06VWWNBTJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.15 EUR
 currency: EUR

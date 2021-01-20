@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZYHL7J-es Kipling Gabbie Bolso bandolera para Mujer Azul Wave Blue...'
+sku: 'B07TZYHL7J-es'
 tags: [ 'bolso', ]
 actualPrice: 35.97 EUR
 currency: EUR

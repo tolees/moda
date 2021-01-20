@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XG7MC7S-es Gaatpot Zapatos Invierno Niña Niño Botas de Nieve Forradas...'
+sku: 'B07XG7MC7S-es'
 tags: [ 'botines','zapatos', ]
 actualPrice: 24.95 EUR
 currency: EUR

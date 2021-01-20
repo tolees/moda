@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9RHKWW-es Tommy Hilfiger Heritage Crew Neck ¾ Camiseta Azul Midnight...'
+sku: 'B07P9RHKWW-es'
 tags: [ 'camiseta', ]
 actualPrice: 33.62 EUR
 currency: EUR

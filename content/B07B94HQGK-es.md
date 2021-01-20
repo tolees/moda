@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B94HQGK-es Tommy Hilfiger Core Stretch Slim Poplin Camisa Azul Shirt...'
+sku: 'B07B94HQGK-es'
 tags: [ 'camisa', ]
 actualPrice: 72.87 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMXCJJX-es Pantalones de Sauna Adelgazantes Mujer NANOTECNOLOGÍA...'
+sku: 'B07PMXCJJX-es'
 tags: [ 'leggins', ]
 actualPrice: 25.99 EUR
 currency: EUR

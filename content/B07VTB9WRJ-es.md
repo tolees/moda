@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTB9WRJ-es Tommy Hilfiger De Brooklyn Structure Short Flex Vaqueros...'
+sku: 'B07VTB9WRJ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 12.83 EUR
 currency: EUR

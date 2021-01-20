@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y7T9WR-es HIKARO Sudadera con Print Mujer Rosa Coral 40 Talla del...'
+sku: 'B077Y7T9WR-es'
 tags: [ 'sudadera', ]
 actualPrice: 8.17 EUR
 currency: EUR

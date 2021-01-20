@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZGY54K-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Azul 000denim...'
+sku: 'B07WZGY54K-es'
 tags: [ 'vaqueros', ]
 actualPrice: 64.4 EUR
 currency: EUR

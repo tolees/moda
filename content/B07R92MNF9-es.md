@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R92MNF9-es Columbia Pike Lake Chaqueta Mujer Verde Olive Green M'
+sku: 'B07R92MNF9-es'
 tags: [ 'chaqueta', ]
 actualPrice: 38.95 EUR
 currency: EUR

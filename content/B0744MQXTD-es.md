@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0744MQXTD-es Capitán Denim Denver Vaqueros Skinny Azul Mid Blue WNA/L30...'
+sku: 'B0744MQXTD-es'
 tags: [ 'vaqueros', ]
 actualPrice: 10.38 EUR
 currency: EUR

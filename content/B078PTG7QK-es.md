@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078PTG7QK-es G-STAR RAW Core Super Slim Camisa Vaquera Negro Black 990...'
+sku: 'B078PTG7QK-es'
 tags: [ 'camisa', ]
 actualPrice: 19.94 EUR
 currency: EUR

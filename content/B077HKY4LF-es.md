@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HKY4LF-es find. Vestido de Flores y Gasa Mujer Multicolor...'
+sku: 'B077HKY4LF-es'
 tags: [ 'vestido', ]
 actualPrice: 14.1 EUR
 currency: EUR

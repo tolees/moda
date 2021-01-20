@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSJQ5Y8-es Only Onlnorth Nylon Jacket CC Otw Chaqueta Azul Detalle...'
+sku: 'B07TSJQ5Y8-es'
 tags: [ 'chaqueta', ]
 actualPrice: 14.92 EUR
 currency: EUR

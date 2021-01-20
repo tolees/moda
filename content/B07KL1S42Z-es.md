@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL1S42Z-es adidas Essentials Linear Logo tee Camiseta Hombre Azul...'
+sku: 'B07KL1S42Z-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.44 EUR
 currency: EUR

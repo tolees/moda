@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088P4G8WM-es La Valenciana Sandalias Mustang 58553 Marrón - Color -...'
+sku: 'B088P4G8WM-es'
 tags: [ 'sandalias', ]
 actualPrice: 9.99 EUR
 currency: EUR

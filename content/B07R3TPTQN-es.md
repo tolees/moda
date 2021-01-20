@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3TPTQN-es CARE OF by PUMA Chaleco acolchado impermeable para hombre...'
+sku: 'B07R3TPTQN-es'
 tags: [ 'chaleco', ]
 actualPrice: 49 EUR
 currency: EUR

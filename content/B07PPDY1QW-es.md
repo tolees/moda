@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPDY1QW-es Felly Arnés de Seguridad para Caminar Ajustable Arnés de...'
+sku: 'B07PPDY1QW-es'
 tags: [ 'chaleco', ]
 actualPrice: 14.99 EUR
 currency: EUR

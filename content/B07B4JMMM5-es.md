@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4JMMM5-es Timberland Los Angeles Slingback Sandalias con Plataforma...'
+sku: 'B07B4JMMM5-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 62.17 EUR
 currency: EUR

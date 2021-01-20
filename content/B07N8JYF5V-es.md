@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8JYF5V-es Desigual T-Shirt John Camiseta de Manga Larga Azul Diva...'
+sku: 'B07N8JYF5V-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.87 EUR
 currency: EUR

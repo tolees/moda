@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JYXEN2E-es MAMALICIOUS MLRAM COATED SLIM JEANS Vaqueros premamá Mujer...'
+sku: 'B01JYXEN2E-es'
 tags: [ 'vaqueros', ]
 actualPrice: 33.26 EUR
 currency: EUR

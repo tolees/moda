@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N19CMJY-es G-STAR RAW Lynn Mid Skinny Vaqueros Azul Antic Blue 34W /...'
+sku: 'B07N19CMJY-es'
 tags: [ 'vaqueros', ]
 actualPrice: 60.0 EUR
 currency: EUR

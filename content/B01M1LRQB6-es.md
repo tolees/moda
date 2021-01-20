@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1LRQB6-es El Naturalista N413 PLEASANT BLACK / WAKATAUA Sandalias...'
+sku: 'B01M1LRQB6-es'
 tags: [ 'sandalias', ]
 actualPrice: 32.86 EUR
 currency: EUR

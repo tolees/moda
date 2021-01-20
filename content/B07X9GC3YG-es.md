@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9GC3YG-es Bolso de Hombro para Mujer Bolsos Cruzados de Marca para...'
+sku: 'B07X9GC3YG-es'
 tags: [ 'bolso','moda', ]
 actualPrice: 39.99 EUR
 currency: EUR

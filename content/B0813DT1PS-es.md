@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813DT1PS-es Marca Amazon - TRUTH & FABLE Vestido Mujer Estampado...'
+sku: 'B0813DT1PS-es'
 tags: [ 'vestido', ]
 actualPrice: 44.8 EUR
 currency: EUR

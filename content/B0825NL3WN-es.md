@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825NL3WN-es Quiksilver Stone Cold Classic - Camiseta para Hombre...'
+sku: 'B0825NL3WN-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

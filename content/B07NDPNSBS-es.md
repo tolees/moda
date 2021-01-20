@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPNSBS-es G-STAR RAW Bristum 1 Pocket Slim Camisa Vaquera Multicolor...'
+sku: 'B07NDPNSBS-es'
 tags: [ 'camisa', ]
 actualPrice: 49.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTH2KJN-es Organizador de equipaje de viaje 7 piezas impermeables...'
+sku: 'B07QTH2KJN-es'
 tags: [ 'zapatos', ]
 actualPrice: 14.99 EUR
 currency: EUR

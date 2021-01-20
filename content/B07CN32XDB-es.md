@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN32XDB-es Crocs Classic Clog Zuecos Unisex Adulto Dorado Bronze 854...'
+sku: 'B07CN32XDB-es'
 tags: [ 'zuecos', ]
 actualPrice: 21.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072X1J9YV-es Columbia Pike Lake Jacket Chaqueta Hombre Negro Black XL'
+sku: 'B072X1J9YV-es'
 tags: [ 'chaqueta', ]
 actualPrice: 84.99 EUR
 currency: EUR

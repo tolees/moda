@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JZMC32-es NNDOLL Vestido de Princesa Carnaval Vestido de niña Traje...'
+sku: 'B079JZMC32-es'
 tags: [ 'vestido', ]
 actualPrice: 23.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OB4VPL4-es Cofra 40-JV028000-39 - Calzado de Seguridad Nuevo Santo...'
+sku: 'B00OB4VPL4-es'
 tags: [ 'zapatos', ]
 actualPrice: 16.47 EUR
 currency: EUR

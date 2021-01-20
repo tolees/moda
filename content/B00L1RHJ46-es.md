@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L1RHJ46-es Columbia Cascades Explorer Pantalón Largo Hombre Gris...'
+sku: 'B00L1RHJ46-es'
 tags: [ 'pantalón', ]
 actualPrice: 36.99 EUR
 currency: EUR

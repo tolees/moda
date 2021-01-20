@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8XRTQ-es Crocs Crocband U Zuecos Unisex Adulto Azul Blue Jean-Pool...'
+sku: 'B07CN8XRTQ-es'
 tags: [ 'zuecos', ]
 actualPrice: 31.5 EUR
 currency: EUR

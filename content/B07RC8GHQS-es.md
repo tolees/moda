@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC8GHQS-es Columbia Timberturner Chaqueta Hombre Blanco...'
+sku: 'B07RC8GHQS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 105.89 EUR
 currency: EUR

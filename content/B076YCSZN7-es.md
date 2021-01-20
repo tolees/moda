@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076YCSZN7-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera Azul Stoop...'
+sku: 'B076YCSZN7-es'
 tags: [ 'chaqueta', ]
 actualPrice: 33.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R8TFJKB-es Mammut Camiseta Alnasca Mujer Camiseta Mujer Bright White XS'
+sku: 'B07R8TFJKB-es'
 tags: [ 'camiseta', ]
 actualPrice: 25.55 EUR
 currency: EUR

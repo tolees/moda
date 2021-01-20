@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HPQ34D-es Under Armour Pantalón Corto 1309618-001 M Negro'
+sku: 'B071HPQ34D-es'
 tags: [ 'pantalón', ]
 actualPrice: 13.49 EUR
 currency: EUR

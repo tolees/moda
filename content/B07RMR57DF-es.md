@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMR57DF-es JACK & JONES Jormachine tee SS Crew Neck Camiseta Blanco...'
+sku: 'B07RMR57DF-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.76 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NZ17XJ-es Oihxse Transparente Silicona Case Compatible con Huawei...'
+sku: 'B082NZ17XJ-es'
 tags: [ 'moda', ]
 actualPrice: 7.98 EUR
 currency: EUR

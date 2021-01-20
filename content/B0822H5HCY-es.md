@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822H5HCY-es Oihxse Case Compatible conHuawei Mate 20 Pro Funda...'
+sku: 'B0822H5HCY-es'
 tags: [ 'moda', ]
 actualPrice: 7.98 EUR
 currency: EUR

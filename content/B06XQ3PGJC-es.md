@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQ3PGJC-es RED WAGON Vaqueros Niños Azul Blue 9 años'
+sku: 'B06XQ3PGJC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 11.1 EUR
 currency: EUR

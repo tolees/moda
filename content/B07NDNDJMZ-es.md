@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNDJMZ-es G-STAR RAW Vodan Padded Hooded Parka Negro Dk Black 6484...'
+sku: 'B07NDNDJMZ-es'
 tags: [ 'parka', ]
 actualPrice: 139.95 EUR
 currency: EUR

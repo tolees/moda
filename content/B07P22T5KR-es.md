@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P22T5KR-es Dickies Manitou Chaqueta Verde Small Talla del Fabricante:...'
+sku: 'B07P22T5KR-es'
 tags: [ 'chaqueta', ]
 actualPrice: 48.65 EUR
 currency: EUR

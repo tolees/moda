@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9S8KCL-es PUMA Leadcat FTR Sandalias deslizantes Unisex-Adulto Azul...'
+sku: 'B07S9S8KCL-es'
 tags: [ 'sandalias', ]
 actualPrice: 14.95 EUR
 currency: EUR

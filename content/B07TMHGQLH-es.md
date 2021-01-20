@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMHGQLH-es Levi s 511 Slim Vaqueros Baltic Navy Sueded Sateen WT B...'
+sku: 'B07TMHGQLH-es'
 tags: [ 'vaqueros', ]
 actualPrice: 32.63 EUR
 currency: EUR

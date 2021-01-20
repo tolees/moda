@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFGMZRR-es Tommy Hilfiger Top Essential with V-Neck Camiseta de Manga...'
+sku: 'B07NFGMZRR-es'
 tags: [ 'camiseta', ]
 actualPrice: 41.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BY99WBD-es AMZTM Zapatos de Agua para Niño Chicos Tiburón Zapatillas...'
+sku: 'B08BY99WBD-es'
 tags: [ 'zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HR96ZR-es adidas PANTALÓN Entrenamiento Core 21 Fútbol Adolescentes...'
+sku: 'B076HR96ZR-es'
 tags: [ 'pantalón', ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SX3D2J-es Timberland Malibu Waves Sandalias para Mujer Marrón Rust...'
+sku: 'B078SX3D2J-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 42.5 EUR
 currency: EUR

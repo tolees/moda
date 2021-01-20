@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPCC9-es Napapijri DAMAVAND Crew Jersey Verde Green Forest 2 GE3 XL...'
+sku: 'B07MCSPCC9-es'
 tags: [ 'jersey', ]
 actualPrice: 44.55 EUR
 currency: EUR

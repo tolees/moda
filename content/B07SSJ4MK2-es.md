@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJ4MK2-es Geox B Kilwi Girl E Bailarinas para Bebés Azul Navy C4064...'
+sku: 'B07SSJ4MK2-es'
 tags: [ 'geox', ]
 actualPrice: 19.46 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01196FARG-es United Colors of Benetton Basico 1 Man Vaqueros Straight...'
+sku: 'B01196FARG-es'
 tags: [ 'vaqueros', ]
 actualPrice: 20.61 EUR
 currency: EUR

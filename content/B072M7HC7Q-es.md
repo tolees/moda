@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072M7HC7Q-es JACK & JONES Jjiliam Jjoriginal Am 502 Lid STS Vaqueros...'
+sku: 'B072M7HC7Q-es'
 tags: [ 'vaqueros', ]
 actualPrice: 34.99 EUR
 currency: EUR

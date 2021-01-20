@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B1FD42I-es Bluelover Cebolla Goggles Gafas Rebanar Cocina Corte Picar...'
+sku: 'B01B1FD42I-es'
 tags: [ 'gafas', ]
 actualPrice: 6.69 EUR
 currency: EUR

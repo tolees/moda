@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RQED3WA-es Zotal Parasital Collar para Perros 60 cm'
+sku: 'B00RQED3WA-es'
 tags: [ 'collar', ]
 actualPrice: 4.72 EUR
 currency: EUR

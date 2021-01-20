@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM3R92Z-es Kappa ZOSHIM 3 Betis Camiseta Hombre Neutro S'
+sku: 'B07FM3R92Z-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792FKCLP-es Geox D Stardust C Botines para Mujer Marrón Coffee C6009...'
+sku: 'B0792FKCLP-es'
 tags: [ 'botines','geox', ]
 actualPrice: 29.42 EUR
 currency: EUR

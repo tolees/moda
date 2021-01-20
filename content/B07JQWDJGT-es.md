@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQWDJGT-es H&E - Abrigo de plumón con capucha para niñas Niños color...'
+sku: 'B07JQWDJGT-es'
 tags: [ 'abrigo', ]
 actualPrice: 20.55 EUR
 currency: EUR

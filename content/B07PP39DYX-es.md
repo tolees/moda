@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PP39DYX-es Kipling Gleam S Bolso de Tocador para Mujer Multicolor...'
+sku: 'B07PP39DYX-es'
 tags: [ 'bolso', ]
 actualPrice: 9.5 EUR
 currency: EUR

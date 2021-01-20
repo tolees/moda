@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086DRDZSH-es Zapatos de Seguridad para Mujer Zapatillas Zapatos de...'
+sku: 'B086DRDZSH-es'
 tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR

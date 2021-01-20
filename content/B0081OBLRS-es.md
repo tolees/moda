@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0081OBLRS-es Levi s 501 Original Fit Vaqueros Hook 40W / 34L para Hombre'
+sku: 'B0081OBLRS-es'
 tags: [ 'vaqueros', ]
 actualPrice: 57.99 EUR
 currency: EUR

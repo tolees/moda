@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B6KSVR-es Columbia Silver Ridge 2.0 Camisa de Manga Larga Hombre...'
+sku: 'B081B6KSVR-es'
 tags: [ 'camisa', ]
 actualPrice: 32.11 EUR
 currency: EUR

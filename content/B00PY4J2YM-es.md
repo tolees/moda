@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PY4J2YM-es KRISP 6488-NVY-12 Vestido Corto Fruncido Busto Azul Marino...'
+sku: 'B00PY4J2YM-es'
 tags: [ 'vestido', ]
 actualPrice: 12.49 EUR
 currency: EUR

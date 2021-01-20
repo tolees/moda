@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FABP4PY-es Under Armour UA Raid 8 Shorts pantalón Corto Hombre Blanco MD'
+sku: 'B01FABP4PY-es'
 tags: [ 'pantalón', ]
 actualPrice: 13.14 EUR
 currency: EUR

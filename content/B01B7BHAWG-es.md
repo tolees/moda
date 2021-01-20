@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B7BHAWG-es ATTCL Hombre Gafas de sol Polarizado Al-Mg Metal Super...'
+sku: 'B01B7BHAWG-es'
 tags: [ 'gafas', ]
 actualPrice: 25.0 EUR
 currency: EUR

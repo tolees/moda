@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004GKLOKU-es arena 92338 Gafas de Natación Infantil Multicolor violet /...'
+sku: 'B004GKLOKU-es'
 tags: [ 'gafas', ]
 actualPrice: 8.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077JLTWJW-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
+sku: 'B077JLTWJW-es'
 tags: [ 'zapatos', ]
 actualPrice: 30.99 EUR
 currency: EUR

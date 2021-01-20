@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PKD2Q83-es find. Kitten Heel Point Toe Zapatos con Tira de Tobillo...'
+sku: 'B07PKD2Q83-es'
 tags: [ 'zapatos', ]
 actualPrice: 5.05 EUR
 currency: EUR

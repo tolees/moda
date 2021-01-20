@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2S5S9R-es Levi s The Original Camiseta Multicolor Hm Patch OG tee...'
+sku: 'B07S2S5S9R-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.63 EUR
 currency: EUR

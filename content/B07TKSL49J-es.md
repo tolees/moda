@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKSL49J-es Clarks Botanic Strap Sandalias de Talón Abierto para Mujer...'
+sku: 'B07TKSL49J-es'
 tags: [ 'sandalias', ]
 actualPrice: 46.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D44NXKH-es Marca Amazon - find. Chunky Gumsole Heavy Rand Botas...'
+sku: 'B07D44NXKH-es'
 tags: [ '-','find.', ]
 actualPrice: 20.24 EUR
 currency: EUR

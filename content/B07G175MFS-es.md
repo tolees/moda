@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G175MFS-es Tommy Hilfiger T Camiseta Básica de Manga Corta Rojo Apple...'
+sku: 'B07G175MFS-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.95 EUR
 currency: EUR

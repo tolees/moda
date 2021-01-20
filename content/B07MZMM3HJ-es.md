@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMM3HJ-es Pepe Jeans Kenth Camiseta Ochre Orange 190 Medium para Hombre'
+sku: 'B07MZMM3HJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.02 EUR
 currency: EUR

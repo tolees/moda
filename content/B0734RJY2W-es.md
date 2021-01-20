@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0734RJY2W-es find. Zapatos de Charol y Empeine Alto para Mujer Rojo Red...'
+sku: 'B0734RJY2W-es'
 tags: [ 'zapatos', ]
 actualPrice: 6.92 EUR
 currency: EUR

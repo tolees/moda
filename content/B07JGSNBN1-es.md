@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGSNBN1-es Pepe Jeans Kai Pm402100 Chaqueta Dandelion 054 Medium para...'
+sku: 'B07JGSNBN1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 29.74 EUR
 currency: EUR

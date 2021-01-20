@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QV7QKP2-es flintronic Cartera Hombre Triple Pliegue Slim Billetera de...'
+sku: 'B07QV7QKP2-es'
 tags: [ 'billetera','monedero', ]
 actualPrice: 10.99 EUR
 currency: EUR

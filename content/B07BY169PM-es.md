@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BY169PM-es Tommy Hilfiger Modern Jaspe Camiseta Azul Blue Sapphire...'
+sku: 'B07BY169PM-es'
 tags: [ 'camiseta', ]
 actualPrice: 22.3 EUR
 currency: EUR

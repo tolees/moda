@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CCN49GH-es Eyekepper Moda Deportes Bifocal Gafas de sol TR90...'
+sku: 'B07CCN49GH-es'
 tags: [ 'gafas','moda', ]
 actualPrice: 15.06 EUR
 currency: EUR

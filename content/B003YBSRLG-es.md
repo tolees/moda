@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003YBSRLG-es Crocs Sexi Flip Women Sandalias para Mujer Negro...'
+sku: 'B003YBSRLG-es'
 tags: [ 'sandalias', ]
 actualPrice: 20.3 EUR
 currency: EUR

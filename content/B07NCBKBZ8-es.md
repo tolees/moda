@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCBKBZ8-es Pepe Jeans Saturn Vaqueros Azul Medium Used Wiser Wash...'
+sku: 'B07NCBKBZ8-es'
 tags: [ 'vaqueros', ]
 actualPrice: 18.32 EUR
 currency: EUR

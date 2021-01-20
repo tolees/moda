@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7FQ4LS-es edc by Esprit 099CC1G030 Abrigo Gris Anthracite 010 M para...'
+sku: 'B07X7FQ4LS-es'
 tags: [ 'abrigo', ]
 actualPrice: 59.99 EUR
 currency: EUR

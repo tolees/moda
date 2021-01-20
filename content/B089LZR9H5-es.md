@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089LZR9H5-es Dihope - Pantalón de deporte informal para hombre diseño...'
+sku: 'B089LZR9H5-es'
 tags: [ 'pantalón', ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079T16TMV-es Kappa TALBINO Pantalón Corto de equipación Hombre...'
+sku: 'B079T16TMV-es'
 tags: [ 'pantalón', ]
 actualPrice: 11.99 EUR
 currency: EUR

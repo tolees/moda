@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ABN88W-es Havaianas Chanclas Unisex adulto Azul Brasil Logo Marine...'
+sku: 'B003ABN88W-es'
 tags: [ 'chanclas', ]
 actualPrice: 1.01 EUR
 currency: EUR

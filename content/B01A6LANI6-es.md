@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A6LANI6-es Crocs Crocband U Zuecos Unisex Adulto Azul Cerulean Blue-...'
+sku: 'B01A6LANI6-es'
 tags: [ 'zuecos', ]
 actualPrice: 36.0 EUR
 currency: EUR

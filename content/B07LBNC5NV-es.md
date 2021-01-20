@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNC5NV-es Helly Hansen HH LIFA Merino 1/2 Zip Camiseta Azul Azul...'
+sku: 'B07LBNC5NV-es'
 tags: [ 'camiseta', ]
 actualPrice: 57.59 EUR
 currency: EUR

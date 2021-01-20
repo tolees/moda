@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076Y7YRV9-es Levi s 511 Slim Fit Vaqueros Nightwatch Blue Bi-Str 2617...'
+sku: 'B076Y7YRV9-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.5 EUR
 currency: EUR

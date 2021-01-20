@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6KRP13-es Under Armour Armour Insulated Chaqueta Hombre Verde XL'
+sku: 'B07L6KRP13-es'
 tags: [ 'chaqueta', ]
 actualPrice: 72.31 EUR
 currency: EUR

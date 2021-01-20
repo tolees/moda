@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKP3TK5-es Kickers Andye Sandalias de Gladiador para Mujer Marrón...'
+sku: 'B07TKP3TK5-es'
 tags: [ 'sandalias', ]
 actualPrice: 34.42 EUR
 currency: EUR

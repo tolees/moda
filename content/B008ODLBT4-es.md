@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008ODLBT4-es Crocs Crocband Sandal Kids Sandalias Unisex Niños Azul...'
+sku: 'B008ODLBT4-es'
 tags: [ 'sandalias', ]
 actualPrice: 20.65 EUR
 currency: EUR

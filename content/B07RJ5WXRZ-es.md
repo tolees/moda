@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJ5WXRZ-es Under Armour Charged Cotton Scramble Hombre Camisa Polo...'
+sku: 'B07RJ5WXRZ-es'
 tags: [ 'camisa', ]
 actualPrice: 12.13 EUR
 currency: EUR

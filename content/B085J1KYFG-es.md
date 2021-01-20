@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085J1KYFG-es Sandalias de Mujer con Cuna de Yute Pala Trenzada y Correa...'
+sku: 'B085J1KYFG-es'
 tags: [ 'sandalias', ]
 actualPrice: 25.95 EUR
 currency: EUR

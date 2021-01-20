@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9B25KQ-es Under Armour Heatgear Armour Pantalón Corto Mujer Negro...'
+sku: 'B07L9B25KQ-es'
 tags: [ 'pantalón', ]
 actualPrice: 18.49 EUR
 currency: EUR

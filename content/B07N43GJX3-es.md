@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N43GJX3-es Desigual Postcards Dress Vestido Multicolor Tutti Fruti...'
+sku: 'B07N43GJX3-es'
 tags: [ 'vestido', ]
 actualPrice: 29.98 EUR
 currency: EUR

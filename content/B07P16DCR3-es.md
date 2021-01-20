@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P16DCR3-es Superdry Surplus Goods Coach Jacket Chaqueta Verde Green...'
+sku: 'B07P16DCR3-es'
 tags: [ 'chaqueta', ]
 actualPrice: 22.26 EUR
 currency: EUR

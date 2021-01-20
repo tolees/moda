@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH2G7N1-es G-STAR RAW Graphic 13 Sudadera Gris Lt Grey Htr A302 XX-...'
+sku: 'B07RH2G7N1-es'
 tags: [ 'sudadera', ]
 actualPrice: 39.97 EUR
 currency: EUR

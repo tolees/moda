@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS3KM6W-es Levi s The tee Camiseta de Manga Corta Azul BRW T2 Marina...'
+sku: 'B07TS3KM6W-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR

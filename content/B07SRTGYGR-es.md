@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRTGYGR-es Quiksilver Molokai Layback Zapatos de Playa y Piscina para...'
+sku: 'B07SRTGYGR-es'
 tags: [ 'zapatos', ]
 actualPrice: 18.2 EUR
 currency: EUR

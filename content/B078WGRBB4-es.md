@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WGRBB4-es The North Face Cyclone 2 HDY - Chaqueta con Capucha Hombre...'
+sku: 'B078WGRBB4-es'
 tags: [ 'chaqueta', ]
 actualPrice: 42.5 EUR
 currency: EUR

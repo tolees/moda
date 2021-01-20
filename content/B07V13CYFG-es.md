@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V13CYFG-es Women s Secret Generic Funny GD Koala PJ Conjuntos de...'
+sku: 'B07V13CYFG-es'
 tags: [ 'pijama', ]
 actualPrice: 23.29 EUR
 currency: EUR

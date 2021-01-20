@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQ3L4SF-es PRIME LTR-01 - Chaqueta de Piel sintética para Hombre...'
+sku: 'B07YQ3L4SF-es'
 tags: [ 'chaqueta', ]
 actualPrice: 21.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AF6QPWG-es Helly Hansen Seven J Jacket - Chaqueta para hombre color...'
+sku: 'B00AF6QPWG-es'
 tags: [ 'chaqueta', ]
 actualPrice: 60.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFMDYY-es Levi s Original Hm Pullover Hoo Sudadera Verde Olive Night...'
+sku: 'B07TLFMDYY-es'
 tags: [ 'sudadera', ]
 actualPrice: 41.95 EUR
 currency: EUR

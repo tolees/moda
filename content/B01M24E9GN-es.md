@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M24E9GN-es flintronic Cartera Tarjeta de Crédito Slim Billetera...'
+sku: 'B01M24E9GN-es'
 tags: [ 'billetera','monedero', ]
 actualPrice: 9.99 EUR
 currency: EUR

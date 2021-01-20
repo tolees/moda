@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4QV8X-es Levi s 501 Crop Vaqueros Boyfriend Azul Montgomery Baked...'
+sku: 'B07KF4QV8X-es'
 tags: [ 'vaqueros', ]
 actualPrice: 54.95 EUR
 currency: EUR

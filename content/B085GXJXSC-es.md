@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085GXJXSC-es Jack & Jones Jcogeek Sweat Hood Fst Sudadera con Capucha...'
+sku: 'B085GXJXSC-es'
 tags: [ 'sudadera', ]
 actualPrice: 15.92 EUR
 currency: EUR

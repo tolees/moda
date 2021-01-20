@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ2PC9-es Geox D Jaysen D Zapatillas para Mujer Negro Black C9999 38 EU'
+sku: 'B07LFZ2PC9-es'
 tags: [ 'geox', ]
 actualPrice: 25.96 EUR
 currency: EUR

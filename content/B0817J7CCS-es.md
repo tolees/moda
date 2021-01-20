@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817J7CCS-es Columbia Zero Rules Camisa Técnica De Manga Corta Hombre...'
+sku: 'B0817J7CCS-es'
 tags: [ 'camisa', ]
 actualPrice: 13.99 EUR
 currency: EUR

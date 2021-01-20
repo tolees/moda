@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC8KMT5-es Columbia Lodge Chaqueta Sudadera para Hombre Negro XL'
+sku: 'B07RC8KMT5-es'
 tags: [ 'chaqueta','sudadera', ]
 actualPrice: 48.18 EUR
 currency: EUR

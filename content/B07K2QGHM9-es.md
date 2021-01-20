@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2QGHM9-es Adidas Adissage Zapatos de playa y piscina Unisex adulto...'
+sku: 'B07K2QGHM9-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079G3TQP5-es Timberland SS Dunstan River Pocket Slim tee Camiseta...'
+sku: 'B079G3TQP5-es'
 tags: [ 'camiseta','timberland', ]
 actualPrice: 12.5 EUR
 currency: EUR

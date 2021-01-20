@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4VHV2G-es Helly Hansen Lifaloft Ligera Chaqueta Aislante Mujer Alert...'
+sku: 'B07R4VHV2G-es'
 tags: [ 'chaqueta', ]
 actualPrice: 103.64 EUR
 currency: EUR

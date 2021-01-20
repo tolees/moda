@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5KSV6R-es Saco Universal Invierno para Silla de Paseo laamei Saco de...'
+sku: 'B07L5KSV6R-es'
 tags: [ 'abrigo', ]
 actualPrice: 13.99 EUR
 currency: EUR

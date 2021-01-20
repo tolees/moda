@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVLP2TH-es Greylags 100% Algodón Prima Camiseta | Cuello Redondo |...'
+sku: 'B07SVLP2TH-es'
 tags: [ 'camiseta','chaleco', ]
 actualPrice: 20.96 EUR
 currency: EUR

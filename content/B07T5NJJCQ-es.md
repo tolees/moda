@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T5NJJCQ-es Geox U Nebula Y A Zapatillas para Hombre Azul Lt AVI O...'
+sku: 'B07T5NJJCQ-es'
 tags: [ 'geox', ]
 actualPrice: 39.3 EUR
 currency: EUR

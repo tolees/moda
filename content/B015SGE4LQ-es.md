@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGE4LQ-es Havaianas Brasil Logo Chanclas Unisex Adulto Multicolor...'
+sku: 'B015SGE4LQ-es'
 tags: [ 'chanclas', ]
 actualPrice: 14.99 EUR
 currency: EUR

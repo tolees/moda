@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKGBSLD-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre...'
+sku: 'B07HKGBSLD-es'
 tags: [ 'zapatos', ]
 actualPrice: 37.64 EUR
 currency: EUR

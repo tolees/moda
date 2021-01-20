@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QGIB9SM-es adidas ESS 3S Chelsea - Pantalón corto para hombre color...'
+sku: 'B00QGIB9SM-es'
 tags: [ 'pantalón', ]
 actualPrice: 15.09 EUR
 currency: EUR

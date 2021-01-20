@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNGWYZ3-es Lencería Sexy para Mujer Lencería Erótica Disfraz De...'
+sku: 'B07HNGWYZ3-es'
 tags: [ 'pijama', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHDN1X1-es HKT by Hackett Hkt 3 SS tee Camiseta Verde 6fnspruce 6fn...'
+sku: 'B07VHDN1X1-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.8 EUR
 currency: EUR

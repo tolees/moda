@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MJBK31-es Marca Amazon - find. Camisa Hombre Marrón Taupe S Label: S'
+sku: 'B072MJBK31-es'
 tags: [ 'camisa','-','find.', ]
 actualPrice: 11.98 EUR
 currency: EUR

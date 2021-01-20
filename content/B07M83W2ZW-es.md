@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M83W2ZW-es Napapijri K Rainforest 1 Chaqueta Rosa Dahlia Pink PA5 4...'
+sku: 'B07M83W2ZW-es'
 tags: [ 'chaqueta', ]
 actualPrice: 76.95 EUR
 currency: EUR

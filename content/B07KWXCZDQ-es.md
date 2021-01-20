@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWXCZDQ-es SMARTEN Air Zapatillas de Running Hombre Mujer Calzado...'
+sku: 'B07KWXCZDQ-es'
 tags: [ 'zapatos', ]
 actualPrice: 33.88 EUR
 currency: EUR

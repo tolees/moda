@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYYLK55-es Levi s Graphic Set-in Neck Camiseta para Hombre Negro...'
+sku: 'B07CYYLK55-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.3 EUR
 currency: EUR

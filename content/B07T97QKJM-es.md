@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T97QKJM-es The North Face M Drew Peak Sudadera con Capucha Hombre...'
+sku: 'B07T97QKJM-es'
 tags: [ 'sudadera', ]
 actualPrice: 40.0 EUR
 currency: EUR

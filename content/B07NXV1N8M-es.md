@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXV1N8M-es Dickies Manitou Chaqueta Verde X-Small Talla del...'
+sku: 'B07NXV1N8M-es'
 tags: [ 'chaqueta', ]
 actualPrice: 51.67 EUR
 currency: EUR

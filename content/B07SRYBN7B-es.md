@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRYBN7B-es Marca Amazon - MERAKI Snk492 - camisa Mujer Azul Navy 46...'
+sku: 'B07SRYBN7B-es'
 tags: [ 'camisa','meraki', ]
 actualPrice: 6.19 EUR
 currency: EUR

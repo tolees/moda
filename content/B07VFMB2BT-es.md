@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFMB2BT-es edc by Esprit 099cc2k009 Camiseta Blanco White 100 Small...'
+sku: 'B07VFMB2BT-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.06 EUR
 currency: EUR

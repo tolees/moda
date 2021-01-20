@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK6F2S8-es adidas Map Bag Bolso bandolera Unisex Adultos Negro Negro...'
+sku: 'B07KK6F2S8-es'
 tags: [ 'bolso', ]
 actualPrice: 12.45 EUR
 currency: EUR

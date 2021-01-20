@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QC7VSGZ-es Marca Amazon - AURIQUE Bal181la18 - leggings deporte mujer...'
+sku: 'B07QC7VSGZ-es'
 tags: [ 'aurique', ]
 actualPrice: 14.31 EUR
 currency: EUR

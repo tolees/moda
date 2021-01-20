@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GDFMYVI-es retroUV UV400 – Gafas de sol de diseño clásico Multicolor...'
+sku: 'B01GDFMYVI-es'
 tags: [ 'gafas', ]
 actualPrice: 7.99 EUR
 currency: EUR

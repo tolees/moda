@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JNKTBM-es Columbia 1420421 Chaqueta Forro Polar Hombre Negro Black XS'
+sku: 'B075JNKTBM-es'
 tags: [ 'chaqueta', ]
 actualPrice: 30.99 EUR
 currency: EUR

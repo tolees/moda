@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNS23PR-es Superdry OL Vintage Emb Crew Camiseta Gris Silver Glass...'
+sku: 'B07TNS23PR-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYVCY4P-es adidas Long tee Camiseta de Manga Corta Mujer White 40'
+sku: 'B07SYVCY4P-es'
 tags: [ 'camiseta', ]
 actualPrice: 33.09 EUR
 currency: EUR

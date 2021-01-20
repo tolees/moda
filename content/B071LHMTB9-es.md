@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LHMTB9-es AtailorBird Funda Protectora Portátil 13"-13.3" Fundas...'
+sku: 'B071LHMTB9-es'
 tags: [ 'bolso', ]
 actualPrice: 11.48 EUR
 currency: EUR

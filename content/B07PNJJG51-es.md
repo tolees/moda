@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNJJG51-es MTNG Levin Bolso bandolera para Mujer Negro Lis Neg/Leop...'
+sku: 'B07PNJJG51-es'
 tags: [ 'bolso', ]
 actualPrice: 7.73 EUR
 currency: EUR

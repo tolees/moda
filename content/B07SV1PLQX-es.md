@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SV1PLQX-es JACK & JONES PREMIUM Jprlogo Twist Shirt L/s STS Camisa...'
+sku: 'B07SV1PLQX-es'
 tags: [ 'camisa', ]
 actualPrice: 9.79 EUR
 currency: EUR

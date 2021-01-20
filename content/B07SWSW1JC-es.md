@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWSW1JC-es Geox Alfier B J A Zapatillas de Deporte para Niños Gris...'
+sku: 'B07SWSW1JC-es'
 tags: [ 'geox', ]
 actualPrice: 34.62 EUR
 currency: EUR

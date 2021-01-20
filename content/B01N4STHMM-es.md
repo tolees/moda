@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4STHMM-es Tommy Hilfiger SS tee Print Camiseta con Logo Azul Navy...'
+sku: 'B01N4STHMM-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR

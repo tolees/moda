@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CS88XRP-es Pepe Jeans Michelle Camiseta Off White 803 Medium para Mujer'
+sku: 'B07CS88XRP-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGPQFKF-es JACK & JONES JCOMILLA Sweat Hood Sudadera con Capucha...'
+sku: 'B07WGPQFKF-es'
 tags: [ 'sudadera', ]
 actualPrice: 25.21 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7XYLK1-es Billabong All Day Theme Chanclas para Hombre Negro Black...'
+sku: 'B07V7XYLK1-es'
 tags: [ 'chanclas', ]
 actualPrice: 13.97 EUR
 currency: EUR

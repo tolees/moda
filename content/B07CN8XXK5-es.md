@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8XXK5-es Crocs Crocband III Slide Sandalias de Punta Descubierta...'
+sku: 'B07CN8XXK5-es'
 tags: [ 'sandalias', ]
 actualPrice: 22.09 EUR
 currency: EUR

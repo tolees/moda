@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HH3V8Y-es GEOX Zapatos con Cordones Schnürer Edgeware Brown tamaño:42'
+sku: 'B078HH3V8Y-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 41.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L13VZJV-es Under Armour Synthetic Fleece Pantalón Mujer Gris SM'
+sku: 'B07L13VZJV-es'
 tags: [ 'pantalón', ]
 actualPrice: 32.99 EUR
 currency: EUR

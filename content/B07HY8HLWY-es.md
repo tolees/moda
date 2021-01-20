@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HY8HLWY-es Canadian Peak Sudadera DE Hombre Galapagos Azul ELÉCTRICO S'
+sku: 'B07HY8HLWY-es'
 tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHVCZYJ-es Levi s Graphic Diana Crew Sudadera Blanco 90 s Serif...'
+sku: 'B07SHVCZYJ-es'
 tags: [ 'sudadera', ]
 actualPrice: 28.18 EUR
 currency: EUR

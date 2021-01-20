@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTLN138-es DC Shoes Spectrum - Chaqueta para Nieve - Hombre - L'
+sku: 'B07TTLN138-es'
 tags: [ 'chaqueta', ]
 actualPrice: 61.98 EUR
 currency: EUR

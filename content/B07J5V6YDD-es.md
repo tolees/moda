@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5V6YDD-es Hawiton Pijama Mujer de Algodón Invierno Otoño Mangas...'
+sku: 'B07J5V6YDD-es'
 tags: [ 'pijama', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHC1JBX-es Springfield 4.Gym.Vestido Ap Polybubb-C/65 Vestido de...'
+sku: 'B07WHC1JBX-es'
 tags: [ 'vestido', ]
 actualPrice: 21.94 EUR
 currency: EUR

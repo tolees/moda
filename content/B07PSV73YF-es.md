@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSV73YF-es El Ganso Urban Country 2 Chaleco Multicolor Varios 0023...'
+sku: 'B07PSV73YF-es'
 tags: [ 'chaleco', ]
 actualPrice: 129.35 EUR
 currency: EUR

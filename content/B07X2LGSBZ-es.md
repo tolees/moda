@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2LGSBZ-es Pepe Jeans Piccadilly 7/8 Vaqueros Straight Azul 000Denim...'
+sku: 'B07X2LGSBZ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.95 EUR
 currency: EUR

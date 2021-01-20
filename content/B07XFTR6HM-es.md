@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFTR6HM-es ESPRIT Collection 109eo1g002 Abrigo Negro Black 001 Large...'
+sku: 'B07XFTR6HM-es'
 tags: [ 'abrigo', ]
 actualPrice: 62.99 EUR
 currency: EUR

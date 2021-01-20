@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB5GQFW-es Jack & Jones Jorwillow Stand Collar Jacket Chaqueta Azul...'
+sku: 'B07VB5GQFW-es'
 tags: [ 'chaqueta','collar', ]
 actualPrice: 28.68 EUR
 currency: EUR

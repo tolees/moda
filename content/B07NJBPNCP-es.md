@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJBPNCP-es Springfield 4.2.T.Bimateria.Coraz.Ban Camiseta Multicolor...'
+sku: 'B07NJBPNCP-es'
 tags: [ 'camiseta', ]
 actualPrice: 5.95 EUR
 currency: EUR

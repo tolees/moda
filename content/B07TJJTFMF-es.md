@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJJTFMF-es G-STAR RAW Graphic 15 Hooded Sudadera Multicolor Mazarine...'
+sku: 'B07TJJTFMF-es'
 tags: [ 'sudadera', ]
 actualPrice: 44.97 EUR
 currency: EUR

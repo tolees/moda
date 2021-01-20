@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831PMZ8Y-es Canadian Peak Chaqueta Mujer BUNATEAK Rojo 01'
+sku: 'B0831PMZ8Y-es'
 tags: [ 'chaqueta', ]
 actualPrice: 90.3 EUR
 currency: EUR

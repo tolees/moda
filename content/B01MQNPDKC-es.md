@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQNPDKC-es Arena Python Gafas de Natación Unisex Adulto Azul Blue...'
+sku: 'B01MQNPDKC-es'
 tags: [ 'gafas', ]
 actualPrice: 17.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0749PRF1Y-es Jane Klain283 819 - Sandalias con Punta Abierta Mujer...'
+sku: 'B0749PRF1Y-es'
 tags: [ 'sandalias', ]
 actualPrice: 15.72 EUR
 currency: EUR

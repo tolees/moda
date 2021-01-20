@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQ6TFPW-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte...'
+sku: 'B07VQ6TFPW-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.57 EUR
 currency: EUR

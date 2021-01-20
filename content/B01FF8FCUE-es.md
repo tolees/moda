@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FF8FCUE-es JACK & JONES Jjiliam Jjoriginal Am 010 Lid Noos Vaqueros...'
+sku: 'B01FF8FCUE-es'
 tags: [ 'vaqueros', ]
 actualPrice: 31.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3SPBJ1-es Desigual Dress Marian Vestido Color Blanco Crudo 1001 44...'
+sku: 'B07N3SPBJ1-es'
 tags: [ 'vestido', ]
 actualPrice: 61.49 EUR
 currency: EUR

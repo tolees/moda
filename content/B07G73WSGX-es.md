@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G73WSGX-es Aibrou Pijamas Mujer Algodón Invierno 2 Piezas Ropa de...'
+sku: 'B07G73WSGX-es'
 tags: [ 'camiseta', ]
 actualPrice: 26.99 EUR
 currency: EUR

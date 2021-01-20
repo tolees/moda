@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTPGSO-es G-STAR RAW Core Super Slim Camisa Blanco White 110 XXS...'
+sku: 'B01BGTPGSO-es'
 tags: [ 'camisa', ]
 actualPrice: 34.95 EUR
 currency: EUR

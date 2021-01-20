@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HMFTSL-es Marca Amazon - find. Vestido Fruncido de Lunares Mujer...'
+sku: 'B077HMFTSL-es'
 tags: [ 'vestido','-','find.', ]
 actualPrice: 7.02 EUR
 currency: EUR

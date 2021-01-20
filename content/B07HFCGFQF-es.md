@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFCGFQF-es SIMYJOY Mujere Korea Pop Fans Estrellado Sudaderas Love...'
+sku: 'B07HFCGFQF-es'
 tags: [ 'jersey', ]
 actualPrice: 11.99 EUR
 currency: EUR

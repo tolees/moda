@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UKEJDKY-es Carrera 96/S NR GVB Gafas de sol Negro Shiny Matte...'
+sku: 'B00UKEJDKY-es'
 tags: [ 'gafas', ]
 actualPrice: 90.87 EUR
 currency: EUR

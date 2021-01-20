@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K1K67WS-es Bolso impermeable de la bolsa de la correa de ECHPTower...'
+sku: 'B01K1K67WS-es'
 tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR

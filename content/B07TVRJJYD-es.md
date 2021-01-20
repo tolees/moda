@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVRJJYD-es Camisetas de Baloncesto para niño y niña Stephen Curry #30...'
+sku: 'B07TVRJJYD-es'
 tags: [ 'camiseta','chaleco', ]
 actualPrice: 13.99 EUR
 currency: EUR

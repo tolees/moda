@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHKYC5S-es JACK & JONES Jorclan Parka Verde Forest Night X-Large para...'
+sku: 'B07VHKYC5S-es'
 tags: [ 'parka', ]
 actualPrice: 25.2 EUR
 currency: EUR

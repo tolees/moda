@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4FWPMM-es SINOES Hombre 720 Caña Baja Gimnasia Ligero Transpirable...'
+sku: 'B07Z4FWPMM-es'
 tags: [ 'zapatos', ]
 actualPrice: 25.88 EUR
 currency: EUR

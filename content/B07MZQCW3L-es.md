@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQCW3L-es Pepe Jeans Hatch Vaqueros Slim Wiser Wash Dark Used Denim...'
+sku: 'B07MZQCW3L-es'
 tags: [ 'vaqueros', ]
 actualPrice: 33.05 EUR
 currency: EUR

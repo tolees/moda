@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D46K7PJ-es Tommy Hilfiger TJM Tommy Classics Logo tee Camisa Gris Lt...'
+sku: 'B07D46K7PJ-es'
 tags: [ 'camisa', ]
 actualPrice: 32.9 EUR
 currency: EUR

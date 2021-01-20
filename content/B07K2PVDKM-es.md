@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2PVDKM-es Under Armour UA SC 3ZER0 III Zapatos de Baloncesto para...'
+sku: 'B07K2PVDKM-es'
 tags: [ 'zapatos', ]
 actualPrice: 21.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ8S48J-es Under Armour UA Speed Stride Split 1/4 ZIP Ligera Camiseta...'
+sku: 'B07CZ8S48J-es'
 tags: [ 'camiseta', ]
 actualPrice: 26.5 EUR
 currency: EUR

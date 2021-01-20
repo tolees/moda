@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWDS2RF-es Under Armour Tech SSC Graphic Camiseta Mujer Blanco...'
+sku: 'B07DWDS2RF-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.81 EUR
 currency: EUR

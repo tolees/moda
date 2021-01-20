@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OVDGF0-es adidas Adilette Chanclas Hombre Azul Adiblu/White/Adiblu...'
+sku: 'B001OVDGF0-es'
 tags: [ 'chanclas', ]
 actualPrice: 12.0 EUR
 currency: EUR

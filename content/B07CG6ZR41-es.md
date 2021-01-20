@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CG6ZR41-es Marca Amazon - IRIS & LILLY Top de Bikini Crochet Mujer...'
+sku: 'B07CG6ZR41-es'
 tags: [ 'bikini','iris','&','lilly', ]
 actualPrice: 7.78 EUR
 currency: EUR

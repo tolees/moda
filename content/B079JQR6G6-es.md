@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JQR6G6-es NIKE M Nk Dry Acdmy18 Top SS Camiseta de Manga Corta...'
+sku: 'B079JQR6G6-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.0 EUR
 currency: EUR

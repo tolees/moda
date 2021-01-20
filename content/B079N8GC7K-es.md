@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079N8GC7K-es J.Rosée Collar de Perlas Mujer Joyería Perla de Agua Dulce...'
+sku: 'B079N8GC7K-es'
 tags: [ 'collar', ]
 actualPrice: 9.99 EUR
 currency: EUR

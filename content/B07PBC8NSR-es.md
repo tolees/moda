@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBC8NSR-es Wrangler Texas Vaqueros Marrón After Dark X9c W36/L34...'
+sku: 'B07PBC8NSR-es'
 tags: [ 'vaqueros', ]
 actualPrice: 34.98 EUR
 currency: EUR

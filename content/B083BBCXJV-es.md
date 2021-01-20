@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BBCXJV-es Zuecos Unisex Niños Verano Sandalias de Playa Respirable...'
+sku: 'B083BBCXJV-es'
 tags: [ 'sandalias','zapatos','zuecos', ]
 actualPrice: 13.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL5MP3K-es Yuson Girl Conjunto Lencería Erótica De Mujer Sexy Camisón...'
+sku: 'B07XL5MP3K-es'
 tags: [ 'vestido', ]
 actualPrice: 4.99 EUR
 currency: EUR

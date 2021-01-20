@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QY8TWZ1-es Marca Amazon - IRIS & LILLY Asw-018 - Pijama de dos piezas...'
+sku: 'B07QY8TWZ1-es'
 tags: [ 'pijama','iris','&','lilly', ]
 actualPrice: 7.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJ4BJ1P-es Marca Amazon - find. Camisa Hombre Azul Blue S Label: S'
+sku: 'B06XJ4BJ1P-es'
 tags: [ 'camisa','-','find.', ]
 actualPrice: 6.57 EUR
 currency: EUR

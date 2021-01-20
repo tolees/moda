@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5SV6JR-es Tommy Hilfiger Brooklyn Short Light Twill Vaqueros Regatta...'
+sku: 'B07W5SV6JR-es'
 tags: [ 'vaqueros', ]
 actualPrice: 19.63 EUR
 currency: EUR

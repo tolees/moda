@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JDV50HO-es Timberland Killington Botas Clasicas para Hombre Beige...'
+sku: 'B01JDV50HO-es'
 tags: [ 'timberland', ]
 actualPrice: 86.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WW1MDZ-es PUMA Liga CR Jr Camiseta de Fútbol Unisex Niños Negro...'
+sku: 'B078WW1MDZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.6 EUR
 currency: EUR

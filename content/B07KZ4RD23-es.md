@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZ4RD23-es REPLAY Zackie Vaqueros Skinny Azul Light Blue 11 W24/L34...'
+sku: 'B07KZ4RD23-es'
 tags: [ 'vaqueros', ]
 actualPrice: 12.58 EUR
 currency: EUR

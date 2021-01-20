@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M14ONY2-es Replay Anbass Vaqueros Slim para Hombre Gris Grey Denim...'
+sku: 'B01M14ONY2-es'
 tags: [ 'vaqueros', ]
 actualPrice: 53.49 EUR
 currency: EUR

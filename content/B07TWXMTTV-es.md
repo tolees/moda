@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXMTTV-es Women s Secret The Lion King LK DS Life PJ FR Conjuntos de...'
+sku: 'B07TWXMTTV-es'
 tags: [ 'pijama', ]
 actualPrice: 15.7 EUR
 currency: EUR

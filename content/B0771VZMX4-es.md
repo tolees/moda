@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771VZMX4-es Columbia Silver Ridge II Pantalón Capri Hombre Negro Abyss...'
+sku: 'B0771VZMX4-es'
 tags: [ 'pantalón', ]
 actualPrice: 18.57 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9YSSV2-es Unisex Chico Chica Zapatilla de Deporte del Zapato Negro...'
+sku: 'B07H9YSSV2-es'
 tags: [ 'zapatilla', ]
 actualPrice: 27.99 EUR
 currency: EUR

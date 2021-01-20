@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NB12JD-es Trangoworld Awear Chaqueta Mujer Negro/Verde Ácido L'
+sku: 'B075NB12JD-es'
 tags: [ 'chaqueta', ]
 actualPrice: 41.97 EUR
 currency: EUR

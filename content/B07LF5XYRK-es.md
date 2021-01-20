@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF5XYRK-es Levi s Barstow Western Camisa Vaquera Negro Bruised Indigo...'
+sku: 'B07LF5XYRK-es'
 tags: [ 'camisa', ]
 actualPrice: 60.46 EUR
 currency: EUR

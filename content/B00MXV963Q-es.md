@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MXV963Q-es NNJXD Falda de Chicas con Volante de Encaje Vestidos de...'
+sku: 'B00MXV963Q-es'
 tags: [ 'falda', ]
 actualPrice: 15.99 EUR
 currency: EUR

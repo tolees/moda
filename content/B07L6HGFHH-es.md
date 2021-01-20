@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6HGFHH-es Under Armour Armour Insulated Chaqueta Hombre Negro MD'
+sku: 'B07L6HGFHH-es'
 tags: [ 'chaqueta', ]
 actualPrice: 69.35 EUR
 currency: EUR

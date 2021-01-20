@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXKZRYC-es Levi s 711 Vaqueros Skinny Gris Hit Me Up 0454 W26/L30...'
+sku: 'B07RXKZRYC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 43.39 EUR
 currency: EUR

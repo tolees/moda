@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPB4HSQ-es OBEEII Vestidos Princesa Sofia Disfraz para niñas Vestido...'
+sku: 'B07VPB4HSQ-es'
 tags: [ 'vestido', ]
 actualPrice: 18.39 EUR
 currency: EUR

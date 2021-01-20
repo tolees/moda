@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY9ELGW-es Marca Amazon - Iris & Lilly BELK006M5 Hipster Mujer Pack...'
+sku: 'B01LY9ELGW-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 10.63 EUR
 currency: EUR

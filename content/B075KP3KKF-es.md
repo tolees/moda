@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KP3KKF-es MBT SHUGULI M Zapatos de Cordones Oxford para Hombre...'
+sku: 'B075KP3KKF-es'
 tags: [ 'zapatos', ]
 actualPrice: 104.5 EUR
 currency: EUR

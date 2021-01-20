@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FJ6K7L-es Under Armour MK1 Shorts Pantalón Corto Hombre Negro...'
+sku: 'B072FJ6K7L-es'
 tags: [ 'pantalón', ]
 actualPrice: 14.95 EUR
 currency: EUR

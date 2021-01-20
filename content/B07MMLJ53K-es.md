@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLJ53K-es Napapijri BIBU FZH Sudadera Verde Green Forest 2 Ge3 M...'
+sku: 'B07MMLJ53K-es'
 tags: [ 'sudadera', ]
 actualPrice: 41.89 EUR
 currency: EUR

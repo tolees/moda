@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDX4L1-es Levi s 514 Vaqueros Straight Azul Stonewash Stretch T2...'
+sku: 'B07LFDX4L1-es'
 tags: [ 'vaqueros', ]
 actualPrice: 22.84 EUR
 currency: EUR

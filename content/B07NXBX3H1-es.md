@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXBX3H1-es Superdry Travis Vaqueros Skinny Negro Berkeley Black Vf1...'
+sku: 'B07NXBX3H1-es'
 tags: [ 'vaqueros', ]
 actualPrice: 55.99 EUR
 currency: EUR

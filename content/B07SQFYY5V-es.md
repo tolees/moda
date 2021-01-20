@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQFYY5V-es Geox B Shaax A Zapatillas para Bebés Rosa Pink C8004 25 EU'
+sku: 'B07SQFYY5V-es'
 tags: [ 'geox', ]
 actualPrice: 38.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPXSK6X-es Under Armour Speed Stride Graphic Camisa Manga Corta...'
+sku: 'B07PPXSK6X-es'
 tags: [ 'camisa', ]
 actualPrice: 18.07 EUR
 currency: EUR

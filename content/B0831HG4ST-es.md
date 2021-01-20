@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831HG4ST-es Marca Amazon - AURIQUE Low Impact Strappy - Sujetador...'
+sku: 'B0831HG4ST-es'
 tags: [ 'aurique', ]
 actualPrice: 14.0 EUR
 currency: EUR

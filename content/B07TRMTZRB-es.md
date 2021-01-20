@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRMTZRB-es Levi s The tee Camiseta Blanco 90 s Serif T2 Multicolor...'
+sku: 'B07TRMTZRB-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR

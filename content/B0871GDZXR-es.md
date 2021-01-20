@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0871GDZXR-es Chllyuang Sneakers Hombre Zapatos Deportivos de Malla...'
+sku: 'B0871GDZXR-es'
 tags: [ 'moda','zapatos', ]
 actualPrice: 23.99 EUR
 currency: EUR

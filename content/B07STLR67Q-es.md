@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLR67Q-es Geox U Nebula C Zapatillas para Hombre Beige Sand C5004 41 EU'
+sku: 'B07STLR67Q-es'
 tags: [ 'geox', ]
 actualPrice: 53.4 EUR
 currency: EUR

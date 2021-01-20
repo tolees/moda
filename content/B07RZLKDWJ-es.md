@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLKDWJ-es Levi s 511 Slim Fit Vaqueros Biologia Adv 4102 33W / 36L...'
+sku: 'B07RZLKDWJ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 75.0 EUR
 currency: EUR

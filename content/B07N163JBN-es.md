@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N163JBN-es Lee Button Down Camisa Gris Grey Mele 37 X-Large para Hombre'
+sku: 'B07N163JBN-es'
 tags: [ 'camisa', ]
 actualPrice: 21.38 EUR
 currency: EUR

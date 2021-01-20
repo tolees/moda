@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNY6SZC-es Levi s Orig Hm Vneck Camiseta Azul Dress Blues 0002 Large...'
+sku: 'B07SNY6SZC-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR

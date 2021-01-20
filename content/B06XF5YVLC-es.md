@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XF5YVLC-es PHOENISING - Pantalón Corto - para Mujer Azul Azul Claro 36'
+sku: 'B06XF5YVLC-es'
 tags: [ 'pantalón', ]
 actualPrice: 17.27 EUR
 currency: EUR

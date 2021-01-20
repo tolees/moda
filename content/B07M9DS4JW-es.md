@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9DS4JW-es Zapatos Deporte Mujer Zapatillas Deportivas Correr...'
+sku: 'B07M9DS4JW-es'
 tags: [ 'zapatos', ]
 actualPrice: 20.39 EUR
 currency: EUR

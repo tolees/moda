@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y88YC8R-es Marca Amazon - Iris & Lilly Braga Brasileña de Microfibra...'
+sku: 'B07Y88YC8R-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 10.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077P7WPJ1-es DIDINSKY Gafas de lectura sin patillas graduadas para...'
+sku: 'B077P7WPJ1-es'
 tags: [ 'gafas', ]
 actualPrice: 15.12 EUR
 currency: EUR

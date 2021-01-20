@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBM1JH1-es Napapijri Goderich Camisa Multicolor Check C18 46 Talla...'
+sku: 'B07LBM1JH1-es'
 tags: [ 'camisa', ]
 actualPrice: 39.5 EUR
 currency: EUR

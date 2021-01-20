@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWY46RW-es Joma Cairo II Sudadera Hombre Royal S'
+sku: 'B07NWY46RW-es'
 tags: [ 'sudadera', ]
 actualPrice: 12.49 EUR
 currency: EUR

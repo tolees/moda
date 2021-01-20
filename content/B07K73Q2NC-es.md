@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K73Q2NC-es Levi s Bobbi Tank Camiseta Deportiva de Tirantes Blanco...'
+sku: 'B07K73Q2NC-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWRLVVP-es Amilril Perla Collar Colgante Mujer Plata de Ley 925...'
+sku: 'B07QWRLVVP-es'
 tags: [ 'collar', ]
 actualPrice: 16.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF5BHVW-es Levi s SS Set-in Sunset Pocket Camiseta Multicolor...'
+sku: 'B07KF5BHVW-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.42 EUR
 currency: EUR

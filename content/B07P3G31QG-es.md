@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3G31QG-es Superdry University L/s Shirt Camisa Azul Classic Blue...'
+sku: 'B07P3G31QG-es'
 tags: [ 'camisa', ]
 actualPrice: 13.48 EUR
 currency: EUR

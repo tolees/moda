@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0030ZSZTA-es adidas Duramo Slide Chanclas Unisex Adulto Negro...'
+sku: 'B0030ZSZTA-es'
 tags: [ 'chanclas', ]
 actualPrice: 9.98 EUR
 currency: EUR

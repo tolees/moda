@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ84C4V-es Springfield 4.1.LIC.Dumbo Camiseta Multicolor Multicolor...'
+sku: 'B07NJ84C4V-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.61 EUR
 currency: EUR

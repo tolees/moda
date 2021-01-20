@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTFRXXK-es Columbia Chaqueta Impermeable con Capucha para Mujer...'
+sku: 'B01HTFRXXK-es'
 tags: [ 'chaqueta', ]
 actualPrice: 75.98 EUR
 currency: EUR

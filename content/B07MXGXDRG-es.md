@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXGXDRG-es Moxilyn Camisetas de Ciclismo para Hombre Camiseta Corta...'
+sku: 'B07MXGXDRG-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.66 EUR
 currency: EUR

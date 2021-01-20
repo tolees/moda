@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ31YL2-es Geox U Renan C Zapatillas para Hombre Gris Grey/Jeans...'
+sku: 'B07DJ31YL2-es'
 tags: [ 'geox', ]
 actualPrice: 49.95 EUR
 currency: EUR

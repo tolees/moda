@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E5FYJZ8-es PUMA Suede Classic+ Zapatilla para Hombre Rojo...'
+sku: 'B00E5FYJZ8-es'
 tags: [ 'zapatilla', ]
 actualPrice: 50.54 EUR
 currency: EUR

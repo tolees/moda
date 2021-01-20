@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFK63HQ-es SSC Napoli Réplica de camiseta de segunda equipación...'
+sku: 'B07SFK63HQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.6 EUR
 currency: EUR

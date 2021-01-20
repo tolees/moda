@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IABCN14-es Meller - Kribi Amber Carbon - Gafas de sol para hombre y...'
+sku: 'B01IABCN14-es'
 tags: [ 'gafas', ]
 actualPrice: 12.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y2SRG4D-es Botines Impermeables Hombre Mujer Botas de Nieve Botines...'
+sku: 'B07Y2SRG4D-es'
 tags: [ 'botines','zapatos', ]
 actualPrice: 32.3 EUR
 currency: EUR

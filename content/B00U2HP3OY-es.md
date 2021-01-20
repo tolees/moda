@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2HP3OY-es Minecraft - Camiseta para niño - Minecraft - Negro - 7 - 8...'
+sku: 'B00U2HP3OY-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.93 EUR
 currency: EUR

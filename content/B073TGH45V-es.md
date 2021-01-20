@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073TGH45V-es Joymoze Moderna Mochila de Ocio para Niñas Mochila Escolar...'
+sku: 'B073TGH45V-es'
 tags: [ 'bolso', ]
 actualPrice: 26.99 EUR
 currency: EUR

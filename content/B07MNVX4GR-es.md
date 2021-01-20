@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNVX4GR-es SINOES Zapatos De Los Hombres De Microfibra Otoño De...'
+sku: 'B07MNVX4GR-es'
 tags: [ 'zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8YDPYD-es REPLAY W3114 .000.22672 Sudadera Dorado Dark Gold Lurex 20...'
+sku: 'B07L8YDPYD-es'
 tags: [ 'sudadera', ]
 actualPrice: 19.89 EUR
 currency: EUR

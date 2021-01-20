@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078FBVHFB-es find. 62909 vaqueros mujer Negro Black W31/L32 Talla del...'
+sku: 'B078FBVHFB-es'
 tags: [ 'vaqueros', ]
 actualPrice: 11.1 EUR
 currency: EUR

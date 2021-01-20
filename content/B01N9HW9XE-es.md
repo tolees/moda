@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9HW9XE-es find. Camisa Entallada Óxford Estampada de Corte Entallado...'
+sku: 'B01N9HW9XE-es'
 tags: [ 'camisa', ]
 actualPrice: 9 EUR
 currency: EUR

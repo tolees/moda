@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3VFH5A-es Lacoste Sport SH7609 Sudadera con Capucha Azul...'
+sku: 'B01M3VFH5A-es'
 tags: [ 'sudadera', ]
 actualPrice: 49.95 EUR
 currency: EUR

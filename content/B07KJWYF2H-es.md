@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJWYF2H-es El Naturalista N5244 Multi Leather Zumaia Sandalias con...'
+sku: 'B07KJWYF2H-es'
 tags: [ 'sandalias', ]
 actualPrice: 29.22 EUR
 currency: EUR

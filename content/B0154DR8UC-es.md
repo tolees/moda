@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0154DR8UC-es Hollywood Star Fashion Polo clásico de manga corta Jersey...'
+sku: 'B0154DR8UC-es'
 tags: [ 'jersey', ]
 actualPrice: 11.2 EUR
 currency: EUR

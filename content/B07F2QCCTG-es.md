@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2QCCTG-es Helly Hansen Moss Rain Shell Chaqueta Impermeable con...'
+sku: 'B07F2QCCTG-es'
 tags: [ 'chaqueta', ]
 actualPrice: 51.99 EUR
 currency: EUR

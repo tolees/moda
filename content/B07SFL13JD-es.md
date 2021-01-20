@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFL13JD-es Calvin Klein Ckj 026 Vaqueros Slim Azul Stay Black 911 30W...'
+sku: 'B07SFL13JD-es'
 tags: [ 'vaqueros', ]
 actualPrice: 24.18 EUR
 currency: EUR

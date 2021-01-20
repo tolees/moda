@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCHHP87-es Clarks Gilman Mode Zapatos de Cordones Derby para Hombre...'
+sku: 'B06XCHHP87-es'
 tags: [ 'zapatos', ]
 actualPrice: 31.76 EUR
 currency: EUR

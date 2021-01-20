@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJPPFMH-es HUGO Elisha02 Camisa Negro Black 1 38 para Hombre'
+sku: 'B07VJPPFMH-es'
 tags: [ 'camisa', ]
 actualPrice: 35.17 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FHDLR4M-es Sibinulo Camisón de Maternidad Pijama Lactancia Vestido...'
+sku: 'B08FHDLR4M-es'
 tags: [ 'pijama','vestido', ]
 actualPrice: 20.99 EUR
 currency: EUR

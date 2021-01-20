@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1BSX7Q-es Rekordsan Pijama Antipañal Geriátrico Classic Mujer En...'
+sku: 'B07N1BSX7Q-es'
 tags: [ 'pijama', ]
 actualPrice: 29.66 EUR
 currency: EUR

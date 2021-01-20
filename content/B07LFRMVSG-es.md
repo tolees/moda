@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRMVSG-es Geox Pumps D New Annya M. A - Nappa schwarz 36'
+sku: 'B07LFRMVSG-es'
 tags: [ 'geox', ]
 actualPrice: 34.07 EUR
 currency: EUR

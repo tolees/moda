@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC1VR2B-es Dorina Casablanca Maillot De Bain Braguita de Bikini Negro...'
+sku: 'B07NC1VR2B-es'
 tags: [ 'bikini', ]
 actualPrice: 5.0 EUR
 currency: EUR

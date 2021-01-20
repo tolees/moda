@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JC88Q-es Under Armour Graphic Script Logo Fashion SSC Camisa Manga...'
+sku: 'B07L9JC88Q-es'
 tags: [ 'camisa', ]
 actualPrice: 10.78 EUR
 currency: EUR

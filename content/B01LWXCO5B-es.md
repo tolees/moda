@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWXCO5B-es Trango Ibela Termic Parka Mujer Negro 510 -Negro 2XL'
+sku: 'B01LWXCO5B-es'
 tags: [ 'parka', ]
 actualPrice: 229.6 EUR
 currency: EUR

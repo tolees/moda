@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8ZNK52-es Crocs Classic Lined Clog Zuecos Unisex Adulto Rojo...'
+sku: 'B07K8ZNK52-es'
 tags: [ 'zuecos', ]
 actualPrice: 33.16 EUR
 currency: EUR

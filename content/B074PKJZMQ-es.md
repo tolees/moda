@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PKJZMQ-es TYRY.HU dentición collar para mamá para usar silicona...'
+sku: 'B074PKJZMQ-es'
 tags: [ 'collar', ]
 actualPrice: 10.98 EUR
 currency: EUR

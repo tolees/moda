@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXVNHD5-es Desigual 19WAXP01 - Bolso de hombro de Sintético Mujer...'
+sku: 'B07MXVNHD5-es'
 tags: [ 'bolso', ]
 actualPrice: 24.95 EUR
 currency: EUR

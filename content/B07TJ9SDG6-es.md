@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9SDG6-es Levi s Sportswear Logo Graphic Camiseta Negro Ssnl Sw...'
+sku: 'B07TJ9SDG6-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR

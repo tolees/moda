@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RM6ZIW-es Havaianas Brasil Chanclas Unisex Adulto Blanco Brasil...'
+sku: 'B000RM6ZIW-es'
 tags: [ 'chanclas', ]
 actualPrice: 15.35 EUR
 currency: EUR

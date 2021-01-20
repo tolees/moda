@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K9N1BHR-es Crocs Swiftwater Sandal Women Sandalias de Punta...'
+sku: 'B07K9N1BHR-es'
 tags: [ 'sandalias', ]
 actualPrice: 13.3 EUR
 currency: EUR

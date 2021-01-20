@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073BGCLYW-es BaronHong Gynecomastia Compression Shirt Chaleco para...'
+sku: 'B073BGCLYW-es'
 tags: [ 'chaleco', ]
 actualPrice: 12 EUR
 currency: EUR

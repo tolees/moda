@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FK28KQD-es Lee Sherpa Jacket Chaqueta Vaquera Azul Vintage Worn Large...'
+sku: 'B07FK28KQD-es'
 tags: [ 'chaqueta', ]
 actualPrice: 78.03 EUR
 currency: EUR

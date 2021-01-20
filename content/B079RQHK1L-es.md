@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RQHK1L-es Pepe Jeans Norske Chaqueta Azul Ink 591 S para Hombre'
+sku: 'B079RQHK1L-es'
 tags: [ 'chaqueta', ]
 actualPrice: 31.9 EUR
 currency: EUR

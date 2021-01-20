@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FGYN2PZ-es Columbia Hombre Chaqueta Cascade Ridge II Softshell Azul...'
+sku: 'B07FGYN2PZ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 45.09 EUR
 currency: EUR

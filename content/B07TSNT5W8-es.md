@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSNT5W8-es New Look Aw19 Piper Abrigo Beige Oatmeal 14 40 Talla del...'
+sku: 'B07TSNT5W8-es'
 tags: [ 'abrigo', ]
 actualPrice: 19.0 EUR
 currency: EUR

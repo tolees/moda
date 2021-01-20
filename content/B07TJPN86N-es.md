@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJPN86N-es Clarks Tri Sporty Sandalias de Talón Abierto para Mujer...'
+sku: 'B07TJPN86N-es'
 tags: [ 'sandalias', ]
 actualPrice: 64.39 EUR
 currency: EUR

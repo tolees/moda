@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BORJ5YE-es Erima GmbH Classic Team Chaqueta para Todo Tiempo Unisex...'
+sku: 'B01BORJ5YE-es'
 tags: [ 'chaqueta', ]
 actualPrice: 17.22 EUR
 currency: EUR

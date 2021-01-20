@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N198RFT-es G-STAR RAW 3301 Straight Vaqueros Blu Authentic Faded Blue...'
+sku: 'B07N198RFT-es'
 tags: [ 'vaqueros', ]
 actualPrice: 14.3 EUR
 currency: EUR

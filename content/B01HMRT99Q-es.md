@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HMRT99Q-es The North Face T92TX5 Camiseta De Manga Corta Simple Dome...'
+sku: 'B01HMRT99Q-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR

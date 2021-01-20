@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKP52YF-es Ever-Pretty Vestido de Noche Gasa Un Hombro Corte Imperio...'
+sku: 'B07GKP52YF-es'
 tags: [ 'vestido', ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P16DHQ5-es Superdry OL Elite Crew Neck tee Camiseta Blanco White 04c...'
+sku: 'B07P16DHQ5-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.98 EUR
 currency: EUR

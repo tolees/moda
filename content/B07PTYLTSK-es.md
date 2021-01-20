@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTYLTSK-es Bañador de Mujer Bikini Ropa de Baño de Una Pieza Negro...'
+sku: 'B07PTYLTSK-es'
 tags: [ 'bikini', ]
 actualPrice: 18.99 EUR
 currency: EUR

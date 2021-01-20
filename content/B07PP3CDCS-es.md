@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PP3CDCS-es HUGO Alisters Chaqueta de Traje Negro Charcoal 010 105...'
+sku: 'B07PP3CDCS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 35.46 EUR
 currency: EUR

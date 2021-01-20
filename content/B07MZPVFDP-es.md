@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPVFDP-es Pepe Jeans Finsbury Vaqueros Skinny Gris Powerflex Grey...'
+sku: 'B07MZPVFDP-es'
 tags: [ 'vaqueros', ]
 actualPrice: 48.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJNK884-es Levi s Big and Tall 501 Button Fly B&t Vaqueros Straight...'
+sku: 'B07KJNK884-es'
 tags: [ 'vaqueros', ]
 actualPrice: 23.22 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF18HG6-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros Faded Glacier...'
+sku: 'B07RF18HG6-es'
 tags: [ 'vaqueros', ]
 actualPrice: 34.95 EUR
 currency: EUR

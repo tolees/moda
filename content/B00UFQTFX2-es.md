@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UFQTFX2-es Uvex Sportstyle 802 Small V Gafas Deportivas Unisex Adulto...'
+sku: 'B00UFQTFX2-es'
 tags: [ 'gafas', ]
 actualPrice: 64.01 EUR
 currency: EUR

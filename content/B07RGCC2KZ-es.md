@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGCC2KZ-es Tommy Hilfiger Corp Split tee Camiseta Deporte Blanco...'
+sku: 'B07RGCC2KZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.0 EUR
 currency: EUR

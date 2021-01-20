@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRG7P7G-es Helly Hansen LIFA Dry Stripe Crew Thermal Baselayer...'
+sku: 'B07KRG7P7G-es'
 tags: [ 'camiseta', ]
 actualPrice: 23.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXKV2SS-es Tommy Hilfiger TJM Bold tee Camiseta Azul Exotic Teal...'
+sku: 'B07VXKV2SS-es'
 tags: [ 'camiseta', ]
 actualPrice: 21.24 EUR
 currency: EUR

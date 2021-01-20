@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYGZDYV-es Levi s 511 Slim Vaqueros Gris Dark Slate Sueded Sateen WT...'
+sku: 'B07TYGZDYV-es'
 tags: [ 'vaqueros', ]
 actualPrice: 55.99 EUR
 currency: EUR

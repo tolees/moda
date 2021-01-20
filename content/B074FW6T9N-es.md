@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FW6T9N-es Marca Amazon - find. Sudadera de Rayas Verticales con...'
+sku: 'B074FW6T9N-es'
 tags: [ 'sudadera','-','find.', ]
 actualPrice: 14.0 EUR
 currency: EUR

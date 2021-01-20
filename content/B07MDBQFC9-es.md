@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDBQFC9-es Lee Sherpa Jacket Chaqueta Azul Dark Stone SS Large para...'
+sku: 'B07MDBQFC9-es'
 tags: [ 'chaqueta', ]
 actualPrice: 64.98 EUR
 currency: EUR

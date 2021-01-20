@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JYWLRG-es Madbike Accesorios de Cambio de Engranaje para Zapatos...'
+sku: 'B075JYWLRG-es'
 tags: [ 'zapatos', ]
 actualPrice: 11.99 EUR
 currency: EUR

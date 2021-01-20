@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087YY9TV8-es Conjunto De Bikini Acolchado De Malla Cruzada para Mujer...'
+sku: 'B087YY9TV8-es'
 tags: [ 'bikini', ]
 actualPrice: 11.56 EUR
 currency: EUR

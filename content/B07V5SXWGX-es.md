@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5SXWGX-es JACK & JONES Jjialvin Jjsherpa Corduroy Akm555 STS...'
+sku: 'B07V5SXWGX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 27.0 EUR
 currency: EUR

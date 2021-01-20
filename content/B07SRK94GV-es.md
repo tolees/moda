@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRK94GV-es Geox D Airell A Zapatillas para Mujer Gris Lt Grey C1010...'
+sku: 'B07SRK94GV-es'
 tags: [ 'geox', ]
 actualPrice: 36.05 EUR
 currency: EUR

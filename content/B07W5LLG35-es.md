@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5LLG35-es BestoU Monedero de Embrague Clutch Bolso de Noche Bolso...'
+sku: 'B07W5LLG35-es'
 tags: [ 'bolso','monedero', ]
 actualPrice: 11.99 EUR
 currency: EUR

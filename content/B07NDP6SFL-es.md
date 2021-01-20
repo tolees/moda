@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDP6SFL-es G-STAR RAW Graphic 9 Slim Round Neck Camiseta Blanco White...'
+sku: 'B07NDP6SFL-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.36 EUR
 currency: EUR

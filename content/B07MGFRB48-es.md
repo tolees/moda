@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRB48-es Napapijri GOAYO Camisa Casual Azul Blue Check 12C L para...'
+sku: 'B07MGFRB48-es'
 tags: [ 'camisa', ]
 actualPrice: 27.89 EUR
 currency: EUR

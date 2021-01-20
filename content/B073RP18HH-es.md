@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP18HH-es Helly Hansen HH Tech Crew Camiseta Hombre Gris Gris Oscuro...'
+sku: 'B073RP18HH-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.98 EUR
 currency: EUR

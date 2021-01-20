@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F4PLK-es Wrangler Western Check Shirt Blusa Marfil Off White 737...'
+sku: 'B07M5F4PLK-es'
 tags: [ 'blusa', ]
 actualPrice: 27.48 EUR
 currency: EUR

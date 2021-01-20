@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SWGQMM-es Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce...'
+sku: 'B081SWGQMM-es'
 tags: [ 'blusa','camiseta','moda', ]
 actualPrice: 4.69 EUR
 currency: EUR

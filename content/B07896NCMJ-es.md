@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07896NCMJ-es Under Armour UA Boxed Sportstyle Short Sleeve Camiseta...'
+sku: 'B07896NCMJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR

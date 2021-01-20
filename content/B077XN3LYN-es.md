@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XN3LYN-es Under Armour Armour Fleece Jogger Pantalón De Chándal...'
+sku: 'B077XN3LYN-es'
 tags: [ 'pantalón', ]
 actualPrice: 41.97 EUR
 currency: EUR

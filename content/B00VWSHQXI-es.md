@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VWSHQXI-es Viking Rondane GTX Zapatos de High Rise Senderismo Unisex...'
+sku: 'B00VWSHQXI-es'
 tags: [ 'zapatos', ]
 actualPrice: 35.8 EUR
 currency: EUR

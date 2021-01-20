@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT5TNJ-es REPLAY M3590 .000.2660 Camiseta Gris Stone Grey. 396 XXX-...'
+sku: 'B07SWT5TNJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.74 EUR
 currency: EUR

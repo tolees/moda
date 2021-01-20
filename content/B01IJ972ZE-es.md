@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IJ972ZE-es 2pcs bolso colgante organizador KAKOO oso polar azul de...'
+sku: 'B01IJ972ZE-es'
 tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR

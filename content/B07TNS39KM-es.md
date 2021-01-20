@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNS39KM-es Superdry VL O Crew Sudadera Azul Rich Navy Adq L para Hombre'
+sku: 'B07TNS39KM-es'
 tags: [ 'sudadera', ]
 actualPrice: 16.7 EUR
 currency: EUR

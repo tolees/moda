@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCZW915-es PUMA Ralph Sampson LO Zapatilla Baja Unisex-Adulto White...'
+sku: 'B07SCZW915-es'
 tags: [ 'zapatilla', ]
 actualPrice: 43.91 EUR
 currency: EUR

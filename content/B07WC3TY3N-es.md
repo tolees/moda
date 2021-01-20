@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC3TY3N-es Tommy Hilfiger Fixed Triangle Rp Parte de Arriba de Bikini...'
+sku: 'B07WC3TY3N-es'
 tags: [ 'bikini', ]
 actualPrice: 16.65 EUR
 currency: EUR

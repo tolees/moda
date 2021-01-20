@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5BG1CG-es Skechers Sure Track Zapatos de trabajo para Mujer color...'
+sku: 'B01M5BG1CG-es'
 tags: [ 'zapatos', ]
 actualPrice: 50.2 EUR
 currency: EUR

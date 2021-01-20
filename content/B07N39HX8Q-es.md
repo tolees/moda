@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39HX8Q-es Desigual Coat Mandala Abrigo Negro 2000 44 Talla del...'
+sku: 'B07N39HX8Q-es'
 tags: [ 'abrigo', ]
 actualPrice: 50.69 EUR
 currency: EUR

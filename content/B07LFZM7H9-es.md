@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZM7H9-es Geox U CLINTFORDB ABX A Botas Clasicas para Hombre Marrón...'
+sku: 'B07LFZM7H9-es'
 tags: [ 'geox', ]
 actualPrice: 34.78 EUR
 currency: EUR

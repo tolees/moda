@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3DLLRM-es Under Armour Armour Fleece 1/2 Zip Sudadera cálida Hombre...'
+sku: 'B07J3DLLRM-es'
 tags: [ 'sudadera', ]
 actualPrice: 36.66 EUR
 currency: EUR

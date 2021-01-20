@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDZGJ25-es PUMA Amplified Crew TR Sudadera Hombre Medium Gray Heather L'
+sku: 'B07XDZGJ25-es'
 tags: [ 'sudadera', ]
 actualPrice: 22.9 EUR
 currency: EUR

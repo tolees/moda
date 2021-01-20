@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6ZJQ9C-es 2-Pack Gafas de Lectura Magnéticas Plegables para Hombre y...'
+sku: 'B07V6ZJQ9C-es'
 tags: [ 'gafas', ]
 actualPrice: 16.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWN58FR-es Under Armour UNDKU Coldgear Rush Camisa De Manga Larga...'
+sku: 'B07QWN58FR-es'
 tags: [ 'camisa', ]
 actualPrice: 25.81 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V44PJLT-es SALOMON Agile FZ Hoodie M Chaqueta Cortavientos Hombre...'
+sku: 'B07V44PJLT-es'
 tags: [ 'chaqueta', ]
 actualPrice: 40.0 EUR
 currency: EUR

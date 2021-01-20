@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLPTTH9-es Havaianas Slim Flatform Chanclas para Mujer Azul Blue 0057...'
+sku: 'B07TLPTTH9-es'
 tags: [ 'chanclas', ]
 actualPrice: 12.56 EUR
 currency: EUR

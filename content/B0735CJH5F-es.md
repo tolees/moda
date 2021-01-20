@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0735CJH5F-es Napapijri Rainforest Pocket Chaqueta para Hombre Gris Dark...'
+sku: 'B0735CJH5F-es'
 tags: [ 'chaqueta', ]
 actualPrice: 99.95 EUR
 currency: EUR

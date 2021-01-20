@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT5W3YH-es AURIQUE Mallas Largas de Deporte para Mujer Azul Cobalt...'
+sku: 'B01MT5W3YH-es'
 tags: [ 'aurique', ]
 actualPrice: 11.2 EUR
 currency: EUR

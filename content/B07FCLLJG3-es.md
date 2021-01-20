@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCLLJG3-es Marca Amazon - find. Soft Jersey High Neck Sudadera Mujer...'
+sku: 'B07FCLLJG3-es'
 tags: [ 'jersey','sudadera','-','find.', ]
 actualPrice: 6.57 EUR
 currency: EUR

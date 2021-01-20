@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYNZBHZ-es Uvex sportstyle 803 small CV Gafas de deporte Adultos...'
+sku: 'B07FYNZBHZ-es'
 tags: [ 'gafas', ]
 actualPrice: 61.06 EUR
 currency: EUR

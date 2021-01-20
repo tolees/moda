@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGNBFZ1-es Jack & Jones JORBROOK Shirt LS Camisa Casual Multicolor...'
+sku: 'B07WGNBFZ1-es'
 tags: [ 'camisa', ]
 actualPrice: 9.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S27F2MK-es BILLABONG All Day 10K Jacket Chaqueta Deportiva Hombre...'
+sku: 'B07S27F2MK-es'
 tags: [ 'chaqueta', ]
 actualPrice: 28.72 EUR
 currency: EUR

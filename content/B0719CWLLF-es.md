@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719CWLLF-es Under Armour Tech 1/2 Zip-Twist Sudadera Mujer Negro...'
+sku: 'B0719CWLLF-es'
 tags: [ 'sudadera', ]
 actualPrice: 22.99 EUR
 currency: EUR

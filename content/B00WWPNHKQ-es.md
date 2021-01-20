@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WWPNHKQ-es JACK & JONES - Vaqueros para hombre Azul Denim W32/L32 32'
+sku: 'B00WWPNHKQ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.99 EUR
 currency: EUR

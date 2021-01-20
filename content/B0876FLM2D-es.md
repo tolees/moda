@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876FLM2D-es NIGHT CHERRY Mujer Moda Tacón Ancho Verano Sandalias...'
+sku: 'B0876FLM2D-es'
 tags: [ 'moda','sandalias','vestido','zapatos', ]
 actualPrice: 28.99 EUR
 currency: EUR

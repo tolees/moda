@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJCJ9WF-es ⭐ Za atar Libanés Del Chef ⭐ 200 Gr ⭐ NABÜR GOURMET ⭐...'
+sku: 'B07MJCJ9WF-es'
 tags: [ 'bolso', ]
 actualPrice: 13.27 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYZKLLZ-es Pepe Jeans West Sir Camiseta Naranja Sundown 166 X-Large...'
+sku: 'B07VYZKLLZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR

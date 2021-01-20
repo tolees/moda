@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYPS3NM-es Tommy Hilfiger Western Denim Shirt Msmb Camisa Azul...'
+sku: 'B07JYPS3NM-es'
 tags: [ 'camisa', ]
 actualPrice: 38.95 EUR
 currency: EUR

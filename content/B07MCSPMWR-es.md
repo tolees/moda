@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPMWR-es Napapijri Rainforest Winter 1 Chaqueta Verde Green Forest...'
+sku: 'B07MCSPMWR-es'
 tags: [ 'chaqueta', ]
 actualPrice: 75.61 EUR
 currency: EUR

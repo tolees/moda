@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0764JPDXF-es Kipling IZELLAH Bolso bandolera para Mujer Marrón True...'
+sku: 'B0764JPDXF-es'
 tags: [ 'bolso', ]
 actualPrice: 46.99 EUR
 currency: EUR

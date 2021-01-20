@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079V4ZDPB-es Wrangler Skinny Vaqueros Skinny Mujer Azul Tainted Blue...'
+sku: 'B079V4ZDPB-es'
 tags: [ 'vaqueros', ]
 actualPrice: 31.71 EUR
 currency: EUR

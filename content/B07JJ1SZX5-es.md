@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ1SZX5-es Armani Exchange 9 5 Ounces Stretch Mid Wash Vaqueros...'
+sku: 'B07JJ1SZX5-es'
 tags: [ 'vaqueros', ]
 actualPrice: 29.38 EUR
 currency: EUR

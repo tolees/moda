@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0047TAOG0-es Crocs Crocband U Zuecos Unisex Adulto Marrón Espresso-...'
+sku: 'B0047TAOG0-es'
 tags: [ 'zuecos', ]
 actualPrice: 25.34 EUR
 currency: EUR

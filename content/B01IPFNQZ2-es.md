@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IPFNQZ2-es Helly Hansen Crew Chaqueta deportiva Hombre Azul Azul Navy...'
+sku: 'B01IPFNQZ2-es'
 tags: [ 'chaqueta', ]
 actualPrice: 91.98 EUR
 currency: EUR

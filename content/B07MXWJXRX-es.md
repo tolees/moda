@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXWJXRX-es Desigual Bag Liberté Patch Folded Bolso para Mujer Negro...'
+sku: 'B07MXWJXRX-es'
 tags: [ 'bolso', ]
 actualPrice: 36.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQV9XZV-es Tommy_Jeans TJM Tape Sweater sudadera Azul Black Iris 002...'
+sku: 'B07JQV9XZV-es'
 tags: [ 'sudadera', ]
 actualPrice: 47.0 EUR
 currency: EUR

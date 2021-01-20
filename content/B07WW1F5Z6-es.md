@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WW1F5Z6-es Uvex Sportstyle 224 Gafas de Deporte Adultos Unisex Grey...'
+sku: 'B07WW1F5Z6-es'
 tags: [ 'gafas', ]
 actualPrice: 29.57 EUR
 currency: EUR

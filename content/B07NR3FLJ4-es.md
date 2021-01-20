@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NR3FLJ4-es PUMA Classics T7 Track Jkt Ft Chaqueta Mujer Heather M'
+sku: 'B07NR3FLJ4-es'
 tags: [ 'chaqueta', ]
 actualPrice: 34.95 EUR
 currency: EUR

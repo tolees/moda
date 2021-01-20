@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RQJTB9-es Star Wars HQ2017 Pijama de una Pieza Rojo Red 4 años...'
+sku: 'B073RQJTB9-es'
 tags: [ 'pijama', ]
 actualPrice: 4.88 EUR
 currency: EUR

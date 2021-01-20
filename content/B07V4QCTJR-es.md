@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4QCTJR-es Superdry Classic Trunk Triple Pack Bóxer Gris Grey Marl...'
+sku: 'B07V4QCTJR-es'
 tags: [ 'bóxer', ]
 actualPrice: 17.99 EUR
 currency: EUR

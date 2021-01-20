@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G7C9PT7-es MERAKI Boxy chaqueta punto Negro Black Medium'
+sku: 'B07G7C9PT7-es'
 tags: [ 'chaqueta','meraki', ]
 actualPrice: 17.5 EUR
 currency: EUR

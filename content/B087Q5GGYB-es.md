@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087Q5GGYB-es TAOFFEN Mujer Tacón Medio Zapatillas de Deporte Caña Baja...'
+sku: 'B087Q5GGYB-es'
 tags: [ 'zapatos', ]
 actualPrice: 26.88 EUR
 currency: EUR

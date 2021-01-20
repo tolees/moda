@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VX6YRE-es Timberland 6-Inch Premium Boot Botas para Hombre Negro...'
+sku: 'B000VX6YRE-es'
 tags: [ 'timberland', ]
 actualPrice: 145.91 EUR
 currency: EUR

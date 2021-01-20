@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TZWEIWK-es Lumaland Horma de Zapatos de alta calidad para hombres y...'
+sku: 'B00TZWEIWK-es'
 tags: [ 'zapatos', ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1XQLG3-es Columbia Vapor Vent Zapatos para Hombre Gris Steam/Royal...'
+sku: 'B07S1XQLG3-es'
 tags: [ 'zapatos', ]
 actualPrice: 54.99 EUR
 currency: EUR

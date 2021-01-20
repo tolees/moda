@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BOS9P8Y-es Freaky Nation Biker Princess Chaqueta Negro Shadow 9015...'
+sku: 'B01BOS9P8Y-es'
 tags: [ 'chaqueta', ]
 actualPrice: 139.95 EUR
 currency: EUR

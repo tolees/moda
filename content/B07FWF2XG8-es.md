@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FWF2XG8-es Columbia Ruckel Ridge Plus Waterproof Zapatos Impermeables...'
+sku: 'B07FWF2XG8-es'
 tags: [ 'zapatos', ]
 actualPrice: 72.98 EUR
 currency: EUR

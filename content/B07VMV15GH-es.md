@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMV15GH-es Lee Daren Button Fly Vaqueros Straight Azul Dk Clean Foam...'
+sku: 'B07VMV15GH-es'
 tags: [ 'vaqueros', ]
 actualPrice: 53.99 EUR
 currency: EUR

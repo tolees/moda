@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L410MOC-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
+sku: 'B01L410MOC-es'
 tags: [ 'chanclas', ]
 actualPrice: 18.12 EUR
 currency: EUR

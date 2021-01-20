@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPM21F6-es LOHOTEK Zapatillas Hombres Zapatos Deportivos para Hombres...'
+sku: 'B07SPM21F6-es'
 tags: [ 'moda','zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR

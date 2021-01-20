@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCNX8JX-es Columbia Tolt Track Chaqueta Interchange Hombre Azul...'
+sku: 'B07RCNX8JX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 120.89 EUR
 currency: EUR

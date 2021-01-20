@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087MBBD35-es Ucayali Zapatos de Seguridad Hombre Trabajo Verano...'
+sku: 'B087MBBD35-es'
 tags: [ 'zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR

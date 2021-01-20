@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGKKS7Q-es Marca Amazon – Lark & Ro – Vestido de tejido crepé con...'
+sku: 'B07MGKKS7Q-es'
 tags: [ 'vestido', ]
 actualPrice: 3.93 EUR
 currency: EUR

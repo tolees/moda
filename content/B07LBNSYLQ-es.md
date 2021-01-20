@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNSYLQ-es Helly Hansen Crew Pique 2 Camisa Polo Mujer Nightshade M'
+sku: 'B07LBNSYLQ-es'
 tags: [ 'camisa', ]
 actualPrice: 21.7 EUR
 currency: EUR

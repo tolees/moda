@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GEECFOA-es Rieker Mujer Sandalias de Vestir 62461 señora Sandalias de...'
+sku: 'B00GEECFOA-es'
 tags: [ 'sandalias','zapatos', ]
 actualPrice: 48.16 EUR
 currency: EUR

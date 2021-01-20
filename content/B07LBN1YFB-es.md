@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBN1YFB-es Helly Hansen Paramount Resistente Al Agua Y Al Viento Y...'
+sku: 'B07LBN1YFB-es'
 tags: [ 'chaqueta', ]
 actualPrice: 77.01 EUR
 currency: EUR

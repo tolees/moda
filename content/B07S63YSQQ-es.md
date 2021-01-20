@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S63YSQQ-es Crocs Crocband Flip Women Chanclas para Mujer Blanco White...'
+sku: 'B07S63YSQQ-es'
 tags: [ 'chanclas', ]
 actualPrice: 19.99 EUR
 currency: EUR

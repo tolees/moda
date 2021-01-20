@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PV4D3BT-es Nike M NSW Nsp Top SS Check Camiseta Hombre Blue...'
+sku: 'B07PV4D3BT-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.5 EUR
 currency: EUR

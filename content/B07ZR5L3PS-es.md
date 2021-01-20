@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZR5L3PS-es TOOLSTAR Reloj Inteligente Fitness Tracker IP67 Mujer...'
+sku: 'B07ZR5L3PS-es'
 tags: [ 'moda', ]
 actualPrice: 48.92 EUR
 currency: EUR

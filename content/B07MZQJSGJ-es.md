@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQJSGJ-es Pepe Jeans Nastia Sudadera Verdant 683 Medium para Mujer'
+sku: 'B07MZQJSGJ-es'
 tags: [ 'sudadera', ]
 actualPrice: 38.0 EUR
 currency: EUR

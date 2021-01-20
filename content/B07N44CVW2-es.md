@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N44CVW2-es Desigual Skirt Andrea Falda Rojo Rojo Clavel 3036 46 Talla...'
+sku: 'B07N44CVW2-es'
 tags: [ 'falda', ]
 actualPrice: 19.13 EUR
 currency: EUR

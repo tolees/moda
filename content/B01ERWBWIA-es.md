@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ERWBWIA-es Joma Campus II Camiseta de Juego Manga Larga Hombre...'
+sku: 'B01ERWBWIA-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR

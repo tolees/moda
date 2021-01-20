@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9JHWRX-es Calvin Klein Contrasted Ringer Reg Fit tee Camiseta Blanco...'
+sku: 'B07V9JHWRX-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.5 EUR
 currency: EUR

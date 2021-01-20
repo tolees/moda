@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRF21-es Napapijri Gardiner Camisa Casual Azul Blue Stripe 00s L...'
+sku: 'B07MGFRF21-es'
 tags: [ 'camisa', ]
 actualPrice: 35.6 EUR
 currency: EUR

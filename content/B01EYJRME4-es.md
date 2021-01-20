@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EYJRME4-es Levi s 511 Slim Fit Vaqueros Headed South 4006 29W / 32L...'
+sku: 'B01EYJRME4-es'
 tags: [ 'vaqueros', ]
 actualPrice: 56.69 EUR
 currency: EUR

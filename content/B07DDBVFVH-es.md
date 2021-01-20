@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDBVFVH-es Trangoworld Borau Chaqueta Hombre Rojo/Gris Antracita M'
+sku: 'B07DDBVFVH-es'
 tags: [ 'chaqueta', ]
 actualPrice: 90.22 EUR
 currency: EUR

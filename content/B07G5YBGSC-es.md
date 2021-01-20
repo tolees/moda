@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5YBGSC-es YDFYX Pierna Bolsa Multifuncional de Nailon Bolso para...'
+sku: 'B07G5YBGSC-es'
 tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR

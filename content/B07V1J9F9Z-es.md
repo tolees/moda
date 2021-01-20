@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1J9F9Z-es BOSS Brief 3p Co/El Bóxer Multicolor Open Miscellaneous...'
+sku: 'B07V1J9F9Z-es'
 tags: [ 'bóxer', ]
 actualPrice: 18.98 EUR
 currency: EUR

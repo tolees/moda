@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVQMXMM-es Marca Amazon - MERAKI Calzoncillo de Algodón Hombre Pack...'
+sku: 'B07MVQMXMM-es'
 tags: [ 'meraki', ]
 actualPrice: 10.14 EUR
 currency: EUR

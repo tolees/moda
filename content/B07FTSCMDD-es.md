@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTSCMDD-es Lee Rider Vaqueros Slim para Hombre Azul Broken Blue Sx...'
+sku: 'B07FTSCMDD-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FB6QTHX-es Joma Winner Sudadera Hombre antrac. / Negro L'
+sku: 'B07FB6QTHX-es'
 tags: [ 'sudadera', ]
 actualPrice: 14.99 EUR
 currency: EUR

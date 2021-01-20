@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RX1Z2CF-es BILLABONG All Night tee Camiseta Mujer Negro Black 19 One...'
+sku: 'B07RX1Z2CF-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.34 EUR
 currency: EUR

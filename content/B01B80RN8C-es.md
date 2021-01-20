@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B80RN8C-es Helly Hansen Rigging Abrigo Hombre Azul Navy L'
+sku: 'B01B80RN8C-es'
 tags: [ 'abrigo', ]
 actualPrice: 175.0 EUR
 currency: EUR

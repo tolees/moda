@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHZBQLX-es Geox D Sandal Vega a Sandalias con Punta Abierta para...'
+sku: 'B07DHZBQLX-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 46.23 EUR
 currency: EUR

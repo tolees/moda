@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N16RPX3-es G-STAR RAW ARC 3D Vaqueros Authentic Faded Blue 36W / 40L...'
+sku: 'B07N16RPX3-es'
 tags: [ 'vaqueros', ]
 actualPrice: 64.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDQDP9K-es Levi s Type 3 Chaqueta Vaquera Azul Mayze Sherpa Trucker...'
+sku: 'B07GDQDP9K-es'
 tags: [ 'chaqueta', ]
 actualPrice: 72.99 EUR
 currency: EUR

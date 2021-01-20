@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074SKTTXB-es RONSOU Retro Polarizadas Gafas de Sol 100% UV401...'
+sku: 'B074SKTTXB-es'
 tags: [ 'gafas', ]
 actualPrice: 11.99 EUR
 currency: EUR

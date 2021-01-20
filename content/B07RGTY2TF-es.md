@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGTY2TF-es New Balance 410v6 Trail Zapatos para Correr para Mujer...'
+sku: 'B07RGTY2TF-es'
 tags: [ 'zapatos', ]
 actualPrice: 31.93 EUR
 currency: EUR

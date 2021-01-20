@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CUSC1PM-es Spalding Attack Tank Top Camiseta De Equipaciones Manga...'
+sku: 'B00CUSC1PM-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR

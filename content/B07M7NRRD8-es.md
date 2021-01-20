@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7NRRD8-es Helly Hansen Hp Atlantic Fz Hoodie Sudadera para Hombre...'
+sku: 'B07M7NRRD8-es'
 tags: [ 'sudadera', ]
 actualPrice: 53.5 EUR
 currency: EUR

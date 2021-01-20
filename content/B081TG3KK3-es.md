@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TG3KK3-es LuckyGirls Zapatos Casuales de Invierno para Hombre Slip...'
+sku: 'B081TG3KK3-es'
 tags: [ 'botines','zapatos', ]
 actualPrice: 8.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMB32Y-es Pepe Jeans Margaret Camiseta Mousse 808 13-14 años Talla...'
+sku: 'B07MZMB32Y-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR

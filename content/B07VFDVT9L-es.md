@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFDVT9L-es JACK & JONES Jorvincey Sweat Zip Hood Chaleco Deportivo...'
+sku: 'B07VFDVT9L-es'
 tags: [ 'chaleco', ]
 actualPrice: 14.27 EUR
 currency: EUR

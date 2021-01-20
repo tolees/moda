@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WB91KH-es Stonefly Berry II 1 Calf Zapatos de Cordones Brogue para...'
+sku: 'B078WB91KH-es'
 tags: [ 'zapatos', ]
 actualPrice: 49.96 EUR
 currency: EUR

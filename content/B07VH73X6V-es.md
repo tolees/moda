@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VH73X6V-es edc by Esprit 099cc1b033 Vaqueros Skinny Azul Blue Dark...'
+sku: 'B07VH73X6V-es'
 tags: [ 'vaqueros', ]
 actualPrice: 10.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYW7CVZ-es Wrangler LS 2kt Flap Shirt Camisa Azul Directoire Blue Xkl...'
+sku: 'B07TYW7CVZ-es'
 tags: [ 'camisa', ]
 actualPrice: 15.74 EUR
 currency: EUR

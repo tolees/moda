@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0774H5YCX-es Eastpak Buddy Bolso bandolera 18 cm Azul Cloud Navy'
+sku: 'B0774H5YCX-es'
 tags: [ 'bolso', ]
 actualPrice: 15.0 EUR
 currency: EUR

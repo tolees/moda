@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7H6QNS-es Pantalones para Adelgazar Pantalones Deportivos Mujer...'
+sku: 'B07X7H6QNS-es'
 tags: [ 'pantalón', ]
 actualPrice: 21.9 EUR
 currency: EUR

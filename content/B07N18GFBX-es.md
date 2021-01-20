@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N18GFBX-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Antic Charcoal 25W...'
+sku: 'B07N18GFBX-es'
 tags: [ 'vaqueros', ]
 actualPrice: 28.24 EUR
 currency: EUR

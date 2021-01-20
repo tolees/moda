@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGT12H4-es LOHOTEK Guantes Gimnasio Hombre Mujer Guantes Acolchados...'
+sku: 'B07WGT12H4-es'
 tags: [ 'guantes', ]
 actualPrice: 18.99 EUR
 currency: EUR

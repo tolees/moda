@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085SM6HH1-es Only Onlmay Life Vestido de Verano Apple Butter XS para Mujer'
+sku: 'B085SM6HH1-es'
 tags: [ 'vestido', ]
 actualPrice: 11.92 EUR
 currency: EUR

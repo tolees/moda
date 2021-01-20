@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076XCYB8V-es Geox J Sveth A Zapatilla Baja para Niños Azul Royal 27 EU'
+sku: 'B076XCYB8V-es'
 tags: [ 'geox','zapatilla', ]
 actualPrice: 19.58 EUR
 currency: EUR

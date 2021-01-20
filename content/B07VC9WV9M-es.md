@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9WV9M-es JACK & JONES Jcowill Puffer Chaqueta Azul Navy Blazer...'
+sku: 'B07VC9WV9M-es'
 tags: [ 'chaqueta', ]
 actualPrice: 23.12 EUR
 currency: EUR

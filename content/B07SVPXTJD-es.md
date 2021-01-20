@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPXTJD-es Geox D Avery C Zapatillas para Mujer Negro Black C9999 38 EU'
+sku: 'B07SVPXTJD-es'
 tags: [ 'geox', ]
 actualPrice: 28.69 EUR
 currency: EUR

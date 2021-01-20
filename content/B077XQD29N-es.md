@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XQD29N-es Under Armour UNDKU Coldgear Armour Camisa De Manga Larga...'
+sku: 'B077XQD29N-es'
 tags: [ 'camisa', ]
 actualPrice: 24.41 EUR
 currency: EUR

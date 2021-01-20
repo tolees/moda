@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRYHWZH-es MTNG Mauri Bolso mochila para Mujer Marrón Antel/Liso...'
+sku: 'B07PRYHWZH-es'
 tags: [ 'bolso', ]
 actualPrice: 12.14 EUR
 currency: EUR

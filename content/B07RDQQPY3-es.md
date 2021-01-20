@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDQQPY3-es Tommy Hilfiger TJM Split Box tee Camiseta Deporte Azul...'
+sku: 'B07RDQQPY3-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.3 EUR
 currency: EUR

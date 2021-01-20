@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRK46J6-es Geox U Wells C Zapatillas para Hombre Azul Lt Avio C4348...'
+sku: 'B07SRK46J6-es'
 tags: [ 'geox', ]
 actualPrice: 29.57 EUR
 currency: EUR

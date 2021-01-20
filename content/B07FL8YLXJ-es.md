@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL8YLXJ-es Superdry Vintage Logo 1st tee Camiseta de Tirantes Azul...'
+sku: 'B07FL8YLXJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.73 EUR
 currency: EUR

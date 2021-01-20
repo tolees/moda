@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX8B8F-es Pepe Jeans Garrett Sudadera con Capucha Rojo Brick 262...'
+sku: 'B07VWX8B8F-es'
 tags: [ 'sudadera', ]
 actualPrice: 30.0 EUR
 currency: EUR

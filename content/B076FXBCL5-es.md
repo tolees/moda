@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076FXBCL5-es Dainese Pantalón de Motorista DAINESE Delta 3 Piel/Botas...'
+sku: 'B076FXBCL5-es'
 tags: [ 'pantalón', ]
 actualPrice: 154.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGP8X1-es Geox U Snake.2 A Zapatillas para Hombre Azul Avio/Lt Grey...'
+sku: 'B07SQGP8X1-es'
 tags: [ 'geox', ]
 actualPrice: 48.26 EUR
 currency: EUR

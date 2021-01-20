@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKDHM17-es Nike Dri-FIT Miler Camiseta Hombre Gris Atmosphere...'
+sku: 'B07FKDHM17-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.65 EUR
 currency: EUR

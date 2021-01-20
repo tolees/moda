@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TT3Y1Y-es adidas Con20 TR Jkt Chaqueta de Deporte Hombre Team Power...'
+sku: 'B081TT3Y1Y-es'
 tags: [ 'chaqueta', ]
 actualPrice: 34.8 EUR
 currency: EUR

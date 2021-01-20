@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077G5NWT5-es gracosy Mujer Botas de Nieve Senderismo Zapatos...'
+sku: 'B077G5NWT5-es'
 tags: [ 'zapatos', ]
 actualPrice: 35.99 EUR
 currency: EUR

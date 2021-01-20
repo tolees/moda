@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073BFDYSD-es BaronHong Gynecomastia compresión Camisa Chaleco para...'
+sku: 'B073BFDYSD-es'
 tags: [ 'camisa','chaleco', ]
 actualPrice: 15.99 EUR
 currency: EUR

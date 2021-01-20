@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777PZCFL-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo Rojo...'
+sku: 'B0777PZCFL-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.95 EUR
 currency: EUR

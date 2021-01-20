@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6GWPTN-es Esprit 057ee1f039 Blusa Multicolor Pastel Blue 38 para Mujer'
+sku: 'B06X6GWPTN-es'
 tags: [ 'blusa', ]
 actualPrice: 7.08 EUR
 currency: EUR

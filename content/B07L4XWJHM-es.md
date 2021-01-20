@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4XWJHM-es Charles Wilson Camisa Franela de Cuadros Manga Larga para...'
+sku: 'B07L4XWJHM-es'
 tags: [ 'camisa', ]
 actualPrice: 16.95 EUR
 currency: EUR

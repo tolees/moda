@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MBX5ZB-es Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con...'
+sku: 'B079MBX5ZB-es'
 tags: [ 'camiseta','meraki', ]
 actualPrice: 6.76 EUR
 currency: EUR

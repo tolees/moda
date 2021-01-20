@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GTPCSJ-es Under Armour Ua Classic Script SS Camiseta de manga corta...'
+sku: 'B077GTPCSJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.63 EUR
 currency: EUR

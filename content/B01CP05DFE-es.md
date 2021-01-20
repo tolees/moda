@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CP05DFE-es Eshow Bolso Bandolera a Hombro para Mujeres de Tela de...'
+sku: 'B01CP05DFE-es'
 tags: [ 'bolso', ]
 actualPrice: 27.99 EUR
 currency: EUR

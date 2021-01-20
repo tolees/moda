@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK1QRQ8-es Napapijri Avio Chaqueta Rojo Red Scarlet R01 XL para Hombre'
+sku: 'B07MK1QRQ8-es'
 tags: [ 'chaqueta', ]
 actualPrice: 77.21 EUR
 currency: EUR

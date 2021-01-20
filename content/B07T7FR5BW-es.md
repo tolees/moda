@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T7FR5BW-es Cadena Transparente Bolsa De PVC Verano PU Colorido...'
+sku: 'B07T7FR5BW-es'
 tags: [ 'bolso','monedero', ]
 actualPrice: 10.76 EUR
 currency: EUR

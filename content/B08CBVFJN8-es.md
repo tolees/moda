@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CBVFJN8-es LJP Funda Huawei Honor 20 Suave PU Cuero Carcasa y TPU...'
+sku: 'B08CBVFJN8-es'
 tags: [ 'billetera', ]
 actualPrice: 7.92 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J3QUQU6-es uhlsport Match Classic De Mujer Chaqueta De Entrenamiento...'
+sku: 'B00J3QUQU6-es'
 tags: [ 'chaqueta', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQE8CQL-es Levi s 511 Slim Fit Vaqueros Nightshine X 36W / 34L para...'
+sku: 'B01MQE8CQL-es'
 tags: [ 'vaqueros', ]
 actualPrice: 46.83 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZP3MFB9-es LuckyGirls Accesorios de protección Solar de Estilo...'
+sku: 'B07ZP3MFB9-es'
 tags: [ 'guantes', ]
 actualPrice: 1.14 EUR
 currency: EUR

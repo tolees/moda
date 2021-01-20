@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792HC7TB-es Geox U LEITAN C Mocasines para Hombre Negro 41 EU'
+sku: 'B0792HC7TB-es'
 tags: [ 'geox', ]
 actualPrice: 58.95 EUR
 currency: EUR

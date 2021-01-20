@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STFZLML-es Geox J SPACECLUB Girl C Zapatillas para Niñas Rosa Pink...'
+sku: 'B07STFZLML-es'
 tags: [ 'geox', ]
 actualPrice: 36.61 EUR
 currency: EUR

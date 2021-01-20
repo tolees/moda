@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9XHDMH-es Zuecos Hombre Playa Piscina Sanitarios Enfermera Goma...'
+sku: 'B07B9XHDMH-es'
 tags: [ 'sandalias','zuecos', ]
 actualPrice: 14.39 EUR
 currency: EUR

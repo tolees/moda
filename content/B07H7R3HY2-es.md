@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7R3HY2-es JACK & JONES Jachenrik Trunks 3 Pack Noos Bóxer Multicolor...'
+sku: 'B07H7R3HY2-es'
 tags: [ 'bóxer', ]
 actualPrice: 14.95 EUR
 currency: EUR

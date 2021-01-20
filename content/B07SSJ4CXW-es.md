@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJ4CXW-es Geox B Djrock Girl A Zapatillas para Bebés Plateado...'
+sku: 'B07SSJ4CXW-es'
 tags: [ 'geox', ]
 actualPrice: 16.89 EUR
 currency: EUR

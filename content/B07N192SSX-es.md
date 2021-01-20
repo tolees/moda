@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N192SSX-es G-STAR RAW ARC 3D Vaqueros Worker Blue Faded 25W / 32L...'
+sku: 'B07N192SSX-es'
 tags: [ 'vaqueros', ]
 actualPrice: 28.03 EUR
 currency: EUR

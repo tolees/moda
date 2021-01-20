@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQMM6WM-es Clarks Un Trail Form Zapatos de Cordones Derby Marrón Tan...'
+sku: 'B07FQMM6WM-es'
 tags: [ 'zapatos', ]
 actualPrice: 59.9 EUR
 currency: EUR

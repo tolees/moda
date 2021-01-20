@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076XCYF5L-es Geox J Sveth A Zapatillas para Niños Azul Navy/Grey 25 EU'
+sku: 'B076XCYF5L-es'
 tags: [ 'geox', ]
 actualPrice: 19.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9J4B6X-es Under Armour Tactical All Season Chaqueta Hombre Verde XL'
+sku: 'B07L9J4B6X-es'
 tags: [ 'chaqueta', ]
 actualPrice: 47.99 EUR
 currency: EUR

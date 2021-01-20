@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFGF69F-es Levi s 510 Skinny Fit Vaqueros para Hombre Gris Deathcap...'
+sku: 'B07LFGF69F-es'
 tags: [ 'vaqueros', ]
 actualPrice: 59.99 EUR
 currency: EUR

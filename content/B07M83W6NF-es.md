@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M83W6NF-es Napapijri Aerons Stand 2 Chaqueta Blau French Blue Bb7 L...'
+sku: 'B07M83W6NF-es'
 tags: [ 'chaqueta', ]
 actualPrice: 99.5 EUR
 currency: EUR

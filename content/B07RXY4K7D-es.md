@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXY4K7D-es Pepe Jeans Avalon Sudadera Azul Thames 583 Talla única...'
+sku: 'B07RXY4K7D-es'
 tags: [ 'sudadera', ]
 actualPrice: 32.27 EUR
 currency: EUR

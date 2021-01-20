@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZJDVMK-es Tommy Hilfiger U Light Down Jacket Chaqueta Verde Olive...'
+sku: 'B07JZJDVMK-es'
 tags: [ 'chaqueta', ]
 actualPrice: 42.61 EUR
 currency: EUR

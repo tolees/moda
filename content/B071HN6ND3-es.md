@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HN6ND3-es Tommy Hilfiger Bikini Azul Navy Blazer 416 38 Talla del...'
+sku: 'B071HN6ND3-es'
 tags: [ 'bikini', ]
 actualPrice: 13.95 EUR
 currency: EUR

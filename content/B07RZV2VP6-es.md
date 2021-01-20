@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZV2VP6-es BOSS LS-Shirt RN Thermal+ Camiseta térmica Rojo Dark Red...'
+sku: 'B07RZV2VP6-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.42 EUR
 currency: EUR

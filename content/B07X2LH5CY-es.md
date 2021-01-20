@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2LH5CY-es Ipanema Anat Lovely X Fem Chanclas para Mujer Multicolor...'
+sku: 'B07X2LH5CY-es'
 tags: [ 'chanclas', ]
 actualPrice: 15.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HXLC5N-es Chaqueta Softshell Inatye'
+sku: 'B072HXLC5N-es'
 tags: [ 'chaqueta', ]
 actualPrice: 49.98 EUR
 currency: EUR

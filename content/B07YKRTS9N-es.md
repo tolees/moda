@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKRTS9N-es Esprit 129ee2g006 Chaqueta Azul Dark Blue 405 X-Large para...'
+sku: 'B07YKRTS9N-es'
 tags: [ 'chaqueta', ]
 actualPrice: 49.99 EUR
 currency: EUR

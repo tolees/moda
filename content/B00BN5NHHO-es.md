@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN5NHHO-es Pepe Jeans Original Stretch Camiseta Azul Navy 595 Medium...'
+sku: 'B00BN5NHHO-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR

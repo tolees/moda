@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWX4JT8-es ranrann Chaleco Sin Mangas para Niña Suave Camiseta de...'
+sku: 'B07QWX4JT8-es'
 tags: [ 'camiseta','chaleco', ]
 actualPrice: 2.49 EUR
 currency: EUR

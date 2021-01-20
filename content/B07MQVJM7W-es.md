@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVJM7W-es Napapijri Berber H Sudadera con Capucha Gris Med Grey Mel...'
+sku: 'B07MQVJM7W-es'
 tags: [ 'sudadera', ]
 actualPrice: 44.55 EUR
 currency: EUR

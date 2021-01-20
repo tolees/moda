@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QJTSQP-es find. Camiseta de Deporte con Paneles de Rejilla Hombre...'
+sku: 'B075QJTSQP-es'
 tags: [ 'camiseta', ]
 actualPrice: 4.8 EUR
 currency: EUR

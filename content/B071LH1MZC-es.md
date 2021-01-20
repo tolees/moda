@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LH1MZC-es Under Armour Woven Graphic Wordmark Shorts Pantalones de...'
+sku: 'B071LH1MZC-es'
 tags: [ 'pantalón', ]
 actualPrice: 12.49 EUR
 currency: EUR

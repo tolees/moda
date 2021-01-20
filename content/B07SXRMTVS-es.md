@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXRMTVS-es Geox D Borealis A Sandalia con Pulsera para Mujer Gris Dk...'
+sku: 'B07SXRMTVS-es'
 tags: [ 'geox', ]
 actualPrice: 43.25 EUR
 currency: EUR

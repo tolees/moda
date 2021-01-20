@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZBXTHW-es Bebé Pelele de Algodón Mameluco Béisbol Trajes Niños Niñas...'
+sku: 'B07DZBXTHW-es'
 tags: [ 'pelele', ]
 actualPrice: 16.99 EUR
 currency: EUR

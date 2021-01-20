@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B7BZM3-es Columbia Triple Canyon Camisa de Manga Corta Hombre Gris...'
+sku: 'B081B7BZM3-es'
 tags: [ 'camisa', ]
 actualPrice: 37.61 EUR
 currency: EUR

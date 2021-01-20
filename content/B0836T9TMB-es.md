@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0836T9TMB-es Casual Slipper Flip Flop Sandal Zapatillas para Mujer...'
+sku: 'B0836T9TMB-es'
 tags: [ 'zapatos', ]
 actualPrice: 9.68 EUR
 currency: EUR

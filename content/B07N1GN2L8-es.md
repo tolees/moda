@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GN2L8-es Clarks Un Venturehi Botines para Mujer Negro Black Combi...'
+sku: 'B07N1GN2L8-es'
 tags: [ 'botines', ]
 actualPrice: 30.6 EUR
 currency: EUR

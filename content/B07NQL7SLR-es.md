@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQL7SLR-es Springfield 3Ba Basica Capucha Abierta Sudadera Rojo Red...'
+sku: 'B07NQL7SLR-es'
 tags: [ 'sudadera', ]
 actualPrice: 14.99 EUR
 currency: EUR

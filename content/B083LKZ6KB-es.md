@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LKZ6KB-es AMZTM Camiseta de Manga Corta con Flamenca - Bimba Niñas...'
+sku: 'B083LKZ6KB-es'
 tags: [ 'blusa','camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH3FMNZ-es Pepe Jeans Duff Chest Logo T Camiseta Gris Grey Marl 933...'
+sku: 'B07JH3FMNZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 22.27 EUR
 currency: EUR

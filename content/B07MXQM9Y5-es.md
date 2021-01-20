@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXQM9Y5-es Desigual 19WAKA35 - Bolso mochila de Sintético Mujer...'
+sku: 'B07MXQM9Y5-es'
 tags: [ 'bolso', ]
 actualPrice: 44.95 EUR
 currency: EUR

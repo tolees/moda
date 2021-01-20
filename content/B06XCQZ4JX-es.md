@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCQZ4JX-es Timberland Killington Hiker Zapatillas Altas para Hombre...'
+sku: 'B06XCQZ4JX-es'
 tags: [ 'timberland', ]
 actualPrice: 76.99 EUR
 currency: EUR

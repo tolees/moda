@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVQT6YL-es Levi s Orig HM Vneck Camiseta Puerto S para Hombre'
+sku: 'B07ZVQT6YL-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.57 EUR
 currency: EUR

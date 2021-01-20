@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSVDYH-es Clarks Ronnie Limit Zapatos de Cordones Brogue para Hombre...'
+sku: 'B07MLSVDYH-es'
 tags: [ 'zapatos', ]
 actualPrice: 50.06 EUR
 currency: EUR

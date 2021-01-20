@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K4VPRJN-es BOSS Mabsoot Camisa Azul Open Blue X-Small para Hombre'
+sku: 'B07K4VPRJN-es'
 tags: [ 'camisa', ]
 actualPrice: 18.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKGN7P3-es New Look Faith Belted PU Biker Chaqueta Beige Light Khaki...'
+sku: 'B07WKGN7P3-es'
 tags: [ 'chaqueta', ]
 actualPrice: 11.85 EUR
 currency: EUR

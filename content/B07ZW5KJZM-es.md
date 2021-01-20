@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZW5KJZM-es Marca Amazon - find. Flat Gladiator Sandalias de Gladiador...'
+sku: 'B07ZW5KJZM-es'
 tags: [ 'sandalias','-','find.', ]
 actualPrice: 5.23 EUR
 currency: EUR

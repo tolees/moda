@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LM6US76-es Havaianas Slim Chanclas Mujer Gris Steel Grey 37/38 EU'
+sku: 'B00LM6US76-es'
 tags: [ 'chanclas', ]
 actualPrice: 12.99 EUR
 currency: EUR

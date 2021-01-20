@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ3VH5V-es Geox D Annya High A Zapatos de Tacón para Mujer Beige...'
+sku: 'B07DJ3VH5V-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 35.31 EUR
 currency: EUR

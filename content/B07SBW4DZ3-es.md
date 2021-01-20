@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBW4DZ3-es PUMA Epic Flip V2 Zapatos de Playa y Piscina Unisex Adulto...'
+sku: 'B07SBW4DZ3-es'
 tags: [ 'zapatos', ]
 actualPrice: 13.49 EUR
 currency: EUR

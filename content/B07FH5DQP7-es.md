@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH5DQP7-es Havaianas Hype Chanclas Unisex Adulto Multicolor...'
+sku: 'B07FH5DQP7-es'
 tags: [ 'chanclas', ]
 actualPrice: 16.8 EUR
 currency: EUR

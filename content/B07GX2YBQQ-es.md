@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX2YBQQ-es JIVANER Ultra Slim: Cartera Hombre de Piel Azul - Cartera...'
+sku: 'B07GX2YBQQ-es'
 tags: [ 'billetera','monedero', ]
 actualPrice: 11.66 EUR
 currency: EUR

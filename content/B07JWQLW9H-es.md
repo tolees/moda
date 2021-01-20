@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWQLW9H-es Pepe Jeans Betties HW Vaqueros Straight Azul Claro Archive...'
+sku: 'B07JWQLW9H-es'
 tags: [ 'vaqueros', ]
 actualPrice: 13.47 EUR
 currency: EUR

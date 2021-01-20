@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PP394MW-es Kipling Eleva Bolso con Bandolera para Mujer Verde...'
+sku: 'B07PP394MW-es'
 tags: [ 'bolso', ]
 actualPrice: 37.5 EUR
 currency: EUR

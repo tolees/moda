@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9K23DZ-es Chubasquero Mujer Chaqueta Impermeable Abrigo Manga Larga...'
+sku: 'B07T9K23DZ-es'
 tags: [ 'abrigo','chaqueta', ]
 actualPrice: 13.95 EUR
 currency: EUR

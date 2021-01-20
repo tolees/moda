@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J57FRL5-es Hawiton Pantalones Deportivos para Mujer 100% Algodón...'
+sku: 'B07J57FRL5-es'
 tags: [ 'pantalón','pijama', ]
 actualPrice: 16.14 EUR
 currency: EUR

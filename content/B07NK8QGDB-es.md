@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NK8QGDB-es Strellson Premium Allen Chaqueta de Traje Gris Grey 045 56...'
+sku: 'B07NK8QGDB-es'
 tags: [ 'chaqueta', ]
 actualPrice: 51.58 EUR
 currency: EUR

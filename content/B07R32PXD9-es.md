@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R32PXD9-es Camfosy CAMFOSYUnifr136 - Sandalias Deportivas Mujer...'
+sku: 'B07R32PXD9-es'
 tags: [ 'sandalias', ]
 actualPrice: 46.31 EUR
 currency: EUR

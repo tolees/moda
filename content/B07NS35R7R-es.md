@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NS35R7R-es Camisetas Mujer SHOBDW Dia de la Mujer Verano Patchwork De...'
+sku: 'B07NS35R7R-es'
 tags: [ 'blusa','camiseta', ]
 actualPrice: 8.99 EUR
 currency: EUR

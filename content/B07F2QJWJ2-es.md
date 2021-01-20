@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2QJWJ2-es Helly Hansen HP Fleece Jacket Chaqueta Polar Hombre Quiet...'
+sku: 'B07F2QJWJ2-es'
 tags: [ 'chaqueta', ]
 actualPrice: 56.71 EUR
 currency: EUR

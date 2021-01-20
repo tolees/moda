@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZDTT9X-es Under Armour Armour Heatgear Short-Sleeve Camiseta Niñas...'
+sku: 'B07CZDTT9X-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.93 EUR
 currency: EUR

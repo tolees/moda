@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQCLYV-es Pepe Jeans Dutchman Chaqueta Sailor 580 7-8 años Talla del...'
+sku: 'B07MZQCLYV-es'
 tags: [ 'chaqueta', ]
 actualPrice: 48.04 EUR
 currency: EUR

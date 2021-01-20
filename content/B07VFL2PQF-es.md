@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFL2PQF-es HUGO 734 Vaqueros Skinny Gris Medium Grey 30 W30/L30 Talla...'
+sku: 'B07VFL2PQF-es'
 tags: [ 'vaqueros', ]
 actualPrice: 85.69 EUR
 currency: EUR

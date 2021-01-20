@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWVWTQ8-es Columbia Fire Venture S II WP Zapatos de Senderismo...'
+sku: 'B07JWVWTQ8-es'
 tags: [ 'zapatos', ]
 actualPrice: 69.98 EUR
 currency: EUR

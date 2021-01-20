@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNVRXQ7-es The Indian Face Gafas de Sol Deportivas Free Spirit para...'
+sku: 'B07GNVRXQ7-es'
 tags: [ 'gafas', ]
 actualPrice: 27.2 EUR
 currency: EUR

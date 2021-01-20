@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSRGRMV-es Charles Wilson Sudadera con Capucha de Peso Pesado XX-...'
+sku: 'B07WSRGRMV-es'
 tags: [ 'sudadera', ]
 actualPrice: 12.95 EUR
 currency: EUR

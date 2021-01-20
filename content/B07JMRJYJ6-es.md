@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMRJYJ6-es Appy Mama. Mujer Premama Jersey Camiseta Túnica Larga...'
+sku: 'B07JMRJYJ6-es'
 tags: [ 'camiseta','jersey', ]
 actualPrice: 3.84 EUR
 currency: EUR

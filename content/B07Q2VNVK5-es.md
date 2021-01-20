@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2VNVK5-es TTYAOVO Chicas Unicornio Fancy Vestido Princesa Flor...'
+sku: 'B07Q2VNVK5-es'
 tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR

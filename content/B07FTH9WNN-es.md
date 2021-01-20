@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTH9WNN-es Lee Scarlett Jeans Vaqueros Skinny Azul Flight Wj 30W /...'
+sku: 'B07FTH9WNN-es'
 tags: [ 'vaqueros', ]
 actualPrice: 49.98 EUR
 currency: EUR

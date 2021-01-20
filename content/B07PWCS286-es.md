@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWCS286-es AGPTEK Bolsa Deporte y Viaje para Mujer y Hombre con...'
+sku: 'B07PWCS286-es'
 tags: [ 'zapatos', ]
 actualPrice: 16.74 EUR
 currency: EUR

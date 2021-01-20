@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XMNTP7-es Under Armour Woven Graphic Pantalón Corto Hombre Gris...'
+sku: 'B077XMNTP7-es'
 tags: [ 'pantalón', ]
 actualPrice: 20.33 EUR
 currency: EUR

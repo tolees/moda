@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YWCH5S6-es SKYSPER Ropa Interior Térmica Hombre Conjuntos Térmicos...'
+sku: 'B07YWCH5S6-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.99 EUR
 currency: EUR

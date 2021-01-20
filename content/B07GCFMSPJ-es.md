@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCFMSPJ-es Puma Essentials LG T Camiseta de Manga Corta Hombre Blanco...'
+sku: 'B07GCFMSPJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

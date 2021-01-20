@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F27RDTB-es Levi s 510 Skinny Fit Vaqueros para Hombre Negro Stylo Adv...'
+sku: 'B07F27RDTB-es'
 tags: [ 'vaqueros', ]
 actualPrice: 33.67 EUR
 currency: EUR

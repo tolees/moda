@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7THTRF-es Reebok Classic Slide Zapatos de Playa y Piscina Unisex...'
+sku: 'B07K7THTRF-es'
 tags: [ 'zapatos', ]
 actualPrice: 13.53 EUR
 currency: EUR

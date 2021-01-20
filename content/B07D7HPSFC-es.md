@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7HPSFC-es Oculus Go Gafas y Auriculares Independientes De Realidad...'
+sku: 'B07D7HPSFC-es'
 tags: [ 'gafas', ]
 actualPrice: 153.76 EUR
 currency: EUR

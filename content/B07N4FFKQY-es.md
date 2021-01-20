@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4FFKQY-es Tommy Hilfiger Essential Hoodie Sweatdress Sudadera...'
+sku: 'B07N4FFKQY-es'
 tags: [ 'sudadera','vestido', ]
 actualPrice: 37.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2SWRJX-es adidas FL_TRH Tec COO Camiseta Hombre grpuch/Gricin M'
+sku: 'B07F2SWRJX-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.99 EUR
 currency: EUR

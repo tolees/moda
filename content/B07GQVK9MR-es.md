@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GQVK9MR-es Suertree Anti Blue Light gafas de lectura 3 paquete ayuda...'
+sku: 'B07GQVK9MR-es'
 tags: [ 'gafas', ]
 actualPrice: 16.04 EUR
 currency: EUR

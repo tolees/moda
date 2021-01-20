@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779DVWQP-es adidas Tabela 18 JSY Camiseta de Manga Corta Hombre...'
+sku: 'B0779DVWQP-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.57 EUR
 currency: EUR

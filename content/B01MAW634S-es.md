@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MAW634S-es flintronic Cartera Tarjeta de Crédito Slim Billetera...'
+sku: 'B01MAW634S-es'
 tags: [ 'billetera','monedero', ]
 actualPrice: 9.99 EUR
 currency: EUR

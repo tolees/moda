@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGM9J5W-es Veet Sensitive Precision - Recortador Eléctrico Depilador...'
+sku: 'B01BGM9J5W-es'
 tags: [ 'bikini', ]
 actualPrice: 21.21 EUR
 currency: EUR

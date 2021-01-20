@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016ALTFLM-es Gant 3-Pack Trunk Camiseta sin Mangas Gris Grey Melange 93...'
+sku: 'B016ALTFLM-es'
 tags: [ 'camiseta', ]
 actualPrice: 22.36 EUR
 currency: EUR

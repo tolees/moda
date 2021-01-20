@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S563DBX-es BOSS Mabsoot Camisa Verde Open Green 350 X-Large para Hombre'
+sku: 'B07S563DBX-es'
 tags: [ 'camisa', ]
 actualPrice: 43.57 EUR
 currency: EUR

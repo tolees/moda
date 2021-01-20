@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VNJ7WY-es GANT The Broadcloth Reg BD Camiseta Deporte Blanco White...'
+sku: 'B077VNJ7WY-es'
 tags: [ 'camiseta', ]
 actualPrice: 50.27 EUR
 currency: EUR

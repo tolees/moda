@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVYX7N7-es Quiksilver Molokai Nubuck II Zapatos de Playa y Piscina...'
+sku: 'B07SVYX7N7-es'
 tags: [ 'zapatos', ]
 actualPrice: 18.99 EUR
 currency: EUR

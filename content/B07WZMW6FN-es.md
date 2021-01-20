@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZMW6FN-es Ipanema Fashion Sand VII Fem Sandalias con Tira Vertical...'
+sku: 'B07WZMW6FN-es'
 tags: [ 'sandalias', ]
 actualPrice: 22.39 EUR
 currency: EUR

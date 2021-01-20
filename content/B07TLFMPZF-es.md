@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFMPZF-es Levi s LS Battery Hm Shirt Slim Camisa Azul Redcast Stone...'
+sku: 'B07TLFMPZF-es'
 tags: [ 'camisa', ]
 actualPrice: 29.5 EUR
 currency: EUR

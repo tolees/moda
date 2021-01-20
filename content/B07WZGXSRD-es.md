@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZGXSRD-es Pepe Jeans Gen Vaqueros Straight Azul 000Denim 000 W32/L32...'
+sku: 'B07WZGXSRD-es'
 tags: [ 'vaqueros', ]
 actualPrice: 46.49 EUR
 currency: EUR

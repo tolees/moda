@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UT2MXTA-es Tommy Hilfiger Shorty Pantalones de Pijama Gris Grey...'
+sku: 'B00UT2MXTA-es'
 tags: [ 'pijama', ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005L8V1CC-es Duronic SCK102 Spray Limpiador x2 de 200ml para Pantallas...'
+sku: 'B005L8V1CC-es'
 tags: [ 'gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR

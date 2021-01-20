@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC8VT6D-es JACK & JONES JJESLUB Knit Crew Neck STS Jersey Azul Navy...'
+sku: 'B07MC8VT6D-es'
 tags: [ 'jersey', ]
 actualPrice: 15.99 EUR
 currency: EUR

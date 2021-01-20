@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP91YDD-es AmzBarley Disfraz Vestido Princesa Blancanieves Elsa...'
+sku: 'B07FP91YDD-es'
 tags: [ 'vestido', ]
 actualPrice: 16.99 EUR
 currency: EUR

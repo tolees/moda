@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q7EUZLM-es Columbia Peakfreak Venture Zapatos impermeables para...'
+sku: 'B00Q7EUZLM-es'
 tags: [ 'zapatos', ]
 actualPrice: 77.99 EUR
 currency: EUR

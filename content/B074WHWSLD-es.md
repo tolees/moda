@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074WHWSLD-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello...'
+sku: 'B074WHWSLD-es'
 tags: [ 'chaqueta','meraki', ]
 actualPrice: 14.06 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WUBHDPC-es CASUAL FRIDAY 500924 Camisa 50003 Black S para Hombre'
+sku: 'B00WUBHDPC-es'
 tags: [ 'camisa', ]
 actualPrice: 14.0 EUR
 currency: EUR

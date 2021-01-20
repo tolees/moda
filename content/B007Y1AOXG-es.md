@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007Y1AOXG-es Timberland Classic Boat Náuticos para Mujer Azul Navy...'
+sku: 'B007Y1AOXG-es'
 tags: [ 'timberland', ]
 actualPrice: 76.31 EUR
 currency: EUR

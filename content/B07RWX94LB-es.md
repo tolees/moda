@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWX94LB-es Pepe Jeans Hatch Vaqueros Ajustados Azul Bleach 000 34W /...'
+sku: 'B07RWX94LB-es'
 tags: [ 'vaqueros', ]
 actualPrice: 45.47 EUR
 currency: EUR

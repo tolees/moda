@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S15CKG2-es BILLABONG TRD Mrk LS tee Camiseta Gris Grey Heather 9 One...'
+sku: 'B07S15CKG2-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR

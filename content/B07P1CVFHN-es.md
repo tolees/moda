@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P1CVFHN-es Monedero Movom Cactus'
+sku: 'B07P1CVFHN-es'
 tags: [ 'monedero', ]
 actualPrice: 3.5 EUR
 currency: EUR

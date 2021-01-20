@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY21SMJ-es Lee Daren Zip Fly Vaqueros Straight Gris Grey Bell Kq 34W...'
+sku: 'B07TY21SMJ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 27.65 EUR
 currency: EUR

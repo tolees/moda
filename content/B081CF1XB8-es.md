@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CF1XB8-es Geographical Norway Chaqueta Hombre BOKER Azul Marino M'
+sku: 'B081CF1XB8-es'
 tags: [ 'chaqueta', ]
 actualPrice: 65 EUR
 currency: EUR

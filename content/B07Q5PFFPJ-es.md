@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5PFFPJ-es Perfectmiaoxuan Gafas de sol para hombre mujer...'
+sku: 'B07Q5PFFPJ-es'
 tags: [ 'gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3WKC43-es 🎁 Bolso de la motocicleta Cuero genuino Bolso mensajero...'
+sku: 'B07R3WKC43-es'
 tags: [ 'bolso', ]
 actualPrice: 54.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7XNRQ4-es Columbia 1420421 Chaqueta Forro Polar Hombre Azul...'
+sku: 'B07R7XNRQ4-es'
 tags: [ 'chaqueta', ]
 actualPrice: 24.25 EUR
 currency: EUR

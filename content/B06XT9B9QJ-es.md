@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XT9B9QJ-es Pepe Jeans Charing PM503215 Camiseta Gris Grey Marl 933...'
+sku: 'B06XT9B9QJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 22.99 EUR
 currency: EUR

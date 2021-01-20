@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GILS8JO-es Calvin Klein Modern Trunk Bóxer Negro Black/Black 001...'
+sku: 'B01GILS8JO-es'
 tags: [ 'bóxer', ]
 actualPrice: 21.15 EUR
 currency: EUR

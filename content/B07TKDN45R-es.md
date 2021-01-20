@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDN45R-es Levi s 511 Slim Vaqueros Noce Cool 33W / 34L para Hombre'
+sku: 'B07TKDN45R-es'
 tags: [ 'vaqueros', ]
 actualPrice: 39.0 EUR
 currency: EUR

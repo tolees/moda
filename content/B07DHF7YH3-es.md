@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHF7YH3-es Ronamick Sandalen - Sandalias de Vestir para Mujer Color...'
+sku: 'B07DHF7YH3-es'
 tags: [ 'sandalias', ]
 actualPrice: 1.19 EUR
 currency: EUR

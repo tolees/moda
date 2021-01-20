@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XMLH36W-es AURIQUE BAL1178 Leggings Deporte Mujer Morado...'
+sku: 'B07XMLH36W-es'
 tags: [ 'aurique', ]
 actualPrice: 18.7 EUR
 currency: EUR

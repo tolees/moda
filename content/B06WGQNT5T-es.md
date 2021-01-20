@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGQNT5T-es Timberland Adventure 2.0 Cupsole Chukka Zapatillas Hombre...'
+sku: 'B06WGQNT5T-es'
 tags: [ 'timberland', ]
 actualPrice: 74.99 EUR
 currency: EUR
@@ -26,13 +27,13 @@ Tienes [Timberland Adventure 2.0 Cupsole Chukka  Zapatillas Hombre  Amarillo Yel
 
 ℹ️:
 
+- Tipo de tacón: Plano
+- Composición: Cuero
 - Material de la suela: Goma
 - Cierre: Cordones
-- Tipo de tacón: Plano
-- Anchura del zapato: Normal
-- Composición: Cuero
-- Material exterior: Cuero
-- Revestimiento: Malla
 - Altura del tacón: 3 centímetros
+- Revestimiento: Malla
+- Material exterior: Cuero
+- Anchura del zapato: Normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06WGQNT5T/?tag=tolees-21)

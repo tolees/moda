@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4L1T4W-es Nakosite DOG2433 Mejor Collar Antiladridos Perros para...'
+sku: 'B07H4L1T4W-es'
 tags: [ 'collar', ]
 actualPrice: 15.99 EUR
 currency: EUR

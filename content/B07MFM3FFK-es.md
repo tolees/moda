@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFM3FFK-es Clarks Clarkdale Moon Zapatos de Cordones Derby para...'
+sku: 'B07MFM3FFK-es'
 tags: [ 'zapatos', ]
 actualPrice: 32.71 EUR
 currency: EUR

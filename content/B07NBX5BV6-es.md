@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBX5BV6-es RIP CURL Flagship Fleece Sudadera Hombre Anthracite S'
+sku: 'B07NBX5BV6-es'
 tags: [ 'sudadera', ]
 actualPrice: 34.99 EUR
 currency: EUR

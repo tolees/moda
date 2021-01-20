@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCF3LQ-es Kipling Gleam S Bolso de Tocador para Mujer Verde Seagrass...'
+sku: 'B07PRCF3LQ-es'
 tags: [ 'bolso', ]
 actualPrice: 11.4 EUR
 currency: EUR

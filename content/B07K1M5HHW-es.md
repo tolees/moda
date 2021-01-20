@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1M5HHW-es Calvin Klein - Trail Flat Crossover Organizadores de bolso...'
+sku: 'B07K1M5HHW-es'
 tags: [ 'bolso', ]
 actualPrice: 37.5 EUR
 currency: EUR

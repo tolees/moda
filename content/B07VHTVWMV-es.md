@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHTVWMV-es Desigual Vest Tennessee Vestido Azul Azul Agata 5026 48...'
+sku: 'B07VHTVWMV-es'
 tags: [ 'vestido', ]
 actualPrice: 39.98 EUR
 currency: EUR

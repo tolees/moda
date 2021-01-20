@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKGXHT2-es Marca Amazon - IRIS & LILLY Tanga Sin Costuras Seamless...'
+sku: 'B07FKGXHT2-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 9.7 EUR
 currency: EUR

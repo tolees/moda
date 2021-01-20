@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GDVFDV-es Amazon Essentials 6-Pack V-Neck Undershirts Camisa Negro...'
+sku: 'B071GDVFDV-es'
 tags: [ 'camisa', ]
 actualPrice: 15.04 EUR
 currency: EUR

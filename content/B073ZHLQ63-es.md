@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZHLQ63-es The North Face M Gotham Chaqueta De Plumón Hombre...'
+sku: 'B073ZHLQ63-es'
 tags: [ 'chaqueta', ]
 actualPrice: 195.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2QCNS1-es Helly Hansen HH Logo Crew Sudadera Deportiva Mujer Grey...'
+sku: 'B07F2QCNS1-es'
 tags: [ 'sudadera', ]
 actualPrice: 33.49 EUR
 currency: EUR

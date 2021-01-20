@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JP65VR2-es JACK & JONES NOS Jjitom Jjoriginal Am 815 STS Vaqueros...'
+sku: 'B07JP65VR2-es'
 tags: [ 'vaqueros', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0855BQNTL-es HRainbow Riñoneras Deportivas Mujer Hombre Riñoneras...'
+sku: 'B0855BQNTL-es'
 tags: [ 'moda', ]
 actualPrice: 11.98 EUR
 currency: EUR

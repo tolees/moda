@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL3ZQ25-es adidas E 3s tee Camiseta de Manga Corta Hombre Black/White M'
+sku: 'B07KL3ZQ25-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR

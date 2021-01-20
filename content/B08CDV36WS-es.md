@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDV36WS-es Zapatos de Seguridad Hombre Mujer Zapatillas de Trabajo...'
+sku: 'B08CDV36WS-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.89 EUR
 currency: EUR

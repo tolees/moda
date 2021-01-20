@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYSZJQ1-es Zapatillas de Deporte Blanco para Las niñas Harpia Zapatos...'
+sku: 'B07MYSZJQ1-es'
 tags: [ 'moda','zapatos', ]
 actualPrice: 6.99 EUR
 currency: EUR

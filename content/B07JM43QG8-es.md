@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM43QG8-es Lee Luke Vaqueros Dark Diamond Ft 31W / 36L para Hombre'
+sku: 'B07JM43QG8-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.64 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLLGDHJ-es Superdry Highwayman Trucker Chaqueta Vaquera Gris Silver...'
+sku: 'B07TLLGDHJ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 33.22 EUR
 currency: EUR

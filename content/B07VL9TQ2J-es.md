@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VL9TQ2J-es JACK & JONES Jjewashington Shirt L/s STS Camisa Verde Fall...'
+sku: 'B07VL9TQ2J-es'
 tags: [ 'camisa', ]
 actualPrice: 13.85 EUR
 currency: EUR

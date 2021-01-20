@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HZ2UM4E-es Morgan Mentos Camiseta Blanco Off White Off White Medium...'
+sku: 'B01HZ2UM4E-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.85 EUR
 currency: EUR

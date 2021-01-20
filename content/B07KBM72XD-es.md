@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBM72XD-es Crocs Classic Clog K Zuecos Unisex Niños Azul Bright...'
+sku: 'B07KBM72XD-es'
 tags: [ 'zuecos', ]
 actualPrice: 21.59 EUR
 currency: EUR

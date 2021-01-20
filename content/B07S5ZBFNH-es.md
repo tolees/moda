@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5ZBFNH-es adidas Must Haves Badge of Sports Hoodie Sudadera Hombre...'
+sku: 'B07S5ZBFNH-es'
 tags: [ 'sudadera', ]
 actualPrice: 29.98 EUR
 currency: EUR

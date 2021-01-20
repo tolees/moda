@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TN1QWYR-es Superdry Ls Essentials Helio Padded Jacket Chaqueta Gris...'
+sku: 'B07TN1QWYR-es'
 tags: [ 'chaqueta', ]
 actualPrice: 24.84 EUR
 currency: EUR

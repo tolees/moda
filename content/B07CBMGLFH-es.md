@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBMGLFH-es Showu Camisetas Niños Manga Larga Camisa Pantalones Set of...'
+sku: 'B07CBMGLFH-es'
 tags: [ 'camisa', ]
 actualPrice: 15.99 EUR
 currency: EUR

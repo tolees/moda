@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087VHG1JM-es Columbia Horizon Explorer Chaqueta con Capucha Hombre...'
+sku: 'B087VHG1JM-es'
 tags: [ 'chaqueta', ]
 actualPrice: 85.99 EUR
 currency: EUR

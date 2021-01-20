@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1JN9X5-es Auxo Mujer Pijama Vestido Interior Sexy Enaguas Enteras...'
+sku: 'B07C1JN9X5-es'
 tags: [ 'pijama','vestido', ]
 actualPrice: 11.99 EUR
 currency: EUR

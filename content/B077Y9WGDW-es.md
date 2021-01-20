@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y9WGDW-es HIKARO Sudadera con Capucha Hombre Verde Khaki 52 Talla...'
+sku: 'B077Y9WGDW-es'
 tags: [ 'sudadera', ]
 actualPrice: 12.47 EUR
 currency: EUR

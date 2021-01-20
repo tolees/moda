@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LH3MLIS-es Helly Hansen W Paramount Softshell Chaqueta Mujer Negro L'
+sku: 'B00LH3MLIS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 45.26 EUR
 currency: EUR

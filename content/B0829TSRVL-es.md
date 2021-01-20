@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829TSRVL-es EverVanz Bolsa de Viaje Poliéster Gran tamaño Bolso del...'
+sku: 'B0829TSRVL-es'
 tags: [ 'bolso', ]
 actualPrice: 29.99 EUR
 currency: EUR

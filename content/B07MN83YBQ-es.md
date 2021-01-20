@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN83YBQ-es Wrangler Crewneck Knit Sudadera Amarillo Mineral Yellow...'
+sku: 'B07MN83YBQ-es'
 tags: [ 'sudadera', ]
 actualPrice: 29.98 EUR
 currency: EUR

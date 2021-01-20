@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DTNT60Y-es Jimmy Choo Brillengestelle Jc180 Monturas de gafas Blanco...'
+sku: 'B01DTNT60Y-es'
 tags: [ 'gafas', ]
 actualPrice: 47.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKH2PM8-es Iris & Lilly Calzoncillo Tanga de Microfibra Mujer Pack de...'
+sku: 'B07FKH2PM8-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 10.49 EUR
 currency: EUR

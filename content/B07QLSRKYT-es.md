@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLSRKYT-es Viedouce Mochilas para Pañales Biberones Bolso del Bebé...'
+sku: 'B07QLSRKYT-es'
 tags: [ 'bolso', ]
 actualPrice: 27.99 EUR
 currency: EUR

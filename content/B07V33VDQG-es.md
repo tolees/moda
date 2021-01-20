@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V33VDQG-es BOSS Boxer Brief 3p Co Multicolor Open Miscellaneous 963...'
+sku: 'B07V33VDQG-es'
 tags: [ 'boxer', ]
 actualPrice: 25.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F44LT-es Wrangler LS Refined Polo Camisa Manga Larga Azul Blue...'
+sku: 'B07M5F44LT-es'
 tags: [ 'camisa', ]
 actualPrice: 22.48 EUR
 currency: EUR

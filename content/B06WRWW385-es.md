@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRWW385-es Meller - Nyasa Glawi Rose - Gafas de sol para hombre y mujer'
+sku: 'B06WRWW385-es'
 tags: [ 'gafas', ]
 actualPrice: 24.0 EUR
 currency: EUR

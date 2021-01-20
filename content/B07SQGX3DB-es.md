@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGX3DB-es Geox D SUZZIE B Zapatillas para Mujer Marfil Black/Off...'
+sku: 'B07SQGX3DB-es'
 tags: [ 'geox', ]
 actualPrice: 41.57 EUR
 currency: EUR

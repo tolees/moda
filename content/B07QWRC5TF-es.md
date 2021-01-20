@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWRC5TF-es Amilril Collar Amor Corazon Colgantes Mujer Plata de Ley...'
+sku: 'B07QWRC5TF-es'
 tags: [ 'collar','moda', ]
 actualPrice: 17.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVP3JC9-es Geox J Sandal Alben Boy D Sandalias con Punta Abierta para...'
+sku: 'B07SVP3JC9-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 15.95 EUR
 currency: EUR

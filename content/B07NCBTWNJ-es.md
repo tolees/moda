@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCBTWNJ-es Pepe Jeans Pixie Vaqueros Pitillo Hombre Negro Black Wiser...'
+sku: 'B07NCBTWNJ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 36.0 EUR
 currency: EUR

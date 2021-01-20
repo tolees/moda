@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W14BXYH-es Pepe Jeans Raury Camiseta Verde 734safari 734 17-18 años...'
+sku: 'B07W14BXYH-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9VYL7Z-es Skechers On-The-go Joy-Bundle Up Botines para Mujer Marrón...'
+sku: 'B07B9VYL7Z-es'
 tags: [ 'botines', ]
 actualPrice: 23.04 EUR
 currency: EUR

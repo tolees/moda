@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVTQ5YN-es Billetera de cuero para hombre billetera de cuero genuino...'
+sku: 'B07CVTQ5YN-es'
 tags: [ 'billetera', ]
 actualPrice: 17.4 EUR
 currency: EUR

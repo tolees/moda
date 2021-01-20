@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JRCB24D-es Tommy Hilfiger Logo T-Shirt Camiseta Informal Rojo Haute...'
+sku: 'B07JRCB24D-es'
 tags: [ 'camiseta', ]
 actualPrice: 25.57 EUR
 currency: EUR

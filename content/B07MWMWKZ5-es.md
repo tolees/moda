@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWMWKZ5-es Timberland TB9173 Gafas de sol Transparente Crystal/Smoke...'
+sku: 'B07MWMWKZ5-es'
 tags: [ 'gafas','timberland', ]
 actualPrice: 56.0 EUR
 currency: EUR

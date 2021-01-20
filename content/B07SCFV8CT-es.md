@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCFV8CT-es Crocs Classic Glitter Clog Kids Zuecos Unisex Niños Rosa...'
+sku: 'B07SCFV8CT-es'
 tags: [ 'zuecos', ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010QRQ0FA-es Timberland Larchmont Chukka Botas Clasicas para Hombre...'
+sku: 'B010QRQ0FA-es'
 tags: [ 'timberland', ]
 actualPrice: 72.5 EUR
 currency: EUR

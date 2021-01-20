@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4QZPVH-es Amazon Brand - AURIQUE Leggings deportivos con paneles...'
+sku: 'B07G4QZPVH-es'
 tags: [ 'aurique', ]
 actualPrice: 12.66 EUR
 currency: EUR

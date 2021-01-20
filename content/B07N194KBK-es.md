@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N194KBK-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros Antic Blue...'
+sku: 'B07N194KBK-es'
 tags: [ 'vaqueros', ]
 actualPrice: 19.66 EUR
 currency: EUR

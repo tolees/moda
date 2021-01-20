@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNMNSGS-es G-STAR RAW Lash Building Straight Camiseta Blanco White...'
+sku: 'B07VNMNSGS-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.97 EUR
 currency: EUR

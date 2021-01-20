@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2SR4B4-es Asics Netburner Ballistic FF MT Zapatos de Voleibol para...'
+sku: 'B07L2SR4B4-es'
 tags: [ 'zapatos', ]
 actualPrice: 58.51 EUR
 currency: EUR

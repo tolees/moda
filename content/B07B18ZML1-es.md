@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B18ZML1-es find. Vestido de Flores con Volantes Mujer Rosa Pink Medium'
+sku: 'B07B18ZML1-es'
 tags: [ 'vestido', ]
 actualPrice: 22.5 EUR
 currency: EUR

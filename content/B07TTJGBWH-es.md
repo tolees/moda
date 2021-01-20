@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTJGBWH-es Skechers Reggae Cup-oh Snap Sandalias de Punta Descubierta...'
+sku: 'B07TTJGBWH-es'
 tags: [ 'sandalias', ]
 actualPrice: 32.65 EUR
 currency: EUR

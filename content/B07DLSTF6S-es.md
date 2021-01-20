@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLSTF6S-es SAMSONITE Kleur - Bailhandle for 14.1" Laptop 0.5 KG Bolso...'
+sku: 'B07DLSTF6S-es'
 tags: [ 'bolso', ]
 actualPrice: 35.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1C1Z7J-es Levi s Vneck Camiseta Azul Annalise Stripe Cloud Dancer...'
+sku: 'B07S1C1Z7J-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.21 EUR
 currency: EUR

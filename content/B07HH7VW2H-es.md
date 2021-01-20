@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH7VW2H-es Polaroid PLD 6056/S Gafas de Sol Multicolor Blk Ruth 55...'
+sku: 'B07HH7VW2H-es'
 tags: [ 'gafas', ]
 actualPrice: 24.7 EUR
 currency: EUR

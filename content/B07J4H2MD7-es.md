@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J4H2MD7-es Columbia Hombre Camiseta técnica de manga larga M...'
+sku: 'B07J4H2MD7-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV4LS6T-es Zapatillas de Deportes Hombre Mujer Zapatos Deportivos...'
+sku: 'B07TV4LS6T-es'
 tags: [ 'zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6LL6T5-es OurLeeme Casco para Soldar Gafas Solares Lente...'
+sku: 'B07V6LL6T5-es'
 tags: [ 'gafas', ]
 actualPrice: 16.99 EUR
 currency: EUR

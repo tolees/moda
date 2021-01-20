@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876RHCBH-es RAZAMAZA Mujer Casual Tacón Ancho Zapatos de Mulas...'
+sku: 'B0876RHCBH-es'
 tags: [ 'sandalias','vestido','zapatos', ]
 actualPrice: 25.99 EUR
 currency: EUR

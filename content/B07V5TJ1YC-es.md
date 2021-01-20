@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5TJ1YC-es gracosy Botas Nieve Mujer de Piel Invierno Antideslizante...'
+sku: 'B07V5TJ1YC-es'
 tags: [ 'botines','zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR

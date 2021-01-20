@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG2N1TS-es Geox U Renan B Zapatillas para Hombre Negro Black C9999 45 EU'
+sku: 'B07LG2N1TS-es'
 tags: [ 'geox', ]
 actualPrice: 35.11 EUR
 currency: EUR

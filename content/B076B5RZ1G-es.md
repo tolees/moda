@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076B5RZ1G-es Havaianas Brasil Logo Chanclas Unisex Adulto Negro Black...'
+sku: 'B076B5RZ1G-es'
 tags: [ 'chanclas', ]
 actualPrice: 6.01 EUR
 currency: EUR

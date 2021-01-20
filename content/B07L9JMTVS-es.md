@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JMTVS-es Under Armour Tactical All Season Chaqueta Hombre Verde LG'
+sku: 'B07L9JMTVS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 47.99 EUR
 currency: EUR

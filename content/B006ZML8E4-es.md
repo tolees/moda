@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006ZML8E4-es Helly Hansen Crew Midlayer Chaqueta deportiva impermeable...'
+sku: 'B006ZML8E4-es'
 tags: [ 'chaqueta', ]
 actualPrice: 81.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8HHXHP-es Coast Lilli Falda Azul Navy 20 42 ES para Mujer'
+sku: 'B07M8HHXHP-es'
 tags: [ 'falda', ]
 actualPrice: 13.82 EUR
 currency: EUR

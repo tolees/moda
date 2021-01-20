@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L86XSP4-es Keen Newport H2 Sandalias de Senderismo Infantil Azul...'
+sku: 'B00L86XSP4-es'
 tags: [ 'sandalias', ]
 actualPrice: 13.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2H86WZ-es Levi s 502 Regular Taper Vaqueros Azul Headed South 0279...'
+sku: 'B07D2H86WZ-es'
 tags: [ 'vaqueros', ]
 actualPrice: 37.7 EUR
 currency: EUR

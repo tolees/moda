@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083VXNSH4-es Donpapa Mujer Traje de Baño Tankinis Hálter Falda Push Up...'
+sku: 'B083VXNSH4-es'
 tags: [ 'bikini','falda', ]
 actualPrice: 25.99 EUR
 currency: EUR

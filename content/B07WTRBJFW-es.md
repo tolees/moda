@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTRBJFW-es Skechers Tresmen Hirano Sandalias de Punta Descubierta...'
+sku: 'B07WTRBJFW-es'
 tags: [ 'sandalias', ]
 actualPrice: 32.95 EUR
 currency: EUR

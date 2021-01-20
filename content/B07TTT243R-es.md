@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTT243R-es Women s Secret Trendy Tapestry TT Green CLAS PJ FR...'
+sku: 'B07TTT243R-es'
 tags: [ 'pijama', ]
 actualPrice: 28.29 EUR
 currency: EUR

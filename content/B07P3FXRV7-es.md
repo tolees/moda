@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3FXRV7-es Superdry Vintage Logo Flock Floral Entry tee Camiseta Gris...'
+sku: 'B07P3FXRV7-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.75 EUR
 currency: EUR

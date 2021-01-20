@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DG5XP-es Lee Rider Jeans Vaqueros Dark Marine 32W / 32L para Hombre'
+sku: 'B07M5DG5XP-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.98 EUR
 currency: EUR

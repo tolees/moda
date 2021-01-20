@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DWSLGXW-es Geox Uomo Snake K Zapatillas para Hombre Beige Beige/Dark...'
+sku: 'B00DWSLGXW-es'
 tags: [ 'geox', ]
 actualPrice: 42.58 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYFGZKQ-es BOSS Trunk 3p Co/El Bóxer Multicolor Open Miscellaneous...'
+sku: 'B07TYFGZKQ-es'
 tags: [ 'bóxer', ]
 actualPrice: 30.81 EUR
 currency: EUR

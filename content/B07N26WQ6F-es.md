@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N26WQ6F-es Tommy Jeans TJM Tech Parka Chaqueta Verde Forest Night M...'
+sku: 'B07N26WQ6F-es'
 tags: [ 'chaqueta','parka', ]
 actualPrice: 90.3 EUR
 currency: EUR

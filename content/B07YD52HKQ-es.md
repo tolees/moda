@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD52HKQ-es Amzdeal Gafas de Esquí Gafas Esquí Snowboard Doble Capa...'
+sku: 'B07YD52HKQ-es'
 tags: [ 'gafas', ]
 actualPrice: 19.99 EUR
 currency: EUR

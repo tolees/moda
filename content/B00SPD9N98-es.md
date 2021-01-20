@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SPD9N98-es Fruit of the Loom - Camiseta básica de Manga Corta Tacto...'
+sku: 'B00SPD9N98-es'
 tags: [ 'camiseta', ]
 actualPrice: 3.7 EUR
 currency: EUR

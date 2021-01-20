@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765WBM6N-es Levi s Relaxed Graphic Crew Sudadera Blanco Better Batwing...'
+sku: 'B0765WBM6N-es'
 tags: [ 'sudadera', ]
 actualPrice: 32.16 EUR
 currency: EUR

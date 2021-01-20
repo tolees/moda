@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8LQ2FL-es Wrangler LS 1pkt Shirt Camisa Verde Pine G01 Small para...'
+sku: 'B07M8LQ2FL-es'
 tags: [ 'camisa', ]
 actualPrice: 19.88 EUR
 currency: EUR

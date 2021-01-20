@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC4ZDSG-es Calvin Klein CK Essential Slim V Neck tee Camiseta Blanco...'
+sku: 'B07VC4ZDSG-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR

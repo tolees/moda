@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087VGQZR9-es Columbia Powder Lite Chaqueta De Plumón con Capucha Hombre...'
+sku: 'B087VGQZR9-es'
 tags: [ 'chaqueta', ]
 actualPrice: 66.49 EUR
 currency: EUR

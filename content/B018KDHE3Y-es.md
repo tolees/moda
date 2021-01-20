@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018KDHE3Y-es LA LEELA Casual Hawaiana Camisa para Hombre Señores Manga...'
+sku: 'B018KDHE3Y-es'
 tags: [ 'camisa', ]
 actualPrice: 11.35 EUR
 currency: EUR

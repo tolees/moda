@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5MYFLT-es Tommy Hilfiger Basic Embroidered Hoody Sudadera Azul...'
+sku: 'B07W5MYFLT-es'
 tags: [ 'sudadera', ]
 actualPrice: 43.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQCT9VW-es Mujer Camisa Básica Mujer Slim Fit - Camisa Blusa Casual...'
+sku: 'B07XQCT9VW-es'
 tags: [ 'blusa','camisa', ]
 actualPrice: 22.99 EUR
 currency: EUR

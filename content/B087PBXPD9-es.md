@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PBXPD9-es Suhctup Funda Compatible con Huawei Enjoy 8S/Y5 2019...'
+sku: 'B087PBXPD9-es'
 tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR

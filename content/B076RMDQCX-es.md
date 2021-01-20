@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076RMDQCX-es Natural Feelings Calzoncillos Boxer Bóxer Hombre Algodón...'
+sku: 'B076RMDQCX-es'
 tags: [ 'boxer','bóxer','moda', ]
 actualPrice: 26.99 EUR
 currency: EUR

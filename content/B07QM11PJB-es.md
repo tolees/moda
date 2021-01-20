@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QM11PJB-es Timberland SS Millers River Pique Wide Stripe Polo Reg...'
+sku: 'B07QM11PJB-es'
 tags: [ 'timberland', ]
 actualPrice: 20.86 EUR
 currency: EUR

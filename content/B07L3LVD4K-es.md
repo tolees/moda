@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3LVD4K-es GRACE KARIN Mujer Vestido Elegante Años 50 Vestido de...'
+sku: 'B07L3LVD4K-es'
 tags: [ 'vestido', ]
 actualPrice: 26.99 EUR
 currency: EUR

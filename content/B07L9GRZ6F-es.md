@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9GRZ6F-es Under Armour UA Tech 2.0 SS Tee Novelty camiseta para...'
+sku: 'B07L9GRZ6F-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.16 EUR
 currency: EUR

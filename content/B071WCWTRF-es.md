@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WCWTRF-es Crocs Classic Clog Zuecos Unisex Adulto Verde Grass Green...'
+sku: 'B071WCWTRF-es'
 tags: [ 'zuecos', ]
 actualPrice: 25.5 EUR
 currency: EUR

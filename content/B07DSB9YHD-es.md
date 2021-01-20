@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSB9YHD-es Mujer Maxi Vestido Sexy Sin Mangas Cabestro Backless...'
+sku: 'B07DSB9YHD-es'
 tags: [ 'vestido', ]
 actualPrice: 12.99 EUR
 currency: EUR

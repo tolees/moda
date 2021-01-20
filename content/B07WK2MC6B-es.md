@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WK2MC6B-es Ropa Interior Térmica Hombre Camiseta Térmica Hombre...'
+sku: 'B07WK2MC6B-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.19 EUR
 currency: EUR

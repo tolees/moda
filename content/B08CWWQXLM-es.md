@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CWWQXLM-es Paoseven Us - Camiseta de manga corta unisex color negro...'
+sku: 'B08CWWQXLM-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.38 EUR
 currency: EUR

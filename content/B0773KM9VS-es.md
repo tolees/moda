@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773KM9VS-es KONXIDO Serie de Moda Reloj Hombre Limunoso Impermeable de...'
+sku: 'B0773KM9VS-es'
 tags: [ 'moda', ]
 actualPrice: 13.03 EUR
 currency: EUR

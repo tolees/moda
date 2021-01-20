@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TQFHQL-es adidas Fef Camiseta Polo Hombre Collegiate Navy L'
+sku: 'B081TQFHQL-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.21 EUR
 currency: EUR

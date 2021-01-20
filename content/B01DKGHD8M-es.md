@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DKGHD8M-es MagiDeal Zapatos Botas Encaje para Muñeca Muchacha...'
+sku: 'B01DKGHD8M-es'
 tags: [ 'zapatos', ]
 actualPrice: 5.98 EUR
 currency: EUR

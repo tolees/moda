@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCF5XT-es Kipling Osyka Bolso Con Bandolera para Mujer Naranja...'
+sku: 'B07PRCF5XT-es'
 tags: [ 'bolso', ]
 actualPrice: 19.25 EUR
 currency: EUR

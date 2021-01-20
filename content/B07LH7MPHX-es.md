@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH7MPHX-es The North Face Quest Jacket Chaqueta Estampada para Mujer...'
+sku: 'B07LH7MPHX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 35.96 EUR
 currency: EUR

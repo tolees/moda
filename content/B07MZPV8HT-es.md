@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPV8HT-es Pepe Jeans Carry Falda Garnet 284 Medium para Mujer'
+sku: 'B07MZPV8HT-es'
 tags: [ 'falda', ]
 actualPrice: 39.0 EUR
 currency: EUR

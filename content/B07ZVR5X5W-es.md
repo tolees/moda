@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVR5X5W-es Levi s 512 Slim Taper Fit Jean Vaqueros Sage Nightshade...'
+sku: 'B07ZVR5X5W-es'
 tags: [ 'vaqueros', ]
 actualPrice: 75.0 EUR
 currency: EUR

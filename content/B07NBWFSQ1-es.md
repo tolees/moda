@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBWFSQ1-es BOSS Boxer Brief 2p Solid Verde Open Green 342 Large Pack...'
+sku: 'B07NBWFSQ1-es'
 tags: [ 'boxer', ]
 actualPrice: 13.37 EUR
 currency: EUR

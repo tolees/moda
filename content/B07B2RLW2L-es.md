@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B2RLW2L-es VR Gafas de Realidad Virtual Gafas vr Con Control Remoto...'
+sku: 'B07B2RLW2L-es'
 tags: [ 'gafas', ]
 actualPrice: 27.99 EUR
 currency: EUR

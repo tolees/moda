@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001PEEB32-es adidas Originals Adilette Zapatos de Playa y Piscina...'
+sku: 'B001PEEB32-es'
 tags: [ 'zapatos', ]
 actualPrice: 25.99 EUR
 currency: EUR

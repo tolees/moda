@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2V8H9Y-es Columbia Glacial IV Jersey Polar con Media Cremallera para...'
+sku: 'B07K2V8H9Y-es'
 tags: [ 'jersey', ]
 actualPrice: 17.21 EUR
 currency: EUR

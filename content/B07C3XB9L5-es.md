@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C3XB9L5-es newfacelook De las Mujeres Señoras Motocicleta Impermeable...'
+sku: 'B07C3XB9L5-es'
 tags: [ 'chaqueta', ]
 actualPrice: 51.99 EUR
 currency: EUR

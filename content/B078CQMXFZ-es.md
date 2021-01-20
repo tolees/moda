@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078CQMXFZ-es SIMYJOY Pareja Sudadera con Capucha Gato Encapuchado...'
+sku: 'B078CQMXFZ-es'
 tags: [ 'camisa','sudadera', ]
 actualPrice: 12.99 EUR
 currency: EUR

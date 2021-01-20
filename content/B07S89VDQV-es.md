@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S89VDQV-es Lee Logo Crew SWS Sudadera Gris Grey Mele MP XX-Large para...'
+sku: 'B07S89VDQV-es'
 tags: [ 'sudadera', ]
 actualPrice: 10.79 EUR
 currency: EUR

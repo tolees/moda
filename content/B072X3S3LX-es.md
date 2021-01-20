@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072X3S3LX-es Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha...'
+sku: 'B072X3S3LX-es'
 tags: [ 'chaqueta', ]
 actualPrice: 63.99 EUR
 currency: EUR

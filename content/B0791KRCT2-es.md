@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0791KRCT2-es Clarks Arla Jacory Sandalias de Talón Abierto para Mujer...'
+sku: 'B0791KRCT2-es'
 tags: [ 'sandalias', ]
 actualPrice: 38.4 EUR
 currency: EUR

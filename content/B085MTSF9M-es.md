@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085MTSF9M-es Freebily Maillots de Danza Yoga Mujer Vestido Deportivo de...'
+sku: 'B085MTSF9M-es'
 tags: [ 'vestido', ]
 actualPrice: 14.49 EUR
 currency: EUR

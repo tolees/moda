@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DJ9C4-es Lee Elly Vaqueros Azul Clean Beaufort JP W28/L31 para Mujer'
+sku: 'B07M5DJ9C4-es'
 tags: [ 'vaqueros', ]
 actualPrice: 31.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1VJBLL-es Tommy Hilfiger TJM Pocket tee Camiseta Azul Faded Ink C0z...'
+sku: 'B07W1VJBLL-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.97 EUR
 currency: EUR

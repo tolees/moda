@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBB21H8-es Cartoon 8457/7804 Blusa Gris Grey/White 9811 44 Talla del...'
+sku: 'B07VBB21H8-es'
 tags: [ 'blusa', ]
 actualPrice: 13.45 EUR
 currency: EUR

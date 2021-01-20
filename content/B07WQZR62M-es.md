@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQZR62M-es Souke Sports - Pantalones Ciclismo Hombre Invierno...'
+sku: 'B07WQZR62M-es'
 tags: [ 'pantalón', ]
 actualPrice: 39.99 EUR
 currency: EUR

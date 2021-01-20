@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQTSHT-es adidas Core18 Hoody Sudadera con Capucha Unisex Niños Rojo...'
+sku: 'B076HQTSHT-es'
 tags: [ 'sudadera', ]
 actualPrice: 16.86 EUR
 currency: EUR

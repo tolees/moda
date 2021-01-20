@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS35RBZ-es Panama Jack Meridian Basics Sandalias Punta Cerrada para...'
+sku: 'B07PS35RBZ-es'
 tags: [ 'sandalias', ]
 actualPrice: 47.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W91WW6S-es Tommy Hilfiger Stretch Slim Fit Vneck tee Camiseta Deporte...'
+sku: 'B07W91WW6S-es'
 tags: [ 'camiseta', ]
 actualPrice: 23.95 EUR
 currency: EUR

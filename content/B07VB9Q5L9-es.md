@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB9Q5L9-es Desigual Chaq Cerezas Abrigo Azul Jeans Vaquero 5053 140...'
+sku: 'B07VB9Q5L9-es'
 tags: [ 'abrigo', ]
 actualPrice: 34.95 EUR
 currency: EUR

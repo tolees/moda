@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8DBNYP-es WinCret Piel Carteras para Hombre con Monedero y RFID...'
+sku: 'B07H8DBNYP-es'
 tags: [ 'billetera','monedero', ]
 actualPrice: 22.99 EUR
 currency: EUR

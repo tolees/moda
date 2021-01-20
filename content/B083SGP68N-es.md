@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SGP68N-es IceUnicorn - Escarpines de baño para niña zapatos de playa...'
+sku: 'B083SGP68N-es'
 tags: [ 'zapatos', ]
 actualPrice: 14.83 EUR
 currency: EUR

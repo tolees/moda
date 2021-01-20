@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCFF9VR-es Columbia Northern Comfort Chaqueta híbrida Mujer Color:...'
+sku: 'B07JCFF9VR-es'
 tags: [ 'chaqueta', ]
 actualPrice: 22.41 EUR
 currency: EUR

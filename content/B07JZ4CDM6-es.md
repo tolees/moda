@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ4CDM6-es adidas Estro 19 JSY Camiseta de Manga Corta Niños White 1314Y'
+sku: 'B07JZ4CDM6-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.5 EUR
 currency: EUR

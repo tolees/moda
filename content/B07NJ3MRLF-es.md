@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ3MRLF-es Springfield 4.2.T.Apuesta Cuadros Blusa Multicolor...'
+sku: 'B07NJ3MRLF-es'
 tags: [ 'blusa', ]
 actualPrice: 4.41 EUR
 currency: EUR

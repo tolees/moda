@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9HS7MX-es Joma Race Chaqueta y Chaleco Cabal Hombre Melange M'
+sku: 'B07G9HS7MX-es'
 tags: [ 'chaleco','chaqueta', ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W3RASS2-es Joma Gala Sudadera Hombre Azul Marino M'
+sku: 'B00W3RASS2-es'
 tags: [ 'sudadera', ]
 actualPrice: 12.99 EUR
 currency: EUR

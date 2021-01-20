@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGDVKRZ-es PERLETTI Botas de Agua Miraculous Ladybug Niña - Botines...'
+sku: 'B07BGDVKRZ-es'
 tags: [ 'botines', ]
 actualPrice: 13.52 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8W2DJ3-es Clarks Un Voyageplain Zapatos de Cordones Derby para...'
+sku: 'B07B8W2DJ3-es'
 tags: [ 'zapatos', ]
 actualPrice: 46.77 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDQPYCS-es Tommy Hilfiger TJM Novel Logo Crew Jersey de Deporte Azul...'
+sku: 'B07RDQPYCS-es'
 tags: [ 'jersey', ]
 actualPrice: 42.0 EUR
 currency: EUR

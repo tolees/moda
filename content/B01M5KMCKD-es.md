@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5KMCKD-es Levi s BARSTOW WESTERN Camisa Hombre Azul SUONA DRESS...'
+sku: 'B01M5KMCKD-es'
 tags: [ 'camisa', ]
 actualPrice: 29.89 EUR
 currency: EUR

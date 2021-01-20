@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V5REM4W-es ElegantPark HC1509 Zapatos de tacón Zapato con Cierre Raso...'
+sku: 'B00V5REM4W-es'
 tags: [ 'zapatos', ]
 actualPrice: 49.99 EUR
 currency: EUR

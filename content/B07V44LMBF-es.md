@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V44LMBF-es Salomon Coton Logo SS tee M Camiseta de Manga Corta Hombre...'
+sku: 'B07V44LMBF-es'
 tags: [ 'camiseta', ]
 actualPrice: 21.0 EUR
 currency: EUR

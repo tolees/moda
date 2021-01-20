@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJ57RPV-es Kuako Zapatillas de Estar por casa con Forro de vellón...'
+sku: 'B07WJ57RPV-es'
 tags: [ 'zapatos', ]
 actualPrice: 16.19 EUR
 currency: EUR

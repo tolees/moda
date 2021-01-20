@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGGTT5X-es BOSS Citravel_2 Blusa Azul Bright Blue 439 40 Talla del...'
+sku: 'B07KGGTT5X-es'
 tags: [ 'blusa', ]
 actualPrice: 40.45 EUR
 currency: EUR

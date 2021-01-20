@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDQ2MNQ-es G-STAR RAW Alkyne Slim Camiseta Negro White 110 XX-Small...'
+sku: 'B07NDQ2MNQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.54 EUR
 currency: EUR

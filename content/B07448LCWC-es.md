@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07448LCWC-es vetoky Gafas de Natación Antiniebla Gafas para Nadar...'
+sku: 'B07448LCWC-es'
 tags: [ 'gafas', ]
 actualPrice: 12.99 EUR
 currency: EUR

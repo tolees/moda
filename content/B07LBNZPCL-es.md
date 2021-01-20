@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNZPCL-es Helly Hansen K Legend Ins Jacket Chaqueta Unisex niños 039...'
+sku: 'B07LBNZPCL-es'
 tags: [ 'chaqueta', ]
 actualPrice: 63.0 EUR
 currency: EUR

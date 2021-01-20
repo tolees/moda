@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6R63FF-es WEB EYEWEAR WE0261 Gafas para Hombre Negro 60'
+sku: 'B07R6R63FF-es'
 tags: [ 'gafas', ]
 actualPrice: 91.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K72B4BG-es Columbia WAYFINDER Outdry Zapatos Multideporte para Mujer...'
+sku: 'B07K72B4BG-es'
 tags: [ 'zapatos', ]
 actualPrice: 83.99 EUR
 currency: EUR

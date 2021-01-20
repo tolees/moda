@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFNSH52-es Levi s The Perfect Tee Camiseta Mujer Azul Hsmk Red Flock...'
+sku: 'B07LFNSH52-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.84 EUR
 currency: EUR

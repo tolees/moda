@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T28JNR6-es Abravo Mujer Vestido Estampado Floral sin Mangas Vestido...'
+sku: 'B07T28JNR6-es'
 tags: [ 'vestido', ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTN76SK-es Only Onlbeccy Crop7/8 Faux Leather Jacket Otw Chaqueta...'
+sku: 'B07VTN76SK-es'
 tags: [ 'chaqueta', ]
 actualPrice: 24.84 EUR
 currency: EUR

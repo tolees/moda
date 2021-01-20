@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2KB8ZB-es Amazon Essentials – Camisa Oxford de manga larga de corte...'
+sku: 'B07F2KB8ZB-es'
 tags: [ 'camisa', ]
 actualPrice: 14.46 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N18BJ2M-es G-STAR RAW Midge Cody Mid-Waist Skinny Vaqueros Negro...'
+sku: 'B07N18BJ2M-es'
 tags: [ 'vaqueros', ]
 actualPrice: 11.07 EUR
 currency: EUR

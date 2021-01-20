@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYHLKP9-es DoGeek Zapato Seguridad Zapatos Trabajo con Punta de Acero...'
+sku: 'B07KYHLKP9-es'
 tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR

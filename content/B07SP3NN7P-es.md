@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP3NN7P-es G-Star Sp15505 Sweat Sudadera Gris China Grey 20 5 años...'
+sku: 'B07SP3NN7P-es'
 tags: [ 'sudadera', ]
 actualPrice: 15.11 EUR
 currency: EUR

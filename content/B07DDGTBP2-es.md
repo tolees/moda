@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDGTBP2-es Zapatos de Agua para Buceo Snorkel Surf Piscina Playa Vela...'
+sku: 'B07DDGTBP2-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.54 EUR
 currency: EUR

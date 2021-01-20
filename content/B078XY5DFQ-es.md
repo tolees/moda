@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XY5DFQ-es Zoggs Predator Gafas Natación Mujeres Rosa Talla Única'
+sku: 'B078XY5DFQ-es'
 tags: [ 'gafas', ]
 actualPrice: 19.85 EUR
 currency: EUR

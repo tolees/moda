@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CNTM8W-es Geographical Norway Parka Mujer BOOMERA Ass B Negro 02'
+sku: 'B081CNTM8W-es'
 tags: [ 'parka', ]
 actualPrice: 65.0 EUR
 currency: EUR

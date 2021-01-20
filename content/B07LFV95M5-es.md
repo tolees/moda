@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV95M5-es Geox D ANNYTAH D Bailarinas para Mujer Azul Navy C4002 37 EU'
+sku: 'B07LFV95M5-es'
 tags: [ 'geox', ]
 actualPrice: 26.46 EUR
 currency: EUR

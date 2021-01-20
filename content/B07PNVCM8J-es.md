@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNVCM8J-es Leggins de Sudoracion Adelgazantes Mujer Fitness...'
+sku: 'B07PNVCM8J-es'
 tags: [ 'leggins', ]
 actualPrice: 24.99 EUR
 currency: EUR

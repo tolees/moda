@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJ9C7P-es Kipling Creativity S Monedero para Mujer Multicolor Music...'
+sku: 'B07MVJ9C7P-es'
 tags: [ 'monedero', ]
 actualPrice: 12.0 EUR
 currency: EUR

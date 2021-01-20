@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHC2Q8K-es Jack & Jones Jcofigure Parka STS Negro Black Pattern:...'
+sku: 'B07VHC2Q8K-es'
 tags: [ 'parka', ]
 actualPrice: 19.76 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9RZ8NL-es Superdry Danika Boho Top Blusa Azul Richest Navy Zrn XXS...'
+sku: 'B07Q9RZ8NL-es'
 tags: [ 'blusa', ]
 actualPrice: 14.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BLQWBV-es Mediffen Mujer Tacón De Agujae Elegante Fiesta Vestido...'
+sku: 'B088BLQWBV-es'
 tags: [ 'vestido', ]
 actualPrice: 23.89 EUR
 currency: EUR

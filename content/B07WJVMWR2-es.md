@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJVMWR2-es Only Onlcarmen Reg Ankle Snake Dnm Jeans Bj Vaqueros Black...'
+sku: 'B07WJVMWR2-es'
 tags: [ 'vaqueros', ]
 actualPrice: 7.02 EUR
 currency: EUR

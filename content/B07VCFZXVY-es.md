@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCFZXVY-es Desigual Jers Nagar Chaqueta Punto Blanco Crudo 1001 Small...'
+sku: 'B07VCFZXVY-es'
 tags: [ 'chaqueta', ]
 actualPrice: 23.95 EUR
 currency: EUR

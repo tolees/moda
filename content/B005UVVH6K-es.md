@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005UVVH6K-es Nike Benassi Jdi Chanclas Unisex Adulto Multicolor...'
+sku: 'B005UVVH6K-es'
 tags: [ 'chanclas', ]
 actualPrice: 19.39 EUR
 currency: EUR

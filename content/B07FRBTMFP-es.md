@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRBTMFP-es Clarks Batcombe Wing Zapatos de Cordones Derby Marrón Tan...'
+sku: 'B07FRBTMFP-es'
 tags: [ 'zapatos', ]
 actualPrice: 53.14 EUR
 currency: EUR

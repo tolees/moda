@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075V72HMY-es Marca Amazon - AURIQUE Leggings Deporte Petite Mujer Azul...'
+sku: 'B075V72HMY-es'
 tags: [ 'aurique', ]
 actualPrice: 9.64 EUR
 currency: EUR

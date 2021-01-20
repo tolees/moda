@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FPT3BL-es DoGeek Transpirable Zapatos de Ballet Zapatillas de Ballet...'
+sku: 'B072FPT3BL-es'
 tags: [ 'zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR

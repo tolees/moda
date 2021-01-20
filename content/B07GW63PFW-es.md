@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GW63PFW-es Vero Moda Vmsiv Soraya Short Jacket Boos Chaqueta Azul...'
+sku: 'B07GW63PFW-es'
 tags: [ 'chaqueta','moda', ]
 actualPrice: 18.96 EUR
 currency: EUR

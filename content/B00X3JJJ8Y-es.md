@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X3JJJ8Y-es G-Star 60885 Vaqueros para Mujer Azul Medium Aged 6131...'
+sku: 'B00X3JJJ8Y-es'
 tags: [ 'vaqueros', ]
 actualPrice: 60.0 EUR
 currency: EUR

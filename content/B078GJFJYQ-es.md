@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GJFJYQ-es GRITION Sandalias Hombre Verano Piel Punta Cerrada...'
+sku: 'B078GJFJYQ-es'
 tags: [ 'sandalias', ]
 actualPrice: 45.99 EUR
 currency: EUR

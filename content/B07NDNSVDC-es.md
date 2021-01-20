@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNSVDC-es G-STAR RAW Graphic 15 Core Round Neck Sudadera Azul...'
+sku: 'B07NDNSVDC-es'
 tags: [ 'sudadera', ]
 actualPrice: 14.8 EUR
 currency: EUR

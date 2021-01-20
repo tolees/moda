@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SF8EE1A-es G-STAR RAW Revend Skinny Vaqueros Dk Aged 6590-89 38W /...'
+sku: 'B00SF8EE1A-es'
 tags: [ 'vaqueros', ]
 actualPrice: 40.23 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAKLZML-es Columbia Canyon Chaqueta Softshell Hombre Gris Grey Ash...'
+sku: 'B01NAKLZML-es'
 tags: [ 'chaqueta', ]
 actualPrice: 51.59 EUR
 currency: EUR

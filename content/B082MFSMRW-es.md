@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MFSMRW-es OBEEII Niña Disfraz Princesa Party Vestido Bordado de Tul...'
+sku: 'B082MFSMRW-es'
 tags: [ 'vestido', ]
 actualPrice: 11.63 EUR
 currency: EUR

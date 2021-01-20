@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6ZHXDJ-es SYMALL Bolso de mano con encaje satén cartera de mano...'
+sku: 'B01N6ZHXDJ-es'
 tags: [ 'bolso', ]
 actualPrice: 16.99 EUR
 currency: EUR

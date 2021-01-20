@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7KLCK5-es Hierro sobre papel de transferencia para tela oscura Magic...'
+sku: 'B07D7KLCK5-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

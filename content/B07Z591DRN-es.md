@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z591DRN-es Marca Amazon - find. Square Toe Block Heel Slingback...'
+sku: 'B07Z591DRN-es'
 tags: [ 'zapatos','-','find.', ]
 actualPrice: 5.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076B1J7KT-es Gafas Fastskin Elite Mirror'
+sku: 'B076B1J7KT-es'
 tags: [ 'gafas', ]
 actualPrice: 43.28 EUR
 currency: EUR

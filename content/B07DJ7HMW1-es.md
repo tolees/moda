@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ7HMW1-es Geox D Bibbiana a Zapatos de Tacón para Mujer Beige Cream...'
+sku: 'B07DJ7HMW1-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 62.82 EUR
 currency: EUR

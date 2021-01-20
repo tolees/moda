@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X3JJ5CY-es G-STAR Lynn Mid Skinny Wmn Vaqueros para mujer color negro...'
+sku: 'B00X3JJ5CY-es'
 tags: [ 'vaqueros', ]
 actualPrice: 45.99 EUR
 currency: EUR

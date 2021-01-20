@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6DO5A6-es Helly Hansen Hombre Crew Hooded Jacke Chaqueta Not...'
+sku: 'B01N6DO5A6-es'
 tags: [ 'chaqueta', ]
 actualPrice: 77.81 EUR
 currency: EUR

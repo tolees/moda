@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLNJXQ-es Napapijri BAUNT FZH Sudadera Azul BLU Marine 176 S para...'
+sku: 'B07MMLNJXQ-es'
 tags: [ 'sudadera', ]
 actualPrice: 51.67 EUR
 currency: EUR

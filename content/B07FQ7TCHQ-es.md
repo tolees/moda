@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQ7TCHQ-es Clarks Originals Desert London Zapatos de Cordones Derby...'
+sku: 'B07FQ7TCHQ-es'
 tags: [ 'zapatos', ]
 actualPrice: 105.6 EUR
 currency: EUR

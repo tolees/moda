@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRJG3BM-es MessBebe Camiseta Mujer Jerseys Rayas Manga Larga Punto de...'
+sku: 'B07VRJG3BM-es'
 tags: [ 'camisa','camiseta', ]
 actualPrice: 28.49 EUR
 currency: EUR

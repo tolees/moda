@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078M7MK2D-es NEEGO Bolsillo Lateral de la Consola con Monedero y...'
+sku: 'B078M7MK2D-es'
 tags: [ 'monedero', ]
 actualPrice: 29.99 EUR
 currency: EUR

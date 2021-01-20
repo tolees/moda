@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792GRVV6-es Geox J New Savage Boy A Zapatillas para Niños Negro...'
+sku: 'B0792GRVV6-es'
 tags: [ 'geox', ]
 actualPrice: 44.93 EUR
 currency: EUR

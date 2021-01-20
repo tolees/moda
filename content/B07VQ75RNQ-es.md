@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQ75RNQ-es Tommy Hilfiger Tommy Logo tee Camiseta Deporte Amarillo...'
+sku: 'B07VQ75RNQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 23.11 EUR
 currency: EUR

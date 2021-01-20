@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GS28DHK-es Timberland Newport Bay-Canvas Zapatillas Unisex Niños Azul...'
+sku: 'B07GS28DHK-es'
 tags: [ 'timberland', ]
 actualPrice: 18.99 EUR
 currency: EUR

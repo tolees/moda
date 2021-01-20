@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJW7RH-es Geox U Renan B Zapatillas para Hombre Gris Grey C1006 45 EU'
+sku: 'B07SSJW7RH-es'
 tags: [ 'geox', ]
 actualPrice: 50.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWXHZF9-es Skechers Energy-Retro Vision Sandalias con Punta Cerrada...'
+sku: 'B07VWXHZF9-es'
 tags: [ 'sandalias', ]
 actualPrice: 22.05 EUR
 currency: EUR

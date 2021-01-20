@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWQWH45-es Pepe Jeans Elizabeth Pl401677 Chaqueta Oyster 805 Large...'
+sku: 'B07JWQWH45-es'
 tags: [ 'chaqueta', ]
 actualPrice: 16.38 EUR
 currency: EUR

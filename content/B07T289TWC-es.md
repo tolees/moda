@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T289TWC-es Organizador de Equipaje de Viaje 7 Piezas Impermeables...'
+sku: 'B07T289TWC-es'
 tags: [ 'zapatos', ]
 actualPrice: 14.99 EUR
 currency: EUR

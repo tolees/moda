@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVY1R7-es Only Onlcarmen Reg SK Jnsbb 5984-16 Noos Vaqueros Skinny...'
+sku: 'B07SBVY1R7-es'
 tags: [ 'vaqueros', ]
 actualPrice: 11.98 EUR
 currency: EUR

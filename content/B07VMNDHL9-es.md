@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNDHL9-es Calvin Klein Braguita de Bikini Azul Maldives 3EK Talla...'
+sku: 'B07VMNDHL9-es'
 tags: [ 'bikini', ]
 actualPrice: 9.99 EUR
 currency: EUR

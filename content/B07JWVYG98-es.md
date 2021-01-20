@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWVYG98-es Columbia WAYFINDER Zapatos Multideporte para Hombre Gris...'
+sku: 'B07JWVYG98-es'
 tags: [ 'zapatos', ]
 actualPrice: 60.98 EUR
 currency: EUR

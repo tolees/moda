@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8LPL3C-es Wrangler LS 1pkt Bdown Shirt Camisa Azul Blue Depth Xjy...'
+sku: 'B07M8LPL3C-es'
 tags: [ 'camisa', ]
 actualPrice: 29.95 EUR
 currency: EUR

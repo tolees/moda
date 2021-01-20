@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3R3RUV-es Timberland Bradstreet Leather Sensorflex Botas Chukka para...'
+sku: 'B01M3R3RUV-es'
 tags: [ 'timberland', ]
 actualPrice: 83.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VMOQWPK-es Jako Camiseta de LA Manga Blanco/Negro Talla:42-44'
+sku: 'B00VMOQWPK-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.98 EUR
 currency: EUR

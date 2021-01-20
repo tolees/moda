@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3WRDQJ-es Desigual Pullover LOS Angeles Jersey Azul Ibiza 5106 S...'
+sku: 'B07N3WRDQJ-es'
 tags: [ 'jersey', ]
 actualPrice: 24.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MW6YWGH-es Camper Pelotas XL Zapatos de Cordones Oxford para Hombre...'
+sku: 'B07MW6YWGH-es'
 tags: [ 'zapatos', ]
 actualPrice: 42.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL56LPQ-es Vansney Moda Mujer Chunky Sneakers Mocasines Confort...'
+sku: 'B07HL56LPQ-es'
 tags: [ 'moda','zapatos', ]
 actualPrice: 19.99 EUR
 currency: EUR

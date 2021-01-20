@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W91V9QJ-es Tommy Hilfiger Block Stripe Hilfiger tee Camiseta Deporte...'
+sku: 'B07W91V9QJ-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.83 EUR
 currency: EUR

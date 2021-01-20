@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWZNRF6-es KATOOM Zapatilla fregona 3 Pares Limpiar Polvo Microfibra...'
+sku: 'B07MWZNRF6-es'
 tags: [ 'zapatilla', ]
 actualPrice: 11.97 EUR
 currency: EUR

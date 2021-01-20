@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N286HNW-es KAPORAL OLRIK Camiseta Blanc White M para Hombre'
+sku: 'B07N286HNW-es'
 tags: [ 'camiseta', ]
 actualPrice: 4.23 EUR
 currency: EUR

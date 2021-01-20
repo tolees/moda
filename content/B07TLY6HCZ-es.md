@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLY6HCZ-es Superdry Desert Alchemy Fuji Chaqueta Amarillo Autumn...'
+sku: 'B07TLY6HCZ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 38.21 EUR
 currency: EUR

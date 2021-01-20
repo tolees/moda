@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HLYJXJ-es Mishansha Transpirables Zapatillas Running para Niños Hook...'
+sku: 'B085HLYJXJ-es'
 tags: [ 'zapatos', ]
 actualPrice: 22.64 EUR
 currency: EUR

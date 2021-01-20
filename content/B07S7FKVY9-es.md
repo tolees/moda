@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7FKVY9-es Marca Amazon - find. Top Cruzado de Satén Mujer Multicolor...'
+sku: 'B07S7FKVY9-es'
 tags: [ '-','find.', ]
 actualPrice: 3.72 EUR
 currency: EUR

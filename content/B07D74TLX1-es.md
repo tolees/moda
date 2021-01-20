@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D74TLX1-es Levi s 511 Slim Fit Vaqueros Headed East 2091 36W / 30L...'
+sku: 'B07D74TLX1-es'
 tags: [ 'vaqueros', ]
 actualPrice: 68.49 EUR
 currency: EUR

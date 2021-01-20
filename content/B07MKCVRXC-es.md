@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKCVRXC-es Helly Hansen HH LIFA T-Shirt Camiseta Técnica De...'
+sku: 'B07MKCVRXC-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.49 EUR
 currency: EUR

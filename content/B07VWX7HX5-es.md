@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX7HX5-es Pepe Jeans Edison Camiseta Verde Middle Green 631 Small...'
+sku: 'B07VWX7HX5-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.97 EUR
 currency: EUR

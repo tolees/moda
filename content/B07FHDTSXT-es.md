@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHDTSXT-es Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro...'
+sku: 'B07FHDTSXT-es'
 tags: [ 'chaqueta', ]
 actualPrice: 73.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003Y63UAE-es Nike M Nk Dry Acdmy Top SS Camiseta de Manga Corta Hombre...'
+sku: 'B003Y63UAE-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR

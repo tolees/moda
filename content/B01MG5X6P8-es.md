@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MG5X6P8-es Lacoste TH6712 Camiseta Gris Argent Chine Large Talla del...'
+sku: 'B01MG5X6P8-es'
 tags: [ 'camiseta', ]
 actualPrice: 42.44 EUR
 currency: EUR

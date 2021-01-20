@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KJR3YN-es Astrapahl ed060217ap Vestido Rojo Scarlet Rot 32 EU para...'
+sku: 'B075KJR3YN-es'
 tags: [ 'vestido', ]
 actualPrice: 11.47 EUR
 currency: EUR

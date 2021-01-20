@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08317PHDV-es BestoU Bolsos de Mujer Cuero Bolso Bandolera Tote Grande...'
+sku: 'B08317PHDV-es'
 tags: [ 'bolso', ]
 actualPrice: 17.99 EUR
 currency: EUR

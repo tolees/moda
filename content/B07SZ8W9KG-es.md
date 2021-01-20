@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZ8W9KG-es Timberland Perkins Row 2-Strap Junior Sandalias de Punta...'
+sku: 'B07SZ8W9KG-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 21.99 EUR
 currency: EUR

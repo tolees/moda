@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011V57USM-es PUMA Epic Flip V2 Chanclas Unisex-Adulto Negro Black/White...'
+sku: 'B011V57USM-es'
 tags: [ 'chanclas', ]
 actualPrice: 12.55 EUR
 currency: EUR

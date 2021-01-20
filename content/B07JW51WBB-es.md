@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW51WBB-es Columbia Carson Pass II Chaqueta impermeable Mujer Azul...'
+sku: 'B07JW51WBB-es'
 tags: [ 'chaqueta', ]
 actualPrice: 74.31 EUR
 currency: EUR

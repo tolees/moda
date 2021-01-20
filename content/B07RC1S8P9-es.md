@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC1S8P9-es O NEILL LM Irvine 52 Sudadera con Capucha para Hombre...'
+sku: 'B07RC1S8P9-es'
 tags: [ 'sudadera', ]
 actualPrice: 16.74 EUR
 currency: EUR

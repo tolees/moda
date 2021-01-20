@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL67QDD-es NIKE M Polo TM Club19 SS Camiseta Hombre Blanco...'
+sku: 'B07KL67QDD-es'
 tags: [ 'camiseta', ]
 actualPrice: 24.95 EUR
 currency: EUR

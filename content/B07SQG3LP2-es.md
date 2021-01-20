@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQG3LP2-es Geox J Alben Boy D Zapatillas para Niños Gris Grey/Yellow...'
+sku: 'B07SQG3LP2-es'
 tags: [ 'geox', ]
 actualPrice: 24.45 EUR
 currency: EUR

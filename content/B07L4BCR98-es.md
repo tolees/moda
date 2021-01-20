@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4BCR98-es FitFlop Lido II Chanclas para Hombre Negro Black 001 43 EU'
+sku: 'B07L4BCR98-es'
 tags: [ 'chanclas', ]
 actualPrice: 48.49 EUR
 currency: EUR

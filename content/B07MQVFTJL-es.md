@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVFTJL-es Napapijri Rainforest Pocket Chaqueta Amarillo Yellow Lime...'
+sku: 'B07MQVFTJL-es'
 tags: [ 'chaqueta', ]
 actualPrice: 119.74 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAIGK0Q-es KRISP 6252-GRY-18 Vestido Corto Patinadora Vuelo Fruncido...'
+sku: 'B01NAIGK0Q-es'
 tags: [ 'vestido', ]
 actualPrice: 12.49 EUR
 currency: EUR

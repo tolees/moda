@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM22C8P-es Geox J KURAY Boy B ABX B Botas de Nieve para Niños Azul...'
+sku: 'B07MM22C8P-es'
 tags: [ 'geox', ]
 actualPrice: 34.95 EUR
 currency: EUR

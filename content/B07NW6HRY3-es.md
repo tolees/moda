@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW6HRY3-es Skechers Keepsakes 2.0 Botines Mujer Morado Mauve Suede...'
+sku: 'B07NW6HRY3-es'
 tags: [ 'botines', ]
 actualPrice: 34.95 EUR
 currency: EUR

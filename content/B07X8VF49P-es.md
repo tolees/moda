@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8VF49P-es Columbia Lay D Down II Chaqueta de esquí para Mujer'
+sku: 'B07X8VF49P-es'
 tags: [ 'chaqueta', ]
 actualPrice: 61.65 EUR
 currency: EUR

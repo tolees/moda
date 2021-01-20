@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTM4KYQ-es Asics Classic CT Zapatos de Baloncesto para Hombre Negro...'
+sku: 'B07QTM4KYQ-es'
 tags: [ 'zapatos', ]
 actualPrice: 27.81 EUR
 currency: EUR

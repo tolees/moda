@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRMKHJF-es Skechers Sargo Reyon Chanclas para Hombre Marrón Chocolate...'
+sku: 'B07WRMKHJF-es'
 tags: [ 'chanclas', ]
 actualPrice: 27.65 EUR
 currency: EUR

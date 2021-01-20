@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJNR7YY-es Clarks Leisa Faye Sandalias Punta Cerrada para Mujer Rojo...'
+sku: 'B07TJNR7YY-es'
 tags: [ 'sandalias', ]
 actualPrice: 38.95 EUR
 currency: EUR

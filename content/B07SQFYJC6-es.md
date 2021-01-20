@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQFYJC6-es Geox B Kaytan A Sandalias de Punta Descubierta para Bebés...'
+sku: 'B07SQFYJC6-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 34.93 EUR
 currency: EUR

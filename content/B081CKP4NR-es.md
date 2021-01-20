@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CKP4NR-es Geographical Norway Chaqueta Hombre BOKER MARRÓN L'
+sku: 'B081CKP4NR-es'
 tags: [ 'chaqueta', ]
 actualPrice: 65.0 EUR
 currency: EUR

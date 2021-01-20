@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPNBY5-es Geox Uomo Snake E Zapatillas para Hombre Gris Lt Grey/Grey...'
+sku: 'B07SVPNBY5-es'
 tags: [ 'geox', ]
 actualPrice: 59.95 EUR
 currency: EUR

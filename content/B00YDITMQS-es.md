@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YDITMQS-es Merrell - sandalias de Cuero mujer Azul NAVY 37 EU 4 UK'
+sku: 'B00YDITMQS-es'
 tags: [ 'sandalias', ]
 actualPrice: 40.16 EUR
 currency: EUR

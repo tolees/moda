@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GILT6IG-es Calvin Klein Modern tee Camiseta Negro Black/White Lg 930...'
+sku: 'B01GILT6IG-es'
 tags: [ 'camiseta', ]
 actualPrice: 23.83 EUR
 currency: EUR

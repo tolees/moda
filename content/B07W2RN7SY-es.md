@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W2RN7SY-es Tommy Hilfiger TJM Arched Graphic tee Camiseta Deporte...'
+sku: 'B07W2RN7SY-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.45 EUR
 currency: EUR

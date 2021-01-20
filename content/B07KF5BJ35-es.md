@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF5BJ35-es Levi s 502 Regular Taper Vaqueros Gris Porcini Overt ADV...'
+sku: 'B07KF5BJ35-es'
 tags: [ 'vaqueros', ]
 actualPrice: 61.49 EUR
 currency: EUR

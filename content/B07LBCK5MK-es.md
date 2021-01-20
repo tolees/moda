@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBCK5MK-es Kappa Sveberg Kids Botines para Niñas Ice/Pink 6522 25 EU'
+sku: 'B07LBCK5MK-es'
 tags: [ 'botines', ]
 actualPrice: 13.42 EUR
 currency: EUR

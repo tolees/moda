@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PHXVLG-es Only Onlnicole S/s Mix Top Noos Camiseta Blanco Cloud...'
+sku: 'B079PHXVLG-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y86DJF-es HIKARO Sudadera con Capucha Hombre Azul Aqua 52 Talla del...'
+sku: 'B077Y86DJF-es'
 tags: [ 'sudadera', ]
 actualPrice: 14.98 EUR
 currency: EUR

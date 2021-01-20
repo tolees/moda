@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4HXWCZ-es Superdry Embossed Classics tee Camiseta Rojo Rouge Red Wa7...'
+sku: 'B07P4HXWCZ-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.19 EUR
 currency: EUR

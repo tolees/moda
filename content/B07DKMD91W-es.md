@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKMD91W-es PUMA Active Camiseta Hombre Gris Medium Gray Heather XL'
+sku: 'B07DKMD91W-es'
 tags: [ 'camiseta', ]
 actualPrice: 12.49 EUR
 currency: EUR

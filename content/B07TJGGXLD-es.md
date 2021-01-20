@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJGGXLD-es Superdry OL Vintage Emb Crew Camiseta Verde Desert Olive...'
+sku: 'B07TJGGXLD-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

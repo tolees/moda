@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015KSU4AM-es NNJXD Vestido de Fiesta de Princesa con Encaje de Flor de...'
+sku: 'B015KSU4AM-es'
 tags: [ 'vestido', ]
 actualPrice: 15.99 EUR
 currency: EUR

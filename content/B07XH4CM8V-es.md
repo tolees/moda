@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XH4CM8V-es Funko 46788 Pop Balón de Baloncesto: UNC-Michael Jordan...'
+sku: 'B07XH4CM8V-es'
 tags: [ 'jersey', ]
 actualPrice: 10.28 EUR
 currency: EUR

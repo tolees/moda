@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AC0EZ9Y-es Nike Yth Park II Knit Short Nb Pantalón Corto Niños Negro...'
+sku: 'B01AC0EZ9Y-es'
 tags: [ 'pantalón', ]
 actualPrice: 10.65 EUR
 currency: EUR

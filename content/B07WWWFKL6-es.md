@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWWFKL6-es Charles Wilson Original Sudadera de Hombre Algodón Premium...'
+sku: 'B07WWWFKL6-es'
 tags: [ 'sudadera', ]
 actualPrice: 28.95 EUR
 currency: EUR

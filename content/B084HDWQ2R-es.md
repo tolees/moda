@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084HDWQ2R-es XTI - Sandalias con Tacón Casual - Sandalia con Tacón -...'
+sku: 'B084HDWQ2R-es'
 tags: [ 'sandalias', ]
 actualPrice: 27.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZM5N99-es Levi s The Perfect Tee Camiseta Mujer Blanco Brw Outline...'
+sku: 'B07RZM5N99-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR

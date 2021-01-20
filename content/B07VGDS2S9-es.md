@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGDS2S9-es OBEEII Vestidos Niñas Fiesta Bordado de Tul para Fiesta...'
+sku: 'B07VGDS2S9-es'
 tags: [ 'vestido', ]
 actualPrice: 11.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQMWYY-es Pepe Jeans Lionel Sudadera Old Navy 584 Medium para Hombre'
+sku: 'B07MZQMWYY-es'
 tags: [ 'sudadera', ]
 actualPrice: 16.24 EUR
 currency: EUR

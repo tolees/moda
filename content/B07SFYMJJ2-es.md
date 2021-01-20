@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFYMJJ2-es Levi s Delamar L Chanclas para Hombre Negro R Black 159'
+sku: 'B07SFYMJJ2-es'
 tags: [ 'chanclas', ]
 actualPrice: 16.99 EUR
 currency: EUR

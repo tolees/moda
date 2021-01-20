@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CHXQQ5-es SYOSIN Luz de Anillo LED 10.2" con Trípode Stand Control...'
+sku: 'B087CHXQQ5-es'
 tags: [ 'moda', ]
 actualPrice: 14.44 EUR
 currency: EUR

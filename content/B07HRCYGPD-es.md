@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRCYGPD-es Marca Amazon - find. Short Sleeve Flannel Shirt Hombre...'
+sku: 'B07HRCYGPD-es'
 tags: [ '-','find.', ]
 actualPrice: 7.46 EUR
 currency: EUR

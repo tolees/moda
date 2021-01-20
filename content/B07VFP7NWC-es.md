@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFP7NWC-es Esprit 099ee1g039s Abrigo Azul Navy 400 X-Large para Mujer'
+sku: 'B07VFP7NWC-es'
 tags: [ 'abrigo', ]
 actualPrice: 61.64 EUR
 currency: EUR

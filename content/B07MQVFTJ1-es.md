@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVFTJ1-es Napapijri Rainforest Winter 1 Chaqueta Rojo High Risk Red...'
+sku: 'B07MQVFTJ1-es'
 tags: [ 'chaqueta', ]
 actualPrice: 109.91 EUR
 currency: EUR

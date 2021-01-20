@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ7G9CT-es Clarks Tunsil Lane Zapatos de Cordones Derby para Hombre...'
+sku: 'B07MJ7G9CT-es'
 tags: [ 'zapatos', ]
 actualPrice: 33.48 EUR
 currency: EUR

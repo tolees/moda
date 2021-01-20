@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785FKYF2-es Gore Wear 100153 Chaqueta Hombre Azul Dynamic Cyan XL'
+sku: 'B0785FKYF2-es'
 tags: [ 'chaqueta', ]
 actualPrice: 141.99 EUR
 currency: EUR

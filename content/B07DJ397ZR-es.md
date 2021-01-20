@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ397ZR-es Geox Uomo Sandal Strada A Sandalias con Punta Abierta para...'
+sku: 'B07DJ397ZR-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 54.52 EUR
 currency: EUR

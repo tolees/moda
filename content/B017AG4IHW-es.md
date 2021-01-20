@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017AG4IHW-es Polaroid P0115 JB N5N Gafas de sol Azul Bluette Royal...'
+sku: 'B017AG4IHW-es'
 tags: [ 'gafas', ]
 actualPrice: 24.55 EUR
 currency: EUR

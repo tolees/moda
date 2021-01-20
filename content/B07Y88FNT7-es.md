@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y88FNT7-es Marca Amazon - Iris & Lilly Braga Hipster de Microfibra...'
+sku: 'B07Y88FNT7-es'
 tags: [ 'iris','&','lilly', ]
 actualPrice: 10.49 EUR
 currency: EUR

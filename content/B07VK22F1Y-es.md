@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VK22F1Y-es Fila Boxer para Hombre Negro Medium pack de 6'
+sku: 'B07VK22F1Y-es'
 tags: [ 'boxer', ]
 actualPrice: 24.26 EUR
 currency: EUR

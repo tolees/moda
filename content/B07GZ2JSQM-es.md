@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZ2JSQM-es Wrangler Texas Vaqueros Azul W34/L34 Talla del Fabricante:...'
+sku: 'B07GZ2JSQM-es'
 tags: [ 'vaqueros', ]
 actualPrice: 34.98 EUR
 currency: EUR

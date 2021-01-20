@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WJSFLH-es Levi s Graphic Camiseta Blanco 84 Sportswear Logo White...'
+sku: 'B078WJSFLH-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR

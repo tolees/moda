@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F4WV9-es Wrangler Jacket Chaqueta Bomber Azul Navy 114 Small para...'
+sku: 'B07M5F4WV9-es'
 tags: [ 'chaqueta', ]
 actualPrice: 74.98 EUR
 currency: EUR

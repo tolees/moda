@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y2RMMJ4-es AOQUSSQOA Mujer Traje de Baño de Una Pieza Retro Monokinis...'
+sku: 'B07Y2RMMJ4-es'
 tags: [ 'moda', ]
 actualPrice: 15.99 EUR
 currency: EUR

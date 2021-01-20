@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3W2MC6-es SwissWell Sudadera de Lana con Capucha para Hombre Suéter...'
+sku: 'B07H3W2MC6-es'
 tags: [ 'abrigo','sudadera', ]
 actualPrice: 29.99 EUR
 currency: EUR

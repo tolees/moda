@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CPK5N3-es Geographical Norway Parka Hombre Boomerang B Negro M'
+sku: 'B081CPK5N3-es'
 tags: [ 'parka', ]
 actualPrice: 65.0 EUR
 currency: EUR

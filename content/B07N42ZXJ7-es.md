@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N42ZXJ7-es Desigual Blouse LUMBE Blusa Negro Negro 2000 XL para Mujer'
+sku: 'B07N42ZXJ7-es'
 tags: [ 'blusa', ]
 actualPrice: 29.98 EUR
 currency: EUR

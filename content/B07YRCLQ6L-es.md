@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YRCLQ6L-es Marca Amazon - AURIQUE Shorts de Deporte con Banda Lateral...'
+sku: 'B07YRCLQ6L-es'
 tags: [ 'aurique', ]
 actualPrice: 12.8 EUR
 currency: EUR

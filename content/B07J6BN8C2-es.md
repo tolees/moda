@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6BN8C2-es Percy Perry Hombre Chaqueta de Piloto Bombardero Chaqueta...'
+sku: 'B07J6BN8C2-es'
 tags: [ 'chaqueta', ]
 actualPrice: 59.99 EUR
 currency: EUR

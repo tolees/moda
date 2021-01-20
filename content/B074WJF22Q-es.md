@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074WJF22Q-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello...'
+sku: 'B074WJF22Q-es'
 tags: [ 'chaqueta','meraki', ]
 actualPrice: 15.14 EUR
 currency: EUR

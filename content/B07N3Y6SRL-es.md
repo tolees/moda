@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3Y6SRL-es Desigual Skirt Kape Falda Negro Negro 2000 X-Large para Mujer'
+sku: 'B07N3Y6SRL-es'
 tags: [ 'falda', ]
 actualPrice: 17.83 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQSMWGH-es deAO Juego del Lejano Oeste Conjunto de Vaqueros y Nativos...'
+sku: 'B07PQSMWGH-es'
 tags: [ 'vaqueros', ]
 actualPrice: 24.99 EUR
 currency: EUR

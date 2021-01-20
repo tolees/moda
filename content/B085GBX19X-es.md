@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085GBX19X-es CAVEEN Organizador de Sofá - 2 Piezas Organizador de...'
+sku: 'B085GBX19X-es'
 tags: [ 'gafas', ]
 actualPrice: 19.99 EUR
 currency: EUR

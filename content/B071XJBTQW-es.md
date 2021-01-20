@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XJBTQW-es Jack & Jones Jprnon Iron Shirt L/s Noos Camisa Negro Black...'
+sku: 'B071XJBTQW-es'
 tags: [ 'camisa', ]
 actualPrice: 23.99 EUR
 currency: EUR

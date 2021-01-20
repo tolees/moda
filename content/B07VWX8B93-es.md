@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX8B93-es Pepe Jeans West Sir Camiseta Azul Dark Acqua 518 X-Large...'
+sku: 'B07VWX8B93-es'
 tags: [ 'camiseta', ]
 actualPrice: 16.45 EUR
 currency: EUR

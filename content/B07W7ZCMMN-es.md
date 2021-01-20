@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7ZCMMN-es Jack & Jones Jcofranklin Sweat Hood Sudadera con Capucha...'
+sku: 'B07W7ZCMMN-es'
 tags: [ 'sudadera', ]
 actualPrice: 8.21 EUR
 currency: EUR

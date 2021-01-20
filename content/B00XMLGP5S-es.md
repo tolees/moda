@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XMLGP5S-es Pepe Jeans Soho Vaqueros Denim Oz Classic Stretch Z632 25W...'
+sku: 'B00XMLGP5S-es'
 tags: [ 'vaqueros', ]
 actualPrice: 29.99 EUR
 currency: EUR

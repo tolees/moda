@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSV62F5-es SKYSPER 3 Pares Calcetines de Deporte Deportivos para...'
+sku: 'B07GSV62F5-es'
 tags: [ 'zapatilla', ]
 actualPrice: 9.99 EUR
 currency: EUR

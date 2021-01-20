@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005IAFL60-es Ray-Ban Justin RB4165 - Gafas de sol Unisex Gris...'
+sku: 'B005IAFL60-es'
 tags: [ 'gafas', ]
 actualPrice: 83.51 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DHNTT-es Lee Rider Jeans Vaqueros Tawny Port 38W / 36L para Hombre'
+sku: 'B07M5DHNTT-es'
 tags: [ 'vaqueros', ]
 actualPrice: 55.32 EUR
 currency: EUR

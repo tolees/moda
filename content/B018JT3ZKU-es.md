@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018JT3ZKU-es Levi s Levis 200sf Boxer Brief 2p Hombre Negro Jet Black...'
+sku: 'B018JT3ZKU-es'
 tags: [ 'boxer', ]
 actualPrice: 15.95 EUR
 currency: EUR

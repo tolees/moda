@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8T5D6V-es Tommy Hilfiger TH Hardware Basic Mid Wedge Chanclas para...'
+sku: 'B07V8T5D6V-es'
 tags: [ 'chanclas', ]
 actualPrice: 47.45 EUR
 currency: EUR

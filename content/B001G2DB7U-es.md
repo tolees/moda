@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001G2DB7U-es Birkenstock Mayari Birko-Flor Sandalias de Dedo Mujer...'
+sku: 'B001G2DB7U-es'
 tags: [ 'sandalias', ]
 actualPrice: 51.0 EUR
 currency: EUR

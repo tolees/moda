@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08952SQXD-es Vestido de Tirantes con Cuello en Pico y Detalles de...'
+sku: 'B08952SQXD-es'
 tags: [ 'vestido', ]
 actualPrice: 20.93 EUR
 currency: EUR

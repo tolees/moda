@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BSUKWQI-es Uvex Sportstyle 215 Gafas de Ciclismo Unisex Adulto Negro...'
+sku: 'B00BSUKWQI-es'
 tags: [ 'gafas', ]
 actualPrice: 12.73 EUR
 currency: EUR

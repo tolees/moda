@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4QX2X-es Levi s The Perfect Tee Camiseta Mujer Rosa Sptwr Logo...'
+sku: 'B07KF4QX2X-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.5 EUR
 currency: EUR

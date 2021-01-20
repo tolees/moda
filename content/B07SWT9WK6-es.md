@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT9WK6-es Geox D Borealis A Sandalia con Pulsera para Mujer Rojo...'
+sku: 'B07SWT9WK6-es'
 tags: [ 'geox', ]
 actualPrice: 33.96 EUR
 currency: EUR

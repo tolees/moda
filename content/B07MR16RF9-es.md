@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MR16RF9-es Calvin Klein Jeans Sonnenbrille Ckj510S 0 Gafas de sol...'
+sku: 'B07MR16RF9-es'
 tags: [ 'gafas', ]
 actualPrice: 25.06 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDHP1MW-es Crocs Crocband Flip Women Chanclas para Mujer Naranja...'
+sku: 'B07SDHP1MW-es'
 tags: [ 'chanclas', ]
 actualPrice: 18.69 EUR
 currency: EUR

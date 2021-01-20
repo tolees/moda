@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RBK2FL-es Gafas Protectoras Gafas Protectoras de Seguridad Gafas...'
+sku: 'B085RBK2FL-es'
 tags: [ 'gafas', ]
 actualPrice: 5.46 EUR
 currency: EUR

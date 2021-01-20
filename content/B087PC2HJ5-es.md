@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PC2HJ5-es Suhctup Funda Compatible con Xiaomi Redmi 8 Billetera...'
+sku: 'B087PC2HJ5-es'
 tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR

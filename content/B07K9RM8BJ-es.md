@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K9RM8BJ-es Crocs Serena Slide Women Sandalias de Punta Descubierta...'
+sku: 'B07K9RM8BJ-es'
 tags: [ 'sandalias', ]
 actualPrice: 7.54 EUR
 currency: EUR

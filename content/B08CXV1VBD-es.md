@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CXV1VBD-es Camiseta Sin Mangas para Hombre De Moda Casual Único...'
+sku: 'B08CXV1VBD-es'
 tags: [ 'camisa','camiseta','moda', ]
 actualPrice: 15.82 EUR
 currency: EUR

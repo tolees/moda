@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZSS1NX-es Superga 1908-puu Zapatos de Playa y Piscina Unisex Adulto...'
+sku: 'B07TZSS1NX-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGK6HNJ-es find. Flat Leather Pull On Botines Azul Navy 36 EU'
+sku: 'B07PGK6HNJ-es'
 tags: [ 'botines', ]
 actualPrice: 14.08 EUR
 currency: EUR

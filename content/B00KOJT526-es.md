@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KOJT526-es Columbia Peakfreak Nomad Zapatos impermeables para hombre...'
+sku: 'B00KOJT526-es'
 tags: [ 'zapatos', ]
 actualPrice: 63.99 EUR
 currency: EUR

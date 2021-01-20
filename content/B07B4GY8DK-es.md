@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4GY8DK-es Mandarina Duck Mellow Leather Tracolla/Amphora Bolso...'
+sku: 'B07B4GY8DK-es'
 tags: [ 'bolso', ]
 actualPrice: 42.9 EUR
 currency: EUR

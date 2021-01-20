@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6JW2SQ-es Under Armour Armour Insulated Hooded Chaqueta Mujer Gris XL'
+sku: 'B07L6JW2SQ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 46.57 EUR
 currency: EUR

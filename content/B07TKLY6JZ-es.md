@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKLY6JZ-es HAWKERS - Gafas de sol para mujer BUTERFLY Carey'
+sku: 'B07TKLY6JZ-es'
 tags: [ 'gafas', ]
 actualPrice: 18.0 EUR
 currency: EUR

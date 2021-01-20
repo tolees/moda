@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDH9S8G-es Crocs Classic Zuecos Unisex Adulto Pink 38/39 EU'
+sku: 'B07SDH9S8G-es'
 tags: [ 'zuecos', ]
 actualPrice: 29.29 EUR
 currency: EUR

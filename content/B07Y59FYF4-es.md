@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y59FYF4-es Geographical Norway Sudadera DE Hombre GYMCLASS B Azul...'
+sku: 'B07Y59FYF4-es'
 tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR

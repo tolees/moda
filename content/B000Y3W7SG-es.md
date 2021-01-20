@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y3W7SG-es Wrangler Texas Darkstone Vaqueros para Hombre Vint...'
+sku: 'B000Y3W7SG-es'
 tags: [ 'vaqueros', ]
 actualPrice: 29.29 EUR
 currency: EUR

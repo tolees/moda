@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJHXYKT-es Burton Underhill Camiseta Hombre Stout White XL'
+sku: 'B07SJHXYKT-es'
 tags: [ 'camiseta', ]
 actualPrice: 21.99 EUR
 currency: EUR

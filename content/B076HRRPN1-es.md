@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HRRPN1-es adidas CORE18 TR Top Sudadera Hombre Power Red/White XL'
+sku: 'B076HRRPN1-es'
 tags: [ 'sudadera', ]
 actualPrice: 21.95 EUR
 currency: EUR

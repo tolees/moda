@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MV61BQB-es Timberland Killington Zapatillas Altas para Hombre Azul...'
+sku: 'B01MV61BQB-es'
 tags: [ 'timberland', ]
 actualPrice: 83.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3MWXG2-es Chaleco para perro sin tirones ajustable correa para el...'
+sku: 'B07H3MWXG2-es'
 tags: [ 'chaleco', ]
 actualPrice: 10.56 EUR
 currency: EUR

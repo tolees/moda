@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7TFV6-es Pepe Jeans Sealey Pm581633 Sudadera Grey Marl 933 Small...'
+sku: 'B07JG7TFV6-es'
 tags: [ 'sudadera', ]
 actualPrice: 49.95 EUR
 currency: EUR

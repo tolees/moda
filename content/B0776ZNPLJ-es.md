@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776ZNPLJ-es Tommy Jeans Hombre Original Jersey Camiseta Manga Corta...'
+sku: 'B0776ZNPLJ-es'
 tags: [ 'camiseta','jersey', ]
 actualPrice: 18.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STV3FHD-es Geox D Sandal Hiver B Sandalias con Tira Vertical para...'
+sku: 'B07STV3FHD-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 62.93 EUR
 currency: EUR

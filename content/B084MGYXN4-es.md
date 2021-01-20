@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084MGYXN4-es CHIKA10 Saturday Sandalias de Tacon Mujer Negro Black 37 EU'
+sku: 'B084MGYXN4-es'
 tags: [ 'sandalias', ]
 actualPrice: 34.99 EUR
 currency: EUR

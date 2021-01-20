@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N16ZQH1-es G-STAR RAW 3301 Vaqueros Relaxed Azul Worker Blue Faded...'
+sku: 'B07N16ZQH1-es'
 tags: [ 'vaqueros', ]
 actualPrice: 16.23 EUR
 currency: EUR

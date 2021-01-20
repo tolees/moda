@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWL67FC-es Tommy Hilfiger TJM Chest Stripe Logo tee Camiseta Deporte...'
+sku: 'B07VWL67FC-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.49 EUR
 currency: EUR

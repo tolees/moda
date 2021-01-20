@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKY6CJF-es adidas Most Haves Badge of Sports TS M Camiseta Hombre...'
+sku: 'B07KKY6CJF-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.97 EUR
 currency: EUR

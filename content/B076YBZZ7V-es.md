@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076YBZZ7V-es Levi s Original Trucker Chaqueta Vaquera para Mujer Azul...'
+sku: 'B076YBZZ7V-es'
 tags: [ 'chaqueta', ]
 actualPrice: 59.99 EUR
 currency: EUR

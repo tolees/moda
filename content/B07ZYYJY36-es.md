@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYYJY36-es Vestido Vintage para Muejeres Mangas 3/4 Cuello V de...'
+sku: 'B07ZYYJY36-es'
 tags: [ 'vestido', ]
 actualPrice: 26.99 EUR
 currency: EUR

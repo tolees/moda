@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TR86XT-es find. Zapatos de Serraje con Cordones Hombre Marrón...'
+sku: 'B077TR86XT-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.8 EUR
 currency: EUR

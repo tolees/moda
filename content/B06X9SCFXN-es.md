@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9SCFXN-es find. Botines de Piel para Mujer Marrón Brown 38 EU'
+sku: 'B06X9SCFXN-es'
 tags: [ 'botines', ]
 actualPrice: 14.0 EUR
 currency: EUR

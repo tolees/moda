@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GSSDLV-es find. Camiseta Estampada NYC 99 Hombre Blanco White 52...'
+sku: 'B078GSSDLV-es'
 tags: [ 'camiseta', ]
 actualPrice: 4.2 EUR
 currency: EUR

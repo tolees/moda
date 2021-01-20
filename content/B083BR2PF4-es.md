@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BR2PF4-es Collar Antiladridos Para Perros - Collar Anti-Ladridos...'
+sku: 'B083BR2PF4-es'
 tags: [ 'collar', ]
 actualPrice: 28.99 EUR
 currency: EUR

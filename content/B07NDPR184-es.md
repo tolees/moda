@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPR184-es G-STAR RAW Graphic 15 Core Round Neck Sudadera Gris...'
+sku: 'B07NDPR184-es'
 tags: [ 'sudadera', ]
 actualPrice: 44.97 EUR
 currency: EUR

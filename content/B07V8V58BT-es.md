@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8V58BT-es Tommy Hilfiger Feminine Leather Low Wedge Chanclas para...'
+sku: 'B07V8V58BT-es'
 tags: [ 'chanclas', ]
 actualPrice: 60.28 EUR
 currency: EUR

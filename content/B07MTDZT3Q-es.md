@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTDZT3Q-es Mizuno Sala Classic 2 IN Zapatilla de fútbol Sala Blue-...'
+sku: 'B07MTDZT3Q-es'
 tags: [ 'zapatilla', ]
 actualPrice: 20.0 EUR
 currency: EUR

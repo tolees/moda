@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFNFVQW-es Pitillos Zapatos Tacon 5853P para Mujer Negro 41 EU'
+sku: 'B07WFNFVQW-es'
 tags: [ 'zapatos', ]
 actualPrice: 36.0 EUR
 currency: EUR

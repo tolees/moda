@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC9KW59-es Pepe Jeans Spike Vaqueros Straight Gris Wiser Wash Grey...'
+sku: 'B07NC9KW59-es'
 tags: [ 'vaqueros', ]
 actualPrice: 47.88 EUR
 currency: EUR

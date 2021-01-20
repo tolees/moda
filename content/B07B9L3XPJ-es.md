@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9L3XPJ-es find. Parka Ligera Hombre Beige Stone Large'
+sku: 'B07B9L3XPJ-es'
 tags: [ 'parka', ]
 actualPrice: 19.5 EUR
 currency: EUR

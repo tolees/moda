@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRJGW3K-es Geox J Alben Boy B Zapatillas para Niños Azul Avio/Beige...'
+sku: 'B07SRJGW3K-es'
 tags: [ 'geox', ]
 actualPrice: 27.77 EUR
 currency: EUR

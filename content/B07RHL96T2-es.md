@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHL96T2-es Camisas de Mujer Tops Manga Corta Camisa de Gasa 3/4 Manga...'
+sku: 'B07RHL96T2-es'
 tags: [ 'blusa','camisa', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RX1YRSQ-es BILLABONG Alves Jacket Chaqueta Deportiva Hombre Azul Dark...'
+sku: 'B07RX1YRSQ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 31.86 EUR
 currency: EUR

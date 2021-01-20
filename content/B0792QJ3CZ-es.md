@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792QJ3CZ-es CoolBELL Mochila Convertible en Bolso de Hombro para...'
+sku: 'B0792QJ3CZ-es'
 tags: [ 'bolso', ]
 actualPrice: 31.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XW85TSB-es Amazon Essentials 6-Pack Crewneck Undershirts Camisa...'
+sku: 'B06XW85TSB-es'
 tags: [ 'camisa', ]
 actualPrice: 15.12 EUR
 currency: EUR

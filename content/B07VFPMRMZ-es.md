@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFPMRMZ-es Antony Morato Felpa Girocollo Basic con Placchetta...'
+sku: 'B07VFPMRMZ-es'
 tags: [ 'sudadera', ]
 actualPrice: 25.48 EUR
 currency: EUR

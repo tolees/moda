@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R98ZWB3-es Columbia Pouring Adventure II Chaqueta para Lluvia Hombre...'
+sku: 'B07R98ZWB3-es'
 tags: [ 'chaqueta', ]
 actualPrice: 38.99 EUR
 currency: EUR

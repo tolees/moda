@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013GF7CIS-es Timberland 6 in Premium Waterproof Botas Clasicas Unisex-...'
+sku: 'B013GF7CIS-es'
 tags: [ 'timberland', ]
 actualPrice: 29.19 EUR
 currency: EUR

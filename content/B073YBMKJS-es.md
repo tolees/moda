@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073YBMKJS-es Esprit 107ee1k036 Camisa Manga Larga Off White 110 XX-...'
+sku: 'B073YBMKJS-es'
 tags: [ 'camisa', ]
 actualPrice: 10.33 EUR
 currency: EUR

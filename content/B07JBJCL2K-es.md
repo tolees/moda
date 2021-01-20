@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBJCL2K-es ACVIP - Abrigo - Chaqueta Guateada - Manga Larga - para...'
+sku: 'B07JBJCL2K-es'
 tags: [ 'abrigo','chaqueta', ]
 actualPrice: 34.96 EUR
 currency: EUR

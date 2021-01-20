@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NBVNLYC-es Joma Brama Classic - Pantalón Largo térmico para niños de...'
+sku: 'B00NBVNLYC-es'
 tags: [ 'pantalón', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ5GPYQ-es Springfield 4.1.Liuc.Mickey Leopardo Camiseta Multicolor...'
+sku: 'B07NJ5GPYQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.06 EUR
 currency: EUR

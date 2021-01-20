@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG5WM6Y-es Marca Amazon - find. Camisa Hombre Azul Navy Polka S Label: S'
+sku: 'B06XG5WM6Y-es'
 tags: [ 'camisa','-','find.', ]
 actualPrice: 7.8 EUR
 currency: EUR

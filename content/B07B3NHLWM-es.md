@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3NHLWM-es Timberland Perkins Row Toddler Sandalias de Punta...'
+sku: 'B07B3NHLWM-es'
 tags: [ 'sandalias','timberland', ]
 actualPrice: 27.99 EUR
 currency: EUR

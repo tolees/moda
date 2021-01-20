@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JWMGM-es Avengers- Guantes Hulk Multicolor Hasbro E0615EU6'
+sku: 'B07L9JWMGM-es'
 tags: [ 'guantes', ]
 actualPrice: 21.99 EUR
 currency: EUR

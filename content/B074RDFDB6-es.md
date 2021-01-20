@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074RDFDB6-es Red Tape Holker Zapatos de cordones derby hombre Negro...'
+sku: 'B074RDFDB6-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.75 EUR
 currency: EUR

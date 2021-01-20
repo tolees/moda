@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4CKQQK-es Tamaris 1-1-22444-23 Zapatos de Tacón para Mujer Rojo...'
+sku: 'B07L4CKQQK-es'
 tags: [ 'zapatos', ]
 actualPrice: 24.95 EUR
 currency: EUR

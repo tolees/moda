@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMXTQ4-es Esprit 049ee2k002 Camiseta Azul Blue 430 Medium para Hombre'
+sku: 'B07NDMXTQ4-es'
 tags: [ 'camiseta', ]
 actualPrice: 7.33 EUR
 currency: EUR

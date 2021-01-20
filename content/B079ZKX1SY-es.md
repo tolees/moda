@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZKX1SY-es Helly Hansen HH5014-C01-56 Gafas de Sol Hombre Negro 56'
+sku: 'B079ZKX1SY-es'
 tags: [ 'gafas', ]
 actualPrice: 44.51 EUR
 currency: EUR

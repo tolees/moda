@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWXFRQM-es Rizador Pelo Plegable Profesional Planchas Rizadoras 25mm...'
+sku: 'B07WWXFRQM-es'
 tags: [ 'guantes', ]
 actualPrice: 12.49 EUR
 currency: EUR

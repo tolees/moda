@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB9Z3BB-es JACK & JONES Jjedane Biker Jacket Noos Chaqueta Marrón...'
+sku: 'B07VB9Z3BB-es'
 tags: [ 'chaqueta', ]
 actualPrice: 32.82 EUR
 currency: EUR

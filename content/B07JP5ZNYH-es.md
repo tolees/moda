@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JP5ZNYH-es Jack & Jones Jjitom Jjoriginal Am 815 STS Vaqueros Skinny...'
+sku: 'B07JP5ZNYH-es'
 tags: [ 'vaqueros', ]
 actualPrice: 19.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNSB9VJ-es Marca Amazon - find. Kitten Heel Court Zapatos de tacón...'
+sku: 'B07YNSB9VJ-es'
 tags: [ 'zapatos','-','find.', ]
 actualPrice: 6.78 EUR
 currency: EUR

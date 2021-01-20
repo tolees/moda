@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSX4BMX-es Calvin Klein Hip Brief 3pk Boxer Rojo...'
+sku: 'B07VSX4BMX-es'
 tags: [ 'boxer', ]
 actualPrice: 19.95 EUR
 currency: EUR

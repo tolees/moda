@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9JJXHZ-es Calvin Klein Vegetable Dye Monogram Crew Neck Sudadera...'
+sku: 'B07V9JJXHZ-es'
 tags: [ 'sudadera', ]
 actualPrice: 34.06 EUR
 currency: EUR

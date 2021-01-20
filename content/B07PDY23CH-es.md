@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDY23CH-es LoveOlvidoE 1: 6 Mujer Mujer Soldado Simulación Stiletto...'
+sku: 'B07PDY23CH-es'
 tags: [ 'zapatos', ]
 actualPrice: 2.95 EUR
 currency: EUR

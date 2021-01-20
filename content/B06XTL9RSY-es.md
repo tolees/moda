@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XTL9RSY-es Pepe Jeans Original Basic S/S PM503835 Camiseta Negro...'
+sku: 'B06XTL9RSY-es'
 tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR

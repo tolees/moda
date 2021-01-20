@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVCYFH8-es Charles Wilson Originals Sudadera con Capucha XXX-Large...'
+sku: 'B07WVCYFH8-es'
 tags: [ 'sudadera', ]
 actualPrice: 21.95 EUR
 currency: EUR

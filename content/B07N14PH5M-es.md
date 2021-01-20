@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N14PH5M-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros Negro...'
+sku: 'B07N14PH5M-es'
 tags: [ 'vaqueros', ]
 actualPrice: 13.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074WJQ5B4-es Timberland Newport Bay Zapatillas Bajas para Hombre Negro...'
+sku: 'B074WJQ5B4-es'
 tags: [ 'timberland', ]
 actualPrice: 27.99 EUR
 currency: EUR

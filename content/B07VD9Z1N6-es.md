@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD9Z1N6-es JACK & JONES Jorseth Jacket Chaqueta Rojo Brick Red...'
+sku: 'B07VD9Z1N6-es'
 tags: [ 'chaqueta', ]
 actualPrice: 25.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNMNTYJ-es G-STAR RAW Denim Mix Hooded Chaqueta Azul Mazarine Blue...'
+sku: 'B07VNMNTYJ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 104.97 EUR
 currency: EUR

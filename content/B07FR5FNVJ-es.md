@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR5FNVJ-es Clarks Un Karely Sun Chanclas Sandalias Flip-Flop Dorado...'
+sku: 'B07FR5FNVJ-es'
 tags: [ 'chanclas','sandalias', ]
 actualPrice: 79.95 EUR
 currency: EUR

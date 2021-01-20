@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2BD9RK-es Superdry Resurrection L/s Shirt Camisa Azul Durango Mid...'
+sku: 'B07P2BD9RK-es'
 tags: [ 'camisa', ]
 actualPrice: 21.84 EUR
 currency: EUR

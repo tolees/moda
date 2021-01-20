@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J63DQFX-es Happy Cherry - Ropa Invierno Acolchada de Algodón para...'
+sku: 'B07J63DQFX-es'
 tags: [ 'abrigo','chaqueta', ]
 actualPrice: 11.03 EUR
 currency: EUR

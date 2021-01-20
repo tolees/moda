@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785FPDBG-es Under Armour Tech Hoody 2.0-Twist Sudadera con Capucha...'
+sku: 'B0785FPDBG-es'
 tags: [ 'sudadera', ]
 actualPrice: 34.99 EUR
 currency: EUR

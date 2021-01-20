@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JL8XQ6C-es Columbia Redmond Zapatos Bajos Impermeables Unisex Niños...'
+sku: 'B07JL8XQ6C-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.23 EUR
 currency: EUR

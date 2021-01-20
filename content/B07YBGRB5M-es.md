@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBGRB5M-es Vans Classic Camiseta Rojo Port Royale/White K1o Small...'
+sku: 'B07YBGRB5M-es'
 tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JH66J7P-es Zapatos de Seguridad Hombre Zapatillas de Seguridad con...'
+sku: 'B08JH66J7P-es'
 tags: [ 'zapatos', ]
 actualPrice: 38.9 EUR
 currency: EUR

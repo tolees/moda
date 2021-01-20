@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IZBG612-es PUMA Popcat Sandalias deslizantes Unisex Adulto Negro...'
+sku: 'B01IZBG612-es'
 tags: [ 'sandalias', ]
 actualPrice: 19.95 EUR
 currency: EUR

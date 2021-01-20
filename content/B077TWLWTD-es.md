@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TWLWTD-es find. Zapatos de Serraje con Cordones Hombre Beige Sand 43 EU'
+sku: 'B077TWLWTD-es'
 tags: [ 'zapatos', ]
 actualPrice: 28.8 EUR
 currency: EUR

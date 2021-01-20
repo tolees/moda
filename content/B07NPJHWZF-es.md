@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPJHWZF-es Skechers Status 2.0 Pexton Zapatos de Cordones Derby para...'
+sku: 'B07NPJHWZF-es'
 tags: [ 'zapatos', ]
 actualPrice: 29.04 EUR
 currency: EUR

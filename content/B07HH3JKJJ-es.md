@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH3JKJJ-es Vgo 3Pares 2-4 Edad Guantes de Niños Guantes de Trabajo y...'
+sku: 'B07HH3JKJJ-es'
 tags: [ 'guantes', ]
 actualPrice: 13.99 EUR
 currency: EUR

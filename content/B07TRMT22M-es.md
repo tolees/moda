@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRMT22M-es Levi s 711 Shaping Super Skinny Jeans Pantalón Vaquero Que...'
+sku: 'B07TRMT22M-es'
 tags: [ 'pantalón', ]
 actualPrice: 43.39 EUR
 currency: EUR

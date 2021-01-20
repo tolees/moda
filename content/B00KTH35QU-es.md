@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KTH35QU-es Under Armour Tech Short Sleeve V-Solid Camiseta Mujer Gris...'
+sku: 'B00KTH35QU-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.49 EUR
 currency: EUR

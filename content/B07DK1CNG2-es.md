@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK1CNG2-es Geox B Kaytan B Sandalias para Bebés Beige Caramel/Brown...'
+sku: 'B07DK1CNG2-es'
 tags: [ 'geox','sandalias', ]
 actualPrice: 31.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WTVQJ3-es Quiksilver Carver Nubuck-Sandals For Men Zapatos de Playa...'
+sku: 'B078WTVQJ3-es'
 tags: [ 'zapatos', ]
 actualPrice: 21.4 EUR
 currency: EUR

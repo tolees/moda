@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNVQWX-es G-STAR RAW Graphic 15 Core Round Neck Sudadera Rojo Port...'
+sku: 'B07NDNVQWX-es'
 tags: [ 'sudadera', ]
 actualPrice: 15.28 EUR
 currency: EUR

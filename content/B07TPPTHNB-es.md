@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPPTHNB-es Levi s Relaxed Graphic Hoodie Sudadera Blanco Boxtab Pop...'
+sku: 'B07TPPTHNB-es'
 tags: [ 'sudadera', ]
 actualPrice: 43.13 EUR
 currency: EUR

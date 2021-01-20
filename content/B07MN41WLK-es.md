@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN41WLK-es Wrangler SS Logo tee Camiseta Gris Mid Grey Mel X37 XL...'
+sku: 'B07MN41WLK-es'
 tags: [ 'camiseta', ]
 actualPrice: 14 EUR
 currency: EUR

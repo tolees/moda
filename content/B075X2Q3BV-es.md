@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075X2Q3BV-es find. NEWSTW046 vaqueros mujer Azul Dark Vintage W27/L30'
+sku: 'B075X2Q3BV-es'
 tags: [ 'vaqueros', ]
 actualPrice: 10.8 EUR
 currency: EUR

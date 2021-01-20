@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSVDY1-es Clarks Un Larvik Lace Zapatos de Cordones Derby para...'
+sku: 'B07MLSVDY1-es'
 tags: [ 'zapatos', ]
 actualPrice: 66.0 EUR
 currency: EUR

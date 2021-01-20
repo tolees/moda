@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777VBLZC-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo Negro...'
+sku: 'B0777VBLZC-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR

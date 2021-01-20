@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5NPTZB-es Tom Tailor Denim Kontrastreiche Chaqueta Punto Beige Camel...'
+sku: 'B07V5NPTZB-es'
 tags: [ 'chaqueta', ]
 actualPrice: 11.47 EUR
 currency: EUR

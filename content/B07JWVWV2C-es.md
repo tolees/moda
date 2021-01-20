@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWVWV2C-es Columbia Five Forks Zapatos de Senderismo Impermeables...'
+sku: 'B07JWVWV2C-es'
 tags: [ 'zapatos', ]
 actualPrice: 68.52 EUR
 currency: EUR

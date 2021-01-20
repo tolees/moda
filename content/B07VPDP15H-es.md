@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPDP15H-es OBEEII Disfraz Sofia Princesa Vestido de Fiesta Disfraz...'
+sku: 'B07VPDP15H-es'
 tags: [ 'vestido', ]
 actualPrice: 20.89 EUR
 currency: EUR

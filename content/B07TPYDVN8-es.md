@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYDVN8-es G-STAR RAW Earth Beetle Sudadera Azul Faded Legion Blue...'
+sku: 'B07TPYDVN8-es'
 tags: [ 'sudadera', ]
 actualPrice: 27.62 EUR
 currency: EUR

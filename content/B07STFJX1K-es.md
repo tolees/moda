@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STFJX1K-es JACK & JONES Jprlogo Twist Shirt L/s STS Camisa Marrón...'
+sku: 'B07STFJX1K-es'
 tags: [ 'camisa', ]
 actualPrice: 14.33 EUR
 currency: EUR

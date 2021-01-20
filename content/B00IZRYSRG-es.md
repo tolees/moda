@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IZRYSRG-es JAKO Fútbol Camiseta KA Camiseta United Todo el año...'
+sku: 'B00IZRYSRG-es'
 tags: [ 'camiseta', ]
 actualPrice: 9.19 EUR
 currency: EUR

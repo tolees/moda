@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4NUXIC-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Dk Aged 8466-89...'
+sku: 'B01N4NUXIC-es'
 tags: [ 'vaqueros', ]
 actualPrice: 24.44 EUR
 currency: EUR

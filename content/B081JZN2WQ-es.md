@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JZN2WQ-es Guess Cn SS Original Logo Camiseta Bianco L para Hombre'
+sku: 'B081JZN2WQ-es'
 tags: [ 'camiseta', ]
 actualPrice: 24.9 EUR
 currency: EUR

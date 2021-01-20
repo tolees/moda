@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ93GWF-es Under Armour UA Qualifier Shortsleeve Camiseta Hombre Gris...'
+sku: 'B07CZ93GWF-es'
 tags: [ 'camiseta', ]
 actualPrice: 15.4 EUR
 currency: EUR

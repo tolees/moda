@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N43PCNR-es Desigual Blouse LUMBE Blusa Blanco Blanco 1000 XL para Mujer'
+sku: 'B07N43PCNR-es'
 tags: [ 'blusa', ]
 actualPrice: 22.62 EUR
 currency: EUR

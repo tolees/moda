@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKWLVTF-es Havaianas High Light Chanclas para Mujer Negro Black/Dark...'
+sku: 'B07SKWLVTF-es'
 tags: [ 'chanclas', ]
 actualPrice: 8.51 EUR
 currency: EUR

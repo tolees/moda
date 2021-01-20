@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6WM5C7-es O NEILL LM Olsen L/Slv - Camiseta para Hombre Hombre...'
+sku: 'B07R6WM5C7-es'
 tags: [ 'camiseta', ]
 actualPrice: 17.33 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B7GYM2-es Columbia CSC Basic Camiseta Estampada De Manga Corta...'
+sku: 'B081B7GYM2-es'
 tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYQDTN-es Clarks Ronnie Walk Zapatos de Cordones Derby Marrón Tan...'
+sku: 'B07TPYQDTN-es'
 tags: [ 'zapatos', ]
 actualPrice: 37.84 EUR
 currency: EUR

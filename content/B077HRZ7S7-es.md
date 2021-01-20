@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HRZ7S7-es Marca Amazon - find. Vestido Midi de Flores Mujer Verde...'
+sku: 'B077HRZ7S7-es'
 tags: [ 'vestido','-','find.', ]
 actualPrice: 8.48 EUR
 currency: EUR

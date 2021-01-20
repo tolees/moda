@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9T7H6L-es Lacoste Croco Slide 319 4 US CMA Sandalias de Punta...'
+sku: 'B07L9T7H6L-es'
 tags: [ 'sandalias', ]
 actualPrice: 27.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B94LMQW-es Clarks Vargo Plain Zapatos de Cordones Derby Marrón Dark...'
+sku: 'B07B94LMQW-es'
 tags: [ 'zapatos', ]
 actualPrice: 72.97 EUR
 currency: EUR

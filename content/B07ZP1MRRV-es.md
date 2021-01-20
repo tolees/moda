@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZP1MRRV-es Jack & Jones Jcoisland tee SS Crew Neck Camiseta Rojo Rio...'
+sku: 'B07ZP1MRRV-es'
 tags: [ 'camiseta', ]
 actualPrice: 6.39 EUR
 currency: EUR

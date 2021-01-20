@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHU9O6S-es sitengle Mujeres Elegante Camisetas de Encaje Floral...'
+sku: 'B01KHU9O6S-es'
 tags: [ 'blusa', ]
 actualPrice: 7.82 EUR
 currency: EUR

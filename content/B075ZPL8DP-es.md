@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZPL8DP-es Bruetting Countdown Zapatos de Low Rise Senderismo para...'
+sku: 'B075ZPL8DP-es'
 tags: [ 'zapatos', ]
 actualPrice: 15.46 EUR
 currency: EUR

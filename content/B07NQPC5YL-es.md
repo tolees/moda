@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQPC5YL-es Springfield 7Ba C/Red G7 Block Torzal Jersey Azul Blue 11...'
+sku: 'B07NQPC5YL-es'
 tags: [ 'jersey', ]
 actualPrice: 13.74 EUR
 currency: EUR

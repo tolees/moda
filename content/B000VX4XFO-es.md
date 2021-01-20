@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VX4XFO-es Timberland 6 Inch Premium Waterproof Botas para Hombre...'
+sku: 'B000VX4XFO-es'
 tags: [ 'timberland', ]
 actualPrice: 156.95 EUR
 currency: EUR

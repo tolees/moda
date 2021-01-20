@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPF2BVQ-es MAMMUT Zapatilla DUCAN Low GTX Zapatos para Hombre...'
+sku: 'B07SPF2BVQ-es'
 tags: [ 'zapatos','zapatilla', ]
 actualPrice: 130.9 EUR
 currency: EUR

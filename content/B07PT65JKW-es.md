@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT65JKW-es CARE OF by PUMA Sudadera con capucha de manga larga con...'
+sku: 'B07PT65JKW-es'
 tags: [ 'sudadera', ]
 actualPrice: 13.39 EUR
 currency: EUR

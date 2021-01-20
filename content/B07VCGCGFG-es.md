@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCGCGFG-es Esprit 099ee1g043 Abrigo Gris Anthracite 010 Large para Mujer'
+sku: 'B07VCGCGFG-es'
 tags: [ 'abrigo', ]
 actualPrice: 29.1 EUR
 currency: EUR

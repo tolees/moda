@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NMYVVPD-es Nike Court Vision Mid Zapatos de Baloncesto para Hombre...'
+sku: 'B07NMYVVPD-es'
 tags: [ 'zapatos', ]
 actualPrice: 48.53 EUR
 currency: EUR

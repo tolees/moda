@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GH4KV2E-es Bolso organizador para coche animal gato pájaro ratón de...'
+sku: 'B01GH4KV2E-es'
 tags: [ 'bolso', ]
 actualPrice: 31.91 EUR
 currency: EUR

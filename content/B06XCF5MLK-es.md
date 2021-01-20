@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCF5MLK-es G-STAR RAW 3301 Deconstructed Skinny Vaqueros Medium...'
+sku: 'B06XCF5MLK-es'
 tags: [ 'vaqueros', ]
 actualPrice: 54.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2SDXDF-es Geox U Mattias B ABX B Botas Chukka para Hombre Marrón...'
+sku: 'B06Y2SDXDF-es'
 tags: [ 'geox', ]
 actualPrice: 52.56 EUR
 currency: EUR

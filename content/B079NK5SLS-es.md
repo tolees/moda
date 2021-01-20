@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NK5SLS-es Marca Amazon - MERAKI Camisa Clásica Entallada de Vestir...'
+sku: 'B079NK5SLS-es'
 tags: [ 'camisa','meraki', ]
 actualPrice: 7.5 EUR
 currency: EUR

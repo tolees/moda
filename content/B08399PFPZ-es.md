@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08399PFPZ-es Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua...'
+sku: 'B08399PFPZ-es'
 tags: [ 'zapatos', ]
 actualPrice: 19.99 EUR
 currency: EUR

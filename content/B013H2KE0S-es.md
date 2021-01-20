@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013H2KE0S-es Pepe Jeans Spike Vaqueros Azul 11oz Streaky Stretch Med...'
+sku: 'B013H2KE0S-es'
 tags: [ 'vaqueros', ]
 actualPrice: 44.95 EUR
 currency: EUR

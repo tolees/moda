@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8LXCBJ-es trueprodigy Casual Hombre Marca Camiseta con impresión...'
+sku: 'B07C8LXCBJ-es'
 tags: [ 'camiseta','moda', ]
 actualPrice: 17.99 EUR
 currency: EUR

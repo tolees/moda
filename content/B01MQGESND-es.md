@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQGESND-es Deportes Hera Pantalón De Running Mallas De Correr...'
+sku: 'B01MQGESND-es'
 tags: [ 'pantalón', ]
 actualPrice: 9.99 EUR
 currency: EUR

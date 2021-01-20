@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF18GZB-es G-STAR RAW Air Defence Zip Skinny Vaqueros Gris Worn In...'
+sku: 'B07RF18GZB-es'
 tags: [ 'vaqueros', ]
 actualPrice: 67.07 EUR
 currency: EUR

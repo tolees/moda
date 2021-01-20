@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2M4GTM-es Dickies Sacramento Relaxed Long Sleeve Shirt Camisa Rojo...'
+sku: 'B07X2M4GTM-es'
 tags: [ 'camisa', ]
 actualPrice: 25.84 EUR
 currency: EUR

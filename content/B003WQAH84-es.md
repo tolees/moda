@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WQAH84-es Geox U Moner V Mocasines para Hombre Azul Blue C4000 39 EU'
+sku: 'B003WQAH84-es'
 tags: [ 'geox', ]
 actualPrice: 44.5 EUR
 currency: EUR

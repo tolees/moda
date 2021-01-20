@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L17WN-es Lee Sherpa Jacket Chaqueta Vaquera Verde Forest Night 96...'
+sku: 'B07M8L17WN-es'
 tags: [ 'chaqueta', ]
 actualPrice: 57.95 EUR
 currency: EUR

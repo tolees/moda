@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S49GVH-es Marca Amazon - MERAKI Sudadera con Capucha y Cremallera...'
+sku: 'B075S49GVH-es'
 tags: [ 'meraki','sudadera', ]
 actualPrice: 9.0 EUR
 currency: EUR

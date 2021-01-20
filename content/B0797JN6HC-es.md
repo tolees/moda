@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797JN6HC-es Puma LIGA Sideline Poly Core Chaqueta de Entrenamiento...'
+sku: 'B0797JN6HC-es'
 tags: [ 'chaqueta', ]
 actualPrice: 16.09 EUR
 currency: EUR

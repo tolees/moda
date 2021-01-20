@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CRQ3FQ-es Zapatillas Running para Hombre Aire Libre y Deporte...'
+sku: 'B076CRQ3FQ-es'
 tags: [ 'zapatos', ]
 actualPrice: 26.34 EUR
 currency: EUR

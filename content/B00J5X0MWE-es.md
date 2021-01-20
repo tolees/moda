@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5X0MWE-es uhlsport Match Chaqueta De Entrenamiento Hombre...'
+sku: 'B00J5X0MWE-es'
 tags: [ 'chaqueta', ]
 actualPrice: 14.49 EUR
 currency: EUR

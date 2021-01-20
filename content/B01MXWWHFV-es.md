@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXWWHFV-es MeBB Chic Collar Mordedor de Lactancia para Bebé Mordedor...'
+sku: 'B01MXWWHFV-es'
 tags: [ 'collar','moda', ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCNQBR7-es Marvel More Than A Fan Mujer Camiseta Negro S 100% algodón...'
+sku: 'B07YCNQBR7-es'
 tags: [ 'camiseta', ]
 actualPrice: 19.19 EUR
 currency: EUR

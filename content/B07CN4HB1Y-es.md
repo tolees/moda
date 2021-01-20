@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN4HB1Y-es Crocs Crocband Flip Chanclas Unisex-Adult Grey Light...'
+sku: 'B07CN4HB1Y-es'
 tags: [ 'chanclas', ]
 actualPrice: 15.99 EUR
 currency: EUR

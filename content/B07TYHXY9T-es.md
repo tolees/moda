@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYHXY9T-es Levi s 512 Slim Taper Fit Jean Vaqueros Azul Biologia ADV...'
+sku: 'B07TYHXY9T-es'
 tags: [ 'vaqueros', ]
 actualPrice: 34.22 EUR
 currency: EUR

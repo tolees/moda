@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JDTF5P2-es Lacoste Sh6382 Sudadera Azul Marine 166 XX-Large Talla del...'
+sku: 'B07JDTF5P2-es'
 tags: [ 'sudadera', ]
 actualPrice: 71.17 EUR
 currency: EUR

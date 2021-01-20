@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN7J66S-es Crocs Swiftwater Mesh Sandal W Sandalias Deportivas para...'
+sku: 'B07CN7J66S-es'
 tags: [ 'sandalias', ]
 actualPrice: 16.36 EUR
 currency: EUR

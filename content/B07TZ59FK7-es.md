@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ59FK7-es Women s Secret Cozy Animals Ca Flamingo PJ Conjuntos de...'
+sku: 'B07TZ59FK7-es'
 tags: [ 'pijama', ]
 actualPrice: 12.9 EUR
 currency: EUR

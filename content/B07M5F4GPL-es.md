@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F4GPL-es Wrangler SS Pocket tee Camiseta Amarillo Mineral Yellow...'
+sku: 'B07M5F4GPL-es'
 tags: [ 'camiseta', ]
 actualPrice: 8.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKZ9Y7H-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Cleaner...'
+sku: 'B07GKZ9Y7H-es'
 tags: [ 'vaqueros', ]
 actualPrice: 22.53 EUR
 currency: EUR

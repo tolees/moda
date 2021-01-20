@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYT3Q3Z-es Wrangler Straight Vaqueros para Mujer Azul Yucca Valley...'
+sku: 'B07FYT3Q3Z-es'
 tags: [ 'vaqueros', ]
 actualPrice: 27.86 EUR
 currency: EUR

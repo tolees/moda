@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5YJDYP-es JACK & JONES Jjesheridan Shirt L/s Camisa Vaquera Negro...'
+sku: 'B07C5YJDYP-es'
 tags: [ 'camisa', ]
 actualPrice: 23.49 EUR
 currency: EUR

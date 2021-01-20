@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771K6LVH-es NHEIMA Faja Reductora Hombre Adelgazante Camiseta Termica...'
+sku: 'B0771K6LVH-es'
 tags: [ 'camiseta','chaleco', ]
 actualPrice: 19.99 EUR
 currency: EUR

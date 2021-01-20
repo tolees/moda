@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX5CSP-es Pepe Jeans Vestido Multicolor Multi 0aa X-Large para Mujer'
+sku: 'B07VWX5CSP-es'
 tags: [ 'vestido', ]
 actualPrice: 51.36 EUR
 currency: EUR

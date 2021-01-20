@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVX9KB3-es Levi s Type 3 Sherpa Trucker Chaqueta para Hombre Azul...'
+sku: 'B07DVX9KB3-es'
 tags: [ 'chaqueta', ]
 actualPrice: 84.74 EUR
 currency: EUR

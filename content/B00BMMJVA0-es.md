@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BMMJVA0-es Geox U Dublin B Zapatos de Vestir para Hombre Negro...'
+sku: 'B00BMMJVA0-es'
 tags: [ 'geox','zapatos', ]
 actualPrice: 49.98 EUR
 currency: EUR

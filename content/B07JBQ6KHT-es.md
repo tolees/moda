@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBQ6KHT-es Columbia Lay D Down II Chaqueta Mujer Verde Talla: S'
+sku: 'B07JBQ6KHT-es'
 tags: [ 'chaqueta', ]
 actualPrice: 80.07 EUR
 currency: EUR

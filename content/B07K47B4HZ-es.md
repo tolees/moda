@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K47B4HZ-es BOSS Mabsoot Camisa Azul Dark Blue 4040 Medium para Hombre'
+sku: 'B07K47B4HZ-es'
 tags: [ 'camisa', ]
 actualPrice: 24.14 EUR
 currency: EUR

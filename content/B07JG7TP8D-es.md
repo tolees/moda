@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7TP8D-es Pepe Jeans Shirley Pl401682 Chaqueta Multi Bleu 0aa...'
+sku: 'B07JG7TP8D-es'
 tags: [ 'chaqueta', ]
 actualPrice: 82.5 EUR
 currency: EUR

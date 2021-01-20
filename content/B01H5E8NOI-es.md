@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H5E8NOI-es IEFIEL Vestido de Flores Blanco Niña Vestido Boda Fiesta...'
+sku: 'B01H5E8NOI-es'
 tags: [ 'falda','vestido', ]
 actualPrice: 14.49 EUR
 currency: EUR

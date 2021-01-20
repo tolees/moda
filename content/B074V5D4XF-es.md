@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074V5D4XF-es SYMALL Bolso de Mano con Fleco Borlas Bolso de Noche...'
+sku: 'B074V5D4XF-es'
 tags: [ 'bolso', ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IABVWAS-es Helly Hansen Squamish Cis Chaqueta Hombre Negro M'
+sku: 'B00IABVWAS-es'
 tags: [ 'chaqueta', ]
 actualPrice: 88.67 EUR
 currency: EUR

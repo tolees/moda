@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IXMCZEG-es Joma Nobel Pantalón de equipación Amarillo XL'
+sku: 'B00IXMCZEG-es'
 tags: [ 'pantalón', ]
 actualPrice: 5.99 EUR
 currency: EUR

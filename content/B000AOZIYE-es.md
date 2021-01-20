@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AOZIYE-es Reebok Classic Nylon Zapatilla de Running Hombre Blanco...'
+sku: 'B000AOZIYE-es'
 tags: [ 'zapatilla', ]
 actualPrice: 46.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFN3PJB-es Geox U Nebula Y A Zapatillas para Hombre Azul Navy C4002...'
+sku: 'B07MFN3PJB-es'
 tags: [ 'geox', ]
 actualPrice: 60.79 EUR
 currency: EUR

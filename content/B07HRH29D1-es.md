@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRH29D1-es Alvivi Uniforme de Trabajo Bata Blanca Abrigo de...'
+sku: 'B07HRH29D1-es'
 tags: [ 'abrigo','chaqueta', ]
 actualPrice: 9.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SX52MT6-es Marca Amazon - MERAKI Calcetines por Media Pierna de...'
+sku: 'B07SX52MT6-es'
 tags: [ 'meraki', ]
 actualPrice: 6.38 EUR
 currency: EUR

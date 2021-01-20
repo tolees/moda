@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB1Z7QG-es Helly Hansen Nord Graphic HH T-Shirt Camiseta Hombre White L'
+sku: 'B07SB1Z7QG-es'
 tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR

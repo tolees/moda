@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ8PV11-es Honghu Verano Sexy Mangas Corta Low Culleo Slim Fit...'
+sku: 'B07DJ8PV11-es'
 tags: [ 'vestido', ]
 actualPrice: 3.99 EUR
 currency: EUR

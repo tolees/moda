@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRSQJ-es Napapijri Aric Chaqueta Negro Black 041 XXL para Hombre'
+sku: 'B07MGFRSQJ-es'
 tags: [ 'chaqueta', ]
 actualPrice: 97.4 EUR
 currency: EUR

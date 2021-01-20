@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B6MYZ2-es Columbia Lodge Sudadera sin Capucha Hombre Gris/Azul Grey...'
+sku: 'B081B6MYZ2-es'
 tags: [ 'sudadera', ]
 actualPrice: 26.95 EUR
 currency: EUR

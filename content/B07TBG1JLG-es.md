@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBG1JLG-es Quiksilver Mental Notes T-Shirt Men Camiseta de Manga...'
+sku: 'B07TBG1JLG-es'
 tags: [ 'camiseta', ]
 actualPrice: 10.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLB15DF-es Corrector de Postura Espalda y Hombros Para Hombre y Mujer...'
+sku: 'B07CLB15DF-es'
 tags: [ 'chaleco', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074KKC2BG-es Crocs Classic Clog Zuecos Unisex Adulto Azul Chambray Blue...'
+sku: 'B074KKC2BG-es'
 tags: [ 'zuecos', ]
 actualPrice: 17.36 EUR
 currency: EUR

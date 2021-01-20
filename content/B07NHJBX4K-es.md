@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHJBX4K-es Esprit Jelto NW PJ.LS_ll Pijama Negro Black 001 Large para...'
+sku: 'B07NHJBX4K-es'
 tags: [ 'pijama', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JL8TV-es Clarks Step Explorhi Botines para Mujer Azul Navy Navy...'
+sku: 'B07N1JL8TV-es'
 tags: [ 'botines', ]
 actualPrice: 21.14 EUR
 currency: EUR

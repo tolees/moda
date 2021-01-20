@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYTVVS-es Geox U HALLSON A Botas Chukka para Hombre Negro Black...'
+sku: 'B07LFYTVVS-es'
 tags: [ 'geox', ]
 actualPrice: 34.49 EUR
 currency: EUR
