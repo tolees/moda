@@ -28,8 +28,8 @@ Tienes [BILLABONG Stacked - Camiseta de Manga Larga para Hombre Camiseta de Mang
 
 - Manga larga
 - Parche de tela en el bolsillo
-- Corte: corte normal
 - Bolsillo en el pecho
 - Tela: tejido de punto jersey peinado
+- Corte: corte normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CJ5NNZY/?tag=tolees-21)

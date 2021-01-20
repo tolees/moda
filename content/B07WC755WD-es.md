@@ -26,8 +26,8 @@ Tienes [NIKE M NK Dry Chalng III JSY SS Camiseta de Manga Corta  Hombre  Black/B
 
 ℹ️:
 
-- Nike Dry fabric
 - Maximum comfort
+- Nike Dry fabric
 - Regular fit
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WC755WD/?tag=tolees-21)
