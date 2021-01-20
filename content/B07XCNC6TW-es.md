@@ -26,8 +26,8 @@ Está [adidas Core18 Hoody Sudadera  Hombre  White  2XL](https://www.amazon.es/d
 
 ℹ️:
 
-- Regular fit
-- Hood with lanyard
 - Kangaroo pocket
+- Hood with lanyard
+- Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XCNC6TW/?tag=tolees-21)
