@@ -26,8 +26,8 @@ En este momento está [Geographical Norway Parka BOOMERANG niña NEGRO talla 16]
 
 🔎:
 
-- Capucha
 - Chaqueta de niña
 - pelo destomtable
+- Capucha
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PZF2T3K/?tag=tolees-21)
