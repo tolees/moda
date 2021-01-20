@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Levi s Type 3 Chaqueta Vaquera  Berk She al 31.93 % de rebaja'
-date: 2021-01-19 06:07:13
+date: 2021-01-20 06:32:11
 image: 'https://m.media-amazon.com/images/I/41hAv9E8DNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4TFMZ-es'
+slug: 'B07KF4TFMZ-es Levi s Type 3 Chaqueta Vaquera Berk Sherpa Trucker L para...'
+tags: [ 'chaqueta', ]
 actualPrice: 88.49 EUR
 currency: EUR
 price: 88.49
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KF4TFMZ/?tag=tolees-21'
 descuento: '31.93'
-average: '87.47571428571428'
+average: '87.50692307692306'
 ---
 
 Tienes [Levi s Type 3 Chaqueta Vaquera  Berk Sherpa Trucker  L para Hombre](https://www.amazon.es/dp/B07KF4TFMZ/?tag=tolees-21) con precio final de  88.49 EUR (original: 130.0 EUR) (31.93 %  de rebaja) aqui!
@@ -25,8 +26,8 @@ Tienes [Levi s Type 3 Chaqueta Vaquera  Berk Sherpa Trucker  L para Hombre](http
 
 🔎:
 
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Manga larga con cierre de botón en los puños
 - Bajo ajustable en el lateral
+- Manga larga con cierre de botón en los puños
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KF4TFMZ/?tag=tolees-21)

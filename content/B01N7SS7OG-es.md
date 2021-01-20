@@ -1,12 +1,13 @@
 ---
 layout: post
 title: ' Bollé – Gafas protectoras"Baxter  1 pie al 17.40 % de descuento'
-date: 2021-01-18 11:51:33
+date: 2021-01-20 06:26:28
 image: 'https://m.media-amazon.com/images/I/41zQpCEnDfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7SS7OG-es'
+slug: 'B01N7SS7OG-es Bollé – Gafas protectoras"Baxter 1 pieza talla única...'
+tags: [ 'gafas', ]
 actualPrice: 19.56 EUR
 currency: EUR
 price: 19.56
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7SS7OG/?tag=tolees-21'
 descuento: '17.40'
-average: '21.130163043478245'
+average: '21.11327956989246'
 ---
 
 Ahora mismo tienes [ Bollé – Gafas protectoras"Baxter  1 pieza  talla única  negro/azul  baxpsi](https://www.amazon.es/dp/B01N7SS7OG/?tag=tolees-21) a 19.56 EUR (original: 23.68 EUR) (17.40 %  de descuento) en el siguiente enlace!
