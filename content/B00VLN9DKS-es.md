@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Levi s Graphic Set-In Neck  Camiseta par al 20.25 % de rebaja'
-date: 2021-01-11 16:43:29
+date: 2021-01-20 03:44:52
 image: 'https://m.media-amazon.com/images/I/41j75vs8yzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLN9DKS-es'
+slug: 'B00VLN9DKS-es Levi s Graphic Set-In Neck Camiseta para Hombre Gris...'
+tags: [ 'camiseta', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95
@@ -25,8 +26,8 @@ Tienes [Levi s Graphic Set-In Neck  Camiseta para Hombre  Gris  C18976 Graphic H
 
 🔎:
 
-- Con un logo Levis en horizontal en el pecho
-- Modelo casual
 - Elaborada en punto suave
+- Modelo casual
+- Con un logo Levis en horizontal en el pecho
 
-[Comprar!!!](https://www.amazon.es/dp/B00VLN9DKS/?tag=tolees-21)
+[🛒 Comprar!!!](https://www.amazon.es/dp/B00VLN9DKS/?tag=tolees-21)

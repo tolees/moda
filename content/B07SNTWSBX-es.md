@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Levi s Orig Hm Vneck Camiseta  Black  Mi al 36.04 % de descuento'
-date: 2021-01-18 07:55:58
+date: 2021-01-20 03:50:22
 image: 'https://m.media-amazon.com/images/I/418Fwnt+tWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNTWSBX-es'
+slug: 'B07SNTWSBX-es Levi s Orig Hm Vneck Camiseta Black Mineral Black 0001...'
+tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -26,7 +27,7 @@ Ahora mismo tienes [Levi s Orig Hm Vneck Camiseta  Black  Mineral Black 0001   M
 🔎:
 
 - Elaborada en punto suave
-- Con un discreto logo en el pecho
 - Modelo casual
+- Con un discreto logo en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SNTWSBX/?tag=tolees-21)
