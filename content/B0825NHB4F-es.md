@@ -27,9 +27,9 @@ Tienes [Quiksilver Eye On The Storm - Camiseta para Hombre Screen tee  Hombre  B
 🔎:
 
 - Cómodo
-- Corte normal
 - Clásico
 - Cuello redondo y serigrafía en parte delantera
 - Camiseta Para hombre
+- Corte normal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0825NHB4F/?tag=tolees-21)
