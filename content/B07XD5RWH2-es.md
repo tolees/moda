@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Levi s Kids Lvb Batwing Tee Camiseta Whi al 25.28 % de descuento'
-date: 2021-01-20 03:25:34
+date: 2021-01-21 09:19:22
 image: 'https://m.media-amazon.com/images/I/21b-mEXUtNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07XD5RWH2-es Levi s Kids Lvb Batwing Tee Camiseta White para Niños'
+sku: 'B07XD5RWH2-es'
 tags: [ 'camiseta', ]
 actualPrice: 13.45 EUR
 currency: EUR
