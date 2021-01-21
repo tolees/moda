@@ -27,8 +27,8 @@ Tienes [Levi s The Jacket Chaqueta vaquera  Triad Trucker  XXL para Hombre](http
 
 🔎:
 
-- Manga larga con cierre de botón en los puños
-- Bajo ajustable en el lateral
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Bajo ajustable en el lateral
+- Manga larga con cierre de botón en los puños
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0886TW9BS/?tag=tolees-21)
