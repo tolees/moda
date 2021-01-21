@@ -27,8 +27,8 @@ Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   M
 
 ℹ️:
 
-- Capucha con cordón
 - Bolsillo canguro
+- Capucha con cordón
 - Ajuste regular
 - Lavar a la maquina
 
