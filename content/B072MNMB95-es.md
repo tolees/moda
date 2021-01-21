@@ -27,8 +27,8 @@ Tienes [Levi s Sportswear Logo Graphic - Camiseta para Hombre  Blanco  84 Sports
 
 ℹ️:
 
-- Fabricada en tejido ligero
 - Modelo casual
+- Fabricada en tejido ligero
 - Con el logotipo deportivo de Levis
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072MNMB95/?tag=tolees-21)
