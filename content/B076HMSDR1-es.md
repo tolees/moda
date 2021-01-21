@@ -1,33 +1,35 @@
 ---
 layout: post
-title: 'adidas CORE18 Hoody Sudadera con Capucha al 35.11 % de descuento'
-date: 2021-01-08 09:11:44
+title: 'adidas CORE18 Hoody Sudadera con Capucha al 40.01 % de descuento'
+date: 2021-01-21 16:49:28
 image: 'https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HMSDR1-es'
-actualPrice: 25.95 EUR
+slug: 'B076HMSDR1-es adidas CORE18 Hoody Sudadera con Capucha Hombre Negro...'
+sku: 'B076HMSDR1-es'
+tags: [ 'sudadera', ]
+actualPrice: 23.99 EUR
 currency: EUR
-price: 25.95
+price: 23.99
 comparePrice: 39.99 EUR
 prodname: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   M'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21'
-descuento: '35.11'
-average: '24.784'
+descuento: '40.01'
+average: '24.651666666666667'
 ---
 
-Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   M](https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21) con 35.11 de descuento por 25.95 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   M](https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21) con 40.01 de descuento por 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg)](https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21)
 
 ℹ️:
 
-- Lavar a la maquina
 - Capucha con cordón
+- Lavar a la maquina
 - Ajuste regular
 - Bolsillo canguro
 
-[Ver la oferta!!](https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21)

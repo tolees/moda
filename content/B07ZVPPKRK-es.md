@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s The Perfect tee Camiseta  negro  S para Mujer](https:
 🔎:
 
 - Con tacto suave de forro polar
-- Modelo casual
 - Tiene estampado la marca Levis
+- Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVPPKRK/?tag=tolees-21)

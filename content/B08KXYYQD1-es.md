@@ -27,10 +27,10 @@ Está [Jack & Jones JJEBASIC Sweat Hood Noos Sudadera con Capucha  Aqua Blanquea
 
 ℹ️:
 
-- Sudadera con capucha
-- Jersey sencillo
 - Sudadera con capucha de algodón
 - Sudadera con capucha de material sostenible
+- Sudadera con capucha
 - Sudadera con capucha de color liso
+- Jersey sencillo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KXYYQD1/?tag=tolees-21)

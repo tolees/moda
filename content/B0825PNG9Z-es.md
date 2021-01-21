@@ -27,11 +27,11 @@ Tienes [GEOX B EACH BOY A DK NAVY Baby Boys  First Walking Shoes Sneaker size 23
 
 🔎:
 
-- Tipo de talla: Los zapatos Geox son holgados
-- Cierre: Velcro
 - Material de la suela: Caucho
-- Material exterior: Ante
-- Revestimiento: Cuero
+- Tipo de talla: Los zapatos Geox son holgados
 - Altura del tacón: 2 centímetros
+- Material exterior: Ante
+- Cierre: Velcro
+- Revestimiento: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0825PNG9Z/?tag=tolees-21)
