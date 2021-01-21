@@ -27,12 +27,12 @@ En este momento está [Geox D Felicity D  Botas Altas Mujer  Negro  Black C9999 
 
 🔎:
 
-- Material de la suela: Sintético
 - Tipo de tacón: Plano
-- Material exterior: Cuero
-- Cierre: Cremallera
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Altura del tacón: 3.5 centímetros
 - Revestimiento: Lona
+- Material exterior: Cuero
+- Material de la suela: Sintético
+- Altura del tacón: 3.5 centímetros
+- Cierre: Cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0792FKCV8/?tag=tolees-21)
