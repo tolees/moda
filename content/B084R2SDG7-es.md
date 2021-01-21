@@ -27,10 +27,10 @@ Ahora mismo tienes [G-STAR RAW Meefic Quilted Jkt Chaqueta  Mazarine Blue C360-4
 
 🔎:
 
-- Cuello alzado con interior acanalado
 - Diseño acolchado
+- Cuello alzado con interior acanalado
+- Manga larga recta insertada con puño elástico
 - Capucha incorporada cogida detrás del cierre a presión en el cuello
 - Bolsillos con ribete tejido y cierre a presión en la cintura
-- Manga larga recta insertada con puño elástico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084R2SDG7/?tag=tolees-21)

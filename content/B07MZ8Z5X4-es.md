@@ -27,7 +27,7 @@ Tienes [Jack & Jones JJIMARCO JJBOWIE SA White Pepper STS Pantalón  W32/L30 par
 
 🔎:
 
-- comfortable pant in chino fit
 - elastic cotton fabric
+- comfortable pant in chino fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MZ8Z5X4/?tag=tolees-21)
