@@ -27,10 +27,10 @@ Está [The Reading Glasses Company Gris Sólido Corto De Vista Gafas Distancia M
 
 ℹ️:
 
+- Solid acabado en gris.
 - Diseño de marco robusto con bisagras de resorte.
+- Para la miopía / hipermetropía cerca.
 - Elegante hombres / mujeres / unisexo distance gafas.
 - Potencia óptica -2,50 (dioptrías negativas).
-- Para la miopía / hipermetropía cerca.
-- Solid acabado en gris.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JQV1H81/?tag=tolees-21)
