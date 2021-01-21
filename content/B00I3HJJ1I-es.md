@@ -27,10 +27,10 @@ Está [Smiffy S 40065Xs Disfraz De Capitana De Animadora Con Vestido Y Pompones 
 
 ℹ️:
 
-- Incluye Disfraz de capitana de animadora, rojo, con vestido y pompones
 - Smiffys es un proveedor líder de disfraces y una empresa familiar con una herencia de 123 años en disfraces, pelucas, maquillaje y accesorios
-- Busto 325-335" / cintura 245-255" / cadera 35-36" / entrepiernas 3225"
+- Incluye Disfraz de capitana de animadora, rojo, con vestido y pompones
 - Nuestro equipo interno de seguridad asegura que todos nuestros productos son manufaturados y rigurosamente testados para cumplir con los estándares y regulamentos europeos y americanos de seguridad
 - Tenga en cuenta que todos nuestros productos Smiffys siempre vienen en un empaque completo con la marca Smiffys
+- Busto 325-335" / cintura 245-255" / cadera 35-36" / entrepiernas 3225"
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00I3HJJ1I/?tag=tolees-21)

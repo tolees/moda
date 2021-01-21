@@ -27,8 +27,8 @@ Ahora mismo tienes [Hackett London Garment Dye LN BS Camisa de Oficina  Azul  51
 
 🔎:
 
+- Corte estándar
 - manga larga
 - Lino
-- Corte estándar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VB4R7ST/?tag=tolees-21)
