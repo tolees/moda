@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Vaqueros  East Lake Adv  con un 57.68 % de descuento'
-date: 2021-01-19 13:23:39
+date: 2021-01-21 14:38:21
 image: 'https://m.media-amazon.com/images/I/41x+FBVk4rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLJT18-es Levi s 511 Slim Vaqueros East Lake Adv 26W / 30L para Hombre'
-tags: [ 'tole.es','vaqueros', ]
+sku: 'B07RZLJT18-es'
+tags: [ 'vaqueros', ]
 actualPrice: 48.67 EUR
 currency: EUR
 price: 48.67
@@ -17,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RZLJT18/?tag=tolees-21'
 descuento: '57.68'
-average: '78.08787878787882'
+average: '76.40685714285718'
 ---
 
 En este momento está [Levi s 511 Slim Vaqueros  East Lake Adv  26W / 30L para Hombre](https://www.amazon.es/dp/B07RZLJT18/?tag=tolees-21) a 48.67 EUR (original: 115.0 EUR) (57.68 %  de descuento) en el siguiente enlace!
@@ -27,7 +28,7 @@ En este momento está [Levi s 511 Slim Vaqueros  East Lake Adv  26W / 30L para H
 🔎:
 
 - Corte ajustado de la cadera al tobillo
-- Diseño de cinco bolsillos
 - Estilo esbelto con confort añadido
+- Diseño de cinco bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RZLJT18/?tag=tolees-21)

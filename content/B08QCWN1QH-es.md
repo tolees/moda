@@ -28,7 +28,7 @@ Está [Geographical Norway Parka BOOMERANG hombre NEGRO talla M](https://www.ama
 ℹ️:
 
 - Capucha
-- pelo destomtable
 - Chaqueta de hombre
+- pelo destomtable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QCWN1QH/?tag=tolees-21)
