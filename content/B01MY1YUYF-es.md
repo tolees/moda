@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'oodji Ultra Mujer Blusa Ancha con Escote al 18.75 % de descuento'
-date: 2021-01-20 07:03:56
+date: 2021-01-21 07:14:02
 image: 'https://m.media-amazon.com/images/I/41sEDS2z9nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01MY1YUYF-es oodji Ultra Mujer Blusa Ancha con Escote Gota en la...'
+sku: 'B01MY1YUYF-es'
 tags: [ 'blusa', ]
 actualPrice: 7.8 EUR
 currency: EUR
@@ -26,10 +27,10 @@ Está [oodji Ultra Mujer Blusa Ancha con Escote Gota en la Espalda  Verde  ES 34
 
 ℹ️:
 
-- Estilo de ropa: Ceremonia
-- Longitud de espalda (talla M): 60,5cm
-- Elegante blusa holgada con cuello redondo y cierre de botón con pequeño escote ojal en la espalda
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 - Cómoda blusa ideal para celebraciones y ocasiones especiales
+- Longitud de espalda (talla M): 60,5cm
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
+- Elegante blusa holgada con cuello redondo y cierre de botón con pequeño escote ojal en la espalda
+- Estilo de ropa: Ceremonia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MY1YUYF/?tag=tolees-21)
