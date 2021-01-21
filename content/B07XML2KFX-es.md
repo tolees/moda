@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'YOINS Camiseta Mujer de Manga Larga Blus al 25.01 % de descuento'
-date: 2021-01-20 06:42:46
+date: 2021-01-21 22:59:12
 image: 'https://m.media-amazon.com/images/I/51OYHzxFRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07XML2KFX-es YOINS Camiseta Mujer de Manga Larga Blusa con Hombros...'
+sku: 'B07XML2KFX-es'
 tags: [ 'blusa','camisa','camiseta', ]
 actualPrice: 26.99 EUR
 currency: EUR
@@ -17,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07XML2KFX/?tag=tolees-21'
 descuento: '25.01'
-average: '24.38130434782608'
+average: '24.489999999999995'
 ---
 
 Ahora mismo tienes [YOINS Camiseta Mujer de Manga Larga Blusa con Hombros Fríos Camisa Casual Camisetas a Rayas Cuello Redondo Imprimiendo Pullover Azul-Nuevo EU46](https://www.amazon.es/dp/B07XML2KFX/?tag=tolees-21) a 26.99 EUR (original: 35.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
