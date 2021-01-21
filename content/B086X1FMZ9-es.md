@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'FM London Hipster Bóxer  Negro  XL  11-1 al 15.01 % de rebaja'
-date: 2021-01-14 12:00:50
+date: 2021-01-21 20:04:06
 image: 'https://m.media-amazon.com/images/I/31uloqHBEKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086X1FMZ9-es'
+slug: 'B086X1FMZ9-es FM London Hipster Bóxer Negro XL 11-12 Paquete de 8 para...'
+sku: 'B086X1FMZ9-es'
+tags: [ 'bóxer', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
