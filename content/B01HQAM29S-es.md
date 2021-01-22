@@ -27,9 +27,9 @@ Tienes [Crocs Crocband  Zuecos Unisex Adulto  Azul  Blue/Yellow   46/47 EU](http
 
 🔎:
 
-- Material exterior: sintético.
-- Cierre: sin cierre.
 - Forro: sin forro.
+- Cierre: sin cierre.
+- Material exterior: sintético.
 - Tacón: plano; composición del material: 100 % Croslite.
 - Material de la suela: goma.
 
