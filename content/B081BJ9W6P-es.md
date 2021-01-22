@@ -29,8 +29,8 @@ Está [Columbia Powder Pass Chaqueta Híbrida sin Mangas  Hombre  Verde  New Oli
 
 - Protector de barbilla para una mayor protección contra los elementos
 - Chaqueta de Columbia para hombre resistente al agua, Construcción híbrida
-- Ajuste óptimo gracias al dobladillo ajustable con cordón
 - Contenido: 1 x Columbia Powder Pass, Chaqueta para hombre, Verde (New Olive Heather), L, Poliéster, 1894312
 - Bolsillos con cremallera óptimas para mantener las manos calientes y las pertenencias seguras
+- Ajuste óptimo gracias al dobladillo ajustable con cordón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081BJ9W6P/?tag=tolees-21)

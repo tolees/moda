@@ -27,7 +27,7 @@ Tienes [PUMA Epic Flip V2  Chanclas Unisex Adulto  Negro  Black/White   48.5 EU]
 
 🔎:
 
-- adulto
 - Negro
+- adulto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B015OK0D9I/?tag=tolees-21)
