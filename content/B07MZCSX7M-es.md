@@ -27,7 +27,7 @@ Ahora mismo tienes [Jack & Jones JJIMARCO JJBOWIE SA White Pepper STS Pantalón 
 
 🔎:
 
-- elastic cotton fabric
 - comfortable pant in chino fit
+- elastic cotton fabric
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MZCSX7M/?tag=tolees-21)
