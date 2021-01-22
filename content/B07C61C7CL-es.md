@@ -27,8 +27,8 @@ Ahora mismo tienes [Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Gris  Lig
 
 🔎:
 
+- Diseñador: JACK&JONES
 - Artículo: 12138115 SHERIDAN
 - Temporada: Primavera-verano.
-- Diseñador: JACK&JONES
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C61C7CL/?tag=tolees-21)

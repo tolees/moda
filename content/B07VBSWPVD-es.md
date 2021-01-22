@@ -29,7 +29,7 @@ Ahora mismo tienes [Hurley M Siro Boxed Gradient S/S Camiseta  Hombre  Black Hea
 
 - Estilo: M Siro Boxed Gradient
 - Serigrafiado suave al tacto
-- Instrucciones de cuidado: lavar a máquina
 - Diseño jaspeado para ofrecer una elasticidad y un patrón únicos
+- Instrucciones de cuidado: lavar a máquina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VBSWPVD/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Hawiton Pijamas Navidad para Familias Pijama Mujer Hombre Niños Niña In
 ℹ️:
 
 - ♛♛【Diseño】Pijamas de navidad para familias + cuello redondo clásico + elementos clásicos de navidad + manga larga + pijamas de invierno cálido + regalo perfecto para la navidad. Estilos disponibles para los hombres, mujeres, niños.
-- ♛♛【Tamaño】Hecho en la UE. Para mamá y papá: S-M-L-XL-XXL. Para niños: 2-4-6-8-10 años de edad. El pijamas navidad familiar se recomienda lavar a mano y lavar a máquina en la bolsa de la colada.
 - ♛♛【Material】Poliéster. Nuestros pijamas navideños familiares están hechos de tela cómoda y ligera. Perfecto para fotos de la mañana de Navidad, descansar en la noche de cine, tradiciones de regalos y desayuno con Santa.
+- ♛♛【Tamaño】Hecho en la UE. Para mamá y papá: S-M-L-XL-XXL. Para niños: 2-4-6-8-10 años de edad. El pijamas navidad familiar se recomienda lavar a mano y lavar a máquina en la bolsa de la colada.
 - ♛♛【Nota】Debe comprar el conjunto de pijamas para papá, mamá y niños por separado. Ordene uno, solo puede recibir un pijama, no la combinación de conjuntos de pijamas familiares.
 - ♛♛【Acerca de nosotros】Prestamos atención a los detalles y elaboramos cuidadosamente cada pijamas, con el objetivo de proporcionar los mejores productos para todos nuestros clientes. Por favor, no dude en contactarnos si tiene algún problema!
 
