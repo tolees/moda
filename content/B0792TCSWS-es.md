@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Geox D Felicity D  Botas Altas Mujer  Ne al 44.00 % de descuento'
-date: 2021-01-21 13:09:13
+title: 'Geox D Felicity D  Botas Altas Mujer  Ne al 23.99 % de descuento'
+date: 2021-01-22 14:29:24
 image: 'https://m.media-amazon.com/images/I/31kSdpS1vWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: ring
 slug: 'B0792TCSWS-es Geox D Felicity D Botas Altas Mujer Negro Black C9999 39 EU'
 sku: 'B0792TCSWS-es'
 tags: [ 'geox', ]
-actualPrice: 86.8 EUR
+actualPrice: 117.81 EUR
 currency: EUR
-price: 86.8
+price: 117.81
 comparePrice: 155.0 EUR
 prodname: 'Geox D Felicity D  Botas Altas Mujer  Negro  Black C9999   39 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792TCSWS/?tag=tolees-21'
-descuento: '44.00'
-average: '86.8'
+descuento: '23.99'
+average: '102.305'
 ---
 
-Ahora mismo tienes [Geox D Felicity D  Botas Altas Mujer  Negro  Black C9999   39 EU](https://www.amazon.es/dp/B0792TCSWS/?tag=tolees-21) a 86.8 EUR (original: 155.0 EUR) (44.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Geox D Felicity D  Botas Altas Mujer  Negro  Black C9999   39 EU](https://www.amazon.es/dp/B0792TCSWS/?tag=tolees-21) a 117.81 EUR (original: 155.0 EUR) (23.99 %  de descuento) en el siguiente enlace!
 
 [![Geox D Felicity D  Botas Altas Mujer  Ne](https://m.media-amazon.com/images/I/31kSdpS1vWL._SL200_.jpg)](https://www.amazon.es/dp/B0792TCSWS/?tag=tolees-21)
 
 🔎:
 
-- Material de la suela: Sintético
 - Altura del tacón: 3.5 centímetros
 - Material exterior: Cuero
-- Tipo de tacón: Plano
-- Cierre: Cremallera
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Cierre: Cremallera
 - Revestimiento: Lona
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792TCSWS/?tag=tolees-21)
