@@ -1,26 +1,27 @@
 ---
 layout: post
-title: 'Columbia Peakfreak X2 Outdry  Zapatos de al 19.21 % de descuento'
-date: 2021-01-20 00:29:29
+title: 'Columbia Peakfreak X2 Outdry  Zapatos de al 34.17 % de descuento'
+date: 2021-01-22 06:07:22
 image: 'https://m.media-amazon.com/images/I/31kxU3+FyGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KJVRWKR-es Columbia Peakfreak X2 Outdry Zapatos de Senderismo para...'
+sku: 'B07KJVRWKR-es'
 tags: [ 'zapatos', ]
-actualPrice: 96.94 EUR
+actualPrice: 78.99 EUR
 currency: EUR
-price: 96.94
+price: 78.99
 comparePrice: 119.99 EUR
 prodname: 'Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Hombre  Black  Ti Grey Steel  43 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJVRWKR/?tag=tolees-21'
-descuento: '19.21'
-average: '89.63999999999999'
+descuento: '34.17'
+average: '86.97749999999999'
 ---
 
-Ahora mismo tienes [Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Hombre  Black  Ti Grey Steel  43 EU](https://www.amazon.es/dp/B07KJVRWKR/?tag=tolees-21) a 96.94 EUR (original: 119.99 EUR) (19.21 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Hombre  Black  Ti Grey Steel  43 EU](https://www.amazon.es/dp/B07KJVRWKR/?tag=tolees-21) a 78.99 EUR (original: 119.99 EUR) (34.17 %  de descuento) en el siguiente enlace!
 
 [![Columbia Peakfreak X2 Outdry  Zapatos de](https://m.media-amazon.com/images/I/31kxU3+FyGL._SL200_.jpg)](https://www.amazon.es/dp/B07KJVRWKR/?tag=tolees-21)
 
