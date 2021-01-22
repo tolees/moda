@@ -27,10 +27,10 @@ Está [Columbia Element Blocker II Interchange 3 en 1 Chaqueta  Hombre  Negro  M
 
 ℹ️:
 
-- The seam-sealing omni-tech technology combines waterproofness and breathability at the highest level. No matter what the terrain, you stay cool and dry
-- Contents: 1 x Columbia Men’s Element Blocker II Interchange Jacket, 100 Percent nylon 100 Percent nylon 210T taffeta 60g Microtemp XF II 100 Percent polyester 100 Percent polyester microfiber80g Microtemp XF II 100 Percent, Colour: Black, Size: M , Art.No. 1799412
 - The zip pockets keeps your hands warm and you can keep your valuables such as smartphones, etc. safe and secure without them falling out
+- The seam-sealing omni-tech technology combines waterproofness and breathability at the highest level. No matter what the terrain, you stay cool and dry
 - Mens versatile interchange jacket means you have 3 jackets in one, a must-have for every wardrobe
+- Contents: 1 x Columbia Men’s Element Blocker II Interchange Jacket, 100 Percent nylon 100 Percent nylon 210T taffeta 60g Microtemp XF II 100 Percent polyester 100 Percent polyester microfiber80g Microtemp XF II 100 Percent, Colour: Black, Size: M , Art.No. 1799412
 - Optimal fit thanks to drawcord adjustable hem
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DZ6LXMV/?tag=tolees-21)
