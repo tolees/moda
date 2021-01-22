@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'adidas Ask SPRT LST M Camiseta de Manga  al 34.33 % de rebaja'
-date: 2021-01-18 10:12:48
+date: 2021-01-22 20:01:12
 image: 'https://m.media-amazon.com/images/I/41W4TsaEX5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779BCXFD-es'
+slug: 'B0779BCXFD-es adidas Ask SPRT LST M Camiseta de Manga Larga Hombre Dark...'
+sku: 'B0779BCXFD-es'
+tags: [ 'camiseta', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95
