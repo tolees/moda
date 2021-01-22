@@ -27,9 +27,9 @@ Está [Skechers Delson-Antigo  Zapatos de Cordones Oxford Hombre  Marrón  CDB B
 
 ℹ️:
 
+- Material Exterior: Cuero
 - Traer el estilo suave y comodidad en todas partes con la Skechers Delson - calzado antiguo.
 - Hombre Skechers Zapatos Rojo/Marrón
-- Material Exterior: Cuero
 - Skechers Delson Antigo
 - Material Interior: Textil
 
