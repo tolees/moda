@@ -27,11 +27,11 @@ Ahora mismo tienes [Crocs Sloane Embellished Flip  Chanclas para Mujer  Azul  Na
 
 🔎:
 
+- Emelado con piedras de varios colores
+- Comodidad icónica: cojín original de espuma Croslite
+- Los zapatos Crocs mostrarán tallas de EE. UU
 - Las tallas de la suela son estadounidenses. La etiqueta muestra el Reino Unido. M = hombre W = mujer
 - Tamaño medio: talla más pequeña
-- Los zapatos Crocs mostrarán tallas de EE. UU
-- Comodidad icónica: cojín original de espuma Croslite
-- Emelado con piedras de varios colores
 - Cómoda plataforma de 3,17 cm de altura para un poco de elevación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MXZ87CQ/?tag=tolees-21)

@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Tuc Tuc Camiseta Punto BÁSICOS BEBÉ  Ros al 49.95 % de descuento'
-date: 2021-01-12 12:47:31
+date: 2021-01-22 16:46:51
 image: 'https://m.media-amazon.com/images/I/31zrzM69OPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085H2GZTZ-es'
+slug: 'B085H2GZTZ-es Tuc Tuc Camiseta Punto BÁSICOS BEBÉ Rosa 18M para Niñas'
+sku: 'B085H2GZTZ-es'
+tags: [ 'camiseta', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98
@@ -27,4 +29,4 @@ Ahora mismo tienes [Tuc Tuc Camiseta Punto BÁSICOS BEBÉ  Rosa  18M para Niñas
 
 - Camiseta punto básicos bebé
 
-[Visítala!!!](https://www.amazon.es/dp/B085H2GZTZ/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B085H2GZTZ/?tag=tolees-21)

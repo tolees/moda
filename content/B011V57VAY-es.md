@@ -28,8 +28,8 @@ Ahora mismo tienes [PUMA Epic Flip V2  Chanclas Unisex Adulto  Negro  Black/Whit
 🔎:
 
 - Los fracasos de tirón
-- muchos colores
 - sintético
+- muchos colores
 - Puma Logo
 - suela de goma
 

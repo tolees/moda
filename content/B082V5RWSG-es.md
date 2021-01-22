@@ -27,8 +27,8 @@ Tienes [Canadian Peak Abrigo](https://www.amazon.es/dp/B082V5RWSG/?tag=tolees-21
 
 ℹ️:
 
-- 100% Poliéster
 - Otoño - Invierno Temporada 2019
+- 100% Poliéster
 - Temperatura máxima 30º. Lavado y aclarado con acción mecánica y centrifugado corto.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082V5RWSG/?tag=tolees-21)
