@@ -29,8 +29,8 @@ Ahora mismo tienes [Canadian Peak Sudadera DE NIÑA GYRELLE Gris Melange 14](htt
 
 - Bordados de la marca
 - Bolsillo canguro
-- Cuello con cremallera
 - Capucha
 - Puños ajustables
+- Cuello con cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0831Q7TNH/?tag=tolees-21)
