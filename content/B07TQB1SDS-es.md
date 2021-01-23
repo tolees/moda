@@ -27,9 +27,9 @@ Está [Lacoste 5H3390 Bóxer  Azul  Marine/Blanc-Rouge   X-Small  Pack de 3  par
 
 ℹ️:
 
-- No se aceptan cambios ni devoluciones en la ropa interior.
 - Corte que confiere comodidad en todo momento
-- Cintura elástica con marca Lacoste a contraste en todo el contorno
 - Cocodrilo bordado en verde termosellado
+- Cintura elástica con marca Lacoste a contraste en todo el contorno
+- No se aceptan cambios ni devoluciones en la ropa interior.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TQB1SDS/?tag=tolees-21)
