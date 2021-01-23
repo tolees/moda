@@ -27,8 +27,8 @@ Está [Levi s SS Original HM tee Camiseta  Harbor Gray  S para Hombre](https://w
 
 ℹ️:
 
+- Logotipo pequeño de Levis en el pecho
 - Modelo casual
 - Adecuada para el día a día
-- Logotipo pequeño de Levis en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZVQT6JR/?tag=tolees-21)
