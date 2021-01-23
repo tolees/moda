@@ -27,11 +27,11 @@ Tienes [Adidas CORE18 Hoody Y Sudadera  Unisex Niños  Negro/Blanco  128](https:
 
 🔎:
 
-- Con un pequeño logotipo de Adidas en el pecho
-- Cuello de pico de canalé.
-- Bolsillos tipo parche en el pecho.
-- Tejido técnico que acompaña el movimiento natural del cuerpo.
-- Diseño a rayas del mismo tono.
 - Confeccionada parcialmente en tejido reciclado.
+- Diseño a rayas del mismo tono.
+- Bolsillos tipo parche en el pecho.
+- Cuello de pico de canalé.
+- Tejido técnico que acompaña el movimiento natural del cuerpo.
+- Con un pequeño logotipo de Adidas en el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HQPD9Y/?tag=tolees-21)
