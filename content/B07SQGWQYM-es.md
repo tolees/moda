@@ -1,31 +1,38 @@
 ---
 layout: post
-title: 'Geox D Nebula B  Zapatillas sin Cordones al 66.21 % de descuento'
-date: 2020-06-30 03:56:39
+title: 'Geox D Nebula B  Zapatillas sin Cordones al 50.00 % de descuento'
+date: 2021-01-23 16:50:42
 image: 'https://m.media-amazon.com/images/I/41MMTZ5D+QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGWQYM-es Geox D Nebula B Zapatillas sin Cordones para Mujer Rojo...'
+slug: 'B07SQGWQYM-es Geox D Nebula B Zapatillas sin Cordones Mujer Rojo Red...'
 sku: 'B07SQGWQYM-es'
 tags: [ 'geox', ]
-actualPrice: 43.89 EUR
+actualPrice: 64.95 EUR
 currency: EUR
-price: 43.89
+price: 64.95
 comparePrice: 129.9 EUR
-prodname: 'Geox D Nebula B  Zapatillas sin Cordones para Mujer  Rojo  Red C7000   36 EU'
+prodname: 'Geox D Nebula B  Zapatillas sin Cordones Mujer  Rojo  Red C7000   36 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SQGWQYM/?tag=tolees-21'
-descuento: '66.21'
-average: '43.89'
+descuento: '50.00'
+average: '54.42'
 ---
 
-Ahora mismo tienes [Geox D Nebula B  Zapatillas sin Cordones para Mujer  Rojo  Red C7000   36 EU](https://www.amazon.es/dp/B07SQGWQYM/?tag=tolees-21) a 43.89 EUR (original: 129.9 EUR) (66.21 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Geox D Nebula B  Zapatillas sin Cordones Mujer  Rojo  Red C7000   36 EU](https://www.amazon.es/dp/B07SQGWQYM/?tag=tolees-21) a 64.95 EUR (original: 129.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Geox D Nebula B  Zapatillas sin Cordones](https://m.media-amazon.com/images/I/41MMTZ5D+QL._SL200_.jpg)](https://www.amazon.es/dp/B07SQGWQYM/?tag=tolees-21)
 
 🔎:
 
+- Cierre: Sin cordones
+- Altura del tacón: 3 centímetros
+- Revestimiento: Malla
+- Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Material exterior: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SQGWQYM/?tag=tolees-21)

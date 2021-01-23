@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s HR Decon Iconic BF Skirt Falda  B al 49.83 % de rebaja'
-date: 2021-01-22 08:06:57
+date: 2021-01-23 15:49:56
 image: 'https://m.media-amazon.com/images/I/411mrNQQC9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TJGC4BG/?tag=tolees-21'
 descuento: '49.83'
-average: '26.956999999999994'
+average: '27.4709090909091'
 ---
 
 Tienes [Levi s HR Decon Iconic BF Skirt Falda  Blue  High Plains 0011   One Size  Size: 24  para Mujer](https://www.amazon.es/dp/B07TJGC4BG/?tag=tolees-21) con precio final de  32.61 EUR (original: 65.0 EUR) (49.83 %  de rebaja) aqui!

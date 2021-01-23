@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Clarks Kendra Sienna  Zapatos de Tacón M al 49.99 % de rebaja'
-date: 2021-01-18 08:30:59
+date: 2021-01-23 15:49:37
 image: 'https://m.media-amazon.com/images/I/41tiQJ7C4+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9JMUOA-es'
+slug: 'B01K9JMUOA-es Clarks Kendra Sienna Zapatos de Tacón Mujer Gris Grey 39.5 EU'
+sku: 'B01K9JMUOA-es'
+tags: [ 'zapatos', ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K9JMUOA/?tag=tolees-21'
 descuento: '49.99'
-average: '40.19176470588235'
+average: '41.2221052631578'
 ---
 
 Tienes [Clarks Kendra Sienna  Zapatos de Tacón Mujer  Gris  Grey   39.5 EU](https://www.amazon.es/dp/B01K9JMUOA/?tag=tolees-21) con precio final de  49.98 EUR (original: 99.95 EUR) (49.99 %  de rebaja) aqui!

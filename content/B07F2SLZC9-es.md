@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Left Chest Logo tee Camiseta  Azul  al 40.25 % de rebaja'
-date: 2021-01-21 08:27:32
+date: 2021-01-23 15:44:08
 image: 'https://m.media-amazon.com/images/I/31Fhe6mDxXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Tienes [Vans Left Chest Logo tee Camiseta  Azul  Navy-White Blue Navy   Medium p
 
 🔎:
 
-- Camiseta de 185 g
 - 100 % algodón
+- Camiseta de 185 g
 - Corte entallado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F2SLZC9/?tag=tolees-21)
