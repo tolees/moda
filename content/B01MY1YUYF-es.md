@@ -27,10 +27,10 @@ Está [oodji Ultra Mujer Blusa Ancha con Escote Gota en la Espalda  Verde  ES 34
 
 ℹ️:
 
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
+- Estilo de ropa: Ceremonia
 - Elegante blusa holgada con cuello redondo y cierre de botón con pequeño escote ojal en la espalda
 - Longitud de espalda (talla M): 60,5cm
-- Estilo de ropa: Ceremonia
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 - Cómoda blusa ideal para celebraciones y ocasiones especiales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MY1YUYF/?tag=tolees-21)

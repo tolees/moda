@@ -27,8 +27,8 @@ Está [Vero Moda VMLADY L/S G-String Shirt Noos Blusas  Color Blanco Nieve  M pa
 
 ℹ️:
 
-- Corte estándar
 - Este body de Vero Moda, ofrece la mejor comodidad y un ajuste siempre perfecto. La blusa clásica de negocios está unida al dobladillo con una braguita ajustable. Así que nunca más te ocurre que la blusa se arruga fuera de los pantalones.
+- Corte estándar
 - El modelo de una mezcla de fibras suave y agradable a la piel está provisto de un porcentaje elástico para que se adapte a tus movimientos. Las pinzas en la parte delantera proporcionan un ajuste ceñido.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016XVPKVI/?tag=tolees-21)
