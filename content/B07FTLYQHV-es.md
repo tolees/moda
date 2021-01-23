@@ -27,7 +27,7 @@ Ahora mismo tienes [adidas Run IT tee 3S W Camiseta  Mujer  Negro  Black/White  
 
 🔎:
 
-- Cuello "V"
 - Corte clásico
+- Cuello "V"
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FTLYQHV/?tag=tolees-21)

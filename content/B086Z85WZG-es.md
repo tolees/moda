@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 60.00 % en Levi s Kids Lvn Color Block Puffer I Cha'
-date: 2021-01-17 10:41:26
+date: 2021-01-23 20:36:11
 image: 'https://m.media-amazon.com/images/I/41lERiPi3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086Z85WZG-es'
+slug: 'B086Z85WZG-es Levi s Kids Lvn Color Block Puffer I Chaqueta Bebé-Niños...'
+sku: 'B086Z85WZG-es'
+tags: [ 'chaqueta', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0
