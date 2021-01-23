@@ -27,9 +27,9 @@ En este momento está [Quiksilver Jungle Jim - Camiseta para Hombre Camiseta  Ho
 
 🔎:
 
-- Serigrafía estampada en el pecho
 - Cuello: Cuello redondo
-- Corte: Corte normal, clásico, cómodo
 - Tejido: punto jersey de algodón ligero
+- Corte: Corte normal, clásico, cómodo
+- Serigrafía estampada en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0893QHSJV/?tag=tolees-21)
