@@ -27,8 +27,8 @@ En este momento está [Lee Malone Vaqueros  Clean Dk Union  34W / 34L para Hombr
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
 - Presentan 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082XSR3DY/?tag=tolees-21)

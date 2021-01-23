@@ -29,7 +29,7 @@ En este momento está [Quiksilver Scaly - Chaqueta Aislante Con Capucha Para Hom
 
 - Bolsillos: bolsillos con cremallera oculto; cierre: cierre de cremallera en la parte frontal con Solapa y cierre de cinta adhesiva
 - Capucha: capucha fija de 3 paneles; tejido interior: interior de tafetán
-- Tejido: tejido de poliéster [73 g/M2]; corte: corte normal, clásico, cómodo
 - Acabado elástico en puños y bajos; cordón de ajuste en la capucha
+- Tejido: tejido de poliéster [73 g/M2]; corte: corte normal, clásico, cómodo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0893XQD8B/?tag=tolees-21)

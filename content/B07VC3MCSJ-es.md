@@ -27,8 +27,8 @@ En este momento está [BOSS Tchup Camiseta  Azul  Bright Blue 435   Large para H
 
 🔎:
 
-- Longitud estándar
 - Esta camiseta informal para hombre tiene un logotipo de cinco letras en el pecho
 - Corte holgado
+- Longitud estándar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VC3MCSJ/?tag=tolees-21)

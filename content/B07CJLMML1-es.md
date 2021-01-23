@@ -27,7 +27,7 @@ Está [Only Onltahoe Hood Jacket Otw Noos Chaqueta  Rosa  Misty Rose Misty Rose 
 
 ℹ️:
 
-- Quilted jacket with hood
 - Padded outdoor jacket
+- Quilted jacket with hood
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CJLMML1/?tag=tolees-21)

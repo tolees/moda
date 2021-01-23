@@ -27,8 +27,8 @@ Tienes [Vans Left Chest Logo tee Camiseta  Azul  Navy-White Blue Navy   Medium p
 
 🔎:
 
+- Corte entallado
 - 100 % algodón
 - Camiseta de 185 g
-- Corte entallado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F2SLZC9/?tag=tolees-21)

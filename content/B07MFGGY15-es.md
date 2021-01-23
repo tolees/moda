@@ -27,8 +27,8 @@ Tienes [PUMA ESS Logo tee B Camiseta  Niños  High Risk Red  128](https://www.am
 
 ℹ️:
 
-- Logo de PUMA en la parte delantera
 - Corte estándar
+- Logo de PUMA en la parte delantera
 - Cuello redondo de canalé
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MFGGY15/?tag=tolees-21)

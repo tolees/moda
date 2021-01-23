@@ -27,11 +27,11 @@ Ahora mismo tienes [Adidas CORE18 Hoody Y Sudadera con Capucha  Unisex Niños  N
 
 🔎:
 
-- Con bolsillo de tipo canguro
-- Diseño a rayas del mismo tono.
-- Bolsillos tipo parche en el pecho.
 - Confeccionada parcialmente en tejido reciclado.
 - Cuello de pico de canalé.
+- Bolsillos tipo parche en el pecho.
+- Diseño a rayas del mismo tono.
 - Tejido técnico que acompaña el movimiento natural del cuerpo.
+- Con bolsillo de tipo canguro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HQZ6R2/?tag=tolees-21)
