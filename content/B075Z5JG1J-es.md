@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmhot Nine HW Dnm Pencil Skirt al 40.02 % de descuento'
-date: 2020-08-22 15:02:04
+date: 2021-01-24 21:33:36
 image: 'https://m.media-amazon.com/images/I/41nCE3b0xFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,5 +27,7 @@ Está [Vero Moda Vmhot Nine HW Dnm Pencil Skirt Mix Noos Falda  Azul  Medium Blu
 
 ℹ️:
 
+- pencilskirt- elastic
+- high-waist denim skirt
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075Z5JG1J/?tag=tolees-21)
