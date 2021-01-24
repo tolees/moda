@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Jacqueline de Yong NOS Jdyerica Short Pa al 30.01 % de descuento'
-date: 2021-01-10 17:55:18
+date: 2021-01-24 19:04:26
 image: 'https://m.media-amazon.com/images/I/41xA-UMFQ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLDDTJ2-es'
+slug: 'B07SLDDTJ2-es Jacqueline de Yong NOS Jdyerica Short Padded Jacket Otw...'
+sku: 'B07SLDDTJ2-es'
+tags: [ 'chaqueta', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99
@@ -28,4 +30,4 @@ Ahora mismo tienes [Jacqueline de Yong NOS Jdyerica Short Padded Jacket Otw Noos
 - Between-season-jacket with stand-up collar
 - Plain padded jacket with zip closure
 
-[Visítala!!!](https://www.amazon.es/dp/B07SLDDTJ2/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B07SLDDTJ2/?tag=tolees-21)
