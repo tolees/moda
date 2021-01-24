@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Columbia Peakfreak Venture Zapatos imper al 50.00 % de descuento'
-date: 2021-01-14 11:31:34
+date: 2021-01-24 13:55:13
 image: 'https://m.media-amazon.com/images/I/41jeRp-aPZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q7EUSNW-es'
+slug: 'B00Q7EUSNW-es Columbia Peakfreak Venture Zapatos impermeables para...'
+sku: 'B00Q7EUSNW-es'
+tags: [ 'zapatos', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99
@@ -25,13 +27,13 @@ Ahora mismo tienes [Columbia Peakfreak Venture Zapatos impermeables para hombre 
 
 🔎:
 
-- Revestimiento: Sintético
-- Material exterior: Cuero
 - Material de la suela: Caucho
+- Composición: Cuero/Malla
+- Anchura del zapato: Normal
 - Altura del tacón: 1 centímetros
 - Tipo de tacón: Plano
-- Anchura del zapato: Normal
-- Composición: Cuero/Malla
+- Material exterior: Cuero
+- Revestimiento: Sintético
 - Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00Q7EUSNW/?tag=tolees-21)
