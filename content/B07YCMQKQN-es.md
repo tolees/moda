@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvb Batwing Screenprint Hood al 42.40 % de descuento'
-date: 2021-01-23 05:54:46
+date: 2021-01-24 05:55:18
 image: 'https://m.media-amazon.com/images/I/316K2Cw4CcL._SL200_.jpg'
 comments: true
 category: ofertas

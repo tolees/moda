@@ -1,37 +1,39 @@
 ---
 layout: post
-title: 'Descuento del 37.89 % en Timberland Bradstreet Leather Sensorflex'
-date: 2021-01-11 08:48:08
+title: 'Descuento del 37.20 % en Timberland Bradstreet Leather Sensorflex'
+date: 2021-01-24 05:25:51
 image: 'https://m.media-amazon.com/images/I/31LKGEgxcnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015GZOYPA-es'
-actualPrice: 86.95 EUR
+slug: 'B015GZOYPA-es Timberland Bradstreet Leather Sensorflex Botas Chukka...'
+sku: 'B015GZOYPA-es'
+tags: [ 'timberland', ]
+actualPrice: 87.92 EUR
 currency: EUR
-price: 86.95
+price: 87.92
 comparePrice: 140.0 EUR
 prodname: 'Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Marrón MD Brown Full Grain  42 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015GZOYPA/?tag=tolees-21'
-descuento: '37.89'
-average: '82.7051851851852'
+descuento: '37.20'
+average: '83.0648275862069'
 ---
 
-Tienes [Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Marrón MD Brown Full Grain  42 EU](https://www.amazon.es/dp/B015GZOYPA/?tag=tolees-21) con un 37.89 % de descuento con precio de oferta de 86.95 EUR (original: 140.0 EUR) en el siguiente enlace!
+Tienes [Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Marrón MD Brown Full Grain  42 EU](https://www.amazon.es/dp/B015GZOYPA/?tag=tolees-21) con un 37.20 % de descuento con precio de oferta de 87.92 EUR (original: 140.0 EUR) en el siguiente enlace!
 
 [![Timberland Bradstreet Leather Sensorflex](https://m.media-amazon.com/images/I/31LKGEgxcnL._SL200_.jpg)](https://www.amazon.es/dp/B015GZOYPA/?tag=tolees-21)
 
 ℹ️:
 
-- Anchura del zapato: Normal
+- Tipo de tacón: Plano
 - Revestimiento: Tela
-- Material de la suela: Caucho
 - Composición: Cuero
 - Cierre: Cordones
-- Material exterior: Cuero
+- Material de la suela: Caucho
 - Altura del tacón: 2 centímetros
-- Tipo de tacón: Plano
+- Material exterior: Cuero
+- Anchura del zapato: Normal
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B015GZOYPA/?tag=tolees-21)
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015GZOYPA/?tag=tolees-21)
