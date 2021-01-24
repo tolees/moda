@@ -28,7 +28,7 @@ Está [adidas Freelift Prime Hoodie Sudadera  Hombre  Negro  Black   S](https://
 ℹ️:
 
 - adidas logo
-- Soft fabric
 - Regular fit
+- Soft fabric
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TS6R6PW/?tag=tolees-21)
