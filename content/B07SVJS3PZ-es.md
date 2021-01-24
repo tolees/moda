@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Geox B Todo Girl C  Zapatillas Niñas  Ro con un 50.00 % de descuento'
-date: 2021-01-04 11:01:50
+date: 2021-01-24 15:47:03
 image: 'https://m.media-amazon.com/images/I/41Wbf9VomXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVJS3PZ-es'
+slug: 'B07SVJS3PZ-es Geox B Todo Girl C Zapatillas Niñas Rosa Pink C8004 24 EU'
+sku: 'B07SVJS3PZ-es'
+tags: [ 'geox', ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5
@@ -25,12 +27,12 @@ En este momento está [Geox B Todo Girl C  Zapatillas Niñas  Rosa  Pink C8004  
 
 🔎:
 
+- Outer Material: Synthetic
+- Heel Height (in centimeters): 2
+- Sole Material: Synthetic
 - Inner Material Type: Textile
 - Insole Material Type: Synthetic/Manmade
 - Heel Type: Flat
 - Closure Type: Velcro
-- Outer Material: Synthetic
-- Sole Material: Synthetic
-- Heel Height (in centimeters): 2
 
-[Aquí!!!](https://www.amazon.es/dp/B07SVJS3PZ/?tag=tolees-21)
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07SVJS3PZ/?tag=tolees-21)

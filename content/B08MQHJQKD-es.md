@@ -27,8 +27,8 @@ En este momento está [Geographical Norway Chaqueta de hombre BOKER AZUL MARINO 
 
 🔎:
 
-- Capucha
 - Chaqueta de hombre
 - pelo destomtable
+- Capucha
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MQHJQKD/?tag=tolees-21)

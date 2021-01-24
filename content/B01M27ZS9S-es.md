@@ -27,10 +27,10 @@ Tienes [Sunny Fashion Vestido para niña Cumpleaños Princesa Volante Fruncido P
 
 🔎:
 
-- lavable a máquina, bajo retroceder seca
 - Vestidos para niña Talla 3 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
+- lavable a máquina, bajo retroceder seca
 - En virtud de la rodilla. Ocultos volver postal
-- Talla: Busto: 58CM, Cintura: 56CM, Longitud: 50CM
 - Poliéster, completa llena de algodón 100%
+- Talla: Busto: 58CM, Cintura: 56CM, Longitud: 50CM
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M27ZS9S/?tag=tolees-21)
