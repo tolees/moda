@@ -27,10 +27,10 @@ Tienes [Napapijri Shelter 3 Chaqueta  Marrón  Kangaroo Brown W051   Medium para
 
 ℹ️:
 
-- Cierre de cremallera
-- Bolsillos con cierre de cremallera
-- Chaqueta mediana
 - Poliamida laminada
+- Bolsillos con cierre de cremallera
+- Cierre de cremallera
+- Chaqueta mediana
 - Bolsillos interiores con botones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VFGGS5S/?tag=tolees-21)

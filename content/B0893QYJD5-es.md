@@ -27,9 +27,9 @@ Tienes [Quiksilver Up To Now - Camiseta para Hombre Camiseta  Hombre  Honey  XS]
 
 ℹ️:
 
-- Cuello: Cuello redondo
-- Tejido: punto jersey de algodón ligero
 - Serigrafía estampada en el pecho
 - Corte: Corte normal, clásico, cómodo
+- Tejido: punto jersey de algodón ligero
+- Cuello: Cuello redondo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0893QYJD5/?tag=tolees-21)
