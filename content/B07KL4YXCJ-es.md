@@ -27,8 +27,8 @@ Tienes [adidas W E Lin Slim T Camiseta de Manga Corta  Mujer  Negro  Black/White
 
 🔎:
 
-- Regular fit
 - Adidas logo
 - Soft fabric
+- Regular fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KL4YXCJ/?tag=tolees-21)
