@@ -27,11 +27,11 @@ Ahora mismo tienes [Crocs Classic Clog  Zuecos Unisex Adulto  Naranja  Tangerine
 
 🔎:
 
-- Material exterior: Espuma
-- Revestimiento: Sin forro
-- Cierre: Tira de tobillo
-- Material de la suela: Sintético
-- Tipo de tacón: Plano
 - Composición: Sintético
+- Material exterior: Espuma
+- Material de la suela: Sintético
+- Cierre: Tira de tobillo
+- Tipo de tacón: Plano
+- Revestimiento: Sin forro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B010WE7UJC/?tag=tolees-21)
