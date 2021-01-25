@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Levi s Ben Touch Screen Gloves  Guantes  al 37.55 % de descuento'
-date: 2021-01-20 17:07:21
+date: 2021-01-25 15:34:33
 image: 'https://m.media-amazon.com/images/I/51nk9UWN5CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00J2SFLKU-es Levi s Ben Touch Screen Gloves Guantes Hombre Negro Black...'
+sku: 'B00J2SFLKU-es'
 tags: [ 'guantes', ]
 actualPrice: 12.49 EUR
 currency: EUR

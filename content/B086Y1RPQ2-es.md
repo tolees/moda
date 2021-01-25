@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Levi s Kids Lvg Crew Sudadera Niñas Blac al 56.80 % de descuento'
-date: 2021-01-16 15:49:06
+date: 2021-01-25 15:20:06
 image: 'https://m.media-amazon.com/images/I/31q6RPrFMrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086Y1RPQ2-es'
+slug: 'B086Y1RPQ2-es Levi s Kids Lvg Crew Sudadera Niñas Black 12 años'
+sku: 'B086Y1RPQ2-es'
+tags: [ 'sudadera', ]
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6
