@@ -27,9 +27,9 @@ En este momento está [Element Alder Puff Fundament - Jacket para Hombre Chaquet
 
 🔎:
 
-- Estilo clásico atemporal con ajuste
-- Producto de la marca Element
 - A prueba de viento y resistente al agua
 - Chaqueta Element de Hombres
+- Estilo clásico atemporal con ajuste
+- Producto de la marca Element
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CJ28LRW/?tag=tolees-21)
