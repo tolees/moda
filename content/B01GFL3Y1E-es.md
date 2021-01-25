@@ -27,10 +27,10 @@ Está [Timberland Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero TB
 
 ℹ️:
 
-- It comes in a branded presentation box.
-- Mens
-- It has a water resistency of 5atm.
 - It has a 2 year manufacturers warranty.
 - Quartz
+- Mens
+- It comes in a branded presentation box.
+- It has a water resistency of 5atm.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GFL3Y1E/?tag=tolees-21)

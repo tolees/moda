@@ -27,9 +27,9 @@ Ahora mismo tienes [Quiksilver Les Tamaris - Sudadera con Capucha Y Cremallera p
 
 🔎:
 
-- Cordón de ajuste en la capucha; bordado en el pecho; lavado: lavado en prenda
-- Cierre con cremallera en la parte frontal; punto canalé en puños, Dobladillo de la parte inferior, acceso del bolsillo y cuello interno
-- Tejido interior: interior cepillado suave; panel en la solapa del pecho; bolsillos: bolsillo amplio
 - Tejido: tejido de gramaje medio mezcla de algodón y poliéster; corte: corte normal, clásico, cómodo; mangas insertadas
+- Cordón de ajuste en la capucha; bordado en el pecho; lavado: lavado en prenda
+- Tejido interior: interior cepillado suave; panel en la solapa del pecho; bolsillos: bolsillo amplio
+- Cierre con cremallera en la parte frontal; punto canalé en puños, Dobladillo de la parte inferior, acceso del bolsillo y cuello interno
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0893RD7TY/?tag=tolees-21)
