@@ -27,8 +27,8 @@ Está [Lee Slim Rider Chaqueta de mezclilla  Negro  Black Rinse 47   Large para 
 
 ℹ️:
 
-- Tiene bordado una etiqueta con el logotipo de la marca
 - Chaqueta para hombre
 - Con 2 bolsillos
+- Tiene bordado una etiqueta con el logotipo de la marca
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MNRR6J6/?tag=tolees-21)

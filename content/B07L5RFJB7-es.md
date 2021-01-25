@@ -27,8 +27,8 @@ Ahora mismo tienes [Element Basic Pocket Label - Camiseta de Manga Corta para Ho
 
 🔎:
 
-- Tela: Tejido de punto de algodón [160 g/m2]
 - Corte: corte normal
 - Bolsillo en el pecho
+- Tela: Tejido de punto de algodón [160 g/m2]
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L5RFJB7/?tag=tolees-21)

@@ -27,8 +27,8 @@ En este momento está [Lee Ivy Vaqueros Skinny  Negro  Washed Black Li   W24/L31
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
 - Vaqueros para mujer
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VNTM6R8/?tag=tolees-21)

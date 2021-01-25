@@ -27,7 +27,7 @@ Ahora mismo tienes [Vero Moda VMALBERTA Sweetheart Lace S/L Top Noos Camiseta si
 
 🔎:
 
-- figure-hugging fit
 - Elegant top from Vero Moda
+- figure-hugging fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LBB7GYK/?tag=tolees-21)

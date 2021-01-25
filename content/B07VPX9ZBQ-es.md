@@ -27,8 +27,8 @@ Tienes [Lee Elly Vaqueros  Azul  Dark Truxel HP   W24/L31 para Mujer](https://ww
 
 🔎:
 
-- Presentan 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para mujer
+- Tienen un parche de piel en la parte trasera con la marca Lee
+- Presentan 5 bolsillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VPX9ZBQ/?tag=tolees-21)
