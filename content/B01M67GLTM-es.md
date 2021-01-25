@@ -28,10 +28,10 @@ Ahora mismo tienes [G-STAR RAW Core Super Slim Camisa Vaquera  Azul  Mazarine Bl
 🔎:
 
 - Estilo del cuello: Clásico
-- Lavar a máquina - caliente (mayor de 30 °)
 - 96% Algodón, 4% Elastano
 - Ajustado
 - Manga larga
 - Cierre: Popper
+- Lavar a máquina - caliente (mayor de 30 °)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M67GLTM/?tag=tolees-21)
