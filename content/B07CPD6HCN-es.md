@@ -27,10 +27,10 @@ Está [Crocs Crocband U  Zuecos Unisex Adulto  Verde  Army Green-White 37p   36-
 
 ℹ️:
 
+- Revestimiento: Sintético
 - Cierre: Sin cordones
 - Material exterior: Espuma
 - Altura del tacón: 1.5 pulgadas
 - Material de la suela: Goma
-- Revestimiento: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CPD6HCN/?tag=tolees-21)
