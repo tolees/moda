@@ -27,9 +27,9 @@ Ahora mismo tienes [G-STAR RAW ARC 3D Slim Jeans Vaqueros  Sun Faded Crystal Blu
 
 🔎:
 
-- Talle normal
-- 100% algodón
 - Instrucciones de cuidado: lavar a máquina con agua caliente (40° +)
+- 100% algodón
+- Talle normal
 - Cierre: tira de botones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X45Y2GP/?tag=tolees-21)

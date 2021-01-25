@@ -27,8 +27,8 @@ Ahora mismo tienes [ESPRIT 996EE1K907  camiseta sin mangas Mujer  Azul  NAVY   3
 
 🔎:
 
-- Con tejido ligero que ofrece comodidad
 - Camiseta con tirantes ajustables
+- Con tejido ligero que ofrece comodidad
 - Adecuada para el uso diario
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ECDYA42/?tag=tolees-21)
