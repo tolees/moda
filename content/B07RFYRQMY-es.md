@@ -27,7 +27,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Worn In Ripped Wave
 
 🔎:
 
-- Del look ajustado extracómodo.
 - G-Star 3301: vaquero clásico neutro con 5 bolsillos.
+- Del look ajustado extracómodo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RFYRQMY/?tag=tolees-21)
