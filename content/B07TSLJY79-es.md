@@ -27,8 +27,8 @@ Tienes [Wrangler LS 1 Pkt Shirt Camisa  Azul  Indigo 452   Medium para Hombre](h
 
 🔎:
 
-- Modelo de ajuste ligero con bolsillo en el pecho
 - Cuenta con detalles distintivos de la marca
+- Modelo de ajuste ligero con bolsillo en el pecho
 - Camisa casual para hombre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TSLJY79/?tag=tolees-21)

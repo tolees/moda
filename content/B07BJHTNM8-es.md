@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW 3301 Straight Tapered Vaquero con un 62.53 % de descuento'
-date: 2021-01-21 18:04:12
+date: 2021-01-26 11:37:55
 image: 'https://m.media-amazon.com/images/I/41-Z8wlv7FL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJHTNM8/?tag=tolees-21'
 descuento: '62.53'
-average: '41.61666666666667'
+average: '42.45'
 ---
 
 En este momento está [G-STAR RAW 3301 Straight Tapered Vaqueros  Dark Aged 6553-89  32W / 30L para Hombre](https://www.amazon.es/dp/B07BJHTNM8/?tag=tolees-21) a 44.95 EUR (original: 119.95 EUR) (62.53 %  de descuento) en el siguiente enlace!
