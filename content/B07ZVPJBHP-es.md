@@ -27,8 +27,8 @@ Ahora mismo tienes [Levi s Original Trucker Chaqueta  All Mine  X-Small para Muj
 
 🔎:
 
-- Trabillas ajustables en la parte posterior de la cinturilla
-- Un básico versátil para completar cualquier conjunto
 - Bolsillos de parche en el pecho con solapa y corchete
+- Un básico versátil para completar cualquier conjunto
+- Trabillas ajustables en la parte posterior de la cinturilla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVPJBHP/?tag=tolees-21)

@@ -28,7 +28,7 @@ Está [Levi s Original Trucker Chaqueta vaquera  Black Lilly  M para Mujer](http
 ℹ️:
 
 - Bolsillos de parche en el pecho con solapa y corchete
-- Un básico versátil para completar cualquier conjunto
 - Trabillas ajustables en la parte posterior de la cinturilla
+- Un básico versátil para completar cualquier conjunto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFF2PV6/?tag=tolees-21)
