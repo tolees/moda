@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 49.60 % en Geographical Norway Parka BOOMERANG homb'
-date: 2021-01-12 19:55:45
+date: 2021-01-26 17:42:00
 image: 'https://m.media-amazon.com/images/I/41i0TgzCJLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08QCFQ5DJ-es'
+slug: 'B08QCFQ5DJ-es Geographical Norway Parka BOOMERANG hombre ROJO talla M'
+sku: 'B08QCFQ5DJ-es'
+tags: [ 'parka', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9
@@ -25,8 +27,8 @@ Tienes [Geographical Norway Parka BOOMERANG hombre ROJO talla M](https://www.ama
 
 ℹ️:
 
-- Chaqueta de hombre
 - Capucha
+- Chaqueta de hombre
 - pelo destomtable
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B08QCFQ5DJ/?tag=tolees-21)
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08QCFQ5DJ/?tag=tolees-21)

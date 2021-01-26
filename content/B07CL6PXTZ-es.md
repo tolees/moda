@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onltahoe Hood Jacket Otw Noos Chaqu al 50.01 % de descuento'
-date: 2021-01-23 16:28:09
+date: 2021-01-26 17:51:05
 image: 'https://m.media-amazon.com/images/I/41+RPjM98NL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CL6PXTZ/?tag=tolees-21'
 descuento: '50.01'
-average: '27.49'
+average: '26.6566666666667'
 ---
 
 Está [Only Onltahoe Hood Jacket Otw Noos Chaqueta  Rosa  Misty Rose Misty Rose   Small para Mujer](https://www.amazon.es/dp/B07CL6PXTZ/?tag=tolees-21) con 50.01 de descuento por 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!
@@ -27,7 +27,7 @@ Está [Only Onltahoe Hood Jacket Otw Noos Chaqueta  Rosa  Misty Rose Misty Rose 
 
 ℹ️:
 
-- Quilted jacket with hood
 - Padded outdoor jacket
+- Quilted jacket with hood
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CL6PXTZ/?tag=tolees-21)
