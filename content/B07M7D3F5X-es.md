@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.93 % en Marca Amazon - find. Blazer para Hombre '
-date: 2021-01-24 19:49:12
+date: 2021-01-26 13:51:54
 image: 'https://m.media-amazon.com/images/I/31ytDzQAwyL._SL200_.jpg'
 comments: true
 category: ofertas

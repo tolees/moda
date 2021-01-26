@@ -28,10 +28,10 @@ En este momento está [Tommy Hilfiger Track Top LS HWK Sudadera  Azul  Navy Blaz
 🔎:
 
 - Logo de Tommy Hilfiger bordado en el pecho
-- Felpa francesa
-- Cinta distintiva en el interior del cuello
-- Cinta con la inscripción de Tommy Hilfiger en mangas
-- Cuello, puños y bajo de punto elástico
 - Cuello redondo
+- Cinta distintiva en el interior del cuello
+- Cuello, puños y bajo de punto elástico
+- Felpa francesa
+- Cinta con la inscripción de Tommy Hilfiger en mangas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788BWQFK/?tag=tolees-21)
