@@ -27,8 +27,8 @@ Ahora mismo tienes [Geographical Norway - Chaqueta DE Hombre Delta Azul MARNO S]
 
 🔎:
 
+- Capucha
 - Cierre cremallera parte central
 - bolsillos
-- Capucha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082BBBPND/?tag=tolees-21)

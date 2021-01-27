@@ -28,7 +28,7 @@ Está [Geographical Norway - Chaqueta DE Hombre Delta Negro S](https://www.amazo
 ℹ️:
 
 - bolsillos
-- Cierre cremallera parte central
 - Capucha
+- Cierre cremallera parte central
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082B9FSW1/?tag=tolees-21)
