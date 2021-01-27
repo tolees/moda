@@ -27,10 +27,10 @@ En este momento está [Crocs Baya  Zuecos Unisex Adulto  Negro  Black 001   42/4
 
 🔎:
 
-- Tipo de tacón: Plano
-- Cierre: Sin cordones
-- Material exterior: Espuma
 - Material de la suela: Goma
+- Cierre: Sin cordones
+- Tipo de tacón: Plano
+- Material exterior: Espuma
 - Revestimiento: Sin forro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001V83AZC/?tag=tolees-21)
