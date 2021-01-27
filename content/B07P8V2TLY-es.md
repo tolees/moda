@@ -27,10 +27,10 @@ Ahora mismo tienes [Dyda6 - Pijama de bebé de gran calidad  suave  cómodo  con
 
 🔎:
 
-- El paquete incluye: 1 pijama.
 - Estampado: Ratón.
-- Longitud: 38 cm. Altura de la capucha: 20 cm. Pecho: 32 cm. Longitud de la manga: 24 cm.
-- Albornoz unisex, no contiene ningún agente suavizante.
 - Material: Poliéster y algodón. Este albornoz para niños es resistente, sin picazón ni arañazos, sin deformación, sin efectos secundarios en la delicada piel de tu hijo y tiene una excelente mano de obra.
+- El paquete incluye: 1 pijama.
+- Albornoz unisex, no contiene ningún agente suavizante.
+- Longitud: 38 cm. Altura de la capucha: 20 cm. Pecho: 32 cm. Longitud de la manga: 24 cm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P8V2TLY/?tag=tolees-21)
