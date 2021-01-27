@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Descuento del 60.01 % en GEOX U DAMIANO D BLACK Men s Trainers Lo'
-date: 2021-01-20 18:16:48
+date: 2021-01-27 20:06:40
 image: 'https://m.media-amazon.com/images/I/318rmXfWc-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0825NZRWW-es GEOX U DAMIANO D BLACK Men s Trainers Low-Top Trainers...'
+sku: 'B0825NZRWW-es'
 tags: [ 'geox', ]
 actualPrice: 35.95 EUR
 currency: EUR
