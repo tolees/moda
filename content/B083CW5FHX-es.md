@@ -27,8 +27,8 @@ Tienes [adidas Entrada 18 Jersey Camiseta  Unisex niños  Dark Blue/White  152](
 
 ℹ️:
 
-- Paneles laterales en contraste
 - Logotipo de adidas termotransferido en el pecho
+- Paneles laterales en contraste
 - Cuello redondo en contraste
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B083CW5FHX/?tag=tolees-21)
