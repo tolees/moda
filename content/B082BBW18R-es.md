@@ -27,8 +27,8 @@ En este momento está [Geographical Norway - Chaqueta DE Hombre Delta Caqui L](h
 
 🔎:
 
-- Cierre cremallera parte central
 - bolsillos
 - Capucha
+- Cierre cremallera parte central
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082BBW18R/?tag=tolees-21)
