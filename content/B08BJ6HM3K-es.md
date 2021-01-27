@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJHERO tee LS Crew Neck Cam con un 23.10 % de descuento'
-date: 2021-01-25 09:08:52
+date: 2021-01-27 14:58:49
 image: 'https://m.media-amazon.com/images/I/31-uI6CgHyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08BJ6HM3K/?tag=tolees-21'
 descuento: '23.10'
-average: '8.615'
+average: '8.24'
 ---
 
 En este momento está [Jack & Jones JJHERO tee LS Crew Neck Camiseta  Cloud Dancer  M para Hombre](https://www.amazon.es/dp/B08BJ6HM3K/?tag=tolees-21) a 7.49 EUR (original: 9.74 EUR) (23.10 %  de descuento) en el siguiente enlace!

@@ -27,9 +27,9 @@ Está [PUMA Liga Sideline Poly Core Pantalón  Hombre  Negro  Negro/Blanco   M](
 
 ℹ️:
 
-- Cuello erguido y protector para la barbilla
 - Puños y dobladillos elásticos
 - dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
 - Logotipo de PUMA en el pecho
+- Cuello erguido y protector para la barbilla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0781VC1RY/?tag=tolees-21)

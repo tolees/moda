@@ -1,35 +1,37 @@
 ---
 layout: post
-title: 'G-STAR RAW ARC 3D Slim Jeans Vaqueros  D al 50.76 % de rebaja'
-date: 2021-01-15 14:36:44
+title: 'G-STAR RAW ARC 3D Slim Jeans Vaqueros  D al 70.01 % de rebaja'
+date: 2021-01-27 13:55:57
 image: 'https://m.media-amazon.com/images/I/41ZdtqxIMdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VXD0B9S-es'
-actualPrice: 63.99 EUR
+slug: 'B00VXD0B9S-es G-STAR RAW ARC 3D Slim Jeans Vaqueros Dk Aged 4639-89 28W...'
+sku: 'B00VXD0B9S-es'
+tags: [ 'vaqueros', ]
+actualPrice: 38.97 EUR
 currency: EUR
-price: 63.99
+price: 38.97
 comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW ARC 3D Slim Jeans Vaqueros  Dk Aged 4639-89  28W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VXD0B9S/?tag=tolees-21'
-descuento: '50.76'
-average: '57.972500000000004'
+descuento: '70.01'
+average: '54.172'
 ---
 
-Tienes [G-STAR RAW ARC 3D Slim Jeans Vaqueros  Dk Aged 4639-89  28W / 34L para Hombre](https://www.amazon.es/dp/B00VXD0B9S/?tag=tolees-21) con precio final de  63.99 EUR (original: 129.95 EUR) (50.76 %  de rebaja) aqui!
+Tienes [G-STAR RAW ARC 3D Slim Jeans Vaqueros  Dk Aged 4639-89  28W / 34L para Hombre](https://www.amazon.es/dp/B00VXD0B9S/?tag=tolees-21) con precio final de  38.97 EUR (original: 129.95 EUR) (70.01 %  de rebaja) aqui!
 
 [![G-STAR RAW ARC 3D Slim Jeans Vaqueros  D](https://m.media-amazon.com/images/I/41ZdtqxIMdL._SL200_.jpg)](https://www.amazon.es/dp/B00VXD0B9S/?tag=tolees-21)
 
 🔎:
 
-- 51030-6090
-- Fino
-- 99% algodón, 1% elastano
 - Cierre: botón
-- Bajo
+- 51030-6090
 - Se puede lavar a máquina
+- 99% algodón, 1% elastano
+- Fino
+- Bajo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VXD0B9S/?tag=tolees-21)
