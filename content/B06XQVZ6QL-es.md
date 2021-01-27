@@ -27,8 +27,8 @@ Está [Only Onlleco 7/8 Long Cardigan Jrs Noos  Chaqueta Para Mujer  Negro  Blac
 
 ℹ️:
 
-- Instrucciones de cuidado: lavable
-- manga larga
 - Número de modelo: 15112273
+- manga larga
+- Instrucciones de cuidado: lavable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XQVZ6QL/?tag=tolees-21)
