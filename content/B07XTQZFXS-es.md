@@ -27,7 +27,7 @@ Ahora mismo tienes [Jack & Jones JJICHRIS Jjoriginal CR 144 Vaqueros Relaxed  Bl
 
 🔎:
 
-- Jeans made of 100% cotton
 - Loose fit jeans
+- Jeans made of 100% cotton
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XTQZFXS/?tag=tolees-21)

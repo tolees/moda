@@ -28,7 +28,7 @@ Tienes [Tommy Hilfiger Original Stretch Shirt Camisa  Blanco  Classic White   L 
 🔎:
 
 - Camisa para hombre
-- Fabricada en tejido ligero y suave
 - Tiene el logo de la marca bordado en el pecho
+- Fabricada en tejido ligero y suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ZJEOR74/?tag=tolees-21)
