@@ -27,8 +27,8 @@ Tienes [Levi s 511 Slim Vaqueros  Azul  Richmond Blue Black Od Adv   29W / 34L p
 
 🔎:
 
-- Corte ajustado de la cadera al tobillo
 - Estilo esbelto con confort añadido
 - Diseño de cinco bolsillos
+- Corte ajustado de la cadera al tobillo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZVQW9C9/?tag=tolees-21)

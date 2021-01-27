@@ -27,8 +27,8 @@ Tienes [Levi s Vneck Camiseta  Bok Choy  M para Mujer](https://www.amazon.es/dp/
 
 🔎:
 
+- Con suave tejido y el corte clásico
 - Modelo casual
 - Tiene bordado en el pecho la marca Levis
-- Con suave tejido y el corte clásico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0823BD4CC/?tag=tolees-21)
