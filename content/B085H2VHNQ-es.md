@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tuc Tuc Vestido Viscosa Patch  Rojo  6A  al 49.99 % de descuento'
-date: 2021-01-28 18:59:30
+date: 2021-01-28 18:59:59
 image: 'https://m.media-amazon.com/images/I/51PcHrzMsiL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -1,31 +1,39 @@
 ---
 layout: post
-title: 'Timberland Bradstreet Leather Sensorflex al 41.49 % de rebaja'
-date: 2020-09-13 16:22:25
+title: 'Timberland Bradstreet Leather Sensorflex al 37.09 % de rebaja'
+date: 2021-01-28 19:06:19
 image: 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014YHPQMQ-es Timberland Bradstreet Leather Sensorflex Botas Chukka para...'
+slug: 'B014YHPQMQ-es Timberland Bradstreet Leather Sensorflex Botas Chukka...'
 sku: 'B014YHPQMQ-es'
 tags: [ 'timberland', ]
-actualPrice: 81.91 EUR
+actualPrice: 88.08 EUR
 currency: EUR
-price: 81.91
+price: 88.08
 comparePrice: 140.0 EUR
-prodname: 'Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Negro Nubuck  45 EU'
+prodname: 'Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Negro Nubuck  45 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014YHPQMQ/?tag=tolees-21'
-descuento: '41.49'
-average: '81.634'
+descuento: '37.09'
+average: '83.4757142857143'
 ---
 
-Tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Negro Nubuck  45 EU](https://www.amazon.es/dp/B014YHPQMQ/?tag=tolees-21) con precio final de  81.91 EUR (original: 140.0 EUR) (41.49 %  de rebaja) aqui!
+Tienes [Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Negro Nubuck  45 EU](https://www.amazon.es/dp/B014YHPQMQ/?tag=tolees-21) con precio final de  88.08 EUR (original: 140.0 EUR) (37.09 %  de rebaja) aqui!
 
 [![Timberland Bradstreet Leather Sensorflex](https://m.media-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg)](https://www.amazon.es/dp/B014YHPQMQ/?tag=tolees-21)
 
 🔎:
 
+- Anchura del zapato: Normal
+- Altura del tacón: 2 centímetros
+- Composición: Cuero
+- Material de la suela: Caucho
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Cierre: Cordones
+- Material exterior: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014YHPQMQ/?tag=tolees-21)
