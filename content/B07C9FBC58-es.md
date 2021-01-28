@@ -27,10 +27,10 @@ En este momento está [Skechers Delson-Antigo  Zapatos de Cordones Oxford Hombre
 
 🔎:
 
-- Delson Antigo
-- skechers
 - Hombre
-- 65693-CHOC
 - Zapatillas
+- Delson Antigo
+- 65693-CHOC
+- skechers
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C9FBC58/?tag=tolees-21)

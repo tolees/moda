@@ -27,8 +27,8 @@ Ahora mismo tienes [Levi s Original Trucker Chaqueta Vaquera  Black Lilly  Small
 
 🔎:
 
-- Trabillas ajustables en la parte posterior de la cinturilla
 - Bolsillos de parche en el pecho con solapa y corchete
 - Un básico versátil para completar cualquier conjunto
+- Trabillas ajustables en la parte posterior de la cinturilla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFBF527/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.02 % en Superdry OL Vintage Emb Crew Camiseta  N'
-date: 2021-01-27 09:02:24
+date: 2021-01-28 10:53:58
 image: 'https://m.media-amazon.com/images/I/41oUrkgM8FL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,6 +27,7 @@ Tienes [Superdry OL Vintage Emb Crew Camiseta  Naranja  Desert Orange Grit Z5z  
 
 ℹ️:
 
-- Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+- We recommend one size larger
+- Superdry clothing is made with the right balance between style and comfort. We recommend a size larger than your usual brands for a true Superdry experience
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TLLDM5S/?tag=tolees-21)

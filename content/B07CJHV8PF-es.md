@@ -27,7 +27,7 @@ En este momento está [Only Onltahoe Hood Jacket Otw Noos Chaqueta  Azul  Night 
 
 🔎:
 
-- Quilted jacket with hood
 - Padded outdoor jacket
+- Quilted jacket with hood
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CJHV8PF/?tag=tolees-21)
