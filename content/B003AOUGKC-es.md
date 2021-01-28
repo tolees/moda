@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Havaianas Top  Chanclas Unisex Adulto  A con un 55.59 % de descuento'
-date: 2021-01-16 13:31:59
+date: 2021-01-28 22:26:27
 image: 'https://m.media-amazon.com/images/I/31hIeUHjyZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003AOUGKC-es'
+slug: 'B003AOUGKC-es Havaianas Top Chanclas Unisex Adulto Amarillo Citrus...'
+sku: 'B003AOUGKC-es'
+tags: [ 'chanclas', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003AOUGKC/?tag=tolees-21'
 descuento: '55.59'
-average: '8.514705882352942'
+average: '8.45526315789473'
 ---
 
 En este momento está [Havaianas Top  Chanclas Unisex Adulto  Amarillo  Citrus Yellow   35/36 EU](https://www.amazon.es/dp/B003AOUGKC/?tag=tolees-21) a 7.95 EUR (original: 17.9 EUR) (55.59 %  de descuento) en el siguiente enlace!
@@ -25,11 +27,11 @@ En este momento está [Havaianas Top  Chanclas Unisex Adulto  Amarillo  Citrus Y
 
 🔎:
 
-- Material de la suela: Goma
-- Material exterior: Goma
 - Composición: Goma
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Tipo de tacón: Plano
+- Material exterior: Goma
+- Material de la suela: Goma
 - Revestimiento: Sin forro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003AOUGKC/?tag=tolees-21)

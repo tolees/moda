@@ -27,10 +27,10 @@ En este momento está [Quiksilver Steeze - Chaqueta Shell Para Nieve Para Hombre
 
 🔎:
 
-- Impermeabilidad: tecnología Quiksilver DryFlight 10K
 - Capucha ajustable en 3 direcciones; capucha fija; faldón protector fijo;;
+- Tejido reciclado: Repreve poliéster reciclado 4-way stretch, hecho de botellas de plástico; corte moderno, articulado y ergonómico
 - Tejido interior: mapping estratégico del cuerpo en punto cepillado y tafetán; costuras recubiertas en zonas críticas
 - Aislante: Shell; índice Warmflight 1/3 calor ultra ligero y transpirable
-- Tejido reciclado: Repreve poliéster reciclado 4-way stretch, hecho de botellas de plástico; corte moderno, articulado y ergonómico
+- Impermeabilidad: tecnología Quiksilver DryFlight 10K
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0893RLK8D/?tag=tolees-21)
