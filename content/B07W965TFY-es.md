@@ -27,8 +27,8 @@ Tienes [NIKE M NK Trophy IV JSY SS Camiseta de Manga Corta  Hombre  Midnight Nav
 
 ℹ️:
 
-- Regular fit
 - Nike Dry fabric
 - Maximum comfort
+- Regular fit
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07W965TFY/?tag=tolees-21)
