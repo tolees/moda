@@ -1,25 +1,27 @@
 ---
 layout: post
-title: 'G-STAR RAW Silber Slim Fit Camiseta  Azu al 75.63 % de descuento'
-date: 2021-01-13 14:33:47
+title: 'G-STAR RAW Silber Slim Fit Camiseta  Azu al 50.00 % de descuento'
+date: 2021-01-28 08:07:46
 image: 'https://m.media-amazon.com/images/I/41PRBQ4Z77L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPQNM7Q-es'
-actualPrice: 8.53 EUR
+slug: 'B07VPQNM7Q-es G-STAR RAW Silber Slim Fit Camiseta Azul Servant Blue htr...'
+sku: 'B07VPQNM7Q-es'
+tags: [ 'camiseta', ]
+actualPrice: 17.5 EUR
 currency: EUR
-price: 8.53
+price: 17.5
 comparePrice: 35.0 EUR
 prodname: 'G-STAR RAW Silber Slim Fit Camiseta  Azul  Servant Blue htr C084-B239   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VPQNM7Q/?tag=tolees-21'
-descuento: '75.63'
-average: '8.53'
+descuento: '50.00'
+average: '13.015'
 ---
 
-Ahora mismo tienes [G-STAR RAW Silber Slim Fit Camiseta  Azul  Servant Blue htr C084-B239   X-Large para Mujer](https://www.amazon.es/dp/B07VPQNM7Q/?tag=tolees-21) a 8.53 EUR (original: 35.0 EUR) (75.63 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [G-STAR RAW Silber Slim Fit Camiseta  Azul  Servant Blue htr C084-B239   X-Large para Mujer](https://www.amazon.es/dp/B07VPQNM7Q/?tag=tolees-21) a 17.5 EUR (original: 35.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![G-STAR RAW Silber Slim Fit Camiseta  Azu](https://m.media-amazon.com/images/I/41PRBQ4Z77L._SL200_.jpg)](https://www.amazon.es/dp/B07VPQNM7Q/?tag=tolees-21)
 
