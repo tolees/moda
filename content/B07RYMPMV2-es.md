@@ -27,8 +27,8 @@ Ahora mismo tienes [Levi s Relaxed Graphic tee Camiseta  White  90 s Serif Logo 
 
 🔎:
 
-- Modelo casual
 - Tejido de punto con tacto suave
+- Modelo casual
 - Con logotipo de inspiración noventera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RYMPMV2/?tag=tolees-21)

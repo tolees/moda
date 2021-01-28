@@ -27,7 +27,7 @@ Tienes [Superdry OL Vintage Emb Crew Camiseta  Naranja  Desert Orange Grit Z5z  
 
 ℹ️:
 
-- We recommend one size larger
 - Superdry clothing is made with the right balance between style and comfort. We recommend a size larger than your usual brands for a true Superdry experience
+- We recommend one size larger
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TLLDM5S/?tag=tolees-21)

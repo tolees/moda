@@ -27,10 +27,10 @@ Está [DIDINSKY Gafas de Presbicia con Filtro Anti Luz Azul para Ordenador. Gafa
 
 ℹ️:
 
-- TRANQUILO, TUS GAFAS ESTÁN 100% GARANTIZADAS – Estamos tan seguros de la calidad y diseño de nuestras gafas que ponemos a tu disposición 30 días de garantía para que puedas devolver tu producto si no estás satisfecho con él, sin preguntas ni cuestiones.
 - PROTEGE TU VISTA DE LA LUZ AZUL QUE IRRADIAN PANTALLAS Y MOVILES – Porque todos pasamos cada día largas horas delante de pantallas, smartphones, tabletas, consolas, televisión, etc. Evita la vista borrosa y cuida tus ojos de la perjudicial luz azul que irradian estos dispositivos. Nuestras gafas están especialmente fabricadas para gaming.
-- DESCANSA MEJOR GRACIAS A LA REDUCCIÓN DE LA FATIGA OCULAR – Con el uso de tus nuevas gafas antifatiga DIDINSKY TATE notarás que tu vista está menos cansada al llegar el final del día, y descansarás mejor por la noche. Además reducirás los dolores de cabeza tras largas horas detrás de las pantallas de ordenador.
-- MATERIALES, DISEÑO Y ERGONOMIA ESCOGIDOS CON MIMO – Porque sabemos que valoras de igual forma la calidad y el diseño, hemos fabricado nuestras gafas con un tacto de goma y hemos incorporado lentes anti-reflejantes y anti-rasguños, con unas varillas flexibles y duraderas.
+- TRANQUILO, TUS GAFAS ESTÁN 100% GARANTIZADAS – Estamos tan seguros de la calidad y diseño de nuestras gafas que ponemos a tu disposición 30 días de garantía para que puedas devolver tu producto si no estás satisfecho con él, sin preguntas ni cuestiones.
 - SEA CUAL SEA TU GRADUACION, TENEMOS UNAS DIDINSKY THYSSEN PARA TI – Da igual la graduación que necesites en la vista, nuestras gafas se presentan hasta con 5 potencias distintas para amoldarse a tus necesidades: 1.0x, 1.5x, 2.0x, 2.5x ó 3.0x. Ten vista y elige las tuyas.
+- MATERIALES, DISEÑO Y ERGONOMIA ESCOGIDOS CON MIMO – Porque sabemos que valoras de igual forma la calidad y el diseño, hemos fabricado nuestras gafas con un tacto de goma y hemos incorporado lentes anti-reflejantes y anti-rasguños, con unas varillas flexibles y duraderas.
+- DESCANSA MEJOR GRACIAS A LA REDUCCIÓN DE LA FATIGA OCULAR – Con el uso de tus nuevas gafas antifatiga DIDINSKY TATE notarás que tu vista está menos cansada al llegar el final del día, y descansarás mejor por la noche. Además reducirás los dolores de cabeza tras largas horas detrás de las pantallas de ordenador.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LH2WW31/?tag=tolees-21)

@@ -27,10 +27,10 @@ Tienes [Timberland 6-Inch Premium WP  Botas Clasicas Unisex Niños  Amarillo  Wh
 
 ℹ️:
 
-- Waterproof seam-sealed construction is guaranteed to keep feet dry in any weather
 - Padded collar for a comfortable fit around the ankle
 - Rustproof hardware for durability and an authentic timberland look
-- Full-grain leather upper for rugged durability
 - Textile lining and footbed cover for breathability
+- Full-grain leather upper for rugged durability
+- Waterproof seam-sealed construction is guaranteed to keep feet dry in any weather
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000VIAFPQ/?tag=tolees-21)
