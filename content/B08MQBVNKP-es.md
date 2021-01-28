@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YAOJIN - 18 piezas Parches ropa Termoadh con un 18.20 % de descuento'
-date: 2021-01-27 19:04:18
+date: 2021-01-28 20:13:54
 image: 'https://m.media-amazon.com/images/I/61o+5C8P1lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08MQBVNKP/?tag=tolees-21'
 descuento: '18.20'
-average: '10.6087499999999'
+average: '10.5135294117646'
 ---
 
 En este momento está [YAOJIN - 18 piezas Parches ropa Termoadhesivos  DIY Coser o Planchar en Los Parches Apliques para Ropa Camiseta Jeans Sombrero Pantalon Bolsas](https://www.amazon.es/dp/B08MQBVNKP/?tag=tolees-21) a 8.99 EUR (original: 10.99 EUR) (18.20 %  de descuento) en el siguiente enlace!

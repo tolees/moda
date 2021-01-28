@@ -27,10 +27,10 @@ En este momento está [iTronics Limpiador Ultrasónico Profesional de 600ml con 
 
 🔎:
 
-- 5 diferentes de modelos seleccionables para limpieza (90s / 180s / 300s / 480s / 600s), fácil y de forma individual para su uso
-- Máquina de Ultrasonido Limpiador para limpiar Piezas joyas , gafas, correas de relojes, relojes resistentes a la humedad, cds, cuchillas de afeitar, dentaduras, peines, cepillos de dientes, monedas, pequeños objetos metálicos, cuberterías, piezas de determinados aparatos como impresoras, los cabezales, cartuchos etc,
 - Limpiadores con 50 vatios de potencia de limpieza (ultrasonido 42 kHz) ofrece unos resultados excelentes
-- Cojinete para piezas pequeñas y husillo con anillo espaciador para 2 CDs, Es un buen regalo de Navidad
 - La cámara de limpieza está hecha de acero inoxidable y tiene gran capacidad total de 600 ml
+- Cojinete para piezas pequeñas y husillo con anillo espaciador para 2 CDs, Es un buen regalo de Navidad
+- Máquina de Ultrasonido Limpiador para limpiar Piezas joyas , gafas, correas de relojes, relojes resistentes a la humedad, cds, cuchillas de afeitar, dentaduras, peines, cepillos de dientes, monedas, pequeños objetos metálicos, cuberterías, piezas de determinados aparatos como impresoras, los cabezales, cartuchos etc,
+- 5 diferentes de modelos seleccionables para limpieza (90s / 180s / 300s / 480s / 600s), fácil y de forma individual para su uso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01D148KGC/?tag=tolees-21)
