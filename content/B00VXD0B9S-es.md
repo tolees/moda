@@ -27,11 +27,11 @@ Tienes [G-STAR RAW ARC 3D Slim Jeans Vaqueros  Dk Aged 4639-89  28W / 34L para H
 
 🔎:
 
-- Bajo
 - Se puede lavar a máquina
-- Cierre: botón
-- 51030-6090
-- Fino
 - 99% algodón, 1% elastano
+- 51030-6090
+- Bajo
+- Cierre: botón
+- Fino
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VXD0B9S/?tag=tolees-21)
