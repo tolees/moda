@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlleco 7/8 Long Cardigan Jrs Noos  al 43.27 % de descuento'
-date: 2021-01-27 00:36:22
+date: 2021-01-28 12:39:09
 image: 'https://m.media-amazon.com/images/I/41YCyKIGevL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Está [Only Onlleco 7/8 Long Cardigan Jrs Noos  Chaqueta Para Mujer  Negro  Blac
 
 ℹ️:
 
-- Número de modelo: 15112273
 - manga larga
+- Número de modelo: 15112273
 - Instrucciones de cuidado: lavable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XQVZ6QL/?tag=tolees-21)

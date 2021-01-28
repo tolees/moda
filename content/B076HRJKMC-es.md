@@ -27,9 +27,9 @@ Está [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XS]
 
 ℹ️:
 
-- Bolsillo canguro
-- Escote redondo.
 - Sin mangas.
 - Ventilación Climacool.
+- Escote redondo.
+- Bolsillo canguro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HRJKMC/?tag=tolees-21)

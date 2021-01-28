@@ -27,7 +27,7 @@ Está [Only Onltahoe Hood Jacket Otw Noos Chaqueta  Azul  Night Sky Night Sky   
 
 ℹ️:
 
-- Quilted jacket with hood
 - Padded outdoor jacket
+- Quilted jacket with hood
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CJLJ6DB/?tag=tolees-21)
