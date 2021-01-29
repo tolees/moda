@@ -27,8 +27,8 @@ Ahora mismo tienes [adidas Terrex Agravic TR GTX  Zapatos de Low Rise Senderismo
 
 🔎:
 
-- Cierre de cordones
 - Mediasuela de EVA
+- Cierre de cordones
 - Zapatilla de trail running impermeable
 - Parte superior de malla resistente al desgaste con membrana impermeable gore-tex
 
