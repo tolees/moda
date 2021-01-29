@@ -28,7 +28,7 @@ Tienes [JACK & JONES JORTRAILER Sweat Hood STS Sudadera con capucha  Azul  Marin
 🔎:
 
 - Sudadera con capucha con etiqueta
-- Sudadera con capucha básica
 - Sudadera con capucha de algodón
+- Sudadera con capucha básica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089N9V9RQ/?tag=tolees-21)

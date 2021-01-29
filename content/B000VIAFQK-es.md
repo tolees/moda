@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.67 % en Timberland 6-Inch Premium WP  Botas Clas'
-date: 2021-01-28 10:09:26
+date: 2021-01-29 10:39:26
 image: 'https://m.media-amazon.com/images/I/415c5wvUTyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VIAFQK/?tag=tolees-21'
 descuento: '54.67'
-average: '69.2247368421052'
+average: '69.1629999999999'
 ---
 
 Tienes [Timberland 6-Inch Premium WP  Botas Clasicas Unisex Niños  Amarillo  Wheat Nubuck   40 EU](https://www.amazon.es/dp/B000VIAFQK/?tag=tolees-21) con un 54.67 % de descuento con precio de oferta de 67.99 EUR (original: 150.0 EUR) en el siguiente enlace!
