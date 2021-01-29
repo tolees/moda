@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Only onlAVA FAUX LEATHER BIKER OTW NOOS  con un 37.96 % de descuento'
-date: 2021-01-16 10:20:37
+date: 2021-01-29 00:49:36
 image: 'https://m.media-amazon.com/images/I/41p2JjCOhuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQEQWL8-es'
+slug: 'B01MQEQWL8-es Only onlAVA FAUX LEATHER BIKER OTW NOOS - Chaqueta para...'
+sku: 'B01MQEQWL8-es'
+tags: [ 'chaqueta', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99
