@@ -27,7 +27,7 @@ En este momento está [Pepe Jeans Tristam Jersey  Verde  699   Medium para Hombr
 
 🔎:
 
-- Pepe vaqueros sudaderas para manar
 - 100 % algodón
+- Pepe vaqueros sudaderas para manar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08483YZGS/?tag=tolees-21)
