@@ -27,8 +27,8 @@ Ahora mismo tienes [G-STAR RAW Flag Graphic Slim Camiseta  Lt Orphus 336/B441  M
 
 🔎:
 
-- G-Star Verde Camiseta con texto de bandera
 - Ver descripción del producto para obtener más información.
+- G-Star Verde Camiseta con texto de bandera
 - A estrenar y genuina. Somos un vendedor autorizado de G-Star.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z5DN2PS/?tag=tolees-21)

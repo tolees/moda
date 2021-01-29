@@ -27,10 +27,10 @@ Está [Catwalk Collection Handbags - CATWALK COLLECTION - ABBEY ROAD - Bolso ban
 
 ℹ️:
 
-- SIZE: H 22 cm, W 30 cm, D 2 cm. ADJUSTABLE SHOULDER STRAP: 161 cm
-- GORGEOUSLY DARK AND SULTRY CROSS-BODY BAG MADE FROM DESIGNER ANTIQUE LEATHER
-- IF YOU LOVE AUTHENTIC REAL LEATHER, YOULL LOVE CATWALK COLLECTION HANDBAGS!
-- LEATHER TYPE: Washed Nappa Leather, CLOSURE: Metal zip and magnetic snap, HARDWARE: Antique Brass. Each bag comes with the iconic Cat Logo Bag Charm and branded Dust Cover.
 - POCKETS: 1 Main Compartment + 1 Interior Side Zipped Pocket + 1 Mobile Phone Holder + 1 Interior Open Pocket + 1 Outer Rear Zipped Pocket
+- IF YOU LOVE AUTHENTIC REAL LEATHER, YOULL LOVE CATWALK COLLECTION HANDBAGS!
+- GORGEOUSLY DARK AND SULTRY CROSS-BODY BAG MADE FROM DESIGNER ANTIQUE LEATHER
+- LEATHER TYPE: Washed Nappa Leather, CLOSURE: Metal zip and magnetic snap, HARDWARE: Antique Brass. Each bag comes with the iconic Cat Logo Bag Charm and branded Dust Cover.
+- SIZE: H 22 cm, W 30 cm, D 2 cm. ADJUSTABLE SHOULDER STRAP: 161 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H41TZSP/?tag=tolees-21)
