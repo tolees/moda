@@ -29,8 +29,8 @@ En este momento está [Havaianas Top  Chanclas Unisex Adulto  Amarillo  Citrus Y
 
 - Composición: Goma
 - Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Material exterior: Goma
+- Tipo de tacón: Plano
 - Material de la suela: Goma
 - Revestimiento: Sin forro
 

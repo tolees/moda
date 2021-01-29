@@ -27,8 +27,8 @@ Tienes [adidas Tiro 19 Training Jersey  Hombre  Blanco  White/Black   XS](https:
 
 🔎:
 
-- Climalite anti-humidity fabric
 - Slim fit
 - Adidas logo on the front
+- Climalite anti-humidity fabric
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K6Q64BR/?tag=tolees-21)
