@@ -27,7 +27,7 @@ Ahora mismo tienes [Esprit 990ee1f310 Blusa  Azul  Navy 400   42  Talla del Fabr
 
 🔎:
 
-- Blusa de algodón de corte holgado con los hombros caídos
 - Las mangas se pueden remangar y fijar mediante una presilla con botón
+- Blusa de algodón de corte holgado con los hombros caídos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YKVH7YT/?tag=tolees-21)
