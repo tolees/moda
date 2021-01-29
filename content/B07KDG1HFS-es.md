@@ -28,7 +28,7 @@ Está [adidas Tiro 19 Pre Jkt Chaqueta  Hombre  Azul  Dark Blue/Black/White   XL
 ℹ️:
 
 - Corte entallado que se ajusta al tronco y los brazos
-- Manga larga con puños de canalé
 - Con cremallera completa y bolsillos
+- Manga larga con puños de canalé
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KDG1HFS/?tag=tolees-21)

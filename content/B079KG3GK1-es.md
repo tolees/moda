@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Lee Rider Jeans Vaqueros  Grey Used  28W al 39.97 % de descuento'
-date: 2021-01-04 07:31:48
+date: 2021-01-29 22:34:12
 image: 'https://m.media-amazon.com/images/I/41ktbWREKkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KG3GK1-es'
+slug: 'B079KG3GK1-es Lee Rider Jeans Vaqueros Grey Used 28W / 34L para Hombre'
+sku: 'B079KG3GK1-es'
+tags: [ 'vaqueros', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079KG3GK1/?tag=tolees-21'
 descuento: '39.97'
-average: '53.812'
+average: '55.58'
 ---
 
 Está [Lee Rider Jeans Vaqueros  Grey Used  28W / 34L para Hombre](https://www.amazon.es/dp/B079KG3GK1/?tag=tolees-21) con 39.97 de descuento por 60.0 EUR (original: 99.95 EUR) en el siguiente enlace!
@@ -25,8 +27,8 @@ Está [Lee Rider Jeans Vaqueros  Grey Used  28W / 34L para Hombre](https://www.a
 
 ℹ️:
 
+- Estilo 5 bolsillos
 - Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- Estilo 5 bolsillos
 
-[Ver la oferta!!](https://www.amazon.es/dp/B079KG3GK1/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B079KG3GK1/?tag=tolees-21)

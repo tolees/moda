@@ -27,8 +27,8 @@ En este momento está [Lacoste L1212 Camiseta Polo  Rojo  Bordeaux   S para Homb
 
 🔎:
 
-- Bajo recto con aberturas laterales
 - Cocodrilo bordado en el pecho
+- Bajo recto con aberturas laterales
 - Cuello y bordes de las mangas acanalados
 - Botones de nácar
 
