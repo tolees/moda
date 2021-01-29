@@ -27,8 +27,8 @@ Ahora mismo tienes [adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Negro  Blac
 
 🔎:
 
-- Tiene cierre completo con cremallera
 - Cremallera de larga duración y solapa de tormenta adicional con cierre de velcro
+- Tiene cierre completo con cremallera
 - Capucha desmontable con cordón
 - Tiene dos bolsillos laterales para las manos
 
