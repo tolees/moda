@@ -27,10 +27,10 @@ En este momento está [Quiksilver Stone Cold Classic - Camiseta para Hombre Scre
 
 🔎:
 
-- Camiseta Para hombre
-- Corte normal
-- Clásico
-- Cómodo
 - Cuello redondo y serigrafía estampada en el pecho
+- Cómodo
+- Camiseta Para hombre
+- Clásico
+- Corte normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0825NL3WN/?tag=tolees-21)
