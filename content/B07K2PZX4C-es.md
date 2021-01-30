@@ -27,8 +27,8 @@ Tienes [Adidas Adilette Aqua Zapatos de playa y piscina Unisex adulto  Multicolo
 
 🔎:
 
-- Zapatillas deportivas.
 - 3 rayas en la parte superior.
 - Fácil de poner.
+- Zapatillas deportivas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K2PZX4C/?tag=tolees-21)
