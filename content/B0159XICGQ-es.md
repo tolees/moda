@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s – Pantalones 711 Skinny – Pantalo al 18.00 % de rebaja'
-date: 2021-01-27 10:49:52
+date: 2021-01-30 16:25:55
 image: 'https://m.media-amazon.com/images/I/41v4+ChB43L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 109.0 EUR
 prodname: 'Levi s – Pantalones 711 Skinny – Pantalones vaqueros 711 Skinny Lone Wolf azul W29/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0159XICGQ/?tag=tolees-21'
 descuento: '18.00'
-average: '97.1311111111111'
+average: '95.7218181818182'
 ---
 
 Tienes [Levi s – Pantalones 711 Skinny – Pantalones vaqueros 711 Skinny Lone Wolf azul W29/L30](https://www.amazon.es/dp/B0159XICGQ/?tag=tolees-21) con precio final de  89.38 EUR (original: 109.0 EUR) (18.00 %  de rebaja) aqui!
