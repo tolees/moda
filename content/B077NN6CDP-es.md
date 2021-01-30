@@ -28,8 +28,8 @@ Está [Lee Rider Jeans Vaqueros  Kick It  28W / 34L para Hombre](https://www.ama
 
 ℹ️:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
-- Estilo 5 bolsillos
 - Vaqueros para hombre
+- Estilo 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077NN6CDP/?tag=tolees-21)
