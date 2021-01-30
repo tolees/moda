@@ -16,7 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 501 Original  Vaqueros  Onewash  34W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Levi's'
+brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B001QOC56Q/?tag=tolees-21'
 descuento: '30.72'
 average: '61.3579999999999'
