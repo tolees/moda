@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Sandal Hiver B  Sandalias con Tira Vertical para Mujer  Negro  Black C9999   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVXY7LX/?tag=tolees-21'
 descuento: '49.41'
 average: '45.48'

@@ -16,6 +16,7 @@ comparePrice: 31.4 EUR
 prodname: 'Cressi Tauchmaske Erwachsen F1 Clear Frameless Gafas de Buceo  Unisex  Transparente  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B5AGIPA/?tag=tolees-21'
 descuento: '36.31'
 average: '20'

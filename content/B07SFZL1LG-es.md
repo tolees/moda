@@ -16,6 +16,7 @@ comparePrice: 33.72 EUR
 prodname: 'Kappa Maglia Replica Home 2019/2020 Camiseta De Juego  Hombre  Azul  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFZL1LG/?tag=tolees-21'
 descuento: '53.74'
 average: '16.23818181818182'

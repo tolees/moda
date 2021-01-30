@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Tommy Sequins Flat Sandal  Sandalias Punta Cerrada para Mujer  Blanco  Ivory Ybi   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8V58SQ/?tag=tolees-21'
 descuento: '63.29'
 average: '36.745000000000005'

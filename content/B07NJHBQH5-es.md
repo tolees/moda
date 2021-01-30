@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Dolores Promesas 108220 Camiseta  Negro  Negro  Negro 00  000   44  Tamaño del Fabricante:44  Tamaño del Fabricante:44   para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHBQH5/?tag=tolees-21'
 descuento: '64.27'
 average: '42.84'

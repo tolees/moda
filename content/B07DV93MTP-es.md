@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Spotted Zebra Boxer Brief Ropa interior camuflaje X-Small  4-5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV93MTP/?tag=tolees-21'
 descuento: '25.00'
 average: '14.25'

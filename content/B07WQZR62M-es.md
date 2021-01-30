@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Souke Sports - Pantalones Ciclismo Hombre Invierno Pantalones Largos Térmico Pantalón Chándal para Fitness  Camping  Escalada  Correr y Esquiar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQZR62M/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

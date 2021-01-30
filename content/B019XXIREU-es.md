@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Verde  New Mint 3P7   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019XXIREU/?tag=tolees-21'
 descuento: '30.01'
 average: '25.34'

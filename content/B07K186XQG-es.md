@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas CAMPEON19 JSY Camiseta de Manga Corta  Hombre  True Pink/Black  1112'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K186XQG/?tag=tolees-21'
 descuento: '55.02'
 average: '17.97'

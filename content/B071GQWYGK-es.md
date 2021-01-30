@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Collar Mujer  J.Rosée Plata de Ley 925 Brillante Circonita"Crepúsculo" Cadena 45cm-50cm Regalo Original para Amor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GQWYGK/?tag=tolees-21'
 descuento: '85.05'
 average: '17.46'

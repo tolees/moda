@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Esprit 099ee1j024 Sudadera  Azul  Navy 400   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJBHSYL/?tag=tolees-21'
 descuento: '49.15'
 average: '25.2975'

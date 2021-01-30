@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'adidas Entrada 18 JSY Teamtrikot Camiseta de Manga Corta  Niños  Rojo  Power Red/White   164'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779FKQ4W/?tag=tolees-21'
 descuento: '32.03'
 average: '12.2'

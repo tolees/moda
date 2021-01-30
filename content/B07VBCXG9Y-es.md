@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Desigual TS Verona Camiseta  Blanco  Crudo 1001   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBCXG9Y/?tag=tolees-21'
 descuento: '66.12'
 average: '20.31'

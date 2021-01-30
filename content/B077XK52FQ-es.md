@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Sportstyle Pique Track Jacket Chaqueta  Hombre  Azul  Academy/Academy/White 409   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XK52FQ/?tag=tolees-21'
 descuento: '52.02'
 average: '25.89333333333333'

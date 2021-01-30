@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Vaqueros Relaxed  Azul  Worker Blue Faded A088/A888   W44/L40  Talla del Fabricante: 44W/ L40  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N16ZQH1/?tag=tolees-21'
 descuento: '83.76'
 average: '20.883333333333333'

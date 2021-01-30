@@ -16,6 +16,7 @@ comparePrice: 51.18 EUR
 prodname: 'Marca Amazon - MERAKI Abrigo de Lana Mujer  Gris  Herringbone   48  Label: 3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLM6GHF/?tag=tolees-21'
 descuento: '60.41'
 average: '20.26'

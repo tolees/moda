@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Vero Moda Vmava Plain Ss Top Ga Noos  Camiseta para Mujer  Blanco  Snow White Snow White   38  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0736TYXK4/?tag=tolees-21'
 descuento: '15.01'
 average: '11.365'

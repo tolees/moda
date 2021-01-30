@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Reggae Slim-Vacay  Sandalias de Talón Abierto para Niñas  Marrón  Chocolate Duraleather/Webbing   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX7MFFL/?tag=tolees-21'
 descuento: '19.92'
 average: '40.0'

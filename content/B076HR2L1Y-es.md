@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Adidas Core 18 Training Jsy  Camiseta Hombre Verde  Bold Green/Black   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HR2L1Y/?tag=tolees-21'
 descuento: '30.13'
 average: '12.64'

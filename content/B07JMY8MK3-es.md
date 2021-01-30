@@ -16,6 +16,7 @@ comparePrice: 57.31 EUR
 prodname: 'Timberland Davis Square Leather Oxford  Zapatillas Unisex-Niño  Verde  Dark Green Nubuck   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMY8MK3/?tag=tolees-21'
 descuento: '51.16'
 average: '27.99'

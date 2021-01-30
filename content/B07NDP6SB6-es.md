@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Earth Core Raglan Round Neck Sudadera  Rosa  Dk Tea Rose A827   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDP6SB6/?tag=tolees-21'
 descuento: '59.42'
 average: '29.19'

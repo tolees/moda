@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'FANTAZIA - Pantalón Corto - Pierna Ancha - para Mujer Negro Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL4CGXW/?tag=tolees-21'
 descuento: '42.00'
 average: '14.5'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance 520v6  Zapatos para Correr para Mujer  Negro Black Lk6  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMLTJTD/?tag=tolees-21'
 descuento: '28.59'
 average: '43.425'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Superdry Vintage Logo Flock Floral Entry tee Camiseta  Gris  Grey Marl 07q   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3FXRV7/?tag=tolees-21'
 descuento: '64.15'
 average: '10.75'

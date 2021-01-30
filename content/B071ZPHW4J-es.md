@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Finether 5m Escalera Telescópica de Aluminio  Escalera Extensible  Escalera Multipropósito Portátil con Guantes de Trabajo y Bolsa de Escalera  14 Peldaños  Certificada por EN131  Capacidad de 150 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZPHW4J/?tag=tolees-21'
 descuento: '23.13'
 average: '122.99'

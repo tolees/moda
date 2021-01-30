@@ -16,6 +16,7 @@ comparePrice: 2.87 EUR
 prodname: 'XINFULUK Multi-propósito de Moda Coreana Diseño de lechón Cocina de Dibujos Animados Bolsas de Malla de baño Bolsa de Red de Almacenamiento Impermeable para bebés - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CC7L6Q6/?tag=tolees-21'
 descuento: '40.07'
 average: '1.72'

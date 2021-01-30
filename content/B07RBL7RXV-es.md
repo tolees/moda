@@ -16,6 +16,7 @@ comparePrice: 24.98 EUR
 prodname: 'SISMIURRA Colgante de Hoja chapada en Oro Blanco Collar de Hoja con Gota de Agua Zirconia cúbica Regalo de cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RBL7RXV/?tag=tolees-21'
 descuento: '63.29'
 average: '14.44'

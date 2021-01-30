@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Lifewit Bolsa Térmica Porta Alimentos con Paquete de Hielo Doble Compartimentos Aislamiento Bolsa de Almuerzo Para Hombres Mujeres Niños Bebé Bolso Térmico Para Camping Excursión Playa Refrescos 7L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072V3CJX5/?tag=tolees-21'
 descuento: '48.50'
 average: '16.99'

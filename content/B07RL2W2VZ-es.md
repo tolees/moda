@@ -16,6 +16,7 @@ comparePrice: 26.08 EUR
 prodname: 'Tommy Hilfiger TJM Essential Logo tee Camiseta Deporte  Azul  Blue Ckb   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RL2W2VZ/?tag=tolees-21'
 descuento: '20.44'
 average: '20.75'

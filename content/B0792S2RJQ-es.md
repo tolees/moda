@@ -16,6 +16,7 @@ comparePrice: 83.62 EUR
 prodname: 'KAPORAL Doria Abrigo  Bleu  Marine Marine   14 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792S2RJQ/?tag=tolees-21'
 descuento: '30.75'
 average: '57.91'

@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'Pepe Jeans Camiseta Trey Marino Hombre Small Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0844VVF3M/?tag=tolees-21'
 descuento: '30.09'
 average: '23.0'

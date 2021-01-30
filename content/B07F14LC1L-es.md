@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Havaianas Top Mix  Chanclas Unisex Adulto  Multicolor  Navy/Neon Yellow   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F14LC1L/?tag=tolees-21'
 descuento: '21.21'
 average: '14.793333333333333'

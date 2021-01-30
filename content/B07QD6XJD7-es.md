@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Rebel Bold tee Camiseta  Hombre  White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD6XJD7/?tag=tolees-21'
 descuento: '52.28'
 average: '9.52'

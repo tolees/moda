@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'edc by Esprit 099cc2g021 Chaqueta  Azul  Navy 400   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFMC5WW/?tag=tolees-21'
 descuento: '65.21'
 average: '21.035'

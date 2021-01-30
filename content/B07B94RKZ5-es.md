@@ -16,6 +16,7 @@ comparePrice: 23.57 EUR
 prodname: 'Clarks Un Adorn Lace  Zapatos de Cordones Derby para Mujer  Azul  Navy Combi   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B94RKZ5/?tag=tolees-21'
 descuento: '25.03'
 average: '20.363333333333333'

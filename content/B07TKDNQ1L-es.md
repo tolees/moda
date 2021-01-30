@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Graphic Crew B Sudadera  Verde  Needle Hm Needle Olive Night 0093   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKDNQ1L/?tag=tolees-21'
 descuento: '61.64'
 average: '26.85'

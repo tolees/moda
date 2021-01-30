@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'JOINFREE Niños Niñas Nadar Zapatos para el Agua Deportes acuáticos Calcetines Zapatillas Zapatos para la Piscina  Caramelo Unicornio 18-19 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGYRYVH/?tag=tolees-21'
 descuento: '65.25'
 average: '7.99'

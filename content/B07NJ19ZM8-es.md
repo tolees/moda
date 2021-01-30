@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Springfield INT.R.Real Down Tecnico Chaqueta  Negro  Negro 1   X-Large  Tamaño del Fabricante: XL  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ19ZM8/?tag=tolees-21'
 descuento: '68.32'
 average: '32.27'

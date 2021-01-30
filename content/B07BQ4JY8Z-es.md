@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Scarlett Vaqueros  Azul  Blue Drop Em   28W / 33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQ4JY8Z/?tag=tolees-21'
 descuento: '53.67'
 average: '46.31'

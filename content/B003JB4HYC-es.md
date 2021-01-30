@@ -16,6 +16,7 @@ comparePrice: 25.44 EUR
 prodname: 'uhlsport Camiseta Stream II Manga Larga  Todo el año  Unisex  Color Violeta y Blanco  tamaño XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JB4HYC/?tag=tolees-21'
 descuento: '74.49'
 average: '6.49'

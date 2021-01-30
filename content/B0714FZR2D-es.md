@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'KAPORAL NEGOR Camiseta  Verde  Army   10 Años para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0714FZR2D/?tag=tolees-21'
 descuento: '30.00'
 average: '13.3'

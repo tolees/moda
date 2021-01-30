@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Y.A.S YAS Yaschadro Wool Coat Abrigo  Verde  Beech Beech   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S23DMN1/?tag=tolees-21'
 descuento: '62.72'
 average: '50.57'

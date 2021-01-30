@@ -16,6 +16,7 @@ comparePrice: 48.89 EUR
 prodname: 'Lico Milan  Zapatos de High Rise Senderismo para Hombre  Negro Anthrazit/Orange  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GYTPMY/?tag=tolees-21'
 descuento: '19.84'
 average: '39.19'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'MICHLEY Bebé Ropa Niños Niñas Pijama Disfraces Primavera Franela Traje Animales Pelele maotouying-100cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2N27HW/?tag=tolees-21'
 descuento: '31.83'
 average: '14.99'

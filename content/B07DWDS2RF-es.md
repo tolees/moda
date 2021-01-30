@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Under Armour Tech SSC Graphic Camiseta  Mujer  Blanco  White/Lime Fizz/Charcoal 101   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWDS2RF/?tag=tolees-21'
 descuento: '53.97'
 average: '13.81'

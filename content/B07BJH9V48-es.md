@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Revend Skinny Vaqueros  Rinsed 8970-082  31W / 38L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJH9V48/?tag=tolees-21'
 descuento: '58.11'
 average: '41.87'

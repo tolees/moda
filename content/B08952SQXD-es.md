@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vestido de Tirantes con Cuello en Pico y Detalles de Encaje  Color Blanco  Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08952SQXD/?tag=tolees-21'
 descuento: '30.23'
 average: '20.93'

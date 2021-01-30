@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Paulson Plain  Zapatos de Cordones Derby para Hombre  Marrón  Tan Suede Tan Suede   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQVNMNF/?tag=tolees-21'
 descuento: '69.75'
 average: '27.21'

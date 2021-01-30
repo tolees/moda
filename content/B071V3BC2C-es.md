@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Core Poplin Classic Shirt Camisa  Azul  411   39 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071V3BC2C/?tag=tolees-21'
 descuento: '50.65'
 average: '39.43'

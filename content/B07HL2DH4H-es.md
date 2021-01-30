@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ganchos Carrito Bebé  WELAVILA Cochecito Ganchos Clip para Bolso cambiadore y Bolsa de Compras  Ajuste Universal  Pack de 2  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HL2DH4H/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

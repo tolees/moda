@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Napapijri Gardiner Camisa Casual  Rojo  Red Check 01c   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK1QHZX/?tag=tolees-21'
 descuento: '60.00'
 average: '29.283333333333335'

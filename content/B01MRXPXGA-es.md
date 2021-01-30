@@ -16,6 +16,7 @@ comparePrice: 32 EUR
 prodname: 'find. Flared Sleeve Blusa para Mujer  Negro  Black Mix   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRXPXGA/?tag=tolees-21'
 descuento: '62.50'
 average: '12.0'

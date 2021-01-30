@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Rainforest Winter 1 Chaqueta  Verde  Green Forest 2 GE3   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFRCSG/?tag=tolees-21'
 descuento: '62.65'
 average: '74.33'

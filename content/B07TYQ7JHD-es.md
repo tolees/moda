@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LIGE Relojes Hombre Moda Impermeable Deportivo Cuarzo Relojes de Hombre Cronógrafo Casual Negro Cuero Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYQ7JHD/?tag=tolees-21'
 descuento: '63.34'
 average: '32.99'

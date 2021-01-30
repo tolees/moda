@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Camisas de Mujer Tops Manga Corta Camisa de Gasa 3/4 Manga Blusa Ancha Mujeres Gasa Elegante Azul 2XL CLAF15-1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHL96T2/?tag=tolees-21'
 descuento: '21.75'
 average: '17.99'

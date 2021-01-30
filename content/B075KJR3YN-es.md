@@ -16,6 +16,7 @@ comparePrice: 89.01 EUR
 prodname: 'Astrapahl ed060217ap Vestido  Rojo  Scarlet Rot   32 EU para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KJR3YN/?tag=tolees-21'
 descuento: '87.11'
 average: '17.425'

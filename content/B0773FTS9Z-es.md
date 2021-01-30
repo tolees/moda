@@ -16,6 +16,7 @@ comparePrice: 15.27 EUR
 prodname: 'KONXIDO Reloj para Hombre Elegante  Pantalla Analógica con Esfera Negra Correa de Cuero Genuino Lujoso - Reloj de Diseño de Moda con Caja de Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0773FTS9Z/?tag=tolees-21'
 descuento: '21.22'
 average: '12.03'

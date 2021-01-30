@@ -16,6 +16,7 @@ comparePrice: 11.48 EUR
 prodname: 'Pepe Jeans Edison Camiseta  Verde  Middle Green 631   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWX7HX5/?tag=tolees-21'
 descuento: '30.57'
 average: '7.97'

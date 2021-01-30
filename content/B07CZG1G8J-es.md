@@ -16,6 +16,7 @@ comparePrice: 9.82 EUR
 prodname: 'Under Armour UA Heatgear Racer Camiseta Sin Mangas  Mujer  Naranja  Orange Dream/Metallic Silver 805   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZG1G8J/?tag=tolees-21'
 descuento: '18.02'
 average: '8.05'

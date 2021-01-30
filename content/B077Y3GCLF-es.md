@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'HIKARO Sudadera con Capucha Hombre  Gris  Grey Marl   52  Talla del fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y3GCLF/?tag=tolees-21'
 descuento: '40.00'
 average: '17.97'

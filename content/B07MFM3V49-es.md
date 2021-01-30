@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Becken Lace  Zapatos de Cordones Brogue para Hombre  Marrón  Dark Tan Lea Dark Tan Lea   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFM3V49/?tag=tolees-21'
 descuento: '56.50'
 average: '34.78'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Vero Moda Vmstella 3/4 Lace Abk Dress Noos Vestido  Negro  Black Black   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVR4MXK/?tag=tolees-21'
 descuento: '43.48'
 average: '16.95'

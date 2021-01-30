@@ -16,6 +16,7 @@ comparePrice: 429.9 EUR
 prodname: 'Trango Ibela Termic Parka  Mujer  Negro  510 -Negro   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWXCO5B/?tag=tolees-21'
 descuento: '46.59'
 average: '229.6'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Guantes Anticorte para Niños  Herefun Guantes Resistentes a Cortes Nivel 5 Seguridad para Cocina Trabajo Mecanico y Jardín  Guantes Resistentes para Niños al Corte de Proteccion Certificación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB2Z6RK/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

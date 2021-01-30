@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Lacoste CH4976 Camisa  Azul  Hemisphere   Small  Talla del Fabricante: 38  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797SHWJD/?tag=tolees-21'
 descuento: '63.39'
 average: '36.61'

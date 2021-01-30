@@ -16,6 +16,7 @@ comparePrice: 31.79 EUR
 prodname: 'Under Armour Fleece PO Men s Pullover Hoodie Sudadera con Capucha Ancha  Ropa Deportiva Transpirable y elástica para Hombre  Hombre  Gris  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCZMXML/?tag=tolees-21'
 descuento: '35.17'
 average: '20.61'

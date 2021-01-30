@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s Ex-Boyfriend Trucker Chaqueta Vaquera  Blanco  White Cell 0096   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT6ZZ29/?tag=tolees-21'
 descuento: '39.10'
 average: '67.97666666666666'

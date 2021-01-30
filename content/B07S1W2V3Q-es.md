@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Mabsoot  Camisa  Verde  Open Green 350   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1W2V3Q/?tag=tolees-21'
 descuento: '69.01'
 average: '30.97'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Cozy Flip  Zapatos de Playa y Piscina Unisex-Adulto  Gris  Castlerock/Hot Coral 07   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SF2KX4M/?tag=tolees-21'
 descuento: '54.99'
 average: '8.98'

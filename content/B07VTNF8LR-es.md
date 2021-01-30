@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Esprit 999EE1F808s Blusa  Azul  Light Blue 440   34  Talla del Fabricante: 32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTNF8LR/?tag=tolees-21'
 descuento: '76.79'
 average: '9.28'

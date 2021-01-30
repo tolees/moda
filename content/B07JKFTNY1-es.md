@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'TOTTO Bolso Bayonne Bolso Bandolera  20 cm  20 litros  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKFTNY1/?tag=tolees-21'
 descuento: '30.11'
 average: '20.96'

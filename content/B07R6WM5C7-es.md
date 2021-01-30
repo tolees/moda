@@ -16,6 +16,7 @@ comparePrice: 23.79 EUR
 prodname: 'O NEILL LM Olsen L/Slv - Camiseta para Hombre  Hombre  9P2104  Superblanco  Extra-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6WM5C7/?tag=tolees-21'
 descuento: '27.15'
 average: '17.33'

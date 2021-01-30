@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Talbot Torro Set de Badminton 2 Attacker Junior para Niños  2 Raquetas Más Cortas 53 cm  2 Volantes  en un Valioso Bolso  449401'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2R7DG5/?tag=tolees-21'
 descuento: '39.80'
 average: '14.99'

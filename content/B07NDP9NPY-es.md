@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'TBS Paxsonn  Zapatos de Cordones Derby para Hombre   Marron Foncé B8245   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDP9NPY/?tag=tolees-21'
 descuento: '70.27'
 average: '29.7'

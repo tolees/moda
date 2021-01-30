@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Mr. Boho Hayes Santa Fe   -   Gafas de sol para mujer  44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N17F2HR/?tag=tolees-21'
 descuento: '46.24'
 average: '29.57'

@@ -16,6 +16,7 @@ comparePrice: 34.71 EUR
 prodname: 'Billetera de cuero para hombre  billetera de cuero genuino  billetera de triple pliegue RFID para hombres  billetera Corspake con caja de regalo  11 ranuras para tarjetas de crédito  3 ventanas con id'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVTQ5YN/?tag=tolees-21'
 descuento: '49.87'
 average: '14.544999999999998'

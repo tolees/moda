@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Jack & Jones Jjprparma Shirt L/s Noos Camisa  Weiß  White/Super Slim   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WWQ0QRC/?tag=tolees-21'
 descuento: '39.95'
 average: '24.365'

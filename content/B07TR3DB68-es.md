@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Beige  Sand Sand   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TR3DB68/?tag=tolees-21'
 descuento: '75.35'
 average: '22.17'

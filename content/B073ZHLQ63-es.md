@@ -16,6 +16,7 @@ comparePrice: 390.0 EUR
 prodname: 'The North Face M Gotham Chaqueta De Plumón  Hombre  Negro/Gris  TNF Black/High Rise Grey   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZHLQ63/?tag=tolees-21'
 descuento: '50.00'
 average: '217.9975'

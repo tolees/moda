@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Pepe Jeans Art Camiseta  Gris  933grey Marl 933   3 años  Talla del Fabricante: 3  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRB8V1S/?tag=tolees-21'
 descuento: '21.51'
 average: '15.62'

@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Amilril Perla Collar Colgante Mujer  Plata de Ley 925 Brillante Circonita Regalos Originales con Hermosa Caja Regalo  San Valentín Regalos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWRLVVP/?tag=tolees-21'
 descuento: '84.56'
 average: '16.98'

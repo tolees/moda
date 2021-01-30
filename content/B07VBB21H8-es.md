@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Cartoon 8457/7804 Blusa  Gris  Grey/White 9811   44  Talla del Fabricante: 42  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBB21H8/?tag=tolees-21'
 descuento: '80.78'
 average: '13.45'

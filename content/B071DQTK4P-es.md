@@ -16,6 +16,7 @@ comparePrice: 76.89 EUR
 prodname: 'WenVen Chaqueta Parka de Algodón con Capucha para Hombres Caqui Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071DQTK4P/?tag=tolees-21'
 descuento: '25.00'
 average: '65.88'

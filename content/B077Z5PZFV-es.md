@@ -16,6 +16,7 @@ comparePrice: 520.0 EUR
 prodname: 'Montblanc 4810 Westside Bolso Bandolera  27 cm  Negro  Schwarz '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Z5PZFV/?tag=tolees-21'
 descuento: '47.82'
 average: '310.20571428571435'

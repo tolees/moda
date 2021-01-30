@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Wells A  Zapatillas para Hombre  Azul  Navy   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X6FBTC/?tag=tolees-21'
 descuento: '21.96'
 average: '68.62333333333333'

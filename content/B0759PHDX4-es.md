@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Step Isle Lace  Zapatos de Cordones Derby para Hombre  Beige  Sand Canvas-   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759PHDX4/?tag=tolees-21'
 descuento: '72.15'
 average: '19.48'

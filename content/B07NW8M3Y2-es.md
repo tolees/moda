@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Keepsakes 2.0-Broken Arrow  Botines para Mujer  Morado  Mauve Suede MVE   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW8M3Y2/?tag=tolees-21'
 descuento: '40.00'
 average: '38.46'

@@ -16,6 +16,7 @@ comparePrice: 19.69 EUR
 prodname: 'XTI 86290.0  Bolso bandolera para Mujer  Negro  Negro   22x22x7 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8Z5PFS/?tag=tolees-21'
 descuento: '27.17'
 average: '18.119999999999997'

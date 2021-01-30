@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'El Naturalista N5372 Pleasant  Sandalias con Correa de Tobillo para Mujer  Multicolor  Piedra Mixed Piedra Mixed   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJWYN7R/?tag=tolees-21'
 descuento: '82.61'
 average: '21.085'

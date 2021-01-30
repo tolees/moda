@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Jack & Jones Jjeplain tee SS V-Neck Noos Camiseta  Blanco  White Detail: Slim Fit   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079CCNGDS/?tag=tolees-21'
 descuento: '30.03'
 average: '6.49'

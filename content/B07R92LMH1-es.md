@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Verde/Negro  Olive Green Heather  Black   Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R92LMH1/?tag=tolees-21'
 descuento: '69.49'
 average: '48.82'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Rush Heatgear Compression Camisa de Manga Larga  Hombre  Negro  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q39DSWS/?tag=tolees-21'
 descuento: '54.12'
 average: '27.53'

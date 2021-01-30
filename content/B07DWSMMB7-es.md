@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Zapatos de Seguridad Hombres  LM-313 Zapatillas de Trabajo con Punta de Acero Ultra Liviano Reflectivo Transpirable 41 EU S1p Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWSMMB7/?tag=tolees-21'
 descuento: '64.29'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 139 EUR
 prodname: 'Tommy Hilfiger Recycled Short Puffer Chaqueta  Azul  Black Iris 002   74 para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZ51GX4/?tag=tolees-21'
 descuento: '64.54'
 average: '49.29'

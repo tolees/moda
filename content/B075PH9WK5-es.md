@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Trek Part  Sandalias de Talón Abierto para Hombre  Marrón  Dark Tan Lea-   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075PH9WK5/?tag=tolees-21'
 descuento: '45.02'
 average: '54.95'

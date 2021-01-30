@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'adidas Tiro19 PES Jkt Chaqueta de Deporte  Hombre  Power Red/White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K189KYP/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

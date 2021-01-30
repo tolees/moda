@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Hot One Cambios De Color Monederos y Bolsos Luminosos Geométricos Monedero Holográfico Monedero Reflectante Mochilas De Moda  5# Mochila No.2 + Billetera con Botones  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BW99ZGZ/?tag=tolees-21'
 descuento: '64.29'
 average: '35.71'

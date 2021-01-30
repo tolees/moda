@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'ElegantPark HC1920 Zapatos Novia Tacon Bajo Correa Cruzada Punta Cerrada Zapatos de Novia de Encaje Zapatos Boda Mujer Marfil EU 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TF6L7MN/?tag=tolees-21'
 descuento: '25.00'
 average: '56.99'

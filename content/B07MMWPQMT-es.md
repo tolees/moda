@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Super High Skinny Vaqueros  Azul  Dark Indigo X1e   27 W/ 32 L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWPQMT/?tag=tolees-21'
 descuento: '78.65'
 average: '19.2'

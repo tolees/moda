@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'REPLAY Anbass Vaqueros Slim  Verde  Military Green 30   W36/L36  Talla del Fabricante: 36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8SQ4Z3/?tag=tolees-21'
 descuento: '41.04'
 average: '81.95'

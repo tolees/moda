@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Columbia Marquam Peak Chaqueta  Hombre  Marrón  Camel Brown   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCGJW7C/?tag=tolees-21'
 descuento: '55.24'
 average: '102.95'

@@ -16,6 +16,7 @@ comparePrice: 13.97 EUR
 prodname: 'Riñonera Deportiva  Riñonera Mujer Hombre Running Cinturón Impermeable Bandolera Multifuncional Bolsillos Ajustable Bolso de Cintura Viajar Camina el Perro Bicicleta Excursionismo Acampada Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW8QJWK/?tag=tolees-21'
 descuento: '16.11'
 average: '11.72'

@@ -16,6 +16,7 @@ comparePrice: 16.82 EUR
 prodname: 'Kappa ZOSHIM 3 Betis Camiseta  Hombre  Neutro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FM3R92Z/?tag=tolees-21'
 descuento: '40.84'
 average: '14.903999999999998'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Fruit of the Loom Mens Original 5 Pack T-Shirt Camiseta  Blanco  White   Large  Pack de 5  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076TVLK7R/?tag=tolees-21'
 descuento: '20.60'
 average: '13.935'

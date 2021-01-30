@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Calvin Klein Foundation Slim Denim Jacket Chaqueta Vaquera  Azul  Da110 Light Blue 1aa   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJ3F89V/?tag=tolees-21'
 descuento: '35.07'
 average: '64.28'

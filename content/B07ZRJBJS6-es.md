@@ -16,6 +16,7 @@ comparePrice: 3.22 EUR
 prodname: '1 Unids Silicona de Grado Alimenticio Juguetes para Mordedores de Bebé Guantes de Dentición Guantes Molares Sonda de Tela Neta Guantes de Bebé Guante de Bebé - Verde Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRJBJS6/?tag=tolees-21'
 descuento: '31.99'
 average: '2.19'

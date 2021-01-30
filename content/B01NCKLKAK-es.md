@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'G-Star Eyben Slim R T Wmn S/s Camiseta  Blanco  White 110   42  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCKLKAK/?tag=tolees-21'
 descuento: '34.89'
 average: '14.308333333333334'

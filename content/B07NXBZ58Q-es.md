@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Tyler Vaqueros Slim  Azul  Union Dark Blue Vf6   W38/L30  Talla del Fabricante: 38/30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXBZ58Q/?tag=tolees-21'
 descuento: '68.37'
 average: '25.3'

@@ -16,6 +16,7 @@ comparePrice: 39 EUR
 prodname: 'Geographical Norway Sudadera DE Hombre GYMCLASS B Blanco Roto XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5BFBQ5/?tag=tolees-21'
 descuento: '20.00'
 average: '31.2'

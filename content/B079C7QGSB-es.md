@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Jack & Jones  Jjebasic Polo SS Noos - Camiseta para Hombre  Azul  Navy Blazer   Talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C7QGSB/?tag=tolees-21'
 descuento: '30.02'
 average: '13.186666666666666'

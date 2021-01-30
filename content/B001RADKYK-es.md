@@ -16,6 +16,7 @@ comparePrice: 11.56 EUR
 prodname: 'Widmann -Conjunto de motorista - guantes  2 pulseras  collar con tachuelas de piel sintética'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001RADKYK/?tag=tolees-21'
 descuento: '21.02'
 average: '9.165'

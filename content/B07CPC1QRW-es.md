@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Serena Sandal Women  Sandalias de Punta Descubierta para Mujer  Negro Black 060  38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPC1QRW/?tag=tolees-21'
 descuento: '25.01'
 average: '22.49'

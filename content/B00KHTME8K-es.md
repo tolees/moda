@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Azul  Midnight Navy/Steel 410   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHTME8K/?tag=tolees-21'
 descuento: '48.37'
 average: '15.156666666666666'

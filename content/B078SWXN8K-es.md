@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Timberland Malibu Waves  Sandalias para Mujer  Negro  Black Full Grain   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SWXN8K/?tag=tolees-21'
 descuento: '35.31'
 average: '54.99'

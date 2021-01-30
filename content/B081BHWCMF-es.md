@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Challenger  Chaqueta cortavientos  Mujer  Blanco/Gris  White/Cirrus Grey   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BHWCMF/?tag=tolees-21'
 descuento: '67.97'
 average: '22.42'

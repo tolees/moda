@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Marca Amazon - AURIQUE Mallas de Deporte sin Costuras de Tiro Alto Mujer  Negro  Black   38  Label:S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ6NCCT/?tag=tolees-21'
 descuento: '18.58'
 average: '20.869999999999997'

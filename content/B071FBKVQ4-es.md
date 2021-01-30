@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Blanco  White-Blue Jean   41-42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FBKVQ4/?tag=tolees-21'
 descuento: '37.12'
 average: '28.29'

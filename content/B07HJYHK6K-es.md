@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Under Armour Grade School Jet 2019  Zapatos de Baloncesto Unisex Niños  Azul  Royal/Black/Taxi 404   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJYHK6K/?tag=tolees-21'
 descuento: '16.90'
 average: '49.82'

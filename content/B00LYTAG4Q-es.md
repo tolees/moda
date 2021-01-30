@@ -16,6 +16,7 @@ comparePrice: 14.36 EUR
 prodname: 'Hollywood Star Fashion - Camiseta de manga corta con cuello en V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LYTAG4Q/?tag=tolees-21'
 descuento: '72.21'
 average: '3.99'

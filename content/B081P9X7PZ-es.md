@@ -16,6 +16,7 @@ comparePrice: 32.35 EUR
 prodname: 'NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaqueta de Deporte  Hombre  Obsidian Mist/Obsidian Mist/diffused Blue/ Laser Orange   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081P9X7PZ/?tag=tolees-21'
 descuento: '23.74'
 average: '24.67'

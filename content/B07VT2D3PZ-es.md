@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Hawiton Camison Sexy Mujer Corto Camison de Dormir Satín para Novia Camisón Mujer Seda Verano Camisones Sexy Vestido Tallas Grandes  Ligero y Suave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VT2D3PZ/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

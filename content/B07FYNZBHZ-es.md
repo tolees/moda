@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Uvex sportstyle 803 small CV Gafas de deporte  Adultos unisex  black mat  one size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYNZBHZ/?tag=tolees-21'
 descuento: '38.91'
 average: '61.06'

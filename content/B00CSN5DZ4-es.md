@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Fast Trek II Chaqueta Polar para Mujer  Color: Sea Salt  Talla: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CSN5DZ4/?tag=tolees-21'
 descuento: '59.99'
 average: '22.5'

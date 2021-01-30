@@ -16,6 +16,7 @@ comparePrice: 6.69 EUR
 prodname: 'JACK & JONES Jormachine tee SS Crew Neck Camiseta  Blanco  Cloud Dancer Fit: Reg   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTC3FFT/?tag=tolees-21'
 descuento: '17.49'
 average: '6.105'

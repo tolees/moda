@@ -16,6 +16,7 @@ comparePrice: 74.24 EUR
 prodname: 'Gant Sonnenbrille Ga7047 90A 54 Gafas de sol  Azul  Blau   54.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015E9IGPM/?tag=tolees-21'
 descuento: '49.18'
 average: '37.73'

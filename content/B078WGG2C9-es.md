@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'The North Face Etip Glove Guantes  Unisex Adulto  Negro  TNF Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WGG2C9/?tag=tolees-21'
 descuento: '37.58'
 average: '25.604999999999997'

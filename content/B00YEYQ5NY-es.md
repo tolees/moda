@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Columbia Midweight Stretch Pantalón  Mujer  Negro  Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YEYQ5NY/?tag=tolees-21'
 descuento: '45.46'
 average: '29.99'

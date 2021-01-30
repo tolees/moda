@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Cotrell Lane 261486527  Zapatos de Cordones Derby para Hombre  Verde  Olive Combi Olive Combi   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFGB4V7/?tag=tolees-21'
 descuento: '57.31'
 average: '34.55666666666667'

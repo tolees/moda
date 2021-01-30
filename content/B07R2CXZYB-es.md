@@ -16,6 +16,7 @@ comparePrice: 4.37 EUR
 prodname: 'BaZhaHei Bolsos de Hombro Bolsos de Mujer Y Bolsos de Dibujos Animados NiñOs NiñAs Mini Bolso Crossbody'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2CXZYB/?tag=tolees-21'
 descuento: '56.52'
 average: '1.9'

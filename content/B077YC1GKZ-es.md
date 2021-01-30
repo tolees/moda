@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'HIKARO Sudadera con Capucha Hombre  Rojo  Red   48  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YC1GKZ/?tag=tolees-21'
 descuento: '67.85'
 average: '9.63'

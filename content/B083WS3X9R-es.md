@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'STARBILD Leggins Deportivas para Mujer para Adelgazar Leggins Anticeluliticos Mallas Termicos de Neopreno Fitness Deporte Correr Yoga Pantalón de Sudoración Adelgazantes Corto Negro y Amarillo S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083WS3X9R/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

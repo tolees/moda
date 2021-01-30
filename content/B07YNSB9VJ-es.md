@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Marca Amazon - find. Kitten Heel Court Zapatos de tacón con Punta Cerrada  Beige  Blush  Nude   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNSB9VJ/?tag=tolees-21'
 descuento: '84.90'
 average: '7.985'

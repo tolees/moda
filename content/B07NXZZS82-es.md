@@ -16,6 +16,7 @@ comparePrice: 78.41 EUR
 prodname: 'Pierre Cardin Antibes Raw Denim Vaqueros Slim  Blau  Blau 53   42W x 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXZZS82/?tag=tolees-21'
 descuento: '32.27'
 average: '53.11'

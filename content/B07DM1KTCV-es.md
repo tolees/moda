@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bebé Niña Vestido de Fiesta Princesa Disfraces Tutú Ballet Lunares Fantasía Vestid Carnaval Bautizo Cumpleaños Baile para Infantiles Recién Nacido Disfraces de Princesa con Diadema 12 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DM1KTCV/?tag=tolees-21'
 descuento: '61.72'
 average: '9.95'

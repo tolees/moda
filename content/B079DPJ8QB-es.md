@@ -16,6 +16,7 @@ comparePrice: 16.1 EUR
 prodname: 'La Vogue Zapatos Zapatilla con Lentejuela Para Niña Princesa Fiesta Rosa 29/Longitud Interior 19CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DPJ8QB/?tag=tolees-21'
 descuento: '31.43'
 average: '11.04'

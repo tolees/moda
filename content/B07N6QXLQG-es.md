@@ -16,6 +16,7 @@ comparePrice: 26.4 EUR
 prodname: 'Tommy Hilfiger Cuff Jersey Pant Pantalones térmicos  Gris  Grey 091   Large  Talla del Fabricante: LG  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6QXLQG/?tag=tolees-21'
 descuento: '28.56'
 average: '20.665'

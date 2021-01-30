@@ -16,6 +16,7 @@ comparePrice: 25.73 EUR
 prodname: 'MTNG Picton  Bolso Bolera para Mujer   Nylon/lis Negro   16x26x35 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PML1SFR/?tag=tolees-21'
 descuento: '39.60'
 average: '15.54'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Crocs Classic Flip K  Chanclas Unisex Niños  Azul  Navy   33/34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010ADNCAQ/?tag=tolees-21'
 descuento: '20.01'
 average: '13.59'

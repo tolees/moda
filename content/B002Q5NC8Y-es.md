@@ -16,6 +16,7 @@ comparePrice: 142.0 EUR
 prodname: 'Ray-Ban Clubmaster RB3016 W0365 - Gafas de sol para hombre  Negro  Ebony/Arista W0365   51'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002Q5NC8Y/?tag=tolees-21'
 descuento: '29.61'
 average: '98.12714285714284'

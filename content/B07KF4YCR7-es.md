@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Camiseta  Multicolor  2 Pack tee White +/Smokestack Htr 0005   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4YCR7/?tag=tolees-21'
 descuento: '30.03'
 average: '24.49'

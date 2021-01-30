@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre  azul  navy   31W / 32L  Label: 31W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772R4HZH/?tag=tolees-21'
 descuento: '39.05'
 average: '12.19'

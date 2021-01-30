@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Quiksilver Monkey Abyss  Zapatos de Playa y Piscina para Hombre  Azul  Blue/Black/Blue Xbkb   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRTKZDZ/?tag=tolees-21'
 descuento: '41.32'
 average: '13.49'

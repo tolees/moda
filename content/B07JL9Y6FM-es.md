@@ -16,6 +16,7 @@ comparePrice: 10.79 EUR
 prodname: '2*Piezas Conjunto de Lencería Pijama Semi Transparente de Verano sin Mangas Picardías Atractivas Floral Encaje+Braguita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JL9Y6FM/?tag=tolees-21'
 descuento: '52.27'
 average: '5.15'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-Star Sp15046 Sweat Sudadera  Azul  Royal Blue 45   12 años  Talla del Fabricante: 12A  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SN54RSG/?tag=tolees-21'
 descuento: '64.22'
 average: '25.03'

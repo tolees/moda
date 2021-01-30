@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Azul  Creeping Thyme ADV 0412   50W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8N4DX/?tag=tolees-21'
 descuento: '71.45'
 average: '39.37'

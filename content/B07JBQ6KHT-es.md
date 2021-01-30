@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Columbia Lay D Down II Chaqueta  Mujer  Verde  Talla: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBQ6KHT/?tag=tolees-21'
 descuento: '67.97'
 average: '80.07'

@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'GANT D1. Harvest Moon Chiffon Blouse Blusa  Azul  Persian Blue 423   38  Talla del Fabricante: 36  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HWS2NPL/?tag=tolees-21'
 descuento: '66.75'
 average: '46.54'

@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'Percy Perry Hombre Chaqueta de Piloto Bombardero Chaqueta Clásico Invierno Negro XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6BN8C2/?tag=tolees-21'
 descuento: '15.50'
 average: '59.99'

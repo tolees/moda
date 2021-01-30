@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Armani Exchange Cotton Satin Pois Camisa   3D Micro Boxes White 6172   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMTDK57/?tag=tolees-21'
 descuento: '66.71'
 average: '31.63'

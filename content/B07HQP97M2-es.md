@@ -16,6 +16,7 @@ comparePrice: 53.0 EUR
 prodname: 'Speedo Fastskin Elite Mirror Gafas de natación  Unisex Adulto  Blanco/Rojo  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQP97M2/?tag=tolees-21'
 descuento: '28.36'
 average: '37.97'

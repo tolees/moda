@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox U Kennet B  Zapatillas para Hombre  Blanco  White C1000   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ2X4YS/?tag=tolees-21'
 descuento: '46.00'
 average: '53.540000000000006'

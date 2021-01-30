@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Zerimar Zapatos con Alzas Interiores para Hombres Aumento 7 cm | Zapatos de Hombre con Alzas Que Aumentan Su Altura | Zapatos Hombre Invierno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NP4M2JP/?tag=tolees-21'
 descuento: '15.50'
 average: '109.0'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Superdry OL Elite Crew Sudadera  Gris  Slate 07x   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3FYX28/?tag=tolees-21'
 descuento: '40.01'
 average: '35.99'

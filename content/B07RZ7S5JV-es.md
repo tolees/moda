@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Jack & Jones Jjeliam Leather Jacket Noos Chaqueta  Negro  Black Black   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ7S5JV/?tag=tolees-21'
 descuento: '30.75'
 average: '138.49'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Bampton Lace  Zapatos de Cordones Brogue para Hombre  Braun Tan Tan  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSJK3NN/?tag=tolees-21'
 descuento: '71.43'
 average: '28.229999999999997'

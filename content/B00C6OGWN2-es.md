@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Jack & Jones Basic O-Neck tee L/S Noos Camiseta  Blanco  Opt White   XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C6OGWN2/?tag=tolees-21'
 descuento: '35.05'
 average: '9.71'

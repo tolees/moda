@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Kipling FREEDOM - Organizador de bolso  1 liters  Multicolor  EPIC BOYS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HCX5K/?tag=tolees-21'
 descuento: '60.44'
 average: '9.89'

@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Negro  Black Full Grain   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXWDWWF/?tag=tolees-21'
 descuento: '43.22'
 average: '83.22'

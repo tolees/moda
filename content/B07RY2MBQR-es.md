@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Only Onlpatrice SS Linen Dnm tee PAL Camiseta  Blanco  Cloud Dancer Cloud Dancer   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY2MBQR/?tag=tolees-21'
 descuento: '36.69'
 average: '11.39'

@@ -16,6 +16,7 @@ comparePrice: 22.04 EUR
 prodname: 'New Look Earnie Patch Pocket Camisa  Negro  Black 1   40 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNLQLBF/?tag=tolees-21'
 descuento: '61.80'
 average: '8.42'

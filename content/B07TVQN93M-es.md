@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Wrangler SS Rainbow tee Camiseta  Marfil  Off White 737   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVQN93M/?tag=tolees-21'
 descuento: '75.28'
 average: '8.64'

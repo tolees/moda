@@ -16,6 +16,7 @@ comparePrice: 10.66 EUR
 prodname: 'Springfield 7.J.Ap.T.Turtle Neck Jersey  Azul  Azul 19   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ65PSL/?tag=tolees-21'
 descuento: '22.70'
 average: '9.45'

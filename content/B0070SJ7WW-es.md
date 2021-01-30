@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Stormbucks PT  Zapatos de Cordones Oxford para Hombre  Marrón  Brown Nubuck   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0070SJ7WW/?tag=tolees-21'
 descuento: '39.07'
 average: '85.3'

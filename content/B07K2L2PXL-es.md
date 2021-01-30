@@ -16,6 +16,7 @@ comparePrice: 119.46 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole Alpine Oxford  Zapatillas de Gimnasia para Hombre  Verde  Dk Green Full Grain   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2L2PXL/?tag=tolees-21'
 descuento: '34.71'
 average: '52.593333333333334'

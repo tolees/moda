@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s The tee Camiseta  Logotipo de la Serie Sepia Rose  XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVQFYXW/?tag=tolees-21'
 descuento: '50.00'
 average: '15.0'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'HKT by Hackett Hkt 3 SS tee Camiseta  Verde  6fnspruce 6fn   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHDN1X1/?tag=tolees-21'
 descuento: '52.00'
 average: '16.8'

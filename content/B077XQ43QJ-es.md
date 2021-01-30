@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Rival Fleece Po Hoodie Sudadera con Capucha  Hombre  Gris  Charcoal Light Heather/Black 020   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XQ43QJ/?tag=tolees-21'
 descuento: '22.20'
 average: '35.306666666666665'

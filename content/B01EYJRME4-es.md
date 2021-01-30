@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Headed South 4006  29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EYJRME4/?tag=tolees-21'
 descuento: '48.46'
 average: '68.58999999999999'

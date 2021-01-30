@@ -16,6 +16,7 @@ comparePrice: 290.0 EUR
 prodname: 'Feilan Gafas de natación Gafas para Nadar Antiempañado y Anti Rayos UV para Hombres Mujeres Adultos Jóvenes Niños - Lo Mejor para Hombres  Mujeres  Niños - Azul Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077JDNM2K/?tag=tolees-21'
 descuento: '96.56'
 average: '9.99'

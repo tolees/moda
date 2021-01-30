@@ -16,6 +16,7 @@ comparePrice: 10.76 EUR
 prodname: 'Marc O Polo 920727542412 Camisa  Azul  Combo B81   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JD2QMDH/?tag=tolees-21'
 descuento: '41.36'
 average: '6.31'

@@ -16,6 +16,7 @@ comparePrice: 50.04 EUR
 prodname: 'Clarks Un Trail Form  Zapatos de Cordones Derby  Gris  Taupe Nubuck-   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR6K3WH/?tag=tolees-21'
 descuento: '42.87'
 average: '36.82'

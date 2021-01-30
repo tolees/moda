@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Skinny  Vaqueros Skinny  Mujer  Azul  Tainted Blue 21H   W28/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079V4ZDPB/?tag=tolees-21'
 descuento: '64.75'
 average: '31.71'

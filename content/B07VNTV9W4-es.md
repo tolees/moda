@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Daren Zip Fly Vaqueros Straight  Verde  Lichen Green 82   42W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNTV9W4/?tag=tolees-21'
 descuento: '57.50'
 average: '38.23'

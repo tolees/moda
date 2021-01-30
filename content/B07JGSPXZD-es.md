@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Pepe Jeans Marge Sport Vaqueros Regular  Azul  8oz Rigid Med Used Denim   4-5 años  Talla del Fabricante: 104/4 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGSPXZD/?tag=tolees-21'
 descuento: '49.52'
 average: '23.36'

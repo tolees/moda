@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ipanema Kirei Fem  Chanclas para Mujer  Multicolor  Pink/Pink 9076.0   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X4RP6BN/?tag=tolees-21'
 descuento: '20.21'
 average: '15.95'

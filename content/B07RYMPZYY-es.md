@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s LS Baby tee Camisa Manga Larga  Multicolor  Agnes Stripe Cloud Dancer 0010   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYMPZYY/?tag=tolees-21'
 descuento: '50.14'
 average: '17.45'

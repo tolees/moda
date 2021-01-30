@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Essentials French Terry 3 Bandas Pantalón Corto  Hombre  Negro  Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMPSVZV/?tag=tolees-21'
 descuento: '28.64'
 average: '24.94'

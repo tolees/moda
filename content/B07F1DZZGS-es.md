@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Havaianas Top Mix  Chanclas Unisex Adulto  Multicolor  Lake Green/Flamingo   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1DZZGS/?tag=tolees-21'
 descuento: '22.61'
 average: '16.9'

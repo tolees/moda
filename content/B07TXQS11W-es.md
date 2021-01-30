@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Harry Potter Vestido para niñas Hogwarts Gris 12-13 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXQS11W/?tag=tolees-21'
 descuento: '43.89'
 average: '8.95'

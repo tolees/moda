@@ -16,6 +16,7 @@ comparePrice: 48.92 EUR
 prodname: 'adidas Must Haves Badge of Sports Hoodie Sudadera  Hombre  Azul  Legend Ink/Dark Blue   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5ZBFNH/?tag=tolees-21'
 descuento: '38.72'
 average: '29.98'

@@ -16,6 +16,7 @@ comparePrice: 17.55 EUR
 prodname: 'Bolso de Fiesta Noche Mujer Embrague Cartera de Mano de Satén para Mujer Diamantes  Bolsa de Cadena del Monedero para Boda y Baile  Bolsas de Hombro  Armada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4YKBSK/?tag=tolees-21'
 descuento: '31.68'
 average: '11.99'

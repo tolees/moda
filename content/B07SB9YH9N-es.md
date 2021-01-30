@@ -16,6 +16,7 @@ comparePrice: 20.73 EUR
 prodname: 'Disney HS2090 Conjuntos de Pijama  Rosa  Pink Pink   3 años para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB9YH9N/?tag=tolees-21'
 descuento: '47.42'
 average: '10.9'

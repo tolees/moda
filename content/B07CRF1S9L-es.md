@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Pepe Jeans Nate Jr Camisa   White 800   8 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CRF1S9L/?tag=tolees-21'
 descuento: '59.90'
 average: '16.0'

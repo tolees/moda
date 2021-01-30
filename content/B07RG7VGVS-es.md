@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 501 Crop Vaqueros Boyfriend  Azul  Jive Stone Wash 0073   W30/L30  Talla del Fabricante: 30 30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RG7VGVS/?tag=tolees-21'
 descuento: '37.40'
 average: '55.37875'

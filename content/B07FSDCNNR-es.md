@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Maui Lace  Zapatos de Cordones Derby para Mujer  Plateado  Pebble Metalic-   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSDCNNR/?tag=tolees-21'
 descuento: '59.73'
 average: '42.94'

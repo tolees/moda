@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Under Armour UA SC 3ZER0 III  Zapatos de Baloncesto para Hombre  Rojo  Red/Jet Gray/Black  601  601   51.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2PVDKM/?tag=tolees-21'
 descuento: '78.10'
 average: '21.9'

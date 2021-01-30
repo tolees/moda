@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LIGE Relojes para Hombre Acero Inoxidable Deportivos Cuarzo Cuarzo Analógico Reloj de Pulsera Moda Impermeables Hombres  Full Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDL8F97/?tag=tolees-21'
 descuento: '66.67'
 average: '29.99'

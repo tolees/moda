@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pepe Jeans Thrift Pl400755cf7 Chaqueta Vaquera  Azul  Denim CF7   XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0798KXHHK/?tag=tolees-21'
 descuento: '47.49'
 average: '51.98'

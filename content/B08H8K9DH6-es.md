@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'Superdry Hombre Chaqueta degradada Power Lima/Turquesa S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H8K9DH6/?tag=tolees-21'
 descuento: '50.00'
 average: '84.98'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers Beverlee-High Tea  Sandalias de Punta Descubierta para Mujer  Rosa  Pink Pnk   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0755PLCYK/?tag=tolees-21'
 descuento: '36.82'
 average: '32.2'

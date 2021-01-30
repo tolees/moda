@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Vanish Seamless Nov 1 Camisa de Manga Larga  Hombre  Negro  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVN5XT8/?tag=tolees-21'
 descuento: '75.22'
 average: '12.39'

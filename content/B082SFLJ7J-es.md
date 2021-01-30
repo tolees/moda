@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'BAIGIO Bolso Bandolera de Piel para Hombres iPad Bolso Mensajero de Cuero Retro Bolso de Negocios Bolsa Cruzada Cuerpo Cartera Diario para Negocios Deporte Casual Maletín del Trabajo Vintage'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SFLJ7J/?tag=tolees-21'
 descuento: '25.91'
 average: '22.22'

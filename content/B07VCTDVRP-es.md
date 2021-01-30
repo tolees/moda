@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Fossil Collar para Mujer JF03217710'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCTDVRP/?tag=tolees-21'
 descuento: '70.00'
 average: '17.7'

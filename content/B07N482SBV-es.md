@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'United Colors of Benetton College Man Camisa Casual  Azul  BLU 902   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N482SBV/?tag=tolees-21'
 descuento: '81.24'
 average: '9.37'

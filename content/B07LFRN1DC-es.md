@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D ANNYTAH D  Bailarinas para Mujer  Negro  Black C9997   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRN1DC/?tag=tolees-21'
 descuento: '75.45'
 average: '25.617272727272724'

@@ -16,6 +16,7 @@ comparePrice: 22.45 EUR
 prodname: 'Pintura para Tela y Ropa Permanente con Gran Capacidad de Cobertura Nazca – Set 8 Colores x 30ml – Pack de Pintura Textil ideal para Pintar tus Camisetas  Bolsas  Vaqueros  Cojines y cualquier Tejido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ILGZ2P2/?tag=tolees-21'
 descuento: '26.95'
 average: '14.916666666666666'

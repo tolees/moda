@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'hummel HUMMEL SLIMMER STADIL LOW - Zapatos de caña baja de lona unisex  Azul - Blau  Dress Blue/White KH 7647   37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FLR2NIE/?tag=tolees-21'
 descuento: '73.27'
 average: '21.384999999999998'

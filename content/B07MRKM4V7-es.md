@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'United Colors of Benetton Basic Bb2 Camiseta de Tirantes  Blanco  Bianco Panna 901   56/62  Talla del Fabricante: 56  para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MRKM4V7/?tag=tolees-21'
 descuento: '52.33'
 average: '3.79'

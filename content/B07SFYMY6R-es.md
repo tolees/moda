@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s June Batwing  Chanclas para Hombre  Negro  R Black 59   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFYMY6R/?tag=tolees-21'
 descuento: '34.04'
 average: '16.74'

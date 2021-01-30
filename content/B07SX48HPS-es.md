@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Carver Print  Zapatos de Playa y Piscina para Hombre  Negro  Black/Grey/Black Xksk   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SX48HPS/?tag=tolees-21'
 descuento: '47.15'
 average: '16.567500000000003'

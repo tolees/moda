@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste Ch9623 Camisa  Azul  Noir Phoenix/Lagon Nsv   Medium  Talla del Fabricante: 40  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HWQK76X/?tag=tolees-21'
 descuento: '35.44'
 average: '70.37'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Vaqueros  Dark Diamond Ft  31W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JM43QG8/?tag=tolees-21'
 descuento: '50.37'
 average: '32.3925'

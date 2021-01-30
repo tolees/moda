@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Elly Vaqueros  Azul  Mid Export Tm   32W / 33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KGCY3J/?tag=tolees-21'
 descuento: '74.97'
 average: '22.51'

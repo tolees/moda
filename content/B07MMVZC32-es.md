@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Luke Vaqueros  Blue Used Fe Bz  W26/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMVZC32/?tag=tolees-21'
 descuento: '40.00'
 average: '51.52333333333333'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Sukie B  Zapatillas para Mujer  Azul  Lt Blue C4003   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLX89Z/?tag=tolees-21'
 descuento: '57.62'
 average: '45.11333333333333'

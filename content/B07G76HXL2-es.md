@@ -16,6 +16,7 @@ comparePrice: 85 EUR
 prodname: 'Kipling ONALO Bolso de gimnasio  45 cm  18 liters  Blanco  Rainbow White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G76HXL2/?tag=tolees-21'
 descuento: '50.00'
 average: '42.5'

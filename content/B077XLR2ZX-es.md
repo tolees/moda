@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Armour Fleece Full Zip Sudadera con Capucha  Hombre  Negro  Black/Black 001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XLR2ZX/?tag=tolees-21'
 descuento: '42.13'
 average: '34.72'

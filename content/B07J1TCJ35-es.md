@@ -16,6 +16,7 @@ comparePrice: 10.15 EUR
 prodname: 'KINTRADE Portatil Lona de Algodón Bolso de Mano Comida Picnic Almuerzo Cosmético Bolsa Color Sólido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J1TCJ35/?tag=tolees-21'
 descuento: '50.34'
 average: '5.04'

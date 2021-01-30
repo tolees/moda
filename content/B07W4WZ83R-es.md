@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Springfield Brocha-c/70 Camiseta  Rosa  Pink 70   L  Tamaño del Fabricante: L  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4WZ83R/?tag=tolees-21'
 descuento: '62.54'
 average: '5.99'

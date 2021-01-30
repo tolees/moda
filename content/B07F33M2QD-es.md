@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva  Mujer  White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F33M2QD/?tag=tolees-21'
 descuento: '20.68'
 average: '94.66000000000001'

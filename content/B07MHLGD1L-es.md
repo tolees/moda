@@ -16,6 +16,7 @@ comparePrice: 37.49 EUR
 prodname: 'Adidas Adilette Comfort  Zapatos de Playa y Piscina para Hombre  Rojo  Red F34722   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHLGD1L/?tag=tolees-21'
 descuento: '68.23'
 average: '11.91'

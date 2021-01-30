@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Only onlSKY REG DNM Skirt BB PIM992 Noos Falda  Mezclilla De Color Azul Claro  Talla del Fabricante: 34 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFLL3ZD/?tag=tolees-21'
 descuento: '41.68'
 average: '17.49'

@@ -16,6 +16,7 @@ comparePrice: 26.96 EUR
 prodname: 'AURIQUE BAL1178 Leggings Deporte Mujer  Morado  Nightshade/White   36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMLH36W/?tag=tolees-21'
 descuento: '30.64'
 average: '18.7'

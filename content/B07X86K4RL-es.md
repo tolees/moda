@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Relojes de Pulsera Acero Inoxidable Negocios Cuarzo Analógico Relojes Elegantes Dorados Moda Vestir Reloj'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X86K4RL/?tag=tolees-21'
 descuento: '74.62'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Rise XT 3  Zapatos de Futsal Unisex Adulto  Black-Silver-Nrgy Red  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG17SFC/?tag=tolees-21'
 descuento: '55.03'
 average: '37.28333333333334'

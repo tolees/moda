@@ -16,6 +16,7 @@ comparePrice: 16.67 EUR
 prodname: 'Levi s SS Set-in Sunset Pocket Camiseta  Multicolor  Colorblock Stripe Dress Blue/White/Brilliant Red/Sodalite Blue 0087   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4QKSK/?tag=tolees-21'
 descuento: '31.01'
 average: '12.5'

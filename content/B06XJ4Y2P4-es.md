@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'find. Camisa Entallada de Manga Corta con Bandas Deportivas Hombre  Azul  Blue   XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJ4Y2P4/?tag=tolees-21'
 descuento: '70.00'
 average: '9.43'

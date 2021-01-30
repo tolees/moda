@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Powder Lite Chaqueta De Plumón  Niños  Negro  Black   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DZ7XCQY/?tag=tolees-21'
 descuento: '52.64'
 average: '28.41'

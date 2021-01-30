@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas CORE18 STD JKT Chaqueta de Deporte  Hombre  Black/White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076D9X6CY/?tag=tolees-21'
 descuento: '32.21'
 average: '60.98'

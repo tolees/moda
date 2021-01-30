@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'The North Face Tekware TNF Chaqueta 200 Shadow  Hombre  Urban Navy  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IHZQN8W/?tag=tolees-21'
 descuento: '35.46'
 average: '64.765'

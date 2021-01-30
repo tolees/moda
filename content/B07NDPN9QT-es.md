@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW Citishield Round Neck Sudadera  Azul  Dk Aged 89   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPN9QT/?tag=tolees-21'
 descuento: '72.53'
 average: '35.7'

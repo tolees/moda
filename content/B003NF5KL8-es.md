@@ -16,6 +16,7 @@ comparePrice: 124.0 EUR
 prodname: 'CATWALK COLLECTION - BELLSTONE - Bolso al hombro estilo shopper - Cuero vintage - Grande - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003NF5KL8/?tag=tolees-21'
 descuento: '43.59'
 average: '69.95'

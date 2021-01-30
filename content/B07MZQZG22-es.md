@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Pepe Jeans Golders Camiseta  Gris  Misty Grey 921   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQZG22/?tag=tolees-21'
 descuento: '39.32'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Crocs Classic Flip K  Chanclas Unisex Niños  Azul  Ice Blue 4o9   22/23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN8XM1P/?tag=tolees-21'
 descuento: '23.13'
 average: '13.06'

@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'CONQUECO - Chaleco - Moda - Sin Mangas - para Hombre Negro Negro  Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZJN2RF/?tag=tolees-21'
 descuento: '28.57'
 average: '99.99'

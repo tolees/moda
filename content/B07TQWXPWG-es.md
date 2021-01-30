@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Graphic 15 Hooded Sudadera  Multicolor  Mazarine Blue/Sartho Blue/Grey Htr B051   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQWXPWG/?tag=tolees-21'
 descuento: '50.01'
 average: '44.97'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Cosmo Step  Zapatos de Tacón para Mujer  Azul  Blush Leather Blush Leather   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ML3ZVWL/?tag=tolees-21'
 descuento: '70.28'
 average: '29.015'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Azul  Azul/Blanco   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HPVT32/?tag=tolees-21'
 descuento: '43.75'
 average: '22.526666666666664'

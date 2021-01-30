@@ -16,6 +16,7 @@ comparePrice: 18.81 EUR
 prodname: 'Hackett Army tee Camiseta   Ecru 814   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC17T7F/?tag=tolees-21'
 descuento: '25.89'
 average: '14.59'

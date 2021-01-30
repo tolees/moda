@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Antic Faded Ripped Marine  30W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RF18GZQ/?tag=tolees-21'
 descuento: '80.22'
 average: '25.71'

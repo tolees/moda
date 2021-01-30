@@ -16,6 +16,7 @@ comparePrice: 10.19 EUR
 prodname: 'Marca Amazon - find. Vestido Midi de Flores Mujer  Verde  Green   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HRZ7S7/?tag=tolees-21'
 descuento: '16.78'
 average: '11.816666666666668'

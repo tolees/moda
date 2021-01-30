@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Gris  Sportswear Logo Tee Smokestack 303   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6TY2QV/?tag=tolees-21'
 descuento: '65.12'
 average: '8.72'

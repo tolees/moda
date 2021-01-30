@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Only Onlantonia Faux Suede Midi Skirt Otw Falda  Negro  Black Black   38 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVNS4JN/?tag=tolees-21'
 descuento: '85.14'
 average: '9.66'

@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'Lydee Moda Plataforma Sandalias Mujer Verano Zapatos Tacon Ancho Tacon Alto Peep Toe Party Heels Performance Zapatos Grey Size 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088ZTX5V6/?tag=tolees-21'
 descuento: '50.20'
 average: '32.86'

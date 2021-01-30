@@ -16,6 +16,7 @@ comparePrice: 28 EUR
 prodname: 'Under Armour UA HG Racer Tank Camiseta sin Mangas  Mujer  Azul  Halogen Blue/Metallic Silver 441   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XSTQ91/?tag=tolees-21'
 descuento: '62.04'
 average: '13.065000000000001'

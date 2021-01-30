@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'KRISP 6610-CORBLK-08  Vestido Corto Patinadora Vuelo Fruncido Busto  Coral  6610   36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U2P0K6C/?tag=tolees-21'
 descuento: '51.94'
 average: '11.24'

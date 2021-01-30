@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Loganne Sudadera   Dulwich 594   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPP8JY/?tag=tolees-21'
 descuento: '70.40'
 average: '28.41'

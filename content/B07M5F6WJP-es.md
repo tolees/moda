@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Wrangler Larston Vaqueros  Ice Lake  29W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F6WJP/?tag=tolees-21'
 descuento: '57.93'
 average: '39.95'

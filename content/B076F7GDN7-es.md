@@ -16,6 +16,7 @@ comparePrice: 11.89 EUR
 prodname: 'RED WAGON Vestido Manga Larga Niñas  Multicolor  Multicoloured   146  Talla del fabricante: 11 años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076F7GDN7/?tag=tolees-21'
 descuento: '64.68'
 average: '4.2'

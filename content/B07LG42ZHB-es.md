@@ -16,6 +16,7 @@ comparePrice: 64.28 EUR
 prodname: 'Geox J BULLER Boy D  Zapatillas para Niños  Azul  Navy/Dk Red C4244   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG42ZHB/?tag=tolees-21'
 descuento: '48.74'
 average: '32.95'

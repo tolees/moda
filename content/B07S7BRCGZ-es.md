@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Austin Vaqueros Tapered  Azul  Mission Worn Zi   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7BRCGZ/?tag=tolees-21'
 descuento: '83.84'
 average: '16.15'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Vega Moc B  Mocasines para Mujer  Rojo  Scarlet/Off White C7y1q   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJD9PKY/?tag=tolees-21'
 descuento: '50.57'
 average: '44.44'

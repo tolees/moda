@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'KRISP Vestido Moda Mujer Fruncido  Granate  6487   38  6487-WIN-10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PWN1NWY/?tag=tolees-21'
 descuento: '36.55'
 average: '16.49'

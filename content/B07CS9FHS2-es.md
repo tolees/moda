@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans New Brooke Vaqueros Hombre Ajustados  Azul  Denim GN2   28W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CS9FHS2/?tag=tolees-21'
 descuento: '60.00'
 average: '38.0'

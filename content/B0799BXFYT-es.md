@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - MERAKI Camisa de Vestir de Corte Recto Hombre  Morado  Lilac   XXL  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0799BXFYT/?tag=tolees-21'
 descuento: '73.20'
 average: '6.7'

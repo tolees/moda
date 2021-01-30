@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Only Onlnew Carle L/S Pullover CC Knt Jersey  Multicolor  Forest Biome Stripes:W. Surf The Web/Orange.COM/Cadmium Yellow   XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVNRTQ2/?tag=tolees-21'
 descuento: '76.83'
 average: '6.95'

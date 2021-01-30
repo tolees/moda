@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Sandalias Mujer con Sandalias Wedge Plateau con Correa en el Tobillo Sandalias Bajas de Verano Alpargatas de Punta Abierta Zapatos Elegantes para Mujer Cómodos  38 EU  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5LGZHH/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

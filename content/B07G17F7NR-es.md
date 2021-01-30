@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Tommy Hilfiger T Camiseta Básica de Manga Corta  Negro  Meteorite   Talla única  Talla del Fabricante: 86  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G17F7NR/?tag=tolees-21'
 descuento: '19.80'
 average: '11.532499999999999'

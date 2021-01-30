@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Coat Dante Abrigo  Negro  Negro 2000   38  Talla del Fabricante: 36  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3TLNWT/?tag=tolees-21'
 descuento: '44.15'
 average: '55.82'

@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Geox U SAYMORE C  Zapatos de Cordones Derby para Hombre  Negro  Black C9999   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X5VY9F/?tag=tolees-21'
 descuento: '50.00'
 average: '89.95'

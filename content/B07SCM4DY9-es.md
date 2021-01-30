@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Scarlett High Vaqueros  Azul  Light Florin HR   24W/31L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCM4DY9/?tag=tolees-21'
 descuento: '26.25'
 average: '73.71'

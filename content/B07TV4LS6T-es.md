@@ -16,6 +16,7 @@ comparePrice: 31.78 EUR
 prodname: 'Zapatillas de Deportes Hombre Mujer Zapatos Deportivos Running Zapatillas para Correr Calcetines Zapatos Zapatos para Padres e Hijos（35-41）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV4LS6T/?tag=tolees-21'
 descuento: '15.07'
 average: '26.99'

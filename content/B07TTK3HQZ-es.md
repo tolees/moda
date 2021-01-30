@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Wrangler Retro Vaqueros Skinny  Azul  Montego Bay 11p   W24/L32  Talla del Fabricante: 24/32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTK3HQZ/?tag=tolees-21'
 descuento: '64.16'
 average: '35.82'

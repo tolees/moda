@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'The North Face Easy Raglan Camiseta  Hombre  Blanco  White/Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7WP3SJ/?tag=tolees-21'
 descuento: '34.31'
 average: '22.99'

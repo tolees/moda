@@ -16,6 +16,7 @@ comparePrice: 12.7 EUR
 prodname: 'Marca Amazon - AURIQUE Mallas Largas de Deporte Mujer  Rojo  Red Dhalia   40  Label:M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRCVFZY/?tag=tolees-21'
 descuento: '29.69'
 average: '8.93'

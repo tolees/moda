@@ -16,6 +16,7 @@ comparePrice: 35.91 EUR
 prodname: 'Nike Court Borough Low  PSV   Zapatos de Baloncesto para Niños  Negro  Black/Black 001   28 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKWB4ZC/?tag=tolees-21'
 descuento: '16.46'
 average: '30.0'

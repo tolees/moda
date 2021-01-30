@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha  Gris Claro  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7T8JTG/?tag=tolees-21'
 descuento: '35.01'
 average: '18.32142857142857'

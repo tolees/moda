@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Flex Multi Gingham Shirt Camisa  Azul  Blue 0ms   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RL2V1RR/?tag=tolees-21'
 descuento: '64.46'
 average: '32.81'

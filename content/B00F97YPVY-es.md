@@ -16,6 +16,7 @@ comparePrice: 69.98 EUR
 prodname: 'LEABAGS Detroit Bolso Bandolera de auténtico Cuero búfalo en el Estilo Vintage - Muskat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F97YPVY/?tag=tolees-21'
 descuento: '30.01'
 average: '50.98'

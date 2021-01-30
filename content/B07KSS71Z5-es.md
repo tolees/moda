@@ -16,6 +16,7 @@ comparePrice: 35.97 EUR
 prodname: 'AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Regalos Plata Verde Citrina Camber 1.1x1.5CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSS71Z5/?tag=tolees-21'
 descuento: '63.89'
 average: '12.99'

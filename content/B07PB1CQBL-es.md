@@ -16,6 +16,7 @@ comparePrice: 229.95 EUR
 prodname: 'Bose Frames - Gafas de sol con altavoces  Rondo  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PB1CQBL/?tag=tolees-21'
 descuento: '30.77'
 average: '164.54857142857142'

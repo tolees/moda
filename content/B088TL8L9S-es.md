@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Manguera de jardín flexible  100 FT/30 m  manguera de jardín  manguera extensible con 8 funciones  ducha de mano y guantes de jardín  pistola de pulverización para lavado de coche  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TL8L9S/?tag=tolees-21'
 descuento: '16.01'
 average: '20.99'

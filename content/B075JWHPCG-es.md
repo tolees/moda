@@ -16,6 +16,7 @@ comparePrice: 19 EUR
 prodname: 'Amazon Essentials Hooded Fleece Sweatshirt Sudadera  Verde  Olive Heather   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JWHPCG/?tag=tolees-21'
 descuento: '15.00'
 average: '16.15'

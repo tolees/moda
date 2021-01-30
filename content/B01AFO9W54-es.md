@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Diesel CREW NECK ESSENTIAL  Camiseta para Hombre  Multicolor  Black / White   L  Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AFO9W54/?tag=tolees-21'
 descuento: '38.91'
 average: '27.49'

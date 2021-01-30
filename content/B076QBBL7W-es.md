@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-STAR RAW Core 3D Slim Shirt Wmn L/s Blusa  Blanco  White 110   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QBBL7W/?tag=tolees-21'
 descuento: '50.01'
 average: '32.22'

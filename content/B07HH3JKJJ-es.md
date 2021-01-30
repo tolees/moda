@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Vgo 3Pares 2-4 Edad Guantes de Niños Guantes de Trabajo y de Jardinería Cubiertos de Látex 3Colores KID-RB6013 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH3JKJJ/?tag=tolees-21'
 descuento: '22.23'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 210 EUR
 prodname: 'The North Face Sport Hoodie Sudadera Deportiva con Capucha Thermoball  Mujer  Black/TNF White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQG1ZK1/?tag=tolees-21'
 descuento: '59.27'
 average: '86.7075'

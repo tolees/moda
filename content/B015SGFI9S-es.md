@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Havaianas Luna  Sandalias para Mujer  Dorado  Rose Gold   35/36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015SGFI9S/?tag=tolees-21'
 descuento: '33.26'
 average: '18.771428571428572'

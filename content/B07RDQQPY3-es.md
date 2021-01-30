@@ -16,6 +16,7 @@ comparePrice: 19.47 EUR
 prodname: 'Tommy Hilfiger TJM Split Box tee Camiseta Deporte  Azul  Blue Cbk   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDQQPY3/?tag=tolees-21'
 descuento: '26.55'
 average: '14.3'

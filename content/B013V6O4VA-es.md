@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Levi s Housemark Polo  Camiseta para Hombre  Blanco  C00987 BRIGHT WHITE X 1   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013V6O4VA/?tag=tolees-21'
 descuento: '38.10'
 average: '26.0'

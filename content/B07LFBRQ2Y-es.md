@@ -16,6 +16,7 @@ comparePrice: 17.45 EUR
 prodname: 'Levi s Perfect-tee Camiseta de Manga Corta  Multicolor  Koronis Brilliant Red 0039   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFBRQ2Y/?tag=tolees-21'
 descuento: '19.83'
 average: '13.219999999999999'

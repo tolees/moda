@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'GOGME Funda para Samsung Galaxy S20 FE 5G/4G Billetera  Carcasa de Cuero PU Retro Elegante Magnético Adsorción Automática Premium Flip Estuche para Samsung Galaxy S20 FE 5G/4G  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JYZWBLH/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Clarks Clarkdale Moon  Zapatos de Cordones Derby para Hombre  Marrón  Burgundy Suede Burgundy Suede   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFM3FFK/?tag=tolees-21'
 descuento: '76.64'
 average: '35.635000000000005'

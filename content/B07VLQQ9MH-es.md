@@ -16,6 +16,7 @@ comparePrice: 177.91 EUR
 prodname: 'Tommy Hilfiger TH Essential LW Dwn Chaqueta  Blanco  White Ybr   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLQQ9MH/?tag=tolees-21'
 descuento: '63.29'
 average: '67.14500000000001'

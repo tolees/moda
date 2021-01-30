@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Kipling Gleam  Bolso de Tocador para Mujer  Verde  Seagrass   18.5x11x8 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTM6THQ/?tag=tolees-21'
 descuento: '22.62'
 average: '17.18'

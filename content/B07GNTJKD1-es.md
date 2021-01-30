@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers On-The-go 600-Flawless  Sandalias de Talón Abierto para Mujer  Negro  Black/Black Bbk   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNTJKD1/?tag=tolees-21'
 descuento: '40.14'
 average: '32.449999999999996'

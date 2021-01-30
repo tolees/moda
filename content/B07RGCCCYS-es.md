@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Basic Hilfiger Hoody Sudadera  Blanco  White Ybl   Talla única  Talla del Fabricante: Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGCCCYS/?tag=tolees-21'
 descuento: '29.53'
 average: '70.4'

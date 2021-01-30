@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Lee Logo tee Camiseta  Rojo  Rhubarb Red Gbl   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P82SZDX/?tag=tolees-21'
 descuento: '15.28'
 average: '8.43'

@@ -16,6 +16,7 @@ comparePrice: 10.88 EUR
 prodname: 'find. Chunky Hiker Botines  Marrón Brown  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RBMK4RW/?tag=tolees-21'
 descuento: '17.92'
 average: '8.93'

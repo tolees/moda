@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'YISEVEN Guantes Hombre Pantalla Táctil Invierno de Cuero de Oveja de Real Piel de corder Dedo Completo Cálidos Forroda de terciopelo Corto Térmico Muñeca con botón de Conducción moto regalo  Negro L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F22F9GG/?tag=tolees-21'
 descuento: '31.25'
 average: '43.99'

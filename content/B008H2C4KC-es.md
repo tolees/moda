@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Timberland Euro Sprint Hiker  Zapatillas Chukka para Hombre  Negro  Black Nubuck   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008H2C4KC/?tag=tolees-21'
 descuento: '33.76'
 average: '107.985'

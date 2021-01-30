@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Jaysen A  Zapatillas para Mujer  Blanco  White C1000   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ3PTCR/?tag=tolees-21'
 descuento: '20.66'
 average: '57.42777777777778'

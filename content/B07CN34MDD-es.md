@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip U  Chanclas para Mujer  Rosa  Melon/White 6kp   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN34MDD/?tag=tolees-21'
 descuento: '19.97'
 average: '20.0'

@@ -16,6 +16,7 @@ comparePrice: 13.04 EUR
 prodname: 'Jack & Jones Jcobernda Sweat Crew Neck Ka Sudadera  Capitán del Cielo  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082JD6SD8/?tag=tolees-21'
 descuento: '22.55'
 average: '10.1'

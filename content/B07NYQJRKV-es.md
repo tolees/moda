@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Sexy Lencería Picardias Mujer Body Transparente Conjunto de Encaje Pecho Abierto Sexy Ropa Erótica Pijama Encaje y Tul Abierta Picardías Babydoll a Juego Camisón de Encaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYQJRKV/?tag=tolees-21'
 descuento: '36.40'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'JACK & JONES JCOOSCAR Jacket Collar Chaqueta  Negro Black  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8PJZKS/?tag=tolees-21'
 descuento: '63.82'
 average: '21.435000000000002'

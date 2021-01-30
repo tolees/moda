@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Relojes Hombre Relojes de Pulsera Cronógrafo Impermeable Negro Deportes Diseño Cara Grande Luminoso Reloj Azul Moda Fecha de Goma Analógica de Cuarzo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVG73CH/?tag=tolees-21'
 descuento: '74.62'
 average: '32.99'

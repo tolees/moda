@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Quiksilver Molokai-Flip-Flops For Men  Zapatos de Playa y Piscina para Hombre  Negro  Black/Black/White Xkkw   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WVCCVP/?tag=tolees-21'
 descuento: '19.96'
 average: '15.596666666666668'

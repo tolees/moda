@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Negro  Flag Black 083   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016QM4TDE/?tag=tolees-21'
 descuento: '42.54'
 average: '51.66'

@@ -16,6 +16,7 @@ comparePrice: 101.55 EUR
 prodname: 'SONGMICS Perchero con 3 Capas para Zapatos  con 18 Ganchos  Metal  68 8 x 35 2 x 187 cm  Negro HSR04B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DSXA0JQ/?tag=tolees-21'
 descuento: '50.77'
 average: '49.99'

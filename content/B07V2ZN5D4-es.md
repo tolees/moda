@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Wrangler ICONS Chaqueta Vaquera  Azul  6 Months 923   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2ZN5D4/?tag=tolees-21'
 descuento: '74.47'
 average: '25.52'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Helly Hansen Dubliner Jacket Chaqueta Chubasquero para Hombre de Uso Diario y para Actividades marítimas con la tecnología Helly Tech  Azul  Marino   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EOX0B2A/?tag=tolees-21'
 descuento: '34.16'
 average: '69.5'

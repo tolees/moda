@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'BAIGIO Maletín de Cuero Genuino Vintage  Bolso Hombre Bandolera Maletines Mensajero de Auténtica Piel Hombre para Portatil hasta 13 3 Pulgadas para Negocios Oficina Trabajo Viajes  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM1MGBN/?tag=tolees-21'
 descuento: '19.21'
 average: '39.58'

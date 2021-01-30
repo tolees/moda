@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'BOSS Boxer Brief 2p Solid  Naranja  Medium Orange 813   Large  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZK7LS1/?tag=tolees-21'
 descuento: '63.55'
 average: '14.56'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'VERO MODA Vmverodona LS Jacket Noos Abrigo  Rosado  Mocha Mousse Detail:MELANGE   42  Talla del fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCRX89Z/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

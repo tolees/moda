@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Lynn Mid Waist Skinny Vaqueros  Azul  Medium Aged 6550   27W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MR17BFW/?tag=tolees-21'
 descuento: '49.97'
 average: '43.094'

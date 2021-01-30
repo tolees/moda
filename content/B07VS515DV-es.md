@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Luke Vaqueros  Moto Used Zu  34W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS515DV/?tag=tolees-21'
 descuento: '50.87'
 average: '47.879999999999995'

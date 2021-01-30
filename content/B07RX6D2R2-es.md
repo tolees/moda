@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Esprit 089ee2k011 Camiseta  Azul  Navy 400   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RX6D2R2/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

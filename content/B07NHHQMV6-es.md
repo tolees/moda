@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Tamaris 1-1-22418-23  Zapatos de Tacón para Mujer  Plateado  PLAT.Glam STR. 932   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHHQMV6/?tag=tolees-21'
 descuento: '73.39'
 average: '10.63'

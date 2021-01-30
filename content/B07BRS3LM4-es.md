@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'BOSS Maine BC-c Vaqueros Straight  Azul  Dark Blue 408   33W/30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRS3LM4/?tag=tolees-21'
 descuento: '30.01'
 average: '83.95'

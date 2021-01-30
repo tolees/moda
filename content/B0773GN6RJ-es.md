@@ -16,6 +16,7 @@ comparePrice: 42.76 EUR
 prodname: 'DCCN 3 Pcs Canvas Bolsas Escolares Mochila niños niñas Adolescentes Mochila Escolar + Bolsa De Hombro + Billetera + Bolso de Pluma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0773GN6RJ/?tag=tolees-21'
 descuento: '50.00'
 average: '22.18'

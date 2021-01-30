@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'KRISP 6252-PNK-08  Vestido Corto Patinadora Vuelo Fruncido Busto  Rosa  6252   36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYZ0MU3/?tag=tolees-21'
 descuento: '51.94'
 average: '11.656666666666666'

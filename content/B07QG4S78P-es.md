@@ -16,6 +16,7 @@ comparePrice: 2.39 EUR
 prodname: 'BaZhaHei Monedero MóVil Con Estampado de Flores de Dama las Mujer Que Imprimen Monedas Cambian el Monedero del Embrague de Cremallera Cero los Bolsos de Llave del TeléFono de Cartera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QG4S78P/?tag=tolees-21'
 descuento: '56.49'
 average: '1.04'

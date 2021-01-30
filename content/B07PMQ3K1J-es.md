@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Wrangler ICONS Camisa Vaquera  Azul  2 Years 922   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMQ3K1J/?tag=tolees-21'
 descuento: '49.99'
 average: '37.48'

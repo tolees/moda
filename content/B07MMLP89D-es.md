@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Napapijri Rainforest W WINT 3 Chaqueta  Amarillo  Yellow Lime YA2   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLP89D/?tag=tolees-21'
 descuento: '57.54'
 average: '84.49'

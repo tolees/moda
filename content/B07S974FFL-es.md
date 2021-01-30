@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Crocs Athens  Chanclas Unisex Adulto  Azul  Bright Cobalt/Pepper 4kn   42/43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S974FFL/?tag=tolees-21'
 descuento: '47.18'
 average: '19.01'

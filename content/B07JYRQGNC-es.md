@@ -16,6 +16,7 @@ comparePrice: 209 EUR
 prodname: 'Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta   Negro  Tommy Black 078  X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYRQGNC/?tag=tolees-21'
 descuento: '32.08'
 average: '141.95'

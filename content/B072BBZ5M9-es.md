@@ -16,6 +16,7 @@ comparePrice: 34.34 EUR
 prodname: 'find. Botines Chelsea de Ante para Mujer  Marrón  Congo   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BBZ5M9/?tag=tolees-21'
 descuento: '67.97'
 average: '12.52'

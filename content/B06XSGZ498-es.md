@@ -16,6 +16,7 @@ comparePrice: 50.95 EUR
 prodname: 'Izas Chaqueta de Punto Samaun'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSGZ498/?tag=tolees-21'
 descuento: '39.20'
 average: '30.98'

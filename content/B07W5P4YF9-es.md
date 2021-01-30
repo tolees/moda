@@ -16,6 +16,7 @@ comparePrice: 7.77 EUR
 prodname: 'Mary White AF.INF.PCOGT Conjuntos de Pijama  Beige  Nude/Gris Ch Nude/Gris Ch   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5P4YF9/?tag=tolees-21'
 descuento: '22.14'
 average: '6.05'

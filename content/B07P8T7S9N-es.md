@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Morgan 192-rmubli.n Vestido  Negro  Noir Noir   X-Large  Talla del Fabricante: TXL  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8T7S9N/?tag=tolees-21'
 descuento: '69.16'
 average: '23.13'

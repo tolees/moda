@@ -16,6 +16,7 @@ comparePrice: 136.67 EUR
 prodname: 'Timberland Killington Hiker  Zapatillas Altas para Hombre  Negro  Black Full Grain   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCQZ4JX/?tag=tolees-21'
 descuento: '43.67'
 average: '76.99'

@@ -16,6 +16,7 @@ comparePrice: 78.88 EUR
 prodname: 'SINOES Hombre Zapatillas de Baloncesto Calzado Deportivo Al Aire Libre Moda High-Top Sneaker Antideslizante Zapatillas de Deporte Ligeros Zapatos para Correr Transpirable Lace Up'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M63MPWF/?tag=tolees-21'
 descuento: '71.37'
 average: '22.58'

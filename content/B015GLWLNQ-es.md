@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'Ermenegildo Zegna Brillengestelle EZ5038 Monturas de gafas  Plateado  Silver   50.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015GLWLNQ/?tag=tolees-21'
 descuento: '90.72'
 average: '27.84'

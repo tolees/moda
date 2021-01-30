@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Rider  Vaqueros Slim para Hombre  Azul  Broken Blue Sx   W32/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTR6GM3/?tag=tolees-21'
 descuento: '49.99'
 average: '44.98'

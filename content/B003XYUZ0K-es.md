@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 501 Original Fit Jeans Vaqueros  Azul  Sey 2367   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003XYUZ0K/?tag=tolees-21'
 descuento: '37.79'
 average: '55.99'

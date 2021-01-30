@@ -16,6 +16,7 @@ comparePrice: 85 EUR
 prodname: 'Pepe Jeans Spike Vaqueros  Azul  Fonce Denim H05   W32/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XQY34ZU/?tag=tolees-21'
 descuento: '37.65'
 average: '44.495000000000005'

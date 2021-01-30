@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Calvin Klein Ckj 026 Vaqueros Slim  Azul  Stay Black 911   32W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TP5Z19Z/?tag=tolees-21'
 descuento: '71.26'
 average: '30.884999999999998'

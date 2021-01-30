@@ -16,6 +16,7 @@ comparePrice: 23.26 EUR
 prodname: 'OBEEII Vestido de Fiesta Niña Disfraz para Ninas para Boda Bordado de Tul Comunión Fiesta para Cumpleaños Cóctel Ceremonia Disfraces Boda Prom Carnaval Cosplay Costume Begonia Rojo 120'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MFBW91/?tag=tolees-21'
 descuento: '50.00'
 average: '11.63'

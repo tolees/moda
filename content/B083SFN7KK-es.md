@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'HUTACT Telescopio Terrestre 20-60X80 Telescopio Monocular Impermeable Telescopios Terrestres con Trípode y Bolso BAK4 Prisma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SFN7KK/?tag=tolees-21'
 descuento: '67.50'
 average: '129.99'

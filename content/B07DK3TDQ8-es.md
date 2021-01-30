@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox Jr Ciak Girl a  Zapatillas Altas para Niñas  Blanco  White/Red C0050   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK3TDQ8/?tag=tolees-21'
 descuento: '61.78'
 average: '19.07'

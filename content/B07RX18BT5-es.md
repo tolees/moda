@@ -16,6 +16,7 @@ comparePrice: 24.04 EUR
 prodname: 'Levi s SS Graphic T-Shirt 2.0  Camiseta para Hombre  Azul  Hm Colors Sodalite Blue 0333   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RX18BT5/?tag=tolees-21'
 descuento: '37.81'
 average: '15.95'

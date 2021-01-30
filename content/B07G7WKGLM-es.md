@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Brace Master MMA Gloves Guantes UFC Guantes de Boxeo para Hombres Mujeres Cuero Más Acolchado Saco de Boxeo sin Dedos Guantes para Kickboxing  Sparring  Muay Thai y Heavy Bag  Blanco S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7WKGLM/?tag=tolees-21'
 descuento: '55.48'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Tom Tailor Denim Culver Vaqueros Skinny  Azul  Mid Stone Blue Black 10172   30W x 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8MLMHV/?tag=tolees-21'
 descuento: '68.31'
 average: '15.84'

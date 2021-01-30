@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Scalpers New Oxford BD - Camisa para Hombre  Talla 42  Color Verde Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PH3JYG3/?tag=tolees-21'
 descuento: '30.00'
 average: '41.93'

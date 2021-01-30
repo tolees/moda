@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'YACUN Sujetador Deportivo Mujer Bra Chaleco de Malla Yoga Fitness Deportes Gym Top Sujetadores Push up Negro M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QMZK99G/?tag=tolees-21'
 descuento: '60.06'
 average: '3.99'

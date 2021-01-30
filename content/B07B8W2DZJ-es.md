@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Geo Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8W2DZJ/?tag=tolees-21'
 descuento: '20.00'
 average: '78.7'

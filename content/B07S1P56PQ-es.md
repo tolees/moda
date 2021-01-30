@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Blanco  Brw Outline T2 White+ 0771   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1P56PQ/?tag=tolees-21'
 descuento: '56.64'
 average: '13.154'

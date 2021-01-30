@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Dress Valentina Vestido  Rojo  Merlot 3215   48  Talla del Fabricante: 46  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3TLP2Y/?tag=tolees-21'
 descuento: '32.77'
 average: '47.013333333333335'

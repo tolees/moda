@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B Kilwi Boy G  Zapatillas para Bebés  Azul  Navy/Royal C4226   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQFXYMP/?tag=tolees-21'
 descuento: '36.87'
 average: '31.5'

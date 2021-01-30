@@ -16,6 +16,7 @@ comparePrice: 39 EUR
 prodname: 'Geographical Norway Sudadera DE Hombre GYMCLASS B Gris Melange L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5CHDF5/?tag=tolees-21'
 descuento: '30.00'
 average: '31.2'

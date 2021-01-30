@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Pepe Jeans Carrie Chaqueta   Mousse 808   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZM9WC8/?tag=tolees-21'
 descuento: '71.83'
 average: '54.00666666666667'

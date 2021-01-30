@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Levi s Barstow Western Standard Camisa  Negro  Archer Mineral Black 0004   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYMQWFC/?tag=tolees-21'
 descuento: '30.01'
 average: '30.79'

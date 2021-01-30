@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'HUGO Elisha02 Camisa  Negro  Black 1   38 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJPPFMH/?tag=tolees-21'
 descuento: '49.72'
 average: '35.17'

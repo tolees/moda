@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'Levi s LS Baby tee Camiseta  Gris  Smokestack Heather 0004   XX-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFK1HB9/?tag=tolees-21'
 descuento: '50.00'
 average: '17.5'

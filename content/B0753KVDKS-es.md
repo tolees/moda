@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Uvex sportstyle 803 colorvision gafas de sol Rectangular Deporte - Gafas de sol  Rectangular  Deporte  Al aire o sin montura  Gris  Policarbonato  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0753KVDKS/?tag=tolees-21'
 descuento: '50.31'
 average: '49.67'

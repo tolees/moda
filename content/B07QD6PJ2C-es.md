@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'PUMA Reactive Reversible Jacket Chaqueta De Entrenamiento  Hombre  Castlerock Black-Jaffa Orange  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD6PJ2C/?tag=tolees-21'
 descuento: '45.96'
 average: '40.5'

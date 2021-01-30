@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GANT D1.Winter TWI Buffalo Check Reg BD Camisa  Rojo  Port Red 605   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMNB2LW/?tag=tolees-21'
 descuento: '60.05'
 average: '39.36'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Zapatillas de Estar por Casa para Niñas Niños Invierno Zapatillas Interior Casa Caliente Pantuflas Suave Algodón Calentar Zapatilla Mujer Hombres 30-31 EU  Fabricante: 21 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7RC3RB/?tag=tolees-21'
 descuento: '45.18'
 average: '16.99'

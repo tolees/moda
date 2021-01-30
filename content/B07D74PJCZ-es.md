@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Svpo Batería recargable eléctrica Guantes térmicos de invierno con calefacción aislante guantes térmicos artríticos para hombres y mujeres  XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D74PJCZ/?tag=tolees-21'
 descuento: '52.63'
 average: '89.99'

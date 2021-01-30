@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Lacoste TH6712 Camiseta  Gris  Argent Chine   Large  Talla del Fabricante: 5  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MG5X6P8/?tag=tolees-21'
 descuento: '29.27'
 average: '32.8'

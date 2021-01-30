@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-Star 60885  Vaqueros para Mujer  Azul  Medium Aged 6131   W24/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X3JJJ8Y/?tag=tolees-21'
 descuento: '53.83'
 average: '75.15'

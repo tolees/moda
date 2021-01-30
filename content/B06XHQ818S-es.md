@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Geox J Kommodor B  Zapatillas para Niños  Negro  Black/White   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHQ818S/?tag=tolees-21'
 descuento: '36.18'
 average: '41.48'

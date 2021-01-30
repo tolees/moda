@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Gris  Light Grey-Bright Coral 0fl   38-39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN7HX9Z/?tag=tolees-21'
 descuento: '25.12'
 average: '33.69'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Tilden Walk  Zapatos de Cordones Derby  Marrón  Dark Tan Leather-   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCBNCG2/?tag=tolees-21'
 descuento: '51.46'
 average: '49.85666666666667'

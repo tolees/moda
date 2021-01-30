@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Chunky Crew Neck Sudadera  Naranja  Sign Orange Me   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N15XH4K/?tag=tolees-21'
 descuento: '78.47'
 average: '21.52'

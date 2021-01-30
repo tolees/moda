@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Literide Flip  Chanclas Unisex Adulto  Azul  Ice Blue/Almost White 4kp   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6M3DLN/?tag=tolees-21'
 descuento: '54.99'
 average: '18.0'

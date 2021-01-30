@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Quiksilver Omni Logo Sudadera con Capucha  Hombre  Blanco  White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFQ9Q88/?tag=tolees-21'
 descuento: '32.27'
 average: '36.57'

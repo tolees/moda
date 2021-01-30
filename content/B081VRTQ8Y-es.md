@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger KB0KB05547 Camiseta niño 16A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VRTQ8Y/?tag=tolees-21'
 descuento: '20.00'
 average: '23.92'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Pepe Jeans Agnes Pl504151 Camiseta   Chambray 564   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH341JC/?tag=tolees-21'
 descuento: '40.00'
 average: '18.62666666666667'

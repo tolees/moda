@@ -16,6 +16,7 @@ comparePrice: 204.89 EUR
 prodname: 'Juego de destornilladores de precisión  juego de herramientas de destornilladores de 20 piezas para dispositivos pequeños  como joyas  relojes  juguetes  gafas  dispositivos pequeños y otros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWYBTW5/?tag=tolees-21'
 descuento: '91.37'
 average: '17.69'

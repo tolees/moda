@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Corp Split tee Camiseta Deporte  Negro  Black Bds   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJKQV5Q/?tag=tolees-21'
 descuento: '52.38'
 average: '19.0'

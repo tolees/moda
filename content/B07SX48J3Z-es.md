@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Quiksilver Molokai Abyss  Zapatos de Playa y Piscina para Hombre  Multicolor  Red/Blue/Red Xrbr   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SX48J3Z/?tag=tolees-21'
 descuento: '18.27'
 average: '18.79'

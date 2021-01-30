@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Hailey 7/8 Vaqueros evasé  Azul  Archive Light Used 000   Talla única  Talla del Fabricante: W30/L30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXXVSK4/?tag=tolees-21'
 descuento: '61.54'
 average: '34.58'

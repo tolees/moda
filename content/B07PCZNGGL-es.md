@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Heritage Crew Neck Sweatshirt Sudadera  Negro  Masters Black 017   XX-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PCZNGGL/?tag=tolees-21'
 descuento: '43.01'
 average: '51.23'

@@ -16,6 +16,7 @@ comparePrice: 6.77 EUR
 prodname: 'YIHANK - Blusa - para niña Negro Black3 XXXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD5YVD1/?tag=tolees-21'
 descuento: '34.42'
 average: '4.44'

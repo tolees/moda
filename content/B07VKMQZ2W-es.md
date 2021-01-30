@@ -16,6 +16,7 @@ comparePrice: 47.46 EUR
 prodname: 'Teva Terra Fi Lite  Sandalias de Punta Descubierta para Hombre  Negro  Rambler Black Rrbk   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKMQZ2W/?tag=tolees-21'
 descuento: '28.42'
 average: '33.97'

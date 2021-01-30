@@ -16,6 +16,7 @@ comparePrice: 148.33 EUR
 prodname: 'Collar de árbol de la vida y la familia con búho de circonitas y cadena  de GOXO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVQD4VR/?tag=tolees-21'
 descuento: '83.83'
 average: '21.99'

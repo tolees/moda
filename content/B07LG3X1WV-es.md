@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox U KAVEN B  Zapatillas para Hombre  Marrón  Browncotto/Dk Coffee C6g6t   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG3X1WV/?tag=tolees-21'
 descuento: '43.44'
 average: '50.85'

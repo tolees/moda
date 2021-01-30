@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Baya  Zuecos Unisex Adulto  Marrón  Espresso   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSD5DHW/?tag=tolees-21'
 descuento: '23.93'
 average: '30.346666666666668'

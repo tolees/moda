@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B Djrock Boy C  Mocasines para Bebés  Azul  Navy/White C4211   21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWRRK2W/?tag=tolees-21'
 descuento: '45.27'
 average: '27.31'

@@ -16,6 +16,7 @@ comparePrice: 15.62 EUR
 prodname: 'GLOGLOW Capa Casual de otoño de Las Mujeres  Encaje o-Cuello con Cremallera Frontal Abierta Chaqueta de Manga Larga Chaqueta de Punto Blusa L-Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFXQTX5/?tag=tolees-21'
 descuento: '62.29'
 average: '5.89'

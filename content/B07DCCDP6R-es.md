@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA DIVECAT V2  Sandalias deslizantes Unisex-Adulto  Blanco White Black  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCCDP6R/?tag=tolees-21'
 descuento: '25.06'
 average: '16.21333333333333'

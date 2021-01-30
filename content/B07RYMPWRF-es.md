@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Biologia Adv 4102  36W/36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYMPWRF/?tag=tolees-21'
 descuento: '38.04'
 average: '73.16999999999999'

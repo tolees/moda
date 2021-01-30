@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D HOARA B  Botas Estilo Motero para Mujer  Negro  Black C9999   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV9DGW/?tag=tolees-21'
 descuento: '41.48'
 average: '56.61000000000001'

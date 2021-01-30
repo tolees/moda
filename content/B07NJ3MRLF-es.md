@@ -16,6 +16,7 @@ comparePrice: 5.88 EUR
 prodname: 'Springfield 4.2.T.Apuesta Cuadros Blusa  Multicolor  Multicolor 16   38  Tamaño del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ3MRLF/?tag=tolees-21'
 descuento: '25.00'
 average: '4.41'

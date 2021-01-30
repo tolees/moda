@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Zapatilla Casual Cuero Mujer - Nicki White Blue Red 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0831RHMRC/?tag=tolees-21'
 descuento: '40.00'
 average: '59.4'

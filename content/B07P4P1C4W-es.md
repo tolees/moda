@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Art Bergen  Botines para Mujer  Verde  Forest Forest   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4P1C4W/?tag=tolees-21'
 descuento: '47.85'
 average: '59.97'

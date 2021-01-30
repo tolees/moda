@@ -16,6 +16,7 @@ comparePrice: 26.03 EUR
 prodname: 'Marca Amazon - find. Abrigo Cruzado de Cuadros Hombre  Rojo  Red   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ979ST/?tag=tolees-21'
 descuento: '26.43'
 average: '19.15'

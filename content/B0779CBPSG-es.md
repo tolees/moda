@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'adidas Entrada 18 JSY Jersey  Niños  Negro  Black/White   140  9/10 años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779CBPSG/?tag=tolees-21'
 descuento: '38.77'
 average: '10.99'

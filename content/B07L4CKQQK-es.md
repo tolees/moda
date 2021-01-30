@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Tamaris 1-1-22444-23  Zapatos de Tacón para Mujer  Rojo  Chili Patent 520   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4CKQQK/?tag=tolees-21'
 descuento: '50.05'
 average: '24.95'

@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'find. Vestido con Escote Entrelazado para Mujer   Rosa  Old Rose   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSXDGAR/?tag=tolees-21'
 descuento: '80.00'
 average: '7'

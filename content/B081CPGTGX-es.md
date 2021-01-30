@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Geographical Norway Parka Hombre Boomerang A Gris Oscuro S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CPGTGX/?tag=tolees-21'
 descuento: '34.34'
 average: '65.0'

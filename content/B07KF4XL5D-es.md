@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Housemark Graphic tee Camiseta  Blanco  Hm Ssnl White 0207   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4XL5D/?tag=tolees-21'
 descuento: '40.04'
 average: '16.61'

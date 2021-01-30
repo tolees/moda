@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Helly Hansen Crew Vest Chaleco Marino con Forro Polar Interior para Hombres  Impermeable y diseñado para Cualquier Actividad Casual o Deportiva  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017XP09EQ/?tag=tolees-21'
 descuento: '19.18'
 average: '96.98'

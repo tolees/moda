@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'BONANGEL Calcetines de algodón peinado para hombre  Calcetines Estampados Hombre  Hombres Ocasionales Calcetines Divertidos Impresos de Algodón  Calcetines de moda de negocios  6 Pares-Coffee '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y2ZVTC1/?tag=tolees-21'
 descuento: '46.19'
 average: '10.99'

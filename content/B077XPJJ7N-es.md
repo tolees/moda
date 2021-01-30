@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Sportstyle Left Chest Camiseta de Manga Corta  Hombre  Rojo  Red-600   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XPJJ7N/?tag=tolees-21'
 descuento: '34.65'
 average: '16.99'

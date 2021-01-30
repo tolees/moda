@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Crocs Patricia Women  Sandalias de Punta Descubierta para Mujer  Blanco  Oyster/Gold 13s   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RELQBX8/?tag=tolees-21'
 descuento: '79.76'
 average: '8.7'

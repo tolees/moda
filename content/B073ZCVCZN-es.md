@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Core Stretch Slim Cneck tee Camiseta  Gris  Cloud Htr 501   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZCVCZN/?tag=tolees-21'
 descuento: '46.87'
 average: '21.2'

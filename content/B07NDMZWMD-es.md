@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Graphic 13 Round Neck Camiseta  Multicolor  Dk Shamrock/Asfalt Ao A695   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMZWMD/?tag=tolees-21'
 descuento: '50.01'
 average: '19.97'

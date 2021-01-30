@@ -16,6 +16,7 @@ comparePrice: 51.75 EUR
 prodname: 'find. Botines Años 60 Efecto Ante con Cremallera Mujer  Multicolor  Rust/red   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K7YL6K/?tag=tolees-21'
 descuento: '60.00'
 average: '20.7'

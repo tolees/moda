@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'MR.SIGA Guantes para el Lavado de Platos Reutilizables  Guantes de Limpieza Impermeables para baño de Cocina  tamaño pequeño  3 Pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQ7QDVL/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 16.2 EUR
 prodname: 'P Prettyia Moda Zapatillas de Tobillo de Alto Tacón Mini para Muñeca Muchachas 12 Pulgadas - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJBHKQJ/?tag=tolees-21'
 descuento: '44.44'
 average: '9.0'

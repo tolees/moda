@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'Odlo Hoody Midlayer 1/2 Zip Steam Sudadera  Mujer  Gris  Melange   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD5HSHZ/?tag=tolees-21'
 descuento: '43.76'
 average: '44.99'

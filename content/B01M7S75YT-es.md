@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ever-Pretty Vestido de Fiesta Gasa Cuello en V A-línea sin Mangas Corte Imperio para Mujer Borgoña 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7S75YT/?tag=tolees-21'
 descuento: '18.75'
 average: '55.989999999999995'

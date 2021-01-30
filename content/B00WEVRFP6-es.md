@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'KRISP Vestido Moda Mujer Fruncido  Moca  6487   40  6487-MOC-12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WEVRFP6/?tag=tolees-21'
 descuento: '43.20'
 average: '12.49'

@@ -16,6 +16,7 @@ comparePrice: 15.68 EUR
 prodname: 'O NEILL LM Arrowhead T-Shirt Camiseta Manga Corta para Hombre  Hombre  Scale  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9P8MH9/?tag=tolees-21'
 descuento: '37.31'
 average: '9.83'

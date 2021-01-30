@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre  Red  Beet Red   38W / 34L  Label: 38W / 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772FGV9K/?tag=tolees-21'
 descuento: '20.45'
 average: '15.91'

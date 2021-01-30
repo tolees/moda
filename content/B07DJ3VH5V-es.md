@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Annya High A  Zapatos de Tacón para Mujer  Beige  Beige C5000   39 5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ3VH5V/?tag=tolees-21'
 descuento: '67.87'
 average: '35.31'

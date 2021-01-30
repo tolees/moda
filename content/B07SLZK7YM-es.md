@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Havaianas Ipe  Chanclas Unisex Adulto  Multicolor  Beige/Mineral Green 7853   43/44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLZK7YM/?tag=tolees-21'
 descuento: '37.62'
 average: '12.886666666666665'

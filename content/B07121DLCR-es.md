@@ -16,6 +16,7 @@ comparePrice: 28 EUR
 prodname: 'find. AN5411 vestido fiesta mujer  Rosa  Blood Orange   46  Talla del Fabricante: XX-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07121DLCR/?tag=tolees-21'
 descuento: '62.50'
 average: '10.5'

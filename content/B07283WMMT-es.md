@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Lacoste L1212 Camiseta Polo  Azul  Methylene F9F   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07283WMMT/?tag=tolees-21'
 descuento: '54.55'
 average: '40.45'

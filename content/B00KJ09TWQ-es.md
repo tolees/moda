@@ -16,6 +16,7 @@ comparePrice: 19.94 EUR
 prodname: 'Calvin Klein Damen Slip MODERN COTTON - BIKINI  Einfarbig  Gr. 36  Herstellergröße: S   Schwarz  BLACK 001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KJ09TWQ/?tag=tolees-21'
 descuento: '37.36'
 average: '12.49'

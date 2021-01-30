@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Tanga Sin Costuras Seamless para Mujer  Pack de 5  Beige  Pale Nude   XL  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKGXHT2/?tag=tolees-21'
 descuento: '35.29'
 average: '9.7'

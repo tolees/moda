@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'Timberland Perkins Row 2-Strap  Toddler   Sandalias de Punta Descubierta Unisex-Niños  Azul Dark Blue  22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW2RWDV/?tag=tolees-21'
 descuento: '33.14'
 average: '19.063333333333333'

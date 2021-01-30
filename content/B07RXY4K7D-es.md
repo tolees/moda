@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Avalon Sudadera  Azul  Thames 583   Talla única  Talla del Fabricante: X-Large  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXY4K7D/?tag=tolees-21'
 descuento: '62.04'
 average: '32.27'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Zip Thru Ladies  Sudadera con Capucha para Mujer  Beige  Écru   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSHWLYL/?tag=tolees-21'
 descuento: '40.01'
 average: '43.7025'

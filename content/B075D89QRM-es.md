@@ -16,6 +16,7 @@ comparePrice: 36 EUR
 prodname: 'INBIKE Guantes Calientes De Ciclismo De Invierno  Guantes De Pantalla Táctil para Hombre con Dedos Completos Cortavientos E Impermeable Azul XXL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075D89QRM/?tag=tolees-21'
 descuento: '44.47'
 average: '19.99'

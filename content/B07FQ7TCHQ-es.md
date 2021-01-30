@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Clarks Originals Desert London  Zapatos de Cordones Derby para Hombre  Marrón  Beeswax Leather-   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQ7TCHQ/?tag=tolees-21'
 descuento: '18.77'
 average: '105.6'

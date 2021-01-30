@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Tresmen Hirano  Sandalias de Punta Descubierta para Hombre  Marrón  Brown Synthetic Brn   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTRBJFW/?tag=tolees-21'
 descuento: '40.04'
 average: '32.95'

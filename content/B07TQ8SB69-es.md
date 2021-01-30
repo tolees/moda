@@ -16,6 +16,7 @@ comparePrice: 198.0 EUR
 prodname: 'Calvin Klein Ckj 026 Vaqueros Slim  Azul  Antwerp Rinse 911   34W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQ8SB69/?tag=tolees-21'
 descuento: '81.54'
 average: '36.56'

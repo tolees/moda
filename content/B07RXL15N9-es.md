@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s Innovation Super Skinny Vaqueros  Gris  Freak out Without Damages 0050   W23/L30  Talla del Fabricante: 23 30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXL15N9/?tag=tolees-21'
 descuento: '29.57'
 average: '73.07166666666666'

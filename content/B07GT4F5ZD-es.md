@@ -16,6 +16,7 @@ comparePrice: 18.59 EUR
 prodname: 'Alomejor Chaleco Reflectante De Noche Chaleco Reflectante De Seguridad Chaleco De Alta Visibilidad con Chaleco Delantero En El Pecho Trasero para Correr Deportes Nocturnos Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GT4F5ZD/?tag=tolees-21'
 descuento: '69.39'
 average: '5.69'

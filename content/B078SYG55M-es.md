@@ -16,6 +16,7 @@ comparePrice: 25.29 EUR
 prodname: 'Marca Amazon - TRUTH & FABLE Vestido midi de gasa con bordado floral para mujer  Morado  Lilac   44  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SYG55M/?tag=tolees-21'
 descuento: '19.10'
 average: '20.46'

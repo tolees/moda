@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'REPLAY M3666 .000.21842 Camiseta  Negro  Black 98   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CD9JHMD/?tag=tolees-21'
 descuento: '58.47'
 average: '32.81'

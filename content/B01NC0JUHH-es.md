@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Pepe Jeans Soho Vaqueros  10Oz Rinse Plus  24W / 28L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NC0JUHH/?tag=tolees-21'
 descuento: '57.26'
 average: '31.9125'

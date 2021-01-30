@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Levi s Housemark Polo  Camiseta para Hombre  Azul  104 DRESS BLUES X 3   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013V6O4WO/?tag=tolees-21'
 descuento: '25.00'
 average: '26.996666666666663'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'BOSS Teeonic Camiseta  Negro  Black 1   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7D5CYB/?tag=tolees-21'
 descuento: '65.45'
 average: '20.71'

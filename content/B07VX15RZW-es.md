@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Hombre Invierno Botines Botas de Nieve Cálido Aire Libre Piel Botas Completamente Forrado Cuero Antideslizante Zapatos Negro 42EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VX15RZW/?tag=tolees-21'
 descuento: '48.34'
 average: '30.99'

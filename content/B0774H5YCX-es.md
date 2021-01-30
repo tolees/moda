@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Eastpak Buddy Bolso bandolera  18 cm  Azul  Cloud Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0774H5YCX/?tag=tolees-21'
 descuento: '40.00'
 average: '15.0'

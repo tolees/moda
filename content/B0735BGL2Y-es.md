@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Rainforest Winter  Chaqueta para Hombre  Blanco  Bright White 002   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0735BGL2Y/?tag=tolees-21'
 descuento: '40.21'
 average: '118.99'

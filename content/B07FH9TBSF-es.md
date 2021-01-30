@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Brown Sahara  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FH9TBSF/?tag=tolees-21'
 descuento: '50.04'
 average: '69.95'

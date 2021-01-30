@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Timberland Authentics 3 Eye Classic  Náuticos para Hombre  Marrón  MD Brown Full Grain   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EECV5O0/?tag=tolees-21'
 descuento: '33.07'
 average: '120.48'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'KUTOOK Guantes Ciclismo  Guantes MTB Gel Almohadilla de Completo Dedos para Bicicleta de Carretera Azul M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GZTJK4Q/?tag=tolees-21'
 descuento: '39.32'
 average: '16.99'

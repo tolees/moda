@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'LPUK Moda Mujer Cuadrado De Gran Tamaño Lentes de Gradiente de Lujo Gafas de Sol Retro Vintage Gafas de Marco Grande'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNWQJ3C/?tag=tolees-21'
 descuento: '60.00'
 average: '10.0'

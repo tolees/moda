@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Tous Bowling New Essence  Bolso bolera para Mujer  Multicolor  Mostaza Topo 995900797   31x24x13.5 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKVY4G8/?tag=tolees-21'
 descuento: '40.00'
 average: '83.4'

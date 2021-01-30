@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Charles Wilson Camiseta Polo de Punto Abultado  Large  Light Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNJ7W1W/?tag=tolees-21'
 descuento: '63.08'
 average: '9.95'

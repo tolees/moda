@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Carteras Hombre Pequeña Tarjetero Pequeña Regalos Originales para Hombre Llavero Mosqueton Multiherramienta Navaja Multiusos Cuchillo Kit Supervivencia Clip Pinza Billetera Senderismo Camping Acampar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGSJCF/?tag=tolees-21'
 descuento: '25.03'
 average: '5.99'

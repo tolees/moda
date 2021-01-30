@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour  UNDKU  Heatgear Armour SS Camisa Manga Corta  Mujer  Rosa  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9GNXJH/?tag=tolees-21'
 descuento: '65.83'
 average: '10.25'

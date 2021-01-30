@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Kipling NEW ERASTO Bolso bandolera  40 cm  17 liters  Dorado  Cloud Metal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QG911XB/?tag=tolees-21'
 descuento: '55.58'
 average: '57.3'

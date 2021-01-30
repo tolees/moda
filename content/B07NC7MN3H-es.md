@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Pepe Jeans Stanley Vaqueros Straight  Azul  Medium Destroy Wiser Wash Denim Wy2   38W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC7MN3H/?tag=tolees-21'
 descuento: '33.34'
 average: '65.99'

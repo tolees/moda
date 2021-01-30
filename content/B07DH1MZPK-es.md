@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Cressi Reef Zapatillas Chanclas  Unisex Adulto  Negro/Amarillo  41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DH1MZPK/?tag=tolees-21'
 descuento: '20.01'
 average: '11.99'

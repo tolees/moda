@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Helly Hansen Driftline Camiseta Tipo Polo de Manga Corta con Tejido de Secado rápido y Logo HH en el Pecho  Hombre  Rojo  Alerta   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ19PDX/?tag=tolees-21'
 descuento: '31.77'
 average: '40.94'

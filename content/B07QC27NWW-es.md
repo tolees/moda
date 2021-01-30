@@ -16,6 +16,7 @@ comparePrice: 42.39 EUR
 prodname: 'yuyte 288 Agujeros Seis Capas Colocan Cajas de Organizador de Joyas de Metal  Giratorios Joyas Pendientes Collar Pulsera Almacenamiento árbol Torre Soporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC27NWW/?tag=tolees-21'
 descuento: '59.92'
 average: '16.99'

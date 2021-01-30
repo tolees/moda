@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'TALED - Bolso bandolera de piel auténtica de 15 6 pulgadas con almohadilla para el hombro y correa - Bolso para ordenador portátil  universidad  trabajo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3SYDZ6/?tag=tolees-21'
 descuento: '24.71'
 average: '127.95'

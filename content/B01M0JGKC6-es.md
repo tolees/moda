@@ -16,6 +16,7 @@ comparePrice: 14.52 EUR
 prodname: 'Marca Amazon - Iris & Lilly BELK006M5  Hipster Mujer  Pack de 5  Negro  Black   Large  Talla fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0JGKC6/?tag=tolees-21'
 descuento: '27.75'
 average: '10.49'

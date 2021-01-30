@@ -16,6 +16,7 @@ comparePrice: 8.36 EUR
 prodname: 'Rnow - Gafas Premium unisex estilo retro  moda en óptica  con montura cuadrada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EHMXACG/?tag=tolees-21'
 descuento: '17.94'
 average: '6.86'

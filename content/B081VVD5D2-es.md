@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Vans Mochila  diseño de vestido de esquí  Azul a cuadros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VVD5D2/?tag=tolees-21'
 descuento: '26.89'
 average: '25.59'

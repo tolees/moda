@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Aigle Vedur Mtd  Zapatos de Low Rise Senderismo para Hombre  Gris  Mid Grey/Rouge 001   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7HWL31/?tag=tolees-21'
 descuento: '70.84'
 average: '24.79'

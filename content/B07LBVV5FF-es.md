@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'Calvin Klein Fixed Triangle-rp Top de Bikini  Negro  Pvh Black 094   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBVV5FF/?tag=tolees-21'
 descuento: '45.22'
 average: '24.65'

@@ -16,6 +16,7 @@ comparePrice: 69.73 EUR
 prodname: 'ziitop Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua Zapatillas Ligeros de Secado Rápido para Swim Beach Surf Yoga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P71WSDR/?tag=tolees-21'
 descuento: '85.67'
 average: '9.99'

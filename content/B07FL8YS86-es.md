@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Negro  Black 02a   2XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FL8YS86/?tag=tolees-21'
 descuento: '48.02'
 average: '12.99'

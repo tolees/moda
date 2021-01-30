@@ -16,6 +16,7 @@ comparePrice: 25.75 EUR
 prodname: 'Tommy Hilfiger Corp Hilfiger tee Camiseta Deporte  Naranja  Island Coral   Small  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6T6FXG/?tag=tolees-21'
 descuento: '41.94'
 average: '14.95'

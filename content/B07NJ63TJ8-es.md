@@ -16,6 +16,7 @@ comparePrice: 6.7 EUR
 prodname: 'Springfield 4.FQ. Bolsillo Plas Camisa  Multicolor  Multicolor 28   40  Tamaño del Fabricante: 40  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ63TJ8/?tag=tolees-21'
 descuento: '21.19'
 average: '5.28'

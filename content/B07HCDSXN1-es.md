@@ -16,6 +16,7 @@ comparePrice: 20.49 EUR
 prodname: 'Miss Lulu Bolso de Mano de Mujer Shopper de Hombro Bandolera Fiesta Multicolor Elegante Cuero Sintético  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCDSXN1/?tag=tolees-21'
 descuento: '15.03'
 average: '17.41'

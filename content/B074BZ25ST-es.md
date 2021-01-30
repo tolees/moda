@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Hatch Vaqueros  Denim 11Oz Stay Black  36W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074BZ25ST/?tag=tolees-21'
 descuento: '42.44'
 average: '45.99'

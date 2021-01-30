@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'BOSS Trunk 3p Co/El Bóxer  Multicolor  Open Miscellaneous 994   XL  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYW5P2K/?tag=tolees-21'
 descuento: '47.48'
 average: '20.98'

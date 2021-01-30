@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Marca Amazon - AURIQUE Shorts para Correr con Banda Lateral Mujer  Morado  sombra de noche/blanco   40  Label:M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRCVG1N/?tag=tolees-21'
 descuento: '20.00'
 average: '12.8'

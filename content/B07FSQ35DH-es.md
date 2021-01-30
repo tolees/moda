@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Maui Lace  Zapatos de Cordones Derby para Mujer  Blanco  White Leather-   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSQ35DH/?tag=tolees-21'
 descuento: '30.02'
 average: '62.45'

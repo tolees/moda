@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Ermenegildo Zegna Brillengestelle EZ5032 Monturas de gafas  Marrón  Braun   51.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015G6BH9K/?tag=tolees-21'
 descuento: '49.53'
 average: '95.9'

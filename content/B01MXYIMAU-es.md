@@ -16,6 +16,7 @@ comparePrice: 29.35 EUR
 prodname: 'find. Regular fit linen shirt Camisa  Blanco  White   52'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXYIMAU/?tag=tolees-21'
 descuento: '21.94'
 average: '22.79'

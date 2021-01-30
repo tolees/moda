@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Slim Vaqueros  Azul  Perfect Blue 17P   29W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079V7TBHF/?tag=tolees-21'
 descuento: '50.03'
 average: '44.95'

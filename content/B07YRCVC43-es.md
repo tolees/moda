@@ -16,6 +16,7 @@ comparePrice: 8.78 EUR
 prodname: 'Marca Amazon - find. Vestido Corto Cruzado de Algodón Mujer  Azul  Azul suave   46  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRCVC43/?tag=tolees-21'
 descuento: '16.29'
 average: '8.945'

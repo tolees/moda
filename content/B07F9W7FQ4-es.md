@@ -16,6 +16,7 @@ comparePrice: 24.7 EUR
 prodname: 'Marca Amazon - find. Blusa Mujer  Beige  38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9W7FQ4/?tag=tolees-21'
 descuento: '68.10'
 average: '7.88'

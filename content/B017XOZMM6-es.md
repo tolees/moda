@@ -16,6 +16,7 @@ comparePrice: 260 EUR
 prodname: 'Helly Hansen Salt Power Chaqueta  Hombre  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017XOZMM6/?tag=tolees-21'
 descuento: '49.00'
 average: '132.59'

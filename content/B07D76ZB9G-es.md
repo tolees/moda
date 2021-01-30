@@ -16,6 +16,7 @@ comparePrice: 130 EUR
 prodname: 'Levi s Type 3 Sherpa Trucker Chaqueta  Negro  Black Cord Better 0068   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D76ZB9G/?tag=tolees-21'
 descuento: '50.39'
 average: '64.49'

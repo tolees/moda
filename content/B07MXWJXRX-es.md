@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Desigual Bag Liberté Patch Folded  Bolso para Mujer  Negro  Negro   35.5 x 3 x 31 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXWJXRX/?tag=tolees-21'
 descuento: '38.30'
 average: '36.99'

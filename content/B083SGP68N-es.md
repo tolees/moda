@@ -16,6 +16,7 @@ comparePrice: 34.24 EUR
 prodname: 'IceUnicorn - Escarpines de baño para niña  zapatos de playa  zapatos de agua para bebé  color  talla 18/19 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SGP68N/?tag=tolees-21'
 descuento: '56.69'
 average: '14.83'

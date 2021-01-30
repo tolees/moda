@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'PUMA Nu-Tility Woven Jacket Chaqueta De Entrenamiento  Hombre  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD6JTLQ/?tag=tolees-21'
 descuento: '77.72'
 average: '16.7'

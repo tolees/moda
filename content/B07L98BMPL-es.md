@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Under Armour Storm Launch Jacket 2.0 Chaqueta  Hombre  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L98BMPL/?tag=tolees-21'
 descuento: '52.16'
 average: '33.49'

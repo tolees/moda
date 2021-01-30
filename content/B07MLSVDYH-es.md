@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Ronnie Limit  Zapatos de Cordones Brogue para Hombre  Marrón  British Tan Lea British Tan Lea   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLSVDYH/?tag=tolees-21'
 descuento: '49.91'
 average: '45.98'

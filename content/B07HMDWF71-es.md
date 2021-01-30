@@ -16,6 +16,7 @@ comparePrice: 22.8 EUR
 prodname: 'New Look Vaqueros Skinny  Negro  Black   W42 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMDWF71/?tag=tolees-21'
 descuento: '55.39'
 average: '10.17'

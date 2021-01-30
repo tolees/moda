@@ -16,6 +16,7 @@ comparePrice: 18.36 EUR
 prodname: 'CARE OF by PUMA Sudadera con capucha de manga larga para hombre  ajuste alto  Rojo  Red   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PR1PZQL/?tag=tolees-21'
 descuento: '46.79'
 average: '10.346666666666666'

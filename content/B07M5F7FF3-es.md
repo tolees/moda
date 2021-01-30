@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Arizona Vaqueros Straight  Azul  Burnt Up 77p   36 W/ 36 L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F7FF3/?tag=tolees-21'
 descuento: '70.59'
 average: '26.45'

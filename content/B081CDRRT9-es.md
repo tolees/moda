@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Chaqueta Hombre BOKER Azul Marino L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CDRRT9/?tag=tolees-21'
 descuento: '34.34'
 average: '68.55'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Long tee Camiseta de Manga Corta  Mujer  White  40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SYVCY4P/?tag=tolees-21'
 descuento: '17.17'
 average: '33.09'

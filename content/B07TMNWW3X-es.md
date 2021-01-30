@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Superdry OL Essential Vee tee Camiseta  Negro  Black 02a   S  Talla del Fabricante:10  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMNWW3X/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

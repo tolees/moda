@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Women s Secret Generic Funny GD Cactixmas PJ Conjuntos de Pijama  Marfil  Marfil 97   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSPJMY7/?tag=tolees-21'
 descuento: '57.62'
 average: '14.83'

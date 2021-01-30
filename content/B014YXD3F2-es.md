@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Mapped Edge  Zapatos de Cordones Oxford para Hombre  Negro  Black Combi   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014YXD3F2/?tag=tolees-21'
 descuento: '48.05'
 average: '37.675'

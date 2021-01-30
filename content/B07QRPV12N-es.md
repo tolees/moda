@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Gaatpot Zapatos Invierno Botas Forradas de Nieve Zapatillas Sneaker Botines Planas para Hombres Mujer Rojo EU 41.5 = CN 43'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRPV12N/?tag=tolees-21'
 descuento: '17.62'
 average: '32.95'

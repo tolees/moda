@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'Lacoste SH8654 - Sudadera Deportiva para Hombre  Corte Regular Azul Marino/Azul Marino  2f4 . XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZQFD2B/?tag=tolees-21'
 descuento: '40.12'
 average: '62.87'

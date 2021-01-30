@@ -16,6 +16,7 @@ comparePrice: 16.55 EUR
 prodname: 'Lee Scarlett Vaqueros Skinny  Gris  Dark Grey Ovid Dw   25W / 33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N17FKG3/?tag=tolees-21'
 descuento: '30.63'
 average: '11.48'

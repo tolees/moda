@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'MessBebe Camiseta Mujer Jerseys Rayas Manga Larga Punto de Camisa Suave Sueters Ligeros para Primavera Verano Otoño Invierno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRJG3BM/?tag=tolees-21'
 descuento: '43.01'
 average: '28.49'

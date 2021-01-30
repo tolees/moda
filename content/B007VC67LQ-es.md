@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Classic 2 Eye  Náuticos para Hombre  Marrón  MD Marron Full Grain   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007VC67LQ/?tag=tolees-21'
 descuento: '50.04'
 average: '76.485'

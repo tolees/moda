@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta  Naranja  Dusty Royal Orange A489   XX-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPPHKS/?tag=tolees-21'
 descuento: '40.07'
 average: '17.95'

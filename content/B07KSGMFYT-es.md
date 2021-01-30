@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Peak to Point Pantalón de Senderismo  Poliéster  Mujer  Gris  India Ink   Talla US: W8/R/  EU W40/R '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSGMFYT/?tag=tolees-21'
 descuento: '60.65'
 average: '31.48'

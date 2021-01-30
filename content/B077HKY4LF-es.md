@@ -16,6 +16,7 @@ comparePrice: 37.6 EUR
 prodname: 'find. Vestido de Flores y Gasa Mujer  Multicolor  Multicoloured   38  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HKY4LF/?tag=tolees-21'
 descuento: '62.50'
 average: '14.1'

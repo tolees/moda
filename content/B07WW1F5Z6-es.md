@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Uvex Sportstyle 224 Gafas de Deporte  Adultos Unisex  Grey Mat  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WW1F5Z6/?tag=tolees-21'
 descuento: '50.68'
 average: '29.57'

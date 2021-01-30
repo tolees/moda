@@ -16,6 +16,7 @@ comparePrice: 171.8 EUR
 prodname: 'Viking Rondane GTX  Zapatos de High Rise Senderismo Unisex Adulto  Marrón  Taupe/Orange   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VWSHQXI/?tag=tolees-21'
 descuento: '79.16'
 average: '35.8'

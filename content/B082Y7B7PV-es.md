@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Jack & Jones Jjelogo tee SS O-Neck 2 Col Ss20 Noos Camiseta  Blazer Azul Marino  XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Y7B7PV/?tag=tolees-21'
 descuento: '20.02'
 average: '10.39'

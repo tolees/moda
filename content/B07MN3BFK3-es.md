@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett Cropped Vaqueros skinny  Azul  Clean Say Jj   27/35 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN3BFK3/?tag=tolees-21'
 descuento: '88.69'
 average: '10.17'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Morgan 192-menti.n Camiseta  Multicolor  Offwhite/Marine Offwhite/Marine   Large  Talla del Fabricante: TL  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBZKRW7/?tag=tolees-21'
 descuento: '45.24'
 average: '13.69'

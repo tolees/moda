@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Regular C Camiseta con Cuello Redondo  Azul  Black Iris   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07771HWBW/?tag=tolees-21'
 descuento: '31.21'
 average: '19.95'

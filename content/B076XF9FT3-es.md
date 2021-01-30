@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Geox JR CIAK Girl A  Zapatillas para Niñas  Azul  Navy   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076XF9FT3/?tag=tolees-21'
 descuento: '50.00'
 average: '32.5'

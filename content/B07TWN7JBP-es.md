@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Bryson Vaqueros Skinny  Azul  Light Glory 030   34W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWN7JBP/?tag=tolees-21'
 descuento: '63.86'
 average: '30.7'

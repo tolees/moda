@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'G-STAR RAW CPO Slim Camisa Vaquera  Multicolor  Medium Aged Restored 138 8399   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPPD3W/?tag=tolees-21'
 descuento: '80.05'
 average: '23.125'

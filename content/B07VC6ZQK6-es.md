@@ -16,6 +16,7 @@ comparePrice: 42.88 EUR
 prodname: 'NJunicorn Uncle Borderlands Cosplay - Sudadera con capucha para hombre  impresión 3D 03 S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC6ZQK6/?tag=tolees-21'
 descuento: '33.72'
 average: '28.42'

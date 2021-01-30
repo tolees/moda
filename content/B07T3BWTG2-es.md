@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Guess Brielle - Bolso bandolera  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3BWTG2/?tag=tolees-21'
 descuento: '25.00'
 average: '78.75'

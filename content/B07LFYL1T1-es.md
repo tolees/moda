@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Geox J GRAYJAY Boy C  Zapatillas Altas para Niños  Azul Navy Royal C4226  24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFYL1T1/?tag=tolees-21'
 descuento: '73.71'
 average: '17.09'

@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Amilril Collar de Copo de Nieve Colgante  Plata de Ley 925 Joyería  San Valentín Regalos Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSHJ326/?tag=tolees-21'
 descuento: '83.65'
 average: '18.580000000000002'

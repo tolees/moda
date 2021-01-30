@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Tikea Bolsa Geométrica Luminosa Holográfica para Mujer  Mochila en Cuero Sintético de Moda  Deportivo  Efecto Reflectante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2LLK76/?tag=tolees-21'
 descuento: '48.76'
 average: '40.99'

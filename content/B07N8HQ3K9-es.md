@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Desigual Dress Uvas Vestido  Azul  Navy 5000   152 cm para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8HQ3K9/?tag=tolees-21'
 descuento: '35.08'
 average: '32.43'

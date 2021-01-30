@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'adidas W CW NUVIC Jkt Chaqueta de Deporte  Mujer  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KNCCDV/?tag=tolees-21'
 descuento: '34.41'
 average: '118.03'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Ronnie Walk  Zapatos de Cordones Derby  Marrón  British Tan Lea British Tan Lea   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFM3CR5/?tag=tolees-21'
 descuento: '50.03'
 average: '45.910000000000004'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Lee Logo Sweat Sudadera  Negro  Black Black 02   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRB3JRD/?tag=tolees-21'
 descuento: '25.22'
 average: '14.2'

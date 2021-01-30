@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Marrón Brown Grain  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2VM18Y/?tag=tolees-21'
 descuento: '50.00'
 average: '70.0'

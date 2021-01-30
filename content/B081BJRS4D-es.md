@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Powder Pass Chaqueta con Capucha  Hombre  Gris/Azul Grey Heather Mountain  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BJRS4D/?tag=tolees-21'
 descuento: '56.96'
 average: '51.64'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'TTYAOVO Vestido de Fiesta con Volantes de Princesa sin Mangas para Niñas Tamaño（120） 4-5 Años 07 Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFB85WJ/?tag=tolees-21'
 descuento: '23.37'
 average: '22.99'

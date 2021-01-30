@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Step Urban Mix  Zapatos de Cordones Derby para Hombre  Azul  Navy-   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQVMYCH/?tag=tolees-21'
 descuento: '45.03'
 average: '38.45'

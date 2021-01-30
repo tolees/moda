@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Verde  Stone Green  Fossil  Collegiate Navy   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087VKRFH1/?tag=tolees-21'
 descuento: '50.39'
 average: '64.49'

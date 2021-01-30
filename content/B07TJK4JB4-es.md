@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Bali Trek  Sandalias de Talón Abierto para Mujer  Gris  Stone Combi Stone Combi   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJK4JB4/?tag=tolees-21'
 descuento: '59.65'
 average: '40.33'

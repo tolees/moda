@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Timberland 6 In Premium Waterproof  Botas Unisex Niños  Amarillo  Wheat Nubuck   30.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VICBIU/?tag=tolees-21'
 descuento: '52.55'
 average: '59.626666666666665'

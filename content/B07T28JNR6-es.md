@@ -16,6 +16,7 @@ comparePrice: 37.55 EUR
 prodname: 'Abravo Mujer Vestido Estampado Floral sin Mangas Vestido Casual Corto Playa con un Bolsillo  S  Azul Marino-2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T28JNR6/?tag=tolees-21'
 descuento: '57.42'
 average: '16.31'

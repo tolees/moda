@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Jack & Jones Jprwetford Parka STS  Verde  Olive Night Olive Night   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3Q4LSC/?tag=tolees-21'
 descuento: '71.81'
 average: '29.19666666666667'

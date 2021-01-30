@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'AOQUSSQOA Mujer Ropa de baño Monokin Traje de una Pieza Leopardo para Mujer de Gran tamaño con Forma de Estampado de Bikini natación Esencial  Gris  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVQHQPW/?tag=tolees-21'
 descuento: '50.01'
 average: '22.99'

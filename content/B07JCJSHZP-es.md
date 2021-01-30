@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Columbia Carson Pass II Chaqueta Impermeable  Mujer  Verde  Olive Green   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCJSHZP/?tag=tolees-21'
 descuento: '69.67'
 average: '60.66'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Vero Moda Vmexcursion Expedition Aw193/4parka Noos Abrigo  Negro  Black Black   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRLK5D9/?tag=tolees-21'
 descuento: '29.01'
 average: '35.49'

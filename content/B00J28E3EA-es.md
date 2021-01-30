@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Joma Combi Camiseta Manga Corta  Hombre  Rojo  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J28E3EA/?tag=tolees-21'
 descuento: '33.07'
 average: '5.986363636363636'

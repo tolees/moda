@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Clarks Step Juneshell  Sandalias Punta Cerrada para Mujer  Beige  Coral Coral   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLT83G6/?tag=tolees-21'
 descuento: '29.82'
 average: '42.07'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Bampton Walk  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B97MN7N/?tag=tolees-21'
 descuento: '66.28'
 average: '26.96'

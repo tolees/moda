@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Geox D Nydame E  Zapatillas para Mujer  Beige  Sand C5004   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWV1ZCK/?tag=tolees-21'
 descuento: '78.61'
 average: '29.92'

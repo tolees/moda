@@ -16,6 +16,7 @@ comparePrice: 96.99 EUR
 prodname: 'Trangoworld PC007743-6ZT-L Pantalón Largo  Mujer  Fucsia/Gris  Sombra Oscura   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKLMMPQ/?tag=tolees-21'
 descuento: '26.81'
 average: '70.99'

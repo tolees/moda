@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Zapatilla Baja de Deporte para Hombre  Azul  Blue   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKYXSV3/?tag=tolees-21'
 descuento: '22.23'
 average: '55.339999999999996'

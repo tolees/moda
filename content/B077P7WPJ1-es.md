@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'DIDINSKY Gafas de lectura sin patillas graduadas para hombre y mujer transparentes. Gafas de presbicia para hombre y mujer retro o vintage para vista cansada. 3 acabados y 5 graduaciones – ORSAY WOOD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077P7WPJ1/?tag=tolees-21'
 descuento: '20.00'
 average: '15.12'

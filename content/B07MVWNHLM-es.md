@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'RATEL Kit de Chaleco Táctico para Niños  92pcs Traje de chaqueta para N-Strike Elite Series con 80 piezas de espuma Dardos + 2 Quick Reload Clips + 2 Gafas protectoras + 2 Máscara + 4 muñequera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVWNHLM/?tag=tolees-21'
 descuento: '53.35'
 average: '16.24'

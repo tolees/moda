@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Odlo T-Shirt MC Millenium Element Camiseta Ligera Hombre  Grey Melange  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD1XT4R/?tag=tolees-21'
 descuento: '39.73'
 average: '24.11'

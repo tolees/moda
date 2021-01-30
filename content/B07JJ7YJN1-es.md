@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Lacoste Th3377 Camiseta   Blanc/Noir Au8   X-Small  Talla del Fabricante: 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ7YJN1/?tag=tolees-21'
 descuento: '30.38'
 average: '31.33'

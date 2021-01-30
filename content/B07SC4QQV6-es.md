@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Helly Hansen HH Logo Crew Sudadera Deportiva  Hombre  Azul Royal  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC4QQV6/?tag=tolees-21'
 descuento: '46.43'
 average: '36.281666666666666'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Auxo Mujer Pijama Vestido Interior Sexy Enaguas Enteras Encaje Tirante Sin Mangas Combinación Vestido 01-Negro S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1JN9X5/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

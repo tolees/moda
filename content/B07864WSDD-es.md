@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Puma Liga Core H Camiseta de Manga Corta  Hombre  Negro/Blanco Black White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07864WSDD/?tag=tolees-21'
 descuento: '19.80'
 average: '10.976666666666667'

@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Havaianas Slim  Chanclas para Mujer   Camo Green 7184   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY6DVLC/?tag=tolees-21'
 descuento: '67.80'
 average: '8.34'

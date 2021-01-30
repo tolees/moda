@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Lakerom Zapatos Mocasines para Hombres Zapatos sin Cordones Zapatos de Cuero Casuales LR0881-Brown2-40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0734HBFG3/?tag=tolees-21'
 descuento: '45.01'
 average: '32.99'

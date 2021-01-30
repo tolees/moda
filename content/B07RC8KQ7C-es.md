@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Columbia Tolt Track Chaqueta Interchange  Mujer  Azul  Dark Azul/Nocturnal   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8KQ7C/?tag=tolees-21'
 descuento: '31.18'
 average: '158.29'

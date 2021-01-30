@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'El Naturalista Aqua  Sandalias con Punta Abierta para Mujer  Negro  Black Black   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXR5YTF/?tag=tolees-21'
 descuento: '72.68'
 average: '25.95'

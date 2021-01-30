@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Timberland SS Millers River Pique Wide Stripe Polo Reg  Gris  Medium Grey Heather Yd B47   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QM11PJB/?tag=tolees-21'
 descuento: '64.64'
 average: '20.86'

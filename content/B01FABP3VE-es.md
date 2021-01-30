@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Under Armour UA Raid 8 Shorts  pantalón Corto Hombre  Blanco  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FABP3VE/?tag=tolees-21'
 descuento: '21.07'
 average: '13.41'

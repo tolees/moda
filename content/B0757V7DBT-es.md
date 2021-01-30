@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Marca Amazon - find. Vaqueros Skinny Hombre  Gris  Grey Wash   31W / 32L  Label: 31W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757V7DBT/?tag=tolees-21'
 descuento: '80.00'
 average: '9.825'

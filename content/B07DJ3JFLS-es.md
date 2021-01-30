@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox D Nebula C  Zapatillas para Mujer  Beige  Cream C0423   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ3JFLS/?tag=tolees-21'
 descuento: '34.57'
 average: '84.99'

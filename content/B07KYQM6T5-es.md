@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Springfield 5DS Polo Oxford Liso Jersey  Gama Azules 11  Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYQM6T5/?tag=tolees-21'
 descuento: '66.56'
 average: '8.675'

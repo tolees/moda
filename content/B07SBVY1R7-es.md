@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only Onlcarmen Reg SK Jnsbb 5984-16 Noos Vaqueros Skinny  Azul  Dark Blue Denim Dark Blue Denim   36/L32  Talla del Fabricante: 28  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVY1R7/?tag=tolees-21'
 descuento: '70.04'
 average: '11.98'

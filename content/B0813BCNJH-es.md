@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ZIGJOY GOT7 Sudadera Gruesa y Aterciopelada con Cremallera Sudadera con Capucha KPOP para fanáticos S2 Armada L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813BCNJH/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

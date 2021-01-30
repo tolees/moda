@@ -16,6 +16,7 @@ comparePrice: 83.49 EUR
 prodname: 'Mammut Camiseta Alnasca Mujer Camiseta  Mujer  Bright White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R8TFJKB/?tag=tolees-21'
 descuento: '69.40'
 average: '25.55'

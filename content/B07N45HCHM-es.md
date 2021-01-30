@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'United Colors of Benetton Basico 1 Man Vaqueros Straight  Azul  Rinse 905   44  Talla del Fabricante: 33  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N45HCHM/?tag=tolees-21'
 descuento: '54.54'
 average: '14.445'

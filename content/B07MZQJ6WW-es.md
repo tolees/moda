@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Nastia Sudadera   Berry Red 280   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQJ6WW/?tag=tolees-21'
 descuento: '53.51'
 average: '30.505'

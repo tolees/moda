@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'edc by Esprit 099cc2k009 Camiseta  Blanco  White 100   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFMB2BT/?tag=tolees-21'
 descuento: '62.10'
 average: '6.06'

@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Hilfiger Badge Beach Sandal  Sandalias con Punta Abierta para Hombre  Negro  Black Bds   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4N3ZPG/?tag=tolees-21'
 descuento: '35.10'
 average: '22.65'

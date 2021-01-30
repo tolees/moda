@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri BOVES H Sudadera con Capucha  Rot  Red Scarlet R01   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLPFN6/?tag=tolees-21'
 descuento: '60.00'
 average: '39.6'

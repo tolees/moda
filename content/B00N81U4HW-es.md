@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Joma Iris Chaqueta  Niños  Negro  6XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N81U4HW/?tag=tolees-21'
 descuento: '33.20'
 average: '11.99'

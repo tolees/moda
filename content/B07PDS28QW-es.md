@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Geox U TAIKI B ABX A  Zapatillas Altas para Hombre  Marrón  Brown/Mud C6044   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDS28QW/?tag=tolees-21'
 descuento: '76.16'
 average: '35.045'

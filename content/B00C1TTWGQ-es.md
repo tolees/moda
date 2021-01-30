@@ -16,6 +16,7 @@ comparePrice: 34.07 EUR
 prodname: 'Polaroid P8346 RC 0BM Gafas de sol  Marrón  Havana/Green Polarized   59 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C1TTWGQ/?tag=tolees-21'
 descuento: '20.02'
 average: '27.25'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Arizona Straight Jeans Vaqueros  Black Valley  30W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQPWRVB/?tag=tolees-21'
 descuento: '75.75'
 average: '19.39'

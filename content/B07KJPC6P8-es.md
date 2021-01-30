@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'REPLAY Donny Vaqueros Slim  Azul  Medium Blue 9   W29/L30  Talla del Fabricante: 29  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJPC6P8/?tag=tolees-21'
 descuento: '47.81'
 average: '82.99'

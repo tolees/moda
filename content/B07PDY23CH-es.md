@@ -16,6 +16,7 @@ comparePrice: 4.34 EUR
 prodname: 'LoveOlvidoE 1: 6 Mujer Mujer Soldado Simulación Stiletto Zapatos de tacón Alto Modelo para 12 Pulgadas Muñeca Juguetes Figura de Acción Muñecas Accesorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDY23CH/?tag=tolees-21'
 descuento: '32.03'
 average: '2.95'

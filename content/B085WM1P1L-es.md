@@ -16,6 +16,7 @@ comparePrice: 15.69 EUR
 prodname: 'Verano de Deportivo Tops de Yoga Vests para Mujer Blusa Camisetas sin Mangas Running Ropa Tank Tops Chaleco Vest T Shirt Púrpura S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085WM1P1L/?tag=tolees-21'
 descuento: '49.14'
 average: '7.98'

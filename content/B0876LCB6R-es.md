@@ -16,6 +16,7 @@ comparePrice: 10.33 EUR
 prodname: 'Shelfin - Camiseta de baloncesto de la NBA de Miami Heat del número 3 Wade  transpirable  grabada  color azul  tamaño small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876LCB6R/?tag=tolees-21'
 descuento: '22.65'
 average: '7.99'

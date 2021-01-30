@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'SALOMON Agile FZ Hoodie M Chaqueta Cortavientos  Hombre  Verde  Green Gables   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V44PJLT/?tag=tolees-21'
 descuento: '50.00'
 average: '40.0'

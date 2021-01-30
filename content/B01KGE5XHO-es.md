@@ -16,6 +16,7 @@ comparePrice: 10.53 EUR
 prodname: 'Goodthreads Slim-Fit Long-Sleeve Solid Oxford Shirt Camisa  Azul  Blue   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KGE5XHO/?tag=tolees-21'
 descuento: '15.19'
 average: '8.93'

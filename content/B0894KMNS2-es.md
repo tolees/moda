@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'E-More Ventilador Portátil Ventilador Clip de Cintura Ventilador de Collar Portátil 6000mAh Batería USB Recargable Mini Ventilador de Mesa para Hogar Oficina Viajar Deporte Acampar al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894KMNS2/?tag=tolees-21'
 descuento: '15.80'
 average: '15.99'

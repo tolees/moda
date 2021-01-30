@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Disney Sudadera para niñas Toy Story Jessie Azul 2-3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS3DL32/?tag=tolees-21'
 descuento: '36.94'
 average: '11.95'

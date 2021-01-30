@@ -16,6 +16,7 @@ comparePrice: 36.55 EUR
 prodname: 'FCB Conjunto Camiseta y Pantalón Primera Equipación Infantil Messi del FC Barcelona Producto Oficial Licenciado Temporada 2019-2020 Color Azulgrana  Azulgrana  Talla 14 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9PCZJQ/?tag=tolees-21'
 descuento: '17.95'
 average: '33.986666666666665'

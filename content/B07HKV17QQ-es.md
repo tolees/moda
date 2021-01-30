@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sanetta Sweatshirt Sudadera  Rojo  LAX Red 38054   62  Talla del Fabricante: 062  para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKV17QQ/?tag=tolees-21'
 descuento: '66.33'
 average: '6.73'

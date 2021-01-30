@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Gris  Charcoal Marl   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0733FJR1W/?tag=tolees-21'
 descuento: '74.32'
 average: '6.42'

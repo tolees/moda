@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Hombre Mujer Zapatillas de Deportes Zapatos Deportivos Aire Libre para Correr Calzado Sneakers Running-BlackRed41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWR2R9S/?tag=tolees-21'
 descuento: '41.40'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Vaqueros  Forest Night  31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5DHBXY/?tag=tolees-21'
 descuento: '74.84'
 average: '22.63'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Ftblnxt Camisa  Hombre  Ultra Yellow Black  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCX2XMQ/?tag=tolees-21'
 descuento: '56.15'
 average: '10.94'

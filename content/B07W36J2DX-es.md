@@ -16,6 +16,7 @@ comparePrice: 33.75 EUR
 prodname: 'Skechers Energy-Retro Vision  Sandalias con Punta Cerrada para Mujer  Negro Cuero Rojo Blanco Trim BKW  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W36J2DX/?tag=tolees-21'
 descuento: '28.33'
 average: '25.6'

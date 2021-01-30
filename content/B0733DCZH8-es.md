@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Azul  Navy   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0733DCZH8/?tag=tolees-21'
 descuento: '74.64'
 average: '6.34'

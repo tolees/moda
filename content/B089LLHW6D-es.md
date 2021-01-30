@@ -16,6 +16,7 @@ comparePrice: 30.7 EUR
 prodname: 'Dihope - Pantalón de chándal para hombre  de algodón  estilo casual  deportivo  con capucha caqui XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089LLHW6D/?tag=tolees-21'
 descuento: '44.66'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 125.28 EUR
 prodname: 'Timberland Killington  Zapatillas Altas para Hombre  Azul  Black Iris Nubuck 19   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MV61BQB/?tag=tolees-21'
 descuento: '33.36'
 average: '83.49'

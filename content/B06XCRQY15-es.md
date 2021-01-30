@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Vintage 8 Dip S55   W28/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCRQY15/?tag=tolees-21'
 descuento: '56.91'
 average: '40.94'

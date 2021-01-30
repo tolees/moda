@@ -16,6 +16,7 @@ comparePrice: 130 EUR
 prodname: 'Pepe Jeans Jess Pl401684 Chaqueta   11oz Check Mix Denim 000   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGSM568/?tag=tolees-21'
 descuento: '60.04'
 average: '43.42'

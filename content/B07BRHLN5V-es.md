@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Lifewit Bolsa Térmica Grande Porta Alimentos de Refrigeración Aislamiento Doble Compartimentos Bolsa de Enfriamiento Grande con Correa Ajustable Bolso para Picnics  Fiestas  Camping  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRHLN5V/?tag=tolees-21'
 descuento: '43.49'
 average: '25.32333333333333'

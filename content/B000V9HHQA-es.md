@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Timberland Heritage Noreen 3 Eye  Náuticos para Mujer  Marrón  MD Brown Full Grain   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000V9HHQA/?tag=tolees-21'
 descuento: '15.03'
 average: '135.95'

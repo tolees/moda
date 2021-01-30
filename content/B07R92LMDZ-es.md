@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Cascade Ridge Chaqueta Softshell  Unisex Adulto  Gris  Tradewinds Grey Heather   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R92LMDZ/?tag=tolees-21'
 descuento: '46.00'
 average: '53.99'

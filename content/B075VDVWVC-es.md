@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Esprit 997ee1b812 Vaqueros Straight  Azul  Blue Medium Wash 902   W29/L34  Talla del Fabricante: 29/34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075VDVWVC/?tag=tolees-21'
 descuento: '42.87'
 average: '28.56'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour UA Streaker 2.0 Camiseta  Hombre  Gris  Halo Gray/Reflective 014   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J32CBHR/?tag=tolees-21'
 descuento: '55.09'
 average: '15.72'

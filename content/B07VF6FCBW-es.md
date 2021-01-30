@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Hackett London Amr Print Crew Sudadera  Rojo  1bkorange Lacq 1bk   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VF6FCBW/?tag=tolees-21'
 descuento: '62.74'
 average: '36.89'

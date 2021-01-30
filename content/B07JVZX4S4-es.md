@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'LEGO Wear Boy Ninjago Tiger 322-T-shirt Camiseta  Azul  Dark Navy 590   122 para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVZX4S4/?tag=tolees-21'
 descuento: '57.04'
 average: '9.86'

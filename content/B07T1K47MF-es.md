@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Tikea Bolsa Geométrica de Corcho Natural para Mujer  Riñonera Ecológica de Moda  Bolsa de Cintura Deporte Efecto Madera Casual Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1K47MF/?tag=tolees-21'
 descuento: '46.01'
 average: '26.99'

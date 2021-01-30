@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Relaxed Graphic Hoodie Sudadera  Blanco  Boxtab Pop White 0022   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPPTHNB/?tag=tolees-21'
 descuento: '38.39'
 average: '43.13'

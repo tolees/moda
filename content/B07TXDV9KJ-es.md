@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Orig Hm Vneck Camiseta  Negro  Mineral Black 0001   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXDV9KJ/?tag=tolees-21'
 descuento: '36.04'
 average: '13.59'

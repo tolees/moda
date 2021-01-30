@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'WERNNSAI Azul Tiburón Bolsas de Regalos - 12 Pcs Bolsas de Fiesta Con Cordón Bolsa Oceano Tema Suministros para la Fiesta para Chicos Cumpleaños Bolsas de Abrigo Lavable Bolsa de Regalo de Fiesta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WRLPTD/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U ARIAM B  Zapatillas para Hombre  Marrón  Mud C6372   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZ825T/?tag=tolees-21'
 descuento: '44.09'
 average: '55.85'

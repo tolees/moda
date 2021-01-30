@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'JACK & JONES Jjedane Biker Jacket Noos Chaqueta  Marrón  Brown Stone Brown Stone   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB9Z3BB/?tag=tolees-21'
 descuento: '76.56'
 average: '32.82'

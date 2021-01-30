@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Relojes Hombre Negocio Acero Inoxidable Impermeable Cuarzo Analógico Reloj Cronógrafo Fecha Calendario Vestido Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7TN61F/?tag=tolees-21'
 descuento: '74.62'
 average: '32.99'

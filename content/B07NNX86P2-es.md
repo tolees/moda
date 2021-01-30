@@ -16,6 +16,7 @@ comparePrice: 10.24 EUR
 prodname: 'SimpleLife Bolso de Las Mujeres del Bolso del Wristlet Bolso Impermeable de la Cartera  multifunción 3 Cremallera Organizador portátil Monedero Bolsa de teléfono Clave de Efectivo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNX86P2/?tag=tolees-21'
 descuento: '50.00'
 average: '5.12'

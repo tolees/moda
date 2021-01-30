@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Dorina Casablanca Maillot De Bain Braguita de Bikini  Negro  Black V00   135  Talla del Fabricante: L 44/46  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC1SD26/?tag=tolees-21'
 descuento: '69.70'
 average: '3.0'

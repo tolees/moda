@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Siux Falda Cloe Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0774YK5RK/?tag=tolees-21'
 descuento: '66.78'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Pixie Vaqueros Pitillo Hombre  Negro  Black Wiser Wash Denim Wz7   W28/L30 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCBTWNJ/?tag=tolees-21'
 descuento: '59.96'
 average: '36.0'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jcodriver Anorak Parka  Gris  Glacier Gray Glacier Gray   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFDY9WM/?tag=tolees-21'
 descuento: '55.59'
 average: '22.2'

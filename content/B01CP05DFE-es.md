@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Eshow Bolso Bandolera a Hombro para Mujeres de Tela de Lona Bolso de Mano Shoppers Viaje Casual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CP05DFE/?tag=tolees-21'
 descuento: '72.01'
 average: '27.99'

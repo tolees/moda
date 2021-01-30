@@ -16,6 +16,7 @@ comparePrice: 15.97 EUR
 prodname: 'Camiseta y Pantalón Corto Riverdale Adolescente Chica Serpientes Camiseta de Manga Corta Verano Conjunto Deportivo para Niña y Mujere  4  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQRHKRH/?tag=tolees-21'
 descuento: '32.25'
 average: '10.82'

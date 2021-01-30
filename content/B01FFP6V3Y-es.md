@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Under Armour Tech Tank-Twist Camiseta sin Mangas  Mujer  Naranja  Playful Peach 164   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFP6V3Y/?tag=tolees-21'
 descuento: '64.73'
 average: '8.8'

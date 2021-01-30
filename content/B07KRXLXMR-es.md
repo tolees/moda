@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Salomon PROPELLER DRY M Guantes para hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRXLXMR/?tag=tolees-21'
 descuento: '34.55'
 average: '52.36'

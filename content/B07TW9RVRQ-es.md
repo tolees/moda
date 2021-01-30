@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s LS Original Hm tee Camiseta  Gris  Medium Grey Heather 0006   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW9RVRQ/?tag=tolees-21'
 descuento: '37.17'
 average: '21.857142857142858'

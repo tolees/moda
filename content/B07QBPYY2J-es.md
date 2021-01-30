@@ -16,6 +16,7 @@ comparePrice: 20.97 EUR
 prodname: 'New Look Arnie Rip Bleach Vaqueros Skinny  Azul  Light Blue 45   W30/L32  Talla del Fabricante: 30R  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QBPYY2J/?tag=tolees-21'
 descuento: '42.78'
 average: '12'

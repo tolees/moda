@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Revend Skinny Vaqueros  Lt Indigo Aged 8968-8436  35W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKJGXYR/?tag=tolees-21'
 descuento: '40.00'
 average: '59.97'

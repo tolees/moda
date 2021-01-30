@@ -16,6 +16,7 @@ comparePrice: 49.01 EUR
 prodname: 'Twentyfour Freizeitshirt FM NY Kapuzen in frischen Farben - Jersey  Color Azul Azul  Talla 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006FI3JZY/?tag=tolees-21'
 descuento: '73.58'
 average: '12.95'

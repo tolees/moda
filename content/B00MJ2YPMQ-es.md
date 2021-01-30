@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reslad Camisa vaquera para hombre Slim Fit Vintage Denim Camisa vaquera color azul desgastado | Camisa de ocio 100% algodón RS-7109 azul S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MJ2YPMQ/?tag=tolees-21'
 descuento: '57.18'
 average: '29.95'

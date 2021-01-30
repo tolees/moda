@@ -16,6 +16,7 @@ comparePrice: 68.59 EUR
 prodname: 'Timezone Tight Taviratz 7/8 Vaqueros Slim  Blanco  Dark Navy 0391   W25 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXS74SW/?tag=tolees-21'
 descuento: '73.51'
 average: '18.17'

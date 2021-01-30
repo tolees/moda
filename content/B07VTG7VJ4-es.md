@@ -16,6 +16,7 @@ comparePrice: 11.4 EUR
 prodname: 'Bolso RIÑONERA Lion King'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTG7VJ4/?tag=tolees-21'
 descuento: '19.65'
 average: '9.16'

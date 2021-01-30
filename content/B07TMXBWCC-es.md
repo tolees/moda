@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Declan Mix  Sandalias de Gladiador para Mujer  Negro  Black Combi Lea Black Combi Lea   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMXBWCC/?tag=tolees-21'
 descuento: '55.00'
 average: '31.48'

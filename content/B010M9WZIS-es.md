@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Timberland Euro Sprint Hiker  Botas para Hombre  Amarillo Wheat  43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010M9WZIS/?tag=tolees-21'
 descuento: '40.01'
 average: '103.46'

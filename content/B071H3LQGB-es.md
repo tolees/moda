@@ -16,6 +16,7 @@ comparePrice: 44.73 EUR
 prodname: 'find. Botines con Suela de Crepe Estilo Óxford para Hombre  Marrón  Brown   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071H3LQGB/?tag=tolees-21'
 descuento: '62.78'
 average: '16.65'

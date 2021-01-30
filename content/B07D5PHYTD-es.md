@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Adidas Adilette Comfort  Zapatos de Playa y Piscina para Hombre  Azul  Azuosc/Ftwbla/Azuosc 000   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5PHYTD/?tag=tolees-21'
 descuento: '65.92'
 average: '11.91'

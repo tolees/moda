@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry OL Vintage Emb Crew Camiseta  Verde  Desert Olive Space Dye T7n   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJGGXLD/?tag=tolees-21'
 descuento: '52.02'
 average: '11.99'

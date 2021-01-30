@@ -16,6 +16,7 @@ comparePrice: 27.98 EUR
 prodname: 'WOWOWO  Bolso de Mano Multiusos de Cuero PU con Embrague Retro para Hombre  Bolso de Mano para Novio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GH36GWV/?tag=tolees-21'
 descuento: '50.00'
 average: '13.99'

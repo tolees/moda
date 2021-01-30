@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'CARE OF by PUMA Sudadera con capucha de manga larga con capucha y cremallera para hombre  Rojo  Red   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT65JKW/?tag=tolees-21'
 descuento: '25.53'
 average: '13.39'

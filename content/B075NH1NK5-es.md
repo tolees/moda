@@ -16,6 +16,7 @@ comparePrice: 37.72 EUR
 prodname: 'Tom Tailor Denim Chambray Baloon Sleeve Blouse  Blusa Mujer  Azul  Blau 1001   34  Talla del Fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NH1NK5/?tag=tolees-21'
 descuento: '78.79'
 average: '8'

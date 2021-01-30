@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Sandal Vega A  Sandalias con Punta Abierta para Mujer  Plateado  Silver C1007   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTGR7Y/?tag=tolees-21'
 descuento: '51.13'
 average: '43.93'

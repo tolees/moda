@@ -16,6 +16,7 @@ comparePrice: 11.49 EUR
 prodname: 'Ronamick Sandalen - Sandalias de Vestir de Poliuretano para Mujer  Color Negro  Talla 35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6KQVG1/?tag=tolees-21'
 descuento: '87.03'
 average: '1.49'

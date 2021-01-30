@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'MYCARBON Cintura Fanny Pack Riñoneras Deportivas Cinturón de Correr Impermeable Bolso Running para Camina el Perro Bicicleta Senderismo Teléfono 6 Pulgadas Riñoneras Mujer Hombre Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07213QBWG/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

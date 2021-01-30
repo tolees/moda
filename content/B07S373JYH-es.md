@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only & Sons Onsstorm Check Shirt 3599 Camisa  Multicolor  Cinnabar Cinnabar   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S373JYH/?tag=tolees-21'
 descuento: '40.64'
 average: '17.21'

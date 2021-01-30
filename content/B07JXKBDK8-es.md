@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'XTI 49052  Sandalias con Plataforma para Mujer  Marrón Camel  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXKBDK8/?tag=tolees-21'
 descuento: '62.58'
 average: '14.95'

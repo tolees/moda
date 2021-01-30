@@ -16,6 +16,7 @@ comparePrice: 9.58 EUR
 prodname: 'TWBB Camiseta Hombre Cordon de Cuero Vintage Patchwork con Capucha Manga Larga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSCQFTP/?tag=tolees-21'
 descuento: '86.64'
 average: '1.28'

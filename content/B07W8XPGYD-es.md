@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones JCOSEAD Sweat Crew Neck FST Sudadera  Gris  Light Grey Melange Light Grey Melange   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8XPGYD/?tag=tolees-21'
 descuento: '50.02'
 average: '12.826666666666668'

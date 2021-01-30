@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 725 High Rise Bootcut Vaqueros Corte de Bota  Azul  Two The Nine 0000   W24/L32  Talla del Fabricante: 24 32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT6YGC9/?tag=tolees-21'
 descuento: '45.70'
 average: '53.754999999999995'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Freaky Nation Biker Princess Chaqueta  Negro  Shadow 9015   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BOS9P8Y/?tag=tolees-21'
 descuento: '29.67'
 average: '139.95'

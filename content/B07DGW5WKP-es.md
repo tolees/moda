@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Biwat Plantillas de Zapatos con Tacón Alto  T-forma Plantillas Silicona /Gel Almohadillas de Talón  almohadillas antideslizantes para zapatos  parte trasera de los cojines de talón  Beige '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGW5WKP/?tag=tolees-21'
 descuento: '75.69'
 average: '4.86'

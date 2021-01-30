@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Ruckel Ridge Chukka WP Omni-Heat  Zapatos de Senderismo para Hombre  Negro  Black  Dark Grey 010   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNZ13VH/?tag=tolees-21'
 descuento: '34.64'
 average: '71.89'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling Gabbie  Bolso bandolera para Mujer  Azul  Wave Blue   35.5 x 30 x 18.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZYHL7J/?tag=tolees-21'
 descuento: '62.14'
 average: '35.97'

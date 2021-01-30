@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'crocs Baya  Zuecos Unisex Adulto  Gris  Graphite   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003BLPRIU/?tag=tolees-21'
 descuento: '40.11'
 average: '23.95'

@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'Boxer Gifts - Carcasa para iPhone 4/4s  diseño con Texto LMAO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008MJKW54/?tag=tolees-21'
 descuento: '32.77'
 average: '9.07'

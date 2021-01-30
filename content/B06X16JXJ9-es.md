@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Adilette Shower Chanclas Hombre  Blanco  Footwear White/Core Black/Footwear White 0   40.5 EU  7 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X16JXJ9/?tag=tolees-21'
 descuento: '40.08'
 average: '14.95'

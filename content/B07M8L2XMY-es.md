@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Lee Hoody Sudadera  Verde  DK Bottle Green BB   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8L2XMY/?tag=tolees-21'
 descuento: '70.97'
 average: '21.77'

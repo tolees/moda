@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 [[No Apto para Xiaomi Redmi Note 7]] Diseño de Moda Funda de Fbra de Carbono Diseño Híbrido Defensor para Funda Xiaomi Redmi S3 Funda Redmi 7 Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3JQJ35/?tag=tolees-21'
 descuento: '58.74'
 average: '7.01'

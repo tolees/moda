@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lightess Apliques de Pared LED 12W Lámpara Exterior Impermeable IP65 Luz de Aluminio Luz Agradable Impermeable Iluminación en Moda para Balcón  Jardín  Porche  Camino  Patio  Blanco Frío'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719J3CSM/?tag=tolees-21'
 descuento: '20.01'
 average: '31.99'

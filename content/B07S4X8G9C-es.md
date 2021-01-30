@@ -16,6 +16,7 @@ comparePrice: 24.65 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Amarillo  Brw T2 Ochre 0778   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4X8G9C/?tag=tolees-21'
 descuento: '17.65'
 average: '20.3'

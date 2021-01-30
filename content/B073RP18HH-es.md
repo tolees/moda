@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Helly Hansen HH Tech Crew Camiseta  Hombre  Gris  Gris Oscuro 980   Large  Tamaño del Fabricante:L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RP18HH/?tag=tolees-21'
 descuento: '44.08'
 average: '13.98'

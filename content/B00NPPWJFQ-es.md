@@ -16,6 +16,7 @@ comparePrice: 21.57 EUR
 prodname: 'Teva W Terra Fi Lite Leather  Sandalias de Punta Descubierta para Mujer  Marrón  Brown Brn   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NPPWJFQ/?tag=tolees-21'
 descuento: '24.76'
 average: '16.23'

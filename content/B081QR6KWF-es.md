@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour UA Streaker 2.0 Half Zip Cremallera Media  Sudadera Deportiva de Secado rápido  Mujer  Rosa  Hushed Pink/Reflective 662   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QR6KWF/?tag=tolees-21'
 descuento: '51.84'
 average: '26.49'

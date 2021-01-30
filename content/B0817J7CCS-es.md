@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Columbia Zero Rules Camisa Técnica De Manga Corta  Hombre  New Olive  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0817J7CCS/?tag=tolees-21'
 descuento: '60.02'
 average: '13.99'

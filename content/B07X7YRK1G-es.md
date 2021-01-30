@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'Camper Neuman K300170-008 Botines Hombre 43'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7YRK1G/?tag=tolees-21'
 descuento: '30.30'
 average: '115.0'

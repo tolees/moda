@@ -16,6 +16,7 @@ comparePrice: 31.41 EUR
 prodname: 'gracosy Alpargatas Zapatos de Mujer Caminando Zapatillas Plano de holgazán Sandalias de Verano de Playa Transpirables Bordados de Flores Coloridas jardín de Ocio al Aire Libre Zapatillas de casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0744BRSJQ/?tag=tolees-21'
 descuento: '29.99'
 average: '21.99'

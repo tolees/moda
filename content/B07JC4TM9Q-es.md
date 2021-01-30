@@ -16,6 +16,7 @@ comparePrice: 24.15 EUR
 prodname: 'Timberland Davis Square Alpine Oxford  Zapatillas Unisex-Niño  Amarillo  Wheat   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JC4TM9Q/?tag=tolees-21'
 descuento: '24.89'
 average: '18.14'

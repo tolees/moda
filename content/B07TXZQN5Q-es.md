@@ -16,6 +16,7 @@ comparePrice: 25.56 EUR
 prodname: 'New Look Lattice Front Vestido  Negro  Black Pattern 9   40  Talla del Fabricante: 12  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXZQN5Q/?tag=tolees-21'
 descuento: '45.23'
 average: '15.0'

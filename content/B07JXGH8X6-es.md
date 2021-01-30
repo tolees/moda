@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Arizona Straight Jeans Vaqueros  Fuse Blue  31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXGH8X6/?tag=tolees-21'
 descuento: '60.59'
 average: '27.799999999999997'

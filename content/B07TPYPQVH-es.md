@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Karely Sun  Sandalias de Talón Abierto para Mujer  Azul  Navy Nubuck Navy Nubuck   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYPQVH/?tag=tolees-21'
 descuento: '59.15'
 average: '44.94'

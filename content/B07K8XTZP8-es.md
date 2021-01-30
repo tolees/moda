@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Verde  Dusty Green 3TD   45/46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8XTZP8/?tag=tolees-21'
 descuento: '30.01'
 average: '24.49'

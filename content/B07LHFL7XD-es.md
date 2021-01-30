@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'The North Face SS Raglan Easy tee Camiseta  Hombre  Azul  Storm Blue   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LHFL7XD/?tag=tolees-21'
 descuento: '50.00'
 average: '17.5'

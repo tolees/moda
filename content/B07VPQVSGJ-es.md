@@ -16,6 +16,7 @@ comparePrice: 38.19 EUR
 prodname: 'Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Azul  Phthalo Blue   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPQVSGJ/?tag=tolees-21'
 descuento: '50.25'
 average: '19.0'

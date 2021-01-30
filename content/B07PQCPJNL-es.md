@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'LOHOTEK Guantes de Ciclismo Motocicleta Bicicleta Montaña-Acolchados Bicicleta de Carretera de Hombres Mujeres Antideslizante Pantalla Táctil  Azul  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQCPJNL/?tag=tolees-21'
 descuento: '38.11'
 average: '12.835454545454546'

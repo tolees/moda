@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Ermenegildo Zegna Sonnenbrille EZ0028-FN Gafas de sol  Marrón  Braun   56.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THZFMCF/?tag=tolees-21'
 descuento: '88.86'
 average: '21.16'

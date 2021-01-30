@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Rainforest Winter  Chaqueta para Hombre  Negro  Black 041   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0735BFJMY/?tag=tolees-21'
 descuento: '39.45'
 average: '110.82777777777778'

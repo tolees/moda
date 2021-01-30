@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'BAIGIO Bolso Bandolera de Piel para Hombres Bolso Mensajero Pequeño de Cuero Bolsa Messenger Hombro Bolso de Negocios Bolsa Cruzada Cuerpo Cartera Diario para Negocios Deporte Casual  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHY217Z/?tag=tolees-21'
 descuento: '24.33'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Fly by Exposed Pantalón Corto  Mujer  Negro  Black/White/Reflective 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZTHMD5/?tag=tolees-21'
 descuento: '40.10'
 average: '17.97'

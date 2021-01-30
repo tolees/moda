@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Timberland 6-Inch Premium Boot  Botas para Hombre  Amarillo  Wheat Nubuck   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000G23DQK/?tag=tolees-21'
 descuento: '36.00'
 average: '124.98'

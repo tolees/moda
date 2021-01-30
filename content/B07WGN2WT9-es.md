@@ -16,6 +16,7 @@ comparePrice: 8.72 EUR
 prodname: 'Jack & Jones Joruptown tee LS Crew Neck Camiseta de Manga Larga  Azul  Brick Red Fit:REG   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGN2WT9/?tag=tolees-21'
 descuento: '32.68'
 average: '5.87'

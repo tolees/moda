@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Yuki A  Mocasines para Mujer  Grau  BLACK/ANTHRACITEC9270   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GWX3TNS/?tag=tolees-21'
 descuento: '50.00'
 average: '49.95'

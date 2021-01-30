@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Antony Morato Camicia con Contrasto Collo E Interno Finta Camisa  Azul Vivo  46 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EHVY666/?tag=tolees-21'
 descuento: '45.44'
 average: '24'

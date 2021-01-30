@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bragas Mujer sin Costuras Invisible Señoras Braguitas Low Rise Suave Ligera Bikini Braguitas  Pack de 6 Beige XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088GRQ5R8/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'TRIXIE Jersey Moncton  M  45 cm  Marrón  Perro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KHCXX6/?tag=tolees-21'
 descuento: '15.83'
 average: '10.9'

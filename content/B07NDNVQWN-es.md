@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Graphic 14 Core Hooded Sudadera  Marrón  Aged Almond A493   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNVQWN/?tag=tolees-21'
 descuento: '73.44'
 average: '31.3'

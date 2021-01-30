@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Antic Blue 8968-812  25W / 36L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N18RZ1M/?tag=tolees-21'
 descuento: '89.05'
 average: '13.14'

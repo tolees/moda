@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'adidas Essentials Linear Logo tee Camiseta  Hombre  Azul  Legend Ink/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL2G7K3/?tag=tolees-21'
 descuento: '31.83'
 average: '13.9325'

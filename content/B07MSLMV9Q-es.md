@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Bampton Wing  Zapatos de Cordones Brogue para Hombre  Piel de Caoba de Color marrón  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSLMV9Q/?tag=tolees-21'
 descuento: '43.65'
 average: '40.87333333333333'

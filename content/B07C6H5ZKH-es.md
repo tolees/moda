@@ -16,6 +16,7 @@ comparePrice: 8.87 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Braguita de Bikini Crochet  Mujer  Verde  Olive/Starlet Pink/Fandango Pink   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C6H5ZKH/?tag=tolees-21'
 descuento: '57.61'
 average: '3.76'

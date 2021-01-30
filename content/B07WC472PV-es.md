@@ -16,6 +16,7 @@ comparePrice: 82.14 EUR
 prodname: 'Tommy Hilfiger John Cargo Short Light Twill Vaqueros Relaxed  Azul  Desert Sky   W28/L30  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC472PV/?tag=tolees-21'
 descuento: '81.30'
 average: '15.36'

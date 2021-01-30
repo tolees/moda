@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'NIKE M Polo TM Club19 SS Camiseta  Hombre  Blanco  White/Black/100   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL67QDD/?tag=tolees-21'
 descuento: '16.83'
 average: '24.866666666666667'

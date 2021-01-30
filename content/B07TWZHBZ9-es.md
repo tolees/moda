@@ -16,6 +16,7 @@ comparePrice: 72.99 EUR
 prodname: 'Axcone Zapatillas Hombres Mujer Deporte Running Zapatos para Correr Gimnasio Sneakers Deportivas Padel Transpirables Casual 8995 BU 43EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWZHBZ9/?tag=tolees-21'
 descuento: '53.43'
 average: '33.99'

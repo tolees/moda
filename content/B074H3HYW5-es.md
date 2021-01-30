@@ -16,6 +16,7 @@ comparePrice: 19.2 EUR
 prodname: 'find. Camisa con Volantes para Mujer  Verde  Khaki   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074H3HYW5/?tag=tolees-21'
 descuento: '37.50'
 average: '15.6'

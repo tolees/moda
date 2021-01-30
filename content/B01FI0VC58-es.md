@@ -16,6 +16,7 @@ comparePrice: 40.5 EUR
 prodname: 'Birkenstock Arizona EVA  Sandalias de Punta Descubierta para Mujer  Plateado  Metallic Anthracite Metallic Anthracite   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FI0VC58/?tag=tolees-21'
 descuento: '26.05'
 average: '29.95'

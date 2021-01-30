@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Lynn Mid Skinny Vaqueros  Gris  Dusty Grey B472-a799   22W / 26L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N16RHLJ/?tag=tolees-21'
 descuento: '34.98'
 average: '51.46666666666666'

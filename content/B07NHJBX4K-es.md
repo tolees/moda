@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Esprit Jelto NW PJ.LS_ll Pijama  Negro  Black 001   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHJBX4K/?tag=tolees-21'
 descuento: '45.46'
 average: '29.99'

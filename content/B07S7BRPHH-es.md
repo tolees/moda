@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Luke Vaqueros  Mission Worn Zi  31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7BRPHH/?tag=tolees-21'
 descuento: '54.50'
 average: '45.48'

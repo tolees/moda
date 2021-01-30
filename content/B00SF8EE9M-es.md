@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Revend Skinny Vaqueros  Dk Aged 6590-89  36W / 38L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SF8EE9M/?tag=tolees-21'
 descuento: '62.73'
 average: '37.25'

@@ -16,6 +16,7 @@ comparePrice: 9.69 EUR
 prodname: 'MTNG KADIRI  Bolso totes para Mujer  Marrón  Pull Camel/Gris   18x19x18 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT1HFP9/?tag=tolees-21'
 descuento: '15.17'
 average: '12.695'

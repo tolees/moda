@@ -16,6 +16,7 @@ comparePrice: 4.81 EUR
 prodname: 'Amazon Essentials - Camisa de cambray de manga corta para hombre  Azul medio  US XS  EU XS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HL3DTLY/?tag=tolees-21'
 descuento: '43.66'
 average: '2.71'

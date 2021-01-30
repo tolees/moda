@@ -16,6 +16,7 @@ comparePrice: 21.13 EUR
 prodname: 'Marca Amazon - IRIS & LILLY  Kimono Pijama Mujer  Azul  Blue Spot Print   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RDZLNM/?tag=tolees-21'
 descuento: '69.33'
 average: '6.48'

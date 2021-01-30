@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Chanclas Flip Flop Playa y Piscina para Hombre  41 EU  Paradise '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVBB14V/?tag=tolees-21'
 descuento: '65.16'
 average: '6.95'

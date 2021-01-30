@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'MAMALICIOUS MLJULIANE SLIM PANT - NOOS  Vaqueros premamá Mujer  Negro  Black   W31/L34   31 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MAXUYMN/?tag=tolees-21'
 descuento: '37.73'
 average: '27.99'

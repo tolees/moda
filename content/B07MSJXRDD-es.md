@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Ronnie Limit  Zapatos de Cordones Brogue  Marrón Oscuro Combi Dark Brown Combi  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSJXRDD/?tag=tolees-21'
 descuento: '75.08'
 average: '28.275000000000002'

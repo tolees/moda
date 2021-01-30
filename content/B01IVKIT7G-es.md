@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Head Basic - Bóxer para hombre  Azul  Peacoat/Orange   Large  Pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVKIT7G/?tag=tolees-21'
 descuento: '47.25'
 average: '8.102'

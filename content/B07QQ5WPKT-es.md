@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Marca Amazon - Iris & Lilly Sujetador de Modal Media Copa Mujer  Pack de 2  Multicolor  Black/White   90D  Label: 34D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQ5WPKT/?tag=tolees-21'
 descuento: '16.70'
 average: '8.54'

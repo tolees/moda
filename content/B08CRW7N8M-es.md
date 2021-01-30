@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'DYKHMILY Zapatillas de Seguridad Hombre Ligeras Comodo Calzado de Seguridad Deportivo con Puntera de Acero Anti-pinchazo Zapatos de Seguridad Trabajo Verano Negro Gris 42 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRW7N8M/?tag=tolees-21'
 descuento: '22.85'
 average: '38.5'

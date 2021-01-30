@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Blanco  White 297   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5SB2PZ/?tag=tolees-21'
 descuento: '17.40'
 average: '20.99679245283018'

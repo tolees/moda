@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Carrera 154/S Gafas de sol  Negro  BLACK   51 Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079WCMX8N/?tag=tolees-21'
 descuento: '71.51'
 average: '66.66'

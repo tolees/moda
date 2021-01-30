@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Havaianas Slim  Chanclas para Niñas  Rosa  Hollywood Rose   23/24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1H8RH7/?tag=tolees-21'
 descuento: '54.97'
 average: '8.06'

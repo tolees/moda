@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha  Multicolor  Detalles de Rojo Chino: W Black   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDKQ33L/?tag=tolees-21'
 descuento: '32.66'
 average: '25.213333333333335'

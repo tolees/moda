@@ -16,6 +16,7 @@ comparePrice: 141.5 EUR
 prodname: 'Trangoworld Ghawdex SN Pantalón Largo  Hombre  Rojo Volcán/Antracita  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D61SIO4/?tag=tolees-21'
 descuento: '52.30'
 average: '68.74'

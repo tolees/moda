@@ -16,6 +16,7 @@ comparePrice: 154.9 EUR
 prodname: 'Tommy Hilfiger Signature Hilfiger Leather Shoe  Zapatos de Cordones Derby para Hombre  Black 990  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6VNZD8/?tag=tolees-21'
 descuento: '52.79'
 average: '90.65875'

@@ -16,6 +16,7 @@ comparePrice: 17.63 EUR
 prodname: 'HAWKERS Warwick Gafas de sol  Carbon Black Chrome  One Size Unisex-Adult'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPBDGX3/?tag=tolees-21'
 descuento: '17.53'
 average: '14.540000000000001'

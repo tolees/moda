@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'TENGTA Unisex Zapatos de jardinería Impermeables para Mujeres Botas de Lluvia para Hombres Calzado de Lavado de Autos Ejercito Verde 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHKZ1MV/?tag=tolees-21'
 descuento: '23.34'
 average: '45.99'

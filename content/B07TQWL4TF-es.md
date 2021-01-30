@@ -16,6 +16,7 @@ comparePrice: 15.12 EUR
 prodname: 'HAWKERS · NARCISO · Electric Blue · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQWL4TF/?tag=tolees-21'
 descuento: '44.18'
 average: '8.44'

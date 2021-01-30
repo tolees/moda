@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver Get Buzzy Camiseta De Manga Larga  Niños  Blanco  White/Garnet   XL/16'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9F2B4T/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

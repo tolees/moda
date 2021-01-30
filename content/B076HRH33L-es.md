@@ -16,6 +16,7 @@ comparePrice: 32.4 EUR
 prodname: 'adidas CV3429 Sudadera con Capucha  Unisex Niños  Gris  Gris/Negro   13-14 años  Talla del Fabricante: 164 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HRH33L/?tag=tolees-21'
 descuento: '19.81'
 average: '25.98'

@@ -16,6 +16,7 @@ comparePrice: 47.25 EUR
 prodname: 'find. Chaqueta Efecto Cuero para Hombre  Negro  Schwarz   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QN7WKD/?tag=tolees-21'
 descuento: '61.90'
 average: '18.0'

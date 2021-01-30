@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox U844VA 00022 Zapato Casual Hombre Marròn 44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGCB6KM/?tag=tolees-21'
 descuento: '50.00'
 average: '44.95'

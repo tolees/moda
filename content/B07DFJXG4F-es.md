@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Crocs LiteRide Clog  Zuecos Unisex Adulto  Negro  Black/Smoke 05m   46/47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFJXG4F/?tag=tolees-21'
 descuento: '35.13'
 average: '35.67'

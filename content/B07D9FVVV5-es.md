@@ -16,6 +16,7 @@ comparePrice: 86.32 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Sponge St  30W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9FVVV5/?tag=tolees-21'
 descuento: '42.09'
 average: '50.64333333333333'

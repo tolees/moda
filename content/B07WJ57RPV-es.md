@@ -16,6 +16,7 @@ comparePrice: 40.65 EUR
 prodname: 'Kuako Zapatillas de Estar por casa con Forro de vellón para Mujer Antideslizantes Espuma de Memoria para Interiores Zapatos cálidos acogedores de la casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJ57RPV/?tag=tolees-21'
 descuento: '60.17'
 average: '16.19'

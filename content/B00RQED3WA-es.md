@@ -16,6 +16,7 @@ comparePrice: 8.08 EUR
 prodname: 'Zotal Parasital Collar para Perros  60 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RQED3WA/?tag=tolees-21'
 descuento: '41.58'
 average: '4.6875'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Gris  Slate Grey 0DA   46/47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0728CNXWK/?tag=tolees-21'
 descuento: '32.58'
 average: '23.59'

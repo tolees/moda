@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'ALPRO A 630 - Zuecos de material sintético unisex  negro - negro  47 Normal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LWANP0/?tag=tolees-21'
 descuento: '50.86'
 average: '27.0'

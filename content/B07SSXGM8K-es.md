@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'BeiaMina Mujer Zapatos Moda Tacón Alto Sandalias Plataforma Fiesta Zapatos Tacón Ancho Verano Zapatos Glitter White Talla 39 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSXGM8K/?tag=tolees-21'
 descuento: '51.86'
 average: '21.66'

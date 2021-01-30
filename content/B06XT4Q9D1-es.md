@@ -16,6 +16,7 @@ comparePrice: 3.33 EUR
 prodname: 'YAZILIND 18K joyeria plateada oro colorido cristal Cubic Zirconia bola embutido redondo pendiente llenada de diseno claro senoras mujeres moda aretes para ninas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XT4Q9D1/?tag=tolees-21'
 descuento: '69.97'
 average: '1.0'

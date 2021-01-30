@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Carteras Hombre pequeñas con Monedero - De Piel  con Cierre a presión  Tarjetero RFID y Monedero con Cremallera  Regalos para Hombre  Color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPRKRP7/?tag=tolees-21'
 descuento: '28.66'
 average: '10.63'

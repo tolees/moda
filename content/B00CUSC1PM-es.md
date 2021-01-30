@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Spalding Attack Tank Top Camiseta De Equipaciones Manga Corta  Hombre  Negro  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CUSC1PM/?tag=tolees-21'
 descuento: '23.04'
 average: '9.99'

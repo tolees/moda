@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Belle Boat-nk Top 3/4 Slv Jersey Deportivo  Naranja  Hori Easy STP/Koi 828   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYVTJY1/?tag=tolees-21'
 descuento: '35.87'
 average: '32'

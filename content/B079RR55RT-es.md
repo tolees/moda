@@ -16,6 +16,7 @@ comparePrice: 53 EUR
 prodname: 'Pepe Jeans Jepson PM302995 Camisa  Azul  Black Wk2   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RR55RT/?tag=tolees-21'
 descuento: '34.92'
 average: '34.49'

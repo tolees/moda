@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'GANT The Broadcloth Reg BD Camisa  Negro  Black 5   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK3F57B/?tag=tolees-21'
 descuento: '37.02'
 average: '56.555'

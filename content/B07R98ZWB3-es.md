@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Pouring Adventure II Chaqueta para Lluvia  Hombre  Azul  Collegiate Navy  Azure Blue   Talla: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R98ZWB3/?tag=tolees-21'
 descuento: '56.67'
 average: '38.99'

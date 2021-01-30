@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Dickies Sacramento Camisa  Gris  Grey Melange Gym   X-Large  Tamaño del Fabricante:XLrge  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HO30K7I/?tag=tolees-21'
 descuento: '24.86'
 average: '36.82'

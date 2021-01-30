@@ -16,6 +16,7 @@ comparePrice: 53.33 EUR
 prodname: 'Marca Amazon - TRUTH & FABLE Vestido Midi Ajustado de Encaje Mujer  Marfil  Ivory   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PVY2LR/?tag=tolees-21'
 descuento: '88.96'
 average: '7.593333333333334'

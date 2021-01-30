@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Marca Amazon - find. Camiseta con Franjas para Hombre  Gris  Slate Grey   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FWKPDT/?tag=tolees-21'
 descuento: '70.72'
 average: '5.27'

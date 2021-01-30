@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Gant O2. Striped Flared Dress  Vestido para Mujer  Azul  Persian Blue 423  Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPQ5RGY/?tag=tolees-21'
 descuento: '58.42'
 average: '59.33'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Epic Flip V2  Zapatos de Playa y Piscina Unisex Adulto  Rosa  Sun Kissed Coral/Rosewater 41   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8PWT97/?tag=tolees-21'
 descuento: '32.38'
 average: '13.49'

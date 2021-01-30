@@ -16,6 +16,7 @@ comparePrice: 9.32 EUR
 prodname: 'Amazon Essentials - Camisa de lino a rayas  de manga corta y corte entallado para hombre  Aguamarina Cuadros  US M  EU M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHY5F26/?tag=tolees-21'
 descuento: '35.62'
 average: '6.0'

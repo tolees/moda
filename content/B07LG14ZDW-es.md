@@ -16,6 +16,7 @@ comparePrice: 26.19 EUR
 prodname: 'Geox D Annytah D  Bailarinas para Mujer  Marrón  Chestnut C6004   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG14ZDW/?tag=tolees-21'
 descuento: '16.46'
 average: '21.88'

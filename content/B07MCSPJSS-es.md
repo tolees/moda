@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Napapijri ABERDAR WOM Chaqueta  Azul  BLU Marine 176   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPJSS/?tag=tolees-21'
 descuento: '75.12'
 average: '74.4'

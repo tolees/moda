@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Gant D1. The Light Down Jacket Chaqueta  Azul  Marine 410   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVG9FYT/?tag=tolees-21'
 descuento: '49.91'
 average: '150.945'

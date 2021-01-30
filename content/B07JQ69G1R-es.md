@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Tiro 19 Training Track Top Jkt Chaqueta Deportiva  Hombre  Azul  Bold Blue/Dark Blue/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQ69G1R/?tag=tolees-21'
 descuento: '38.23'
 average: '33.12333333333333'

@@ -16,6 +16,7 @@ comparePrice: 48.47 EUR
 prodname: 'HÄRVIST HTSMA  Sudadera Para Mujer  Gris  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ5F0FQ/?tag=tolees-21'
 descuento: '79.88'
 average: '9.75'

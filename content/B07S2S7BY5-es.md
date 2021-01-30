@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Original Camiseta  Gris  Hm Patch OG tee Forged Iron 0004   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2S7BY5/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

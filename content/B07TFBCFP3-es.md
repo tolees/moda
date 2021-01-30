@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Lacoste Sport Sh4899 Sudadera  Azul  Methylene/Noir-Blanc P14   XXX-Large  Talla del Fabricante: 8  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFBCFP3/?tag=tolees-21'
 descuento: '48.39'
 average: '51.61'

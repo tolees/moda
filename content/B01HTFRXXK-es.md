@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Chaqueta Impermeable con Capucha para Mujer  Powder Lite Hooded  Blanco  White  Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HTFRXXK/?tag=tolees-21'
 descuento: '41.55'
 average: '65.84'

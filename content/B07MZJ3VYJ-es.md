@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'G-STAR RAW Graphic 8 Round Neck Camiseta  Azul  Sartho Blue 6067   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZJ3VYJ/?tag=tolees-21'
 descuento: '33.26'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Big Logo SS Ligera Camiseta Masculina  cómoda y Ancha Camiseta de Manga Corta para Hombre  Hombre  Gris  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078B27NBP/?tag=tolees-21'
 descuento: '51.96'
 average: '12.49'

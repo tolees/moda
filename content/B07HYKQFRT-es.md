@@ -16,6 +16,7 @@ comparePrice: 25.76 EUR
 prodname: 'HAWKERS · ONE LS · Blue · Chrome  · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYKQFRT/?tag=tolees-21'
 descuento: '35.17'
 average: '16.737142857142857'

@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s Plus Size Pl 501 Crop Stonewash Vaqueros Straight  Azul  Jive Stone Wash 0001   No Aplica  Talla del Fabricante: 20  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT6ZLVD/?tag=tolees-21'
 descuento: '44.02'
 average: '64.38'

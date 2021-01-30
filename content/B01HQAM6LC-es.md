@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband  Zuecos Unisex Adulto  Azul  Blue/Yellow   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HQAM6LC/?tag=tolees-21'
 descuento: '40.01'
 average: '26.99'

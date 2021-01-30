@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler High Rise Skinny Vaqueros  Azul  Night Blue 78y   27W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M95X4SD/?tag=tolees-21'
 descuento: '37.62'
 average: '52.99'

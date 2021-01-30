@@ -16,6 +16,7 @@ comparePrice: 21 EUR
 prodname: 'find. Sudadera Mujer  Verde  Green   36  Talla del fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NGYM2R/?tag=tolees-21'
 descuento: '60.00'
 average: '8.4'

@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Hollywood Star Fashion - Camiseta de Manga Larga con Cuello en V para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015HWBRRK/?tag=tolees-21'
 descuento: '77.19'
 average: '3.99'

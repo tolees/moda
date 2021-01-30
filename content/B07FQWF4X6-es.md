@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Edward Walk  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQWF4X6/?tag=tolees-21'
 descuento: '65.34'
 average: '39.405'

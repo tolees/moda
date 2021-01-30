@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Helly Hansen Hombre Crew Hooded Jacke Chaqueta Not Applicable  Azul  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAI90AH/?tag=tolees-21'
 descuento: '40.03'
 average: '89.95'

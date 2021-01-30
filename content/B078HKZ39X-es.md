@@ -16,6 +16,7 @@ comparePrice: 13.86 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Tanga de Hilo de Algodón Mujer  Pack de 5  Multicolor  Twilight Blue/pearl/cashmere Blue   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HKZ39X/?tag=tolees-21'
 descuento: '29.37'
 average: '9.79'

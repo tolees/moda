@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'Cronell Story Chaqueta De Camuflaje para Niñas Chaqueta Cortaviento Informal Sección Larga De Remaches Sueltos Abrigo para Niñas De 5 A 15 Años  1 L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9JSL1B/?tag=tolees-21'
 descuento: '58.83'
 average: '27.99'

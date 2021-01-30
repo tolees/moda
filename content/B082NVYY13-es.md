@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'ShyaWorld Chaqueta Alta Visibilidad Trabajo homologada Reflectante Cortavientos  Impermeable Capucha  XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NVYY13/?tag=tolees-21'
 descuento: '28.59'
 average: '49.95'

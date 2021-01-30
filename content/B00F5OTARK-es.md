@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'GANT The Original Solid T-Shirt Camiseta  Negro  Black 5   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F5OTARK/?tag=tolees-21'
 descuento: '34.78'
 average: '23.645'

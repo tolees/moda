@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Iris & Lilly Braga de Bikini de Algodón Mujer  Pack de 10  Multicolor  Black/Nostalgia Rose/Mel   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MVTNPF/?tag=tolees-21'
 descuento: '19.09'
 average: '20.22'

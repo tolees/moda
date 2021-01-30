@@ -16,6 +16,7 @@ comparePrice: 48.29 EUR
 prodname: 'Vixxsin Rest Sudadera con Capucha Negro XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018RFDLAK/?tag=tolees-21'
 descuento: '46.18'
 average: '25.99'

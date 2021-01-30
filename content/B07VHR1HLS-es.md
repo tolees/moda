@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Desigual TS Milan Camiseta  Blanco  Blanco 1000   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHR1HLS/?tag=tolees-21'
 descuento: '29.92'
 average: '20.99'

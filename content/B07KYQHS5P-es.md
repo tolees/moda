@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'REPLAY Jondrill Vaqueros Skinny  Negro  Black 98   W28/L30  Talla del Fabricante: 28  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYQHS5P/?tag=tolees-21'
 descuento: '52.59'
 average: '46.87153846153846'

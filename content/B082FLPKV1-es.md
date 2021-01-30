@@ -16,6 +16,7 @@ comparePrice: 13.81 EUR
 prodname: 'P Prettyia Plantillas Cálidas de Invierno Unisex Plantillas de Zapatos de Lana Gruesa para Botas Zapatillas Calzado - 37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082FLPKV1/?tag=tolees-21'
 descuento: '44.46'
 average: '7.67'

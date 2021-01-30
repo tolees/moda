@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'HKT by Hackett Hkt Ltweight Down Jkt Chaqueta   Navy 595   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLT1L8V/?tag=tolees-21'
 descuento: '80.11'
 average: '37.6'

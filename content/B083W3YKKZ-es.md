@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Donpapa Mujer Traje de Baño Tankinis Hálter Falda Push Up Bikini Conjunto de Malla Playa Ropa de Baño de Cintura Alta Azul Naranja XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083W3YKKZ/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

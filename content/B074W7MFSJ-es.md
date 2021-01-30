@@ -16,6 +16,7 @@ comparePrice: 8.56 EUR
 prodname: 'Marca Amazon - MERAKI Chaqueta de Algodón Mujer Cuello Redondo  Beige  Linen   42  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074W7MFSJ/?tag=tolees-21'
 descuento: '15.89'
 average: '7.909999999999999'

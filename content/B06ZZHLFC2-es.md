@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Cressi Beach Portofino Chanclas  Unisex Adulto  Verde/Azul  42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZHLFC2/?tag=tolees-21'
 descuento: '20.02'
 average: '9.59'

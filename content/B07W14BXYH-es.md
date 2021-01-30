@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Pepe Jeans Raury Camiseta  Verde  734safari 734   17-18 años  Talla del Fabricante: 18  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W14BXYH/?tag=tolees-21'
 descuento: '39.75'
 average: '11.99'

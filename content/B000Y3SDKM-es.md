@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Texas Darkstone  Vaqueros para Hombre  Vint Darkstone  W34/L36  ES 44 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Y3SDKM/?tag=tolees-21'
 descuento: '57.14'
 average: '34.27'

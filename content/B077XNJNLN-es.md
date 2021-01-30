@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Rival Fleece Logo Sudadera con Capucha para Hombre  Ropa Deportiva Ancha  Sudadera de Hombre Resistente y elástica  Steel Light Heather/Black  035   LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XNJNLN/?tag=tolees-21'
 descuento: '38.20'
 average: '31.206666666666667'

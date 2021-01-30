@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'edc by Esprit 999cc1b803 Vaqueros Skinny  Azul  Blue Medium Wash 902   W29/L30  Talla del Fabricante: 29/30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ786DP/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

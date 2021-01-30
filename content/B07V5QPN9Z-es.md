@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Hilfiger Maritime Beach Sandal  Sandalias con Punta Abierta para Hombre  Azul  Desert Sky Dw5   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5QPN9Z/?tag=tolees-21'
 descuento: '30.00'
 average: '26.189999999999998'

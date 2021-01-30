@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Under Armour UA Woven Graphic Short Pantalón Corto  Hombre  Gris  035   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FHJHXO4/?tag=tolees-21'
 descuento: '48.97'
 average: '15.31'

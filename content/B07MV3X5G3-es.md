@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Bolso de Noche Bolso de Hombro Mujer Glitter Diamond Hard Shell Clutches para Boda Fiesta Baile  Bolsos de Diamantes de imitación Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV3X5G3/?tag=tolees-21'
 descuento: '44.01'
 average: '27.99'

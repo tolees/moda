@@ -16,6 +16,7 @@ comparePrice: 86.0 EUR
 prodname: 'QUEEN ROSE Almohada de Embarazo con Funda de Jersey  Almohada de Cuerpo Completo en Forma de L para Mujeres Embarazadas  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYP3SGX/?tag=tolees-21'
 descuento: '53.73'
 average: '39.79'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 511 Slim Vaqueros  Beige Harvest Gold Sueded Sateen WT B 4425  32W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW9RZ7L/?tag=tolees-21'
 descuento: '57.12'
 average: '38.59'

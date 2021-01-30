@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'HUGO 708 Vaqueros Slim  Negro  Black 1   W34/L34  Talla del Fabricante: 3434  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGP7Q23/?tag=tolees-21'
 descuento: '79.36'
 average: '20.63'

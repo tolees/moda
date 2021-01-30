@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Marion Vaqueros  Ninety Nine  28W / 35L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NZKLQD/?tag=tolees-21'
 descuento: '61.79'
 average: '35.98333333333333'

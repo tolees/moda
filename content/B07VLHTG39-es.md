@@ -16,6 +16,7 @@ comparePrice: 19.63 EUR
 prodname: 'Calvin Klein Braguita de Bikini  Blanco  White 100    Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLHTG39/?tag=tolees-21'
 descuento: '40.14'
 average: '9.8'

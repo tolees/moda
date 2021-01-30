@@ -16,6 +16,7 @@ comparePrice: 85.76 EUR
 prodname: 'Tommy Jeans Hombre  Scanton Vaqueros  Slim Azul  Vernon Black Stretch 911  W38/L34  Talla del fabricante: 3438 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH1VL25/?tag=tolees-21'
 descuento: '32.38'
 average: '57.99'

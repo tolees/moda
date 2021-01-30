@@ -16,6 +16,7 @@ comparePrice: 101.22 EUR
 prodname: 'REPLAY Zeumar Vaqueros Slim  Gris  Stone Grey 400   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWT5V4Q/?tag=tolees-21'
 descuento: '37.10'
 average: '63.67'

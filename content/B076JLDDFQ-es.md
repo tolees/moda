@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs LiteRide Slide  Sandalias de Punta Descubierta Unisex Adulto  Negro  Black/Slate Grey 0dd   42/43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JLDDFQ/?tag=tolees-21'
 descuento: '32.16'
 average: '27.13'

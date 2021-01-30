@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Lucas Sudadera   Ivy 673   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQSZJK/?tag=tolees-21'
 descuento: '64.11'
 average: '23.33'

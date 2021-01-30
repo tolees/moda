@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'KUTOOK Pantalones Softshell Trekking Mujer con Forro Polar Pantalón Senderismo Montaña Escalada Repele El Agua y Seca Rápido para Otoño Invierno HP312 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HGKXH5W/?tag=tolees-21'
 descuento: '38.48'
 average: '39.99'

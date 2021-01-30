@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Timberland SS Dunstan River Pocket Slim tee Camiseta  Blanco  White 100   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079G3TQP5/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

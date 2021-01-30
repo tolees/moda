@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers GO Walk 5  Sandalias con Punta Abierta para Hombre  Azul Marino Sintético Negro Trim Nvbk  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKBW84L/?tag=tolees-21'
 descuento: '39.50'
 average: '36.27'

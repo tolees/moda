@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Calvin Klein 2pk Trunk Bóxer  Negro  Black Pr 002   140-152  Talla del fabricante: 10-12   Pack de 2  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GILSNY4/?tag=tolees-21'
 descuento: '26.51'
 average: '17.516666666666666'

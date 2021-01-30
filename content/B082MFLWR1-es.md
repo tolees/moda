@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'BAIGIO Embrague de la Tarde Bling Glitter Purse Triángulo Diseño Monedero de la Boda Bolso para Fiesta de Graduación Señoras Bolso de Embrague de Noche de Diamantes de Imitación  Plateado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MFLWR1/?tag=tolees-21'
 descuento: '22.74'
 average: '16.99'

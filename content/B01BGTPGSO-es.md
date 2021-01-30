@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-STAR RAW Core Super Slim Camisa  Blanco  White 110   XXS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGTPGSO/?tag=tolees-21'
 descuento: '50.04'
 average: '31.444'

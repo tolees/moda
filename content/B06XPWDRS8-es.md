@@ -16,6 +16,7 @@ comparePrice: 7.11 EUR
 prodname: 'Marca Amazon - find. Pantalón Fruncido para Mujer  Azul  Navy   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPWDRS8/?tag=tolees-21'
 descuento: '28.41'
 average: '5.09'

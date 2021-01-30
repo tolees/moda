@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Havaianas Flash Urban Plus  Sandalias de Talón Abierto para Mujer  Negro  Black 0090   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SP3N4JC/?tag=tolees-21'
 descuento: '19.86'
 average: '17.55'

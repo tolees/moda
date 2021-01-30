@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'ELEEMEE Mujer Elegant sin Cordones Zapatos con Lazos Tacón Bajo Comodo Zapatos Oficina Apricot Talla 35 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876ZHYLX/?tag=tolees-21'
 descuento: '50.01'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Esprit 099EE1G091 Chaqueta  Azul  Navy 400   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBFTMMR/?tag=tolees-21'
 descuento: '85.47'
 average: '21.8'

@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'FITFLOP Gogh Moc Slide in Leather  Zapatos de Playa y Piscina para Hombre  Negro  Black 001   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792H7FCB/?tag=tolees-21'
 descuento: '49.13'
 average: '55.96'

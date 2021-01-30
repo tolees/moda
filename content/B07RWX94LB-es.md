@@ -16,6 +16,7 @@ comparePrice: 55.24 EUR
 prodname: 'Pepe Jeans Hatch Vaqueros Ajustados  Azul  Bleach 000   34W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWX94LB/?tag=tolees-21'
 descuento: '17.69'
 average: '45.47'

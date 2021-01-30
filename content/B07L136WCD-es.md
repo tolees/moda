@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour AF Po Big Logo Graphic Sudadera  Hombre  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L136WCD/?tag=tolees-21'
 descuento: '39.72'
 average: '32.83'

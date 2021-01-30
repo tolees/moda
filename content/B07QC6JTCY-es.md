@@ -16,6 +16,7 @@ comparePrice: 50.98 EUR
 prodname: 'BOYOU gafas de sol polarizadas de los hombres gafas de sol de verano al aire libre gafas de sol para los hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC6JTCY/?tag=tolees-21'
 descuento: '56.89'
 average: '21.98'

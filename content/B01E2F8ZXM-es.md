@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 711 Vaqueros Skinny  Negro  Black Sheen 0052   32W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E2F8ZXM/?tag=tolees-21'
 descuento: '18.01'
 average: '81.99'

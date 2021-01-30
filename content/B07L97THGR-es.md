@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Rival Solid Pantalón  Niños  Negro  YMD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L97THGR/?tag=tolees-21'
 descuento: '59.30'
 average: '16.28'

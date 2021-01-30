@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Zapatillas de Niños Niñas Running Zapatos Azul 29'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD4KNWK/?tag=tolees-21'
 descuento: '58.34'
 average: '24.99'

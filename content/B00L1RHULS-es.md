@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Columbia Cascades Explorer Pantalón Largo  Hombre  Gris  Grill   W38/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L1RHULS/?tag=tolees-21'
 descuento: '75.70'
 average: '14.57'

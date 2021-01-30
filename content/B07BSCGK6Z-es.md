@@ -16,6 +16,7 @@ comparePrice: 77.13 EUR
 prodname: 'gracosy Zapatos de Cuero de tacón bajo de Mujer Merceditas Zapatos de salón de Cuero Mocasines de Cuero Hechos a Mano Zapatos Planos Ocasionales cómodos Gancho y moño Mocasines de Trabajo Zapatillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSCGK6Z/?tag=tolees-21'
 descuento: '30.00'
 average: '53.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Herzmutter Pijama de Maternidad - Pijama de Lactancia - Pijama para Embarazadas - Encajes - Azul-Gris-Gris Pardo - 2000  M  Gris Pardo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FRB17R/?tag=tolees-21'
 descuento: '20.00'
 average: '39.99'

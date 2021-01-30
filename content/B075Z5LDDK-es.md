@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Vero Moda Vmhot Nine HW Dnm Pencil Skirt Mix Noos Falda  Azul  Medium Blue Denim Medium Blue Denim   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075Z5LDDK/?tag=tolees-21'
 descuento: '40.02'
 average: '12.656666666666668'

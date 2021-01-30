@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'LIVACASA Bolso para Ordenador Bandolera para Portátil Funda para Portátil Computadora Macbook Air iPad Negocios para Mujeres y Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4PCTBG/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

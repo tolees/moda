@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Performance Polo 2.0 Men s Polo Camiseta Polo Transpirable  cómoda Camisa Polo Masculina de Manga Corta  Hombre  Azul  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHVD2WV/?tag=tolees-21'
 descuento: '35.60'
 average: '35.42'

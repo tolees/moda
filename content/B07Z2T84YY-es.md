@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Charles Wilson Camiseta Polo Clásica Lisa  X-Small  Graphite  1019  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z2T84YY/?tag=tolees-21'
 descuento: '25.06'
 average: '14.95'

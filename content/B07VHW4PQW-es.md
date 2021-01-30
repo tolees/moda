@@ -16,6 +16,7 @@ comparePrice: 21.79 EUR
 prodname: 'Desigual Logo Patch Zurich  Bolso de Patchwork en Logomanía para Mujer  Beige  Beige   9x14.5x28.5 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHW4PQW/?tag=tolees-21'
 descuento: '17.85'
 average: '18.9575'

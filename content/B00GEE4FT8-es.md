@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Negro  Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GEE4FT8/?tag=tolees-21'
 descuento: '45.04'
 average: '19.23'

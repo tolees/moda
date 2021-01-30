@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Maquinilla de afeitar eléctrica para mujer  afeitadora eléctrica recargable húmeda y seca con pantalla LED  eliminación del vello corporal para el área del bikini debajo del brazo  afeitadora personal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9S2R3B/?tag=tolees-21'
 descuento: '25.94'
 average: '19.99'

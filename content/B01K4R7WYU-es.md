@@ -16,6 +16,7 @@ comparePrice: 249.98 EUR
 prodname: 'LEABAGS Havana Bolso Bandolera de Cuero auténtico de búfalo en el Estilo Vintage - TerraRosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K4R7WYU/?tag=tolees-21'
 descuento: '60.40'
 average: '98.98'

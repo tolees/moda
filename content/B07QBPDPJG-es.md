@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'ABIsedrin Collar con Nombre Personalizado Collar para Mujer y Hombre  Collar de Barra con Caja de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QBPDPJG/?tag=tolees-21'
 descuento: '46.17'
 average: '13.99'

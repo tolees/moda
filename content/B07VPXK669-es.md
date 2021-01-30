@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Malone Vaqueros  Washed Black OW  26W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPXK669/?tag=tolees-21'
 descuento: '40.51'
 average: '53.51'

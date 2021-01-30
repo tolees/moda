@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'CIVO Reloj Negro Ultra Fino para Hombre Minimalista Moda Relojes de Pulsera para Hombres Vestir Casual Impermeable Reloj de Cuarzo para Hombre con Banda Negro de Acero Inoxidable  1 Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZD9DHT/?tag=tolees-21'
 descuento: '15.01'
 average: '22.713'

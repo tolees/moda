@@ -16,6 +16,7 @@ comparePrice: 42.26 EUR
 prodname: 'Tommy Hilfiger TH Cool Eng Sleeve Slim Polo Camisa  Blue  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFPF63L/?tag=tolees-21'
 descuento: '31.87'
 average: '28.79'

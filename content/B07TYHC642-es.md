@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Vneck Camiseta  Multicolor  Annalise Stripe Marina 0001   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYHC642/?tag=tolees-21'
 descuento: '30.00'
 average: '17.5'

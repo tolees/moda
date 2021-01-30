@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Vaqueros  Antic Charcoal  35W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N18BHS5/?tag=tolees-21'
 descuento: '66.06'
 average: '40.71'

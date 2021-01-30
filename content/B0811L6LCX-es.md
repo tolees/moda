@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Vicloon Princesa Vestir Accesorios  8 Pcs Amarillo Elsa Princesa Accesorios de disfraces  Regalo Conjunto de Belleza - Corona Anillo Sceptre Collar Pendientes Guantes para Niña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811L6LCX/?tag=tolees-21'
 descuento: '33.56'
 average: '9.11'

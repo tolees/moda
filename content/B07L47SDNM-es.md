@@ -16,6 +16,7 @@ comparePrice: 14.48 EUR
 prodname: 'Marca Amazon - AURIQUE Bal181la18 - leggings deporte mujer Mujer  Azul  Dress Blue/White   42  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L47SDNM/?tag=tolees-21'
 descuento: '29.21'
 average: '10.25'

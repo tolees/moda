@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Levi s The Jacket  Chaqueta Vaquera  Beige  Olive Night Canvas Trucker 0411   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFFD874/?tag=tolees-21'
 descuento: '45.04'
 average: '68.97'

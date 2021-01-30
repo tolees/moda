@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Kipling New S  Bolso Shopper para Mujer  Verde  Seagrass   42x27x13 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRCF5W4/?tag=tolees-21'
 descuento: '61.45'
 average: '28.91'

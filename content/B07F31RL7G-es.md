@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Helly Hansen HH Logo Camiseta Manga Corta  Hombre  Grey mélange  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F31RL7G/?tag=tolees-21'
 descuento: '35.03'
 average: '19.49'

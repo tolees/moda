@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'CooBELL Bolso portátil a Ordenadores portátiles de 15 6 Pulgadas  39 6 cm  de en Nylon Oxford Impermeable  Maletín con múltiples Compartimentos para Ordenadores de Las Marcas Unisex  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792PYNL7/?tag=tolees-21'
 descuento: '28.61'
 average: '21.41'

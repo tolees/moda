@@ -16,6 +16,7 @@ comparePrice: 60.15 EUR
 prodname: 'Levi s 26309  Camisa Para Mujer  Multicolor  Gallberry Merlot 25   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QNX8J5/?tag=tolees-21'
 descuento: '63.21'
 average: '23.64666666666667'

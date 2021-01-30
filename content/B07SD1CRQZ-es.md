@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Flamingueo Bolso Holografico - Bolso Mochila  Bolso Holografico Mujer  Bolsa de Viaje  Bolsa Deporte Mujer Gimnasio  Bolso Holograma  Bolso Transparente  Bolso Mujer  Bolso 29x50x23 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD1CRQZ/?tag=tolees-21'
 descuento: '38.89'
 average: '27.5'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Triple Canyon Camisa de Manga Corta  Hombre  Rojo  Mountain Red Mini Tonal Plaid   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B74DXL/?tag=tolees-21'
 descuento: '81.80'
 average: '11.83'

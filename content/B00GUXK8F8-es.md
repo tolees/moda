@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Columbia Woodburn II  Zapatilla Multideporte para Hombre  Marrón  Cordovan  Garnet Red 231   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GUXK8F8/?tag=tolees-21'
 descuento: '35.53'
 average: '60.49'

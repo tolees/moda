@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Puma Essentials LG T Camiseta de Manga Corta  Hombre  Blanco White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBVQR8X/?tag=tolees-21'
 descuento: '39.90'
 average: '11.89'

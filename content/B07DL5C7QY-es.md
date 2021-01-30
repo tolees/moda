@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'J.Rosée Mujer Colgante Collar Plata de Ley 925 Brillante Circonita con Hermosa Caja Regalos Originales Danza en el mar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DL5C7QY/?tag=tolees-21'
 descuento: '93.00'
 average: '17.209999999999997'

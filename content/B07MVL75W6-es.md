@@ -16,6 +16,7 @@ comparePrice: 9.15 EUR
 prodname: 'Marca Amazon - MERAKI Camiseta de Manga Larga Hombre  Pack de 2  Gris  gris medio .  XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVL75W6/?tag=tolees-21'
 descuento: '59.02'
 average: '3.75'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Rekordsan Pijama Antipañal Geriátrico Classic Mujer En Fresco Algodón Con 1 Cremallera Color Rosa Talla 2-1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1BSX7Q/?tag=tolees-21'
 descuento: '25.85'
 average: '29.66'

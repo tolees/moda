@@ -16,6 +16,7 @@ comparePrice: 53.61 EUR
 prodname: 'Marca Amazon - TRUTH & FABLE Vestido Mujer Estampado  Multicolor  White Blossom Print   48  Label: 3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813DT1PS/?tag=tolees-21'
 descuento: '16.43'
 average: '44.8'

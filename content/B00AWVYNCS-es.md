@@ -16,6 +16,7 @@ comparePrice: 5.18 EUR
 prodname: 'Gildan - Camiseta básica de manga corta Unisex Estilosa Suave Niños Niñas - Verano/Calor  XS/Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AWVYNCS/?tag=tolees-21'
 descuento: '33.40'
 average: '3.45'

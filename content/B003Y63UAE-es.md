@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Nike M Nk Dry Acdmy Top SS Camiseta de Manga Corta  Hombre  Rojo  University Red/White/White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Y63UAE/?tag=tolees-21'
 descuento: '32.55'
 average: '11.5'

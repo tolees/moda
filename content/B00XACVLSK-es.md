@@ -16,6 +16,7 @@ comparePrice: 7.06 EUR
 prodname: 'Scholl  Desodorante Pies Fresh Step anti-transpirante  elimina el olor y mantiene tus zapatos frescos  spray  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XACVLSK/?tag=tolees-21'
 descuento: '29.32'
 average: '4.99'

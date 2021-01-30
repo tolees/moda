@@ -16,6 +16,7 @@ comparePrice: 53.25 EUR
 prodname: 'Rismart Hombre Punta Cerrado Gancho y Bucle Al Aire Libre Excursionismo Cuero Zapatos Sandalias y Chanclas SN1505 Gris 39 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GL2G1L5/?tag=tolees-21'
 descuento: '44.49'
 average: '29.56'

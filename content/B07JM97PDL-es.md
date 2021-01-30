@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Lee Luke Vaqueros  Minimalee Fy  28W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JM97PDL/?tag=tolees-21'
 descuento: '48.01'
 average: '41.57'

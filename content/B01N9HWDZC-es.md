@@ -16,6 +16,7 @@ comparePrice: 10.21 EUR
 prodname: 'find. Jersey de Crochet con Hombros al Aire para Mujer   Blanco  White   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9HWDZC/?tag=tolees-21'
 descuento: '26.54'
 average: '7.5'

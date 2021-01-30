@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'HUGO Elisha02 Camisa  Blanco  Open White 199   43 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFL2PS6/?tag=tolees-21'
 descuento: '74.18'
 average: '18.06'

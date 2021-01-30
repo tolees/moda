@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Souke Sports - Chaqueta de Ciclismo Hombre Chaqueta Ligera de Invierno MTB Reflectante Transpirabilidad Impermeable Chaqueta de Ropa Deportiva al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FY2WX8M/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

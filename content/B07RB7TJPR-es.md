@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Midweight Stretch Camiseta Térmica con Cremallera Media  Mujer  Lila  Dusty Iris   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB7TJPR/?tag=tolees-21'
 descuento: '75.08'
 average: '14.95'

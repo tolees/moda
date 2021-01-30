@@ -16,6 +16,7 @@ comparePrice: 8.68 EUR
 prodname: 'Tommy Hilfiger Tjw Essential V-Neck Logo tee Camiseta  Blanco  White Ya2   32  Talla del Fabricante: XX-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHTXYMT/?tag=tolees-21'
 descuento: '25.81'
 average: '6.44'

@@ -16,6 +16,7 @@ comparePrice: 85 EUR
 prodname: 'Lacoste Sport Sh7613 Sudadera  Verde  Brome Chiné 5at   Small  Talla del Fabricante: 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9YGSB3/?tag=tolees-21'
 descuento: '28.41'
 average: '60.85'

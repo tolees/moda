@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Hilfiger Badge Beach Sandal  Sandalias con Punta Abierta para Hombre  Rojo  Regatta Red Xit   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4N4ZQG/?tag=tolees-21'
 descuento: '45.13'
 average: '20.35'

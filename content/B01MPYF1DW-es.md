@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim Z45   W33/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MPYF1DW/?tag=tolees-21'
 descuento: '40.60'
 average: '51.81666666666667'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver Colors In Stereo - Camiseta para Hombre Screen tee  Hombre  Snow White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825N7CKC/?tag=tolees-21'
 descuento: '20.01'
 average: '12.49'

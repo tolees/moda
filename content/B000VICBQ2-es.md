@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Timberland 6-inch Premium Wp Botas Clasicas Unisex Niñitos  Amarillo  Wheat Nubuck   25.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VICBQ2/?tag=tolees-21'
 descuento: '35.46'
 average: '63.885'

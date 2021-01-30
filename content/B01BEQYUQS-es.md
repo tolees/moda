@@ -16,6 +16,7 @@ comparePrice: 155 EUR
 prodname: 'El Naturalista N758  Botines para Mujer  Marrón  Brown 000   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BEQYUQS/?tag=tolees-21'
 descuento: '43.29'
 average: '87.9'

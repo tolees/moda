@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Inner Limits Chaqueta para Lluvia  Negro/Gris  3XL  Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSQZ4N6/?tag=tolees-21'
 descuento: '54.44'
 average: '48.449999999999996'

@@ -16,6 +16,7 @@ comparePrice: 32.97 EUR
 prodname: 'JACK & JONES Jjitim Jjoriginal Am 814 Vaqueros Slim  Azul  Blue Denim Blue Denim   W31/L32  Talla del Fabricante: 31  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L7CMJCG/?tag=tolees-21'
 descuento: '39.37'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 56.41 EUR
 prodname: 'Sunny Holiday Mocasines Hombres Zapatos Planos con Cordones de Piel Hombre Casual Zapatos de Conducción 38-46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BT4DBQL/?tag=tolees-21'
 descuento: '53.94'
 average: '25.98'

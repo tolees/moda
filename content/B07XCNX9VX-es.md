@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'SATINIOR 3 Pares de Guantes de Medio Dedo Guantes sin Dedos de Invierno Guantes de Punto para Hombres Mujeres  Color Set 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCNX9VX/?tag=tolees-21'
 descuento: '18.20'
 average: '8.99'

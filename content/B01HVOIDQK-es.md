@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Meller - Kubu Glawi Carbon - Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HVOIDQK/?tag=tolees-21'
 descuento: '40.00'
 average: '24.0'

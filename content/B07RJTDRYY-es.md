@@ -16,6 +16,7 @@ comparePrice: 45.47 EUR
 prodname: 'adidas Hoops 2.0 Mid  Zapatos de Baloncesto para Mujer  Blanco  Cloud White/Cloud White/FTWR White Cloud White/Cloud White/FTWR White   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJTDRYY/?tag=tolees-21'
 descuento: '28.57'
 average: '32.48'

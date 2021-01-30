@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'BOSS Boxer Brief 24 Logo  Negro  Black 1   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5LSH43/?tag=tolees-21'
 descuento: '44.65'
 average: '13.81'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones JORBRANDON Sweat Hood Sudadera con Capucha  Gris  Light Grey Melange Fit: Slim JJ   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTRJXZG/?tag=tolees-21'
 descuento: '50.64'
 average: '19.74'

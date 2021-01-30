@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'adidas ESS 3S Chelsea - Pantalón corto para hombre  color negro / blanco  talla XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RDBIR18/?tag=tolees-21'
 descuento: '32.52'
 average: '17.51'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Jack & Jones Mike Original Jos 697 I.k Vaqueros  Black Denim  29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFDH3J6/?tag=tolees-21'
 descuento: '70.18'
 average: '23.85'

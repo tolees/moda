@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Rajah ADV 3313  33W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF51RJV/?tag=tolees-21'
 descuento: '37.74'
 average: '68.19200000000001'

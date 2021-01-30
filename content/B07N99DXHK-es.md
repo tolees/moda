@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Flag Logo Camiseta  Negro  Black 999   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N99DXHK/?tag=tolees-21'
 descuento: '29.77'
 average: '21.0'

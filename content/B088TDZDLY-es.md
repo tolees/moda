@@ -16,6 +16,7 @@ comparePrice: 22.25 EUR
 prodname: 'Gafas de Protección Gafas Protectoras para Depilación HPL/IPL Gafas para Dispositivo de Depilación HPL/IPL Sistema de Depilación Permanente Gafas para Cuerpo Cara y Zona Bikini Verde oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TDZDLY/?tag=tolees-21'
 descuento: '55.10'
 average: '9.99'

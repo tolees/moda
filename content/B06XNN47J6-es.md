@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Joma Torneo II Falda  Mujer  Marino  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XNN47J6/?tag=tolees-21'
 descuento: '18.04'
 average: '17.99'

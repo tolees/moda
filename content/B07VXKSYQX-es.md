@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Tommy Hilfiger TJM Essential Hooded Jacket Chaqueta  Rojo  Deep Crimson Xnl   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXKSYQX/?tag=tolees-21'
 descuento: '57.32'
 average: '54.26'

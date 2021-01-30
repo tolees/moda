@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Women s Secret Cozy Animals Ca Unicorn PJ Conjuntos de Pijama  Amarillo  Gama Amarillos 5   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTT1RPS/?tag=tolees-21'
 descuento: '51.16'
 average: '17.09'

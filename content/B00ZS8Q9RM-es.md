@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'DC Shoes ADYS700071  Zapatilla Hombre  Negro  Black/White Bkw   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZS8Q9RM/?tag=tolees-21'
 descuento: '43.54'
 average: '48.626666666666665'

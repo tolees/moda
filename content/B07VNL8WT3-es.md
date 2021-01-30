@@ -16,6 +16,7 @@ comparePrice: 8.69 EUR
 prodname: 'Only Onlcarol S/s Glitter V-Neck Top Jrs Camiseta sin Mangas  Negro  Black Black   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNL8WT3/?tag=tolees-21'
 descuento: '15.42'
 average: '8.02'

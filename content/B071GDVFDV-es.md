@@ -16,6 +16,7 @@ comparePrice: 18.23 EUR
 prodname: 'Amazon Essentials 6-Pack V-Neck Undershirts Camisa  Negro  Black   XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GDVFDV/?tag=tolees-21'
 descuento: '17.50'
 average: '15.04'

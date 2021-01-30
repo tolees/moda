@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Tous Kaos Shock - Organizador de Bolso para Mujer  Arena Topo  30 x 24 x 14 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDN3C4H/?tag=tolees-21'
 descuento: '30.20'
 average: '15.6'

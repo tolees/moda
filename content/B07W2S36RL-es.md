@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger Small T Camiseta de Cuello Redondo y Logo Engomado  Beige  Stone   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W2S36RL/?tag=tolees-21'
 descuento: '40.03'
 average: '20.99'

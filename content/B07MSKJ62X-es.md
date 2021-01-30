@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Arla Free  Zapatos de Cordones Derby para Hombre  Azul  Navy Navy   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSKJ62X/?tag=tolees-21'
 descuento: '40.09'
 average: '43.515'

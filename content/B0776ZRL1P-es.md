@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger Original Rib Camisa  Blanco  Classic White 100   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776ZRL1P/?tag=tolees-21'
 descuento: '52.00'
 average: '22.087142857142858'

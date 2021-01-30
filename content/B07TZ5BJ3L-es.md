@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Trendy Tapestry TT Indiana White PJ Conjuntos de Pijama  Marfil  Marfil 97   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ5BJ3L/?tag=tolees-21'
 descuento: '42.11'
 average: '17.36'

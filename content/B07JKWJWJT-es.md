@@ -16,6 +16,7 @@ comparePrice: 27.73 EUR
 prodname: 'Lee Emblem tee Camiseta  Beige  Dust Beige LP   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKWJWJT/?tag=tolees-21'
 descuento: '62.32'
 average: '10.45'

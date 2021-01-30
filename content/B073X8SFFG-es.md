@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Timberland Larchmont Chelsea Waterproof  Botas Hombre  Marrón  Dark Brown Full Grain   47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X8SFFG/?tag=tolees-21'
 descuento: '59.48'
 average: '60.78'

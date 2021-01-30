@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Mk1 Warmup FZ Chaqueta  Hombre  Gris  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWNDTRX/?tag=tolees-21'
 descuento: '65.25'
 average: '20.85'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Becken Lace  Zapatos de Cordones Brogue para Hombre  Piel Negra  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ2HW3V/?tag=tolees-21'
 descuento: '20.00'
 average: '47.48'

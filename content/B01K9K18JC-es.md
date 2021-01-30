@@ -16,6 +16,7 @@ comparePrice: 60.4 EUR
 prodname: 'Clarks Tealite Grace  Sandalias con Tira Vertical para Mujer  Azul  Navy   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9K18JC/?tag=tolees-21'
 descuento: '30.99'
 average: '41.68'

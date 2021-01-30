@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'AtailorBird Funda Protectora Portátil 13"-13.3" Fundas Protectora Portátil Resistente e Impermeable con Interior de Terciopelo Suave y Bolsillo Lateral Multifuncional Funda Bolso para Laptop-Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LHMTB9/?tag=tolees-21'
 descuento: '17.94'
 average: '12.1075'

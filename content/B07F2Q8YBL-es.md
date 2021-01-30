@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Helly Hansen HP Racing Prueba De Viento Y Respirable Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Hombre  Olympian Blue  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2Q8YBL/?tag=tolees-21'
 descuento: '44.33'
 average: '83.5'

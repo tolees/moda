@@ -16,6 +16,7 @@ comparePrice: 16.84 EUR
 prodname: 'Lenny Sky EG.jap.psh Pijama  Gris  Gris Chine Gris Chine   10 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4K24LV/?tag=tolees-21'
 descuento: '18.88'
 average: '13.690000000000001'

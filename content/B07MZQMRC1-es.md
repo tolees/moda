@@ -16,6 +16,7 @@ comparePrice: 11.67 EUR
 prodname: 'Pepe Jeans Miracle Camiseta   Dark Denim 559   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQMRC1/?tag=tolees-21'
 descuento: '20.99'
 average: '10.17'

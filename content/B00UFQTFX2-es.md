@@ -16,6 +16,7 @@ comparePrice: 91.62 EUR
 prodname: 'Uvex Sportstyle 802 Small V Gafas Deportivas  Unisex Adulto  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UFQTFX2/?tag=tolees-21'
 descuento: '30.14'
 average: '64.01'

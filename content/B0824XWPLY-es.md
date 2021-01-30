@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'WeciBor Calcetines Hasta La Pantorrilla Para Hombre Estampados Hombres Ocasionales Calcetines Divertidos Impresos de Algodón de Pintura Famosa de Arte Calcetines de Colores de moda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824XWPLY/?tag=tolees-21'
 descuento: '21.79'
 average: '17.98'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Columbia Saturday Trail Falda Pantalón con Protección Solar  Mujer  Azul  Azul India   4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GIQI3BW/?tag=tolees-21'
 descuento: '39.05'
 average: '33.49'

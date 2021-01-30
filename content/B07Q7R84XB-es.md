@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Rieker Herbst/Winter  Botines para Mujer  Marrón  Nuss/Antik/Orange/Multi/Kastanie/23 23   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7R84XB/?tag=tolees-21'
 descuento: '74.52'
 average: '17.82'

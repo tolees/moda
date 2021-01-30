@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Camper Oruga Sandal  Sandalias de Talón Abierto para Mujer  Rosa  Black 1   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH81X4W/?tag=tolees-21'
 descuento: '51.05'
 average: '56.625'

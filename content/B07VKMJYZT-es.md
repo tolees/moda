@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Hackett Amr Tape LS Polo Camisa Manga Larga  Azul  595navy 595   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKMJYZT/?tag=tolees-21'
 descuento: '69.93'
 average: '33.08'

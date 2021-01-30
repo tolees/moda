@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Springfield 3Ip Offline-c/08 Camiseta  Dorado  Gold/Mustard 8   S  Tamaño del Fabricante: S  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLXNYG3/?tag=tolees-21'
 descuento: '62.54'
 average: '5.99'

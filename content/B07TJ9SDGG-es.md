@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Camiseta  Multicolor  Authentic Colorblock tee M.Heather Grey 0001   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ9SDGG/?tag=tolees-21'
 descuento: '48.60'
 average: '18.09'

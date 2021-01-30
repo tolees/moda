@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri BIBU H Sudadera con Capucha  Azul  French Blue Bb7   XXXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFRZ3Z/?tag=tolees-21'
 descuento: '60.00'
 average: '39.6'

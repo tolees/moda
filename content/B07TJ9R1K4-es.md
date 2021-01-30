@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s Sportswear Logo Graphic Camiseta  Blanco  Ssnl Sw Gradient White 0029   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ9R1K4/?tag=tolees-21'
 descuento: '43.37'
 average: '18.996666666666666'

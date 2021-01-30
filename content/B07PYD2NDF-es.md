@@ -16,6 +16,7 @@ comparePrice: 23.09 EUR
 prodname: 'New Look Bermuda Button Falda  Azul  Navy 41   42  Talla del Fabricante: 14  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYD2NDF/?tag=tolees-21'
 descuento: '69.86'
 average: '6.96'

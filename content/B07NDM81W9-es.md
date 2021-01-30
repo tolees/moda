@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Vaqueros  Pitch Black B964-A810  34W / 40L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDM81W9/?tag=tolees-21'
 descuento: '67.93'
 average: '32.05'

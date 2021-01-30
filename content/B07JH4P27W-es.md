@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Belle Pg580920 Sudadera   Grey Marl 933   4-5 años  Talla del Fabricante: 104/4 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH4P27W/?tag=tolees-21'
 descuento: '40.09'
 average: '32.13333333333333'

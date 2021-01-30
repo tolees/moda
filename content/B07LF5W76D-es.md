@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'Levi s Slim 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Pine Grove/Warm Cabernet 0004   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF5W76D/?tag=tolees-21'
 descuento: '67.40'
 average: '12.215'

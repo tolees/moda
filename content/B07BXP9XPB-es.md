@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'KUULEE Hombre Camisa Manga Larga Slim Fit Camisa Vaquera/Camisa a Cuadros Rejilla de Diamante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXP9XPB/?tag=tolees-21'
 descuento: '82.52'
 average: '6.99'

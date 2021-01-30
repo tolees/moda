@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Raid Short Sleeve tee Camiseta  Niños  Negro  Black/Black 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZCD1ML/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

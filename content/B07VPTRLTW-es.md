@@ -16,6 +16,7 @@ comparePrice: 8.01 EUR
 prodname: 'Izod Solid Logo Arch tee Camiseta  Blanco  Cloud Dancer 104   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPTRLTW/?tag=tolees-21'
 descuento: '28.46'
 average: '5.73'

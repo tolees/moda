@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Pepe Jeans Catrina Blusa   Multi 0aa   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPX4WK/?tag=tolees-21'
 descuento: '62.55'
 average: '21.07'

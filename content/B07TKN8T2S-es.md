@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Lexi Carmen  Sandalias de Talón Abierto para Mujer  Blanco  White Leather White Leather   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKN8T2S/?tag=tolees-21'
 descuento: '16.61'
 average: '37.475'

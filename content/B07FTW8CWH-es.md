@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Daren Zip Fly Vaqueros Rectos  Azul  Broken Blue Sx   42W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTW8CWH/?tag=tolees-21'
 descuento: '41.48'
 average: '52.64'

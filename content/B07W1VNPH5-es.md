@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Tommy Hilfiger Windbreaker J Chaqueta Cortavientos con Capucha y Cierre de Cremallera  Rojo  Deep Crimson Xnl   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1VNPH5/?tag=tolees-21'
 descuento: '65.85'
 average: '39.27'

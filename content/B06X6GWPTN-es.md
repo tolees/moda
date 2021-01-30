@@ -16,6 +16,7 @@ comparePrice: 9.93 EUR
 prodname: 'Esprit 057ee1f039 Blusa  Multicolor  Pastel Blue   38 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X6GWPTN/?tag=tolees-21'
 descuento: '28.70'
 average: '7.08'

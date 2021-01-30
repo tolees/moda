@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Calvin Klein Instit Back Pop Logo Slim tee Camiseta  Gris  Mid Grey Heather P2f   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7GKLV4/?tag=tolees-21'
 descuento: '37.97'
 average: '24.19'

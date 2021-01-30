@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 512 Slim Taper Vaqueros Tapered  Negro  Nightshade X 0013   W36/L30  Talla del Fabricante: 36 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KFOJ55Q/?tag=tolees-21'
 descuento: '27.01'
 average: '72.99'

@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'find. Chaqueta Efecto Borreguito para Mujer  Marrón  Braun   40  Talla del Fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QNCBBN/?tag=tolees-21'
 descuento: '70.00'
 average: '21'

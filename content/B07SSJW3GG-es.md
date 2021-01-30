@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox U EOLO B  Zapatillas para Hombre  Gris  White/Lt Grey C1236   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSJW3GG/?tag=tolees-21'
 descuento: '63.04'
 average: '36.535'

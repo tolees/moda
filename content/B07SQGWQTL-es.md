@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox Vega W  Zapatillas para Mujer  Blanco  Off White and White C1209   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGWQTL/?tag=tolees-21'
 descuento: '82.99'
 average: '19.25'

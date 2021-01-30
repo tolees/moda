@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Lee Luke Vaqueros Slim  Azul  Dark Stonewash 46   W27/L32  Talla del Fabricante: 27/32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS52LPT/?tag=tolees-21'
 descuento: '57.66'
 average: '35.99'

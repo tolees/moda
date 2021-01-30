@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Napapijri Berber C Sudadera  Verde  Green Forest 2 GE3   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVBY81F/?tag=tolees-21'
 descuento: '60.00'
 average: '35.6'

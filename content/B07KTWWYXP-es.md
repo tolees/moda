@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Harden Logo tee Camiseta de Manga Corta  Hombre  White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTWWYXP/?tag=tolees-21'
 descuento: '49.38'
 average: '12.551428571428572'

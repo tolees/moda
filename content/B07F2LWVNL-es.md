@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Plus Size Pl tee Camiseta  Gris  Plus Sportswear Logo Smokestack Htr 0027   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2LWVNL/?tag=tolees-21'
 descuento: '27.88'
 average: '14.290000000000001'

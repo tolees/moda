@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'HBselect 2 PCS Bolsa Pañales Impermeable Organizador Pañales Bebe Bolsas Pañales Sucios Bolso Para Carro Bebe Guarda Pañales Bolso Bolsa Para Organizar Pañales Toallas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGMNG42/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

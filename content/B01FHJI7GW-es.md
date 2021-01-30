@@ -16,6 +16,7 @@ comparePrice: 24.49 EUR
 prodname: 'Under Armour UA Woven Graphic Short Pantalón Corto  Hombre  Rojo  600   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FHJI7GW/?tag=tolees-21'
 descuento: '18.21'
 average: '20.5'

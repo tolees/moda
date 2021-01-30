@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK JONES Jorexplore Parka Jacket STS Hombre  Negro  Black Detail: Solid   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4W8GZL/?tag=tolees-21'
 descuento: '50.01'
 average: '39.99'

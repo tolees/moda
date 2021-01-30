@@ -16,6 +16,7 @@ comparePrice: 21.66 EUR
 prodname: 'uhlsport Match Chaqueta De Entrenamiento Hombre  Rojo/Blanco  XXXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5X0MWE/?tag=tolees-21'
 descuento: '33.10'
 average: '14.49'

@@ -16,6 +16,7 @@ comparePrice: 145 EUR
 prodname: 'Geox U Terence C  Botines para Hombre  Marrón  Cognac C6001   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFYWMWL/?tag=tolees-21'
 descuento: '55.03'
 average: '65.2'

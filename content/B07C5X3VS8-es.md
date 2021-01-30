@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Verde  Olive Night   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5X3VS8/?tag=tolees-21'
 descuento: '40.01'
 average: '17.31'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Calvin Klein 3p Low Rise Trunk Bóxer  Negro  B/Tolerance/Wet Wther/Blue Logo Jkv   S  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGVRKHG/?tag=tolees-21'
 descuento: '24.01'
 average: '13.046'

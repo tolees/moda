@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'IEFIEL Disfraz de Princesa para Niñas Bebes Vestido Corto Elegante Vestido de Pincesa Dorado Traje de Fiesta Ceremonia Bebé Niña  12 Meses -5 Años  Violeta 18-24 meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZD7G28/?tag=tolees-21'
 descuento: '78.40'
 average: '7.99'

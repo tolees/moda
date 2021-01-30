@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'Trangoworld Argualas Chaqueta  Hombre  Azul Profundo  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKNDMCX/?tag=tolees-21'
 descuento: '50.23'
 average: '116.24000000000001'

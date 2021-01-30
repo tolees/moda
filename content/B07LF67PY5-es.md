@@ -16,6 +16,7 @@ comparePrice: 12.74 EUR
 prodname: 'Levi s Housemark Graphic tee Camiseta  Azul  Hm Outline Sodalite Blue 0243   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF67PY5/?tag=tolees-21'
 descuento: '17.03'
 average: '10.57'

@@ -16,6 +16,7 @@ comparePrice: 134.9 EUR
 prodname: 'Tommy Hilfiger Corporate Elastic Chelsea Boot  Botines para Mujer  Midnight 403  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6X6ZKB/?tag=tolees-21'
 descuento: '53.77'
 average: '62.36'

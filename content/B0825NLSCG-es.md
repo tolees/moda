@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Quiksilver Drift Away - Camiseta para Hombre Screen tee  Hombre  Stone Wash  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825NLSCG/?tag=tolees-21'
 descuento: '34.82'
 average: '16.94'

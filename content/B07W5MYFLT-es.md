@@ -16,6 +16,7 @@ comparePrice: 93.09 EUR
 prodname: 'Tommy Hilfiger Basic Embroidered Hoody Sudadera  Azul  Desert Sky   Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5MYFLT/?tag=tolees-21'
 descuento: '53.50'
 average: '43.29'

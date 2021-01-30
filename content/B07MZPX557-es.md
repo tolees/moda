@@ -16,6 +16,7 @@ comparePrice: 9.51 EUR
 prodname: 'Pepe Jeans Makeba Camiseta   Black 999   17-18 años de Edad  Talla del Fabricante: 17/18 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPX557/?tag=tolees-21'
 descuento: '19.87'
 average: '7.62'

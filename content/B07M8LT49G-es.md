@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Arizona Vaqueros Straight  Azul  Dark Fuzz 77j   31 W/ 32 L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8LT49G/?tag=tolees-21'
 descuento: '73.83'
 average: '23.54'

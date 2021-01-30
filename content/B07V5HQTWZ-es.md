@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Tom Tailor Denim Print Camiseta  Azul  Slate Blue/Green 12335   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5HQTWZ/?tag=tolees-21'
 descuento: '72.59'
 average: '3.56'

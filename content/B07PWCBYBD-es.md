@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Calvin Klein Jeans Ckj 026 Vaqueros Slim  Azul  Stay Black 911   W30/L32  Talla del Fabricante: 3230  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWCBYBD/?tag=tolees-21'
 descuento: '64.07'
 average: '35.57'

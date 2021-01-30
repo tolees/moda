@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Tommy Hilfiger Tjw Essential Logo Sweatshirt Sudadera  Blanco  White Ybr   32  Talla del Fabricante: XX-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNNF4WC/?tag=tolees-21'
 descuento: '68.92'
 average: '23.31'

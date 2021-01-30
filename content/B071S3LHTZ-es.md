@@ -16,6 +16,7 @@ comparePrice: 18.2 EUR
 prodname: 'FIND Vestido Ajustable para Mujer   Negro  Schwarz   36  Talla del Fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071S3LHTZ/?tag=tolees-21'
 descuento: '41.87'
 average: '10.58'

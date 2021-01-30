@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Under Armour UA I Will 2.0 SS Camiseta  Hombre  Blanco  White/Black 100   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR1XLHX/?tag=tolees-21'
 descuento: '57.02'
 average: '18.575'

@@ -16,6 +16,7 @@ comparePrice: 34.38 EUR
 prodname: 'CMP Poncho 39X6617 Chaqueta  Hombre  Gecko  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKSWP43/?tag=tolees-21'
 descuento: '68.59'
 average: '10.8'

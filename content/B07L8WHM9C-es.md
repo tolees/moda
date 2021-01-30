@@ -16,6 +16,7 @@ comparePrice: 11.46 EUR
 prodname: 'REPLAY W2266a.000.52166 Blusa  Multicolor  Blue/Red/Azule 10   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8WHM9C/?tag=tolees-21'
 descuento: '23.82'
 average: '8.73'

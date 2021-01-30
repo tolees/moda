@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Joma 100801.109 Sudadera  Hombre  Negro/Amarillo  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2Z5TJX/?tag=tolees-21'
 descuento: '41.69'
 average: '11.88'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Pike Lake Chaqueta con Capucha  Hombre  Morado  Negro  Dark Purple  Shark   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087VK7M4F/?tag=tolees-21'
 descuento: '51.67'
 average: '72.49'

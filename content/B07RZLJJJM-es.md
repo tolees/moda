@@ -16,6 +16,7 @@ comparePrice: 78.19 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño clásico y cómodos de Usar  Azul  Key West Sky Tnl 2991   32W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLJJJM/?tag=tolees-21'
 descuento: '44.51'
 average: '43.39'

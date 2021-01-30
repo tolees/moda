@@ -16,6 +16,7 @@ comparePrice: 22.58 EUR
 prodname: 'Suhctup Funda Compatible con Galaxy J6 Plus/J6 Prime Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087P9XCZP/?tag=tolees-21'
 descuento: '51.37'
 average: '10.98'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler High Rise Skinny Vaqueros  Azul  Blue Black 51l   30W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8W17XJ/?tag=tolees-21'
 descuento: '74.20'
 average: '20.63'

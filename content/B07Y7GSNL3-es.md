@@ -16,6 +16,7 @@ comparePrice: 109 EUR
 prodname: 'GANT Jersey Fantasia Redondo - Color - Azul  Talla - 2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y7GSNL3/?tag=tolees-21'
 descuento: '30.00'
 average: '76.3'

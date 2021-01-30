@@ -16,6 +16,7 @@ comparePrice: 42.8 EUR
 prodname: 'Lee Brooklyn Straight Hombre Vaqueros  Gris  Moto Grey HG   27W / 31L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5DHNWN/?tag=tolees-21'
 descuento: '68.90'
 average: '13.31'

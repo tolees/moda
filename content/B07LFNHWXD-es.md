@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 501 Crop Vaqueros Straight  Azul  Market Vintage 0080   28W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFNHWXD/?tag=tolees-21'
 descuento: '41.31'
 average: '67.49'

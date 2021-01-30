@@ -16,6 +16,7 @@ comparePrice: 16.68 EUR
 prodname: 'Sandalias para Mujer Verano 2019 Plataforma Cuña LuckyGirls Zapatos Fiesta Tacón Alto Vestir Elegantes Boda Playa Casual Peep Toe Lentejuelas Tallas Grandes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRRYBWS/?tag=tolees-21'
 descuento: '59.89'
 average: '6.69'

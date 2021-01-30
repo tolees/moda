@@ -16,6 +16,7 @@ comparePrice: 26.16 EUR
 prodname: 'Tom Tailor Ray Camisa  Rojo  Black Red Minimal De 19536   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZSPQJ2/?tag=tolees-21'
 descuento: '31.23'
 average: '17.99'

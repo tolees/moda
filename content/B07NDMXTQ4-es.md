@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Esprit 049ee2k002 Camiseta  Azul  Blue 430   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMXTQ4/?tag=tolees-21'
 descuento: '71.80'
 average: '7.33'

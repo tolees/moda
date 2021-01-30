@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s LS Original Hm tee Camiseta  Negro  Black 0009   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYH6D15/?tag=tolees-21'
 descuento: '46.20'
 average: '20.116'

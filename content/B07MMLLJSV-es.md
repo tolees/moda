@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Rainforest Winter 1 Chaqueta  Orange  Orangeade A21   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLLJSV/?tag=tolees-21'
 descuento: '70.78'
 average: '58.15'

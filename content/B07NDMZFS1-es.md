@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Graphic 22 Boyfriend Slit Round Neck Sudadera  Naranja  Dusty Royal Orange A489   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMZFS1/?tag=tolees-21'
 descuento: '71.33'
 average: '22.92'

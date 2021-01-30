@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger RN tee SS Camiseta  Blanco  White 100   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788BMRYS/?tag=tolees-21'
 descuento: '34.86'
 average: '25.99'

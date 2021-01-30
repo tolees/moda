@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pepe Jeans Hatch Vaqueros  Medium Used Wiser Wash Denim  34W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCB8SFF/?tag=tolees-21'
 descuento: '42.43'
 average: '54.32333333333334'

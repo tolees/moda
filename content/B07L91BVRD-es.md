@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'REPLAY Vivy Vaqueros Slim  Gris  Dark Grey 97   26W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L91BVRD/?tag=tolees-21'
 descuento: '85.75'
 average: '16.96'

@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Levi s Graphic Set-in Neck  Camiseta para Hombre  Negro  Levis Logo Black 0427   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYLR6ZJ/?tag=tolees-21'
 descuento: '46.80'
 average: '13.85'

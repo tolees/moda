@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'SELECTED HOMME Slhslim-mylologan Stripe BLZ B Noos Chaqueta de Traje  Azul  Navy Blazer Navy Blazer   90 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1FLCWS/?tag=tolees-21'
 descuento: '61.48'
 average: '50.07'

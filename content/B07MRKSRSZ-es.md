@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'United Colors of Benetton Layette BB G2 Camiseta de Manga Larga  Azul  BLU Scuro 13c   56/62  Talla del Fabricante: 56  para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MRKSRSZ/?tag=tolees-21'
 descuento: '79.15'
 average: '5.41'

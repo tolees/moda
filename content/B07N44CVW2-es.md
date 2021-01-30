@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Skirt Andrea Falda  Rojo  Rojo Clavel 3036   46 Talla del Fabricante: 44  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N44CVW2/?tag=tolees-21'
 descuento: '76.07'
 average: '19.13'

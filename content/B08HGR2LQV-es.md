@@ -16,6 +16,7 @@ comparePrice: 16.72 EUR
 prodname: 'catmoew Mujer Sudadera Tops Chaqueta Suéter Jersey Mujer Otoño Invierno Talla Grande Hoodie Sudadera Suelto Sólido Manga Larga con Capucha Tejido de Punto Oversize S-16XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HGR2LQV/?tag=tolees-21'
 descuento: '22.55'
 average: '12.95'

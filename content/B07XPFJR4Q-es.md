@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'BAIGIO Bolsa de Noche Mujer Bolso de Mano Bolso Clutch de Embrague Monedero para Mujeres y Señoras para Boda Partido Fiesta Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XPFJR4Q/?tag=tolees-21'
 descuento: '42.51'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Relaxed Graphic Crewneck Sudadera  Blanco  90 s Serif Logo Crew White 0000   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYMPR1R/?tag=tolees-21'
 descuento: '62.15'
 average: '25.416666666666668'

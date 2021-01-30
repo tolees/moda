@@ -16,6 +16,7 @@ comparePrice: 10.24 EUR
 prodname: 'Amazon Essentials - Chaqueta deportiva con media cremallera para niño  Azul oscuro  US 3T  EU 98–104 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQRH61W/?tag=tolees-21'
 descuento: '50.98'
 average: '5.02'

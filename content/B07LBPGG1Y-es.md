@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'Helly Hansen Welsey II Aislado Impermeable Gabardina Chaqueta de Invierno  Mujer  Beluga  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBPGG1Y/?tag=tolees-21'
 descuento: '30.46'
 average: '152.98'

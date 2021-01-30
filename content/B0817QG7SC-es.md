@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Ohwhoa Guantes Invierno con Mascara por Hombre y Mujer  Ciclismo Guantes Táctiles Moto Impermeables a Prueba de Viento para Aire Libre  Correr  Camping  Senderismo  Escalada  Combate  Esquiar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0817QG7SC/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Chllyuang Sneakers Hombre Zapatos Deportivos de Malla Tejida con Mosca Zapatos de Senderismo Transpirables de Moda Zapatillas de Deporte Casuales Hombres Zapatillas de Deporte cómodas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0871GDZXR/?tag=tolees-21'
 descuento: '52.01'
 average: '23.99'

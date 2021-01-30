@@ -16,6 +16,7 @@ comparePrice: 27.5 EUR
 prodname: 'Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Verde  Military/Dk Red Ca37m   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWT6L5L/?tag=tolees-21'
 descuento: '20.00'
 average: '22.0'

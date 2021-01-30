@@ -16,6 +16,7 @@ comparePrice: 16 EUR
 prodname: 'AURIQUE BAL181LA16  Sujetador Deportivo para Mujer  Multicolor  Harbor Blue   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779WGK8W/?tag=tolees-21'
 descuento: '70.00'
 average: '4.8'

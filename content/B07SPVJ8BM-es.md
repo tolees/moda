@@ -16,6 +16,7 @@ comparePrice: 78.88 EUR
 prodname: 'SINOES 270 Zapatillas Deporte Hombres Running Zapatos Hombre Deportivos Casuales Zapatillas Running Hombre Auriculares Correr en Asfalto Calzado Deportivo Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPVJ8BM/?tag=tolees-21'
 descuento: '69.73'
 average: '23.88'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson LO  Zapatilla Baja Unisex-Adulto  White Black White  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCZW915/?tag=tolees-21'
 descuento: '45.08'
 average: '48.18'

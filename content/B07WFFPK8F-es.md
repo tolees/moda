@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'VECDY Ropa Mujer  Blusas Elegante 2019 Solapa para Mujer Chaqueta De Felpa Suelta De Manga Larga con Bolsillo Cremallera De Piel Sintética De Piel De Oveja Borrosa Abrigo De Lana Abrigo Rosa S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFFPK8F/?tag=tolees-21'
 descuento: '49.83'
 average: '1.5'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans West Sir Camiseta  Naranja  Sundown 166   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYZKLLZ/?tag=tolees-21'
 descuento: '39.83'
 average: '16.494999999999997'

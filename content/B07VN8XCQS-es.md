@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Pepe Jeans Eggo Camiseta  Azul  Steel Blue 563   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VN8XCQS/?tag=tolees-21'
 descuento: '28.59'
 average: '14.99'

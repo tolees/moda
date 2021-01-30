@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia CALDORADO III  Zapatilla de Trail Running para Hombre  Azul  Riptide/Honey Yellow 463   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZV6RZB/?tag=tolees-21'
 descuento: '55.30'
 average: '58.1'

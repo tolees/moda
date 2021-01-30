@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 3301 High Waist Straight 90 s Ankle Vaqueros  Azul  Antic Indigo B767-A939   W25/L32  Talla del Fabricante: 25W / 32L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH2WPPL/?tag=tolees-21'
 descuento: '89.72'
 average: '12.33'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Negro  Large Batwing Black 201   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K5FNLM/?tag=tolees-21'
 descuento: '44.05'
 average: '12.79'

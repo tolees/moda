@@ -16,6 +16,7 @@ comparePrice: 9.59 EUR
 prodname: 'Billetera Cuero Funda para Huawei P10 Lite Careynoce Animal Flor Atrapasueños Colorido Patron PU Cuero Funda para Huawei P10 Lite Huawei P10 Lite  5.2"  Protector Cubierta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0746BVS9T/?tag=tolees-21'
 descuento: '20.86'
 average: '7.59'

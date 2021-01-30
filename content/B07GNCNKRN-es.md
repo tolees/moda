@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'KidSwim - Gafas de natación para niños de 4 a 12 años  sin fugas  resistentes al agua  lentes antivaho y correa de silicona suave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNCNKRN/?tag=tolees-21'
 descuento: '15.02'
 average: '7.59'

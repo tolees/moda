@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Core 18 Sweat Top Sudadera  Hombre  Yellow/Black  3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9MQ2NF/?tag=tolees-21'
 descuento: '38.97'
 average: '24.38'

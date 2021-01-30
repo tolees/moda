@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Under Armour UA Tag tee Camiseta de Manga Corta  Hombre  Blanco  100   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LGXZW5/?tag=tolees-21'
 descuento: '59.69'
 average: '13.290000000000001'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Josef Seibel Schuhfabrik GmbH Anvers 08  Zapatos de Cordones Derby para Hombre  Negro  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004MMQDYO/?tag=tolees-21'
 descuento: '49.06'
 average: '40.7'

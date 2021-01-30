@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Helly Hansen Crew Jacket Chaqueta  Hombre  Cherry Tomato  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2S3VKY/?tag=tolees-21'
 descuento: '67.84'
 average: '51.02666666666667'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Mercedes-Benz Sonnenbrille M7005 Gafas de sol  Negro  Schwarz   55.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E1WJF9E/?tag=tolees-21'
 descuento: '78.78'
 average: '33.245'

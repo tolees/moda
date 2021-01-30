@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Scalpers Camisa Slim FIT Pinzas - Skyblue/White Stripes / 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z58H1WV/?tag=tolees-21'
 descuento: '33.39'
 average: '39.9'

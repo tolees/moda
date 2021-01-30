@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Helly Hansen Dubliner Jacket Chaqueta Deportiva  Hombre  Rojo  Bandera   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZHVGNH/?tag=tolees-21'
 descuento: '30.88'
 average: '82.94'

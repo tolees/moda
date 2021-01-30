@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Cali WN S  Zapatos Deportivos para Mujer  Blanco White/Burnt Russet 14  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9RRSMH/?tag=tolees-21'
 descuento: '71.06'
 average: '26.740000000000002'

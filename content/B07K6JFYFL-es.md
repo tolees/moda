@@ -16,6 +16,7 @@ comparePrice: 23.48 EUR
 prodname: 'Marca Amazon - MERAKI Culottes Mujer  Verde  Khaki   42  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6JFYFL/?tag=tolees-21'
 descuento: '58.60'
 average: '9.72'

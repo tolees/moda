@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour UA Qualifier Speedpocket 2-N-1 Short Pantalón Corto  Hombre  Negro  Black/Black/Reflective 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZFFPZJ/?tag=tolees-21'
 descuento: '44.72'
 average: '33.17'

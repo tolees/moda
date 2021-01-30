@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Freesail Clog  Zuecos para Mujer  Azul  Navy   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LUP4ZPK/?tag=tolees-21'
 descuento: '63.96'
 average: '12.61'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Classic Bikini Braguitas  Rojo  Tango Red 611   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPNNGJC/?tag=tolees-21'
 descuento: '60.00'
 average: '15.96'

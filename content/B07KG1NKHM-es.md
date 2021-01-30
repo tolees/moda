@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'PUMA Monarch IT Jr  Zapatos de Futsal Unisex Niños  Black White  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1NKHM/?tag=tolees-21'
 descuento: '17.02'
 average: '29'

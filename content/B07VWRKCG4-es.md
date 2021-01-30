@@ -16,6 +16,7 @@ comparePrice: 12.47 EUR
 prodname: 'AIMTOP 2 Pack Leggins Termicos Mujer  Leggins Mujer Invierno Terciopelo Elástico Leggings Mujer Invierno  Mallas Termicas Mujer Pantalon Termico  Leggings Negros + Púrpura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWRKCG4/?tag=tolees-21'
 descuento: '25.02'
 average: '10.91'

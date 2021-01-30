@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'Havaianas Slim Crystal Glamour SW  Chanclas para Mujer  Negro  Black   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00428LUEG/?tag=tolees-21'
 descuento: '29.79'
 average: '23.8'

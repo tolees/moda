@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry OL Vintage Emb Crew Camiseta  Azul  Blue Grindle Sve   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLLFDMB/?tag=tolees-21'
 descuento: '52.02'
 average: '12.823333333333334'

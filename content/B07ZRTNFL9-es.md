@@ -16,6 +16,7 @@ comparePrice: 12.21 EUR
 prodname: 'Marca Amazon - AURIQUE Mallas de Deporte Cortas sin Costuras Mujer  Rosa  rosa de espino rosa   44  Label:XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRTNFL9/?tag=tolees-21'
 descuento: '29.57'
 average: '8.6'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Helly Hansen HH LIFA T-Shirt Camiseta Técnica De Protección Solar Manga Corta  Hombre  White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKCVRXC/?tag=tolees-21'
 descuento: '47.17'
 average: '18.49'

@@ -16,6 +16,7 @@ comparePrice: 28.88 EUR
 prodname: 'adidas Real Madrid CF TRG Sudadera  Hombre  Blanco/Morado  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I1CTQMG/?tag=tolees-21'
 descuento: '48.06'
 average: '15.0'

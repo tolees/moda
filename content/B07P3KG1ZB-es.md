@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Vintage Logo Racer tee Camiseta  Verde  Green 10e   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3KG1ZB/?tag=tolees-21'
 descuento: '47.16'
 average: '18.49'

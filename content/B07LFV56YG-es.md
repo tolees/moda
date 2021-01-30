@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Geox U HALLSON A  Botas Chukka para Hombre  Gris  Stone C9007   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV56YG/?tag=tolees-21'
 descuento: '74.50'
 average: '35.67'

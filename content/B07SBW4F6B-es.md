@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: 'PUMA Epic Flip V2 Amplified  Zapatos de Playa y Piscina Unisex-Adulto  Rojo  High Risk Red Black White 01   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBW4F6B/?tag=tolees-21'
 descuento: '32.03'
 average: '13.52'

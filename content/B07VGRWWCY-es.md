@@ -16,6 +16,7 @@ comparePrice: 26.1 EUR
 prodname: 'Desigual Back Galaxy Tribeca - Bolso de mano para mujer  15 x 36 x 29 cm  color azul marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGRWWCY/?tag=tolees-21'
 descuento: '24.06'
 average: '27.615'

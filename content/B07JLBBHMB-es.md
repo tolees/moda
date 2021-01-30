@@ -16,6 +16,7 @@ comparePrice: 6.13 EUR
 prodname: 'Amazon Essentials – Pantalón corto chino con tiro de 8 89 cm para mujer  Azul marino  Navy Gingham   US 14  EU XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLBBHMB/?tag=tolees-21'
 descuento: '17.29'
 average: '5.07'

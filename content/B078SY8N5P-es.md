@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Timberland Bayham Canvas Mocasines  Mocasines Hombre  Azul  Black Iris Canvas 019   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SY8N5P/?tag=tolees-21'
 descuento: '58.90'
 average: '34.4375'

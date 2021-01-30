@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 510 Vaqueros Skinny  Azul  Simple Tings 1050   W26/L30  Talla del Fabricante: 26 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRM5LC3/?tag=tolees-21'
 descuento: '76.07'
 average: '25.54'

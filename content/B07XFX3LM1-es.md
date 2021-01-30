@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Puma Amplified tee Camiseta de Manga Corta  Hombre  Blanco White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFX3LM1/?tag=tolees-21'
 descuento: '23.93'
 average: '18.785'

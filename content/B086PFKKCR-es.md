@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA ESS Logo tee Camiseta  Mujer  Glowing Pink  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PFKKCR/?tag=tolees-21'
 descuento: '19.85'
 average: '15.99'

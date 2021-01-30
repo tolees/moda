@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Lacoste Th8602 Camiseta  Azul  Marine 166   Small  Talla del Fabricante: 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9YF3ZG/?tag=tolees-21'
 descuento: '45.02'
 average: '32.99'

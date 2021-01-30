@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones JORBRANDON Sweat Hood Sudadera con Capucha  Azul  Navy Blazer Fit: Slim JJ   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLMDYD2/?tag=tolees-21'
 descuento: '49.24'
 average: '20.3'

@@ -16,6 +16,7 @@ comparePrice: 31.98 EUR
 prodname: 'OurLeeme Casco para Soldar  Gafas Solares Lente Fotoeléctrico Protección UV Soldador Máscara Casco Ojos Automáticos Gafas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6LL6T5/?tag=tolees-21'
 descuento: '46.87'
 average: '16.99'

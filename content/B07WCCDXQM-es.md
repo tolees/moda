@@ -16,6 +16,7 @@ comparePrice: 5.84 EUR
 prodname: 'Springfield Especial Frq Telediario-C/17 Camiseta  Azul  Light Blue 17   XS  Tamaño del Fabricante: XS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WCCDXQM/?tag=tolees-21'
 descuento: '20.03'
 average: '4.67'

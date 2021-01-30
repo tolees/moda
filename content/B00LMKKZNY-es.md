@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Carver Suede M Sndl Sandalias con Plataforma Plana  Hombre  Marrón  Brown   41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LMKKZNY/?tag=tolees-21'
 descuento: '33.34'
 average: '20.272000000000002'

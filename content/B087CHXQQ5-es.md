@@ -16,6 +16,7 @@ comparePrice: 18.59 EUR
 prodname: 'SYOSIN Luz de Anillo LED  10.2" con Trípode Stand Control Remoto Bluetooth Soporte para Teléfono  3 Modos de Luz y 11 Niveles de Brillo para Maquillaje  Youtube Video  Belleza y Fotografía de Moda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087CHXQQ5/?tag=tolees-21'
 descuento: '22.32'
 average: '16.916666666666664'

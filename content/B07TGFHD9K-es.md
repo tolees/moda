@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Lacoste EF5473 Vestido  Negro  Noir   34 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TGFHD9K/?tag=tolees-21'
 descuento: '40.00'
 average: '93.0'

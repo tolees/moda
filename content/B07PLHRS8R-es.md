@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'BOTRE 13-15.6 Pulgadas Bolso de Mujer Bandolera Ordenadores Multifuncional Maletín Hombre Funda para Portátil Macbook Air iPad Moda y Negocios  15.6 Pulgadas  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLHRS8R/?tag=tolees-21'
 descuento: '15.01'
 average: '24.64'

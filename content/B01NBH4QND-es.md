@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'Realer - Bolso de asas de sintético para mujer negro negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBH4QND/?tag=tolees-21'
 descuento: '67.62'
 average: '22.99'

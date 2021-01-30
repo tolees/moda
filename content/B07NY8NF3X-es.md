@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Art Bergen  Botines para Mujer  Marrón  Cuero Cuero   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY8NF3X/?tag=tolees-21'
 descuento: '62.42'
 average: '52.6'

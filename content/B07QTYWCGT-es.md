@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'WILBEST Billetera de Hombre de Piel  Cartera RFID  Carteras Hombre con Monedero - Bloque 13.56 MHz  Cartera Personalizada Función de 4 en 1  Botón Diseño de Bolsillo con Cremallera  Negro Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTYWCGT/?tag=tolees-21'
 descuento: '50.01'
 average: '21.05142857142857'

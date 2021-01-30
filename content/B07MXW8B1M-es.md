@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Desigual 19WAXAAM - Bolso de hombro de Sintético Mujer 17.5x4x27.2 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXW8B1M/?tag=tolees-21'
 descuento: '15.92'
 average: '41.330000000000005'

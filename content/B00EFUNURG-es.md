@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Helly Hansen W Crew Chaqueta  Mujer  Blanco  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EFUNURG/?tag=tolees-21'
 descuento: '38.24'
 average: '86.46'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia REDMOND V2 Zapatos de senderismo impermeables para mujer  Beige Pebble  Beet   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHCGJYK/?tag=tolees-21'
 descuento: '35.56'
 average: '57.99'

@@ -16,6 +16,7 @@ comparePrice: 27.5 EUR
 prodname: 'Lee Pocket tee Camiseta  Rojo  Bright Red EF   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTTLQG4/?tag=tolees-21'
 descuento: '64.22'
 average: '9.84'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Epic Flip V2  Zapatos de Playa y Piscina Unisex Adulto  Azul  Dark Denim/Palace Blue 40   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVYZ5K/?tag=tolees-21'
 descuento: '29.87'
 average: '17.96333333333333'

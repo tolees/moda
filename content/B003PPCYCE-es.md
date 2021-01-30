@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Eastpak The One Bolso bandolera  21 cm  2.5 L  Gris  Sunday Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003PPCYCE/?tag=tolees-21'
 descuento: '51.00'
 average: '15.299999999999999'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Challenger Chaqueta Sudadera  Hombre  Rojo  Mountain Red/Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCX832H/?tag=tolees-21'
 descuento: '50.03'
 average: '77.75999999999999'

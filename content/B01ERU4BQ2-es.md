@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Joma - Sudadera campus ii 1/2 cremallera royal para hombre  Gris Melange Oscuro - 159  3XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERU4BQ2/?tag=tolees-21'
 descuento: '29.98'
 average: '15.37'

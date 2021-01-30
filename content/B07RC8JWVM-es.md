@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Powder Lite Chaleco  Mujer  Rojo  Beet   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8JWVM/?tag=tolees-21'
 descuento: '43.13'
 average: '45.49'

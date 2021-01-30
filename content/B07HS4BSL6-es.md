@@ -16,6 +16,7 @@ comparePrice: 29.26 EUR
 prodname: 'Dim Coton Stretch Boxer X3  Multicolor  Rouge Baiser/Bleu Antique/Bleu Crepuscule 87e   Large  Talla del Fabricante: 4   Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HS4BSL6/?tag=tolees-21'
 descuento: '48.91'
 average: '15.665999999999999'

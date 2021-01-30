@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Blouse Mila Blusa  Rojo  Rojo Oscuro 3029   S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3YWJKH/?tag=tolees-21'
 descuento: '70.14'
 average: '20.89'

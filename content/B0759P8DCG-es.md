@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'Angkorly - Zapatillas de Moda Deportivos Tennis Slip-on Mujer Nodo Talón tacón Plano 2.5 CM - Negro A-1 T 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759P8DCG/?tag=tolees-21'
 descuento: '20.00'
 average: '19.16'

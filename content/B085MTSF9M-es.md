@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Freebily Maillots de Danza Yoga Mujer Vestido Deportivo de Baile Manga Larga Leotardo Gimnasia con Tutú Elástico Ropa Deportiva Verano Mujeres Beige Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085MTSF9M/?tag=tolees-21'
 descuento: '46.31'
 average: '14.49'

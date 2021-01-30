@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Hatch Vaqueros Hombre Ajustados  Azul  Medium Used 000   W30/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RVFBYFS/?tag=tolees-21'
 descuento: '49.47'
 average: '40.37'

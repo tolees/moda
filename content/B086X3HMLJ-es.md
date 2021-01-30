@@ -16,6 +16,7 @@ comparePrice: 31.94 EUR
 prodname: '5 Piezas Bebé Body Mono de Manga Corta Mameluco Algodón Recién Nacido Pijama Bebés Juegos de Regalo  6-9 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086X3HMLJ/?tag=tolees-21'
 descuento: '37.41'
 average: '19.99'

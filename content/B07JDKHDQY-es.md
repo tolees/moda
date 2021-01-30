@@ -16,6 +16,7 @@ comparePrice: 15.45 EUR
 prodname: 'Levi s Barstow Western Camisa Vaquera  Azul  Red Cast Rinse 0115   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JDKHDQY/?tag=tolees-21'
 descuento: '32.69'
 average: '13.876'

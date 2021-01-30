@@ -16,6 +16,7 @@ comparePrice: 18.75 EUR
 prodname: 'find. Falda Mini de Rayas para Mujer   Negro  Black/white Striped   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXWHCPP/?tag=tolees-21'
 descuento: '35.73'
 average: '12.05'

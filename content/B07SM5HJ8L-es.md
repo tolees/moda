@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Zapatos de Seguridad para Hombre con Puntera de Acero Zapatillas de Seguridad Trabajo  Calzado de Industrial y Deportiva LM-123k  38 EU  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM5HJ8L/?tag=tolees-21'
 descuento: '42.67'
 average: '42.99'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Guantes Moto Mujer Hombre Guantes Moto Verano con Protección Tranpirable Dedo Completo Antideslizante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSTGHY8/?tag=tolees-21'
 descuento: '21.44'
 average: '10.99'

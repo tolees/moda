@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Levi s Graphic Diana Crew Sudadera  Amarillo  90 s Serif Ochre 0003   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJTT86T/?tag=tolees-21'
 descuento: '50.70'
 average: '25.3'

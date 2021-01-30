@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Urban Classics Hooded Check Puffer Jacket Chaqueta  Multicolor  Red/Black 00869   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPPHJWH/?tag=tolees-21'
 descuento: '75.75'
 average: '24.23'

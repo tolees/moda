@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Hombre s Zapatillas de Baloncesto Otoño Nuevo Entrenadores Moda al Aire Libre Sneaker'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074BQCDZ8/?tag=tolees-21'
 descuento: '28.27'
 average: '32.99'

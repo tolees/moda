@@ -16,6 +16,7 @@ comparePrice: 49 EUR
 prodname: 'Levi s SS Battery Hm Shirt Camisa  Blanco  White X 0000   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF666LL/?tag=tolees-21'
 descuento: '54.10'
 average: '22.49'

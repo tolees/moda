@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Helly Hansen HH Tech 1/2 Zip Camiseta de Manga Larga con Media Cremallera  Hombre  Navy  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV2N4TC/?tag=tolees-21'
 descuento: '48.37'
 average: '15.49'

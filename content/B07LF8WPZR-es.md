@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Negro Caviar Warp Str Cord Sorbtek Wt B  31W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8WPZR/?tag=tolees-21'
 descuento: '40.67'
 average: '53.4'

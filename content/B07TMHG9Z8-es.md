@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Levi s Barstow Western Standard Camisa  Azul  Red Cast Stone 0001   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHG9Z8/?tag=tolees-21'
 descuento: '38.76'
 average: '48.99'

@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Emporio Armani Underwear 111610cc722 Bóxer  Multicolor  White/Red/Black   Small  Tamaño del Fabricante:S   Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C5QFRTU/?tag=tolees-21'
 descuento: '16.69'
 average: '34.99'

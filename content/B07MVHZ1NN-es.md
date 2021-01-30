@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Kipling New S  Bolso Shopper para Mujer  Morado  Dark Plum   42x27x13 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVHZ1NN/?tag=tolees-21'
 descuento: '50.00'
 average: '37.5'

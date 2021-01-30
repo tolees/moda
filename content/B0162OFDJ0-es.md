@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Midweight Stretch Half Zip Camiseta técnica con Media Cremallera  Poliéster  Negro  Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0162OFDJ0/?tag=tolees-21'
 descuento: '45.01'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 92 EUR
 prodname: 'Pepe Jeans Spike Vaqueros  Azul  11oz Streaky Vintage Used   W34/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3VRVLV/?tag=tolees-21'
 descuento: '48.92'
 average: '46.99'

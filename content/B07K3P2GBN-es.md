@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Mabsoot  Camisa  Azul  Open Blue   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K3P2GBN/?tag=tolees-21'
 descuento: '70.02'
 average: '39.96'

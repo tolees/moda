@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'edc by Esprit 999cc2k803 Camiseta  Rojo  Red 630   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGRJ4FJ/?tag=tolees-21'
 descuento: '55.06'
 average: '7.24'

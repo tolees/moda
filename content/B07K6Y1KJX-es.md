@@ -16,6 +16,7 @@ comparePrice: 56.5 EUR
 prodname: 'Levi s 501 Crop Vaqueros Straight  Azul  Shot In The Dark 0031   25W / 28L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6Y1KJX/?tag=tolees-21'
 descuento: '35.40'
 average: '36.5'

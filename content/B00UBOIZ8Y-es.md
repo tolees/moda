@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Trunk Bóxer  Blanco  White/Tango Red/Peacoat 611   Small  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UBOIZ8Y/?tag=tolees-21'
 descuento: '57.60'
 average: '25.893124999999998'

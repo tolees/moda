@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Women s Secret Mickey Vintage Mv DS Every Week PJ Conjuntos de Pijama  Gris  Gama Grises 47   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTT21W9/?tag=tolees-21'
 descuento: '48.22'
 average: '12.94'

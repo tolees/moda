@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño clásico y cómodos de Usar  Azul  Boared Tnl 2948   42W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1P5HT9/?tag=tolees-21'
 descuento: '30.00'
 average: '43.39'

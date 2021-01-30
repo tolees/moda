@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'SwissWell Sudadera de Lana con Capucha para Hombre  Suéter para Hombre  Abrigo de Invierno y Deportes  Sudaderas con Cremallera para Hombre  Chaquetas para Deportes  Fitness  Recreación  Vida Diaria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3W2MC6/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

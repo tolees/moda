@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjitom Jjoriginal Am 815 STS Vaqueros Skinny  Azul  Blue Denim Blue Denim   W31/L34  Talla del Fabricante: 31  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQBFPPL/?tag=tolees-21'
 descuento: '51.01'
 average: '20.39'

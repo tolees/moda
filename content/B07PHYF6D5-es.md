@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Refresh 69188  Botines para Mujer  Marrón Camel  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHYF6D5/?tag=tolees-21'
 descuento: '58.62'
 average: '20.67'

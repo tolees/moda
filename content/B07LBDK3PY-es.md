@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Tommy Hilfiger Bikini Culotte  Azul  Navy Blazer 416   40  Talla del Fabricante: MD  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBDK3PY/?tag=tolees-21'
 descuento: '27.43'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Lacoste TH6712 Camiseta  Azul  Marine   Small  Talla del Fabricante: 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5GTEGH/?tag=tolees-21'
 descuento: '57.05'
 average: '31.589999999999996'

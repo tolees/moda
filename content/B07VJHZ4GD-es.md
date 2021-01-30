@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Hackett Amr Stripe Back Camiseta  Azul  595navy 595   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJHZ4GD/?tag=tolees-21'
 descuento: '58.48'
 average: '53.97'

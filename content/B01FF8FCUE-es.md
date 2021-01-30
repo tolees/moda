@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'JACK & JONES Jjiliam Jjoriginal Am 010 Lid Noos Vaqueros  Grey Denim  34W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FF8FCUE/?tag=tolees-21'
 descuento: '35.96'
 average: '30.47'

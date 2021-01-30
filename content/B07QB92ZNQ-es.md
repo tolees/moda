@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA Manchester City FC Kids Replica Dodge Jersey  Unisex niños  Amarillo  Fizzy Yellow-Georgia Peach   164'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB92ZNQ/?tag=tolees-21'
 descuento: '42.96'
 average: '39.9'

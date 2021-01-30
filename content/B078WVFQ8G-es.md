@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Quiksilver Zapatos de Playa y Piscina AQYL100047 XGCK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WVFQ8G/?tag=tolees-21'
 descuento: '40.02'
 average: '15.074'

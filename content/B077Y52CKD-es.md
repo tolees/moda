@@ -16,6 +16,7 @@ comparePrice: 42.46 EUR
 prodname: 'HIKARO Chaqueta con Cremallera y Capucha Hombre  Rojo  Burgundy   56  Talla del fabricante: XX-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y52CKD/?tag=tolees-21'
 descuento: '64.70'
 average: '14.99'

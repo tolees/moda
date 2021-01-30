@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'flintronic Cartera Tarjeta de Crédito  Slim Billetera Hombre de Piel Auténtica  Mini Monedero con Cremallera para ID  Tarjetas Crédito  Licencia de Conducir  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M24E9GN/?tag=tolees-21'
 descuento: '47.39'
 average: '10.39'

@@ -16,6 +16,7 @@ comparePrice: 22.25 EUR
 prodname: 'Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Blanco  Optic White 26C   XX-Large  Talla del Fabricante: 2XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FL7YLQT/?tag=tolees-21'
 descuento: '23.64'
 average: '16.99'

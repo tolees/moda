@@ -16,6 +16,7 @@ comparePrice: 20.8 EUR
 prodname: 'find. 17 03 LLF 04 vestido fiesta mujer  Rojo  Rot   40  Talla del Fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MS8QW2/?tag=tolees-21'
 descuento: '62.50'
 average: '7.8'

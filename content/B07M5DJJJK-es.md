@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Luke Vaqueros  Dark Blue Elko Bu  W28/L32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5DJJJK/?tag=tolees-21'
 descuento: '40.02'
 average: '48.02333333333333'

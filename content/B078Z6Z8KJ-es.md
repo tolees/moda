@@ -16,6 +16,7 @@ comparePrice: 78.05 EUR
 prodname: 'GRITION Sandalias Hombre Verano Punta Cerrada Sandalias de Deporte de Gran Tamaño Sandalias de Protección Rápida Dry Toecap Verano  40EU BB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078Z6Z8KJ/?tag=tolees-21'
 descuento: '41.08'
 average: '45.99'

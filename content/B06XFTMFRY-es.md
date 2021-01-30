@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Azul  Blue Palm   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XFTMFRY/?tag=tolees-21'
 descuento: '79.38'
 average: '5.720000000000001'

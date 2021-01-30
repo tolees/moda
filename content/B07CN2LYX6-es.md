@@ -16,6 +16,7 @@ comparePrice: 88.99 EUR
 prodname: 'gracosy Sandalias Cuero Verano Mujer Estilo Bohemia Zapatos de Tacones Altos para Mujer de Dedo Sandalias Talla Grande Chanclas Romanas de Mujer Verde Rosso Hecho a Mano Los Zapatos 2019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN2LYX6/?tag=tolees-21'
 descuento: '41.58'
 average: '51.99'

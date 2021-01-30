@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s SS Classic 1 Pkt Standrd Camisa  Azul  Austin Riverside 0019   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ9R8BM/?tag=tolees-21'
 descuento: '56.86'
 average: '21.57'

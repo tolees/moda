@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger TJM Tommy Classics Logo tee Camisa  Gris  Lt Grey Htr 038   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D45G3NK/?tag=tolees-21'
 descuento: '42.98'
 average: '20.119999999999997'

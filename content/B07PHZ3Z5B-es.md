@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Geox J Xunday Boy B ABX A  Botas Chukka para Niños  Verde  Military/Beige C3202   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHZ3Z5B/?tag=tolees-21'
 descuento: '72.03'
 average: '20.98'

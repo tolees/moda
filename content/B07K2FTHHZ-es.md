@@ -16,6 +16,7 @@ comparePrice: 129.03 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole Modern Chukka  Zapatillas para Hombre  Marrón  MD Brown Full Grain   49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2FTHHZ/?tag=tolees-21'
 descuento: '72.89'
 average: '45.574000000000005'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Bolso de mano Pepe Jeans Bromley Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5L8TNF/?tag=tolees-21'
 descuento: '28.61'
 average: '19.99'

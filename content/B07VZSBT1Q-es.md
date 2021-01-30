@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger TJM Bold tee Camiseta  Azul  Twilight Navy Stripe 0ze   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZSBT1Q/?tag=tolees-21'
 descuento: '42.86'
 average: '20.0'

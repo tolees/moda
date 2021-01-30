@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Iris & Lilly Braga Brasileña de Algodón Mujer  Pack de 10  Negro  Black   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MWDXML/?tag=tolees-21'
 descuento: '27.53'
 average: '18.11'

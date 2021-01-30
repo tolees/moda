@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta Vaquera  Gris  Medium Grey Denim   34  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0751KQ7VJ/?tag=tolees-21'
 descuento: '29.11'
 average: '21.26'

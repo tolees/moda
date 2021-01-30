@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'Levi s Barstow Western Standard Camisa  Azul  Archer Cloud Dancer 0007   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLJDD3/?tag=tolees-21'
 descuento: '17.76'
 average: '31.935000000000002'

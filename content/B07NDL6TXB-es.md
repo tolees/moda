@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'G-STAR RAW 3301 Boyfriend Denim Chaqueta  Rosa  Dk Tea Rose A827   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL6TXB/?tag=tolees-21'
 descuento: '78.74'
 average: '31.88'

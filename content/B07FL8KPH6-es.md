@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry Orange Label Vntge Emb S/s tee Camiseta  Gris  Flint Steel Grit A3z   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FL8KPH6/?tag=tolees-21'
 descuento: '46.02'
 average: '14.605384615384617'

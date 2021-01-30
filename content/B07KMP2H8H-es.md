@@ -16,6 +16,7 @@ comparePrice: 47.52 EUR
 prodname: 'find. Leather Round Toe Block Heel Court Zapatos de Tacón  Negro Black  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMP2H8H/?tag=tolees-21'
 descuento: '65.03'
 average: '16.62'

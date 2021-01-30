@@ -16,6 +16,7 @@ comparePrice: 106.48 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Gris  Gobbler ADV 0297   32W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6XK1XW/?tag=tolees-21'
 descuento: '44.13'
 average: '59.49'

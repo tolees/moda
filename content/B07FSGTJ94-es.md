@@ -16,6 +16,7 @@ comparePrice: 40.3 EUR
 prodname: 'Lee Lee Crew Sws  sudadera Mujer  Marfil  Faded Rosado Ea   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSGTJ94/?tag=tolees-21'
 descuento: '45.43'
 average: '21.99'

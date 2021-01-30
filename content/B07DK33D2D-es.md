@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Geox Jr Wader A  Sandalias Punta Cerrada para Niños  Azul  Navy/Royal C4226   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK33D2D/?tag=tolees-21'
 descuento: '31.31'
 average: '37.153333333333336'

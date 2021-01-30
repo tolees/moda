@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Calvin Klein Core Institutional Logo Sweatshirt Sudadera  Gris  Grey Heather 039   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPBMXGR/?tag=tolees-21'
 descuento: '69.28'
 average: '27.34'

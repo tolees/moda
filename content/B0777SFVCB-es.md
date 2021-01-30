@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Dim Mix and Colors Boxer X2  Negro  Negro CT Jaune Safran/Negro CT Azul Marin 5VV   X-Large  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777SFVCB/?tag=tolees-21'
 descuento: '36.20'
 average: '14.61'

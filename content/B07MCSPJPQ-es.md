@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Napapijri Rainforest Pocket Chaqueta  Azul  Clematis Blue VB1   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPJPQ/?tag=tolees-21'
 descuento: '57.81'
 average: '102.75999999999999'

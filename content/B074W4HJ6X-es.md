@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Wantdo Chaqueta Impermeable Contraviento Ligera para Hombres con Capucha Softshell Deportiva Negro Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074W4HJ6X/?tag=tolees-21'
 descuento: '23.11'
 average: '23.259999999999998'

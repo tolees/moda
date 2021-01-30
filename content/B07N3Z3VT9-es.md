@@ -16,6 +16,7 @@ comparePrice: 8.16 EUR
 prodname: 'Marca Amazon - find. Camisa de Manga Larga de Algodón Hombre  Negro  Black   XL  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3Z3VT9/?tag=tolees-21'
 descuento: '22.79'
 average: '6.3'

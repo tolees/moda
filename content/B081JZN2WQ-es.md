@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Guess Cn SS Original Logo Camiseta  Bianco  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081JZN2WQ/?tag=tolees-21'
 descuento: '16.72'
 average: '24.9'

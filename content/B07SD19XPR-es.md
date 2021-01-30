@@ -16,6 +16,7 @@ comparePrice: 18.86 EUR
 prodname: 'PUMA Epic Flip V2  Zapatos de Playa y Piscina Unisex Adulto  Rojo  High Risk Red/Amazon Green 36   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD19XPR/?tag=tolees-21'
 descuento: '31.12'
 average: '12.99'

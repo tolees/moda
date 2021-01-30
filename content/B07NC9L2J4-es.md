@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Zip Thru Boys Sudadera  Azul  Navy 595   2 años  Talla del Fabricante: 2  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC9L2J4/?tag=tolees-21'
 descuento: '62.40'
 average: '20.68'

@@ -16,6 +16,7 @@ comparePrice: 237.0 EUR
 prodname: 'Prada 0PR17SS UE00A6 53 gafas de sol  Marrón  Spotted Brown Pink/Brown Pink   Unisex-Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AHOY9B4/?tag=tolees-21'
 descuento: '36.50'
 average: '150.5'

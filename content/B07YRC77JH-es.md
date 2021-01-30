@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Marca Amazon - AURIQUE Contrast Panels BAL004  Mallas de entrenamiento Mujer  Morado  Arena/Bahía Verde   42  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRC77JH/?tag=tolees-21'
 descuento: '20.00'
 average: '14.4'

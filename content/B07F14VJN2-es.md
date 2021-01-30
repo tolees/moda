@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'SHOBDW Las Mujeres de Moda señora de la Cintura elástica Verano sólido hasta la Rodilla cómodos Pantalones Cortos Deportivos Pantalones Casuales de Playa  S  Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F14VJN2/?tag=tolees-21'
 descuento: '54.05'
 average: '4.59'

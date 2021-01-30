@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s 2pk Crewneck Graphic Camiseta  Multicolor  2 Pack Hm White/Mid Tone Grey Heather 0001   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFGWLTG/?tag=tolees-21'
 descuento: '46.17'
 average: '19.956666666666667'

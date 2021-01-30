@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Haioo Mochilas Escolares 5 en 1 con Dibujo de Nube para Colegio Mochilas Infantiles con Estuche Monedero Bolso Bandolera  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08527BFMD/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

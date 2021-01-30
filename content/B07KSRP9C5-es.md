@@ -16,6 +16,7 @@ comparePrice: 35.97 EUR
 prodname: 'AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Boda Plata Dos Cilindro Bar 0.9x1.8CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSRP9C5/?tag=tolees-21'
 descuento: '63.89'
 average: '12.99'

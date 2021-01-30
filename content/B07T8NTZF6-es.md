@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Gafas de Sol Mujer Gafas  Gafas de Sol Mujer Polarizadas  Gafas sol Hombre Polarizadas Aptos para Correr  Voleibol  Senderismo Polarizadas Hombre de Moda Lentes UV400 Y Montura De TR-90  Gris +Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8NTZF6/?tag=tolees-21'
 descuento: '66.46'
 average: '10.223333333333334'

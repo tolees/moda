@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jjemelange Shirt L/s Noos Camisa  Azul  Blue Nightsblau   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X15YPPC/?tag=tolees-21'
 descuento: '66.12'
 average: '15.67'

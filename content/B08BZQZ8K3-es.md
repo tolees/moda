@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'AMZTM Camiseta Cumpleaños Bebé Niña  Flamenco 1er Cumpleaño Fiesta Manga Corta Flameante 100% Algodón Top Volantes y Lentejuelas Blancas Ropa de Verano  Blancas  80 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZQZ8K3/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

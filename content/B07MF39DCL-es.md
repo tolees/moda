@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Lake 22  Chaqueta de plumas  Hombre  Gris  Columbia Grey Heather   Talla XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MF39DCL/?tag=tolees-21'
 descuento: '71.31'
 average: '34.42'

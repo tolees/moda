@@ -16,6 +16,7 @@ comparePrice: 51.27 EUR
 prodname: 'Fallout Chaqueta XL Vault Capucha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV95WMT/?tag=tolees-21'
 descuento: '52.84'
 average: '24.406666666666666'

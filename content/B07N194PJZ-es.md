@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Lee Authentic Pkt T LS Camiseta  Azul  Midnight Navy Ma   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N194PJZ/?tag=tolees-21'
 descuento: '81.00'
 average: '8.594999999999999'

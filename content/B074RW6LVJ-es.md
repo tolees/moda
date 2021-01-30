@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett High Vaqueros  Azul  Blue Indigo Hael   25W/33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074RW6LVJ/?tag=tolees-21'
 descuento: '32.86'
 average: '49.0275'

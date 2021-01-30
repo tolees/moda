@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Suprdry Surplus Goods LS Classic Graphic tee Camisa Manga Larga  Blanco  Optic 01c   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P16D2ZJ/?tag=tolees-21'
 descuento: '78.96'
 average: '11.68'

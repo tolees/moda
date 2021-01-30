@@ -16,6 +16,7 @@ comparePrice: 25.17 EUR
 prodname: 'adidas T-Shirt Originals Sport Essentials tee - Camiseta  Color Negro  Talla l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OZQ7HEC/?tag=tolees-21'
 descuento: '20.02'
 average: '23.564999999999998'

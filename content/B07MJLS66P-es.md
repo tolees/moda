@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Levi s Levis Optical Illusion Boxer Brief 2p  Multicolor  Blue 056   X-Large  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJLS66P/?tag=tolees-21'
 descuento: '55.90'
 average: '11.926666666666666'

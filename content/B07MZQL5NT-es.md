@@ -16,6 +16,7 @@ comparePrice: 25.25 EUR
 prodname: 'Pepe Jeans Kenth Camiseta   Coal 992   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQL5NT/?tag=tolees-21'
 descuento: '40.24'
 average: '12.976666666666667'

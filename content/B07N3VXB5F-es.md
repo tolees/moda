@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Desigual Postcards Dress Vestido  Multicolor  Tutti Fruti 9019   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3VXB5F/?tag=tolees-21'
 descuento: '49.99'
 average: '29.98'

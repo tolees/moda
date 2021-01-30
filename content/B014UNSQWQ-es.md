@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J54E6A00043  Zapatos con Velcro Niños  Negro  Blackc9999   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014UNSQWQ/?tag=tolees-21'
 descuento: '30.00'
 average: '42.980000000000004'

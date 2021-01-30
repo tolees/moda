@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'The North Face T93BRM Chaqueta Trevail  Mujer  Grisaille Grey  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB43FFV/?tag=tolees-21'
 descuento: '72.26'
 average: '63.8'

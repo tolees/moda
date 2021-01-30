@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Camisas Hombros Descubiertos Mujer Casual Colores Lisos T Shirt Manga Corta Sin Tirantes Camiseta Cuello Barco Niña Moda Suelta Blusas Verano Talla Grande Túnica Top Deporte Pull-Over Sweatshirt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BF5QNHL/?tag=tolees-21'
 descuento: '70.02'
 average: '8.99'

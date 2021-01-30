@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Antony Morato Felpa Girocollo Basic con Placchetta Sudadera  Negro  Nero 9000   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2T8KL8/?tag=tolees-21'
 descuento: '67.46'
 average: '19.2'

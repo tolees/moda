@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Helly Hansen HH LIFA Merino Crew Camiseta Deportiva Manga Larga  Hombre  Azul  Marino   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0789BYLL9/?tag=tolees-21'
 descuento: '51.01'
 average: '41.623333333333335'

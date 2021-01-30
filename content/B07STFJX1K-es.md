@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jprlogo Twist Shirt L/s STS Camisa  Marrón  Umber Slim Fit   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STFJX1K/?tag=tolees-21'
 descuento: '64.17'
 average: '14.5'

@@ -16,6 +16,7 @@ comparePrice: 5.93 EUR
 prodname: 'Fruit of the Loom- Camiseta de Manga Corta Sofspun para niñas  9-10   Azul Real '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZNK2V5/?tag=tolees-21'
 descuento: '33.39'
 average: '3.95'

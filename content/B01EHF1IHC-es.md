@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'GANT The Original Slim T-Shirt Camiseta  Negro  Black 5   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EHF1IHC/?tag=tolees-21'
 descuento: '19.21'
 average: '24.23'

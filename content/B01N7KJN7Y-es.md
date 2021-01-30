@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'crocs Crocband U  Zuecos Unisex Adulto  Azul  Ice Blue-White   39-40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7KJN7Y/?tag=tolees-21'
 descuento: '43.12'
 average: '25.59'

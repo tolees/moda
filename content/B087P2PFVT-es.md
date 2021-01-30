@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Kaizi Karzi Mujer Moda Puntiagudo Zapatos de la Corte Tacón Ancho Tira de Tobillo Vestido Bombas Zapatos Comodo Fiesta Zapatos Black Talla 38 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087P2PFVT/?tag=tolees-21'
 descuento: '48.27'
 average: '25.86'

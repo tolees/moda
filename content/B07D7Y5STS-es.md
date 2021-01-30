@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Graphic Set-in Neck  Camiseta para Hombre  Blanco  Levis Logo White 0424   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7Y5STS/?tag=tolees-21'
 descuento: '62.00'
 average: '11.812857142857144'

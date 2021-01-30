@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Timberland - Patucos y casquillo para bebés  Multicolor  Amarillo/ Blanco   17'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRIQU4S/?tag=tolees-21'
 descuento: '36.02'
 average: '31.99'

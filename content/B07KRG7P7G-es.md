@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Helly Hansen LIFA Dry Stripe Crew Thermal Baselayer Camiseta Deportiva Manga Larga  Hombre  Navy  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRG7P7G/?tag=tolees-21'
 descuento: '41.28'
 average: '23.49'

@@ -16,6 +16,7 @@ comparePrice: 21 EUR
 prodname: 'find. Paris Embroidered Sudadera  Verde  Green   44  Talla del Fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2JRCHY/?tag=tolees-21'
 descuento: '28.57'
 average: '15'

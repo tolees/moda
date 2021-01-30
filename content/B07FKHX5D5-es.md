@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Nike M NSW tee Icon Futura Camiseta de Manga Corta  Hombre  dk Grey Heather/Black/ White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKHX5D5/?tag=tolees-21'
 descuento: '36.40'
 average: '15.9'

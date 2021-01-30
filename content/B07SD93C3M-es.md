@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen Logo Hoodie Sudadera con Capucha  Hombre  Rojo Alerta  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD93C3M/?tag=tolees-21'
 descuento: '40.96'
 average: '41.33'

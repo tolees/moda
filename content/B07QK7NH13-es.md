@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'MTNG Collection 58673  Botines para Mujer  Marrón  Karma Taupe C28595   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QK7NH13/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

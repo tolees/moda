@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Lacoste EF5473 Vestido  Azul  Marine   34 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFBB64Q/?tag=tolees-21'
 descuento: '33.55'
 average: '102.99'

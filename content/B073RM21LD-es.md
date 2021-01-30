@@ -16,6 +16,7 @@ comparePrice: 17.78 EUR
 prodname: 'Marca Amazon - find. Chaqueta de Satén Estilo Bómber Mujer  Rosa  Blush   46  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RM21LD/?tag=tolees-21'
 descuento: '33.46'
 average: '11.83'

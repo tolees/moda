@@ -16,6 +16,7 @@ comparePrice: 15.75 EUR
 prodname: 'find. Camisa Formal Entallada Hombre  Azul  Navy   X-Large  Talla del fabricante: X-Large 16.5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BP9MDDF/?tag=tolees-21'
 descuento: '36.51'
 average: '10'

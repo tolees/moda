@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Adidas Adilette Aqua  Zapatos de Playa y Piscina para Hombre  Negro  Black F35550   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2TX49T/?tag=tolees-21'
 descuento: '69.93'
 average: '10.305'

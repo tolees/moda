@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Amilril Perla Collar Colgante Mujer  Plata de Ley 925 Moda Joyería  Regalo para Madre Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXQPF5L/?tag=tolees-21'
 descuento: '82.74'
 average: '18.98'

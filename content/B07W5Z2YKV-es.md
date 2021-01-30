@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'DOACT Chalecos Termico Exteriores Interfaz USB Chaleco Eléctrico Lavable Tres Engranajes Eléctrica Calefactable Chaquetas Aislamiento Térmico Neopreno para Exteriores Actividade Mantener Caliente XXXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5Z2YKV/?tag=tolees-21'
 descuento: '36.59'
 average: '25.99'

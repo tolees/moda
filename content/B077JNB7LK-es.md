@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Zapatillas Unisex Niños Zapatos de Baloncesto Casual Zapatos Correr Sneakers para Hombre  1 Rojo  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077JNB7LK/?tag=tolees-21'
 descuento: '46.67'
 average: '31.99'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Siux Camiseta Dry Rojo Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Y2GYPJ/?tag=tolees-21'
 descuento: '70.25'
 average: '5.95'

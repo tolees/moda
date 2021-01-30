@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim sólido Abajo Chaqueta Abrigo  Armada  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771BP6BC/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

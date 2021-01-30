@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Tech T Camiseta sin Mangas  Mujer  Negro  Black/Metallic Silver 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YO73MQ4/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

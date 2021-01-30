@@ -16,6 +16,7 @@ comparePrice: 17.06 EUR
 prodname: 'MeBB Chic Collar Mordedor de Lactancia para Bebé Mordedor sin BPA Silicona Antibiótico Cómodo use collar  Hermosa Moda  Pastel White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXWWHFV/?tag=tolees-21'
 descuento: '64.89'
 average: '5.99'

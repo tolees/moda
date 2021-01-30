@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Crocs Swiftwater Wave M Zapatos de agua Hombre  Azul  Sea/Blue/White/Strap   36-37 EU  3 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXE0L2R/?tag=tolees-21'
 descuento: '72.57'
 average: '15.315000000000001'

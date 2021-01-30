@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers DELSON-Antigo 65693  Zapatos de Cordones Oxford para Hombre  Negro  Black Black   48.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CD1TTVQ/?tag=tolees-21'
 descuento: '30.09'
 average: '48.9'

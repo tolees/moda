@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'RAIN BOW ISLAND Zuecos Clásicos con Correa Trasera  Hombre Adulto  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088LMH6DT/?tag=tolees-21'
 descuento: '46.73'
 average: '7.99'

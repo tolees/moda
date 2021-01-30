@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox D Rubidia A  Zapatillas para Mujer  Gris  Off White C1002   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLXXWD/?tag=tolees-21'
 descuento: '61.79'
 average: '45.81'

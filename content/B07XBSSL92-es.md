@@ -16,6 +16,7 @@ comparePrice: 37.59 EUR
 prodname: 'PUMA Nu-Tility FZ Hoody Sudadera  Mujer  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBSSL92/?tag=tolees-21'
 descuento: '30.81'
 average: '26.01'

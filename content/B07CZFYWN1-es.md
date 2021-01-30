@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Fast Left Chest 2.0 SS Camiseta Deportiva De Manga Corta  Hombre  Negro  Black/Pitch Gray-001   SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZFYWN1/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

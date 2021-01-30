@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Calvin Klein Vegetable Dye Monogram Slim tee Camiseta  Gris  Antique Grey Ps7   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC4Y7ZX/?tag=tolees-21'
 descuento: '18.60'
 average: '13.74'

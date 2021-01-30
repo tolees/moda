@@ -16,6 +16,7 @@ comparePrice: 57.81 EUR
 prodname: 'Teva Terra Fi Lite  Sandalias de Punta Descubierta para Mujer  Rojo  Red Plum Rpl   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQPXKSH/?tag=tolees-21'
 descuento: '25.13'
 average: '43.28'

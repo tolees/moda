@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Napapijri Gardiner Camisa Casual  Azul  Blue Stripe S07   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTBXMPC/?tag=tolees-21'
 descuento: '69.30'
 average: '27.32'

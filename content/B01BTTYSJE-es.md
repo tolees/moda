@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'Piquadro Bolso Escolares  Azul  Azul  - CA3347P15/BLU3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BTTYSJE/?tag=tolees-21'
 descuento: '25.25'
 average: '224.25'

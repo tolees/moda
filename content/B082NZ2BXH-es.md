@@ -16,6 +16,7 @@ comparePrice: 13.98 EUR
 prodname: 'Oihxse Transparente Silicona Case Compatible con Xiaomi Mi 9 SE Funda Suave TPU Protección Carcasa Moda Dibujos Animados Divertida Diseño Ultra-Delgado Cubierta-Conejo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NZ2BXH/?tag=tolees-21'
 descuento: '42.92'
 average: '7.98'

@@ -16,6 +16,7 @@ comparePrice: 79.1 EUR
 prodname: 'Pepe Jeans Axel Chaqueta  Verde  Bright Green 633   11-12 años  Talla del Fabricante: 12  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC9C8NC/?tag=tolees-21'
 descuento: '35.95'
 average: '50.66'

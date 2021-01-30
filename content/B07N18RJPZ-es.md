@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Faded Blue 6553-A889  22W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N18RJPZ/?tag=tolees-21'
 descuento: '70.75'
 average: '29.24'

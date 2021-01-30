@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Joma Brama Classic - Pantalón Largo térmico para niños de 12-14 años  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NBVNLYC/?tag=tolees-21'
 descuento: '28.01'
 average: '17.99'

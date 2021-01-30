@@ -16,6 +16,7 @@ comparePrice: 35.23 EUR
 prodname: 'Clarks Annadel Parker  Sandalias de Talón Abierto para Mujer  Azul  Navy Suede Navy Suede   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJPLJF4/?tag=tolees-21'
 descuento: '19.76'
 average: '29.035'

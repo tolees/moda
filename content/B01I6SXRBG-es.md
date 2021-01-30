@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'Alpha Industries MA-1 D-Tec  Chaqueta Bomber para Hombre  Verde  Rep.Grey 257   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I6SXRBG/?tag=tolees-21'
 descuento: '55.00'
 average: '89.95'

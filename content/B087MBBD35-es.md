@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Ucayali Zapatos de Seguridad Hombre Trabajo Verano Zapatillas Trabajar Comodos Ligeros Transpirables Calzado de Seguridad Deportivo Punta de Acero 016 Negro  40 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087MBBD35/?tag=tolees-21'
 descuento: '15.00'
 average: '33.99'

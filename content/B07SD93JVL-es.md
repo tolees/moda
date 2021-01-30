@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Helly Hansen Nord Graphic T-Shirt Camiseta  Hombre  Grey Melange  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD93JVL/?tag=tolees-21'
 descuento: '30.03'
 average: '20.99'

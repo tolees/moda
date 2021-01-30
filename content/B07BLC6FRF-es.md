@@ -16,6 +16,7 @@ comparePrice: 18.7 EUR
 prodname: 'AURIQUE BAL1042 Mallas de Entrenamiento  Rojo  Port Royale/Black/Blush   38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BLC6FRF/?tag=tolees-21'
 descuento: '30.70'
 average: '17.48'

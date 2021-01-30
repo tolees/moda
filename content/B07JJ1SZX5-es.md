@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Armani Exchange 9 5 Ounces Stretch Mid Wash Vaqueros Skinny  Azul  Indigo Denim 1500   40/L30  Talla del Fabricante: 26  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ1SZX5/?tag=tolees-21'
 descuento: '69.07'
 average: '29.38'

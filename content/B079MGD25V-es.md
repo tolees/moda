@@ -16,6 +16,7 @@ comparePrice: 11.85 EUR
 prodname: 'Marca Amazon - MERAKI Camiseta de Manga Corta de Corte Estándar Hombre  Blanco  Optic White   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MGD25V/?tag=tolees-21'
 descuento: '30.46'
 average: '8.24'

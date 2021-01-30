@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Lee Button Down Camisa  Gris  Grey Mele 37   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N163JBN/?tag=tolees-21'
 descuento: '69.44'
 average: '22.535'

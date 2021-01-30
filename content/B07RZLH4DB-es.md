@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Perfect-tee Camiseta de Manga Corta  Multicolor  Alyssa Stripe Cloud Dancer 0062   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLH4DB/?tag=tolees-21'
 descuento: '42.04'
 average: '14.74'

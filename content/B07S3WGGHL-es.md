@@ -16,6 +16,7 @@ comparePrice: 58.81 EUR
 prodname: 'Levi s 510 Fit Vaqueros Skinny  Azul  Bonita City 4/Waxy 1023   W33/L32  Talla del Fabricante: 33 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3WGGHL/?tag=tolees-21'
 descuento: '44.36'
 average: '32.72'

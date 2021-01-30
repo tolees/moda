@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'G-STAR RAW One Slim Fit Camiseta  Blanco  White 336-110   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQV8LWJ/?tag=tolees-21'
 descuento: '28.54'
 average: '14.97'

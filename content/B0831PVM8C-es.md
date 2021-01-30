@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Canadian Peak Sudadera NIÑO Galapagos Gris Melange 12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0831PVM8C/?tag=tolees-21'
 descuento: '30.00'
 average: '27.3'

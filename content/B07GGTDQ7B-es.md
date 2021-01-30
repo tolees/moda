@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'vifuur Hombres Casa Zapatillas High Density Memory Foam Caliente de Lana Indoor Outdoor como Peluche Forro Suela de Goma Anti Skid Slip On Guantes  Color  Talla 40/41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGTDQ7B/?tag=tolees-21'
 descuento: '42.89'
 average: '15.99'

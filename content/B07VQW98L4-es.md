@@ -16,6 +16,7 @@ comparePrice: 41.44 EUR
 prodname: 'Calvin Klein Low Rise Trunk 3pk  Bóxer Hombre  Blanco  W-BLUE WHALE/ WILDFLOWER/ BUBBLEGUM BUH   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQW98L4/?tag=tolees-21'
 descuento: '34.87'
 average: '26.99'

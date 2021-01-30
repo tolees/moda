@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'adidas Core18 PES Jkt Chaqueta  Hombre  Azul  Dark Blue/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HRK8PV/?tag=tolees-21'
 descuento: '28.34'
 average: '17.4775'

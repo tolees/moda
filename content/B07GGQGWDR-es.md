@@ -16,6 +16,7 @@ comparePrice: 47.11 EUR
 prodname: 'PROSTEEL Collar de Oro con Colgante Guitarra electrónica Cadena Cubana Hombre Dorada Chapado en Oro 18 k'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGQGWDR/?tag=tolees-21'
 descuento: '65.00'
 average: '16.49'

@@ -16,6 +16,7 @@ comparePrice: 58.88 EUR
 prodname: 'Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado 1643 Unisexo Black 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C6XTSGF/?tag=tolees-21'
 descuento: '40.57'
 average: '34.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Spalding Team II Sudadera con Capucha  Hombre  Azul Royal  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797NJXJ5/?tag=tolees-21'
 descuento: '34.01'
 average: '32.99'

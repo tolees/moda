@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Levi s On Tour Camiseta Deportiva de Tirantes  Negro  Red Hsmk Tank Black 0023   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K73CD8F/?tag=tolees-21'
 descuento: '16.72'
 average: '12.823333333333334'

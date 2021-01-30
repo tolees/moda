@@ -16,6 +16,7 @@ comparePrice: 5.81 EUR
 prodname: 'FOTN Zapatos 6PCS Beige plástico de Alta talón Consejos 22mm x 21mm para Damas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0862B1GFK/?tag=tolees-21'
 descuento: '49.57'
 average: '2.93'

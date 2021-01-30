@@ -16,6 +16,7 @@ comparePrice: 16.3 EUR
 prodname: 'oodji Ultra Mujer Blusa con Escote Barco y Volantes en Las Mangas  Azul  ES 42 / L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKXFJMS/?tag=tolees-21'
 descuento: '49.08'
 average: '8.3'

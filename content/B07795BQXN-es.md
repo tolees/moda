@@ -16,6 +16,7 @@ comparePrice: 7.43 EUR
 prodname: 'COMVIP Bebé niña Forro Polar Cachorro Suavemente único Orejas largas Deslizador Zapatos Caliente Tamaño Libre: 11 cm Longitud café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07795BQXN/?tag=tolees-21'
 descuento: '37.01'
 average: '4.68'

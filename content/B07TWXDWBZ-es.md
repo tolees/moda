@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Women s Secret Bloom Feminine BF Blossom PJ FR Conjuntos de Pijama  Verde  Verde Oscuro 20   X-Small  Tamaño del Fabricante: XS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXDWBZ/?tag=tolees-21'
 descuento: '59.87'
 average: '13.24'

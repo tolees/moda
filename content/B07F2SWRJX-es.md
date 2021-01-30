@@ -16,6 +16,7 @@ comparePrice: 51.09 EUR
 prodname: 'adidas FL_TRH Tec COO Camiseta  Hombre  grpuch/Gricin  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2SWRJX/?tag=tolees-21'
 descuento: '58.92'
 average: '20.99'

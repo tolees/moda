@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa para mujer  Negro  001   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HY9NNJ/?tag=tolees-21'
 descuento: '61.30'
 average: '19.35'

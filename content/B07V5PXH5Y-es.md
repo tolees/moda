@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Kipling NEW ELDORADO Bolso bandolera  20 cm  1 litros  Multicolor  Urban Jungle '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5PXH5Y/?tag=tolees-21'
 descuento: '50.00'
 average: '31.166666666666664'

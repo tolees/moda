@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Firenze Artegiani Bolso Bandolera de Mujer en Piel auténtica  Acabado Gamuza  Grabado en Serpiente  29 cm  Marrón Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXJN3R3/?tag=tolees-21'
 descuento: '34.18'
 average: '98.73'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Morado  Lavanda 530   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000O0YACA/?tag=tolees-21'
 descuento: '39.38'
 average: '24.369999999999997'

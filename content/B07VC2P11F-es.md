@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'BOSS Rash Camisa  Blanco  White 100   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC2P11F/?tag=tolees-21'
 descuento: '35.38'
 average: '51.66'

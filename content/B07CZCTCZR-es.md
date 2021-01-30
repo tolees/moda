@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Under Armour Sportstyle Logo LS Camiseta  Hombre  Negro  Black/White 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZCTCZR/?tag=tolees-21'
 descuento: '35.68'
 average: '19.29'

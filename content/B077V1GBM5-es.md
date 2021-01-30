@@ -16,6 +16,7 @@ comparePrice: 47.18 EUR
 prodname: 'Kipling Syro  Bolso bandolera para Mujer  Marrón  True Beige   31x22x12.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077V1GBM5/?tag=tolees-21'
 descuento: '55.02'
 average: '21.22'

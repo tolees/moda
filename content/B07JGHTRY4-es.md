@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Pepe Jeans Belair Pl580852 Sudadera    Grey Marl 933   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGHTRY4/?tag=tolees-21'
 descuento: '33.62'
 average: '30.24'

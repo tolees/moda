@@ -16,6 +16,7 @@ comparePrice: 23.2 EUR
 prodname: 'Clarks Pure Mist  Zapatos de Cordones Derby para Mujer  Marrón  Tan Leather Tan Leather   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JPGLY/?tag=tolees-21'
 descuento: '25.30'
 average: '17.33'

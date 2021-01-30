@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Vinmori Chaleco Térmico Eléctrico  Tamaño Lavable  Carga USB Ajustable  Ropa de Abrigo de Invierno Unisex Chaleco Eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWBPLQK/?tag=tolees-21'
 descuento: '84.90'
 average: '30.04'

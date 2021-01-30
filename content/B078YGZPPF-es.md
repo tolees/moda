@@ -16,6 +16,7 @@ comparePrice: 31.66 EUR
 prodname: 'Schiesser Puppy Love Baby Anzug 2-Teilig  Conjuntos de Pijama para Bebés  Rojo  Rosa 503   56 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YGZPPF/?tag=tolees-21'
 descuento: '53.19'
 average: '14.115'

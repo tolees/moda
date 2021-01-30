@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D New Annya A  Zapatos de Tacón para Mujer  Negro  Black C9999   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ3R9CX/?tag=tolees-21'
 descuento: '56.55'
 average: '43.41'

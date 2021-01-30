@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reebok Classic Nylon Zapatilla de Running Hombre  Negro  Black / White   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000AP4D4O/?tag=tolees-21'
 descuento: '53.55'
 average: '32.845000000000006'

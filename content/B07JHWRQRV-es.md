@@ -16,6 +16,7 @@ comparePrice: 16.15 EUR
 prodname: 'PUMA Cup Training Jersey Core Maillot  Hombre  Black/Cyber Yellow  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHWRQRV/?tag=tolees-21'
 descuento: '16.47'
 average: '13.49'

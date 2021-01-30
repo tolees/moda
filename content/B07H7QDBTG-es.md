@@ -16,6 +16,7 @@ comparePrice: 103.85 EUR
 prodname: 'Softinos Evi523sof  Zapatos y Bolsos para Mujer  Pearl Grey 006  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7QDBTG/?tag=tolees-21'
 descuento: '39.12'
 average: '63.22'

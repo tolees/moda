@@ -16,6 +16,7 @@ comparePrice: 66.83 EUR
 prodname: 'Geox M Vincit C Chaqueta Bomber  Verde  Mid Forest F3211   X-Large  Talla del Fabricante: 54  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5HKKFY/?tag=tolees-21'
 descuento: '25.44'
 average: '49.83'

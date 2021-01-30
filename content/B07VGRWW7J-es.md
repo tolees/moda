@@ -16,6 +16,7 @@ comparePrice: 20.33 EUR
 prodname: 'Desigual Mone Rhapsody Zip Around - Monedero para Mujer  2 x 9 5 x 19 cm  Color marrón y Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGRWW7J/?tag=tolees-21'
 descuento: '32.32'
 average: '14.6525'

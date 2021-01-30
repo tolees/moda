@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'HIKARO Chaleco de Plumas con Capucha Hombre  Rojo  Burgundy   48  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Z62GNX/?tag=tolees-21'
 descuento: '40.00'
 average: '27.57'

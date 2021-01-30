@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Camiseta de Baloncesto NBA Chicago Bulls para Hombre Michael Jordan # 23 Retro Basketball Swingman Jersey  Rojo  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4RZW2K/?tag=tolees-21'
 descuento: '32.73'
 average: '14.236666666666666'

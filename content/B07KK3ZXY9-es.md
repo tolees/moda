@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Firecamp SLEDDER 3  Zapatos Multideporte Impermeables para Niños  Gris  Monument  Emper 036   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK3ZXY9/?tag=tolees-21'
 descuento: '69.59'
 average: '18.24'

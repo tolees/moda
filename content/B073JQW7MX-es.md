@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Verde  Khaki   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JQW7MX/?tag=tolees-21'
 descuento: '61.68'
 average: '9.58'

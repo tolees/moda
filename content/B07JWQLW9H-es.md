@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Betties HW Vaqueros Straight  Azul Claro  Archive Bright Denim 000   W31/L28 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWQLW9H/?tag=tolees-21'
 descuento: '85.82'
 average: '13.47'

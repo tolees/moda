@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Kenniston 6 Inch Lace Up  Botas para Mujer  Amarillo  Wheat Nubuck   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0198WK4RY/?tag=tolees-21'
 descuento: '52.51'
 average: '66.49'

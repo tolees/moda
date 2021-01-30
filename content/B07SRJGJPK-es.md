@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J POSEIDO Boy D  Zapatillas para Niños  Azul  Navy/Red C0735   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRJGJPK/?tag=tolees-21'
 descuento: '55.99'
 average: '26.845'

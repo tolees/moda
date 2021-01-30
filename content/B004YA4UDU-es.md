@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Nike M NSW He WR Jkt HD Chaqueta de Deporte  Hombre  Black/Black/Black/ Sail   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004YA4UDU/?tag=tolees-21'
 descuento: '20.07'
 average: '63.94'

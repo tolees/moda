@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Kit Ojetes Metalicos 8mm ManLee 100pcs Ojales Metalicos Acero Inoxidable Ojetes Colores Herramienta de Montaje de Arandela para Manualidad Ropa Zapatos Cuero Costura con Caja de Almacenamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08218VRMX/?tag=tolees-21'
 descuento: '20.01'
 average: '15.99'

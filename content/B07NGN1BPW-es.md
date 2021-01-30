@@ -16,6 +16,7 @@ comparePrice: 7.17 EUR
 prodname: 'Marca Amazon - find. Vestido Largo Estilo Camiseta de Punto Mujer  Verde  Green   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGN1BPW/?tag=tolees-21'
 descuento: '26.08'
 average: '6.18'

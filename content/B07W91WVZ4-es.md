@@ -16,6 +16,7 @@ comparePrice: 43.81 EUR
 prodname: 'Tommy Hilfiger Abstract Stripe tee Camiseta Deporte  Gris  Medium Grey Heather   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W91WVZ4/?tag=tolees-21'
 descuento: '56.04'
 average: '19.26'

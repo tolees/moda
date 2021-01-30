@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Black Diamond Crag Half Finger Gloves - Guantes de Escalada  Via Ferrata y Entrenamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A2Q66BO/?tag=tolees-21'
 descuento: '40.05'
 average: '11.99'

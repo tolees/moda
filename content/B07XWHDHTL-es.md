@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'SKPAT - Maletín Portadocumentos de Mujer. Cartera para Portátil 15". Bolso de Mano Mensajero. Llavero. Lona Estampada y Cuero PU. Muy Práctica. Estilo Elegante. Calidad. 304539  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XWHDHTL/?tag=tolees-21'
 descuento: '15.19'
 average: '41.55'

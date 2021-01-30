@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Parka Hombre BOKER Azul Marino M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XL89F5K/?tag=tolees-21'
 descuento: '30.00'
 average: '70.69999999999999'

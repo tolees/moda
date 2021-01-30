@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Josephs Camiseta   Grey Marl 933   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ47TQ/?tag=tolees-21'
 descuento: '74.92'
 average: '9.365'

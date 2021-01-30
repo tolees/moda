@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Waylon Pm305927 Camisa   Indigo 561   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG7TFXH/?tag=tolees-21'
 descuento: '61.41'
 average: '27.39'

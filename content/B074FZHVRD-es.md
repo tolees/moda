@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Gafas de sol POLARIZADAS VERDSTER TourDePro Para Hombres y Mujeres- Aptos para Conducir  Pescar e Ir en bicicleta - Montura Envolvente Cómoda con Protección UV - Incluye un estuche  funda y un pañuelo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FZHVRD/?tag=tolees-21'
 descuento: '26.71'
 average: '21.95'

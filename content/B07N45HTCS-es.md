@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'United Colors of Benetton Basico 1 Man Abrigo   Negro 100   XX-Large  Talla del Fabricante: EL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N45HTCS/?tag=tolees-21'
 descuento: '62.72'
 average: '33.53'

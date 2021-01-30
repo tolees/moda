@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Doaraha Pantalones Deportivos Mujer Algodón Pantalón de Chándal Largo Elásticos Transpirables con Bolsillos Laterales para Deporte Gimnasio Fitness Correr  Gris Claro  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FD165TC/?tag=tolees-21'
 descuento: '30.68'
 average: '20.79'

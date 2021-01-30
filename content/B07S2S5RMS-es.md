@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Plus Size tee Camiseta  Blanco  Pl 90 s Serif T2 White+ 0085   XX-Large  Talla del Fabricante: 2 x  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2S5RMS/?tag=tolees-21'
 descuento: '32.72'
 average: '16.82'

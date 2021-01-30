@@ -16,6 +16,7 @@ comparePrice: 22990000.0 EUR
 prodname: 'RFID Delgado Billetera de Acero Inoxidable con Tecnología de Bloqueo RFID Que Protege Tus Tarjetas de Crédito y DNI para Tarjetero con 6 Ranuras Ultra Delgad  para Hombre y Mujer.  Ⅰ#Negro-Acero '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWCXFXR/?tag=tolees-21'
 descuento: '100.00'
 average: '10.99'

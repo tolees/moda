@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Gen Vaqueros Straight  Azul  000Denim 000   W24/L34  Talla del Fabricante: 24  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X4SJ3SL/?tag=tolees-21'
 descuento: '45.31'
 average: '46.49'

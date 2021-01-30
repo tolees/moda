@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'FitFlop Lulu Leather Toepost  Sandalias con Plataforma para Mujer  Negro  Black 001   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074HFF48P/?tag=tolees-21'
 descuento: '20.61'
 average: '55.57'

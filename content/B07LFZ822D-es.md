@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J INEK Boy E  Zapatillas Altas para Niños  Azul  Navy/Red C0735   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZ822D/?tag=tolees-21'
 descuento: '46.54'
 average: '32.730000000000004'

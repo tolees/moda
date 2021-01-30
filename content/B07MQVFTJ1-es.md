@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Napapijri Rainforest Winter 1 Chaqueta  Rojo  High Risk Red RA3   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVFTJ1/?tag=tolees-21'
 descuento: '44.77'
 average: '109.91'

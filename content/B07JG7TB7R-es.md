@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Chaplin 1973 Camiseta  Blanco  Optic White 802   10-11 años  Talla del Fabricante: 140/10 años  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG7TB7R/?tag=tolees-21'
 descuento: '39.97'
 average: '17.95'

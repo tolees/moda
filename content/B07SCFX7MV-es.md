@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Mh Plain tee Camiseta de Manga Corta  Hombre  Medium Grey Heather  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCFX7MV/?tag=tolees-21'
 descuento: '61.48'
 average: '9.61'

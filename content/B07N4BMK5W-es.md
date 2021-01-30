@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'United Colors of Benetton Basico 1 Man Chaqueta Punto  Gris  Grigio 507   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4BMK5W/?tag=tolees-21'
 descuento: '52.17'
 average: '20.97'

@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Classic 2 Eye  Náuticos para Hombre  Azul  Dark Blue Nubuck   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1WR1YG/?tag=tolees-21'
 descuento: '21.66'
 average: '91.57249999999999'

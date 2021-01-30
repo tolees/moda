@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Amazon Essentials Sudadera Ligera de Felpa Francesa con Cremallera Completa Fashion-Hoodies  Gris  US L  EU L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYCJF9Z/?tag=tolees-21'
 descuento: '33.12'
 average: '22.07'

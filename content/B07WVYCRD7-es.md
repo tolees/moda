@@ -16,6 +16,7 @@ comparePrice: 37.55 EUR
 prodname: 'Hombres Sandalias Senderismo Verano Zapatillas Trekking Deportivas Casuales Pescador Cuero Playa Zapatos Moda  43 EU  Negro 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVYCRD7/?tag=tolees-21'
 descuento: '45.83'
 average: '20.34'

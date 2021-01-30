@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Camiseta Manga Corta Técnica Vueling Cup Hombre Roja M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X39DNN/?tag=tolees-21'
 descuento: '28.11'
 average: '17.9'

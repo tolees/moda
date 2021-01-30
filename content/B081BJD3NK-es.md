@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Powder Pass Chaqueta con Capucha  Mujer  Rosa  Peach Cloud Ferny Ferns Print   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BJD3NK/?tag=tolees-21'
 descuento: '61.92'
 average: '45.69'

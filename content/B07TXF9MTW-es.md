@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s The tee Camiseta de Manga Corta  Blanco  Floral Filled Batwing White+ 0794   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXF9MTW/?tag=tolees-21'
 descuento: '36.70'
 average: '19.619999999999997'

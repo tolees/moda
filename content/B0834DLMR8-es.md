@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Zapatillas De Deporte Unisex para Niños Zapatillas De Deporte Atléticas Zapatos para Caminar Casuales para Niños Velcro Transpirable Negro-P 27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0834DLMR8/?tag=tolees-21'
 descuento: '53.20'
 average: '21.99'

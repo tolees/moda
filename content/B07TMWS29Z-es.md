@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Adriel Viola  Zapatos de Tacón para Mujer  Beige  Praline Leather Praline Leather   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMWS29Z/?tag=tolees-21'
 descuento: '53.60'
 average: '37.1'

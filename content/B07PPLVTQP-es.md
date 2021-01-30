@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Zapatos de Trabajo Muy cómodos para Trabajos de hostelería y no resbalan-UniseZapatos Casuales Muy cómodos para Trabajos de hostelería y no resbalan-Unisex-adultox-Adulto  35 EU  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPLVTQP/?tag=tolees-21'
 descuento: '48.63'
 average: '17.313333333333333'

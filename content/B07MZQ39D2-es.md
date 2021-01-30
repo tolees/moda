@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Loganne Sudadera   Dulwich 594   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ39D2/?tag=tolees-21'
 descuento: '33.10'
 average: '32.47571428571429'

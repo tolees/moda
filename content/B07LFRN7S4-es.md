@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Adrien A  Zapatos de Cordones Derby para Hombre  Negro  Black C9999   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRN7S4/?tag=tolees-21'
 descuento: '66.35'
 average: '34.269999999999996'

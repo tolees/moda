@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Trefoil tee Camiseta de Manga Corta  Mujer  Future Hydro f10/White  38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TTJQB9/?tag=tolees-21'
 descuento: '39.92'
 average: '14.99'

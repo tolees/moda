@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The tee Camiseta  Blanco  90 s Serif T2 Multicolor White+ 0969   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT6YGDG/?tag=tolees-21'
 descuento: '48.04'
 average: '14.323333333333334'

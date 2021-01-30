@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Jack & Jones Glenn Royal R215 Rdd Ltd Vaqueros  Blue Denim  29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGH72M4/?tag=tolees-21'
 descuento: '73.98'
 average: '33.82'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Azul  Rock Cod 1786   28W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JIVA6RI/?tag=tolees-21'
 descuento: '56.35'
 average: '52.833333333333336'

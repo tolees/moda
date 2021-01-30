@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Challenger III Midlayer  Camiseta de Hombre para Hacer Deporte  indispensable Ropa de Deportes Hombre  Negro  Black/White  001    XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVN7JQ2/?tag=tolees-21'
 descuento: '71.26'
 average: '14.37'

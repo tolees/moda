@@ -16,6 +16,7 @@ comparePrice: 140 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Negro  Black Full Grain   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5DL3F6/?tag=tolees-21'
 descuento: '53.61'
 average: '64.95'

@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Tech Graphic Short Pantalón Corto  Hombre  Gris  Steel/Black 035   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XQMCQM/?tag=tolees-21'
 descuento: '42.69'
 average: '14.95'

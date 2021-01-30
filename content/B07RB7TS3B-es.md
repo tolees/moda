@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Azul oscuro Nocturnal   Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB7TS3B/?tag=tolees-21'
 descuento: '46.34'
 average: '80.48'

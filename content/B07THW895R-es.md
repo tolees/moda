@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Lacoste TF5441 Camiseta  Blanco  Blanc   34 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THW895R/?tag=tolees-21'
 descuento: '32.75'
 average: '36.99'

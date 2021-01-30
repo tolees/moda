@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s HR Decon Iconic BF Skirt Falda  Azul  Meer In The Middle 0009   Talla única  Talla del Fabricante: 23  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4Y1P4/?tag=tolees-21'
 descuento: '51.58'
 average: '35.614000000000004'

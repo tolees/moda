@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ZCFXJiTuanYZ Traje de Deporte al Aire Libre Jersey de equitación Ropa Deportiva de Manga Corta Jersey + Correa Pantalones Cortos Primavera y Verano Transpirable y de Secado rápido Talla S Color YJ901'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BTY7R84/?tag=tolees-21'
 descuento: '18.52'
 average: '48.88'

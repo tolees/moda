@@ -16,6 +16,7 @@ comparePrice: 14.36 EUR
 prodname: 'Silicona De Enfermería De Dentición Lactancia Materna Collar De Mascar Para Bebé - rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M2VII0S/?tag=tolees-21'
 descuento: '51.32'
 average: '6.986666666666667'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Wells A  Zapatillas para Hombre  Negro  Black/Dk Jeans C9b4n   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRMY15/?tag=tolees-21'
 descuento: '48.20'
 average: '51.75'

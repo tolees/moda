@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Iris & Lilly BLIC004 Sujetadores Push up  Azul  Navy Sky   90C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZKV6G9/?tag=tolees-21'
 descuento: '20.01'
 average: '11.99'

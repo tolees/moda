@@ -16,6 +16,7 @@ comparePrice: 12.67 EUR
 prodname: 'Jack & Jones JORRAFAEL Sweat Hood Sudadera con Capucha  Azul  Sea Moss Fit: Slim – Org   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSN84G2/?tag=tolees-21'
 descuento: '29.12'
 average: '8.98'

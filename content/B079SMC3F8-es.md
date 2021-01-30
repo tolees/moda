@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Desigual Nisa TS Camiseta  Gris  Vigore Claro 2042   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SMC3F8/?tag=tolees-21'
 descuento: '25.01'
 average: '29.035'

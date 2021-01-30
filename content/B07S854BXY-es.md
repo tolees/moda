@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband  Zuecos Unisex Adulto  Naranja  Orange/White 846   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S854BXY/?tag=tolees-21'
 descuento: '20.00'
 average: '35.99'

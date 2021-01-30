@@ -16,6 +16,7 @@ comparePrice: 59.4 EUR
 prodname: 'Levi s 310 Shaping Super Skinny  Vaqueros Skinny Mujer  Azul  Summerfest 0043   31W/32L  Talla fabricante: 31W/32L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFF5B7R/?tag=tolees-21'
 descuento: '16.67'
 average: '49.5'

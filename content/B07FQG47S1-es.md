@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'The North Face Sport Jacket Chaqueta Deportiva Thermoball  Mujer  Negro  TNF Black/TNF White   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQG47S1/?tag=tolees-21'
 descuento: '34.22'
 average: '97.34'

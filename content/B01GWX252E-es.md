@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U New Damon B  Mocasines para Hombre  Negro  BLACKC9999   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GWX252E/?tag=tolees-21'
 descuento: '30.04'
 average: '69.58'

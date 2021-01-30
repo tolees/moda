@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Broken Raw 590   W26/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JIVAF5Q/?tag=tolees-21'
 descuento: '70.35'
 average: '35.565'

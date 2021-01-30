@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'New Balance 373 Hook and Loop n  Zapatilla Clásica para Niños  Gris  Steel with Atomic Yellow   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4SNPY5/?tag=tolees-21'
 descuento: '59.91'
 average: '22.05'

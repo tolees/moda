@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES Jcoglobe Parka Abrigos Hombre  Azul China Blue  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4B5FDJ/?tag=tolees-21'
 descuento: '49.99'
 average: '43.975'

@@ -16,6 +16,7 @@ comparePrice: 95 EUR
 prodname: 'Pepe Jeans Venus Pl200029 Vaqueros Straight   Grey Wiser Wash Denim Wu5   W27/L32 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH4P43X/?tag=tolees-21'
 descuento: '65.32'
 average: '32.95'

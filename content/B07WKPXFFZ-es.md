@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Grace Sudadera  Amarillo  031lemon 031   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WKPXFFZ/?tag=tolees-21'
 descuento: '75.52'
 average: '15.91'

@@ -16,6 +16,7 @@ comparePrice: 8.2 EUR
 prodname: 'Jack & Jones JORBROOK Shirt LS Camisa Casual  Multicolor  Sea Moss Fit: Comfort   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGNC46X/?tag=tolees-21'
 descuento: '23.90'
 average: '8.193333333333333'

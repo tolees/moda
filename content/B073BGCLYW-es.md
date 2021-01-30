@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'BaronHong Gynecomastia Compression Shirt Chaleco para Ocultar Hombre Boobs Moobs Slimming Mens Shapewear Aplanar Abdomen Entero  Darkblue  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073BGCLYW/?tag=tolees-21'
 descuento: '80.00'
 average: '12'

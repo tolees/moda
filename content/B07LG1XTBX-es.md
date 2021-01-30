@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Geox U Garret A  Zapatos de Cordones Derby para Hombre  Azul  Navy/Bordeaux C4335   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG1XTBX/?tag=tolees-21'
 descuento: '29.99'
 average: '50.96'

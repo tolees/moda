@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'ATTCL Hombre Gafas de sol Polarizado Al-Mg Metal Super Ligero Marco 18587blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B7BHAWG/?tag=tolees-21'
 descuento: '50.00'
 average: '25.0'

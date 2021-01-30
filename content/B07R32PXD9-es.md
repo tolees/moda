@@ -16,6 +16,7 @@ comparePrice: 114.27 EUR
 prodname: 'Camfosy CAMFOSYUnifr136 - Sandalias Deportivas Mujer  Morado  Morado   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R32PXD9/?tag=tolees-21'
 descuento: '59.47'
 average: '46.31'

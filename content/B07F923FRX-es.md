@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Marvel Grafiti Bolso Bandolera  19 cm  2.85 litros  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F923FRX/?tag=tolees-21'
 descuento: '15.47'
 average: '10.98'

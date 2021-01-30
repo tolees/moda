@@ -16,6 +16,7 @@ comparePrice: 29.62 EUR
 prodname: 'New Look Highwaist Skinny 6055144 Vaqueros  Negro  Black 1   46 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ6XBLD/?tag=tolees-21'
 descuento: '62.86'
 average: '11'

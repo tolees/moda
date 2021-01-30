@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Jimmy Choo Brillengestelle Jc180 Monturas de gafas  Blanco  Weiß   53.0 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DTNT60Y/?tag=tolees-21'
 descuento: '80.92'
 average: '60.846666666666664'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Pimkie PBW18 G-Daim Falda  Marrón  Autres 786A07   38  Talla del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F284GMG/?tag=tolees-21'
 descuento: '54.94'
 average: '11.71'

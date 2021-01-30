@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjeeric Puffer Collar Noos Chaqueta  Rojo  Rot   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4B42SY/?tag=tolees-21'
 descuento: '46.76'
 average: '21.29'

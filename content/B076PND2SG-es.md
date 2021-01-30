@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'MERAKI Anorak Mujer con Cuello Alto  Plateado  Silver   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PND2SG/?tag=tolees-21'
 descuento: '70.00'
 average: '15'

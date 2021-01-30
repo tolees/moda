@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: '52W Lámpara LED UV Uñas para Manicura/Pedicura con 4 Temporizadores  Sensor Automático  Pantalla LCD  Se Ofrecen Guantes Anti-UV '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FS694FF/?tag=tolees-21'
 descuento: '65.16'
 average: '22.99'

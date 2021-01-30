@@ -16,6 +16,7 @@ comparePrice: 66.34 EUR
 prodname: 'Wrangler Texas Vaqueros  Marrón  After Dark X9c   W36/L34  Talla del Fabricante: 36/34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBC8NSR/?tag=tolees-21'
 descuento: '47.27'
 average: '34.98'

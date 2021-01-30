@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Calvin Klein Modern Cotton-Bralette Braguita de bikini  Gris  Grey Heather 020   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SX272VC/?tag=tolees-21'
 descuento: '33.26'
 average: '21.326666666666664'

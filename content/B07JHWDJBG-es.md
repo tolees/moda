@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA Cup Training 1/4 Zip T Core Chaqueta De Entrenamiento  Hombre  Negro Black/Asphalt  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHWDJBG/?tag=tolees-21'
 descuento: '51.59'
 average: '33.355'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Cartera de Cuero Negro Cartera de Piel Billetera de Hombre Carteras Hombre Cuero Monederos de Hombre con Cuero Genuino Diseño de Doble Pliegue Hombre con Caja de Regalo  WA-02 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLQ46FD/?tag=tolees-21'
 descuento: '70.01'
 average: '14.99'

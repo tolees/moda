@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'edc by Esprit 098cc1k014 Camisa Manga Larga  Rojo  Red 630   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DS1YM9Q/?tag=tolees-21'
 descuento: '60.02'
 average: '10.39'

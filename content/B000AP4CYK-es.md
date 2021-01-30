@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reebok Classic Nylon Zapatilla de Running Hombre  Grigio  Grau  Platinum/Jet Blue    38.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000AP4CYK/?tag=tolees-21'
 descuento: '77.18'
 average: '24.115000000000002'

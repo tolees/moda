@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Classic Laser Cut Low Rise - tanga Mujer  Azul  Navy   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJTY37R/?tag=tolees-21'
 descuento: '30.02'
 average: '10.49'

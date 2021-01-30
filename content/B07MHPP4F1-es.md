@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'LTB Jeans Valerie Vaqueros Corte de Bota  Azul  Nome Wash 51895   24W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHPP4F1/?tag=tolees-21'
 descuento: '55.10'
 average: '31.41'

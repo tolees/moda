@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'LJP Funda Huawei Honor 8X  Suave PU Cuero Carcasa y TPU Funda Interna  Color Flip Wallet Case Cover para Huawei Honor 8X  Billetera Magnético con Función de Soporte  Ranuras para Tarjetas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CBW9RK4/?tag=tolees-21'
 descuento: '30.94'
 average: '7.59'

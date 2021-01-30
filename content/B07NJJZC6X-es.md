@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Tamaris 1-1-25425-23  Botines para Mujer  Negro  Black Comb 98   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJJZC6X/?tag=tolees-21'
 descuento: '77.11'
 average: '16.01'

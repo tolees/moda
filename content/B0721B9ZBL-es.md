@@ -16,6 +16,7 @@ comparePrice: 64.7 EUR
 prodname: 'Teva Hurricane Xlt2  Sandalias de Punta Descubierta para Hombre  Negro  Black Blk   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721B9ZBL/?tag=tolees-21'
 descuento: '18.10'
 average: '52.99'

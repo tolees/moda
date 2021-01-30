@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Saco Universal Invierno para Silla de Paseo  laamei Saco de Dormir Térmico Manta de Algodón Cálido Cubrepiernas Abrigo a Prueba de Viento para Capazo  Carrito  Cochecitos de Bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5KSV6R/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

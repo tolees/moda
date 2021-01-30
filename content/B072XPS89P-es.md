@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'JACK & JONES Jjiliam Jjoriginal Am 502 Lid STS Vaqueros Skinny  Negro  Black Denim   W27/L30  Talla del Fabricante: 27  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072XPS89P/?tag=tolees-21'
 descuento: '41.67'
 average: '34.99'

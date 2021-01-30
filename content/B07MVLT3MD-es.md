@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Napapijri DROZ Jersey  Azul  CLEMATIS BLUE VB1   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVLT3MD/?tag=tolees-21'
 descuento: '55.00'
 average: '37.57'

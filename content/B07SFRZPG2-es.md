@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Helly Hansen HH Logo Crew Sudadera Deportiva  para Hombres  Royal Blue  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFRZPG2/?tag=tolees-21'
 descuento: '55.08'
 average: '32.97'

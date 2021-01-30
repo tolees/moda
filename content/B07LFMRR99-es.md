@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Levi s HR Decon Iconic BF Skirt Falda  Gris  Snakehead 0002   Talla única  Talla del Fabricante: 24  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFMRR99/?tag=tolees-21'
 descuento: '60.08'
 average: '32.45'

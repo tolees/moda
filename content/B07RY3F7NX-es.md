@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Nike W Nk Swoosh Run Top SS Camiseta de Manga Corta  Mujer  Pink Quartz/White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY3F7NX/?tag=tolees-21'
 descuento: '24.75'
 average: '17.3'

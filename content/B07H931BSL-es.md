@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Reggae Slim-Slip Spliced  Sandalias de Talón Abierto para Mujer  Negro  Black Blk   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H931BSL/?tag=tolees-21'
 descuento: '39.42'
 average: '31.055'

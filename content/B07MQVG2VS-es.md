@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Napapijri SOVES Camiseta  Gris  Med Grey Mel 160   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVG2VS/?tag=tolees-21'
 descuento: '60.00'
 average: '15.6'

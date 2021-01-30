@@ -16,6 +16,7 @@ comparePrice: 59.4 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Orinda 2988  38W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9FTQS6/?tag=tolees-21'
 descuento: '16.67'
 average: '49.5'

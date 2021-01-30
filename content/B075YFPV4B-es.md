@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Sportout Iños y Adolescentes Adultos Guantes de Portero de Futbol Proporciona un Agarre Poderoso Protege tus Dedos de lesiones Antideslizante  Material de Látex Excelente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075YFPV4B/?tag=tolees-21'
 descuento: '32.66'
 average: '22.89'

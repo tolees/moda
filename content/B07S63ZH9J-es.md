@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Crocs Classic Clog K  Zuecos Unisex Niños  Naranja  Cantaloupe   23/24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S63ZH9J/?tag=tolees-21'
 descuento: '20.01'
 average: '21.59'

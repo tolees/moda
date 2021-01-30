@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Bluelover Cebolla Goggles Gafas Rebanar Cocina Corte Picar Picado Ojo Proteja Cebolla Gafas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B1FD42I/?tag=tolees-21'
 descuento: '25.58'
 average: '6.69'

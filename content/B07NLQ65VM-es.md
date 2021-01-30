@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'adidas AB H JSY Perf J Camiseta  Unisex niños  Negro  3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLQ65VM/?tag=tolees-21'
 descuento: '29.98'
 average: '83.99'

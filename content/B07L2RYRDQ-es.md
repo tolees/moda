@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Columbia Silver Ridge II Cargo Short Pantalón Corto  Nailon  Hombre  Negro  Black   Talla US: W34/L12/  EU W44/L12 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L2RYRDQ/?tag=tolees-21'
 descuento: '50.92'
 average: '29.323333333333334'

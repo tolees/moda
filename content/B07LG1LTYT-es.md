@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D New ANNYA Mid A  Zapatos con Tacón para Mujer  Azul  Navy C4002   39 5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG1LTYT/?tag=tolees-21'
 descuento: '77.12'
 average: '28.014545454545456'

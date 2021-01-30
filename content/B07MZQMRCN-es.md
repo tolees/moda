@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Spike Vaqueros Straight  Azul  Medium Used Powerflex Denim 000   29W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQMRCN/?tag=tolees-21'
 descuento: '81.42'
 average: '17.65'

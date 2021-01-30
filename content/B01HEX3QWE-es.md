@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'opel-r elegante exterior bici en gafas de sol polarizadas TR90 – Material resistente al impacto gafas de sol Para Ciclismo/Deportes//Contiene Lentes de cinco  bright black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HEX3QWE/?tag=tolees-21'
 descuento: '25.87'
 average: '23.490000000000002'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Maritsa Lara  Sandalias de Talón Abierto para Mujer  Beige  Sage Nubuck Sage Nubuck   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLSVB6Z/?tag=tolees-21'
 descuento: '59.55'
 average: '40.43'

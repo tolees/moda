@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Down Dehon Pkbl Puffer Chaqueta  Multicolor  Apricot 0002   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYN9VY2/?tag=tolees-21'
 descuento: '70.04'
 average: '47.61666666666667'

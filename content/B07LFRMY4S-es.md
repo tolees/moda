@@ -16,6 +16,7 @@ comparePrice: 115 EUR
 prodname: 'Geox U Kristof A  Zapatillas para Hombre  Negro  Black C9999   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRMY4S/?tag=tolees-21'
 descuento: '66.95'
 average: '38.01'

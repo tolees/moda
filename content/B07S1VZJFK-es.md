@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'BOSS Wetech Sudadera  Azul  Dark Blue 404   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1VZJFK/?tag=tolees-21'
 descuento: '79.29'
 average: '28.99'

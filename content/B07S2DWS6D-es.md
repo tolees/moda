@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Esprit 999ee1b803 Vaqueros Slim  Negro  Black 001   W28/L30  Talla del Fabricante: 28/30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2DWS6D/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

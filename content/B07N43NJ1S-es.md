@@ -16,6 +16,7 @@ comparePrice: 109 EUR
 prodname: 'Tommy Hilfiger Organic Cotton Silk V Neck Sudadera   Pine Grove Heather Mq5   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N43NJ1S/?tag=tolees-21'
 descuento: '59.74'
 average: '43.88'

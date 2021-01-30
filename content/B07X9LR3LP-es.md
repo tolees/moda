@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LIGE Relojes Hombre Negro Casual Minimalista Impermeable Cuarzo Reloj Correa Malla de Acero Inoxidable Vestido Negocios Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9LR3LP/?tag=tolees-21'
 descuento: '66.67'
 average: '29.99'

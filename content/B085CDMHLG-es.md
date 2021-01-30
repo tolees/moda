@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Elover UV Lámpara de Desinfección para Teléfono Ultravioleta Luz Germicida UV Lámpara de Esterilización Desinfectar para Reloj  Joyería  Gafas  Herramientas de Maquillaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085CDMHLG/?tag=tolees-21'
 descuento: '50.03'
 average: '19.32333333333333'

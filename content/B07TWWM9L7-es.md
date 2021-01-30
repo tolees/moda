@@ -16,6 +16,7 @@ comparePrice: 50.7 EUR
 prodname: 'New Look Maisie Fitted Puffer  Abrigo Mujer  Gris  Dark Grey 3   36  Talla fabricante: 8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWWM9L7/?tag=tolees-21'
 descuento: '42.88'
 average: '28.96'

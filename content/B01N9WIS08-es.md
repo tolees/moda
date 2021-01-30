@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger SS tee Print Top de pijama  Weiß  White 100   Large  Talla del fabricante: LG  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9WIS08/?tag=tolees-21'
 descuento: '36.49'
 average: '18.99'

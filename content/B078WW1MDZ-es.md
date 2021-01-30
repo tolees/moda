@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'PUMA Liga CR Jr Camiseta de Fútbol  Unisex Niños  Negro Black/White   140'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WW1MDZ/?tag=tolees-21'
 descuento: '25.87'
 average: '9.6'

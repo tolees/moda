@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'LSERVER Chaqueta de Otoño e Invierno para Niña Acolchada Abrigo Acolchado con Capucha Gruesa y Caliente  Gris  120'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075WWV69S/?tag=tolees-21'
 descuento: '31.92'
 average: '31.99'

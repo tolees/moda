@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Monkey Caged  Zapatos de Playa y Piscina para Niños  Azul  Blue/Grey/Blue Xbsb   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYC1LZW/?tag=tolees-21'
 descuento: '41.68'
 average: '17.49'

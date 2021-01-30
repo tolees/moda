@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri Burgee Sweatshirt Sudadera  Gris  Med Grey Mel 160   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079K3FWF3/?tag=tolees-21'
 descuento: '55.00'
 average: '47.6575'

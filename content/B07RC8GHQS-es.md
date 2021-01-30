@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Columbia Timberturner Chaqueta  Hombre  Blanco  White/Collegiate Navy   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8GHQS/?tag=tolees-21'
 descuento: '47.05'
 average: '105.89'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Multilicense College MC DS Stars PJ Conjuntos de Pijama  Beige  Crudo 96   X-Small  Tamaño del Fabricante: XS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXCDQF/?tag=tolees-21'
 descuento: '51.38'
 average: '14.58'

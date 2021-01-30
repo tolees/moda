@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Napapijri TERRES Sudadera  Verde  Green Forest 2 Ge3   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFRWJY/?tag=tolees-21'
 descuento: '49.65'
 average: '64.95'

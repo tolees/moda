@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Skinny Jeans Vaqueros  Azul  Dark Indigo X1e   30W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWNL8W/?tag=tolees-21'
 descuento: '49.99'
 average: '44.98'

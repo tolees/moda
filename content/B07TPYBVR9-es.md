@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Hero  Zapatos de Cordones Brogue para Mujer  Negro  Black Leather Black Leather   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYBVR9/?tag=tolees-21'
 descuento: '79.66'
 average: '20.33'

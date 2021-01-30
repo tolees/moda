@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'edc by Esprit 099cc1k044 Camiseta sin Mangas  Verde  Khaki Green 350   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VN6GHWG/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

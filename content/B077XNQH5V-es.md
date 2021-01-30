@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Vanish Seamless Short Sleeve Camiseta  Hombre  Azul  Academy/Graphite 408   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XNQH5V/?tag=tolees-21'
 descuento: '55.80'
 average: '19.89'

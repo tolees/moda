@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Speedo 8082108137 Gafas de Natación  Unisex  Negro  Cromo Oscuro   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007RNRII0/?tag=tolees-21'
 descuento: '27.16'
 average: '39.45333333333333'

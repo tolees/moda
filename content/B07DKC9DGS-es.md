@@ -16,6 +16,7 @@ comparePrice: 15.94 EUR
 prodname: 'PUMA Active Camiseta  Hombre  Azul  Peacoat   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKC9DGS/?tag=tolees-21'
 descuento: '21.64'
 average: '12.49'

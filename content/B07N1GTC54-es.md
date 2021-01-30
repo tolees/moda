@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Griffin Lane  Zapatos de Cordones Derby para Mujer  Marrón  Burgundy Suede Burgundy Suede   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GTC54/?tag=tolees-21'
 descuento: '35.74'
 average: '44.95'

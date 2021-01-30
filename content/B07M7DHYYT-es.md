@@ -16,6 +16,7 @@ comparePrice: 41.39 EUR
 prodname: 'Hackett Bengal Str KS Camisa   Blue 551   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7DHYYT/?tag=tolees-21'
 descuento: '27.04'
 average: '30.2'

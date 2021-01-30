@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'G-STAR RAW Graphic 18 Mysid Slim Camiseta  Beige  Milk 111   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ4LB1N/?tag=tolees-21'
 descuento: '64.81'
 average: '10.54'

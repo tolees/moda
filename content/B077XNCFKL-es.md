@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Armour Fleece Full Zip Sudadera con Capucha  Hombre  Gris  Steel Light Heather/Black 035   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XNCFKL/?tag=tolees-21'
 descuento: '42.82'
 average: '31.9'

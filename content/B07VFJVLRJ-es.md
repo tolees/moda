@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LIGE Relojes para Hombre Deportivo Impermeable Cuarzo Analógico para Hombre Prueba de Agua para Hombre Cronógrafo Dial Grande Moda Militar Reloj de Pulsera para Caballero de Cuero Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFJVLRJ/?tag=tolees-21'
 descuento: '63.34'
 average: '32.99'

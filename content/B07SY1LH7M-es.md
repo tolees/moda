@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Sandal Hiver B  Sandalias con Tira Vertical para Mujer  Blanco  White C1000   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SY1LH7M/?tag=tolees-21'
 descuento: '73.88'
 average: '23.48'

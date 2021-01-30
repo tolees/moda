@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Lacoste TH6709  Camiseta para Hombre  Negro  Noir   XS  Talla del fabricante: 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LDFT5D/?tag=tolees-21'
 descuento: '42.82'
 average: '33.2'

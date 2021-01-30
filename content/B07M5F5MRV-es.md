@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Wrangler LS Western Shirt Camisa  Rojo  Red X47   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F5MRV/?tag=tolees-21'
 descuento: '50.24'
 average: '29.83'

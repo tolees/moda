@@ -16,6 +16,7 @@ comparePrice: 120.9 EUR
 prodname: 'Trangoworld Manaslu Pantalón Largo  Hombre  Antracita/Rojo Volcán  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D61NMCC/?tag=tolees-21'
 descuento: '53.28'
 average: '55.40666666666667'

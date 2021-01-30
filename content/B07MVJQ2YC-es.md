@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Kipling Eleva  Bolso con Bandolera para Mujer  Gris  Chalk Grey   31x33x12 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJQ2YC/?tag=tolees-21'
 descuento: '50.00'
 average: '44.5'

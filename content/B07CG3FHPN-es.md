@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Azul  Medium Blue Denim Fit:Slim   Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CG3FHPN/?tag=tolees-21'
 descuento: '41.26'
 average: '23.49'

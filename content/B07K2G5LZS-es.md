@@ -16,6 +16,7 @@ comparePrice: 143.33 EUR
 prodname: 'Timberland Nellie Double Waterproof  Zapatillas Chukka para Mujer  Verde  Dark Green Nubuck   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2G5LZS/?tag=tolees-21'
 descuento: '52.13'
 average: '45.3'

@@ -16,6 +16,7 @@ comparePrice: 41.44 EUR
 prodname: 'Calvin Klein Low Rise Trunk 3pk  Bóxer Hombre  Multicolor  JUNGLE LEAF/ SOOT/ ORANGE W. WHT WB LFW   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPYC4KJ/?tag=tolees-21'
 descuento: '34.87'
 average: '26.99'

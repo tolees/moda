@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Gris  Sage Nubuck-   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQV5N8Y/?tag=tolees-21'
 descuento: '60.20'
 average: '42.97833333333333'

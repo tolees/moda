@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Rieker Mujer Sandalias de Vestir 62461  señora Sandalias de cuña  Zapatos del Verano cómodo tacón Alto Schwarz/Schwarz / 00 40 EU / 6.5 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GEECFOA/?tag=tolees-21'
 descuento: '19.67'
 average: '48.16'

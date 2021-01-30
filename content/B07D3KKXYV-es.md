@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Marca Amazon - IRIS & LILLY BELK315M2  Legging para Mujer  pack de 2  Negro  Black   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3KKXYV/?tag=tolees-21'
 descuento: '15.01'
 average: '16.14'

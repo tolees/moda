@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Under Armour UA Tormenta Pantalón  Hombre  Black  001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0785FQSGF/?tag=tolees-21'
 descuento: '70.73'
 average: '17.56'

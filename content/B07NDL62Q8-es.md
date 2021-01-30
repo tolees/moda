@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Remi Boyfriend Blusa  Rosa  Dk Tea Rose A827   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL62Q8/?tag=tolees-21'
 descuento: '75.52'
 average: '24.47'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjeeric Puffer Collar Noos Chaqueta  Gris  Asphalt Asphalt   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z49M8RW/?tag=tolees-21'
 descuento: '22.11'
 average: '31.15'

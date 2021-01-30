@@ -16,6 +16,7 @@ comparePrice: 14.75 EUR
 prodname: 'Guantes para mujer con estampado de leopardo  piel sintética  sin dedos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009DFPHLU/?tag=tolees-21'
 descuento: '32.34'
 average: '9.98'

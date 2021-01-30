@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Lacoste Sport Th4865 Camiseta  Azul  Cosmique/Blanc Emj   X-Small  Talla del Fabricante: 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THFXPP2/?tag=tolees-21'
 descuento: '30.10'
 average: '34.95'

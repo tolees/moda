@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver Molokai Abyss  Zapatos de Playa y Piscina para Niños  Verde  Green/Black/Green Xgkg   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYDDFVP/?tag=tolees-21'
 descuento: '50.23'
 average: '9.95'

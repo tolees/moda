@@ -16,6 +16,7 @@ comparePrice: 38.33 EUR
 prodname: 'Tommy Hilfiger Rope Stripe tee Camiseta Deporte  Blanco  White   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W91WJHS/?tag=tolees-21'
 descuento: '66.61'
 average: '12.8'

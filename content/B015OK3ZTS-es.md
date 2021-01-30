@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PUMA PURECAT  Sandalias deslizantes Unisex Adulto  Azul  Peacoat/White   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015OK3ZTS/?tag=tolees-21'
 descuento: '24.28'
 average: '11.876666666666667'

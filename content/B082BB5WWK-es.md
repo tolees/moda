@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Chaqueta Softshell Hombre Tyreek'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BB5WWK/?tag=tolees-21'
 descuento: '30.00'
 average: '67.86666666666667'

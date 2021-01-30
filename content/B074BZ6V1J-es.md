@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Hatch  Vaqueros Slim para Hombre  Negro  11Oz Stay Black S92   W32/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074BZ6V1J/?tag=tolees-21'
 descuento: '42.44'
 average: '45.99'

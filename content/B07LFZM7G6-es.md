@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D ANNYTAH C  Bailarinas para Mujer  Marrón  Chestnut C6004   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZM7G6/?tag=tolees-21'
 descuento: '70.39'
 average: '26.62'

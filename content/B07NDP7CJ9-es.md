@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'G-STAR RAW Graphic 9 Slim Round Neck Camiseta  Blanco  White 110   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDP7CJ9/?tag=tolees-21'
 descuento: '69.60'
 average: '10.64'

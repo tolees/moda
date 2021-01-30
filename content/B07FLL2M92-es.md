@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'David Jones - Bolso de Mano Trabajo Mujer - Shopper Tote Bag PU Piel - Grande Bolso Bandolera Hombro Cuero Asa Superior - Maletines A4 Diario Vida Satchel Mensajero Oficina Escuela - Rojo Burdeos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLL2M92/?tag=tolees-21'
 descuento: '42.67'
 average: '34.39'

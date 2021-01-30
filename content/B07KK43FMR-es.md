@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Fire Venture L II WP  Zapatos de Senderismo para Mujer  Gris  Shark  Wild IRI 011   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK43FMR/?tag=tolees-21'
 descuento: '71.72'
 average: '31.11'

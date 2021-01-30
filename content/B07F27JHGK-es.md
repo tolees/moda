@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Big and Tall B&t Graphic tee Camiseta  Blanco  Big Logo Stripe White 0003   XXXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F27JHGK/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Botas de Nieve Hombre Antideslizante Invierno Botines Calientes Trekking Aire Libre Zapatos Negro 43'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQFL4N9/?tag=tolees-21'
 descuento: '57.38'
 average: '16.19'

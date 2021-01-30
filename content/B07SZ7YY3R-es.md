@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox U Nebula Y A  Zapatillas para Hombre  Azul  Lt AVI O C4348   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZ7YY3R/?tag=tolees-21'
 descuento: '66.57'
 average: '43.42'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Rebel Bold tee Camiseta  Hombre  Burnt Olive  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8PD9ZP/?tag=tolees-21'
 descuento: '37.39'
 average: '12.49'

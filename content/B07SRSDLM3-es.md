@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Taormina F  Sandalias con Punta Abierta para Mujer  Marrón  Cognac C6001   38 5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRSDLM3/?tag=tolees-21'
 descuento: '50.00'
 average: '49.95'

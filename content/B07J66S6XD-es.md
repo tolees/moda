@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lee Extreme Motion Straight Vaqueros  Azul  Maddox PU   32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J66S6XD/?tag=tolees-21'
 descuento: '15.00'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Linvale Jerica  Zapatos de Tacón para Mujer  Azul  Navy Leather   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B94YFC7/?tag=tolees-21'
 descuento: '49.76'
 average: '40.17'

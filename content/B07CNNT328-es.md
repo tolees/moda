@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'Diesel UMLT-JAKE  Camiseta para Hombre  Negro  Black 900/0darx   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNNT328/?tag=tolees-21'
 descuento: '37.17'
 average: '21.99'

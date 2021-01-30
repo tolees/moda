@@ -16,6 +16,7 @@ comparePrice: 32.57 EUR
 prodname: 'Reef Phantoms  Sandalias Flip-Flop para Hombre  Negro  Black   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZUYESWM/?tag=tolees-21'
 descuento: '31.23'
 average: '20.263333333333332'

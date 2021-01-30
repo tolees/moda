@@ -16,6 +16,7 @@ comparePrice: 10.86 EUR
 prodname: 'Pepe Jeans Mada Camiseta   Grey Marl 933   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPSGX4/?tag=tolees-21'
 descuento: '16.57'
 average: '10.1225'

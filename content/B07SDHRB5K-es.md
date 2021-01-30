@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Verde  Deep Green 3tj   19/20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDHRB5K/?tag=tolees-21'
 descuento: '66.73'
 average: '8.98'

@@ -16,6 +16,7 @@ comparePrice: 42.5 EUR
 prodname: 'ISTON - Maquinilla de afeitar eléctrica para mujer  recargable en húmedo y seco  sin dolor  para mujer  afeitadora de vello corporal  para rostro  piernas  axilas y bikini  inalámbrica  resistente al agua  afeitadora de pelo con luz LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CSLWRZX/?tag=tolees-21'
 descuento: '32.92'
 average: '28.51'

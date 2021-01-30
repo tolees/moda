@@ -16,6 +16,7 @@ comparePrice: 43.95 EUR
 prodname: 'Charles Wilson Original Sudadera de Hombre Algodón Premium Capucha Cremallera  X-Small  Light Grey  0819  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSXJ6ZK/?tag=tolees-21'
 descuento: '38.68'
 average: '26.95'

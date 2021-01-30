@@ -16,6 +16,7 @@ comparePrice: 55.7 EUR
 prodname: 'Marca Amazon - TRUTH & FABLE Vestido Mujer Multiposición  Rojo  Burgundy   44  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ35LDV/?tag=tolees-21'
 descuento: '32.14'
 average: '37.8'

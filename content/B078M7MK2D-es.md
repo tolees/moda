@@ -16,6 +16,7 @@ comparePrice: 59.88 EUR
 prodname: 'NEEGO Bolsillo Lateral de la Consola con Monedero y Portavasos Organizador de Asiento de Carro Caddy Slit Gap Rellenador Cuero de PU 2 Lados  Lzquierda y Derecha '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078M7MK2D/?tag=tolees-21'
 descuento: '49.92'
 average: '29.99'

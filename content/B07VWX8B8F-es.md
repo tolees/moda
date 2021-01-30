@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Garrett Sudadera con Capucha  Rojo  Brick 262   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWX8B8F/?tag=tolees-21'
 descuento: '60.00'
 average: '30.0'

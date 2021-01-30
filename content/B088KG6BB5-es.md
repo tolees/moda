@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Suhctup Funda Compatible con iPhone 7/8/SE2 Antigolpes Carcasa Bumper Transparente [Protección Esquina] Silicona TPU Gel Ultra-Delgado Moda Dibujo Anti-Choque Estuche Case Flamenco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088KG6BB5/?tag=tolees-21'
 descuento: '52.71'
 average: '8.98'

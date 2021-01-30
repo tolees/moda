@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'KATOOM Guantes Bebé Algodón 6 pares Guantes Antiarañazos para Baby Ajustable Respirable Suave Cómodos Azul Amarillo Rosa Abrigar las Manos Protección de Rasguño Viento y Sol en Aire Libre Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW5XD1M/?tag=tolees-21'
 descuento: '55.13'
 average: '8.97'

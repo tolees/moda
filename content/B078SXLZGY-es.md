@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Timberland Malibu Waves Thong  Sandalias para Mujer  Negro  Black Full Grain   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SXLZGY/?tag=tolees-21'
 descuento: '36.38'
 average: '50.9'

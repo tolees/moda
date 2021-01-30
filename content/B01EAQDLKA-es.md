@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Halti Collar  8" - 12" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EAQDLKA/?tag=tolees-21'
 descuento: '50.06'
 average: '3.99'

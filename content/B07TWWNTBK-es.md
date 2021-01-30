@@ -16,6 +16,7 @@ comparePrice: 39.67 EUR
 prodname: 'New Look Aw19 Piper Abrigo  Negro  Black 1   38  Talla del Fabricante: 10  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWWNTBK/?tag=tolees-21'
 descuento: '44.54'
 average: '22.0'

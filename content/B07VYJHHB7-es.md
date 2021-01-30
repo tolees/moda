@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Bolso Bowling Pepe Jeans ANN Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYJHHB7/?tag=tolees-21'
 descuento: '29.99'
 average: '49.0'

@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'ESPRIT Collection 109eo1g002 Abrigo  Negro  Black 001   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFTR6HM/?tag=tolees-21'
 descuento: '60.63'
 average: '62.99'

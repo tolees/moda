@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Volcom Rocker 2 SNDL Zehentrenner  Chanclas para Hombre  Gris  Grey Combo   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0741MGNMT/?tag=tolees-21'
 descuento: '56.11'
 average: '11.137500000000001'

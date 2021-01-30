@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Napapijri Rainforest Winter  Chaqueta para Hombre  Rojo  Red Bourgogne R69   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JWM8ZR/?tag=tolees-21'
 descuento: '54.02'
 average: '91.5'

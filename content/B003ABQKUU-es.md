@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Havaianas Brasil  Chanclas Unisex Adulto  Azul  Brasil Logo Marine Blue   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ABQKUU/?tag=tolees-21'
 descuento: '78.31'
 average: '3.5033333333333334'

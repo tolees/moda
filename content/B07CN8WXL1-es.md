@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Baya  Zuecos Unisex Adulto  Azul  Pool   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN8WXL1/?tag=tolees-21'
 descuento: '30.11'
 average: '27.95'

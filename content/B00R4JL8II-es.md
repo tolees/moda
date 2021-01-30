@@ -16,6 +16,7 @@ comparePrice: 23.66 EUR
 prodname: 'Izas Jalan Chaqueta polar  Mujer  Lima/ Turquesa  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R4JL8II/?tag=tolees-21'
 descuento: '66.23'
 average: '7.99'

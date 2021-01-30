@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Birkenstock Milano Birko-Flor Wide  Sandalias con Correa de Tobillo para Hombre  Marrón  Brun Foncé Brun Foncé   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QDTSQ8/?tag=tolees-21'
 descuento: '26.94'
 average: '58.45'

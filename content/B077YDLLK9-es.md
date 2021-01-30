@@ -16,6 +16,7 @@ comparePrice: 22.91 EUR
 prodname: 'HIKARO Sudadera con Print Mujer  Azul  Navy   40  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YDLLK9/?tag=tolees-21'
 descuento: '64.69'
 average: '8.09'

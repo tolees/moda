@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Gafas de Natación para Niños  2 Paquete  - Júnior Gafas de Natación - Piscina gafas para Niños  Niñas - Protección UV  Anti Niebla  Sin Fugas  Impermeables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CJTISNU/?tag=tolees-21'
 descuento: '17.66'
 average: '14.49'

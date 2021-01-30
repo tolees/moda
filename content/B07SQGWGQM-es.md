@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox D Sandal Vega A  Sandalia con Pulsera para Mujer  Beige  Taupe C6029   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGWGQM/?tag=tolees-21'
 descuento: '36.60'
 average: '50.66'

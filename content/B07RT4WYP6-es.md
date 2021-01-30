@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Vestido Vintage para Muejeres Mangas Corta Cuello V de Fiesta Cóctel Rockabilly Clásico 2XL CL011020-6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT4WYP6/?tag=tolees-21'
 descuento: '27.79'
 average: '25.99'

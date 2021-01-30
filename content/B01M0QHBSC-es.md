@@ -16,6 +16,7 @@ comparePrice: 18.13 EUR
 prodname: 'Levi s Levis 200SF Vintage Stripe 0312 Boxer Brief  Pantalones para Hombre  Azul  Mid Denim 824   Talla del Fabricante: Medium   Pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0QHBSC/?tag=tolees-21'
 descuento: '31.05'
 average: '13.983333333333333'

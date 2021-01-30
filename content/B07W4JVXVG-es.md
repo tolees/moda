@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Only Onlally Boucle Wool Coat CC Otw Abrigo  Azul  Peacoat Detail: Melange   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4JVXVG/?tag=tolees-21'
 descuento: '75.77'
 average: '21.075'

@@ -16,6 +16,7 @@ comparePrice: 39 EUR
 prodname: 'Canadian Peak - Sudadera para Hombre Turquesa L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDXXNH2/?tag=tolees-21'
 descuento: '30.00'
 average: '27.3'

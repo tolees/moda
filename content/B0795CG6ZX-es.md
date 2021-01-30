@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Liga Jersey T-Shirt  Hombre  Silver Lake Blue White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0795CG6ZX/?tag=tolees-21'
 descuento: '34.89'
 average: '12.99'

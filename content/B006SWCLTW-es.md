@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Helly Hansen W Seven J Chaqueta  Mujer  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006SWCLTW/?tag=tolees-21'
 descuento: '27.33'
 average: '73.65'

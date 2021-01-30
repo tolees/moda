@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Liga Jersey Camiseta  Hombre  Negro  Black/White   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WWTMHR/?tag=tolees-21'
 descuento: '50.83'
 average: '9.695'

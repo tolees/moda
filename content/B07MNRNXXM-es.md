@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Ivy Vaqueros  Negro  Black Rinse 47   28W / 33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNRNXXM/?tag=tolees-21'
 descuento: '38.31'
 average: '55.49'

@@ -16,6 +16,7 @@ comparePrice: 21 EUR
 prodname: 'Vans VN0A3I6C - Billetera de Sintético hombre Rojo Rojo  HIBISCUS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHT2LP7/?tag=tolees-21'
 descuento: '28.57'
 average: '15'

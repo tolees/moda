@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'URAQT Vestido de Princesa Elsa  Reina Frozen Disfraz Elsa Vestido Infantil Niñas Costume Azul Cosplay de Disney Disfraz de Halloween  Cumpleaños  Carnaval y la Fiesta  110  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D82QUZA/?tag=tolees-21'
 descuento: '16.01'
 average: '20.99'

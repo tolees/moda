@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'JACK & JONES Jcovally tee SS Crew Neck Camiseta  Blanco  White Fit: Slim   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC2MBNQ/?tag=tolees-21'
 descuento: '67.93'
 average: '5.77'

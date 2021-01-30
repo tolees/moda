@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Helly Hansen Seven J Chaqueta impermeable con forro de secado rápido  cortaviento y transpirable para hombre y para uso diario  Azul  Marino   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XH8CJJP/?tag=tolees-21'
 descuento: '61.95'
 average: '60.39333333333334'

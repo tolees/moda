@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Eastpak Rusher Bolso bandolera  23 cm  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XJQ4NK/?tag=tolees-21'
 descuento: '33.37'
 average: '17.558'

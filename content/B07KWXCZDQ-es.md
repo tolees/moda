@@ -16,6 +16,7 @@ comparePrice: 59.88 EUR
 prodname: 'SMARTEN Air Zapatillas de Running Hombre Mujer Calzado Deportivo Ligero y Transpirable Asfalto Zapatos para Correr Antideslizante Sneakers Negro  Blanco  Amarillo  Azul  Rosa Black White 39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWXCZDQ/?tag=tolees-21'
 descuento: '43.42'
 average: '33.88'

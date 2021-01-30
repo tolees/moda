@@ -16,6 +16,7 @@ comparePrice: 21.55 EUR
 prodname: 'uhlsport Match Classic De Mujer Chaqueta De Entrenamiento  Azul Marino/Blanco  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J3QTK8K/?tag=tolees-21'
 descuento: '53.64'
 average: '9.99'

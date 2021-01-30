@@ -16,6 +16,7 @@ comparePrice: 11.16 EUR
 prodname: 'HAWKERS KIDS · LACMA · Black Silver · Dark · Gafas de sol para niños y niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRD6CV7/?tag=tolees-21'
 descuento: '15.32'
 average: '11.533333333333333'

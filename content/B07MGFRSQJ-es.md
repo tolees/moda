@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Napapijri Aric Chaqueta  Negro  Black 041   XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFRSQJ/?tag=tolees-21'
 descuento: '72.09'
 average: '97.4'

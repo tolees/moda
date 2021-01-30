@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Azul  Prewash 95977 0181   36W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F27YN9T/?tag=tolees-21'
 descuento: '41.48'
 average: '46.46'

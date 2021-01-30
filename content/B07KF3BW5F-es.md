@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Rosa  Sptwr Logo Color Pink Lady 0723   2XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF3BW5F/?tag=tolees-21'
 descuento: '24.04'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Kaylin Cara  Zapatos de Tacón para Mujer  Gris  Stone Stone   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMRK4ZM/?tag=tolees-21'
 descuento: '68.58'
 average: '28.26'

@@ -16,6 +16,7 @@ comparePrice: 7.25 EUR
 prodname: 'Marca Amazon - find. Sudadera Jaspeada Hombre  Verde  Green Marl   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QGPR8W/?tag=tolees-21'
 descuento: '23.59'
 average: '5.54'

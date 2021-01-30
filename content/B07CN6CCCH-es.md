@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Specialist II Vent Clog  Zuecos Unisex Adulto  Azul  Navy 410   42/43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN6CCCH/?tag=tolees-21'
 descuento: '31.73'
 average: '27.3'

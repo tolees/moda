@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'find. 16563 vestido fiesta mujer  Rosa  Old Rose/gold   44  Talla del Fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCNN2TN/?tag=tolees-21'
 descuento: '70.00'
 average: '13.5'

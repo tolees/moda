@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Napapijri BAUNT FZH Sudadera  Azul  BLU Marine 176   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK1QDYH/?tag=tolees-21'
 descuento: '50.00'
 average: '66.66'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Tri Alexia  Sandalias de Talón Abierto para Mujer  Beige  Stone Stone   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJK3WMD/?tag=tolees-21'
 descuento: '52.05'
 average: '52.307500000000005'

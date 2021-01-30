@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Cali WN S  Zapatos Deportivos para Mujer  Negro Black White 18  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8PF8PN/?tag=tolees-21'
 descuento: '35.22'
 average: '41.005'

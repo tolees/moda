@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Orinoco Strap  Sandalias de Talón Abierto para Mujer  Azul  Sky Blue Sky Blue   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLSYTKK/?tag=tolees-21'
 descuento: '55.11'
 average: '40.38'

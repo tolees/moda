@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Arena Envision Gafas de natación  Unisex Adulto  Clear  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0SPL19/?tag=tolees-21'
 descuento: '24.96'
 average: '14.005999999999998'

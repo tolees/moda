@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Rider Jeans Vaqueros  Mid Tinted  36W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8L2BQ9/?tag=tolees-21'
 descuento: '73.29'
 average: '26.7'

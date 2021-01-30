@@ -16,6 +16,7 @@ comparePrice: 27.23 EUR
 prodname: 'Under Armour UA Knockout Tank  Camiseta de Tirantes  Camiseta Deportiva para Mujer Mujer  Negro  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMTPY29/?tag=tolees-21'
 descuento: '33.93'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Kipling Eleva  Bolso con Bandolera para Mujer  Dorado  Cloud Metal   31x33x12 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRCFL81/?tag=tolees-21'
 descuento: '59.67'
 average: '35.89'

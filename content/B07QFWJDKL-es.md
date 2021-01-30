@@ -16,6 +16,7 @@ comparePrice: 36.62 EUR
 prodname: 'MTNG Collection 58666  Botines para Mujer  Negro  Karma Negro C27784   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFWJDKL/?tag=tolees-21'
 descuento: '31.76'
 average: '24.99'

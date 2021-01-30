@@ -16,6 +16,7 @@ comparePrice: 7.97 EUR
 prodname: 'Marca Amazon - MERAKI Snk492 - camisa Mujer  Azul  Navy   46  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRYBN7B/?tag=tolees-21'
 descuento: '22.33'
 average: '6.19'

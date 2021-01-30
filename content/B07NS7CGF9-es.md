@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Marco Tozzi 2-2-22416-33  Zapatos de Tacón para Mujer  Marrón  Muscat Multi 338   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NS7CGF9/?tag=tolees-21'
 descuento: '60.08'
 average: '15.95'

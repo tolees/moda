@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B Tutim A  Sandalias de Punta Descubierta para Bebés  Azul  Navy/Royal C4226   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQFYXW1/?tag=tolees-21'
 descuento: '46.09'
 average: '26.9'

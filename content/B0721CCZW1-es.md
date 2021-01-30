@@ -16,6 +16,7 @@ comparePrice: 20.8 EUR
 prodname: 'find. Vestido Recto para Mujer   Rosa  38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721CCZW1/?tag=tolees-21'
 descuento: '37.50'
 average: '13'

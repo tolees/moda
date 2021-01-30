@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox U Federico Y  Zapatos de cordones derby para Hombre  Negro  Black C9999   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005DXEIG6/?tag=tolees-21'
 descuento: '50.00'
 average: '54.95'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Megamouth Warp Cool 0870   W34/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K75ZPPD/?tag=tolees-21'
 descuento: '39.29'
 average: '66.78'

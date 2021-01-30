@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Springfield 4.Gym.Vestido Ap Polybubb-C/65 Vestido de Fiesta  Naranja  Orange 65   42  Tamaño del Fabricante: 42  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHC1JBX/?tag=tolees-21'
 descuento: '26.84'
 average: '21.94'

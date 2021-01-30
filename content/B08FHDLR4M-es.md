@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Sibinulo Camisón de Maternidad Pijama Lactancia Vestido Manga Corta Cierre a Presión Gris L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FHDLR4M/?tag=tolees-21'
 descuento: '16.04'
 average: '20.99'

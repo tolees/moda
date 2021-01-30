@@ -16,6 +16,7 @@ comparePrice: 62.88 EUR
 prodname: 'Tommy Hilfiger Cosy Rainboot  Botines para Mujer  Midnight 403  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6XDL5K/?tag=tolees-21'
 descuento: '37.04'
 average: '39.59'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'UNISA Loreal Zapatos de tacón Mujeres Rojo - 38 - Zapatos de tacón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WKBZCSK/?tag=tolees-21'
 descuento: '44.99'
 average: '54.95'

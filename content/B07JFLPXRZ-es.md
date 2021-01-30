@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pepe Jeans Maria Pl203428 Vaqueros evasé   Archive Medium Bright Blue Denim 000   W29/L32 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFLPXRZ/?tag=tolees-21'
 descuento: '75.44'
 average: '25.275'

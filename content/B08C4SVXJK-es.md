@@ -16,6 +16,7 @@ comparePrice: 11.15 EUR
 prodname: 'Concert Light Stick 15 Sticks de colores intercambiables Light Stick Support Stick LED Sticks Moda con pilas - Caqui'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C4SVXJK/?tag=tolees-21'
 descuento: '34.98'
 average: '7.25'

@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'New Balance 230  Zapatos de Playa y Piscina Unisex Adulto  Negro  Black/White BK   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ2LFP9/?tag=tolees-21'
 descuento: '40.00'
 average: '15'

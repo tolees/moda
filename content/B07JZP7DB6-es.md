@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'adidas Tiro19 PES Jkty Chaqueta de Deporte  Unisex niños  Power Red/White  1516'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZP7DB6/?tag=tolees-21'
 descuento: '21.76'
 average: '21.9'

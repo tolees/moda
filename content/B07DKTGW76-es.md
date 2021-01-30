@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Dickies Farnham Chaqueta  Marrón  Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKTGW76/?tag=tolees-21'
 descuento: '61.90'
 average: '56.77'

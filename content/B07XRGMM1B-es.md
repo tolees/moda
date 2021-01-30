@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'ALLROS Gafas de Esquí con Lente Magnética sin Marco  Máscara de Esquí Unisex  OTG  Anti-Niebla y UV400  para Snowboard  Skating y Otros Deportes de Nieve'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRGMM1B/?tag=tolees-21'
 descuento: '68.03'
 average: '19.59'

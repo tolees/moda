@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Un Reisel Mara  Sandalias con Tira Vertical para Mujer  Negro  Black Leather-   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MD3YJ9/?tag=tolees-21'
 descuento: '54.20'
 average: '41.2'

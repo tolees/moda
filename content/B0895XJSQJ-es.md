@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Bst4UDirect Bebés Natación Anillo  Recién Nacido Bebé Aprenda a Nadar Entrenador Inflable - Asiento Flotante Ajustable para Natación para Bebés Incluye Gafas Protectoras  Bomba de Aire  L: 6-30 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895XJSQJ/?tag=tolees-21'
 descuento: '55.19'
 average: '12.99'

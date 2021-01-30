@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'URAQT Traje del Vestido/Traje de Princesa de la Nieve Vestido Infantil Disfraz de Princesa de Niñas para Fiesta Carnaval Cumpleaños Cosplay  100 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077JKKHQ7/?tag=tolees-21'
 descuento: '50.02'
 average: '12.67'

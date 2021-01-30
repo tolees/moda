@@ -16,6 +16,7 @@ comparePrice: 8.4 EUR
 prodname: 'Joma 900038.800 - Camiseta para Mujer  Color Naranja  Talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CSU8R18/?tag=tolees-21'
 descuento: '43.33'
 average: '4.76'

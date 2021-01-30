@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'SKYSPER Camiseta de Compresión Manga Larga para Hombre Pantalones Largos Leggings Apretada Ropa Interior Deportiva Deportes Transpirable Secado Rápido para Running Fitness Entrenamiento Yoga Ciclismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GX8BQWH/?tag=tolees-21'
 descuento: '72.52'
 average: '12.49'

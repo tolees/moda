@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Umbro Set de 3 boxers multicolor-100% algodón-color negro x2 /naranja 1  Bóxer  PACK 03 T041-4  L 5 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP13FN4/?tag=tolees-21'
 descuento: '62.74'
 average: '14.9'

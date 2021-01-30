@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Tommy Hilfiger Trunk Bóxer  Azul  Navy Blazer 416   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9MF9K8/?tag=tolees-21'
 descuento: '50.00'
 average: '12.415454545454544'

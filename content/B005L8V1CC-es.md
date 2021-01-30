@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Duronic SCK102 Spray Limpiador x2 de 200ml para Pantallas LCD TFT LED Plasma OLED 4K TV iPad Smartphone para Ordenadores portátiles y Lentes de cámaras y Gafas – Kit de Spray y paño de Microfibra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005L8V1CC/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

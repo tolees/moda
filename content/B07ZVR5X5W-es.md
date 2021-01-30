@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Levi s 512 Slim Taper Fit Jean Vaqueros  Sage Nightshade ADV Tnl  32W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVR5X5W/?tag=tolees-21'
 descuento: '37.50'
 average: '75.0'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'The North Face M Quest L/S Camiseta  Hombre  TNF Yellow/TNF  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TB8PPQT/?tag=tolees-21'
 descuento: '48.27'
 average: '23.28'

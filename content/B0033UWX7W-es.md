@@ -16,6 +16,7 @@ comparePrice: 56.03 EUR
 prodname: 'Lee Brooklyn Comfort  Vaqueros Rectos para Hombre  Azul  Dark Stonewash   W38/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0033UWX7W/?tag=tolees-21'
 descuento: '38.44'
 average: '35.81'

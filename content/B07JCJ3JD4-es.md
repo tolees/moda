@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Powder Lite Chaqueta De Plumón con Capucha  Mujer  Rosa  Dusty Pink   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCJ3JD4/?tag=tolees-21'
 descuento: '58.90'
 average: '62.19'

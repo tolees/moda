@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Lacoste Crew Neck  Sudadera para Hombre  Black 31  X-Small  Talla del fabricante: 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UG4U0HI/?tag=tolees-21'
 descuento: '31.24'
 average: '56.2'

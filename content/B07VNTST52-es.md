@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Daren Button Fly Vaqueros Straight  Azul  Dk Clean Foam EK   38W x 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNTST52/?tag=tolees-21'
 descuento: '86.12'
 average: '13.87'

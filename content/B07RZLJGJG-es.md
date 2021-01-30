@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Blanco  90 s Serif T2 White+ 0781   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLJGJG/?tag=tolees-21'
 descuento: '28.04'
 average: '17.13285714285714'

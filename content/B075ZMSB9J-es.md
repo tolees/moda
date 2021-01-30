@@ -16,6 +16,7 @@ comparePrice: 32.85 EUR
 prodname: 'Zapatero Sable de 10 niveles  almacenamiento para 50 pares de zapatos  organizador de zapatos alto con niveles de tela impermeable  175 x 100 x 27 cm.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZMSB9J/?tag=tolees-21'
 descuento: '28.77'
 average: '23.4'

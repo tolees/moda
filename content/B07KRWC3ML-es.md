@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'Columbia Tolmie Butte  Chaqueta  Hombre  Gris  Cool Grey   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRWC3ML/?tag=tolees-21'
 descuento: '65.53'
 average: '29.3'

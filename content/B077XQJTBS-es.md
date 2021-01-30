@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Tech 2.0. Camiseta masculina  camiseta transpirable  ancha camiseta para gimnasio de manga corta y secado rápido  Steel Light Heather/Black  036   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XQJTBS/?tag=tolees-21'
 descuento: '48.25'
 average: '16.3425'

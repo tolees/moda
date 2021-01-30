@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Spike Vaqueros  Azul  Denim S55   W40/L30 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBCOZFG/?tag=tolees-21'
 descuento: '50.25'
 average: '48.34'

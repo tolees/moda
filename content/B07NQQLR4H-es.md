@@ -16,6 +16,7 @@ comparePrice: 10.12 EUR
 prodname: 'Marca Amazon - find. Chaqueta Hombre  Negro  Black   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQQLR4H/?tag=tolees-21'
 descuento: '19.17'
 average: '8.65'

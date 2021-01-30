@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Molokai Eclipsed Deluxe  Zapatos de Playa y Piscina para Hombre  Negro  Black/Grey/Brown Xksc   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVYY5XQ/?tag=tolees-21'
 descuento: '43.28'
 average: '17.01'

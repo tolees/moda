@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Puma Liga TR JSY Camiseta de Manga Corta  Hombre  Azul  Electric Blue Lemonade White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781ZSNFX/?tag=tolees-21'
 descuento: '43.40'
 average: '12.99'

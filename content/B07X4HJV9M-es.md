@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'Gafas de Presbicia con Filtro Anti Luz Azul para Ordenador. Gafas Graduadas de Lectura para Hombre y Mujer. Tacto Goma y Cristales Anti-reflejantes. Carrot +1.5 – HAKONE SCREEN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X4HJV9M/?tag=tolees-21'
 descuento: '55.19'
 average: '17.43'

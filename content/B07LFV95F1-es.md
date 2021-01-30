@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Geox D Hiver A  Zapatillas para Mujer  Azul  Navy C4002   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV95F1/?tag=tolees-21'
 descuento: '21.90'
 average: '30.45'

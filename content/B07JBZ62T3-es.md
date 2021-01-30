@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Powder Lite Jacket Chaqueta  Hombre  Amarillo  Burnished Amber/Shark   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBZ62T3/?tag=tolees-21'
 descuento: '41.00'
 average: '58.99'

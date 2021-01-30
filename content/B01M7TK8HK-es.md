@@ -16,6 +16,7 @@ comparePrice: 11.47 EUR
 prodname: 'Funda para bolso  estuche portatil Leorx  superficie para Mac de 33 centímetros MacBook Air/Pro/Retina  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7TK8HK/?tag=tolees-21'
 descuento: '18.57'
 average: '9.34'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Desigual T-Shirt Matilde Camiseta  Negro  Negro 2000   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3VWVHL/?tag=tolees-21'
 descuento: '48.14'
 average: '21.81'

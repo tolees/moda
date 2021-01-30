@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Speed Stride 7 Zoll Woven Pantalón Corto  Hombre  Negro  Black/Black/Reflective 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5VCVV5/?tag=tolees-21'
 descuento: '51.70'
 average: '17.7125'

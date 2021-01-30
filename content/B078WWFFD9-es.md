@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Roxy Napili II J SNDL  Zapatos de Playa y Piscina para Mujer  Beige  Beige/ Ta1 Tan 1  Ta1   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WWFFD9/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

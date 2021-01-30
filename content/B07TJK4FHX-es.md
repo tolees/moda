@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Maritsa Lara  Sandalias de Talón Abierto para Mujer  Amarillo  Amber Suede Amber Suede   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJK4FHX/?tag=tolees-21'
 descuento: '54.17'
 average: '45.81'

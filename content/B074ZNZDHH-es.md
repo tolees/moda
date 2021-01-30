@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Chaqueta  Negro  Black Black   44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZNZDHH/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

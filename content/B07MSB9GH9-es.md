@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Kickers Maldan  Zapatos de Cordones Derby para Hombre  Marrón  Marron Fonce Perm 92   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSB9GH9/?tag=tolees-21'
 descuento: '61.86'
 average: '30.13'

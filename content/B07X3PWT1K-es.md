@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Hatch Vaqueros Ajustados  Azul  000Denim 000   32W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3PWT1K/?tag=tolees-21'
 descuento: '49.45'
 average: '48.02'

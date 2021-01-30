@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Esprit 999ee2b806 Vaqueros Slim  Azul  Blue Dark Wash 901   W30/L32  Talla del Fabricante: 30/32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXZZ3YD/?tag=tolees-21'
 descuento: '41.59'
 average: '35.04'

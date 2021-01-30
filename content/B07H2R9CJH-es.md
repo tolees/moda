@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Riñonera Deportiva Bolso Cintura Cinturón de Correr con Tiras Reflectantes para Teléfonos hasta 6.5‘’'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2R9CJH/?tag=tolees-21'
 descuento: '55.19'
 average: '12.99'

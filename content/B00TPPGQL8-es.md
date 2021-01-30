@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Lacoste Sh7613  Sudadera para Hombre  Black 31  XX-Large  Talla del fabricante : 7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TPPGQL8/?tag=tolees-21'
 descuento: '31.24'
 average: '58.45'

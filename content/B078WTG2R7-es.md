@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Quiksilver Molokai Abyss  Zapatos de Playa y Piscina para Hombre  Verde  Green/Black/Green Xgkg   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WTG2R7/?tag=tolees-21'
 descuento: '39.10'
 average: '15.833333333333334'

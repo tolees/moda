@@ -16,6 +16,7 @@ comparePrice: 45.16 EUR
 prodname: 'Crocs Crocband Platform Clog  Zuecos Unisex Adulto  Negro  Black/White 066   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0787KRK1Y/?tag=tolees-21'
 descuento: '38.11'
 average: '27.95'

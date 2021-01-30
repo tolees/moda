@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox Jr Ciak Girl K  Zapatillas para Niñas  White C1000  31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GPT3TFP/?tag=tolees-21'
 descuento: '66.28'
 average: '20.2'

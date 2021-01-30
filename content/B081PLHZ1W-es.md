@@ -16,6 +16,7 @@ comparePrice: 59.83 EUR
 prodname: 'Zapatillas de Baloncesto Altas Superiores Zapatillas de Deporte para Hombres Zapatos Deportivos Transpirables Antideslizantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081PLHZ1W/?tag=tolees-21'
 descuento: '44.18'
 average: '33.4'

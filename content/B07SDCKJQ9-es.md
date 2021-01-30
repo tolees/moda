@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'LIGE Relojes de Pulsera para Hombre Impermeable con Fecha Moda Clasicos Analógico Cuarzo Relojes de Hombre Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDCKJQ9/?tag=tolees-21'
 descuento: '80.72'
 average: '26.99'

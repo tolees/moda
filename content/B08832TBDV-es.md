@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Dragon Ball T-Shirts 3D Impresión Camisetas de Manga Corta de Verano Cuello Redondo tee Tops Cosplay Camisa Suelta Casual para Niños Niñas Amantes del Anime Super Saiyan Son Goku Son Gohan'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08832TBDV/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

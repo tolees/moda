@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'Zapatillas de Seguridad Hombre Zapatos de Trabajo con Punta de Acero Transpirable Reflectante Botas de Seguridad Negro 41 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G8KB4RR/?tag=tolees-21'
 descuento: '15.24'
 average: '38.99'

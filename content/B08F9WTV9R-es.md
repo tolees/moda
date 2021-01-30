@@ -16,6 +16,7 @@ comparePrice: 54.49 EUR
 prodname: 'Mochilas para Pañales Biberones Multifuncional Impermeable Mochila Maternidad con Portátil Cambiador Gran Capacidad Bolso Cambiador Bebe con Bolsillo Térmico para Biberones  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F9WTV9R/?tag=tolees-21'
 descuento: '48.87'
 average: '27.86'

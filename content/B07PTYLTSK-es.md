@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Bañador de Mujer Bikini Ropa de Baño de Una Pieza Negro Cuello en V S CL011003-1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTYLTSK/?tag=tolees-21'
 descuento: '48.66'
 average: '18.99'

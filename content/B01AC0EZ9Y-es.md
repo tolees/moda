@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Nike Yth Park II Knit Short Nb  Pantalón Corto  Niños  Negro  Black/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AC0EZ9Y/?tag=tolees-21'
 descuento: '21.11'
 average: '10.65'

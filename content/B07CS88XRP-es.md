@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Michelle Camiseta   Off White 803   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CS88XRP/?tag=tolees-21'
 descuento: '35.95'
 average: '19.15'

@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'HKT by Hackett Hkt Crew Sudadera  Rojo  2eylt Jack Red 2ey   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKGW3PV/?tag=tolees-21'
 descuento: '62.70'
 average: '29.47'

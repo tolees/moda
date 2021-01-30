@@ -16,6 +16,7 @@ comparePrice: 45.9 EUR
 prodname: 'Marca Amazon - find. High Heel Point Court Zapatos de tacón con Punta Cerrada  Beige  Beige  Nude   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFZWQFV/?tag=tolees-21'
 descuento: '78.39'
 average: '9.92'

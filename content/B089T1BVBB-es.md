@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Parka Revolution Lady 100 Laguna/Amarillo 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089T1BVBB/?tag=tolees-21'
 descuento: '30.00'
 average: '69.3'

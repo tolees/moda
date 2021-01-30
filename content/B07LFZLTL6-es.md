@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Geox Annytah Ms  Mocasines para Mujer  Negro  Black C9997   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZLTL6/?tag=tolees-21'
 descuento: '20.35'
 average: '35.785714285714285'

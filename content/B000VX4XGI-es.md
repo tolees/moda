@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Timberland 6-Inch Premium Boot  Botas para Hombre  Negro  Black Nubuck   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VX4XGI/?tag=tolees-21'
 descuento: '34.53'
 average: '154.66'

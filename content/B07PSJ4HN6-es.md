@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling Gleam  Bolso de Tocador para Mujer  Multicolor  Navy Stick Print   18.5x11x8 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJ4HN6/?tag=tolees-21'
 descuento: '57.21'
 average: '12.41'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA Essential Crew SWS Big Logo M Sudadera  Hombre  Gris  Medium Gray Heather   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKC9GRC/?tag=tolees-21'
 descuento: '49.97'
 average: '24.49'

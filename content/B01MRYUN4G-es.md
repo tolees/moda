@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Columbia Heather Canyon  Chaqueta para Mujer  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRYUN4G/?tag=tolees-21'
 descuento: '65.30'
 average: '34.68'

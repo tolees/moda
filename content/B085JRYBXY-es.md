@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Skevic Gafas de Sol Hombre Mujer Polarizadas TR90 - Gafas Running  Gafas Ciclismo Hombre Ideales para Deporte  Pesca  MTB  Esquí  Golf  Bicicleta  etc. Gafas de Sol Deportivas Protección 100% UV400'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085JRYBXY/?tag=tolees-21'
 descuento: '15.70'
 average: '10.95'

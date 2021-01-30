@@ -16,6 +16,7 @@ comparePrice: 8.49 EUR
 prodname: 'Springfield 4.FQ. Slim Fit Camisa  Multicolor  Multicolor 15   40  Tamaño del Fabricante: 40  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ4XKL3/?tag=tolees-21'
 descuento: '23.44'
 average: '7.495'

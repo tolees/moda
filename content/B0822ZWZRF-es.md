@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Charles Wilson Pantalón de Deportes con Puño Pantalón Deportivo Polar  Medium  Dark Port  1119  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0822ZWZRF/?tag=tolees-21'
 descuento: '63.73'
 average: '11.95'

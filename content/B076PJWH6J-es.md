@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Speedo Futura Biofuse Flexiseal Junior Gafas de Natación  Unisex Adulto  Blanco/Azul  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PJWH6J/?tag=tolees-21'
 descuento: '44.40'
 average: '14.506666666666668'

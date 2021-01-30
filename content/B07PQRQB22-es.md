@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Transportín plegable de tela para gatos y perros pequeños  ideal para coche. Bolsa de viaje semirrígida para mascotas. Bolso de transporte impermeable con rejilla. Funda de almacenaje incluida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQRQB22/?tag=tolees-21'
 descuento: '47.60'
 average: '20.286666666666665'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'The North Face Quest Jacket Chaqueta Estampada para Mujer  Lapis Blue Flower Print  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LH9QYPL/?tag=tolees-21'
 descuento: '70.39'
 average: '41.3675'

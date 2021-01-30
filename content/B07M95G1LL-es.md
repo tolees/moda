@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett High Vaqueros  Gris  Dark Grey Ovid Dw   25W/31L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M95G1LL/?tag=tolees-21'
 descuento: '72.58'
 average: '24.66'

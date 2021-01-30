@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Lacoste TH6709  Camiseta para Hombre  Gris  Argent Chine   XL  Talla del fabricante: 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2BI3Z5/?tag=tolees-21'
 descuento: '39.02'
 average: '30.49'

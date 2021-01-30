@@ -16,6 +16,7 @@ comparePrice: 40.28 EUR
 prodname: 'Odetina Zapatos de tacón alto sólido Mary Janes con correa de hebilla y correa de hebilla para mujer  color Verde  talla 40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0878WYMWZ/?tag=tolees-21'
 descuento: '50.00'
 average: '20.14'

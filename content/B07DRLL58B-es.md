@@ -16,6 +16,7 @@ comparePrice: 85 EUR
 prodname: 'Kipling ONALO Bolso de gimnasio  45 cm  18 liters  Azul  Dynamic Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRLL58B/?tag=tolees-21'
 descuento: '62.75'
 average: '39.72'

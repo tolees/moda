@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Kayhan Hombre Camisa Monaco Red  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYCFAZ7/?tag=tolees-21'
 descuento: '49.90'
 average: '19.99'

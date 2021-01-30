@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Prada 0PR51SS VHT1A0 54 Gafas de Sol  Plateado  Silver/Azure/Light Grey Silver   Unisex-Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7R5GNN/?tag=tolees-21'
 descuento: '44.79'
 average: '143.0'

@@ -16,6 +16,7 @@ comparePrice: 35.59 EUR
 prodname: 'Desigual Pullover LOS Angeles Jersey  Azul  Ibiza 5106   S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3WRDQJ/?tag=tolees-21'
 descuento: '32.28'
 average: '24.1'

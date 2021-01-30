@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'SHOBDW Pantalones de Verano Mujeres Shorts Deportivos Gimnasio de Moda Workout Waistband Skinny Yoga Short Pants  S  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3XDS78/?tag=tolees-21'
 descuento: '50.05'
 average: '4.99'

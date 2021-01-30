@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'HOMCOM Maleta Correpasillos Niños con Forma de Moto Bolso de Taquilla de Viaje Infantil de Mano Bebé Ride-On con 4 en 1 para los Niños Mayores de 3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLP23XR/?tag=tolees-21'
 descuento: '25.21'
 average: '20.89'

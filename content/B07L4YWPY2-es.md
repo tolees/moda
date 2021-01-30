@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Marco Tozzi 2-2-25107-33  Botines para Mujer  Rojo  Bordeaux Comb 550   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4YWPY2/?tag=tolees-21'
 descuento: '59.30'
 average: '20.33'

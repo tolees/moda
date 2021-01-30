@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'SELECTED HOMME Slhslimnew-Mark Shirt LS B Noos Camisa  Multicolor  Dark Sapphire AOP: AOP   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G3NXTKJ/?tag=tolees-21'
 descuento: '57.49'
 average: '17.855'

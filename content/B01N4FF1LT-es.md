@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Pouring Adventure II Chaqueta para Lluvia  Hombre  Negro  Talla: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4FF1LT/?tag=tolees-21'
 descuento: '39.45'
 average: '53.375'

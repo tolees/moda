@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'KRISP 6488-BLK-18  Vestido Corto Fruncido Busto  Negro  6488   46'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PY4JNG4/?tag=tolees-21'
 descuento: '51.94'
 average: '12.49'

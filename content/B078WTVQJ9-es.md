@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Quiksilver Carver Nubuck-Sandals For Men  Zapatos de Playa y Piscina para Hombre  Negro  Solid Black Sbkm   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WTVQJ9/?tag=tolees-21'
 descuento: '30.01'
 average: '25.19'

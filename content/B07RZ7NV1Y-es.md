@@ -16,6 +16,7 @@ comparePrice: 29.3 EUR
 prodname: 'SimpleLife Bolso de Mano/Bolso de Fiesta para el corazón de la Mujer Bolso de Fiesta Monederos Bolsos de Boda con Cadena y Anillo de asa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ7NV1Y/?tag=tolees-21'
 descuento: '50.00'
 average: '14.65'

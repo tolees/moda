@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Lee Crew Sws  Sudadera para Hombre  Naranja  Sign Orange Me   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N19SWHF/?tag=tolees-21'
 descuento: '41.63'
 average: '26.635'

@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'HKT by Hackett Hkt SS tee Camiseta   Ink 591   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSKQW44/?tag=tolees-21'
 descuento: '32.87'
 average: '13.49'

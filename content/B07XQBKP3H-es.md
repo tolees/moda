@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Tool Tour 2019 - Spectre Spike Camiseta Gris Marengo S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQBKP3H/?tag=tolees-21'
 descuento: '42.87'
 average: '15.99'

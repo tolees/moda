@@ -16,6 +16,7 @@ comparePrice: 42.33 EUR
 prodname: 'YOSICIL Niñas Disfraz Anna Frozen Elsa con Capa Traje de Princesa Disfraz Princesa Accesorios con Corona Anillo Collar Pendientes Fancy Dress Traje Parte Vestido de Fiesta Infantil 3-10 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XPVZW4Z/?tag=tolees-21'
 descuento: '48.64'
 average: '21.74'

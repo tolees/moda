@@ -16,6 +16,7 @@ comparePrice: 61.03 EUR
 prodname: 'CRZ YOGA Mujer Deportivo Corto Falda Plisada Skorts de Tenis Golf con Interior Shorts Cromo Oscuro M 42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SQ4K6H/?tag=tolees-21'
 descuento: '45.93'
 average: '33'

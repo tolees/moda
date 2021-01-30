@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Challenger III Training Top Transpirable para Hacer Deporte  Camiseta para Hombre  Azul  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PS6R7K5/?tag=tolees-21'
 descuento: '34.54'
 average: '18.33'

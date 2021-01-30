@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'Slazenger Hombres Zapatos de Lona Golf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BKYZNZJ/?tag=tolees-21'
 descuento: '39.44'
 average: '42.99'

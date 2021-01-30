@@ -16,6 +16,7 @@ comparePrice: 12.37 EUR
 prodname: 'Wesho Guantes Gimnasio  XL Guantes Gimnasio Hombre Antideslizante Guantes Deportivos Transpirable con Protección Completa de Muñeca y Palma  para Ciclismo Crossfit Levantamiento de Pesas Musculación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081MYZ3HG/?tag=tolees-21'
 descuento: '19.32'
 average: '9.325'

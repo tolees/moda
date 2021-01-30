@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Adilette W  Zapatos de Playa y Piscina para Mujer  Rojo  Active Red/FTWR White/Core Black Active Red/FTWR White/Core Black   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYKP5TV/?tag=tolees-21'
 descuento: '29.39'
 average: '27.553333333333335'

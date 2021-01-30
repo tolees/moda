@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Vero Moda Vmnoramille 3/4 Wool Jacket Abrigo  Rojo Birch  44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TB4PT9S/?tag=tolees-21'
 descuento: '55.01'
 average: '35.99'

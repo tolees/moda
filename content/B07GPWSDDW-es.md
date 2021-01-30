@@ -16,6 +16,7 @@ comparePrice: 57.95 EUR
 prodname: 'Desigual T-Shirt Short Sleeve NANUK Woman Blue Camiseta  Azul  Navy 5000   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GPWSDDW/?tag=tolees-21'
 descuento: '46.19'
 average: '31.18'

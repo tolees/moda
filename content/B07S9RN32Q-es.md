@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Literide Stretch Sandal Women  Sandalias de Punta Descubierta para Mujer  Azul  Ice Blue/Almost White 4KP   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9RN32Q/?tag=tolees-21'
 descuento: '54.99'
 average: '20.25'

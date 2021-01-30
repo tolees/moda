@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'G-STAR RAW Whistler Down Parka  Gris  Asfalt 995   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL6HYM/?tag=tolees-21'
 descuento: '70.12'
 average: '74.68'

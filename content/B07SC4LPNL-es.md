@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Helly Hansen Daybreaker Fleece Jacket Forro Polar Chaqueta  Hombre  Grey Fog  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC4LPNL/?tag=tolees-21'
 descuento: '31.68'
 average: '40.99'

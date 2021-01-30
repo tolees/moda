@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim sólido Abajo Chaqueta Abrigo  Púrpura  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771DZVD7/?tag=tolees-21'
 descuento: '53.35'
 average: '13.99'

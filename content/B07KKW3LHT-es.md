@@ -16,6 +16,7 @@ comparePrice: 115.94 EUR
 prodname: 'adidas Ask 360 LS 3S D Camiseta de Manga Larga  Hombre  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKW3LHT/?tag=tolees-21'
 descuento: '50.03'
 average: '57.94'

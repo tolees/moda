@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Blanco Rosa Sudaderas Mujer Largas Tumblr Invierno Raya Basicas Moda Sweatshirt Suéter Oversize  Blanco  Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074HWW88P/?tag=tolees-21'
 descuento: '50.03'
 average: '15.49'

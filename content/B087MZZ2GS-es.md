@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Ramokey Leggings Mujer Pantalón Deportivo Cintura Alta con Bolsillos Leggings Mallas para Yoga Pilates Running Fitness y Ejercicio Rosado L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087MZZ2GS/?tag=tolees-21'
 descuento: '16.67'
 average: '19.99'

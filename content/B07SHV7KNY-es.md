@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'G-Star Sp10515 LS tee Camiseta de Manga Larga  Marfil  Nickel 10   8 años  Talla del Fabricante: 8A  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHV7KNY/?tag=tolees-21'
 descuento: '80.17'
 average: '6.93'

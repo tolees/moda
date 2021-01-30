@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Sundried para Mujer Cuello en V Aptitud Camiseta de Entrenamiento Activewear Gimnasio de Deportes señoras de Yoga Corrientes Superiores  Gris  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCTCFSS/?tag=tolees-21'
 descuento: '40.00'
 average: '12.0'

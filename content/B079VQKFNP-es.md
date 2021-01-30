@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'CAMPER Bicho FW  Sandalias con Tira de T para Niñas  Rosa  Medium Pink 660   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VQKFNP/?tag=tolees-21'
 descuento: '72.02'
 average: '16.51'

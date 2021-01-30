@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Guantes para la artritis Brace Master One  guantes de compresión y calor para las manos  articulación de los dedos  alivio del dolor reumatoide  osteoartritis  RSI  Medium  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C7B52PW/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

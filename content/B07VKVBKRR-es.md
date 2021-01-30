@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'JACK & JONES NOS Jjijean Jjjacket CR 139 STS Chaqueta Vaquera  Negro Black Denim  Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKVBKRR/?tag=tolees-21'
 descuento: '67.82'
 average: '28.96'

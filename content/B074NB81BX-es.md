@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Fitflop Lulu Cross Slide  Sandalias de Punta Descubierta para Mujer  Marrón  Caramel 098   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074NB81BX/?tag=tolees-21'
 descuento: '51.25'
 average: '39.0'

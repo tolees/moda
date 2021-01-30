@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Ever-Pretty A-línea Tul Vestido de Noche Manga Corta Cuello en V Largo para Mujer Azul Marino 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S34DVY8/?tag=tolees-21'
 descuento: '21.43'
 average: '54.99'

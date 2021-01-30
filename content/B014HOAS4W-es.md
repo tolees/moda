@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BLEND 701711 Vaqueros  Black/ 70155  28 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014HOAS4W/?tag=tolees-21'
 descuento: '54.91'
 average: '21.255714285714284'

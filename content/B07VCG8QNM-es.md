@@ -16,6 +16,7 @@ comparePrice: 16.52 EUR
 prodname: 'Marca Amazon - find. Stitch Cardigan - chaqueta punto Mujer  Negro  Black   48  Label: 3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCG8QNM/?tag=tolees-21'
 descuento: '25.12'
 average: '12.37'

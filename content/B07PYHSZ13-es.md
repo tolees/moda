@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Liu Jo A19066E0002 Bolso de baldolera Accesorios Rojo Pz.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYHSZ13/?tag=tolees-21'
 descuento: '45.00'
 average: '87.45'

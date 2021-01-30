@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Scarlett Vaqueros  Azul  Dark Favourite Nr   27W / 29L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ6YY5/?tag=tolees-21'
 descuento: '40.02'
 average: '59.95'

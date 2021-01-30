@@ -16,6 +16,7 @@ comparePrice: 263.84 EUR
 prodname: 'G-STAR RAW Vodan Padded Hooded Parka  Negro  Dk Black 6484   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNDJMZ/?tag=tolees-21'
 descuento: '46.96'
 average: '139.95'

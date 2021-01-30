@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-STAR RAW Core Super Slim Camisa Vaquera  Blanco  White 110   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XVBF51R/?tag=tolees-21'
 descuento: '68.29'
 average: '23.79230769230769'

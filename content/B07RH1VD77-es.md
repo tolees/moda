@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW Revend Skinny Vaqueros  Waxed Black Destroyed Cobler  42W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH1VD77/?tag=tolees-21'
 descuento: '74.48'
 average: '33.16'

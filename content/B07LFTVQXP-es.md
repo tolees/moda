@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D ANNYTAH Moc A  Mocasines para Mujer  Azul  Dk Blue C4007   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFTVQXP/?tag=tolees-21'
 descuento: '75.58'
 average: '25.538571428571426'

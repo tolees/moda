@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Crocband Clog Kids  Zuecos Unisex Niños  Azul  Navy/Citrus 42k   23/24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HEXEUBU/?tag=tolees-21'
 descuento: '35.01'
 average: '20.79'

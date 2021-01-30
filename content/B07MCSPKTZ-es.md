@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Aerons WOM Hood 1 Chaqueta  Beige  Natural Peyote Nn1   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPKTZ/?tag=tolees-21'
 descuento: '50.00'
 average: '99.5'

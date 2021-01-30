@@ -16,6 +16,7 @@ comparePrice: 40.17 EUR
 prodname: 'Sucreven Mujer Elegante Tacón Ancho Pump Puntiagudo Tacón Alto Pump Sin Cordones Vestido Zapatos Albaricoque Talla 35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JPLJR6/?tag=tolees-21'
 descuento: '33.33'
 average: '26.78'

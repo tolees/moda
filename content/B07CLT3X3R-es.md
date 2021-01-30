@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Vintage Camisetas Mujer Manga Corta Negro Aesthetic Verano Moda Poleras T Shirt Tops Ropa  Negro  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLT3X3R/?tag=tolees-21'
 descuento: '33.39'
 average: '3.99'

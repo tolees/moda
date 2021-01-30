@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Wiser Wash Medium Used WW6   W33/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079WHXTNT/?tag=tolees-21'
 descuento: '35.61'
 average: '63.75'

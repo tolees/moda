@@ -16,6 +16,7 @@ comparePrice: 21.91 EUR
 prodname: 'Rockport Briah Perforated Sling Back  Sandalias de Plataforma para Mujer  Marrón  Tan Leather 003   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGGCQF5/?tag=tolees-21'
 descuento: '32.36'
 average: '14.82'

@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'DC Comics Pijama Entera para Niños Bebés The Flash Rojo 12-18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RP8M86L/?tag=tolees-21'
 descuento: '44.57'
 average: '9.95'

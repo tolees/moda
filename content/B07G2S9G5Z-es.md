@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Pierre Calvini Signiture  Bóxer para Hombre  Negro  Black   Large  Pack de 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2S9G5Z/?tag=tolees-21'
 descuento: '40.02'
 average: '15.443333333333335'

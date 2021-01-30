@@ -16,6 +16,7 @@ comparePrice: 27.75 EUR
 prodname: 'find. 62909 vaqueros mujer  Negro  Black   W31/L32  Talla del Fabricante: 40/42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078FBVHFB/?tag=tolees-21'
 descuento: '60.00'
 average: '11.1'

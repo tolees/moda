@@ -16,6 +16,7 @@ comparePrice: 124.9 EUR
 prodname: 'Tommy Hilfiger Feminine Leather Low Wedge  Chanclas para Mujer  Negro  Black Bds   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8V58BT/?tag=tolees-21'
 descuento: '51.74'
 average: '50.650000000000006'

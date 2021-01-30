@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'flintronic ® Billetera  Tarjetas de Crédito Slim Moda RFID Bloqueo Monedero de Cuero  Mini Billetera para Cartera ID Tarjetero Crédito Licencia de Conducir Cartera Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MA3FMRU/?tag=tolees-21'
 descuento: '47.39'
 average: '10.84'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers On-The-Go 600-Flawless - Sandalias para Mujer  Negro  Black Bbk  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNWMY49/?tag=tolees-21'
 descuento: '29.93'
 average: '35.0'

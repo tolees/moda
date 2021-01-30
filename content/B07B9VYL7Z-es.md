@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers On-The-go Joy-Bundle Up  Botines para Mujer  Marrón  Chocolate Suede Chocolate   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9VYL7Z/?tag=tolees-21'
 descuento: '67.06'
 average: '17.2675'

@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'Polaroid PLD 1013/S H8 V08 50 Gafas de sol  Marrón  Havana/Green Pz   Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P04KXEE/?tag=tolees-21'
 descuento: '42.42'
 average: '37.388'

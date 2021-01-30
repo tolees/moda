@@ -16,6 +16,7 @@ comparePrice: 7.88 EUR
 prodname: 'find. Camiseta para Hombre  Gris  Grey Marl   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NWLMFV/?tag=tolees-21'
 descuento: '42.89'
 average: '4.5'

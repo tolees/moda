@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Jack & Jones Liam Original Jos 650 50sps Vaqueros  Blue Denim  28W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4TQR8V/?tag=tolees-21'
 descuento: '41.26'
 average: '40.516666666666666'

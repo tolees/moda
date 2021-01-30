@@ -16,6 +16,7 @@ comparePrice: 40.67 EUR
 prodname: 'Geox U KEELBACK B ABX A  Zapatillas para Hombre  Azul  Navy C4002   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG16PT3/?tag=tolees-21'
 descuento: '23.21'
 average: '37.78666666666667'

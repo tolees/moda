@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'adidas Duramo Slide Chanclas Unisex  Azul  New Navy/White/New Navy   40.5 EU  7 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0030ZSZXG/?tag=tolees-21'
 descuento: '40.00'
 average: '12.7125'

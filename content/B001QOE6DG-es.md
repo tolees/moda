@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Onewash  32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001QOE6DG/?tag=tolees-21'
 descuento: '30.01'
 average: '52.07'

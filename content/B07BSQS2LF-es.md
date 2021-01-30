@@ -16,6 +16,7 @@ comparePrice: 11.4 EUR
 prodname: 'oodji Ultra Hombre Camisa de Algodón con Cuello en Contraste  Azul  37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSQS2LF/?tag=tolees-21'
 descuento: '20.18'
 average: '9.1'

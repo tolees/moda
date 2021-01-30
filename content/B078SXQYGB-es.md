@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Timberland Kiri Up Oxford  Zapatillas de Gimnasia para Mujer  Negro  Black Knit   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SXQYGB/?tag=tolees-21'
 descuento: '58.75'
 average: '41.25'

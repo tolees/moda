@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'edc by Esprit 109cc1k022 Camisa Manga Larga  Rosa  Dark Old Pink 675   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9ZNRYW/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

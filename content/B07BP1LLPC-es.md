@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES JJIALVIN JJJACKET AKM 528 STS Chaqueta Vaquera  Gris  Aluminum Aluminum   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BP1LLPC/?tag=tolees-21'
 descuento: '49.99'
 average: '25.0'

@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Clarks Batcombe Hall Derby - Zapatos de Cordones  para Hombre  Marrón  Dark Tan Lea   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073H5FHB3/?tag=tolees-21'
 descuento: '55.50'
 average: '48.95'

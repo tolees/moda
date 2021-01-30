@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour UA Heatgear Long Sleeve Camiseta De Manga Larga  Hombre  Azul  Royal/Steel 400   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHTO118/?tag=tolees-21'
 descuento: '51.46'
 average: '16.266666666666666'

@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Tous Brunock Chain  Bolso Mochila para Mujer  Beige  Topo 695810088   26x33x9.5 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6T72ZM/?tag=tolees-21'
 descuento: '34.00'
 average: '69.3'

@@ -16,6 +16,7 @@ comparePrice: 3.25 EUR
 prodname: 'Ogquaton Calidad superior 4 piezas Moda Zircon Crystal Cat Collar Pendientes animales Conjunto de joyas  azul plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLX7Z5L/?tag=tolees-21'
 descuento: '30.77'
 average: '2.3'

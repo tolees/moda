@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'Marca Amazon - find. Vestido Midi de Satén Mujer  Rojo  VALIANT POPPY   46  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8MLWLL/?tag=tolees-21'
 descuento: '40.90'
 average: '8.523333333333333'

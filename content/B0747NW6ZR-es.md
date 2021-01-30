@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Timberland Courmayeur Valley  Zapatillas Chukka para Mujer  Negro  Black Full Grain   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0747NW6ZR/?tag=tolees-21'
 descuento: '29.77'
 average: '108.86'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Status 2.0 Pexton  Zapatos de Cordones Derby para Hombre  Gris  Taupe Canvas TPE '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3B4N7G/?tag=tolees-21'
 descuento: '20.59'
 average: '44.90555555555555'

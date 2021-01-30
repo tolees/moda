@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'Chantelle DE Pyramide Sujetador para Camiseta  Beige  Champagner NL   80E  Talla del Fabricante: 65E  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMJCC8K/?tag=tolees-21'
 descuento: '82.46'
 average: '12.28'

@@ -16,6 +16,7 @@ comparePrice: 17.07 EUR
 prodname: 'Marca Amazon - find. Vestido Asimétrico de Flores Mujer  Multicolor  Multicoloured   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HWQMRM/?tag=tolees-21'
 descuento: '55.59'
 average: '7.58'

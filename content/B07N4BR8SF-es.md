@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'United Colors of Benetton Basico 2 Man Camiseta de Manga Larga  Negro  Negro 100   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4BR8SF/?tag=tolees-21'
 descuento: '75.44'
 average: '12.27'

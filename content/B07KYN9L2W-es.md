@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Springfield 8.Gym.GRAF Bella Crochet Camiseta   Hielo 94   Large  Tamaño del Fabricante:L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYN9L2W/?tag=tolees-21'
 descuento: '72.80'
 average: '4.35'

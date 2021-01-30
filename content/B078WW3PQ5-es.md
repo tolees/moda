@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Quiksilver Molokai Abyss  Zapatos de Playa y Piscina para Hombre  Negro  Black/Black/White Xkkw   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WW3PQ5/?tag=tolees-21'
 descuento: '30.45'
 average: '16.12'

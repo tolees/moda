@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'CTAS Platform Layer HI Zapatos Deportivos Mujer Blanco 564486C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDFCYLV/?tag=tolees-21'
 descuento: '15.56'
 average: '76.0'

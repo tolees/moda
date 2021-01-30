@@ -16,6 +16,7 @@ comparePrice: 102.9 EUR
 prodname: 'Geox U Siron  Mocasines para Hombre  Marrón  Cognac C6001   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KYMT8HA/?tag=tolees-21'
 descuento: '50.00'
 average: '51.542'

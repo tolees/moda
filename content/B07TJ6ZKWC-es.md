@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Vila Clothes 14053555 Chaqueta Punto  Turquesa  Oil Blue Oil Blue   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ6ZKWC/?tag=tolees-21'
 descuento: '73.72'
 average: '7.88'

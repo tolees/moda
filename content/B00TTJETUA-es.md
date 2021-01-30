@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Tilden Walk  Zapatos de Cordones Derby  Negro  Black Leather-   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTJETUA/?tag=tolees-21'
 descuento: '52.06'
 average: '38.33'

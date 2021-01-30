@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Graphic 15 Core Round Neck Sudadera  Rojo  Port Red Htr 4611   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNVQWX/?tag=tolees-21'
 descuento: '83.01'
 average: '15.28'

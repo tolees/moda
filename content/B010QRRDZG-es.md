@@ -16,6 +16,7 @@ comparePrice: 150 EUR
 prodname: 'Timberland Larchmont Chelsea Waterproof  Botas Hombre  Marrón  Medium Brown Nubuck   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010QRRDZG/?tag=tolees-21'
 descuento: '43.25'
 average: '85.13'

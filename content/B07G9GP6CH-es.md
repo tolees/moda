@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Joma Academy Camiseta Termica  Hombre  Blanco  L-XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9GP6CH/?tag=tolees-21'
 descuento: '33.39'
 average: '11.99'

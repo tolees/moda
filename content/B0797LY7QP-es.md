@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Liga Jersey Camiseta  Hombre  Azul  Peacoat/White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797LY7QP/?tag=tolees-21'
 descuento: '45.86'
 average: '10.8'

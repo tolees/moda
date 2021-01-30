@@ -16,6 +16,7 @@ comparePrice: 39.83 EUR
 prodname: 'find. Flat Leather Pull On Botines  Marrón Almond  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKVT8R2/?tag=tolees-21'
 descuento: '39.29'
 average: '24.18'

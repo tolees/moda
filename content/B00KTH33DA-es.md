@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Tech Short Sleeve V-Solid Camiseta  Mujer  Gris  Carbon Heather/Metallic Silver 090   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KTH33DA/?tag=tolees-21'
 descuento: '48.25'
 average: '14.49'

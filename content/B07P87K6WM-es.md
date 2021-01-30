@@ -16,6 +16,7 @@ comparePrice: 12.96 EUR
 prodname: 'JACK & JONES Jcofin Shirt LS Plain Camisa  Multicolor  Blue Surf Fit:/Slim   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P87K6WM/?tag=tolees-21'
 descuento: '20.52'
 average: '10.3'

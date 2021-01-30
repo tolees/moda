@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Berydale CAmisa para mujer  estilo Carmen  Blanco  34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TH2WD3E/?tag=tolees-21'
 descuento: '44.92'
 average: '12.09'

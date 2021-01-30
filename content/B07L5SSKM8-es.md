@@ -16,6 +16,7 @@ comparePrice: 13.02 EUR
 prodname: 'FITYLE Bolso De Cuero Ajustable De La PU Bolso Bandolera Bolso Bandolera= - Hebilla Marrón + Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5SSKM8/?tag=tolees-21'
 descuento: '16.67'
 average: '7.0'

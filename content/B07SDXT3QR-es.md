@@ -16,6 +16,7 @@ comparePrice: 17.18 EUR
 prodname: 'Vans WM Thanks Coach Attendance Jacket Chaqueta  Verde  Grape Leaf Kcz   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDXT3QR/?tag=tolees-21'
 descuento: '31.14'
 average: '11.83'

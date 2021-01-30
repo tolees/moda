@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'BOSS Trunk CO/EL Bóxer  Negro  Black 001   XX-Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JZD8VYE/?tag=tolees-21'
 descuento: '54.21'
 average: '18.31'

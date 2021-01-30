@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Cotton cn tee SS Icon Camiseta  Navy Blazer-PT 416  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UBONA7K/?tag=tolees-21'
 descuento: '33.14'
 average: '19.99'

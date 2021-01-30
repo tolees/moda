@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Morgan Mentos Camiseta  Blanco  Off White Off White   Medium  Talla del Fabricante: TM  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HZ2UM4E/?tag=tolees-21'
 descuento: '36.60'
 average: '17.675'

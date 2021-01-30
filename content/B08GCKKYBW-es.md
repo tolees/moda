@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'MioRico Saco Dormir Bebe 1 TOG Saquito de Dormir 100% Algodon Organico Recien Nacido Pijama Manta Bebes 4 Estaciones Saco de Dormir para Bebés Regalo Recien Nacidos Niño Niña  3-6 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GCKKYBW/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

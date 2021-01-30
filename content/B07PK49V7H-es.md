@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Geox U Mattias B ABX A  Botas Chukka para Hombre  Azul  Navy C4002   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PK49V7H/?tag=tolees-21'
 descuento: '55.20'
 average: '53.56285714285713'

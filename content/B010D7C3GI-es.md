@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'DSstyles Toalla de Playa Extra Grande Toalla de Viaje Toalla de baño de Microfibra para el SPA de natación Deportes Yoga Toalla de baño Toalla de Mujer de Secado rápido Ultra Ligero - Bikini'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010D7C3GI/?tag=tolees-21'
 descuento: '23.54'
 average: '12.99'

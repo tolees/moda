@@ -16,6 +16,7 @@ comparePrice: 51.12 EUR
 prodname: 'Dickies Sacramento Camisa  Morado  Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P36CPNN/?tag=tolees-21'
 descuento: '31.53'
 average: '35'

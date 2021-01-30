@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Cotrell Stride  Zapatos de Cordones Derby para Hombre  Braun Tan-Funda de Piel  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC132PN/?tag=tolees-21'
 descuento: '45.03'
 average: '36.519999999999996'

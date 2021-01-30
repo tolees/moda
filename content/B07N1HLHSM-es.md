@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Cosmo Way  Zapatos de Tacón para Mujer  Gris Grey Textile  35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HLHSM/?tag=tolees-21'
 descuento: '82.94'
 average: '17.05'

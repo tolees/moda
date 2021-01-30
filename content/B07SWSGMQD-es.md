@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Geox B Kilwi Boy A  Zapatillas para Bebés  Blanco  White/Dk Red C1026   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWSGMQD/?tag=tolees-21'
 descuento: '53.24'
 average: '21.04'

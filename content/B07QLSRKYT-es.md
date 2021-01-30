@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Viedouce Mochilas para Pañales Biberones Bolso del Bebé Mamá Impermeable con Estilo Oxford Bolso Pañal de Gran Capacidad  con Portátil Cambiador y 2 Piezas Ganchos Carrito Bebé  Cian '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLSRKYT/?tag=tolees-21'
 descuento: '44.01'
 average: '27.99'

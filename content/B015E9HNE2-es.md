@@ -16,6 +16,7 @@ comparePrice: 170 EUR
 prodname: 'Ermenegildo Zegna Sonnenbrille EZ0020 Gafas de Sol  Marrón  Braun   54.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015E9HNE2/?tag=tolees-21'
 descuento: '81.83'
 average: '30.89'

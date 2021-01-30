@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Core18 Pre Jkty Chaqueta de Deporte  Unisex Niños  Negro/Blanco  13-14Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HQVX4S/?tag=tolees-21'
 descuento: '36.93'
 average: '15.42'

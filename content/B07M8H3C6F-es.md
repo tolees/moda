@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'The North Face tee Camiseta de Manga raglán Simple Dome  Mujer  Vintage White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8H3C6F/?tag=tolees-21'
 descuento: '41.93'
 average: '15.700000000000001'

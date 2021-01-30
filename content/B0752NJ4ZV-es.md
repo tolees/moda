@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Vaqueros  Rinsed 8970-082  26W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0752NJ4ZV/?tag=tolees-21'
 descuento: '80.60'
 average: '29.956666666666667'

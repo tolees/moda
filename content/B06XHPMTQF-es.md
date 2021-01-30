@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Negro  Black   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHPMTQF/?tag=tolees-21'
 descuento: '73.17'
 average: '6.4350000000000005'

@@ -16,6 +16,7 @@ comparePrice: 99.8 EUR
 prodname: 'Tommy Hilfiger Boat Neck tee 3/4 Sudadera Deportiva   Sky Captain 403   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBJWJD8/?tag=tolees-21'
 descuento: '60.53'
 average: '39.39'

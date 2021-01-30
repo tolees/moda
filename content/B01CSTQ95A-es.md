@@ -16,6 +16,7 @@ comparePrice: 11.85 EUR
 prodname: 'Joma Nobel Pantalón de equipación  Antracita  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CSTQ95A/?tag=tolees-21'
 descuento: '33.00'
 average: '7.94'

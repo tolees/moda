@@ -16,6 +16,7 @@ comparePrice: 14.1 EUR
 prodname: 'Under Armour  UNDKU  Performance 2.0 Divot Stripe  Camisa Polo Hombre  Verde  Tandem Teal 431   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1XHTV7/?tag=tolees-21'
 descuento: '24.33'
 average: '11.82'

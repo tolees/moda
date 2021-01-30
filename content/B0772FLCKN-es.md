@@ -16,6 +16,7 @@ comparePrice: 10.24 EUR
 prodname: 'Marca Amazon - MERAKI Pantalón Cortos Chinos Hombre  gris oscuro  38  Label: 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772FLCKN/?tag=tolees-21'
 descuento: '25.39'
 average: '8.709999999999999'

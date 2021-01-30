@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'DC Shoes Circle Star - Camiseta - Hombre - S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6VLKJQ/?tag=tolees-21'
 descuento: '24.98'
 average: '21.936666666666664'

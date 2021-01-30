@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett High Vaqueros  Gris  Grey Alma Iu   30W/35L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN37KZ2/?tag=tolees-21'
 descuento: '60.54'
 average: '35.49'

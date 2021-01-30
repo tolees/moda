@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Peakfreak Nomad Zapatos impermeables para hombre   Verde Nori  Tangy Orange   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GUXJVDI/?tag=tolees-21'
 descuento: '40.04'
 average: '56.975'

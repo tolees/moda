@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'MegaPack de Gafas de Protección y Seguridad Transparentes - Cómodo para Uso Diario  trabajo  con Ventilación Lateral - Anti Salpicaduras  Impactos y Polvo con Certificación Europea - Regalos Extra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HJ7F8F4/?tag=tolees-21'
 descuento: '52.50'
 average: '9.5'

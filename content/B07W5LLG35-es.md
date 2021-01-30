@@ -16,6 +16,7 @@ comparePrice: 19 EUR
 prodname: 'BestoU Monedero de Embrague Clutch Bolso de Noche Bolso Bandolera Bolsos de Mujer Envelope Bolso de Mano de Mujer Bolso de La Tarde de Las Boda Del Para La Muchacha  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5LLG35/?tag=tolees-21'
 descuento: '36.89'
 average: '12.323333333333334'

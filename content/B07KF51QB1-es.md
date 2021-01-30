@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Perfect-tee Camiseta de Manga Corta  Rosa  Pink Lady 0034   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF51QB1/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

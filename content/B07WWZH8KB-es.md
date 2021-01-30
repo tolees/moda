@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Sargo REYON  Chanclas para Hombre  Negro Negro Lona Negro  41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWZH8KB/?tag=tolees-21'
 descuento: '54.99'
 average: '22.48'

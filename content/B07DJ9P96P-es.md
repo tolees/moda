@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Marykarmen Mid Sandal E  Sandalias con Punta Abierta para Mujer  Taupe/Lt Gold Ch62l  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ9P96P/?tag=tolees-21'
 descuento: '71.31'
 average: '31.810000000000002'

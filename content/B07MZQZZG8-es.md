@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Pepe Jeans Margaret Camiseta   Mousse 808   3-4  Talla del Fabricante: 3/4 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQZZG8/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

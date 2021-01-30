@@ -16,6 +16,7 @@ comparePrice: 18.15 EUR
 prodname: 'Smiffy s 28385  Chaqueta de Mujer para Grease  Rosa  S  8 - 10 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0060KENS4/?tag=tolees-21'
 descuento: '18.79'
 average: '16.24'

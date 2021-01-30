@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Rider Jeans Vaqueros  Dark Marine  31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8L2BCG/?tag=tolees-21'
 descuento: '58.32'
 average: '37.49'

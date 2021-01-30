@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Graphic Diana Crew Sudadera  Blanco  90 s Serif White+ 0000   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHVCZYJ/?tag=tolees-21'
 descuento: '59.74'
 average: '28.18'

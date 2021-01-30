@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Victoria Vaqueros Ajustados  Azul  000denim 000   W27/L32  Talla del Fabricante: 27  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3PWT81/?tag=tolees-21'
 descuento: '73.93'
 average: '24.77'

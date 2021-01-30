@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Becken Cap  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR3JKYL/?tag=tolees-21'
 descuento: '29.99'
 average: '55.97'

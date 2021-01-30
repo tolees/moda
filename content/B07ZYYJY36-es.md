@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Vestido Vintage para Muejeres Mangas 3/4 Cuello V de Fiesta Cóctel Rockabilly Clásico 2XL CL010823-6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYYJY36/?tag=tolees-21'
 descuento: '25.01'
 average: '26.99'

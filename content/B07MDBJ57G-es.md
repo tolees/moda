@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Revend Skinny Vaqueros  Medium Aged Ripped A634-4865  27W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDBJ57G/?tag=tolees-21'
 descuento: '68.97'
 average: '37.22'

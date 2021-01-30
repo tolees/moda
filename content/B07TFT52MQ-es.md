@@ -16,6 +16,7 @@ comparePrice: 39.88 EUR
 prodname: 'bedee Chubasquero Chaqueta Impermeable Chubasquero Abrigo para Mujer  Amarillo-XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFT52MQ/?tag=tolees-21'
 descuento: '70.04'
 average: '13.959999999999999'

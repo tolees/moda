@@ -16,6 +16,7 @@ comparePrice: 289 EUR
 prodname: 'Geox W Adrya U Parka  Negro  Black F9000   36  Talla del Fabricante: 40  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8YKP96/?tag=tolees-21'
 descuento: '67.85'
 average: '92.9'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-Star 60885  Vaqueros para Mujer  Negro  Dark Aged 6545   W24/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MR10E2Y/?tag=tolees-21'
 descuento: '39.97'
 average: '50.916666666666664'

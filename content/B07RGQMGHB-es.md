@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger Tjw Logo Text tee Camiseta  Blanco  White Ya2   32  Talla del Fabricante: XX-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGQMGHB/?tag=tolees-21'
 descuento: '60.43'
 average: '13.85'

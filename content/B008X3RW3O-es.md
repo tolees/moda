@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox U Federico W  Zapatos Derby para Hombre  Negro  Black C9999   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008X3RW3O/?tag=tolees-21'
 descuento: '58.23'
 average: '51.635'

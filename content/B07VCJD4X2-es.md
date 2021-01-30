@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Chaq villena Abrigo  Azul  Jeans Claro 5007   46  Talla del fabricante: 44  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCJD4X2/?tag=tolees-21'
 descuento: '43.07'
 average: '56.9'

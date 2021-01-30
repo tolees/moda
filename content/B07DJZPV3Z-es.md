@@ -16,6 +16,7 @@ comparePrice: 52.9 EUR
 prodname: 'Geox B Kaytan a  Sandalias para Bebés  Dk Rose/Gold C8252  24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJZPV3Z/?tag=tolees-21'
 descuento: '30.00'
 average: '37.03'

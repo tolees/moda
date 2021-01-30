@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Keepsakes 2.0 Botines Mujer  Morado  Mauve Suede Mve   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW81QPB/?tag=tolees-21'
 descuento: '47.83'
 average: '36.49'

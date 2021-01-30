@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri DAMAVAND Crew Jersey  Rojo  Red Scarlet R01   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPK4M/?tag=tolees-21'
 descuento: '55.00'
 average: '47.5525'

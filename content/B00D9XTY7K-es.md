@@ -16,6 +16,7 @@ comparePrice: 35.34 EUR
 prodname: 'Rhino- Falda pantalón de deporte para mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D9XTY7K/?tag=tolees-21'
 descuento: '37.18'
 average: '22.2'

@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Wrangler Icons Vaqueros  Blue 3 Years 10K  30W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXR7X79/?tag=tolees-21'
 descuento: '71.56'
 average: '27.71'

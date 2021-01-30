@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'edc by Esprit 099cc2k008 Camisa Manga Larga  Rojo  Bordeaux Red 600   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCJ9MHL/?tag=tolees-21'
 descuento: '80.72'
 average: '7.71'

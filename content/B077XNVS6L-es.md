@@ -16,6 +16,7 @@ comparePrice: 26.19 EUR
 prodname: 'Under Armour UA Baseline Coaches Chaqueta  Hombre  Negro/Blanco  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XNVS6L/?tag=tolees-21'
 descuento: '25.77'
 average: '22.815'

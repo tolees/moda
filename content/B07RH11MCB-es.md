@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'LAOYE Collar de pulgas - 8 Meses de protección el Collar de Perro con Longitud Ajustable para Todas Las Edades de Perros el Collar antipulgas de Perro el Collar antiparasitos Perro pequeño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH11MCB/?tag=tolees-21'
 descuento: '25.02'
 average: '9.323333333333334'

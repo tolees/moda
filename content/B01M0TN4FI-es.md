@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'El Naturalista N5001 Pleasant Leaves  Sandalias con Correa de Tobillo para Mujer  Negro  Black Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0TN4FI/?tag=tolees-21'
 descuento: '43.52'
 average: '56.45'

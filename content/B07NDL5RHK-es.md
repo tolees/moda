@@ -16,6 +16,7 @@ comparePrice: 189.95 EUR
 prodname: 'G-STAR RAW Xpo Field Chaqueta  Verde  Sage 724   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL5RHK/?tag=tolees-21'
 descuento: '80.37'
 average: '37.29'

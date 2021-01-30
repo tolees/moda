@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Tjw Soft Jersey tee Ropa Deportiva de Punto  Verde  Olive Tree Msq   36  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMNL259/?tag=tolees-21'
 descuento: '51.72'
 average: '14.0'

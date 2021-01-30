@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Geox M Vincit G Abrigo  Negro  Black F9000   XXX-Large  Talla del Fabricante: 58  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5HKMZN/?tag=tolees-21'
 descuento: '69.62'
 average: '51.34'

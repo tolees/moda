@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Hurley M One and Only Surf Camiseta de Manga Corta  Hombre  Negro  Black/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PWPL95/?tag=tolees-21'
 descuento: '25.89'
 average: '21.34'

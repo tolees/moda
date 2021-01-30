@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Marca Amazon - Iris & Lilly Braga Hipster de Microfibra Mujer  Pack de 3  Negro  Black Beauty   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y88FNT7/?tag=tolees-21'
 descuento: '34.36'
 average: '10.49'

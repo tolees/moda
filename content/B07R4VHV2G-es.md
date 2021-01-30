@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Helly Hansen Lifaloft Ligera Chaqueta Aislante  Mujer  Alert Red  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4VHV2G/?tag=tolees-21'
 descuento: '48.18'
 average: '103.64'

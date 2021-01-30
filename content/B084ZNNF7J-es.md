@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Suhctup Funda Huawei P9 Plus  Carcasa Patrón de Dibujos Animados Soft Moda  Reforzado Cojín de Esquina Parachoques Funda Flexible Suave Ultra-Delgado Funda para Huawei P9 Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084ZNNF7J/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

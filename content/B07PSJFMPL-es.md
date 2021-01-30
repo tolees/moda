@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Kipling Myrte  Bolso con Bandolera para Mujer  Azul  Navy Stick Print   24x14.5x4.5 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJFMPL/?tag=tolees-21'
 descuento: '53.45'
 average: '34.91'

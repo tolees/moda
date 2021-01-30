@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Silver Ridge 2.0 Camisa De Manga Larga  Mujer  Nocturnal  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6TWNHQ/?tag=tolees-21'
 descuento: '31.56'
 average: '44.48'

@@ -16,6 +16,7 @@ comparePrice: 18.62 EUR
 prodname: 'adidas FreeLift Climachill 3-Stripes tee Men Camiseta de Manga Corta  Hombre  Azul  Tech Ink   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCFWRH5/?tag=tolees-21'
 descuento: '34.48'
 average: '12.2'

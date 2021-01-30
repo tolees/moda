@@ -16,6 +16,7 @@ comparePrice: 29.55 EUR
 prodname: 'Unisex Riverdale Impreso Simple Estudiantes de Gran Capacidad Estuche de lápices Cremallera Bolso de lápiz Estuche Plegable Bolsa de papelería Bolsa de Almacenamiento Adecuado para niños y niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV5M6XS/?tag=tolees-21'
 descuento: '60.00'
 average: '11.82'

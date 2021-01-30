@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Hurley M Garrison Chaqueta  Hombre  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB5XDJ9/?tag=tolees-21'
 descuento: '80.90'
 average: '32.1'

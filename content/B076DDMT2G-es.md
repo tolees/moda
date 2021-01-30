@@ -16,6 +16,7 @@ comparePrice: 144.9 EUR
 prodname: 'Tommy Hilfiger Essential Suede Lace Up Derby  Zapatos de Cordones Oxford para Hombre  Marrón  Coffee Bean 212   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076DDMT2G/?tag=tolees-21'
 descuento: '35.16'
 average: '93.95'

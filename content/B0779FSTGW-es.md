@@ -16,6 +16,7 @@ comparePrice: 160 EUR
 prodname: 'Clarks Originals Wallabee  Zapatos de Cordones Derby para Hombre  Marrón  Cola-   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779FSTGW/?tag=tolees-21'
 descuento: '52.46'
 average: '80.72600000000001'

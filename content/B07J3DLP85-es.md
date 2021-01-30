@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour UA Streaker 2.0 Camiseta  Mujer  Azul  Breathtaking Blue/Reflective 400   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3DLP85/?tag=tolees-21'
 descuento: '40.09'
 average: '20.97'

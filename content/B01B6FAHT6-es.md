@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'LEGO Ninjago - Pijama para Niños 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B6FAHT6/?tag=tolees-21'
 descuento: '42.96'
 average: '11.95'

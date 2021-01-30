@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jprmiles BLU tee LS Henley-Pre Camisa Manga Larga  Blanco  Whisper White Fit: Slim Fit   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFHVSDL/?tag=tolees-21'
 descuento: '80.56'
 average: '5.83'

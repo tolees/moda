@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Superdry Premium Goods Puff Entry tee Camiseta de Tirantes  Rosa  Neon Pink Snowy Zv0   M  Talla del Fabricante:12  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NX7Z9W2/?tag=tolees-21'
 descuento: '50.02'
 average: '15.790000000000001'

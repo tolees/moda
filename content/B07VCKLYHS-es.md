@@ -16,6 +16,7 @@ comparePrice: 48.95 EUR
 prodname: 'Desigual Bols ada Rotterdam - Bolso bandolera para mujer  15 x 30 x 31 cm   color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCKLYHS/?tag=tolees-21'
 descuento: '28.60'
 average: '34.95'

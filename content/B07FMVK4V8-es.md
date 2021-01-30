@@ -16,6 +16,7 @@ comparePrice: 34.75 EUR
 prodname: 'Converse Converse EDC 22 Backpack 10007031-A06 Bolso Bandolera 46 Centimeters 22 Azul  Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMVK4V8/?tag=tolees-21'
 descuento: '49.70'
 average: '18.16'

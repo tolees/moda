@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Levi s tee Camiseta  Blanco  White Cn-100xx 0006   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VLC96K/?tag=tolees-21'
 descuento: '20.25'
 average: '15.95'

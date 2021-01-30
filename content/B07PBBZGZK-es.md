@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Elly Vaqueros  Gris  Lead Grey 30   24W / 31L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBBZGZK/?tag=tolees-21'
 descuento: '79.18'
 average: '18.73'

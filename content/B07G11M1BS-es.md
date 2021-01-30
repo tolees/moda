@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Gafas de lectura sin patillas graduadas para hombre y mujer transparentes. Gafas de presbicia para hombre y mujer retro o vintage para vista cansada. Graphite +1.0 – MIM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G11M1BS/?tag=tolees-21'
 descuento: '55.10'
 average: '11.18'

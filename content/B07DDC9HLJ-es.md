@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA ESS Logo tee Camiseta  Mujer  Negro  Cotton Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDC9HLJ/?tag=tolees-21'
 descuento: '39.90'
 average: '12.9175'

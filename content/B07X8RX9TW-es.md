@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Hawiton Camisón Lactancia Manga Larga Pijama Embarazada Algodón Ropa para Dormir Premamá Hospital Otoño Invierno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8RX9TW/?tag=tolees-21'
 descuento: '61.68'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 108.17 EUR
 prodname: 'Relojes para Hombre Moda Deporte Cuarzo Analógico Negro Malla Acero Inoxidable Impermeable Cronógrafo Reloj de Pulsera  Fecha automática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083PVYGM9/?tag=tolees-21'
 descuento: '69.50'
 average: '32.99'

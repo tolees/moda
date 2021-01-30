@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Sealey Pm581633 Sudadera   Grey Marl 933   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG7TFV6/?tag=tolees-21'
 descuento: '33.40'
 average: '36.39'

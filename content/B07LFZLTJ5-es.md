@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Geox D Nebula D  Zapatillas para Mujer  Azul  Dk Navy C4021   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZLTJ5/?tag=tolees-21'
 descuento: '54.93'
 average: '60.85'

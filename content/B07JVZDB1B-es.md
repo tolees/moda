@@ -16,6 +16,7 @@ comparePrice: 24.58 EUR
 prodname: 'Marca Amazon - find. Calzoncillo Corto Bajo de Algodón Hombre  Multicolor  Black/Charcoal   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVZDB1B/?tag=tolees-21'
 descuento: '22.13'
 average: '19.14'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Zapatillas Casa Hombre Mujer Invierno Calido Zapatillas Memory Foam Slipper Ultraligero cómodo y Antideslizante Zapatilla de Estar por casa para Mujer Zapatillas de Interior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDZ4G4N/?tag=tolees-21'
 descuento: '40.38'
 average: '17.88'

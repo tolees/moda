@@ -16,6 +16,7 @@ comparePrice: 154.99 EUR
 prodname: 'Lacoste - Jersey para hombre Galaxite Chine/Flour-stone Chine a83  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZQNM9H/?tag=tolees-21'
 descuento: '51.01'
 average: '75.93'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia 1420421  Chaqueta Forro Polar Hombre  Azul  Collegiate Navy   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7XNRQ4/?tag=tolees-21'
 descuento: '51.49'
 average: '19.3375'

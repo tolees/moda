@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia 1420421  Chaqueta Forro Polar Hombre  Azul  Blau/Negro   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC894MP/?tag=tolees-21'
 descuento: '62.55'
 average: '18.72'

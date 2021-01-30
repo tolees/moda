@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'GRIMEY Sudadera Acknowledge Hoodie SS20 Sport Grey-XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0857BDZ4Q/?tag=tolees-21'
 descuento: '20.00'
 average: '55.92'

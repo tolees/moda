@@ -16,6 +16,7 @@ comparePrice: 45.98 EUR
 prodname: 'GHYUGR Abrigos con Horn Botones Mujer Invierno Elegantes Slim Chaqueta con Capucha Lana Capa Jacket Sudadera Pullover Outwear Parka Negro XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVPM825/?tag=tolees-21'
 descuento: '39.15'
 average: '27.98'

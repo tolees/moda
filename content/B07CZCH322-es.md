@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Under Armour UA Qualifier Camiseta  Hombre  Amarillo  High-Vis Yellow/High-Vis Yellow/Reflective 731   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZCH322/?tag=tolees-21'
 descuento: '51.68'
 average: '21.74'

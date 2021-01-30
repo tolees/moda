@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Julbo Whoops – Gafas de Sol para Mujer  Color Berenjena Oscuro/enjos Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777WGKLQ/?tag=tolees-21'
 descuento: '19.84'
 average: '46.49'

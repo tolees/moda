@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Napapijri K Rainforest 1 Chaqueta  Rosa  Dahlia Pink PA5   4 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M83W2ZW/?tag=tolees-21'
 descuento: '40.35'
 average: '76.95'

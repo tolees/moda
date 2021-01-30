@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Havaianas Slim Chanclas Mujer  Rosa  Ballet Rose   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QZJZVG/?tag=tolees-21'
 descuento: '24.90'
 average: '19.45'

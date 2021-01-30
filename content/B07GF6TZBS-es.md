@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Semme  Chaleco térmico eléctrico   de Invierno  USB Cargado  Calefacción Inteligente para Actividades al Aire Libre en climas fríos  Color Azul Oscuro Unisex  Talla XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GF6TZBS/?tag=tolees-21'
 descuento: '51.01'
 average: '19.59'

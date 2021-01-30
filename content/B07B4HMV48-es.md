@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Botin Timberland A1ODQ Verde  45.5  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4HMV48/?tag=tolees-21'
 descuento: '48.80'
 average: '74.63'

@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Vaqueros slim  Azul  Light Charm 17u   W31/L34  Talla del fabricante: 31/34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSFD7CR/?tag=tolees-21'
 descuento: '62.34'
 average: '31.99'

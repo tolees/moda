@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Pepe Jeans Freya Blusa  Multicolor  Multi 0aa   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZMB1HB/?tag=tolees-21'
 descuento: '40.00'
 average: '41.94'

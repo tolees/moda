@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Hamble Oak  Zapatos de Cordones Derby para Mujer  Leopard Print  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JZHJ5/?tag=tolees-21'
 descuento: '72.85'
 average: '29.87'

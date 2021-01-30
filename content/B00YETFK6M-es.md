@@ -16,6 +16,7 @@ comparePrice: 48.9 EUR
 prodname: 'Biomecanics 151157  Zapatos de primeros pasos Unisex Bebés  Blanco  Sauvage   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YETFK6M/?tag=tolees-21'
 descuento: '15.46'
 average: '41.34'

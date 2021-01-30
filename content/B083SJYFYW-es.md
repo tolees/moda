@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'VVA Gafas de sol polarizadas para hombres Gafas de sol retro clásicas para hombres y mujeres para conducción al aire libre Protección unisex UV400 V105 Negro/Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SJYFYW/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

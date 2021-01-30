@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Havaianas Flash Urban  Sandalias de Talón Abierto para Mujer  Rosa  Lilac Lavender 7599   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SP4ZNPG/?tag=tolees-21'
 descuento: '34.72'
 average: '12.99'

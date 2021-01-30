@@ -16,6 +16,7 @@ comparePrice: 134.99 EUR
 prodname: 'G-STAR RAW Midge Zip Low Waist Super Skinny Vaqueros  rinsed-82  25W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SF8JYC4/?tag=tolees-21'
 descuento: '65.93'
 average: '44.32'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Burton Brtn Sudadera  Hombre  True Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLP9KX1/?tag=tolees-21'
 descuento: '50.91'
 average: '32.72'

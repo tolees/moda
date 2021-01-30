@@ -16,6 +16,7 @@ comparePrice: 163.0 EUR
 prodname: 'Harmont & Blaine HRA012030347 Jersey  Rojo  Cherry 513   5XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FJV1NR7/?tag=tolees-21'
 descuento: '72.77'
 average: '97.3'

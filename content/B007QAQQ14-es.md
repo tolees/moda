@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Cressi Portofino  Chanclas Flip Flops  Hombre  Azul/Blanco  Blau/Weiß   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007QAQQ14/?tag=tolees-21'
 descuento: '24.21'
 average: '10.993333333333334'

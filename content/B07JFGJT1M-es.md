@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste Ch0763 Camisa   Blanc 001   Large  Talla del Fabricante: 42  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFGJT1M/?tag=tolees-21'
 descuento: '44.05'
 average: '60.99'

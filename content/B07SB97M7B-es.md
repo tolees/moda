@@ -16,6 +16,7 @@ comparePrice: 61.03 EUR
 prodname: 'adidas Grand Court Base  Zapatos de Tenis para Hombre  Marino  42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB97M7B/?tag=tolees-21'
 descuento: '58.40'
 average: '26.310000000000002'

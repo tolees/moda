@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Azul  Navy/Red   19/20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007AFZSPK/?tag=tolees-21'
 descuento: '31.08'
 average: '20.67'

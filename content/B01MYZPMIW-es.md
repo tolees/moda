@@ -16,6 +16,7 @@ comparePrice: 7.18 EUR
 prodname: 'IRIS & LILLY Sujetador Bandeau de Encaje Suave Mujer  Pack de 2  Multicolor  Black/white   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYZPMIW/?tag=tolees-21'
 descuento: '41.64'
 average: '4.495'

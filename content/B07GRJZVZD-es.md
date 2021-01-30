@@ -16,6 +16,7 @@ comparePrice: 13.12 EUR
 prodname: 'Khanomak de las Mujeres de Manga Corta Cuello Redondo de Rayas Ringer Suelta la Camiseta  Medio  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRJZVZD/?tag=tolees-21'
 descuento: '69.59'
 average: '3.99'

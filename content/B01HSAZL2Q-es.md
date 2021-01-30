@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Meller - Kubu Tigris Sky - Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HSAZL2Q/?tag=tolees-21'
 descuento: '40.00'
 average: '24.0'

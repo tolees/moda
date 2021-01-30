@@ -16,6 +16,7 @@ comparePrice: 23.42 EUR
 prodname: 'Onnea Paquete 10 Piezas Gafas de Sol de Fiesta 100% de Protección UV para Niño  10 Púrpura '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPYQSHX/?tag=tolees-21'
 descuento: '35.99'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212 Camisa de Polo  COSMIQUE  3XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0093XTXD0/?tag=tolees-21'
 descuento: '36.85'
 average: '59.99'

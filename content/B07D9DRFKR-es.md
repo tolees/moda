@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Levi s 501 Original Fit Vaqueros  Sponge St  33W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9DRFKR/?tag=tolees-21'
 descuento: '28.58'
 average: '36.49333333333333'

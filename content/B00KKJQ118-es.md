@@ -16,6 +16,7 @@ comparePrice: 39.05 EUR
 prodname: 'James & Nicholson Children s - Sudadera infantil  Azul  Sky Blue   36  Talla del fabricante: XS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KKJQ118/?tag=tolees-21'
 descuento: '79.69'
 average: '7.93'

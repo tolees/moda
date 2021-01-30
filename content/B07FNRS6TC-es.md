@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'The North Face W TBL Sport HD Sudadera Deportiva con Capucha Thermoball  Mujer  Atomic Pink  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNRS6TC/?tag=tolees-21'
 descuento: '59.69'
 average: '95.2'

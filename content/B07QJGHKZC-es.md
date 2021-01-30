@@ -16,6 +16,7 @@ comparePrice: 145 EUR
 prodname: 'Guess Analise Bolso de mano negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJGHKZC/?tag=tolees-21'
 descuento: '20.00'
 average: '116'

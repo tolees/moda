@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Surplus - Pantalón Chino para Mujer  Talla W33/L30  Herstellergröße: 38  - Talla Alemana  Color Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008UXFP72/?tag=tolees-21'
 descuento: '83.33'
 average: '11.34'

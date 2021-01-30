@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Diesel S-Crew-Division-D Sweat-Shirt Sudadera  Negro  Negro 900   Small  Tamaño del Fabricante: S  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXMRMC2/?tag=tolees-21'
 descuento: '70.23'
 average: '35.43'

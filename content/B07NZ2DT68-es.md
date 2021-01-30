@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Classic Twill L/s Shirt Camisa  Azul  Nórdica Chrome Navy L6t   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ2DT68/?tag=tolees-21'
 descuento: '47.15'
 average: '36.99'

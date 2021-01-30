@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'find. Suede Zapatos de Cordones Derby  Gris Grey  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D45BW9R/?tag=tolees-21'
 descuento: '52.25'
 average: '45.832857142857144'

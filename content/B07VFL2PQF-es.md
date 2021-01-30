@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'HUGO 734 Vaqueros Skinny  Gris  Medium Grey 30   W30/L30  Talla del Fabricante: 3030  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFL2PQF/?tag=tolees-21'
 descuento: '34.06'
 average: '85.69'

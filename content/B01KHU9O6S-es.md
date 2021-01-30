@@ -16,6 +16,7 @@ comparePrice: 27.82 EUR
 prodname: 'sitengle Mujeres Elegante Camisetas de Encaje Floral Mangas Largas See Through T Shirt Camisas Basic Blusa Tops Negro XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KHU9O6S/?tag=tolees-21'
 descuento: '71.89'
 average: '7.82'

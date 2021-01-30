@@ -16,6 +16,7 @@ comparePrice: 6.35 EUR
 prodname: 'Marca Amazon - find. Cinturón Doble Cierre para Hombre  azul  marino   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJBMB69/?tag=tolees-21'
 descuento: '28.03'
 average: '5.383333333333334'

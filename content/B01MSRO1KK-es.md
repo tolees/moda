@@ -16,6 +16,7 @@ comparePrice: 9.52 EUR
 prodname: 'NIZZIN Francine Camisa  Negro  Black   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSRO1KK/?tag=tolees-21'
 descuento: '62.18'
 average: '4.426'

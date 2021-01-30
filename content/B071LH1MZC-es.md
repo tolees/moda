@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Under Armour Woven Graphic Wordmark Shorts Pantalones de hombre  pantalón corto ultraligero y transpirable  cómodo y ancho pantalón de deporte  Red/Black  600   LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LH1MZC/?tag=tolees-21'
 descuento: '47.96'
 average: '12.790000000000001'

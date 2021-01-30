@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'Desigual TS_Logan Camiseta   Cemento 2012   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ST83BB/?tag=tolees-21'
 descuento: '50.88'
 average: '17.66'

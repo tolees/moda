@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Ruckel Ridge Waterproof  Zapatos Impermeables de Senderismo para Hombre  Marrón  Cordovan  Canyon Gold 231   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNVVWML/?tag=tolees-21'
 descuento: '44.10'
 average: '55.89'

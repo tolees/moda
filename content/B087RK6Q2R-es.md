@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Mosucoirl Camisa sin Mangas con Cuello en V y Encaje con Cuello en V Camisa Informal sin Mangas Camisa Blusa Ligera Sexy Tank Top  Negro  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RK6Q2R/?tag=tolees-21'
 descuento: '22.73'
 average: '13.9'

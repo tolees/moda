@@ -16,6 +16,7 @@ comparePrice: 16.75 EUR
 prodname: 'ARTESANIA CERDA Bolso Bandolera 3D Harry Potter  Unisex Adultos  Rojo  Rojo   5x19x18 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZQ8NT8/?tag=tolees-21'
 descuento: '28.36'
 average: '12.0'

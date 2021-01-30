@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Nike M SB Dri-FIT Camiseta  Hombre  Blanco  White/Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBGWBDF/?tag=tolees-21'
 descuento: '30.08'
 average: '20.97'

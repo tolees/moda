@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tous K Shock Rever Girls  Organizadore de Bolso para Mujer   Multicolor 995900863   35x22x15 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDFKYTK/?tag=tolees-21'
 descuento: '50.00'
 average: '17.5'

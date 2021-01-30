@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Nu-Tility tee Camiseta  Hombre  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHKQL8F/?tag=tolees-21'
 descuento: '49.94'
 average: '12.49'

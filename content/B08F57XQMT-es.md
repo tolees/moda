@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'Zapatillas de Seguridad Hombres Zapatos de Trabajo con Punta de Acero Calzado de Seguridad Naranja 44 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F57XQMT/?tag=tolees-21'
 descuento: '20.85'
 average: '37.99'

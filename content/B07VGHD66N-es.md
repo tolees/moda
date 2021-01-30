@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BLEND Jet Vaqueros Slim  Azul  Denim Middle Blue 76201   W32/L32  Talla del Fabricante: 32/32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGHD66N/?tag=tolees-21'
 descuento: '40.98'
 average: '29.48'

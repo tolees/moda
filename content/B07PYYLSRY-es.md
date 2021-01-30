@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Under Armour UA M Ignite Vi SL  Zapatos de Playa y Piscina para Hombre  Negro  Black/Black/White   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYYLSRY/?tag=tolees-21'
 descuento: '22.09'
 average: '27.23'

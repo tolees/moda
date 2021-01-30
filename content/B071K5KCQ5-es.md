@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Lee Logo tee Camiseta  Blanco  White Ai12   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071K5KCQ5/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

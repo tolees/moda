@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Only Onlsedona Light Coat Otw Noos Abrigo  Marrón  Etherea Detail:Melange   34  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075TYPCG6/?tag=tolees-21'
 descuento: '39.93'
 average: '30.03'

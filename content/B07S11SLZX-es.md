@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Only Frsfloyd Training Brushed Sweat-Unit Sudadera Deportiva  Rojo  Tomato Tomato   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S11SLZX/?tag=tolees-21'
 descuento: '80.86'
 average: '10.273333333333333'

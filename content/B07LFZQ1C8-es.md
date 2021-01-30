@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Geox U KEELBACK B ABX B  Zapatillas Altas para Hombre  Negro  Black C9999   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZQ1C8/?tag=tolees-21'
 descuento: '50.00'
 average: '74.95'

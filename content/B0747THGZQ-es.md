@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox Zapatillas J New Savage Boy para Niños Gris 33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0747THGZQ/?tag=tolees-21'
 descuento: '50.00'
 average: '29.95'

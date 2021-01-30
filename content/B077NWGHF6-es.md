@@ -16,6 +16,7 @@ comparePrice: 76 EUR
 prodname: 'Brax Style.Clarissa  Camiseta de Manga Larga para Mujer  Rosa  Cherry Blossom 87  44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NWGHF6/?tag=tolees-21'
 descuento: '85.75'
 average: '10.83'

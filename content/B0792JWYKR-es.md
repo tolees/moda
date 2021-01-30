@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Geox JR Agata D  Zapatos de Cordones Brogue para Niñas  Negro  Black C9999   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792JWYKR/?tag=tolees-21'
 descuento: '78.17'
 average: '16.065'

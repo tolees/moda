@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only Onlnew Lucca Parka Jacket Otw  Azul  Night Sky Night Sky   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2DLXQ9/?tag=tolees-21'
 descuento: '47.34'
 average: '21.06'

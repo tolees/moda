@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Wyatt Pm305905 Camisa    Blue 551   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH3FMNK/?tag=tolees-21'
 descuento: '72.51'
 average: '24.41'

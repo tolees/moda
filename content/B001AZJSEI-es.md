@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Crocs Cleo  Sandalias de Punta Descubierta para Mujer  Negro Black 060  37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001AZJSEI/?tag=tolees-21'
 descuento: '60.02'
 average: '14.145'

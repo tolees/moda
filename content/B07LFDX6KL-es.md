@@ -16,6 +16,7 @@ comparePrice: 33.84 EUR
 prodname: 'Levi s 514 Vaqueros Straight  Azul  Stonewash Stretch T2 1267   W29/L32  Talla del Fabricante: 29 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFDX6KL/?tag=tolees-21'
 descuento: '30.32'
 average: '23.58'

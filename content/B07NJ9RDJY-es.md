@@ -16,6 +16,7 @@ comparePrice: 5.59 EUR
 prodname: 'Springfield 1.Ap.Oi19.Tirante Bimater Blusa  Multicolor  Multicolor 21   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ9RDJY/?tag=tolees-21'
 descuento: '19.68'
 average: '4.49'

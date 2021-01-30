@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Aibrou Camisón Mujer Sexy Algodón Encaje Tirantes Pijama Saten Comodo y Elegante Ropa Interior con Tanga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D26LRL9/?tag=tolees-21'
 descuento: '15.01'
 average: '13.59'

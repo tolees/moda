@@ -16,6 +16,7 @@ comparePrice: 12.19 EUR
 prodname: 'JACK & JONES Jcofin Shirt LS Plain Camisa  Multicolor  Federal Blue Fit:/Slim   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P81DSLX/?tag=tolees-21'
 descuento: '15.75'
 average: '10.27'

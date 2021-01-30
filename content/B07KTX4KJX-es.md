@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'adidas Lin Core Org Bolso  Unisex Adulto  Multicolor  azuaut/azuaut/Blanco   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTX4KJX/?tag=tolees-21'
 descuento: '40.29'
 average: '9.247333333333334'

@@ -16,6 +16,7 @@ comparePrice: 22.41 EUR
 prodname: 'Under Armour Mk1 Warmup Po Hood Sudadera  Hombre  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT8F4G1/?tag=tolees-21'
 descuento: '16.51'
 average: '18.71'

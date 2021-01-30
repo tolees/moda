@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Suzzie B  Zapatillas para Mujer  Marfil  Off White/Lt Blue C0160   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXTHMKW/?tag=tolees-21'
 descuento: '72.27'
 average: '30.48'

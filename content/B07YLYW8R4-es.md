@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'VERTBAUDET Camiseta de Cuello Alto fantasía bebé niño Azul Oscuro Liso con Motivos 24M-86CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLYW8R4/?tag=tolees-21'
 descuento: '60.06'
 average: '3.99'

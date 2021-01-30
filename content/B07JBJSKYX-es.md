@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Double Up  Zapatos de tacón con Punta Cerrada para Mujer  Plateado  Silver SIL   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBJSKYX/?tag=tolees-21'
 descuento: '40.03'
 average: '38.95'

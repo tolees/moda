@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'SERAPHY Chándales de Terciopelo Unisex Cálido 2PCS Conjuntos Moda Niño Otoño Invierno Ropa Bebé Ropa de terciopelo-GR-100'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0823M6DCS/?tag=tolees-21'
 descuento: '37.05'
 average: '16.99'

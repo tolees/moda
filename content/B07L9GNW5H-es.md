@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Rival Fleece Crew  Sudadera Hombre  Verde  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9GNW5H/?tag=tolees-21'
 descuento: '41.71'
 average: '26.23'

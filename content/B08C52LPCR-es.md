@@ -16,6 +16,7 @@ comparePrice: 19.86 EUR
 prodname: 'GMWD Alfombrilla Desinfectante para El Piso  Zapatos De Limpieza De La Puerta Delantera  Almohadilla Absorbente De Agua  Alfombras Y Felpudos  para El Hogar  Hotel  Hospital  Entrada De La Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C52LPCR/?tag=tolees-21'
 descuento: '22.10'
 average: '15.715'

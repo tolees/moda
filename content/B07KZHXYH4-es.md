@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Alex Perry Regalo Día de la Madre collares mujer colgantes mujer collar plata mujer joyas para mujer bisuteria mujer joyeria mujer regalos originales para mujer tous mujer joyeria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZHXYH4/?tag=tolees-21'
 descuento: '70.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 9.45 EUR
 prodname: 'RED WAGON Sudadera Print Niñas  Morado  Lavander Fog 13-3820 Tcx   110  Talla del fabricante: 5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076FCZS83/?tag=tolees-21'
 descuento: '52.38'
 average: '4.5'

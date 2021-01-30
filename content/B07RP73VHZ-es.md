@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'DJSJ- Disfraz Deluxe Infantil Unisex Disfraz Costume Capa Disfraz de Harry Potter para niño Varita mágica Cumpleaños Varita mágica Corbata Bufanda Gafas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RP73VHZ/?tag=tolees-21'
 descuento: '29.17'
 average: '24.79'

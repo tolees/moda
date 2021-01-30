@@ -16,6 +16,7 @@ comparePrice: 18.39 EUR
 prodname: 'IRIS & LILLY Camisón Corto de Tirantes con Detalle de Encaje para Mujer  Verde  Mint Green   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075S5Q7XG/?tag=tolees-21'
 descuento: '37.47'
 average: '11.5'

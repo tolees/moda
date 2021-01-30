@@ -16,6 +16,7 @@ comparePrice: 12.54 EUR
 prodname: 'Calvin Klein Braguita de Bikini  Azul  Maldives 3EK    Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMNDHL9/?tag=tolees-21'
 descuento: '20.33'
 average: '9.99'

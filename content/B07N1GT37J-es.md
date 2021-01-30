@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Griffin Lane  Zapatos de Cordones Derby para Mujer  Negro  Black Pat Black Pat   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GT37J/?tag=tolees-21'
 descuento: '41.84'
 average: '37.66'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Negro  90 s Serif Perfect T2 Caviar 0783   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLJM8P/?tag=tolees-21'
 descuento: '36.04'
 average: '16.204285714285714'

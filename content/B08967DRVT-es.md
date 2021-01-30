@@ -16,6 +16,7 @@ comparePrice: 17.73 EUR
 prodname: 'UMUSTY 3D One punch man Funda de lápiz con cremallera unisex Estudiantes Harajuku Bolso de bolígrafo Útiles escolares Papelería de oficina Bolsas de almacenamiento  2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08967DRVT/?tag=tolees-21'
 descuento: '66.78'
 average: '5.89'

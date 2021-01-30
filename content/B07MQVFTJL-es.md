@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Napapijri Rainforest Pocket Chaqueta  Amarillo  Yellow Lime YA2   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVFTJL/?tag=tolees-21'
 descuento: '49.90'
 average: '119.74'

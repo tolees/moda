@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Collar Antiladridos Para Perros - Collar Anti-Ladridos Sonido/Vibración/Sensibilidad  Collar Ajustable Para Perros Pequeños  Medianos y Grandes  Viene con 2 Collares de Nylon Luminosos Intercambiables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BR2PF4/?tag=tolees-21'
 descuento: '63.76'
 average: '28.99'

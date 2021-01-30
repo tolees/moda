@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Freelift T Camiseta  Hombre  Negro  Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP3WG2R/?tag=tolees-21'
 descuento: '43.61'
 average: '14.07'

@@ -16,6 +16,7 @@ comparePrice: 16.8 EUR
 prodname: 'Jack & Jones JORTOPIAS Sweat Hood Sudadera con Capucha  Verde  Sea Moss Fit: Relax   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGH139J/?tag=tolees-21'
 descuento: '30.54'
 average: '11.67'

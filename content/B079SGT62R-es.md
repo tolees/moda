@@ -16,6 +16,7 @@ comparePrice: 35.09 EUR
 prodname: 'Polaroid PLD 4066/S Gafas de sol  Marrón  DKHAVANA   57 Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SGT62R/?tag=tolees-21'
 descuento: '28.47'
 average: '25.1'

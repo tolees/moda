@@ -16,6 +16,7 @@ comparePrice: 13.97 EUR
 prodname: 'PORPEE Gafas de Sol Hombre Mujer Polarizadas Súper Ligero Al-Mg Marco De Metal | Nylon Polarizado HD | 100% UV400 Protection'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSP21F7/?tag=tolees-21'
 descuento: '24.19'
 average: '10.59'

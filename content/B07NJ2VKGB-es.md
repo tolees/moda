@@ -16,6 +16,7 @@ comparePrice: 6.97 EUR
 prodname: 'Springfield 2.T.Ciudades Lentejuelas Camiseta  Azul  Azul 17   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ2VKGB/?tag=tolees-21'
 descuento: '28.69'
 average: '4.97'

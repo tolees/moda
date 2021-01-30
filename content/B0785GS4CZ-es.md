@@ -16,6 +16,7 @@ comparePrice: 27 EUR
 prodname: 'Gregster Bauna  Zapatos de Low Rise Senderismo para Hombre  Negro  Schwarz   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0785GS4CZ/?tag=tolees-21'
 descuento: '55.96'
 average: '11.89'

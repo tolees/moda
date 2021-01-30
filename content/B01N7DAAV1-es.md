@@ -16,6 +16,7 @@ comparePrice: 130 EUR
 prodname: 'The North Face Outerwear TNF Chaqueta  Mujer  Negro  Tnf Bla/Foi Gre   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7DAAV1/?tag=tolees-21'
 descuento: '39.52'
 average: '78.62'

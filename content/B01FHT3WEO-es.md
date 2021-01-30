@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'MaxMuxun Sandalias de Vestir Clásica Básica con Tira Trasera Azul para Mujer Tamaña 37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FHT3WEO/?tag=tolees-21'
 descuento: '43.01'
 average: '24.5'

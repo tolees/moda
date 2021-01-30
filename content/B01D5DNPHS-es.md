@@ -16,6 +16,7 @@ comparePrice: 14.79 EUR
 prodname: 'Compactor Taupe Home Zapatos Bolsa de Almacenamiento  Microfibra  Pardo y Blanco  76 x 60 x 15 cm  Non-Woven 75G | Printing by Machine  Topo  No No Applicable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D5DNPHS/?tag=tolees-21'
 descuento: '79.92'
 average: '2.97'

@@ -16,6 +16,7 @@ comparePrice: 65.9 EUR
 prodname: 'find. Botines con Suela de Crepe Estilo Óxford para Hombre  Negro  Black   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071H3VB9L/?tag=tolees-21'
 descuento: '66.43'
 average: '22.12'

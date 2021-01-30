@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'H by Hudson Antrim  Zapatos de Cordones Derby para Hombre  Azul  Navy 02   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1TZ4K9/?tag=tolees-21'
 descuento: '61.26'
 average: '30.99'

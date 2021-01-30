@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver Molokai Hold Down  Zapatos de Playa y Piscina para Hombre  Azul  Black/Blue/Black Xkbk   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SST8WSM/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Tommy Hilfiger Arlos Bomber Chaqueta deportiva  Negro  Black Bds   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFLWYQD/?tag=tolees-21'
 descuento: '68.86'
 average: '71.3'

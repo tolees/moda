@@ -16,6 +16,7 @@ comparePrice: 12 EUR
 prodname: 'Puma Cross The Line tee Camiseta  Hombre  Red White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAQCVY9/?tag=tolees-21'
 descuento: '20.00'
 average: '9.6'

@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Zapatos de Seguridad para Hombre Zapatillas Zapatos de Mujer Seguridad de Acero Ligeras Calzado de Trabajo para Comodas Unisex Zapatos de Industria y Construcción Gris 35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081GW2TBJ/?tag=tolees-21'
 descuento: '15.00'
 average: '28.04'

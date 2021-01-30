@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Star Wars - Camiseta para niño BB8-11 - 12 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZFGYM9/?tag=tolees-21'
 descuento: '46.82'
 average: '7.95'

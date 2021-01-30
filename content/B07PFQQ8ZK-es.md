@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'El Búho Nocturno Pijama de Caballero de Manga Larga canalé Pijama Moderno Pijama de Entretiempo de Punto de algodón para Hombre XXL Marino-Estampado Puntos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFQQ8ZK/?tag=tolees-21'
 descuento: '49.14'
 average: '27.95'

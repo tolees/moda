@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Wilson W Team RD Falda de Tenis  Mujer  Rojo  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AP5OJVA/?tag=tolees-21'
 descuento: '73.33'
 average: '8.0'

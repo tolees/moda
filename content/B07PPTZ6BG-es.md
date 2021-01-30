@@ -16,6 +16,7 @@ comparePrice: 16.89 EUR
 prodname: 'Sexy Traje de baño de Dos Piezas para Mujer con Traje de baño con Estampado de Serpiente Bikini L-Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPTZ6BG/?tag=tolees-21'
 descuento: '72.23'
 average: '4.69'

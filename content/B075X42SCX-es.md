@@ -16,6 +16,7 @@ comparePrice: 21.18 EUR
 prodname: 'Marca Amazon - find. Vaqueros Rectos de Tiro Alto Tobilleros Mujer  Azul  Indigo Rinse   31W / 32L  Label: 31W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075X42SCX/?tag=tolees-21'
 descuento: '66.90'
 average: '7.01'

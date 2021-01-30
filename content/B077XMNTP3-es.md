@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Woven Graphic Short Pantalón Corto  Hombre  Azul  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XMNTP3/?tag=tolees-21'
 descuento: '33.82'
 average: '18.099999999999998'

@@ -16,6 +16,7 @@ comparePrice: 9.05 EUR
 prodname: 'Only Onlcarmen Reg Ankle Snake Dnm Jeans Bj Vaqueros  Black  28W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJVMWR2/?tag=tolees-21'
 descuento: '22.43'
 average: '7.02'

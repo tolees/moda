@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'MUOU Zapatillas Hombres Deporte Running Zapatos para Correr Sneakers Deportivas Casual Zapatos para Correr Zapatos Altos  46 EU  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HSV7W9/?tag=tolees-21'
 descuento: '44.29'
 average: '38.99'

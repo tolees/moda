@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Saturn Vaqueros  Azul  Medium Used Wiser Wash Denim Wz3   34W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCB2NDQ/?tag=tolees-21'
 descuento: '60.00'
 average: '38.0'

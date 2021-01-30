@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'J.Endéar Inicial Encanto Z Personalizar Collar  Clavícula Cadena de 925 Plata  Zircon Alfabeto de Disco Redondo Pequeño Colgante Letra para Joyería de Mujer  Longitud de Cadena 40 + 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2MFK96/?tag=tolees-21'
 descuento: '62.02'
 average: '18.49'

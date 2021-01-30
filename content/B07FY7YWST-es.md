@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Wrangler Kabel tee Camiseta  Blanco  White 312   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY7YWST/?tag=tolees-21'
 descuento: '78.63'
 average: '8.737499999999999'

@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Burton Underhill Camiseta  Hombre  Stout White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJHXYKT/?tag=tolees-21'
 descuento: '33.36'
 average: '21.99'

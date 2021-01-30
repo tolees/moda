@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox U Snake.2 A  Zapatillas para Hombre  Marrón  Cigar/Dk Avio C6l4k   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8S16YJ/?tag=tolees-21'
 descuento: '48.18'
 average: '56.95'

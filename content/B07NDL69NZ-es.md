@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'G-STAR RAW Starkon Loose Round Neck Camiseta  Rojo  Dk Baron 4749   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL69NZ/?tag=tolees-21'
 descuento: '74.34'
 average: '8.98'

@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 512 Slim Taper Fit Vaqueros Tapered  Azul  Abu ADV 0310   30W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8SFH9B/?tag=tolees-21'
 descuento: '37.40'
 average: '71.99'

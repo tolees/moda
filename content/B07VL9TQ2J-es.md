@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jjewashington Shirt L/s STS Camisa  Verde  Fall Leafgrün   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VL9TQ2J/?tag=tolees-21'
 descuento: '65.37'
 average: '13.85'

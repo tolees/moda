@@ -16,6 +16,7 @@ comparePrice: 91.83 EUR
 prodname: 'Spyder Challenger Chaqueta esquí/Snow  Niños  Volcano  16 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5YXLZ3/?tag=tolees-21'
 descuento: '36.44'
 average: '72.2825'

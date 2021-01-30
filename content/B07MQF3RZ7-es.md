@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen Hp Atlantic Fz - Sudadera para Hombre  Gris  Gris Oscuro 980   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQF3RZ7/?tag=tolees-21'
 descuento: '20.56'
 average: '71.5'

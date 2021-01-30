@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'NIKE Cv8964 - Bolso bandolera para mujer  color negro/blanco  talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YHDH162/?tag=tolees-21'
 descuento: '33.27'
 average: '13.34'

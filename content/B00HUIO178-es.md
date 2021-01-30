@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Rosa  Candy Pink 6X0   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HUIO178/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

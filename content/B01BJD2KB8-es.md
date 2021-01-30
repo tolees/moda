@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Just Cool - Camiseta lisa para hombre  Primavera-Verano  envolvente  Liso  Manga Corta  Hombre  color negro azabache  tamaño XXXXXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BJD2KB8/?tag=tolees-21'
 descuento: '20.42'
 average: '7.95'

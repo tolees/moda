@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Under Armour UA Heatgear Racer Camiseta  Mujer  Naranja  Mango Orange/Metallic Silver 492   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZLWHWK/?tag=tolees-21'
 descuento: '28.65'
 average: '18.155'

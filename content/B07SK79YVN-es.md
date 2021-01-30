@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Compatible con Xiaomi FIMI X8 SE Bolsa de Almacenamiento Impermeable Bolsa de Hombro portátil Bolso Duradero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SK79YVN/?tag=tolees-21'
 descuento: '70.02'
 average: '14.99'

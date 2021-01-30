@@ -16,6 +16,7 @@ comparePrice: 49.25 EUR
 prodname: 'FOSTAK Bolso de hombro de viaje para Messenger  Work  MacBook y ordenador portátil 15.6 nylon Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HR76YRN/?tag=tolees-21'
 descuento: '24.87'
 average: '38.465'

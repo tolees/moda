@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Parka Hombre Boomerang Negro L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRFBD5Y/?tag=tolees-21'
 descuento: '34.34'
 average: '65.0'

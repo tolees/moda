@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Graphic 15 Hooded Sudadera  Multicolor  Grey Htr/White/Deep Brown B052   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYCD8Q/?tag=tolees-21'
 descuento: '54.36'
 average: '43.663333333333334'

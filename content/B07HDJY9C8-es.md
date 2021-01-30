@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only Onltia Dnm Jacket BB MB Bex02 Noos Chaqueta vaquera  Azul  Medium Blue Denim Medium Blue Denim   36  Talla del fabricante: 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HDJY9C8/?tag=tolees-21'
 descuento: '50.11'
 average: '19.95'

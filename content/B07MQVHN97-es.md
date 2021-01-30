@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Napapijri K TAKY H Sudadera  Negro  Black 041   10 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVHN97/?tag=tolees-21'
 descuento: '57.28'
 average: '29.48'

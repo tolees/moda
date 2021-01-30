@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Helly Hansen HH Tech Crew Camiseta Deportiva Manga Larga  Mujer  Ebony  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPD1TR/?tag=tolees-21'
 descuento: '31.64'
 average: '17.09'

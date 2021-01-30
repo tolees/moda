@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'The North Face Sudadera Drew Peak  Hombre  TNF Medium Grey Heather/TNF Black  Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAW6D0C/?tag=tolees-21'
 descuento: '38.76'
 average: '48.47'

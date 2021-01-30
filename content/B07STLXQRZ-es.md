@@ -16,6 +16,7 @@ comparePrice: 78.3 EUR
 prodname: 'Geox D Sandal Vega A  Sandalia con Pulsera para Mujer  Azul  Denim/Black C4j9b   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLXQRZ/?tag=tolees-21'
 descuento: '28.57'
 average: '55.93'

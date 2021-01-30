@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Pepe Jeans Original Stretch Camiseta  Azul  Navy 595   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN5NHHO/?tag=tolees-21'
 descuento: '46.70'
 average: '17.448000000000004'

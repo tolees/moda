@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Go Walk 5  Sandalias de Punta Descubierta para Hombre  Azul  Navy Synthetic/Black Trim Nvbk   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGLFS6W/?tag=tolees-21'
 descuento: '47.11'
 average: '31.71'

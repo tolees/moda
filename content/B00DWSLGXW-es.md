@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox Uomo Snake K  Zapatillas para Hombre  Beige  Beige/Dark Orange C0845   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DWSLGXW/?tag=tolees-21'
 descuento: '57.38'
 average: '54.093333333333334'

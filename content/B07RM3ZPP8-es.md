@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Tommy Hilfiger Cazadora Chaqueta Bomber Essential con Parche Deportiva y Elegante  Negro  Black   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM3ZPP8/?tag=tolees-21'
 descuento: '26.50'
 average: '91.88'

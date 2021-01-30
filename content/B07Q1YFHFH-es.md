@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Only NOS Onlmoon SL Top Noos Wvn Camiseta sin Mangas  Verde  Kalamata Kalamata   38  Talla del Fabricante: 36.0  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q1YFHFH/?tag=tolees-21'
 descuento: '47.03'
 average: '11.824615384615383'

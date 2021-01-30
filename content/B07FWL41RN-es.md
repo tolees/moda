@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Literide Clog Kids  Zuecos Unisex Niños  Verde  Neo Mint/White 3TM   28/29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWL41RN/?tag=tolees-21'
 descuento: '41.81'
 average: '23.27'

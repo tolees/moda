@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Verde  Mint Green Gingham   XL  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XG77Z6F/?tag=tolees-21'
 descuento: '70.77'
 average: '9.102727272727273'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Roxy - Sandalias - Mujer - EU 40 - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STWS5W6/?tag=tolees-21'
 descuento: '48.34'
 average: '20.66'

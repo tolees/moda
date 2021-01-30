@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Negro  Luther 4-way 0807   W36/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2K75LD/?tag=tolees-21'
 descuento: '45.92'
 average: '59.49'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Straight Vaqueros  Worker Blue Faded A088-a888  W28/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N18V6DC/?tag=tolees-21'
 descuento: '62.47'
 average: '37.51'

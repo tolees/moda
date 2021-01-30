@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Calvin Klein Vegetable Dye Monogram Crew Neck Sudadera  Amarillo  Mimosa Yellow/White Zhh   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD468FF/?tag=tolees-21'
 descuento: '70.89'
 average: '25.91'

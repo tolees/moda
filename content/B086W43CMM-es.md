@@ -16,6 +16,7 @@ comparePrice: 17.42 EUR
 prodname: 'MagiDeal Dentición Collar De Cuentas Babyteether Plana De Silicona - Multicolor  20 * 14mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086W43CMM/?tag=tolees-21'
 descuento: '44.43'
 average: '9.68'

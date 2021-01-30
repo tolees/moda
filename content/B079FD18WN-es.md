@@ -16,6 +16,7 @@ comparePrice: 59.15 EUR
 prodname: 'AOWOFS - Abrigo - para Hombre Marrón marrón X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FD18WN/?tag=tolees-21'
 descuento: '28.42'
 average: '42.34'

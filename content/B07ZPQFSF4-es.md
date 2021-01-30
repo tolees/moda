@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Hurley M Circle Dye Logo S/S Camiseta  Hombre  Black Heather  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPQFSF4/?tag=tolees-21'
 descuento: '39.63'
 average: '18.11'

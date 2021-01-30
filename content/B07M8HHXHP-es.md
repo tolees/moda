@@ -16,6 +16,7 @@ comparePrice: 87.32 EUR
 prodname: 'Coast Lilli Falda  Azul  Navy 20   42 ES para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8HHXHP/?tag=tolees-21'
 descuento: '84.17'
 average: '13.82'

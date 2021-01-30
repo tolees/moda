@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Art Mainz  Zapatos de Cordones Brogue Unisex Adulto  Marrón  Brown Brown   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4PFN54/?tag=tolees-21'
 descuento: '84.24'
 average: '18.91'

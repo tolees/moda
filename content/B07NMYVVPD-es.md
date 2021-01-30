@@ -16,6 +16,7 @@ comparePrice: 76.0 EUR
 prodname: 'Nike Court Vision Mid  Zapatos de Baloncesto para Hombre  Multicolor  Black/White 001   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NMYVVPD/?tag=tolees-21'
 descuento: '36.14'
 average: '48.53'

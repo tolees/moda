@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'G-STAR RAW Lash Building Straight Camiseta  Blanco  White 336-110   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNMNSGS/?tag=tolees-21'
 descuento: '16.62'
 average: '19.97'

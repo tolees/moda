@@ -16,6 +16,7 @@ comparePrice: 18.32 EUR
 prodname: 'Caprice Herma  Botines para Mujer  Verde  Khaki Nappa 710   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLCTMXJ/?tag=tolees-21'
 descuento: '20.58'
 average: '14.55'

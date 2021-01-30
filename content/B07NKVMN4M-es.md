@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Rage 2 - Camiseta Goon Tatto [M]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NKVMN4M/?tag=tolees-21'
 descuento: '20.00'
 average: '15.96'

@@ -16,6 +16,7 @@ comparePrice: 9.42 EUR
 prodname: 'Jack & Jones Jcoisland tee SS Crew Neck Camiseta  Azul  China Blue Fit: Slim   Medium  Herstellergröße: M  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZP1L34X/?tag=tolees-21'
 descuento: '32.17'
 average: '6.39'

@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Napapijri Soves Camiseta  Negro  Black 041   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVCGSBV/?tag=tolees-21'
 descuento: '60.00'
 average: '15.6'

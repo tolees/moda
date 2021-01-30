@@ -16,6 +16,7 @@ comparePrice: 2.78 EUR
 prodname: 'Hosaire Pulsera de Plata de Cielo Estrellado Metal-Ajustable Diámetro 60-70mm Pulsera de Cadena de Moda Chica de Partido de Las Señoras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W9NLQSB/?tag=tolees-21'
 descuento: '31.65'
 average: '1.7938888888888886'

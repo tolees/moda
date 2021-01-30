@@ -16,6 +16,7 @@ comparePrice: 17.55 EUR
 prodname: 'Chaleco para perro sin tirones  ajustable  correa para el pecho  transpirable  acolchado  de SlowTon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3MWXG2/?tag=tolees-21'
 descuento: '39.83'
 average: '10.56'

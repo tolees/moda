@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Jack & Jones Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W30/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQY19G8/?tag=tolees-21'
 descuento: '52.51'
 average: '36.660000000000004'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'RED WAGON Waffle Grandad Shirt Camisa para Niños  Blanco  White   4 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9KK1IU/?tag=tolees-21'
 descuento: '69.99'
 average: '6.9'

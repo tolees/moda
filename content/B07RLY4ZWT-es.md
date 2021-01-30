@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Extra Slim Layton Str Burke Blue Vaqueros Straight  Azul  Denim 1bo   W34/L32  Talla del Fabricante: 3234  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLY4ZWT/?tag=tolees-21'
 descuento: '50.95'
 average: '49.0'

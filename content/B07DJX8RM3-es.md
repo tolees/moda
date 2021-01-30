@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Vega Moc B  Mocasines para Mujer  Negro  Black/Dk Grey C0005   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJX8RM3/?tag=tolees-21'
 descuento: '20.49'
 average: '71.48'

@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Eastpak Delegate + Bolso bandolera  39 cm  20 liters  Azul  Triple Denim '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KY8SFYV/?tag=tolees-21'
 descuento: '20.80'
 average: '47.52'

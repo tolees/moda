@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Helly Hansen Crew Camisa Polo  Unisex Adulto  Alert Red  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2QFBY4/?tag=tolees-21'
 descuento: '54.56'
 average: '20.45'

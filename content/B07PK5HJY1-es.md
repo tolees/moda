@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'HAWKERS Gafas de sol  Negro/Azul  One Size Womens'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PK5HJY1/?tag=tolees-21'
 descuento: '45.13'
 average: '9.484'

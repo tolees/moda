@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Rider Jeans Vaqueros  Moto Black  29W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M89DRD8/?tag=tolees-21'
 descuento: '62.22'
 average: '37.76'

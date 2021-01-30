@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Guantes de Invierno para Smartphone  Impermeables e Impermeables para Actividades al Aire Libre  Correr  Senderismo  esquí y Ciclismo para Hombres y Mujeres  XXL-6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YWKZNP/?tag=tolees-21'
 descuento: '42.04'
 average: '39.99'

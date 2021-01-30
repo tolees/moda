@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Geox J Waviness B  Zapatillas para Niños  Azul  Navy/Red C0735   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK4P25D/?tag=tolees-21'
 descuento: '50.00'
 average: '27.45'

@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Geographical Norway Parka Hombre BOKER Negro S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRHZH7Z/?tag=tolees-21'
 descuento: '20.00'
 average: '74.46666666666667'

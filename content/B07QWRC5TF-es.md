@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Amilril Collar  Amor Corazon Colgantes Mujer  Plata de Ley 925 Moda Joyería  San Valentín Regalos Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWRC5TF/?tag=tolees-21'
 descuento: '83.65'
 average: '17.98'

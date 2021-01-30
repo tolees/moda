@@ -16,6 +16,7 @@ comparePrice: 25.97 EUR
 prodname: 'Camiseta Sin Mangas para Hombre De Moda Casual Único Camiseta Sin Mangas Camisa De Culturismo Camiseta con Camiseta Muscular Camiseta Sin Mangas Axila Entrenamiento Sin Mangas Deporte  Rojo 3XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CXV1VBD/?tag=tolees-21'
 descuento: '39.08'
 average: '15.82'

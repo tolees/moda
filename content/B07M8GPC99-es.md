@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'The North Face Venture 2 Chaqueta  Hombre  Urban Navy  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8GPC99/?tag=tolees-21'
 descuento: '50.11'
 average: '69.85'

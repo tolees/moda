@@ -16,6 +16,7 @@ comparePrice: 21.94 EUR
 prodname: 'Ocobudbxw Bolso de Hombro Tipo Cubo para Mujer  Bandolera  de Cuero  con borlas  Bandolera  Bolso de Mano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G1GGB74/?tag=tolees-21'
 descuento: '50.00'
 average: '10.97'

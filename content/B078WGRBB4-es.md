@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'The North Face Cyclone 2 HDY - Chaqueta con Capucha  Hombre  Fiery Red/Urban Navy  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WGRBB4/?tag=tolees-21'
 descuento: '50.00'
 average: '40.919999999999995'

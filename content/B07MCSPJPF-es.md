@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Rainforest Winter 1 Chaqueta  Marrón  Golden Brown Nc1   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPJPF/?tag=tolees-21'
 descuento: '70.99'
 average: '62.825'

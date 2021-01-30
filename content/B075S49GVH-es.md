@@ -16,6 +16,7 @@ comparePrice: 29.46 EUR
 prodname: 'Marca Amazon - MERAKI Sudadera con Capucha y Cremallera Mujer  Gris  Grey   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075S49GVH/?tag=tolees-21'
 descuento: '69.45'
 average: '9.0'

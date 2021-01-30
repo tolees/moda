@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tikea Cartera Geométrica Luminosa Holográfica para Mujer  Billetera con Cremallera en Cuero Sintético  Bolsillo de Mano Efecto Reflectante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZH1ZBL/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

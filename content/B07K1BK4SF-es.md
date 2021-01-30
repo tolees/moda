@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'GRACE KARIN Mujer Bolero Chaqueta Corta Suave Cómodo Vintage Elegante Ceremonia Fiesta Beige S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1BK4SF/?tag=tolees-21'
 descuento: '48.50'
 average: '16.99'

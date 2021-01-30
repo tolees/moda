@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'NICOLE & DORIS Bolsos para Mujeres Moda Bolsos Bandolera para Mujer Bolsos de Hombro para Damas Bolsos Tote'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1AC9VS/?tag=tolees-21'
 descuento: '36.01'
 average: '31.99'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Suhctup Funda Huawei Honor 30 Pro  Carcasa Patrón de Dibujos Animados Soft Moda  Reforzado Cojín de Esquina Parachoques Funda Flexible Suave Ultra-Delgado Funda para Huawei Honor 30 Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084ZP2JVG/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

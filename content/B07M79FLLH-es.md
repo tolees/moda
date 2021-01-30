@@ -16,6 +16,7 @@ comparePrice: 18.26 EUR
 prodname: 'HKT by Hackett Hkt Teal Grey Mel Chk Camisa   Multi 0aa   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M79FLLH/?tag=tolees-21'
 descuento: '25.25'
 average: '17.912499999999998'

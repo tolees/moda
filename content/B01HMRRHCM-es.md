@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'The North Face S/S Easy H Camiseta de Manga Corta  Hombre  Negro  TNF Black   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HMRRHCM/?tag=tolees-21'
 descuento: '50.17'
 average: '17.13'

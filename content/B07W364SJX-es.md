@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans West Sir Camiseta  Verde  Unesafari 734   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W364SJX/?tag=tolees-21'
 descuento: '49.00'
 average: '15.25'

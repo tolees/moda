@@ -16,6 +16,7 @@ comparePrice: 10.39 EUR
 prodname: 'Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce Volante Camiseta Manga Larga Tops Blusa Luckycat  Blanco  Pequeña '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K23SVKW/?tag=tolees-21'
 descuento: '54.86'
 average: '4.69'

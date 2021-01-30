@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Zeewoo Casual Mochila Bolso Aire Libre Ocio Mochila Bolsa para Las Niñas Chico Mochilas Impermeables de Escuela Laptop Mochila con Puerto de Carga USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHCQXYN/?tag=tolees-21'
 descuento: '35.86'
 average: '33.99'

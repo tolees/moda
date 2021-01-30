@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'The North Face Sudadera Drew Peak  Hombre  Negro  TNF Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B7XCG7Y/?tag=tolees-21'
 descuento: '32.53'
 average: '50.9775'

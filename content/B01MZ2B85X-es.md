@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'find. Vaqueros Rectos para Hombre  Azul  W31/L32  Talla del fabricante: 31 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ2B85X/?tag=tolees-21'
 descuento: '36.99'
 average: '10.81'

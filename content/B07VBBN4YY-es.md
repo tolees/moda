@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'HUGO Ernie Camisa  Azul  Navy 413   Small  Talla del Fabricante: 38  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBBN4YY/?tag=tolees-21'
 descuento: '48.35'
 average: '46.46'

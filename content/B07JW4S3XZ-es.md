@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Hackett Aston Martin Racing Multi tee Camiseta  Blanco  White 8aj   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW4S3XZ/?tag=tolees-21'
 descuento: '67.77'
 average: '20.95'

@@ -16,6 +16,7 @@ comparePrice: 7.75 EUR
 prodname: 'Calvin Klein Braguita de Bikini  Gris  Elementary Stars Grey Shadow EGS    Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPQR958/?tag=tolees-21'
 descuento: '35.23'
 average: '5.02'

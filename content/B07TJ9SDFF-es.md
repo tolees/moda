@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Levi s Barstow Western Standard Camisa  Azul  Red Cast Rinse Marbled T2 H2 19 0000   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ9SDFF/?tag=tolees-21'
 descuento: '30.69'
 average: '55.45'

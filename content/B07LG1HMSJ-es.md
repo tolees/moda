@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Geox B Kaytan A  Zapatillas para Bebés  Gris  Dk Grey C9002   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG1HMSJ/?tag=tolees-21'
 descuento: '36.56'
 average: '34.89'

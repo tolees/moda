@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Dickies Philadelphia - Sudadera para hombre  Grey Melange  Small  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007K45LDU/?tag=tolees-21'
 descuento: '67.98'
 average: '15.69'

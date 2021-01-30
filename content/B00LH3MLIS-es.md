@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Helly Hansen W Paramount Softshell Chaqueta  Mujer  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LH3MLIS/?tag=tolees-21'
 descuento: '54.74'
 average: '45.76'

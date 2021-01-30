@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Amarillo  Lemon 7C1   48/49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010WE7KMO/?tag=tolees-21'
 descuento: '21.01'
 average: '27.64'

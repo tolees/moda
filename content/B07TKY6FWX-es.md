@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'The North Face Zaneck Chaqueta  Hombre  Montague Blue  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKY6FWX/?tag=tolees-21'
 descuento: '50.00'
 average: '150.0'

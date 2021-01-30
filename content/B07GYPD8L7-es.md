@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Infinito Corazón Mamá Hijos Perla Cultivada Blanca de Agua Dulce 6mm Regalo Madre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYPD8L7/?tag=tolees-21'
 descuento: '15.01'
 average: '21.29'

@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'BILLABONG Jackson Hood Sudadera  Negro  Black 19   One Size  Tamaño del Fabricante: S  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY3R9KK/?tag=tolees-21'
 descuento: '58.86'
 average: '20.16'

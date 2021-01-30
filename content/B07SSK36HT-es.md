@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Myria C  Zapatillas para Mujer  Negro  Black C9999   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSK36HT/?tag=tolees-21'
 descuento: '57.69'
 average: '42.74'

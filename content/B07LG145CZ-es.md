@@ -16,6 +16,7 @@ comparePrice: 44.04 EUR
 prodname: 'Geox J Casey Girl WPF C  Botas Militar para Niñas  Negro  Black C9999   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG145CZ/?tag=tolees-21'
 descuento: '39.10'
 average: '26.82'

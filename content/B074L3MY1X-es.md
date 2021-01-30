@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'SELECTED HOMME Shharo Ss Embroidery Polo Noos  Camiseta Polo Hombre  Gris  Gray Violet   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074L3MY1X/?tag=tolees-21'
 descuento: '61.30'
 average: '9.67'

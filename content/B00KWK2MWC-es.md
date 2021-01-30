@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Geox U Nebula B - Zapatos para hombre  Negro  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KWK2MWC/?tag=tolees-21'
 descuento: '38.21'
 average: '99.17999999999999'

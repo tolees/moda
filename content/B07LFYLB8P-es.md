@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U ARIAM B  Zapatillas para Hombre  Azul  Navy C4002   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFYLB8P/?tag=tolees-21'
 descuento: '75.67'
 average: '25.674999999999997'

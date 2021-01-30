@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga   2750-cotu Classic  Zapatilla Baja Unisex Adulto  Rojo  Red/White C90   48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTOFJPJ/?tag=tolees-21'
 descuento: '58.05'
 average: '24.75'

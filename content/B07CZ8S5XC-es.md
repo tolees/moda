@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour UA Speed Stride Split 1/4 Zip Ligera Deporte  Camiseta de Hombre de Manga Larga  Negro  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ8S5XC/?tag=tolees-21'
 descuento: '49.11'
 average: '27.99'

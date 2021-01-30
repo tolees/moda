@@ -16,6 +16,7 @@ comparePrice: 63.49 EUR
 prodname: 'dockers Smart 360 Flex Alpha Skinny Vaqueros  Dark Ginger  34W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND3YTRS/?tag=tolees-21'
 descuento: '44.95'
 average: '34.95'

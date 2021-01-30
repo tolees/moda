@@ -16,6 +16,7 @@ comparePrice: 74.03 EUR
 prodname: 'Timberland Killington  Botas Unisex Niños  Beige  Wheat Nubuck 231   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JZMQE3U/?tag=tolees-21'
 descuento: '39.23'
 average: '47.88'

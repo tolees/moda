@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'SERAPHY Trajes de Calabaza encantadores de Halloween Bebés Niños Niñas Sombrero + Romper + Chaleco para 0-24 Meses Ropa de Halloween Disfraz Bebé-90'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZVWC8Z/?tag=tolees-21'
 descuento: '60.02'
 average: '10.39'

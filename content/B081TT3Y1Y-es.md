@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas Con20 TR Jkt Chaqueta de Deporte  Hombre  Team Power Red  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TT3Y1Y/?tag=tolees-21'
 descuento: '46.42'
 average: '34.8'

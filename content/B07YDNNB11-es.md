@@ -16,6 +16,7 @@ comparePrice: 11.58 EUR
 prodname: 'Maglev Essentials BDX011M5 Camiseta  Multicolor  Negro  Blanco  Navy   S  Pack de 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDNNB11/?tag=tolees-21'
 descuento: '18.74'
 average: '9.41'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Under Armour UA Jet  Zapatos de Baloncesto para Hombre  Negro  Black/Pitch Gray/Halo Gray  001  001   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKJQBGN/?tag=tolees-21'
 descuento: '37.50'
 average: '50.0'

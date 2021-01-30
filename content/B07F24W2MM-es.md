@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Levi s Plus Size 311 Pl Shaping Skinny Vaqueros  4X Stretch New Ultra Black  18 M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F24W2MM/?tag=tolees-21'
 descuento: '22.79'
 average: '47.86'

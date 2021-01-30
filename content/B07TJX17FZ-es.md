@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Lacoste Sport Th3377 Camiseta  Naranja  Glaieul/Cosmique Xrn   Large  Talla del Fabricante: 5  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJX17FZ/?tag=tolees-21'
 descuento: '34.02'
 average: '32.99'

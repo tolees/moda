@@ -16,6 +16,7 @@ comparePrice: 28.82 EUR
 prodname: 'find. Large Buckle Block Heel Sandal Sandalias con Punta Abierta  Beige  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMJ4HZ1/?tag=tolees-21'
 descuento: '21.48'
 average: '24.419999999999998'

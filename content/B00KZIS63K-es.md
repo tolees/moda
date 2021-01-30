@@ -16,6 +16,7 @@ comparePrice: 5.18 EUR
 prodname: 'SOLS- Camiseta de Manga Corta para niñas  8 años   Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KZIS63K/?tag=tolees-21'
 descuento: '33.40'
 average: '3.45'

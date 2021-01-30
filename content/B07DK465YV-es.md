@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Geox Tapuz Bebe  Sandalia Niño Transpirantes para Bebés  Azul  Navy/White C4211   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK465YV/?tag=tolees-21'
 descuento: '50.00'
 average: '19.95'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour Baseline Fleece Jogger Pantalón  Hombre  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9BMBNF/?tag=tolees-21'
 descuento: '58.42'
 average: '27.03'

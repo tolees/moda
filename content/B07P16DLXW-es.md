@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Superdry Downhill Racer Box Quilt Jkt Chaqueta  Azul  True Navy M99   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P16DLXW/?tag=tolees-21'
 descuento: '65.01'
 average: '41.99'

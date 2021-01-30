@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'G-STAR RAW Earth Round Neck Camiseta  Gris  Asfalt 995   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNVK69/?tag=tolees-21'
 descuento: '66.35'
 average: '16.965'

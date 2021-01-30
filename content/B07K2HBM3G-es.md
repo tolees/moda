@@ -16,6 +16,7 @@ comparePrice: 13.63 EUR
 prodname: 'Amazon Essentials - Camiseta de protección solar con manga larga para mujer  Blanco  US L  EU L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2HBM3G/?tag=tolees-21'
 descuento: '28.10'
 average: '9.8'

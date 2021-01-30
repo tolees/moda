@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Slimerence Guantes médicos desechables de nitrilo  sin polvo  alimentos estructurados  industria química doméstica  caja azul de 100'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCKBQ7L/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Star Wars T030-10 Bóxer  Multicolor  Multicolor 0   12 años  Tamaño del Fabricante:10/12   para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BH5LX2H/?tag=tolees-21'
 descuento: '50.42'
 average: '11.9'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Helly Hansen Jr Moss Chaqueta Impermeable  Unisex niños  Black  8 YRS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHD9PQP/?tag=tolees-21'
 descuento: '32.02'
 average: '33.99'

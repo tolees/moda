@@ -16,6 +16,7 @@ comparePrice: 68.92 EUR
 prodname: 'Levi s 711 Shaping Super Skinny Jeans Pantalón Vaquero de Mujer Que moldea la Silueta  Negro  Black Sheen 0052   26W / 30L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017MCO5QS/?tag=tolees-21'
 descuento: '30.54'
 average: '47.87'

@@ -16,6 +16,7 @@ comparePrice: 26.49 EUR
 prodname: 'Marca Amazon – Goodthreads – «El pantalón chino perfecto»; pantalón chino de corte entallado  lavado  cómodo y elástico para hombre  granate  36W / 33L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BKPVJXM/?tag=tolees-21'
 descuento: '30.01'
 average: '18.54'

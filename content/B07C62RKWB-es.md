@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Jjegingham Shirt L/s Camisa  Multicolor  Port Royale Checks: Mixed Navy   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C62RKWB/?tag=tolees-21'
 descuento: '30.01'
 average: '18.97'

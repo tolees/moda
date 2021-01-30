@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Billabong All Day Theme  Chanclas para Hombre  Negro  Charcoal 18   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7Y3MCS/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

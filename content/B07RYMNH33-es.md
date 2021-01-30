@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'HUGO Trunk Brother Pack Bóxer  Blanco  Open White 122   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYMNH33/?tag=tolees-21'
 descuento: '53.31'
 average: '17.72'

@@ -16,6 +16,7 @@ comparePrice: 9.44 EUR
 prodname: 'Zotal - Parasital Collar Antiparasitario de 75 cm para perros grandes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008NA3DXK/?tag=tolees-21'
 descuento: '41.63'
 average: '5.602'

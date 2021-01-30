@@ -16,6 +16,7 @@ comparePrice: 20.49 EUR
 prodname: 'JAKO Fútbol Camiseta KA Camiseta United  Todo el año  Infantil  Color Lila/Weiß/Schwarz  tamaño 140'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IZRYSRG/?tag=tolees-21'
 descuento: '55.15'
 average: '9.19'

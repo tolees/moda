@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Pepe Jeans Charing Camiseta  Verde  Pond 774   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXWQZPQ/?tag=tolees-21'
 descuento: '35.75'
 average: '17.99'

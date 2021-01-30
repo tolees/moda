@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Only Onlpaola HW SK Dnm Jeans Azgz878 Noos Vaqueros Skinny  Azul  Dark Blue Denim   W33/L30  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7YN8FY/?tag=tolees-21'
 descuento: '20.01'
 average: '27.99'

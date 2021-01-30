@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Si Diosa Moda Mujer Zapatos Verano D Orsay Stiletto Heels Correa de Tobillo Sandalias Fiesta Puntiagudo Boda Dress Zapatos Clear Apricot Size 47'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TX2TV5/?tag=tolees-21'
 descuento: '46.23'
 average: '26.88'

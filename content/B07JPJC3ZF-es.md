@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Ledger Nano S - V1.4 - Monedero Hardware de criptomonedas - Flamingo Pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JPJC3ZF/?tag=tolees-21'
 descuento: '25.00'
 average: '45.233333333333334'

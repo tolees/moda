@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Sukie D  Zapatillas para Mujer  Rojo  Bordeaux C7005   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNB8QY4/?tag=tolees-21'
 descuento: '74.58'
 average: '26.78'

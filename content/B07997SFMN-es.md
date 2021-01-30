@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - MERAKI Camisa de Vestir de Corte Recto Hombre  Azul  Light Blue   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07997SFMN/?tag=tolees-21'
 descuento: '70.76'
 average: '7.31'

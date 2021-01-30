@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'UCAYALI Zapatos de Trabajo Unisex Adulto Azul/Negro Talla 44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G4NYYS2/?tag=tolees-21'
 descuento: '19.57'
 average: '36.99'

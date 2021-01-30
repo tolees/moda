@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Relaxed Crew New Sudadera  Rosa  Peach Blush 0003   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWBGLFH/?tag=tolees-21'
 descuento: '54.08'
 average: '29.85'

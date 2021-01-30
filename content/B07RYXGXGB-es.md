@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Regent Vaqueros Skinny  Azul  Medium Used Wiser Wash 000   Talla única  Talla del Fabricante: W27/L30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYXGXGB/?tag=tolees-21'
 descuento: '41.06'
 average: '52.99'

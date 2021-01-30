@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas SST TP Pantalón  Hombre  Rojo  Escarl   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793S6GZV/?tag=tolees-21'
 descuento: '29.99'
 average: '48.97'

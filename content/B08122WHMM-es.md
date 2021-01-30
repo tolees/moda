@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Disney Camiseta Paquete de 2 de Manga Corta para niñas Frozen Multicolor 8-9 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08122WHMM/?tag=tolees-21'
 descuento: '31.66'
 average: '12.95'

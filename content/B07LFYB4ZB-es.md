@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Geox D ANEEKA E  Botines para Mujer  Marrón  Chestnut C6004   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFYB4ZB/?tag=tolees-21'
 descuento: '81.74'
 average: '26.47'

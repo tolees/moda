@@ -16,6 +16,7 @@ comparePrice: 169 EUR
 prodname: 'BOSS Debelt Vestido  Plateado  Silver 040   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMQQ89/?tag=tolees-21'
 descuento: '67.07'
 average: '55.65'

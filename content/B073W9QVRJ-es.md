@@ -16,6 +16,7 @@ comparePrice: 11.79 EUR
 prodname: 'Honghu Verano Elegante Mangas Corta Low Culleo Slim Fit Vestido para Mujer Party Dress Tamaño M Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073W9QVRJ/?tag=tolees-21'
 descuento: '23.75'
 average: '5.140000000000001'

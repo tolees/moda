@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler LS 2pkt Flap Shirt Camisa  Multicolor  Black 100   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2BY1KS/?tag=tolees-21'
 descuento: '73.34'
 average: '18.65'

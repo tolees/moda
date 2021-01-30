@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Bolso de Hombro para Mujer  Bolsos Cruzados de Marca para Mujer con Bolsos de Hombro Anchos Bolsos de Cuero de Moda con Forma de D Para Chicas Feniales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9GC3YG/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 38.78 EUR
 prodname: 'PRIME LTR-01 - Chaqueta de Piel sintética para Hombre Verde FB-Olive L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQ3L4SF/?tag=tolees-21'
 descuento: '43.79'
 average: '21.8'

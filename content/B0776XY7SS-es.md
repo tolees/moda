@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Original Jersey Camiseta  Azul  Black Iris 002   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776XY7SS/?tag=tolees-21'
 descuento: '31.07'
 average: '19.99'

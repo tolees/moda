@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Morgan 192-jelini.n Falda  Morado  Marine Marine   42  Talla del Fabricante: T42  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBYV752/?tag=tolees-21'
 descuento: '69.42'
 average: '14.635'

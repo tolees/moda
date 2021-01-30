@@ -16,6 +16,7 @@ comparePrice: 18.07 EUR
 prodname: 'Goodthreads Standard-fit Long-Sleeve Stretch Oxford Shirt  All Hours  Camisa abotonada  Azul Marino  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4QX6HF/?tag=tolees-21'
 descuento: '64.08'
 average: '6.49'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Tikea Bolsa Geométrica de Corcho Natural para Mujer  Mochila Ecológica de Moda Deportiva  Ajustable  Efecto Madera  Elegante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4RQDNC/?tag=tolees-21'
 descuento: '47.51'
 average: '41.99'

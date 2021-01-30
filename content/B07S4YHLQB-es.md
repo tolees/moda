@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Vero Moda Vmsoraya SIV Aw19 Short Jacket Boos Chaqueta  Negro  Black Black   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4YHLQB/?tag=tolees-21'
 descuento: '59.96'
 average: '16.01'

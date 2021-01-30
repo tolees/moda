@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Azul  Dark Blue/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HMS9HX/?tag=tolees-21'
 descuento: '27.46'
 average: '27.6025'

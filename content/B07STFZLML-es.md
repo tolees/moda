@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J SPACECLUB Girl C  Zapatillas para Niñas  Rosa  Pink C8005   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STFZLML/?tag=tolees-21'
 descuento: '38.88'
 average: '36.61'

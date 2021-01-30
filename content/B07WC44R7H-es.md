@@ -16,6 +16,7 @@ comparePrice: 43.81 EUR
 prodname: 'Tommy Hilfiger Block Stripe Hilfiger tee Camiseta Deporte  Azul  Desert Sky   Medium  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC44R7H/?tag=tolees-21'
 descuento: '41.68'
 average: '25.55'

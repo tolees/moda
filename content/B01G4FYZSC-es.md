@@ -16,6 +16,7 @@ comparePrice: 69.59 EUR
 prodname: 'Asics Hyper MD 6 Unisex Zapatilla Running De Clavos - 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G4FYZSC/?tag=tolees-21'
 descuento: '50.01'
 average: '34.79'

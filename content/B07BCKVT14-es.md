@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Sharon Noel  Zapatos de Cordones Derby Mujer  Negro  Black Nubuck   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07BCKVT14/?tag=tolees-21'
 descuento: '35.67'
 average: '45.6422222222224'

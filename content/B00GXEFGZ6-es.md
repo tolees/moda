@@ -16,6 +16,7 @@ comparePrice: 97 EUR
 prodname: 'Lemaitre 91538 tamaño 38 XL Ancho S3 Andy BAU bajo Zapatos de Seguridad  Color  Talla 40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GXEFGZ6/?tag=tolees-21'
 descuento: '83.58'
 average: '15.93'

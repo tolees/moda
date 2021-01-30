@@ -16,6 +16,7 @@ comparePrice: 7.96 EUR
 prodname: 'Marca Amazon - MERAKI Polo Hombre  Azul  Navy Marl   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MS914QD/?tag=tolees-21'
 descuento: '22.86'
 average: '7.842857142857144'

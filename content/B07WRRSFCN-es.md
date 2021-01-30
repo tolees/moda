@@ -16,6 +16,7 @@ comparePrice: 20.88 EUR
 prodname: 'Deevike Pantuflas Zapatillas Hombre Invierno CáLido Zapatos Memory Foam Antideslizante Zapatillas de Estar por Casa Gris 44/45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRRSFCN/?tag=tolees-21'
 descuento: '23.42'
 average: '15.99'

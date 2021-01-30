@@ -16,6 +16,7 @@ comparePrice: 65.95 EUR
 prodname: 'Tamaris 1-1-26250-23  Botines para Mujer  Negro  Black 1   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJJ1ZZY/?tag=tolees-21'
 descuento: '76.72'
 average: '15.35'

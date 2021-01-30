@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaqueta de Softshell  Hombre  Black  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBNM5YK/?tag=tolees-21'
 descuento: '44.47'
 average: '72.19'

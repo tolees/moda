@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Helly Hansen W Seven J Jacket - Chaqueta para Mujer  Color Negro  Talla XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006SWFVAS/?tag=tolees-21'
 descuento: '58.77'
 average: '45.35'

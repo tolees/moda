@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'G-Star Sp15006 Sweat Sudadera  Verde  Emerald 55   14 años  Talla del Fabricante: 14A  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLZZZ4R/?tag=tolees-21'
 descuento: '58.30'
 average: '25.0'

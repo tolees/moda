@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Scotch & Soda Nos Ralston Vaqueros Straight  Azul  Beaten Back 1841   W33/L36 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CL5LRRH/?tag=tolees-21'
 descuento: '65.65'
 average: '48.623888888888885'

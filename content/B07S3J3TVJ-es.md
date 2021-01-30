@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Only Onlcarrie Bonded Coat CC Otw Abrigo  Beige  Nomad Detail: Melange   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3J3TVJ/?tag=tolees-21'
 descuento: '52.63'
 average: '28.42'

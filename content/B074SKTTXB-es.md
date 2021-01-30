@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'RONSOU Retro Polarizadas Gafas de Sol 100% UV401 Protección Gafas para Hombre y Mujer dorado marco/gris lente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074SKTTXB/?tag=tolees-21'
 descuento: '70.75'
 average: '11.99'

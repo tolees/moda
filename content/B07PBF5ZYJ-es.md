@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ever-Pretty Vestido de Fiesta Noche Largo para Mujer Cuello V Manga Corta Talla Grande Verde Oscuro 58'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBF5ZYJ/?tag=tolees-21'
 descuento: '37.50'
 average: '49.99'

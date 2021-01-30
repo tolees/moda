@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Azul  Stonewash 0114   38W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001QOF5NQ/?tag=tolees-21'
 descuento: '30.57'
 average: '65.92'

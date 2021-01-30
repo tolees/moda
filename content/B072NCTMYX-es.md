@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas ESS Lin Fzhoodb Sudadera  Hombre  Azul  Maruni/Blanco   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072NCTMYX/?tag=tolees-21'
 descuento: '49.99'
 average: '29.98'

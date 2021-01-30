@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Avery C  Zapatillas para Mujer  Blanco  White C1000   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPX3DT/?tag=tolees-21'
 descuento: '57.48'
 average: '42.48'

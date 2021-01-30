@@ -16,6 +16,7 @@ comparePrice: 30.92 EUR
 prodname: 'adidas Ask SPRT LST M Camiseta  Sin género  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779DRPW6/?tag=tolees-21'
 descuento: '35.58'
 average: '19.92'

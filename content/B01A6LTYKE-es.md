@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Classic Lined Clog  Zuecos Unisex Adulto  Marrón  Espresso/Walnut   38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A6LTYKE/?tag=tolees-21'
 descuento: '33.07'
 average: '30.805'

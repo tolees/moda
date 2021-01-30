@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'HIKARO Sudadera con Capucha Hombre  Azul  Denim   50  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y6GN7V/?tag=tolees-21'
 descuento: '55.27'
 average: '17.6375'

@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Blanco  White   35/36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0036QQDX8/?tag=tolees-21'
 descuento: '51.92'
 average: '11.49'

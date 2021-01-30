@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Napapijri BIBU FZH Sudadera  Verde  Green Forest 2 Ge3   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPW9L/?tag=tolees-21'
 descuento: '60.00'
 average: '51.6'

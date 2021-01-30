@@ -16,6 +16,7 @@ comparePrice: 5.63 EUR
 prodname: 'Springfield 05.Algodon Modal Foil Camiseta  Beige  Beige 98   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ9RDKM/?tag=tolees-21'
 descuento: '27.18'
 average: '4.1'

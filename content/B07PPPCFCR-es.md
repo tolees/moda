@@ -16,6 +16,7 @@ comparePrice: 13.32 EUR
 prodname: 'MTNG Bengala  Bolso bandolera para Mujer  Negro  Nylon Negro   8x13x19 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPPCFCR/?tag=tolees-21'
 descuento: '21.40'
 average: '11.895'

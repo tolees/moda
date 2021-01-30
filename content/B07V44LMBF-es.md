@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Salomon Coton Logo SS tee M Camiseta de Manga Corta  Hombre  Azul  Fjord Blue/Night Sky   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V44LMBF/?tag=tolees-21'
 descuento: '30.00'
 average: '21.75'

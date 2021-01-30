@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Azul  Ocean 456   33/34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HEXG15S/?tag=tolees-21'
 descuento: '37.79'
 average: '17.938000000000002'

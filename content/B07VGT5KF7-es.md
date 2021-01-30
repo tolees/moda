@@ -16,6 +16,7 @@ comparePrice: 13.56 EUR
 prodname: 'Havaianas Slim Frozen  Chanclas Chica  Multicolor  Crystal Rose 1141   35/36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGT5KF7/?tag=tolees-21'
 descuento: '18.58'
 average: '11.04'

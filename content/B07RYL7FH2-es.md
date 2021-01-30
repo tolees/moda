@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Mizuno Wave Voltage  Zapatos de Voleibol Unisex Adulto  Blanco  Wht/Trueblue 21   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYL7FH2/?tag=tolees-21'
 descuento: '31.86'
 average: '74.95'

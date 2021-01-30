@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Tommy Hilfiger Scanton Vaqueros  Azul  Berry Mid Blue Comfort 911   27W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776X8BJN/?tag=tolees-21'
 descuento: '77.52'
 average: '27.413333333333334'

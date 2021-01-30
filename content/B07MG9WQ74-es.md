@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Victorem Lebron James #23 Camiseta de Baloncesto para Hombres - NBA Lakers  Nuevo Tela Bordada Camiseta Deportivas de Jersey Swingman  Tamaño: S-XXL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MG9WQ74/?tag=tolees-21'
 descuento: '47.20'
 average: '11.643333333333334'

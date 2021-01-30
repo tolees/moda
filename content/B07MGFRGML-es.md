@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Napapijri BOVES C Sudadera  Azul  BLU Marine 176   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFRGML/?tag=tolees-21'
 descuento: '60.00'
 average: '35.6'

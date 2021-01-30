@@ -16,6 +16,7 @@ comparePrice: 13.56 EUR
 prodname: 'Funko 46788 Pop Balón de Baloncesto: UNC-Michael Jordan Away Jersey  Juguete Coleccionable  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XH4CM8V/?tag=tolees-21'
 descuento: '24.19'
 average: '10.28'

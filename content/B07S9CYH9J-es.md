@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Lee New Pocket SWS Sudadera  Azul  Ashley Blue Na   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9CYH9J/?tag=tolees-21'
 descuento: '55.70'
 average: '30.99'

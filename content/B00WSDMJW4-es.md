@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Morgan 152-caram.n Camisa  Blanco  Blanc   40  Talla del Fabricante: 40 Taglia Produttore 40  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WSDMJW4/?tag=tolees-21'
 descuento: '40.17'
 average: '15.935'

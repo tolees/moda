@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'AIPER Chaleco Calefactable para Hombres y Mujeres con Batería USB  Chaqueta Térmica Lavable Chaleco Cálido para Invierno Actividades Frías Aire Libre Esquí Pesca Caza Moto  XXL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W91WXHY/?tag=tolees-21'
 descuento: '50.01'
 average: '39.99'

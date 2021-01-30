@@ -16,6 +16,7 @@ comparePrice: 76.39 EUR
 prodname: 'emansmoer Niños exterior resistente al agua Softshell para niña Deporte Camping Senderismo resistente al viento Forro Polar abrigo  otoño/invierno  Deporte  niña  color morado  tamaño 98'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CLH7XG/?tag=tolees-21'
 descuento: '56.54'
 average: '33.2875'

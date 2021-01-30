@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'SUNMEET Gafas de sol Hombre Polarizadas Clásico Retro Gafas de sol para Hombre UV400 Protection S1001 Azul/Pistola '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7TNL8H/?tag=tolees-21'
 descuento: '60.02'
 average: '15.99'

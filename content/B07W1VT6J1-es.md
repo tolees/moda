@@ -16,6 +16,7 @@ comparePrice: 18.58 EUR
 prodname: 'Tommy Hilfiger TJM 1985 Vertical Logo tee Camiseta Deporte  Azul  Twilight Navy C87   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1VT6J1/?tag=tolees-21'
 descuento: '26.91'
 average: '13.58'

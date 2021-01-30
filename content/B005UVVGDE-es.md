@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'NIKE Benassi JDI  Chanclas para Hombre  Blanco  White/Black Black   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005UVVGDE/?tag=tolees-21'
 descuento: '17.15'
 average: '22.50866666666667'

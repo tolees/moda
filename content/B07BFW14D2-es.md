@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Kayhan Hombre Camisa  TwoFace Grey L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFW14D2/?tag=tolees-21'
 descuento: '42.72'
 average: '19.99'

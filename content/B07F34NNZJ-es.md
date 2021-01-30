@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Recién nacido Bebé Pijama de Algodón Mameluco Niños Pelele Mono Manga Larga Trajes 0-3 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F34NNZJ/?tag=tolees-21'
 descuento: '30.12'
 average: '13.97'

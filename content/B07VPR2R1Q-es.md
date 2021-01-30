@@ -16,6 +16,7 @@ comparePrice: 15.56 EUR
 prodname: 'Only Onlnayla Rianna Wool Coat CC Otw Abrigo  Marrón  Camel Camel   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPR2R1Q/?tag=tolees-21'
 descuento: '16.71'
 average: '14.91'

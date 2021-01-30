@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'JACK & JONES Jorhero tee SS Crew Neck Camiseta  Rosa  Peach Beige Fit:Slim   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5WIYI1/?tag=tolees-21'
 descuento: '36.62'
 average: '9.5'

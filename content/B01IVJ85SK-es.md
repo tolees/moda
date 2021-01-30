@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Ever-Pretty Vestido de Fiesta Noche Asimétrico en Encaje Volantes Escote Mujer Blanco y Negro 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVJ85SK/?tag=tolees-21'
 descuento: '35.72'
 average: '44.99'

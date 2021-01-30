@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'CMP Hamal  Sandalias de Senderismo Unisex Niños  Rosa  Hot Pink   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0783RYMGT/?tag=tolees-21'
 descuento: '19.11'
 average: '20.99'

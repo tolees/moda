@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Lacoste - Camisa Punto Manga Larga Hombre - CH9623-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVWY9NJ/?tag=tolees-21'
 descuento: '30.00'
 average: '77.0'

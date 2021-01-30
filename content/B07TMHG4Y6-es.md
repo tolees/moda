@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 511 Slim Vaqueros  Noce Cool 4211  32W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHG4Y6/?tag=tolees-21'
 descuento: '61.00'
 average: '39.0'

@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Neana Sudadera   Sailor 580   11-12 años  Talla del Fabricante: 11/12 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPP8BM/?tag=tolees-21'
 descuento: '54.64'
 average: '24.95'

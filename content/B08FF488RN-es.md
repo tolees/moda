@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Aire Zapatillas Fitness Hombre Zapatos Deportivos para Casual Correr Transpirables Gimnasio Sneakers Negro 43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FF488RN/?tag=tolees-21'
 descuento: '15.00'
 average: '32.365'

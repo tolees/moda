@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Original Jersey Camiseta  Gris  Lt Grey Htr 038   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776XXPXR/?tag=tolees-21'
 descuento: '52.76'
 average: '13.7'

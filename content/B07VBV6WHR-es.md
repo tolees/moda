@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'edc by Esprit 099cc1d009 Falda  Azul  Grey Blue 420   36  Talla del Fabricante: 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBV6WHR/?tag=tolees-21'
 descuento: '82.24'
 average: '8.17'

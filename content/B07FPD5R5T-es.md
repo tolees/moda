@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Timberland 6 Inch Premium Waterproof  Botas para Hombre  marrón  Wheat Nubuck   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPD5R5T/?tag=tolees-21'
 descuento: '41.66'
 average: '129.70222222222225'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'The North Face M Drew Peak Sudadera con Capucha  Hombre  Blanco  Vintage White/British Khaki   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDFVFLM/?tag=tolees-21'
 descuento: '40.00'
 average: '48.0'

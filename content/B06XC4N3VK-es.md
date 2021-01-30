@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Streaky Stretch Dk Z45   W33/L36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XC4N3VK/?tag=tolees-21'
 descuento: '44.72'
 average: '46.99'

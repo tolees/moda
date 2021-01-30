@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Charles Wilson Calzoncillo Bóxer de Hombre 6 Unidades  Medium  Black  1019  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNSPV7D/?tag=tolees-21'
 descuento: '30.08'
 average: '13.95'

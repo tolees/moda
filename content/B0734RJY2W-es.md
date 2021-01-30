@@ -16,6 +16,7 @@ comparePrice: 12.91 EUR
 prodname: 'find. Zapatos de Charol y Empeine Alto para Mujer  Rojo  Red   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0734RJY2W/?tag=tolees-21'
 descuento: '46.40'
 average: '10.613333333333333'

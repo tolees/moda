@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s HR Decon Iconic BF Skirt Falda  Negro  Left Behind 0008   Talla única  Talla del Fabricante: 26  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF3FT8Y/?tag=tolees-21'
 descuento: '46.92'
 average: '31.85'

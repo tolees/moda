@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Armani Exchange Smart Stretch Satin Camisa  Negro  Black 1200   38  Talla del Fabricante: X-Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HS11RB6/?tag=tolees-21'
 descuento: '61.16'
 average: '29.13'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Orabella Alice  Botines para Mujer  Marrón  Burgundy Patent Burgundy Patent   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HWCJY/?tag=tolees-21'
 descuento: '56.86'
 average: '28.84166666666667'

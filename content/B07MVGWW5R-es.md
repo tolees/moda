@@ -16,6 +16,7 @@ comparePrice: 24 EUR
 prodname: 'Kipling Gleam  Bolso de Tocador para Mujer  Gris  Night Grey Bl   18.5x11x8 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVGWW5R/?tag=tolees-21'
 descuento: '50.00'
 average: '12'

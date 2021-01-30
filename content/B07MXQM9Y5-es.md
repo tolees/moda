@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Desigual 19WAKA35 - Bolso mochila de Sintético Mujer 34.5x12x28.5 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXQM9Y5/?tag=tolees-21'
 descuento: '50.03'
 average: '44.95'

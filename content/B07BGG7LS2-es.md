@@ -16,6 +16,7 @@ comparePrice: 31.13 EUR
 prodname: 'Gola Mujer Sandalias Deportivas Zapatillas de Senderismo Negro y Rosa Brillante EU 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGG7LS2/?tag=tolees-21'
 descuento: '29.68'
 average: '21.89'

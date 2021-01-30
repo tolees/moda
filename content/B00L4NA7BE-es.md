@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Flash Forward  Chaqueta cortavientos  Mujer  Negro  Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L4NA7BE/?tag=tolees-21'
 descuento: '39.01'
 average: '29.976666666666667'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour MK1 Shorts Pantalón Corto  Hombre  Negro  Black/Stealth Gray 001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072FJ6K7L/?tag=tolees-21'
 descuento: '57.29'
 average: '17.35'

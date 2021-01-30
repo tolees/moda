@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello Pico  Rosa  Medium Pink Marl   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WHWSLD/?tag=tolees-21'
 descuento: '58.53'
 average: '14.06'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Morado  Better Housemark Pfd Lavender Fog 0340   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F138LNJ/?tag=tolees-21'
 descuento: '32.60'
 average: '15.925'

@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Nike LS Park Vi JSY Camiseta de Manga Larga  Hombre  Rosa  Vivid Pink/Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AC6L55U/?tag=tolees-21'
 descuento: '28.83'
 average: '18.04'

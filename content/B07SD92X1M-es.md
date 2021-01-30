@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Helly Hansen Crew Midlayer Chaqueta Deportiva Impermeable  Hombre  Royal Blue  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD92X1M/?tag=tolees-21'
 descuento: '57.30'
 average: '66.02714285714286'

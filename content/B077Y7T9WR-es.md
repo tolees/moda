@@ -16,6 +16,7 @@ comparePrice: 11.81 EUR
 prodname: 'HIKARO Sudadera con Print Mujer  Rosa  Coral   40  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y7T9WR/?tag=tolees-21'
 descuento: '30.82'
 average: '8.89'

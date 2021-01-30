@@ -16,6 +16,7 @@ comparePrice: 95 EUR
 prodname: 'Lacoste Sport SH7609 Sudadera con Capucha  Gris  Argent Chine/Marine   XX-Large  Talla del Fabricante: 7  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDRUKNO/?tag=tolees-21'
 descuento: '19.02'
 average: '76.93'

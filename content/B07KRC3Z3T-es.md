@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Gafas de Lectura sin Patillas Graduadas Anti-bluelight para Hombre y Mujer. Anti-reflejantes y Anti Luz Azul Flexibles Irrompibles de Bolsillo. Red +2.0 – HERMITAGE ROUND'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRC3Z3T/?tag=tolees-21'
 descuento: '46.83'
 average: '17.52'

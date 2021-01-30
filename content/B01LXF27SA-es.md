@@ -16,6 +16,7 @@ comparePrice: 152.0 EUR
 prodname: 'Ray-Ban Round Metal Gafas de sol  Shiny Light Bronze  50 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXF27SA/?tag=tolees-21'
 descuento: '38.97'
 average: '92.77'

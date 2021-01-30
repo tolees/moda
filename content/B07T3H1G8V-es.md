@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Timberland Bradstreet Plain Toe Sensorflex  Zapatos de Cordones Oxford para Hombre  Azul Navy Full Grain  45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3H1G8V/?tag=tolees-21'
 descuento: '65.85'
 average: '44.4'

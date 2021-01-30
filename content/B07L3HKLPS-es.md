@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger Essential Boxy Flag S/s Camiseta  Azul  Black Iris 002   104  Talla del Fabricante: 4  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3HKLPS/?tag=tolees-21'
 descuento: '31.51'
 average: '13.63'

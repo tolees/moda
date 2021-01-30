@@ -16,6 +16,7 @@ comparePrice: 38.13 EUR
 prodname: 'Star Wars Episode VII Kylo REN Shadows Camiseta  Negro  Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01505CDGI/?tag=tolees-21'
 descuento: '64.38'
 average: '13.513333333333334'

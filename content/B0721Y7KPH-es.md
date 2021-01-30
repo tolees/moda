@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jprnon Iron Shirt L/s Noos Camisa  Gris  Grey Melange Fit:Slim Fit   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721Y7KPH/?tag=tolees-21'
 descuento: '38.76'
 average: '24.49'

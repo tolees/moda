@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia 1420421  Chaqueta Forro Polar Hombre  Azul  Dark Mountain   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPXS2YN/?tag=tolees-21'
 descuento: '66.97'
 average: '18.87'

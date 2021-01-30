@@ -16,6 +16,7 @@ comparePrice: 47.41 EUR
 prodname: 'H&E - Abrigo de invierno para niña con capucha y capucha  Niñas  color dorado  tamaño 6 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HWSX3CQ/?tag=tolees-21'
 descuento: '52.33'
 average: '22.6'

@@ -16,6 +16,7 @@ comparePrice: 132.12 EUR
 prodname: 'Timberland Bradstreet Hiker  Botas Chukka para Hombre  Negro  Black Full Grain   47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2BVT9K/?tag=tolees-21'
 descuento: '55.35'
 average: '58.99'

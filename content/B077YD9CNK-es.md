@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'HIKARO Sudadera con Capucha Hombre  Gris  Charcoal Marl   48  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YD9CNK/?tag=tolees-21'
 descuento: '29.18'
 average: '17.686'

@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Tiebao Niños Difícil Suelo Artificial Velocidad PU Cuero Fútbol Zapatos  Azul  Niño pequeño EU30 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LVTUC4P/?tag=tolees-21'
 descuento: '33.36'
 average: '22.65'

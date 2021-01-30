@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Birkenstock Gizeh Eva - Sandalias unisex  Negro  Black   38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KQECKWG/?tag=tolees-21'
 descuento: '25.00'
 average: '30'

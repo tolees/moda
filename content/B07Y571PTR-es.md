@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Chaqueta Softshell Hombre TYKOON rol 7 007'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y571PTR/?tag=tolees-21'
 descuento: '30.00'
 average: '69.3'

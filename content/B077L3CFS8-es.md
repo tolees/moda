@@ -16,6 +16,7 @@ comparePrice: 35.98 EUR
 prodname: 'HonourSport Falda Pantalón con Polainas Falda de Deportes para Mujer Capris Golf Tennis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077L3CFS8/?tag=tolees-21'
 descuento: '41.66'
 average: '20.99'

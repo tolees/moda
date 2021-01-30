@@ -16,6 +16,7 @@ comparePrice: 18.13 EUR
 prodname: 'Star Wars HQ2017 Pijama de una Pieza  Rojo  Red   4 años  Tamaño del Fabricante:4Y  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RQJTB9/?tag=tolees-21'
 descuento: '73.08'
 average: '4.975'

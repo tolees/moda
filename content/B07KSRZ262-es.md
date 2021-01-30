@@ -16,6 +16,7 @@ comparePrice: 35.97 EUR
 prodname: 'AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Regalos Azul Negro Fiber Rectángulo Curva 1.2x1.8CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSRZ262/?tag=tolees-21'
 descuento: '63.89'
 average: '12.99'

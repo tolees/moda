@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Mujer Vestido Lápiz de Oficina Elegante Mangas Cortas S CL010867-1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L92V4MP/?tag=tolees-21'
 descuento: '27.79'
 average: '25.99'

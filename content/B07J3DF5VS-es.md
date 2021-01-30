@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Under Armour Men s CGI Fleece Glove Guantes  Hombre  Gris  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3DF5VS/?tag=tolees-21'
 descuento: '35.37'
 average: '19.39'

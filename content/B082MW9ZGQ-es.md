@@ -16,6 +16,7 @@ comparePrice: 22.32 EUR
 prodname: 'Iris & Lilly Braga de Bikini de Algodón Mujer  Pack de 10  Multicolor  Night Sky/White/Zen Blue .  M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MW9ZGQ/?tag=tolees-21'
 descuento: '16.17'
 average: '18.71'

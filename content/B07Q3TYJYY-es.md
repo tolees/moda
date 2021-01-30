@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'TTYAOVO Chicas Arco Iris Unicornio Fancy Vestido Princesa Flor Desfile de Niños Vestidos sin Mangas Volantes Vestido de Fiesta Talla 3-4 Años Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3TYJYY/?tag=tolees-21'
 descuento: '33.37'
 average: '19.99'

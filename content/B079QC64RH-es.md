@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Kipling Gabbie  Bolso bandolera para Mujer  Azul  True Dazz Navy   35.5 x 30 x 18.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QC64RH/?tag=tolees-21'
 descuento: '50.45'
 average: '49.5'

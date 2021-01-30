@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Quiksilver Brooks 5k Chaqueta Impermeable  Hombre  Gris  Medium Grey Heather   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFDGBQ3/?tag=tolees-21'
 descuento: '51.57'
 average: '77.49'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s SS Original Hm tee Camiseta  Negro  Cotton + Patch Black 0009   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHSG592/?tag=tolees-21'
 descuento: '40.00'
 average: '15.0'

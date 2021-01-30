@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Greensboro Regular Jeans Vaqueros  Azul  Smooth Criminal 28j   38W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4TDML3/?tag=tolees-21'
 descuento: '59.73'
 average: '36.22'

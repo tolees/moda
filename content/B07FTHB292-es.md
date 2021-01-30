@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Slim Rider Chaqueta Vaquera  Azul  Flick Light IR   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTHB292/?tag=tolees-21'
 descuento: '65.90'
 average: '34.08'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Lee Elly Vaqueros  Azul  Clean Beaufort Jp   W29/L31 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M95FVRG/?tag=tolees-21'
 descuento: '58.74'
 average: '32.99'

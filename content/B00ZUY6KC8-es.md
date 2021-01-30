@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'REEF R2026ALB  Chanclas Hombre  Negro  Black / Silver   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZUY6KC8/?tag=tolees-21'
 descuento: '58.87'
 average: '22.39375'

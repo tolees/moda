@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'edc by Esprit 099cc1g027 Abrigo  Azul  Navy 400   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG3SX39/?tag=tolees-21'
 descuento: '63.98'
 average: '32.41'

@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'G-STAR RAW Tacoma Long Sleeve Shirt Straight Vestido  Rinsed A785/082  X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4B1ZW5/?tag=tolees-21'
 descuento: '50.00'
 average: '69.97'

@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Geox J New Savage Boy A  Zapatillas para Niños  Azul  Navy/Yellow C0657   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792KFJKD/?tag=tolees-21'
 descuento: '48.62'
 average: '33.4'

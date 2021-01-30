@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Timberland Malibu Waves Cross Slide  Sandalias con Punta Abierta para Mujer  Negro  Black Embossed Suede   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1ZQWSZ/?tag=tolees-21'
 descuento: '34.10'
 average: '52.72'

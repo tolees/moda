@@ -16,6 +16,7 @@ comparePrice: 3.35 EUR
 prodname: 'Tom Tailor  NOS  1010415  Camiseta para Mujer  Marfil  Whisper White 10315   40  Talla del fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHTQ2CT/?tag=tolees-21'
 descuento: '25.07'
 average: '2.51'

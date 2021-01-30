@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Pepe Jeans Taylor PL900443 Falda  Azul  Dark Tru BLU Ce3   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076DGSY1K/?tag=tolees-21'
 descuento: '70.70'
 average: '20.48'

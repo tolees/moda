@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'DaMohony - Niñas Falda Tul de Capas Volantes Enagua Tutú para Boda Fiesta Bautizo para Bebé Niña Rosado 2-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081WKFNGD/?tag=tolees-21'
 descuento: '30.02'
 average: '11.89'

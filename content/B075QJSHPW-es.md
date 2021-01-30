@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'MERAKI Vaqueros Skinny Hombre  Azul  Indigo Rinse   W30/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QJSHPW/?tag=tolees-21'
 descuento: '51.66'
 average: '16.92'

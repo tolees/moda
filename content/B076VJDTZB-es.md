@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Columbia Glacial IV Jersey Polar con Media Cremallera para Mujer  Color: Sea Salt  Talla: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VJDTZB/?tag=tolees-21'
 descuento: '43.35'
 average: '15.59'

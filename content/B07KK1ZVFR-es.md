@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'El Naturalista N5008 Pleasant Leaves  Sandalias con Correa de Tobillo para Mujer  Rojo  Tibet Tibet   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK1ZVFR/?tag=tolees-21'
 descuento: '40.12'
 average: '59.85'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Under Armour EU Tech Pant Pantalón de Golf  Hombre  Marrón  Khaki Base/Khaki Base 289   40W / 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KH1MQF8/?tag=tolees-21'
 descuento: '81.57'
 average: '12.9'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Newport Bay 2 Eye  Mocasines para Hombre  Blanco  Light Grey Canvas   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2BWKJJ/?tag=tolees-21'
 descuento: '51.57'
 average: '28.51875'

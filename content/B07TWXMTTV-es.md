@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Women s Secret The Lion King LK DS Life PJ FR Conjuntos de Pijama  Verde  Gama Verdes 22   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXMTTV/?tag=tolees-21'
 descuento: '52.41'
 average: '17.92'

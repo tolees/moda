@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Sportstyle Pantalones para Hombre de algodón con Logotipo  pantalón Corto Ultraligero y Transpirable  cómodo y Ancho pantalón Deportivo  Steel Light Heather/Black  035   LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FQ2SXJ/?tag=tolees-21'
 descuento: '52.06'
 average: '16.686666666666667'

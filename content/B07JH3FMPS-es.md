@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Pixie Pl200025 Vaqueros Skinny  Gris  Powerflex Grey Used Denim Uc4   W31/L30 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH3FMPS/?tag=tolees-21'
 descuento: '53.68'
 average: '48.04'

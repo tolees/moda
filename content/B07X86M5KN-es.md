@@ -16,6 +16,7 @@ comparePrice: 6.23 EUR
 prodname: 'JACK & JONES Jcofort tee SS Crew Neck Camiseta  Blanco  White.Slim   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X86M5KN/?tag=tolees-21'
 descuento: '17.82'
 average: '5.12'

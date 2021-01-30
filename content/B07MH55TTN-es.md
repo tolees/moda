@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Lacoste Sport Bh8843 Chaqueta  Azul  Océano/Marine Bnb   XX-Large  Talla del Fabricante: 56  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MH55TTN/?tag=tolees-21'
 descuento: '59.59'
 average: '72.74'

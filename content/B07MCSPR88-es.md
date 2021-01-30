@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri Berber H Sudadera con Capucha  Gris  Med Grey Mel 160   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPR88/?tag=tolees-21'
 descuento: '55.00'
 average: '44.55'

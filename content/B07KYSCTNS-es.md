@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'The Drop Maya Falda con efecto seda para mujer  fucsia  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYSCTNS/?tag=tolees-21'
 descuento: '52.01'
 average: '16.75'

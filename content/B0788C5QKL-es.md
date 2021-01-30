@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Vero Moda Vmhot Seven NW Dnm Slit Knicker Mix Noos Pantalones  Azul  Medium Blue Denim Medium Blue Denim   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788C5QKL/?tag=tolees-21'
 descuento: '51.90'
 average: '12.02'

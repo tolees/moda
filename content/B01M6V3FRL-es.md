@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Avery C  Mocasines para Mujer  Beige  LT TAUPEC6738   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6V3FRL/?tag=tolees-21'
 descuento: '70.39'
 average: '29.58'

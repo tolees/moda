@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Durian Super Tint Overt 3953  32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4Y2RX6/?tag=tolees-21'
 descuento: '21.78'
 average: '48.49'

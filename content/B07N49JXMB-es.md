@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'United Colors of Benetton Basico 2 Man Camiseta de Manga Larga  Rojo  Rossol 015   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N49JXMB/?tag=tolees-21'
 descuento: '72.85'
 average: '13.56'

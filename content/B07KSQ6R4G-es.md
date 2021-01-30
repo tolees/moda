@@ -16,6 +16,7 @@ comparePrice: 11.57 EUR
 prodname: 'Under Armour Mfo Let The Gains Begin SS Camiseta  Hombre  Negro  Black/Barn 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSQ6R4G/?tag=tolees-21'
 descuento: '15.38'
 average: '9.79'

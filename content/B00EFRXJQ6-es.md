@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Helly Hansen Daybreaker Fleece Jacket Chaqueta  Hombre  Negro  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EFRXJQ6/?tag=tolees-21'
 descuento: '48.50'
 average: '29.93'

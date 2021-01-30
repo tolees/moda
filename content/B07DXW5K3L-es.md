@@ -16,6 +16,7 @@ comparePrice: 18.46 EUR
 prodname: 'Under Armour Sport Style Wind Anorak Chaqueta  Hombre  Moss/Artillery Green/Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXW5K3L/?tag=tolees-21'
 descuento: '30.01'
 average: '15.440000000000001'

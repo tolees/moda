@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Lacoste  Sudadera para Hombre  Black 31  Medium  Talla del fabricante : 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TPPGQ7C/?tag=tolees-21'
 descuento: '50.06'
 average: '44.95'

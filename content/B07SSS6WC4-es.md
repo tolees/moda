@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Sandal Hiver A  Sandalias con Punta Abierta para Mujer  Beige  Sand/Champagne C5zb5   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSS6WC4/?tag=tolees-21'
 descuento: '59.48'
 average: '38.696'

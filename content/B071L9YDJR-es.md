@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Izas Ferni Chaqueta Forro Polar  Mujer  Fuxia  XXS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071L9YDJR/?tag=tolees-21'
 descuento: '40.29'
 average: '8.33'

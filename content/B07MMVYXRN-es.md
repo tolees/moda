@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Marion Vaqueros Straight  Azul  Mid Gordo CV   W31/L35 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMVYXRN/?tag=tolees-21'
 descuento: '51.13'
 average: '48.85'

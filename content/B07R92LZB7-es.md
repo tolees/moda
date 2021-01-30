@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Fast Trek II Chaqueta Polar para Mujer  Color: Lila  Dusty Iris   Talla: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R92LZB7/?tag=tolees-21'
 descuento: '46.01'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 62.0 EUR
 prodname: 'CRZ YOGA Mujer Mallas Deportivo Pantalón Elastico para Running Fitness-71cm Leafy Multi 1 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9G77GC/?tag=tolees-21'
 descuento: '70.97'
 average: '18.0'

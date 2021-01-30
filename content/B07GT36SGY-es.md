@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Active Soft tee Camiseta  Hombre  Blanco  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GT36SGY/?tag=tolees-21'
 descuento: '57.19'
 average: '8.54'

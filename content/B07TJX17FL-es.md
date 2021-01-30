@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Lacoste Sport Sh7609 Sudadera  Rojo  Corrida/Noir G64   Large  Talla del Fabricante: 5  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJX17FL/?tag=tolees-21'
 descuento: '45.05'
 average: '54.95'

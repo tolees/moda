@@ -16,6 +16,7 @@ comparePrice: 135.99 EUR
 prodname: 'VGEBY1 Zapatos para Saltar  Zapatos de Rebote Unisex Botas de Rebote para Dar Forma al Cuerpo para Hacer Ejercicio físico 36-38-Gris Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPQX92T/?tag=tolees-21'
 descuento: '17.21'
 average: '112.59'

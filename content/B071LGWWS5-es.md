@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour UA Athlete SS Camiseta de Manga Corta  Hombre  Negro  001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LGWWS5/?tag=tolees-21'
 descuento: '59.42'
 average: '11.506666666666666'

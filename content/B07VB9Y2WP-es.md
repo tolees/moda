@@ -16,6 +16,7 @@ comparePrice: 12.83 EUR
 prodname: 'Marca Amazon - find. Stitch Cardigan - chaqueta punto Mujer  Gris  Soft Grey   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB9Y2WP/?tag=tolees-21'
 descuento: '22.29'
 average: '10.08'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks - Botines de Sintético Hombre  Color Marrón  Talla 46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC12G3C/?tag=tolees-21'
 descuento: '51.57'
 average: '33.88'

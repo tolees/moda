@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Napapijri Rainforest Pocket Chaqueta  Rojo  High Risk Red RA3   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPMX8/?tag=tolees-21'
 descuento: '67.60'
 average: '77.43'

@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: '【Vuelta al Colegio】 REYLEO Organizador de Equipaje  Organizador de Viaje - 2 Bolsas de Ropa  1 Bolsa de Zapatos y 1 Bolsa de Embalaje  3 Piezas Bolsa de Almacenamiento de Equipaje -Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q1P2XXZ/?tag=tolees-21'
 descuento: '45.50'
 average: '9.132857142857143'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Meller - Waga Minor Carbon - Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLDB7YT/?tag=tolees-21'
 descuento: '44.00'
 average: '22.4'

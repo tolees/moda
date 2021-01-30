@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Lacoste L1212 Camiseta Polo  Verde  Vert   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002LTY7UM/?tag=tolees-21'
 descuento: '32.60'
 average: '59.99'

@@ -16,6 +16,7 @@ comparePrice: 18.96 EUR
 prodname: 'Oiotuyi - Camiseta de manga corta de algodón para niños  diseño de dibujos animados  para regalo de cumpleaños Núm.12 3-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088PTJ3BZ/?tag=tolees-21'
 descuento: '50.00'
 average: '9.48'

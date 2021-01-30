@@ -16,6 +16,7 @@ comparePrice: 50.39 EUR
 prodname: 'Fankeshi - Abrigo de piel sintética para niña -  Rojo -  100 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083GQKMFL/?tag=tolees-21'
 descuento: '61.66'
 average: '19.32'

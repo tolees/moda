@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Ping Pop Camiseta de Crop para niñas California Azul 12-14 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6GP5MT/?tag=tolees-21'
 descuento: '36.53'
 average: '6.95'

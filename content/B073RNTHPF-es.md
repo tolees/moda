@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Helly Hansen Rider Stealth Zip Chaleco de Ayuda a la flotabilidad  para navegación de Vela Ligera y Otras Actividades acuáticas  Unisex Adulto  Ebony Negro   70/90KG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RNTHPF/?tag=tolees-21'
 descuento: '23.08'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Salomon Camiseta deportiva de manga corta  AGILE SS  tejido de doble punto  negro  hombre  talla: M  l40209900'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07556QBVJ/?tag=tolees-21'
 descuento: '50.00'
 average: '20.494999999999997'

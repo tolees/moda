@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Pitillos Zapatos Tacon 5853P para Mujer Negro 41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFNFVQW/?tag=tolees-21'
 descuento: '40.00'
 average: '36.0'

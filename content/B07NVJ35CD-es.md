@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Zapatos de Playa y Piscina para Niña Niño Chanclas 2019 Sandalias Mujer Verano Antideslizante Zapatillas casa Hombre EU38-38.5= Fabricante 38/39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVJ35CD/?tag=tolees-21'
 descuento: '15.03'
 average: '14.36'

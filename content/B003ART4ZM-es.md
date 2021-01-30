@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Birkenstock 51793 - Sandalias con hebilla unisex  Negro  35  estrecho '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ART4ZM/?tag=tolees-21'
 descuento: '20.89'
 average: '57.29000000000001'

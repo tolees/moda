@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Dickies Kingsley Sudadera con Capucha  Negro  Black   Small  Tamaño del Fabricante:Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NT8DZWU/?tag=tolees-21'
 descuento: '35.61'
 average: '37.99'

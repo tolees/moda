@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Crocband III Slide  Sandalias de Punta Descubierta Unisex Adulto  Azul  Navy/White 462   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN8XXK5/?tag=tolees-21'
 descuento: '26.34'
 average: '21.575'

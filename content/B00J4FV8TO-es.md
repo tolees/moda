@@ -16,6 +16,7 @@ comparePrice: 29.74 EUR
 prodname: 'Portwest C676 - Chaqueta aireado Chef  color Blanco  talla 3 XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J4FV8TO/?tag=tolees-21'
 descuento: '25.62'
 average: '22.12'

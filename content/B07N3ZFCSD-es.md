@@ -16,6 +16,7 @@ comparePrice: 4.58 EUR
 prodname: 'Marca Amazon - find. Camisa de Manga Larga de Algodón Hombre  Gris  Lt Grey   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3ZFCSD/?tag=tolees-21'
 descuento: '20.09'
 average: '3.66'

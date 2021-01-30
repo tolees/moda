@@ -16,6 +16,7 @@ comparePrice: 70.97 EUR
 prodname: 'Pepe Jeans Cane Vaqueros  Medium Used Denim Bb6  34W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYHB2WL/?tag=tolees-21'
 descuento: '59.63'
 average: '33.19499999999999'

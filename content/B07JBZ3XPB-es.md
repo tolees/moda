@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Powder Lite Jacket Chaqueta  Hombre  Rojo  Jasper-Red   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBZ3XPB/?tag=tolees-21'
 descuento: '43.00'
 average: '56.99'

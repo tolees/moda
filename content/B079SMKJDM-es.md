@@ -16,6 +16,7 @@ comparePrice: 18.21 EUR
 prodname: 'Desigual Nisa TS Camiseta  Azul  Marino 5001   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SMKJDM/?tag=tolees-21'
 descuento: '34.21'
 average: '17.425'

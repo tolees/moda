@@ -16,6 +16,7 @@ comparePrice: 186.5 EUR
 prodname: 'Trangoworld Gyala Chaqueta  Mujer  Agua  2J1   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VZD7QQ/?tag=tolees-21'
 descuento: '81.47'
 average: '34.55'

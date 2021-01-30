@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Scotch & Soda Classic Garment Dyed Polo Chaleco  Azul  Pool Breeze 2780   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNSVDXC/?tag=tolees-21'
 descuento: '58.82'
 average: '16.45'

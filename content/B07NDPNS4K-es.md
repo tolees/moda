@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Starkon Graphic Loose Round Neck Camiseta  Azul  Imperial Blue 1305   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPNS4K/?tag=tolees-21'
 descuento: '65.06'
 average: '13.96'

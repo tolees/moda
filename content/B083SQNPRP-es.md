@@ -16,6 +16,7 @@ comparePrice: 148.98 EUR
 prodname: 'Leabags Cambridge - Bolso bandolera  piel de búfalo   diseño vintage Marrón Sugar Cane. medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SQNPRP/?tag=tolees-21'
 descuento: '36.25'
 average: '94.98'

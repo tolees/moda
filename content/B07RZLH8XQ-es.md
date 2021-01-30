@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s Selma Dress Vestido  Azul  Going Steady  2  0000   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLH8XQ/?tag=tolees-21'
 descuento: '51.58'
 average: '53.26'

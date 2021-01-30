@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Classic Trunk Triple Pack Bóxer  Gris  Grey Marl Multipack 1sc   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4QCTJR/?tag=tolees-21'
 descuento: '48.59'
 average: '17.99'

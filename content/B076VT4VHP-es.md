@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW 3301 High Waist Boyfriend Vaqueros  Azul  lt Aged Small Destroy 9436-9260   25W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VT4VHP/?tag=tolees-21'
 descuento: '85.04'
 average: '19.44'

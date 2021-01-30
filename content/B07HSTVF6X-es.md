@@ -16,6 +16,7 @@ comparePrice: 132.99 EUR
 prodname: 'WISHDOIT Relojes para Hombres Impermeable Acero Inoxidable Reloj analógico de Cuarzo para Hombre Marca Vestido de Negocios Reloj de Pulsera Hombre Reloj Azul Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HSTVF6X/?tag=tolees-21'
 descuento: '75.19'
 average: '32.984117647058824'

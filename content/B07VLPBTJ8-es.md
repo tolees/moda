@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Lee Pique Polo Camiseta  Verde  Utility Green NG   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLPBTJ8/?tag=tolees-21'
 descuento: '56.22'
 average: '17.74'

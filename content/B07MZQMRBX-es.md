@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Georginna Vestido   Black 999   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQMRBX/?tag=tolees-21'
 descuento: '76.67'
 average: '22.015'

@@ -16,6 +16,7 @@ comparePrice: 67.1 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Negro  Solice 2861   34W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF663QZ/?tag=tolees-21'
 descuento: '35.34'
 average: '43.39'

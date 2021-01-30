@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger TJM Classics Longsleeve tee Camisa Manga Larga  Blanco  Classic White Ya2   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N272WCF/?tag=tolees-21'
 descuento: '25.29'
 average: '26.15'

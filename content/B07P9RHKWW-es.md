@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Heritage Crew Neck ¾ Camiseta  Azul  Midnight 403   XX-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9RHKWW/?tag=tolees-21'
 descuento: '32.63'
 average: '27.5475'

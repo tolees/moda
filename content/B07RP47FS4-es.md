@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger New TH ESS Hilfiger C-nk tee SS Camiseta  Rosa  Pink TZ8   90  Talla del Fabricante: XX-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RP47FS4/?tag=tolees-21'
 descuento: '30.35'
 average: '24.295'

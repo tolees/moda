@@ -16,6 +16,7 @@ comparePrice: 12.97 EUR
 prodname: 'Bebé Pijama Niños Pelele de Algodón Body Manga Corta Verano Jumpsuit 3-6 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCWJN5T/?tag=tolees-21'
 descuento: '30.69'
 average: '8.99'

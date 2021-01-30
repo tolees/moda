@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'CHENMA Hombre Naruto Kakashi Chaqueta de bombardero con cremallera completa de manga larga Chaqueta de piloto con capucha  Etiqueta S/EU XS  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDGMY13/?tag=tolees-21'
 descuento: '32.79'
 average: '40.99'

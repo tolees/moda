@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Tiro19 Co Polo Camiseta  Hombre  Black/White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYN48CH/?tag=tolees-21'
 descuento: '41.37'
 average: '21.735'

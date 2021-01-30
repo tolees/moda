@@ -16,6 +16,7 @@ comparePrice: 132.43 EUR
 prodname: 'Rebelhorn Chaqueta de moto de tres capas Membrana Sympatex transpirable e impermeable  chaqueta softshell interior  protectores SASTEC Patrol Black M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYCHTRW/?tag=tolees-21'
 descuento: '32.03'
 average: '94.835'

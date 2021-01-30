@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J Crush M  Zapatillas para Niños  Negro  BLACKC9999   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004S63IJM/?tag=tolees-21'
 descuento: '45.74'
 average: '32.5'

@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Meller - Kribi Tigris Carbon - Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLF26VB/?tag=tolees-21'
 descuento: '25.00'
 average: '24.0'

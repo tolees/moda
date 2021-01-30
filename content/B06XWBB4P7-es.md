@@ -16,6 +16,7 @@ comparePrice: 23.2 EUR
 prodname: 'find. Blusa con Manga Acampanada para Mujer   Marfil  Ivory   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWBB4P7/?tag=tolees-21'
 descuento: '62.50'
 average: '8.7'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Midge Cody Mid-Waist Skinny Vaqueros  Negro  Pitch Black B964-A810   22W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N18BJ2M/?tag=tolees-21'
 descuento: '90.77'
 average: '10.48'

@@ -16,6 +16,7 @@ comparePrice: 118.98 EUR
 prodname: 'LEABAGS Illinois Monedero de auténtico Cuero Ternero en el Estilo Vintage - Mango'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CSC0IKO/?tag=tolees-21'
 descuento: '74.80'
 average: '29.98'

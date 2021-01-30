@@ -16,6 +16,7 @@ comparePrice: 35.44 EUR
 prodname: 'find. Chaqueta Estilo Bomber para Hombre  Gris  Charcoal   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MVL31M/?tag=tolees-21'
 descuento: '61.91'
 average: '13.5'

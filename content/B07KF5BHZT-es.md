@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Levi s Original Chaqueta Vaquera  Azul  Needlecraft Trucker 0080   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF5BHZT/?tag=tolees-21'
 descuento: '16.72'
 average: '76.29'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'edc by Esprit 109cc1k023 Camisa Manga Larga  Azul  Navy 400   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9ZPPF6/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

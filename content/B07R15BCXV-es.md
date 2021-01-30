@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Wrangler Ringer tee Camiseta  Negro  Black 100   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R15BCXV/?tag=tolees-21'
 descuento: '71.45'
 average: '8.55'

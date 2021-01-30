@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox U Nebula Y A  Zapatillas para Hombre  Azul  Navy C4002   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZ81DTM/?tag=tolees-21'
 descuento: '67.13'
 average: '42.7'

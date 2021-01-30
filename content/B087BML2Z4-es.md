@@ -16,6 +16,7 @@ comparePrice: 55.88 EUR
 prodname: 'Mediffen Mujer Fiesta Tacón Ancho Correa De Tobillo Lazos Punta Abierta Sandalias Vestido Noche Tacón Alto Moda Sandalias Rosa Talla 43 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087BML2Z4/?tag=tolees-21'
 descuento: '54.10'
 average: '25.65'

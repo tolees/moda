@@ -16,6 +16,7 @@ comparePrice: 44.13 EUR
 prodname: 'Capitán Denim Denver Vaqueros Skinny  Azul  Mid Blue   WNA/L30  Tamaño del Fabricante:46  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0744MQXTD/?tag=tolees-21'
 descuento: '76.48'
 average: '10.38'

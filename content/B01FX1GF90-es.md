@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Negro  Black/Black 002   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FX1GF90/?tag=tolees-21'
 descuento: '50.11'
 average: '17.604'

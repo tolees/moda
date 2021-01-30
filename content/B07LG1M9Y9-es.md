@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B RISHON Girl A  Zapatillas para Bebés  Rosa  Dk Rose C8007   23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG1M9Y9/?tag=tolees-21'
 descuento: '38.18'
 average: '30.85'

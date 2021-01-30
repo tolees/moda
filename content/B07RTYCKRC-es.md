@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Emoji Camiseta de Manga Corta para niñas Llama Blanco 12-13 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTYCKRC/?tag=tolees-21'
 descuento: '30.89'
 average: '8.95'

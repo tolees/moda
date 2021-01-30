@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Lake 22 Chaqueta de Plumas para Hombre  Azul  Bright Indigo   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087VH5ZLX/?tag=tolees-21'
 descuento: '50.00'
 average: '59.99'

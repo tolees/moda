@@ -16,6 +16,7 @@ comparePrice: 19.41 EUR
 prodname: 'Geox JR Plie  E  Zapatos de Cordones Oxford para Niñas  Negro  Black C9999   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792JPQQY/?tag=tolees-21'
 descuento: '36.79'
 average: '12.27'

@@ -16,6 +16,7 @@ comparePrice: 24.98 EUR
 prodname: 'Conjunto De Bikini Acolchado De Malla Cruzada para Mujer Ropa De Playa De Dos Piezas Joven Bandeau Beach Fashion Floral Bottoms De Bikini  Rojo L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087YY9TV8/?tag=tolees-21'
 descuento: '53.72'
 average: '11.56'

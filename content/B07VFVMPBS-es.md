@@ -16,6 +16,7 @@ comparePrice: 32.22 EUR
 prodname: 'YOSICIL Princesa Disfraz Frozen Elsa Verde Disfraces Princesas Disfraz Infantil niña Bordado Fancy Dress con Mangas de Encaje Transparente Princesa Cosplay Vestido para Niñas 100cm-150cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFVMPBS/?tag=tolees-21'
 descuento: '44.17'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Pepe Jeans Dolly Blusa   Multi 0aa   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPMXTK/?tag=tolees-21'
 descuento: '81.27'
 average: '12.09'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Hackett London Amr Wings tee Camiseta  Naranja  158flame Orange 158   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG992MN/?tag=tolees-21'
 descuento: '54.32'
 average: '26.95'

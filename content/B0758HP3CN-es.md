@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'edc by Esprit 997cc1b817 Vaqueros Skinny  Azul  Blue Medium Wash 902   W32/L30 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758HP3CN/?tag=tolees-21'
 descuento: '48.91'
 average: '25.54'

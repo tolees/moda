@@ -16,6 +16,7 @@ comparePrice: 170.0 EUR
 prodname: 'Helly Hansen W Crew Hooded Midlayer Chaqueta Impermeable  Cortavientos y Transpirable para Mujer  con Forro Polar Integrado  Azul  Navy   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXY6NJY/?tag=tolees-21'
 descuento: '28.83'
 average: '120.99'

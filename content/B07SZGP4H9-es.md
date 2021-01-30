@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Tikea Bolsa Geométrica Luminosa Holográfica para Mujer  Riñonera de Moda en Cuero Sintético  Bolsa de Cintura Efecto Reflectante de Deporte Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZGP4H9/?tag=tolees-21'
 descuento: '48.01'
 average: '25.99'

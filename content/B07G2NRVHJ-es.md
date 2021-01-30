@@ -16,6 +16,7 @@ comparePrice: 23.52 EUR
 prodname: 'AURIQUE Half Zip Sports Chaqueta Rojo  Port Royale  40  Talla del Fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2NRVHJ/?tag=tolees-21'
 descuento: '36.22'
 average: '15'

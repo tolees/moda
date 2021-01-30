@@ -16,6 +16,7 @@ comparePrice: 24.74 EUR
 prodname: 'Amazon Essentials - Chaqueta de uso diario para mujer  Negro  US S  EU S - M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLBBK56/?tag=tolees-21'
 descuento: '45.43'
 average: '16.8'

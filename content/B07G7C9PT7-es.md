@@ -16,6 +16,7 @@ comparePrice: 27.56 EUR
 prodname: 'MERAKI Boxy chaqueta punto  Negro Black   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7C9PT7/?tag=tolees-21'
 descuento: '36.50'
 average: '17.5'

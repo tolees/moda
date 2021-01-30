@@ -16,6 +16,7 @@ comparePrice: 27.13 EUR
 prodname: 'Marca Amazon - find. Blusa de Rayas con Lazada para  Mujer  Beige  Stripe   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074H3HYQH/?tag=tolees-21'
 descuento: '60.19'
 average: '10.8'

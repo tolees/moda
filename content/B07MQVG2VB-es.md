@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Napapijri SIBU Camiseta  Azul  BLU Marine 176   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVG2VB/?tag=tolees-21'
 descuento: '50.00'
 average: '19.5'

@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'Geox D Kaula B ABX C  Botas de Nieve para Mujer  Marrón  Tobacco C6777   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLTLQHN/?tag=tolees-21'
 descuento: '79.62'
 average: '33.62'

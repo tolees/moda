@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Zapatillas Hombre Mujer Invierno CáLido Zapatos Memory Foam Casa Antideslizante Pantuflas  Rosa/Gris  42/43 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GP36XCR/?tag=tolees-21'
 descuento: '56.56'
 average: '19.98'

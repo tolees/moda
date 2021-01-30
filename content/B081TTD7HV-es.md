@@ -16,6 +16,7 @@ comparePrice: 17.06 EUR
 prodname: 'adidas Mono Jersey Pol Camiseta de Manga Corta  Hombre  Night Marine/White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TTD7HV/?tag=tolees-21'
 descuento: '26.14'
 average: '14.1'

@@ -16,6 +16,7 @@ comparePrice: 68.98 EUR
 prodname: 'LEABAGS London Bolso Bandolera de auténtico Cuero búfalo en el Estilo Vintage - Muskat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A8P0V2O/?tag=tolees-21'
 descuento: '30.44'
 average: '50.23'

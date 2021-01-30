@@ -16,6 +16,7 @@ comparePrice: 5.03 EUR
 prodname: 'Springfield 2.T.Ciudades Lentejuelas Camiseta  Beige  Beige 98   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ84C5L/?tag=tolees-21'
 descuento: '16.30'
 average: '4.21'

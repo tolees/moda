@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Leggins de Sudoracion Adelgazantes Mujer Fitness NANOTECNOLOGÍA  Leggins Anticeluliticos Push Up Cintura Alta  Mallas Reductoras  Pantalones Compresion Termicos Sauna  Deporte Yoga Running  2XL Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNVCM8J/?tag=tolees-21'
 descuento: '30.56'
 average: '23.847142857142853'

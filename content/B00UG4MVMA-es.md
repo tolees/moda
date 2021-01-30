@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Charles Wilson Camiseta Polo Clásica Lisa  Small  Teal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UG4MVMA/?tag=tolees-21'
 descuento: '16.71'
 average: '14.95'

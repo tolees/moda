@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'El Ganso 1 Camisa casual  Rojo  Rojo 0010   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQNBPMT/?tag=tolees-21'
 descuento: '58.58'
 average: '24.44'

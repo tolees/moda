@@ -16,6 +16,7 @@ comparePrice: 26.85 EUR
 prodname: 'New Look Ditsy Mesh Ruffle 6172444 Falda  Negro  Black Pattern 9   36  Talla del Fabricante: 8  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NP9HSKK/?tag=tolees-21'
 descuento: '66.67'
 average: '8.95'

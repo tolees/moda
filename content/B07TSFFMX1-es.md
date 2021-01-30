@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Bryson Vaqueros Skinny  Azul  Game On 12e   32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSFFMX1/?tag=tolees-21'
 descuento: '65.05'
 average: '36.085'

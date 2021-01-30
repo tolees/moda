@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Fire Venture L II WP  Zapatos de Senderismo para Mujer  Marrón  Dark Truffle  Red 206   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK2QP36/?tag=tolees-21'
 descuento: '66.47'
 average: '36.88'

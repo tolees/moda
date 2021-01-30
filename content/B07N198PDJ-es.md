@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'G-STAR RAW 5620 3D Vaqueros Slim  Azul  Dry Waxed Cobler 8968/A887   32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N198PDJ/?tag=tolees-21'
 descuento: '64.63'
 average: '50.345'

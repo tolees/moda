@@ -16,6 +16,7 @@ comparePrice: 17.68 EUR
 prodname: 'Caprice Marlene  Botines para Mujer  Marrón  Cognac Nappa 303   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLBR924/?tag=tolees-21'
 descuento: '39.54'
 average: '10.69'

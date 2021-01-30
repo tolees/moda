@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'ONLY Onlroyal High Waist Skinny Jeans Vaqueros  Medium Blue Denim  34W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010QC4XDQ/?tag=tolees-21'
 descuento: '53.59'
 average: '14.618'

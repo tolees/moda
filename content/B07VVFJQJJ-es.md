@@ -16,6 +16,7 @@ comparePrice: 16.38 EUR
 prodname: 'Tommy Hilfiger TJM Circle Logo tee Camiseta Deporte  Gris  Lt Grey Htr P01   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVFJQJJ/?tag=tolees-21'
 descuento: '19.35'
 average: '13.21'

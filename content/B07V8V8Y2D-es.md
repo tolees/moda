@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Casual Cork Beach Sandal  Sandalias con Punta Abierta para Hombre  Azul  Desert Sky Dw5   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8V8Y2D/?tag=tolees-21'
 descuento: '42.69'
 average: '20.0'

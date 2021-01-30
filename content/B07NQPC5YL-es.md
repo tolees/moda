@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Springfield 7Ba C/Red G7 Block Torzal Jersey  Azul  Blue 11   Small  Tamaño del Fabricante: S  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQPC5YL/?tag=tolees-21'
 descuento: '58.35'
 average: '13.74'

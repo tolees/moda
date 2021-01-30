@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Lisbon Lace  Zapatos de Cordones Derby para Hombre  Verde  Olive Canvas-   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR7ZM4Q/?tag=tolees-21'
 descuento: '64.18'
 average: '35.8'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'El Naturalista Zumaia  Sandalias con Punta Abierta para Mujer  Amarillo Curry Mixed Curry Mixed  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWS5MXF/?tag=tolees-21'
 descuento: '20.01'
 average: '71.95'

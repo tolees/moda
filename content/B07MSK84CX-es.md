@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Geox D BACKSIE B ABX C  Botas de Nieve para Mujer  Marrón  Tobacco C6777   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSK84CX/?tag=tolees-21'
 descuento: '51.18'
 average: '70.79'

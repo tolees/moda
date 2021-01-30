@@ -16,6 +16,7 @@ comparePrice: 8.46 EUR
 prodname: 'Marca Amazon - Goodthreads - Camiseta de manga corta y cuello redondo de punto de gamuza con bolsillo para hombre  Amarillo  US M  EU M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMZ487S/?tag=tolees-21'
 descuento: '54.73'
 average: '3.83'

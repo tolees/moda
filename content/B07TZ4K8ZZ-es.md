@@ -16,6 +16,7 @@ comparePrice: 50.7 EUR
 prodname: 'New Look Maisie Fitted Puffer  Abrigo Mujer  Negro  Black 1   34  Talla fabricante: 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ4K8ZZ/?tag=tolees-21'
 descuento: '60.26'
 average: '24.932000000000002'

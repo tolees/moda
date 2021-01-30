@@ -16,6 +16,7 @@ comparePrice: 31.18 EUR
 prodname: 'Arena Cobra Core Gafas de natación  Unisex Adulto  Smoke/Red  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JBJT4P2/?tag=tolees-21'
 descuento: '44.58'
 average: '17.28'

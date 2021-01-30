@@ -16,6 +16,7 @@ comparePrice: 22.58 EUR
 prodname: 'Suhctup Funda Compatible con Xiaomi Redmi 6A Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PC4NPJ/?tag=tolees-21'
 descuento: '51.37'
 average: '10.98'

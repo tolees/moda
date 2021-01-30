@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Swiftwater River Sandal M  Sandalias para Hombre  Negro  Black   48/49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H6NZ1UC/?tag=tolees-21'
 descuento: '26.53'
 average: '29.38'

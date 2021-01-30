@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'BILLABONG TRD Mrk LS tee Camiseta  Hombre  Negro  Black 19   One Size  Tamaño del Fabricante: XS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ2CCCM/?tag=tolees-21'
 descuento: '23.28'
 average: '19.18'

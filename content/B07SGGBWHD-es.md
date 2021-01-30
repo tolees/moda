@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Burton Brtn Camiseta  Hombre  True Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGGBWHD/?tag=tolees-21'
 descuento: '61.77'
 average: '13.38'

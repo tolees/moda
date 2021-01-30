@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'G-STAR RAW ARC 3D Low Waist Boyfriend Vaqueros  Multicolor  Dk Aged Restored 106 7351   34W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0723GB4VZ/?tag=tolees-21'
 descuento: '54.66'
 average: '67.99'

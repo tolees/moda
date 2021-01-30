@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño clásico y cómodos de Usar  Azul Claro  Coneflower Barn   38W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT67B7T/?tag=tolees-21'
 descuento: '38.01'
 average: '61.99'

@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'El Naturalista N5142 Capretto Nectar  Botines para Mujer  Marrón  Wood   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0722RQ6RT/?tag=tolees-21'
 descuento: '76.01'
 average: '35.98'

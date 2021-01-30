@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'Ever-Pretty Vestido de Noche Gasa Un Hombro Corte Imperio Plisado sin Mangas para Mujer Negro 54'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKP52YF/?tag=tolees-21'
 descuento: '34.22'
 average: '44.99'

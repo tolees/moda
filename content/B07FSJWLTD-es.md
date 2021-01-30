@@ -16,6 +16,7 @@ comparePrice: 29.69 EUR
 prodname: 'Peak Velocity - Sudadera con capucha con cremallera completa con forro polar de peso medio y corte ancho para hombre  Gris  US S  EU S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSJWLTD/?tag=tolees-21'
 descuento: '19.16'
 average: '24'

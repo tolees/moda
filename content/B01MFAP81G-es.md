@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Fresh Made D9514Z90532A Jersey  Rosa  Pearl Rose Melange   40 Talladelfabricante:M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MFAP81G/?tag=tolees-21'
 descuento: '59.00'
 average: '13.51'

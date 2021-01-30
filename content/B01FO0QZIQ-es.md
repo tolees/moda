@@ -16,6 +16,7 @@ comparePrice: 86.89 EUR
 prodname: 'Timberland Waterville 6 Inch Double Collar Waterproof  Botas para Mujer  Amarillo  Wheat Nubuck   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FO0QZIQ/?tag=tolees-21'
 descuento: '37.85'
 average: '62.057500000000005'

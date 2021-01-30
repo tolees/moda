@@ -16,6 +16,7 @@ comparePrice: 19.72 EUR
 prodname: 'Keysui Mascotas fiesta traje Formal traje ropa abrigo para perros ropa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019IKN8M4/?tag=tolees-21'
 descuento: '50.71'
 average: '9.72'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Cozy Flip  Zapatos de Playa y Piscina Unisex Adulto  Blanco White/High Risk Red 06  35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVZ278/?tag=tolees-21'
 descuento: '22.66'
 average: '14.321'

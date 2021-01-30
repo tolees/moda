@@ -16,6 +16,7 @@ comparePrice: 429.95 EUR
 prodname: 'Dainese Super Rider D-Dry Jacket Chaqueta Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7XUCBO/?tag=tolees-21'
 descuento: '31.62'
 average: '293.99'

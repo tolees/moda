@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler LS Western Shirt Camisa  Negro  Black 100   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PCDF78W/?tag=tolees-21'
 descuento: '75.17'
 average: '16.13'

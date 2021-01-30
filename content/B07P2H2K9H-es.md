@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Art Bergen  Botines para Mujer  Verde  Kaki Kaki   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2H2K9H/?tag=tolees-21'
 descuento: '80.79'
 average: '26.88'

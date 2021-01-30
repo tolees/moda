@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Calvin Klein Sonnenbrille Ck4359S 22 Gafas de sol  Rosa  Pink   54.0 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN2QR1D/?tag=tolees-21'
 descuento: '78.22'
 average: '36.81'

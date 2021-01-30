@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Pepe Jeans Shirley Pl401682 Chaqueta   Multi Bleu 0aa   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG7TP8D/?tag=tolees-21'
 descuento: '45.00'
 average: '82.5'

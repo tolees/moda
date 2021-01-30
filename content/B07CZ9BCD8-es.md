@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Speed Stride Camiseta  Mujer  Negro  Black 001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ9BCD8/?tag=tolees-21'
 descuento: '61.63'
 average: '11.780000000000001'

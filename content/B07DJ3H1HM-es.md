@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Leitan B  Zapatos de Cordones Derby para Hombre  Azul  Navy C4002   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ3H1HM/?tag=tolees-21'
 descuento: '41.00'
 average: '58.94'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs LiteRide Flip  Chanclas Unisex Adulto  Multicolor  Black/Smoke 05m   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFKR9F1/?tag=tolees-21'
 descuento: '35.01'
 average: '26.66333333333333'

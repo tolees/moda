@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Pendientes mujer plata de ley 925 pendientes largos con colgantes de bola de 10mm de cristal joyería de moda regalos para mujeres y niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D73DH4P/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Momawo | Abrigo Polar de Porteo y Maternidad Multifuncional y Adaptable  Unisex  Ideal para Invierno  Color Negro M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VVJV5FH/?tag=tolees-21'
 descuento: '39.96'
 average: '48.0'

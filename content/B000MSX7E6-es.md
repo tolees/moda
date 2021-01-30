@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Birkenstock Arizona  Zapatos con Hebilla Unisex Adulto  Marrón  Habana   40 EU  Estrecho '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MSX7E6/?tag=tolees-21'
 descuento: '43.00'
 average: '48.45'

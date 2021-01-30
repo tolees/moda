@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Apanphy® Bolsa de Aseo Neceseres de Viaje Travel Bolso cosmético Bolso de Maquillaje Bolsa de Almacenamiento portátil Estuche de Maquillaje con asa Makeup Toiletry Bag para Mujeres -Leopard Brown'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSMBRF3/?tag=tolees-21'
 descuento: '22.80'
 average: '11.58'

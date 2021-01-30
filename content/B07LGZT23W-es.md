@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'FineGood 12 pares de retenedores de gafas  silicona antideslizante para gafas de sol gafas de lectura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGZT23W/?tag=tolees-21'
 descuento: '57.22'
 average: '2.99'

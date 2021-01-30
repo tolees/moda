@@ -16,6 +16,7 @@ comparePrice: 189.95 EUR
 prodname: 'Ternua K7 W Chaqueta  Mujer  Azul  Dark Lagoon Melange   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSB9VGG/?tag=tolees-21'
 descuento: '21.04'
 average: '149.99'

@@ -16,6 +16,7 @@ comparePrice: 12.22 EUR
 prodname: 'Marca Amazon - find. Vestido Largo Camisero Mujer  Multicolor  Blue Paisley .  40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRCL5Z7/?tag=tolees-21'
 descuento: '22.01'
 average: '10.373333333333333'

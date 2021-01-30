@@ -16,6 +16,7 @@ comparePrice: 33.95 EUR
 prodname: 'Lois - Cartera de Mano Organizador para Caballero. Portadocumentos. Asa de Mano. Cuero PU. Cómodo Práctico Resistente y Ligero. Mariconera. Calidad Moda Estilo Elegante  96585  Color Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J9NH8JK/?tag=tolees-21'
 descuento: '29.46'
 average: '23.95'

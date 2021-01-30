@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Desigual Blouse Sena Blusa  Rojo  BORGOÑA 3007   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3VXB1P/?tag=tolees-21'
 descuento: '78.45'
 average: '12.92'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Under Armour Storm Full Zip Chaqueta  Hombre  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QY38GBB/?tag=tolees-21'
 descuento: '52.29'
 average: '52.48'

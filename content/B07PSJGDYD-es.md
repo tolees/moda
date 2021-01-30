@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Kipling New Hiphurray  Bolso Saco para Mujer  Azul  Stone Blue Block   39x43x0.1 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJGDYD/?tag=tolees-21'
 descuento: '50.00'
 average: '17.5'

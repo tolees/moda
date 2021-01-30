@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Cash Pm200124 Vaqueros Straight   Wiser Wash Dark Used Denim Ww9   W32/L34 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWQSS2G/?tag=tolees-21'
 descuento: '50.54'
 average: '49.620000000000005'

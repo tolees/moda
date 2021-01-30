@@ -16,6 +16,7 @@ comparePrice: 11.3 EUR
 prodname: 'Marca Amazon - find. Vaqueros Ceñidos con Bajo Elástico Hombre  Blanco  White   30W / 30L  Label: 30W / 30L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNBGDJ5/?tag=tolees-21'
 descuento: '33.45'
 average: '7.52'

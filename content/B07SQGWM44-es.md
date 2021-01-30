@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Hiver A  Zapatillas para Mujer  Plateado  Silver/Lt Grey C0898   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGWM44/?tag=tolees-21'
 descuento: '70.65'
 average: '29.32'

@@ -16,6 +16,7 @@ comparePrice: 39.17 EUR
 prodname: 'Levi s LS Battery HM Shirt Slim Camisa  Harbor Gray  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVQ9FN7/?tag=tolees-21'
 descuento: '23.54'
 average: '33.733333333333334'

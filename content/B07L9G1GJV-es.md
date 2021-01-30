@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Rival Fleece Solid Pantalón  Mujer  Negro  Black/Onyx White 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9G1GJV/?tag=tolees-21'
 descuento: '43.18'
 average: '25.57'

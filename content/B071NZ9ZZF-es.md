@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'The North Face Drew Peak J Jersey  Hombre  Negro  TNF Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NZ9ZZF/?tag=tolees-21'
 descuento: '38.59'
 average: '40.995000000000005'

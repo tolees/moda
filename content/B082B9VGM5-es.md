@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Geographical Norway Chaqueta Softshell DE NIÑA TILSIT Azul Marino 16'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082B9VGM5/?tag=tolees-21'
 descuento: '20.00'
 average: '71.2'

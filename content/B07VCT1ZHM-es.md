@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans March Basic Metal  Sandalias de Gladiador para Mujer  Gold Champagne 835  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCT1ZHM/?tag=tolees-21'
 descuento: '46.69'
 average: '34.65'

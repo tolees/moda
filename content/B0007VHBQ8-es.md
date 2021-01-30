@@ -16,6 +16,7 @@ comparePrice: 7.8 EUR
 prodname: 'Vileda Gr00683 - Guantes de goma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0007VHBQ8/?tag=tolees-21'
 descuento: '47.82'
 average: '4.07'

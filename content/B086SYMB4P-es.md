@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'Oihxse Moda Lindo Cristal Case Compatible con iPhone X/XS Funda Silicona Gradiente de Color TPU Suave Carcasa Ultra-Fina Transparente Protectora Flexible Caso-Gris Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086SYMB4P/?tag=tolees-21'
 descuento: '20.04'
 average: '7.98'

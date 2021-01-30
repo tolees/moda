@@ -16,6 +16,7 @@ comparePrice: 38.19 EUR
 prodname: 'Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Desert Sky/White  X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPQWJHT/?tag=tolees-21'
 descuento: '64.47'
 average: '12.563333333333333'

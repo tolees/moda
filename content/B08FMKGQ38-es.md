@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Doaraha Conjunto de Pijamas de Maternidad y Enfermería para Mujer Rayas Manga Media Pijama Premamá Lactancia Camiseta y Pantalones Algodón Embarazo Ropa de Dormir  Negro  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FMKGQ38/?tag=tolees-21'
 descuento: '31.59'
 average: '25.99'

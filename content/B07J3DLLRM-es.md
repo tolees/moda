@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Armour Fleece 1/2 Zip Sudadera cálida  Hombre  Rojo  Red/Black 601   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3DLLRM/?tag=tolees-21'
 descuento: '33.35'
 average: '36.66'

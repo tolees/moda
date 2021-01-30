@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Serena Slide Women  Sandalias de Punta Descubierta para Mujer  Rojo  Burgundy 605   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K9RM8BJ/?tag=tolees-21'
 descuento: '74.86'
 average: '9.003333333333334'

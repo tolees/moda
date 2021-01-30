@@ -16,6 +16,7 @@ comparePrice: 95.99 EUR
 prodname: 'Helly Hansen HH LIFA Merino 1/2 Zip Camiseta  Azul  Azul Electrico 639   Medium  Tamaño del Fabricante:M  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBNC5NV/?tag=tolees-21'
 descuento: '40.00'
 average: '57.59'

@@ -16,6 +16,7 @@ comparePrice: 39.83 EUR
 prodname: 'find. Flat Leather Pull On Botines  Azul Navy  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGK6HNJ/?tag=tolees-21'
 descuento: '64.65'
 average: '11.246666666666666'

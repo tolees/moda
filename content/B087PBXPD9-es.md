@@ -16,6 +16,7 @@ comparePrice: 22.58 EUR
 prodname: 'Suhctup Funda Compatible con Huawei Enjoy 8S/Y5 2019 Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PBXPD9/?tag=tolees-21'
 descuento: '51.37'
 average: '10.98'

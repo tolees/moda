@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse Bifold  Monedero Unisex Adulto  Negro  2x10x11 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JGMK8I2/?tag=tolees-21'
 descuento: '36.10'
 average: '29.28333333333333'

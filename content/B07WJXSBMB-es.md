@@ -16,6 +16,7 @@ comparePrice: 6.93 EUR
 prodname: 'Jack & Jones Joroutdoors tee SS Crew Neck Camiseta  Azul  Cloud Dancer Fit:Slim   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJXSBMB/?tag=tolees-21'
 descuento: '24.39'
 average: '5.24'

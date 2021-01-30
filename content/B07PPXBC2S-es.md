@@ -16,6 +16,7 @@ comparePrice: 13.08 EUR
 prodname: 'CARE OF by PUMA Sudadera de manga larga con cuello redondo para hombre  Azul  Blue   XXL  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPXBC2S/?tag=tolees-21'
 descuento: '16.59'
 average: '10.91'

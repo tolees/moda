@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Pontoise D  Zapatillas para Mujer  Negro  Black/Lt Gold C9258   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSK3NYF/?tag=tolees-21'
 descuento: '66.67'
 average: '38.185'

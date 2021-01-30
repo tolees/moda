@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Havaianas Brasil Mix  Chanclas Unisex Adulto  Multicolor  Black/White   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L410MVK/?tag=tolees-21'
 descuento: '70.67'
 average: '11.827499999999999'

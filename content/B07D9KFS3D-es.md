@@ -16,6 +16,7 @@ comparePrice: 12.58 EUR
 prodname: 'Baoblaze Bolsa de Hombro de Lona de Moda para 1/3 Lolita American Chica Muñeca - A Rayas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9KFS3D/?tag=tolees-21'
 descuento: '44.44'
 average: '6.99'

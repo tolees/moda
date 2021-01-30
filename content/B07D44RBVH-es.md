@@ -16,6 +16,7 @@ comparePrice: 39.83 EUR
 prodname: 'Marca Amazon - find. Chunky Gumsole Heavy Rand Botas Chelsea  Gris Taupe  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D44RBVH/?tag=tolees-21'
 descuento: '55.54'
 average: '17.71'

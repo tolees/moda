@@ -16,6 +16,7 @@ comparePrice: 33.62 EUR
 prodname: 'SimpleLife Sport Bag  Gym Shoulder Bag  Travel Travel Sports Fitness Yoga Bag Dry Wet Bag con Bolsillo y Zapatos Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMHKH3J/?tag=tolees-21'
 descuento: '50.00'
 average: '16.81'

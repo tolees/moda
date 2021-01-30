@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Tommy Hilfiger Tjw Roll Up Sleeve Shirt Camisa de Deporte  Blanco  White Ybr   42  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMNL2WF/?tag=tolees-21'
 descuento: '50.00'
 average: '32.5'

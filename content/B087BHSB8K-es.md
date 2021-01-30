@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Black Butler T-Shirts 3D Impresión Camisetas de Manga Corta de Verano Cuello Redondo tee Tops Estampado Camisa Suelta Casual Sebastian Ciel para Niños Niñas Amantes del Anime'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087BHSB8K/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

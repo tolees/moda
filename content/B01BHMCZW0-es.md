@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'El Naturalista NF82  Botines para Mujer  Negro  Black 000   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BHMCZW0/?tag=tolees-21'
 descuento: '74.98'
 average: '38.78'

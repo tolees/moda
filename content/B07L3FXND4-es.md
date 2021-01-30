@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Colorful Rope Flat Sandal  Chanclas para Mujer  Blanco  Whisper White 121   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3FXND4/?tag=tolees-21'
 descuento: '30.00'
 average: '50.18000000000001'

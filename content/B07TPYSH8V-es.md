@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Foxwell Hall  Zapatos de Cordones Derby  Negro  Black SDE Black SDE   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYSH8V/?tag=tolees-21'
 descuento: '66.19'
 average: '37.19'

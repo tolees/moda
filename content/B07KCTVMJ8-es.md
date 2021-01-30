@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas T19 SS JSY M Camiseta de Manga Corta  Hombre  Power Red/White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCTVMJ8/?tag=tolees-21'
 descuento: '66.18'
 average: '15.394285714285717'

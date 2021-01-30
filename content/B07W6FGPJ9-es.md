@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Gaatpot Zapatos Invierno Niña Niño Botas de Nieve Forradas Zapatillas Sneaker Botines Planas para Unisex Niños Rojo Burgundy  32 EU = 33 CN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6FGPJ9/?tag=tolees-21'
 descuento: '20.69'
 average: '22.96'

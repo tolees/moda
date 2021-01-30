@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Kansoom Guantes de Dedo completos  Viento cortante   Azul  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD296TT/?tag=tolees-21'
 descuento: '40.03'
 average: '17.49'

@@ -16,6 +16,7 @@ comparePrice: 141.5 EUR
 prodname: 'Trangoworld Sannat SN Pantalón Largo  Mujer  Multicolor  Rosa/Antracita XL   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CYMSRV0/?tag=tolees-21'
 descuento: '53.72'
 average: '65.49'

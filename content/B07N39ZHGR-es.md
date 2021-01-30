@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ever-Pretty Vestido de Noche Gasa Cuello en V A-línea sin Mangas Corte Imperio para Mujer Morado Oscuro 50'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N39ZHGR/?tag=tolees-21'
 descuento: '18.75'
 average: '56.65666666666666'

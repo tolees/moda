@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Women s Secret The Lion King LK DS Hakuna PJ FR Conjuntos de Pijama  Rojo  Gama Rojo 65   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSPJLC5/?tag=tolees-21'
 descuento: '50.99'
 average: '16.17'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Mercedes-Benz Sonnenbrille M7008 Gafas de sol  Azul  Blau   59.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T771RCV/?tag=tolees-21'
 descuento: '89.23'
 average: '21.44'

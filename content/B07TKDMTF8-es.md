@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Levi s Type 3 Chaqueta Vaquera  Azul  Firework Sherpa Trucker 0123   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKDMTF8/?tag=tolees-21'
 descuento: '38.58'
 average: '91.24'

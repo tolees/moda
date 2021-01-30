@@ -16,6 +16,7 @@ comparePrice: 152.9 EUR
 prodname: 'Timberland Splitrock 2 Waterproof  Zapatillas Chukka para Hombre  Marrón  Dark Brown Full Grain   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2KWL9H/?tag=tolees-21'
 descuento: '65.05'
 average: '53.44'

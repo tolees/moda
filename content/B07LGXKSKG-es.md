@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'The North Face Quest Print Jacket Chaqueta Estampada para Mujer  Vanadis Grey FL  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGXKSKG/?tag=tolees-21'
 descuento: '50.00'
 average: '72.475'

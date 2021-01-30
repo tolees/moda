@@ -16,6 +16,7 @@ comparePrice: 14.27 EUR
 prodname: 'Marca Amazon - find. Chaqueta Larga Mujer  Negro  Black   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YF9CZKL/?tag=tolees-21'
 descuento: '18.50'
 average: '11.63'

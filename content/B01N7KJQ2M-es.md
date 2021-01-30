@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip  Chanclas Unisex-Adult  Multi  42/43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7KJQ2M/?tag=tolees-21'
 descuento: '32.57'
 average: '16.85'

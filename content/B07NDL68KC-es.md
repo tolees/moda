@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'G-STAR RAW Whistler Slim Down Hooded Long Abrigo  Negro  Dk Black 6484   34  Talla del Fabricante: XX-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL68KC/?tag=tolees-21'
 descuento: '56.01'
 average: '109.95'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Straight Vaqueros para Mujer  Azul  Mid Indigo X8E   28W / 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN47D9S/?tag=tolees-21'
 descuento: '75.93'
 average: '21.65'

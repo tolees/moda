@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Khanomak de Mujeres Camiseta de Manga Corta de algodón con Cuello en V Camiseta Regular Fit  Medio  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQCKCC8/?tag=tolees-21'
 descuento: '73.40'
 average: '3.99'

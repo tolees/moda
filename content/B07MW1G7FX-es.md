@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Reebok BW Basic Boxer pantalón Corto  Hombre  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW1G7FX/?tag=tolees-21'
 descuento: '16.24'
 average: '16.71'

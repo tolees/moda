@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Helly Hansen HH Logo Crew Sudadera Deportiva  Mujer  Festival Fuchsia  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBN77MJ/?tag=tolees-21'
 descuento: '52.58'
 average: '28.45'

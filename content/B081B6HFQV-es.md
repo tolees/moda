@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Columbia CSC Basic Camiseta de Manga Corta  Hombre  Blanco  White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B6HFQV/?tag=tolees-21'
 descuento: '36.01'
 average: '15.99'

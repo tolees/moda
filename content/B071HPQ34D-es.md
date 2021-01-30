@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Pantalón Corto 1309618-001 M Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HPQ34D/?tag=tolees-21'
 descuento: '48.12'
 average: '15.623999999999999'

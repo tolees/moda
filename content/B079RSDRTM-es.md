@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Pepe Jeans Norske Chaqueta  Azul  Ink 591   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RSDRTM/?tag=tolees-21'
 descuento: '53.54'
 average: '60.050000000000004'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 3301 Straight Vaqueros  Antic Charcoal B479-A800  44W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJ5VCCM/?tag=tolees-21'
 descuento: '72.31'
 average: '33.21'

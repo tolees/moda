@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HEMING Cartera para Hombre Azul  Cartera tarjetero hombre  Billetera Hombre Pequeña  Cartera Hombre Piel  Carteras Hombre Pequeña  Cartera de Piel  Carteras Hombre Cuero  Tarjetero Hombre azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDDH2X4/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

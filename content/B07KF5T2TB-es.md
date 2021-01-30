@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Azul  Adriatico Adapt 0473   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF5T2TB/?tag=tolees-21'
 descuento: '71.32'
 average: '31.55'

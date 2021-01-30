@@ -16,6 +16,7 @@ comparePrice: 20.69 EUR
 prodname: 'dockers Alpha 360 Button Up Camisa Casual  Azul  Pembroke Infundido Slub 0047   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRXWP23/?tag=tolees-21'
 descuento: '35.72'
 average: '13.3'

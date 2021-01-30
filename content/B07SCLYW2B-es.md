@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Rider Jeans Vaqueros  Mission Worn  33W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCLYW2B/?tag=tolees-21'
 descuento: '49.99'
 average: '49.98'

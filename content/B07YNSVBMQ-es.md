@@ -16,6 +16,7 @@ comparePrice: 43.9 EUR
 prodname: 'find. Hurrache Sandalias con Punta Cerrada  Beige  Natural   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNSVBMQ/?tag=tolees-21'
 descuento: '80.23'
 average: '9.116666666666667'

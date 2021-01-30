@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J INEK Boy C  Zapatillas para Niños  Negro  Black/Orange C0038   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZ822W/?tag=tolees-21'
 descuento: '24.04'
 average: '37.415'

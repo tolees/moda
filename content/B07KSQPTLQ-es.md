@@ -16,6 +16,7 @@ comparePrice: 13.69 EUR
 prodname: 'Under Armour Mfo Train Daily SS Camiseta  Hombre  Negro  Black/White 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSQPTLQ/?tag=tolees-21'
 descuento: '26.08'
 average: '10.12'

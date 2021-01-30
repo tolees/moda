@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Marvel Capitan America - Camiseta para Hombre - Talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LFNP3N0/?tag=tolees-21'
 descuento: '18.81'
 average: '12.95'

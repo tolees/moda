@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'UniqueBella Suit Esquí Térmica Ropa Interior Térmica Manga Larga Camiseta + Térmica Pantalones Largos  Deportes de Invierno  Conjuntos térmicos para Hombre  Color Azul  Tamaño L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMYPY6J/?tag=tolees-21'
 descuento: '53.35'
 average: '13.99'

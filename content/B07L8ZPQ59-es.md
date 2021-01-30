@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'REPLAY Anbass Vaqueros Slim  Negro  Blackboard 290   W36/L32  Talla del Fabricante: 36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8ZPQ59/?tag=tolees-21'
 descuento: '53.96'
 average: '63.99'

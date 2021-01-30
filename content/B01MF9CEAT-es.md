@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Skechers Work Relaxed Fit: Hobbes-Frat SR  Zapatos de Seguridad para Hombre  Negro  Blk   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MF9CEAT/?tag=tolees-21'
 descuento: '28.53'
 average: '63.40500000000001'

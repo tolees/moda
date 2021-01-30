@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Vero Moda Vmjune W/l Long Blazer Dnm Noos Abrigo  Rosa  Misty Rose   40  Talla del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H953TQY/?tag=tolees-21'
 descuento: '40.10'
 average: '24.557999999999996'

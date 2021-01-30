@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'AURIQUE AZ20SS008 Pantalones Cortos de Gimnasio  Negro  Black   38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNQJVQY/?tag=tolees-21'
 descuento: '25.00'
 average: '13.5'

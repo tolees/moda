@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Superdry Padded Elite Jacket Chaqueta  Negro  Jet Black 12a   XX-Large  Talla del Fabricante: 2XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY3Q1Y5/?tag=tolees-21'
 descuento: '77.87'
 average: '27.335'

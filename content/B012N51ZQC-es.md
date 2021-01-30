@@ -16,6 +16,7 @@ comparePrice: 3.61 EUR
 prodname: 'Desconocido Ajustables Cordon Elastico Cuello Deporte Gafas De Sol Gafas Amarillas Stra Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012N51ZQC/?tag=tolees-21'
 descuento: '17.17'
 average: '2.99'

@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: 'Desconocido Botas Zapatos Fashion Princesa Encaje PU para Muñecas Chicas Americanas 18 Pulgadas - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IQOX8UU/?tag=tolees-21'
 descuento: '44.44'
 average: '7.99'

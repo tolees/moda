@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Earth Beetle Sudadera  Azul  Faded Legion Blue A986   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMR8B2F/?tag=tolees-21'
 descuento: '77.69'
 average: '22.3'

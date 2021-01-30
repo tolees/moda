@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Columbia Saturday Trail Falda Pantalón con Protección Solar 50  Mujer  Beige  Fossil   8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4FF6N7/?tag=tolees-21'
 descuento: '39.10'
 average: '33.49'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Gant Stretch Oxford-Solid Shirt Blusa  Rosa  Light Pink 662   36  Talla del Fabricante: 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X3VF71G/?tag=tolees-21'
 descuento: '25.61'
 average: '52.36'

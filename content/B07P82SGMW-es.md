@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Elly Vaqueros  Azul  Dark Marine 21   25W / 31L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P82SGMW/?tag=tolees-21'
 descuento: '81.59'
 average: '16.56'

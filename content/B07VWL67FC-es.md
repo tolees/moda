@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger TJM Chest Stripe Logo tee Camiseta Deporte  Azul  Twilight Navy C87   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWL67FC/?tag=tolees-21'
 descuento: '32.79'
 average: '19.99'

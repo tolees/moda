@@ -16,6 +16,7 @@ comparePrice: 210 EUR
 prodname: 'Timberland 6 Inch Premium Waterproof  Botas para Mujer  Negro  Black Full Grain   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HEQZDA0/?tag=tolees-21'
 descuento: '34.49'
 average: '137.57'

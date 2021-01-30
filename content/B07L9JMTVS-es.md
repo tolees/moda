@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Under Armour Tactical All Season Chaqueta  Hombre  Verde  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9JMTVS/?tag=tolees-21'
 descuento: '52.01'
 average: '47.99'

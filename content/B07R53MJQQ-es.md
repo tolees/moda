@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Scotch & Soda Skim-Objet D art Vaqueros Straight  Azul  Object Dart 3472   W33/L34  Talla del Fabricante: 33/34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R53MJQQ/?tag=tolees-21'
 descuento: '35.01'
 average: '77.95'

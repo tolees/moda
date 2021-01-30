@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Charged Cotton Scramble Polo  Camisa Polo Para Hombre  Camisa Polo Masculina Con Bolsillo En El Pecho Y Cuello De 2 Botones Hombre  Azul  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XN3LKM/?tag=tolees-21'
 descuento: '24.98'
 average: '33.76'

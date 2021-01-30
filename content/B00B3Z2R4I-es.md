@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Nike Benassi Jdi  Chanclas Unisex Adulto  Negro  Black/White   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B3Z2R4I/?tag=tolees-21'
 descuento: '60.66'
 average: '16.255'

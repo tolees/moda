@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Pokèmon - Pijama para Niños Ajuste Ceñido - 8-9 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KGQ4BT/?tag=tolees-21'
 descuento: '47.49'
 average: '9.95'

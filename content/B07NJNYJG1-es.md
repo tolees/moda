@@ -16,6 +16,7 @@ comparePrice: 19.54 EUR
 prodname: 'D C.Supernice - Zapatilla Baja Adultos Unisex  Color Azul  Talla 39 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJNYJG1/?tag=tolees-21'
 descuento: '47.08'
 average: '10.34'

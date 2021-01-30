@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'BILLABONG Alves Jacket Chaqueta Deportiva  Hombre  Azul  Dark Blue 709   One Size  Tamaño del Fabricante: L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWKYK93/?tag=tolees-21'
 descuento: '73.26'
 average: '47.196666666666665'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Dickies Belspring Chaqueta  Marrón  Medium  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D85L8VZ/?tag=tolees-21'
 descuento: '60.11'
 average: '37.9'

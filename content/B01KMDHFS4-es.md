@@ -16,6 +16,7 @@ comparePrice: 4 EUR
 prodname: 'oodji Collection Mujer Camiseta Básica de Algodón  Verde  ES 36 / XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KMDHFS4/?tag=tolees-21'
 descuento: '52.50'
 average: '1.9'

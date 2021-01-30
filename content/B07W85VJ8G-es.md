@@ -16,6 +16,7 @@ comparePrice: 11.19 EUR
 prodname: 'Springfield 5.T.Blusa Print Cenefas-C/66 Blusa  Naranja  Orange 66   38  Tamaño del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W85VJ8G/?tag=tolees-21'
 descuento: '28.95'
 average: '7.95'

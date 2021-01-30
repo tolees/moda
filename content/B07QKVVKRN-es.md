@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'La Chaqueta Metálica  Edición Especial  Bluray Iconic [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKVVKRN/?tag=tolees-21'
 descuento: '27.30'
 average: '8.17'

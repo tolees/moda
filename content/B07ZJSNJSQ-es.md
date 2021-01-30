@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Hanek Funda iPhone XR Funda de móvil con cordón para Colgar – Cuerda para Llevar en el Cuello Colgante – Carcasa de TPU de Alta Resistencia – Deja el Bolso en Casa – Hecho a Mano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJSNJSQ/?tag=tolees-21'
 descuento: '20.00'
 average: '19.92'

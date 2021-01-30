@@ -16,6 +16,7 @@ comparePrice: 11.14 EUR
 prodname: 'Amazon Essentials - Camisa regular de lino a cuadros con manga larga para hombre  Blanco  White   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XRFVHHJ/?tag=tolees-21'
 descuento: '49.28'
 average: '6.97'

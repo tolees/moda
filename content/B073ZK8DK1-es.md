@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Rainforest Winter  Chaqueta para Hombre  Azul  Blu Marine 176   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZK8DK1/?tag=tolees-21'
 descuento: '39.45'
 average: '118.548'

@@ -16,6 +16,7 @@ comparePrice: 8.16 EUR
 prodname: 'PUMA Hit Feel It tee Camiseta  Mujer  Black  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF9SW8M/?tag=tolees-21'
 descuento: '28.31'
 average: '5.85'

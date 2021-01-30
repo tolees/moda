@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Pepe Jeans Braguita de Bikini  Multicolor  Multi 0aa   40C  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WKPRWZN/?tag=tolees-21'
 descuento: '60.00'
 average: '10.8'

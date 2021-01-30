@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Wrangler LS 1 Pkt Button Down Camisa  Azul  Cerulean Blue Xvt   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWNMH6K/?tag=tolees-21'
 descuento: '72.76'
 average: '14.97'

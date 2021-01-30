@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Wrangler LS 1 Pkt Shirt Camisa  Rojo  Formula Red Xwo   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYWCDN2/?tag=tolees-21'
 descuento: '63.56'
 average: '18.2'

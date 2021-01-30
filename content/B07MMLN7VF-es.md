@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Napapijri Rainforest Pocket Chaqueta  Marrón  Golden Brown NC1   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLN7VF/?tag=tolees-21'
 descuento: '62.34'
 average: '90.0'

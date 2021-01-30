@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Calvin Klein Core Institutional Logo Slim tee Camiseta  Gris  Grey Heather 039   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF7SXZJ/?tag=tolees-21'
 descuento: '45.59'
 average: '15.78'

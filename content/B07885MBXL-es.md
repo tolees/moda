@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Salomon PROPELLER DRY W Guantes para mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07885MBXL/?tag=tolees-21'
 descuento: '69.31'
 average: '24.55'

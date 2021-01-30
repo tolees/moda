@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Chino Corduroy Pantalón  Negro  Black 01   29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M89FNBG/?tag=tolees-21'
 descuento: '57.77'
 average: '34.315714285714286'

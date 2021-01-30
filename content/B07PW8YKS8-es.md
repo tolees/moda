@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Duevin Bolso de la Motocicleta de la Mujer Mate PU portátil de Gran Capacidad Borla Bolso de Estilo Europeo y Americano Rose Rot '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PW8YKS8/?tag=tolees-21'
 descuento: '48.02'
 average: '12.99'

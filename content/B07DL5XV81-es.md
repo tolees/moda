@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia 1840661 EVOLUTION VALLEY  Pantalón de lluvia  Hombre   Poliéster   Negro  Black    Talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DL5XV81/?tag=tolees-21'
 descuento: '50.06'
 average: '39.95'

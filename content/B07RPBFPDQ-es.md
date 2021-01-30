@@ -16,6 +16,7 @@ comparePrice: 21.26 EUR
 prodname: 'Hawkers X Nyjah Huston-Grind Gafas de sol  Gris  One Size Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPBFPDQ/?tag=tolees-21'
 descuento: '26.76'
 average: '15.57'

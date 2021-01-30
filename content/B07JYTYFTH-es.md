@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Tommy Flag Hilfiger tee Camisa Deportiva  Azul  Sky Captain 403   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYTYFTH/?tag=tolees-21'
 descuento: '28.82'
 average: '28.4'

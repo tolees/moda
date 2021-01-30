@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Lacoste  Sudadera para Hombre  Black 31  Large  Talla del fabricante : 5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TPPGR44/?tag=tolees-21'
 descuento: '15.35'
 average: '61.150000000000006'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Straight Vaqueros  Blu  Authentic Faded Blue B631-A817   W28/L34 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N198RFT/?tag=tolees-21'
 descuento: '85.69'
 average: '16.3175'

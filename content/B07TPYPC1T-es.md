@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Botanic Strap  Sandalias de Talón Abierto para Mujer  Marrón  Amber Suede Amber Suede   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYPC1T/?tag=tolees-21'
 descuento: '49.56'
 average: '50.41'

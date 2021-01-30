@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Farchat Vestidos Mujer Suelto Casual de la Camiseta Cuello Redondo Vestido Rojo XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZGW48L/?tag=tolees-21'
 descuento: '24.48'
 average: '12.83'

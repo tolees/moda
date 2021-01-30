@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Bolso de Mano con Bandolera Pepe Jeans Strike'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLNG3GS/?tag=tolees-21'
 descuento: '20.31'
 average: '25.5'

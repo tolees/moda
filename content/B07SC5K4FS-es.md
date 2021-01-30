@@ -16,6 +16,7 @@ comparePrice: 17.82 EUR
 prodname: 'Adidas Adilette Aqua K  Chanclas Unisex Adulto  Gris  Grey Three F17/ True Blue   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC5K4FS/?tag=tolees-21'
 descuento: '71.89'
 average: '5.01'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Canyon Chaqueta Softshell  Hombre  Gris  Grey Ash Heather   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAKLZML/?tag=tolees-21'
 descuento: '48.40'
 average: '51.59'

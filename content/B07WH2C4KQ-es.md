@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Botines Impermeables Hombre Mujer Botas de Nieve Botines Zapatos Senderismo Impermeables Deportes Trekking Zapatos Fur Forro Aire Libre Boots Mishansha Amarillo 42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WH2C4KQ/?tag=tolees-21'
 descuento: '28.01'
 average: '28.79'

@@ -16,6 +16,7 @@ comparePrice: 18.13 EUR
 prodname: 'Star Wars HQ2022 Pijama de una Pieza  Gris  Grey   4 años  Tamaño del Fabricante:4Y  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FYW2LW/?tag=tolees-21'
 descuento: '72.04'
 average: '5.07'

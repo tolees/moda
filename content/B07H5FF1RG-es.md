@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Bikien Guantes para Mascotas Masaje con Pelo Largo y Corto Perros Gatos Conejo Caballos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5FF1RG/?tag=tolees-21'
 descuento: '29.18'
 average: '16.32333333333333'

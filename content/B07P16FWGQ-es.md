@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Retro Sport tee Camiseta  Negro  Black 02a   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P16FWGQ/?tag=tolees-21'
 descuento: '37.75'
 average: '21.78'

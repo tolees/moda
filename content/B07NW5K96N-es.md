@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Synergy  Botines para Mujer  Chestnut Micro Leather/Natural Faux Sherpa Csnt  4 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW5K96N/?tag=tolees-21'
 descuento: '40.00'
 average: '38.97'

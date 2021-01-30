@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 511 Slim Fit Jeans Pantalón vaquero elástico y con corte estilizado para hombre  Headed South 4006  30W / 30L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EYJRMHG/?tag=tolees-21'
 descuento: '30.16'
 average: '70.25666666666666'

@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Pepe Jeans Carter Pb502479 Camiseta   Chambray 564   4-5 años  Talla del Fabricante: 104/4 años  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGJ5MXX/?tag=tolees-21'
 descuento: '62.70'
 average: '10.07'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Funda Huawei P20 Flexible TPU Silicona Moda Lindo Case [Dibujos Animados 3D Diseño]  Ultra Delgado Ligero Goma Carcasas Caja Suave Gel Shock Absorción Anti Rasguños Choque Bumper Protectora Cover'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5B7CLT/?tag=tolees-21'
 descuento: '85.69'
 average: '1.0'

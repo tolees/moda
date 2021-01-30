@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers On-The-go 600-Flawless  Sandalias de Talón Abierto para Mujer  Morado  Light Mauve Ltmv   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNWMY4Z/?tag=tolees-21'
 descuento: '28.75'
 average: '33.39333333333334'

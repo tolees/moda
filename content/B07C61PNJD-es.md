@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Gris  Light Grey Denim Fit:Slim   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C61PNJD/?tag=tolees-21'
 descuento: '42.51'
 average: '20.53181818181818'

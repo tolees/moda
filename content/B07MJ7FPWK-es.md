@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Flow Plain  Zapatos de Cordones Derby para Hombre  Braun  British Tan Lea British Tan Lea   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ7FPWK/?tag=tolees-21'
 descuento: '72.04'
 average: '30.76'

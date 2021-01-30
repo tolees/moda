@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Havaianas Top  Chanclas Unisex Adulto  Rojo  Ruby Red   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003AOP0DK/?tag=tolees-21'
 descuento: '34.58'
 average: '11.71'

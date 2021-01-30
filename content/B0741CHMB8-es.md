@@ -16,6 +16,7 @@ comparePrice: 19.97 EUR
 prodname: 'Verdster Islander – Gafas de Sol Clásicas de Espejo Anchas para Hombre & Mujer – Gafas de Sol Anchas a la Moda – Accesorios Incluidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0741CHMB8/?tag=tolees-21'
 descuento: '15.02'
 average: '18.296666666666667'

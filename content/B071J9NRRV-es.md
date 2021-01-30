@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J New Fast Boy A  Mocasines para Niños  Negro  Black   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071J9NRRV/?tag=tolees-21'
 descuento: '71.82'
 average: '18.116666666666664'

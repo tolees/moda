@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Pantalones de Sauna Adelgazantes Mujer NANOTECNOLOGÍA  Leggins Reductores Adelgazantes  Leggins Anticeluliticos Cintura Alta  Mallas Fitness Push Up para Deporte Running Yoga Gym  2XL  Black03 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMXCJJX/?tag=tolees-21'
 descuento: '27.79'
 average: '22.49'

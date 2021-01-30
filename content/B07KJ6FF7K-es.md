@@ -16,6 +16,7 @@ comparePrice: 172.5 EUR
 prodname: 'Love Moschino Jc4002pp18la0500  bolso bandolera Unisex Adulto  Rojo  Rosso   14x8x23 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJ6FF7K/?tag=tolees-21'
 descuento: '42.60'
 average: '117.94'

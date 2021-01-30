@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Only Onlroyal Reg SK Dnm Jeans Bj312 Noos Vaqueros Skinny  Gris  Dark Grey Denim Dark Grey Denim   W30/L30 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJLMNTD/?tag=tolees-21'
 descuento: '58.82'
 average: '12.35'

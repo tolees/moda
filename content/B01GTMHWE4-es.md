@@ -16,6 +16,7 @@ comparePrice: 15.74 EUR
 prodname: 'Uvex Sportstyle Gafas de seguridad - Protección laboral - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GTMHWE4/?tag=tolees-21'
 descuento: '29.22'
 average: '11.14'

@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Helly Hansen HP Fleece Jacket Chaqueta Polar  Hombre  Quiet Shade  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2Q4BS1/?tag=tolees-21'
 descuento: '47.23'
 average: '58.05'

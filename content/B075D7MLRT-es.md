@@ -16,6 +16,7 @@ comparePrice: 11.53 EUR
 prodname: 'IRIS & LILLY BLIC002 sujetadores  Beige  Nude   100A  Talla del fabricante: 38A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075D7MLRT/?tag=tolees-21'
 descuento: '68.78'
 average: '3.6'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'FitFlop Iqushion Ergonomic Flip-Flops  Chanclas para Mujer  Blue  Midnight Navy 399   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QRQ9W4/?tag=tolees-21'
 descuento: '32.18'
 average: '18.99'

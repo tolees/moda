@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'Gafas de Presbicia con Filtro Anti Luz Azul para Ordenador. Gafas Graduadas de Lectura para Hombre y Mujer con Cristales Anti-reflejantes. Graphite +1.5 – TATE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LH3CDWS/?tag=tolees-21'
 descuento: '48.79'
 average: '19.92'

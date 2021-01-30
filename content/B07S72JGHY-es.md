@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Geschallino Chaqueta con Capucha de Suave Piel Falsa para Mujeres  Campera Corta con 2 Bolsillos  Buzos Esponjosos Polares y Cálidos para Invierno  Verano  Gris  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S72JGHY/?tag=tolees-21'
 descuento: '25.87'
 average: '42.99'

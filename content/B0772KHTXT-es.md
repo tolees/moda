@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'MERAKI POETME003 Pantalones Cortos  Azul  Cashmere Blue   W34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772KHTXT/?tag=tolees-21'
 descuento: '70.00'
 average: '6.6'

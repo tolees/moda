@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Nanete Sudadera  Rosa  Cloudy Pink 308   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQHDDK/?tag=tolees-21'
 descuento: '59.91'
 average: '22.05'

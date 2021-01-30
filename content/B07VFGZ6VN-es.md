@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Reebok LM Activchill Tank Camiseta De Tirantes  Hombre  Cobalt  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFGZ6VN/?tag=tolees-21'
 descuento: '27.28'
 average: '23.99'

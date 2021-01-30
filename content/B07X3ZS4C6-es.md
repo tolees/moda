@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Xnuoyo Mochilas de Pañales Gran Capacidad Mochila de Cambio Bebé Multifuncional Bolso del Bebé Mamá Impermeable Bolsa de Pañales con Aislado Bolsillos y 2 Correas de Cochecito y Cambiador  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3ZS4C6/?tag=tolees-21'
 descuento: '41.67'
 average: '34.99'

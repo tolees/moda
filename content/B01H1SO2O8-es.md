@@ -16,6 +16,7 @@ comparePrice: 85 EUR
 prodname: 'Nike Flat Front 833194 Pantalón Largo de Golf  Hombre  Morado  36/32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H1SO2O8/?tag=tolees-21'
 descuento: '50.48'
 average: '42.09'

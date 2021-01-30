@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver Monkey Abyss Youth  Zapatos de Playa y Piscina para Niños  Marrón  Green/Green/Black Xggk   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SX45FVY/?tag=tolees-21'
 descuento: '61.28'
 average: '9.865'

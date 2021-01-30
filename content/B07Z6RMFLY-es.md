@@ -16,6 +16,7 @@ comparePrice: 82.29 EUR
 prodname: 'GettyGears Bolero - Chaqueta de piel sintética con broche de princesa  para vestido de niña de las flores  abrigo de hombros - Blanco - 6-8 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6RMFLY/?tag=tolees-21'
 descuento: '60.02'
 average: '32.9'

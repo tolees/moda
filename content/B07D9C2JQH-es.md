@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'NNJXD Unicornio Arco Iris Tutú Primer Cumpleaños Trajes de 3 Piezas Mameluco + Falda + Diadema de Oro Tamaño  1  1 año Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9C2JQH/?tag=tolees-21'
 descuento: '36.04'
 average: '15.99'

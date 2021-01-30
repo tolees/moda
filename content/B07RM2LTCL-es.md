@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Tommy Hilfiger TJM Straight Small Logo Hoodie Jersey de Deporte  Rojo  Red Xa9   Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM2LTCL/?tag=tolees-21'
 descuento: '36.89'
 average: '59.95'

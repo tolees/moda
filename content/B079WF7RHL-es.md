@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Carrera 154/S Gafas de sol  Negro  MTT BLACK   51 Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079WF7RHL/?tag=tolees-21'
 descuento: '32.90'
 average: '99.98'

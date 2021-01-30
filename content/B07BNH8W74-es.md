@@ -16,6 +16,7 @@ comparePrice: 66.4 EUR
 prodname: 'Bikers Gear Australia Limited - Pantalones vaqueros elásticos con forro de kevlar para motocicleta con armadura CE extraíble  vaquero vintage  talla 8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNH8W74/?tag=tolees-21'
 descuento: '37.74'
 average: '41.34'

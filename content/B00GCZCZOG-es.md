@@ -16,6 +16,7 @@ comparePrice: 101.0 EUR
 prodname: 'Redskins Gosseti  Zapatos de Cordones Oxford para Hombre  Negro-Negro  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GCZCZOG/?tag=tolees-21'
 descuento: '52.38'
 average: '48.1'

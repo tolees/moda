@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'TTYAOVO Chicas Muestran Princesa Vestido de Flores para niños Baile hinchado Bola Vestidos de Tul Tamaño 6-7 años Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKBXQH4/?tag=tolees-21'
 descuento: '33.37'
 average: '19.99'

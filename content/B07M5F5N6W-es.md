@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Wrangler Skinny Jeans Vaqueros  Azul  Soft Drive 20g   32W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F5N6W/?tag=tolees-21'
 descuento: '79.24'
 average: '20.75'

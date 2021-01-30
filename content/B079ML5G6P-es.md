@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Marca Amazon - MERAKI Camiseta de Manga Corta Hombre  Negro  Black   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ML5G6P/?tag=tolees-21'
 descuento: '38.11'
 average: '10.46'

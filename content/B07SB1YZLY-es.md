@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Helly Hansen Dubliner Jacket Chaqueta  Hombre  Royal Blue  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB1YZLY/?tag=tolees-21'
 descuento: '31.68'
 average: '77.74666666666667'

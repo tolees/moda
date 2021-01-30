@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Classic Camiseta  Morado  Heliotrope/White Ymm   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBG4KBZ/?tag=tolees-21'
 descuento: '30.17'
 average: '20.95'

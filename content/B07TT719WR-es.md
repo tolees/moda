@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s The tee Camiseta  Azul  BRW T2 Baby Blue 0777   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT719WR/?tag=tolees-21'
 descuento: '51.67'
 average: '15.26'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 High Waist Skinny Vaqueros  Azul  medium indigo aged 8968-6028   27W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCGRD9D/?tag=tolees-21'
 descuento: '59.98'
 average: '40.0'

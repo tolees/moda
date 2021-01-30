@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'crocs 203998  Chanclas Mujer  Negro  Black/White   36/37 EU  W 6 US '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H70LP2C/?tag=tolees-21'
 descuento: '36.27'
 average: '22.3'

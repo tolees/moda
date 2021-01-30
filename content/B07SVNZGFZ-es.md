@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Geox B Waviness Boy A  Zapatillas para Bebés  Azul  Navy/Sky C4231   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVNZGFZ/?tag=tolees-21'
 descuento: '55.67'
 average: '19.95'

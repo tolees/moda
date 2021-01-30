@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Verde  Fresh Green   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XG785RW/?tag=tolees-21'
 descuento: '44.08'
 average: '13.40421052631579'

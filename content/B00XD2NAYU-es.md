@@ -16,6 +16,7 @@ comparePrice: 76 EUR
 prodname: 'Pepe Jeans Spike Vaqueros  Azul  11OZ STREAKY STRETCH MED   W36/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XD2NAYU/?tag=tolees-21'
 descuento: '40.86'
 average: '44.95'

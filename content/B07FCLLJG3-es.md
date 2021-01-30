@@ -16,6 +16,7 @@ comparePrice: 8.98 EUR
 prodname: 'Marca Amazon - find. Soft Jersey High Neck Sudadera Mujer  Negro  Black   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCLLJG3/?tag=tolees-21'
 descuento: '26.84'
 average: '6.57'

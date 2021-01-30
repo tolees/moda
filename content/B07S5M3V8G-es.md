@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BOSS Balance LS-Shirt RN Camiseta  Rojo  Dark Red 608   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5M3V8G/?tag=tolees-21'
 descuento: '70.81'
 average: '14.58'

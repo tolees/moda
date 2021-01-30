@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Lacoste L1212 Camiseta Polo  Rojo  Rouge   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0032FBLQW/?tag=tolees-21'
 descuento: '32.60'
 average: '59.99'

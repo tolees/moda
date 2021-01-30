@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Jack & Jones Jprlogo BLU. tee SS Crew Neck Pre Camiseta  Rojo  Red Dahlia Fit: Slim   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YV7B82D/?tag=tolees-21'
 descuento: '44.23'
 average: '8.46'

@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'BOSS Daruch Vestido  Negro  Black 001   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K35ZG7M/?tag=tolees-21'
 descuento: '71.37'
 average: '65.57'

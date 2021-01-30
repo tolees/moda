@@ -16,6 +16,7 @@ comparePrice: 17.46 EUR
 prodname: 'Tommy Hilfiger Essential Original tee S/s Camiseta  Azul  Audacious Blue 329/710 Czy   5-6 años  Talla del Fabricante: 5  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPR8YLP/?tag=tolees-21'
 descuento: '20.62'
 average: '13.86'

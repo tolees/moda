@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Ledger Nano S - V1.4 - Monedero Hardware de criptomonedas - Jade Green'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQ28T1C/?tag=tolees-21'
 descuento: '25.00'
 average: '44.25'

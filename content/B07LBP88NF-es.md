@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaqueta De Softshell  Mujer  Navy  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBP88NF/?tag=tolees-21'
 descuento: '73.40'
 average: '45.46333333333333'

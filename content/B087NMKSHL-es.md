@@ -16,6 +16,7 @@ comparePrice: 13.59 EUR
 prodname: 'CHALA 1450PCS Joyas de acrílico  Diamantes de imitación de Bling en Flor  Cristal de Costura  Cristales Adornos de Gemas de acrílico para Manualidades Decorativas DIY Vestido de Sombrero Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NMKSHL/?tag=tolees-21'
 descuento: '29.43'
 average: '9.59'

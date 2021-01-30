@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Voqeen Mujer Bañador con Cuello en V Sexy Bikin de Dos Piezas Falda de Playa Traje de baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q14YD1T/?tag=tolees-21'
 descuento: '21.44'
 average: '13.985000000000001'

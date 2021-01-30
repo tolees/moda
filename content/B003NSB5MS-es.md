@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Black 0165  42W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003NSB5MS/?tag=tolees-21'
 descuento: '30.01'
 average: '39.19'

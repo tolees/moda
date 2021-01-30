@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Havaianas Top  Chanclas Unisex Adulto  Negro  Black   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000YKO2XM/?tag=tolees-21'
 descuento: '24.86'
 average: '13.957999999999998'

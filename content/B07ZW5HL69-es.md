@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón con Punta Cerrada  Pink  Hot Pink   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZW5HL69/?tag=tolees-21'
 descuento: '69.29'
 average: '13.79'

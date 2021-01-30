@@ -16,6 +16,7 @@ comparePrice: 7.53 EUR
 prodname: 'Marca Amazon - find. Square Toe Block Heel Slingback Zapatos de tacón con Punta Cerrada  Marfil  Off-White   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z591DRN/?tag=tolees-21'
 descuento: '22.97'
 average: '6.386666666666667'

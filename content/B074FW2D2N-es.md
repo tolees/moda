@@ -16,6 +16,7 @@ comparePrice: 17.64 EUR
 prodname: 'find. Sudadera Estampada para Hombre  Azul  Navy   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FW2D2N/?tag=tolees-21'
 descuento: '52.38'
 average: '8.4'

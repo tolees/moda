@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Izod Poplin Plaid BD Shirt Camisa Casual  Rosa  Candy Pink 660   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8KZD85/?tag=tolees-21'
 descuento: '62.53'
 average: '14.95'

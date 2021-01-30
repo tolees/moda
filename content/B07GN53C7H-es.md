@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Uten Limpiador Ultrasónico Profesional Acero Inoxidable Baño 42 000Hz 35W  Con Soporte y Cesta de Limpieza  Adecuado Para Joyas  Gafas  Dentaduras y Maquinilla de afeitar  650ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GN53C7H/?tag=tolees-21'
 descuento: '46.67'
 average: '31.99'

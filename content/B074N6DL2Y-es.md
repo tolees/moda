@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Cotrell Edge  Zapatos de Cordones Derby para Hombre  Marrón  Brown Oily   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074N6DL2Y/?tag=tolees-21'
 descuento: '58.34'
 average: '33.31'

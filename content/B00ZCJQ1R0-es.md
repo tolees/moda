@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'LEABAGS Philadelphia Monedero para Mujeres de auténtico Cuero Ternero en el Estilo Vintage - Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZCJQ1R0/?tag=tolees-21'
 descuento: '67.86'
 average: '44.98'

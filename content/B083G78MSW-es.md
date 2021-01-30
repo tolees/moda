@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'New balance NBML574SNU Zapatos Hombre Azul 50'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083G78MSW/?tag=tolees-21'
 descuento: '20.00'
 average: '80'

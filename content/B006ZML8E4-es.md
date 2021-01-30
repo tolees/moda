@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Negro  Black 990   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006ZML8E4/?tag=tolees-21'
 descuento: '45.55'
 average: '80.00099999999999'

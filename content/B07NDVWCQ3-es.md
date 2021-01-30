@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Challenger  Chaqueta cortavientos  Mujer  Negro/Beige  Black/Stone   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDVWCQ3/?tag=tolees-21'
 descuento: '62.15'
 average: '40.989999999999995'

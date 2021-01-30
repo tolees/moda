@@ -16,6 +16,7 @@ comparePrice: 10.89 EUR
 prodname: 'Collar - Envueltos - Caramelo comprimido - 1020 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAPGDW6/?tag=tolees-21'
 descuento: '18.00'
 average: '9.346666666666666'

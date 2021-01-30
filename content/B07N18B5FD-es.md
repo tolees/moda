@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Midge Cody Mid Waist Skinny Vaqueros  Azul  Faded Blue 5245-a889   22W / 26L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N18B5FD/?tag=tolees-21'
 descuento: '34.98'
 average: '77.99'

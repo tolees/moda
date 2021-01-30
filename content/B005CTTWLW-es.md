@@ -16,6 +16,7 @@ comparePrice: 546.0 EUR
 prodname: 'Schott NYC Lc1380 Chaqueta  Negro  Black    Taille Fabricant: XXL Taille Fabricant XXL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005CTTWLW/?tag=tolees-21'
 descuento: '60.99'
 average: '213.0'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'XTI - Sandalias con Tacón Casual - Sandalia con Tacón - Cierre con Hebilla - Color Negro - Talla 37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084HDWQ2R/?tag=tolees-21'
 descuento: '30.04'
 average: '27.95'

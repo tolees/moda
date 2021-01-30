@@ -16,6 +16,7 @@ comparePrice: 114.0 EUR
 prodname: 'Love Moschino T-Shirt Iridescent Logo Box Print Camiseta  Rosa  Pink L94   34  Talla del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGML6LL/?tag=tolees-21'
 descuento: '56.76'
 average: '49.29'

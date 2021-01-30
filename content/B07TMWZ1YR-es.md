@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Hero  Zapatos de Cordones Brogue para Mujer  Blanco  White Leather White Leather   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMWZ1YR/?tag=tolees-21'
 descuento: '41.81'
 average: '58.16'

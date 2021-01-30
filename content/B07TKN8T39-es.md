@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Cosmo Step  Zapatos de Tacón para Mujer  Beige  Natural Snake Natural Snake   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKN8T39/?tag=tolees-21'
 descuento: '40.00'
 average: '66.0'

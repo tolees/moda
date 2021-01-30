@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'KRISP 6488-NVY-12  Vestido Corto Fruncido Busto  Azul Marino  6488   40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PY4J2YM/?tag=tolees-21'
 descuento: '51.94'
 average: '12.49'

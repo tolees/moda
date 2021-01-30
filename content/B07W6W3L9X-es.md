@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jorpannel Knit Crew Neck. Jersey  Azul  Navy Blazer Fit:Knit FIT   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6W3L9X/?tag=tolees-21'
 descuento: '71.13'
 average: '11.318333333333335'

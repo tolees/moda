@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Calvin Klein BB Bottoms Up Braguita de bikini  Azul  Purity Print - Aurora Ri4   38 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EVPRTN6/?tag=tolees-21'
 descuento: '38.77'
 average: '9.49'

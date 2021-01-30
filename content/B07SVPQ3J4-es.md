@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Geox U Artie B  Chanclas para Hombre  Marrón  Coffee C6009   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPQ3J4/?tag=tolees-21'
 descuento: '54.58'
 average: '31.75'

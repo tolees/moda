@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Esprit Kids Sweatshirt Card Sudadera Morado  Plum 871   Talla del Fabricante: 92+ para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7NYV3R/?tag=tolees-21'
 descuento: '70.72'
 average: '12.455'

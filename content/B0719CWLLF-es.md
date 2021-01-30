@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Tech 1/2 Zip-Twist Sudadera  Mujer  Negro  Black/Black/Metallic Silver 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719CWLLF/?tag=tolees-21'
 descuento: '48.91'
 average: '22.759999999999998'

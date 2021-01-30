@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Mishansha Zapatillas de Masculino Femenino Ligero Suave Malla Transpirable Lace Up Zapatos para Caminar Gimnasia Trainers Primavera Verano 2020 Cómoda Atléticos Calzados  Sneaker Rosa 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084C3CVTN/?tag=tolees-21'
 descuento: '15.63'
 average: '26.99'

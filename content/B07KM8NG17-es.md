@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Yakmoo Bolso de Cintura Estilo Militar Táctico Bolsa de Riñonera Deportiva Impermeable Molle Sistema al Aire Libre Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KM8NG17/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

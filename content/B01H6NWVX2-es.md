@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Pepe Jeans Charing  Camiseta Hombre  Negro  Black   XS UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H6NWVX2/?tag=tolees-21'
 descuento: '39.32'
 average: '15.976666666666665'

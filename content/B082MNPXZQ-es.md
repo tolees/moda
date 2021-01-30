@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Geographical Norway Chaqueta Mujer ANIES Negro 03'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MNPXZQ/?tag=tolees-21'
 descuento: '20.00'
 average: '103.2'

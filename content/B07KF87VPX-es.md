@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Levi s Graphic Crew B Sudadera  Blanco  Hm Ssnl Film Marshmallow/White 0080   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF87VPX/?tag=tolees-21'
 descuento: '29.18'
 average: '42.49'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Fossil Collar FS4812IE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21'
 descuento: '47.29'
 average: '78.65'

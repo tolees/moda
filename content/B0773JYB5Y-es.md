@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Crocs Yukon Vista Clog M  Zuecos para Hombre  Negro  Black/Black 060   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0773JYB5Y/?tag=tolees-21'
 descuento: '36.73'
 average: '31.63'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'dPois Vestidos de Princesa Diadema Niña Bebé Fiesta Bautizo Tutú Ballet Danza Falda Lunares Bragas Disfraces Fantasía Carnaval Cumpleaños Infantil  6 Meses - 14 Años  Rojo 4 pc 10-12 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPY1K4S/?tag=tolees-21'
 descuento: '55.79'
 average: '11.823333333333334'

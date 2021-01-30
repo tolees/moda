@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Carlita Cove - Zapatos de Tacón para Mujer  Beige  Sand Patent   39.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014VFZ0O0/?tag=tolees-21'
 descuento: '39.96'
 average: '48.0'

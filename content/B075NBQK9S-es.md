@@ -16,6 +16,7 @@ comparePrice: 168.9 EUR
 prodname: 'Trangoworld Bern Chaqueta  Hombre  Gris Oscuro/Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NBQK9S/?tag=tolees-21'
 descuento: '54.12'
 average: '80.782'

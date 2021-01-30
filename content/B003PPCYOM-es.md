@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Eastpak Jr Bolso bandolera  33 cm  11.5 L  Gris  Sunday Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003PPCYOM/?tag=tolees-21'
 descuento: '33.36'
 average: '25.845'

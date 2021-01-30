@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'adidas Duramo Slide  Chanclas Unisex Adulto  Negro  Black/White/Black   talla del fabricante: 8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0030ZSZU4/?tag=tolees-21'
 descuento: '29.87'
 average: '12.578'

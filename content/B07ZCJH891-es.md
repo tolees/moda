@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'seenlast Gafas de Natación para Hombres Mujeres  Antiniebla Protección UV Sin Fugas Gafas Natación con Libre Clip de Nariz Enchufe de oído  Visión Amplia Clara para Piscina Deportes Acuáticos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCJH891/?tag=tolees-21'
 descuento: '45.85'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Crocs Classic Slide  Sandalias de Punta Descubierta Unisex Adulto  Negro  Black 001   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCFSXFF/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

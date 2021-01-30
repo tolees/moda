@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Own The Run Jkt Chaqueta de Deporte  Hombre  Black/Grey One f17/Grey Six  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081SJ6WYL/?tag=tolees-21'
 descuento: '40.00'
 average: '32.97'

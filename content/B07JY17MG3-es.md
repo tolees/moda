@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jjiliam Jjoriginal Am 792 50sps Noos Vaqueros Skinny  Azul  Blue Denim Blue Denim   W33/L32  Talla del Fabricante: 33  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JY17MG3/?tag=tolees-21'
 descuento: '50.09'
 average: '24.95'

@@ -16,6 +16,7 @@ comparePrice: 27.22 EUR
 prodname: 'Original Penguin Sailing Abrigo  Azul  Dark Sapphire 413   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMDVWHV/?tag=tolees-21'
 descuento: '23.00'
 average: '20.96'

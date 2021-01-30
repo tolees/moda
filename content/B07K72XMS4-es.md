@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Original Hm tee Camiseta  Azul  LS Cotton + Patch Dress Blues 0001   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K72XMS4/?tag=tolees-21'
 descuento: '35.00'
 average: '22.75'

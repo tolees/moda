@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Desigual Dress DAMIS Vestido  Rojo Clavel 3036  42  Talla del Fabricante: 40  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3XFTMK/?tag=tolees-21'
 descuento: '38.31'
 average: '43.095'

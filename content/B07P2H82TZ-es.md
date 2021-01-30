@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'lodi VAREZ  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Ante Negro Ante Negro   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2H82TZ/?tag=tolees-21'
 descuento: '68.93'
 average: '54.38'

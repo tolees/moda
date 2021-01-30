@@ -16,6 +16,7 @@ comparePrice: 242.49 EUR
 prodname: 'Trangoworld Sieber Complet Chaqueta  Hombre  Kaki  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R9KRD8/?tag=tolees-21'
 descuento: '33.61'
 average: '160.99'

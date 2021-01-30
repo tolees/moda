@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Superdry Desert Alchemy Fuji Chaqueta  Amarillo  Autumn Ochre Dq7   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLY6HCZ/?tag=tolees-21'
 descuento: '61.79'
 average: '38.105000000000004'

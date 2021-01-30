@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Moner V  Mocasines para Hombre  Naranja  Dk Yellow C2006   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGNKR4/?tag=tolees-21'
 descuento: '41.58'
 average: '70.04'

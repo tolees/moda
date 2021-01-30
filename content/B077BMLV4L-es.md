@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'adidas Core18 W Camiseta Polo  Mujer  Dark Blue/White  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BMLV4L/?tag=tolees-21'
 descuento: '41.00'
 average: '16.49'

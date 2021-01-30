@@ -16,6 +16,7 @@ comparePrice: 11.18 EUR
 prodname: 'TWBB Pantalón Casual de Camuflaje para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV52F4S/?tag=tolees-21'
 descuento: '82.29'
 average: '1.98'

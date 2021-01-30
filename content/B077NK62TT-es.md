@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Lee Logo tee Camiseta  Azul  Navy Drop Aiee   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NK62TT/?tag=tolees-21'
 descuento: '20.20'
 average: '17.68333333333333'

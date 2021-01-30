@@ -16,6 +16,7 @@ comparePrice: 21.49 EUR
 prodname: 'Amazon Essentials 6-Pack Crewneck Undershirts Camisa  Blanco  White   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XW85TSB/?tag=tolees-21'
 descuento: '29.64'
 average: '15.12'

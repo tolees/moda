@@ -16,6 +16,7 @@ comparePrice: 35.64 EUR
 prodname: 'HAWKERS · LACMA · Gold · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTM8BC5/?tag=tolees-21'
 descuento: '32.10'
 average: '26.377499999999998'

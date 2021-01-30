@@ -16,6 +16,7 @@ comparePrice: 65.95 EUR
 prodname: 'Tamaris 1-1-26250-23  Botines para Mujer  Marrón  Cognac 305   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJJKFRC/?tag=tolees-21'
 descuento: '71.75'
 average: '18.63'

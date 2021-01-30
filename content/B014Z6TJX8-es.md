@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Revend Skinny Vaqueros  3D Dark Aged 7101  33W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014Z6TJX8/?tag=tolees-21'
 descuento: '34.98'
 average: '64.99'

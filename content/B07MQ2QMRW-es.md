@@ -16,6 +16,7 @@ comparePrice: 20.39 EUR
 prodname: 'HKT by Hackett Hkt GMT W Piquet Camisa   Indigo 561   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ2QMRW/?tag=tolees-21'
 descuento: '15.11'
 average: '17.31'

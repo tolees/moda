@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Tommy Hilfiger TJM Flannel Multi Check Shirt Camisa  Negro  Black 0mj   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDQQVNZ/?tag=tolees-21'
 descuento: '70.47'
 average: '22.15'

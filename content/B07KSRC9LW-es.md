@@ -16,6 +16,7 @@ comparePrice: 38.97 EUR
 prodname: 'AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Boda Púrpura Reloj de Arena 0.8x2CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSRC9LW/?tag=tolees-21'
 descuento: '61.53'
 average: '14.99'

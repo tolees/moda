@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Crocband Clog K  Zuecos con Correa Unisex Niños  Azul  Ice Blue/White   33/34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NALIEN2/?tag=tolees-21'
 descuento: '41.48'
 average: '18.72'

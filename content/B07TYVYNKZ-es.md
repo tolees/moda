@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Wrangler LS 1 Pkt Shirt Camisa  Azul  Navy 114   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYVYNKZ/?tag=tolees-21'
 descuento: '45.42'
 average: '30.165'

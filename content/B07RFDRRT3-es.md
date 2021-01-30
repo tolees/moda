@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Corp Bar tee Camiseta Deporte  Azul  Blue Dw5   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFDRRT3/?tag=tolees-21'
 descuento: '44.99'
 average: '21.95'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Silver Ridge II Pantalón Capri  Hombre  Negro  Abyss   W30/L19'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771VZMX4/?tag=tolees-21'
 descuento: '69.04'
 average: '18.57'

@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'find. Falda Plisada de Encaje para Mujer   Negro  Black   46  Talla del Fabricante: XX-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9JOCR1/?tag=tolees-21'
 descuento: '40.00'
 average: '10.5'

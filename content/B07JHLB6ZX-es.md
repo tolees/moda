@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Redmond V2 WP  Zapatos de Senderismo Impermeables para Mujer  Gris  Morado  Ti Grey Steel  Plum Purple   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHLB6ZX/?tag=tolees-21'
 descuento: '27.08'
 average: '65.62'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Nautical Print Beach Sandal  Sandalias con Punta Abierta para Hombre  Azul  Desert Sky Dw5   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7XSWVS/?tag=tolees-21'
 descuento: '34.95'
 average: '19.45'

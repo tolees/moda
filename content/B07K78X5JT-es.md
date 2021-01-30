@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia WAYFINDER Outdry  Zapatos Multideporte para Mujer  Gris  Dark Mirage Red Quartz 412   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K78X5JT/?tag=tolees-21'
 descuento: '30.00'
 average: '83.99'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Superdry Classic Pique S/S Polo  Camisa de Pijama Para Hombre  Gris  Grey Marl07Q   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HI3MLVM/?tag=tolees-21'
 descuento: '55.62'
 average: '22.91'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Arizona Vaqueros Straight  Azul  Soft Night 50w   30 W/ 34 L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWRGQN/?tag=tolees-21'
 descuento: '79.69'
 average: '18.27'

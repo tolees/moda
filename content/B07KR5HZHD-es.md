@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'GANT FOOTWEAR Bari  Zapatos de Cordones Brogue para Hombre  Verde  Dark Olive G710   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR5HZHD/?tag=tolees-21'
 descuento: '60.47'
 average: '51.022499999999994'

@@ -16,6 +16,7 @@ comparePrice: 13.02 EUR
 prodname: 'Amazon Essentials 6-Pack V-Neck Undershirts camisa  Negro  black   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721D4HBS/?tag=tolees-21'
 descuento: '17.28'
 average: '10.77'

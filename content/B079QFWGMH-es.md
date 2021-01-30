@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Azul  Stonewash 95978 0182   29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QFWGMH/?tag=tolees-21'
 descuento: '55.31'
 average: '42.43'

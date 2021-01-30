@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Sandal Hiver A  Sandalias con Punta Abierta para Mujer  Dorado  Dk Gold/Cognac C2e6n   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVXXBZS/?tag=tolees-21'
 descuento: '45.34'
 average: '49.14'

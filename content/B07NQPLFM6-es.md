@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Yuson Girl Conjuntos De Bikini Rayas Talle Alto Retro Brasileños Mujer Sexy Traje De Baño Cuello Halter Strapless Off Shoulder Bra Top Bikini Push Up Anudado Tanga Braga Bikini Triangulo Alta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQPLFM6/?tag=tolees-21'
 descuento: '18.76'
 average: '13.613333333333333'

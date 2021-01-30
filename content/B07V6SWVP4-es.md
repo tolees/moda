@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Kipling LENEXA Bolso bandolera  44 cm  24 liters  Negro  Charcoal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6SWVP4/?tag=tolees-21'
 descuento: '30.59'
 average: '74.89800000000001'

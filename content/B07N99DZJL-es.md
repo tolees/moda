@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Pepe Jeans Rhye Camiseta  Blanco  Optic White 802   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N99DZJL/?tag=tolees-21'
 descuento: '52.17'
 average: '15.048571428571428'

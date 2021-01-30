@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'BOSS Magneton 1-Short Camisa  Azul  Dark Blue 404   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4DNY88/?tag=tolees-21'
 descuento: '37.27'
 average: '56.39'

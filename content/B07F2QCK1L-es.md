@@ -16,6 +16,7 @@ comparePrice: 190 EUR
 prodname: 'Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Hombre  Olympian Blue  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2QCK1L/?tag=tolees-21'
 descuento: '50.86'
 average: '89.175'

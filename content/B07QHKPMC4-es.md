@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Marca Amazon - AURIQUE Mallas de Deporte Capri de Tiro Alto Mujer  Rosa  Mauve Mist Marl   36  Label:XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHKPMC4/?tag=tolees-21'
 descuento: '18.63'
 average: '6.51'

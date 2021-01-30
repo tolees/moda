@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Adorn Vibe  Sandalias de Talón Abierto para Mujer  Beige  Red Leather Red Leather   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYPG6T/?tag=tolees-21'
 descuento: '58.08'
 average: '41.9'

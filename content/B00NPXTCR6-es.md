@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Tailored Core Twill Classic Shirt  Camisa para Hombre  Azul  410   41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NPXTCR6/?tag=tolees-21'
 descuento: '42.46'
 average: '51.73'

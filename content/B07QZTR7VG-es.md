@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Under Armour Qualifier Storm Run Chaqueta  Hombre  Gris  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZTR7VG/?tag=tolees-21'
 descuento: '56.68'
 average: '47.65'

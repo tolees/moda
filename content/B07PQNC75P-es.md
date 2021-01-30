@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'El Ganso Casual 2 Abrigo  Verde  Verde 0012   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQNC75P/?tag=tolees-21'
 descuento: '64.65'
 average: '66.81'

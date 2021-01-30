@@ -16,6 +16,7 @@ comparePrice: 21.15 EUR
 prodname: 'Skechers Pier Ave  Sandalias de Talón Abierto para Mujer  Beige  Taupe Leather TPE   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSF1MFR/?tag=tolees-21'
 descuento: '26.05'
 average: '23.235999999999997'

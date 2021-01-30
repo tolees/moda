@@ -16,6 +16,7 @@ comparePrice: 6.02 EUR
 prodname: 'Marca Amazon – Lark & Ro – Vestido de tejido crepé con manga tres cuartos y pinza en el centro para mujer  Marino  US 2  EU XS - S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGKKS7Q/?tag=tolees-21'
 descuento: '34.72'
 average: '3.93'

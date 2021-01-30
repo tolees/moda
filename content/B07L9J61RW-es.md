@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Rival Fleece Sportstyle Pantalón  Mujer  Negro  Black/Onyx White 001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9J61RW/?tag=tolees-21'
 descuento: '35.58'
 average: '28.99'

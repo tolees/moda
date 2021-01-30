@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Vero Moda Vmava Plain SS Top Ga Noos Camiseta  Azul  Night Sky Night Sky   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R8N5NM/?tag=tolees-21'
 descuento: '40.03'
 average: '8.99'

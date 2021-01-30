@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox Uomo Symbol B  Zapatos de Cordones Oxford para Hombre  Negro  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N25I1OQ/?tag=tolees-21'
 descuento: '29.98'
 average: '62.13333333333333'

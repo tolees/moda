@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'LEE  Daren Worn Grayly - Vaqueros para hombre  Azul  Strong Hand Db   40W x 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZPMB5V6/?tag=tolees-21'
 descuento: '75.36'
 average: '40.69'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Marcadores textiles  RATEL 24 colores Marcadores de tela y textiles Sin sangrado No tóxico marcador de tela Permanente y lavable Ideal para decorar camisetas  textiles  zapatos  firmas de graduación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCR439D/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

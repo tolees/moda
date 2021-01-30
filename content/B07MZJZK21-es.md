@@ -16,6 +16,7 @@ comparePrice: 39.75 EUR
 prodname: 'Superdry Vintage Logo Layered Camo tee Camiseta  Negro  Black 02a   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZJZK21/?tag=tolees-21'
 descuento: '47.30'
 average: '20.95'

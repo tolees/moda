@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'VITIKE Hombre Zapatos de Entrenamiento de fútbol Botas de fútbol al Aire Libre  EU-36-Naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075TZKJ37/?tag=tolees-21'
 descuento: '22.73'
 average: '33.99'

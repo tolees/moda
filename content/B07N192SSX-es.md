@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW ARC 3D Vaqueros  Worker Blue Faded  25W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N192SSX/?tag=tolees-21'
 descuento: '76.63'
 average: '38.182'

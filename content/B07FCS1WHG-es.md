@@ -16,6 +16,7 @@ comparePrice: 70.28 EUR
 prodname: 'Levi s 527 Slim Boot Cut  Vaqueros Corte de Bota para Hombre  Azul  Last Mid Blue 0553   36W/34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCS1WHG/?tag=tolees-21'
 descuento: '58.79'
 average: '31.98'

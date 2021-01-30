@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Baya Clog  Zuecos Unisex Niños  Azul  Ice Blue 4o9   23/24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN4GVY7/?tag=tolees-21'
 descuento: '36.76'
 average: '20.23'

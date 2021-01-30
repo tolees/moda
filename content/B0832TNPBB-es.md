@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'DaMohony bebé ropa conjunto traje mameluco falda diadema recién nacido estampado leopardo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0832TNPBB/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

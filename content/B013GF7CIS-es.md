@@ -16,6 +16,7 @@ comparePrice: 105.16 EUR
 prodname: 'Timberland 6 in Premium Waterproof  Botas Clasicas Unisex-Niño  Rojo  Medium Red Nubuck   21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013GF7CIS/?tag=tolees-21'
 descuento: '72.24'
 average: '29.19'

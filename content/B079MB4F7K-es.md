@@ -16,6 +16,7 @@ comparePrice: 30.58 EUR
 prodname: 'MagiDeal 30 Piezas Kit de Resaca Bolso Fiesta de Soltería Primeros Auxilios de Muselina Favores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MB4F7K/?tag=tolees-21'
 descuento: '44.44'
 average: '16.99'

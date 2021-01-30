@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Pepe Jeans Antonia Pl504170 Camiseta   Optic White 802   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGHV519/?tag=tolees-21'
 descuento: '34.96'
 average: '21.1'

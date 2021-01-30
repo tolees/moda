@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Wrangler Logo tee Camiseta  Negro  Real Black XW5   XXXX-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZY3Q39/?tag=tolees-21'
 descuento: '44.91'
 average: '10.99'

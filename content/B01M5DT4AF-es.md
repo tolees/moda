@@ -16,6 +16,7 @@ comparePrice: 32.48 EUR
 prodname: 'Under Armour UA HG Printedy Pantalón Corto  Mujer  Gris  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5DT4AF/?tag=tolees-21'
 descuento: '24.60'
 average: '24.49'

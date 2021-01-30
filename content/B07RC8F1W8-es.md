@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Columbia Marquam Peak  Chaqueta de invierno  Hombre   Azul  Dark Nocturnal   Talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8F1W8/?tag=tolees-21'
 descuento: '60.37'
 average: '99.08'

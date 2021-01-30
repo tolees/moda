@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Original Hm Pullover Hoo Sudadera  Verde  Olive Night 0015   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLFMDYY/?tag=tolees-21'
 descuento: '40.07'
 average: '41.95'

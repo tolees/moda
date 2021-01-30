@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: '6TN Hombre Nunca soñé Que sería un Viejo gruñón  Pero aquí lo Estoy Matando Camiseta  M  Carbón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXHXY74/?tag=tolees-21'
 descuento: '16.71'
 average: '14.95'

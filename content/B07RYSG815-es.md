@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Negro  Black Detail: Slim   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYSG815/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J Android Boy C  Zapatillas para Niños  Azul  Navy/Lime C0749   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZ7XZS/?tag=tolees-21'
 descuento: '40.15'
 average: '35.85'

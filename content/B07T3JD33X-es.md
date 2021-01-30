@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'LARNMERN Zapatos de Seguridad para Hombre con Puntera de Acero Zapatillas  Ligeros y Transpirables Zapatos de Entrenamiento prevención de pinchazos LM-112  43 EU  Oro Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3JD33X/?tag=tolees-21'
 descuento: '46.67'
 average: '39.99'

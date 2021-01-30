@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'B.Catcher Collar Mujer Colgante Mariposas 925 Plata de Ley   Sueños de Mariposas   con para Regalo Originales Cadena 45cm Longitud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZNF93P/?tag=tolees-21'
 descuento: '19.62'
 average: '30.605714285714285'

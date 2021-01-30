@@ -16,6 +16,7 @@ comparePrice: 19.65 EUR
 prodname: 'Honghu Mujeres con Cord¨®n Pantalones Sueltos de Rayas largas con Estampado Pantalones Anchos de Yoga Leg Palazzo Lounge Pantalones de Pijama M Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BLWN7H5/?tag=tolees-21'
 descuento: '65.24'
 average: '6.83'

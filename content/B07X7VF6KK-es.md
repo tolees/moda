@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'JK-2 Pegamento de Alta Intensidad Claro DIY Artesanía Zapatos de joyería Adhesivo de Pantalla de teléfono de Vidrio E7000 50mL 110mL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7VF6KK/?tag=tolees-21'
 descuento: '22.94'
 average: '6.55'

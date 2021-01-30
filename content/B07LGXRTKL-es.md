@@ -16,6 +16,7 @@ comparePrice: 36 EUR
 prodname: 'The North Face Ambition P Pantalón  Mujer  Multicolor  Dazzling Blue Painted Feather Print   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGXRTKL/?tag=tolees-21'
 descuento: '68.44'
 average: '11.36'

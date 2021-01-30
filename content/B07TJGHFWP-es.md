@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry VL Fade T Shirt Store tee Camiseta  Azul  Princedom Blue Marl Bcy   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJGHFWP/?tag=tolees-21'
 descuento: '17.23'
 average: '28.96'

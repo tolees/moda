@@ -16,6 +16,7 @@ comparePrice: 59.88 EUR
 prodname: 'Mujer Zapatillas Deporte para Zapatillas de Ligeras Running Transpirables Cómodas Correr para Zapatos de Malla black38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081GYM9R2/?tag=tolees-21'
 descuento: '43.42'
 average: '33.88'

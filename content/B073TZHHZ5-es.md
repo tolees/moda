@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Vero Moda Vmagoura LS O-Neck Blouse A  suéter Mujer  Negro  Black Beauty Black Beauty   36  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073TZHHZ5/?tag=tolees-21'
 descuento: '43.36'
 average: '19.82'

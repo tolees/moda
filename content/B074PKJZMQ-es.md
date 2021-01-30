@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'TYRY.HU dentición collar para mamá para usar silicona juguetes de dentición de silicona de grado alimenticio libre de BPA goma de mascar para amamantar lactancia hecha a mano  verde menta '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PKJZMQ/?tag=tolees-21'
 descuento: '31.37'
 average: '10.98'

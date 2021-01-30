@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Havaianas Brasil  Chanclas Unisex Adulto  Gris  Steel Grey 5178   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M17UQQS/?tag=tolees-21'
 descuento: '34.70'
 average: '16.040000000000003'

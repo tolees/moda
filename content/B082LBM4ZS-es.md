@@ -16,6 +16,7 @@ comparePrice: 31.55 EUR
 prodname: 'Zoggs Predator Flex Gafas de natación  Unisex Adulto  Negro/Rojo/Espejo  Regular'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082LBM4ZS/?tag=tolees-21'
 descuento: '16.04'
 average: '26.49'

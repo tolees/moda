@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Quiksilver Everyday Sudadera con Capucha y Cremallera  Hombre  Negro  Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFQ5J6K/?tag=tolees-21'
 descuento: '40.89'
 average: '35.46'

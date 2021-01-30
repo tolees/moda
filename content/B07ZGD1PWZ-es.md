@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Calvin Klein CK Essential Slim tee Camisa  Black  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGD1PWZ/?tag=tolees-21'
 descuento: '27.63'
 average: '20.95'

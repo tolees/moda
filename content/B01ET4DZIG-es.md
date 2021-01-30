@@ -16,6 +16,7 @@ comparePrice: 270.0 EUR
 prodname: 'Helly Hansen W Aden Down Parka  Mujer  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ET4DZIG/?tag=tolees-21'
 descuento: '50.59'
 average: '127.04499999999999'

@@ -16,6 +16,7 @@ comparePrice: 245.0 EUR
 prodname: 'SAMSONITE Openroad - Rolling Tote for 16.4" Laptop 2.9 KG Bolso de Viaje  44 cm  25 Liters  Negro  Jet Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLTSMNH/?tag=tolees-21'
 descuento: '28.22'
 average: '175.87'

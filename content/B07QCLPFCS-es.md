@@ -16,6 +16,7 @@ comparePrice: 37.8 EUR
 prodname: 'PDQ - Sandalias Deportivas de Cierre Adhesivos 3 para Hombre Caballero  44 EU   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCLPFCS/?tag=tolees-21'
 descuento: '33.33'
 average: '25.2'

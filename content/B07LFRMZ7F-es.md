@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox Womens D New ANNYA MID A Pump  Black  39 5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRMZ7F/?tag=tolees-21'
 descuento: '67.53'
 average: '31.505652173913045'

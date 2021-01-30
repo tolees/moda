@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett High Vaqueros  Verde  Agave Green MW   29W/31L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ6YT7/?tag=tolees-21'
 descuento: '53.91'
 average: '41.46'

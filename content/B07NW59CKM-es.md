@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Keepsakes 2.0 Botines Mujer  Marrón  Chestnut Suede Csnt   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW59CKM/?tag=tolees-21'
 descuento: '27.43'
 average: '50.76'

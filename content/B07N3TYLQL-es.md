@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Desigual Dress HILIER Vestido  Verde  Verde Jack 4074   46 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3TYLQL/?tag=tolees-21'
 descuento: '35.02'
 average: '58.45'

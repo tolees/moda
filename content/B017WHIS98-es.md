@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Soho Vaqueros  Black  29W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017WHIS98/?tag=tolees-21'
 descuento: '48.48'
 average: '33.49'

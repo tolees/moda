@@ -16,6 +16,7 @@ comparePrice: 21.5 EUR
 prodname: 'Joma - Sudadera faraon marino media cremallera para hombre  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0107S4CFS/?tag=tolees-21'
 descuento: '29.12'
 average: '15.24'

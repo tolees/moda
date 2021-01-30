@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Kaven A  Zapatillas para Hombre  Azul  Navy C4002   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHZ5XY8/?tag=tolees-21'
 descuento: '31.47'
 average: '66.34'

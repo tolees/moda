@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Marca Amazon - find. Blusa Mujer  Azul  Blau   44  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JGTXNK/?tag=tolees-21'
 descuento: '49.22'
 average: '16.25'

@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'Desigual Vest Cuautitlá Vestido  Blanco  Blanco 1000   4 años para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHTVWJM/?tag=tolees-21'
 descuento: '66.88'
 average: '15.22'

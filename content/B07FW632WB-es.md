@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Ruckel Ridge Plus Waterproof  Zapatos Impermeables de Senderismo para Hombre  Negro  Shark  Bright Copper 011   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FW632WB/?tag=tolees-21'
 descuento: '35.09'
 average: '61.56'

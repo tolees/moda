@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'El Búho Nocturno Pijama de Caballero de Manga Corta y Chaqueta a Botones clásico a Cuadros de Tela popelín para Hombre M Celeste y Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QNYCCYR/?tag=tolees-21'
 descuento: '38.22'
 average: '33.95'

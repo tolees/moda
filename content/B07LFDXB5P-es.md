@@ -16,6 +16,7 @@ comparePrice: 79.55 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Space Money  34W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFDXB5P/?tag=tolees-21'
 descuento: '49.13'
 average: '40.47'

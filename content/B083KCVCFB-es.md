@@ -16,6 +16,7 @@ comparePrice: 40.33 EUR
 prodname: 'LuckyGirls Chic Sandalias Mujer Plataforma Cuña Verano 2020 Serpentino Zapatos Mujer Tacon Altas Elegantes Alpargatas Sandalias de Mujer Fiesta Vestir Punta Abierta Correa del Lazo Hebilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KCVCFB/?tag=tolees-21'
 descuento: '54.53'
 average: '18.34'

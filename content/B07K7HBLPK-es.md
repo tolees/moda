@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'adidas Tiro19 WOV SHO Pantalón Corto  Hombre  Negro  Black/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7HBLPK/?tag=tolees-21'
 descuento: '23.92'
 average: '20.307499999999997'

@@ -16,6 +16,7 @@ comparePrice: 128.99 EUR
 prodname: 'Relojes para Hombre Acero Inoxidable Impermeable Reloj Hombres Marca LIGE Cronógrafo Cuarzo Analógico Reloj Vestido Negocios Pulsera Plata Reloj Negro de Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQDGRP4/?tag=tolees-21'
 descuento: '74.42'
 average: '25.79'

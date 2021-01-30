@@ -16,6 +16,7 @@ comparePrice: 25.44 EUR
 prodname: 'SIMPLY BE Ladies Jersey Swing Dress Vestido  Multicolor  Mono Check 001   60 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YP19DHX/?tag=tolees-21'
 descuento: '34.39'
 average: '13.945'

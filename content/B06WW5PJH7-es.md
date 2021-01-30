@@ -16,6 +16,7 @@ comparePrice: 24.8 EUR
 prodname: 'Sloggi Men 24/7 Microfibre H Hipster C2p  Boxer Hombre  Negro  Noir  Large  Talla del Fabricante: EU 6 / FR 4   Pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WW5PJH7/?tag=tolees-21'
 descuento: '32.54'
 average: '16.73'

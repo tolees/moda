@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Helly Hansen W HH Tech Crew Camisa Deportiva  Mujer  Blanco  Blanco 001   Medium  Tamaño del Fabricante:M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RP4DX9/?tag=tolees-21'
 descuento: '27.80'
 average: '18.02'

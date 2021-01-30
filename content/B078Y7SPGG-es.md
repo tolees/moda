@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'The North Face Jacket Chaqueta Trevail  Hombre  Bomber Blue  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078Y7SPGG/?tag=tolees-21'
 descuento: '50.00'
 average: '115.0'

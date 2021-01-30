@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'JACK & JONES Jorclan Parka  Verde Forest Night  XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGJ6CWB/?tag=tolees-21'
 descuento: '45.94'
 average: '32.385000000000005'

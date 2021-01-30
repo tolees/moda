@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Geox D Theragon C  Zapatillas para Mujer  Blue/Navy C4294  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHZ6H5T/?tag=tolees-21'
 descuento: '50.00'
 average: '57.5'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SELECTED FEMME 16064917 Camisa Manga Larga  Azul  Night Sky Night Sky   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGFKS4S/?tag=tolees-21'
 descuento: '81.70'
 average: '9.15'

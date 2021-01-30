@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Tommy Hilfiger Original Stretch Camisa  Azul  Black Iris 002   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07774FVPC/?tag=tolees-21'
 descuento: '34.13'
 average: '45.45'

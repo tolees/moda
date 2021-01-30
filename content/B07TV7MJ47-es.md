@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s Innovation Super Skinny Vaqueros  Azul  Globe Trotter 0065   W23/L28  Talla del Fabricante: 23 28  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV7MJ47/?tag=tolees-21'
 descuento: '47.83'
 average: '59.99'

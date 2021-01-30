@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Pepe Jeans Venus Vaqueros  Negro  Black 999   27W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004ZKSKOE/?tag=tolees-21'
 descuento: '41.12'
 average: '49.2'

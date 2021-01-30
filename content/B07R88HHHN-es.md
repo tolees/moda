@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Helly Hansen Roam 2.5 Capa Chaqueta Impermeable con Capucha  Hombre  Forest Night  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R88HHHN/?tag=tolees-21'
 descuento: '28.16'
 average: '72.34666666666666'

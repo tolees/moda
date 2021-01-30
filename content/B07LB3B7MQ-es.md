@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Nike W Nk Miler Top SS Camiseta de Manga Corta  Mujer  Echo Pink/Echo Pink/ Reflective silv   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LB3B7MQ/?tag=tolees-21'
 descuento: '27.97'
 average: '18.0'

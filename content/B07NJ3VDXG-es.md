@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Springfield 2.T.Ap.Oi19.Volante Visco Blusa  Multicolor  Multicolor 65   X-Large  Tamaño del Fabricante: XL  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ3VDXG/?tag=tolees-21'
 descuento: '64.74'
 average: '4.58'

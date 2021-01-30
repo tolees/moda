@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Ultra Flex-Neon Star  Sandalias de Talón Abierto para Mujer  Negro  Black Gore/Mitobuck Trim Black   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6B6PVT/?tag=tolees-21'
 descuento: '50.05'
 average: '26.3'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Heather Canyon  Chaqueta Softshell  Hombre  Azul  Mountain  Collegiate Navy   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0817FMGHW/?tag=tolees-21'
 descuento: '62.01'
 average: '37.99'

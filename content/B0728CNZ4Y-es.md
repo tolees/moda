@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Rosa  Ballerina Pink 6GD   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0728CNZ4Y/?tag=tolees-21'
 descuento: '43.56'
 average: '23.279999999999998'

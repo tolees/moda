@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'KRISP 6252-GRY-18  Vestido Corto Patinadora Vuelo Fruncido Busto  Gris  6252   46'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAIGK0Q/?tag=tolees-21'
 descuento: '51.94'
 average: '14.24'

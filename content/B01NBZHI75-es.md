@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger SS tee Print Top de pijama  Weiß  White 100   Medium  Talla del fabricante: MD  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBZHI75/?tag=tolees-21'
 descuento: '36.49'
 average: '18.99'

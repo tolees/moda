@@ -16,6 +16,7 @@ comparePrice: 14.42 EUR
 prodname: 'Jack & Jones JCOBOOSTER Sweat Hood DEC 19 Sudadera con Capucha  Azul  Sky Captain Sky Captain   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGH6FST/?tag=tolees-21'
 descuento: '27.25'
 average: '10.49'

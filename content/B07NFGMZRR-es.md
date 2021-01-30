@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Top Essential with V-Neck Camiseta de Manga Larga  Azul  Sky Captain Cjm   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFGMZRR/?tag=tolees-21'
 descuento: '30.77'
 average: '35.31333333333333'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'SALOMON Driver s Casco de esquí y Snowboard con Visor para Hombre  Solution OTG  Compatibles con Gafas de Vista  Interior de Espuma EPS 4D  Circunferencia: 56-59 cm  Negro  Negro/Red Accent   Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSCTJXY/?tag=tolees-21'
 descuento: '36.00'
 average: '127.99'

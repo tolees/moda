@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Fleece Sudadera para Hombre  Camiseta de Manga Larga con Media Cremallera  Sudadera de Deporte Transpirable y elástica  Black/Black  001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XLR2ZQ/?tag=tolees-21'
 descuento: '52.75'
 average: '22.125'

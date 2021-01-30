@@ -16,6 +16,7 @@ comparePrice: 63.0 EUR
 prodname: 'Kipling Presto UP Organizador de Bolso  28 cm  1 Liters  Gris  Curiosity Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4MCCXZ/?tag=tolees-21'
 descuento: '68.10'
 average: '20.1'

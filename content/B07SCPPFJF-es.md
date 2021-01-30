@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Braga Boy Short de Algodón Mujer  Pack de 3  Negro  Black   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCPPFJF/?tag=tolees-21'
 descuento: '30.02'
 average: '10.49'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Eli-time Gafas de sol polarizadas ultraligeras para hombres conducir  correr  pescar  protección 100% UV400  montura rectangular de moda con lentes multicolores  ET19014  C-10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJCYMLB/?tag=tolees-21'
 descuento: '39.42'
 average: '12.11'

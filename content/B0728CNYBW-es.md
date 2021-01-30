@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Morado  Amethyst   19/20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0728CNYBW/?tag=tolees-21'
 descuento: '31.75'
 average: '18.66'

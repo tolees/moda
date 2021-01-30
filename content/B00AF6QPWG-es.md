@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Helly Hansen Seven J Jacket - Chaqueta para hombre  color gris  talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AF6QPWG/?tag=tolees-21'
 descuento: '44.55'
 average: '52.35333333333333'

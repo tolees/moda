@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'G-STAR RAW LUGE Knotted Camiseta  Beige  Milk B906/111   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXJJTKF/?tag=tolees-21'
 descuento: '19.88'
 average: '13.685'

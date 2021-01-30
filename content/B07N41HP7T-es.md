@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'Desigual Coat Land Abrigo  Amarillo  Solar Power 8067   44  Talla del Fabricante:42  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N41HP7T/?tag=tolees-21'
 descuento: '64.74'
 average: '59.93'

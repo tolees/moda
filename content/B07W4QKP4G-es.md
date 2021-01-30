@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'BAIGIO Riñonera de Cuero Hombre Mujer de Moda Bolsa Cinturón Piel Vintage Bolsos para Teléfonos Bandolera Multifuncional Bolsillos Ajustable Bolso de Cintura Casual Viajar Acampada  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4QKP4G/?tag=tolees-21'
 descuento: '15.16'
 average: '27.99'

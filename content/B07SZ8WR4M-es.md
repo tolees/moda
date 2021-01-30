@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Timberland Newport Bay Bumper Toe  Zapatillas sin Cordones para Mujer  Rosa Light Pink Canvas  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZ8WR4M/?tag=tolees-21'
 descuento: '49.10'
 average: '30.54'

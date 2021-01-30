@@ -16,6 +16,7 @@ comparePrice: 17.86 EUR
 prodname: 'ACVIP - Correa de hombro ancha ajustable a rayas para bolso cruzado  color  talla Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SK1DZDS/?tag=tolees-21'
 descuento: '44.46'
 average: '9.92'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Tommy Hilfiger Cheeky String Side Tie Bikini Braguita  Negro  Pvh Black 001   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WVTVGJ/?tag=tolees-21'
 descuento: '60.00'
 average: '11.136666666666667'

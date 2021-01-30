@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D ANNYTAH C  Bailarinas para Mujer  Azul  Blue C4000   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXSVV88/?tag=tolees-21'
 descuento: '80.79'
 average: '19.19'

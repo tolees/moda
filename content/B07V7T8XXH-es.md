@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: 'ACVIP - Camiseta de algodón para niña  cuello en V  sin hombros rojo 160 cm 10-11 años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7T8XXH/?tag=tolees-21'
 descuento: '44.44'
 average: '11.05'

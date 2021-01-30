@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Reebok Classic Slide  Zapatos de Playa y Piscina Unisex Adulto  Schwarz  Black/Blac/White 0   EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7THTRF/?tag=tolees-21'
 descuento: '54.82'
 average: '13.899999999999999'

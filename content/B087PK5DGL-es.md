@@ -16,6 +16,7 @@ comparePrice: 95.99 EUR
 prodname: 'Gracemee Mujer Moda Stiletto Heels Zapatos Ponerse Basic Pumps Dedo del Pie Puntiagudo Heels Fiesta Boda Oficina Zapatos Stripes Blue-12CM Size 35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PK5DGL/?tag=tolees-21'
 descuento: '50.41'
 average: '47.6'

@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Levi s SS Camiseta   Colorblock tee Peacoat/Marshmallow/Ch 0002   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHSFWCK/?tag=tolees-21'
 descuento: '43.50'
 average: '16.95'

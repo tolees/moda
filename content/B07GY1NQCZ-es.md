@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'edc by Esprit 999cc1k803 Camiseta  Gris  Light Grey 040   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GY1NQCZ/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

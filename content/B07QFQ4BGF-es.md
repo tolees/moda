@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Gafas de Sol polarizadas Deportivas para Hombres  Mujeres  jóvenes  béisbol  Ciclismo  Correr  Conducir  Pescar  Golf  Motocicleta  TAC  Gafas  Blanco Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFQ4BGF/?tag=tolees-21'
 descuento: '31.79'
 average: '15.0'

@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'gracosy Botas Nieve Mujer Forro de Piel Invierno Antideslizante Plataforma Zapatos Calentar Cremallera Botines Cordones Impermeable Casuales Media Lluvia Botas Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4QX83Z/?tag=tolees-21'
 descuento: '50.01'
 average: '32.99'

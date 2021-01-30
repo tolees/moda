@@ -16,6 +16,7 @@ comparePrice: 11.14 EUR
 prodname: 'Floso - Guantes de punto Thinsulate Invierno/Frio para hombre/caballero  3M 40gr   Talla Única   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0066YJNIY/?tag=tolees-21'
 descuento: '44.34'
 average: '6.2'

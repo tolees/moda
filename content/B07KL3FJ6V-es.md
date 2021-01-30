@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'adidas E 3s tee Camiseta de Manga Corta  Hombre  Black/White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL3FJ6V/?tag=tolees-21'
 descuento: '39.96'
 average: '15.01'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Azul  Carbon Heather   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072YB5CKY/?tag=tolees-21'
 descuento: '76.76'
 average: '8.13'

@@ -16,6 +16,7 @@ comparePrice: 67.51 EUR
 prodname: 'Hush Puppies - Zapatos Rosie Estilo Menorquina de Esparto para Mujer señora  36 EU   Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZXMBX2/?tag=tolees-21'
 descuento: '37.86'
 average: '41.95'

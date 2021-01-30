@@ -16,6 +16,7 @@ comparePrice: 32.74 EUR
 prodname: 'Disney HS1472 Sudadera  Gris  Grey Grey   8 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDHDPMB/?tag=tolees-21'
 descuento: '36.93'
 average: '12.485'

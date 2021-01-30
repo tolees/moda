@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Sunder Cross  Sandalias Punta Cerrada para Hombre  Marrón  British Tan Lea British Tan Lea   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJK9RPJ/?tag=tolees-21'
 descuento: '39.39'
 average: '48.46'

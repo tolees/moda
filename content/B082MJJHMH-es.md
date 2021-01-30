@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'TIK TOK Camiseta Corta para Niñas Adolescentes Moda Verano Sexy Tops de Manga Corta  Cuello Redondo Ropa Deportiva Casual Chalecos para Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MJJHMH/?tag=tolees-21'
 descuento: '42.89'
 average: '7.99'

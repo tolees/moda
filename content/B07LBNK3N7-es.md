@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'Helly Hansen Urban Largo Parka Chaqueta de Invierno  Hombre  Marmalade  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBNK3N7/?tag=tolees-21'
 descuento: '50.00'
 average: '150.0'

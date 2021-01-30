@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Cadena Transparente Bolsa De PVC Verano PU Colorido Monedero Congelado Bolsa De Hombro Bolso De Embrague para Teléfonos Móviles Carteras  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7FR5BW/?tag=tolees-21'
 descuento: '23.09'
 average: '10.76'

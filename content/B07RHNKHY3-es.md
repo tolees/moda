@@ -16,6 +16,7 @@ comparePrice: 61.71 EUR
 prodname: 'Wantdo Chaqueta Corta de Cuero de Imitación para Mujer Chaqueta del Motor de PU con Capucha Desmontable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHNKHY3/?tag=tolees-21'
 descuento: '25.00'
 average: '46.28'

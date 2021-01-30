@@ -16,6 +16,7 @@ comparePrice: 26.57 EUR
 prodname: 'Clarks Un Palma Vibe  Sandalias de Talón Abierto para Mujer  Marrón  Mahogany Leather Mahogany Leather   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKN8LR8/?tag=tolees-21'
 descuento: '30.41'
 average: '18.49'

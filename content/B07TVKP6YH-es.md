@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Larston Vaqueros  Dusty Olive  28W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVKP6YH/?tag=tolees-21'
 descuento: '42.98'
 average: '45.59'

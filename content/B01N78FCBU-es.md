@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Miss Lulu Mujer Bolso de Mano Reversible Elegante Bolso de Hombro de Cuero PU Gran Conjunto dos 2PCS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N78FCBU/?tag=tolees-21'
 descuento: '16.88'
 average: '19.11'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Mable Vaqueros Straight  Azul  Light Used Denim Md0   W27/L30 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCBRTPN/?tag=tolees-21'
 descuento: '55.62'
 average: '39.9'

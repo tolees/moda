@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Swiftwater Sandal Women  Sandalias de Punta Descubierta Unisex Adulto  Gris  Dusty Green/Charcoal 3te   33/34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG2KH9G/?tag=tolees-21'
 descuento: '30.18'
 average: '19.830000000000002'

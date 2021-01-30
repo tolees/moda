@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjeeric Puffer Collar Noos Chaqueta  Azul  Blau   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z49N1PC/?tag=tolees-21'
 descuento: '67.22'
 average: '13.11'

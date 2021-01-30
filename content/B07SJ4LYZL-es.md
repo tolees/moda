@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'amzdeal - 30pcs Organizadores de Zapatos Ajustables Soportes de Calzado con Ranuras Ahorra 50% de Espacio PP 3 Niveles Altura para Calzado Deportivo Tacones Altos Zapatos Planos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ4LYZL/?tag=tolees-21'
 descuento: '34.11'
 average: '37.55'

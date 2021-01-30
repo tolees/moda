@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Heatgear Armour Sleeveless Camiseta Sin Mangas  Hombre  Blanco  White/Graphite 100   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHTP0KY/?tag=tolees-21'
 descuento: '48.37'
 average: '15.49'

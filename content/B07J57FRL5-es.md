@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Hawiton Pantalones Deportivos para Mujer 100% Algodón Pantalón de Chándal con Bolsillos para Gimnasio Deportes Correr Entrenamiento Jogging Pantalones de Pijama Largos de Rayas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J57FRL5/?tag=tolees-21'
 descuento: '19.26'
 average: '16.14'

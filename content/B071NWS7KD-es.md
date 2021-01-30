@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Marca Amazon - find. Camiseta con Estampado Gráfico para Hombre  Gris  Light Grey   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NWS7KD/?tag=tolees-21'
 descuento: '69.44'
 average: '5.0649999999999995'

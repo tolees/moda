@@ -16,6 +16,7 @@ comparePrice: 178.99 EUR
 prodname: 'CIVO Relojes Mujer Relojes de Señoras Acero Inoxidable Minimalista Impermeable Oro Rosa Diseñador Simple Moda Relojes de Cuarzo Analógicos para Mujeres con Esfera Marrón Elegante Casual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKK25T3/?tag=tolees-21'
 descuento: '83.80'
 average: '28.99'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros  Multicolor  Medium Indigo Aged 8968/6028   23W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJHM4WQ/?tag=tolees-21'
 descuento: '34.98'
 average: '81.97666666666666'

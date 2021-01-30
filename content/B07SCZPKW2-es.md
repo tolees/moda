@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Literide Stretch Sandal Women  Sandalias de Punta Descubierta para Mujer  Negro  Black/White 066   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCZPKW2/?tag=tolees-21'
 descuento: '61.28'
 average: '17.42'

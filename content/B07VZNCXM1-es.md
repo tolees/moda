@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Pepe Jeans ANN  Bolso para Ordenador Adaptable  40 cm  12 Liters  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZNCXM1/?tag=tolees-21'
 descuento: '29.99'
 average: '56.0'

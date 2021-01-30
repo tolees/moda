@@ -16,6 +16,7 @@ comparePrice: 6.28 EUR
 prodname: 'Marca Amazon - MERAKI Chaqueta de Algodón Mujer Cuello Redondo  Verde  Khaki   48  Label: 3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074W7RZHK/?tag=tolees-21'
 descuento: '32.48'
 average: '6.3944'

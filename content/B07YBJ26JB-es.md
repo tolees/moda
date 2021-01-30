@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Vans Left Chest Logo tee Camiseta  Rojo  Port Royale/Whi K1o   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBJ26JB/?tag=tolees-21'
 descuento: '30.25'
 average: '13.95'

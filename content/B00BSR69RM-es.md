@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Geox 43c9999 J Agata C  Zapatos de Vestir para Niñas  Negro  BLACKC9999   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BSR69RM/?tag=tolees-21'
 descuento: '82.29'
 average: '13.67'

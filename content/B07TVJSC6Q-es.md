@@ -16,6 +16,7 @@ comparePrice: 111.77 EUR
 prodname: 'Timberland Camisa de Franela para Hombre  Manga Larga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVJSC6Q/?tag=tolees-21'
 descuento: '30.00'
 average: '78.24'

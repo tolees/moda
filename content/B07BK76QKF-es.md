@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Panama Jack Sanders Basics  Sandalias con Punta Abierta para Hombre  Marrón  Marron C1   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK76QKF/?tag=tolees-21'
 descuento: '55.00'
 average: '49.05'

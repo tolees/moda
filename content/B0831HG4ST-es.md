@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Marca Amazon - AURIQUE Low Impact Strappy - Sujetador deportivo Mujer  Gris  impresión de mármol de la India .  M  Label:M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0831HG4ST/?tag=tolees-21'
 descuento: '30.00'
 average: '14.0'

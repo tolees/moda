@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Heatgear Armour 2.0 Comp Shorts Pantalón Corto  Hombre  Blanco  White/Graphite 100   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFL40MC/?tag=tolees-21'
 descuento: '48.25'
 average: '15.1675'

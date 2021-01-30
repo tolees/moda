@@ -16,6 +16,7 @@ comparePrice: 8.49 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Picardías Mujer  Gris  Grey Grey   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8PHV61/?tag=tolees-21'
 descuento: '38.16'
 average: '5.25'

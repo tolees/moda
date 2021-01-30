@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cartera de Cuero Billetera de hombre Monederos de hombre con Cuero Genuino Gran Capacidad & RFID Bloqueo  Carteras hombre Cuero con bolsillo de cremallera para monedas &llaves'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G13NR7W/?tag=tolees-21'
 descuento: '40.01'
 average: '18.49'

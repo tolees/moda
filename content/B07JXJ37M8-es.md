@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Wrangler Regular Jacket Chaqueta  Azul  Bleached out 12d   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXJ37M8/?tag=tolees-21'
 descuento: '81.56'
 average: '26.1'

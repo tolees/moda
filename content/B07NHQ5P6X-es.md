@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Tamaris 1-1-22444-23  Zapatos de Tacón para Mujer  Negro  Leo Pat.Comb. 317   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHQ5P6X/?tag=tolees-21'
 descuento: '67.75'
 average: '16.11'

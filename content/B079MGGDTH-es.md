@@ -16,6 +16,7 @@ comparePrice: 8.45 EUR
 prodname: 'Marca Amazon - MERAKI Camiseta de Manga Corta con Corte Estándar y Cuello de Pico Hombre  Azul  Navy   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MGGDTH/?tag=tolees-21'
 descuento: '15.50'
 average: '7.14'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Columbia Kea II  Sandalias para Mujer  Negro  Black  Ti Grey Steel 010   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV4NFZS/?tag=tolees-21'
 descuento: '67.23'
 average: '18.02'

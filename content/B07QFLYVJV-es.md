@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Victorem NBA Michael Jordan #23 Camiseta de Baloncesto para Hombres Chicago Bulls Retro Chaleco de Gimnasia Top Deportivo S-XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFLYVJV/?tag=tolees-21'
 descuento: '40.79'
 average: '10.06'

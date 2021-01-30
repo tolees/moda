@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'GANT The Original SS T-Shirt Camiseta  Blanco  White 110   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F5OTAQG/?tag=tolees-21'
 descuento: '30.24'
 average: '22.71'

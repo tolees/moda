@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'LARNMERN Zapatos de Seguridad para Hombre con Puntera de Acero  LM-123  Zapatillas de Seguridad Trabajo  Calzado de Industrial y Deportiva  43.5 EU  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPJJF4G/?tag=tolees-21'
 descuento: '37.34'
 average: '46.99'

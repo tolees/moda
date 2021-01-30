@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Cerdá Pijama Corto Algodón Harry Potter Conjuntos  Gris  Gris C13   5 para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC4F35W/?tag=tolees-21'
 descuento: '36.29'
 average: '8.25'

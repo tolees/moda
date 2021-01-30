@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Relojes Hombre Acero Inoxidable Ocio Simple Cuarzo Reloj Negocios Moda Negro Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBPX2HG/?tag=tolees-21'
 descuento: '79.24'
 average: '26.99'

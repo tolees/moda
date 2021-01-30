@@ -16,6 +16,7 @@ comparePrice: 50.95 EUR
 prodname: 'Levi s L/S Barstow Western Shirt  Camisa Casual de Manga Larga para Hombre  Azul  Red Cast Stone   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VLNXNVS/?tag=tolees-21'
 descuento: '23.55'
 average: '41.13'

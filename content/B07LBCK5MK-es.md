@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Kappa Sveberg Kids  Botines para Niñas  Ice/Pink 6522  25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBCK5MK/?tag=tolees-21'
 descuento: '55.19'
 average: '13.42'

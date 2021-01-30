@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'IRIS & LILLY Braguita Brasileña Cotton para Mujer  Pack de 3  Multicolor  Grey Melange Bc   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY9EHZV/?tag=tolees-21'
 descuento: '44.43'
 average: '6.8100000000000005'

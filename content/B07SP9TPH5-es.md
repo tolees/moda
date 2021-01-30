@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Flintronic® Cartera Tarjeta de Crédito  Slim Billetera Hombre de Piel Auténtica  Cartera de Bolsillo para Hombres  1 Compartimento con Cremallera  6 Ranuras para Tarjetas y 1 ID/Ventana de Foto '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SP9TPH5/?tag=tolees-21'
 descuento: '44.76'
 average: '10.91'

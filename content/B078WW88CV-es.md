@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'PUMA Liga Jersey Jr T-Shirt  Unisex niños  Red White  164'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WW88CV/?tag=tolees-21'
 descuento: '30.58'
 average: '12.605'

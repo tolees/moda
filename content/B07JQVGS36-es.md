@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Tommy Flag Hilfiger tee Camisa Deportiva  Azul  Chambray Blue 422   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQVGS36/?tag=tolees-21'
 descuento: '44.89'
 average: '21.99'

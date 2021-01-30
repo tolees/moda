@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Tommy Hilfiger HERITAGE SINGLE BREASTED TRENCH  Abrigo Mujer  Beige  Medium Taupe 055   M  Talla fabricante: M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0170NOLIG/?tag=tolees-21'
 descuento: '29.77'
 average: '167.475'

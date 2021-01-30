@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Superdry Ashley Everest Parka  Gris  Grey 05q   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY79MWX/?tag=tolees-21'
 descuento: '66.74'
 average: '59.86'

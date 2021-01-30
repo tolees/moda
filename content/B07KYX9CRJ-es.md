@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Verde  Cypress Heather   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYX9CRJ/?tag=tolees-21'
 descuento: '22.18'
 average: '18.07142857142857'

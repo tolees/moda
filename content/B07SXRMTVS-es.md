@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Borealis A  Sandalia con Pulsera para Mujer  Gris  Dk Grey/Fluor Orange C9366   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXRMTVS/?tag=tolees-21'
 descuento: '51.89'
 average: '43.25'

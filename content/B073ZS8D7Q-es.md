@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'GANT The Oxford Shirt Reg BD Camisa  Rojo  Light Pink 662   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZS8D7Q/?tag=tolees-21'
 descuento: '25.05'
 average: '60.1875'

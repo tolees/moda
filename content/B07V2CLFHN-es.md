@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: 'ACVIP - Camiseta de manga corta con cuello en V y hombros descubiertos de algodón rojo 120 cm 6-7 años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2CLFHN/?tag=tolees-21'
 descuento: '44.44'
 average: '11.05'

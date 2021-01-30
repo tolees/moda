@@ -16,6 +16,7 @@ comparePrice: 9.44 EUR
 prodname: 'Marca Amazon - Iris & Lilly Sujetador de Tul Super Push Up Mujer  Rojo  Tawny Port   95B  Label: 36B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQ7ZBPV/?tag=tolees-21'
 descuento: '42.16'
 average: '5.46'

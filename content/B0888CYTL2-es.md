@@ -16,6 +16,7 @@ comparePrice: 78.88 EUR
 prodname: 'SINOES 270 2020 Hombre de Zapatos Deportivos Correr Caminar Gimnasio Ocasional Deportivos Flyknit Tennis Sports Zapatillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0888CYTL2/?tag=tolees-21'
 descuento: '69.73'
 average: '23.88'

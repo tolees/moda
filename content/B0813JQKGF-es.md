@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Marca Amazon - Find. Sandalias abiertas para mujer con tacón de rayas  color Negro  talla 37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813JQKGF/?tag=tolees-21'
 descuento: '87.94'
 average: '6.62'

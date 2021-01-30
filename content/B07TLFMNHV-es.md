@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Relaxed Graphic tee Camiseta  Negro  90 s Serif Logo Mineral Black 0044   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLFMNHV/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

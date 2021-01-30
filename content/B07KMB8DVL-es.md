@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Juguetes para Niños de 8-12 Años  Dreamingbox Guantes Luminosos LED para Niños Halloween Juguetes para Niñas de 4-12 Años Regalos para Niños de 3-12 Años Regalo 3-12 Años Niñas Arcoiris Tamaño Mediano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMB8DVL/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Helly Hansen Nord Graphic HH T-Shirt Camiseta  Hombre  White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB1Z7QG/?tag=tolees-21'
 descuento: '50.03'
 average: '14.99'

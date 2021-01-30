@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Skinny Vaqueros  Blue Powder 15L  30W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWN426C/?tag=tolees-21'
 descuento: '61.39'
 average: '32.8'

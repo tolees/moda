@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'ESCATCH - Pantalón de Ropa de Pijama de Verano para Hombres Pantlones Cortos de Deportes para Correr Jogging Ropa Seca Rápido para Playa - Rojo - ES 44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9QWWM2/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

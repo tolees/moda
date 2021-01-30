@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Adidas Response Tee M  Camiseta para Hombre  Multicolor  Rojo   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Z3RC9W/?tag=tolees-21'
 descuento: '44.64'
 average: '16.58'

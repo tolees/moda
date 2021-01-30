@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Columbia Carson Pass II  Chaqueta impermeable  Mujer  Azul oscuro Nocturnal   Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RWW5P9/?tag=tolees-21'
 descuento: '58.06'
 average: '83.87'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Ipanema Anat Lovely X Fem  Chanclas para Mujer  Multicolor  Black/Black 8413.0   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2LH5CY/?tag=tolees-21'
 descuento: '30.58'
 average: '15.96'

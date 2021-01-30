@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Clarks Tunsil Lane  Zapatos de Cordones Derby para Hombre  Azul Navy  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ2JVFF/?tag=tolees-21'
 descuento: '40.63'
 average: '35.59'

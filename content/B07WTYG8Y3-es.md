@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Vgo... 2Pares Guantes de Cuero de Cabra para Senderismo  Pesca y Actividad al Aire Libre  Talla 9 /L  Camo  GA3102 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTYG8Y3/?tag=tolees-21'
 descuento: '38.72'
 average: '18.99'

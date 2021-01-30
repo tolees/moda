@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'AGPTEK Bolsa Deporte y Viaje para Mujer y Hombre con Compartimento de Zapatos y Bolsillo Impermeable Bolsa de Playa de Multibolsos Multiuso como Mochila Plegable para Deporte Nadar Vacaciones Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWCS286/?tag=tolees-21'
 descuento: '16.26'
 average: '20.49'

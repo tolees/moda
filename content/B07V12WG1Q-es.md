@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Women s Secret Multilicense College MC DS Bunny PJ FR Conjuntos de Pijama  Gris  Gama Grises 44   X-Small  Tamaño del Fabricante: XS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V12WG1Q/?tag=tolees-21'
 descuento: '43.90'
 average: '19.63'

@@ -16,6 +16,7 @@ comparePrice: 36.23 EUR
 prodname: 'Suertree Anti Blue Light gafas de lectura 3 paquete ayuda visual gafas ópticas gafas de lectura para damas hombres JH211 2.5X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GQVK9MR/?tag=tolees-21'
 descuento: '55.73'
 average: '16.04'

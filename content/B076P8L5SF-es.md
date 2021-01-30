@@ -16,6 +16,7 @@ comparePrice: 40.29 EUR
 prodname: 'HAPPY MAMA. Mujer Sudadera Capucha Lactancia Premamá Bolsillo de Canguro. 324p  Frambuesa  44  2XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076P8L5SF/?tag=tolees-21'
 descuento: '59.99'
 average: '16.12'

@@ -16,6 +16,7 @@ comparePrice: 9.33 EUR
 prodname: 'FIND Block Heel Mary-Jane Zapatos de Tacón  Morado  Purple   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5Q5K6X/?tag=tolees-21'
 descuento: '36.66'
 average: '5.91'

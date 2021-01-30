@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Esprit Kids RM1039307 Camiseta  Blanco  White 010    Talla del Fabricante: 116+  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9SVQ4L/?tag=tolees-21'
 descuento: '55.66'
 average: '7.09'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Clarks Step Beat Sun  Sandalias Punta Abierta para Hombre  Negro  Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR1CT5P/?tag=tolees-21'
 descuento: '33.28'
 average: '37.24'

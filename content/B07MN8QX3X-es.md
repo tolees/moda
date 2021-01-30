@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Napapijri Bolso Bandolera  Negro  Negro  - N0YIY0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN8QX3X/?tag=tolees-21'
 descuento: '20.13'
 average: '31.15'

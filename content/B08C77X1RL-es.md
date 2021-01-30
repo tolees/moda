@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Zuecos Unisex Infantil Niños Niñas Clogs Verano Respirable Antideslizante Sandalia Piscina Jardín Zapatos 26 = Fabricante 27'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C77X1RL/?tag=tolees-21'
 descuento: '34.68'
 average: '16.95'

@@ -16,6 +16,7 @@ comparePrice: 40.9 EUR
 prodname: 'find. Wide Band Mule Sandalias con Punta Abierta  Negro Black  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZSS9D4/?tag=tolees-21'
 descuento: '87.11'
 average: '5.27'

@@ -16,6 +16,7 @@ comparePrice: 142.0 EUR
 prodname: 'Ray-Ban 0RB3589  Gafas de Sol para Mujer  Marrón  Gold Top on Brown   55'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JKH9MK/?tag=tolees-21'
 descuento: '51.39'
 average: '69.02'

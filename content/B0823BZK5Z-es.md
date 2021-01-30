@@ -16,6 +16,7 @@ comparePrice: 17.17 EUR
 prodname: 'Jack & Jones Sweatshirt Sudadera  Detalle: Nueva White Melange White Melange  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0823BZK5Z/?tag=tolees-21'
 descuento: '32.62'
 average: '11.57'

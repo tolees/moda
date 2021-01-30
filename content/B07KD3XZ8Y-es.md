@@ -16,6 +16,7 @@ comparePrice: 67.02 EUR
 prodname: 'zhi wei Mochila Antirrobo Impermeable Mochila Bolso para Mackbook/Portátil 17 3 Pulgadas Multiusos Daypacks con Puerto de USB Mochila Negro Hombre y Mujer Casual para Escolares Viaje Negocio Trabajo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KD3XZ8Y/?tag=tolees-21'
 descuento: '67.23'
 average: '24.96'

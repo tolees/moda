@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Lacoste TH2036 - Camiseta de Manga Corta para Hombre  Cuello en V  Corte Regular Baobab S7T  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYSZZD5/?tag=tolees-21'
 descuento: '39.74'
 average: '27.11'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Lynn Mid Waist Skinny Vaqueros  Faded Glacier D06746  26W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCZCJV6/?tag=tolees-21'
 descuento: '65.03'
 average: '34.95'

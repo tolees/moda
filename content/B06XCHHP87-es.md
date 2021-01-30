@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Gilman Mode  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCHHP87/?tag=tolees-21'
 descuento: '68.22'
 average: '33.385'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler LS 2kt Flap Shirt Camisa  Azul  Directoire Blue Xkl   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYW7CVZ/?tag=tolees-21'
 descuento: '75.77'
 average: '15.74'

@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Sportstyle Camiseta sin Mangas con Logotipo  Ropa Deportiva para Hombres Hecha de Tejido ultrasuave  Ancha Camiseta de Tirantes  Black/Black/Black  001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZFGPZB/?tag=tolees-21'
 descuento: '51.96'
 average: '15.228333333333333'

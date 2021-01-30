@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'PUMA Rise XT NETFIT 1 Zapatos de Futsal Unisex adulto  Grey Dawn Heather-Puma White-Tradewinds  40.5 EU  7 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYX35W/?tag=tolees-21'
 descuento: '80.09'
 average: '27.86'

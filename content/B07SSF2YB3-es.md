@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Greylags 100% Algodón Prima Camiseta para Hombre | Cuello en V | Shirt | Camiseta | Tees | Paquete de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSF2YB3/?tag=tolees-21'
 descuento: '43.78'
 average: '22.46'

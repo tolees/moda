@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Sunset 1 Pkt Slim Camisa  Negro  Antonio Mineral Black 0013   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKDNS7T/?tag=tolees-21'
 descuento: '40.01'
 average: '41.99'

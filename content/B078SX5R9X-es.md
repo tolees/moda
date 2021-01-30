@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Timberland Malibu Waves  Sandalias para Mujer  Marrón  Rust Nubuck   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SX5R9X/?tag=tolees-21'
 descuento: '37.66'
 average: '52.99'

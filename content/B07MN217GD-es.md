@@ -16,6 +16,7 @@ comparePrice: 42.84 EUR
 prodname: 'MTNG Collection 50037  Sandalias con Punta Cerrada para Mujer  Rojo  Strips Rojo C45245   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN217GD/?tag=tolees-21'
 descuento: '48.65'
 average: '17.72'

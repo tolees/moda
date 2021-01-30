@@ -16,6 +16,7 @@ comparePrice: 57.9 EUR
 prodname: 'Geox Jr Piuma Ballerine A  Bailarinas para Niñas  Plateado  Pearl   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076XBQZDK/?tag=tolees-21'
 descuento: '50.00'
 average: '28.95'

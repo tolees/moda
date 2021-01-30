@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Jaylon E  Botas Clasicas para Hombre  Negro  Black C9999   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV9MWD/?tag=tolees-21'
 descuento: '56.36'
 average: '52.33'

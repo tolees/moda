@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Columbia Woodburn II  Zapatilla Multideporte para Hombre  Negro  Black/Goldenrod 010   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J61COUS/?tag=tolees-21'
 descuento: '56.15'
 average: '41.085'

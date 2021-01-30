@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Women s Secret Thermal Generic GF Snow PJ Conjuntos de Pijama  Gris  Gama Grises 42   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ593GG/?tag=tolees-21'
 descuento: '58.62'
 average: '14.940000000000001'

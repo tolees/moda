@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J Android Girl A  Zapatillas para Niñas  Grau  Grey/Pink C0502   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG18M5K/?tag=tolees-21'
 descuento: '51.67'
 average: '28.95'

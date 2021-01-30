@@ -16,6 +16,7 @@ comparePrice: 74.03 EUR
 prodname: 'Timberland Killington  Botas Unisex Niños  Azul  Black Iris Nubuck 19   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JZMPZQ2/?tag=tolees-21'
 descuento: '50.03'
 average: '36.99'

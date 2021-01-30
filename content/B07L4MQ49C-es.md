@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Charles Wilson Camisa Manga Larga Popelina Lisa para Hombre  Small  Purple '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4MQ49C/?tag=tolees-21'
 descuento: '17.43'
 average: '18.95'

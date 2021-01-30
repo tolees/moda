@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'AmzBarley Disfraz Vestido Princesa Blancanieves Elsa Frozen Niña Tutu Ceremonia Traje Niña Bella Disfraz Infantil Fiesta Carnaval Cosplay Halloween  Amarillo-04  5-6 Años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FP91YDD/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

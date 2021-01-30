@@ -16,6 +16,7 @@ comparePrice: 224.7 EUR
 prodname: 'Timberland 6 In Boot  Botas Altas para Hombre  Marrón  Brown Nubuck   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01846VCKI/?tag=tolees-21'
 descuento: '50.00'
 average: '142.45823529411766'

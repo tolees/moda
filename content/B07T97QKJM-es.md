@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'The North Face M Drew Peak Sudadera con Capucha  Hombre  Beige  British Khaki   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T97QKJM/?tag=tolees-21'
 descuento: '50.00'
 average: '40.0'

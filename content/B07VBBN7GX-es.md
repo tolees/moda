@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'HUGO Drick202 Sudadera  Beige  Dark Beige 251   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBBN7GX/?tag=tolees-21'
 descuento: '79.63'
 average: '18.32'

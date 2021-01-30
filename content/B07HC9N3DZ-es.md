@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PICSIL Raven 2H Calleras para Crossfit Grips 2 Agujeros Agarre y Protector de Mano o Guantes para Gimnasia Unisex para Hombre en Deportes de Fitness Pullup Calistenia Halterofilia y Musualción.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HC9N3DZ/?tag=tolees-21'
 descuento: '16.03'
 average: '20.95'

@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Desigual Coat Mandala Abrigo  Negro  Negro 2000   40  Talla del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N39MY3R/?tag=tolees-21'
 descuento: '50.60'
 average: '56.32333333333334'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES JCOMILLA Sweat Hood Sudadera con Capucha  Multicolor  Light Grey Melange Detail:w. Black   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDKQ4MX/?tag=tolees-21'
 descuento: '52.11'
 average: '19.15'

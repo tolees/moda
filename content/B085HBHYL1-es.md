@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'CHEREEKI Gafas de Sol Deportivas  Gafas de Sol Polarizadas de Conducción con protección UV400 para Hombres y Mujeres  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085HBHYL1/?tag=tolees-21'
 descuento: '18.59'
 average: '15.97'

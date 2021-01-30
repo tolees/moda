@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Five Forks  Zapatos de Senderismo Impermeables para Hombre  Negro  Black  Red JASP 010   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWWYK88/?tag=tolees-21'
 descuento: '69.02'
 average: '34.08'

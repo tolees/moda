@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'find. Botines de Piel para Mujer  Marrón  Brown   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9SCFXN/?tag=tolees-21'
 descuento: '33.33'
 average: '12.25'

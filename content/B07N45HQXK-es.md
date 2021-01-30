@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'United Colors of Benetton Basico 1 Man Abrigo  Negro  Negro 100   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N45HQXK/?tag=tolees-21'
 descuento: '65.73'
 average: '30.83'

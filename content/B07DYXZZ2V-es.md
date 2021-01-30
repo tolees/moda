@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Pantalón de Excursionismo para Mujer  Back Beauty Passo Alto Heat Pant  Azul  Nocturnal   Talla W38/R'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYXZZ2V/?tag=tolees-21'
 descuento: '43.00'
 average: '56.99'

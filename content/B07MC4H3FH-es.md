@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Scotch & Soda Nos Oxford Shirt Relaxed Fit Button Down Collar Camisa  Blanco  White 00   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC4H3FH/?tag=tolees-21'
 descuento: '30.02'
 average: '55.95'

@@ -16,6 +16,7 @@ comparePrice: 49.28 EUR
 prodname: 'Tommy Hilfiger RWB Pocket Flex tee Camiseta Deporte  Blanco  White   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6T6CRN/?tag=tolees-21'
 descuento: '61.69'
 average: '18.88'

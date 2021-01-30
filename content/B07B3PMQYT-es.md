@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Puma Liga Sideline Jh Chaqueta de Entrenamiento con Cremallera  Hombre  Negro Black White  3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B3PMQYT/?tag=tolees-21'
 descuento: '49.04'
 average: '17.81'

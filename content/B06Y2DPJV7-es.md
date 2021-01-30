@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Monedero "Mamá  tu sonrisa lo vale todo"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2DPJV7/?tag=tolees-21'
 descuento: '49.98'
 average: '12.465'

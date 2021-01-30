@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 501 Original Fit Vaqueros  Azul  Key West Waves Tnl 2999   31W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHHJPF/?tag=tolees-21'
 descuento: '40.60'
 average: '59.4'

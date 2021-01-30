@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Arizona Straight Jeans Vaqueros  Bright Stroke  38W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y13JGF2/?tag=tolees-21'
 descuento: '38.60'
 average: '55.23'

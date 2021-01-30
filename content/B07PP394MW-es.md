@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Kipling Eleva  Bolso con Bandolera para Mujer  Verde  Seagrass   31x33x12 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PP394MW/?tag=tolees-21'
 descuento: '55.88'
 average: '37.5'

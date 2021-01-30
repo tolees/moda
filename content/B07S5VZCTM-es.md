@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'El Naturalista N5144  Botines para Mujer  Rojo  Rioja Rioja   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5VZCTM/?tag=tolees-21'
 descuento: '81.34'
 average: '28.115'

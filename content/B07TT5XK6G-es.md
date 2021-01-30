@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Superdry Super Sleek Flip Flop  Chanclas para Mujer  Rosa  Fluro Pink 28r   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT5XK6G/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

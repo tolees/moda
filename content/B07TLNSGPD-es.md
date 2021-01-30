@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Earth Beetle Sudadera  Gris  Faded Balsam A983   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLNSGPD/?tag=tolees-21'
 descuento: '75.72'
 average: '24.27'

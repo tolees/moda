@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para El Tiempo Libre  Azul  Navy Blazer   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUFG38Z/?tag=tolees-21'
 descuento: '33.14'
 average: '19.99'

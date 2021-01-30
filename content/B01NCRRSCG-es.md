@@ -16,6 +16,7 @@ comparePrice: 190.02 EUR
 prodname: 'Dreimaster 36036408  Chaqueta para Mujer  Azul  Marine 12  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCRRSCG/?tag=tolees-21'
 descuento: '87.15'
 average: '107.22'

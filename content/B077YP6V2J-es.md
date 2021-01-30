@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'HIKARO Sudadera Logo Hombre  Verde  Khaki   48  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YP6V2J/?tag=tolees-21'
 descuento: '38.18'
 average: '16.66'

@@ -16,6 +16,7 @@ comparePrice: 51.19 EUR
 prodname: 'find. Parka Ligera Hombre  Beige  Stone   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9L3XPJ/?tag=tolees-21'
 descuento: '61.91'
 average: '19.5'

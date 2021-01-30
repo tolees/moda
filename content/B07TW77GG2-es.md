@@ -16,6 +16,7 @@ comparePrice: 73.99 EUR
 prodname: 'Tikea Mochila de Mamá Grande  Mochila para Pañales Multifunción  Bolso Cambiador con Ganchos para Cochecito y Bolsillos Térmicos para Botellas  Antirrobo Elegante y Impermeable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW77GG2/?tag=tolees-21'
 descuento: '50.01'
 average: '36.99'

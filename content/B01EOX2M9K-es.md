@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Helly Hansen W Aden Chaqueta  Mujer  Evening Blue  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EOX2M9K/?tag=tolees-21'
 descuento: '42.92'
 average: '68.5'

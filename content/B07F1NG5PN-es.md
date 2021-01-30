@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Graphic tee-B Camiseta  Negro  Hm LS Better Black 0013   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1NG5PN/?tag=tolees-21'
 descuento: '57.14'
 average: '15.0'

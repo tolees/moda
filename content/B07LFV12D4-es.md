@@ -16,6 +16,7 @@ comparePrice: 37.8 EUR
 prodname: 'Geox U Devan A  Mocasines para Hombre  Marrón  Mud C6372   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV12D4/?tag=tolees-21'
 descuento: '22.83'
 average: '32.285'

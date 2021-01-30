@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip  Chanclas Unisex – Adulto  Rosso  Pepper/White   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HQANM1U/?tag=tolees-21'
 descuento: '27.65'
 average: '18.08'

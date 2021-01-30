@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s Big and Tall B&t Graphic tee Camiseta  Azul  Hm Big Dress Blues 0001   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHB2ZXJ/?tag=tolees-21'
 descuento: '37.50'
 average: '14.765'

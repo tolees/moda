@@ -16,6 +16,7 @@ comparePrice: 11.8 EUR
 prodname: 'Ho soccer 0505576.02 Pantalón Corto sin Acolchado  Hombre  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776ZBC5Z/?tag=tolees-21'
 descuento: '36.53'
 average: '7.49'

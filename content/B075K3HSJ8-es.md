@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Verde EU42/43'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075K3HSJ8/?tag=tolees-21'
 descuento: '22.84'
 average: '14.66'

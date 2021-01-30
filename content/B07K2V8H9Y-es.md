@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Columbia Glacial IV Jersey Polar con Media Cremallera para Mujer  Color: Rosa  Fucsia   Talla: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2V8H9Y/?tag=tolees-21'
 descuento: '42.61'
 average: '17.325000000000003'

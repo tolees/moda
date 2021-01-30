@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 3301 Loose Vaqueros  Medium Aged 9299-071  38W / 38L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0752NQN3Q/?tag=tolees-21'
 descuento: '45.82'
 average: '64.99'

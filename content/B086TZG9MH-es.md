@@ -16,6 +16,7 @@ comparePrice: 5.81 EUR
 prodname: 'YUNB 6PCS  Zapatos de plástico Beige de tacón Alto Consejos 22mm x 21mm para Damas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086TZG9MH/?tag=tolees-21'
 descuento: '49.57'
 average: '2.93'

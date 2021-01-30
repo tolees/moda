@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'Fruit of the Loom Heavy Cotton Tee Shirt 3 Pack  Camiseta de Manga Corta Para Hombre  Azul  Marineblau   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UC13XCO/?tag=tolees-21'
 descuento: '29.47'
 average: '11.99'

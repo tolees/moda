@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BOSS LS-Shirt RN Thermal+ Camiseta térmica  Rojo  Dark Red 604   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZV2VP6/?tag=tolees-21'
 descuento: '61.12'
 average: '19.42'

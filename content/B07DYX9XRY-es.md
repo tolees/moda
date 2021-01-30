@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Pike Lake Chaqueta  Mujer  Negro  Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYX9XRY/?tag=tolees-21'
 descuento: '41.54'
 average: '72.565'

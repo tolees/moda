@@ -16,6 +16,7 @@ comparePrice: 8.78 EUR
 prodname: 'Marca Amazon - find. Vestido Cruzado de Flores Mujer  Multicolor  Pink Floral   36  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WKBPP5M/?tag=tolees-21'
 descuento: '34.85'
 average: '5.72'

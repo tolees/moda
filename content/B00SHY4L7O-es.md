@@ -16,6 +16,7 @@ comparePrice: 340.05 EUR
 prodname: 'Bogner Fire Ice Hombres Chaqueta Azul Azul/Azul Oscuro Talla:50  UE '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SHY4L7O/?tag=tolees-21'
 descuento: '18.17'
 average: '278.27'

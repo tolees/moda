@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Cerdá Pijama Corto Algodón Avengers Conjuntos  Gris  Gris C13   4 para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJBQVGS/?tag=tolees-21'
 descuento: '50.58'
 average: '6.4'

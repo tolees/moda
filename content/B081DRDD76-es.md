@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Agoky Bolero de Boda Fiesta para Niña Abrigo Satinado Manga Acampanada Chaqueta de Princesa Capa para Vestido de Bautizo Ceremonia Cárdigan Azul Marino 6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DRDD76/?tag=tolees-21'
 descuento: '72.54'
 average: '5.49'

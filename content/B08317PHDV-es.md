@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'BestoU Bolsos de Mujer Cuero Bolso Bandolera Tote Grande De Hombro Bolsos PU  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08317PHDV/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

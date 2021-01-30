@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Embossed Classics tee Camiseta  Rojo  Rouge Red Wa7   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4HXWCZ/?tag=tolees-21'
 descuento: '65.16'
 average: '12.19'

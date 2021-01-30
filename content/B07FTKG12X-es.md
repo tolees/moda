@@ -16,6 +16,7 @@ comparePrice: 85 EUR
 prodname: 'Lee Brooklyn Vaqueros Straight  Azul  Dark Stone Xg   32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTKG12X/?tag=tolees-21'
 descuento: '51.40'
 average: '42.945'

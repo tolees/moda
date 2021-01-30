@@ -16,6 +16,7 @@ comparePrice: 30.92 EUR
 prodname: 'adidas Ask SPR LS Camiseta  Sin género  Negro  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077P9BMZQ/?tag=tolees-21'
 descuento: '53.59'
 average: '14.35'

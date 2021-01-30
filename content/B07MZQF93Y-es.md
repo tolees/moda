@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Finsbury Vaqueros Skinny  Gris  Powerflex Grey Used Denim 000   W38/L34 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQF93Y/?tag=tolees-21'
 descuento: '45.51'
 average: '47.558'

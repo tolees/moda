@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Joma Academy Camiseta Termica  Hombre  Rojo  S-M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9J36LZ/?tag=tolees-21'
 descuento: '27.83'
 average: '12.99'

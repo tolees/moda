@@ -16,6 +16,7 @@ comparePrice: 5.18 EUR
 prodname: 'Fruit of the Loom - Camiseta básica de Manga Corta para niña/Chicas - 100% algodón Primera Calidad  3-4 Años   Naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDYDLGS/?tag=tolees-21'
 descuento: '33.40'
 average: '3.45'

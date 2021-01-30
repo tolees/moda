@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Billabong All Day Impact  Chanclas para Hombre  Azul  Navy 21   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7Y2DSP/?tag=tolees-21'
 descuento: '37.17'
 average: '21.99'

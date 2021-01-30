@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Mandarina Duck Mellow Leather Tracolla/Amphora  Bolso bandolera para Mujer  Azul  Dress Blue   10x21x28.5 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4GY8DK/?tag=tolees-21'
 descuento: '61.00'
 average: '42.9'

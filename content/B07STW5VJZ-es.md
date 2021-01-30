@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Quiksilver Molokai  Zapatos de Playa y Piscina para Hombre  Multicolor  Red/Blue/Red Xrbr   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STW5VJZ/?tag=tolees-21'
 descuento: '15.45'
 average: '15.21'

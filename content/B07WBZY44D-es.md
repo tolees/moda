@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES JCOMILLA Sweat Hood Sudadera con Capucha  Multicolor  China Blue Detail: W. Sky Captain   XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBZY44D/?tag=tolees-21'
 descuento: '63.42'
 average: '20.525000000000002'

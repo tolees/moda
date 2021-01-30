@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Sandal Vega A  Sandalias con Punta Abierta para Mujer  Beige  Sand C5004   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTYHBG/?tag=tolees-21'
 descuento: '43.69'
 average: '50.62'

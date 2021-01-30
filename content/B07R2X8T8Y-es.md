@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Under Armour Rival Fleece Graphic Novelty Sudadera con Capucha  Mujer  Negro  Black/Onyx White/Black 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2X8T8Y/?tag=tolees-21'
 descuento: '31.58'
 average: '26.169999999999998'

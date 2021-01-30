@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Lee Hoodie SWS  Sudadera para Hombre  Rojo  Warp Red Kg   XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N19BYH1/?tag=tolees-21'
 descuento: '70.71'
 average: '21.97'

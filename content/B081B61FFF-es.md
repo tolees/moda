@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Triple Canyon Camisa de Manga Corta  Hombre  Azul  Azul Mini Tonal Plaid   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B61FFF/?tag=tolees-21'
 descuento: '62.32'
 average: '24.49'

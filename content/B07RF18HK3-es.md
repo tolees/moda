@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Midge Mid Waist Straight Vaqueros  Gris  Dusty Grey B472-A799   W25/L30  Talla del Fabricante: 25W / 30L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RF18HK3/?tag=tolees-21'
 descuento: '80.83'
 average: '19.16'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Tri Walk  Sandalias para Niñas  Negro  Black Combi Black Combi   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KM9XD13/?tag=tolees-21'
 descuento: '29.45'
 average: '77.6'

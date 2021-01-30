@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Jack & Jones Jjebasic Polo SS Noos - Camiseta para Hombre  Gris  Light Grey Melange   Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079BPZ56N/?tag=tolees-21'
 descuento: '19.95'
 average: '12.4'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour HG Armour 2.0 Comp Short Pantalón Corto  Hombre  Gris  Carbon Heather/Black 090   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFL7ETS/?tag=tolees-21'
 descuento: '35.75'
 average: '18.945'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Gilman Walk  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Lea Dark Tan Lea   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ2JL6N/?tag=tolees-21'
 descuento: '71.11'
 average: '31.1'

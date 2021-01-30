@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Marfil  Stone   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JYNKH5/?tag=tolees-21'
 descuento: '70.00'
 average: '6.259444444444444'

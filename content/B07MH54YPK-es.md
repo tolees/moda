@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Lacoste Sport Sf7917 Sudadera premamá  Gris  Argent Chiné Cca   40 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MH54YPK/?tag=tolees-21'
 descuento: '53.10'
 average: '60.08'

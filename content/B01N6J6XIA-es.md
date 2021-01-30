@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Crocs Flip Flops  Chanclas Unisex Adulto  Negro  Black/Smoke   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6J6XIA/?tag=tolees-21'
 descuento: '32.70'
 average: '24.22'

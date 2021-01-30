@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'DCalderoni Moncayo Zapatos Piel Negros De Vestir con Cordones para Hombre 49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGC8N54/?tag=tolees-21'
 descuento: '23.33'
 average: '69.0'

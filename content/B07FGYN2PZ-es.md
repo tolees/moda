@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Hombre Chaqueta  Cascade Ridge II Softshell  Azul  Collegiate Navy Heather   Talla: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FGYN2PZ/?tag=tolees-21'
 descuento: '54.91'
 average: '45.09'

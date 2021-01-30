@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Larston Vaqueros  Grey Hill  31W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN44V6D/?tag=tolees-21'
 descuento: '33.08'
 average: '56.85'

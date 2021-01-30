@@ -16,6 +16,7 @@ comparePrice: 13.68 EUR
 prodname: 'Marca Amazon - find. Vestido Midi Camisero de Lino Mujer  Multicolor  BLACK /WHITE STRIPE   44  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3K3R3S/?tag=tolees-21'
 descuento: '18.35'
 average: '11.94'

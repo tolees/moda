@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Esprit 089ee2g001 Chaqueta  Marrón  Toffee 225   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S19MSGN/?tag=tolees-21'
 descuento: '84.72'
 average: '15.28'

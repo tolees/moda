@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Kipling Gleam  Bolso de Tocador para Mujer  Multicolor  Music Print   18.5x11x8 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV9Y4M3/?tag=tolees-21'
 descuento: '50.00'
 average: '12.0'

@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'Under Armour Forefront Rain Chaqueta  Mujer  Gris  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVLZQ4T/?tag=tolees-21'
 descuento: '44.67'
 average: '44.195'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'JACK & JONES PREMIUM Jprwetford Parka STS  Beige Kelp  XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDKPFW8/?tag=tolees-21'
 descuento: '67.34'
 average: '34.25'

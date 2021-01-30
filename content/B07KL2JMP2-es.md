@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'adidas W E Lin Slim T Camiseta de Manga Corta  Mujer  Negro  Black/White   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL2JMP2/?tag=tolees-21'
 descuento: '32.55'
 average: '13.49'

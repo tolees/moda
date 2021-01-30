@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Nike Barcelona Camiseta  Hombre  Amarillo  2ª Equipación   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4VDNHV/?tag=tolees-21'
 descuento: '59.87'
 average: '37.230000000000004'

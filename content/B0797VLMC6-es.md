@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'Puma LIGA Sideline Poly Core  Chaqueta de Entrenamiento  Hombre  Azul  peacoat / white   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797VLMC6/?tag=tolees-21'
 descuento: '20.00'
 average: '15.75'

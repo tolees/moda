@@ -16,6 +16,7 @@ comparePrice: 64.51 EUR
 prodname: 'NUBILY Bolsos de Mujer Bolso para Portatil 15.6 Pulgadas Bolso Grande Bolso Tote Bolso de Hombro Bolso Shopper Bolso de Cuero Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1KYHWN/?tag=tolees-21'
 descuento: '47.31'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Geographical Norway Parka Hombre Boomerang Camo Azul Marino L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MPQXK4/?tag=tolees-21'
 descuento: '20.00'
 average: '79.2'

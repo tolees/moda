@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Pepe Jeans Golders Camiseta  Naranja  Sundown 166   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVRD2FC/?tag=tolees-21'
 descuento: '31.54'
 average: '19.17'

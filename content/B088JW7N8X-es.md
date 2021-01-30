@@ -16,6 +16,7 @@ comparePrice: 47.76 EUR
 prodname: 'Garggi Mujer Moda Puntiagudo Tacón De Aguja Noche Pump Sin Cordones Elegante Tacón Alto Pump Vestido Boda Pump Negro Talla 40 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088JW7N8X/?tag=tolees-21'
 descuento: '52.76'
 average: '22.56'

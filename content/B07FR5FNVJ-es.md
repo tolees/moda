@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Dorado  Gold Metallic-   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR5FNVJ/?tag=tolees-21'
 descuento: '27.32'
 average: '57.632222222222225'

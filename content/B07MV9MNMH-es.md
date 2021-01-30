@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Kipling Art Mini  Bolso de Mano para Mujer  Morado  Dark Plum   28x23.5x18.5 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV9MNMH/?tag=tolees-21'
 descuento: '40.00'
 average: '47.4'

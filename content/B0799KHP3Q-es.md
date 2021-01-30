@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'KARACTERMANIA Mickey Mouse Crayons Bolso bandolera  28 cm  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0799KHP3Q/?tag=tolees-21'
 descuento: '20.00'
 average: '10.8'

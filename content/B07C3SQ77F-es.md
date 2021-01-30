@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Karrimor - Pantalón Corto Deportivo - para Hombre Negro L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C3SQ77F/?tag=tolees-21'
 descuento: '32.36'
 average: '22.99'

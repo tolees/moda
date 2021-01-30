@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'IRIS & LILLY BELK015M7 Tanga  Multicolour  Black/Melange/Soft Pink   8  Size:XS   Pack de 7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N33X9TC/?tag=tolees-21'
 descuento: '21.06'
 average: '14.99'

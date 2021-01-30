@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Gant D1. The Quilted Windcheater Chaqueta  Azul  Evening Blue 433   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVFT719/?tag=tolees-21'
 descuento: '37.50'
 average: '125.0'

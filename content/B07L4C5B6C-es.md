@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Tamaris 1-1-22426-23  Zapatos con Plataforma para Mujer  Negro  Black Patent 18   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4C5B6C/?tag=tolees-21'
 descuento: '55.06'
 average: '22.45'

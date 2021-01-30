@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Helly Hansen Crew Chaqueta Deportiva  Hombre  Azul  Azul Navy   Medium  Tamaño del Fabricante:M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IPFNS78/?tag=tolees-21'
 descuento: '51.55'
 average: '62.99'

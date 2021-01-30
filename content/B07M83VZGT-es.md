@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Rainforest Winter 1 Chaqueta  Azul  French Blue Bb7   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M83VZGT/?tag=tolees-21'
 descuento: '39.45'
 average: '120.49'

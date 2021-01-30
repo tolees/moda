@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Status 2.0 Pexton  Zapatos de Cordones Derby para Hombre  Negro  Black Canvas Black   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPJHWZF/?tag=tolees-21'
 descuento: '55.29'
 average: '34.12333333333334'

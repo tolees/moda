@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Havaianas Slim Chanclas Mujer  Gris  Steel Grey   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OW3HG4Y/?tag=tolees-21'
 descuento: '49.85'
 average: '14.626666666666667'

@@ -16,6 +16,7 @@ comparePrice: 39 EUR
 prodname: 'Geographical Norway Sudadera DE Hombre GYMCLASS B Azul Marino M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y59FYF4/?tag=tolees-21'
 descuento: '30.00'
 average: '27.3'

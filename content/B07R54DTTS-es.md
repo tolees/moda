@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: '【La última Versión Original 2019】Pantalones para Adelgazar  Mallas Deportivas Mujer  Pantalón de Sudoración Adelgazantes  Leggins Anticeluliticos Fitness  Mallas Termicas de Neopreno para Deporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R54DTTS/?tag=tolees-21'
 descuento: '15.10'
 average: '21.99'

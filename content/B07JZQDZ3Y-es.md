@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Malone Vaqueros  Blue Drop Em  29W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZQDZ3Y/?tag=tolees-21'
 descuento: '40.00'
 average: '59.97'

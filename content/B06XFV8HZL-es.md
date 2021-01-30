@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Naranja  Apricot Gingham   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XFV8HZL/?tag=tolees-21'
 descuento: '70.77'
 average: '7.6'

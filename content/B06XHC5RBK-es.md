@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Helly Hansen W HH LIFA 1/2 Zip Camiseta Deportiva  Mujer  Negro  Medium  Tamaño del Fabricante:M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHC5RBK/?tag=tolees-21'
 descuento: '15.88'
 average: '71.5'

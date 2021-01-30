@@ -16,6 +16,7 @@ comparePrice: 10.07 EUR
 prodname: 'MTNG Kanda  Bolso bandolera para Mujer  Marrón  Pull Camel/Gris   7x15x19 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPPC5LL/?tag=tolees-21'
 descuento: '22.14'
 average: '9.7225'

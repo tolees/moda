@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Vapor Vent  Zapatos para Hombre  Gris  Steam/Royal 088   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1XQLG3/?tag=tolees-21'
 descuento: '31.25'
 average: '54.99'

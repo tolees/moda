@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'Real Betis - Temporada 2019/2020 - Kappa - Official Away  Jersey Act  Hombre  Neutro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGZZ5ZD/?tag=tolees-21'
 descuento: '30.27'
 average: '54.39'

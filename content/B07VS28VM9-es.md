@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Izod Faux Down Hooded Parka  Azul  Navy Blazer 410   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS28VM9/?tag=tolees-21'
 descuento: '40.14'
 average: '45.37'

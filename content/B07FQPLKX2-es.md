@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Cammy Glory  Sandalias Punta Cerrada para Mujer  Negro  Black Leather-   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQPLKX2/?tag=tolees-21'
 descuento: '54.00'
 average: '36.17'

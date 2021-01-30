@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Rieker 52513-36  Botines para Mujer  Multicolor  Bordeaux/Schwarz/Leaf/Brandy/Senf 36   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBL79V1/?tag=tolees-21'
 descuento: '48.39'
 average: '37.9'

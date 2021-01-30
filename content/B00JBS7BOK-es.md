@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Kempa Gold Camiseta  Hombre  Amarillo limón/Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JBS7BOK/?tag=tolees-21'
 descuento: '57.42'
 average: '9.79'

@@ -16,6 +16,7 @@ comparePrice: 111.99 EUR
 prodname: 'WISHDOIT Hombre Moda Clásico Negro Ultra-Delgado Acero Inoxidable Reloj de Cuarzo Analógico Impermeable Casual Simple Deportiva Pulsera de Malla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K46WFMQ/?tag=tolees-21'
 descuento: '77.69'
 average: '24.99'

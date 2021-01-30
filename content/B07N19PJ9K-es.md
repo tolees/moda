@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lee Trend Fit Tee  Camiseta para Hombre  Azul  Midnight Navy Ma   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N19PJ9K/?tag=tolees-21'
 descuento: '49.98'
 average: '14.98'

@@ -16,6 +16,7 @@ comparePrice: 17.35 EUR
 prodname: 'G-STAR RAW Pocket Short Sleeve Camiseta  Rosa  Lt Bleach Pink 025-647   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X32LT9V/?tag=tolees-21'
 descuento: '43.40'
 average: '9.82'

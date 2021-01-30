@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Tech Tank-Solid Correr  Camiseta Ancha para Mujer  Gris  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YO740RO/?tag=tolees-21'
 descuento: '30.42'
 average: '16.05'

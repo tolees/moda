@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Meller - Nyasa Glawi Rose - Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WRWW385/?tag=tolees-21'
 descuento: '25.00'
 average: '24.0'

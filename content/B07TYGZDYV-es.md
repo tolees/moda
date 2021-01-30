@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 511 Slim Vaqueros  Gris Dark Slate Sueded Sateen WT B 4426  36W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYGZDYV/?tag=tolees-21'
 descuento: '37.79'
 average: '46.43'

@@ -16,6 +16,7 @@ comparePrice: 15.49 EUR
 prodname: 'Superdry OL Vintage Emb Crew Camiseta  Rosa  Neon Pink Space Dye T3b   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNRJQ8S/?tag=tolees-21'
 descuento: '16.14'
 average: '12.99'

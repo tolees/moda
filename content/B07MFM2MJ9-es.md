@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Ronnie Walk  Zapatos de Cordones Derby para Hombre  Marrón Dark Brown Nub  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFM2MJ9/?tag=tolees-21'
 descuento: '62.22'
 average: '37.76'

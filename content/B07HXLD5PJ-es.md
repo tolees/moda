@@ -16,6 +16,7 @@ comparePrice: 14.8 EUR
 prodname: 'New Look Poplin  Camisa para Hombre  Azul  Light Blue  Medium  Talla del Fabricante: 52 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HXLD5PJ/?tag=tolees-21'
 descuento: '24.05'
 average: '10.253333333333334'

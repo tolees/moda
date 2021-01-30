@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'MTNG 50740  Sandalias con Plataforma para Mujer  Beige  Antil Cuero C35921   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN8Y5L8/?tag=tolees-21'
 descuento: '69.92'
 average: '12.03'

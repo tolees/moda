@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour UA Seamless SS  camiseta de manga corta para hombre  camiseta para correr hombre  Rosa  Hushed Pink/Dash Pink/Metallic Silver  662    XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814SQJR7/?tag=tolees-21'
 descuento: '44.67'
 average: '22.13'

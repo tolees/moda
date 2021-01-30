@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger Tjw Clean Linear Logo tee Camiseta   Purple VF E   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4VXN56/?tag=tolees-21'
 descuento: '40.03'
 average: '20.99'

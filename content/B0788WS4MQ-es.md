@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Tous Nika Sherton  Bolso Bandolera para Mujer   Negro 495900115   19x14x5 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788WS4MQ/?tag=tolees-21'
 descuento: '47.50'
 average: '57.75'

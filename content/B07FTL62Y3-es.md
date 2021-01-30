@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Rider  Vaqueros slim Hombre  Gris  Grey Worn Wf   W32/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTL62Y3/?tag=tolees-21'
 descuento: '43.29'
 average: '56.68'

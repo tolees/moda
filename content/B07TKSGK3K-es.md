@@ -16,6 +16,7 @@ comparePrice: 60.01 EUR
 prodname: 'Clarks Tri Sporty  Sandalias de Talón Abierto para Mujer  Beige  Sage Snake Sage Snake   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKSGK3K/?tag=tolees-21'
 descuento: '43.46'
 average: '33.93'

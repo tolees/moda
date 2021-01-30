@@ -16,6 +16,7 @@ comparePrice: 51.86 EUR
 prodname: 'Mediffen Mujer Tacón De Agujae Elegante Fiesta Vestido Puntiagudo Pump Sin Cordones Tacón Alto Boda Pump Negro Talla 40 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BLQWBV/?tag=tolees-21'
 descuento: '53.93'
 average: '23.89'

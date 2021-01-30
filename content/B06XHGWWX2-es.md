@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'Helly Hansen HH LIFA 1/2 Zip Camiseta Técnica Lana Merino  Hombre  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHGWWX2/?tag=tolees-21'
 descuento: '51.16'
 average: '43.96'

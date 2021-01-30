@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'El Naturalista N5311 Iris Coral  Botines para Mujer  Negro  Black Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGYWND3/?tag=tolees-21'
 descuento: '48.31'
 average: '74.95'

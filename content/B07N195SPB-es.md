@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Lee Logo SWS Sudadera  Azul  Midnight Navy Ma   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N195SPB/?tag=tolees-21'
 descuento: '73.72'
 average: '17.79'

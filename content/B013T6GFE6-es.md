@@ -16,6 +16,7 @@ comparePrice: 16.61 EUR
 prodname: 'Pijama del increíble Hulk para niños desde 2 a 3 años hasta 7 a 8 años verde verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013T6GFE6/?tag=tolees-21'
 descuento: '30.82'
 average: '11.49'

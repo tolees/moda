@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Jack & Jones JJEPAULOS Polo SS Noos Camisa  Ojo  XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083YSM9HH/?tag=tolees-21'
 descuento: '23.54'
 average: '12.99'

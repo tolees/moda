@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Sportstyle Left Chest Camiseta  Hombre  Negro  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XPJJ86/?tag=tolees-21'
 descuento: '16.38'
 average: '23.14333333333333'

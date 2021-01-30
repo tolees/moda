@@ -16,6 +16,7 @@ comparePrice: 3.13 EUR
 prodname: 'LuckyGirls Accesorios de protección Solar de Estilo Elegante Guantes de Boda ahuecados de Encaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZP3MFB9/?tag=tolees-21'
 descuento: '63.58'
 average: '1.14'

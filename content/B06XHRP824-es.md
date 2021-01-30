@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Geox J Kommodor A  Zapatillas para Niñas  Plateado  Dk Silver/Prune   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHRP824/?tag=tolees-21'
 descuento: '52.46'
 average: '30.9'

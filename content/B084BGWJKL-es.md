@@ -16,6 +16,7 @@ comparePrice: 21.63 EUR
 prodname: 'Levi s SS Original Hm tee Camiseta  Charcoal Heather XX  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084BGWJKL/?tag=tolees-21'
 descuento: '39.94'
 average: '12.99'

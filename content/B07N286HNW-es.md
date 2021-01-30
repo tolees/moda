@@ -16,6 +16,7 @@ comparePrice: 6.36 EUR
 prodname: 'KAPORAL OLRIK Camiseta  Blanc White  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N286HNW/?tag=tolees-21'
 descuento: '33.49'
 average: '4.23'

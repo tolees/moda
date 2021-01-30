@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Pullover MARYLEBONE Jersey  Negro  Storm Front 2104   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3SZ2Z6/?tag=tolees-21'
 descuento: '71.26'
 average: '28.645000000000003'

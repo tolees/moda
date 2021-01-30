@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Anillo de plata esterlina Qings 925  Ajustable Abierto Gato Estilo anillo Joyería de moda para Chica adolescente regalo tamaños universales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F37NYDG/?tag=tolees-21'
 descuento: '57.51'
 average: '16.99'

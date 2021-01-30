@@ -16,6 +16,7 @@ comparePrice: 94.78 EUR
 prodname: 'EverVanz Bolsa de Viaje Poliéster  Gran tamaño Bolso del Fin de Semana con Decoración De Cuero  Resistente al Agua Bolsas de Deporte para Actividades al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829TSRVL/?tag=tolees-21'
 descuento: '68.36'
 average: '29.99'

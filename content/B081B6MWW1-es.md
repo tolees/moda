@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Columbia CSC Basic Camiseta de Manga Corta  Hombre  Gris Grey Heather  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B6MWW1/?tag=tolees-21'
 descuento: '38.02'
 average: '16.32333333333333'

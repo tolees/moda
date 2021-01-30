@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Borealis A  Sandalia con Pulsera para Mujer  Rosa  Dk Navy/Fuchsia C4365   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRKB3JM/?tag=tolees-21'
 descuento: '79.71'
 average: '18.24'

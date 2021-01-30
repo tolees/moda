@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Modern Jaspe Camiseta  Blanco  Classic White 100   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD4V5YJ/?tag=tolees-21'
 descuento: '51.72'
 average: '14.0'

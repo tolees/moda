@@ -16,6 +16,7 @@ comparePrice: 43.68 EUR
 prodname: 'Odetina - Sandalias de tacón bajo para mujer  color Blanco  talla 36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YJPMG4/?tag=tolees-21'
 descuento: '50.00'
 average: '21.84'

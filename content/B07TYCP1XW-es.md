@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Farchat Vestidos Mujer Suelto Casual de la Camiseta Cuello Redondo Vestido Azul Oscuro M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYCP1XW/?tag=tolees-21'
 descuento: '31.61'
 average: '11.62'

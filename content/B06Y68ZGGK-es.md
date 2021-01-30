@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'Joma Camiseta Granada Beige-Vino M/C Manga Corta  Hombre  4XS-3XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y68ZGGK/?tag=tolees-21'
 descuento: '72.75'
 average: '5.99'

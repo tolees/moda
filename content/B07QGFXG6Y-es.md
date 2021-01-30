@@ -16,6 +16,7 @@ comparePrice: 14.76 EUR
 prodname: 'PUMA Power BND tee Camiseta  Hombre  Rojo  Rhubarb-Nrgy Red   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGFXG6Y/?tag=tolees-21'
 descuento: '36.86'
 average: '9.776666666666666'

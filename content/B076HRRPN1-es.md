@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas CORE18 TR Top Sudadera  Hombre  Power Red/White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HRRPN1/?tag=tolees-21'
 descuento: '37.20'
 average: '17.090000000000003'

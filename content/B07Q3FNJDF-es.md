@@ -16,6 +16,7 @@ comparePrice: 17.58 EUR
 prodname: 'Tamaris 1-1-25946-33  Botines para Mujer  Marrón  Tobacco 336   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3FNJDF/?tag=tolees-21'
 descuento: '19.57'
 average: '16.009999999999998'

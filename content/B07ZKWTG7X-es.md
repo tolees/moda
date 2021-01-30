@@ -16,6 +16,7 @@ comparePrice: 43.95 EUR
 prodname: 'Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio  Small  Charcoal Melange  1019  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKWTG7X/?tag=tolees-21'
 descuento: '43.23'
 average: '24.95'

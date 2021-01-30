@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Geox J DISCOMIX Girl A  Botines para Niñas  Beige  Dk Beige C5005   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFW8DYQ/?tag=tolees-21'
 descuento: '72.09'
 average: '23.72'

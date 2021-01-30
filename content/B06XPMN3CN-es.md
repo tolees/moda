@@ -16,6 +16,7 @@ comparePrice: 5.47 EUR
 prodname: 'Marca Amazon - find. Pantalón Fruncido para Mujer  Rosa  Pink   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPMN3CN/?tag=tolees-21'
 descuento: '28.34'
 average: '4.3133333333333335'

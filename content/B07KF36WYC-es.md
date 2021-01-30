@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Norse Warp Cool 3721  36W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF36WYC/?tag=tolees-21'
 descuento: '47.73'
 average: '57.5'

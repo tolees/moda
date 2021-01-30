@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Adriel Viola  Zapatos de Tacón para Mujer  Negro  Black Pat   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCJLR69/?tag=tolees-21'
 descuento: '40.00'
 average: '47.97'

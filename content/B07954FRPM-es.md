@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'NIKE M Nk Rpl Park 18 RN Jkt W Chaqueta de Deporte  Hombre  Black/White/ White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07954FRPM/?tag=tolees-21'
 descuento: '23.62'
 average: '27.898'

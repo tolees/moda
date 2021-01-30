@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s 2pk Crewneck Graphic Camiseta  Blanco  2pack tee White/Dress Blues 0002   Medium  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHHRNQ/?tag=tolees-21'
 descuento: '58.03'
 average: '14.69'

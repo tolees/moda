@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Plantillas calentadas  calentadores de pies  plantillas de invierno  plantillas de zapatos calentadas  plantillas de calentador de pies calentadas recargables  tamaño: 40-44 cortado a medida-004'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828TKVV9/?tag=tolees-21'
 descuento: '42.01'
 average: '28.99'

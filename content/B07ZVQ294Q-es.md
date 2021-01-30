@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Levi s Housemark Graphic tee Camiseta  Ssnl Hm Outline Sassafras  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVQ294Q/?tag=tolees-21'
 descuento: '25.01'
 average: '17.99'

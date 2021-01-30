@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'JACK & JONES Jjifred Jjoriginal CR 033 STS Vaqueros Relaxed  Azul  Blue Denim Blue Denim   W31/L30  Talla del Fabricante: 31  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777LWQMV/?tag=tolees-21'
 descuento: '59.99'
 average: '24'

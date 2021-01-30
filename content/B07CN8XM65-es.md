@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Morado  Lavender-Purple 50q   37-38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN8XM65/?tag=tolees-21'
 descuento: '30.01'
 average: '31.49'

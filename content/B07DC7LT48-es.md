@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Platform Slide Wns  Zapatos de Playa y Piscina para Mujer  Azul  Fair Aqua-Fair Aqua   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC7LT48/?tag=tolees-21'
 descuento: '45.03'
 average: '27.46'

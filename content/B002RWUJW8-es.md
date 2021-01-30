@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'CMP - Pantalón de esquí para niños negro negro Talla:98'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002RWUJW8/?tag=tolees-21'
 descuento: '45.06'
 average: '27.450000000000003'

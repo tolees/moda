@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjewashington Shirt L/s STS Camisa  Rojo  Umberslim Fit   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VN3RRHS/?tag=tolees-21'
 descuento: '49.99'
 average: '20.0'

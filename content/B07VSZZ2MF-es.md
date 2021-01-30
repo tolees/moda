@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Brooklyn Straight Hombre Vaqueros  Gris  Moto Flat EB   36W / 30L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSZZ2MF/?tag=tolees-21'
 descuento: '57.77'
 average: '37.99'

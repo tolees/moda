@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Slim jkt Vaqueros  Gris  Faded Stone C052-A951   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSWL732/?tag=tolees-21'
 descuento: '69.32'
 average: '30.66'

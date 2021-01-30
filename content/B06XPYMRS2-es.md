@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Calzado Deportivo Masculino de Seguridad con Puntera Ultraligera de Zapatos de Trabajo al Tobillo Kevlar S1P SRC 1997 Black Hammer Black Hammer  40 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPYMRS2/?tag=tolees-21'
 descuento: '53.76'
 average: '36.99'

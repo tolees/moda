@@ -16,6 +16,7 @@ comparePrice: 2.0 EUR
 prodname: '2 piezas portátil coche auto suspensión asiento monedero bolsa organizador soporte gancho reposacabezas sujetador y clip para coche envío gratis - beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RH6WJH/?tag=tolees-21'
 descuento: '33.50'
 average: '1.33'

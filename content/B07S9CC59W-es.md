@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Emoji Camiseta de Manga Corta para niñas Llama Morado 10-11 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9CC59W/?tag=tolees-21'
 descuento: '30.89'
 average: '8.95'

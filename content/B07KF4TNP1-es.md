@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Levi s SS Original Hm tee Camiseta  Azul  Skyway 0023   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4TNP1/?tag=tolees-21'
 descuento: '40.04'
 average: '16.97'

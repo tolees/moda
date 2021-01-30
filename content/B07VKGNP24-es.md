@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Hackett London Amr Knit Shoulder Camiseta  Azul  595navy 595   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKGNP24/?tag=tolees-21'
 descuento: '59.74'
 average: '48.31'

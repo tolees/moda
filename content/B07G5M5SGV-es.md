@@ -16,6 +16,7 @@ comparePrice: 25.15 EUR
 prodname: 'Wrangler Authentic  Vaqueros Straight  Azul  Blue Mid Stone 14V   30W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5M5SGV/?tag=tolees-21'
 descuento: '21.11'
 average: '19.84'

@@ -16,6 +16,7 @@ comparePrice: 62.9 EUR
 prodname: 'find. Zapatos de Serraje con Cordones Hombre  Beige  Sand   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TWLWTD/?tag=tolees-21'
 descuento: '54.21'
 average: '27.163636363636364'

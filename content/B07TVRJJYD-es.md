@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Camisetas de Baloncesto para niño y niña  Stephen Curry #30 Camiseta de Baloncesto para niño Chaleco Pantalones Cortos de Verano Camiseta NBA Golden State Warriors'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVRJJYD/?tag=tolees-21'
 descuento: '17.66'
 average: '13.988000000000001'

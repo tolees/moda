@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'Joma Winner Sudadera  Hombre  antrac. / Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FB6QTHX/?tag=tolees-21'
 descuento: '31.80'
 average: '14.99'

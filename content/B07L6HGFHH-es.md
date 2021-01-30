@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Under Armour Armour Insulated Chaqueta  Hombre  Negro  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6HGFHH/?tag=tolees-21'
 descuento: '42.21'
 average: '64.17'

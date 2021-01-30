@@ -16,6 +16,7 @@ comparePrice: 21.65 EUR
 prodname: 'Desigual Bols rhapsody Durban - Bolso bandolera  4 x 17 5 x 27 2 cm   color marrón y beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFNKYJG/?tag=tolees-21'
 descuento: '17.14'
 average: '20.020000000000003'

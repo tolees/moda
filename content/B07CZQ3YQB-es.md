@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Blanco  New Red Box Taba White 0370   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZQ3YQB/?tag=tolees-21'
 descuento: '52.04'
 average: '14.363333333333333'

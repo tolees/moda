@@ -16,6 +16,7 @@ comparePrice: 12.46 EUR
 prodname: 'arena 92338  Gafas de Natación Infantil  Multicolor  violet / clear   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GKLOKU/?tag=tolees-21'
 descuento: '29.78'
 average: '8.75'

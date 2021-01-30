@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Imani Chaqueta   Berry Red 280   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQZ8W5/?tag=tolees-21'
 descuento: '33.36'
 average: '62.515'

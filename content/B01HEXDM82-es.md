@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Crocs Classic Clog K  Zuecos Unisex Niños  Amarillo  Lemon   27/28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HEXDM82/?tag=tolees-21'
 descuento: '33.53'
 average: '17.94'

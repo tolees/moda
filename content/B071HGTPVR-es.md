@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LANGRIA Perchero de Pie Metálico Multiusos de Entrada con 2 Estantes 4 Colgadores para Ropa Zapatos  Bolsos  Capacidad MAX 30kg para Hogar Vestidor Pasillo Habitación  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HGTPVR/?tag=tolees-21'
 descuento: '31.65'
 average: '32.535'

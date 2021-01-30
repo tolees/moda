@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Craft Cool Mesh Camiseta Interior para Hombre  Hombre  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001XYAAVG/?tag=tolees-21'
 descuento: '20.14'
 average: '24.633333333333333'

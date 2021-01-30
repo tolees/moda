@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'SELECTED HOMME Shharo Ss Embroidery Polo Noos  Camiseta Polo Hombre  Rosa  Cabaret   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074L3MY1Y/?tag=tolees-21'
 descuento: '64.59'
 average: '8.85'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Swiftwater Sandal Women  Sandalias con Punta Abierta para Mujer  Azul  Navy/White 462B   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0787PGFB1/?tag=tolees-21'
 descuento: '30.01'
 average: '24.49'

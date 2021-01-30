@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Baya  Zuecos Unisex Adulto  Rosa  Party Pink   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078BDJC13/?tag=tolees-21'
 descuento: '26.38'
 average: '29.44'

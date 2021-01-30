@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Levi s Big and Tall 514 B&t Vaqueros Straight  Azul  Roald Rinse 4Way 0014   44W/34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKPK3JK/?tag=tolees-21'
 descuento: '51.04'
 average: '48.96'

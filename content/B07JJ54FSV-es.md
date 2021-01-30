@@ -16,6 +16,7 @@ comparePrice: 6.03 EUR
 prodname: 'Amazon Essentials - Camisa a cuadros de lino con manga corta para hombre.  Raya Azul  US S  EU S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ54FSV/?tag=tolees-21'
 descuento: '30.51'
 average: '4.19'

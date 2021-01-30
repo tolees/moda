@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Glitter Multilicense VR All I Want PJ Conjuntos de Pijama  Gris  Gama Grises 48   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V12JYNN/?tag=tolees-21'
 descuento: '43.75'
 average: '16.87'

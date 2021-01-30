@@ -16,6 +16,7 @@ comparePrice: 70.92 EUR
 prodname: 'Levi s L/S Barstow Western Shirt  Camisa Casual de Manga Larga para Hombre  Azul  Dark IndigoFlat Finish   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VLNXIQS/?tag=tolees-21'
 descuento: '53.31'
 average: '33.11'

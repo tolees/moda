@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger - Elevated Nylon Hanging Washbag  Organizadores de bolso Hombre  Azul  Sky Captain   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5VFDYQ/?tag=tolees-21'
 descuento: '61.83'
 average: '26.2025'

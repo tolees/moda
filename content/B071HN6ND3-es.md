@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger Bikini  Azul  Navy Blazer 416   38  Talla del Fabricante: MD  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HN6ND3/?tag=tolees-21'
 descuento: '29.90'
 average: '13.95'

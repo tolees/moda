@@ -16,6 +16,7 @@ comparePrice: 18.89 EUR
 prodname: 'Cyelk Collar Antiparasitos Perro  contra Garrapatas y Pulgas  Collar Antipulgas Perro Natural Hipoalergénicos para Mascota Pequeño Mediano Grande'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084C2T9CH/?tag=tolees-21'
 descuento: '16.99'
 average: '15.68'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Gafas de Natación y Gorro de Natacion Para Hombres Mujeres Mujer Adultos Jóvenes Niños  Nadar Antiempañado y Anti Rayos UV  Ideal para Todo Tipo de Agua  Piscina  Deportes Acuáticos  Rosa 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088DCNCSG/?tag=tolees-21'
 descuento: '41.97'
 average: '9.86'

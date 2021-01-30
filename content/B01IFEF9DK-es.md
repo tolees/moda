@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Birkenstock Gizeh Eva - Sandalias unisex  Marrón  Copper   38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IFEF9DK/?tag=tolees-21'
 descuento: '15.02'
 average: '33.99'

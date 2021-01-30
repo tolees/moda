@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jprnon Iron Shirt L/s Noos Camisa  Azul  Navy Blazer Fit:Slim Fit   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072ND8YJM/?tag=tolees-21'
 descuento: '43.76'
 average: '22.49'

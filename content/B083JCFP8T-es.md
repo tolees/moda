@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Zapatos de Agua Escarpines Hombres Mujer Niños Verano Zapatillas de Aqua Ligeros de Secado Rápido Playa Piscina Buceo Snorkel Surf Vela Mar Río Yoga Calzado de Natación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083JCFP8T/?tag=tolees-21'
 descuento: '48.35'
 average: '15.49'

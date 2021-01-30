@@ -16,6 +16,7 @@ comparePrice: 42.49 EUR
 prodname: 'Lacoste Croco Slide 119 1 CMA  Sandalias de Punta Descubierta para Hombre  Blanco  White/Green   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FG68M9V/?tag=tolees-21'
 descuento: '55.31'
 average: '18.99'

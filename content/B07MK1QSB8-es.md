@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Napapijri Aerons Vest 2 Chaqueta  Verde  Green Forest 2 GE3   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK1QSB8/?tag=tolees-21'
 descuento: '50.00'
 average: '79.5'

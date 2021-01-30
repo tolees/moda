@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatilla de Deporte Unisexo Adulto  Blanco  C42   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AK8MSNO/?tag=tolees-21'
 descuento: '18.73'
 average: '35.974'

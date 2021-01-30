@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Adidas Altaswim C Jr  Sandalias Unisex Niños  Blanco  Scarlet/FTWR White/Scarlet   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQFDDLM/?tag=tolees-21'
 descuento: '30.10'
 average: '13.98'

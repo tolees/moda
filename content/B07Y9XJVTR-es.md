@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Castellanisimos Zapatos Náuticos de Piel Marron Hombre con Cordones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9XJVTR/?tag=tolees-21'
 descuento: '55.86'
 average: '64.0'

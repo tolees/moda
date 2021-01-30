@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Geographical Norway Chaqueta DE NIÑO BOKER Negro 16'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CDMXXN/?tag=tolees-21'
 descuento: '20.00'
 average: '65.1'

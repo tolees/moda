@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Zapatos de Agua para Buceo Snorkel Surf Piscina Playa Vela Mar Río Aqua Cycling Deportes Acuáticos Calzado de Natación Escarpines para Hombre Mujer Negro  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDGTBP2/?tag=tolees-21'
 descuento: '15.01'
 average: '19.54'

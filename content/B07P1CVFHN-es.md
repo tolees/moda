@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Monedero Movom Cactus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1CVFHN/?tag=tolees-21'
 descuento: '22.22'
 average: '3.5'

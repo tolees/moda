@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Helly Hansen Lifaloft Ligera Chaqueta Aislante  Mujer  Black  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07822VTHT/?tag=tolees-21'
 descuento: '58.12'
 average: '106.19999999999999'

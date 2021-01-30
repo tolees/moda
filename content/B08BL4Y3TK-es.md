@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'ManLee Bolsa de lápiz Multifuncional Estuche de Lápices Bolsa de Lona Premium Bolsa de lápiz Organizador de papelería Bolso Maquillaje 3 Compartimentos Estuche de Gran Capacidad - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BL4Y3TK/?tag=tolees-21'
 descuento: '23.14'
 average: '12.29'

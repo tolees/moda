@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'EverVanz Bolsa de Viaje Lona  Gran tamaño Bolso del Fin de Semana con Decoración De Cuero  Vintage Bolsas de Deporte para Actividades al Aire Libre  Gran Capacidad Bolso para Overnight'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781M1BQP/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Superdry Ls Essentials Helio Padded Jacket Chaqueta  Gris  Grey Marl 07q   L  Talla del fabricante:14  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TN1QWYR/?tag=tolees-21'
 descuento: '75.16'
 average: '24.84'

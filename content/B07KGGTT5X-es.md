@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'BOSS Citravel_2 Blusa  Azul  Bright Blue 439   40  Talla del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGGTT5X/?tag=tolees-21'
 descuento: '55.03'
 average: '34.985'

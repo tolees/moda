@@ -16,6 +16,7 @@ comparePrice: 9.06 EUR
 prodname: 'O NEILL LM 3Ple T-Shirt Camiseta Manga Corta  Hombre  Gris  Silver Melee   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9P79CR/?tag=tolees-21'
 descuento: '16.67'
 average: '7.55'

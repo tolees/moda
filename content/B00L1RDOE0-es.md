@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Cascade Explorer Camisa de Manga Corta  Hombre  Blanco  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L1RDOE0/?tag=tolees-21'
 descuento: '34.59'
 average: '32.7'

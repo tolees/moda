@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox JR Wader A  Zapatillas para Niños  Negro  Black C9999   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792HC9GT/?tag=tolees-21'
 descuento: '64.24'
 average: '21.42'

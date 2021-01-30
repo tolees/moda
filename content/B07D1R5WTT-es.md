@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Negro  Stylo Adv 0857   W28/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1R5WTT/?tag=tolees-21'
 descuento: '32.08'
 average: '63.005'

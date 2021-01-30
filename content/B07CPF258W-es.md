@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Sexi Flip Women  Sandalias para Mujer  Azul  Pool 40m   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPF258W/?tag=tolees-21'
 descuento: '50.58'
 average: '8.5475'

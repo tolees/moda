@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Tous Jacalanda Brunock Chain  Bolso Bandolera para Mujer  Azul  Marino 595900016   19.5x14.5x7 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTKD90H/?tag=tolees-21'
 descuento: '34.83'
 average: '59.43333333333333'

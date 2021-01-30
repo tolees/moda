@@ -16,6 +16,7 @@ comparePrice: 30.81 EUR
 prodname: 'Geox J ALBEN Girl B  Zapatillas de Deporte para Niñas  Azul  Navy/Fuchsia C4268   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSJ97GX/?tag=tolees-21'
 descuento: '19.02'
 average: '24.95'

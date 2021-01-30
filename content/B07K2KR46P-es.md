@@ -16,6 +16,7 @@ comparePrice: 105.16 EUR
 prodname: 'Timberland Dausette Low  Zapatillas Altas para Mujer  Rojo  Dark Brown Nubuck   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2KR46P/?tag=tolees-21'
 descuento: '63.86'
 average: '43.715'

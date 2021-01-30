@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Crocs Athens  Chanclas Unisex Adulto  Marrón  Espresso/Walnut 23b   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZFX2OM/?tag=tolees-21'
 descuento: '81.09'
 average: '6.24'

@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Tommy Jeans Tjw Tommy Fairisle Sweater Sudadera  Blanco  White Yap   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4WW7X8/?tag=tolees-21'
 descuento: '50.39'
 average: '64'

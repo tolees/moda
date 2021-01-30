@@ -16,6 +16,7 @@ comparePrice: 138.6 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Verde  Dk Green Full Grain   47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2G4RF7/?tag=tolees-21'
 descuento: '35.06'
 average: '90.0'

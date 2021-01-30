@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans West Sir Camiseta  Verde  Absynth 625   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N9CGYF8/?tag=tolees-21'
 descuento: '31.14'
 average: '17.102'

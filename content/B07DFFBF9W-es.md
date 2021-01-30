@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Niños Trolley Mochila Escolar Bolso - Niña Niño con Ruedas Equipaje De Viaje para Niños con Bolsa Trolley'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFFBF9W/?tag=tolees-21'
 descuento: '44.01'
 average: '41.99'

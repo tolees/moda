@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Superdry Surplus Goods Coach Jacket Chaqueta  Verde  Green Camo Fdt   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P16DCR3/?tag=tolees-21'
 descuento: '75.26'
 average: '21.795'

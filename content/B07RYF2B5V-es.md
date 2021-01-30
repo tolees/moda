@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Redskins Dynamite Chaqueta  Verde  Kaki Dark Blouson   14 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYF2B5V/?tag=tolees-21'
 descuento: '77.81'
 average: '26.61'

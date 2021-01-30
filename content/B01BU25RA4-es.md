@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Kempa Peak Training Jersey de Entrenamiento  Hombre  Azul Royal/Blanco  XXXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BU25RA4/?tag=tolees-21'
 descuento: '48.01'
 average: '18.16'

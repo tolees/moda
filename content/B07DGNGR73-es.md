@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Timberland City S Edge  Botas Clasicas para Hombre  Marrón  Potting Soil Escape 931   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGNGR73/?tag=tolees-21'
 descuento: '57.66'
 average: '77.98'

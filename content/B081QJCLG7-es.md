@@ -16,6 +16,7 @@ comparePrice: 12.09 EUR
 prodname: 'Tom Tailor Logo T-Shirt Camiseta  12880  XXXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QJCLG7/?tag=tolees-21'
 descuento: '59.97'
 average: '4.84'

@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Trunk Bóxer  Negro  Black/Grey Heather/White 004   XX-Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UBOITQM/?tag=tolees-21'
 descuento: '35.92'
 average: '27.49'

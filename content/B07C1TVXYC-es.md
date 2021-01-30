@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1TVXYC/?tag=tolees-21'
 descuento: '41.68'
 average: '19.717272727272725'

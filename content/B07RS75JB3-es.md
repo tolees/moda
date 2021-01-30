@@ -16,6 +16,7 @@ comparePrice: 19.19 EUR
 prodname: 'JACK & JONES Jcosteve Shirt LS Worker Camisa  Azul  Chambray Blue Fit:/Slim   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS75JB3/?tag=tolees-21'
 descuento: '35.28'
 average: '16.856666666666666'

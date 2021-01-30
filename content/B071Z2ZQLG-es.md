@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Azul  Navy Blazer 416   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071Z2ZQLG/?tag=tolees-21'
 descuento: '50.08'
 average: '19.91'

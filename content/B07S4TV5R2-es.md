@@ -16,6 +16,7 @@ comparePrice: 102.33 EUR
 prodname: 'Levi s 724 High Rise Straight Vaqueros  Azul  Los Angeles Steeze 0076   W32/L30  Talla del Fabricante: 32 30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4TV5R2/?tag=tolees-21'
 descuento: '50.76'
 average: '50.39'

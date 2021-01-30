@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Lee Essential Logo SWS Sudadera  Gris  Grey Mele MP   XXX-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1BX6MS/?tag=tolees-21'
 descuento: '84.33'
 average: '10.96'

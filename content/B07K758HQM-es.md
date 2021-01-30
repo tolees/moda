@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Aegean Adapt  31W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K758HQM/?tag=tolees-21'
 descuento: '42.74'
 average: '62.99'

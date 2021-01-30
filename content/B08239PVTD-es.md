@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s The tee Camiseta  Serif con Caviar De Cactus  M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08239PVTD/?tag=tolees-21'
 descuento: '51.83'
 average: '14.45'

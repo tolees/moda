@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Women s Secret Mickey Vintage Mv DS Allover PJ FR Conjuntos de Pijama  Gris  Gama Grises 49   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY1GF12/?tag=tolees-21'
 descuento: '48.19'
 average: '18.13'

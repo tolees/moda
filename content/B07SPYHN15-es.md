@@ -16,6 +16,7 @@ comparePrice: 35.89 EUR
 prodname: 'New front Zapatos de Princesa Niñas Bailarina Sandalias Festivo Tacón Disfraz de Elsa Frozen Fiesta Chica Verano Brillando Zapatilla de Ballet Cosplay Danza Boda Carnaval Cumpleaños Regalo EU 24-36 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPYHN15/?tag=tolees-21'
 descuento: '33.44'
 average: '23.89'

@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'LEGO Star Wars Cm Sudadera  Amarillo  Yellow 222   104 para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWMT2NW/?tag=tolees-21'
 descuento: '27.18'
 average: '8.01'

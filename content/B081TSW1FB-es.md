@@ -16,6 +16,7 @@ comparePrice: 15.17 EUR
 prodname: 'adidas Mono Jersey Pol T-Shirt  Hombre  Night Marine/White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TSW1FB/?tag=tolees-21'
 descuento: '27.36'
 average: '11.02'

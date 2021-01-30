@@ -16,6 +16,7 @@ comparePrice: 115 EUR
 prodname: 'Levi s 512 Slim Taper Fit Vaqueros Tapered  Azul  Cedar Light Mid Overt ADV Tnl 0492   30W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2SX5QM/?tag=tolees-21'
 descuento: '30.00'
 average: '80.5'

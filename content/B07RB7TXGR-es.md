@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Pike Lake Chaqueta  Mujer  Amarillo  Raw Honey   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB7TXGR/?tag=tolees-21'
 descuento: '32.31'
 average: '87.99'

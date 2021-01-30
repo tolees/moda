@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Lupa con Luz Led - Rightwell Gafas Lupa de Aumento con Luz para Modelismo Reparaciones Coser Soldadura Eliminar Piojos Pegar Piezas Pequeñas Joyería y Relojería - 5 Lentes Intercambiables 1X-3.5X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GTF06PS/?tag=tolees-21'
 descuento: '25.09'
 average: '16.746666666666666'

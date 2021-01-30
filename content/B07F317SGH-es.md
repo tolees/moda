@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Helly Hansen Hp Ocean Fz Hoodie  Sudadera para Hombre  Gris  Gris 949   XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F317SGH/?tag=tolees-21'
 descuento: '57.51'
 average: '53.79166666666667'

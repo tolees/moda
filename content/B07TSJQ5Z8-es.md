@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Only Onlastrid Marie Coat Otw Abrigo  Color Negro  M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSJQ5Z8/?tag=tolees-21'
 descuento: '75.73'
 average: '14.56'

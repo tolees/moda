@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Aibrou Camiseta Lactancia Mujer Verano Camisetas Premama Manga Corta Ropa Premamá Camisetas de Algodon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9JSMBR/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

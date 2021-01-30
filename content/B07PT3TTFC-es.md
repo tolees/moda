@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'ITALY MORN Pantalón para Hombre Casual Chino Jogging Algodón  XS  Caqui '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT3TTFC/?tag=tolees-21'
 descuento: '49.29'
 average: '34.99'

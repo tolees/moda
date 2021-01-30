@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mishansha Mujer Botas de Nieve Mujer Botines Zapatos Senderismo Impermeables Deportes Trekking Zapatos Impermeable Botas de Invierno Fur Forro Aire Libre Boots Rosa 38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WH158VW/?tag=tolees-21'
 descuento: '28.01'
 average: '28.79'

@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW Revend Skinny Vaqueros  Antic Faded Ripped Ash  29W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RF197MS/?tag=tolees-21'
 descuento: '74.98'
 average: '55.239999999999995'

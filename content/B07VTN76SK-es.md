@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Only Onlbeccy Crop7/8 Faux Leather Jacket Otw Chaqueta  Negro  Black Black   Small  Talla del Fabricante: 36  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTN76SK/?tag=tolees-21'
 descuento: '54.83'
 average: '24.84'

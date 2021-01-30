@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Timberland Squall Canyon WT Pull ON MARRÓN TB0A296N9011'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08521YFFF/?tag=tolees-21'
 descuento: '57.65'
 average: '76.23'

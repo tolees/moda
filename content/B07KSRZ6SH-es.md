@@ -16,6 +16,7 @@ comparePrice: 47.97 EUR
 prodname: 'AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Rosa Rojo Citrina Cuadrado Líneas Citrina 1.2x1.8CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSRZ6SH/?tag=tolees-21'
 descuento: '64.58'
 average: '16.99'

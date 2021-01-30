@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES JORSHAREE Puffer Jacket Chaqueta  Azul Forest Night  XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7KWCHW/?tag=tolees-21'
 descuento: '54.13'
 average: '36.195'

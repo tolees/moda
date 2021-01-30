@@ -16,6 +16,7 @@ comparePrice: 200.75 EUR
 prodname: 'Timberland Waterville 6 Inch Basic Waterproof  Botas para Mujer  Naranja  Light Orange Nubuck   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K326FRR/?tag=tolees-21'
 descuento: '71.48'
 average: '57.26'

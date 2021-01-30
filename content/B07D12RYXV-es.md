@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour UA Launch Sw Split Short - Pantalón Corto  Hombre  Negro Black/Reflective 001  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D12RYXV/?tag=tolees-21'
 descuento: '44.20'
 average: '22.563333333333333'

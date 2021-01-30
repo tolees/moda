@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Geox D Calinda High A  Botines para Mujer  Marrón  Chestnut C6004   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV9DJ2/?tag=tolees-21'
 descuento: '74.84'
 average: '33.96'

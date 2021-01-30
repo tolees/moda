@@ -16,6 +16,7 @@ comparePrice: 40.31 EUR
 prodname: 'Geox B Flexyper Boy B  Zapatillas para Bebés  Blanco  White/Blue C0006   23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVNWTKH/?tag=tolees-21'
 descuento: '24.16'
 average: '30.57'

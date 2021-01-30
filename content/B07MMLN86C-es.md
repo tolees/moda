@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri BIBU H Sudadera con Capucha  Verde  Green Forest 2 GE3   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLN86C/?tag=tolees-21'
 descuento: '60.00'
 average: '39.6'

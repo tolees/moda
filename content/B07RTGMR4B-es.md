@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'LARNMERN Zapatillas de Seguridad para Hombre  Verano Ligero Anti Pinchazo Zapatos Trabajo Zapatilla de Seguridad Velcro M339  42 EU  Verano Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTGMR4B/?tag=tolees-21'
 descuento: '59.99'
 average: '30'

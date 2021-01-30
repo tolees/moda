@@ -16,6 +16,7 @@ comparePrice: 9.18 EUR
 prodname: 'Springfield 2.T. Print Vestido  Negro  Negro 1   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ3XV9D/?tag=tolees-21'
 descuento: '18.85'
 average: '7.45'

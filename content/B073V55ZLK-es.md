@@ -16,6 +16,7 @@ comparePrice: 38.32 EUR
 prodname: 'OPUS Seconda Camiseta de Manga Larga  Rosa  Pink Melange 4069   38 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073V55ZLK/?tag=tolees-21'
 descuento: '65.68'
 average: '13.15'

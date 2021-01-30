@@ -16,6 +16,7 @@ comparePrice: 166.15 EUR
 prodname: 'Levi s Wool Bf Sherpa Trucker Amazon Exclusive - Chaqueta para Mujer  Multicolor  Kaffir Oatmeal 2   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QNH5XT/?tag=tolees-21'
 descuento: '72.53'
 average: '45.64'

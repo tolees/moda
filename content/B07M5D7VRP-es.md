@@ -16,6 +16,7 @@ comparePrice: 85.47 EUR
 prodname: 'Salewa WS Alpenviolet Mid GTX  Zapatos de High Rise Senderismo para Mujer  Azul Ombre Blue Fluor Coral 3848  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5D7VRP/?tag=tolees-21'
 descuento: '30.00'
 average: '59.83'

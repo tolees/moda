@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Springfield Web Naming Stripes-C/41 Camiseta  Gris  Dark Grey 41   XL  Tamaño del Fabricante: XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W72HFCD/?tag=tolees-21'
 descuento: '53.89'
 average: '5.99'

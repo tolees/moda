@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Millet Friction  Zapatos de Escalada Unisex Adulto  Gris  Deep Grey-Anthracite 1229   37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RBWFP0K/?tag=tolees-21'
 descuento: '19.26'
 average: '112.99'

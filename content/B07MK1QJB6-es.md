@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Napapijri Avio Chaqueta  Rojo  Red Scarlet R01   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK1QJB6/?tag=tolees-21'
 descuento: '74.01'
 average: '94.26666666666667'

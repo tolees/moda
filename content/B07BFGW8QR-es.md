@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Silver Ridge II Pantalón Capri  Hombre  Gris  Grill   W36/L21'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFGW8QR/?tag=tolees-21'
 descuento: '39.17'
 average: '36.49'

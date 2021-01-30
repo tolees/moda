@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Desigual Coat SIGRUN Abrigo  blanco  Blanco 1000   40 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3BQLFH/?tag=tolees-21'
 descuento: '64.01'
 average: '46.96'

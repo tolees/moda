@@ -16,6 +16,7 @@ comparePrice: 24.03 EUR
 prodname: 'CARE OF by PUMA Sudadera de manga larga con cuello redondo para hombre  Negro  Black   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PS6BLXP/?tag=tolees-21'
 descuento: '36.00'
 average: '15.38'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour UA Challenger II Pantalones para Hombre  Ajustado pantalón de chándal  Pantalones Largos ultraligeros y de Secado rápido  Midnight Navy/Graphite  410   MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XBNK11/?tag=tolees-21'
 descuento: '48.91'
 average: '23.4125'

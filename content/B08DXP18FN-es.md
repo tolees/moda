@@ -16,6 +16,7 @@ comparePrice: 12.96 EUR
 prodname: 'Ocobudbxw Pulseras Coloridas Cuentas de Dados de acrílico Pulseras elásticas Juego Divertido Pulseras de Dados de la Suerte Moda para Mujer Joyas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DXP18FN/?tag=tolees-21'
 descuento: '50.00'
 average: '6.48'

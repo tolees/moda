@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES Jcoglobe Parka  Verde  Forest Night Forest Night   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGJ6MYS/?tag=tolees-21'
 descuento: '70.00'
 average: '32.0'

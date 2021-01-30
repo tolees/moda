@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Wrangler LS 1pkt Bdown Shirt Camisa  Azul  Dress Blue X20   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2BWTLN/?tag=tolees-21'
 descuento: '65.94'
 average: '20.42'

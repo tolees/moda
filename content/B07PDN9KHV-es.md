@@ -16,6 +16,7 @@ comparePrice: 52.95 EUR
 prodname: 'XTI 49473  Botines para Mujer  Negro  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDN9KHV/?tag=tolees-21'
 descuento: '60.00'
 average: '21.18'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'morpilot Collar LED Luz Perro  6PCS Luces de Seguridad Coloridas para Perros y Gatos  Collar Luminoso Perro Impermeable  Colgante Luz Perro LED Noche con 3 Modos de Parpadeo  6 Baterías Adicionales '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089GP4VCC/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

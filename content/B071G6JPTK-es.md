@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Tommy Hilfiger Hampton Down Parka Abrigo  Azul  Sky Captain   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071G6JPTK/?tag=tolees-21'
 descuento: '35.00'
 average: '259.35'

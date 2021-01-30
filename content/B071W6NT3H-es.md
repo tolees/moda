@@ -16,6 +16,7 @@ comparePrice: 84.9 EUR
 prodname: 'Fluchos- retail ES Spain 8499  Zapatos sin Cordones Hombre  Marrón  Castaño   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071W6NT3H/?tag=tolees-21'
 descuento: '31.50'
 average: '60.57666666666666'

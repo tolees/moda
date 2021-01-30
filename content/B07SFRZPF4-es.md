@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen HH Logo Hoodie Sudadera con Capucha  Hombre  Azul Royal  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFRZPF4/?tag=tolees-21'
 descuento: '54.54'
 average: '31.82'

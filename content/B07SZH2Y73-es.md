@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Tikea Bolsa Geométrica Luminosa Holográfica para Mujer  Cartera de Mano de Moda en Cuero Sintético  Clutch Diamante con Correa de Cadena Efecto Brillante Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZH2Y73/?tag=tolees-21'
 descuento: '47.07'
 average: '17.99'

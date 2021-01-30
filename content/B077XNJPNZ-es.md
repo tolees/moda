@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Hombre MK1 Short Sleeve EU SMU  Camiseta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XNJPNZ/?tag=tolees-21'
 descuento: '48.60'
 average: '17.99'

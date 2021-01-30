@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'Gafas de Presbicia con Filtro Anti Luz Azul para Ordenador. Gafas Graduadas de Lectura para Hombre y Mujer. Tacto Goma y Cristales Anti-reflejantes. Indigo +1.5 – ARKEN SCREEN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5JZZ1K/?tag=tolees-21'
 descuento: '33.42'
 average: '22.91'

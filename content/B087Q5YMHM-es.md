@@ -16,6 +16,7 @@ comparePrice: 47.88 EUR
 prodname: 'TAOFFEN Mujer Canvas Shoes Punta Redonda Zapatos para Caminar Planos sin Cordones Zapatos Escuela Orange Talla 37 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087Q5YMHM/?tag=tolees-21'
 descuento: '50.13'
 average: '23.88'

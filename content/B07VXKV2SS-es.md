@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger TJM Bold tee Camiseta  Azul  Exotic Teal Stripe 0a8   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXKV2SS/?tag=tolees-21'
 descuento: '39.31'
 average: '21.24'

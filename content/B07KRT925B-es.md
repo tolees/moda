@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Silver Ridge 2.0 Pantalón de Senderismo Nailon  Mujer  Beige  Fossil   Talla US: W6/R/  EU W38/R '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRT925B/?tag=tolees-21'
 descuento: '55.50'
 average: '28.92'

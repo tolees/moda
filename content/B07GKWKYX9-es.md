@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'FITTOO Mujeres PU Leggins Cuero Brillante Pantalón Elásticos Pantalones para Mujer200#3 Terciopelo Fino Chica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKWKYX9/?tag=tolees-21'
 descuento: '15.80'
 average: '15.99'

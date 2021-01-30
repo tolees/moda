@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Havaianas Slim  Chanclas para Mujer  Negro  Black 0090   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000W8AMR6/?tag=tolees-21'
 descuento: '30.54'
 average: '17.043333333333333'

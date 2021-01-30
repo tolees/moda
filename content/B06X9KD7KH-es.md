@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Kayhan Hombre Camisa  TwoFace Bordeaux M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9KD7KH/?tag=tolees-21'
 descuento: '42.72'
 average: '19.99'

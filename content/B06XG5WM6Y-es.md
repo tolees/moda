@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Azul  Navy Polka   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XG5WM6Y/?tag=tolees-21'
 descuento: '70.00'
 average: '6.365714285714285'

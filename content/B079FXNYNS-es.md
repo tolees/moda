@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Sportstyle Cotton Logo Shorts  Pantalón Corto Hombre  Negro  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FXNYNS/?tag=tolees-21'
 descuento: '17.43'
 average: '28.9'

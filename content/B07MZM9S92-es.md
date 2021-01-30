@@ -16,6 +16,7 @@ comparePrice: 82.79 EUR
 prodname: 'Pepe Jeans Jay Chaqueta   Black 999   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZM9S92/?tag=tolees-21'
 descuento: '37.83'
 average: '51.47'

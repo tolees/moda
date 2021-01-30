@@ -16,6 +16,7 @@ comparePrice: 51.9 EUR
 prodname: 'Sandalias de Mujer con Cuna de Yute  Pala Trenzada y Correa con Hebilla en el Tobillo. Primavera Verano 2020. Talla 36 Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085J1KYFG/?tag=tolees-21'
 descuento: '50.00'
 average: '25.95'

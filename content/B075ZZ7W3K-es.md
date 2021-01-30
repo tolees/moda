@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'JACK & JONES Jacbasic Crew Neck tee SS 2 Pack Camiseta  Negro Black  XX-Large  Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZZ7W3K/?tag=tolees-21'
 descuento: '40.02'
 average: '11.219999999999999'

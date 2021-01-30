@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Kickers Holster  Zapatos de Cordones Derby para Mujer  Beige  Beige 11   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNKYZKH/?tag=tolees-21'
 descuento: '60.72'
 average: '38.89'

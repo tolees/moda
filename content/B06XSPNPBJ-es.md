@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Pepe Jeans New Virginia  Camiseta Para Mujer  Azul  Navy   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSPNPBJ/?tag=tolees-21'
 descuento: '23.82'
 average: '16.182000000000002'

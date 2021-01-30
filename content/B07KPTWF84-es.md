@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'MaxMuxun Sandalias de Tacón con Correa del Tobillo Azul Claro Modo Clásico para Fiesta Mujer Talla 39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPTWF84/?tag=tolees-21'
 descuento: '32.57'
 average: '28.99'

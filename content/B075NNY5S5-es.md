@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'FitFlop Lulu Cross Slide  Sandalias de Punta Descubierta para Mujer  Black  Black 001   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NNY5S5/?tag=tolees-21'
 descuento: '38.15'
 average: '49.48'

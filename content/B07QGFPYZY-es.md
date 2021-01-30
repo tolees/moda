@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA Last Lap Hoodless Jacket Chaqueta De Entrenamiento  Mujer  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGFPYZY/?tag=tolees-21'
 descuento: '20.03'
 average: '31.95'

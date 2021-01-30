@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Under Armour UA SC 3ZER0 III  Zapatos de Baloncesto para Hombre  Azul  Harbour Blue/Khaki Base/Wire  402  402   51.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2KQGD5/?tag=tolees-21'
 descuento: '52.41'
 average: '47.59'

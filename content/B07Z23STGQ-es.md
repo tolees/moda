@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Vans Spicoli 4 Shades Gafas de sol  Negro  Black/Charcoal Checkerboard   50.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z23STGQ/?tag=tolees-21'
 descuento: '15.73'
 average: '12.0'

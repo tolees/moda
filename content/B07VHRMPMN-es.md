@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Esprit 099ee1g043 Abrigo  Gris  Anthracite 010   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHRMPMN/?tag=tolees-21'
 descuento: '64.29'
 average: '49.99'

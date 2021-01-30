@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'MLMLANT Guantes de Barbacoa  Resistentes Al Calor Extremo hasta 1472℉  certificación EN407  Guantes de Cocina Antideslizante para Parrilla  Hornear  Cocinar 1 Par  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRVVFZP/?tag=tolees-21'
 descuento: '26.33'
 average: '14.49'

@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'JOGVELO Maillot Ciclismo  Ropa Ciclismo Conjunto Hombre Mangas Largas Jersey + Culotes Ciclismo Reflectante Transpirable  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GPQ6WYN/?tag=tolees-21'
 descuento: '23.53'
 average: '38.99'

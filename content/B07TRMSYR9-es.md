@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s tee Camiseta  Rojo  Tomato 0082   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRMSYR9/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

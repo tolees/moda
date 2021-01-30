@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Pepe Jeans Elizabeth Pl401677 Chaqueta   Oyster 805   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWQG5BH/?tag=tolees-21'
 descuento: '57.00'
 average: '33.792500000000004'

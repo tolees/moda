@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Hombre Mujer Zapatillas de Deportes Zapatos Sneakers Running Deportivos Aire Libre para Correr Calzado Grey Pink 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WS74M9X/?tag=tolees-21'
 descuento: '39.67'
 average: '34.99'

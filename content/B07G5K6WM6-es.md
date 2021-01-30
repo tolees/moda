@@ -16,6 +16,7 @@ comparePrice: 19.04 EUR
 prodname: 'find. 2 Pack Slim Shirt - Camisa Hombre  Multicolor  Contrast Blue With White / White   39 cm  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5K6WM6/?tag=tolees-21'
 descuento: '56.83'
 average: '8.22'

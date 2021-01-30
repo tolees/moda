@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Voqeen Mujer Bikini de Gradiente de Color Establece Retro Empuja hacia Arriba Dos Piezas Acolchadas Lunares/Rayas/Cristal Impresa Ropa de Playa Traje de baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWPTXJ5/?tag=tolees-21'
 descuento: '31.23'
 average: '11.656666666666666'

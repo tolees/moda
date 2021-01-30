@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Women s Secret PF Carey Sw Conjuntos de Bikini  Rojo  Red 60    Tamaño del Fabricante:M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZ7YSPG/?tag=tolees-21'
 descuento: '56.30'
 average: '19.43'

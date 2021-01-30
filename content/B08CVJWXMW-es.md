@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Ganchos Carrito Bebé  6 Piezas Ganchos para Silla de Paseo Gancho para Carro de Bebé Bolso de Cambio de Compras Gancho Giratorio Universal Seguro Cochecito Ganchos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVJWXMW/?tag=tolees-21'
 descuento: '22.25'
 average: '6.99'

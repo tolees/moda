@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'edc by Esprit 019cc1f005 Blusa  Blanco  Off White 110   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFVQKGH/?tag=tolees-21'
 descuento: '69.72'
 average: '12.11'

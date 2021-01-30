@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'LYSHION Mochilas para Pañales Biberones Pañal Bolso Mochila Multifuncional de Gran Capacidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCFBPYJ/?tag=tolees-21'
 descuento: '62.99'
 average: '9.99'

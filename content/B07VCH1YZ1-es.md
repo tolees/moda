@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'HUGO Ernie Camisa de Oficina  Beige  Dark Beige 251   41 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCH1YZ1/?tag=tolees-21'
 descuento: '77.11'
 average: '20.59'

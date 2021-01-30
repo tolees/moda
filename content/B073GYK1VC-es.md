@@ -16,6 +16,7 @@ comparePrice: 10.35 EUR
 prodname: 'Marca Amazon - find. Off The Shoulder Button  Camisa para Mujer  Multicolor  Blue/White Stripes   42  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073GYK1VC/?tag=tolees-21'
 descuento: '24.83'
 average: '8.71'

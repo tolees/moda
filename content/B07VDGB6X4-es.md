@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Esprit 099ee1g006 Abrigo  Gris  Dark Grey 020   XX-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDGB6X4/?tag=tolees-21'
 descuento: '69.85'
 average: '51.26'

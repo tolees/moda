@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Jaylon E  Botas Clasicas para Hombre  Marrón  Dk Coffee C6024   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRN2QW/?tag=tolees-21'
 descuento: '51.70'
 average: '57.91'

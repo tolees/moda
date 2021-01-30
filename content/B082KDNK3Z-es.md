@@ -16,6 +16,7 @@ comparePrice: 49.98 EUR
 prodname: 'Calentador de Cera Profesional  Nivlan Calentador de Cera Para Cabello con 5 Frijoles Cera Dura y 30 Aplicadores  Kit de Depilación sin Dolor para Cejas Piernas Axilas Faciale Bikini Brasileño en Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KDNK3Z/?tag=tolees-21'
 descuento: '33.99'
 average: '32.99'

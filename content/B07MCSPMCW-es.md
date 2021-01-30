@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Napapijri Avio Chaqueta  Azul  BLU Marine 176   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPMCW/?tag=tolees-21'
 descuento: '67.40'
 average: '130.09'

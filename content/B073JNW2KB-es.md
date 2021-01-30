@@ -16,6 +16,7 @@ comparePrice: 7.35 EUR
 prodname: 'find. Camiseta Manga Larga Hombre  Marfil  Off White   50  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JNW2KB/?tag=tolees-21'
 descuento: '42.86'
 average: '4.705'

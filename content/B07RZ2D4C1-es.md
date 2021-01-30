@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'BILLABONG Bus Stop Jacket Chaqueta Deportiva  Hombre  Negro  Black 19   One Size  Tamaño del Fabricante: XS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ2D4C1/?tag=tolees-21'
 descuento: '53.35'
 average: '41.52'

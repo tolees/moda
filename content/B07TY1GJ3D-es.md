@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Trendy Floral TF Bugambilia PJ Conjuntos de Pijama  Multicolor  Gama Rosas/Morados 78   Small  Tamaño del Fabricante: S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY1GJ3D/?tag=tolees-21'
 descuento: '62.45'
 average: '11.26'

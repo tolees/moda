@@ -16,6 +16,7 @@ comparePrice: 13.63 EUR
 prodname: 'FIND Kitten Heel Court Zapatos de Tacón  Negro  Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTRJSNC/?tag=tolees-21'
 descuento: '53.48'
 average: '6.34'

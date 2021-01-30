@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Scarlett Jeans Vaqueros Skinny  Azul  Flight Wj   30W / 29L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTH9WNN/?tag=tolees-21'
 descuento: '49.99'
 average: '49.98'

@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'REEF R2026ALB  Chanclas Hombre  Marrón  Brown / Gum   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZUY5LUU/?tag=tolees-21'
 descuento: '57.77'
 average: '24.356666666666666'

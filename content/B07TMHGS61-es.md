@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Levi s Graphic Po Hoodie- B Sudadera  Azul  Hm Ssnl Tonal Pop Skyway 0108   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHGS61/?tag=tolees-21'
 descuento: '50.15'
 average: '33.67'

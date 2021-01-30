@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Dark Blue/White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1G72DH/?tag=tolees-21'
 descuento: '28.71'
 average: '25.8375'

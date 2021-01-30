@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Desigual Bols Lazarus Barrel - Bolso para mujer  color negro  12.50 x 12.50 x 24 50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XPDJRHW/?tag=tolees-21'
 descuento: '50.43'
 average: '26.60142857142857'

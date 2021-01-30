@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Suhctup Funda Compatible con Sony Xperia 20 Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087P9YDY9/?tag=tolees-21'
 descuento: '31.29'
 average: '10.98'

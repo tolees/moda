@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Brace Master MMA Guantes UFC Guantes de Cuero Más Acolchado para Hombres Mujeres Knuckle Wrist Protection  Guantes de Entrenamiento sin Dedos  Kickboxing  L  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB25T3Q/?tag=tolees-21'
 descuento: '42.87'
 average: '19.99'

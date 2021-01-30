@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'KTOL Personalidad Chanclas de Piscina para Hombre  Elegante Verano Chanclas Unisex Adulto Antideslizante Impermeable Casual Playa Zapatos Mar Aire Libre Sandalias-Azul 40 EU 25cm 9.8In '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PF3GTCH/?tag=tolees-21'
 descuento: '41.87'
 average: '24.99'

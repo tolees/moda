@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'CARE OF by PUMA Sudadera con capucha de manga larga para hombre  ajuste alto  light grey  3XL  Label: 3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PS6LZ54/?tag=tolees-21'
 descuento: '49.30'
 average: '13.69'

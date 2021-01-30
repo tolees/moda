@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Dickies Sacramento Relaxed Long Sleeve Shirt Camisa  Rojo Red RDX  X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2M4GTM/?tag=tolees-21'
 descuento: '53.02'
 average: '25.84'

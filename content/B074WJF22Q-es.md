@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello Pico  Gris  Charcoal Marl   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WJF22Q/?tag=tolees-21'
 descuento: '55.34'
 average: '15.14'

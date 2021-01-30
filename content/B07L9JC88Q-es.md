@@ -16,6 +16,7 @@ comparePrice: 13.37 EUR
 prodname: 'Under Armour Graphic Script Logo Fashion SSC Camisa Manga Corta  Mujer  Azul  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9JC88Q/?tag=tolees-21'
 descuento: '19.37'
 average: '10.78'

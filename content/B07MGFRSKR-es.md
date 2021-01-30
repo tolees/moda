@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Napapijri ABRAHA Chaqueta  Verde  Green Forest 2 GE3   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFRSKR/?tag=tolees-21'
 descuento: '63.86'
 average: '89.99'

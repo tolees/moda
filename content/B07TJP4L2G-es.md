@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Alice Flame  Zapatos de Tacón para Mujer  Azul  Blush Leather Blush Leather   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJP4L2G/?tag=tolees-21'
 descuento: '71.59'
 average: '22.71'

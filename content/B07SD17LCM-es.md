@@ -16,6 +16,7 @@ comparePrice: 13.6 EUR
 prodname: 'PUMA DIVECAT V2  Sandalias deslizantes Unisex Adulto  Azul  Dark Denim/Palace Blue   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD17LCM/?tag=tolees-21'
 descuento: '33.97'
 average: '8.98'

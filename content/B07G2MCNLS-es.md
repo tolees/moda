@@ -16,6 +16,7 @@ comparePrice: 21.57 EUR
 prodname: 'Marca Amazon - AURIQUE Super Soft Contrast Print - Mallas de entrenamiento Mujer  Negro  Black/Floral Print   38  Label:S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2MCNLS/?tag=tolees-21'
 descuento: '22.11'
 average: '16.8'

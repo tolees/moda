@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jjewashington Shirt L/s STS Camisa  Verde  Olive Nightgrün   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGP9PSF/?tag=tolees-21'
 descuento: '72.47'
 average: '11.01'

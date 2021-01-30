@@ -16,6 +16,7 @@ comparePrice: 6.27 EUR
 prodname: 'Marca Amazon - find. Flat Gladiator Sandalias de Gladiador  Schwarz  Zebra   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZW5KJZM/?tag=tolees-21'
 descuento: '16.59'
 average: '5.796666666666667'

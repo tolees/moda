@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Kappa Fredo Pantalón Corto  Hombre  Azul Marino  YL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0ZNA4P/?tag=tolees-21'
 descuento: '31.31'
 average: '10.182500000000001'

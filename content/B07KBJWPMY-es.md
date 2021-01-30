@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo  Marrón  Silver Mink Silver Mink   44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KBJWPMY/?tag=tolees-21'
 descuento: '35.28'
 average: '25.88'

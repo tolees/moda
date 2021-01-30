@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta  Azul  Mazarine Blue 4213   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL73KD/?tag=tolees-21'
 descuento: '50.02'
 average: '14.97'

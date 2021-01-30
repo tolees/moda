@@ -16,6 +16,7 @@ comparePrice: 58.43 EUR
 prodname: 'P.KU.VDSL® Mochilas tipo casual / Mochila Vintage de Lona y Cuero / Bolso Casual para Viajes / Bolsa de Escuela / Unisex mochila de a diario / Portátil Bolsa - adecuada para 15  cuaderno  Gris Oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0194ODQ1M/?tag=tolees-21'
 descuento: '26.27'
 average: '43.08'

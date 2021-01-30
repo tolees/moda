@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Fossil Collar para Hombre JF03175040'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNGNPHF/?tag=tolees-21'
 descuento: '50.85'
 average: '29.0'

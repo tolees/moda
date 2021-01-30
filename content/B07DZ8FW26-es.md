@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Columbia Mission Air Chaqueta Interchange  Hombre  Azul  Dark Mountain   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DZ8FW26/?tag=tolees-21'
 descuento: '46.35'
 average: '87.9'

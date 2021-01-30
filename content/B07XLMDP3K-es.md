@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Jack & Jones JJICHRIS Jjoriginal CR 097 Vaqueros Relaxed  Azul  Blue Denim Blue Denim   32W x 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLMDP3K/?tag=tolees-21'
 descuento: '67.54'
 average: '19.47'

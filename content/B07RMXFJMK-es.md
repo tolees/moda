@@ -16,6 +16,7 @@ comparePrice: 34.5 EUR
 prodname: 'SimpleLife Bolso Bandolera de Las Mujeres  holográfica Transparente pequeño PVC Bandolera Bandolera Bolsa de Mensajero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMXFJMK/?tag=tolees-21'
 descuento: '50.00'
 average: '17.25'

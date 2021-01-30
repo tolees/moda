@@ -16,6 +16,7 @@ comparePrice: 185.35 EUR
 prodname: 'G.I.G.A. DX Hakawa - Parka de Invierno con Capucha Desmontable para Mujer  Mujer  34334-000  Azul Oscuro  38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5PDRGX/?tag=tolees-21'
 descuento: '45.54'
 average: '100.95'

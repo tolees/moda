@@ -16,6 +16,7 @@ comparePrice: 210.32 EUR
 prodname: 'Timberland 6 Inch Premium Waterproof  Botas para Mujer  Rojo  Dark Red Nubuck   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2G4V2W/?tag=tolees-21'
 descuento: '72.24'
 average: '62.80111111111112'

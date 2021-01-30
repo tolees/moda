@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Birkenstock Medina Birko-Flor  Chanclas para Hombre  Negro  Schwarz   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0013YKWY6/?tag=tolees-21'
 descuento: '52.67'
 average: '35.5'

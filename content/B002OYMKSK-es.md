@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Lacoste L1212 Camiseta Polo  Azul  Ruisseau   2XL  Talla del fabricante: 7  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002OYMKSK/?tag=tolees-21'
 descuento: '47.20'
 average: '46.99'

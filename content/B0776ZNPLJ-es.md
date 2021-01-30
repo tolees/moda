@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'Tommy Jeans Hombre Original Jersey Camiseta Manga Corta  Azul  Black Iris 002  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776ZNPLJ/?tag=tolees-21'
 descuento: '34.66'
 average: '18.95'

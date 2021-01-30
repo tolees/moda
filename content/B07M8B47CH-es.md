@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Wrangler Logo Sweat Sudadera  Verde  Pine G01   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8B47CH/?tag=tolees-21'
 descuento: '49.99'
 average: '29.98'

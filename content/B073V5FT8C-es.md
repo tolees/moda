@@ -16,6 +16,7 @@ comparePrice: 57.49 EUR
 prodname: 'adidas HVC K Zapatos de Boxeo  Unisex Niños  Negro  Schwarz Schwarz   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073V5FT8C/?tag=tolees-21'
 descuento: '74.55'
 average: '14.63'

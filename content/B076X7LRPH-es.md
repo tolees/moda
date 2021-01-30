@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Uvet A  Zapatos de Cordones Brogue para Hombre  Gris  Stone   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X7LRPH/?tag=tolees-21'
 descuento: '50.00'
 average: '59.95'

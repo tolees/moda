@@ -16,6 +16,7 @@ comparePrice: 22.62 EUR
 prodname: 'Jako Camiseta de LA Manga Blanco/Negro Talla:42-44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VMOQWPK/?tag=tolees-21'
 descuento: '51.46'
 average: '10.98'

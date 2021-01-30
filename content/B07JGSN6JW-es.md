@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Pepe Jeans Kai Pm402100 Chaqueta   Sailor 580   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGSN6JW/?tag=tolees-21'
 descuento: '46.00'
 average: '54.614999999999995'

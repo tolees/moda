@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Tommy Hilfiger TJM Novel Logo Crew Jersey de Deporte  Azul  Blue Cbk   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHTVP1S/?tag=tolees-21'
 descuento: '60.56'
 average: '29.58'

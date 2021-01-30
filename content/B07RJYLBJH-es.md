@@ -16,6 +16,7 @@ comparePrice: 24.6 EUR
 prodname: 'ARTESANIA CERDA MOCHILA CASUAL MODA MICKEY'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJYLBJH/?tag=tolees-21'
 descuento: '44.72'
 average: '13.6'

@@ -16,6 +16,7 @@ comparePrice: 12.47 EUR
 prodname: 'Marca Amazon - Daily Ritual - Vestido largo de punto sin mangas de corte imperio para mujer  Rojo oscuro  US XS  EU XS - S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4LLC95/?tag=tolees-21'
 descuento: '35.36'
 average: '8.06'

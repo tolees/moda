@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Timberland World Hiker Mid TB0A1W47K511'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085PPJ19P/?tag=tolees-21'
 descuento: '57.66'
 average: '55.04'

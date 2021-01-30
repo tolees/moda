@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers Sure Track  Zapatos de trabajo para Mujer  color Negro  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5BG1CG/?tag=tolees-21'
 descuento: '33.02'
 average: '50.2'

@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Clarks Un Larvik Lace  Zapatos de Cordones Derby para Hombre  Marrón Brown Leather  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ7FSRJ/?tag=tolees-21'
 descuento: '40.05'
 average: '65.95'

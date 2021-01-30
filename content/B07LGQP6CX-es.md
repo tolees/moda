@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'JOINFREE Niños Niñas Nadar Zapatos para el Agua Deportes acuáticos Calcetines Zapatillas Zapatos para la Piscina  Unicornio Rosa 22-23 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGQP6CX/?tag=tolees-21'
 descuento: '39.15'
 average: '13.99'

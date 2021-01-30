@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Calvin Klein Center Monogram Box Slim tee Camiseta  Blanco  Bright White Yaf   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8KWMCN/?tag=tolees-21'
 descuento: '40.14'
 average: '19.721999999999998'

@@ -16,6 +16,7 @@ comparePrice: 111.0 EUR
 prodname: 'CATWALK COLLECTION - MARTINA - Bolso de mano - Cuero - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002VM7POE/?tag=tolees-21'
 descuento: '36.98'
 average: '69.95'

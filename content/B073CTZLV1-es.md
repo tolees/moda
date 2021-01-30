@@ -16,6 +16,7 @@ comparePrice: 8.74 EUR
 prodname: 'Arena 000001E048-507 Estuche para Gafas de natación  Unisex Adulto  Negro/Blanco  Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073CTZLV1/?tag=tolees-21'
 descuento: '34.78'
 average: '5.7'

@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'El Naturalista N5144  Botines para Mujer  Marrón  Wood Wood   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5FCXCM/?tag=tolees-21'
 descuento: '77.72'
 average: '27.85'

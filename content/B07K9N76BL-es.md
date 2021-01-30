@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Crocs Classic Clog K  Zuecos Unisex Niños  Rosa  Pink Lemonade   23/24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K9N76BL/?tag=tolees-21'
 descuento: '30.01'
 average: '18.89'

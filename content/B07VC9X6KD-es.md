@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES Jorexplore Parka Jacket STS  Verde  Forest Night Detail: Solid   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC9X6KD/?tag=tolees-21'
 descuento: '40.01'
 average: '47.99'

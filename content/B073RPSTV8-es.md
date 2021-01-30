@@ -16,6 +16,7 @@ comparePrice: 18.13 EUR
 prodname: 'Star Wars HQ2017 Pijama de una Pieza  Niños  Azul  Navy   4 años  Tamaño del Fabricante:4Y '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPSTV8/?tag=tolees-21'
 descuento: '72.04'
 average: '5.07'

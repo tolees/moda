@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Pepe Jeans Jerrod Camiseta  Azul  Indigo 561   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYZMJBX/?tag=tolees-21'
 descuento: '66.52'
 average: '13.39'

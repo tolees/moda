@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-Star RAW 3301 Straight  Vaqueros para Hombre  Azul  Dark Aged 4639-89   W26/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VXC7XCM/?tag=tolees-21'
 descuento: '56.12'
 average: '34.587500000000006'

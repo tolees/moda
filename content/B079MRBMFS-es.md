@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico Hombre  Verde  Dark Green   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MRBMFS/?tag=tolees-21'
 descuento: '50.83'
 average: '8.31'

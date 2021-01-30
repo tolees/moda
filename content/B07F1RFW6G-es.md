@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Art Antibes  Zapatos Planos Mary Jane para Mujer  Negro  Black/Black Black/Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1RFW6G/?tag=tolees-21'
 descuento: '49.97'
 average: '40.0'

@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Superdry Icelandic Parka  Rojo  New Port Oxa   34  Talla del Fabricante: XX-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3G41KV/?tag=tolees-21'
 descuento: '77.60'
 average: '53.2225'

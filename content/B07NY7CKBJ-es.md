@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Vintage Logo Linear LS tee Camisa Manga Larga  Azul  Eclipse Navy 98t   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY7CKBJ/?tag=tolees-21'
 descuento: '75.54'
 average: '14.155'

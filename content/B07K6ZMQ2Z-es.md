@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Herrlicher Touch Cropped Vaqueros  Bliss 634  25W para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6ZMQ2Z/?tag=tolees-21'
 descuento: '61.85'
 average: '46.345000000000006'

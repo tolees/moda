@@ -16,6 +16,7 @@ comparePrice: 57.0 EUR
 prodname: 'Tommy_Jeans TJM Tape Sweater sudadera  Azul  Black Iris 002   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQV9XZV/?tag=tolees-21'
 descuento: '17.54'
 average: '47.0'

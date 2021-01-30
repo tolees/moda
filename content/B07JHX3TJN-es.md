@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia WAYFINDER  Zapatos Multideporte para Hombre  Gris  Ti Grey Steel  033   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHX3TJN/?tag=tolees-21'
 descuento: '59.49'
 average: '40.51'

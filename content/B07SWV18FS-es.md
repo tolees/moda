@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D LEELU  E  Zapatillas para Niñas  Blanco  White/Off White C1352   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWV18FS/?tag=tolees-21'
 descuento: '72.61'
 average: '38.765'

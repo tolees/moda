@@ -16,6 +16,7 @@ comparePrice: 16 EUR
 prodname: 'Amazon Essentials - Camisa informal de popelín de manga larga de corte recto estándar para hombre  Coral/White Plaid  US M  EU M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JX953CL/?tag=tolees-21'
 descuento: '41.87'
 average: '9.3'

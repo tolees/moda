@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Vicloon Barras Luminosas  Pulseras Luminosas con Variedad de Conectores  Kits para Crear Gafas  Pulseras triples  una Diadema  Bolas Luminosas  Mariposas  una Bola Luminosa Premium. 100pcs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2BFPYP/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

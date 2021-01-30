@@ -16,6 +16,7 @@ comparePrice: 5.98 EUR
 prodname: 'Marca Amazon - find. Vestido Corto con Estampado de Rayas para Mujer  Rojo  Red   44  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGP9DKW/?tag=tolees-21'
 descuento: '20.07'
 average: '4.8100000000000005'

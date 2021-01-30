@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'HUGO Trunk Brother Pack Bóxer  Azul  Open Blue 465   Medium 2 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3DRG13/?tag=tolees-21'
 descuento: '52.31'
 average: '18.1'

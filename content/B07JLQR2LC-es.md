@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett Vaqueros  Clean Wheaton In  28W / 35L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLQR2LC/?tag=tolees-21'
 descuento: '66.86'
 average: '29.81'

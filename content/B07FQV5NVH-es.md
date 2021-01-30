@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Beige  Pewter -   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQV5NVH/?tag=tolees-21'
 descuento: '58.63'
 average: '37.21'

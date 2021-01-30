@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES PREMIUM Jprsteven Blazer STS Chaqueta de Traje  Azul  Dark Navy Dark Navy   50 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HNDTNP/?tag=tolees-21'
 descuento: '37.50'
 average: '49.99'

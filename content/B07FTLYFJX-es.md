@@ -16,6 +16,7 @@ comparePrice: 43.98 EUR
 prodname: 'RAZAMAZA Mujer Tacón Ancho Bombas Zapatos Plataforma Flores White Size 38 Asian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTLYFJX/?tag=tolees-21'
 descuento: '50.02'
 average: '21.98'

@@ -16,6 +16,7 @@ comparePrice: 75.95 EUR
 prodname: 'Desigual Dress Sevilla Vestido  Azul  Marino 5001   40 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3YVQKV/?tag=tolees-21'
 descuento: '59.67'
 average: '30.63'

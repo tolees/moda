@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Lynn Mid Waist Skinny  Vaqueros  3D Dark Aged 8469  26W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDTSI2X/?tag=tolees-21'
 descuento: '49.98'
 average: '60.0'

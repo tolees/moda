@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'BOSS Identity T-Shirt RN Top de Pijama  Azul  Dark Blue 403   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074XYM5LP/?tag=tolees-21'
 descuento: '42.43'
 average: '29.316666666666666'

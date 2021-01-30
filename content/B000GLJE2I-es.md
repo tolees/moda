@@ -16,6 +16,7 @@ comparePrice: 110.16 EUR
 prodname: 'Ray-Ban - Gafas de sol Aviador RB3025-W3275 Large Metal Aviator RB 3025 W3275  Silver  Silber '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GLJE2I/?tag=tolees-21'
 descuento: '41.45'
 average: '64.5'

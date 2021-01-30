@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 510 Vaqueros Skinny  Azul  Moose Tracks Cool 1035   W32/L32  Talla del Fabricante: 32 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPPYV1R/?tag=tolees-21'
 descuento: '60.05'
 average: '39.95'

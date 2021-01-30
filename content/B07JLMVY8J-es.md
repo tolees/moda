@@ -16,6 +16,7 @@ comparePrice: 7.25 EUR
 prodname: 'Amazon Essentials – Pantalón corto chino con tiro de 8 89 cm para mujer  camuflaje oliva floral  US 12  EU L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLMVY8J/?tag=tolees-21'
 descuento: '24.55'
 average: '5.47'

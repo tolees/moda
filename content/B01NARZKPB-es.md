@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Kappa Fredo Pantalón Corto  Hombre  Verde  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NARZKPB/?tag=tolees-21'
 descuento: '22.56'
 average: '13.94'

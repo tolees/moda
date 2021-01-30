@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pepe Jeans Pixie Vaqueros Pitillo Hombre  Azul  Destroy Denim Re0   W27/L32 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTSW5BX/?tag=tolees-21'
 descuento: '41.42'
 average: '57.99'

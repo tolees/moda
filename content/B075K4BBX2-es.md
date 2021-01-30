@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'SAGUARO® Invierno Al Aire Libre Zapatillas Caliente Slippers Interior Suave Algodón Zapatilla Mujer Hombres Casa Zapatos  Amarillo 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075K4BBX2/?tag=tolees-21'
 descuento: '32.15'
 average: '18.99'

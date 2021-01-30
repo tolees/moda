@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Texas Contrast Vaqueros  Azul  Warm Up 97b   36 W/ 34 L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN55RK3/?tag=tolees-21'
 descuento: '49.99'
 average: '44.98'

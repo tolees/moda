@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Only & Sons Onsowen Zip Track Sweat Chaqueta Deportiva  Negro  Black Black   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L59XTRQ/?tag=tolees-21'
 descuento: '64.90'
 average: '9.46'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers On-The-go 600-Flawless  Sandalias de Talón Abierto para Mujer  Azul  Navy Nvy   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GP7WSJ4/?tag=tolees-21'
 descuento: '20.00'
 average: '41.64'

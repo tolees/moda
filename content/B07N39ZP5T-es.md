@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Desigual Coat AGGU Abrigo  Negro  Negro 2000   46 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N39ZP5T/?tag=tolees-21'
 descuento: '65.11'
 average: '55.494'

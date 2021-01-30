@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Wrangler Plus Vaqueros Skinny  Azul  Stretch Dark 053   42 W/ 32 L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWQ121/?tag=tolees-21'
 descuento: '76.79'
 average: '23.2'

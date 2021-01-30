@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Deportes Hera Pantalón De Running Mallas De Correr Compresivas Ligeras Yoga Fitness Hombre Ropa Deportiva'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQGESND/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

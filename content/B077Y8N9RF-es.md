@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'HIKARO Camiseta con Botones Hombre  Gris  Grey Marl   50  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y8N9RF/?tag=tolees-21'
 descuento: '69.97'
 average: '5.39'

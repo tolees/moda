@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Orig Hm Vneck Camiseta  Blanco  White 0000   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJTCP54/?tag=tolees-21'
 descuento: '36.04'
 average: '15.99'

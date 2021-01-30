@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Trefoil Crew Sudadera  Hombre  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JGFJM6/?tag=tolees-21'
 descuento: '39.97'
 average: '35.99'

@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox U EOLO B  Zapatillas para Hombre  Azul  Navy C4002   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTT9PS/?tag=tolees-21'
 descuento: '18.09'
 average: '64.74499999999999'

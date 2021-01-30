@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Strellson Premium Allen Chaqueta de Traje  Gris  Grey 045   56  Talla del Fabricante: 54  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NK8QGDB/?tag=tolees-21'
 descuento: '74.20'
 average: '51.58'

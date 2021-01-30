@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Under Armour UA HG Armour SS Camiseta  Hombre  Negro  Black/Steel 001   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KXAH0GO/?tag=tolees-21'
 descuento: '25.12'
 average: '23.95'

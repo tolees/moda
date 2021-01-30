@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Resurrection L/s Shirt Camisa  Azul  Durango Mid Blue T6t   42  Talla del Fabricante: Large  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2BD9RK/?tag=tolees-21'
 descuento: '68.80'
 average: '24.18'

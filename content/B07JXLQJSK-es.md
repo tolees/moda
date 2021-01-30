@@ -16,6 +16,7 @@ comparePrice: 140 EUR
 prodname: 'Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Beige  Light Taupe Nubuck   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXLQJSK/?tag=tolees-21'
 descuento: '50.00'
 average: '70'

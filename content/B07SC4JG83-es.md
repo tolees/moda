@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 724 High Rise Straight Vaqueros  Azul  London Bridge 0044   W30/L30  Talla del Fabricante: 30 30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC4JG83/?tag=tolees-21'
 descuento: '40.44'
 average: '68.49'

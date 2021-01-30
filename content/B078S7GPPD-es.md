@@ -16,6 +16,7 @@ comparePrice: 106.99 EUR
 prodname: 'Alicia abrigo chaqueta de invierno damas negro - Gothic Fantasy - XXL - Poizen Industries'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078S7GPPD/?tag=tolees-21'
 descuento: '50.47'
 average: '52.99'

@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'BAIGIO Bolso de Fiesta Noche de Moda para Mujer Brillante Bolsas de Embrague Hard Shell Bling Clutches para Ceremonias  Bodas  Evento  Cita  Fiesta Cócteles  Dorado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW8KXDN/?tag=tolees-21'
 descuento: '48.50'
 average: '16.99'

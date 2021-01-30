@@ -16,6 +16,7 @@ comparePrice: 67.48 EUR
 prodname: 'Levi s Sunset 1 Pocket Shirt Camisa  Multicolor  Wildcat Python Green 0388   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHB6LNQ/?tag=tolees-21'
 descuento: '48.21'
 average: '34.95'

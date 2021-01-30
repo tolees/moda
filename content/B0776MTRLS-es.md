@@ -16,6 +16,7 @@ comparePrice: 49 EUR
 prodname: 'SAMSONITE Cross-Over S  Yellow  -PARADIVER Light  Bolso Bandolera  0 cm  Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776MTRLS/?tag=tolees-21'
 descuento: '30.00'
 average: '34.3'

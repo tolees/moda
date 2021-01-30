@@ -16,6 +16,7 @@ comparePrice: 17.06 EUR
 prodname: 'Crocs Reviva Flip  Chanclas Unisex Adulto  Negro  Black/Slate Grey 0dd   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN7J1Y4/?tag=tolees-21'
 descuento: '23.51'
 average: '13.05'

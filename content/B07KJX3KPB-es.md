@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Five Forks  Zapatos de Senderismo Impermeables para Hombre  Gris  Ti Grey Steel  033   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJX3KPB/?tag=tolees-21'
 descuento: '39.10'
 average: '66.98'

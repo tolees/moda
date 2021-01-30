@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Melisa PL503792 Camiseta  Blanco  Mousse 808   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GB5FSX/?tag=tolees-21'
 descuento: '59.87'
 average: '12.041999999999998'

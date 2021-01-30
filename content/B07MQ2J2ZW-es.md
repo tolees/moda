@@ -16,6 +16,7 @@ comparePrice: 36.85 EUR
 prodname: 'Clarks Un Trail Limit  Zapatos de Cordones Derby para Hombre  Negro y Negro  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ2J2ZW/?tag=tolees-21'
 descuento: '32.18'
 average: '30.799999999999997'

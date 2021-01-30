@@ -16,6 +16,7 @@ comparePrice: 19.6 EUR
 prodname: 'find. Jersey de Algodón para Mujer  Rojo  Burgandy   46  Talla del Fabricante: XX-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748LW3JC/?tag=tolees-21'
 descuento: '28.57'
 average: '14'

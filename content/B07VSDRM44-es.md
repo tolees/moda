@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Bolso Bandolera Tejido de Paja con Borlas  Ganchillo Verano Trenzado Bolso Playa de Cuerda de Algodón para Mujer  Moda Estilo Bohemio Trenzada a Mano Hilo Macrame Bolsas de Mensajero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSDRM44/?tag=tolees-21'
 descuento: '23.54'
 average: '12.99'

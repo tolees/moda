@@ -16,6 +16,7 @@ comparePrice: 10.45 EUR
 prodname: 'Marca Amazon - AURIQUE Sujetador Deportivo Bajo Impacto Tirantes Yoga Mujer  Negro  Black   L  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779WKCYN/?tag=tolees-21'
 descuento: '19.33'
 average: '8.43'

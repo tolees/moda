@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox U NORWOLK B  Botas Chukka para Hombre  Negro  Black C9999   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792JMMLB/?tag=tolees-21'
 descuento: '50.00'
 average: '64.95'

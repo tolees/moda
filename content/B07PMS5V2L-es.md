@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Maine BC-p Vaqueros Straight  Azul  Navy 410   33W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMS5V2L/?tag=tolees-21'
 descuento: '36.76'
 average: '63.21'

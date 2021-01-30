@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Desigual Blouse Amandine Blusa  Azul  Marino 5001   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3TLNV9/?tag=tolees-21'
 descuento: '59.62'
 average: '20.17'

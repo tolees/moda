@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Austin Vaqueros Tapered  Azul  Mission Clean Zg   29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBGX6PQ/?tag=tolees-21'
 descuento: '74.92'
 average: '25.07'

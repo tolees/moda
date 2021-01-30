@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Rider Jeans Vaqueros  Tawny Port  34W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMVZ343/?tag=tolees-21'
 descuento: '40.52'
 average: '53.5'

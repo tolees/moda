@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'Under Armour UA Prevail Windbreaker Chaqueta  Mujer  Negro Black/Tetra Gray 001  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGY2BBT/?tag=tolees-21'
 descuento: '63.58'
 average: '29.14'

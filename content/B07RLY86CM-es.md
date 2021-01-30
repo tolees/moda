@@ -16,6 +16,7 @@ comparePrice: 73.27 EUR
 prodname: 'Tommy Hilfiger Arlos Bomber Chaqueta deportiva  Verde  Green L8l   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLY86CM/?tag=tolees-21'
 descuento: '22.86'
 average: '61.044999999999995'

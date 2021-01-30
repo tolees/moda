@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jprvictor Shirt L/s Noos Camisa  Azul  Cashmere Blue Slim Fit   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWNLF4F/?tag=tolees-21'
 descuento: '62.99'
 average: '14.8'

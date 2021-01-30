@@ -16,6 +16,7 @@ comparePrice: 23.23 EUR
 prodname: 'JOINFREE Niños Niñas Nadar Zapatos para el Agua Deportes acuáticos Calcetines Zapatillas Zapatos para la Piscina  34-35 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJ66H4H/?tag=tolees-21'
 descuento: '53.29'
 average: '10.85'

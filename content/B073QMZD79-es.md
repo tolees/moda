@@ -16,6 +16,7 @@ comparePrice: 40.95 EUR
 prodname: 'find. Chaqueta Biker Hombre  Gris  Grau   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QMZD79/?tag=tolees-21'
 descuento: '52.38'
 average: '19.5'

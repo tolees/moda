@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Mujer Vestido Elegante sin Mangas lápiz para Cóctel Fiesta 2XL CL010987-1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4LB4HC/?tag=tolees-21'
 descuento: '27.79'
 average: '25.99'

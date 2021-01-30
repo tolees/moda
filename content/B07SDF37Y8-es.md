@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'LOSMILE Bolsos Bandolera de Hombres  Bolso de Hombro de Lona  Bolsas Mensajero para 15.6 Pulgadas portátiles  Bolsa de Ordenador Trabajo y Escuela.Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDF37Y8/?tag=tolees-21'
 descuento: '46.68'
 average: '31.99'

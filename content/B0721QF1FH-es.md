@@ -16,6 +16,7 @@ comparePrice: 99.77 EUR
 prodname: 'Taifun Mousse au Chocolat  Vestido para Mujer  Mehrfarbig  Schwarz Druck 1001  40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721QF1FH/?tag=tolees-21'
 descuento: '86.58'
 average: '13.690000000000001'

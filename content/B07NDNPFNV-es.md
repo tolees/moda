@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Graphic 24 Loose Round Neck Sudadera  Beige  Milk 111   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNPFNV/?tag=tolees-21'
 descuento: '71.86'
 average: '25.31'

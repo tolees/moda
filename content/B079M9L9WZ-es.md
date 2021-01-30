@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox J Kiwi Zapatos Para Niño  30 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079M9L9WZ/?tag=tolees-21'
 descuento: '50.00'
 average: '24.95'

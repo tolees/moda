@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Under Armour Coldgear Reactor Performance Hybrid Chaqueta  Hombre  Gris  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9HF2XS/?tag=tolees-21'
 descuento: '78.54'
 average: '38.62'

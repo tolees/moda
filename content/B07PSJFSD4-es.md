@@ -16,6 +16,7 @@ comparePrice: 27.87 EUR
 prodname: 'Kipling Amiel  Bolso de Mano Mediano para Mujer  Multicolor  Navy Stick Print   27x24.5x14.5 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJFSD4/?tag=tolees-21'
 descuento: '26.66'
 average: '26.055'

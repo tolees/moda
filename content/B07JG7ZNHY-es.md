@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Pepe Jeans Amberes Archive Camiseta  Blanco  Optic White 802   4-5 años  Talla del Fabricante: 104/4 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG7ZNHY/?tag=tolees-21'
 descuento: '36.04'
 average: '15.99'

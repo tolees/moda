@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox D Stardust C  Botines para Mujer  Marrón  Coffee C6009   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792FKCLP/?tag=tolees-21'
 descuento: '77.35'
 average: '30.87'

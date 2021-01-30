@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Funda billetera Samsung para Samsung Galaxy A70  Funda protectora plegable con funda para smartphone - Duradera con ranura para tarjeta para guardar sus tarjetas de crédito - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PN68CN1/?tag=tolees-21'
 descuento: '64.88'
 average: '10.5'

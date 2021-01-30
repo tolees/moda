@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D PONTOISE D  Zapatillas para Mujer  Blanco  White/Silver C0007   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXTMXBF/?tag=tolees-21'
 descuento: '60.30'
 average: '33.872'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler SKINNY Vaqueros  Negro  Black   25W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N67HAW3/?tag=tolees-21'
 descuento: '74.22'
 average: '20.61'

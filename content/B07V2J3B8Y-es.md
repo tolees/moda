@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Casual Cork Beach Sandal  Sandalias con Punta Abierta para Hombre  Gris  Antique Silver PRT   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2J3B8Y/?tag=tolees-21'
 descuento: '39.97'
 average: '20.95'

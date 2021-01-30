@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Geox U Saymore D  Mocasines para Hombre  Negro  Black C9999   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792HQHTK/?tag=tolees-21'
 descuento: '67.23'
 average: '58.96'

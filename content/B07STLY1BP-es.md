@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D AIRELL A  Zapatillas para Mujer  Azul  Navy C4002   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLY1BP/?tag=tolees-21'
 descuento: '40.04'
 average: '51.099999999999994'

@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Wrangler Icons Vaqueros  Azul  Light Trace 13U   33W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZSCDPV/?tag=tolees-21'
 descuento: '69.08'
 average: '29.36'

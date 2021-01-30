@@ -16,6 +16,7 @@ comparePrice: 37.8 EUR
 prodname: 'TRUTH & FABLE ACB022 vestido  Multicolore  Multi Colour   32  Fabricante del tamaño: XX-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FF2V4HQ/?tag=tolees-21'
 descuento: '36.51'
 average: '24'

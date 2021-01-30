@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'edc by Esprit 099CC1G030 Abrigo  Gris  Anthracite 010   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7JGBRX/?tag=tolees-21'
 descuento: '60.00'
 average: '59.99'

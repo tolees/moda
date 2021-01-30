@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'NIKE FCB M Nk BRT Stad JSY SS AW - Camiseta de Equipacion para Hombre  Varsity Maize  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3R1BY7/?tag=tolees-21'
 descuento: '25.34'
 average: '33.56'

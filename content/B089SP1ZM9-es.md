@@ -16,6 +16,7 @@ comparePrice: 17.31 EUR
 prodname: 'Gifort Rotuladores para Tela Permanentes  24 Colores Marcadores Textiles Sin Sangrado y No Tóxico para Niños Adultos Regalos Artesanales  Camisetas  Jeans  Zapatos  Bolsos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089SP1ZM9/?tag=tolees-21'
 descuento: '24.96'
 average: '12.99'

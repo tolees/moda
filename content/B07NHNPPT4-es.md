@@ -16,6 +16,7 @@ comparePrice: 65.95 EUR
 prodname: 'Tamaris 1-1-25059-23  Botines para Mujer  Rojo  Bordeaux 549   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHNPPT4/?tag=tolees-21'
 descuento: '70.63'
 average: '19.93'

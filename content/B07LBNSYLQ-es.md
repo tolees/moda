@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Helly Hansen Crew Pique 2 Camisa Polo  Mujer  Nightshade  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBNSYLQ/?tag=tolees-21'
 descuento: '51.78'
 average: '20.65'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Ottaya Sandal B  Sandalias de Talón Abierto para Mujer  Negro  Black/Turquoise C0490   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPXNRN/?tag=tolees-21'
 descuento: '57.50'
 average: '42.46'

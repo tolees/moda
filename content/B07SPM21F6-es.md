@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'LOHOTEK Zapatillas Hombres Zapatos Deportivos para Hombres - Zapatos Casuales para Caminar Antideslizantes de Moda Zapatos Deportivas Atléticos al Aire Libre Gimnasio  47EU  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPM21F6/?tag=tolees-21'
 descuento: '38.65'
 average: '26.99'

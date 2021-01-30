@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Only & Sons NOS Onswinston Sweat Hoodie Noos Sudadera con Capucha  Negro  Black Detail:Solid   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ8FZFX/?tag=tolees-21'
 descuento: '74.51'
 average: '6.88'

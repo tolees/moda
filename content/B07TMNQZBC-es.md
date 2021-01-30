@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry VL Shirt Shop Bonded tee Camiseta  Negro  Black 02a   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMNQZBC/?tag=tolees-21'
 descuento: '57.99'
 average: '14.7'

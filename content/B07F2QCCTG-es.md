@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Helly Hansen Moss Rain Shell Chaqueta Impermeable con Capucha  Mujer  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2QCCTG/?tag=tolees-21'
 descuento: '35.01'
 average: '35.55'

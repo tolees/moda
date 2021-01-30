@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Larchmont Chukka  Botas Clasicas para Hombre  Marrón  Medium Brown Nubuck   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010QRQ1JK/?tag=tolees-21'
 descuento: '48.21'
 average: '72.5'

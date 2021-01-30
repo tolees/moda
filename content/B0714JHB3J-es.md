@@ -16,6 +16,7 @@ comparePrice: 20.37 EUR
 prodname: 'Paw Patrol HQ1227 Sudadera  Gris  Grey   5 años  Tamaño del Fabricante:5Y  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0714JHB3J/?tag=tolees-21'
 descuento: '36.08'
 average: '10.305'

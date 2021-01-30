@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Crocband Clog K  Zuecos con Correa Trasera Unisex-Bambini  BLU  Cerulean Blue   27/28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HEXFG9K/?tag=tolees-21'
 descuento: '33.42'
 average: '21.3'

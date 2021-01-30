@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas M Mh 3s tee Camiseta de Manga Corta  Hombre  White/Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2M7CTK/?tag=tolees-21'
 descuento: '43.94'
 average: '16.89'

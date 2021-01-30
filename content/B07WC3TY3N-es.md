@@ -16,6 +16,7 @@ comparePrice: 22.29 EUR
 prodname: 'Tommy Hilfiger Fixed Triangle Rp Parte de Arriba de Bikini  Rojo  Red Glare   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC3TY3N/?tag=tolees-21'
 descuento: '25.30'
 average: '16.65'

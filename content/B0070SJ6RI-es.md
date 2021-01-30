@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Stormbucks Plain Toe  Zapatos de Cordones Oxford para Hombre  Marrón Dark Brown Nubuck  43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0070SJ6RI/?tag=tolees-21'
 descuento: '35.72'
 average: '89.48583333333333'

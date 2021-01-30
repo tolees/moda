@@ -16,6 +16,7 @@ comparePrice: 19.51 EUR
 prodname: 'X-TIGER Vellón Térmico Invierno MTB Ciclismo Guantes con pantalla táctil para hombre con todos los dedos a prueba de viento e impermeable  M  CN = S  EU  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCY7VR3/?tag=tolees-21'
 descuento: '59.05'
 average: '7.99'

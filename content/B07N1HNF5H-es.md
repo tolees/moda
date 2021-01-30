@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Adorn Lace  Zapatos de Cordones Derby para Mujer  Multicolor  Natural Snake Natural Snake   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HNF5H/?tag=tolees-21'
 descuento: '69.48'
 average: '33.57'

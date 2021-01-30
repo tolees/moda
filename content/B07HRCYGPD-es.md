@@ -16,6 +16,7 @@ comparePrice: 9.91 EUR
 prodname: 'Marca Amazon - find. Short Sleeve Flannel Shirt Hombre  Rojo  Red/Black   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRCYGPD/?tag=tolees-21'
 descuento: '24.72'
 average: '7.46'

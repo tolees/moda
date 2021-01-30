@@ -16,6 +16,7 @@ comparePrice: 34.24 EUR
 prodname: 'Zapatos de agua para la playa  piscina o jardín  para niños y niñas  color  talla 29/31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQKJ1WW/?tag=tolees-21'
 descuento: '56.69'
 average: '14.83'

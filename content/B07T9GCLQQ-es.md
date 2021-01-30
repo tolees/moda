@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Newport Bay Bumper Toe Oxford  Zapatillas para Mujer  Blanco White Canvas  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9GCLQQ/?tag=tolees-21'
 descuento: '59.08'
 average: '26.6'

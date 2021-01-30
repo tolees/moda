@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Nike Park VI Camiseta de Manga Corta para hombre  Rojo  University Red/White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AC6PRKY/?tag=tolees-21'
 descuento: '20.38'
 average: '14.454999999999998'

@@ -16,6 +16,7 @@ comparePrice: 45.33 EUR
 prodname: 'Geox U ARSIEN A  Zapatillas para Hombre  Gris  Taupe C6029   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTT9NT/?tag=tolees-21'
 descuento: '28.15'
 average: '36.095'

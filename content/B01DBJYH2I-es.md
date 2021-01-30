@@ -16,6 +16,7 @@ comparePrice: 72.24 EUR
 prodname: 'The North Face W Nimble Sudadera  Mujer  Negro  Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DBJYH2I/?tag=tolees-21'
 descuento: '24.40'
 average: '54.61'

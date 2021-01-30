@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler ICONS Camisa Vaquera  Azul  1 Year 924   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZHD6C2/?tag=tolees-21'
 descuento: '49.99'
 average: '34.98'

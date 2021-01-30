@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Camper Micro  Sandalias con Punta Abierta para Mujer  Rosa  Medium Red 610   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P19WPCW/?tag=tolees-21'
 descuento: '55.00'
 average: '49.605'

@@ -16,6 +16,7 @@ comparePrice: 22.91 EUR
 prodname: 'HIKARO Sudadera con Print Hombre  Negro  Black   54  Talla del fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Z5QHPD/?tag=tolees-21'
 descuento: '64.69'
 average: '8.09'

@@ -16,6 +16,7 @@ comparePrice: 150.79 EUR
 prodname: 'Under Armour Curry 1 Lux Mid Zapatilla Baloncesto - 41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X4RBK1/?tag=tolees-21'
 descuento: '69.24'
 average: '46.25666666666667'

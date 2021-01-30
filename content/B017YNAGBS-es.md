@@ -16,6 +16,7 @@ comparePrice: 68.95 EUR
 prodname: 'Gregster Hombre Chaqueta de Esquí - Snowboard - Chaqueta de Nieve'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017YNAGBS/?tag=tolees-21'
 descuento: '73.81'
 average: '18.06'

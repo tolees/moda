@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Team Issue Camiseta para Hombre con Logotipo  Camiseta Deportiva Transpirable  Camiseta de Manga Corta para Hombre cómoda y Ancha  White/Black  100   SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07895MGRS/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

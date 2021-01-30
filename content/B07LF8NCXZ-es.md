@@ -16,6 +16,7 @@ comparePrice: 10.75 EUR
 prodname: 'Levi s 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Slim Crew White/Med Heather Grey 0003   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8NCXZ/?tag=tolees-21'
 descuento: '17.86'
 average: '9.785'

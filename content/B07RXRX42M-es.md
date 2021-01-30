@@ -16,6 +16,7 @@ comparePrice: 14.2 EUR
 prodname: 'oodji Ultra Mujer Blusa de Punto Ajustada  Negro  ES 40 / M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXRX42M/?tag=tolees-21'
 descuento: '35.92'
 average: '9.1'

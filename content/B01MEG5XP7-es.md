@@ -16,6 +16,7 @@ comparePrice: 36.42 EUR
 prodname: 'ESPRIT 017EE2F018  Camisa Hombre  Azul  NAVY   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MEG5XP7/?tag=tolees-21'
 descuento: '63.45'
 average: '13.31'

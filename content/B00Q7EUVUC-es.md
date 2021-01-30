@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Peakfreak Venture  Zapatos Impermeables para Hombre  Marrón  Cordovan  Squash 231   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q7EUVUC/?tag=tolees-21'
 descuento: '37.28'
 average: '68.99'

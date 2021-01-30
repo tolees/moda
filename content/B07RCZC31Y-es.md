@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Azul  Worn In Naval 9136-A962   W25/L34  Talla del Fabricante: 25W/ 34L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCZC31Y/?tag=tolees-21'
 descuento: '60.70'
 average: '39.678000000000004'

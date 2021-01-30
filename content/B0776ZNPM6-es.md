@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Regular C Camiseta con Cuello Redondo  Negro  Tommy Black   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776ZNPM6/?tag=tolees-21'
 descuento: '31.21'
 average: '19.62111111111111'

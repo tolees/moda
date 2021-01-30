@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Costa Lace  Zapatos de Cordones Derby para Hombre  Marrón Tan Leather  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR7XDFY/?tag=tolees-21'
 descuento: '55.03'
 average: '44.95'

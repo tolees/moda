@@ -16,6 +16,7 @@ comparePrice: 78.99 EUR
 prodname: 'Aizeroth-UK Unisex Hombre Mujer Zapatillas de Seguridad con Punta de Acero Antideslizante S3 Zapatos de Trabajo Comodas Calzado de Trabajo Deportivos Botas de Protección Industria Construcción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGTS76T/?tag=tolees-21'
 descuento: '58.24'
 average: '32.99'

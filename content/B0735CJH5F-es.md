@@ -16,6 +16,7 @@ comparePrice: 139.69 EUR
 prodname: 'Napapijri Rainforest Pocket  Chaqueta para Hombre  Gris  Dark Grey Solid 198   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0735CJH5F/?tag=tolees-21'
 descuento: '28.45'
 average: '118.69999999999999'

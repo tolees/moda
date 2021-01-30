@@ -16,6 +16,7 @@ comparePrice: 43.17 EUR
 prodname: 'Geox Piuma G  Bailarinas para Niñas  Negro  Black 9999   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B7W9DCQ/?tag=tolees-21'
 descuento: '38.20'
 average: '26.68'

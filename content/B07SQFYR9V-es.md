@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B Kaytan A  Sandalias de Punta Descubierta para Bebés  Beige  Beige/Gold C0871   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQFYR9V/?tag=tolees-21'
 descuento: '30.06'
 average: '34.915'

@@ -16,6 +16,7 @@ comparePrice: 14.56 EUR
 prodname: 'Esprit 079ee2k016 Camisa Manga Larga  Azul  Navy 400   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWH3RJR/?tag=tolees-21'
 descuento: '51.99'
 average: '6.99'

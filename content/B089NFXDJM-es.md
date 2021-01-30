@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jack & Jones JORTRAILER Sweat Hood STS Sudadera con Capucha  Gris Claro  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NFXDJM/?tag=tolees-21'
 descuento: '25.01'
 average: '26.24'

@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'Joma Suez - Pantalón para niños de 6 años  Color Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IXM66O6/?tag=tolees-21'
 descuento: '27.75'
 average: '11.553333333333335'

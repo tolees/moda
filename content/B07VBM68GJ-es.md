@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Calvin Klein Hooded Blocking Nylon Jacket Chaqueta Bomber  Rojo  Fiery Red/CK Black Xa7   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBM68GJ/?tag=tolees-21'
 descuento: '49.62'
 average: '75.07'

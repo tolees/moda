@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Havaianas Top  Chanclas Unisex Adulto  Blanco  White   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000YKMHP2/?tag=tolees-21'
 descuento: '37.04'
 average: '12.076'

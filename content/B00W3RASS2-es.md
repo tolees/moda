@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Joma Gala Sudadera  Hombre  Azul Marino  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W3RASS2/?tag=tolees-21'
 descuento: '18.81'
 average: '12.99'

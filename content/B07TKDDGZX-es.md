@@ -16,6 +16,7 @@ comparePrice: 25.72 EUR
 prodname: 'NIKE W NP Tank Essential Swoosh Camiseta sin Mangas  Mujer  Black/  White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKDDGZX/?tag=tolees-21'
 descuento: '38.65'
 average: '15.78'

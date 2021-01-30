@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'gracosy Sandalias Cuero Deportivas para Hombre Verano Exterior con Punta Abierta Sandalias de Playa Zapatillas de Montaña Senderismo  Amarillo Marron  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PB19RC9/?tag=tolees-21'
 descuento: '44.78'
 average: '36.99'

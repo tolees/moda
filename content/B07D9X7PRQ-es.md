@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Adidas Hoops 2.0 CMF C  Zapatos de Baloncesto Unisex Niños  Multicolor  Core Black/FTWR White/Hi/Res Red S18 B75960   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9X7PRQ/?tag=tolees-21'
 descuento: '49.99'
 average: '17.48'

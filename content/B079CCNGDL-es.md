@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'JACK & JONES Jjebas tee SS U-Neck Noos Camiseta  Azul  Navy Blazer Detail: Reg Fit   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079CCNGDL/?tag=tolees-21'
 descuento: '46.70'
 average: '7.99'

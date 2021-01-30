@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Stretch Slim Fit tee Camisa Deportiva  Verde  Jelly BEAN306   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYS634C/?tag=tolees-21'
 descuento: '33.34'
 average: '19.93'

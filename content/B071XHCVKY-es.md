@@ -16,6 +16,7 @@ comparePrice: 14 EUR
 prodname: 'Calvin Klein Bikini  Gris  Grey Heather 020   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071XHCVKY/?tag=tolees-21'
 descuento: '28.64'
 average: '9.99'

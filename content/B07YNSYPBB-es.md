@@ -16,6 +16,7 @@ comparePrice: 22.96 EUR
 prodname: 'find. Hurrache Sandalias con Punta Cerrada  Rot  Orange Red   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNSYPBB/?tag=tolees-21'
 descuento: '26.48'
 average: '16.88'

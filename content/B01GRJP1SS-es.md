@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Columbia Techsun™ Vent  Sandalias para Niñas  Gris  Tradewinds Grey  White Violet   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GRJP1SS/?tag=tolees-21'
 descuento: '70.12'
 average: '11.95'

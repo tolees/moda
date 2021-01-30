@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Hackett London Amr Multi SS Camiseta  Blanco  8aswhite/Blue 8as   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHDN61C/?tag=tolees-21'
 descuento: '56.17'
 average: '60.93'

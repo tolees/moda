@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour UA TAC Tech Long Sleeve tee Camiseta De Manga Larga  Hombre  Negro  Black/None 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LG7CUU4/?tag=tolees-21'
 descuento: '52.97'
 average: '16.633333333333333'

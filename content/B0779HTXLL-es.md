@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Pepe Jeans GOLDERS PM503213 Camiseta  Blanco  Optic White 802   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779HTXLL/?tag=tolees-21'
 descuento: '39.32'
 average: '16.99'

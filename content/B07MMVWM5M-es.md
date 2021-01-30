@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Daren Jeans Vaqueros Straight  Gris  Moto Grey HG   28W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMVWM5M/?tag=tolees-21'
 descuento: '62.73'
 average: '33.52'

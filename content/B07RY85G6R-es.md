@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only Onlnew Lucca Parka Jacket Otw  Rojo  Ketchup Ketchup   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY85G6R/?tag=tolees-21'
 descuento: '64.77'
 average: '14.09'

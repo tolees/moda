@@ -16,6 +16,7 @@ comparePrice: 10.67 EUR
 prodname: 'Marca Amazon - Find. Sandalias abiertas para mujer 90s Mule  color Marrón  talla 40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813HSPSS/?tag=tolees-21'
 descuento: '48.27'
 average: '7.8149999999999995'

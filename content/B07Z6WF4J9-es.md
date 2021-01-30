@@ -16,6 +16,7 @@ comparePrice: 34.76 EUR
 prodname: 'Hi-Tec Ula Raft  Sandalias Deportivas para Hombre  Amarillo  Blazing Yellow/Navigate 079   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6WF4J9/?tag=tolees-21'
 descuento: '35.59'
 average: '22.39'

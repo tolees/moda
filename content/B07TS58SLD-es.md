@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Jack & Jones Jjitim Jjleon GE 227 I.k. Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W28/L32  Talla del Fabricante: 28  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS58SLD/?tag=tolees-21'
 descuento: '79.17'
 average: '14.58'

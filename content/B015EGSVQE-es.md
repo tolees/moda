@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Ermenegildo Zegna Sonnenbrille EZ0035 Gafas de Sol  Plateado  Silver   61.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015EGSVQE/?tag=tolees-21'
 descuento: '86.36'
 average: '24.55'

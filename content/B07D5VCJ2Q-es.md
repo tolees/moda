@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Puma ESS Logo tee Camiseta Deportiva  Mujer  Blanco White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5VCJ2Q/?tag=tolees-21'
 descuento: '31.63'
 average: '12.565000000000001'

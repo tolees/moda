@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Pepe Jeans Eggo  Camiseta Para Hombre  Azul  Navy   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KF1TA3W/?tag=tolees-21'
 descuento: '40.04'
 average: '16.417142857142856'

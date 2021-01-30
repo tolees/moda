@@ -16,6 +16,7 @@ comparePrice: 16.38 EUR
 prodname: 'Marca Amazon - find. Rose Print Sudadera Mujer  Multicolor  Multi   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDK6W9M/?tag=tolees-21'
 descuento: '42.25'
 average: '9.46'

@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'G-STAR RAW Citishield 3D Slim Tapered Jeans Vaqueros  Negro  Jet Black Water Protected B479/A840   24W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDM5KF6/?tag=tolees-21'
 descuento: '86.66'
 average: '22.67'

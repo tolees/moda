@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Challenger III Training Pantalón  Hombre  Azul  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWNDV5Z/?tag=tolees-21'
 descuento: '33.60'
 average: '28.2825'

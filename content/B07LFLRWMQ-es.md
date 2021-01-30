@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'Levi s Graphic Varsity tee Camiseta  Multicolor  All Over Dunsmuir Hsmk C89519 Dunsmuir 0036   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFLRWMQ/?tag=tolees-21'
 descuento: '60.14'
 average: '13.95'

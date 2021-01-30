@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Natural Flatform Sandal  Sandalias Punta Cerrada para Mujer  Marrón  Dusty Bronze Gqe   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2J34MQ/?tag=tolees-21'
 descuento: '50.00'
 average: '49.95'

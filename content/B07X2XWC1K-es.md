@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Peppa Pig Camiseta de Manga Corta Paquete de 2 para niñas Multicolor 12-18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2XWC1K/?tag=tolees-21'
 descuento: '31.66'
 average: '12.95'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Geox B Djrock Girl A  Zapatillas para Bebés  Plateado  Silver/Fuchsia C0162   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSJ4CXW/?tag=tolees-21'
 descuento: '62.47'
 average: '16.89'

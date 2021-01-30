@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Meloive Collar Anti Pulgas y Garrapatas para Perros  Control Seguro y Efectivo de Pulgas y Garrapatas-62cm  Resistente al Agua  Ajustable y Natural 8 Meses de Prevención'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08592NTCW/?tag=tolees-21'
 descuento: '57.51'
 average: '16.99'

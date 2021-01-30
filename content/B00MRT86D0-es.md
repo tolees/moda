@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'REPLAY MA955 Newbill Vaqueros Straight  Azul  Dark Blue Denim 007   W32/L34 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MRT86D0/?tag=tolees-21'
 descuento: '67.67'
 average: '32.01'

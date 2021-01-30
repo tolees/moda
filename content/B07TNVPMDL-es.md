@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Step Cali Cove  Sandalias de Talón Abierto para Mujer  Beige  Navy Navy   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNVPMDL/?tag=tolees-21'
 descuento: '21.56'
 average: '54.87'

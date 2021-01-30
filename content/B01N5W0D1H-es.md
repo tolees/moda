@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Vero Moda Vmmaxi My Soft Long Tank Top Noos Camiseta sin Mangas  Blanco  Bright White   42  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5W0D1H/?tag=tolees-21'
 descuento: '35.04'
 average: '7.19'

@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Geox U Snake.2 A  Zapatillas para Hombre  Azul  Avio/Lt Grey C4453   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGP8X1/?tag=tolees-21'
 descuento: '58.03'
 average: '48.26'

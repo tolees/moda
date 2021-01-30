@@ -16,6 +16,7 @@ comparePrice: 142.0 EUR
 prodname: 'Ray-Ban Mod. 4147 Gafas de sol  Light Havana  55 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005RB0Z3O/?tag=tolees-21'
 descuento: '33.10'
 average: '95.0'

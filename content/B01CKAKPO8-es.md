@@ -16,6 +16,7 @@ comparePrice: 24.5 EUR
 prodname: 'Feliz Caminar - Zuecos Sanitarios Flotantes Blanco  41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CKAKPO8/?tag=tolees-21'
 descuento: '16.33'
 average: '20.5'

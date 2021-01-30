@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Pepe Jeans Art Camiseta  Azul  595navy 595   6-7 años  Talla del Fabricante: 6  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J28BDX3/?tag=tolees-21'
 descuento: '39.75'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 85.2 EUR
 prodname: 'OAKLEY Holbrook Xl 941703 Gafas de sol para Hombre  Negro/Brillo  0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Z6KCGH/?tag=tolees-21'
 descuento: '16.67'
 average: '71.0'

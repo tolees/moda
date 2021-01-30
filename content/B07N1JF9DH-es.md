@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Cosmo Way  Zapatos de Tacón para Mujer  Negro Black/Comb  35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JF9DH/?tag=tolees-21'
 descuento: '75.21'
 average: '24.78'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Woven Graphic Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black 013   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L11RPCF/?tag=tolees-21'
 descuento: '64.57'
 average: '9.765'

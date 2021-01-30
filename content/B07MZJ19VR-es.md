@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Superdry Surplus Goods Box FIT tee Camiseta  Negro  Washed Black AFB   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZJ19VR/?tag=tolees-21'
 descuento: '77.10'
 average: '10.28'

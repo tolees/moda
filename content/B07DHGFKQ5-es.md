@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'AngLink Guantes Barbacoa  Resistentes Al Calor Extremo hasta 800°C 1 Par Guantes de Cocina Antideslizante para Horno Microondas y Parrilla  Guantes para Cocinar Chimenea Hornear Asar 33cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHGFKQ5/?tag=tolees-21'
 descuento: '55.01'
 average: '17.49'

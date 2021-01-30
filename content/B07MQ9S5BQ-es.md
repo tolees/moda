@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B Tutim A  Zapatillas Bebés  Beige  Biscuit C5046   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ9S5BQ/?tag=tolees-21'
 descuento: '50.00'
 average: '24.95'

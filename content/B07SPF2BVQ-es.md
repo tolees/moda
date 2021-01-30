@@ -16,6 +16,7 @@ comparePrice: 164.95 EUR
 prodname: 'MAMMUT Zapatilla DUCAN Low GTX  Zapatos para Hombre  Spicy/Highway'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPF2BVQ/?tag=tolees-21'
 descuento: '20.64'
 average: '130.9'

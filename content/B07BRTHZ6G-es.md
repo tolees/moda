@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'UMIPUBO Mujer Ropa de Baño Crochet Vestido de Playa V Cuello Camisolas y Pareos Bikini Cover up  Beige '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRTHZ6G/?tag=tolees-21'
 descuento: '23.51'
 average: '13.816666666666666'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'BOSS Trek 4 Camiseta  Blanco  White 100   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N95R9DZ/?tag=tolees-21'
 descuento: '79.22'
 average: '12.46'

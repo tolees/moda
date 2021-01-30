@@ -16,6 +16,7 @@ comparePrice: 36 EUR
 prodname: 'find. 59699 vaqueros mujer  Azul  Mid Blue   W26/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HSW99X/?tag=tolees-21'
 descuento: '60.00'
 average: '14.4'

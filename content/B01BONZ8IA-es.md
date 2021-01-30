@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'ECCO Soft 2.0  Zapatos de Cordones Derby para Mujer  Negro  Black 51052   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BONZ8IA/?tag=tolees-21'
 descuento: '15.70'
 average: '71.61'

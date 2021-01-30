@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'JOINFREE Zapatos de Agua para niños Calzado de Secado rápido Calcetines Deportivos Aqua Botines Playa Piscina Lago Calzado Dot Blue 18-37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBHH6KG/?tag=tolees-21'
 descuento: '39.15'
 average: '13.99'

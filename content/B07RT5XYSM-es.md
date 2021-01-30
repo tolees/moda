@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'GLEADING Collar Anti pulgas y garrapatas para Perros y Gatos  prevención de garrapatas y pulgas hipoalergénico e Impermeable por 8 Meses de protección  tamaño Ajustable 62cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT5XYSM/?tag=tolees-21'
 descuento: '52.00'
 average: '12.0'

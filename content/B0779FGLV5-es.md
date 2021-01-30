@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Pepe Jeans AMERSHAM PM504034 Camiseta  Gris  Middle Grey 925   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779FGLV5/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

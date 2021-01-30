@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'YWLINK Mono NiñA NiñO Verano Sin Mangas De Color SóLido BotóN A Rayas Mameluco Mezcla De AlgodóN Moda Linda Ocio Y Confort Regalo De Fiesta De CumpleañOs Playa Viajes X-Azul Claro 12-18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STR2PHM/?tag=tolees-21'
 descuento: '61.42'
 average: '4.24'

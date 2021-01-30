@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Rayen Lavadora y Secadora lavandería para Calzado | Bolsa Protectora Reutilizable para el Lavado de Zapatos | 34 x 16 x 19 cm  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB33HZS/?tag=tolees-21'
 descuento: '20.09'
 average: '8.753333333333332'

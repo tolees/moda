@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Tommy Hilfiger Classic Braguita de Bikini  Rojo  Red XCN   Talla única  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6MGYDR/?tag=tolees-21'
 descuento: '33.78'
 average: '26.815'

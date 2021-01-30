@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Zuecos Hombre Playa Piscina Sanitarios Enfermera Goma Verano Zapatillas de Trabajo Sandalias Negro Azul Amarillo 40-45 Negro 43'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9WTC99/?tag=tolees-21'
 descuento: '31.44'
 average: '14.91'

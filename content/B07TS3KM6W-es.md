@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s The tee Camiseta de Manga Corta  Azul  BRW T2 Marina 0793   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS3KM6W/?tag=tolees-21'
 descuento: '40.03'
 average: '17.99'

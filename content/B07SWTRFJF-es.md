@@ -16,6 +16,7 @@ comparePrice: 91.96 EUR
 prodname: 'Geox D Ophira C  Zapatillas para Mujer  Beige  Lt Taupe/Lt Gold Ch62l   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTRFJF/?tag=tolees-21'
 descuento: '24.34'
 average: '69.58'

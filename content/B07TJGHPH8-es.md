@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry OL Vintage Emb Crew Camiseta  Azul  Navy Blue Feeder Y4p   2XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJGHPH8/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Taglory Collar Perro Ajustable Estilo Único Collar Adiestramiento para Perros Grandes 40-60cm Flor Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084QGPDJR/?tag=tolees-21'
 descuento: '20.68'
 average: '11.89'

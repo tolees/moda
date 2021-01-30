@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Columbia Lay D Down II  Chaqueta de esquí para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XF58HB2/?tag=tolees-21'
 descuento: '66.26'
 average: '84.34'

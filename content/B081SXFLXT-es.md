@@ -16,6 +16,7 @@ comparePrice: 49.26 EUR
 prodname: 'XWZZZZ Juguete de la Felicidad Masturbador Masculino Copa automático Inteligente de la Copa Pistón Chupado 400 Veces/Minuto y 6 velocidades rotación de 180 ° vibración Personal Massager Camiseta Sei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081SXFLXT/?tag=tolees-21'
 descuento: '33.05'
 average: '32.98'

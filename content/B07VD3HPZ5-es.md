@@ -16,6 +16,7 @@ comparePrice: 20.86 EUR
 prodname: 'Calvin Klein Vegetable Dye Monogram Slim tee Camiseta  Azul  Chambray Blue CDN   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD3HPZ5/?tag=tolees-21'
 descuento: '34.76'
 average: '13.61'

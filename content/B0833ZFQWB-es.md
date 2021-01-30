@@ -16,6 +16,7 @@ comparePrice: 15.59 EUR
 prodname: 'Collar Antiparasitos para Perros y Gatos  contra Pulgas Garrapatas y Mosquitos  Ajustable a Prueba de Agua  una solución Natural para la prevención de plagas  8 Meses Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0833ZFQWB/?tag=tolees-21'
 descuento: '16.68'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Pepe Jeans Rogery Chaqueta   Brass 891   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZMHX7W/?tag=tolees-21'
 descuento: '22.23'
 average: '111.97999999999999'

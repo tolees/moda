@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Shirt Dress Vestido  Azul  Oil Blue Mo   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N19SWMW/?tag=tolees-21'
 descuento: '84.23'
 average: '15.76'

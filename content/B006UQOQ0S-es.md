@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Helly Hansen Seven J Chaqueta Impermeable con Forro de Secado rápido  Cortaviento y Transpirable para Hombre y para Uso Diario  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006UQOQ0S/?tag=tolees-21'
 descuento: '35.73'
 average: '68.34307692307694'

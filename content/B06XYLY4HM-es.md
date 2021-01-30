@@ -16,6 +16,7 @@ comparePrice: 39.38 EUR
 prodname: 'find. 53669  Chaqueta Para Mujer  Azul  Mid Blue   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYLY4HM/?tag=tolees-21'
 descuento: '61.91'
 average: '15.0'

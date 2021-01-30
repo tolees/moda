@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Essential TH Beach Sandal  Chanclas para Hombre  Negro  Black 990   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T8K5PX/?tag=tolees-21'
 descuento: '29.94'
 average: '24.45'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Vero Moda Vmsiv Soraya Short Jacket Boos Chaqueta  Azul  Smoke Blue   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GW63PFW/?tag=tolees-21'
 descuento: '52.59'
 average: '18.96'

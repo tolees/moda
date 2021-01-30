@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Geox D Nydame D  Zapatillas para Mujer  Negro  Black C9999   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRKB3KX/?tag=tolees-21'
 descuento: '59.29'
 average: '56.96'

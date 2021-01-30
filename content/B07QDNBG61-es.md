@@ -16,6 +16,7 @@ comparePrice: 50.58 EUR
 prodname: 'Mexx Falda  Multicolor  Floral Printed 318186   36  Talla del Fabricante: 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDNBG61/?tag=tolees-21'
 descuento: '81.99'
 average: '9.11'

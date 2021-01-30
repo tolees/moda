@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Hurley M One&Only Solid tee Camiseta  Hombre  Camelia  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YMXZBM1/?tag=tolees-21'
 descuento: '48.04'
 average: '12.99'

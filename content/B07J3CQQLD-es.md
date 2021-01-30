@@ -16,6 +16,7 @@ comparePrice: 13.31 EUR
 prodname: 'Under Armour UA Streaker 2.0 Shortsleeve Camiseta  Hombre  Rojo  Beta Red/Reflective 632   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3CQQLD/?tag=tolees-21'
 descuento: '20.36'
 average: '10.6'

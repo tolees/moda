@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Tuc Tuc Camiseta Punto NIÑA ROJA Chalk Painting'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6YGRMZ/?tag=tolees-21'
 descuento: '49.96'
 average: '6.48'

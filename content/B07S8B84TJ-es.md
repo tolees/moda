@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Sandalias Mujer Verano 2019 con Plataforma Damas Moda Bling Cristal SóLido Peep Toe Hebilla Zapatos Casuales Negro 35 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8B84TJ/?tag=tolees-21'
 descuento: '99.97'
 average: '0.01'

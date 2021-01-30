@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Organizador de Equipaje de Viaje  7 Piezas Impermeables Cubos de lavandería Bolsas de compresión Bolsas Maleta Organizador de artículos de Aseo para Ropa  Zapatos  Ropa Interior  cosméticos  Libros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T18Y7GS/?tag=tolees-21'
 descuento: '58.35'
 average: '14.99'

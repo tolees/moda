@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Newfacelook De las mujeres Señoras Motocicleta Impermeable Protector Chaqueta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G1L1LWM/?tag=tolees-21'
 descuento: '44.45'
 average: '49.99'

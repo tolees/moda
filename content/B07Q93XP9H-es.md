@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'SALOMON Coton Logo SS tee M Camiseta Deportiva de Manga Corta  Algodón  Hombre  Azul  Night Sky   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q93XP9H/?tag=tolees-21'
 descuento: '28.61'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 38 EUR
 prodname: 'Activewear Sudadera Deportiva Hombre  Negro  Black   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU2DTY3/?tag=tolees-21'
 descuento: '70.00'
 average: '15.833333333333332'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'ECCO X-TRINSICM  Sandalias con Punta Abierta para Hombre  Marrón  Cayote 2409   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHL2GL2/?tag=tolees-21'
 descuento: '52.03'
 average: '47.95'

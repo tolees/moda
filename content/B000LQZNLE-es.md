@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Converse AS HI CAN OPTIC. WHT M7650 - Botines de lona unisex  color blanco  talla 42.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LQZNLE/?tag=tolees-21'
 descuento: '23.89'
 average: '53.28'

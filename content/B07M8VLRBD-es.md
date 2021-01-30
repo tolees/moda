@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Lee Plain Crew Neck SWS Sudadera  Gris  Grey Mele MP   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8VLRBD/?tag=tolees-21'
 descuento: '70.03'
 average: '30.630000000000003'

@@ -16,6 +16,7 @@ comparePrice: 39.29 EUR
 prodname: 'Marca Amazon - find. Wedge Close Toe Canvas Espadrille Sandalias Punta Cerrada  Negro Black  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5NKYBP/?tag=tolees-21'
 descuento: '20.08'
 average: '31.4'

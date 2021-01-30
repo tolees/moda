@@ -16,6 +16,7 @@ comparePrice: 11.86 EUR
 prodname: 'Twins Jacke TEDDYBÄR  Chaqueta Bebé unisex  Morado  lila   74'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GLW9OCK/?tag=tolees-21'
 descuento: '64.67'
 average: '4.19'

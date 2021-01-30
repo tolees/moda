@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Desigual Dress Always Vestido  Azul  Denim Medium Wash 5053   36  Talla del Fabricante: 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4CVSN6/?tag=tolees-21'
 descuento: '72.90'
 average: '24.38'

@@ -16,6 +16,7 @@ comparePrice: 149 EUR
 prodname: 'Dickies Farnham Chaqueta  Marrón  Medium  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKQ95GL/?tag=tolees-21'
 descuento: '73.31'
 average: '39.77'

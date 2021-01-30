@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'VAIRO Falda Pantalon  Skort  Columns  Negro/Rosa  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZZMW4G/?tag=tolees-21'
 descuento: '52.77'
 average: '17.9'

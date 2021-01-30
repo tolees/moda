@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Esprit 089ee1f005 Blusa  Blanco  Off White 110   36  Talla del Fabricante: 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ9B4SB/?tag=tolees-21'
 descuento: '77.04'
 average: '9.18'

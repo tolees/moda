@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta  Negro  Black Black   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7KC3S1/?tag=tolees-21'
 descuento: '20.01'
 average: '23.765'

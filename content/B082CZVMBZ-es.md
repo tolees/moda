@@ -16,6 +16,7 @@ comparePrice: 150.79 EUR
 prodname: 'ASICS Solution Speed FF Zapatilla Indoor S - SS20-40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082CZVMBZ/?tag=tolees-21'
 descuento: '20.00'
 average: '120.63'

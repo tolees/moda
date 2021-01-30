@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Graphic 13 Sudadera  Azul  Sartho Blue 6067   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFYRTYJ/?tag=tolees-21'
 descuento: '50.01'
 average: '39.97'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour UA Seamless SS  Camiseta de Manga Corta para Hombre  Camiseta para Correr Hombre  Blanco  White/Black  100    2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPXV8BP/?tag=tolees-21'
 descuento: '44.44'
 average: '24.485'

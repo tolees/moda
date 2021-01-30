@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Panama Jack Salton Basics  Sandalias con Punta Abierta para Hombre  Marrón  Marron C1   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZQDZJZ/?tag=tolees-21'
 descuento: '39.50'
 average: '54.95'

@@ -16,6 +16,7 @@ comparePrice: 17.19 EUR
 prodname: 'Desigual TS Vicent Camiseta  Azul  Navy 5000   S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SMCPWN/?tag=tolees-21'
 descuento: '15.36'
 average: '14.55'

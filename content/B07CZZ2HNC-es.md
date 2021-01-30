@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour UA Qualifier Speedpocket 7   Short Pantalón Corto  Hombre  Negro  Black/Black/Reflective 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZZ2HNC/?tag=tolees-21'
 descuento: '61.02'
 average: '19.49'

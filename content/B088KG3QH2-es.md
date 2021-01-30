@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Suhctup Funda Compatible con Samsung Galaxy M10 Antigolpes Carcasa Bumper Transparente [Protección Esquina] Silicona TPU Gel Ultra-Delgado Moda Dibujo Anti-Choque Estuche Case Zorro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088KG3QH2/?tag=tolees-21'
 descuento: '52.71'
 average: '8.98'

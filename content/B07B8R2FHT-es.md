@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Lacoste CH4976 Camisa  Blanco  Blanc   X-Small  Talla del Fabricante: 37  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8R2FHT/?tag=tolees-21'
 descuento: '55.01'
 average: '44.99'

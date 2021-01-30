@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Coat Cassidy Abrigo  Azul  Navy 5000   48  Talla del Fabricante: 46  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N39VYNR/?tag=tolees-21'
 descuento: '52.21'
 average: '47.77'

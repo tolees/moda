@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Crocs Classic Clog K  Zuecos Unisex Niños  Verde  Grass Green   29/30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JLGB49/?tag=tolees-21'
 descuento: '50.02'
 average: '13.49'

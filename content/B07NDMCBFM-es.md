@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Modern T Shirt Bra Sujetador para Camiseta  Azul  Navy Blazer 416   K  Talla del Fabricante: C70  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMCBFM/?tag=tolees-21'
 descuento: '43.33'
 average: '22.61'

@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Geox D GLYNNA C  Botines para Mujer  Negro  Black C9999   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRHZJ5/?tag=tolees-21'
 descuento: '62.26'
 average: '50.95'

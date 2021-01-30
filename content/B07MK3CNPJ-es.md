@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GANT D1.Winter TWI Buffalo Check Reg BD Camisa  Azul  Vintage Blue 442   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK3CNPJ/?tag=tolees-21'
 descuento: '47.40'
 average: '55.163333333333334'

@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Mujer Torera Casual Frente Abierto Manga Larga para Vestido Oficina Negro M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K13L5KZ/?tag=tolees-21'
 descuento: '48.50'
 average: '16.99'

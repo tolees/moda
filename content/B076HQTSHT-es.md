@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Core18 Hoody Sudadera con Capucha  Unisex Niños  Rojo  Rojo/Blanco   5-6 años  Talla del Fabricante: 116 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HQTSHT/?tag=tolees-21'
 descuento: '51.76'
 average: '17.89'

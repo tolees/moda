@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Helly Hansen Velocity Insulated Pant Pantalón  Hombre  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XRFT0HO/?tag=tolees-21'
 descuento: '53.36'
 average: '74.62'

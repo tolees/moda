@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Azul  Baltic Adapt 0472   32W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4TR91/?tag=tolees-21'
 descuento: '74.05'
 average: '29.6475'

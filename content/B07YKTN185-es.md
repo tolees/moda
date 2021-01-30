@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Esprit 990ee1f301 Blusa  Blanco  White 100   40  Talla del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Esprit'
 buyurl: 'https://www.amazon.es/dp/B07YKTN185/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

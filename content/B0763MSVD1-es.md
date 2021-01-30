@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Marvel Avengers - Camiseta para hombre - Thor - Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0763MSVD1/?tag=tolees-21'
 descuento: '58.05'
 average: '7.95'

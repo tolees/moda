@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LIGE Relojes para Hombres Moda Relojes de Pulsera de para Hombres Vestido de Negocios Reloj de Cuarzo Impermeable para Hombres con Negro Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSSB2NY/?tag=tolees-21'
 descuento: '66.67'
 average: '29.99'

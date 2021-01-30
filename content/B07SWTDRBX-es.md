@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Geox D Tabelya A  Zapatillas para Mujer  Beige  Cream/Lt Gold C5k2l   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTDRBX/?tag=tolees-21'
 descuento: '61.73'
 average: '47.84'

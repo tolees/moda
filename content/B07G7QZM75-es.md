@@ -16,6 +16,7 @@ comparePrice: 44.81 EUR
 prodname: 'DINOKA Riñonera de Gran Capacidad Cintura Fanny Pack Mujer Hombre Niños para Pasaporte Cargador Gafas de Sol  Crema Protectora Paraguas Bolso de Cintura Viajar Hípica Golf  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7QZM75/?tag=tolees-21'
 descuento: '57.62'
 average: '18.99'

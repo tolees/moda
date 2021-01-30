@@ -16,6 +16,7 @@ comparePrice: 49.88 EUR
 prodname: 'rismart Mujer Cuña Plataforma Botín Elegante Deportivos Zapatillas Zapatos SN15018 Blanco 37 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXVTX6W/?tag=tolees-21'
 descuento: '42.10'
 average: '28.88'

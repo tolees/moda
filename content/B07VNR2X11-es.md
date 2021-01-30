@@ -16,6 +16,7 @@ comparePrice: 7.3 EUR
 prodname: 'Izod Tartan Check BD Shirt Camisa Casual  Color Blanco  Vanilla Ice 162   43 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNR2X11/?tag=tolees-21'
 descuento: '24.38'
 average: '5.52'

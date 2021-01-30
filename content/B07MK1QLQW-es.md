@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Napapijri Gardiner Camisa Casual  Multicolor  Multicol Check 02c   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK1QLQW/?tag=tolees-21'
 descuento: '60.00'
 average: '35.6'

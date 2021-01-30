@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Helly Hansen Rider Vest Chaleco de Ayuda a la flotabilidad  Unisex Adulto  Royal Blue  60/70 KG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV2C1PX/?tag=tolees-21'
 descuento: '20.08'
 average: '41.22'

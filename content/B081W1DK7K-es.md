@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Fred Perry Taped Chest Track Jacket  Chaqueta deportiva - M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081W1DK7K/?tag=tolees-21'
 descuento: '15.39'
 average: '109.99'

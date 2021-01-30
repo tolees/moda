@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Rojo  Power Red/Black   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PLZN1Q/?tag=tolees-21'
 descuento: '38.17'
 average: '20.05666666666667'

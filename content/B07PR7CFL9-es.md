@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: '8safe Bolso de Bebé Universal | Material de Alta Calidad Oxford 600D | Multi-Bolsillos | Cambiador Incluido GRATIS | Portabiberones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PR7CFL9/?tag=tolees-21'
 descuento: '60.02'
 average: '9.99'

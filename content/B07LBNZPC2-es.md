@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Helly Hansen Moss Aislado 3-In-1 Forro Polar Interior Chaqueta Impermeable  Hombre  Navy  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBNZPC2/?tag=tolees-21'
 descuento: '62.80'
 average: '66.96'

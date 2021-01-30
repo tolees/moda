@@ -16,6 +16,7 @@ comparePrice: 56.25 EUR
 prodname: 'Lois - Bolso Bandolera de Mujer Extensible. Doble Asa Redondeada y Bandolera. Lona Estampada y Cuero PU Polipiel. Convertible en Bolso de Mano. para Uso Diario. 26035  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y67MTN6/?tag=tolees-21'
 descuento: '46.93'
 average: '29.85'

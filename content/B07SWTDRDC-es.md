@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox D Borealis A  Sandalia con Pulsera para Mujer  Azul  Sage C3016   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTDRDC/?tag=tolees-21'
 descuento: '57.50'
 average: '33.96'

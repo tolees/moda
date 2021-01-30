@@ -16,6 +16,7 @@ comparePrice: 31.5 EUR
 prodname: 'bugatti 321793513200 - Botines de Cuero Hombre  Color Marrón  Talla 42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDB1WKT/?tag=tolees-21'
 descuento: '19.49'
 average: '25.36'

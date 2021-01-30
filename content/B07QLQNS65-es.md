@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'DoGeek Zapato Seguridad Zapatos Trabajo con Punta de Acero Antideslizante  Senderismo Unisex-Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLQNS65/?tag=tolees-21'
 descuento: '50.01'
 average: '28.99'

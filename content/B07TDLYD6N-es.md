@@ -16,6 +16,7 @@ comparePrice: 36.27 EUR
 prodname: 'Quiksilver Omni Logo Sudadera con Capucha  Hombre  Gris  Light Grey Heather   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDLYD6N/?tag=tolees-21'
 descuento: '26.66'
 average: '26.6'

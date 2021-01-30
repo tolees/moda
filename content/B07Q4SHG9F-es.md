@@ -16,6 +16,7 @@ comparePrice: 45.33 EUR
 prodname: 'Mochilas Escolares Fanspack Mochilas Escolares Juveniles Bolso Mochila Deporte Mochila Colegio Backpack Grande Mochila Infantil Juveniles  Negro y Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4SHG9F/?tag=tolees-21'
 descuento: '33.36'
 average: '30.21'

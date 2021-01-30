@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'XTI - Sandalias con Tacón de Fiesta - Sandalia con Tacón Fino - Cierre con Cordones - Color Taupe - Talla 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084JJBWFR/?tag=tolees-21'
 descuento: '30.03'
 average: '34.95'

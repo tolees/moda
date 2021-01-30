@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Dickies Milford Abrigo  Multicolor Camouflge   X-Small Tamaño del Fabricante:XSmal  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OPRXUMY/?tag=tolees-21'
 descuento: '33.26'
 average: '54.89'

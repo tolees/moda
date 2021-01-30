@@ -16,6 +16,7 @@ comparePrice: 85 EUR
 prodname: 'Timberland Davis Square 6 Inch  Zapatillas Altas Unisex-Niño  Amarillo  Wheat   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGMSK28/?tag=tolees-21'
 descuento: '71.51'
 average: '24.22'

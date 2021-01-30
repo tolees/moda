@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'DCC FIONNI Collar Mujer Corazon Colgante Plata de Ley 925 Joyeria Flores Colgante Collares Personalizados con Caja de Regalo Mama Aniversario Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZYBXFS/?tag=tolees-21'
 descuento: '23.33'
 average: '23.0'

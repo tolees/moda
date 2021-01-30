@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Avalon Wint Chaqueta  Azul  BLU Marine 176   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVLT3SL/?tag=tolees-21'
 descuento: '55.90'
 average: '87.76'

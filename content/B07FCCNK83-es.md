@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Pañal Bolso Mochila  Gran Capacidad Mochila de Pañales Bolso de Viaje  Impermeable Bolsa de Pañales con Aislado Bolsillos para Cuidado de Bebé y Mamá-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCCNK83/?tag=tolees-21'
 descuento: '46.67'
 average: '31.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SELECTED HOMME Shhcollect Shirt Ls R Noos  Camisa Hombre  Negro  Caviar   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KYFPL9/?tag=tolees-21'
 descuento: '54.41'
 average: '22.054999999999996'

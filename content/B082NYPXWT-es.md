@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Oihxse Transparente Silicona Case Compatible con Xiaomi Redmi Y1 Lite Funda Suave TPU Protección Carcasa Moda Dibujos Animados Divertida Diseño Ultra-Delgado Cubierta-Naranjas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NYPXWT/?tag=tolees-21'
 descuento: '38.52'
 average: '7.98'

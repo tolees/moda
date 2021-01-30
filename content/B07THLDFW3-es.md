@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'iWalker Guantes Gimnasios de Crossfit para los Deportes Fithil Guantes de Crossfit para Gimnasio con Muñequera para Mujer y Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THLDFW3/?tag=tolees-21'
 descuento: '43.50'
 average: '12.99'

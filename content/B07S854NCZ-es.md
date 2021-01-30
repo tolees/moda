@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip  Chanclas Unisex-Adult  Orange  Orange/White   46/47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S854NCZ/?tag=tolees-21'
 descuento: '28.73'
 average: '17.81'

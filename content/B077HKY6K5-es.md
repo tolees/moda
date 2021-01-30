@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Vila Clothes Vitinny New S/s Dress-Noos Vestido  Blanco  Snow White Stripes: Total Eclipse   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HKY6K5/?tag=tolees-21'
 descuento: '29.91'
 average: '18.89'

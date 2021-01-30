@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Azul  Blue   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJ4BJ1P/?tag=tolees-21'
 descuento: '73.72'
 average: '6.7225'

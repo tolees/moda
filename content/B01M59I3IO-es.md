@@ -16,6 +16,7 @@ comparePrice: 34.47 EUR
 prodname: 'VILA CLOTHES VICANTIK L/S SHIRT  Blusa Mujer  Verde  Vetiver   38   Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M59I3IO/?tag=tolees-21'
 descuento: '72.76'
 average: '12.06'

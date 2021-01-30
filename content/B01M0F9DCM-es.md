@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ESPRIT Bodywear 996EF1A973  Parte de arriba de bikini Mujer  Negro  Black   36B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0F9DCM/?tag=tolees-21'
 descuento: '47.89'
 average: '15.996666666666666'

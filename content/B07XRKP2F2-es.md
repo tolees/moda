@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bolso de Fiesta Noche Mujer Embrague Hard Shell Clutches Elegante Diamantes de imitación Billetera de Mano del Banquete Boda Señoras Rosa Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRKP2F2/?tag=tolees-21'
 descuento: '32.51'
 average: '27.99'

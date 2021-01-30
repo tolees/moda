@@ -16,6 +16,7 @@ comparePrice: 62.69 EUR
 prodname: 'Levi s Barstow Western Camisa Casual de Manga Larga  Negro  Bruised Indigo Mid 0318   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFG2SVM/?tag=tolees-21'
 descuento: '51.09'
 average: '37.70333333333333'

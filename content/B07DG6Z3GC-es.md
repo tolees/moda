@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Energy Seamless tee Camiseta  Hombre  Negro Black Heather  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DG6Z3GC/?tag=tolees-21'
 descuento: '38.26'
 average: '18.676666666666666'

@@ -16,6 +16,7 @@ comparePrice: 25.51 EUR
 prodname: 'VOHONEY - Bolso mochila para mujer Negro Sac À Dos Femme pour Noir Pu 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8F5XGT/?tag=tolees-21'
 descuento: '45.51'
 average: '13.9'

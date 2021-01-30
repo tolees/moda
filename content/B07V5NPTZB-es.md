@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Tom Tailor Denim Kontrastreiche Chaqueta Punto  Beige  Camel Melange 18804   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5NPTZB/?tag=tolees-21'
 descuento: '83.61'
 average: '11.47'

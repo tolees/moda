@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Desigual Mone adaggio - Monedero con Cremallera para Mujer  Color Blanco  2 x 9 50 x 19 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJQTSNH/?tag=tolees-21'
 descuento: '50.05'
 average: '24.7125'

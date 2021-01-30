@@ -16,6 +16,7 @@ comparePrice: 28.75 EUR
 prodname: 'Tommy Jeans Mujer Essential Slim Tee Camiseta   Negro  Tommy Black Bbu  Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYPZJTB/?tag=tolees-21'
 descuento: '34.78'
 average: '18.75'

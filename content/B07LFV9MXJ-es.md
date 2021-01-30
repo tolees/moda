@@ -16,6 +16,7 @@ comparePrice: 185.0 EUR
 prodname: 'Geox D Felicity I  Botas Mosqueteras para Mujer  Negro  Black C9999   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV9MXJ/?tag=tolees-21'
 descuento: '88.55'
 average: '21.19'

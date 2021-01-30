@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Kipling Souta  Bolso con Bandolera para Mujer  Naranja  Papaya   17x11x5.5 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRCBJQJ/?tag=tolees-21'
 descuento: '70.84'
 average: '16.283333333333335'

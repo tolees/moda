@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Corp Bar tee Camiseta Deporte  Gris  Grey P9x   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGCCN63/?tag=tolees-21'
 descuento: '29.95'
 average: '27.95'

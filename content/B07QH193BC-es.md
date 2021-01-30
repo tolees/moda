@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'MTNG Collection 58142  Botines para Mujer  Negro  Antil Negro C35442   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QH193BC/?tag=tolees-21'
 descuento: '20.00'
 average: '18.4'

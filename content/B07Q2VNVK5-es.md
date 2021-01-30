@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'TTYAOVO Chicas Unicornio Fancy Vestido Princesa Flor Desfile de Niños Vestidos sin Mangas Volantes Vestido de Fiesta Talla 3-4 Años Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2VNVK5/?tag=tolees-21'
 descuento: '33.37'
 average: '19.99'

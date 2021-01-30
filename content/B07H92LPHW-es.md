@@ -16,6 +16,7 @@ comparePrice: 240.0 EUR
 prodname: 'Gennia RESPIRO. - Zapatos de Tacon de Aguja 9 cm con Punta Fina Cerrada para Mujer y Cierre con Hebilla Metalica  Piel Ante Rojo Tristan  Talla 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H92LPHW/?tag=tolees-21'
 descuento: '58.75'
 average: '99.0'

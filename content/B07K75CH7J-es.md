@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Levi s On Tour Camiseta Deportiva de Tirantes  Blanco  Red Hsmk Tank White 0022   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K75CH7J/?tag=tolees-21'
 descuento: '43.56'
 average: '9.639999999999999'

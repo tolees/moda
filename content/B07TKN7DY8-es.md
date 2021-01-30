@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Flex Sun  Sandalias de Talón Abierto para Mujer  Negro  Black Leather Black Leather   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKN7DY8/?tag=tolees-21'
 descuento: '53.89'
 average: '50.72'

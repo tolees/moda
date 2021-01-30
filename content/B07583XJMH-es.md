@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'The North Face T934VX Pantalón Infantil con Tirantes Snowquest  Unisex niños  TNF Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07583XJMH/?tag=tolees-21'
 descuento: '58.67'
 average: '41.33'

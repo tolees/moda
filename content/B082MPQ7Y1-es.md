@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Geographical Norway Chaqueta Mujer Abby Negro 01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MPQ7Y1/?tag=tolees-21'
 descuento: '22.56'
 average: '99.9'

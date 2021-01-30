@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Miraculous - Camiseta para niñas Ladybug y Cat Noir - 8-9 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VGR1WL/?tag=tolees-21'
 descuento: '31.35'
 average: '10.95'

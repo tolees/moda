@@ -16,6 +16,7 @@ comparePrice: 123.28 EUR
 prodname: 'G-STAR RAW 5620 3D Vaqueros Slim  Gris  Dry Waxed Pebble Grey 7607-a947   30W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFYQJ51/?tag=tolees-21'
 descuento: '47.30'
 average: '64.97'

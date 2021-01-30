@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Dahlia Roll Neck Jumper Camiseta Cuello Alto  Verde  Emerald Green Vz7   L  Talla del Fabricante:14  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3KPCSR/?tag=tolees-21'
 descuento: '71.21'
 average: '20.15'

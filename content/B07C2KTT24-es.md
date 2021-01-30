@@ -16,6 +16,7 @@ comparePrice: 23.55 EUR
 prodname: 'Gifort 53Pcs Ganchillos Crochet  Ergonómicos Agujas de Ganchillo  Agujas de Punto Coloridas con Mango de Goma de Ganchillos Accesorios Con El Bolso De la PU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2KTT24/?tag=tolees-21'
 descuento: '55.88'
 average: '10.443333333333333'

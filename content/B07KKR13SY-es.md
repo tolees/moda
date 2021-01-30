@@ -16,6 +16,7 @@ comparePrice: 85 EUR
 prodname: 'Naf Naf Kenr2d Vestido  Marfil  Ecru/Fadded A and   34 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKR13SY/?tag=tolees-21'
 descuento: '47.54'
 average: '44.59'

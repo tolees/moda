@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Core Super Slim Camisa Vaquera  Multicolor  Black/Imperial Blue 8630   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDP5B15/?tag=tolees-21'
 descuento: '79.00'
 average: '16.79'

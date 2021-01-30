@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Hombre UA GL Foundation Short Sleeve tee  Camiseta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R1YNDSS/?tag=tolees-21'
 descuento: '25.42'
 average: '19.39'

@@ -16,6 +16,7 @@ comparePrice: 22.4 EUR
 prodname: 'MTNG Mauri  Bolso Mochila para Mujer  Negro  Antel/Liso Neg   14x31x26 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PML28FF/?tag=tolees-21'
 descuento: '22.23'
 average: '17.42'

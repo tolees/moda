@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'VVA Gafas de sol Hombre Polarizadas Aviador Hombres Aviador Gafas de sol Polarizadas Hombre Unisex Protección UV400 por V101 Negro/Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9ZXTD6/?tag=tolees-21'
 descuento: '32.01'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'SHIELDON Mochila Portatil 15.6 Pulgadas  Mochila Impermeable con Bolsillo Antirrobo  Mochila Escolares  Bolso Mochila Ordenador Hombre Mujer Backpack Mochila para Negocio Trabajo Viaje  22L  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8FSH5R/?tag=tolees-21'
 descuento: '70.56'
 average: '51.13285714285715'

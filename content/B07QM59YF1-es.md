@@ -16,6 +16,7 @@ comparePrice: 16.98 EUR
 prodname: 'Gifts Treat Sombrero de Invierno de Las Niños Moda Sombrero Tejido  Dinosaurio-2  52cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QM59YF1/?tag=tolees-21'
 descuento: '35.28'
 average: '10.99'

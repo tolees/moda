@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Esprit 089ee1i002 Chaqueta Punto  Beige  Beige 5 274   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1PZMK1/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

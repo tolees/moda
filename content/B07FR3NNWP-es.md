@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Camper 1913  Zapatos de cordones Oxford para Hombre  Marrón  Dark Brown 200   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR3NNWP/?tag=tolees-21'
 descuento: '30.00'
 average: '72.65'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lee V Neck tee Camiseta  Azul  Midnight Navy Ma   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N17P8QL/?tag=tolees-21'
 descuento: '58.30'
 average: '9.5375'

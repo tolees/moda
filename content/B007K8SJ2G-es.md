@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Arena HYDROSOFT JR Boy HOO  Zapatos de Playa y Piscina Unisex niño  Azul  Denim/Sky Blue 070   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007K8SJ2G/?tag=tolees-21'
 descuento: '36.05'
 average: '10.2'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Armour Fleece Jogger Pantalón De Chándal  Hombre  Gris  Steel Light Heather/Black 035   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XN3LYN/?tag=tolees-21'
 descuento: '30.05'
 average: '30.86909090909091'

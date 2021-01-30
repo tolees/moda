@@ -16,6 +16,7 @@ comparePrice: 27.61 EUR
 prodname: 'Skechers Go Walk Smart-First Class  Chanclas para Mujer  Azul  Navy Textile Nvy   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSF21P7/?tag=tolees-21'
 descuento: '15.14'
 average: '23.43'

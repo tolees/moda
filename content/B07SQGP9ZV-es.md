@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Timothy A  Zapatos de Cordones Derby para Hombre  Azul  Navy C4002   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGP9ZV/?tag=tolees-21'
 descuento: '72.05'
 average: '33.51'

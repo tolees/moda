@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Camiseta para chicos de Minecraft Negro negro 5-6 Years'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U2HP25E/?tag=tolees-21'
 descuento: '22.35'
 average: '6.95'

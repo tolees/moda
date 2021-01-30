@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Polaroid P0115 Y2 IUB Gafas de sol  Morado  Violet Pink Fluo/Grey Polarized   46 Unisex Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KQFW0ZC/?tag=tolees-21'
 descuento: '45.73'
 average: '17.91'

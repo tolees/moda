@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Superdry Padded Elite Jacket Chaqueta  Verde  Warm Olive M6c   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P16DT6R/?tag=tolees-21'
 descuento: '78.79'
 average: '25.45'

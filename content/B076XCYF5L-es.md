@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Geox J Sveth A  Zapatillas para Niños  Azul  Navy/Grey   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076XCYF5L/?tag=tolees-21'
 descuento: '64.44'
 average: '19.56'

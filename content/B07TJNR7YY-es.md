@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Leisa Faye  Sandalias Punta Cerrada para Mujer  Rojo  Red Leather Red Leather   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJNR7YY/?tag=tolees-21'
 descuento: '44.32'
 average: '38.95'

@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Buffalo - 1339-14 2.0 - Zapatos para mujer  Negro  negro   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXKVRPQ/?tag=tolees-21'
 descuento: '50.00'
 average: '110.75'

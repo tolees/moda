@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole Alpine Oxford  Zapatillas Bajas para Hombre  Negro Black Nubuck  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KVSN5NY/?tag=tolees-21'
 descuento: '43.61'
 average: '70.49'

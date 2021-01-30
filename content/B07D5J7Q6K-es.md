@@ -16,6 +16,7 @@ comparePrice: 58.88 EUR
 prodname: 'Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado Unisexo Gray Pink 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5J7Q6K/?tag=tolees-21'
 descuento: '38.88'
 average: '35.87888888888889'

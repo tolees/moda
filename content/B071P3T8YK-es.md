@@ -16,6 +16,7 @@ comparePrice: 250 EUR
 prodname: 'The North Face T93BRK Chaqueta Parka  Mujer  TNF Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071P3T8YK/?tag=tolees-21'
 descuento: '41.68'
 average: '145.79'

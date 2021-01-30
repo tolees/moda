@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Billabong™ - Chanclas - Hombre - EU 43 - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3NDBPY/?tag=tolees-21'
 descuento: '60.00'
 average: '8.0'

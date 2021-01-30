@@ -16,6 +16,7 @@ comparePrice: 33.09 EUR
 prodname: 'Dihope - Pantalón de deporte informal para hombre  diseño de camuflaje  con estampado de pantalones de deporte gris XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089LZR9H5/?tag=tolees-21'
 descuento: '54.70'
 average: '14.99'

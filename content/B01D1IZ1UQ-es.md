@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'LEABAGS Springfield Monedero de auténtico Cuero búfalo en el Estilo Vintage - TerraRosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1IZ1UQ/?tag=tolees-21'
 descuento: '80.01'
 average: '15.98'

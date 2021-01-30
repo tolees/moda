@@ -16,6 +16,7 @@ comparePrice: 14.02 EUR
 prodname: 'Mustang Chris KC Camisa  Multicolor  Check 11531   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWJ9M37/?tag=tolees-21'
 descuento: '16.76'
 average: '11.67'

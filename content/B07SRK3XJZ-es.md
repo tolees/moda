@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox U Tevere C  Sandalias con Punta Abierta para Hombre  Gris  Grey/Blue C0244   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRK3XJZ/?tag=tolees-21'
 descuento: '55.84'
 average: '35.28'

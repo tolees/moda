@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Dainese Hp1m1 - Chaqueta de esquí para Hombre  Invierno  Hombre  Color Schwarz-Iris/Chili-Pepper  tamaño Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1Y3ZGX/?tag=tolees-21'
 descuento: '44.00'
 average: '503.44'

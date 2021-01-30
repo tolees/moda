@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lee Small Sunset tee Camiseta  Negro  Black 01   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7BRB1J/?tag=tolees-21'
 descuento: '59.17'
 average: '12.23'

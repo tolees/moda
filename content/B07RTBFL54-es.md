@@ -16,6 +16,7 @@ comparePrice: 29.75 EUR
 prodname: 'Pour Moi? Glamazon Underwired Double Strap Top Parte de Arriba de Bikini  Verde  Khaki Khaki   90H  Talla del Fabricante: 34FF  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTBFL54/?tag=tolees-21'
 descuento: '77.34'
 average: '6.74'

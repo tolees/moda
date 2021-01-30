@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Marrón  Chocolate 200   38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0014C2QGE/?tag=tolees-21'
 descuento: '18.89'
 average: '28.993333333333332'

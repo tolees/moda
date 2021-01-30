@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Khanomak - Camiseta - para Mujer Negro Negro S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D9DW29G/?tag=tolees-21'
 descuento: '84.03'
 average: '3.99'

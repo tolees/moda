@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Kaylin Cara  Zapatos de Tacón para Mujer  Negro Black SDE  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JHBLN/?tag=tolees-21'
 descuento: '76.69'
 average: '20.97'

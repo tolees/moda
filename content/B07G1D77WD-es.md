@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Feilaxleer Ropa Ciclismo Verano para Hombre y Mujer - Un Conjunto de Ciclismo Jersey Maillot y Culotte Pantalones Cortos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1D77WD/?tag=tolees-21'
 descuento: '15.25'
 average: '32.82333333333333'

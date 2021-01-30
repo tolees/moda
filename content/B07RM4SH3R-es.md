@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Mochila Casual Moda LOL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM4SH3R/?tag=tolees-21'
 descuento: '18.14'
 average: '18.0'

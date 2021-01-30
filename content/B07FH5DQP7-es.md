@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Havaianas Hype  Chanclas Unisex Adulto  Multicolor  White/Water   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FH5DQP7/?tag=tolees-21'
 descuento: '29.71'
 average: '16.0'

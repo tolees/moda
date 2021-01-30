@@ -16,6 +16,7 @@ comparePrice: 54.98 EUR
 prodname: 'Mediffen Mujer Noche Tacón De Aguja Tacón Alto Cierre De Tobillo Punta Abierta Sandalias Verano Elegante Fiesta Club Sandalias Blanco Talla 43 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PWVVZH/?tag=tolees-21'
 descuento: '54.55'
 average: '24.99'

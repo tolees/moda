@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Lee Sherpa Jacket Chaqueta Vaquera  Azul  Light Stone Oy   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN3GXHT/?tag=tolees-21'
 descuento: '32.13'
 average: '80.45'

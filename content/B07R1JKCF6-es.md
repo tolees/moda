@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bolso de Fiesta Pequeña Elegante Noche Diamantes de imitación Clutch Monedero del Banquete Bolso de Boda Cocktail Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R1JKCF6/?tag=tolees-21'
 descuento: '16.67'
 average: '26.156666666666663'

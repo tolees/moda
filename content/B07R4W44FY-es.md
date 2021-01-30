@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Helly Hansen Lifaloft Insulator Jacket Chaqueta Aislante  Hombre  Azul  Electric Blue   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4W44FY/?tag=tolees-21'
 descuento: '58.05'
 average: '84.77333333333334'

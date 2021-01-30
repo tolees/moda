@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Lee Luke Vaqueros  Blue Black Wood Gq  29W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M89FHR3/?tag=tolees-21'
 descuento: '58.74'
 average: '32.99'

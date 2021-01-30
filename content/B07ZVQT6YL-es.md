@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Orig HM Vneck Camiseta  Puerto  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVQT6YL/?tag=tolees-21'
 descuento: '45.72'
 average: '13.575'

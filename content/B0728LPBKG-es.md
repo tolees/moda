@@ -16,6 +16,7 @@ comparePrice: 27.35 EUR
 prodname: 'WuiWuiyu - Zapatilla Baja de Material Sintético para Chico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0728LPBKG/?tag=tolees-21'
 descuento: '32.32'
 average: '18.51'

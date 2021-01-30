@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'De Mujer con Cuello en V Profunda con Volantes Lunares Imprimir 1/2 Media Manga de Abrigo con Bolsillos Mini Vestido Corto L-Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FM5B2MK/?tag=tolees-21'
 descuento: '55.75'
 average: '6.19'

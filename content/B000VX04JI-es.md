@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Timberland 6 Inch Premium Waterproof  Botas para Hombre  Negro  Black Nubuck   49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VX04JI/?tag=tolees-21'
 descuento: '24.72'
 average: '158.08'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Flashback  Chaqueta cortavientos  Hombre  Negro  Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017WHA4PO/?tag=tolees-21'
 descuento: '32.03'
 average: '31.595555555555556'

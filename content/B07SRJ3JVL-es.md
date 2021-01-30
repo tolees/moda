@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'REPLAY M3590 .000.2660 Camiseta  Azul  Midnight Blue. 576   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRJ3JVL/?tag=tolees-21'
 descuento: '77.33'
 average: '6.8'

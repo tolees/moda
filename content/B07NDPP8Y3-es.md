@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Core Super Slim Camisa Vaquera  Multicolor  Milk/Hudson Blue Ao 8390   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPP8Y3/?tag=tolees-21'
 descuento: '70.02'
 average: '23.97'

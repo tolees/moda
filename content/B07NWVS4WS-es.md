@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: '18th Birthday Gifts 18 cumpleaños Mujer Original 18 Camiseta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWVS4WS/?tag=tolees-21'
 descuento: '41.39'
 average: '16.99'

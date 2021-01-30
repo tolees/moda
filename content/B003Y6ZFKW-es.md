@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Urban Classics Chaqueta Lana Negro S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Y6ZFKW/?tag=tolees-21'
 descuento: '74.75'
 average: '17.65'

@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Mercedes-Benz Sonnenbrille M7004 Gafas de sol  Azul  Blau   59.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XZWSPDY/?tag=tolees-21'
 descuento: '79.42'
 average: '43.508'

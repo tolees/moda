@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Nike Y Hoodie FZ FLC TM Club19 Sudadera  Unisex niños  Gris  Black/Grey   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKXB4NJ/?tag=tolees-21'
 descuento: '22.38'
 average: '27.683333333333334'

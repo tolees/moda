@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Tommy Hilfiger LR Trunk Bóxer  Negro  Black 990   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9GWYGH/?tag=tolees-21'
 descuento: '50.00'
 average: '12.2'

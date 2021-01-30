@@ -16,6 +16,7 @@ comparePrice: 20.74 EUR
 prodname: 'Jane Klain283 819 - Sandalias con Punta Abierta Mujer  Color Negro  Talla 37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0749PRF1Y/?tag=tolees-21'
 descuento: '24.20'
 average: '15.72'

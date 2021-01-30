@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Fast Left Chest 2.0 SS Camiseta Deportiva De Manga Corta  Hombre  Blanco  White 101   MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKX69GN/?tag=tolees-21'
 descuento: '48.12'
 average: '13.823333333333334'

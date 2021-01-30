@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Avery C  Zapatillas para Mujer  Negro  Black C9999   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPXTJD/?tag=tolees-21'
 descuento: '71.28'
 average: '28.69'

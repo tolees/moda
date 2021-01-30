@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Neosens S970 Restored Skin TINTILLA  Sandalias con Punta Abierta para Mujer  Marrón  Cuero Cuero   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9RZHWD/?tag=tolees-21'
 descuento: '31.91'
 average: '102.1'

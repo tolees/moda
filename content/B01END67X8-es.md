@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'JACK & JONES - Jcomac Slim fit - Camiseta Bã¡Sica - White'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01END67X8/?tag=tolees-21'
 descuento: '38.85'
 average: '11.0'

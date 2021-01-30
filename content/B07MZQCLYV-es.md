@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Pepe Jeans Dutchman Chaqueta   Sailor 580   7-8 años  Talla del Fabricante: 7/8 años  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQCLYV/?tag=tolees-21'
 descuento: '62.76'
 average: '48.04'

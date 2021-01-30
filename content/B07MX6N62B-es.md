@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'A+ Trainer Collar Antiladridos Perro – Collar Adiestramiento Impermeable Collar Electrico Perro Ajustable para Perros Pequeño Mediano y Grande 7 Niveles de Vibración Progresivos Resistente al Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MX6N62B/?tag=tolees-21'
 descuento: '32.51'
 average: '25.99'

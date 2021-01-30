@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Vaqueros  Antic Faded Ripped Marine  27W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCJHL7V/?tag=tolees-21'
 descuento: '83.69'
 average: '21.19'

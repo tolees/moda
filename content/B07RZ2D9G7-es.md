@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'BILLABONG™ - Camiseta de Manga Corta - Hombre - S - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ2D9G7/?tag=tolees-21'
 descuento: '17.43'
 average: '15.86'

@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox D Nebula B  Zapatillas sin Cordones para Mujer  Negro  Black C9997   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTPN4L/?tag=tolees-21'
 descuento: '35.04'
 average: '84.38'

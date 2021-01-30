@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Moner V  Mocasines para Hombre  Azul  Blue C4000   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003WQAH98/?tag=tolees-21'
 descuento: '46.82'
 average: '63.76'

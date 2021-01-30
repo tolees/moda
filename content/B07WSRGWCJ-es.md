@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'Charles Wilson Sudadera con Capucha de Peso Pesado  Small  Lime '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSRGWCJ/?tag=tolees-21'
 descuento: '65.88'
 average: '12.95'

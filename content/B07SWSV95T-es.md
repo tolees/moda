@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Geox J Buller Boy B  Zapatillas para Niños  Azul  Navy/Grey C0661   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWSV95T/?tag=tolees-21'
 descuento: '24.91'
 average: '41.3'

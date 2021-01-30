@@ -16,6 +16,7 @@ comparePrice: 12.56 EUR
 prodname: 'Jack & Jones JJEJEANS tee SS Crew Neck Noos 20/21 Camiseta  Gris Oscuro  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NF9PYM/?tag=tolees-21'
 descuento: '28.42'
 average: '8.99'

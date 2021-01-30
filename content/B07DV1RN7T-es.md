@@ -16,6 +16,7 @@ comparePrice: 42.49 EUR
 prodname: 'Lacoste Croco Slide 119 1 737cma0018092  Sandalias de Punta Descubierta para Hombre  Azul  Nvy/Wht 092   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV1RN7T/?tag=tolees-21'
 descuento: '31.87'
 average: '28.95'

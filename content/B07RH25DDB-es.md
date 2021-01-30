@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Graphic 13 Sudadera  Gris  Lt Grey Htr A302   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH25DDB/?tag=tolees-21'
 descuento: '50.01'
 average: '39.97'

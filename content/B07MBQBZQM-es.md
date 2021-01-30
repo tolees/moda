@@ -16,6 +16,7 @@ comparePrice: 11.66 EUR
 prodname: 'Marca Amazon - MERAKI Falda de Algodón Midi Mujer  Beige  46  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBQBZQM/?tag=tolees-21'
 descuento: '31.90'
 average: '7.94'

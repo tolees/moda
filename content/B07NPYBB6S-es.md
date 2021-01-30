@@ -16,6 +16,7 @@ comparePrice: 7.7 EUR
 prodname: 'Marca Amazon - MERAKI Shorts de Lino Mujer  Azul  Navy   36  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPYBB6S/?tag=tolees-21'
 descuento: '16.62'
 average: '6.42'

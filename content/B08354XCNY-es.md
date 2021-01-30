@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Jack & Jones Jjelogo tee SS O-Neck 2 Col Ss20 Noos Camiseta  Gota De Limón  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08354XCNY/?tag=tolees-21'
 descuento: '46.23'
 average: '9.99'

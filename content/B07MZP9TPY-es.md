@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Mika Camiseta   Black 999   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZP9TPY/?tag=tolees-21'
 descuento: '33.14'
 average: '19.7'

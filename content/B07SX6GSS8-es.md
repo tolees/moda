@@ -16,6 +16,7 @@ comparePrice: 42.8 EUR
 prodname: 'Moonssy Leggins Reductores Adelgazantes  Pantalones de Sauna Adelgazantes Mujer Nanotecnología  Leggins Anticeluliticos Cintura Alta  Mallas Fitness Push Up para Deporte Running Yoga Gym  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SX6GSS8/?tag=tolees-21'
 descuento: '46.73'
 average: '22.8'

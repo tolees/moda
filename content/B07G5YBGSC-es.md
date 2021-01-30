@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'YDFYX Pierna Bolsa Multifuncional de Nailon Bolso para Viaje Senderismo Escalada Ciclismo Camping Montando en Bici Motocicleta Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5YBGSC/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

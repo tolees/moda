@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Soho Vaqueros  Violet  28W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CS9XDJR/?tag=tolees-21'
 descuento: '45.22'
 average: '35.61'

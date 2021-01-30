@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry OL Low Roller tee Camiseta  Azul  True Blue 69h   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMNQYJT/?tag=tolees-21'
 descuento: '41.44'
 average: '20.49'

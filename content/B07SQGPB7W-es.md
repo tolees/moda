@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox Uomo Sandal Strada B  Sandalias Punta Cerrada para Hombre  Gris  Taupe/Black C6088   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGPB7W/?tag=tolees-21'
 descuento: '26.35'
 average: '59.54666666666667'

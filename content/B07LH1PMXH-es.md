@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'The North Face Ambition S/S Camiseta de Manga Corta  Hombre  Verde  Chlorophyll Green   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LH1PMXH/?tag=tolees-21'
 descuento: '58.88'
 average: '16.45'

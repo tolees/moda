@@ -16,6 +16,7 @@ comparePrice: 49.05 EUR
 prodname: 'Regatta - Sandalias Chanclas Modelo Holcombe para Hombre  42 EU   Turba/Pergamino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087YZXNBG/?tag=tolees-21'
 descuento: '33.33'
 average: '32.7'

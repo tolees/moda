@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'HIKARO Sudadera Hombre  Azul  Navy   48  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YC1N3Z/?tag=tolees-21'
 descuento: '60.46'
 average: '13.03'

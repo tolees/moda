@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox Uomo Snake E  Zapatillas para Hombre  Negro Black Dk Avio C9369  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRN7RJ/?tag=tolees-21'
 descuento: '50.05'
 average: '49.9'

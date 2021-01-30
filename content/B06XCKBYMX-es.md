@@ -16,6 +16,7 @@ comparePrice: 95 EUR
 prodname: 'Pepe Jeans New Brooke Vaqueros  Azul  10Oz Str 8Dip Royal Dk   29W/30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCKBYMX/?tag=tolees-21'
 descuento: '55.80'
 average: '52.72'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Under Armour UA Spawn Mid  Zapatos de Baloncesto para Hombre  Rojo  Red 604   51.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2PZWZF/?tag=tolees-21'
 descuento: '38.68'
 average: '67.45'

@@ -16,6 +16,7 @@ comparePrice: 88.89 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Bubbles St  33W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9FGSPX/?tag=tolees-21'
 descuento: '44.91'
 average: '48.97'

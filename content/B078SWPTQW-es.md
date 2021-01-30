@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Mocasines TB0A1Q86019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SWPTQW/?tag=tolees-21'
 descuento: '56.94'
 average: '32.49'

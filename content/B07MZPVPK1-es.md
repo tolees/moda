@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Regent Vaqueros Skinny  Azul  Medium Used Hydroless Denim 000   W24 / L30  Talla del Fabricante: W24/L30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPVPK1/?tag=tolees-21'
 descuento: '87.09'
 average: '19.3125'

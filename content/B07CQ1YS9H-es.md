@@ -16,6 +16,7 @@ comparePrice: 90.22 EUR
 prodname: 'Lee Daren Zip Fly Vaqueros Rectos  Azul  Time out Dn   34W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ1YS9H/?tag=tolees-21'
 descuento: '44.60'
 average: '49.98'

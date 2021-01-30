@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Esprit 099EE1G091 Chaqueta  Negro  Black 001   XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGS5GQY/?tag=tolees-21'
 descuento: '83.55'
 average: '24.68'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 512 Slim Taper Vaqueros Tapered  Azul  Cioccolato Cool 0565   W29/L32  Talla del Fabricante: 29 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHGQJS/?tag=tolees-21'
 descuento: '41.88'
 average: '62.05499999999999'

@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'VAUDE 50393005500 Abrigo y Chaqueta - Abrigos y Chaquetas  Azul  Abrigo  Chubasquero  Adulto  Poncho  Poliéster '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H9DBWUS/?tag=tolees-21'
 descuento: '49.68'
 average: '35.6325'

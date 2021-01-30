@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Tech 2.0 T Camiseta Deportiva sin Mangas  Hombre  Gris  Gray 013   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZC66VS/?tag=tolees-21'
 descuento: '48.12'
 average: '13.156666666666666'

@@ -16,6 +16,7 @@ comparePrice: 339.9 EUR
 prodname: 'Trango Sieber Complet Chaqueta  Hombre  Rojo  Rojo Fuego   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXKU88C/?tag=tolees-21'
 descuento: '47.49'
 average: '184.97'

@@ -16,6 +16,7 @@ comparePrice: 44.55 EUR
 prodname: 'QUIZ Contrast Midi Dress Vestido Fiesta Mujer  Negro  Black 001   36  Talla del Fabricante: 8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5JQQH7/?tag=tolees-21'
 descuento: '79.21'
 average: '9.26'

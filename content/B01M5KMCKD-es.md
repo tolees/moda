@@ -16,6 +16,7 @@ comparePrice: 54.78 EUR
 prodname: 'Levi s BARSTOW WESTERN  Camisa Hombre  Azul  SUONA DRESS BLUES   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5KMCKD/?tag=tolees-21'
 descuento: '45.44'
 average: '34.559999999999995'

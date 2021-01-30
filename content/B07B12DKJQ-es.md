@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'FIND Vestido de Flores con Volantes Mujer  Rosa  Pink   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B12DKJQ/?tag=tolees-21'
 descuento: '20.00'
 average: '36'

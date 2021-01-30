@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Adorn Vibe  Sandalias de Talón Abierto para Mujer  Gris  Taupe Nubuck Taupe Nubuck   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYPX1H/?tag=tolees-21'
 descuento: '66.21'
 average: '38.02333333333333'

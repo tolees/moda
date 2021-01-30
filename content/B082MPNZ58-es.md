@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Geographical Norway Parka Mujer Destine Azul Marino 03'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MPNZ58/?tag=tolees-21'
 descuento: '40.00'
 average: '77.4'

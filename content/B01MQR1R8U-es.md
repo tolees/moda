@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Columbia Carson Pass II Chaqueta para Mujer  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQR1R8U/?tag=tolees-21'
 descuento: '35.51'
 average: '128.98'

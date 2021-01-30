@@ -16,6 +16,7 @@ comparePrice: 17.92 EUR
 prodname: 'Dockers by Gerli 37wa703  Botines Unisex Niños  Marrón  Braun 300   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014AP6PVI/?tag=tolees-21'
 descuento: '41.74'
 average: '14.18'

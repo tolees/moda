@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Arizona Straight Jeans Vaqueros  Rinsewash  30W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A1YIKW0/?tag=tolees-21'
 descuento: '79.95'
 average: '17.29'

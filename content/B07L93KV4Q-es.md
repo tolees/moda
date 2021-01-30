@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Mujer Vestido Elegante de Oficina Falda Lápiz Mangas Cortas M CL010867-2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L93KV4Q/?tag=tolees-21'
 descuento: '27.79'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Leitan B  Mocasines para Hombre  Negro  Black C9999   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792FQ7PP/?tag=tolees-21'
 descuento: '48.56'
 average: '55.75'

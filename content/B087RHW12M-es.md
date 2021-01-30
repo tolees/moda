@@ -16,6 +16,7 @@ comparePrice: 46.19 EUR
 prodname: 'Odetina - Zapatos de tacón alto para mujer con correa de hebilla y lazo  estilo casual  correa al tobillo  colores variados  color Rojo  talla 41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RHW12M/?tag=tolees-21'
 descuento: '49.99'
 average: '23.1'

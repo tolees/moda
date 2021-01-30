@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'DAFENP Zapatillas de Casa Hombre Mujer Invierno Caliente Forro Polar Slippers Suave Interior Al Aire Libre Zapatos XZ333A-Black-EU35/36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRRBDKY/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

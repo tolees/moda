@@ -16,6 +16,7 @@ comparePrice: 103.0 EUR
 prodname: 'New Balance 574 Nms Deportes De Los Zapatos De La Zapatilla De Deporte Zapatos Zapatillas De Deporte Hombre Verde  Un Diseño  42.5  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4BCMPG/?tag=tolees-21'
 descuento: '50.00'
 average: '51.5'

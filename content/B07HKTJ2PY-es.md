@@ -16,6 +16,7 @@ comparePrice: 98.59 EUR
 prodname: 'Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre  Blanco  White/Mod Gray/Mod Gray  100  100   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKTJ2PY/?tag=tolees-21'
 descuento: '50.01'
 average: '50.67666666666667'

@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Greensboro Vaqueros  Azul  Gin Fuzz 77h   38W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F7DTQ/?tag=tolees-21'
 descuento: '49.99'
 average: '42.48'

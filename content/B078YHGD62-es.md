@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA Liga Training Jr Chaqueta de Entrenamiento  Unisex niños  Black / White  152'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YHGD62/?tag=tolees-21'
 descuento: '65.18'
 average: '16.874'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Tri Sporty  Sandalias de Talón Abierto para Mujer  Beige  White Leather White Leather   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJPLJRC/?tag=tolees-21'
 descuento: '38.87'
 average: '61.1'

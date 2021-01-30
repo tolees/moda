@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Barbacoa Grill guantes resistente al calor con garra de oso carne garras y pincel de silicona  Guantes de Cocina antideslizante para Horno Microondas y Parrilla  Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711KLTZC/?tag=tolees-21'
 descuento: '50.02'
 average: '11.99'

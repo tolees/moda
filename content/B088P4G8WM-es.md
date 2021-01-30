@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'La Valenciana Sandalias Mustang 58553 Marrón - Color - Marrón  Talla - 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088P4G8WM/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

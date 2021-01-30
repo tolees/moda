@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Petusco -Bolso piel para mujer. Bolso de mano. Elegante y atemporal. Zada celeste Piel de Vacuno tipo grano. Fabricación artesanal.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J1QNBVC/?tag=tolees-21'
 descuento: '33.33'
 average: '80.0'

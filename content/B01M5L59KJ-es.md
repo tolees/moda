@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Replay Anbass  Vaqueros Slim para Hombre  Gris  Grey Denim 009   W38/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5L59KJ/?tag=tolees-21'
 descuento: '51.42'
 average: '66.232'

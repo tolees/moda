@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Tamaris 1-1-25356-23  Botines para Mujer  Marrón  Antelope 375   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJJ1T7J/?tag=tolees-21'
 descuento: '79.11'
 average: '18.79'

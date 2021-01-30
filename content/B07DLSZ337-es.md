@@ -16,6 +16,7 @@ comparePrice: 49.86 EUR
 prodname: 'SPECIAL MAGIC - Pantalón Deportivo - para Mujer Gris Gris S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLSZ337/?tag=tolees-21'
 descuento: '63.72'
 average: '18.09'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Maui Lace  Zapatos de Cordones Derby para Mujer  Beige  Nude Leather-   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQX67J6/?tag=tolees-21'
 descuento: '74.01'
 average: '38.26'

@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Rosa  Dusty Pink   XL  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071L1LNMJ/?tag=tolees-21'
 descuento: '76.55'
 average: '5.41'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Moda Zapatos Casuales Femeninos，Zapatillas para Mujer Deportivo Verano Respirable Mocasines Deportes Casual Sandalias，Antideslizantes Zapatilla Malla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088W8DYVN/?tag=tolees-21'
 descuento: '76.42'
 average: '4.95'

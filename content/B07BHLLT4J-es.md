@@ -16,6 +16,7 @@ comparePrice: 32.89 EUR
 prodname: 'Bolso de Alforja de Bicicleta Bolso Impermeable de Viajero de Totalizador de Camión Parte Posterior Estante Impermeable Desmontable con Correa de Hombro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHLLT4J/?tag=tolees-21'
 descuento: '59.90'
 average: '13.19'

@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'G-STAR RAW D-STAQ 3D Skinny  Vaqueros  Azul  medium aged 8968-071   35W / 38L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B59H4QX/?tag=tolees-21'
 descuento: '75.67'
 average: '36.48'

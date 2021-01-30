@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'LJP Funda Samsung Galaxy A51 5G  Suave PU Cuero Carcasa y TPU Funda Interna  Flip Wallet Case Cover para Samsung Galaxy A51 5G  Billetera Magnético con Función de Soporte  Ranuras para Tarjetas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089R8B5QG/?tag=tolees-21'
 descuento: '30.94'
 average: '7.59'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Burton Elite Camiseta  Hombre  True Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMTM3ZG/?tag=tolees-21'
 descuento: '56.40'
 average: '17.44'

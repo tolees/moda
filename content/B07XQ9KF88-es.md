@@ -16,6 +16,7 @@ comparePrice: 7.63 EUR
 prodname: 'Marca Amazon - FIND Stiletto Round Toe T-Bar Zapatos de Tacón  Dorado  Mirror Gold   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQ9KF88/?tag=tolees-21'
 descuento: '23.07'
 average: '5.87'

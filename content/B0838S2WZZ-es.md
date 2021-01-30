@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'AMZTM Dinosaurio Camiseta de Cumpleaños Bebé Cumpleaños Fiesta Manga Corta Regalo Cuello Redondo 100% algodón T-Rex Bordado Gráfico Gris T Shirt Regalo  Gris  83-89 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0838S2WZZ/?tag=tolees-21'
 descuento: '50.02'
 average: '12.99'

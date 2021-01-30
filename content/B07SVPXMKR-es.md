@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox D Vega A  Zapatillas para Mujer  Blanco  Off White and White C1209   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPXMKR/?tag=tolees-21'
 descuento: '73.25'
 average: '29.965'

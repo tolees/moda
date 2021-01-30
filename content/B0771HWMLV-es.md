@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Landove Estampado de animales de manga larga pijama conjunto para Bebé-Niñas 12 - 18 meses bebè'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771HWMLV/?tag=tolees-21'
 descuento: '77.80'
 average: '7.99'

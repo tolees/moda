@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Newport Bay 2 Eye  Náuticos para Hombre  Blanco  Light Grey Canvas   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F29ZNX3/?tag=tolees-21'
 descuento: '38.65'
 average: '35.61333333333334'

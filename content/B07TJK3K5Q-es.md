@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Hero Walk  Zapatos de Cordones Derby  Blanco  White Combi White Combi   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJK3K5Q/?tag=tolees-21'
 descuento: '52.57'
 average: '47.41'

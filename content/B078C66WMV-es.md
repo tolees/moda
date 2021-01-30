@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212 Camiseta Polo  Azul  Electrique   3XL  Talla del fabricante: 8  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078C66WMV/?tag=tolees-21'
 descuento: '37.91'
 average: '58.99'

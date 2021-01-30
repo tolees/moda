@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Columbia Horizon Explore H Chaqueta Térmica Impermeable  Hombre  Negro  Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYXGTL9/?tag=tolees-21'
 descuento: '46.72'
 average: '95.89'

@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Geographical Norway Chaqueta NIÑA BOOMERA Rosa Llamativo 14'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CFBFKJ/?tag=tolees-21'
 descuento: '33.71'
 average: '59.0'

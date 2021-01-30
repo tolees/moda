@@ -16,6 +16,7 @@ comparePrice: 7.56 EUR
 prodname: 'Marca Amazon - find. Vestido Largo Estilo Camiseta de Punto Mujer  Gris  Grey Marl   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8SBC49/?tag=tolees-21'
 descuento: '31.75'
 average: '5.84'

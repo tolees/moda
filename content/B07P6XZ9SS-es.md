@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler Texas Vaqueros  Verde  Dusty Olive 275   W31/L32  Talla del Fabricante: 31/32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6XZ9SS/?tag=tolees-21'
 descuento: '62.70'
 average: '26.09'

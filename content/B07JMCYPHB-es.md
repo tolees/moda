@@ -16,6 +16,7 @@ comparePrice: 11.79 EUR
 prodname: 'Lee Scarlett  Vaqueros Mujer  Azul  Pine Cone Eg   24W / 33L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMCYPHB/?tag=tolees-21'
 descuento: '26.46'
 average: '8.67'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Powder Pass Chaqueta con Capucha  Hombre  Verde  New Olive Heather   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BJDS4N/?tag=tolees-21'
 descuento: '40.01'
 average: '71.98'

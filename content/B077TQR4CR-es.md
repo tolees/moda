@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'find. Zapatos de Serraje con Cordones Hombre  Marrón  Chocolate   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TQR4CR/?tag=tolees-21'
 descuento: '80.00'
 average: '15.0'

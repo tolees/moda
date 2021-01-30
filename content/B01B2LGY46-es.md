@@ -16,6 +16,7 @@ comparePrice: 83.99 EUR
 prodname: 'Kaporal BROZE16M7JSAD  Vaqueros Para Hombre  Beige  sandes   W31'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B2LGY46/?tag=tolees-21'
 descuento: '57.14'
 average: '23.485'

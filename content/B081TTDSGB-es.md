@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Cropped Hood Sudadera  Mujer  Rojo  Trace Scarlet s18/ White   40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TTDSGB/?tag=tolees-21'
 descuento: '63.98'
 average: '17.99'

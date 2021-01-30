@@ -16,6 +16,7 @@ comparePrice: 14.33 EUR
 prodname: 'Puma Men s MCFC Stadium INT SS Jersey  Black/Georgia Peach  Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJM89GF/?tag=tolees-21'
 descuento: '16.47'
 average: '11.97'

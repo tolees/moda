@@ -16,6 +16,7 @@ comparePrice: 11.29 EUR
 prodname: 'Marca Amazon - find. Vestido Largo Camisero Mujer  Multicolor  Spot Print   36  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRD2WMT/?tag=tolees-21'
 descuento: '17.01'
 average: '9.37'

@@ -16,6 +16,7 @@ comparePrice: 141.99 EUR
 prodname: 'Elf Sack Mujer Abrigo Acolchado Largo con Cuello Alto de Piel de Invierno Abrigo Largo Acolchado con Parka de Invierno Verde M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWFWFG3/?tag=tolees-21'
 descuento: '35.21'
 average: '91.99'

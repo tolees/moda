@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'Marca Amazon - AURIQUE Mallas de Entrenamiento Mujer  Azul  Dress Blue   36  Label:XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3Y89CM/?tag=tolees-21'
 descuento: '20.70'
 average: '14.67'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'FitFlop Lido II  Chanclas para Hombre  Negro  Black 001   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4BCR98/?tag=tolees-21'
 descuento: '39.39'
 average: '48.49'

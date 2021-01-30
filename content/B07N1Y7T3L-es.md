@@ -16,6 +16,7 @@ comparePrice: 32.97 EUR
 prodname: 'Khroom Camiseta de Compresión de Superhéroe para Hombre | Ropa Deportiva de Secado Rápido para Ejercicio  Gimnasio  Musculación  Running. Material Extensible Ventilado Anti Transpiración  Aquaman  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1Y7T3L/?tag=tolees-21'
 descuento: '54.60'
 average: '14.97'

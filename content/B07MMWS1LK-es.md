@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Texas Contrast Vaqueros  Azul  Stay Warm 54s   32 W/ 32 L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWS1LK/?tag=tolees-21'
 descuento: '49.99'
 average: '44.98'

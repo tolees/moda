@@ -16,6 +16,7 @@ comparePrice: 7.73 EUR
 prodname: 'Spirit 599909  Bolso bandolera para Hombre  Negro  Negro   5x31x18 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGL57TM/?tag=tolees-21'
 descuento: '19.02'
 average: '6.26'

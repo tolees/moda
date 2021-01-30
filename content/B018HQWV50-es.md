@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Salomon AGILE WARM GLOVE U Guantes unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018HQWV50/?tag=tolees-21'
 descuento: '26.32'
 average: '18.051'

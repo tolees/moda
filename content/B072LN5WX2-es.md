@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Under Armour UA HG Armour Full Zip Sudadera cálida  Mujer  Negro  Black/White 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LN5WX2/?tag=tolees-21'
 descuento: '50.03'
 average: '34.98'

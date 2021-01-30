@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Geox J Sandal Alben Boy D  Sandalias con Punta Abierta para Niños  Azul  Navy/AVI O C0700   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVP3JC9/?tag=tolees-21'
 descuento: '20.05'
 average: '15.95'

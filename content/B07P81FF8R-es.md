@@ -16,6 +16,7 @@ comparePrice: 7.67 EUR
 prodname: 'JACK & JONES Jcotony tee SS Crew Neck WHS 2-Pack Camiseta  Azul  Maritime Blue Fit: Slim/Packed with White   X-Large  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P81FF8R/?tag=tolees-21'
 descuento: '30.77'
 average: '5.31'

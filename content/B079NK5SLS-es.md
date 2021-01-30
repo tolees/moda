@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - MERAKI Camisa Clásica Entallada de Vestir Hombre  Morado  Lilac   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NK5SLS/?tag=tolees-21'
 descuento: '70.00'
 average: '7.5'

@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole Alpine Oxford  Zapatillas de Gimnasia para Hombre  Negro Nubuck  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J6WJSQY/?tag=tolees-21'
 descuento: '48.04'
 average: '64.95'

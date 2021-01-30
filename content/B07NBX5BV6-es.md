@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'RIP CURL Flagship Fleece Sudadera  Hombre  Anthracite  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBX5BV6/?tag=tolees-21'
 descuento: '50.01'
 average: '34.91'

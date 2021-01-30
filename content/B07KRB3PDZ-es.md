@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'FitFlop Twiss  Sandalias de Punta Descubierta para Mujer  Rojo  Blush 668   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRB3PDZ/?tag=tolees-21'
 descuento: '60.98'
 average: '45.480000000000004'

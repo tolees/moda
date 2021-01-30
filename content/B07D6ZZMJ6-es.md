@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s Mile High Super Skinny Vaqueros  Black Galaxy  23W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6ZZMJ6/?tag=tolees-21'
 descuento: '30.01'
 average: '69.99'

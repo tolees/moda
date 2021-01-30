@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Marca Amazon - MERAKI Paula Paper Bag - Pantalones Mujer  Gris  Dark Olive Dark Olive   44  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJXMD4K/?tag=tolees-21'
 descuento: '30.00'
 average: '21.0'

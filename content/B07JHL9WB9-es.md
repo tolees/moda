@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia WAYFINDER  Zapatos Multideporte para Mujer  Negro  Black  Coral 010   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHL9WB9/?tag=tolees-21'
 descuento: '69.69'
 average: '30.31'

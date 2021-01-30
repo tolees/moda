@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'ranrann Chaleco Sin Mangas para Niña Suave Camiseta de Algodón Color Sólido Crop Top Tank Top Camiseta Deporte de Fitness T-Shirt Gris 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWX4JT8/?tag=tolees-21'
 descuento: '84.43'
 average: '2.49'

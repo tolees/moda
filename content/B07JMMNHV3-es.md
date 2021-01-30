@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'dPois Bebé Niña Pelele Vestido Halter Lentejuelas Snow Flake Romper Mameluco Tutú Princesa Mono sin Manga Disfraz Infantil Halloween Cosplay Fiesta Azul 6-12 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMMNHV3/?tag=tolees-21'
 descuento: '62.54'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 14.53 EUR
 prodname: 'Superdry Classic University L/s Shirt Camisa  Rojo  Red Stripe 3rt   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4V9PB3/?tag=tolees-21'
 descuento: '24.02'
 average: '11.04'

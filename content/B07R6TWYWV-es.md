@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia 1420421  Chaqueta Forro Polar Hombre  Rojo  Red Jasper  Dark Mountain   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6TWYWV/?tag=tolees-21'
 descuento: '43.01'
 average: '28.49'

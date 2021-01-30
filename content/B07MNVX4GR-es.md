@@ -16,6 +16,7 @@ comparePrice: 78.88 EUR
 prodname: 'SINOES Zapatos De Los Hombres De Microfibra Otoño De Invierno Zapatos Deportivos De Alta Top Zapatillas De Aire Colchón De Baloncesto Zapatos De Fondo Grueso Casual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNVX4GR/?tag=tolees-21'
 descuento: '69.73'
 average: '23.88'

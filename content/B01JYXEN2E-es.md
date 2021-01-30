@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'MAMALICIOUS MLRAM COATED SLIM JEANS  Vaqueros premamá Mujer  Negro  Black   W33/L32  Talla del fabricante: 33 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JYXEN2E/?tag=tolees-21'
 descuento: '39.47'
 average: '33.26'

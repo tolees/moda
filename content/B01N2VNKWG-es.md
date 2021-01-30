@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Columbia Pouring Adventu Chaqueta  Hombre  Azul  Hyper Azul/Marine Azul   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2VNKWG/?tag=tolees-21'
 descuento: '46.95'
 average: '47.72'

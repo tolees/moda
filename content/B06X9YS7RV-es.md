@@ -16,6 +16,7 @@ comparePrice: 4.26 EUR
 prodname: 'Marca Amazon - Iris & Lilly Braguita Mujer  Pack de 3  Beige  Pale Nude   XL  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9YS7RV/?tag=tolees-21'
 descuento: '19.72'
 average: '3.42'

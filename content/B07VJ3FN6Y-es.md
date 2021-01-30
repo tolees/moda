@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Calvin Klein Zip Through HD Jacket Chaqueta  Verde  New Basil MSP   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJ3FN6Y/?tag=tolees-21'
 descuento: '28.04'
 average: '85.63'

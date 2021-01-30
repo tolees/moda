@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'vetoky Gafas de Natación  Antiniebla Gafas para Nadar Protección UV sin Fugas para Adultos Y Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07448LCWC/?tag=tolees-21'
 descuento: '40.95'
 average: '12.49'

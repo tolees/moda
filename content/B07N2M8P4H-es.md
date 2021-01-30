@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'LEMEGO Bolsa Bicicleta Manillar para Ciclista Ciclismo  Bolso de Bici Impermeables Soporte Móvil teléfono para teléfonos móviles Inferior de 6 Inches  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2M8P4H/?tag=tolees-21'
 descuento: '17.66'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Fila 4516_21189 Talla XXL 2 Boxer Verde-95% algodón  5% Elastano  Pack 2pcs T490-1  XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQZTYZY/?tag=tolees-21'
 descuento: '56.55'
 average: '13.9'

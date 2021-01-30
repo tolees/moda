@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'XTI 49285  Botines para Mujer  Blanco  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGQRN6Z/?tag=tolees-21'
 descuento: '20.02'
 average: '39.95'

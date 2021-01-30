@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Coolcept Mujer Dulce Lazos Zapatos de la Corte Tacón Alto Oficina Zapatos de Bombas sin Cordones Verano Zapatos Black Talla 44 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087BVPL9M/?tag=tolees-21'
 descuento: '50.01'
 average: '26.99'

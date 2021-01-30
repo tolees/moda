@@ -16,6 +16,7 @@ comparePrice: 51.26 EUR
 prodname: 'junengSO Bolsa de Mensajero de Banda Ancha Simple Mujeres Elegantes Bolso de Cubo Salvaje Hombro único Bolsas Grandes Paquete para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DQZQ8D6/?tag=tolees-21'
 descuento: '50.00'
 average: '25.63'

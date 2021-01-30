@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Negro  Black Nubuck-   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQP8THX/?tag=tolees-21'
 descuento: '58.66'
 average: '45.47'

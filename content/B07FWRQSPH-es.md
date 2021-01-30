@@ -16,6 +16,7 @@ comparePrice: 3.37 EUR
 prodname: 'DaoRier - Cadena Tobillera para Mujer  diseño de pie descalzado  Cadena de Playa  Sandalias  Tobillo  Plata  Talla 21 + 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWRQSPH/?tag=tolees-21'
 descuento: '67.06'
 average: '1.11'

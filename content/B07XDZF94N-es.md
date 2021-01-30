@@ -16,6 +16,7 @@ comparePrice: 19.06 EUR
 prodname: 'Puma Amplified tee Camiseta de Manga Corta  Hombre  Negro Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDZF94N/?tag=tolees-21'
 descuento: '29.22'
 average: '13.49'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Vest Jacob Vestido  Blanco  Blanco 1000   S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3WK3ZL/?tag=tolees-21'
 descuento: '54.68'
 average: '36.23'

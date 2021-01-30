@@ -16,6 +16,7 @@ comparePrice: 127.94 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Marrón  Canteen Chaos   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HSOVEN2/?tag=tolees-21'
 descuento: '25.54'
 average: '95.26'

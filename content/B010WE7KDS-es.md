@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic U  Zuecos Unisex Adulto  Lemon  43/44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010WE7KDS/?tag=tolees-21'
 descuento: '49.51'
 average: '20.215000000000003'

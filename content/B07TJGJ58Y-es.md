@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Superdry Collective tee Camiseta  Negro  Black 02a   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJGJ58Y/?tag=tolees-21'
 descuento: '52.78'
 average: '12.176666666666668'

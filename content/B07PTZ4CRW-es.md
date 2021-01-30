@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Bañador de Mujer Bikini Ropa de Baño de Una Pieza Azul Marino XL CL011003-2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTZ4CRW/?tag=tolees-21'
 descuento: '48.66'
 average: '18.99'

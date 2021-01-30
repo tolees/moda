@@ -16,6 +16,7 @@ comparePrice: 27.9 EUR
 prodname: 'Havaianas Slim Animals  Chanclas para Mujer  Multicolor  Grey/Olive Green 7807   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKNMXX6/?tag=tolees-21'
 descuento: '33.73'
 average: '18.49'

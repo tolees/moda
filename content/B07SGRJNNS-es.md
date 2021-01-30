@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Raging Bull Guantes Gimnasio Hombre Mujer  calleras para Crossfit  guantillas Gym Transpirable  Antideslizante  para Levantamiento de Pesas  calistenia  agarraderas Fitness con muñequeras Gym'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGRJNNS/?tag=tolees-21'
 descuento: '17.66'
 average: '13.99'

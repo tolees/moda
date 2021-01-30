@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Dickies Farnham Chaqueta  Marrón  X-Small  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKTFJVX/?tag=tolees-21'
 descuento: '60.91'
 average: '59.385000000000005'

@@ -16,6 +16,7 @@ comparePrice: 170 EUR
 prodname: 'Levi s Thermore Padded Parka  Verde  Olive Night 2 0005   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFFZQXF/?tag=tolees-21'
 descuento: '50.03'
 average: '84.95'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Corp Box Logo tee Camiseta Deporte  Azul  Blue Dw5   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDCKWND/?tag=tolees-21'
 descuento: '23.21'
 average: '30.64'

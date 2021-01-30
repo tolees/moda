@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'SKYSPER 3 Pares Calcetines de Deporte Deportivos para Hombre Mujer Unisex Bacteriostáticos Casual Zapatilla Antideslizantes Transpirables Medias para Ciclismo Fitness Tenis Correr Uso Diario Yoga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSV62F5/?tag=tolees-21'
 descuento: '72.24'
 average: '11.49'

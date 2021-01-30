@@ -16,6 +16,7 @@ comparePrice: 27.19 EUR
 prodname: 'RED WAGON Vaqueros Niños  Azul  Blue   9 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQ3PGJC/?tag=tolees-21'
 descuento: '59.18'
 average: '11.1'

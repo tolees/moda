@@ -16,6 +16,7 @@ comparePrice: 8.17 EUR
 prodname: 'Marca Amazon - TRUTH & FABLE Vestido Midi Evasé de Gasa Mujer  Multicolor  Black/White Spot   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT6SNHV/?tag=tolees-21'
 descuento: '21.66'
 average: '16.3575'

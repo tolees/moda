@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'TECOOL 14 Pulgadas Funda Blanda para Ordenador portátil  Maletín Bolso protectorade con Bolsillo Lateral y Manejar para 14   Ultrabook Netbook Acer/ASUS/DELL/Lenovo/HP/Huawei  Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBCDW6H/?tag=tolees-21'
 descuento: '26.91'
 average: '18.99'

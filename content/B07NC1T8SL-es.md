@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Tous Bandolera S. Rene Trenzada Rojo-Multi  Bolso Mujer  17.5x13.5x6.5 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC1T8SL/?tag=tolees-21'
 descuento: '39.14'
 average: '69.99'

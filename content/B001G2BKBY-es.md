@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Birkenstock Mayari Birko-Flor  Sandalias de Dedo Mujer  Negro  Schwarz   39  normal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001G2BKBY/?tag=tolees-21'
 descuento: '32.00'
 average: '51.0'

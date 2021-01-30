@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Recién Nacido Pijama Algodón Mameluco Niñas Niños Peleles Sleepsuit Caricatura Trajes  0-3 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071K8LWDR/?tag=tolees-21'
 descuento: '37.52'
 average: '10.98'

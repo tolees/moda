@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Titan Ultra II Pantalón Corto  Poliéster  Hombre  Negro  Talla US: XL/L5/  EU XL/L5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBC3N4D/?tag=tolees-21'
 descuento: '39.01'
 average: '30.49'

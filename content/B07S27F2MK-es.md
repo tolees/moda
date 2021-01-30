@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'BILLABONG All Day 10K Jacket Chaqueta Deportiva  Hombre  Negro  Black Heather 1278   One Size  Tamaño del Fabricante: XS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S27F2MK/?tag=tolees-21'
 descuento: '80.85'
 average: '28.72'

@@ -16,6 +16,7 @@ comparePrice: 44.72 EUR
 prodname: 'Calvin Klein Relaxed Retro Crew tee Top de Pijama  Rojo  High Risk XBG   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLJB5FG/?tag=tolees-21'
 descuento: '68.00'
 average: '14.31'

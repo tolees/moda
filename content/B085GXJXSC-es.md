@@ -16,6 +16,7 @@ comparePrice: 22.7 EUR
 prodname: 'Jack & Jones Jcogeek Sweat Hood Fst Sudadera con Capucha  Negro  XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085GXJXSC/?tag=tolees-21'
 descuento: '29.87'
 average: '15.92'

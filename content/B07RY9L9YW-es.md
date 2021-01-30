@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Vneck Camiseta  Blanco  White + 0002   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY9L9YW/?tag=tolees-21'
 descuento: '36.04'
 average: '17.127142857142854'

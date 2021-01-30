@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'DC Comics Camiseta de Manga Corta para niños Shazam Negro 10-11 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QSVXMYL/?tag=tolees-21'
 descuento: '40.13'
 average: '8.95'

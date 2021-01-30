@@ -16,6 +16,7 @@ comparePrice: 35.53 EUR
 prodname: 'Geox B Waviness Girl C  Zapatillas para Bebés  Rosa  Pink C8004   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRJC3B2/?tag=tolees-21'
 descuento: '29.07'
 average: '25.2'

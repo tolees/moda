@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Sportstyle Left Chest Camiseta  Hombre  Rojo  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XPJJ7Q/?tag=tolees-21'
 descuento: '16.38'
 average: '18.214999999999996'

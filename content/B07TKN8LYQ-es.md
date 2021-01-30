@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Maritsa Lara  Sandalias de Talón Abierto para Mujer  Rosa  Fuchsia Suede Fuchsia Suede   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKN8LYQ/?tag=tolees-21'
 descuento: '65.95'
 average: '35.836666666666666'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Deva Mae  Zapatos de tacón. para Mujer  Negro Combi Black Combi Black  41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1Z5P7F/?tag=tolees-21'
 descuento: '62.04'
 average: '26.55'

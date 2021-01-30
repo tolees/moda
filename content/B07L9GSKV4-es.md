@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Under Armour Storm Launch Chaqueta  Mujer  Negro  Black/Black/Reflective 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9GSKV4/?tag=tolees-21'
 descuento: '60.51'
 average: '27.64'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 510 Fit Vaqueros Skinny  Azul  Delray Pier 4/Waxy 1024   W31/L34  Talla del Fabricante: 31 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLJT2W/?tag=tolees-21'
 descuento: '64.91'
 average: '38.6'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'edc by Esprit 099cc2f006 Camisa  Negro  Black 001   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHTRT5Q/?tag=tolees-21'
 descuento: '80.57'
 average: '7.77'

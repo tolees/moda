@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Joe Chaleco   Sailor 580   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPPV21/?tag=tolees-21'
 descuento: '45.00'
 average: '46.75'

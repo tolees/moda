@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Kickers Home  Zapatos de Cordones Derby para Mujer  Negro  Noir 8   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFBT3HY/?tag=tolees-21'
 descuento: '83.35'
 average: '16.48'

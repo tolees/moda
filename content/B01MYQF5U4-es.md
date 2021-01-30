@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Texas Tonal Vaqueros  Azul  Blue Stroke   30W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYQF5U4/?tag=tolees-21'
 descuento: '67.85'
 average: '28.92'

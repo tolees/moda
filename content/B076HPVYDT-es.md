@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Core18 Windbr Chaqueta de Deporte  Hombre  Black/White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HPVYDT/?tag=tolees-21'
 descuento: '53.27'
 average: '18.67'

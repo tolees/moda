@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Under Armour Raid Camiseta Masculina  Camiseta Transpirable  Ajustada Camiseta Deportiva de Manga Corta y de Secado rápido  Carbon Heather/Carbon Heather/Steel  090   MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KXACQMW/?tag=tolees-21'
 descuento: '48.52'
 average: '16.82333333333333'

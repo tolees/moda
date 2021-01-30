@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Desire Deluxe Tie Dye DIY Kit  Conjunto de Tinte Tie Tie de un Solo Paso Camisa Tela Tinte Duministros No Tóxicos  con 60 Bandas de Goma  10 Pares de Guantes de Plástico  Delantal 2 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FJ97LJ5/?tag=tolees-21'
 descuento: '20.84'
 average: '18.99'

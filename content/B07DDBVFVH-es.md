@@ -16,6 +16,7 @@ comparePrice: 156.9 EUR
 prodname: 'Trangoworld Borau Chaqueta  Hombre  Rojo/Gris  Antracita   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDBVFVH/?tag=tolees-21'
 descuento: '42.50'
 average: '89.08500000000001'

@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva  Mujer  Alert Red  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2S3S5L/?tag=tolees-21'
 descuento: '26.01'
 average: '110.99'

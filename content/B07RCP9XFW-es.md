@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Lake 22 Chaqueta de Plumas para Mujer  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCP9XFW/?tag=tolees-21'
 descuento: '37.50'
 average: '74.99'

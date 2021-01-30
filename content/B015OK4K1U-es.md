@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PumaPurecat - Zapatos de playa y piscina  adultos unisex  Negro - Schwarz  black-white 01   35 5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015OK4K1U/?tag=tolees-21'
 descuento: '23.14'
 average: '11.49'

@@ -16,6 +16,7 @@ comparePrice: 18.6 EUR
 prodname: 'XIHOME Vintage Edison Bombilla Retro Pasado de moda 60W ST64 E27 220-240V Clásico Incandescente Jaula de ardilla Filamento de tungsteno Cristal ámbar Estilo antiguo Regulable  Cálido-6 Paquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHWJBTQ/?tag=tolees-21'
 descuento: '36.61'
 average: '11.79'

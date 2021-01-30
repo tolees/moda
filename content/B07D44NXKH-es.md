@@ -16,6 +16,7 @@ comparePrice: 39.83 EUR
 prodname: 'Marca Amazon - find. Chunky Gumsole Heavy Rand Botas Chelsea  Azul Navy  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D44NXKH/?tag=tolees-21'
 descuento: '49.18'
 average: '20.24'

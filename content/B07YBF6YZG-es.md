@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans OG Checker SS Camiseta  Blanco  White Wht   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBF6YZG/?tag=tolees-21'
 descuento: '50.00'
 average: '15.0'

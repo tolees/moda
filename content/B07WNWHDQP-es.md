@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Funda con Cuerda para iPhone X/XS  Carcasa Transparente TPU Suave Silicona Case con Correa Colgante Ajustable Collar Correa de Cuello Cadena Cordón para iPhone X/XS - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNWHDQP/?tag=tolees-21'
 descuento: '75.09'
 average: '1.99'

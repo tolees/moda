@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband  Zuecos Unisex Adulto  Rosa  Pink Lemonade/White 62p   38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K96TWQB/?tag=tolees-21'
 descuento: '37.79'
 average: '27.99'

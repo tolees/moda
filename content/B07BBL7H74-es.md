@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Timberland Perkins Row 2-Strap  sandale junior Descubierta Unisex niños  Azul  Black Iris   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBL7H74/?tag=tolees-21'
 descuento: '42.52'
 average: '22.99'

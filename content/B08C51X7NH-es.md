@@ -16,6 +16,7 @@ comparePrice: 10.46 EUR
 prodname: 'Mini Mango clásico de Cuerda con Inserto de Lona Bolsa Impermeable Bolsa para Bolso Obag Accesorios para Bolso Femenino - Caqui'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C51X7NH/?tag=tolees-21'
 descuento: '34.99'
 average: '6.8'

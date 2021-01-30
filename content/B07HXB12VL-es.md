@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Gant D1. Harvest Moon Ruffle Dress Vestido  Azul  Marine 410   44  Talla del Fabricante: 42  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HXB12VL/?tag=tolees-21'
 descuento: '51.50'
 average: '89.125'

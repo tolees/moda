@@ -16,6 +16,7 @@ comparePrice: 145 EUR
 prodname: 'Geox U New Life B  Zapatos de Cordones Derby para Hombre  Negro  Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ2XCHY/?tag=tolees-21'
 descuento: '50.00'
 average: '72.5'

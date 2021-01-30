@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler LS Western Shirt Camisa  Negro  Black 100   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P96YVSC/?tag=tolees-21'
 descuento: '64.50'
 average: '23.06'

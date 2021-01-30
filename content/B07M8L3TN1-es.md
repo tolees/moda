@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Lee Plain Crew Neck SWS Sudadera  Azul  Frost Blue MJ   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8L3TN1/?tag=tolees-21'
 descuento: '68.18'
 average: '20.68'

@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'REPLAY Zeumar Vaqueros Slim  Azul  Blue 10   36W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCPSWZR/?tag=tolees-21'
 descuento: '57.57'
 average: '58.98'

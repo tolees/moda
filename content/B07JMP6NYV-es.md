@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'XTI 49105  Sandalias con Plataforma para Mujer  Azul Jeans  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMP6NYV/?tag=tolees-21'
 descuento: '65.31'
 average: '15.553333333333335'

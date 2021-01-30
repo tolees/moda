@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'Joma Gala Sudadera  Hombre  Rojo  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W3RD2BC/?tag=tolees-21'
 descuento: '33.38'
 average: '12.99'

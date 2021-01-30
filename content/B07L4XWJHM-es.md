@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Charles Wilson Camisa Franela de Cuadros Manga Larga para Hombre  XX-Large  Red & White 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4XWJHM/?tag=tolees-21'
 descuento: '51.50'
 average: '16.95'

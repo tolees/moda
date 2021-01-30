@@ -16,6 +16,7 @@ comparePrice: 16.85 EUR
 prodname: 'Chung Shi Sensomo I  Zapatos Brogue para Hombre  Marrón  Hellbraun   45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OMUXSR6/?tag=tolees-21'
 descuento: '40.18'
 average: '14.510000000000002'

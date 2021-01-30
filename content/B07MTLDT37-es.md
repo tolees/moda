@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Peppa Pig Sudadera para niñas 4-5 años Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTLDT37/?tag=tolees-21'
 descuento: '19.09'
 average: '16.95'

@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Napapijri K Rainforest 1 Chaqueta  Rojo  High Risk Red RA3   3 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLP1RJ/?tag=tolees-21'
 descuento: '72.76'
 average: '35.14'

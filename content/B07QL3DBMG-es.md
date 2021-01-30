@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Liu-jo BXX049PX003 Zapatos Mujeres Blanco 35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QL3DBMG/?tag=tolees-21'
 descuento: '55.00'
 average: '44.55'

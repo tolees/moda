@@ -16,6 +16,7 @@ comparePrice: 439.9 EUR
 prodname: 'Trangoworld Inobe Termic Parka  Hombre  Kaki  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY87SK4/?tag=tolees-21'
 descuento: '52.26'
 average: '210.63285714285715'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Sportstyle Pique Track Jacket Chaqueta  Hombre  Negro  Black/Black 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HW9Z6V/?tag=tolees-21'
 descuento: '52.02'
 average: '28.365000000000002'

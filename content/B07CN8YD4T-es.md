@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'crocs Serena Sandal W  Zapatos de Playa y Piscina para Mujer  Azul  Pool 40m   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN8YD4T/?tag=tolees-21'
 descuento: '73.99'
 average: '7.8'

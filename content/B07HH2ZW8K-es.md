@@ -16,6 +16,7 @@ comparePrice: 30.95 EUR
 prodname: 'Mujer Botas de Nieve Zapatos Invierno Impermeables Calientes Botine Forradas Cortas Tobillo Boots de Cuero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH2ZW8K/?tag=tolees-21'
 descuento: '25.72'
 average: '22.99'

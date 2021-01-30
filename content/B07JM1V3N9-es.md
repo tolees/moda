@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Germinate Raya Jerséis Mujer Invierno Blanco Negro Tumblr Moda Casual Sueter Jersey Pullover Ropa  Blanco Negro  Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JM1V3N9/?tag=tolees-21'
 descuento: '86.70'
 average: '3.99'

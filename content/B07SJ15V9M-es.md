@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s June L  Chanclas para Hombre  Blanco  R White 51   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ15V9M/?tag=tolees-21'
 descuento: '32.04'
 average: '16.99'

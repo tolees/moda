@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Zoggs Predator Flex Gafas de natación  Unisex  Plata/Blanco/Azul  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XHXSJL/?tag=tolees-21'
 descuento: '48.47'
 average: '17.0'

@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Amazon Essentials Camiseta Cuello en V y Manga Corta. Fashion-Maternity-t-Shirts  Hibiscus/Azul Marino  US XL  EU 2XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGQ8L2F/?tag=tolees-21'
 descuento: '52.00'
 average: '13.92'

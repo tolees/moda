@@ -16,6 +16,7 @@ comparePrice: 50.49 EUR
 prodname: 'Trangoworld PC008106 Pantalón Largo  Mujer  Verde Caza  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKZCJV8/?tag=tolees-21'
 descuento: '16.84'
 average: '41.99'

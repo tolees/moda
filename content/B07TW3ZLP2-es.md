@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Zapatos de Seguridad para Hombre con Puntera de Acero Zapatillas de Seguridad Trabajo  Calzado de Industrial y Deportiva  42 EU  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW3ZLP2/?tag=tolees-21'
 descuento: '51.12'
 average: '43.99'

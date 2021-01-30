@@ -16,6 +16,7 @@ comparePrice: 48.9 EUR
 prodname: 'Marca Amazon - find. SHANA-S-1A-58 - Tira de tobillo de Sintético Mujer  color Beige  talla 41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFZ53CQ/?tag=tolees-21'
 descuento: '79.80'
 average: '9.88'

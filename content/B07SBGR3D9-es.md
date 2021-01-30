@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lee Distorted Logo tee Camiseta  Blanco  Bright White Lj   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBGR3D9/?tag=tolees-21'
 descuento: '65.38'
 average: '10.37'

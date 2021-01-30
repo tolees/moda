@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'PAOLIAN Blusa Lino de Mujer Manga Largas Otoño 2018 Blusa Moda Señora Escote V Asimetricas Camisetas Costura Floral Ropa para Mujer Fiesta Camisa Blancas Ancho Tallas Grandes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G3DN3W4/?tag=tolees-21'
 descuento: '17.80'
 average: '13.16'

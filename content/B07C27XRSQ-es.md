@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Calvin Klein Chest Institutional Slim SS tee Camiseta  Gris  Grey Heather 039   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C27XRSQ/?tag=tolees-21'
 descuento: '66.66'
 average: '9.67'

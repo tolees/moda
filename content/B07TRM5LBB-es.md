@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Original Hm tee Camiseta  Blanco  LS Cotton + Patch White 0000   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRM5LBB/?tag=tolees-21'
 descuento: '37.17'
 average: '21.21'

@@ -16,6 +16,7 @@ comparePrice: 62.42 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Baywater  34W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4JFMYP/?tag=tolees-21'
 descuento: '36.33'
 average: '39.74'

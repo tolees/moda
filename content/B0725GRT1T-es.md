@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES Jjimike Jjorg Jos 097 ID.k Lid Noos Pantalones Vaqueros de Ajuste Deslizante  Azul  Blue Denim   W36/L34  Talla del Fabricante: 36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0725GRT1T/?tag=tolees-21'
 descuento: '46.26'
 average: '38.495000000000005'

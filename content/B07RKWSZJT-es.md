@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Tommy Hilfiger Arlos Bomber Chaqueta deportiva  Azul  Blue Dw5   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKWSZJT/?tag=tolees-21'
 descuento: '60.52'
 average: '90.4'

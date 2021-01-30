@@ -16,6 +16,7 @@ comparePrice: 11.21 EUR
 prodname: 'Marca Amazon - TRUTH & FABLE Vestido Corto con Hombros al Aire de Satén Mujer  Negro  Black   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0743BNRP6/?tag=tolees-21'
 descuento: '32.47'
 average: '10.9'

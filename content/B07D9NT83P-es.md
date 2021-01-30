@@ -16,6 +16,7 @@ comparePrice: 215 EUR
 prodname: 'Calvin Klein Sonnenbrille Ck18502S 1 Gafas de sol  Negro  Schwarz   58.0 Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9NT83P/?tag=tolees-21'
 descuento: '84.73'
 average: '35.540000000000006'

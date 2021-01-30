@@ -16,6 +16,7 @@ comparePrice: 33.59 EUR
 prodname: 'givova Podio Chaqueta  Hombre  Negro/Blanco  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JFA4PUW/?tag=tolees-21'
 descuento: '20.01'
 average: '26.87'

@@ -16,6 +16,7 @@ comparePrice: 26.33 EUR
 prodname: 'Nakosite PET2433 El Mejor Collar Anti-Ladridos  Collar Frena Ladridos. ajustable para perros pequeños  medianos y grandes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0745WCDQS/?tag=tolees-21'
 descuento: '21.84'
 average: '14.952727272727273'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Cardigan Mujer Verano Camisa Blusa Manga Larga Mujer Cárdigan Largo Playa Camisetas de Fiesta Blusas Largas Chal Flojo Chaqueta Punto Cardigans Mujer Primavera Verano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SS8P68T/?tag=tolees-21'
 descuento: '18.75'
 average: '32.49'

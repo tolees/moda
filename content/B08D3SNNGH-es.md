@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Doaraha Camisón de Maternidad para Mujer Vestido Lactancia Pijama Premamá Embarazadas Camisónes Volantes Ropa de Dormir Cuello en V Manga 3/4  Azul Marino  Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D3SNNGH/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Vagabond Lara  Botines para Mujer  Multicolor  Sand/Black 87   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6F7R7B/?tag=tolees-21'
 descuento: '56.32'
 average: '63.68714285714286'

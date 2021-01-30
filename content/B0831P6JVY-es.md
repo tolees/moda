@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Canadian Peak Sudadera DE Mujer GYRELLE Azul Marino 03'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0831P6JVY/?tag=tolees-21'
 descuento: '30.00'
 average: '27.3'

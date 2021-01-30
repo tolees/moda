@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'G-STAR RAW Graphic Logo 4 Camiseta  Blanco  Medium  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVSPSHC/?tag=tolees-21'
 descuento: '33.26'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'UTOQIA Collar Drop Plata de Ley 925 milésimas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ALZASAA/?tag=tolees-21'
 descuento: '30.00'
 average: '45.43'

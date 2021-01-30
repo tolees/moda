@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PUMA Liga CR H Camiseta de Manga Corta  Hombre  Blanco  White/Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T6SJZ9/?tag=tolees-21'
 descuento: '19.80'
 average: '11.99'

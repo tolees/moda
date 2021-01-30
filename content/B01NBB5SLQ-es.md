@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'Pepe Jeans Regent Vaqueros  Blanco  Denim D76   27W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBB5SLQ/?tag=tolees-21'
 descuento: '47.79'
 average: '41.77'

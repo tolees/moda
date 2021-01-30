@@ -16,6 +16,7 @@ comparePrice: 55.35 EUR
 prodname: 'PET MAGASIN Guantes Quita pelos  1 par  - Guantes interactivos para masajes y Cepillado con Puntas de Silicona para Quitar Pelo Suavemente para Gatos  Perros  Caballos y Otras Mascotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHLS5RY/?tag=tolees-21'
 descuento: '66.96'
 average: '10.29'

@@ -16,6 +16,7 @@ comparePrice: 19.34 EUR
 prodname: 'Under Armour UA Launch Sw 9   Short Pantalón Corto  Hombre  Negro  Black/Black/Reflective 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ93L2Y/?tag=tolees-21'
 descuento: '18.77'
 average: '15.71'

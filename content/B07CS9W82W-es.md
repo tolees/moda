@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Pepe Jeans Melanie  Blusa para Mujer    Multi Bleu 0aa  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CS9W82W/?tag=tolees-21'
 descuento: '80.16'
 average: '14.88'

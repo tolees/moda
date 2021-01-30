@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PINPOXE Guantes Esquí  Guantes de Invierno  Pantalla Táctil Guantes  Impermeable a Prueba de Agua Invierno para Ciclismo Escalada Senderismo Acampada Guantes esquí Mujeres Hombres  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNQB58C/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

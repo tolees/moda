@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Regi18 Pre Jkt Chaqueta de Deporte  Hombre  Bold Blue/White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KDF88WS/?tag=tolees-21'
 descuento: '55.60'
 average: '19.343333333333334'

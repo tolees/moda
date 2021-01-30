@@ -16,6 +16,7 @@ comparePrice: 9.91 EUR
 prodname: 'Pepe Jeans Josephs Camiseta   Mousse 808   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPSWJH/?tag=tolees-21'
 descuento: '24.02'
 average: '7.965'

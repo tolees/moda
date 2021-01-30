@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Classics T7 Track Jkt  Ft Chaqueta  Mujer  Heather  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NR3FLJ4/?tag=tolees-21'
 descuento: '41.70'
 average: '34.95'

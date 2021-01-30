@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Superdry Field Jacket Chaqueta  Verde  Utl Olive T8m   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TP4L6GT/?tag=tolees-21'
 descuento: '73.81'
 average: '26.19'

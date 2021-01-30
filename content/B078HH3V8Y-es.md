@@ -16,6 +16,7 @@ comparePrice: 82.9 EUR
 prodname: 'GEOX Zapatos con Cordones Schnürer Edgeware Brown  tamaño:42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HH3V8Y/?tag=tolees-21'
 descuento: '50.00'
 average: '41.45'

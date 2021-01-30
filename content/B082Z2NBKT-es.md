@@ -16,6 +16,7 @@ comparePrice: 73.99 EUR
 prodname: 'PUMA Om Stadium Training Pants Pantalón Largo  Hombre  Peacoat  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Z2NBKT/?tag=tolees-21'
 descuento: '32.44'
 average: '49.99'

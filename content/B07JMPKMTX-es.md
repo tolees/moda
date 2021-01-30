@@ -16,6 +16,7 @@ comparePrice: 25.54 EUR
 prodname: 'Marca Amazon – Goodthreads – «El pantalón chino perfecto»; pantalón chino de corte entallado  lavado  cómodo y elástico para hombre  Tela vaquera  34W / 29L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMPKMTX/?tag=tolees-21'
 descuento: '27.41'
 average: '18.54'

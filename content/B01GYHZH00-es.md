@@ -16,6 +16,7 @@ comparePrice: 26.89 EUR
 prodname: 'Moolecole Seco Húmedo Separado Bolso De La Natación Bolsa De Deporte Impermeable del Deporte Bolsa De Almacenamiento De Natación Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GYHZH00/?tag=tolees-21'
 descuento: '47.97'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Scotch & Soda Oversized Boxy Fit Cotton Viscose Shirt In Various Prints Blusa  Multicolor  Combo H 0587   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB4T7D5/?tag=tolees-21'
 descuento: '78.12'
 average: '17.49'

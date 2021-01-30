@@ -16,6 +16,7 @@ comparePrice: 51.16 EUR
 prodname: 'Geox D Myria C  Zapatillas para Mujer  Azul  Navy C4002   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWV2MT6/?tag=tolees-21'
 descuento: '25.43'
 average: '38.15'

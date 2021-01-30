@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Rosie Camisa    Denim Gp6   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CS6YM6J/?tag=tolees-21'
 descuento: '60.00'
 average: '30.0'

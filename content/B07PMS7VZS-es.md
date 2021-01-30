@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'HUGO Elisha01 Camisa  Rojo  Medium Red 615   XX-Large  Talla del Fabricante: 45  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMS7VZS/?tag=tolees-21'
 descuento: '74.02'
 average: '23.37'

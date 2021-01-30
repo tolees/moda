@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox D Sozy Plus B  Sandalias con Punta Abierta para Mujer  Negro  Black C9999   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLXRRL/?tag=tolees-21'
 descuento: '68.02'
 average: '25.55'

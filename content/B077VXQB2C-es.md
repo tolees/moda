@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Zoggs Ultima Air Titanium Gafas de natación  Unisex-Adult  Negro/Gris/Titanio  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VXQB2C/?tag=tolees-21'
 descuento: '35.52'
 average: '22.56'

@@ -16,6 +16,7 @@ comparePrice: 145 EUR
 prodname: 'Geox U Terence C  Botas Clasicas para Hombre  Negro  Black C9999   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV9CM9/?tag=tolees-21'
 descuento: '58.68'
 average: '59.92'

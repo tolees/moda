@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'HUGO 708 Vaqueros Slim  Azul  Bright Blue 431   W35/L34  Talla del Fabricante: 3534  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBBN4YH/?tag=tolees-21'
 descuento: '77.88'
 average: '28.75'

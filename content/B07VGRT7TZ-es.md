@@ -16,6 +16,7 @@ comparePrice: 27.53 EUR
 prodname: 'Desigual - Bolso de mano de Sintético Mujer  color Negro  talla 3x36.5x32 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGRT7TZ/?tag=tolees-21'
 descuento: '22.85'
 average: '21.24'

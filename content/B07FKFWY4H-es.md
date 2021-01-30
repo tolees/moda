@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Nike Sunray Adjust 5  GS/PS   Zapatos de Playa y Piscina para Niños  Negro  Black/White 001   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKFWY4H/?tag=tolees-21'
 descuento: '62.87'
 average: '11.51'

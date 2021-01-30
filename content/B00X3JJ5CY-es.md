@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'G-STAR Lynn Mid Skinny Wmn Vaqueros para mujer  color negro  rinsed 082   talla W24/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X3JJ5CY/?tag=tolees-21'
 descuento: '63.21'
 average: '45.99'

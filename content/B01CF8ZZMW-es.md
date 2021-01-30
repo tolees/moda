@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'SMILODOX - Sudadera con capucha - para hombre Gris antracita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CF8ZZMW/?tag=tolees-21'
 descuento: '29.83'
 average: '39.99'

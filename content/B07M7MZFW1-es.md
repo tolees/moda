@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Lover-Beauty Camisa Mujer Raya Cuello Redondo Manga Corta Casual Suelto Blusa Rojo y Top Azul Jersey Stripe Shirt Camiseta Elegante Verano Camiseta Basica Popular'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7MZFW1/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

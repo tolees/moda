@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Gore Wear 100153 Chaqueta  Hombre  Azul  Dynamic Cyan   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0785FKYF2/?tag=tolees-21'
 descuento: '28.99'
 average: '141.99'

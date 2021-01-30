@@ -16,6 +16,7 @@ comparePrice: 60.78 EUR
 prodname: 'Red Tape Holker Zapatos de cordones derby hombre  Negro  Black   43 EU  9 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074RDFDB6/?tag=tolees-21'
 descuento: '67.51'
 average: '19.75'

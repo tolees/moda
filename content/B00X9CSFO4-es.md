@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'Timberland Larchmont Waterproof  Botas Chukka para Hombre  Marrón  MD Brown Full Grain   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9CSFO4/?tag=tolees-21'
 descuento: '48.03'
 average: '85.75'

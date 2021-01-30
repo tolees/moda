@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Jprhague LS tee Crew Neck Tc319 Camisa Manga Larga  Multicolor  Black Stripes: Tobacco Brown   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VN65Y6R/?tag=tolees-21'
 descuento: '73.43'
 average: '6.654999999999999'

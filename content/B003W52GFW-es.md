@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Classic 2-Eye  Náuticos para Mujer  Azul  MD Blue Full Grain   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003W52GFW/?tag=tolees-21'
 descuento: '43.50'
 average: '75.55'

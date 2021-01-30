@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Zip Thru  Sudadera con Capucha para Hombre  Gris  Grey Marl 933   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTLNM35/?tag=tolees-21'
 descuento: '50.00'
 average: '30.474285714285713'

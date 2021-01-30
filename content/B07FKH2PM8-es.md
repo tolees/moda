@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Iris & Lilly Calzoncillo Tanga de Microfibra Mujer  Pack de 5  Negro  black   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKH2PM8/?tag=tolees-21'
 descuento: '30.02'
 average: '10.49'

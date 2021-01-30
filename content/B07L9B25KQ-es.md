@@ -16,6 +16,7 @@ comparePrice: 26 EUR
 prodname: 'Under Armour Heatgear Armour Pantalón Corto  Mujer  Negro  Breathtaking Blue/Metallic Silver 005   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9B25KQ/?tag=tolees-21'
 descuento: '28.88'
 average: '18.49'

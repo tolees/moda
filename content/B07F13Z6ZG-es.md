@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Havaianas Brasil Logo  Chanclas Unisex niños  Amarillo  Banana Yellow   27/28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F13Z6ZG/?tag=tolees-21'
 descuento: '54.30'
 average: '8.18'

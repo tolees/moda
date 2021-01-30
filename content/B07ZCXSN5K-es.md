@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cartera Mujer Cuero Auténtico Bloqueo RFID Billetera Mujer Monedero Piel con Bolsillo Cremallera de Actualización con Caja de Regalo  100% Cuero auténtico - Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCXSN5K/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

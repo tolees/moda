@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Jaysen A  Zapatillas para Mujer  Azul  Blue C4000   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTZDQC/?tag=tolees-21'
 descuento: '65.15'
 average: '38.3'

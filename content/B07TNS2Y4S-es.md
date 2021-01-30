@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry VL Fade T Shirt Store tee Camiseta  Blanco  Optic 01c   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNS2Y4S/?tag=tolees-21'
 descuento: '47.16'
 average: '18.49'

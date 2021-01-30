@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Pepe Jeans Elcano Chaqueta  Marrón  Brass 891   3-4 años  Talla del Fabricante: 3/4 años  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPKWPX/?tag=tolees-21'
 descuento: '44.51'
 average: '60.48'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES Jjiliam Jjoriginal JJ 104 50sps Noos Vaqueros Skinny  Azul  Blue Denim Blue Denim   W32/L36 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNWJDYC/?tag=tolees-21'
 descuento: '75.91'
 average: '19.27'

@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Tous Jacalanda Brunock Chain  Bolso Bandolera para Mujer   Negro 595900009   19.5x14.5x7 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3TFMZK/?tag=tolees-21'
 descuento: '50.00'
 average: '44.5'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta para Mujer  Gris  Better Batwing Smokestack Smokestack Htr 263   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0716LRRT6/?tag=tolees-21'
 descuento: '37.50'
 average: '12.5'

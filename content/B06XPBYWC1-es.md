@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'Kipling Iaka Monedero para Mujer  Multicolor  Water Camo   20x14x1 cm  Paquete de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPBYWC1/?tag=tolees-21'
 descuento: '38.99'
 average: '14.346666666666666'

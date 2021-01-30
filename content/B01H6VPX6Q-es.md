@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Eudora Harmony Ball Llamador de Angeles Embarazada  Colgantes Mujer Collar Música Timbre Bell Mujeres Joyas Niñas Damas Profesor Madres y Hermanas Mejor Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H6VPX6Q/?tag=tolees-21'
 descuento: '31.05'
 average: '19.99'

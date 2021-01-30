@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Timberland 6-Inch Premium Boot  Botas para Hombre  Marrón  Rust Nubuck   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001B15ORQ/?tag=tolees-21'
 descuento: '35.72'
 average: '140.1457142857143'

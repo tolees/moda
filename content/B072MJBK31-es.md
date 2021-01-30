@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Marca Amazon - find. Camisa Hombre  Marrón  Taupe   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MJBK31/?tag=tolees-21'
 descuento: '50.08'
 average: '9.986666666666666'

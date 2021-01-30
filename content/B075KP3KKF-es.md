@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'MBT SHUGULI M  Zapatos de Cordones Oxford para Hombre  Marrón  Burnished Brown 1156n   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KP3KKF/?tag=tolees-21'
 descuento: '47.75'
 average: '104.5'

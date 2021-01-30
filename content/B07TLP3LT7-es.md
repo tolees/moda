@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Azul  Indigo Indigo   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLP3LT7/?tag=tolees-21'
 descuento: '33.54'
 average: '39.84'

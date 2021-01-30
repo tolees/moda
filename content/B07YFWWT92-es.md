@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'GOBY Collar de Helado de Paleta Creativa de Moda cruda de Estilo Dulce Simple  conmemoración de Viaje  3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFWWT92/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

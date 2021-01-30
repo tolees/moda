@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Salomon  Xview  Gafas de esquí unisex  Azul  Moroccan Blue/Universal Super White   L40519100'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRTT22P/?tag=tolees-21'
 descuento: '43.76'
 average: '44.99'

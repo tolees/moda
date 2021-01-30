@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Tommy Hilfiger Tjw Essential Logo Sweatshirt Sudadera  Naranja  Melon Orange Sc1   40  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPR2RQK/?tag=tolees-21'
 descuento: '63.96'
 average: '27.03'

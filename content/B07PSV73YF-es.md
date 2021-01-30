@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'El Ganso Urban Country 2 Chaleco  Multicolor  Varios 0023   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSV73YF/?tag=tolees-21'
 descuento: '35.00'
 average: '129.35'

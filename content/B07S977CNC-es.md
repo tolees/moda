@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Crocs Classic II Flip  Chanclas Unisex Adulto  Azul  Navy 410   46/47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S977CNC/?tag=tolees-21'
 descuento: '62.48'
 average: '8.25'

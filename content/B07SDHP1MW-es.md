@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip Women  Chanclas para Mujer  Naranja  Cantaloupe 801   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDHP1MW/?tag=tolees-21'
 descuento: '25.21'
 average: '18.69'

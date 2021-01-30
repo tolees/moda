@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s Graphic tee Camiseta  Azul  Boxtab SS T2 Dress Blues 0001   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXDVLFH/?tag=tolees-21'
 descuento: '40.05'
 average: '11.99'

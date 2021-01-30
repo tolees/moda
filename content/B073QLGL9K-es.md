@@ -16,6 +16,7 @@ comparePrice: 11.4 EUR
 prodname: 'Activewear Sudadera Técnica con Capucha Hombre  Rojo  Sport Red   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QLGL9K/?tag=tolees-21'
 descuento: '33.33'
 average: '7.6'

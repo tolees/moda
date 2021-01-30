@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 3301 Mid Waist Skinny Vaqueros  Faded Indigo Destroyed 8968-A949  W24/L36  Talla del Fabricante: 24W/ 36L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFYQCMC/?tag=tolees-21'
 descuento: '89.64'
 average: '12.43'

@@ -16,6 +16,7 @@ comparePrice: 13.7 EUR
 prodname: 'Marca Amazon - Find. Sandalias abiertas para mujer con tacón de rayas  color Marfil  talla 40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813HX1YK/?tag=tolees-21'
 descuento: '26.50'
 average: '10.07'

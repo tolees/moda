@@ -16,6 +16,7 @@ comparePrice: 24.98 EUR
 prodname: 'adidas Map Bag  Bolso bandolera Unisex Adultos  Negro  Negro   24x15x45 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK6F2S8/?tag=tolees-21'
 descuento: '50.16'
 average: '13.77875'

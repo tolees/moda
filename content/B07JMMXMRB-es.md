@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Hombre Botas de Nieve Al Aire Libre Senderismo Impermeables Deportes Trekking Zapatos Invierno Forro Piel Sneakers Calientes Botines'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMMXMRB/?tag=tolees-21'
 descuento: '31.63'
 average: '27.34'

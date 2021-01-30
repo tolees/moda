@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Karely Sun  Chanclas para Mujer  Negro  Black Nubuck-   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSCB385/?tag=tolees-21'
 descuento: '63.69'
 average: '39.94'

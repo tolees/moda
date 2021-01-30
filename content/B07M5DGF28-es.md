@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee CAROL  Vaqueros straight Mujer  Azul  Dark Garner Uv   W32/L33'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5DGF28/?tag=tolees-21'
 descuento: '76.59'
 average: '23.4'

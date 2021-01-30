@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Asics Netburner Ballistic FF MT  Zapatos de Voleibol para Mujer  Negro  Black/Laser Pink 001   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L2SR4B4/?tag=tolees-21'
 descuento: '58.21'
 average: '58.51'

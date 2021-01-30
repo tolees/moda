@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Jaysen A  Zapatillas para Mujer  Blanco  White/Lt Yellow C1372   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTPMX8/?tag=tolees-21'
 descuento: '58.54'
 average: '45.57'

@@ -16,6 +16,7 @@ comparePrice: 18.96 EUR
 prodname: 'Mujer Camisetas Manga Larga Originales Basicas Camuflaje Tops Elegantes Moda Fiesta V Cuello Primavera Otoño Militares Tallas Grandes Blusas con Cordones Deporte Casual Blusones Ropa Dama'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077JRW4XX/?tag=tolees-21'
 descuento: '63.34'
 average: '6.95'

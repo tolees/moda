@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'DORRISO Linda Niños Sombrero y Bufanda Guantes Otoño Invierno Primavera Gorro Bebe Calentar Pequeña Zorro Gorro Bufanda Guantes Conjunto Sombrero de Niño Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3X35FF/?tag=tolees-21'
 descuento: '67.52'
 average: '25.98'

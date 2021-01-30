@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Women s Secret Trendy Tapestry TT Green CLAS PJ FR Conjuntos de Pijama  Verde  Gama Verdes 29   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTT243R/?tag=tolees-21'
 descuento: '43.41'
 average: '19.775'

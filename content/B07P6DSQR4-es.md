@@ -16,6 +16,7 @@ comparePrice: 38.1 EUR
 prodname: 'Guess - Jones  Bolso bandolera Hombre  Negro  Black   10x30x34 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6DSQR4/?tag=tolees-21'
 descuento: '16.51'
 average: '34.54'

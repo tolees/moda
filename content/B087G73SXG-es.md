@@ -16,6 +16,7 @@ comparePrice: 103.99 EUR
 prodname: 'NIGHT CHERRY Mujer Moda Tacón Ancho Botines Cremallera Punta Quadrada Malla Botines Tacón Medio Vestido Zapatos Black Talla 37 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087G73SXG/?tag=tolees-21'
 descuento: '50.00'
 average: '51.99'

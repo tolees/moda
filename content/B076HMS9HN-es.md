@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas CORE18 TR Top Y Sudadera  Unisex niños  Black/White  5-6Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HMS9HN/?tag=tolees-21'
 descuento: '64.07'
 average: '10.76'

@@ -16,6 +16,7 @@ comparePrice: 55.95 EUR
 prodname: 'Gorila Cole  Zapatos Unisex para Niños  Azul Oscuro  34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HYDFVP4/?tag=tolees-21'
 descuento: '15.12'
 average: '47.49'

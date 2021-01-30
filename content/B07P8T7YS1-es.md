@@ -16,6 +16,7 @@ comparePrice: 16.62 EUR
 prodname: 'Morgan 192-chessa.n Camisa  Blanco  Blanc Blanc   38  Talla del fabricante: T38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8T7YS1/?tag=tolees-21'
 descuento: '22.32'
 average: '12.91'

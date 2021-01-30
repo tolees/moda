@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Zip Thru  Sudadera con Capucha para Hombre  Azul  Navy 595   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTMWDKY/?tag=tolees-21'
 descuento: '40.01'
 average: '44.99'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Lynn Mid Skinny Vaqueros  Azul  Antic Blue   34W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N19CMJY/?tag=tolees-21'
 descuento: '49.98'
 average: '60.0'

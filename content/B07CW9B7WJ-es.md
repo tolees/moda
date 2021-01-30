@@ -16,6 +16,7 @@ comparePrice: 25.88 EUR
 prodname: 'Socluer Bikini Tankini de Mujer Bikini Push up de Playa de Verano de Dos Piezas Traje de baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CW9B7WJ/?tag=tolees-21'
 descuento: '34.78'
 average: '16.88'

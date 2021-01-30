@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Graphic 22 Boyfriend Slit Round Neck Sudadera  Azul  Mazarine Blue 4213   34  Talla del Fabricante: XX-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPR8KJ/?tag=tolees-21'
 descuento: '80.93'
 average: '17.165'

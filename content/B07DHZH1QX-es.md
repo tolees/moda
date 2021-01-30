@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox D Rubidia A  Zapatillas para Mujer  Azul  Navy C4002   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHZH1QX/?tag=tolees-21'
 descuento: '50.00'
 average: '59.95'

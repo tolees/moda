@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Crewneck 1 Camiseta  Azul  2pk Slim Crew Dress Blues X Riverside S 0009   X-Large  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPPTJ8J/?tag=tolees-21'
 descuento: '60.31'
 average: '13.89'

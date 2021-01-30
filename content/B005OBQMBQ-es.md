@@ -16,6 +16,7 @@ comparePrice: 132.0 EUR
 prodname: 'Ray-Ban Erika Classic Gafas de sol  Marrón  Tortoise/Gunmetal/Brown Gradient   54 Unisex-Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005OBQMBQ/?tag=tolees-21'
 descuento: '32.88'
 average: '89.976'

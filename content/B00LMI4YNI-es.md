@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Quiksilver MONKEY ABYSS M SNDL XKKC - sandalias abiertas de lona hombre  Negro  Black /         Black /         Brown   39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LMI4YNI/?tag=tolees-21'
 descuento: '65.38'
 average: '7.824999999999999'

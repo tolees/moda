@@ -16,6 +16,7 @@ comparePrice: 122.97 EUR
 prodname: 'FANDARE Mochila Hombres Business Outdoor Viaje Rucksack Laptop Bolso de Mano Estudiante Bolso de Escuela USB Commuter Gran Capacidad Daypack Impermeable Poliéster Gris A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZNZP4P/?tag=tolees-21'
 descuento: '66.67'
 average: '40.99'

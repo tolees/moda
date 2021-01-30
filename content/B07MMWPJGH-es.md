@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler LS 1pkt Shirt Camisa  Rojo  Crimson Red X51   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWPJGH/?tag=tolees-21'
 descuento: '76.64'
 average: '15.17'

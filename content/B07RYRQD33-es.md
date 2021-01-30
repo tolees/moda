@@ -16,6 +16,7 @@ comparePrice: 94.99 EUR
 prodname: 'Lacoste - Camisa Punto Manga Larga Hombre - Ch0564'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYRQD33/?tag=tolees-21'
 descuento: '35.47'
 average: '61.3'

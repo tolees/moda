@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212 Camiseta Polo  Azul  Ibiza   XS  Talla del fabricante: 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784TNLH6/?tag=tolees-21'
 descuento: '49.22'
 average: '48.193333333333335'

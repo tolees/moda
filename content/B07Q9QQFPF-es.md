@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Zapatillas Hombres Deporte Running Zapatos para Correr Gimnasio Sneakers Zapatos de Baloncesto para Hombre  3  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9QQFPF/?tag=tolees-21'
 descuento: '26.09'
 average: '33.99'

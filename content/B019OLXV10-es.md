@@ -16,6 +16,7 @@ comparePrice: 22.04 EUR
 prodname: 'Uneek UC902 - Pantalón de carga  color negro  30 alturas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019OLXV10/?tag=tolees-21'
 descuento: '63.70'
 average: '8'

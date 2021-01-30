@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Spotted Zebra Boxer Brief Ropa interior con diseño de monstruos X-Small  4-5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVFT47B/?tag=tolees-21'
 descuento: '24.05'
 average: '14.43'

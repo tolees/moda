@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Elia Camiseta  Negro  Black 999   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCBPJNF/?tag=tolees-21'
 descuento: '36.49'
 average: '18.99'

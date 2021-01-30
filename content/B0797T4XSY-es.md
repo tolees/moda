@@ -16,6 +16,7 @@ comparePrice: 32.22 EUR
 prodname: 'adidas CY7875  Sudadera de Hombre  Color Cortiz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797T4XSY/?tag=tolees-21'
 descuento: '16.76'
 average: '58.385000000000005'

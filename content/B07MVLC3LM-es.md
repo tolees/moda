@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Gant D1. The Active Cloud Jacket Chaqueta  Rojo  Mahogany Red 617   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVLC3LM/?tag=tolees-21'
 descuento: '56.40'
 average: '148.325'

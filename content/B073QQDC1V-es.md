@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Marca Amazon - find. Jersey de Punto con Textura para Hombre  Negro  Black/ivory   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QQDC1V/?tag=tolees-21'
 descuento: '76.46'
 average: '6.59'

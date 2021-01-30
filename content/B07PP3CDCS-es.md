@@ -16,6 +16,7 @@ comparePrice: 309.0 EUR
 prodname: 'HUGO Alisters Chaqueta de Traje  Negro  Charcoal 010   105  Talla del Fabricante: 90  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PP3CDCS/?tag=tolees-21'
 descuento: '88.52'
 average: '35.46'

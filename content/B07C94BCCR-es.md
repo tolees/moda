@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Ruckel Ridge Plus Waterproof  Zapatos Impermeables de Senderismo para Hombre  Marrón  Cordovan  Madder Brown 231   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C94BCCR/?tag=tolees-21'
 descuento: '17.53'
 average: '98.96'

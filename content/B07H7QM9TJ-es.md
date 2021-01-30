@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Jack & Jones Jaccrazy Solid Trunks 3 Pack Noos Bóxer  Negro  Black Detail: Navy Blazer & Black   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7QM9TJ/?tag=tolees-21'
 descuento: '36.01'
 average: '15.99'

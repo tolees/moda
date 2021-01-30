@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Napapijri Rainforest M Sum 1 Chaqueta  Gris  Volcano H74   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0796CQ4QP/?tag=tolees-21'
 descuento: '55.87'
 average: '79.0'

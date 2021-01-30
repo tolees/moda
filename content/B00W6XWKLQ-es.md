@@ -16,6 +16,7 @@ comparePrice: 119.15 EUR
 prodname: 'GANT Regular Jeans Vaqueros Straight  Marrón  Desert Brown 261   W34/L36  Talla del Fabricante: 34/36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W6XWKLQ/?tag=tolees-21'
 descuento: '54.98'
 average: '53.64'

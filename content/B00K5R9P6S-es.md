@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Lr Trunk  Bóxer Shorts para Hombre  Azul  Peacoat-Pt 409   Large   Pack de 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K5R9P6S/?tag=tolees-21'
 descuento: '34.76'
 average: '27.99'

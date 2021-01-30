@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Azul  Moonlight Blue   XL  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0733DD8XN/?tag=tolees-21'
 descuento: '70.00'
 average: '7.5'

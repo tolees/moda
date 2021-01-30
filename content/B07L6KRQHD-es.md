@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Under Armour Armour Insulated Hooded Chaqueta  Mujer  Gris  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6KRQHD/?tag=tolees-21'
 descuento: '48.68'
 average: '50.309999999999995'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Miunana 5x Vestidos de noche + 10 Zapatos Vestir de Fiesta Faldas Suave Ropas Fashion Hechos a Mano Accesorios para 11.5 Pulgadas 28 -30 CM Muñeca Doll Estilo al Azar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZ1HKC1/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

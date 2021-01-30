@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Samsonite Hip-Square - Tablet Cross-over M 7.9" Bolso bandolera  25 cm  3.5 liters  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CL1FH8/?tag=tolees-21'
 descuento: '24.75'
 average: '41.39'

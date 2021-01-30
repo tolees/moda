@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Pepe Jeans Eggo PM500465 Camiseta  Blanco  White 800   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I46FCQY/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

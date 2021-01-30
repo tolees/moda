@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Skechers Rumble On-Chart Topper  Sandalias de Talón Abierto para Mujer  Negro  Black Mitobuck/Metal/Clear Rhinestone Black   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXQWG7J/?tag=tolees-21'
 descuento: '20.00'
 average: '30.4'

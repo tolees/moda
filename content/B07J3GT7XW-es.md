@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour UA Streaker 2.0 Longsleeve Camiseta de Manga Larga  Hombre  Gris  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3GT7XW/?tag=tolees-21'
 descuento: '37.32'
 average: '25.07'

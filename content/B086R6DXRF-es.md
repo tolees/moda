@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Nautico J.Bradford Cuero Marron JB-CORVETTES - Color - Marrón  Talla Zapatos - 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086R6DXRF/?tag=tolees-21'
 descuento: '55.40'
 average: '62.0'

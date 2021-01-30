@@ -16,6 +16,7 @@ comparePrice: 76.66 EUR
 prodname: 'Tommy Hilfiger Brooklyn Short Light Twill Vaqueros  Primary Red  28W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5ST9NB/?tag=tolees-21'
 descuento: '64.17'
 average: '19.76'

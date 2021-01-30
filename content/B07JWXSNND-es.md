@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Mid Waist Boyfriend Colored Vaqueros  Azul  Laundry Blue B078-1280   31W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWXSNND/?tag=tolees-21'
 descuento: '84.44'
 average: '15.55'

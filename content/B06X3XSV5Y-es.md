@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Adilette Shower  Chanclas para Hombre  Azul  Collegiate Navy/Footwear White/Collegiate Navy 0   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X3XSV5Y/?tag=tolees-21'
 descuento: '59.88'
 average: '10.01'

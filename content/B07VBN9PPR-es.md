@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Tourist LAMU Suede  Sandalias con cuña Tipo Alpargatas para Hombre  Braun Dark Stone 860  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBN9PPR/?tag=tolees-21'
 descuento: '24.91'
 average: '56.32'

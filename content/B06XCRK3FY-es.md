@@ -16,6 +16,7 @@ comparePrice: 22.4 EUR
 prodname: 'find. Vestido Camisero con Estampado de Rayas y Volantes para Mujer   Azul  Blue Stripe   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCRK3FY/?tag=tolees-21'
 descuento: '39.73'
 average: '13.5'

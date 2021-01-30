@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Columbia Alpine Action Oh Chaqueta de Esquí  Rosa  Cactus Pink   Talla XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FK9YBJ2/?tag=tolees-21'
 descuento: '54.46'
 average: '86.52'

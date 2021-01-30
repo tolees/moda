@@ -16,6 +16,7 @@ comparePrice: 17.51 EUR
 prodname: '2 Rollos 10 Metros 0.8mm / 1.0mm Cordón Fuerte Y Elástico Claro Hilo Elástico Rebordear Cuerda para Craft Pulsera Collar Hacer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4TDP4K/?tag=tolees-21'
 descuento: '44.43'
 average: '9.73'

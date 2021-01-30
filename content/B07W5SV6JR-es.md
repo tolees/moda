@@ -16,6 +16,7 @@ comparePrice: 76.66 EUR
 prodname: 'Tommy Hilfiger Brooklyn Short Light Twill Vaqueros  Regatta Blue  28W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5SV6JR/?tag=tolees-21'
 descuento: '74.39'
 average: '19.63'

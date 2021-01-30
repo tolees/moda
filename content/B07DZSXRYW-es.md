@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Marca Amazon – Goodthreads – Camisa de manga corta y corte estándar a cuadros grandes para hombre  Rosa  Pink Plaid Win   US M  EU M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DZSXRYW/?tag=tolees-21'
 descuento: '81.29'
 average: '5.24'

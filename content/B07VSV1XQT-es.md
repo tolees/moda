@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'G-STAR RAW Silber Slim Fit Camiseta  Azul  Servant Blue Htr C084-B239   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSV1XQT/?tag=tolees-21'
 descuento: '21.06'
 average: '27.63'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Iris & Lilly Mujer Blinl0006 Corsé Not Applicable  Negro  Scooter   44  Talla del fabricante: 34D '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBMZPPY/?tag=tolees-21'
 descuento: '35.02'
 average: '14.94'

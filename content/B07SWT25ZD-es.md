@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox Jr Sandal Kyle A  Sandalias Punta Cerrada para Niños  Gris  Grey/Orange C0036   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWT25ZD/?tag=tolees-21'
 descuento: '50.00'
 average: '29.95'

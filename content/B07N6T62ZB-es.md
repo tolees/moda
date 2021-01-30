@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Bralette Rp Parte de Arriba de Bikini  Rosa  Pink 616   44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6T62ZB/?tag=tolees-21'
 descuento: '50.68'
 average: '18.1075'

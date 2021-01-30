@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Q/S designed by 40.907.32.5405 Camiseta  Blanco  White 0100   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS4FGLV/?tag=tolees-21'
 descuento: '15.62'
 average: '8.43'

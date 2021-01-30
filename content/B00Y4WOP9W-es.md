@@ -16,6 +16,7 @@ comparePrice: 160 EUR
 prodname: 'Neosens  S849 Restored Skin Rococo Zapatos con tira vertical Mujer  Negro  Ebony   39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y4WOP9W/?tag=tolees-21'
 descuento: '58.83'
 average: '65.88'

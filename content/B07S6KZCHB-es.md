@@ -16,6 +16,7 @@ comparePrice: 18.23 EUR
 prodname: 'Fall Out Boy - Camiseta Modelo Mania para Adultos Unisex  L   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6KZCHB/?tag=tolees-21'
 descuento: '46.79'
 average: '9.7'

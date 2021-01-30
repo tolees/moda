@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Pijamas Dos Piezas para Niño Impresión de Aviones Manga Corta Camiseta y Pantalon Cortos Verano Algodón Ropa de Dormir/120'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZZ5Y6R/?tag=tolees-21'
 descuento: '55.05'
 average: '8.99'

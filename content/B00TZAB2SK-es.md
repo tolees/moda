@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'uhlsport Stream 3.0 Ml Camiseta De Juego Manga Larga  Hombre  Azur/Amarillo maiz  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TZAB2SK/?tag=tolees-21'
 descuento: '63.67'
 average: '7.99'

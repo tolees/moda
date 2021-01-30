@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Powder Pass Chaqueta con Capucha  Mujer  Naranja  Bold Orange   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BJ5TYQ/?tag=tolees-21'
 descuento: '69.19'
 average: '39.035000000000004'

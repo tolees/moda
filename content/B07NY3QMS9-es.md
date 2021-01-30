@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Vintage Logo Crew Sudadera  Negro  Black 02a   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY3QMS9/?tag=tolees-21'
 descuento: '66.77'
 average: '23.26'

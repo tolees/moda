@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Dolores Promesas 108146 Camiseta  Verde  Verde  Verde 00  000   Large  Tamaño del Fabricante:Large  Tamaño del Fabricante:L   para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJGQCPT/?tag=tolees-21'
 descuento: '58.98'
 average: '24.57'

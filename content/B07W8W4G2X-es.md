@@ -16,6 +16,7 @@ comparePrice: 93.09 EUR
 prodname: 'Tommy Hilfiger Basic Embroidered Hoody Sudadera  Azul  Blue Ink   Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8W4G2X/?tag=tolees-21'
 descuento: '57.69'
 average: '34.555'

@@ -16,6 +16,7 @@ comparePrice: 47.08 EUR
 prodname: 'Tommy Hilfiger Stretch Slim Fit Long Sleeve tee Camiseta Deporte  Negro  Black Bds   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFLWXGG/?tag=tolees-21'
 descuento: '23.92'
 average: '35.82'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Levi s The Jacket  Chaqueta vaquera  Azul  Moon Lit Trucker 0466   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2S5VX9/?tag=tolees-21'
 descuento: '38.34'
 average: '63.23857142857142'

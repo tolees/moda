@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Uvex LGL 29 Gafas de Ciclismo  Unisex Adulto  Negro/Verde  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015JB2XRM/?tag=tolees-21'
 descuento: '31.66'
 average: '27.3'

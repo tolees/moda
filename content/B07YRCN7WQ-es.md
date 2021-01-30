@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Marca Amazon - AURIQUE Sujetador Deportivo Bajo Impacto Tirantes Yoga Mujer  Azul  Navy/White   M  Label:M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRCN7WQ/?tag=tolees-21'
 descuento: '20.00'
 average: '12.8'

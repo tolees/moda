@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'RAZAMAZA Mujer Casual Tacón Ancho Zapatos de Mulas Puntiagudo Zapatos sin Cordones Sandalias Vestido Serpiente Red Talla 40 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876RHCBH/?tag=tolees-21'
 descuento: '50.01'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'oodji Ultra Hombre Jersey a Rayas con Cuello Redondo  Azul  ES 58-60 / XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4AVR8U/?tag=tolees-21'
 descuento: '20.00'
 average: '9.2'

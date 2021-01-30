@@ -16,6 +16,7 @@ comparePrice: 18.64 EUR
 prodname: 'Marca Amazon - find. Divan Botas Clasicas  Marrón Wood Brown  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RV4KW3W/?tag=tolees-21'
 descuento: '19.74'
 average: '17.204'

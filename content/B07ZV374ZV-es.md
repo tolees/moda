@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Helly Hansen Rider Vest Chaleco de Ayuda a la flotabilidad  Unisex Adulto  Evening Blue  30/40 KG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV374ZV/?tag=tolees-21'
 descuento: '42.52'
 average: '34.49'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Spiuk Rodda Road Zapatilla  Unisex Adulto  Amarillo AV  43'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779DYZZ1/?tag=tolees-21'
 descuento: '19.47'
 average: '64.34'

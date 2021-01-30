@@ -16,6 +16,7 @@ comparePrice: 84.9 EUR
 prodname: 'Tommy Hilfiger Nautical TH Lace Up Espadrille  Zapatos de tacón con Punta Abierta para Mujer  Azul  Desert Sky Dw5   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7XTK1Z/?tag=tolees-21'
 descuento: '71.87'
 average: '23.88'

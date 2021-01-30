@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Springfield 6Ba-Acolchada Cap Bas Chaqueta  Negro  Black 1   X-Large  Tamaño del Fabricante: XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQQ6NPT/?tag=tolees-21'
 descuento: '53.73'
 average: '22.37333333333333'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour UA Qualifier Tank Camiseta sin Mangas  Mujer  Rosa  Coral Dust/Reflective 642   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9BLYZ5/?tag=tolees-21'
 descuento: '58.04'
 average: '18.88'

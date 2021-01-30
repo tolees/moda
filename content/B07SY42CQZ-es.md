@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Quiksilver Crystal Oasis  Zapatos de Playa y Piscina para Hombre  Negro  Black/Grey/Black Xksk   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SY42CQZ/?tag=tolees-21'
 descuento: '47.68'
 average: '18.83'

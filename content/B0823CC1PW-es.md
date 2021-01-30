@@ -16,6 +16,7 @@ comparePrice: 9.14 EUR
 prodname: 'Jack & Jones T-Shirt Camiseta  Ajuste: Slim - Friday Tea Chinese Red  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0823CC1PW/?tag=tolees-21'
 descuento: '27.57'
 average: '6.62'

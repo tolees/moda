@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s Housemark Graphic tee Camiseta  Rojo  Hm Ssnl Emb Farallon X 0259   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLFML2Y/?tag=tolees-21'
 descuento: '40.03'
 average: '15.9925'

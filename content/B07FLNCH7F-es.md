@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'David Jones - Pequeño Bolso Bandolera Cadena Mujer - Bolsos de Hombro Cruzado Cuero PU - Mensajero Crossbody Bag - Bolso Mano Zip Embrague Clutch Pochette Noche Trabajo Moda Diario Vida - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLNCH7F/?tag=tolees-21'
 descuento: '20.01'
 average: '27.99'

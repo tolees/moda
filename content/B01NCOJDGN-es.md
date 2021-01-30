@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Gant The Original Slim V-Neck T-Shirt Camiseta  Blanco  White 110   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCOJDGN/?tag=tolees-21'
 descuento: '34.04'
 average: '19.78'

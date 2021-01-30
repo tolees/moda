@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Bolso de Embrague Monedero Cartera Bolso de Lentejuelas étnica para Novia Usos Múltiples - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KFC2CIK/?tag=tolees-21'
 descuento: '44.42'
 average: '14.79'

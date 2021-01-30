@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Helly Hansen Crew Chaqueta  Hombre  Negro  Black   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LU7MB22/?tag=tolees-21'
 descuento: '50.16'
 average: '73.21333333333334'

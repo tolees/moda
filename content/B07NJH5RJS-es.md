@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'El Naturalista N5310 Iris Coral  Botines para Mujer  Gris  Plume Plume   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJH5RJS/?tag=tolees-21'
 descuento: '42.35'
 average: '74.95'

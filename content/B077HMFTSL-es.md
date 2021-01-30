@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Marca Amazon - find. Vestido Fruncido de Lunares Mujer  Rojo  Red   36  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HMFTSL/?tag=tolees-21'
 descuento: '81.53'
 average: '8.943333333333333'

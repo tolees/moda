@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s Levis Men Vintage Stripe YD Boxer 2P  Gris  Middle Grey Melange 758   Medium  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRD8RSR/?tag=tolees-21'
 descuento: '20.05'
 average: '15.99'

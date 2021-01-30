@@ -16,6 +16,7 @@ comparePrice: 6.76 EUR
 prodname: 'Springfield 8.T.Kaftan Blusa  Multicolor  Varios 98   U  Tamaño del Fabricante:U  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYZ7DVH/?tag=tolees-21'
 descuento: '21.01'
 average: '5.34'

@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Calvin Klein Modern Trunk Bóxer  Negro  Black/Black 001   14-16 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GILS8JO/?tag=tolees-21'
 descuento: '15.06'
 average: '21.15'

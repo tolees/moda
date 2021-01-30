@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Crocs Swiftwater Mesh Sandal W  Sandalias Deportivas para Mujer  Gris  Light Grey/Pearl White 01s   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN7J66S/?tag=tolees-21'
 descuento: '67.27'
 average: '16.36'

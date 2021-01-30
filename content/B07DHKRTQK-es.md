@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'GRAT.UNIC Pantalón Corto Deportivo para Mujer  Running Pantalones Cortos de Yoga con Bolsillo Lateral  Fitness Mallas Deportivas  Negro  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHKRTQK/?tag=tolees-21'
 descuento: '41.39'
 average: '16.99'

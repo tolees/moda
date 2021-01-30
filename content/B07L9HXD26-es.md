@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Under Armour Qualifier Pantalón  Hombre  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9HXD26/?tag=tolees-21'
 descuento: '51.65'
 average: '53.19'

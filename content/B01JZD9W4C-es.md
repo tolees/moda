@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'BOSS Trunk CO/EL Bóxer  Blanco  White 100   Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JZD9W4C/?tag=tolees-21'
 descuento: '53.52'
 average: '19.5'

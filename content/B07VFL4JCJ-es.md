@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'HUGO Daple202 Sudadera  Negro  Negro 1   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFL4JCJ/?tag=tolees-21'
 descuento: '73.47'
 average: '29.17'

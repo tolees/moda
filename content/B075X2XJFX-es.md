@@ -16,6 +16,7 @@ comparePrice: 21.18 EUR
 prodname: 'find. NEWSTW051 vaqueros mujer cintura alta   Blanco  White Out   W33/L32  Talla del Fabricante: 42/44 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075X2XJFX/?tag=tolees-21'
 descuento: '61.90'
 average: '8.07'

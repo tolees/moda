@@ -16,6 +16,7 @@ comparePrice: 7.52 EUR
 prodname: 'HAWKERS · COLLINS · Gold · Green Bottle · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRSNF28/?tag=tolees-21'
 descuento: '29.52'
 average: '8.213333333333333'

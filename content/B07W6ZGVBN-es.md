@@ -16,6 +16,7 @@ comparePrice: 17.59 EUR
 prodname: 'DOACT Chaleco Calefactable Exteriores  Chaqueta Calefactable Lavable  Tres Engranajes Eléctrica Calefactable Chaquetas Acampada y Marcha  Adecuado Hombres y Mujeres Caza Pesca Esquiar  XXL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6ZGVBN/?tag=tolees-21'
 descuento: '66.52'
 average: '5.89'

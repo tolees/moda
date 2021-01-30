@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Lee Luke Vaqueros  Deep Pool TR  33W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7P8DZR/?tag=tolees-21'
 descuento: '40.51'
 average: '47.56'

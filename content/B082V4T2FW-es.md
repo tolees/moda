@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Canadian Peak Parka'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V4T2FW/?tag=tolees-21'
 descuento: '40.00'
 average: '77.4'

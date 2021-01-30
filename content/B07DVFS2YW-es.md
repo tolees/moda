@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia WAYFINDER  Zapatos Multideporte para Hombre  Negro  Black  White 010   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVFS2YW/?tag=tolees-21'
 descuento: '39.01'
 average: '63.434999999999995'

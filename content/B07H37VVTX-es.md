@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Pastaza Hombre Mujer Botas de Nieve Senderismo Impermeables Deportes Trekking Zapatos Invierno Forro Piel Sneakers Marrón 41EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H37VVTX/?tag=tolees-21'
 descuento: '31.19'
 average: '26.83'

@@ -16,6 +16,7 @@ comparePrice: 72.0 EUR
 prodname: 'Superga 2750-Lamew S001820 - Zapatos de lona para mujer  Black 999  35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HWJPZJI/?tag=tolees-21'
 descuento: '61.67'
 average: '27.6'

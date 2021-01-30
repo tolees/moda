@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour UA Rush Short Sleeve Camiseta  Mujer  Negro  Black/Black 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KHLFG1T/?tag=tolees-21'
 descuento: '77.90'
 average: '11.05'

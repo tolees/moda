@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Vans Spicoli Flat Shades Gafas de Sol  Negro  Black/Silver Mirror   50.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z23NS4P/?tag=tolees-21'
 descuento: '19.53'
 average: '11.629999999999999'

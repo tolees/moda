@@ -16,6 +16,7 @@ comparePrice: 6.92 EUR
 prodname: 'JACK & JONES Jorrafael tee SS Crew Neck Camiseta  Rojo  Brick Redreg   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJNNY2K/?tag=tolees-21'
 descuento: '23.84'
 average: '6.1075'

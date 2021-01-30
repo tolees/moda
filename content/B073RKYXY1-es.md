@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Adidas Adilette Comfort Zapatos de playa y piscina Hombre  Negro  Cblack/Cblack/Ftwwht Cg3425   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RKYXY1/?tag=tolees-21'
 descuento: '60.23'
 average: '11.91'

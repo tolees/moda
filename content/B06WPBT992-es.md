@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger Bikini con Inserción de Malla Braguitas con Cintura Elástica  Blanco  White 100   40  Talla del Fabricante: LG  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WPBT992/?tag=tolees-21'
 descuento: '44.77'
 average: '10.99'

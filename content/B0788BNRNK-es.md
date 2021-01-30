@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y Cinta Distintiva  Gris  Grey Heather   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788BNRNK/?tag=tolees-21'
 descuento: '25.69'
 average: '55.18'

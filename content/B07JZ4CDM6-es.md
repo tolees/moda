@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'adidas Estro 19 JSY Camiseta de Manga Corta  Niños  White  1314Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZ4CDM6/?tag=tolees-21'
 descuento: '43.14'
 average: '8.5'

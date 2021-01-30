@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tommy Hilfiger Bella Hybrid LW Down Jacket Chaqueta  Rosa  Pink TZ8   Talla única  Talla del Fabricante: 32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS86JRK/?tag=tolees-21'
 descuento: '66.05'
 average: '67.56'

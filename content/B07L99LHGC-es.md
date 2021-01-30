@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Mk1 Printed Camisa Manga Corta  Hombre  Verde  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L99LHGC/?tag=tolees-21'
 descuento: '43.27'
 average: '22.69'

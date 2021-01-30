@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'BOSS T-Shirt RN 3p Co Camiseta para Hombre  Blanco  White 100   Medium  pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8MMK9M/?tag=tolees-21'
 descuento: '51.68'
 average: '20.27'

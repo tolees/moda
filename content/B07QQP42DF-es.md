@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Anyeat Hormas para Zapatos  1 par Árbol del zapato Árbol del zapato ajustable ajustable con cuerno de zapato para hombres y mujeres   Amarillo  40-47 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQP42DF/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

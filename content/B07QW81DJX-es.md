@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'flintronic Cartera Hombre  Triple Pliegue Slim Billetera de Fibre de Carbone para Tarjetas de Crédito  Monedero con Pinza y Protección RFID  con Llavero y Caja de Regalo - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QW81DJX/?tag=tolees-21'
 descuento: '45.02'
 average: '11.565000000000001'

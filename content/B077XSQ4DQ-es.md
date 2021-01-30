@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Under Armour Sc30 MVP - Sudadera con Capucha y Cremallera  Infantil  Color Negro/Gris  tamaño para jóvenes XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XSQ4DQ/?tag=tolees-21'
 descuento: '30.78'
 average: '34.61'

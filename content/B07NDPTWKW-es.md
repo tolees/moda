@@ -16,6 +16,7 @@ comparePrice: 88.28 EUR
 prodname: 'G-STAR RAW Stalt Button Down Pocket Straight Camisa Vaquera  Azul  White 110   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPTWKW/?tag=tolees-21'
 descuento: '71.44'
 average: '29.796666666666667'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'BaronHong Gynecomastia compresión Camisa Chaleco para Ocultar Hombre Boobs Moobs Adelgazamiento Mens Shapewear Aplastar Abdomen Completo  Negro  XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073BFDYSD/?tag=tolees-21'
 descuento: '68.01'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 512 Slim Taper Fit Jean Vaqueros  Azul Abu ADV  32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8SCYPQ/?tag=tolees-21'
 descuento: '39.13'
 average: '70.0'

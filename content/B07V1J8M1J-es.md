@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'BOSS Boxer Brief 2p Print  Azul  Navy 415   Medium  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1J8M1J/?tag=tolees-21'
 descuento: '58.75'
 average: '16.48'

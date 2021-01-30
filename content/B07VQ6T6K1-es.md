@@ -16,6 +16,7 @@ comparePrice: 38.17 EUR
 prodname: 'Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Rojo  Primary Red   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQ6T6K1/?tag=tolees-21'
 descuento: '34.63'
 average: '24.95'

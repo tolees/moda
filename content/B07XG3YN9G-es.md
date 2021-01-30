@@ -16,6 +16,7 @@ comparePrice: 12.58 EUR
 prodname: 'Sharplace Forma De Memoria Almohadillas De Copa Del Talón Cojines Zapatos Plantilla De Inserción Para Fascitis Plantar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XG3YN9G/?tag=tolees-21'
 descuento: '44.44'
 average: '6.99'

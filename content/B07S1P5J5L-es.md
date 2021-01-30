@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s Haight Harrington Jacket Chaqueta  Negro  Mineral Black 0000   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1P5J5L/?tag=tolees-21'
 descuento: '50.00'
 average: '55.0'

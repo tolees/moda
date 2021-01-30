@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Mh Plain Camiseta Polo  Hombre  Medium Grey Heather  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL3X3JN/?tag=tolees-21'
 descuento: '34.36'
 average: '18.914285714285715'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Challenger Chaqueta Sudadera  Hombre  Azul  Dark Mountain/Collegiate Navy   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8L2CL/?tag=tolees-21'
 descuento: '73.96'
 average: '39.06'

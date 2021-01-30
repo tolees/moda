@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Clarks Crown Stem K  Sandalias Punta Cerrada para Niños  Azul  Navy Leather Navy Leather   28.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWBSFK7/?tag=tolees-21'
 descuento: '30.11'
 average: '41.9'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Huntvp Chaleco Táctico Militar al Aire Libre Ajustable para Caza Airsoft Paintball CS Excursión Senderismo - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTSC2MJ/?tag=tolees-21'
 descuento: '40.01'
 average: '41.99'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas Ultimate Adistar Skort Falda  Blanco  Blanco Dq2127   Small  Tamaño del Fabricante:S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ7G21K/?tag=tolees-21'
 descuento: '41.15'
 average: '38.22'

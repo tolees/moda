@@ -16,6 +16,7 @@ comparePrice: 290.0 EUR
 prodname: 'Pepe Jeans Keith Chaqueta  Negro  Black 999   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RT2QWQ/?tag=tolees-21'
 descuento: '27.77'
 average: '235.25'

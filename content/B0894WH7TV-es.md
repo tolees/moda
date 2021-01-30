@@ -16,6 +16,7 @@ comparePrice: 30.86 EUR
 prodname: 'EKQ Boxer Hombre Algodon Pack de 4 Calzoncillos Bóxers Ropa Interior Underwear Trunk Multipack Elásticos S M L XL XXL Negro Gris Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894WH7TV/?tag=tolees-21'
 descuento: '25.50'
 average: '22.99'

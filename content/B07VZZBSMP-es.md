@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'El Naturalista Wakatiwai  Sandalias con Punta Abierta para Mujer  Azul  Marino Mixed Marino Mixed   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZZBSMP/?tag=tolees-21'
 descuento: '53.83'
 average: '43.86'

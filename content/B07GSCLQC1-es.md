@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Elimina el cabello facial para mujeres  suave  sin dolor  impecable y eléctrico  cabezal reemplazable 4 en 1  perfecto para cara  pierna  manos  bikini  brazos  cejas  masajeador facial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSCLQC1/?tag=tolees-21'
 descuento: '73.35'
 average: '15.99'

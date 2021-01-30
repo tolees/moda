@@ -16,6 +16,7 @@ comparePrice: 29.6 EUR
 prodname: 'Clarks Un Adorn Walk Botines Mujer  Azul  Navy Nubuck Navy Nubuck   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JH4DZ/?tag=tolees-21'
 descuento: '25.34'
 average: '22.1'

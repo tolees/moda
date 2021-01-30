@@ -16,6 +16,7 @@ comparePrice: 5.07 EUR
 prodname: 'Activewear Mesh Camiseta Deportiva para Hombre  Weiß  White   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0716NX7XX/?tag=tolees-21'
 descuento: '19.72'
 average: '4.07'

@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'BILLABONG Tendencies Zip Hood Sudadera  Amarillo  Mustard 54   One Size  Tamaño del Fabricante: XXL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S15C3XF/?tag=tolees-21'
 descuento: '68.27'
 average: '17.45'

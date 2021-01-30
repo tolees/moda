@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'VIFUUR Zapatillas Hombre Mujer de casa Espuma de Memoria de Alta Densidad Cálido Interior Lana al Aire Libre Forro de Felpa Suela Antideslizante Zapatos Plata Beige 36/37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCWRYBL/?tag=tolees-21'
 descuento: '50.04'
 average: '13.99'

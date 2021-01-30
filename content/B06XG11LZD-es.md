@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'CADeN Camera Hombro Bolsa de Mensajero Mochila de Lona para Hombres Mujeres Impermeable Antirrobo Bolso de Fotografía de Viaje para 1 Cámara DSLR 3 Lentes para Nikon Canon Sony'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XG11LZD/?tag=tolees-21'
 descuento: '45.01'
 average: '33.99'

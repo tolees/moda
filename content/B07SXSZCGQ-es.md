@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J ALBEN Boy C  Zapatillas para Niños  Azul  Navy/Red C0735   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXSZCGQ/?tag=tolees-21'
 descuento: '41.69'
 average: '34.93'

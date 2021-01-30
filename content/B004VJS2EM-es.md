@@ -16,6 +16,7 @@ comparePrice: 151.9 EUR
 prodname: 'FitFlop Zapatos de Cordones Chukker Chocolate EU 44  UK 10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004VJS2EM/?tag=tolees-21'
 descuento: '50.00'
 average: '75.95'

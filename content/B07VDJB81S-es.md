@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Vest Tresor Vestido  Negro  Negro 2000   42  Talla del Fabricante: 40  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDJB81S/?tag=tolees-21'
 descuento: '73.81'
 average: '24.95'

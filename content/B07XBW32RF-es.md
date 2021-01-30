@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'ENGSWA Collar Mujer Plata de Ley 925 Colgante Corazón con Infinito Grabado Regalo para Mamá Abuela Hija Niña Esposa Novia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBW32RF/?tag=tolees-21'
 descuento: '71.01'
 average: '28.99'

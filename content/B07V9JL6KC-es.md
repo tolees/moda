@@ -16,6 +16,7 @@ comparePrice: 56.83 EUR
 prodname: 'HCFKJ Cinturones para Vestidos de Fiesta Moda Rhinestone Lleno Brillante Cintura Mujeres Vestido De Fiesta CinturóN De Cadena'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9JL6KC/?tag=tolees-21'
 descuento: '98.26'
 average: '0.6633333333333333'

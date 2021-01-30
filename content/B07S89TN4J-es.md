@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Lee Rider Jacket Chaqueta Vaquera  Azul  Cerulean EI   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S89TN4J/?tag=tolees-21'
 descuento: '70.33'
 average: '32.62'

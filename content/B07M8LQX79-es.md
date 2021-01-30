@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Wrangler Sherpa Jacket Chaqueta Vaquera  Azul  Winter Bleach 10b   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8LQX79/?tag=tolees-21'
 descuento: '74.01'
 average: '33.78'

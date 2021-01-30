@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia WAYFINDER Outdry  Zapatos Multideporte para Hombre  Gris  Ti Grey Steel  034   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGDCS2F/?tag=tolees-21'
 descuento: '50.00'
 average: '59.99'

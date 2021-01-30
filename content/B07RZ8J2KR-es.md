@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Vneck Camiseta  Azul  Sea Captain Blue 0005   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ8J2KR/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

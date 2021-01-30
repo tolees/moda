@@ -16,6 +16,7 @@ comparePrice: 38.38 EUR
 prodname: 'NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaqueta de Deporte  Hombre  Black/Black/Black/ Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081P4LT3S/?tag=tolees-21'
 descuento: '26.26'
 average: '28.3'

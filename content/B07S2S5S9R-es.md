@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Original Camiseta  Multicolor  Hm Patch OG tee Golden Apricot 0003   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2S5S9R/?tag=tolees-21'
 descuento: '45.48'
 average: '13.63'

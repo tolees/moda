@@ -16,6 +16,7 @@ comparePrice: 24.2 EUR
 prodname: 'Marca Amazon - MERAKI Falda Maxi Slim Fit Mujer  Negro  Black   44  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075BJCYKF/?tag=tolees-21'
 descuento: '27.69'
 average: '17.5'

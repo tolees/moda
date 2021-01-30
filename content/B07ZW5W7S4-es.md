@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón con Punta Cerrada  Rojo  Burgundy   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZW5W7S4/?tag=tolees-21'
 descuento: '80.04'
 average: '9.195'

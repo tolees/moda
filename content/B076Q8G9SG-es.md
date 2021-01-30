@@ -16,6 +16,7 @@ comparePrice: 95.39 EUR
 prodname: 'G-STAR RAW 3301 Straight Vaqueros  Blu  Medium Aged 6090-071   29W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076Q8G9SG/?tag=tolees-21'
 descuento: '47.64'
 average: '49.95'

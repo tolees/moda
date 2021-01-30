@@ -16,6 +16,7 @@ comparePrice: 5.2 EUR
 prodname: 'Marca Amazon - find. Camiseta Manga Corta con Textura  Hombre  Beige  Oatmeal   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NJZZRP/?tag=tolees-21'
 descuento: '15.38'
 average: '4.4'

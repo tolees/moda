@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Esprit 099EE1K016s Camiseta de Manga Larga  Azul  Navy 2 401   XXL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHWQVV6/?tag=tolees-21'
 descuento: '61.56'
 average: '9.99'

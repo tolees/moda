@@ -16,6 +16,7 @@ comparePrice: 3.63 EUR
 prodname: 'BaZhaHei Moda Mochila Mini Dragones Mini Bolso de Hombro Bolsos de Moda Casual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXHNYB9/?tag=tolees-21'
 descuento: '56.47'
 average: '1.58'

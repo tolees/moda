@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Columbia Autumn Rise  Chaqueta impermeable de longitud media  Mujer  Azul/Amarillo  Collegiate Navy  Canyon Gold   Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCKB4Y9/?tag=tolees-21'
 descuento: '42.51'
 average: '114.98'

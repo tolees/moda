@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'DANISH ENDURANCE Calzoncillos Bóxer de Deporte Pack de 2  Multicolor: 1 x Negro  1 x Azul Camuflaje  Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6XZSMP/?tag=tolees-21'
 descuento: '38.54'
 average: '15.95'

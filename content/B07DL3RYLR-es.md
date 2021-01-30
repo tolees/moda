@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Sikai Amazfit Sports Smartwatch Stratos 2 Marco Caso Cubierta Proteger Shell Moda Protector Case Funda para Xiaomi Huami Reloj Carcasa Lightweight Hülle Bumper Cover  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DL3RYLR/?tag=tolees-21'
 descuento: '17.65'
 average: '6.58'

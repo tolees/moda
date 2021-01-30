@@ -16,6 +16,7 @@ comparePrice: 10.79 EUR
 prodname: 'YAZILIND Moda joyería Exquisita Personalidad Simple Titanio Anillo de Acero tamaño 19 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JY7ZXM/?tag=tolees-21'
 descuento: '83.41'
 average: '1.79'

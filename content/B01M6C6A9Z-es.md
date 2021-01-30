@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'flintronic® Cartera Tarjeta de Crédito  Slim RFID Bloqueo Monedero de Cuero  Carpeta del Cuero  Tarjetas de Visita Tarjeta de Crédito  Alojar hasta 11 Tarjetas  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6C6A9Z/?tag=tolees-21'
 descuento: '37.52'
 average: '10.49'

@@ -16,6 +16,7 @@ comparePrice: 5.61 EUR
 prodname: 'Jack & Jones JORASTON SS tee Crew Neck KA Camiseta  Verde  Dusty Olive Fit: Reg   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDJ538W/?tag=tolees-21'
 descuento: '15.33'
 average: '4.75'

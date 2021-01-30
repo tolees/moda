@@ -16,6 +16,7 @@ comparePrice: 43.55 EUR
 prodname: 'FCB Conjunto Camiseta y Pantalón Primera Equipación Infantil TER Stegen del FC Barcelona Producto Oficial Licenciado Temporada 2019-2020 Color Verde  Verde  Talla 12 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081HFDBNV/?tag=tolees-21'
 descuento: '31.14'
 average: '29.99'

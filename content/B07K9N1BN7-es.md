@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic  Zuecos con Correa Trasera Unisex Adulto  Pink Lemonade  42/43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K9N1BN7/?tag=tolees-21'
 descuento: '53.59'
 average: '18.56'

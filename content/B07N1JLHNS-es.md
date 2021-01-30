@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Cosmo Step  Zapatos de Tacón para Mujer  Marrón  Aubergine Lea Aubergine Lea   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JLHNS/?tag=tolees-21'
 descuento: '52.47'
 average: '49.57'

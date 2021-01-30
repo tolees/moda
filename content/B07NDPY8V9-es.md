@@ -16,6 +16,7 @@ comparePrice: 229.95 EUR
 prodname: 'G-STAR RAW Scutar Utility Padded Abrigo  Gris  Asfalt 995   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPY8V9/?tag=tolees-21'
 descuento: '73.50'
 average: '60.94'

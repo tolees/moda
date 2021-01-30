@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Calvin Klein Modern Western Shirt Camisa  Gris  Da039 Grey BRZ   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD3HQ27/?tag=tolees-21'
 descuento: '75.59'
 average: '19.28'

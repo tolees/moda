@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Hero  Zapatos de Cordones Brogue para Mujer  Gris  Grey Snake Grey Snake   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLP43X4/?tag=tolees-21'
 descuento: '75.57'
 average: '26.87'

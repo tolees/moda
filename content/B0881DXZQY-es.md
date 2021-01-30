@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'HAOYE Funda para Sony Xperia L4 Funda  Suave PU Cuero Flip Carcasa Case Cover  Cubierta Magnética en Relieve de la Mandala  Billetera con Soporte/Tapa Tarjetas. Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0881DXZQY/?tag=tolees-21'
 descuento: '33.39'
 average: '3.99'

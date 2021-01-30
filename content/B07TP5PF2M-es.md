@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'The North Face Trevail Chaqueta de Plumón  Hombre  Azul  TNF Blue/TNF Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TP5PF2M/?tag=tolees-21'
 descuento: '57.91'
 average: '96.8'

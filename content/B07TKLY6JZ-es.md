@@ -16,6 +16,7 @@ comparePrice: 29.42 EUR
 prodname: 'HAWKERS - Gafas de sol para mujer BUTERFLY   Carey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKLY6JZ/?tag=tolees-21'
 descuento: '38.82'
 average: '18.0'

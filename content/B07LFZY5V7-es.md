@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Geox D Felicity NP ABX C  Botas Chelsea para Mujer  Marrón  Brown C0013   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZY5V7/?tag=tolees-21'
 descuento: '65.38'
 average: '51.9'

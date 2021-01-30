@@ -16,6 +16,7 @@ comparePrice: 34.27 EUR
 prodname: 'adidas Tiro 17 Training Top Youth Camiseta  niños  Azul  Maruni/Energi/Blanco   128'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M29SLQ6/?tag=tolees-21'
 descuento: '68.63'
 average: '10.75'

@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Under Armour Raid Shorts Pantalones para hombre  pantalón corto ultraligero y transpirable  anchos pantalones cortos deportivos de secado rápido  Black/Graphite  001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KXIKF5E/?tag=tolees-21'
 descuento: '48.52'
 average: '19.346666666666664'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'NIKE Kawa Shower  Zapatos de Playa y Piscina para Hombre  Negro  Black/White   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N97XDI4/?tag=tolees-21'
 descuento: '22.74'
 average: '13.995454545454544'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Marca Amazon - AURIQUE Mallas de Deporte Cortas con Banda Lateral Mujer  Negro  Black   44  Label:XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YFC5V7/?tag=tolees-21'
 descuento: '25.00'
 average: '15.0'

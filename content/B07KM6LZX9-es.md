@@ -16,6 +16,7 @@ comparePrice: 23.09 EUR
 prodname: 'Juego de Chaleco Táctico con Balas de Dardos de Espuma Suave de 40 Piezas Recarga Rápida de 2 Piezas Gafas Protectoras Máscara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KM6LZX9/?tag=tolees-21'
 descuento: '23.39'
 average: '15.676666666666668'

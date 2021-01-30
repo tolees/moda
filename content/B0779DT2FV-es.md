@@ -16,6 +16,7 @@ comparePrice: 13.89 EUR
 prodname: 'adidas Entrada 85 Camiseta de Fútbol para Hombre de Cuello Redondo en Contraste  Azul  Clear Blue/White   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779DT2FV/?tag=tolees-21'
 descuento: '20.88'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Salant Core Round Neck Sudadera  Multicolor  Imperial Blue/Milk Ao 6105   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNG56K/?tag=tolees-21'
 descuento: '62.76'
 average: '26.619999999999997'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Arena The One Gafas de Natación  Unisex Adulto  Rosa  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2VQQ4G/?tag=tolees-21'
 descuento: '32.98'
 average: '13.37'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ever-Pretty A-línea Vestido de Fiesta Gasa Cuello en V sin Mangas Largo para Mujer Verde Oscuro 52'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZKDKRJ/?tag=tolees-21'
 descuento: '35.00'
 average: '52.656666666666666'

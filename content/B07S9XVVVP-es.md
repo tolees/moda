@@ -16,6 +16,7 @@ comparePrice: 46.89 EUR
 prodname: 'FTIMILD - Chaqueta de Pana para Hombre con Cremallera  Estilo Retro con Bolsillos Verde Caqui S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9XVVVP/?tag=tolees-21'
 descuento: '59.12'
 average: '19.17'

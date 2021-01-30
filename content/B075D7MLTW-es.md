@@ -16,6 +16,7 @@ comparePrice: 9.3 EUR
 prodname: 'IRIS & LILLY BLIC004 sujetadores push up  Beige  Praline   90B  Talla del fabricante: 34B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075D7MLTW/?tag=tolees-21'
 descuento: '22.69'
 average: '7.19'

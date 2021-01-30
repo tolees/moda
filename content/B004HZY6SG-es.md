@@ -16,6 +16,7 @@ comparePrice: 45.09 EUR
 prodname: 'Geox U Moner V  Mocasines para Hombre  Marrone  Sable   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004HZY6SG/?tag=tolees-21'
 descuento: '29.45'
 average: '31.81'

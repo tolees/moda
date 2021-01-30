@@ -16,6 +16,7 @@ comparePrice: 34.64 EUR
 prodname: 'deAO Juego del Lejano Oeste Conjunto de Vaqueros y Nativos Americanos Figuras de Acción Cowboy Playset con Accesorios Incluidos Funciones de Luz y Sonidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQSMWGH/?tag=tolees-21'
 descuento: '27.86'
 average: '21.83285714285714'

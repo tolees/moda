@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'T-wilker Limpiador de Cadena de Bicicleta  combinación de cepillos de limpieza y guantes de látex y ToallasCadena de Bici Herramienta de Limpieza rápido Limpiador（azul transparente）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9YWD18/?tag=tolees-21'
 descuento: '28.59'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH Pecho  Hombre  Rojo  Bandera   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2Q8WQJ/?tag=tolees-21'
 descuento: '56.69'
 average: '16.42'

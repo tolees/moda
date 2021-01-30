@@ -16,6 +16,7 @@ comparePrice: 27.84 EUR
 prodname: 'Amazon Essentials - Camisa regular de lino a cuadros con manga larga para hombre  Rosado Stripe  US XL  EU XL - XXL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHTQC8P/?tag=tolees-21'
 descuento: '49.71'
 average: '14'

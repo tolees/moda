@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Prada 0PR05TS TH71I0 53 Gafas de sol  Blanco  Light Havana/Striped White/Green   Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078FTD2HL/?tag=tolees-21'
 descuento: '50.19'
 average: '129.0'

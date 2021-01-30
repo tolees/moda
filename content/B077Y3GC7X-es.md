@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'HIKARO Chaqueta Bomber Hombre  Azul  Navy   50  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y3GC7X/?tag=tolees-21'
 descuento: '20.00'
 average: '39.96'

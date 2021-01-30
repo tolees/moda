@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Cable Alargador USB 2.0 [3M] Cable Extension USB Tipo A Macho A Hembra Alta Velocidad 5 Gbps para Impresora Ratón Teclado Hub Pendrive Mando de PS3 VR Gafas Disco Externo Ordenador y Otros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BJS3FXF/?tag=tolees-21'
 descuento: '20.04'
 average: '3.99'

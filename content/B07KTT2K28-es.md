@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'anbiwangluo Zapatos de Lentejuelas de Niña Zapatos de Tacón Alto de Princesa Zapatos de Fiesta de Niños 30 EU/Tamaño de la Etiqueta 31 Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTT2K28/?tag=tolees-21'
 descuento: '42.56'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PUMA Liga CR H Camiseta de Manga Corta  Hombre  Azul  Electric Blue Lemonade/White   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KLQSDQ/?tag=tolees-21'
 descuento: '33.18'
 average: '9.582'

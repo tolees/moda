@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Mishansha Zapatillas de Running para Hombre Casual Tenis Asfalto Zapatos Deporte Fitness Gym Correr Gimnasio Deportives Transpirables Atlético Trekking Plataform Sneakers 41 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HRW7Z2Q/?tag=tolees-21'
 descuento: '28.01'
 average: '34.656666666666666'

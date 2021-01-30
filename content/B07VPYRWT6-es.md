@@ -16,6 +16,7 @@ comparePrice: 80.87 EUR
 prodname: 'Tommy Hilfiger Rome HW Short Vaqueros Slim  Azul  Uta 1bo   W31/L30  Talla del Fabricante: Ni31  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPYRWT6/?tag=tolees-21'
 descuento: '77.30'
 average: '18.36'

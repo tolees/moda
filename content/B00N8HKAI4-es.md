@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'ALPHA INDUSTRIES 183110-184-M Chaqueta  Rojo  Burgundy 184   Medium  Tamaño del Fabricante: M  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N8HKAI4/?tag=tolees-21'
 descuento: '55.00'
 average: '89.95'

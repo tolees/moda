@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'BOSS Brief 3p Co/El Bóxer  Multicolor  Open Miscellaneous   L  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZK73SK/?tag=tolees-21'
 descuento: '18.13'
 average: '31.07'

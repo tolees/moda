@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Pepe Jeans Venus Vaqueros  Azul  10Oz Rinse Plus M15   28W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XNS3XB4/?tag=tolees-21'
 descuento: '38.62'
 average: '48.49'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Greensboro Regular Jeans Vaqueros  Azul  Darkstone 090   50W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FF7Q5T2/?tag=tolees-21'
 descuento: '51.06'
 average: '33.842000000000006'

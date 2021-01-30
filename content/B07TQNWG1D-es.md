@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s Housemark Graphic tee Camiseta  Verde  Hm Ssnl Emb Aloe 0250   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQNWG1D/?tag=tolees-21'
 descuento: '21.70'
 average: '19.847142857142856'

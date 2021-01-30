@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Donpapa Bragas para Mujer Pack sin Costuras Invisible Braguitas Microfibra Rayas Brief Bikini Culotte Pack de 6  Negro XS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085H9FTFG/?tag=tolees-21'
 descuento: '42.51'
 average: '21.739999999999995'

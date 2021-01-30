@@ -16,6 +16,7 @@ comparePrice: 11.08 EUR
 prodname: 'TWBB De los Hombres Vendimia Pantalones Pantalones Vaqueros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV4VXRN/?tag=tolees-21'
 descuento: '83.03'
 average: '1.88'

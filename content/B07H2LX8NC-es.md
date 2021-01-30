@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Goodbye  Rita. Round 6 Gafas  Azul  Talla Única Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2LX8NC/?tag=tolees-21'
 descuento: '33.44'
 average: '19.9'

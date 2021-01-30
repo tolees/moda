@@ -16,6 +16,7 @@ comparePrice: 23.77 EUR
 prodname: 'O NEILL PM Alti Hyperfleece - Chaqueta para Hombre  Hombre  9P0300  Black out  Extra-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7ZBLD9/?tag=tolees-21'
 descuento: '16.70'
 average: '19.8'

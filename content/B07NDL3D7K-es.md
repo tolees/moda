@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'G-STAR RAW ARC 3D Low Waist Boyfriend Restored Vaqueros  Dk Tea Rose B482-A827  23W / 36L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL3D7K/?tag=tolees-21'
 descuento: '72.26'
 average: '41.59'

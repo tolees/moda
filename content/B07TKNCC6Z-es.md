@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Clarks Step Beat Sun  Abierta Sandalias Punta Cerrada  Verde  Dusty Olive Dusty Olive   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKNCC6Z/?tag=tolees-21'
 descuento: '21.73'
 average: '43.01'

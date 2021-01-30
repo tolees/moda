@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Swiftwater River Sandals 203965-06  Sandalias para Hombre  Negro  Black   43/44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H6NYZSG/?tag=tolees-21'
 descuento: '36.73'
 average: '25.3'

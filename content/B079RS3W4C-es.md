@@ -16,6 +16,7 @@ comparePrice: 63.42 EUR
 prodname: 'Pepe Jeans Jenna PL952389 Vestido  Multicolor  Multi 0Aa   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RS3W4C/?tag=tolees-21'
 descuento: '29.06'
 average: '41.73'

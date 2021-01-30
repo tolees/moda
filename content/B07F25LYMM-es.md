@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Element Dulcey Chaqueta  Hombre  Azul  Eclipse Navy   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F25LYMM/?tag=tolees-21'
 descuento: '60.59'
 average: '55.17'

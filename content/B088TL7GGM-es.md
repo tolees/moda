@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Ququcheng Funda Compatible con Huawei P Smart 2019 Cuerda Carcasa TPU Bumper Silicona Ajustable Collar Correa de Cuello Cordón Skin Caso para Huawei P Smart 2019-Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TL7GGM/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

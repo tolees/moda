@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Lee Brooklyn Straight Hombre Vaqueros  Azul  Mid Stonewash   36W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005YBQM52/?tag=tolees-21'
 descuento: '15.00'
 average: '45.89'

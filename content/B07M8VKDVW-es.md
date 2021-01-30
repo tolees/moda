@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Lee Button Down Camisa Casual  Azul  Beyond Blue   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8VKDVW/?tag=tolees-21'
 descuento: '70.51'
 average: '21.705'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 725 High Rise Bootcut Vaqueros Corte de Bota  Negro  Black Sheen 0032   W29/L32  Talla del Fabricante: 29 32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV7PBM2/?tag=tolees-21'
 descuento: '63.75'
 average: '36.25'

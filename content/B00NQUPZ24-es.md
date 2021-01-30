@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'LTB Jeans 5346 - Vaqueros para mujer  Azul  Blue Lapis Wash 3923   W25/L36  talla fabricante: 25 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NQUPZ24/?tag=tolees-21'
 descuento: '57.97'
 average: '29.4'

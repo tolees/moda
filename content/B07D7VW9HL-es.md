@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 512 Slim Taper Fit Vaqueros Tapered  Azul  Rock Cod 0280   29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7VW9HL/?tag=tolees-21'
 descuento: '57.29'
 average: '54.035'

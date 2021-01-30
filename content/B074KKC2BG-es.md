@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Azul  Chambray Blue 44O   48/49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KKC2BG/?tag=tolees-21'
 descuento: '56.59'
 average: '17.36'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'IEFIEL Chaqueta de Fiesta Boda para Niña Bolero Pompón de Dama Honor Cárdigan de Piel Sintética Abrigo Invierno Otoño Marfil 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N68E9KV/?tag=tolees-21'
 descuento: '60.54'
 average: '11.05'

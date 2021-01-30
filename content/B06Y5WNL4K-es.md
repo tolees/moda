@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'G-STAR RAW Base V T S/s 2-Pack Camiseta  Negro  Black 990   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y5WNL4K/?tag=tolees-21'
 descuento: '34.31'
 average: '22.99'

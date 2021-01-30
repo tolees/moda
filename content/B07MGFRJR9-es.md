@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri Burgee 2 Sudadera con Capucha  Verde  Green Forest 2 Ge3   XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFRJR9/?tag=tolees-21'
 descuento: '39.44'
 average: '59.95'

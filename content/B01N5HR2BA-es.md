@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Crocs Flip Flops  Chanclas Unisex Adulto  Azul  Navy/Cerulean Blue   48/49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5HR2BA/?tag=tolees-21'
 descuento: '58.88'
 average: '13.42095238095238'

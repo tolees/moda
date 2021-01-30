@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Huntvp Riñonera Táctica Mochila Deportiva Militar Bolso Cinturon Impermeable para Senderismo Ciclismo Camping Caza  Negro/Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XW3JPJ8/?tag=tolees-21'
 descuento: '72.52'
 average: '10.99'

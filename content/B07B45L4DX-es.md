@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SELECTED HOMME Slhslimpreston-Clean Shirt LS B Noos Camisa  Azul  Light Blue Light Blue   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B45L4DX/?tag=tolees-21'
 descuento: '59.93'
 average: '18.56'

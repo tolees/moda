@@ -16,6 +16,7 @@ comparePrice: 78.53 EUR
 prodname: 'Emily Bridal Zapatos Nupciales De Mujer satén Sedoso Tacón Ancho Salón con Encaje Flor Crystal Perla  EU42  Beige '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075XN2R1L/?tag=tolees-21'
 descuento: '42.82'
 average: '44.9'

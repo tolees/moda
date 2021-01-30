@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Vintage Logo Tri tee Camiseta de Tirantes  Blanco  Optic 01C   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKK8V5V/?tag=tolees-21'
 descuento: '42.87'
 average: '20.14333333333333'

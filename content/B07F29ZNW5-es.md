@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Timberland Union Wharf Plain Toe SO  Slip On para Hombre  Azul  Navy Canvas   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F29ZNW5/?tag=tolees-21'
 descuento: '50.00'
 average: '30.0'

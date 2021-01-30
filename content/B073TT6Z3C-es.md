@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Aroncent Pulsera de Cuero Trenzado Brazalete Decorado de Picas Póker Collar con Colgantes de Baraja de Cartas de Acero Inoxidable Juego de Joyería de Cuerpo para Hombre – 2PCS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073TT6Z3C/?tag=tolees-21'
 descuento: '42.87'
 average: '15.99'

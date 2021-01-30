@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Lacoste Ch9861 Camisa  Azul  Marine/Hemisphere/Blanc 0wf   Small  Talla del Fabricante: 38  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKR8KG5/?tag=tolees-21'
 descuento: '65.20'
 average: '34.8'

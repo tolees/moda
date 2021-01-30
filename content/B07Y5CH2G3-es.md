@@ -16,6 +16,7 @@ comparePrice: 39 EUR
 prodname: 'Geographical Norway Sudadera DE Hombre GYMCLASS A Azul ELÉCTRICO XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5CH2G3/?tag=tolees-21'
 descuento: '20.00'
 average: '39.095'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Core Super Slim Camisa Vaquera  Multicolor  Sartho Blue/Milk Ao 8708   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL6BMS/?tag=tolees-21'
 descuento: '74.01'
 average: '20.78'

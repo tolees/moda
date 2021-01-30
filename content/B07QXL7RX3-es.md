@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Under Armour Forefront Rain Chaqueta  Hombre  Azul  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXL7RX3/?tag=tolees-21'
 descuento: '40.04'
 average: '47.97'

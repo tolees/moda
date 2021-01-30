@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones JORBROOK Shirt LS Camisa Casual  Multicolor  Navy Blazer Fit: Comfort   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGNBFZ1/?tag=tolees-21'
 descuento: '69.32'
 average: '9.2'

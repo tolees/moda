@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Rojo  Sun Dried-tomato   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0733G7SKC/?tag=tolees-21'
 descuento: '73.76'
 average: '6.405'

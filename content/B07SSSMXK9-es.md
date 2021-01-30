@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES PREMIUM Jprblackpool Shirt L/s Au19 STS Camisa  Morado  Dark Purple Slim Fit AOP   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSSMXK9/?tag=tolees-21'
 descuento: '69.42'
 average: '12.23'

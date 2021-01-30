@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'OBEEII Vestidos Niñas Fiesta Bordado de Tul para Fiesta Comunion Vestido de Princesa Cumpleaños Cóctel Ceremonia Boda Prom Amarillo 3-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGF9XL8/?tag=tolees-21'
 descuento: '51.15'
 average: '14.65'

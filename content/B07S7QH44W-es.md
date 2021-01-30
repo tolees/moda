@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson LO  Zapatilla Baja Unisex-Adulto  White Mist Green Whisper White  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7QH44W/?tag=tolees-21'
 descuento: '56.21'
 average: '35.01'

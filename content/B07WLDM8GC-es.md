@@ -16,6 +16,7 @@ comparePrice: 31.75 EUR
 prodname: 'Zapatillas Casa Mujer Hombre Invierno Calido Zapatillas Cómodas Suave Flat Slipper Zapatillas de casa de Mujer Ultraligero cómodo y Antideslizante Zapatilla de Estar por casa para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLDM8GC/?tag=tolees-21'
 descuento: '43.69'
 average: '17.88'

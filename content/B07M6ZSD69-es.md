@@ -16,6 +16,7 @@ comparePrice: 40.3 EUR
 prodname: 'COZ7W|#Cole Haan Zerogrand Wingtip  Zapatos de Cordones Oxford para Hombre   Burnished Pavement/Black Burnished Pavement/Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6ZSD69/?tag=tolees-21'
 descuento: '35.96'
 average: '29.814999999999998'

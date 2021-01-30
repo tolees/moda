@@ -16,6 +16,7 @@ comparePrice: 7.96 EUR
 prodname: 'Marca Amazon - find. Blusa Mujer  Morado  Violet Indigo 19-3750   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072FR1STD/?tag=tolees-21'
 descuento: '18.59'
 average: '7.376666666666667'

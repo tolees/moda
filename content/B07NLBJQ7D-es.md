@@ -16,6 +16,7 @@ comparePrice: 44.94 EUR
 prodname: 'Marca Amazon - TRUTH & FABLE Vestido Mujer Estampado  Multicolor  Multicolour   42  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLBJQ7D/?tag=tolees-21'
 descuento: '19.69'
 average: '36.09'

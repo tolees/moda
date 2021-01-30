@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'crocs Crocband U  Zuecos Unisex Adulto  Gris  Charcoal-Ocean   42-43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007B9MI0S/?tag=tolees-21'
 descuento: '29.10'
 average: '36.195'

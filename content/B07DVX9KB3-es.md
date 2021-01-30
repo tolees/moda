@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Type 3 Sherpa Trucker  Chaqueta para Hombre  Azul  Rockridge Trucker 0084   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVX9KB3/?tag=tolees-21'
 descuento: '34.82'
 average: '84.74'

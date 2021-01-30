@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'Oihxse Moda Lindo Cristal Case Compatible con Samsung Galaxy A70 Funda Silicona Gradiente de Color TPU Suave Carcasa Ultra-Fina Transparente Protectora Flexible Caso-Blanco Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086SYKL6S/?tag=tolees-21'
 descuento: '20.04'
 average: '7.98'

@@ -16,6 +16,7 @@ comparePrice: 25.53 EUR
 prodname: 'Ultrasport Chaqueta multifuncional de hombre Endy con Ultraflow 3.000  ligera y transpirable; por este motivo  ideal como chaqueta de correr  de entrenamiento o de ciclismo  impermeable y resistente al viento  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D38HMDS/?tag=tolees-21'
 descuento: '25.11'
 average: '21.53777777777778'

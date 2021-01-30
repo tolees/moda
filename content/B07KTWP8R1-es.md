@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Adidas Adilette Shower - Zapatos de Playa y Piscina para Hombre  Negro  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTWP8R1/?tag=tolees-21'
 descuento: '67.90'
 average: '9.01'

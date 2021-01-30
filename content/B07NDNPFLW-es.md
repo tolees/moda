@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'G-STAR RAW Whistler Slim Down Hooded Chaqueta  Gris  Mercury 1359   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNPFLW/?tag=tolees-21'
 descuento: '65.21'
 average: '69.56'

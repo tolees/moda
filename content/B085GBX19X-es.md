@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'CAVEEN Organizador de Sofá - 2 Piezas  Organizador de Reposabrazos para Sofá con 6 Bolsas  Organizador de Sillón  para Poner Teléfono  Control Remoto  Revista  Gafas  Libro Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085GBX19X/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour  UNDKU  Coldgear Armour Camisa De Manga Larga  Hombre  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XQD29N/?tag=tolees-21'
 descuento: '55.62'
 average: '25.696666666666665'

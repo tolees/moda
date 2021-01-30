@@ -16,6 +16,7 @@ comparePrice: 23.38 EUR
 prodname: '#N/A 2 Juegos Ropa de Vestir de Moda para Muñecas Chicas 18 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HGM88D1/?tag=tolees-21'
 descuento: '44.44'
 average: '12.99'

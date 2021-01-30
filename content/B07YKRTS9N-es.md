@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Esprit 129ee2g006 Chaqueta  Azul  Dark Blue 405   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YKRTS9N/?tag=tolees-21'
 descuento: '50.01'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 399.95 EUR
 prodname: 'Dainese Pantalón de Motorista DAINESE Delta 3  Piel/Botas Pantalón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076FXBCL5/?tag=tolees-21'
 descuento: '61.47'
 average: '154.11'

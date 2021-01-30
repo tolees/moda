@@ -16,6 +16,7 @@ comparePrice: 23.68 EUR
 prodname: 'Wrangler Authentic Straight Incl Belt Vaqueros  Negro  Black Z10   36W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4XCVMN/?tag=tolees-21'
 descuento: '19.26'
 average: '22.656666666666666'

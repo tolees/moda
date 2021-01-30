@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre  Azul Marino  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFM441V/?tag=tolees-21'
 descuento: '28.13'
 average: '52.705000000000005'

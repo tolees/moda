@@ -16,6 +16,7 @@ comparePrice: 229.95 EUR
 prodname: 'G-STAR RAW Scutar Utility Padded Abrigo  Gris  Dk Black 6484   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNQ82D/?tag=tolees-21'
 descuento: '87.12'
 average: '47.67'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger T Camiseta Básica de Manga Corta  Azul  Sky Captain   128  Talla del Fabricante: 8-9  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX8YX4Q/?tag=tolees-21'
 descuento: '39.95'
 average: '11.95'

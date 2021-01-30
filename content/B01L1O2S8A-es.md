@@ -16,6 +16,7 @@ comparePrice: 79.69 EUR
 prodname: 'SKYSPER Hombres Jersey Pantalones Largos Mangas Largas de Ciclismo Ropa Maillot para Deportes al Aire Libre Ciclo Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L1O2S8A/?tag=tolees-21'
 descuento: '63.62'
 average: '28.99'

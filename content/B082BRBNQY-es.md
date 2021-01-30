@@ -16,6 +16,7 @@ comparePrice: 19.16 EUR
 prodname: 'ARENA The One Gafas De Natación  Unisex Adulto  Clear/Black  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BRBNQY/?tag=tolees-21'
 descuento: '19.99'
 average: '15.33'

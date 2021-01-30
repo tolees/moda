@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Bristum 1 Pocket Slim Camisa Vaquera  Multicolor  Indigo/White Check 6321   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL6BN8/?tag=tolees-21'
 descuento: '80.33'
 average: '19.66'

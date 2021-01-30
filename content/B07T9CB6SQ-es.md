@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Crocs Classic Metallic Clog  Zuecos Unisex Adulto  Rosa  Blossom 682   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9CB6SQ/?tag=tolees-21'
 descuento: '21.26'
 average: '34.11'

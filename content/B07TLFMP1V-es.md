@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Crewneck 1 Camiseta  Multicolor  2pk Slim Crew Riverside/Earth Red 0008   Large  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLFMP1V/?tag=tolees-21'
 descuento: '50.00'
 average: '17.5'

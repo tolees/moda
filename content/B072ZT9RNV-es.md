@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Timormode Vestido Cóctel Corto Vintage 50s Cuello Halter Vestido De Fiesta Rockabilly Mujer Armygreen XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072ZT9RNV/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

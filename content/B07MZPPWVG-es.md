@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Nastia Sudadera   Dandelion 054   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPPWVG/?tag=tolees-21'
 descuento: '37.35'
 average: '39.46'

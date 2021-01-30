@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Hawiton Pijama Mujer de Algodón Invierno Otoño Mangas Larga Ropa de Domir 2 Piezas Pantalones Largo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5V6YDD/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

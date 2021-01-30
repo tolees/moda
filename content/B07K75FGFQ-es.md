@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s Graphic B Sudadera  Blanco  Add Crew T2 Flock White 0077   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K75FGFQ/?tag=tolees-21'
 descuento: '50.83'
 average: '25.060000000000002'

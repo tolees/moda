@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Monterey Diamante Wedge Flip  Chanclas para Mujer  Azul  Navy 410   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBB8F8P/?tag=tolees-21'
 descuento: '31.98'
 average: '30.6'

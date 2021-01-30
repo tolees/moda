@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre  Grau  Dove Grey   36W / 32L  Label: 36W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772FLCFV/?tag=tolees-21'
 descuento: '30.70'
 average: '13.86'

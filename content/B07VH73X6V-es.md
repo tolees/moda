@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'edc by Esprit 099cc1b033 Vaqueros Skinny  Azul  Blue Dark Wash 901   W27/L32  Talla del Fabricante: 27/32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VH73X6V/?tag=tolees-21'
 descuento: '83.11'
 average: '10.13'

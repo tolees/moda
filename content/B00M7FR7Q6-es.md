@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pepe Jeans Venus Vaqueros  Azul  10Oz Stretch Ultra Dk H062   24W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M7FR7Q6/?tag=tolees-21'
 descuento: '52.54'
 average: '46.99'

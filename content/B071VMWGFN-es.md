@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour UA HG Armour Shorty Pantalón Corto  Mujer  Gris  Charcoal Light Heather/Anthracite/Metallic Silver 020   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VMWGFN/?tag=tolees-21'
 descuento: '42.00'
 average: '20.54'

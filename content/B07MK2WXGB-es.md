@@ -16,6 +16,7 @@ comparePrice: 9.58 EUR
 prodname: 'Cerdá 2300003841  Sandalias Deportivas para Niñas  Blanco  Blanco C01   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK2WXGB/?tag=tolees-21'
 descuento: '21.19'
 average: '7.55'

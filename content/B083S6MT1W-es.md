@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'COFACE Chanclas para Mujer Chancletas de Playa  Sandalias de Dedo  Antideslizantes Flip-Flop Verano Zapatos de Mujeres 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083S6MT1W/?tag=tolees-21'
 descuento: '19.40'
 average: '14.5'

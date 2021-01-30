@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Tous Kaos Mini - Monedero para Mujer  Beige  13 x 11 x 2 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9DRP68/?tag=tolees-21'
 descuento: '50.00'
 average: '32.5'

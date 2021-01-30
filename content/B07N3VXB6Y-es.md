@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Dress Marian Vestido  Multicolor  Crudo 1001   40 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3VXB6Y/?tag=tolees-21'
 descuento: '28.54'
 average: '54.77166666666667'

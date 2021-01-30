@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'MTNG Collection 58662  Botines para Mujer  Marrón  Vintage Marron C47320   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QK7PCCN/?tag=tolees-21'
 descuento: '35.31'
 average: '36.22'

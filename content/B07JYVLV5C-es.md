@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Tommy Hilfiger TH ESS Classic Straight HW C Vaqueros  Azul  ELA 912   W31  Talla del Fabricante: NI31  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYVLV5C/?tag=tolees-21'
 descuento: '72.52'
 average: '35.45'

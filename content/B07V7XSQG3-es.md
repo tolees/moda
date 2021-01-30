@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Hilfiger Maritime Beach Sandal  Sandalias con Punta Abierta para Hombre  Negro  Black Bds   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7XSQG3/?tag=tolees-21'
 descuento: '50.00'
 average: '17.45'

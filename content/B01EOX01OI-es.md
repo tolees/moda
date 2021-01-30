@@ -16,6 +16,7 @@ comparePrice: 270.0 EUR
 prodname: 'Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable para hombre  color negro  talla XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EOX01OI/?tag=tolees-21'
 descuento: '41.93'
 average: '143.55499999999998'

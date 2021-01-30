@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Puma Liga Sideline Woven Pantalón  Hombre  Azul  Peacoat White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781ZSNFY/?tag=tolees-21'
 descuento: '34.67'
 average: '16.3'

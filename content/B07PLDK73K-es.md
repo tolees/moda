@@ -16,6 +16,7 @@ comparePrice: 35.61 EUR
 prodname: 'BLEND 20708633 Chaqueta  Verde  Olive Night Green 77233   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLDK73K/?tag=tolees-21'
 descuento: '33.89'
 average: '23.54'

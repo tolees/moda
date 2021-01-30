@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Vicloon Organizador de Equipaje 8 en 1 Set de Organizadores de Viajes  Impermeable Organizador de Maleta Bolsa Incluir 3 Cubos de Embalaje 3 Bolsos de la Compresión y 2 Bolsas de Zapatos  Azul Oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0755CVLZY/?tag=tolees-21'
 descuento: '15.40'
 average: '10.99'

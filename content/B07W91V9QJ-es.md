@@ -16,6 +16,7 @@ comparePrice: 43.81 EUR
 prodname: 'Tommy Hilfiger Block Stripe Hilfiger tee Camiseta Deporte  Naranja  Washed Vermillion   X-Small  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W91V9QJ/?tag=tolees-21'
 descuento: '59.30'
 average: '17.83'

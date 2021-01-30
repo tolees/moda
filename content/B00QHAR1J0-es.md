@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Coldgear Armour Mock Camiseta De Manga Larga  Hombre  Azul  Royal/Steel 400   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QHAR1J0/?tag=tolees-21'
 descuento: '37.64'
 average: '30.034999999999997'

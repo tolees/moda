@@ -16,6 +16,7 @@ comparePrice: 1.55 EUR
 prodname: 'Reloj de Cuarzo Deportivo Casual de Moda para Hombres y Mujeres  Caja Dorada Redonda  Hour MIN Sec  Reloj de Pulsera de Cuero sintético  Reloj Masculino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B63GBH7/?tag=tolees-21'
 descuento: '33.55'
 average: '1.03'

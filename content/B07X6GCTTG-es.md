@@ -16,6 +16,7 @@ comparePrice: 45.16 EUR
 prodname: 'Esprit 099Ee1G023 Parka  Azul  Navy 400   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X6GCTTG/?tag=tolees-21'
 descuento: '22.70'
 average: '34.91'

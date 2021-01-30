@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Bold Blue/White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1SNW5T/?tag=tolees-21'
 descuento: '41.20'
 average: '20.606666666666666'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jorvincey Sweat Zip Hood Chaleco Deportivo  Rojo  Brick Red Fit: Reg - JJ   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFDVT9L/?tag=tolees-21'
 descuento: '64.32'
 average: '14.27'

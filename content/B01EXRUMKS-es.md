@@ -16,6 +16,7 @@ comparePrice: 142.0 EUR
 prodname: 'Ray-Ban Hexagonal Flat Lenses Gafas de sol  Oro  Gold   51 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EXRUMKS/?tag=tolees-21'
 descuento: '34.51'
 average: '93.0'

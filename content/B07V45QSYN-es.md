@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Salomon Coton Logo SS tee M Camiseta de Manga Corta  Hombre  Negro/Blanco  Black/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V45QSYN/?tag=tolees-21'
 descuento: '54.87'
 average: '13.54'

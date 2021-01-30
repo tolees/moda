@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'MAMALICIOUS Mliben Nell 2/4 Jersey Top Nf Camiseta de Tirantes premamá  Multicolor  Chinese Red AOP: Peony Black Snow White   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQX5LJT/?tag=tolees-21'
 descuento: '34.81'
 average: '22.81'

@@ -16,6 +16,7 @@ comparePrice: 30.4 EUR
 prodname: 'find. D7832 vestido fiesta mujer  Negro  Schwarz   48  Talla del Fabricante: 3X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JK3XJ2/?tag=tolees-21'
 descuento: '62.50'
 average: '11.4'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'HUGO Elisha02 Camisa  Azul  Light/Pastel Blue 459   X-Large  Talla del Fabricante: 44  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBBN5DC/?tag=tolees-21'
 descuento: '72.93'
 average: '24.35'

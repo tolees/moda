@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'NIGHT CHERRY Mujer Moda Tacón Ancho Verano Sandalias Almond Toe Hollow out Vestido Zapatos Beige Talla 42 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876FLM2D/?tag=tolees-21'
 descuento: '48.22'
 average: '28.99'

@@ -16,6 +16,7 @@ comparePrice: 13.13 EUR
 prodname: 'Hollywood Star - Camiseta de Manga Larga Lisa  con Cuello Redondo  básica  para Mujer - Large - New Magenta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JKXCQM/?tag=tolees-21'
 descuento: '69.61'
 average: '3.99'

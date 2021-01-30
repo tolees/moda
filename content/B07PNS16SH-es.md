@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Challenger III Knit Short  Pantalones Cortos para Entrenar  pantalón Short de Hombre para Correr Hombre  Azul  Academy/Halo Gray/Halo Gray  408    M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNS16SH/?tag=tolees-21'
 descuento: '53.42'
 average: '12.11'

@@ -16,6 +16,7 @@ comparePrice: 17.08 EUR
 prodname: 'Marca Amazon - AURIQUE Sudadera para Yoga Mujer  Verde  Sea Grass   38  Label:S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779T7XNN/?tag=tolees-21'
 descuento: '57.85'
 average: '7.2'

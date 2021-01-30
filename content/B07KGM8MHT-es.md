@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'BOSS Prime Camiseta  Verde  Open Green 346   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGM8MHT/?tag=tolees-21'
 descuento: '50.04'
 average: '34.95'

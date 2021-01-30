@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Marca Amazon - find. Top sin Mangas de Algodón Mujer  Azul  Blue Stripe   36  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XN62PPX/?tag=tolees-21'
 descuento: '31.77'
 average: '19.813333333333333'

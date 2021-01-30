@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lee V Neck tee Camiseta  Verde  DK Bottle Green BB   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5DG3XL/?tag=tolees-21'
 descuento: '76.43'
 average: '7.06'

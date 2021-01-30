@@ -16,6 +16,7 @@ comparePrice: 36.4 EUR
 prodname: 'Under Armour Rival Fitted Pull Over Sudadera  Hombre  Negro  Black/Graphite 001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M2ZT3RO/?tag=tolees-21'
 descuento: '17.06'
 average: '26.84'

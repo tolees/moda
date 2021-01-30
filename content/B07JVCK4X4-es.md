@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour  UNDKU Tech Camisa Polo  Hombre  Verde  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVCK4X4/?tag=tolees-21'
 descuento: '40.08'
 average: '23.97'

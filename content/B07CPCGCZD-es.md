@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Verde  Army Green-White 37p   38-39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPCGCZD/?tag=tolees-21'
 descuento: '40.01'
 average: '32.51'

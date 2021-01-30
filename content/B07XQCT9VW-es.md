@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Mujer Camisa Básica Mujer Slim Fit - Camisa Blusa Casual de Fibra de Bambu Manga Larga Informal con Cierre de Botónl  Ideal para Oficina/Trabajo/Entrevista  Púrpura2  EU42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQCT9VW/?tag=tolees-21'
 descuento: '43.91'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 2.39 EUR
 prodname: 'Mujer Pantalones Cortos Verano Elásticos Mallas Pantalones Patchwork Moda Cortos Pantalones Fitness Mallas Gym Yoga Slim Fit Pants Leggings Cintura Alta Deportivos Running Aptitud Mayas vpass'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLHZZXS/?tag=tolees-21'
 descuento: '39.33'
 average: '1.45'

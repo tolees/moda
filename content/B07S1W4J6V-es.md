@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'LEGO Cm Ninjago Sudadera  Verde  Lime Green 810   104 para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1W4J6V/?tag=tolees-21'
 descuento: '58.03'
 average: '12.57'

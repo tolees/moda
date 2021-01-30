@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Columbia Lake 22 Chaqueta De Plumón con Capucha  Mujer  Negro  Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCP34RF/?tag=tolees-21'
 descuento: '45.72'
 average: '75.99'

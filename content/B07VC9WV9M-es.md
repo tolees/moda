@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'JACK & JONES Jcowill Puffer Chaqueta  Azul  Navy Blazer Print: Melange   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC9WV9M/?tag=tolees-21'
 descuento: '66.97'
 average: '24.860000000000003'

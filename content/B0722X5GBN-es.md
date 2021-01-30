@@ -16,6 +16,7 @@ comparePrice: 22.4 EUR
 prodname: 'find. Vestido para Mujer   Rojo  Wine   36  Talla del Fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0722X5GBN/?tag=tolees-21'
 descuento: '62.50'
 average: '9.273333333333333'

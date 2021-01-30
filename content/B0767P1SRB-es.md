@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Geox D Ophira B  Zapatillas para Mujer  Dorado  Lt Taupe/lt Gold   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0767P1SRB/?tag=tolees-21'
 descuento: '72.01'
 average: '29.39'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Springfield 4.1.Liuc.Mickey Leopardo Camiseta  Multicolor  Multicolor 42   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ5GPYQ/?tag=tolees-21'
 descuento: '44.08'
 average: '10.06'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger - Th Metro Washbag  Organizadores de bolso Hombre  Negro  Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8YPQP4/?tag=tolees-21'
 descuento: '35.56'
 average: '38.6'

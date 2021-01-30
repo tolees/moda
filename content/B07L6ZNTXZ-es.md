@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'FitFlop Mukluk Shorty III  Botines para Mujer  Marrón  Chestnut 047   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6ZNTXZ/?tag=tolees-21'
 descuento: '36.65'
 average: '82.09333333333333'

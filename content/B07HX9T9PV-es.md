@@ -16,6 +16,7 @@ comparePrice: 61.57 EUR
 prodname: 'H&E - Abrigo de plumas con capucha para niña  Niñas  color rosa  tamaño 10-11 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HX9T9PV/?tag=tolees-21'
 descuento: '51.79'
 average: '29.68'

@@ -16,6 +16,7 @@ comparePrice: 13.58 EUR
 prodname: 'Jack & Jones JORRAFAEL Sweat Hood Sudadera con Capucha  Gris  Light Grey Melange Fit:Slim - JJ   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VV2PQXD/?tag=tolees-21'
 descuento: '27.47'
 average: '9.965'

@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Under Armour Woven Graphic Wordmark Shorts Pantalón Corto  Hombre  Azul  Academy/Graphite 408   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0716YX1DP/?tag=tolees-21'
 descuento: '49.67'
 average: '13.1375'

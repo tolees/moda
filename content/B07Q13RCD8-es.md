@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Under Armour UA Core PTH SL  Zapatos de Playa y Piscina Unisex Adulto  Rojo  Beta/Beta/White   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q13RCD8/?tag=tolees-21'
 descuento: '29.97'
 average: '13.97'

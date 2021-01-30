@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'United Colors of Benetton College Man Camisa Casual  Multicolor  BLU/Marroncino 901   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N48GL3B/?tag=tolees-21'
 descuento: '83.30'
 average: '10.01'

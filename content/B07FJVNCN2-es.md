@@ -16,6 +16,7 @@ comparePrice: 19.91 EUR
 prodname: 'Ipanema Kirei Fem  Chanclas para Mujer   Black/Silver 8441   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FJVNCN2/?tag=tolees-21'
 descuento: '34.40'
 average: '15.036666666666665'

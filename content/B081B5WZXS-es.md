@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Lodge Sudadera sin Capucha  Hombre  Gris/Azul  Grey Heather  Azure Blue   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B5WZXS/?tag=tolees-21'
 descuento: '61.52'
 average: '26.93'

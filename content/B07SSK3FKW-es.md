@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Geox D RUBIDIA A  Zapatillas para Mujer  Negro  Black C9997   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSK3FKW/?tag=tolees-21'
 descuento: '38.41'
 average: '76.99'

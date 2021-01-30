@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Peakfreak X2 Mid Outdry  Zapatos de Senderismo para Mujer  Azul  Lagoon  Blue Coral 457   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK3FZYV/?tag=tolees-21'
 descuento: '67.35'
 average: '67.565'

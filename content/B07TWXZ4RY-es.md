@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Rider Vaqueros Slim  Negro  Black Helen Kj   W32/L30  Talla del Fabricante: 32/30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXZ4RY/?tag=tolees-21'
 descuento: '74.21'
 average: '25.78'

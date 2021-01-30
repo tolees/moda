@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Maxmer 3 Gancho de Pared Percha Perchero Colgador de Pared Cobre Sólido a Colgar Sombrero  Ropa  Abrigo  Toalla Albornoz  Gran Capacidad de Carga  Pulido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K4MNC4O/?tag=tolees-21'
 descuento: '76.68'
 average: '13.99'

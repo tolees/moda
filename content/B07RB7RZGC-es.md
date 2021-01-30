@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Columbia Tolt Track Chaqueta con forro extraíble  Mujer  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB7RZGC/?tag=tolees-21'
 descuento: '66.29'
 average: '99.785'

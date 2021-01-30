@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Greensboro Regular Jeans Vaqueros  Azul  For Real 027   46W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFD23SJ/?tag=tolees-21'
 descuento: '48.76'
 average: '46.09'

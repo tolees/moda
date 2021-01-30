@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B Kaytan B  Sandalias para Bebés  Beige  Caramel/Brown C5g6f   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK1CNG2/?tag=tolees-21'
 descuento: '35.99'
 average: '22.97'

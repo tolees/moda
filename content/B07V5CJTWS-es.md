@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Titular de pasaporte minimalista xperg  Billetera de viaje / pasaporte de cuero de microfibra para hombre y para mujer  organizador de documentos / soporte para tarjetas de crédito / identificación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5CJTWS/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

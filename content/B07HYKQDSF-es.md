@@ -16,6 +16,7 @@ comparePrice: 17.93 EUR
 prodname: 'HAWKERS · ONE LS · Burgundy · Dark · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYKQDSF/?tag=tolees-21'
 descuento: '21.19'
 average: '15.22'

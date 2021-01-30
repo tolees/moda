@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: '6 PCS Moño Pelo Accesorios Moda Natural Francesa Twists Herramienta Bricolaje Moño Maker Para Mujeres Niñas Marrón Claro  Rubia  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPBTXCR/?tag=tolees-21'
 descuento: '57.93'
 average: '7.99'

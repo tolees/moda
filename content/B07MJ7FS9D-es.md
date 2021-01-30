@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Arla Free  Zapatos de Cordones Derby para Hombre  Negro  Black Black   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ7FS9D/?tag=tolees-21'
 descuento: '40.09'
 average: '39.6'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Rival Fleece Short  Pantalón Corto Hombre  Gris  Charcoal Light Heather/Black 020   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XN5PXD/?tag=tolees-21'
 descuento: '55.15'
 average: '18.465'

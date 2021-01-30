@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'VECDY Camisetas Mujer  Blusas Elegante 2019 Sudadera De Patchwork De Encaje De Manga Larga con Cuello En O para Mujer Top Sexy Suave Camisetas Casual Ropa De Fiesta Cita Compras Negro 5XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WD9BBXS/?tag=tolees-21'
 descuento: '49.83'
 average: '1.5'

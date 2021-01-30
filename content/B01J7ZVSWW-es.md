@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Columbia Sapphire Trail Hooded FZ Chaqueta Polar  Mujer  Azul  Talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J7ZVSWW/?tag=tolees-21'
 descuento: '31.62'
 average: '44.7'

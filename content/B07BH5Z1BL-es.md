@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Star Wars T030-14 Bóxer  Multicolor  Multicolor 0   16 años  Tamaño del Fabricante:14/16  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BH5Z1BL/?tag=tolees-21'
 descuento: '50.42'
 average: '11.9'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Moxilyn Camisetas de Ciclismo para Hombre  Camiseta Corta  Top de Ciclismo Jerseys de Ciclismo  Ropa de Ciclismo  Mountain Bike/MTB Shirt  Transpirable y Que Absorbe El Sudor  Secado Rápido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXGXDRG/?tag=tolees-21'
 descuento: '15.14'
 average: '18.66'

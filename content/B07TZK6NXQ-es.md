@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'BOSS Boxer Brief 3p Co  Multicolor  Open Miscellaneous 963   Medium  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZK6NXQ/?tag=tolees-21'
 descuento: '57.62'
 average: '16.93'

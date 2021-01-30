@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Columbia Silver Ridge 2.0 Camisa de Manga Corta  Hombre  Beige  Fossil   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B77MTM/?tag=tolees-21'
 descuento: '47.48'
 average: '27.13785714285714'

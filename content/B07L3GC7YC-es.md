@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Iconic Elena Corporate Ribbon  Sandalias con Plataforma para Mujer  Rojo  RWB 020   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3GC7YC/?tag=tolees-21'
 descuento: '30.00'
 average: '59.940000000000005'

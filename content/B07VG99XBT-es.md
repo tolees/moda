@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'HKT by Hackett Hkt 3 SS tee Camiseta  Azul  5mgaqua Sky 5mg   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG99XBT/?tag=tolees-21'
 descuento: '50.00'
 average: '17.5'

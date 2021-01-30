@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'El Ganso 1 Camisa casual  Blanco  Blanco 0003   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPJMQTS/?tag=tolees-21'
 descuento: '60.29'
 average: '24.614'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'HOMESPON Bolsa Isotérmica de Almuerzo Lunch Bag Bolsa Térmica Porta Alimentos Tela Impermeable Plegable Bolso de Picnic para Mujeres  Adultos  Estudiantes y Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XY3X8SR/?tag=tolees-21'
 descuento: '23.54'
 average: '15.323333333333332'

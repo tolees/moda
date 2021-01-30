@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Jack & Jones Jjiglenn Jjfelix Am 046 50 SPS Noos Vaqueros Slim  Negro  Black Denim   W36/L36  Talla del Fabricante: 36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073V3X4DF/?tag=tolees-21'
 descuento: '35.01'
 average: '38.99'

@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'URFEDA Funda Compatible con Samsung Galaxy S6 Funda Libro de Cuero Billetera Carcasa Galaxia Impreso Cierre Magnético Retro Cover Soporte Plegable Cartera Funda Ranura para Tarjeta Funda Flip'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088Q7FYXV/?tag=tolees-21'
 descuento: '33.79'
 average: '5.29'

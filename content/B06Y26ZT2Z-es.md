@@ -16,6 +16,7 @@ comparePrice: 48.46 EUR
 prodname: 'Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Negro  Black   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y26ZT2Z/?tag=tolees-21'
 descuento: '25.92'
 average: '35.9'

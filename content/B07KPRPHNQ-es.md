@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'FitFlop Lottie Glitzy  Sandalias de Punta Descubierta Women s  Rosa  Rose Gold 323   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPRPHNQ/?tag=tolees-21'
 descuento: '37.16'
 average: '43.99'

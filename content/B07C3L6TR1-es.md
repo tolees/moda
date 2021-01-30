@@ -16,6 +16,7 @@ comparePrice: 65.49 EUR
 prodname: 'Superdry Tech Hood Pop Zip SD-wndcheate Chaqueta Deportiva  Negro  Black/Super Denby Cw9   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C3L6TR1/?tag=tolees-21'
 descuento: '30.54'
 average: '45.49'

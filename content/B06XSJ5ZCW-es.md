@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'iSuperb Estuche para Lápices Desplegable Encantador Bolso de Lápices Contráctil con Cremallera Pequeña Bolsa para Lapices Estudiante Plumier Pencil Case Kawaii  Caqui '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSJ5ZCW/?tag=tolees-21'
 descuento: '30.74'
 average: '8.99'

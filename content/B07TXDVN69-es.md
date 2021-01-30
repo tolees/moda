@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s Graphic tee Camiseta  Negro  Boxtab SS T2 Mineral Black 0002   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXDVN69/?tag=tolees-21'
 descuento: '20.05'
 average: '14.991999999999999'

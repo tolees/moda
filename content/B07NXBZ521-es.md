@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Superdry Premium Goods Puff Entry tee Camiseta de Tirantes  Blanco  Optic 01c   XL  Talla del Fabricante:16  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXBZ521/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger TH Essential Shirt LS W2 Blusa  Azul  Easy STP/Surf The Web 404   38  Talla del Fabricante: 6  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQYPHHM/?tag=tolees-21'
 descuento: '60.01'
 average: '35.95'

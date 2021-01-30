@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'TEEHON Carteras Hombre con Monedero  Billetera de Hombre de Piel  Cartera RFID - Bloque 13.56 MHz  10 Ranuras para Tarjetas/Monedas/ID/Billetes  Retro Suave Cuero de Búfalo  Diseño de Botón  Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5Y7K5W/?tag=tolees-21'
 descuento: '67.25'
 average: '21.456666666666667'

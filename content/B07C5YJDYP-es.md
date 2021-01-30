@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jjesheridan Shirt L/s Camisa Vaquera  Negro  Black Denim Fit:Slim   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5YJDYP/?tag=tolees-21'
 descuento: '41.26'
 average: '22.22'

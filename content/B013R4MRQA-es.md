@@ -16,6 +16,7 @@ comparePrice: 102.14 EUR
 prodname: 'Cream Basmalla Cardigan Chaqueta  Marrón  S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013R4MRQA/?tag=tolees-21'
 descuento: '89.07'
 average: '11.16'

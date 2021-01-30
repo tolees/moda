@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Martin cocoa Hombre Impermeable Chaqueta Al Aire Libre Calentar A Prueba de Viento Montaña Invierno Abrigos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082F2KPJR/?tag=tolees-21'
 descuento: '50.83'
 average: '29.99'

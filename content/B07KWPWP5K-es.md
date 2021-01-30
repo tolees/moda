@@ -16,6 +16,7 @@ comparePrice: 44.86 EUR
 prodname: 'Bolsa de Deporte Hombre Bolsas Gimnasio Mujer de Grande Viaje Impermeable con Compartimento para Zapatos Bolsos Deportivos Bolsa Fin de Semana Travel Duffle Bag para Hombres 45l Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWPWP5K/?tag=tolees-21'
 descuento: '33.44'
 average: '29.86'

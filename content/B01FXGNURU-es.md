@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour UA TAC Heatgear Comp tee Camiseta  Hombre  Marrón  Federal Tan/None 499   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FXGNURU/?tag=tolees-21'
 descuento: '36.03'
 average: '22.39'

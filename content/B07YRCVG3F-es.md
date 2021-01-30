@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Marca Amazon - AURIQUE Shorts para Correr con Banda Lateral Mujer  Azul  Navy/White   42  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRCVG3F/?tag=tolees-21'
 descuento: '20.00'
 average: '12.8'

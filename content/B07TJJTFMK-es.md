@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-STAR RAW Jirgi Zip Camiseta  Negro  Dk Black 6484   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJJTFMK/?tag=tolees-21'
 descuento: '50.01'
 average: '34.97'

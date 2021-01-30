@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Le Coq Sportif Aluf Crew Sweat  Sudadera - L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083CQGR24/?tag=tolees-21'
 descuento: '18.76'
 average: '64.99'

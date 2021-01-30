@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'adidas PANTALÓN Entrenamiento Core 21 Fútbol  Adolescentes y Ninos  Azul  Dark Blue/White   164'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HR96ZR/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

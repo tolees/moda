@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'SAGUARO Hombre Mujer Barefoot Zapatillas de Trail Running Minimalistas Zapatillas de Deporte Fitness Gimnasio Caminar Zapatos Descalzos para Correr en Montaña Asfalto Escarpines de Agua  Azul  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4P7KWT/?tag=tolees-21'
 descuento: '15.00'
 average: '28.04'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Basic Hilfiger Hoody Sudadera  Azul  Blue Dw5   Talla única  Talla del Fabricante: X-Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJKWBCG/?tag=tolees-21'
 descuento: '27.72'
 average: '72.21'

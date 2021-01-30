@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Vennor Walk  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759Q5GJP/?tag=tolees-21'
 descuento: '49.81'
 average: '50.965'

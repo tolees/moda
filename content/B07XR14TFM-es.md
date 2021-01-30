@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Hawiton Pantalones de Pijama Hombre Algodón Largo Pantalones de Dormir Hombre Invierno de Cuadros Pantalón Pijama de Estar por Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XR14TFM/?tag=tolees-21'
 descuento: '52.51'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Firn Camiseta  Multicolor  Milk/Imperial Blue Stripe 8340   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ4G2L2/?tag=tolees-21'
 descuento: '66.73'
 average: '12.344999999999999'

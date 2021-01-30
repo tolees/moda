@@ -16,6 +16,7 @@ comparePrice: 10.65 EUR
 prodname: 'PUMA The Cat tee Camiseta  Hombre  Gris  Glacier Gray Heather White   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHWWPJH/?tag=tolees-21'
 descuento: '21.88'
 average: '8.32'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Mujer Vestido Años 50 Mangas 3/4 con Volantes para Cóctel Fiesta L CL011020-1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZBLMLM/?tag=tolees-21'
 descuento: '33.34'
 average: '23.99'

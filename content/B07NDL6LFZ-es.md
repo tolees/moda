@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'G-STAR RAW Vodan Quilted Chaqueta Bomber  Gris  Asfalt 995   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL6LFZ/?tag=tolees-21'
 descuento: '50.00'
 average: '89.97'

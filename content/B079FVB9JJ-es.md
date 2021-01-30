@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Fitted Coldgear Crew Camiseta De Manga Larga  Hombre  Negro  Black/Steel 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FVB9JJ/?tag=tolees-21'
 descuento: '74.78'
 average: '13.87'

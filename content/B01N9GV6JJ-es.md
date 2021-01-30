@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'KRISP 6252-TUR-20  Vestido Corto Patinadora Vuelo Fruncido Busto  Turquesa  6252   48'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9GV6JJ/?tag=tolees-21'
 descuento: '51.94'
 average: '12.99'

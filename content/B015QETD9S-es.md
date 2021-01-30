@@ -16,6 +16,7 @@ comparePrice: 53.0 EUR
 prodname: 'rubyca colgantes flotante para cristal Living memory Lockets collar Mix 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015QETD9S/?tag=tolees-21'
 descuento: '35.72'
 average: '34.07'

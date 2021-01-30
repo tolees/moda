@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Bold Gold/Black  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HMN94H/?tag=tolees-21'
 descuento: '46.15'
 average: '18.82'

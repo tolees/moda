@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Heatgear Armour Sleeveless Camiseta Sin Mangas  Hombre  Azul  Midnight Navy/Steel 410   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHTIGKU/?tag=tolees-21'
 descuento: '46.70'
 average: '20.66'

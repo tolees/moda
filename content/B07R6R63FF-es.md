@@ -16,6 +16,7 @@ comparePrice: 176.0 EUR
 prodname: 'WEB EYEWEAR WE0261  Gafas para Hombre  Negro  60'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6R63FF/?tag=tolees-21'
 descuento: '48.30'
 average: '91.0'

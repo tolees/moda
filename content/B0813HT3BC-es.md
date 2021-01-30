@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'Marca Amazon - Find. Sandalias abiertas Barely There para mujer  color Naranja  talla 36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813HT3BC/?tag=tolees-21'
 descuento: '40.69'
 average: '23.07'

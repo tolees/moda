@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Trail Form  Zapatos de Cordones Derby  Azul  Navy Nubuck-   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQX5H1T/?tag=tolees-21'
 descuento: '55.18'
 average: '44.8'

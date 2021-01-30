@@ -16,6 +16,7 @@ comparePrice: 8.68 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Sujetador Preformado con Tirantes Extraíbles Body Smooth para Mujer  Beige  Pale Nude   100B  Talla del fabricante: 38B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWMULL7/?tag=tolees-21'
 descuento: '31.11'
 average: '5.98'

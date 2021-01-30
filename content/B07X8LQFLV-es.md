@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Relojes para Hombre Cronógrafo Impermeable Cuarzo Analógico Prueba Agua Vestido Moda Negocios Deportivos Relojes para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8LQFLV/?tag=tolees-21'
 descuento: '79.24'
 average: '26.99'

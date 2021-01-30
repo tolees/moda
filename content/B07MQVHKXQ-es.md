@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Napapijri Bra FZH Sudadera  Gris  Dark Grey Mel 197   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVHKXQ/?tag=tolees-21'
 descuento: '79.75'
 average: '26.12'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Soho Vaqueros  Denim Oz Classic Stretch Z632  25W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XMLGP5S/?tag=tolees-21'
 descuento: '60.01'
 average: '38.781666666666666'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Challenger III Midlayer Camiseta De Hombre para Hacer  Indispensable Ropa De Deportes  Azul  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814S4PVF/?tag=tolees-21'
 descuento: '44.36'
 average: '27.82'

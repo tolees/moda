@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-Star Sp15046 Sweat Sudadera  Azul  Royal Blue 45   8 años  Talla del Fabricante: 8A  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SP3N2LS/?tag=tolees-21'
 descuento: '71.11'
 average: '20.21'

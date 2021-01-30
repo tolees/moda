@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Lee Logo tee  Camiseta para Hombre  Rojo  Warp Red Kg   XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N176BHY/?tag=tolees-21'
 descuento: '65.40'
 average: '10.511999999999999'

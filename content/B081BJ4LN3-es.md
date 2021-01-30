@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Powder Pass Chaqueta con Capucha  Hombre  Rojo  Wildfire   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BJ4LN3/?tag=tolees-21'
 descuento: '38.34'
 average: '54.07'

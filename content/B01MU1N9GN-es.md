@@ -16,6 +16,7 @@ comparePrice: 49.74 EUR
 prodname: 'Crocs W Swiftwater Webbing Sandal 204804  Sandalias con Punta Abierta para Mujer  Negro  Black 001   38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU1N9GN/?tag=tolees-21'
 descuento: '38.78'
 average: '35.185'

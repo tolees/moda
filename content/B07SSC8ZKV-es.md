@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jprlogo Twist Shirt L/s STS Camisa  Gris  Light Grey Melange Slim Fit   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSC8ZKV/?tag=tolees-21'
 descuento: '66.57'
 average: '13.37'

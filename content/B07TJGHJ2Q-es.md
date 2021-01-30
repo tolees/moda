@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry OL Vintage EMB Crew Camiseta  Azul  Desert Sky Blue Grit Z7z   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJGHJ2Q/?tag=tolees-21'
 descuento: '44.02'
 average: '12.99'

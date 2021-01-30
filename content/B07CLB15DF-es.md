@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Corrector de Postura Espalda y Hombros Para Hombre y Mujer Talla Única - Faja para Dolor de Espalda - Chaleco Corrector de Postura Enderezador de Espalda Transpirable - Incluye eBook de Ejercicios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLB15DF/?tag=tolees-21'
 descuento: '48.59'
 average: '16.365000000000002'

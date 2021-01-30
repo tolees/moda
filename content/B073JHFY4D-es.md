@@ -16,6 +16,7 @@ comparePrice: 30.4 EUR
 prodname: 'find. D7832 vestido fiesta mujer  Rojo  Rot   36  Talla del Fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JHFY4D/?tag=tolees-21'
 descuento: '62.50'
 average: '11.4'

@@ -16,6 +16,7 @@ comparePrice: 11.35 EUR
 prodname: 'Unisun Gafas de natación Niños Adultos Gafas de natación Ajustables con Tapones para los oídos Nariz Clip Claro Antiniebla Gafas de natación para Hombres Mujeres Niños pequeños Niños 6+  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDTDQSD/?tag=tolees-21'
 descuento: '30.04'
 average: '7.94'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'edc by Esprit 999cc1b820 Vaqueros Slim  Azul  Blue Light Wash 903   W27/L30  Talla del Fabricante: 27/30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y89JSKK/?tag=tolees-21'
 descuento: '50.01'
 average: '24.589999999999996'

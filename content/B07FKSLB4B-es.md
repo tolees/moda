@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Trangoworld PC007777 Pantalón Largo  Mujer  Azul Tinta  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKSLB4B/?tag=tolees-21'
 descuento: '26.32'
 average: '41.99'

@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Kickers Andye  Sandalias de Gladiador para Mujer  Marrón  Camel 114   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKP3TK5/?tag=tolees-21'
 descuento: '29.76'
 average: '34.42'

@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'adidas Entrada 18 JSY Jersey de Fútbol de Manga Corta  Hombre  Rojo  Power Red/White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721WBBGL/?tag=tolees-21'
 descuento: '18.59'
 average: '12.729999999999999'

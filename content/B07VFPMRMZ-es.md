@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Antony Morato Felpa Girocollo Basic con Placchetta Sudadera  Rojo  Rosso 5058   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFPMRMZ/?tag=tolees-21'
 descuento: '56.81'
 average: '25.48'

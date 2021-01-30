@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Under Armour Sportstyle Cotton Graphic Short Pantalón Corto  Hombre  Negro  Black/White 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079G4Z4RP/?tag=tolees-21'
 descuento: '43.67'
 average: '19.71'

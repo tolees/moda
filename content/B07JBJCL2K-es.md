@@ -16,6 +16,7 @@ comparePrice: 62.93 EUR
 prodname: 'ACVIP - Abrigo - Chaqueta Guateada - Manga Larga - para niña Rojo C 9-10 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBJCL2K/?tag=tolees-21'
 descuento: '44.45'
 average: '34.96'

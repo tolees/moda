@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Elly Vaqueros  Naranja  Potter S Clay 93   27W / 33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5ZJ5ZJ/?tag=tolees-21'
 descuento: '82.29'
 average: '15.93'

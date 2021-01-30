@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Zuecos Unisex Niños Verano Sandalias de Playa Respirable Antideslizante Piscina Jardín Zapatos Azul Navy 27 EU=Etiqueta 28'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BBCXJV/?tag=tolees-21'
 descuento: '15.05'
 average: '13.55'

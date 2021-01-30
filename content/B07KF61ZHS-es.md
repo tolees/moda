@@ -16,6 +16,7 @@ comparePrice: 48.45 EUR
 prodname: 'Levi s Original Hm Icon Crew Sudadera  Azul  Sodalite Blue 0013   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF61ZHS/?tag=tolees-21'
 descuento: '33.02'
 average: '32.45'

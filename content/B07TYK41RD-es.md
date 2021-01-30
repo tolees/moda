@@ -16,6 +16,7 @@ comparePrice: 137.47 EUR
 prodname: 'YZHEN Hombre Traje de Chaqueta a Cuadros Doble y Pantalones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYK41RD/?tag=tolees-21'
 descuento: '42.77'
 average: '78.68'

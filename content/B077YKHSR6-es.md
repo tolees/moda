@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Puma 516397 04 Chaleco  Mujer  Blanco  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YKHSR6/?tag=tolees-21'
 descuento: '75.60'
 average: '16.365000000000002'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Zapatillas Running para Hombre Aire Libre y Deporte Transpirables Casual Zapatos Gimnasio Correr Sneakers Naranja 44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CRQ3FQ/?tag=tolees-21'
 descuento: '15.00'
 average: '27.556666666666665'

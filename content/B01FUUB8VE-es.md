@@ -16,6 +16,7 @@ comparePrice: 145.99 EUR
 prodname: 'G-STAR RAW Lynn Mid Waist Skinny  Vaqueros  Cobler Smash 6009  24W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FUUB8VE/?tag=tolees-21'
 descuento: '68.50'
 average: '45.99'

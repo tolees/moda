@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Malone Vaqueros  Easy Blue Zk  31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7C7SX5/?tag=tolees-21'
 descuento: '73.49'
 average: '26.5'

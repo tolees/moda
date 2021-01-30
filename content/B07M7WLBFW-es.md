@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Wildfire Vine Hombre Transpirables Aire Libre y Deporte Zapatos Sneaker Deportivos Zapatos Casuales con Cordones Zapatillas Deporte de Moda Baloncesto Zapatos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7WLBFW/?tag=tolees-21'
 descuento: '70.01'
 average: '29.99'

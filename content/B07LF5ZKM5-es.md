@@ -16,6 +16,7 @@ comparePrice: 27.77 EUR
 prodname: 'Levi s 514 Vaqueros Straight  Azul  Orinda ADV 1009   W31/L34  Talla del Fabricante: 31 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF5ZKM5/?tag=tolees-21'
 descuento: '21.03'
 average: '25.364285714285714'

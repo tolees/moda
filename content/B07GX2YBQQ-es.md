@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'JIVANER Ultra Slim: Cartera Hombre de Piel Azul - Cartera Minimalista - Tarjetero RFID Bloqueo - Billetera Monedero pequeña y Delgada - Mini portamonedas de diseño y Elegante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GX2YBQQ/?tag=tolees-21'
 descuento: '53.17'
 average: '11.66'

@@ -16,6 +16,7 @@ comparePrice: 18.29 EUR
 prodname: 'PET MAGASIN Transportín de Mascotas Plegable – Bolsa de Transporte Acolchada con Lados Blandos – Bolso de Viaje para Perros pequeños  Gatos y Cachorros  ventilación Superior  Grande  Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKBF4Z3/?tag=tolees-21'
 descuento: '21.32'
 average: '19.189999999999998'

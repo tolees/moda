@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Clarks Surfing Tide T  Sandalias Punta Cerrada para Niñas  Rosa  Pink Combi Pink Combi   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT7C55Q/?tag=tolees-21'
 descuento: '37.83'
 average: '18.62'

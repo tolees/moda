@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Women s Secret Soft Touch 1 St1 Grey PJ Conjuntos de Pijama  Gris  Gama Grises 44   XX-Large  Tamaño del Fabricante: XXL  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZZX3Z1/?tag=tolees-21'
 descuento: '59.65'
 average: '13.31'

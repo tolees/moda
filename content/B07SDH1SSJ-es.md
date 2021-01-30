@@ -16,6 +16,7 @@ comparePrice: 19.55 EUR
 prodname: 'adidas Vintage tee Camiseta  Hombre  Negro  Black/Bluebird   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDH1SSJ/?tag=tolees-21'
 descuento: '35.81'
 average: '12.55'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Rider Jeans Vaqueros  Rinse  38W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L6RVEO6/?tag=tolees-21'
 descuento: '66.27'
 average: '30.34'

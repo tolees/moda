@@ -16,6 +16,7 @@ comparePrice: 22.8 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Azul  Hsmk Red Flock Sodalite Blue 0617   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFNSH52/?tag=tolees-21'
 descuento: '34.91'
 average: '14.84'

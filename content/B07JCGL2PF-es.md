@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Columbia Alpine Action Chaqueta OH Ski de esquí  Mujer  Rojo  Red Lily 658   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCGL2PF/?tag=tolees-21'
 descuento: '44.11'
 average: '106.19'

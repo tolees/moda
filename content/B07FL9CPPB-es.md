@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Superdry Echo Beach Cagoule Chaqueta deportiva  Negro  Black 02a   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FL9CPPB/?tag=tolees-21'
 descuento: '75.80'
 average: '21.76'

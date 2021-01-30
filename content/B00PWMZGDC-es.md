@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'KRISP Vestido Moda Mujer Fruncido  Azul Marino  6487   42  6487-NVY-14'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PWMZGDC/?tag=tolees-21'
 descuento: '36.55'
 average: '16.49'

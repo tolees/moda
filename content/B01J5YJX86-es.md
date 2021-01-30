@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Helly Hansen Loke Chaqueta  Hombre  Verde  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J5YJX86/?tag=tolees-21'
 descuento: '59.62'
 average: '39.24'

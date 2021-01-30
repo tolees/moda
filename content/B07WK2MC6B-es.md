@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Ropa Interior Térmica Hombre  Camiseta Térmica Hombre Deportes Ropa Interior Funcional Conjuntos Térmicos Termo Invierno Otoño con muy elástica para Running Esquí Montaña Ciclismo Fitness Negro L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WK2MC6B/?tag=tolees-21'
 descuento: '52.01'
 average: '19.19'

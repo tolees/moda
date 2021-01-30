@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Helly Hansen Rigging Abrigo  Hombre  Azul  Navy   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B80RN8C/?tag=tolees-21'
 descuento: '50.00'
 average: '176.91666666666666'

@@ -16,6 +16,7 @@ comparePrice: 28.67 EUR
 prodname: 'HAWKERS · CLASSIC · Burgundy Pink · Dark · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYYDQ9C/?tag=tolees-21'
 descuento: '29.26'
 average: '20.28'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Sweat ANNARAU Jersey  Azul  Blue Depths 5149   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3VZKDT/?tag=tolees-21'
 descuento: '38.72'
 average: '48.99'

@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'RICOO WM035-W-B  Banco Zapatero  79x49x30  Armario Interior con Asiento  Organizador Zapatos  Mueble recibidor  Perchero Entrada  Madera Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWC4XW9/?tag=tolees-21'
 descuento: '15.15'
 average: '53.32333333333334'

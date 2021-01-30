@@ -16,6 +16,7 @@ comparePrice: 41.46 EUR
 prodname: 'Calvin Klein 3pk Braguita de Bikini  Negro  Black/Frozen/Feeder Stripe Black Qt6   M  Pack de 3  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPQV7WJ/?tag=tolees-21'
 descuento: '39.73'
 average: '24.99'

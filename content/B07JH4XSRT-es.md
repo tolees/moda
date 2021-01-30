@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Pepe Jeans Duff Chest Logo T Camiseta  Blanco  Optic White 802   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH4XSRT/?tag=tolees-21'
 descuento: '69.31'
 average: '10.74'

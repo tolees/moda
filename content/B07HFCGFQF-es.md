@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'SIMYJOY Mujere Korea Pop Fans Estrellado Sudaderas Love Yourself Niñas Cool Casual Linda Jersey Loose Fitting Top Blanco S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFCGFQF/?tag=tolees-21'
 descuento: '63.66'
 average: '11.99'

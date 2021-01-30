@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Sportstyle Camiseta sin mangas con logotipo  ropa deportiva para hombres hecha de tejido ultrasuave  ancha camiseta de tirantes  Steel Light Heather/Steel Light Heather/Black  036   MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZPQQ4H/?tag=tolees-21'
 descuento: '48.12'
 average: '13.240000000000002'

@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Tommy Hilfiger Essential Hooded Down Jacket Chaqueta   Flame Scarlet 667   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQVD1P2/?tag=tolees-21'
 descuento: '35.15'
 average: '109.36999999999999'

@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Tikea Bolsa Geométrica de Corcho Natural para Mujer  Cartera de Mano con Correa de Cadena de Moda Ecológica Efecto Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1L24QR/?tag=tolees-21'
 descuento: '44.13'
 average: '18.99'

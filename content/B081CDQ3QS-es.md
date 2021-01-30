@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Geographical Norway Parka NIÑO Boomerang Azul Marino 12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CDQ3QS/?tag=tolees-21'
 descuento: '20.00'
 average: '71.2'

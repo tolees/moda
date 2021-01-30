@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Pendientes Mariposa de Moda de Color Espumoso Azul para Dama en Caja de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073DKMCF3/?tag=tolees-21'
 descuento: '23.82'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Silver Ridge 2.0  Pantalón Capri de Senderismo Nailon  Mujer  Negro  Talla US: W6/L21/  EU W38/L21 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRMWCRM/?tag=tolees-21'
 descuento: '89.43'
 average: '8.776666666666667'

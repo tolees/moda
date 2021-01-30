@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Napapijri Gode Camisa  Multicolor  Red Check 38c 38c1   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDCKKMJ/?tag=tolees-21'
 descuento: '61.57'
 average: '34.2'

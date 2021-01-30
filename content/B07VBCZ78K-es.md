@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Fal Norah Falda  Azul  Marino 5001   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBCZ78K/?tag=tolees-21'
 descuento: '60.00'
 average: '27.98'

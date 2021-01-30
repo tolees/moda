@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Levi s 501 Original Fit Jeans Vaqueros  Ironwood Od  40W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFDST2Z/?tag=tolees-21'
 descuento: '27.30'
 average: '39.95'

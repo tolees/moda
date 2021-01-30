@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'hummel Hmlauthentic - Pantalón de Entrenamiento para Hombre  Unzutreffend  Pantalones de Entrenamiento HmlAUTHENTIC  Hombre  Color Marine  tamaño Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PJZ4KT/?tag=tolees-21'
 descuento: '27.64'
 average: '33.71'

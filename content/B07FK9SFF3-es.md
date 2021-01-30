@@ -16,6 +16,7 @@ comparePrice: 24.15 EUR
 prodname: 'REPLAY W2962 .000.41b 337 Blusa  Negro  Black 98   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FK9SFF3/?tag=tolees-21'
 descuento: '22.44'
 average: '18.73'

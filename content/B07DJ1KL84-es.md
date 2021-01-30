@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Quiksilver Molokai  Zapatos de Playa y Piscina para Hombre  Gris  Grey Xsss   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ1KL84/?tag=tolees-21'
 descuento: '23.24'
 average: '13.81'

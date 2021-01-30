@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Peakfreak Venture Mid Waterproof Omni-Heat Zapatos para hombre   Negro Black  Sanguine   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q7ENMLC/?tag=tolees-21'
 descuento: '35.84'
 average: '76.99'

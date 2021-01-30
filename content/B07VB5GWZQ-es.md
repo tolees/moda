@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'JACK & JONES Jorclan Parka  Negro  Black Black   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB5GWZQ/?tag=tolees-21'
 descuento: '40.01'
 average: '41.99'

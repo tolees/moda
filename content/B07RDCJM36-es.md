@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Tommy Logo Long Sleeve tee Camiseta Deporte  Azul  Blue Dw5   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDCJM36/?tag=tolees-21'
 descuento: '34.91'
 average: '32.48'

@@ -16,6 +16,7 @@ comparePrice: 16.83 EUR
 prodname: 'adidas Rise Up N Run Long-Sleeve Top Men Camiseta de Manga Larga  Hombre  Gris  Legend Earth   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCG7SSC/?tag=tolees-21'
 descuento: '24.42'
 average: '12.72'

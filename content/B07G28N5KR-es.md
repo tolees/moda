@@ -16,6 +16,7 @@ comparePrice: 22.73 EUR
 prodname: 'AURIQUE Half Zip Sports Chaqueta  Rojo  Port Royale   44  Talla del Fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G28N5KR/?tag=tolees-21'
 descuento: '34.01'
 average: '15'

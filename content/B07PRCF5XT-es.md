@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kipling Osyka  Bolso Con Bandolera para Mujer  Naranja  Papaya   21x15x3.2 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRCF5XT/?tag=tolees-21'
 descuento: '72.10'
 average: '19.25'

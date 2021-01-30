@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Battle Royale Pijama para Niños Gaming Multicolor 7-8 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGTTK1K/?tag=tolees-21'
 descuento: '15.44'
 average: '10.95'

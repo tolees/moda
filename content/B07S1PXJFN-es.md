@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Esprit 999ee1i802 Chaqueta Punto  Negro  Black 001   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1PXJFN/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

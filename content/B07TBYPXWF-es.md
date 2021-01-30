@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'PUMA Sudadera Rebel Hoody FL Light Gris Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBYPXWF/?tag=tolees-21'
 descuento: '35.70'
 average: '35.36'

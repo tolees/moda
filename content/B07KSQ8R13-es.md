@@ -16,6 +16,7 @@ comparePrice: 38.97 EUR
 prodname: 'AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Boda Verde 6 Billiards 1.2x1.2CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSQ8R13/?tag=tolees-21'
 descuento: '61.53'
 average: '14.99'

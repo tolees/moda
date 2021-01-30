@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D SUZZIE B  Zapatillas para Mujer  Beige  Dk Skin/Off White C5q1q   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPXNJW/?tag=tolees-21'
 descuento: '72.65'
 average: '30.06'

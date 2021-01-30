@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Hawiton Pijama de Lactancia Verano Ropa Premamá Embarazadas Primavera Algodón Mangas Corta Hospital'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLVGSHP/?tag=tolees-21'
 descuento: '55.01'
 average: '26.99'

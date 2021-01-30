@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip  Chanclas Unisex-Adult  Green  Army Green/White 37p   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN8ZD8Z/?tag=tolees-21'
 descuento: '30.01'
 average: '15.953333333333331'

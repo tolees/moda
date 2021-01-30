@@ -16,6 +16,7 @@ comparePrice: 66.48 EUR
 prodname: 'Vansney Moda Mujer Chunky Sneakers Mocasines Confort Señoras Mesh Vamp Zapatos de Trabajo Cordones Planos Entrenadores Deportes Correr Senderismo Grueso Inferior Plataforma Zapatos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HL56LPQ/?tag=tolees-21'
 descuento: '69.93'
 average: '19.99'

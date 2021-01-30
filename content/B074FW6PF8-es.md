@@ -16,6 +16,7 @@ comparePrice: 18.2 EUR
 prodname: 'find. Sudadera de Raya Ejecutiva para Mujer  Azul  Navy   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FW6PF8/?tag=tolees-21'
 descuento: '57.14'
 average: '7.8'

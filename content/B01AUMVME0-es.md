@@ -16,6 +16,7 @@ comparePrice: 50.34 EUR
 prodname: 'GIVI EA106B Easy Bag Bolso Magnético Depósito  Volumen 6 litros  Carga Máxima 2 Kg  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AUMVME0/?tag=tolees-21'
 descuento: '29.48'
 average: '37.53333333333333'

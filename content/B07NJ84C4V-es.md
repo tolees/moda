@@ -16,6 +16,7 @@ comparePrice: 7.81 EUR
 prodname: 'Springfield 4.1.LIC.Dumbo Camiseta  Multicolor  Multicolor 42   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ84C4V/?tag=tolees-21'
 descuento: '15.36'
 average: '7.21'

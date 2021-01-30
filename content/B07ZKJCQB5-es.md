@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Gafas de Natación  Antiniebla Protección UV Sin Fugas Gafas Natación con Libre Clip de Nariz Enchufe de oído Gorro de baño para Hombres Mujeres Adultos Niños de la Juventud  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKJCQB5/?tag=tolees-21'
 descuento: '23.52'
 average: '10.7'

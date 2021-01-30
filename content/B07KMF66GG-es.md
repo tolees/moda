@@ -16,6 +16,7 @@ comparePrice: 7.78 EUR
 prodname: 'Marca Amazon - find. Americana de Lino Mujer  Beige  Stone   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMF66GG/?tag=tolees-21'
 descuento: '21.85'
 average: '6.804'

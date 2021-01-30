@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'BOSS Brief CO/EL  Bóxer  Multicolor  Assorted Pre-Pack 999   Medium 3 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LENU3H6/?tag=tolees-21'
 descuento: '50.17'
 average: '18.91'

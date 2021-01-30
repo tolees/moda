@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Mabsoot  Camisa  Azul  Dark Blue 4040   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K47B4HZ/?tag=tolees-21'
 descuento: '75.85'
 average: '25.990000000000002'

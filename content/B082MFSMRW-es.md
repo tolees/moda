@@ -16,6 +16,7 @@ comparePrice: 23.26 EUR
 prodname: 'OBEEII Niña Disfraz Princesa Party Vestido Bordado de Tul Comunión Fiesta para Niñas Cumpleaños Cóctel Ceremonia Disfraces Boda Prom Carnaval Cosplay Costume Blanco 120'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MFSMRW/?tag=tolees-21'
 descuento: '50.00'
 average: '11.63'

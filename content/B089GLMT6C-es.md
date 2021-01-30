@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Kloius Bolso de hombro de mochila de cuero de gran capacidad para mujer Mochilas tipo casual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089GLMT6C/?tag=tolees-21'
 descuento: '54.64'
 average: '54.475'

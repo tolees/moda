@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'El Naturalista Aqua  Botines para Mujer  Marrón  Brown Brown   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NH1M42Y/?tag=tolees-21'
 descuento: '59.45'
 average: '54.74'

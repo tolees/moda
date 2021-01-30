@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s Original Hm Icon Crew Sudadera  Gris  Medium Grey Heather  3  0001   Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X2BBPR/?tag=tolees-21'
 descuento: '50.08'
 average: '29.836000000000002'

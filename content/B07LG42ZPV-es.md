@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Geox J Kalispera Girl A  Zapatillas Altas para Niñas  Rosa  Lt Prune C8023   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG42ZPV/?tag=tolees-21'
 descuento: '40.92'
 average: '38.4'

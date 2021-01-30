@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Charles Wilson Pantalón de Deportes con Puño Pantalón Deportivo Polar  Large  Black  0619  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMGVKKD/?tag=tolees-21'
 descuento: '63.73'
 average: '11.95'

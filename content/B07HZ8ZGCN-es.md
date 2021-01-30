@@ -16,6 +16,7 @@ comparePrice: 11.46 EUR
 prodname: 'Amazon Essentials 6-Pack Cotton Bikini Underwear  Flores Silvestres  Wildflowers   US L  EU L - XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZ8ZGCN/?tag=tolees-21'
 descuento: '25.39'
 average: '8.55'

@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Timberland Newport Bay-Canvas  Zapatillas Unisex Niños  Azul  Black Iris   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GS28DHK/?tag=tolees-21'
 descuento: '62.02'
 average: '18.674999999999997'

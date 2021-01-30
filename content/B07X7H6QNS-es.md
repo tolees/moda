@@ -16,6 +16,7 @@ comparePrice: 61.9 EUR
 prodname: 'Pantalones para Adelgazar  Pantalones Deportivos Mujer  Pantalón de Sudoración Adelgazar  Leggings Push Up  Mallas Termicos de Neopreno  Faja Reductora Adelgazante para Deporte  XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7H6QNS/?tag=tolees-21'
 descuento: '64.62'
 average: '21.9'

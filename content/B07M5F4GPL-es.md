@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Wrangler SS Pocket tee Camiseta  Amarillo  Mineral Yellow Y02   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F4GPL/?tag=tolees-21'
 descuento: '70.55'
 average: '8.82'

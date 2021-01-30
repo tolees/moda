@@ -16,6 +16,7 @@ comparePrice: 168.9 EUR
 prodname: 'Trangoworld Bern Chaqueta  Hombre  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076M7P9VX/?tag=tolees-21'
 descuento: '53.77'
 average: '78.08'

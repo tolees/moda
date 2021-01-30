@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'GANT The Original C-Neck Sweat Sudadera  Azul  Marine Melange 487   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK3DX3T/?tag=tolees-21'
 descuento: '40.05'
 average: '53.95'

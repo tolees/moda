@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Vero Moda NOS Vmcurl High Neck Faux Fur Jacket Noos Chaqueta  Negro Black  40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFTJT87/?tag=tolees-21'
 descuento: '30.01'
 average: '32.24'

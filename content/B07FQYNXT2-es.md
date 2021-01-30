@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Lisbon Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Combi-   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQYNXT2/?tag=tolees-21'
 descuento: '39.97'
 average: '60.0'

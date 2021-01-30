@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Syllana 2 PCS Bolsa de Lavadora para Zapatos  Bolsa de Lavandería para Zapatillas  Bolsa Lavado de Malla con Cremallera de Color Negro  Multiuso Bolsa de Colada para Lavar  Proteger y Organizar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084LDXKYK/?tag=tolees-21'
 descuento: '66.72'
 average: '3.99'

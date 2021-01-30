@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Lee Sherpa Jacket Chaqueta  Azul  Dark Stone SS   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDBQFC9/?tag=tolees-21'
 descuento: '50.00'
 average: '64.98'

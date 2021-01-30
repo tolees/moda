@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'PIXNOR 4pcs mujeres flor pelo banda trenzado anudado Yoga cabeza envolver turbante cabeza abrigo diadema'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYGG4DY/?tag=tolees-21'
 descuento: '16.03'
 average: '4.19'

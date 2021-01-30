@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'G-STAR RAW Whistler Slim Down Hooded Long Abrigo  Gris  Asfalt 995   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNVKCS/?tag=tolees-21'
 descuento: '40.01'
 average: '149.95'

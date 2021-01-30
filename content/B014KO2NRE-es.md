@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Soho Vaqueros  Azul  10Oz Classic Stretch Z63   34W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014KO2NRE/?tag=tolees-21'
 descuento: '33.35'
 average: '49.99'

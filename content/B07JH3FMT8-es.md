@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Glover Pm506560 Camiseta   Light Yellow 003   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH3FMT8/?tag=tolees-21'
 descuento: '60.00'
 average: '11.96'

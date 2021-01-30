@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo  Negro Black  36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KB9PWSQ/?tag=tolees-21'
 descuento: '45.01'
 average: '21.99'

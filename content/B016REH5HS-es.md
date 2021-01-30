@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'adidas Parma 16 Sho - Pantalón corto para Niños  Negro  Black/White   152'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016REH5HS/?tag=tolees-21'
 descuento: '39.87'
 average: '8.99'

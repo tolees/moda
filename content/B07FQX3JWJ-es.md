@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Mena Blossom  Zapatos de Tacón para Mujer  Negro  Black Nubuck-   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQX3JWJ/?tag=tolees-21'
 descuento: '38.37'
 average: '49.559999999999995'

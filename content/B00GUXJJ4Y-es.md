@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Peakfreak Nomad Chukka WP Omni-Heat Zapatos hombre   Marrón Cordovan  Garnet Red   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GUXJJ4Y/?tag=tolees-21'
 descuento: '41.82'
 average: '65.32'

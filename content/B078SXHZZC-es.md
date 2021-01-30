@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Timberland Gateway Pier Casual  Zapatos de Cordones Oxford para Hombre  Azul  Navy Canvas   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SXHZZC/?tag=tolees-21'
 descuento: '50.00'
 average: '45.0'

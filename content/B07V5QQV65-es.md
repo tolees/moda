@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Nautical Print Beach Sandal  Sandalias con Punta Abierta para Hombre  Blanco  White Ybs   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5QQV65/?tag=tolees-21'
 descuento: '53.18'
 average: '14.0'

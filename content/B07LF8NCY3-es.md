@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Slim 2pk Crewneck 1 Camiseta  Blanco  Two-Pack tee White + White 0000   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8NCY3/?tag=tolees-21'
 descuento: '51.74'
 average: '16.89'

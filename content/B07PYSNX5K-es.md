@@ -16,6 +16,7 @@ comparePrice: 27.93 EUR
 prodname: 'Marca Amazon - find. Statement Fairisle Jumper Suéter Mujer  Beige  NATURAL   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYSNX5K/?tag=tolees-21'
 descuento: '29.72'
 average: '19.63'

@@ -16,6 +16,7 @@ comparePrice: 136.67 EUR
 prodname: 'Timberland Killington Chukka  Zapatillas Altas para Hombre  Negro  Black Nubuck   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KPCAZ3O/?tag=tolees-21'
 descuento: '36.35'
 average: '89.745'

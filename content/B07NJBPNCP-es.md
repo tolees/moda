@@ -16,6 +16,7 @@ comparePrice: 7.26 EUR
 prodname: 'Springfield 4.2.T.Bimateria.Coraz.Ban Camiseta  Multicolor  Multicolor 42   Small  Tamaño del Fabricante: S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJBPNCP/?tag=tolees-21'
 descuento: '18.04'
 average: '5.95'

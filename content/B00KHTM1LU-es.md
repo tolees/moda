@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Negro  Black/Steel 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHTM1LU/?tag=tolees-21'
 descuento: '39.73'
 average: '20.99'

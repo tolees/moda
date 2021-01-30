@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Wrangler SS Logo tee Camiseta  Marfil  Off White 737   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2BW8SB/?tag=tolees-21'
 descuento: '64.29'
 average: '8.91'

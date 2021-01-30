@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox Vega S  Sandalias con Punta Abierta para Mujer  Azul  Navy   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016ZKV91M/?tag=tolees-21'
 descuento: '50.00'
 average: '39.95'

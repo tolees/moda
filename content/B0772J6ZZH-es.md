@@ -16,6 +16,7 @@ comparePrice: 15.88 EUR
 prodname: 'Marca Amazon - MERAKI POETME005 Pantalones Cortos  Hombre  Azul  Navy   34  Label: 34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772J6ZZH/?tag=tolees-21'
 descuento: '25.13'
 average: '10.003333333333334'

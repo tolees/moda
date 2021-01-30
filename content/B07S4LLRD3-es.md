@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Esprit 089ee1k031 Camiseta  Negro  Black 001   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4LLRD3/?tag=tolees-21'
 descuento: '70.69'
 average: '5.86'

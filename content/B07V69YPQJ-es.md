@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'JACK & JONES Jcovally tee SS Crew Neck Camiseta  Marrón  Fudge Fit: Mel. Slim   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V69YPQJ/?tag=tolees-21'
 descuento: '65.65'
 average: '6.18'

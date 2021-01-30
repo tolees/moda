@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lee Chest Logo tee Camiseta  Rojo  Warp Red KG   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8L1H7P/?tag=tolees-21'
 descuento: '34.99'
 average: '19.47'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Esprit 089ee2g006 Chaqueta Bomber  Negro  Black 001   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2DPY27/?tag=tolees-21'
 descuento: '81.53'
 average: '16.62'

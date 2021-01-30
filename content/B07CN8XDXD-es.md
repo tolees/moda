@@ -16,6 +16,7 @@ comparePrice: 39.74 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Rosa  Melon 737   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN8XDXD/?tag=tolees-21'
 descuento: '42.90'
 average: '22.69'

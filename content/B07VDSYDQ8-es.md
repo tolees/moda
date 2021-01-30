@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Reebok Boxer para Hombre  Multicolor  X-Large  pack de 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDSYDQ8/?tag=tolees-21'
 descuento: '45.55'
 average: '16.28'

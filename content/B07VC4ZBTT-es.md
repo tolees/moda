@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Calvin Klein Monogram Sweater Sudadera  Blanco  CK Black 0k4   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC4ZBTT/?tag=tolees-21'
 descuento: '60.01'
 average: '35.59'

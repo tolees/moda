@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'LATEC Gafas de Sol Deportivas  Gafas Ciclismo Polarizadas con Protección UV400 y TR90 Unbreakable Frame  para hombres Mujeres al aire libre Deportes Pesca Esquí Conducción Golf Correr Ciclismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNQGKYR/?tag=tolees-21'
 descuento: '20.01'
 average: '13.523333333333333'

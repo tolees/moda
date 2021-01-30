@@ -16,6 +16,7 @@ comparePrice: 16.45 EUR
 prodname: 'Superdry Utility Field Edition L/s Shirt Camisa  Verde  Army Green 43e   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9BQ63H/?tag=tolees-21'
 descuento: '20.61'
 average: '13.955'

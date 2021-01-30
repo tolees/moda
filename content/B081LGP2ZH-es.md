@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Goal Sport 84775E - Zapatilla Deportiva Casual  37 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081LGP2ZH/?tag=tolees-21'
 descuento: '50.25'
 average: '9.95'

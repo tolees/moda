@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jprnon Iron Shirt L/s Noos Camisa  Negro  Black Fit:Slim Fit   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721YBT6X/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

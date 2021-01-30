@@ -16,6 +16,7 @@ comparePrice: 94.4 EUR
 prodname: 'Fila Disruptor 2 Premium Metallic Mujeres Zapatillas Moda - 39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RF8VLTY/?tag=tolees-21'
 descuento: '31.26'
 average: '64.89'

@@ -16,6 +16,7 @@ comparePrice: 82.3 EUR
 prodname: 'Pepe Jeans Hatch Vaqueros Hombre Ajustados  Azul  Wiser Wash Med Used 000   W36/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWGG44K/?tag=tolees-21'
 descuento: '41.65'
 average: '48.02'

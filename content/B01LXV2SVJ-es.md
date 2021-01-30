@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Reggae Slim-Vacay  Sandalias de Talón Abierto para Mujer  Negro  Black Blk   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXV2SVJ/?tag=tolees-21'
 descuento: '27.13'
 average: '39.64857142857143'

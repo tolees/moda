@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'HKT by Hackett Hkt Crew Sudadera   Red 255   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ2PSKD/?tag=tolees-21'
 descuento: '64.57'
 average: '27.99'

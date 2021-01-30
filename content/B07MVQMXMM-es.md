@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Marca Amazon - MERAKI Calzoncillo de Algodón Hombre  Pack de 4  Blanco  Blanco   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVQMXMM/?tag=tolees-21'
 descuento: '49.30'
 average: '10.14'

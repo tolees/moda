@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'The Indian Face Gafas de Sol Espejadas Oxygen Mujer  Hombre Crystal Lente Amarilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNXXN46/?tag=tolees-21'
 descuento: '21.92'
 average: '39.0'

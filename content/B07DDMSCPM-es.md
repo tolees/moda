@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Odlo Suw Crew Neck Active Originals  Camiseta Bebé-Niños  Azul  Diving Navy Mit Placed Print 20288   92'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDMSCPM/?tag=tolees-21'
 descuento: '55.70'
 average: '13.29'

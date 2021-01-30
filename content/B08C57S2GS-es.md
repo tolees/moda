@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'Guantes de Invierno Calientes a Prueba del Viento Guantes para el Clima Frío de Pantalla Táctil con Diseño Antideslizante  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C57S2GS/?tag=tolees-21'
 descuento: '22.25'
 average: '13.98'

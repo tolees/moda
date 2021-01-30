@@ -16,6 +16,7 @@ comparePrice: 47.62 EUR
 prodname: 'Polaroid PLD 6014/S Y2 YYV Gafas de sol  Negro  Black Rubber/Grey Pz   56 Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DYZR04G/?tag=tolees-21'
 descuento: '25.45'
 average: '34.17666666666667'

@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'The North Face M Quest Triclimate Chaqueta  Hombre  Negro  TNF Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7G7QWT/?tag=tolees-21'
 descuento: '15.62'
 average: '162.565'

@@ -16,6 +16,7 @@ comparePrice: 5.55 EUR
 prodname: 'Fruit of the Loom - Camiseta básica de Manga Corta Tacto Super Suave Modelo Sofspun Unisex Niños Niñas - Deportes/Gimnasia/Correr  14-15 Años   Vino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BC78R2L/?tag=tolees-21'
 descuento: '33.33'
 average: '3.7'

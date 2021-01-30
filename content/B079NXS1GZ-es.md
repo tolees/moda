@@ -16,6 +16,7 @@ comparePrice: 52.21 EUR
 prodname: 'Zapatos para Correr En Montaña Asfalto Aire Libre Deportes Zapatillas De Running para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NXS1GZ/?tag=tolees-21'
 descuento: '50.22'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Leadcat FTR  Sandalias deslizantes Unisex-Adulto  Azul  Dark Denim White/High Risk Red   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9S85FS/?tag=tolees-21'
 descuento: '28.06'
 average: '17.95'

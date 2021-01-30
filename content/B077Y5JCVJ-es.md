@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Tuc Tuc Brioche - Bolso panera y cambiador de polipiel  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y5JCVJ/?tag=tolees-21'
 descuento: '39.94'
 average: '30.0'

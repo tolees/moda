@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Winline Gafas de Natación Profesional Anti Niebla Hermético Ajustable Gafas de Natación para Adultos para Hombres Y Mujeres  Black/Clear Lens '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBQB8FK/?tag=tolees-21'
 descuento: '62.01'
 average: '18.99'

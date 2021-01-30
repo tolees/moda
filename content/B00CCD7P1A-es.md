@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Symbol D  Derby para Hombre  Negro  Black C9999   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CCD7P1A/?tag=tolees-21'
 descuento: '29.98'
 average: '69.95'

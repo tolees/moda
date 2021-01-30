@@ -16,6 +16,7 @@ comparePrice: 16.4 EUR
 prodname: 'Bolso Bandolera Harry Potter'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWT879R/?tag=tolees-21'
 descuento: '15.85'
 average: '13.8'

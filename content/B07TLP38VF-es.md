@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Perri Way  Sandalias de Talón Abierto para Mujer  Marrón  Dark Tan Lea Dark Tan Lea   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLP38VF/?tag=tolees-21'
 descuento: '56.09'
 average: '48.3'

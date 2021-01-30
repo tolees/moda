@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Graphic Camiseta  Gris  84 Sportswear Logo Grey Midtone Grey Htr 0002   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071L5YZ5R/?tag=tolees-21'
 descuento: '28.04'
 average: '17.740416666666672'

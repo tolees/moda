@@ -16,6 +16,7 @@ comparePrice: 14.05 EUR
 prodname: 'Amazon Brand - AURIQUE Leggings deportivos capri con paneles para mujer  Negro  Black/Grey Marl   38  Label:S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L471YGK/?tag=tolees-21'
 descuento: '19.00'
 average: '14.23'

@@ -16,6 +16,7 @@ comparePrice: 11.65 EUR
 prodname: 'Speedo Futura Classic Gafas Anticloro  Unisex Adulto  Rojo/Gris  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MFCKLRK/?tag=tolees-21'
 descuento: '25.58'
 average: '9.434999999999999'

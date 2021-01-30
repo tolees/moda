@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Renan B  Zapatillas para Hombre  Gris  Grey C1006   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGPTF4/?tag=tolees-21'
 descuento: '40.04'
 average: '59.9'

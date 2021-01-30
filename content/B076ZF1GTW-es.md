@@ -16,6 +16,7 @@ comparePrice: 11.89 EUR
 prodname: 'IRIS & LILLY  Camiseta de Manga Larga para Mujer  Gris  Grey Marl   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076ZF1GTW/?tag=tolees-21'
 descuento: '28.51'
 average: '8.5'

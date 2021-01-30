@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Adilette Chanclas Hombre  Azul  Adiblu/White/Adiblu   42 EU  8 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001OVDGF0/?tag=tolees-21'
 descuento: '65.67'
 average: '12.0'

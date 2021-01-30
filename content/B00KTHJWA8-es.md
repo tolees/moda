@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Tech Short Sleeve V-Twist Camiseta  Mujer  Negro  Black/Metallic Silver 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KTHJWA8/?tag=tolees-21'
 descuento: '42.50'
 average: '16.1'

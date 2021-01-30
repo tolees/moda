@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Genova Moc A  Mocasines para Mujer  Rosa  Cyclamen C8335   39 5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQQ12GM/?tag=tolees-21'
 descuento: '73.18'
 average: '29.47'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Hilfiger Logo Sweatshirt Sudadera  Gris  Cloud Htr 501   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYVJ2PW/?tag=tolees-21'
 descuento: '53.00'
 average: '46.95'

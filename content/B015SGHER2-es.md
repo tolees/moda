@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Havaianas You Metallic  Sandalias para Mujer  Plateado  Steel Grey   35/36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015SGHER2/?tag=tolees-21'
 descuento: '33.44'
 average: '19.9'

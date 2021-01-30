@@ -16,6 +16,7 @@ comparePrice: 16.84 EUR
 prodname: 'HIKARO Parka Corta Hombre  Azul  Navy   48  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y8KLJ9/?tag=tolees-21'
 descuento: '20.01'
 average: '16.884285714285713'

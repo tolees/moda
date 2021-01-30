@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'The North Face Tekware TNF Jersey 100 Glacier  Hombre  TNF Black  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IF9Z7BY/?tag=tolees-21'
 descuento: '34.56'
 average: '35.72'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'MACCIAVELLI - Guantes de Ciclismo | Guantes MTB de Medio Dedo | Adecuado para Ciclismo de Carretera y de Montaña - Guantes para Hombres y Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVWJCTQ/?tag=tolees-21'
 descuento: '40.08'
 average: '14.95'

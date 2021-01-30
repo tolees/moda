@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'SISMIURRA Ajustable Collar Mujer Grabado Plata de Ley 925 Colgante Mujer Joyería Regalo Cumpleaños Aniversario Dia de San Valentin'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7P63ZG/?tag=tolees-21'
 descuento: '68.20'
 average: '13.489999999999998'

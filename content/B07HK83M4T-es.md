@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Amazon Essentials - Chaqueta para hombre  Camo  US L  EU L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HK83M4T/?tag=tolees-21'
 descuento: '45.81'
 average: '13.0'

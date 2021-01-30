@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Pepe Jeans Rick Chaqueta   Berry Red 280   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPVFCY/?tag=tolees-21'
 descuento: '64.78'
 average: '42.26'

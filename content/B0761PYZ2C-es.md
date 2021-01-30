@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'Soradoo Ciclismo Maillot Hombres Jersey Culote Pantalones Largos Mangas Largas Ciclismo Ropa Maillot para Deportes al aire libre Ciclo Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0761PYZ2C/?tag=tolees-21'
 descuento: '39.40'
 average: '39.99'

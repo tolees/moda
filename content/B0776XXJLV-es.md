@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Original Jersey Camiseta  Blanco  Classic White 100   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776XXJLV/?tag=tolees-21'
 descuento: '30.93'
 average: '20.03'

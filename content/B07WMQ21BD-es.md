@@ -16,6 +16,7 @@ comparePrice: 32.83 EUR
 prodname: 'find. #  Shana-1a-58 Sandalias Abiertas  Negro  Black   37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMQ21BD/?tag=tolees-21'
 descuento: '34.24'
 average: '21.59'

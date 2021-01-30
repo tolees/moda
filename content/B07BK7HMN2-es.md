@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Speedo Futura Biofuse Flexiseal Gafas Natación Infantil para Piscina  Color Azul/Transparente  Talla unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK7HMN2/?tag=tolees-21'
 descuento: '29.05'
 average: '14.9'

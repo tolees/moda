@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'JACK & JONES PREMIUM 12154586 Abrigo  Negro  Black Black   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2L8JYV/?tag=tolees-21'
 descuento: '38.24'
 average: '104.99'

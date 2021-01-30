@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour 1323415-001 Camiseta  Hombre  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZN1B2R/?tag=tolees-21'
 descuento: '48.60'
 average: '23.087500000000002'

@@ -16,6 +16,7 @@ comparePrice: 7.2 EUR
 prodname: 'DafenQ Lindo Animal La mochila de jardín de infantes embroma la bolsa de la escuela de la taleguilla Bolso de escuela Kinderrucksack para bebé Niño Niña  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074J61CFR/?tag=tolees-21'
 descuento: '55.56'
 average: '3.095'

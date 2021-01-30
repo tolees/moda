@@ -16,6 +16,7 @@ comparePrice: 107.87 EUR
 prodname: 'Timberland Bradstreet Perforated Plain Toe  Zapatos de Cordones Oxford para Hombre  Marrón  Light Brown Nubuck   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLQ8SQN/?tag=tolees-21'
 descuento: '44.38'
 average: '60'

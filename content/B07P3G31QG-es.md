@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry University L/s Shirt Camisa  Azul  Classic Blue Chambray S6h   35  Talla del Fabricante: X-Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3G31QG/?tag=tolees-21'
 descuento: '80.74'
 average: '17.73142857142857'

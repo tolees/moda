@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Nike M Nk Dry tee Db Athlete Camiseta de Manga Corta  Hombre  dk Grey Heather/ Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NBJS7AM/?tag=tolees-21'
 descuento: '55.94'
 average: '11.01'

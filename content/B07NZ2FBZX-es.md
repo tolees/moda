@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Superdry Astrid Puffer Chaqueta  Verde  City Green V2k   XL  Talla del Fabricante:16  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ2FBZX/?tag=tolees-21'
 descuento: '72.57'
 average: '35.66'

@@ -16,6 +16,7 @@ comparePrice: 79.09 EUR
 prodname: 'Trespass - Sandalias de montaña Modelo Torrance para Hombre Caballero  44 EU   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5X2KPP/?tag=tolees-21'
 descuento: '51.70'
 average: '38.2'

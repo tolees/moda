@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Liga Casual Sudadera  Hombre  Peacoat / White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NRZ2GT/?tag=tolees-21'
 descuento: '53.49'
 average: '27.040000000000003'

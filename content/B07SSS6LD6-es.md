@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Genova Moc A  Mocasines para Mujer  Beige  Sand C5004   36 5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSS6LD6/?tag=tolees-21'
 descuento: '82.05'
 average: '19.73'

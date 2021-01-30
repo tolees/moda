@@ -16,6 +16,7 @@ comparePrice: 19.03 EUR
 prodname: 'Calvin Klein Boxer Brief 2pk  Gris  Grey Heather/Surf The Web Skj   Medium  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGVRKJQ/?tag=tolees-21'
 descuento: '19.08'
 average: '15.4'

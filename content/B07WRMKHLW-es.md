@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers TRESMEN HIRANO  Sandalias con Punta Abierta para Hombre  Marrón  Brown Synthetic Brn   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRMKHLW/?tag=tolees-21'
 descuento: '40.04'
 average: '32.95'

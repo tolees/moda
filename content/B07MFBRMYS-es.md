@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Kickers Oxfork  Zapatos de Cordones Derby para Mujer  Negro  Noir Perm 82   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFBRMYS/?tag=tolees-21'
 descuento: '83.21'
 average: '19.98'

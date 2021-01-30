@@ -16,6 +16,7 @@ comparePrice: 14.42 EUR
 prodname: 'Pepe Jeans Kurt Camiseta   Brass 891   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPW49B/?tag=tolees-21'
 descuento: '31.55'
 average: '9.87'

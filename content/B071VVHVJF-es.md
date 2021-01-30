@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Rosa  Paradise Pink/Carnation   24/25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VVHVJF/?tag=tolees-21'
 descuento: '20.01'
 average: '23.99'

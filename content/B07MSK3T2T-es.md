@@ -16,6 +16,7 @@ comparePrice: 32.85 EUR
 prodname: 'Clarks Vargo Vibe  Zapatos de Cordones Derby para Hombre  Marrón Oscuro Lea Dark Brown Lea  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSK3T2T/?tag=tolees-21'
 descuento: '21.16'
 average: '29.48833333333333'

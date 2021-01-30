@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Sandalias duraderas para Hombres Sandalias de Verano para Hombres Sandalias y Zapatillas Casuales Zapatos de Playa Transpirables Moda Sandalias de Fondo Suave y cómodas-Negro 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876LGBCD/?tag=tolees-21'
 descuento: '34.89'
 average: '27.99'

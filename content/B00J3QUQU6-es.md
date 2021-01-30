@@ -16,6 +16,7 @@ comparePrice: 17.8 EUR
 prodname: 'uhlsport Match Classic De Mujer Chaqueta De Entrenamiento  Negro/Dorado  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J3QUQU6/?tag=tolees-21'
 descuento: '43.88'
 average: '9.99'

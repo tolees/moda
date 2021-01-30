@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox U Walee A  Zapatillas para Hombre  Beige  Sand   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X69JRQ/?tag=tolees-21'
 descuento: '59.94'
 average: '36.01'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Columbia Arcadia Chaqueta Impermeable con Capucha  Unisex Niños  Rosa  Cactus Pink   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R8JXGTF/?tag=tolees-21'
 descuento: '62.01'
 average: '20.89'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Original tee Camiseta  Gris  Cotton + Patch Medium Grey Heather Emb 0015   Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHHJWH/?tag=tolees-21'
 descuento: '36.04'
 average: '13.863571428571428'

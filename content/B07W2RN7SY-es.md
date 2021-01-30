@@ -16,6 +16,7 @@ comparePrice: 16.92 EUR
 prodname: 'Tommy Hilfiger TJM Arched Graphic tee Camiseta Deporte  Blanco  White Ybr   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W2RN7SY/?tag=tolees-21'
 descuento: '26.42'
 average: '12.45'

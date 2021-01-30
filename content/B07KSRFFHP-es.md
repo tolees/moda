@@ -16,6 +16,7 @@ comparePrice: 35.97 EUR
 prodname: 'AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Boda Azul Bar Mancuernas 1x2CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSRFFHP/?tag=tolees-21'
 descuento: '63.89'
 average: '12.99'

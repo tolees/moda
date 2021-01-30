@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Adorn Calm  Sandalias de Talón Abierto para Mujer  Beige  Off White Lea Off White Lea   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPXZJLD/?tag=tolees-21'
 descuento: '65.84'
 average: '34.14'

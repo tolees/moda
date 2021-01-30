@@ -16,6 +16,7 @@ comparePrice: 41.28 EUR
 prodname: 'wilbest® Cartera Hombre  Cartera RFID  Billetera de Hombre de Piel con 2 Compartimentos para Billetes  5 Tarjetas Incluye Correa de Tracción Inteligente & ID   1 Bolsillo para Monedas con Botón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTJ9CJL/?tag=tolees-21'
 descuento: '51.57'
 average: '19.99'

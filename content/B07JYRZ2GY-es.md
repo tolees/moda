@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Low Rise Skinny Sophie Vaqueros straight  Azul  Fresno Bk Str 911   W26/L30  Talla del fabricante: 3026  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYRZ2GY/?tag=tolees-21'
 descuento: '60.32'
 average: '39.64'

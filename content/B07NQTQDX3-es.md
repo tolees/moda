@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Springfield Frq Stripes Kodak Gg12 Jersey  Azul  Blue 11   X-Large  Tamaño del Fabricante: XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQTQDX3/?tag=tolees-21'
 descuento: '49.62'
 average: '15.11'

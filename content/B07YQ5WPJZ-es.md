@@ -16,6 +16,7 @@ comparePrice: 32.01 EUR
 prodname: 'Polaroid SPORT 7886 gafas de sol  MTT NEGRO  66 Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQ5WPJZ/?tag=tolees-21'
 descuento: '18.49'
 average: '26.09'

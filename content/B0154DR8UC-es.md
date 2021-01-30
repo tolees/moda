@@ -16,6 +16,7 @@ comparePrice: 16 EUR
 prodname: 'Hollywood Star Fashion Polo clásico de manga corta Jersey - Marrón -'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0154DR8UC/?tag=tolees-21'
 descuento: '30.00'
 average: '11.2'

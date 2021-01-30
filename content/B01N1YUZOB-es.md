@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Timberland Adventure Seeker 2 Strap  Sandalias de Punta Descubierta Unisex Niños  Negro Navy  34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1YUZOB/?tag=tolees-21'
 descuento: '55.56'
 average: '20.003333333333334'

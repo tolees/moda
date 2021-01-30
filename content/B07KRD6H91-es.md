@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Tom Tailor Casual 1008637 Camiseta  Gris  Tarmac Grey 10899   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRD6H91/?tag=tolees-21'
 descuento: '58.36'
 average: '4.16'

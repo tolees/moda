@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Parfois - Bolso Shopper Acolchado De Nylon - Mujeres - Tallas M - Magenta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ1Q9XX/?tag=tolees-21'
 descuento: '18.76'
 average: '12.995000000000001'

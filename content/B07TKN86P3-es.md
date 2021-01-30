@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Orinoco Strap  Sandalias de Talón Abierto para Mujer  Rosa  Pink Pink   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKN86P3/?tag=tolees-21'
 descuento: '72.78'
 average: '25.779999999999998'

@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Baya Clog Kids  Zuecos Unisex Niños  Azul  Navy 410   28/29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN7J3YQ/?tag=tolees-21'
 descuento: '35.14'
 average: '20.75'

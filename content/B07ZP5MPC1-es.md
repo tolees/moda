@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Alvivi Bolero Fiesta Bebé Niñas para Boda Abrigo Manga Larga para Ropa Vestido Princesa Cardigan Satinado Elegante Marfil 4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZP5MPC1/?tag=tolees-21'
 descuento: '81.07'
 average: '5.49'

@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Calvin Klein Hip Brief Bóxer  Negro  Black 001   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8SPXVR/?tag=tolees-21'
 descuento: '27.27'
 average: '16.0'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Scarlett High Vaqueros  Azul  Mid Jelt GT   25W/31L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVVCWGG/?tag=tolees-21'
 descuento: '70.44'
 average: '29.55'

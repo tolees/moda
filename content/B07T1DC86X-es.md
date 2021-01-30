@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Timberland Perkins Row 2-Strap  Sandalias con Punta Abierta Unisex-Niños  Verde Verde Grape Leaf Tb0a24y7a581  23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1DC86X/?tag=tolees-21'
 descuento: '30.03'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Adorn Lace  Zapatos de Cordones Derby para Mujer  Beige  Dusty Pink Combi Dusty Pink Combi   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJK4RL6/?tag=tolees-21'
 descuento: '53.07'
 average: '51.62'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Springfield 4.1.Gym.Skinny Cropped Ro Vaqueros Straight  Negro  Negro 1   34  Tamaño del Fabricante: 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJFWMZX/?tag=tolees-21'
 descuento: '46.75'
 average: '13.84'

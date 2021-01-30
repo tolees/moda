@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Geographical Norway Parka Mujer BOOMERA Ass B Rosa Llamativo 01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CN3D4C/?tag=tolees-21'
 descuento: '20.00'
 average: '79.2'

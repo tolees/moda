@@ -16,6 +16,7 @@ comparePrice: 4.97 EUR
 prodname: 'BaZhaHei SúPer Fuego Nacional Viento Cadena PortáTil PequeñO Bolso Redondo Paquete Borla Paquete de Borla del Bolso del PequeñO Bolso Redondo Redondo del Viento Nacional del Fuego de Mujer Ins'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKYKH3V/?tag=tolees-21'
 descuento: '74.04'
 average: '1.29'

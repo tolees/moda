@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Helly Hansen Jr Barrier Down Aislante Chaqueta De Pluma  Unisex niños  Blue Tint  16 YRS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBP5D8V/?tag=tolees-21'
 descuento: '70.53'
 average: '35.36'

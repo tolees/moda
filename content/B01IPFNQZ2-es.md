@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Helly Hansen Crew Chaqueta deportiva  Hombre  Azul  Azul Navy   X-Large  Tamaño del fabricante:XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IPFNQZ2/?tag=tolees-21'
 descuento: '29.25'
 average: '91.98'

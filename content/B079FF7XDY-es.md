@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'Magichome Collar Antiparasitario para Gatos contra Pulgas  Garrapatas y Mosquitos …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FF7XDY/?tag=tolees-21'
 descuento: '19.96'
 average: '12.19'

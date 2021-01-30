@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'edc by Esprit 099cc1g012 Chaqueta  Marrón  Camel 230   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD11JR7/?tag=tolees-21'
 descuento: '77.86'
 average: '17.71'

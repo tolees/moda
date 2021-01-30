@@ -16,6 +16,7 @@ comparePrice: 13.11 EUR
 prodname: 'Nike M NSW Me Short Waffle Pantalón  Hombre  dk Grey Heather  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HN6M6PM/?tag=tolees-21'
 descuento: '43.10'
 average: '7.46'

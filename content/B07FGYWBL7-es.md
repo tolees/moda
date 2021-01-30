@@ -16,6 +16,7 @@ comparePrice: 97.79 EUR
 prodname: 'Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Verde  Mosstone/Peatmoss   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FGYWBL7/?tag=tolees-21'
 descuento: '30.10'
 average: '68.36'

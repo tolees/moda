@@ -16,6 +16,7 @@ comparePrice: 10.52 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Asw-018 - Pijama de dos piezas Mujer  Azul  Blue   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QY8TWZ1/?tag=tolees-21'
 descuento: '29.75'
 average: '7.39'

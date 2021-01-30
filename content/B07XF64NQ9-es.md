@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Esprit 109ee1i012 Chaqueta Punto  Gris  Medium Grey 5 039   Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XF64NQ9/?tag=tolees-21'
 descuento: '60.31'
 average: '19.84'

@@ -16,6 +16,7 @@ comparePrice: 18.82 EUR
 prodname: 'Negocios titular de la tarjeta  RFID de lujo de piel y acero inoxidable tarjeteros de billetera para tarjeta de negocios  tarjeta de crédito tarjeta de identificación para Hombre y Muje. ①Negro-Cuero '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXHQ63J/?tag=tolees-21'
 descuento: '42.40'
 average: '10.84'

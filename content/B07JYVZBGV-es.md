@@ -16,6 +16,7 @@ comparePrice: 229 EUR
 prodname: 'Tommy Hilfiger Ivan Quilted Bomber Jacket Chaqueta  Azul  Sky Captain 403   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYVZBGV/?tag=tolees-21'
 descuento: '29.72'
 average: '160.95'

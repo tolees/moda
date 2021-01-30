@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Relaxed Graphic Crew Sudadera  Azul  Sea Captain Blue Wash Sea Captain 0059   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFDYTM5/?tag=tolees-21'
 descuento: '53.20'
 average: '30.42'

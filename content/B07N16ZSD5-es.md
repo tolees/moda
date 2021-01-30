@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Worker Blue Faded  25W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N16ZSD5/?tag=tolees-21'
 descuento: '55.40'
 average: '44.58'

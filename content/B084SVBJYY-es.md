@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Sanita Izabella - Zuecos de piel para mujer  color Turquesa  talla 41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084SVBJYY/?tag=tolees-21'
 descuento: '20.00'
 average: '51.92'

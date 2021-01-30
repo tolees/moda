@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Soho Vaqueros  Azul  10oz Dark Used Worn H45   28W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XMLG93Q/?tag=tolees-21'
 descuento: '45.35'
 average: '40.99'

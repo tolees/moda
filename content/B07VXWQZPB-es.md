@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Pepe Jeans Golders Camiseta  Azul  Light Thames 533   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXWQZPB/?tag=tolees-21'
 descuento: '50.00'
 average: '14.0'

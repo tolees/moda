@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Yosemy Tarjetero para Tarjetas de Crédito  Delgado Billetera de Aluminio con RFID Bloqueo para Tarjetas de Visita  2 Piezas  Negro + Argent'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KY6LGKX/?tag=tolees-21'
 descuento: '31.27'
 average: '11.323333333333334'

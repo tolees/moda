@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jack & Jones JCOMOON Knit Crew Neck Jersey  Negro  Black Fit:Knit FIT   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBZWC3Q/?tag=tolees-21'
 descuento: '50.01'
 average: '17.49'

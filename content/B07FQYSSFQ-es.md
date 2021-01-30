@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Laina RAE  Zapatos de Tacón para Mujer  Beige  Nude Patent-   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQYSSFQ/?tag=tolees-21'
 descuento: '40.07'
 average: '59.9'

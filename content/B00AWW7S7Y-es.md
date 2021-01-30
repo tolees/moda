@@ -16,6 +16,7 @@ comparePrice: 7.28 EUR
 prodname: 'Gildan Soft Style V-Neck T Shirt Camiseta  Negro    M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AWW7S7Y/?tag=tolees-21'
 descuento: '15.80'
 average: '6.13'

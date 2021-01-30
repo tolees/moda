@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Marca Amazon - Iris & Lilly Tanga Mujer  Pack de 5  Negro  Black   XXL  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGYPSLW/?tag=tolees-21'
 descuento: '30.02'
 average: '10.49'

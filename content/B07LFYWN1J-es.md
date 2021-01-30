@@ -16,6 +16,7 @@ comparePrice: 30.72 EUR
 prodname: 'Geox D Nebula 4 X 4 B ABX A  Botas Chukka para Mujer  Azul  Navy C4002   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFYWN1J/?tag=tolees-21'
 descuento: '23.80'
 average: '23.41'

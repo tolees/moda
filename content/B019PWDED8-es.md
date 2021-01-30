@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Diesel CREW NECK ESSENTIAL  Camiseta para Hombre  Negro  Black 900/0aalw   S  Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019PWDED8/?tag=tolees-21'
 descuento: '37.89'
 average: '27.328'

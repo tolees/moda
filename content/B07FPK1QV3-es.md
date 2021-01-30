@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'The North Face M Tball Triclim Jkt Chaqueta Thermoball Triclimate  Hombre  Multicolor  Botanical Garde   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPK1QV3/?tag=tolees-21'
 descuento: '50.00'
 average: '175.90333333333334'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'G-Star Sp10546 SS tee Camiseta  Rosa  Mid Pink 34   8 años  Talla del Fabricante: 8A  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHV88CC/?tag=tolees-21'
 descuento: '76.76'
 average: '6.96'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Falda de Tenis Skort Golf Mujer Niña Negra Pantalón Ropa Padel Running Corta Moda Deportivas Short XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GNNQXM/?tag=tolees-21'
 descuento: '33.35'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Chaqueta Hombre BOKER Negro XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CD2FLK/?tag=tolees-21'
 descuento: '34.34'
 average: '82.0'

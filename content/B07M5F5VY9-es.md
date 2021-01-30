@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Wrangler Larston Vaqueros  Ice Flow  32W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F5VY9/?tag=tolees-21'
 descuento: '49.99'
 average: '47.48'

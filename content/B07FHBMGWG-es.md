@@ -16,6 +16,7 @@ comparePrice: 13.64 EUR
 prodname: 'Amazon Essentials – Pantalón corto de corte entallado para hombre  22 8 cm   Beige  Stone Sto   W28  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHBMGWG/?tag=tolees-21'
 descuento: '23.31'
 average: '10.46'

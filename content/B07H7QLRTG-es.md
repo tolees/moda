@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Jachenrik Trunks 3 Pack Noos Bóxer  Multicolor  Black Detail: Navy Blazer & Navy Blazer   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7QLRTG/?tag=tolees-21'
 descuento: '40.18'
 average: '17.63'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Under Armour UA Qualifier Shortsleeve Camiseta  Hombre  Blanco  Onyx White/Onyx White/Reflective 112   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZLN9Z8/?tag=tolees-21'
 descuento: '76.84'
 average: '11.02'

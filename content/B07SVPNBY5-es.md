@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox Uomo Snake E  Zapatillas para Hombre  Gris  Lt Grey/Grey C1292   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPNBY5/?tag=tolees-21'
 descuento: '39.99'
 average: '59.93333333333333'

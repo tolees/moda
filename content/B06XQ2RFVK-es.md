@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Vest_vermond Vestido   Negro 2000   38 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQ2RFVK/?tag=tolees-21'
 descuento: '50.03'
 average: '53.985'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Popcat 20  Sandalias deslizantes para Hombre  Blanco White Black  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NTN5T/?tag=tolees-21'
 descuento: '29.87'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Doaraha Camisón Lactancia para Mujer Vestido Premamá con Volantes Pijama de Maternidad Camisones de Algodón de Manga 3/4 Ropa de Dormir con Cuello en V  Rojo  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HT1S6Y6/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

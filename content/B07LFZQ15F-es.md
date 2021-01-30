@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Garret A  Zapatos de Cordones Derby para Hombre  Marrón  Mud/Bordeaux C6446   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZQ15F/?tag=tolees-21'
 descuento: '35.23'
 average: '77.66'

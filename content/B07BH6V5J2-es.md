@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Savage Culture Cala Llonga Blusa  Blanco  Blanco 007   Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BH6V5J2/?tag=tolees-21'
 descuento: '46.27'
 average: '31.7'

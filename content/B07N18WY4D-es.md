@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Lee Button Down Camisa  Azul  Beyond Blue   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N18WY4D/?tag=tolees-21'
 descuento: '60.28'
 average: '26.12'

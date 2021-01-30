@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Woven Graphic Pantalón Corto  Hombre  Gris  Steel-035   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XMNTP7/?tag=tolees-21'
 descuento: '27.39'
 average: '20.33'

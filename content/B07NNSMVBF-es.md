@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Tech 2.0 SS Tee Novelty  Camiseta Para Gimnasio  Camiseta Transpirable Hombre  Verde  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNSMVBF/?tag=tolees-21'
 descuento: '41.63'
 average: '17.51'

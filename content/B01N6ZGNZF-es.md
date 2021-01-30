@@ -16,6 +16,7 @@ comparePrice: 20.44 EUR
 prodname: 'Intimuse Embu Sudadera  Negro  Schwarz/Pink 125   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6ZGNZF/?tag=tolees-21'
 descuento: '61.89'
 average: '7.79'

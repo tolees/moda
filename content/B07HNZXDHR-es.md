@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Alvivi Chaqueta de Piel Sintética Bebé Bolero Blanco Boda Fiesta Chaqueta Princesa Niña Gruesa de Vestido Cardigan Abrigo Otoño Invierno Capa Elegante Ropa Infantil Blanco 2-3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNZXDHR/?tag=tolees-21'
 descuento: '53.92'
 average: '5.99'

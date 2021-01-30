@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Canyon Point Mid Zapatos impermeables de senderismo para hombre   Marrón Cordovan  Dark Banana   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772ZCRYM/?tag=tolees-21'
 descuento: '37.00'
 average: '62.99'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'adidas Estro 19 JSY Camiseta de Manga Corta  Niños  Power Red  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZL6Z4M/?tag=tolees-21'
 descuento: '40.03'
 average: '8.982000000000001'

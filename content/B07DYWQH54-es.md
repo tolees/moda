@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Triple Canyon Fall Pantalón de Senderismo  Poliéster  Negro  W32/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYWQH54/?tag=tolees-21'
 descuento: '41.12'
 average: '52.99'

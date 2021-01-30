@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Marca Amazon - find. Camiseta con Franjas para Hombre  Rojo  Wine Tasting   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FW16PZ/?tag=tolees-21'
 descuento: '73.56'
 average: '4.76'

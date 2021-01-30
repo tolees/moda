@@ -16,6 +16,7 @@ comparePrice: 293.0 EUR
 prodname: 'Furla - Stacy S Drawstring  Bolso Mujer  Negro  Onyx   13x22x26 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M03GUBP/?tag=tolees-21'
 descuento: '50.19'
 average: '145.94'

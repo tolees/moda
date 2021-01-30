@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Diesel UMTEE-JAKETHREEPACK  Camiseta para Hombre  Multicolor  Black/White/Grey 01/0aalw   S  Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AFO9DT4/?tag=tolees-21'
 descuento: '40.02'
 average: '27.24'

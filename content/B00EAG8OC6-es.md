@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'SEAC Biogel Antiempañante para máscaras y Gafas  100% antivaho orgánico  Totalmente biológico  SIN Alcohol  Unisex  Transparente  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EAG8OC6/?tag=tolees-21'
 descuento: '49.63'
 average: '5.49'

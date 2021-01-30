@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Tous New Essence  Bolso bandolera para Mujer  Multicolor  Mostaza Topo 995900793   28x19x10 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJS7BNX/?tag=tolees-21'
 descuento: '39.27'
 average: '78.34'

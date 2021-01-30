@@ -16,6 +16,7 @@ comparePrice: 7.58 EUR
 prodname: 'Lee Trend Fit Tee  Camiseta para Hombre  Blanco  Bright White Lj   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M95FTM2/?tag=tolees-21'
 descuento: '15.17'
 average: '6.43'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s Original Trucker Chaqueta vaquera  Azul  Soft Ash Butter Dark 0063   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K756DGD/?tag=tolees-21'
 descuento: '40.19'
 average: '59.03333333333334'

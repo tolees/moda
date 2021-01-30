@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Quiksilver Molokai Layback  Zapatos de Playa y Piscina para Hombre  Negro  Black Xkkb   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SV3C29B/?tag=tolees-21'
 descuento: '46.17'
 average: '14.49'

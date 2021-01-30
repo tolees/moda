@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjeemil Knit Roll Neck Noos Camiseta Cuello Alto  Gris  Dark Grey Melange Dark Grey Melange   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJ3YDJ1/?tag=tolees-21'
 descuento: '50.11'
 average: '19.95'

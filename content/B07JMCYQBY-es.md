@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lee Emblem T Camiseta  Amarillo  Yellow Sign Ln   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMCYQBY/?tag=tolees-21'
 descuento: '69.72'
 average: '9.07'

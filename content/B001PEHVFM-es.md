@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Adilette Zapatos de playa y piscina Unisex adulto  Azul  38 EU  5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001PEHVFM/?tag=tolees-21'
 descuento: '37.08'
 average: '23.189999999999998'

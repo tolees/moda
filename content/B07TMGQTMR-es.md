@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'FM London Fitted Boxer  Negro  Black 01   Large  Pack de 8  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMGQTMR/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

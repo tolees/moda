@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'FitFlop Lulu Cross Slide  Sandalias de Punta Descubierta para Mujer  Brown Bronze 012  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6P8XHJ/?tag=tolees-21'
 descuento: '55.30'
 average: '35.76'

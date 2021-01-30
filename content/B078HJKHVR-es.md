@@ -16,6 +16,7 @@ comparePrice: 11.24 EUR
 prodname: 'IRIS & LILLY Braguita Estilo Culotte Mujer  Pack de 5  Multicolor  White/fiery Red/spanish Villa/maritime Blue    Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HJKHVR/?tag=tolees-21'
 descuento: '62.63'
 average: '6.0'

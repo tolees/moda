@@ -16,6 +16,7 @@ comparePrice: 30.86 EUR
 prodname: 'AOTIAN Bolsos Bandolera de Mujer Nylon Bolso de Hombro Casual Bolsos Shoppers y Bolsa de Mensajero para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824ZJ2FL/?tag=tolees-21'
 descuento: '51.43'
 average: '14.99'

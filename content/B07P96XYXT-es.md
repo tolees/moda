@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler LS Western Shirt Camisa  Gris  Dark Grey Mel X06   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P96XYXT/?tag=tolees-21'
 descuento: '67.90'
 average: '20.85'

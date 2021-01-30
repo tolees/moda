@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s Housemark Graphic tee Camiseta  Gris  Hm Outline Mid Tone Grey Heather 0241   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFDXB86/?tag=tolees-21'
 descuento: '51.67'
 average: '11.95'

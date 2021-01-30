@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Sudadera con Capucha  Negro  XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV972DB/?tag=tolees-21'
 descuento: '40.03'
 average: '17.99'

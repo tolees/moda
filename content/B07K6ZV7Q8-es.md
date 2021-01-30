@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Levi s Ex-Boyfriend Trucker Chaqueta Vaquera  Azul  Soft Ash Butter Mid 0055   XX-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6ZV7Q8/?tag=tolees-21'
 descuento: '24.52'
 average: '74.215'

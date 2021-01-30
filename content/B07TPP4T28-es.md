@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Relaxed Graphic Hoodie Sudadera  Azul  Boxtab Pop Riverside 0024   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPP4T28/?tag=tolees-21'
 descuento: '58.03'
 average: '29.38'

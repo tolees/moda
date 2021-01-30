@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'TAIPAN Pulseras Mujer 925 Plata Original - Este Pulsera de Moda Viene con una Caja Utilizado como Regalos Originales para Mujer Madre Novia/Pulseras Plata Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCY3KV3/?tag=tolees-21'
 descuento: '30.15'
 average: '13.9'

@@ -16,6 +16,7 @@ comparePrice: 27.96 EUR
 prodname: 'Nike Dry Academy Crew Camiseta  Niños  Negro  Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NFBFNJ/?tag=tolees-21'
 descuento: '60.62'
 average: '11.01'

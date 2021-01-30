@@ -16,6 +16,7 @@ comparePrice: 25.6 EUR
 prodname: 'find. Vestido con Cremallera para Mujer   Verde  Pine Grove   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JJJ1V3/?tag=tolees-21'
 descuento: '62.50'
 average: '9.6'

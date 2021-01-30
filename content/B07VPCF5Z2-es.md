@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: 'Marca Amazon - AURIQUE Sudadera de Manga Larga de Forro Polar Mujer  Rojo  Port   40  Label:M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPCF5Z2/?tag=tolees-21'
 descuento: '18.21'
 average: '3.19'

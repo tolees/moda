@@ -16,6 +16,7 @@ comparePrice: 174.99 EUR
 prodname: 'DC Shoes Spectrum - Chaqueta para Nieve - Hombre - L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTLN138/?tag=tolees-21'
 descuento: '64.58'
 average: '55.165'

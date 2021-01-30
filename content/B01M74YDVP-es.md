@@ -16,6 +16,7 @@ comparePrice: 172.62 EUR
 prodname: 'Eye Candy Collar de doble collar de mujer 925 plata de ley rodio 2 colgante de corazón con 16 circonitas blancas 46 cm ecj de nl0062'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M74YDVP/?tag=tolees-21'
 descuento: '58.38'
 average: '71.85'

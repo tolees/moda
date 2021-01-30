@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Vero Moda NOS Vmexcursion Expedition Aw193/4parka Noos Abrigo  Amarillo  Amber Gold Amber Gold   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVR59ZX/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

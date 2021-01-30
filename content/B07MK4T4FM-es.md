@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jeerhope Guantes de limpieza de látex Fregadora para lavar platos Guantes de goma impermeables para el hogar 2 par  verde claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK4T4FM/?tag=tolees-21'
 descuento: '67.52'
 average: '13.323333333333334'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Pepe Jeans Winter Ronit Sudadera   Black 999   9-10 años  Talla del Fabricante: 9/10 años  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPPXGV/?tag=tolees-21'
 descuento: '52.13'
 average: '21.54'

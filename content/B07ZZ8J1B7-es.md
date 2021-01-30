@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Boxer Calzoncillos Hombre Algodón Orgánico Pack de 3 Negro Azul Blanco  Negro  Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZZ8J1B7/?tag=tolees-21'
 descuento: '40.07'
 average: '17.95'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Nike Dri-FIT Academy Dril Top Camiseta de Manga Larga  Hombre  Azul  Obsidian/White/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDC4NDW/?tag=tolees-21'
 descuento: '30.12'
 average: '27.95'

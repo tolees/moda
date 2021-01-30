@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera  Azul  Navy Blazer   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5ZR24C/?tag=tolees-21'
 descuento: '24.34'
 average: '21.165'

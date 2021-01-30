@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Crocs Yukon Vista Clog M  Zuecos para Hombre  Marrón  Espresso/Espresso 22z   43/44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0774ZGCDX/?tag=tolees-21'
 descuento: '30.01'
 average: '40.214999999999996'

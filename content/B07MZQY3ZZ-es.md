@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Ophelia Blusa  Multicolor  Multi 0aa   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQY3ZZ/?tag=tolees-21'
 descuento: '55.60'
 average: '33.434999999999995'

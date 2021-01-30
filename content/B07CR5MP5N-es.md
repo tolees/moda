@@ -16,6 +16,7 @@ comparePrice: 29.7 EUR
 prodname: 'Cartera Legado Horizontal con Bandera Billetera Tarjetero Monedero Hombre Piel Cuero Hecho en Ubrique Marino Regalo Pulsera Bandera España y Tarjeta Proteccion RFID  Horizontal Marino con Broche '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CR5MP5N/?tag=tolees-21'
 descuento: '19.23'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Hailey Crop Pl203424 Vaqueros evasé   Archive Écru Denim 000   W29/L32  Talla del Fabricante: W29/Regular  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWQG5CT/?tag=tolees-21'
 descuento: '85.63'
 average: '12.92'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Puma Reactive Chaqueta De Entrenamiento  Hombre  Azul  Peacoat-Blue Turquoise White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF9QCWV/?tag=tolees-21'
 descuento: '50.54'
 average: '44.49'

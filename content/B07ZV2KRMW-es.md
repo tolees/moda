@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Helly Hansen HH Tech Crew Camiseta Técnica  Hombre  Navy  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV2KRMW/?tag=tolees-21'
 descuento: '48.04'
 average: '12.99'

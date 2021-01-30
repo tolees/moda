@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Edward Plain  Zapatos de Cordones Derby para Hombre  Marrón  British Tan Leather-   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQVH6SZ/?tag=tolees-21'
 descuento: '75.58'
 average: '32.79'

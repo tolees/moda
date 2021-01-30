@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Greensboro Vaqueros  Gris  Pitch Grey 15d   30W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVKCD4W/?tag=tolees-21'
 descuento: '84.69'
 average: '13.01'

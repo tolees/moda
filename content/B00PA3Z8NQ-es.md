@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Mercedes-Benz Sonnenbrille M1035 Gafas de sol  Dorado  Gold   59.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PA3Z8NQ/?tag=tolees-21'
 descuento: '84.27'
 average: '31.31'

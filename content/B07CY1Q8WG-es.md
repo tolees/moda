@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Zapatillas de Deporte para bebés Zapatos Ocasionales Zapatos para Caminar en Primer Lugar Zapatos de niña niño Zapatos de bebé Sandalias Zapatos de Exterior Zapatos de Princesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CY1Q8WG/?tag=tolees-21'
 descuento: '41.30'
 average: '4.69'

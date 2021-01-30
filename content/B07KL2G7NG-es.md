@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'adidas Essentials Linear Logo tee Camiseta  Hombre  Blanco  White/Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL2G7NG/?tag=tolees-21'
 descuento: '26.02'
 average: '11.782000000000002'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Adidas Ref18 JSY Camiseta de Manga Corta  Hombre  Black  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779CZYRD/?tag=tolees-21'
 descuento: '56.44'
 average: '21.76'

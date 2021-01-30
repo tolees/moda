@@ -16,6 +16,7 @@ comparePrice: 8.4 EUR
 prodname: 'find. Camiseta de Deporte con Paneles de Rejilla Hombre  Azul  Harbor Blue   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QJTSQP/?tag=tolees-21'
 descuento: '42.86'
 average: '4.8'

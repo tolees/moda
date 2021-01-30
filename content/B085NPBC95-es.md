@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: '7 PCS Organizadores de Viaje para Maletas  Bolsas de Equipaje Impermeable Cubos Embalaje de Viaje Bolsas de Almacenamiento para Ropa Zapatos  Cosméticos Accesorios  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085NPBC95/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

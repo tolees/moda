@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox U Nebula C  Zapatillas para Hombre  Beige  Sand C5004   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPPLYB/?tag=tolees-21'
 descuento: '68.18'
 average: '42.07'

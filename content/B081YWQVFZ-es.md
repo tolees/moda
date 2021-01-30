@@ -16,6 +16,7 @@ comparePrice: 69 EUR
 prodname: 'Guantes de Invierno Calientes Impermeable Prueba del Viento Guantes Pantalla Táctil Guantes Deportivos para Hombre y Mujer Guantes Invierno Antideslizante para Running Ciclismo Acampada Senderismo（XL-1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YWQVFZ/?tag=tolees-21'
 descuento: '42.04'
 average: '39.99'

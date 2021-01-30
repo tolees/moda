@@ -16,6 +16,7 @@ comparePrice: 19.8 EUR
 prodname: 'Clarks Willow Gild  Sandalias de Talón Abierto para Mujer  Gris  Grey Snake Grey Snake   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNVPDK3/?tag=tolees-21'
 descuento: '24.60'
 average: '19.795'

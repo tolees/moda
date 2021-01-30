@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Maritsa Mule  Sandalias Punta Cerrada para Mujer  Dorado  Rose Gold Rose Gold   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJNVJXY/?tag=tolees-21'
 descuento: '55.65'
 average: '44.33'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste Ch9623 Camisa  Azul  Marine/Marine 423   Medium  Talla del Fabricante: 39  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HX6FKPZ/?tag=tolees-21'
 descuento: '29.36'
 average: '63.74333333333333'

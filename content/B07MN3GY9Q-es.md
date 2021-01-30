@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Chunky Knit Sudadera  Marfil  Off White MK   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN3GY9Q/?tag=tolees-21'
 descuento: '59.35'
 average: '26.845'

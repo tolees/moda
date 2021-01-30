@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Tous Dorp - Monedero para Mujer  Rosa  10 x 8 x 2.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMW6CK/?tag=tolees-21'
 descuento: '30.51'
 average: '27.1'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox U Goinway B  Sandalias con Punta Abierta para Hombre  Navy/Black C0045  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ2R9GW/?tag=tolees-21'
 descuento: '46.87'
 average: '42.45'

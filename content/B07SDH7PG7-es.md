@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Crocs Classic II Flip  Chanclas Unisex Adulto  Negro  Black 001   43/44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDH7PG7/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

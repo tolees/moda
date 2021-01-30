@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Wrangler Sherpa Jacket Corduroy Chaqueta  Marrón  Russet Brown Xma   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8W7FG2/?tag=tolees-21'
 descuento: '40.00'
 average: '77.97'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Classic Camiseta  Gris  Athletic Heather/Black   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQPTPW9/?tag=tolees-21'
 descuento: '50.80'
 average: '18.71'

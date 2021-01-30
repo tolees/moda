@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Wells C  Zapatillas para Hombre  Azul  Lt Avio C4348   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSJW5JV/?tag=tolees-21'
 descuento: '50.34'
 average: '49.61'

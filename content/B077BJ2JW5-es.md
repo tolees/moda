@@ -16,6 +16,7 @@ comparePrice: 22 EUR
 prodname: 'FIND Camiseta Ciclismo Hombre  Negro  Black/acid Lime   52  Talla del fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BJ2JW5/?tag=tolees-21'
 descuento: '43.77'
 average: '12.37'

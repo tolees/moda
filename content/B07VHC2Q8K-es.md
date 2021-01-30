@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Jack & Jones Jcofigure Parka STS  Negro  Black Pattern: Melange   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHC2Q8K/?tag=tolees-21'
 descuento: '86.83'
 average: '19.76'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'BILLABONG Divine Vestido  Negro  Black 19   X-Small  Tamaño del Fabricante: XS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWKYK9W/?tag=tolees-21'
 descuento: '80.89'
 average: '13.38'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'GANT The Oxford Shirt Reg BD Camiseta Deporte  Blanco  White   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZW37FK/?tag=tolees-21'
 descuento: '30.94'
 average: '62.15'

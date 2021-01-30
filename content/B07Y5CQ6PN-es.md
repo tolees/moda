@@ -16,6 +16,7 @@ comparePrice: 20.88 EUR
 prodname: 'Deevike Pantuflas Zapatillas Mujer Invierno CáLido Zapatos Memory Foam Antideslizante Zapatillas de Estar por Casa Azul 38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5CQ6PN/?tag=tolees-21'
 descuento: '18.63'
 average: '16.99'

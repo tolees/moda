@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Adrien B  Zapatos de Cordones Derby para Hombre  Marrón  Browncotto C6003   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSJW1JD/?tag=tolees-21'
 descuento: '65.84'
 average: '34.13'

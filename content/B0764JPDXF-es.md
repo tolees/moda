@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Kipling IZELLAH  Bolso bandolera para Mujer  Marrón  True Beige   33x23x12 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0764JPDXF/?tag=tolees-21'
 descuento: '37.26'
 average: '38.235'

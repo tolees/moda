@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Classic Camiseta  Rojo  Port Royale/White K1o   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBGZHJY/?tag=tolees-21'
 descuento: '30.03'
 average: '20.99'

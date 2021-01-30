@@ -16,6 +16,7 @@ comparePrice: 6.27 EUR
 prodname: 'Marca Amazon - FIND Mule Wedge Zapatos de tacón con Punta Abierta  Beige  Sand   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XR2WWBS/?tag=tolees-21'
 descuento: '22.17'
 average: '6.755000000000001'

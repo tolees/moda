@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Geox D TABELYA A  Zapatillas para Mujer  Negro  Black/Gun C9b1g   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWV18MW/?tag=tolees-21'
 descuento: '49.67'
 average: '65.3'

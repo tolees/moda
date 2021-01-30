@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Geox J HADRIEL Girl D  Botas Slouch para Niñas  Beige  Smoke Grey C9006   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG1SQG6/?tag=tolees-21'
 descuento: '79.57'
 average: '27.565'

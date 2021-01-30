@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'Under Armour Forefront Rain Chaqueta  Mujer  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQR293K/?tag=tolees-21'
 descuento: '51.00'
 average: '39.2'

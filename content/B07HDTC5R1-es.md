@@ -16,6 +16,7 @@ comparePrice: 71 EUR
 prodname: 'Nike Precision III  Zapatos de Baloncesto Unisex Adulto  Negro  Black/White 002   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HDTC5R1/?tag=tolees-21'
 descuento: '21.18'
 average: '55.96'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Kappa 304TDP0 911 S - Camiseta IRIAMI  talla negro/gris  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YMSQW39/?tag=tolees-21'
 descuento: '40.00'
 average: '18.0'

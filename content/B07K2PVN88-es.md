@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Adidas Adilette Aqua Zapatos de playa y piscina Unisex adulto  Multicolor  Multicolor 000   40 1/2 EU  7 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2PVN88/?tag=tolees-21'
 descuento: '69.87'
 average: '6.01'

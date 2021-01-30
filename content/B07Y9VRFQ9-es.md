@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'edc by Esprit 129cc2g003 Chaqueta  Beige  Beige 270   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9VRFQ9/?tag=tolees-21'
 descuento: '80.94'
 average: '24.77'

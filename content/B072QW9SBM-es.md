@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lee Twin Pack Crew Camiseta  Multicolor  2 Pack Mix Aikw   XX-Large 2 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072QW9SBM/?tag=tolees-21'
 descuento: '48.61'
 average: '14.06'

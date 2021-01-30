@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-Star Sp30506 Dress Vestido  Negro  Black 02   10 años  Talla del Fabricante: 10A  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKX2KY3/?tag=tolees-21'
 descuento: '72.67'
 average: '21.85'

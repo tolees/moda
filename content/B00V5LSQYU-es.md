@@ -16,6 +16,7 @@ comparePrice: 40.67 EUR
 prodname: 'Kempa Pantalón Deporte Core Modern Gris Jaspeado 2XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V5LSQYU/?tag=tolees-21'
 descuento: '65.60'
 average: '13.99'

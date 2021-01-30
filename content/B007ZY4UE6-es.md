@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Rain Shower  32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007ZY4UE6/?tag=tolees-21'
 descuento: '36.41'
 average: '61.705'

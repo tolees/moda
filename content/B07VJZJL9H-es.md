@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'NORTH SAILS Cotton Jersey Sweatshirt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJZJL9H/?tag=tolees-21'
 descuento: '37.76'
 average: '49.73'

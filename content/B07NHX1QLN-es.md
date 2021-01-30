@@ -16,6 +16,7 @@ comparePrice: 7.3 EUR
 prodname: 'Springfield FQ. Apuesta Animal P Camisa  Multicolor  Multicolor 94   38  Tamaño del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHX1QLN/?tag=tolees-21'
 descuento: '19.45'
 average: '7.343333333333333'

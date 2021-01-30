@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Calvin Klein - Trail Flat Crossover  Organizadores de bolso Hombre  Negro  Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1M5HHW/?tag=tolees-21'
 descuento: '50.00'
 average: '37.5'

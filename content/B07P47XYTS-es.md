@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PIECES Pckaysa SL Dress Noos Vestido  Rosa  Peach Skin Peach Skin   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P47XYTS/?tag=tolees-21'
 descuento: '44.78'
 average: '16.56'

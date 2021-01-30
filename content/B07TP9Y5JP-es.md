@@ -16,6 +16,7 @@ comparePrice: 11.09 EUR
 prodname: 'Qkiss Colgante de Diamantes de imitación de Plata Redondo - Charm  Collar Pulsera Accesorios - Joyas Colgantes de Bricolaje  Simples  únicas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TP9Y5JP/?tag=tolees-21'
 descuento: '51.40'
 average: '5.39'

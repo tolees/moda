@@ -16,6 +16,7 @@ comparePrice: 57.85 EUR
 prodname: 'Zapatillas de Hombre - Zapatos Casuales de Paseo Moda Sneaker Antideslizante Mocasín de Gimnasia Deportiva de Correr al Aire Libre Blanco Size: 47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQ7NK4C/?tag=tolees-21'
 descuento: '55.64'
 average: '25.66'

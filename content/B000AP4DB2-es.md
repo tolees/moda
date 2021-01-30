@@ -16,6 +16,7 @@ comparePrice: 69.75 EUR
 prodname: 'Reebok Classic Nylon Zapatilla de Running Hombre  Azul  Team Navy / Platinum   42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000AP4DB2/?tag=tolees-21'
 descuento: '35.50'
 average: '42.105000000000004'

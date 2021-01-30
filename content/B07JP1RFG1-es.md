@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cressi Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Azul Claro/Amarillo  44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JP1RFG1/?tag=tolees-21'
 descuento: '35.85'
 average: '19.24'

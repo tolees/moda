@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Hawiton Pijamas para Mujer Verano Corto Pijama de Algodón Manga Corta  Cómodo y Transpirable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZ7CCRD/?tag=tolees-21'
 descuento: '47.51'
 average: '20.99'

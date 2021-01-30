@@ -16,6 +16,7 @@ comparePrice: 29.63 EUR
 prodname: 'Desigual Skirt Kape Falda  Negro  Negro 2000   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3Y6SRL/?tag=tolees-21'
 descuento: '39.82'
 average: '20.82'

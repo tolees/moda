@@ -16,6 +16,7 @@ comparePrice: 38.17 EUR
 prodname: 'Calvin Klein Hip Brief 3pk Boxer  Rojo  Minnow/Horoscope/Inferno Weu   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSX4BMX/?tag=tolees-21'
 descuento: '47.73'
 average: '19.95'

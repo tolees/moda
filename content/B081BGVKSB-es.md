@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Asics Gel-Pulse 11  Zapatos para Correr Mens  Negro Blanco Negro  43 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BGVKSB/?tag=tolees-21'
 descuento: '39.06'
 average: '63.015'

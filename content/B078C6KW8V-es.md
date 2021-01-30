@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212 Camiseta Polo  Azul  Electrique   2XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078C6KW8V/?tag=tolees-21'
 descuento: '38.96'
 average: '57.99'

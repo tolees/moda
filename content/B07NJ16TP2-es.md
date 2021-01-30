@@ -16,6 +16,7 @@ comparePrice: 6.66 EUR
 prodname: 'Springfield 8.0.Lentejuelas Texto Camiseta  Multicolor  Multicolor 72   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ16TP2/?tag=tolees-21'
 descuento: '27.63'
 average: '5.105'

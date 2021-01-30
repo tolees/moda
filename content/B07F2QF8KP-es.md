@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Helly Hansen Moss Outdoor Chaqueta Impermeable  Hombre  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2QF8KP/?tag=tolees-21'
 descuento: '51.49'
 average: '38.81'

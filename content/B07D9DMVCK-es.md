@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas 18/19 Real Madrid Home Camiseta  Niños  Multicolor  blabas/Negro   176'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9DMVCK/?tag=tolees-21'
 descuento: '61.53'
 average: '25.130000000000003'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mujer Camisones Conjunto de Pijama de Encaje Sexy Elegante Ropa de Interior Dormir Pijamas para Mujer Familias para Todas Las Estaciones Camisones  Rojo Oscuro  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCX4LHF/?tag=tolees-21'
 descuento: '16.25'
 average: '32.99'

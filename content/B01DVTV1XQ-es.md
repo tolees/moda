@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'URAQT Princesa Traje del Vestido  Traje de Princesa Azul con Mariposas Vestido Infantil Disfraz de Princesa de Niñas para Fiesta Carnaval Cumpleaños Cosplay Halloween  130 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DVTV1XQ/?tag=tolees-21'
 descuento: '37.94'
 average: '17.99'

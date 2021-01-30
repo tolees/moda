@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'TEX - Pantalón Corto de Deporte para Hombre  Gris Oscuro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087X8QCV7/?tag=tolees-21'
 descuento: '21.44'
 average: '10.99'

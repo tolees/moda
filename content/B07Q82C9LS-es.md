@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Amilril Collar  árbol de la Vida Colgante  Plata de Ley 925 Moda Joyería  Regalo para Madre Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q82C9LS/?tag=tolees-21'
 descuento: '82.74'
 average: '18.98'

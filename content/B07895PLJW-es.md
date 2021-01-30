@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Big Logo SS Camisa Manga Corta  Hombre  Azul  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07895PLJW/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

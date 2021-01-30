@@ -16,6 +16,7 @@ comparePrice: 10.94 EUR
 prodname: 'find. Lace Up Wedge Bootie Botines  Marrón Tan  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R8FMW2F/?tag=tolees-21'
 descuento: '29.71'
 average: '7.69'

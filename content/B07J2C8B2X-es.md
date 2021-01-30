@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Ivy Vaqueros  Azul  Clean Play Zh   30W / 35L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J2C8B2X/?tag=tolees-21'
 descuento: '68.73'
 average: '28.13'

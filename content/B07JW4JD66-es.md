@@ -16,6 +16,7 @@ comparePrice: 21.84 EUR
 prodname: 'Timberland Davis Square Alpine Oxford  Zapatillas Unisex-Niño  Negro  Black   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW4JD66/?tag=tolees-21'
 descuento: '20.10'
 average: '17.45'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta  Azul  Light Blue Denim Light Blue Denim   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0751KDSXY/?tag=tolees-21'
 descuento: '43.35'
 average: '17.49'

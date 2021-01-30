@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'REEF Fanning  Sandalias Flip-Flop para Hombre  Negro  Black / Silver   39 EU  6 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZUY6OVU/?tag=tolees-21'
 descuento: '32.79'
 average: '36.88333333333333'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Champion Classic Logo Camiseta  Ecru  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072ZTW3P4/?tag=tolees-21'
 descuento: '30.00'
 average: '13.93'

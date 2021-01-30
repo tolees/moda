@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Joma Open II Falda Señora  Mujer  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5JJKVH/?tag=tolees-21'
 descuento: '29.89'
 average: '15.606000000000002'

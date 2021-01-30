@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Armor Lux 77288 Chaqueta  Azul  Rich Navy D85   Medium  Talla del Fabricante: 48  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVV721H/?tag=tolees-21'
 descuento: '60.78'
 average: '117.27'

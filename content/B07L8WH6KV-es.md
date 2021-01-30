@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'REPLAY Anbass Vaqueros Slim  Azul  Dark Blue 7   W34/L32  Talla del Fabricante: 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8WH6KV/?tag=tolees-21'
 descuento: '40.41'
 average: '58.99'

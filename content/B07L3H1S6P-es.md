@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Tommy Hilfiger Essential Logo Sweatshirt Sudadera  Azul  Black Iris 002   98  Talla del Fabricante: 3  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3H1S6P/?tag=tolees-21'
 descuento: '59.96'
 average: '24.616666666666667'

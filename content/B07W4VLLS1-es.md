@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'BAIGIO Bolso de Boda  Clutch Mujer Fiesta Carteras de Mano Ceremonia Bolso de Noche Embrague Bandolera con Cadena Novia  Diamantes  Plateado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4VLLS1/?tag=tolees-21'
 descuento: '16.67'
 average: '19.99'

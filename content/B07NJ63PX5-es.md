@@ -16,6 +16,7 @@ comparePrice: 5.91 EUR
 prodname: 'Springfield Long Sleeve with Pearls Camiseta  Multicolor  Multicolor 43   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ63PX5/?tag=tolees-21'
 descuento: '23.18'
 average: '4.54'

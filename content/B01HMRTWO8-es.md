@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'The North Face T92TX3 Camiseta Easy  Hombre  Blanco  Tnf White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HMRTWO8/?tag=tolees-21'
 descuento: '36.70'
 average: '18.64333333333333'

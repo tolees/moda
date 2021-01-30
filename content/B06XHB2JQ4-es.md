@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Helly Hansen Hombre Seven J Chaqueta para Lluvia Not Applicable  Azul  596 Azul Marino   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHB2JQ4/?tag=tolees-21'
 descuento: '59.56'
 average: '44.48'

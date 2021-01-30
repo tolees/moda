@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Tommy Hilfiger Trunk Bóxer  Azul  Navy Blazer 416   Large  Talla del Fabricante: LG  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MKVZ5Y/?tag=tolees-21'
 descuento: '33.78'
 average: '16.24'

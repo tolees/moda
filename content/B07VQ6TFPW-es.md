@@ -16,6 +16,7 @@ comparePrice: 38.17 EUR
 prodname: 'Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Naranja  Washed Vermillion   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQ6TFPW/?tag=tolees-21'
 descuento: '46.11'
 average: '20.57'

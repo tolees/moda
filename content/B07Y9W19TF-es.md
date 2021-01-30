@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'edc by Esprit 129cc1k040 Camisa Manga Larga  Gris  Light Grey 5 044   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9W19TF/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

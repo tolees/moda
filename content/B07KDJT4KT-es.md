@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas T19 TRK Jkt M Chaqueta de Deporte  Hombre  Team Navy Blue/White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KDJT4KT/?tag=tolees-21'
 descuento: '52.99'
 average: '25.83'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Rowenta Depiladora Flower Love Kit 3 en 1 - EP2853F0-2 velocidades  24 pinzas  Accesorio para depilación zona bikini con 2 peines  accesorio de pinzas con luzy bolsa de viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1PGFR2/?tag=tolees-21'
 descuento: '35.11'
 average: '25.55'

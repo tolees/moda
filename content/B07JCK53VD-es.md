@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Columbia Alpine Action Chaqueta OH Ski de esquí  Mujer  Azul  Nocturnal 467   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCK53VD/?tag=tolees-21'
 descuento: '46.90'
 average: '100.89'

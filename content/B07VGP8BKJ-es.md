@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'HUGO Daple202 Sudadera  Beige  Dark Beige 251   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGP8BKJ/?tag=tolees-21'
 descuento: '75.60'
 average: '26.83'

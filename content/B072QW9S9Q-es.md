@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Lee Logo tee Camiseta  Negro  Black Ai01   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072QW9S9Q/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

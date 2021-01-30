@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Wrangler Western Check Shirt Blusa  Marfil  Off White 737   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F4PLK/?tag=tolees-21'
 descuento: '49.99'
 average: '27.48'

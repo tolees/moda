@@ -16,6 +16,7 @@ comparePrice: 12.14 EUR
 prodname: 'PUMA Liga TR JSY Camiseta de Manga Corta  Hombre  Verde  Pepper Green/White   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Y1QHKG/?tag=tolees-21'
 descuento: '26.44'
 average: '10.94'

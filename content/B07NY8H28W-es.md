@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Art Harlem  Botines para Mujer  Marrón  Brown/Brown Brown/Brown   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY8H28W/?tag=tolees-21'
 descuento: '80.19'
 average: '29.71'

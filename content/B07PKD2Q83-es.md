@@ -16,6 +16,7 @@ comparePrice: 6.41 EUR
 prodname: 'find. Kitten Heel Point Toe Zapatos con Tira de Tobillo  Red  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKD2Q83/?tag=tolees-21'
 descuento: '21.22'
 average: '5.405'

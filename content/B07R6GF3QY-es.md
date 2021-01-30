@@ -16,6 +16,7 @@ comparePrice: 35.98 EUR
 prodname: 'HonourSport Falda Capri para Mujer Deportes faldones Leggings Tenis Golf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6GF3QY/?tag=tolees-21'
 descuento: '27.77'
 average: '25.99'

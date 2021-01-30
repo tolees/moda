@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Travis Vaqueros Skinny  Negro  Berkeley Black Vf1   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXBX3H1/?tag=tolees-21'
 descuento: '30.00'
 average: '44.67'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual TS brulé Camiseta  Negro  Negro 2000   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHW5WG9/?tag=tolees-21'
 descuento: '50.04'
 average: '34.95'

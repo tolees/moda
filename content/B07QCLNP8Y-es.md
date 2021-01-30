@@ -16,6 +16,7 @@ comparePrice: 47.18 EUR
 prodname: 'Roamers - Sandalias Plantilla Espuma viscoelástica de Cierre Adhesivo  44 EU   Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCLNP8Y/?tag=tolees-21'
 descuento: '33.34'
 average: '31.7'

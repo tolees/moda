@@ -16,6 +16,7 @@ comparePrice: 47.95 EUR
 prodname: 'Bruetting Countdown  Zapatos de Low Rise Senderismo para Hombre  Schwarz/Blau/Lemon  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZPL8DP/?tag=tolees-21'
 descuento: '67.76'
 average: '15.46'

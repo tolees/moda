@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello Pico  Verde  Khaki   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WHS8JJ/?tag=tolees-21'
 descuento: '57.58'
 average: '14.38'

@@ -16,6 +16,7 @@ comparePrice: 16.81 EUR
 prodname: 'P Prettyia 20 Juegos De Botines con Ganchos De Encaje con Remaches Hebillas De Cordones Reparación Y Senderismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JF2SCPH/?tag=tolees-21'
 descuento: '44.44'
 average: '9.34'

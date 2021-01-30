@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'riou Bikini Conjuntos de Bikinis para Mujer Push Up Mujeres Traje de BañO Estampado Bohemio Dividido BañAdores con Relleno Tops y Braguitas Mujer 2019 brasileños vikinis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R32FWRV/?tag=tolees-21'
 descuento: '86.86'
 average: '1.97'

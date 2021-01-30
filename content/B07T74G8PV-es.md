@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Tag Heuer Brillengestelle Th-0552 Monturas de gafas  Multicolor  Mehrfarbig   57.0 Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T74G8PV/?tag=tolees-21'
 descuento: '51.08'
 average: '146.28'

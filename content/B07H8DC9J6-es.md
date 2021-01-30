@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'WinCret Piel Carteras para Hombre con Monedero y RFID Bloqueo - Billetera Hombre con 8 Ranuras para Tarjeta de película'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8DC9J6/?tag=tolees-21'
 descuento: '51.14'
 average: '21.456666666666667'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Union Wharf 2 Eye Oxford  Náuticos para Hombre  Azul Navy Canvas  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779PQD5P/?tag=tolees-21'
 descuento: '50.00'
 average: '37.794000000000004'

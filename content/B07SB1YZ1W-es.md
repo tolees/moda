@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Helly Hansen HP Fleece Jacket Chaqueta  Hombre  Royal Blue  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB1YZ1W/?tag=tolees-21'
 descuento: '50.46'
 average: '54.49'

@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Superdry Surplus Goods Box FIT tee Camiseta  Turchese  Capri C3h   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZH8M1S/?tag=tolees-21'
 descuento: '58.62'
 average: '18.58'

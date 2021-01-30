@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Columbia Marquam Peak  Chaqueta de invierno  Hombre   Negro  Black   Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R92NCFC/?tag=tolees-21'
 descuento: '36.93'
 average: '157.66'

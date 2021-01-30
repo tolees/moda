@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Mujer Vestido 1950 s Vintage Retro de Cóctel Fiesta Vestido S CL010698-8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3R66BH/?tag=tolees-21'
 descuento: '33.34'
 average: '25.490000000000002'

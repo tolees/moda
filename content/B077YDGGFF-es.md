@@ -16,6 +16,7 @@ comparePrice: 30.95 EUR
 prodname: 'HIKARO Pantalón Deportivo Estilo Jogger Hombre  Gris  Light Grey   48  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YDGGFF/?tag=tolees-21'
 descuento: '38.87'
 average: '18.92'

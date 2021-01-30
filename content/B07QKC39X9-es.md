@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'edc by Esprit 069cc2k006 Camiseta  Azul  Navy 400   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKC39X9/?tag=tolees-21'
 descuento: '56.29'
 average: '6.99'

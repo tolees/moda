@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'G-Star Sp15505 Sweat Sudadera  Gris  China Grey 20   5 años  Talla del Fabricante: 5A  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SP3NN7P/?tag=tolees-21'
 descuento: '66.38'
 average: '15.11'

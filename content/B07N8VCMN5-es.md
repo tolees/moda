@@ -16,6 +16,7 @@ comparePrice: 108.32 EUR
 prodname: 'Rockport Marshall Plain Toe  Zapatos de Cordones Oxford para Hombre  Marrón  Java 001   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8VCMN5/?tag=tolees-21'
 descuento: '76.15'
 average: '25.83'

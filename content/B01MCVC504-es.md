@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: '2019 bolsos mujer bolso mujer bolsos bandolera mujer bolsos-mujer carteras y bolsos de mujer bolsas para mujeres 2017 clutch monederos para mujer bolso bandolera mujer bolso piel mujer alta calidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCVC504/?tag=tolees-21'
 descuento: '37.54'
 average: '14.99'

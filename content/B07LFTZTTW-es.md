@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox U KAVEN B  Zapatillas para Hombre  Negro  Black C9997   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFTZTTW/?tag=tolees-21'
 descuento: '66.81'
 average: '31.99666666666667'

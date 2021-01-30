@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Clarks Calla Blossom  Botines para Mujer  Negro  Black SDE Black SDE   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HD24F/?tag=tolees-21'
 descuento: '66.58'
 average: '46.724999999999994'

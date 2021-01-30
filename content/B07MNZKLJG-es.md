@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Lacoste Th8550 Camiseta  Azul  Marine 166   X-Small  Talla del Fabricante: 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNZKLJG/?tag=tolees-21'
 descuento: '52.29'
 average: '32.69666666666667'

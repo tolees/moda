@@ -16,6 +16,7 @@ comparePrice: 24.25 EUR
 prodname: 'CARE OF by PUMA Chaqueta Hombre  Gris  Grey  Silver    S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2BZVSS/?tag=tolees-21'
 descuento: '24.62'
 average: '19.360000000000003'

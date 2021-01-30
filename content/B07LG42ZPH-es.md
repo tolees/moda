@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Geox J ALBEN Boy A  Zapatillas para Niños  Azul  Navy/Military Cf4a3   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG42ZPH/?tag=tolees-21'
 descuento: '19.34'
 average: '52.43'

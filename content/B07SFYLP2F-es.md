@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s June L S  Chanclas para Mujer  Negro  R Black 59   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFYLP2F/?tag=tolees-21'
 descuento: '32.04'
 average: '16.99'

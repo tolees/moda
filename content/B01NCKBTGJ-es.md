@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Amarillo  Wheat Nubuck   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCKBTGJ/?tag=tolees-21'
 descuento: '37.89'
 average: '86.95'

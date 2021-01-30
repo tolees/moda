@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Geox J SPACECLUB Girl B  Zapatillas para Niñas  Rosa Antique Rose C8056  32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZ7XYK/?tag=tolees-21'
 descuento: '30.02'
 average: '44.33666666666667'

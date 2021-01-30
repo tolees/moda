@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Geox D Nebula A  Zapatillas para Mujer  Rosa  Antique Rose   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076B4BF7L/?tag=tolees-21'
 descuento: '35.28'
 average: '79.63'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'FM London Fitted Boxer  Azul  Dark Assorted 03   Medium  Pack de 8  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLDVCLL/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

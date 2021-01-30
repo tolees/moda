@@ -16,6 +16,7 @@ comparePrice: 140 EUR
 prodname: 'Pepe Jeans Pinner Chaqueta Vaquera   Raw DLX Denim 000   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CRJ7LPK/?tag=tolees-21'
 descuento: '63.21'
 average: '52.123333333333335'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pepe Jeans Hatch Vaqueros Slim   120z Deep Sea Denim Denim 000   W31/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ86L6/?tag=tolees-21'
 descuento: '40.41'
 average: '56.20571428571429'

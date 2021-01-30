@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Reebok Boxer para Hombre  Multicolor  Small  pack de 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFWP8J5/?tag=tolees-21'
 descuento: '42.91'
 average: '17.07'

@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Geox D Nebula a  Zapatillas para Mujer  Negro  BLACKC9999   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012A3HYI0/?tag=tolees-21'
 descuento: '50.00'
 average: '44.557500000000005'

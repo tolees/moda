@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Zapatos de Hombres  Zapatillas de Deportivos Running para Hombre Zapatillas de Trabajo Ultra Liviano Reflectivo Transpirable Negro Black 41EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD8Z39G/?tag=tolees-21'
 descuento: '50.01'
 average: '34.99'

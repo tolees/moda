@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Heston-Rogic  Zapatos de Cordones Oxford para Hombre  Gris  Grey Gry   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMCGHDG/?tag=tolees-21'
 descuento: '31.49'
 average: '44.5'

@@ -16,6 +16,7 @@ comparePrice: 95.62 EUR
 prodname: 'BOSS Maine BC-c Vaqueros Straight  Negro  Black 002   32W/32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRG2PSQ/?tag=tolees-21'
 descuento: '51.73'
 average: '56.055'

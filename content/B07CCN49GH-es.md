@@ -16,6 +16,7 @@ comparePrice: 30.12 EUR
 prodname: 'Eyekepper Moda Deportes Bifocal Gafas de sol TR90 Irrompible Lectores al aire libre Béisbol Running Pesca Conducción Golf Softball Senderismo Blanco Marco Gris Lente +3.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCN49GH/?tag=tolees-21'
 descuento: '50.00'
 average: '15.06'

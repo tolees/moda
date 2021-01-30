@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Wells C  Zapatillas para Hombre  Gris  Stone/Grey C9030   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFYY1RY/?tag=tolees-21'
 descuento: '62.39'
 average: '38.760000000000005'

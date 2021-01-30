@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Powder Pass Chaqueta Híbrida sin Mangas  Hombre  Azul  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BJVF3J/?tag=tolees-21'
 descuento: '73.88'
 average: '26.12'

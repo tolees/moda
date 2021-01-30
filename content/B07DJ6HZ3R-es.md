@@ -16,6 +16,7 @@ comparePrice: 39 EUR
 prodname: 'Lacoste Sol 119 1 Cuc  Sandalias de Punta Descubierta Unisex Niños  Rosa  Dk Lt Pnk 2j4   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ6HZ3R/?tag=tolees-21'
 descuento: '48.79'
 average: '19.97'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox Alfier B J A  Zapatillas de Deporte para Niños  Gris  Grey/Red C0051   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWT6LBL/?tag=tolees-21'
 descuento: '35.96'
 average: '38.36'

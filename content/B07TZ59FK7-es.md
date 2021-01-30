@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Women s Secret Cozy Animals Ca Flamingo PJ Conjuntos de Pijama  Gris  Gama Grises 44   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ59FK7/?tag=tolees-21'
 descuento: '63.13'
 average: '12.9'

@@ -16,6 +16,7 @@ comparePrice: 95 EUR
 prodname: 'Pepe Jeans Auriga Chaqueta   Black 999   11-12  Talla del Fabricante: 11/12 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZM9S4B/?tag=tolees-21'
 descuento: '42.64'
 average: '54.49'

@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Geox D BACKSIE B ABX C  Botas de Nieve para Mujer  Beige  Chestnut C6004   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC22JTF/?tag=tolees-21'
 descuento: '45.52'
 average: '79.0'

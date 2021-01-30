@@ -16,6 +16,7 @@ comparePrice: 57.84 EUR
 prodname: 'ACVIP - Abrigo - Chaqueta Guateada - para niña Red 2 7-8 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVLWWGW/?tag=tolees-21'
 descuento: '44.43'
 average: '32.14'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Powder Pass Chaleco  Hombre  Negro  Black   Talla-XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSPY7H2/?tag=tolees-21'
 descuento: '33.73'
 average: '53.01'

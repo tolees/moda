@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Case Logic DSS101 - Bolso para cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IDYS066/?tag=tolees-21'
 descuento: '48.38'
 average: '38.195'

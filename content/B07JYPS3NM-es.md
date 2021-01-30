@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Western Denim Shirt Msmb Camisa  Azul  Mission Mid Bl Rig 911   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYPS3NM/?tag=tolees-21'
 descuento: '44.28'
 average: '38.95'

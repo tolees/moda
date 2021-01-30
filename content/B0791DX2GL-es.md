@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Azul  Blue Jean 4gx   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0791DX2GL/?tag=tolees-21'
 descuento: '55.21'
 average: '12.09'

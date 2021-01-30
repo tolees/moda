@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Dr. Martens 1460  Zapatos de Vestir Unisex Adulto  Negro  36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BC3VC42/?tag=tolees-21'
 descuento: '15.71'
 average: '177.0'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'APALUS Bolsa Desodorante para Zapatos  Bolsa De Carbón Activo De Bambú  Elimina los Olores de Zapatos Deshumidificador Y Purificador De Aire. Bolsas de Gimnasio  Areneros de Gatos  75GX2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074XSX4B7/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

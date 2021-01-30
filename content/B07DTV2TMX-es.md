@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Lacoste Croco Slide 119 3 Cfa  Sandalias de Punta Descubierta para Mujer  Blanco  Wht/Lt Pnk 1y9   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTV2TMX/?tag=tolees-21'
 descuento: '28.23'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Tiro19 Pre Jkty Chaqueta de Deporte  Unisex niños  Dark Blue/Black/White  1516'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KDFQ92T/?tag=tolees-21'
 descuento: '58.06'
 average: '20.95'

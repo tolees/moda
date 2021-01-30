@@ -16,6 +16,7 @@ comparePrice: 13.23 EUR
 prodname: 'Maglev Essentials BDX011M5 Camiseta  Multicolor  Grey Mélange  Anthracite Mélange   XL  Pack de 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLVH14G/?tag=tolees-21'
 descuento: '32.12'
 average: '8.98'

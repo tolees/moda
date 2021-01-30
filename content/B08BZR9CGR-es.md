@@ -16,6 +16,7 @@ comparePrice: 16.52 EUR
 prodname: 'Summer Baby Kids Cómodo y suave mono corto de manga corta con estampado de letras Cuello redondo Camiseta con cuello redondo Baby Boys - Negro Gris - 100cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZR9CGR/?tag=tolees-21'
 descuento: '33.47'
 average: '10.99'

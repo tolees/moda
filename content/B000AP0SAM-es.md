@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reebok Classic Nylon Zapatilla de Running Hombre  Blanco  White / Light Grey   42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000AP0SAM/?tag=tolees-21'
 descuento: '35.03'
 average: '45.45'

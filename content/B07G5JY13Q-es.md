@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'Marca Amazon - Hem & Seam Camisa Lisa Regular Fit Hombre  Pack de 3  Blau  Blue / Blue / Blue   39 cm  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5JY13Q/?tag=tolees-21'
 descuento: '52.00'
 average: '16.32'

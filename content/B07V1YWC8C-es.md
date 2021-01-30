@@ -16,6 +16,7 @@ comparePrice: 44.25 EUR
 prodname: 'Hi-Tec Damis - Sudadera de Forro Polar para Hombre  otoño/Invierno  Hombre  Color Light Seaport Melange  tamaño Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1YWC8C/?tag=tolees-21'
 descuento: '70.26'
 average: '13.16'

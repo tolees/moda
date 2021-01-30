@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'J.Rosée Caja de Organizador de joyería de Viaje pequeña para Anillos Pendientes Collar  Estuche de Almacenamiento de joyería portátil con Espejo Incorporado  Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X53X6NQ/?tag=tolees-21'
 descuento: '60.06'
 average: '10.132857142857143'

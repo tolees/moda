@@ -16,6 +16,7 @@ comparePrice: 15.1 EUR
 prodname: 'Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Azul  Bright Cobalt 4jl   20/21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KBH36YT/?tag=tolees-21'
 descuento: '16.09'
 average: '12.67'

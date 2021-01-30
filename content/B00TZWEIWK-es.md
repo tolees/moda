@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Lumaland Horma de Zapatos de alta calidad para hombres y mujeres en madera de cedro con doble resorte Unisex talla 40/41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TZWEIWK/?tag=tolees-21'
 descuento: '26.68'
 average: '21.99'

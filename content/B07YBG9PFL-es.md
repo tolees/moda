@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Classic Camiseta  Amarillo  Sulphur Spring/Asphalt Ync   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBG9PFL/?tag=tolees-21'
 descuento: '35.03'
 average: '19.49'

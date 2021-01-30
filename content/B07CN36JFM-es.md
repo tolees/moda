@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Santa Cruz Canvas Flip Men  Zapatos de Playa y Piscina para Hombre  Marrón  Espresso/Khaki 22y   M12  46/47'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN36JFM/?tag=tolees-21'
 descuento: '80.27'
 average: '7.89'

@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'LolaPix Bolso Tela Profesor y Profesora Personalizado con Nombre del Maestro o Maestra. Regalo Original Fin de Curso. Tote Bag. Varios dieños. Bolsa Nature. Mejor Profesor del Mundo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9J2ZCG/?tag=tolees-21'
 descuento: '22.03'
 average: '24.95'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Lacoste TH6709  Camiseta para Hombre  Blanco  Blanc   3XL  Talla del fabricante: 8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDTK768/?tag=tolees-21'
 descuento: '39.02'
 average: '30.49'

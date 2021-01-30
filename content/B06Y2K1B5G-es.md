@@ -16,6 +16,7 @@ comparePrice: 88.25 EUR
 prodname: 'Buffalo London Es 30993 PU Patent  Zapatos de Vestir para Mujer  Negro  Preto 01   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2K1B5G/?tag=tolees-21'
 descuento: '79.69'
 average: '19.565'

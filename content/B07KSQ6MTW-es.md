@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Hombre Chaqueta Polar con Cremallera Completa  FAST TREK II FULL ZIP FLEECE  Poliéster  Rojo  Tapestry  Dark Merlot   Talla: XS  1420421'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSQ6MTW/?tag=tolees-21'
 descuento: '54.61'
 average: '22.69'

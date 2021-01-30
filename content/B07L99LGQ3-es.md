@@ -16,6 +16,7 @@ comparePrice: 112.41 EUR
 prodname: 'Spiuk Altube MTB Zapatilla  Unisex Adulto  Amarillo Flúor Mate  48'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L99LGQ3/?tag=tolees-21'
 descuento: '46.73'
 average: '59.88'

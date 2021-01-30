@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Lacoste TH6709 Camiseta  Rojo  Rouge   XX-Large  Talla del Fabricante: 7  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M72AS4O/?tag=tolees-21'
 descuento: '23.73'
 average: '41.95'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Serena Sandal Women  Sandalias de Punta Descubierta para Mujer  Rojo  Poppy 611   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K91P4WP/?tag=tolees-21'
 descuento: '59.42'
 average: '13.525'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Quiksilver Carver Deluxe  Zapatos de Playa y Piscina para Hombre  Verde  Green/Green/Green Xggg   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYLJJX6/?tag=tolees-21'
 descuento: '49.24'
 average: '12.671249999999999'

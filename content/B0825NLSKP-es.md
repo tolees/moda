@@ -16,6 +16,7 @@ comparePrice: 13.44 EUR
 prodname: 'Quiksilver Colors In Stereo - Camiseta para Hombre Screen tee  Hombre  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825NLSKP/?tag=tolees-21'
 descuento: '25.67'
 average: '11.139999999999999'

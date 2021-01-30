@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'G-STAR RAW Xpo Overshirt Chaqueta  Negro  Sartho Blue 6067   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9QKTTR/?tag=tolees-21'
 descuento: '70.43'
 average: '44.855000000000004'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Regent Vaqueros  Negro  Denim H96   33W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N561AGO/?tag=tolees-21'
 descuento: '50.00'
 average: '47.46666666666667'

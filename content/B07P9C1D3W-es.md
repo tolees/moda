@@ -16,6 +16,7 @@ comparePrice: 4.59 EUR
 prodname: 'JACK & JONES Jcoleaf tee SS Crew Neck Camiseta  Naranja  Cherry Tomato Fit: Reg Box Fit   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9C1D3W/?tag=tolees-21'
 descuento: '19.39'
 average: '3.7'

@@ -16,6 +16,7 @@ comparePrice: 50.47 EUR
 prodname: 'BOYOU Guantes de Ciclismo a Prueba de Viento para Hombre  Guantes de Invierno con Pantalla táctil para Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZMN6T2/?tag=tolees-21'
 descuento: '68.32'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 21.18 EUR
 prodname: 'find. NEWSTW050 vaqueros mujer cintura alta   Azul  Bright Vintage   W33/L32  Talla del Fabricante: 42/44 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075X2RL4N/?tag=tolees-21'
 descuento: '61.90'
 average: '8.07'

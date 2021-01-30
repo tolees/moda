@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'JACK & JONES Jjialvin Jjsherpa Corduroy Akm555 STS Chaqueta Vaquera  Negro  Black Black   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5SXWGX/?tag=tolees-21'
 descuento: '61.42'
 average: '27.0'

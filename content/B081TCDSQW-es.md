@@ -16,6 +16,7 @@ comparePrice: 28.32 EUR
 prodname: 'Disfraz Anna Frozen Niñas con Capa Princesa Ana Vestido Traje Princesa Elsa para Halloween Fiesta Fancy Dress Manga Larga con Capa Traje Infantil Nieve Hielo Fiesta Rojo 3-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TCDSQW/?tag=tolees-21'
 descuento: '50.00'
 average: '14.16'

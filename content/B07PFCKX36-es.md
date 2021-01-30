@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Tous Doromy  Bolso bandolera para Mujer  Multicolor  Fucsia/Marino 995810349   18x13x5 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFCKX36/?tag=tolees-21'
 descuento: '50.00'
 average: '34.5'

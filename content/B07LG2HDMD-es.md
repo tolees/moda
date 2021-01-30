@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Hiver D  Zapatillas sin Cordones para Mujer  Azul  DK Navy C4021   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG2HDMD/?tag=tolees-21'
 descuento: '71.37'
 average: '31.46'

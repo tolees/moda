@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Jack & Jones JPRBLUWIN Polo SS STS Camisa  Azul Marino  XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08127SZPG/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

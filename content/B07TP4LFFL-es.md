@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Superdry Namid Pockets Bomber Chaqueta  Marrón  Bungee Cord Gs0   XL  Talla del Fabricante:16  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TP4LFFL/?tag=tolees-21'
 descuento: '49.50'
 average: '50.49'

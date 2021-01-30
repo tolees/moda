@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Napapijri GOAYO Camisa Casual  Naranja  Orange Check 15C   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M83VSDB/?tag=tolees-21'
 descuento: '50.00'
 average: '44.5'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Lafley Lily  Sandalias de Talón Abierto para Mujer  Rojo  Red Red   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMWRZHW/?tag=tolees-21'
 descuento: '68.62'
 average: '25.09'

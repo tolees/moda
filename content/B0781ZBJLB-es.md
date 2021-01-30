@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Liga Training Rain Core Camiseta de equipación  Hombre  Negro Black White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781ZBJLB/?tag=tolees-21'
 descuento: '58.32'
 average: '20.82'

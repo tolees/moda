@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Wrangler Graphic Logo tee Camiseta  Marfil  Off White 737   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8LPZ4N/?tag=tolees-21'
 descuento: '49.99'
 average: '17.48'

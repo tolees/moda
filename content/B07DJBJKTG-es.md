@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox D Rubidia A  Zapatillas para Mujer  Marrón  Curry C2021   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJBJKTG/?tag=tolees-21'
 descuento: '61.99'
 average: '45.57'

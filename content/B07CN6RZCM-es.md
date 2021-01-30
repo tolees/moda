@@ -16,6 +16,7 @@ comparePrice: 14.36 EUR
 prodname: 'Hollywood Star Fashion Camisa de Manga Corta con Cuello en V Profundo para Mujer - Azul - Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN6RZCM/?tag=tolees-21'
 descuento: '72.21'
 average: '3.99'

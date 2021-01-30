@@ -16,6 +16,7 @@ comparePrice: 48.06 EUR
 prodname: 'Teva W Hurricane Xlt2  Sandalias de Punta Descubierta para Mujer  Negro  Black Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K4JCPN/?tag=tolees-21'
 descuento: '39.41'
 average: '29.12'

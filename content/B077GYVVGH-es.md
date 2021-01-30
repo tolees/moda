@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Rosa  Carnation/Amethyst   25/26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GYVVGH/?tag=tolees-21'
 descuento: '35.01'
 average: '17.793333333333333'

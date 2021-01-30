@@ -16,6 +16,7 @@ comparePrice: 18.35 EUR
 prodname: 'Karactermania Harry Potter Relic-Action Mini Horizontal Schultertasche Bolso Bandolera 22 Centimeters Multicolor  Multicolour '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5FWFLV/?tag=tolees-21'
 descuento: '53.95'
 average: '8.45'

@@ -16,6 +16,7 @@ comparePrice: 31.81 EUR
 prodname: 'Springfield 7Ba Jacquard Posicionado Jersey  Azul  Blue 11   X-Large  Tamaño del Fabricante: XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQTB33P/?tag=tolees-21'
 descuento: '52.88'
 average: '14.99'

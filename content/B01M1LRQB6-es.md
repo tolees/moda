@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'El Naturalista N413 PLEASANT BLACK / WAKATAUA Sandalias con punta cerrada Mujer  Negro  Black   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1LRQB6/?tag=tolees-21'
 descuento: '65.41'
 average: '32.86'

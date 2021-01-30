@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'WeciBor Calcetines cortos Mujer Estampados Mujer Ocasionales Calcetines Divertidos Impresos de Algodón de Pintura de Arte Calcetines Verano Tobillo Calcetines de Colores de moda  EUR 37-43  ESB052-95 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0881VR8PR/?tag=tolees-21'
 descuento: '51.87'
 average: '22.32333333333333'

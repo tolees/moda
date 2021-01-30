@@ -16,6 +16,7 @@ comparePrice: 29.3 EUR
 prodname: 'find. Large Buckle Block Heel Sandal Sandalias con Punta Abierta  Negro Black  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMJ4K8Q/?tag=tolees-21'
 descuento: '19.39'
 average: '23.62'

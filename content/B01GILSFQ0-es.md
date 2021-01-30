@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Calvin Klein 2PK Trunk  Bóxer para Niños  Multicolor  White/Grey Htr 926   14-16 años  Pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GILSFQ0/?tag=tolees-21'
 descuento: '19.88'
 average: '19.95'

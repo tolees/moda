@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'Helly Hansen Swift 4.0 Aislado Chaqueta de Esquí  Hombre  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C3BNN3/?tag=tolees-21'
 descuento: '55.11'
 average: '134.66'

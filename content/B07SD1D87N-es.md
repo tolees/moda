@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'PUMA Popcat 20 TS  Sandalias deslizantes Unisex-Adulto  Negro Black White  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD1D87N/?tag=tolees-21'
 descuento: '34.68'
 average: '14.99'

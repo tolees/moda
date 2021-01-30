@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Joma Combi Camiseta Manga Corta  Hombre  Negro  8-10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RXZLOK0/?tag=tolees-21'
 descuento: '33.07'
 average: '5.99'

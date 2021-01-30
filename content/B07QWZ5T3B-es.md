@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Helly Hansen Lifaloft Insulator Vest Chaleco Aislante  Hombre  Gris  Charcoal CA   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWZ5T3B/?tag=tolees-21'
 descuento: '72.68'
 average: '40.98'

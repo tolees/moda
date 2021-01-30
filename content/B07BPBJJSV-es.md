@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Slider Vaqueros  Azul  Indigo Wit 25F   34W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPBJJSV/?tag=tolees-21'
 descuento: '29.99'
 average: '59.47'

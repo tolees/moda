@@ -16,6 +16,7 @@ comparePrice: 73.99 EUR
 prodname: 'ElegantPark HC1509 Zapatos de tacón Zapato con Cierre Raso Cerrado Zapatos de Novia Mujer Marfil Talla 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V5REM4W/?tag=tolees-21'
 descuento: '32.44'
 average: '49.99'

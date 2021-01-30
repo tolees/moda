@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Core Logo Tag tee Camiseta  Azul  Royal Blue 49g   XXS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9S2RJM/?tag=tolees-21'
 descuento: '49.93'
 average: '17.52'

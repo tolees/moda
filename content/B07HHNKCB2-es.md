@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Crocs Literide Clog  Zuecos Unisex Adulto  Azul  Navy/Pepper   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHNKCB2/?tag=tolees-21'
 descuento: '36.37'
 average: '34.99'

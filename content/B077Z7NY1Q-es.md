@@ -16,6 +16,7 @@ comparePrice: 18.39 EUR
 prodname: 'HIKARO Sudadera con Print Hombre  Azul  Navy   50  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Z7NY1Q/?tag=tolees-21'
 descuento: '51.66'
 average: '9.547142857142857'

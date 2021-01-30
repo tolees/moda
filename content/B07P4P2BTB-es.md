@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Art 1521 Grass Black/Mainz  Zapatos de Cordones para Hombre  Negro  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4P2BTB/?tag=tolees-21'
 descuento: '85.86'
 average: '17.68'

@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Vans Left Chest Logo tee  Camiseta para Hombre  Negro  Black White Grey Melange  XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2M1KNK/?tag=tolees-21'
 descuento: '30.05'
 average: '13.99'

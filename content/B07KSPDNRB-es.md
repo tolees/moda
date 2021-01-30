@@ -16,6 +16,7 @@ comparePrice: 50.97 EUR
 prodname: 'AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Regalo Gris Circonita Cúbica Cuadrado 1.4x1.4CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSPDNRB/?tag=tolees-21'
 descuento: '64.70'
 average: '17.99'

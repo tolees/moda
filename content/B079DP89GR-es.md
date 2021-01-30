@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ever-Pretty A-línea Vestido de Noche Gasa Cuello en V sin Mangas Largo para Mujer Borgoña 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DP89GR/?tag=tolees-21'
 descuento: '25.00'
 average: '56.656666666666666'

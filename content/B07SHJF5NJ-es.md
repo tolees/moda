@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Burton Oak Sudadera  Hombre  Keef Heather  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHJF5NJ/?tag=tolees-21'
 descuento: '59.43'
 average: '26.37'

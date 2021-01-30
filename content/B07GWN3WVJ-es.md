@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'LEABAGS Detroit Bolso Bandolera de auténtico Cuero búfalo en el Estilo Vintage - Rouge'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWN3WVJ/?tag=tolees-21'
 descuento: '65.62'
 average: '52.48'

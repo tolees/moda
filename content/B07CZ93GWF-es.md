@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Under Armour UA Qualifier Shortsleeve Camiseta  Hombre  Gris  Mod Gray/Mod Gray/Reflective 011   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ93GWF/?tag=tolees-21'
 descuento: '65.77'
 average: '15.4'

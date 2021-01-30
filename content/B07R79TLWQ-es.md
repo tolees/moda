@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Vestidos Mujer Casual Playa Largos Verano Floral Vestido Boho Hendidura Falda Larga Maxi Vestido Playeros Monofloral y L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R79TLWQ/?tag=tolees-21'
 descuento: '64.31'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Tech Short Sleeve-Twist Camiseta  Mujer  Negro  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019ZFGNP6/?tag=tolees-21'
 descuento: '53.93'
 average: '12.5825'

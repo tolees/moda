@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Helly Hansen Jacke W Loke  Chaqueta Deportiva para Mujer  Negro  Black 990   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KYV34Z8/?tag=tolees-21'
 descuento: '61.86'
 average: '38.5'

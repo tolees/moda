@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'find. 13641 vestido fiesta mujer  Negro  Black   40  Talla del Fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU0XXLP/?tag=tolees-21'
 descuento: '24.53'
 average: '12.0'

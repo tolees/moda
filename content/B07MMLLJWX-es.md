@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Napapijri Aric Chaqueta  Azul  French Blue BB7   XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLLJWX/?tag=tolees-21'
 descuento: '75.23'
 average: '86.44'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Azul  Blue Jean-Pool 4io   45-46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN8XRTQ/?tag=tolees-21'
 descuento: '29.98'
 average: '31.5'

@@ -16,6 +16,7 @@ comparePrice: 27.77 EUR
 prodname: 'Skechers Reggae-Zig Swag 48228  Chanclas para Mujer  Azul  Navy   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07598DJVP/?tag=tolees-21'
 descuento: '39.47'
 average: '16.81'

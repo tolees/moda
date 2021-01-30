@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 711 Skinny Vaqueros  Negro  Blacks   W26/L34 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0166YCBXW/?tag=tolees-21'
 descuento: '66.79'
 average: '39.01'

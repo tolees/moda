@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Liga Sideline Poly Pants Core Pantalón  Hombre  Azul  Azul Oscuro/Blanco   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07864YJXM/?tag=tolees-21'
 descuento: '39.90'
 average: '18.0'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Kitty C-nk Sweatshirt LS Sudadera   Light Grey Heather PYT   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFC6PX2/?tag=tolees-21'
 descuento: '50.00'
 average: '49.95'

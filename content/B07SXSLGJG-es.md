@@ -16,6 +16,7 @@ comparePrice: 62.57 EUR
 prodname: 'Geox U IACOPO A  Zapatos de Cordones Oxford para Hombre  Marrón  Dk Brown C6006   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXSLGJG/?tag=tolees-21'
 descuento: '18.49'
 average: '50.9475'

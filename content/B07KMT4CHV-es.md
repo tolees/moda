@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'adidas Essentials Linear Logo Camiseta  Niños  Negro  Black/White   128'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMT4CHV/?tag=tolees-21'
 descuento: '32.78'
 average: '10.05'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Willow Glad  Sandalias de Gladiador para Mujer  Negro  Black Leather Black Leather   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYMZGK/?tag=tolees-21'
 descuento: '54.77'
 average: '40.68'

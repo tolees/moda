@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Elly Vaqueros  Negro/Lavado Negro  Light Blue Taos Bg   W25/L33 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8VLGJ7/?tag=tolees-21'
 descuento: '86.00'
 average: '16.44'

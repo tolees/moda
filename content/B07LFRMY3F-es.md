@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D ANNYTAH D  Bailarinas para Mujer  Azul  Navy C4002   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRMY3F/?tag=tolees-21'
 descuento: '30.00'
 average: '62.93'

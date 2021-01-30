@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Oihxse Billetera Cuero Funda Compatible con Samsung Galaxy A21 PU Libro Tapa Flip Soporte Plegable Protector Magnético Carcasa Gato Perro Lindo Animal Diseño Wallet Case-Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WW66XM/?tag=tolees-21'
 descuento: '23.11'
 average: '9.98'

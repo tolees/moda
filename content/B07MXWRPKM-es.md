@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual 19WAXPAF - Bolso de hombro de Sintético Mujer 36x16x31 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXWRPKM/?tag=tolees-21'
 descuento: '55.86'
 average: '35.849999999999994'

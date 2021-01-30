@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Seidensticker X-Slim Fit Langarm Mit Business Kent-Kragen Bügelfrei Uni-100% Baumwolle Camisa  Azul  Hellblau 11   38  Talla del Fabricante: 36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N25NC9P/?tag=tolees-21'
 descuento: '62.11'
 average: '18.94'

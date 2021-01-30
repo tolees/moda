@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'I IHAYNER Mochila Para Mujer Mini Mochila Para Mujer Mochilas Lindas Mochila de Cuero de PU Monedero Señoras Mochila Bolsa de Hombro Para Niñas Adolescentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXT3DT1/?tag=tolees-21'
 descuento: '61.68'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Home Set 2 HS Say Yes PJ Conjuntos de Pijama  Azul  Gama Azules 11   XX-Large  Tamaño del Fabricante: XXL  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVTMHX1/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'SALOMON Discovery Lt FZ M Chaqueta Polar  Hombre  Gris  Ebony '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SF17PXF/?tag=tolees-21'
 descuento: '40.00'
 average: '42.0'

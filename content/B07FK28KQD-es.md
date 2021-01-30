@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Lee Sherpa Jacket Chaqueta Vaquera  Azul  Vintage Worn   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FK28KQD/?tag=tolees-21'
 descuento: '39.95'
 average: '78.03'

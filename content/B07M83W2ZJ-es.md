@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Napapijri Rainforest Pocket Chaqueta  Verde  Hunter Green 2 GD8   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M83W2ZJ/?tag=tolees-21'
 descuento: '67.75'
 average: '77.08'

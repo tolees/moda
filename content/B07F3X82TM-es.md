@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 511 Slim Vaqueros  Negro Headed South 2090  28W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3X82TM/?tag=tolees-21'
 descuento: '56.91'
 average: '57.64285714285715'

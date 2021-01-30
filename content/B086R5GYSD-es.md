@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Nautico J.Bradford Cuero Marino JB-CORVETTES - Color - Marine  Talla Zapatos - 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086R5GYSD/?tag=tolees-21'
 descuento: '50.36'
 average: '69.0'

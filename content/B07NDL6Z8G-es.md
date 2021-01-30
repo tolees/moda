@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Rovic Wrap Cargo Falda  Gris  Asfalt B436-995   XXS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL6Z8G/?tag=tolees-21'
 descuento: '78.73'
 average: '19.13'

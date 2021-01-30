@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Victoria Mercedes Lona Pañuelo  Zapatos de primeros pasos para Bebé-Niñas  Azul  Marino   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013SPM3V2/?tag=tolees-21'
 descuento: '24.74'
 average: '19.53'

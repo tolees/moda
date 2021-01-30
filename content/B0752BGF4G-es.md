@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D05281  31W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0752BGF4G/?tag=tolees-21'
 descuento: '34.60'
 average: '84.99'

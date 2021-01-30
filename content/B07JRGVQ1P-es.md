@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Zapatillas de Seguridad Hombre  LM-18 Zapatos de Seguridad Antideslizantes con Punta de Acero Antipinchazos Calzados de Trabajo 41.5 EU Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JRGVQ1P/?tag=tolees-21'
 descuento: '34.29'
 average: '45.99'

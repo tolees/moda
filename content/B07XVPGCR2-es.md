@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'edc by Esprit 119CC1G008 Abrigo  Negro  Black 001   XXL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVPGCR2/?tag=tolees-21'
 descuento: '56.77'
 average: '45.845'

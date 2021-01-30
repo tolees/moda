@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Marca Amazon - Iris & Lilly Caftán Mujer  Multicolor  Dark Tropical   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082QDSRXL/?tag=tolees-21'
 descuento: '52.03'
 average: '9.11'

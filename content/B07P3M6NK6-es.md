@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Ana High Neck Crew Sudadera  Blanco  Soft White L6o   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3M6NK6/?tag=tolees-21'
 descuento: '54.28'
 average: '32.0'

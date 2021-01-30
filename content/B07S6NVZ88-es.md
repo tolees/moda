@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Epic Flip V2  Zapatos de Playa y Piscina Unisex Adulto  Verde  Sunny Lime/Mist Green 39   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NVZ88/?tag=tolees-21'
 descuento: '44.91'
 average: '12.49'

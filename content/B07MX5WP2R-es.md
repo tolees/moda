@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 501 Crop Vaqueros Boyfriend  Blanco  In The Clouds 0032   24W / 26L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MX5WP2R/?tag=tolees-21'
 descuento: '50.05'
 average: '50.629999999999995'

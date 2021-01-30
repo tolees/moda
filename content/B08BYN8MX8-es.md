@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Pantalones Deportivos para Mujer para Yoga Running Fitness Jogging Danza Pijama de Interior Largos Chándal Casuale'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BYN8MX8/?tag=tolees-21'
 descuento: '60.88'
 average: '17.99'

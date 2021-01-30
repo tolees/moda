@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Levi s Sunset 1 Pkt Slim Camisa  Azul  Alfonso Indigo 0006   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXL1BTV/?tag=tolees-21'
 descuento: '17.84'
 average: '34.5'

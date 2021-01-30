@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Funlab Disney Frozen 2 Clog Kids  Zuecos Unisex Niños  Azul  Mineral Blue 4jq   20/21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TC8WPD2/?tag=tolees-21'
 descuento: '45.41'
 average: '19.1'

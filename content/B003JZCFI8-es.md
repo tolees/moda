@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Clarks Nature Three 20340682 - Zapatos casual de cuero nobuck para hombre  color marrón  Ebony Oily   talla 43'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JZCFI8/?tag=tolees-21'
 descuento: '32.99'
 average: '87.11'

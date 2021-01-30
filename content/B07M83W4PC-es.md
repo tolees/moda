@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Napapijri Rainforest Winter 1 Chaqueta  Amarillo  Yellow Lime YA2   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M83W4PC/?tag=tolees-21'
 descuento: '66.43'
 average: '68.375'

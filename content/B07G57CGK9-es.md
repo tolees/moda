@@ -16,6 +16,7 @@ comparePrice: 19.04 EUR
 prodname: 'find. 2 Pack Slim Shirt - Camisa Hombre  Blau  Bengal Blue / Blue   39 cm  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G57CGK9/?tag=tolees-21'
 descuento: '53.99'
 average: '8.76'

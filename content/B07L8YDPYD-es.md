@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'REPLAY W3114 .000.22672 Sudadera  Dorado  Dark Gold Lurex 20   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8YDPYD/?tag=tolees-21'
 descuento: '79.91'
 average: '19.89'

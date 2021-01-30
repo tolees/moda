@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Calvin Klein CK Essential Slim V Neck tee Camiseta  Azul  Night Sky Chw   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC4N8Q9/?tag=tolees-21'
 descuento: '42.18'
 average: '21.483333333333334'

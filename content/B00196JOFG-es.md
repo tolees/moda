@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Dr. Martens 1461  Zapatos de cordones para Hombre  Rojo  Cherry Red   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00196JOFG/?tag=tolees-21'
 descuento: '48.62'
 average: '81.7'

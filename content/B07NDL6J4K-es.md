@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Mysid Slim Round Neck Camiseta  Multicolor  Grey Htr/Mazarine Blue Stripe A679   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL6J4K/?tag=tolees-21'
 descuento: '75.19'
 average: '9.91'

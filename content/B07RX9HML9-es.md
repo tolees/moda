@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Grebarley Fitness Gloves Levantamiento de Pesas  protección Total de la Palma  Transpirable  Guantes de Entrenamiento para Hombres y Mujeres  Negro  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RX9HML9/?tag=tolees-21'
 descuento: '51.56'
 average: '12.59'

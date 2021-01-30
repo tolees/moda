@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Havaianas Top Tiras  Chanclas para Mujer  Dorado  Rose Nude   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXZV9K2/?tag=tolees-21'
 descuento: '35.73'
 average: '13.08181818181818'

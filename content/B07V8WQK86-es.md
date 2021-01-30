@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Triumph Body Make-up Soft Touch P Ex Sujetador para Camiseta  Azul  Wedgewood/PT Blue 00re   90B  Talla del Fabricante: 75B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8WQK86/?tag=tolees-21'
 descuento: '52.28'
 average: '21.45'

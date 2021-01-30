@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'adidas Varilite Soft J Chaqueta de Deporte  Hombre  Carbon  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQZ96TV/?tag=tolees-21'
 descuento: '34.15'
 average: '78.99'

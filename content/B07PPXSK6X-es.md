@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Speed Stride Graphic Camisa Manga Corta  Hombre  Negro  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPXSK6X/?tag=tolees-21'
 descuento: '48.37'
 average: '18.07'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Mujer Maxi Vestido Sexy Sin Mangas Cabestro Backless División Cordón Sólido Fiesta Paseo Vestidos Rojo S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FG1KGBW/?tag=tolees-21'
 descuento: '62.88'
 average: '12.99'

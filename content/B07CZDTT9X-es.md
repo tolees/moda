@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Armour Heatgear Short-Sleeve Camiseta  Niñas  Negro  Black/White 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZDTT9X/?tag=tolees-21'
 descuento: '31.04'
 average: '17.93'

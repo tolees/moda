@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Timberland Davis Square Leather  Junior   Botas Chukka Unisex-Niños  Amarillo Wheat Nubuck  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGM4LB2/?tag=tolees-21'
 descuento: '51.01'
 average: '41.64'

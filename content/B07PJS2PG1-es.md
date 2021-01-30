@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Tous Sherton  Bolso bandolera para Mujer  Rojo  Vino 895900212   19x14x2 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJS2PG1/?tag=tolees-21'
 descuento: '26.76'
 average: '80.56'

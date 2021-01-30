@@ -16,6 +16,7 @@ comparePrice: 96.95 EUR
 prodname: 'Ternua Corno Pants Pantalón  Hombre  Negro  Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQZVCYH/?tag=tolees-21'
 descuento: '34.90'
 average: '63.11'

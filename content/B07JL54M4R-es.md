@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Tabela 18 JSY Camiseta de Manga Corta  Hombre  Black/White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JL54M4R/?tag=tolees-21'
 descuento: '32.10'
 average: '16.94'

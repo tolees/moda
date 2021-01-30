@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox U Renan B  Zapatillas para Hombre  Negro  Black/Mud C9355   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG173WC/?tag=tolees-21'
 descuento: '45.10'
 average: '60.34'

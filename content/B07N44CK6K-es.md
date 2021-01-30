@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Blouse Mila Blusa  Negro  Negro 2000   XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N44CK6K/?tag=tolees-21'
 descuento: '67.15'
 average: '22.98'

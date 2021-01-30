@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Negro  Black/Sky C9221   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSJ938Z/?tag=tolees-21'
 descuento: '52.37'
 average: '28.53'

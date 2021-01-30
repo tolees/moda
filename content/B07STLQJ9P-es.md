@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox U Nebula C  Zapatillas para Hombre  Gris  Lt Grey C1010   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLQJ9P/?tag=tolees-21'
 descuento: '64.22'
 average: '46.48'

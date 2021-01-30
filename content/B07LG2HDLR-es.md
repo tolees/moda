@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'Geox D HOSMOS B ABX B  Botas de Nieve para Mujer  Negro  Black C9999   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG2HDLR/?tag=tolees-21'
 descuento: '73.83'
 average: '38.0'

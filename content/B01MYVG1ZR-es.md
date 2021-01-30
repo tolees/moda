@@ -16,6 +16,7 @@ comparePrice: 45.92 EUR
 prodname: 'adidas ESS LIN P/O FT Sudadera con capucha  Hombre  Gris  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYVG1ZR/?tag=tolees-21'
 descuento: '39.35'
 average: '27.85'

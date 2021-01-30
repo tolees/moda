@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Canadian Peak Chaqueta Softshell Mujer TOKA Negro 01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0831QGXS5/?tag=tolees-21'
 descuento: '30.00'
 average: '69.3'

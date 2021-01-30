@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Serena Slide Women  Sandalias de Punta Descubierta para Mujer  Blanco Oyster 12u  42/43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPCT24H/?tag=tolees-21'
 descuento: '33.48'
 average: '19.95'

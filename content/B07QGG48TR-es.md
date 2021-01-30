@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA Collective Woven Jacket Chaqueta de Entrenamiento  Hombre  Black/Gibraltar Sea  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGG48TR/?tag=tolees-21'
 descuento: '44.59'
 average: '33.32333333333333'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Revend Skinny Vaqueros  Light Aged Destroy 6132-1243  27W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZATMRG6/?tag=tolees-21'
 descuento: '71.36'
 average: '32.42545454545454'

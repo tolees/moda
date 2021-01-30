@@ -16,6 +16,7 @@ comparePrice: 71.28 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Durian Od Subtle 3720  32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF56DRZ/?tag=tolees-21'
 descuento: '30.56'
 average: '49.5'

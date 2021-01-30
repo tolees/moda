@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Esprit 099ee1j024 Sudadera  Rojo  Red 630   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJBJ9RQ/?tag=tolees-21'
 descuento: '65.75'
 average: '17.12'

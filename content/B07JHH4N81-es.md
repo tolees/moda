@@ -16,6 +16,7 @@ comparePrice: 6.12 EUR
 prodname: 'Amazon Essentials - Camisa de lino a rayas  de manga corta y corte entallado para hombre  Celeste  Light Blue Gingham   US S  EU S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHH4N81/?tag=tolees-21'
 descuento: '23.04'
 average: '4.71'

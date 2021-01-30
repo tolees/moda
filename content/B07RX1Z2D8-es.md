@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'BILLABONG TRD Mrk LS tee Camiseta  Gris  Grey Heather 9   One Size  Tamaño del Fabricante: L  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RX1Z2D8/?tag=tolees-21'
 descuento: '28.26'
 average: '10.995000000000001'

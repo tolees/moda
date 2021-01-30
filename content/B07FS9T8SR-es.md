@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Oakland Lace  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FS9T8SR/?tag=tolees-21'
 descuento: '40.00'
 average: '66.0'

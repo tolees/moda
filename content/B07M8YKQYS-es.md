@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Geox M Dereck B Abrigo  Azul  Blue Nights F4386   XX-Large  Talla del Fabricante: 56  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8YKQYS/?tag=tolees-21'
 descuento: '79.78'
 average: '44.29'

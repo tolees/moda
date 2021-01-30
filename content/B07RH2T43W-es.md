@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour Playoff 20 Men s Transpirable Hombre  cómoda y Ancha Camisa Polo Masculina de Manga Corta  Blanco  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH2T43W/?tag=tolees-21'
 descuento: '64.23'
 average: '23.25'

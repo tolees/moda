@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - AURIQUE Shorts de Deporte con Banda Lateral Mujer  Multicolor  Black & Navy   38  Label:S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081NZQB5R/?tag=tolees-21'
 descuento: '20.00'
 average: '20.0'

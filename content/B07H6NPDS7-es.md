@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Scarlett High Zip Vaqueros Skinny  Azul  Blue Aged Yz   31W / 33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6NPDS7/?tag=tolees-21'
 descuento: '64.72'
 average: '35.26'

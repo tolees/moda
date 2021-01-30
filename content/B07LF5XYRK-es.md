@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'Levi s Barstow Western Camisa Vaquera  Negro  Bruised Indigo Mid 0318   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF5XYRK/?tag=tolees-21'
 descuento: '24.42'
 average: '60.46'

@@ -16,6 +16,7 @@ comparePrice: 23.79 EUR
 prodname: 'ZERHOK Neceser Aseo pequeño 8pcs Bolso de Organizador de nylón de Bolsas Impermeable pequeño Bolsa portátil Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q49MSF7/?tag=tolees-21'
 descuento: '58.09'
 average: '9.97'

@@ -16,6 +16,7 @@ comparePrice: 122.85 EUR
 prodname: 'Oakley Line Miner Gafas Deportivas  Hombre  Matte Black  Prizm Torch Iridium/Cat 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FVQGAS8/?tag=tolees-21'
 descuento: '16.98'
 average: '101.99'

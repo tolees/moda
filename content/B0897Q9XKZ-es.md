@@ -16,6 +16,7 @@ comparePrice: 48.64 EUR
 prodname: 'qingqingR Bolso Bandolera de Cuero de Mujer para Mujer Bolso Bandolera de Hombro Ajustable Bolso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0897Q9XKZ/?tag=tolees-21'
 descuento: '50.00'
 average: '24.32'

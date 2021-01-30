@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Tiro 19 Camiseta Entrenamiento  Hombre  Negro  Black/White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JR8TQRY/?tag=tolees-21'
 descuento: '42.55'
 average: '22.95'

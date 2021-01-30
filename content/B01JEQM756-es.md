@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Zuku Life underwear Basic Shortboxer - Bóxer para hombre MESH Trunk  3er packung - L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JEQM756/?tag=tolees-21'
 descuento: '81.40'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 132.0 EUR
 prodname: 'Ray-Ban Justin RB4165 - Gafas de sol Unisex  Negro  Black Rubber   51 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009AJFC5U/?tag=tolees-21'
 descuento: '28.48'
 average: '90.60666666666667'

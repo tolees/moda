@@ -16,6 +16,7 @@ comparePrice: 16.1 EUR
 prodname: 'Jack & Jones Kapuzenpullover Sudadera con Capucha  Negro  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0823BXJ3J/?tag=tolees-21'
 descuento: '25.03'
 average: '12.07'

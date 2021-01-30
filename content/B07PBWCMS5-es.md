@@ -16,6 +16,7 @@ comparePrice: 28.92 EUR
 prodname: 'find. Vaqueros Ceñidos de Tiro Medio Mujer  Blanco  White   32W / 32L  Label: 32W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBWCMS5/?tag=tolees-21'
 descuento: '27.39'
 average: '21.0'

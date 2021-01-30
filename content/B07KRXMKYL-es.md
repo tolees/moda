@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'SALOMON Agile Jkt M Chaqueta Softshell  Mezcla de sintéticos  Hombre  Azul  Lyons Blue/Poseidon   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRXMKYL/?tag=tolees-21'
 descuento: '56.04'
 average: '57.15'

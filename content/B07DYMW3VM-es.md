@@ -16,6 +16,7 @@ comparePrice: 31.94 EUR
 prodname: 'NOVECASA Chaleco Sauna Hombre Neopreno Camiseta sin Mangas/Sudoración Pantalones Cortos Body Shaper Transpirar Gimnasia Abdome Adelgaz  S  Chaleco Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYMW3VM/?tag=tolees-21'
 descuento: '53.16'
 average: '14.96'

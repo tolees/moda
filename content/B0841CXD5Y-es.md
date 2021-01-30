@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Tommy Hilfiger TJM Essential Down Jacket Chaqueta  Negro  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B0841CXD5Y/?tag=tolees-21'
 descuento: '35.84'
 average: '140.382025316455'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s SS Original Hm tee Camiseta  Rojo  Brilliant Red 0025   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF85MYQ/?tag=tolees-21'
 descuento: '56.04'
 average: '10.99'

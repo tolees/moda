@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Geox U Mattias B ABX B  Botas Chukka para Hombre  Marrón  Chestnut/Taupe   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2SDXDF/?tag=tolees-21'
 descuento: '63.75'
 average: '67.904'

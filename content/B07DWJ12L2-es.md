@@ -16,6 +16,7 @@ comparePrice: 61.23 EUR
 prodname: 'hummel Precision Pro Entrenamiento Zip Chaqueta  otoño/Invierno  Hombre  Color Negro  tamaño Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWJ12L2/?tag=tolees-21'
 descuento: '68.97'
 average: '19'

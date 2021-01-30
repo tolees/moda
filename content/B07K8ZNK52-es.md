@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Classic Lined Clog  Zuecos Unisex Adulto  Rojo  Burgundy/Burgundy 60u   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8ZNK52/?tag=tolees-21'
 descuento: '26.29'
 average: '33.16'

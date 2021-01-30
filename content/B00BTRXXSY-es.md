@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Porsche Design Sonnenbrille P8486 A 71 0 130 Iconic Gafas de sol  Dorado  Gold   71.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BTRXXSY/?tag=tolees-21'
 descuento: '41.92'
 average: '203.305'

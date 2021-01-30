@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Pepe Jeans Duff LS Pm506549 Camiseta   Sailor 580   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH4XSNZ/?tag=tolees-21'
 descuento: '17.07'
 average: '10.74'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'KELITCH Naranja Jaspe Abalorios Pulsera Del Abrigo Pulsera - Oscuro Marrón Cuero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J0ZR9AO/?tag=tolees-21'
 descuento: '35.05'
 average: '12.99'

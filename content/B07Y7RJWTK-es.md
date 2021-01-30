@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LIGE Relojes Hombre Moda Impermeable Acero Inoxidable Analógico Cuarzo Reloj Negocios Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y7RJWTK/?tag=tolees-21'
 descuento: '66.67'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Rival Fleece Crew Sudadera  Hombre  Gris  Steel Light Heather/Black 036   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XNBD5K/?tag=tolees-21'
 descuento: '52.24'
 average: '25.39333333333333'

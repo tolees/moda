@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 514 Vaqueros Straight  Azul  Ivy ADV 1209   W30/L30  Talla del Fabricante: 30 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFDX6FL/?tag=tolees-21'
 descuento: '36.19'
 average: '73.38'

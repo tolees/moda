@@ -16,6 +16,7 @@ comparePrice: 35.05 EUR
 prodname: 'Hi-Tec Cove Breeze  Sandalias Deportivas para Hombre  Gris  Charcoal/Black/Red Orange 052   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6WVRXT/?tag=tolees-21'
 descuento: '22.25'
 average: '27.25'

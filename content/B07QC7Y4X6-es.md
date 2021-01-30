@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Reactive Chaqueta de Entrenamiento  Hombre  Negro  Black/White/Castlerock   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC7Y4X6/?tag=tolees-21'
 descuento: '80.36'
 average: '27.29'

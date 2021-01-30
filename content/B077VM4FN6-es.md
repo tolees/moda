@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Blanco  Better Batwing Cloud Dancer 0305   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VM4FN6/?tag=tolees-21'
 descuento: '37.00'
 average: '15.75'

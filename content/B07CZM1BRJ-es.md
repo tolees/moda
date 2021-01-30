@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Rival Fleece Logo Pantalones Cortos para Hombre  cómodos y robustos Pantalones para Correr  Ancho pantalón Corto con Bolsillos Laterales  Steel Light Heather/Black  035   LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZM1BRJ/?tag=tolees-21'
 descuento: '48.77'
 average: '18.68'

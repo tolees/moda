@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Leeharu - Abrigo de invierno para niña con capucha Bleu Flocon de Neige 8-9 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5K4MZL/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

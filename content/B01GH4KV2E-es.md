@@ -16,6 +16,7 @@ comparePrice: 45.59 EUR
 prodname: 'Bolso organizador para coche animal gato pájaro ratón de Decole Japón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GH4KV2E/?tag=tolees-21'
 descuento: '30.01'
 average: '31.91'

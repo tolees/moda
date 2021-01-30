@@ -16,6 +16,7 @@ comparePrice: 5.93 EUR
 prodname: 'SOLS- Camiseta de Manga Corta para niñas  10 años   Azul Agua '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BZN1AS6/?tag=tolees-21'
 descuento: '33.39'
 average: '3.95'

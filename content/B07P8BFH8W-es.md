@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Heritage Crew Neck Graphic tee Camiseta  Schwarz  Masters Black 017   XX-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8BFH8W/?tag=tolees-21'
 descuento: '19.90'
 average: '23.95'

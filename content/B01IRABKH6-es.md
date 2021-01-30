@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Botas para Hombre De Seguridad Puntera De Acero Zapatos De Trabajo Senderismo Plantilla De Protección Unisex-Adulto S1P SRC CE Aprobado Black Hammer 9952 Black Hammer  47 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IRABKH6/?tag=tolees-21'
 descuento: '53.76'
 average: '36.99'

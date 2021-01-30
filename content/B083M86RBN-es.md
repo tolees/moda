@@ -16,6 +16,7 @@ comparePrice: 20.9 EUR
 prodname: 'LuckyGirls Chic Sandalias Mujer Verano 2020 Fiesta Planas Zapatos Mujer Elegantes Casual Comodas Sandalias Mujer Vestir Playa Bohemia Chanclas Dedo T-Strap'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083M86RBN/?tag=tolees-21'
 descuento: '76.51'
 average: '4.91'

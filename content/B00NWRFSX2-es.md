@@ -16,6 +16,7 @@ comparePrice: 37.36 EUR
 prodname: 'Nina Brautmoden - Vestido de novia - trapecio - Manga corta - Mujer blanco 48'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NWRFSX2/?tag=tolees-21'
 descuento: '37.10'
 average: '23.5'

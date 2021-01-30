@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'Joma Cairo II Sudadera  Hombre  Melange  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWW6RS5/?tag=tolees-21'
 descuento: '33.33'
 average: '13.0'

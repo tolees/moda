@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Gafas de Natación  Profesional Anti Niebla Sin Fugas Protección UV Marco grande Gafas para Nadar con Libre Clip de Nariz Enchufe de oído Gorro de baño para Hombres Mujeres Adultos Niños de la Juventud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085T8QYN1/?tag=tolees-21'
 descuento: '40.03'
 average: '13.726842105263158'

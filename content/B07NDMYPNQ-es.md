@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Stem Round Neck Camiseta  Rosa  Dk Tea Rose A827   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMYPNQ/?tag=tolees-21'
 descuento: '35.17'
 average: '36.112857142857145'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Superdry Padded Elite Jacket Chaqueta  Azul  Nautical Navy 09s   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY3RQ7F/?tag=tolees-21'
 descuento: '80.45'
 average: '30.5225'

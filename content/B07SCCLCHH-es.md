@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Fruit of the Loom Valueweight tee  3 Pack Camiseta  Azul  Navy 32   Medium  Size:M   Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCCLCHH/?tag=tolees-21'
 descuento: '65.72'
 average: '7.88'

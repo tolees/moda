@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Columbia CSC Basic Camiseta Estampada De Manga Corta  Hombre  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B7GYM2/?tag=tolees-21'
 descuento: '24.01'
 average: '15.739999999999998'

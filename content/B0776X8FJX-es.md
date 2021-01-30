@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Tommy Hilfiger Original Stretch Camisa  Blanco  Classic White 100   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776X8FJX/?tag=tolees-21'
 descuento: '44.06'
 average: '38.6'

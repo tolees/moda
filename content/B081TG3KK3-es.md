@@ -16,6 +16,7 @@ comparePrice: 20.01 EUR
 prodname: 'LuckyGirls Zapatos Casuales de Invierno para Hombre  Slip cálido en Punta Redonda  Botines Cortos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TG3KK3/?tag=tolees-21'
 descuento: '59.92'
 average: '8.02'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Jeans TJM Contrast Pocket tee Camiseta  Multicolor  Black Iris/Flame Scarlet 904   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYRM2SW/?tag=tolees-21'
 descuento: '56.69'
 average: '12.95'

@@ -16,6 +16,7 @@ comparePrice: 38.64 EUR
 prodname: 'Polaroid 07886- Gafas de sol color 9CA RC negro  black   talla 70'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J0CRUVQ/?tag=tolees-21'
 descuento: '17.18'
 average: '31.666666666666668'

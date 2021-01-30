@@ -16,6 +16,7 @@ comparePrice: 11.59 EUR
 prodname: 'Ronamick Sandalen - Sandalias de Vestir para Mujer  Color Blanco  Talla 38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCN98MV/?tag=tolees-21'
 descuento: '86.28'
 average: '1.59'

@@ -16,6 +16,7 @@ comparePrice: 139 EUR
 prodname: 'REPLAY Zackie Vaqueros Skinny  Azul  Light Blue 11   W24/L34  Talla del Fabricante: 24  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZ4RD23/?tag=tolees-21'
 descuento: '90.95'
 average: '12.58'

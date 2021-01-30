@@ -16,6 +16,7 @@ comparePrice: 6.67 EUR
 prodname: 'FIND Block Heel Round Toe Zapatos de Tacón  Naranja  Red   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W97CMGC/?tag=tolees-21'
 descuento: '33.13'
 average: '4.46'

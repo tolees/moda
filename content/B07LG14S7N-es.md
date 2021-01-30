@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox Women s D New Annya Mid A Closed Toe Heels  Black  Black C9997  5 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG14S7N/?tag=tolees-21'
 descuento: '62.26'
 average: '41.443333333333335'

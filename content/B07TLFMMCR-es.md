@@ -16,6 +16,7 @@ comparePrice: 40.52 EUR
 prodname: 'Levi s SS Classic 1 Pkt Standrd Camisa  Azul  Alonzo Dress Blues 0011   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLFMMCR/?tag=tolees-21'
 descuento: '38.33'
 average: '24.99'

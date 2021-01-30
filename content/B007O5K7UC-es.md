@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Arena Spider Jr Gafas de Natación  Unisex niños  Rojo/Negro  Smoke   Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007O5K7UC/?tag=tolees-21'
 descuento: '26.00'
 average: '9.25'

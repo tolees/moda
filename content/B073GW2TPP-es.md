@@ -16,6 +16,7 @@ comparePrice: 112.16 EUR
 prodname: 'Bveyzi Mujeres RFID Bloqueo Billetera Cuero Zip Alrededor de Embrague Grande Viaje Bolso Correa para la muñeca Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073GW2TPP/?tag=tolees-21'
 descuento: '71.64'
 average: '31.81'

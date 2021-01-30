@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Heritage Slim Fit Shirt Blusa  Azul  Midnight 403   42  Talla del Fabricante: 10  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7HPXZL/?tag=tolees-21'
 descuento: '24.97'
 average: '82.41666666666667'

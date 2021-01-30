@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J SPACECLUB Girl C  Zapatillas para Niñas   Grey/Pink C0502   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV9CMP/?tag=tolees-21'
 descuento: '50.00'
 average: '31.47'

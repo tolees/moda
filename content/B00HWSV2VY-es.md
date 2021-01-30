@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'crocs Baya  Zuecos Unisex Adulto  Azul  Cerulean Blue   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HWSV2VY/?tag=tolees-21'
 descuento: '30.11'
 average: '27.95'

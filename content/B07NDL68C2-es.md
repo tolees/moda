@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Stem Round Neck Camiseta  Beige  Milk 111   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL68C2/?tag=tolees-21'
 descuento: '80.05'
 average: '7.97'

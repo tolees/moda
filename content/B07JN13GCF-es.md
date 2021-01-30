@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'HAWKERS Gafas de Sol ONE Carbono  para Hombre y Mujer  con Montura Negra Mate con Trama y Lente Azul Claro Efecto Espejo  Protección UV400'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JN13GCF/?tag=tolees-21'
 descuento: '25.69'
 average: '25.982000000000003'

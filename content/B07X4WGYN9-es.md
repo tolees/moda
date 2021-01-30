@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES Jorexplore Parka Jacket STS Abrigos Hombre  Verde  Forest Night Detail: Solid   XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X4WGYN9/?tag=tolees-21'
 descuento: '30.28'
 average: '55.77'

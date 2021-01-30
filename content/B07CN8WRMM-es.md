@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Crocs Classic II Slide  Zapatos de Playa y Piscina Unisex Adulto  Azul  Navy 410b   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN8WRMM/?tag=tolees-21'
 descuento: '34.17'
 average: '13.45'

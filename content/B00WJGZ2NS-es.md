@@ -16,6 +16,7 @@ comparePrice: 232.76 EUR
 prodname: 'Burberry 0BE4203 336973 57 Gafas de sol  Marrón Gradient Hazelnut/Brown  Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WJGZ2NS/?tag=tolees-21'
 descuento: '70.48'
 average: '78.05600000000001'

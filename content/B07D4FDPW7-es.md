@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers MELBO Journeyman 2  Sandalias con Punta Cerrada para Hombre  Negro Black BBK  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4FDPW7/?tag=tolees-21'
 descuento: '73.64'
 average: '27.516666666666666'

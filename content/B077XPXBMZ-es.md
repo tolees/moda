@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Armour Fleece Jogger Pantalón De Chándal  Hombre  Azul  Academy/Black 408   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XPXBMZ/?tag=tolees-21'
 descuento: '60.57'
 average: '35.765'

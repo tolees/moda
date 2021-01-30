@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Wrangler SS Logo tee Camiseta  Gris  Mid Grey Mel X37   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN41WLK/?tag=tolees-21'
 descuento: '29.82'
 average: '14'

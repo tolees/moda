@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'G-STAR RAW ARC 2.0 3D Mid Boyfriend Jeans Vaqueros  Azul  lt Aged detroy 9436-1243   25W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZCLWCG/?tag=tolees-21'
 descuento: '88.74'
 average: '20.1'

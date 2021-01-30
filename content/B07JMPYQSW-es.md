@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Esprit Crosby Beach Padded Bandeau Parte de Arriba de Bikini  Negro  Black 001   40  Talla del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMPYQSW/?tag=tolees-21'
 descuento: '70.02'
 average: '10.49'

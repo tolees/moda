@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Downhill Racer Applique tee Camiseta  Rojo  Rouge Red Wa7   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2BB5Q5/?tag=tolees-21'
 descuento: '56.10'
 average: '15.36'

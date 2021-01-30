@@ -16,6 +16,7 @@ comparePrice: 144.9 EUR
 prodname: 'Tommy Hilfiger Dress Casual Nubuck Shoe  Zapatos de Cordones Oxford para Hombre  Azul  Midnight 403   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3F8NBR/?tag=tolees-21'
 descuento: '55.87'
 average: '63.94'

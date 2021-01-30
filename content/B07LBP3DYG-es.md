@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen LIFA Merino 1/2 Zip Thermal Baselayer Camiseta Deportiva Manga Larga  Hombre  North Sea Blue  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBP3DYG/?tag=tolees-21'
 descuento: '25.92'
 average: '66.67'

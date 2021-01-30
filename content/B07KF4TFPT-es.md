@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 311 Shaping Skinny Vaqueros  London Nights  27W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4TFPT/?tag=tolees-21'
 descuento: '45.00'
 average: '46.128'

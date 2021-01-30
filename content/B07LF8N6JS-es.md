@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Gris  Deathcap Light Mid Overt Adv 0962   W33/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8N6JS/?tag=tolees-21'
 descuento: '37.40'
 average: '72.63499999999999'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'ECCO Lisbon  Zapatos de Cordones Derby para Hombre  Marrón  Cocoa Brown 1482   48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFRY1YJ/?tag=tolees-21'
 descuento: '69.14'
 average: '36.62166666666666'

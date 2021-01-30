@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Havaianas High Light  Chanclas para Mujer  Negro  Black/Dark Grey/Ice Grey 7905   33/34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKWLVTF/?tag=tolees-21'
 descuento: '71.54'
 average: '9.295'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Rider Jacket Chaqueta de Jean  Azul  Oakwood Light XA   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VP7DK5H/?tag=tolees-21'
 descuento: '60.99'
 average: '38.99'

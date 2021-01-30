@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Tech Short Sleeve V-Solid Camiseta  Mujer  Blanco  White/Metallic Silver 100   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KTH2XA4/?tag=tolees-21'
 descuento: '48.25'
 average: '14.49'

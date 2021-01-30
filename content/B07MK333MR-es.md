@@ -16,6 +16,7 @@ comparePrice: 8.96 EUR
 prodname: 'Marca Amazon - MERAKI Shorts de Natación Hombre  Gris  Black/Charcoal   XL  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK333MR/?tag=tolees-21'
 descuento: '35.94'
 average: '6.466666666666667'

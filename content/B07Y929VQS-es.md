@@ -16,6 +16,7 @@ comparePrice: 15.96 EUR
 prodname: 'XTI 49690  Zapatos de Cordones Oxford para Hombre  Marrón  Camel Camel   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y929VQS/?tag=tolees-21'
 descuento: '18.92'
 average: '12.94'

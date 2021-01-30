@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Under Armour Accelerate Off-Pitch Pantalón  Hombre  Negro  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9HRLXV/?tag=tolees-21'
 descuento: '68.84'
 average: '21.81'

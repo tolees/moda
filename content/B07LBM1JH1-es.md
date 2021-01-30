@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Napapijri Goderich Camisa  Multicolor  Check C18   46  Talla del Fabricante: X-Large  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBM1JH1/?tag=tolees-21'
 descuento: '50.00'
 average: '39.5'

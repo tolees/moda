@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s 29717 Sudadera  Blanco  Crew Box Taba White+ 0092   S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLJM4S/?tag=tolees-21'
 descuento: '16.94'
 average: '43.22'

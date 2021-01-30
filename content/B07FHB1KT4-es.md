@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Newport Bay  Zapatillas Bajas para Hombre  Azul  Dark Blue Canvas   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHB1KT4/?tag=tolees-21'
 descuento: '40.02'
 average: '42.656666666666666'

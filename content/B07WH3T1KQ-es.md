@@ -16,6 +16,7 @@ comparePrice: 9.69 EUR
 prodname: 'Marca Amazon - find. Mujer Vestido Midi Cruzado de Flores  Multicolor  Pink Floral   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WH3T1KQ/?tag=tolees-21'
 descuento: '43.14'
 average: '5.51'

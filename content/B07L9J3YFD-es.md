@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Under Armour Tactical All Season Chaqueta  Hombre  Verde  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9J3YFD/?tag=tolees-21'
 descuento: '52.01'
 average: '47.99'

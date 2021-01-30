@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Marca Amazon - Iris & Lilly Bralette de Rejilla Mujer  Rojo  Scooter   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9W8LD8/?tag=tolees-21'
 descuento: '68.29'
 average: '5.07'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Quiksilver Rivi Slide-Slider Sandals for Men  Sandalias con Punta Abierta para Hombre  Azul  Blue/Red/Blue Xbrb   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N23DD8T/?tag=tolees-21'
 descuento: '68.52'
 average: '11.33'

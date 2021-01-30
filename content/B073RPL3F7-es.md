@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen Logo Hoodie Sudadera con Capucha  Hombre  Azul  Marino   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPL3F7/?tag=tolees-21'
 descuento: '37.86'
 average: '37.99333333333333'

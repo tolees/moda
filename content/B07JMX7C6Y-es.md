@@ -16,6 +16,7 @@ comparePrice: 133.87 EUR
 prodname: 'Timberland Sprint Trekker Mid  Zapatillas Chukka para Hombre  Negro  Black Full Grain   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMX7C6Y/?tag=tolees-21'
 descuento: '43.24'
 average: '75.99'

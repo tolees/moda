@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Napapijri Serber LS Camiseta  Negro  Black 041   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLN2DV/?tag=tolees-21'
 descuento: '19.78'
 average: '28.1'

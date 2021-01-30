@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Wrangler Puffer Jacket Chaqueta  Negro  Black 100   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4FC4FN/?tag=tolees-21'
 descuento: '50.00'
 average: '64.98'

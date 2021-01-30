@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Zapatos de Seguridad Hombre Mujer Zapatillas de Trabajo con Punta de Acero Ligeros Calzado de Industrial y Deportivos Sneaker Negro Azul Gris Número 36-48 EU Negro 44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CDV36WS/?tag=tolees-21'
 descuento: '15.00'
 average: '28.89'

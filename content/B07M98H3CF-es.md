@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Geox W Kaula Z Abrigo  Azul Nights/Blue Nig F4477  36  Talla del Fabricante: 40  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M98H3CF/?tag=tolees-21'
 descuento: '65.00'
 average: '104.65'

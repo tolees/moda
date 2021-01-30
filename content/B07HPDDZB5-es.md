@@ -16,6 +16,7 @@ comparePrice: 17.69 EUR
 prodname: 'Dockers by Gerli 36li019-207120  Sandalias de Talón Abierto para Hombre  Negro  Schwarz/Grau 120   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPDDZB5/?tag=tolees-21'
 descuento: '30.47'
 average: '12.3'

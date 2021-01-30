@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Superga 2750-linu  Zapatos de Cordones Derby Unisex Adulto  Blanco  Weiß  White   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007B6SA9O/?tag=tolees-21'
 descuento: '37.11'
 average: '47.17'

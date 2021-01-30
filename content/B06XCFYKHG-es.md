@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros  Medium Aged 9136-071  23W / 28L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCFYKHG/?tag=tolees-21'
 descuento: '69.60'
 average: '30.38'

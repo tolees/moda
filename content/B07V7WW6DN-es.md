@@ -16,6 +16,7 @@ comparePrice: 60.03 EUR
 prodname: 'Love Moschino Jc4275pp0a  Bolso tipo tote para Mujer  Negro  Black   12x27x40 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7WW6DN/?tag=tolees-21'
 descuento: '16.11'
 average: '50.36'

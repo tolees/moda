@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Guantes de Invierno   otutun Guantes de Pantalla Táctil Cortavientos Impermeable Guantes Ciclismo Invierno Unisex Antideslizante Exterior Guantes Deportivos para Caminar Correr Bici Motocicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBW5GK9/?tag=tolees-21'
 descuento: '50.03'
 average: '11.49'

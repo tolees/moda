@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Hombre  Navy  M'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Helly Hansen'
 buyurl: 'https://www.amazon.es/dp/B07F2QCJZ5/?tag=tolees-21'
 descuento: '33.87'
 average: '107.077499999999'
@@ -27,10 +28,10 @@ Tienes [Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Depor
 
 ℹ️:
 
-- Aislamiento incorporado de Lifalot para un calor ligero y un volumen mínimo
 - Polartec cuello cómodo forrado con vellón
-- Helly Tech Performance: altamente impermeable y extra transpirable
-- Protección total de los elementos a la vez que cómoda en el interior.
+- Aislamiento incorporado de Lifalot para un calor ligero y un volumen mínimo
 - Construcción completamente estirada para una máxima libertad de movimiento.
+- Protección total de los elementos a la vez que cómoda en el interior.
+- Helly Tech Performance: altamente impermeable y extra transpirable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07F2QCJZ5/?tag=tolees-21)

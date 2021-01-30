@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox J Sandal FLEXYPER Boy A  Sandalias con Punta Abierta para Niños  Blue  Navy/Red C0735   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTMVKYJ/?tag=tolees-21'
 descuento: '39.98'
 average: '29.95'

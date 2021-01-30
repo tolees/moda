@@ -16,6 +16,7 @@ comparePrice: 7.62 EUR
 prodname: 'Marca Amazon - MERAKI Calcetines por Media Pierna de Algodón Hombre  Pack de 5  Azul  Navy   43-45 EU  Label: 9-11 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SX52MT6/?tag=tolees-21'
 descuento: '16.27'
 average: '6.38'

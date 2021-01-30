@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'JACK & JONES Jcoviking tee SS Crew Neck Camiseta  Blanco  White Fit: Reg   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVLN3WN/?tag=tolees-21'
 descuento: '49.97'
 average: '6.3125'

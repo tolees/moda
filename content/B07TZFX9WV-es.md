@@ -16,6 +16,7 @@ comparePrice: 68.88 EUR
 prodname: 'Mujer Cuñas Zapatos 35-43 EU De Lona High-Top Zapatos Casuales Talla Grande Zapatillas de Cuña para Mujer Zapatillas de Deporte Zapatillas Altas Primavera/Verano Tacón Cuña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZFX9WV/?tag=tolees-21'
 descuento: '57.91'
 average: '28.99'

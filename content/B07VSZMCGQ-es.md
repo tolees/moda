@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Malone Vaqueros  Stone Blue Zl  26W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSZMCGQ/?tag=tolees-21'
 descuento: '77.39'
 average: '22.6'

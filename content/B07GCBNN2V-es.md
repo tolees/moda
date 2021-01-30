@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'VICTORIA 1101 Zapatilla Bota Basket Plataforma Negro  36 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCBNN2V/?tag=tolees-21'
 descuento: '40.76'
 average: '34.95'

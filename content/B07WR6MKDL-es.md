@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Cómodo Zapatos para Correr Deportes en Montaña Asfalto  Espada Zapatillas de Running Deportivos Sneakers para Hombre Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WR6MKDL/?tag=tolees-21'
 descuento: '32.78'
 average: '38.99'

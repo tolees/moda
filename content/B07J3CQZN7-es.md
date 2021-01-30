@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Play Up Pantalón Corto  Mujer  Rosa  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3CQZN7/?tag=tolees-21'
 descuento: '50.11'
 average: '13.97'

@@ -16,6 +16,7 @@ comparePrice: 7.26 EUR
 prodname: 'find. 2 Pack Slim Shirt - Camisa Hombre  Blanco  White With Black / White   41 cm  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G57GT8S/?tag=tolees-21'
 descuento: '28.10'
 average: '6.055'

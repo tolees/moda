@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'OBEEII Vestido de Princesa Sofia Niña Disfraz Niña para Fiesta Halloween Cumpleaños Cosplay Partido Prom 2-3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPC9GND/?tag=tolees-21'
 descuento: '53.51'
 average: '18.59'

@@ -16,6 +16,7 @@ comparePrice: 31.78 EUR
 prodname: 'CARE OF by PUMA Sudadera con capucha de forro con cremallera para mujer  Beige  38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNRHZYW/?tag=tolees-21'
 descuento: '24.20'
 average: '24.09'

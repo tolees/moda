@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Cressi Coral Shoes Zapatilla para Deportes Acuáticos  Adultos Unisex  Rojo  46'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1WB3RR/?tag=tolees-21'
 descuento: '50.22'
 average: '7.96'

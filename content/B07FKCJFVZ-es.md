@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'NIKE W NP Tank All Over Mesh Camiseta sin Mangas  Mujer  Black/ White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKCJFVZ/?tag=tolees-21'
 descuento: '16.24'
 average: '20.94'

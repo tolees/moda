@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'MaxMuxun Sandalias de Vestir Moderna Azul Cotidiana Comodida de Cita Para Mujer Tamaña 38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FHT3Y60/?tag=tolees-21'
 descuento: '43.01'
 average: '24.5'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Quiksilver Monkey Caged  Sandalias de Talón Abierto para Hombre  Negro  Blue/Brown Xbcb   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STW5XKG/?tag=tolees-21'
 descuento: '46.24'
 average: '19.35'

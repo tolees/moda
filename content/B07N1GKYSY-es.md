@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Clarks Desert London  Zapatos de Cordones Derby para Mujer  Negro  Black Polished Black Polished   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GKYSY/?tag=tolees-21'
 descuento: '65.98'
 average: '44.23'

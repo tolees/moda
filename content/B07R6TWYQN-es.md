@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Pike Lake Chaqueta  Mujer  Rojo  Red Lily   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6TWYQN/?tag=tolees-21'
 descuento: '66.47'
 average: '52.43000000000001'

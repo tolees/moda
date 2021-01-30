@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Braguita para Mujer Pack de 5  Multicolor  Soft Pink   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ8IC1N/?tag=tolees-21'
 descuento: '27.22'
 average: '10.91'

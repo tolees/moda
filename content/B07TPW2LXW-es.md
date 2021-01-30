@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry VL O Crew Sudadera  Gris  Grey Marl 07q   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPW2LXW/?tag=tolees-21'
 descuento: '51.01'
 average: '34.29'

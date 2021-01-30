@@ -16,6 +16,7 @@ comparePrice: 65.09 EUR
 prodname: 'Pepe Jeans Hatch Vaqueros Hombre Ajustados  Gris  Grey Wiser Wash 000   W38/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXXYYPY/?tag=tolees-21'
 descuento: '26.23'
 average: '48.02'

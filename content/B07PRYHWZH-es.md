@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'MTNG Mauri  Bolso mochila para Mujer  Marrón  Antel/Liso Cuero   14x31x26 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRYHWZH/?tag=tolees-21'
 descuento: '69.64'
 average: '16.3'

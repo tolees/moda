@@ -16,6 +16,7 @@ comparePrice: 27.35 EUR
 prodname: 'Stenso Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de Trabajo para Hombre - 2 en 1 para Todo el año - Negro/Rojo - M  EU48 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPRHP84/?tag=tolees-21'
 descuento: '63.47'
 average: '9.99'

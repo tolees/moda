@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Guantes Tácticos 1 PZ Guante Bicicleta Montaña Verano Antideslizantes Guantes Ciclismo MTB Transpirables Guantes de Bicicleta de Carretera de Medio-Dedo para Hombres Mujeres  Deportes al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088RCY81F/?tag=tolees-21'
 descuento: '17.66'
 average: '13.99'

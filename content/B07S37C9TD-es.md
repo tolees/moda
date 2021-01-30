@@ -16,6 +16,7 @@ comparePrice: 18.3 EUR
 prodname: 'ARTESANIA CERDA Largo Conjuntos de Pijama  Rojo  Rojo C06   14 años  Tamaño del Fabricante:14A  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S37C9TD/?tag=tolees-21'
 descuento: '20.00'
 average: '14.64'

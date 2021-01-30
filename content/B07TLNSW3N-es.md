@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Graphic 15 Hooded Sudadera  Multicolor  Dk Black/White/Port Red B370   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLNSW3N/?tag=tolees-21'
 descuento: '67.40'
 average: '37.515'

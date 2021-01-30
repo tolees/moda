@@ -16,6 +16,7 @@ comparePrice: 12.22 EUR
 prodname: 'Marca Amazon - MERAKI Camiseta de Rayas de Manga Corta Ligeramente Entallada Hombre  Gris  Stripe 2 Black / Charcoal Melange   XXL  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MGJQZ3/?tag=tolees-21'
 descuento: '39.93'
 average: '7.34'

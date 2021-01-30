@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'SIMYJOY Pareja Loro Dorado Pullover Loro Dorado Sudaderas Savage Sudadera para Hombres Mujeres Adolescentes Negro S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KRWW44/?tag=tolees-21'
 descuento: '63.66'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Quiksilver Comp T-Shirt Men Camiseta de Manga Corta  Hombre  Negro  Black   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TL1JS6L/?tag=tolees-21'
 descuento: '50.02'
 average: '12.99'

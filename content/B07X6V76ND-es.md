@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ipanema Anat Temas IX Fem  Chanclas para Mujer  Multicolor  Beige/Black/Orange 9089.0   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X6V76ND/?tag=tolees-21'
 descuento: '19.96'
 average: '16.0'

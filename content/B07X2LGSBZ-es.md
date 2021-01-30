@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Piccadilly 7/8 Vaqueros Straight  Azul  000Denim 000   W28/L30  Talla del Fabricante: 28  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2LGSBZ/?tag=tolees-21'
 descuento: '50.00'
 average: '36.775000000000006'

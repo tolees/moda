@@ -16,6 +16,7 @@ comparePrice: 25.7 EUR
 prodname: 'VENI MASEE Bolso de noche de flores para mujer Bolso de embrague retro con cuentas Bolso de embrague Bolso del banquete de boda Bolso bandolera con lentejuelas hoja de lentejuelas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075L9QNG2/?tag=tolees-21'
 descuento: '50.04'
 average: '12.84'

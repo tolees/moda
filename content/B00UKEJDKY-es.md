@@ -16,6 +16,7 @@ comparePrice: 109 EUR
 prodname: 'Carrera 96/S NR GVB Gafas de sol  Negro  Shiny Matte Black/Brown Grey   58 Unisex-Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UKEJDKY/?tag=tolees-21'
 descuento: '16.63'
 average: '90.87'

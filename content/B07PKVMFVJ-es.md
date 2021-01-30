@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Tous New Essence  Bolso bandolera para Mujer  Multicolor  Gun/Negro 995900615   28x19x10 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKVMFVJ/?tag=tolees-21'
 descuento: '30.00'
 average: '85.66199999999999'

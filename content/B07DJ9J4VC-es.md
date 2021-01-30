@@ -16,6 +16,7 @@ comparePrice: 91.31 EUR
 prodname: 'Geox Uomo Snake K  Zapatillas para Hombre  Grey  Grey C1006   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ9J4VC/?tag=tolees-21'
 descuento: '60.00'
 average: '36.52'

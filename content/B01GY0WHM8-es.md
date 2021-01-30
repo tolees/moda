@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Mercedes-Benz Sonnenbrille M1046 Gafas de Sol  Negro  Schwarz   67.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GY0WHM8/?tag=tolees-21'
 descuento: '90.04'
 average: '23.8'

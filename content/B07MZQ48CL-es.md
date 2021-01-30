@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Finsbury Vaqueros Skinny  Azul  Medium Used Denim 000   36W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ48CL/?tag=tolees-21'
 descuento: '40.54'
 average: '56.592000000000006'

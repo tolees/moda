@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'G-STAR RAW Citishield Slim Chaqueta Vaquera  Negro  3D Cobler Processed WP A882   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPNSGL/?tag=tolees-21'
 descuento: '87.51'
 average: '24.97'

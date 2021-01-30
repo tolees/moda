@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'PUMA DIVECAT V2  Zapatos de Playa y Piscina Unisex Adulto  Negro Black White  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC1DB71/?tag=tolees-21'
 descuento: '41.89'
 average: '11.495000000000001'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Homar sin corbata Cordones de zapatos para niños y adultos Impermeables cordones de zapatos de atletismo atlética de silicona elástico plano con multicolor de los zapatos del tablero Sneaker boots  Adult Size White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0186Z4YSE/?tag=tolees-21'
 descuento: '50.03'
 average: '8.99'

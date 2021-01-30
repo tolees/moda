@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Vero Moda 10138972  Pantalones para mujer  negro  black/coated   S/32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X7VM5SE/?tag=tolees-21'
 descuento: '37.08'
 average: '21.99'

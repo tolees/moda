@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'G-STAR RAW Motac-x R N SS Camiseta  Negro  dk Black 6484   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5ZB5ZF/?tag=tolees-21'
 descuento: '65.73'
 average: '17.44'

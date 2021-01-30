@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'hummel AUTH Charge Poly Zip Jacket Chaqueta  Infantil  Negro  176'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCXLOSI/?tag=tolees-21'
 descuento: '47.92'
 average: '18.53333333333333'

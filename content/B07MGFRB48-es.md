@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Napapijri GOAYO Camisa Casual  Azul  Blue Check 12C   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFRB48/?tag=tolees-21'
 descuento: '68.66'
 average: '36.195'

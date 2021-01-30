@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ESPRIT Collection 998eo2f804 Camisa  Azul  Light Blue 440    Talla del Fabricante: 43-44  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQK3CZC/?tag=tolees-21'
 descuento: '51.56'
 average: '18.14'

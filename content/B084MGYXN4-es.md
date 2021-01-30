@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'CHIKA10 Saturday Sandalias de Tacon Mujer   Negro  Black   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084MGYXN4/?tag=tolees-21'
 descuento: '30.01'
 average: '34.99'

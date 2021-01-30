@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Kipling Izellah  Bolso con Bandolera para Mujer  Morado  Dark Plum   33x23x12 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJBVP5/?tag=tolees-21'
 descuento: '50.00'
 average: '37.5'

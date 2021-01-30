@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Wrangler ICONS Vaqueros Slim  Azul  3 Years 10k   W33/L30  Talla del fabricante: 33/30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTJV5WW/?tag=tolees-21'
 descuento: '50.03'
 average: '47.45'

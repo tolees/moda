@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Lacoste Pack De 2 Boxer Courts  Multicolor  Blanc/Pin Yn6   Medium Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TM131KK/?tag=tolees-21'
 descuento: '32.43'
 average: '25.9'

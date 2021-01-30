@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Texas Tonal Vaqueros  Negro  Black 100   30W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Y3XAAK/?tag=tolees-21'
 descuento: '33.82'
 average: '52.91'

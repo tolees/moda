@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Marca Amazon - find. Flat Gladiator Sandalias de Gladiador  Azul  Turquoise   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZW5V5WY/?tag=tolees-21'
 descuento: '81.45'
 average: '7.03'

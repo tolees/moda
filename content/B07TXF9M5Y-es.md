@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 711 Shaping Super Skinny Pantalón Que moldea la Silueta  Azul  London Attitude 0521   32W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXF9M5Y/?tag=tolees-21'
 descuento: '56.61'
 average: '43.39'

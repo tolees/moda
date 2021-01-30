@@ -16,6 +16,7 @@ comparePrice: 10.8 EUR
 prodname: 'oodji Ultra Mujer Blusa de Silueta Libre con Mangas Cortas  Negro  ES 34 / XXS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z8DHZ2G/?tag=tolees-21'
 descuento: '22.22'
 average: '8.4'

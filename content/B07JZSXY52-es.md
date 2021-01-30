@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Tiro19 PES Jkty Chaqueta de Deporte  Unisex niños  Bold Blue/White  152'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZSXY52/?tag=tolees-21'
 descuento: '41.49'
 average: '20.45'

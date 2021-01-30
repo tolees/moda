@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Adidas Adilette Shower Chanclas Hombre  Rojo  Escarl/Ftwbla/Escarl 000   42 EU  8 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KK7FNF/?tag=tolees-21'
 descuento: '44.09'
 average: '14.636666666666667'

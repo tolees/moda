@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Swiftwater Sandal W  Sandalias de Punta Descubierta para Mujer  Rosa  Paradise Pink/White   38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FTWCZN/?tag=tolees-21'
 descuento: '30.01'
 average: '24.49'

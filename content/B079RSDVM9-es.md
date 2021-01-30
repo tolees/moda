@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Hiddleston PM305474 Camisa  Azul  Indigo 561   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RSDVM9/?tag=tolees-21'
 descuento: '56.79'
 average: '44.864999999999995'

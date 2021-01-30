@@ -16,6 +16,7 @@ comparePrice: 28.87 EUR
 prodname: 'Caterpillar Intent  Zapatos de Cordones Derby para Hombre  Marrón  Beaned 0   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX43GFB/?tag=tolees-21'
 descuento: '18.53'
 average: '24.395'

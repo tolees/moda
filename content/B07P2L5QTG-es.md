@@ -16,6 +16,7 @@ comparePrice: 21.83 EUR
 prodname: 'Goodthreads Standard-fit Long-Sleeve Stretch Oxford Shirt  All Hours  Camisa abotonada  azul vaquero  M Tall'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2L5QTG/?tag=tolees-21'
 descuento: '55.25'
 average: '9.77'

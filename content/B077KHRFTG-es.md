@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Columbia M Thermarator Glove Guantes  Hombre  Negro  Talla XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077KHRFTG/?tag=tolees-21'
 descuento: '42.02'
 average: '14.49'

@@ -16,6 +16,7 @@ comparePrice: 95.2 EUR
 prodname: 'Timberland 14478JSTB/02P - Reloj   correa de goma color naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0137DDV3E/?tag=tolees-21'
 descuento: '18.07'
 average: '74.0'

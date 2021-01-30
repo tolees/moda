@@ -16,6 +16,7 @@ comparePrice: 12.19 EUR
 prodname: 'Marca Amazon - MERAKI Joggers Ajustados Hombre  Gris  Charcoal Melange   XL  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQ55KDQ/?tag=tolees-21'
 descuento: '26.91'
 average: '8.91'

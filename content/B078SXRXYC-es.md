@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Timberland Capri Sunset Wedge  Sandalias para Mujer  Marrón  Rust Nubuck   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SXRXYC/?tag=tolees-21'
 descuento: '52.47'
 average: '47.53'

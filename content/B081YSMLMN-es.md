@@ -16,6 +16,7 @@ comparePrice: 12.22 EUR
 prodname: 'Jack & Jones Jorpex Sweat Hood Sudadera con Capucha  Ashley Blue  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YSMLMN/?tag=tolees-21'
 descuento: '27.00'
 average: '8.92'

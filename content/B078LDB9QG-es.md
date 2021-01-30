@@ -16,6 +16,7 @@ comparePrice: 89.1 EUR
 prodname: 'Tommy Jeans Original  Ryan  Vaqueros Straight para Hombre  Azul  River Dark Blue Comfort 911   W30/L36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078LDB9QG/?tag=tolees-21'
 descuento: '36.84'
 average: '56.28'

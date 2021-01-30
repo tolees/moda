@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Desigual T-Shirt NIKO Camiseta  Verde  Cactus 4029   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N46W4TH/?tag=tolees-21'
 descuento: '64.12'
 average: '21.51'

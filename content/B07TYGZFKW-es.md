@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s Graphic tee Camiseta  Blanco  Boxtab SS T2 White 0000   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYGZFKW/?tag=tolees-21'
 descuento: '22.55'
 average: '15.49'

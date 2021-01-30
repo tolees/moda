@@ -16,6 +16,7 @@ comparePrice: 29.83 EUR
 prodname: 'Marca Amazon – Goodthreads – Camisa dobby de manga corta y corte estándar para hombre  Azul  Navy Dot Dot   US XS  EU XS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F16SXKL/?tag=tolees-21'
 descuento: '51.99'
 average: '14.32'

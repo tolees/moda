@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ipanema Fashion Sand VII Fem  Sandalias con Tira Vertical para Mujer  Multicolor  Burgundy/Rose 9142.0   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZMW6FN/?tag=tolees-21'
 descuento: '25.34'
 average: '22.39'

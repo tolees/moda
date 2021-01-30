@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'adidas Lange Trainingshose Core 15 Pantalón  Hombre  Negro  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OBDN53Q/?tag=tolees-21'
 descuento: '71.00'
 average: '10.15'

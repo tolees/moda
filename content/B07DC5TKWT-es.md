@@ -16,6 +16,7 @@ comparePrice: 78.38 EUR
 prodname: 'LOVEVOOK Bolsos de las mujeres bolsos hobo bolso de mano satchel cartera Set 3pcs Azul claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC5TKWT/?tag=tolees-21'
 descuento: '48.98'
 average: '39.99'

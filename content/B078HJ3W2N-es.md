@@ -16,6 +16,7 @@ comparePrice: 11.24 EUR
 prodname: 'IRIS & LILLY Braguita de Algodón Mujer  Pack de 5  Multicolor  Twilight Blue/cashmere Blue    Talla del fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HJ3W2N/?tag=tolees-21'
 descuento: '59.96'
 average: '4.5'

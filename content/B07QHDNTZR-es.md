@@ -16,6 +16,7 @@ comparePrice: 92.95 EUR
 prodname: 'G-STAR RAW D-STAQ 3D Slim Vaqueros  Faded Quartz B604-A805  36W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHDNTZR/?tag=tolees-21'
 descuento: '39.69'
 average: '61.005'

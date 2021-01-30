@@ -16,6 +16,7 @@ comparePrice: 20.4 EUR
 prodname: 'AURIQUE Floral Print Legging Mallas de Entrenamiento  Negro  Black   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2F3KYD/?tag=tolees-21'
 descuento: '28.43'
 average: '14.6'

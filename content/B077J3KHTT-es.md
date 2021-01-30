@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'BOSS T-Shirt VN 3P CO Camiseta  Multicolor  Miscellaneous 999   Medium  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077J3KHTT/?tag=tolees-21'
 descuento: '41.14'
 average: '24.69'

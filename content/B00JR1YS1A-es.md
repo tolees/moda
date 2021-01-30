@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Timberland Euro Rock Hiker  Botas Chukka para Hombre  Azul  Medium Blue Nubuck   49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JR1YS1A/?tag=tolees-21'
 descuento: '38.86'
 average: '97.83'

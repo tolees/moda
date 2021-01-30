@@ -16,6 +16,7 @@ comparePrice: 17.81 EUR
 prodname: 'Vans Colorblock tee - Camiseta para Hombre   Azul  Dress Blues-White Short   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F31RHKT/?tag=tolees-21'
 descuento: '29.81'
 average: '12.5'

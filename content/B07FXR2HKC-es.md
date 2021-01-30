@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Havaianas Stars Wars  Chanclas Unisex Adulto  Multicolor  Black/Blue   33/34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXR2HKC/?tag=tolees-21'
 descuento: '73.17'
 average: '6.95'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Art Mykonos  Sandalias con Punta Abierta para Mujer  Marrón  Cuero Cuero   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771WRCZR/?tag=tolees-21'
 descuento: '44.42'
 average: '49.99'

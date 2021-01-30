@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox UOMO Snake F  Zapatillas para Hombre  Gris  Stone/Rock C9m5y   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZDQM6/?tag=tolees-21'
 descuento: '72.52'
 average: '27.45'

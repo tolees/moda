@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Bolso de Paja Crossbody  JOSEKO Bolso de Paja para Mujer Bolso Mimbre Bolsa de Hombro para Playa Viajar y Uso Diario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C9GNTCW/?tag=tolees-21'
 descuento: '26.33'
 average: '13.99'

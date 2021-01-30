@@ -16,6 +16,7 @@ comparePrice: 43.0 EUR
 prodname: 'Polaroid PLD 2058/S M9 003 55 Gafas de sol  Negro  Matt Black/Grey Grey   Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZJL6NZ/?tag=tolees-21'
 descuento: '26.67'
 average: '31.53'

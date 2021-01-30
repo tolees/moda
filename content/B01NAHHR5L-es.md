@@ -16,6 +16,7 @@ comparePrice: 32 EUR
 prodname: 'find. Blusa Camisera con Cintura Ajustable para Mujer   Azul  Stripe   42  Talla del Fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAHHR5L/?tag=tolees-21'
 descuento: '62.50'
 average: '12'

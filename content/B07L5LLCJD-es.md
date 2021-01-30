@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'RealMadrid Pelele Blanco 3-12 Meses  3 Meses '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5LLCJD/?tag=tolees-21'
 descuento: '16.62'
 average: '12.49'

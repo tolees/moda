@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Calvin Klein Jeans Ckj 016 Vaqueros Skinny  Azul  Copenhagen Grey 911   W28/L34  Talla del Fabricante: 3428  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TP652FK/?tag=tolees-21'
 descuento: '55.62'
 average: '43.94'

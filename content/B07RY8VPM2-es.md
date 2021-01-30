@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES NOS Jjesoft Sweat Crew Neck Noos Sudadera  Azul  Navy Blazerrelaxed   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY8VPM2/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

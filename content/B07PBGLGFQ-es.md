@@ -16,6 +16,7 @@ comparePrice: 10.74 EUR
 prodname: 'Marca Amazon - find. Vestido Estampado con Cinturón Anudado Mujer  Azul  BLUE   42  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBGLGFQ/?tag=tolees-21'
 descuento: '21.04'
 average: '10.413846153846153'

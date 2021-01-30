@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Zapatillas para Mujer Altas Aire Libre y Deporte Transpirables Casual Yoga Zapatos Gimnasio Correr Sneakers  Gris  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4ZC78F/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

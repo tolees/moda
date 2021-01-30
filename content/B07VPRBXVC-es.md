@@ -16,6 +16,7 @@ comparePrice: 17.46 EUR
 prodname: 'Tommy Hilfiger Essential Original tee S/s Camiseta  Azul  Exotic Teal 326/650 Ctx   Talla Única  Talla del Fabricante: 80  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPRBXVC/?tag=tolees-21'
 descuento: '52.46'
 average: '8.3'

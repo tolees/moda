@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Sylvie Flirty Swimwear Bryana  Braguita de Bikini para Mujer  Rosa  Pink 3300   40  Talla del fabricante: 38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y8FFZQ/?tag=tolees-21'
 descuento: '55.97'
 average: '15.335'

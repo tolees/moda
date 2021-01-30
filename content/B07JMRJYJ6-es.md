@@ -16,6 +16,7 @@ comparePrice: 9.59 EUR
 prodname: 'Appy Mama. Mujer Premama Jersey Camiseta Túnica Larga Manga. 947p  Verde con Patrón Amarillo  44  2XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMRJYJ6/?tag=tolees-21'
 descuento: '59.96'
 average: '3.84'

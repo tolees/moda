@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Tommy Hilfiger Cheeky String Side Tie Bikini Braguita  Verde  Pondarosa Pine 300   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFL9X2L/?tag=tolees-21'
 descuento: '30.17'
 average: '20.95'

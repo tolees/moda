@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Amarillo  Tennis Ball Green-Ocean   41-42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WLR3LJ/?tag=tolees-21'
 descuento: '19.86'
 average: '39.99'

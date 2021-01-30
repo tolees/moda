@@ -16,6 +16,7 @@ comparePrice: 10.75 EUR
 prodname: 'Springfield 3.T.Blusa Cruzada Bordado-C/96 Blusa  Beige  Ivory 96   40  Tamaño del Fabricante: 40  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W85TJ7F/?tag=tolees-21'
 descuento: '24.47'
 average: '8.12'

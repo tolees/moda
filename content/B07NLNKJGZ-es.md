@@ -16,6 +16,7 @@ comparePrice: 15.75 EUR
 prodname: 'ARTESANIA CERDA BOLSO RIÑONERA BATMAN  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLNKJGZ/?tag=tolees-21'
 descuento: '42.92'
 average: '9.844999999999999'

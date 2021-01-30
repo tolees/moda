@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Reef Smoothy - Chanclas para hombre  Negro  35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KMOFE0/?tag=tolees-21'
 descuento: '48.12'
 average: '15.059999999999999'

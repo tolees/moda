@@ -16,6 +16,7 @@ comparePrice: 7.23 EUR
 prodname: 'Marca Amazon - Daily Ritual - Camiseta de manga corta enrollable de algodón con cuello en V para mujer  Periwinkle  US S  EU S - M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZ8LKNZ/?tag=tolees-21'
 descuento: '50.62'
 average: '3.57'

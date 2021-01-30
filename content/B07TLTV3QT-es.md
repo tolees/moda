@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Abigail Daisy  Sandalias con Tira Vertical para Mujer  Azul  Blush Leather Blush Leather   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLTV3QT/?tag=tolees-21'
 descuento: '76.51'
 average: '18.78'

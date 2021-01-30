@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'LJP Funda iPhone XR  Suave PU Cuero Carcasa y TPU Funda Interna  Color Flip Wallet Case Cover para iPhone XR  Billetera Magnético con Función de Soporte  Ranuras para Tarjetas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CBVFJNB/?tag=tolees-21'
 descuento: '30.94'
 average: '7.59'

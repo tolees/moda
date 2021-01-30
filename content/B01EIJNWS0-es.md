@@ -16,6 +16,7 @@ comparePrice: 47.95 EUR
 prodname: 'Rieker Hombre Botines B1340  de Caballero Botas Chukka  Medias Botas  botín con Cordones Nuss 40 EU / 6.5 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EIJNWS0/?tag=tolees-21'
 descuento: '43.80'
 average: '26.95'

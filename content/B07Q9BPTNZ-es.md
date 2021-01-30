@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry VL Tonal Tape Hood Sudadera con Capucha  Negro  Black 02a   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9BPTNZ/?tag=tolees-21'
 descuento: '53.06'
 average: '37.55'

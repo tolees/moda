@@ -16,6 +16,7 @@ comparePrice: 67.9 EUR
 prodname: 'Geox J Alben D  Zapatillas para Niños  Azul  Navy/Red C0735   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK53D3H/?tag=tolees-21'
 descuento: '20.00'
 average: '54.32'

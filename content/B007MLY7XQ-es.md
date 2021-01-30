@@ -16,6 +16,7 @@ comparePrice: 20.86 EUR
 prodname: 'Derbystar Uni Spielertrikot - Camiseta de equipación  tamaño 116/128  Color Amarillo/Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007MLY7XQ/?tag=tolees-21'
 descuento: '55.80'
 average: '9.22'

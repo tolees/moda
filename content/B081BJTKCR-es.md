@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Challenger Chaqueta Cortavientos  Hombre  Blanco  White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BJTKCR/?tag=tolees-21'
 descuento: '61.42'
 average: '27.0'

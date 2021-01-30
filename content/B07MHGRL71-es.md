@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Iris & Lilly Bli2036  brallete sujetador Mujer  Negro  Black Beauty   Small  Talla fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHGRL71/?tag=tolees-21'
 descuento: '35.02'
 average: '10.39'

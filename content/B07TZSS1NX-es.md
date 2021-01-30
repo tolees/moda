@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Superga 1908-puu  Zapatos de Playa y Piscina Unisex Adulto  Multicolor  Silver/Black/Orange A0c   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZSS1NX/?tag=tolees-21'
 descuento: '32.55'
 average: '18.085'

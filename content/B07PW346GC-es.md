@@ -16,6 +16,7 @@ comparePrice: 28.2 EUR
 prodname: 'New Look Powder Super Vaqueros Pitillo Hombre  Azul  Light Blue 45   W32/L32  Talla del Fabricante: 32R '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PW346GC/?tag=tolees-21'
 descuento: '57.45'
 average: '12.0'

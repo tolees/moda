@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'FUSHITON Hombre Zapatillas Casual Calzado Deportivo Moda Sneakers Zapatos Antideslizantes Transpirable Cómodo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BRCG1QR/?tag=tolees-21'
 descuento: '38.34'
 average: '36.99'

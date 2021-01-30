@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre  Marrón  Dark Brown Tumbled-   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR38RZ8/?tag=tolees-21'
 descuento: '30.02'
 average: '53.266666666666666'

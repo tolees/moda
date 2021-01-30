@@ -16,6 +16,7 @@ comparePrice: 36.47 EUR
 prodname: 'Asics Gel-Rocket 9  Zapatilla para Deportes para Hombre  Blanco/Chaquetón  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SV2LS46/?tag=tolees-21'
 descuento: '21.06'
 average: '40.370000000000005'

@@ -16,6 +16,7 @@ comparePrice: 112.95 EUR
 prodname: 'Helly Hansen K Legend Ins Jacket Chaqueta  Unisex niños  039 Festival Fuchsia  3 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBNZPCL/?tag=tolees-21'
 descuento: '44.22'
 average: '63.0'

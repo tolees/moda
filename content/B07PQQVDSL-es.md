@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Celio Pudaim Chaqueta  Beige  Camel Camel   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQQVDSL/?tag=tolees-21'
 descuento: '47.55'
 average: '36.955'

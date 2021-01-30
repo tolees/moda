@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lee Emblem T Camiseta  Azul  Sky Blue LM   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKWJSNR/?tag=tolees-21'
 descuento: '67.55'
 average: '7.42'

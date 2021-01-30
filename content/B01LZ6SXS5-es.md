@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'NK GF3114 - Gafas con Visor Adaptador 3D Realidad Virtual VR - Smartphone  con Auriculares  Ángulo de visión 100°  Lente 42mm  Android & iOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ6SXS5/?tag=tolees-21'
 descuento: '20.00'
 average: '23.96'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Pepe Jeans Original Stretch  Camiseta para Hombre  Gris  Grey Marl   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN5NKQC/?tag=tolees-21'
 descuento: '53.37'
 average: '13.323333333333334'

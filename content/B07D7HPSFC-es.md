@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Oculus Go  Gafas y Auriculares Independientes De Realidad Virtual  32 Gb'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7HPSFC/?tag=tolees-21'
 descuento: '29.79'
 average: '170.48777777777778'

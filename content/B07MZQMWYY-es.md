@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Pepe Jeans Lionel Sudadera   Old Navy 584   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQMWYY/?tag=tolees-21'
 descuento: '22.48'
 average: '18.972'

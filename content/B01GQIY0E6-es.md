@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Reef Contoured Cushion  Chanclas para Hombre  Negro  Black BLA   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GQIY0E6/?tag=tolees-21'
 descuento: '39.53'
 average: '19.95'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Silver Ridge 2.0 Camisa de Manga Larga  Mujer  Beige  Fossil   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRWJV8D/?tag=tolees-21'
 descuento: '39.24'
 average: '39.49'

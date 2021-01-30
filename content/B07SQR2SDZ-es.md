@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Quiksilver Molokai Vacancy Youth  Zapatos de Playa y Piscina para Niños  Multicolor  Black/Green/Black Xkgk   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQR2SDZ/?tag=tolees-21'
 descuento: '38.91'
 average: '10.99'

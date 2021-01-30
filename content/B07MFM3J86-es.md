@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Atticus Cap  Zapatos de Cordones Derby para Hombre  Marrón Tan Leather  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFM3J86/?tag=tolees-21'
 descuento: '71.16'
 average: '34.74'

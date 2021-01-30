@@ -16,6 +16,7 @@ comparePrice: 16.09 EUR
 prodname: 'Zerone Camisetas de Camuflaje de Manga Larga y Corta de algodón Características Camisa de Manga Larga de Camuflaje Woodland Camisa para Acampar Deportes al Aire Libre XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQMP5D9/?tag=tolees-21'
 descuento: '31.70'
 average: '10.99'

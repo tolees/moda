@@ -16,6 +16,7 @@ comparePrice: 12.96 EUR
 prodname: 'Amazon Essentials - Chaqueta deportiva con media cremallera para niña  Agua  Aqua   US XS  EU 104-110 CM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQNP5XB/?tag=tolees-21'
 descuento: '52.39'
 average: '7.28'

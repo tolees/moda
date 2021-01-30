@@ -16,6 +16,7 @@ comparePrice: 26 EUR
 prodname: 'AURIQUE Mallas de Entrenamiento  Negro  Black High Shine/Grey Marl   40  Talla del Fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2DRB4B/?tag=tolees-21'
 descuento: '20.00'
 average: '20.8'

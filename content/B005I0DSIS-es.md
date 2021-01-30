@@ -16,6 +16,7 @@ comparePrice: 68.0 EUR
 prodname: 'Carissima Gold Collar con colgante de mujer con oro amarillo 9 K  375   46 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005I0DSIS/?tag=tolees-21'
 descuento: '25.00'
 average: '51.0'

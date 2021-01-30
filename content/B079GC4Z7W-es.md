@@ -16,6 +16,7 @@ comparePrice: 10.39 EUR
 prodname: 'find. Sandalias con Pulsera Mujer  Marrón  Brown Brown   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079GC4Z7W/?tag=tolees-21'
 descuento: '30.32'
 average: '7.24'

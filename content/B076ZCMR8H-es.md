@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'TRUTH & FABLE 13842 vestido dama de honor mujer  Rosa  Bridal Rose   36  Talla del Fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076ZCMR8H/?tag=tolees-21'
 descuento: '70.00'
 average: '18'

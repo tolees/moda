@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Under Armour UA Qualifier Storm Packable Jacket Chaqueta  Hombre  Negro  Black/Black/Reflective 001   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZJGD5Z/?tag=tolees-21'
 descuento: '65.53'
 average: '34.47'

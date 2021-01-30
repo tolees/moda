@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'ValueHall Crampones universales 18 dientes acero hielo Grips antideslizante nieve y hielo tracción tacos zapato cadenas seguro protegen zapatos  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCZDR4A/?tag=tolees-21'
 descuento: '38.48'
 average: '14.656666666666666'

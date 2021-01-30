@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Napapijri Avio Chaqueta  Verde  Green Forest 2 Ge3   XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPCCT/?tag=tolees-21'
 descuento: '78.56'
 average: '85.53'

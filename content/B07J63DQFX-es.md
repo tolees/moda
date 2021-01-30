@@ -16,6 +16,7 @@ comparePrice: 13.79 EUR
 prodname: 'Happy Cherry - Ropa Invierno Acolchada de Algodón para Infantiles Abrigo Caliente de Bebes Chaqueta Amarillo para Bebé Niños de 18-24 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J63DQFX/?tag=tolees-21'
 descuento: '20.01'
 average: '11.03'

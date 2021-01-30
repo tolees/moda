@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Kigu Isabel Collar con Nombre - Chapado en Oro Personalizado de 18 Quilates - Cadena Ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRBJFRD/?tag=tolees-21'
 descuento: '50.01'
 average: '34.99'

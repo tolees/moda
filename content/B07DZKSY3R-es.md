@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Azul  Dark Mountain Crosshatch Print   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DZKSY3R/?tag=tolees-21'
 descuento: '46.19'
 average: '64.18'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler LS 2pkt Flap Shirt Camisa  Multicolor  Dress Blue X20   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R15BQZ4/?tag=tolees-21'
 descuento: '78.18'
 average: '15.26'

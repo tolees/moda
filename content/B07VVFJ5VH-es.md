@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger Small T Camiseta de Cuello Redondo y Logo Engomado  Gris  Lt Grey Htr P01   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVFJ5VH/?tag=tolees-21'
 descuento: '45.46'
 average: '19.09'

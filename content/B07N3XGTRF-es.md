@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Mizuno Wave Momentum  Zapatos de Voleibol para Mujer  Weiß  Nimbus Cloud/10135c/Wht 52 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3XGTRF/?tag=tolees-21'
 descuento: '42.70'
 average: '85.95'

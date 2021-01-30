@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Mujer  White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2S3VMG/?tag=tolees-21'
 descuento: '79.56'
 average: '50.41'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Woven Graphic Pantalón Corto  Hombre  Azul  Academy-409   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XNVKFC/?tag=tolees-21'
 descuento: '39.93'
 average: '15.81'

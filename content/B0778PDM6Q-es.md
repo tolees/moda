@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: 'Amazon Brand - AURIQUE Legging deportivos con tejido brillante y paneles laterales para mujer  Multicolor  Digital Blur   40  Label:M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0778PDM6Q/?tag=tolees-21'
 descuento: '30.97'
 average: '13.73'

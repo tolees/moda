@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Tommy Hilfiger Saba Short Packable Windbreaker Chaqueta Impermeable  Morado  Pink Lavender 503   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBKQD87/?tag=tolees-21'
 descuento: '80.06'
 average: '40.54'

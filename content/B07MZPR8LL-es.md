@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Nadia Sudadera   Grey Marl 933   17-18 años de Edad  Talla del Fabricante: 17/18 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPR8LL/?tag=tolees-21'
 descuento: '69.51'
 average: '16.77'

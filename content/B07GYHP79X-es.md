@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Infinito Perla Cultivada Blanca de Agua Dulce 10mm Regalo Novia o Esposa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYHP79X/?tag=tolees-21'
 descuento: '87.59'
 average: '19.2'

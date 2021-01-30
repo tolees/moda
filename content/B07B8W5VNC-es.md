@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Vargo Plain  Zapatos de Cordones Derby  Marrón  Dark Tan Leather-   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8W5VNC/?tag=tolees-21'
 descuento: '43.76'
 average: '50.59'

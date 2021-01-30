@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Liga Jersey Camiseta  Hombre  Blanco  White/Electric Blue   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0795BZB8M/?tag=tolees-21'
 descuento: '45.86'
 average: '10.395'

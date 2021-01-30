@@ -16,6 +16,7 @@ comparePrice: 38.28 EUR
 prodname: 'Geox U HALLSON A  Botas Chukka para Hombre  Negro  Black C9999   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV95KS/?tag=tolees-21'
 descuento: '30.59'
 average: '26.57'

@@ -16,6 +16,7 @@ comparePrice: 132.0 EUR
 prodname: 'Ray-Ban Justin RB4165 - Gafas de sol Unisex  Gris  Transparent Grey Rubber 852/88   54 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005IAFL60/?tag=tolees-21'
 descuento: '36.73'
 average: '83.51'

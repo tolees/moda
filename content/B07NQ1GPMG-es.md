@@ -16,6 +16,7 @@ comparePrice: 10.51 EUR
 prodname: 'Marca Amazon - MERAKI Shorts de Lino Mujer  Marfil  Ecru   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQ1GPMG/?tag=tolees-21'
 descuento: '25.12'
 average: '7.53'

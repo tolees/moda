@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BLEND Jet Vaqueros Slim  Azul  Denim Light Blue 76200   W33/L30  Talla del Fabricante: 33/30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB4PN1K/?tag=tolees-21'
 descuento: '68.77'
 average: '15.6'

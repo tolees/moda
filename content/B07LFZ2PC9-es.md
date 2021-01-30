@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Jaysen D  Zapatillas para Mujer  Negro  Black C9999   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZ2PC9/?tag=tolees-21'
 descuento: '74.01'
 average: '30.995'

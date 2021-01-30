@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Pouring Adventure II Chaqueta para Lluvia  Hombre  Azul  Dark Mountain   Talla: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCXCT8G/?tag=tolees-21'
 descuento: '56.15'
 average: '39.46'

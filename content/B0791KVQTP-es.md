@@ -16,6 +16,7 @@ comparePrice: 47.27 EUR
 prodname: 'Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Negro  Black-   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0791KVQTP/?tag=tolees-21'
 descuento: '25.60'
 average: '35.524'

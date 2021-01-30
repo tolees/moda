@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'EULAGPRE Zapatillas de Lino Zapatos de Piso Zapatillas de Cinturón Cruzado Silent Sweat Sandalias de Mujer de Verano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711PXTWP/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

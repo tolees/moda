@@ -16,6 +16,7 @@ comparePrice: 148.99 EUR
 prodname: 'CIVO Relojes Mujeres Oro Rosa Impermeable de Acero Inoxidable Reloj Mujer de Pulsera Marea Vestido Relojes Analógicos con Esfera Marrón para Mujeres Damas Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHDBPWY/?tag=tolees-21'
 descuento: '81.88'
 average: '26.99'

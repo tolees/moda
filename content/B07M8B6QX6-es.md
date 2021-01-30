@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Greensboro Vaqueros  Azul  Something Warm 67q   33 W/ 34 L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8B6QX6/?tag=tolees-21'
 descuento: '49.99'
 average: '44.98'

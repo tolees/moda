@@ -16,6 +16,7 @@ comparePrice: 28.74 EUR
 prodname: 'Desigual T-Shirt Andora Camiseta  Rojo  Rojo Oscuro 3029   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3VZRT9/?tag=tolees-21'
 descuento: '20.70'
 average: '22.79'

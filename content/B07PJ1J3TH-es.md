@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HAWKERS · LAX · Karat · Rose gold TR18 · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJ1J3TH/?tag=tolees-21'
 descuento: '39.98'
 average: '24.0'

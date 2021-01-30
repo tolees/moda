@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'GRACE KARIN Mujer Vestido Fuera del Hombro Vintage Retro de Cóctel Fiesta Vestido S CL011020-3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3KS2ZW/?tag=tolees-21'
 descuento: '27.79'
 average: '25.99'

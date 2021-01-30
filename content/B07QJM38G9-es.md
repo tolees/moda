@@ -16,6 +16,7 @@ comparePrice: 26.07 EUR
 prodname: 'Marca Amazon - AURIQUE Mallas de Deporte con Panel de Rejilla Mujer  Negro  Black   36  Label:XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJM38G9/?tag=tolees-21'
 descuento: '43.15'
 average: '14.82'

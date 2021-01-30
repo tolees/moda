@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Levi s LS Battery Hm Shirt Camisa  Negro  Black 0002   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDWCY8B/?tag=tolees-21'
 descuento: '45.02'
 average: '43.155'

@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Nadia Sudadera   Grey Marl 933   7-8 años  Talla del Fabricante: 7/8 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPVPDM/?tag=tolees-21'
 descuento: '68.11'
 average: '17.54'

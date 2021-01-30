@@ -16,6 +16,7 @@ comparePrice: 42.46 EUR
 prodname: 'HIKARO Sudadera con Cremallera y Capucha Mujer  Rosa  Coral   36  Talla del fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YDTT7Q/?tag=tolees-21'
 descuento: '64.70'
 average: '14.99'

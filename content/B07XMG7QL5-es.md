@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jjigeorge Shirt Stretch LS Camisa Vaquera  Azul  Dark Blue Denim Fit:Super Slim   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMG7QL5/?tag=tolees-21'
 descuento: '70.39'
 average: '13.6925'

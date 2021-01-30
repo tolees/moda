@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'FIRENZE ARTEGIANI. Mochila Mujer Casual Piel auténtica.Mochila Bolso Cuero Genuino Dollaro.Tacto Suave.Asa de Mano. Mochila Mujer. Made in Italy. Vera Pelle Italiana. 26x27x14 cm. Color: Taupe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDLR4R6/?tag=tolees-21'
 descuento: '68.42'
 average: '59.99'

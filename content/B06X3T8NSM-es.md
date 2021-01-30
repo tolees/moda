@@ -16,6 +16,7 @@ comparePrice: 15.21 EUR
 prodname: 'Marca Amazon - find. Slip para Hombre Y-Front  Multipack  Negro  Charcoal X3  White X2   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X3T8NSM/?tag=tolees-21'
 descuento: '18.47'
 average: '12.4'

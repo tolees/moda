@@ -16,6 +16,7 @@ comparePrice: 230 EUR
 prodname: 'Helly Hansen Verglas Down Insulator Chaqueta de Down  Mujer  Color Negro  tamaño Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHDS6BP/?tag=tolees-21'
 descuento: '45.41'
 average: '125.56'

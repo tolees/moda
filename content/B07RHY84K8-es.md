@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance 520v6  Zapatos para Correr para Mujer  Azul Blue Ln6  405 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHY84K8/?tag=tolees-21'
 descuento: '56.20'
 average: '34.205'

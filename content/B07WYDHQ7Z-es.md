@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Omasi Gafas de esquí  Máscara Gafas Esqui Snowboard para Hombre Mujer Adultos Anti Niebla Gafas de Esquiar OTG Protección UV Lente Intercambiable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WYDHQ7Z/?tag=tolees-21'
 descuento: '37.85'
 average: '22.99'

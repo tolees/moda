@@ -16,6 +16,7 @@ comparePrice: 58.9 EUR
 prodname: 'Marca Amazon - find. Leather Gumsole Botas Chelsea  Marrón Chocolate  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NF7FCJV/?tag=tolees-21'
 descuento: '55.18'
 average: '26.4'

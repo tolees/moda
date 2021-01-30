@@ -16,6 +16,7 @@ comparePrice: 21.49 EUR
 prodname: 'Amazon Essentials 6-Pack Crewneck Undershirts Camisa  Negro  Black   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WY2RWL/?tag=tolees-21'
 descuento: '29.50'
 average: '15.15'

@@ -16,6 +16,7 @@ comparePrice: 8.3 EUR
 prodname: 'Joma Nobel Pantalón de equipación  Azul celeste  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AXYMKDC/?tag=tolees-21'
 descuento: '27.83'
 average: '5.99'

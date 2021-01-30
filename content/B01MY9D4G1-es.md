@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'B.Catcher Mujer Collar Colgante Plata de Ley 925 con Doble corazón con Para Regalo San Valentín Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY9D4G1/?tag=tolees-21'
 descuento: '31.85'
 average: '26.71333333333333'

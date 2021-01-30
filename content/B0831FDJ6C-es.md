@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'Gafas de Presbicia con Visión Ultra Nítida Especiales para Lectura. Gafas para Vista Cansada para Hombre y Mujer. Tacto Goma y Cristales Anti-reflejantes. Indigo +2.5 – ARKEN BOOK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0831FDJ6C/?tag=tolees-21'
 descuento: '55.19'
 average: '17.43'

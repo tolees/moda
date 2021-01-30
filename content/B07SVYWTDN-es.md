@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Molokai Nubuck II  Zapatos de Playa y Piscina para Hombre  Marrón  Tan/Solid Tkd0   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVYWTDN/?tag=tolees-21'
 descuento: '68.99'
 average: '9.3'

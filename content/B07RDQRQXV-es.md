@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Tommy Hilfiger TJM Novel Logo Crew Jersey de Deporte  Gris  Grey P   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDQRQXV/?tag=tolees-21'
 descuento: '58.60'
 average: '32.86'

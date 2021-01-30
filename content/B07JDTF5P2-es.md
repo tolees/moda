@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Lacoste Sh6382 Sudadera  Azul  Marine 166   XX-Large  Talla del Fabricante: 7  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JDTF5P2/?tag=tolees-21'
 descuento: '35.30'
 average: '71.17'

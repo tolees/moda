@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Vero Moda NOS Vmexcursionexpedition 3/4 Parka Noos  Rojo  Port Royale Port Royale   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC9QKG5/?tag=tolees-21'
 descuento: '34.27'
 average: '32.86'

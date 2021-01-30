@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Napapijri Aric Chaqueta  Rojo  Red Scarlet R01   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLP46B/?tag=tolees-21'
 descuento: '60.00'
 average: '139.6'

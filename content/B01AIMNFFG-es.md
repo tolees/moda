@@ -16,6 +16,7 @@ comparePrice: 23.56 EUR
 prodname: 'Relaxdays – Zapatero Compuesto de estructuras de Acero  Tela y Conectores de plástico con Medidas 90.5 x 87 x 29.5 cm 5 Pisos hasta 25 Pares de Zapatos  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AIMNFFG/?tag=tolees-21'
 descuento: '23.64'
 average: '17.99'

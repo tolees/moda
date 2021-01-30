@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'FeelinGirl Mujer Vestido Maxi Estampado Floral Espalda Abierta Falda Larga Talla Grande para Fiesta Noche Casual Sexy Elegante Playa Blanco 3XL Talla 46-48 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4KC9Y8/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

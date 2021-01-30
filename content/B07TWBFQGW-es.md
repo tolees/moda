@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s The tee Camiseta  Rojo  BRW T2 Tomato 0792   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWBFQGW/?tag=tolees-21'
 descuento: '63.37'
 average: '14.076666666666668'

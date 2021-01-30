@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Lol Surprise Pijama para niñas Dolls Multicolor 6-7 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GS5Y9J9/?tag=tolees-21'
 descuento: '30.08'
 average: '14.45'

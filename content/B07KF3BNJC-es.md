@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Graphic Set-in Neck  Camiseta para Hombre  Blanco  501 T2 White 0548   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF3BNJC/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

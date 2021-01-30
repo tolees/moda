@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Roxy Epic Afternoon Camiseta  Mujer  Blanco  Snow White   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825PWLM1/?tag=tolees-21'
 descuento: '27.76'
 average: '14.44'

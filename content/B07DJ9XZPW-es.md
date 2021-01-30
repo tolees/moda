@@ -16,6 +16,7 @@ comparePrice: 18.96 EUR
 prodname: 'Honghu Verano Sexy Mangas Corta Low Culleo Slim Fit Vestido para Mujer Party Dress  S  Khaki '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ9XZPW/?tag=tolees-21'
 descuento: '82.65'
 average: '3.29'

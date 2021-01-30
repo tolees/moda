@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'SIMYJOY Mujere Hip Pop Fans Sudaderas Rapper Llorar Niñas Cool Hip Pop Jersey Loose Fitting Top Rojo 4XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJ19N2F/?tag=tolees-21'
 descuento: '63.66'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 33.75 EUR
 prodname: 'find. 64635 vaqueros mujer  Azul  Blue   W36/L32  Talla del Fabricante: 46 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078FBYJQR/?tag=tolees-21'
 descuento: '60.00'
 average: '13.5'

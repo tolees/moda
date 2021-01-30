@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Timberland Killington  Botas Clasicas para Hombre  Beige  Wheat Nubuck 231   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JDV50HO/?tag=tolees-21'
 descuento: '35.56'
 average: '86.99'

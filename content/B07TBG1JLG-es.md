@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver Mental Notes T-Shirt Men Camiseta de Manga Corta  Hombre  Gris  Light Grey Heather   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBG1JLG/?tag=tolees-21'
 descuento: '49.87'
 average: '10.02'

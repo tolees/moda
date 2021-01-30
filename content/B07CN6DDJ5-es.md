@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Baya Clog  Zuecos Unisex Niños  Verde  Volt Green 395   29/30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN6DDJ5/?tag=tolees-21'
 descuento: '25.13'
 average: '23.95'

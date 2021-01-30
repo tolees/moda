@@ -16,6 +16,7 @@ comparePrice: 10.6 EUR
 prodname: 'Morgan 191-mentor.n Camiseta  Negro  Noir Noir   X-Large  Talla del Fabricante: TXL  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9YJ6BC/?tag=tolees-21'
 descuento: '25.94'
 average: '7.85'

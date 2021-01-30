@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Timberland Capri Sunset Wedge  Sandalias para Mujer  Verde  Olive Nubuck   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FH9GW6Z/?tag=tolees-21'
 descuento: '50.00'
 average: '50.0'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Clarks Step Beat Dune  Zapatos de Cordones Derby para Hombre  Azul  Navy-   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR3LQB3/?tag=tolees-21'
 descuento: '38.07'
 average: '34.03'

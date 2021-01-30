@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Geox Jr Sandal Strada A  Sandalias con Punta Abierta para Niños  Azul  Navy/Red C0735   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSJ8XWM/?tag=tolees-21'
 descuento: '41.02'
 average: '38.34'

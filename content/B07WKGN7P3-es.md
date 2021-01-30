@@ -16,6 +16,7 @@ comparePrice: 17.51 EUR
 prodname: 'New Look Faith Belted PU Biker Chaqueta  Beige  Light Khaki 33   40 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WKGN7P3/?tag=tolees-21'
 descuento: '32.32'
 average: '11.85'

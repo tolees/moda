@@ -16,6 +16,7 @@ comparePrice: 18.91 EUR
 prodname: 'HKT by Hackett Hkt Crew Sudadera   Petroleo 5er   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ2Q1LM/?tag=tolees-21'
 descuento: '16.02'
 average: '15.88'

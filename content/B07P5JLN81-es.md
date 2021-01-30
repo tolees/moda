@@ -16,6 +16,7 @@ comparePrice: 8.2 EUR
 prodname: 'Joma Combi Camiseta Entrenamiento  Hombre  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5JLN81/?tag=tolees-21'
 descuento: '39.15'
 average: '4.99'

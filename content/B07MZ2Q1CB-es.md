@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Vans Flying V Crew tee Camiseta  Negro  Black Blk   36  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ2Q1CB/?tag=tolees-21'
 descuento: '35.71'
 average: '18.0'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'United Colors of Benetton Basico 1 Man Vaqueros Straight  Azul  BLU Medio 902   38  Talla del Fabricante: 28  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076Q8ZTBC/?tag=tolees-21'
 descuento: '56.75'
 average: '17.28'

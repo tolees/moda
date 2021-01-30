@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Hombre Camiseta técnica de manga larga  M Engineered Half Zip  Nailon  Azul  Mountain   Talla L  1820781'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J4MM8LL/?tag=tolees-21'
 descuento: '47.18'
 average: '24.653333333333332'

@@ -16,6 +16,7 @@ comparePrice: 14.35 EUR
 prodname: 'HIKARO Sudadera con Capucha Hombre  Azul  Navy   48  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YDLL7Q/?tag=tolees-21'
 descuento: '48.15'
 average: '7.44'

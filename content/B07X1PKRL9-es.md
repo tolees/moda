@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Zapatillas de Running Hombre Zapatillas para Hombre Calzado Deportivo Ligero y Transpirable Asfalto Zapatos para Correr Antideslizante Sneakers Blanco 44EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1PKRL9/?tag=tolees-21'
 descuento: '50.01'
 average: '34.99'

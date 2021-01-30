@@ -16,6 +16,7 @@ comparePrice: 84.0 EUR
 prodname: 'Timberland Authentic 6” – Botas para Niños  Marrón  Brown Smooth   30.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002Y0EUA0/?tag=tolees-21'
 descuento: '53.31'
 average: '35.81666666666667'

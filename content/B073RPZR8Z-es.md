@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Helly Hansen W HH Tech T-Shirt Camiseta  Mujer  White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPZR8Z/?tag=tolees-21'
 descuento: '47.55'
 average: '10.49'

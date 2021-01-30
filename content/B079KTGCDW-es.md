@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Foino Bolso de Moda Bolso Bandolera Mujer Bolsas de Viaje Bolsos Escolares Bolsa de Deporte Ligero Vintage Colegio Libro Travel Bag para Tablet Bolsa Diseño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KTGCDW/?tag=tolees-21'
 descuento: '50.01'
 average: '18.99'

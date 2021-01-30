@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Slim Crew Dress Blues/White 0002   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8N4BG/?tag=tolees-21'
 descuento: '69.20'
 average: '11.883333333333333'

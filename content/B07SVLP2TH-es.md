@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Greylags 100% Algodón Prima Camiseta | Cuello Redondo | Chaleco | Shirt | Camiseta sin Mangas para Hombres | Paquete de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVLP2TH/?tag=tolees-21'
 descuento: '40.03'
 average: '20.96'

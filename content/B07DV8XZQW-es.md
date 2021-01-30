@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Kyra III  Sandalias para Mujer  Negro  Shark  Steam   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV8XZQW/?tag=tolees-21'
 descuento: '36.67'
 average: '37.99'

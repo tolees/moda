@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip Women  Chanclas para Mujer  Azul  Navy 410   38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBB82SR/?tag=tolees-21'
 descuento: '25.21'
 average: '15.745000000000001'

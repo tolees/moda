@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Azul  Franklin LTWT Warp 0120   33W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VLBYVY/?tag=tolees-21'
 descuento: '54.64'
 average: '62.58666666666666'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Blend 700522 Blizzard - Vaqueros para hombres  color azul  blau 961   talla W30/L30  Talla del fabricante: 30 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JEWC0VW/?tag=tolees-21'
 descuento: '56.97'
 average: '18.2075'

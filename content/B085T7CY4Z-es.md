@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'LIVACASA Riñoneras Mujeres Deportivas Riñoneras de Moda Impermeable de Marcha Running Brillante Ligero Bolsa de Cinturón Bandorela para Correr Ciclismo Paseo al Aire Libre Negro Brillante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085T7CY4Z/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

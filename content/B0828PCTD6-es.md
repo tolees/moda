@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Mujer Vestido Elegante Años 50 Vestido de Mujeres Rockabilly Clásico L CL010698-15'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828PCTD6/?tag=tolees-21'
 descuento: '33.34'
 average: '23.99'

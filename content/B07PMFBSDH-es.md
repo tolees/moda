@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'El Ganso Urban INTERSEASON Camisa casual  Azul  Azul 0017   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMFBSDH/?tag=tolees-21'
 descuento: '65.49'
 average: '24.454'

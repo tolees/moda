@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Texas Contrast Vaqueros  Azul  Darkstone 009   40W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5BGTXB/?tag=tolees-21'
 descuento: '30.59'
 average: '55.47'

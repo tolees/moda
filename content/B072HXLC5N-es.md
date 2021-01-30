@@ -16,6 +16,7 @@ comparePrice: 76.95 EUR
 prodname: 'Chaqueta Softshell Inatye'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072HXLC5N/?tag=tolees-21'
 descuento: '35.05'
 average: '49.98'

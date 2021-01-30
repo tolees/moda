@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'Geox B RISHON Girl B  Zapatillas para Bebés  Gris  Dk Grey/Pink C0952   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG42ZHS/?tag=tolees-21'
 descuento: '36.89'
 average: '28.4'

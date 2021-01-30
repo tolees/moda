@@ -16,6 +16,7 @@ comparePrice: 21.89 EUR
 prodname: 'Rocf Rossini Gafas de Sol Mujer Polarizadas Medio Marco Classic Horn Rimmed Gafas para Hombres Vintage Conducción CAT.3 Protección UV400  Tortuga/Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSR8F61/?tag=tolees-21'
 descuento: '40.66'
 average: '12.99'

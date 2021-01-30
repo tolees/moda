@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Apanphy® Bolsa de Aseo Neceseres de Viaje Travel Bolso cosmético Bolso de Maquillaje Almacenamiento portátil Estuche de Maquillaje con asa Makeup Toiletry Bag para Hombres Mujeres -Azul Profundo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYYG5TQ/?tag=tolees-21'
 descuento: '42.10'
 average: '11.58'

@@ -16,6 +16,7 @@ comparePrice: 35.24 EUR
 prodname: 'Geox D SUZZIE D  Zapatillas sin Cordones para Mujer  Blanco  White/Lt Gold C1327   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLYLG6/?tag=tolees-21'
 descuento: '35.05'
 average: '22.89'

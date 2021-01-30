@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Gris  Dk Grey/Navy C0739   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK3NXWL/?tag=tolees-21'
 descuento: '40.85'
 average: '38.45'

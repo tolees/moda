@@ -16,6 +16,7 @@ comparePrice: 36 EUR
 prodname: 'FIND Court Zapatos de Tacón  Rosa Nude  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D45RHG1/?tag=tolees-21'
 descuento: '30.00'
 average: '25.2'

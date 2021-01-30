@@ -16,6 +16,7 @@ comparePrice: 28.78 EUR
 prodname: 'Paoseven Freemason - Camiseta de manga corta unisex con logo masónico  color negro Rosa rosa 3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CXKMS17/?tag=tolees-21'
 descuento: '50.03'
 average: '14.38'

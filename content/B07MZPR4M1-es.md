@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Mohsen Sudadera   Grey Marl 933   11-12 años  Talla del Fabricante: 11/12 años  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPR4M1/?tag=tolees-21'
 descuento: '52.40'
 average: '20.18'

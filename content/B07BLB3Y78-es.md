@@ -16,6 +16,7 @@ comparePrice: 18 EUR
 prodname: 'AURIQUE Racerback Camiseta deportiva de tirantes  Multicolor  Black And Serenity   42  Talla del Fabricante: Large   Pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BLB3Y78/?tag=tolees-21'
 descuento: '70.00'
 average: '5.4'

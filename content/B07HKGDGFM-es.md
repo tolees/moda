@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'Under Armour UA Lockdown 4  Zapatos de Baloncesto para Hombre  Negro  Black 001   50.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKGDGFM/?tag=tolees-21'
 descuento: '31.03'
 average: '48.28'

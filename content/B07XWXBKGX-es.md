@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'IPOTCH Collar De Signo De Paz De Color Iris De 3 Piezas  Pendientes Y Diadema para Mujeres Y Hombres  Accesorios De Disfraces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XWXBKGX/?tag=tolees-21'
 descuento: '33.37'
 average: '6.99'

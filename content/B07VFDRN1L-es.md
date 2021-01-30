@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Vero Moda Vmmalena LS Rollneck Short Dress Noos Vestido  Gris  Light Grey Melange Light Grey Melange   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFDRN1L/?tag=tolees-21'
 descuento: '81.14'
 average: '5.09'

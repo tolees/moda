@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Lacoste Sport Th3377 Camiseta  Azul  Marine/Citron 05e Ye4   X-Small  Talla del Fabricante: 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJXC3GB/?tag=tolees-21'
 descuento: '49.52'
 average: '25.24'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Mujer Tech Short Sleeve V - Twist  Camiseta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J2ZZ5G2/?tag=tolees-21'
 descuento: '51.68'
 average: '13.53'

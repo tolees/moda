@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Shirt Frida Camisa  Blanco  Blanco 1000   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N39ZTBX/?tag=tolees-21'
 descuento: '44.58'
 average: '44.31'

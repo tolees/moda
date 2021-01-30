@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U LEITAN C  Mocasines para Hombre  Negro  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792HC7TB/?tag=tolees-21'
 descuento: '40.99'
 average: '58.95'

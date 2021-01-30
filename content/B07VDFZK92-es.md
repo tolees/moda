@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Desigual TS Milan Camiseta  Amarillo  Blazing 8035   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDFZK92/?tag=tolees-21'
 descuento: '47.98'
 average: '15.58'

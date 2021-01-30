@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Wrangler Flare Vaqueros evasé  Azul  Holiday 12y   W24/L32  Talla del Fabricante: 24/32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVKPG2D/?tag=tolees-21'
 descuento: '57.77'
 average: '42.21'

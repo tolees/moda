@@ -16,6 +16,7 @@ comparePrice: 125 EUR
 prodname: 'Geox D New ANNYA Mid B  Botines para Mujer  Marrón  Brown C0013   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRN381/?tag=tolees-21'
 descuento: '30.00'
 average: '87.5'

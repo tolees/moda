@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Conjunto regalo cumpleaños Cake Topper + Body o camiseta personalizado con el nombre decoración fiesta animales para Bebes Unisex Niños Niñas primer cumpleaños velas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RP3HJZ2/?tag=tolees-21'
 descuento: '20.04'
 average: '19.45'

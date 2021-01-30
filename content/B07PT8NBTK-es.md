@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'Marca Amazon - MERAKI Jersey de Algodón con Cremallera Hombre  Azul  Navy Denim   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT8NBTK/?tag=tolees-21'
 descuento: '71.47'
 average: '11.1'

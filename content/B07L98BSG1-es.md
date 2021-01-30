@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour UA Heatgear Racer Camiseta Sin Mangas  Mujer  Naranja  Peach Plasma/Metallic Silver 836   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L98BSG1/?tag=tolees-21'
 descuento: '51.89'
 average: '13.47'

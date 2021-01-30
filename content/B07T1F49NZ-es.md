@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Nike Club Hoodie Ft Sudadera con Capucha y Cremallera Completa  Hombre  Negro  Black/Black/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1F49NZ/?tag=tolees-21'
 descuento: '35.28'
 average: '29.400000000000002'

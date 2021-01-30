@@ -16,6 +16,7 @@ comparePrice: 39.88 EUR
 prodname: 'Unisex Chico Chica Zapatilla de Deporte del Zapato Negro Rosa Azul Pink 30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9YSSV2/?tag=tolees-21'
 descuento: '29.81'
 average: '27.99'

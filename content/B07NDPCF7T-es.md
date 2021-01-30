@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'TBS Tansley  Zapatos de Cordones Oxford para Hombre  Marrón  Ebene B8015   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPCF7T/?tag=tolees-21'
 descuento: '70.49'
 average: '23.58'

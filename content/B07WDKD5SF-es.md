@@ -16,6 +16,7 @@ comparePrice: 18.58 EUR
 prodname: 'find. #  Shana-1a-58 Sandalias Abiertas  Dorado  Gold   41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDKD5SF/?tag=tolees-21'
 descuento: '52.69'
 average: '8.79'

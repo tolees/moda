@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Adorn Lo  Zapatos de Cordones Derby para Mujer  Marrón  Aubergine Combi Aubergine Combi   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HY6BB/?tag=tolees-21'
 descuento: '62.75'
 average: '31.43'

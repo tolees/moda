@@ -16,6 +16,7 @@ comparePrice: 11.86 EUR
 prodname: 'Care Bane Camiseta  Morado  Lavender 607   9 Meses/74 cm  Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758FDQT2/?tag=tolees-21'
 descuento: '64.67'
 average: '4.19'

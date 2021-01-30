@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Superdry Orange Label Vintage Embroidery LS Top Camiseta  Azul  Ketion Blue Marl Feeder U6u   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1B5BLQ/?tag=tolees-21'
 descuento: '56.49'
 average: '16.994'

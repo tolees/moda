@@ -16,6 +16,7 @@ comparePrice: 11.19 EUR
 prodname: 'Ronamick Sandalen - Sandalias de Vestir para Mujer  Color Negro  Talla 42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHF7YH3/?tag=tolees-21'
 descuento: '89.37'
 average: '1.19'

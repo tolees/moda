@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'SHIELDON Mochila Portátil 17.3 Pulgadas  Mochilas Ordenador Hombre Mochila Grande  Bolso Mochila Antirrobo con Puerto de Carga USB  Mochila de Viaje Mochila Negocios Mochila Trabajo  35L  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4L6XT3/?tag=tolees-21'
 descuento: '73.50'
 average: '51.54555555555556'

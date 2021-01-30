@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Literide Flip  Chanclas Unisex Adulto  Verde  Neo Mint/Almost White 3tp   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S63YS5N/?tag=tolees-21'
 descuento: '53.79'
 average: '18.48'

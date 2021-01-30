@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Airell C  Zapatillas para Mujer  Blanco  White C1000   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRKBHRR/?tag=tolees-21'
 descuento: '60.62'
 average: '39.34'

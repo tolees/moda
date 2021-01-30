@@ -16,6 +16,7 @@ comparePrice: 5.98 EUR
 prodname: 'FIND Cork Two Part Sling Back Wedge Zapatos de tacón con Punta Abierta  Marrón  Tan   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQH9D9T/?tag=tolees-21'
 descuento: '33.61'
 average: '3.97'

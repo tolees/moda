@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour UA Heatgear Racer Camiseta Sin Mangas  Mujer  Blanco  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZQHSFB/?tag=tolees-21'
 descuento: '48.25'
 average: '14.49'

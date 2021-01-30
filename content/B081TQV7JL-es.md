@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'adidas Fef TR JSY Camiseta de Manga Corta  Hombre  Dash Green  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TQV7JL/?tag=tolees-21'
 descuento: '56.86'
 average: '25.689999999999998'

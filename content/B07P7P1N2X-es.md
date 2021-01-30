@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'dPois Chaleco Deporte Yoga Gym Running Danza Baile Mujer Camiseta Interior Tirantes sin Mangas Sexy Blusa Tank Crop Tops Vest Criss Cross con Tiras Fitness Moda Deportivo Naranja Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7P1N2X/?tag=tolees-21'
 descuento: '63.23'
 average: '5.88'

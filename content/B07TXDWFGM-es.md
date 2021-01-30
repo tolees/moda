@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Relaxed Graphic Hoodie Sudadera  Gris  Boxtab Pop Midtone Grey Htr 0030   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXDWFGM/?tag=tolees-21'
 descuento: '60.47'
 average: '27.67'

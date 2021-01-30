@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Baya  Zuecos Unisex Adulto  Amarillo  Lemon 7c1   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S75WPRR/?tag=tolees-21'
 descuento: '28.36'
 average: '28.65'

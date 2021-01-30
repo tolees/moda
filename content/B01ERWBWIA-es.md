@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Joma Campus II Camiseta de Juego Manga Larga  Hombre  Burdeos/Celeste  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERWBWIA/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

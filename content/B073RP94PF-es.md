@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Helly Hansen Crew Windbreaker Chaqueta  Hombre  Navy  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RP94PF/?tag=tolees-21'
 descuento: '47.41'
 average: '68.37'

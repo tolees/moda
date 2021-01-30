@@ -16,6 +16,7 @@ comparePrice: 15.54 EUR
 prodname: 'Tommy Hilfiger TJM Pocket tee Camiseta  Azul  Faded Ink C0z   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1VJBLL/?tag=tolees-21'
 descuento: '16.54'
 average: '12.97'

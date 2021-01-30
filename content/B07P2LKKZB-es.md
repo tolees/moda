@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'GRACE KARIN Mujer Vestido Elegante Años 50 Vestido de Mujeres Rockabilly Clásico L CL011020-3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2LKKZB/?tag=tolees-21'
 descuento: '33.34'
 average: '23.99'

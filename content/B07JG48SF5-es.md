@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Unno DIM Basic Lote X4 Boxer Sin Costuras  Negro  Noir/Noir 0hz   Large  Tamaño del Fabricante:4   Pack de 4  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG48SF5/?tag=tolees-21'
 descuento: '47.25'
 average: '11.49'

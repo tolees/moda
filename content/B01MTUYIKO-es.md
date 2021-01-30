@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'SELECTED HOMME Shhonevince Shirt LS STS Camisa  Blanco  White   X-Large  Talla del Fabricante: Large  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTUYIKO/?tag=tolees-21'
 descuento: '54.99'
 average: '36.044444444444444'

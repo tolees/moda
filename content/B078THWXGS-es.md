@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Puma Liga CR H Camiseta de Manga Corta  Hombre  Morado  Prism Violet White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078THWXGS/?tag=tolees-21'
 descuento: '22.01'
 average: '11.64'

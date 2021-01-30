@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Original Camiseta  Verde  Hm Patch OG Hm tee Olive Night 0010   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHG9MN/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

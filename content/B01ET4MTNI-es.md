@@ -16,6 +16,7 @@ comparePrice: 126.94 EUR
 prodname: 'Helly Hansen W Aden Long Chaqueta  Mujer  Black  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ET4MTNI/?tag=tolees-21'
 descuento: '21.62'
 average: '99.5'

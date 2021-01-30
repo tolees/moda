@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Scarlett Vaqueros  Azul  Flight Wj   27W / 31L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTP1BHG/?tag=tolees-21'
 descuento: '59.99'
 average: '39.99'

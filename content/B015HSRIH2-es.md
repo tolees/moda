@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'ESPRIT 2tone Strk Blz - Chaqueta de traje Hombre  Dark Grey  50'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015HSRIH2/?tag=tolees-21'
 descuento: '73.08'
 average: '66.65666666666667'

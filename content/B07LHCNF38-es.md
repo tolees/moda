@@ -16,6 +16,7 @@ comparePrice: 21.67 EUR
 prodname: 'The North Face Simple Dome tee Camiseta de Manga raglán  Mujer  Lapis Blue  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LHCNF38/?tag=tolees-21'
 descuento: '17.58'
 average: '17.86'

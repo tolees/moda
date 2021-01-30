@@ -16,6 +16,7 @@ comparePrice: 26.84 EUR
 prodname: 'Guess - Manhattan Logo  Organizadores de bolso Hombre  Negro  Black   0.5x23x36 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P578BTW/?tag=tolees-21'
 descuento: '21.31'
 average: '21.12'

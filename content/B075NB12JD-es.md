@@ -16,6 +16,7 @@ comparePrice: 131.5 EUR
 prodname: 'Trangoworld Awear Chaqueta  Mujer  Negro/Verde Ácido  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NB12JD/?tag=tolees-21'
 descuento: '68.08'
 average: '41.97'

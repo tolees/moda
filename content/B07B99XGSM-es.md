@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Abode Ease  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B99XGSM/?tag=tolees-21'
 descuento: '61.71'
 average: '47.89'

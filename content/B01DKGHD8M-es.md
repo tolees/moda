@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'MagiDeal Zapatos Botas Encaje para Muñeca Muchacha Americana Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DKGHD8M/?tag=tolees-21'
 descuento: '44.53'
 average: '5.98'

@@ -16,6 +16,7 @@ comparePrice: 46.79 EUR
 prodname: 'KONXIDO Serie de Moda Reloj Hombre Limunoso Impermeable de Cuarzo Calendario con Esfera Analógica Dijital Negra y Correa Lujosa de Cuero Genuino - Reloj de Diseño de Moda con Caja de Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0773KM9VS/?tag=tolees-21'
 descuento: '72.15'
 average: '13.03'

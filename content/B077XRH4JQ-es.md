@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Tech 2.0 Shortsleeve Camiseta  Hombre  Blanco  White/Overcast Gray 100   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XRH4JQ/?tag=tolees-21'
 descuento: '44.68'
 average: '16.830000000000002'

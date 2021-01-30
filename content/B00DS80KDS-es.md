@@ -16,6 +16,7 @@ comparePrice: 63.72 EUR
 prodname: 'MY EVENING DRESS Marlene  Vestido para Mujer  Red - Burgundy  38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DS80KDS/?tag=tolees-21'
 descuento: '81.39'
 average: '11.86'

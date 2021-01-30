@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'COOFIT Bolsos de Mujer  Bolso Bandolera Lona Bolsos de Hombro Multifunción Bolso con Tirantes Bolsos Crossbody Bolso Tote Bolso Shopper'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VTCAOC2/?tag=tolees-21'
 descuento: '55.54'
 average: '18.14'

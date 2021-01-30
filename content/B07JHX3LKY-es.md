@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Cup Casuals tee Camiseta  Hombre  Gris  Asphalt/Whisper White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHX3LKY/?tag=tolees-21'
 descuento: '36.59'
 average: '18.18'

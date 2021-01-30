@@ -16,6 +16,7 @@ comparePrice: 5.89 EUR
 prodname: 'Marca Amazon - find. Vestido Corto Cruzado de Algodón Mujer  Negro  Negro Amarillo Check   42  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRD8DD7/?tag=tolees-21'
 descuento: '29.71'
 average: '4.14'

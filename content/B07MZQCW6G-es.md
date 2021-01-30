@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Cash Vaqueros Straight  Azul  Medium Used Denim 000   W34/L34 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQCW6G/?tag=tolees-21'
 descuento: '59.52'
 average: '48.97'

@@ -16,6 +16,7 @@ comparePrice: 30.1 EUR
 prodname: 'G-STAR RAW Core Super Slim Camisa Casual  Multicolor  Milk/Imperial Blue ao C173-9853   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNMZTQ1/?tag=tolees-21'
 descuento: '20.80'
 average: '23.84'

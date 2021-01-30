@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Bolso Mujer Pequeño Bolso Bandolera Mujer Pequeño Piel Sintético Bolso Portatil Mujer Bolsa de Mensajero（Marrón）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HF5QRBL/?tag=tolees-21'
 descuento: '41.04'
 average: '22.99'

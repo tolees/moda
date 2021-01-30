@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Anna Smith Bolso de embrague con correa  Bolso de noche de embrague de sobre con correa de cadena extraíble Boda Bolso de fiesta de graduación con bolsillo de luz rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DRTLGS/?tag=tolees-21'
 descuento: '52.51'
 average: '18.99'

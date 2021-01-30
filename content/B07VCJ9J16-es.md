@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Esprit 099ee2f007 Camisa  Blanco  Off White 110   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCJ9J16/?tag=tolees-21'
 descuento: '78.19'
 average: '8.72'

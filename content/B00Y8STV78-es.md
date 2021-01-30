@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'BlackButterfly  Audrey  Vestido Vintage Años 50 Divinity  Marfil - Flores Rosas  ES 36 - XS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y8STV78/?tag=tolees-21'
 descuento: '20.41'
 average: '38.99'

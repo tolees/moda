@@ -16,6 +16,7 @@ comparePrice: 32.23 EUR
 prodname: 'Tuc Tuc Paraguas People - Bolso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7WHR4U/?tag=tolees-21'
 descuento: '20.04'
 average: '25.77'

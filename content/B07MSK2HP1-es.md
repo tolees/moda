@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Ropa de Dormir para Mujeres SHOBDW Regalo del día de San Valentín Sexy Ladies Lingerie Babydoll Tangas Camisola Talla Grande Vestido de Encaje Vestido Ropa de Dormir 2 PCS Negro S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSK2HP1/?tag=tolees-21'
 descuento: '48.23'
 average: '5.69'

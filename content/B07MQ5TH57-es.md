@@ -16,6 +16,7 @@ comparePrice: 30.49 EUR
 prodname: 'HKT by Hackett Hkt Mlt Panel Mel Gham Camisa   Navy/Grey 5cy   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ5TH57/?tag=tolees-21'
 descuento: '25.12'
 average: '22.83'

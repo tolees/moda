@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Powder Lite  Chaqueta  Mujer  C142Cirrus Grey Sparkler Print Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBQ4Z2L/?tag=tolees-21'
 descuento: '49.63'
 average: '50.36'

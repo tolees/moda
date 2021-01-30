@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Only Onlorlando Quilted Jacket CC Otw Chaqueta  Negro  Black Black   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSJQSP2/?tag=tolees-21'
 descuento: '72.23'
 average: '14.450000000000001'

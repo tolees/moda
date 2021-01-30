@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Abravo Mujer Vestido?Bohemio Corto Florales Nacional Verano Vestido Casual Magas Cortas Chic de Noche Playa Vacaciones Rojo y Azul S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCXCFFL/?tag=tolees-21'
 descuento: '58.17'
 average: '16.55333333333333'

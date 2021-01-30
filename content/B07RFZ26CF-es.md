@@ -16,6 +16,7 @@ comparePrice: 14.66 EUR
 prodname: 'DC Comics Aquaman Logo Camiseta  Negro  Black Blk   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFZ26CF/?tag=tolees-21'
 descuento: '59.62'
 average: '5.925'

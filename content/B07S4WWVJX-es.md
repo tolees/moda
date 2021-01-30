@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance 520v6  Zapatos para Correr para Hombre  Negro  Black Lk6   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4WWVJX/?tag=tolees-21'
 descuento: '30.71'
 average: '48.5'

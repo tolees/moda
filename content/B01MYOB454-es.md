@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'PUMA Popcat  Zapatos de Playa y Piscina Unisex Adulto  White Black  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYOB454/?tag=tolees-21'
 descuento: '64.03'
 average: '11.469999999999999'

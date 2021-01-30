@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'G-STAR RAW Air Defence Zip Skinny Vaqueros  Gris  Worn In Lahar 8971-a966   W26/L32  Talla del Fabricante: 26W / 32L  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RF18GZB/?tag=tolees-21'
 descuento: '58.07'
 average: '69.91999999999999'

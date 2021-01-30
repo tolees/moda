@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Timberland Nellie Double Zapatillas Chukka  Mujer  Amarillo Wheat Nubuck  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005JQS64M/?tag=tolees-21'
 descuento: '41.34'
 average: '82.30333333333334'

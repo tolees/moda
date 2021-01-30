@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Biado r Camisa  Azul  Bright Blue 436   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7D4V7M/?tag=tolees-21'
 descuento: '39.47'
 average: '78.51470588235293'

@@ -16,6 +16,7 @@ comparePrice: 34.51 EUR
 prodname: 'SUPRBIRD Guantes Ciclismo MTB Dedo Medio Guantes Hombre y Mujer - Guantes Deportivos para Gimnasio Moto Entrenamiento  Antideslizantes Guantes Transpirables Verano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWVNGDF/?tag=tolees-21'
 descuento: '73.95'
 average: '8.99'

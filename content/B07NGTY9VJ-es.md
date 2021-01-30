@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Calvin Klein 3p Low Rise Trunk Bóxer  Negro  B/Astral Aura/Corsair/Grey Smoke Szm   S  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGTY9VJ/?tag=tolees-21'
 descuento: '22.57'
 average: '23.42'

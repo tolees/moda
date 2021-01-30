@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'HIKARO Sudadera Hombre  Rojo  Red   52  Talla del fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YDJXS5/?tag=tolees-21'
 descuento: '66.83'
 average: '13.876666666666667'

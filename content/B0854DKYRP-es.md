@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'CheChury Bikini Mujer Moda Conjuntos De Bikini Rayas Talle Alto Retro Brasileños Mujer Sexy Traje De Baño Cuello Halter Strapless Off Shoulder Push-Up Bikini Acolchado Bra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854DKYRP/?tag=tolees-21'
 descuento: '18.08'
 average: '12.28'

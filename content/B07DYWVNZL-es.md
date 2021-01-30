@@ -16,6 +16,7 @@ comparePrice: 76.49 EUR
 prodname: 'Columbia Pantalón Impermeable para Hombre  Maxtrail II Walking Trousers  Marrón  Peatmoss  Mosstone   W30/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYWVNZL/?tag=tolees-21'
 descuento: '33.34'
 average: '50.99'

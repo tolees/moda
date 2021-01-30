@@ -16,6 +16,7 @@ comparePrice: 45.98 EUR
 prodname: 'Sandalias Odetina Mary Jane de tacón grueso con correa de tobillo y correa de piel de serpiente  para mujer  color Blanco  talla 35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YSYB3D/?tag=tolees-21'
 descuento: '50.00'
 average: '22.99'

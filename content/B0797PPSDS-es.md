@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Liga Jersey T-Shirt  Hombre  White Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797PPSDS/?tag=tolees-21'
 descuento: '34.89'
 average: '14.110000000000001'

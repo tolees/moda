@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s Relaxed Graphic Crew Sudadera  Blanco  Better Batwing Sweatshirt White 0014   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765WBM6N/?tag=tolees-21'
 descuento: '46.40'
 average: '29.77333333333333'

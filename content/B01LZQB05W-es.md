@@ -16,6 +16,7 @@ comparePrice: 38.63 EUR
 prodname: 'Milano Pantalón Marrón Oscuro ES 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZQB05W/?tag=tolees-21'
 descuento: '79.26'
 average: '8.01'

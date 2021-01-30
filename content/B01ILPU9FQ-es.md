@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Protest Update  Chaqueta para Hombre  Negro  True Black 290   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ILPU9FQ/?tag=tolees-21'
 descuento: '30.00'
 average: '43.698'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Marca Amazon - TRUTH & FABLE Vestido Midi Cruzado de Gasa Mujer  Azul  Red   46  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLCMZG1/?tag=tolees-21'
 descuento: '32.67'
 average: '33.6'

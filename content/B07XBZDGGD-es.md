@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Esprit 109Ee1K026 Camiseta de Manga Larga  Negro  Black 001   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBZDGGD/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

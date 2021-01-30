@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Helly Hansen Squamish 3-In-1 Desmontable & Aislante Chaqueta Impermeable  Hombre  North Sea Blue  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBHJVCW/?tag=tolees-21'
 descuento: '30.00'
 average: '123.16666666666667'

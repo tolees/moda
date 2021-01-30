@@ -16,6 +16,7 @@ comparePrice: 37.67 EUR
 prodname: 'Nike Downshifter 9  Zapatilla de Correr para Hombre  Negro/Blanco Particula Gris/Dk Humo Gris  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHQCJ8N/?tag=tolees-21'
 descuento: '15.10'
 average: '33.964999999999996'

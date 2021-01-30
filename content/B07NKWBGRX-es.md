@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Sandalias Niño con Plantillas de Trekking Senderismo Zapatillas Niña de Zapatos Unisex Negro 28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NKWBGRX/?tag=tolees-21'
 descuento: '16.43'
 average: '23.39'

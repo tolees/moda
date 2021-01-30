@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Canadian Peak Abrigo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V5P1JY/?tag=tolees-21'
 descuento: '40.00'
 average: '77.4'

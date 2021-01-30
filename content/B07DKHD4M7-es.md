@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling Gabbie  Bolso bandolera para Mujer  Gris  Active Grey Bl   35.5 x 30 x 18.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKHD4M7/?tag=tolees-21'
 descuento: '40.00'
 average: '57.0'

@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Marca Amazon - find. Abrigo Hombre  Marrón  Brown   3XL  Label: 3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCZ6B9J/?tag=tolees-21'
 descuento: '52.11'
 average: '29.21'

@@ -16,6 +16,7 @@ comparePrice: 18.98 EUR
 prodname: 'Adidas Adilette Aqua Zapatos de playa y piscina Unisex adulto  Azul  Navy F35542   39 EU  6 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2MPKQZ/?tag=tolees-21'
 descuento: '68.34'
 average: '10.303333333333333'

@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Levi s Original Trucker Chaqueta Vaquera  Azul  Clean Dark Authentic 0036   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D76WNZ4/?tag=tolees-21'
 descuento: '60.04'
 average: '39.96'

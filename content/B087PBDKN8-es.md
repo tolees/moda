@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Suhctup Funda Compatible con OnePlus 7T Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PBDKN8/?tag=tolees-21'
 descuento: '31.29'
 average: '10.98'

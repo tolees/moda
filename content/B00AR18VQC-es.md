@@ -16,6 +16,7 @@ comparePrice: 430.0 EUR
 prodname: 'The North Face McMurdo - Chaqueta Impermeable  Hombre  Negro  TNF Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AR18VQC/?tag=tolees-21'
 descuento: '40.23'
 average: '277.9707142857143'

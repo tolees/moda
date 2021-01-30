@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler Bryson Vaqueros Skinny  Negro  Like A Champ 120   36W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYW95Z7/?tag=tolees-21'
 descuento: '33.74'
 average: '46.35'

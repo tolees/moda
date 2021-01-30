@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Levi s 200Sf Trunk 2P Boxer  Hombre  Negro  Jet Black   X-Large  Tamaño del Fabricante:040 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018JT4TI2/?tag=tolees-21'
 descuento: '47.62'
 average: '12.1'

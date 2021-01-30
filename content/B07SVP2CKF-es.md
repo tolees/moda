@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Geox J Alben Boy B  Zapatillas para Niños  Azul  Avio/Beige C4289   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVP2CKF/?tag=tolees-21'
 descuento: '51.00'
 average: '31.85'

@@ -16,6 +16,7 @@ comparePrice: 28.78 EUR
 prodname: 'Paoseven Us - Camiseta de manga corta  unisex  color negro Negro Negro   4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CWWQXLM/?tag=tolees-21'
 descuento: '50.03'
 average: '14.38'

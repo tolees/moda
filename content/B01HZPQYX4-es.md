@@ -16,6 +16,7 @@ comparePrice: 53.45 EUR
 prodname: 'Merrell - sandalias de Cuero mujer  Beige  Taupe   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HZPQYX4/?tag=tolees-21'
 descuento: '19.01'
 average: '52.74'

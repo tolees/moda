@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Sisley Jacket  Chaqueta Mujer  Negro  Black 100   40  Talla fabricante: 10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW7HJYQ/?tag=tolees-21'
 descuento: '85.89'
 average: '13.615'

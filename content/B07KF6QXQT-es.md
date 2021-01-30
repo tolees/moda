@@ -16,6 +16,7 @@ comparePrice: 69.48 EUR
 prodname: 'Levi s Plus Size 311 Pl Shaping Skinny Vaqueros  Light A Fuse Plus  18 M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF6QXQT/?tag=tolees-21'
 descuento: '48.55'
 average: '35.75'

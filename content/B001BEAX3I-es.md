@@ -16,6 +16,7 @@ comparePrice: 40.62 EUR
 prodname: 'Calvin Klein 3P Trunk  Bóxer para Hombre  Blanco  M   Pack de 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BEAX3I/?tag=tolees-21'
 descuento: '33.55'
 average: '26.99'

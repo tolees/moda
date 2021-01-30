@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Bright Deer Vestido de Fiesta Boda Noche Cóctel Graduación Midi de Encaje Festoneado con Hombros Descubiertos y Bajo Asimétrico para Mujer 38 S Vino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3S7DQ2/?tag=tolees-21'
 descuento: '37.15'
 average: '52.656666666666666'

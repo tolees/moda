@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'REPLAY M3594 .000.2660 Camiseta  Gris  Dark Grey Melange M03   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C9PGYQ6/?tag=tolees-21'
 descuento: '64.73'
 average: '10.58'

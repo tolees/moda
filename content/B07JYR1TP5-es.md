@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger TJM Essential Jaspe tee Camiseta  Azul  Blue 002   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYR1TP5/?tag=tolees-21'
 descuento: '38.10'
 average: '17.95'

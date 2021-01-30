@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'CoolBELL Mochila Convertible en Bolso de Hombro para Guardar Ordenadores portátiles. Maletín de Negocios Mochila de Viaje para Guardar Ordenadores portátiles de 15 6 Pulgadas  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKWJJH6/?tag=tolees-21'
 descuento: '15.00'
 average: '32.989999999999995'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Bali Trek  Sandalias de Talón Abierto para Mujer  Negro  Black Combi Black Combi   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLTRK5C/?tag=tolees-21'
 descuento: '57.45'
 average: '42.53'

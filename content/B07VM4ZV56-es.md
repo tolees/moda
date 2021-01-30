@@ -16,6 +16,7 @@ comparePrice: 28.73 EUR
 prodname: 'JIASUQI Zapatos clásicos de deporte descalzo para niños  mujeres y hombres  para playa  natación  surf  yoga  ejercicios  color Naranja  talla 30.5/32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VM4ZV56/?tag=tolees-21'
 descuento: '55.62'
 average: '12.75'

@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Timberland Rugged 6 Inch Plain Toe Waterproof  Botas para Hombre  Marrón  Md Brown Full Grain   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004L39WCE/?tag=tolees-21'
 descuento: '48.10'
 average: '109.36'

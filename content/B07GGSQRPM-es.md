@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'SKYSPER Ciclismo Maillot Hombres Jersey + Pantalones Largos Culote Mangas Largas de Ciclismo Conjunto de Ropa Maillot Entretiempo para Deportes al Aire Libre Ciclo Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGSQRPM/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 35.28 EUR
 prodname: 'Geox J ARTACH Boy A  Zapatillas para Niños  Negro  Black C9999   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H9BLH0U/?tag=tolees-21'
 descuento: '16.87'
 average: '29.33'

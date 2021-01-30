@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Tommy Hilfiger TJM Essential Hooded Jacket Chaqueta Deportiva  Negro  Black Bbu   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHTVNZJ/?tag=tolees-21'
 descuento: '63.60'
 average: '46.95'

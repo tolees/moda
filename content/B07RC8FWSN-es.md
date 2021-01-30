@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Rojo  Beet   Talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8FWSN/?tag=tolees-21'
 descuento: '46.68'
 average: '79.98'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Timberland Los Angeles Slingback  Sandalias con Plataforma y Tiras para Mujer  Marrón  Light Beige Nubuck   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHB16S4/?tag=tolees-21'
 descuento: '50.00'
 average: '50.0'

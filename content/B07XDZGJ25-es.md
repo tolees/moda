@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA Amplified Crew TR Sudadera  Hombre  Medium Gray Heather  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDZGJ25/?tag=tolees-21'
 descuento: '49.05'
 average: '21.9'

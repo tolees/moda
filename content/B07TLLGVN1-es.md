@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Superdry VL O Crew Sudadera  Azul  Rich Navy Adq   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLLGVN1/?tag=tolees-21'
 descuento: '29.75'
 average: '21.493333333333332'

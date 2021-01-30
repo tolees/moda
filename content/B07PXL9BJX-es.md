@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Calvin Klein Ckj 026 Vaqueros Slim  Azul  Antwerp Mid 911   W38/L32  Talla del Fabricante: 3238  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXL9BJX/?tag=tolees-21'
 descuento: '63.26'
 average: '36.37'

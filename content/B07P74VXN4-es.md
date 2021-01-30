@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Agatha Ruiz de la Prada 191957  Botines para Niñas  Rojo  Cereza  Serraje  C   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P74VXN4/?tag=tolees-21'
 descuento: '64.57'
 average: '21.22'

@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Oihxse Funda con Huawei Enjoy 7/Y6 Pro 2017  Cuero PU Billetera Cierre Magnético Flip Libro Folio Tapa Carcasa Relieve Soporte Plegable Ranuras para Tarjetas Protección Caso Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FL4DZS/?tag=tolees-21'
 descuento: '23.11'
 average: '9.98'

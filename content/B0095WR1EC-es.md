@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Ray Ban  Erika - Gafas de sol unisex  rama color marron y lente color verde oscuro  talla 54 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0095WR1EC/?tag=tolees-21'
 descuento: '32.09'
 average: '90.22000000000001'

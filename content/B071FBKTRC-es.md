@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic U  Zuecos con Correa Trasera Unisex Adulto  Slate Grey  41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FBKTRC/?tag=tolees-21'
 descuento: '41.36'
 average: '24.317500000000003'

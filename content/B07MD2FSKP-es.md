@@ -16,6 +16,7 @@ comparePrice: 19.91 EUR
 prodname: 'HongHu Moda para mujer Neat Bangs Corto Gran peluca rizada ondulada Anime Cosplay Pelucas de fiesta de pelo completo o uso diario Peluca rosa claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MD2FSKP/?tag=tolees-21'
 descuento: '65.09'
 average: '6.95'

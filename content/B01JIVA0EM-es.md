@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 511 Slim Fit Jeans Pantalón vaquero con corte estilizado  Azul  Rock Cod 1786   27W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JIVA0EM/?tag=tolees-21'
 descuento: '34.55'
 average: '65.28'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Superdry OL Elite Crew Neck tee Camiseta  Blanco  White 04c   34  Talla del Fabricante: XX-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P16DHQ5/?tag=tolees-21'
 descuento: '55.08'
 average: '8.98'

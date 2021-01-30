@@ -16,6 +16,7 @@ comparePrice: 12.88 EUR
 prodname: 'Minecraft - Camiseta para niño - Minecraft - Negro - 12 - 13 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U2HPAWY/?tag=tolees-21'
 descuento: '30.51'
 average: '8.95'

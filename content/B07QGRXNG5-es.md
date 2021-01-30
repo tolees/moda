@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'BeiaMina Mujer Moda Plano Sandalias Zapatos Sin Cordones Playa Zapatos Punta Abierta Verano Zapatos Floral Apricot Talla 36 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGRXNG5/?tag=tolees-21'
 descuento: '49.43'
 average: '14.66'

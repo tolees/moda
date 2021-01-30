@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Columbia Mission Air Interchange Chaqueta 3 En 1 con Capucha  Hombre  Night Tide  Collegiate Navy  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087SJVKYV/?tag=tolees-21'
 descuento: '48.13'
 average: '82.99'

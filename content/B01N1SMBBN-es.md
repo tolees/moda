@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'find. 13646 vestido fiesta mujer  Negro  Black   36  Talla del Fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1SMBBN/?tag=tolees-21'
 descuento: '62.50'
 average: '18.97'

@@ -16,6 +16,7 @@ comparePrice: 11.25 EUR
 prodname: 'Marca Amazon - find. Pantalón con Cintura de Fuelle Mujer  Rosa  rosa antiguo 17-1518 Tcx    42  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MG7QW4Z/?tag=tolees-21'
 descuento: '35.20'
 average: '7.29'

@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Levi s 711 Vaqueros Skinny  Gris  Hit Me Up 0454   W26/L30  Talla del Fabricante: 26 30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXKZRYC/?tag=tolees-21'
 descuento: '30.00'
 average: '43.39'

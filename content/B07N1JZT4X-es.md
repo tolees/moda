@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Step Explorhi  Botines para Mujer  Azul  Navy Navy   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JZT4X/?tag=tolees-21'
 descuento: '55.31'
 average: '31.26'

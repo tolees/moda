@@ -16,6 +16,7 @@ comparePrice: 30.23 EUR
 prodname: 'Gifort Cortador de Verdura  Mandolina de Verduras 8 en 1 Multifuncional Mandolina de Cocina Slicer 7 Cuchillas Acero Inoxidable  Guantes Protector de Mano para Cortar Frutas/Verduras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SN46MH2/?tag=tolees-21'
 descuento: '17.66'
 average: '24.89'

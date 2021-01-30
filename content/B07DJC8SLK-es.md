@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox D Yulimar C  Sandalias con Punta Abierta para Mujer  Black C9999  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJC8SLK/?tag=tolees-21'
 descuento: '50.00'
 average: '59.95'

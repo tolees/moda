@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s Original Hm Icon Crew Sudadera  Blanco  White + 0014   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF61ZNK/?tag=tolees-21'
 descuento: '43.35'
 average: '33.99'

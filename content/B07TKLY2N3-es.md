@@ -16,6 +16,7 @@ comparePrice: 40.51 EUR
 prodname: 'HAWKERS · ONE · Carbon Black · Dark Polarized · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKLY2N3/?tag=tolees-21'
 descuento: '31.94'
 average: '27.57'

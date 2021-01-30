@@ -16,6 +16,7 @@ comparePrice: 97.41 EUR
 prodname: 'Levi s Big and Tall 501 Button Fly B&t Vaqueros Straight  Azul  Blackwater 0065   50W/34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJNK884/?tag=tolees-21'
 descuento: '76.16'
 average: '23.22'

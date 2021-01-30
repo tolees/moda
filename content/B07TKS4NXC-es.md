@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Abigail Daisy  Sandalias con Tira Vertical para Mujer  Plateado  Metallic Multi Metallic Multi   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKS4NXC/?tag=tolees-21'
 descuento: '48.42'
 average: '41.24'

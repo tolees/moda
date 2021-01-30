@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'Quiksilver Carver Nubuck  Chanclas para Hombre  Beige  Tan-Solid TKD0   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WV2HHC/?tag=tolees-21'
 descuento: '48.60'
 average: '17.99'

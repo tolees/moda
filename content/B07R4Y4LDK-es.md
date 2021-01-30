@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Flash Forward  Chaqueta cortavientos  Mujer  Rosa  Cedar Blush/Peach Cloud   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4Y4LDK/?tag=tolees-21'
 descuento: '58.01'
 average: '20.99'

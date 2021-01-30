@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Outdoor Elements Sr Chaqueta con Cremallera  Hombre  Rojo  Carnelian Red  Wildfire   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08176LFMJ/?tag=tolees-21'
 descuento: '35.92'
 average: '38.44'

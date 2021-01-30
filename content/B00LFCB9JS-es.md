@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Birkenstock Gizeh Eva - Sandalias unisex  Verde  Khaki   38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LFCB9JS/?tag=tolees-21'
 descuento: '49.10'
 average: '20.36'

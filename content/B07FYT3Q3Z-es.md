@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Straight Vaqueros para Mujer  Azul  Yucca Valley 21X   29W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYT3Q3Z/?tag=tolees-21'
 descuento: '69.03'
 average: '27.86'

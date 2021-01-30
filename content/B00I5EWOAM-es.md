@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'BENLEE Rocky Marciano T-Shirt Trägerhemd Gymnasium Camiseta  Hombre  Azul Marino  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I5EWOAM/?tag=tolees-21'
 descuento: '30.08'
 average: '25.1'

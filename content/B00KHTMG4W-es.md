@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Rojo  Red/Steel 600   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHTMG4W/?tag=tolees-21'
 descuento: '21.10'
 average: '19.82'

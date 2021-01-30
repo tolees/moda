@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Napapijri DAMAVAND Half Jersey  Negro  Black 041   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777SS2QG/?tag=tolees-21'
 descuento: '71.76'
 average: '37.86'

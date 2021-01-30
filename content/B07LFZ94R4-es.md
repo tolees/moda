@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Geox J HADRIEL Girl D  Botas Slouch para Niñas  Rosa  Lt Prune C8023   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZ94R4/?tag=tolees-21'
 descuento: '41.56'
 average: '40.85'

@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'REPLAY M4941d.000.80279a Camisa  Negro  Black 98   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSLM1YX/?tag=tolees-21'
 descuento: '75.10'
 average: '19.67'

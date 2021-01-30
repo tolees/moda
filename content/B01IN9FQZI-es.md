@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Venus Vaqueros  Azul  10Oz Str American Blue Lt D26   34W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IN9FQZI/?tag=tolees-21'
 descuento: '49.48'
 average: '47.99'

@@ -16,6 +16,7 @@ comparePrice: 65.82 EUR
 prodname: 'Geox J Alben Boy B  Zapatillas para Niños  Verde  Military/Orange C0623   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQG2B7H/?tag=tolees-21'
 descuento: '65.44'
 average: '22.75'

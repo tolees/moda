@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 514 Vaqueros Straight  Azul  Apple Overt Adapt 1238   W30/L32  Talla del Fabricante: 30 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8WP15/?tag=tolees-21'
 descuento: '48.88'
 average: '58.194'

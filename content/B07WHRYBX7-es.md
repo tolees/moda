@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'SALOMON Blend Logo SS tee M Camiseta Deportiva de Manga Corta  Algodón/Poliéster  Hombre  Rojo  Biking Red   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHRYBX7/?tag=tolees-21'
 descuento: '42.40'
 average: '17.28'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'SALOMON Blend Logo SS tee M Camiseta Deportiva de Manga Corta  Hombre  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXYR23P/?tag=tolees-21'
 descuento: '50.00'
 average: '15.0'

@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Zapatos de Seguridad para Hombre Mujer con Puntera de Acero Zapatillas de Seguridad Trabajo Calzado de Industrial y Deportiva grey41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TM43Q1V/?tag=tolees-21'
 descuento: '37.95'
 average: '35.99'

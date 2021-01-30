@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Camisa de Mujer Elegante Escote Redondo Blusa Camisa de Mujer de Gasa para Primavera Verano Beiga S CLAF15-2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFJL6T1/?tag=tolees-21'
 descuento: '21.75'
 average: '17.99'

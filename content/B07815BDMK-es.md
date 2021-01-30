@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Rival Fleece FZ Hoodie Sudadera  Hombre  Gris  Charcoal Light Heather/Black 020   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07815BDMK/?tag=tolees-21'
 descuento: '41.28'
 average: '35.23'

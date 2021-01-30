@@ -16,6 +16,7 @@ comparePrice: 12.83 EUR
 prodname: 'find. BAY001018W170205 vaqueros mujer  Azul  W30/L32  Talla del Fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBN68LJ/?tag=tolees-21'
 descuento: '15.82'
 average: '10.8'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Cross Jeans Anya Vaqueros Slim  Azul  Mid Blue 153   W26/L30  Talla del Fabricante: 26/30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGB8FMM/?tag=tolees-21'
 descuento: '51.83'
 average: '22.00333333333333'

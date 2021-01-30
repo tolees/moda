@@ -16,6 +16,7 @@ comparePrice: 4.79 EUR
 prodname: 'Marca Amazon - AURIQUE Camiseta Yoga con Eslogan y Abertura en la Espalda Mujer  Morado  Purple Gumdrop   40  Label:M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPW1T5S/?tag=tolees-21'
 descuento: '19.83'
 average: '3.84'

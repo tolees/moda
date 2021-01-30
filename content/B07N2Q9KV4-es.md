@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Aibrou Pijama Hombre Verano Corto de 100% Algodón Pijamas de Hombre Verano con Pantalón Talla Grande'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2Q9KV4/?tag=tolees-21'
 descuento: '52.01'
 average: '23.99'

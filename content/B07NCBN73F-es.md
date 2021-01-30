@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans New Brooke Vaqueros Straight  Azul  Dark Used Denim Cn6   27W/30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCBN73F/?tag=tolees-21'
 descuento: '41.16'
 average: '55.9'

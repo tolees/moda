@@ -16,6 +16,7 @@ comparePrice: 31.2 EUR
 prodname: 'Crocs Isabella T Strap  Sandalias para Mujer  Negro  Black   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010WEBZG6/?tag=tolees-21'
 descuento: '36.06'
 average: '19.95'

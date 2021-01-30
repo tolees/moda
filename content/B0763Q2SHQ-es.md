@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'WOLA estilo de redonda gafas de sol en madera SELVA mujer y hombre madera  sunglasses UV400 - polarisado arce'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0763Q2SHQ/?tag=tolees-21'
 descuento: '60.01'
 average: '34.504'

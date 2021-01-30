@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Renan B  Zapatillas para Hombre  Azul  Navy C4064   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPQ2V6/?tag=tolees-21'
 descuento: '43.98'
 average: '55.96'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J New Savage Boy A  Zapatillas para Niños  Negro  Black/Orange C0038   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792GRVV6/?tag=tolees-21'
 descuento: '24.99'
 average: '44.93'

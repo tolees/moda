@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Botas Altas para Mujer Cuero de Invierno Camfosy City Shoes con Piel de Tacón Alto Cómodos Botines Rojos Cálidos para Mujer Colorees Bohemios Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRHKQZN/?tag=tolees-21'
 descuento: '58.89'
 average: '73.99'

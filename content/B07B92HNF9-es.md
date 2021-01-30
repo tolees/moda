@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Martin Gafas de sol  Negro  Black   52 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B92HNF9/?tag=tolees-21'
 descuento: '55.49'
 average: '28.93'

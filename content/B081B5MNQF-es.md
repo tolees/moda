@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Windgates  Chaqueta impermeable  Mujer  Azul oscuro  Nocturnal   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B5MNQF/?tag=tolees-21'
 descuento: '33.09'
 average: '86.98'

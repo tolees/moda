@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Gafas Fastskin Elite Mirror'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076B1J7KT/?tag=tolees-21'
 descuento: '21.17'
 average: '38.91'

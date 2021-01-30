@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Marca Amazon - Daily Ritual - Maxi vestido de algodón terry súper suave y espalda cruzada  para mujer  Negro  US XS  EU XS - S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J67QH7K/?tag=tolees-21'
 descuento: '27.49'
 average: '12.29'

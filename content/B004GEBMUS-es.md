@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen Jacke Packable Pants Pantalón  Hombre  Negro  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GEBMUS/?tag=tolees-21'
 descuento: '37.79'
 average: '64.05'

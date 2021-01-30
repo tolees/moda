@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s June L  Chanclas para Hombre  Rojo  R Red 87   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SH1VDQ5/?tag=tolees-21'
 descuento: '34.04'
 average: '16.49'

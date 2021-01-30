@@ -16,6 +16,7 @@ comparePrice: 27.82 EUR
 prodname: 'Arena Python Gafas de Natación  Unisex Adulto  Azul  Blue Mirror   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQNPDKC/?tag=tolees-21'
 descuento: '38.32'
 average: '19.6375'

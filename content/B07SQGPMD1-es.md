@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Geox U Snake.2 A  Zapatillas para Hombre  Naranja  Dk Yellow/Lt Grey C2g1l   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGPMD1/?tag=tolees-21'
 descuento: '66.48'
 average: '38.55'

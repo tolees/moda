@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'MTNG Collection 58693  Sandalias con Punta Abierta para Mujer  Amarillo  Join Mostaza C49152   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YN94SXT/?tag=tolees-21'
 descuento: '25.28'
 average: '22.41'

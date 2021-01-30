@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Geox J Sveth A  Zapatilla Baja para Niños  Azul  Royal   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076XCYB8V/?tag=tolees-21'
 descuento: '64.40'
 average: '19.58'

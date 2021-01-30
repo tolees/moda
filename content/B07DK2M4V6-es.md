@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Geox J KOMMODOR Boy A  Zapatillas para Niños  Blue  Navy/Lime C0749   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK2M4V6/?tag=tolees-21'
 descuento: '41.28'
 average: '38.17'

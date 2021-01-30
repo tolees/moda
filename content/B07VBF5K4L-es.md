@@ -16,6 +16,7 @@ comparePrice: 27.52 EUR
 prodname: 'Desigual Bols Intra Merlo H - Bolso con asa  14 x 27 5 x 40 cm  color beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBF5K4L/?tag=tolees-21'
 descuento: '27.47'
 average: '19.96'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Negro  Flag Black 083   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QBV3JR/?tag=tolees-21'
 descuento: '50.13'
 average: '19.9'

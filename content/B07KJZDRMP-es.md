@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Under Armour Under Armour Crossbody 1327794-408 Bolso Bandolera 23 Centimeters 2.5 Azul  Navy   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJZDRMP/?tag=tolees-21'
 descuento: '47.96'
 average: '12.39'

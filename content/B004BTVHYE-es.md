@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Timberland 6 Inch Premium Waterproof  Botas para Mujer  Amarillo  Wheat Nubuck   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004BTVHYE/?tag=tolees-21'
 descuento: '42.91'
 average: '118.26333333333334'

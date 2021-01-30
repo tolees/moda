@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Wrangler SS Logo tee Camiseta  Marrón  Picante Brown X9h   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R15BQB5/?tag=tolees-21'
 descuento: '55.42'
 average: '15.58'

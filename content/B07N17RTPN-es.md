@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Lee Hoodie SWS  Sudadera para Hombre  Amarillo  Lemon Zest Mm   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N17RTPN/?tag=tolees-21'
 descuento: '78.84'
 average: '19.452499999999997'

@@ -16,6 +16,7 @@ comparePrice: 19.75 EUR
 prodname: 'Valentino Rossi VRKFL353102005  Sudadera Responder Casco Sol E Luna Unisex Niños  Azul  6/7 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CML6VKM/?tag=tolees-21'
 descuento: '41.42'
 average: '15.46'

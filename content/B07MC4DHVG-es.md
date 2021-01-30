@@ -16,6 +16,7 @@ comparePrice: 28.55 EUR
 prodname: 'Hackett Mini Chk BS Camisa   Blue/White 5ar   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC4DHVG/?tag=tolees-21'
 descuento: '31.14'
 average: '20.655'

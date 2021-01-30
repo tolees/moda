@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'BOSS Mix&Match T-Shirt R Camiseta  Gris  Light/Pastel Grey 53   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V42RNW9/?tag=tolees-21'
 descuento: '54.14'
 average: '18.32'

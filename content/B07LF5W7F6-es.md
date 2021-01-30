@@ -16,6 +16,7 @@ comparePrice: 24.41 EUR
 prodname: 'Levi s Colorblock Windrunner Chaqueta  Rojo  Chinese Red 0000   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF5W7F6/?tag=tolees-21'
 descuento: '16.76'
 average: '32.395'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'ALLROS Gafas de Esquí  Máscara Gafas ski Snowboard  OTG  Anti-Niebla y UV400  para Snowboard  esquí  Skating y Otros Deportes de Nieve- Negro  No extraíble '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD9G2VB/?tag=tolees-21'
 descuento: '65.25'
 average: '8.99'

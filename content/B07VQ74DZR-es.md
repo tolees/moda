@@ -16,6 +16,7 @@ comparePrice: 19.1 EUR
 prodname: 'Tommy Hilfiger Arch tee Camiseta Deporte  Azul  Desert Sky   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQ74DZR/?tag=tolees-21'
 descuento: '23.25'
 average: '14.66'

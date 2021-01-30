@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour UA Tech P Pantalón de Entrenamiento  Hombre  Azul  3232'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814SRXV2/?tag=tolees-21'
 descuento: '32.46'
 average: '33.47666666666666'

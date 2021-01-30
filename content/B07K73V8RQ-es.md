@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Levi s Graphic Top Camiseta Deportiva de Tirantes  Blanco  Hm Tank Ssnl White 0000   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K73V8RQ/?tag=tolees-21'
 descuento: '36.17'
 average: '12.42'

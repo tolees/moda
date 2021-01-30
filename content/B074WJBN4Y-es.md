@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello Pico  Negro  Black   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WJBN4Y/?tag=tolees-21'
 descuento: '50.18'
 average: '16.89'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Only Onlnew Mallory L/s Blouse Wvn Noos Blusa  Multicolor  Black AOP: CD Flower   Small  Talla del Fabricante: 36  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7PGQ1H/?tag=tolees-21'
 descuento: '69.63'
 average: '7.59'

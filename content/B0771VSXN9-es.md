@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Silver Ridge II Pantalón Cargo de Senderismo para Hombre  Marrón  Tusk   W34/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771VSXN9/?tag=tolees-21'
 descuento: '43.24'
 average: '35.69'

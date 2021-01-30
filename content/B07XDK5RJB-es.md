@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'coskefy Guantes Moto Invierno Guantes Esquí Impermeable para Hombre y Mujer Guantes Nieve Calientes Guantes Invierno Termicos para Snowboard Ciclismo Moto con 3M Thinsulate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDK5RJB/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

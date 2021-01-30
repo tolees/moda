@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Silver Ridge 2.0 Camisa de Manga Larga  Hombre  Verde  Sage   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B5VZJC/?tag=tolees-21'
 descuento: '39.48'
 average: '33.214'

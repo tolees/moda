@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Esprit 079ee2h001 Chaleco  Azul  Blue 430   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT91MH4/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 65.71 EUR
 prodname: 'Rismart Mujer Verano Tacón Grueso Punta Abierta Tartán Casual Vestir Comodidad Cuero Sandalias SN02035 Blanco EU40 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFVRRT8/?tag=tolees-21'
 descuento: '48.44'
 average: '33.88'

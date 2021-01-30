@@ -16,6 +16,7 @@ comparePrice: 144.9 EUR
 prodname: 'TRANGO Neku Chaqueta  Mujer  Azul Tinta  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXWLMA7/?tag=tolees-21'
 descuento: '50.35'
 average: '71.95'

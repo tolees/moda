@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Camiseta  Multicolor  Authentic Colorblock tee Riverside/Ver 0000   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLFKB62/?tag=tolees-21'
 descuento: '58.03'
 average: '14.69'

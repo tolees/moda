@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual BOLS Ginebra Lilac Bolso a mano 33 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0795V4RRG/?tag=tolees-21'
 descuento: '30.93'
 average: '55.22'

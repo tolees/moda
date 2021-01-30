@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Timberland Perkins Row 2-Strap  Junior   Sandalias de Punta Descubierta Unisex-Niños  Negro Black  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZ8W9KG/?tag=tolees-21'
 descuento: '56.02'
 average: '21.99'

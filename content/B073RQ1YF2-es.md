@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Helly Hansen W Crew Chaqueta Deportiva  Mujer  Negro  Negro 990   Large  Tamaño del Fabricante:L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RQ1YF2/?tag=tolees-21'
 descuento: '56.34'
 average: '61.12'

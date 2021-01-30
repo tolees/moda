@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Calvin Klein 2pk Bikini  Azul  1BlackIris/1White 0HC   8-9 años  Talla del Fabricante: 8-10  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPR8MCC/?tag=tolees-21'
 descuento: '24.59'
 average: '18.09'

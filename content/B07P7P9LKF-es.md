@@ -16,6 +16,7 @@ comparePrice: 29.29 EUR
 prodname: 'Morgan 192-rdenty.p Vestido  Negro  Noir Noir   36  Talla del Fabricante: T36  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7P9LKF/?tag=tolees-21'
 descuento: '19.49'
 average: '23.58'

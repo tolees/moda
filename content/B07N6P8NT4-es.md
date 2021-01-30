@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger 3p Bikini Tanga  Multicolor  Multi 077   Talla única  Talla del Fabricante: X-Small   Pack de 3  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6P8NT4/?tag=tolees-21'
 descuento: '44.36'
 average: '22.27'

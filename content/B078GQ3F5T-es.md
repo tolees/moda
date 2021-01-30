@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'GRITION Sandalias Hombre Verano Piel  Punta Cerrada Sandalias Gladiador Correa Ajustable de Malla y PU para Deportes de Trekking  44EU BO '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GQ3F5T/?tag=tolees-21'
 descuento: '23.35'
 average: '45.99'

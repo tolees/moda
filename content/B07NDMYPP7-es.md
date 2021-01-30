@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-STAR RAW Jirgi Zip Round Neck Chaqueta Punto  Gris  Raven 976   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMYPP7/?tag=tolees-21'
 descuento: '63.83'
 average: '30.134999999999998'

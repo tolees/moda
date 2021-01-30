@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'BOSS Trek 4 Camiseta  Blanco  Natural 101   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N95MMP4/?tag=tolees-21'
 descuento: '66.12'
 average: '20.31'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Vega Moc B  Mocasines para Mujer  Azul  Blue/Skin C4ea5   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJJ2YJV/?tag=tolees-21'
 descuento: '20.49'
 average: '53.79333333333334'

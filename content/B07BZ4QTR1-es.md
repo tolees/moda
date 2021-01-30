@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'CMP Rigel Mid  Zapatos de High Rise Senderismo Unisex  Marrón  Arabica-Adriatico 81bn   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZ4QTR1/?tag=tolees-21'
 descuento: '60.03'
 average: '23.96'

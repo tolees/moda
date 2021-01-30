@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Geox D NYDAME D  Zapatillas para Mujer  Blanco  White/Off White C1352   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLYBLN/?tag=tolees-21'
 descuento: '61.50'
 average: '53.86'

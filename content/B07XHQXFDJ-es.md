@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Marca Amazon - AURIQUE Mallas para Correr por el Tobillo de Tiro Alto Mujer  Morado  Nightshade/White   42  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHQXFDJ/?tag=tolees-21'
 descuento: '15.92'
 average: '10.09'

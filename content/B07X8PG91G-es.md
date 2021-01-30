@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Ftblnxt 1/4 Zip Top Sudadera  Hombre  Black-Ultra Yellow  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8PG91G/?tag=tolees-21'
 descuento: '51.46'
 average: '26.67'

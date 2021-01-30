@@ -16,6 +16,7 @@ comparePrice: 8.41 EUR
 prodname: 'Marca Amazon - find. Shorts Bermuda Hombre  Multicolor  Blue   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFL619N/?tag=tolees-21'
 descuento: '34.24'
 average: '5.53'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee CAROL  Vaqueros straight Mujer  Azul  Light Stone Qa   W33/L33'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M958THL/?tag=tolees-21'
 descuento: '84.97'
 average: '15.02'

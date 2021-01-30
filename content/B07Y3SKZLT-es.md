@@ -16,6 +16,7 @@ comparePrice: 14.78 EUR
 prodname: 'Jack & Jones Jorbasic SS tee Crew Neck 5-Pack Ka Camiseta  Azul  White Detail: Reg Fit/Packed Only White   X-Large  Pack de 5  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y3SKZLT/?tag=tolees-21'
 descuento: '26.52'
 average: '10.86'

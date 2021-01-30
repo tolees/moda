@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES NOS JJEDESERT Bomber Noos Chaqueta  Azul Maritime Blue  XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L951SJY/?tag=tolees-21'
 descuento: '69.99'
 average: '12.0'

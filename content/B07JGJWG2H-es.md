@@ -16,6 +16,7 @@ comparePrice: 19.74 EUR
 prodname: 'Marca Amazon - IRIS & LILLY  Bañador Moldeador Mujer  Rojo  Red   XL  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGJWG2H/?tag=tolees-21'
 descuento: '27.00'
 average: '14.41'

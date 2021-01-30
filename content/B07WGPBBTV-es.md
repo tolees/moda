@@ -16,6 +16,7 @@ comparePrice: 7.84 EUR
 prodname: 'FIND Barely There Strappy Sandalias Abiertas  Beige  Tan   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGPBBTV/?tag=tolees-21'
 descuento: '21.56'
 average: '7.029999999999999'

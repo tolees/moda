@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Leitan B  Zapatos de Cordones Derby para Hombre  Marrón  Brown C0013   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ6XWHJ/?tag=tolees-21'
 descuento: '62.98'
 average: '36.98'

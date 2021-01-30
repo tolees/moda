@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Pepe Jeans Alice Chaqueta   Forest Green 682   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQMRCV/?tag=tolees-21'
 descuento: '40.00'
 average: '66.0'

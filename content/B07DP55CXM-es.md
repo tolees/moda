@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger TJM Tommy Classics Logo tee Camisa  Azul  Black Iris 002   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP55CXM/?tag=tolees-21'
 descuento: '41.13'
 average: '23.189999999999998'

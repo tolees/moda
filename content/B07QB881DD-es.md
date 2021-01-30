@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA Classics T7 Jacket TR G Chaqueta De Entrenamiento  Niñas  Black  140'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB881DD/?tag=tolees-21'
 descuento: '38.93'
 average: '27.45'

@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'Desigual T-Shirt John Camiseta de Manga Larga  Azul  Diva Blue 5139   14 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8JYF5V/?tag=tolees-21'
 descuento: '64.20'
 average: '12.87'

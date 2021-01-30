@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Roman Originals Pantalón Capri elástico de bengalina para Mujer - Pantalón de Corte cónico Estilo años 50  Malla para Verano  Opaca  cómoda y elástica - Grey - 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLF7QXX/?tag=tolees-21'
 descuento: '25.00'
 average: '21.75'

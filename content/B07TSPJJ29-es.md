@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Daily Bees Db Bee Stripes PJ Conjuntos de Pijama  Gris  Gama Grises 49   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSPJJ29/?tag=tolees-21'
 descuento: '48.45'
 average: '15.46'

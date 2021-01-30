@@ -16,6 +16,7 @@ comparePrice: 61.03 EUR
 prodname: 'adidas Grand Court Base  Zapatos de Tenis para Hombre  Bianco FTWR White Blue Active Red  42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S74TM5N/?tag=tolees-21'
 descuento: '41.01'
 average: '36.0'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Pepe Jeans Slider Basic Man  Zuecos para Hombre  Azul  Navy 595   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJ4JPTP/?tag=tolees-21'
 descuento: '42.29'
 average: '20.2'

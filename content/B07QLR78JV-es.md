@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Tuopuda Calzoncillos para Hombre Ropa Interior Boxer Slip Algodón Pack de 4  L  Waist = 30-32 Inch   Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLR78JV/?tag=tolees-21'
 descuento: '23.95'
 average: '12.16'

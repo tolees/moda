@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Texas Contrast Vaqueros  Azul  Vintage Tint   44W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N36DZSA/?tag=tolees-21'
 descuento: '20.01'
 average: '71.95'

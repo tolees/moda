@@ -16,6 +16,7 @@ comparePrice: 21.35 EUR
 prodname: 'LA LEELA Casual Hawaiana Camisa para Hombre Señores Manga Corta Bolsillo Delantero Surf Palmeras Caballeros Playa Aloha XS- in cms :91-96 Azul W869'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018KDHE3Y/?tag=tolees-21'
 descuento: '46.84'
 average: '11.35'

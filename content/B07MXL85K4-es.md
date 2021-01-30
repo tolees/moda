@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Tommy Hilfiger Jersey Pant Pantalones de Deporte  Azul  Navy Blazer 416   29  Talla del Fabricante: LG  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXL85K4/?tag=tolees-21'
 descuento: '35.43'
 average: '28.99'

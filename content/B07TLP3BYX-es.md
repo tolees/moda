@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Atticus Lace  Zapatos de Cordones Derby para Hombre  Beige  Sage Nubuck Sage Nubuck   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLP3BYX/?tag=tolees-21'
 descuento: '72.68'
 average: '30.05'

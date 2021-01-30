@@ -16,6 +16,7 @@ comparePrice: 240 EUR
 prodname: 'Balenciaga Brillengestelle Ba5034 65A-52-21-140 Monturas de gafas  Negro  Schwarz   52.0 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8PX5DG/?tag=tolees-21'
 descuento: '81.92'
 average: '43.38'

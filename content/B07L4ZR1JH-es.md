@@ -16,6 +16,7 @@ comparePrice: 23.92 EUR
 prodname: 'Marco Tozzi 2-2-25311-33  Botines para Mujer  Marrón  Chestnut Antic 300   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4ZR1JH/?tag=tolees-21'
 descuento: '36.83'
 average: '15.11'

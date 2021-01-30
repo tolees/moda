@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mishansha Hombre Mujer Botas de Nieve Invierno Botines Senderismo Impermeables Deporte Trekking Zapatos Fur Forro Aire Libre Boots Marrón 40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHYHL7D/?tag=tolees-21'
 descuento: '15.00'
 average: '33.99'

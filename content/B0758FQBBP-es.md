@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Clarks Garratt Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck-   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758FQBBP/?tag=tolees-21'
 descuento: '28.18'
 average: '47.25'

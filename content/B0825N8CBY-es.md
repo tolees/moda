@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver New Slang - Camiseta para Hombre Screen tee  Hombre  Redwood  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825N8CBY/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

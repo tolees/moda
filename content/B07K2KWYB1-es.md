@@ -16,6 +16,7 @@ comparePrice: 152.9 EUR
 prodname: 'Timberland Euro Sprint Hiker Waterproof  Zapatillas Chukka para Hombre  Verde  Dk Green Full Grain   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2KWYB1/?tag=tolees-21'
 descuento: '35.25'
 average: '99'

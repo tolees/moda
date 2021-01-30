@@ -16,6 +16,7 @@ comparePrice: 119 EUR
 prodname: 'Geographical Norway Parka Mujer DINASTY Negro 02'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BBRYS9/?tag=tolees-21'
 descuento: '20.00'
 average: '95.2'

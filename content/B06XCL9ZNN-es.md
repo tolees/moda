@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Tilden Plain Zapatos de cordones derby Hombre  Marrón  Dark Tan Lea   44.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCL9ZNN/?tag=tolees-21'
 descuento: '50.03'
 average: '39.95'

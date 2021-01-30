@@ -16,6 +16,7 @@ comparePrice: 92.16 EUR
 prodname: 'Camper Pelotas XL  Zapatos de Cordones Oxford para Hombre  Rojo  Medium Red 610   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW6YWGH/?tag=tolees-21'
 descuento: '53.90'
 average: '42.49'

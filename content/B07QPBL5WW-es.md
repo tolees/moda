@@ -16,6 +16,7 @@ comparePrice: 23.08 EUR
 prodname: 'New Look Bermuda Button Falda  Blanco  White 10   40  Talla del Fabricante: 12  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPBL5WW/?tag=tolees-21'
 descuento: '71.97'
 average: '6.47'

@@ -16,6 +16,7 @@ comparePrice: 7.51 EUR
 prodname: 'Marca Amazon - find. Camiseta Estampada de Mickey Mouse para Hombre  Schwarz  Black   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711CZHNV/?tag=tolees-21'
 descuento: '34.89'
 average: '4.89'

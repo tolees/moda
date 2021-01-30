@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'G-STAR RAW Base Htr V T S/s 2-Pack Camiseta  Negro  Solid Black 2019   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072F2QK4G/?tag=tolees-21'
 descuento: '61.77'
 average: '13.38'

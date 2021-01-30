@@ -16,6 +16,7 @@ comparePrice: 27.73 EUR
 prodname: 'Regatta Cline III Coolweave Crew Neck Graphic Camiseta  Hombre  Yellow Sulphur  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5WJ8SG/?tag=tolees-21'
 descuento: '72.23'
 average: '7.7'

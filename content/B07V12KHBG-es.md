@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Women s Secret Generic Funny GD Oh Deer PJ Conjuntos de Pijama  Rojo  Gama Rojo 62   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V12KHBG/?tag=tolees-21'
 descuento: '36.87'
 average: '22.09'

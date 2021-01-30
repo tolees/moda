@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'DYKHMILY Zapatillas de Seguridad Hombre Zapatos de Seguridad Ligeras Transpirable con Puntera de Acero Anti-pinchazo Negro Blanco 2002 46 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BNSDWNP/?tag=tolees-21'
 descuento: '32.65'
 average: '33.0'

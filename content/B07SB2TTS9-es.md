@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Camiseta Tirantes sin Mangas de Deporte para Mujer Verano  Tank Top Clásico Chaleco para Fitness Gimnasio Yoga Colores Opcionales Camiseta de Pijama Dormir  M  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB2TTS9/?tag=tolees-21'
 descuento: '28.36'
 average: '8.59'

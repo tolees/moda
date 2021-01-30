@@ -16,6 +16,7 @@ comparePrice: 31.67 EUR
 prodname: 'JACK & JONES Jorhardy Light Puffer Chaqueta  Azul  Navy Blazer Detail: Solid   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC9WNQK/?tag=tolees-21'
 descuento: '27.09'
 average: '23.09'

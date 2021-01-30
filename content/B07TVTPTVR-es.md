@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Home Hm Weekend Set Conjuntos de Pijama  Azul  Gama Azules 19   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVTPTVR/?tag=tolees-21'
 descuento: '45.35'
 average: '16.39'

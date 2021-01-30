@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'XTI 48771  Sandalias con Punta Abierta para Mujer  Beige  Beige Beige   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXKBDT1/?tag=tolees-21'
 descuento: '79.15'
 average: '8.33'

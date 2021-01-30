@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Desigual TS Tropic Thoughts Camiseta  Rojo  Fresa Acid 3089   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFK4Q7R/?tag=tolees-21'
 descuento: '68.75'
 average: '15.61'

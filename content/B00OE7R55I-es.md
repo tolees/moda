@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'NIKE M Nk Dry tee Db Athlete Camiseta de Manga Corta  Hombre  White/ Black   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OE7R55I/?tag=tolees-21'
 descuento: '55.94'
 average: '11.01'

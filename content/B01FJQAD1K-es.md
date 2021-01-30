@@ -16,6 +16,7 @@ comparePrice: 46.8 EUR
 prodname: 'Urban Classics Ladies Satin Bomber Jacket  Chaqueta para Mujer  Plata  silver 473   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FJQAD1K/?tag=tolees-21'
 descuento: '42.33'
 average: '26.99'

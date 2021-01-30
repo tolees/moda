@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D LEELU  E  Zapatillas para Mujer  Blanco  White/Off White C1352   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRKBGR6/?tag=tolees-21'
 descuento: '56.51'
 average: '47.8'

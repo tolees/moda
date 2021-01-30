@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s The tee Camiseta de Manga Corta  Azul  BRW T2 Baby Blue 0777   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWB3RM9/?tag=tolees-21'
 descuento: '33.37'
 average: '19.99'

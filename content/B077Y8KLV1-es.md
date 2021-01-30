@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'HIKARO Sudadera con Capucha Hombre  Negro  Black   50  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y8KLV1/?tag=tolees-21'
 descuento: '69.98'
 average: '8.99'

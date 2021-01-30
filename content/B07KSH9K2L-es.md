@@ -16,6 +16,7 @@ comparePrice: 9.07 EUR
 prodname: 'Bolsa para Mascotas Pequeño Animal doméstico Gato Perro Bolsa de Transporte Malla Transpirable Bolsa de Viaje portátil Bolso Bandolera Mochila Sling Pet Supplies - Purple S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSH9K2L/?tag=tolees-21'
 descuento: '31.09'
 average: '6.25'

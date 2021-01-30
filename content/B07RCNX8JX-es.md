@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Columbia Tolt Track Chaqueta Interchange  Hombre  Azul  Collegiate Navy   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCNX8JX/?tag=tolees-21'
 descuento: '47.44'
 average: '120.89'

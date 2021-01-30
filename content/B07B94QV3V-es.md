@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Laina RAE  Zapatos de Tacón para Mujer  Negro  Black Patent   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B94QV3V/?tag=tolees-21'
 descuento: '49.97'
 average: '50.0'

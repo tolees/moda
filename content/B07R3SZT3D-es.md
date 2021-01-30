@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Wrangler Logo Sweat Sudadera  Marrón  Picante Brown X9h   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3SZT3D/?tag=tolees-21'
 descuento: '49.99'
 average: '37.48'

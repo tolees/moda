@@ -16,6 +16,7 @@ comparePrice: 16.04 EUR
 prodname: 'Carteras de Mano Fiesta para Mujer Elegante Suave Bolsos de Mano de PU Cuero con Asa Cremallera  Grande Clutch Moda Monederos de Boda Noche Bolsa del Teléfono  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4ZZ2LK/?tag=tolees-21'
 descuento: '31.48'
 average: '10.99'

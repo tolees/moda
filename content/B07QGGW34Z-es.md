@@ -16,6 +16,7 @@ comparePrice: 22.97 EUR
 prodname: 'PUMA Ftblnxt Track Jacket Chaqueta De Entrenamiento  Hombre  Black-Nrgy Red  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGGW34Z/?tag=tolees-21'
 descuento: '22.38'
 average: '17.83'

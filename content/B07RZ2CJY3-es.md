@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'BILLABONG Jackson SS Camiseta  Negro  Black 19   One Size  Tamaño del Fabricante: S  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ2CJY3/?tag=tolees-21'
 descuento: '45.21'
 average: '10.41'

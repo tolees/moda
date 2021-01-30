@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lencería Sexy para Mujer  Lencería Erótica  Disfraz De Halloween  Conejito  Seducción Sexy  Pijama Atractivo  no Contiene Calcetines '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNGWYZ3/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

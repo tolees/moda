@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Trefoil tee Camiseta de Manga Corta  Mujer  Lush Red/White  42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081SSGLRB/?tag=tolees-21'
 descuento: '29.98'
 average: '17.47'

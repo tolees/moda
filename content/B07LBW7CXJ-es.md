@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Tommy Hilfiger Bandeau-RP Parte de Arriba de Bikini  Negro  Pvh Black 094   S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBW7CXJ/?tag=tolees-21'
 descuento: '44.14'
 average: '27.93'

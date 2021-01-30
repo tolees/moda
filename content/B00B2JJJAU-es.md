@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Brandit US Hemd Kurzarm Camisa  Schwarz  XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B2JJJAU/?tag=tolees-21'
 descuento: '29.45'
 average: '23.453333333333333'

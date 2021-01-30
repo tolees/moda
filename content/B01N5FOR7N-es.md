@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'find. Camisa Clásica Manga Corta Hombre  Azul  Navy   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5FOR7N/?tag=tolees-21'
 descuento: '77.58'
 average: '5.83'

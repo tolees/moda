@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Braguita Mujer  Pack de 10  Multicolor  Black/Nostalgia Rose/Mel   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MW8GJZ/?tag=tolees-21'
 descuento: '30.01'
 average: '17.49'

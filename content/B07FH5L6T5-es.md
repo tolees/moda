@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Havaianas Brasil  Chanclas Unisex Adulto  Beige  Sand Grey/Dark Brown   35/36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FH5L6T5/?tag=tolees-21'
 descuento: '67.58'
 average: '7.1'

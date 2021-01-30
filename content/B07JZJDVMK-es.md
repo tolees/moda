@@ -16,6 +16,7 @@ comparePrice: 139 EUR
 prodname: 'Tommy Hilfiger U Light Down Jacket Chaqueta  Verde  Olive Night 399   74 para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZJDVMK/?tag=tolees-21'
 descuento: '69.35'
 average: '42.61'

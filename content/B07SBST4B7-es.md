@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'ARTOP Guantes Moto de Pantalla Táctil Guantes Motocross Verano Mujer Hombres Dedo Completo Tranpirable Guantes de Motocicleta Negro XXL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBST4B7/?tag=tolees-21'
 descuento: '42.87'
 average: '15.99'

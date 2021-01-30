@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'NICE WIN Guantes Esqui  Guantes Invierno Hombre Hombres y Mujeres  Negro  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFQZV4N/?tag=tolees-21'
 descuento: '38.72'
 average: '18.99'

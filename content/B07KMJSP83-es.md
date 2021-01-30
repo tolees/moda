@@ -16,6 +16,7 @@ comparePrice: 59.97 EUR
 prodname: 'Mustang Big Sur Vaqueros Straight  Azul  Medium Middle 580   W31/L34  Talla del Fabricante: 31/34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMJSP83/?tag=tolees-21'
 descuento: '67.85'
 average: '18.09'

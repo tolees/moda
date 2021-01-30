@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'G-STAR RAW D-STAQ 3D Slim Vaqueros  Negro  Pitch Black B479-A810   32W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH2ZCG8/?tag=tolees-21'
 descuento: '63.29'
 average: '58.72'

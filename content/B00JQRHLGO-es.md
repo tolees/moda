@@ -16,6 +16,7 @@ comparePrice: 43.0 EUR
 prodname: 'Calvin Klein Low Rise Trunk  Bóxer Hombre  Blanco  White   Small   Pack de 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JQRHLGO/?tag=tolees-21'
 descuento: '37.23'
 average: '27.976666666666667'

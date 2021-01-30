@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Tri Sporty  Sandalias de Talón Abierto para Mujer  Beige  Navy Textile Navy Textile   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMX4WZN/?tag=tolees-21'
 descuento: '68.60'
 average: '31.38'

@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'El Naturalista N5133  Botines para Mujer  Negro  Black-Obsidiana 000   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6TYD6Z/?tag=tolees-21'
 descuento: '64.92'
 average: '45.58'

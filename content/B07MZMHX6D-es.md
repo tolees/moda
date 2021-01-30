@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Legendary Shepherd Cord Chaqueta   Navy 595   7-8 años  Talla del Fabricante: 7/8 años  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZMHX6D/?tag=tolees-21'
 descuento: '36.59'
 average: '47.56'

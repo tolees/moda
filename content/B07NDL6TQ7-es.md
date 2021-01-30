@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Graphic 14 Core Hooded Sudadera  Negro  Dk Black 6484   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL6TQ7/?tag=tolees-21'
 descuento: '41.88'
 average: '48.265'

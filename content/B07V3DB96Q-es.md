@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'LTB Jeans Joshua Vaqueros Slim  Ridley Wash  42W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3DB96Q/?tag=tolees-21'
 descuento: '56.28'
 average: '30.58'

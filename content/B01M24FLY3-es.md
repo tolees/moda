@@ -16,6 +16,7 @@ comparePrice: 32.33 EUR
 prodname: 'Brandit Check Shirt Camisa  Gris-Negro  L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M24FLY3/?tag=tolees-21'
 descuento: '15.28'
 average: '26.95285714285714'

@@ -16,6 +16,7 @@ comparePrice: 14.48 EUR
 prodname: 'Marca Amazon - Iris & Lilly Tanga Mujer  Pack de 5  Rosa  Rosa   XXL  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NH1VSKC/?tag=tolees-21'
 descuento: '27.56'
 average: '10.49'

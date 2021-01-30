@@ -16,6 +16,7 @@ comparePrice: 11.29 EUR
 prodname: 'Marca Amazon - AURIQUE  Sujetador Deportivo para Actividades de Impacto Medio Mujer  Azul  Dress Blue   S  Label:S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5PT84Y/?tag=tolees-21'
 descuento: '19.31'
 average: '9.11'

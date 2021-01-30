@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Northern Comfort Chaqueta híbrida  Mujer  Color: Beige  Chalk   Talla: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCFF9VR/?tag=tolees-21'
 descuento: '75.10'
 average: '22.41'

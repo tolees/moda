@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Jorsprayed Sweat Crew Neck Sudadera  Azul  Sea Moss Fit: Reg/Org   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC1P5V5/?tag=tolees-21'
 descuento: '33.94'
 average: '19.81'

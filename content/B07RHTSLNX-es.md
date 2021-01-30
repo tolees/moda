@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Tommy Hilfiger TJM Round Back Logo tee Camiseta Deporte  Gris  Grey P   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHTSLNX/?tag=tolees-21'
 descuento: '48.26'
 average: '15.985'

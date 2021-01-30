@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Juego de Destornilladores  Destornilladores de Precisión Kit  115 en 1 Magnético Kit de Herramientas de Profesional para Reparar Teléfonos Celulares  Reloj  Gafas  refrigerador  Ordenador ect'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9MK9P4/?tag=tolees-21'
 descuento: '51.53'
 average: '15.99'

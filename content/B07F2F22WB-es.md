@@ -16,6 +16,7 @@ comparePrice: 119.63 EUR
 prodname: 'Deess IPL GP586 - Depiladora a base de luz para una piel lisa y duradera  350000 veces  con gafas de protección solar   color morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2F22WB/?tag=tolees-21'
 descuento: '44.43'
 average: '69.47'

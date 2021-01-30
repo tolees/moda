@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Desigual Dress Karen Vestido  Blanco 1000  M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3VXB5R/?tag=tolees-21'
 descuento: '63.42'
 average: '32.9'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D ANNYTAH Moc A  Mocasines para Mujer  Negro  Black C9997   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV9DHC/?tag=tolees-21'
 descuento: '69.44'
 average: '24.62'

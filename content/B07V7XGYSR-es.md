@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Basic Opened Toe Mid Wedge  Sandalias con Punta Abierta para Mujer  Naranja  Island Coral Sn7   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7XGYSR/?tag=tolees-21'
 descuento: '53.64'
 average: '44.0'

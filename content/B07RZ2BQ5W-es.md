@@ -16,6 +16,7 @@ comparePrice: 14.48 EUR
 prodname: 'BILLABONG Laguna Beach Sudadera  Mujer  Verde  Wasabi 4447   One Size  Tamaño del Fabricante: S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ2BQ5W/?tag=tolees-21'
 descuento: '19.75'
 average: '11.62'

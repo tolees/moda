@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Luz Para Bolso Seguridad de Luz con Sensor de Infrarrojos.Se Enciende Automaticamente Cuando Abre el Bolso.Protegida Patente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016Y7HYXI/?tag=tolees-21'
 descuento: '54.57'
 average: '9.99'

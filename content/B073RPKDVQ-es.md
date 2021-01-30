@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen Logo Hoodie Sudadera Con Capucha  Hombre  blanco  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPKDVQ/?tag=tolees-21'
 descuento: '36.86'
 average: '45.18333333333334'

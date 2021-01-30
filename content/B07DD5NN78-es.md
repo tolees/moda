@@ -16,6 +16,7 @@ comparePrice: 96.99 EUR
 prodname: 'Trangoworld Borau Chaqueta  Hombre  Azul Oscuro/Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD5NN78/?tag=tolees-21'
 descuento: '26.29'
 average: '71.49'

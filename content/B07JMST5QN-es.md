@@ -16,6 +16,7 @@ comparePrice: 16 EUR
 prodname: 'Amazon Essentials - Chaqueta de algodón terry de manga larga con cremallera completa para mujer  Graphite  US M  EU M - L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMST5QN/?tag=tolees-21'
 descuento: '20.00'
 average: '12.8'

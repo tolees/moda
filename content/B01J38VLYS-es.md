@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Dim X-Temp Boxer X2 Culotte  Negro  Noir   2  Pack Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J38VLYS/?tag=tolees-21'
 descuento: '36.00'
 average: '17.92'

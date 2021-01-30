@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Mavi Frida Falda  Negro  Smoke Random Embelished 29954   Small  Talla del Fabricante: S/  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLX21GY/?tag=tolees-21'
 descuento: '75.17'
 average: '17.37'

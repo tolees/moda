@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Redmond V2  Zapatos de Senderismo Impermeables para Hombre  Gris  Monument  Red J 036   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK46M1S/?tag=tolees-21'
 descuento: '35.56'
 average: '57.99'

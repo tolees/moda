@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'Helly Hansen Majestic Warm Aislado Chaqueta de Esquí  Mujer  Navy  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9D6MTL/?tag=tolees-21'
 descuento: '32.67'
 average: '201.99'

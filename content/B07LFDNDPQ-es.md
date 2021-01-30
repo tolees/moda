@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Slim 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Olive Night + White Yd/Dress Blues + Warm Cabernet Yd 0006   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFDNDPQ/?tag=tolees-21'
 descuento: '50.00'
 average: '15.450000000000001'

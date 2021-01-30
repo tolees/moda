@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Timberland Malibu Waves  Sandalias para Mujer  Verde  Olive Nubuck   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1ZQY4Z/?tag=tolees-21'
 descuento: '57.07'
 average: '37.626666666666665'

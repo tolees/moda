@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jjebomb Puffer Noos Chaqueta Bomber  Azul  Navy Blazer Navy Blazer   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXBJPWZ/?tag=tolees-21'
 descuento: '30.01'
 average: '34.99'

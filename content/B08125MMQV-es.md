@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Geographical Norway Parka Hombre VERVEINE Negro S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08125MMQV/?tag=tolees-21'
 descuento: '40.00'
 average: '71.4'

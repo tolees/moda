@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'PUMA Active Camiseta  Hombre  Gris  Medium Gray Heather   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKMD91W/?tag=tolees-21'
 descuento: '24.26'
 average: '14.63'

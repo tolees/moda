@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Superdry Hombre Chaqueta de chándal Off-Piste Ultravioleta L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYV2YLY/?tag=tolees-21'
 descuento: '49.99'
 average: '45.0'

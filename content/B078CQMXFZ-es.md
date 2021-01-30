@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'SIMYJOY Pareja Sudadera con Capucha Gato Encapuchado Camisa Pull-Over para Hombre y Mujer Adolescentes Negro L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078CQMXFZ/?tag=tolees-21'
 descuento: '61.78'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 40.92 EUR
 prodname: 'Urban Classics 2-Tone Tech Windrunner Chaqueta  Multicolor  Dark Grey/White 00440   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KNZC5G/?tag=tolees-21'
 descuento: '44.21'
 average: '22.83'

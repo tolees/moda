@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Desigual Trousers Robots Vaqueros Boyfriend  Azul  Denim Medium Wash 5053   W26 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N44F3KJ/?tag=tolees-21'
 descuento: '77.82'
 average: '19.95'

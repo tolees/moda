@@ -16,6 +16,7 @@ comparePrice: 8.23 EUR
 prodname: 'Marca Amazon - find. Vaqueros Rectos de Tiro Medio Mujer  Azul  MID BLUE   28W / 32L  Label: 28W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBGM2HY/?tag=tolees-21'
 descuento: '18.10'
 average: '7.790000000000001'

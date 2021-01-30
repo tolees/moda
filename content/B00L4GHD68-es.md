@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Sunlightâ¢ Vent II  Sandalias para Mujer  Beige  Bluff  Sorbet   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L4GHD68/?tag=tolees-21'
 descuento: '43.99'
 average: '28.0'

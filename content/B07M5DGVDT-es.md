@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee 5 POCKET WIDE LEG  Vaqueros straight Mujer  Azul  MYSTIC STONE JI   W31/L33  Talla fabricante: W31/L33 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5DGVDT/?tag=tolees-21'
 descuento: '82.25'
 average: '14.875'

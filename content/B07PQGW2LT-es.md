@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung EF-WA705 Funda billetera para teléfono Galaxy A70  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQGW2LT/?tag=tolees-21'
 descuento: '70.00'
 average: '8.97'

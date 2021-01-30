@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s HR Decon Iconic BF Skirt Falda  Blanco  Pearly White 0010   Talla única  Talla del Fabricante: 27  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFMH1J9/?tag=tolees-21'
 descuento: '50.00'
 average: '32.5'

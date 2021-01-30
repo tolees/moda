@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Lacoste TH6709  Camiseta para Hombre  Azul  Alby Chiné 5ch   XS  Talla del fabricante: 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDKFMTK/?tag=tolees-21'
 descuento: '32.73'
 average: '37'

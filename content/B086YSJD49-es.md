@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'AARDIMI - Sandalias para mujer  planas  de verano  con lazo  de ante  con diseño de lazo  con aspecto de corcho 35-43  color  talla 40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YSJD49/?tag=tolees-21'
 descuento: '67.36'
 average: '19.58'

@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Disney Pijama Entera para Niños Bebés Aladdin Azul 12-18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WG7LZ55/?tag=tolees-21'
 descuento: '41.30'
 average: '9.95'

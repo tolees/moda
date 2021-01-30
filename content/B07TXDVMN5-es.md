@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 502 Taper Vaqueros Tapered  Negro  Adjustable Black 0751   W30/L32  Talla del Fabricante: 30 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXDVMN5/?tag=tolees-21'
 descuento: '44.78'
 average: '55.22'

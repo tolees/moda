@@ -16,6 +16,7 @@ comparePrice: 11.37 EUR
 prodname: 'Marca Amazon - MERAKI Sudadera con Capucha Hombre  Negro  Black   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YZTXPC/?tag=tolees-21'
 descuento: '17.59'
 average: '10.120000000000001'

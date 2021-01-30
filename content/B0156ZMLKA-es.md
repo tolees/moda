@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'KRISP Vestido Mujer Tallas Grandes Largo Casual Ibicenco De Día Ropa Hippie Online Ofertas   Negro  3269   40 EU  12 UK    3269-BLK-12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0156ZMLKA/?tag=tolees-21'
 descuento: '36.38'
 average: '13.99'

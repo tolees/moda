@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Levi s Graphic B Sudadera  Negro  Logo Ssnl Crew Mineral Black 0068   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K73PWQC/?tag=tolees-21'
 descuento: '50.83'
 average: '31.725'

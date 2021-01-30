@@ -16,6 +16,7 @@ comparePrice: 5.64 EUR
 prodname: 'JACK & JONES Jprjean Bla. tee SS U-Neck Camiseta  Negro  Black Fit: Slim Fit   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTXCRVN/?tag=tolees-21'
 descuento: '16.67'
 average: '4.785'

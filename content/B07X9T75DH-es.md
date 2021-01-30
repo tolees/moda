@@ -16,6 +16,7 @@ comparePrice: 21.93 EUR
 prodname: 'Cevapro Guantes de ciclismo cálidos guantes de invierno ligeros guantes deportivos para pantalla táctil guantes unisex transpirables guantes de ciclismo para hombres/mujeres para ciclismo  senderismo  correr  etc.  Hombre  color Negro  tamaño extra-large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9T75DH/?tag=tolees-21'
 descuento: '41.59'
 average: '12.81'

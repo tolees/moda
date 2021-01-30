@@ -16,6 +16,7 @@ comparePrice: 102.15 EUR
 prodname: 'Eye Candy ECJ-NL0067 - Collar para mujer  colgante en plata de ley 925  con 12 circonitas blancas  45 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3Y3W4P/?tag=tolees-21'
 descuento: '59.73'
 average: '41.14'

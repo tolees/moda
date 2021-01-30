@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Leadcat FTR  Sandalias deslizantes Unisex-Adulto  Negro Black Team Gold White  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SF1FN8Z/?tag=tolees-21'
 descuento: '37.92'
 average: '15.14'

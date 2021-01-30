@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Tom Tailor Logo Camiseta  Gris  Tarmac Grey 10899   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR662CC/?tag=tolees-21'
 descuento: '58.36'
 average: '4.16'

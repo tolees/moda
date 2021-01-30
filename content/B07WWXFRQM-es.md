@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Rizador Pelo Plegable Profesional Planchas Rizadoras 25mm con Guantes 2 Pinzas  Tenacillas de Pelo Calentamiento Rápido Voltaje Compatible 100-240V para Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWXFRQM/?tag=tolees-21'
 descuento: '16.68'
 average: '12.49'

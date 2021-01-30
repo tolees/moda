@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Santa Cruz Canvas Flip Men  Zapatos de Playa y Piscina para Hombre  Negro  Black/Slate Grey 0dd   M8  41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CMZQ87R/?tag=tolees-21'
 descuento: '52.61'
 average: '21.41'

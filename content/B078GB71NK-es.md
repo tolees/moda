@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Tommy Hilfiger Bikini Culotte  Gris  Grey Heather 004   Large  Talla fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GB71NK/?tag=tolees-21'
 descuento: '36.12'
 average: '13.99'

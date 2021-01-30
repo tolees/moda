@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Sukie C  Zapatillas para Mujer  Blau  Navy C4002   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG3X1YF/?tag=tolees-21'
 descuento: '63.44'
 average: '34.510000000000005'

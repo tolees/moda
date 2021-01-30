@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Pepe Jeans Art Camiseta  Azul  519light SPA 519   8-9 años  Talla del Fabricante: 8  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVR9KPC/?tag=tolees-21'
 descuento: '62.31'
 average: '7.5'

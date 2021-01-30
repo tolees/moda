@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Chicco Sandalo Corissa  Sandalias para Niñas  Blanco  Bianco 300   23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7QF5J9/?tag=tolees-21'
 descuento: '20.01'
 average: '31.99'

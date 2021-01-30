@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Adidas Trefoil Crew – Sudadera  Hombre  Marrón  cargo noche   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJYTG16/?tag=tolees-21'
 descuento: '49.99'
 average: '31.465000000000003'

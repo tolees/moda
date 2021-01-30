@@ -16,6 +16,7 @@ comparePrice: 19.97 EUR
 prodname: 'Levi s Levis 200sf Sprtswr Logo Color Boxer Brief 2p  Multicolor  Island Green 506   Large  Pack de 2 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM626RL/?tag=tolees-21'
 descuento: '37.41'
 average: '12.5'

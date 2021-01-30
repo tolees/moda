@@ -16,6 +16,7 @@ comparePrice: 15.69 EUR
 prodname: 'DAYNEW 5.1" de Hombre Funda de Piel Cinturón Bolso de Cintura Premium Funda Piel Mini Bolsa de Mensajero Hombro Bolsa para Samsung Galaxy S5 Neo/S6/A5 Duos/A5-Marrón Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DB4W95T/?tag=tolees-21'
 descuento: '29.96'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Mena Blossom  Zapatos de Tacón para Mujer  Plateado  Champagne-   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSK8QFH/?tag=tolees-21'
 descuento: '60.26'
 average: '35.75'

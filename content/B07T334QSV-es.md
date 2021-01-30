@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Parfois - Bolso Shopper Acolchado - Mujeres - Tallas M - Rosa Bébé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T334QSV/?tag=tolees-21'
 descuento: '49.98'
 average: '13'

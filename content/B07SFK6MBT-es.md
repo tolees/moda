@@ -16,6 +16,7 @@ comparePrice: 33.7 EUR
 prodname: 'Kappa Kit Gara Home Bambino 2019/2020 Camiseta de Juego  Niños  Azul  10 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFK6MBT/?tag=tolees-21'
 descuento: '58.46'
 average: '14.0'

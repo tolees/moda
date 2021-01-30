@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Dress Melissa Vestido  Negro  Negro 2000   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3SRRHY/?tag=tolees-21'
 descuento: '26.84'
 average: '58.49'

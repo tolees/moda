@@ -16,6 +16,7 @@ comparePrice: 15.81 EUR
 prodname: 'Jack & Jones JCOBOOSTER Sweat Hood DEC 19 Sudadera con Capucha  Negro  Black Black   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGGG8Q5/?tag=tolees-21'
 descuento: '33.27'
 average: '10.55'

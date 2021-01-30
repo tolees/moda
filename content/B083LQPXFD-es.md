@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'MoneRffi Hombres Zapatillas de Deporte Malla Ultra Ligero Transpirable Atletismo Corriendo al Gimnasio Zapatos de Gimnasio a Prueba de Olor  Resistente al Desgaste y Antideslizante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083LQPXFD/?tag=tolees-21'
 descuento: '51.53'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Tech 2.0 Shortsleeve Camiseta Transpirable  Ancha Camiseta para Gimnasio de Manga Corta y Secado rápido  Hombre  Verde  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCZN2K2/?tag=tolees-21'
 descuento: '48.25'
 average: '14.290000000000001'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Vest Tennessee Vestido  Azul  Azul Agata 5026   48  Talla del Fabricante: 46  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHTVWMV/?tag=tolees-21'
 descuento: '60.00'
 average: '39.98'

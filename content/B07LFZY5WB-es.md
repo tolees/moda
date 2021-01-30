@@ -16,6 +16,7 @@ comparePrice: 37.7 EUR
 prodname: 'Geox D Myria A  Zapatillas para Mujer  Beige  Champagne/Off White Cb51q   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZY5WB/?tag=tolees-21'
 descuento: '31.19'
 average: '25.94'

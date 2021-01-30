@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Joma Combi s/m  Camiseta Técnica sin Manga Unisex  Rojo  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E5NDXOM/?tag=tolees-21'
 descuento: '33.26'
 average: '6.0'

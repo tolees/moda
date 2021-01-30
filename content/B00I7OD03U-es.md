@@ -16,6 +16,7 @@ comparePrice: 32.01 EUR
 prodname: 'Polaroid P7334 RC 9CA Gafas de sol  Negro  Black/Green Polarized   63 Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I7OD03U/?tag=tolees-21'
 descuento: '18.93'
 average: '27.156'

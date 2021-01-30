@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Ronnie Limit  Zapatos de Cordones Brogue  Piel Negra  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSJYPV8/?tag=tolees-21'
 descuento: '29.96'
 average: '46.129999999999995'

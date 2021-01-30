@@ -16,6 +16,7 @@ comparePrice: 106.15 EUR
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Wobbegong Warp Cool 0869   W34/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K75VD8D/?tag=tolees-21'
 descuento: '26.52'
 average: '65.93'

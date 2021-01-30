@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'UBORSE Bolso de Fiesta Noche Moda para Mujer Embrague Hard Shell Clutches Elegante Bolso de Hombro Billetera Carteras de Mano del Banquete Boda Señoras Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ1L5VY/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

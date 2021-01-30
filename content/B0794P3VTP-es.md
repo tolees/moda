@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'Columbia Tolmie Butte  Chaqueta  Hombre  Negro  Shark   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0794P3VTP/?tag=tolees-21'
 descuento: '43.06'
 average: '48.39'

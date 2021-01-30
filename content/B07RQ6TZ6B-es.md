@@ -16,6 +16,7 @@ comparePrice: 48.93 EUR
 prodname: 'Lee Luke Vaqueros  Nitrate VM  29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQ6TZ6B/?tag=tolees-21'
 descuento: '15.70'
 average: '41.25'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES JJESLUB Knit Crew Neck STS Jersey  Azul  Navy Blazer Navy Blazer   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC8VT6D/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

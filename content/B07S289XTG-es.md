@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'BILLABONG Harlem Chaqueta  Negro  Black 19   One Size  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S289XTG/?tag=tolees-21'
 descuento: '75.50'
 average: '28.17'

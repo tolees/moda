@@ -16,6 +16,7 @@ comparePrice: 20.41 EUR
 prodname: 'Tommy Hilfiger TJM Tommy Stripe tee Camiseta  Verde  Audacious Blue/White 0cr   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1VLYLJ/?tag=tolees-21'
 descuento: '31.06'
 average: '14.07'

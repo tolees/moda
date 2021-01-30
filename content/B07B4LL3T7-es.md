@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros  Medium Aged 9874-071  27W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4LL3T7/?tag=tolees-21'
 descuento: '85.36'
 average: '36.54'

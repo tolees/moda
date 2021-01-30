@@ -16,6 +16,7 @@ comparePrice: 23.86 EUR
 prodname: 'KAPORAL Ozone Chaqueta  Negro  Black M62   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYK968M/?tag=tolees-21'
 descuento: '19.03'
 average: '19.32'

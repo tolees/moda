@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Gant D1. The Light Down Jacket Chaqueta  Negro  Black 5   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVLCCZL/?tag=tolees-21'
 descuento: '44.71'
 average: '156.01000000000002'

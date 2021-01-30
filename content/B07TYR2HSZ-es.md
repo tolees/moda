@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Paninara Sin Collar 6"Impermeable Ca2461 Naranja Quemada - 4 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYR2HSZ/?tag=tolees-21'
 descuento: '40.00'
 average: '126.0'

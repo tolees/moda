@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Wrangler LS Refined Polo Camisa Manga Larga  Azul  Blue Depth Xjy   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F44LT/?tag=tolees-21'
 descuento: '49.99'
 average: '22.48'

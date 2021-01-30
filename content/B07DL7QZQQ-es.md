@@ -16,6 +16,7 @@ comparePrice: 57.0 EUR
 prodname: 'Element Cornell Classic Ho Sudadera con Capucha  Hombre  Negro  Flint Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DL7QZQQ/?tag=tolees-21'
 descuento: '58.68'
 average: '27.365000000000002'

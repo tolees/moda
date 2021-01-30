@@ -16,6 +16,7 @@ comparePrice: 118.99 EUR
 prodname: 'Antony Morato - Abrigo - para Hombre Azul Marino L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M05FJZ2/?tag=tolees-21'
 descuento: '48.31'
 average: '61.5'

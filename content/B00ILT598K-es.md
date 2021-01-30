@@ -16,6 +16,7 @@ comparePrice: 36.05 EUR
 prodname: 'Bolsos de Mujer  Coofit Bolso Bandolera Bolso Lona Bolso Tote Bolso Shopper'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ILT598K/?tag=tolees-21'
 descuento: '39.28'
 average: '23.81824561403508'

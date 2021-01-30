@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Modern Jaspe Camiseta  Azul  Blue Sapphire 423   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BY169PM/?tag=tolees-21'
 descuento: '23.10'
 average: '25.65'

@@ -16,6 +16,7 @@ comparePrice: 27 EUR
 prodname: 'find. NEWSTW045 vaqueros mujer  Azul  Indigo Rinse   W27/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075X1TTQL/?tag=tolees-21'
 descuento: '60.00'
 average: '10.8'

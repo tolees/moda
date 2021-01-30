@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'AMZTM Zapatos de Agua Niño Chicos  Tiburón Zapatillas Acuáticas Secado Rápido Tipo Calcetines Descalzado  Escarpines Deportivos para Paseo Playa Buceo Snorkel Kayak Surf tiburón  Numeric 24 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BY9M7F1/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'BROOKS BROTHERS Camicia Regent Manica Lunga  Camisa de Oficina para Hombre  Turquesa  Light/Pastel Blue 455  Large  Talla del Fabricante: 16H 34 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XZZDDRR/?tag=tolees-21'
 descuento: '66.12'
 average: '43.7'

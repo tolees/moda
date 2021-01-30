@@ -16,6 +16,7 @@ comparePrice: 28.82 EUR
 prodname: 'adidas Core 18 Hoody Sudadera con Capucha  Hombre  Yellow/Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBM71PH/?tag=tolees-21'
 descuento: '16.76'
 average: '26.47'

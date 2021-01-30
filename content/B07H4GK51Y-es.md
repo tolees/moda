@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas CAMPEON19 JSY Camiseta  Campeon 19  Gris  DGH Solid Grey/White   910Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4GK51Y/?tag=tolees-21'
 descuento: '72.02'
 average: '12.373333333333331'

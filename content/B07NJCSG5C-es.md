@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Springfield INT.R.Real Down Tecnico Chaqueta  Azul  Azul 19   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJCSG5C/?tag=tolees-21'
 descuento: '74.31'
 average: '26.993333333333332'

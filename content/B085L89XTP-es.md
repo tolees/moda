@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'MoneRffi Mujeres Sandalias Planas Sandalias Casuales Zapatos de Verano Mujeres Peep Toe Casual Encaje up impresión Sandalias Planas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085L89XTP/?tag=tolees-21'
 descuento: '64.27'
 average: '14.29'

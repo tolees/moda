@@ -16,6 +16,7 @@ comparePrice: 162.0 EUR
 prodname: 'Michael Kors Jet Set Travel  Bolso totes para Mujer  Azul  Admiral   12.7x29.2x43 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H0SIQB4/?tag=tolees-21'
 descuento: '19.75'
 average: '130.0'

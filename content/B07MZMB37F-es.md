@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Pepe Jeans Dutchman Chaqueta   Sailor 580   3-4 años  Talla del Fabricante: 3/4 años  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZMB37F/?tag=tolees-21'
 descuento: '52.00'
 average: '58.55'

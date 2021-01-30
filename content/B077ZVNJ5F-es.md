@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'Baoblaze 10pcs Tirador de Cremallera Zipper Pulls Reemplazo Zip Tensioner Cable para Ropa Mochila Chaqueta - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZVNJ5F/?tag=tolees-21'
 descuento: '44.43'
 average: '5.99'

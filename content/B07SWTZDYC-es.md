@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox D Sandal Hiver A  Sandalias con Punta Abierta para Mujer  Marrón  Cognac C6001   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTZDYC/?tag=tolees-21'
 descuento: '50.00'
 average: '39.95'

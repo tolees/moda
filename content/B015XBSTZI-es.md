@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Morgan 132-mentos.m Camiseta  Marrón  Bordeaux Bordeaux   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015XBSTZI/?tag=tolees-21'
 descuento: '52.76'
 average: '11.625'

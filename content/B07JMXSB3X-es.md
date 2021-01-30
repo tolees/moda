@@ -16,6 +16,7 @@ comparePrice: 101.4 EUR
 prodname: 'Timberland Bradstreet Hiker  Botas Chukka para Hombre  Azul  Navy Nubuck   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMXSB3X/?tag=tolees-21'
 descuento: '28.50'
 average: '72.5'

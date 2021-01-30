@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Marcelle Camiseta   Bubble Gum 349   3-4 años  Talla del Fabricante: 3/4 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQS8M2/?tag=tolees-21'
 descuento: '61.97'
 average: '11.065'

@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'Joma Equip. M/c  Hombre  Camiseta hispa Rojo-Blanco  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZQYR9J/?tag=tolees-21'
 descuento: '21.93'
 average: '17.16'

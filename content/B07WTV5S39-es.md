@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Botas de Invierno para Niños Zapatillas de Senderismo Unisex Niños Botas de Senderismo Niño Zapatos Botas de Montaña Deportiva Botas Niña Trekking Zapatos Negro 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTV5S39/?tag=tolees-21'
 descuento: '71.12'
 average: '25.99'

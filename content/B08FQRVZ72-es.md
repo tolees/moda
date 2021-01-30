@@ -16,6 +16,7 @@ comparePrice: 8.18 EUR
 prodname: 'Estudiante Coreano Hombro Arte Fresh Messenger Canvas Bag Simple Cloth Bag Shoulder Bag Canvas Bag Bolso  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FQRVZ72/?tag=tolees-21'
 descuento: '33.50'
 average: '5.44'

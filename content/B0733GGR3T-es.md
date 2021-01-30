@@ -16,6 +16,7 @@ comparePrice: 19.69 EUR
 prodname: 'find. Sudadera con Capucha Hombre  Gris  Charcoal Marl   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0733GGR3T/?tag=tolees-21'
 descuento: '61.91'
 average: '7.5'

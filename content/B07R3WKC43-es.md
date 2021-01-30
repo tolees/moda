@@ -16,6 +16,7 @@ comparePrice: 85.04 EUR
 prodname: '🎁 Bolso de la motocicleta Cuero genuino Bolso mensajero Bolsa de hombro 9 X 11 pulgadas | Bolsa de herramientas Marrón Manillar Respaldo Bolso de viaje | Con envío gratuito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3WKC43/?tag=tolees-21'
 descuento: '35.34'
 average: '54.99'

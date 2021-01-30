@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Sudadera  Azul  Logo Colorblock Crew Dress Blues/White 0000   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ9Q2WN/?tag=tolees-21'
 descuento: '45.00'
 average: '36.745000000000005'

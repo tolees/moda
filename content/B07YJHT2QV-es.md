@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Eli-time Gafas de sol polarizadas ultraligeras hombres y mujeres para jugar al golf  correr  pescar  protección 100% UV400  marco mate rectangular de moda con lentes multicolores  ET19010  C-6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJHT2QV/?tag=tolees-21'
 descuento: '52.98'
 average: '9.4'

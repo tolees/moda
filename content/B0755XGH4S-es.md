@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers Beverlee-High Tea  Sandalias de Punta Descubierta para Mujer  Beige  Natural Nat   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0755XGH4S/?tag=tolees-21'
 descuento: '29.99'
 average: '42.21'

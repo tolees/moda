@@ -16,6 +16,7 @@ comparePrice: 31.21 EUR
 prodname: 'Vestido Unicornio De Niñas Hermosos Apliques de Volantes Disfraz de Fiesta fantástica + Headwear Talla  100  2-3 años Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKWNZNK/?tag=tolees-21'
 descuento: '42.36'
 average: '17.99'

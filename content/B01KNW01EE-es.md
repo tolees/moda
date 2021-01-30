@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Qomolo Guantes Para Carrito de Bebé Guantes de Silla de Paseo  Manoplas Guantes de Forro Polar Impermeable  Invierno Protege Manos Guantes Caliente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KNW01EE/?tag=tolees-21'
 descuento: '25.64'
 average: '12.64'

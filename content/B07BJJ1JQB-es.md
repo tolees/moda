@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'G-STAR RAW ARC 3D Mid Waist Skinny Vaqueros  Azul  dk Aged 8968-89   25W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJJ1JQB/?tag=tolees-21'
 descuento: '75.00'
 average: '27.49'

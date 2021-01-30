@@ -16,6 +16,7 @@ comparePrice: 170 EUR
 prodname: 'Trango Ganin Ft Chaqueta  Mujer  Verde  6G0 -Verde Lima   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0I9WH6/?tag=tolees-21'
 descuento: '26.48'
 average: '136.64333333333332'

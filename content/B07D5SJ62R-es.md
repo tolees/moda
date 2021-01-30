@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA ESS Logo tee Camiseta  Mujer  Gris  Light Gray Heather   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5SJ62R/?tag=tolees-21'
 descuento: '47.42'
 average: '10.823333333333334'

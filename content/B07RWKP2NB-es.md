@@ -16,6 +16,7 @@ comparePrice: 112.81 EUR
 prodname: 'Ted Baker Sumpsa  Zapatos de Cordones Derby para Hombre  Negro  Black Black   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWKP2NB/?tag=tolees-21'
 descuento: '57.59'
 average: '47.84'

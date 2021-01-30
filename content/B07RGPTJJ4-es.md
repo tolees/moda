@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Modern T Shirt Bra Sujetador para Camiseta  Rosa  Pale Blush 612   K  Talla del Fabricante: D70  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGPTJJ4/?tag=tolees-21'
 descuento: '36.87'
 average: '25.19'

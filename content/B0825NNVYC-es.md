@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver New Slang - Camiseta para Hombre Screen tee  Hombre  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825NNVYC/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Helly Hansen W HH Logo Singlet Camiseta De Tirantes  Mujer  White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFBPSGH/?tag=tolees-21'
 descuento: '50.20'
 average: '12.45'

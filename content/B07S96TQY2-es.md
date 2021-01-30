@@ -16,6 +16,7 @@ comparePrice: 10.45 EUR
 prodname: 'Disney HS2220 Conjuntos de Pijama  Rosa  Pink Pink   8 años para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S96TQY2/?tag=tolees-21'
 descuento: '28.80'
 average: '7.44'

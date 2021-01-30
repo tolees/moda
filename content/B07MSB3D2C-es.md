@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'Marca Amazon - MERAKI Polo Hombre  Gris  Grey Marl   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSB3D2C/?tag=tolees-21'
 descuento: '34.60'
 average: '7.83'

@@ -16,6 +16,7 @@ comparePrice: 46.24 EUR
 prodname: 'Geox J Alben Boy D  Zapatillas para Niños  Gris  Grey/Yellow C0030   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQG36V1/?tag=tolees-21'
 descuento: '47.12'
 average: '24.45'

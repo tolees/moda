@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tikea Cartera Geométrica de Corcho Natural para Mujer  Billetera con Cremallera Ecológica de Moda  Bolsillo de Mano Efecto Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2L84KV/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

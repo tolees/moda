@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Vest Bondi Vestido  Azul  Turkish Sea 5114   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGQP1BL/?tag=tolees-21'
 descuento: '50.04'
 average: '34.95'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Chaleco de mujer con calefacción USB  Chaqueta térmica de 5 V con calefacción Ropa calentador almohadilla térmica para hombres y mujeres  Alimentado por una batería recargable del banco de energía  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLZTN95/?tag=tolees-21'
 descuento: '34.26'
 average: '26.29'

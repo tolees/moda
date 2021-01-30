@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'find. Sudadera Bicolor y Manga Ranglan para Hombre  Gris  Grey   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071F4MMG3/?tag=tolees-21'
 descuento: '57.14'
 average: '7.5'

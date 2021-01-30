@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Mujer Zapatos de tacón Alto con tacón de Aguja de Boda para con Punta en Punta  de tacón Alto10.5CM/7.5CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086SQXP5Y/?tag=tolees-21'
 descuento: '56.68'
 average: '25.99'

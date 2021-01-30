@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Graphic 16 Core Hooded Sudadera  Azul  Imperial Blue 1305   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNRFYP/?tag=tolees-21'
 descuento: '69.90'
 average: '30.08'

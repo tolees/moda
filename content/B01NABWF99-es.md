@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Columbia Ponderay Chaqueta  Mujer  Blanco  White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NABWF99/?tag=tolees-21'
 descuento: '44.50'
 average: '110.99'

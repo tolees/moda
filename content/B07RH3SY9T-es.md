@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Calvin Klein K60k606172 conjunto bufanda  gorro y guantes  Negro  Black Bds   Talla única  Talla del fabricante: OS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH3SY9T/?tag=tolees-21'
 descuento: '63.24'
 average: '21.69'

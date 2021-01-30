@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Aldric Cap  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VJSPF6/?tag=tolees-21'
 descuento: '39.17'
 average: '66.91'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Tech 2.0 SS Tee Novelty  camiseta para gimnasio  camiseta transpirable hombre  gris  Halo Gray/Black  014    S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9GRZ6F/?tag=tolees-21'
 descuento: '49.47'
 average: '15.16'

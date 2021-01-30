@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Rainforest Winter  Chaqueta para Hombre  Gris  Dark Grey Solid 198   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0735CJH3Z/?tag=tolees-21'
 descuento: '54.80'
 average: '95.2'

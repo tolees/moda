@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Helly Hansen W Seven J Jacket Chaqueta  Mujer  Rosa  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFRV38Y/?tag=tolees-21'
 descuento: '65.35'
 average: '38.11'

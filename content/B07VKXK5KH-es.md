@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'HKT by Hackett Hkt SS tee Camiseta  Rojo  2eylt Jack Red 2ey   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKXK5KH/?tag=tolees-21'
 descuento: '50.00'
 average: '14.5'

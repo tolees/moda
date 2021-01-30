@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Renan B  Zapatillas para Hombre  Marrón  Mud C6372   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG2D9GZ/?tag=tolees-21'
 descuento: '52.31'
 average: '47.64'

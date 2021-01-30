@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'United Colors of Benetton Layette BB B2 Camiseta de Manga Larga  Gris  Grigio Melange 501   68/74  Talla del Fabricante: 68  para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9Z3VP9/?tag=tolees-21'
 descuento: '74.89'
 average: '7.52'

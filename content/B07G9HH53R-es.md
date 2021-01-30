@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Joma Race Chaqueta y Chaleco Cabal  Hombre  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9HH53R/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'El Naturalista Nd54  Sandalias Para Mujer  Marrón  Wood   40 EU  7 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001MV6UI2/?tag=tolees-21'
 descuento: '69.24'
 average: '30.74'

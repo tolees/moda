@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Rider Vaqueros Slim  Azul  Light Sitka Jx   W28/L34  Talla del Fabricante: 28/34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ5PDSY/?tag=tolees-21'
 descuento: '83.36'
 average: '16.63'

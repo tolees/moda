@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Cosmo Step  Zapatos de Tacón para Mujer  Negro  Black Leather Black Leather   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DPNNDF4/?tag=tolees-21'
 descuento: '63.19'
 average: '40.49'

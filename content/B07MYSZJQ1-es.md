@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Zapatillas de Deporte Blanco para Las niñas  Harpia Zapatos de Moda única Baja Superior Correas de Estiramiento de Cuero Ocasional Deportes Zapatillas para Adolescentes Zapatos Planos  Blanco  33 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYSZJQ1/?tag=tolees-21'
 descuento: '73.11'
 average: '6.99'

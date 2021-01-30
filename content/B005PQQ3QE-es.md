@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Azul  Navy 410   52/53 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005PQQ3QE/?tag=tolees-21'
 descuento: '25.01'
 average: '28.3675'

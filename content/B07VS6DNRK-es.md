@@ -16,6 +16,7 @@ comparePrice: 75.48 EUR
 prodname: 'Tommy Hilfiger Lacie Shirt LS W2 Camisa  Naranja  Bitonal STP Bright Vermillion 0do   42 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS6DNRK/?tag=tolees-21'
 descuento: '72.89'
 average: '20.46'

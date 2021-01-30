@@ -16,6 +16,7 @@ comparePrice: 9.07 EUR
 prodname: 'HAWKERS · DREAM · Silver · Chrome · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRD5MQJ/?tag=tolees-21'
 descuento: '16.43'
 average: '9.088'

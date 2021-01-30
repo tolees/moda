@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Classic Twill L/s Shirt Camisa  Azul  Nórdica Blue Chambray W6h   46  Talla del Fabricante: 2XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1B6WXM/?tag=tolees-21'
 descuento: '69.62'
 average: '23.19'

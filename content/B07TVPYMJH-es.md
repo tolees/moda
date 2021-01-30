@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Kipling Arto S  Bolso bandolera para Mujer  Azul  Wave Blue   25x21x3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVPYMJH/?tag=tolees-21'
 descuento: '37.24'
 average: '37.03'

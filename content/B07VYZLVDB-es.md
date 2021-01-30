@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Marke Camiseta  Azul  Old Navy 584   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYZLVDB/?tag=tolees-21'
 descuento: '41.51'
 average: '17.49'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Columbia Glacial IV Jersey Polar con Media Cremallera para Mujer  Color: Rojo  Beet/Daredevil   Talla: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2V39MF/?tag=tolees-21'
 descuento: '43.35'
 average: '17.625'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Only Onlmay S/s Dress Noos Vestido  Multicolor  Night Sky AOP:Dot CL. Dancer   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMDMZ2X/?tag=tolees-21'
 descuento: '26.94'
 average: '9.49'

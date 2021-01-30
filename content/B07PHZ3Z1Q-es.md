@@ -16,6 +16,7 @@ comparePrice: 107.44 EUR
 prodname: 'Geox U Garret B  Botas Clasicas para Hombre  Marrón  Mud/Bordeaux C6446   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHZ3Z1Q/?tag=tolees-21'
 descuento: '37.17'
 average: '67.5'

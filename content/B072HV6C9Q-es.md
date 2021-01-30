@@ -16,6 +16,7 @@ comparePrice: 37.5 EUR
 prodname: 'find. Sudadera Manga Fruncida para Mujer   Rosa  Soft Peach   42  Talla del Fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072HV6C9Q/?tag=tolees-21'
 descuento: '68.00'
 average: '12'

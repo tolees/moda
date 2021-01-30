@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Coat Exotic Classic Abrigo  Azul  Denim Medium Wash 5053   40  Talla del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N44F3JP/?tag=tolees-21'
 descuento: '54.43'
 average: '45.55'

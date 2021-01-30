@@ -16,6 +16,7 @@ comparePrice: 22.5 EUR
 prodname: 'MAKAYA Calavera con Casco - Camiseta Motocross - Hombre Negra L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015ZOGZ2C/?tag=tolees-21'
 descuento: '24.89'
 average: '16.9'

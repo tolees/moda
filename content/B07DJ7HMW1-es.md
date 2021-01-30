@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox D Bibbiana a  Zapatos de Tacón para Mujer  Beige  Cream C5002   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ7HMW1/?tag=tolees-21'
 descuento: '47.61'
 average: '62.82'

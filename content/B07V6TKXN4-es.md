@@ -16,6 +16,7 @@ comparePrice: 44.0 EUR
 prodname: 'Tommy Hilfiger Basic Opened Toe High Wedge  Sandalias con Punta Abierta para Mujer  Negro  Black Bds   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6TKXN4/?tag=tolees-21'
 descuento: '16.91'
 average: '36.56'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Calvin Klein Bikini Culotte  Negro  Black 001   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFTPHWM/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

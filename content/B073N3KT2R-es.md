@@ -16,6 +16,7 @@ comparePrice: 224.7 EUR
 prodname: 'Timberland 6-Inch Waterproof Boot 73540 Wheat Nubuk  Schuhe Unisex:41.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073N3KT2R/?tag=tolees-21'
 descuento: '50.00'
 average: '112.35'

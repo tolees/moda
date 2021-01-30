@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Wrangler LS 1pkt Bdown Shirt Camisa  Azul  Blue Depth Xjy   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8LPL3C/?tag=tolees-21'
 descuento: '50.04'
 average: '29.95'

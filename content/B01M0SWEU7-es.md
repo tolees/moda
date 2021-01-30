@@ -16,6 +16,7 @@ comparePrice: 113.99 EUR
 prodname: 'Antony Morato - Abrigo - para Hombre Verde XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0SWEU7/?tag=tolees-21'
 descuento: '48.24'
 average: '59'

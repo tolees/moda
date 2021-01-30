@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Jack & Jones Sense Trunks 3-Pack Bóxer  Negro  Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WWPEJV2/?tag=tolees-21'
 descuento: '43.93'
 average: '17.119230769230768'

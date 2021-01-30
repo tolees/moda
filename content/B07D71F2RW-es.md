@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Type 3 Sherpa Trucker Chaqueta  Beige  True Chino Cord Better 0066   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D71F2RW/?tag=tolees-21'
 descuento: '36.32'
 average: '82.67999999999999'

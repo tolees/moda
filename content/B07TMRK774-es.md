@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Tynamo Tie  Zapatos de Cordones Brogue para Hombre  Negro  Black Leather Black Leather   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMRK774/?tag=tolees-21'
 descuento: '24.92'
 average: '69.35'

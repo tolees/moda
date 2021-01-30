@@ -16,6 +16,7 @@ comparePrice: 16.58 EUR
 prodname: 'Pepe Jeans Original Basic S/S PM503835 Camiseta  Negro  Black 999   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTL9RSY/?tag=tolees-21'
 descuento: '27.68'
 average: '12.15'

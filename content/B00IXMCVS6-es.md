@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Joma Nobel Pantalón de equipación  Azul royal  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IXMCVS6/?tag=tolees-21'
 descuento: '25.28'
 average: '5.943333333333333'

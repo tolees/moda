@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'GANT Footwear Bari  Zapatos de Cordones Brogue para Hombre  Azul  Marine G69   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRDRDYZ/?tag=tolees-21'
 descuento: '40.02'
 average: '71.95'

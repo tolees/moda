@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Kappa Farvel Tex Kids  Botines para Niñas  Navy/Mint 6737  28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBLVV3C/?tag=tolees-21'
 descuento: '70.56'
 average: '11.76'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks - Botines de Cuero Hombre  Color Marrón  Talla 45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLSRTMR/?tag=tolees-21'
 descuento: '56.48'
 average: '39.15'

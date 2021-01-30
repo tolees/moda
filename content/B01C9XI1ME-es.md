@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Joopin Gafas de Sol Mujer Polarizadas de Moda Protección UV400 de Gran Tamaño Gafas de Sol Señoras U9045  Vino tinto '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C9XI1ME/?tag=tolees-21'
 descuento: '62.72'
 average: '21.99'

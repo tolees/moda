@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Havaianas Slim Logo  Chanclas para Niñas  Azul  Blue   29/30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F14NXMT/?tag=tolees-21'
 descuento: '34.92'
 average: '14.774999999999999'

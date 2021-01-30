@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Disney Camiseta de Manga Corta para niñas Vampirina Negro 2-3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S755HLY/?tag=tolees-21'
 descuento: '25.10'
 average: '8.95'

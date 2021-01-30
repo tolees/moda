@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 501 Crop Vaqueros Boyfriend  Azul  Montgomery Baked 0074   26W / 28L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF5BDHJ/?tag=tolees-21'
 descuento: '50.01'
 average: '63.489999999999995'

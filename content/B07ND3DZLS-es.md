@@ -16,6 +16,7 @@ comparePrice: 6.48 EUR
 prodname: 'Billabong Sunlight  Zapatos de Playa y Piscina para Mujer  Rosa  Rosa 3953   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND3DZLS/?tag=tolees-21'
 descuento: '15.74'
 average: '6.25'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Classic Trunk Triple Pack Bóxer  Blanco  White Multipack J6k   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3Q6VVV/?tag=tolees-21'
 descuento: '66.02'
 average: '11.89'

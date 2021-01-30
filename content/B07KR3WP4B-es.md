@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour UA Streaker 2.0 Half Zip Sudadera  Hombre  Negro  Black/Reflective 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR3WP4B/?tag=tolees-21'
 descuento: '38.85'
 average: '33.63'

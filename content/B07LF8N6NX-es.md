@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'Levi s SS Color Block tee Camiseta  Multicolor  Jersey Colorblock Dress Blue/White/Red + White Print 0000   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8N6NX/?tag=tolees-21'
 descuento: '61.29'
 average: '13.55'

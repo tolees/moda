@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bluelucon lenceria mujer 1pc El PañO De AlgodóN Estampado A La Moda para Hombres Y Mujeres Adultos Se Puede Lavar Y Reutilizar  A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08K37CGKC/?tag=tolees-21'
 descuento: '76.98'
 average: '2.29'

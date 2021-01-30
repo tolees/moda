@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Kappa Fredo Pantalón Corto  Hombre  Blanco  YXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY70XK3/?tag=tolees-21'
 descuento: '47.56'
 average: '8.39'

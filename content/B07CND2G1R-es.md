@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'SKYSPER Ciclismo Maillot Hombres Jersey + Pantalones Cortos Culote Mangas Cortas de Ciclismo Conjunto de Ropa Maillot Transpirable para Deportes al Aire Libre Ciclo Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CND2G1R/?tag=tolees-21'
 descuento: '32.15'
 average: '37.99'

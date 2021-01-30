@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ogeenier Pantalones de Yoga de Mujer Pantalón de Pilates de Cintura Alta Yoga Gimnasio Running Training'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5LCFVZ/?tag=tolees-21'
 descuento: '23.34'
 average: '21.49'

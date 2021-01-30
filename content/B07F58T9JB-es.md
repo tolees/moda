@@ -16,6 +16,7 @@ comparePrice: 19.78 EUR
 prodname: 'Bolso De Compras de Bebé Cochecito Piezas de Automóvil Cortacésped Jardín Decor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F58T9JB/?tag=tolees-21'
 descuento: '44.44'
 average: '10.99'

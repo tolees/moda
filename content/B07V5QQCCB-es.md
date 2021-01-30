@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Tommy Hilfiger Hilfiger Badge Beach Sandal  Sandalias con Punta Abierta para Hombre  Azul  Desert Sky Dw5   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5QQCCB/?tag=tolees-21'
 descuento: '25.04'
 average: '20.95'

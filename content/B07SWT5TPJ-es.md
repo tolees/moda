@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox J Rebecca Girl B  Zapatillas para Niñas  Blanco  White/Navy C0899   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWT5TPJ/?tag=tolees-21'
 descuento: '20.00'
 average: '39.92'

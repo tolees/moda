@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'Elli Pendientes básicos de moda forma circular en plara de ley 925'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D4T5XVY/?tag=tolees-21'
 descuento: '44.24'
 average: '15.0'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'YACUN Vestido Lactancia Maternidad de Noche Camisón Verano Premamá Pijama Marina S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYJ95Y8/?tag=tolees-21'
 descuento: '72.03'
 average: '6.99'

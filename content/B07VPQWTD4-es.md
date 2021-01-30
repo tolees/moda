@@ -16,6 +16,7 @@ comparePrice: 38.19 EUR
 prodname: 'Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Azul  Blue Quartz   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPQWTD4/?tag=tolees-21'
 descuento: '35.40'
 average: '24.67'

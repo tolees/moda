@@ -16,6 +16,7 @@ comparePrice: 69 EUR
 prodname: 'Levi s Sunset 1 Pocket Shirt Camisa  Multicolor  Rushmeyer Indigo 0425   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFDST58/?tag=tolees-21'
 descuento: '30.00'
 average: '48.3'

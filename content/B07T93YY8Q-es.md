@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta  Rojo Chinese Red  40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T93YY8Q/?tag=tolees-21'
 descuento: '40.01'
 average: '21.84'

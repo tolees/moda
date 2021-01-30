@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Marca Amazon - find. Sudadera de Rayas Verticales con Cuello Redondo Hombre  Azul  Navy   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FW6T9N/?tag=tolees-21'
 descuento: '50.00'
 average: '14.109000000000002'

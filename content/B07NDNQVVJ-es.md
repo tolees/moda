@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'G-STAR RAW Varve Wool Abrigo  Negro  Dk Black 6484   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNQVVJ/?tag=tolees-21'
 descuento: '88.09'
 average: '35.72'

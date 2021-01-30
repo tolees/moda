@@ -16,6 +16,7 @@ comparePrice: 25.27 EUR
 prodname: 'Dockers Laundered Poplin Shirt Camisa  Azul  Prater Light Blue 0091   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND6JBH7/?tag=tolees-21'
 descuento: '53.30'
 average: '11.8'

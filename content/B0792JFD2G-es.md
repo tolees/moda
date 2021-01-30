@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox J RIDDOCK Boy WPF A  Botas Chukka para Niños  Amarillo  Dk Yellow C2006   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792JFD2G/?tag=tolees-21'
 descuento: '54.99'
 average: '35.96'

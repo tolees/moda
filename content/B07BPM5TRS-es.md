@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Camper Lotta  Botines para Mujer  Schwarz  Black 1   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPM5TRS/?tag=tolees-21'
 descuento: '52.68'
 average: '51.58'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Lee Scarlett Cropped Vaqueros Skinny  Gris  Concrete Grey Cm   28W / 35L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTL5V7Q/?tag=tolees-21'
 descuento: '71.37'
 average: '22.89'

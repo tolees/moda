@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'MERAKI Sudadera con Capucha y Cremallera Mujer  Gris  Grey   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075S4GPQN/?tag=tolees-21'
 descuento: '46.07'
 average: '16.18'

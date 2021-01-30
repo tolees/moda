@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Napapijri Skidoo 2 Chaqueta  Orange  Orangeade A21   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M83VZHQ/?tag=tolees-21'
 descuento: '67.82'
 average: '144.49'

@@ -16,6 +16,7 @@ comparePrice: 40.55 EUR
 prodname: 'New Look Aw19 Piper Abrigo  Beige  Oatmeal 14   40  Talla del Fabricante: 12  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSNT5W8/?tag=tolees-21'
 descuento: '53.14'
 average: '19.0'

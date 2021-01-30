@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'MERAKI Vaqueros Skinny Hombre  Azul  Light Blue   W30/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QGNKV4/?tag=tolees-21'
 descuento: '30.00'
 average: '17.5'

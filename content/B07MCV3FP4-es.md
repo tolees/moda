@@ -16,6 +16,7 @@ comparePrice: 10.14 EUR
 prodname: 'Marca Amazon - MERAKI Shorts de Natación Hombre  Negro  Geo Print .  L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCV3FP4/?tag=tolees-21'
 descuento: '56.61'
 average: '4.4'

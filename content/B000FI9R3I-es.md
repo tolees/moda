@@ -16,6 +16,7 @@ comparePrice: 6.44 EUR
 prodname: 'Pierre Cardin P.C. 8443/S IR 807 Gafas de Sol  Mujer  Negro  Black/Grey Blue   54'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000FI9R3I/?tag=tolees-21'
 descuento: '21.74'
 average: '5.04'

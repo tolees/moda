@@ -16,6 +16,7 @@ comparePrice: 165 EUR
 prodname: 'Calvin Klein Jeans Sonnenbrille Ckj510S 0 Gafas de sol  Blanco  Weiß   52.0 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MR16RF9/?tag=tolees-21'
 descuento: '84.81'
 average: '30.130000000000003'

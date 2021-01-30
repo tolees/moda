@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Geox U Nebula A  Zapatillas para Hombre  Negro  Black C9999   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OB8MWJE/?tag=tolees-21'
 descuento: '43.60'
 average: '79.94999999999999'

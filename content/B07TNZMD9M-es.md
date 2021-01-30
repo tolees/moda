@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Hero Walk  Zapatos de Cordones Derby  Blanco  White Leather White Leather   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNZMD9M/?tag=tolees-21'
 descuento: '54.85'
 average: '43.57'

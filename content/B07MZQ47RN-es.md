@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Pepe Jeans Richardson Chaqueta  Negro  Black 999   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ47RN/?tag=tolees-21'
 descuento: '45.00'
 average: '56.375'

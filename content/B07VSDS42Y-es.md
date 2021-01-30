@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES NOS Jjewashington Shirt L/s STS Camisa  Rojo  Port Royalerot   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSDS42Y/?tag=tolees-21'
 descuento: '65.97'
 average: '13.61'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Rosa  Pearl Pink-Wild Orchid   43-44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W0E6KTE/?tag=tolees-21'
 descuento: '44.43'
 average: '25.0'

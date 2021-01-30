@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Lil Yachty Vestido Asimetrico Mujer Mangas Largas Camisa Irregular Tunica con Capucha Sudadera Pullover Hip Hop Hoodie Dress Caftan Blusa Camisetas Otoño Invierno Jumper Top A19074LY032M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086W1ZRVH/?tag=tolees-21'
 descuento: '76.02'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Nastia Sudadera   Verdant 683   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQJSGJ/?tag=tolees-21'
 descuento: '49.33'
 average: '35.5925'

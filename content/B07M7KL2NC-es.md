@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pikolinos Cadaques W8k_v19  Sandalias de Punta Descubierta para Mujer  Marfil Nata  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7KL2NC/?tag=tolees-21'
 descuento: '47.43'
 average: '47.95'

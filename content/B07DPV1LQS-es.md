@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Urban Classics Ladies Sherpa Hooded Jacket Chaqueta  Multicolor Olive/Dark Sand 01480  Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DPV1LQS/?tag=tolees-21'
 descuento: '53.69'
 average: '37.0'

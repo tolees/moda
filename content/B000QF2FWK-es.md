@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Birkenstock Madrid Birko-Flor - Sandalias de pala unisex  color marrón  talla 35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QF2FWK/?tag=tolees-21'
 descuento: '34.28'
 average: '42.72'

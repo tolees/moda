@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Superdry Rookie Down Parka Chaqueta  Verde  Khaki 03o   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4J7ZJ7/?tag=tolees-21'
 descuento: '50.80'
 average: '122.99'

@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Vaqueros  Ultra Dk Aged 8968-9112  24W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8WTJ8V/?tag=tolees-21'
 descuento: '44.63'
 average: '71.95'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling Art  Bolso de Mano para Mujer  Negro  Black Indigo   44x27x20 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJ7Z3T/?tag=tolees-21'
 descuento: '44.22'
 average: '52.99'

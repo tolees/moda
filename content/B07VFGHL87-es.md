@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Esprit 099eo1g039 Abrigo  Beige  Dusty Nude 5 279   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFGHL87/?tag=tolees-21'
 descuento: '71.22'
 average: '43.17'

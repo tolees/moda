@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Lacoste Crew Neck  Sudadera para Hombre  azul  Marine   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UG4EMUE/?tag=tolees-21'
 descuento: '25.94'
 average: '66.62666666666667'

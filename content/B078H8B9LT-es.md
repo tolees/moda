@@ -16,6 +16,7 @@ comparePrice: 5.36 EUR
 prodname: 'find. Camiseta de Rayas Hombre  Azul  Navy Base And Grey Marl   54  Talla del fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078H8B9LT/?tag=tolees-21'
 descuento: '49.63'
 average: '3.6'

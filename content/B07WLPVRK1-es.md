@@ -16,6 +16,7 @@ comparePrice: 41.62 EUR
 prodname: 'Tommy Hilfiger Classic Parte de Arriba de Bikini  Azul  Pitch Blue 654-870   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLPVRK1/?tag=tolees-21'
 descuento: '35.15'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 64.48 EUR
 prodname: 'Cofra 40-JV028000-39 - Calzado de Seguridad Nuevo Santo zapatos marrones S3 Src trabajo Flying Jv028-000 Deportes  talla 39  color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OB4VPL4/?tag=tolees-21'
 descuento: '74.46'
 average: '16.47'

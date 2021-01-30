@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'adidas Core18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HR38KY/?tag=tolees-21'
 descuento: '25.81'
 average: '14.370000000000001'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Meizas Conjuntos de Bikinis para Mujer Push Up Bikini Traje de baño de Tanga de Cintura Baja Trajes de baño Adecuado Viajes Playa La Natacion  L  Gris + Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVH3XCR/?tag=tolees-21'
 descuento: '28.52'
 average: '10.11'

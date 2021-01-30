@@ -16,6 +16,7 @@ comparePrice: 25.2 EUR
 prodname: 'Veet Sensitive Precision - Recortador Eléctrico Depilador Mujer Zonas Sensibles  Bikini  Facial y Axilas  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGM9J5W/?tag=tolees-21'
 descuento: '15.83'
 average: '16.711111111111112'

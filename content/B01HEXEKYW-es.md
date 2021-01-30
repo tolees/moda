@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Crocband Clog K  Zuecos Unisex-Bambini  BLU  Navy/Citrus 42k   19/20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HEXEKYW/?tag=tolees-21'
 descuento: '59.96'
 average: '16.006666666666668'

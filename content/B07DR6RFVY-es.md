@@ -16,6 +16,7 @@ comparePrice: 32.35 EUR
 prodname: 'Teva Hurricane Drift  Sandalias de Punta Descubierta para Mujer  Negro  Black Blk   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DR6RFVY/?tag=tolees-21'
 descuento: '16.94'
 average: '26.87'

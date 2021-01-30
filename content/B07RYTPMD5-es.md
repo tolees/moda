@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'BOSS Delaware BC-l-c Vaqueros Slim  Azul  Dark Blue 407   W34/L34  Talla del Fabricante: 3434  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYTPMD5/?tag=tolees-21'
 descuento: '81.78'
 average: '30.97'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Graphic Camiseta  Blanco  84 Sportswear Logo White 0000   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WJSFLH/?tag=tolees-21'
 descuento: '20.04'
 average: '19.99'

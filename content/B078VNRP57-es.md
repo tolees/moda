@@ -16,6 +16,7 @@ comparePrice: 25.5 EUR
 prodname: 'B BIDEN BLDEN Mujer Grande Gafas De Sol moda polarizadas gafas UV400 Protección Para Conducción GL3113-BLACK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078VNRP57/?tag=tolees-21'
 descuento: '45.14'
 average: '13.99'

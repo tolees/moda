@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Kipling NEW ELDORADO Bolso bandolera  20 cm  1 liters  Negro  Black Noir '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4MCX1S/?tag=tolees-21'
 descuento: '33.18'
 average: '32.74'

@@ -16,6 +16,7 @@ comparePrice: 43.33 EUR
 prodname: 'H&E - Abrigo de plumón con capucha para niñas  Niños  color Azul púrpura.  tamaño 150 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQWDJGT/?tag=tolees-21'
 descuento: '52.57'
 average: '20.55'

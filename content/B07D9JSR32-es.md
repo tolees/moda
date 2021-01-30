@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Pant Pantalones de pijama  Gris  Grey Heather 004   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9JSR32/?tag=tolees-21'
 descuento: '36.58'
 average: '37.99'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Polaroid PLD 6056/S Gafas de Sol  Multicolor  Blk Ruth   55 Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH7VW2H/?tag=tolees-21'
 descuento: '58.83'
 average: '24.7'

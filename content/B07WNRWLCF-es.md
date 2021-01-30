@@ -16,6 +16,7 @@ comparePrice: 39.78 EUR
 prodname: 'Skechers Sargo Reyon  Chanclas para Hombre  Marrón  Chocolate Canvas Chocolate   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNRWLCF/?tag=tolees-21'
 descuento: '30.49'
 average: '27.65'

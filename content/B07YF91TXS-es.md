@@ -16,6 +16,7 @@ comparePrice: 16.04 EUR
 prodname: 'Marca Amazon - find. Chaqueta Larga Mujer  Gris  Silver Grey Marl   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YF91TXS/?tag=tolees-21'
 descuento: '17.64'
 average: '13.21'

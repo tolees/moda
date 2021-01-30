@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'Calvin Klein Modern tee Camiseta  Negro  Black/White Lg 930   140 centimeters  Talla del fabricante: 8-10  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GILT6IG/?tag=tolees-21'
 descuento: '17.54'
 average: '23.83'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'GANT The Broadcloth Reg BD Camiseta Deporte  Blanco  White   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VNJ7WY/?tag=tolees-21'
 descuento: '44.14'
 average: '53.4675'

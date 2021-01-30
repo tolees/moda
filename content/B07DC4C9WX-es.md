@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas 3-Stripes tee Camiseta  Hombre  Azul  azucie   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC4C9WX/?tag=tolees-21'
 descuento: '33.56'
 average: '21.566666666666666'

@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Morgan 192-jzip.p Falda  Marrón  Cerise Cerise   38  Talla del Fabricante: T38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7P8H3G/?tag=tolees-21'
 descuento: '50.00'
 average: '27.5'

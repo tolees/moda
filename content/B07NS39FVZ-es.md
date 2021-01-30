@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Camisetas Mujer SHOBDW Dia de la Mujer Verano Patchwork De Encaje Casual Ahuecar Volantes Manga Corta Suéter De Cuello De Tortuga Linda Blusa Floral Camiseta Blanca para Mujer Blanco S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NS39FVZ/?tag=tolees-21'
 descuento: '50.05'
 average: '7.192499999999999'

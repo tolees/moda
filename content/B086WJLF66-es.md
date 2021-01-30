@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Sandalias Mujer Planas Zapatillas Verano Chanclas con Hebilla Mules Zapatos Soporte del Arco Comodas Negro Talla 37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WJLF66/?tag=tolees-21'
 descuento: '15.01'
 average: '20.39'

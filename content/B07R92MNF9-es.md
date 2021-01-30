@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Pike Lake Chaqueta  Mujer  Verde  Olive Green   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R92MNF9/?tag=tolees-21'
 descuento: '70.04'
 average: '38.95'

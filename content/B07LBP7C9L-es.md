@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen Daybreaker Chaqueta Forro Polar con Capucha  Unisex Adulto  Black  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBP7C9L/?tag=tolees-21'
 descuento: '32.16'
 average: '34.550000000000004'

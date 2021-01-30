@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Linvale Sea  Zapatos con Tira de Tobillo para Mujer  Estampado de Leopardo Multicolor  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JNRTY/?tag=tolees-21'
 descuento: '45.42'
 average: '38.18'

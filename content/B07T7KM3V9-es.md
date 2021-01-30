@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee 5 Pocket Wide Leg  Vaqueros straight Mujer  Negro  Subtle Stone Ad   W31/L31  Talla fabricante: W31/L31 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7KM3V9/?tag=tolees-21'
 descuento: '50.03'
 average: '46.45'

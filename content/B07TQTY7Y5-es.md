@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Collective Track Top Sudadera  Negro  Black 02a   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQTY7Y5/?tag=tolees-21'
 descuento: '72.70'
 average: '21.84'

@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Women s Secret British Multilicense MB PE Rain PJ Conjuntos de Pijama  Verde  Gama Verdes 27   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVTXXK8/?tag=tolees-21'
 descuento: '37.07'
 average: '20.76'

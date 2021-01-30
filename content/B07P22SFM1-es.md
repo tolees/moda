@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Dickies Gapville Chaqueta  Negro  XX-Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P22SFM1/?tag=tolees-21'
 descuento: '81.23'
 average: '27.21'

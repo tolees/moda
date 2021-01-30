@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Stonewash 2923  31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079WQMWY5/?tag=tolees-21'
 descuento: '34.44'
 average: '59.0'

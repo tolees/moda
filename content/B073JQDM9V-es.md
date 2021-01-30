@@ -16,6 +16,7 @@ comparePrice: 24.44 EUR
 prodname: 'Marca Amazon - find. Cazadora Acolchada Hombre  Azul  Navy   XXL  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JQDM9V/?tag=tolees-21'
 descuento: '46.15'
 average: '20.472'

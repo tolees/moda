@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Springfield 3Ba Basica Capucha Abierta Sudadera  Rojo  Red 67   X-Large  Tamaño del Fabricante: XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQL7SLR/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

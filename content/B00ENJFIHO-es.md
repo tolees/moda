@@ -16,6 +16,7 @@ comparePrice: 7.29 EUR
 prodname: 'Nueva OU falda plisada para niñas con cintura elástica de uniforme escolar tallas de 2 a 17 años.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ENJFIHO/?tag=tolees-21'
 descuento: '75.58'
 average: '1.78'

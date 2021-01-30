@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Marvel More Than A Fan Mujer Camiseta Negro S  100% algodón  Regular'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCNQBR7/?tag=tolees-21'
 descuento: '20.01'
 average: '19.19'

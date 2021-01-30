@@ -16,6 +16,7 @@ comparePrice: 14.36 EUR
 prodname: 'Camiseta de manga corta con cuello en V para mujer  varios colores S-3X -  Azul -  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PGSWBR6/?tag=tolees-21'
 descuento: '72.21'
 average: '3.99'

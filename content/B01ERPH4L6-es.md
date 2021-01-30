@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Joma SHT.S0M01 - Falda de tenis para mujer  color Coral  talla Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERPH4L6/?tag=tolees-21'
 descuento: '42.90'
 average: '11.219999999999999'

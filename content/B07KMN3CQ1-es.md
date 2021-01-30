@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'adidas Essentials Chelsea 7 Inch 3 Bandas Pantalón Corto  Hombre  Negro  Black/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMN3CQ1/?tag=tolees-21'
 descuento: '32.15'
 average: '18.99'

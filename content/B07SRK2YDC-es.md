@@ -16,6 +16,7 @@ comparePrice: 40.5 EUR
 prodname: 'Geox U Snake.2 A  Zapatillas para Hombre  Beige  Beige/Taupe C5300   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRK2YDC/?tag=tolees-21'
 descuento: '19.14'
 average: '38.78'

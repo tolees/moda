@@ -16,6 +16,7 @@ comparePrice: 63.68 EUR
 prodname: 'Tous Billetera M. Carlata Plata-Rosa  Monedero para Mujer  Plateado  19.5x11x2 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBYCKFH/?tag=tolees-21'
 descuento: '28.94'
 average: '46.625'

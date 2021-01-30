@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'Levi s 311 Shaping Skinny Vaqueros  Paris Fade  29W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4SQL3/?tag=tolees-21'
 descuento: '34.00'
 average: '59.4'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Lacoste TH7618  Camiseta para Hombre  Azul  Marine   X-Small  Talla del fabricante: 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UNA3Z36/?tag=tolees-21'
 descuento: '30.14'
 average: '25.325'

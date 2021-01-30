@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Napapijri TERRES Sudadera  Gris  Dark Grey Solid 198   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK1QL8D/?tag=tolees-21'
 descuento: '50.00'
 average: '64.5'

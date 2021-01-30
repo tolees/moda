@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox Uomo Sandal Strada B  Sandalias Punta Cerrada para Hombre  Marrón  Brown C0013   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3SC9F2/?tag=tolees-21'
 descuento: '39.99'
 average: '47.95'

@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Kappa Krus  Chanclas Unisex Adulto  Rojo  Red/White 2010   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDTQVZ5/?tag=tolees-21'
 descuento: '80.72'
 average: '10.99'

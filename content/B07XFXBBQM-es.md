@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA ESS Hoody FL Big Logo Sudadera  Hombre  Dark Gray Heather  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFXBBQM/?tag=tolees-21'
 descuento: '41.20'
 average: '25.19'

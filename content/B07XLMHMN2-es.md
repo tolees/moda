@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Jack & Jones Jjiglenn Jjoriginal JOS 800 I.K Vaqueros Slim  Negro  Black Denim Black Denim   31W x 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLMHMN2/?tag=tolees-21'
 descuento: '70.00'
 average: '24.0'

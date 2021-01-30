@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Kipling SILEN  Bolso bandolera para Mujer  Negro  True Black   24x18x11 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0764MPWZT/?tag=tolees-21'
 descuento: '53.19'
 average: '39.385'

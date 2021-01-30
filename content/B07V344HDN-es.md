@@ -16,6 +16,7 @@ comparePrice: 70.15 EUR
 prodname: 'Chi Chi London Dollie Vestido de Fiesta  Azul  Navy NB   44  Talla del Fabricante: 16  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V344HDN/?tag=tolees-21'
 descuento: '77.01'
 average: '16.13'

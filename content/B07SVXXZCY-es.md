@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Taormina F  Sandalias con Punta Abierta para Mujer  Negro  Black C9999   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVXXZCY/?tag=tolees-21'
 descuento: '72.82'
 average: '29.455'

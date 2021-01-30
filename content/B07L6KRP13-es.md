@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Under Armour Armour Insulated Chaqueta  Hombre  Verde  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6KRP13/?tag=tolees-21'
 descuento: '39.74'
 average: '65.65'

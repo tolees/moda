@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Basic Hilfiger Sweatshirt Sudadera  Azul  Blue Dw5   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKPPX6D/?tag=tolees-21'
 descuento: '45.46'
 average: '54.49'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Straight Vaqueros para Mujer  Azul  Best Blue 94O   30W / 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MA5RXQW/?tag=tolees-21'
 descuento: '50.03'
 average: '44.95'

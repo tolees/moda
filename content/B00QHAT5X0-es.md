@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Rojo  Red/Steel 600   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QHAT5X0/?tag=tolees-21'
 descuento: '44.18'
 average: '30.263333333333335'

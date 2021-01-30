@@ -16,6 +16,7 @@ comparePrice: 16 EUR
 prodname: 'AURIQUE Mallas Largas de Deporte para Mujer   Azul  Cobalt Blue   44  Talla del Fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MT5W3YH/?tag=tolees-21'
 descuento: '30.00'
 average: '11.2'

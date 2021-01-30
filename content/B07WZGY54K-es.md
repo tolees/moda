@@ -16,6 +16,7 @@ comparePrice: 84.39 EUR
 prodname: 'Pepe Jeans Hatch Vaqueros Hombre Ajustados  Azul  000denim 000   W29/L34  Talla del Fabricante: 29 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZGY54K/?tag=tolees-21'
 descuento: '23.69'
 average: '64.4'

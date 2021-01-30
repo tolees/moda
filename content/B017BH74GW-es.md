@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Bezzee-Pro Gafas de Natación para Adultos - Lentes Espejo - Hermético - Ajustable - Gafas de Natación para Adultos con Visión De 180 Grados - Lo Mejor para Hombres  Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017BH74GW/?tag=tolees-21'
 descuento: '25.03'
 average: '5.99'

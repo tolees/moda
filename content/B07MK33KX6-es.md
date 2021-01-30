@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Marca Amazon - find. Pantalón Ancho Mujer  Negro  Black   28W / 34L  Label: 28W / 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK33KX6/?tag=tolees-21'
 descuento: '16.71'
 average: '7.08'

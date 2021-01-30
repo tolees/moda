@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Classic Camiseta  Multicolor  Ash Heather/Heliotrope Yky   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCGF57F/?tag=tolees-21'
 descuento: '25.17'
 average: '22.45'

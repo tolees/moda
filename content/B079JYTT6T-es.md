@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Nike Dry Academy 18 Football Top  Camiseta Hombre  Azul  Royal Blue/Obsidian/White   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JYTT6T/?tag=tolees-21'
 descuento: '22.50'
 average: '17.266666666666666'

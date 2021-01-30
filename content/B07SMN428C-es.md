@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Kansoom Guantes de Ciclismo Motocicleta Bicicleta Montaña-Acolchados Bicicleta de Hombres Mujeres Antideslizante Pantalla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMN428C/?tag=tolees-21'
 descuento: '38.55'
 average: '12.123333333333333'

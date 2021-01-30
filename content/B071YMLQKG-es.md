@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Boland 04241 Diadema Nilo Reina Disfraz de Vestido - Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YMLQKG/?tag=tolees-21'
 descuento: '24.55'
 average: '7.47'

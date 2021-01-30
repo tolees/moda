@@ -16,6 +16,7 @@ comparePrice: 7.18 EUR
 prodname: 'Maglev Essentials Damen T-Shirt Mit V-Ausschnitt  5er-Pack Camiseta  Negro Schwarz   40  Talla del fabricante: Medium   5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVV33W4/?tag=tolees-21'
 descuento: '19.64'
 average: '6.1'

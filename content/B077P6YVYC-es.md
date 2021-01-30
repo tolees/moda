@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Elly Vaqueros  Azul  One Wash Ha45   27W / 35L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077P6YVYC/?tag=tolees-21'
 descuento: '75.26'
 average: '22.25'

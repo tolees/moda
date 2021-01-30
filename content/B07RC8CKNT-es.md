@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Cascade Ridge Chaqueta Softshell  Mujer  Olive Green Heather  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8CKNT/?tag=tolees-21'
 descuento: '61.15'
 average: '38.85'

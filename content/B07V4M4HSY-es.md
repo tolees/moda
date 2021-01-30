@@ -16,6 +16,7 @@ comparePrice: 216.0 EUR
 prodname: 'Love Moschino Jc4200pp0a  Bolso tipo tote para Mujer  Rosa  Powder   40x20x12 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4M4HSY/?tag=tolees-21'
 descuento: '66.06'
 average: '73.3'

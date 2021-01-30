@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'RED WAGON Vestido Sudadera con Mensaje Niñas  Verde  Mint   5 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RM6GRP/?tag=tolees-21'
 descuento: '52.21'
 average: '10.51'

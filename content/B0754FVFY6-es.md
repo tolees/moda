@@ -16,6 +16,7 @@ comparePrice: 25.69 EUR
 prodname: 'Botas de Agua Bota de Goma Mujer Impermeable lluvia Zapatos Tobillo Casual Calzado  Negro 37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0754FVFY6/?tag=tolees-21'
 descuento: '44.30'
 average: '20.0'

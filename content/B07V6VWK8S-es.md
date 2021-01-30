@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Camiseta Deportiva de Tirantes para Hombre Sin Manga Slim Fit Cómodo Fitness Top Camisetas de Tirante Gimnasio Deporte Senderismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6VWK8S/?tag=tolees-21'
 descuento: '75.05'
 average: '3.99'

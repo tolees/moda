@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Graphic 15 Core Round Neck Sudadera  Azul  Mazarine Blue Htr 4348   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNSVDC/?tag=tolees-21'
 descuento: '83.55'
 average: '14.8'

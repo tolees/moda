@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Sibinulo Camisón de Maternidad Pijama Lactancia Vestido Polvo Rosa M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FGVXBJJ/?tag=tolees-21'
 descuento: '16.71'
 average: '19.99'

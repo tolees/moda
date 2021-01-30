@@ -16,6 +16,7 @@ comparePrice: 36.46 EUR
 prodname: 'ARENA Gafas de natación para triatlón unisex Cobra Tri Mirror  silver-black-black  one size gafas de natación  Unisex adulto  silver-black-black  one size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0742J6KTB/?tag=tolees-21'
 descuento: '19.99'
 average: '29.17'

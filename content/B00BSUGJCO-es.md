@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Uvex Sportstyle 211 Gafas de Ciclismo  Unisex Adulto  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BSUGJCO/?tag=tolees-21'
 descuento: '49.15'
 average: '14.924999999999999'

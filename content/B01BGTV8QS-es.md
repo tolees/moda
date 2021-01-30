@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Dk Aged 6553-89  36W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGTV8QS/?tag=tolees-21'
 descuento: '61.05'
 average: '38.93'

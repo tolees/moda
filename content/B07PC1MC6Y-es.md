@@ -16,6 +16,7 @@ comparePrice: 229.95 EUR
 prodname: 'Bose Frames - Gafas de sol con altavoces  Alto  M/L  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PC1MC6Y/?tag=tolees-21'
 descuento: '26.44'
 average: '180.2222222222222'

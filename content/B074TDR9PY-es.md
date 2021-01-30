@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'ZAPATO GEOX U741UA 020FU C61T7J MARRON 44 Marron'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074TDR9PY/?tag=tolees-21'
 descuento: '60.00'
 average: '59.96'

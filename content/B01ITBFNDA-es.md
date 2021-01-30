@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'SHINU Clasico Marco Redondo Espejo Gafas de sol de moda Gafas de sol populares Gafas de Sol del Estilo de la Fiesta de una Pieza de las Gafas de Sol-SH71002'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ITBFNDA/?tag=tolees-21'
 descuento: '58.38'
 average: '4.99'

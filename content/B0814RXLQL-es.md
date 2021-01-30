@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Men s UA GL Foundation Short Sleeve T-Shirt Camiseta Deportiva y Cómoda  Hombre  Gris  Steel Light Heather/Versa Blue/American Blue 036   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814RXLQL/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

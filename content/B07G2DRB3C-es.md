@@ -16,6 +16,7 @@ comparePrice: 12.86 EUR
 prodname: 'Marca Amazon - AURIQUE Printed - Chaqueta bomber Mujer  Negro  Black/Jester Red Print   42  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2DRB3C/?tag=tolees-21'
 descuento: '17.03'
 average: '10.67'

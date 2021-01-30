@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Only onlRAIN REG Skinny Jeans CRY6060 Noos Vaqueros  Negro  Black Denim   38 /L32  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BZYSRF/?tag=tolees-21'
 descuento: '30.01'
 average: '18.89'

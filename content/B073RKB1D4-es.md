@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Adilette Comfort  Zapatos de Playa y Piscina para Hombre  Negro  Core Black/Footwear White/Core Black 0   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RKB1D4/?tag=tolees-21'
 descuento: '28.50'
 average: '25.145'

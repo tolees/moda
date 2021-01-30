@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Wrangler Jacket Chaqueta Bomber  Negro  Black 100   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8B4TL8/?tag=tolees-21'
 descuento: '75.02'
 average: '37.46'

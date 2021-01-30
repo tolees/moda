@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Chaqueta Impermeable para Mujer  Largo Medio  Powder Lite Mid Jacket  Beige  Light Cloud   Talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072R2TR3M/?tag=tolees-21'
 descuento: '46.88'
 average: '79.68'

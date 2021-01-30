@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'NIKE Dri-FIT Miler Camiseta  Hombre  Rojo  University Red/University Red/Reflective Silv   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L7SLSKJ/?tag=tolees-21'
 descuento: '15.69'
 average: '20.3075'

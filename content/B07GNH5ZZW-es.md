@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Mujer Hombres Zapatos de Senderismo al Aire Libre Zapatos de Escalada Zapatillas de montaña Ideal para Deportes Caminar Caza atlético Grey 39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNH5ZZW/?tag=tolees-21'
 descuento: '39.67'
 average: '34.99'

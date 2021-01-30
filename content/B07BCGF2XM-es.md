@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Tobilleras mujer plata de ley dulce romántico círculos entrelazados para pantalones cortos vestido bikini 26 cm ajustable joyeria regalos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BCGF2XM/?tag=tolees-21'
 descuento: '29.67'
 average: '18.99'

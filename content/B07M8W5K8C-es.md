@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Wrangler Graphic Logo tee Camiseta  Negro  Black 100   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8W5K8C/?tag=tolees-21'
 descuento: '70.44'
 average: '10.33'

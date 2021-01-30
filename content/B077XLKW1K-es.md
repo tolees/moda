@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Tech Graphic Short Pantalón Corto  Hombre  Azul  Academy/Steel 409   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XLKW1K/?tag=tolees-21'
 descuento: '48.12'
 average: '14.772'

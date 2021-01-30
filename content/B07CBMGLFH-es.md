@@ -16,6 +16,7 @@ comparePrice: 34.11 EUR
 prodname: 'Showu Camisetas Niños Manga Larga Camisa Pantalones Set of Ropa 100% Algodón  Short Set/Excavadora  4-5 años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBMGLFH/?tag=tolees-21'
 descuento: '53.12'
 average: '15.99'

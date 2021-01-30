@@ -16,6 +16,7 @@ comparePrice: 7.59 EUR
 prodname: 'Marca Amazon - find. High Heel Point Court Zapatos de tacón con Punta Cerrada  Braun  Caramel  Nude   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNRHGZ7/?tag=tolees-21'
 descuento: '40.45'
 average: '6.885'

@@ -16,6 +16,7 @@ comparePrice: 22.05 EUR
 prodname: 'find. Pantalón de Traje Ajustado Hombre  Verde  Teal   W32/L31'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WM3N4T/?tag=tolees-21'
 descuento: '61.90'
 average: '8.4'

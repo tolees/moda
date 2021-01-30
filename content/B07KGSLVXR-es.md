@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'edc by Esprit 999cc2k803 Camiseta  Blanco  White 100   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGSLVXR/?tag=tolees-21'
 descuento: '35.04'
 average: '6.49'

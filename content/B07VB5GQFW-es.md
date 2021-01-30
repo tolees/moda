@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Jack & Jones Jorwillow Stand Collar Jacket Chaqueta  Azul  Navy Blazer Navy Blazer   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB5GQFW/?tag=tolees-21'
 descuento: '71.32'
 average: '24.665'

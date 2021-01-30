@@ -16,6 +16,7 @@ comparePrice: 45.51 EUR
 prodname: 'Primigi Sandalo Bambina  Sandalias con Punta Abierta para Niñas  Blanco  Bianco/Bianco 5386633   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLDFWFW/?tag=tolees-21'
 descuento: '37.77'
 average: '28.32'

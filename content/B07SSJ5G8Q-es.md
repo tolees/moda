@@ -16,6 +16,7 @@ comparePrice: 48.65 EUR
 prodname: 'Geox B Tutim B  Zapatillas para Bebés  Azul  Navy/Royal C4226   23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSJ5G8Q/?tag=tolees-21'
 descuento: '34.57'
 average: '31.83'

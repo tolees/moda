@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Snake.2 B  Zapatillas para Hombre  Negro  Black C9999   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPPJV6/?tag=tolees-21'
 descuento: '35.03'
 average: '77.9'

@@ -16,6 +16,7 @@ comparePrice: 27 EUR
 prodname: 'find. NEWSTW046 vaqueros mujer  Azul  Dark Vintage   W27/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075X2Q3BV/?tag=tolees-21'
 descuento: '60.00'
 average: '10.8'

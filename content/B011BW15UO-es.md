@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'The North Face Jkt Chaqueta Snow Quest  Unisex niños  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011BW15UO/?tag=tolees-21'
 descuento: '34.73'
 average: '65.27'

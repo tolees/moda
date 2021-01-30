@@ -16,6 +16,7 @@ comparePrice: 21.04 EUR
 prodname: 'YUNB Gafas de Seguridad de oscurecimiento LCD automático Gafas de Soldadura con energía Solar Cascos de Soldadura para Soldador Máscara con 2 Protectores de Pantalla de PC reemplazables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVK37TG/?tag=tolees-21'
 descuento: '39.21'
 average: '12.79'

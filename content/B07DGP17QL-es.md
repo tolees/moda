@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Timberland Davis Square Leather Chukka  Botas Unisex-Niños  Azul  Navy Nubuck   21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGP17QL/?tag=tolees-21'
 descuento: '69.45'
 average: '22.91'

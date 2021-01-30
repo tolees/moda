@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Mercedes-Benz Sonnenbrille M1042 Gafas de sol  Azul  Blau   65.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XZWRH8S/?tag=tolees-21'
 descuento: '83.75'
 average: '32.34'

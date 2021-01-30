@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Tech T Camiseta sin Mangas  Mujer  Gris  Gray 090   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YO73ZNE/?tag=tolees-21'
 descuento: '51.96'
 average: '12.49'

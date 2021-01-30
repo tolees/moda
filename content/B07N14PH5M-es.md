@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Negro  Pitch Black 9142-A810   23W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N14PH5M/?tag=tolees-21'
 descuento: '86.95'
 average: '15.57'

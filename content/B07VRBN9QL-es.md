@@ -16,6 +16,7 @@ comparePrice: 38.17 EUR
 prodname: 'Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Amarillo  Sunny   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRBN9QL/?tag=tolees-21'
 descuento: '29.76'
 average: '26.81'

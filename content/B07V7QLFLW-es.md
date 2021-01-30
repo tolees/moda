@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'KAPORAL Joan Camiseta  Blanco  White White   14 años  Talla del Fabricante: 14A  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7QLFLW/?tag=tolees-21'
 descuento: '45.42'
 average: '10.37'

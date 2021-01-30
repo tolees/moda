@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'uhlsport Stream 3.0 Ml Camiseta De Juego Manga Larga  Hombre  Azul Marino/Rojo  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TZAE6GU/?tag=tolees-21'
 descuento: '63.67'
 average: '7.99'

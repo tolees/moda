@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'HUGO Elisha01 Camisa  Blanco  Open White 199   X-Large  Talla del Fabricante: 44  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017NLN7WG/?tag=tolees-21'
 descuento: '35.02'
 average: '46.193333333333335'

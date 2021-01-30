@@ -16,6 +16,7 @@ comparePrice: 39.23 EUR
 prodname: 'Calvin Klein Monogram Relaxed Short Hoodie Sudadera  Gris  Light Grey Heather P01   40  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8KSKR9/?tag=tolees-21'
 descuento: '23.55'
 average: '29.99'

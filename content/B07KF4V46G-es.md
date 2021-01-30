@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Levi s Camiseta  Blanco  2 Pack tee White +/White + 0001   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4V46G/?tag=tolees-21'
 descuento: '30.04'
 average: '24.45'

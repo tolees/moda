@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox D BIBBIANA A  Zapatos de Tacón para Mujer  Negro  Black C9997   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZRYX7/?tag=tolees-21'
 descuento: '52.84'
 average: '46.973333333333336'

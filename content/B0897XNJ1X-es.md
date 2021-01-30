@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Zapatos Colchón Aire Deporte Mujer Zapatillas Deportivas Correr Gimnasio Casual Zapatos para Caminar Mesh Running Transpirable Aumentar Más Altos Sneakers Anti Fatiga Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0897XNJ1X/?tag=tolees-21'
 descuento: '40.62'
 average: '23.75'

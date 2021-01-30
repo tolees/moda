@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'JACK & JONES Jjeorganic Basic tee SS O-Neck Noos Camiseta  Gris  Grau   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1B9GDP/?tag=tolees-21'
 descuento: '61.20'
 average: '5.04'

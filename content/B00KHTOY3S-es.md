@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Heatgear Armour Sleeveless Camiseta Sin Mangas  Hombre  Negro  Black/Steel 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHTOY3S/?tag=tolees-21'
 descuento: '40.17'
 average: '17.766666666666666'

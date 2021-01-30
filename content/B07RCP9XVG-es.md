@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Azul/Blanco  Collegiate Navy   Talla XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCP9XVG/?tag=tolees-21'
 descuento: '63.12'
 average: '59.0'

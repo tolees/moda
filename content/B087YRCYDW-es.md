@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Sternitz Sudadera Fitness para Mujer  Bhakti Hoodie  Tela de Bambú - Ecológica y Suave Yoga/Pilates/Deportes. Cuello Largo.  M  Pack 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087YRCYDW/?tag=tolees-21'
 descuento: '37.50'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'HOMCOM Saco de Boxeo de pie Boxing Ball Entrenamiento MMA Deportes con Guantes y Mancha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFQVBGC/?tag=tolees-21'
 descuento: '15.00'
 average: '44.13285714285715'

@@ -16,6 +16,7 @@ comparePrice: 29.81 EUR
 prodname: 'Grebarley Guantes de Ciclismo Bicicleta Montaña-Acolchados Bicicleta de Carretera de Hombres Mujeres Antideslizante Pantalla Táctil  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJDN5RL/?tag=tolees-21'
 descuento: '49.71'
 average: '14.99'

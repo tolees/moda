@@ -16,6 +16,7 @@ comparePrice: 11.89 EUR
 prodname: 'Marca Amazon - MERAKI Culottes Mujer  Azul  Navy   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6KPTY9/?tag=tolees-21'
 descuento: '36.59'
 average: '7.54'

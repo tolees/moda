@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Ternua Long Island Chaqueta  Hombre  Whales Grey  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJGDX4M/?tag=tolees-21'
 descuento: '49.99'
 average: '49.98'

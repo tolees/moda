@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Amazon Brand - AURIQUE Leggings deportivos con paneles para mujer  Negro  Black/Red Floral Print   44  Label:XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4QZPVH/?tag=tolees-21'
 descuento: '20.83'
 average: '12.66'

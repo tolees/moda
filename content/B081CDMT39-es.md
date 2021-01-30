@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Geographical Norway Chaqueta NIÑA Anson Rosa Llamativo 12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CDMT39/?tag=tolees-21'
 descuento: '33.71'
 average: '58.870000000000005'

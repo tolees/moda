@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Timberland Kenniston Nellie  Zapatillas Chukka para Mujer  Amarillo  Wheat Nubuck   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQZZU81/?tag=tolees-21'
 descuento: '43.85'
 average: '72.99'

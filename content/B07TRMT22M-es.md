@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 711 Shaping Super Skinny Jeans Pantalón Vaquero Que moldea la Silueta  Azul  London Attitude 0521   W28/L32 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRMT22M/?tag=tolees-21'
 descuento: '56.61'
 average: '43.39'

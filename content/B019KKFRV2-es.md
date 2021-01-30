@@ -16,6 +16,7 @@ comparePrice: 20.51 EUR
 prodname: 'AUTOARK - Caja de cuero para 6 relojes  caja de joyería y 3 piezas de almacenamiento de lentes y gafas de sol  organizador de vitrina  color negro  AW-004'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019KKFRV2/?tag=tolees-21'
 descuento: '19.41'
 average: '16.53'

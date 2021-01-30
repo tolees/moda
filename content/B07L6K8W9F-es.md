@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Under Armour Tactical All Season Chaqueta  Hombre  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6K8W9F/?tag=tolees-21'
 descuento: '52.01'
 average: '50.63'

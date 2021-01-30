@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Mishansha Transpirables Zapatillas Running para Niños Hook Loop Conveniente Ligero Walking Zapatos de Fitness 2020 Primavera Escuela Cómoda Niño Niña Sneaker Interior Exterior  Correr Azul 28'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085HLYJXJ/?tag=tolees-21'
 descuento: '21.90'
 average: '22.64'

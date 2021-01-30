@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'SSC Napoli Réplica de camiseta de segunda equipación temporada 2019/2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFK63HQ/?tag=tolees-21'
 descuento: '61.00'
 average: '15.6'

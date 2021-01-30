@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 311 Shaping Skinny Vaqueros  New Ultra Black  28W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D756WVZ/?tag=tolees-21'
 descuento: '45.00'
 average: '49.5'

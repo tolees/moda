@@ -16,6 +16,7 @@ comparePrice: 29.46 EUR
 prodname: 'Star Wars HS2123 Conjuntos de Pijama  Azul  Navy Navy   8 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDHF69F/?tag=tolees-21'
 descuento: '38.93'
 average: '17.99'

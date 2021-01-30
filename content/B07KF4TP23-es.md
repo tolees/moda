@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Rojo  Sptwr Logo Brilliant Red 0621   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4TP23/?tag=tolees-21'
 descuento: '30.00'
 average: '15.813333333333333'

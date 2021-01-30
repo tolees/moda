@@ -16,6 +16,7 @@ comparePrice: 57.46 EUR
 prodname: 'HUGO Bill1921 Chaqueta  Negro  Black 001   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMRG2W4/?tag=tolees-21'
 descuento: '20.71'
 average: '45.56'

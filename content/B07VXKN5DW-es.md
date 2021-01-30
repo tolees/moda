@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger TJM Essential Jaspe tee Camiseta  Rosa  Bright Cerise Pink T1k   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXKN5DW/?tag=tolees-21'
 descuento: '48.45'
 average: '19.633333333333333'

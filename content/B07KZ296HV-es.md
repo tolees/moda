@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Springfield 6BA Polo Basico Reg T5 Jersey  Gama Verdes 21  Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZ296HV/?tag=tolees-21'
 descuento: '62.07'
 average: '11.72'

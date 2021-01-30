@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour UA Seamless SS Manga Corta para Hombre  Camiseta para Correr  Verde  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPXVTGW/?tag=tolees-21'
 descuento: '61.89'
 average: '17.156666666666666'

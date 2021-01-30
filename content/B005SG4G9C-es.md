@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Batman Logo - Camiseta para Hombre  Color Negro  Talla M/M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005SG4G9C/?tag=tolees-21'
 descuento: '20.75'
 average: '15.77'

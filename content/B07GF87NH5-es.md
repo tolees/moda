@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s SS Colorblock tee Camiseta  Multicolor  Colorbock Dress Blues/White/Parisian 0004   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GF87NH5/?tag=tolees-21'
 descuento: '33.33'
 average: '19.150000000000002'

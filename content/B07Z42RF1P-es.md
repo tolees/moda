@@ -16,6 +16,7 @@ comparePrice: 14.4 EUR
 prodname: 'CARE OF by PUMA Slide - Sandalias deportivas para Hombre  Negro  Black-white   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z42RF1P/?tag=tolees-21'
 descuento: '17.71'
 average: '11.85'

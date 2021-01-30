@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'TWBB Sudadera para Hombre Abrigo de la Chaqueta de la Cremallera de los Deportes Ocio Chaqueta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MS9WJB1/?tag=tolees-21'
 descuento: '82.16'
 average: '1.78'

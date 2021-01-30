@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Napapijri BOVES C Sudadera  Gris  Med Grey Mel 160   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVJ51T/?tag=tolees-21'
 descuento: '60.00'
 average: '35.6'

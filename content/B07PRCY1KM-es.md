@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Mary A1905 - Zapatos de napa  color negro y rojo  tacón de 6 cm  talla 36  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRCY1KM/?tag=tolees-21'
 descuento: '50.00'
 average: '44.5'

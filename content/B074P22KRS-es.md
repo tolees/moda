@@ -16,6 +16,7 @@ comparePrice: 8.15 EUR
 prodname: 'Marca Amazon - find. Vestido de Canalé Mujer  Negro  Black   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074P22KRS/?tag=tolees-21'
 descuento: '29.20'
 average: '7.7733333333333325'

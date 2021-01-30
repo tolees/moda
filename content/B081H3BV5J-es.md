@@ -16,6 +16,7 @@ comparePrice: 16.81 EUR
 prodname: 'BT Bear Abrigo para Perros cálido  Ropa de Invierno para Perro  Suave  Ligero  Impermeable  Acolchado  para Perros pequeños  medianos  Grandes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081H3BV5J/?tag=tolees-21'
 descuento: '17.85'
 average: '13.81'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera  Negro  Black Detail: PS   XXXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FB7NTLF/?tag=tolees-21'
 descuento: '36.23'
 average: '25.5'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'A+ Trainer Collar Antiladridos para Perros  Collar Ladridos Perro 7 Niveles Sonido y Vibración Sensibilidad  Collar Adiestramiento Impermeable IP65  Correa Ajustable Nylon para Perro 7-54kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8Z7S5J/?tag=tolees-21'
 descuento: '68.90'
 average: '27.704285714285714'

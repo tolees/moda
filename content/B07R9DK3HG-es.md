@@ -16,6 +16,7 @@ comparePrice: 270 EUR
 prodname: 'Helly Hansen Aden Chaqueta De Pluma Impermeable Parka con Capucha  Mujer  Navy  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9DK3HG/?tag=tolees-21'
 descuento: '42.94'
 average: '154.07'

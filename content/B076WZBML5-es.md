@@ -16,6 +16,7 @@ comparePrice: 23.25 EUR
 prodname: 'find. Sudadera con Mensaje Mujer  Rosa  Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076WZBML5/?tag=tolees-21'
 descuento: '60.00'
 average: '9.3'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Camisas de Mujer Tops Camisa de Gasa Mangas Blusas Blusas Elegantes Mangas 3/4 Negro M CLAF15-3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHLBR23/?tag=tolees-21'
 descuento: '21.75'
 average: '17.99'

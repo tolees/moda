@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Vest Bonney Vestido  Blanco  Crudo 1001   40  Talla del Fabricante: 40  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCJCKF6/?tag=tolees-21'
 descuento: '64.74'
 average: '28.19'

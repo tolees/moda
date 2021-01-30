@@ -16,6 +16,7 @@ comparePrice: 13.25 EUR
 prodname: 'Cerdá Pijama Niña de Disney Frozen 2-Camiseta + Pantalon de Algodón Juego  Gris  2 Años para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0847MLZQQ/?tag=tolees-21'
 descuento: '32.98'
 average: '8.88'

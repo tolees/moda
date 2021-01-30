@@ -16,6 +16,7 @@ comparePrice: 5.81 EUR
 prodname: 'Fiween Zapatos de Color Beige de plástico de Alta talón Consejos 22mm x 21mm de Marca Mujer 6PCS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08629XJRT/?tag=tolees-21'
 descuento: '49.57'
 average: '2.93'

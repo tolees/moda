@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Tommy Hilfiger TJM Stretch Oxford Shirt Camisa  Blanco  White 100   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYRJJQN/?tag=tolees-21'
 descuento: '34.62'
 average: '42.5'

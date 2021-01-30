@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Armour Fleece 1/2 Zip Camiseta De Manga Larga con Media Cremallera  Hombre  Azul  Academy/Black 408   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XN3L6K/?tag=tolees-21'
 descuento: '33.33'
 average: '36.67'

@@ -16,6 +16,7 @@ comparePrice: 29.4 EUR
 prodname: 'find. 59179 vaqueros mujer  Azul  Mid Blue   W30/L32  Talla del Fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GNKHTR/?tag=tolees-21'
 descuento: '59.18'
 average: '12.0'

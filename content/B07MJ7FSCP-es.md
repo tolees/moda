@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Clarks - Botines de Cuero Hombre  color Taupe Suede  talla 43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ7FSCP/?tag=tolees-21'
 descuento: '67.64'
 average: '44.290000000000006'

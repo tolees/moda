@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Lacoste TH7618  Camiseta para Hombre  Rojo  Rouge 240   X-Large  Talla del fabricante: 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HXTZTJ/?tag=tolees-21'
 descuento: '40.00'
 average: '24.0'

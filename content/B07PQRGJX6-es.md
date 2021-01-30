@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Top Zapatos para Correr Deportes en Montaña Asfalto  Zapatillas Sneakers de Running Deportivos para Hombre Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQRGJX6/?tag=tolees-21'
 descuento: '32.75'
 average: '36.99'

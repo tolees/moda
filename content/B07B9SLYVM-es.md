@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Blanco  Bright White 100   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9SLYVM/?tag=tolees-21'
 descuento: '46.66'
 average: '51.142'

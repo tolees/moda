@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'XTI 26915 Sandalias ESCLAVAS Mujer Sandalias Fuxia 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073HKXDTD/?tag=tolees-21'
 descuento: '32.06'
 average: '16.95'

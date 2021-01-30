@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Wrangler SS Logo tee Camiseta  Azul  Navy 114   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ27D3T/?tag=tolees-21'
 descuento: '49.98'
 average: '12.48'

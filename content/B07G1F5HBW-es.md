@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Superdry O L Vintage Embroidery L/s tee Camisa Manga Larga  Gris  Flint Steel Grit A3z   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1F5HBW/?tag=tolees-21'
 descuento: '40.01'
 average: '24.32333333333333'

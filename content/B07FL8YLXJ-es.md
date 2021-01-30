@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Superdry Vintage Logo 1st tee Camiseta de Tirantes  Azul  Portland Cobalt Grit Vy7   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FL8YLXJ/?tag=tolees-21'
 descuento: '55.56'
 average: '18.496666666666666'

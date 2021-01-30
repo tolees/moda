@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Lee Slim Button Down Camisa  Negro  Black 01   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N17W3JD/?tag=tolees-21'
 descuento: '69.96'
 average: '18.01'

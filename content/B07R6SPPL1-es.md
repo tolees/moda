@@ -16,6 +16,7 @@ comparePrice: 48.15 EUR
 prodname: 'U+U  2019 Version Bolso bandolera de piel con bloqueo RFID para teléfono móvil con correa de cadena para viaje  color Negro  talla Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6SPPL1/?tag=tolees-21'
 descuento: '48.10'
 average: '24.99'

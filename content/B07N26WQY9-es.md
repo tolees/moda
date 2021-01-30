@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver Molokai Wordmark-Flip-Flops for Men  Zapatos de Playa y Piscina para Hombre  Multicolor Black/Yellow Xkky  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N26WQY9/?tag=tolees-21'
 descuento: '48.42'
 average: '10.31'

@@ -16,6 +16,7 @@ comparePrice: 39.88 EUR
 prodname: 'TAONEEF Mujer Moda Tacon Delgados Sandalias Cruzado Tacon Alto Fiesta Sandalias Stiletto Verano Zapatos White Talla 43 Asian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087BXRQPY/?tag=tolees-21'
 descuento: '42.63'
 average: '22.88'

@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'ElegantPark HC1621 Zapatos para Novia Boda Tacon Bajo Ronda Hebilla Bombea los Zapatos de Danza de Satén Zapatos de Boda Mujer Marfil EU 41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKV1FK1/?tag=tolees-21'
 descuento: '29.34'
 average: '52.99'

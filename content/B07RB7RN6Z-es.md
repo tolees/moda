@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha  Hombre  Azul  Navy   Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB7RN6Z/?tag=tolees-21'
 descuento: '38.50'
 average: '76.32307692307693'

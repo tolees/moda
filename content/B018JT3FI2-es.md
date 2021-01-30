@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Levi s 200Sf Boxer Brief 2P  Hombre  Azul  Mid Denim  Small  Tamaño del Fabricante:010   Pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018JT3FI2/?tag=tolees-21'
 descuento: '31.03'
 average: '11.0'

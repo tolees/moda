@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'SELECTED HOMME Slhdean Parka W Abrigo  Azul  Dark Sapphire Dark Sapphire   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJS22YX/?tag=tolees-21'
 descuento: '77.58'
 average: '31.38'

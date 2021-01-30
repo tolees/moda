@@ -16,6 +16,7 @@ comparePrice: 82.14 EUR
 prodname: 'Tommy Hilfiger Structured Slim Polo Camiseta Deporte  Rojo  Primary Red   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8VTHXQ/?tag=tolees-21'
 descuento: '57.44'
 average: '34.96'

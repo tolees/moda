@@ -16,6 +16,7 @@ comparePrice: 270 EUR
 prodname: 'Helly Hansen Coastal 2 Parka  Hombre  Azul  Marino   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EOWZYUU/?tag=tolees-21'
 descuento: '45.23'
 average: '143.885'

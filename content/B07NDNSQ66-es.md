@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'G-STAR RAW Vehem Pocket Round Neck Camiseta  Negro  Dk Black 6484   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNSQ66/?tag=tolees-21'
 descuento: '68.74'
 average: '18.74'

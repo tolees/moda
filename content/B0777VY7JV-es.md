@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Original Triblend Camiseta  Rojo  Formula One 645   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777VY7JV/?tag=tolees-21'
 descuento: '45.55'
 average: '16.05666666666667'

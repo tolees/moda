@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic U  Zuecos con Correa Trasera Unisex Adulto  Pepper  39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HB55OIU/?tag=tolees-21'
 descuento: '36.91'
 average: '25.23'

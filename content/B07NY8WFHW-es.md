@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'lodi ESIN  Botines para Mujer  Negro  Glove Negro Glove Negro   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY8WFHW/?tag=tolees-21'
 descuento: '18.40'
 average: '129.74'

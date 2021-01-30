@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Tech 2.0 T Camiseta de Manga Corta  Hombre  Azul  Royal/Graphite 400   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07815BYTV/?tag=tolees-21'
 descuento: '39.32'
 average: '16.99'

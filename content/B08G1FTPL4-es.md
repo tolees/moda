@@ -16,6 +16,7 @@ comparePrice: 34.82 EUR
 prodname: 'Ocobudbxw Mujeres niñas Moda en Forma de corazón Embrague Bolso de Noche Monedero acrílico Transparente Bandolera Bandolera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G1FTPL4/?tag=tolees-21'
 descuento: '50.00'
 average: '17.41'

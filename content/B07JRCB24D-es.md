@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Logo T-Shirt Camiseta Informal  Rojo  Haute Red 611   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JRCB24D/?tag=tolees-21'
 descuento: '35.91'
 average: '25.57'

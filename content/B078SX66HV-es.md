@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Timberland Wild Dunes Synthetic Thong  Chanclas de Dedo para Hombre  Azul  Navy   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SX66HV/?tag=tolees-21'
 descuento: '42.24'
 average: '21.49'

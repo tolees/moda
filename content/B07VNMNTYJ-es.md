@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'G-STAR RAW Denim Mix Hooded Chaqueta  Azul  Mazarine Blue C183-4213   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNMNTYJ/?tag=tolees-21'
 descuento: '30.00'
 average: '104.97'

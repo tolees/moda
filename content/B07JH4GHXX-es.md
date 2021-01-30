@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Pepe Jeans Boreas Pm402096 Chaqueta   Flame 265   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH4GHXX/?tag=tolees-21'
 descuento: '67.53'
 average: '33.33'

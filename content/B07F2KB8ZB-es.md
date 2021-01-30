@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Amazon Essentials – Camisa Oxford de manga larga de corte entallado de rayas para hombre  Azul  Aqua Stripe Aqu   US XS  EU XS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2KB8ZB/?tag=tolees-21'
 descuento: '27.70'
 average: '14.46'

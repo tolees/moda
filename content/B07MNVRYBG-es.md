@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Vicloon 9Pcs Princesa Vestir Accesorios Regalo Conjunto de Belleza Corona Sceptre Collar Guantes para Niña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNVRYBG/?tag=tolees-21'
 descuento: '28.36'
 average: '8.59'

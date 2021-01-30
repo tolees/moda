@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'trueprodigy Casual Hombre Marca Camiseta con impresión Estampada Ropa Retro Vintage Rock Vestir Moda Cuello Redondo Manga Corta Slim Fit Designer Fashion T-Shirt  Colores:White  Tamaño:M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C8LXCBJ/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

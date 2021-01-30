@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Pepe Jeans Kai Pm402100 Chaqueta   Dandelion 054   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWQLX6C/?tag=tolees-21'
 descuento: '82.05'
 average: '26.92'

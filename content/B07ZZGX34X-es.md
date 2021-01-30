@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Charles Wilson Jersey de Punto Fino de Algodón Cuello Pico para Hombre  Small  Black  1119  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZZGX34X/?tag=tolees-21'
 descuento: '42.92'
 average: '19.95'

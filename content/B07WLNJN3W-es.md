@@ -16,6 +16,7 @@ comparePrice: 49.28 EUR
 prodname: 'Tommy Hilfiger Summer Allover Print tee Camiseta Deporte  Azul  Faded Indigo   Small  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLNJN3W/?tag=tolees-21'
 descuento: '70.86'
 average: '15.584999999999999'

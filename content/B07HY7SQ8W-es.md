@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Charles Wilson Camiseta Cuello Redondo Punto Tipo Jacquard para Hombre  Small  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HY7SQ8W/?tag=tolees-21'
 descuento: '65.36'
 average: '7.95'

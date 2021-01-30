@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour UA Streaker 2.0 Camiseta  Mujer  Negro  Black/Black/Reflective 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ93KYX/?tag=tolees-21'
 descuento: '23.46'
 average: '26.79'

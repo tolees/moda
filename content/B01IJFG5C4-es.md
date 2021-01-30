@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'VNOX Hombres de Acero Inoxidable Sencilla Cruz Collar con Cadena de 60 cm de Plata Cubana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IJFG5C4/?tag=tolees-21'
 descuento: '91.11'
 average: '10.07'

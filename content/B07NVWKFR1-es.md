@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Armor Lux 77288 Chaqueta  Negro  Noir 010   Medium  Talla del Fabricante: 48  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVWKFR1/?tag=tolees-21'
 descuento: '59.39'
 average: '121.43'

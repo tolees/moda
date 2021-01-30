@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Gris  Pattern Smokestack Htr 0315   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VQCX8H/?tag=tolees-21'
 descuento: '42.04'
 average: '14.49'

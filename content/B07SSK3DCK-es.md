@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Sukie B  Zapatillas para Mujer  Beige  Dk Skin C8191   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSK3DCK/?tag=tolees-21'
 descuento: '50.00'
 average: '58.545'

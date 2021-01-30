@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Dress Marian Vestido  Color Blanco  Crudo 1001   44 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3SPBJ1/?tag=tolees-21'
 descuento: '38.48'
 average: '48.54666666666667'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B Kaytan A  Sandalias de Punta Descubierta para Bebés  Rosa  Dk Rose C8007   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRJCKHR/?tag=tolees-21'
 descuento: '35.33'
 average: '32.27'

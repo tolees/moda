@@ -16,6 +16,7 @@ comparePrice: 131.91 EUR
 prodname: 'Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Azul  Blue Nubuck   47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FH9Q4P8/?tag=tolees-21'
 descuento: '46.93'
 average: '70'

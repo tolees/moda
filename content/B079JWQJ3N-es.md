@@ -16,6 +16,7 @@ comparePrice: 68.72 EUR
 prodname: 'NNDOLL Vestido de Princesa Carnaval Vestido de niña Traje de niños Deluxe Elsa 131'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JWQJ3N/?tag=tolees-21'
 descuento: '65.22'
 average: '23.9'

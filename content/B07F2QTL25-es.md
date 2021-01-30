@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Vans Left Chest Logo tee  Camiseta para Hombre  Rojo  Jazzy-White Tide  Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2QTL25/?tag=tolees-21'
 descuento: '25.05'
 average: '16.995'

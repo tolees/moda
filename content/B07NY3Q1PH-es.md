@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Superdry Falcon Rookie Parka  Beige  Camel 94m   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY3Q1PH/?tag=tolees-21'
 descuento: '52.15'
 average: '66.99'

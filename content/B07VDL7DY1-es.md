@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Esprit 099ee1d003s Falda  Negro  Black 001   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDL7DY1/?tag=tolees-21'
 descuento: '79.69'
 average: '8.12'

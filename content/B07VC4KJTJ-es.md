@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Calvin Klein CK Round Logo Reg tee Camiseta  Blanco  Bright White Yaf   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC4KJTJ/?tag=tolees-21'
 descuento: '45.26'
 average: '21.35'

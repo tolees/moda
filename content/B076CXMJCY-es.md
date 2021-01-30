@@ -16,6 +16,7 @@ comparePrice: 13.59 EUR
 prodname: 'RED WAGON  Camiseta Print Niños  Pack de 3  Multicolor  Multicoloured 19-3924 Tcx 17-3914 Tcx 13-0075 Tcx   104  Talla del fabricante: 4 años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CXMJCY/?tag=tolees-21'
 descuento: '64.68'
 average: '4.8'

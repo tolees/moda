@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Pepe Jeans Pixie New Wave Vaqueros Skinny  Azul  1o0z Wavy Stripe Denim 000   32W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZM2LCR/?tag=tolees-21'
 descuento: '40.00'
 average: '56.612'

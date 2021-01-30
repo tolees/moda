@@ -16,6 +16,7 @@ comparePrice: 82.76 EUR
 prodname: 'ZXYSHOP Abrigo de Invierno Acolchado para Niñas Princesas Chaqueta de algodón Dulce con Capucha Cintura Ajustable Blue-11-12Years'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QR3JXSS/?tag=tolees-21'
 descuento: '88.62'
 average: '9.42'

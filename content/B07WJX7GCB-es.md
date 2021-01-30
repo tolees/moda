@@ -16,6 +16,7 @@ comparePrice: 12.69 EUR
 prodname: 'FIND Block Heel Slingback Zapatos de Talón Abierto  Verde  Mint Green   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJX7GCB/?tag=tolees-21'
 descuento: '50.67'
 average: '6.26'

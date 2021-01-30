@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Superdry Hooded Windtrekker Chaqueta  Azul  Navy Feeder V6z   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY3RDD5/?tag=tolees-21'
 descuento: '48.00'
 average: '51.99'

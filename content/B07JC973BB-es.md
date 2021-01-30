@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Timberland NeWaterproofort Bay Oxford  Zapatillas Unisex-Niños  Azul  Navy Canvas   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JC973BB/?tag=tolees-21'
 descuento: '62.36'
 average: '19.72'

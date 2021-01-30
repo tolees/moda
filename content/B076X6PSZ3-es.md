@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Geox Uomo Sandal Strada D  Sandalia con Pulsera para Hombre  Gris  Stone/Lt Grey   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X6PSZ3/?tag=tolees-21'
 descuento: '44.48'
 average: '38.81'

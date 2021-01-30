@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Rider Tonal Vaqueros  Black Rinse Yc47  33W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HY23CS8/?tag=tolees-21'
 descuento: '52.52'
 average: '42.71'

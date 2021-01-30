@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Puma Cross The Line Singlet Camiseta De Tirantes  Hombre  Black White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4LH5XK/?tag=tolees-21'
 descuento: '39.92'
 average: '14.99'

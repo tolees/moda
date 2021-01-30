@@ -16,6 +16,7 @@ comparePrice: 15.25 EUR
 prodname: 'Marca Amazon - find. Vestido Corto Cruzado de Algodón Mujer  Rojo  Tangerine   46  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRCW4ZZ/?tag=tolees-21'
 descuento: '43.34'
 average: '8.64'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Rosa  Melon 737   19/20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPC1TC3/?tag=tolees-21'
 descuento: '66.99'
 average: '13.016666666666667'

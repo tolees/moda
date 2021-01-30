@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kipling Osyka  Bolso Con Bandolera para Mujer  Dorado  Cloud Metal Gifting   21x15x3.2 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJH3KH/?tag=tolees-21'
 descuento: '38.19'
 average: '42.65'

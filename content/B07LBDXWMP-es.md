@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen Vertex Secado Rápido Y Elástico Chaqueta con Cremallera Completa  Hombre  North Sea Blue  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBDXWMP/?tag=tolees-21'
 descuento: '57.53'
 average: '38.22'

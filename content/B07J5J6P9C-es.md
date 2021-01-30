@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Camiseta de Manga Larga T-Shirt Longsleeve Shirt Top Streetwear  XX-Large  Port Royale '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5J6P9C/?tag=tolees-21'
 descuento: '20.05'
 average: '19.98'

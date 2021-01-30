@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'find. Suede-Look Zapatos de Cordones Derby  Azul Navy  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N13DZN2/?tag=tolees-21'
 descuento: '40.67'
 average: '26.7'

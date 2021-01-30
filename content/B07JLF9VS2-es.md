@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Wrangler SS Modern Western SH Camisa  Azul  Starlight Blue B02   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLF9VS2/?tag=tolees-21'
 descuento: '75.56'
 average: '13.43'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Levi s Levis 200sf Boxer Brief 2p  Hombre  Negro  Jet Black  X-Large  Tamaño del Fabricante:040   Pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018JT3ZKU/?tag=tolees-21'
 descuento: '36.17'
 average: '15.616666666666665'

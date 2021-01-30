@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'SALOMON Drifter Mid Hoodie W Chaqueta Reversible con Capucha  Mezcla de sintéticos  Mujer  Rojo/Rosa  Rio Red/Garnet Rose   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQQVCTQ/?tag=tolees-21'
 descuento: '62.89'
 average: '66.79'

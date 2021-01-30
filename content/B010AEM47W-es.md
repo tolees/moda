@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'ESPRIT - Collar para mujer con circonita color plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010AEM47W/?tag=tolees-21'
 descuento: '75.09'
 average: '19.9'

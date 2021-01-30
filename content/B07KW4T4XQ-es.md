@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'URAQT Vestido lady bug  Rojo M  C-UZ18112-0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW4T4XQ/?tag=tolees-21'
 descuento: '28.01'
 average: '17.69'

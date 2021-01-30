@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger Original Rib Camisa  Negro  Tommy Black 078   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776XXJ6D/?tag=tolees-21'
 descuento: '31.46'
 average: '25.48'

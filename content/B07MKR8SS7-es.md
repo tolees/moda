@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Lacoste Ch5843 Camisa  Gris  Anthracite Chiné 8fx   Medium  Talla del Fabricante: 40  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKR8SS7/?tag=tolees-21'
 descuento: '52.29'
 average: '61.81375'

@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Speedo Biofuse Rift Gafas de Natación  Unisex niños  Azul/Naranja  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MAYOXOE/?tag=tolees-21'
 descuento: '26.03'
 average: '16.94'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Bootcut Vaqueros  Azul  Water Blue 78x   24 W/ 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8LRDG1/?tag=tolees-21'
 descuento: '58.63'
 average: '37.21'

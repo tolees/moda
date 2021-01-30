@@ -16,6 +16,7 @@ comparePrice: 34.64 EUR
 prodname: 'Desigual – Bols stardust Yangra Bolso de hombro para mujer  color morado  lila   9 5 x 28 2 x 38 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHW4HDW/?tag=tolees-21'
 descuento: '23.21'
 average: '27.02'

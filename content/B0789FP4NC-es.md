@@ -16,6 +16,7 @@ comparePrice: 26 EUR
 prodname: 'Under Armour - Camiseta de Tirantes para Mujer con Logotipo de WM  Mujer  1323449-906  Peach Horizon Light Heather/White/Metallic Silver  Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0789FP4NC/?tag=tolees-21'
 descuento: '71.88'
 average: '7.31'

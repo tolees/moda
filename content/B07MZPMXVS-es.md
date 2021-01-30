@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Nine Sudadera   Grey Marl 933   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPMXVS/?tag=tolees-21'
 descuento: '35.02'
 average: '35.97'

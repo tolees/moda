@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Laina RAE  Botines para Mujer  Marrón Dark Brown  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JD4QY/?tag=tolees-21'
 descuento: '72.05'
 average: '27.94'

@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Joma Atenas II Sudadera  Hombre  Melange  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9XTG4D/?tag=tolees-21'
 descuento: '50.43'
 average: '14.86'

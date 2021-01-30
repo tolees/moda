@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Finsbury Vaqueros  Blue Medium Used  31W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXZ65NX/?tag=tolees-21'
 descuento: '20.00'
 average: '63.92'

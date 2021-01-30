@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Lacoste L1212 Camiseta Polo  Rosa  Flamant T03   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003F26IPG/?tag=tolees-21'
 descuento: '35.96'
 average: '55.33571428571429'

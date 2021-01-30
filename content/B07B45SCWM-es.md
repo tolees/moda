@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SELECTED HOMME Slhregsel-Pelle Shirt LS B Noos Camisa  Azul  Light Blue Light Blue   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B45SCWM/?tag=tolees-21'
 descuento: '50.99'
 average: '21.57'

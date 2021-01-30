@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox D Nebula B  Zapatillas sin Cordones para Mujer  Gris  Lt Grey C1010   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTQK75/?tag=tolees-21'
 descuento: '69.50'
 average: '39.62'

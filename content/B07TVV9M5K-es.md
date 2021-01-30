@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Lee Logo tee Camiseta  Blanco  White 12   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVV9M5K/?tag=tolees-21'
 descuento: '27.52'
 average: '18.12'

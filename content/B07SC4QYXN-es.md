@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Helly Hansen Crew Insulator Chaqueta  Hombre  Grey Fog  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC4QYXN/?tag=tolees-21'
 descuento: '41.26'
 average: '93.99'

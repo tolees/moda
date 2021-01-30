@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Under Armour Women s Atlantic Dune T Dusch-& Badeschuhe  Zapatos de Playa y Piscina para Mujer  Negro  Black/Mod Gray/Mod Gray  002  002   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2GQRZ5/?tag=tolees-21'
 descuento: '62.00'
 average: '8.34'

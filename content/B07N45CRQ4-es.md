@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'United Colors of Benetton Highlands Man Abrigo   Marrón 2c0   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N45CRQ4/?tag=tolees-21'
 descuento: '66.93'
 average: '42.66'

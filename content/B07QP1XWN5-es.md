@@ -16,6 +16,7 @@ comparePrice: 18.42 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Pijama de Modal Mujer  Rojo  Red&White   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QP1XWN5/?tag=tolees-21'
 descuento: '27.20'
 average: '13.41'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Marvel Camiseta Manga Corta Deadpool Character Blanco S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXW3I69/?tag=tolees-21'
 descuento: '60.37'
 average: '12.182500000000001'

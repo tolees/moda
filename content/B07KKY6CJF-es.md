@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Most Haves Badge of Sports TS M Camiseta  Hombre  Azul  Legend Ink/White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKY6CJF/?tag=tolees-21'
 descuento: '44.01'
 average: '14.633333333333333'

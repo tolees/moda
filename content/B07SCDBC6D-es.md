@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Fruit of the Loom Valueweight tee  3 Pack Camiseta  Multicolor  White/Black/Heather Grey E   Medium  Size:M   Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCDBC6D/?tag=tolees-21'
 descuento: '15.18'
 average: '19.5'

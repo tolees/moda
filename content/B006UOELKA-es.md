@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'adidas Spiro espíritu de Equipo Polo Camiseta de la Mujer  Mujer  S177FBKRDXS  Negro/Rojo  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006UOELKA/?tag=tolees-21'
 descuento: '30.75'
 average: '12.43'

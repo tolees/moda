@@ -16,6 +16,7 @@ comparePrice: 39.47 EUR
 prodname: 'SELECTED FEMME Sfranja SS Highneck Dress  Vestido Mujer  Negro  Black Black   36  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072F2SFRT/?tag=tolees-21'
 descuento: '76.79'
 average: '9.16'

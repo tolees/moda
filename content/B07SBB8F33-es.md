@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Isabella T-Strap  Sandalias de Punta Descubierta para Mujer  Naranja  Cantaloupe 801   42/43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBB8F33/?tag=tolees-21'
 descuento: '54.99'
 average: '14.4'

@@ -16,6 +16,7 @@ comparePrice: 50.96 EUR
 prodname: 'HIKARO Parka Corta Hombre  Beige  Stone   48  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YDZ76B/?tag=tolees-21'
 descuento: '64.70'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Under Armour Sport Style Wind Anorak Chaqueta  Hombre  Negro Y Gris  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FV6RG6/?tag=tolees-21'
 descuento: '66.75'
 average: '15.546666666666665'

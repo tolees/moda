@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Wrangler Crewneck Knit Sudadera  Amarillo  Mineral Yellow Y02   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN83YBQ/?tag=tolees-21'
 descuento: '49.99'
 average: '29.98'

@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Battle Royale Camiseta para niño Gaming Negro 13-14 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKQT5WV/?tag=tolees-21'
 descuento: '38.61'
 average: '7.95'

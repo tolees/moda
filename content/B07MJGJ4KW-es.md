@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'CMP Rigel  Zapatos de Low Rise Senderismo Unisex Niños   Stone-Orange 78uc   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJGJ4KW/?tag=tolees-21'
 descuento: '65.49'
 average: '17.24'

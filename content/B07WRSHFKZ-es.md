@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'Charles Wilson Originals Sudadera Algodón Ligera Capucha Cremallera  X-Small  Black  0819  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRSHFKZ/?tag=tolees-21'
 descuento: '50.07'
 average: '18.95'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Newport Bay  Zapatillas Bajas para Hombre  Negro  Black Canvas   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SW6FWQ/?tag=tolees-21'
 descuento: '56.94'
 average: '27.99'

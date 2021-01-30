@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Bolso de viaje 52 cm Pepe Jeans Ason'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWYWKHB/?tag=tolees-21'
 descuento: '20.00'
 average: '39.99'

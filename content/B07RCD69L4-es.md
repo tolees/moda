@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Inner Limits II Chaqueta Impermeable  Hombre  Negro  Gris Claro  Black  Graphite Heather   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCD69L4/?tag=tolees-21'
 descuento: '62.01'
 average: '37.99'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Brooklyn Straight Vaqueros para Hombre  Azul  Rinse Dp   36W / 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYSFYVQ/?tag=tolees-21'
 descuento: '59.99'
 average: '35.99'

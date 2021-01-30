@@ -16,6 +16,7 @@ comparePrice: 36.71 EUR
 prodname: 'Wrangler Greensboro Regular Jeans Vaqueros  Azul  Green Night 26M   34W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8LKTP3/?tag=tolees-21'
 descuento: '19.59'
 average: '29.52'

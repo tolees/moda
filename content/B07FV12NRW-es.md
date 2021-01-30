@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Millet Route GTX  Zapatos de High Rise Senderismo para Hombre  Negro  Black/Acid Green 7216   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FV12NRW/?tag=tolees-21'
 descuento: '50.01'
 average: '99.95'

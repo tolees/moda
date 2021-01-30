@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'J TOHLO 3 Barrel Hair Waver Iron  rizador de cerámica de turmalina  Calentamiento rápido y no daña el cabello  Con guantes de peluquería y Horquilla exquisita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872SRCW7/?tag=tolees-21'
 descuento: '34.70'
 average: '31.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Lee New Pocket SWS Sudadera  Gris  Grey Mele MP   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9CXKBB/?tag=tolees-21'
 descuento: '74.08'
 average: '18.13'

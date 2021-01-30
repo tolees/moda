@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Merrell - sandalias de Cuero mujer  Azul  NAVY   37 EU  4 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YDITMQS/?tag=tolees-21'
 descuento: '52.75'
 average: '52.60666666666666'

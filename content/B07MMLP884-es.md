@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Aerons Hood 1 Chaqueta  Verde  Green Forest 2 Ge3   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLP884/?tag=tolees-21'
 descuento: '50.00'
 average: '99.5'

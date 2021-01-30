@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Malone Vaqueros  Vintage Dixon BH  27W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN3BF11/?tag=tolees-21'
 descuento: '82.68'
 average: '18.619999999999997'

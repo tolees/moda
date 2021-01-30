@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Beige  Stucco-Melon 1AS   36-37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J1LQ16U/?tag=tolees-21'
 descuento: '47.99'
 average: '25.330000000000002'

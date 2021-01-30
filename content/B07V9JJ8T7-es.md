@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Calvin Klein Essential Slim V Neck tee Camiseta  Negro  CK Black Bae   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9JJ8T7/?tag=tolees-21'
 descuento: '54.33'
 average: '17.81'

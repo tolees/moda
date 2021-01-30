@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Napapijri GOAYO Camisa Casual  Rojo  Red Check 13C   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK1QHN9/?tag=tolees-21'
 descuento: '50.00'
 average: '44.5'

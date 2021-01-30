@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Kipling ARTO  Bolso bandolera para Mujer  Marrón  True Beige   29x26x4 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0764KV9CR/?tag=tolees-21'
 descuento: '26.49'
 average: '45.501999999999995'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Kipling Sara  Bolso con Bandolera para Mujer  Verde  Seagrass   35x15x6 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHHHBLC/?tag=tolees-21'
 descuento: '63.64'
 average: '21.45'

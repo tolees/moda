@@ -16,6 +16,7 @@ comparePrice: 133.87 EUR
 prodname: 'Timberland Kenniston 6 Inch Lace Up  Botas para Mujer  Rojo  Dark Red Nubuck   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMMVC6Z/?tag=tolees-21'
 descuento: '76.05'
 average: '32.06'

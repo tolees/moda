@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'AMZTM Dinosaurio Camiseta de Cumpleaños - 1er Bebé Cumpleaños Suministros para la Fiesta Camisetas de Manga Corta para Bebé Niños Blanco Cuello Redondo de 100% Algodón Camiseta Tops'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0838RLHQ7/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

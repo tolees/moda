@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Pouring Adventure Chaqueta para Hombre  Azul  Bright Indigo  Collegiate Navy   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087VJCM7N/?tag=tolees-21'
 descuento: '46.67'
 average: '47.99'

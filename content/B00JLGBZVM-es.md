@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'adidas Entrada 14 JSY  Camiseta para hombre  Rojo  University Red/White   L  F50485'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JLGBZVM/?tag=tolees-21'
 descuento: '17.22'
 average: '14.935'

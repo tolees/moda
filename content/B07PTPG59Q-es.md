@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'WinCret Pareo Playa Mujer Traje de Baño Verano Camisolas y Pareos Bikini Cover up y Ropa de Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTPG59Q/?tag=tolees-21'
 descuento: '42.47'
 average: '18.98'

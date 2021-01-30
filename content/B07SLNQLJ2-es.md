@@ -16,6 +16,7 @@ comparePrice: 131.0 EUR
 prodname: 'Nike Jumpman Diamond Mid  Zapatos de Baloncesto para Hombre  Multicolor  Black/University Red/White 006   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLNQLJ2/?tag=tolees-21'
 descuento: '15.00'
 average: '115.675'

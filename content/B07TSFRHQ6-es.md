@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Wrangler Straight Vaqueros para Mujer  Azul  Montego Bay 11P   30W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSFRHQ6/?tag=tolees-21'
 descuento: '46.31'
 average: '53.66'

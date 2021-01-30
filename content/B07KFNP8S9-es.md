@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen Hp Atlantic Fz Hoodie  Sudadera para Hombre  Azul  Azul Navy 597   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFNP8S9/?tag=tolees-21'
 descuento: '37.79'
 average: '59.47'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Down Dehon Pkbl Puffer Chaqueta  Negro  Mineral Black 0000   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYMQP2T/?tag=tolees-21'
 descuento: '61.81'
 average: '49.65'

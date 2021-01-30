@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Originals Adilette  Zapatos de Playa y Piscina Unisex Adulto  Azul Adiblue White Adiblue  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001PEEB32/?tag=tolees-21'
 descuento: '25.64'
 average: '25.11'

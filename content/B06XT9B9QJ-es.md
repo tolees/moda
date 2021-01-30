@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Pepe Jeans Charing PM503215 Camiseta  Gris  Grey Marl 933   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XT9B9QJ/?tag=tolees-21'
 descuento: '17.89'
 average: '21.476666666666667'

@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Levi s Coit Down Puffer Chaqueta  Marrón  Cabernet 0000   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8RVYD/?tag=tolees-21'
 descuento: '74.77'
 average: '50.08'

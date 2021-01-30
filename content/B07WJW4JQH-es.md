@@ -16,6 +16,7 @@ comparePrice: 7.65 EUR
 prodname: 'Jack & Jones JCOBOOSTER tee SS Crew Neck Oct 19 Camiseta  Azul  Sky Captain Fit: Slim   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJW4JQH/?tag=tolees-21'
 descuento: '26.41'
 average: '5.63'

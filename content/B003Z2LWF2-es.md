@@ -16,6 +16,7 @@ comparePrice: 163.0 EUR
 prodname: 'CATWALK COLLECTION - CAZ - Bolso estilo shopper - Cuero - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z2LWF2/?tag=tolees-21'
 descuento: '50.95'
 average: '79.95'

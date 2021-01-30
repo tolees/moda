@@ -16,6 +16,7 @@ comparePrice: 66.25 EUR
 prodname: 'TOOLSTAR Reloj Inteligente Fitness Tracker  IP67  Mujer  Resistente al Agua  a la Moda  con frecuencia cardíaca  rastreador de Actividad física para teléfonos Android e iOS  Color Azul H1.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZR5L3PS/?tag=tolees-21'
 descuento: '26.16'
 average: '48.92'

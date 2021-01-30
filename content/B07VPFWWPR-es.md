@@ -16,6 +16,7 @@ comparePrice: 26.38 EUR
 prodname: 'Jack & Jones JORHARDY Light Puffer Chaqueta  Rojo  Detalles Escarlata: sólido   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPFWWPR/?tag=tolees-21'
 descuento: '30.29'
 average: '22.618000000000002'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Vneck Camiseta  Azul  Annalise Stripe Cloud Dancer 0004   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1C1Z7J/?tag=tolees-21'
 descuento: '51.16'
 average: '12.21'

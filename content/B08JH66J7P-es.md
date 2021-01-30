@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'Zapatos de Seguridad Hombre Zapatillas de Seguridad con Punta de Acero Ultraligero Transpirables Zapatos de Trabajo Negro Azul 46 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JH66J7P/?tag=tolees-21'
 descuento: '15.43'
 average: '38.9'

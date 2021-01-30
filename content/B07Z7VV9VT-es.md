@@ -16,6 +16,7 @@ comparePrice: 19.6 EUR
 prodname: 'Bestcool Gorra Bluetooth  Bluetooth Sombrero  Hombre Gorra Bluetooth 4.2  Auriculares con Micrófono  Hombres Mujeres Regalos  Regalos Electrónicos para Hombres  Regalos de Moda para Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7VV9VT/?tag=tolees-21'
 descuento: '23.52'
 average: '14.99'

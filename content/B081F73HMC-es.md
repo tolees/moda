@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Voova 15 15.6 14 Pulgadas Funda Maletín Ordenador Portátiles Bolso Bandolera para Portátil con Asa De Transporte para Macbook Pro Retina/Macbook Pro/Elit Book/XPS15/Chromebook Hombre& Mujer  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081F73HMC/?tag=tolees-21'
 descuento: '28.01'
 average: '17.99'

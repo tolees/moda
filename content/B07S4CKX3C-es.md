@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'FitFlop Lulu Leather Toepost  Sandalias con Plataforma Women s  Blanco  Urban White 024   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4CKX3C/?tag=tolees-21'
 descuento: '33.59'
 average: '46.49'

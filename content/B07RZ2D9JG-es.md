@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'BILLABONG TRD Mrk LS tee Camiseta  Hombre  Azul  Dark Blue 709   One Size  Tamaño del Fabricante: XS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ2D9JG/?tag=tolees-21'
 descuento: '50.00'
 average: '17.175'

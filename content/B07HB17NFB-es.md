@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'LOQI Van Gogh Almond Blossom Bag Bolso de Viaje  50 cm  15 Liters  Azul  Almond Blossom '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB17NFB/?tag=tolees-21'
 descuento: '20.08'
 average: '9.55'

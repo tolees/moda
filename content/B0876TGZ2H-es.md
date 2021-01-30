@@ -16,6 +16,7 @@ comparePrice: 30.67 EUR
 prodname: 'Bebé Mono Mameluco de Manga Larga Niños Niñas Body Peleles Pijama Regalo de Recien Nacido Dinosaurio  Blanco 3-6 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876TGZ2H/?tag=tolees-21'
 descuento: '41.34'
 average: '17.99'

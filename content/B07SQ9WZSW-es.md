@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Geox B Todo Girl B  Zapatillas para Bebés  Plateado  Silver/Aqua C1w4a   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQ9WZSW/?tag=tolees-21'
 descuento: '25.95'
 average: '38.5'

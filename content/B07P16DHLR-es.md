@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Vintage Logo Racer tee Camiseta  Rojo  Rouge Red Wa7   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P16DHLR/?tag=tolees-21'
 descuento: '71.25'
 average: '10.06'

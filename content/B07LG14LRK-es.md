@@ -16,6 +16,7 @@ comparePrice: 34.78 EUR
 prodname: 'Geox D New ANNYA B  Botines para Mujer  Negro  Black C9999   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG14LRK/?tag=tolees-21'
 descuento: '38.64'
 average: '30.675'

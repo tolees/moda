@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Cup Casuals tee Camiseta  Hombre  Blanco  Whisper White Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWVK278/?tag=tolees-21'
 descuento: '44.94'
 average: '16.49'

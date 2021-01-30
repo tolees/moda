@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Swiftwater Sandal Women  Sandalias de Punta Descubierta para Mujer  Naranja  Grapefruit/White 82q   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S976FGC/?tag=tolees-21'
 descuento: '51.99'
 average: '19.586666666666666'

@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Irish Sea Cool T2 0818   W36/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDHXFXT/?tag=tolees-21'
 descuento: '23.56'
 average: '88.61500000000001'

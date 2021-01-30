@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Freebily Vestido Elegante de Boda Fiesta Cóctel para Mujer Dama de Honor Vestido Largo Verano Blanco 44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KK7ZXH/?tag=tolees-21'
 descuento: '53.93'
 average: '23.49'

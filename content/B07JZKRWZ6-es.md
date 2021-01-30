@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Tommy Hilfiger Logo tee S/s Camiseta  Azul  Saxony Blue 491   95  Talla del Fabricante: 80  para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZKRWZ6/?tag=tolees-21'
 descuento: '59.96'
 average: '9.97'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Ultra Flex-Neon Star  Sandalias de Talón Abierto para Mujer  Morado  Mauve Gore/Mitobuck Trim MVE   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H68JGNF/?tag=tolees-21'
 descuento: '15.84'
 average: '42.04'

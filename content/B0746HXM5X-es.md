@@ -16,6 +16,7 @@ comparePrice: 23.17 EUR
 prodname: 'Vbiger Trineos de Snowboard Moto Ciclismo Guantes de Invierno Cálidos Impermeables Guantes Unisex  Rojo  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0746HXM5X/?tag=tolees-21'
 descuento: '26.85'
 average: '16.95'

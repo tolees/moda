@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Napapijri Rainforest Pocket  Chaqueta para Hombre  Negro  Black 041   XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0735BFJPQ/?tag=tolees-21'
 descuento: '49.37'
 average: '110.44'

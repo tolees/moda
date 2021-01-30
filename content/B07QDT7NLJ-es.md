@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA VCF Training Jersey Maillot  Hombre  White/Fizzy Orange  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDT7NLJ/?tag=tolees-21'
 descuento: '24.38'
 average: '33.99'

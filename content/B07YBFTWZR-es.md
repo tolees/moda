@@ -16,6 +16,7 @@ comparePrice: 29.8 EUR
 prodname: 'Vans Print Box Camiseta  Azul  Dress Blue Trap Floral Ykb   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBFTWZR/?tag=tolees-21'
 descuento: '31.17'
 average: '20.51'

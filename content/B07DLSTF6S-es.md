@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'SAMSONITE Kleur - Bailhandle for 14.1" Laptop 0.5 KG Bolso Bandolera  37 cm  9.5 Liters  Verde  Green/Dark Green '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLSTF6S/?tag=tolees-21'
 descuento: '49.17'
 average: '35.07'

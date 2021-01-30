@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Carry Falda   Garnet 284   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPV8HT/?tag=tolees-21'
 descuento: '40.00'
 average: '39.995000000000005'

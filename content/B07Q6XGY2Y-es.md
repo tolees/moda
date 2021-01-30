@@ -16,6 +16,7 @@ comparePrice: 14.6 EUR
 prodname: 'SALOMON Coton Logo SS tee M Camiseta Deportiva de Manga Corta  Algodón  Hombre  Azul  Poseidon   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q6XGY2Y/?tag=tolees-21'
 descuento: '18.15'
 average: '11.95'

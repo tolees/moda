@@ -16,6 +16,7 @@ comparePrice: 37.49 EUR
 prodname: 'IPOTCH 1/6 Chaqueta Cortavientos de Mangas Largas con Ciinturón Sombrero Fedora para Muñecas Marionetas 12  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083XZKDX2/?tag=tolees-21'
 descuento: '33.34'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 210 EUR
 prodname: 'Timberland 6 Inch Premium Waterproof  Botas para Mujer  Marrón  Rust Nubuck   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000V9OHBS/?tag=tolees-21'
 descuento: '38.15'
 average: '112.41999999999999'

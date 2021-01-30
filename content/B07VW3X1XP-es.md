@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Vaqueros  Dark Marine 37  31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VW3X1XP/?tag=tolees-21'
 descuento: '79.07'
 average: '18.83'

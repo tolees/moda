@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW ARC 3D Vaqueros  Authentic Faded Blue  31W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N18ZND6/?tag=tolees-21'
 descuento: '54.99'
 average: '44.99'

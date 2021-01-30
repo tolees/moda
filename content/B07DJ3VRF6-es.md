@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Myria B  Zapatillas para Mujer  Blanco  White C1001   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ3VRF6/?tag=tolees-21'
 descuento: '46.95'
 average: '52.725'

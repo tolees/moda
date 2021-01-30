@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Springfield 1.Gym.MD.Corto Cruzado Vestido  Multicolor  Multicolor 38   36  Tamaño del Fabricante: 36  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJBPNKD/?tag=tolees-21'
 descuento: '72.55'
 average: '9.88'

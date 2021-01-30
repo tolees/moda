@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Lacoste TH6709  Camiseta para Hombre  Azul  Electrique Z7z   2XL  Talla del fabricante: 7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNQYNXS/?tag=tolees-21'
 descuento: '34.64'
 average: '35.95'

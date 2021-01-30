@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'BILLABONG Tendencies Crew Sudadera  Hombre  Negro  Black 19   One Size  Tamaño del Fabricante: M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWKXZC6/?tag=tolees-21'
 descuento: '43.98'
 average: '25.21'

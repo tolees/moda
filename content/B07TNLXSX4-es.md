@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s Sportswear Logo Graphic Camiseta  Negro  Ssnl Sw Gradient Mineral Black 0031   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNLXSX4/?tag=tolees-21'
 descuento: '50.03'
 average: '14.99'

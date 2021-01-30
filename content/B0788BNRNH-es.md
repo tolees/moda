@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y Cinta Distintiva  Azul  Navy Blazer   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788BNRNH/?tag=tolees-21'
 descuento: '36.18'
 average: '50.99'

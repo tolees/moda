@@ -16,6 +16,7 @@ comparePrice: 150 EUR
 prodname: 'The North Face M Jacket Chaqueta Sangro  Hombre  Azul  Kodiak Blue lig   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB5TRDT/?tag=tolees-21'
 descuento: '45.73'
 average: '81.41'

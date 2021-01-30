@@ -16,6 +16,7 @@ comparePrice: 32.73 EUR
 prodname: 'Calvin Klein 2pk Tees Top de Pijama  Blanco  1white/1unique 0qy   14-15 años  Talla del Fabricante: 14-16  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLJCLS3/?tag=tolees-21'
 descuento: '69.94'
 average: '9.84'

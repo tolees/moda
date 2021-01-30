@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Zapatos Deporte Mujer Zapatillas Deportivas Correr Gimnasio Casual Zapatos para Caminar Mesh Running Transpirable Aumentar Más Altos Sneakers Negro Gris Morado Rojo 35-44 Gris 35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGLBF1R/?tag=tolees-21'
 descuento: '15.01'
 average: '20.790000000000003'

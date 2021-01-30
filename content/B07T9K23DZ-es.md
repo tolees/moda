@@ -16,6 +16,7 @@ comparePrice: 39.84 EUR
 prodname: 'Chubasquero Mujer Chaqueta Impermeable Abrigo Manga Larga Deporte Portable Seco RáPido Rompevientos con Capucha Azul-M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9K23DZ/?tag=tolees-21'
 descuento: '64.98'
 average: '14.93'

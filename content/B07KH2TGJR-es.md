@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour UA Rush Short Sleeve Camiseta  Hombre  Gris  Mod Gray/Onyx White 011   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KH2TGJR/?tag=tolees-21'
 descuento: '40.05'
 average: '32.97'

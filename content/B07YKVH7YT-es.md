@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Esprit 990ee1f310 Blusa  Azul  Navy 400   42  Talla del Fabricante: 40  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Esprit'
 buyurl: 'https://www.amazon.es/dp/B07YKVH7YT/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'SHOBDW Pantalones de Verano de Moda Pantalones Cortos Deportivos de Las Mujeres Cortos de la Yoga de la Cintura del Entrenamiento de la Cintura Flaca  S  Naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8TLL84/?tag=tolees-21'
 descuento: '50.03'
 average: '8.99'

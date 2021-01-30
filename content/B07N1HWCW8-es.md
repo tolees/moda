@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Sharon Noel  Zapatos de Cordones Derby para Mujer  Azul  Navy Suede Navy Suede   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HWCW8/?tag=tolees-21'
 descuento: '62.50'
 average: '26.23'

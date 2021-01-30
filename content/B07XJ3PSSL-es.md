@@ -16,6 +16,7 @@ comparePrice: 22.85 EUR
 prodname: 'Artesania Cerda Largo AC/DC Conjuntos de pijama  Gris  Gris 13   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJ3PSSL/?tag=tolees-21'
 descuento: '20.00'
 average: '18.28'

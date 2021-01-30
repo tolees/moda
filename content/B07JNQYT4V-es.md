@@ -16,6 +16,7 @@ comparePrice: 27.56 EUR
 prodname: 'HAWKERS -  Gafas de sol para hombre y mujer ONE   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNQYT4V/?tag=tolees-21'
 descuento: '24.53'
 average: '20.8'

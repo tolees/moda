@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Pepe Jeans Duff Chest Logo T Camiseta  Gris  Grey Marl 933   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGHTHC6/?tag=tolees-21'
 descuento: '40.69'
 average: '15.051666666666666'

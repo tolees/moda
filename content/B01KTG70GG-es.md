@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 712 Vaqueros Slim  Negro  Black Sheen 0001   W23/L34  Talla del Fabricante: 23 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KTG70GG/?tag=tolees-21'
 descuento: '59.78'
 average: '40.22'

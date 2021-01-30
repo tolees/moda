@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Levi s Bobbi Tank Camiseta Deportiva de Tirantes  Blanco  White + 0000   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K73PZWR/?tag=tolees-21'
 descuento: '15.28'
 average: '15.25'

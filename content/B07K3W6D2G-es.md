@@ -16,6 +16,7 @@ comparePrice: 11.04 EUR
 prodname: 'Fortnite Floss Dance - Camiseta  color gris oscuro  talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K3W6D2G/?tag=tolees-21'
 descuento: '54.71'
 average: '5.0'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Medium Indigo Aged 8968-6028  35W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCJDD5B/?tag=tolees-21'
 descuento: '34.98'
 average: '64.99'

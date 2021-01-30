@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'find. Vestido de Tirantes con Raya Ejecutiva para Mujer  Multicolor  Black/white   36  Talla del fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748PJVZN/?tag=tolees-21'
 descuento: '70.00'
 average: '9'

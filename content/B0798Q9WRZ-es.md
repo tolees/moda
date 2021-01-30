@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Tommy Loves NY Beach Sandal  Chanclas para Mujer  Negro  Black 990   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0798Q9WRZ/?tag=tolees-21'
 descuento: '29.77'
 average: '21.0'

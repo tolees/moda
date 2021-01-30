@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Trek Part  Sandalias de Talón Abierto para Hombre  Verde  Dark Olive Nubuck-   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQX2DVL/?tag=tolees-21'
 descuento: '41.05'
 average: '58.943333333333335'

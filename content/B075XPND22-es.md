@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Amaza Disfraz Años 80 Mujer Accesorios Guantes Calentadores Collares Pendientes Diademas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075XPND22/?tag=tolees-21'
 descuento: '47.45'
 average: '10.48'

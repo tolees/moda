@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Levi s 501 Original Fit Jeans Vaqueros  Azul  Snoot 2744   36W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K72ZGKT/?tag=tolees-21'
 descuento: '39.44'
 average: '59.95'

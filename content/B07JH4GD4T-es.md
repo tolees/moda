@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Eono Essentials - Chaqueta de esquí híbrida acolchada para hombre DuPont Sirona  negro  XXL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH4GD4T/?tag=tolees-21'
 descuento: '83.50'
 average: '6.6'

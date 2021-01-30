@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Desigual Dress LENCY Vestido  Negro  5074   38 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3Y9PLZ/?tag=tolees-21'
 descuento: '47.69'
 average: '36.25'

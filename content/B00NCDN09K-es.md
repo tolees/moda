@@ -16,6 +16,7 @@ comparePrice: 31.39 EUR
 prodname: 'La Camisa de Popelina de Camino de Mesa de poliéster de Lino  14 por 274 cm  Color Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NCDN09K/?tag=tolees-21'
 descuento: '28.29'
 average: '22.51'

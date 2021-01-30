@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Gant The Broadcloth Gingham Reg BD Camisa  Azul  Capri Blue 468   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP1T7CZ/?tag=tolees-21'
 descuento: '27.79'
 average: '64.98'

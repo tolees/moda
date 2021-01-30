@@ -16,6 +16,7 @@ comparePrice: 51.43 EUR
 prodname: 'Lee Luke Vaqueros  Nitrate VM  38W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRB3JQZ/?tag=tolees-21'
 descuento: '62.24'
 average: '19.42'

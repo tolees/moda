@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Desigual Padded Elysian Abrigo   Negro 2000   38  Talla del Fabricante: 36  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SMNTV9/?tag=tolees-21'
 descuento: '72.21'
 average: '49.5475'

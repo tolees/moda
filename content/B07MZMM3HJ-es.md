@@ -16,6 +16,7 @@ comparePrice: 12.48 EUR
 prodname: 'Pepe Jeans Kenth Camiseta   Ochre Orange 190   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZMM3HJ/?tag=tolees-21'
 descuento: '27.72'
 average: '9.355'

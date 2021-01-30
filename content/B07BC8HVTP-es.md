@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'AmzBarley Disfraz Traje de Princesa Niña Disfraz Vestido Niña Infantil Fiesta Manga Larga Ceremonia Boda Disfraz Pincesa Nieve para Halloween Baile  3-4 Años  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BC8HVTP/?tag=tolees-21'
 descuento: '50.01'
 average: '21.49'

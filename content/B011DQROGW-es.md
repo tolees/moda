@@ -16,6 +16,7 @@ comparePrice: 2.37 EUR
 prodname: 'Footful 1 Par de Profesional Protectores Punteras para Dedos de Pie Zapatos de Gel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011DQROGW/?tag=tolees-21'
 descuento: '15.61'
 average: '2.0'

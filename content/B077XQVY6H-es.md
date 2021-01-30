@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Rival Fleece Crew  Sudadera Hombre  Azul  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XQVY6H/?tag=tolees-21'
 descuento: '58.18'
 average: '21.296666666666667'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger Bikini con Inserción de Malla Braguitas con Cintura Elástica  Azul  Navy Blazer 416   32  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVM8Z5F/?tag=tolees-21'
 descuento: '34.72'
 average: '12.99'

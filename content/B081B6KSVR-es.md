@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Silver Ridge 2.0 Camisa de Manga Larga  Hombre  Azul  Mountain   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B6KSVR/?tag=tolees-21'
 descuento: '50.59'
 average: '33.940000000000005'

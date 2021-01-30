@@ -16,6 +16,7 @@ comparePrice: 309.0 EUR
 prodname: 'HUGO Alisters Chaqueta de Traje  Negro  Black 001   46  Talla del Fabricante: 44  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DH4GFK9/?tag=tolees-21'
 descuento: '57.65'
 average: '130.86'

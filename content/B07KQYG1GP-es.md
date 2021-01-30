@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'SALOMON Drifter Mid Jkt M Chaqueta Reversible  Hombre  Negro  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQYG1GP/?tag=tolees-21'
 descuento: '67.76'
 average: '56.79666666666667'

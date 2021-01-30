@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Helly Hansen HH Logo Camiseta Manga Corta  Hombre  White  4XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPXPFN/?tag=tolees-21'
 descuento: '35.03'
 average: '17.15222222222222'

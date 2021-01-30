@@ -16,6 +16,7 @@ comparePrice: 38.97 EUR
 prodname: 'AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Partido Rosado Circonita Cúbica Arco Rectángulo 1.2x2CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSRNJ6T/?tag=tolees-21'
 descuento: '61.53'
 average: '14.99'

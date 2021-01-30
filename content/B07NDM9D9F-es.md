@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 3301 High Waist Flare Vaqueros  Medium Aged 8968-071  25W / 36L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDM9D9F/?tag=tolees-21'
 descuento: '89.33'
 average: '12.8'

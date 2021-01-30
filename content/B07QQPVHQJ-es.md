@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'flintronic Billetera  Monedero para Hombres  RFID Billetera  Monedero de Cuero Genuino  2 ID Ventanas 10 Ranuras 3 Compartimientos  Incluye Cable USB Winder   Tarjetas Crédito Licencia de Conducir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQPVHQJ/?tag=tolees-21'
 descuento: '50.02'
 average: '12.99'

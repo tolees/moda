@@ -16,6 +16,7 @@ comparePrice: 28 EUR
 prodname: 'Under Armour HG Racer - Camiseta de Tirantes para Mujer  Mujer  1271765-291  Lime Fizz/Metallic Silver  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXVSB58/?tag=tolees-21'
 descuento: '65.46'
 average: '9.67'

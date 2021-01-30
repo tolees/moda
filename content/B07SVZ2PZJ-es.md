@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver Molokai Tijuana  Zapatos de Playa y Piscina para Hombre  Negro  Grey/Grey/Black Xssk   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVZ2PZJ/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

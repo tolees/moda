@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Joma Suez Pantalón  Hombre  Rojo  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HGP3E3M/?tag=tolees-21'
 descuento: '27.63'
 average: '14.585'

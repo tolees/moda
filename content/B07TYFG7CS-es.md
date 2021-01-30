@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'BOSS T-Shirt RN 24 Camiseta  Gris  Medium Grey 32   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYFG7CS/?tag=tolees-21'
 descuento: '54.52'
 average: '13.62'

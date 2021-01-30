@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Desigual TS_Barrie - Camiseta Niños  Azul  Navy 5000   6 años  Talla del Fabricante: 5/6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZK1RLS/?tag=tolees-21'
 descuento: '51.92'
 average: '16.94'

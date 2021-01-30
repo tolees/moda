@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Regent Vaqueros Skinny   Powerflex Dark Used Denim 000   W29/L32 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ56RV/?tag=tolees-21'
 descuento: '57.54'
 average: '40.34'

@@ -16,6 +16,7 @@ comparePrice: 4.16 EUR
 prodname: 'find. Camiseta para Mujer  Anaranjado / Coralino  Water Melon   38  Talle Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YYR2T7/?tag=tolees-21'
 descuento: '15.38'
 average: '3.52'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'BOSS Mix & Match T-Shirt R Camiseta  Negro  Black 001   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KK6VCT/?tag=tolees-21'
 descuento: '55.17'
 average: '17.91'

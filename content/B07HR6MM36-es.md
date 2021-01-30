@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES Jjitim Jjoriginal JJ 320 Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W28/L30 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HR6MM36/?tag=tolees-21'
 descuento: '59.99'
 average: '32.41333333333333'

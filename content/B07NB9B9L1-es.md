@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Esprit 049ee1k034 Camiseta  Blanco  Off White 110   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NB9B9L1/?tag=tolees-21'
 descuento: '49.91'
 average: '8.01'

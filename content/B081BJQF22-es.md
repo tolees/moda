@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Challenger  Chaqueta cortavientos  Hombre  Rojo/Negro  Carnelian Red/Shark   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BJQF22/?tag=tolees-21'
 descuento: '62.15'
 average: '26.49'

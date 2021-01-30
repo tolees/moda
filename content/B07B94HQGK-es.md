@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Core Stretch Slim Poplin Camisa  Azul  Shirt Blue 474   Medium  Talla del Fabricante: MD  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B94HQGK/?tag=tolees-21'
 descuento: '18.94'
 average: '62.185'

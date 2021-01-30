@@ -16,6 +16,7 @@ comparePrice: 19.11 EUR
 prodname: 'Tommy Hilfiger De Brooklyn Structure Short Flex Vaqueros Relaxed  Azul  Cobalt C65   W30/L30  Talla del Fabricante: NI30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTB9WRJ/?tag=tolees-21'
 descuento: '32.86'
 average: '12.83'

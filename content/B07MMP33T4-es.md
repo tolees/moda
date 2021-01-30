@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Rival Fleece Sportstyle Logo Jogger Pantalón  Hombre  Azul  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMP33T4/?tag=tolees-21'
 descuento: '68.65'
 average: '18.81'

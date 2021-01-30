@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'CASUAL FRIDAY 500924 Camisa  50003 Black  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WUBHDPC/?tag=tolees-21'
 descuento: '64.96'
 average: '17.447777777777777'

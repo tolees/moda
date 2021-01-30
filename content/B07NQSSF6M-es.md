@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Springfield 6Ba-Acolchada Cap Bas Chaqueta  Verde  Green 26   Small  Tamaño del Fabricante: S  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQSSF6M/?tag=tolees-21'
 descuento: '29.85'
 average: '35.07'

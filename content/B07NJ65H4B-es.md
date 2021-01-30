@@ -16,6 +16,7 @@ comparePrice: 13.36 EUR
 prodname: 'Springfield 4.2.J.T.Mesa Jacq Allover Jersey  Dorado  Dorado 97   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ65H4B/?tag=tolees-21'
 descuento: '44.76'
 average: '7.38'

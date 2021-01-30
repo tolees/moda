@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Michael Kors Bedford - Bolso para mujer  13 x 25 x 29 cm   color Multicolor  talla 13x25x29 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9TLTQ3/?tag=tolees-21'
 descuento: '59.38'
 average: '101.55'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Uvex Sportstyle 706 Gafas Deportivas  Unisex Adulto  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074QGVLMB/?tag=tolees-21'
 descuento: '63.80'
 average: '21.534444444444446'

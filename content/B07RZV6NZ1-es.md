@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Vapor Vent  Zapatos para Hombre  Azul  Pool/Red Quartz 421   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZV6NZ1/?tag=tolees-21'
 descuento: '35.00'
 average: '51.99'

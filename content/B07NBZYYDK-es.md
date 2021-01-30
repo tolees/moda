@@ -16,6 +16,7 @@ comparePrice: 13.6 EUR
 prodname: 'AURIQUE Side Stripe Cycling Pantalon Corto Ciclismo  Negro  Black   34  Taille Fabricant: XX-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBZYYDK/?tag=tolees-21'
 descuento: '41.18'
 average: '8.0'

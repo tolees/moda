@@ -16,6 +16,7 @@ comparePrice: 38.96 EUR
 prodname: 'Skechers D lites 2.0  Sandalias de Punta Descubierta para Mujer  Rojo  Red Eva Red   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSF2B4K/?tag=tolees-21'
 descuento: '48.13'
 average: '24.525000000000002'

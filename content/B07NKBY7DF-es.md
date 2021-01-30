@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'SALOMON Right Nice Mid Hoodie W Chaqueta Deportiva con Capucha  Poliéster/Lana  Mujer  Azul  Night Sky   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NKBY7DF/?tag=tolees-21'
 descuento: '52.97'
 average: '31.986666666666668'

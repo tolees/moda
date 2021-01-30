@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Oihxse Silicona Matorral Funda Compatible con iPhone 11 Pro Case Ultra Delgada Suave TPU Protector Carcasa Moda Linda Color Anti-Rasguño Caso Bumper Cover  Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VBPRLP/?tag=tolees-21'
 descuento: '56.32'
 average: '6.98'

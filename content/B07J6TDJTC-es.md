@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'ALPHA INDUSTRIES 178139-7-L Chaqueta  Azul  Rep.Blue 7   Large  Tamaño del Fabricante: L  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6TDJTC/?tag=tolees-21'
 descuento: '47.73'
 average: '78.36'

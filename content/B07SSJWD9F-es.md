@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Geox U Snake.2 A  Zapatillas para Hombre  Blanco  White/Lt Grey C1995   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSJWD9F/?tag=tolees-21'
 descuento: '64.53'
 average: '40.79'

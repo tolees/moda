@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Dk Aged 8466-89  27W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4NUXIC/?tag=tolees-21'
 descuento: '79.62'
 average: '24.44'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Margaret Camiseta   Mousse 808   13-14 años  Talla del Fabricante: 13/14 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZMB32Y/?tag=tolees-21'
 descuento: '58.19'
 average: '12.5'

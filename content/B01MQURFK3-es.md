@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Pendientes de Moda Rectángulo Largo Azul Gris y Púrpura para Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQURFK3/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

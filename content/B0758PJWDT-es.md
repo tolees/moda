@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Lafley Rosen  Sandalias de Talón Abierto para Mujer  Beige  Sand-   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758PJWDT/?tag=tolees-21'
 descuento: '49.96'
 average: '35.0'

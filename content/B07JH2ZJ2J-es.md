@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA ftblNXT Shirt Camiseta  Hombre  Azul  Bleu Azur/Red Blast   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH2ZJ2J/?tag=tolees-21'
 descuento: '66.65'
 average: '8.32'

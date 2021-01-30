@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'MTNG Levin  Bolso bandolera para Mujer  Negro  Lis Neg/Leop Cuero   6x15x19 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNJJG51/?tag=tolees-21'
 descuento: '28.29'
 average: '7.73'

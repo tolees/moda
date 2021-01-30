@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'PUMA Liga TR JSY Camiseta de Manga Corta  Hombre  Blanco  White/Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079XYKD7R/?tag=tolees-21'
 descuento: '30.81'
 average: '14.453333333333335'

@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Under Armour TAC Crew Base Camiseta  Hombre  Negro  Black/Black 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XK3B1W/?tag=tolees-21'
 descuento: '61.84'
 average: '22.494999999999997'

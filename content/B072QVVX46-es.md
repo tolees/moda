@@ -16,6 +16,7 @@ comparePrice: 51.23 EUR
 prodname: 'PHOENISING - Pantalón Corto - para Mujer Azul Azul Oscuro 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072QVVX46/?tag=tolees-21'
 descuento: '64.42'
 average: '18.313333333333333'

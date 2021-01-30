@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Calvin Klein Ckj 026: Slim  West Cut  Vaqueros  Azul  Copenhagen Black 911   W28/L34  Talla del Fabricante: 3428  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TR65HR9/?tag=tolees-21'
 descuento: '62.97'
 average: '41.245'

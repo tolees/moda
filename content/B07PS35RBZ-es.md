@@ -16,6 +16,7 @@ comparePrice: 72.55 EUR
 prodname: 'Panama Jack Meridian Basics  Sandalias Punta Cerrada para Hombre  Negro  Negro C3   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PS35RBZ/?tag=tolees-21'
 descuento: '33.91'
 average: '47.95'

@@ -16,6 +16,7 @@ comparePrice: 43.95 EUR
 prodname: 'Charles Wilson Original Sudadera de Hombre Algodón Premium Capucha Cremallera  XX-Large  Graphite  0819  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRSB133/?tag=tolees-21'
 descuento: '34.13'
 average: '28.95'

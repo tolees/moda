@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW CITI You High Waist Jegging Ankle Vaqueros Skinny  Negro  Jet Black Water pRojoected 9142-A840   24W / 36L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDN5YT2/?tag=tolees-21'
 descuento: '78.44'
 average: '28.02'

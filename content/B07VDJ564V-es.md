@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'edc by Esprit 099cc2g022 Chaqueta  Gris  Dark Grey 020   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDJ564V/?tag=tolees-21'
 descuento: '84.16'
 average: '20.59'

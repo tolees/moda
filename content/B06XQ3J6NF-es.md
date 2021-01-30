@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'Desigual TS_Leopard Degrade Camiseta  Gris  Gris Medio 2007   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQ3J6NF/?tag=tolees-21'
 descuento: '51.49'
 average: '17.44'

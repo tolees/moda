@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'GANT Stretch Oxford Banker Shirt Camisa  Azul  Nautical Blue   8  Talla del Fabricante: 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073S9YRY8/?tag=tolees-21'
 descuento: '50.05'
 average: '56.95666666666666'

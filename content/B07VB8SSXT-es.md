@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'REPLAY Anbass Vaqueros  Dark Blue C07  31W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB8SSXT/?tag=tolees-21'
 descuento: '52.37'
 average: '47.15'

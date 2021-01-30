@@ -16,6 +16,7 @@ comparePrice: 134.9 EUR
 prodname: 'Tommy Hilfiger Elevated Leather Heeled Sandal  Sandalias con Plataforma para Mujer  Blanco  Whisper White 121   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3GP5CN/?tag=tolees-21'
 descuento: '74.17'
 average: '39.83'

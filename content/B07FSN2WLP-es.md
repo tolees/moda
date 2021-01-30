@@ -16,6 +16,7 @@ comparePrice: 119.82 EUR
 prodname: 'Rockport Dress Sport 2 Fast FLT Plain Toe  Zapatos de Cordones Derby para Hombre  Negro  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSN2WLP/?tag=tolees-21'
 descuento: '70.26'
 average: '35.63'

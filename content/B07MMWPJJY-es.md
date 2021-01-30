@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Wrangler Jacket Chaqueta Bomber  Azul  Navy 114   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWPJJY/?tag=tolees-21'
 descuento: '65.39'
 average: '51.9'

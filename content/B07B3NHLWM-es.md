@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Timberland Perkins Row  Toddler   Sandalias de Punta Descubierta Unisex-Niños  Azul Bright Blue Webbing  30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B3NHLWM/?tag=tolees-21'
 descuento: '37.80'
 average: '27.99'

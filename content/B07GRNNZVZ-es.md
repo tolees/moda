@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA ESS Small Logo Camiseta  Hombre  Medium Gray Heather  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRNNZVZ/?tag=tolees-21'
 descuento: '27.62'
 average: '14.44'

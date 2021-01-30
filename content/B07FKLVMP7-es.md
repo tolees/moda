@@ -16,6 +16,7 @@ comparePrice: 80.9 EUR
 prodname: 'find. Fur Lined Hiker Zapatos de Low Rise Senderismo  Negro Black  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKLVMP7/?tag=tolees-21'
 descuento: '53.13'
 average: '37.92'

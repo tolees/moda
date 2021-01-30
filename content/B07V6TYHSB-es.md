@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Billabong Dunes Resistance  Chanclas para Hombre  Negro  Black 19   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6TYHSB/?tag=tolees-21'
 descuento: '60.00'
 average: '12.0'

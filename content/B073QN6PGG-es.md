@@ -16,6 +16,7 @@ comparePrice: 47.25 EUR
 prodname: 'find.  Chaqueta de Leñador para Hombre  Verde  Grün   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QN6PGG/?tag=tolees-21'
 descuento: '61.90'
 average: '19.333333333333332'

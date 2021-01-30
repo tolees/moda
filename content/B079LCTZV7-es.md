@@ -16,6 +16,7 @@ comparePrice: 55.28 EUR
 prodname: 'Lacoste TH6709  Camiseta para Hombre  Azul  Bleu 001   5XL  Talla del fabricante: 10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079LCTZV7/?tag=tolees-21'
 descuento: '36.70'
 average: '33.22'

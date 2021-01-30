@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Relojes para Hombres  Moda Reloj de Cuarzo Reloj de Pulsera de Cuero LIGE Analógico Cronógrafo Negocio Reloje Impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRHYJNM/?tag=tolees-21'
 descuento: '70.01'
 average: '29.99'

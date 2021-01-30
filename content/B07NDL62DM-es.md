@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Graphic 17 Loose V-Neck Camiseta  Azul  Imperial Blue 1305   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL62DM/?tag=tolees-21'
 descuento: '50.01'
 average: '19.97'

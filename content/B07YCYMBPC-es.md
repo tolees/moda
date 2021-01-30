@@ -16,6 +16,7 @@ comparePrice: 144 EUR
 prodname: 'Carrera 213 003 52 - Gafas de ventisca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCYMBPC/?tag=tolees-21'
 descuento: '24.13'
 average: '109.25'

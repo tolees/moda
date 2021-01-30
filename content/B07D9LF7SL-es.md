@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 501 Crop Vaqueros Boyfriend  Gris  Dancing In The Dark 0014   29W / 26L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9LF7SL/?tag=tolees-21'
 descuento: '41.25'
 average: '70.68333333333332'

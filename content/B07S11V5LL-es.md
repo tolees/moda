@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only Frsfalcon Zip Hood Sweat-Unit Sudadera con Capucha de Deporte  Azul  Navy Blazer Navy Blazer   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S11V5LL/?tag=tolees-21'
 descuento: '75.64'
 average: '9.74'

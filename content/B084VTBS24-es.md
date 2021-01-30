@@ -16,6 +16,7 @@ comparePrice: 33.21 EUR
 prodname: 'Zapatos para Mujer Tacon Alto Aguja Primavera 2020 Sexy LuckyGirs Sandalias de Mujer Plataforma Cuña Verano Fiesta Zapatos Mujer Vestir Elegante Comodos con Correa de Tobillo 35-41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084VTBS24/?tag=tolees-21'
 descuento: '51.16'
 average: '16.22'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjimike Jjoriginal Am 816 Vaqueros Relaxed  Negro  Black Denim Black Denim   W30/L34  Talla del Fabricante: 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM9T56K/?tag=tolees-21'
 descuento: '59.99'
 average: '16.0'

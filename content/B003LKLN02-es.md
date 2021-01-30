@@ -16,6 +16,7 @@ comparePrice: 32.49 EUR
 prodname: 'Kempa Pantalón Aspire Web  Todo el año  Unisex  Color Negro/Blanco  tamaño XXS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003LKLN02/?tag=tolees-21'
 descuento: '56.94'
 average: '17.63285714285714'

@@ -16,6 +16,7 @@ comparePrice: 84.9 EUR
 prodname: 'Fluchos Luca  Zapatos de Cordones Derby para Hombre  Marrón  Castaño 000   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JGWYFM/?tag=tolees-21'
 descuento: '45.45'
 average: '46.31'

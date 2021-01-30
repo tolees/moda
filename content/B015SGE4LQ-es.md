@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Multicolor  Red   43/44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015SGE4LQ/?tag=tolees-21'
 descuento: '37.28'
 average: '16.308571428571426'

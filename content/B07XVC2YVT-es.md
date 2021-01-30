@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Geographical Norway Sudadera Mujer GYMCLASS B Azul Marino XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVC2YVT/?tag=tolees-21'
 descuento: '30.00'
 average: '31.2'

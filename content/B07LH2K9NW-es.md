@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'Gafas con Filtro Anti Luz Azul para Ordenador. Gafas de Presbicia o Lectura para Hombre y Mujer. Tacto Goma  Patillas Flexibles y Cristales Anti-reflejantes. Indigo +1.5 – UFFIZI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LH2K9NW/?tag=tolees-21'
 descuento: '35.99'
 average: '24.9'

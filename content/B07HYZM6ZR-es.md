@@ -16,6 +16,7 @@ comparePrice: 8.27 EUR
 prodname: 'Amazon Essentials 6-Pack Cotton Bikini Underwear  Valentines  US XXL  EU 3XL-4XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYZM6ZR/?tag=tolees-21'
 descuento: '22.13'
 average: '6.44'

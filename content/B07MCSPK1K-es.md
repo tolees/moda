@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri BIBU H Sudadera con Capucha  Gris  Med Grey Mel 160   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPK1K/?tag=tolees-21'
 descuento: '60.00'
 average: '39.6'

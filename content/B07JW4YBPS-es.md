@@ -16,6 +16,7 @@ comparePrice: 130 EUR
 prodname: 'Hackett London Tie Placket Oxford Camisa  Blanco  White 800   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW4YBPS/?tag=tolees-21'
 descuento: '28.84'
 average: '92.51'

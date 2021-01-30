@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Marca Amazon - find. Camiseta con Cuello Redondo Mujer  Negro  Schwarz   42  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071W88TYP/?tag=tolees-21'
 descuento: '70.00'
 average: '6.0'

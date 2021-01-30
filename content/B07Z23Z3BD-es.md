@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Vans Spicoli Flat Shades Gafas de Sol  Morado  Fuchsia Purple   50.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z23Z3BD/?tag=tolees-21'
 descuento: '27.73'
 average: '10.84'

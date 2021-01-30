@@ -16,6 +16,7 @@ comparePrice: 18.84 EUR
 prodname: 'Only Onlnorth Nylon Jacket CC Otw Chaqueta  Azul  Detalle del Cielo Menor   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSJQ5Y8/?tag=tolees-21'
 descuento: '20.81'
 average: '18.57333333333333'

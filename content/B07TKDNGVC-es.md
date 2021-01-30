@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s SS Battery Hm Slim Camisa  Azul  Riverside Garment Dyed 0003   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKDNGVC/?tag=tolees-21'
 descuento: '51.00'
 average: '24.5'

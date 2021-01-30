@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Havaianas Slim Chanclas Mujer  Oro  SandGrey/Light Golden   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002A6WWC6/?tag=tolees-21'
 descuento: '26.06'
 average: '16.32857142857143'

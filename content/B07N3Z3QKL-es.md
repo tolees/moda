@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Desigual T-Shirt Daryl Camiseta  Blanco  Crudo 1001   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3Z3QKL/?tag=tolees-21'
 descuento: '60.67'
 average: '23.58'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband  Zuecos con Correa Unisex Adulto  Azul  Navy   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002JCSSZQ/?tag=tolees-21'
 descuento: '34.74'
 average: '29.54'

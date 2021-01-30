@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Timberland Bradstreet Plain Toe Sensorflex  Zapatos de Cordones Oxford para Hombre  Marrón  Rust Nubuck   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T6MTDVK/?tag=tolees-21'
 descuento: '50.00'
 average: '65.0'

@@ -16,6 +16,7 @@ comparePrice: 25.69 EUR
 prodname: 'NNJXD Vestido de Fiesta de Princesa con Encaje de Flor de 3D sin Mangas para Niñas Talla 130  4-5 Años Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015KSUJAW/?tag=tolees-21'
 descuento: '37.76'
 average: '15.553636363636363'

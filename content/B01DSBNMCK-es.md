@@ -16,6 +16,7 @@ comparePrice: 13.88 EUR
 prodname: 'Minions - Camiseta de Manga Corta - para niño Azul Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DSBNMCK/?tag=tolees-21'
 descuento: '36.24'
 average: '8.85'

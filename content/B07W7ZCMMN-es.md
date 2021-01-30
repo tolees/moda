@@ -16,6 +16,7 @@ comparePrice: 9.72 EUR
 prodname: 'Jack & Jones Jcofranklin Sweat Hood Sudadera con Capucha  Multicolor  Sky Captain Detail: Melange/JJ Print   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7ZCMMN/?tag=tolees-21'
 descuento: '15.53'
 average: '8.973999999999998'

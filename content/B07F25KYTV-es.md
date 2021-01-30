@@ -16,6 +16,7 @@ comparePrice: 4.34 EUR
 prodname: 'Amazon Essentials – Camisa Oxford de manga corta de corte recto para hombre  Gris  Grey Stripe Gre   US S  EU S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F25KYTV/?tag=tolees-21'
 descuento: '21.89'
 average: '3.39'

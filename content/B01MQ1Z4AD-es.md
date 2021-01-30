@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste Sport SH7609 Sudadera con Capucha  Azul  Marine/Argent Chine   Small  Talla del Fabricante: 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQ1Z4AD/?tag=tolees-21'
 descuento: '30.00'
 average: '68.16499999999999'

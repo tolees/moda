@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta  Gris  Peat Peat   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TC68XS3/?tag=tolees-21'
 descuento: '61.30'
 average: '13.875'

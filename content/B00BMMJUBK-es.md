@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Dublin B  Zapatos de Vestir para Hombre  Negro  BLACKC9999   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BMMJUBK/?tag=tolees-21'
 descuento: '38.67'
 average: '55.625'

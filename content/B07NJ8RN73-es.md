@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Springfield 2.Zodiaco Rosa Camiseta  Multicolor  Multicolor 72   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ8RN73/?tag=tolees-21'
 descuento: '59.74'
 average: '5.23'

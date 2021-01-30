@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Track Top LS HWK Sudadera  Gris  Grey Heather 004   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788CGDN8/?tag=tolees-21'
 descuento: '35.64'
 average: '44.99'

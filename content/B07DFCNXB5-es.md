@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'URAQT Bolsos de Mujer  Bolso Señora Tote Baratos  PU Piel Bolso de Hombro Mujers del Trabajo  Diario Vida y Vacaciones  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFCNXB5/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

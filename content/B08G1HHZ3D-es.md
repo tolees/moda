@@ -16,6 +16,7 @@ comparePrice: 22.6 EUR
 prodname: 'Ocobudbxw Moda Mujer Lona Crossbody Messenger Cremallera Bolsos de Hombro Estudiantes Bolsos Escolares Bolsos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G1HHZ3D/?tag=tolees-21'
 descuento: '50.00'
 average: '11.3'

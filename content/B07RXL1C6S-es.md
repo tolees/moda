@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Relaxed Graphic tee Camiseta  Gris  90 s Serif Logo Forged Iron 0045   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXL1C6S/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

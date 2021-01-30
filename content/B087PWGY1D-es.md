@@ -16,6 +16,7 @@ comparePrice: 54.98 EUR
 prodname: 'Mediffen Mujer Elegante Tacón De Aguja Tacón Alto Punta Abierta Cierre De Tobillo Fiesta Sandalias Noche Vestido Moda Verano Sandalias Morado Talla 48 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PWGY1D/?tag=tolees-21'
 descuento: '50.91'
 average: '26.99'

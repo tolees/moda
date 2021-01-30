@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Roxy Portofino  Zapatos de Playa y Piscina para Mujer  Multicolor  Black/Gold Bg3   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STWTJ4J/?tag=tolees-21'
 descuento: '50.02'
 average: '12.99'

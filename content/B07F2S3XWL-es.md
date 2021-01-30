@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Helly Hansen HP Racing Prueba De Viento Y Respirable Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Mujer  Navy  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2S3XWL/?tag=tolees-21'
 descuento: '42.28'
 average: '86.58'

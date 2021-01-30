@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ZIGJOY Strangers TV Camiseta Unisex Camiseta Top One Summer Can Change Everything 14449-PB-XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T54WVY9/?tag=tolees-21'
 descuento: '53.35'
 average: '13.99'

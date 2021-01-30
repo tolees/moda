@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Pepe Jeans Neana Sudadera   Sailor 580   3-4 años  Talla del Fabricante: 3/4 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQJMLT/?tag=tolees-21'
 descuento: '62.04'
 average: '18.94'

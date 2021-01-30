@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'REPLAY Jondrill Vaqueros Skinny  Negro  Black 98   W31/L32  Talla del Fabricante: 31  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077K5HFD3/?tag=tolees-21'
 descuento: '36.31'
 average: '44.55'

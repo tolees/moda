@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'KATOOM Zapatilla fregona 3 Pares Limpiar Polvo Microfibra Zapatilla con 15pcs Zapato de Funda desechable de Zapatilla mopa casa o'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWZNRF6/?tag=tolees-21'
 descuento: '40.12'
 average: '11.303333333333335'

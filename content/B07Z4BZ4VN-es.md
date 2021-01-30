@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Azul  Blue Heaven Detail: Slim   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4BZ4VN/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

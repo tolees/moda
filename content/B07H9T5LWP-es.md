@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Litthing Sujetador Invisible Slim fit sin Anillo de Acero Chaleco para Mujer la combinación de Ropa Interior Femenina  Heart Negro Color de Piel  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9T5LWP/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

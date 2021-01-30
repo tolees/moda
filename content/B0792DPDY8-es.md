@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Arethea B  Mocasines para Mujer  Negro  Black C9999   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792DPDY8/?tag=tolees-21'
 descuento: '50.00'
 average: '54.95'

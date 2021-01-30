@@ -16,6 +16,7 @@ comparePrice: 7.19 EUR
 prodname: 'COMVIP Bebé niña Resbalón Anti del algodón elástico de Dibujos Animados Zapatos Zapatilla niño Asia 11: 10 cm de Longitud Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07798MPHJ/?tag=tolees-21'
 descuento: '37.55'
 average: '4.49'

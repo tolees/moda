@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Originals Adilette  Zapatos de Playa y Piscina Unisex Adulto  Blanco  White/Black/White   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002CT42SI/?tag=tolees-21'
 descuento: '65.67'
 average: '12.0'

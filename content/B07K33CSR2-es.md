@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'BOSS Ivelna  vestido Mujer  Azul  Medium Blue 422   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K33CSR2/?tag=tolees-21'
 descuento: '50.22'
 average: '109.85'

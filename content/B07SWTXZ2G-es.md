@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Sukie B  Zapatillas para Mujer  Gris  Lt Grey C1010   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTXZ2G/?tag=tolees-21'
 descuento: '56.29'
 average: '43.67'

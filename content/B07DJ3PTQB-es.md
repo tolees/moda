@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D Annytah D  Bailarinas para Mujer  Blanco  White C1000   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ3PTQB/?tag=tolees-21'
 descuento: '32.00'
 average: '61.13'

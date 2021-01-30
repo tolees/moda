@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Crocband Clog Kids  Zuecos Unisex Niños  Morado  Lavender/Neon Purple 5p8   29/30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPC1PYY/?tag=tolees-21'
 descuento: '32.04'
 average: '21.74'

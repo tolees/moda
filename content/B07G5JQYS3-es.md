@@ -16,6 +16,7 @@ comparePrice: 9.89 EUR
 prodname: 'find. 2 Pack Slim Shirt - Camisa Hombre  Multicolor  Contrast Charcoal With Black / White   42 cm  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5JQYS3/?tag=tolees-21'
 descuento: '20.02'
 average: '7.91'

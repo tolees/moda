@@ -16,6 +16,7 @@ comparePrice: 123.31 EUR
 prodname: 'Tous K Mini  Bolso de Mano para Mujer   Beige 795900418   29x20x13 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P935RRG/?tag=tolees-21'
 descuento: '29.55'
 average: '86.87'

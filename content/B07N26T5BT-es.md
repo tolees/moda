@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'edc by Esprit 039cc2k024 Camiseta  Azul  Navy 2 401   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N26T5BT/?tag=tolees-21'
 descuento: '69.86'
 average: '4.82'

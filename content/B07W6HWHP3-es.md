@@ -16,6 +16,7 @@ comparePrice: 7.06 EUR
 prodname: 'Tom Tailor Doppelpack Basic T-Shirt Camiseta  Azul  Real Navy Blue 10360   M  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6HWHP3/?tag=tolees-21'
 descuento: '15.16'
 average: '6.756666666666667'

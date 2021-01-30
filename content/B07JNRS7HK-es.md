@@ -16,6 +16,7 @@ comparePrice: 6.56 EUR
 prodname: 'Amazon Essentials - Vestido largo de manga corta para mujer  Burgundy  US S  EU S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNRS7HK/?tag=tolees-21'
 descuento: '15.85'
 average: '5.52'

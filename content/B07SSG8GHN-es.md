@@ -16,6 +16,7 @@ comparePrice: 55.97 EUR
 prodname: 'adidas Real Madrid Home Jersey Camiseta de Manga Corta  Unisex Adulto  Blanco  White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSG8GHN/?tag=tolees-21'
 descuento: '28.57'
 average: '48.114999999999995'

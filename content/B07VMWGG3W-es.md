@@ -16,6 +16,7 @@ comparePrice: 80.87 EUR
 prodname: 'Tommy Hilfiger TH Essential Shirt LS W2 Camisa  Azul  Yd Web STP/Copenhagen Blue 0x5   90  Talla del Fabricante: 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMWGG3W/?tag=tolees-21'
 descuento: '77.02'
 average: '18.58'

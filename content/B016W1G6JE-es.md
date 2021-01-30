@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Tommy Hilfiger 2P Tank Camiseta  blanco  blanco 100   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016W1G6JE/?tag=tolees-21'
 descuento: '39.42'
 average: '20.64333333333333'

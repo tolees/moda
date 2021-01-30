@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Geox D Sozy E  Sandalias de Gladiador para Mujer  Amarillo  Ochre/Dk Skin C2q5q   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSK2ZQQ/?tag=tolees-21'
 descuento: '72.05'
 average: '20.404999999999998'

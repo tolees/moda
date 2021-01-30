@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'Hombres Bombardero Vuelo Piloto Chaqueta de Cuero Manga Larga Cómodo Marrón L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6BH65R/?tag=tolees-21'
 descuento: '15.50'
 average: '59.99'

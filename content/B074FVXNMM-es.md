@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'find. Sudadera con Capucha y Detalle Bordado para Hombre  Azul  Navy   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FVXNMM/?tag=tolees-21'
 descuento: '52.38'
 average: '9.0'

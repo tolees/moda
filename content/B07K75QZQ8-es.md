@@ -16,6 +16,7 @@ comparePrice: 88.86 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Tissue  31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K75QZQ8/?tag=tolees-21'
 descuento: '55.50'
 average: '41.43666666666667'

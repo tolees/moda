@@ -16,6 +16,7 @@ comparePrice: 19.41 EUR
 prodname: 'EKU FASHION - Camiseta - para bebé niño Azul Azul 5T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J0P1T3C/?tag=tolees-21'
 descuento: '81.30'
 average: '3.63'

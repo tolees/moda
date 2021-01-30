@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Delamar L  Chanclas para Hombre  Negro  R Black 159 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFYMJJ2/?tag=tolees-21'
 descuento: '32.04'
 average: '16.99'

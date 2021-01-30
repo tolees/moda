@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Merrell - sandalias de Cuero mujer  Negro  BLACK   39 EU  6 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YDIU6L8/?tag=tolees-21'
 descuento: '30.59'
 average: '59.663333333333334'

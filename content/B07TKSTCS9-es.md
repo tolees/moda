@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Palma Vibe  Sandalias de Talón Abierto para Mujer  Gris  Taupe Leather Taupe Leather   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKSTCS9/?tag=tolees-21'
 descuento: '67.14'
 average: '36.15'

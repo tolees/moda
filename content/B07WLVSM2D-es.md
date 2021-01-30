@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bolso Redondo de la Paja Mujeres  Funda Grandes Flores Durchb Raya Webart  Bolsos de Bandolera Verano Hecho a Mano Totes de Playa Ratán Tejidas a Mano Para Estilo Boho Para Viajes  Fechas y Vacaciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLVSM2D/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

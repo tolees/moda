@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Vero Moda Vmexcursion Expedition Aw193/4parka Noos Abrigo  Gris  Medium Grey Melange Medium Grey Melange   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSLBG4D/?tag=tolees-21'
 descuento: '50.91'
 average: '27.023333333333333'

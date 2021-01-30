@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'REPLAY M3846 .000.2660 Camiseta  Verde  Dark Green 839   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8WHBNG/?tag=tolees-21'
 descuento: '60.14'
 average: '14.8'

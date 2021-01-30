@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'The North Face Jacket Chaqueta Trevail  Mujer  Negro  TNF Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XX7SCM/?tag=tolees-21'
 descuento: '45.24'
 average: '131.96333333333334'

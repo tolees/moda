@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Polaroid PLD 6062/S Gafas de sol  Multicolor  Havgreen   57 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJCFN18/?tag=tolees-21'
 descuento: '33.07'
 average: '36.81'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Superdry Colour Block Track Jacket  Chaqueta Mujer  Multicolor  Off White 71d   44  Talla fabricante: XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P19WDVF/?tag=tolees-21'
 descuento: '64.59'
 average: '35.41'

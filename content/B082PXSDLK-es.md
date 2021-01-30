@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Star Wars Jedi Master T-Shirt Top de Manga Corta Alrededor de Star Wars TV Series Star Wars Cute Star Wars Camiseta de Manga Corta para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PXSDLK/?tag=tolees-21'
 descuento: '18.28'
 average: '17.97'

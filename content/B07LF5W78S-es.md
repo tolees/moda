@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 501 Fit Jeans Pantalón vaquero para hombre con diseño clásico original y cómodos de usar  Azul  Ironwood Overt 2920   50W / 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF5W78S/?tag=tolees-21'
 descuento: '65.29'
 average: '34.71'

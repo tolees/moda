@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'MerCie Joyeria de creación Artesanal de Juguete | 1800 Azulejos y Conectores para Crear Joyas  Accesorios de Moda  Ropa de muñecas y más | Juego de Novedad para Chicas 6 7 8 9 10+ años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD9DBMY/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Theo Camiseta  Azul  Old Navy 584   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWX7GGW/?tag=tolees-21'
 descuento: '52.17'
 average: '12.44'

@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Kickers Oxfork  Zapatos de Cordones Derby para Mujer  Rojo  Bordeaux Perm 18   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBQX5FV/?tag=tolees-21'
 descuento: '81.51'
 average: '22.0'

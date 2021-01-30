@@ -16,6 +16,7 @@ comparePrice: 9.88 EUR
 prodname: 'Marca Amazon - MERAKI Shorts de Lino Mujer  Negro  Black   36  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPX5W1T/?tag=tolees-21'
 descuento: '18.02'
 average: '8.1'

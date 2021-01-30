@@ -16,6 +16,7 @@ comparePrice: 12.28 EUR
 prodname: 'find. High Point Botines  Rojo  Burgundy Croc   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R59SG5S/?tag=tolees-21'
 descuento: '17.51'
 average: '10.13'

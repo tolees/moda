@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Levi s Essential Western Blusa  Negro  Black Sheen  2  0004   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXFD5SZ/?tag=tolees-21'
 descuento: '55.06'
 average: '35.95'

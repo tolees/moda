@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas D2m 3s Pant Pantalón de Deporte  Mujer  Negro Black/White   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKY7MR4/?tag=tolees-21'
 descuento: '23.96'
 average: '37.98'

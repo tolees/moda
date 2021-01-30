@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Quiksilver Get Buzzy Hoody Men Sudadera con Capucha  Hombre  Azul  Sky Captain   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCHD5CH/?tag=tolees-21'
 descuento: '42.46'
 average: '34.52'

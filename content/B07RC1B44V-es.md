@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Charles Wilson Pantalón Vaquero Lavado Ajuste Estrecho  38" Waist / 31" Leg  Dark Wash '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC1B44V/?tag=tolees-21'
 descuento: '45.52'
 average: '17.95'

@@ -16,6 +16,7 @@ comparePrice: 12.47 EUR
 prodname: 'Marca Amazon - AURIQUE Contrast Panels BAL004  Mallas de entrenamiento Mujer  Rojo  Dhalia/Negro   42  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRCXYXQ/?tag=tolees-21'
 descuento: '28.23'
 average: '8.95'

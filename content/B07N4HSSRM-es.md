@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Tommy Hilfiger Essential Hoodie Sweatdress Sudadera Vestido  Gris  Grey Pz2   116  Talla del Fabricante: 6  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4HSSRM/?tag=tolees-21'
 descuento: '42.30'
 average: '37.45'

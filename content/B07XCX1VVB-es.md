@@ -16,6 +16,7 @@ comparePrice: 32.39 EUR
 prodname: 'Jersey De Hombre Sudadera con Capucha De La Camiseta con Capucha NBA Lakers 8# Kobe Bryant Cómoda Camiseta Deportiva T-Shirt De Baloncesto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCX1VVB/?tag=tolees-21'
 descuento: '22.82'
 average: '25.0'

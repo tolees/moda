@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Coronel Tapiocca  Bolso bandolera hombre Long Red  Azul  25x21x4 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWP21SV/?tag=tolees-21'
 descuento: '46.18'
 average: '18.83'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Lee Crew Sws  Sudadera para Hombre  Negro  Black TT01   XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N19L5LG/?tag=tolees-21'
 descuento: '70.28'
 average: '23.9'

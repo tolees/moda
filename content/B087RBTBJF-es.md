@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'ELEEMEE Mujer Moda Tacón Alto Verano Zapatos Tacón Pequeno Sandalias Correa de Tobillo White Size 48 Asian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RBTBJF/?tag=tolees-21'
 descuento: '50.01'
 average: '23.99'

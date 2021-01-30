@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Geox J KURAY Boy B ABX B  Botas de Nieve para Niños  Azul  Navy/Royal C4226   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM22C8P/?tag=tolees-21'
 descuento: '50.00'
 average: '34.95'

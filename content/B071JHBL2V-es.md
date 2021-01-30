@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Marca Amazon - find. Calcetines Hombre  Pack de 7  Blanco  Weiß   39-43.5 EU  Label: 6-9.5 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JHBL2V/?tag=tolees-21'
 descuento: '16.92'
 average: '13.21'

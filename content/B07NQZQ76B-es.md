@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Classics Logo Hoody TR Sudadera  Hombre  Medium Gray Heather  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQZQ76B/?tag=tolees-21'
 descuento: '53.59'
 average: '27.82'

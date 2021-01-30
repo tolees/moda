@@ -16,6 +16,7 @@ comparePrice: 13.48 EUR
 prodname: 'Jack & Jones Jorpex Sweat Hood Sudadera con Capucha  Flan  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YTQQJ4/?tag=tolees-21'
 descuento: '20.77'
 average: '10.68'

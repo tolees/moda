@@ -16,6 +16,7 @@ comparePrice: 18.91 EUR
 prodname: 'Geox J Alonisso Boy E  Zapatillas para Niños  Gris  Grey/Yellow C0030   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVP2GKX/?tag=tolees-21'
 descuento: '23.90'
 average: '14.39'

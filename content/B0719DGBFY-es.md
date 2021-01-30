@@ -16,6 +16,7 @@ comparePrice: 7.88 EUR
 prodname: 'find. Camiseta Estampada para Hombre  Negro  Charcoal   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719DGBFY/?tag=tolees-21'
 descuento: '42.89'
 average: '4.5'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Birkenstock 51703 - Sandalias con hebilla unisex  color marrón  talla 39  estrecho '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MSWZCG/?tag=tolees-21'
 descuento: '36.49'
 average: '47.63'

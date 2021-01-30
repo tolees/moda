@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Nanete Sudadera  Azul  Blue 551   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQVJ41/?tag=tolees-21'
 descuento: '40.00'
 average: '33.0'

@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Nike Kawa Shower  Chanclas Hombre  Negro  Black/White   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N55OZOT/?tag=tolees-21'
 descuento: '18.23'
 average: '20.479999999999997'

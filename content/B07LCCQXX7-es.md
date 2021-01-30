@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only Onlnew Skylar Spring Jacket CC OTW Chaqueta  Rosa Rose Wine  36  Talla del Fabricante: XS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LCCQXX7/?tag=tolees-21'
 descuento: '71.64'
 average: '11.34'

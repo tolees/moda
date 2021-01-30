@@ -16,6 +16,7 @@ comparePrice: 14.76 EUR
 prodname: 'Marca Amazon - find. Vaqueros Ceñidos con Bajo Elástico Hombre  Azul  Dark Wash   34W / 32L  Label: 34W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKT6F6G/?tag=tolees-21'
 descuento: '31.10'
 average: '10.17'

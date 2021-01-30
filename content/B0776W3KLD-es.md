@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Adidas Terrex Swift R2  Zapatos de Low Rise Senderismo para Hombre  Negro  Negbas 000   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776W3KLD/?tag=tolees-21'
 descuento: '31.65'
 average: '81.99'

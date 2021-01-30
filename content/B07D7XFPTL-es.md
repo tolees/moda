@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Charles Wilson Camisa Original Manga Larga Cuadros para Hombre  Small  Dark Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7XFPTL/?tag=tolees-21'
 descuento: '62.95'
 average: '12.95'

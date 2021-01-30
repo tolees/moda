@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'JACK & JONES Jcoalu Jacket Noos Chaqueta  Gris  Light Grey Melange Light Grey Melange   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J29S7GG/?tag=tolees-21'
 descuento: '69.99'
 average: '18'

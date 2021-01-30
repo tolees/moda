@@ -16,6 +16,7 @@ comparePrice: 47.97 EUR
 prodname: 'AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Boda Azul Citrina Redondo Curva Líneas 1.8x1.8CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSR1JHD/?tag=tolees-21'
 descuento: '64.58'
 average: '16.99'

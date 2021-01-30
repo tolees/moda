@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Timberland Dausette Low  Zapatillas Altas para Mujer  Negro  Black Full Grain   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGQFTQY/?tag=tolees-21'
 descuento: '45.45'
 average: '60.0'

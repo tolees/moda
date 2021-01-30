@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Aiboria Pijama Mujer Seda Verano Cortos 2 Piezas sin Mangas Suave  Ropa Mujer Pijama Mujer Verano Corto Regalos para Mujer Adolescentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0887RR8ZC/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

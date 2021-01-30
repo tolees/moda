@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Wrangler Logo tee Camiseta  Azul  Navy 114   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5DYPFT/?tag=tolees-21'
 descuento: '29.87'
 average: '13.99'

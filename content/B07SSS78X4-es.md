@@ -16,6 +16,7 @@ comparePrice: 93.47 EUR
 prodname: 'Geox D Genziana Mid B  Sandalias con Punta Abierta para Mujer  Beige  Lt Taupe C6738   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSS78X4/?tag=tolees-21'
 descuento: '30.00'
 average: '65.43'

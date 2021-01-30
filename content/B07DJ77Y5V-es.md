@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Geox Uomo Sandal Strada A  Sandalias con Punta Abierta para Hombre  Black  Black C9999   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ77Y5V/?tag=tolees-21'
 descuento: '36.62'
 average: '44.3'

@@ -16,6 +16,7 @@ comparePrice: 53.74 EUR
 prodname: 'Geox Arzach B  Zapatillas para Niños  Negro  Black C9999   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792TCWLB/?tag=tolees-21'
 descuento: '15.33'
 average: '45.5'

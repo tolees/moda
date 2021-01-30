@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour UA Rush Camiseta Masculina de Manga Corta  Camiseta de compresión con tecnología Rush  Camiseta Deportiva con Corte de compresión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGYPZMV/?tag=tolees-21'
 descuento: '40.05'
 average: '32.97'

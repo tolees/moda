@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Merchant Milled Lite L/s Shirt Camisa  Azul  Indigo Grit ZLK   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPVCS4D/?tag=tolees-21'
 descuento: '67.12'
 average: '23.01'

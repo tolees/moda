@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Canadian Peak Sudadera DE Hombre Galapagos Azul ELÉCTRICO L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HY6NY4M/?tag=tolees-21'
 descuento: '30.00'
 average: '27.3'

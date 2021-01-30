@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger Boys Basic Vn Knit S/s Camiseta  Azul  Sky Captain 420   140  Talla del Fabricante: 10  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXCXDZD/?tag=tolees-21'
 descuento: '29.70'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'JACK & JONES - Vaqueros para hombre  Azul  Denim   W32/L32  32 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WWPNHKQ/?tag=tolees-21'
 descuento: '35.68'
 average: '45.97666666666667'

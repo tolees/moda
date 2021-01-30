@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jjialvin Jjjacket Sa 001 Noos Chaqueta de Jean  Azul  Denim   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8FZF11/?tag=tolees-21'
 descuento: '49.99'
 average: '28.244999999999997'

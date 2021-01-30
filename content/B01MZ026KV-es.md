@@ -16,6 +16,7 @@ comparePrice: 19.52 EUR
 prodname: 'find. 13641 vestido fiesta mujer  Rojo  Red   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ026KV/?tag=tolees-21'
 descuento: '67.32'
 average: '7.225'

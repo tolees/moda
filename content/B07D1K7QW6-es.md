@@ -16,6 +16,7 @@ comparePrice: 14.44 EUR
 prodname: 'Red Wagon Velvet Pleated  Falda para Niñas  Azul  Teal  134  Talla del fabricante: 9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1K7QW6/?tag=tolees-21'
 descuento: '41.14'
 average: '8.5'

@@ -16,6 +16,7 @@ comparePrice: 7.35 EUR
 prodname: 'find. Camiseta Estampada NYC 99 Hombre  Blanco  White   52  Talla del fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GSSDLV/?tag=tolees-21'
 descuento: '42.86'
 average: '4.2'

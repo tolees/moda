@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Sexi Flip Women  Sandalias para Mujer  Negro  Black/Black   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003YBSRLG/?tag=tolees-21'
 descuento: '32.31'
 average: '20.3'

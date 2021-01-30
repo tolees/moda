@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha  Hombre  Rojo  Red Jasper/Collegiate Navy   Talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8KQKV/?tag=tolees-21'
 descuento: '38.47'
 average: '74.265'

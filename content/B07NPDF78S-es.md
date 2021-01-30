@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mocasines de Cuero Mujer Casual Zapatos de Conducción Moda Loafers Verano Planos Zapatillas del Barco Zapatos EU35=CN35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPDF78S/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

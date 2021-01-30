@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Redmond  Zapatos Bajos Impermeables Unisex Niños  Azul  Blue Bluebell  Pink 508   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JL8XQ6C/?tag=tolees-21'
 descuento: '70.41'
 average: '19.23'

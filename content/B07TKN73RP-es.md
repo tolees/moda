@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Maritsa95 Glad  Sandalias de Talón Abierto para Mujer  Beige  Sage Nubuck Sage Nubuck   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKN73RP/?tag=tolees-21'
 descuento: '70.16'
 average: '46.835'

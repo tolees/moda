@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Guantes de Levantamiento de Pesas  Guantes de Entrenamiento con Muñequeras  Calleras Gimnasio Hombre  Guantes de Fitness para Evitar Callos para el Entrenamiento  Levantamiento de Pesas  1 Par'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HMWGZZ/?tag=tolees-21'
 descuento: '37.52'
 average: '14.99'

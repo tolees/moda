@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Crocband Clog K  Zuecos con Correa Unisex-Bambini  Grigio  Smoke/Navy   33/34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HEXF10O/?tag=tolees-21'
 descuento: '52.55'
 average: '15.18'

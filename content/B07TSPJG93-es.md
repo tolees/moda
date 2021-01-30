@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Women s Secret Daily Da1 Femenine PJ Conjuntos de Pijama  Rojo  Rojo/Raya Diplomat 60   Small  Tamaño del Fabricante: S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSPJG93/?tag=tolees-21'
 descuento: '42.78'
 average: '14.3'

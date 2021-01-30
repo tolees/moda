@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Zacro Gafas Esquí Snowboard para Niño Joven  con Máscara Esquí y Bolsa Portable OTG 100% UV400 Protección Gafas de Esquí Antideslizante Anti-Niebla y Anti-Nieve Coloridos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7WNS3W/?tag=tolees-21'
 descuento: '35.02'
 average: '16.847142857142856'

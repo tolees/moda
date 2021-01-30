@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Dress Briana Vestido  Negro 2000  XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3YBKM7/?tag=tolees-21'
 descuento: '32.47'
 average: '53.99'

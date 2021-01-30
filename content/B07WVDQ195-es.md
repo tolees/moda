@@ -16,6 +16,7 @@ comparePrice: 189 EUR
 prodname: 'Camper Hardwood K300027-006 Botines Hombre 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVDQ195/?tag=tolees-21'
 descuento: '30.16'
 average: '132'

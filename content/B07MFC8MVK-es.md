@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'FOSTAK Bolsos totes/Bolso de hombro para mujer Bolso de viaje Messenger Bag elegante Bolsas portátiles para negocio que trabaja Notebook/ordenador portátil de 15.6 Inch Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFC8MVK/?tag=tolees-21'
 descuento: '16.94'
 average: '14.465'

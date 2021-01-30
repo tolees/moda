@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Lee Logo SWS Sudadera  Gris  Grey Mele MP   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N17XZQN/?tag=tolees-21'
 descuento: '67.11'
 average: '21.38'

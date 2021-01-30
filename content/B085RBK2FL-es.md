@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Gafas Protectoras  Gafas Protectoras de Seguridad  Gafas Protectoras Transpirables a Prueba de Polvo para Laboratorio  Agricultura  Industria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085RBK2FL/?tag=tolees-21'
 descuento: '31.66'
 average: '6.824999999999999'

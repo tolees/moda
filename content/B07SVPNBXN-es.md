@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Timothy A  Zapatos de Cordones Derby para Hombre  Negro  Black C9999   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPNBXN/?tag=tolees-21'
 descuento: '30.03'
 average: '83.9'

@@ -16,6 +16,7 @@ comparePrice: 95 EUR
 prodname: 'New Balance MS 247 FK de la Zapatilla de deporte para hombres azul blanco  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVJVXFF/?tag=tolees-21'
 descuento: '64.08'
 average: '34.12'

@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Ultrasport Basic Braguita de bikini para mujer Skara  Azul Marino  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WDPMNQ/?tag=tolees-21'
 descuento: '33.29'
 average: '5.33'

@@ -16,6 +16,7 @@ comparePrice: 8.03 EUR
 prodname: 'Marca Amazon - MERAKI Calcetines por Media Pierna de Algodón Hombre  Pack de 5  Gris  Charcoal   39-42 EU  Label: 6-8 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQS1ZM7/?tag=tolees-21'
 descuento: '21.30'
 average: '6.32'

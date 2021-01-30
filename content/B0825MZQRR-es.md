@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Quiksilver Stone Cold Classic - Camiseta para Hombre Screen tee  Hombre  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825MZQRR/?tag=tolees-21'
 descuento: '65.41'
 average: '8.99'

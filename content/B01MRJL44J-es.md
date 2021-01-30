@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Asiv 20 Piezas Ropa y Zapatos para Muñeca Doll - 10 Piezas Mini Falda de Moda y 10 Pares de Zapatos para Regalo de Niña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRJL44J/?tag=tolees-21'
 descuento: '15.40'
 average: '12.49'

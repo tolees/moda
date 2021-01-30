@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas W E 3s Slim tee Camiseta de Manga Corta  Mujer  Black/White  2XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KS9WMJ4/?tag=tolees-21'
 descuento: '31.90'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour  UNDKU I Will Multi Camisa Manga Corta  Hombre  Negro  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R1ZPYVF/?tag=tolees-21'
 descuento: '38.58'
 average: '15.97'

@@ -16,6 +16,7 @@ comparePrice: 27.9 EUR
 prodname: 'Havaianas Slim Flatform  Chanclas para Mujer  Azul  Blue 0057   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLPTTH9/?tag=tolees-21'
 descuento: '54.98'
 average: '12.56'

@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'adidas M BB T Camiseta de Manga Corta  Hombre  Scarlet/Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TT8YM1/?tag=tolees-21'
 descuento: '32.06'
 average: '18.99'

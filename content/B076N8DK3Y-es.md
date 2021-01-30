@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas CE9047 Chaqueta  Unisex niños  Negro  Black/White   176'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076N8DK3Y/?tag=tolees-21'
 descuento: '40.06'
 average: '20.95'

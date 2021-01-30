@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Zoggs Predator Gafas Natación  Mujeres  Rosa  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XY5DFQ/?tag=tolees-21'
 descuento: '26.45'
 average: '19.4625'

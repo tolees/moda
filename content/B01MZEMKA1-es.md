@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para El Tiempo Libre  Gris  Grey Heather   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZEMKA1/?tag=tolees-21'
 descuento: '33.14'
 average: '20.0995'

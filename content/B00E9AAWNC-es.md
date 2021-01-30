@@ -16,6 +16,7 @@ comparePrice: 132.99 EUR
 prodname: 'Timberland Waterville 6 Inch Basic Waterproof  Botas para Mujer  Amarillo  Wheat Nubuck   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E9AAWNC/?tag=tolees-21'
 descuento: '21.05'
 average: '105'

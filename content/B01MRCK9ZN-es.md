@@ -16,6 +16,7 @@ comparePrice: 35.91 EUR
 prodname: 'Nike Court Borough Low  PSV   Zapatos de Baloncesto para Niñas  Blanco  White/White 100   28 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRCK9ZN/?tag=tolees-21'
 descuento: '22.03'
 average: '27.975'

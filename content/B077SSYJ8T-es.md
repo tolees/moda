@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Puma 655921 05  Camiseta de Manga Larga Infantil  Negro  Puma Black   128'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SSYJ8T/?tag=tolees-21'
 descuento: '44.04'
 average: '16.76'

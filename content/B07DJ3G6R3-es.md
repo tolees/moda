@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox Snake M L  Zapatillas para Hombre  Azul  Navy C4002   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ3G6R3/?tag=tolees-21'
 descuento: '41.11'
 average: '58.83'

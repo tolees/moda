@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LOHOTEK Guantes Gimnasio Hombre Mujer Guantes Acolchados Unisex de Levantamiento de Pesos Guantes de Trabajo con Soporte de Muñeca para Ejercicio Físico Gimnasio al Aire Libre  Azul  XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGT12H4/?tag=tolees-21'
 descuento: '36.68'
 average: '16.49'

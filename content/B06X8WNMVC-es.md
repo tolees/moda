@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat 904   Medium  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X8WNMVC/?tag=tolees-21'
 descuento: '53.75'
 average: '26.812222222222218'

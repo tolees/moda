@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Dickies Streetwear Male Shirt Sacramento - Camiseta / Camisa deportivas para hombre  color verde  pine green   talla Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MOZ2KJI/?tag=tolees-21'
 descuento: '29.02'
 average: '34.78'

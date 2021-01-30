@@ -16,6 +16,7 @@ comparePrice: 22.87 EUR
 prodname: 'Tommy Hilfiger Colorful Tommy Flat Sandal  Sandalias con Punta Abierta para Mujer  Blanco  Whisper White 121   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYNVK5Q/?tag=tolees-21'
 descuento: '25.10'
 average: '17.13'

@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Calvin Klein Institutional Logo Slim SS tee Camiseta  Verde  Earth Sage L9a   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD468JR/?tag=tolees-21'
 descuento: '36.79'
 average: '18.33'

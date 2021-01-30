@@ -16,6 +16,7 @@ comparePrice: 51.95 EUR
 prodname: 'Desigual Bag Tekila Sunrise Loverty  Bolso Plegable para Mujer  Marrón  Cognac   24 x 16 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXVQQN9/?tag=tolees-21'
 descuento: '32.72'
 average: '34.95'

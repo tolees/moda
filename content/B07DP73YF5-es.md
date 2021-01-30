@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Eastpak The One Bolso bandolera  21 cm  2.5 L  Azul  Triple Denim '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP73YF5/?tag=tolees-21'
 descuento: '33.37'
 average: '23.5'

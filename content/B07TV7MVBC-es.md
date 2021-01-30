@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The tee Camiseta  Negro  90 s Serif T2 Caviar 0959   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV7MVBC/?tag=tolees-21'
 descuento: '58.04'
 average: '13.610769230769233'

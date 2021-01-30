@@ -16,6 +16,7 @@ comparePrice: 11.32 EUR
 prodname: 'Marca Amazon - MERAKI Pantalón Cortos Chinos Hombre  azul  navy   38  Label: 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772RVZZP/?tag=tolees-21'
 descuento: '37.10'
 average: '7.515'

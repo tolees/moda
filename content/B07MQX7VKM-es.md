@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GANT D1. TP BC Micro Print Reg Hbd Camisa  Azul  Marine 410   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQX7VKM/?tag=tolees-21'
 descuento: '55.30'
 average: '51.366249999999994'

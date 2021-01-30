@@ -16,6 +16,7 @@ comparePrice: 109.89 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole Modern Oxford  Zapatillas Bajas para Hombre  Marrón  MD Brown Full Grain   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JN3K5KH/?tag=tolees-21'
 descuento: '56.48'
 average: '49.80428571428571'

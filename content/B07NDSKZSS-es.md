@@ -16,6 +16,7 @@ comparePrice: 32.22 EUR
 prodname: 'Marca Amazon - find. Vestido Midi de Satén Mujer  Negro  Black   46  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDSKZSS/?tag=tolees-21'
 descuento: '77.56'
 average: '7.23'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia WAYFINDER Mid Outdry  Zapatos de montaña para Hombre  Negro  Black  Steam 012   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHW9L2M/?tag=tolees-21'
 descuento: '68.07'
 average: '49.67'

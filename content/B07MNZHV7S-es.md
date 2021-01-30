@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Lacoste Ch9623 Camisa  Gris  Nimbus/Nimbus 7fp   X-Small  Talla del Fabricante: 37  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNZHV7S/?tag=tolees-21'
 descuento: '57.55'
 average: '49.576'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'G-STAR RAW Eyben Slim V T Wmn S/s Camiseta  Blanco  White 110   38  Talla del fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYY7VL5/?tag=tolees-21'
 descuento: '34.89'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 16.69 EUR
 prodname: 'Marca Amazon - find. Chaleco Acolchado Hombre  Negro  Black   XXL  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3FDWCF/?tag=tolees-21'
 descuento: '28.70'
 average: '11.9'

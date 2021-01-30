@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Mocasines Mujer Piel Cuero Loafers Plano Lazy Casual Sneakers Planas Low Top Zapatos Suede Slip On Mocasín Hollow-out Verde 35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFSTPS4/?tag=tolees-21'
 descuento: '19.24'
 average: '20.99'

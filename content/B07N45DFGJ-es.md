@@ -16,6 +16,7 @@ comparePrice: 339.15 EUR
 prodname: 'Tommy Hilfiger Hampton Down Parka Chaqueta   Sky Captain Cjm   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N45DFGJ/?tag=tolees-21'
 descuento: '41.32'
 average: '199'

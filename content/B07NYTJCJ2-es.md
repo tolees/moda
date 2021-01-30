@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Stamina Cutback  Zapatilla Deportiva con Cordones para Hombre  Azul  Navy Leather/White Mesh/Trim NVW   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYTJCJ2/?tag=tolees-21'
 descuento: '53.98'
 average: '36.79'

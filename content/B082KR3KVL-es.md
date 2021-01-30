@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Sudadera con Capucha de Gran tamaño  la Original Sherpa con Bolsillo Frontal Grande  Suave y acogedora  con Capucha  1 tamaño para Todos  Manta de TV para Hombres  Mujeres  Adolescentes y niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KR3KVL/?tag=tolees-21'
 descuento: '34.01'
 average: '32.99'

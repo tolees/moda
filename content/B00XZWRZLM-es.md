@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Mercedes-Benz Sonnenbrille M5030 Gafas de Sol  Negro  Schwarz   58.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XZWRZLM/?tag=tolees-21'
 descuento: '65.84'
 average: '67.98'

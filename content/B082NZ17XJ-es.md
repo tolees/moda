@@ -16,6 +16,7 @@ comparePrice: 13.98 EUR
 prodname: 'Oihxse Transparente Silicona Case Compatible con Huawei Honor View 10 Lite/Honor 8X Funda Suave TPU Protección Carcasa Moda Dibujos Animados Divertida Diseño Ultra-Delgado Cubierta-Cactus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NZ17XJ/?tag=tolees-21'
 descuento: '42.92'
 average: '7.98'

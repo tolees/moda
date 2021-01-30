@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'NIKE W Nk Dry SL Top Camiseta sin Mangas  Mujer  Black/ White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L78ZQYD/?tag=tolees-21'
 descuento: '57.80'
 average: '14.77'

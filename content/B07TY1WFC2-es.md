@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Lee Button Down Camisa  Azul  Blueprint LGH   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY1WFC2/?tag=tolees-21'
 descuento: '65.58'
 average: '27.52'

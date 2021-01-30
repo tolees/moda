@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Originals Adilette  Chanclas para Hombre  Azul  Adiblu/White/Adiblu   44 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001OVFKCW/?tag=tolees-21'
 descuento: '65.67'
 average: '17.745'

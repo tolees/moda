@@ -16,6 +16,7 @@ comparePrice: 19.29 EUR
 prodname: 'BOSS Trunk 3p Co/El Bóxer  Multicolor  Open Miscellaneous 50426021-962   XXL  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYFGJLZ/?tag=tolees-21'
 descuento: '26.91'
 average: '16.695'

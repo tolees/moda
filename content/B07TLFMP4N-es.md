@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Relaxed Graphic tee Camiseta  Blanco  90 s Serif Logo D3 White 0038   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLFMP4N/?tag=tolees-21'
 descuento: '42.04'
 average: '15.438000000000002'

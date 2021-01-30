@@ -16,6 +16,7 @@ comparePrice: 20.44 EUR
 prodname: 'adidas Fef Camiseta Polo  Hombre  Collegiate Navy  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TPQKQY/?tag=tolees-21'
 descuento: '15.61'
 average: '17.25'

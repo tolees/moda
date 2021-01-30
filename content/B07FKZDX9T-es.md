@@ -16,6 +16,7 @@ comparePrice: 83.9 EUR
 prodname: 'Trangoworld PC008106 Pantalón Largo  Mujer  Azul Profundo  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKZDX9T/?tag=tolees-21'
 descuento: '51.14'
 average: '42.74'

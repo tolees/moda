@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Sportstech KS200 Barra dominadas Puerta con Sistema Hexagonal Patentado. Palanca tensora de Seguridad  6 Puntos de presión. Carga máxima 300kg. Incluye Guantes y ebook Gratis  KS200 Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RFKDKC/?tag=tolees-21'
 descuento: '60.12'
 average: '29.9'

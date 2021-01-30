@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Swiftwater Flip Women  Zapatos de Playa y Piscina para Mujer  Negro Black 060  42/43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078F68WPL/?tag=tolees-21'
 descuento: '64.92'
 average: '10.52'

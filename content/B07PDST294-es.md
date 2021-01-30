@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Disney Camiseta y Leggings para niñas Capitana Marvel Azul 7-8 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDST294/?tag=tolees-21'
 descuento: '58.05'
 average: '7.95'

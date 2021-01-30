@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver Molokai Vacancy  Zapatos de Playa y Piscina para Hombre  Multicolor  Grey/Green/Blue Xsgb   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSTB5NB/?tag=tolees-21'
 descuento: '47.52'
 average: '10.49'

@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Jack & Jones JJEPAULOS Polo SS Noos Camisa  Azul Vaquero  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZFDWG6/?tag=tolees-21'
 descuento: '25.73'
 average: '12.99'

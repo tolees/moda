@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'NIKE M Nk Dry Acdmy18 Top SS Camiseta de Manga Corta  Hombre  lt Green Spark/Pine Green/ White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JQR6G6/?tag=tolees-21'
 descuento: '16.67'
 average: '13.504999999999999'

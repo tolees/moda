@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Azul  Navy/White   25/26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KM1DG3/?tag=tolees-21'
 descuento: '48.45'
 average: '17.99'

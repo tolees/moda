@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Charles Wilson Camisa Lino Manga Corta para Hombre  Small  Navy Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JX7LCWW/?tag=tolees-21'
 descuento: '28.61'
 average: '24.95'

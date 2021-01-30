@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Plus Size Pl tee Camiseta  Blanco  Plus Batwing White 0000   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QMZG3X/?tag=tolees-21'
 descuento: '35.40'
 average: '15.143333333333333'

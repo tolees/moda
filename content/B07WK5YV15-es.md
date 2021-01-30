@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'SALOMON Agile Training tee M Camiseta de Manga Corta  Hombre  Azul  Vivid Blue/Heather   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WK5YV15/?tag=tolees-21'
 descuento: '30.00'
 average: '17.5'

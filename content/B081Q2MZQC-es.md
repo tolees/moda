@@ -16,6 +16,7 @@ comparePrice: 46.8 EUR
 prodname: 'UTOBEST Mochila Running Hidratacion 3L Chaleco Hidratación Trail Running para Bicicleta Ciclismo Maraton Hombre Mujer Red S/M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081Q2MZQC/?tag=tolees-21'
 descuento: '44.87'
 average: '26.46666666666667'

@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'adidas Entrada 86 Camiseta de Fútbol para Hombre de Cuello Redondo en Contraste  Rojo  Power Red/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KJ8J5X/?tag=tolees-21'
 descuento: '31.35'
 average: '10.882000000000001'

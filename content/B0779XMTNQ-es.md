@@ -16,6 +16,7 @@ comparePrice: 7.4 EUR
 prodname: 'Marca Amazon - find. Camiseta Transpirable Deporte Hombre  Gris  Sharkskin   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779XMTNQ/?tag=tolees-21'
 descuento: '28.78'
 average: '5.699999999999999'

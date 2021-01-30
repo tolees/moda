@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Under Armour Qualifier Wg Perf Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black 012   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KH2DHY1/?tag=tolees-21'
 descuento: '63.20'
 average: '15.27'

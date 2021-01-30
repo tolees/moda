@@ -16,6 +16,7 @@ comparePrice: 27.88 EUR
 prodname: 'Dim Coton Stretch Boxer x3  Noir/Noir/Noir  6 XG/60/XXL  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XYN8AM/?tag=tolees-21'
 descuento: '29.95'
 average: '19.53'

@@ -16,6 +16,7 @@ comparePrice: 38.33 EUR
 prodname: 'Tommy Hilfiger Rope Stripe tee Camiseta Deporte  Azul  Desert Sky   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7XFLCV/?tag=tolees-21'
 descuento: '37.15'
 average: '24.09'

@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Geox J HADRIEL Girl A  Zapatillas Altas para Niñas  Gris  Dk Grey C9002   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG1QJ82/?tag=tolees-21'
 descuento: '40.92'
 average: '38.4'

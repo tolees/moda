@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Polaroid P0115 JB N5N Gafas de sol  Azul  Bluette Royal Bl/Grey Silmir Pz   46 Unisex Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017AG4IHW/?tag=tolees-21'
 descuento: '25.61'
 average: '26.6'

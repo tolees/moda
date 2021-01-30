@@ -16,6 +16,7 @@ comparePrice: 19.69 EUR
 prodname: 'Marca Amazon - AURIQUE Bal181la18 - leggings deporte mujer Mujer  Negro  Black/White   42  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC7VSGZ/?tag=tolees-21'
 descuento: '27.32'
 average: '14.31'

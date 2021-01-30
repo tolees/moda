@@ -16,6 +16,7 @@ comparePrice: 8.98 EUR
 prodname: 'Gildan Soft Style L  Camiseta para Hombre  Blanco  White   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AWW5XO4/?tag=tolees-21'
 descuento: '42.09'
 average: '5.2'

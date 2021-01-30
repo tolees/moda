@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Unwilmore Ray  Sandalias Punta Cerrada para Hombre  Marrón  Mahogany Mahogany   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYSHWB/?tag=tolees-21'
 descuento: '55.03'
 average: '44.95'

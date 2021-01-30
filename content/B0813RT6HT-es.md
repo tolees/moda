@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'adidas Fef Pre Jkt Chaqueta de Deporte  Hombre  Collegiate Navy  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813RT6HT/?tag=tolees-21'
 descuento: '48.14'
 average: '41.46'

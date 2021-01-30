@@ -16,6 +16,7 @@ comparePrice: 31.64 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Azul  Porcini Blue Od ADV 0489   31W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8RRF8/?tag=tolees-21'
 descuento: '23.26'
 average: '27.676666666666666'

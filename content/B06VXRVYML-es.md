@@ -16,6 +16,7 @@ comparePrice: 28 EUR
 prodname: 'find. Sudadera de Volantes para Mujer   Marfil  Ivory   46  Talla del Fabricante: XX-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VXRVYML/?tag=tolees-21'
 descuento: '45.18'
 average: '15.35'

@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Zapatos de Seguridad para Hombre Zapatillas de Seguridad Trabajo Industrial y Deportiva con Puntera de Acero LM-105  41 EU  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRV645D/?tag=tolees-21'
 descuento: '38.67'
 average: '45.99'

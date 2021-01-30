@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Joma Brama Classic - Camiseta térmica de manga larga para niños  color blanco  talla 12-14 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00845PWLU/?tag=tolees-21'
 descuento: '36.96'
 average: '18.88'

@@ -16,6 +16,7 @@ comparePrice: 21.69 EUR
 prodname: 'Alvivi Uniforme de Trabajo Bata Blanca Abrigo de Laboratorio Farmacia Estetoscopio de Juguete Traje de Doctor Enfermera Sanitario Chaqueta Disfraz Cosplay Conjunto Blanco 7-8 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRH29D1/?tag=tolees-21'
 descuento: '56.25'
 average: '9.49'

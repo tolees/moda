@@ -16,6 +16,7 @@ comparePrice: 173.99 EUR
 prodname: 'Trangoworld Helens Complet Chaqueta  Mujer  Sombra Oscura  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKWVCV8/?tag=tolees-21'
 descuento: '26.73'
 average: '127.49'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s HR Decon Iconic BF Skirt Falda  Azul  High Plains 0011   Talla Única  Talla del Fabricante: 27  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJFL23Z/?tag=tolees-21'
 descuento: '53.86'
 average: '28.881999999999998'

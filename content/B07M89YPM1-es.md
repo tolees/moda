@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Wrangler SS Logo tee Camiseta  Blanco  White 989   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M89YPM1/?tag=tolees-21'
 descuento: '40.10'
 average: '11.95'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Sunset 1 Pkt Slim Camisa  Azul  Antonio Skyway 0011   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPPV1TT/?tag=tolees-21'
 descuento: '45.50'
 average: '38.15'

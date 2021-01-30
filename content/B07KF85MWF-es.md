@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Norse Warp Cool 0980   W32/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF85MWF/?tag=tolees-21'
 descuento: '47.74'
 average: '57.49'

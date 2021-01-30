@@ -16,6 +16,7 @@ comparePrice: 20.7 EUR
 prodname: 'Marca Amazon - find. Zip Front Leather Botines  Negro Black  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFWT7H6/?tag=tolees-21'
 descuento: '34.69'
 average: '13.52'

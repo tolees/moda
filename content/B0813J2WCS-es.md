@@ -16,6 +16,7 @@ comparePrice: 58.9 EUR
 prodname: 'Marca Amazon - find. Strippy Wedge Espadrille Sandalias con cuña Tipo Alpargatas  Negro  Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813J2WCS/?tag=tolees-21'
 descuento: '84.48'
 average: '9.14'

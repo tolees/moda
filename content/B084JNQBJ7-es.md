@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'adidas Jg A Xfg WB Chaqueta  Niñas  Blanco/matama/Negro  140  9/10 Años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084JNQBJ7/?tag=tolees-21'
 descuento: '34.93'
 average: '40.99'

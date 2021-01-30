@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Aerons Stand 2 Chaqueta  Blau  French Blue Bb7   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLP886/?tag=tolees-21'
 descuento: '73.28'
 average: '53.17'

@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Asics Classic CT  Zapatos de Baloncesto para Hombre  Blanco  White/Midnight 102   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QS57YWM/?tag=tolees-21'
 descuento: '30.00'
 average: '43.475'

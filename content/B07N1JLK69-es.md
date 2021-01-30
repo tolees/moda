@@ -16,6 +16,7 @@ comparePrice: 30.29 EUR
 prodname: 'Clarks Un Damson Mid  Botines para Mujer  Marrón Brown Leather  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JLK69/?tag=tolees-21'
 descuento: '20.73'
 average: '24.880000000000003'

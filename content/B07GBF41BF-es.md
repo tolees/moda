@@ -16,6 +16,7 @@ comparePrice: 29.25 EUR
 prodname: 'Nike 937 - Guantes de Fitness para Hombre  Color Gris Antracita/Negro/Amarillo  Hombre  N.LG.C4.937.LG  Anthracite/Black/lt c  Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBF41BF/?tag=tolees-21'
 descuento: '48.72'
 average: '15'

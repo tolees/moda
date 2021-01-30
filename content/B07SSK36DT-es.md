@@ -16,6 +16,7 @@ comparePrice: 77.25 EUR
 prodname: 'Geox D Borealis A  Sandalia con Pulsera para Mujer  Rojo  Red/Black C0020   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSK36DT/?tag=tolees-21'
 descuento: '56.04'
 average: '33.96'

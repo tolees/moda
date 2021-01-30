@@ -16,6 +16,7 @@ comparePrice: 209 EUR
 prodname: 'Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta   Azul  Black Iris 002  X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JRBH3XV/?tag=tolees-21'
 descuento: '59.83'
 average: '83.95'

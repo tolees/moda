@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas FCB H JSY Y Camiseta  Unisex Niños  Rojfcb  164'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ1FS1L/?tag=tolees-21'
 descuento: '42.82'
 average: '40.0'

@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Napapijri Rainforest W WINT 3 Chaqueta  Azul  BLU Marine 176   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPP6G/?tag=tolees-21'
 descuento: '41.59'
 average: '114.94'

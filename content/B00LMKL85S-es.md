@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Carver Suede M Sndl Sandalias con Plataforma Plana  Hombre  Beige  Tan / Solid   39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LMKL85S/?tag=tolees-21'
 descuento: '43.35'
 average: '16.733999999999998'

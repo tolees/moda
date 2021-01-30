@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Esprit 010eo1g304 Chaqueta  Beige  Light Taupe 260   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YKQ9ZF4/?tag=tolees-21'
 descuento: '50.01'
 average: '49.99'

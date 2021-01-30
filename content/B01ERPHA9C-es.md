@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Joma SHT.S0M01 - Falda de tenis para mujer  color Verde  Green Fluor   talla Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERPHA9C/?tag=tolees-21'
 descuento: '33.38'
 average: '11.98'

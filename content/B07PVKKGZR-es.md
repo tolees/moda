@@ -16,6 +16,7 @@ comparePrice: 27.93 EUR
 prodname: 'Marca Amazon - find. Statement Fairisle Jumper Suéter Mujer  Rojo  RED   46  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVKKGZR/?tag=tolees-21'
 descuento: '30.04'
 average: '19.54'

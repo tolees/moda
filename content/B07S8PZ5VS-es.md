@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Cozy Flip  Zapatos de Playa y Piscina Unisex-Adulto  Azul  Dark Denim/Palace Blue 04   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8PZ5VS/?tag=tolees-21'
 descuento: '15.49'
 average: '16.86'

@@ -16,6 +16,7 @@ comparePrice: 9.35 EUR
 prodname: 'HIKARO Sudadera con Print Mujer  Rojo  Burgundy   40  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y8KM6F/?tag=tolees-21'
 descuento: '33.05'
 average: '7.443333333333333'

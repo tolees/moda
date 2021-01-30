@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 's.Oliver 03.899.32.5264 Camiseta  Turquesa  Türkis 6242   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YL9P8QJ/?tag=tolees-21'
 descuento: '50.05'
 average: '6.49'

@@ -16,6 +16,7 @@ comparePrice: 10.74 EUR
 prodname: 'Puma Junior Gafas de sol  Multicolor  Crystal/Silver/Havana   47.0 Unisex Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYTRCD3/?tag=tolees-21'
 descuento: '37.99'
 average: '6.66'

@@ -16,6 +16,7 @@ comparePrice: 124.9 EUR
 prodname: 'Spiuk Altube Road Zapatilla  Unisex Adulto  Negro Mate  37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9HS8K6/?tag=tolees-21'
 descuento: '40.03'
 average: '74.9'

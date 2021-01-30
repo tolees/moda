@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Kickers Maldan  Zapatos de Cordones Derby para Hombre  Negro  Noir 8   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFBRR6T/?tag=tolees-21'
 descuento: '58.54'
 average: '36.9'

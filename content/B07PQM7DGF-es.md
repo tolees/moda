@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'CATWALK COLLECTION - Bolso de Mujer Para Trabajo/Oficina - Portátil/iPad/Laptop - Cuero Vintage - ADELE - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQM7DGF/?tag=tolees-21'
 descuento: '40.03'
 average: '89.95'

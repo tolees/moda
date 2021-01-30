@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Geox U CLINTFORDB ABX A  Botas Clasicas para Hombre  Marrón  Brown C0013   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZM7H9/?tag=tolees-21'
 descuento: '76.80'
 average: '34.78'

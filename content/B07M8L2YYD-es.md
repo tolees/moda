@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Chunky Knit Sudadera  Azul  Midnight Navy Ma   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8L2YYD/?tag=tolees-21'
 descuento: '85.64'
 average: '14.82'

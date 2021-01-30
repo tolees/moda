@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Parka Mujer Baby Ass A Negro 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XR7FPYK/?tag=tolees-21'
 descuento: '34.34'
 average: '65.0'

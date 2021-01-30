@@ -16,6 +16,7 @@ comparePrice: 14.71 EUR
 prodname: 'Pepe Jeans Raury Camiseta  Verde  Pine Green 672   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWX72LB/?tag=tolees-21'
 descuento: '29.44'
 average: '10.38'

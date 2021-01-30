@@ -16,6 +16,7 @@ comparePrice: 10.1 EUR
 prodname: 'Wilkinson sword quattro bikini - Cuchilla de depilar para zona de bikini'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004N0AOFE/?tag=tolees-21'
 descuento: '29.01'
 average: '7.17'

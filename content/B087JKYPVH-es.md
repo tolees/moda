@@ -16,6 +16,7 @@ comparePrice: 41.67 EUR
 prodname: 'Sucreven Mujer Elegante Tacón Alto Pump Punta Redonda Vestido Zapatos Sin Cordones Sencillo Rosa Talla 34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JKYPVH/?tag=tolees-21'
 descuento: '33.33'
 average: '27.78'

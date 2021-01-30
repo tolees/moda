@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  Black C N 010  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0085SFXB0/?tag=tolees-21'
 descuento: '22.86'
 average: '8.48'

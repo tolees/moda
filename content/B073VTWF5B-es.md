@@ -16,6 +16,7 @@ comparePrice: 5.23 EUR
 prodname: 'Marca Amazon - find. Camiseta con Cuello Redondo Mujer  Rojo  Red   44  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VTWF5B/?tag=tolees-21'
 descuento: '25.81'
 average: '3.986666666666667'

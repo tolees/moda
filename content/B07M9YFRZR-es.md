@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Lacoste Sport Th3377 Camiseta  Negro  Noir/Enluminure 26n   Medium  Talla del Fabricante: 4  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9YFRZR/?tag=tolees-21'
 descuento: '50.02'
 average: '22.49'

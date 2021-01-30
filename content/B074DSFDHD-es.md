@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Joymoze Moderna Mochila de Ocio para Niñas Mochila Escolar para Adolescentes Mochila Bolso Estampado para Mujer  Gato '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074DSFDHD/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Nasjac Neceser Maquillaje Bolsa de Cosméticos Organizador -Profesional Maquillaje Case-Travel Maquillaje Herramientas Contenedor Estuche para Viaje Bolso de Cosméticos con Divisores Bolsillos Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NKKMP66/?tag=tolees-21'
 descuento: '23.16'
 average: '15.36'

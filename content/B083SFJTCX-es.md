@@ -16,6 +16,7 @@ comparePrice: 76.94 EUR
 prodname: 'TZAMLI - Zapatero de 10 pisos sobre la puerta  organizador para zapatos  gancho de metal fuerte para Closet Pantry  gris plata  56 x 21 x 151 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SFJTCX/?tag=tolees-21'
 descuento: '48.70'
 average: '37.065000000000005'

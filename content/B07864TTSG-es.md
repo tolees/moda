@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'CROCS Swiftwater Mesh Deck Sandal M  Zuecos para Hombre  Marrón  Espresso 206b   46/47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07864TTSG/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

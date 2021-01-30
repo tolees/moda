@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'HUGO Venzo Camisa  Blanco  Open White 199   XX-Large  Talla del Fabricante: 45  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D54GCKM/?tag=tolees-21'
 descuento: '70.18'
 average: '23.689999999999998'

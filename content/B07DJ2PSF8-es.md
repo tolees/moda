@@ -16,6 +16,7 @@ comparePrice: 49.88 EUR
 prodname: 'Geox Uomo Snake a  Zapatillas para Hombre  Black/Dk Grey C0005  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ2PSF8/?tag=tolees-21'
 descuento: '38.23'
 average: '30.81'

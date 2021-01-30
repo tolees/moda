@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Clarks Oliver Lace  Zapatos de Cordones Derby para Hombre  Negro Black Leather  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ7FM37/?tag=tolees-21'
 descuento: '73.55'
 average: '42.445'

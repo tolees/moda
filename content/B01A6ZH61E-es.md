@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Cascade Explorer Pantalón Convertible  Hombre  Gris  Grill   W34/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A6ZH61E/?tag=tolees-21'
 descuento: '60.78'
 average: '27.45'

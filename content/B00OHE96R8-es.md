@@ -16,6 +16,7 @@ comparePrice: 8.49 EUR
 prodname: 'Kappa Lucera Camiseta  Hombre  Amarillo  Yellow   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OHE96R8/?tag=tolees-21'
 descuento: '17.67'
 average: '7.72'

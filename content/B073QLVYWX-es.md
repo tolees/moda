@@ -16,6 +16,7 @@ comparePrice: 14.62 EUR
 prodname: 'Marca Amazon - AURIQUE Leggings con Paneles en Contraste de Deporte Mujer  Azul  Navy/sport Red   42  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QLVYWX/?tag=tolees-21'
 descuento: '58.96'
 average: '8.61'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger T Camiseta Básica de Manga Corta  Blanco  Bright White   140  Talla del Fabricante: 10-11  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX5SRLH/?tag=tolees-21'
 descuento: '29.70'
 average: '14.034651162790697'

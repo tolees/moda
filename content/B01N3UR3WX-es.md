@@ -16,6 +16,7 @@ comparePrice: 87.96 EUR
 prodname: 'Brandit Mella Sommerparka Parka  Grün  Olive 1  1  XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3UR3WX/?tag=tolees-21'
 descuento: '77.35'
 average: '26.560000000000002'

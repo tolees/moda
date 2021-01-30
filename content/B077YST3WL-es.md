@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'HIKARO Chaqueta Bomber Hombre  Gris  Charcoal   54  Talla del fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YST3WL/?tag=tolees-21'
 descuento: '69.99'
 average: '14.99'

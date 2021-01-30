@@ -16,6 +16,7 @@ comparePrice: 15.03 EUR
 prodname: 'Slipper Casual Flip Flop Sandal Zapatillas para Mujer Zapatos Mujer Ladies Slip On Sliders/Purple + 38 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0836QDJJ3/?tag=tolees-21'
 descuento: '35.00'
 average: '9.77'

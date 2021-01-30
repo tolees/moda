@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Pierre Calvini - Calzoncillos bóxer para hombre  ajustados  estilo hípster  8 unidades  Clásico surtido. L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVZ7CKG/?tag=tolees-21'
 descuento: '37.15'
 average: '21.99'

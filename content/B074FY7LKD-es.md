@@ -16,6 +16,7 @@ comparePrice: 26.25 EUR
 prodname: 'find. Chaqueta Punto con Cinturón para Mujer  Azul  Navy   36  Talla del Fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FY7LKD/?tag=tolees-21'
 descuento: '60.00'
 average: '10.5'

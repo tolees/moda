@@ -16,6 +16,7 @@ comparePrice: 48.9 EUR
 prodname: 'Fila Boxer para Hombre  Negro  Medium  pack de 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VK22F1Y/?tag=tolees-21'
 descuento: '50.39'
 average: '24.26'

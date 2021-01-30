@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK JONES Jorexplore Parka Hombre  Verde  Forest Nightgrün   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WCBQV5M/?tag=tolees-21'
 descuento: '27.75'
 average: '52.89'

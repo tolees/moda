@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BOSS tee Curved Camiseta  Blanco  Natural 102   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4XVDN9/?tag=tolees-21'
 descuento: '31.51'
 average: '31.78'

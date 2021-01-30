@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Cozy Animals Ca Poodle PJ FR Conjuntos de Pijama  Azul  Gama Azules 17   Small  Tamaño del Fabricante: S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXCDPK/?tag=tolees-21'
 descuento: '39.65'
 average: '18.1'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Burton Elite Camiseta  Hombre  Martini Olive  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLP8WWK/?tag=tolees-21'
 descuento: '42.52'
 average: '22.99'

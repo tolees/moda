@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger TJM Classics Logo tee Camisa  Negro  Tommy Black 078   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JR9MC1R/?tag=tolees-21'
 descuento: '29.95'
 average: '25.38'

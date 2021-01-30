@@ -16,6 +16,7 @@ comparePrice: 15.67 EUR
 prodname: 'Marca Amazon - find. Stitch Cardigan - chaqueta punto Mujer  Azul  Soft Blue   46  Label: XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCG8QPB/?tag=tolees-21'
 descuento: '33.82'
 average: '10.559999999999999'

@@ -16,6 +16,7 @@ comparePrice: 269.95 EUR
 prodname: 'LEABAGS Acapulco Bolso Bandolera de auténtico Cuero búfalo en el Estilo Vintage - Choco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJ7PH7Y/?tag=tolees-21'
 descuento: '63.33'
 average: '98.98'

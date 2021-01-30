@@ -16,6 +16,7 @@ comparePrice: 8.36 EUR
 prodname: 'Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico Hombre  Gris  Charcoal Melange   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MGJRKB/?tag=tolees-21'
 descuento: '40.91'
 average: '6.462857142857143'

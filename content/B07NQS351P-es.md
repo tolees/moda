@@ -16,6 +16,7 @@ comparePrice: 18.94 EUR
 prodname: 'Tom Tailor 7990106  Botines para Mujer  Rosa  Nude 01521   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQS351P/?tag=tolees-21'
 descuento: '19.43'
 average: '17.5675'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'adidas Hoops Mid 2.0 K  Zapatos de Baloncesto Unisex Niños  Multicolor Ftwbla Negbás Placen 000  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDQBZCM/?tag=tolees-21'
 descuento: '24.38'
 average: '33.99'

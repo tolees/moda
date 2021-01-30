@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'El Naturalista N5244 Multi Leather Zumaia  Sandalias con Punta Abierta para Mujer  Multicolor  Sandalo Mixed Sandalo Mixed   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJWYF2H/?tag=tolees-21'
 descuento: '70.77'
 average: '29.22'

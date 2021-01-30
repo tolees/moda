@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Levi s LS Baby tee Camiseta  Multicolor  Koronis Meteorite 0008   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFMH1FD/?tag=tolees-21'
 descuento: '37.52'
 average: '14.99'

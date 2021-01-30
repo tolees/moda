@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Core Stretch Poplin Slim Shirt Camisa  Azul  429 429   37 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y61S9JL/?tag=tolees-21'
 descuento: '70.93'
 average: '27.615000000000002'

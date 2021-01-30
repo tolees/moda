@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip Women  Chanclas para Mujer  Negro  Black 001   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S975QRY/?tag=tolees-21'
 descuento: '25.21'
 average: '18.69'

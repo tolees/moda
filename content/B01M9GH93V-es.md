@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Lacoste Sport SH2128 Sudadera  Multicolor  Noir/Argent Chine   Large  Talla del fabricante: 5  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9GH93V/?tag=tolees-21'
 descuento: '31.00'
 average: '69'

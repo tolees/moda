@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Reebok Wor AC tee Camiseta  Mujer  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ9N4QT/?tag=tolees-21'
 descuento: '19.37'
 average: '6.41'

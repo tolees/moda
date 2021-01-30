@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Peakfreak Venture Zapatos impermeables para hombre   Negro Black  Gypsy   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q7EUZLM/?tag=tolees-21'
 descuento: '29.09'
 average: '77.99'

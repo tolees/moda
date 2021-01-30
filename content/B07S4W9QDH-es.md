@@ -16,6 +16,7 @@ comparePrice: 52.13 EUR
 prodname: 'Levi s Francine Down Pckble Jkt Chaqueta  Azul  Baby Blue 0004   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4W9QDH/?tag=tolees-21'
 descuento: '39.48'
 average: '41.17'

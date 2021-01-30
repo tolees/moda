@@ -16,6 +16,7 @@ comparePrice: 61.26 EUR
 prodname: 'Dorothy Perkins Luxe Fur Parka  Azul  Navy 230   36  Talla del Fabricante: 8  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZP6NYB/?tag=tolees-21'
 descuento: '64.09'
 average: '22.0'

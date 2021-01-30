@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Graphic 1 Slim Camiseta  Blanco  White 110   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCJJKTJ/?tag=tolees-21'
 descuento: '50.66'
 average: '19.71'

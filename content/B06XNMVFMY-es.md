@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox D Quinlynn B  Mocasines para Mujer  Marrón  Chestnut   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XNMVFMY/?tag=tolees-21'
 descuento: '74.89'
 average: '30.11'

@@ -16,6 +16,7 @@ comparePrice: 48.57 EUR
 prodname: 'Colgante con perlas de plata de ley 925 Abalorio compatible con Pandor pulseras y collar para mujeres y niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6RB6TK/?tag=tolees-21'
 descuento: '54.17'
 average: '22.26'

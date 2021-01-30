@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Under Armour UA Streaker 2.0 Longsleeve Camiseta de Manga Larga  Hombre  Negro  Black/Black/Reflective 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3DLLXH/?tag=tolees-21'
 descuento: '35.03'
 average: '25.99'

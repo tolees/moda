@@ -16,6 +16,7 @@ comparePrice: 4.65 EUR
 prodname: 'Marca Amazon - find. Top Cruzado de Satén Mujer  Multicolor  Multicoloured   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7FKVY9/?tag=tolees-21'
 descuento: '20.00'
 average: '3.72'

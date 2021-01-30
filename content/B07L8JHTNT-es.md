@@ -16,6 +16,7 @@ comparePrice: 34.03 EUR
 prodname: 'Marca Amazon - find. Mono Fluido de Manga Corta para Mujer  Rojo  Red   36  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8JHTNT/?tag=tolees-21'
 descuento: '32.50'
 average: '22.97'

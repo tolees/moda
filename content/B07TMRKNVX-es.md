@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Stanford Walk  Zapatos de Cordones Derby  Negro  Black Leather Black Leather   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMRKNVX/?tag=tolees-21'
 descuento: '49.42'
 average: '46.26'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES Jorhardy Light Puffer Chaqueta  Rojo  Scarlet Detail:Solid   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC9WXN1/?tag=tolees-21'
 descuento: '75.92'
 average: '19.26'

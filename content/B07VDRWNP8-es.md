@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Calvin Klein Zip Through HD Jacket Chaqueta  Blanco  Bright White Yaf   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDRWNP8/?tag=tolees-21'
 descuento: '55.24'
 average: '53.26'

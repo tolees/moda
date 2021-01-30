@@ -16,6 +16,7 @@ comparePrice: 31.89 EUR
 prodname: 'VulusValas Mujer Comodo Clip Toe Plano Corcho Sandalias Verano Playa Zapatos Negro Size 44 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087TXGY34/?tag=tolees-21'
 descuento: '47.04'
 average: '16.89'

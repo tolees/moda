@@ -16,6 +16,7 @@ comparePrice: 150.79 EUR
 prodname: 'Asics Gel-Solution Speed 3 Clay Zapatilla De Tenis - 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZO1O8L/?tag=tolees-21'
 descuento: '61.54'
 average: '57.99'

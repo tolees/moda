@@ -16,6 +16,7 @@ comparePrice: 86.41 EUR
 prodname: 'Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  12Oz Rope Dye Glory Dk W53   W32/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U3O8TII/?tag=tolees-21'
 descuento: '58.35'
 average: '35.99'

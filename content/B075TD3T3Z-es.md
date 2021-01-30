@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'HARRY POTTER - Pijama para Niños Ajuste Ceñido - 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075TD3T3Z/?tag=tolees-21'
 descuento: '36.94'
 average: '11.95'

@@ -16,6 +16,7 @@ comparePrice: 16.79 EUR
 prodname: 'Clarks Orinoco Strap  Sandalias de Talón Abierto para Mujer  Azul  Navy Leather Navy Leather   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNVPLVX/?tag=tolees-21'
 descuento: '24.42'
 average: '15.466666666666665'

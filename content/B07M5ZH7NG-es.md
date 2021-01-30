@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Ivy Vaqueros  Azul  Summer Night Vy   31W / 33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5ZH7NG/?tag=tolees-21'
 descuento: '42.79'
 average: '57.18'

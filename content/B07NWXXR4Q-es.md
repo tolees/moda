@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'Joma Cairo II Sudadera  Hombre  Blanco  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWXXR4Q/?tag=tolees-21'
 descuento: '33.38'
 average: '12.99'

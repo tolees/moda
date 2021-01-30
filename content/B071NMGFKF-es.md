@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'find.  Camisa Casual para Hombre  Blanco  Ecru   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NMGFKF/?tag=tolees-21'
 descuento: '70.00'
 average: '13.333333333333334'

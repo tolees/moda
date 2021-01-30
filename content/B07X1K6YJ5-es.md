@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Mishansha Zapatillas Invierno Hombre Casa Zapatos Antideslizante Caliente Pantuflas Casa Cómodas Suave Memory Foam Slippers Blanco 44/45'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1K6YJ5/?tag=tolees-21'
 descuento: '23.54'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Desigual Coat Letras Abrigo  Azul  Navy 5000   48  Talla del Fabricante: 46  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3BKD4Q/?tag=tolees-21'
 descuento: '74.96'
 average: '55.4625'

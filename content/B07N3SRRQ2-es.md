@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Desigual T-Shirt Audrie Camiseta  Azul  Blue Depths 5149   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3SRRQ2/?tag=tolees-21'
 descuento: '49.99'
 average: '29.98'

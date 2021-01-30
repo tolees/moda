@@ -16,6 +16,7 @@ comparePrice: 17.94 EUR
 prodname: 'JACK & JONES Jcojordan tee SS Crew Neck Camiseta  Azul  Azure Blue Fit: Slim   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PB9PQDW/?tag=tolees-21'
 descuento: '41.53'
 average: '10.49'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Helly Hansen Jr Moss Chaqueta Impermeable  Unisex niños  Essential Yellow  16 YRS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHDNFSG/?tag=tolees-21'
 descuento: '32.02'
 average: '33.99'

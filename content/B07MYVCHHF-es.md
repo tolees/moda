@@ -16,6 +16,7 @@ comparePrice: 23.5 EUR
 prodname: 'Gafas de sol para hombre polarizadas para mujer - UV 400 Protección 60MM por LUENX Rojo rosso L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYVCHHF/?tag=tolees-21'
 descuento: '53.19'
 average: '11.049999999999999'

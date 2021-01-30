@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox Rishon Bebé  Deportivas Niño Transpirantes con Diseño de Inspiración Running. para Bebés  Verde Verde  21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STKZKXT/?tag=tolees-21'
 descuento: '28.22'
 average: '35.82'

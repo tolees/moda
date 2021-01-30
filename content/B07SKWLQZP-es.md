@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Havaianas Top Vibes  Chanclas para Mujer  Multicolor  Turquoise 0212   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKWLQZP/?tag=tolees-21'
 descuento: '50.00'
 average: '8.95'

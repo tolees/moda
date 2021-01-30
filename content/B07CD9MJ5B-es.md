@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'REPLAY M3591 .000.2660 Camiseta  Blanco  White 1   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CD9MJ5B/?tag=tolees-21'
 descuento: '43.37'
 average: '16.99'

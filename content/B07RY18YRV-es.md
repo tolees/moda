@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Only Frsfrankie Training SS tee-Unit Camiseta  Negro  Black Detail: Melange   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY18YRV/?tag=tolees-21'
 descuento: '62.73'
 average: '7.45'

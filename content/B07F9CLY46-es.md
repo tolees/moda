@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry Label Vntge Emb S/S tee Camiseta de Tirantes  Blanco  Optic White 26C   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9CLY46/?tag=tolees-21'
 descuento: '48.02'
 average: '12.99'

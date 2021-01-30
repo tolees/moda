@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Dickies Cornwell  Abrigo impermeable para Hombre  Gris  Charcoal   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E3G29GK/?tag=tolees-21'
 descuento: '66.27'
 average: '31.413333333333334'

@@ -16,6 +16,7 @@ comparePrice: 134.9 EUR
 prodname: 'Timberland Bradstreet Ox  Zapatos de Cordones Oxford para Hombre  Marrón Dark Brown 242  43 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E42CRA6/?tag=tolees-21'
 descuento: '37.73'
 average: '84.0'

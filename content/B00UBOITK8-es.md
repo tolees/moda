@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Trunk Bóxer  Negro  Black/Grey Heather/White 004   Medium  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UBOITK8/?tag=tolees-21'
 descuento: '44.52'
 average: '25.654'

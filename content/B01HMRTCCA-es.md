@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'The North Face T92TX5 Camiseta De Manga Corta Simple Dome  Hombre  Negro  TNF Black   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HMRTCCA/?tag=tolees-21'
 descuento: '32.64'
 average: '15.926666666666666'

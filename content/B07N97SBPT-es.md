@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'BOSS Trek 4 Camiseta  Negro  Black 001   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N97SBPT/?tag=tolees-21'
 descuento: '63.32'
 average: '21.99'

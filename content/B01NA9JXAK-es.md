@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ducomi® Master Classic - Gafas de Sol con Madera de Caña de Bambú - Protección UV400  Negro  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NA9JXAK/?tag=tolees-21'
 descuento: '56.82'
 average: '12.95'

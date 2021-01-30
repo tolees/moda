@@ -16,6 +16,7 @@ comparePrice: 21.91 EUR
 prodname: 'Levi s SS Original Hm tee Camiseta  U E Print  XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVQQ1QL/?tag=tolees-21'
 descuento: '43.18'
 average: '14.299999999999999'

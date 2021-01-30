@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Core Stretch Slim CNECK tee Camiseta  Negro  Flag Black 083   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016QM52FI/?tag=tolees-21'
 descuento: '15.36'
 average: '33.77'

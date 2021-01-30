@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño clásico y cómodos de Usar  Treasure Island Lot LTWT Tnl 3002  30W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHG9HM/?tag=tolees-21'
 descuento: '20.80'
 average: '79.2'

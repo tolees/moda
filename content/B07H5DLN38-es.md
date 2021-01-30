@@ -16,6 +16,7 @@ comparePrice: 59.01 EUR
 prodname: 'Dannto Zapatos luminosos de 7 colores con luz led para unisex-niños 3.5 Reino Unido C Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5DLN38/?tag=tolees-21'
 descuento: '47.14'
 average: '30.75'

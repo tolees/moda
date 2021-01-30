@@ -16,6 +16,7 @@ comparePrice: 119.98 EUR
 prodname: 'LEABAGS Boston Bolso de Mensajero de auténtico Cuero búfalo en el Estilo Vintage - Muskat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017RNULXI/?tag=tolees-21'
 descuento: '20.84'
 average: '94.98'

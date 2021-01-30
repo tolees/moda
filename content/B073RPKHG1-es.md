@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Helly Hansen HH Tech T Camiseta  Hombre  Gris  Gris Oscuro 980   Large  Tamaño del Fabricante:L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPKHG1/?tag=tolees-21'
 descuento: '36.22'
 average: '12.75'

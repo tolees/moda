@@ -16,6 +16,7 @@ comparePrice: 20.6 EUR
 prodname: 'NOTONEON Collar del Regalo del día de la Madre  Plata del Platino AAA Regalo del Zircon de la Cebra Transparente para la Madre  Mujer  YN-002'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DV2J1V/?tag=tolees-21'
 descuento: '36.94'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'PUMA Popcat 20 TS  Sandalias deslizantes Unisex-Adulto  Azul  Peacoat White   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9S4FCN/?tag=tolees-21'
 descuento: '41.22'
 average: '13.49'

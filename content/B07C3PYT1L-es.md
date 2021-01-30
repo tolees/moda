@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'INFUSEU 925 Árbol de la Vida de Plata Collar de la Mujer  Irlandesa afortunada del Nudo Celta Colgante y Cadena de 18" joyería con Encanto  Regalo para Las señoras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C3PYT1L/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

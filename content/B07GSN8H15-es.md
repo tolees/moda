@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjitim Jjoriginal Am 816 Vaqueros Slim Fit  Azul  Black Denim Black Denim   29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSN8H15/?tag=tolees-21'
 descuento: '53.01'
 average: '18.79'

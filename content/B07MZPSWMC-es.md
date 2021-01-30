@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Nouvelle Sudadera   Grey Marl 933   9-10 años  Talla del Fabricante: 9/10 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPSWMC/?tag=tolees-21'
 descuento: '74.15'
 average: '14.22'

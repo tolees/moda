@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Nike Court Borough Low VF  GS   Zapatos de Baloncesto para Niñas  Multicolor  Black/Pale Ivory/Pink Tint 001   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MH5NCTZ/?tag=tolees-21'
 descuento: '17.14'
 average: '37.28'

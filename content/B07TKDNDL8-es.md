@@ -16,6 +16,7 @@ comparePrice: 37.72 EUR
 prodname: 'Levi s 514 Vaqueros Straight  Beige  Harvest Gold Bi Stretch WT B 1311   33W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKDNDL8/?tag=tolees-21'
 descuento: '31.52'
 average: '25.83'

@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Disney Sudadera para niños Toy Story Multicolor 3-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS2X8ND/?tag=tolees-21'
 descuento: '47.49'
 average: '9.95'

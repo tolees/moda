@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'United Colors of Benetton Basico 3 Woman Abrigo   Negro 100   38  Talla del Fabricante: 42  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N48LHMJ/?tag=tolees-21'
 descuento: '87.46'
 average: '26.65'

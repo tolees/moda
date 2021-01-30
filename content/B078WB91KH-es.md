@@ -16,6 +16,7 @@ comparePrice: 104.9 EUR
 prodname: 'Stonefly Berry II 1 Calf  Zapatos de Cordones Brogue para Hombre  Negro  Black 000   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WB91KH/?tag=tolees-21'
 descuento: '52.37'
 average: '45.085'

@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Lacoste L1212 Camiseta Polo  Azul  Tanzanite C8Q   XS  Talla del fabricante: 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006YLR8TA/?tag=tolees-21'
 descuento: '50.11'
 average: '43.385'

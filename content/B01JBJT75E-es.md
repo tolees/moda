@@ -16,6 +16,7 @@ comparePrice: 31.18 EUR
 prodname: 'Arena 1E49171 Gafas de natación  Unisex Adulto  Blue  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JBJT75E/?tag=tolees-21'
 descuento: '35.98'
 average: '19.96'

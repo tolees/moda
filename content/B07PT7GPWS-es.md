@@ -16,6 +16,7 @@ comparePrice: 26.04 EUR
 prodname: 'Marca Amazon - MERAKI Jersey Cuello Cremallera Hombre  Verde  Khaki   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT7GPWS/?tag=tolees-21'
 descuento: '16.09'
 average: '21.85'

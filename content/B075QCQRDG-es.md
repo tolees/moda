@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Wantdo Chaqueta Gruesa Impermeable Contraviento para Niñas con Capucha Azul Claro+Azul Oscuro 4/5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QCQRDG/?tag=tolees-21'
 descuento: '20.02'
 average: '7.19'

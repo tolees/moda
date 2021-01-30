@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Rival Terry Pantalón  Mujer  Negro  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNS4R2Z/?tag=tolees-21'
 descuento: '30.06'
 average: '34.97'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'BOSS Trunk BF Original Bóxer  Negro  Black 001   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072R3LYZX/?tag=tolees-21'
 descuento: '20.00'
 average: '19.96'

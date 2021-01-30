@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Daren Zip Fly Vaqueros Straight  Gris  Grey Bell Kq   34W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY21SMJ/?tag=tolees-21'
 descuento: '72.34'
 average: '27.65'

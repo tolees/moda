@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'JACK & JONES Jprwetford Parka STS  Negro  Black Black   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8WC9WY/?tag=tolees-21'
 descuento: '57.01'
 average: '49.49'

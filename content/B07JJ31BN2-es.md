@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Lonsdale - Chaqueta - Universidad - Manga Larga - para niño Azul Azul Marino M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ31BN2/?tag=tolees-21'
 descuento: '61.34'
 average: '28.99'

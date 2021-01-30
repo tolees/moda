@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler Slim Western Shirt Blusa  Azul  Dark Indigo X1e   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M962THH/?tag=tolees-21'
 descuento: '72.77'
 average: '19.05'

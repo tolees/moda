@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger TJM Contrast Pocket tee Camiseta  Blanco  White Ybr   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVFHSQ4/?tag=tolees-21'
 descuento: '32.93'
 average: '20.45'

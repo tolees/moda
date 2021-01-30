@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Cartera pequeña con Monedero para Hombre - Billetera de Piel con Tarjetero RFID y Monedero con Cremallera  Regalos para Hombre  Azul/Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771GSZ8N/?tag=tolees-21'
 descuento: '23.01'
 average: '21.080000000000002'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 721 High Rise Skinny Vaqueros  Verde  Hyper Soft T2 Olive Night 0267   W23/L32  Talla del Fabricante: 23 32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXF9MX8/?tag=tolees-21'
 descuento: '66.09'
 average: '30.52'

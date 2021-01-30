@@ -16,6 +16,7 @@ comparePrice: 25.8 EUR
 prodname: 'Nike M NSW tee Icon Futura Camiseta  Hombre  Midnight Navy/White/Orange Pulse  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMZPL4T/?tag=tolees-21'
 descuento: '66.47'
 average: '8.65'

@@ -16,6 +16,7 @@ comparePrice: 15.64 EUR
 prodname: 'Intimuse Shari  vestido Mujer  Morado  lila   36   XS/36 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9CGMRA/?tag=tolees-21'
 descuento: '55.56'
 average: '6.95'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Timberland Los Angeles Slingback  Sandalias con Plataforma y Tiras para Mujer  Negro  Black Full Grain   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4HCMP4/?tag=tolees-21'
 descuento: '38.33'
 average: '61.67'

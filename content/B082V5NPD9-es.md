@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Canadian Peak Chaqueta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V5NPD9/?tag=tolees-21'
 descuento: '40.00'
 average: '59.4'

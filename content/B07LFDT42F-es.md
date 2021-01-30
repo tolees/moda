@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Azul  Cedar Od Flat ADV Tnl 0515   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFDT42F/?tag=tolees-21'
 descuento: '79.97'
 average: '23.04'

@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Joma Suez Pantalón  Hombre  Azul Marino  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GZOGDBU/?tag=tolees-21'
 descuento: '16.99'
 average: '15.61'

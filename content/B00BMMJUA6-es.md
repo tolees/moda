@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Dublin B  Zapatos de Cordones Brogue para Hombre  Negro  BLACKC9999   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BMMJUA6/?tag=tolees-21'
 descuento: '49.97'
 average: '49.98'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'AOQUSSQOA Mujer Traje de Baño de Una Pieza Retro Monokinis Pin Up Halter Talla Grande Una Pieza Moda Sexy con Uno/Dos Tirantes  EU 50-52  5XL   B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVYQPDM/?tag=tolees-21'
 descuento: '54.60'
 average: '20.88'

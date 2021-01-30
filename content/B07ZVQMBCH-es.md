@@ -16,6 +16,7 @@ comparePrice: 21.49 EUR
 prodname: 'Levi s Orig HM Vneck Camiseta  Dusky Citron  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVQMBCH/?tag=tolees-21'
 descuento: '23.27'
 average: '16.49'

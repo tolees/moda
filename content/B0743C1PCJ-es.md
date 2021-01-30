@@ -16,6 +16,7 @@ comparePrice: 18.79 EUR
 prodname: 'Marca Amazon - Lark & Ro Classic Cap-Sleeve Wrap Dress Vestido  Wine Floral  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0743C1PCJ/?tag=tolees-21'
 descuento: '28.42'
 average: '13.45'

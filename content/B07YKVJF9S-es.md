@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Esprit 999ee1n801 Camiseta  Blanco  White 100   X-Large  Pack de 2  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YKVJF9S/?tag=tolees-21'
 descuento: '41.17'
 average: '15.29'

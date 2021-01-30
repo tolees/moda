@@ -16,6 +16,7 @@ comparePrice: 21.85 EUR
 prodname: 'Hackett Amr Pro Camo T Camiseta  Negro  Black 999   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7DHBS8/?tag=tolees-21'
 descuento: '25.95'
 average: '16.86'

@@ -16,6 +16,7 @@ comparePrice: 40.77 EUR
 prodname: 'Levi s Housemark Polo  Camiseta para Hombre  Gris  M7511 HEATHER GREY M7511 2   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BLOJPZY/?tag=tolees-21'
 descuento: '18.10'
 average: '33.39'

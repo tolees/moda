@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Under Armour UA HOVR Havoc 2  Zapatos de Baloncesto para Hombre  Rojo  Red/Glow Orange/Black  600  600   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKK4XFF/?tag=tolees-21'
 descuento: '53.47'
 average: '61.22333333333333'

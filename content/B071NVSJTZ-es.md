@@ -16,6 +16,7 @@ comparePrice: 65.95 EUR
 prodname: 'Izas Nasser Chaqueta Fibra  Hombre  Agua Maria / Lima  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NVSJTZ/?tag=tolees-21'
 descuento: '62.93'
 average: '24.45'

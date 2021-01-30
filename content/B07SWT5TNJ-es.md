@@ -16,6 +16,7 @@ comparePrice: 8.51 EUR
 prodname: 'REPLAY M3590 .000.2660 Camiseta  Gris  Stone Grey. 396   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWT5TNJ/?tag=tolees-21'
 descuento: '20.80'
 average: '6.74'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Mickey Vintage Mv DS Dots PJ FR Conjuntos de Pijama  Multicolor  Hielo 94   X-Small  Tamaño del Fabricante: XS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ59S7R/?tag=tolees-21'
 descuento: '57.19'
 average: '12.84'

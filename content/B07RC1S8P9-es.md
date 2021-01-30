@@ -16,6 +16,7 @@ comparePrice: 22.4 EUR
 prodname: 'O NEILL LM Irvine 52 Sudadera con Capucha para Hombre  Hombre  9P1422  Dark Grey Melee  Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC1S8P9/?tag=tolees-21'
 descuento: '25.27'
 average: '16.979999999999997'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Flashback  Chaqueta cortavientos  Hombre  Gris/Negro  City Grey/Negro  Shark    S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BJSZVW/?tag=tolees-21'
 descuento: '29.03'
 average: '27.06'

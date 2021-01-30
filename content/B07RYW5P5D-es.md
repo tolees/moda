@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'BOSS Brief 3p Co/El Bóxer  Multicolor  S  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYW5P5D/?tag=tolees-21'
 descuento: '49.99'
 average: '18.98'

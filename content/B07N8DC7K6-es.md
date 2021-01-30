@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES NOS Jjialvin Jjjacket Sa 001 Noos Chaqueta Vaquera  Azul Blue Denim  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8DC7K6/?tag=tolees-21'
 descuento: '36.01'
 average: '31.72'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Myria D  Zapatillas para Mujer  Beige  Lt Taupe C6738   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRK9RWH/?tag=tolees-21'
 descuento: '76.98'
 average: '27.906666666666666'

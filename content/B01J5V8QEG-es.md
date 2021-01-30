@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Vicloon - Disfraz de Princesa Elsa - Reino de Hielo - Vestido de Cosplay de Carnaval  Halloween y la Fiesta de Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J5V8QEG/?tag=tolees-21'
 descuento: '20.68'
 average: '12.256666666666668'

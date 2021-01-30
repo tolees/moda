@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Women s Secret Black & White Multilicense Mbw MF Igloo PJ Conjuntos de Pijama  Marfil  Marfil 97   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ54SPQ/?tag=tolees-21'
 descuento: '59.50'
 average: '14.98'

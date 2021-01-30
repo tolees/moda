@@ -16,6 +16,7 @@ comparePrice: 16.27 EUR
 prodname: '⭐ Za atar Libanés Del Chef ⭐ 200 Gr ⭐ NABÜR GOURMET ⭐ Auténtico  Rico  Poderoso Bag Bolso reutilizable ⭐ LANZAMIENTO DE OFERTA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJCJ9WF/?tag=tolees-21'
 descuento: '18.44'
 average: '13.27'

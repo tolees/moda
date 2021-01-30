@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Umbro Set de 5 boxers  5NEGROS  -100% algodón-color negro x5  Bóxer  PACK 05 T040-1  L Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP13FNT/?tag=tolees-21'
 descuento: '66.83'
 average: '19.43846153846154'

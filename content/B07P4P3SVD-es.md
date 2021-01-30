@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Art Harlem  Botines para Mujer  Marrón  Cuero Cuero   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4P3SVD/?tag=tolees-21'
 descuento: '22.19'
 average: '116.68'

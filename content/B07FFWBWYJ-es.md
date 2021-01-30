@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Eono Essentials - Chaqueta impermeable para hombre con capucha fija  Gris claro  L |Chaqueta invierno hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFWBWYJ/?tag=tolees-21'
 descuento: '47.04'
 average: '20.65'

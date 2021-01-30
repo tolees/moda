@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Desigual Blouse LUMBE Blusa  Blanco 1000  S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3TYLMK/?tag=tolees-21'
 descuento: '66.61'
 average: '20.02'

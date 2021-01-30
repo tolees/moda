@@ -16,6 +16,7 @@ comparePrice: 55.79 EUR
 prodname: 'BIGABIGA Mujer Moda Punta Redonda Shallow Casual Lofers Zapatos Tacón Bajo Rhinestones Beige Talla 46 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089SDT5NF/?tag=tolees-21'
 descuento: '50.19'
 average: '27.79'

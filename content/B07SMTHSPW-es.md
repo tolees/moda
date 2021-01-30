@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Burton Classic Mountain High Camiseta  Hombre  True Black  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMTHSPW/?tag=tolees-21'
 descuento: '35.03'
 average: '19.49'

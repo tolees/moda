@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Classic VGGG  Camiseta Para Hombre  Azul  Royal/White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004FPYLUQ/?tag=tolees-21'
 descuento: '20.17'
 average: '19.45'

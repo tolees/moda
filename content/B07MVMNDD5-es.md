@@ -16,6 +16,7 @@ comparePrice: 16.81 EUR
 prodname: 'Marca Amazon - MERAKI Calzoncillo Corto de Algodón Hombre  Pack de 4  Gris  gris medio .  L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVMNDD5/?tag=tolees-21'
 descuento: '27.25'
 average: '12.23'

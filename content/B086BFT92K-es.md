@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'TENDYCOCO 100Pcs Cubren Los Zapatos Útiles Portátiles Cubren Zapatos Antideslizantes Antideslizantes Cubren Las Cubiertas Del Zapato para El Hogar Al Aire Libre - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086BFT92K/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

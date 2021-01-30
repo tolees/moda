@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Pepe Jeans Original Stretch Camiseta  Gris  Grey Marl 933   2X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN5NLPW/?tag=tolees-21'
 descuento: '53.37'
 average: '17.99'

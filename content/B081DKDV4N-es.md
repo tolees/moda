@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'BILLABONG™ - Bañador de Surf de pantalón - Hombre - M - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DKDV4N/?tag=tolees-21'
 descuento: '31.87'
 average: '20.44'

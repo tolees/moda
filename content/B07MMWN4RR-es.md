@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Wrangler Sign Off Crew Sudadera  Amarillo  Mineral Yellow Aym   XXXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWN4RR/?tag=tolees-21'
 descuento: '81.63'
 average: '13.649999999999999'

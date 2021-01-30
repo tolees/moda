@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'BOSS Trunk 3p One Design Bóxer   Open Miscellaneous 960   Small  Pack de 3 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBWFWVF/?tag=tolees-21'
 descuento: '64.03'
 average: '17.485'

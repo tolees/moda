@@ -16,6 +16,7 @@ comparePrice: 281.0 EUR
 prodname: 'Prada 67Ts  Gafas de Sol Unisex Adulto  Negro  Black   63'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYN4Z9H/?tag=tolees-21'
 descuento: '75.16'
 average: '72.7'

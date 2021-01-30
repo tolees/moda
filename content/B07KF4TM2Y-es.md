@@ -16,6 +16,7 @@ comparePrice: 44.13 EUR
 prodname: 'Levi s Type 3 Chaqueta Vaquera  Azul  Palmer Sherpa Trucker 0105   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4TM2Y/?tag=tolees-21'
 descuento: '18.74'
 average: '35.86'

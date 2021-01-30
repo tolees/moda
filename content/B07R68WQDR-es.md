@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Natural Feelings Calzoncillos Boxer Bóxer Hombre Algodón Calzoncillos Boxer de Moda Comodo Calzoncillos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R68WQDR/?tag=tolees-21'
 descuento: '22.73'
 average: '33.99'

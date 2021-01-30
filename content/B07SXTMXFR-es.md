@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox D ANNYTAH D  Bailarinas para Mujer  Beige  Lt Grey C1010   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXTMXFR/?tag=tolees-21'
 descuento: '52.64'
 average: '42.58'

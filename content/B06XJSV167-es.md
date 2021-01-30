@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pepe Jeans Spike Vaqueros  Negro  Black Used Wa3   W28/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJSV167/?tag=tolees-21'
 descuento: '50.52'
 average: '46.24714285714286'

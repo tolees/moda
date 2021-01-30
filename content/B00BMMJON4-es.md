@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U Dublin A  Derby para Hombre  Negro  BLACKC9999   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BMMJON4/?tag=tolees-21'
 descuento: '46.00'
 average: '68.96666666666667'

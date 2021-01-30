@@ -16,6 +16,7 @@ comparePrice: 19.7 EUR
 prodname: 'Esprit 107ee1k036 Camisa Manga Larga   Off White 110   XX-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073YBMKJS/?tag=tolees-21'
 descuento: '47.56'
 average: '10.33'

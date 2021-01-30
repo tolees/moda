@@ -16,6 +16,7 @@ comparePrice: 5.93 EUR
 prodname: 'Fruit of the Loom- Camiseta de Manga Corta Sofspun para niñas  12-13 Años/Grafito Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B1TXMXP/?tag=tolees-21'
 descuento: '33.39'
 average: '3.95'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Model Sudadera con Capucha con Logo  Mujer  Gris  Tradewinds Grey Heather   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B6M6PL/?tag=tolees-21'
 descuento: '26.67'
 average: '43.99'

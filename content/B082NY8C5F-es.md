@@ -16,6 +16,7 @@ comparePrice: 13.98 EUR
 prodname: 'Oihxse Transparente Silicona Case Compatible con Xiaomi Mi 5X/Xiaomi Mi A1 Funda Suave TPU Protección Carcasa Moda Dibujos Animados Divertida Diseño Ultra-Delgado Cubierta-Montaña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NY8C5F/?tag=tolees-21'
 descuento: '42.92'
 average: '7.98'

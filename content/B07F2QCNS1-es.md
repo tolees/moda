@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Helly Hansen HH Logo Crew Sudadera Deportiva  Mujer  Grey Melange  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2QCNS1/?tag=tolees-21'
 descuento: '44.18'
 average: '33.49'

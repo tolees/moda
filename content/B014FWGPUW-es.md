@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Pepe Jeans Soho Vaqueros  Negro  10Oz Washed Black S98   24W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014FWGPUW/?tag=tolees-21'
 descuento: '48.11'
 average: '43.64333333333333'

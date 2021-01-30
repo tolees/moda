@@ -16,6 +16,7 @@ comparePrice: 10.4 EUR
 prodname: 'Marca Amazon - find. Vestido Asimétrico para Mujer  Rojo  Red   42  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071XC5NSX/?tag=tolees-21'
 descuento: '16.63'
 average: '11.283333333333333'

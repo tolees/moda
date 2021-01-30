@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'eonar Mujer Push-up Bikini Desmontable Acolchado Bra Ajustable Trajes de baño M M-Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY54BWQ/?tag=tolees-21'
 descuento: '44.44'
 average: '20.0'

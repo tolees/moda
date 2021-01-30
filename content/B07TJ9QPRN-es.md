@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Original Camiseta  Rojo  Hm Patch OG Hm tee Earth Red 0008   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ9QPRN/?tag=tolees-21'
 descuento: '49.64'
 average: '14.642499999999998'

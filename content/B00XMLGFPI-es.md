@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Soho Vaqueros  Dark Used Worn  31W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XMLGFPI/?tag=tolees-21'
 descuento: '34.68'
 average: '44.690000000000005'

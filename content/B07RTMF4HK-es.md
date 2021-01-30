@@ -16,6 +16,7 @@ comparePrice: 45.8 EUR
 prodname: 'New Look Oversized PU Chaqueta  Negro  Black 1   36  Talla del Fabricante: 8  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTMF4HK/?tag=tolees-21'
 descuento: '61.64'
 average: '20.796666666666667'

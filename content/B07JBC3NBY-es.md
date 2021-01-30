@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Columbia Lay D Down II Chaqueta  Mujer  Negro  Black 011   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBC3NBY/?tag=tolees-21'
 descuento: '68.04'
 average: '79.9'

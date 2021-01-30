@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Bolsa Maternal de Pañales RUVALINO  Gran Bolso de Viaje  para el Carrito del Bebé  Elegante para Mamá y Papá  Cambiador de Bebé Convertible para Niños y Niñas con Bolsillos Independientes  gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7T6QV2/?tag=tolees-21'
 descuento: '58.77'
 average: '32.98'

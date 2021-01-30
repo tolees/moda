@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Only Onlmay Life Vestido de Verano  Apple Butter  XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085SM6HH1/?tag=tolees-21'
 descuento: '31.85'
 average: '11.92'

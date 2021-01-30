@@ -16,6 +16,7 @@ comparePrice: 34.31 EUR
 prodname: 'Marca Amazon - find. Abrigo Cruzado de Lana Hombre  azul  marino   XL  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLVQJQV/?tag=tolees-21'
 descuento: '18.77'
 average: '27.87'

@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Crocband Clog K  Zuecos Unisex-Bambini  Verde  Neo Mint 3TI   19/20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBB84C4/?tag=tolees-21'
 descuento: '26.20'
 average: '23.61'

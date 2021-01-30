@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Lee Scarlett High Vaqueros  Azul  Sitka Worn In Jq   25W/33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5DH6JS/?tag=tolees-21'
 descuento: '68.51'
 average: '25.18'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s Graphic Set-In Neck  Camiseta para Hombre  Gris  C18976 Graphic H215 Midtone Htr Grey Graphic H215-Hm 36.2 138   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VLN9CWC/?tag=tolees-21'
 descuento: '20.25'
 average: '14.95'

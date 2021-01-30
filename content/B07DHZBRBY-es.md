@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox D Nebula C  Zapatillas para Mujer  Negro  Gun C1357   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHZBRBY/?tag=tolees-21'
 descuento: '56.84'
 average: '60.803333333333335'

@@ -16,6 +16,7 @@ comparePrice: 40.67 EUR
 prodname: 'Indicode Glenn Camisa  Azul  Sky Way   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ6W1XU/?tag=tolees-21'
 descuento: '71.90'
 average: '11.43'

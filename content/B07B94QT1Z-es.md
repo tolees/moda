@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Dalia Rose  Zapatos de Tacón para Mujer  Negro  Black Patent   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B94QT1Z/?tag=tolees-21'
 descuento: '71.85'
 average: '28.14'

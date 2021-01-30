@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Under Armour Women s Training Glove Guantes  Mujer  Negro  Black/Silver 001   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSGTXGB/?tag=tolees-21'
 descuento: '24.39'
 average: '17.39'

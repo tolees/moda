@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Mizuno Sala Classic 2 IN  Zapatilla de fútbol Sala  Blue-White-Yellow  Talla 11 USA  44 1/2 EUR '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTDZT3Q/?tag=tolees-21'
 descuento: '66.64'
 average: '20.0'

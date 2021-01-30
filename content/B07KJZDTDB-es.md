@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Spike Vaqueros Straight  Gris  Wiser Wash Grey Used Denim Wy0   36W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJZDTDB/?tag=tolees-21'
 descuento: '45.27'
 average: '51.99'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Guantes Impermeables Pantalla Táctil Esquí al Aire libre Ciclismo Acampar Senderismo Guantes  Antideslizantes Guantes Térmicos de Invierno de dedo Completo para Hombres y Mujeres  XXL:10-12in '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1KP93R/?tag=tolees-21'
 descuento: '60.75'
 average: '10.99'

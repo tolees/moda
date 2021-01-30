@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Birkenstock Classic Arizona EVA  Zuecos para Hombre  Blanco  Blanc Blanc   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LFCGVW8/?tag=tolees-21'
 descuento: '25.00'
 average: '24.78'

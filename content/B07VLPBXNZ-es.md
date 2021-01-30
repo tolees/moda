@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Malone Vaqueros  Light del Rey Ej  29W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLPBXNZ/?tag=tolees-21'
 descuento: '33.31'
 average: '59.99'

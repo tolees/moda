@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'AOQUSSQOA Abdomen de Las Mujeres Tankini Traje de baño de Gran tamaño patrón Falda del Cuerpo Que Forma Traje de baño  EU 38-40  XL   A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW4RH6N/?tag=tolees-21'
 descuento: '56.01'
 average: '21.99'

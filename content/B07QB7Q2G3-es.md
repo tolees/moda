@@ -16,6 +16,7 @@ comparePrice: 16.6 EUR
 prodname: 'P Prettyia Calzador de Zapatos de Madera Mango Largo Levantador de Calzado Pulido Liso con Correa Colgante - S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB7Q2G3/?tag=tolees-21'
 descuento: '44.46'
 average: '9.22'

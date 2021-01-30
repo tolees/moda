@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Lacoste Th3377 Camiseta  Plateado  Argent Chiné/Marine Mnc   2XL  Talla del Fabricante: 7  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHXLTZ8/?tag=tolees-21'
 descuento: '29.56'
 average: '31.7'

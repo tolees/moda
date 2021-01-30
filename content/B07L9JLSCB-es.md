@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Under Armour Coldgear Reactor Performance 3g Hybrid Chaqueta  Mujer  Negro  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9JLSCB/?tag=tolees-21'
 descuento: '29.50'
 average: '70.5'

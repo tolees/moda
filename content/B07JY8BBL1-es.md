@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Malone Vaqueros Skinny  Negro  Black Rinse 47   26W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JY8BBL1/?tag=tolees-21'
 descuento: '52.75'
 average: '42.5'

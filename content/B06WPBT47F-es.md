@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger SS tee Print Top de pijama  Gris  Grey Heather 004   Medium  Talla del fabricante: MD  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WPBT47F/?tag=tolees-21'
 descuento: '41.51'
 average: '17.49'

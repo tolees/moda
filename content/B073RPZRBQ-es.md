@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto  Mujer  Light Grey  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPZRBQ/?tag=tolees-21'
 descuento: '42.60'
 average: '14.64'

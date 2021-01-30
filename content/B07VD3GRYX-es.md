@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Calvin Klein Washed Stripe Stretch Shirt  f  Camisa  Azul  Night Sky Chw   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD3GRYX/?tag=tolees-21'
 descuento: '56.93'
 average: '28.31'

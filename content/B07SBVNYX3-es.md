@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA CALI WN S Zapatos Deportivos Mujer  Blanco  Puma White-Puma Black 17   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVNYX3/?tag=tolees-21'
 descuento: '43.36'
 average: '50.95'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Keen Seacamp II CNX  Sandalias de Senderismo Unisex Niños  Rojo  Racing Red/Gargoyle   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0108VQE7S/?tag=tolees-21'
 descuento: '33.39'
 average: '19.95'

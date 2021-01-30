@@ -16,6 +16,7 @@ comparePrice: 24.39 EUR
 prodname: 'Dockers by Gerli 43ln201  Botines para Mujer  Marrón  Braun 300   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3GY97P/?tag=tolees-21'
 descuento: '24.93'
 average: '19.945'

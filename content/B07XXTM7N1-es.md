@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'CHICTRY Chaqueta de Princesa Fiesta Boda Danza para Niña Elegante Cárdigan Abrigo Bolero Invierno Otoño Bebé Niña  12 Meses-8 años  Marfil 12-18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XXTM7N1/?tag=tolees-21'
 descuento: '66.69'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Step Explorhi  Botines para Mujer  Negro  Black Black   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1H64CF/?tag=tolees-21'
 descuento: '69.68'
 average: '21.21'

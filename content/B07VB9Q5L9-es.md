@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Chaq Cerezas Abrigo  Azul  Jeans Vaquero 5053   140  Talla del Fabricante: 9/10  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB9Q5L9/?tag=tolees-21'
 descuento: '50.04'
 average: '34.95'

@@ -16,6 +16,7 @@ comparePrice: 13.27 EUR
 prodname: 'Tommy Hilfiger TJM NYC Small Logo tee Camiseta Deporte  Gris  Lt Grey Htr P01   Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYNL53X/?tag=tolees-21'
 descuento: '27.58'
 average: '9.61'

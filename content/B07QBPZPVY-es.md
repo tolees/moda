@@ -16,6 +16,7 @@ comparePrice: 10.71 EUR
 prodname: 'New Look Sport Harrington Chaqueta Bomber  Azul  Navy 41   Medium  Talla del Fabricante: 52  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QBPZPVY/?tag=tolees-21'
 descuento: '17.83'
 average: '14.030000000000001'

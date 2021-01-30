@@ -16,6 +16,7 @@ comparePrice: 46.37 EUR
 prodname: 'XIANGUO Guantes Invierno Ciclismo  Guantes Pantalla Tactil Hombre Guantes Antideslizantes Mpermeables Calientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFNH4S1/?tag=tolees-21'
 descuento: '65.73'
 average: '15.89'

@@ -16,6 +16,7 @@ comparePrice: 37.74 EUR
 prodname: 'Tommy Hilfiger TH Cool ESS Relaxed C-nk tee SS Camiseta  Azul  Sail Blue Cyt   46  Talla del Fabricante: XXX-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS6HYJQ/?tag=tolees-21'
 descuento: '59.22'
 average: '15.39'

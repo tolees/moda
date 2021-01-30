@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Vaqueros  Dark Pool GP  34W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8VJYFD/?tag=tolees-21'
 descuento: '49.99'
 average: '44.98'

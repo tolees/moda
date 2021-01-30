@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PITTMAN Hombre Pantalones de Chándal Cargo Deportivo Bruno Pantalón Hombres Joggers Algodón  Gris  Castlerock 180201   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z94NQJW/?tag=tolees-21'
 descuento: '30.03'
 average: '34.95'

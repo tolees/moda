@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Mercedes-Benz Sonnenbrille M3019 Gafas de sol  Marrón  Braun   58.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E1WJC8I/?tag=tolees-21'
 descuento: '81.53'
 average: '31.939999999999998'

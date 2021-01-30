@@ -16,6 +16,7 @@ comparePrice: 12.29 EUR
 prodname: 'Marca Amazon - find. Americana de Lino Mujer  Negro  Black   38  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMCTVPK/?tag=tolees-21'
 descuento: '38.16'
 average: '7.6'

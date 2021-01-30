@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH en el Pecho  Hombre  Azul  Marino   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPP3R8/?tag=tolees-21'
 descuento: '28.51'
 average: '18.096666666666664'

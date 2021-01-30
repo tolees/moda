@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Timberland Los Angeles Slingback  Sandalias con Plataforma y Tiras para Mujer  Olive Nubuck  Olive Nubuck   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4JMMM5/?tag=tolees-21'
 descuento: '37.83'
 average: '62.17'

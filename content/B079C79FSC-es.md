@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Jack & Jones  Jjebasic Polo SS Noos - Camiseta para Hombre  Negro   Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C79FSC/?tag=tolees-21'
 descuento: '46.70'
 average: '7.9766666666666675'

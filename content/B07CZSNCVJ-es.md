@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Under Armour Sportstyle Logo LS Camiseta  Hombre  Azul  Academy/White 408   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZSNCVJ/?tag=tolees-21'
 descuento: '28.34'
 average: '19.03'

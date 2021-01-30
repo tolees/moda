@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Kappa TALBINO Pantalón Corto de equipación  Hombre  Blanco/Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079T16TMV/?tag=tolees-21'
 descuento: '33.39'
 average: '11.99'

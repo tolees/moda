@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Superdry Highwayman Trucker Chaqueta Vaquera  Gris  Silver City Grey P1p   2XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLLGDHJ/?tag=tolees-21'
 descuento: '63.08'
 average: '33.22'

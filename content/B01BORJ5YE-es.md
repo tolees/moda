@@ -16,6 +16,7 @@ comparePrice: 34.73 EUR
 prodname: 'Erima GmbH Classic Team Chaqueta para Todo Tiempo  Unisex Adulto  Rojo/Blanco  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BORJ5YE/?tag=tolees-21'
 descuento: '50.42'
 average: '17.22'

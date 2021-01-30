@@ -16,6 +16,7 @@ comparePrice: 124.96 EUR
 prodname: 'Bombers Original Berlin Chaqueta  Rot  Burgundy 5   40 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HB4XE6E/?tag=tolees-21'
 descuento: '88.68'
 average: '14.14'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'The North Face T92TX3 Camiseta Easy  Hombre  Multicolor  Tnfmdgyhtr  Std    S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HMRV8UY/?tag=tolees-21'
 descuento: '16.70'
 average: '21.561999999999998'

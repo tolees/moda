@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jjiglenn Jjoriginal Am 814 Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W33/L32  Talla del Fabricante: 33  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JP65RQD/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

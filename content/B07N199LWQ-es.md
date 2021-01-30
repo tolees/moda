@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 3301 High Waist Straight 90 s Ankle Vaqueros  Negro  Authentic Black 9873-A811   28W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N199LWQ/?tag=tolees-21'
 descuento: '79.29'
 average: '29.225'

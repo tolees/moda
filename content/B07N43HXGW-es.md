@@ -16,6 +16,7 @@ comparePrice: 139 EUR
 prodname: 'Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sudadera   Charcoal Heather P9x   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N43HXGW/?tag=tolees-21'
 descuento: '67.68'
 average: '47.86'

@@ -16,6 +16,7 @@ comparePrice: 44.83 EUR
 prodname: 'Odetina - Sandalias de tacón alto con correa de hebilla  puntera de almendra  para mujer  color Negro  talla 41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872QJXDF/?tag=tolees-21'
 descuento: '50.01'
 average: '22.41'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Yigou Chubasquero  Poncho de Lluvia Impermeable Poncho con Capucha Ropa Chaqueta Impermeable Reutilizable Portátil para Unisex  Chubasqueros Impermeable  Paquete de 2   160-190 cm  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811JFJCB/?tag=tolees-21'
 descuento: '38.11'
 average: '12.99'

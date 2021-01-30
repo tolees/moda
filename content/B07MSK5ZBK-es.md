@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Atticus Cap  Zapatos de Cordones Derby para Hombre  Azul Navy Nubuck Navy Nubuck  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSK5ZBK/?tag=tolees-21'
 descuento: '58.68'
 average: '49.252857142857145'

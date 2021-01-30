@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Roxy Essential Element Chaqueta  Mujer  Verde  Burnt Olive GPZ0   Medium  Tamaño del Fabricante:M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFJ2ZY7/?tag=tolees-21'
 descuento: '75.55'
 average: '43.6'

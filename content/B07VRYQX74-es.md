@@ -16,6 +16,7 @@ comparePrice: 32.72 EUR
 prodname: 'Calvin Klein Hip Brief 2pk Boxer  Negro  Black with/White WB Bnm   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRYQX74/?tag=tolees-21'
 descuento: '58.01'
 average: '13.74'

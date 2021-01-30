@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Azul  90 s Serif T2 Baby Blue 0782   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXKYW9Z/?tag=tolees-21'
 descuento: '40.04'
 average: '14.731666666666666'

@@ -16,6 +16,7 @@ comparePrice: 30.37 EUR
 prodname: 'Mallalah Chaqueta de bebé niña Abrigo Trench Coat Sudadera con cinturón Princesa Niños Chaquetas Parka Ropa Prendas de Abrigo 0-4 años Primavera Otoño  XXS  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYK21DJ/?tag=tolees-21'
 descuento: '80.01'
 average: '6.07'

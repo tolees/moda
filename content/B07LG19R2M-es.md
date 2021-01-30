@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Geox D Nebula D  Zapatillas para Mujer  Gris  Dk Grey C9002   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG19R2M/?tag=tolees-21'
 descuento: '30.00'
 average: '94.5'

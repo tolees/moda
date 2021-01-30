@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Puma Liga CR H Camiseta de Manga Corta  Hombre  Verde  Pepper Green White   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KLRTJS/?tag=tolees-21'
 descuento: '23.14'
 average: '11.49'

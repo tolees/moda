@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Only Onlmay S/s Dress Noos Vestido  Multicolor  Night Sky AOP: Dot Cloud Dancer   44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNC38W6/?tag=tolees-21'
 descuento: '26.94'
 average: '9.49'

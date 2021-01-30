@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES PREMIUM Jprlogo Twist Shirt L/s STS Camisa  Verde  Darkest Spruce Slim Fit   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SV1PLQX/?tag=tolees-21'
 descuento: '75.52'
 average: '9.79'

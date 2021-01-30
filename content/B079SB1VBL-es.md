@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Marca Amazon - MERAKI Camisa Clásica Entallada de Vestir Hombre  Gris  Grey   L  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SB1VBL/?tag=tolees-21'
 descuento: '45.80'
 average: '12.185'

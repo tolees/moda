@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Quiksilver Drift Away - Camiseta para Hombre Screen tee  Hombre  Majolica Blue  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825NV5YD/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Lee Rider Shirt  Camisa Hombre  Negro  Washed Black Ja   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N194PDV/?tag=tolees-21'
 descuento: '61.81'
 average: '28.881666666666668'

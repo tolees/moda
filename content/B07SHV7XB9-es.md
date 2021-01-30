@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'G-Star Sp15505 Sweat Sudadera  Verde  Kaki Green 56   8 años  Talla del Fabricante: 8A  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHV7XB9/?tag=tolees-21'
 descuento: '83.65'
 average: '7.35'

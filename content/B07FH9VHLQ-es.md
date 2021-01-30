@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Timberland Malibu Waves Thong  Sandalias para Mujer  Verde  Olive Nubuck   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FH9VHLQ/?tag=tolees-21'
 descuento: '50.00'
 average: '40.0'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Relaxed Graphic tee Camiseta  Verde  90 s Serif Logo Olive Night 0028   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2S6B1B/?tag=tolees-21'
 descuento: '46.04'
 average: '14.332222222222223'

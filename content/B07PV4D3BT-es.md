@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Nike M NSW Nsp Top SS Check Camiseta  Hombre  Blue Void/Royal Blue/White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PV4D3BT/?tag=tolees-21'
 descuento: '38.85'
 average: '8.5'

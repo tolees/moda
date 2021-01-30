@@ -16,6 +16,7 @@ comparePrice: 55.39 EUR
 prodname: 'Geox D Kaula B ABX C  Botas de Nieve para Mujer  Gris  Lt Grey/Dk Grey C1037   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLTVL9S/?tag=tolees-21'
 descuento: '44.16'
 average: '30.93'

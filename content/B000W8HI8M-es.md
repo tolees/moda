@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'Timberland Heritage 6 Inch Premium Waterproof  Botas para Hombress  Marrón  Md Brown Full Grain   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000W8HI8M/?tag=tolees-21'
 descuento: '32.72'
 average: '154.74'

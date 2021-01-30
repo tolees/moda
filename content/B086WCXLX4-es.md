@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Qunlon Ultraligero Zapatos de Seguridad Hombres Mujeres Entrenadores de Trabajo Zapatillas Deportivas con Puntera de Acero Industrial y construcción Zapatos 791-44EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WCXLX4/?tag=tolees-21'
 descuento: '35.09'
 average: '36.99'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B ALBEN Boy A  Zapatillas para Bebés  Azul  Navy/Grey C0661   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG3MZ1Y/?tag=tolees-21'
 descuento: '38.18'
 average: '30.85'

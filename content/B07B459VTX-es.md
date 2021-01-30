@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SELECTED HOMME Slhslimsel-Pelle Shirt LS B Noos Camisa  Gris  Grey Melange Grey Melange   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B459VTX/?tag=tolees-21'
 descuento: '53.63'
 average: '19.98857142857143'

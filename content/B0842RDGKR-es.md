@@ -16,6 +16,7 @@ comparePrice: 16.25 EUR
 prodname: 'Cerdá Bebe-100% algodón Pelele Winnie The Pooh de Bebe  Gris  3 Meses para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0842RDGKR/?tag=tolees-21'
 descuento: '20.00'
 average: '13.0'

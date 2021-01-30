@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Dress LORETHA Vestido  Negro  Negro 2000   46 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3BRCS8/?tag=tolees-21'
 descuento: '49.97'
 average: '35.74333333333333'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'retroUV UV400 – Gafas de sol de diseño clásico Multicolor negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GDFMYVI/?tag=tolees-21'
 descuento: '20.02'
 average: '7.99'

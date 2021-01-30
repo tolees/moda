@@ -16,6 +16,7 @@ comparePrice: 21.83 EUR
 prodname: 'Goodthreads Standard-fit Long-Sleeve Stretch Oxford Shirt  All Hours  Camisa abotonada  Denim Blue Bengal Stripe  L Tall'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4R9NKR/?tag=tolees-21'
 descuento: '69.03'
 average: '6.76'

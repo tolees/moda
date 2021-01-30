@@ -16,6 +16,7 @@ comparePrice: 13.05 EUR
 prodname: 'Jack & Jones Jornewshakedown Block Sweat Zip Hood Chaqueta Deportiva  Azul  Light Grey Melange Fit: Reg   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLSZVBR/?tag=tolees-21'
 descuento: '26.59'
 average: '9.58'

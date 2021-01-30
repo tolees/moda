@@ -16,6 +16,7 @@ comparePrice: 9.46 EUR
 prodname: 'HAWKERS · PAPARAZZI · Gold · Ligth Red · Gafas de sol para mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RN8N4KV/?tag=tolees-21'
 descuento: '33.62'
 average: '8.633333333333333'

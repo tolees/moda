@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'PUMA Epic Flip V2  Chanclas Unisex-Adulto  Negro  Black/White   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015OK0PFA/?tag=tolees-21'
 descuento: '30.28'
 average: '15.71'

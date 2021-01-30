@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XJVDLB/?tag=tolees-21'
 descuento: '64.25'
 average: '62.4575'

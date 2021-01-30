@@ -16,6 +16,7 @@ comparePrice: 28 EUR
 prodname: 'find. Camisa con Cuello Alado Mujer  Negro  Black/ivory   40  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076SDS8KV/?tag=tolees-21'
 descuento: '62.50'
 average: '10.965'

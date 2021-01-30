@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger U Pop Over Chaqueta  Naranja  Russet Orange 800   92 para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZLTQHT/?tag=tolees-21'
 descuento: '86.42'
 average: '14.5'

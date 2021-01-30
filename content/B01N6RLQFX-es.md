@@ -16,6 +16,7 @@ comparePrice: 11.62 EUR
 prodname: 'find. Sandalias de Cuero Trenzado Mujer  Varios Colores  Tan / Cuoio   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6RLQFX/?tag=tolees-21'
 descuento: '32.01'
 average: '7.9'

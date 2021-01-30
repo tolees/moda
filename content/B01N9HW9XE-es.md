@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'find. Camisa Entallada Óxford Estampada de Corte Entallado para Hombre  Rosa  Pink   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9HW9XE/?tag=tolees-21'
 descuento: '69.99'
 average: '9'

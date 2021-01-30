@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Realista Reborn Bebe Muchacha Vinilo Vestido de Tutú Rosa con Estampado de Flamencos 60 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2PK3HG/?tag=tolees-21'
 descuento: '46.19'
 average: '69.9'

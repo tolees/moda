@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Burton Durable Goods Camiseta  Hombre  True Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SNSQB5D/?tag=tolees-21'
 descuento: '64.97'
 average: '10.51'

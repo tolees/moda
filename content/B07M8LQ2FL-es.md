@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler LS 1pkt Shirt Camisa  Verde  Pine G01   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8LQ2FL/?tag=tolees-21'
 descuento: '69.39'
 average: '19.88'

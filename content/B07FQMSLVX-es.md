@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Clarks Un Trail Form  Zapatos de Cordones Derby  Negro  Black Nubuck-   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQMSLVX/?tag=tolees-21'
 descuento: '30.00'
 average: '41.93'

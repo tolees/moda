@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'DoGeek Leggins Deporte Mujer para Training Running Yoga Fitness transpirables con cintura alta  XXS  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJHRTQS/?tag=tolees-21'
 descuento: '54.56'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Kipling Izellah  Bolso con Bandolera para Mujer  Gris  Chalk Grey   33x23x12 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVKFYP9/?tag=tolees-21'
 descuento: '50.00'
 average: '39.5'

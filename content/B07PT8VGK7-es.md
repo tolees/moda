@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Camo Boxed Logo Camisa Manga Corta  Hombre  Verde  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT8VGK7/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

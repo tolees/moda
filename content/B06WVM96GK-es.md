@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger SS tee Print Camiseta con Logo  Blanco  White 100   S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVM96GK/?tag=tolees-21'
 descuento: '36.49'
 average: '18.99'

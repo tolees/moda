@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Baya  Zuecos Unisex Adulto  Verde  Grass Green 3e8   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBB7ZPP/?tag=tolees-21'
 descuento: '40.11'
 average: '23.95'

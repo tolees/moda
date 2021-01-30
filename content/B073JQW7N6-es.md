@@ -16,6 +16,7 @@ comparePrice: 26 EUR
 prodname: 'find. Camisa de Algodón Hombre  Azul  Navy   54  Talla del fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JQW7N6/?tag=tolees-21'
 descuento: '70.00'
 average: '7.8'

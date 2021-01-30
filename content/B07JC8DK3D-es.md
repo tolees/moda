@@ -16,6 +16,7 @@ comparePrice: 5.13 EUR
 prodname: 'loonBonnie Bolso de Hombro de la Lona de la Moda  Bolso de Crossbody del Viaje al Aire Libre de la Mujer de Las Muchachas de la Bolsa de Mensajero de la Capacidad Grande'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JC8DK3D/?tag=tolees-21'
 descuento: '38.79'
 average: '3.14'

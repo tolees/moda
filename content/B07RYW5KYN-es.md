@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'BOSS Trunk 2p Gift Co Bóxer  Rojo  Bright Red 624   Small  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYW5KYN/?tag=tolees-21'
 descuento: '48.09'
 average: '21.17'

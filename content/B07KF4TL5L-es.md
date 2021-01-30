@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Adriatico Adapt 3408  32W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4TL5L/?tag=tolees-21'
 descuento: '42.77'
 average: '62.95'

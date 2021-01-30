@@ -16,6 +16,7 @@ comparePrice: 5.59 EUR
 prodname: 'Zapatillas de casa de Hombre  Ultraligero cómodo y Antideslizante  Zapatilla de Estar por casa para Hombre Zapatillas de casa de Invierno Antideslizantes para Mujer  Zapatillas cálidas para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZR7Z7Z8/?tag=tolees-21'
 descuento: '28.62'
 average: '3.99'

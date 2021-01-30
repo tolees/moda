@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Synthetic Fleece Pantalón  Mujer  Gris  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L13VZJV/?tag=tolees-21'
 descuento: '40.02'
 average: '32.99'

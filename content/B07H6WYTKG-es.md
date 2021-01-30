@@ -16,6 +16,7 @@ comparePrice: 106.8 EUR
 prodname: 'Rockport - Zapatos de tacón Melora de Piel  39 EU   Alpaca '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6WYTKG/?tag=tolees-21'
 descuento: '33.33'
 average: '71.2'

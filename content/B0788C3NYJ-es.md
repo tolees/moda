@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger RN tee SS Camiseta  Gris  Grey Heather 004   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788C3NYJ/?tag=tolees-21'
 descuento: '29.95'
 average: '27.52103448275862'

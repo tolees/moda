@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Kipling Izellah  Bolso con Bandolera para Mujer  Blanco  White Metallic   33x23x12 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXWLGDJ/?tag=tolees-21'
 descuento: '28.14'
 average: '56.77'

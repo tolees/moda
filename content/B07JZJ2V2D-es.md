@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Tommy Hilfiger Recycled Short Puffer Chaqueta  Rojo  Virtual Pink 638   92 para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZJ2V2D/?tag=tolees-21'
 descuento: '67.59'
 average: '45.05'

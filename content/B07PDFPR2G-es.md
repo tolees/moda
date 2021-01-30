@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Tous Bowling New Essence  Bolso bolera para Mujer  Multicolor  Gun/Negro 995900625   31x24x13.5 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDFPR2G/?tag=tolees-21'
 descuento: '40.00'
 average: '83.4'

@@ -16,6 +16,7 @@ comparePrice: 35.96 EUR
 prodname: 'Geox U Devan B  Mocasines para Hombre  Marrón  BROWNCOTTO C6003   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG1WZWP/?tag=tolees-21'
 descuento: '15.13'
 average: '32.52'

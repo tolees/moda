@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'Amazon Essentials Cotton Stretch Bikini Panty  6-Pack Braguita  Multicolor  Black/White/Stripe/Pink/Gray   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQ6AD4O/?tag=tolees-21'
 descuento: '29.41'
 average: '11.64'

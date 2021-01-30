@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BENYAR Cronógrafo de Cuero de Moda Relojes Impermeables de Acero Inoxidable Mapa Diseño Deportivo Reloj de Pulsera Deportivo Casual para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TMC9ZJ/?tag=tolees-21'
 descuento: '62.01'
 average: '37.99'

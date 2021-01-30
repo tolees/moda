@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Wilson M Rush 9 Woven Short Blue Mir. - Pantalón Corto para Hombre  Color Azul  Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AL4T2HQ/?tag=tolees-21'
 descuento: '51.67'
 average: '14.5'

@@ -16,6 +16,7 @@ comparePrice: 340.0 EUR
 prodname: 'SAMSONITE Pro-DLX 5 - Rolling Tote for 17.3" Laptop 3.4 KG Bolso de Viaje  48 cm  37.5 Liters  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLTTPKP/?tag=tolees-21'
 descuento: '19.87'
 average: '278.38'

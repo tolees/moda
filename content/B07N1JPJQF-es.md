@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Linvale Jerica  Zapatos de tacón con Punta Cerrada para Mujer  Multicolor  Leopard PRT Comb Leopard PRT Comb   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JPJQF/?tag=tolees-21'
 descuento: '62.99'
 average: '25.89'

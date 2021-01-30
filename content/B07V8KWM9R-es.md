@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Calvin Klein Instit Chest Logo Mock Neck Sudadera  Gris  Mid Grey Heather P2f   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8KWM9R/?tag=tolees-21'
 descuento: '50.43'
 average: '49.07'

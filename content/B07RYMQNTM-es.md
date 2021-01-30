@@ -16,6 +16,7 @@ comparePrice: 100.45 EUR
 prodname: 'Levi s 511 Slim Fit Jeans Pantalón vaquero elástico y con corte estilizado  East Lake Adv 4106  28W/30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYMQNTM/?tag=tolees-21'
 descuento: '20.41'
 average: '79.95'

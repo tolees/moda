@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Esprit 119EE1E021 Vestido de Fiesta  Negro  Black 001   36 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVQV9SN/?tag=tolees-21'
 descuento: '42.82'
 average: '38.233333333333334'

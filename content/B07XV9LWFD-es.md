@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Geographical Norway Sudadera Mujer GYMCLASS A Gris Melange S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XV9LWFD/?tag=tolees-21'
 descuento: '30.00'
 average: '35.748999999999995'

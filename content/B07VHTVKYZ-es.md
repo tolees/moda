@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Vest Paradise Vestido  Rojo  Rojo ROJA 3061   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHTVKYZ/?tag=tolees-21'
 descuento: '50.29'
 average: '39.74'

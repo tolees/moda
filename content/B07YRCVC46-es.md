@@ -16,6 +16,7 @@ comparePrice: 8.85 EUR
 prodname: 'Marca Amazon - find. Vestido Corto Cruzado de Algodón Mujer  Rosa  Rose Pink   36  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRCVC46/?tag=tolees-21'
 descuento: '35.93'
 average: '5.67'

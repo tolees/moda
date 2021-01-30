@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas TIRO19 TR JKTY Chaqueta  Unisex niños  Black/White  5-6A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7HGVGH/?tag=tolees-21'
 descuento: '40.96'
 average: '29.49'

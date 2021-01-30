@@ -16,6 +16,7 @@ comparePrice: 43.93 EUR
 prodname: 'MUSTELA - MUSTELA BOLSO PRIMEROS PRODUCT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AAZPNVQ/?tag=tolees-21'
 descuento: '90.08'
 average: '4.36'

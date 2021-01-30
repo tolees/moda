@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Classic Trunk Triple Pack Bóxer  Azul  Cobalt Multipack T3u   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4QCTJX/?tag=tolees-21'
 descuento: '68.31'
 average: '11.09'

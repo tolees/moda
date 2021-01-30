@@ -16,6 +16,7 @@ comparePrice: 27.93 EUR
 prodname: 'Marca Amazon - find. Statement Fairisle Jumper Suéter Mujer  Multicolor  Multi   36  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFNCW5K/?tag=tolees-21'
 descuento: '55.17'
 average: '12.52'

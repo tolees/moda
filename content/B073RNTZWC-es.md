@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Helly Hansen HH Tech Crew Camiseta  Hombre  Blanco  Blanco 001   Medium  Tamaño del Fabricante:M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RNTZWC/?tag=tolees-21'
 descuento: '28.00'
 average: '16.99'

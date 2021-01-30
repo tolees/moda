@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajuste Slim para Hombre L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079L52GSQ/?tag=tolees-21'
 descuento: '56.85'
 average: '12.94'

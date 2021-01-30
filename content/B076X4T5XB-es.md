@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Geox UOMO Sandal Strada D  Sandalia con Pulsera para Hombre  Azul  Navy/Dk Grey   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X4T5XB/?tag=tolees-21'
 descuento: '29.94'
 average: '48.97'

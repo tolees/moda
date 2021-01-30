@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Superdry La Athletic Ziphood Sudadera  Verde  Spruce Lej   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBXXS16/?tag=tolees-21'
 descuento: '55.01'
 average: '26.99'

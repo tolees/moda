@@ -16,6 +16,7 @@ comparePrice: 4.8 EUR
 prodname: 'Fruit of the Loom - Camiseta Modelo Iconic para niñas  3-4 Años   Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBSJPZN/?tag=tolees-21'
 descuento: '33.33'
 average: '3.2'

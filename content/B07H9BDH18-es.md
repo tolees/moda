@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Charles Wilson Camisa Manga Larga Popelina Lisa para Hombre  Large  Dark Port '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9BDH18/?tag=tolees-21'
 descuento: '17.43'
 average: '18.95'

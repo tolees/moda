@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: 'Camiseta de Baloncesto para Hombre  Los Angeles Lakers #24 Kobe Bryant. Bordado Swingman Transpirable y Resistente al Desgaste Camiseta para Fan  Yellow-2  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084P5GXWN/?tag=tolees-21'
 descuento: '34.79'
 average: '15.98'

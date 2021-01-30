@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Cartera Pepe Jeans Jeans vertical con monedero Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPCSJWH/?tag=tolees-21'
 descuento: '43.92'
 average: '21.87'

@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'ElegantPark HC1620 Zapatos para Novia Boda Tacon Bajo Ronda Hebilla Bombea los Zapatos de Danza de Encaje Zapatos de Boda Mujer Blanco EU 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKNZ2Q1/?tag=tolees-21'
 descuento: '29.34'
 average: '52.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers On-The-go-Bundle Up  Botines para Mujer  Morado  Mauve MVE   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9VYFXC/?tag=tolees-21'
 descuento: '31.24'
 average: '42.475'

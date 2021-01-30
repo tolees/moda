@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Vans Colorblock tee - Camiseta para Hombre   Negro  Black/athletic Heather   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X1CC3KG/?tag=tolees-21'
 descuento: '38.84'
 average: '15.639999999999999'

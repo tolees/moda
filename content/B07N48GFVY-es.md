@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'United Colors of Benetton Basico 2 Man Sudadera  Azul  BLU Navy 016   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N48GFVY/?tag=tolees-21'
 descuento: '33.66'
 average: '39.77'

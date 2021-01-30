@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Only Onlnicole S/s Mix Top Noos Camiseta  Blanco  Cloud Dancer Cloud Dancer   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PHXVLG/?tag=tolees-21'
 descuento: '20.01'
 average: '13.59'

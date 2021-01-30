@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'HOMCOM Perchero Colgador Metálico Zapatero para Ropa y Zapatos Perchero Pie 18 Ganchos 3 Estantes 67x30x185cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBTR5KX/?tag=tolees-21'
 descuento: '15.00'
 average: '36.54'

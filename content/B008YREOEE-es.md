@@ -16,6 +16,7 @@ comparePrice: 14.64 EUR
 prodname: 'JACK & JONES Basic O-Neck tee S/S Noos Camiseta  Grau  Light Grey Melange JJ Light Grey Melange   2XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008YREOEE/?tag=tolees-21'
 descuento: '52.25'
 average: '6.986363636363636'

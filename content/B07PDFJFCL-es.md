@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Sokaly 13-15.6 Pulgadas Mujer Hombre Bolso de Bandolera/Maletín/Mensajero Funda para Laptop Macbook Air iPad Portátil Suave Material Avanzado De Moda y Negocios  14 Pulgadas  Caqui '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDFJFCL/?tag=tolees-21'
 descuento: '16.93'
 average: '21.59'

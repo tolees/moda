@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen Logo Hoodie Sudadera para hombre con capucha  sudadera casual de algodón para uso diario y actividades al aire libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPGCJZ/?tag=tolees-21'
 descuento: '30.03'
 average: '46.9'

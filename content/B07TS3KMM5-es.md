@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s Selma Dress Vestido  Blanco  Faint Heart  2  0001   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS3KMM5/?tag=tolees-21'
 descuento: '68.15'
 average: '40.76'

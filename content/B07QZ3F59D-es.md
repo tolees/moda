@@ -16,6 +16,7 @@ comparePrice: 9.91 EUR
 prodname: 'Marca Amazon - find. Chaqueta Bomber Hombre  Negro  Black   S  Label: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ3F59D/?tag=tolees-21'
 descuento: '20.38'
 average: '8.49'

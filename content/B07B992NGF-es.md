@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Linvale Jerica  Zapatos de Tacón para Mujer  Negro  Black Leather   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B992NGF/?tag=tolees-21'
 descuento: '33.28'
 average: '53.34'

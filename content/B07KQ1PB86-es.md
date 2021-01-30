@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'FitFlop Lottie Glitzy  Sandalias con Punta Abierta para Mujer  Negro  Black 001   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ1PB86/?tag=tolees-21'
 descuento: '35.84'
 average: '44.91'

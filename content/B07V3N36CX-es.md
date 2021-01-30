@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Sporty Corporate Beach Sandal  Sandalias con Punta Abierta para Hombre  Azul  Desert Sky Dw5   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3N36CX/?tag=tolees-21'
 descuento: '19.92'
 average: '33.815'

@@ -16,6 +16,7 @@ comparePrice: 41.69 EUR
 prodname: 'Geox B Flexyper Boy A  Zapatillas para Bebés  Azul  Dk Blue/Navy C4mf4   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STKZDWX/?tag=tolees-21'
 descuento: '32.98'
 average: '27.94'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones NOS Jjiglenn Jjoriginal Am 816 Noos Vaqueros Slim  Negro Black Denim   W34/L34  Talla del fabricante: 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQBKFC5/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

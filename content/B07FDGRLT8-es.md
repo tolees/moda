@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry Orange Label Vntge Emb S/S tee Camiseta  Azul  Eclipse Navy 98T   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDGRLT8/?tag=tolees-21'
 descuento: '48.02'
 average: '13.079090909090908'

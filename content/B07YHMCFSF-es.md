@@ -16,6 +16,7 @@ comparePrice: 2.25 EUR
 prodname: 'loonBonnie Estilo Coreano Moda Hombres Mujeres Amantes Pantalla táctil LED Reloj Inteligente Digital TPU Reloj de visualización de Tiempo de Datos Deportivos - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YHMCFSF/?tag=tolees-21'
 descuento: '44.44'
 average: '1.25'

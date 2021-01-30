@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Wrangler Graphic Logo tee Camiseta  Blanco  Antique White Xft   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWP7TQ/?tag=tolees-21'
 descuento: '74.82'
 average: '8.8'

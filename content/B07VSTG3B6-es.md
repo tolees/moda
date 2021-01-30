@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Kafey Ultra High Waist Skinny Vaqueros  Azul  Worn in Blue Storm 8971-b188   23W / 28L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSTG3B6/?tag=tolees-21'
 descuento: '69.14'
 average: '37.02'

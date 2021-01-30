@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Esprit 069ee2f005 Camisa  Azul  Light Blue 440   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRBLQZH/?tag=tolees-21'
 descuento: '60.41'
 average: '14.154'

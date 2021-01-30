@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Tri Slide  Sandalias Punta Cerrada para Mujer  Beige  Black Leather Black Leather   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMRKB3H/?tag=tolees-21'
 descuento: '67.36'
 average: '38.29'

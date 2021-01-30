@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Lonsdale Caja de pantalón Corto para Hombre Pantalones de Deporte de los Cierres de Wear Sport de Boxeo de Entrenamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SKWJ9UM/?tag=tolees-21'
 descuento: '33.35'
 average: '15.99'

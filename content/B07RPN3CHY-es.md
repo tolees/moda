@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Depiladora IPL Openuye  sistema de depilación para mujeres y hombres  máquina de belleza  depilación indolora  cabezal láser de 600 000 flashes con gafas IPL y maquinilla de afeitar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPN3CHY/?tag=tolees-21'
 descuento: '16.97'
 average: '77.99'

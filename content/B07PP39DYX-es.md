@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Kipling Gleam S  Bolso de Tocador para Mujer  Multicolor  Camo Large   14x9.5x5.5 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PP39DYX/?tag=tolees-21'
 descuento: '50.00'
 average: '12.495000000000001'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bebé Pelele de Algodón Mameluco Béisbol Trajes Niños Niñas Ropa de Invierno Primavera Otoño 0-3 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DZBXTHW/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

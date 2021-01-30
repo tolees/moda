@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pepe Jeans Venus Vaqueros  Azul  10Oz Authentic Rope Str Med D24   28W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NUZ5PPC/?tag=tolees-21'
 descuento: '41.42'
 average: '57.99'

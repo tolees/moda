@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Original Triblend V Neck Camiseta  Negro  Tommy Black 078   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777KCJJ9/?tag=tolees-21'
 descuento: '31.07'
 average: '19.99'

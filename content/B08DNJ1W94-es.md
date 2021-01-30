@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Youecci Zapatillas de Deportivos de Running para Mujer Deportivo de Exterior Interior Gimnasia Ligero Sneakers Fitness Atlético Caminar Zapatos Transpirable Azul Marino 38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNJ1W94/?tag=tolees-21'
 descuento: '15.01'
 average: '16.99'

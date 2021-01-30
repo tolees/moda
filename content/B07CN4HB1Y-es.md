@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip  Chanclas Unisex-Adult  Grey  Light Grey/White 00j   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN4HB1Y/?tag=tolees-21'
 descuento: '36.01'
 average: '17.932000000000002'

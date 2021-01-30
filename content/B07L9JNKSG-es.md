@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour Challenger III Jacket  chaqueta de hombre para hacer deporte  ropa de deporte de hombre inspirada en las chaquetas bomber hombre  Negro  Black/White  001    L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9JNKSG/?tag=tolees-21'
 descuento: '69.89'
 average: '21.311999999999998'

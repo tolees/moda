@@ -16,6 +16,7 @@ comparePrice: 34.75 EUR
 prodname: 'Converse Accesorios Bolso Bandolera  22 cm  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7NN7B5/?tag=tolees-21'
 descuento: '25.47'
 average: '25.9'

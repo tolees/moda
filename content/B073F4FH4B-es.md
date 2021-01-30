@@ -16,6 +16,7 @@ comparePrice: 45.8 EUR
 prodname: 'LOSMILE Hombres Lona Bolso de Bandolera La Bolsa de Mensajero Bolsa de Lona Bolsa de Hombro 16 Pulgadas Bolsa de Ordenador.  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073F4FH4B/?tag=tolees-21'
 descuento: '34.52'
 average: '29.99'

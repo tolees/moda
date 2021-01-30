@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Tommy Hilfiger Tommy Hooded Parka Chaqueta   Jet Black Base   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N43MZ1N/?tag=tolees-21'
 descuento: '50.15'
 average: '164.0'

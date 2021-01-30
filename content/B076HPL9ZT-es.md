@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'adidas Core18 PES Jkt Chaqueta  Hombre  Rojo  Power Red/White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HPL9ZT/?tag=tolees-21'
 descuento: '24.11'
 average: '17.69'

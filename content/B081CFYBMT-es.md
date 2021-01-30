@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Geographical Norway Chaqueta Hombre BOKER MARRÓN M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CFYBMT/?tag=tolees-21'
 descuento: '20.00'
 average: '79.2'

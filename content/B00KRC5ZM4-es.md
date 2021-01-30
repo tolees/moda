@@ -16,6 +16,7 @@ comparePrice: 49.94 EUR
 prodname: 'SELECTED 16040493 - Camisa casual de manga larga para hombre  color white white  talla Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KRC5ZM4/?tag=tolees-21'
 descuento: '47.80'
 average: '26.305'

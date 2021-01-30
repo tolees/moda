@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Nike Club Logo2 Pantalón  Mujer  Multicolor  Dk Grey Heather/White/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AADHRU2/?tag=tolees-21'
 descuento: '32.04'
 average: '17.82333333333333'

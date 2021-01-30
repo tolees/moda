@@ -16,6 +16,7 @@ comparePrice: 29.54 EUR
 prodname: 'Marca Amazon - find. Vestido de Flores por Media Pierna Mujer  Rosa  Pink   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B11JXD3/?tag=tolees-21'
 descuento: '58.87'
 average: '12.15'

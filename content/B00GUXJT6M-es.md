@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Peakfreak Nomad Zapatos impermeables para hombre   Negro Black  Steam   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GUXJT6M/?tag=tolees-21'
 descuento: '40.04'
 average: '57.96666666666667'

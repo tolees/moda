@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'JACK & JONES Jcowill Puffer Chaqueta  Gris  Light Grey Melange Light Grey Melange   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGJ6N29/?tag=tolees-21'
 descuento: '77.95'
 average: '20.0'

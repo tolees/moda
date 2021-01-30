@@ -16,6 +16,7 @@ comparePrice: 43.0 EUR
 prodname: 'Calvin Klein 3p Trunk Bóxer  Negro  Black/White/Grey Heather 998   S  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FWSZHBC/?tag=tolees-21'
 descuento: '37.23'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger 3p Bikini Braguita  Azul  Navy Blazer/Navy Blazer/Navy Blazer 416   No Aplica  Talla del Fabricante: SM  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZQQHSX/?tag=tolees-21'
 descuento: '34.86'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'synmixx Gafas Natación Antiniebla Gafas de Natación Protección UV Sin Fugas Ajustable Gafas Nadar para Hombres y Mujeres Adultos con Clip de Nariz Enchufe de Oído  Estuche de EVA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1QWKVS/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

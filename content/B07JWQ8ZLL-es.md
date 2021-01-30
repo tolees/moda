@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Sealey Pm581633 Sudadera   Sherwood 664   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWQ8ZLL/?tag=tolees-21'
 descuento: '33.53'
 average: '38.510000000000005'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'adidas Real Madrid 2019/2020 Camiseta  Hombre  Blanco  1ª Equipación   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R14PH2B/?tag=tolees-21'
 descuento: '34.62'
 average: '40.246'

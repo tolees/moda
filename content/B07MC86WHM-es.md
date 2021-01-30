@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'CMP Rigel  Zapatos de Low Rise Senderismo Unisex Niños   B.Blue-Aqua Mint 12nd   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC86WHM/?tag=tolees-21'
 descuento: '64.94'
 average: '17.51'

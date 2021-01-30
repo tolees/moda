@@ -16,6 +16,7 @@ comparePrice: 237.0 EUR
 prodname: 'Prada 1AB0A7 Gafas de sol  Black  55 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFSDPQL/?tag=tolees-21'
 descuento: '38.27'
 average: '146.31'

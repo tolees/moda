@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Oihxse Cristal Case - Compatible con Samsung Galaxy A8 Plus 2018 Funda  Ultra-Delgado Silicona TPU Suave Airbag Gradiente de Color Carcasa Elegante Moda Lindo Protectora Cubierta  Rosa púrpura '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082GY4M6J/?tag=tolees-21'
 descuento: '50.08'
 average: '8.98'

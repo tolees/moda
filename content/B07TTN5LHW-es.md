@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Only Onlnew Skylar AW Fur Parka CC Otw  Azul  Night Sky Night Sky   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTN5LHW/?tag=tolees-21'
 descuento: '70.41'
 average: '14.79'

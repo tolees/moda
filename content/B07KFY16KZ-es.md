@@ -16,6 +16,7 @@ comparePrice: 23.27 EUR
 prodname: 'PUMA Explode XT 3  Zapatos de Futsal para Hombre  White-Grey Dawn-Safety Yellow-Gibraltar Sea  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY16KZ/?tag=tolees-21'
 descuento: '16.93'
 average: '22.05333333333333'

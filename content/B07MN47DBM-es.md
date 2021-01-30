@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Straight Vaqueros para Mujer  Azul  Dark Indigo X1E   32W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN47DBM/?tag=tolees-21'
 descuento: '49.99'
 average: '44.98'

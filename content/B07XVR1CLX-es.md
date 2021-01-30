@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Esprit 119EE1G014 Abrigo  Azul  Navy 400   S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVR1CLX/?tag=tolees-21'
 descuento: '74.63'
 average: '25.37'

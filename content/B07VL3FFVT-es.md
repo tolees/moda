@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Hackett London Amr Hackett tee Camiseta  Blanco  White 800   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VL3FFVT/?tag=tolees-21'
 descuento: '55.07'
 average: '31.0'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Esprit 099Ee1G009 Abrigo  Azul  Navy 5 404   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB9YWTH/?tag=tolees-21'
 descuento: '72.17'
 average: '36.17'

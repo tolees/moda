@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'inhzoy Chaqueta de Princesa para Niña Abrigo de Fiesta Boda Manga Corta Bolero Satinado para Vestido Capa con 3D Flores Cárdigan Dama de Honor Beige 3-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTGG6RY/?tag=tolees-21'
 descuento: '73.95'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 12.83 EUR
 prodname: 'Under Armour Ua Classic Script SS Camiseta de manga corta  Hombre  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GTPCSJ/?tag=tolees-21'
 descuento: '17.15'
 average: '10.63'

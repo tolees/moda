@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: '3pcs Bikini Conjuntos Traje de Bano Das beste Bikini con Cola de la Sirena para ninos 2018 Verano Cola Nado Estilo Sirena Mermaid Swimsuit'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5HS6M1/?tag=tolees-21'
 descuento: '65.00'
 average: '17.5'

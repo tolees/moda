@@ -16,6 +16,7 @@ comparePrice: 26.28 EUR
 prodname: 'Marca Amazon - find. Vestido de Flores con Volantes Mujer  Negro  Black Spot   42  Label: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYTCJRQ/?tag=tolees-21'
 descuento: '42.09'
 average: '15.22'

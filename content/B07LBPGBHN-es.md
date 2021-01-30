@@ -16,6 +16,7 @@ comparePrice: 260.0 EUR
 prodname: 'Helly Hansen Killarney II Aislado Parka Chaqueta De Invierno  Hombre  Black  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBPGBHN/?tag=tolees-21'
 descuento: '59.24'
 average: '105.98'

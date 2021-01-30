@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Francine Down Pckble Jkt Chaqueta  Azul  Sodalite Blue 0002   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFNNDH7/?tag=tolees-21'
 descuento: '50.00'
 average: '68.53'

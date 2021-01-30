@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'DANISH ENDURANCE Boxer Bambu Pack de 3  1x Negro  1x Blanco  1x Gris   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDZT5K8/?tag=tolees-21'
 descuento: '22.78'
 average: '16.95'

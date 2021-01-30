@@ -16,6 +16,7 @@ comparePrice: 6.4 EUR
 prodname: 'Marca Amazon - find. SHANA-S-1A-58 - Tira de tobillo de Sintético Mujer  color Marrón  talla 36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFZ4QQ1/?tag=tolees-21'
 descuento: '35.78'
 average: '4.11'

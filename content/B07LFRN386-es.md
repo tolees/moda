@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Geox D Calinda Mid C  Botas Altas para Mujer  Negro  Black C9999   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRN386/?tag=tolees-21'
 descuento: '56.24'
 average: '66.928'

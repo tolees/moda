@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Tommy Hilfiger S/s Crew Neck Camiseta  Gris  Grey Heather 080   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFRBY8S/?tag=tolees-21'
 descuento: '43.62'
 average: '21.99'

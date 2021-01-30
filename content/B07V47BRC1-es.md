@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Coronel Tapiocca Hunter  Bolso pequeño Hombres  Negro  17x22x6 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V47BRC1/?tag=tolees-21'
 descuento: '34.12'
 average: '29.39'

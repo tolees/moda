@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Sportstyle Pique Pantalón deportivo para hombre  pantalón largo transpirable  pantalones con bolsillos cómodos y ajustados  Black/White  001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LH1ZHT/?tag=tolees-21'
 descuento: '21.31'
 average: '35.41'

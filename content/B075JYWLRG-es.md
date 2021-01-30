@@ -16,6 +16,7 @@ comparePrice: 15.6 EUR
 prodname: 'Madbike Accesorios de Cambio de Engranaje para Zapatos Botas de Motocicleta Protector  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JYWLRG/?tag=tolees-21'
 descuento: '23.14'
 average: '11.99'

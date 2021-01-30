@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Hawiton Pijama Hombre Verano Corto Manga Corta Conjunto de Pijamas Algodón Camiseta y Pantalones Corto de a Cuadros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ2BV95/?tag=tolees-21'
 descuento: '48.01'
 average: '25.656666666666666'

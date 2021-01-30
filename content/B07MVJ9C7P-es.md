@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Kipling Creativity S  Monedero para Mujer  Multicolor  Music Print   14.5x9.5x5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJ9C7P/?tag=tolees-21'
 descuento: '50.00'
 average: '12.0'

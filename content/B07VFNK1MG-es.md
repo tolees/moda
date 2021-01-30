@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'SELECTED HOMME Slhcolor Block Jacket W Chaqueta   Turtle Detail:Black   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFNK1MG/?tag=tolees-21'
 descuento: '82.56'
 average: '17.44'

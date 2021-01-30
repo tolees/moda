@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'Kiwisac Trendy Pirámides Bolso para Carro de Bebé Universal Diseño Original Estampado de Pirámides en fondo Azul Bolso Organizador con Cambiador  Bandolera Ajustable y Cintas de Sujeción 36x11x32 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771SCYGT/?tag=tolees-21'
 descuento: '50.00'
 average: '17.95'

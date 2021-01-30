@@ -16,6 +16,7 @@ comparePrice: 18 EUR
 prodname: 'Khanomak - Pantalón Corto Deportivo - para Mujer Negro Negro Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0714MTQJY/?tag=tolees-21'
 descuento: '50.00'
 average: '9'

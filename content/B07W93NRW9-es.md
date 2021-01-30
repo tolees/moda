@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Jack & Jones Jormastul Sweat Hood Sudadera con Capucha  Azul  Light Grey Melange Fit: Reg   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W93NRW9/?tag=tolees-21'
 descuento: '16.80'
 average: '10.539333333333333'

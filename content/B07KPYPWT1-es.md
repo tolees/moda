@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Ever-Pretty Vestido de Boda Encaje Gasa Cuello Redondo Corte Imperio A-línea para Mujer Blanco 54'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPYPWT1/?tag=tolees-21'
 descuento: '23.34'
 average: '68.99'

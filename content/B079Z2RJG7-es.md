@@ -16,6 +16,7 @@ comparePrice: 47.9 EUR
 prodname: 'Geox J82E2B 000BC Sandalias Niño Azul 25'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Z2RJG7/?tag=tolees-21'
 descuento: '20.00'
 average: '38.32'

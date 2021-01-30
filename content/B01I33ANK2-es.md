@@ -16,6 +16,7 @@ comparePrice: 40.32 EUR
 prodname: 'Heimdall lámpara de escritorio  luz de la noche multicolor  regulable  la moda  recargable  para leer / trabajar / relajarse / dormir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I33ANK2/?tag=tolees-21'
 descuento: '47.94'
 average: '20.99'

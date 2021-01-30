@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'G-STAR RAW Attacc Down Chaqueta  Verde  Sage 724   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMYZH9/?tag=tolees-21'
 descuento: '68.80'
 average: '56.14'

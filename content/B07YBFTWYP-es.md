@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Vans Colorblock tee Camiseta  Morado  Dark Purple/White Ypj   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBFTWYP/?tag=tolees-21'
 descuento: '20.20'
 average: '19.95'

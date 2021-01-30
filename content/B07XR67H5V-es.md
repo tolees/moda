@@ -16,6 +16,7 @@ comparePrice: 20.39 EUR
 prodname: 'TABIGER - 4 Unidades de Luces LED Luminosas Reflectantes  Clip para Zapatos de Seguridad inflamable para Correr  Deportes  Compras  Escalada  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XR67H5V/?tag=tolees-21'
 descuento: '52.97'
 average: '9.59'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'X-TIGER Gafas Ciclismo CE Certificación Polarizadas con 3 Lentes Intercambiables UV 400 Gafas Corriendo Moto MTB Bicicleta Montaña Camping y Actividades al Aire Libre para Hombres y Mujeres TR-90'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PL9Y98X/?tag=tolees-21'
 descuento: '20.01'
 average: '23.99'

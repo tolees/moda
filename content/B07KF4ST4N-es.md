@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Ivy Adv 0941   W28/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4ST4N/?tag=tolees-21'
 descuento: '63.65'
 average: '39.99'

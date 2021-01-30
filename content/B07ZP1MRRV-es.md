@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'Jack & Jones Jcoisland tee SS Crew Neck Camiseta  Rojo  Rio Red Fit: Slim   X-Large  Herstellergröße: XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZP1MRRV/?tag=tolees-21'
 descuento: '33.64'
 average: '6.39'

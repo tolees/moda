@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Strellson Premium Cozer-j Chaqueta de Traje  Gris  Grey 019   54  Talla del Fabricante: 52  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NH1YYN3/?tag=tolees-21'
 descuento: '66.51'
 average: '66.96'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hasbro Disney Frozen 2 Fashion + Extra Vestido Elsa  Multicolor  E6907ES0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT4M3FZ/?tag=tolees-21'
 descuento: '28.55'
 average: '25.58'

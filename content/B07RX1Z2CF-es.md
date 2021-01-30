@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'BILLABONG All Night tee Camiseta  Mujer  Negro  Black 19   One Size  Tamaño del Fabricante: S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RX1Z2CF/?tag=tolees-21'
 descuento: '73.31'
 average: '9.34'

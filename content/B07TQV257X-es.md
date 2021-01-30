@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry OL Low Roller tee Camiseta  Azul  Rich Navy Adq   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQV257X/?tag=tolees-21'
 descuento: '48.59'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Parka DE Hombre BANTOU Caqui L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDJF313/?tag=tolees-21'
 descuento: '30.00'
 average: '69.3'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Under Armour UA Jet  Zapatos de Deporte para Hombre  Gris  Halo Gray/White/Black   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNTVNJ6/?tag=tolees-21'
 descuento: '43.34'
 average: '45.3'

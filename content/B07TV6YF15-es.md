@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 510 Vaqueros Skinny  Azul  Noce Cool 1051   W34/L32  Talla del Fabricante: 34 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV6YF15/?tag=tolees-21'
 descuento: '50.05'
 average: '44.95'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Timberland Classic Boat  Náuticos para Mujer  Azul  Navy Suede   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007Y1AOXG/?tag=tolees-21'
 descuento: '36.41'
 average: '76.31'

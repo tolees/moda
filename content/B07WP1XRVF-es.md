@@ -16,6 +16,7 @@ comparePrice: 34.26 EUR
 prodname: 'AOQUSSQOA Mujer Conjuntos de Bikinis para Mujer Bikini de Dos Piezas Falda de Playa Traje de baño  EU 34-36  S   K '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WP1XRVF/?tag=tolees-21'
 descuento: '41.65'
 average: '19.99'

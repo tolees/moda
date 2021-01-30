@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'G-STAR RAW Attacc Quilted Hooded Chaqueta  Negro  Dk Black B418-6484   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCZCZB2/?tag=tolees-21'
 descuento: '60.31'
 average: '63.48'

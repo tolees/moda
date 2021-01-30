@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Havaianas Top  Chanclas Unisex Adulto  Azul  Marine Blue   27/28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003WF3PFM/?tag=tolees-21'
 descuento: '19.77'
 average: '12.714'

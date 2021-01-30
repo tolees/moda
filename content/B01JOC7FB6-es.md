@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Kenniston 6 Inch Lace Up  Botas para Mujer  Negro  Black Full Grain   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JOC7FB6/?tag=tolees-21'
 descuento: '40.00'
 average: '73.935'

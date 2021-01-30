@@ -16,6 +16,7 @@ comparePrice: 8.83 EUR
 prodname: 'Marca Amazon - Iris & Lilly Sujetador sin Aros con Relleno Mujer  Purple  Dusty Mauve   100E  Label: 38DD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797GD9RW/?tag=tolees-21'
 descuento: '32.96'
 average: '5.92'

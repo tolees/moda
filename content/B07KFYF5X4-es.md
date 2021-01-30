@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA AURIZ  Zapatos de fútbol para Hombre  Negro Black White/Castlerock/Gum  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYF5X4/?tag=tolees-21'
 descuento: '30.03'
 average: '31.484'

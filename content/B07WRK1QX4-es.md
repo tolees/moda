@@ -16,6 +16,7 @@ comparePrice: 22.53 EUR
 prodname: 'New Look Op Patch Pocket Mtj Chaqueta Punto  Marfil  Off White 12   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRK1QX4/?tag=tolees-21'
 descuento: '42.30'
 average: '13.0'

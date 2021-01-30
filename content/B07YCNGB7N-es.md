@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Levi s Kids Lvg Ss Batwing Tee Camiseta Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCNGB7N/?tag=tolees-21'
 descuento: '20.28'
 average: '14.35'

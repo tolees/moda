@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Samsonite Openroad Tablet Crossover M 7.9" Bolso Bandolera  3.5 litros  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX3IZIY/?tag=tolees-21'
 descuento: '23.23'
 average: '49.9'

@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Hilfiger Denim Stripe Tommy Jeans Beach Sandal  Chanclas para Hombre  Negro  Black 990   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3FQR76/?tag=tolees-21'
 descuento: '57.91'
 average: '14.483333333333333'

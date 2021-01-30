@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'G-STAR RAW Alkyne Slim Camiseta  Negro  White 110   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDQ2MNQ/?tag=tolees-21'
 descuento: '41.44'
 average: '17.54'

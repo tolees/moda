@@ -16,6 +16,7 @@ comparePrice: 11.54 EUR
 prodname: 'Marca Amazon - MERAKI Shorts de Natación Hombre  Turquesa  azul marino/turquesa .  M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTDX9FK/?tag=tolees-21'
 descuento: '20.80'
 average: '9.785'

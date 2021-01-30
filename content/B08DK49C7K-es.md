@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Toallitas para lentes  200 toallitas de limpieza prehumedecidas individualmente para gafas  antivaho  secado rápido y sin arañazos  limpia las gafas – aroma a limón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DK49C7K/?tag=tolees-21'
 descuento: '43.50'
 average: '12.99'

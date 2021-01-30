@@ -16,6 +16,7 @@ comparePrice: 73.09 EUR
 prodname: 'Nike Air MAX Invigor  Zapatilla de Correr para Hombre  Smoke Grey White OPTI Yellow  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTVCKR9/?tag=tolees-21'
 descuento: '30.46'
 average: '50.83'

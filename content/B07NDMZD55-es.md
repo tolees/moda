@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Motac Slim Round Neck Sudadera  Gris  Granite Htr 2522   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMZD55/?tag=tolees-21'
 descuento: '52.68'
 average: '29.495'

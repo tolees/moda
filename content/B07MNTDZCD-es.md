@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'oodji Ultra Mujer Blusa Ancha con Escote Gota en la Espalda  Verde  ES 34 / XXS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNTDZCD/?tag=tolees-21'
 descuento: '20.00'
 average: '12.0'

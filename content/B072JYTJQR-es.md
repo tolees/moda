@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Batcombe Wing  Zapatos de Cordones Derby  Negro  Black Leather-   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JYTJQR/?tag=tolees-21'
 descuento: '52.66'
 average: '57.480000000000004'

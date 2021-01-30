@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Azul  Kalsomine 0388   28W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF55DD5/?tag=tolees-21'
 descuento: '43.52'
 average: '56.48'

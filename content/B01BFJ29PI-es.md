@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Charles Wilson Camiseta Polo con Solapa de Contraste  Small  Teal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BFJ29PI/?tag=tolees-21'
 descuento: '16.71'
 average: '14.95'

@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Tommy Hilfiger T Camiseta Básica de Manga Corta  Rojo  Apple Red Heather   Talla única  Talla del Fabricante: 74  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBQCFCF/?tag=tolees-21'
 descuento: '19.80'
 average: '11.823333333333332'

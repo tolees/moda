@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Joma Campus II Camiseta de Juego Manga Corta  Hombre  Celeste  2XL-3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CSU1DHS/?tag=tolees-21'
 descuento: '33.47'
 average: '9.98'

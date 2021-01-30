@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Vest Charlotte Vestido  Blanco  Blanco 1000   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHTPT9P/?tag=tolees-21'
 descuento: '64.40'
 average: '25.13'

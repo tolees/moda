@@ -16,6 +16,7 @@ comparePrice: 29.66 EUR
 prodname: 'Desigual Bols tribal Loverty - Bolso bandolera  14 x 24 x 33 cm   color Negro  talla 14x24x33 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDKK9Y6/?tag=tolees-21'
 descuento: '20.50'
 average: '27.084'

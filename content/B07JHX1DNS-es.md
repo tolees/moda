@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'Estuche SileuCase para copas menstruales – Ideal para llevar tu tampón o copa menstrual de forma elegante y discreta en tu bolso o para viajes - Pequeño  8 cm - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHX1DNS/?tag=tolees-21'
 descuento: '20.04'
 average: '4.39'

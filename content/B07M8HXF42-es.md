@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only NOS Onlblush Mid SK ANK Raw Colour Jea Noos Vaqueros  Peach Whip  36W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8HXF42/?tag=tolees-21'
 descuento: '74.59'
 average: '10.16'

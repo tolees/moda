@@ -16,6 +16,7 @@ comparePrice: 5.61 EUR
 prodname: 'Marca Amazon - find. Camiseta con Cuello Redondo Mujer  Blanco  White   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NJJJ3R/?tag=tolees-21'
 descuento: '26.74'
 average: '4.11'

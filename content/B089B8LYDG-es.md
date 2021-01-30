@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'CARPISA ® Bolso cesta - MANDEL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089B8LYDG/?tag=tolees-21'
 descuento: '54.99'
 average: '11.68'

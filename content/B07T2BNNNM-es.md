@@ -16,6 +16,7 @@ comparePrice: 18.49 EUR
 prodname: 'Sandalias Mujer Verano 2042 cáñamo Fondo Grueso Sandalias Punta Abierta Cuero Fondo Plano Zapatos Bohemias Romanas Hebilla Zapatillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2BNNNM/?tag=tolees-21'
 descuento: '26.72'
 average: '13.55'

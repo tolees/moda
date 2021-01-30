@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'JACK & JONES Jorseth Jacket Chaqueta  Rojo  Brick Red Detail: Blocking   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGHXZHL/?tag=tolees-21'
 descuento: '61.14'
 average: '27.2'

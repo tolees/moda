@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler LS 1pkt Shirt Camisa  Azul  Cobalt Blue B09   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2BXRMH/?tag=tolees-21'
 descuento: '79.72'
 average: '17.05'

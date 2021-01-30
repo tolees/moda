@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Crocband Clog Kids  Zuecos Unisex Niños  Verde  Army Green/Burnt Sienna 3tb   24/25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPC1PT4/?tag=tolees-21'
 descuento: '44.01'
 average: '17.91'

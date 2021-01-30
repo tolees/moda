@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U New Damon B  Mocasines para Hombre  Marrón  DK BROWNC6006   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GWX20E2/?tag=tolees-21'
 descuento: '34.17'
 average: '65.76'

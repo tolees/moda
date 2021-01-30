@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'SHOBDW Mujer Moda Entrenamiento Capri Leggings Pantalones Colorido Estiramiento de Cintura Alta Gimnasio Deportes Gimnasio Mallas para Correr Yoga Atlético Negro L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3NXKM2/?tag=tolees-21'
 descuento: '71.59'
 average: '3.69'

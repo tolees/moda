@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Peakfreak Venture  Zapatos Impermeables para Hombre  Beige  Elk  Dark Adobe 286   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK3ZXRV/?tag=tolees-21'
 descuento: '72.45'
 average: '31.705'

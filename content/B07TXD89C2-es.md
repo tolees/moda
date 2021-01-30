@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry Rainbow Sleek Flip Flop  Chanclas para Mujer  Amarillo  Neon Yellow 24k   38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXD89C2/?tag=tolees-21'
 descuento: '24.01'
 average: '18.99'

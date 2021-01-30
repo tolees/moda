@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Corporate Leather Flat Sandal  Sandalias con Punta Abierta para Mujer  Blanco  Ivory Ybi   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3N24DH/?tag=tolees-21'
 descuento: '62.37'
 average: '37.39333333333333'

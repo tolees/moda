@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Mercedes-Benz Sonnenbrille M7008 Gafas de sol  Marrón  Braun   59.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T73X1TP/?tag=tolees-21'
 descuento: '89.22'
 average: '21.45'

@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Texas Contrast Vaqueros Straight  Azul  Soft Power 28d   W30/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ1Q59R/?tag=tolees-21'
 descuento: '55.03'
 average: '38.2'

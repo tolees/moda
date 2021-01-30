@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'adidas Essentials Linear Tk Camiseta de Tirantes  Mujer  Negro  Black/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPXTC9S/?tag=tolees-21'
 descuento: '30.05'
 average: '13.99'

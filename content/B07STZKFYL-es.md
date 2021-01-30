@@ -16,6 +16,7 @@ comparePrice: 45.49 EUR
 prodname: 'Pepe Jeans Stanley Vaqueros Straight  Blanco  000Denim 000   W34/L34  Talla del Fabricante: 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STZKFYL/?tag=tolees-21'
 descuento: '26.93'
 average: '33.24'

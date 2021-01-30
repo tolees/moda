@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'FitFlop Lottie Glitzy  Sandalias de Punta Descubierta Women s  Gris  Pewter 054   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ13YDH/?tag=tolees-21'
 descuento: '30.00'
 average: '49.0'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Original Sherpa Trucker Chaqueta  Azul  Strangeways 0004   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072Q52NHS/?tag=tolees-21'
 descuento: '20.91'
 average: '70.92333333333333'

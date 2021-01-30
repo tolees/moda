@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Marca Amazon - find. Abrigo Hombre  Azul  Navy   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCZ6M6W/?tag=tolees-21'
 descuento: '29.09'
 average: '47.265'

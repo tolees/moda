@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Keen Newport H2  Sandalias de Senderismo Infantil  Azul  Hawaiian Blue/Green Glow   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L86XSP4/?tag=tolees-21'
 descuento: '30.08'
 average: '13.95'

@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Columbia Centennial Creek Chaqueta De Plumón con Capucha  Hombre  Rojo  Red Jasper   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCN9Q4Q/?tag=tolees-21'
 descuento: '72.85'
 average: '62.44'

@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Jeans Tjw Tommy Classics Stripe tee Camiseta de Manga Corta  Rosa  Pink Daisy/Multi 0ef   40  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPQYJLK/?tag=tolees-21'
 descuento: '51.72'
 average: '14.0'

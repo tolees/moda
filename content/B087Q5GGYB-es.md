@@ -16,6 +16,7 @@ comparePrice: 53.88 EUR
 prodname: 'TAOFFEN Mujer Tacón Medio Zapatillas de Deporte Caña Baja Zapatos de Skate Cordones Suela Gruesa Zapatos Running Black Talla 37 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087Q5GGYB/?tag=tolees-21'
 descuento: '50.11'
 average: '26.88'

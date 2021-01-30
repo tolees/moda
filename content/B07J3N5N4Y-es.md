@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'GEOX 3062U mini pochette donna portatessere bordeaux mini handbag woman [ONE SIZE]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3N5N4Y/?tag=tolees-21'
 descuento: '44.29'
 average: '39.0'

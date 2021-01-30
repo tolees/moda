@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Sportstyle Terry Logo Hoodie  Sudadera con Capucha Hombre  Negro  Black/White 001    XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGJ5VMX/?tag=tolees-21'
 descuento: '65.28'
 average: '21.904444444444444'

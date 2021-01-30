@@ -16,6 +16,7 @@ comparePrice: 17.69 EUR
 prodname: 'Roxy Viva Sparkle  Zapatos de Playa y Piscina para Mujer  Azul  Navy Nvy   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STWV9JT/?tag=tolees-21'
 descuento: '37.87'
 average: '10.99'

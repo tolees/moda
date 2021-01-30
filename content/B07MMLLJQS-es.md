@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Napapijri SOVES Camiseta  Rojo  Red Scarlet R01   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLLJQS/?tag=tolees-21'
 descuento: '50.00'
 average: '17.55'

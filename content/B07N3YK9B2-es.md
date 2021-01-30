@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Shirt CAM Camisa   Crudo Beige 1008   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3YK9B2/?tag=tolees-21'
 descuento: '57.82'
 average: '33.72'

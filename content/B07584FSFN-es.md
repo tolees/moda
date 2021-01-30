@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'find. Vaqueros Skinny con Rotos Hombre Azul  Mid Blue Wash  W40/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07584FSFN/?tag=tolees-21'
 descuento: '49.00'
 average: '17.85'

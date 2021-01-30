@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 511 Slim Vaqueros  Baltic Navy Sueded Sateen WT B 4432  32W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV6Z22F/?tag=tolees-21'
 descuento: '44.62'
 average: '49.84'

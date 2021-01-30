@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'Tommy Hilfiger Lightly Lined Demi Sujetador para Camiseta  Rosa  Silver Rose SVR   95D  Talla del Fabricante: 0D36  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFVFTG3/?tag=tolees-21'
 descuento: '41.33'
 average: '26.99'

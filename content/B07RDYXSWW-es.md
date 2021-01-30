@@ -16,6 +16,7 @@ comparePrice: 16.51 EUR
 prodname: 'Marca Amazon - find. Casual Suede Ankle Botines  Naranja Spice  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDYXSWW/?tag=tolees-21'
 descuento: '32.59'
 average: '12.796666666666667'

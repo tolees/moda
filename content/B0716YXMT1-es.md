@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Sportstyle Pique Track Jacket Chaqueta  Hombre  Gris  Stealth Gray/White 008   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0716YXMT1/?tag=tolees-21'
 descuento: '52.02'
 average: '23.82333333333333'

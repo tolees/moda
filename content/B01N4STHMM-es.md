@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger SS tee Print Camiseta con Logo  Azul  Navy Blazer 416   L  Talla del Fabricante: LG  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4STHMM/?tag=tolees-21'
 descuento: '29.93'
 average: '19.96333333333333'

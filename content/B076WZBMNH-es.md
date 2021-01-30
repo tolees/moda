@@ -16,6 +16,7 @@ comparePrice: 95 EUR
 prodname: 'Levi s 310 Shaping Super Skinny  Vaqueros Skinny Mujer  Negro  Black Galaxy 0003   W32/L34  Talla fabricante: W32/L34 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076WZBMNH/?tag=tolees-21'
 descuento: '37.47'
 average: '59.4'

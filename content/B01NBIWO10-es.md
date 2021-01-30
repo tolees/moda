@@ -16,6 +16,7 @@ comparePrice: 24 EUR
 prodname: 'find. Sudadera Oversized con Volantes para Mujer   Rosa  Old Rose   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBIWO10/?tag=tolees-21'
 descuento: '60.00'
 average: '9.6'

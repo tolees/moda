@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Leadcat NSK  Zapatos de Playa y Piscina Unisex-Adulto  Rosa  Winsome Orchid-Laurel Wreath White   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ382CG/?tag=tolees-21'
 descuento: '44.21'
 average: '14.586666666666668'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Hoylson Gavena Calcetines Antideslizantes para Bebé Niños Niñas Zapatos Cuero Bebe de Primer Paso Invierno 3-24 Meses Gris Azul Rosa 12-18 meses ROSA/BLANCO '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FJFQTRT/?tag=tolees-21'
 descuento: '33.35'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 13.07 EUR
 prodname: 'Springfield FR Bomber Sudadera  Negro  Black 1   Medium  Tamaño del Fabricante: M  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQQXV6F/?tag=tolees-21'
 descuento: '27.54'
 average: '9.47'

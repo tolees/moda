@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Tilden Cap  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTJLFAW/?tag=tolees-21'
 descuento: '25.32'
 average: '57.14'

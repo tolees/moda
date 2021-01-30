@@ -16,6 +16,7 @@ comparePrice: 4.65 EUR
 prodname: 'Marca Amazon - IRIS & LILLY Braguita Mujer  Pack de 5  Blanco  White   3XL  Label: 3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGXK5KM/?tag=tolees-21'
 descuento: '27.74'
 average: '3.8600000000000003'

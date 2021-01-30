@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Calvin Klein CK Essential Slim V Neck tee Camiseta  Gris  Mid Grey Heather P2f   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD3G7HG/?tag=tolees-21'
 descuento: '46.28'
 average: '20.95'

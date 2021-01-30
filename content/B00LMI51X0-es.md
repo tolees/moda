@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Quiksilver Monkey Abyss M SNDL  Sandalias con Plataforma Plana para Hombre  Negro  Black/Black/Brown Xkkc   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LMI51X0/?tag=tolees-21'
 descuento: '55.98'
 average: '12.535'

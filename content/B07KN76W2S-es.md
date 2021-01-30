@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'adidas W E 3s FZ HD Sudadera  Mujer  Negro  Black/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KN76W2S/?tag=tolees-21'
 descuento: '33.64'
 average: '36.49'

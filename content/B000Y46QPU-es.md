@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Texas Stretch Vintage Tint  Vaqueros para Hombre  Azul  Vintage Tint   W33/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Y46QPU/?tag=tolees-21'
 descuento: '59.50'
 average: '36.43'

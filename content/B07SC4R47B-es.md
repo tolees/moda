@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Helly Hansen Jr Moss Jacket Chaqueta  Unisex niños  Sling White Print  10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC4R47B/?tag=tolees-21'
 descuento: '67.60'
 average: '16.2'

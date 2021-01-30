@@ -16,6 +16,7 @@ comparePrice: 17.37 EUR
 prodname: 'Dockers Plaited Jersey Crew suéter  Azul Logo Pembroke 0010  X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND3YKNQ/?tag=tolees-21'
 descuento: '19.06'
 average: '14.06'

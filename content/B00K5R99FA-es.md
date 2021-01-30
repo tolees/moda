@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Trunk Bóxer  Blanco  White 100   XX-Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K5R99FA/?tag=tolees-21'
 descuento: '30.19'
 average: '29.458000000000002'

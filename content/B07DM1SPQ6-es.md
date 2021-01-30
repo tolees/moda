@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Samsonite Openroad - 3 Way Bag Expandable for 15.6" Laptop 21/27L 1.5 KG Bolso bandolera  43 cm  21 liters  Negro  Jet Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DM1SPQ6/?tag=tolees-21'
 descuento: '25.97'
 average: '155.46'

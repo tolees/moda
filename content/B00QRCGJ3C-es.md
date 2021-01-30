@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox U NEBULA B - zapatilla deportiva de cuero hombre  Azul  NAVYC4002   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QRCGJ3C/?tag=tolees-21'
 descuento: '46.27'
 average: '69.79'

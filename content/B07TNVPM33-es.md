@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Flex Sun  Sandalias de Talón Abierto para Mujer  Amarillo  Amber Suede Amber Suede   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNVPM33/?tag=tolees-21'
 descuento: '60.65'
 average: '43.28'

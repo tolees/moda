@@ -16,6 +16,7 @@ comparePrice: 2.58 EUR
 prodname: 'BaZhaHei CinturóN Verde de Compras Monedero del Totalizador del Bolso de Lona del Hombro del Bolso de Rayas Coloreadas de SeñOra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZJJ2PP/?tag=tolees-21'
 descuento: '56.59'
 average: '1.12'

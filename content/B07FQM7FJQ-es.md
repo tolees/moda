@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Oakland Lace  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQM7FJQ/?tag=tolees-21'
 descuento: '50.00'
 average: '46.545'

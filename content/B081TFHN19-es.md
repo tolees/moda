@@ -16,6 +16,7 @@ comparePrice: 10.93 EUR
 prodname: 'LuckyGirls Hombres Verano Roma Chanclas Zapatillas de Playa Cómoda Correa en T Zapatillas de Punta Abierta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TFHN19/?tag=tolees-21'
 descuento: '54.80'
 average: '4.94'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LIGE Relojes para Hombres Moda Militar Impermeable Deporte Reloj Analógico Cuarzo Marrón Cronógrafo Cuero Negocio Reloj  Todo Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2Q9HQ3/?tag=tolees-21'
 descuento: '63.34'
 average: '32.99'

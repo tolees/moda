@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'PUMA Suede Classic+  Zapatilla para Hombre  Black White  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004SGJRMY/?tag=tolees-21'
 descuento: '53.03'
 average: '41.628571428571426'

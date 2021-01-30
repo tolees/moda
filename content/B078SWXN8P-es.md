@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Timberland Capri Sunset Wedge  Sandalias para Mujer  Negro Black Full Grain  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SWXN8P/?tag=tolees-21'
 descuento: '50.00'
 average: '50.0'

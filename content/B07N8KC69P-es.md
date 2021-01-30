@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'BOSS Togn 1 Camiseta  Azul  Navy   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8KC69P/?tag=tolees-21'
 descuento: '50.04'
 average: '34.95'

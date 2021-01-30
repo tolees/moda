@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Cotrell Lane  Zapatos de Cordones Derby para Hombre  Marrón  Tan Combi Lea Tan Combi Lea   48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNVW3YH/?tag=tolees-21'
 descuento: '57.35'
 average: '34.1'

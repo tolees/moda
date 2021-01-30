@@ -16,6 +16,7 @@ comparePrice: 38.88 EUR
 prodname: 'Zapatos de bebé Sandalias Unisex Niños 0-6 Meses - 3-4 años Sandalias del Niño de Verano Las Zapatillas de Deporte Sandalias Velcro para Niño Zapatillas de Deporte Al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZRYH4G/?tag=tolees-21'
 descuento: '61.45'
 average: '14.99'

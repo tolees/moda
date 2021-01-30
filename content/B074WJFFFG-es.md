@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Union Wharf Lace Oxford  Zapatillas Bajas para Hombre  Negro Black Canvas  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WJFFFG/?tag=tolees-21'
 descuento: '50.00'
 average: '32.5'

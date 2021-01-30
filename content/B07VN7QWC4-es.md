@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Hackett London Amr Hackett tee Camiseta  Rojo  1bkorange Lacq 1bk   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VN7QWC4/?tag=tolees-21'
 descuento: '55.07'
 average: '31.0'

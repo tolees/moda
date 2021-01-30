@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s SS Color Block tee Camiseta  Multicolor  Jersey Colorblock Skyway/White/Dress Blues + White Print 0001   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFFG6R2/?tag=tolees-21'
 descuento: '73.17'
 average: '9.665'

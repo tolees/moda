@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Perfectmiaoxuan Gafas de sol para hombre mujer polarizadas/Ciclismo El golf Conducción Pescar Alpinismo Gafas vintage/Deportes al aire libre gafas de sol de playa UV400'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS4FBCR/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

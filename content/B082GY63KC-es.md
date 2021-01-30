@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Oihxse Cristal Case - Compatible con Samsung Galaxy A8S Funda  Ultra-Delgado Silicona TPU Suave Airbag Gradiente de Color Carcasa Elegante Moda Lindo Protectora Cubierta  Rosa Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082GY63KC/?tag=tolees-21'
 descuento: '30.82'
 average: '8.98'

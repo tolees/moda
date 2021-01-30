@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Lee Relaxed Fit tee Camiseta  Negro  Black 01   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S68MDW3/?tag=tolees-21'
 descuento: '72.69'
 average: '9.56'

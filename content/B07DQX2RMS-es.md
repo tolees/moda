@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'EUMI Colgantes Mujer Joyeria Mujer Collar Plata de Ley 925 Collar con un Colgante de circonitas de Diamantes  Fiestas  cumpleaños  Angel de Amor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQX2RMS/?tag=tolees-21'
 descuento: '57.59'
 average: '13.99'

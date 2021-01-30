@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic Z  Zuecos con Correa Trasera Unisex Adulto  Azul  Navy   46/47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0014C2PZG/?tag=tolees-21'
 descuento: '36.26'
 average: '25.8675'

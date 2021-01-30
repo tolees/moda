@@ -16,6 +16,7 @@ comparePrice: 33.86 EUR
 prodname: 'Geox U Devan A  Mocasines para Hombre  Azul  Navy C4002   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFYSY2K/?tag=tolees-21'
 descuento: '16.83'
 average: '28.16'

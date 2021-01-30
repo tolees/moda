@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'SIMYJOY Unisex Regalo de San Valentín Blackpink Sudadera con Capucha KPOP Pullover Hip Hop Sudadera para Hombres Mujeres Adolescentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZG4M5H/?tag=tolees-21'
 descuento: '61.78'
 average: '12.99'

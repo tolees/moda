@@ -16,6 +16,7 @@ comparePrice: 237.0 EUR
 prodname: 'Prada 0PR17SS VH43C2 53 Gafas de Sol  Verde  Bordeaux/Green/Grey   Unisex-Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDXGYKP/?tag=tolees-21'
 descuento: '36.50'
 average: '150.5'

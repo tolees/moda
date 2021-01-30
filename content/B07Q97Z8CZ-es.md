@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'NNJXD Vestido de Unicornio para niñas Fiesta de Apliques de Flores Cosplay Disfraz de Halloween + Gorros Tamaño  110  3-4 años Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q97Z8CZ/?tag=tolees-21'
 descuento: '33.37'
 average: '19.99'

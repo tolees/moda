@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Sheer Rose  Zapatos de Tacón para Mujer  Multicolor  Leopard Print Leopard Print   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1H8FGR/?tag=tolees-21'
 descuento: '55.03'
 average: '44.40857142857143'

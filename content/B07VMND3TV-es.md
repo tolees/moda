@@ -16,6 +16,7 @@ comparePrice: 38.19 EUR
 prodname: 'Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Azul  Bluebell   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMND3TV/?tag=tolees-21'
 descuento: '45.48'
 average: '18.093333333333334'

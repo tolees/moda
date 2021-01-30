@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Columbia Horizons Pine Chaqueta Interchange  Hombre  Verde  Olive Green   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHNMNMK/?tag=tolees-21'
 descuento: '46.04'
 average: '129.49'

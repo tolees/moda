@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Triple Canyon Pantalón Corto De Senderismo  Hombre  Dark Mountain  W32/L10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0817FCJQ8/?tag=tolees-21'
 descuento: '61.68'
 average: '22.99'

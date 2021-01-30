@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s June L S  Chanclas para Mujer  Rosa  Light Pink 81   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SH1V4MJ/?tag=tolees-21'
 descuento: '32.04'
 average: '16.99'

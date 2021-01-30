@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Natural Wedge Sandal  Sandalias Punta Cerrada para Mujer  Negro  Black Bds   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5QRYP2/?tag=tolees-21'
 descuento: '66.66'
 average: '33.31'

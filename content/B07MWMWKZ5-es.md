@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Timberland TB9173 Gafas de sol  Transparente  Crystal/Smoke Polarized   70.0 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWMWKZ5/?tag=tolees-21'
 descuento: '30.00'
 average: '56.0'

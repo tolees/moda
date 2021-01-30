@@ -16,6 +16,7 @@ comparePrice: 18.65 EUR
 prodname: 'Little Sprouts - Cadena de chupete 2 en 1 - Moderna y Moda cuentas de silicona para dentición con formas únicas - Ideal para juguete mordedores  Soothie  mantas para bebés y baberos - Clip de Niña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGRYJM7/?tag=tolees-21'
 descuento: '37.53'
 average: '11.65'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Jack & Jones Jcomick tee SS Crew Neck Noos Camiseta  Gris  White Melange Fit: Slim   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWQ5RWX/?tag=tolees-21'
 descuento: '45.16'
 average: '8.22'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s LS Battery Hm Shirt Slim Camisa  Azul  Allure 0005   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNLY8QN/?tag=tolees-21'
 descuento: '30.08'
 average: '41.95'

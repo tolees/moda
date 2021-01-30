@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'BOSS Boxer Brief 2p Solid  Verde  Open Green 342   Large  Pack de 2 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBWFSQ1/?tag=tolees-21'
 descuento: '15.38'
 average: '14.715'

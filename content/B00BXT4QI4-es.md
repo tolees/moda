@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Kempa Woven Pantalón Corto de Entrenamiento  Hombre  Blanco  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BXT4QI4/?tag=tolees-21'
 descuento: '76.27'
 average: '9.49'

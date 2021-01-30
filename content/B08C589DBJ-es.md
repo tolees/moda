@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Neceser de Maquillaje  LOSMILE Bolsa de Maquillaje para Viaje Impermeable Organizador de Maquillaje  Bolso de Cosméticos con divisors Ajustable.  M-Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C589DBJ/?tag=tolees-21'
 descuento: '39.45'
 average: '19.98'

@@ -16,6 +16,7 @@ comparePrice: 15.56 EUR
 prodname: 'Ganchos de pared resistente ETSAMOR 2pcs Ganchos para toallas de baño del acero inoxidable colgador de abrigo sombrero en cocina y oficina con tornillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMTXVWC/?tag=tolees-21'
 descuento: '41.65'
 average: '12.110000000000001'

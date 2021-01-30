@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Arizona Vaqueros  Cool Hand  38W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GV956TY/?tag=tolees-21'
 descuento: '51.37'
 average: '43.74'

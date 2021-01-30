@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Columbia Carson Pass Chaqueta Interchange  Mujer  Azul  Dark Azul/Nocturnal   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J9KKMSB/?tag=tolees-21'
 descuento: '72.36'
 average: '66.34'

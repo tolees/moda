@@ -16,6 +16,7 @@ comparePrice: 13.76 EUR
 prodname: 'Jack & Jones JORWONTON Sweat Hood Sudadera con Capucha  Azul  Navy Blazer Fit: Reg   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDJ57Y6/?tag=tolees-21'
 descuento: '20.20'
 average: '10.98'

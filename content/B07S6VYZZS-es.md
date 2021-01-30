@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'El Naturalista Myth Yggdrasil  Botines para Mujer  Gris  Plume/Caliza Plume/Caliza   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6VYZZS/?tag=tolees-21'
 descuento: '76.06'
 average: '31.11'

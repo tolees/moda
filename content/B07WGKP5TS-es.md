@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Parfois - Clutch - Bolso De Fiesta Con Abalorios - Mujeres - Tallas M - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGKP5TS/?tag=tolees-21'
 descuento: '28.58'
 average: '19.99'

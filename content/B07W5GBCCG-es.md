@@ -16,6 +16,7 @@ comparePrice: 37.91 EUR
 prodname: 'JACK & JONES JCOOSCAR Jacket Hood Chaqueta  Negro Black  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5GBCCG/?tag=tolees-21'
 descuento: '23.95'
 average: '28.83'

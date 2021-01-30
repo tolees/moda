@@ -16,6 +16,7 @@ comparePrice: 51.43 EUR
 prodname: 'Joules Golightly Abrigo para Lluvia  Morado  Berry Peony BERRYPEONY   36 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVRMWJ9/?tag=tolees-21'
 descuento: '32.02'
 average: '34.96'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Under Armour Armour Insulated Hooded Chaqueta  Hombre  Azul  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9HVS8G/?tag=tolees-21'
 descuento: '46.22'
 average: '69.91'

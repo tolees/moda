@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'The North Face Drew Peak Sudadera  Mujer  Azul  Azul tormenta   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN1QF6F/?tag=tolees-21'
 descuento: '40.00'
 average: '48.0'

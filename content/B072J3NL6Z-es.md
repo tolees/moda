@@ -16,6 +16,7 @@ comparePrice: 32.48 EUR
 prodname: 'Under Armour Racing Pack Short Sleeve Camiseta de Manga Corta  Hombre  Negro  001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072J3NL6Z/?tag=tolees-21'
 descuento: '58.74'
 average: '13.4'

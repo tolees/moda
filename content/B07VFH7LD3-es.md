@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jjebomb Puffer Collar Noos Chaqueta Bomber  Rojo  Scarlet Scarlet   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFH7LD3/?tag=tolees-21'
 descuento: '47.54'
 average: '22.816666666666666'

@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Under Armour Mk1 Warmup FZ Chaqueta  Hombre  Negro  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXTT888/?tag=tolees-21'
 descuento: '34.18'
 average: '39.49'

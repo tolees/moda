@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Chepstow Vaqueros Hombre Ajustados  Azul  000Denim 000   W30/L34  Talla del Fabricante: 30 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1LNLG1/?tag=tolees-21'
 descuento: '49.45'
 average: '48.02'

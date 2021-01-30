@@ -16,6 +16,7 @@ comparePrice: 175.5 EUR
 prodname: 'Love Moschino Jc4256pp0a  Bolso tipo tote para Mujer  Rojo  Red   9x25x37 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7WM8FL/?tag=tolees-21'
 descuento: '63.07'
 average: '65.975'

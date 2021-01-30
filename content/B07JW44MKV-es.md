@@ -16,6 +16,7 @@ comparePrice: 38.81 EUR
 prodname: 'Lee Extreme Motion Straight Vaqueros  Beige  Cougar 77   32W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW44MKV/?tag=tolees-21'
 descuento: '33.34'
 average: '25.87'

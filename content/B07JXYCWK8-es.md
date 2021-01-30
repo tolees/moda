@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'XIAOYAO Hombre Sudadera con Capucha Deportiva Manga Larga Hoodie Casual Camisa de Entrenamiento  XL  Blanco Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXYCWK8/?tag=tolees-21'
 descuento: '25.01'
 average: '26.24'

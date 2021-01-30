@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'WOLFIRE SC Camiseta de Baloncesto para Hombre  NBA  Los Angeles Lakers #8#24 Kobe Bryant. Bordado Swingman Transpirable y Resistente al Desgaste Camiseta para Fan  Amarilla 8  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0847SGYLR/?tag=tolees-21'
 descuento: '20.84'
 average: '18.99'

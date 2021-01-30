@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Camiseta de Tirantes Deportiva Hombre Tirantes Culturismo Fitness Deportiva. Ropa Deporte Masculina para Entrenar Gym'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R65Y4ZD/?tag=tolees-21'
 descuento: '31.13'
 average: '6.88'

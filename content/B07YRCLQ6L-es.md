@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Marca Amazon - AURIQUE Shorts de Deporte con Banda Lateral Mujer  Azul  Colony Blue   40  Label:M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRCLQ6L/?tag=tolees-21'
 descuento: '20.00'
 average: '12.8'

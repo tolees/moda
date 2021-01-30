@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Xnuoyo Mochila de Bandolera  Bolso de Pecho Hombro Impermeable Crossbody Bolsa para Hombres Mujeres para el Deporte al Aire Gimnasio Viajes Senderismo  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7ZQQFC/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

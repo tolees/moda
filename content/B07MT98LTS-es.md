@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Zapatillas de Deporte para niños Niños Zapatillas de Correr Zapatillas para niñas Entrenadores para Correr Zapatos para Caminar al Aire Libre Zapatos para niñas para niños Azul 32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MT98LTS/?tag=tolees-21'
 descuento: '39.19'
 average: '23.1'

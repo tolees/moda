@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bolso de Hombro pequeña de Mujer Bolso de Bandolera de Cuero PU Bolso de Mano Casual Moda Crossbody para niñas Señoras-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSDNJTG/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Calvin Klein Core Institutional Logo Slim tee Camiseta  Azul  Night Sky 402   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZ7MHZX/?tag=tolees-21'
 descuento: '41.76'
 average: '18.42'

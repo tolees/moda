@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Women s Secret Generic Funny GD Koala PJ Conjuntos de Pijama  Gris  Gama Grises 46   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V13CYFG/?tag=tolees-21'
 descuento: '33.44'
 average: '23.29'

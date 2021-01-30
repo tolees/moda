@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Calvin Klein Center Monogram Box Slim tee Camiseta  Gris  Mid Grey Heather P2f   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9JGZ7B/?tag=tolees-21'
 descuento: '48.71'
 average: '17.95'

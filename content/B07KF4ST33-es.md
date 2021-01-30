@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s SS Ringer tee Camiseta  Rojo  Brand Integrated White/Brilliant Red 0019   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4ST33/?tag=tolees-21'
 descuento: '48.37'
 average: '15.49'

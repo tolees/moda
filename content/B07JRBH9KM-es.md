@@ -16,6 +16,7 @@ comparePrice: 27 EUR
 prodname: 'Tommy Jeans Mujer Garment Dye Tee Camiseta   Morado  Hyacinth 580  X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JRBH9KM/?tag=tolees-21'
 descuento: '29.63'
 average: '19.0'

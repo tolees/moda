@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'IRIS & LILLY BLIC004 sujetadores push up  Rosa  Azalea   90C  Talla del fabricante: 34C '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DJ6JJM/?tag=tolees-21'
 descuento: '59.97'
 average: '6'

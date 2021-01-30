@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Helly Hansen Hp Fleece Jacket  Chaqueta deportiva para Hombre  Rojo  Rojo 147   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2RVCNJ/?tag=tolees-21'
 descuento: '47.77'
 average: '57.45'

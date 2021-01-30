@@ -16,6 +16,7 @@ comparePrice: 15.17 EUR
 prodname: 'Amazon Essentials – Pantalón chino sin pinzas en la parte delantera  resistente a las arrugas  de corte recto para hombre  Azul  Navy   W29 x L28'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FH9V6ZQ/?tag=tolees-21'
 descuento: '16.94'
 average: '12.6'

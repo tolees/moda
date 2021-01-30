@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Springfield 7.J.Ap.T.Turtle Neck Jersey  Negro  Negro 1   Small  Tamaño del Fabricante: S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ5S6Y7/?tag=tolees-21'
 descuento: '79.39'
 average: '7.085'

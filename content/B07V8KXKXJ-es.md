@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Calvin Klein Contrasted Ringer Reg Fit tee Camiseta  Blanco  Bright White/Black Yaf   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8KXKXJ/?tag=tolees-21'
 descuento: '50.00'
 average: '14.5'

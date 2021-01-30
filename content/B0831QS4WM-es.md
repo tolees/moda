@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Canadian Peak Parka DE NIÑA BANINA Azul Marino 14'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0831QS4WM/?tag=tolees-21'
 descuento: '40.00'
 average: '53.4'

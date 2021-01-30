@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Medium Aged 6090-071  34W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SF9BHLY/?tag=tolees-21'
 descuento: '35.48'
 average: '64.49'

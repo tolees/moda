@@ -16,6 +16,7 @@ comparePrice: 74.94 EUR
 prodname: 'MY EVENING DRESS Grace - Vestido para Mujer  Verde  Dark Green H   talla del fabricante: 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FVYG8L0/?tag=tolees-21'
 descuento: '91.70'
 average: '9.535'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Wrangler Skinny Jeans Vaqueros  Azul  Soft Worn 12b   25W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8W7BTD/?tag=tolees-21'
 descuento: '81.25'
 average: '18.74'

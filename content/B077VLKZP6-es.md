@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Negro  Caviar 2 0008   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VLKZP6/?tag=tolees-21'
 descuento: '20.05'
 average: '15.993333333333334'

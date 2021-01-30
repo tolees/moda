@@ -16,6 +16,7 @@ comparePrice: 10.06 EUR
 prodname: 'Nuevo teléfono Celular con Clip Trasero de Estilo de Moda para iPhone 6 / 6s Dispositivo práctico Exquisitamente diseñado Duradero Precioso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5TYQLK/?tag=tolees-21'
 descuento: '33.50'
 average: '6.69'

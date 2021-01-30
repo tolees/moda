@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 501 Original Fit Vaqueros  Hook  40W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0081OBLRS/?tag=tolees-21'
 descuento: '42.01'
 average: '57.99'

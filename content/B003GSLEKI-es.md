@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Havaianas Brasil Logo  Chanclas Unisex niños  Azul  Navy Blue   23/24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003GSLEKI/?tag=tolees-21'
 descuento: '33.02'
 average: '13.1525'

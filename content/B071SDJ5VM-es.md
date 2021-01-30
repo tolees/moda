@@ -16,6 +16,7 @@ comparePrice: 92.9 EUR
 prodname: 'GEOX U740HA-022ME-C9997 DAMIAN Zapatilla de hombre  color negro  Black  40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071SDJ5VM/?tag=tolees-21'
 descuento: '60.00'
 average: '37.16'

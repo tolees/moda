@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'TiaoBug Bolero Fiesta Bebé Niñas para Boda Chaqueta Manga Larga para Ropa Vestido Princesa Cardigan Satinado Elegante Navy Blue 12-18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZP57NMD/?tag=tolees-21'
 descuento: '83.36'
 average: '4.99'

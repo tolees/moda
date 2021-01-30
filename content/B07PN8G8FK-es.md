@@ -16,6 +16,7 @@ comparePrice: 78.88 EUR
 prodname: 'SINOES Hombre 91-219 720 Caña Baja Gimnasia Ligero Transpirable Casuales Sneakers de Exterior y Interior Zapatillas Deporte Zapatos Que andan en monopatín técnicos Azul 44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PN8G8FK/?tag=tolees-21'
 descuento: '67.19'
 average: '25.88'

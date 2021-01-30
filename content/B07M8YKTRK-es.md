@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Geox M Hilstone D Abrigo  Negro  Black F9000   Medium  Talla del Fabricante: 50  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8YKTRK/?tag=tolees-21'
 descuento: '50.00'
 average: '99.5'

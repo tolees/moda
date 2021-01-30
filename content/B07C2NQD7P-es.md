@@ -16,6 +16,7 @@ comparePrice: 144.79 EUR
 prodname: 'Reloj para Hombres  Relojes Deportivo de Cuarzo analógico Impermeable para Hombre Relojes LIGE Lujoso Cronógrafo para Hombre  Moda Casual Reloj Redondo Negro Fecha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2NQD7P/?tag=tolees-21'
 descuento: '79.29'
 average: '29.256666666666668'

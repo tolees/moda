@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón con Punta Cerrada  Gris  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZW599YH/?tag=tolees-21'
 descuento: '71.94'
 average: '12.6'

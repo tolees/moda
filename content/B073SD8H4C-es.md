@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'find. Camiseta para Hombre  Rosa  Deauvile Mauve 002   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073SD8H4C/?tag=tolees-21'
 descuento: '48.20'
 average: '3.6'

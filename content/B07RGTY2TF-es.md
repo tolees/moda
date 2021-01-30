@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance 410v6 Trail  Zapatos para Correr para Mujer  Negro  Black Cm6   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGTY2TF/?tag=tolees-21'
 descuento: '54.39'
 average: '31.93'

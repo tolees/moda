@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Tri Alexia  Sandalias de Talón Abierto para Mujer  Beige  Grey Snake Grey Snake   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKSV2N3/?tag=tolees-21'
 descuento: '56.91'
 average: '44.1175'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'HUGO 734 Vaqueros Slim  Azul  Dark Blue 401   W30/L30  Talla del Fabricante: 3030  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCDH883/?tag=tolees-21'
 descuento: '42.02'
 average: '57.95'

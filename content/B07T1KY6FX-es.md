@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'Tikea Bolsa Geométrica Luminosa Holográfica para Mujer  Bolsa Cruzada de Moda en Cuero Sintético  Bandolera con Manilla Reversible Efecto Reflectante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1KY6FX/?tag=tolees-21'
 descuento: '48.45'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'HALOVIE Mochila Antirrobo para Mujer Impermeable Bolsos Bandolera Casual Monedero Cuero de PU Bolsa de Hombro Escuela Viaje Compras Señoras Bolsos de Mano Escolares Gran Capacidad Ligera Moda Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DG2T7K/?tag=tolees-21'
 descuento: '28.59'
 average: '14.99'

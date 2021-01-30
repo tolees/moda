@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Aibrou Pijamas Mujer Algodón Invierno 2 Piezas Ropa de Casa Dormir Casual Camiseta y Pantalones Largo Conjuntos Suave y Comodo S-XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G73WSGX/?tag=tolees-21'
 descuento: '27.03'
 average: '26.99'

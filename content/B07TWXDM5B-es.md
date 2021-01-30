@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Multilicense College MC WR B-Star PJ Conjuntos de Pijama  Azul  Gama Azules 18   Small  Tamaño del Fabricante: S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXDM5B/?tag=tolees-21'
 descuento: '44.18'
 average: '16.74'

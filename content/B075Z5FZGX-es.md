@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Chaqueta  Blanco  Bright White Bright White   44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075Z5FZGX/?tag=tolees-21'
 descuento: '38.35'
 average: '18.49'

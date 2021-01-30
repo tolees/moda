@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox Women s D NEW ANNYA MID A Closed Toe Heels  Blue  Navy C4002  7 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG16PYD/?tag=tolees-21'
 descuento: '70.86'
 average: '28.843749999999996'

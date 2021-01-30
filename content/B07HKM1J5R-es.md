@@ -16,6 +16,7 @@ comparePrice: 47.77 EUR
 prodname: 'Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre  Gris  Halo Gray/Ash Gray/Teal Rush  101  101   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKM1J5R/?tag=tolees-21'
 descuento: '29.24'
 average: '33.8'

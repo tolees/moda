@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Tommy Hilfiger Seasonal SB Trench Abrigo  Morado  Lilac Snow 619   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBLF55V/?tag=tolees-21'
 descuento: '30.00'
 average: '195.3'

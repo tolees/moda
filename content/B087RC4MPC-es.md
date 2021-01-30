@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ELEEMEE Mujer Moda Sandalias Tacón Alto Correa de Tobillo Fiesta Zapatos Plataforma Tacón de Aguja Noche Vestido Zapatos Open Back Apricot Size 37 Asian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RC4MPC/?tag=tolees-21'
 descuento: '50.01'
 average: '24.99'

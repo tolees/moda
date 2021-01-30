@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'MISS MOLY Chaleco Mujer Ligero Acolchado Chaquetas de Cremallera con Cuello Mao Azul - L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NP13MM/?tag=tolees-21'
 descuento: '42.01'
 average: '28.99'

@@ -16,6 +16,7 @@ comparePrice: 134.9 EUR
 prodname: 'Trangoworld Mendilaz Chaqueta  Hombre  Gris  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKS6X6Y/?tag=tolees-21'
 descuento: '78.45'
 average: '29.07'

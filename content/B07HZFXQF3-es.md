@@ -16,6 +16,7 @@ comparePrice: 50.9 EUR
 prodname: 'find. Asymetric Toe Thong Wedge Sandalias con Punta Abierta  Marfil Off/White  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZFXQF3/?tag=tolees-21'
 descuento: '73.52'
 average: '13.48'

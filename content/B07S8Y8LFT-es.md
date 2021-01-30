@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen W HH Logo Hoodie Sudadera con Capucha  Mujer  Alert Red  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8Y8LFT/?tag=tolees-21'
 descuento: '34.30'
 average: '45.99'

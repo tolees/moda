@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Vanish Woven Short Pantalón Corto  Hombre  Negro  Black/Jet Gray 001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZBK2N9/?tag=tolees-21'
 descuento: '55.91'
 average: '19.84'

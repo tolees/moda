@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Tous New Essence  Bolso de mano para Mujer  Multicolor  Mostaza Topo 995900799   31x24x15 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJS2Z7H/?tag=tolees-21'
 descuento: '35.11'
 average: '87.26333333333334'

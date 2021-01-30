@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Annytah Moc A  Mocasines para Mujer  Rojo  Scarlet C7452   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJWJRMJ/?tag=tolees-21'
 descuento: '59.97'
 average: '39.99'

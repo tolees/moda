@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bolso de Mujer Pequeña Bolso de Noche Hombro Billetera Embrague con Cadena Hechos a Mano Bolso de Hard Shell Diamantes del Banquete Fiesta Boda -Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KLXTZC8/?tag=tolees-21'
 descuento: '75.02'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 280.0 EUR
 prodname: 'Pepe Jeans Bera Chaqueta  Negro  Black 999   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWGFPYG/?tag=tolees-21'
 descuento: '66.43'
 average: '94.0'

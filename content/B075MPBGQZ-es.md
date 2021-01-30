@@ -16,6 +16,7 @@ comparePrice: 10.5 EUR
 prodname: 'MERAKI Vestido Camiseta Slim Fit Mujer  Rojo  Racing Red   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MPBGQZ/?tag=tolees-21'
 descuento: '40.00'
 average: '6.3'

@@ -16,6 +16,7 @@ comparePrice: 68.95 EUR
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Rajah Adv 0871   W33/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K73B9ZC/?tag=tolees-21'
 descuento: '42.18'
 average: '39.87'

@@ -16,6 +16,7 @@ comparePrice: 9.79 EUR
 prodname: 'Marca Amazon - Iris & Lilly Tanga Mujer  Pack de 3  Marrón  Dark Brown   M  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RVJ4HB/?tag=tolees-21'
 descuento: '40.35'
 average: '5.84'

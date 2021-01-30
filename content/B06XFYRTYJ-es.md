@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Vans Colorblock tee - Camiseta para Hombre   Blanco  White/black   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XFYRTYJ/?tag=tolees-21'
 descuento: '32.60'
 average: '17.106666666666666'

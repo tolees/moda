@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger Tjw Essential Americana tee Camiseta   Blue Cbk   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4X5LWW/?tag=tolees-21'
 descuento: '40.49'
 average: '20.83'

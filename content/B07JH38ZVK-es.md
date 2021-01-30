@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans William Pm305904 Camisa   Indigo 561   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH38ZVK/?tag=tolees-21'
 descuento: '49.94'
 average: '38.487142857142864'

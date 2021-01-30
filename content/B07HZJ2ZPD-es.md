@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'find. Diagonal Weave Mule Sandalias con Punta Abierta  Beige Nude  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZJ2ZPD/?tag=tolees-21'
 descuento: '78.22'
 average: '7.6'

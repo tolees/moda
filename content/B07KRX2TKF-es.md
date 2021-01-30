@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Silver Ridge 2.0 Pantalón de Senderismo Nailon  Mujer  Gris  Grill   Talla US: W10/R/  EU W42/R '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRX2TKF/?tag=tolees-21'
 descuento: '64.32'
 average: '23.19'

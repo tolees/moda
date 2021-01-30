@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Mujer Pantalón Convertible  Saturday Trail II Convertible Pant  Nailon  Verde  Pond   Talla US: W12/L/  EU W44/L   1579851'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVLB5DV/?tag=tolees-21'
 descuento: '77.40'
 average: '18.08'

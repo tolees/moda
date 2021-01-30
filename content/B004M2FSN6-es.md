@@ -16,6 +16,7 @@ comparePrice: 105.16 EUR
 prodname: 'Timberland 6 in Premium Waterproof Botas Clasicas Unisex Niños  Violeta  Medium Purple Nubuck   30 EU  12 UK  Toddler  UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004M2FSN6/?tag=tolees-21'
 descuento: '73.12'
 average: '28.27'

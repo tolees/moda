@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'Helly Hansen Blume Chaqueta De Fumador Repelente Al Agua Aislado Parka Invierno  Mujer  Off White  5XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RGTRYV/?tag=tolees-21'
 descuento: '76.00'
 average: '55.2'

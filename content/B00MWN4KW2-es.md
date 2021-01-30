@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Uvex Sportstyle 802 Vario Gafas de Ciclismo  Unisex Adulto  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MWN4KW2/?tag=tolees-21'
 descuento: '28.83'
 average: '69.55499999999999'

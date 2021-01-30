@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox D Sandal Vega C  Sandalias Punta Cerrada para Mujer  Azul  Denim C4008   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTDR54/?tag=tolees-21'
 descuento: '61.08'
 average: '31.1'

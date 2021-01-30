@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Gant The Reg BD Camisa  Azul  Lt Indigo 999   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCVFMVS/?tag=tolees-21'
 descuento: '37.83'
 average: '55.95'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Negro  Black Leather   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000U6URF2/?tag=tolees-21'
 descuento: '49.97'
 average: '50.0'

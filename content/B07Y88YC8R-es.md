@@ -16,6 +16,7 @@ comparePrice: 15.96 EUR
 prodname: 'Marca Amazon - Iris & Lilly Braga Brasileña de Microfibra Mujer  Pack de 3  Rojo  Scooter   XS  Label: XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y88YC8R/?tag=tolees-21'
 descuento: '34.27'
 average: '10.49'

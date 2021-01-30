@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 502 Regular Taper Vaqueros  Gris  Porcini Overt ADV 0416   40W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF6VLK6/?tag=tolees-21'
 descuento: '35.54'
 average: '70.91'

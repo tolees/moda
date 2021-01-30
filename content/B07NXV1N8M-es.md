@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'Dickies Manitou Chaqueta  Verde  X-Small  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXV1N8M/?tag=tolees-21'
 descuento: '68.68'
 average: '51.67'

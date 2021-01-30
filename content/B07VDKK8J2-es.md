@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'SELECTED HOMME Slhpadded Reversible Jacket B Chaqueta  Rojo Rhubarb  XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDKK8J2/?tag=tolees-21'
 descuento: '80.31'
 average: '19.69'

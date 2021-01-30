@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'The Walking Dad Camiseta de Hombre Nerd Dead  Farbe2:Marengo Mezclado;Größe2:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FQSQ32/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

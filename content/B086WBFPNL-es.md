@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'MO JOC - Zapatos de tacón para mujer  color Negro  talla 41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WBFPNL/?tag=tolees-21'
 descuento: '33.34'
 average: '27.99'

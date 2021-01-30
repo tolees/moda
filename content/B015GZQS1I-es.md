@@ -16,6 +16,7 @@ comparePrice: 135.22 EUR
 prodname: 'Timberland Bradstreet Chukka Leather  Botas Hombre  Marrón  MD Brown Full Grain   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015GZQS1I/?tag=tolees-21'
 descuento: '33.80'
 average: '83.21000000000001'

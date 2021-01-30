@@ -16,6 +16,7 @@ comparePrice: 101.69 EUR
 prodname: 'Desires Jacket-Anine-A Long Chaqueta  Azul  XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H2DON6E/?tag=tolees-21'
 descuento: '84.47'
 average: '15.79'

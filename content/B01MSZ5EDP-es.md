@@ -16,6 +16,7 @@ comparePrice: 49.03 EUR
 prodname: 's.Oliver 14704783465  Falda para Mujer  negro  black 9999   44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSZ5EDP/?tag=tolees-21'
 descuento: '74.30'
 average: '12.86'

@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'HIKARO  Camiseta Manga Corta Hombre  Azul  Navy   48  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YBMLZT/?tag=tolees-21'
 descuento: '70.75'
 average: '5.25'

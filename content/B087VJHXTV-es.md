@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Columbia Horizon Explorer Chaqueta con Capucha  Hombre  Verde  Azul  Stone Green  Collegiate Navy   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087VJHXTV/?tag=tolees-21'
 descuento: '52.23'
 average: '85.99'

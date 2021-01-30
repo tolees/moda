@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bolso de Fiesta Noche Hard Shell Clutch Pequeña Diamantes de imitación Billetera del Banquete Bolso de Boda Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9D9SVN/?tag=tolees-21'
 descuento: '32.51'
 average: '28.49'

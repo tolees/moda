@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Clarks Un Venture Low  Zapatos de Cordones Derby para Hombre  Azul Navy Combi Navy Combi  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC132NN/?tag=tolees-21'
 descuento: '69.34'
 average: '39.86'

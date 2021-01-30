@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Helly Hansen Hp Fleece Jacket  Chaqueta Deportiva para Hombre  Azul  Azul Navy 597   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2QLWJ3/?tag=tolees-21'
 descuento: '35.46'
 average: '70.99'

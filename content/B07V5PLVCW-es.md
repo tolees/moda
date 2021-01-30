@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Mavi Printed tee Camiseta  Azul  Indigo 18790   Large  Talla del Fabricante: L/  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5PLVCW/?tag=tolees-21'
 descuento: '64.87'
 average: '10.52'

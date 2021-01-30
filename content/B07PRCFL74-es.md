@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kipling Osyka  Bolso Con Bandolera para Mujer  Multicolor  Navy Stick Pr Gift   21x15x3.2 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRCFL74/?tag=tolees-21'
 descuento: '72.70'
 average: '20.07'

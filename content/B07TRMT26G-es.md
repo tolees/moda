@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s The tee Camiseta  Blanco  Pink California Skies White+ 0917   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRMT26G/?tag=tolees-21'
 descuento: '51.67'
 average: '15.08'

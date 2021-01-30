@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The tee Camiseta de Manga Corta  Gris  90 s Serif T3 Forged Iron 0806   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWBFQ7K/?tag=tolees-21'
 descuento: '32.04'
 average: '17.189999999999998'

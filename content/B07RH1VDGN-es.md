@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Graphic 8 Sudadera  Negro  Dk Black 6484   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH1VDGN/?tag=tolees-21'
 descuento: '67.07'
 average: '26.33'

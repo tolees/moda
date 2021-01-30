@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Nike Team Club Hoody - Sudadera para hombre  Negro/Blanco  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RCIU1S4/?tag=tolees-21'
 descuento: '28.09'
 average: '32.36'

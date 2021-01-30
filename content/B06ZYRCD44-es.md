@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'NOVECASA Chaleco Suana Mujer Neopreno Sweat Vest para Sudoración Quema Grasa Faja Abdome Adelgazante  M  Chaleco de Sudoración '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYRCD44/?tag=tolees-21'
 descuento: '25.13'
 average: '14.96'

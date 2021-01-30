@@ -16,6 +16,7 @@ comparePrice: 32.3 EUR
 prodname: 'Tommy Hilfiger TJM Straight Small Logo Hoodie Jersey de Deporte  Azul  Blue Ckb   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJY3L7L/?tag=tolees-21'
 descuento: '25.63'
 average: '24.02'

@@ -16,6 +16,7 @@ comparePrice: 95 EUR
 prodname: 'Helly Hansen HH5014-C01-56 Gafas de Sol  Hombre  Negro  56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZKX1SY/?tag=tolees-21'
 descuento: '53.15'
 average: '44.51'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers Summits  Sandalias Punta Cerrada para Niños  Gris  Grey Mesh/Pink Trim Gypk   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKBQT8Y/?tag=tolees-21'
 descuento: '35.39'
 average: '29.04'

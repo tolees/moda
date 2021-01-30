@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'edc by Esprit 089cc2j010 Sudadera  Rojo  Dark Red 610   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5KL3S3/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

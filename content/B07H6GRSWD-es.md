@@ -16,6 +16,7 @@ comparePrice: 9.54 EUR
 prodname: 'FOSTAK Mochila Femenina maletín  Bolsa de Viaje  Bolso Estiloso de Compras Femenino y Estiloso Bolso de Hombro para Notebook/Bolso de Trabajo para Ordenador portátil de 15 6 Pulgadas Lona Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6GRSWD/?tag=tolees-21'
 descuento: '31.45'
 average: '6.54'

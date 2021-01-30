@@ -16,6 +16,7 @@ comparePrice: 59.3 EUR
 prodname: 'Zapatillas de Deporte para niños Niños Zapatillas de Correr Zapatillas para niñas Entrenadores para Correr Zapatos para Caminar al Aire Libre Zapatos para niñas para niños Negro 29'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCXCZQ5/?tag=tolees-21'
 descuento: '61.05'
 average: '23.1'

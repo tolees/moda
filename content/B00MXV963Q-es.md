@@ -16,6 +16,7 @@ comparePrice: 28.29 EUR
 prodname: 'NNJXD Falda de Chicas con Volante de Encaje Vestidos de Boda y Fiesta Talla  120  4-5 Años Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MXV963Q/?tag=tolees-21'
 descuento: '43.48'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Gant D1. The Quilted Windcheater Chaqueta  Negro  Black 5   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVLCCP7/?tag=tolees-21'
 descuento: '58.61'
 average: '87.33500000000001'

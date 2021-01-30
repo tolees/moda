@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger Shorty Pantalones de Pijama  Gris  Grey Heather 004   40 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UT2MXTA/?tag=tolees-21'
 descuento: '34.72'
 average: '12.99'

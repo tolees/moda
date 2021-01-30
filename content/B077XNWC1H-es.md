@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Sportstyle Left Chest Camiseta  Hombre  Blanco  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XNWC1H/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

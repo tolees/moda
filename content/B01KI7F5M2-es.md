@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Samsonite Qibyte Laptop Bag 15.6" Bolso Bandolera  11 litros  Color Antracita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KI7F5M2/?tag=tolees-21'
 descuento: '30.00'
 average: '39.36'

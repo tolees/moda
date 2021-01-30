@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas  Bolso Weekend 1.9 2019 Gris Adultos unisex  Multicolor  Talla unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGTTM3N/?tag=tolees-21'
 descuento: '57.90'
 average: '29.45'

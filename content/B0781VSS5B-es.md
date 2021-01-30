@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Liga Training Shorts W Pantalón  Mujer  Negro  Black/White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781VSS5B/?tag=tolees-21'
 descuento: '40.07'
 average: '17.95'

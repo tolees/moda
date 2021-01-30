@@ -16,6 +16,7 @@ comparePrice: 24.22 EUR
 prodname: 'Diesel Buster Vaqueros Straight  Negro  Negro 069bg   31W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHX9BP7/?tag=tolees-21'
 descuento: '25.93'
 average: '17.94'

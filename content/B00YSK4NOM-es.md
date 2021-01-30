@@ -16,6 +16,7 @@ comparePrice: 10.08 EUR
 prodname: 'ARENA 000001E191 Gafas de Natación  Mujer  Azul  Clear   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YSK4NOM/?tag=tolees-21'
 descuento: '21.03'
 average: '7.96'

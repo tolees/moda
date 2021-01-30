@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox Vega W  Zapatillas para Mujer  Azul  Navy C4002   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLY2V5/?tag=tolees-21'
 descuento: '66.80'
 average: '39.81'

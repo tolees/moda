@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Rival Fleece Sportstyle Logo Sudadera  Hombre  Gris  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1XV1S6/?tag=tolees-21'
 descuento: '51.84'
 average: '26.74'

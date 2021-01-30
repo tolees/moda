@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'The North Face M Resolve Chaqueta  Hombre  TNF Red/Cardina  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ENTYDD4/?tag=tolees-21'
 descuento: '40.56'
 average: '59.44'

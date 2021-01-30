@@ -16,6 +16,7 @@ comparePrice: 35.89 EUR
 prodname: 'STTLZMC Polo para Hombre de Manga Corta Casual Moda Algodón Camisas Cuello en Contraste Golf Tennis Negro S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CKXSVJ5/?tag=tolees-21'
 descuento: '49.87'
 average: '18.38'

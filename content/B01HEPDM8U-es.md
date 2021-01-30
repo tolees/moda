@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crocs Crocband Clog K  Zuecos con Correa Trasera Unisex-Bambini  Rosa  Party Pink   25/26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HEPDM8U/?tag=tolees-21'
 descuento: '25.01'
 average: '24.526666666666667'

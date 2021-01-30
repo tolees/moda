@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Pepe Jeans Original Stretch Camiseta  Negro  Black 999   2X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN5NMQU/?tag=tolees-21'
 descuento: '27.29'
 average: '19.23'

@@ -16,6 +16,7 @@ comparePrice: 12.39 EUR
 prodname: 'Star Wars HQ1561 Sudadera  Morado  Purple   6 años  Tamaño del Fabricante:6Y  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073WMM8WG/?tag=tolees-21'
 descuento: '64.81'
 average: '4.36'

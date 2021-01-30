@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Blanco  White/Graphite 100   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHTM59S/?tag=tolees-21'
 descuento: '37.57'
 average: '18.73'

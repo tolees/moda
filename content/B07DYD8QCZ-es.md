@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Molokai Abyss Cork-Sandals For Men  Zapatos de Playa y Piscina para Hombre  Azul  Blue/Brown/Blue Xbcb   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYD8QCZ/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

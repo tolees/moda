@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Erima GmbH 2071803 XXL Sudadera Abierta  Hombre  Azul  New Royal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GG3M9W/?tag=tolees-21'
 descuento: '40.34'
 average: '28.215'

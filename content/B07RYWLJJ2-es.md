@@ -16,6 +16,7 @@ comparePrice: 26.26 EUR
 prodname: 'Pepe Jeans Bobby Camiseta  Gris  Grey Marl 933   Talla única  Talla del Fabricante: Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYWLJJ2/?tag=tolees-21'
 descuento: '20.41'
 average: '20.9'

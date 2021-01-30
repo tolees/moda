@@ -16,6 +16,7 @@ comparePrice: 21.78 EUR
 prodname: 'Clarks Orabella Alice  Botines para Mujer  Gris  Light Grey Light Grey   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HPMPJ/?tag=tolees-21'
 descuento: '19.01'
 average: '17.64'

@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Tous K Shock Rever  Organizadore de bolso para Mujer  Multicolor  Pistacho/Coral 995900598   41x24x15 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJS7BT1/?tag=tolees-21'
 descuento: '50.00'
 average: '19.5'

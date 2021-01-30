@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Myria B  Zapatillas Altas para Mujer  Negro  Black C9999   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSK3NZZ/?tag=tolees-21'
 descuento: '44.35'
 average: '61.16'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Jack & Jones Jjiglenn Jjoriginal Jos 123 I.k Vaqueros Slim  Azul  Blue Denim Blue Denim   W31/L30  Talla del Fabricante: 31  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTQNZ7H/?tag=tolees-21'
 descuento: '49.99'
 average: '40.0'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste Sf1550 Sudadera con Capucha  Azul Marine 423  32 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKR8DJD/?tag=tolees-21'
 descuento: '44.58'
 average: '48.79333333333333'

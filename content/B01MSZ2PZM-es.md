@@ -16,6 +16,7 @@ comparePrice: 170.0 EUR
 prodname: 'Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable  Cortavientos y Transpirable  con Forro Polar y Capucha Integrados  Hombre  Blanco  001 White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSZ2PZM/?tag=tolees-21'
 descuento: '21.19'
 average: '125.98333333333332'

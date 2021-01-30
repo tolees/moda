@@ -16,6 +16,7 @@ comparePrice: 24.96 EUR
 prodname: 'Levi s Barstow Western Camisa Vaquera  Negro  Black 0216   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RM6M9F/?tag=tolees-21'
 descuento: '48.32'
 average: '19.83142857142857'

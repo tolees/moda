@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Columbia Silver Ridge 2.0 Camisa de Manga Corta  Hombre  Azul  Collegiate Navy   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B5MNMQ/?tag=tolees-21'
 descuento: '61.83'
 average: '20.99'

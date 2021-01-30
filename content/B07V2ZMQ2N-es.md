@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler ICONS Camisa Vaquera  Azul  New 301   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2ZMQ2N/?tag=tolees-21'
 descuento: '61.17'
 average: '27.16'

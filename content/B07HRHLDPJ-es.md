@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'YuamMei 1 Par de Guantes de Protección Completos  Guantes de Contacto con Dedos Completos para Sillines  Bicicletas  Motocicletas  Entrenamiento al Aire Libre  Caza  Senderismo  Cross Country XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRHLDPJ/?tag=tolees-21'
 descuento: '31.82'
 average: '12.663333333333334'

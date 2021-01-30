@@ -16,6 +16,7 @@ comparePrice: 22.36 EUR
 prodname: 'qingqingR Bolso de Hombro pequeño Transparente para Mujer Bolso de Playa de Verano Crossbody Tote'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0897QNYDB/?tag=tolees-21'
 descuento: '50.00'
 average: '11.18'

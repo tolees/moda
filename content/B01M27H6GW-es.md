@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Tidelands Classic 2 Eye  Náuticos para Hombre  Azul  Navy Full Grain   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M27H6GW/?tag=tolees-21'
 descuento: '55.86'
 average: '61.79'

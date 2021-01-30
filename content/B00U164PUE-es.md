@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Anself - 12 colores Conjunto de Pintalabios brillante cosmético para maquillaje de labios para moda de mujeres  #2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U164PUE/?tag=tolees-21'
 descuento: '28.59'
 average: '11.323333333333334'

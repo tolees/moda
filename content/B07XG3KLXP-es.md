@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Izod Basic Solid tee Camiseta  Azul  Angel Blue 450   Small  Talla del Fabricante: SM  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XG3KLXP/?tag=tolees-21'
 descuento: '66.31'
 average: '5.125'

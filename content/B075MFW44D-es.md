@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Marca Amazon - MERAKI Vaqueros Ceñidos de Tiro Alto Mujer  Azul  Light Vintage   29W / 32L  Label: 29W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MFW44D/?tag=tolees-21'
 descuento: '50.00'
 average: '17.5'

@@ -16,6 +16,7 @@ comparePrice: 20.98 EUR
 prodname: 'Chaquetas de Mujer Cortas Otoño Reflectante Casual PAOLIAN Abrigo Invierno Algodón Joven Mujer Fiesta Chaquetón Acolchado Deportivas Guateado Elegantes Moda Vestir Adolescente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCYSY3P/?tag=tolees-21'
 descuento: '47.76'
 average: '10.96'

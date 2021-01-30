@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Napapijri DROZ Jersey  Azul  French Blue BB7   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLNZDR/?tag=tolees-21'
 descuento: '50.00'
 average: '44.5'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Classic Twill L/s Shirt Camisa  Azul  Nórdica Chrome Navy L6t   35  Talla del Fabricante: X-Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1B6RZ4/?tag=tolees-21'
 descuento: '63.69'
 average: '25.935000000000002'

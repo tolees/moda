@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Peakfreak X2 Mid Outdry  Zapatos de Senderismo para Hombre  Gris  Shark  Royal 011   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJVSN8B/?tag=tolees-21'
 descuento: '36.68'
 average: '75.98'

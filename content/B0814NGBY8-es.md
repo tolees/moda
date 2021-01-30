@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Largas Camisetas Vestido Mujer Verano Sexy Encaje Algodón Marca Moda Negro Fiesta Túnica Ropa Tallas Grandes  Negro  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814NGBY8/?tag=tolees-21'
 descuento: '60.10'
 average: '3.99'

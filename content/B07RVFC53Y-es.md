@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Dexter Camisa  Azul  Indigo 561   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RVFC53Y/?tag=tolees-21'
 descuento: '62.59'
 average: '24.16'

@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Fly London Ragi539fly  Botines para Mujer  Rojo  Red 006   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN5VDFK/?tag=tolees-21'
 descuento: '70.04'
 average: '41.94'

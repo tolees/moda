@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Bolso de mano Pepe Jeans Porto Camel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAXDXB9/?tag=tolees-21'
 descuento: '40.00'
 average: '21.0'

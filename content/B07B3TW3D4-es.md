@@ -16,6 +16,7 @@ comparePrice: 38.56 EUR
 prodname: 'gracosy Mocasines para Mujer Primavera/Verano Vintage Flores Hechas a Mano Zapatos de Cuero Estilo Mocasines Cómodo Slip On Shoes Alpargatas Zapatos de Conducción Zapatos para Caminar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B3TW3D4/?tag=tolees-21'
 descuento: '30.01'
 average: '26.99'

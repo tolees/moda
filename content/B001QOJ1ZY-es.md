@@ -16,6 +16,7 @@ comparePrice: 62.46 EUR
 prodname: 'Levi s 501 Original Fit- Vaqueros para hombre  Azul  33W x 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001QOJ1ZY/?tag=tolees-21'
 descuento: '37.26'
 average: '39.19'

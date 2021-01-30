@@ -16,6 +16,7 @@ comparePrice: 58.74 EUR
 prodname: 'Desigual Bols legacy Holbox - Bolso con asas  17 x 30 5 x 37 cm  color Blanco  talla 17x30.5x37 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJSWZ1X/?tag=tolees-21'
 descuento: '38.27'
 average: '36.26'

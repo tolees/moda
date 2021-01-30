@@ -16,6 +16,7 @@ comparePrice: 14.82 EUR
 prodname: 'Marca Amazon - find. Pantalón con Cintura de Fuelle Mujer  Rojo  rojo Ocre 18-1442 Tcx    40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCLPD2Y/?tag=tolees-21'
 descuento: '23.14'
 average: '11.39'

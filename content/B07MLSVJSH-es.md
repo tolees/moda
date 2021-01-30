@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Clarks - Botines de Cuero Hombre  Color Gris  Talla 46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLSVJSH/?tag=tolees-21'
 descuento: '77.97'
 average: '51.623333333333335'

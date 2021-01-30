@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Skechers Reggae Cup-oh  Snap  Sandalias de Punta Descubierta para Mujer  Negro  Black & Grey Gore Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTJG4GX/?tag=tolees-21'
 descuento: '18.27'
 average: '32.65'

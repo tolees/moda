@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Vaqueros  Dk Aged Cobler 7863-3143  24W / 26L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8W38YB/?tag=tolees-21'
 descuento: '34.60'
 average: '84.99'

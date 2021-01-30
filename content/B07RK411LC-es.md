@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jcotake Sweat Zip Hood Sudadera  Negro  Black Black   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK411LC/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

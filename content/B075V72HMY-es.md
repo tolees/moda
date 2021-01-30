@@ -16,6 +16,7 @@ comparePrice: 12.28 EUR
 prodname: 'Marca Amazon - AURIQUE Leggings Deporte Petite Mujer  Azul  Navy   42  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075V72HMY/?tag=tolees-21'
 descuento: '21.50'
 average: '10.963333333333333'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Lacoste Ch9612 Camisa  Azul  Noir Phoenix/Lagon Nsv   X-Small  Talla del Fabricante: 37  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDKC6PD/?tag=tolees-21'
 descuento: '54.95'
 average: '45.05'

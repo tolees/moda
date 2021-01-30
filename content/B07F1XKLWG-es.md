@@ -16,6 +16,7 @@ comparePrice: 143.0 EUR
 prodname: 'Element Dulcey Chaqueta  Hombre  Negro  Flint Black   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1XKLWG/?tag=tolees-21'
 descuento: '61.70'
 average: '58.89857142857143'

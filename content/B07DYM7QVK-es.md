@@ -16,6 +16,7 @@ comparePrice: 41.19 EUR
 prodname: 'Merrell District Mendi Backstrap  Sandalias de Talón Abierto para Mujer  Negro Black  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYM7QVK/?tag=tolees-21'
 descuento: '15.15'
 average: '34.95'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'edc by Esprit 089cc1f022 Blusa  Rojo  Dark Red 610   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4K94ZX/?tag=tolees-21'
 descuento: '58.35'
 average: '14.99'

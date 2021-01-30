@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Calvin Klein Center Monogram Box Slim tee Camiseta  Negro  CK Black Bae   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD4DF2M/?tag=tolees-21'
 descuento: '25.71'
 average: '21.975'

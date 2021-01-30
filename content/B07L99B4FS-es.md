@@ -16,6 +16,7 @@ comparePrice: 16.34 EUR
 prodname: 'Karactermania Diseny Icons Minnie Mouse-Bolso Cadena Wide Bolso Bandolera  20 cm  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L99B4FS/?tag=tolees-21'
 descuento: '32.99'
 average: '10.95'

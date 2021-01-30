@@ -16,6 +16,7 @@ comparePrice: 31.2 EUR
 prodname: 'BLEND 20708531 Camisa Casual  Azul  Dark Navy Blue 74645   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFXWLZ9/?tag=tolees-21'
 descuento: '37.95'
 average: '16.622'

@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Agatha Ruiz de la Prada Bandolera Bolso Infantil de destellos y parche de corazón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085DJDQT3/?tag=tolees-21'
 descuento: '50.00'
 average: '14.5'

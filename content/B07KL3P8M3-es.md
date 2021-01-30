@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Mh Plain Camiseta Polo  Hombre  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL3P8M3/?tag=tolees-21'
 descuento: '49.27'
 average: '14.661999999999999'

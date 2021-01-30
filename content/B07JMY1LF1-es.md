@@ -16,6 +16,7 @@ comparePrice: 105.16 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole Modern Oxford  Zapatillas Bajas para Hombre  Rojo  Dark Red Nubuck   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMY1LF1/?tag=tolees-21'
 descuento: '62.63'
 average: '39.012499999999996'

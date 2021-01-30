@@ -16,6 +16,7 @@ comparePrice: 19.13 EUR
 prodname: 'Antony Morato Camicia Basica Abbottonatura A Vista Camisa Casual  Blanco  Bianco 1000   Medium  Talla del Fabricante: 50  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784P7FZN/?tag=tolees-21'
 descuento: '21.85'
 average: '15.525'

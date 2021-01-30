@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Pepe Jeans New Brooke Vaqueros  Azul  10Oz Rinse Plus   30W/32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XMLC8A4/?tag=tolees-21'
 descuento: '48.11'
 average: '40.99'

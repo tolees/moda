@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'El Naturalista N5401 Dolce DOVELA  Botines para Mujer  Negro  Black Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHYN9F8/?tag=tolees-21'
 descuento: '26.10'
 average: '96.0'

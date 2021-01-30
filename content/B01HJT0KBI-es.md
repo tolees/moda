@@ -16,6 +16,7 @@ comparePrice: 64.8 EUR
 prodname: 'Mexx Women Pullover Jersey  Azul  Sky Captain   42 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HJT0KBI/?tag=tolees-21'
 descuento: '79.24'
 average: '13.45'

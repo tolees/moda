@@ -16,6 +16,7 @@ comparePrice: 6.44 EUR
 prodname: 'Hpybest - Collar con colgante de silicona para morder y morder'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM6DCW8/?tag=tolees-21'
 descuento: '50.16'
 average: '3.21'

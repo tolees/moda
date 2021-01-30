@@ -16,6 +16,7 @@ comparePrice: 46.79 EUR
 prodname: 'KONXIDO Relojes Hombres Moda de Negocio Deportivo Reloj de Cuarzo con Pantalla de Fecha Reloj Impermeable Lujo para Negocios Clásicos con Correa de Cuero Genuina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078B5NHX7/?tag=tolees-21'
 descuento: '71.77'
 average: '13.21'

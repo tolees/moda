@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones - Jorabe - Jersey de Punto - Deauville Mauve'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTC1HWF/?tag=tolees-21'
 descuento: '54.99'
 average: '18.444444444444443'

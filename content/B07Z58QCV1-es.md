@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'Marca Amazon - Find. Sandalias abiertas para mujer Lattice Strap Mule  color Marfil  talla 36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z58QCV1/?tag=tolees-21'
 descuento: '18.86'
 average: '9.728000000000002'

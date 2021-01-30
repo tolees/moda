@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Moner V  Mocasines para Hombre  Azul  Avio C4005   43 5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTTSSM/?tag=tolees-21'
 descuento: '37.53'
 average: '74.9'

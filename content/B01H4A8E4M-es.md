@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Texas Tonal Vaqueros  Gris  Graze   33W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H4A8E4M/?tag=tolees-21'
 descuento: '54.98'
 average: '35.99'

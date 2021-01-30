@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'GANT D1. Harvest Moon Chiffon Blouse Blusa  Marfil  Eggshell 113   46  Talla del Fabricante: 44  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HX672CJ/?tag=tolees-21'
 descuento: '66.94'
 average: '46.28'

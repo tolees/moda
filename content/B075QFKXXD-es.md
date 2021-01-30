@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Star Wars - Pijama para Niños Brillan En La Oscuridad - Ajuste Ceñido - 4-5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QFKXXD/?tag=tolees-21'
 descuento: '58.05'
 average: '7.95'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SUADEX Unisex Hombre Mujer Zapato de Agua Zapatos de Playa Natación Surf Escarpines Calzado de Playa Piscina para Niño Niña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXRZXDZ/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

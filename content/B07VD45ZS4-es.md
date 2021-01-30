@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Calvin Klein Vegetable Dye Monogram Crew Neck Sudadera  Morado  Brandied Apricot VAZ   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD45ZS4/?tag=tolees-21'
 descuento: '56.11'
 average: '39.06'

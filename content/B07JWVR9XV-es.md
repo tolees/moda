@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'PUMA Cup Training Jersey Core Maillot  Hombre  Black/Asphalt  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWVR9XV/?tag=tolees-21'
 descuento: '26.19'
 average: '15.215'

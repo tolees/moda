@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Relaxed Graphic Sudadera  Blanco  Crew Box Taba White+ 0092   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4WBTY1/?tag=tolees-21'
 descuento: '40.08'
 average: '36.78333333333334'

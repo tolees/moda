@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Wells B  Zapatillas para Hombre  Azul  Navy C4002   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLQ1G4/?tag=tolees-21'
 descuento: '61.13'
 average: '46.61'

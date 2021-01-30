@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Donovan Camisa   Multi 0aa   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPR8YD/?tag=tolees-21'
 descuento: '83.53'
 average: '14.973333333333333'

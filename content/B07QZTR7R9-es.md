@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Mk1 Warmup Po Hood Sudadera  Hombre  Gris  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZTR7R9/?tag=tolees-21'
 descuento: '57.29'
 average: '23.49'

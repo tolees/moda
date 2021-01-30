@@ -16,6 +16,7 @@ comparePrice: 78.79 EUR
 prodname: 'Pepe Jeans Cane Vaqueros  Streaky Stretch Dk Z45  34W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XNSHA8G/?tag=tolees-21'
 descuento: '35.22'
 average: '51.04'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Finsbury Pm200338 Vaqueros Skinny   Grey Wiser Wash Denim Wu5   W34/L34 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGSNKKW/?tag=tolees-21'
 descuento: '49.94'
 average: '45.0'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Pepe Jeans Jude Camiseta  Azul  Indigo 561   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWX78QP/?tag=tolees-21'
 descuento: '74.06'
 average: '9.08'

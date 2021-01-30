@@ -16,6 +16,7 @@ comparePrice: 19.39 EUR
 prodname: 'Maglev Essentials Bdx014am2 Pijama  Multicolor  Navy  Red  White   L  Pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLXRH9K/?tag=tolees-21'
 descuento: '24.60'
 average: '14.62'

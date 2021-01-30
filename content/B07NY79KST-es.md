@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Superdry Digitize Reflective Gilet Chaleco  Negro  Black 02a   XX-Large  Talla del Fabricante: 2XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY79KST/?tag=tolees-21'
 descuento: '57.01'
 average: '44.400000000000006'

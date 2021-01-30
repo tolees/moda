@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'FM London Tagless Bóxer  Multicolor  Assorted   Small  Pack de 5  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HWQQLW/?tag=tolees-21'
 descuento: '15.01'
 average: '18.34'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Bolso impermeable de la bolsa de la correa de ECHPTower del bolso impermeable con la correa ajustable Ideal: natación  canotaje  navegación  el acampar  yendo de excursión  natación  pescando  protecc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K1K67WS/?tag=tolees-21'
 descuento: '37.52'
 average: '9.561428571428571'

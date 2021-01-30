@@ -16,6 +16,7 @@ comparePrice: 25.1 EUR
 prodname: 'Cressi Ninja Floating - Gafas Flotantes Polarizadas para Deportes con una protección 100% UV Adultos Unisex  Negro/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CO4APA0/?tag=tolees-21'
 descuento: '26.33'
 average: '18.290000000000003'

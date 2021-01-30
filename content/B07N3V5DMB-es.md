@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Desigual T-Shirt Julieta Camiseta   Rojo Oscuro 3029   XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3V5DMB/?tag=tolees-21'
 descuento: '54.15'
 average: '22.9'

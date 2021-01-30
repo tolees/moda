@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'VECDY Camisetas Mujer  Blusas Elegante 2019 Hombres Mujeres Modo 3D Imprimir Manga Larga Parejas Sudaderas con Capucha Top Blusa Camisas Tallas Grandes otoño Invierno Casual Sudadera Negro XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFG1FNZ/?tag=tolees-21'
 descuento: '49.87'
 average: '2.0'

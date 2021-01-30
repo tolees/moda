@@ -16,6 +16,7 @@ comparePrice: 25.8 EUR
 prodname: 'Fruit of the Loom - Sudadera con Capucha Hombre/Caballero - Deporte/Gimnasio/Running  Extra Grande  XL    Azul Celeste '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RAJWIQI/?tag=tolees-21'
 descuento: '33.33'
 average: '17.2'

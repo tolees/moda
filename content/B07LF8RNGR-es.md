@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Levi s Type 3 Chaqueta Vaquera  Azul  Miracle Sauce Sherpa Trucker 0103   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8RNGR/?tag=tolees-21'
 descuento: '50.59'
 average: '69.58'

@@ -16,6 +16,7 @@ comparePrice: 17.8 EUR
 prodname: 'oodji Ultra Mujer Camisa de Algodón Oversize  Azul  ES 36 / XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXRJNK3/?tag=tolees-21'
 descuento: '35.96'
 average: '11.4'

@@ -16,6 +16,7 @@ comparePrice: 8.52 EUR
 prodname: 'Nike M Breathe Academy SS Gx2 Camiseta  Hombre  Amarillo  OPTI Yellow/Anthracite   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKWLWR5/?tag=tolees-21'
 descuento: '16.08'
 average: '7.15'

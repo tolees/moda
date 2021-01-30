@@ -16,6 +16,7 @@ comparePrice: 45.31 EUR
 prodname: 'AFFINEST Zapatos para Correr para Mujer Air Zapatillas de Running Ligero y Transpirable Sneakers y Asfalto Aire Libre y Deportes Calzado Naranja Negro 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZSM6TB/?tag=tolees-21'
 descuento: '24.45'
 average: '34.23'

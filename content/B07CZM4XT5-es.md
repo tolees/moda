@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Sportstyle Terry H Sudadera con Capucha  Hombre  Negro  Black/Onyx White 001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZM4XT5/?tag=tolees-21'
 descuento: '64.87'
 average: '19.32'

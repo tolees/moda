@@ -16,6 +16,7 @@ comparePrice: 136.9 EUR
 prodname: 'Asics Gel-Nimbus 22  Zapatilla de Correr para Hombre  Naranja Pop/Negro  43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKHGLKK/?tag=tolees-21'
 descuento: '20.20'
 average: '109.24'

@@ -16,6 +16,7 @@ comparePrice: 19.29 EUR
 prodname: 'Dilwe Chaleco de Pesca Hombres Transpirable Multi-Bolsillos Aire Libre para Acampar Caza Pesca Fotografía Viajes  XXXL-Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDFGVM3/?tag=tolees-21'
 descuento: '43.03'
 average: '11.865'

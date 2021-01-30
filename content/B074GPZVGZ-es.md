@@ -16,6 +16,7 @@ comparePrice: 24.84 EUR
 prodname: 'HonourSport Falda Plisada De Tenis con CordóN EláStico Mujer Skort De Golf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074GPZVGZ/?tag=tolees-21'
 descuento: '15.50'
 average: '20.09'

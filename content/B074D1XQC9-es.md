@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Greensboro Vaqueros  Negro  Black 94g   32W/34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074D1XQC9/?tag=tolees-21'
 descuento: '50.54'
 average: '44.49'

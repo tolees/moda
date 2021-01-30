@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'Charles Wilson Originals Sudadera con Capucha  X-Small  Black  0819  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWDT1GZ/?tag=tolees-21'
 descuento: '47.68'
 average: '21.95'

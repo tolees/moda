@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Vans MN Classic Crew II Sudadera  Gris  Cement Heather-Black ADY   XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM65VFC/?tag=tolees-21'
 descuento: '50.00'
 average: '30.0'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Epic Flip V2 Amplified  Zapatos de Playa y Piscina Unisex-Adulto  Rosa  Bright Rose/Rosewater White 02   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NRVGH/?tag=tolees-21'
 descuento: '51.33'
 average: '10.766666666666666'

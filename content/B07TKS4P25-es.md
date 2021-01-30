@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Adriel Cove  Zapatos con Tacon y Correa de Tobillo para Mujer  Azul  Blush Leather Blush Leather   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKS4P25/?tag=tolees-21'
 descuento: '55.81'
 average: '35.33'

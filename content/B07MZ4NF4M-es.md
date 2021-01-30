@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Camisetas Hombre SHOBDW Verano de Lino Liso Algodón Talla Grande Botón de Manga Corta Camiseta con Cuello En V Blusa Suelta Camiseta Informal Tops para Hombres Azul Oscuro M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ4NF4M/?tag=tolees-21'
 descuento: '54.05'
 average: '4.301111111111112'

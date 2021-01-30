@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Ophelia Blusa  Multicolor  Multi 0aa   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ393B/?tag=tolees-21'
 descuento: '46.04'
 average: '36.985'

@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Jeanius  Vaqueros relaxed para Hombre  Azul  11Oz Streaky Stretch Dk Z45   W40/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQKLG4F/?tag=tolees-21'
 descuento: '59.42'
 average: '35.598571428571425'

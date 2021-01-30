@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Pike Lake Jacket Chaqueta  Hombre  Negro  Black   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072X1J9YV/?tag=tolees-21'
 descuento: '34.62'
 average: '62.3'

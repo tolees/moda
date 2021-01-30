@@ -16,6 +16,7 @@ comparePrice: 10.58 EUR
 prodname: 'Arena Zoom X-Fit Gafas de Natación  Unisex Adulto  Negro  Smoke   Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0079JI4DU/?tag=tolees-21'
 descuento: '30.43'
 average: '7.36'

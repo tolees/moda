@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Pike Lake Chaqueta De Plumón con Capucha  Hombre  Azul  Dark Mountain/Jasper-Red   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8KQSB/?tag=tolees-21'
 descuento: '57.65'
 average: '63.52'

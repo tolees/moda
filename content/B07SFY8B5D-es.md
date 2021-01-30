@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jacqueline de Yong NOS Jdycrea Treats L/s Noos Cardigan Knt Chaqueta Punto  Gris  Dark Grey Melange Dark Grey Melange   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFY8B5D/?tag=tolees-21'
 descuento: '80.66'
 average: '5.8'

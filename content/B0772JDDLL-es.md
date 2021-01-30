@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'MERAKI Pantalón Cortos Chinos Hombre  Gris Oscuro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772JDDLL/?tag=tolees-21'
 descuento: '70.00'
 average: '5.07'

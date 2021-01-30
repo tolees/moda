@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Only Onlnaiomi Hooded Jacket CC Otw Chaqueta  Rojo  Merlot Merlot   XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZXVTGC/?tag=tolees-21'
 descuento: '68.87'
 average: '16.2775'

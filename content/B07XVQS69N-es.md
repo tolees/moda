@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Esprit 119ee2k006 Camisa Manga Larga  Blanco  Off White 110   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVQS69N/?tag=tolees-21'
 descuento: '69.30'
 average: '7.98'

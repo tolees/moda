@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Levi s Levis Men Solid Basic Trunk 2P Bóxer  Negro  Jet Black 884   Medium  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTWSNGT/?tag=tolees-21'
 descuento: '26.84'
 average: '17.55'

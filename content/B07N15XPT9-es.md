@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Lee Authentic Pkt T LS Camiseta  Verde  Dk Bottle Green BB   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N15XPT9/?tag=tolees-21'
 descuento: '69.99'
 average: '11.99'

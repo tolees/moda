@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ESPRIT Collection 999EO1B800 Pantalón  Azul  Light Blue 440   W34/L30 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4HBZXL/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

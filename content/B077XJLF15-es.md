@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Superdry Tech Hood Pop Zip SD-Windcheater Chaqueta  Multicolor  Black/Raspberry 27b   38  Talla del Fabricante: 10  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XJLF15/?tag=tolees-21'
 descuento: '38.52'
 average: '61.47'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Tech Terry Sudadera  Mujer  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9GQJ65/?tag=tolees-21'
 descuento: '78.35'
 average: '15.030000000000001'

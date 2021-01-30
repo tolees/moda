@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Robinsoni Fundas Compatible con Xiaomi Redmi 7A Funda Libro Billetera Carcasa Cuero de PU Funda Folio Flip Funda Libreta Fundas con Tapa Cuero con Monedero Funda 360 Grados Funda Rosa Roja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z2MWBNP/?tag=tolees-21'
 descuento: '30.04'
 average: '5.59'

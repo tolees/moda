@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Joma Cairo II Sudadera  Hombre  Royal  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWY46RW/?tag=tolees-21'
 descuento: '26.49'
 average: '12.49'

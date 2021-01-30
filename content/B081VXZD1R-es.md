@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'gracosy Botas de Mujer Otoño Invierno Goma Forro de Piel Punta Redonda Botas de Nieve Zapatos de Trabajo Calzado Antideslizante Ligero Botines Caminan'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VXZD1R/?tag=tolees-21'
 descuento: '64.48'
 average: '26.99'

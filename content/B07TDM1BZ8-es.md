@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Quiksilver Scaly Chaqueta Acolchada con Capucha  Hombre  Negro  Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDM1BZ8/?tag=tolees-21'
 descuento: '62.50'
 average: '37.5'

@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Under Armour - Camiseta de Tirantes para Mujer  Mujer  1325580-019  Charcoal Heather/Tonal  Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0785FJL2C/?tag=tolees-21'
 descuento: '62.70'
 average: '7.46'

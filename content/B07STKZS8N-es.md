@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Geox B FLEXYPER Girl B  Zapatillas para Niñas  Rosa  Fuchsia C8002   23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STKZS8N/?tag=tolees-21'
 descuento: '53.36'
 average: '21.604999999999997'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'GRACE KARIN Mujer Vestido Corto Elegante para Fiesta Cóctel M CL011107-1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW9ZJ7L/?tag=tolees-21'
 descuento: '15.01'
 average: '24.707241379310346'

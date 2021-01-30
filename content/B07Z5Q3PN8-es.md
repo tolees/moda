@@ -16,6 +16,7 @@ comparePrice: 19.82 EUR
 prodname: 'Jack & Jones Jcowiseman Sweat High Neck Ka Sudadera  Multicolor  Cuello Negro:/Cuello Alto/Auténtico   Medium  Herstellergröße: M  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5Q3PN8/?tag=tolees-21'
 descuento: '36.33'
 average: '12.62'

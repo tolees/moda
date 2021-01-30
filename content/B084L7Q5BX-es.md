@@ -16,6 +16,7 @@ comparePrice: 124.9 EUR
 prodname: 'Spiuk Sportline Zapatilla MTB ALDAPA  Adultos Unisex  Amarillo Fluor Mate  T. 37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084L7Q5BX/?tag=tolees-21'
 descuento: '19.94'
 average: '99.99'

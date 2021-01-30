@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Helly Hansen Lifaloft Ligera Chaqueta Aislante  Mujer  Nightshade  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3DYSH3/?tag=tolees-21'
 descuento: '66.92'
 average: '66.16'

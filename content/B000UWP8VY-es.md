@@ -16,6 +16,7 @@ comparePrice: 62.49 EUR
 prodname: 'Birkenstock Gizeh Birko-Flor  Chanclas para Mujer  Negro  Noir   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UWP8VY/?tag=tolees-21'
 descuento: '16.95'
 average: '51.9'

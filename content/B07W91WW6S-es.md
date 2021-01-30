@@ -16,6 +16,7 @@ comparePrice: 38.33 EUR
 prodname: 'Tommy Hilfiger Stretch Slim Fit Vneck tee Camiseta Deporte  Azul  Desert Sky/White   X-Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W91WW6S/?tag=tolees-21'
 descuento: '37.52'
 average: '23.95'

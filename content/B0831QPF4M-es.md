@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Canadian Peak Chaqueta DE Mujer AKATE Azul Marino 01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0831QPF4M/?tag=tolees-21'
 descuento: '40.00'
 average: '77.4'

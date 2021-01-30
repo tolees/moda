@@ -16,6 +16,7 @@ comparePrice: 15.39 EUR
 prodname: 'Marca Amazon - AURIQUE Leggings de Deporte con Textura Piel de Serpiente Mujer  Azul  Teal Teal   38  Label:S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLS6JHS/?tag=tolees-21'
 descuento: '19.88'
 average: '16.22'

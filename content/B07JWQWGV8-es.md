@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Track Pm201100 Vaqueros Straight   Black Used Gymdigo Denim We2   W30/L34 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWQWGV8/?tag=tolees-21'
 descuento: '40.54'
 average: '56.49'

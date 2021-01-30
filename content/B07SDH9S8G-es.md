@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic  Zuecos Unisex Adulto  Pink  38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDH9S8G/?tag=tolees-21'
 descuento: '26.76'
 average: '28.84'

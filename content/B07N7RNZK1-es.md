@@ -16,6 +16,7 @@ comparePrice: 37 EUR
 prodname: 'Kipling - monedero de Sintético Mujer  color Multicolor  talla 21.5x13.5x4 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N7RNZK1/?tag=tolees-21'
 descuento: '34.00'
 average: '20.32'

@@ -16,6 +16,7 @@ comparePrice: 98.0 EUR
 prodname: 'Calvin Klein Core Monogram Logo Regular Fit tee Camiseta  Negro  CK Black 099   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ436DZ/?tag=tolees-21'
 descuento: '68.20'
 average: '37.10666666666667'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Nightshine X  36W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQE8CQL/?tag=tolees-21'
 descuento: '33.09'
 average: '46.83'

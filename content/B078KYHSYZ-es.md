@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'SDINAZ Bolsos de Mano Mujer Bolsos Bandolera Moda 6piezas Bolsos Totes Shoppers y Bolsos de Hombro Billetera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KYHSYZ/?tag=tolees-21'
 descuento: '51.01'
 average: '48.99'

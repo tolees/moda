@@ -16,6 +16,7 @@ comparePrice: 35.01 EUR
 prodname: 'Geox D Hiver A  Zapatillas para Mujer  Beige  Sand C5004   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRKB5ZN/?tag=tolees-21'
 descuento: '34.53'
 average: '22.92'

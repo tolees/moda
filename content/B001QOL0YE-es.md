@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 501 Original Fit Jeans Vaqueros  Negro  Black 0165   36W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001QOL0YE/?tag=tolees-21'
 descuento: '34.50'
 average: '58.95'

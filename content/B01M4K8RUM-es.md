@@ -16,6 +16,7 @@ comparePrice: 45.97 EUR
 prodname: 'Collares para Parejas Anillo Acero Inoxidable Regalo Amor Amistad Oro Rosa Joyería de Moda Regalo Halloween Compromiso Boda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4K8RUM/?tag=tolees-21'
 descuento: '60.87'
 average: '17.99'

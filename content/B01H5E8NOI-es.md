@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'IEFIEL Vestido de Flores Blanco Niña Vestido Boda Fiesta Ceremonia Bautizo Elegante Vestido de Bautismo Disfraz Princesa Infantil Falda con Flores Rosa Oscuro 10 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H5E8NOI/?tag=tolees-21'
 descuento: '51.67'
 average: '14.49'

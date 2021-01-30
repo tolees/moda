@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'WOLA gafas de sol madera - AIR lentes mujer y hombre unisex  polarizadas UV400 cuadradas estilo mix'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZC7B7Z/?tag=tolees-21'
 descuento: '50.01'
 average: '33.24'

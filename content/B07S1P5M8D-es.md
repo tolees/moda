@@ -16,6 +16,7 @@ comparePrice: 52.47 EUR
 prodname: 'Levi s 511 Slim Fit Vaqueros  Gris Cat Mask Cool 4110  32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1P5M8D/?tag=tolees-21'
 descuento: '30.55'
 average: '46.36'

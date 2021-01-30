@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Napapijri Rainforest Pocket  Chaqueta para Hombre  Blanco  Bright White 002   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079K3HL5Y/?tag=tolees-21'
 descuento: '56.49'
 average: '104.0'

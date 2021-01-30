@@ -16,6 +16,7 @@ comparePrice: 14.76 EUR
 prodname: 'Reef Twinpin  Sandalias con Correa de Tobillo para Hombre  Marrón  Brown   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RW5FOEI/?tag=tolees-21'
 descuento: '37.53'
 average: '9.09'

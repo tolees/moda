@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'B Blesiya Juego deAjedrez Acrílico Magnético Portátil Reversi Othello Tablero Decoración de Hogar Diseño y Moda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQVB4JV/?tag=tolees-21'
 descuento: '44.44'
 average: '14.99'

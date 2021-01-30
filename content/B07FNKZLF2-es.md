@@ -16,6 +16,7 @@ comparePrice: 19.78 EUR
 prodname: 'Apretón de Zapatos Crampones Nieve Accesorios Deportivo Acuático Actividades Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNKZLF2/?tag=tolees-21'
 descuento: '44.44'
 average: '10.99'

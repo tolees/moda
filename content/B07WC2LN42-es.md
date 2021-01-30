@@ -16,6 +16,7 @@ comparePrice: 49.13 EUR
 prodname: 'Marca Amazon - MERAKI Abrigo de Lana Mujer  Beige  Camel   40  Label: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC2LN42/?tag=tolees-21'
 descuento: '60.43'
 average: '19.44'

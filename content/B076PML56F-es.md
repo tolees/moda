@@ -16,6 +16,7 @@ comparePrice: 62.72 EUR
 prodname: 'Marca Amazon - MERAKI Anorak Largo Mujer con Capucha  Rojo  Burgundy   44  Label: XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PML56F/?tag=tolees-21'
 descuento: '27.46'
 average: '36.833333333333336'

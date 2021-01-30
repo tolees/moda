@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: '2-Pack Gafas de Lectura Magnéticas Plegables para Hombre y Mujer +2.00 55-59 años  Presbicia Vista Montura Regulable Colgar del Cuello y Cierre con Imán  Negro + Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6ZJQ9C/?tag=tolees-21'
 descuento: '58.79'
 average: '16.89'

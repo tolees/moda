@@ -16,6 +16,7 @@ comparePrice: 5.77 EUR
 prodname: 'Marca Amazon - AURIQUE Sudadera de Manga Larga de Forro Polar Mujer  Azul  Gibraltor Sea   42  Label:L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQGM9RV/?tag=tolees-21'
 descuento: '18.20'
 average: '4.72'

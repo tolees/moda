@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox J Alonisso Boy N  Zapatillas Altas para Niños  Azul  Navy/Dk Orange C4218   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZZH37/?tag=tolees-21'
 descuento: '43.87'
 average: '28.01'

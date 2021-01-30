@@ -16,6 +16,7 @@ comparePrice: 44.96 EUR
 prodname: 'Clarks Tealite Grace  Sandalias con Tira Vertical para Mujer  Rojo  Red Nubuck   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9K1U2W/?tag=tolees-21'
 descuento: '31.72'
 average: '38.57'

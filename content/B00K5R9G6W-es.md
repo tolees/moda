@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Lr Trunk Bóxer  Negro  Black 990   Small  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K5R9G6W/?tag=tolees-21'
 descuento: '35.92'
 average: '27.49'

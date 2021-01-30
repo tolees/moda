@@ -16,6 +16,7 @@ comparePrice: 12.76 EUR
 prodname: 'Jack & Jones Jormastul Sweat Hood Sudadera con Capucha  Azul  Cloud Dancer Fit: Reg   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHT5NBD/?tag=tolees-21'
 descuento: '18.42'
 average: '13.89'

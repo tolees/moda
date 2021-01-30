@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Quiksilver Carver Nubuck-Sandals For Men  Zapatos de Playa y Piscina para Hombre  Marrón  Demitasse-Solid Ctk0   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WTTBRG/?tag=tolees-21'
 descuento: '26.59'
 average: '22.98'

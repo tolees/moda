@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'NAVARCH Mujeres Enfermera Conjunto De Lencería Tentación Babydoll Disfraces de Enfermera Uniforme Tentacion Camisetas Vestido Sexy Ropa de Dormir Lencería Cosplay Ropa de Dormir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N19NQH4/?tag=tolees-21'
 descuento: '15.40'
 average: '9.656666666666666'

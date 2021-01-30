@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'camel active 5-Pocket Madison Vaqueros Straight  Azul  Raw Denim 42   W31/L30  Talla del Fabricante: 31/30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVD56CC/?tag=tolees-21'
 descuento: '44.30'
 average: '50.1'

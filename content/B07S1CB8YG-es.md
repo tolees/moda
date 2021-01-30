@@ -16,6 +16,7 @@ comparePrice: 26.05 EUR
 prodname: 'New Look Tasmim Texture Chaqueta de Traje  Beige  Stone 16   36  Talla del Fabricante: 8  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1CB8YG/?tag=tolees-21'
 descuento: '73.13'
 average: '7'

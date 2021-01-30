@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Timberland - Patucos y casquillo para bebés  Rosa  18.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRIR66E/?tag=tolees-21'
 descuento: '36.02'
 average: '31.99'

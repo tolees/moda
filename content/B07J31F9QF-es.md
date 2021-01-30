@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Rosa  Pink Fog/Black 694   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J31F9QF/?tag=tolees-21'
 descuento: '55.32'
 average: '12.51'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Women s Secret Bloom Feminine BF Dahlia PJ FR Conjuntos de Pijama  Multicolor  Gama Rosas/Morados 78   Large  Tamaño del Fabricante: L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVTNMMX/?tag=tolees-21'
 descuento: '63.91'
 average: '18.04'

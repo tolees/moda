@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'LIGE Relojes para Hombres  Deportes a Prueba de Agua de Moda Reloj analógico de Cuarzo cronógrafo Negro del Calendario de la Malla del Acero Inoxidable de los Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B94KFXF/?tag=tolees-21'
 descuento: '80.01'
 average: '19.99'

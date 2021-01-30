@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Happy Girls Chaqueta de Punto Niñas  talla fabricante 152  Rosa  pink 36 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017INL3D4/?tag=tolees-21'
 descuento: '44.56'
 average: '11.06'

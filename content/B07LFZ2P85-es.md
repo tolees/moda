@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Geox U Kristof A  Zapatillas para Hombre  Marrón  Dk Coffee/Browncotto C6t6g   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZ2P85/?tag=tolees-21'
 descuento: '34.87'
 average: '74.9'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Columbia Triple Canyon Camisa de Manga Corta  Hombre  Gris  City Grey Maze   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B5WZSZ/?tag=tolees-21'
 descuento: '62.32'
 average: '24.49'

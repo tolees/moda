@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Rival Fleece Sportstyle Graphic Sudadera con Capucha  Mujer  Blanco  Onyx White/Black   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L13M9NV/?tag=tolees-21'
 descuento: '35.60'
 average: '26.893333333333334'

@@ -16,6 +16,7 @@ comparePrice: 16.38 EUR
 prodname: 'Conjunto de 3 piezas  camiseta  camisa a cuadros y pantalones color kaki  para niños de entre 1 y 5 años  marca Sopo Marrón marrón 1-2 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HEHL9DY/?tag=tolees-21'
 descuento: '19.47'
 average: '13.19'

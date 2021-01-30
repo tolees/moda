@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Lee Slim Button Down Camisa  Azul  Frost Blue   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N19SWJC/?tag=tolees-21'
 descuento: '75.85'
 average: '14.48'

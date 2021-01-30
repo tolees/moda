@@ -16,6 +16,7 @@ comparePrice: 95.65 EUR
 prodname: 'The North Face Venture 2 Chaqueta  Mujer  Negro  TNF Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GQUW8LG/?tag=tolees-21'
 descuento: '16.68'
 average: '79.7'

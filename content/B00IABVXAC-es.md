@@ -16,6 +16,7 @@ comparePrice: 190 EUR
 prodname: 'Helly Hansen Squamish CIS Jacket Chaqueta  Hombre  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IABVXAC/?tag=tolees-21'
 descuento: '54.93'
 average: '85.64'

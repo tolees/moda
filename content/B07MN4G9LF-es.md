@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Greensboro Regular Jeans Vaqueros  Azul  Black Dust 36w   30W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN4G9LF/?tag=tolees-21'
 descuento: '82.58'
 average: '14.8'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'alvorog Perchero con Zapatero  Perchero Metálico de Pie  Perchero de Entrada con 3 Capas y 16 Ganchos para Zapatos y Ropa 65 x 30 x 180 cm  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM1GB99/?tag=tolees-21'
 descuento: '57.01'
 average: '43.13'

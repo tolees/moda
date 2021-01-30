@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Original Camiseta  Azul  Hm Patch OG tee Riverside 0016   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV6Z5LL/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Levi s The Jacket  Chaqueta Vaquera  Azul  Pale Shade Indigo Stretch Trucker 0468   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXL165S/?tag=tolees-21'
 descuento: '59.33'
 average: '48.8'

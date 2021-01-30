@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Walbeck Edge II  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B3XX8S8/?tag=tolees-21'
 descuento: '58.88'
 average: '36.99'

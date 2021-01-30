@@ -16,6 +16,7 @@ comparePrice: 38.04 EUR
 prodname: 'HAWKERS · ONE LS · Rubber Black · Sky · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPXD7SZ/?tag=tolees-21'
 descuento: '28.26'
 average: '27.29'

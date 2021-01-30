@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J Alonisso Boy D  Zapatillas Altas para Niños  Azul  Avio/Beige C4289   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWSKGLW/?tag=tolees-21'
 descuento: '65.91'
 average: '20.42'

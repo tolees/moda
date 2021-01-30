@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Hatch Vaqueros  12Oz Clean Twill Denim  38W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYGL2C3/?tag=tolees-21'
 descuento: '50.01'
 average: '39.983333333333334'

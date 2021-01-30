@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s Graphic Set-In Neck  Camiseta para Hombre  Azul  C18977 Graphic H215-Hm Dress Blues Graphic H215-Hm 36.3 139   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VLN9ID0/?tag=tolees-21'
 descuento: '19.50'
 average: '16.515714285714285'

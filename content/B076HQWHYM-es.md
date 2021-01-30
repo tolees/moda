@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas CORE18 SW Top Sudadera  Hombre  Azul  Azul/Blanco   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HQWHYM/?tag=tolees-21'
 descuento: '42.18'
 average: '23.53333333333333'

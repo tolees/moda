@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'YWLINK Zapatos NiñO NiñA Deportes Aire Libre Mesh Fire Print Sport Run Zapatillas Casual Shoes Antideslizante Transpirable CóModo Zapatos Solos Corriendo Ciclismo El FúTbol MontañIsmo Rojo 38EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RV9H7QM/?tag=tolees-21'
 descuento: '99.94'
 average: '0.10500000000000001'

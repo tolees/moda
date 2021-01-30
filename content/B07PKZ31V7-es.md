@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Zapatilla Baja de Deporte para Hombre  Rojo  Red   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKZ31V7/?tag=tolees-21'
 descuento: '45.74'
 average: '48.57666666666667'

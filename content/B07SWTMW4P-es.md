@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Geox D Sozy G  Sandalias con Punta Abierta para Mujer  Marrón  Brown/Lt Bronze C6fb6   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWTMW4P/?tag=tolees-21'
 descuento: '66.05'
 average: '28.835'

@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Meller - Kribi Amber Carbon - Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IABCN14/?tag=tolees-21'
 descuento: '62.50'
 average: '12.0'

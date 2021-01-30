@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Gris  Dark Grey Melange   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B67GHDW/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

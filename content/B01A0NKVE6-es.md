@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Coldgear Armour Mock Camiseta De Manga Larga  Hombre  Gris  Carbon Heather/Black 090   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A0NKVE6/?tag=tolees-21'
 descuento: '25.00'
 average: '41.25'

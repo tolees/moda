@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Clarks Step Beat Sun  Abierta Sandalias Punta Cerrada  Negro  Black-   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQQS7L7/?tag=tolees-21'
 descuento: '30.12'
 average: '35.431666666666665'

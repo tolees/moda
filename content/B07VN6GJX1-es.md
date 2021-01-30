@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Desigual Jers Chill Chaqueta Punto  Negro  Negro 2000   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VN6GJX1/?tag=tolees-21'
 descuento: '38.74'
 average: '55.1'

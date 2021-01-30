@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Nike Wmns Revolution 5  Zapatilla de Correr para Mujer  Tinte Platino/Blast Pink Blast  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHQC163/?tag=tolees-21'
 descuento: '27.30'
 average: '39.95'

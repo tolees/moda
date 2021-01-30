@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Napapijri BAUNT FZ Sudadera  Negro  Black 041   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVJ2R7/?tag=tolees-21'
 descuento: '50.00'
 average: '84.5'

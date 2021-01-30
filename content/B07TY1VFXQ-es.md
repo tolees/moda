@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'K-WAY Claudette Abrigo  Gris  Grey Lt Lead 343   104  Talla del Fabricante: 4Y  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY1VFXQ/?tag=tolees-21'
 descuento: '38.37'
 average: '43.14'

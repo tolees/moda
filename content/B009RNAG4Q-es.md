@@ -16,6 +16,7 @@ comparePrice: 17.64 EUR
 prodname: 'Accessoryo - Guantes - guantes - Animal Print - para mujer Marrón marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009RNAG4Q/?tag=tolees-21'
 descuento: '43.99'
 average: '9.88'

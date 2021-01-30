@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Pepe Jeans Edward Chaqueta   Infinity 985   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPPVJC/?tag=tolees-21'
 descuento: '65.56'
 average: '98.9'

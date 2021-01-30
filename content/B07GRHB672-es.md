@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'Khanomak Camisa Corta del Tirante de Espagueti Mini Encaje Cami Palabra de Honor Bralette de la Mujer  Talla única  Malva '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRHB672/?tag=tolees-21'
 descuento: '68.05'
 average: '3.99'

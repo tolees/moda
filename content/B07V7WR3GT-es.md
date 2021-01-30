@@ -16,6 +16,7 @@ comparePrice: 124.2 EUR
 prodname: 'Love Moschino Jc4245pp0a  Bolso tipo tote para Mujer  Plateado  Silver Fabric   48x32x12 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7WR3GT/?tag=tolees-21'
 descuento: '52.95'
 average: '64.47'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ZOEREA Bebé Chicos Conjunto de Conjunto Page Boy Trajes 4 Piezas Chaleco + Camisa + Pantalones + Chaqueta de la Boina Caballeros Boda Bautizo Conjuntos de Ropa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7KMFC7/?tag=tolees-21'
 descuento: '32.01'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'The Indian Face Gafas de Sol Deportivas Free Spirit para Hombre y Mujer  Color Negro Lente Morada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNVRXQ7/?tag=tolees-21'
 descuento: '32.00'
 average: '27.2'

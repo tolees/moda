@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox Uomo Snake K  Zapatillas para Hombre  Blue  Navy C4002   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ398NZ/?tag=tolees-21'
 descuento: '47.99'
 average: '51.96'

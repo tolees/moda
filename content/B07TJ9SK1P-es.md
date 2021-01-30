@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Original Hm Icon Crew Sudadera  Amarillo  Golden Apricot 0016   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ9SK1P/?tag=tolees-21'
 descuento: '58.29'
 average: '31.650000000000002'

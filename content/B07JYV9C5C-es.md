@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Hilfiger Logo Sweatshirt Sudadera  Blanco  Bright White 100   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYV9C5C/?tag=tolees-21'
 descuento: '50.95'
 average: '49.0'

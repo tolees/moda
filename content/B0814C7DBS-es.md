@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Youth Nordic Strider Chaqueta para niña  Niñas  Verde  New Olive Heather   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814C7DBS/?tag=tolees-21'
 descuento: '44.50'
 average: '55.49'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Esprit 089ee1i002 Chaqueta Punto  Gris  Gunmetal 5 019   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZMFNH9/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

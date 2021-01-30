@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour UA Speed Stride Printed SS Camiseta  Hombre  Negro  Black/Black/Reflective 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR7KD5G/?tag=tolees-21'
 descuento: '40.09'
 average: '22.905'

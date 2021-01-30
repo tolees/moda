@@ -16,6 +16,7 @@ comparePrice: 30.52 EUR
 prodname: 'Houkiper Chaleco Reflectante LED para Correr  Chaleco de Alta Visibilidad Luces Brillantes para Alta Visibilidad Correr de Noche y mañana  Orange '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKK3R7P/?tag=tolees-21'
 descuento: '73.82'
 average: '7.99'

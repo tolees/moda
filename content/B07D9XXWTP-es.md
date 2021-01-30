@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Jack Wolfskin Vojo Hike 2 Texapore Mid M Wasserdicht  Zapatos de High Rise Senderismo para Hombre  Phantom 6350  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9XXWTP/?tag=tolees-21'
 descuento: '50.02'
 average: '54.95'

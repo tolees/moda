@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Paladinz Tripode Movil 106 cm  42" Inch  de Aluminio Smartphone Soporte de Trípode Tripode Camara Compatible con Samsung Huawei con el Bolso Que Lleva y Soporte Adaptador de móviles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSYSLH2/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

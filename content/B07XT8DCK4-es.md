@@ -16,6 +16,7 @@ comparePrice: 58.88 EUR
 prodname: 'Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado Unisexo Black White 34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XT8DCK4/?tag=tolees-21'
 descuento: '42.51'
 average: '33.85'

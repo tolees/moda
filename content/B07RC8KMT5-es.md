@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Columbia Lodge Chaqueta Sudadera para Hombre  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8KMT5/?tag=tolees-21'
 descuento: '69.89'
 average: '88.065'

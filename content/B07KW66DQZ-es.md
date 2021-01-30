@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Disney muñeca Princesa Anna con Vestido  Capa y Botas de Viaje de Frozen II  Toddler 35 cm.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW66DQZ/?tag=tolees-21'
 descuento: '23.73'
 average: '23.66235294117647'

@@ -16,6 +16,7 @@ comparePrice: 5.18 EUR
 prodname: 'SOLS - Camiseta básica de Manga Corta Modelo Regent Unisex Niños Niñas - Deportes/Gimnasia/Correr  8 Años   Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KZIPB3S/?tag=tolees-21'
 descuento: '33.40'
 average: '3.45'

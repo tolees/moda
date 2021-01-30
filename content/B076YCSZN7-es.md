@@ -16,6 +16,7 @@ comparePrice: 79.52 EUR
 prodname: 'Levi s Ex-Boyfriend Trucker Chaqueta Vaquera  Azul  Stoop Culture 0022   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076YCSZN7/?tag=tolees-21'
 descuento: '58.39'
 average: '33.67'

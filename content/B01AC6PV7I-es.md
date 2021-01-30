@@ -16,6 +16,7 @@ comparePrice: 29.25 EUR
 prodname: 'Nike Park VI Camiseta de Manga Corta para hombre  Amarillo  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AC6PV7I/?tag=tolees-21'
 descuento: '41.03'
 average: '17.055'

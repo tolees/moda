@@ -16,6 +16,7 @@ comparePrice: 200 EUR
 prodname: 'Levi s Coit Down Puffer Chaqueta  Negro  Black 0003   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF5XYSF/?tag=tolees-21'
 descuento: '60.02'
 average: '83.47'

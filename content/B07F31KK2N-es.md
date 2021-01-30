@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Helly Hansen HP 1/2 Zip Jersey  Hombre  Ebony  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F31KK2N/?tag=tolees-21'
 descuento: '50.25'
 average: '32.34'

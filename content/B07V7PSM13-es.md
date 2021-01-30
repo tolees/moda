@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'HUGO Trunk Brother Pack Bóxer  Negro  Black 9   M 2 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7PSM13/?tag=tolees-21'
 descuento: '41.63'
 average: '22.15'

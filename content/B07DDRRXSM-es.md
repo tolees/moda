@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only Onlblush Mid ANK Raw Jeans Rea1303 Noos Vaqueros Skinny  Azul  Dark Blue Denim   W29/L32  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDRRXSM/?tag=tolees-21'
 descuento: '30.01'
 average: '27.99'

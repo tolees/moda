@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Auriz  Zapatos de Futsal para Hombre  White-Green Glimmer  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG63SLY/?tag=tolees-21'
 descuento: '58.76'
 average: '20.6'

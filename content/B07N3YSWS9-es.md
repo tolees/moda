@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Vaqueros  Vintage Medium Aged 8968-2965  42W / 40L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3YSWS9/?tag=tolees-21'
 descuento: '78.75'
 average: '21.24'

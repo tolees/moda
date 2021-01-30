@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Glop Games- Princesa Disney  muñeca Vaiana Detalle. Fíjate en su Pelo  Vestido  Flor de Polinesia Toddler 35cm  38 cm  04703 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CQTW89I/?tag=tolees-21'
 descuento: '22.01'
 average: '19.49'

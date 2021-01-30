@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler LS 1pkt Shirt Camisa  Blanco  Off White 737   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3T4C2W/?tag=tolees-21'
 descuento: '77.00'
 average: '14.94'

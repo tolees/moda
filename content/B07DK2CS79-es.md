@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Geox B Verred a  Sandalias para Bebés  White C1000  25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK2CS79/?tag=tolees-21'
 descuento: '64.93'
 average: '19.29'

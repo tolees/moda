@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler 80\u00b4s Retro Sweat Sudadera  Blanco  White 989   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWNNBD/?tag=tolees-21'
 descuento: '49.99'
 average: '32.48'

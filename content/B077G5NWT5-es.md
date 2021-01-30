@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'gracosy Mujer Botas de Nieve Senderismo Zapatos Antideslizantes Trekking Zapatos Invierno Piel de Forro Sneakers Transpirables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077G5NWT5/?tag=tolees-21'
 descuento: '52.64'
 average: '35.99'

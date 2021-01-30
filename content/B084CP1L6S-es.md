@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HAWKERS · ONE LS · Frozen rose · Gold · Gafas de sol para hombre y mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084CP1L6S/?tag=tolees-21'
 descuento: '25.68'
 average: '22.29'

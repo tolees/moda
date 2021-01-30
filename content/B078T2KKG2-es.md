@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Liga JS Striped Jersey de Fútbol de Rayas  Hombre  Verde  Pepper Green/White   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T2KKG2/?tag=tolees-21'
 descuento: '68.30'
 average: '7.91'

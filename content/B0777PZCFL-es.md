@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Regular C Camiseta con Cuello Redondo  Rojo  Formula One   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777PZCFL/?tag=tolees-21'
 descuento: '38.10'
 average: '18.63'

@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'DoGeek Botas Nieve Botas de Forro de Piel de Invierno Zapatos Cálidos para Exteriores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJXFLH6/?tag=tolees-21'
 descuento: '34.15'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B New Balu  Boy C  Zapatillas para Bebés  Azul  Navy C4002   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZCNHD/?tag=tolees-21'
 descuento: '47.92'
 average: '25.99'

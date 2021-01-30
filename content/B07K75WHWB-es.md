@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Levi s Button Thru Mom Skirt Falda  Azul  Mid Race 0002   única  Talla del Fabricante: 28  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K75WHWB/?tag=tolees-21'
 descuento: '48.83'
 average: '33.1375'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Declan Mix  Sandalias de Gladiador para Mujer  Marrón  Mahogany Combi Mahogany Combi   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMVL8QQ/?tag=tolees-21'
 descuento: '45.99'
 average: '37.78'

@@ -16,6 +16,7 @@ comparePrice: 19.2 EUR
 prodname: 'Monedero de Embrague de Paja  Bolsa de Noche Mujer  Bolsos de la Tarde Boho Tejidas Envelope Clutch Cartera Fiesta Bolsa de la Boda del Verano de la Paja para la Muchacha de Las Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCZNLR6/?tag=tolees-21'
 descuento: '21.93'
 average: '14.99'

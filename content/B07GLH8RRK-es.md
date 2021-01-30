@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox D Myria A  Zapatillas para Mujer  Azul  Blue C4000   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GLH8RRK/?tag=tolees-21'
 descuento: '53.03'
 average: '46.92'

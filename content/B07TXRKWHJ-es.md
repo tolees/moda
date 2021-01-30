@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Wrangler SS 2 Pkt Flap Shirt Camisa  Azul  Cerulean Blue Xvt   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXRKWHJ/?tag=tolees-21'
 descuento: '58.94'
 average: '20.51'

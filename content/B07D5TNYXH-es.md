@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Celio Maestro Camisa  Blanc  Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5TNYXH/?tag=tolees-21'
 descuento: '49.98'
 average: '14.836'

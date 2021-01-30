@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'Keen Newport H2  Sandalias de Senderismo Infantil  Negro  Black/Lime Green   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DG9SAIG/?tag=tolees-21'
 descuento: '50.07'
 average: '17.95'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Antic Charcoal  25W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N18ZMDF/?tag=tolees-21'
 descuento: '87.59'
 average: '14.88'

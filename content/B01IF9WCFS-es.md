@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'The North Face S/S Simple Dome H Camiseta de Manga Corta  Hombre  Blanco  TNF White   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IF9WCFS/?tag=tolees-21'
 descuento: '38.04'
 average: '15.219999999999999'

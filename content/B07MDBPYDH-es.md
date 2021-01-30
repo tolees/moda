@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Austin Vaqueros Tapered  Negro  Moto Black HL   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDBPYDH/?tag=tolees-21'
 descuento: '77.69'
 average: '22.985'

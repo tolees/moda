@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'CARE OF by PUMA Chaleco acolchado impermeable para hombre  Azul  Blue   120  Talla del fabricante: 2XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3TPTQN/?tag=tolees-21'
 descuento: '30.00'
 average: '49'

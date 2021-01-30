@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Avengers- Guantes Hulk  Multicolor  Hasbro E0615EU6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9JWMGM/?tag=tolees-21'
 descuento: '18.53'
 average: '23.656666666666666'

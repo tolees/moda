@@ -16,6 +16,7 @@ comparePrice: 8.3 EUR
 prodname: 'Joma Nobel Pantalón de equipación  Amarillo  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IXMCZEG/?tag=tolees-21'
 descuento: '27.83'
 average: '5.9766666666666675'

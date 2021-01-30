@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Lee Basic Graphic Crew Sudadera  Azul  Sky Captain Hy   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JM4CGR9/?tag=tolees-21'
 descuento: '76.60'
 average: '20.82'

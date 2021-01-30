@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 501 Crop Vaqueros Boyfriend  Negro  Cabo Fade 0111   W30/L26  Talla del Fabricante: 30 26  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXL1BD2/?tag=tolees-21'
 descuento: '58.48'
 average: '47.75'

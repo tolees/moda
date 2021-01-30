@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '2pcs bolso colgante organizador KAKOO oso polar azul de organizador pared de avestruz verde de colgante algodón organizador de pared'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IJ972ZE/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

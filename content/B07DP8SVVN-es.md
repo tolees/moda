@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Cra-Z-Art - Crea tu bolso de lentejuelas Shimmer n Sparkle 44800 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP8SVVN/?tag=tolees-21'
 descuento: '20.00'
 average: '9.56'

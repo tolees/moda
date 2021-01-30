@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'XTI Zapatilla XTI049956 para Mujer Negro 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YB6CW8P/?tag=tolees-21'
 descuento: '30.05'
 average: '20.95'

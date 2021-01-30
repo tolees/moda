@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'GoPetee Collar Antiladridos para Perros Pequeños Medianos y Grandes Sin Choque Collar Adiestramiento Perros con Sonidos y Vibraciones Audibles Chip Avanzado con 7 Nieveles de Sensibilidad Ajustables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK84CHR/?tag=tolees-21'
 descuento: '16.01'
 average: '13.61857142857143'

@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Daclay Zapatos niños Deportivo Transpirable y Transpirable con Parte Superior de Cuero cómoda con Zapatillas Velcro niña Sneakers  28 EU  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B7D84BQ/?tag=tolees-21'
 descuento: '34.83'
 average: '14.99'

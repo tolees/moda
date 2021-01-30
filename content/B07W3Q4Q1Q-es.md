@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'TOUS Dorp  Monedero Women s  U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W3Q4Q1Q/?tag=tolees-21'
 descuento: '50.00'
 average: '22.099999999999998'

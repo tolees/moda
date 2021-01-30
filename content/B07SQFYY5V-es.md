@@ -16,6 +16,7 @@ comparePrice: 51.88 EUR
 prodname: 'Geox B Shaax A  Zapatillas para Bebés  Rosa  Pink C8004   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQFYY5V/?tag=tolees-21'
 descuento: '25.79'
 average: '38.5'

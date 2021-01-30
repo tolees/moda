@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Hem & Seam Camisa Formal Entallada Hombre  Negro  Black   Medium  Talla del fabricante: Medium 15.5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPCJZ6Q/?tag=tolees-21'
 descuento: '30.00'
 average: '14'

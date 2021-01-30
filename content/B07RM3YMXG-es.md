@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Hyper Classic Stripe Shirt Camisa  Azul  Blue A   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM3YMXG/?tag=tolees-21'
 descuento: '48.80'
 average: '44.43'

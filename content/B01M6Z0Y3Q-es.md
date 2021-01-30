@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Barkey - Panama Lentes Marrones - Gafas De Madera De Alta Calidad - 100% Hecho A Mano - Lentes Polarizadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6Z0Y3Q/?tag=tolees-21'
 descuento: '59.31'
 average: '59.0'

@@ -16,6 +16,7 @@ comparePrice: 4.98 EUR
 prodname: 'VPASS Pantalones Hombre Verano Casuales Moda Deportivos Algodón y Lino Pants Color sólido Jogging Pantalon Fitness Suelto Pantalones Largos Pantalones Ropa de Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYWBP6Y/?tag=tolees-21'
 descuento: '68.67'
 average: '1.56'

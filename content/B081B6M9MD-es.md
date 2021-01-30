@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Triple Canyon Camisa de Manga Corta  Hombre  Azul  Collegiate Navy   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B6M9MD/?tag=tolees-21'
 descuento: '40.17'
 average: '35.89'

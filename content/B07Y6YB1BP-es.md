@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Zapatos de Seguridad Hombres  LM-30 Zapatillas de Trabajo con Punta de Acero Ultra Liviano Reflectivo Transpirable  43 EU  Gris Oscuro/Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y6YB1BP/?tag=tolees-21'
 descuento: '40.01'
 average: '41.99'

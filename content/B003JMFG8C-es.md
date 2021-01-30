@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Geox J Savage G  Zapatillas para Niños  Negro  Black C9999   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JMFG8C/?tag=tolees-21'
 descuento: '31.42'
 average: '41.08'

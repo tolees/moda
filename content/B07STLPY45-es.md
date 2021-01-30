@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox U Walee A  Zapatillas para Hombre  Azul  Navy C4002   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLPY45/?tag=tolees-21'
 descuento: '60.26'
 average: '49.244615384615386'

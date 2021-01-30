@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Geox U Terence C  Botas Clasicas para Hombre  Marrón  Cognac C6001   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LG14RT5/?tag=tolees-21'
 descuento: '55.03'
 average: '65.2'

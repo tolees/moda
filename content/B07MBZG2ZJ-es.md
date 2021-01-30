@@ -16,6 +16,7 @@ comparePrice: 18.31 EUR
 prodname: 'LEVIS  Mini Crossbody Vegan No Horse Pull -  Bolso de hombro para Hombre  Negro  15 x 6 x 22 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBZG2ZJ/?tag=tolees-21'
 descuento: '28.13'
 average: '13.16'

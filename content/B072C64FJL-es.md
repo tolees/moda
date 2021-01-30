@@ -16,6 +16,7 @@ comparePrice: 27.66 EUR
 prodname: 'Khanomak - Pantalón Corto Deportivo - para Mujer Rojo Granate S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072C64FJL/?tag=tolees-21'
 descuento: '60.01'
 average: '12.705'

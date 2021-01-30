@@ -16,6 +16,7 @@ comparePrice: 13.21 EUR
 prodname: 'Nike W Nk Miler Top Vneck Camiseta de Manga Corta  Mujer  White/ Reflective silv   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPBK2GH/?tag=tolees-21'
 descuento: '16.58'
 average: '11.645'

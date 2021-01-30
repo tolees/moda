@@ -16,6 +16,7 @@ comparePrice: 42.5 EUR
 prodname: 'Calvin Klein Low Rise Trunk 3pk  Bóxer Hombre  Azul  Black/Blue Shadow/Cobalt Water Dtm Wb 4ku   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8RYPT7/?tag=tolees-21'
 descuento: '19.18'
 average: '36.23'

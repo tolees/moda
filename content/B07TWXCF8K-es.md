@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Women s Secret Sense 1 Se1 Ruffle PJ Conjuntos de Pijama  Negro  Negro 1   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXCF8K/?tag=tolees-21'
 descuento: '69.36'
 average: '10.72'

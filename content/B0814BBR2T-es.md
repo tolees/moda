@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Columbia Delta Ridge Chaqueta con Capucha  Hombre  Azul  Night Tide   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814BBR2T/?tag=tolees-21'
 descuento: '50.89'
 average: '83.49'

@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Tommy Jeans TJM Tech Parka Chaqueta  Verde  Forest Night   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N26WQ6F/?tag=tolees-21'
 descuento: '65.14'
 average: '90.3'

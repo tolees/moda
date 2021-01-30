@@ -16,6 +16,7 @@ comparePrice: 240.0 EUR
 prodname: 'The North Face Evolution II Triclimate Chaqueta  Hombre  Negro  TNF Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LOD1NPS/?tag=tolees-21'
 descuento: '42.92'
 average: '144.49'

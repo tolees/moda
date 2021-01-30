@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Lee Daren Zip Fly Vaqueros Straight  Azul  Mid Stonewash 44   32W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMV1G71/?tag=tolees-21'
 descuento: '72.22'
 average: '23.61'

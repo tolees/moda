@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Pepaloves Rackets Skirt Cream  Falda Casual para Mujer  Beige  Cream   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXZYJEQ/?tag=tolees-21'
 descuento: '80.68'
 average: '11.59'

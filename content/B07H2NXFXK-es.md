@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'GANT D1. Triangle Texture Fullzip Chaqueta Punto  Gris  Dk Charcoal Melange 97   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2NXFXK/?tag=tolees-21'
 descuento: '46.66'
 average: '76.48'

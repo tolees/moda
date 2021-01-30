@@ -16,6 +16,7 @@ comparePrice: 13.04 EUR
 prodname: 'Jack & Jones JORDUSTO Sweat Hood Sudadera con Capucha  Gris  Light Grey Melange Fit: Reg JJ   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBZRVJ5/?tag=tolees-21'
 descuento: '21.17'
 average: '10.7'

@@ -16,6 +16,7 @@ comparePrice: 25.81 EUR
 prodname: 'find. Camisa Casual de Algodón con Corte Estándar para Hombre  Blanco  White   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY7PU3V/?tag=tolees-21'
 descuento: '65.13'
 average: '9'

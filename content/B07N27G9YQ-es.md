@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Tommy Hilfiger TJM Essential Textured Sweater Sudadera   Black Iris Twisted Cbk   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N27G9YQ/?tag=tolees-21'
 descuento: '59.59'
 average: '34.35'

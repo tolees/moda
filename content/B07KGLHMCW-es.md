@@ -16,6 +16,7 @@ comparePrice: 47.95 EUR
 prodname: 'Sik Silk Hombre Camiseta Raglan Veneciana Plateada  Negro  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGLHMCW/?tag=tolees-21'
 descuento: '60.48'
 average: '18.95'

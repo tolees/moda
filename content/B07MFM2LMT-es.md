@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Clarks Oliver Limit  Zapatos de Cordones Derby para Hombre  Negro Black Leather  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFM2LMT/?tag=tolees-21'
 descuento: '50.14'
 average: '74.79'

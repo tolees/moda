@@ -16,6 +16,7 @@ comparePrice: 12.06 EUR
 prodname: 'Under Armour Graphic Sportstyle Fashion SSC Camiseta  Mujer  Blanco  Onyx White/Black 112   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSJBVPC/?tag=tolees-21'
 descuento: '22.22'
 average: '9.38'

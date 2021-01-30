@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Clarks Step Beat Sun  Abierta Sandalias Punta Cerrada  Azul  Navy-   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQQSCY5/?tag=tolees-21'
 descuento: '25.11'
 average: '39.05'

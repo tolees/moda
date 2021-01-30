@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Jack & Jones Jjitim Jjoriginal Am 782 50sps Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   36W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQ49B9F/?tag=tolees-21'
 descuento: '38.01'
 average: '30.99'

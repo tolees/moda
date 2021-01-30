@@ -16,6 +16,7 @@ comparePrice: 22.33 EUR
 prodname: 'Nike Benassi JDI  Chanclas Unisex Adulto  Azul  Midnight Navy/Windchill   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BG0IXRK/?tag=tolees-21'
 descuento: '55.17'
 average: '11.283333333333333'

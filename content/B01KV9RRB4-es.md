@@ -16,6 +16,7 @@ comparePrice: 114.1 EUR
 prodname: 'Swing Vestido Mujer  Azul  marine   36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KV9RRB4/?tag=tolees-21'
 descuento: '51.91'
 average: '54.87'

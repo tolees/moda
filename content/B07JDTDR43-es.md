@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Lacoste Sh6382 Sudadera  Gris  Argent Chiné Cca   XXXX-Large  Talla del Fabricante: 9  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JDTDR43/?tag=tolees-21'
 descuento: '50.01'
 average: '52.175'

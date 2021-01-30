@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'G-STAR RAW Vehem Pocket Round Neck Camiseta  Verde  Sage 724   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMZCZN/?tag=tolees-21'
 descuento: '85.07'
 average: '8.95'

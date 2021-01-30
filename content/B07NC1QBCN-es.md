@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Dorina Casablanca Haut Maillot de Bain Bikini top  Negro  Black V00   135  Talla del fabricante: XS 32/34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC1QBCN/?tag=tolees-21'
 descuento: '39.35'
 average: '10.25'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Salomon AGILE LS Camiseta deportiva de manga larga  Hombre  Negro  Black   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788LWHL5/?tag=tolees-21'
 descuento: '22.27'
 average: '34.98'

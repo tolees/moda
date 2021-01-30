@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Funda para Samsung Galaxy S7 Edge  Libro de Cuero Impresión de Suave PU Premium e Silicone TPU Carcasa  Soporte Plegable  Ranuras para Tarjetas y Billetera  Cierre Magnético Girasol Rosa Caliente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072V6CBTF/?tag=tolees-21'
 descuento: '50.06'
 average: '3.99'

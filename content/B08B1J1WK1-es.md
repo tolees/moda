@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Pantalón Chándal y Deportivo para Mujer Pantalones de Estilo Libre Largo Suelto Elástico para Corredores Pantalón con Bolsillos y Cordón Ajustable para Deporte Yoga Gimnasio  Negro Rayas  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B1J1WK1/?tag=tolees-21'
 descuento: '23.19'
 average: '16.89'

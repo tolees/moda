@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'MOBIUSPHY Pantalon Corto Hombre Deporte  Pantalones Cortos Deportivo Shorts Deportivos Hombre Short Running Pantalón Corto Tenis Fitness Gym Verano Negro L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FSWYB1/?tag=tolees-21'
 descuento: '30.12'
 average: '13.97'

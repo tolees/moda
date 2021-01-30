@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ELEEMEE Mujer Simple Tacón Bajo Sandalias Square Toe Correa de Tobillo Sandalias Solid Vestido Zapatos Green Size 37 Asiática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0897FLPR5/?tag=tolees-21'
 descuento: '50.01'
 average: '24.99'

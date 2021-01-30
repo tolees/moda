@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Helly Hansen Verglas Light Chaqueta De Pluma con Capucha  Mujer  Black  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHF566K/?tag=tolees-21'
 descuento: '57.37'
 average: '85.26'

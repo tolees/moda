@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'ESPRIT - Collar para mujer con circonita color oro rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0107NKN3S/?tag=tolees-21'
 descuento: '75.58'
 average: '21.95'

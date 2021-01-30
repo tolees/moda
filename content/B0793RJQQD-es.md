@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'WILDKEN Chaqueta de Protección para Motocross Motos Ropa Protectora de Cuerpo Armadura Completo Profesional de Motocicleta Deportiva para Hombres Columna Vertebral Hombro Mujer Pecho  Rojo  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793RJQQD/?tag=tolees-21'
 descuento: '30.01'
 average: '41.99'

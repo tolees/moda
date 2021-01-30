@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Mochila de Pañales para Bebé LOORI  Mochilas de Pañales y Biberones  Pañal Bolso Mochila Multifuncional de Gran Capacidad  Bolsos Cambiadores de Pañales  Impermeable  La Leche Mantener la Temperatura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJG84GN/?tag=tolees-21'
 descuento: '30.78'
 average: '28.99'

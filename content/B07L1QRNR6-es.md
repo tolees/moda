@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjiliam Jjoriginal Am 816 Noos Vaqueros Skinny  Negro  Black Denim Black Denim   W36/L32  Talla del Fabricante: 36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1QRNR6/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'
