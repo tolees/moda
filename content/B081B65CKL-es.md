@@ -29,8 +29,8 @@ Tienes [Columbia CSC Basic Logo II Sudadera con Capucha  Hombre  Negro  S](https
 
 - Cómodas características que incluyen bolsillos tipo canguro para calentar las manos, puños acanalados y capucha ajustable con cordón
 - Logotipo clásico de Columbia en el pecho y en la parte superior de la manga en un contrastado color sólido
-- 1 x Columbia CSC Basic Logo II, sudadera con capucha para hombre, Algodón, Negro, S, Art. 1681664
-- Clásica y casual sudadera con capucha óptima para cualquier momento y lugar
 - Versátil capa de mezcla de algodón para afrontar los días fríos
+- Clásica y casual sudadera con capucha óptima para cualquier momento y lugar
+- 1 x Columbia CSC Basic Logo II, sudadera con capucha para hombre, Algodón, Negro, S, Art. 1681664
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B081B65CKL/?tag=tolees-21)
