@@ -27,9 +27,9 @@ Tienes [Quiksilver Creators of Simplicity - Camiseta para Hombre Camiseta  Hombr
 
 🔎:
 
-- Cuello: Cuello redondo
-- Tejido: punto jersey de algodón ligero
 - Serigrafía estampada en el pecho
+- Tejido: punto jersey de algodón ligero
 - Corte: Corte normal, clásico, cómodo
+- Cuello: Cuello redondo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0893RLK4G/?tag=tolees-21)
