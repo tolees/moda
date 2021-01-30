@@ -29,9 +29,9 @@ Tienes [Vans MN Classic Crew II Sudadera  Gris  Cemento Heather-Black Ady   XS p
 ℹ️:
 
 - Colore: GrigioBlk
-- Gender: Uomo
 - Modello: VN0A456A
-- Articolo: Felpa
 - Brand: Vans
+- Articolo: Felpa
+- Gender: Uomo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SL25GFB/?tag=tolees-21)

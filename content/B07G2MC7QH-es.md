@@ -28,8 +28,8 @@ Ahora mismo tienes [JACK & JONES JACHUEY TRUNKS 5 PACK NOOS Bóxer  Negro  Black
 
 🔎:
 
-- Paquete Triple
 - Estiramiento
+- Paquete Triple
 - Conjunto De Calzoncillos Boxer
 - Pretina Ancha
 
