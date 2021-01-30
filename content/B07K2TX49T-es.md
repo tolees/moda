@@ -28,8 +28,8 @@ Tienes [Adidas Adilette Aqua  Zapatos de Playa y Piscina Unisex Adulto  Negro  B
 
 🔎:
 
+- Fácil de poner
 - Chanclas deportivas
 - 3 rayas en la parte superior
-- Fácil de poner
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K2TX49T/?tag=tolees-21)
