@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Esprit 990ee1f310 Blusa  Azul  Navy 400  al 62.52 % de descuento'
-date: 2021-01-29 01:49:54
+date: 2021-01-30 07:31:52
 image: 'https://m.media-amazon.com/images/I/41nBJE7OTXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,7 +27,7 @@ Ahora mismo tienes [Esprit 990ee1f310 Blusa  Azul  Navy 400   42  Talla del Fabr
 
 🔎:
 
-- Las mangas se pueden remangar y fijar mediante una presilla con botón
 - Blusa de algodón de corte holgado con los hombros caídos
+- Las mangas se pueden remangar y fijar mediante una presilla con botón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YKVH7YT/?tag=tolees-21)
