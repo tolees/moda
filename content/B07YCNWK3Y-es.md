@@ -16,7 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Levi s Kids Lvb Batwing Tee Camiseta Grey Heather para Niños'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Levi's kids'
+brand: 'Levis kids'
 buyurl: 'https://www.amazon.es/dp/B07YCNWK3Y/?tag=tolees-21'
 descuento: '15.94'
 average: '13.7008108108107'

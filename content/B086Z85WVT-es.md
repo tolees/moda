@@ -16,7 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Levi s Kids Lvg Sweatshirt Dress Vestido Bebé-Niñas Gray Heather 12 meses'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Levi's kids'
+brand: 'Levis kids'
 buyurl: 'https://www.amazon.es/dp/B086Z85WVT/?tag=tolees-21'
 descuento: '44.00'
 average: '22.4'
