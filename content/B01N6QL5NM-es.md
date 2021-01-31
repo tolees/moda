@@ -28,10 +28,10 @@ Tienes [MEGA CREATIVE JEWELRY Collar Árbol de la Vida para Mujer Plata 925 con 
 
 ℹ️:
 
-- ❤️Servicio postventa: Satisfacción 100% y garantía de devolución del dinero. Devoluciones por 30 días, garantía de un año contra defectos
-- ❤️Regalo ideal: Para Navidad, San Valentín, Día de la Madre, Aniversario
+- ❤️Dimensiones: Colgante 2.5 cm * 2.5cm | Cadena 45 + 5cm | Metal: Plata 925 | Cristal de Swarovski Elements | Antialérgico | Anti-oxidado
 - ❤️Exquisito diseño: El collar del árbol de la vida simboliza la familia cálida, la paz, la salud y la energía, una vida espléndida y eterna. Es un hermoso amuleto de la suerte
 - ❤️Cristales delicados: Cristales de Swarovski como materia prima y elaborados hábilmente en nuestros talleres independientes, esta pieza pertenece a MEGA CREATIVE JEWELRY
-- ❤️Dimensiones: Colgante 2.5 cm * 2.5cm | Cadena 45 + 5cm | Metal: Plata 925 | Cristal de Swarovski Elements | Antialérgico | Anti-oxidado
+- ❤️Regalo ideal: Para Navidad, San Valentín, Día de la Madre, Aniversario
+- ❤️Servicio postventa: Satisfacción 100% y garantía de devolución del dinero. Devoluciones por 30 días, garantía de un año contra defectos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N6QL5NM/?tag=tolees-21)
