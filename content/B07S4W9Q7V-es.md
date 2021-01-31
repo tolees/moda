@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Innovation Super Skinny Vaqueros  Blue  Echo Vibes 00
 
 🔎:
 
-- Ajustados en la cadera y el muslo
 - Parche de piel con logotipo de Levis Two Horse
 - Vaqueros para mujer
+- Ajustados en la cadera y el muslo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S4W9Q7V/?tag=tolees-21)
