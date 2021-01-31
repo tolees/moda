@@ -29,12 +29,12 @@ Está [Havaianas Brasil Logo Chanclas Unisex adulto  Amarillo  Banana Yellow   3
 ℹ️:
 
 - Material exterior: Caucho
+- Anchura del zapato: Normal
 - Tipo de tacón: Plano
 - Composición: Goma
-- Cierre: Sin cordones
 - Material de la suela: Goma
-- Anchura del zapato: Normal
 - Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
+- Cierre: Sin cordones
 - Resistente al agua
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074MKY6GD/?tag=tolees-21)

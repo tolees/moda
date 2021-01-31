@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Elly Vaqueros  Negro  Black Rinse 47   W24/L31 para Muje
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para mujer
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TZZZMFJ/?tag=tolees-21)
