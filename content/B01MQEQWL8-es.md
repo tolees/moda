@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only onlAVA FAUX LEATHER BIKER OTW NOOS  con un 37.96 % de descuento'
-date: 2021-01-30 01:00:30
+date: 2021-01-31 01:17:34
 image: 'https://m.media-amazon.com/images/I/41p2JjCOhuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Only onlAVA FAUX LEATHER BIKER OTW NOOS - Chaqueta para mujer  Rosa  Ash Rose Ash Rose   42'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B01MQEQWL8/?tag=tolees-21'
 descuento: '37.96'
 average: '30.99'
