@@ -29,8 +29,8 @@ En este momento está [Element Cornell Classic Ho - Sudadera para Hombre Sudader
 🔎:
 
 - Corte: corte normal
-- Tela: Tejido de mezcla de poliéster y algodón [260 g/m2]
-- Cepillado para mayor suavidad
 - Logo del árbol en contraste en el pecho
+- Cepillado para mayor suavidad
+- Tela: Tejido de mezcla de poliéster y algodón [260 g/m2]
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DL6S8WL/?tag=tolees-21)

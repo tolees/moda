@@ -28,9 +28,9 @@ Tienes [de facto - DeFacto - Abrigo tipo bomber con capucha para hombre caqui L]
 
 🔎:
 
+- Color: caqui
 - 100% poliéster | ShellFabric2 algodón 80% poliéster 20% | Linning1 poliéster 100% | Relleno de poliéster 100%
 - Fabricado en Turquía
-- Color: caqui
 - DeFacto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HJ39CZS/?tag=tolees-21)

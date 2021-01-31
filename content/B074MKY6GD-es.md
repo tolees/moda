@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo Chanclas Unisex ad al 33.10 % de descuento'
-date: 2021-01-25 13:32:33
+date: 2021-01-31 20:51:41
 image: 'https://m.media-amazon.com/images/I/31UC+kjDDYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 23.9 EUR
 prodname: 'Havaianas Brasil Logo Chanclas Unisex adulto  Amarillo  Banana Yellow   37/38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B074MKY6GD/?tag=tolees-21'
 descuento: '33.10'
-average: '15.7553333333333'
+average: '15.7829411764706'
 ---
 
 Está [Havaianas Brasil Logo Chanclas Unisex adulto  Amarillo  Banana Yellow   37/38 EU](https://www.amazon.es/dp/B074MKY6GD/?tag=tolees-21) con 33.10 de descuento por 15.99 EUR (original: 23.9 EUR) en el siguiente enlace!
@@ -27,13 +28,13 @@ Está [Havaianas Brasil Logo Chanclas Unisex adulto  Amarillo  Banana Yellow   3
 
 ℹ️:
 
+- Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
+- Tipo de tacón: Plano
+- Resistente al agua
 - Composición: Goma
 - Cierre: Sin cordones
-- Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
-- Material exterior: Caucho
-- Resistente al agua
-- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Material exterior: Caucho
 - Anchura del zapato: Normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074MKY6GD/?tag=tolees-21)

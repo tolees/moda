@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.02 % en Clarks Tilden Plain  Zapatos Derby para '
-date: 2021-01-30 19:14:39
+date: 2021-01-31 19:26:57
 image: 'https://m.media-amazon.com/images/I/31ypiyTVgRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B00TTJGRDW/?tag=tolees-21'
 descuento: '35.02'
-average: '54.864328358209'
+average: '54.8356157635469'
 ---
 
 Tienes [Clarks Tilden Plain  Zapatos Derby para Hombre  Negro  Black Leather   43 EU](https://www.amazon.es/dp/B00TTJGRDW/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 51.95 EUR (original: 79.95 EUR) en el siguiente enlace!
