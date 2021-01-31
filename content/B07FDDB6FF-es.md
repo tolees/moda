@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Orange Label Vntge Emb S/S tee  al 40.02 % de descuento'
-date: 2021-01-29 10:39:00
+date: 2021-01-31 10:57:34
 image: 'https://m.media-amazon.com/images/I/41ITK3UfkSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry Orange Label Vntge Emb S/S tee Camiseta  Negro  Black 02A   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B07FDDB6FF/?tag=tolees-21'
 descuento: '40.02'
-average: '14.9293406593406'
+average: '14.93'
 ---
 
 Está [Superdry Orange Label Vntge Emb S/S tee Camiseta  Negro  Black 02A   X-Small para Hombre](https://www.amazon.es/dp/B07FDDB6FF/?tag=tolees-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!
@@ -27,6 +28,9 @@ Está [Superdry Orange Label Vntge Emb S/S tee Camiseta  Negro  Black 02A   X-Sm
 
 ℹ️:
 
-- Superdry clothing is made with the right balance between style and comfort. We recommend a size larger than your usual brands for a true Superdry experience
+- Tiene un tejido ligero y suave
+- Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+- Pequeño logo estampado en el pecho
+- Adecuada para el uso diario
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FDDB6FF/?tag=tolees-21)

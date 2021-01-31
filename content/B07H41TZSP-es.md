@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Catwalk Collection Handbags - CATWALK CO al 42.36 % de descuento'
-date: 2021-01-29 10:41:00
+date: 2021-01-31 10:12:41
 image: 'https://m.media-amazon.com/images/I/41YJMFMCp-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 104.0 EUR
 prodname: 'Catwalk Collection Handbags - CATWALK COLLECTION - ABBEY ROAD - Bolso bandolera - Cuero - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Catwalk Collection Handbags'
 buyurl: 'https://www.amazon.es/dp/B07H41TZSP/?tag=tolees-21'
 descuento: '42.36'
 average: '59.95'
@@ -27,10 +28,10 @@ Está [Catwalk Collection Handbags - CATWALK COLLECTION - ABBEY ROAD - Bolso ban
 
 ℹ️:
 
-- POCKETS: 1 Main Compartment + 1 Interior Side Zipped Pocket + 1 Mobile Phone Holder + 1 Interior Open Pocket + 1 Outer Rear Zipped Pocket
-- IF YOU LOVE AUTHENTIC REAL LEATHER, YOULL LOVE CATWALK COLLECTION HANDBAGS!
-- GORGEOUSLY DARK AND SULTRY CROSS-BODY BAG MADE FROM DESIGNER ANTIQUE LEATHER
-- LEATHER TYPE: Washed Nappa Leather, CLOSURE: Metal zip and magnetic snap, HARDWARE: Antique Brass. Each bag comes with the iconic Cat Logo Bag Charm and branded Dust Cover.
-- SIZE: H 22 cm, W 30 cm, D 2 cm. ADJUSTABLE SHOULDER STRAP: 161 cm
+- INTERIORES: 1 compartimento principal + 1 bolsillo interior lateral con cremallera + 1 bolsillo para el móvil + 1 bolsillo para iPhone + 1 bolsillo exterior posterior con cremallera
+- HERRAJES: Latón envejecido.
+- INCLUIDO: Cada bolso viene con el icónico logo del gato en forma de colgante para el bolso, y viene con su propia funda antipolvo.
+- DIMENSIONES DEL PRODUCTO: Al </b>22 cm,<b> An </b>30 cm, <b>P </b>2 cm<b></b><b> </b> <b> , CORREA DE HOMBRO AJUSTABLE: </b>161 cm
+- MAGNÍFICO BOLSO BANDOLERA DE DISEÑADOR EN TONOS OSCUROS Y CUERO DESGASTADO.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H41TZSP/?tag=tolees-21)

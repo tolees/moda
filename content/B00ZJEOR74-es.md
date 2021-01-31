@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Original Stretch Shirt Ca al 19.64 % de rebaja'
-date: 2021-01-29 10:40:41
+date: 2021-01-31 10:21:45
 image: 'https://m.media-amazon.com/images/I/31vG-0ccCGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 69.56 EUR
 prodname: 'Tommy Hilfiger Original Stretch Shirt Camisa  Blanco  Classic White   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B00ZJEOR74/?tag=tolees-21'
 descuento: '19.64'
 average: '55.9'
@@ -27,8 +28,8 @@ Tienes [Tommy Hilfiger Original Stretch Shirt Camisa  Blanco  Classic White   L 
 
 🔎:
 
-- Tiene el logo de la marca bordado en el pecho
 - Fabricada en tejido ligero y suave
 - Camisa para hombre
+- Tiene el logo de la marca bordado en el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ZJEOR74/?tag=tolees-21)
