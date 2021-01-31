@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MISS MOLY Mujer Camiseta de Tirantes con al 31.44 % de descuento'
-date: 2021-01-30 07:08:59
+date: 2021-01-31 08:00:22
 image: 'https://m.media-amazon.com/images/I/41MqiBfVnpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'MISS MOLY Mujer Camiseta de Tirantes con Cuello en V Camisas Blusas Encaje Rojo Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: 'MISS MOLY'
 buyurl: 'https://www.amazon.es/dp/B07PQDYFXV/?tag=tolees-21'
 descuento: '31.44'
 average: '23.99'
@@ -28,9 +29,9 @@ Ahora mismo tienes [MISS MOLY Mujer Camiseta de Tirantes con Cuello en V Camisas
 🔎:
 
 - Material suave y cómodo, tejido elástico, casual slim fit.
-- Se recomienda lavar con agua fría, no usar lejía, colgar o secar al aire.
 - Ocasión: Casual/Oficina/Fecha/Playa/Noche/Fiesta/Cóctel.
-- Diseño casual, elegante camiseta para mostrar tus encantadoras curvas.
 - Ajuste delgado, cuello en V, sin mangas, diseño frontal cruzado, con detalles de encaje.
+- Diseño casual, elegante camiseta para mostrar tus encantadoras curvas.
+- Se recomienda lavar con agua fría, no usar lejía, colgar o secar al aire.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PQDYFXV/?tag=tolees-21)
