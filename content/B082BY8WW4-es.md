@@ -1,30 +1,33 @@
 ---
 layout: post
-title: 'LEVIS FOOTWEAR AND ACCESORIAS Turner  za al 20.00 % de rebaja'
-date: 2021-01-09 13:10:32
+title: 'Levi s - LEVIS FOOTWEAR AND ACCESORIAS T al 24.98 % de rebaja'
+date: 2021-01-31 13:59:29
 image: 'https://m.media-amazon.com/images/I/31yuDxvHqoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082BY8WW4-es'
-actualPrice: 39.99 EUR
+slug: 'B082BY8WW4-es Levi s - LEVIS FOOTWEAR AND ACCESORIAS Turner zapatos de...'
+sku: 'B082BY8WW4-es'
+tags: [ 'zapatos', ]
+actualPrice: 37.5 EUR
 currency: EUR
-price: 39.99
+price: 37.5
 comparePrice: 49.99 EUR
-prodname: 'LEVIS FOOTWEAR AND ACCESORIAS Turner  zapatos de hombre  blanco  42'
+prodname: 'Levi s - LEVIS FOOTWEAR AND ACCESORIAS Turner  zapatos de hombre  blanco  42'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B082BY8WW4/?tag=tolees-21'
-descuento: '20.00'
-average: '36.44066666666667'
+descuento: '24.98'
+average: '39.122380952381'
 ---
 
-Tienes [LEVIS FOOTWEAR AND ACCESORIAS Turner  zapatos de hombre  blanco  42](https://www.amazon.es/dp/B082BY8WW4/?tag=tolees-21) con precio final de  39.99 EUR (original: 49.99 EUR) (20.00 %  de rebaja) aqui!
+Tienes [Levi s - LEVIS FOOTWEAR AND ACCESORIAS Turner  zapatos de hombre  blanco  42](https://www.amazon.es/dp/B082BY8WW4/?tag=tolees-21) con precio final de  37.5 EUR (original: 49.99 EUR) (24.98 %  de rebaja) aqui!
 
-[![LEVIS FOOTWEAR AND ACCESORIAS Turner  za](https://m.media-amazon.com/images/I/31yuDxvHqoL._SL200_.jpg)](https://www.amazon.es/dp/B082BY8WW4/?tag=tolees-21)
+[![Levi s - LEVIS FOOTWEAR AND ACCESORIAS T](https://m.media-amazon.com/images/I/31yuDxvHqoL._SL200_.jpg)](https://www.amazon.es/dp/B082BY8WW4/?tag=tolees-21)
 
 🔎:
 
 - Este zapato clásico masculino, con distinguida silueta Oxford, está elaborado con cuero resistente y duradero
 
-[Comprar!!!](https://www.amazon.es/dp/B082BY8WW4/?tag=tolees-21)
+[🛒 Comprar!!!](https://www.amazon.es/dp/B082BY8WW4/?tag=tolees-21)

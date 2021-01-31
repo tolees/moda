@@ -28,11 +28,11 @@ Está [Geox B Todo Girl C  Zapatillas Bebé-Niñas  Rosa  Pink C8004   22 EU](ht
 
 ℹ️:
 
-- Material de la suela: sintético
-- Altura del tacón: 2 cm
-- Material exterior: sintético
-- Tipo de cierre: velcro
 - Tipo de tacón: plano
+- Material exterior: sintético
+- Material de la suela: sintético
 - Material interior: textil
+- Tipo de cierre: velcro
+- Altura del tacón: 2 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SWP21PN/?tag=tolees-21)
