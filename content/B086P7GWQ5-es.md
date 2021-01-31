@@ -28,10 +28,10 @@ Tienes [PUMA Train Thermo R+ BND Short Sleeve tee Camiseta  Hombre  nrgy Blue  X
 
 ℹ️:
 
-- Cuello redondo
 - THERMO R+: El sistema de termorregulación dinámico adaptativo de PUMA que acumula y libera el calor para mantener una temperatura corporal óptima
+- Líneas de corte ergonómicas para una mayor libertad de movimiento
 - Corte normal
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
-- Líneas de corte ergonómicas para una mayor libertad de movimiento
+- Cuello redondo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086P7GWQ5/?tag=tolees-21)
