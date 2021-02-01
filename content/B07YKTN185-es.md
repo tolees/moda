@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.52 % en Esprit 990ee1f301 Blusa  Blanco  White 1'
-date: 2021-01-30 07:31:39
+date: 2021-02-01 08:17:54
 image: 'https://m.media-amazon.com/images/I/31-jwKasd8L._SL200_.jpg'
 comments: true
 category: ofertas

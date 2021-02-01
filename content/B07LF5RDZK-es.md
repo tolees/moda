@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Descuento del 37.17 % en Levi s LS Original Hm tee Camiseta  Gris'
-date: 2020-07-03 11:22:41
+title: 'Descuento del 35.74 % en Levi s LS Original Hm tee Camiseta  Medi'
+date: 2021-02-01 09:47:57
 image: 'https://m.media-amazon.com/images/I/41aA5ncK+0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF5RDZK-es Levi s LS Original Hm tee Camiseta Gris Medium Grey...'
+slug: 'B07LF5RDZK-es Levi s LS Original Hm tee Camiseta Medium Grey Heather L...'
 sku: 'B07LF5RDZK-es'
 tags: [ 'camiseta', ]
-actualPrice: 21.99 EUR
+actualPrice: 22.49 EUR
 currency: EUR
-price: 21.99
+price: 22.49
 comparePrice: 35.0 EUR
-prodname: 'Levi s LS Original Hm tee Camiseta  Gris  Medium Grey Heather 0006   Large para Hombre'
+prodname: 'Levi s LS Original Hm tee Camiseta  Medium Grey Heather  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LF5RDZK/?tag=tolees-21'
-descuento: '37.17'
-average: '21.99'
+descuento: '35.74'
+average: '22.24'
 ---
 
-Tienes [Levi s LS Original Hm tee Camiseta  Gris  Medium Grey Heather 0006   Large para Hombre](https://www.amazon.es/dp/B07LF5RDZK/?tag=tolees-21) con un 37.17 % de descuento con precio de oferta de 21.99 EUR (original: 35.0 EUR) en el siguiente enlace!
+Tienes [Levi s LS Original Hm tee Camiseta  Medium Grey Heather  L para Hombre](https://www.amazon.es/dp/B07LF5RDZK/?tag=tolees-21) con un 35.74 % de descuento con precio de oferta de 22.49 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Levi s LS Original Hm tee Camiseta  Gris](https://m.media-amazon.com/images/I/41aA5ncK+0L._SL200_.jpg)](https://www.amazon.es/dp/B07LF5RDZK/?tag=tolees-21)
+[![Levi s LS Original Hm tee Camiseta  Medi](https://m.media-amazon.com/images/I/41aA5ncK+0L._SL200_.jpg)](https://www.amazon.es/dp/B07LF5RDZK/?tag=tolees-21)
 
 ℹ️:
 
+- Modelo casual
+- Con un discreto logo en el pecho
+- Elaborada en punto suave
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LF5RDZK/?tag=tolees-21)

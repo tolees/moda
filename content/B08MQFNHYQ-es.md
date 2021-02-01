@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway Chaqueta de hombre B con un 49.60 % de descuento'
-date: 2021-01-21 00:13:39
+date: 2021-02-01 09:55:14
 image: 'https://m.media-amazon.com/images/I/41HvBTdCkRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Chaqueta de hombre BOKER AZUL MARINO talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08MQFNHYQ/?tag=tolees-21'
 descuento: '49.60'
-average: '59.9'
+average: '57.9'
 ---
 
 En este momento está [Geographical Norway Chaqueta de hombre BOKER AZUL MARINO talla M](https://www.amazon.es/dp/B08MQFNHYQ/?tag=tolees-21) a 49.9 EUR (original: 99.0 EUR) (49.60 %  de descuento) en el siguiente enlace!
@@ -27,8 +28,8 @@ En este momento está [Geographical Norway Chaqueta de hombre BOKER AZUL MARINO 
 
 🔎:
 
-- pelo destomtable
 - Capucha
 - Chaqueta de hombre
+- pelo destomtable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MQFNHYQ/?tag=tolees-21)
