@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Tan Jaquard Jersey Camiseta  Hombre  Grey Six  L](htt
 
 🔎:
 
-- Cuello redondo
 - Jacquard 69% poliéster reciclado/ 31% poliéster
-- Camiseta de fútbol estampada
+- Cuello redondo
 - Logotipo de tan
+- Camiseta de fútbol estampada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0821W2JDD/?tag=tolees-21)
