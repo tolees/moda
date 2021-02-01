@@ -29,7 +29,7 @@ En este momento está [Wrangler Texas Vaqueros Slim  Azul  Dark Rinse 90a   32W 
 🔎:
 
 - Otro elástico plano
-- Ligera
 - Slim
+- Ligera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TSFRHX3/?tag=tolees-21)

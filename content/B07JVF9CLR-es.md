@@ -29,7 +29,7 @@ Tienes [adidas Tiro19 Pre Jkty Chaqueta de Deporte  Unisex niños  Bold Green/Wh
 🔎:
 
 - Regular fit
-- Front pockets
 - Full zip
+- Front pockets
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JVF9CLR/?tag=tolees-21)

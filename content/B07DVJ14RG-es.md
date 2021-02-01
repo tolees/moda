@@ -28,8 +28,8 @@ Tienes [Levi s Type 3 Sherpa Trucker  Chaqueta para Hombre  Azul  Rockridge Truc
 
 🔎:
 
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
+- Bajo ajustable en el lateral
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DVJ14RG/?tag=tolees-21)
