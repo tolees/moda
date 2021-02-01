@@ -29,7 +29,7 @@ Ahora mismo tienes [Burton Durable Goods Camiseta  Hombre  Gray Heather  XS](htt
 🔎:
 
 - Prelavado
-- Corte clásico
 - Logo estampado en el pecho
+- Corte clásico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHJFD2K/?tag=tolees-21)

@@ -28,13 +28,13 @@ En este momento está [Element Wolfeboro Dulcey - Chaqueta resistente al agua pa
 
 🔎:
 
+- Wolfeboro dulcey - chaqueta resistente al agua para hombre
+- Tipo de fábrica: 65% Poliamida 35% Algodón
 - Tratamiento duradero que repele el agua (dwr); estilo clásico element con corte atemporal
 - Capucha ajustable con cordón reflectante; frenos de silicona con la marca
-- 65% poliamida, 35% algodón
-- Tipo de fábrica: 65% Poliamida 35% Algodón
-- Wolfeboro dulcey - chaqueta resistente al agua para hombre
 - Cuerpo y capucha con tejido interior arrugado ripstop; 2 bolsillos calientamanos ribeteados; bolsillo interior de seguridad
-- Tela: tejido duradero, resistente, impermeable y corta-vientos; cremallera vislon no. 5; cierre con cremallera metálica
 - Lona mezcla de algodón y poliéster reciclado repreve; revestimiento transparente de pu 1000mm
+- 65% poliamida, 35% algodón
+- Tela: tejido duradero, resistente, impermeable y corta-vientos; cremallera vislon no. 5; cierre con cremallera metálica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CJ28FHZ/?tag=tolees-21)
