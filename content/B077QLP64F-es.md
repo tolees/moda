@@ -28,8 +28,8 @@ Tienes [YSABEL MORA Camiseta TÉRMICA  Negro  XL ](https://www.amazon.es/dp/B077
 
 🔎:
 
-- TERMICA
-- CUELLO REDONDO
 - AFELPADO INTERIOR
+- CUELLO REDONDO
+- TERMICA
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077QLP64F/?tag=tolees-21)
