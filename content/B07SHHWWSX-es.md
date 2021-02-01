@@ -28,10 +28,10 @@ Ahora mismo tienes [bollé Inuk Gafas de Ski Juventud Unisex Extra Small  Pink P
 
 🔎:
 
+- Lente: PC ROSY BRONZE
+- Pon color en las pistas con INUK, la nueva y robusta máscara para los jóvenes intrépidos. Desarrollada con cascos, la INUK garantiza confort y seguridad cuando se lleva con protección para la cabeza. Se acabaron los molestos puntos de presión o los espacios de aire para los jóvenes más atrevidos.
 - Tratamiento antiempañamiento P80+ y antirrayaduras Carbo-glass
 - CAT.3 - BUEN TIEMPO
 - Doble Lente
-- Lente: PC ROSY BRONZE
-- Pon color en las pistas con INUK, la nueva y robusta máscara para los jóvenes intrépidos. Desarrollada con cascos, la INUK garantiza confort y seguridad cuando se lleva con protección para la cabeza. Se acabaron los molestos puntos de presión o los espacios de aire para los jóvenes más atrevidos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHHWWSX/?tag=tolees-21)

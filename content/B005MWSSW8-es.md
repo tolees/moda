@@ -28,8 +28,8 @@ En este momento está [Ray-Ban Gafas de sol  Erika  Negro  622/8G   con lente Gr
 
 🔎:
 
+- Protective case included
 - Producto de alta calidad de la marca RAY-BAN
 - Color del producto es negro/gris degradada (black/grey gradient)
-- Protective case included
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005MWSSW8/?tag=tolees-21)
