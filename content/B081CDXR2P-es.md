@@ -28,7 +28,7 @@ Ahora mismo tienes [Geographical Norway Chaqueta NIÑO BOKER 068 rol 7+ BS](http
 
 🔎:
 
-- Bandera bordada
 - Capucha
+- Bandera bordada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081CDXR2P/?tag=tolees-21)
