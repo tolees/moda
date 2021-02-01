@@ -28,7 +28,7 @@ Tienes [Geographical Norway Chaqueta NIÑA Anson 068 rol 7+BS](https://www.amazo
 
 🔎:
 
-- Bandera bordada
 - Capucha
+- Bandera bordada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081CCKPK4/?tag=tolees-21)

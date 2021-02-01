@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Essentials SS M tee Camiseta de Manga Corta  Hombre  Gr
 
 🔎:
 
+- Sports shirt for men: the ESS Logo Tee t-shirt by Puma is a cotton jersey shirt in a plain and basic look with short sleeves and a ribbed crew neck.
 - These sports shirts help create a wide array of outfits, from casual to sporty. Just dare to combine these casual tees with the colour palette of Puma shorts to adapt them to every mood.
+- Comfortable and stylish: the mens t-shirt in regular fit features a large Puma No. 1 Logo pigment print. The logo is eye-catching and transforms this t-shirt into a must-have for men every age.
 - For every occasion: the sporty menswear shirt can not only be worn to hit the gym, but also during leisure time. Paired with other colours it creates a casual and modern look for everyday life.
 - Dress comfortably in lightweight sportswear, such as this Puma sport t-shirt. This shirt is also great for layering to create numerous elegant urban looks.
-- Sports shirt for men: the ESS Logo Tee t-shirt by Puma is a cotton jersey shirt in a plain and basic look with short sleeves and a ribbed crew neck.
-- Comfortable and stylish: the mens t-shirt in regular fit features a large Puma No. 1 Logo pigment print. The logo is eye-catching and transforms this t-shirt into a must-have for men every age.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GS497GB/?tag=tolees-21)
