@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jones - Camiseta de manga c al 46.02 % de descuento'
-date: 2020-09-22 08:39:12
+date: 2021-02-01 15:58:46
 image: 'https://m.media-amazon.com/images/I/31HEOgfbVOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  color azul marino  talla L'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B0085SFY7S/?tag=tolees-21'
 descuento: '46.02'
 average: '6.99'
@@ -28,5 +28,6 @@ Ahora mismo tienes [Jack & Jones Jones - Camiseta de manga corta con cuello redo
 
 🔎:
 
+- Material: Light Grey Melange: 78% Cotton, 14% Viscose, 8% Lycra; Others: 92% Cotton, 8% Lycra
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0085SFY7S/?tag=tolees-21)
