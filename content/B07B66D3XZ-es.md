@@ -29,8 +29,8 @@ En este momento está [Jack & Jones Jjegingham Shirt L/s Camisa  Multicolor  Bri
 🔎:
 
 - 100% Algodón
-- Cierre con botones
 - 40 ° lavado normal, no usar lejía, no usar secadora
+- Cierre con botones
 - Estilo del cuello: Clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B66D3XZ/?tag=tolees-21)
