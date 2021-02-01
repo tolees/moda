@@ -28,10 +28,10 @@ Ahora mismo tienes [MISS MOLY Mujer Camiseta de Tirantes con Cuello en V Camisas
 
 🔎:
 
-- Se recomienda lavar con agua fría, no usar lejía, colgar o secar al aire.
-- Diseño casual, elegante camiseta para mostrar tus encantadoras curvas.
 - Ajuste delgado, cuello en V, sin mangas, diseño frontal cruzado, con detalles de encaje.
 - Material suave y cómodo, tejido elástico, casual slim fit.
 - Ocasión: Casual/Oficina/Fecha/Playa/Noche/Fiesta/Cóctel.
+- Diseño casual, elegante camiseta para mostrar tus encantadoras curvas.
+- Se recomienda lavar con agua fría, no usar lejía, colgar o secar al aire.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PQDYFXV/?tag=tolees-21)
