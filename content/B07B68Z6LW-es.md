@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'JACK & JONES Jjegingham Shirt L/s Camisa al 40.01 % de descuento'
-date: 2020-03-06 18:49:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5172T32zxFL._SL200_.jpg'
+title: 'Jack & Jones Jjegingham Shirt L/s Camisa al 30.01 % de descuento'
+date: 2021-02-01 17:01:58
+image: 'https://m.media-amazon.com/images/I/41qiYQ5cecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B68Z6LW-es JACK & JONES Jjegingham Shirt L/s Camisa Multicolor Brick...'
+slug: 'B07B68Z6LW-es Jack & Jones Jjegingham Shirt L/s Camisa Multicolor Brick...'
 sku: 'B07B68Z6LW-es'
 tags: [ 'camisa', ]
-actualPrice: 17.99 EUR
+actualPrice: 20.99 EUR
 currency: EUR
-price: 17.99
+price: 20.99
 comparePrice: 29.99 EUR
-prodname: 'JACK & JONES Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   Small para Hombre'
+prodname: 'Jack & Jones Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07B68Z6LW/?tag=tolees-21'
-descuento: '40.01'
-average: '17.47'
+descuento: '30.01'
+average: '19.23'
 ---
 
-Está [JACK & JONES Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   Small para Hombre](https://www.amazon.es/dp/B07B68Z6LW/?tag=tolees-21) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Jack & Jones Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   Small para Hombre](https://www.amazon.es/dp/B07B68Z6LW/?tag=tolees-21) con 30.01 de descuento por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![JACK & JONES Jjegingham Shirt L/s Camisa](https://images-eu.ssl-images-amazon.com/images/I/5172T32zxFL._SL200_.jpg)](https://www.amazon.es/dp/B07B68Z6LW/?tag=tolees-21)
+[![Jack & Jones Jjegingham Shirt L/s Camisa](https://m.media-amazon.com/images/I/41qiYQ5cecL._SL200_.jpg)](https://www.amazon.es/dp/B07B68Z6LW/?tag=tolees-21)
 
 ℹ️:
 
+- Estilo del cuello: Clásico
+- 40 ° lavado normal, no usar lejía, no usar secadora
+- 100% Algodón
+- Cierre con botones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B68Z6LW/?tag=tolees-21)

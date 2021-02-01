@@ -28,8 +28,8 @@ Ahora mismo tienes [Superdry Orange Label Vntge Emb S/s tee Camiseta  Gris  Flin
 
 🔎:
 
-- Cotton crew neck
 - Superdry clothing is made with the right balance between style and comfort. We recommend a size larger than your usual brands for a true Superdry experience
+- Cotton crew neck
 - T-shirt suitable for hot summer days
 - Embroidered logo on the chest
 

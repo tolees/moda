@@ -28,9 +28,9 @@ En este momento está [Crocs Crocband U  Zuecos Unisex Adulto  Marrón  Espresso
 
 🔎:
 
-- Odour-resistant, easy to clean and quick to dry
 - The Crocs shoes will display US sizes
 - Sporty midsole band inspired by the classic vulcanised style
+- Odour-resistant, easy to clean and quick to dry
 - Sole sizes are US. Label shows UK. M = Mens W = Womens
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0044WVRT8/?tag=tolees-21)
