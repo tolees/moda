@@ -28,8 +28,8 @@ En este momento está [Levi s Vneck Camiseta  White  White + 0002   Small para M
 
 🔎:
 
-- Tiene bordado en el pecho la marca Levis
 - Modelo casual
+- Tiene bordado en el pecho la marca Levis
 - Con suave tejido y el corte clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RY9L8SY/?tag=tolees-21)
