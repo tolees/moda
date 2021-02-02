@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE M Nk Dry Park VII JSY SS Camiseta d al 62.37 % de descuento'
-date: 2021-01-31 13:15:47
+date: 2021-02-02 07:08:47
 image: 'https://m.media-amazon.com/images/I/41UKYWDBvzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07WC7GFT6/?tag=tolees-21'
 descuento: '62.37'
-average: '7.48600000000001'
+average: '7.36272727272728'
 ---
 
 Está [NIKE M Nk Dry Park VII JSY SS Camiseta de Manga Corta  Hombre  Verde  Pine Green/White   S](https://www.amazon.es/dp/B07WC7GFT6/?tag=tolees-21) con 62.37 de descuento por 6.13 EUR (original: 16.29 EUR) en el siguiente enlace!
