@@ -28,12 +28,12 @@ Ahora mismo tienes [Geox D Nebula C  Zapatillas Mujer   Chestnut C6004   39 EU](
 
 🔎:
 
-- Altura del tacón: 4 centímetros
-- Cierre: Sin cordones
+- Material exterior: Cuero
 - Tipo de tacón: Plano
 - Revestimiento: Malla
-- Material de la suela: EVA
 - Anchura del zapato: Normal
-- Material exterior: Cuero
+- Material de la suela: EVA
+- Cierre: Sin cordones
+- Altura del tacón: 4 centímetros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792GGBH2/?tag=tolees-21)
