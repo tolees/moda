@@ -28,8 +28,8 @@ Tienes [BOSS Trunk CO/EL Bóxer  Negro  Black 001   Medium  Pack de 3  para Homb
 
 ℹ️:
 
-- Con cintura elástica
-- Calzoncillos bóxer para hombre
 - Con el logo de Hugo Boss en la cintura
+- Calzoncillos bóxer para hombre
+- Con cintura elástica
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01JZD7Q90/?tag=tolees-21)
