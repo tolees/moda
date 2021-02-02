@@ -28,7 +28,7 @@ Ahora mismo tienes [Tommy Hilfiger Tommy Jeans Print Beach Sandal  Chanclas Homb
 
 🔎:
 
-- Genuine Product
 - Authorised Stockist
+- Genuine Product
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V8V87BP/?tag=tolees-21)

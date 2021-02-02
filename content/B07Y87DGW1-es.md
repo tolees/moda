@@ -28,7 +28,7 @@ Está [Only 15174274 Chaqueta Punto  Beige  Beige Detail: W. Melange   36  Talla
 
 ℹ️:
 
-- Cardigan
 - Knit jacket
+- Cardigan
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Y87DGW1/?tag=tolees-21)
