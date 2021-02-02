@@ -28,10 +28,10 @@ En este momento está [OhhGo Gafas de esquí Gafas de protección Profesional UV
 
 🔎:
 
-- 【Protección UV】 Fuerte protección UV, te protege de los efectos nocivos del sol. Protección UV: UV 400.
 - 【Para adultos y niños】 Diseño elegante y moderno, ideal para adultos y niños. Ocasiones aplicables: esquí, senderismo, ciclismo y otros deportes al aire libre.
-- 【Tamaño y material】 Tamaño: Aprox.18 * 8 * 2cm (L * W * H) /7.1*3.1*0.8in, Material del marco: TPU, Material de la lente: PC.
-- 【A prueba de viento, a prueba de arena, antichoque y fijo】 Gafas de esquí de alta calidad, a prueba de viento, a prueba de arena y antichoque. Las gafas miopes pueden ser fijas, excelente practicabilidad y durabilidad óptima.
+- 【Protección UV】 Fuerte protección UV, te protege de los efectos nocivos del sol. Protección UV: UV 400.
 - 【Orificios de ventilación multidireccionales para niebla】 Orificios de ventilación multidireccionales para evitar el empañamiento y garantizar la seguridad.
+- 【A prueba de viento, a prueba de arena, antichoque y fijo】 Gafas de esquí de alta calidad, a prueba de viento, a prueba de arena y antichoque. Las gafas miopes pueden ser fijas, excelente practicabilidad y durabilidad óptima.
+- 【Tamaño y material】 Tamaño: Aprox.18 * 8 * 2cm (L * W * H) /7.1*3.1*0.8in, Material del marco: TPU, Material de la lente: PC.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZGJ3VZT/?tag=tolees-21)

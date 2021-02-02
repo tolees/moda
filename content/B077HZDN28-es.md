@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IEFIEL Niñas Vestido Princesa Largo de F con un 50.02 % de descuento'
-date: 2021-01-25 20:06:17
+date: 2021-02-02 19:02:31
 image: 'https://m.media-amazon.com/images/I/315NTsFdsnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'IEFIEL Niñas Vestido Princesa Largo de Fiesta Traje Elegante de Gasa Vestido Encage Floral de Cumpleaños Cuello Halter Vestido de Boda Dama de Honor Ropa de Ceremonia Bautizo Vino A 12 años'
 country: 'es'
 flag: '🇪🇸'
+brand: 'IEFIEL'
 buyurl: 'https://www.amazon.es/dp/B077HZDN28/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'
@@ -27,10 +28,10 @@ En este momento está [IEFIEL Niñas Vestido Princesa Largo de Fiesta Traje Eleg
 
 🔎:
 
+- El corpiño de encaje floreado, sin mangas, cremallera oculta a la espalda.
+- Falda de 2 capas: 1 de gasa 1 de forro.
 - Por favor, revise con la tabla de tallas en Descripción del producto antes de realizar un pedido. Si usted no está seguro, puede elegir una talla más pequeña.
 - Perfecto para fiesta, cumpleaños, ceremonia, bautizo etc.
 - Vestido de fiesta para niña. Vestido princesa y elegante, sin mangas.
-- El corpiño de encaje floreado, sin mangas, cremallera oculta a la espalda.
-- Falda de 2 capas: 1 de gasa 1 de forro.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077HZDN28/?tag=tolees-21)

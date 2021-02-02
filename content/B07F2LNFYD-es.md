@@ -28,8 +28,8 @@ Ahora mismo tienes [Helly Hansen HH Logo Camiseta Manga Corto  Mujer  Grey Melan
 
 🔎:
 
-- Ajuste regular
 - Helly Hansen Logo obra de arte a través del pecho
 - Ligera y cómoda camiseta de jersey de algodón 100% hecha en Europa.
+- Ajuste regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F2LNFYD/?tag=tolees-21)

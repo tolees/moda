@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'JACK & JONES SENSE TRUNKS 3-PACK Bóxer   al 29.90 % de descuento'
-date: 2021-01-19 14:42:06
+date: 2021-02-02 19:45:19
 image: 'https://m.media-amazon.com/images/I/41YIK7cYcSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00WWPEQ6A-es JACK & JONES SENSE TRUNKS 3-PACK Bóxer Blanco Small Pack...'
-tags: [ 'tole.es','bóxer', ]
+sku: 'B00WWPEQ6A-es'
+tags: [ 'bóxer', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49
@@ -15,9 +16,10 @@ comparePrice: 24.95 EUR
 prodname: 'JACK & JONES SENSE TRUNKS 3-PACK Bóxer  Blanco  Small  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B00WWPEQ6A/?tag=tolees-21'
 descuento: '29.90'
-average: '17.58421052631579'
+average: '17.5795'
 ---
 
 Está [JACK & JONES SENSE TRUNKS 3-PACK Bóxer  Blanco  Small  Pack de 3  para Hombre](https://www.amazon.es/dp/B00WWPEQ6A/?tag=tolees-21) con 29.90 de descuento por 17.49 EUR (original: 24.95 EUR) en el siguiente enlace!
@@ -27,8 +29,8 @@ Está [JACK & JONES SENSE TRUNKS 3-PACK Bóxer  Blanco  Small  Pack de 3  para H
 ℹ️:
 
 - Pretina Ancha
+- Paquete Triple
 - Conjunto De Calzoncillos Boxer
 - Estiramiento
-- Paquete Triple
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00WWPEQ6A/?tag=tolees-21)

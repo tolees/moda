@@ -28,10 +28,10 @@ En este momento está [CMP - Pantalón de esquí para niños negro negro Talla:9
 
 🔎:
 
-- Impermeables WP 5000
-- Costuras encintadas en parte
-- Tirantes ajustables
-- Cortaviento y respirables MVP 5000
 - Relleno en guata CMP Feel Warm Flat
+- Impermeables WP 5000
+- Tirantes ajustables
+- Costuras encintadas en parte
+- Cortaviento y respirables MVP 5000
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002RWUJW8/?tag=tolees-21)
