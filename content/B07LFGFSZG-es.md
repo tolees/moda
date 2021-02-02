@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s LS Original Hm tee Camiseta  Negr al 37.17 % de descuento'
-date: 2020-08-20 00:53:28
+date: 2021-02-02 16:04:07
 image: 'https://m.media-amazon.com/images/I/418teEbww6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,5 +28,6 @@ Ahora mismo tienes [Levi s LS Original Hm tee Camiseta  Negro  Black 0009   Smal
 
 🔎:
 
+- LS Original HM Tee
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFGFSZG/?tag=tolees-21)
