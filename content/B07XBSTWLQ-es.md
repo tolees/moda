@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Teamgoal 23 Causals Hoody Sudadera  Hombre  Electric Bl
 
 🔎:
 
-- Manga larga
-- Algodón, poliéster y elastano
-- Capucha con cordón ajustable
-- Bolsillo delantero tipo canguro
 - Logotipo del felino PUMA en la parte derecha del pecho
+- Bolsillo delantero tipo canguro
+- Capucha con cordón ajustable
+- Algodón, poliéster y elastano
+- Manga larga
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XBSTWLQ/?tag=tolees-21)

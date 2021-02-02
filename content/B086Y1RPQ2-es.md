@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvg Crew Sudadera Niñas Blac al 56.80 % de descuento'
-date: 2021-01-25 15:20:06
+date: 2021-02-02 17:46:06
 image: 'https://m.media-amazon.com/images/I/31q6RPrFMrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s Kids Lvg Crew Sudadera Niñas Black 12 años'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Levis kids'
 buyurl: 'https://www.amazon.es/dp/B086Y1RPQ2/?tag=tolees-21'
 descuento: '56.80'
 average: '21.6'

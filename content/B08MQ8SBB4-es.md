@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Geographical Norway Chaqueta de hombre B al 49.60 % de rebaja'
-date: 2021-01-14 20:11:04
+title: 'Geographical Norway Chaqueta de hombre B al 19.29 % de rebaja'
+date: 2021-02-02 17:07:26
 image: 'https://m.media-amazon.com/images/I/41rJYPTU4kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08MQ8SBB4-es'
-actualPrice: 49.9 EUR
+slug: 'B08MQ8SBB4-es Geographical Norway Chaqueta de hombre BOKER ROJO talla S'
+sku: 'B08MQ8SBB4-es'
+tags: [ 'chaqueta', ]
+actualPrice: 79.9 EUR
 currency: EUR
-price: 49.9
+price: 79.9
 comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Chaqueta de hombre BOKER ROJO talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08MQ8SBB4/?tag=tolees-21'
-descuento: '49.60'
-average: '49.9'
+descuento: '19.29'
+average: '57.4'
 ---
 
-Tienes [Geographical Norway Chaqueta de hombre BOKER ROJO talla S](https://www.amazon.es/dp/B08MQ8SBB4/?tag=tolees-21) con precio final de  49.9 EUR (original: 99.0 EUR) (49.60 %  de rebaja) aqui!
+Tienes [Geographical Norway Chaqueta de hombre BOKER ROJO talla S](https://www.amazon.es/dp/B08MQ8SBB4/?tag=tolees-21) con precio final de  79.9 EUR (original: 99.0 EUR) (19.29 %  de rebaja) aqui!
 
 [![Geographical Norway Chaqueta de hombre B](https://m.media-amazon.com/images/I/41rJYPTU4kL._SL200_.jpg)](https://www.amazon.es/dp/B08MQ8SBB4/?tag=tolees-21)
 
 🔎:
 
 - Capucha
-- Chaqueta de hombre
 - pelo destomtable
+- Chaqueta de hombre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MQ8SBB4/?tag=tolees-21)
