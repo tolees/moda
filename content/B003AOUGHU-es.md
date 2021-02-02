@@ -28,11 +28,11 @@ En este momento está [Havaianas Top  Chanclas Unisex Adulto  Rojo  Ruby Red   3
 
 🔎:
 
-- Revestimiento: Sin forro
-- Material exterior: Goma
-- Composición: Goma
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
 - Material de la suela: Goma
+- Composición: Goma
+- Material exterior: Goma
+- Revestimiento: Sin forro
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003AOUGHU/?tag=tolees-21)
