@@ -28,10 +28,10 @@ Está [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XS]
 
 ℹ️:
 
+- The cuffs and hem have a ribbed construction for a snug fit
 - With Kangaroo pocket
 - Draw cord-adjustable hood
 - It has printed the trefoil logo on right chest
-- The cuffs and hem have a ribbed construction for a snug fit
 - Contrasting piping on the sleeves
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HRJKMC/?tag=tolees-21)
