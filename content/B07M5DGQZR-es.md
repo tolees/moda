@@ -28,8 +28,8 @@ Tienes [Lee Scarlett Cropped Vaqueros skinny  Azul  Clean Say Jj   24/31 para Mu
 
 ℹ️:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para mujer
 - Estilo 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07M5DGQZR/?tag=tolees-21)
