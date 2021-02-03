@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Jenna Shirt LS Camisa Reg al 29.97 % de rebaja'
-date: 2021-01-31 19:41:43
+date: 2021-02-03 08:58:43
 image: 'https://m.media-amazon.com/images/I/31+NELKgjkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Tommy Hilfiger Jenna Shirt LS Camisa Regular fit  Blanco  Classic White 
 
 🔎:
 
-- Estación: Otoño/Invierno
-- Designer: TOMMY HILFIGER
 - Color: WHITE
 - Artículo: 1M87647512 JENNA
+- Designer: TOMMY HILFIGER
+- Estación: Otoño/Invierno
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00OBIC9AG/?tag=tolees-21)
