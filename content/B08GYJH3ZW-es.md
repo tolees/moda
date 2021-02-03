@@ -28,10 +28,10 @@ En este momento está [Hurley M One&Only Crew Sudadera Lt British Tan  S](https:
 
 🔎:
 
+- Casual
 - Cierre: Pull On
 - Material: 80% algodón, 20% poliéster
-- Casual
-- Lavar a máquina
 - Sudadera hurley one&only
+- Lavar a máquina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GYJH3ZW/?tag=tolees-21)
