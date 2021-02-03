@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway Chaqueta de hombre B con un 49.60 % de descuento'
-date: 2021-01-21 17:25:40
+date: 2021-02-03 17:36:11
 image: 'https://m.media-amazon.com/images/I/415gMUYf3RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Chaqueta de hombre BOKER CAQUI talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08MNVGNHV/?tag=tolees-21'
 descuento: '49.60'
 average: '49.9'
