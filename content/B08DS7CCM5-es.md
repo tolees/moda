@@ -28,9 +28,9 @@ Tienes [Hurley M Icon Slash Gradient S/S tee Camiseta  Hombre  Ozone Blue](https
 
 ℹ️:
 
-- Lisos: 100 % algodón; jaspeados: 52 % algodón/48 % poliéster
 - Tejido premium
-- Producto de la marca Hurley
 - Estampado de tacto suave
+- Lisos: 100 % algodón; jaspeados: 52 % algodón/48 % poliéster
+- Producto de la marca Hurley
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DS7CCM5/?tag=tolees-21)

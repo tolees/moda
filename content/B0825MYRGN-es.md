@@ -30,8 +30,8 @@ Tienes [Quiksilver First Fire - Camiseta para Hombre Screen tee  Hombre  Kalamat
 
 - Cuello redondo y serigrafía en parte delantera
 - Corte normal
-- Cómodo
 - Camiseta Para hombre
+- Cómodo
 - Clásico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825MYRGN/?tag=tolees-21)
