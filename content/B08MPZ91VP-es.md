@@ -28,8 +28,8 @@ Está [Geographical Norway Chaqueta de hombre BOKER CAQUI talla M](https://www.a
 
 ℹ️:
 
-- pelo destomtable
-- Capucha
 - Chaqueta de hombre
+- Capucha
+- pelo destomtable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MPZ91VP/?tag=tolees-21)

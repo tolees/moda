@@ -29,7 +29,7 @@ En este momento está [Levi s 511 Slim Vaqueros  East Lake Adv  26W / 30L para H
 🔎:
 
 - Estilo esbelto con confort añadido
-- Corte ajustado de la cadera al tobillo
 - Diseño de cinco bolsillos
+- Corte ajustado de la cadera al tobillo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RZLJT18/?tag=tolees-21)
