@@ -29,8 +29,8 @@ Tienes [Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Azul  Navy Blazer  
 🔎:
 
 - Estación: Continua
-- Material: Algodón
 - Artículo: 12136884
+- Material: Algodón
 - Color: azul
 - Designer: JACK&JONES
 
