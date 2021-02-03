@@ -28,10 +28,10 @@ Está [Columbia Tech Trek Pantalón De Senderismo  Unisex Niños  Gris  Grey Ash
 
 ℹ️:
 
-- 1 x Columbia Youth Hiking Trousers, Tech Trek, Polyester, Grey Ash, XL, Art. 1887412
-- TPU detail for stain resistance, comfort and storage space thanks to hand pockets, back pockets and a side leg pocket
 - Partial elastic construction at waist and four-way comfort stretch fabric for a range of mobility, sizing and layering needs
+- TPU detail for stain resistance, comfort and storage space thanks to hand pockets, back pockets and a side leg pocket
 - UPF 50 sun protection thanks to Omni-Shade technology, enhanced water-repellence thanks to Omni-Shield technology
 - Girls technical trousers ideal for outdoor activities, breathable, water-combative fabric with important protection from UV rays
+- 1 x Columbia Youth Hiking Trousers, Tech Trek, Polyester, Grey Ash, XL, Art. 1887412
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081BJDG6M/?tag=tolees-21)

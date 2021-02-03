@@ -28,13 +28,13 @@ Tienes [Havaianas Brasil Logo Chanclas Unisex Adulto  Azul  Marine Blue   37/38 
 
 🔎:
 
-- Cierre: Sin cordones
-- Resistente al agua
-- Material exterior: Caucho
 - Composición: Goma
-- Anchura del zapato: Normal
-- Material de la suela: Goma
 - Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
+- Anchura del zapato: Normal
+- Material exterior: Caucho
 - Tipo de tacón: Plano
+- Resistente al agua
+- Material de la suela: Goma
+- Cierre: Sin cordones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007WPOB4C/?tag=tolees-21)

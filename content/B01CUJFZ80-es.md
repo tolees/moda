@@ -28,7 +28,7 @@ Tienes [Helly Hansen Crew Insulator - Chaqueta para hombre  Negro  Ebony   L](ht
 
 ℹ️:
 
-- Instrucciones de cuidado: Lavar a máquina
 - Tipo de fábrica: 100% Poliéster
+- Instrucciones de cuidado: Lavar a máquina
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CUJFZ80/?tag=tolees-21)

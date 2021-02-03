@@ -28,10 +28,10 @@ Tienes [Roxy Coast Road - Chaqueta Con Acolchado  Resistente Al Agua  Ligera Y P
 
 ℹ️:
 
-- Tejido: poliéster repelente al agua [37 g/M2]
 - Bolsillos: bolsillos laterales
-- Cierre: cierre frontal con cremallera; parche Roxy de tela en la manga; petate plegable con tela a juego
-- Corte: Corte normal, clásico, cómodo
 - Tejido interior: acolchado total con forro de tela a juego
+- Corte: Corte normal, clásico, cómodo
+- Tejido: poliéster repelente al agua [37 g/M2]
+- Cierre: cierre frontal con cremallera; parche Roxy de tela en la manga; petate plegable con tela a juego
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895LGQRD/?tag=tolees-21)
