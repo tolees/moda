@@ -28,11 +28,11 @@ Ahora mismo tienes [Crocs Classic U  Zuecos con Correa Trasera Unisex Adulto  Am
 
 🔎:
 
-- Revestimiento: Sin forro
-- Composición: Sintético
-- Material de la suela: Sintético
-- Tipo de tacón: Plano
 - Cierre: Tira de tobillo
+- Revestimiento: Sin forro
 - Material exterior: Espuma
+- Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Composición: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B010PELU2W/?tag=tolees-21)

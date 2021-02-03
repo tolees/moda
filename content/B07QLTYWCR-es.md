@@ -28,10 +28,10 @@ Ahora mismo tienes [Barbie BMR 1959 Muñeca de Moda  look Chaqueta Transparente 
 
 🔎:
 
-- Las gafas de sol de esta muñeca bmr 1959, tienen forma de ojo de gato, los glamurosos pendientes con el logotipo y una larguísima coleta con algunos mechones sueltos completan el look
-- Muñeca de moda barbie de la colección bmr1959 totalmente articulada, con curvas, morena, con una bomber de vinilo transparente y vestido con sudadera de flores, con accesorios y peana de exposición, para mayores de 6 años
-- Esta muñeca de la colección bmr1959 lleva un vestido con capucha floral, bomber de vinilo transparente y botas metálicas
 - La caja de la muñeca bmr 1959 concertificación fsc y diseñada especialmente para esta colección se ha fabricado con materiales obtenidos de manera responsable
 - La colección bmr1959 celebra el 60 aniversario del legado de moda de barbara «barbie» millicent roberts con una colección dedicada a la expresión personal y al estilo propio
+- Las gafas de sol de esta muñeca bmr 1959, tienen forma de ojo de gato, los glamurosos pendientes con el logotipo y una larguísima coleta con algunos mechones sueltos completan el look
+- Esta muñeca de la colección bmr1959 lleva un vestido con capucha floral, bomber de vinilo transparente y botas metálicas
+- Muñeca de moda barbie de la colección bmr1959 totalmente articulada, con curvas, morena, con una bomber de vinilo transparente y vestido con sudadera de flores, con accesorios y peana de exposición, para mayores de 6 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QLTYWCR/?tag=tolees-21)
