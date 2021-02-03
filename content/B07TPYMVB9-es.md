@@ -28,8 +28,8 @@ Tienes [Clarks Atticus Cap  Zapatos de Cordones Derby Hombre  Beige  Dark Sand S
 
 🔎:
 
-- Exterior: piel
 - Interior: textil
+- Exterior: piel
 - plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TPYMVB9/?tag=tolees-21)

@@ -29,7 +29,7 @@ Tienes [Goodthreads Slim-Fit Long-Sleeve Solid Oxford Shirt Camisa  Azul  Indigo
 🔎:
 
 - Esta camisa clásica y elegante está hecha de nuestro algodón moteado para un resultado suave y robusto
-- El modelo mide 1m85 y lleva una talla mediana.
 - Corte ajustado: cerca del cuerpo al nivel del pecho, ligeramente acampanado en la cintura para un look sofisticado
+- El modelo mide 1m85 y lleva una talla mediana.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KGE5K04/?tag=tolees-21)
