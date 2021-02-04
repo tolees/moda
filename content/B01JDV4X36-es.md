@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Killington  Zapatillas Hombre al 49.63 % de descuento'
-date: 2021-01-27 18:02:29
+date: 2021-02-04 08:22:38
 image: 'https://m.media-amazon.com/images/I/41yDB1CBWaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Timberland Killington  Zapatillas Hombre  Amarillo Wheat Nubuck  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B01JDV4X36/?tag=tolees-21'
 descuento: '49.63'
 average: '68.0'

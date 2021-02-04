@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.52 % en Esprit 990ee1f301 Blusa  Blanco  White 1'
-date: 2021-02-03 08:51:21
+date: 2021-02-04 09:08:08
 image: 'https://m.media-amazon.com/images/I/31-jwKasd8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Esprit 990ee1f301 Blusa  Blanco  White 100   40  Talla del Fabricante: 3
 
 ℹ️:
 
-- Blusa ligera con textura
 - Las mangas se pueden remangar y fijar mediante una presilla con botón
+- Blusa ligera con textura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YKTN185/?tag=tolees-21)
