@@ -28,7 +28,7 @@ Tienes [Esprit 990ee1f301 Blusa  Blanco  White 100   40  Talla del Fabricante: 3
 
 ℹ️:
 
-- Las mangas se pueden remangar y fijar mediante una presilla con botón
 - Blusa ligera con textura
+- Las mangas se pueden remangar y fijar mediante una presilla con botón
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YKTN185/?tag=tolees-21)
