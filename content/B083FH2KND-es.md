@@ -28,9 +28,9 @@ Ahora mismo tienes [Lacoste Ch2945 Camisa  Blanc/Bordeaux  39 para Hombre](https
 
 🔎:
 
+- Algodón Oxford
 - Cocodrilo verde bordado en el bolsillo del pecho
 - Cuello camisero abotonado
-- Algodón Oxford
 - Bolsillo de plastrón en el pecho y botones de nácar
 - Regular fit
 
