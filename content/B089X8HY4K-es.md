@@ -28,8 +28,8 @@ Tienes [Levi s SS Original HM tee Camiseta  Pop Stripe Port  XL para Hombre](htt
 
 🔎:
 
-- Adecuada para el día a día
 - Logotipo pequeño de Levis en el pecho
 - Modelo casual
+- Adecuada para el día a día
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089X8HY4K/?tag=tolees-21)
