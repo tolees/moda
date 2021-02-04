@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvg Sweatshirt Dress Vestido al 44.00 % de descuento'
-date: 2021-01-28 09:02:43
+date: 2021-02-04 20:02:41
 image: 'https://m.media-amazon.com/images/I/410CB33OsiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Levi s Kids Lvg Sweatshirt Dress Vestido Bebé-Niñas Gray Heather 36 meses'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Levis kids'
 buyurl: 'https://www.amazon.es/dp/B086Z7LRDP/?tag=tolees-21'
 descuento: '44.00'
 average: '22.4'
