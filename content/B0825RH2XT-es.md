@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GEOX U NEBULA 4 X 4 B ABX NAVY Men s Tra al 50.00 % de descuento'
-date: 2021-01-23 16:50:34
+date: 2021-02-05 06:55:57
 image: 'https://m.media-amazon.com/images/I/31ENVb0ZbUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'GEOX U NEBULA 4 X 4 B ABX NAVY Men s Trainers Low-Top Trainers size 42 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B0825RH2XT/?tag=tolees-21'
 descuento: '50.00'
 average: '72.5'
