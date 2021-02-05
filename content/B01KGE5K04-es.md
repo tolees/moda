@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goodthreads Slim-Fit Long-Sleeve Solid O al 27.17 % de rebaja'
-date: 2021-02-04 03:02:37
+date: 2021-02-05 03:28:13
 image: 'https://m.media-amazon.com/images/I/415+ilGcG6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Goodthreads'
 buyurl: 'https://www.amazon.es/dp/B01KGE5K04/?tag=tolees-21'
 descuento: '27.17'
-average: '7.15248000000002'
+average: '7.12425196850396'
 ---
 
 Tienes [Goodthreads Slim-Fit Long-Sleeve Solid Oxford Shirt Camisa  Azul  Indigo   Small](https://www.amazon.es/dp/B01KGE5K04/?tag=tolees-21) con precio final de  5.36 EUR (original: 7.36 EUR) (27.17 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Goodthreads Slim-Fit Long-Sleeve Solid Oxford Shirt Camisa  Azul  Indigo
 
 🔎:
 
+- El modelo mide 1m85 y lleva una talla mediana.
 - Corte ajustado: cerca del cuerpo al nivel del pecho, ligeramente acampanado en la cintura para un look sofisticado
 - Esta camisa clásica y elegante está hecha de nuestro algodón moteado para un resultado suave y robusto
-- El modelo mide 1m85 y lleva una talla mediana.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KGE5K04/?tag=tolees-21)
