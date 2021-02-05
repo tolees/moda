@@ -28,7 +28,7 @@ En este momento está [Havaianas Slim Crystal Glamour SW  Chanclas para Mujer  N
 
 🔎:
 
-- Material: Obermaterial: Kautschuk, Sohle: Gummi
 - Gender: Women
+- Material: Obermaterial: Kautschuk, Sohle: Gummi
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00428LTYW/?tag=tolees-21)
