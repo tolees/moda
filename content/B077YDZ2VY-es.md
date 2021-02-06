@@ -28,8 +28,8 @@ Ahora mismo tienes [HIKARO Sudadera con Print Hombre  Gris  Charcoal Marl   52  
 
 🔎:
 
+- Print en la parte delantera
 - Manga ranglán
 - Puño y bajo elástico
-- Print en la parte delantera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077YDZ2VY/?tag=tolees-21)
