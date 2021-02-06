@@ -28,11 +28,11 @@ Tienes [NIKE M NK Trophy IV JSY SS Camiseta de Manga Corta  Hombre  White/Black/
 
 🔎:
 
+- M nk trophy iv jsy ss
+- Maximum comfort
 - Nike dry fabric
 - 100% poliéster, 100% poliéster
-- Regular fit
-- M nk trophy iv jsy ss
 - Manga corta
-- Maximum comfort
+- Regular fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WC41P9P/?tag=tolees-21)
