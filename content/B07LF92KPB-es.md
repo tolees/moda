@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Slim 2Pk Crewneck 1 Camiseta  Two-Pack tee Black + Bl
 
 🔎:
 
-- See product description below for more information.
 - Brand New and Genuine. We are an authorised seller of Levis.
 - Levis Black Slim 2 Pack Crew T-Shirts
+- See product description below for more information.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LF92KPB/?tag=tolees-21)

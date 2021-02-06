@@ -29,8 +29,8 @@ Está [Puma 655921 05  Camiseta de Manga Larga Infantil  Azul  Electric Blue Lem
 ℹ️:
 
 - Logotipo del felino PUMA en la parte derecha del pecho
-- Ropa de compresión ligera
 - El elastano contenido proporciona elasticidad duradera y mejora la libertad de movimiento
+- Ropa de compresión ligera
 - Las capas pegadas a la piel están diseñadas para trabajar con al sistema natural del cuerpo y potenciar al máximo el rendimiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078C6ZJYF/?tag=tolees-21)
