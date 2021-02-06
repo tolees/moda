@@ -30,8 +30,8 @@ Está [Helly Hansen W Lifa Crew  camiseta de deporte interior para dama  con man
 
 - Camiseta de deporte que se ajusta a la silueta femenina; ceñida al cuerpo y diseñada para una mayor comodidad gracias a sus costuras planas y a su tejido elástico natural
 - Contenido de envío: 1x Helly Hansen HH Lifa Crew Camiseta interior deportiva con mangas largas y a rayas para mujer, color negro, talla XS
-- Puede ser usada como prenda en lo meses cálidos y como camiseta interior en los meses más fríos. Adecuada para la práctica de deportes como la vela, trekking, esquí o senderismo
 - Camiseta interior deportiva de mujer HH Lifa Stripe Crew ligera y transpirable para uso diario; ofrece tanto comodidad como aislamiento ligero durante todas las épocas del año
 - Descubre la tecnología Lifa: ayuda a alejar la humedad de la piel transportándola hasta la superficie del tejido para mantenerte seco y cómodo
+- Puede ser usada como prenda en lo meses cálidos y como camiseta interior en los meses más fríos. Adecuada para la práctica de deportes como la vela, trekking, esquí o senderismo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XHCZ5R6/?tag=tolees-21)
