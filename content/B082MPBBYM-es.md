@@ -28,8 +28,8 @@ Ahora mismo tienes [Geographical Norway Parka Hombre Boomerang Camo](https://www
 
 🔎:
 
-- Cierre cremallera parte central
-- Capucha
 - Bolsillos
+- Capucha
+- Cierre cremallera parte central
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082MPBBYM/?tag=tolees-21)

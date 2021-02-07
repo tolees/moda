@@ -28,11 +28,11 @@ Está [Pepe Jeans West Sir Camiseta  Rojo  Merlot 297   Large para Hombre](https
 
 ℹ️:
 
-- Fit slim
-- Manga corta
-- Logo impreso delante
-- Cuello redondo
 - Camiseta de algodón
 - Efecto desgastado
+- Cuello redondo
+- Manga corta
+- Logo impreso delante
+- Fit slim
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZHMJBN6/?tag=tolees-21)
