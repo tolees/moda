@@ -31,7 +31,7 @@ Ahora mismo tienes [Skechers On The Go 600 15316-bbk 15316  Sandalias Deportivas
 - Cierre de velcro ajustable en el empeine
 - Cierres deslizantes dobles en el frontal con trabilla lateral unida
 - Tiras de tejido con sutil motivo perforado de rayas
-- Parte superior de malla con suave textura de piqué liso
 - Cierre de talón acolchado
+- Parte superior de malla con suave textura de piqué liso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072T2VSVL/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway Parka BOOMERA Mujer  al 49.60 % de rebaja'
-date: 2021-01-22 18:28:04
+date: 2021-02-07 02:01:21
 image: 'https://m.media-amazon.com/images/I/41pOSVJ8DKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Parka BOOMERA Mujer Caqui Talla XL'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08PZBNJS4/?tag=tolees-21'
 descuento: '49.60'
 average: '49.9'
@@ -27,7 +28,7 @@ Tienes [Geographical Norway Parka BOOMERA Mujer Caqui Talla XL](https://www.amaz
 
 🔎:
 
-- Capucha
 - pelo destomtable
+- Capucha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PZBNJS4/?tag=tolees-21)

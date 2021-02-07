@@ -28,10 +28,10 @@ Tienes [Camiseta Tercera Equipación Oficial Adulto  XXL Girona FC 2019-20](http
 
 ℹ️:
 
-- Tecnología dryCell: material altamente funcional que evacúa el sudor
-- Parche de manga La liga
-- Escudo del club tejido
-- Camiseta tercera equipación oficial  Adulto, de Girona FC Puma para la temporada 2019-2020
 - La camiseta Puma de la tercera equipación del Girona FC, temporada 2019/20 combina estilo y categoría. Los tonos violetas y negros se combinan para crear un diseño difuminado genial
+- Camiseta tercera equipación oficial  Adulto, de Girona FC Puma para la temporada 2019-2020
+- Escudo del club tejido
+- Parche de manga La liga
+- Tecnología dryCell: material altamente funcional que evacúa el sudor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VN95PLH/?tag=tolees-21)
