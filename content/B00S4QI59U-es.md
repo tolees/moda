@@ -28,7 +28,7 @@ Tienes [Ray-Ban Justin RB4165 - Gafas de sol Unisex  Negro  Blue 622/55   51 mm]
 
 🔎:
 
-- Justin RB4165
 - Negro (Blue 622/55)
+- Justin RB4165
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00S4QI59U/?tag=tolees-21)
