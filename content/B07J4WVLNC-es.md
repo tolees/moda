@@ -28,7 +28,7 @@ Tienes [Only Onlsugar Fallow L/s Shirt Noos Wvn Blusa  Cloud Dancer/Stripes:Nigh
 
 🔎:
 
-- pattern: stripe mixture
 - shirt with pocket
+- pattern: stripe mixture
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07J4WVLNC/?tag=tolees-21)
