@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Canadian Peak Parka Hombre Antidote Caqu al 53.57 % de descuento'
-date: 2021-01-20 16:47:22
+date: 2021-02-08 20:14:13
 image: 'https://m.media-amazon.com/images/I/41aMI7OK3RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0831PPWZX-es Canadian Peak Parka Hombre Antidote Caqui S'
+sku: 'B0831PPWZX-es'
 tags: [ 'parka', ]
 actualPrice: 59.9 EUR
 currency: EUR
@@ -15,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Canadian Peak Parka Hombre Antidote Caqui S'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Canadian Peak'
 buyurl: 'https://www.amazon.es/dp/B0831PPWZX/?tag=tolees-21'
 descuento: '53.57'
 average: '59.9'
