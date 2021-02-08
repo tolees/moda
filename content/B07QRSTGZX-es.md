@@ -28,10 +28,10 @@ Ahora mismo tienes [Occffy Cintura Alta Pantalón Deportivo de Mujer Leggings pa
 
 🔎:
 
-- ✉ BUENA TRANSPIRABLE - Costuras están reforzadasen, secado rápido, transpirable y no transparente. un termino medio ni fina ni gruesa por lo que nos servirá para todas las estaciones del año.
 - ✉ SUPER ESTIRABLE CON GRAN FLEXIBILIDAD - Perfecto para yoga, fitness, crossfit, cualquier otro tipo de entrenamiento o simple uso diario.
-- ✉ CONTORNO - Cintura alta, contornea sus curvas y resalta su forma natural.
-- ✉ CUATRO VÍAS - Tejido elástico de cuatro vías, secado rápido, transpirable y no transparente.
 - ✉ Diseñado para reducir al máximo el desplazo, que además ayudará a mantener sus llaves, tarjetas o monedas en su pequeño bolsillo sin riesgo a perderlas durante su ejercicio.
+- ✉ CONTORNO - Cintura alta, contornea sus curvas y resalta su forma natural.
+- ✉ BUENA TRANSPIRABLE - Costuras están reforzadasen, secado rápido, transpirable y no transparente. un termino medio ni fina ni gruesa por lo que nos servirá para todas las estaciones del año.
+- ✉ CUATRO VÍAS - Tejido elástico de cuatro vías, secado rápido, transpirable y no transparente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QRSTGZX/?tag=tolees-21)
