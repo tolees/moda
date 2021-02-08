@@ -28,7 +28,7 @@ Ahora mismo tienes [Canadian Peak Sudadera GALÁPAGOS de Hombre Azul ELÉCTRICO 
 
 🔎:
 
-- con capucha
 - Bolsillos
+- con capucha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N2PSGRR/?tag=tolees-21)
