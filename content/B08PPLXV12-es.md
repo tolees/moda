@@ -28,7 +28,7 @@ Ahora mismo tienes [Canadian Peak Sudadera GALÁPAGOS de Hombre Verde Talla L](h
 
 🔎:
 
-- con capucha
 - Bolsillos
+- con capucha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PPLXV12/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.74 % en BOSS Trunk CO/EL Bóxer  Negro  Black 001'
-date: 2021-02-07 09:50:07
+date: 2021-02-08 09:58:59
 image: 'https://m.media-amazon.com/images/I/419wXeg9NSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BOSS'
 buyurl: 'https://www.amazon.es/dp/B01JZD7Q90/?tag=tolees-21'
 descuento: '25.74'
-average: '31.0843589743588'
+average: '31.0854621848738'
 ---
 
 Tienes [BOSS Trunk CO/EL Bóxer  Negro  Black 001   Medium  Pack de 3  para Hombre](https://www.amazon.es/dp/B01JZD7Q90/?tag=tolees-21) con un 25.74 % de descuento con precio de oferta de 31.15 EUR (original: 41.95 EUR) en el siguiente enlace!
