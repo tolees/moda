@@ -29,9 +29,9 @@ En este momento está [TTYAOVO Vestido de Tul de Fiesta de Princesa de Manga Lar
 🔎:
 
 - Cuidado de la ropa: se recomienda lavar a mano con agua fría. No usar lejía, colgar o secar. Secar rápidamente.
-- Consulte nuestra información de tamaño en la imagen izquierda de la tabla de tallas detalladas antes de realizar el pedido. Tabla de tallas significa rangos de edad para el bebé, pero son solo para orientación general.
 - Material de mezcla de algodón poliéster, diseños de moda para niñas.
 - Características: se pueden seleccionar siete estilos diferentes de vestidos de manga larga, lunares, estampados de renos, diseño de estrellas, rayas de moda, haga que su bebé se ponga más de moda, atractivo, hermoso, a sus hijos les gustará como un regalo de princesa.
+- Consulte nuestra información de tamaño en la imagen izquierda de la tabla de tallas detalladas antes de realizar el pedido. Tabla de tallas significa rangos de edad para el bebé, pero son solo para orientación general.
 - Ocasión: fiesta de Halloween, Navidad, fiesta de cumpleaños, fiesta, desfile, desfile, fiesta temática, ceremonia, actuación en el escenario, espectáculo de danza, sesión de fotos, reunión familiar, banquete, evento formal, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z3G3LDX/?tag=tolees-21)

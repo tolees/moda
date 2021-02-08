@@ -28,8 +28,8 @@ Está [Geox U Regale A  Zapatillas Hombre  Negro  Black C9999   45 EU](https://w
 
 ℹ️:
 
-- Suela: sintética
 - Material exterior: textil
 - Interior: textil
+- Suela: sintética
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SSJTTD1/?tag=tolees-21)

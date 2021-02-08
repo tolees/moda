@@ -28,7 +28,7 @@ Está [Seafolly Twist Soft Cup Halter Parte de Arriba de Bikini  Azul  Indigo In
 
 ℹ️:
 
-- Copas blandas con refuerzo extraíble
 - Se ata en el cuello y la espalda
+- Copas blandas con refuerzo extraíble
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N6S1NLU/?tag=tolees-21)
