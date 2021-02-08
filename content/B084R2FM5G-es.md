@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Felt Applique Logo Slim Camiseta  azufre Verde C336-5164  X-S
 
 ℹ️:
 
-- Cuello redondo acanalado
-- Manga corta recta insertada con puño ancho
 - Etiqueta de G-Star Originals tejida en la parte inferior delantera
-- Bajo recto
 - Aplicación de fieltro en el pecho
+- Manga corta recta insertada con puño ancho
+- Bajo recto
+- Cuello redondo acanalado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084R2FM5G/?tag=tolees-21)
