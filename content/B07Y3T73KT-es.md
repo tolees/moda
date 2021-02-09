@@ -28,7 +28,7 @@ En este momento está [Only 15174274 Chaqueta Punto  Negro  Black Black   40  Ta
 
 🔎:
 
-- knit jacket
 - cardigan
+- knit jacket
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y3T73KT/?tag=tolees-21)
