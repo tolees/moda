@@ -29,9 +29,9 @@ Tienes [adidas Club 3STR Polo Camiseta  Hombre  White/Black  M](https://www.amaz
 🔎:
 
 - Designed with a regular fit that offers perfect balance of freedom of movement
-- It has a classic polo collar with concealed placket for a clean style
 - Crafted with the Climacool technology that keeps you dry
-- It has short sleeves for better range of motion
 - The three stripes and the adidas logo offer an authentic style
+- It has short sleeves for better range of motion
+- It has a classic polo collar with concealed placket for a clean style
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KL3LHD4/?tag=tolees-21)

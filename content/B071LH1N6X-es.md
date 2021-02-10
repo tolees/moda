@@ -30,8 +30,8 @@ Está [Under Armour Woven Graphic Wordmark Shorts Pantalones de hombre  pantaló
 
 - Transpirable y ligero – El material ligero de este pantalón de gimnasia para hombre garantiza una absoluta comodidad y, además, es transpirable
 - Ultraligeros – Estos pantalones para hacer deporte son robustos y ligeros y, gracias a su diseño ancho, son también extremadamente cómodos
+- Material y forma – Pantalón de hombre Under Armour Woven Graphic Wordmark Shorts, entrepierna – 20 cm, forma – ancha, material – 100% de poliéster
 - Anchos – Estos innovadores pantalones cortos para correr proporcionan una gran movilidad, son extremadamente resistentes y se secan muy rápido
 - Elegantes y prácticos – Estos pantalones cortos de hombre tienen bolsillos laterales, cintura elástica recubierta, cordón interior y un logo lateral
-- Material y forma – Pantalón de hombre Under Armour Woven Graphic Wordmark Shorts, entrepierna – 20 cm, forma – ancha, material – 100% de poliéster
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071LH1N6X/?tag=tolees-21)
