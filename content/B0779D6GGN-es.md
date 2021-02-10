@@ -28,7 +28,7 @@ Está [adidas Ask SPRT LST M Camiseta de Manga Larga  Hombre  Power Red](https:/
 
 ℹ️:
 
-- Rojo
 - adulto
+- Rojo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0779D6GGN/?tag=tolees-21)
