@@ -28,8 +28,8 @@ En este momento está [Jack & Jones JJEJEANS tee SS Crew Neck Noos 20/21 Camiset
 
 🔎:
 
+- Camiseta básica con logotipo impreso
 - Corte ajustado
 - Algodón suave
-- Camiseta básica con logotipo impreso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089NHW8TW/?tag=tolees-21)

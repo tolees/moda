@@ -29,7 +29,7 @@ En este momento está [Jack & Jones Jones - Camiseta de manga corta con cuello r
 🔎:
 
 - Modelo: 12058529 BASIC O-NECK TEE SS NOOS
-- Marca: JACK&JONES
 - Camiseta de manga corta de color blanco. Cuello redondo.
+- Marca: JACK&JONES
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0085SFY8W/?tag=tolees-21)
