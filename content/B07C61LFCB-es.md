@@ -28,7 +28,7 @@ Está [Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Verde  Olive Night  
 
 ℹ️:
 
-- Suéter con capucha con cremallera
 - Algodón de alta calidad
+- Suéter con capucha con cremallera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C61LFCB/?tag=tolees-21)
