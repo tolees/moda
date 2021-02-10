@@ -28,7 +28,7 @@ Tienes [Geographical Norway Parka BOOMERA Mujer Rosa Claro Talla XL](https://www
 
 🔎:
 
-- Capucha
 - pelo destomtable
+- Capucha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08QCT5PM4/?tag=tolees-21)
