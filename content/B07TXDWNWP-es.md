@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Graphic tee Camiseta  Black  Boxtab SS T2 Mineral Bla
 
 🔎:
 
-- Designer: Levis
 - Color:
+- Designer: Levis
 - Season: Spring/Summer
 - Item: 85785
 

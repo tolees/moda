@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IEFIEL Niñas Vestido Princesa Largo de F con un 50.02 % de descuento'
-date: 2021-02-02 19:02:31
+date: 2021-02-10 20:05:07
 image: 'https://m.media-amazon.com/images/I/315NTsFdsnL._SL200_.jpg'
 comments: true
 category: ofertas
