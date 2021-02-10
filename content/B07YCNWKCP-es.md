@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvb Batwing Crewneck Sudader al 20.29 % de descuento'
-date: 2021-02-03 17:05:10
+date: 2021-02-10 13:43:44
 image: 'https://m.media-amazon.com/images/I/41Yg86oZv5L._SL200_.jpg'
 comments: true
 category: ofertas
