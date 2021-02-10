@@ -29,7 +29,7 @@ En este momento está [Pepe Jeans Owen Camiseta  Blanco  802   14 años para Ni�
 🔎:
 
 - Fabricada en tejido suave
-- Camiseta para niños
 - Con estampado frontal y trasero
+- Camiseta para niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0846FCZK3/?tag=tolees-21)
