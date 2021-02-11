@@ -28,8 +28,8 @@ Está [Levi s Graphic Camiseta  84 Sportswear Logo Blue Dress Blues  L para Homb
 
 ℹ️:
 
-- Modelo casual
-- Con el logotipo deportivo de Levis
 - Fabricada en tejido ligero
+- Con el logotipo deportivo de Levis
+- Modelo casual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071VLQG6M/?tag=tolees-21)

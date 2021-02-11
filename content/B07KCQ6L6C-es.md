@@ -29,7 +29,7 @@ Está [adidas T19 TRK JKT W Chaqueta de Deporte  Mujer  Power Red/White  2XS](ht
 ℹ️:
 
 - Regular fit
-- Crew-neck design
 - Soft fabric
+- Crew-neck design
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KCQ6L6C/?tag=tolees-21)

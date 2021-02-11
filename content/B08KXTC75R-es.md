@@ -29,8 +29,8 @@ Tienes [Jack & Jones - Jack&Jones JJECORP Logo Sweat Hood Noos Sudadera con Capu
 ℹ️:
 
 - Especialmente suave y cálida.
+- Composición del material: 70 % algodón, 30 % poliéster.
 - Con el clásico logotipo impreso.
 - Sudadera de corte regular.
-- Composición del material: 70 % algodón, 30 % poliéster.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KXTC75R/?tag=tolees-21)
