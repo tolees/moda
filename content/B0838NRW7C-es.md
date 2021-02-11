@@ -29,8 +29,8 @@ Ahora mismo tienes [Jack & Jones Jjerush Bomber Noos Chaqueta  Negro  XL para Ho
 🔎:
 
 - Bolsillos con cremallera para todas tus cosas.
-- Composición del material: material exterior: 100% poliéster; forro: 100% poliéster.
 - Chaqueta bomber clásica.
+- Composición del material: material exterior: 100% poliéster; forro: 100% poliéster.
 - Dobladillo, puños y cuello acanalados.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0838NRW7C/?tag=tolees-21)
