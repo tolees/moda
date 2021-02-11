@@ -28,13 +28,13 @@ Tienes [Geox U New Damon B  Mocasines para Hombre  Negro  BLACKC9999   39 EU](ht
 
 ℹ️:
 
+- Material exterior: Cuero
 - Tipo de talla:Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Revestimiento: Cuero
-- Anchura del zapato: Normal
-- Altura del tacón: 3.0 centímetros
-- Cierre: Sin cordones
 - Tipo de tacón: Plano
+- Anchura del zapato: Normal
+- Cierre: Sin cordones
 - Material de la suela: Caucho
-- Material exterior: Cuero
+- Altura del tacón: 3.0 centímetros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01GWX255Q/?tag=tolees-21)
