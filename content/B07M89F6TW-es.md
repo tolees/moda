@@ -28,8 +28,8 @@ Está [Lee Luke Vaqueros  Moto Trashed Jr  27W / 32L para Hombre](https://www.am
 
 ℹ️:
 
-- Con cierre de cremallera y botón
 - Estilo 5 bolsillos
+- Con cierre de cremallera y botón
 - Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07M89F6TW/?tag=tolees-21)

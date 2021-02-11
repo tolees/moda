@@ -28,8 +28,8 @@ Ahora mismo tienes [Tous Kaos Shock - Bolso de Mano para Mujer  Azul Marino  32 
 
 🔎:
 
-- Con aplique metálico de la marca
 - Material exterior: Value not available
+- Con aplique metálico de la marca
 - Cierre: Sin cierre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NC1F2QP/?tag=tolees-21)
