@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Levi s The Jacket  Chaqueta vaquera  Azu al 38.34 % de rebaja'
-date: 2020-09-20 13:19:22
+title: 'Levi s The Jacket Chaqueta vaquera  Blue al 50.00 % de rebaja'
+date: 2021-02-11 04:47:48
 image: 'https://m.media-amazon.com/images/I/4151TUW3VAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2S5VX9-es Levi s The Jacket Chaqueta vaquera Azul Moon Lit Trucker...'
+slug: 'B07S2S5VX9-es Levi s The Jacket Chaqueta vaquera Blue Moon Lit Trucker...'
 sku: 'B07S2S5VX9-es'
 tags: [ 'chaqueta', ]
-actualPrice: 73.99 EUR
+actualPrice: 60.0 EUR
 currency: EUR
-price: 73.99
+price: 60.0
 comparePrice: 120.0 EUR
-prodname: 'Levi s The Jacket  Chaqueta vaquera  Azul  Moon Lit Trucker 0466   Medium para Hombre'
+prodname: 'Levi s The Jacket Chaqueta vaquera  Blue  Moon Lit Trucker 0466   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07S2S5VX9/?tag=tolees-21'
-descuento: '38.34'
-average: '63.23857142857142'
+descuento: '50.00'
+average: '62.0609090909091'
 ---
 
-Tienes [Levi s The Jacket  Chaqueta vaquera  Azul  Moon Lit Trucker 0466   Medium para Hombre](https://www.amazon.es/dp/B07S2S5VX9/?tag=tolees-21) con precio final de  73.99 EUR (original: 120.0 EUR) (38.34 %  de rebaja) aqui!
+Tienes [Levi s The Jacket Chaqueta vaquera  Blue  Moon Lit Trucker 0466   M para Hombre](https://www.amazon.es/dp/B07S2S5VX9/?tag=tolees-21) con precio final de  60.0 EUR (original: 120.0 EUR) (50.00 %  de rebaja) aqui!
 
-[![Levi s The Jacket  Chaqueta vaquera  Azu](https://m.media-amazon.com/images/I/4151TUW3VAL._SL200_.jpg)](https://www.amazon.es/dp/B07S2S5VX9/?tag=tolees-21)
+[![Levi s The Jacket Chaqueta vaquera  Blue](https://m.media-amazon.com/images/I/4151TUW3VAL._SL200_.jpg)](https://www.amazon.es/dp/B07S2S5VX9/?tag=tolees-21)
 
 🔎:
 
+- Manga larga con cierre de botón en los puños
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Bajo ajustable en el lateral
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S2S5VX9/?tag=tolees-21)
