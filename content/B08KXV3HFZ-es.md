@@ -29,8 +29,8 @@ En este momento está [Jack & Jones - Jack&Jones JJECORP Logo Sweat Hood Noos Su
 🔎:
 
 - Sudadera de corte regular.
-- Especialmente suave y cálida.
 - Con el clásico logotipo impreso.
+- Especialmente suave y cálida.
 - Composición del material: 70 % algodón, 30 % poliéster.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KXV3HFZ/?tag=tolees-21)
