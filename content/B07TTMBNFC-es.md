@@ -28,10 +28,10 @@ Ahora mismo tienes [VisSec - Trajes Colegiala de Cosplay  Sexy y Bonito Disfraz 
 
 🔎:
 
-- 💋 [TALLA ÚNICA] Por favor preste su atención a la talla antes de realizar el pedido. Busto: 90cm -- Falda Largo: 27cm -- Cintura: 72cm
 - 💋 [SÚPER ALTA CALIDAD] Disfraz bastante conseguido de bastante calidad, hecho del material de la alta calidad, elástico suave y cómodo usar.
-- 💋 [UN ARTÍCULO IMPRESCINDIBLE ENTRE PAREJAS] Le hacen súper sexy, seductora y atractivo a su amante y aderezando tu vida sexual. Perfecto como regalo en el Día San Valentín a su pareja.
-- 💋 [3 PIEZAS SEXY COLEGIALA] Cosplay estudiante uniformes disfraces conjunto de lencería, incluye la blusa, mini falda y corbata. Calcetines no están incluidos.
 - 💋 [DISEÑO FANTÁSTICO] Cuello en V, manga corta, recortada, cintura baja, cinta de fijación, falda Mini, cuadros patchwork, cordón, estilo sexy.
+- 💋 [UN ARTÍCULO IMPRESCINDIBLE ENTRE PAREJAS] Le hacen súper sexy, seductora y atractivo a su amante y aderezando tu vida sexual. Perfecto como regalo en el Día San Valentín a su pareja.
+- 💋 [TALLA ÚNICA] Por favor preste su atención a la talla antes de realizar el pedido. Busto: 90cm -- Falda Largo: 27cm -- Cintura: 72cm
+- 💋 [3 PIEZAS SEXY COLEGIALA] Cosplay estudiante uniformes disfraces conjunto de lencería, incluye la blusa, mini falda y corbata. Calcetines no están incluidos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTMBNFC/?tag=tolees-21)
