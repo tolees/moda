@@ -28,8 +28,8 @@ Tienes [Roxy RG Sandy  Zapatos de Playa y Piscina para Niñas  Azul  Pacific Blu
 
 ℹ️:
 
-- __Plantilla:__ Plantilla de goma texturizada con gráfico
-- __parte superior:__parte superior de TPU moldeado con pin ROXY
 - __Suela exterior:__ suela exterior de goma
+- __parte superior:__parte superior de TPU moldeado con pin ROXY
+- __Plantilla:__ Plantilla de goma texturizada con gráfico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07STWVJ5P/?tag=tolees-21)

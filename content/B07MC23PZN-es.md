@@ -28,8 +28,8 @@ En este momento está [Geox U Nebula Y A  Zapatillas Hombre  Azul  Navy C4002   
 
 🔎:
 
-- Plantilla extraíble de piel
-- Patente GEOX para transpirabilidad en el calzado
 - Suela antideslizante en color blanco
+- Patente GEOX para transpirabilidad en el calzado
+- Plantilla extraíble de piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MC23PZN/?tag=tolees-21)
