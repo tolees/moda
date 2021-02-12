@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Rider Jeans Vaqueros  Kick It  28W / al 49.97 % de descuento'
-date: 2021-02-11 07:20:32
+date: 2021-02-12 20:14:13
 image: 'https://m.media-amazon.com/images/I/41pYRCUo5dL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lee'
 buyurl: 'https://www.amazon.es/dp/B077NN6CDP/?tag=tolees-21'
 descuento: '49.97'
-average: '59.7058823529412'
+average: '59.1666666666667'
 ---
 
 Está [Lee Rider Jeans Vaqueros  Kick It  28W / 34L para Hombre](https://www.amazon.es/dp/B077NN6CDP/?tag=tolees-21) con 49.97 de descuento por 50.0 EUR (original: 99.95 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Lee Rider Jeans Vaqueros  Kick It  28W / 34L para Hombre](https://www.ama
 
 ℹ️:
 
-- Vaqueros para hombre
-- Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo 5 bolsillos
+- Vaqueros para hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077NN6CDP/?tag=tolees-21)
