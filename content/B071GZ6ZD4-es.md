@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jprnon Iron Shirt L/s Noos  al 33.76 % de rebaja'
-date: 2021-02-11 05:36:05
+date: 2021-02-12 10:52:42
 image: 'https://m.media-amazon.com/images/I/31kj+vCJSsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B071GZ6ZD4/?tag=tolees-21'
 descuento: '33.76'
-average: '26.8'
+average: '26.7932608695652'
 ---
 
 Tienes [Jack & Jones Jprnon Iron Shirt L/s Noos Camisa  Blanco  White Fit:Slim Fit   X-Large para Hombre](https://www.amazon.es/dp/B071GZ6ZD4/?tag=tolees-21) con precio final de  26.49 EUR (original: 39.99 EUR) (33.76 %  de rebaja) aqui!
