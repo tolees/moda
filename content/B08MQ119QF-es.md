@@ -29,7 +29,7 @@ Tienes [Geographical Norway Chaqueta de hombre BOKER ROJO talla XL](https://www.
 🔎:
 
 - pelo destomtable
-- Capucha
 - Chaqueta de hombre
+- Capucha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MQ119QF/?tag=tolees-21)

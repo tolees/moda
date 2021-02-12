@@ -28,8 +28,8 @@ Está [Levi s The Perfect Tee  Camiseta  Mujer  Negro  Caviar 2 0008   M](https:
 
 ℹ️:
 
-- Elaborada en punto suave
 - Con un discreto logo en el pecho
+- Elaborada en punto suave
 - Modelo casual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077VLKZP6/?tag=tolees-21)
