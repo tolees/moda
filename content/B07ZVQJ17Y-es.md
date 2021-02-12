@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Essential Western Camisa  Air Space  M para Mujer](ht
 
 🔎:
 
-- Con canesú trasero al estilo del oeste
 - Tapeta con corchetes en la parte delantera
 - Bolsillos con solapa y corchetes
+- Con canesú trasero al estilo del oeste
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVQJ17Y/?tag=tolees-21)

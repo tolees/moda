@@ -29,9 +29,9 @@ Ahora mismo tienes [Lacoste CH4976 Camisa  Azul  Hemisphere   Small  Talla del F
 🔎:
 
 - 100% algodón - Lavado suave a 40 - No se permite el blanqueamiento - No secar en secadora de tambor - Planchado a temperatura media máx. 150°. - Limpieza en seco - Secar horizontalmente - Lavado a la izquierda
+- Lacoste CH4976 Hombre Camisa manga larga,de caballero Camisa,con botones,a cuadros,normal
 - MATERIAL SUPERIOR: 100% ALGODÓN
 - Camisa de hombre Oxford 100% algodón con bolsillo en el pecho, cuello con botones y puños simples. Mano de obra de alta calidad! - Camisa de hombre Oxford - esporádico - manga larga - puños simples - forma del cuello: abotonado - botones de nácar - bolsillo del pecho - Inserción en el cuello - 100% algodón - llano - corte regular - cocodrilo lacoste verde
 - Tipo de cierre: botones,normal,manga larga
-- Lacoste CH4976 Hombre Camisa manga larga,de caballero Camisa,con botones,a cuadros,normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0797SHWJD/?tag=tolees-21)
