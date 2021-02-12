@@ -30,8 +30,8 @@ Tienes [G-STAR RAW Revend Skinny Vaqueros  Rinsed 8970-082  40W / 38L para Hombr
 
 - Talle medio
 - Cierre de botones y cremallera
+- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 - Prenda ajustada de arriba abajo
 - Construcción con cinco bolsillos y remaches de refuerzo
-- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BJHH4KG/?tag=tolees-21)
