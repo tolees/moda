@@ -28,9 +28,9 @@ Ahora mismo tienes [G-STAR RAW Base Htr R T S/s 2-Pack Camiseta  Negro  Solid Bl
 
 🔎:
 
-- Bajo recto
-- Manga corta
 - Bordado de G-Star RAW en el pecho
+- Manga corta
+- Bajo recto
 - Bordado de G-Star RAW en el pecho
 - Paquete de dos
 

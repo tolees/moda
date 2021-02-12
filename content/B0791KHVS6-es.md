@@ -28,10 +28,10 @@ Está [Clarks Arla Jacory  Sandalias de Talón Abierto Mujer  Negro  Black-   39
 
 ℹ️:
 
-- Textie Superior
-- Suela textil/sintética
 - Cierre de gancho y bucle
 - Forro sintético/textil
+- Textie Superior
 - Sandalias deportivas Clarks Slingback para mujer
+- Suela textil/sintética
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0791KHVS6/?tag=tolees-21)
