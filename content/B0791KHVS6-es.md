@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Clarks Arla Jacory  Sandalias de Talón A al 40.49 % de descuento'
-date: 2020-05-21 21:41:08
-image: 'https://m.media-amazon.com/images/I/41UZXjA7s+L._SL200_.jpg'
+title: 'Clarks Arla Jacory  Sandalias de Talón A al 43.04 % de descuento'
+date: 2021-02-12 21:26:49
+image: 'https://m.media-amazon.com/images/I/41ggT8sEMbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0791KHVS6-es Clarks Arla Jacory Sandalias de Talón Abierto para Mujer...'
+slug: 'B0791KHVS6-es Clarks Arla Jacory Sandalias de Talón Abierto Mujer Negro...'
 sku: 'B0791KHVS6-es'
 tags: [ 'sandalias', ]
-actualPrice: 32.7 EUR
+actualPrice: 31.3 EUR
 currency: EUR
-price: 32.7
+price: 31.3
 comparePrice: 54.95 EUR
-prodname: 'Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Negro  Black-   39 EU'
+prodname: 'Clarks Arla Jacory  Sandalias de Talón Abierto Mujer  Negro  Black-   39 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B0791KHVS6/?tag=tolees-21'
-descuento: '40.49'
-average: '32.7'
+descuento: '43.04'
+average: '32.0'
 ---
 
-Está [Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Negro  Black-   39 EU](https://www.amazon.es/dp/B0791KHVS6/?tag=tolees-21) con 40.49 de descuento por 32.7 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [Clarks Arla Jacory  Sandalias de Talón Abierto Mujer  Negro  Black-   39 EU](https://www.amazon.es/dp/B0791KHVS6/?tag=tolees-21) con 43.04 de descuento por 31.3 EUR (original: 54.95 EUR) en el siguiente enlace!
 
-[![Clarks Arla Jacory  Sandalias de Talón A](https://m.media-amazon.com/images/I/41UZXjA7s+L._SL200_.jpg)](https://www.amazon.es/dp/B0791KHVS6/?tag=tolees-21)
+[![Clarks Arla Jacory  Sandalias de Talón A](https://m.media-amazon.com/images/I/41ggT8sEMbL._SL200_.jpg)](https://www.amazon.es/dp/B0791KHVS6/?tag=tolees-21)
 
 ℹ️:
 
+- Textie Superior
+- Suela textil/sintética
+- Cierre de gancho y bucle
+- Forro sintético/textil
+- Sandalias deportivas Clarks Slingback para mujer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0791KHVS6/?tag=tolees-21)
