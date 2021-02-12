@@ -28,11 +28,11 @@ Está [Havaianas You Metallic  Sandalias para Mujer  Negro  Black   41/42 EU](ht
 
 ℹ️:
 
-- Revestimiento: Caucho
 - Material exterior: Caucho
-- Cierre: Sin cordones
 - Material de la suela: Caucho
-- Tipo de talla: talla estándar
 - Tipo de tacón: plano
+- Tipo de talla: talla estándar
+- Cierre: Sin cordones
+- Revestimiento: Caucho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01L416NUO/?tag=tolees-21)
