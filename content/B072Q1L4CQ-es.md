@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fluchos- retail ES Spain 8499  Zapatos s al 22.60 % de rebaja'
-date: 2021-02-10 23:35:37
+date: 2021-02-12 05:34:37
 image: 'https://m.media-amazon.com/images/I/413v3Cng-rL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fluchos'
 buyurl: 'https://www.amazon.es/dp/B072Q1L4CQ/?tag=tolees-21'
 descuento: '22.60'
-average: '69.1715652173913'
+average: '69.1123931623931'
 ---
 
 Tienes [Fluchos- retail ES Spain 8499  Zapatos sin Cordones Hombre  Negro  Black   41 EU](https://www.amazon.es/dp/B072Q1L4CQ/?tag=tolees-21) con precio final de  65.71 EUR (original: 84.9 EUR) (22.60 %  de rebaja) aqui!
