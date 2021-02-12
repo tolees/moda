@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway Chaqueta de hombre B con un 52.22 % de descuento'
-date: 2021-02-10 13:57:25
+date: 2021-02-12 12:44:29
 image: 'https://m.media-amazon.com/images/I/41rJYPTU4kL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Geographical Norway Chaqueta de hombre BOKER ROJO talla M
 
 🔎:
 
-- pelo destomtable
-- Chaqueta de hombre
 - Capucha
+- Chaqueta de hombre
+- pelo destomtable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MQJLTF3/?tag=tolees-21)
