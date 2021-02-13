@@ -28,7 +28,7 @@ En este momento está [Only 15174274 Chaqueta Punto  Beige  Beige Detail: W. Mel
 
 🔎:
 
-- knit jacket
 - cardigan
+- knit jacket
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y3SNNMM/?tag=tolees-21)
