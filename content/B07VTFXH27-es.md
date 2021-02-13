@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s LEVIS MEN SOLID BASIC TRUNK 2P Bóxer  Azul  Navy 321
 
 🔎:
 
-- Los bordes de las perneras se mantienen en su sitio
 - Algodón elástico suave
+- Los bordes de las perneras se mantienen en su sitio
 - Cinturilla elástica cómoda de algodón con logo vintage
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VTFXH27/?tag=tolees-21)
