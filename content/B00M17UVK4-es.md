@@ -28,11 +28,11 @@ Tienes [Havaianas Brasil  Chanclas Unisex Adulto  Gris  Steel Grey   43-44 EU](h
 
 🔎:
 
-- Material exterior: Caucho
-- Composición: Goma
-- Material de la suela: Goma
-- Revestimiento: Sin forro
-- Cierre: Sin cordones
 - Tipo de tacón: Plano
+- Material de la suela: Goma
+- Composición: Goma
+- Material exterior: Caucho
+- Cierre: Sin cordones
+- Revestimiento: Sin forro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00M17UVK4/?tag=tolees-21)
