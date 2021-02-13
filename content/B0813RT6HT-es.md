@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'adidas Fef Pre Jkt Chaqueta de Deporte   al 48.14 % de descuento'
-date: 2020-06-03 18:24:47
-image: 'https://m.media-amazon.com/images/I/41uDGmxG+NL._SL200_.jpg'
+title: 'adidas Fef Pre Jkt Chaqueta de Deporte   al 63.60 % de descuento'
+date: 2021-02-13 15:01:45
+image: 'https://m.media-amazon.com/images/I/41lnTyhSvOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0813RT6HT-es adidas Fef Pre Jkt Chaqueta de Deporte Hombre Collegiate...'
 sku: 'B0813RT6HT-es'
 tags: [ 'chaqueta', ]
-actualPrice: 41.46 EUR
+actualPrice: 29.1 EUR
 currency: EUR
-price: 41.46
+price: 29.1
 comparePrice: 79.95 EUR
 prodname: 'adidas Fef Pre Jkt Chaqueta de Deporte  Hombre  Collegiate Navy  S'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B0813RT6HT/?tag=tolees-21'
-descuento: '48.14'
-average: '41.46'
+descuento: '63.60'
+average: '35.28'
 ---
 
-Está [adidas Fef Pre Jkt Chaqueta de Deporte  Hombre  Collegiate Navy  S](https://www.amazon.es/dp/B0813RT6HT/?tag=tolees-21) con 48.14 de descuento por 41.46 EUR (original: 79.95 EUR) en el siguiente enlace!
+Está [adidas Fef Pre Jkt Chaqueta de Deporte  Hombre  Collegiate Navy  S](https://www.amazon.es/dp/B0813RT6HT/?tag=tolees-21) con 63.60 de descuento por 29.1 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![adidas Fef Pre Jkt Chaqueta de Deporte  ](https://m.media-amazon.com/images/I/41uDGmxG+NL._SL200_.jpg)](https://www.amazon.es/dp/B0813RT6HT/?tag=tolees-21)
+[![adidas Fef Pre Jkt Chaqueta de Deporte  ](https://m.media-amazon.com/images/I/41lnTyhSvOL._SL200_.jpg)](https://www.amazon.es/dp/B0813RT6HT/?tag=tolees-21)
 
 ℹ️:
 
+- adidas logo on the frontal
+- Soccer Jacket
+- Frontal pockets
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0813RT6HT/?tag=tolees-21)

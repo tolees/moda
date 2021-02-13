@@ -1,27 +1,30 @@
 ---
 layout: post
-title: 'Clarks Tilden Free - Zapatos de cuero pa con un 61.36 % de descuento'
-date: 2021-01-15 14:07:50
-image: 'https://m.media-amazon.com/images/I/41xuKhMSbfL._SL200_.jpg'
+title: 'Clarks Tilden Free - Zapatos de cuero pa con un 60.60 % de descuento'
+date: 2021-02-13 15:34:56
+image: 'https://m.media-amazon.com/images/I/31E4E0OvXWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTJJB08-es'
-actualPrice: 30.89 EUR
+slug: 'B00TTJJB08-es Clarks Tilden Free - Zapatos de cuero para hombre Negro...'
+sku: 'B00TTJJB08-es'
+tags: [ 'zapatos', ]
+actualPrice: 31.5 EUR
 currency: EUR
-price: 30.89
+price: 31.5
 comparePrice: 79.95 EUR
 prodname: 'Clarks Tilden Free - Zapatos de cuero para hombre  Negro  Black Leather   45'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B00TTJJB08/?tag=tolees-21'
-descuento: '61.36'
-average: '33.941428571428574'
+descuento: '60.60'
+average: '33.3988888888889'
 ---
 
-En este momento está [Clarks Tilden Free - Zapatos de cuero para hombre  Negro  Black Leather   45](https://www.amazon.es/dp/B00TTJJB08/?tag=tolees-21) a 30.89 EUR (original: 79.95 EUR) (61.36 %  de descuento) en el siguiente enlace!
+En este momento está [Clarks Tilden Free - Zapatos de cuero para hombre  Negro  Black Leather   45](https://www.amazon.es/dp/B00TTJJB08/?tag=tolees-21) a 31.5 EUR (original: 79.95 EUR) (60.60 %  de descuento) en el siguiente enlace!
 
-[![Clarks Tilden Free - Zapatos de cuero pa](https://m.media-amazon.com/images/I/41xuKhMSbfL._SL200_.jpg)](https://www.amazon.es/dp/B00TTJJB08/?tag=tolees-21)
+[![Clarks Tilden Free - Zapatos de cuero pa](https://m.media-amazon.com/images/I/31E4E0OvXWL._SL200_.jpg)](https://www.amazon.es/dp/B00TTJJB08/?tag=tolees-21)
 
 🔎:
 
