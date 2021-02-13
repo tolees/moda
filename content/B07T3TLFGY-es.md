@@ -28,7 +28,7 @@ En este momento está [Only Onlbrilliant 3/4 Check Dress Noos Vestido  Multicolo
 
 🔎:
 
-- Short dress with zipper
 - Checked jersey dress
+- Short dress with zipper
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T3TLFGY/?tag=tolees-21)

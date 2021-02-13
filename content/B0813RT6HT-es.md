@@ -28,8 +28,8 @@ Está [adidas Fef Pre Jkt Chaqueta de Deporte  Hombre  Collegiate Navy  S](https
 
 ℹ️:
 
+- Frontal pockets
 - adidas logo on the frontal
 - Soccer Jacket
-- Frontal pockets
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0813RT6HT/?tag=tolees-21)
