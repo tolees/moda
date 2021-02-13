@@ -28,9 +28,9 @@ Está [Adidas Core 18 Training Jsy  Camiseta Hombre Azul  Dark Blue/White   XS](
 
 ℹ️:
 
-- Confeccionado en punto 100 % poliéster
 - Tejido ligero y transpirable que mantiene el cuerpo fresco y seco
 - Lavable a maquina a hasta 40° C
+- Confeccionado en punto 100 % poliéster
 - Camiseta de corte recto y manga corta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HMRFL1/?tag=tolees-21)

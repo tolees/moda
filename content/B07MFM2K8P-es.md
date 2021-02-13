@@ -28,8 +28,8 @@ En este momento está [Clarks Bampton Lace  Zapatos de Cordones Brogue Hombre  B
 
 🔎:
 
+- Dimensiones : Altura del tacón : 2.0 cm
 - Shoe Width : medium
 - sintética, Textíl, Piel , cuero, sintética, 2.0, Cordones, Derbie
-- Dimensiones : Altura del tacón : 2.0 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MFM2K8P/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Clarks Tri Cove Sky  Sandalias de Gladiador Hombre  Marrón  British Tan 
 
 ℹ️:
 
-- Exterior: piel
-- Suela: EVA
 - Interior: textil
+- Suela: EVA
+- Exterior: piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TPYGK1P/?tag=tolees-21)
