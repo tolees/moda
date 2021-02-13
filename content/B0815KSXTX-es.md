@@ -30,7 +30,7 @@ Tienes [Armani Exchange Blouson Jacket Chaqueta  Negro  S para Hombre](https://w
 
 - Chaqueta Rider Style
 - Faux fur
-- Cremallera completa.
 - Faux Sherling
+- Cremallera completa.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0815KSXTX/?tag=tolees-21)
