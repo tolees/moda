@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Icons Camisa  Azul  2 Years 922 al 38.64 % de descuento'
-date: 2021-02-12 04:51:02
+date: 2021-02-13 05:33:17
 image: 'https://m.media-amazon.com/images/I/41gLnII0ITL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Wrangler Icons Camisa  Azul  2 Years 922   Small para Hombre
 
 🔎:
 
-- Corte regular
 - WOVENS
+- Corte regular
 - Icons
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PMPYL2P/?tag=tolees-21)
