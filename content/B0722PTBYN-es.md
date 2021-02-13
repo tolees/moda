@@ -28,10 +28,10 @@ Ahora mismo tienes [G-STAR RAW Base Htr R T S/s 2-Pack Camiseta  Negro  Solid Bl
 
 🔎:
 
-- Bordado de G-Star RAW en el pecho
+- Paquete de dos
 - Manga corta
 - Bajo recto
 - Bordado de G-Star RAW en el pecho
-- Paquete de dos
+- Bordado de G-Star RAW en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0722PTBYN/?tag=tolees-21)
