@@ -29,8 +29,8 @@ Ahora mismo tienes [Joma Combi Camiseta Manga Corta  Hombre  Gris  Melange Oscur
 🔎:
 
 - Hecho 100% de poliéster, interlock
-- Mangas cortas
 - Material de secado rápido
 - Cuello redondo
+- Mangas cortas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ERZ7VUA/?tag=tolees-21)

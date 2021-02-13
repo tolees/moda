@@ -28,10 +28,10 @@ Ahora mismo tienes [LOSMILE Bolsos de mano para mujer  Bolso de Bandolera Totes 
 
 🔎:
 
-- Cremallera de nylon de alta calidad, se utilizará larga vida. Rodado por dos bolsillos adicionales en ambos lados para la organización de alta calidad.
 - Es una bolsa perfecta para trabajar, viajes cortos, escuela y uso diario.
-- Dimensiones aproximadas: 14.6"(L)*12.6"(H)*4.7"(D) ; Caída del hombro de los 60-118cm. Capacidad: 15L (ajustes hasta 14 "ordenador portátil, ipad, Kindle).
 - Correa para el hombro ajustable para un transporte fácil y cómodo, el compartimiento principal del cierre relámpago para archivos de tamaño A4, 14  portátil y otros elementos esenciales.
 - Material: lona y cuero de la alta calidad, impermeable y rasguñar-resistente; Forro: tela de algodón.
+- Cremallera de nylon de alta calidad, se utilizará larga vida. Rodado por dos bolsillos adicionales en ambos lados para la organización de alta calidad.
+- Dimensiones aproximadas: 14.6"(L)*12.6"(H)*4.7"(D) ; Caída del hombro de los 60-118cm. Capacidad: 15L (ajustes hasta 14 "ordenador portátil, ipad, Kindle).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071WS52YW/?tag=tolees-21)

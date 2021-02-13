@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 PES Jkt Chaqueta  Hombre   al 21.50 % de descuento'
-date: 2021-02-12 05:49:45
+date: 2021-02-13 11:32:29
 image: 'https://m.media-amazon.com/images/I/41BmSNXqBRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076PJJGVQ/?tag=tolees-21'
 descuento: '21.50'
-average: '19.3811111111112'
+average: '19.6410000000001'
 ---
 
 Está [adidas Core18 PES Jkt Chaqueta  Hombre  Rojo  Power Red/White   XL](https://www.amazon.es/dp/B076PJJGVQ/?tag=tolees-21) con 21.50 de descuento por 21.98 EUR (original: 28.0 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [adidas Core18 PES Jkt Chaqueta  Hombre  Rojo  Power Red/White   XL](https
 
 ℹ️:
 
+- Material 100% poliéster
+- Chaqueta con bolsillos con cremallera
 - Cuello altamente cerrable
 - Puños con puños elásticos
-- Chaqueta con bolsillos con cremallera
-- Material 100% poliéster
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076PJJGVQ/?tag=tolees-21)
