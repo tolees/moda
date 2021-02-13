@@ -28,9 +28,9 @@ Tienes [Hurley M One and Only LS Camisa de Manga Larga  Hombre  Azul  Obsidian  
 
 ℹ️:
 
-- Bolsillo en la parte izquierda del pecho
 - Camiseta con botones
 - Se recomienda lavar a máquina
 - Ajuste clásico
+- Bolsillo en la parte izquierda del pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075VDPSLV/?tag=tolees-21)

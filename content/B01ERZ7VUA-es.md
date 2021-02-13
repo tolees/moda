@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Combi Camiseta Manga Corta  Hombre  al 32.74 % de descuento'
-date: 2021-01-29 06:44:47
+date: 2021-02-13 09:17:31
 image: 'https://m.media-amazon.com/images/I/416DF-BnplL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Joma Combi Camiseta Manga Corta  Hombre  Gris  Melange Oscuro   L'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Joma'
 buyurl: 'https://www.amazon.es/dp/B01ERZ7VUA/?tag=tolees-21'
 descuento: '32.74'
 average: '6.02'
@@ -28,8 +29,8 @@ Ahora mismo tienes [Joma Combi Camiseta Manga Corta  Hombre  Gris  Melange Oscur
 🔎:
 
 - Cuello redondo
+- Mangas cortas
 - Hecho 100% de poliéster, interlock
 - Material de secado rápido
-- Mangas cortas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ERZ7VUA/?tag=tolees-21)
