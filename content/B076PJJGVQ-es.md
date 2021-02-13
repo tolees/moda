@@ -29,8 +29,8 @@ Está [adidas Core18 PES Jkt Chaqueta  Hombre  Rojo  Power Red/White   XL](https
 ℹ️:
 
 - Material 100% poliéster
-- Chaqueta con bolsillos con cremallera
 - Cuello altamente cerrable
 - Puños con puños elásticos
+- Chaqueta con bolsillos con cremallera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076PJJGVQ/?tag=tolees-21)
