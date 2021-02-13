@@ -28,11 +28,11 @@ Está [Geox D ANNYTAH C  Bailarinas Mujer  Blanco  White/Blue C0006   36 EU](htt
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Material de la suela: Sintético
 - Cierre: Sin cordones
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Material exterior: Sintético
+- Revestimiento: Sintético
 - Tipo de tacón: Plano
 - Altura del tacón: 2 centímetros
 
