@@ -28,9 +28,9 @@ En este momento está [Joma Combi Camiseta Manga Corta  Hombre  Gris  Melange Os
 
 🔎:
 
-- Conserva su forma y colores durante toda la temporada
-- Composición 100 % poliéster
-- Camiseta de manga corta
 - Diseñado para la práctica ocasional del deporte
+- Conserva su forma y colores durante toda la temporada
+- Camiseta de manga corta
+- Composición 100 % poliéster
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01ERZ7M8G/?tag=tolees-21)
