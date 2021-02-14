@@ -28,10 +28,10 @@ En este momento está [Geox D Myria C  Zapatillas para Mujer  Beige  Skin/Sand C
 
 🔎:
 
-- Tipo de tacón: Plano
-- Cierre: Cremallera
 - Material de la suela: Goma
 - Revestimiento: Malla
 - Material exterior: Cuero
+- Cierre: Cremallera
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SRKB18Y/?tag=tolees-21)
