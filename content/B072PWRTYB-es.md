@@ -28,9 +28,9 @@ Ahora mismo tienes [Only onlSEDONA Light Coat OTW Noos Abrigo  Marrón  Mocha Mo
 
 🔎:
 
+- 2 bolsillos delanteros ribeteados.
+- Abrigo con capucha drapeada.
 - Composición del material: Material exterior: 85 % poliéster, 15 % algodón. Forro: 100 % poliéster.
 - Cierre frontal oculto.
-- Abrigo con capucha drapeada.
-- 2 bolsillos delanteros ribeteados.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072PWRTYB/?tag=tolees-21)
