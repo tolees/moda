@@ -28,12 +28,12 @@ Está [Tommy Hilfiger Hombre Brooklyn Short Light Twill Vaqueros Relaxed Not App
 
 ℹ️:
 
-- Sarga de puro algodón
-- Cierre de botones
-- Detalles distintivos de Tommy Hilfiger
-- Corte regular
 - Dos bolsillos delanteros ribeteados
-- Logo de Tommy Hilfiger bordado en la parte trasera
 - Dos bolsillos traseros con botón
+- Corte regular
+- Sarga de puro algodón
+- Detalles distintivos de Tommy Hilfiger
+- Logo de Tommy Hilfiger bordado en la parte trasera
+- Cierre de botones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W5SRFH1/?tag=tolees-21)
