@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Original Trucker Chaqueta vaquera  Negro  Black Rose 
 
 🔎:
 
+- Bolsillos de parche en el pecho con solapa y corchete
 - Trabillas ajustables en la parte posterior de la cinturilla
 - Un básico versátil para completar cualquier conjunto
-- Bolsillos de parche en el pecho con solapa y corchete
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFMPXHW/?tag=tolees-21)
