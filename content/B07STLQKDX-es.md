@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox U Renan B  Zapatillas para Hombre  Azul  Navy C4064   4
 
 🔎:
 
-- Tipo de tacón: Plano
 - Material exterior: Cuero
 - Material de la suela: Goma
-- Cierre: Cordones
+- Tipo de tacón: Plano
 - Revestimiento: Malla
+- Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STLQKDX/?tag=tolees-21)
