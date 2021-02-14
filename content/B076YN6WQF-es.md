@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Levi s Original Trucker  Chaqueta Vaquer al 43.65 % de descuento'
-date: 2021-01-25 21:24:50
+title: 'Levi s Original Trucker  Chaqueta Vaquer al 45.01 % de descuento'
+date: 2021-02-14 19:28:53
 image: 'https://m.media-amazon.com/images/I/41dZszNiLGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,19 +9,20 @@ author: ring
 slug: 'B076YN6WQF-es Levi s Original Trucker Chaqueta Vaquera para Mujer Azul...'
 sku: 'B076YN6WQF-es'
 tags: [ 'chaqueta', ]
-actualPrice: 61.99 EUR
+actualPrice: 60.49 EUR
 currency: EUR
-price: 61.99
+price: 60.49
 comparePrice: 110.0 EUR
 prodname: 'Levi s Original Trucker  Chaqueta Vaquera para Mujer  Azul  All Yours 0026   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B076YN6WQF/?tag=tolees-21'
-descuento: '43.65'
-average: '60.7677777777778'
+descuento: '45.01'
+average: '60.7172727272727'
 ---
 
-Está [Levi s Original Trucker  Chaqueta Vaquera para Mujer  Azul  All Yours 0026   XS](https://www.amazon.es/dp/B076YN6WQF/?tag=tolees-21) con 43.65 de descuento por 61.99 EUR (original: 110.0 EUR) en el siguiente enlace!
+Está [Levi s Original Trucker  Chaqueta Vaquera para Mujer  Azul  All Yours 0026   XS](https://www.amazon.es/dp/B076YN6WQF/?tag=tolees-21) con 45.01 de descuento por 60.49 EUR (original: 110.0 EUR) en el siguiente enlace!
 
 [![Levi s Original Trucker  Chaqueta Vaquer](https://m.media-amazon.com/images/I/41dZszNiLGL._SL200_.jpg)](https://www.amazon.es/dp/B076YN6WQF/?tag=tolees-21)
 
