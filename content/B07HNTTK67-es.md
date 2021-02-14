@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kami Idea Collar  Mi Fatídico Amor  Colg al 19.36 % de descuento'
-date: 2021-02-12 23:43:19
+date: 2021-02-14 05:50:13
 image: 'https://m.media-amazon.com/images/I/41QkvadQuNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kami Idea'
 buyurl: 'https://www.amazon.es/dp/B07HNTTK67/?tag=tolees-21'
 descuento: '19.36'
-average: '26.9900000000001'
+average: '26.938051948052'
 ---
 
 Ahora mismo tienes [Kami Idea Collar  Mi Fatídico Amor  Colgante de Corazón a Corazón  Joyas de Mujer  Cristales de Swarovski  Bisutería para Mujer en Oro Rosa  Caja de Regalo](https://www.amazon.es/dp/B07HNTTK67/?tag=tolees-21) a 24.99 EUR (original: 30.99 EUR) (19.36 %  de descuento) en el siguiente enlace!
