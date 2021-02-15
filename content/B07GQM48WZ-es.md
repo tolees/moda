@@ -29,7 +29,7 @@ En este momento está [Levi s Graphic Camiseta  84 Sportswear Logo Grey Midtone 
 🔎:
 
 - Fabricada en tejido ligero
-- Modelo casual
 - Con el logotipo deportivo de Levis
+- Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GQM48WZ/?tag=tolees-21)
