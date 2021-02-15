@@ -28,9 +28,9 @@ Está [PUMA Liga Jersey T-Shirt  Hombre  Black White  S](https://www.amazon.es/d
 
 ℹ️:
 
+- dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
+- Transferencia térmica
 - Tejido exterior de los puños en color contrastante
 - Cuello redondo
-- Transferencia térmica
-- dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078THZM1V/?tag=tolees-21)
