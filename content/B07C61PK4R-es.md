@@ -28,8 +28,8 @@ Tienes [Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Azul  Medium Blue Den
 
 🔎:
 
-- Artículo: 12138115 SHERIDAN
 - Temporada: Primavera-verano.
+- Artículo: 12138115 SHERIDAN
 - Diseñador: JACK&JONES
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C61PK4R/?tag=tolees-21)
