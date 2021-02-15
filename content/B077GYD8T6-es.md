@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Crocband Sandal Kids  Sandalias Un al 39.98 % de descuento'
-date: 2021-02-07 16:49:19
+date: 2021-02-15 10:39:53
 image: 'https://m.media-amazon.com/images/I/31scRS5lJkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B077GYD8T6/?tag=tolees-21'
 descuento: '39.98'
-average: '21.0506666666666'
+average: '20.6917647058823'
 ---
 
 Está [Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Rosa  Carnation/Amethyst   22/23 EU](https://www.amazon.es/dp/B077GYD8T6/?tag=tolees-21) con 39.98 de descuento por 18.0 EUR (original: 29.99 EUR) en el siguiente enlace!
