@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox U Snake.2 A  Zapatillas para Hombre  Marrón  Cigar/Dk 
 
 🔎:
 
-- Tipo de tacón: Plano
 - Cierre: Cordones
 - Material de la suela: Goma
 - Revestimiento: Malla
 - Material exterior: Cuero
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M8HH57G/?tag=tolees-21)
