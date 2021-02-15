@@ -29,9 +29,9 @@ Está [YOSICIL Disfraz Princesa Zapatos Frozen Elsa Zapatos de Lentejuelas Antid
 ℹ️:
 
 - NOTA:Por favor verifique cuidadosamente la TABLA DE TAMAÑOS antes de comprar.La última imagen es la tabla de tallas.Talla:EU 24 -EU 36.
-- Estilo: Disfraces y Accesorios.Tipo de tacón:Plataforma
 - Diseño:Suela antideslizante diseño hace que su bebé sea más seguro.Los zapatos de PU con su pequeña cuña elegante y la clásica Velcro,son muy cómodos y fáciles de poner.Forro de PU transpirable.
-- Material de la suela: Goma.Material exterior: PU
 - Altura del tacón: 1 centímetros
+- Estilo: Disfraces y Accesorios.Tipo de tacón:Plataforma
+- Material de la suela: Goma.Material exterior: PU
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WRL6PNK/?tag=tolees-21)
