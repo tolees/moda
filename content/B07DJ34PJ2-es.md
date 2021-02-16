@@ -28,10 +28,10 @@ Ahora mismo tienes [GEOX D JAYSEN A WHITE Women s Trainers Low-Top Trainers size
 
 🔎:
 
+- Revestimiento: Malla
 - Material de la suela: Sintético
+- Cierre: Cordones
 - Tipo de tacón: Plano
 - Material exterior: Cuero
-- Revestimiento: Malla
-- Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ34PJ2/?tag=tolees-21)

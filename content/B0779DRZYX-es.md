@@ -28,9 +28,9 @@ Tienes [adidas Ask SPRT LST M Camiseta de Manga Larga  Hombre  White  3XL](https
 
 🔎:
 
+- País de origen: Filipinas.
 - Cuello redondo.
 - Tecnología ClimaCool transpirable.
 - Ajuste de compresión que soporta los músculos.
-- País de origen: Filipinas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0779DRZYX/?tag=tolees-21)

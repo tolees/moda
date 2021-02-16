@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Relaxed Graphic Hoodie Sudadera  Black  Boxtab Pop Mi
 
 🔎:
 
+- A estrenar y genuino. Somos un vendedor autorizado de Levis.
 - Ver la descripción del producto para obtener más información.
 - Levis Negro Relajado suéter con capucha gráfica
-- A estrenar y genuino. Somos un vendedor autorizado de Levis.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TXDGR2W/?tag=tolees-21)
