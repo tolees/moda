@@ -28,10 +28,10 @@ En este momento está [Camper Neuman Oxfords  Zapatos de Cordones Derby Hombre  
 
 🔎:
 
-- Color: Negro
 - Forro:
+- Empeine: Piel (Piel vacuna)
 - EXTRALIGHT XL para una mayor ligereza y amortiguación
 - Suela/Características: EVA con cortes verticales y una ligereza extraordinaria
-- Empeine: Piel (Piel vacuna)
+- Color: Negro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MTER6C8/?tag=tolees-21)

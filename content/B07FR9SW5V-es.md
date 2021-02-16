@@ -29,7 +29,7 @@ Tienes [Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Dorado  Gold Metalli
 ℹ️:
 
 - Shoe Width : medium
-- Piel , cuero, Piel , cuero, Piel , cuero, caucho, 4.0, Velcro, Sandalias
 - Dimensiones : Altura del tacón : 4.0 cm
+- Piel , cuero, Piel , cuero, Piel , cuero, caucho, 4.0, Velcro, Sandalias
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FR9SW5V/?tag=tolees-21)
