@@ -28,10 +28,10 @@ Ahora mismo tienes [GEOX D JAYSEN A BLUE Women s Trainers Low-Top Trainers size 
 
 🔎:
 
-- Revestimiento: Malla
-- Material exterior: Cuero
-- Tipo de tacón: Plano
-- Cierre: Cordones
 - Material de la suela: Sintético
+- Revestimiento: Malla
+- Tipo de tacón: Plano
+- Material exterior: Cuero
+- Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SWTZDQC/?tag=tolees-21)

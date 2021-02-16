@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Club 3STR Polo Camiseta  Hombre  Black/White  XS](htt
 
 🔎:
 
-- Adidas logo over the hem
 - Climalite anti-humidity fabric
+- Adidas logo over the hem
 - Slim fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M8S1XT7/?tag=tolees-21)

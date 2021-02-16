@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GEOX U DAMIANO D NAVY Men s Trainers Low al 50.00 % de descuento'
-date: 2021-01-23 16:24:46
+date: 2021-02-16 17:08:18
 image: 'https://m.media-amazon.com/images/I/317hlKjP+KL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'GEOX U DAMIANO D NAVY Men s Trainers Low-Top Trainers size 42 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B0825P1YRX/?tag=tolees-21'
 descuento: '50.00'
 average: '44.95'
