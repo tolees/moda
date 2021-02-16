@@ -29,7 +29,7 @@ Ahora mismo tienes [Geox D PONTOISE D  Zapatillas Mujer  Blanco  White/Silver C0
 🔎:
 
 - Material interior: malla.
-- Material exterior: piel lisa.
 - Suela: sintética.
+- Material exterior: piel lisa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SQGWX7N/?tag=tolees-21)

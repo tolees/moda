@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox D Myria C  Zapatillas para Mujer  Blanco  White/Off Whi
 
 🔎:
 
-- Tipo de tacón: Plano
-- Cierre: Cremallera
 - Material de la suela: Goma
 - Material exterior: Cuero
+- Tipo de tacón: Plano
 - Revestimiento: Malla
+- Cierre: Cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SXTHLZB/?tag=tolees-21)
