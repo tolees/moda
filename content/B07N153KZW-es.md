@@ -28,11 +28,11 @@ En este momento está [G-STAR RAW 3301 Straight Tapered Vaqueros  Negro  Faded C
 
 🔎:
 
-- Normal
-- Lavar a máquina - agua fría (30 ° max)
 - Cierre: Boton y cierre
 - 99% Algodón, 1% Elastano
+- Lavar a máquina - agua fría (30 ° max)
 - Usado
 - Tapered
+- Normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N153KZW/?tag=tolees-21)
