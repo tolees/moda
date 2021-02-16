@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Geox D Jaysen A  Zapatillas para Mujer   al 65.15 % de descuento'
-date: 2020-06-23 17:24:26
+title: 'GEOX D JAYSEN A BLUE Women s Trainers Lo al 50.00 % de descuento'
+date: 2021-02-16 15:33:56
 image: 'https://m.media-amazon.com/images/I/41KO1LTMBcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTZDQC-es Geox D Jaysen A Zapatillas para Mujer Azul Blue C4000 37 EU'
+slug: 'B07SWTZDQC-es GEOX D JAYSEN A BLUE Women s Trainers Low-Top Trainers...'
 sku: 'B07SWTZDQC-es'
 tags: [ 'geox', ]
-actualPrice: 38.3 EUR
+actualPrice: 54.95 EUR
 currency: EUR
-price: 38.3
+price: 54.95
 comparePrice: 109.9 EUR
-prodname: 'Geox D Jaysen A  Zapatillas para Mujer  Azul  Blue C4000   37 EU'
+prodname: 'GEOX D JAYSEN A BLUE Women s Trainers Low-Top Trainers size 37 EU '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07SWTZDQC/?tag=tolees-21'
-descuento: '65.15'
-average: '38.3'
+descuento: '50.00'
+average: '43.85'
 ---
 
-Ahora mismo tienes [Geox D Jaysen A  Zapatillas para Mujer  Azul  Blue C4000   37 EU](https://www.amazon.es/dp/B07SWTZDQC/?tag=tolees-21) a 38.3 EUR (original: 109.9 EUR) (65.15 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [GEOX D JAYSEN A BLUE Women s Trainers Low-Top Trainers size 37 EU ](https://www.amazon.es/dp/B07SWTZDQC/?tag=tolees-21) a 54.95 EUR (original: 109.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Geox D Jaysen A  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41KO1LTMBcL._SL200_.jpg)](https://www.amazon.es/dp/B07SWTZDQC/?tag=tolees-21)
+[![GEOX D JAYSEN A BLUE Women s Trainers Lo](https://m.media-amazon.com/images/I/41KO1LTMBcL._SL200_.jpg)](https://www.amazon.es/dp/B07SWTZDQC/?tag=tolees-21)
 
 🔎:
 
+- Cierre: Cordones
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Revestimiento: Malla
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SWTZDQC/?tag=tolees-21)
