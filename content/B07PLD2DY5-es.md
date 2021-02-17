@@ -29,8 +29,8 @@ Tienes [Spontex - Guantes Finos Mosaik  40 Unidades  Alta Resistencia  Talla 7 M
 ℹ️:
 
 - Guantes desechables de nitrilo
-- Talla 7: mediana
 - Combina eficacia y diseño: son un 50% más resistentes e incluyen 3 colores distintos (azul, lila y verde)
+- Talla 7: mediana
 - Las puntas están texturizadas para mejorar la sensación al tacto
 - Apto para personas alérgicas al látex
 
