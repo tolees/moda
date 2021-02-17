@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Perfect Tee  Camiseta  Mujer  con un 15.00 % de descuento'
-date: 2021-02-09 18:06:30
+date: 2021-02-17 18:16:15
 image: 'https://m.media-amazon.com/images/I/41WDMW6l10L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B00VLN6Q3K/?tag=tolees-21'
 descuento: '15.00'
-average: '18.2603703703704'
+average: '18.1734482758621'
 ---
 
 En este momento está [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  Batwing White Graphic 53   XS](https://www.amazon.es/dp/B00VLN6Q3K/?tag=tolees-21) a 17.0 EUR (original: 20.0 EUR) (15.00 %  de descuento) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  Batwing 
 🔎:
 
 - Con tacto suave de forro polar
-- Modelo casual
 - Tiene estampado la marca Levis
+- Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00VLN6Q3K/?tag=tolees-21)
