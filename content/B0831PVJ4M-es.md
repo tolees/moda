@@ -28,10 +28,10 @@ Tienes [Canadian Peak Parka NIÑO BANOTIKO Azul Marino 14](https://www.amazon.es
 
 🔎:
 
-- Cordón ajustable en la cintura
-- Bolsillo tipo canguro en la parte delantera
 - Media cremallera
 - Capucha fija y pelo sintético desmontable
 - Puños ajustables
+- Cordón ajustable en la cintura
+- Bolsillo tipo canguro en la parte delantera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0831PVJ4M/?tag=tolees-21)
