@@ -28,9 +28,9 @@ Ahora mismo tienes [G-STAR RAW Text Slim Camiseta  azufre Verde 336-5164  Medium
 
 🔎:
 
-- Gráfico de G-Star RAW estampado en caucho en el pecho
-- Manga corta recta insertada
 - Gráfico de G-Star RAW estampado en caucho en la manga
+- Manga corta recta insertada
+- Gráfico de G-Star RAW estampado en caucho en el pecho
 - Cuello redondo acanalado
 - Bajo recto
 
