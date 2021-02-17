@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 18.77 % en Geographical Norway - Parka para Mujer  '
-date: 2021-02-11 14:47:52
+date: 2021-02-17 22:46:12
 image: 'https://m.media-amazon.com/images/I/41pKhMXexSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B07YDY3NQ5/?tag=tolees-21'
 descuento: '18.77'
-average: '74.9'
+average: '70.9'
 ---
 
 Tienes [Geographical Norway - Parka para Mujer  Marina  M ](https://www.amazon.es/dp/B07YDY3NQ5/?tag=tolees-21) con un 18.77 % de descuento con precio de oferta de 64.9 EUR (original: 79.9 EUR) en el siguiente enlace!
