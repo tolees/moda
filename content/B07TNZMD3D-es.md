@@ -28,8 +28,8 @@ En este momento está [Clarks Tri Sporty  Sandalias de Talón Abierto Mujer  Bei
 
 🔎:
 
-- Altura del tacón: 3,5 cm
 - Material interior: piel
+- Altura del tacón: 3,5 cm
 - Suela: goma
 - Material exterior: sintético
 
