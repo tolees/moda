@@ -28,8 +28,8 @@ Está [adidas E PLN tee Camiseta de Manga Corta  Hombre  White  2XL](https://www
 
 ℹ️:
 
-- Regular fit
-- Soft fabric
 - Crew-neck design
+- Soft fabric
+- Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KJLBQ6H/?tag=tolees-21)

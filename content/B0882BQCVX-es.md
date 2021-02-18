@@ -28,7 +28,7 @@ Ahora mismo tienes [Vans Classic Kids Camiseta  Chili Pepper/White  4 para Bebé
 
 🔎:
 
-- 145gm ringspun camiseta
 - 100% algodón
+- 145gm ringspun camiseta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0882BQCVX/?tag=tolees-21)

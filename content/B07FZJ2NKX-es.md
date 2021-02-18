@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas TIRO19 WRM Top Sudadera  Hombre  Negro  Black/White  
 🔎:
 
 - Regular fit
-- Climawarm technology
 - Polarfleece neck warmer
+- Climawarm technology
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FZJ2NKX/?tag=tolees-21)
