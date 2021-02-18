@@ -28,10 +28,10 @@ Ahora mismo tienes [Amazon Basics - Guantes de boxeo  453 g](https://www.amazon.
 
 🔎:
 
+- Medidas: 29.9 x 16 x 16 cm
 - Hechos de piel sintética duradera para una resistencia duradera y fiable; color negro liso
 - Guantes de boxeo de 453 g; ideales para sparring, sesiones con el saco y shadowboxing
 - Cierre de velcro en la muñeca para un ajuste seguro, además de hacer que sea fácil ponerse y quitarse los guantes
-- Medidas: 29.9 x 16 x 16 cm
 - Acolchado de espuma de alta densidad y absorbente de impactos; pulgares totalmente incorporados para una mayor protección ante lesiones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T2KWDKP/?tag=tolees-21)
