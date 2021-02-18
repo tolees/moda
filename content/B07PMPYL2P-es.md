@@ -28,8 +28,8 @@ Ahora mismo tienes [Wrangler Icons Camisa  Azul  2 Years 922   Small para Hombre
 
 🔎:
 
-- WOVENS
-- Icons
 - Corte regular
+- Icons
+- WOVENS
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PMPYL2P/?tag=tolees-21)
