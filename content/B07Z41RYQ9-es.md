@@ -29,8 +29,8 @@ Tienes [Pepe Jeans Alessia Monedero con Tarjetero rojo 11 5x8x1 5 cms Piel](http
 🔎:
 
 - Tamaño ideal para llevarlo en un bolso pequeño o bandolera
-- De joumma bags
-- Monedero de 11, 5 cm x 8 cm x 1, 5 cm fabricado en piel
 - Cuenta un compartimento con cierre de cremallera y dos ranuras para tarjetas a cada lado
+- Monedero de 11, 5 cm x 8 cm x 1, 5 cm fabricado en piel
+- De joumma bags
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z41RYQ9/?tag=tolees-21)
