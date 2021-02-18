@@ -29,8 +29,8 @@ Ahora mismo tienes [Crocs Classic  Zuecos con Correa Trasera Unisex Adulto  Brig
 🔎:
 
 - Los tamaños de la suela son Estados Unidos. La etiqueta muestra el reino unido. M = hombres W = mujeres
-- Resistente al agua y flotante.
 - Correa de talón pivotante.
 - Los zapatos Crocs mostrarán tamaños de Estados Unidos.
+- Resistente al agua y flotante.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K92KZNC/?tag=tolees-21)
