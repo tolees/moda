@@ -28,8 +28,8 @@ Ahora mismo tienes [REPLAY M3142 .000.22880 Camiseta  1 Blanco  L para Hombre](h
 
 🔎:
 
-- Camiseta de algodón 30/1
 - Cómodo de llevar
+- Camiseta de algodón 30/1
 - Gran calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082JFMDGC/?tag=tolees-21)

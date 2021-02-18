@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Columbia Redmond V2  Zapatos de Senderis al 37.00 % de descuento'
-date: 2021-02-15 12:00:54
+title: 'Columbia Redmond V2  Zapatos de Senderis al 35.56 % de descuento'
+date: 2021-02-18 11:59:51
 image: 'https://m.media-amazon.com/images/I/41yskzyTg5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07JHCNYMP-es Columbia Redmond V2 Zapatos de Senderismo Impermeables...'
 sku: 'B07JHCNYMP-es'
 tags: [ 'zapatos', ]
-actualPrice: 56.69 EUR
+actualPrice: 57.99 EUR
 currency: EUR
-price: 56.69
+price: 57.99
 comparePrice: 89.99 EUR
 prodname: 'Columbia Redmond V2  Zapatos de Senderismo Impermeables Hombre  Marrón  Mud  Dark Adobe   42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B07JHCNYMP/?tag=tolees-21'
-descuento: '37.00'
-average: '58.0446031746032'
+descuento: '35.56'
+average: '58.0429230769231'
 ---
 
-Ahora mismo tienes [Columbia Redmond V2  Zapatos de Senderismo Impermeables Hombre  Marrón  Mud  Dark Adobe   42 EU](https://www.amazon.es/dp/B07JHCNYMP/?tag=tolees-21) a 56.69 EUR (original: 89.99 EUR) (37.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Columbia Redmond V2  Zapatos de Senderismo Impermeables Hombre  Marrón  Mud  Dark Adobe   42 EU](https://www.amazon.es/dp/B07JHCNYMP/?tag=tolees-21) a 57.99 EUR (original: 89.99 EUR) (35.56 %  de descuento) en el siguiente enlace!
 
 [![Columbia Redmond V2  Zapatos de Senderis](https://m.media-amazon.com/images/I/41yskzyTg5L._SL200_.jpg)](https://www.amazon.es/dp/B07JHCNYMP/?tag=tolees-21)
 
