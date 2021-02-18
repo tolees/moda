@@ -28,8 +28,8 @@ Está [adidas CON20 PRE JKT Chaqueta de Deporte  Hombre  Team Navy Blue/White  M
 
 ℹ️:
 
+- Regular fit
 - Great freedom of movement
 - Bright fabric
-- Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081SHZXKW/?tag=tolees-21)
