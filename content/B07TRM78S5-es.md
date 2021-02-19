@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.50 % en Levi s Graphic tee Camiseta  Black  Boxt'
-date: 2021-02-10 07:54:11
+date: 2021-02-19 11:06:50
 image: 'https://m.media-amazon.com/images/I/41ec8cP+XxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Levi s Graphic tee Camiseta  Black  Boxtab SS T2 Mineral Black 0002   L 
 
 ℹ️:
 
-- Levis Negro Camiseta gráfica Boxtab
 - A estrenar y genuina. Somos un vendedor autorizado de Levis.
+- Levis Negro Camiseta gráfica Boxtab
 - Ver descripción del producto para obtener más información.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TRM78S5/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Tommy Hilfiger Lightly Lined Demi Sujetador para Camiseta  R
 
 🔎:
 
-- 80% poliamida, 20% elastano
 - Lavado a máquina, máximo 30 °C.
+- 80% poliamida, 20% elastano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DFX737R/?tag=tolees-21)
