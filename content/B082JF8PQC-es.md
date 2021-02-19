@@ -28,8 +28,8 @@ En este momento está [REPLAY M3142 .000.22880 Camiseta  1 Blanco  XL para Hombr
 
 🔎:
 
-- Cómodo de llevar
-- Gran calidad
 - Camiseta de algodón 30/1
+- Gran calidad
+- Cómodo de llevar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082JF8PQC/?tag=tolees-21)
