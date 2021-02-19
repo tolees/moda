@@ -28,10 +28,10 @@ Tienes [Crocs Classic Clog  Zuecos Unisex Adulto  Rojo  Pepper 6EN   37/38 EU](h
 
 ℹ️:
 
-- Composición: Sintético
-- Cierre: Tira de tobillo
-- Revestimiento: Sin forro
 - Material de la suela: Sintético
+- Composición: Sintético
+- Revestimiento: Sin forro
+- Cierre: Tira de tobillo
 - Tipo de tacón: Plano
 - Material exterior: Espuma
 

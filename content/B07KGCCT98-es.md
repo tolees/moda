@@ -29,7 +29,7 @@ En este momento está [Levi s Innovation Super Skinny Vaqueros  Celestial Rinse 
 🔎:
 
 - Ajustados en la cadera y el muslo
-- Parche de piel con logotipo de Levis Two Horse
 - Vaqueros para mujer
+- Parche de piel con logotipo de Levis Two Horse
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KGCCT98/?tag=tolees-21)
