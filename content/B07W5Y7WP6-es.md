@@ -28,10 +28,10 @@ Está [Burton Underhill Camiseta  Hombre  True Black  XXS](https://www.amazon.es
 
 ℹ️:
 
-- Pre-encogido
-- Contiene algodón orgánico peruano (varía según el color)
-- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
-- Bolsillo de pecho
 - Cuello acanalado
+- Bolsillo de pecho
+- Pre-encogido
+- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
+- Contiene algodón orgánico peruano (varía según el color)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W5Y7WP6/?tag=tolees-21)

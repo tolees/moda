@@ -28,9 +28,9 @@ Tienes [Under Armour  UNDKU Heatgear Armour Pantalón Corto  Mujer  Gris  XS](ht
 
 🔎:
 
-- La confección con tejido elástico en 4 direcciones permite una mayor movilidad
 - Tiene cinturilla elástica de tejido jacquard que llega a las caderas
-- El material capilariza el sudor y se seca rápidamente
 - Tiene costuras planas ergonómicas que proporcionan un ajuste cómodo y sin roces
+- El material capilariza el sudor y se seca rápidamente
+- La confección con tejido elástico en 4 direcciones permite una mayor movilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L9JTDFG/?tag=tolees-21)
