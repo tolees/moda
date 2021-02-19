@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvg Sweatshirt Dress Vestido al 44.00 % de descuento'
-date: 2021-02-04 20:02:41
+date: 2021-02-19 20:10:34
 image: 'https://m.media-amazon.com/images/I/410CB33OsiL._SL200_.jpg'
 comments: true
 category: ofertas
