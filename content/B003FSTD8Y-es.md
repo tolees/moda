@@ -28,8 +28,8 @@ En este momento está [uhlsport Player s Glove Guantes De Portero De Fútbol  Un
 
 🔎:
 
+- Cierre elástico
 - Palma con perfil microgrip
 - Dorso: Material textil confortable
-- Cierre elástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003FSTD8Y/?tag=tolees-21)

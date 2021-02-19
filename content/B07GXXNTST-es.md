@@ -28,8 +28,8 @@ Ahora mismo tienes [bugatti 311697014100  Zapatos de Cordones Derby Hombre  Marr
 
 🔎:
 
-- Suela: piel
 - Exterior: piel
 - Material interior: sintético
+- Suela: piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GXXNTST/?tag=tolees-21)

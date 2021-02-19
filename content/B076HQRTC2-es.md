@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'adidas CORE18 Hoody Sudadera con Capucha al 30.46 % de descuento'
-date: 2021-02-18 21:52:08
+title: 'adidas CORE18 Hoody Sudadera con Capucha al 31.61 % de descuento'
+date: 2021-02-19 22:46:05
 image: 'https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B076HQRTC2-es adidas CORE18 Hoody Sudadera con Capucha Hombre Negro...'
 sku: 'B076HQRTC2-es'
 tags: [ 'sudadera', ]
-actualPrice: 27.81 EUR
+actualPrice: 27.35 EUR
 currency: EUR
-price: 27.81
+price: 27.35
 comparePrice: 39.99 EUR
 prodname: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQRTC2/?tag=tolees-21'
-descuento: '30.46'
-average: '30.0259405940593'
+descuento: '31.61'
+average: '29.9997058823528'
 ---
 
-Ahora mismo tienes [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   XL](https://www.amazon.es/dp/B076HQRTC2/?tag=tolees-21) a 27.81 EUR (original: 39.99 EUR) (30.46 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   XL](https://www.amazon.es/dp/B076HQRTC2/?tag=tolees-21) a 27.35 EUR (original: 39.99 EUR) (31.61 %  de descuento) en el siguiente enlace!
 
 [![adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg)](https://www.amazon.es/dp/B076HQRTC2/?tag=tolees-21)
 
 🔎:
 
-- Es adecuada para el futbol
-- Tiene una capucha ajustable con cordón
-- Sudadera adecuada para hombres
 - Cuenta con un bolsillo de tipo canguro
+- Es adecuada para el futbol
+- Sudadera adecuada para hombres
+- Tiene una capucha ajustable con cordón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HQRTC2/?tag=tolees-21)
