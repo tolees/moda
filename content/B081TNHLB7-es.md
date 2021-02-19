@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas FL TRG Hzip Camiseta de Manga Larga  Hombre  Black  M
 
 🔎:
 
-- Slim fit
-- Climacool Technology
 - adidas logo on the frontal
+- Climacool Technology
+- Slim fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081TNHLB7/?tag=tolees-21)

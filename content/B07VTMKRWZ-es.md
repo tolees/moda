@@ -28,8 +28,8 @@ Ahora mismo tienes [Burton Classic Mountain High Camiseta  Hombre  Dress Blue  X
 
 🔎:
 
-- Logo serigrafiado suave al tacto en el pecho
 - Preencogido
 - Ajuste clásico
+- Logo serigrafiado suave al tacto en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VTMKRWZ/?tag=tolees-21)
