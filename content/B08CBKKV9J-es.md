@@ -28,10 +28,10 @@ Tienes [adidas ZNE Pant Pantalón  Hombre  Negro/Blanco  S](https://www.amazon.e
 
 🔎:
 
+- Bolsillos laterales
 - Puños ajustados
 - Cintura elástica con cordón
 - Pantalón deportivo
 - Punto doble 60% algodón / 40% poliéster reciclado
-- Bolsillos laterales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CBKKV9J/?tag=tolees-21)

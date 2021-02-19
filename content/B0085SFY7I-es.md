@@ -29,8 +29,8 @@ Ahora mismo tienes [Jack & Jones Jones - Camiseta de manga corta con cuello redo
 🔎:
 
 - Artículo: 12058529 BASIC TEE
-- Estación: Otoño/Invierno
-- Color: OPTICAL WHITE
 - Designer: JACK&JONES
+- Color: OPTICAL WHITE
+- Estación: Otoño/Invierno
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0085SFY7I/?tag=tolees-21)
