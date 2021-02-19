@@ -28,8 +28,8 @@ Tienes [Levi s Innovation Super Skinny Vaqueros  Negro  Black Galaxy 0039   W29/
 
 🔎:
 
-- Vaqueros para mujer
 - Parche de piel con logotipo de Levis Two Horse
+- Vaqueros para mujer
 - Ajustados en la cadera y el muslo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D2JJ7Q4/?tag=tolees-21)
