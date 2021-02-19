@@ -29,7 +29,7 @@ Tienes [Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para El Tiempo L
 🔎:
 
 - Cinta distintiva en el interior del cuello
-- Logo de Tommy Hilfiger bordado en la manga
 - Logo de Tommy Hilfiger en la parte delantera
+- Logo de Tommy Hilfiger bordado en la manga
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N4STNBL/?tag=tolees-21)
