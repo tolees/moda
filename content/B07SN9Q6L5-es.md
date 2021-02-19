@@ -28,8 +28,8 @@ Tienes [adidas FreeLift Climachill 3-Stripes tee Men Camiseta de Manga Corta  Ho
 
 ℹ️:
 
-- Soft fabric
 - Regular fit
 - Adidas logo
+- Soft fabric
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SN9Q6L5/?tag=tolees-21)

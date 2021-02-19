@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Relaxed Graphic tee Camiseta  Whi al 28.00 % de rebaja'
-date: 2021-02-18 06:08:30
+date: 2021-02-19 06:30:41
 image: 'https://m.media-amazon.com/images/I/31+Jp-8pCSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07RZLJDB9/?tag=tolees-21'
 descuento: '28.00'
-average: '17.3177894736844'
+average: '17.3318556701033'
 ---
 
 Tienes [Levi s Relaxed Graphic tee Camiseta  White  90 s Serif Logo White 0026   Large para Hombre](https://www.amazon.es/dp/B07RZLJDB9/?tag=tolees-21) con precio final de  18.0 EUR (original: 25.0 EUR) (28.00 %  de rebaja) aqui!
@@ -29,7 +29,7 @@ Tienes [Levi s Relaxed Graphic tee Camiseta  White  90 s Serif Logo White 0026  
 🔎:
 
 - Con logotipo de inspiración noventera
-- Modelo casual
 - Tejido de punto con tacto suave
+- Modelo casual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RZLJDB9/?tag=tolees-21)
