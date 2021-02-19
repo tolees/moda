@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Zip Through Track Tweeter Chaleco de Sudadera 
 
 🔎:
 
-- Bolsillo estilo canguro dividido con cremalleras ocultas
-- Puños y cintura acanalados
 - Cuello alzado
-- Etiqueta de G-Star RAW en el pecho, raya estampada en la parte alta de la espalda y en las mangas
+- Bolsillo estilo canguro dividido con cremalleras ocultas
 - Manga larga recta insertada
+- Puños y cintura acanalados
+- Etiqueta de G-Star RAW en el pecho, raya estampada en la parte alta de la espalda y en las mangas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CKKBCW/?tag=tolees-21)
