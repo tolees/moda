@@ -28,10 +28,10 @@ Ahora mismo tienes [LEVI S 711 Skinny Vaqueros Mujeres Role/Model - EU 34/36  US
 
 🔎:
 
-- Cierre: cremallera.
-- Palancas
-- Serie de Levis 700er.
 - 87% algodón, 12% poliéster, 1% elastano.
+- Cierre: cremallera.
+- Serie de Levis 700er.
 - Número de modelo: 18881-0005.
+- Palancas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MYZSZ2W/?tag=tolees-21)
