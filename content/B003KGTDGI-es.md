@@ -29,7 +29,7 @@ En este momento está [Ray-Ban New Wayfarer  Gafas de Sol Unisex adulto  Negro  
 🔎:
 
 - Color del producto es negro (black 622)
-- Instrucciones de cuidado: Wipe with damp cloth
 - Producto de alta calidad de la marca RAY-BAN
+- Instrucciones de cuidado: Wipe with damp cloth
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003KGTDGI/?tag=tolees-21)
