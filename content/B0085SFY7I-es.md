@@ -28,8 +28,8 @@ Ahora mismo tienes [Jack & Jones Jones - Camiseta de manga corta con cuello redo
 
 🔎:
 
-- Artículo: 12058529 BASIC TEE
 - Designer: JACK&JONES
+- Artículo: 12058529 BASIC TEE
 - Color: OPTICAL WHITE
 - Estación: Otoño/Invierno
 
