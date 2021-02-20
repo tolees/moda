@@ -28,10 +28,10 @@ En este momento está [DYKHMATE Zapatillas de Deportes Hombre Ligero Transpirabl
 
 🔎:
 
-- Transpirable: la parte superior tejida voladora brinda una transpirabilidad completa, hace que su pie siempre se mantenga seco y fresco.
-- Ultraligero: siéntete como si no llevaras nada, cuando en el momento en que te pones los zapatos, reduce el estrés durante largas caminatas o carreras.
-- Cómodo: la plantilla suave y más gruesa se ajusta bien y evita que sus pies sufran golpes y heridas.
-- Ocasiones: combina bien con jeans, pantalones cortos, faldas, ropa deportiva, etc. Perfecto para gimnasia, deportes y ropa casual, uso duradero para verano, otoño, primavera e invierno.
 - Duradero: la suela de goma con antideslizante SRA resiste el uso al aire libre.
+- Ultraligero: siéntete como si no llevaras nada, cuando en el momento en que te pones los zapatos, reduce el estrés durante largas caminatas o carreras.
+- Ocasiones: combina bien con jeans, pantalones cortos, faldas, ropa deportiva, etc. Perfecto para gimnasia, deportes y ropa casual, uso duradero para verano, otoño, primavera e invierno.
+- Transpirable: la parte superior tejida voladora brinda una transpirabilidad completa, hace que su pie siempre se mantenga seco y fresco.
+- Cómodo: la plantilla suave y más gruesa se ajusta bien y evita que sus pies sufran golpes y heridas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08Q85G8BG/?tag=tolees-21)
