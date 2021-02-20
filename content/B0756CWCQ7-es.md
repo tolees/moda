@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Un Trek Part  Sandalias de Talón  al 37.00 % de descuento'
-date: 2021-02-19 10:19:47
+date: 2021-02-20 16:17:57
 image: 'https://m.media-amazon.com/images/I/41YW5dnxg7L._SL200_.jpg'
 comments: true
 category: ofertas
