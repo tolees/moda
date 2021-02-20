@@ -28,8 +28,8 @@ Tienes [NIKE Kawa Shower  Zapatos de Playa y Piscina Hombre  Negro  Black/White 
 
 🔎:
 
-- Flexibilidad
-- Con espuma duradera
 - Transpirable
+- Con espuma duradera
+- Flexibilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N97XDI4/?tag=tolees-21)
