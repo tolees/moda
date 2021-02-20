@@ -28,8 +28,8 @@ Tienes [adidas DT5268 Chaqueta  Unisex niños  Azul  Bold Blue/Dark/White   13-1
 
 🔎:
 
-- Front pockets
-- Full zip
 - Regular fit
+- Full zip
+- Front pockets
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KDFJ9TM/?tag=tolees-21)
