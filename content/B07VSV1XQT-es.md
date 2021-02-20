@@ -28,7 +28,7 @@ Está [G-STAR RAW Silber Slim Fit Camiseta  Azul  Servant Blue Htr C084-B239   S
 
 ℹ️:
 
-- Nuestras camisetas son prendas vers\u00E1tiles que combinan con cualquier estilo, tanto informal como elegante.
 - Con la colecci\u00F3n de camisetas de G-Star RAW, te resultar\u00E1 facil\u00EDsimo lucir un estilo incre\u00EDble temporada tras temporada.
+- Nuestras camisetas son prendas vers\u00E1tiles que combinan con cualquier estilo, tanto informal como elegante.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VSV1XQT/?tag=tolees-21)

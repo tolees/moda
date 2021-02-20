@@ -28,8 +28,8 @@ Está [Levi s Graphic tee Camiseta  Black  Boxtab SS T2 Mineral Black 0002   XS 
 
 ℹ️:
 
-- . Descripción del producto Ver abajo para más información.
 - estrenar y genuino. Somos un vendedor autorizado de Levis
 - Levis Negro Boxtab camiseta gráfica
+- . Descripción del producto Ver abajo para más información.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TT6BRRP/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Uvex sportstyle 225 Gafas de deporte  Adultos unisex  white mat  one siz
 
 🔎:
 
-- Protección 100.% uva, uvb y uvc
 - Patillas suaves para una gran comodidad sin ejercer presión y una perfecta sujeción
-- Alta reducción de la radiación solar mediante la categoría de filtro 3 con una penetración de la luz del 9-18.%
-- El acabado con moderno efecto espejo a juego de los lentes protege adicionalmente de la radiación infrarroja
 - Las almohadillas suaves para la nariz proporcionan un ajuste óptimo y la máxima comodidad
+- El acabado con moderno efecto espejo a juego de los lentes protege adicionalmente de la radiación infrarroja
+- Protección 100.% uva, uvb y uvc
+- Alta reducción de la radiación solar mediante la categoría de filtro 3 con una penetración de la luz del 9-18.%
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GRT14ZS/?tag=tolees-21)
