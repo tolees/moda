@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler SS Pocket tee Camiseta  Amarill al 70.55 % de rebaja'
 date: 2020-01-29 10:18:05
-image: 'https://m.media-amazon.com/images/I/414mq3PU6nL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414mq3PU6nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.82'
 
 Tienes [Wrangler SS Pocket tee Camiseta  Amarillo  Mineral Yellow Y02   Small para Hombre](https://www.amazon.es/dp/B07M5F4GPL/?tag=tolees-21) con precio final de  8.82 EUR (original: 29.95 EUR) (70.55 %  de rebaja) aqui!
 
-[![Wrangler SS Pocket tee Camiseta  Amarill](https://m.media-amazon.com/images/I/414mq3PU6nL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07M5F4GPL/?tag=tolees-21)
+[![Wrangler SS Pocket tee Camiseta  Amarill](https://m.media-amazon.com/images/I/414mq3PU6nL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07M5F4GPL/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tous Billetera M. Carlata Plata-Rosa  Mo al 28.94 % de descuento'
 date: 2020-06-24 09:11:58
-image: 'https://m.media-amazon.com/images/I/41T516M4g5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T516M4g5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.625'
 
 Ahora mismo tienes [Tous Billetera M. Carlata Plata-Rosa  Monedero para Mujer  Plateado  19.5x11x2 cm  W x H x L ](https://www.amazon.es/dp/B07NBYCKFH/?tag=tolees-21) a 45.25 EUR (original: 63.68 EUR) (28.94 %  de descuento) en el siguiente enlace!
 
-[![Tous Billetera M. Carlata Plata-Rosa  Mo](https://m.media-amazon.com/images/I/41T516M4g5L._SL200_.jpg)](https://www.amazon.es/dp/B07NBYCKFH/?tag=tolees-21)
+[![Tous Billetera M. Carlata Plata-Rosa  Mo](https://m.media-amazon.com/images/I/41T516M4g5L._SL400_.jpg)](https://www.amazon.es/dp/B07NBYCKFH/?tag=tolees-21)
 
 🔎:
 

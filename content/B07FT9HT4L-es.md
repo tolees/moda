@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee SS Western Camisa  Marfil  Blueprint al 55.38 % de rebaja'
 date: 2020-05-02 16:19:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51i0LjdXFzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51i0LjdXFzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.29'
 
 Tienes [Lee SS Western Camisa  Marfil  Blueprint Lh   XX-Large para Hombre](https://www.amazon.es/dp/B07FT9HT4L/?tag=tolees-21) con precio final de  22.29 EUR (original: 49.95 EUR) (55.38 %  de rebaja) aqui!
 
-[![Lee SS Western Camisa  Marfil  Blueprint](https://images-eu.ssl-images-amazon.com/images/I/51i0LjdXFzL._SL200_.jpg)](https://www.amazon.es/dp/B07FT9HT4L/?tag=tolees-21)
+[![Lee SS Western Camisa  Marfil  Blueprint](https://images-eu.ssl-images-amazon.com/images/I/51i0LjdXFzL._SL400_.jpg)](https://www.amazon.es/dp/B07FT9HT4L/?tag=tolees-21)
 
 🔎:
 

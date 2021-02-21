@@ -2,7 +2,7 @@
 layout: post
 title: 'Eastpak The One Bolso bandolera  21 cm   con un 51.00 % de descuento'
 date: 2020-06-22 21:35:50
-image: 'https://m.media-amazon.com/images/I/41lwL6DEMdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lwL6DEMdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.299999999999999'
 
 En este momento está [Eastpak The One Bolso bandolera  21 cm  2.5 L  Gris  Sunday Grey ](https://www.amazon.es/dp/B003PPCYCE/?tag=tolees-21) a 14.7 EUR (original: 30.0 EUR) (51.00 %  de descuento) en el siguiente enlace!
 
-[![Eastpak The One Bolso bandolera  21 cm  ](https://m.media-amazon.com/images/I/41lwL6DEMdL._SL200_.jpg)](https://www.amazon.es/dp/B003PPCYCE/?tag=tolees-21)
+[![Eastpak The One Bolso bandolera  21 cm  ](https://m.media-amazon.com/images/I/41lwL6DEMdL._SL400_.jpg)](https://www.amazon.es/dp/B003PPCYCE/?tag=tolees-21)
 
 🔎:
 

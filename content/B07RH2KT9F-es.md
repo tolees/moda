@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Lynn Mid Waist Skinny Vaquero al 65.03 % de rebaja'
 date: 2020-01-26 08:06:04
-image: 'https://m.media-amazon.com/images/I/41y66m+W6FL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y66m+W6FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.95'
 
 Tienes [G-STAR RAW Lynn Mid Waist Skinny Vaqueros  Faded Glacier D06746  31W / 36L para Mujer](https://www.amazon.es/dp/B07RH2KT9F/?tag=tolees-21) con precio final de  34.95 EUR (original: 99.95 EUR) (65.03 %  de rebaja) aqui!
 
-[![G-STAR RAW Lynn Mid Waist Skinny Vaquero](https://m.media-amazon.com/images/I/41y66m+W6FL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RH2KT9F/?tag=tolees-21)
+[![G-STAR RAW Lynn Mid Waist Skinny Vaquero](https://m.media-amazon.com/images/I/41y66m+W6FL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RH2KT9F/?tag=tolees-21)
 
 🔎:
 

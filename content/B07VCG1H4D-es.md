@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual TS varsovia Camiseta  Azul  Est al 50.06 % de rebaja'
 date: 2020-09-15 08:46:18
-image: 'https://m.media-amazon.com/images/I/41UY8hkumPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UY8hkumPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Tienes [Desigual TS varsovia Camiseta  Azul  Estate Blue 5016   Medium para Mujer](https://www.amazon.es/dp/B07VCG1H4D/?tag=tolees-21) con precio final de  19.95 EUR (original: 39.95 EUR) (50.06 %  de rebaja) aqui!
 
-[![Desigual TS varsovia Camiseta  Azul  Est](https://m.media-amazon.com/images/I/41UY8hkumPL._SL200_.jpg)](https://www.amazon.es/dp/B07VCG1H4D/?tag=tolees-21)
+[![Desigual TS varsovia Camiseta  Azul  Est](https://m.media-amazon.com/images/I/41UY8hkumPL._SL400_.jpg)](https://www.amazon.es/dp/B07VCG1H4D/?tag=tolees-21)
 
 🔎:
 

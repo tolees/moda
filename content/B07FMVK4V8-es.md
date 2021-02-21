@@ -2,7 +2,7 @@
 layout: post
 title: 'Converse Converse EDC 22 Backpack 100070 con un 49.70 % de descuento'
 date: 2020-03-31 17:39:46
-image: 'https://m.media-amazon.com/images/I/41mzct-iX2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mzct-iX2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.16'
 
 En este momento está [Converse Converse EDC 22 Backpack 10007031-A06 Bolso Bandolera 46 Centimeters 22 Azul  Navy ](https://www.amazon.es/dp/B07FMVK4V8/?tag=tolees-21) a 17.48 EUR (original: 34.75 EUR) (49.70 %  de descuento) en el siguiente enlace!
 
-[![Converse Converse EDC 22 Backpack 100070](https://m.media-amazon.com/images/I/41mzct-iX2L._SL200_.jpg)](https://www.amazon.es/dp/B07FMVK4V8/?tag=tolees-21)
+[![Converse Converse EDC 22 Backpack 100070](https://m.media-amazon.com/images/I/41mzct-iX2L._SL400_.jpg)](https://www.amazon.es/dp/B07FMVK4V8/?tag=tolees-21)
 
 🔎:
 

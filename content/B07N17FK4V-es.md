@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Button Down Camisa  Gris  Grey Mele  al 70.66 % de rebaja'
 date: 2020-01-20 12:00:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416Q1l6yy6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416Q1l6yy6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.1675'
 
 Tienes [Lee Button Down Camisa  Gris  Grey Mele 37   Large para Hombre](https://www.amazon.es/dp/B07N17FK4V/?tag=tolees-21) con precio final de  20.52 EUR (original: 69.95 EUR) (70.66 %  de rebaja) aqui!
 
-[![Lee Button Down Camisa  Gris  Grey Mele ](https://images-eu.ssl-images-amazon.com/images/I/416Q1l6yy6L._SL200_.jpg)](https://www.amazon.es/dp/B07N17FK4V/?tag=tolees-21)
+[![Lee Button Down Camisa  Gris  Grey Mele ](https://images-eu.ssl-images-amazon.com/images/I/416Q1l6yy6L._SL400_.jpg)](https://www.amazon.es/dp/B07N17FK4V/?tag=tolees-21)
 
 🔎:
 

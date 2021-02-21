@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 999cc2k803 Camiseta  Blanc al 35.04 % de descuento'
 date: 2020-02-26 15:25:26
-image: 'https://m.media-amazon.com/images/I/41nLbyMRqLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nLbyMRqLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.49'
 
 Ahora mismo tienes [edc by Esprit 999cc2k803 Camiseta  Blanco  White 100   Large para Hombre](https://www.amazon.es/dp/B07KGSF62W/?tag=tolees-21) a 6.49 EUR (original: 9.99 EUR) (35.04 %  de descuento) en el siguiente enlace!
 
-[![edc by Esprit 999cc2k803 Camiseta  Blanc](https://m.media-amazon.com/images/I/41nLbyMRqLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KGSF62W/?tag=tolees-21)
+[![edc by Esprit 999cc2k803 Camiseta  Blanc](https://m.media-amazon.com/images/I/41nLbyMRqLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KGSF62W/?tag=tolees-21)
 
 🔎:
 

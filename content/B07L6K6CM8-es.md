@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Armour Insulated Hooded Cha con un 63.74 % de descuento'
 date: 2020-01-19 12:26:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/316sAMnM7nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316sAMnM7nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.14'
 
 En este momento está [Under Armour Armour Insulated Hooded Chaqueta  Mujer  Gris  XS](https://www.amazon.es/dp/B07L6K6CM8/?tag=tolees-21) a 47.14 EUR (original: 130 EUR) (63.74 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Armour Insulated Hooded Cha](https://images-eu.ssl-images-amazon.com/images/I/316sAMnM7nL._SL200_.jpg)](https://www.amazon.es/dp/B07L6K6CM8/?tag=tolees-21)
+[![Under Armour Armour Insulated Hooded Cha](https://images-eu.ssl-images-amazon.com/images/I/316sAMnM7nL._SL400_.jpg)](https://www.amazon.es/dp/B07L6K6CM8/?tag=tolees-21)
 
 🔎:
 

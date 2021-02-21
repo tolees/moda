@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - Iris & Lilly Braga Brasil con un 34.27 % de descuento'
 date: 2020-06-24 14:56:11
-image: 'https://m.media-amazon.com/images/I/31EMWjyZ2TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EMWjyZ2TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.49'
 
 En este momento está [Marca Amazon - Iris & Lilly Braga Brasileña de Microfibra Mujer  Pack de 3  Rojo  Scooter   XS  Label: XS](https://www.amazon.es/dp/B07Y88YC8R/?tag=tolees-21) a 10.49 EUR (original: 15.96 EUR) (34.27 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - Iris & Lilly Braga Brasil](https://m.media-amazon.com/images/I/31EMWjyZ2TL._SL200_.jpg)](https://www.amazon.es/dp/B07Y88YC8R/?tag=tolees-21)
+[![Marca Amazon - Iris & Lilly Braga Brasil](https://m.media-amazon.com/images/I/31EMWjyZ2TL._SL400_.jpg)](https://www.amazon.es/dp/B07Y88YC8R/?tag=tolees-21)
 
 🔎:
 

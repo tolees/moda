@@ -2,7 +2,7 @@
 layout: post
 title: 'Springfield Frq Stripes Kodak Gg12 Jerse con un 49.62 % de descuento'
 date: 2020-04-01 20:41:57
-image: 'https://m.media-amazon.com/images/I/412z6HA9doL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412z6HA9doL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.11'
 
 En este momento está [Springfield Frq Stripes Kodak Gg12 Jersey  Azul  Blue 11   X-Large  Tamaño del Fabricante: XL  para Hombre](https://www.amazon.es/dp/B07NQTQDX3/?tag=tolees-21) a 15.11 EUR (original: 29.99 EUR) (49.62 %  de descuento) en el siguiente enlace!
 
-[![Springfield Frq Stripes Kodak Gg12 Jerse](https://m.media-amazon.com/images/I/412z6HA9doL._SL200_.jpg)](https://www.amazon.es/dp/B07NQTQDX3/?tag=tolees-21)
+[![Springfield Frq Stripes Kodak Gg12 Jerse](https://m.media-amazon.com/images/I/412z6HA9doL._SL400_.jpg)](https://www.amazon.es/dp/B07NQTQDX3/?tag=tolees-21)
 
 🔎:
 

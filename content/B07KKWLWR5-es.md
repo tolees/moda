@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 16.08 % en Nike M Breathe Academy SS Gx2 Camiseta  '
 date: 2020-02-18 12:16:36
-image: 'https://m.media-amazon.com/images/I/41RxmE+GOHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RxmE+GOHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.15'
 
 Tienes [Nike M Breathe Academy SS Gx2 Camiseta  Hombre  Amarillo  OPTI Yellow/Anthracite   S](https://www.amazon.es/dp/B07KKWLWR5/?tag=tolees-21) con un 16.08 % de descuento con precio de oferta de 7.15 EUR (original: 8.52 EUR) en el siguiente enlace!
 
-[![Nike M Breathe Academy SS Gx2 Camiseta  ](https://m.media-amazon.com/images/I/41RxmE+GOHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KKWLWR5/?tag=tolees-21)
+[![Nike M Breathe Academy SS Gx2 Camiseta  ](https://m.media-amazon.com/images/I/41RxmE+GOHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KKWLWR5/?tag=tolees-21)
 
 ℹ️:
 

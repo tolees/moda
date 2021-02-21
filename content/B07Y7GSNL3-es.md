@@ -2,7 +2,7 @@
 layout: post
 title: 'GANT Jersey Fantasia Redondo - Color - A con un 30.00 % de descuento'
 date: 2020-01-21 02:01:55
-image: 'https://images-eu.ssl-images-amazon.com/images/I/518nCFCCTaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518nCFCCTaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '76.3'
 
 En este momento está [GANT Jersey Fantasia Redondo - Color - Azul  Talla - 2XL](https://www.amazon.es/dp/B07Y7GSNL3/?tag=tolees-21) a 76.3 EUR (original: 109 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![GANT Jersey Fantasia Redondo - Color - A](https://images-eu.ssl-images-amazon.com/images/I/518nCFCCTaL._SL200_.jpg)](https://www.amazon.es/dp/B07Y7GSNL3/?tag=tolees-21)
+[![GANT Jersey Fantasia Redondo - Color - A](https://images-eu.ssl-images-amazon.com/images/I/518nCFCCTaL._SL400_.jpg)](https://www.amazon.es/dp/B07Y7GSNL3/?tag=tolees-21)
 
 🔎:
 

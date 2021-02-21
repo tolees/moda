@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler LS Refined Polo Camisa Manga La al 49.99 % de rebaja'
 date: 2020-01-07 11:07:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31fgSBzw3rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fgSBzw3rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.48'
 
 Tienes [Wrangler LS Refined Polo Camisa Manga Larga  Azul  Blue Depth Xjy   Large para Hombre](https://www.amazon.es/dp/B07M5F44LT/?tag=tolees-21) con precio final de  22.48 EUR (original: 44.95 EUR) (49.99 %  de rebaja) aqui!
 
-[![Wrangler LS Refined Polo Camisa Manga La](https://images-eu.ssl-images-amazon.com/images/I/31fgSBzw3rL._SL200_.jpg)](https://www.amazon.es/dp/B07M5F44LT/?tag=tolees-21)
+[![Wrangler LS Refined Polo Camisa Manga La](https://images-eu.ssl-images-amazon.com/images/I/31fgSBzw3rL._SL400_.jpg)](https://www.amazon.es/dp/B07M5F44LT/?tag=tolees-21)
 
 🔎:
 

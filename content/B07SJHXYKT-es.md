@@ -2,7 +2,7 @@
 layout: post
 title: 'Burton Underhill Camiseta  Hombre  Stout al 33.36 % de descuento'
 date: 2020-09-04 17:25:41
-image: 'https://m.media-amazon.com/images/I/317p+JNyUUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317p+JNyUUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Ahora mismo tienes [Burton Underhill Camiseta  Hombre  Stout White  XL](https://www.amazon.es/dp/B07SJHXYKT/?tag=tolees-21) a 21.99 EUR (original: 33.0 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
-[![Burton Underhill Camiseta  Hombre  Stout](https://m.media-amazon.com/images/I/317p+JNyUUL._SL200_.jpg)](https://www.amazon.es/dp/B07SJHXYKT/?tag=tolees-21)
+[![Burton Underhill Camiseta  Hombre  Stout](https://m.media-amazon.com/images/I/317p+JNyUUL._SL400_.jpg)](https://www.amazon.es/dp/B07SJHXYKT/?tag=tolees-21)
 
 🔎:
 

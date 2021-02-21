@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Liga Sideline Jh Chaqueta de Entren con un 49.04 % de descuento'
 date: 2020-05-26 07:14:45
-image: 'https://m.media-amazon.com/images/I/31iraLNRGfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iraLNRGfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.81'
 
 En este momento está [Puma Liga Sideline Jh Chaqueta de Entrenamiento con Cremallera  Hombre  Negro Black White  3XL](https://www.amazon.es/dp/B07B3PMQYT/?tag=tolees-21) a 17.81 EUR (original: 34.95 EUR) (49.04 %  de descuento) en el siguiente enlace!
 
-[![Puma Liga Sideline Jh Chaqueta de Entren](https://m.media-amazon.com/images/I/31iraLNRGfL._SL200_.jpg)](https://www.amazon.es/dp/B07B3PMQYT/?tag=tolees-21)
+[![Puma Liga Sideline Jh Chaqueta de Entren](https://m.media-amazon.com/images/I/31iraLNRGfL._SL400_.jpg)](https://www.amazon.es/dp/B07B3PMQYT/?tag=tolees-21)
 
 🔎:
 

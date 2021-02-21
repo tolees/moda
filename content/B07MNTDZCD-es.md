@@ -2,7 +2,7 @@
 layout: post
 title: 'oodji Ultra Mujer Blusa Ancha con Escote al 20.00 % de descuento'
 date: 2020-09-22 18:29:40
-image: 'https://m.media-amazon.com/images/I/41NfxonHaYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NfxonHaYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.0'
 
 Ahora mismo tienes [oodji Ultra Mujer Blusa Ancha con Escote Gota en la Espalda  Verde  ES 34 / XXS](https://www.amazon.es/dp/B07MNTDZCD/?tag=tolees-21) a 12.0 EUR (original: 15.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![oodji Ultra Mujer Blusa Ancha con Escote](https://m.media-amazon.com/images/I/41NfxonHaYL._SL200_.jpg)](https://www.amazon.es/dp/B07MNTDZCD/?tag=tolees-21)
+[![oodji Ultra Mujer Blusa Ancha con Escote](https://m.media-amazon.com/images/I/41NfxonHaYL._SL400_.jpg)](https://www.amazon.es/dp/B07MNTDZCD/?tag=tolees-21)
 
 🔎:
 

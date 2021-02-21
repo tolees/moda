@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Embossed Classics tee Camiseta  al 65.16 % de rebaja'
 date: 2020-02-23 20:48:46
-image: 'https://m.media-amazon.com/images/I/41JyEb4zSnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JyEb4zSnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.19'
 
 Tienes [Superdry Embossed Classics tee Camiseta  Rojo  Rouge Red Wa7   X-Large para Hombre](https://www.amazon.es/dp/B07P4HXWCZ/?tag=tolees-21) con precio final de  12.19 EUR (original: 34.99 EUR) (65.16 %  de rebaja) aqui!
 
-[![Superdry Embossed Classics tee Camiseta ](https://m.media-amazon.com/images/I/41JyEb4zSnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07P4HXWCZ/?tag=tolees-21)
+[![Superdry Embossed Classics tee Camiseta ](https://m.media-amazon.com/images/I/41JyEb4zSnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07P4HXWCZ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Camiseta Polo Clásica Lis al 25.06 % de rebaja'
 date: 2020-06-12 08:19:25
-image: 'https://m.media-amazon.com/images/I/31N8jUKw2YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31N8jUKw2YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Tienes [Charles Wilson Camiseta Polo Clásica Lisa  X-Small  Graphite  1019  ](https://www.amazon.es/dp/B07Z2T84YY/?tag=tolees-21) con precio final de  14.95 EUR (original: 19.95 EUR) (25.06 %  de rebaja) aqui!
 
-[![Charles Wilson Camiseta Polo Clásica Lis](https://m.media-amazon.com/images/I/31N8jUKw2YL._SL200_.jpg)](https://www.amazon.es/dp/B07Z2T84YY/?tag=tolees-21)
+[![Charles Wilson Camiseta Polo Clásica Lis](https://m.media-amazon.com/images/I/31N8jUKw2YL._SL400_.jpg)](https://www.amazon.es/dp/B07Z2T84YY/?tag=tolees-21)
 
 🔎:
 

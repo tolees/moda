@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.85 % en Geox U WALEE A  Zapatillas para Hombre  '
 date: 2020-05-11 04:28:37
-image: 'https://m.media-amazon.com/images/I/41xB2ipjmqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xB2ipjmqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.48'
 
 Tienes [Geox U WALEE A  Zapatillas para Hombre  Azul  Navy c4002   40 EU](https://www.amazon.es/dp/B01MDQN9N0/?tag=tolees-21) con un 43.85 % de descuento con precio de oferta de 50.48 EUR (original: 89.9 EUR) en el siguiente enlace!
 
-[![Geox U WALEE A  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/41xB2ipjmqL._SL200_.jpg)](https://www.amazon.es/dp/B01MDQN9N0/?tag=tolees-21)
+[![Geox U WALEE A  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/41xB2ipjmqL._SL400_.jpg)](https://www.amazon.es/dp/B01MDQN9N0/?tag=tolees-21)
 
 ℹ️:
 

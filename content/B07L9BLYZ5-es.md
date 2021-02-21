@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 58.04 % en Under Armour UA Qualifier Tank Camiseta '
 date: 2020-04-24 10:36:59
-image: 'https://m.media-amazon.com/images/I/41fjk03mo5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fjk03mo5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.88'
 
 Tienes [Under Armour UA Qualifier Tank Camiseta sin Mangas  Mujer  Rosa  Coral Dust/Reflective 642   M](https://www.amazon.es/dp/B07L9BLYZ5/?tag=tolees-21) con un 58.04 % de descuento con precio de oferta de 18.88 EUR (original: 45.0 EUR) en el siguiente enlace!
 
-[![Under Armour UA Qualifier Tank Camiseta ](https://m.media-amazon.com/images/I/41fjk03mo5L._SL200_.jpg)](https://www.amazon.es/dp/B07L9BLYZ5/?tag=tolees-21)
+[![Under Armour UA Qualifier Tank Camiseta ](https://m.media-amazon.com/images/I/41fjk03mo5L._SL400_.jpg)](https://www.amazon.es/dp/B07L9BLYZ5/?tag=tolees-21)
 
 ℹ️:
 

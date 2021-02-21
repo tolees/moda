@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Liga Training Rain Core Camiseta de al 58.32 % de descuento'
 date: 2020-02-11 02:59:23
-image: 'https://m.media-amazon.com/images/I/41O7Z+ve+cL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41O7Z+ve+cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.82'
 
 Está [Puma Liga Training Rain Core Camiseta de equipación  Hombre  Negro Black White  M](https://www.amazon.es/dp/B0781ZBJLB/?tag=tolees-21) con 58.32 de descuento por 20.82 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![Puma Liga Training Rain Core Camiseta de](https://m.media-amazon.com/images/I/41O7Z+ve+cL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0781ZBJLB/?tag=tolees-21)
+[![Puma Liga Training Rain Core Camiseta de](https://m.media-amazon.com/images/I/41O7Z+ve+cL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0781ZBJLB/?tag=tolees-21)
 
 ℹ️:
 

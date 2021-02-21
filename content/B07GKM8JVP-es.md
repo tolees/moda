@@ -2,7 +2,7 @@
 layout: post
 title: 'Ever-Pretty A-línea Vestido de Fiesta Cu con un 31.25 % de descuento'
 date: 2020-07-29 10:33:40
-image: 'https://m.media-amazon.com/images/I/31X0saEyl4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31X0saEyl4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.99'
 
 En este momento está [Ever-Pretty A-línea Vestido de Fiesta Cuello en V Manga Corta Gasa Corte Imperio para Mujer Rosado 50](https://www.amazon.es/dp/B07GKM8JVP/?tag=tolees-21) a 54.99 EUR (original: 79.99 EUR) (31.25 %  de descuento) en el siguiente enlace!
 
-[![Ever-Pretty A-línea Vestido de Fiesta Cu](https://m.media-amazon.com/images/I/31X0saEyl4L._SL200_.jpg)](https://www.amazon.es/dp/B07GKM8JVP/?tag=tolees-21)
+[![Ever-Pretty A-línea Vestido de Fiesta Cu](https://m.media-amazon.com/images/I/31X0saEyl4L._SL400_.jpg)](https://www.amazon.es/dp/B07GKM8JVP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Dr. Martens 1461  Zapatos de cordones pa al 48.62 % de descuento'
 date: 2020-07-22 07:12:45
-image: 'https://m.media-amazon.com/images/I/41godEO2boL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41godEO2boL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.7'
 
 Está [Dr. Martens 1461  Zapatos de cordones para Hombre  Rojo  Cherry Red   37 EU](https://www.amazon.es/dp/B00196JOFG/?tag=tolees-21) con 48.62 de descuento por 81.7 EUR (original: 159.0 EUR) en el siguiente enlace!
 
-[![Dr. Martens 1461  Zapatos de cordones pa](https://m.media-amazon.com/images/I/41godEO2boL._SL200_.jpg)](https://www.amazon.es/dp/B00196JOFG/?tag=tolees-21)
+[![Dr. Martens 1461  Zapatos de cordones pa](https://m.media-amazon.com/images/I/41godEO2boL._SL400_.jpg)](https://www.amazon.es/dp/B00196JOFG/?tag=tolees-21)
 
 ℹ️:
 

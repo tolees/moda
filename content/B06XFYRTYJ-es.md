@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Colorblock tee - Camiseta para Homb al 32.60 % de descuento'
 date: 2020-08-29 19:45:40
-image: 'https://m.media-amazon.com/images/I/31rHaEDUilL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rHaEDUilL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.106666666666666'
 
 Está [Vans Colorblock tee - Camiseta para Hombre   Blanco  White/black   Large](https://www.amazon.es/dp/B06XFYRTYJ/?tag=tolees-21) con 32.60 de descuento por 16.85 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Vans Colorblock tee - Camiseta para Homb](https://m.media-amazon.com/images/I/31rHaEDUilL._SL200_.jpg)](https://www.amazon.es/dp/B06XFYRTYJ/?tag=tolees-21)
+[![Vans Colorblock tee - Camiseta para Homb](https://m.media-amazon.com/images/I/31rHaEDUilL._SL400_.jpg)](https://www.amazon.es/dp/B06XFYRTYJ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Verdster Islander – Gafas de Sol Clásica con un 15.02 % de descuento'
 date: 2020-09-25 01:35:53
-image: 'https://m.media-amazon.com/images/I/41Rq-b4EECL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rq-b4EECL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.296666666666667'
 
 En este momento está [Verdster Islander – Gafas de Sol Clásicas de Espejo Anchas para Hombre & Mujer – Gafas de Sol Anchas a la Moda – Accesorios Incluidos](https://www.amazon.es/dp/B0741CHMB8/?tag=tolees-21) a 16.97 EUR (original: 19.97 EUR) (15.02 %  de descuento) en el siguiente enlace!
 
-[![Verdster Islander – Gafas de Sol Clásica](https://m.media-amazon.com/images/I/41Rq-b4EECL._SL200_.jpg)](https://www.amazon.es/dp/B0741CHMB8/?tag=tolees-21)
+[![Verdster Islander – Gafas de Sol Clásica](https://m.media-amazon.com/images/I/41Rq-b4EECL._SL400_.jpg)](https://www.amazon.es/dp/B0741CHMB8/?tag=tolees-21)
 
 🔎:
 

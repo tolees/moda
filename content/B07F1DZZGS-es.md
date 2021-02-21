@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Top Mix  Chanclas Unisex Adult al 22.61 % de descuento'
 date: 2020-08-06 08:01:21
-image: 'https://m.media-amazon.com/images/I/516Hlv288NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516Hlv288NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.9'
 
 Está [Havaianas Top Mix  Chanclas Unisex Adulto  Multicolor  Lake Green/Flamingo   37/38 EU](https://www.amazon.es/dp/B07F1DZZGS/?tag=tolees-21) con 22.61 de descuento por 15.4 EUR (original: 19.9 EUR) en el siguiente enlace!
 
-[![Havaianas Top Mix  Chanclas Unisex Adult](https://m.media-amazon.com/images/I/516Hlv288NL._SL200_.jpg)](https://www.amazon.es/dp/B07F1DZZGS/?tag=tolees-21)
+[![Havaianas Top Mix  Chanclas Unisex Adult](https://m.media-amazon.com/images/I/516Hlv288NL._SL400_.jpg)](https://www.amazon.es/dp/B07F1DZZGS/?tag=tolees-21)
 
 ℹ️:
 

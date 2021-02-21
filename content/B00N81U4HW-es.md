@@ -2,7 +2,7 @@
 layout: post
 title: 'Joma Iris Chaqueta  Niños  Negro  6XS al 33.20 % de rebaja'
 date: 2020-06-08 09:25:43
-image: 'https://m.media-amazon.com/images/I/413rMGHrgVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413rMGHrgVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [Joma Iris Chaqueta  Niños  Negro  6XS](https://www.amazon.es/dp/B00N81U4HW/?tag=tolees-21) con precio final de  11.99 EUR (original: 17.95 EUR) (33.20 %  de rebaja) aqui!
 
-[![Joma Iris Chaqueta  Niños  Negro  6XS](https://m.media-amazon.com/images/I/413rMGHrgVL._SL200_.jpg)](https://www.amazon.es/dp/B00N81U4HW/?tag=tolees-21)
+[![Joma Iris Chaqueta  Niños  Negro  6XS](https://m.media-amazon.com/images/I/413rMGHrgVL._SL400_.jpg)](https://www.amazon.es/dp/B00N81U4HW/?tag=tolees-21)
 
 🔎:
 

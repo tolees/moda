@@ -2,7 +2,7 @@
 layout: post
 title: 'Pendientes de Moda Rectángulo Largo Azul con un 20.01 % de descuento'
 date: 2020-08-20 08:47:33
-image: 'https://m.media-amazon.com/images/I/41emiRzst1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41emiRzst1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 En este momento está [Pendientes de Moda Rectángulo Largo Azul Gris y Púrpura para Mujeres](https://www.amazon.es/dp/B01MQURFK3/?tag=tolees-21) a 19.99 EUR (original: 24.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![Pendientes de Moda Rectángulo Largo Azul](https://m.media-amazon.com/images/I/41emiRzst1L._SL200_.jpg)](https://www.amazon.es/dp/B01MQURFK3/?tag=tolees-21)
+[![Pendientes de Moda Rectángulo Largo Azul](https://m.media-amazon.com/images/I/41emiRzst1L._SL400_.jpg)](https://www.amazon.es/dp/B01MQURFK3/?tag=tolees-21)
 
 🔎:
 

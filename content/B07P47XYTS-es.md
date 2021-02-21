@@ -2,7 +2,7 @@
 layout: post
 title: 'PIECES Pckaysa SL Dress Noos Vestido  Ro al 44.78 % de descuento'
 date: 2020-09-01 12:25:38
-image: 'https://m.media-amazon.com/images/I/21iptgPBmYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21iptgPBmYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.56'
 
 Ahora mismo tienes [PIECES Pckaysa SL Dress Noos Vestido  Rosa  Peach Skin Peach Skin   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07P47XYTS/?tag=tolees-21) a 16.56 EUR (original: 29.99 EUR) (44.78 %  de descuento) en el siguiente enlace!
 
-[![PIECES Pckaysa SL Dress Noos Vestido  Ro](https://m.media-amazon.com/images/I/21iptgPBmYL._SL200_.jpg)](https://www.amazon.es/dp/B07P47XYTS/?tag=tolees-21)
+[![PIECES Pckaysa SL Dress Noos Vestido  Ro](https://m.media-amazon.com/images/I/21iptgPBmYL._SL400_.jpg)](https://www.amazon.es/dp/B07P47XYTS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tamaris 1-1-22444-23  Zapatos de Tacón p al 67.75 % de descuento'
 date: 2020-04-11 16:52:10
-image: 'https://m.media-amazon.com/images/I/413S-w3h5ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413S-w3h5ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.11'
 
 Está [Tamaris 1-1-22444-23  Zapatos de Tacón para Mujer  Negro  Leo Pat.Comb. 317   38 EU](https://www.amazon.es/dp/B07NHQ5P6X/?tag=tolees-21) con 67.75 de descuento por 16.11 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![Tamaris 1-1-22444-23  Zapatos de Tacón p](https://m.media-amazon.com/images/I/413S-w3h5ZL._SL200_.jpg)](https://www.amazon.es/dp/B07NHQ5P6X/?tag=tolees-21)
+[![Tamaris 1-1-22444-23  Zapatos de Tacón p](https://m.media-amazon.com/images/I/413S-w3h5ZL._SL400_.jpg)](https://www.amazon.es/dp/B07NHQ5P6X/?tag=tolees-21)
 
 ℹ️:
 

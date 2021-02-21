@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Slim Flatform  Chanclas para M al 54.98 % de rebaja'
 date: 2020-08-27 11:26:11
-image: 'https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.56'
 
 Tienes [Havaianas Slim Flatform  Chanclas para Mujer  Azul  Blue 0057   41/42 EU](https://www.amazon.es/dp/B07TLPTTH9/?tag=tolees-21) con precio final de  12.56 EUR (original: 27.9 EUR) (54.98 %  de rebaja) aqui!
 
-[![Havaianas Slim Flatform  Chanclas para M](https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL200_.jpg)](https://www.amazon.es/dp/B07TLPTTH9/?tag=tolees-21)
+[![Havaianas Slim Flatform  Chanclas para M](https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL400_.jpg)](https://www.amazon.es/dp/B07TLPTTH9/?tag=tolees-21)
 
 🔎:
 

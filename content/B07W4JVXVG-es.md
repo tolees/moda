@@ -2,7 +2,7 @@
 layout: post
 title: 'Only Onlally Boucle Wool Coat CC Otw Abr al 75.77 % de rebaja'
 date: 2020-04-14 11:08:37
-image: 'https://m.media-amazon.com/images/I/41eBFsMrcIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eBFsMrcIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.075'
 
 Tienes [Only Onlally Boucle Wool Coat CC Otw Abrigo  Azul  Peacoat Detail: Melange   Small para Mujer](https://www.amazon.es/dp/B07W4JVXVG/?tag=tolees-21) con precio final de  19.38 EUR (original: 79.99 EUR) (75.77 %  de rebaja) aqui!
 
-[![Only Onlally Boucle Wool Coat CC Otw Abr](https://m.media-amazon.com/images/I/41eBFsMrcIL._SL200_.jpg)](https://www.amazon.es/dp/B07W4JVXVG/?tag=tolees-21)
+[![Only Onlally Boucle Wool Coat CC Otw Abr](https://m.media-amazon.com/images/I/41eBFsMrcIL._SL400_.jpg)](https://www.amazon.es/dp/B07W4JVXVG/?tag=tolees-21)
 
 🔎:
 

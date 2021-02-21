@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.12 % en Lee Brooklyn Comfort  Vaqueros Rectos pa'
 date: 2020-06-28 04:02:42
-image: 'https://m.media-amazon.com/images/I/41nWb0B4HoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nWb0B4HoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.09666666666667'
 
 Tienes [Lee Brooklyn Comfort  Vaqueros Rectos para Hombre  Azul  Dark Stonewash   W33/L30](https://www.amazon.es/dp/B004H5MMFA/?tag=tolees-21) con un 37.12 % de descuento con precio de oferta de 40.17 EUR (original: 63.88 EUR) en el siguiente enlace!
 
-[![Lee Brooklyn Comfort  Vaqueros Rectos pa](https://m.media-amazon.com/images/I/41nWb0B4HoL._SL200_.jpg)](https://www.amazon.es/dp/B004H5MMFA/?tag=tolees-21)
+[![Lee Brooklyn Comfort  Vaqueros Rectos pa](https://m.media-amazon.com/images/I/41nWb0B4HoL._SL400_.jpg)](https://www.amazon.es/dp/B004H5MMFA/?tag=tolees-21)
 
 ℹ️:
 

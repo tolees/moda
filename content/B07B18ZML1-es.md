@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Vestido de Flores con Volantes Muj al 50.00 % de descuento'
 date: 2020-05-01 09:22:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Zr46asNkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Zr46asNkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.5'
 
 Está [find. Vestido de Flores con Volantes Mujer  Rosa  Pink   Medium](https://www.amazon.es/dp/B07B18ZML1/?tag=tolees-21) con 50.00 de descuento por 22.5 EUR (original: 45 EUR) en el siguiente enlace!
 
-[![find. Vestido de Flores con Volantes Muj](https://images-eu.ssl-images-amazon.com/images/I/51Zr46asNkL._SL200_.jpg)](https://www.amazon.es/dp/B07B18ZML1/?tag=tolees-21)
+[![find. Vestido de Flores con Volantes Muj](https://images-eu.ssl-images-amazon.com/images/I/51Zr46asNkL._SL400_.jpg)](https://www.amazon.es/dp/B07B18ZML1/?tag=tolees-21)
 
 ℹ️:
 

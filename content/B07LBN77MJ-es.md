@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen HH Logo Crew Sudadera Depor al 52.58 % de descuento'
 date: 2020-01-03 09:10:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BE3REvlwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BE3REvlwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.45'
 
 Ahora mismo tienes [Helly Hansen HH Logo Crew Sudadera Deportiva  Mujer  Festival Fuchsia  XL](https://www.amazon.es/dp/B07LBN77MJ/?tag=tolees-21) a 28.45 EUR (original: 60 EUR) (52.58 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen HH Logo Crew Sudadera Depor](https://images-eu.ssl-images-amazon.com/images/I/41BE3REvlwL._SL200_.jpg)](https://www.amazon.es/dp/B07LBN77MJ/?tag=tolees-21)
+[![Helly Hansen HH Logo Crew Sudadera Depor](https://images-eu.ssl-images-amazon.com/images/I/41BE3REvlwL._SL400_.jpg)](https://www.amazon.es/dp/B07LBN77MJ/?tag=tolees-21)
 
 🔎:
 

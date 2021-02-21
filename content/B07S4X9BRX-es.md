@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Down Dehon Pkbl Puffer Chaqueta   al 47.70 % de rebaja'
 date: 2020-05-27 08:06:00
-image: 'https://m.media-amazon.com/images/I/41cP-hzrbLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cP-hzrbLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.93666666666666'
 
 Tienes [Levi s Down Dehon Pkbl Puffer Chaqueta  Negro  Mineral Black 0000   Large para Hombre](https://www.amazon.es/dp/B07S4X9BRX/?tag=tolees-21) con precio final de  67.99 EUR (original: 130.0 EUR) (47.70 %  de rebaja) aqui!
 
-[![Levi s Down Dehon Pkbl Puffer Chaqueta  ](https://m.media-amazon.com/images/I/41cP-hzrbLL._SL200_.jpg)](https://www.amazon.es/dp/B07S4X9BRX/?tag=tolees-21)
+[![Levi s Down Dehon Pkbl Puffer Chaqueta  ](https://m.media-amazon.com/images/I/41cP-hzrbLL._SL400_.jpg)](https://www.amazon.es/dp/B07S4X9BRX/?tag=tolees-21)
 
 🔎:
 

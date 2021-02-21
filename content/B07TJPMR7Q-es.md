@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Tri Alexia  Sandalias de Talón Ab al 54.54 % de descuento'
 date: 2020-09-15 00:59:09
-image: 'https://m.media-amazon.com/images/I/41HeDWW4ayL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HeDWW4ayL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.08'
 
 Ahora mismo tienes [Clarks Tri Alexia  Sandalias de Talón Abierto para Mujer  Beige  Grey Snake Grey Snake   36 EU](https://www.amazon.es/dp/B07TJPMR7Q/?tag=tolees-21) a 45.44 EUR (original: 99.95 EUR) (54.54 %  de descuento) en el siguiente enlace!
 
-[![Clarks Tri Alexia  Sandalias de Talón Ab](https://m.media-amazon.com/images/I/41HeDWW4ayL._SL200_.jpg)](https://www.amazon.es/dp/B07TJPMR7Q/?tag=tolees-21)
+[![Clarks Tri Alexia  Sandalias de Talón Ab](https://m.media-amazon.com/images/I/41HeDWW4ayL._SL400_.jpg)](https://www.amazon.es/dp/B07TJPMR7Q/?tag=tolees-21)
 
 🔎:
 

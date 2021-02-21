@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Sportstyle Pique Pantalón d al 25.00 % de descuento'
 date: 2020-08-24 23:42:40
-image: 'https://m.media-amazon.com/images/I/414lACobFIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414lACobFIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.75'
 
 Está [Under Armour Sportstyle Pique Pantalón deportivo para hombre  pantalón largo transpirable  pantalones con bolsillos cómodos y ajustados  Academy/White  408   MD](https://www.amazon.es/dp/B072J2QH6L/?tag=tolees-21) con 25.00 de descuento por 33.75 EUR (original: 45.0 EUR) en el siguiente enlace!
 
-[![Under Armour Sportstyle Pique Pantalón d](https://m.media-amazon.com/images/I/414lACobFIL._SL200_.jpg)](https://www.amazon.es/dp/B072J2QH6L/?tag=tolees-21)
+[![Under Armour Sportstyle Pique Pantalón d](https://m.media-amazon.com/images/I/414lACobFIL._SL400_.jpg)](https://www.amazon.es/dp/B072J2QH6L/?tag=tolees-21)
 
 ℹ️:
 

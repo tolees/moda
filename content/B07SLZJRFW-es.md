@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas High Light  Chanclas para Muje al 39.80 % de descuento'
 date: 2020-08-17 16:05:18
-image: 'https://m.media-amazon.com/images/I/41r8EFvu7LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r8EFvu7LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 Ahora mismo tienes [Havaianas High Light  Chanclas para Mujer  Negro  Black/Dark Grey/Ice Grey 7905   38 EU](https://www.amazon.es/dp/B07SLZJRFW/?tag=tolees-21) a 18.0 EUR (original: 29.9 EUR) (39.80 %  de descuento) en el siguiente enlace!
 
-[![Havaianas High Light  Chanclas para Muje](https://m.media-amazon.com/images/I/41r8EFvu7LL._SL200_.jpg)](https://www.amazon.es/dp/B07SLZJRFW/?tag=tolees-21)
+[![Havaianas High Light  Chanclas para Muje](https://m.media-amazon.com/images/I/41r8EFvu7LL._SL400_.jpg)](https://www.amazon.es/dp/B07SLZJRFW/?tag=tolees-21)
 
 🔎:
 

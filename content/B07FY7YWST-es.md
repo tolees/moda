@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler Kabel tee Camiseta  Blanco  Whi al 78.63 % de descuento'
 date: 2020-05-14 12:27:24
-image: 'https://m.media-amazon.com/images/I/41WlfEoxAlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WlfEoxAlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.737499999999999'
 
 Ahora mismo tienes [Wrangler Kabel tee Camiseta  Blanco  White 312   X-Large para Hombre](https://www.amazon.es/dp/B07FY7YWST/?tag=tolees-21) a 6.4 EUR (original: 29.95 EUR) (78.63 %  de descuento) en el siguiente enlace!
 
-[![Wrangler Kabel tee Camiseta  Blanco  Whi](https://m.media-amazon.com/images/I/41WlfEoxAlL._SL200_.jpg)](https://www.amazon.es/dp/B07FY7YWST/?tag=tolees-21)
+[![Wrangler Kabel tee Camiseta  Blanco  Whi](https://m.media-amazon.com/images/I/41WlfEoxAlL._SL400_.jpg)](https://www.amazon.es/dp/B07FY7YWST/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BILLABONG™ - Bañador de Surf de pantalón al 21.73 % de descuento'
 date: 2020-07-14 18:40:09
-image: 'https://m.media-amazon.com/images/I/31gCDaLtTKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gCDaLtTKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.46'
 
 Está [BILLABONG™ - Bañador de Surf de pantalón - Hombre - M - Rojo](https://www.amazon.es/dp/B081FGF6W1/?tag=tolees-21) con 21.73 de descuento por 23.48 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![BILLABONG™ - Bañador de Surf de pantalón](https://m.media-amazon.com/images/I/31gCDaLtTKL._SL200_.jpg)](https://www.amazon.es/dp/B081FGF6W1/?tag=tolees-21)
+[![BILLABONG™ - Bañador de Surf de pantalón](https://m.media-amazon.com/images/I/31gCDaLtTKL._SL400_.jpg)](https://www.amazon.es/dp/B081FGF6W1/?tag=tolees-21)
 
 ℹ️:
 

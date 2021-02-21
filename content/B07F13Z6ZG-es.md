@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex n al 54.30 % de descuento'
 date: 2020-05-06 18:04:00
-image: 'https://m.media-amazon.com/images/I/41i6WY9aErL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i6WY9aErL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.18'
 
 Está [Havaianas Brasil Logo  Chanclas Unisex niños  Amarillo  Banana Yellow   27/28 EU](https://www.amazon.es/dp/B07F13Z6ZG/?tag=tolees-21) con 54.30 de descuento por 8.18 EUR (original: 17.9 EUR) en el siguiente enlace!
 
-[![Havaianas Brasil Logo  Chanclas Unisex n](https://m.media-amazon.com/images/I/41i6WY9aErL._SL200_.jpg)](https://www.amazon.es/dp/B07F13Z6ZG/?tag=tolees-21)
+[![Havaianas Brasil Logo  Chanclas Unisex n](https://m.media-amazon.com/images/I/41i6WY9aErL._SL400_.jpg)](https://www.amazon.es/dp/B07F13Z6ZG/?tag=tolees-21)
 
 ℹ️:
 

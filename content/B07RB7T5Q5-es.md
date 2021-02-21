@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 45.98 % en Columbia Powder Lite Hooded Chaqueta De '
 date: 2020-01-16 11:41:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hp2LcUYdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hp2LcUYdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.485'
 
 Tienes [Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Multicolor  Mountain Red/Collegiate Navy   M](https://www.amazon.es/dp/B07RB7T5Q5/?tag=tolees-21) con un 45.98 % de descuento con precio de oferta de 70.22 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![Columbia Powder Lite Hooded Chaqueta De ](https://images-eu.ssl-images-amazon.com/images/I/41Hp2LcUYdL._SL200_.jpg)](https://www.amazon.es/dp/B07RB7T5Q5/?tag=tolees-21)
+[![Columbia Powder Lite Hooded Chaqueta De ](https://images-eu.ssl-images-amazon.com/images/I/41Hp2LcUYdL._SL400_.jpg)](https://www.amazon.es/dp/B07RB7T5Q5/?tag=tolees-21)
 
 ℹ️:
 

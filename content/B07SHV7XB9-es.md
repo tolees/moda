@@ -2,7 +2,7 @@
 layout: post
 title: 'G-Star Sp15505 Sweat Sudadera  Verde  Ka al 83.65 % de rebaja'
 date: 2020-02-17 20:33:44
-image: 'https://m.media-amazon.com/images/I/417BxPuTPML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417BxPuTPML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.35'
 
 Tienes [G-Star Sp15505 Sweat Sudadera  Verde  Kaki Green 56   8 años  Talla del Fabricante: 8A  para Niñas](https://www.amazon.es/dp/B07SHV7XB9/?tag=tolees-21) con precio final de  7.35 EUR (original: 44.95 EUR) (83.65 %  de rebaja) aqui!
 
-[![G-Star Sp15505 Sweat Sudadera  Verde  Ka](https://m.media-amazon.com/images/I/417BxPuTPML._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SHV7XB9/?tag=tolees-21)
+[![G-Star Sp15505 Sweat Sudadera  Verde  Ka](https://m.media-amazon.com/images/I/417BxPuTPML._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07SHV7XB9/?tag=tolees-21)
 
 🔎:
 

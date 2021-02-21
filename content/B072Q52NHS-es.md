@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Original Sherpa Trucker Chaqueta  al 20.91 % de descuento'
 date: 2020-02-10 22:31:41
-image: 'https://m.media-amazon.com/images/I/41p0b2j4RIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p0b2j4RIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.92333333333333'
 
 Ahora mismo tienes [Levi s Original Sherpa Trucker Chaqueta  Azul  Strangeways 0004   Large para Mujer](https://www.amazon.es/dp/B072Q52NHS/?tag=tolees-21) a 102.82 EUR (original: 130.0 EUR) (20.91 %  de descuento) en el siguiente enlace!
 
-[![Levi s Original Sherpa Trucker Chaqueta ](https://m.media-amazon.com/images/I/41p0b2j4RIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B072Q52NHS/?tag=tolees-21)
+[![Levi s Original Sherpa Trucker Chaqueta ](https://m.media-amazon.com/images/I/41p0b2j4RIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B072Q52NHS/?tag=tolees-21)
 
 🔎:
 

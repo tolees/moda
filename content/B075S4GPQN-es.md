@@ -2,7 +2,7 @@
 layout: post
 title: 'MERAKI Sudadera con Capucha y Cremallera al 46.07 % de rebaja'
 date: 2020-05-01 14:54:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31YUjcfoNJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YUjcfoNJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.18'
 
 Tienes [MERAKI Sudadera con Capucha y Cremallera Mujer  Gris  Grey   X-Large](https://www.amazon.es/dp/B075S4GPQN/?tag=tolees-21) con precio final de  16.18 EUR (original: 30 EUR) (46.07 %  de rebaja) aqui!
 
-[![MERAKI Sudadera con Capucha y Cremallera](https://images-eu.ssl-images-amazon.com/images/I/31YUjcfoNJL._SL200_.jpg)](https://www.amazon.es/dp/B075S4GPQN/?tag=tolees-21)
+[![MERAKI Sudadera con Capucha y Cremallera](https://images-eu.ssl-images-amazon.com/images/I/31YUjcfoNJL._SL400_.jpg)](https://www.amazon.es/dp/B075S4GPQN/?tag=tolees-21)
 
 🔎:
 

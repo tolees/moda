@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Welsey II Aislado Impermeab con un 65.03 % de descuento'
 date: 2020-08-29 07:54:03
-image: 'https://m.media-amazon.com/images/I/41yc9NOtj3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yc9NOtj3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '76.93'
 
 En este momento está [Helly Hansen Welsey II Aislado Impermeable Gabardina Chaqueta De Invierno  Mujer  Beluga  XS](https://www.amazon.es/dp/B07LBPGG38/?tag=tolees-21) a 76.93 EUR (original: 220.0 EUR) (65.03 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen Welsey II Aislado Impermeab](https://m.media-amazon.com/images/I/41yc9NOtj3L._SL200_.jpg)](https://www.amazon.es/dp/B07LBPGG38/?tag=tolees-21)
+[![Helly Hansen Welsey II Aislado Impermeab](https://m.media-amazon.com/images/I/41yc9NOtj3L._SL400_.jpg)](https://www.amazon.es/dp/B07LBPGG38/?tag=tolees-21)
 
 🔎:
 

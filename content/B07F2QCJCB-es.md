@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen W Crew Midlayer Jacket Chaq al 43.01 % de descuento'
 date: 2020-06-08 07:45:15
-image: 'https://m.media-amazon.com/images/I/41hZQSh0xrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hZQSh0xrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.49'
 
 Ahora mismo tienes [Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva  Mujer  White  L](https://www.amazon.es/dp/B07F2QCJCB/?tag=tolees-21) a 85.49 EUR (original: 150.0 EUR) (43.01 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen W Crew Midlayer Jacket Chaq](https://m.media-amazon.com/images/I/41hZQSh0xrL._SL200_.jpg)](https://www.amazon.es/dp/B07F2QCJCB/?tag=tolees-21)
+[![Helly Hansen W Crew Midlayer Jacket Chaq](https://m.media-amazon.com/images/I/41hZQSh0xrL._SL400_.jpg)](https://www.amazon.es/dp/B07F2QCJCB/?tag=tolees-21)
 
 🔎:
 

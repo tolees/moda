@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D ANNYTAH D  Bailarinas para Mujer  al 75.45 % de descuento'
 date: 2020-08-21 17:21:30
-image: 'https://m.media-amazon.com/images/I/31ojKyiohwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ojKyiohwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.617272727272724'
 
 Está [Geox D ANNYTAH D  Bailarinas para Mujer  Negro  Black C9997   35 EU](https://www.amazon.es/dp/B07LFRN1DC/?tag=tolees-21) con 75.45 de descuento por 22.07 EUR (original: 89.9 EUR) en el siguiente enlace!
 
-[![Geox D ANNYTAH D  Bailarinas para Mujer ](https://m.media-amazon.com/images/I/31ojKyiohwL._SL200_.jpg)](https://www.amazon.es/dp/B07LFRN1DC/?tag=tolees-21)
+[![Geox D ANNYTAH D  Bailarinas para Mujer ](https://m.media-amazon.com/images/I/31ojKyiohwL._SL400_.jpg)](https://www.amazon.es/dp/B07LFRN1DC/?tag=tolees-21)
 
 ℹ️:
 

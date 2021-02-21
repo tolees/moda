@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Un Reisel Mara  Sandalias con Tir al 54.20 % de rebaja'
 date: 2020-06-14 14:31:08
-image: 'https://m.media-amazon.com/images/I/31ea+7GBOBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ea+7GBOBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.2'
 
 Tienes [Clarks Un Reisel Mara  Sandalias con Tira Vertical para Mujer  Negro  Black Leather-   37 EU](https://www.amazon.es/dp/B075MD3YJ9/?tag=tolees-21) con precio final de  41.2 EUR (original: 89.95 EUR) (54.20 %  de rebaja) aqui!
 
-[![Clarks Un Reisel Mara  Sandalias con Tir](https://m.media-amazon.com/images/I/31ea+7GBOBL._SL200_.jpg)](https://www.amazon.es/dp/B075MD3YJ9/?tag=tolees-21)
+[![Clarks Un Reisel Mara  Sandalias con Tir](https://m.media-amazon.com/images/I/31ea+7GBOBL._SL400_.jpg)](https://www.amazon.es/dp/B075MD3YJ9/?tag=tolees-21)
 
 🔎:
 

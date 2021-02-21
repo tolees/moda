@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Orig Hm Vneck Camiseta  Blanco  W al 36.04 % de rebaja'
 date: 2020-08-05 10:07:39
-image: 'https://m.media-amazon.com/images/I/41WU+YzSKQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WU+YzSKQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Tienes [Levi s Orig Hm Vneck Camiseta  Blanco  White 0000   XX-Large para Hombre](https://www.amazon.es/dp/B07SJTCP54/?tag=tolees-21) con precio final de  15.99 EUR (original: 25.0 EUR) (36.04 %  de rebaja) aqui!
 
-[![Levi s Orig Hm Vneck Camiseta  Blanco  W](https://m.media-amazon.com/images/I/41WU+YzSKQL._SL200_.jpg)](https://www.amazon.es/dp/B07SJTCP54/?tag=tolees-21)
+[![Levi s Orig Hm Vneck Camiseta  Blanco  W](https://m.media-amazon.com/images/I/41WU+YzSKQL._SL400_.jpg)](https://www.amazon.es/dp/B07SJTCP54/?tag=tolees-21)
 
 🔎:
 

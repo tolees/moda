@@ -2,7 +2,7 @@
 layout: post
 title: 'GRACE KARIN Mujer Vestido Elegante Años  al 25.01 % de rebaja'
 date: 2020-06-13 07:42:37
-image: 'https://m.media-amazon.com/images/I/31G54ayJs3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31G54ayJs3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 Tienes [GRACE KARIN Mujer Vestido Elegante Años 50 Vestido de Mujeres Rockabilly Clásico L CL010823-3](https://www.amazon.es/dp/B07L3LVD4K/?tag=tolees-21) con precio final de  26.99 EUR (original: 35.99 EUR) (25.01 %  de rebaja) aqui!
 
-[![GRACE KARIN Mujer Vestido Elegante Años ](https://m.media-amazon.com/images/I/31G54ayJs3L._SL200_.jpg)](https://www.amazon.es/dp/B07L3LVD4K/?tag=tolees-21)
+[![GRACE KARIN Mujer Vestido Elegante Años ](https://m.media-amazon.com/images/I/31G54ayJs3L._SL400_.jpg)](https://www.amazon.es/dp/B07L3LVD4K/?tag=tolees-21)
 
 🔎:
 

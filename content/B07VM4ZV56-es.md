@@ -2,7 +2,7 @@
 layout: post
 title: 'JIASUQI Zapatos clásicos de deporte desc al 55.62 % de descuento'
 date: 2020-04-20 08:02:41
-image: 'https://m.media-amazon.com/images/I/41DPBWXg35L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DPBWXg35L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.75'
 
 Está [JIASUQI Zapatos clásicos de deporte descalzo para niños  mujeres y hombres  para playa  natación  surf  yoga  ejercicios  color Naranja  talla 30.5/32 EU](https://www.amazon.es/dp/B07VM4ZV56/?tag=tolees-21) con 55.62 de descuento por 12.75 EUR (original: 28.73 EUR) en el siguiente enlace!
 
-[![JIASUQI Zapatos clásicos de deporte desc](https://m.media-amazon.com/images/I/41DPBWXg35L._SL200_.jpg)](https://www.amazon.es/dp/B07VM4ZV56/?tag=tolees-21)
+[![JIASUQI Zapatos clásicos de deporte desc](https://m.media-amazon.com/images/I/41DPBWXg35L._SL400_.jpg)](https://www.amazon.es/dp/B07VM4ZV56/?tag=tolees-21)
 
 ℹ️:
 

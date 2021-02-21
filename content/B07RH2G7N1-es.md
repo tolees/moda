@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Graphic 13 Sudadera  Gris  Lt al 50.01 % de descuento'
 date: 2020-01-08 13:59:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AaDUPNTzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AaDUPNTzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.97'
 
 Está [G-STAR RAW Graphic 13 Sudadera  Gris  Lt Grey Htr A302   XX-Small para Hombre](https://www.amazon.es/dp/B07RH2G7N1/?tag=tolees-21) con 50.01 de descuento por 39.97 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Graphic 13 Sudadera  Gris  Lt](https://images-eu.ssl-images-amazon.com/images/I/41AaDUPNTzL._SL200_.jpg)](https://www.amazon.es/dp/B07RH2G7N1/?tag=tolees-21)
+[![G-STAR RAW Graphic 13 Sudadera  Gris  Lt](https://images-eu.ssl-images-amazon.com/images/I/41AaDUPNTzL._SL400_.jpg)](https://www.amazon.es/dp/B07RH2G7N1/?tag=tolees-21)
 
 ℹ️:
 

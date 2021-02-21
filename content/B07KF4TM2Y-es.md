@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Type 3 Chaqueta Vaquera  Azul  Pa al 18.74 % de descuento'
 date: 2020-04-01 19:45:41
-image: 'https://m.media-amazon.com/images/I/41maVaAe0VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41maVaAe0VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.86'
 
 Ahora mismo tienes [Levi s Type 3 Chaqueta Vaquera  Azul  Palmer Sherpa Trucker 0105   X-Small para Hombre](https://www.amazon.es/dp/B07KF4TM2Y/?tag=tolees-21) a 35.86 EUR (original: 44.13 EUR) (18.74 %  de descuento) en el siguiente enlace!
 
-[![Levi s Type 3 Chaqueta Vaquera  Azul  Pa](https://m.media-amazon.com/images/I/41maVaAe0VL._SL200_.jpg)](https://www.amazon.es/dp/B07KF4TM2Y/?tag=tolees-21)
+[![Levi s Type 3 Chaqueta Vaquera  Azul  Pa](https://m.media-amazon.com/images/I/41maVaAe0VL._SL400_.jpg)](https://www.amazon.es/dp/B07KF4TM2Y/?tag=tolees-21)
 
 🔎:
 

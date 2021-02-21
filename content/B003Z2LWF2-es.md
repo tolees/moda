@@ -2,7 +2,7 @@
 layout: post
 title: 'CATWALK COLLECTION - CAZ - Bolso estilo  al 50.95 % de descuento'
 date: 2020-07-07 17:37:06
-image: 'https://m.media-amazon.com/images/I/41JVVXcbMYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JVVXcbMYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.95'
 
 Ahora mismo tienes [CATWALK COLLECTION - CAZ - Bolso estilo shopper - Cuero - Negro](https://www.amazon.es/dp/B003Z2LWF2/?tag=tolees-21) a 79.95 EUR (original: 163.0 EUR) (50.95 %  de descuento) en el siguiente enlace!
 
-[![CATWALK COLLECTION - CAZ - Bolso estilo ](https://m.media-amazon.com/images/I/41JVVXcbMYL._SL200_.jpg)](https://www.amazon.es/dp/B003Z2LWF2/?tag=tolees-21)
+[![CATWALK COLLECTION - CAZ - Bolso estilo ](https://m.media-amazon.com/images/I/41JVVXcbMYL._SL400_.jpg)](https://www.amazon.es/dp/B003Z2LWF2/?tag=tolees-21)
 
 🔎:
 

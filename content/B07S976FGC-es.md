@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Swiftwater Sandal Women  Sandalias al 51.99 % de descuento'
 date: 2020-10-09 19:12:18
-image: 'https://m.media-amazon.com/images/I/31-w746VzqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-w746VzqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.586666666666666'
 
 Está [Crocs Swiftwater Sandal Women  Sandalias de Punta Descubierta para Mujer  Naranja  Grapefruit/White 82q   34/35 EU](https://www.amazon.es/dp/B07S976FGC/?tag=tolees-21) con 51.99 de descuento por 16.8 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![Crocs Swiftwater Sandal Women  Sandalias](https://m.media-amazon.com/images/I/31-w746VzqL._SL200_.jpg)](https://www.amazon.es/dp/B07S976FGC/?tag=tolees-21)
+[![Crocs Swiftwater Sandal Women  Sandalias](https://m.media-amazon.com/images/I/31-w746VzqL._SL400_.jpg)](https://www.amazon.es/dp/B07S976FGC/?tag=tolees-21)
 
 ℹ️:
 

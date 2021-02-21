@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Keepsakes 2.0 Botines Mujer  Ma al 27.43 % de rebaja'
 date: 2020-02-26 09:07:38
-image: 'https://m.media-amazon.com/images/I/41F0ZTUdRFL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F0ZTUdRFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.76'
 
 Tienes [Skechers Keepsakes 2.0 Botines Mujer  Marrón  Chestnut Suede Csnt   39 EU](https://www.amazon.es/dp/B07NW59CKM/?tag=tolees-21) con precio final de  50.76 EUR (original: 69.95 EUR) (27.43 %  de rebaja) aqui!
 
-[![Skechers Keepsakes 2.0 Botines Mujer  Ma](https://m.media-amazon.com/images/I/41F0ZTUdRFL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NW59CKM/?tag=tolees-21)
+[![Skechers Keepsakes 2.0 Botines Mujer  Ma](https://m.media-amazon.com/images/I/41F0ZTUdRFL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NW59CKM/?tag=tolees-21)
 
 🔎:
 

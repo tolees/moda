@@ -2,7 +2,7 @@
 layout: post
 title: 'AOWOFS - Abrigo - para Hombre Marrón mar al 29.83 % de rebaja'
 date: 2020-05-04 13:40:29
-image: 'https://m.media-amazon.com/images/I/41l0bziIdDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l0bziIdDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.22'
 
 Tienes [AOWOFS - Abrigo - para Hombre Marrón marrón Small](https://www.amazon.es/dp/B079FL34VB/?tag=tolees-21) con precio final de  50.22 EUR (original: 71.57 EUR) (29.83 %  de rebaja) aqui!
 
-[![AOWOFS - Abrigo - para Hombre Marrón mar](https://m.media-amazon.com/images/I/41l0bziIdDL._SL200_.jpg)](https://www.amazon.es/dp/B079FL34VB/?tag=tolees-21)
+[![AOWOFS - Abrigo - para Hombre Marrón mar](https://m.media-amazon.com/images/I/41l0bziIdDL._SL400_.jpg)](https://www.amazon.es/dp/B079FL34VB/?tag=tolees-21)
 
 🔎:
 

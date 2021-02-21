@@ -2,7 +2,7 @@
 layout: post
 title: 'DAFENP Zapatillas de Casa Hombre Mujer I al 23.09 % de descuento'
 date: 2020-01-08 12:49:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31RDLjv-jwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RDLjv-jwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Ahora mismo tienes [DAFENP Zapatillas de Casa Hombre Mujer Invierno Caliente Forro Polar Slippers Suave Interior Al Aire Libre Zapatos XZ333A-Black-EU35/36](https://www.amazon.es/dp/B07HRRBDKY/?tag=tolees-21) a 19.99 EUR (original: 25.99 EUR) (23.09 %  de descuento) en el siguiente enlace!
 
-[![DAFENP Zapatillas de Casa Hombre Mujer I](https://images-eu.ssl-images-amazon.com/images/I/31RDLjv-jwL._SL200_.jpg)](https://www.amazon.es/dp/B07HRRBDKY/?tag=tolees-21)
+[![DAFENP Zapatillas de Casa Hombre Mujer I](https://images-eu.ssl-images-amazon.com/images/I/31RDLjv-jwL._SL400_.jpg)](https://www.amazon.es/dp/B07HRRBDKY/?tag=tolees-21)
 
 🔎:
 

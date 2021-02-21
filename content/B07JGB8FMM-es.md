@@ -2,7 +2,7 @@
 layout: post
 title: 'Cross Jeans Anya Vaqueros Slim  Azul  Mi con un 51.83 % de descuento'
 date: 2020-09-10 16:55:41
-image: 'https://m.media-amazon.com/images/I/41vWNp9q2dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vWNp9q2dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.00333333333333'
 
 En este momento está [Cross Jeans Anya Vaqueros Slim  Azul  Mid Blue 153   W26/L30  Talla del Fabricante: 26/30  para Mujer](https://www.amazon.es/dp/B07JGB8FMM/?tag=tolees-21) a 28.88 EUR (original: 59.95 EUR) (51.83 %  de descuento) en el siguiente enlace!
 
-[![Cross Jeans Anya Vaqueros Slim  Azul  Mi](https://m.media-amazon.com/images/I/41vWNp9q2dL._SL200_.jpg)](https://www.amazon.es/dp/B07JGB8FMM/?tag=tolees-21)
+[![Cross Jeans Anya Vaqueros Slim  Azul  Mi](https://m.media-amazon.com/images/I/41vWNp9q2dL._SL400_.jpg)](https://www.amazon.es/dp/B07JGB8FMM/?tag=tolees-21)
 
 🔎:
 

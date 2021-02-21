@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 725 High Rise Bootcut Vaqueros Co con un 38.01 % de descuento'
 date: 2020-06-06 16:44:16
-image: 'https://m.media-amazon.com/images/I/31oQNxKABgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oQNxKABgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.99'
 
 En este momento está [Levi s 725 High Rise Bootcut Vaqueros Corte de Bota  Azul  Two The Nine 0000   W24/L30  Talla del Fabricante: 24 30  para Mujer](https://www.amazon.es/dp/B07TWBFPX3/?tag=tolees-21) a 61.99 EUR (original: 100.0 EUR) (38.01 %  de descuento) en el siguiente enlace!
 
-[![Levi s 725 High Rise Bootcut Vaqueros Co](https://m.media-amazon.com/images/I/31oQNxKABgL._SL200_.jpg)](https://www.amazon.es/dp/B07TWBFPX3/?tag=tolees-21)
+[![Levi s 725 High Rise Bootcut Vaqueros Co](https://m.media-amazon.com/images/I/31oQNxKABgL._SL400_.jpg)](https://www.amazon.es/dp/B07TWBFPX3/?tag=tolees-21)
 
 🔎:
 

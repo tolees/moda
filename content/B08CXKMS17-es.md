@@ -2,7 +2,7 @@
 layout: post
 title: 'Paoseven Freemason - Camiseta de manga c al 50.03 % de descuento'
 date: 2020-07-19 16:02:11
-image: 'https://m.media-amazon.com/images/I/41M9ycwnRDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41M9ycwnRDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.38'
 
 Ahora mismo tienes [Paoseven Freemason - Camiseta de manga corta unisex con logo masónico  color negro Rosa rosa 3 Años](https://www.amazon.es/dp/B08CXKMS17/?tag=tolees-21) a 14.38 EUR (original: 28.78 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![Paoseven Freemason - Camiseta de manga c](https://m.media-amazon.com/images/I/41M9ycwnRDL._SL200_.jpg)](https://www.amazon.es/dp/B08CXKMS17/?tag=tolees-21)
+[![Paoseven Freemason - Camiseta de manga c](https://m.media-amazon.com/images/I/41M9ycwnRDL._SL400_.jpg)](https://www.amazon.es/dp/B08CXKMS17/?tag=tolees-21)
 
 🔎:
 

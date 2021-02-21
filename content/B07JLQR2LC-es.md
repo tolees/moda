@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Scarlett Vaqueros  Clean Wheaton In  al 66.86 % de descuento'
 date: 2020-02-08 10:55:47
-image: 'https://m.media-amazon.com/images/I/310DLI9CJOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310DLI9CJOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.81'
 
 Ahora mismo tienes [Lee Scarlett Vaqueros  Clean Wheaton In  28W / 35L para Mujer](https://www.amazon.es/dp/B07JLQR2LC/?tag=tolees-21) a 29.81 EUR (original: 89.95 EUR) (66.86 %  de descuento) en el siguiente enlace!
 
-[![Lee Scarlett Vaqueros  Clean Wheaton In ](https://m.media-amazon.com/images/I/310DLI9CJOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JLQR2LC/?tag=tolees-21)
+[![Lee Scarlett Vaqueros  Clean Wheaton In ](https://m.media-amazon.com/images/I/310DLI9CJOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JLQR2LC/?tag=tolees-21)
 
 🔎:
 

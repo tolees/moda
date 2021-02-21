@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Core Logo Tag tee Camiseta  Azu al 49.93 % de descuento'
 date: 2020-06-09 10:27:53
-image: 'https://m.media-amazon.com/images/I/415uv4MOKfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415uv4MOKfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.52'
 
 Ahora mismo tienes [Superdry Core Logo Tag tee Camiseta  Azul  Royal Blue 49g   XXS para Hombre](https://www.amazon.es/dp/B07Q9S2RJM/?tag=tolees-21) a 17.52 EUR (original: 34.99 EUR) (49.93 %  de descuento) en el siguiente enlace!
 
-[![Superdry Core Logo Tag tee Camiseta  Azu](https://m.media-amazon.com/images/I/415uv4MOKfL._SL200_.jpg)](https://www.amazon.es/dp/B07Q9S2RJM/?tag=tolees-21)
+[![Superdry Core Logo Tag tee Camiseta  Azu](https://m.media-amazon.com/images/I/415uv4MOKfL._SL400_.jpg)](https://www.amazon.es/dp/B07Q9S2RJM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Plus Size 311 Pl Shaping Skinny V al 48.55 % de descuento'
 date: 2020-06-24 17:35:24
-image: 'https://m.media-amazon.com/images/I/31cNgC6TZCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cNgC6TZCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.75'
 
 Está [Levi s Plus Size 311 Pl Shaping Skinny Vaqueros  Light A Fuse Plus  18 M para Mujer](https://www.amazon.es/dp/B07KF6QXQT/?tag=tolees-21) con 48.55 de descuento por 35.75 EUR (original: 69.48 EUR) en el siguiente enlace!
 
-[![Levi s Plus Size 311 Pl Shaping Skinny V](https://m.media-amazon.com/images/I/31cNgC6TZCL._SL200_.jpg)](https://www.amazon.es/dp/B07KF6QXQT/?tag=tolees-21)
+[![Levi s Plus Size 311 Pl Shaping Skinny V](https://m.media-amazon.com/images/I/31cNgC6TZCL._SL400_.jpg)](https://www.amazon.es/dp/B07KF6QXQT/?tag=tolees-21)
 
 ℹ️:
 

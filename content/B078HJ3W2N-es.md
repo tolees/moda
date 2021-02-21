@@ -2,7 +2,7 @@
 layout: post
 title: 'IRIS & LILLY Braguita de Algodón Mujer   al 59.96 % de descuento'
 date: 2020-01-15 12:39:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tpNZj0QtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tpNZj0QtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.5'
 
 Ahora mismo tienes [IRIS & LILLY Braguita de Algodón Mujer  Pack de 5  Multicolor  Twilight Blue/cashmere Blue    Talla del fabricante: Large ](https://www.amazon.es/dp/B078HJ3W2N/?tag=tolees-21) a 4.5 EUR (original: 11.24 EUR) (59.96 %  de descuento) en el siguiente enlace!
 
-[![IRIS & LILLY Braguita de Algodón Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41tpNZj0QtL._SL200_.jpg)](https://www.amazon.es/dp/B078HJ3W2N/?tag=tolees-21)
+[![IRIS & LILLY Braguita de Algodón Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41tpNZj0QtL._SL400_.jpg)](https://www.amazon.es/dp/B078HJ3W2N/?tag=tolees-21)
 
 🔎:
 

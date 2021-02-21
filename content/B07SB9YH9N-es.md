@@ -2,7 +2,7 @@
 layout: post
 title: 'Disney HS2090 Conjuntos de Pijama  Rosa  al 47.42 % de rebaja'
 date: 2020-03-29 10:31:53
-image: 'https://m.media-amazon.com/images/I/41a7vsF987L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a7vsF987L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.9'
 
 Tienes [Disney HS2090 Conjuntos de Pijama  Rosa  Pink Pink   3 años para Niñas](https://www.amazon.es/dp/B07SB9YH9N/?tag=tolees-21) con precio final de  10.9 EUR (original: 20.73 EUR) (47.42 %  de rebaja) aqui!
 
-[![Disney HS2090 Conjuntos de Pijama  Rosa ](https://m.media-amazon.com/images/I/41a7vsF987L._SL200_.jpg)](https://www.amazon.es/dp/B07SB9YH9N/?tag=tolees-21)
+[![Disney HS2090 Conjuntos de Pijama  Rosa ](https://m.media-amazon.com/images/I/41a7vsF987L._SL400_.jpg)](https://www.amazon.es/dp/B07SB9YH9N/?tag=tolees-21)
 
 🔎:
 

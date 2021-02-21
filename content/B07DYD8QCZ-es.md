@@ -2,7 +2,7 @@
 layout: post
 title: 'Quiksilver Molokai Abyss Cork-Sandals Fo con un 46.68 % de descuento'
 date: 2020-07-01 14:24:15
-image: 'https://m.media-amazon.com/images/I/51OzZg3mARL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OzZg3mARL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 En este momento está [Quiksilver Molokai Abyss Cork-Sandals For Men  Zapatos de Playa y Piscina para Hombre  Azul  Blue/Brown/Blue Xbcb   44 EU](https://www.amazon.es/dp/B07DYD8QCZ/?tag=tolees-21) a 15.99 EUR (original: 29.99 EUR) (46.68 %  de descuento) en el siguiente enlace!
 
-[![Quiksilver Molokai Abyss Cork-Sandals Fo](https://m.media-amazon.com/images/I/51OzZg3mARL._SL200_.jpg)](https://www.amazon.es/dp/B07DYD8QCZ/?tag=tolees-21)
+[![Quiksilver Molokai Abyss Cork-Sandals Fo](https://m.media-amazon.com/images/I/51OzZg3mARL._SL400_.jpg)](https://www.amazon.es/dp/B07DYD8QCZ/?tag=tolees-21)
 
 🔎:
 

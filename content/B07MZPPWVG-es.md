@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Nastia Sudadera   Dandelion 0 al 37.35 % de descuento'
 date: 2020-04-19 14:02:51
-image: 'https://m.media-amazon.com/images/I/41AvywUKLiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AvywUKLiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.46'
 
 Ahora mismo tienes [Pepe Jeans Nastia Sudadera   Dandelion 054   Large para Mujer](https://www.amazon.es/dp/B07MZPPWVG/?tag=tolees-21) a 46.99 EUR (original: 75.0 EUR) (37.35 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Nastia Sudadera   Dandelion 0](https://m.media-amazon.com/images/I/41AvywUKLiL._SL200_.jpg)](https://www.amazon.es/dp/B07MZPPWVG/?tag=tolees-21)
+[![Pepe Jeans Nastia Sudadera   Dandelion 0](https://m.media-amazon.com/images/I/41AvywUKLiL._SL400_.jpg)](https://www.amazon.es/dp/B07MZPPWVG/?tag=tolees-21)
 
 🔎:
 

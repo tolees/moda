@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Woven Graphic Pantalón Cort al 27.39 % de descuento'
 date: 2020-04-14 10:00:38
-image: 'https://m.media-amazon.com/images/I/412SxWAbpGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412SxWAbpGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.33'
 
 Ahora mismo tienes [Under Armour Woven Graphic Pantalón Corto  Hombre  Gris  Steel-035   M](https://www.amazon.es/dp/B077XMNTP7/?tag=tolees-21) a 20.33 EUR (original: 28.0 EUR) (27.39 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Woven Graphic Pantalón Cort](https://m.media-amazon.com/images/I/412SxWAbpGL._SL200_.jpg)](https://www.amazon.es/dp/B077XMNTP7/?tag=tolees-21)
+[![Under Armour Woven Graphic Pantalón Cort](https://m.media-amazon.com/images/I/412SxWAbpGL._SL400_.jpg)](https://www.amazon.es/dp/B077XMNTP7/?tag=tolees-21)
 
 🔎:
 

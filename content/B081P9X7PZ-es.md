@@ -2,7 +2,7 @@
 layout: post
 title: 'NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaq al 23.74 % de descuento'
 date: 2020-09-09 20:57:10
-image: 'https://m.media-amazon.com/images/I/41RYG9BCn3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RYG9BCn3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.67'
 
 Ahora mismo tienes [NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaqueta de Deporte  Hombre  Obsidian Mist/Obsidian Mist/diffused Blue/ Laser Orange   L](https://www.amazon.es/dp/B081P9X7PZ/?tag=tolees-21) a 24.67 EUR (original: 32.35 EUR) (23.74 %  de descuento) en el siguiente enlace!
 
-[![NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaq](https://m.media-amazon.com/images/I/41RYG9BCn3L._SL200_.jpg)](https://www.amazon.es/dp/B081P9X7PZ/?tag=tolees-21)
+[![NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaq](https://m.media-amazon.com/images/I/41RYG9BCn3L._SL400_.jpg)](https://www.amazon.es/dp/B081P9X7PZ/?tag=tolees-21)
 
 🔎:
 

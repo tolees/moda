@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett Mini Chk BS Camisa   Blue/White  al 31.14 % de rebaja'
 date: 2020-03-16 21:13:47
-image: 'https://m.media-amazon.com/images/I/51tOa85y+SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tOa85y+SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.655'
 
 Tienes [Hackett Mini Chk BS Camisa   Blue/White 5ar   Small para Hombre](https://www.amazon.es/dp/B07MC4DHVG/?tag=tolees-21) con precio final de  19.66 EUR (original: 28.55 EUR) (31.14 %  de rebaja) aqui!
 
-[![Hackett Mini Chk BS Camisa   Blue/White ](https://m.media-amazon.com/images/I/51tOa85y+SL._SL200_.jpg)](https://www.amazon.es/dp/B07MC4DHVG/?tag=tolees-21)
+[![Hackett Mini Chk BS Camisa   Blue/White ](https://m.media-amazon.com/images/I/51tOa85y+SL._SL400_.jpg)](https://www.amazon.es/dp/B07MC4DHVG/?tag=tolees-21)
 
 🔎:
 

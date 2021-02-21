@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen HP 1/2 Zip Jersey  Hombre   al 50.25 % de descuento'
 date: 2020-03-25 13:58:14
-image: 'https://m.media-amazon.com/images/I/31N9I6V4TAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31N9I6V4TAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.34'
 
 Ahora mismo tienes [Helly Hansen HP 1/2 Zip Jersey  Hombre  Ebony  M](https://www.amazon.es/dp/B07F31KK2N/?tag=tolees-21) a 32.34 EUR (original: 65.0 EUR) (50.25 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen HP 1/2 Zip Jersey  Hombre  ](https://m.media-amazon.com/images/I/31N9I6V4TAL._SL200_.jpg)](https://www.amazon.es/dp/B07F31KK2N/?tag=tolees-21)
+[![Helly Hansen HP 1/2 Zip Jersey  Hombre  ](https://m.media-amazon.com/images/I/31N9I6V4TAL._SL400_.jpg)](https://www.amazon.es/dp/B07F31KK2N/?tag=tolees-21)
 
 🔎:
 

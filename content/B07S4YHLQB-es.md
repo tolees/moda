@@ -2,7 +2,7 @@
 layout: post
 title: 'Vero Moda Vmsoraya SIV Aw19 Short Jacket al 59.96 % de rebaja'
 date: 2020-05-08 18:46:49
-image: 'https://m.media-amazon.com/images/I/41PivrbuQdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PivrbuQdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.01'
 
 Tienes [Vero Moda Vmsoraya SIV Aw19 Short Jacket Boos Chaqueta  Negro  Black Black   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07S4YHLQB/?tag=tolees-21) con precio final de  16.01 EUR (original: 39.99 EUR) (59.96 %  de rebaja) aqui!
 
-[![Vero Moda Vmsoraya SIV Aw19 Short Jacket](https://m.media-amazon.com/images/I/41PivrbuQdL._SL200_.jpg)](https://www.amazon.es/dp/B07S4YHLQB/?tag=tolees-21)
+[![Vero Moda Vmsoraya SIV Aw19 Short Jacket](https://m.media-amazon.com/images/I/41PivrbuQdL._SL400_.jpg)](https://www.amazon.es/dp/B07S4YHLQB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Relaxed Graphic Crew Sudadera  Bl al 46.40 % de descuento'
 date: 2020-08-12 08:12:00
-image: 'https://m.media-amazon.com/images/I/310naRyCJML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310naRyCJML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.77333333333333'
 
 Está [Levi s Relaxed Graphic Crew Sudadera  Blanco  Better Batwing Sweatshirt White 0014   Large para Mujer](https://www.amazon.es/dp/B0765WBM6N/?tag=tolees-21) con 46.40 de descuento por 32.16 EUR (original: 60.0 EUR) en el siguiente enlace!
 
-[![Levi s Relaxed Graphic Crew Sudadera  Bl](https://m.media-amazon.com/images/I/310naRyCJML._SL200_.jpg)](https://www.amazon.es/dp/B0765WBM6N/?tag=tolees-21)
+[![Levi s Relaxed Graphic Crew Sudadera  Bl](https://m.media-amazon.com/images/I/310naRyCJML._SL400_.jpg)](https://www.amazon.es/dp/B0765WBM6N/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Tiro19 PES Jkty Chaqueta de Depor al 41.49 % de descuento'
 date: 2020-06-02 04:16:03
-image: 'https://m.media-amazon.com/images/I/41qF9COaE4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qF9COaE4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.45'
 
 Ahora mismo tienes [adidas Tiro19 PES Jkty Chaqueta de Deporte  Unisex niños  Bold Blue/White  152](https://www.amazon.es/dp/B07JZSXY52/?tag=tolees-21) a 20.45 EUR (original: 34.95 EUR) (41.49 %  de descuento) en el siguiente enlace!
 
-[![adidas Tiro19 PES Jkty Chaqueta de Depor](https://m.media-amazon.com/images/I/41qF9COaE4L._SL200_.jpg)](https://www.amazon.es/dp/B07JZSXY52/?tag=tolees-21)
+[![adidas Tiro19 PES Jkty Chaqueta de Depor](https://m.media-amazon.com/images/I/41qF9COaE4L._SL400_.jpg)](https://www.amazon.es/dp/B07JZSXY52/?tag=tolees-21)
 
 🔎:
 

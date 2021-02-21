@@ -2,7 +2,7 @@
 layout: post
 title: 'BILLABONG Divine Vestido  Negro  Black 1 al 56.00 % de descuento'
 date: 2020-01-19 11:44:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51TmFSXEEmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TmFSXEEmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.8'
 
 Ahora mismo tienes [BILLABONG Divine Vestido  Negro  Black 19   Large  Tamaño del Fabricante: L  para Mujer](https://www.amazon.es/dp/B07RWKXVPQ/?tag=tolees-21) a 30.8 EUR (original: 70 EUR) (56.00 %  de descuento) en el siguiente enlace!
 
-[![BILLABONG Divine Vestido  Negro  Black 1](https://images-eu.ssl-images-amazon.com/images/I/51TmFSXEEmL._SL200_.jpg)](https://www.amazon.es/dp/B07RWKXVPQ/?tag=tolees-21)
+[![BILLABONG Divine Vestido  Negro  Black 1](https://images-eu.ssl-images-amazon.com/images/I/51TmFSXEEmL._SL400_.jpg)](https://www.amazon.es/dp/B07RWKXVPQ/?tag=tolees-21)
 
 🔎:
 

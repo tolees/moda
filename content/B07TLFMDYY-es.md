@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Original Hm Pullover Hoo Sudadera al 40.07 % de descuento'
 date: 2020-03-20 18:24:11
-image: 'https://m.media-amazon.com/images/I/41QKcksBj3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QKcksBj3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.95'
 
 Ahora mismo tienes [Levi s Original Hm Pullover Hoo Sudadera  Verde  Olive Night 0015   X-Large para Hombre](https://www.amazon.es/dp/B07TLFMDYY/?tag=tolees-21) a 41.95 EUR (original: 70.0 EUR) (40.07 %  de descuento) en el siguiente enlace!
 
-[![Levi s Original Hm Pullover Hoo Sudadera](https://m.media-amazon.com/images/I/41QKcksBj3L._SL200_.jpg)](https://www.amazon.es/dp/B07TLFMDYY/?tag=tolees-21)
+[![Levi s Original Hm Pullover Hoo Sudadera](https://m.media-amazon.com/images/I/41QKcksBj3L._SL400_.jpg)](https://www.amazon.es/dp/B07TLFMDYY/?tag=tolees-21)
 
 🔎:
 

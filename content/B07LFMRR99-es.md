@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s HR Decon Iconic BF Skirt Falda  G al 60.08 % de rebaja'
 date: 2020-01-20 08:17:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415MBfPqXwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415MBfPqXwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.45'
 
 Tienes [Levi s HR Decon Iconic BF Skirt Falda  Gris  Snakehead 0002   Talla única  Talla del Fabricante: 24  para Mujer](https://www.amazon.es/dp/B07LFMRR99/?tag=tolees-21) con precio final de  25.95 EUR (original: 65 EUR) (60.08 %  de rebaja) aqui!
 
-[![Levi s HR Decon Iconic BF Skirt Falda  G](https://images-eu.ssl-images-amazon.com/images/I/415MBfPqXwL._SL200_.jpg)](https://www.amazon.es/dp/B07LFMRR99/?tag=tolees-21)
+[![Levi s HR Decon Iconic BF Skirt Falda  G](https://images-eu.ssl-images-amazon.com/images/I/415MBfPqXwL._SL400_.jpg)](https://www.amazon.es/dp/B07LFMRR99/?tag=tolees-21)
 
 🔎:
 

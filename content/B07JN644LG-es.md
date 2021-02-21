@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Davis Square Leather Oxford   al 49.23 % de rebaja'
 date: 2020-01-11 21:56:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/314vrfCxyKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314vrfCxyKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Tienes [Timberland Davis Square Leather Oxford  Zapatillas Unisex-Niño  Verde  Dark Green Nubuck   29 EU](https://www.amazon.es/dp/B07JN644LG/?tag=tolees-21) con precio final de  27.99 EUR (original: 55.13 EUR) (49.23 %  de rebaja) aqui!
 
-[![Timberland Davis Square Leather Oxford  ](https://images-eu.ssl-images-amazon.com/images/I/314vrfCxyKL._SL200_.jpg)](https://www.amazon.es/dp/B07JN644LG/?tag=tolees-21)
+[![Timberland Davis Square Leather Oxford  ](https://images-eu.ssl-images-amazon.com/images/I/314vrfCxyKL._SL400_.jpg)](https://www.amazon.es/dp/B07JN644LG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Rhino- Falda pantalón de deporte para mu al 37.18 % de descuento'
 date: 2020-01-10 10:23:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417DuGrNkYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417DuGrNkYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.2'
 
 Ahora mismo tienes [Rhino- Falda pantalón de deporte para mujer](https://www.amazon.es/dp/B00D9XTY7K/?tag=tolees-21) a 22.2 EUR (original: 35.34 EUR) (37.18 %  de descuento) en el siguiente enlace!
 
-[![Rhino- Falda pantalón de deporte para mu](https://images-eu.ssl-images-amazon.com/images/I/417DuGrNkYL._SL200_.jpg)](https://www.amazon.es/dp/B00D9XTY7K/?tag=tolees-21)
+[![Rhino- Falda pantalón de deporte para mu](https://images-eu.ssl-images-amazon.com/images/I/417DuGrNkYL._SL400_.jpg)](https://www.amazon.es/dp/B00D9XTY7K/?tag=tolees-21)
 
 🔎:
 

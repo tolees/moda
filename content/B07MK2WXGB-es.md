@@ -2,7 +2,7 @@
 layout: post
 title: 'Cerdá 2300003841  Sandalias Deportivas p al 21.19 % de descuento'
 date: 2020-10-02 15:06:02
-image: 'https://m.media-amazon.com/images/I/41YA758lFBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YA758lFBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.55'
 
 Ahora mismo tienes [Cerdá 2300003841  Sandalias Deportivas para Niñas  Blanco  Blanco C01   26 EU](https://www.amazon.es/dp/B07MK2WXGB/?tag=tolees-21) a 7.55 EUR (original: 9.58 EUR) (21.19 %  de descuento) en el siguiente enlace!
 
-[![Cerdá 2300003841  Sandalias Deportivas p](https://m.media-amazon.com/images/I/41YA758lFBL._SL200_.jpg)](https://www.amazon.es/dp/B07MK2WXGB/?tag=tolees-21)
+[![Cerdá 2300003841  Sandalias Deportivas p](https://m.media-amazon.com/images/I/41YA758lFBL._SL400_.jpg)](https://www.amazon.es/dp/B07MK2WXGB/?tag=tolees-21)
 
 🔎:
 

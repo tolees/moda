@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 78.35 % en Under Armour Tech Terry Sudadera  Mujer '
 date: 2020-04-04 15:03:32
-image: 'https://m.media-amazon.com/images/I/31gnVome91L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gnVome91L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.030000000000001'
 
 Tienes [Under Armour Tech Terry Sudadera  Mujer  Negro  XL](https://www.amazon.es/dp/B07L9GQJ65/?tag=tolees-21) con un 78.35 % de descuento con precio de oferta de 12.99 EUR (original: 60.0 EUR) en el siguiente enlace!
 
-[![Under Armour Tech Terry Sudadera  Mujer ](https://m.media-amazon.com/images/I/31gnVome91L._SL200_.jpg)](https://www.amazon.es/dp/B07L9GQJ65/?tag=tolees-21)
+[![Under Armour Tech Terry Sudadera  Mujer ](https://m.media-amazon.com/images/I/31gnVome91L._SL400_.jpg)](https://www.amazon.es/dp/B07L9GQJ65/?tag=tolees-21)
 
 ℹ️:
 

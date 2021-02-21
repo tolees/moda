@@ -2,7 +2,7 @@
 layout: post
 title: 'MBT SHUGULI M  Zapatos de Cordones Oxfor con un 47.75 % de descuento'
 date: 2020-02-26 14:49:20
-image: 'https://m.media-amazon.com/images/I/31D7BPF7WPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31D7BPF7WPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '104.5'
 
 En este momento está [MBT SHUGULI M  Zapatos de Cordones Oxford para Hombre  Marrón  Burnished Brown 1156n   42 EU](https://www.amazon.es/dp/B075KP3KKF/?tag=tolees-21) a 104.5 EUR (original: 200.0 EUR) (47.75 %  de descuento) en el siguiente enlace!
 
-[![MBT SHUGULI M  Zapatos de Cordones Oxfor](https://m.media-amazon.com/images/I/31D7BPF7WPL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075KP3KKF/?tag=tolees-21)
+[![MBT SHUGULI M  Zapatos de Cordones Oxfor](https://m.media-amazon.com/images/I/31D7BPF7WPL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075KP3KKF/?tag=tolees-21)
 
 🔎:
 

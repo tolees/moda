@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Saba Short Packable Windb al 72.73 % de descuento'
 date: 2020-01-23 21:42:28
-image: 'https://m.media-amazon.com/images/I/41vxrNZysOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vxrNZysOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.82'
 
 Está [Tommy Hilfiger Saba Short Packable Windbreaker Chaqueta Impermeable  Morado  Pink Lavender 503   Large para Mujer](https://www.amazon.es/dp/B07LBK86FW/?tag=tolees-21) con 72.73 de descuento por 48.82 EUR (original: 179.0 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Saba Short Packable Windb](https://m.media-amazon.com/images/I/41vxrNZysOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LBK86FW/?tag=tolees-21)
+[![Tommy Hilfiger Saba Short Packable Windb](https://m.media-amazon.com/images/I/41vxrNZysOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LBK86FW/?tag=tolees-21)
 
 ℹ️:
 

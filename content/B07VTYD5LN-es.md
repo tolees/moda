@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 58.99 % en Lee Rider Jacket Chaqueta de Jean  Azul '
 date: 2020-08-31 17:56:22
-image: 'https://m.media-amazon.com/images/I/41s5WdhjlaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s5WdhjlaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.99'
 
 Tienes [Lee Rider Jacket Chaqueta de Jean  Azul  Oakwood Light XA   X-Large para Hombre](https://www.amazon.es/dp/B07VTYD5LN/?tag=tolees-21) con un 58.99 % de descuento con precio de oferta de 40.99 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Lee Rider Jacket Chaqueta de Jean  Azul ](https://m.media-amazon.com/images/I/41s5WdhjlaL._SL200_.jpg)](https://www.amazon.es/dp/B07VTYD5LN/?tag=tolees-21)
+[![Lee Rider Jacket Chaqueta de Jean  Azul ](https://m.media-amazon.com/images/I/41s5WdhjlaL._SL400_.jpg)](https://www.amazon.es/dp/B07VTYD5LN/?tag=tolees-21)
 
 ℹ️:
 

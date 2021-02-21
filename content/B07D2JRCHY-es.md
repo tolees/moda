@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Paris Embroidered Sudadera  Verde  al 28.57 % de descuento'
 date: 2020-05-02 18:05:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41UqpD6-iPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UqpD6-iPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15'
 
 Ahora mismo tienes [find. Paris Embroidered Sudadera  Verde  Green   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07D2JRCHY/?tag=tolees-21) a 15 EUR (original: 21 EUR) (28.57 %  de descuento) en el siguiente enlace!
 
-[![find. Paris Embroidered Sudadera  Verde ](https://images-eu.ssl-images-amazon.com/images/I/41UqpD6-iPL._SL200_.jpg)](https://www.amazon.es/dp/B07D2JRCHY/?tag=tolees-21)
+[![find. Paris Embroidered Sudadera  Verde ](https://images-eu.ssl-images-amazon.com/images/I/41UqpD6-iPL._SL400_.jpg)](https://www.amazon.es/dp/B07D2JRCHY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Duramo Slide  Chanclas Unisex Adu al 29.87 % de rebaja'
 date: 2020-07-18 13:39:52
-image: 'https://m.media-amazon.com/images/I/31GHOTItKmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GHOTItKmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.578'
 
 Tienes [adidas Duramo Slide  Chanclas Unisex Adulto  Negro  Black/White/Black   talla del fabricante: 8](https://www.amazon.es/dp/B0030ZSZU4/?tag=tolees-21) con precio final de  13.99 EUR (original: 19.95 EUR) (29.87 %  de rebaja) aqui!
 
-[![adidas Duramo Slide  Chanclas Unisex Adu](https://m.media-amazon.com/images/I/31GHOTItKmL._SL200_.jpg)](https://www.amazon.es/dp/B0030ZSZU4/?tag=tolees-21)
+[![adidas Duramo Slide  Chanclas Unisex Adu](https://m.media-amazon.com/images/I/31GHOTItKmL._SL400_.jpg)](https://www.amazon.es/dp/B0030ZSZU4/?tag=tolees-21)
 
 🔎:
 

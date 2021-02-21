@@ -2,7 +2,7 @@
 layout: post
 title: 'SELECTED HOMME Slhslimpreston-Clean Shir al 59.93 % de rebaja'
 date: 2020-06-26 18:26:23
-image: 'https://m.media-amazon.com/images/I/41cWK2ld6zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cWK2ld6zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.56'
 
 Tienes [SELECTED HOMME Slhslimpreston-Clean Shirt LS B Noos Camisa  Azul  Light Blue Light Blue   Medium para Hombre](https://www.amazon.es/dp/B07B45L4DX/?tag=tolees-21) con precio final de  20.03 EUR (original: 49.99 EUR) (59.93 %  de rebaja) aqui!
 
-[![SELECTED HOMME Slhslimpreston-Clean Shir](https://m.media-amazon.com/images/I/41cWK2ld6zL._SL200_.jpg)](https://www.amazon.es/dp/B07B45L4DX/?tag=tolees-21)
+[![SELECTED HOMME Slhslimpreston-Clean Shir](https://m.media-amazon.com/images/I/41cWK2ld6zL._SL400_.jpg)](https://www.amazon.es/dp/B07B45L4DX/?tag=tolees-21)
 
 🔎:
 

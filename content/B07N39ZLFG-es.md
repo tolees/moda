@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Coat AGGU Abrigo  Negro  Negro  al 79.12 % de rebaja'
 date: 2020-04-11 14:53:02
-image: 'https://m.media-amazon.com/images/I/41zmLQ39g1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zmLQ39g1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.236666666666665'
 
 Tienes [Desigual Coat AGGU Abrigo  Negro  Negro 2000   42  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07N39ZLFG/?tag=tolees-21) con precio final de  33.4 EUR (original: 159.95 EUR) (79.12 %  de rebaja) aqui!
 
-[![Desigual Coat AGGU Abrigo  Negro  Negro ](https://m.media-amazon.com/images/I/41zmLQ39g1L._SL200_.jpg)](https://www.amazon.es/dp/B07N39ZLFG/?tag=tolees-21)
+[![Desigual Coat AGGU Abrigo  Negro  Negro ](https://m.media-amazon.com/images/I/41zmLQ39g1L._SL400_.jpg)](https://www.amazon.es/dp/B07N39ZLFG/?tag=tolees-21)
 
 🔎:
 

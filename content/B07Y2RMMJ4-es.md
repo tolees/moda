@@ -2,7 +2,7 @@
 layout: post
 title: 'AOQUSSQOA Mujer Traje de Baño de Una Pie al 65.23 % de rebaja'
 date: 2020-06-15 13:28:13
-image: 'https://m.media-amazon.com/images/I/41YfYcuemHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YfYcuemHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Tienes [AOQUSSQOA Mujer Traje de Baño de Una Pieza Retro Monokinis Pin Up Halter Talla Grande Una Pieza Moda Sexy con Uno/Dos Tirantes  EU 46-48  3XL   J ](https://www.amazon.es/dp/B07Y2RMMJ4/?tag=tolees-21) con precio final de  15.99 EUR (original: 45.99 EUR) (65.23 %  de rebaja) aqui!
 
-[![AOQUSSQOA Mujer Traje de Baño de Una Pie](https://m.media-amazon.com/images/I/41YfYcuemHL._SL200_.jpg)](https://www.amazon.es/dp/B07Y2RMMJ4/?tag=tolees-21)
+[![AOQUSSQOA Mujer Traje de Baño de Una Pie](https://m.media-amazon.com/images/I/41YfYcuemHL._SL400_.jpg)](https://www.amazon.es/dp/B07Y2RMMJ4/?tag=tolees-21)
 
 🔎:
 

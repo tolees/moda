@@ -2,7 +2,7 @@
 layout: post
 title: 'Esprit 089ee2g001 Chaqueta  Marrón  Toff al 84.72 % de rebaja'
 date: 2020-02-21 10:57:25
-image: 'https://m.media-amazon.com/images/I/41fiPjCmI1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fiPjCmI1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.28'
 
 Tienes [Esprit 089ee2g001 Chaqueta  Marrón  Toffee 225   XXX-Large para Hombre](https://www.amazon.es/dp/B07S19MSGN/?tag=tolees-21) con precio final de  15.28 EUR (original: 99.99 EUR) (84.72 %  de rebaja) aqui!
 
-[![Esprit 089ee2g001 Chaqueta  Marrón  Toff](https://m.media-amazon.com/images/I/41fiPjCmI1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07S19MSGN/?tag=tolees-21)
+[![Esprit 089ee2g001 Chaqueta  Marrón  Toff](https://m.media-amazon.com/images/I/41fiPjCmI1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07S19MSGN/?tag=tolees-21)
 
 🔎:
 

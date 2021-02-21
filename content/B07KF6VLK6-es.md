@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 502 Regular Taper Vaqueros  Gris  al 35.54 % de descuento'
 date: 2020-04-10 20:42:46
-image: 'https://m.media-amazon.com/images/I/41+7IHiV9tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+7IHiV9tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.91'
 
 Está [Levi s 502 Regular Taper Vaqueros  Gris  Porcini Overt ADV 0416   40W / 34L para Hombre](https://www.amazon.es/dp/B07KF6VLK6/?tag=tolees-21) con 35.54 de descuento por 70.91 EUR (original: 110.0 EUR) en el siguiente enlace!
 
-[![Levi s 502 Regular Taper Vaqueros  Gris ](https://m.media-amazon.com/images/I/41+7IHiV9tL._SL200_.jpg)](https://www.amazon.es/dp/B07KF6VLK6/?tag=tolees-21)
+[![Levi s 502 Regular Taper Vaqueros  Gris ](https://m.media-amazon.com/images/I/41+7IHiV9tL._SL400_.jpg)](https://www.amazon.es/dp/B07KF6VLK6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Hiver A  Zapatillas para Mujer  A al 21.90 % de descuento'
 date: 2020-02-16 14:15:17
-image: 'https://m.media-amazon.com/images/I/31koBLmhtxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31koBLmhtxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.45'
 
 Está [Geox D Hiver A  Zapatillas para Mujer  Azul  Navy C4002   38 EU](https://www.amazon.es/dp/B07LFV95F1/?tag=tolees-21) con 21.90 de descuento por 30.45 EUR (original: 38.99 EUR) en el siguiente enlace!
 
-[![Geox D Hiver A  Zapatillas para Mujer  A](https://m.media-amazon.com/images/I/31koBLmhtxL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LFV95F1/?tag=tolees-21)
+[![Geox D Hiver A  Zapatillas para Mujer  A](https://m.media-amazon.com/images/I/31koBLmhtxL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LFV95F1/?tag=tolees-21)
 
 ℹ️:
 

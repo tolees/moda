@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Camiseta con Franja al 70.72 % de rebaja'
 date: 2020-07-27 23:43:57
-image: 'https://m.media-amazon.com/images/I/41aPXfKQqmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aPXfKQqmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.27'
 
 Tienes [Marca Amazon - find. Camiseta con Franjas para Hombre  Gris  Slate Grey   S  Label: S](https://www.amazon.es/dp/B074FWKPDT/?tag=tolees-21) con precio final de  5.27 EUR (original: 18.0 EUR) (70.72 %  de rebaja) aqui!
 
-[![Marca Amazon - find. Camiseta con Franja](https://m.media-amazon.com/images/I/41aPXfKQqmL._SL200_.jpg)](https://www.amazon.es/dp/B074FWKPDT/?tag=tolees-21)
+[![Marca Amazon - find. Camiseta con Franja](https://m.media-amazon.com/images/I/41aPXfKQqmL._SL400_.jpg)](https://www.amazon.es/dp/B074FWKPDT/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox J Alonisso Boy D  Zapatillas Altas  al 65.91 % de descuento'
 date: 2020-09-08 15:15:57
-image: 'https://m.media-amazon.com/images/I/41qV5mcyrXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qV5mcyrXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.42'
 
 Ahora mismo tienes [Geox J Alonisso Boy D  Zapatillas Altas para Niños  Azul  Avio/Beige C4289   35 EU](https://www.amazon.es/dp/B07SWSKGLW/?tag=tolees-21) a 20.42 EUR (original: 59.9 EUR) (65.91 %  de descuento) en el siguiente enlace!
 
-[![Geox J Alonisso Boy D  Zapatillas Altas ](https://m.media-amazon.com/images/I/41qV5mcyrXL._SL200_.jpg)](https://www.amazon.es/dp/B07SWSKGLW/?tag=tolees-21)
+[![Geox J Alonisso Boy D  Zapatillas Altas ](https://m.media-amazon.com/images/I/41qV5mcyrXL._SL400_.jpg)](https://www.amazon.es/dp/B07SWSKGLW/?tag=tolees-21)
 
 🔎:
 

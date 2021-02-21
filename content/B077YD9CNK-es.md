@@ -2,7 +2,7 @@
 layout: post
 title: 'HIKARO Sudadera con Capucha Hombre  Gris al 29.18 % de rebaja'
 date: 2020-05-25 19:38:02
-image: 'https://m.media-amazon.com/images/I/41TU3luOCpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TU3luOCpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.686'
 
 Tienes [HIKARO Sudadera con Capucha Hombre  Gris  Charcoal Marl   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YD9CNK/?tag=tolees-21) con precio final de  21.21 EUR (original: 29.95 EUR) (29.18 %  de rebaja) aqui!
 
-[![HIKARO Sudadera con Capucha Hombre  Gris](https://m.media-amazon.com/images/I/41TU3luOCpL._SL200_.jpg)](https://www.amazon.es/dp/B077YD9CNK/?tag=tolees-21)
+[![HIKARO Sudadera con Capucha Hombre  Gris](https://m.media-amazon.com/images/I/41TU3luOCpL._SL400_.jpg)](https://www.amazon.es/dp/B077YD9CNK/?tag=tolees-21)
 
 🔎:
 

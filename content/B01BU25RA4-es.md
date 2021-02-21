@@ -2,7 +2,7 @@
 layout: post
 title: 'Kempa Peak Training Jersey de Entrenamie al 48.01 % de rebaja'
 date: 2020-01-13 06:49:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ezl9%2Bo8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ezl9%2Bo8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.16'
 
 Tienes [Kempa Peak Training Jersey de Entrenamiento  Hombre  Azul Royal/Blanco  XXXL](https://www.amazon.es/dp/B01BU25RA4/?tag=tolees-21) con precio final de  25.99 EUR (original: 49.99 EUR) (48.01 %  de rebaja) aqui!
 
-[![Kempa Peak Training Jersey de Entrenamie](https://images-eu.ssl-images-amazon.com/images/I/41-ezl9%2Bo8L._SL200_.jpg)](https://www.amazon.es/dp/B01BU25RA4/?tag=tolees-21)
+[![Kempa Peak Training Jersey de Entrenamie](https://images-eu.ssl-images-amazon.com/images/I/41-ezl9%2Bo8L._SL400_.jpg)](https://www.amazon.es/dp/B01BU25RA4/?tag=tolees-21)
 
 🔎:
 

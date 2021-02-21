@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler Slim Western Shirt Blusa  Azul  al 72.77 % de descuento'
 date: 2020-02-20 19:57:47
-image: 'https://m.media-amazon.com/images/I/41wV62ycRaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wV62ycRaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.05'
 
 Ahora mismo tienes [Wrangler Slim Western Shirt Blusa  Azul  Dark Indigo X1e   X-Small para Mujer](https://www.amazon.es/dp/B07M962THH/?tag=tolees-21) a 19.05 EUR (original: 69.95 EUR) (72.77 %  de descuento) en el siguiente enlace!
 
-[![Wrangler Slim Western Shirt Blusa  Azul ](https://m.media-amazon.com/images/I/41wV62ycRaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07M962THH/?tag=tolees-21)
+[![Wrangler Slim Western Shirt Blusa  Azul ](https://m.media-amazon.com/images/I/41wV62ycRaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07M962THH/?tag=tolees-21)
 
 🔎:
 

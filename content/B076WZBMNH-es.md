@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 310 Shaping Super Skinny  Vaquero al 37.47 % de descuento'
 date: 2020-01-21 20:47:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418DfEufsKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418DfEufsKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.4'
 
 Está [Levi s 310 Shaping Super Skinny  Vaqueros Skinny Mujer  Negro  Black Galaxy 0003   W32/L34  Talla fabricante: W32/L34 ](https://www.amazon.es/dp/B076WZBMNH/?tag=tolees-21) con 37.47 de descuento por 59.4 EUR (original: 95 EUR) en el siguiente enlace!
 
-[![Levi s 310 Shaping Super Skinny  Vaquero](https://images-eu.ssl-images-amazon.com/images/I/418DfEufsKL._SL200_.jpg)](https://www.amazon.es/dp/B076WZBMNH/?tag=tolees-21)
+[![Levi s 310 Shaping Super Skinny  Vaquero](https://images-eu.ssl-images-amazon.com/images/I/418DfEufsKL._SL400_.jpg)](https://www.amazon.es/dp/B076WZBMNH/?tag=tolees-21)
 
 ℹ️:
 

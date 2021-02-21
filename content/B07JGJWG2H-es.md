@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - IRIS & LILLY  Bañador Mol al 27.00 % de descuento'
 date: 2020-05-14 02:44:06
-image: 'https://m.media-amazon.com/images/I/31ZOiUeheML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZOiUeheML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.41'
 
 Ahora mismo tienes [Marca Amazon - IRIS & LILLY  Bañador Moldeador Mujer  Rojo  Red   XL  Label: XL](https://www.amazon.es/dp/B07JGJWG2H/?tag=tolees-21) a 14.41 EUR (original: 19.74 EUR) (27.00 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - IRIS & LILLY  Bañador Mol](https://m.media-amazon.com/images/I/31ZOiUeheML._SL200_.jpg)](https://www.amazon.es/dp/B07JGJWG2H/?tag=tolees-21)
+[![Marca Amazon - IRIS & LILLY  Bañador Mol](https://m.media-amazon.com/images/I/31ZOiUeheML._SL400_.jpg)](https://www.amazon.es/dp/B07JGJWG2H/?tag=tolees-21)
 
 🔎:
 

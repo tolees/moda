@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.00 % en MERAKI Vestido Camiseta Slim Fit Mujer  '
 date: 2020-02-20 11:38:05
-image: 'https://m.media-amazon.com/images/I/31AxqJwS-KL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AxqJwS-KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.3'
 
 Tienes [MERAKI Vestido Camiseta Slim Fit Mujer  Rojo  Racing Red   Medium](https://www.amazon.es/dp/B075MPBGQZ/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 6.3 EUR (original: 10.5 EUR) en el siguiente enlace!
 
-[![MERAKI Vestido Camiseta Slim Fit Mujer  ](https://m.media-amazon.com/images/I/31AxqJwS-KL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075MPBGQZ/?tag=tolees-21)
+[![MERAKI Vestido Camiseta Slim Fit Mujer  ](https://m.media-amazon.com/images/I/31AxqJwS-KL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075MPBGQZ/?tag=tolees-21)
 
 ℹ️:
 

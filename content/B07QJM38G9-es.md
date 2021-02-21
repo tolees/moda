@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - AURIQUE Mallas de Deporte al 43.15 % de rebaja'
 date: 2020-06-22 07:00:56
-image: 'https://m.media-amazon.com/images/I/31iu-SBOFlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iu-SBOFlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.82'
 
 Tienes [Marca Amazon - AURIQUE Mallas de Deporte con Panel de Rejilla Mujer  Negro  Black   36  Label:XS](https://www.amazon.es/dp/B07QJM38G9/?tag=tolees-21) con precio final de  14.82 EUR (original: 26.07 EUR) (43.15 %  de rebaja) aqui!
 
-[![Marca Amazon - AURIQUE Mallas de Deporte](https://m.media-amazon.com/images/I/31iu-SBOFlL._SL200_.jpg)](https://www.amazon.es/dp/B07QJM38G9/?tag=tolees-21)
+[![Marca Amazon - AURIQUE Mallas de Deporte](https://m.media-amazon.com/images/I/31iu-SBOFlL._SL400_.jpg)](https://www.amazon.es/dp/B07QJM38G9/?tag=tolees-21)
 
 🔎:
 

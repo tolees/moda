@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Orabella Alice  Botines para Muje al 56.86 % de descuento'
 date: 2020-07-30 15:53:03
-image: 'https://m.media-amazon.com/images/I/31DTNTdEalL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DTNTdEalL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.84166666666667'
 
 Está [Clarks Orabella Alice  Botines para Mujer  Marrón  Burgundy Patent Burgundy Patent   35.5 EU](https://www.amazon.es/dp/B07N1HWCJY/?tag=tolees-21) con 56.86 de descuento por 38.8 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Clarks Orabella Alice  Botines para Muje](https://m.media-amazon.com/images/I/31DTNTdEalL._SL200_.jpg)](https://www.amazon.es/dp/B07N1HWCJY/?tag=tolees-21)
+[![Clarks Orabella Alice  Botines para Muje](https://m.media-amazon.com/images/I/31DTNTdEalL._SL400_.jpg)](https://www.amazon.es/dp/B07N1HWCJY/?tag=tolees-21)
 
 ℹ️:
 

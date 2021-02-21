@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.62 % en Pepe Jeans Venus Vaqueros  Azul  10Oz Ri'
 date: 2020-04-10 12:46:48
-image: 'https://m.media-amazon.com/images/I/317ddOuM7IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317ddOuM7IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.49'
 
 Tienes [Pepe Jeans Venus Vaqueros  Azul  10Oz Rinse Plus M15   34W / 34L para Mujer](https://www.amazon.es/dp/B00VWJMAQ0/?tag=tolees-21) con un 38.62 % de descuento con precio de oferta de 48.49 EUR (original: 79.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Venus Vaqueros  Azul  10Oz Ri](https://m.media-amazon.com/images/I/317ddOuM7IL._SL200_.jpg)](https://www.amazon.es/dp/B00VWJMAQ0/?tag=tolees-21)
+[![Pepe Jeans Venus Vaqueros  Azul  10Oz Ri](https://m.media-amazon.com/images/I/317ddOuM7IL._SL400_.jpg)](https://www.amazon.es/dp/B00VWJMAQ0/?tag=tolees-21)
 
 ℹ️:
 

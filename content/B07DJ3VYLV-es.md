@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Nebula C  Zapatillas para Mujer   con un 74.14 % de descuento'
 date: 2020-09-13 08:05:34
-image: 'https://m.media-amazon.com/images/I/31D5rZfJz3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31D5rZfJz3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.59'
 
 En este momento está [Geox D Nebula C  Zapatillas para Mujer  Negro  Gun C1357   38 EU](https://www.amazon.es/dp/B07DJ3VYLV/?tag=tolees-21) a 33.59 EUR (original: 129.9 EUR) (74.14 %  de descuento) en el siguiente enlace!
 
-[![Geox D Nebula C  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/31D5rZfJz3L._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3VYLV/?tag=tolees-21)
+[![Geox D Nebula C  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/31D5rZfJz3L._SL400_.jpg)](https://www.amazon.es/dp/B07DJ3VYLV/?tag=tolees-21)
 
 🔎:
 

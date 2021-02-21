@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri GOAYO Camisa Casual  Naranja   con un 50.00 % de descuento'
 date: 2020-01-12 17:54:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q5LJCtbqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q5LJCtbqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.5'
 
 En este momento está [Napapijri GOAYO Camisa Casual  Naranja  Orange Check 15C   M para Hombre](https://www.amazon.es/dp/B07M83VSDB/?tag=tolees-21) a 44.5 EUR (original: 89 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri GOAYO Camisa Casual  Naranja  ](https://images-eu.ssl-images-amazon.com/images/I/41Q5LJCtbqL._SL200_.jpg)](https://www.amazon.es/dp/B07M83VSDB/?tag=tolees-21)
+[![Napapijri GOAYO Camisa Casual  Naranja  ](https://images-eu.ssl-images-amazon.com/images/I/41Q5LJCtbqL._SL400_.jpg)](https://www.amazon.es/dp/B07M83VSDB/?tag=tolees-21)
 
 🔎:
 

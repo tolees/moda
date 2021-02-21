@@ -2,7 +2,7 @@
 layout: post
 title: 'Marvel Capitan America - Camiseta para H al 18.81 % de descuento'
 date: 2020-03-11 18:04:04
-image: 'https://m.media-amazon.com/images/I/41jU6Yh-FhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jU6Yh-FhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.95'
 
 Ahora mismo tienes [Marvel Capitan America - Camiseta para Hombre - Talla XL](https://www.amazon.es/dp/B00MEHWXP2/?tag=tolees-21) a 12.95 EUR (original: 15.95 EUR) (18.81 %  de descuento) en el siguiente enlace!
 
-[![Marvel Capitan America - Camiseta para H](https://m.media-amazon.com/images/I/41jU6Yh-FhL._SL200_.jpg)](https://www.amazon.es/dp/B00MEHWXP2/?tag=tolees-21)
+[![Marvel Capitan America - Camiseta para H](https://m.media-amazon.com/images/I/41jU6Yh-FhL._SL400_.jpg)](https://www.amazon.es/dp/B00MEHWXP2/?tag=tolees-21)
 
 🔎:
 

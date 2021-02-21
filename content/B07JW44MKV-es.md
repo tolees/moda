@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Extreme Motion Straight Vaqueros  Be al 33.34 % de rebaja'
 date: 2020-06-27 20:00:17
-image: 'https://m.media-amazon.com/images/I/31ktMlIIo1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ktMlIIo1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.87'
 
 Tienes [Lee Extreme Motion Straight Vaqueros  Beige  Cougar 77   32W / 30L para Hombre](https://www.amazon.es/dp/B07JW44MKV/?tag=tolees-21) con precio final de  25.87 EUR (original: 38.81 EUR) (33.34 %  de rebaja) aqui!
 
-[![Lee Extreme Motion Straight Vaqueros  Be](https://m.media-amazon.com/images/I/31ktMlIIo1L._SL200_.jpg)](https://www.amazon.es/dp/B07JW44MKV/?tag=tolees-21)
+[![Lee Extreme Motion Straight Vaqueros  Be](https://m.media-amazon.com/images/I/31ktMlIIo1L._SL400_.jpg)](https://www.amazon.es/dp/B07JW44MKV/?tag=tolees-21)
 
 🔎:
 

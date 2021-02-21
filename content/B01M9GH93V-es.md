@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Sport SH2128 Sudadera  Multicolo con un 31.00 % de descuento'
 date: 2020-01-10 09:10:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31pFGOOw9tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pFGOOw9tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69'
 
 En este momento está [Lacoste Sport SH2128 Sudadera  Multicolor  Noir/Argent Chine   Large  Talla del fabricante: 5  para Hombre](https://www.amazon.es/dp/B01M9GH93V/?tag=tolees-21) a 69 EUR (original: 100 EUR) (31.00 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Sport SH2128 Sudadera  Multicolo](https://images-eu.ssl-images-amazon.com/images/I/31pFGOOw9tL._SL200_.jpg)](https://www.amazon.es/dp/B01M9GH93V/?tag=tolees-21)
+[![Lacoste Sport SH2128 Sudadera  Multicolo](https://images-eu.ssl-images-amazon.com/images/I/31pFGOOw9tL._SL400_.jpg)](https://www.amazon.es/dp/B01M9GH93V/?tag=tolees-21)
 
 🔎:
 

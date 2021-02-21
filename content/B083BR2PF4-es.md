@@ -2,7 +2,7 @@
 layout: post
 title: 'Collar Antiladridos Para Perros - Collar al 63.76 % de rebaja'
 date: 2020-05-02 17:15:58
-image: 'https://m.media-amazon.com/images/I/51sOJVEFriL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sOJVEFriL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.99'
 
 Tienes [Collar Antiladridos Para Perros - Collar Anti-Ladridos Sonido/Vibración/Sensibilidad  Collar Ajustable Para Perros Pequeños  Medianos y Grandes  Viene con 2 Collares de Nylon Luminosos Intercambiables](https://www.amazon.es/dp/B083BR2PF4/?tag=tolees-21) con precio final de  28.99 EUR (original: 79.99 EUR) (63.76 %  de rebaja) aqui!
 
-[![Collar Antiladridos Para Perros - Collar](https://m.media-amazon.com/images/I/51sOJVEFriL._SL200_.jpg)](https://www.amazon.es/dp/B083BR2PF4/?tag=tolees-21)
+[![Collar Antiladridos Para Perros - Collar](https://m.media-amazon.com/images/I/51sOJVEFriL._SL400_.jpg)](https://www.amazon.es/dp/B083BR2PF4/?tag=tolees-21)
 
 🔎:
 

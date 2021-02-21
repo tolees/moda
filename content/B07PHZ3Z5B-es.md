@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 72.03 % en Geox J Xunday Boy B ABX A  Botas Chukka '
 date: 2020-04-06 08:41:26
-image: 'https://m.media-amazon.com/images/I/41OeX8OAcmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OeX8OAcmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.98'
 
 Tienes [Geox J Xunday Boy B ABX A  Botas Chukka para Niños  Verde  Military/Beige C3202   32 EU](https://www.amazon.es/dp/B07PHZ3Z5B/?tag=tolees-21) con un 72.03 % de descuento con precio de oferta de 20.98 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![Geox J Xunday Boy B ABX A  Botas Chukka ](https://m.media-amazon.com/images/I/41OeX8OAcmL._SL200_.jpg)](https://www.amazon.es/dp/B07PHZ3Z5B/?tag=tolees-21)
+[![Geox J Xunday Boy B ABX A  Botas Chukka ](https://m.media-amazon.com/images/I/41OeX8OAcmL._SL400_.jpg)](https://www.amazon.es/dp/B07PHZ3Z5B/?tag=tolees-21)
 
 ℹ️:
 

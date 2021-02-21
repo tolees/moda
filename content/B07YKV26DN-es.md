@@ -2,7 +2,7 @@
 layout: post
 title: 'Esprit 999ee1n801 Camiseta  Blanco  Whit al 65.41 % de descuento'
 date: 2020-10-12 16:02:15
-image: 'https://m.media-amazon.com/images/I/21sISmRIP6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21sISmRIP6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Está [Esprit 999ee1n801 Camiseta  Blanco  White 100   Medium  Pack de 2  para Mujer](https://www.amazon.es/dp/B07YKV26DN/?tag=tolees-21) con 65.41 de descuento por 8.99 EUR (original: 25.99 EUR) en el siguiente enlace!
 
-[![Esprit 999ee1n801 Camiseta  Blanco  Whit](https://m.media-amazon.com/images/I/21sISmRIP6L._SL200_.jpg)](https://www.amazon.es/dp/B07YKV26DN/?tag=tolees-21)
+[![Esprit 999ee1n801 Camiseta  Blanco  Whit](https://m.media-amazon.com/images/I/21sISmRIP6L._SL400_.jpg)](https://www.amazon.es/dp/B07YKV26DN/?tag=tolees-21)
 
 ℹ️:
 

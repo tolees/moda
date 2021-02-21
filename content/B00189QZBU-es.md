@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Classic 2 Eye  Náuticos para  al 42.74 % de rebaja'
 date: 2020-10-12 22:31:14
-image: 'https://m.media-amazon.com/images/I/41rYBHhMf+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rYBHhMf+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.16'
 
 Tienes [Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Med Brown Full Grain  43.5 EU](https://www.amazon.es/dp/B00189QZBU/?tag=tolees-21) con precio final de  80.16 EUR (original: 140.0 EUR) (42.74 %  de rebaja) aqui!
 
-[![Timberland Classic 2 Eye  Náuticos para ](https://m.media-amazon.com/images/I/41rYBHhMf+L._SL200_.jpg)](https://www.amazon.es/dp/B00189QZBU/?tag=tolees-21)
+[![Timberland Classic 2 Eye  Náuticos para ](https://m.media-amazon.com/images/I/41rYBHhMf+L._SL400_.jpg)](https://www.amazon.es/dp/B00189QZBU/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Rival Solid Pantalón  Niños con un 72.20 % de descuento'
 date: 2020-02-26 09:53:50
-image: 'https://m.media-amazon.com/images/I/31s+wss+FyL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31s+wss+FyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.12'
 
 En este momento está [Under Armour Rival Solid Pantalón  Niños  Negro  YSM](https://www.amazon.es/dp/B07L9G18QR/?tag=tolees-21) a 11.12 EUR (original: 40.0 EUR) (72.20 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Rival Solid Pantalón  Niños](https://m.media-amazon.com/images/I/31s+wss+FyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L9G18QR/?tag=tolees-21)
+[![Under Armour Rival Solid Pantalón  Niños](https://m.media-amazon.com/images/I/31s+wss+FyL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L9G18QR/?tag=tolees-21)
 
 🔎:
 

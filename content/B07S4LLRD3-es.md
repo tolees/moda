@@ -2,7 +2,7 @@
 layout: post
 title: 'Esprit 089ee1k031 Camiseta  Negro  Black con un 70.69 % de descuento'
 date: 2020-02-27 16:55:19
-image: 'https://m.media-amazon.com/images/I/41X4vwF0HbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X4vwF0HbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.86'
 
 En este momento está [Esprit 089ee1k031 Camiseta  Negro  Black 001   Small para Mujer](https://www.amazon.es/dp/B07S4LLRD3/?tag=tolees-21) a 5.86 EUR (original: 19.99 EUR) (70.69 %  de descuento) en el siguiente enlace!
 
-[![Esprit 089ee1k031 Camiseta  Negro  Black](https://m.media-amazon.com/images/I/41X4vwF0HbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07S4LLRD3/?tag=tolees-21)
+[![Esprit 089ee1k031 Camiseta  Negro  Black](https://m.media-amazon.com/images/I/41X4vwF0HbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07S4LLRD3/?tag=tolees-21)
 
 🔎:
 

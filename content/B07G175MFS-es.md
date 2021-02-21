@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 19.80 % en Tommy Hilfiger T Camiseta Básica de Mang'
 date: 2020-08-13 07:44:50
-image: 'https://m.media-amazon.com/images/I/41ftqAiWS1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ftqAiWS1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.95'
 
 Tienes [Tommy Hilfiger T Camiseta Básica de Manga Corta  Rojo  Apple Red Heather   116  Talla del Fabricante: 6  para Niños](https://www.amazon.es/dp/B07G175MFS/?tag=tolees-21) con un 19.80 % de descuento con precio de oferta de 11.95 EUR (original: 14.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger T Camiseta Básica de Mang](https://m.media-amazon.com/images/I/41ftqAiWS1L._SL200_.jpg)](https://www.amazon.es/dp/B07G175MFS/?tag=tolees-21)
+[![Tommy Hilfiger T Camiseta Básica de Mang](https://m.media-amazon.com/images/I/41ftqAiWS1L._SL400_.jpg)](https://www.amazon.es/dp/B07G175MFS/?tag=tolees-21)
 
 ℹ️:
 

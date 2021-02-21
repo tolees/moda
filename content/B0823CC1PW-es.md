@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones T-Shirt Camiseta  Ajuste: S al 27.57 % de descuento'
 date: 2020-08-29 11:42:19
-image: 'https://m.media-amazon.com/images/I/419Ro4zAW1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419Ro4zAW1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.62'
 
 Está [Jack & Jones T-Shirt Camiseta  Ajuste: Slim - Friday Tea Chinese Red  L para Hombre](https://www.amazon.es/dp/B0823CC1PW/?tag=tolees-21) con 27.57 de descuento por 6.62 EUR (original: 9.14 EUR) en el siguiente enlace!
 
-[![Jack & Jones T-Shirt Camiseta  Ajuste: S](https://m.media-amazon.com/images/I/419Ro4zAW1L._SL200_.jpg)](https://www.amazon.es/dp/B0823CC1PW/?tag=tolees-21)
+[![Jack & Jones T-Shirt Camiseta  Ajuste: S](https://m.media-amazon.com/images/I/419Ro4zAW1L._SL400_.jpg)](https://www.amazon.es/dp/B0823CC1PW/?tag=tolees-21)
 
 ℹ️:
 

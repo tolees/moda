@@ -2,7 +2,7 @@
 layout: post
 title: 'Roamers - Zapatos con Cordones para pies al 33.33 % de descuento'
 date: 2020-06-15 18:00:54
-image: 'https://m.media-amazon.com/images/I/41hlmhtPxnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hlmhtPxnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.678'
 
 Está [Roamers - Zapatos con Cordones para pies Anchos Hombre Caballero  42 EUR/Negro ](https://www.amazon.es/dp/B00VUD06SW/?tag=tolees-21) con 33.33 de descuento por 50.2 EUR (original: 75.3 EUR) en el siguiente enlace!
 
-[![Roamers - Zapatos con Cordones para pies](https://m.media-amazon.com/images/I/41hlmhtPxnL._SL200_.jpg)](https://www.amazon.es/dp/B00VUD06SW/?tag=tolees-21)
+[![Roamers - Zapatos con Cordones para pies](https://m.media-amazon.com/images/I/41hlmhtPxnL._SL400_.jpg)](https://www.amazon.es/dp/B00VUD06SW/?tag=tolees-21)
 
 ℹ️:
 

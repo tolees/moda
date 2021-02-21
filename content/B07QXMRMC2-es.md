@@ -2,7 +2,7 @@
 layout: post
 title: 'Diesel S-Crew-Division-D Sweat-Shirt Sud al 70.23 % de descuento'
 date: 2020-04-11 19:31:35
-image: 'https://m.media-amazon.com/images/I/31qOXvAko1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qOXvAko1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.43'
 
 Ahora mismo tienes [Diesel S-Crew-Division-D Sweat-Shirt Sudadera  Negro  Negro 900   Small  Tamaño del Fabricante: S  para Hombre](https://www.amazon.es/dp/B07QXMRMC2/?tag=tolees-21) a 35.43 EUR (original: 119.0 EUR) (70.23 %  de descuento) en el siguiente enlace!
 
-[![Diesel S-Crew-Division-D Sweat-Shirt Sud](https://m.media-amazon.com/images/I/31qOXvAko1L._SL200_.jpg)](https://www.amazon.es/dp/B07QXMRMC2/?tag=tolees-21)
+[![Diesel S-Crew-Division-D Sweat-Shirt Sud](https://m.media-amazon.com/images/I/31qOXvAko1L._SL400_.jpg)](https://www.amazon.es/dp/B07QXMRMC2/?tag=tolees-21)
 
 🔎:
 

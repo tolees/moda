@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Becken Cap  Zapatos de Cordones D al 40.00 % de descuento'
 date: 2020-09-03 06:27:08
-image: 'https://m.media-amazon.com/images/I/31dfwKnHRDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dfwKnHRDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.97'
 
 Está [Clarks Becken Cap  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   42 EU](https://www.amazon.es/dp/B07DPPLZ6B/?tag=tolees-21) con 40.00 de descuento por 47.97 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Clarks Becken Cap  Zapatos de Cordones D](https://m.media-amazon.com/images/I/31dfwKnHRDL._SL200_.jpg)](https://www.amazon.es/dp/B07DPPLZ6B/?tag=tolees-21)
+[![Clarks Becken Cap  Zapatos de Cordones D](https://m.media-amazon.com/images/I/31dfwKnHRDL._SL400_.jpg)](https://www.amazon.es/dp/B07DPPLZ6B/?tag=tolees-21)
 
 ℹ️:
 

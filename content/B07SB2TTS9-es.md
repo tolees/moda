@@ -2,7 +2,7 @@
 layout: post
 title: 'Camiseta Tirantes sin Mangas de Deporte  al 28.36 % de rebaja'
 date: 2020-03-20 19:05:12
-image: 'https://m.media-amazon.com/images/I/31O-mh2iFjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31O-mh2iFjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.59'
 
 Tienes [Camiseta Tirantes sin Mangas de Deporte para Mujer Verano  Tank Top Clásico Chaleco para Fitness Gimnasio Yoga Colores Opcionales Camiseta de Pijama Dormir  M  Negro ](https://www.amazon.es/dp/B07SB2TTS9/?tag=tolees-21) con precio final de  8.59 EUR (original: 11.99 EUR) (28.36 %  de rebaja) aqui!
 
-[![Camiseta Tirantes sin Mangas de Deporte ](https://m.media-amazon.com/images/I/31O-mh2iFjL._SL200_.jpg)](https://www.amazon.es/dp/B07SB2TTS9/?tag=tolees-21)
+[![Camiseta Tirantes sin Mangas de Deporte ](https://m.media-amazon.com/images/I/31O-mh2iFjL._SL400_.jpg)](https://www.amazon.es/dp/B07SB2TTS9/?tag=tolees-21)
 
 🔎:
 

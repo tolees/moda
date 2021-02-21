@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.35 % en adidas T-Shirt Originals Sport Essential'
 date: 2020-03-24 17:35:29
-image: 'https://m.media-amazon.com/images/I/41QTZcazExL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QTZcazExL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.84'
 
 Tienes [adidas T-Shirt Originals Sport Essentials tee - Camiseta  Color Negro  Talla s](https://www.amazon.es/dp/B00OZQ7F0I/?tag=tolees-21) con un 28.35 % de descuento con precio de oferta de 19.84 EUR (original: 27.69 EUR) en el siguiente enlace!
 
-[![adidas T-Shirt Originals Sport Essential](https://m.media-amazon.com/images/I/41QTZcazExL._SL200_.jpg)](https://www.amazon.es/dp/B00OZQ7F0I/?tag=tolees-21)
+[![adidas T-Shirt Originals Sport Essential](https://m.media-amazon.com/images/I/41QTZcazExL._SL400_.jpg)](https://www.amazon.es/dp/B00OZQ7F0I/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein CK Essential Slim tee Camis al 27.63 % de descuento'
 date: 2020-06-19 10:33:46
-image: 'https://m.media-amazon.com/images/I/41LbM46AAtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LbM46AAtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.95'
 
 Está [Calvin Klein CK Essential Slim tee Camisa  Black  L para Hombre](https://www.amazon.es/dp/B07ZGD1PWZ/?tag=tolees-21) con 27.63 de descuento por 20.95 EUR (original: 28.95 EUR) en el siguiente enlace!
 
-[![Calvin Klein CK Essential Slim tee Camis](https://m.media-amazon.com/images/I/41LbM46AAtL._SL200_.jpg)](https://www.amazon.es/dp/B07ZGD1PWZ/?tag=tolees-21)
+[![Calvin Klein CK Essential Slim tee Camis](https://m.media-amazon.com/images/I/41LbM46AAtL._SL400_.jpg)](https://www.amazon.es/dp/B07ZGD1PWZ/?tag=tolees-21)
 
 ℹ️:
 

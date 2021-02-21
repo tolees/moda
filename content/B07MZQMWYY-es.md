@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Lionel Sudadera   Old Navy 58 al 22.48 % de descuento'
 date: 2020-04-25 11:33:34
-image: 'https://m.media-amazon.com/images/I/41Pfnt3tLxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Pfnt3tLxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.972'
 
 Ahora mismo tienes [Pepe Jeans Lionel Sudadera   Old Navy 584   Medium para Hombre](https://www.amazon.es/dp/B07MZQMWYY/?tag=tolees-21) a 16.24 EUR (original: 20.95 EUR) (22.48 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Lionel Sudadera   Old Navy 58](https://m.media-amazon.com/images/I/41Pfnt3tLxL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQMWYY/?tag=tolees-21)
+[![Pepe Jeans Lionel Sudadera   Old Navy 58](https://m.media-amazon.com/images/I/41Pfnt3tLxL._SL400_.jpg)](https://www.amazon.es/dp/B07MZQMWYY/?tag=tolees-21)
 
 🔎:
 

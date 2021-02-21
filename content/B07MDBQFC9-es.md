@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Sherpa Jacket Chaqueta  Azul  Dark S al 50.00 % de rebaja'
 date: 2020-01-23 19:03:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZWi3GnSDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZWi3GnSDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.98'
 
 Tienes [Lee Sherpa Jacket Chaqueta  Azul  Dark Stone SS   Large para Hombre](https://www.amazon.es/dp/B07MDBQFC9/?tag=tolees-21) con precio final de  64.98 EUR (original: 129.95 EUR) (50.00 %  de rebaja) aqui!
 
-[![Lee Sherpa Jacket Chaqueta  Azul  Dark S](https://images-eu.ssl-images-amazon.com/images/I/41ZWi3GnSDL._SL200_.jpg)](https://www.amazon.es/dp/B07MDBQFC9/?tag=tolees-21)
+[![Lee Sherpa Jacket Chaqueta  Azul  Dark S](https://images-eu.ssl-images-amazon.com/images/I/41ZWi3GnSDL._SL400_.jpg)](https://www.amazon.es/dp/B07MDBQFC9/?tag=tolees-21)
 
 🔎:
 

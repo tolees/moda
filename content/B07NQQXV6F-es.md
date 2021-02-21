@@ -2,7 +2,7 @@
 layout: post
 title: 'Springfield FR Bomber Sudadera  Negro  B al 27.54 % de descuento'
 date: 2020-04-20 20:25:30
-image: 'https://m.media-amazon.com/images/I/413ERUjrjrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413ERUjrjrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.47'
 
 Está [Springfield FR Bomber Sudadera  Negro  Black 1   Medium  Tamaño del Fabricante: M  para Hombre](https://www.amazon.es/dp/B07NQQXV6F/?tag=tolees-21) con 27.54 de descuento por 9.47 EUR (original: 13.07 EUR) en el siguiente enlace!
 
-[![Springfield FR Bomber Sudadera  Negro  B](https://m.media-amazon.com/images/I/413ERUjrjrL._SL200_.jpg)](https://www.amazon.es/dp/B07NQQXV6F/?tag=tolees-21)
+[![Springfield FR Bomber Sudadera  Negro  B](https://m.media-amazon.com/images/I/413ERUjrjrL._SL400_.jpg)](https://www.amazon.es/dp/B07NQQXV6F/?tag=tolees-21)
 
 ℹ️:
 

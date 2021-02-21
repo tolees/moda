@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.00 % en Vans MN Classic Crew II Sudadera  Gris  '
 date: 2020-01-26 17:23:45
-image: 'https://m.media-amazon.com/images/I/41NwwPL2kRL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NwwPL2kRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.0'
 
 Tienes [Vans MN Classic Crew II Sudadera  Gris  Cement Heather-Black ADY   XXL para Hombre](https://www.amazon.es/dp/B07SM65VFC/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 30.0 EUR (original: 60.0 EUR) en el siguiente enlace!
 
-[![Vans MN Classic Crew II Sudadera  Gris  ](https://m.media-amazon.com/images/I/41NwwPL2kRL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SM65VFC/?tag=tolees-21)
+[![Vans MN Classic Crew II Sudadera  Gris  ](https://m.media-amazon.com/images/I/41NwwPL2kRL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07SM65VFC/?tag=tolees-21)
 
 ℹ️:
 

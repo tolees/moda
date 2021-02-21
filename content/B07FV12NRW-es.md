@@ -2,7 +2,7 @@
 layout: post
 title: 'Millet Route GTX  Zapatos de High Rise S al 50.01 % de descuento'
 date: 2020-03-04 21:48:45
-image: 'https://m.media-amazon.com/images/I/413xgipLprL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413xgipLprL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.95'
 
 Ahora mismo tienes [Millet Route GTX  Zapatos de High Rise Senderismo para Hombre  Negro  Black/Acid Green 7216   44 EU](https://www.amazon.es/dp/B07FV12NRW/?tag=tolees-21) a 99.95 EUR (original: 199.95 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![Millet Route GTX  Zapatos de High Rise S](https://m.media-amazon.com/images/I/413xgipLprL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FV12NRW/?tag=tolees-21)
+[![Millet Route GTX  Zapatos de High Rise S](https://m.media-amazon.com/images/I/413xgipLprL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FV12NRW/?tag=tolees-21)
 
 🔎:
 

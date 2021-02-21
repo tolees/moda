@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Flash Urban Plus  Sandalias de al 19.86 % de rebaja'
 date: 2020-07-23 16:33:47
-image: 'https://m.media-amazon.com/images/I/31NeM455ZkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NeM455ZkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.55'
 
 Tienes [Havaianas Flash Urban Plus  Sandalias de Talón Abierto para Mujer  Negro  Black 0090   39/40 EU](https://www.amazon.es/dp/B07SP3N4JC/?tag=tolees-21) con precio final de  17.55 EUR (original: 21.9 EUR) (19.86 %  de rebaja) aqui!
 
-[![Havaianas Flash Urban Plus  Sandalias de](https://m.media-amazon.com/images/I/31NeM455ZkL._SL200_.jpg)](https://www.amazon.es/dp/B07SP3N4JC/?tag=tolees-21)
+[![Havaianas Flash Urban Plus  Sandalias de](https://m.media-amazon.com/images/I/31NeM455ZkL._SL400_.jpg)](https://www.amazon.es/dp/B07SP3N4JC/?tag=tolees-21)
 
 🔎:
 

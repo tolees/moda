@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Scarlett High Vaqueros  Azul  Mid Ve al 55.89 % de descuento'
 date: 2020-07-17 14:55:47
-image: 'https://m.media-amazon.com/images/I/41RkwyohztL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RkwyohztL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.09'
 
 Ahora mismo tienes [Lee Scarlett High Vaqueros  Azul  Mid Vermont JY   32W/31L para Mujer](https://www.amazon.es/dp/B07TVV72SS/?tag=tolees-21) a 44.09 EUR (original: 99.95 EUR) (55.89 %  de descuento) en el siguiente enlace!
 
-[![Lee Scarlett High Vaqueros  Azul  Mid Ve](https://m.media-amazon.com/images/I/41RkwyohztL._SL200_.jpg)](https://www.amazon.es/dp/B07TVV72SS/?tag=tolees-21)
+[![Lee Scarlett High Vaqueros  Azul  Mid Ve](https://m.media-amazon.com/images/I/41RkwyohztL._SL400_.jpg)](https://www.amazon.es/dp/B07TVV72SS/?tag=tolees-21)
 
 🔎:
 

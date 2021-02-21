@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Renan B  Zapatillas para Hombre   al 49.95 % de descuento'
 date: 2020-09-23 18:13:18
-image: 'https://m.media-amazon.com/images/I/41Aeqz4gyzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Aeqz4gyzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.0'
 
 Ahora mismo tienes [Geox U Renan B  Zapatillas para Hombre  Gris  Grey C1006   45 EU](https://www.amazon.es/dp/B07SSJW7RH/?tag=tolees-21) a 50.0 EUR (original: 99.9 EUR) (49.95 %  de descuento) en el siguiente enlace!
 
-[![Geox U Renan B  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/41Aeqz4gyzL._SL200_.jpg)](https://www.amazon.es/dp/B07SSJW7RH/?tag=tolees-21)
+[![Geox U Renan B  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/41Aeqz4gyzL._SL400_.jpg)](https://www.amazon.es/dp/B07SSJW7RH/?tag=tolees-21)
 
 🔎:
 

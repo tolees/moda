@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler LS 1pkt Bdown Shirt Camisa  Azu al 65.94 % de descuento'
 date: 2020-03-02 19:17:41
-image: 'https://m.media-amazon.com/images/I/41AVc7F-SqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AVc7F-SqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.42'
 
 Ahora mismo tienes [Wrangler LS 1pkt Bdown Shirt Camisa  Azul  Dress Blue X20   Small para Hombre](https://www.amazon.es/dp/B07R2BWTLN/?tag=tolees-21) a 20.42 EUR (original: 59.95 EUR) (65.94 %  de descuento) en el siguiente enlace!
 
-[![Wrangler LS 1pkt Bdown Shirt Camisa  Azu](https://m.media-amazon.com/images/I/41AVc7F-SqL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07R2BWTLN/?tag=tolees-21)
+[![Wrangler LS 1pkt Bdown Shirt Camisa  Azu](https://m.media-amazon.com/images/I/41AVc7F-SqL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07R2BWTLN/?tag=tolees-21)
 
 🔎:
 

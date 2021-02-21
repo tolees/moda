@@ -2,7 +2,7 @@
 layout: post
 title: 'YACUN Vestido Lactancia Maternidad de No con un 72.03 % de descuento'
 date: 2020-06-24 16:02:56
-image: 'https://m.media-amazon.com/images/I/41+v9kR75AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+v9kR75AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 En este momento está [YACUN Vestido Lactancia Maternidad de Noche Camisón Verano Premamá Pijama Marina S](https://www.amazon.es/dp/B07FYJ95Y8/?tag=tolees-21) a 6.99 EUR (original: 24.99 EUR) (72.03 %  de descuento) en el siguiente enlace!
 
-[![YACUN Vestido Lactancia Maternidad de No](https://m.media-amazon.com/images/I/41+v9kR75AL._SL200_.jpg)](https://www.amazon.es/dp/B07FYJ95Y8/?tag=tolees-21)
+[![YACUN Vestido Lactancia Maternidad de No](https://m.media-amazon.com/images/I/41+v9kR75AL._SL400_.jpg)](https://www.amazon.es/dp/B07FYJ95Y8/?tag=tolees-21)
 
 🔎:
 

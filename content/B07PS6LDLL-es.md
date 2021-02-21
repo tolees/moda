@@ -2,7 +2,7 @@
 layout: post
 title: 'CARE OF by PUMA Sudadera de manga larga  al 30.02 % de descuento'
 date: 2020-01-03 11:56:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31moxcSsGWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31moxcSsGWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.5'
 
 Está [CARE OF by PUMA Sudadera de manga larga con cuello redondo para hombre  Azul  Blue   110  Talla del fabricante: Large ](https://www.amazon.es/dp/B07PS6LDLL/?tag=tolees-21) con 30.02 de descuento por 24.5 EUR (original: 35.01 EUR) en el siguiente enlace!
 
-[![CARE OF by PUMA Sudadera de manga larga ](https://images-eu.ssl-images-amazon.com/images/I/31moxcSsGWL._SL200_.jpg)](https://www.amazon.es/dp/B07PS6LDLL/?tag=tolees-21)
+[![CARE OF by PUMA Sudadera de manga larga ](https://images-eu.ssl-images-amazon.com/images/I/31moxcSsGWL._SL400_.jpg)](https://www.amazon.es/dp/B07PS6LDLL/?tag=tolees-21)
 
 ℹ️:
 

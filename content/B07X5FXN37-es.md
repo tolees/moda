@@ -2,7 +2,7 @@
 layout: post
 title: 'Mujer Vestido Lápiz de Oficina Elegante  al 25.01 % de descuento'
 date: 2020-04-17 00:36:31
-image: 'https://m.media-amazon.com/images/I/314YwsodsVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314YwsodsVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 Ahora mismo tienes [Mujer Vestido Lápiz de Oficina Elegante Mangas Cortas S CLE02011-1](https://www.amazon.es/dp/B07X5FXN37/?tag=tolees-21) a 26.99 EUR (original: 35.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![Mujer Vestido Lápiz de Oficina Elegante ](https://m.media-amazon.com/images/I/314YwsodsVL._SL200_.jpg)](https://www.amazon.es/dp/B07X5FXN37/?tag=tolees-21)
+[![Mujer Vestido Lápiz de Oficina Elegante ](https://m.media-amazon.com/images/I/314YwsodsVL._SL400_.jpg)](https://www.amazon.es/dp/B07X5FXN37/?tag=tolees-21)
 
 🔎:
 

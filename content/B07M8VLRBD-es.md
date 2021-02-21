@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Plain Crew Neck SWS Sudadera  Gris   con un 70.03 % de descuento'
 date: 2020-03-11 11:23:30
-image: 'https://m.media-amazon.com/images/I/41GX0wFuW3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GX0wFuW3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.630000000000003'
 
 En este momento está [Lee Plain Crew Neck SWS Sudadera  Gris  Grey Mele MP   Large para Mujer](https://www.amazon.es/dp/B07M8VLRBD/?tag=tolees-21) a 19.48 EUR (original: 65.0 EUR) (70.03 %  de descuento) en el siguiente enlace!
 
-[![Lee Plain Crew Neck SWS Sudadera  Gris  ](https://m.media-amazon.com/images/I/41GX0wFuW3L._SL200_.jpg)](https://www.amazon.es/dp/B07M8VLRBD/?tag=tolees-21)
+[![Lee Plain Crew Neck SWS Sudadera  Gris  ](https://m.media-amazon.com/images/I/41GX0wFuW3L._SL400_.jpg)](https://www.amazon.es/dp/B07M8VLRBD/?tag=tolees-21)
 
 🔎:
 

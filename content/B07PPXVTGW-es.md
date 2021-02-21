@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Seamless SS Manga Corta  al 61.89 % de descuento'
 date: 2020-10-10 19:36:52
-image: 'https://m.media-amazon.com/images/I/41QzQY6sFRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QzQY6sFRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.156666666666666'
 
 Ahora mismo tienes [Under Armour UA Seamless SS Manga Corta para Hombre  Camiseta para Correr  Verde  2XL](https://www.amazon.es/dp/B07PPXVTGW/?tag=tolees-21) a 17.15 EUR (original: 45.0 EUR) (61.89 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Seamless SS Manga Corta ](https://m.media-amazon.com/images/I/41QzQY6sFRL._SL200_.jpg)](https://www.amazon.es/dp/B07PPXVTGW/?tag=tolees-21)
+[![Under Armour UA Seamless SS Manga Corta ](https://m.media-amazon.com/images/I/41QzQY6sFRL._SL400_.jpg)](https://www.amazon.es/dp/B07PPXVTGW/?tag=tolees-21)
 
 🔎:
 

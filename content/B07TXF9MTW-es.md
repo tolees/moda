@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s The tee Camiseta de Manga Corta   al 36.70 % de rebaja'
 date: 2020-05-08 18:52:46
-image: 'https://m.media-amazon.com/images/I/41ocg5emEBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ocg5emEBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.619999999999997'
 
 Tienes [Levi s The tee Camiseta de Manga Corta  Blanco  Floral Filled Batwing White+ 0794   Large para Mujer](https://www.amazon.es/dp/B07TXF9MTW/?tag=tolees-21) con precio final de  18.99 EUR (original: 30.0 EUR) (36.70 %  de rebaja) aqui!
 
-[![Levi s The tee Camiseta de Manga Corta  ](https://m.media-amazon.com/images/I/41ocg5emEBL._SL200_.jpg)](https://www.amazon.es/dp/B07TXF9MTW/?tag=tolees-21)
+[![Levi s The tee Camiseta de Manga Corta  ](https://m.media-amazon.com/images/I/41ocg5emEBL._SL400_.jpg)](https://www.amazon.es/dp/B07TXF9MTW/?tag=tolees-21)
 
 🔎:
 

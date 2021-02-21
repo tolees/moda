@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 75.40 % en Levi s Coit Down Puffer Chaqueta  Marrón'
 date: 2020-03-07 07:07:28
-image: 'https://m.media-amazon.com/images/I/41dKFdxBiOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dKFdxBiOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.2'
 
 Tienes [Levi s Coit Down Puffer Chaqueta  Marrón  Cabernet 0000   Small para Hombre](https://www.amazon.es/dp/B07LF8RGV5/?tag=tolees-21) con un 75.40 % de descuento con precio de oferta de 49.2 EUR (original: 200.0 EUR) en el siguiente enlace!
 
-[![Levi s Coit Down Puffer Chaqueta  Marrón](https://m.media-amazon.com/images/I/41dKFdxBiOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LF8RGV5/?tag=tolees-21)
+[![Levi s Coit Down Puffer Chaqueta  Marrón](https://m.media-amazon.com/images/I/41dKFdxBiOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LF8RGV5/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox Uomo Sandal Strada A  Sandalias con al 33.36 % de descuento'
 date: 2020-06-11 16:54:52
-image: 'https://m.media-amazon.com/images/I/41JIPmVzbiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.925'
 
 Está [Geox Uomo Sandal Strada A  Sandalias con Punta Abierta para Hombre  Brown  Coffee C6009   41 EU](https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21) con 33.36 de descuento por 46.58 EUR (original: 69.9 EUR) en el siguiente enlace!
 
-[![Geox Uomo Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/41JIPmVzbiL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21)
+[![Geox Uomo Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21)
 
 ℹ️:
 

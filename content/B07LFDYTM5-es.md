@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 53.20 % en Levi s Relaxed Graphic Crew Sudadera  Az'
 date: 2020-04-01 06:59:04
-image: 'https://m.media-amazon.com/images/I/31Puu5GjOPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Puu5GjOPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.42'
 
 Tienes [Levi s Relaxed Graphic Crew Sudadera  Azul  Sea Captain Blue Wash Sea Captain 0059   X-Small para Mujer](https://www.amazon.es/dp/B07LFDYTM5/?tag=tolees-21) con un 53.20 % de descuento con precio de oferta de 30.42 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Levi s Relaxed Graphic Crew Sudadera  Az](https://m.media-amazon.com/images/I/31Puu5GjOPL._SL200_.jpg)](https://www.amazon.es/dp/B07LFDYTM5/?tag=tolees-21)
+[![Levi s Relaxed Graphic Crew Sudadera  Az](https://m.media-amazon.com/images/I/31Puu5GjOPL._SL400_.jpg)](https://www.amazon.es/dp/B07LFDYTM5/?tag=tolees-21)
 
 ℹ️:
 

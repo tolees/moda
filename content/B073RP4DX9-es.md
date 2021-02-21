@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen W HH Tech Crew Camisa Depor al 27.80 % de rebaja'
 date: 2020-09-21 06:33:09
-image: 'https://m.media-amazon.com/images/I/31suofsIRIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31suofsIRIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.02'
 
 Tienes [Helly Hansen W HH Tech Crew Camisa Deportiva  Mujer  Blanco  Blanco 001   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B073RP4DX9/?tag=tolees-21) con precio final de  18.05 EUR (original: 25.0 EUR) (27.80 %  de rebaja) aqui!
 
-[![Helly Hansen W HH Tech Crew Camisa Depor](https://m.media-amazon.com/images/I/31suofsIRIL._SL200_.jpg)](https://www.amazon.es/dp/B073RP4DX9/?tag=tolees-21)
+[![Helly Hansen W HH Tech Crew Camisa Depor](https://m.media-amazon.com/images/I/31suofsIRIL._SL400_.jpg)](https://www.amazon.es/dp/B073RP4DX9/?tag=tolees-21)
 
 🔎:
 

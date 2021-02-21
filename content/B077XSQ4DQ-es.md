@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Sc30 MVP - Sudadera con Cap al 30.78 % de rebaja'
 date: 2020-01-07 08:31:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41weskFzR0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41weskFzR0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.61'
 
 Tienes [Under Armour Sc30 MVP - Sudadera con Capucha y Cremallera  Infantil  Color Negro/Gris  tamaño para jóvenes XL](https://www.amazon.es/dp/B077XSQ4DQ/?tag=tolees-21) con precio final de  34.61 EUR (original: 50 EUR) (30.78 %  de rebaja) aqui!
 
-[![Under Armour Sc30 MVP - Sudadera con Cap](https://images-eu.ssl-images-amazon.com/images/I/41weskFzR0L._SL200_.jpg)](https://www.amazon.es/dp/B077XSQ4DQ/?tag=tolees-21)
+[![Under Armour Sc30 MVP - Sudadera con Cap](https://images-eu.ssl-images-amazon.com/images/I/41weskFzR0L._SL400_.jpg)](https://www.amazon.es/dp/B077XSQ4DQ/?tag=tolees-21)
 
 🔎:
 

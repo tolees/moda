@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Goinway B  Sandalias con Punta Ab al 46.87 % de rebaja'
 date: 2020-06-07 14:16:51
-image: 'https://m.media-amazon.com/images/I/31LkUyLW-yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LkUyLW-yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.45'
 
 Tienes [Geox U Goinway B  Sandalias con Punta Abierta para Hombre  Navy/Black C0045  45 EU](https://www.amazon.es/dp/B07DJ2R9GW/?tag=tolees-21) con precio final de  42.45 EUR (original: 79.9 EUR) (46.87 %  de rebaja) aqui!
 
-[![Geox U Goinway B  Sandalias con Punta Ab](https://m.media-amazon.com/images/I/31LkUyLW-yL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ2R9GW/?tag=tolees-21)
+[![Geox U Goinway B  Sandalias con Punta Ab](https://m.media-amazon.com/images/I/31LkUyLW-yL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ2R9GW/?tag=tolees-21)
 
 🔎:
 

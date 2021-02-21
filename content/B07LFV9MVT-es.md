@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D HOARA G  Botas Estilo Motero para al 51.46 % de rebaja'
 date: 2020-09-20 18:03:31
-image: 'https://m.media-amazon.com/images/I/41n+b07eruL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41n+b07eruL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.82'
 
 Tienes [Geox D HOARA G  Botas Estilo Motero para Mujer  Negro  Black C9999   35 EU](https://www.amazon.es/dp/B07LFV9MVT/?tag=tolees-21) con precio final de  55.82 EUR (original: 115.0 EUR) (51.46 %  de rebaja) aqui!
 
-[![Geox D HOARA G  Botas Estilo Motero para](https://m.media-amazon.com/images/I/41n+b07eruL._SL200_.jpg)](https://www.amazon.es/dp/B07LFV9MVT/?tag=tolees-21)
+[![Geox D HOARA G  Botas Estilo Motero para](https://m.media-amazon.com/images/I/41n+b07eruL._SL400_.jpg)](https://www.amazon.es/dp/B07LFV9MVT/?tag=tolees-21)
 
 🔎:
 

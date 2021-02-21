@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Camiseta Polo con Solapa  al 16.71 % de descuento'
 date: 2020-02-22 09:42:41
-image: 'https://m.media-amazon.com/images/I/4116xJtn-JL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4116xJtn-JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Ahora mismo tienes [Charles Wilson Camiseta Polo con Solapa de Contraste  Large  Sky Blue ](https://www.amazon.es/dp/B01BFJ2HBY/?tag=tolees-21) a 14.95 EUR (original: 17.95 EUR) (16.71 %  de descuento) en el siguiente enlace!
 
-[![Charles Wilson Camiseta Polo con Solapa ](https://m.media-amazon.com/images/I/4116xJtn-JL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01BFJ2HBY/?tag=tolees-21)
+[![Charles Wilson Camiseta Polo con Solapa ](https://m.media-amazon.com/images/I/4116xJtn-JL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01BFJ2HBY/?tag=tolees-21)
 
 🔎:
 

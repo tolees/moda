@@ -2,7 +2,7 @@
 layout: post
 title: 'HEMING Cartera para Hombre Azul  Cartera al 25.01 % de rebaja'
 date: 2020-02-17 12:05:01
-image: 'https://m.media-amazon.com/images/I/51Z7sWAI2VL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Z7sWAI2VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Tienes [HEMING Cartera para Hombre Azul  Cartera tarjetero hombre  Billetera Hombre Pequeña  Cartera Hombre Piel  Carteras Hombre Pequeña  Cartera de Piel  Carteras Hombre Cuero  Tarjetero Hombre azul](https://www.amazon.es/dp/B07MDDH2X4/?tag=tolees-21) con precio final de  14.99 EUR (original: 19.99 EUR) (25.01 %  de rebaja) aqui!
 
-[![HEMING Cartera para Hombre Azul  Cartera](https://m.media-amazon.com/images/I/51Z7sWAI2VL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MDDH2X4/?tag=tolees-21)
+[![HEMING Cartera para Hombre Azul  Cartera](https://m.media-amazon.com/images/I/51Z7sWAI2VL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MDDH2X4/?tag=tolees-21)
 
 🔎:
 

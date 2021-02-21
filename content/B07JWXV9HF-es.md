@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Graphic 18 Mysid Slim Camiset al 70.48 % de rebaja'
 date: 2020-01-12 18:41:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/211dwkCHPHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/211dwkCHPHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.84'
 
 Tienes [G-STAR RAW Graphic 18 Mysid Slim Camiseta  Beige  Milk 111   Medium para Mujer](https://www.amazon.es/dp/B07JWXV9HF/?tag=tolees-21) con precio final de  8.84 EUR (original: 29.95 EUR) (70.48 %  de rebaja) aqui!
 
-[![G-STAR RAW Graphic 18 Mysid Slim Camiset](https://images-eu.ssl-images-amazon.com/images/I/211dwkCHPHL._SL200_.jpg)](https://www.amazon.es/dp/B07JWXV9HF/?tag=tolees-21)
+[![G-STAR RAW Graphic 18 Mysid Slim Camiset](https://images-eu.ssl-images-amazon.com/images/I/211dwkCHPHL._SL400_.jpg)](https://www.amazon.es/dp/B07JWXV9HF/?tag=tolees-21)
 
 🔎:
 

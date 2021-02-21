@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans West Sir Camiseta  Verde  Abs con un 31.14 % de descuento'
 date: 2020-06-13 11:46:57
-image: 'https://m.media-amazon.com/images/I/41xJo4S6WJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xJo4S6WJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.102'
 
 En este momento está [Pepe Jeans West Sir Camiseta  Verde  Absynth 625   X-Small para Hombre](https://www.amazon.es/dp/B07N9CGYF8/?tag=tolees-21) a 20.59 EUR (original: 29.9 EUR) (31.14 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans West Sir Camiseta  Verde  Abs](https://m.media-amazon.com/images/I/41xJo4S6WJL._SL200_.jpg)](https://www.amazon.es/dp/B07N9CGYF8/?tag=tolees-21)
+[![Pepe Jeans West Sir Camiseta  Verde  Abs](https://m.media-amazon.com/images/I/41xJo4S6WJL._SL400_.jpg)](https://www.amazon.es/dp/B07N9CGYF8/?tag=tolees-21)
 
 🔎:
 

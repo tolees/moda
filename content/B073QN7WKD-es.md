@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Chaqueta Efecto Cuero para Hombre  al 61.90 % de descuento'
 date: 2020-01-19 20:58:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fOO18z8fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fOO18z8fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 Ahora mismo tienes [find. Chaqueta Efecto Cuero para Hombre  Negro  Schwarz   Medium](https://www.amazon.es/dp/B073QN7WKD/?tag=tolees-21) a 18 EUR (original: 47.25 EUR) (61.90 %  de descuento) en el siguiente enlace!
 
-[![find. Chaqueta Efecto Cuero para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41fOO18z8fL._SL200_.jpg)](https://www.amazon.es/dp/B073QN7WKD/?tag=tolees-21)
+[![find. Chaqueta Efecto Cuero para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41fOO18z8fL._SL400_.jpg)](https://www.amazon.es/dp/B073QN7WKD/?tag=tolees-21)
 
 🔎:
 

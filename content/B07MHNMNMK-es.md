@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Horizons Pine Chaqueta Intercha al 46.04 % de descuento'
 date: 2020-04-20 19:37:15
-image: 'https://m.media-amazon.com/images/I/41MYQA+phyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MYQA+phyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.49'
 
 Ahora mismo tienes [Columbia Horizons Pine Chaqueta Interchange  Hombre  Verde  Olive Green   M](https://www.amazon.es/dp/B07MHNMNMK/?tag=tolees-21) a 129.49 EUR (original: 239.99 EUR) (46.04 %  de descuento) en el siguiente enlace!
 
-[![Columbia Horizons Pine Chaqueta Intercha](https://m.media-amazon.com/images/I/41MYQA+phyL._SL200_.jpg)](https://www.amazon.es/dp/B07MHNMNMK/?tag=tolees-21)
+[![Columbia Horizons Pine Chaqueta Intercha](https://m.media-amazon.com/images/I/41MYQA+phyL._SL400_.jpg)](https://www.amazon.es/dp/B07MHNMNMK/?tag=tolees-21)
 
 🔎:
 

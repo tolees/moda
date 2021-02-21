@@ -2,7 +2,7 @@
 layout: post
 title: 'Botin Timberland A1ODQ Verde  45.5  Verd con un 48.80 % de descuento'
 date: 2020-01-26 20:49:51
-image: 'https://m.media-amazon.com/images/I/31G0ZwedB-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31G0ZwedB-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.63'
 
 En este momento está [Botin Timberland A1ODQ Verde  45.5  Verde ](https://www.amazon.es/dp/B07B4HMV48/?tag=tolees-21) a 71.65 EUR (original: 139.95 EUR) (48.80 %  de descuento) en el siguiente enlace!
 
-[![Botin Timberland A1ODQ Verde  45.5  Verd](https://m.media-amazon.com/images/I/31G0ZwedB-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B4HMV48/?tag=tolees-21)
+[![Botin Timberland A1ODQ Verde  45.5  Verd](https://m.media-amazon.com/images/I/31G0ZwedB-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B4HMV48/?tag=tolees-21)
 
 🔎:
 

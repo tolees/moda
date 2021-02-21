@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Jersey T-Shirt  Hombre  White  al 34.89 % de descuento'
 date: 2020-06-08 08:16:14
-image: 'https://m.media-amazon.com/images/I/31QnSMAMIeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QnSMAMIeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.110000000000001'
 
 Ahora mismo tienes [PUMA Liga Jersey T-Shirt  Hombre  White Black  S](https://www.amazon.es/dp/B0797PPSDS/?tag=tolees-21) a 12.99 EUR (original: 19.95 EUR) (34.89 %  de descuento) en el siguiente enlace!
 
-[![PUMA Liga Jersey T-Shirt  Hombre  White ](https://m.media-amazon.com/images/I/31QnSMAMIeL._SL200_.jpg)](https://www.amazon.es/dp/B0797PPSDS/?tag=tolees-21)
+[![PUMA Liga Jersey T-Shirt  Hombre  White ](https://m.media-amazon.com/images/I/31QnSMAMIeL._SL400_.jpg)](https://www.amazon.es/dp/B0797PPSDS/?tag=tolees-21)
 
 🔎:
 

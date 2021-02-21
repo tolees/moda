@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s SS Camiseta   Colorblock tee Peac al 43.50 % de descuento'
 date: 2020-05-05 06:42:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41t9RcXjs4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t9RcXjs4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.95'
 
 Ahora mismo tienes [Levi s SS Camiseta   Colorblock tee Peacoat/Marshmallow/Ch 0002   Small para Hombre](https://www.amazon.es/dp/B07CHSFWCK/?tag=tolees-21) a 16.95 EUR (original: 30 EUR) (43.50 %  de descuento) en el siguiente enlace!
 
-[![Levi s SS Camiseta   Colorblock tee Peac](https://images-eu.ssl-images-amazon.com/images/I/41t9RcXjs4L._SL200_.jpg)](https://www.amazon.es/dp/B07CHSFWCK/?tag=tolees-21)
+[![Levi s SS Camiseta   Colorblock tee Peac](https://images-eu.ssl-images-amazon.com/images/I/41t9RcXjs4L._SL400_.jpg)](https://www.amazon.es/dp/B07CHSFWCK/?tag=tolees-21)
 
 🔎:
 

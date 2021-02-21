@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 2pk Crewneck 1 Camiseta  Multicol al 38.11 % de rebaja'
 date: 2020-08-31 20:15:14
-image: 'https://m.media-amazon.com/images/I/31XfNevNI1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XfNevNI1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.138888888888893'
 
 Tienes [Levi s 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Slim Crew White/Med Heather Grey 0003   Small  Pack de 2  para Hombre](https://www.amazon.es/dp/B07LF5RDV4/?tag=tolees-21) con precio final de  21.66 EUR (original: 35.0 EUR) (38.11 %  de rebaja) aqui!
 
-[![Levi s 2pk Crewneck 1 Camiseta  Multicol](https://m.media-amazon.com/images/I/31XfNevNI1L._SL200_.jpg)](https://www.amazon.es/dp/B07LF5RDV4/?tag=tolees-21)
+[![Levi s 2pk Crewneck 1 Camiseta  Multicol](https://m.media-amazon.com/images/I/31XfNevNI1L._SL400_.jpg)](https://www.amazon.es/dp/B07LF5RDV4/?tag=tolees-21)
 
 🔎:
 

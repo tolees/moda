@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s The tee Camiseta  Negro  90 s Ser al 58.04 % de descuento'
 date: 2020-06-27 10:35:40
-image: 'https://m.media-amazon.com/images/I/41oPv1ZtgjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oPv1ZtgjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.610769230769233'
 
 Ahora mismo tienes [Levi s The tee Camiseta  Negro  90 s Serif T2 Caviar 0959   Medium para Mujer](https://www.amazon.es/dp/B07TV7MVBC/?tag=tolees-21) a 10.49 EUR (original: 25.0 EUR) (58.04 %  de descuento) en el siguiente enlace!
 
-[![Levi s The tee Camiseta  Negro  90 s Ser](https://m.media-amazon.com/images/I/41oPv1ZtgjL._SL200_.jpg)](https://www.amazon.es/dp/B07TV7MVBC/?tag=tolees-21)
+[![Levi s The tee Camiseta  Negro  90 s Ser](https://m.media-amazon.com/images/I/41oPv1ZtgjL._SL400_.jpg)](https://www.amazon.es/dp/B07TV7MVBC/?tag=tolees-21)
 
 🔎:
 

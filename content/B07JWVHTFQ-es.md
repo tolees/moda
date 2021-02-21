@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia WAYFINDER  Zapatos Multideporte al 60.37 % de descuento'
 date: 2020-03-14 21:39:29
-image: 'https://m.media-amazon.com/images/I/41hsixhyG8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hsixhyG8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.63'
 
 Ahora mismo tienes [Columbia WAYFINDER  Zapatos Multideporte para Hombre  Gris  Ti Grey Steel  033   40.5 EU](https://www.amazon.es/dp/B07JWVHTFQ/?tag=tolees-21) a 39.63 EUR (original: 99.99 EUR) (60.37 %  de descuento) en el siguiente enlace!
 
-[![Columbia WAYFINDER  Zapatos Multideporte](https://m.media-amazon.com/images/I/41hsixhyG8L._SL200_.jpg)](https://www.amazon.es/dp/B07JWVHTFQ/?tag=tolees-21)
+[![Columbia WAYFINDER  Zapatos Multideporte](https://m.media-amazon.com/images/I/41hsixhyG8L._SL400_.jpg)](https://www.amazon.es/dp/B07JWVHTFQ/?tag=tolees-21)
 
 🔎:
 

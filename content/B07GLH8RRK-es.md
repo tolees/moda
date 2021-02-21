@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Myria A  Zapatillas para Mujer  A con un 53.03 % de descuento'
 date: 2020-10-05 06:31:07
-image: 'https://m.media-amazon.com/images/I/41UKhBOvdKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UKhBOvdKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.92'
 
 En este momento está [Geox D Myria A  Zapatillas para Mujer  Azul  Blue C4000   36 EU](https://www.amazon.es/dp/B07GLH8RRK/?tag=tolees-21) a 46.92 EUR (original: 99.9 EUR) (53.03 %  de descuento) en el siguiente enlace!
 
-[![Geox D Myria A  Zapatillas para Mujer  A](https://m.media-amazon.com/images/I/41UKhBOvdKL._SL200_.jpg)](https://www.amazon.es/dp/B07GLH8RRK/?tag=tolees-21)
+[![Geox D Myria A  Zapatillas para Mujer  A](https://m.media-amazon.com/images/I/41UKhBOvdKL._SL400_.jpg)](https://www.amazon.es/dp/B07GLH8RRK/?tag=tolees-21)
 
 🔎:
 

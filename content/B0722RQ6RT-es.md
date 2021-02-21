@@ -2,7 +2,7 @@
 layout: post
 title: 'El Naturalista N5142 Capretto Nectar  Bo al 76.01 % de descuento'
 date: 2020-04-19 08:58:23
-image: 'https://m.media-amazon.com/images/I/41u2urRZAgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u2urRZAgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.98'
 
 Está [El Naturalista N5142 Capretto Nectar  Botines para Mujer  Marrón  Wood   41 EU](https://www.amazon.es/dp/B0722RQ6RT/?tag=tolees-21) con 76.01 de descuento por 35.98 EUR (original: 149.95 EUR) en el siguiente enlace!
 
-[![El Naturalista N5142 Capretto Nectar  Bo](https://m.media-amazon.com/images/I/41u2urRZAgL._SL200_.jpg)](https://www.amazon.es/dp/B0722RQ6RT/?tag=tolees-21)
+[![El Naturalista N5142 Capretto Nectar  Bo](https://m.media-amazon.com/images/I/41u2urRZAgL._SL400_.jpg)](https://www.amazon.es/dp/B0722RQ6RT/?tag=tolees-21)
 
 ℹ️:
 

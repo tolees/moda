@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Rival Fleece Solid Pantalón al 41.13 % de rebaja'
 date: 2020-01-27 08:31:02
-image: 'https://m.media-amazon.com/images/I/31mopF07C1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mopF07C1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.49'
 
 Tienes [Under Armour Rival Fleece Solid Pantalón  Mujer  Negro  Black/Onyx White 001   S](https://www.amazon.es/dp/B07L99LHVN/?tag=tolees-21) con precio final de  26.49 EUR (original: 45.0 EUR) (41.13 %  de rebaja) aqui!
 
-[![Under Armour Rival Fleece Solid Pantalón](https://m.media-amazon.com/images/I/31mopF07C1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L99LHVN/?tag=tolees-21)
+[![Under Armour Rival Fleece Solid Pantalón](https://m.media-amazon.com/images/I/31mopF07C1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L99LHVN/?tag=tolees-21)
 
 🔎:
 

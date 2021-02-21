@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Tiro 17 Training Top Youth Camise al 68.63 % de descuento'
 date: 2020-01-13 09:35:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MK-VeVRML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MK-VeVRML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.75'
 
 Está [adidas Tiro 17 Training Top Youth Camiseta  niños  Azul  Maruni/Energi/Blanco   128](https://www.amazon.es/dp/B01M29SLQ6/?tag=tolees-21) con 68.63 de descuento por 10.75 EUR (original: 34.27 EUR) en el siguiente enlace!
 
-[![adidas Tiro 17 Training Top Youth Camise](https://images-eu.ssl-images-amazon.com/images/I/41MK-VeVRML._SL200_.jpg)](https://www.amazon.es/dp/B01M29SLQ6/?tag=tolees-21)
+[![adidas Tiro 17 Training Top Youth Camise](https://images-eu.ssl-images-amazon.com/images/I/41MK-VeVRML._SL400_.jpg)](https://www.amazon.es/dp/B01M29SLQ6/?tag=tolees-21)
 
 ℹ️:
 

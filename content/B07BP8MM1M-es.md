@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler Slider Vaqueros  Azul  Indigo W al 66.42 % de descuento'
 date: 2020-03-13 20:05:39
-image: 'https://m.media-amazon.com/images/I/41CrZuA22zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CrZuA22zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.53'
 
 Está [Wrangler Slider Vaqueros  Azul  Indigo Wit 25F   36W / 34L para Hombre](https://www.amazon.es/dp/B07BP8MM1M/?tag=tolees-21) con 66.42 de descuento por 28.53 EUR (original: 84.95 EUR) en el siguiente enlace!
 
-[![Wrangler Slider Vaqueros  Azul  Indigo W](https://m.media-amazon.com/images/I/41CrZuA22zL._SL200_.jpg)](https://www.amazon.es/dp/B07BP8MM1M/?tag=tolees-21)
+[![Wrangler Slider Vaqueros  Azul  Indigo W](https://m.media-amazon.com/images/I/41CrZuA22zL._SL400_.jpg)](https://www.amazon.es/dp/B07BP8MM1M/?tag=tolees-21)
 
 ℹ️:
 

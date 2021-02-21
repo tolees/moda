@@ -2,7 +2,7 @@
 layout: post
 title: 'The Walking Dad Camiseta de Hombre Nerd  al 43.35 % de descuento'
 date: 2020-05-08 15:27:08
-image: 'https://m.media-amazon.com/images/I/51KTu9NrNRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KTu9NrNRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Ahora mismo tienes [The Walking Dad Camiseta de Hombre Nerd Dead  Farbe2:Marengo Mezclado;Größe2:L](https://www.amazon.es/dp/B075FQSQ32/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!
 
-[![The Walking Dad Camiseta de Hombre Nerd ](https://m.media-amazon.com/images/I/51KTu9NrNRL._SL200_.jpg)](https://www.amazon.es/dp/B075FQSQ32/?tag=tolees-21)
+[![The Walking Dad Camiseta de Hombre Nerd ](https://m.media-amazon.com/images/I/51KTu9NrNRL._SL400_.jpg)](https://www.amazon.es/dp/B075FQSQ32/?tag=tolees-21)
 
 🔎:
 

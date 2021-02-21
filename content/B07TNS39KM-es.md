@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry VL O Crew Sudadera  Azul  Rich  al 15.87 % de rebaja'
 date: 2020-08-24 13:22:12
-image: 'https://m.media-amazon.com/images/I/41++ualf4IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41++ualf4IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.66333333333333'
 
 Tienes [Superdry VL O Crew Sudadera  Azul  Rich Navy Adq   L para Hombre](https://www.amazon.es/dp/B07TNS39KM/?tag=tolees-21) con precio final de  16.7 EUR (original: 19.85 EUR) (15.87 %  de rebaja) aqui!
 
-[![Superdry VL O Crew Sudadera  Azul  Rich ](https://m.media-amazon.com/images/I/41++ualf4IL._SL200_.jpg)](https://www.amazon.es/dp/B07TNS39KM/?tag=tolees-21)
+[![Superdry VL O Crew Sudadera  Azul  Rich ](https://m.media-amazon.com/images/I/41++ualf4IL._SL400_.jpg)](https://www.amazon.es/dp/B07TNS39KM/?tag=tolees-21)
 
 🔎:
 

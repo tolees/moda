@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger TJM Bold tee Camiseta  Az al 39.31 % de descuento'
 date: 2020-08-21 19:22:04
-image: 'https://m.media-amazon.com/images/I/41IQvP8Rm3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IQvP8Rm3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.24'
 
 Ahora mismo tienes [Tommy Hilfiger TJM Bold tee Camiseta  Azul  Exotic Teal Stripe 0a8   X-Large para Hombre](https://www.amazon.es/dp/B07VXKV2SS/?tag=tolees-21) a 21.24 EUR (original: 35.0 EUR) (39.31 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger TJM Bold tee Camiseta  Az](https://m.media-amazon.com/images/I/41IQvP8Rm3L._SL200_.jpg)](https://www.amazon.es/dp/B07VXKV2SS/?tag=tolees-21)
+[![Tommy Hilfiger TJM Bold tee Camiseta  Az](https://m.media-amazon.com/images/I/41IQvP8Rm3L._SL400_.jpg)](https://www.amazon.es/dp/B07VXKV2SS/?tag=tolees-21)
 
 🔎:
 

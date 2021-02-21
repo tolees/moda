@@ -2,7 +2,7 @@
 layout: post
 title: 'DC Comics Camiseta de Manga Corta para n al 40.13 % de descuento'
 date: 2020-08-05 10:03:13
-image: 'https://m.media-amazon.com/images/I/41aDXkEWc+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aDXkEWc+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.95'
 
 Ahora mismo tienes [DC Comics Camiseta de Manga Corta para niños Shazam Negro 10-11 Años](https://www.amazon.es/dp/B07QSVXMYL/?tag=tolees-21) a 8.95 EUR (original: 14.95 EUR) (40.13 %  de descuento) en el siguiente enlace!
 
-[![DC Comics Camiseta de Manga Corta para n](https://m.media-amazon.com/images/I/41aDXkEWc+L._SL200_.jpg)](https://www.amazon.es/dp/B07QSVXMYL/?tag=tolees-21)
+[![DC Comics Camiseta de Manga Corta para n](https://m.media-amazon.com/images/I/41aDXkEWc+L._SL400_.jpg)](https://www.amazon.es/dp/B07QSVXMYL/?tag=tolees-21)
 
 🔎:
 

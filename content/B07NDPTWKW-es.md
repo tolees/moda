@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Stalt Button Down Pocket Stra al 71.44 % de descuento'
 date: 2020-06-24 18:12:41
-image: 'https://m.media-amazon.com/images/I/31ixkBczi9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ixkBczi9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.796666666666667'
 
 Ahora mismo tienes [G-STAR RAW Stalt Button Down Pocket Straight Camisa Vaquera  Azul  White 110   Large para Hombre](https://www.amazon.es/dp/B07NDPTWKW/?tag=tolees-21) a 25.21 EUR (original: 88.28 EUR) (71.44 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Stalt Button Down Pocket Stra](https://m.media-amazon.com/images/I/31ixkBczi9L._SL200_.jpg)](https://www.amazon.es/dp/B07NDPTWKW/?tag=tolees-21)
+[![G-STAR RAW Stalt Button Down Pocket Stra](https://m.media-amazon.com/images/I/31ixkBczi9L._SL400_.jpg)](https://www.amazon.es/dp/B07NDPTWKW/?tag=tolees-21)
 
 🔎:
 

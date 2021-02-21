@@ -2,7 +2,7 @@
 layout: post
 title: 'Geographical Norway Sudadera DE Hombre G al 30.00 % de descuento'
 date: 2020-01-10 19:11:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OIeIPHYxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OIeIPHYxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.3'
 
 Ahora mismo tienes [Geographical Norway Sudadera DE Hombre GYMCLASS B Naranja M](https://www.amazon.es/dp/B07Y5C8V7B/?tag=tolees-21) a 27.3 EUR (original: 39 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Geographical Norway Sudadera DE Hombre G](https://images-eu.ssl-images-amazon.com/images/I/41OIeIPHYxL._SL200_.jpg)](https://www.amazon.es/dp/B07Y5C8V7B/?tag=tolees-21)
+[![Geographical Norway Sudadera DE Hombre G](https://images-eu.ssl-images-amazon.com/images/I/41OIeIPHYxL._SL400_.jpg)](https://www.amazon.es/dp/B07Y5C8V7B/?tag=tolees-21)
 
 🔎:
 

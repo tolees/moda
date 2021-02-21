@@ -2,7 +2,7 @@
 layout: post
 title: 'Esprit 119ee2k006 Camisa Manga Larga  Bl al 57.79 % de rebaja'
 date: 2020-07-19 17:55:37
-image: 'https://m.media-amazon.com/images/I/41OjMXXz7QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OjMXXz7QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.97'
 
 Tienes [Esprit 119ee2k006 Camisa Manga Larga  Blanco  Off White 110   XXX-Large para Hombre](https://www.amazon.es/dp/B07XVR9KQF/?tag=tolees-21) con precio final de  10.97 EUR (original: 25.99 EUR) (57.79 %  de rebaja) aqui!
 
-[![Esprit 119ee2k006 Camisa Manga Larga  Bl](https://m.media-amazon.com/images/I/41OjMXXz7QL._SL200_.jpg)](https://www.amazon.es/dp/B07XVR9KQF/?tag=tolees-21)
+[![Esprit 119ee2k006 Camisa Manga Larga  Bl](https://m.media-amazon.com/images/I/41OjMXXz7QL._SL400_.jpg)](https://www.amazon.es/dp/B07XVR9KQF/?tag=tolees-21)
 
 🔎:
 

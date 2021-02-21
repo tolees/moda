@@ -2,7 +2,7 @@
 layout: post
 title: 'Iris & Lilly BLIC004 Sujetadores Push up al 20.01 % de rebaja'
 date: 2020-02-06 13:16:04
-image: 'https://m.media-amazon.com/images/I/414uzXjLB5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414uzXjLB5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [Iris & Lilly BLIC004 Sujetadores Push up  Azul  Navy Sky   90C](https://www.amazon.es/dp/B07TZKV6G9/?tag=tolees-21) con precio final de  11.99 EUR (original: 14.99 EUR) (20.01 %  de rebaja) aqui!
 
-[![Iris & Lilly BLIC004 Sujetadores Push up](https://m.media-amazon.com/images/I/414uzXjLB5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TZKV6G9/?tag=tolees-21)
+[![Iris & Lilly BLIC004 Sujetadores Push up](https://m.media-amazon.com/images/I/414uzXjLB5L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TZKV6G9/?tag=tolees-21)
 
 🔎:
 

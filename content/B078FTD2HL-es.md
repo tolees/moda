@@ -2,7 +2,7 @@
 layout: post
 title: 'Prada 0PR05TS TH71I0 53 Gafas de sol  Bl al 50.19 % de descuento'
 date: 2020-02-07 15:14:15
-image: 'https://m.media-amazon.com/images/I/41W6XWmB7lL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W6XWmB7lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.0'
 
 Ahora mismo tienes [Prada 0PR05TS TH71I0 53 Gafas de sol  Blanco  Light Havana/Striped White/Green   Mujer](https://www.amazon.es/dp/B078FTD2HL/?tag=tolees-21) a 129.0 EUR (original: 259.0 EUR) (50.19 %  de descuento) en el siguiente enlace!
 
-[![Prada 0PR05TS TH71I0 53 Gafas de sol  Bl](https://m.media-amazon.com/images/I/41W6XWmB7lL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B078FTD2HL/?tag=tolees-21)
+[![Prada 0PR05TS TH71I0 53 Gafas de sol  Bl](https://m.media-amazon.com/images/I/41W6XWmB7lL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B078FTD2HL/?tag=tolees-21)
 
 🔎:
 

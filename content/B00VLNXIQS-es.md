@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 53.31 % en Levi s L/S Barstow Western Shirt  Camisa'
 date: 2020-06-22 20:33:25
-image: 'https://m.media-amazon.com/images/I/414PGmM7gKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414PGmM7gKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.11'
 
 Tienes [Levi s L/S Barstow Western Shirt  Camisa Casual de Manga Larga para Hombre  Azul  Dark IndigoFlat Finish   Large](https://www.amazon.es/dp/B00VLNXIQS/?tag=tolees-21) con un 53.31 % de descuento con precio de oferta de 33.11 EUR (original: 70.92 EUR) en el siguiente enlace!
 
-[![Levi s L/S Barstow Western Shirt  Camisa](https://m.media-amazon.com/images/I/414PGmM7gKL._SL200_.jpg)](https://www.amazon.es/dp/B00VLNXIQS/?tag=tolees-21)
+[![Levi s L/S Barstow Western Shirt  Camisa](https://m.media-amazon.com/images/I/414PGmM7gKL._SL400_.jpg)](https://www.amazon.es/dp/B00VLNXIQS/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'gracosy Botas Nieve Mujer de Piel Invier al 50.01 % de descuento'
 date: 2020-01-11 18:10:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51uIr73MDXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uIr73MDXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Está [gracosy Botas Nieve Mujer de Piel Invierno Antideslizante Plataforma Zapatos Calentar Cremallera Botines Cordones Casuales Media Lluvia Botas Negro](https://www.amazon.es/dp/B07V5TJ1YC/?tag=tolees-21) con 50.01 de descuento por 32.99 EUR (original: 65.99 EUR) en el siguiente enlace!
 
-[![gracosy Botas Nieve Mujer de Piel Invier](https://images-eu.ssl-images-amazon.com/images/I/51uIr73MDXL._SL200_.jpg)](https://www.amazon.es/dp/B07V5TJ1YC/?tag=tolees-21)
+[![gracosy Botas Nieve Mujer de Piel Invier](https://images-eu.ssl-images-amazon.com/images/I/51uIr73MDXL._SL400_.jpg)](https://www.amazon.es/dp/B07V5TJ1YC/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual TS Karen Camiseta  Negro  Gris  al 50.06 % de rebaja'
 date: 2020-08-16 12:25:31
-image: 'https://m.media-amazon.com/images/I/41Ff9TXEpLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ff9TXEpLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Tienes [Desigual TS Karen Camiseta  Negro  Gris Alquitran 2022   Medium para Mujer](https://www.amazon.es/dp/B07VDG1M4L/?tag=tolees-21) con precio final de  19.95 EUR (original: 39.95 EUR) (50.06 %  de rebaja) aqui!
 
-[![Desigual TS Karen Camiseta  Negro  Gris ](https://m.media-amazon.com/images/I/41Ff9TXEpLL._SL200_.jpg)](https://www.amazon.es/dp/B07VDG1M4L/?tag=tolees-21)
+[![Desigual TS Karen Camiseta  Negro  Gris ](https://m.media-amazon.com/images/I/41Ff9TXEpLL._SL400_.jpg)](https://www.amazon.es/dp/B07VDG1M4L/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Crew Jacket Chaqueta  Hombr con un 67.84 % de descuento'
 date: 2020-09-07 13:09:42
-image: 'https://m.media-amazon.com/images/I/41bRys7P4mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bRys7P4mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.02666666666667'
 
 En este momento está [Helly Hansen Crew Jacket Chaqueta  Hombre  Cherry Tomato  XXL](https://www.amazon.es/dp/B07F2S3VKY/?tag=tolees-21) a 45.02 EUR (original: 140.0 EUR) (67.84 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen Crew Jacket Chaqueta  Hombr](https://m.media-amazon.com/images/I/41bRys7P4mL._SL200_.jpg)](https://www.amazon.es/dp/B07F2S3VKY/?tag=tolees-21)
+[![Helly Hansen Crew Jacket Chaqueta  Hombr](https://m.media-amazon.com/images/I/41bRys7P4mL._SL400_.jpg)](https://www.amazon.es/dp/B07F2S3VKY/?tag=tolees-21)
 
 🔎:
 

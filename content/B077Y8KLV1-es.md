@@ -2,7 +2,7 @@
 layout: post
 title: 'HIKARO Sudadera con Capucha Hombre  Negr al 69.98 % de descuento'
 date: 2020-05-03 18:40:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ln6Fv-x9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ln6Fv-x9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Está [HIKARO Sudadera con Capucha Hombre  Negro  Black   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077Y8KLV1/?tag=tolees-21) con 69.98 de descuento por 8.99 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![HIKARO Sudadera con Capucha Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/41Ln6Fv-x9L._SL200_.jpg)](https://www.amazon.es/dp/B077Y8KLV1/?tag=tolees-21)
+[![HIKARO Sudadera con Capucha Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/41Ln6Fv-x9L._SL400_.jpg)](https://www.amazon.es/dp/B077Y8KLV1/?tag=tolees-21)
 
 ℹ️:
 

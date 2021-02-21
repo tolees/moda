@@ -2,7 +2,7 @@
 layout: post
 title: 'NNJXD Vestido de Unicornio para niñas Fi al 33.37 % de descuento'
 date: 2020-04-14 00:16:45
-image: 'https://m.media-amazon.com/images/I/41uBtgeihzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uBtgeihzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Ahora mismo tienes [NNJXD Vestido de Unicornio para niñas Fiesta de Apliques de Flores Cosplay Disfraz de Halloween + Gorros Tamaño  110  3-4 años Púrpura](https://www.amazon.es/dp/B07Q3TDXK7/?tag=tolees-21) a 19.99 EUR (original: 30.0 EUR) (33.37 %  de descuento) en el siguiente enlace!
 
-[![NNJXD Vestido de Unicornio para niñas Fi](https://m.media-amazon.com/images/I/41uBtgeihzL._SL200_.jpg)](https://www.amazon.es/dp/B07Q3TDXK7/?tag=tolees-21)
+[![NNJXD Vestido de Unicornio para niñas Fi](https://m.media-amazon.com/images/I/41uBtgeihzL._SL400_.jpg)](https://www.amazon.es/dp/B07Q3TDXK7/?tag=tolees-21)
 
 🔎:
 

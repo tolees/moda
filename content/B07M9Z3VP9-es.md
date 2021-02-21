@@ -2,7 +2,7 @@
 layout: post
 title: 'United Colors of Benetton Layette BB B2  al 74.89 % de rebaja'
 date: 2020-04-01 07:01:57
-image: 'https://m.media-amazon.com/images/I/51F4uxYWfbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51F4uxYWfbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.52'
 
 Tienes [United Colors of Benetton Layette BB B2 Camiseta de Manga Larga  Gris  Grigio Melange 501   68/74  Talla del Fabricante: 68  para Bebés](https://www.amazon.es/dp/B07M9Z3VP9/?tag=tolees-21) con precio final de  7.52 EUR (original: 29.95 EUR) (74.89 %  de rebaja) aqui!
 
-[![United Colors of Benetton Layette BB B2 ](https://m.media-amazon.com/images/I/51F4uxYWfbL._SL200_.jpg)](https://www.amazon.es/dp/B07M9Z3VP9/?tag=tolees-21)
+[![United Colors of Benetton Layette BB B2 ](https://m.media-amazon.com/images/I/51F4uxYWfbL._SL400_.jpg)](https://www.amazon.es/dp/B07M9Z3VP9/?tag=tolees-21)
 
 🔎:
 

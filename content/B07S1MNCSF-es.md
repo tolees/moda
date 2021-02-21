@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 520v6  Zapatos para Correr p al 50.01 % de descuento'
 date: 2020-06-25 00:12:45
-image: 'https://m.media-amazon.com/images/I/41WoWktzqtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WoWktzqtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 Está [New Balance 520v6  Zapatos para Correr para Hombre  Negro  Black Lk6   45 EU](https://www.amazon.es/dp/B07S1MNCSF/?tag=tolees-21) con 50.01 de descuento por 34.99 EUR (original: 70.0 EUR) en el siguiente enlace!
 
-[![New Balance 520v6  Zapatos para Correr p](https://m.media-amazon.com/images/I/41WoWktzqtL._SL200_.jpg)](https://www.amazon.es/dp/B07S1MNCSF/?tag=tolees-21)
+[![New Balance 520v6  Zapatos para Correr p](https://m.media-amazon.com/images/I/41WoWktzqtL._SL400_.jpg)](https://www.amazon.es/dp/B07S1MNCSF/?tag=tolees-21)
 
 ℹ️:
 

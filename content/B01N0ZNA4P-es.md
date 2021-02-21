@@ -2,7 +2,7 @@
 layout: post
 title: 'Kappa Fredo Pantalón Corto  Hombre  Azul al 31.31 % de rebaja'
 date: 2020-06-20 20:57:32
-image: 'https://m.media-amazon.com/images/I/312GqeFeg9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312GqeFeg9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.182500000000001'
 
 Tienes [Kappa Fredo Pantalón Corto  Hombre  Azul Marino  YL](https://www.amazon.es/dp/B01N0ZNA4P/?tag=tolees-21) con precio final de  10.99 EUR (original: 16.0 EUR) (31.31 %  de rebaja) aqui!
 
-[![Kappa Fredo Pantalón Corto  Hombre  Azul](https://m.media-amazon.com/images/I/312GqeFeg9L._SL200_.jpg)](https://www.amazon.es/dp/B01N0ZNA4P/?tag=tolees-21)
+[![Kappa Fredo Pantalón Corto  Hombre  Azul](https://m.media-amazon.com/images/I/312GqeFeg9L._SL400_.jpg)](https://www.amazon.es/dp/B01N0ZNA4P/?tag=tolees-21)
 
 🔎:
 

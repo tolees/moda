@@ -2,7 +2,7 @@
 layout: post
 title: 'TTYAOVO Chicas Arco Iris Unicornio Fancy con un 33.37 % de descuento'
 date: 2020-01-17 11:49:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iLUm7Il1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iLUm7Il1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 En este momento está [TTYAOVO Chicas Arco Iris Unicornio Fancy Vestido Princesa Flor Desfile de Niños Vestidos sin Mangas Volantes Vestido de Fiesta Talla 3-4 Años Púrpura](https://www.amazon.es/dp/B07Q3TC13D/?tag=tolees-21) a 19.99 EUR (original: 30 EUR) (33.37 %  de descuento) en el siguiente enlace!
 
-[![TTYAOVO Chicas Arco Iris Unicornio Fancy](https://images-eu.ssl-images-amazon.com/images/I/41iLUm7Il1L._SL200_.jpg)](https://www.amazon.es/dp/B07Q3TC13D/?tag=tolees-21)
+[![TTYAOVO Chicas Arco Iris Unicornio Fancy](https://images-eu.ssl-images-amazon.com/images/I/41iLUm7Il1L._SL400_.jpg)](https://www.amazon.es/dp/B07Q3TC13D/?tag=tolees-21)
 
 🔎:
 

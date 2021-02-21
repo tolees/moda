@@ -2,7 +2,7 @@
 layout: post
 title: 'Camisetas Mujer SHOBDW Dia de la Mujer V al 50.05 % de descuento'
 date: 2020-08-05 08:31:26
-image: 'https://m.media-amazon.com/images/I/51WarlbJD3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WarlbJD3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.81'
 
 Está [Camisetas Mujer SHOBDW Dia de la Mujer Verano Patchwork De Encaje Casual Ahuecar Volantes Manga Corta Suéter De Cuello De Tortuga Linda Blusa Floral Camiseta Blanca para Mujer  S  Verde ](https://www.amazon.es/dp/B07QDQT6SN/?tag=tolees-21) con 50.05 de descuento por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![Camisetas Mujer SHOBDW Dia de la Mujer V](https://m.media-amazon.com/images/I/51WarlbJD3L._SL200_.jpg)](https://www.amazon.es/dp/B07QDQT6SN/?tag=tolees-21)
+[![Camisetas Mujer SHOBDW Dia de la Mujer V](https://m.media-amazon.com/images/I/51WarlbJD3L._SL400_.jpg)](https://www.amazon.es/dp/B07QDQT6SN/?tag=tolees-21)
 
 ℹ️:
 

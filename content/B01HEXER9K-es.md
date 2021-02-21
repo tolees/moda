@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Crocband Clog K  Zuecos Unisex-Bam al 39.98 % de rebaja'
 date: 2020-06-20 16:37:41
-image: 'https://m.media-amazon.com/images/I/31mX7NfzX9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mX7NfzX9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.2'
 
 Tienes [Crocs Crocband Clog K  Zuecos Unisex-Bambini  BLU  Navy/Citrus 42k   22/23 EU](https://www.amazon.es/dp/B01HEXER9K/?tag=tolees-21) con precio final de  19.2 EUR (original: 31.99 EUR) (39.98 %  de rebaja) aqui!
 
-[![Crocs Crocband Clog K  Zuecos Unisex-Bam](https://m.media-amazon.com/images/I/31mX7NfzX9L._SL200_.jpg)](https://www.amazon.es/dp/B01HEXER9K/?tag=tolees-21)
+[![Crocs Crocband Clog K  Zuecos Unisex-Bam](https://m.media-amazon.com/images/I/31mX7NfzX9L._SL400_.jpg)](https://www.amazon.es/dp/B01HEXER9K/?tag=tolees-21)
 
 🔎:
 

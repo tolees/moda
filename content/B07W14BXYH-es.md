@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Raury Camiseta  Verde  734saf al 39.75 % de rebaja'
 date: 2020-09-26 09:33:57
-image: 'https://m.media-amazon.com/images/I/31e340nPCrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e340nPCrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [Pepe Jeans Raury Camiseta  Verde  734safari 734   17-18 años  Talla del Fabricante: 18  para Niños](https://www.amazon.es/dp/B07W14BXYH/?tag=tolees-21) con precio final de  11.99 EUR (original: 19.9 EUR) (39.75 %  de rebaja) aqui!
 
-[![Pepe Jeans Raury Camiseta  Verde  734saf](https://m.media-amazon.com/images/I/31e340nPCrL._SL200_.jpg)](https://www.amazon.es/dp/B07W14BXYH/?tag=tolees-21)
+[![Pepe Jeans Raury Camiseta  Verde  734saf](https://m.media-amazon.com/images/I/31e340nPCrL._SL400_.jpg)](https://www.amazon.es/dp/B07W14BXYH/?tag=tolees-21)
 
 🔎:
 

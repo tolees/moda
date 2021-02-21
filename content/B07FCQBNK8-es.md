@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Soft Jersey High Ne con un 18.70 % de descuento'
 date: 2020-10-09 02:46:59
-image: 'https://m.media-amazon.com/images/I/31RLRwl2KuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RLRwl2KuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.39'
 
 En este momento está [Marca Amazon - find. Soft Jersey High Neck Sudadera Mujer  Negro  Black   38  Label: S](https://www.amazon.es/dp/B07FCQBNK8/?tag=tolees-21) a 6.39 EUR (original: 7.86 EUR) (18.70 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - find. Soft Jersey High Ne](https://m.media-amazon.com/images/I/31RLRwl2KuL._SL200_.jpg)](https://www.amazon.es/dp/B07FCQBNK8/?tag=tolees-21)
+[![Marca Amazon - find. Soft Jersey High Ne](https://m.media-amazon.com/images/I/31RLRwl2KuL._SL400_.jpg)](https://www.amazon.es/dp/B07FCQBNK8/?tag=tolees-21)
 
 🔎:
 

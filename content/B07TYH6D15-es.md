@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.20 % en Levi s LS Original Hm tee Camiseta  Negr'
 date: 2020-09-14 19:29:45
-image: 'https://m.media-amazon.com/images/I/418teEbww6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418teEbww6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.116'
 
 Tienes [Levi s LS Original Hm tee Camiseta  Negro  Black 0009   X-Small para Hombre](https://www.amazon.es/dp/B07TYH6D15/?tag=tolees-21) con un 46.20 % de descuento con precio de oferta de 18.83 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Levi s LS Original Hm tee Camiseta  Negr](https://m.media-amazon.com/images/I/418teEbww6L._SL200_.jpg)](https://www.amazon.es/dp/B07TYH6D15/?tag=tolees-21)
+[![Levi s LS Original Hm tee Camiseta  Negr](https://m.media-amazon.com/images/I/418teEbww6L._SL400_.jpg)](https://www.amazon.es/dp/B07TYH6D15/?tag=tolees-21)
 
 ℹ️:
 

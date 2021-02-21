@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Gilman Walk  Zapatos de Cordones  al 71.11 % de descuento'
 date: 2020-02-24 09:31:25
-image: 'https://m.media-amazon.com/images/I/31-XfTwbHVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-XfTwbHVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.1'
 
 Está [Clarks Gilman Walk  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Lea Dark Tan Lea   41.5 EU](https://www.amazon.es/dp/B07MQ2JL6N/?tag=tolees-21) con 71.11 de descuento por 28.88 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Clarks Gilman Walk  Zapatos de Cordones ](https://m.media-amazon.com/images/I/31-XfTwbHVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MQ2JL6N/?tag=tolees-21)
+[![Clarks Gilman Walk  Zapatos de Cordones ](https://m.media-amazon.com/images/I/31-XfTwbHVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MQ2JL6N/?tag=tolees-21)
 
 ℹ️:
 

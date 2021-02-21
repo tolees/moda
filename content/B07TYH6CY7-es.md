@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 511 Slim Vaqueros  Baltic Navy Su al 62.86 % de descuento'
 date: 2020-08-31 19:08:16
-image: 'https://m.media-amazon.com/images/I/31IiYNbvR0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IiYNbvR0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.43'
 
 Ahora mismo tienes [Levi s 511 Slim Vaqueros  Baltic Navy Sueded Sateen WT B  36W / 30L para Hombre](https://www.amazon.es/dp/B07TYH6CY7/?tag=tolees-21) a 33.43 EUR (original: 90.0 EUR) (62.86 %  de descuento) en el siguiente enlace!
 
-[![Levi s 511 Slim Vaqueros  Baltic Navy Su](https://m.media-amazon.com/images/I/31IiYNbvR0L._SL200_.jpg)](https://www.amazon.es/dp/B07TYH6CY7/?tag=tolees-21)
+[![Levi s 511 Slim Vaqueros  Baltic Navy Su](https://m.media-amazon.com/images/I/31IiYNbvR0L._SL400_.jpg)](https://www.amazon.es/dp/B07TYH6CY7/?tag=tolees-21)
 
 🔎:
 

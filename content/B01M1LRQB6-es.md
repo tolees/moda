@@ -2,7 +2,7 @@
 layout: post
 title: 'El Naturalista N413 PLEASANT BLACK / WAK al 65.41 % de descuento'
 date: 2020-04-25 18:48:09
-image: 'https://m.media-amazon.com/images/I/31En4PHLEAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31En4PHLEAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.86'
 
 Está [El Naturalista N413 PLEASANT BLACK / WAKATAUA Sandalias con punta cerrada Mujer  Negro  Black   37 EU](https://www.amazon.es/dp/B01M1LRQB6/?tag=tolees-21) con 65.41 de descuento por 32.86 EUR (original: 95.0 EUR) en el siguiente enlace!
 
-[![El Naturalista N413 PLEASANT BLACK / WAK](https://m.media-amazon.com/images/I/31En4PHLEAL._SL200_.jpg)](https://www.amazon.es/dp/B01M1LRQB6/?tag=tolees-21)
+[![El Naturalista N413 PLEASANT BLACK / WAK](https://m.media-amazon.com/images/I/31En4PHLEAL._SL400_.jpg)](https://www.amazon.es/dp/B01M1LRQB6/?tag=tolees-21)
 
 ℹ️:
 

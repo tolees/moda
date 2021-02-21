@@ -2,7 +2,7 @@
 layout: post
 title: 'Disney Sudadera para niñas Toy Story Jes al 36.94 % de descuento'
 date: 2020-04-16 09:17:51
-image: 'https://m.media-amazon.com/images/I/412p09Nz4mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412p09Nz4mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.95'
 
 Está [Disney Sudadera para niñas Toy Story Jessie Azul 3-4 Años](https://www.amazon.es/dp/B07TV4L1WR/?tag=tolees-21) con 36.94 de descuento por 11.95 EUR (original: 18.95 EUR) en el siguiente enlace!
 
-[![Disney Sudadera para niñas Toy Story Jes](https://m.media-amazon.com/images/I/412p09Nz4mL._SL200_.jpg)](https://www.amazon.es/dp/B07TV4L1WR/?tag=tolees-21)
+[![Disney Sudadera para niñas Toy Story Jes](https://m.media-amazon.com/images/I/412p09Nz4mL._SL400_.jpg)](https://www.amazon.es/dp/B07TV4L1WR/?tag=tolees-21)
 
 ℹ️:
 

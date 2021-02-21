@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Slim  Chanclas para Niñas  Ros al 54.97 % de descuento'
 date: 2020-08-28 17:27:44
-image: 'https://m.media-amazon.com/images/I/410sXNZKzEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410sXNZKzEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.06'
 
 Ahora mismo tienes [Havaianas Slim  Chanclas para Niñas  Rosa  Hollywood Rose   23/24 EU](https://www.amazon.es/dp/B07F1H8RH7/?tag=tolees-21) a 8.06 EUR (original: 17.9 EUR) (54.97 %  de descuento) en el siguiente enlace!
 
-[![Havaianas Slim  Chanclas para Niñas  Ros](https://m.media-amazon.com/images/I/410sXNZKzEL._SL200_.jpg)](https://www.amazon.es/dp/B07F1H8RH7/?tag=tolees-21)
+[![Havaianas Slim  Chanclas para Niñas  Ros](https://m.media-amazon.com/images/I/410sXNZKzEL._SL400_.jpg)](https://www.amazon.es/dp/B07F1H8RH7/?tag=tolees-21)
 
 🔎:
 

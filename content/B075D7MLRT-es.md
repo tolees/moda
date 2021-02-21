@@ -2,7 +2,7 @@
 layout: post
 title: 'IRIS & LILLY BLIC002 sujetadores  Beige  al 68.78 % de descuento'
 date: 2020-01-13 23:38:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41i0gaH6VFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i0gaH6VFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.6'
 
 Ahora mismo tienes [IRIS & LILLY BLIC002 sujetadores  Beige  Nude   100A  Talla del fabricante: 38A ](https://www.amazon.es/dp/B075D7MLRT/?tag=tolees-21) a 3.6 EUR (original: 11.53 EUR) (68.78 %  de descuento) en el siguiente enlace!
 
-[![IRIS & LILLY BLIC002 sujetadores  Beige ](https://images-eu.ssl-images-amazon.com/images/I/41i0gaH6VFL._SL200_.jpg)](https://www.amazon.es/dp/B075D7MLRT/?tag=tolees-21)
+[![IRIS & LILLY BLIC002 sujetadores  Beige ](https://images-eu.ssl-images-amazon.com/images/I/41i0gaH6VFL._SL400_.jpg)](https://www.amazon.es/dp/B075D7MLRT/?tag=tolees-21)
 
 🔎:
 

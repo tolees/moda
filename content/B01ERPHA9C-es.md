@@ -2,7 +2,7 @@
 layout: post
 title: 'Joma SHT.S0M01 - Falda de tenis para muj al 33.38 % de rebaja'
 date: 2020-05-16 11:24:58
-image: 'https://m.media-amazon.com/images/I/31dKE3SuNbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dKE3SuNbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.98'
 
 Tienes [Joma SHT.S0M01 - Falda de tenis para mujer  color Verde  Green Fluor   talla Small](https://www.amazon.es/dp/B01ERPHA9C/?tag=tolees-21) con precio final de  13.99 EUR (original: 21.0 EUR) (33.38 %  de rebaja) aqui!
 
-[![Joma SHT.S0M01 - Falda de tenis para muj](https://m.media-amazon.com/images/I/31dKE3SuNbL._SL200_.jpg)](https://www.amazon.es/dp/B01ERPHA9C/?tag=tolees-21)
+[![Joma SHT.S0M01 - Falda de tenis para muj](https://m.media-amazon.com/images/I/31dKE3SuNbL._SL400_.jpg)](https://www.amazon.es/dp/B01ERPHA9C/?tag=tolees-21)
 
 🔎:
 

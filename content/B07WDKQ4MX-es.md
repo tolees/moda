@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES JCOMILLA Sweat Hood Sudader al 52.11 % de rebaja'
 date: 2020-02-26 21:10:46
-image: 'https://m.media-amazon.com/images/I/41pL-6khfnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pL-6khfnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.15'
 
 Tienes [JACK & JONES JCOMILLA Sweat Hood Sudadera con Capucha  Multicolor  Light Grey Melange Detail:w. Black   M para Hombre](https://www.amazon.es/dp/B07WDKQ4MX/?tag=tolees-21) con precio final de  19.15 EUR (original: 39.99 EUR) (52.11 %  de rebaja) aqui!
 
-[![JACK & JONES JCOMILLA Sweat Hood Sudader](https://m.media-amazon.com/images/I/41pL-6khfnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07WDKQ4MX/?tag=tolees-21)
+[![JACK & JONES JCOMILLA Sweat Hood Sudader](https://m.media-amazon.com/images/I/41pL-6khfnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07WDKQ4MX/?tag=tolees-21)
 
 🔎:
 

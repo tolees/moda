@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 514 Vaqueros Straight  Azul  Ston al 23.58 % de descuento'
 date: 2020-05-22 14:11:17
-image: 'https://m.media-amazon.com/images/I/415hU0TMDyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415hU0TMDyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.68'
 
 Ahora mismo tienes [Levi s 514 Vaqueros Straight  Azul  Stonewash Stretch T2 1267   W46 / L34  Talla del Fabricante: 46 34  para Hombre](https://www.amazon.es/dp/B07LFGWLYC/?tag=tolees-21) a 20.68 EUR (original: 27.06 EUR) (23.58 %  de descuento) en el siguiente enlace!
 
-[![Levi s 514 Vaqueros Straight  Azul  Ston](https://m.media-amazon.com/images/I/415hU0TMDyL._SL200_.jpg)](https://www.amazon.es/dp/B07LFGWLYC/?tag=tolees-21)
+[![Levi s 514 Vaqueros Straight  Azul  Ston](https://m.media-amazon.com/images/I/415hU0TMDyL._SL400_.jpg)](https://www.amazon.es/dp/B07LFGWLYC/?tag=tolees-21)
 
 🔎:
 

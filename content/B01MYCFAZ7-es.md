@@ -2,7 +2,7 @@
 layout: post
 title: 'Kayhan Hombre Camisa Monaco Red  M  al 49.90 % de descuento'
 date: 2020-04-16 18:48:40
-image: 'https://m.media-amazon.com/images/I/513zz1Jz0RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513zz1Jz0RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Ahora mismo tienes [Kayhan Hombre Camisa Monaco Red  M ](https://www.amazon.es/dp/B01MYCFAZ7/?tag=tolees-21) a 19.99 EUR (original: 39.9 EUR) (49.90 %  de descuento) en el siguiente enlace!
 
-[![Kayhan Hombre Camisa Monaco Red  M ](https://m.media-amazon.com/images/I/513zz1Jz0RL._SL200_.jpg)](https://www.amazon.es/dp/B01MYCFAZ7/?tag=tolees-21)
+[![Kayhan Hombre Camisa Monaco Red  M ](https://m.media-amazon.com/images/I/513zz1Jz0RL._SL400_.jpg)](https://www.amazon.es/dp/B01MYCFAZ7/?tag=tolees-21)
 
 🔎:
 

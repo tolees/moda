@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox Uomo Snake a  Zapatillas para Hombr con un 38.23 % de descuento'
 date: 2020-02-18 12:22:37
-image: 'https://m.media-amazon.com/images/I/31AFyjUICCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AFyjUICCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.81'
 
 En este momento está [Geox Uomo Snake a  Zapatillas para Hombre  Black/Dk Grey C0005  41 EU](https://www.amazon.es/dp/B07DJ2PSF8/?tag=tolees-21) a 30.81 EUR (original: 49.88 EUR) (38.23 %  de descuento) en el siguiente enlace!
 
-[![Geox Uomo Snake a  Zapatillas para Hombr](https://m.media-amazon.com/images/I/31AFyjUICCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DJ2PSF8/?tag=tolees-21)
+[![Geox Uomo Snake a  Zapatillas para Hombr](https://m.media-amazon.com/images/I/31AFyjUICCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DJ2PSF8/?tag=tolees-21)
 
 🔎:
 

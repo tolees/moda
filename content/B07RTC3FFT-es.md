@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jormachine tee SS Crew Neck con un 17.49 % de descuento'
 date: 2020-03-06 14:18:06
-image: 'https://m.media-amazon.com/images/I/41mgUgLQUCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mgUgLQUCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.105'
 
 En este momento está [JACK & JONES Jormachine tee SS Crew Neck Camiseta  Blanco  Cloud Dancer Fit: Reg   Medium para Hombre](https://www.amazon.es/dp/B07RTC3FFT/?tag=tolees-21) a 5.52 EUR (original: 6.69 EUR) (17.49 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jormachine tee SS Crew Neck](https://m.media-amazon.com/images/I/41mgUgLQUCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RTC3FFT/?tag=tolees-21)
+[![JACK & JONES Jormachine tee SS Crew Neck](https://m.media-amazon.com/images/I/41mgUgLQUCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RTC3FFT/?tag=tolees-21)
 
 🔎:
 

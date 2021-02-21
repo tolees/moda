@@ -2,7 +2,7 @@
 layout: post
 title: 'Bolso Bandolera Harry Potter al 15.85 % de rebaja'
 date: 2020-07-29 11:48:15
-image: 'https://m.media-amazon.com/images/I/41Y0r0lwknL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Y0r0lwknL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.8'
 
 Tienes [Bolso Bandolera Harry Potter](https://www.amazon.es/dp/B07JWT879R/?tag=tolees-21) con precio final de  13.8 EUR (original: 16.4 EUR) (15.85 %  de rebaja) aqui!
 
-[![Bolso Bandolera Harry Potter](https://m.media-amazon.com/images/I/41Y0r0lwknL._SL200_.jpg)](https://www.amazon.es/dp/B07JWT879R/?tag=tolees-21)
+[![Bolso Bandolera Harry Potter](https://m.media-amazon.com/images/I/41Y0r0lwknL._SL400_.jpg)](https://www.amazon.es/dp/B07JWT879R/?tag=tolees-21)
 
 🔎:
 

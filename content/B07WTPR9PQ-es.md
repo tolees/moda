@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Sudadera con Capucha de P al 65.88 % de rebaja'
 date: 2020-02-04 07:16:39
-image: 'https://m.media-amazon.com/images/I/41XTE1UTDKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XTE1UTDKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.95'
 
 Tienes [Charles Wilson Sudadera con Capucha de Peso Pesado  Small  Burgundy ](https://www.amazon.es/dp/B07WTPR9PQ/?tag=tolees-21) con precio final de  12.95 EUR (original: 37.95 EUR) (65.88 %  de rebaja) aqui!
 
-[![Charles Wilson Sudadera con Capucha de P](https://m.media-amazon.com/images/I/41XTE1UTDKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07WTPR9PQ/?tag=tolees-21)
+[![Charles Wilson Sudadera con Capucha de P](https://m.media-amazon.com/images/I/41XTE1UTDKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07WTPR9PQ/?tag=tolees-21)
 
 🔎:
 

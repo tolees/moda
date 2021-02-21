@@ -2,7 +2,7 @@
 layout: post
 title: 'Liu Jo A19066E0002 Bolso de baldolera Ac con un 45.00 % de descuento'
 date: 2020-01-30 10:01:22
-image: 'https://m.media-amazon.com/images/I/41DUO4kj5xL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DUO4kj5xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '87.45'
 
 En este momento está [Liu Jo A19066E0002 Bolso de baldolera Accesorios Rojo Pz.](https://www.amazon.es/dp/B07PYHSZ13/?tag=tolees-21) a 87.45 EUR (original: 159.0 EUR) (45.00 %  de descuento) en el siguiente enlace!
 
-[![Liu Jo A19066E0002 Bolso de baldolera Ac](https://m.media-amazon.com/images/I/41DUO4kj5xL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PYHSZ13/?tag=tolees-21)
+[![Liu Jo A19066E0002 Bolso de baldolera Ac](https://m.media-amazon.com/images/I/41DUO4kj5xL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07PYHSZ13/?tag=tolees-21)
 
 🔎:
 

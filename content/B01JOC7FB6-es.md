@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Kenniston 6 Inch Lace Up  Bot al 40.00 % de descuento'
 date: 2020-02-09 12:09:41
-image: 'https://m.media-amazon.com/images/I/31kYizPOHWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kYizPOHWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.935'
 
 Está [Timberland Kenniston 6 Inch Lace Up  Botas para Mujer  Negro  Black Full Grain   39 EU](https://www.amazon.es/dp/B01JOC7FB6/?tag=tolees-21) con 40.00 de descuento por 84.0 EUR (original: 140.0 EUR) en el siguiente enlace!
 
-[![Timberland Kenniston 6 Inch Lace Up  Bot](https://m.media-amazon.com/images/I/31kYizPOHWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01JOC7FB6/?tag=tolees-21)
+[![Timberland Kenniston 6 Inch Lace Up  Bot](https://m.media-amazon.com/images/I/31kYizPOHWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01JOC7FB6/?tag=tolees-21)
 
 ℹ️:
 

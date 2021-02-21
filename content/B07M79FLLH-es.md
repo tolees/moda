@@ -2,7 +2,7 @@
 layout: post
 title: 'HKT by Hackett Hkt Teal Grey Mel Chk Cam al 25.25 % de rebaja'
 date: 2020-04-27 16:36:14
-image: 'https://m.media-amazon.com/images/I/41HFn0dGJhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HFn0dGJhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.912499999999998'
 
 Tienes [HKT by Hackett Hkt Teal Grey Mel Chk Camisa   Multi 0aa   Medium para Hombre](https://www.amazon.es/dp/B07M79FLLH/?tag=tolees-21) con precio final de  13.65 EUR (original: 18.26 EUR) (25.25 %  de rebaja) aqui!
 
-[![HKT by Hackett Hkt Teal Grey Mel Chk Cam](https://m.media-amazon.com/images/I/41HFn0dGJhL._SL200_.jpg)](https://www.amazon.es/dp/B07M79FLLH/?tag=tolees-21)
+[![HKT by Hackett Hkt Teal Grey Mel Chk Cam](https://m.media-amazon.com/images/I/41HFn0dGJhL._SL400_.jpg)](https://www.amazon.es/dp/B07M79FLLH/?tag=tolees-21)
 
 🔎:
 

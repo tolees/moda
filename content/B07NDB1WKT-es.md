@@ -2,7 +2,7 @@
 layout: post
 title: 'bugatti 321793513200 - Botines de Cuero  al 19.49 % de descuento'
 date: 2020-04-18 11:29:41
-image: 'https://m.media-amazon.com/images/I/41pT1ZnfJmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pT1ZnfJmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.36'
 
 Está [bugatti 321793513200 - Botines de Cuero Hombre  Color Marrón  Talla 42 EU](https://www.amazon.es/dp/B07NDB1WKT/?tag=tolees-21) con 19.49 de descuento por 25.36 EUR (original: 31.5 EUR) en el siguiente enlace!
 
-[![bugatti 321793513200 - Botines de Cuero ](https://m.media-amazon.com/images/I/41pT1ZnfJmL._SL200_.jpg)](https://www.amazon.es/dp/B07NDB1WKT/?tag=tolees-21)
+[![bugatti 321793513200 - Botines de Cuero ](https://m.media-amazon.com/images/I/41pT1ZnfJmL._SL400_.jpg)](https://www.amazon.es/dp/B07NDB1WKT/?tag=tolees-21)
 
 ℹ️:
 

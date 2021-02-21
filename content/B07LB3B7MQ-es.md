@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike W Nk Miler Top SS Camiseta de Manga al 27.97 % de descuento'
 date: 2020-03-25 11:42:59
-image: 'https://m.media-amazon.com/images/I/31pmL8sq28L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pmL8sq28L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 Ahora mismo tienes [Nike W Nk Miler Top SS Camiseta de Manga Corta  Mujer  Echo Pink/Echo Pink/ Reflective silv   S](https://www.amazon.es/dp/B07LB3B7MQ/?tag=tolees-21) a 18.0 EUR (original: 24.99 EUR) (27.97 %  de descuento) en el siguiente enlace!
 
-[![Nike W Nk Miler Top SS Camiseta de Manga](https://m.media-amazon.com/images/I/31pmL8sq28L._SL200_.jpg)](https://www.amazon.es/dp/B07LB3B7MQ/?tag=tolees-21)
+[![Nike W Nk Miler Top SS Camiseta de Manga](https://m.media-amazon.com/images/I/31pmL8sq28L._SL400_.jpg)](https://www.amazon.es/dp/B07LB3B7MQ/?tag=tolees-21)
 
 🔎:
 

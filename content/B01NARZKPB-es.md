@@ -2,7 +2,7 @@
 layout: post
 title: 'Kappa Fredo Pantalón Corto  Hombre  Verd al 22.56 % de descuento'
 date: 2020-06-15 23:27:27
-image: 'https://m.media-amazon.com/images/I/41NDQKJysrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NDQKJysrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.94'
 
 Está [Kappa Fredo Pantalón Corto  Hombre  Verde  L](https://www.amazon.es/dp/B01NARZKPB/?tag=tolees-21) con 22.56 de descuento por 13.94 EUR (original: 18.0 EUR) en el siguiente enlace!
 
-[![Kappa Fredo Pantalón Corto  Hombre  Verd](https://m.media-amazon.com/images/I/41NDQKJysrL._SL200_.jpg)](https://www.amazon.es/dp/B01NARZKPB/?tag=tolees-21)
+[![Kappa Fredo Pantalón Corto  Hombre  Verd](https://m.media-amazon.com/images/I/41NDQKJysrL._SL400_.jpg)](https://www.amazon.es/dp/B01NARZKPB/?tag=tolees-21)
 
 ℹ️:
 

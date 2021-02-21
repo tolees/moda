@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Tiro19 WOV SHO Pantalón Corto  Ho al 23.92 % de descuento'
 date: 2020-05-07 09:18:54
-image: 'https://m.media-amazon.com/images/I/31GsqOg5TGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GsqOg5TGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.307499999999997'
 
 Ahora mismo tienes [adidas Tiro19 WOV SHO Pantalón Corto  Hombre  Negro  Black/White   M](https://www.amazon.es/dp/B07K7HBLPK/?tag=tolees-21) a 17.49 EUR (original: 22.99 EUR) (23.92 %  de descuento) en el siguiente enlace!
 
-[![adidas Tiro19 WOV SHO Pantalón Corto  Ho](https://m.media-amazon.com/images/I/31GsqOg5TGL._SL200_.jpg)](https://www.amazon.es/dp/B07K7HBLPK/?tag=tolees-21)
+[![adidas Tiro19 WOV SHO Pantalón Corto  Ho](https://m.media-amazon.com/images/I/31GsqOg5TGL._SL400_.jpg)](https://www.amazon.es/dp/B07K7HBLPK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'KRISP 6488-BLK-10  Vestido Corto Fruncid al 51.94 % de descuento'
 date: 2020-01-21 15:15:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41h5SSWvtpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h5SSWvtpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.49'
 
 Ahora mismo tienes [KRISP 6488-BLK-10  Vestido Corto Fruncido Busto  Negro  6488   38](https://www.amazon.es/dp/B00PY4JM7Y/?tag=tolees-21) a 12.49 EUR (original: 25.99 EUR) (51.94 %  de descuento) en el siguiente enlace!
 
-[![KRISP 6488-BLK-10  Vestido Corto Fruncid](https://images-eu.ssl-images-amazon.com/images/I/41h5SSWvtpL._SL200_.jpg)](https://www.amazon.es/dp/B00PY4JM7Y/?tag=tolees-21)
+[![KRISP 6488-BLK-10  Vestido Corto Fruncid](https://images-eu.ssl-images-amazon.com/images/I/41h5SSWvtpL._SL400_.jpg)](https://www.amazon.es/dp/B00PY4JM7Y/?tag=tolees-21)
 
 🔎:
 

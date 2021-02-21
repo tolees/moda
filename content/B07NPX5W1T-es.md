@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - MERAKI Shorts de Lino Muj al 18.02 % de descuento'
 date: 2020-06-28 23:34:31
-image: 'https://m.media-amazon.com/images/I/31ovvWXWA5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ovvWXWA5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.1'
 
 Está [Marca Amazon - MERAKI Shorts de Lino Mujer  Negro  Black   36  Label: XS](https://www.amazon.es/dp/B07NPX5W1T/?tag=tolees-21) con 18.02 de descuento por 8.1 EUR (original: 9.88 EUR) en el siguiente enlace!
 
-[![Marca Amazon - MERAKI Shorts de Lino Muj](https://m.media-amazon.com/images/I/31ovvWXWA5L._SL200_.jpg)](https://www.amazon.es/dp/B07NPX5W1T/?tag=tolees-21)
+[![Marca Amazon - MERAKI Shorts de Lino Muj](https://m.media-amazon.com/images/I/31ovvWXWA5L._SL400_.jpg)](https://www.amazon.es/dp/B07NPX5W1T/?tag=tolees-21)
 
 ℹ️:
 

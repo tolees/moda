@@ -2,7 +2,7 @@
 layout: post
 title: 'PORPEE Gafas de Sol Hombre Mujer Polariz al 24.19 % de descuento'
 date: 2020-02-01 13:09:53
-image: 'https://m.media-amazon.com/images/I/41KX7NjnSDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KX7NjnSDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.59'
 
 Ahora mismo tienes [PORPEE Gafas de Sol Hombre Mujer Polarizadas Súper Ligero Al-Mg Marco De Metal | Nylon Polarizado HD | 100% UV400 Protection](https://www.amazon.es/dp/B07VSP21F7/?tag=tolees-21) a 10.59 EUR (original: 13.97 EUR) (24.19 %  de descuento) en el siguiente enlace!
 
-[![PORPEE Gafas de Sol Hombre Mujer Polariz](https://m.media-amazon.com/images/I/41KX7NjnSDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VSP21F7/?tag=tolees-21)
+[![PORPEE Gafas de Sol Hombre Mujer Polariz](https://m.media-amazon.com/images/I/41KX7NjnSDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07VSP21F7/?tag=tolees-21)
 
 🔎:
 

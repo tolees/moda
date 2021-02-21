@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Classic Twill L/s Shirt Camisa  al 45.72 % de rebaja'
 date: 2020-07-01 18:11:27
-image: 'https://m.media-amazon.com/images/I/313x9W6t6iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313x9W6t6iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.376'
 
 Tienes [Superdry Classic Twill L/s Shirt Camisa  Azul  Nórdica Blue Chambray W6h   3XL para Hombre](https://www.amazon.es/dp/B07NZ2D34R/?tag=tolees-21) con precio final de  37.99 EUR (original: 69.99 EUR) (45.72 %  de rebaja) aqui!
 
-[![Superdry Classic Twill L/s Shirt Camisa ](https://m.media-amazon.com/images/I/313x9W6t6iL._SL200_.jpg)](https://www.amazon.es/dp/B07NZ2D34R/?tag=tolees-21)
+[![Superdry Classic Twill L/s Shirt Camisa ](https://m.media-amazon.com/images/I/313x9W6t6iL._SL400_.jpg)](https://www.amazon.es/dp/B07NZ2D34R/?tag=tolees-21)
 
 🔎:
 

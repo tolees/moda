@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D TABELYA A  Zapatillas para Mujer  con un 49.67 % de descuento'
 date: 2020-08-29 22:31:06
-image: 'https://m.media-amazon.com/images/I/41hKAxXB7UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hKAxXB7UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.3'
 
 En este momento está [Geox D TABELYA A  Zapatillas para Mujer  Negro  Black/Gun C9b1g   36 EU](https://www.amazon.es/dp/B07SWV18MW/?tag=tolees-21) a 62.91 EUR (original: 125.0 EUR) (49.67 %  de descuento) en el siguiente enlace!
 
-[![Geox D TABELYA A  Zapatillas para Mujer ](https://m.media-amazon.com/images/I/41hKAxXB7UL._SL200_.jpg)](https://www.amazon.es/dp/B07SWV18MW/?tag=tolees-21)
+[![Geox D TABELYA A  Zapatillas para Mujer ](https://m.media-amazon.com/images/I/41hKAxXB7UL._SL400_.jpg)](https://www.amazon.es/dp/B07SWV18MW/?tag=tolees-21)
 
 🔎:
 

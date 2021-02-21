@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Freya Blusa  Multicolor  Mult al 40.00 % de descuento'
 date: 2020-03-11 11:37:13
-image: 'https://m.media-amazon.com/images/I/51AA4ebDs3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AA4ebDs3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.94'
 
 Está [Pepe Jeans Freya Blusa  Multicolor  Multi 0aa   X-Large para Mujer](https://www.amazon.es/dp/B07MZMB1HB/?tag=tolees-21) con 40.00 de descuento por 41.94 EUR (original: 69.9 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Freya Blusa  Multicolor  Mult](https://m.media-amazon.com/images/I/51AA4ebDs3L._SL200_.jpg)](https://www.amazon.es/dp/B07MZMB1HB/?tag=tolees-21)
+[![Pepe Jeans Freya Blusa  Multicolor  Mult](https://m.media-amazon.com/images/I/51AA4ebDs3L._SL400_.jpg)](https://www.amazon.es/dp/B07MZMB1HB/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Summer Baby Kids Cómodo y suave mono cor al 33.47 % de rebaja'
 date: 2020-07-07 11:46:42
-image: 'https://m.media-amazon.com/images/I/41xKBfRa7dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xKBfRa7dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Tienes [Summer Baby Kids Cómodo y suave mono corto de manga corta con estampado de letras Cuello redondo Camiseta con cuello redondo Baby Boys - Negro Gris - 100cm](https://www.amazon.es/dp/B08BZR9CGR/?tag=tolees-21) con precio final de  10.99 EUR (original: 16.52 EUR) (33.47 %  de rebaja) aqui!
 
-[![Summer Baby Kids Cómodo y suave mono cor](https://m.media-amazon.com/images/I/41xKBfRa7dL._SL200_.jpg)](https://www.amazon.es/dp/B08BZR9CGR/?tag=tolees-21)
+[![Summer Baby Kids Cómodo y suave mono cor](https://m.media-amazon.com/images/I/41xKBfRa7dL._SL400_.jpg)](https://www.amazon.es/dp/B08BZR9CGR/?tag=tolees-21)
 
 🔎:
 

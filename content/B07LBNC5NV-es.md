@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.00 % en Helly Hansen HH LIFA Merino 1/2 Zip Cami'
 date: 2020-02-29 09:35:15
-image: 'https://m.media-amazon.com/images/I/41KCXJE5KvL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KCXJE5KvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.59'
 
 Tienes [Helly Hansen HH LIFA Merino 1/2 Zip Camiseta  Azul  Azul Electrico 639   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07LBNC5NV/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 57.59 EUR (original: 95.99 EUR) en el siguiente enlace!
 
-[![Helly Hansen HH LIFA Merino 1/2 Zip Cami](https://m.media-amazon.com/images/I/41KCXJE5KvL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LBNC5NV/?tag=tolees-21)
+[![Helly Hansen HH LIFA Merino 1/2 Zip Cami](https://m.media-amazon.com/images/I/41KCXJE5KvL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LBNC5NV/?tag=tolees-21)
 
 ℹ️:
 

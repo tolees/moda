@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW ARC 3D Low Waist Boyfriend Va al 54.66 % de rebaja'
 date: 2020-03-25 21:27:28
-image: 'https://m.media-amazon.com/images/I/41bKyR0g23L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bKyR0g23L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.99'
 
 Tienes [G-STAR RAW ARC 3D Low Waist Boyfriend Vaqueros  Multicolor  Dk Aged Restored 106 7351   34W / 34L para Mujer](https://www.amazon.es/dp/B0723GB4VZ/?tag=tolees-21) con precio final de  67.99 EUR (original: 149.95 EUR) (54.66 %  de rebaja) aqui!
 
-[![G-STAR RAW ARC 3D Low Waist Boyfriend Va](https://m.media-amazon.com/images/I/41bKyR0g23L._SL200_.jpg)](https://www.amazon.es/dp/B0723GB4VZ/?tag=tolees-21)
+[![G-STAR RAW ARC 3D Low Waist Boyfriend Va](https://m.media-amazon.com/images/I/41bKyR0g23L._SL400_.jpg)](https://www.amazon.es/dp/B0723GB4VZ/?tag=tolees-21)
 
 🔎:
 

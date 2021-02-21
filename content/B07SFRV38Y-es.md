@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen W Seven J Jacket Chaqueta   con un 65.35 % de descuento'
 date: 2020-08-30 19:26:13
-image: 'https://m.media-amazon.com/images/I/41P0-Hp5hfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P0-Hp5hfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.11'
 
 En este momento está [Helly Hansen W Seven J Jacket Chaqueta  Mujer  Rosa  XS](https://www.amazon.es/dp/B07SFRV38Y/?tag=tolees-21) a 38.11 EUR (original: 110.0 EUR) (65.35 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen W Seven J Jacket Chaqueta  ](https://m.media-amazon.com/images/I/41P0-Hp5hfL._SL200_.jpg)](https://www.amazon.es/dp/B07SFRV38Y/?tag=tolees-21)
+[![Helly Hansen W Seven J Jacket Chaqueta  ](https://m.media-amazon.com/images/I/41P0-Hp5hfL._SL400_.jpg)](https://www.amazon.es/dp/B07SFRV38Y/?tag=tolees-21)
 
 🔎:
 

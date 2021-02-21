@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Stretch Slim Fit tee Cami al 29.76 % de rebaja'
 date: 2020-04-02 09:17:25
-image: 'https://m.media-amazon.com/images/I/31CcBI74AvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CcBI74AvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.81'
 
 Tienes [Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Amarillo  Sunny   Medium para Hombre](https://www.amazon.es/dp/B07VRBN9QL/?tag=tolees-21) con precio final de  26.81 EUR (original: 38.17 EUR) (29.76 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Stretch Slim Fit tee Cami](https://m.media-amazon.com/images/I/31CcBI74AvL._SL200_.jpg)](https://www.amazon.es/dp/B07VRBN9QL/?tag=tolees-21)
+[![Tommy Hilfiger Stretch Slim Fit tee Cami](https://m.media-amazon.com/images/I/31CcBI74AvL._SL400_.jpg)](https://www.amazon.es/dp/B07VRBN9QL/?tag=tolees-21)
 
 🔎:
 

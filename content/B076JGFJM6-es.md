@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Trefoil Crew Sudadera  Hombre  Ne al 39.97 % de descuento'
 date: 2020-04-02 08:38:25
-image: 'https://m.media-amazon.com/images/I/31nvplnkFHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nvplnkFHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.99'
 
 Está [adidas Trefoil Crew Sudadera  Hombre  Negro  L](https://www.amazon.es/dp/B076JGFJM6/?tag=tolees-21) con 39.97 de descuento por 35.99 EUR (original: 59.95 EUR) en el siguiente enlace!
 
-[![adidas Trefoil Crew Sudadera  Hombre  Ne](https://m.media-amazon.com/images/I/31nvplnkFHL._SL200_.jpg)](https://www.amazon.es/dp/B076JGFJM6/?tag=tolees-21)
+[![adidas Trefoil Crew Sudadera  Hombre  Ne](https://m.media-amazon.com/images/I/31nvplnkFHL._SL400_.jpg)](https://www.amazon.es/dp/B076JGFJM6/?tag=tolees-21)
 
 ℹ️:
 

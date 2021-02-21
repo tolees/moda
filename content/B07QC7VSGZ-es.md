@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - AURIQUE Bal181la18 - legg al 27.32 % de descuento'
 date: 2020-05-18 09:34:31
-image: 'https://m.media-amazon.com/images/I/317TMhgawBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317TMhgawBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.31'
 
 Ahora mismo tienes [Marca Amazon - AURIQUE Bal181la18 - leggings deporte mujer Mujer  Negro  Black/White   42  Label:L](https://www.amazon.es/dp/B07QC7VSGZ/?tag=tolees-21) a 14.31 EUR (original: 19.69 EUR) (27.32 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - AURIQUE Bal181la18 - legg](https://m.media-amazon.com/images/I/317TMhgawBL._SL200_.jpg)](https://www.amazon.es/dp/B07QC7VSGZ/?tag=tolees-21)
+[![Marca Amazon - AURIQUE Bal181la18 - legg](https://m.media-amazon.com/images/I/317TMhgawBL._SL400_.jpg)](https://www.amazon.es/dp/B07QC7VSGZ/?tag=tolees-21)
 
 🔎:
 

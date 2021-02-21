@@ -2,7 +2,7 @@
 layout: post
 title: 'Sandalias para Mujer Verano 2019 Platafo al 59.43 % de descuento'
 date: 2020-05-21 12:32:54
-image: 'https://m.media-amazon.com/images/I/41b-uR+EzbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b-uR+EzbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.82'
 
 Ahora mismo tienes [Sandalias para Mujer Verano 2019 Plataforma Cuña LuckyGirls Zapatos Fiesta Tacón Alto Vestir Elegantes Boda Playa Casual Peep Toe Lentejuelas Tallas Grandes](https://www.amazon.es/dp/B07RNQK67G/?tag=tolees-21) a 6.82 EUR (original: 16.81 EUR) (59.43 %  de descuento) en el siguiente enlace!
 
-[![Sandalias para Mujer Verano 2019 Platafo](https://m.media-amazon.com/images/I/41b-uR+EzbL._SL200_.jpg)](https://www.amazon.es/dp/B07RNQK67G/?tag=tolees-21)
+[![Sandalias para Mujer Verano 2019 Platafo](https://m.media-amazon.com/images/I/41b-uR+EzbL._SL400_.jpg)](https://www.amazon.es/dp/B07RNQK67G/?tag=tolees-21)
 
 🔎:
 

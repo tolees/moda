@@ -2,7 +2,7 @@
 layout: post
 title: 'BLEND 701711 Vaqueros  Black/ 70155  28  al 54.91 % de rebaja'
 date: 2020-07-29 07:06:30
-image: 'https://m.media-amazon.com/images/I/41Tizvq22KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Tizvq22KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.255714285714284'
 
 Tienes [BLEND 701711 Vaqueros  Black/ 70155  28 para Hombre](https://www.amazon.es/dp/B014HOAS4W/?tag=tolees-21) con precio final de  22.52 EUR (original: 49.95 EUR) (54.91 %  de rebaja) aqui!
 
-[![BLEND 701711 Vaqueros  Black/ 70155  28 ](https://m.media-amazon.com/images/I/41Tizvq22KL._SL200_.jpg)](https://www.amazon.es/dp/B014HOAS4W/?tag=tolees-21)
+[![BLEND 701711 Vaqueros  Black/ 70155  28 ](https://m.media-amazon.com/images/I/41Tizvq22KL._SL400_.jpg)](https://www.amazon.es/dp/B014HOAS4W/?tag=tolees-21)
 
 🔎:
 

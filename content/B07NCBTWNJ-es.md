@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Pixie Vaqueros Pitillo Hombre al 59.96 % de descuento'
 date: 2020-02-17 15:55:35
-image: 'https://m.media-amazon.com/images/I/31SjgkXGjPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SjgkXGjPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.0'
 
 Ahora mismo tienes [Pepe Jeans Pixie Vaqueros Pitillo Hombre  Negro  Black Wiser Wash Denim Wz7   W28/L30 para Mujer](https://www.amazon.es/dp/B07NCBTWNJ/?tag=tolees-21) a 36.0 EUR (original: 89.9 EUR) (59.96 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Pixie Vaqueros Pitillo Hombre](https://m.media-amazon.com/images/I/31SjgkXGjPL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NCBTWNJ/?tag=tolees-21)
+[![Pepe Jeans Pixie Vaqueros Pitillo Hombre](https://m.media-amazon.com/images/I/31SjgkXGjPL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NCBTWNJ/?tag=tolees-21)
 
 🔎:
 

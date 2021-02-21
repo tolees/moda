@@ -2,7 +2,7 @@
 layout: post
 title: 'GANT D1. Harvest Moon Chiffon Blouse Blu al 66.75 % de descuento'
 date: 2020-03-05 00:59:52
-image: 'https://m.media-amazon.com/images/I/51I-QjOyVVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51I-QjOyVVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.54'
 
 Ahora mismo tienes [GANT D1. Harvest Moon Chiffon Blouse Blusa  Azul  Persian Blue 423   38  Talla del Fabricante: 36  para Mujer](https://www.amazon.es/dp/B07HWS2NPL/?tag=tolees-21) a 46.54 EUR (original: 139.99 EUR) (66.75 %  de descuento) en el siguiente enlace!
 
-[![GANT D1. Harvest Moon Chiffon Blouse Blu](https://m.media-amazon.com/images/I/51I-QjOyVVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HWS2NPL/?tag=tolees-21)
+[![GANT D1. Harvest Moon Chiffon Blouse Blu](https://m.media-amazon.com/images/I/51I-QjOyVVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HWS2NPL/?tag=tolees-21)
 
 🔎:
 

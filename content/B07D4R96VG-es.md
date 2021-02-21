@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Jersey de Ochos Hom al 78.21 % de descuento'
 date: 2020-10-12 08:06:59
-image: 'https://m.media-amazon.com/images/I/41ifNgYhj1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ifNgYhj1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.65'
 
 Está [Marca Amazon - find. Jersey de Ochos Hombre  Marfil  Ecru   S  Label: S](https://www.amazon.es/dp/B07D4R96VG/?tag=tolees-21) con 78.21 de descuento por 5.65 EUR (original: 25.93 EUR) en el siguiente enlace!
 
-[![Marca Amazon - find. Jersey de Ochos Hom](https://m.media-amazon.com/images/I/41ifNgYhj1L._SL200_.jpg)](https://www.amazon.es/dp/B07D4R96VG/?tag=tolees-21)
+[![Marca Amazon - find. Jersey de Ochos Hom](https://m.media-amazon.com/images/I/41ifNgYhj1L._SL400_.jpg)](https://www.amazon.es/dp/B07D4R96VG/?tag=tolees-21)
 
 ℹ️:
 

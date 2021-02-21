@@ -2,7 +2,7 @@
 layout: post
 title: 'The North Face T92TX3 Camiseta Easy  Hom con un 36.70 % de descuento'
 date: 2020-04-01 12:27:43
-image: 'https://m.media-amazon.com/images/I/418wkQ2VqML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418wkQ2VqML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.21'
 
 En este momento está [The North Face T92TX3 Camiseta Easy  Hombre  Multicolor  Tnfmdgyhtr  Std    M](https://www.amazon.es/dp/B01HMRR8F8/?tag=tolees-21) a 18.99 EUR (original: 30.0 EUR) (36.70 %  de descuento) en el siguiente enlace!
 
-[![The North Face T92TX3 Camiseta Easy  Hom](https://m.media-amazon.com/images/I/418wkQ2VqML._SL200_.jpg)](https://www.amazon.es/dp/B01HMRR8F8/?tag=tolees-21)
+[![The North Face T92TX3 Camiseta Easy  Hom](https://m.media-amazon.com/images/I/418wkQ2VqML._SL400_.jpg)](https://www.amazon.es/dp/B01HMRR8F8/?tag=tolees-21)
 
 🔎:
 

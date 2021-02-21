@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual TS Tropic Thoughts Camiseta  Ro al 31.95 % de rebaja'
 date: 2020-08-17 15:38:01
-image: 'https://m.media-amazon.com/images/I/41pl007Nv5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pl007Nv5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.99'
 
 Tienes [Desigual TS Tropic Thoughts Camiseta  Rojo  Fresa Acid 3089   Large para Mujer](https://www.amazon.es/dp/B07VFK2N44/?tag=tolees-21) con precio final de  33.99 EUR (original: 49.95 EUR) (31.95 %  de rebaja) aqui!
 
-[![Desigual TS Tropic Thoughts Camiseta  Ro](https://m.media-amazon.com/images/I/41pl007Nv5L._SL200_.jpg)](https://www.amazon.es/dp/B07VFK2N44/?tag=tolees-21)
+[![Desigual TS Tropic Thoughts Camiseta  Ro](https://m.media-amazon.com/images/I/41pl007Nv5L._SL400_.jpg)](https://www.amazon.es/dp/B07VFK2N44/?tag=tolees-21)
 
 🔎:
 

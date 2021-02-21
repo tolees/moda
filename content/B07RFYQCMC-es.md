@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW 3301 Mid Waist Skinny Vaquero al 89.64 % de descuento'
 date: 2020-06-16 03:35:55
-image: 'https://m.media-amazon.com/images/I/41MbumCW5yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MbumCW5yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.43'
 
 Ahora mismo tienes [G-STAR RAW 3301 Mid Waist Skinny Vaqueros  Faded Indigo Destroyed 8968-A949  W24/L36  Talla del Fabricante: 24W/ 36L  para Mujer](https://www.amazon.es/dp/B07RFYQCMC/?tag=tolees-21) a 12.43 EUR (original: 119.95 EUR) (89.64 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW 3301 Mid Waist Skinny Vaquero](https://m.media-amazon.com/images/I/41MbumCW5yL._SL200_.jpg)](https://www.amazon.es/dp/B07RFYQCMC/?tag=tolees-21)
+[![G-STAR RAW 3301 Mid Waist Skinny Vaquero](https://m.media-amazon.com/images/I/41MbumCW5yL._SL400_.jpg)](https://www.amazon.es/dp/B07RFYQCMC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Snake.2 A  Zapatillas para Hombre al 48.18 % de descuento'
 date: 2020-06-16 02:07:05
-image: 'https://m.media-amazon.com/images/I/414SC3yBoGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414SC3yBoGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.95'
 
 Está [Geox U Snake.2 A  Zapatillas para Hombre  Marrón  Cigar/Dk Avio C6l4k   39 EU](https://www.amazon.es/dp/B07M8S16YJ/?tag=tolees-21) con 48.18 de descuento por 56.95 EUR (original: 109.9 EUR) en el siguiente enlace!
 
-[![Geox U Snake.2 A  Zapatillas para Hombre](https://m.media-amazon.com/images/I/414SC3yBoGL._SL200_.jpg)](https://www.amazon.es/dp/B07M8S16YJ/?tag=tolees-21)
+[![Geox U Snake.2 A  Zapatillas para Hombre](https://m.media-amazon.com/images/I/414SC3yBoGL._SL400_.jpg)](https://www.amazon.es/dp/B07M8S16YJ/?tag=tolees-21)
 
 ℹ️:
 

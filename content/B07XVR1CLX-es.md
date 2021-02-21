@@ -2,7 +2,7 @@
 layout: post
 title: 'Esprit 119EE1G014 Abrigo  Azul  Navy 400 al 74.63 % de descuento'
 date: 2020-04-08 08:19:40
-image: 'https://m.media-amazon.com/images/I/31ynoSt-sNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ynoSt-sNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.37'
 
 Está [Esprit 119EE1G014 Abrigo  Azul  Navy 400   S para Mujer](https://www.amazon.es/dp/B07XVR1CLX/?tag=tolees-21) con 74.63 de descuento por 25.37 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Esprit 119EE1G014 Abrigo  Azul  Navy 400](https://m.media-amazon.com/images/I/31ynoSt-sNL._SL200_.jpg)](https://www.amazon.es/dp/B07XVR1CLX/?tag=tolees-21)
+[![Esprit 119EE1G014 Abrigo  Azul  Navy 400](https://m.media-amazon.com/images/I/31ynoSt-sNL._SL400_.jpg)](https://www.amazon.es/dp/B07XVR1CLX/?tag=tolees-21)
 
 ℹ️:
 

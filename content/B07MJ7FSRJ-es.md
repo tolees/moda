@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Un Larvik Lace  Zapatos de Cordon al 40.05 % de descuento'
 date: 2020-01-21 08:34:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/314OKVFMJML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314OKVFMJML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.95'
 
 Ahora mismo tienes [Clarks Un Larvik Lace  Zapatos de Cordones Derby para Hombre  Marrón Brown Leather  41 EU](https://www.amazon.es/dp/B07MJ7FSRJ/?tag=tolees-21) a 65.95 EUR (original: 110 EUR) (40.05 %  de descuento) en el siguiente enlace!
 
-[![Clarks Un Larvik Lace  Zapatos de Cordon](https://images-eu.ssl-images-amazon.com/images/I/314OKVFMJML._SL200_.jpg)](https://www.amazon.es/dp/B07MJ7FSRJ/?tag=tolees-21)
+[![Clarks Un Larvik Lace  Zapatos de Cordon](https://images-eu.ssl-images-amazon.com/images/I/314OKVFMJML._SL400_.jpg)](https://www.amazon.es/dp/B07MJ7FSRJ/?tag=tolees-21)
 
 🔎:
 

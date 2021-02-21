@@ -2,7 +2,7 @@
 layout: post
 title: 'Joma Atenas II Sudadera  Hombre  Melange al 50.43 % de rebaja'
 date: 2020-03-15 12:58:10
-image: 'https://m.media-amazon.com/images/I/4132XTu1gYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4132XTu1gYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.86'
 
 Tienes [Joma Atenas II Sudadera  Hombre  Melange  XL](https://www.amazon.es/dp/B07F9XTG4D/?tag=tolees-21) con precio final de  14.86 EUR (original: 29.98 EUR) (50.43 %  de rebaja) aqui!
 
-[![Joma Atenas II Sudadera  Hombre  Melange](https://m.media-amazon.com/images/I/4132XTu1gYL._SL200_.jpg)](https://www.amazon.es/dp/B07F9XTG4D/?tag=tolees-21)
+[![Joma Atenas II Sudadera  Hombre  Melange](https://m.media-amazon.com/images/I/4132XTu1gYL._SL400_.jpg)](https://www.amazon.es/dp/B07F9XTG4D/?tag=tolees-21)
 
 🔎:
 

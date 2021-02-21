@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 711 Vaqueros Skinny  Negro  Black con un 18.01 % de descuento'
 date: 2020-06-10 01:48:54
-image: 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.99'
 
 En este momento está [Levi s 711 Vaqueros Skinny  Negro  Black Sheen 0052   32W / 34L para Mujer](https://www.amazon.es/dp/B01E2F8ZXM/?tag=tolees-21) a 81.99 EUR (original: 100.0 EUR) (18.01 %  de descuento) en el siguiente enlace!
 
-[![Levi s 711 Vaqueros Skinny  Negro  Black](https://m.media-amazon.com/images/I/31YG6aZnSvL._SL200_.jpg)](https://www.amazon.es/dp/B01E2F8ZXM/?tag=tolees-21)
+[![Levi s 711 Vaqueros Skinny  Negro  Black](https://m.media-amazon.com/images/I/31YG6aZnSvL._SL400_.jpg)](https://www.amazon.es/dp/B01E2F8ZXM/?tag=tolees-21)
 
 🔎:
 

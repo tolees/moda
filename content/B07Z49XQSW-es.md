@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjeeric Puffer Collar Noos  al 53.54 % de rebaja'
 date: 2020-08-09 19:09:13
-image: 'https://m.media-amazon.com/images/I/41XW3QVySnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XW3QVySnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.58'
 
 Tienes [Jack & Jones Jjeeric Puffer Collar Noos Chaqueta  Rojo  Rot   Large para Hombre](https://www.amazon.es/dp/B07Z49XQSW/?tag=tolees-21) con precio final de  18.58 EUR (original: 39.99 EUR) (53.54 %  de rebaja) aqui!
 
-[![Jack & Jones Jjeeric Puffer Collar Noos ](https://m.media-amazon.com/images/I/41XW3QVySnL._SL200_.jpg)](https://www.amazon.es/dp/B07Z49XQSW/?tag=tolees-21)
+[![Jack & Jones Jjeeric Puffer Collar Noos ](https://m.media-amazon.com/images/I/41XW3QVySnL._SL400_.jpg)](https://www.amazon.es/dp/B07Z49XQSW/?tag=tolees-21)
 
 🔎:
 

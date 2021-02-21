@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Orig Hm Vneck Camiseta  Azul  Dre con un 36.04 % de descuento'
 date: 2020-09-25 11:55:45
-image: 'https://m.media-amazon.com/images/I/41D70kRIpgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D70kRIpgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 En este momento está [Levi s Orig Hm Vneck Camiseta  Azul  Dress Blues 0002   X-Large para Hombre](https://www.amazon.es/dp/B07SNV63SX/?tag=tolees-21) a 15.99 EUR (original: 25.0 EUR) (36.04 %  de descuento) en el siguiente enlace!
 
-[![Levi s Orig Hm Vneck Camiseta  Azul  Dre](https://m.media-amazon.com/images/I/41D70kRIpgL._SL200_.jpg)](https://www.amazon.es/dp/B07SNV63SX/?tag=tolees-21)
+[![Levi s Orig Hm Vneck Camiseta  Azul  Dre](https://m.media-amazon.com/images/I/41D70kRIpgL._SL400_.jpg)](https://www.amazon.es/dp/B07SNV63SX/?tag=tolees-21)
 
 🔎:
 

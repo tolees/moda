@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Camisa de Algodón Hombre  Azul  Na al 70.00 % de descuento'
 date: 2020-04-29 13:14:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41et1FZI7CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41et1FZI7CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.8'
 
 Está [find. Camisa de Algodón Hombre  Azul  Navy   54  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B073JQW7N6/?tag=tolees-21) con 70.00 de descuento por 7.8 EUR (original: 26 EUR) en el siguiente enlace!
 
-[![find. Camisa de Algodón Hombre  Azul  Na](https://images-eu.ssl-images-amazon.com/images/I/41et1FZI7CL._SL200_.jpg)](https://www.amazon.es/dp/B073JQW7N6/?tag=tolees-21)
+[![find. Camisa de Algodón Hombre  Azul  Na](https://images-eu.ssl-images-amazon.com/images/I/41et1FZI7CL._SL400_.jpg)](https://www.amazon.es/dp/B073JQW7N6/?tag=tolees-21)
 
 ℹ️:
 

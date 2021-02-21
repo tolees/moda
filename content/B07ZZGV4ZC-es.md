@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Jersey de Punto Fino de A al 42.92 % de rebaja'
 date: 2020-01-15 16:19:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wUNIrfCZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wUNIrfCZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Tienes [Charles Wilson Jersey de Punto Fino de Algodón Cuello Pico para Hombre  XX-Large  Dark Blue  1119  ](https://www.amazon.es/dp/B07ZZGV4ZC/?tag=tolees-21) con precio final de  19.95 EUR (original: 34.95 EUR) (42.92 %  de rebaja) aqui!
 
-[![Charles Wilson Jersey de Punto Fino de A](https://images-eu.ssl-images-amazon.com/images/I/41wUNIrfCZL._SL200_.jpg)](https://www.amazon.es/dp/B07ZZGV4ZC/?tag=tolees-21)
+[![Charles Wilson Jersey de Punto Fino de A](https://images-eu.ssl-images-amazon.com/images/I/41wUNIrfCZL._SL400_.jpg)](https://www.amazon.es/dp/B07ZZGV4ZC/?tag=tolees-21)
 
 🔎:
 

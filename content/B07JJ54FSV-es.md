@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon Essentials - Camisa a cuadros de  al 30.51 % de rebaja'
 date: 2020-05-23 12:06:28
-image: 'https://m.media-amazon.com/images/I/41z5ESZg0wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41z5ESZg0wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.19'
 
 Tienes [Amazon Essentials - Camisa a cuadros de lino con manga corta para hombre.  Raya Azul  US S  EU S ](https://www.amazon.es/dp/B07JJ54FSV/?tag=tolees-21) con precio final de  4.19 EUR (original: 6.03 EUR) (30.51 %  de rebaja) aqui!
 
-[![Amazon Essentials - Camisa a cuadros de ](https://m.media-amazon.com/images/I/41z5ESZg0wL._SL200_.jpg)](https://www.amazon.es/dp/B07JJ54FSV/?tag=tolees-21)
+[![Amazon Essentials - Camisa a cuadros de ](https://m.media-amazon.com/images/I/41z5ESZg0wL._SL400_.jpg)](https://www.amazon.es/dp/B07JJ54FSV/?tag=tolees-21)
 
 🔎:
 

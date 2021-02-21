@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Ch9623 Camisa  Azul  Marine/Mari al 29.36 % de descuento'
 date: 2020-06-10 14:12:28
-image: 'https://m.media-amazon.com/images/I/31v2gLZ2BZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31v2gLZ2BZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.74333333333333'
 
 Está [Lacoste Ch9623 Camisa  Azul  Marine/Marine 423   Medium  Talla del Fabricante: 39  para Hombre](https://www.amazon.es/dp/B07HX6FKPZ/?tag=tolees-21) con 29.36 de descuento por 77.0 EUR (original: 109.0 EUR) en el siguiente enlace!
 
-[![Lacoste Ch9623 Camisa  Azul  Marine/Mari](https://m.media-amazon.com/images/I/31v2gLZ2BZL._SL200_.jpg)](https://www.amazon.es/dp/B07HX6FKPZ/?tag=tolees-21)
+[![Lacoste Ch9623 Camisa  Azul  Marine/Mari](https://m.media-amazon.com/images/I/31v2gLZ2BZL._SL400_.jpg)](https://www.amazon.es/dp/B07HX6FKPZ/?tag=tolees-21)
 
 ℹ️:
 

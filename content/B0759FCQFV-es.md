@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Reggae-Zig Swag 48228  Chanclas al 38.46 % de rebaja'
 date: 2020-06-25 08:12:09
-image: 'https://m.media-amazon.com/images/I/41IRmJ0nCHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IRmJ0nCHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.43'
 
 Tienes [Skechers Reggae-Zig Swag 48228  Chanclas para Mujer  Azul  Navy   36.5 EU](https://www.amazon.es/dp/B0759FCQFV/?tag=tolees-21) con precio final de  14.43 EUR (original: 23.45 EUR) (38.46 %  de rebaja) aqui!
 
-[![Skechers Reggae-Zig Swag 48228  Chanclas](https://m.media-amazon.com/images/I/41IRmJ0nCHL._SL200_.jpg)](https://www.amazon.es/dp/B0759FCQFV/?tag=tolees-21)
+[![Skechers Reggae-Zig Swag 48228  Chanclas](https://m.media-amazon.com/images/I/41IRmJ0nCHL._SL400_.jpg)](https://www.amazon.es/dp/B0759FCQFV/?tag=tolees-21)
 
 🔎:
 

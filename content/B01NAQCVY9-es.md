@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Cross The Line tee Camiseta  Hombre al 20.00 % de rebaja'
 date: 2020-01-20 11:46:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fqEwxr%2BUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fqEwxr%2BUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.6'
 
 Tienes [Puma Cross The Line tee Camiseta  Hombre  Red White  XL](https://www.amazon.es/dp/B01NAQCVY9/?tag=tolees-21) con precio final de  9.6 EUR (original: 12 EUR) (20.00 %  de rebaja) aqui!
 
-[![Puma Cross The Line tee Camiseta  Hombre](https://images-eu.ssl-images-amazon.com/images/I/41fqEwxr%2BUL._SL200_.jpg)](https://www.amazon.es/dp/B01NAQCVY9/?tag=tolees-21)
+[![Puma Cross The Line tee Camiseta  Hombre](https://images-eu.ssl-images-amazon.com/images/I/41fqEwxr%2BUL._SL400_.jpg)](https://www.amazon.es/dp/B01NAQCVY9/?tag=tolees-21)
 
 🔎:
 

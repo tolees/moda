@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 39.92 % en PUMA Leadcat FTR  Sandalias deslizantes '
 date: 2020-08-11 11:12:19
-image: 'https://m.media-amazon.com/images/I/41ZWossZRbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZWossZRbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Tienes [PUMA Leadcat FTR  Sandalias deslizantes Unisex-Adulto  Negro Black Team Gold White  49.5 EU](https://www.amazon.es/dp/B07SD195SJ/?tag=tolees-21) con un 39.92 % de descuento con precio de oferta de 14.99 EUR (original: 24.95 EUR) en el siguiente enlace!
 
-[![PUMA Leadcat FTR  Sandalias deslizantes ](https://m.media-amazon.com/images/I/41ZWossZRbL._SL200_.jpg)](https://www.amazon.es/dp/B07SD195SJ/?tag=tolees-21)
+[![PUMA Leadcat FTR  Sandalias deslizantes ](https://m.media-amazon.com/images/I/41ZWossZRbL._SL400_.jpg)](https://www.amazon.es/dp/B07SD195SJ/?tag=tolees-21)
 
 ℹ️:
 

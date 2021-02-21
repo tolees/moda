@@ -2,7 +2,7 @@
 layout: post
 title: 'Vero Moda Vmhot SOYA LS Jacket Mix Noos  al 43.35 % de descuento'
 date: 2020-05-12 14:33:26
-image: 'https://m.media-amazon.com/images/I/41Z-ngnefNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z-ngnefNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.49'
 
 Está [Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta  Azul  Light Blue Denim Light Blue Denim   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B0751KDSXY/?tag=tolees-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Vero Moda Vmhot SOYA LS Jacket Mix Noos ](https://m.media-amazon.com/images/I/41Z-ngnefNL._SL200_.jpg)](https://www.amazon.es/dp/B0751KDSXY/?tag=tolees-21)
+[![Vero Moda Vmhot SOYA LS Jacket Mix Noos ](https://m.media-amazon.com/images/I/41Z-ngnefNL._SL400_.jpg)](https://www.amazon.es/dp/B0751KDSXY/?tag=tolees-21)
 
 ℹ️:
 

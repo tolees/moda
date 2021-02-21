@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual TS_Leopard Degrade Camiseta  Gr al 51.49 % de descuento'
 date: 2020-02-29 18:07:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ihogWfuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ihogWfuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.44'
 
 Está [Desigual TS_Leopard Degrade Camiseta  Gris  Gris Medio 2007   Medium para Mujer](https://www.amazon.es/dp/B06XQ3J6NF/?tag=tolees-21) con 51.49 de descuento por 17.44 EUR (original: 35.95 EUR) en el siguiente enlace!
 
-[![Desigual TS_Leopard Degrade Camiseta  Gr](https://images-eu.ssl-images-amazon.com/images/I/41-ihogWfuL._SL200_.jpg)](https://www.amazon.es/dp/B06XQ3J6NF/?tag=tolees-21)
+[![Desigual TS_Leopard Degrade Camiseta  Gr](https://images-eu.ssl-images-amazon.com/images/I/41-ihogWfuL._SL400_.jpg)](https://www.amazon.es/dp/B06XQ3J6NF/?tag=tolees-21)
 
 ℹ️:
 

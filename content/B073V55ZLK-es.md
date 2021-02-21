@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 65.68 % en OPUS Seconda Camiseta de Manga Larga  Ro'
 date: 2020-01-15 12:57:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41TuNXCaukL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TuNXCaukL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.15'
 
 Tienes [OPUS Seconda Camiseta de Manga Larga  Rosa  Pink Melange 4069   38 para Mujer](https://www.amazon.es/dp/B073V55ZLK/?tag=tolees-21) con un 65.68 % de descuento con precio de oferta de 13.15 EUR (original: 38.32 EUR) en el siguiente enlace!
 
-[![OPUS Seconda Camiseta de Manga Larga  Ro](https://images-eu.ssl-images-amazon.com/images/I/41TuNXCaukL._SL200_.jpg)](https://www.amazon.es/dp/B073V55ZLK/?tag=tolees-21)
+[![OPUS Seconda Camiseta de Manga Larga  Ro](https://images-eu.ssl-images-amazon.com/images/I/41TuNXCaukL._SL400_.jpg)](https://www.amazon.es/dp/B073V55ZLK/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Nautical Print Beach Sand al 54.98 % de rebaja'
 date: 2020-08-27 09:39:16
-image: 'https://m.media-amazon.com/images/I/51+BtrxbU-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+BtrxbU-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.46'
 
 Tienes [Tommy Hilfiger Nautical Print Beach Sandal  Sandalias con Punta Abierta para Hombre  Rojo  Primary Red XLG   42 EU](https://www.amazon.es/dp/B07V8VD4BG/?tag=tolees-21) con precio final de  13.46 EUR (original: 29.9 EUR) (54.98 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Nautical Print Beach Sand](https://m.media-amazon.com/images/I/51+BtrxbU-L._SL200_.jpg)](https://www.amazon.es/dp/B07V8VD4BG/?tag=tolees-21)
+[![Tommy Hilfiger Nautical Print Beach Sand](https://m.media-amazon.com/images/I/51+BtrxbU-L._SL400_.jpg)](https://www.amazon.es/dp/B07V8VD4BG/?tag=tolees-21)
 
 🔎:
 

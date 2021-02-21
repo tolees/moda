@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Graphic Sportstyle Fashion  al 22.22 % de descuento'
 date: 2020-04-14 09:48:31
-image: 'https://m.media-amazon.com/images/I/319qL+qkItL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319qL+qkItL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.38'
 
 Ahora mismo tienes [Under Armour Graphic Sportstyle Fashion SSC Camiseta  Mujer  Blanco  Onyx White/Black 112   XS](https://www.amazon.es/dp/B07KSJBVPC/?tag=tolees-21) a 9.38 EUR (original: 12.06 EUR) (22.22 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Graphic Sportstyle Fashion ](https://m.media-amazon.com/images/I/319qL+qkItL._SL200_.jpg)](https://www.amazon.es/dp/B07KSJBVPC/?tag=tolees-21)
+[![Under Armour Graphic Sportstyle Fashion ](https://m.media-amazon.com/images/I/319qL+qkItL._SL400_.jpg)](https://www.amazon.es/dp/B07KSJBVPC/?tag=tolees-21)
 
 🔎:
 

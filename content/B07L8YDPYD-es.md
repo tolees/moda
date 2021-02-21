@@ -2,7 +2,7 @@
 layout: post
 title: 'REPLAY W3114 .000.22672 Sudadera  Dorado con un 79.91 % de descuento'
 date: 2020-02-12 16:28:43
-image: 'https://m.media-amazon.com/images/I/41+yCwKhA1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+yCwKhA1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.89'
 
 En este momento está [REPLAY W3114 .000.22672 Sudadera  Dorado  Dark Gold Lurex 20   Medium para Mujer](https://www.amazon.es/dp/B07L8YDPYD/?tag=tolees-21) a 19.89 EUR (original: 99.0 EUR) (79.91 %  de descuento) en el siguiente enlace!
 
-[![REPLAY W3114 .000.22672 Sudadera  Dorado](https://m.media-amazon.com/images/I/41+yCwKhA1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L8YDPYD/?tag=tolees-21)
+[![REPLAY W3114 .000.22672 Sudadera  Dorado](https://m.media-amazon.com/images/I/41+yCwKhA1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L8YDPYD/?tag=tolees-21)
 
 🔎:
 

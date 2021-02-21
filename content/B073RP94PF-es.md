@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Crew Windbreaker Chaqueta   al 47.41 % de rebaja'
 date: 2020-04-27 00:59:53
-image: 'https://m.media-amazon.com/images/I/41ZitQ8kCHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZitQ8kCHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.37'
 
 Tienes [Helly Hansen Crew Windbreaker Chaqueta  Hombre  Navy  S](https://www.amazon.es/dp/B073RP94PF/?tag=tolees-21) con precio final de  68.37 EUR (original: 130.0 EUR) (47.41 %  de rebaja) aqui!
 
-[![Helly Hansen Crew Windbreaker Chaqueta  ](https://m.media-amazon.com/images/I/41ZitQ8kCHL._SL200_.jpg)](https://www.amazon.es/dp/B073RP94PF/?tag=tolees-21)
+[![Helly Hansen Crew Windbreaker Chaqueta  ](https://m.media-amazon.com/images/I/41ZitQ8kCHL._SL400_.jpg)](https://www.amazon.es/dp/B073RP94PF/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones JORHARDY Light Puffer Chaqu al 30.29 % de descuento'
 date: 2020-04-27 14:00:36
-image: 'https://m.media-amazon.com/images/I/411JjIwHLsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411JjIwHLsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.618000000000002'
 
 Ahora mismo tienes [Jack & Jones JORHARDY Light Puffer Chaqueta  Rojo  Detalles Escarlata: sólido   M para Hombre](https://www.amazon.es/dp/B07VPFWWPR/?tag=tolees-21) a 18.39 EUR (original: 26.38 EUR) (30.29 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones JORHARDY Light Puffer Chaqu](https://m.media-amazon.com/images/I/411JjIwHLsL._SL200_.jpg)](https://www.amazon.es/dp/B07VPFWWPR/?tag=tolees-21)
+[![Jack & Jones JORHARDY Light Puffer Chaqu](https://m.media-amazon.com/images/I/411JjIwHLsL._SL400_.jpg)](https://www.amazon.es/dp/B07VPFWWPR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Ruckel Ridge Plus Waterproof  Z con un 39.18 % de descuento'
 date: 2020-03-11 14:46:39
-image: 'https://m.media-amazon.com/images/I/31fmh-ymfaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fmh-ymfaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.98'
 
 En este momento está [Columbia Ruckel Ridge Plus Waterproof  Zapatos Impermeables de Senderismo para Hombre  Negro  Shark  Bright Copper 011   48 EU](https://www.amazon.es/dp/B07FWF2XG8/?tag=tolees-21) a 72.98 EUR (original: 119.99 EUR) (39.18 %  de descuento) en el siguiente enlace!
 
-[![Columbia Ruckel Ridge Plus Waterproof  Z](https://m.media-amazon.com/images/I/31fmh-ymfaL._SL200_.jpg)](https://www.amazon.es/dp/B07FWF2XG8/?tag=tolees-21)
+[![Columbia Ruckel Ridge Plus Waterproof  Z](https://m.media-amazon.com/images/I/31fmh-ymfaL._SL400_.jpg)](https://www.amazon.es/dp/B07FWF2XG8/?tag=tolees-21)
 
 🔎:
 

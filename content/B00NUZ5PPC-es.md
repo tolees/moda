@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 41.42 % en Pepe Jeans Venus Vaqueros  Azul  10Oz Au'
 date: 2020-04-07 07:04:26
-image: 'https://m.media-amazon.com/images/I/41LWAZFprhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LWAZFprhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.99'
 
 Tienes [Pepe Jeans Venus Vaqueros  Azul  10Oz Authentic Rope Str Med D24   28W / 32L para Mujer](https://www.amazon.es/dp/B00NUZ5PPC/?tag=tolees-21) con un 41.42 % de descuento con precio de oferta de 57.99 EUR (original: 99.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Venus Vaqueros  Azul  10Oz Au](https://m.media-amazon.com/images/I/41LWAZFprhL._SL200_.jpg)](https://www.amazon.es/dp/B00NUZ5PPC/?tag=tolees-21)
+[![Pepe Jeans Venus Vaqueros  Azul  10Oz Au](https://m.media-amazon.com/images/I/41LWAZFprhL._SL400_.jpg)](https://www.amazon.es/dp/B00NUZ5PPC/?tag=tolees-21)
 
 ℹ️:
 

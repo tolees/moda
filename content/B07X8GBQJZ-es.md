@@ -2,7 +2,7 @@
 layout: post
 title: 'SHIELDON Funda Portátil 13.5 Pulgadas  M con un 50.02 % de descuento'
 date: 2020-06-01 08:18:53
-image: 'https://m.media-amazon.com/images/I/41ZOJv6HI2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZOJv6HI2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 En este momento está [SHIELDON Funda Portátil 13.5 Pulgadas  Maletín Portatil Impermeable Funda Protectora para iPad Pro 12.9  MacBook Air  MacBook Pro  Surface Book2  ASUS  HP  Bolso Funda para Ordenador Portátil  Negro](https://www.amazon.es/dp/B07X8GBQJZ/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!
 
-[![SHIELDON Funda Portátil 13.5 Pulgadas  M](https://m.media-amazon.com/images/I/41ZOJv6HI2L._SL200_.jpg)](https://www.amazon.es/dp/B07X8GBQJZ/?tag=tolees-21)
+[![SHIELDON Funda Portátil 13.5 Pulgadas  M](https://m.media-amazon.com/images/I/41ZOJv6HI2L._SL400_.jpg)](https://www.amazon.es/dp/B07X8GBQJZ/?tag=tolees-21)
 
 🔎:
 

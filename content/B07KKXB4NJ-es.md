@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Y Hoodie FZ FLC TM Club19 Sudadera  al 22.38 % de rebaja'
 date: 2020-05-27 09:55:46
-image: 'https://m.media-amazon.com/images/I/51ZmxCkPh4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZmxCkPh4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.683333333333334'
 
 Tienes [Nike Y Hoodie FZ FLC TM Club19 Sudadera  Unisex niños  Gris  Black/Grey   M](https://www.amazon.es/dp/B07KKXB4NJ/?tag=tolees-21) con precio final de  34.93 EUR (original: 45.0 EUR) (22.38 %  de rebaja) aqui!
 
-[![Nike Y Hoodie FZ FLC TM Club19 Sudadera ](https://m.media-amazon.com/images/I/51ZmxCkPh4L._SL200_.jpg)](https://www.amazon.es/dp/B07KKXB4NJ/?tag=tolees-21)
+[![Nike Y Hoodie FZ FLC TM Club19 Sudadera ](https://m.media-amazon.com/images/I/51ZmxCkPh4L._SL400_.jpg)](https://www.amazon.es/dp/B07KKXB4NJ/?tag=tolees-21)
 
 🔎:
 

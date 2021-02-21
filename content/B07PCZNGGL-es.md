@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Heritage Crew Neck Sweats al 43.01 % de descuento'
 date: 2020-05-13 11:02:16
-image: 'https://m.media-amazon.com/images/I/41RBvkTfLZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RBvkTfLZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.23'
 
 Ahora mismo tienes [Tommy Hilfiger Heritage Crew Neck Sweatshirt Sudadera  Negro  Masters Black 017   XX-Small para Mujer](https://www.amazon.es/dp/B07PCZNGGL/?tag=tolees-21) a 51.23 EUR (original: 89.9 EUR) (43.01 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Heritage Crew Neck Sweats](https://m.media-amazon.com/images/I/41RBvkTfLZL._SL200_.jpg)](https://www.amazon.es/dp/B07PCZNGGL/?tag=tolees-21)
+[![Tommy Hilfiger Heritage Crew Neck Sweats](https://m.media-amazon.com/images/I/41RBvkTfLZL._SL400_.jpg)](https://www.amazon.es/dp/B07PCZNGGL/?tag=tolees-21)
 
 🔎:
 

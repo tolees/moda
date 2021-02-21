@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.75 % en Jack & Jones Jjeliam Leather Jacket Noos'
 date: 2020-05-21 08:25:14
-image: 'https://m.media-amazon.com/images/I/41j49rX4k2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41j49rX4k2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '138.49'
 
 Tienes [Jack & Jones Jjeliam Leather Jacket Noos Chaqueta  Negro  Black Black   Medium para Hombre](https://www.amazon.es/dp/B07RZ7S5JV/?tag=tolees-21) con un 30.75 % de descuento con precio de oferta de 138.49 EUR (original: 199.99 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jjeliam Leather Jacket Noos](https://m.media-amazon.com/images/I/41j49rX4k2L._SL200_.jpg)](https://www.amazon.es/dp/B07RZ7S5JV/?tag=tolees-21)
+[![Jack & Jones Jjeliam Leather Jacket Noos](https://m.media-amazon.com/images/I/41j49rX4k2L._SL400_.jpg)](https://www.amazon.es/dp/B07RZ7S5JV/?tag=tolees-21)
 
 ℹ️:
 

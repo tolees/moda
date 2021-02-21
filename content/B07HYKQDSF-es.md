@@ -2,7 +2,7 @@
 layout: post
 title: 'HAWKERS · ONE LS · Burgundy · Dark · Gaf al 21.19 % de descuento'
 date: 2020-04-10 21:06:13
-image: 'https://m.media-amazon.com/images/I/310Zmjab5XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310Zmjab5XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.22'
 
 Ahora mismo tienes [HAWKERS · ONE LS · Burgundy · Dark · Gafas de sol para hombre y mujer](https://www.amazon.es/dp/B07HYKQDSF/?tag=tolees-21) a 14.13 EUR (original: 17.93 EUR) (21.19 %  de descuento) en el siguiente enlace!
 
-[![HAWKERS · ONE LS · Burgundy · Dark · Gaf](https://m.media-amazon.com/images/I/310Zmjab5XL._SL200_.jpg)](https://www.amazon.es/dp/B07HYKQDSF/?tag=tolees-21)
+[![HAWKERS · ONE LS · Burgundy · Dark · Gaf](https://m.media-amazon.com/images/I/310Zmjab5XL._SL400_.jpg)](https://www.amazon.es/dp/B07HYKQDSF/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Abrigo Cruzado de C al 28.95 % de descuento'
 date: 2020-09-08 02:31:35
-image: 'https://m.media-amazon.com/images/I/41E8+bBA87L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41E8+bBA87L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.1'
 
 Está [Marca Amazon - find. Abrigo Cruzado de Cuadros Hombre  Rojo  Red   M  Label: M](https://www.amazon.es/dp/B07MLVR1NB/?tag=tolees-21) con 28.95 de descuento por 16.1 EUR (original: 22.66 EUR) en el siguiente enlace!
 
-[![Marca Amazon - find. Abrigo Cruzado de C](https://m.media-amazon.com/images/I/41E8+bBA87L._SL200_.jpg)](https://www.amazon.es/dp/B07MLVR1NB/?tag=tolees-21)
+[![Marca Amazon - find. Abrigo Cruzado de C](https://m.media-amazon.com/images/I/41E8+bBA87L._SL400_.jpg)](https://www.amazon.es/dp/B07MLVR1NB/?tag=tolees-21)
 
 ℹ️:
 

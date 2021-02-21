@@ -2,7 +2,7 @@
 layout: post
 title: 'SELECTED HOMME Slhcolor Block Jacket W C al 82.56 % de descuento'
 date: 2020-03-12 11:57:37
-image: 'https://m.media-amazon.com/images/I/416uSGnpGeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416uSGnpGeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.44'
 
 Está [SELECTED HOMME Slhcolor Block Jacket W Chaqueta   Turtle Detail:Black   S para Hombre](https://www.amazon.es/dp/B07VFNK1MG/?tag=tolees-21) con 82.56 de descuento por 17.44 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![SELECTED HOMME Slhcolor Block Jacket W C](https://m.media-amazon.com/images/I/416uSGnpGeL._SL200_.jpg)](https://www.amazon.es/dp/B07VFNK1MG/?tag=tolees-21)
+[![SELECTED HOMME Slhcolor Block Jacket W C](https://m.media-amazon.com/images/I/416uSGnpGeL._SL400_.jpg)](https://www.amazon.es/dp/B07VFNK1MG/?tag=tolees-21)
 
 ℹ️:
 

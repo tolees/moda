@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Isabella T-Strap  Sandalias de Pun con un 54.99 % de descuento'
 date: 2020-08-27 19:03:59
-image: 'https://m.media-amazon.com/images/I/312tBQivXNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312tBQivXNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.4'
 
 En este momento está [Crocs Isabella T-Strap  Sandalias de Punta Descubierta para Mujer  Naranja  Cantaloupe 801   42/43 EU](https://www.amazon.es/dp/B07SBB8F33/?tag=tolees-21) a 18.0 EUR (original: 39.99 EUR) (54.99 %  de descuento) en el siguiente enlace!
 
-[![Crocs Isabella T-Strap  Sandalias de Pun](https://m.media-amazon.com/images/I/312tBQivXNL._SL200_.jpg)](https://www.amazon.es/dp/B07SBB8F33/?tag=tolees-21)
+[![Crocs Isabella T-Strap  Sandalias de Pun](https://m.media-amazon.com/images/I/312tBQivXNL._SL400_.jpg)](https://www.amazon.es/dp/B07SBB8F33/?tag=tolees-21)
 
 🔎:
 

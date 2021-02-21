@@ -2,7 +2,7 @@
 layout: post
 title: 'Marvel Grafiti Bolso Bandolera  19 cm  2 con un 15.47 % de descuento'
 date: 2020-04-14 18:10:47
-image: 'https://m.media-amazon.com/images/I/61xhy3pyp1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61xhy3pyp1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.98'
 
 En este momento está [Marvel Grafiti Bolso Bandolera  19 cm  2.85 litros  Multicolor](https://www.amazon.es/dp/B07F923FRX/?tag=tolees-21) a 10.98 EUR (original: 12.99 EUR) (15.47 %  de descuento) en el siguiente enlace!
 
-[![Marvel Grafiti Bolso Bandolera  19 cm  2](https://m.media-amazon.com/images/I/61xhy3pyp1L._SL200_.jpg)](https://www.amazon.es/dp/B07F923FRX/?tag=tolees-21)
+[![Marvel Grafiti Bolso Bandolera  19 cm  2](https://m.media-amazon.com/images/I/61xhy3pyp1L._SL400_.jpg)](https://www.amazon.es/dp/B07F923FRX/?tag=tolees-21)
 
 🔎:
 

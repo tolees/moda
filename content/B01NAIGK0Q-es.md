@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 51.94 % en KRISP 6252-GRY-18  Vestido Corto Patinad'
 date: 2020-01-12 17:15:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41S097vM1DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S097vM1DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.24'
 
 Tienes [KRISP 6252-GRY-18  Vestido Corto Patinadora Vuelo Fruncido Busto  Gris  6252   46](https://www.amazon.es/dp/B01NAIGK0Q/?tag=tolees-21) con un 51.94 % de descuento con precio de oferta de 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!
 
-[![KRISP 6252-GRY-18  Vestido Corto Patinad](https://images-eu.ssl-images-amazon.com/images/I/41S097vM1DL._SL200_.jpg)](https://www.amazon.es/dp/B01NAIGK0Q/?tag=tolees-21)
+[![KRISP 6252-GRY-18  Vestido Corto Patinad](https://images-eu.ssl-images-amazon.com/images/I/41S097vM1DL._SL400_.jpg)](https://www.amazon.es/dp/B01NAIGK0Q/?tag=tolees-21)
 
 ℹ️:
 

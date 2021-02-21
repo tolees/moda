@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Tjw Clean Linear Logo tee al 40.03 % de descuento'
 date: 2020-04-07 16:05:58
-image: 'https://m.media-amazon.com/images/I/41d7xoyFlOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41d7xoyFlOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.99'
 
 Está [Tommy Hilfiger Tjw Clean Linear Logo tee Camiseta   Purple VF E   X-Large para Mujer](https://www.amazon.es/dp/B07N4VXN56/?tag=tolees-21) con 40.03 de descuento por 20.99 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Tjw Clean Linear Logo tee](https://m.media-amazon.com/images/I/41d7xoyFlOL._SL200_.jpg)](https://www.amazon.es/dp/B07N4VXN56/?tag=tolees-21)
+[![Tommy Hilfiger Tjw Clean Linear Logo tee](https://m.media-amazon.com/images/I/41d7xoyFlOL._SL400_.jpg)](https://www.amazon.es/dp/B07N4VXN56/?tag=tolees-21)
 
 ℹ️:
 

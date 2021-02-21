@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma ESS Logo tee Camiseta Deportiva  Mu al 31.63 % de descuento'
 date: 2020-02-24 11:03:26
-image: 'https://m.media-amazon.com/images/I/41yeGKT51jL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yeGKT51jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.565000000000001'
 
 Ahora mismo tienes [Puma ESS Logo tee Camiseta Deportiva  Mujer  Blanco White  S](https://www.amazon.es/dp/B07D5VCJ2Q/?tag=tolees-21) a 13.64 EUR (original: 19.95 EUR) (31.63 %  de descuento) en el siguiente enlace!
 
-[![Puma ESS Logo tee Camiseta Deportiva  Mu](https://m.media-amazon.com/images/I/41yeGKT51jL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07D5VCJ2Q/?tag=tolees-21)
+[![Puma ESS Logo tee Camiseta Deportiva  Mu](https://m.media-amazon.com/images/I/41yeGKT51jL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07D5VCJ2Q/?tag=tolees-21)
 
 🔎:
 

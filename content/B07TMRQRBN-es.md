@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Paulson Plain  Zapatos de Cordone al 20.00 % de descuento'
 date: 2020-09-04 08:15:43
-image: 'https://m.media-amazon.com/images/I/41azqzEYf1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41azqzEYf1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.96'
 
 Ahora mismo tienes [Clarks Paulson Plain  Zapatos de Cordones Derby para Hombre  Marrón  Tan Suede Tan Suede   39.5 EU](https://www.amazon.es/dp/B07TMRQRBN/?tag=tolees-21) a 71.96 EUR (original: 89.95 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Clarks Paulson Plain  Zapatos de Cordone](https://m.media-amazon.com/images/I/41azqzEYf1L._SL200_.jpg)](https://www.amazon.es/dp/B07TMRQRBN/?tag=tolees-21)
+[![Clarks Paulson Plain  Zapatos de Cordone](https://m.media-amazon.com/images/I/41azqzEYf1L._SL400_.jpg)](https://www.amazon.es/dp/B07TMRQRBN/?tag=tolees-21)
 
 🔎:
 

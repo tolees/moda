@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 230  Zapatos de Playa y Pisc al 40.00 % de rebaja'
 date: 2020-01-07 05:28:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31pPKZzw1WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pPKZzw1WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15'
 
 Tienes [New Balance 230  Zapatos de Playa y Piscina Unisex Adulto  Negro  Black/White BK   44 EU](https://www.amazon.es/dp/B07DJ2LFP9/?tag=tolees-21) con precio final de  15 EUR (original: 25 EUR) (40.00 %  de rebaja) aqui!
 
-[![New Balance 230  Zapatos de Playa y Pisc](https://images-eu.ssl-images-amazon.com/images/I/31pPKZzw1WL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ2LFP9/?tag=tolees-21)
+[![New Balance 230  Zapatos de Playa y Pisc](https://images-eu.ssl-images-amazon.com/images/I/31pPKZzw1WL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ2LFP9/?tag=tolees-21)
 
 🔎:
 

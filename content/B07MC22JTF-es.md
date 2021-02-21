@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D BACKSIE B ABX C  Botas de Nieve p al 45.52 % de descuento'
 date: 2020-09-30 01:09:24
-image: 'https://m.media-amazon.com/images/I/41BMDVdXMFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BMDVdXMFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.0'
 
 Ahora mismo tienes [Geox D BACKSIE B ABX C  Botas de Nieve para Mujer  Beige  Chestnut C6004   37 EU](https://www.amazon.es/dp/B07MC22JTF/?tag=tolees-21) a 79.0 EUR (original: 145.0 EUR) (45.52 %  de descuento) en el siguiente enlace!
 
-[![Geox D BACKSIE B ABX C  Botas de Nieve p](https://m.media-amazon.com/images/I/41BMDVdXMFL._SL200_.jpg)](https://www.amazon.es/dp/B07MC22JTF/?tag=tolees-21)
+[![Geox D BACKSIE B ABX C  Botas de Nieve p](https://m.media-amazon.com/images/I/41BMDVdXMFL._SL400_.jpg)](https://www.amazon.es/dp/B07MC22JTF/?tag=tolees-21)
 
 🔎:
 

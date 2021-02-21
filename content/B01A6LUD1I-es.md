@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Classic Lined Clog  Zuecos Unisex  al 26.09 % de descuento'
 date: 2020-02-17 16:28:36
-image: 'https://m.media-amazon.com/images/I/41d2r7shH9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41d2r7shH9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.275'
 
 Está [Crocs Classic Lined Clog  Zuecos Unisex Adulto  Azul  Navy/Charcoal   36/37 EU](https://www.amazon.es/dp/B01A6LUD1I/?tag=tolees-21) con 26.09 de descuento por 33.25 EUR (original: 44.99 EUR) en el siguiente enlace!
 
-[![Crocs Classic Lined Clog  Zuecos Unisex ](https://m.media-amazon.com/images/I/41d2r7shH9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01A6LUD1I/?tag=tolees-21)
+[![Crocs Classic Lined Clog  Zuecos Unisex ](https://m.media-amazon.com/images/I/41d2r7shH9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01A6LUD1I/?tag=tolees-21)
 
 ℹ️:
 

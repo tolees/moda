@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 64.22 % en Pepe Jeans New Brooke Vaqueros  Azul  10'
 date: 2020-07-25 10:01:27
-image: 'https://m.media-amazon.com/images/I/415MaCHSa7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415MaCHSa7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.99'
 
 Tienes [Pepe Jeans New Brooke Vaqueros  Azul  10Oz Str 8Dip Royal Dk   33W/32L para Mujer](https://www.amazon.es/dp/B01MDSQ0B5/?tag=tolees-21) con un 64.22 % de descuento con precio de oferta de 33.99 EUR (original: 95.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans New Brooke Vaqueros  Azul  10](https://m.media-amazon.com/images/I/415MaCHSa7L._SL200_.jpg)](https://www.amazon.es/dp/B01MDSQ0B5/?tag=tolees-21)
+[![Pepe Jeans New Brooke Vaqueros  Azul  10](https://m.media-amazon.com/images/I/415MaCHSa7L._SL400_.jpg)](https://www.amazon.es/dp/B01MDSQ0B5/?tag=tolees-21)
 
 ℹ️:
 

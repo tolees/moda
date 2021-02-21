@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Armour Insulated Chaqueta   con un 39.74 % de descuento'
 date: 2020-01-23 08:39:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hV%2B8e4hBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hV%2B8e4hBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.65'
 
 En este momento está [Under Armour Armour Insulated Chaqueta  Hombre  Verde  XL](https://www.amazon.es/dp/B07L6KRP13/?tag=tolees-21) a 72.31 EUR (original: 120 EUR) (39.74 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Armour Insulated Chaqueta  ](https://images-eu.ssl-images-amazon.com/images/I/41hV%2B8e4hBL._SL200_.jpg)](https://www.amazon.es/dp/B07L6KRP13/?tag=tolees-21)
+[![Under Armour Armour Insulated Chaqueta  ](https://images-eu.ssl-images-amazon.com/images/I/41hV%2B8e4hBL._SL400_.jpg)](https://www.amazon.es/dp/B07L6KRP13/?tag=tolees-21)
 
 🔎:
 

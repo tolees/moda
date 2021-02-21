@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Originals Sudadera Algodó con un 50.07 % de descuento'
 date: 2020-08-09 13:05:47
-image: 'https://m.media-amazon.com/images/I/41A3fgdmOkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41A3fgdmOkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.95'
 
 En este momento está [Charles Wilson Originals Sudadera Algodón Ligera Capucha Cremallera  Small  Deep Navy  0819  ](https://www.amazon.es/dp/B07WSXQB48/?tag=tolees-21) a 18.95 EUR (original: 37.95 EUR) (50.07 %  de descuento) en el siguiente enlace!
 
-[![Charles Wilson Originals Sudadera Algodó](https://m.media-amazon.com/images/I/41A3fgdmOkL._SL200_.jpg)](https://www.amazon.es/dp/B07WSXQB48/?tag=tolees-21)
+[![Charles Wilson Originals Sudadera Algodó](https://m.media-amazon.com/images/I/41A3fgdmOkL._SL400_.jpg)](https://www.amazon.es/dp/B07WSXQB48/?tag=tolees-21)
 
 🔎:
 

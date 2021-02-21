@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Jeans Tjw Tommy Fairisle Sweater S con un 50.39 % de descuento'
 date: 2020-01-17 13:43:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51JJbibLlWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JJbibLlWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64'
 
 En este momento está [Tommy Jeans Tjw Tommy Fairisle Sweater Sudadera  Blanco  White Yap   Small para Mujer](https://www.amazon.es/dp/B07N4WW7X8/?tag=tolees-21) a 64 EUR (original: 129 EUR) (50.39 %  de descuento) en el siguiente enlace!
 
-[![Tommy Jeans Tjw Tommy Fairisle Sweater S](https://images-eu.ssl-images-amazon.com/images/I/51JJbibLlWL._SL200_.jpg)](https://www.amazon.es/dp/B07N4WW7X8/?tag=tolees-21)
+[![Tommy Jeans Tjw Tommy Fairisle Sweater S](https://images-eu.ssl-images-amazon.com/images/I/51JJbibLlWL._SL400_.jpg)](https://www.amazon.es/dp/B07N4WW7X8/?tag=tolees-21)
 
 🔎:
 

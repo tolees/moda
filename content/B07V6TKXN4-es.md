@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Basic Opened Toe High Wed al 16.91 % de rebaja'
 date: 2020-08-15 22:26:16
-image: 'https://m.media-amazon.com/images/I/41sBxPvA7LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sBxPvA7LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.56'
 
 Tienes [Tommy Hilfiger Basic Opened Toe High Wedge  Sandalias con Punta Abierta para Mujer  Negro  Black Bds   41 EU](https://www.amazon.es/dp/B07V6TKXN4/?tag=tolees-21) con precio final de  36.56 EUR (original: 44.0 EUR) (16.91 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Basic Opened Toe High Wed](https://m.media-amazon.com/images/I/41sBxPvA7LL._SL200_.jpg)](https://www.amazon.es/dp/B07V6TKXN4/?tag=tolees-21)
+[![Tommy Hilfiger Basic Opened Toe High Wed](https://m.media-amazon.com/images/I/41sBxPvA7LL._SL400_.jpg)](https://www.amazon.es/dp/B07V6TKXN4/?tag=tolees-21)
 
 🔎:
 

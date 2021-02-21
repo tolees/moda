@@ -2,7 +2,7 @@
 layout: post
 title: 'Quiksilver New Slang - Camiseta para Hom al 39.62 % de rebaja'
 date: 2020-07-14 10:11:37
-image: 'https://m.media-amazon.com/images/I/416Eae9uvJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416Eae9uvJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.07'
 
 Tienes [Quiksilver New Slang - Camiseta para Hombre Screen tee  Hombre  Redwood  XS](https://www.amazon.es/dp/B0825N9FGP/?tag=tolees-21) con precio final de  12.07 EUR (original: 19.99 EUR) (39.62 %  de rebaja) aqui!
 
-[![Quiksilver New Slang - Camiseta para Hom](https://m.media-amazon.com/images/I/416Eae9uvJL._SL200_.jpg)](https://www.amazon.es/dp/B0825N9FGP/?tag=tolees-21)
+[![Quiksilver New Slang - Camiseta para Hom](https://m.media-amazon.com/images/I/416Eae9uvJL._SL400_.jpg)](https://www.amazon.es/dp/B0825N9FGP/?tag=tolees-21)
 
 🔎:
 

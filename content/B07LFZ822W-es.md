@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox J INEK Boy C  Zapatillas para Niños al 24.04 % de descuento'
 date: 2020-04-14 11:02:35
-image: 'https://m.media-amazon.com/images/I/417jZNSQFQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417jZNSQFQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.415'
 
 Ahora mismo tienes [Geox J INEK Boy C  Zapatillas para Niños  Negro  Black/Orange C0038   24 EU](https://www.amazon.es/dp/B07LFZ822W/?tag=tolees-21) a 45.5 EUR (original: 59.9 EUR) (24.04 %  de descuento) en el siguiente enlace!
 
-[![Geox J INEK Boy C  Zapatillas para Niños](https://m.media-amazon.com/images/I/417jZNSQFQL._SL200_.jpg)](https://www.amazon.es/dp/B07LFZ822W/?tag=tolees-21)
+[![Geox J INEK Boy C  Zapatillas para Niños](https://m.media-amazon.com/images/I/417jZNSQFQL._SL400_.jpg)](https://www.amazon.es/dp/B07LFZ822W/?tag=tolees-21)
 
 🔎:
 

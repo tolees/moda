@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Vapor Vent  Zapatos para Hombre al 35.00 % de descuento'
 date: 2020-05-11 08:06:03
-image: 'https://m.media-amazon.com/images/I/41J2CaQseSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41J2CaQseSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.99'
 
 Está [Columbia Vapor Vent  Zapatos para Hombre  Azul  Pool/Red Quartz 421   42.5 EU](https://www.amazon.es/dp/B07RZV6NZ1/?tag=tolees-21) con 35.00 de descuento por 51.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![Columbia Vapor Vent  Zapatos para Hombre](https://m.media-amazon.com/images/I/41J2CaQseSL._SL200_.jpg)](https://www.amazon.es/dp/B07RZV6NZ1/?tag=tolees-21)
+[![Columbia Vapor Vent  Zapatos para Hombre](https://m.media-amazon.com/images/I/41J2CaQseSL._SL400_.jpg)](https://www.amazon.es/dp/B07RZV6NZ1/?tag=tolees-21)
 
 ℹ️:
 

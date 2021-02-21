@@ -2,7 +2,7 @@
 layout: post
 title: 'SALOMON Agile FZ Hoodie M Chaqueta Corta al 42.58 % de descuento'
 date: 2020-06-19 17:31:56
-image: 'https://m.media-amazon.com/images/I/415tgBbelNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415tgBbelNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.94'
 
 Ahora mismo tienes [SALOMON Agile FZ Hoodie M Chaqueta Cortavientos  Hombre  Azul  Poseidon   XS](https://www.amazon.es/dp/B07WDTJXQJ/?tag=tolees-21) a 45.94 EUR (original: 80.0 EUR) (42.58 %  de descuento) en el siguiente enlace!
 
-[![SALOMON Agile FZ Hoodie M Chaqueta Corta](https://m.media-amazon.com/images/I/415tgBbelNL._SL200_.jpg)](https://www.amazon.es/dp/B07WDTJXQJ/?tag=tolees-21)
+[![SALOMON Agile FZ Hoodie M Chaqueta Corta](https://m.media-amazon.com/images/I/415tgBbelNL._SL400_.jpg)](https://www.amazon.es/dp/B07WDTJXQJ/?tag=tolees-21)
 
 🔎:
 

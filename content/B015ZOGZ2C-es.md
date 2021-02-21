@@ -2,7 +2,7 @@
 layout: post
 title: 'MAKAYA Calavera con Casco - Camiseta Mot al 24.89 % de descuento'
 date: 2020-06-16 12:21:21
-image: 'https://m.media-amazon.com/images/I/41jYSvy+zKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jYSvy+zKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.9'
 
 Ahora mismo tienes [MAKAYA Calavera con Casco - Camiseta Motocross - Hombre Negra L](https://www.amazon.es/dp/B015ZOGZ2C/?tag=tolees-21) a 16.9 EUR (original: 22.5 EUR) (24.89 %  de descuento) en el siguiente enlace!
 
-[![MAKAYA Calavera con Casco - Camiseta Mot](https://m.media-amazon.com/images/I/41jYSvy+zKL._SL200_.jpg)](https://www.amazon.es/dp/B015ZOGZ2C/?tag=tolees-21)
+[![MAKAYA Calavera con Casco - Camiseta Mot](https://m.media-amazon.com/images/I/41jYSvy+zKL._SL400_.jpg)](https://www.amazon.es/dp/B015ZOGZ2C/?tag=tolees-21)
 
 🔎:
 

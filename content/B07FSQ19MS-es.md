@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Un Maui Lace  Zapatos de Cordones al 32.19 % de rebaja'
 date: 2020-07-24 20:49:23
-image: 'https://m.media-amazon.com/images/I/41S0C1YuCzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S0C1YuCzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.365'
 
 Tienes [Clarks Un Maui Lace  Zapatos de Cordones Derby para Mujer  Plateado  Pebble Metalic -   37.5 EU](https://www.amazon.es/dp/B07FSQ19MS/?tag=tolees-21) con precio final de  67.78 EUR (original: 99.95 EUR) (32.19 %  de rebaja) aqui!
 
-[![Clarks Un Maui Lace  Zapatos de Cordones](https://m.media-amazon.com/images/I/41S0C1YuCzL._SL200_.jpg)](https://www.amazon.es/dp/B07FSQ19MS/?tag=tolees-21)
+[![Clarks Un Maui Lace  Zapatos de Cordones](https://m.media-amazon.com/images/I/41S0C1YuCzL._SL400_.jpg)](https://www.amazon.es/dp/B07FSQ19MS/?tag=tolees-21)
 
 🔎:
 

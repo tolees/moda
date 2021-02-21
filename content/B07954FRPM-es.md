@@ -2,7 +2,7 @@
 layout: post
 title: 'NIKE M Nk Rpl Park 18 RN Jkt W Chaqueta  al 23.62 % de rebaja'
 date: 2020-07-03 09:30:26
-image: 'https://m.media-amazon.com/images/I/41Ts7kMa-qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ts7kMa-qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.898'
 
 Tienes [NIKE M Nk Rpl Park 18 RN Jkt W Chaqueta de Deporte  Hombre  Black/White/ White ](https://www.amazon.es/dp/B07954FRPM/?tag=tolees-21) con precio final de  30.55 EUR (original: 40.0 EUR) (23.62 %  de rebaja) aqui!
 
-[![NIKE M Nk Rpl Park 18 RN Jkt W Chaqueta ](https://m.media-amazon.com/images/I/41Ts7kMa-qL._SL200_.jpg)](https://www.amazon.es/dp/B07954FRPM/?tag=tolees-21)
+[![NIKE M Nk Rpl Park 18 RN Jkt W Chaqueta ](https://m.media-amazon.com/images/I/41Ts7kMa-qL._SL400_.jpg)](https://www.amazon.es/dp/B07954FRPM/?tag=tolees-21)
 
 🔎:
 

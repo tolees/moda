@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Camiseta Polo de Punto Ab al 63.08 % de descuento'
 date: 2020-04-21 19:46:04
-image: 'https://m.media-amazon.com/images/I/41pKazl+AcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pKazl+AcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Está [Charles Wilson Camiseta Polo de Punto Abultado  Large  Light Blue ](https://www.amazon.es/dp/B07TNJ7W1W/?tag=tolees-21) con 63.08 de descuento por 9.95 EUR (original: 26.95 EUR) en el siguiente enlace!
 
-[![Charles Wilson Camiseta Polo de Punto Ab](https://m.media-amazon.com/images/I/41pKazl+AcL._SL200_.jpg)](https://www.amazon.es/dp/B07TNJ7W1W/?tag=tolees-21)
+[![Charles Wilson Camiseta Polo de Punto Ab](https://m.media-amazon.com/images/I/41pKazl+AcL._SL400_.jpg)](https://www.amazon.es/dp/B07TNJ7W1W/?tag=tolees-21)
 
 ℹ️:
 

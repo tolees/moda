@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler SS 2 Pkt Flap Shirt Camisa  Azu al 58.94 % de descuento'
 date: 2020-07-22 10:31:07
-image: 'https://m.media-amazon.com/images/I/41ALgIfODOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ALgIfODOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.51'
 
 Ahora mismo tienes [Wrangler SS 2 Pkt Flap Shirt Camisa  Azul  Cerulean Blue Xvt   Large para Hombre](https://www.amazon.es/dp/B07TXRKWHJ/?tag=tolees-21) a 20.51 EUR (original: 49.95 EUR) (58.94 %  de descuento) en el siguiente enlace!
 
-[![Wrangler SS 2 Pkt Flap Shirt Camisa  Azu](https://m.media-amazon.com/images/I/41ALgIfODOL._SL200_.jpg)](https://www.amazon.es/dp/B07TXRKWHJ/?tag=tolees-21)
+[![Wrangler SS 2 Pkt Flap Shirt Camisa  Azu](https://m.media-amazon.com/images/I/41ALgIfODOL._SL400_.jpg)](https://www.amazon.es/dp/B07TXRKWHJ/?tag=tolees-21)
 
 🔎:
 

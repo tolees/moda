@@ -2,7 +2,7 @@
 layout: post
 title: 'Dickies Sacramento Camisa  Gris  Grey Me al 24.86 % de descuento'
 date: 2020-03-06 11:00:15
-image: 'https://m.media-amazon.com/images/I/419-iP37dGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419-iP37dGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.82'
 
 Ahora mismo tienes [Dickies Sacramento Camisa  Gris  Grey Melange Gym   X-Large  Tamaño del Fabricante:XLrge  para Hombre](https://www.amazon.es/dp/B01HO30K7I/?tag=tolees-21) a 36.82 EUR (original: 49.0 EUR) (24.86 %  de descuento) en el siguiente enlace!
 
-[![Dickies Sacramento Camisa  Gris  Grey Me](https://m.media-amazon.com/images/I/419-iP37dGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01HO30K7I/?tag=tolees-21)
+[![Dickies Sacramento Camisa  Gris  Grey Me](https://m.media-amazon.com/images/I/419-iP37dGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01HO30K7I/?tag=tolees-21)
 
 🔎:
 

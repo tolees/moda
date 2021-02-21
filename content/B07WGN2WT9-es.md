@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Joruptown tee LS Crew Neck  al 32.68 % de rebaja'
 date: 2020-05-08 09:10:45
-image: 'https://m.media-amazon.com/images/I/41FbOQeuUQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FbOQeuUQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.87'
 
 Tienes [Jack & Jones Joruptown tee LS Crew Neck Camiseta de Manga Larga  Azul  Brick Red Fit:REG   L para Hombre](https://www.amazon.es/dp/B07WGN2WT9/?tag=tolees-21) con precio final de  5.87 EUR (original: 8.72 EUR) (32.68 %  de rebaja) aqui!
 
-[![Jack & Jones Joruptown tee LS Crew Neck ](https://m.media-amazon.com/images/I/41FbOQeuUQL._SL200_.jpg)](https://www.amazon.es/dp/B07WGN2WT9/?tag=tolees-21)
+[![Jack & Jones Joruptown tee LS Crew Neck ](https://m.media-amazon.com/images/I/41FbOQeuUQL._SL400_.jpg)](https://www.amazon.es/dp/B07WGN2WT9/?tag=tolees-21)
 
 🔎:
 

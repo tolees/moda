@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Heatgear Racer Camiseta  con un 18.02 % de descuento'
 date: 2020-04-27 06:25:16
-image: 'https://m.media-amazon.com/images/I/41Ft2-h4Y-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ft2-h4Y-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.05'
 
 En este momento está [Under Armour UA Heatgear Racer Camiseta Sin Mangas  Mujer  Naranja  Orange Dream/Metallic Silver 805   XS](https://www.amazon.es/dp/B07CZG1G8J/?tag=tolees-21) a 8.05 EUR (original: 9.82 EUR) (18.02 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Heatgear Racer Camiseta ](https://m.media-amazon.com/images/I/41Ft2-h4Y-L._SL200_.jpg)](https://www.amazon.es/dp/B07CZG1G8J/?tag=tolees-21)
+[![Under Armour UA Heatgear Racer Camiseta ](https://m.media-amazon.com/images/I/41Ft2-h4Y-L._SL400_.jpg)](https://www.amazon.es/dp/B07CZG1G8J/?tag=tolees-21)
 
 🔎:
 

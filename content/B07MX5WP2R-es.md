@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 501 Crop Vaqueros Boyfriend  Blan al 50.05 % de descuento'
 date: 2020-10-01 18:43:16
-image: 'https://m.media-amazon.com/images/I/31aejabSkdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aejabSkdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.629999999999995'
 
 Ahora mismo tienes [Levi s 501 Crop Vaqueros Boyfriend  Blanco  In The Clouds 0032   24W / 26L para Mujer](https://www.amazon.es/dp/B07MX5WP2R/?tag=tolees-21) a 49.95 EUR (original: 100.0 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
-[![Levi s 501 Crop Vaqueros Boyfriend  Blan](https://m.media-amazon.com/images/I/31aejabSkdL._SL200_.jpg)](https://www.amazon.es/dp/B07MX5WP2R/?tag=tolees-21)
+[![Levi s 501 Crop Vaqueros Boyfriend  Blan](https://m.media-amazon.com/images/I/31aejabSkdL._SL400_.jpg)](https://www.amazon.es/dp/B07MX5WP2R/?tag=tolees-21)
 
 🔎:
 

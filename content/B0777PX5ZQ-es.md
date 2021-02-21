@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.97 % en Tommy Hilfiger Jersey T Camiseta con Cue'
 date: 2020-07-18 21:25:48
-image: 'https://m.media-amazon.com/images/I/41mppO0L3mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mppO0L3mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Tienes [Tommy Hilfiger Jersey T Camiseta con Cuello de Pico y Logo  Rojo  Formula One   M para Hombre](https://www.amazon.es/dp/B0777PX5ZQ/?tag=tolees-21) con un 37.97 % de descuento con precio de oferta de 17.99 EUR (original: 29.0 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Jersey T Camiseta con Cue](https://m.media-amazon.com/images/I/41mppO0L3mL._SL200_.jpg)](https://www.amazon.es/dp/B0777PX5ZQ/?tag=tolees-21)
+[![Tommy Hilfiger Jersey T Camiseta con Cue](https://m.media-amazon.com/images/I/41mppO0L3mL._SL400_.jpg)](https://www.amazon.es/dp/B0777PX5ZQ/?tag=tolees-21)
 
 ℹ️:
 

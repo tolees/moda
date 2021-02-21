@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Saturday Trail Pantalón para Mu al 29.26 % de descuento'
 date: 2020-10-10 09:32:04
-image: 'https://m.media-amazon.com/images/I/31pL507EffL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pL507EffL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.89333333333333'
 
 Está [Columbia Saturday Trail Pantalón para Mujer  Gris  India Ink   14/R](https://www.amazon.es/dp/B00QO1HZRU/?tag=tolees-21) con 29.26 de descuento por 49.51 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![Columbia Saturday Trail Pantalón para Mu](https://m.media-amazon.com/images/I/31pL507EffL._SL200_.jpg)](https://www.amazon.es/dp/B00QO1HZRU/?tag=tolees-21)
+[![Columbia Saturday Trail Pantalón para Mu](https://m.media-amazon.com/images/I/31pL507EffL._SL400_.jpg)](https://www.amazon.es/dp/B00QO1HZRU/?tag=tolees-21)
 
 ℹ️:
 

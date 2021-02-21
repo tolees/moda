@@ -2,7 +2,7 @@
 layout: post
 title: 'oodji Ultra Hombre Camisa de Algodón con al 20.18 % de descuento'
 date: 2020-10-08 15:30:27
-image: 'https://m.media-amazon.com/images/I/41q2MSfk-oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q2MSfk-oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.1'
 
 Ahora mismo tienes [oodji Ultra Hombre Camisa de Algodón con Cuello en Contraste  Azul  37](https://www.amazon.es/dp/B07BSQS2LF/?tag=tolees-21) a 9.1 EUR (original: 11.4 EUR) (20.18 %  de descuento) en el siguiente enlace!
 
-[![oodji Ultra Hombre Camisa de Algodón con](https://m.media-amazon.com/images/I/41q2MSfk-oL._SL200_.jpg)](https://www.amazon.es/dp/B07BSQS2LF/?tag=tolees-21)
+[![oodji Ultra Hombre Camisa de Algodón con](https://m.media-amazon.com/images/I/41q2MSfk-oL._SL400_.jpg)](https://www.amazon.es/dp/B07BSQS2LF/?tag=tolees-21)
 
 🔎:
 

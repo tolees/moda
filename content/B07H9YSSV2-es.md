@@ -2,7 +2,7 @@
 layout: post
 title: 'Unisex Chico Chica Zapatilla de Deporte  al 29.81 % de descuento'
 date: 2020-02-20 19:21:25
-image: 'https://m.media-amazon.com/images/I/51PB4C-HKCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51PB4C-HKCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Ahora mismo tienes [Unisex Chico Chica Zapatilla de Deporte del Zapato Negro Rosa Azul Pink 30 EU](https://www.amazon.es/dp/B07H9YSSV2/?tag=tolees-21) a 27.99 EUR (original: 39.88 EUR) (29.81 %  de descuento) en el siguiente enlace!
 
-[![Unisex Chico Chica Zapatilla de Deporte ](https://m.media-amazon.com/images/I/51PB4C-HKCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07H9YSSV2/?tag=tolees-21)
+[![Unisex Chico Chica Zapatilla de Deporte ](https://m.media-amazon.com/images/I/51PB4C-HKCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07H9YSSV2/?tag=tolees-21)
 
 🔎:
 

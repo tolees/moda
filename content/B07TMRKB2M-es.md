@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Un Karely Sun  Sandalias de Talón al 55.00 % de descuento'
 date: 2020-08-30 02:40:11
-image: 'https://m.media-amazon.com/images/I/31RgIbHDUYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RgIbHDUYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.5'
 
 Ahora mismo tienes [Clarks Un Karely Sun  Sandalias de Talón Abierto para Mujer  Azul  Navy Nubuck Navy Nubuck   38 EU](https://www.amazon.es/dp/B07TMRKB2M/?tag=tolees-21) a 49.5 EUR (original: 110.0 EUR) (55.00 %  de descuento) en el siguiente enlace!
 
-[![Clarks Un Karely Sun  Sandalias de Talón](https://m.media-amazon.com/images/I/31RgIbHDUYL._SL200_.jpg)](https://www.amazon.es/dp/B07TMRKB2M/?tag=tolees-21)
+[![Clarks Un Karely Sun  Sandalias de Talón](https://m.media-amazon.com/images/I/31RgIbHDUYL._SL400_.jpg)](https://www.amazon.es/dp/B07TMRKB2M/?tag=tolees-21)
 
 🔎:
 

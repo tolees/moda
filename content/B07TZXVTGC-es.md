@@ -2,7 +2,7 @@
 layout: post
 title: 'Only Onlnaiomi Hooded Jacket CC Otw Chaq al 68.87 % de descuento'
 date: 2020-03-09 09:30:19
-image: 'https://m.media-amazon.com/images/I/41vKCbzpiBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vKCbzpiBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.2775'
 
 Ahora mismo tienes [Only Onlnaiomi Hooded Jacket CC Otw Chaqueta  Rojo  Merlot Merlot   XS para Mujer](https://www.amazon.es/dp/B07TZXVTGC/?tag=tolees-21) a 15.56 EUR (original: 49.99 EUR) (68.87 %  de descuento) en el siguiente enlace!
 
-[![Only Onlnaiomi Hooded Jacket CC Otw Chaq](https://m.media-amazon.com/images/I/41vKCbzpiBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TZXVTGC/?tag=tolees-21)
+[![Only Onlnaiomi Hooded Jacket CC Otw Chaq](https://m.media-amazon.com/images/I/41vKCbzpiBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TZXVTGC/?tag=tolees-21)
 
 🔎:
 

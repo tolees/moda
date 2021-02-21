@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Tourist LAMU Suede  Sandalias al 24.91 % de rebaja'
 date: 2020-07-11 23:10:06
-image: 'https://m.media-amazon.com/images/I/41H9ao6V2aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H9ao6V2aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.32'
 
 Tienes [Pepe Jeans Tourist LAMU Suede  Sandalias con cuña Tipo Alpargatas para Hombre  Braun Dark Stone 860  42 EU](https://www.amazon.es/dp/B07VBN9PPR/?tag=tolees-21) con precio final de  56.32 EUR (original: 75.0 EUR) (24.91 %  de rebaja) aqui!
 
-[![Pepe Jeans Tourist LAMU Suede  Sandalias](https://m.media-amazon.com/images/I/41H9ao6V2aL._SL200_.jpg)](https://www.amazon.es/dp/B07VBN9PPR/?tag=tolees-21)
+[![Pepe Jeans Tourist LAMU Suede  Sandalias](https://m.media-amazon.com/images/I/41H9ao6V2aL._SL400_.jpg)](https://www.amazon.es/dp/B07VBN9PPR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Tiro19 TR Jkty Chaqueta de Deport al 42.04 % de descuento'
 date: 2020-06-23 17:24:17
-image: 'https://m.media-amazon.com/images/I/41vh6k2CmKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vh6k2CmKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.95'
 
 Está [adidas Tiro19 TR Jkty Chaqueta de Deporte  Unisex niños  Dark Blue/Bold Blue/White  1516](https://www.amazon.es/dp/B07K7H71SM/?tag=tolees-21) con 42.04 de descuento por 28.95 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![adidas Tiro19 TR Jkty Chaqueta de Deport](https://m.media-amazon.com/images/I/41vh6k2CmKL._SL200_.jpg)](https://www.amazon.es/dp/B07K7H71SM/?tag=tolees-21)
+[![adidas Tiro19 TR Jkty Chaqueta de Deport](https://m.media-amazon.com/images/I/41vh6k2CmKL._SL400_.jpg)](https://www.amazon.es/dp/B07K7H71SM/?tag=tolees-21)
 
 ℹ️:
 

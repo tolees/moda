@@ -2,7 +2,7 @@
 layout: post
 title: 'Vero Moda Vmsimone Aw19 Hoody Short Jack al 60.02 % de descuento'
 date: 2020-01-15 07:22:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4127YMhSG%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4127YMhSG%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Ahora mismo tienes [Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta  Gris Peat  36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07T7KB2LB/?tag=tolees-21) a 13.99 EUR (original: 34.99 EUR) (60.02 %  de descuento) en el siguiente enlace!
 
-[![Vero Moda Vmsimone Aw19 Hoody Short Jack](https://images-eu.ssl-images-amazon.com/images/I/4127YMhSG%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07T7KB2LB/?tag=tolees-21)
+[![Vero Moda Vmsimone Aw19 Hoody Short Jack](https://images-eu.ssl-images-amazon.com/images/I/4127YMhSG%2BL._SL400_.jpg)](https://www.amazon.es/dp/B07T7KB2LB/?tag=tolees-21)
 
 🔎:
 

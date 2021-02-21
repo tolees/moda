@@ -2,7 +2,7 @@
 layout: post
 title: 'HKT by Hackett Hkt 3 SS tee Camiseta  Ve al 52.00 % de descuento'
 date: 2020-07-24 10:33:36
-image: 'https://m.media-amazon.com/images/I/41lf8HSgZKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lf8HSgZKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.8'
 
 Está [HKT by Hackett Hkt 3 SS tee Camiseta  Verde  6fnspruce 6fn   Medium para Hombre](https://www.amazon.es/dp/B07VHDN1X1/?tag=tolees-21) con 52.00 de descuento por 16.8 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![HKT by Hackett Hkt 3 SS tee Camiseta  Ve](https://m.media-amazon.com/images/I/41lf8HSgZKL._SL200_.jpg)](https://www.amazon.es/dp/B07VHDN1X1/?tag=tolees-21)
+[![HKT by Hackett Hkt 3 SS tee Camiseta  Ve](https://m.media-amazon.com/images/I/41lf8HSgZKL._SL400_.jpg)](https://www.amazon.es/dp/B07VHDN1X1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'RATEL Kit de Chaleco Táctico para Niños  al 30.45 % de rebaja'
 date: 2020-01-11 10:24:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51yRvjPXviL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yRvjPXviL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Tienes [RATEL Kit de Chaleco Táctico para Niños  38pcs Traje de chaqueta para N-Strike Elite Series con 30 piezas de espuma Dardos + 2 Quick Reload Clips + 1 Gafas protectoras + 2 Máscara + 2 muñequera](https://www.amazon.es/dp/B07MVVL24W/?tag=tolees-21) con precio final de  15.99 EUR (original: 22.99 EUR) (30.45 %  de rebaja) aqui!
 
-[![RATEL Kit de Chaleco Táctico para Niños ](https://images-eu.ssl-images-amazon.com/images/I/51yRvjPXviL._SL200_.jpg)](https://www.amazon.es/dp/B07MVVL24W/?tag=tolees-21)
+[![RATEL Kit de Chaleco Táctico para Niños ](https://images-eu.ssl-images-amazon.com/images/I/51yRvjPXviL._SL400_.jpg)](https://www.amazon.es/dp/B07MVVL24W/?tag=tolees-21)
 
 🔎:
 

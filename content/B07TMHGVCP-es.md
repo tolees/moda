@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 510 Vaqueros Skinny  Azul  Moose  al 64.17 % de descuento'
 date: 2020-08-08 09:10:51
-image: 'https://m.media-amazon.com/images/I/413QDm0J69L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413QDm0J69L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.83'
 
 Ahora mismo tienes [Levi s 510 Vaqueros Skinny  Azul  Moose Tracks Cool 1035   W31/L34  Talla del Fabricante: 31 34  para Hombre](https://www.amazon.es/dp/B07TMHGVCP/?tag=tolees-21) a 35.83 EUR (original: 100.0 EUR) (64.17 %  de descuento) en el siguiente enlace!
 
-[![Levi s 510 Vaqueros Skinny  Azul  Moose ](https://m.media-amazon.com/images/I/413QDm0J69L._SL200_.jpg)](https://www.amazon.es/dp/B07TMHGVCP/?tag=tolees-21)
+[![Levi s 510 Vaqueros Skinny  Azul  Moose ](https://m.media-amazon.com/images/I/413QDm0J69L._SL400_.jpg)](https://www.amazon.es/dp/B07TMHGVCP/?tag=tolees-21)
 
 🔎:
 

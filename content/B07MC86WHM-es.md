@@ -2,7 +2,7 @@
 layout: post
 title: 'CMP Rigel  Zapatos de Low Rise Senderism al 64.94 % de descuento'
 date: 2020-02-23 11:48:51
-image: 'https://m.media-amazon.com/images/I/41abqcny7rL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41abqcny7rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.51'
 
 Está [CMP Rigel  Zapatos de Low Rise Senderismo Unisex Niños   B.Blue-Aqua Mint 12nd   28 EU](https://www.amazon.es/dp/B07MC86WHM/?tag=tolees-21) con 64.94 de descuento por 17.51 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![CMP Rigel  Zapatos de Low Rise Senderism](https://m.media-amazon.com/images/I/41abqcny7rL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MC86WHM/?tag=tolees-21)
+[![CMP Rigel  Zapatos de Low Rise Senderism](https://m.media-amazon.com/images/I/41abqcny7rL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MC86WHM/?tag=tolees-21)
 
 ℹ️:
 

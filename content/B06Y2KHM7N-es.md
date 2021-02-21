@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox J Kalispera Girl I  Zapatillas Alta al 37.29 % de descuento'
 date: 2020-01-04 09:03:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41g23W3RoLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g23W3RoLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.49'
 
 Ahora mismo tienes [Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Negro  Black   32 EU](https://www.amazon.es/dp/B06Y2KHM7N/?tag=tolees-21) a 34.49 EUR (original: 55 EUR) (37.29 %  de descuento) en el siguiente enlace!
 
-[![Geox J Kalispera Girl I  Zapatillas Alta](https://images-eu.ssl-images-amazon.com/images/I/41g23W3RoLL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2KHM7N/?tag=tolees-21)
+[![Geox J Kalispera Girl I  Zapatillas Alta](https://images-eu.ssl-images-amazon.com/images/I/41g23W3RoLL._SL400_.jpg)](https://www.amazon.es/dp/B06Y2KHM7N/?tag=tolees-21)
 
 🔎:
 

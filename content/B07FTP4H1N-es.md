@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Luke Vaqueros  Light Daze ZX  30W /  al 57.99 % de descuento'
 date: 2020-10-08 20:25:38
-image: 'https://m.media-amazon.com/images/I/41T8YlHc4zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T8YlHc4zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.99'
 
 Está [Lee Luke Vaqueros  Light Daze ZX  30W / 34L para Hombre](https://www.amazon.es/dp/B07FTP4H1N/?tag=tolees-21) con 57.99 de descuento por 41.99 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Lee Luke Vaqueros  Light Daze ZX  30W / ](https://m.media-amazon.com/images/I/41T8YlHc4zL._SL200_.jpg)](https://www.amazon.es/dp/B07FTP4H1N/?tag=tolees-21)
+[![Lee Luke Vaqueros  Light Daze ZX  30W / ](https://m.media-amazon.com/images/I/41T8YlHc4zL._SL400_.jpg)](https://www.amazon.es/dp/B07FTP4H1N/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 62.48 % en Crocs Classic II Flip  Chanclas Unisex A'
 date: 2020-09-04 08:00:50
-image: 'https://m.media-amazon.com/images/I/31An5GvpRNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31An5GvpRNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.5'
 
 Tienes [Crocs Classic II Flip  Chanclas Unisex Adulto  Negro  Black 001   45/46 EU](https://www.amazon.es/dp/B07SBB7Q5F/?tag=tolees-21) con un 62.48 % de descuento con precio de oferta de 7.5 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Crocs Classic II Flip  Chanclas Unisex A](https://m.media-amazon.com/images/I/31An5GvpRNL._SL200_.jpg)](https://www.amazon.es/dp/B07SBB7Q5F/?tag=tolees-21)
+[![Crocs Classic II Flip  Chanclas Unisex A](https://m.media-amazon.com/images/I/31An5GvpRNL._SL400_.jpg)](https://www.amazon.es/dp/B07SBB7Q5F/?tag=tolees-21)
 
 ℹ️:
 

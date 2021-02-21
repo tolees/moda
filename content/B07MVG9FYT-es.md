@@ -2,7 +2,7 @@
 layout: post
 title: 'Gant D1. The Light Down Jacket Chaqueta  al 49.91 % de rebaja'
 date: 2020-01-23 05:14:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41N-Bp%2BgYWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N-Bp%2BgYWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '150.945'
 
 Tienes [Gant D1. The Light Down Jacket Chaqueta  Azul  Marine 410   X-Large para Hombre](https://www.amazon.es/dp/B07MVG9FYT/?tag=tolees-21) con precio final de  140.24 EUR (original: 279.99 EUR) (49.91 %  de rebaja) aqui!
 
-[![Gant D1. The Light Down Jacket Chaqueta ](https://images-eu.ssl-images-amazon.com/images/I/41N-Bp%2BgYWL._SL200_.jpg)](https://www.amazon.es/dp/B07MVG9FYT/?tag=tolees-21)
+[![Gant D1. The Light Down Jacket Chaqueta ](https://images-eu.ssl-images-amazon.com/images/I/41N-Bp%2BgYWL._SL400_.jpg)](https://www.amazon.es/dp/B07MVG9FYT/?tag=tolees-21)
 
 🔎:
 

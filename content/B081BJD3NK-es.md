@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Powder Pass Chaqueta con Capuch con un 61.92 % de descuento'
 date: 2020-09-10 17:37:55
-image: 'https://m.media-amazon.com/images/I/419dYrDSTnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419dYrDSTnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.69'
 
 En este momento está [Columbia Powder Pass Chaqueta con Capucha  Mujer  Rosa  Peach Cloud Ferny Ferns Print   L](https://www.amazon.es/dp/B081BJD3NK/?tag=tolees-21) a 45.69 EUR (original: 119.99 EUR) (61.92 %  de descuento) en el siguiente enlace!
 
-[![Columbia Powder Pass Chaqueta con Capuch](https://m.media-amazon.com/images/I/419dYrDSTnL._SL200_.jpg)](https://www.amazon.es/dp/B081BJD3NK/?tag=tolees-21)
+[![Columbia Powder Pass Chaqueta con Capuch](https://m.media-amazon.com/images/I/419dYrDSTnL._SL400_.jpg)](https://www.amazon.es/dp/B081BJD3NK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Youth Nordic Strider Chaqueta p al 44.50 % de descuento'
 date: 2020-10-04 12:03:37
-image: 'https://m.media-amazon.com/images/I/41vekdkAcPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vekdkAcPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.49'
 
 Ahora mismo tienes [Columbia Youth Nordic Strider Chaqueta para niña  Niñas  Verde  New Olive Heather   M](https://www.amazon.es/dp/B0814C7DBS/?tag=tolees-21) a 55.49 EUR (original: 99.99 EUR) (44.50 %  de descuento) en el siguiente enlace!
 
-[![Columbia Youth Nordic Strider Chaqueta p](https://m.media-amazon.com/images/I/41vekdkAcPL._SL200_.jpg)](https://www.amazon.es/dp/B0814C7DBS/?tag=tolees-21)
+[![Columbia Youth Nordic Strider Chaqueta p](https://m.media-amazon.com/images/I/41vekdkAcPL._SL400_.jpg)](https://www.amazon.es/dp/B0814C7DBS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Cotrell Edge  Zapatos de Cordones al 42.71 % de rebaja'
 date: 2020-07-05 00:26:49
-image: 'https://m.media-amazon.com/images/I/41RD-t9UYpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RD-t9UYpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.529999999999994'
 
 Tienes [Clarks Cotrell Edge  Zapatos de Cordones Derby para Hombre  Marrón  Brown Oily   44 EU](https://www.amazon.es/dp/B074N69XMF/?tag=tolees-21) con precio final de  45.8 EUR (original: 79.95 EUR) (42.71 %  de rebaja) aqui!
 
-[![Clarks Cotrell Edge  Zapatos de Cordones](https://m.media-amazon.com/images/I/41RD-t9UYpL._SL200_.jpg)](https://www.amazon.es/dp/B074N69XMF/?tag=tolees-21)
+[![Clarks Cotrell Edge  Zapatos de Cordones](https://m.media-amazon.com/images/I/41RD-t9UYpL._SL400_.jpg)](https://www.amazon.es/dp/B074N69XMF/?tag=tolees-21)
 
 🔎:
 

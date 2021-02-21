@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual T-Shirt Andora Camiseta  Rojo   al 20.70 % de rebaja'
 date: 2020-02-07 12:29:21
-image: 'https://m.media-amazon.com/images/I/41MSQS3Z+rL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MSQS3Z+rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.79'
 
 Tienes [Desigual T-Shirt Andora Camiseta  Rojo  Rojo Oscuro 3029   M para Mujer](https://www.amazon.es/dp/B07N3VZRT9/?tag=tolees-21) con precio final de  22.79 EUR (original: 28.74 EUR) (20.70 %  de rebaja) aqui!
 
-[![Desigual T-Shirt Andora Camiseta  Rojo  ](https://m.media-amazon.com/images/I/41MSQS3Z+rL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N3VZRT9/?tag=tolees-21)
+[![Desigual T-Shirt Andora Camiseta  Rojo  ](https://m.media-amazon.com/images/I/41MSQS3Z+rL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N3VZRT9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike W Nk Swoosh Run Top SS Camiseta de  al 24.75 % de descuento'
 date: 2020-04-02 09:45:03
-image: 'https://m.media-amazon.com/images/I/41zwOVFsymL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zwOVFsymL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.3'
 
 Ahora mismo tienes [Nike W Nk Swoosh Run Top SS Camiseta de Manga Corta  Mujer  Pink Quartz/White  M](https://www.amazon.es/dp/B07RY3F7NX/?tag=tolees-21) a 17.3 EUR (original: 22.99 EUR) (24.75 %  de descuento) en el siguiente enlace!
 
-[![Nike W Nk Swoosh Run Top SS Camiseta de ](https://m.media-amazon.com/images/I/41zwOVFsymL._SL200_.jpg)](https://www.amazon.es/dp/B07RY3F7NX/?tag=tolees-21)
+[![Nike W Nk Swoosh Run Top SS Camiseta de ](https://m.media-amazon.com/images/I/41zwOVFsymL._SL400_.jpg)](https://www.amazon.es/dp/B07RY3F7NX/?tag=tolees-21)
 
 🔎:
 

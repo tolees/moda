@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Avio Chaqueta  Verde  Green Fo al 78.56 % de descuento'
 date: 2020-04-17 16:59:38
-image: 'https://m.media-amazon.com/images/I/417gbP+Lq3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417gbP+Lq3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.53'
 
 Ahora mismo tienes [Napapijri Avio Chaqueta  Verde  Green Forest 2 Ge3   XXL para Hombre](https://www.amazon.es/dp/B07MCSPCCT/?tag=tolees-21) a 85.53 EUR (original: 399.0 EUR) (78.56 %  de descuento) en el siguiente enlace!
 
-[![Napapijri Avio Chaqueta  Verde  Green Fo](https://m.media-amazon.com/images/I/417gbP+Lq3L._SL200_.jpg)](https://www.amazon.es/dp/B07MCSPCCT/?tag=tolees-21)
+[![Napapijri Avio Chaqueta  Verde  Green Fo](https://m.media-amazon.com/images/I/417gbP+Lq3L._SL400_.jpg)](https://www.amazon.es/dp/B07MCSPCCT/?tag=tolees-21)
 
 🔎:
 

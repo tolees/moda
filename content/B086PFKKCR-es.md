@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA ESS Logo tee Camiseta  Mujer  Glowi al 19.85 % de descuento'
 date: 2020-09-26 17:12:24
-image: 'https://m.media-amazon.com/images/I/31tsMNIGr+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tsMNIGr+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Está [PUMA ESS Logo tee Camiseta  Mujer  Glowing Pink  M](https://www.amazon.es/dp/B086PFKKCR/?tag=tolees-21) con 19.85 de descuento por 15.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![PUMA ESS Logo tee Camiseta  Mujer  Glowi](https://m.media-amazon.com/images/I/31tsMNIGr+L._SL200_.jpg)](https://www.amazon.es/dp/B086PFKKCR/?tag=tolees-21)
+[![PUMA ESS Logo tee Camiseta  Mujer  Glowi](https://m.media-amazon.com/images/I/31tsMNIGr+L._SL400_.jpg)](https://www.amazon.es/dp/B086PFKKCR/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Plus Size Pl 501 Crop Stonewash V al 44.02 % de descuento'
 date: 2020-08-22 02:18:51
-image: 'https://m.media-amazon.com/images/I/41j2EA0c9WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41j2EA0c9WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.38'
 
 Está [Levi s Plus Size Pl 501 Crop Stonewash Vaqueros Straight  Azul  Jive Stone Wash 0001   No Aplica  Talla del Fabricante: 20  para Mujer](https://www.amazon.es/dp/B07TT6ZLVD/?tag=tolees-21) con 44.02 de descuento por 64.38 EUR (original: 115.0 EUR) en el siguiente enlace!
 
-[![Levi s Plus Size Pl 501 Crop Stonewash V](https://m.media-amazon.com/images/I/41j2EA0c9WL._SL200_.jpg)](https://www.amazon.es/dp/B07TT6ZLVD/?tag=tolees-21)
+[![Levi s Plus Size Pl 501 Crop Stonewash V](https://m.media-amazon.com/images/I/41j2EA0c9WL._SL400_.jpg)](https://www.amazon.es/dp/B07TT6ZLVD/?tag=tolees-21)
 
 ℹ️:
 

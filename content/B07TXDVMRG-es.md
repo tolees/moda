@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Graphic tee Camiseta  Azul  Boxta al 35.00 % de descuento'
 date: 2020-04-24 21:09:12
-image: 'https://m.media-amazon.com/images/I/411coIsshHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411coIsshHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.495000000000001'
 
 Ahora mismo tienes [Levi s Graphic tee Camiseta  Azul  Boxtab SS T2 Dress Blues 0001   Large para Hombre](https://www.amazon.es/dp/B07TXDVMRG/?tag=tolees-21) a 13.0 EUR (original: 20.0 EUR) (35.00 %  de descuento) en el siguiente enlace!
 
-[![Levi s Graphic tee Camiseta  Azul  Boxta](https://m.media-amazon.com/images/I/411coIsshHL._SL200_.jpg)](https://www.amazon.es/dp/B07TXDVMRG/?tag=tolees-21)
+[![Levi s Graphic tee Camiseta  Azul  Boxta](https://m.media-amazon.com/images/I/411coIsshHL._SL400_.jpg)](https://www.amazon.es/dp/B07TXDVMRG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox Uomo Sandal Strada D  Sandalias con con un 36.55 % de descuento'
 date: 2020-05-17 02:58:11
-image: 'https://m.media-amazon.com/images/I/31dTBQMwWLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dTBQMwWLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.35'
 
 En este momento está [Geox Uomo Sandal Strada D  Sandalias con Punta Abierta para Hombre  Negro  Black/Stone C9310   42 EU](https://www.amazon.es/dp/B07F3SCC8N/?tag=tolees-21) a 44.35 EUR (original: 69.9 EUR) (36.55 %  de descuento) en el siguiente enlace!
 
-[![Geox Uomo Sandal Strada D  Sandalias con](https://m.media-amazon.com/images/I/31dTBQMwWLL._SL200_.jpg)](https://www.amazon.es/dp/B07F3SCC8N/?tag=tolees-21)
+[![Geox Uomo Sandal Strada D  Sandalias con](https://m.media-amazon.com/images/I/31dTBQMwWLL._SL400_.jpg)](https://www.amazon.es/dp/B07F3SCC8N/?tag=tolees-21)
 
 🔎:
 

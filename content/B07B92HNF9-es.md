@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Martin Gafas de sol  Negro  B al 55.49 % de rebaja'
 date: 2020-02-05 10:56:19
-image: 'https://m.media-amazon.com/images/I/31bCfQ2l-WL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bCfQ2l-WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.93'
 
 Tienes [Pepe Jeans Martin Gafas de sol  Negro  Black   52 para Hombre](https://www.amazon.es/dp/B07B92HNF9/?tag=tolees-21) con precio final de  28.93 EUR (original: 65.0 EUR) (55.49 %  de rebaja) aqui!
 
-[![Pepe Jeans Martin Gafas de sol  Negro  B](https://m.media-amazon.com/images/I/31bCfQ2l-WL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B92HNF9/?tag=tolees-21)
+[![Pepe Jeans Martin Gafas de sol  Negro  B](https://m.media-amazon.com/images/I/31bCfQ2l-WL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B92HNF9/?tag=tolees-21)
 
 🔎:
 

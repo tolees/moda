@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Sozy G  Sandalias con Punta Abier al 30.00 % de descuento'
 date: 2020-06-27 19:44:46
-image: 'https://m.media-amazon.com/images/I/41SoyYToniL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SoyYToniL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.93'
 
 Ahora mismo tienes [Geox D Sozy G  Sandalias con Punta Abierta para Mujer  Negro  Black/Gun C9b1g   35 EU](https://www.amazon.es/dp/B07SQGWQYC/?tag=tolees-21) a 48.93 EUR (original: 69.9 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Geox D Sozy G  Sandalias con Punta Abier](https://m.media-amazon.com/images/I/41SoyYToniL._SL200_.jpg)](https://www.amazon.es/dp/B07SQGWQYC/?tag=tolees-21)
+[![Geox D Sozy G  Sandalias con Punta Abier](https://m.media-amazon.com/images/I/41SoyYToniL._SL400_.jpg)](https://www.amazon.es/dp/B07SQGWQYC/?tag=tolees-21)
 
 🔎:
 

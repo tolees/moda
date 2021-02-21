@@ -2,7 +2,7 @@
 layout: post
 title: 'Ray-Ban 0RB3589  Gafas de Sol para Mujer al 51.39 % de rebaja'
 date: 2020-03-30 11:23:18
-image: 'https://m.media-amazon.com/images/I/21yAdIzGJFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21yAdIzGJFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.02'
 
 Tienes [Ray-Ban 0RB3589  Gafas de Sol para Mujer  Marrón  Gold Top on Brown   55](https://www.amazon.es/dp/B075JKH9MK/?tag=tolees-21) con precio final de  69.02 EUR (original: 142.0 EUR) (51.39 %  de rebaja) aqui!
 
-[![Ray-Ban 0RB3589  Gafas de Sol para Mujer](https://m.media-amazon.com/images/I/21yAdIzGJFL._SL200_.jpg)](https://www.amazon.es/dp/B075JKH9MK/?tag=tolees-21)
+[![Ray-Ban 0RB3589  Gafas de Sol para Mujer](https://m.media-amazon.com/images/I/21yAdIzGJFL._SL400_.jpg)](https://www.amazon.es/dp/B075JKH9MK/?tag=tolees-21)
 
 🔎:
 

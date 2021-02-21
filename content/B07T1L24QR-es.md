@@ -2,7 +2,7 @@
 layout: post
 title: 'Tikea Bolsa Geométrica de Corcho Natural al 44.13 % de rebaja'
 date: 2020-02-28 09:48:09
-image: 'https://m.media-amazon.com/images/I/5115HKxTsBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5115HKxTsBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Tienes [Tikea Bolsa Geométrica de Corcho Natural para Mujer  Cartera de Mano con Correa de Cadena de Moda Ecológica Efecto Madera](https://www.amazon.es/dp/B07T1L24QR/?tag=tolees-21) con precio final de  18.99 EUR (original: 33.99 EUR) (44.13 %  de rebaja) aqui!
 
-[![Tikea Bolsa Geométrica de Corcho Natural](https://m.media-amazon.com/images/I/5115HKxTsBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07T1L24QR/?tag=tolees-21)
+[![Tikea Bolsa Geométrica de Corcho Natural](https://m.media-amazon.com/images/I/5115HKxTsBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07T1L24QR/?tag=tolees-21)
 
 🔎:
 

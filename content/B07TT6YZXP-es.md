@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 725 High Rise Bootcut Vaqueros Co al 39.01 % de descuento'
 date: 2020-07-16 10:28:56
-image: 'https://m.media-amazon.com/images/I/31VyuRhAZYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VyuRhAZYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.99'
 
 Está [Levi s 725 High Rise Bootcut Vaqueros Corte de Bota  Azul  Rolf Model 0001   W27/L32  Talla del Fabricante: 27 32  para Mujer](https://www.amazon.es/dp/B07TT6YZXP/?tag=tolees-21) con 39.01 de descuento por 60.99 EUR (original: 100.0 EUR) en el siguiente enlace!
 
-[![Levi s 725 High Rise Bootcut Vaqueros Co](https://m.media-amazon.com/images/I/31VyuRhAZYL._SL200_.jpg)](https://www.amazon.es/dp/B07TT6YZXP/?tag=tolees-21)
+[![Levi s 725 High Rise Bootcut Vaqueros Co](https://m.media-amazon.com/images/I/31VyuRhAZYL._SL400_.jpg)](https://www.amazon.es/dp/B07TT6YZXP/?tag=tolees-21)
 
 ℹ️:
 

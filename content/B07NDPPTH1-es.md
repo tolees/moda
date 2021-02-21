@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Graphic 24 Loose Round Neck S al 75.93 % de descuento'
 date: 2020-01-30 18:55:21
-image: 'https://m.media-amazon.com/images/I/41FkCJM2QbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FkCJM2QbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.65'
 
 Está [G-STAR RAW Graphic 24 Loose Round Neck Sudadera  Beige  Milk 111   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07NDPPTH1/?tag=tolees-21) con 75.93 de descuento por 21.65 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Graphic 24 Loose Round Neck S](https://m.media-amazon.com/images/I/41FkCJM2QbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NDPPTH1/?tag=tolees-21)
+[![G-STAR RAW Graphic 24 Loose Round Neck S](https://m.media-amazon.com/images/I/41FkCJM2QbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NDPPTH1/?tag=tolees-21)
 
 ℹ️:
 

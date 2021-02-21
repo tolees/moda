@@ -2,7 +2,7 @@
 layout: post
 title: 'HIKARO Sudadera con Capucha Hombre  Azul al 40.00 % de rebaja'
 date: 2020-05-02 18:52:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419YGza0MiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419YGza0MiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.97'
 
 Tienes [HIKARO Sudadera con Capucha Hombre  Azul  Denim   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077Y84WCF/?tag=tolees-21) con precio final de  17.97 EUR (original: 29.95 EUR) (40.00 %  de rebaja) aqui!
 
-[![HIKARO Sudadera con Capucha Hombre  Azul](https://images-eu.ssl-images-amazon.com/images/I/419YGza0MiL._SL200_.jpg)](https://www.amazon.es/dp/B077Y84WCF/?tag=tolees-21)
+[![HIKARO Sudadera con Capucha Hombre  Azul](https://images-eu.ssl-images-amazon.com/images/I/419YGza0MiL._SL400_.jpg)](https://www.amazon.es/dp/B077Y84WCF/?tag=tolees-21)
 
 🔎:
 

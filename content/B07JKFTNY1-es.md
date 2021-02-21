@@ -2,7 +2,7 @@
 layout: post
 title: 'TOTTO Bolso Bayonne Bolso Bandolera  20  al 30.11 % de descuento'
 date: 2020-02-08 19:04:26
-image: 'https://m.media-amazon.com/images/I/41sxL6rStPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sxL6rStPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.96'
 
 Está [TOTTO Bolso Bayonne Bolso Bandolera  20 cm  20 litros  Multicolor](https://www.amazon.es/dp/B07JKFTNY1/?tag=tolees-21) con 30.11 de descuento por 20.96 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![TOTTO Bolso Bayonne Bolso Bandolera  20 ](https://m.media-amazon.com/images/I/41sxL6rStPL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JKFTNY1/?tag=tolees-21)
+[![TOTTO Bolso Bayonne Bolso Bandolera  20 ](https://m.media-amazon.com/images/I/41sxL6rStPL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JKFTNY1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Speed Stride Split 1/4 Z al 51.84 % de rebaja'
 date: 2020-03-28 19:31:56
-image: 'https://m.media-amazon.com/images/I/3150keuXIwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3150keuXIwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.49'
 
 Tienes [Under Armour UA Speed Stride Split 1/4 Zip Ligera Deporte  Camiseta de Hombre de Manga Larga  Negro  MD](https://www.amazon.es/dp/B07CZDXH9F/?tag=tolees-21) con precio final de  26.49 EUR (original: 55.0 EUR) (51.84 %  de rebaja) aqui!
 
-[![Under Armour UA Speed Stride Split 1/4 Z](https://m.media-amazon.com/images/I/3150keuXIwL._SL200_.jpg)](https://www.amazon.es/dp/B07CZDXH9F/?tag=tolees-21)
+[![Under Armour UA Speed Stride Split 1/4 Z](https://m.media-amazon.com/images/I/3150keuXIwL._SL400_.jpg)](https://www.amazon.es/dp/B07CZDXH9F/?tag=tolees-21)
 
 🔎:
 

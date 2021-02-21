@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 66.32 % en Esprit 099eo1g039 Abrigo  Beige  Dusty N'
 date: 2020-02-12 10:23:48
-image: 'https://m.media-amazon.com/images/I/31+T8EaI7lL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+T8EaI7lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.52'
 
 Tienes [Esprit 099eo1g039 Abrigo  Beige  Dusty Nude 5 279   X-Large para Mujer](https://www.amazon.es/dp/B07VB725KN/?tag=tolees-21) con un 66.32 % de descuento con precio de oferta de 50.52 EUR (original: 149.99 EUR) en el siguiente enlace!
 
-[![Esprit 099eo1g039 Abrigo  Beige  Dusty N](https://m.media-amazon.com/images/I/31+T8EaI7lL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VB725KN/?tag=tolees-21)
+[![Esprit 099eo1g039 Abrigo  Beige  Dusty N](https://m.media-amazon.com/images/I/31+T8EaI7lL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07VB725KN/?tag=tolees-21)
 
 ℹ️:
 

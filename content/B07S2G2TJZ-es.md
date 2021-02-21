@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Vneck Camiseta  Blanco  White + 0 al 38.04 % de descuento'
 date: 2020-09-24 19:10:55
-image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.189999999999998'
 
 Ahora mismo tienes [Levi s Vneck Camiseta  Blanco  White + 0002   X-Small para Mujer](https://www.amazon.es/dp/B07S2G2TJZ/?tag=tolees-21) a 15.49 EUR (original: 25.0 EUR) (38.04 %  de descuento) en el siguiente enlace!
 
-[![Levi s Vneck Camiseta  Blanco  White + 0](https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg)](https://www.amazon.es/dp/B07S2G2TJZ/?tag=tolees-21)
+[![Levi s Vneck Camiseta  Blanco  White + 0](https://m.media-amazon.com/images/I/31A1BbZk2vL._SL400_.jpg)](https://www.amazon.es/dp/B07S2G2TJZ/?tag=tolees-21)
 
 🔎:
 

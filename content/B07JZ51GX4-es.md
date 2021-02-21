@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Recycled Short Puffer Cha al 64.54 % de rebaja'
 date: 2020-01-12 21:02:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDL%2BVzmyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDL%2BVzmyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.29'
 
 Tienes [Tommy Hilfiger Recycled Short Puffer Chaqueta  Azul  Black Iris 002   74 para Bebés](https://www.amazon.es/dp/B07JZ51GX4/?tag=tolees-21) con precio final de  49.29 EUR (original: 139 EUR) (64.54 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Recycled Short Puffer Cha](https://images-eu.ssl-images-amazon.com/images/I/41fDL%2BVzmyL._SL200_.jpg)](https://www.amazon.es/dp/B07JZ51GX4/?tag=tolees-21)
+[![Tommy Hilfiger Recycled Short Puffer Cha](https://images-eu.ssl-images-amazon.com/images/I/41fDL%2BVzmyL._SL400_.jpg)](https://www.amazon.es/dp/B07JZ51GX4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Vargo Plain  Zapatos de Cordones  al 18.88 % de rebaja'
 date: 2020-09-27 07:10:35
-image: 'https://m.media-amazon.com/images/I/41oOfWciVZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oOfWciVZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.35285714285715'
 
 Tienes [Clarks Vargo Plain  Zapatos de Cordones Derby  Marrón  Dark Brown Leather-   42.5 EU](https://www.amazon.es/dp/B07B94LMQW/?tag=tolees-21) con precio final de  72.97 EUR (original: 89.95 EUR) (18.88 %  de rebaja) aqui!
 
-[![Clarks Vargo Plain  Zapatos de Cordones ](https://m.media-amazon.com/images/I/41oOfWciVZL._SL200_.jpg)](https://www.amazon.es/dp/B07B94LMQW/?tag=tolees-21)
+[![Clarks Vargo Plain  Zapatos de Cordones ](https://m.media-amazon.com/images/I/41oOfWciVZL._SL400_.jpg)](https://www.amazon.es/dp/B07B94LMQW/?tag=tolees-21)
 
 🔎:
 

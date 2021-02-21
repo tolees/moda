@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Vest Jacob Vestido  Blanco  Bla con un 54.68 % de descuento'
 date: 2020-08-27 16:41:02
-image: 'https://m.media-amazon.com/images/I/41YJAyNauqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YJAyNauqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.23'
 
 En este momento está [Desigual Vest Jacob Vestido  Blanco  Blanco 1000   S para Mujer](https://www.amazon.es/dp/B07N3WK3ZL/?tag=tolees-21) a 36.23 EUR (original: 79.95 EUR) (54.68 %  de descuento) en el siguiente enlace!
 
-[![Desigual Vest Jacob Vestido  Blanco  Bla](https://m.media-amazon.com/images/I/41YJAyNauqL._SL200_.jpg)](https://www.amazon.es/dp/B07N3WK3ZL/?tag=tolees-21)
+[![Desigual Vest Jacob Vestido  Blanco  Bla](https://m.media-amazon.com/images/I/41YJAyNauqL._SL400_.jpg)](https://www.amazon.es/dp/B07N3WK3ZL/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.19 % en Jack & Jones Jjeorganic Basic tee SS O-N'
 date: 2020-07-20 09:33:20
-image: 'https://m.media-amazon.com/images/I/31nmv+7cCQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nmv+7cCQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Tienes [Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Negro  Black Detail: Slim   Medium para Hombre](https://www.amazon.es/dp/B07RYSG815/?tag=tolees-21) con un 46.19 % de descuento con precio de oferta de 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jjeorganic Basic tee SS O-N](https://m.media-amazon.com/images/I/31nmv+7cCQL._SL200_.jpg)](https://www.amazon.es/dp/B07RYSG815/?tag=tolees-21)
+[![Jack & Jones Jjeorganic Basic tee SS O-N](https://m.media-amazon.com/images/I/31nmv+7cCQL._SL400_.jpg)](https://www.amazon.es/dp/B07RYSG815/?tag=tolees-21)
 
 ℹ️:
 

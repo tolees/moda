@@ -2,7 +2,7 @@
 layout: post
 title: 'Brandit Mella Sommerparka Parka  Grün  O con un 77.35 % de descuento'
 date: 2020-01-23 08:01:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dNsPhVBWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dNsPhVBWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.560000000000002'
 
 En este momento está [Brandit Mella Sommerparka Parka  Grün  Olive 1  1  XL para Mujer](https://www.amazon.es/dp/B01N3UR3WX/?tag=tolees-21) a 19.92 EUR (original: 87.96 EUR) (77.35 %  de descuento) en el siguiente enlace!
 
-[![Brandit Mella Sommerparka Parka  Grün  O](https://images-eu.ssl-images-amazon.com/images/I/41dNsPhVBWL._SL200_.jpg)](https://www.amazon.es/dp/B01N3UR3WX/?tag=tolees-21)
+[![Brandit Mella Sommerparka Parka  Grün  O](https://images-eu.ssl-images-amazon.com/images/I/41dNsPhVBWL._SL400_.jpg)](https://www.amazon.es/dp/B01N3UR3WX/?tag=tolees-21)
 
 🔎:
 

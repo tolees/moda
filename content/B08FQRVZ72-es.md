@@ -2,7 +2,7 @@
 layout: post
 title: 'Estudiante Coreano Hombro Arte Fresh Mes al 33.50 % de descuento'
 date: 2020-08-17 15:14:13
-image: 'https://m.media-amazon.com/images/I/417bTZGwFbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417bTZGwFbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.44'
 
 Ahora mismo tienes [Estudiante Coreano Hombro Arte Fresh Messenger Canvas Bag Simple Cloth Bag Shoulder Bag Canvas Bag Bolso  Negro](https://www.amazon.es/dp/B08FQRVZ72/?tag=tolees-21) a 5.44 EUR (original: 8.18 EUR) (33.50 %  de descuento) en el siguiente enlace!
 
-[![Estudiante Coreano Hombro Arte Fresh Mes](https://m.media-amazon.com/images/I/417bTZGwFbL._SL200_.jpg)](https://www.amazon.es/dp/B08FQRVZ72/?tag=tolees-21)
+[![Estudiante Coreano Hombro Arte Fresh Mes](https://m.media-amazon.com/images/I/417bTZGwFbL._SL400_.jpg)](https://www.amazon.es/dp/B08FQRVZ72/?tag=tolees-21)
 
 🔎:
 

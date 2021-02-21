@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 69.31 % en Salomon PROPELLER DRY W Guantes para muj'
 date: 2020-03-05 14:31:28
-image: 'https://m.media-amazon.com/images/I/41tvdnbaUbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tvdnbaUbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.55'
 
 Tienes [Salomon PROPELLER DRY W Guantes para mujer](https://www.amazon.es/dp/B07885MBXL/?tag=tolees-21) con un 69.31 % de descuento con precio de oferta de 24.55 EUR (original: 80.0 EUR) en el siguiente enlace!
 
-[![Salomon PROPELLER DRY W Guantes para muj](https://m.media-amazon.com/images/I/41tvdnbaUbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07885MBXL/?tag=tolees-21)
+[![Salomon PROPELLER DRY W Guantes para muj](https://m.media-amazon.com/images/I/41tvdnbaUbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07885MBXL/?tag=tolees-21)
 
 ℹ️:
 

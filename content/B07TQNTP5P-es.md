@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.04 % en Levi s Relaxed Graphic tee Camiseta  Neg'
 date: 2020-08-01 14:33:51
-image: 'https://m.media-amazon.com/images/I/41CX8a9LMSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CX8a9LMSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.115'
 
 Tienes [Levi s Relaxed Graphic tee Camiseta  Negro  90 s Serif Logo Mineral Black 0044   XX-Large para Hombre](https://www.amazon.es/dp/B07TQNTP5P/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 14.99 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Levi s Relaxed Graphic tee Camiseta  Neg](https://m.media-amazon.com/images/I/41CX8a9LMSL._SL200_.jpg)](https://www.amazon.es/dp/B07TQNTP5P/?tag=tolees-21)
+[![Levi s Relaxed Graphic tee Camiseta  Neg](https://m.media-amazon.com/images/I/41CX8a9LMSL._SL400_.jpg)](https://www.amazon.es/dp/B07TQNTP5P/?tag=tolees-21)
 
 ℹ️:
 

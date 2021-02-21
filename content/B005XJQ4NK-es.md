@@ -2,7 +2,7 @@
 layout: post
 title: 'Eastpak Rusher Bolso bandolera  23 cm  N al 33.37 % de rebaja'
 date: 2020-07-05 09:53:39
-image: 'https://m.media-amazon.com/images/I/410yfAKscdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410yfAKscdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.558'
 
 Tienes [Eastpak Rusher Bolso bandolera  23 cm  Negro  Black ](https://www.amazon.es/dp/B005XJQ4NK/?tag=tolees-21) con precio final de  19.99 EUR (original: 30.0 EUR) (33.37 %  de rebaja) aqui!
 
-[![Eastpak Rusher Bolso bandolera  23 cm  N](https://m.media-amazon.com/images/I/410yfAKscdL._SL200_.jpg)](https://www.amazon.es/dp/B005XJQ4NK/?tag=tolees-21)
+[![Eastpak Rusher Bolso bandolera  23 cm  N](https://m.media-amazon.com/images/I/410yfAKscdL._SL400_.jpg)](https://www.amazon.es/dp/B005XJQ4NK/?tag=tolees-21)
 
 🔎:
 

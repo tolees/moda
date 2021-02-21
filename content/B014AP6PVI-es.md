@@ -2,7 +2,7 @@
 layout: post
 title: 'Dockers by Gerli 37wa703  Botines Unisex al 41.74 % de descuento'
 date: 2020-02-11 21:54:13
-image: 'https://m.media-amazon.com/images/I/51gmcufjKYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gmcufjKYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.18'
 
 Está [Dockers by Gerli 37wa703  Botines Unisex Niños  Marrón  Braun 300   33 EU](https://www.amazon.es/dp/B014AP6PVI/?tag=tolees-21) con 41.74 de descuento por 10.44 EUR (original: 17.92 EUR) en el siguiente enlace!
 
-[![Dockers by Gerli 37wa703  Botines Unisex](https://m.media-amazon.com/images/I/51gmcufjKYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B014AP6PVI/?tag=tolees-21)
+[![Dockers by Gerli 37wa703  Botines Unisex](https://m.media-amazon.com/images/I/51gmcufjKYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B014AP6PVI/?tag=tolees-21)
 
 ℹ️:
 

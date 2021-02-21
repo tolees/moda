@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack Wolfskin Vojo Hike 2 Texapore Mid W al 29.50 % de descuento'
 date: 2020-05-20 10:04:57
-image: 'https://m.media-amazon.com/images/I/41WrAPAafHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WrAPAafHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.3925'
 
 Ahora mismo tienes [Jack Wolfskin Vojo Hike 2 Texapore Mid W Wasserdicht  Zapatos de High Rise Senderismo para Mujer  Siltstone 5116  35.5 EU](https://www.amazon.es/dp/B07DB2V5N7/?tag=tolees-21) a 77.51 EUR (original: 109.95 EUR) (29.50 %  de descuento) en el siguiente enlace!
 
-[![Jack Wolfskin Vojo Hike 2 Texapore Mid W](https://m.media-amazon.com/images/I/41WrAPAafHL._SL200_.jpg)](https://www.amazon.es/dp/B07DB2V5N7/?tag=tolees-21)
+[![Jack Wolfskin Vojo Hike 2 Texapore Mid W](https://m.media-amazon.com/images/I/41WrAPAafHL._SL400_.jpg)](https://www.amazon.es/dp/B07DB2V5N7/?tag=tolees-21)
 
 🔎:
 

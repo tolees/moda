@@ -2,7 +2,7 @@
 layout: post
 title: 'Hpybest - Collar con colgante de silicon con un 50.16 % de descuento'
 date: 2020-05-07 14:49:02
-image: 'https://m.media-amazon.com/images/I/31fkOjOiwtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fkOjOiwtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.21'
 
 En este momento está [Hpybest - Collar con colgante de silicona para morder y morder](https://www.amazon.es/dp/B07SM6DCW8/?tag=tolees-21) a 3.21 EUR (original: 6.44 EUR) (50.16 %  de descuento) en el siguiente enlace!
 
-[![Hpybest - Collar con colgante de silicon](https://m.media-amazon.com/images/I/31fkOjOiwtL._SL200_.jpg)](https://www.amazon.es/dp/B07SM6DCW8/?tag=tolees-21)
+[![Hpybest - Collar con colgante de silicon](https://m.media-amazon.com/images/I/31fkOjOiwtL._SL400_.jpg)](https://www.amazon.es/dp/B07SM6DCW8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Crew Camisa Polo  Unisex Ad al 54.56 % de rebaja'
 date: 2020-06-11 05:44:24
-image: 'https://m.media-amazon.com/images/I/41j6KBFQPjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41j6KBFQPjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.45'
 
 Tienes [Helly Hansen Crew Camisa Polo  Unisex Adulto  Alert Red  M](https://www.amazon.es/dp/B07F2QFBY4/?tag=tolees-21) con precio final de  20.45 EUR (original: 45.0 EUR) (54.56 %  de rebaja) aqui!
 
-[![Helly Hansen Crew Camisa Polo  Unisex Ad](https://m.media-amazon.com/images/I/41j6KBFQPjL._SL200_.jpg)](https://www.amazon.es/dp/B07F2QFBY4/?tag=tolees-21)
+[![Helly Hansen Crew Camisa Polo  Unisex Ad](https://m.media-amazon.com/images/I/41j6KBFQPjL._SL400_.jpg)](https://www.amazon.es/dp/B07F2QFBY4/?tag=tolees-21)
 
 🔎:
 

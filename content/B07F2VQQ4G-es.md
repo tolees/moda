@@ -2,7 +2,7 @@
 layout: post
 title: 'Arena The One Gafas de Natación  Unisex  al 32.98 % de rebaja'
 date: 2020-05-17 11:05:32
-image: 'https://m.media-amazon.com/images/I/41gYcjVyyjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gYcjVyyjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.37'
 
 Tienes [Arena The One Gafas de Natación  Unisex Adulto  Rosa  Talla única](https://www.amazon.es/dp/B07F2VQQ4G/?tag=tolees-21) con precio final de  13.37 EUR (original: 19.95 EUR) (32.98 %  de rebaja) aqui!
 
-[![Arena The One Gafas de Natación  Unisex ](https://m.media-amazon.com/images/I/41gYcjVyyjL._SL200_.jpg)](https://www.amazon.es/dp/B07F2VQQ4G/?tag=tolees-21)
+[![Arena The One Gafas de Natación  Unisex ](https://m.media-amazon.com/images/I/41gYcjVyyjL._SL400_.jpg)](https://www.amazon.es/dp/B07F2VQQ4G/?tag=tolees-21)
 
 🔎:
 

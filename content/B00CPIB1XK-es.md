@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2750-Lamew S001820 - Zapatos de  al 39.90 % de descuento'
 date: 2020-09-26 12:40:21
-image: 'https://m.media-amazon.com/images/I/41-mOmxzMWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-mOmxzMWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.59'
 
 Está [Superga 2750-Lamew S001820 - Zapatos de lona para mujer  Black 999  36](https://www.amazon.es/dp/B00CPIB1XK/?tag=tolees-21) con 39.90 de descuento por 43.27 EUR (original: 72.0 EUR) en el siguiente enlace!
 
-[![Superga 2750-Lamew S001820 - Zapatos de ](https://m.media-amazon.com/images/I/41-mOmxzMWL._SL200_.jpg)](https://www.amazon.es/dp/B00CPIB1XK/?tag=tolees-21)
+[![Superga 2750-Lamew S001820 - Zapatos de ](https://m.media-amazon.com/images/I/41-mOmxzMWL._SL400_.jpg)](https://www.amazon.es/dp/B00CPIB1XK/?tag=tolees-21)
 
 ℹ️:
 

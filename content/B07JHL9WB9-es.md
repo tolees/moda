@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia WAYFINDER  Zapatos Multideporte al 69.69 % de rebaja'
 date: 2020-03-08 19:03:29
-image: 'https://m.media-amazon.com/images/I/41lGzsttjcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lGzsttjcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.31'
 
 Tienes [Columbia WAYFINDER  Zapatos Multideporte para Mujer  Negro  Black  Coral 010   37 EU](https://www.amazon.es/dp/B07JHL9WB9/?tag=tolees-21) con precio final de  30.31 EUR (original: 99.99 EUR) (69.69 %  de rebaja) aqui!
 
-[![Columbia WAYFINDER  Zapatos Multideporte](https://m.media-amazon.com/images/I/41lGzsttjcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JHL9WB9/?tag=tolees-21)
+[![Columbia WAYFINDER  Zapatos Multideporte](https://m.media-amazon.com/images/I/41lGzsttjcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JHL9WB9/?tag=tolees-21)
 
 🔎:
 

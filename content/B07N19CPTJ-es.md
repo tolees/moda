@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Logo tee  Camiseta para Hombre  Rojo al 20.04 % de rebaja'
 date: 2020-01-29 20:33:34
-image: 'https://m.media-amazon.com/images/I/41kv84a6qIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kv84a6qIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.677499999999998'
 
 Tienes [Lee Logo tee  Camiseta para Hombre  Rojo  Warp Red Kg   Medium](https://www.amazon.es/dp/B07N19CPTJ/?tag=tolees-21) con precio final de  19.99 EUR (original: 25.0 EUR) (20.04 %  de rebaja) aqui!
 
-[![Lee Logo tee  Camiseta para Hombre  Rojo](https://m.media-amazon.com/images/I/41kv84a6qIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N19CPTJ/?tag=tolees-21)
+[![Lee Logo tee  Camiseta para Hombre  Rojo](https://m.media-amazon.com/images/I/41kv84a6qIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N19CPTJ/?tag=tolees-21)
 
 🔎:
 

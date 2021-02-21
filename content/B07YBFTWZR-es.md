@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Print Box Camiseta  Azul  Dress Blu al 31.17 % de descuento'
 date: 2020-07-24 01:27:20
-image: 'https://m.media-amazon.com/images/I/41LBCSt9QCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LBCSt9QCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.51'
 
 Ahora mismo tienes [Vans Print Box Camiseta  Azul  Dress Blue Trap Floral Ykb   Large para Hombre](https://www.amazon.es/dp/B07YBFTWZR/?tag=tolees-21) a 20.51 EUR (original: 29.8 EUR) (31.17 %  de descuento) en el siguiente enlace!
 
-[![Vans Print Box Camiseta  Azul  Dress Blu](https://m.media-amazon.com/images/I/41LBCSt9QCL._SL200_.jpg)](https://www.amazon.es/dp/B07YBFTWZR/?tag=tolees-21)
+[![Vans Print Box Camiseta  Azul  Dress Blu](https://m.media-amazon.com/images/I/41LBCSt9QCL._SL400_.jpg)](https://www.amazon.es/dp/B07YBFTWZR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Modern Jaspe Camiseta  Az al 23.10 % de rebaja'
 date: 2020-03-21 09:32:58
-image: 'https://m.media-amazon.com/images/I/411-O6qdYCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411-O6qdYCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.65'
 
 Tienes [Tommy Hilfiger Modern Jaspe Camiseta  Azul  Blue Sapphire 423   Small para Hombre](https://www.amazon.es/dp/B07BY169PM/?tag=tolees-21) con precio final de  22.3 EUR (original: 29.0 EUR) (23.10 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Modern Jaspe Camiseta  Az](https://m.media-amazon.com/images/I/411-O6qdYCL._SL200_.jpg)](https://www.amazon.es/dp/B07BY169PM/?tag=tolees-21)
+[![Tommy Hilfiger Modern Jaspe Camiseta  Az](https://m.media-amazon.com/images/I/411-O6qdYCL._SL400_.jpg)](https://www.amazon.es/dp/B07BY169PM/?tag=tolees-21)
 
 🔎:
 

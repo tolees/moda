@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 41.02 % en Camper Balloon  Sandalias de Talón Abier'
 date: 2020-08-22 11:38:04
-image: 'https://m.media-amazon.com/images/I/31Qz55gOmlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Qz55gOmlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '76.67'
 
 Tienes [Camper Balloon  Sandalias de Talón Abierto para Mujer  Rojo  Medium Red 610   40 EU](https://www.amazon.es/dp/B07HHGGGZ5/?tag=tolees-21) con un 41.02 % de descuento con precio de oferta de 76.67 EUR (original: 130.0 EUR) en el siguiente enlace!
 
-[![Camper Balloon  Sandalias de Talón Abier](https://m.media-amazon.com/images/I/31Qz55gOmlL._SL200_.jpg)](https://www.amazon.es/dp/B07HHGGGZ5/?tag=tolees-21)
+[![Camper Balloon  Sandalias de Talón Abier](https://m.media-amazon.com/images/I/31Qz55gOmlL._SL400_.jpg)](https://www.amazon.es/dp/B07HHGGGZ5/?tag=tolees-21)
 
 ℹ️:
 

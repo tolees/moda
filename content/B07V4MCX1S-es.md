@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling NEW ELDORADO Bolso bandolera  20 al 33.18 % de descuento'
 date: 2020-08-15 20:55:18
-image: 'https://m.media-amazon.com/images/I/41m3iMsploL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m3iMsploL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.74'
 
 Está [Kipling NEW ELDORADO Bolso bandolera  20 cm  1 liters  Negro  Black Noir ](https://www.amazon.es/dp/B07V4MCX1S/?tag=tolees-21) con 33.18 de descuento por 32.74 EUR (original: 49.0 EUR) en el siguiente enlace!
 
-[![Kipling NEW ELDORADO Bolso bandolera  20](https://m.media-amazon.com/images/I/41m3iMsploL._SL200_.jpg)](https://www.amazon.es/dp/B07V4MCX1S/?tag=tolees-21)
+[![Kipling NEW ELDORADO Bolso bandolera  20](https://m.media-amazon.com/images/I/41m3iMsploL._SL400_.jpg)](https://www.amazon.es/dp/B07V4MCX1S/?tag=tolees-21)
 
 ℹ️:
 

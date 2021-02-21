@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Step Explorhi  Botines para Mujer al 36.70 % de descuento'
 date: 2020-09-27 04:30:37
-image: 'https://m.media-amazon.com/images/I/41zJNkMQxBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zJNkMQxBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.84'
 
 Está [Clarks Step Explorhi  Botines para Mujer  Negro  Black Black   37 EU](https://www.amazon.es/dp/B07N1HXWBD/?tag=tolees-21) con 36.70 de descuento por 44.28 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Clarks Step Explorhi  Botines para Mujer](https://m.media-amazon.com/images/I/41zJNkMQxBL._SL200_.jpg)](https://www.amazon.es/dp/B07N1HXWBD/?tag=tolees-21)
+[![Clarks Step Explorhi  Botines para Mujer](https://m.media-amazon.com/images/I/41zJNkMQxBL._SL400_.jpg)](https://www.amazon.es/dp/B07N1HXWBD/?tag=tolees-21)
 
 ℹ️:
 

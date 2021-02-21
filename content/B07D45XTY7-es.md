@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Suede Zapatos de Cordones Derby  G al 80.00 % de descuento'
 date: 2020-04-13 08:43:52
-image: 'https://m.media-amazon.com/images/I/31PverJ90zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PverJ90zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.0'
 
 Ahora mismo tienes [find. Suede Zapatos de Cordones Derby  Gris Grey  46 EU](https://www.amazon.es/dp/B07D45XTY7/?tag=tolees-21) a 12.0 EUR (original: 60.0 EUR) (80.00 %  de descuento) en el siguiente enlace!
 
-[![find. Suede Zapatos de Cordones Derby  G](https://m.media-amazon.com/images/I/31PverJ90zL._SL200_.jpg)](https://www.amazon.es/dp/B07D45XTY7/?tag=tolees-21)
+[![find. Suede Zapatos de Cordones Derby  G](https://m.media-amazon.com/images/I/31PverJ90zL._SL400_.jpg)](https://www.amazon.es/dp/B07D45XTY7/?tag=tolees-21)
 
 🔎:
 

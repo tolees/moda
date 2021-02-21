@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 410v6 Trail  Zapatos para Co al 54.39 % de descuento'
 date: 2020-06-02 07:43:15
-image: 'https://m.media-amazon.com/images/I/41OioAivifL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OioAivifL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.93'
 
 Ahora mismo tienes [New Balance 410v6 Trail  Zapatos para Correr para Mujer  Negro  Black Cm6   35 EU](https://www.amazon.es/dp/B07RGTY2TF/?tag=tolees-21) a 31.93 EUR (original: 70.0 EUR) (54.39 %  de descuento) en el siguiente enlace!
 
-[![New Balance 410v6 Trail  Zapatos para Co](https://m.media-amazon.com/images/I/41OioAivifL._SL200_.jpg)](https://www.amazon.es/dp/B07RGTY2TF/?tag=tolees-21)
+[![New Balance 410v6 Trail  Zapatos para Co](https://m.media-amazon.com/images/I/41OioAivifL._SL400_.jpg)](https://www.amazon.es/dp/B07RGTY2TF/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - AURIQUE Mallas de Deporte al 18.58 % de descuento'
 date: 2020-09-11 22:09:54
-image: 'https://m.media-amazon.com/images/I/41jdZ0U7zKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jdZ0U7zKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.869999999999997'
 
 Está [Marca Amazon - AURIQUE Mallas de Deporte sin Costuras de Tiro Alto Mujer  Negro  Black   38  Label:S](https://www.amazon.es/dp/B07CQ6NCCT/?tag=tolees-21) con 18.58 de descuento por 19.54 EUR (original: 24.0 EUR) en el siguiente enlace!
 
-[![Marca Amazon - AURIQUE Mallas de Deporte](https://m.media-amazon.com/images/I/41jdZ0U7zKL._SL200_.jpg)](https://www.amazon.es/dp/B07CQ6NCCT/?tag=tolees-21)
+[![Marca Amazon - AURIQUE Mallas de Deporte](https://m.media-amazon.com/images/I/41jdZ0U7zKL._SL400_.jpg)](https://www.amazon.es/dp/B07CQ6NCCT/?tag=tolees-21)
 
 ℹ️:
 

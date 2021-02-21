@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Courmayeur Valley  Zapatillas al 29.77 % de descuento'
 date: 2020-03-23 03:05:37
-image: 'https://m.media-amazon.com/images/I/31e4PnaaNBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e4PnaaNBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '108.86'
 
 Está [Timberland Courmayeur Valley  Zapatillas Chukka para Mujer  Negro  Black Full Grain   37 EU](https://www.amazon.es/dp/B0747NW6ZR/?tag=tolees-21) con 29.77 de descuento por 108.86 EUR (original: 155.0 EUR) en el siguiente enlace!
 
-[![Timberland Courmayeur Valley  Zapatillas](https://m.media-amazon.com/images/I/31e4PnaaNBL._SL200_.jpg)](https://www.amazon.es/dp/B0747NW6ZR/?tag=tolees-21)
+[![Timberland Courmayeur Valley  Zapatillas](https://m.media-amazon.com/images/I/31e4PnaaNBL._SL400_.jpg)](https://www.amazon.es/dp/B0747NW6ZR/?tag=tolees-21)
 
 ℹ️:
 

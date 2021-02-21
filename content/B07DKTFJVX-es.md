@@ -2,7 +2,7 @@
 layout: post
 title: 'Dickies Farnham Chaqueta  Marrón  X-Smal al 60.91 % de descuento'
 date: 2020-01-24 12:09:33
-image: 'https://m.media-amazon.com/images/I/416Nr9LZnsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416Nr9LZnsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.385000000000005'
 
 Ahora mismo tienes [Dickies Farnham Chaqueta  Marrón  X-Small  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07DKTFJVX/?tag=tolees-21) a 58.25 EUR (original: 149.0 EUR) (60.91 %  de descuento) en el siguiente enlace!
 
-[![Dickies Farnham Chaqueta  Marrón  X-Smal](https://m.media-amazon.com/images/I/416Nr9LZnsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DKTFJVX/?tag=tolees-21)
+[![Dickies Farnham Chaqueta  Marrón  X-Smal](https://m.media-amazon.com/images/I/416Nr9LZnsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DKTFJVX/?tag=tolees-21)
 
 🔎:
 

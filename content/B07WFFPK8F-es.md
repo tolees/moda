@@ -2,7 +2,7 @@
 layout: post
 title: 'VECDY Ropa Mujer  Blusas Elegante 2019 S con un 49.83 % de descuento'
 date: 2020-08-21 10:15:08
-image: 'https://m.media-amazon.com/images/I/41-MTxC7vfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-MTxC7vfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.5'
 
 En este momento está [VECDY Ropa Mujer  Blusas Elegante 2019 Solapa para Mujer Chaqueta De Felpa Suelta De Manga Larga con Bolsillo Cremallera De Piel Sintética De Piel De Oveja Borrosa Abrigo De Lana Abrigo Rosa S ](https://www.amazon.es/dp/B07WFFPK8F/?tag=tolees-21) a 1.5 EUR (original: 2.99 EUR) (49.83 %  de descuento) en el siguiente enlace!
 
-[![VECDY Ropa Mujer  Blusas Elegante 2019 S](https://m.media-amazon.com/images/I/41-MTxC7vfL._SL200_.jpg)](https://www.amazon.es/dp/B07WFFPK8F/?tag=tolees-21)
+[![VECDY Ropa Mujer  Blusas Elegante 2019 S](https://m.media-amazon.com/images/I/41-MTxC7vfL._SL400_.jpg)](https://www.amazon.es/dp/B07WFFPK8F/?tag=tolees-21)
 
 🔎:
 

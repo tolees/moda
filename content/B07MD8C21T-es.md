@@ -2,7 +2,7 @@
 layout: post
 title: 'UCB Benetton Ondas Bolsa deporte Bolso d al 26.09 % de descuento'
 date: 2020-04-07 11:27:30
-image: 'https://m.media-amazon.com/images/I/41IwEhZOX+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IwEhZOX+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.9'
 
 Está [UCB Benetton Ondas Bolsa deporte Bolso de viaje](https://www.amazon.es/dp/B07MD8C21T/?tag=tolees-21) con 26.09 de descuento por 27.9 EUR (original: 37.75 EUR) en el siguiente enlace!
 
-[![UCB Benetton Ondas Bolsa deporte Bolso d](https://m.media-amazon.com/images/I/41IwEhZOX+L._SL200_.jpg)](https://www.amazon.es/dp/B07MD8C21T/?tag=tolees-21)
+[![UCB Benetton Ondas Bolsa deporte Bolso d](https://m.media-amazon.com/images/I/41IwEhZOX+L._SL400_.jpg)](https://www.amazon.es/dp/B07MD8C21T/?tag=tolees-21)
 
 ℹ️:
 

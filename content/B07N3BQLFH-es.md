@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Coat SIGRUN Abrigo  blanco  Bla con un 64.01 % de descuento'
 date: 2020-08-24 08:10:38
-image: 'https://m.media-amazon.com/images/I/41AQg7X0kRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AQg7X0kRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.96'
 
 En este momento está [Desigual Coat SIGRUN Abrigo  blanco  Blanco 1000   40 para Mujer](https://www.amazon.es/dp/B07N3BQLFH/?tag=tolees-21) a 53.97 EUR (original: 149.95 EUR) (64.01 %  de descuento) en el siguiente enlace!
 
-[![Desigual Coat SIGRUN Abrigo  blanco  Bla](https://m.media-amazon.com/images/I/41AQg7X0kRL._SL200_.jpg)](https://www.amazon.es/dp/B07N3BQLFH/?tag=tolees-21)
+[![Desigual Coat SIGRUN Abrigo  blanco  Bla](https://m.media-amazon.com/images/I/41AQg7X0kRL._SL400_.jpg)](https://www.amazon.es/dp/B07N3BQLFH/?tag=tolees-21)
 
 🔎:
 

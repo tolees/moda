@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Charged Cotton Scramble Hom al 72.16 % de descuento'
 date: 2020-09-26 14:16:20
-image: 'https://m.media-amazon.com/images/I/41KmD+lj-VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KmD+lj-VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.97'
 
 Ahora mismo tienes [Under Armour Charged Cotton Scramble Hombre  Camisa Polo Masculina con Bolsillo En El Pecho Y Cuello De 2 Botones  Negro  XL](https://www.amazon.es/dp/B077XMZX7B/?tag=tolees-21) a 12.53 EUR (original: 45.0 EUR) (72.16 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Charged Cotton Scramble Hom](https://m.media-amazon.com/images/I/41KmD+lj-VL._SL200_.jpg)](https://www.amazon.es/dp/B077XMZX7B/?tag=tolees-21)
+[![Under Armour Charged Cotton Scramble Hom](https://m.media-amazon.com/images/I/41KmD+lj-VL._SL400_.jpg)](https://www.amazon.es/dp/B077XMZX7B/?tag=tolees-21)
 
 🔎:
 

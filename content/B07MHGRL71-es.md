@@ -2,7 +2,7 @@
 layout: post
 title: 'Iris & Lilly Bli2036  brallete sujetador al 35.02 % de descuento'
 date: 2020-02-01 14:05:46
-image: 'https://m.media-amazon.com/images/I/41Sron9ECVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Sron9ECVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.39'
 
 Está [Iris & Lilly Bli2036  brallete sujetador Mujer  Negro  Black Beauty   Small  Talla fabricante: Small ](https://www.amazon.es/dp/B07MHGRL71/?tag=tolees-21) con 35.02 de descuento por 10.39 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![Iris & Lilly Bli2036  brallete sujetador](https://m.media-amazon.com/images/I/41Sron9ECVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MHGRL71/?tag=tolees-21)
+[![Iris & Lilly Bli2036  brallete sujetador](https://m.media-amazon.com/images/I/41Sron9ECVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MHGRL71/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Arena Spider Jr Gafas de Natación  Unise al 26.00 % de descuento'
 date: 2020-08-19 21:25:57
-image: 'https://m.media-amazon.com/images/I/31XCDHlO-RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XCDHlO-RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.25'
 
 Ahora mismo tienes [Arena Spider Jr Gafas de Natación  Unisex niños  Rojo/Negro  Smoke   Universal](https://www.amazon.es/dp/B007O5K7UC/?tag=tolees-21) a 9.25 EUR (original: 12.5 EUR) (26.00 %  de descuento) en el siguiente enlace!
 
-[![Arena Spider Jr Gafas de Natación  Unise](https://m.media-amazon.com/images/I/31XCDHlO-RL._SL200_.jpg)](https://www.amazon.es/dp/B007O5K7UC/?tag=tolees-21)
+[![Arena Spider Jr Gafas de Natación  Unise](https://m.media-amazon.com/images/I/31XCDHlO-RL._SL400_.jpg)](https://www.amazon.es/dp/B007O5K7UC/?tag=tolees-21)
 
 🔎:
 

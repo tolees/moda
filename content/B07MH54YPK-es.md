@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Sport Sf7917 Sudadera premamá  G al 53.10 % de rebaja'
 date: 2020-04-08 08:14:56
-image: 'https://m.media-amazon.com/images/I/41YNzhRpHGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YNzhRpHGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.08'
 
 Tienes [Lacoste Sport Sf7917 Sudadera premamá  Gris  Argent Chiné Cca   40 para Mujer](https://www.amazon.es/dp/B07MH54YPK/?tag=tolees-21) con precio final de  56.28 EUR (original: 120.0 EUR) (53.10 %  de rebaja) aqui!
 
-[![Lacoste Sport Sf7917 Sudadera premamá  G](https://m.media-amazon.com/images/I/41YNzhRpHGL._SL200_.jpg)](https://www.amazon.es/dp/B07MH54YPK/?tag=tolees-21)
+[![Lacoste Sport Sf7917 Sudadera premamá  G](https://m.media-amazon.com/images/I/41YNzhRpHGL._SL400_.jpg)](https://www.amazon.es/dp/B07MH54YPK/?tag=tolees-21)
 
 🔎:
 

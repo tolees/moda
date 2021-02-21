@@ -2,7 +2,7 @@
 layout: post
 title: 'La Chaqueta Metálica  Edición Especial   al 27.30 % de descuento'
 date: 2020-02-04 16:37:02
-image: 'https://m.media-amazon.com/images/I/51HUepZbqEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HUepZbqEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.17'
 
 Ahora mismo tienes [La Chaqueta Metálica  Edición Especial  Bluray Iconic [Blu-ray]](https://www.amazon.es/dp/B07QKVVKRN/?tag=tolees-21) a 7.99 EUR (original: 10.99 EUR) (27.30 %  de descuento) en el siguiente enlace!
 
-[![La Chaqueta Metálica  Edición Especial  ](https://m.media-amazon.com/images/I/51HUepZbqEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QKVVKRN/?tag=tolees-21)
+[![La Chaqueta Metálica  Edición Especial  ](https://m.media-amazon.com/images/I/51HUepZbqEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QKVVKRN/?tag=tolees-21)
 
 🔎:
 

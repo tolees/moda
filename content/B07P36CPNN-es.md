@@ -2,7 +2,7 @@
 layout: post
 title: 'Dickies Sacramento Camisa  Morado  Large al 31.53 % de descuento'
 date: 2020-01-21 13:13:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417RbIqoKML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417RbIqoKML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35'
 
 Está [Dickies Sacramento Camisa  Morado  Large  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07P36CPNN/?tag=tolees-21) con 31.53 de descuento por 35 EUR (original: 51.12 EUR) en el siguiente enlace!
 
-[![Dickies Sacramento Camisa  Morado  Large](https://images-eu.ssl-images-amazon.com/images/I/417RbIqoKML._SL200_.jpg)](https://www.amazon.es/dp/B07P36CPNN/?tag=tolees-21)
+[![Dickies Sacramento Camisa  Morado  Large](https://images-eu.ssl-images-amazon.com/images/I/417RbIqoKML._SL400_.jpg)](https://www.amazon.es/dp/B07P36CPNN/?tag=tolees-21)
 
 ℹ️:
 

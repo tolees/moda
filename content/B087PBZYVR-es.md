@@ -2,7 +2,7 @@
 layout: post
 title: 'Suhctup Funda Compatible con iPhone 7/8  al 51.37 % de descuento'
 date: 2020-05-15 15:06:28
-image: 'https://m.media-amazon.com/images/I/51FDqNqGtyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FDqNqGtyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.98'
 
 Ahora mismo tienes [Suhctup Funda Compatible con iPhone 7/8 Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Verde](https://www.amazon.es/dp/B087PBZYVR/?tag=tolees-21) a 10.98 EUR (original: 22.58 EUR) (51.37 %  de descuento) en el siguiente enlace!
 
-[![Suhctup Funda Compatible con iPhone 7/8 ](https://m.media-amazon.com/images/I/51FDqNqGtyL._SL200_.jpg)](https://www.amazon.es/dp/B087PBZYVR/?tag=tolees-21)
+[![Suhctup Funda Compatible con iPhone 7/8 ](https://m.media-amazon.com/images/I/51FDqNqGtyL._SL400_.jpg)](https://www.amazon.es/dp/B087PBZYVR/?tag=tolees-21)
 
 🔎:
 

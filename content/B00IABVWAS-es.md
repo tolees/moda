@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 53.33 % en Helly Hansen Squamish Cis Chaqueta  Homb'
 date: 2020-01-19 18:58:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31mIkjzbzoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mIkjzbzoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '88.67'
 
 Tienes [Helly Hansen Squamish Cis Chaqueta  Hombre  Negro  M](https://www.amazon.es/dp/B00IABVWAS/?tag=tolees-21) con un 53.33 % de descuento con precio de oferta de 88.67 EUR (original: 190 EUR) en el siguiente enlace!
 
-[![Helly Hansen Squamish Cis Chaqueta  Homb](https://images-eu.ssl-images-amazon.com/images/I/31mIkjzbzoL._SL200_.jpg)](https://www.amazon.es/dp/B00IABVWAS/?tag=tolees-21)
+[![Helly Hansen Squamish Cis Chaqueta  Homb](https://images-eu.ssl-images-amazon.com/images/I/31mIkjzbzoL._SL400_.jpg)](https://www.amazon.es/dp/B00IABVWAS/?tag=tolees-21)
 
 ℹ️:
 

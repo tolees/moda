@@ -2,7 +2,7 @@
 layout: post
 title: 'Gant Stretch Oxford-Solid Shirt Blusa  R al 25.61 % de descuento'
 date: 2020-01-23 05:14:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41533N0bNOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41533N0bNOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.36'
 
 Está [Gant Stretch Oxford-Solid Shirt Blusa  Rosa  Light Pink 662   36  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B06X3VF71G/?tag=tolees-21) con 25.61 de descuento por 66.94 EUR (original: 89.99 EUR) en el siguiente enlace!
 
-[![Gant Stretch Oxford-Solid Shirt Blusa  R](https://images-eu.ssl-images-amazon.com/images/I/41533N0bNOL._SL200_.jpg)](https://www.amazon.es/dp/B06X3VF71G/?tag=tolees-21)
+[![Gant Stretch Oxford-Solid Shirt Blusa  R](https://images-eu.ssl-images-amazon.com/images/I/41533N0bNOL._SL400_.jpg)](https://www.amazon.es/dp/B06X3VF71G/?tag=tolees-21)
 
 ℹ️:
 

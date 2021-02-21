@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste TH7618  Camiseta para Hombre  Ro al 40.00 % de descuento'
 date: 2020-08-15 11:12:21
-image: 'https://m.media-amazon.com/images/I/41OKB0Fju3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OKB0Fju3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.0'
 
 Ahora mismo tienes [Lacoste TH7618  Camiseta para Hombre  Rojo  Rouge 240   X-Large  Talla del fabricante: 6 ](https://www.amazon.es/dp/B077HXTZTJ/?tag=tolees-21) a 24.0 EUR (original: 40.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Lacoste TH7618  Camiseta para Hombre  Ro](https://m.media-amazon.com/images/I/41OKB0Fju3L._SL200_.jpg)](https://www.amazon.es/dp/B077HXTZTJ/?tag=tolees-21)
+[![Lacoste TH7618  Camiseta para Hombre  Ro](https://m.media-amazon.com/images/I/41OKB0Fju3L._SL400_.jpg)](https://www.amazon.es/dp/B077HXTZTJ/?tag=tolees-21)
 
 🔎:
 

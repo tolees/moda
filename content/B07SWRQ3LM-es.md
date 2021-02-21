@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox J Sandal Alben Boy D  Sandalias con con un 30.00 % de descuento'
 date: 2020-06-27 14:02:17
-image: 'https://m.media-amazon.com/images/I/412Mpjg+fDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412Mpjg+fDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.93'
 
 En este momento está [Geox J Sandal Alben Boy D  Sandalias con Punta Abierta para Niños  Negro  Black/Grey C0017   26 EU](https://www.amazon.es/dp/B07SWRQ3LM/?tag=tolees-21) a 34.93 EUR (original: 49.9 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Geox J Sandal Alben Boy D  Sandalias con](https://m.media-amazon.com/images/I/412Mpjg+fDL._SL200_.jpg)](https://www.amazon.es/dp/B07SWRQ3LM/?tag=tolees-21)
+[![Geox J Sandal Alben Boy D  Sandalias con](https://m.media-amazon.com/images/I/412Mpjg+fDL._SL400_.jpg)](https://www.amazon.es/dp/B07SWRQ3LM/?tag=tolees-21)
 
 🔎:
 

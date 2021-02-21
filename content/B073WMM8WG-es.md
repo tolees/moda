@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars HQ1561 Sudadera  Morado  Purpl con un 64.81 % de descuento'
 date: 2020-01-23 20:04:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51dm1yPIIQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dm1yPIIQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.36'
 
 En este momento está [Star Wars HQ1561 Sudadera  Morado  Purple   6 años  Tamaño del Fabricante:6Y  para Niñas](https://www.amazon.es/dp/B073WMM8WG/?tag=tolees-21) a 4.36 EUR (original: 12.39 EUR) (64.81 %  de descuento) en el siguiente enlace!
 
-[![Star Wars HQ1561 Sudadera  Morado  Purpl](https://images-eu.ssl-images-amazon.com/images/I/51dm1yPIIQL._SL200_.jpg)](https://www.amazon.es/dp/B073WMM8WG/?tag=tolees-21)
+[![Star Wars HQ1561 Sudadera  Morado  Purpl](https://images-eu.ssl-images-amazon.com/images/I/51dm1yPIIQL._SL400_.jpg)](https://www.amazon.es/dp/B073WMM8WG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.04 % en Levi s Graphic Camiseta  Gris  84 Sports'
 date: 2020-09-22 18:21:36
-image: 'https://m.media-amazon.com/images/I/41XugffUYwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XugffUYwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.740416666666672'
 
 Tienes [Levi s Graphic Camiseta  Gris  84 Sportswear Logo Grey Midtone Grey Htr 0002   Large para Hombre](https://www.amazon.es/dp/B071L5YZ5R/?tag=tolees-21) con un 28.04 % de descuento con precio de oferta de 17.99 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Levi s Graphic Camiseta  Gris  84 Sports](https://m.media-amazon.com/images/I/41XugffUYwL._SL200_.jpg)](https://www.amazon.es/dp/B071L5YZ5R/?tag=tolees-21)
+[![Levi s Graphic Camiseta  Gris  84 Sports](https://m.media-amazon.com/images/I/41XugffUYwL._SL400_.jpg)](https://www.amazon.es/dp/B071L5YZ5R/?tag=tolees-21)
 
 ℹ️:
 

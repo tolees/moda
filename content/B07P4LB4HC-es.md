@@ -2,7 +2,7 @@
 layout: post
 title: 'Mujer Vestido Elegante sin Mangas lápiz  al 27.79 % de rebaja'
 date: 2020-05-31 09:53:01
-image: 'https://m.media-amazon.com/images/I/210BsZ0HKiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/210BsZ0HKiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 Tienes [Mujer Vestido Elegante sin Mangas lápiz para Cóctel Fiesta 2XL CL010987-1](https://www.amazon.es/dp/B07P4LB4HC/?tag=tolees-21) con precio final de  25.99 EUR (original: 35.99 EUR) (27.79 %  de rebaja) aqui!
 
-[![Mujer Vestido Elegante sin Mangas lápiz ](https://m.media-amazon.com/images/I/210BsZ0HKiL._SL200_.jpg)](https://www.amazon.es/dp/B07P4LB4HC/?tag=tolees-21)
+[![Mujer Vestido Elegante sin Mangas lápiz ](https://m.media-amazon.com/images/I/210BsZ0HKiL._SL400_.jpg)](https://www.amazon.es/dp/B07P4LB4HC/?tag=tolees-21)
 
 🔎:
 

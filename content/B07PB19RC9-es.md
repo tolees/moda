@@ -2,7 +2,7 @@
 layout: post
 title: 'gracosy Sandalias Cuero Deportivas para  al 44.78 % de rebaja'
 date: 2020-04-25 17:17:30
-image: 'https://m.media-amazon.com/images/I/51xHpv2WbrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xHpv2WbrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Tienes [gracosy Sandalias Cuero Deportivas para Hombre Verano Exterior con Punta Abierta Sandalias de Playa Zapatillas de Montaña Senderismo  Amarillo Marron  45 EU](https://www.amazon.es/dp/B07PB19RC9/?tag=tolees-21) con precio final de  36.99 EUR (original: 66.99 EUR) (44.78 %  de rebaja) aqui!
 
-[![gracosy Sandalias Cuero Deportivas para ](https://m.media-amazon.com/images/I/51xHpv2WbrL._SL200_.jpg)](https://www.amazon.es/dp/B07PB19RC9/?tag=tolees-21)
+[![gracosy Sandalias Cuero Deportivas para ](https://m.media-amazon.com/images/I/51xHpv2WbrL._SL400_.jpg)](https://www.amazon.es/dp/B07PB19RC9/?tag=tolees-21)
 
 🔎:
 

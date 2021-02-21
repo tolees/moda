@@ -2,7 +2,7 @@
 layout: post
 title: 'Meller - Kribi Tigris Carbon - Gafas de  al 25.00 % de descuento'
 date: 2020-06-28 20:14:16
-image: 'https://m.media-amazon.com/images/I/31-fZAUGrlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-fZAUGrlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.0'
 
 Está [Meller - Kribi Tigris Carbon - Gafas de sol para hombre y mujer](https://www.amazon.es/dp/B07NLF26VB/?tag=tolees-21) con 25.00 de descuento por 24.0 EUR (original: 32.0 EUR) en el siguiente enlace!
 
-[![Meller - Kribi Tigris Carbon - Gafas de ](https://m.media-amazon.com/images/I/31-fZAUGrlL._SL200_.jpg)](https://www.amazon.es/dp/B07NLF26VB/?tag=tolees-21)
+[![Meller - Kribi Tigris Carbon - Gafas de ](https://m.media-amazon.com/images/I/31-fZAUGrlL._SL400_.jpg)](https://www.amazon.es/dp/B07NLF26VB/?tag=tolees-21)
 
 ℹ️:
 

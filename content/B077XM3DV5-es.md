@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.50 % en Under Armour Tech 2.0. Camiseta masculin'
 date: 2020-04-26 13:46:40
-image: 'https://m.media-amazon.com/images/I/31hSm5W3kBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hSm5W3kBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.9'
 
 Tienes [Under Armour Tech 2.0. Camiseta masculina  camiseta transpirable  ancha camiseta para gimnasio de manga corta y secado rápido  White/Overcast Gray  100   LG](https://www.amazon.es/dp/B077XM3DV5/?tag=tolees-21) con un 32.50 % de descuento con precio de oferta de 18.9 EUR (original: 28.0 EUR) en el siguiente enlace!
 
-[![Under Armour Tech 2.0. Camiseta masculin](https://m.media-amazon.com/images/I/31hSm5W3kBL._SL200_.jpg)](https://www.amazon.es/dp/B077XM3DV5/?tag=tolees-21)
+[![Under Armour Tech 2.0. Camiseta masculin](https://m.media-amazon.com/images/I/31hSm5W3kBL._SL400_.jpg)](https://www.amazon.es/dp/B077XM3DV5/?tag=tolees-21)
 
 ℹ️:
 

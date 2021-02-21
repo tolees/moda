@@ -2,7 +2,7 @@
 layout: post
 title: 'XIAOYAO Hombre Sudadera con Capucha Depo con un 25.01 % de descuento'
 date: 2020-02-15 11:17:22
-image: 'https://m.media-amazon.com/images/I/41gCA3letiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gCA3letiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.24'
 
 En este momento está [XIAOYAO Hombre Sudadera con Capucha Deportiva Manga Larga Hoodie Casual Camisa de Entrenamiento  XL  Blanco Negro ](https://www.amazon.es/dp/B07JXYCWK8/?tag=tolees-21) a 22.49 EUR (original: 29.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![XIAOYAO Hombre Sudadera con Capucha Depo](https://m.media-amazon.com/images/I/41gCA3letiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JXYCWK8/?tag=tolees-21)
+[![XIAOYAO Hombre Sudadera con Capucha Depo](https://m.media-amazon.com/images/I/41gCA3letiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JXYCWK8/?tag=tolees-21)
 
 🔎:
 

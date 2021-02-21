@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Nebula B  Zapatillas sin Cordones al 77.00 % de descuento'
 date: 2020-08-29 19:29:18
-image: 'https://m.media-amazon.com/images/I/310qlzvJp-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310qlzvJp-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.6'
 
 Ahora mismo tienes [Geox D Nebula B  Zapatillas sin Cordones para Mujer  Negro  Black C9997   37 EU](https://www.amazon.es/dp/B07SVPXNRP/?tag=tolees-21) a 29.88 EUR (original: 129.9 EUR) (77.00 %  de descuento) en el siguiente enlace!
 
-[![Geox D Nebula B  Zapatillas sin Cordones](https://m.media-amazon.com/images/I/310qlzvJp-L._SL200_.jpg)](https://www.amazon.es/dp/B07SVPXNRP/?tag=tolees-21)
+[![Geox D Nebula B  Zapatillas sin Cordones](https://m.media-amazon.com/images/I/310qlzvJp-L._SL400_.jpg)](https://www.amazon.es/dp/B07SVPXNRP/?tag=tolees-21)
 
 🔎:
 

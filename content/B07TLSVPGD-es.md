@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Lexi Carmen  Sandalias de Talón A al 47.09 % de descuento'
 date: 2020-07-04 17:29:02
-image: 'https://m.media-amazon.com/images/I/412wYyid9wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412wYyid9wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.01'
 
 Ahora mismo tienes [Clarks Lexi Carmen  Sandalias de Talón Abierto para Mujer  Blanco  White Leather White Leather   39 EU](https://www.amazon.es/dp/B07TLSVPGD/?tag=tolees-21) a 37.01 EUR (original: 69.95 EUR) (47.09 %  de descuento) en el siguiente enlace!
 
-[![Clarks Lexi Carmen  Sandalias de Talón A](https://m.media-amazon.com/images/I/412wYyid9wL._SL200_.jpg)](https://www.amazon.es/dp/B07TLSVPGD/?tag=tolees-21)
+[![Clarks Lexi Carmen  Sandalias de Talón A](https://m.media-amazon.com/images/I/412wYyid9wL._SL400_.jpg)](https://www.amazon.es/dp/B07TLSVPGD/?tag=tolees-21)
 
 🔎:
 

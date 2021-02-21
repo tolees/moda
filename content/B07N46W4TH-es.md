@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual T-Shirt NIKO Camiseta  Verde  C al 64.12 % de rebaja'
 date: 2020-02-29 14:02:36
-image: 'https://m.media-amazon.com/images/I/41rF9jOX4XL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rF9jOX4XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.51'
 
 Tienes [Desigual T-Shirt NIKO Camiseta  Verde  Cactus 4029   L para Mujer](https://www.amazon.es/dp/B07N46W4TH/?tag=tolees-21) con precio final de  21.51 EUR (original: 59.95 EUR) (64.12 %  de rebaja) aqui!
 
-[![Desigual T-Shirt NIKO Camiseta  Verde  C](https://m.media-amazon.com/images/I/41rF9jOX4XL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N46W4TH/?tag=tolees-21)
+[![Desigual T-Shirt NIKO Camiseta  Verde  C](https://m.media-amazon.com/images/I/41rF9jOX4XL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N46W4TH/?tag=tolees-21)
 
 🔎:
 

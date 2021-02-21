@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen HH Tech tee Camiseta Deport al 65.25 % de descuento'
 date: 2020-03-09 06:52:48
-image: 'https://m.media-amazon.com/images/I/31xwKSCUjIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xwKSCUjIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Ahora mismo tienes [Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto  Mujer  Light Grey  L](https://www.amazon.es/dp/B073RP7DSG/?tag=tolees-21) a 6.95 EUR (original: 20.0 EUR) (65.25 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen HH Tech tee Camiseta Deport](https://m.media-amazon.com/images/I/31xwKSCUjIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B073RP7DSG/?tag=tolees-21)
+[![Helly Hansen HH Tech tee Camiseta Deport](https://m.media-amazon.com/images/I/31xwKSCUjIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B073RP7DSG/?tag=tolees-21)
 
 🔎:
 

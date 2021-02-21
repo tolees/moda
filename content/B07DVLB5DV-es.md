@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 77.40 % en Columbia Mujer Pantalón Convertible  Sat'
 date: 2020-02-08 18:34:05
-image: 'https://m.media-amazon.com/images/I/31UPQUuwXmL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UPQUuwXmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.08'
 
 Tienes [Columbia Mujer Pantalón Convertible  Saturday Trail II Convertible Pant  Nailon  Verde  Pond   Talla US: W12/L/  EU W44/L   1579851](https://www.amazon.es/dp/B07DVLB5DV/?tag=tolees-21) con un 77.40 % de descuento con precio de oferta de 18.08 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![Columbia Mujer Pantalón Convertible  Sat](https://m.media-amazon.com/images/I/31UPQUuwXmL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DVLB5DV/?tag=tolees-21)
+[![Columbia Mujer Pantalón Convertible  Sat](https://m.media-amazon.com/images/I/31UPQUuwXmL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DVLB5DV/?tag=tolees-21)
 
 ℹ️:
 

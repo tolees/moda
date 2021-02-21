@@ -2,7 +2,7 @@
 layout: post
 title: 'YIMI Gafas de Sol Hombre Deportivas Pola al 36.84 % de descuento'
 date: 2020-07-08 04:10:22
-image: 'https://m.media-amazon.com/images/I/31JSIxFLrEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JSIxFLrEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Ahora mismo tienes [YIMI Gafas de Sol Hombre Deportivas Polarizadas Fotocromaticas Para Hombre y Mujer Conducción Ciclismo Moto Pesca Esqui Golf Running Deporte Al Aire Libre Rectangulares Protección 100% UVA UVB](https://www.amazon.es/dp/B082S8BP2S/?tag=tolees-21) a 23.99 EUR (original: 37.98 EUR) (36.84 %  de descuento) en el siguiente enlace!
 
-[![YIMI Gafas de Sol Hombre Deportivas Pola](https://m.media-amazon.com/images/I/31JSIxFLrEL._SL200_.jpg)](https://www.amazon.es/dp/B082S8BP2S/?tag=tolees-21)
+[![YIMI Gafas de Sol Hombre Deportivas Pola](https://m.media-amazon.com/images/I/31JSIxFLrEL._SL400_.jpg)](https://www.amazon.es/dp/B082S8BP2S/?tag=tolees-21)
 
 🔎:
 

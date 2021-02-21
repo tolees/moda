@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour 1323415-001 Camiseta  Hombr al 48.60 % de descuento'
 date: 2020-06-24 06:18:45
-image: 'https://m.media-amazon.com/images/I/411oh+swBgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411oh+swBgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.087500000000002'
 
 Ahora mismo tienes [Under Armour 1323415-001 Camiseta  Hombre  Negro  L](https://www.amazon.es/dp/B071ZN1B2R/?tag=tolees-21) a 17.99 EUR (original: 35.0 EUR) (48.60 %  de descuento) en el siguiente enlace!
 
-[![Under Armour 1323415-001 Camiseta  Hombr](https://m.media-amazon.com/images/I/411oh+swBgL._SL200_.jpg)](https://www.amazon.es/dp/B071ZN1B2R/?tag=tolees-21)
+[![Under Armour 1323415-001 Camiseta  Hombr](https://m.media-amazon.com/images/I/411oh+swBgL._SL400_.jpg)](https://www.amazon.es/dp/B071ZN1B2R/?tag=tolees-21)
 
 🔎:
 

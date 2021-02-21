@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.00 % en Joma Nobel Pantalón de equipación  Antra'
 date: 2020-06-17 11:38:27
-image: 'https://m.media-amazon.com/images/I/41hYqVH7rVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hYqVH7rVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.94'
 
 Tienes [Joma Nobel Pantalón de equipación  Antracita  S](https://www.amazon.es/dp/B01CSTQ95A/?tag=tolees-21) con un 33.00 % de descuento con precio de oferta de 7.94 EUR (original: 11.85 EUR) en el siguiente enlace!
 
-[![Joma Nobel Pantalón de equipación  Antra](https://m.media-amazon.com/images/I/41hYqVH7rVL._SL200_.jpg)](https://www.amazon.es/dp/B01CSTQ95A/?tag=tolees-21)
+[![Joma Nobel Pantalón de equipación  Antra](https://m.media-amazon.com/images/I/41hYqVH7rVL._SL400_.jpg)](https://www.amazon.es/dp/B01CSTQ95A/?tag=tolees-21)
 
 ℹ️:
 

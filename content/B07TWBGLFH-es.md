@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Relaxed Crew New Sudadera  Rosa   al 54.08 % de descuento'
 date: 2020-07-08 13:26:42
-image: 'https://m.media-amazon.com/images/I/31uhvDOH-YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uhvDOH-YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.85'
 
 Ahora mismo tienes [Levi s Relaxed Crew New Sudadera  Rosa  Peach Blush 0003   Small para Mujer](https://www.amazon.es/dp/B07TWBGLFH/?tag=tolees-21) a 29.85 EUR (original: 65.0 EUR) (54.08 %  de descuento) en el siguiente enlace!
 
-[![Levi s Relaxed Crew New Sudadera  Rosa  ](https://m.media-amazon.com/images/I/31uhvDOH-YL._SL200_.jpg)](https://www.amazon.es/dp/B07TWBGLFH/?tag=tolees-21)
+[![Levi s Relaxed Crew New Sudadera  Rosa  ](https://m.media-amazon.com/images/I/31uhvDOH-YL._SL400_.jpg)](https://www.amazon.es/dp/B07TWBGLFH/?tag=tolees-21)
 
 🔎:
 

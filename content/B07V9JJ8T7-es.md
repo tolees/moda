@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein Essential Slim V Neck tee C al 54.33 % de descuento'
 date: 2020-06-22 20:04:51
-image: 'https://m.media-amazon.com/images/I/31grN6765aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31grN6765aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.81'
 
 Ahora mismo tienes [Calvin Klein Essential Slim V Neck tee Camiseta  Negro  CK Black Bae   Small para Hombre](https://www.amazon.es/dp/B07V9JJ8T7/?tag=tolees-21) a 17.81 EUR (original: 39.0 EUR) (54.33 %  de descuento) en el siguiente enlace!
 
-[![Calvin Klein Essential Slim V Neck tee C](https://m.media-amazon.com/images/I/31grN6765aL._SL200_.jpg)](https://www.amazon.es/dp/B07V9JJ8T7/?tag=tolees-21)
+[![Calvin Klein Essential Slim V Neck tee C](https://m.media-amazon.com/images/I/31grN6765aL._SL400_.jpg)](https://www.amazon.es/dp/B07V9JJ8T7/?tag=tolees-21)
 
 🔎:
 

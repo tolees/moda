@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.03 % en Wrangler Straight Vaqueros para Mujer  A'
 date: 2020-01-21 15:03:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tKusqkkxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tKusqkkxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.95'
 
 Tienes [Wrangler Straight Vaqueros para Mujer  Azul  Best Blue 94O   30W / 34L](https://www.amazon.es/dp/B01MA5RXQW/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 44.95 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Wrangler Straight Vaqueros para Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41tKusqkkxL._SL200_.jpg)](https://www.amazon.es/dp/B01MA5RXQW/?tag=tolees-21)
+[![Wrangler Straight Vaqueros para Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41tKusqkkxL._SL400_.jpg)](https://www.amazon.es/dp/B01MA5RXQW/?tag=tolees-21)
 
 ℹ️:
 

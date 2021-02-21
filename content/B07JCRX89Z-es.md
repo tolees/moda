@@ -2,7 +2,7 @@
 layout: post
 title: 'VERO MODA Vmverodona LS Jacket Noos Abri al 40.01 % de rebaja'
 date: 2020-05-28 17:18:41
-image: 'https://m.media-amazon.com/images/I/31I9OkKEuNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31I9OkKEuNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [VERO MODA Vmverodona LS Jacket Noos Abrigo  Rosado  Mocha Mousse Detail:MELANGE   42  Talla del fabricante: Large  para Mujer](https://www.amazon.es/dp/B07JCRX89Z/?tag=tolees-21) con precio final de  29.99 EUR (original: 49.99 EUR) (40.01 %  de rebaja) aqui!
 
-[![VERO MODA Vmverodona LS Jacket Noos Abri](https://m.media-amazon.com/images/I/31I9OkKEuNL._SL200_.jpg)](https://www.amazon.es/dp/B07JCRX89Z/?tag=tolees-21)
+[![VERO MODA Vmverodona LS Jacket Noos Abri](https://m.media-amazon.com/images/I/31I9OkKEuNL._SL400_.jpg)](https://www.amazon.es/dp/B07JCRX89Z/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Zapatos para Correr En Montaña Asfalto A al 50.22 % de descuento'
 date: 2020-05-22 19:03:18
-image: 'https://m.media-amazon.com/images/I/51Ih4NjgHbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ih4NjgHbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 Está [Zapatos para Correr En Montaña Asfalto Aire Libre Deportes Zapatillas De Running para Hombre](https://www.amazon.es/dp/B079NXS1GZ/?tag=tolees-21) con 50.22 de descuento por 25.99 EUR (original: 52.21 EUR) en el siguiente enlace!
 
-[![Zapatos para Correr En Montaña Asfalto A](https://m.media-amazon.com/images/I/51Ih4NjgHbL._SL200_.jpg)](https://www.amazon.es/dp/B079NXS1GZ/?tag=tolees-21)
+[![Zapatos para Correr En Montaña Asfalto A](https://m.media-amazon.com/images/I/51Ih4NjgHbL._SL400_.jpg)](https://www.amazon.es/dp/B079NXS1GZ/?tag=tolees-21)
 
 ℹ️:
 

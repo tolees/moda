@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 57.05 % en Lacoste TH6712 Camiseta  Azul  Marine   '
 date: 2020-04-20 22:45:25
-image: 'https://m.media-amazon.com/images/I/31U6wBxkldL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31U6wBxkldL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.589999999999996'
 
 Tienes [Lacoste TH6712 Camiseta  Azul  Marine   Small  Talla del Fabricante: 3  para Hombre](https://www.amazon.es/dp/B01M5GTEGH/?tag=tolees-21) con un 57.05 % de descuento con precio de oferta de 25.77 EUR (original: 60.0 EUR) en el siguiente enlace!
 
-[![Lacoste TH6712 Camiseta  Azul  Marine   ](https://m.media-amazon.com/images/I/31U6wBxkldL._SL200_.jpg)](https://www.amazon.es/dp/B01M5GTEGH/?tag=tolees-21)
+[![Lacoste TH6712 Camiseta  Azul  Marine   ](https://m.media-amazon.com/images/I/31U6wBxkldL._SL400_.jpg)](https://www.amazon.es/dp/B01M5GTEGH/?tag=tolees-21)
 
 ℹ️:
 

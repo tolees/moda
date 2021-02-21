@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 099cc2g022 Chaqueta  Gris  al 84.16 % de rebaja'
 date: 2020-04-26 18:48:02
-image: 'https://m.media-amazon.com/images/I/41z-VGlIu7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41z-VGlIu7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.59'
 
 Tienes [edc by Esprit 099cc2g022 Chaqueta  Gris  Dark Grey 020   XX-Large para Hombre](https://www.amazon.es/dp/B07VDJ564V/?tag=tolees-21) con precio final de  20.59 EUR (original: 129.99 EUR) (84.16 %  de rebaja) aqui!
 
-[![edc by Esprit 099cc2g022 Chaqueta  Gris ](https://m.media-amazon.com/images/I/41z-VGlIu7L._SL200_.jpg)](https://www.amazon.es/dp/B07VDJ564V/?tag=tolees-21)
+[![edc by Esprit 099cc2g022 Chaqueta  Gris ](https://m.media-amazon.com/images/I/41z-VGlIu7L._SL400_.jpg)](https://www.amazon.es/dp/B07VDJ564V/?tag=tolees-21)
 
 🔎:
 

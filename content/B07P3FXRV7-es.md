@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Vintage Logo Flock Floral Entry al 64.15 % de descuento'
 date: 2020-02-09 00:01:11
-image: 'https://m.media-amazon.com/images/I/41gVnearVhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gVnearVhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.75'
 
 Ahora mismo tienes [Superdry Vintage Logo Flock Floral Entry tee Camiseta  Gris  Grey Marl 07q   X-Small para Mujer](https://www.amazon.es/dp/B07P3FXRV7/?tag=tolees-21) a 10.75 EUR (original: 29.99 EUR) (64.15 %  de descuento) en el siguiente enlace!
 
-[![Superdry Vintage Logo Flock Floral Entry](https://m.media-amazon.com/images/I/41gVnearVhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07P3FXRV7/?tag=tolees-21)
+[![Superdry Vintage Logo Flock Floral Entry](https://m.media-amazon.com/images/I/41gVnearVhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07P3FXRV7/?tag=tolees-21)
 
 🔎:
 

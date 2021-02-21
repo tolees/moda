@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Tiro 19 Camiseta Entrenamiento  H con un 42.55 % de descuento'
 date: 2020-09-30 07:05:28
-image: 'https://m.media-amazon.com/images/I/41alNoq+VBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41alNoq+VBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.95'
 
 En este momento está [adidas Tiro 19 Camiseta Entrenamiento  Hombre  Negro  Black/White   L](https://www.amazon.es/dp/B07JR8TQRY/?tag=tolees-21) a 22.95 EUR (original: 39.95 EUR) (42.55 %  de descuento) en el siguiente enlace!
 
-[![adidas Tiro 19 Camiseta Entrenamiento  H](https://m.media-amazon.com/images/I/41alNoq+VBL._SL200_.jpg)](https://www.amazon.es/dp/B07JR8TQRY/?tag=tolees-21)
+[![adidas Tiro 19 Camiseta Entrenamiento  H](https://m.media-amazon.com/images/I/41alNoq+VBL._SL400_.jpg)](https://www.amazon.es/dp/B07JR8TQRY/?tag=tolees-21)
 
 🔎:
 

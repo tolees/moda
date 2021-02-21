@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Rhye Camiseta  Blanco  Optic  al 52.17 % de rebaja'
 date: 2020-10-03 13:41:36
-image: 'https://m.media-amazon.com/images/I/31DCgmDHMvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DCgmDHMvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.048571428571428'
 
 Tienes [Pepe Jeans Rhye Camiseta  Blanco  Optic White 802   Medium para Hombre](https://www.amazon.es/dp/B07N99DZJL/?tag=tolees-21) con precio final de  16.74 EUR (original: 35.0 EUR) (52.17 %  de rebaja) aqui!
 
-[![Pepe Jeans Rhye Camiseta  Blanco  Optic ](https://m.media-amazon.com/images/I/31DCgmDHMvL._SL200_.jpg)](https://www.amazon.es/dp/B07N99DZJL/?tag=tolees-21)
+[![Pepe Jeans Rhye Camiseta  Blanco  Optic ](https://m.media-amazon.com/images/I/31DCgmDHMvL._SL400_.jpg)](https://www.amazon.es/dp/B07N99DZJL/?tag=tolees-21)
 
 🔎:
 

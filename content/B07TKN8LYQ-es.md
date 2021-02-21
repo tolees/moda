@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Maritsa Lara  Sandalias de Talón  con un 65.95 % de descuento'
 date: 2020-07-16 07:39:53
-image: 'https://m.media-amazon.com/images/I/41uknYaR9DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uknYaR9DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.836666666666666'
 
 En este momento está [Clarks Maritsa Lara  Sandalias de Talón Abierto para Mujer  Rosa  Fuchsia Suede Fuchsia Suede   35.5 EU](https://www.amazon.es/dp/B07TKN8LYQ/?tag=tolees-21) a 34.03 EUR (original: 99.95 EUR) (65.95 %  de descuento) en el siguiente enlace!
 
-[![Clarks Maritsa Lara  Sandalias de Talón ](https://m.media-amazon.com/images/I/41uknYaR9DL._SL200_.jpg)](https://www.amazon.es/dp/B07TKN8LYQ/?tag=tolees-21)
+[![Clarks Maritsa Lara  Sandalias de Talón ](https://m.media-amazon.com/images/I/41uknYaR9DL._SL400_.jpg)](https://www.amazon.es/dp/B07TKN8LYQ/?tag=tolees-21)
 
 🔎:
 

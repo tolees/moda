@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 16.63 % en Carrera 96/S NR GVB Gafas de sol  Negro '
 date: 2020-01-03 15:34:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31K77oOzpFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31K77oOzpFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.87'
 
 Tienes [Carrera 96/S NR GVB Gafas de sol  Negro  Shiny Matte Black/Brown Grey   58 Unisex-Adulto](https://www.amazon.es/dp/B00UKEJDKY/?tag=tolees-21) con un 16.63 % de descuento con precio de oferta de 90.87 EUR (original: 109 EUR) en el siguiente enlace!
 
-[![Carrera 96/S NR GVB Gafas de sol  Negro ](https://images-eu.ssl-images-amazon.com/images/I/31K77oOzpFL._SL200_.jpg)](https://www.amazon.es/dp/B00UKEJDKY/?tag=tolees-21)
+[![Carrera 96/S NR GVB Gafas de sol  Negro ](https://images-eu.ssl-images-amazon.com/images/I/31K77oOzpFL._SL400_.jpg)](https://www.amazon.es/dp/B00UKEJDKY/?tag=tolees-21)
 
 ℹ️:
 

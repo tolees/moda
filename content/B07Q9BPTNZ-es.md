@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry VL Tonal Tape Hood Sudadera con al 53.06 % de rebaja'
 date: 2020-03-14 11:44:02
-image: 'https://m.media-amazon.com/images/I/41xkbHC2O5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xkbHC2O5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.55'
 
 Tienes [Superdry VL Tonal Tape Hood Sudadera con Capucha  Negro  Black 02a   Small para Hombre](https://www.amazon.es/dp/B07Q9BPTNZ/?tag=tolees-21) con precio final de  37.55 EUR (original: 79.99 EUR) (53.06 %  de rebaja) aqui!
 
-[![Superdry VL Tonal Tape Hood Sudadera con](https://m.media-amazon.com/images/I/41xkbHC2O5L._SL200_.jpg)](https://www.amazon.es/dp/B07Q9BPTNZ/?tag=tolees-21)
+[![Superdry VL Tonal Tape Hood Sudadera con](https://m.media-amazon.com/images/I/41xkbHC2O5L._SL400_.jpg)](https://www.amazon.es/dp/B07Q9BPTNZ/?tag=tolees-21)
 
 🔎:
 

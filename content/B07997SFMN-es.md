@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - MERAKI Camisa de Vestir d al 70.76 % de descuento'
 date: 2020-07-14 05:47:04
-image: 'https://m.media-amazon.com/images/I/31+ldf4-EkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+ldf4-EkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.31'
 
 Ahora mismo tienes [Marca Amazon - MERAKI Camisa de Vestir de Corte Recto Hombre  Azul  Light Blue   S  Label: S](https://www.amazon.es/dp/B07997SFMN/?tag=tolees-21) a 7.31 EUR (original: 25.0 EUR) (70.76 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - MERAKI Camisa de Vestir d](https://m.media-amazon.com/images/I/31+ldf4-EkL._SL200_.jpg)](https://www.amazon.es/dp/B07997SFMN/?tag=tolees-21)
+[![Marca Amazon - MERAKI Camisa de Vestir d](https://m.media-amazon.com/images/I/31+ldf4-EkL._SL400_.jpg)](https://www.amazon.es/dp/B07997SFMN/?tag=tolees-21)
 
 🔎:
 

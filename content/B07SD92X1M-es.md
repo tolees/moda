@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Crew Midlayer Chaqueta Depo al 57.30 % de descuento'
 date: 2020-08-12 09:11:27
-image: 'https://m.media-amazon.com/images/I/416L1zQYnjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416L1zQYnjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.02714285714286'
 
 Está [Helly Hansen Crew Midlayer Chaqueta Deportiva Impermeable  Hombre  Royal Blue  S](https://www.amazon.es/dp/B07SD92X1M/?tag=tolees-21) con 57.30 de descuento por 64.05 EUR (original: 150.0 EUR) en el siguiente enlace!
 
-[![Helly Hansen Crew Midlayer Chaqueta Depo](https://m.media-amazon.com/images/I/416L1zQYnjL._SL200_.jpg)](https://www.amazon.es/dp/B07SD92X1M/?tag=tolees-21)
+[![Helly Hansen Crew Midlayer Chaqueta Depo](https://m.media-amazon.com/images/I/416L1zQYnjL._SL400_.jpg)](https://www.amazon.es/dp/B07SD92X1M/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Naf Naf Kenr2d Vestido  Marfil  Ecru/Fad con un 47.54 % de descuento'
 date: 2020-01-27 01:57:16
-image: 'https://images-eu.ssl-images-amazon.com/images/I/310eicW93-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310eicW93-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.59'
 
 En este momento está [Naf Naf Kenr2d Vestido  Marfil  Ecru/Fadded A and   34 para Mujer](https://www.amazon.es/dp/B07KKR13SY/?tag=tolees-21) a 44.59 EUR (original: 85 EUR) (47.54 %  de descuento) en el siguiente enlace!
 
-[![Naf Naf Kenr2d Vestido  Marfil  Ecru/Fad](https://images-eu.ssl-images-amazon.com/images/I/310eicW93-L._SL200_.jpg)](https://www.amazon.es/dp/B07KKR13SY/?tag=tolees-21)
+[![Naf Naf Kenr2d Vestido  Marfil  Ecru/Fad](https://images-eu.ssl-images-amazon.com/images/I/310eicW93-L._SL400_.jpg)](https://www.amazon.es/dp/B07KKR13SY/?tag=tolees-21)
 
 🔎:
 

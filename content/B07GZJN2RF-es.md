@@ -2,7 +2,7 @@
 layout: post
 title: 'CONQUECO - Chaleco - Moda - Sin Mangas - al 28.57 % de descuento'
 date: 2020-01-15 17:45:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HROkz0kAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HROkz0kAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 Ahora mismo tienes [CONQUECO - Chaleco - Moda - Sin Mangas - para Hombre Negro Negro  Medium](https://www.amazon.es/dp/B07GZJN2RF/?tag=tolees-21) a 99.99 EUR (original: 139.99 EUR) (28.57 %  de descuento) en el siguiente enlace!
 
-[![CONQUECO - Chaleco - Moda - Sin Mangas -](https://images-eu.ssl-images-amazon.com/images/I/41HROkz0kAL._SL200_.jpg)](https://www.amazon.es/dp/B07GZJN2RF/?tag=tolees-21)
+[![CONQUECO - Chaleco - Moda - Sin Mangas -](https://images-eu.ssl-images-amazon.com/images/I/41HROkz0kAL._SL400_.jpg)](https://www.amazon.es/dp/B07GZJN2RF/?tag=tolees-21)
 
 🔎:
 

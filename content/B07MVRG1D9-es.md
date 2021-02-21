@@ -2,7 +2,7 @@
 layout: post
 title: 'Joules Golightly Abrigo para Lluvia  Mor al 38.73 % de rebaja'
 date: 2020-05-06 10:26:25
-image: 'https://m.media-amazon.com/images/I/41Ze5ldFPVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ze5ldFPVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.51'
 
 Tienes [Joules Golightly Abrigo para Lluvia  Morado  Berry Peony Berry Peony   40 para Mujer](https://www.amazon.es/dp/B07MVRG1D9/?tag=tolees-21) con precio final de  31.51 EUR (original: 51.43 EUR) (38.73 %  de rebaja) aqui!
 
-[![Joules Golightly Abrigo para Lluvia  Mor](https://m.media-amazon.com/images/I/41Ze5ldFPVL._SL200_.jpg)](https://www.amazon.es/dp/B07MVRG1D9/?tag=tolees-21)
+[![Joules Golightly Abrigo para Lluvia  Mor](https://m.media-amazon.com/images/I/41Ze5ldFPVL._SL400_.jpg)](https://www.amazon.es/dp/B07MVRG1D9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - MERAKI Polo Hombre  Azul  al 22.86 % de rebaja'
 date: 2020-06-15 12:47:59
-image: 'https://m.media-amazon.com/images/I/41M57+7j6PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41M57+7j6PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.842857142857144'
 
 Tienes [Marca Amazon - MERAKI Polo Hombre  Azul  Navy Marl   S  Label: S](https://www.amazon.es/dp/B07MS914QD/?tag=tolees-21) con precio final de  6.14 EUR (original: 7.96 EUR) (22.86 %  de rebaja) aqui!
 
-[![Marca Amazon - MERAKI Polo Hombre  Azul ](https://m.media-amazon.com/images/I/41M57+7j6PL._SL200_.jpg)](https://www.amazon.es/dp/B07MS914QD/?tag=tolees-21)
+[![Marca Amazon - MERAKI Polo Hombre  Azul ](https://m.media-amazon.com/images/I/41M57+7j6PL._SL400_.jpg)](https://www.amazon.es/dp/B07MS914QD/?tag=tolees-21)
 
 🔎:
 

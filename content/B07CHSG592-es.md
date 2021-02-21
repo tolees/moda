@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  Negr al 40.00 % de descuento'
 date: 2020-05-08 18:53:59
-image: 'https://m.media-amazon.com/images/I/31RnVgKVS4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RnVgKVS4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.0'
 
 Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Negro  Cotton + Patch Black 0009   XX-Large para Hombre](https://www.amazon.es/dp/B07CHSG592/?tag=tolees-21) a 15.0 EUR (original: 25.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Levi s SS Original Hm tee Camiseta  Negr](https://m.media-amazon.com/images/I/31RnVgKVS4L._SL200_.jpg)](https://www.amazon.es/dp/B07CHSG592/?tag=tolees-21)
+[![Levi s SS Original Hm tee Camiseta  Negr](https://m.media-amazon.com/images/I/31RnVgKVS4L._SL400_.jpg)](https://www.amazon.es/dp/B07CHSG592/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2750-cotu Classic  Zapatilla Baj con un 51.85 % de descuento'
 date: 2020-06-05 01:44:59
-image: 'https://m.media-amazon.com/images/I/41Ot4JJUd2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ot4JJUd2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.41'
 
 En este momento está [Superga 2750-cotu Classic  Zapatilla Baja Unisex Adulto  Grün  Green Aqua   37 EU](https://www.amazon.es/dp/B01N1G8MDK/?tag=tolees-21) a 28.41 EUR (original: 59.0 EUR) (51.85 %  de descuento) en el siguiente enlace!
 
-[![Superga 2750-cotu Classic  Zapatilla Baj](https://m.media-amazon.com/images/I/41Ot4JJUd2L._SL200_.jpg)](https://www.amazon.es/dp/B01N1G8MDK/?tag=tolees-21)
+[![Superga 2750-cotu Classic  Zapatilla Baj](https://m.media-amazon.com/images/I/41Ot4JJUd2L._SL400_.jpg)](https://www.amazon.es/dp/B01N1G8MDK/?tag=tolees-21)
 
 🔎:
 

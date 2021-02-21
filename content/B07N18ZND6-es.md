@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW ARC 3D Vaqueros  Authentic Fa al 54.99 % de descuento'
 date: 2020-02-11 17:26:00
-image: 'https://m.media-amazon.com/images/I/419d0Ux1baL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419d0Ux1baL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.99'
 
 Está [G-STAR RAW ARC 3D Vaqueros  Authentic Faded Blue  31W / 36L para Hombre](https://www.amazon.es/dp/B07N18ZND6/?tag=tolees-21) con 54.99 de descuento por 44.99 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW ARC 3D Vaqueros  Authentic Fa](https://m.media-amazon.com/images/I/419d0Ux1baL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N18ZND6/?tag=tolees-21)
+[![G-STAR RAW ARC 3D Vaqueros  Authentic Fa](https://m.media-amazon.com/images/I/419d0Ux1baL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N18ZND6/?tag=tolees-21)
 
 ℹ️:
 

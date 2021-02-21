@@ -2,7 +2,7 @@
 layout: post
 title: 'Panama Jack Sanders Basics  Sandalias co al 55.00 % de descuento'
 date: 2020-08-27 18:32:51
-image: 'https://m.media-amazon.com/images/I/41+6bIAkGbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+6bIAkGbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.05'
 
 Está [Panama Jack Sanders Basics  Sandalias con Punta Abierta para Hombre  Marrón  Marron C1   47 EU](https://www.amazon.es/dp/B07BK76QKF/?tag=tolees-21) con 55.00 de descuento por 49.05 EUR (original: 109.0 EUR) en el siguiente enlace!
 
-[![Panama Jack Sanders Basics  Sandalias co](https://m.media-amazon.com/images/I/41+6bIAkGbL._SL200_.jpg)](https://www.amazon.es/dp/B07BK76QKF/?tag=tolees-21)
+[![Panama Jack Sanders Basics  Sandalias co](https://m.media-amazon.com/images/I/41+6bIAkGbL._SL400_.jpg)](https://www.amazon.es/dp/B07BK76QKF/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - MERAKI Falda de Algodón M al 31.90 % de descuento'
 date: 2020-06-22 17:10:45
-image: 'https://m.media-amazon.com/images/I/31SMGb5A8JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SMGb5A8JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.94'
 
 Ahora mismo tienes [Marca Amazon - MERAKI Falda de Algodón Midi Mujer  Beige  46  Label: XXL](https://www.amazon.es/dp/B07MBQBZQM/?tag=tolees-21) a 7.94 EUR (original: 11.66 EUR) (31.90 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - MERAKI Falda de Algodón M](https://m.media-amazon.com/images/I/31SMGb5A8JL._SL200_.jpg)](https://www.amazon.es/dp/B07MBQBZQM/?tag=tolees-21)
+[![Marca Amazon - MERAKI Falda de Algodón M](https://m.media-amazon.com/images/I/31SMGb5A8JL._SL400_.jpg)](https://www.amazon.es/dp/B07MBQBZQM/?tag=tolees-21)
 
 🔎:
 

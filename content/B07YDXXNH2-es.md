@@ -2,7 +2,7 @@
 layout: post
 title: 'Canadian Peak - Sudadera para Hombre Tur al 30.00 % de descuento'
 date: 2020-01-11 17:11:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HqHnYOu4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HqHnYOu4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.3'
 
 Ahora mismo tienes [Canadian Peak - Sudadera para Hombre Turquesa L](https://www.amazon.es/dp/B07YDXXNH2/?tag=tolees-21) a 27.3 EUR (original: 39 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Canadian Peak - Sudadera para Hombre Tur](https://images-eu.ssl-images-amazon.com/images/I/41HqHnYOu4L._SL200_.jpg)](https://www.amazon.es/dp/B07YDXXNH2/?tag=tolees-21)
+[![Canadian Peak - Sudadera para Hombre Tur](https://images-eu.ssl-images-amazon.com/images/I/41HqHnYOu4L._SL400_.jpg)](https://www.amazon.es/dp/B07YDXXNH2/?tag=tolees-21)
 
 🔎:
 

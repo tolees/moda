@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Relaxed Graphic Hoodie Sudadera   con un 58.03 % de descuento'
 date: 2020-05-16 12:05:45
-image: 'https://m.media-amazon.com/images/I/41nNaXWJFvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nNaXWJFvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.38'
 
 En este momento está [Levi s Relaxed Graphic Hoodie Sudadera  Azul  Boxtab Pop Riverside 0024   X-Large para Hombre](https://www.amazon.es/dp/B07TPP4T28/?tag=tolees-21) a 29.38 EUR (original: 70.0 EUR) (58.03 %  de descuento) en el siguiente enlace!
 
-[![Levi s Relaxed Graphic Hoodie Sudadera  ](https://m.media-amazon.com/images/I/41nNaXWJFvL._SL200_.jpg)](https://www.amazon.es/dp/B07TPP4T28/?tag=tolees-21)
+[![Levi s Relaxed Graphic Hoodie Sudadera  ](https://m.media-amazon.com/images/I/41nNaXWJFvL._SL400_.jpg)](https://www.amazon.es/dp/B07TPP4T28/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 23.89 % en Converse AS HI CAN OPTIC. WHT M7650 - Bo'
 date: 2020-03-27 01:52:12
-image: 'https://m.media-amazon.com/images/I/31nrnklBGCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nrnklBGCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.28'
 
 Tienes [Converse AS HI CAN OPTIC. WHT M7650 - Botines de lona unisex  color blanco  talla 42.5](https://www.amazon.es/dp/B000LQZNLE/?tag=tolees-21) con un 23.89 % de descuento con precio de oferta de 53.28 EUR (original: 70.0 EUR) en el siguiente enlace!
 
-[![Converse AS HI CAN OPTIC. WHT M7650 - Bo](https://m.media-amazon.com/images/I/31nrnklBGCL._SL200_.jpg)](https://www.amazon.es/dp/B000LQZNLE/?tag=tolees-21)
+[![Converse AS HI CAN OPTIC. WHT M7650 - Bo](https://m.media-amazon.com/images/I/31nrnklBGCL._SL400_.jpg)](https://www.amazon.es/dp/B000LQZNLE/?tag=tolees-21)
 
 ℹ️:
 

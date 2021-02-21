@@ -2,7 +2,7 @@
 layout: post
 title: 'FM London Fitted Boxer  Azul  Dark Assor al 20.01 % de descuento'
 date: 2020-09-17 10:19:53
-image: 'https://m.media-amazon.com/images/I/41NfyL4eT1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NfyL4eT1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Ahora mismo tienes [FM London Fitted Boxer  Azul  Dark Assorted 03   XX-Large  Pack de 8  para Hombre](https://www.amazon.es/dp/B07TPNKVDD/?tag=tolees-21) a 19.99 EUR (original: 24.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![FM London Fitted Boxer  Azul  Dark Assor](https://m.media-amazon.com/images/I/41NfyL4eT1L._SL200_.jpg)](https://www.amazon.es/dp/B07TPNKVDD/?tag=tolees-21)
+[![FM London Fitted Boxer  Azul  Dark Assor](https://m.media-amazon.com/images/I/41NfyL4eT1L._SL400_.jpg)](https://www.amazon.es/dp/B07TPNKVDD/?tag=tolees-21)
 
 🔎:
 

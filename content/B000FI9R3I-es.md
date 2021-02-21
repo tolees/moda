@@ -2,7 +2,7 @@
 layout: post
 title: 'Pierre Cardin P.C. 8443/S IR 807 Gafas d con un 21.74 % de descuento'
 date: 2020-02-13 13:03:20
-image: 'https://m.media-amazon.com/images/I/31TH5ZXKPAL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TH5ZXKPAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.04'
 
 En este momento está [Pierre Cardin P.C. 8443/S IR 807 Gafas de Sol  Mujer  Negro  Black/Grey Blue   54](https://www.amazon.es/dp/B000FI9R3I/?tag=tolees-21) a 5.04 EUR (original: 6.44 EUR) (21.74 %  de descuento) en el siguiente enlace!
 
-[![Pierre Cardin P.C. 8443/S IR 807 Gafas d](https://m.media-amazon.com/images/I/31TH5ZXKPAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000FI9R3I/?tag=tolees-21)
+[![Pierre Cardin P.C. 8443/S IR 807 Gafas d](https://m.media-amazon.com/images/I/31TH5ZXKPAL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000FI9R3I/?tag=tolees-21)
 
 🔎:
 

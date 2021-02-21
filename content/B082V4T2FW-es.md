@@ -2,7 +2,7 @@
 layout: post
 title: 'Canadian Peak Parka al 40.00 % de descuento'
 date: 2020-01-12 10:04:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41TNum1F-AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TNum1F-AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.4'
 
 Ahora mismo tienes [Canadian Peak Parka](https://www.amazon.es/dp/B082V4T2FW/?tag=tolees-21) a 77.4 EUR (original: 129 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Canadian Peak Parka](https://images-eu.ssl-images-amazon.com/images/I/41TNum1F-AL._SL200_.jpg)](https://www.amazon.es/dp/B082V4T2FW/?tag=tolees-21)
+[![Canadian Peak Parka](https://images-eu.ssl-images-amazon.com/images/I/41TNum1F-AL._SL400_.jpg)](https://www.amazon.es/dp/B082V4T2FW/?tag=tolees-21)
 
 🔎:
 

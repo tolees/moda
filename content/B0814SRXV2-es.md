@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Tech P Pantalón de Entre al 32.46 % de descuento'
 date: 2020-10-09 19:11:09
-image: 'https://m.media-amazon.com/images/I/31UYCMnXpHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UYCMnXpHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.47666666666666'
 
 Ahora mismo tienes [Under Armour UA Tech P Pantalón de Entrenamiento  Hombre  Azul  3232](https://www.amazon.es/dp/B0814SRXV2/?tag=tolees-21) a 43.9 EUR (original: 65.0 EUR) (32.46 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Tech P Pantalón de Entre](https://m.media-amazon.com/images/I/31UYCMnXpHL._SL200_.jpg)](https://www.amazon.es/dp/B0814SRXV2/?tag=tolees-21)
+[![Under Armour UA Tech P Pantalón de Entre](https://m.media-amazon.com/images/I/31UYCMnXpHL._SL400_.jpg)](https://www.amazon.es/dp/B0814SRXV2/?tag=tolees-21)
 
 🔎:
 

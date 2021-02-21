@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjialvin Jjjacket Sa 002 No al 36.01 % de rebaja'
 date: 2020-05-18 12:09:08
-image: 'https://m.media-amazon.com/images/I/41EMDcj3rML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EMDcj3rML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Tienes [Jack & Jones Jjialvin Jjjacket Sa 002 Noos Chaqueta de Jean  Azul Denim  XS para Hombre](https://www.amazon.es/dp/B07N8MNW14/?tag=tolees-21) con precio final de  31.99 EUR (original: 49.99 EUR) (36.01 %  de rebaja) aqui!
 
-[![Jack & Jones Jjialvin Jjjacket Sa 002 No](https://m.media-amazon.com/images/I/41EMDcj3rML._SL200_.jpg)](https://www.amazon.es/dp/B07N8MNW14/?tag=tolees-21)
+[![Jack & Jones Jjialvin Jjjacket Sa 002 No](https://m.media-amazon.com/images/I/41EMDcj3rML._SL400_.jpg)](https://www.amazon.es/dp/B07N8MNW14/?tag=tolees-21)
 
 🔎:
 

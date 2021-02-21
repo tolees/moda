@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Earth Core Raglan Round Neck  al 59.42 % de descuento'
 date: 2020-02-23 18:01:59
-image: 'https://m.media-amazon.com/images/I/31uYeLb8-3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uYeLb8-3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.19'
 
 Está [G-STAR RAW Earth Core Raglan Round Neck Sudadera  Rosa  Dk Tea Rose A827   Small para Hombre](https://www.amazon.es/dp/B07NDP6SB6/?tag=tolees-21) con 59.42 de descuento por 40.56 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Earth Core Raglan Round Neck ](https://m.media-amazon.com/images/I/31uYeLb8-3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NDP6SB6/?tag=tolees-21)
+[![G-STAR RAW Earth Core Raglan Round Neck ](https://m.media-amazon.com/images/I/31uYeLb8-3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NDP6SB6/?tag=tolees-21)
 
 ℹ️:
 

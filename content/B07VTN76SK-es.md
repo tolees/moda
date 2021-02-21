@@ -2,7 +2,7 @@
 layout: post
 title: 'Only Onlbeccy Crop7/8 Faux Leather Jacke al 54.83 % de descuento'
 date: 2020-09-11 08:52:09
-image: 'https://m.media-amazon.com/images/I/41R+P2TGtxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R+P2TGtxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.84'
 
 Está [Only Onlbeccy Crop7/8 Faux Leather Jacket Otw Chaqueta  Negro  Black Black   Small  Talla del Fabricante: 36  para Mujer](https://www.amazon.es/dp/B07VTN76SK/?tag=tolees-21) con 54.83 de descuento por 24.84 EUR (original: 54.99 EUR) en el siguiente enlace!
 
-[![Only Onlbeccy Crop7/8 Faux Leather Jacke](https://m.media-amazon.com/images/I/41R+P2TGtxL._SL200_.jpg)](https://www.amazon.es/dp/B07VTN76SK/?tag=tolees-21)
+[![Only Onlbeccy Crop7/8 Faux Leather Jacke](https://m.media-amazon.com/images/I/41R+P2TGtxL._SL400_.jpg)](https://www.amazon.es/dp/B07VTN76SK/?tag=tolees-21)
 
 ℹ️:
 

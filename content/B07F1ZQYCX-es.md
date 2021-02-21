@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Newport Bay  Zapatillas Bajas al 50.00 % de descuento'
 date: 2020-09-16 15:14:06
-image: 'https://m.media-amazon.com/images/I/31cQ6cLXsnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cQ6cLXsnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.935714285714287'
 
 Está [Timberland Newport Bay  Zapatillas Bajas para Hombre  Blanco  Light Grey Canvas   44 EU](https://www.amazon.es/dp/B07F1ZQYCX/?tag=tolees-21) con 50.00 de descuento por 32.5 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Timberland Newport Bay  Zapatillas Bajas](https://m.media-amazon.com/images/I/31cQ6cLXsnL._SL200_.jpg)](https://www.amazon.es/dp/B07F1ZQYCX/?tag=tolees-21)
+[![Timberland Newport Bay  Zapatillas Bajas](https://m.media-amazon.com/images/I/31cQ6cLXsnL._SL400_.jpg)](https://www.amazon.es/dp/B07F1ZQYCX/?tag=tolees-21)
 
 ℹ️:
 

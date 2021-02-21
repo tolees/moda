@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Marquam Peak  Chaqueta de invie con un 60.37 % de descuento'
 date: 2020-09-16 08:46:48
-image: 'https://m.media-amazon.com/images/I/41Ar82vQmcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ar82vQmcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.08'
 
 En este momento está [Columbia Marquam Peak  Chaqueta de invierno  Hombre   Azul  Dark Nocturnal   Talla L](https://www.amazon.es/dp/B07RC8F1W8/?tag=tolees-21) a 99.08 EUR (original: 249.99 EUR) (60.37 %  de descuento) en el siguiente enlace!
 
-[![Columbia Marquam Peak  Chaqueta de invie](https://m.media-amazon.com/images/I/41Ar82vQmcL._SL200_.jpg)](https://www.amazon.es/dp/B07RC8F1W8/?tag=tolees-21)
+[![Columbia Marquam Peak  Chaqueta de invie](https://m.media-amazon.com/images/I/41Ar82vQmcL._SL400_.jpg)](https://www.amazon.es/dp/B07RC8F1W8/?tag=tolees-21)
 
 🔎:
 

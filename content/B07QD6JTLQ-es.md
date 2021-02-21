@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Nu-Tility Woven Jacket Chaqueta De  al 77.72 % de descuento'
 date: 2020-02-24 10:46:03
-image: 'https://m.media-amazon.com/images/I/31to4jqwneL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31to4jqwneL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.7'
 
 Está [PUMA Nu-Tility Woven Jacket Chaqueta De Entrenamiento  Hombre  Black  S](https://www.amazon.es/dp/B07QD6JTLQ/?tag=tolees-21) con 77.72 de descuento por 16.7 EUR (original: 74.95 EUR) en el siguiente enlace!
 
-[![PUMA Nu-Tility Woven Jacket Chaqueta De ](https://m.media-amazon.com/images/I/31to4jqwneL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QD6JTLQ/?tag=tolees-21)
+[![PUMA Nu-Tility Woven Jacket Chaqueta De ](https://m.media-amazon.com/images/I/31to4jqwneL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QD6JTLQ/?tag=tolees-21)
 
 ℹ️:
 

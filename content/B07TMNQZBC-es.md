@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry VL Shirt Shop Bonded tee Camise al 57.99 % de descuento'
 date: 2020-08-24 06:39:55
-image: 'https://m.media-amazon.com/images/I/414Z7VuFvZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414Z7VuFvZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.7'
 
 Ahora mismo tienes [Superdry VL Shirt Shop Bonded tee Camiseta  Negro  Black 02a   XS para Hombre](https://www.amazon.es/dp/B07TMNQZBC/?tag=tolees-21) a 14.7 EUR (original: 34.99 EUR) (57.99 %  de descuento) en el siguiente enlace!
 
-[![Superdry VL Shirt Shop Bonded tee Camise](https://m.media-amazon.com/images/I/414Z7VuFvZL._SL200_.jpg)](https://www.amazon.es/dp/B07TMNQZBC/?tag=tolees-21)
+[![Superdry VL Shirt Shop Bonded tee Camise](https://m.media-amazon.com/images/I/414Z7VuFvZL._SL400_.jpg)](https://www.amazon.es/dp/B07TMNQZBC/?tag=tolees-21)
 
 🔎:
 

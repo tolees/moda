@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Nebula Y A  Zapatillas para Hombr al 72.20 % de descuento'
 date: 2020-08-28 06:17:50
-image: 'https://m.media-amazon.com/images/I/312KFdHfLSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312KFdHfLSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.11'
 
 Está [Geox U Nebula Y A  Zapatillas para Hombre  Azul  Lt AVI O C4348   42 EU](https://www.amazon.es/dp/B07T4K4GK6/?tag=tolees-21) con 72.20 de descuento por 36.11 EUR (original: 129.9 EUR) en el siguiente enlace!
 
-[![Geox U Nebula Y A  Zapatillas para Hombr](https://m.media-amazon.com/images/I/312KFdHfLSL._SL200_.jpg)](https://www.amazon.es/dp/B07T4K4GK6/?tag=tolees-21)
+[![Geox U Nebula Y A  Zapatillas para Hombr](https://m.media-amazon.com/images/I/312KFdHfLSL._SL400_.jpg)](https://www.amazon.es/dp/B07T4K4GK6/?tag=tolees-21)
 
 ℹ️:
 

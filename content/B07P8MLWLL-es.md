@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Vestido Midi de Sat con un 40.90 % de descuento'
 date: 2020-06-23 12:54:14
-image: 'https://m.media-amazon.com/images/I/31LBl-8lPrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LBl-8lPrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.523333333333333'
 
 En este momento está [Marca Amazon - find. Vestido Midi de Satén Mujer  Rojo  VALIANT POPPY   46  Label: XXL](https://www.amazon.es/dp/B07P8MLWLL/?tag=tolees-21) a 7.08 EUR (original: 11.98 EUR) (40.90 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - find. Vestido Midi de Sat](https://m.media-amazon.com/images/I/31LBl-8lPrL._SL200_.jpg)](https://www.amazon.es/dp/B07P8MLWLL/?tag=tolees-21)
+[![Marca Amazon - find. Vestido Midi de Sat](https://m.media-amazon.com/images/I/31LBl-8lPrL._SL400_.jpg)](https://www.amazon.es/dp/B07P8MLWLL/?tag=tolees-21)
 
 🔎:
 

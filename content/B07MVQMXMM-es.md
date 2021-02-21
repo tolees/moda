@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - MERAKI Calzoncillo de Alg al 49.30 % de descuento'
 date: 2020-04-16 00:06:24
-image: 'https://m.media-amazon.com/images/I/31we52eo1UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31we52eo1UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.14'
 
 Ahora mismo tienes [Marca Amazon - MERAKI Calzoncillo de Algodón Hombre  Pack de 4  Blanco  Blanco   M  Label: M](https://www.amazon.es/dp/B07MVQMXMM/?tag=tolees-21) a 10.14 EUR (original: 20.0 EUR) (49.30 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - MERAKI Calzoncillo de Alg](https://m.media-amazon.com/images/I/31we52eo1UL._SL200_.jpg)](https://www.amazon.es/dp/B07MVQMXMM/?tag=tolees-21)
+[![Marca Amazon - MERAKI Calzoncillo de Alg](https://m.media-amazon.com/images/I/31we52eo1UL._SL400_.jpg)](https://www.amazon.es/dp/B07MVQMXMM/?tag=tolees-21)
 
 🔎:
 

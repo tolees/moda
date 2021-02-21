@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual T-Shirt Matilde Camiseta  Negro al 57.30 % de rebaja'
 date: 2020-01-22 14:39:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HzoTgk%2BIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HzoTgk%2BIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.06'
 
 Tienes [Desigual T-Shirt Matilde Camiseta  Negro  Negro 2000   XL para Mujer](https://www.amazon.es/dp/B07N44CKNX/?tag=tolees-21) con precio final de  17.06 EUR (original: 39.95 EUR) (57.30 %  de rebaja) aqui!
 
-[![Desigual T-Shirt Matilde Camiseta  Negro](https://images-eu.ssl-images-amazon.com/images/I/41HzoTgk%2BIL._SL200_.jpg)](https://www.amazon.es/dp/B07N44CKNX/?tag=tolees-21)
+[![Desigual T-Shirt Matilde Camiseta  Negro](https://images-eu.ssl-images-amazon.com/images/I/41HzoTgk%2BIL._SL400_.jpg)](https://www.amazon.es/dp/B07N44CKNX/?tag=tolees-21)
 
 🔎:
 

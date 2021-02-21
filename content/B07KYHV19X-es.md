@@ -2,7 +2,7 @@
 layout: post
 title: 'DoGeek Zapato Seguridad Zapatos Trabajo  al 22.51 % de rebaja'
 date: 2020-01-01 17:02:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51JOei%2B5xwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JOei%2B5xwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.99'
 
 Tienes [DoGeek Zapato Seguridad Zapatos Trabajo con Punta de Acero Antideslizante  Senderismo Unisex-Adulto](https://www.amazon.es/dp/B07KYHV19X/?tag=tolees-21) con precio final de  30.99 EUR (original: 39.99 EUR) (22.51 %  de rebaja) aqui!
 
-[![DoGeek Zapato Seguridad Zapatos Trabajo ](https://images-eu.ssl-images-amazon.com/images/I/51JOei%2B5xwL._SL200_.jpg)](https://www.amazon.es/dp/B07KYHV19X/?tag=tolees-21)
+[![DoGeek Zapato Seguridad Zapatos Trabajo ](https://images-eu.ssl-images-amazon.com/images/I/51JOei%2B5xwL._SL400_.jpg)](https://www.amazon.es/dp/B07KYHV19X/?tag=tolees-21)
 
 🔎:
 

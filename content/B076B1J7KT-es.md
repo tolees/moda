@@ -2,7 +2,7 @@
 layout: post
 title: 'Gafas Fastskin Elite Mirror al 21.17 % de descuento'
 date: 2020-01-25 15:48:41
-image: 'https://m.media-amazon.com/images/I/41qs3wuYF3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qs3wuYF3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.91'
 
 Ahora mismo tienes [Gafas Fastskin Elite Mirror](https://www.amazon.es/dp/B076B1J7KT/?tag=tolees-21) a 43.28 EUR (original: 54.9 EUR) (21.17 %  de descuento) en el siguiente enlace!
 
-[![Gafas Fastskin Elite Mirror](https://m.media-amazon.com/images/I/41qs3wuYF3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B076B1J7KT/?tag=tolees-21)
+[![Gafas Fastskin Elite Mirror](https://m.media-amazon.com/images/I/41qs3wuYF3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B076B1J7KT/?tag=tolees-21)
 
 🔎:
 

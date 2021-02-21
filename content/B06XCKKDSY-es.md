@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Hatch Vaqueros  Blue Denim Z4 al 44.72 % de descuento'
 date: 2020-07-23 21:01:03
-image: 'https://m.media-amazon.com/images/I/41YOhCA0g2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YOhCA0g2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.440999999999995'
 
 Está [Pepe Jeans Hatch Vaqueros  Blue Denim Z45  34W / 30L para Hombre](https://www.amazon.es/dp/B06XCKKDSY/?tag=tolees-21) con 44.72 de descuento por 46.99 EUR (original: 85.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Hatch Vaqueros  Blue Denim Z4](https://m.media-amazon.com/images/I/41YOhCA0g2L._SL200_.jpg)](https://www.amazon.es/dp/B06XCKKDSY/?tag=tolees-21)
+[![Pepe Jeans Hatch Vaqueros  Blue Denim Z4](https://m.media-amazon.com/images/I/41YOhCA0g2L._SL400_.jpg)](https://www.amazon.es/dp/B06XCKKDSY/?tag=tolees-21)
 
 ℹ️:
 

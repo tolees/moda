@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Atticus Cap  Zapatos de Cordones  al 79.65 % de descuento'
 date: 2020-04-09 09:31:49
-image: 'https://m.media-amazon.com/images/I/31WkDSbt7aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WkDSbt7aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.96'
 
 Está [Clarks Atticus Cap  Zapatos de Cordones Derby para Hombre  Azul Navy Nubuck Navy Nubuck  44.5 EU](https://www.amazon.es/dp/B07MC11MZH/?tag=tolees-21) con 79.65 de descuento por 22.39 EUR (original: 110.0 EUR) en el siguiente enlace!
 
-[![Clarks Atticus Cap  Zapatos de Cordones ](https://m.media-amazon.com/images/I/31WkDSbt7aL._SL200_.jpg)](https://www.amazon.es/dp/B07MC11MZH/?tag=tolees-21)
+[![Clarks Atticus Cap  Zapatos de Cordones ](https://m.media-amazon.com/images/I/31WkDSbt7aL._SL400_.jpg)](https://www.amazon.es/dp/B07MC11MZH/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Shorty Pantalones de Pija al 34.72 % de descuento'
 date: 2020-06-02 09:35:53
-image: 'https://m.media-amazon.com/images/I/51Y5-EpFEAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Y5-EpFEAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Ahora mismo tienes [Tommy Hilfiger Shorty Pantalones de Pijama  Gris  Grey Heather 004   40 para Mujer](https://www.amazon.es/dp/B00UT2MXTA/?tag=tolees-21) a 12.99 EUR (original: 19.9 EUR) (34.72 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Shorty Pantalones de Pija](https://m.media-amazon.com/images/I/51Y5-EpFEAL._SL200_.jpg)](https://www.amazon.es/dp/B00UT2MXTA/?tag=tolees-21)
+[![Tommy Hilfiger Shorty Pantalones de Pija](https://m.media-amazon.com/images/I/51Y5-EpFEAL._SL400_.jpg)](https://www.amazon.es/dp/B00UT2MXTA/?tag=tolees-21)
 
 🔎:
 

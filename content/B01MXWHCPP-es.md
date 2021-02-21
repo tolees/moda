@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Falda Mini de Rayas para Mujer   N al 35.73 % de descuento'
 date: 2020-04-30 20:41:36
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XwwYM7ZqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XwwYM7ZqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.05'
 
 Está [find. Falda Mini de Rayas para Mujer   Negro  Black/white Striped   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MXWHCPP/?tag=tolees-21) con 35.73 de descuento por 12.05 EUR (original: 18.75 EUR) en el siguiente enlace!
 
-[![find. Falda Mini de Rayas para Mujer   N](https://images-eu.ssl-images-amazon.com/images/I/41XwwYM7ZqL._SL200_.jpg)](https://www.amazon.es/dp/B01MXWHCPP/?tag=tolees-21)
+[![find. Falda Mini de Rayas para Mujer   N](https://images-eu.ssl-images-amazon.com/images/I/41XwwYM7ZqL._SL400_.jpg)](https://www.amazon.es/dp/B01MXWHCPP/?tag=tolees-21)
 
 ℹ️:
 

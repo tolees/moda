@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jorpex Sweat Hood Sudadera  al 26.66 % de descuento'
 date: 2020-09-21 17:14:21
-image: 'https://m.media-amazon.com/images/I/413ARuPKCbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413ARuPKCbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.452'
 
 Está [Jack & Jones Jorpex Sweat Hood Sudadera con Capucha  Flan  L para Hombre](https://www.amazon.es/dp/B081YTZJN1/?tag=tolees-21) con 26.66 de descuento por 8.94 EUR (original: 12.19 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jorpex Sweat Hood Sudadera ](https://m.media-amazon.com/images/I/413ARuPKCbL._SL200_.jpg)](https://www.amazon.es/dp/B081YTZJN1/?tag=tolees-21)
+[![Jack & Jones Jorpex Sweat Hood Sudadera ](https://m.media-amazon.com/images/I/413ARuPKCbL._SL400_.jpg)](https://www.amazon.es/dp/B081YTZJN1/?tag=tolees-21)
 
 ℹ️:
 

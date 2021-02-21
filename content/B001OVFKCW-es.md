@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Originals Adilette  Chanclas para al 65.67 % de descuento'
 date: 2020-07-10 00:51:26
-image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.745'
 
 Está [adidas Originals Adilette  Chanclas para Hombre  Azul  Adiblu/White/Adiblu   44 1/2 EU](https://www.amazon.es/dp/B001OVFKCW/?tag=tolees-21) con 65.67 de descuento por 12.0 EUR (original: 34.95 EUR) en el siguiente enlace!
 
-[![adidas Originals Adilette  Chanclas para](https://m.media-amazon.com/images/I/41fjLafiAAL._SL200_.jpg)](https://www.amazon.es/dp/B001OVFKCW/?tag=tolees-21)
+[![adidas Originals Adilette  Chanclas para](https://m.media-amazon.com/images/I/41fjLafiAAL._SL400_.jpg)](https://www.amazon.es/dp/B001OVFKCW/?tag=tolees-21)
 
 ℹ️:
 

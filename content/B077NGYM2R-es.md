@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Sudadera Mujer  Verde  Green   36  al 60.00 % de descuento'
 date: 2020-01-16 11:01:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DH3Bs8iLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DH3Bs8iLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.4'
 
 Ahora mismo tienes [find. Sudadera Mujer  Verde  Green   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B077NGYM2R/?tag=tolees-21) a 8.4 EUR (original: 21 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![find. Sudadera Mujer  Verde  Green   36 ](https://images-eu.ssl-images-amazon.com/images/I/41DH3Bs8iLL._SL200_.jpg)](https://www.amazon.es/dp/B077NGYM2R/?tag=tolees-21)
+[![find. Sudadera Mujer  Verde  Green   36 ](https://images-eu.ssl-images-amazon.com/images/I/41DH3Bs8iLL._SL400_.jpg)](https://www.amazon.es/dp/B077NGYM2R/?tag=tolees-21)
 
 🔎:
 

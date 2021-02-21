@@ -2,7 +2,7 @@
 layout: post
 title: 'El Naturalista N758  Botines para Mujer  al 43.29 % de descuento'
 date: 2020-01-06 16:39:46
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '87.9'
 
 Está [El Naturalista N758  Botines para Mujer  Marrón  Brown 000   37 EU](https://www.amazon.es/dp/B01BEQYUQS/?tag=tolees-21) con 43.29 de descuento por 87.9 EUR (original: 155 EUR) en el siguiente enlace!
 
-[![El Naturalista N758  Botines para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL200_.jpg)](https://www.amazon.es/dp/B01BEQYUQS/?tag=tolees-21)
+[![El Naturalista N758  Botines para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL400_.jpg)](https://www.amazon.es/dp/B01BEQYUQS/?tag=tolees-21)
 
 ℹ️:
 

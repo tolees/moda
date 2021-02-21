@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas CORE18 tee Camiseta de Manga Cort al 25.31 % de descuento'
 date: 2020-09-03 18:24:53
-image: 'https://m.media-amazon.com/images/I/41NjdbtVPiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NjdbtVPiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.938'
 
 Está [adidas CORE18 tee Camiseta de Manga Corta  Hombre  Black/White  S](https://www.amazon.es/dp/B076HQZDFR/?tag=tolees-21) con 25.31 de descuento por 14.9 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![adidas CORE18 tee Camiseta de Manga Cort](https://m.media-amazon.com/images/I/41NjdbtVPiL._SL200_.jpg)](https://www.amazon.es/dp/B076HQZDFR/?tag=tolees-21)
+[![adidas CORE18 tee Camiseta de Manga Cort](https://m.media-amazon.com/images/I/41NjdbtVPiL._SL400_.jpg)](https://www.amazon.es/dp/B076HQZDFR/?tag=tolees-21)
 
 ℹ️:
 

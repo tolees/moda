@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Arethea B  Mocasines para Mujer   al 29.90 % de descuento'
 date: 2020-06-07 05:04:43
-image: 'https://m.media-amazon.com/images/I/31bJKMUpsQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bJKMUpsQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.64'
 
 Ahora mismo tienes [Geox D Arethea B  Mocasines para Mujer  Marfil  Off White C1002   35 EU](https://www.amazon.es/dp/B07DJHNT2B/?tag=tolees-21) a 70.03 EUR (original: 99.9 EUR) (29.90 %  de descuento) en el siguiente enlace!
 
-[![Geox D Arethea B  Mocasines para Mujer  ](https://m.media-amazon.com/images/I/31bJKMUpsQL._SL200_.jpg)](https://www.amazon.es/dp/B07DJHNT2B/?tag=tolees-21)
+[![Geox D Arethea B  Mocasines para Mujer  ](https://m.media-amazon.com/images/I/31bJKMUpsQL._SL400_.jpg)](https://www.amazon.es/dp/B07DJHNT2B/?tag=tolees-21)
 
 🔎:
 

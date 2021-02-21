@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Sozy Plus B  Sandalias con Punta  al 68.02 % de descuento'
 date: 2020-09-16 10:25:07
-image: 'https://m.media-amazon.com/images/I/51zHkMRQ2kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zHkMRQ2kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.55'
 
 Ahora mismo tienes [Geox D Sozy Plus B  Sandalias con Punta Abierta para Mujer  Negro  Black C9999   39 EU](https://www.amazon.es/dp/B07STLXRRL/?tag=tolees-21) a 25.55 EUR (original: 79.9 EUR) (68.02 %  de descuento) en el siguiente enlace!
 
-[![Geox D Sozy Plus B  Sandalias con Punta ](https://m.media-amazon.com/images/I/51zHkMRQ2kL._SL200_.jpg)](https://www.amazon.es/dp/B07STLXRRL/?tag=tolees-21)
+[![Geox D Sozy Plus B  Sandalias con Punta ](https://m.media-amazon.com/images/I/51zHkMRQ2kL._SL400_.jpg)](https://www.amazon.es/dp/B07STLXRRL/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Classic Nylon Zapatilla de Runnin al 35.50 % de descuento'
 date: 2020-01-08 13:45:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ho0ne58tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ho0ne58tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.105000000000004'
 
 Ahora mismo tienes [Reebok Classic Nylon Zapatilla de Running Hombre  Azul  Team Navy / Platinum   42](https://www.amazon.es/dp/B000AP4DB2/?tag=tolees-21) a 44.99 EUR (original: 69.75 EUR) (35.50 %  de descuento) en el siguiente enlace!
 
-[![Reebok Classic Nylon Zapatilla de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41ho0ne58tL._SL200_.jpg)](https://www.amazon.es/dp/B000AP4DB2/?tag=tolees-21)
+[![Reebok Classic Nylon Zapatilla de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41ho0ne58tL._SL400_.jpg)](https://www.amazon.es/dp/B000AP4DB2/?tag=tolees-21)
 
 🔎:
 

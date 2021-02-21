@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger T Camiseta Básica de Mang al 19.80 % de descuento'
 date: 2020-07-18 16:18:08
-image: 'https://m.media-amazon.com/images/I/31ATWTLnbnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ATWTLnbnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.532499999999999'
 
 Ahora mismo tienes [Tommy Hilfiger T Camiseta Básica de Manga Corta  Negro  Meteorite   Talla única  Talla del Fabricante: 86  para Niños](https://www.amazon.es/dp/B07G17F7NR/?tag=tolees-21) a 11.95 EUR (original: 14.9 EUR) (19.80 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger T Camiseta Básica de Mang](https://m.media-amazon.com/images/I/31ATWTLnbnL._SL200_.jpg)](https://www.amazon.es/dp/B07G17F7NR/?tag=tolees-21)
+[![Tommy Hilfiger T Camiseta Básica de Mang](https://m.media-amazon.com/images/I/31ATWTLnbnL._SL400_.jpg)](https://www.amazon.es/dp/B07G17F7NR/?tag=tolees-21)
 
 🔎:
 

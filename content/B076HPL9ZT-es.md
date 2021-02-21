@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Core18 PES Jkt Chaqueta  Hombre   al 24.11 % de rebaja'
 date: 2020-10-01 12:09:03
-image: 'https://m.media-amazon.com/images/I/41BmSNXqBRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BmSNXqBRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.69'
 
 Tienes [adidas Core18 PES Jkt Chaqueta  Hombre  Rojo  Power Red/White   L](https://www.amazon.es/dp/B076HPL9ZT/?tag=tolees-21) con precio final de  21.21 EUR (original: 27.95 EUR) (24.11 %  de rebaja) aqui!
 
-[![adidas Core18 PES Jkt Chaqueta  Hombre  ](https://m.media-amazon.com/images/I/41BmSNXqBRL._SL200_.jpg)](https://www.amazon.es/dp/B076HPL9ZT/?tag=tolees-21)
+[![adidas Core18 PES Jkt Chaqueta  Hombre  ](https://m.media-amazon.com/images/I/41BmSNXqBRL._SL400_.jpg)](https://www.amazon.es/dp/B076HPL9ZT/?tag=tolees-21)
 
 🔎:
 

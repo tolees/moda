@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Essential Original tee S/ al 47.54 % de rebaja'
 date: 2020-07-23 18:09:53
-image: 'https://m.media-amazon.com/images/I/31iOTqETgLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iOTqETgLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.16'
 
 Tienes [Tommy Hilfiger Essential Original tee S/s Camiseta  Azul  Lapis Lazuli 431/880 C5d   Talla Única  Talla del Fabricante: 80  para Niños](https://www.amazon.es/dp/B07VRZ1GN4/?tag=tolees-21) con precio final de  9.16 EUR (original: 17.46 EUR) (47.54 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Essential Original tee S/](https://m.media-amazon.com/images/I/31iOTqETgLL._SL200_.jpg)](https://www.amazon.es/dp/B07VRZ1GN4/?tag=tolees-21)
+[![Tommy Hilfiger Essential Original tee S/](https://m.media-amazon.com/images/I/31iOTqETgLL._SL400_.jpg)](https://www.amazon.es/dp/B07VRZ1GN4/?tag=tolees-21)
 
 🔎:
 

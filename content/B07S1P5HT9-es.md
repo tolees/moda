@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 501 Original Fit Jeans Pantalón V al 30.00 % de rebaja'
 date: 2020-06-24 18:25:56
-image: 'https://m.media-amazon.com/images/I/31iywcD5GNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iywcD5GNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.39'
 
 Tienes [Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño clásico y cómodos de Usar  Azul  Boared Tnl 2948   42W / 34L para Hombre](https://www.amazon.es/dp/B07S1P5HT9/?tag=tolees-21) con precio final de  43.39 EUR (original: 61.99 EUR) (30.00 %  de rebaja) aqui!
 
-[![Levi s 501 Original Fit Jeans Pantalón V](https://m.media-amazon.com/images/I/31iywcD5GNL._SL200_.jpg)](https://www.amazon.es/dp/B07S1P5HT9/?tag=tolees-21)
+[![Levi s 501 Original Fit Jeans Pantalón V](https://m.media-amazon.com/images/I/31iywcD5GNL._SL400_.jpg)](https://www.amazon.es/dp/B07S1P5HT9/?tag=tolees-21)
 
 🔎:
 

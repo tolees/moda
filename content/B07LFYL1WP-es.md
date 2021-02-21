@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Devan A  Mocasines para Hombre  M al 27.04 % de descuento'
 date: 2020-04-08 11:18:23
-image: 'https://m.media-amazon.com/images/I/31YxiWS4mTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YxiWS4mTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.32'
 
 Está [Geox U Devan A  Mocasines para Hombre  Marrón  Mud C6372   42 EU](https://www.amazon.es/dp/B07LFYL1WP/?tag=tolees-21) con 27.04 de descuento por 23.64 EUR (original: 32.4 EUR) en el siguiente enlace!
 
-[![Geox U Devan A  Mocasines para Hombre  M](https://m.media-amazon.com/images/I/31YxiWS4mTL._SL200_.jpg)](https://www.amazon.es/dp/B07LFYL1WP/?tag=tolees-21)
+[![Geox U Devan A  Mocasines para Hombre  M](https://m.media-amazon.com/images/I/31YxiWS4mTL._SL400_.jpg)](https://www.amazon.es/dp/B07LFYL1WP/?tag=tolees-21)
 
 ℹ️:
 

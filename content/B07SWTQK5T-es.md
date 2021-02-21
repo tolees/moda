@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 57.98 % en Geox D AIRELL C  Zapatillas para Mujer  '
 date: 2020-08-24 19:44:25
-image: 'https://m.media-amazon.com/images/I/41srJQhjrJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41srJQhjrJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.5'
 
 Tienes [Geox D AIRELL C  Zapatillas para Mujer  Blanco  White C1000   39 EU](https://www.amazon.es/dp/B07SWTQK5T/?tag=tolees-21) con un 57.98 % de descuento con precio de oferta de 41.98 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Geox D AIRELL C  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41srJQhjrJL._SL200_.jpg)](https://www.amazon.es/dp/B07SWTQK5T/?tag=tolees-21)
+[![Geox D AIRELL C  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41srJQhjrJL._SL400_.jpg)](https://www.amazon.es/dp/B07SWTQK5T/?tag=tolees-21)
 
 ℹ️:
 

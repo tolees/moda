@@ -2,7 +2,7 @@
 layout: post
 title: 'Le Coq Sportif Aluf Crew Sweat  Sudadera al 18.76 % de rebaja'
 date: 2020-01-26 20:28:54
-image: 'https://m.media-amazon.com/images/I/41-NMvboDtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-NMvboDtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.99'
 
 Tienes [Le Coq Sportif Aluf Crew Sweat  Sudadera - L](https://www.amazon.es/dp/B083CQGR24/?tag=tolees-21) con precio final de  64.99 EUR (original: 80.0 EUR) (18.76 %  de rebaja) aqui!
 
-[![Le Coq Sportif Aluf Crew Sweat  Sudadera](https://m.media-amazon.com/images/I/41-NMvboDtL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B083CQGR24/?tag=tolees-21)
+[![Le Coq Sportif Aluf Crew Sweat  Sudadera](https://m.media-amazon.com/images/I/41-NMvboDtL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B083CQGR24/?tag=tolees-21)
 
 🔎:
 

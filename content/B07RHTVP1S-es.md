@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger TJM Novel Logo Crew Jerse al 60.56 % de descuento'
 date: 2020-08-19 01:59:40
-image: 'https://m.media-amazon.com/images/I/417VurZMZKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417VurZMZKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.58'
 
 Está [Tommy Hilfiger TJM Novel Logo Crew Jersey de Deporte  Azul  Blue Cbk   XX-Large para Hombre](https://www.amazon.es/dp/B07RHTVP1S/?tag=tolees-21) con 60.56 de descuento por 29.58 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger TJM Novel Logo Crew Jerse](https://m.media-amazon.com/images/I/417VurZMZKL._SL200_.jpg)](https://www.amazon.es/dp/B07RHTVP1S/?tag=tolees-21)
+[![Tommy Hilfiger TJM Novel Logo Crew Jerse](https://m.media-amazon.com/images/I/417VurZMZKL._SL400_.jpg)](https://www.amazon.es/dp/B07RHTVP1S/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Timothy A  Zapatos de Cordones De al 72.05 % de rebaja'
 date: 2020-07-12 07:26:04
-image: 'https://m.media-amazon.com/images/I/31hrTq7ZxdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hrTq7ZxdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.51'
 
 Tienes [Geox U Timothy A  Zapatos de Cordones Derby para Hombre  Azul  Navy C4002   39 EU](https://www.amazon.es/dp/B07SQGP9ZV/?tag=tolees-21) con precio final de  33.51 EUR (original: 119.9 EUR) (72.05 %  de rebaja) aqui!
 
-[![Geox U Timothy A  Zapatos de Cordones De](https://m.media-amazon.com/images/I/31hrTq7ZxdL._SL200_.jpg)](https://www.amazon.es/dp/B07SQGP9ZV/?tag=tolees-21)
+[![Geox U Timothy A  Zapatos de Cordones De](https://m.media-amazon.com/images/I/31hrTq7ZxdL._SL400_.jpg)](https://www.amazon.es/dp/B07SQGP9ZV/?tag=tolees-21)
 
 🔎:
 

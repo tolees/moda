@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling New Hiphurray  Bolso Saco para M al 50.00 % de descuento'
 date: 2020-08-14 14:02:36
-image: 'https://m.media-amazon.com/images/I/41R3veGKb0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R3veGKb0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.5'
 
 Ahora mismo tienes [Kipling New Hiphurray  Bolso Saco para Mujer  Azul  Stone Blue Block   39x43x0.1 centimeters  B x H x T ](https://www.amazon.es/dp/B07PSJGDYD/?tag=tolees-21) a 17.5 EUR (original: 35.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Kipling New Hiphurray  Bolso Saco para M](https://m.media-amazon.com/images/I/41R3veGKb0L._SL200_.jpg)](https://www.amazon.es/dp/B07PSJGDYD/?tag=tolees-21)
+[![Kipling New Hiphurray  Bolso Saco para M](https://m.media-amazon.com/images/I/41R3veGKb0L._SL400_.jpg)](https://www.amazon.es/dp/B07PSJGDYD/?tag=tolees-21)
 
 🔎:
 

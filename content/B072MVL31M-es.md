@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Chaqueta Estilo Bomber para Hombre al 61.91 % de descuento'
 date: 2020-01-18 10:09:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHwDVk25L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHwDVk25L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.5'
 
 Está [find. Chaqueta Estilo Bomber para Hombre  Gris  Charcoal   X-Large](https://www.amazon.es/dp/B072MVL31M/?tag=tolees-21) con 61.91 de descuento por 13.5 EUR (original: 35.44 EUR) en el siguiente enlace!
 
-[![find. Chaqueta Estilo Bomber para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41%2BHwDVk25L._SL200_.jpg)](https://www.amazon.es/dp/B072MVL31M/?tag=tolees-21)
+[![find. Chaqueta Estilo Bomber para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41%2BHwDVk25L._SL400_.jpg)](https://www.amazon.es/dp/B072MVL31M/?tag=tolees-21)
 
 ℹ️:
 

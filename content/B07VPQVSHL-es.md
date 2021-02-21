@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Stretch Slim Fit tee Cami al 31.24 % de descuento'
 date: 2020-06-10 10:28:07
-image: 'https://m.media-amazon.com/images/I/41JVuMMwDoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JVuMMwDoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.26'
 
 Ahora mismo tienes [Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Desert Sky/White  XXX-Large para Hombre](https://www.amazon.es/dp/B07VPQVSHL/?tag=tolees-21) a 26.26 EUR (original: 38.19 EUR) (31.24 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Stretch Slim Fit tee Cami](https://m.media-amazon.com/images/I/41JVuMMwDoL._SL200_.jpg)](https://www.amazon.es/dp/B07VPQVSHL/?tag=tolees-21)
+[![Tommy Hilfiger Stretch Slim Fit tee Cami](https://m.media-amazon.com/images/I/41JVuMMwDoL._SL400_.jpg)](https://www.amazon.es/dp/B07VPQVSHL/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Housemark Graphic tee Camiseta  B con un 40.04 % de descuento'
 date: 2020-09-06 13:37:55
-image: 'https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 En este momento está [Levi s Housemark Graphic tee Camiseta  Blanco  Ssnl Hm Camo White 0249   S para Hombre](https://www.amazon.es/dp/B07S3WMKXG/?tag=tolees-21) a 14.99 EUR (original: 25.0 EUR) (40.04 %  de descuento) en el siguiente enlace!
 
-[![Levi s Housemark Graphic tee Camiseta  B](https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL200_.jpg)](https://www.amazon.es/dp/B07S3WMKXG/?tag=tolees-21)
+[![Levi s Housemark Graphic tee Camiseta  B](https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL400_.jpg)](https://www.amazon.es/dp/B07S3WMKXG/?tag=tolees-21)
 
 🔎:
 

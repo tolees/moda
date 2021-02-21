@@ -2,7 +2,7 @@
 layout: post
 title: 'MerCie Joyeria de creación Artesanal de  al 43.35 % de rebaja'
 date: 2020-06-16 13:01:28
-image: 'https://m.media-amazon.com/images/I/51lxe3olMHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lxe3olMHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Tienes [MerCie Joyeria de creación Artesanal de Juguete | 1800 Azulejos y Conectores para Crear Joyas  Accesorios de Moda  Ropa de muñecas y más | Juego de Novedad para Chicas 6 7 8 9 10+ años](https://www.amazon.es/dp/B07QD9DBMY/?tag=tolees-21) con precio final de  16.99 EUR (original: 29.99 EUR) (43.35 %  de rebaja) aqui!
 
-[![MerCie Joyeria de creación Artesanal de ](https://m.media-amazon.com/images/I/51lxe3olMHL._SL200_.jpg)](https://www.amazon.es/dp/B07QD9DBMY/?tag=tolees-21)
+[![MerCie Joyeria de creación Artesanal de ](https://m.media-amazon.com/images/I/51lxe3olMHL._SL400_.jpg)](https://www.amazon.es/dp/B07QD9DBMY/?tag=tolees-21)
 
 🔎:
 

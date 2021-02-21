@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler Arizona Vaqueros Straight  Azul al 78.52 % de rebaja'
 date: 2020-03-03 11:16:28
-image: 'https://m.media-amazon.com/images/I/31cIRy5hVmL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cIRy5hVmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.32'
 
 Tienes [Wrangler Arizona Vaqueros Straight  Azul  Dark Fuzz 77j   30 W/ 34 L para Hombre](https://www.amazon.es/dp/B07MMWRT4V/?tag=tolees-21) con precio final de  19.32 EUR (original: 89.95 EUR) (78.52 %  de rebaja) aqui!
 
-[![Wrangler Arizona Vaqueros Straight  Azul](https://m.media-amazon.com/images/I/31cIRy5hVmL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MMWRT4V/?tag=tolees-21)
+[![Wrangler Arizona Vaqueros Straight  Azul](https://m.media-amazon.com/images/I/31cIRy5hVmL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MMWRT4V/?tag=tolees-21)
 
 🔎:
 

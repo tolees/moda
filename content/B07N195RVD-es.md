@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 82.73 % en Lee Essential Logo SWS Sudadera  Gris  G'
 date: 2020-02-09 09:39:33
-image: 'https://m.media-amazon.com/images/I/416ckbbXpxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416ckbbXpxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.08'
 
 Tienes [Lee Essential Logo SWS Sudadera  Gris  Grey Mele MP   X-Large para Mujer](https://www.amazon.es/dp/B07N195RVD/?tag=tolees-21) con un 82.73 % de descuento con precio de oferta de 12.08 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Lee Essential Logo SWS Sudadera  Gris  G](https://m.media-amazon.com/images/I/416ckbbXpxL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N195RVD/?tag=tolees-21)
+[![Lee Essential Logo SWS Sudadera  Gris  G](https://m.media-amazon.com/images/I/416ckbbXpxL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N195RVD/?tag=tolees-21)
 
 ℹ️:
 

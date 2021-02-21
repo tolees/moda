@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 502 Regular Taper Vaqueros  Gris  al 45.92 % de descuento'
 date: 2020-01-15 09:18:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.49'
 
 Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros  Gris  Gobbler ADV 0297   33W / 32L para Hombre](https://www.amazon.es/dp/B07K7NVQK7/?tag=tolees-21) a 59.49 EUR (original: 110 EUR) (45.92 %  de descuento) en el siguiente enlace!
 
-[![Levi s 502 Regular Taper Vaqueros  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL200_.jpg)](https://www.amazon.es/dp/B07K7NVQK7/?tag=tolees-21)
+[![Levi s 502 Regular Taper Vaqueros  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL400_.jpg)](https://www.amazon.es/dp/B07K7NVQK7/?tag=tolees-21)
 
 🔎:
 

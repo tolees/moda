@@ -2,7 +2,7 @@
 layout: post
 title: 'Lupa con Luz Led - Rightwell Gafas Lupa  al 25.09 % de descuento'
 date: 2020-02-14 18:35:44
-image: 'https://m.media-amazon.com/images/I/41mXxHxJfaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mXxHxJfaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.746666666666666'
 
 Está [Lupa con Luz Led - Rightwell Gafas Lupa de Aumento con Luz para Modelismo Reparaciones Coser Soldadura Eliminar Piojos Pegar Piezas Pequeñas Joyería y Relojería - 5 Lentes Intercambiables 1X-3.5X](https://www.amazon.es/dp/B01GTF06PS/?tag=tolees-21) con 25.09 de descuento por 17.97 EUR (original: 23.99 EUR) en el siguiente enlace!
 
-[![Lupa con Luz Led - Rightwell Gafas Lupa ](https://m.media-amazon.com/images/I/41mXxHxJfaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01GTF06PS/?tag=tolees-21)
+[![Lupa con Luz Led - Rightwell Gafas Lupa ](https://m.media-amazon.com/images/I/41mXxHxJfaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01GTF06PS/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Camisa Entallada de Manga Corta co al 70.00 % de rebaja'
 date: 2020-05-04 21:00:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BpDA2obNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BpDA2obNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.43'
 
 Tienes [find. Camisa Entallada de Manga Corta con Bandas Deportivas Hombre  Azul  Blue   XX-Large](https://www.amazon.es/dp/B06XJ4Y2P4/?tag=tolees-21) con precio final de  7.5 EUR (original: 25 EUR) (70.00 %  de rebaja) aqui!
 
-[![find. Camisa Entallada de Manga Corta co](https://images-eu.ssl-images-amazon.com/images/I/41%2BpDA2obNL._SL200_.jpg)](https://www.amazon.es/dp/B06XJ4Y2P4/?tag=tolees-21)
+[![find. Camisa Entallada de Manga Corta co](https://images-eu.ssl-images-amazon.com/images/I/41%2BpDA2obNL._SL400_.jpg)](https://www.amazon.es/dp/B06XJ4Y2P4/?tag=tolees-21)
 
 🔎:
 

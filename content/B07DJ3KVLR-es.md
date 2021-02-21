@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Leitan B  Zapatos de Cordones Der con un 41.00 % de descuento'
 date: 2020-02-17 07:43:41
-image: 'https://m.media-amazon.com/images/I/31eh-ZCd9WL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eh-ZCd9WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.94'
 
 En este momento está [Geox U Leitan B  Zapatos de Cordones Derby para Hombre  Azul  Navy C4002   46 EU](https://www.amazon.es/dp/B07DJ3KVLR/?tag=tolees-21) a 58.94 EUR (original: 99.9 EUR) (41.00 %  de descuento) en el siguiente enlace!
 
-[![Geox U Leitan B  Zapatos de Cordones Der](https://m.media-amazon.com/images/I/31eh-ZCd9WL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3KVLR/?tag=tolees-21)
+[![Geox U Leitan B  Zapatos de Cordones Der](https://m.media-amazon.com/images/I/31eh-ZCd9WL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DJ3KVLR/?tag=tolees-21)
 
 🔎:
 

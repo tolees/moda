@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW 3301 Slim Vaqueros  Rinsed 89 al 80.60 % de rebaja'
 date: 2020-02-16 19:06:48
-image: 'https://m.media-amazon.com/images/I/31o0js7kMWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31o0js7kMWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.956666666666667'
 
 Tienes [G-STAR RAW 3301 Slim Vaqueros  Rinsed 8970-082  26W / 30L para Hombre](https://www.amazon.es/dp/B0752NJ4ZV/?tag=tolees-21) con precio final de  19.39 EUR (original: 99.95 EUR) (80.60 %  de rebaja) aqui!
 
-[![G-STAR RAW 3301 Slim Vaqueros  Rinsed 89](https://m.media-amazon.com/images/I/31o0js7kMWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0752NJ4ZV/?tag=tolees-21)
+[![G-STAR RAW 3301 Slim Vaqueros  Rinsed 89](https://m.media-amazon.com/images/I/31o0js7kMWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0752NJ4ZV/?tag=tolees-21)
 
 🔎:
 

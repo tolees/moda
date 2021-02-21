@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Orange Label Vntge Emb S/s tee  al 33.96 % de rebaja'
 date: 2020-04-17 11:04:00
-image: 'https://m.media-amazon.com/images/I/31V7RpIzv8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V7RpIzv8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.49'
 
 Tienes [Superdry Orange Label Vntge Emb S/s tee Camiseta  Rojo  Boston Burgundy Grit Uj7   Small para Hombre](https://www.amazon.es/dp/B07FL59LXV/?tag=tolees-21) con precio final de  18.49 EUR (original: 28.0 EUR) (33.96 %  de rebaja) aqui!
 
-[![Superdry Orange Label Vntge Emb S/s tee ](https://m.media-amazon.com/images/I/31V7RpIzv8L._SL200_.jpg)](https://www.amazon.es/dp/B07FL59LXV/?tag=tolees-21)
+[![Superdry Orange Label Vntge Emb S/s tee ](https://m.media-amazon.com/images/I/31V7RpIzv8L._SL400_.jpg)](https://www.amazon.es/dp/B07FL59LXV/?tag=tolees-21)
 
 🔎:
 

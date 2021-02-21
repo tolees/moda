@@ -2,7 +2,7 @@
 layout: post
 title: 'Battle Royale Pijama para Niños Gaming M al 15.44 % de descuento'
 date: 2020-04-19 13:06:24
-image: 'https://m.media-amazon.com/images/I/41xO18nZjFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xO18nZjFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.95'
 
 Está [Battle Royale Pijama para Niños Gaming Multicolor 7-8 Años](https://www.amazon.es/dp/B07GGTTK1K/?tag=tolees-21) con 15.44 de descuento por 10.95 EUR (original: 12.95 EUR) en el siguiente enlace!
 
-[![Battle Royale Pijama para Niños Gaming M](https://m.media-amazon.com/images/I/41xO18nZjFL._SL200_.jpg)](https://www.amazon.es/dp/B07GGTTK1K/?tag=tolees-21)
+[![Battle Royale Pijama para Niños Gaming M](https://m.media-amazon.com/images/I/41xO18nZjFL._SL400_.jpg)](https://www.amazon.es/dp/B07GGTTK1K/?tag=tolees-21)
 
 ℹ️:
 

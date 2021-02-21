@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour  UNDKU Coldgear Rush Camisa con un 63.13 % de descuento'
 date: 2020-09-27 17:44:45
-image: 'https://m.media-amazon.com/images/I/31g1bJjR1sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31g1bJjR1sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.81'
 
 En este momento está [Under Armour  UNDKU Coldgear Rush Camisa De Manga Larga  Hombre  Negro  SM](https://www.amazon.es/dp/B07QWN58FR/?tag=tolees-21) a 25.81 EUR (original: 70.0 EUR) (63.13 %  de descuento) en el siguiente enlace!
 
-[![Under Armour  UNDKU Coldgear Rush Camisa](https://m.media-amazon.com/images/I/31g1bJjR1sL._SL200_.jpg)](https://www.amazon.es/dp/B07QWN58FR/?tag=tolees-21)
+[![Under Armour  UNDKU Coldgear Rush Camisa](https://m.media-amazon.com/images/I/31g1bJjR1sL._SL400_.jpg)](https://www.amazon.es/dp/B07QWN58FR/?tag=tolees-21)
 
 🔎:
 

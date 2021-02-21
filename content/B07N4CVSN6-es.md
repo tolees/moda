@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Dress Always Vestido  Azul  Den al 72.90 % de descuento'
 date: 2020-03-13 17:45:03
-image: 'https://m.media-amazon.com/images/I/419fd8PZtvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419fd8PZtvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.38'
 
 Está [Desigual Dress Always Vestido  Azul  Denim Medium Wash 5053   36  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B07N4CVSN6/?tag=tolees-21) con 72.90 de descuento por 24.38 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Desigual Dress Always Vestido  Azul  Den](https://m.media-amazon.com/images/I/419fd8PZtvL._SL200_.jpg)](https://www.amazon.es/dp/B07N4CVSN6/?tag=tolees-21)
+[![Desigual Dress Always Vestido  Azul  Den](https://m.media-amazon.com/images/I/419fd8PZtvL._SL400_.jpg)](https://www.amazon.es/dp/B07N4CVSN6/?tag=tolees-21)
 
 ℹ️:
 

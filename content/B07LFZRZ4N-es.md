@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Garret A  Zapatos de Cordones Der al 53.01 % de rebaja'
 date: 2020-01-30 10:13:40
-image: 'https://m.media-amazon.com/images/I/31zlHQ3Qk0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zlHQ3Qk0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.34'
 
 Tienes [Geox U Garret A  Zapatos de Cordones Derby para Hombre  Marrón  Mud/Bordeaux C6446   43.5 EU](https://www.amazon.es/dp/B07LFZRZ4N/?tag=tolees-21) con precio final de  56.34 EUR (original: 119.9 EUR) (53.01 %  de rebaja) aqui!
 
-[![Geox U Garret A  Zapatos de Cordones Der](https://m.media-amazon.com/images/I/31zlHQ3Qk0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LFZRZ4N/?tag=tolees-21)
+[![Geox U Garret A  Zapatos de Cordones Der](https://m.media-amazon.com/images/I/31zlHQ3Qk0L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LFZRZ4N/?tag=tolees-21)
 
 🔎:
 

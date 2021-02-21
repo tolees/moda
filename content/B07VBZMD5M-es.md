@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.15 % en Marca Amazon - Iris & Lilly Bralette de '
 date: 2020-07-26 09:25:45
-image: 'https://m.media-amazon.com/images/I/41nX7xNvjmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nX7xNvjmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.61'
 
 Tienes [Marca Amazon - Iris & Lilly Bralette de Rejilla Mujer  Rojo  Scooter   S  Label: S](https://www.amazon.es/dp/B07VBZMD5M/?tag=tolees-21) con un 46.15 % de descuento con precio de oferta de 8.61 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![Marca Amazon - Iris & Lilly Bralette de ](https://m.media-amazon.com/images/I/41nX7xNvjmL._SL200_.jpg)](https://www.amazon.es/dp/B07VBZMD5M/?tag=tolees-21)
+[![Marca Amazon - Iris & Lilly Bralette de ](https://m.media-amazon.com/images/I/41nX7xNvjmL._SL400_.jpg)](https://www.amazon.es/dp/B07VBZMD5M/?tag=tolees-21)
 
 ℹ️:
 

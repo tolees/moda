@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Killington  Zapatillas Altas  al 42.79 % de descuento'
 date: 2020-06-03 01:13:00
-image: 'https://m.media-amazon.com/images/I/41wvDsUZWZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wvDsUZWZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.67'
 
 Está [Timberland Killington  Zapatillas Altas para Hombre  Azul  Black Iris Nubuck 19   45 EU](https://www.amazon.es/dp/B06XDHRRSY/?tag=tolees-21) con 42.79 de descuento por 71.67 EUR (original: 125.28 EUR) en el siguiente enlace!
 
-[![Timberland Killington  Zapatillas Altas ](https://m.media-amazon.com/images/I/41wvDsUZWZL._SL200_.jpg)](https://www.amazon.es/dp/B06XDHRRSY/?tag=tolees-21)
+[![Timberland Killington  Zapatillas Altas ](https://m.media-amazon.com/images/I/41wvDsUZWZL._SL400_.jpg)](https://www.amazon.es/dp/B06XDHRRSY/?tag=tolees-21)
 
 ℹ️:
 

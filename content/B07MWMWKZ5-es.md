@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.00 % en Timberland TB9173 Gafas de sol  Transpar'
 date: 2020-05-08 09:48:11
-image: 'https://m.media-amazon.com/images/I/31G9hRnPmPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31G9hRnPmPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.0'
 
 Tienes [Timberland TB9173 Gafas de sol  Transparente  Crystal/Smoke Polarized   70.0 para Hombre](https://www.amazon.es/dp/B07MWMWKZ5/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 56.0 EUR (original: 80.0 EUR) en el siguiente enlace!
 
-[![Timberland TB9173 Gafas de sol  Transpar](https://m.media-amazon.com/images/I/31G9hRnPmPL._SL200_.jpg)](https://www.amazon.es/dp/B07MWMWKZ5/?tag=tolees-21)
+[![Timberland TB9173 Gafas de sol  Transpar](https://m.media-amazon.com/images/I/31G9hRnPmPL._SL400_.jpg)](https://www.amazon.es/dp/B07MWMWKZ5/?tag=tolees-21)
 
 ℹ️:
 

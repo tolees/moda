@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. CONNIE-S2C1-Court Z al 80.04 % de rebaja'
 date: 2020-08-07 22:23:13
-image: 'https://m.media-amazon.com/images/I/418wUy7eJBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418wUy7eJBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.195'
 
 Tienes [Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón con Punta Cerrada  Rojo  Burgundy   41 EU](https://www.amazon.es/dp/B07ZW5W7S4/?tag=tolees-21) con precio final de  8.96 EUR (original: 44.9 EUR) (80.04 %  de rebaja) aqui!
 
-[![Marca Amazon - find. CONNIE-S2C1-Court Z](https://m.media-amazon.com/images/I/418wUy7eJBL._SL200_.jpg)](https://www.amazon.es/dp/B07ZW5W7S4/?tag=tolees-21)
+[![Marca Amazon - find. CONNIE-S2C1-Court Z](https://m.media-amazon.com/images/I/418wUy7eJBL._SL400_.jpg)](https://www.amazon.es/dp/B07ZW5W7S4/?tag=tolees-21)
 
 🔎:
 

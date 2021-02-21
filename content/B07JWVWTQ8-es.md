@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Fire Venture S II WP  Zapatos d con un 36.38 % de descuento'
 date: 2020-02-08 12:14:15
-image: 'https://m.media-amazon.com/images/I/41x04upQQVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x04upQQVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.98'
 
 En este momento está [Columbia Fire Venture S II WP  Zapatos de Senderismo Impermeables para Mujer  Gris  Titanium MHW  P 049   37 EU](https://www.amazon.es/dp/B07JWVWTQ8/?tag=tolees-21) a 69.98 EUR (original: 109.99 EUR) (36.38 %  de descuento) en el siguiente enlace!
 
-[![Columbia Fire Venture S II WP  Zapatos d](https://m.media-amazon.com/images/I/41x04upQQVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JWVWTQ8/?tag=tolees-21)
+[![Columbia Fire Venture S II WP  Zapatos d](https://m.media-amazon.com/images/I/41x04upQQVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JWVWTQ8/?tag=tolees-21)
 
 🔎:
 

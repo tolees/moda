@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox B Djrock Girl A  Zapatillas para Be con un 65.31 % de descuento'
 date: 2020-08-17 13:55:10
-image: 'https://m.media-amazon.com/images/I/41Ci1RVrvYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ci1RVrvYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.61'
 
 En este momento está [Geox B Djrock Girl A  Zapatillas para Bebés  Plateado  Silver/Fuchsia C0162   23 EU](https://www.amazon.es/dp/B07SRJC3DS/?tag=tolees-21) a 15.61 EUR (original: 45.0 EUR) (65.31 %  de descuento) en el siguiente enlace!
 
-[![Geox B Djrock Girl A  Zapatillas para Be](https://m.media-amazon.com/images/I/41Ci1RVrvYL._SL200_.jpg)](https://www.amazon.es/dp/B07SRJC3DS/?tag=tolees-21)
+[![Geox B Djrock Girl A  Zapatillas para Be](https://m.media-amazon.com/images/I/41Ci1RVrvYL._SL400_.jpg)](https://www.amazon.es/dp/B07SRJC3DS/?tag=tolees-21)
 
 🔎:
 

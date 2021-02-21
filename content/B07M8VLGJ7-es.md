@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Elly Vaqueros  Negro/Lavado Negro  L al 86.00 % de descuento'
 date: 2020-04-01 06:59:06
-image: 'https://m.media-amazon.com/images/I/418y0V8+KLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418y0V8+KLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.44'
 
 Ahora mismo tienes [Lee Elly Vaqueros  Negro/Lavado Negro  Light Blue Taos Bg   W25/L33 para Mujer](https://www.amazon.es/dp/B07M8VLGJ7/?tag=tolees-21) a 13.99 EUR (original: 99.95 EUR) (86.00 %  de descuento) en el siguiente enlace!
 
-[![Lee Elly Vaqueros  Negro/Lavado Negro  L](https://m.media-amazon.com/images/I/418y0V8+KLL._SL200_.jpg)](https://www.amazon.es/dp/B07M8VLGJ7/?tag=tolees-21)
+[![Lee Elly Vaqueros  Negro/Lavado Negro  L](https://m.media-amazon.com/images/I/418y0V8+KLL._SL400_.jpg)](https://www.amazon.es/dp/B07M8VLGJ7/?tag=tolees-21)
 
 🔎:
 

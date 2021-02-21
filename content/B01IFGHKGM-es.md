@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Heritage 6 Inch Premium Water al 35.87 % de descuento'
 date: 2020-02-28 22:31:30
-image: 'https://m.media-amazon.com/images/I/41j3dXuP+FL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41j3dXuP+FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '132.72'
 
 Está [Timberland Heritage 6 Inch Premium Waterproof  Botas para Hombress  Marrón  Medium Brown Nubuck   39 EU](https://www.amazon.es/dp/B01IFGHKGM/?tag=tolees-21) con 35.87 de descuento por 147.49 EUR (original: 230.0 EUR) en el siguiente enlace!
 
-[![Timberland Heritage 6 Inch Premium Water](https://m.media-amazon.com/images/I/41j3dXuP+FL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01IFGHKGM/?tag=tolees-21)
+[![Timberland Heritage 6 Inch Premium Water](https://m.media-amazon.com/images/I/41j3dXuP+FL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01IFGHKGM/?tag=tolees-21)
 
 ℹ️:
 

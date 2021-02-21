@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Myria C  Zapatillas para Mujer  N al 57.69 % de descuento'
 date: 2020-09-17 22:47:32
-image: 'https://m.media-amazon.com/images/I/412s5nOI-HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412s5nOI-HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.74'
 
 Está [Geox D Myria C  Zapatillas para Mujer  Negro  Black C9999   38 EU](https://www.amazon.es/dp/B07SSK36HT/?tag=tolees-21) con 57.69 de descuento por 42.27 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Geox D Myria C  Zapatillas para Mujer  N](https://m.media-amazon.com/images/I/412s5nOI-HL._SL200_.jpg)](https://www.amazon.es/dp/B07SSK36HT/?tag=tolees-21)
+[![Geox D Myria C  Zapatillas para Mujer  N](https://m.media-amazon.com/images/I/412s5nOI-HL._SL400_.jpg)](https://www.amazon.es/dp/B07SSK36HT/?tag=tolees-21)
 
 ℹ️:
 

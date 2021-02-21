@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Larchmont Waterproof  Botas C al 48.03 % de rebaja'
 date: 2020-06-22 17:30:58
-image: 'https://m.media-amazon.com/images/I/41IB8yU45ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IB8yU45ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.75'
 
 Tienes [Timberland Larchmont Waterproof  Botas Chukka para Hombre  Marrón  MD Brown Full Grain   44.5 EU](https://www.amazon.es/dp/B00X9CSFO4/?tag=tolees-21) con precio final de  85.75 EUR (original: 165.0 EUR) (48.03 %  de rebaja) aqui!
 
-[![Timberland Larchmont Waterproof  Botas C](https://m.media-amazon.com/images/I/41IB8yU45ZL._SL200_.jpg)](https://www.amazon.es/dp/B00X9CSFO4/?tag=tolees-21)
+[![Timberland Larchmont Waterproof  Botas C](https://m.media-amazon.com/images/I/41IB8yU45ZL._SL400_.jpg)](https://www.amazon.es/dp/B00X9CSFO4/?tag=tolees-21)
 
 🔎:
 

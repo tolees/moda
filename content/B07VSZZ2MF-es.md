@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Brooklyn Straight Hombre Vaqueros  G al 57.77 % de descuento'
 date: 2020-08-02 15:06:18
-image: 'https://m.media-amazon.com/images/I/31k7zjHp4XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31k7zjHp4XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.99'
 
 Ahora mismo tienes [Lee Brooklyn Straight Hombre Vaqueros  Gris  Moto Flat EB   36W / 30L](https://www.amazon.es/dp/B07VSZZ2MF/?tag=tolees-21) a 37.99 EUR (original: 89.95 EUR) (57.77 %  de descuento) en el siguiente enlace!
 
-[![Lee Brooklyn Straight Hombre Vaqueros  G](https://m.media-amazon.com/images/I/31k7zjHp4XL._SL200_.jpg)](https://www.amazon.es/dp/B07VSZZ2MF/?tag=tolees-21)
+[![Lee Brooklyn Straight Hombre Vaqueros  G](https://m.media-amazon.com/images/I/31k7zjHp4XL._SL400_.jpg)](https://www.amazon.es/dp/B07VSZZ2MF/?tag=tolees-21)
 
 🔎:
 

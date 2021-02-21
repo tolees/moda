@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Trucker Denim Chaqueta  Rosa  Pink al 60.00 % de rebaja'
 date: 2020-01-10 07:24:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2B%2BEDVZ2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2B%2BEDVZ2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15'
 
 Tienes [find. Trucker Denim Chaqueta  Rosa  Pink   48  Talla del Fabricante: Small ](https://www.amazon.es/dp/B078S6NK9G/?tag=tolees-21) con precio final de  15 EUR (original: 37.5 EUR) (60.00 %  de rebaja) aqui!
 
-[![find. Trucker Denim Chaqueta  Rosa  Pink](https://images-eu.ssl-images-amazon.com/images/I/41U%2B%2BEDVZ2L._SL200_.jpg)](https://www.amazon.es/dp/B078S6NK9G/?tag=tolees-21)
+[![find. Trucker Denim Chaqueta  Rosa  Pink](https://images-eu.ssl-images-amazon.com/images/I/41U%2B%2BEDVZ2L._SL400_.jpg)](https://www.amazon.es/dp/B078S6NK9G/?tag=tolees-21)
 
 🔎:
 

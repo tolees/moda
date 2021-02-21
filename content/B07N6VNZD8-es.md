@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Signature Hilfiger Leathe con un 52.79 % de descuento'
 date: 2020-07-20 21:27:51
-image: 'https://m.media-amazon.com/images/I/31bM0tmmdAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bM0tmmdAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.65875'
 
 En este momento está [Tommy Hilfiger Signature Hilfiger Leather Shoe  Zapatos de Cordones Derby para Hombre  Black 990  43 EU](https://www.amazon.es/dp/B07N6VNZD8/?tag=tolees-21) a 73.13 EUR (original: 154.9 EUR) (52.79 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Signature Hilfiger Leathe](https://m.media-amazon.com/images/I/31bM0tmmdAL._SL200_.jpg)](https://www.amazon.es/dp/B07N6VNZD8/?tag=tolees-21)
+[![Tommy Hilfiger Signature Hilfiger Leathe](https://m.media-amazon.com/images/I/31bM0tmmdAL._SL400_.jpg)](https://www.amazon.es/dp/B07N6VNZD8/?tag=tolees-21)
 
 🔎:
 

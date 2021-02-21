@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein CK Essential Slim V Neck te al 46.28 % de descuento'
 date: 2020-06-21 19:00:04
-image: 'https://m.media-amazon.com/images/I/41hETjmulVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hETjmulVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.95'
 
 Ahora mismo tienes [Calvin Klein CK Essential Slim V Neck tee Camiseta  Gris  Mid Grey Heather P2f   Large para Hombre](https://www.amazon.es/dp/B07VD3G7HG/?tag=tolees-21) a 20.95 EUR (original: 39.0 EUR) (46.28 %  de descuento) en el siguiente enlace!
 
-[![Calvin Klein CK Essential Slim V Neck te](https://m.media-amazon.com/images/I/41hETjmulVL._SL200_.jpg)](https://www.amazon.es/dp/B07VD3G7HG/?tag=tolees-21)
+[![Calvin Klein CK Essential Slim V Neck te](https://m.media-amazon.com/images/I/41hETjmulVL._SL400_.jpg)](https://www.amazon.es/dp/B07VD3G7HG/?tag=tolees-21)
 
 🔎:
 

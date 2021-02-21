@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Jude Camiseta  Azul  Indigo 5 con un 74.06 % de descuento'
 date: 2020-10-07 06:52:45
-image: 'https://m.media-amazon.com/images/I/41DpqHef6uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DpqHef6uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.08'
 
 En este momento está [Pepe Jeans Jude Camiseta  Azul  Indigo 561   X-Large para Hombre](https://www.amazon.es/dp/B07VWX78QP/?tag=tolees-21) a 9.08 EUR (original: 35.0 EUR) (74.06 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Jude Camiseta  Azul  Indigo 5](https://m.media-amazon.com/images/I/41DpqHef6uL._SL200_.jpg)](https://www.amazon.es/dp/B07VWX78QP/?tag=tolees-21)
+[![Pepe Jeans Jude Camiseta  Azul  Indigo 5](https://m.media-amazon.com/images/I/41DpqHef6uL._SL400_.jpg)](https://www.amazon.es/dp/B07VWX78QP/?tag=tolees-21)
 
 🔎:
 

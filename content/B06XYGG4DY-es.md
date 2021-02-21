@@ -2,7 +2,7 @@
 layout: post
 title: 'PIXNOR 4pcs mujeres flor pelo banda tren al 16.03 % de rebaja'
 date: 2020-01-30 17:35:15
-image: 'https://m.media-amazon.com/images/I/51lnlAFOqtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lnlAFOqtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.19'
 
 Tienes [PIXNOR 4pcs mujeres flor pelo banda trenzado anudado Yoga cabeza envolver turbante cabeza abrigo diadema](https://www.amazon.es/dp/B06XYGG4DY/?tag=tolees-21) con precio final de  4.19 EUR (original: 4.99 EUR) (16.03 %  de rebaja) aqui!
 
-[![PIXNOR 4pcs mujeres flor pelo banda tren](https://m.media-amazon.com/images/I/51lnlAFOqtL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XYGG4DY/?tag=tolees-21)
+[![PIXNOR 4pcs mujeres flor pelo banda tren](https://m.media-amazon.com/images/I/51lnlAFOqtL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XYGG4DY/?tag=tolees-21)
 
 🔎:
 

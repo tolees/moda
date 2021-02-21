@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Coat Exotic Classic Abrigo  Azu con un 54.43 % de descuento'
 date: 2020-02-20 20:05:37
-image: 'https://m.media-amazon.com/images/I/41FW8KBMTUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FW8KBMTUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.55'
 
 En este momento está [Desigual Coat Exotic Classic Abrigo  Azul  Denim Medium Wash 5053   40  Talla del Fabricante: 38  para Mujer](https://www.amazon.es/dp/B07N44F3JP/?tag=tolees-21) a 45.55 EUR (original: 99.95 EUR) (54.43 %  de descuento) en el siguiente enlace!
 
-[![Desigual Coat Exotic Classic Abrigo  Azu](https://m.media-amazon.com/images/I/41FW8KBMTUL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N44F3JP/?tag=tolees-21)
+[![Desigual Coat Exotic Classic Abrigo  Azu](https://m.media-amazon.com/images/I/41FW8KBMTUL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N44F3JP/?tag=tolees-21)
 
 🔎:
 

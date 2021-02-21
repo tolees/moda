@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Crocband II Sandal PS K  Sandalias al 25.01 % de descuento'
 date: 2020-02-04 08:22:11
-image: 'https://m.media-amazon.com/images/I/41WX7-h27VL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WX7-h27VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.49'
 
 Está [Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Gris  Slate Grey/Blue Jean   24/25 EU](https://www.amazon.es/dp/B07CPD6GQC/?tag=tolees-21) con 25.01 de descuento por 22.49 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Crocs Crocband II Sandal PS K  Sandalias](https://m.media-amazon.com/images/I/41WX7-h27VL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CPD6GQC/?tag=tolees-21)
+[![Crocs Crocband II Sandal PS K  Sandalias](https://m.media-amazon.com/images/I/41WX7-h27VL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CPD6GQC/?tag=tolees-21)
 
 ℹ️:
 

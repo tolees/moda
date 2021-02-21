@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.42 % en Erima GmbH Classic Team Chaqueta para To'
 date: 2020-01-17 12:03:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413cKcYx3pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413cKcYx3pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.22'
 
 Tienes [Erima GmbH Classic Team Chaqueta para Todo Tiempo  Unisex Adulto  Rojo/Blanco  M](https://www.amazon.es/dp/B01BORJ5YE/?tag=tolees-21) con un 50.42 % de descuento con precio de oferta de 17.22 EUR (original: 34.73 EUR) en el siguiente enlace!
 
-[![Erima GmbH Classic Team Chaqueta para To](https://images-eu.ssl-images-amazon.com/images/I/413cKcYx3pL._SL200_.jpg)](https://www.amazon.es/dp/B01BORJ5YE/?tag=tolees-21)
+[![Erima GmbH Classic Team Chaqueta para To](https://images-eu.ssl-images-amazon.com/images/I/413cKcYx3pL._SL400_.jpg)](https://www.amazon.es/dp/B01BORJ5YE/?tag=tolees-21)
 
 ℹ️:
 

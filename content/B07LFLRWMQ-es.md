@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Graphic Varsity tee Camiseta  Mul al 60.14 % de descuento'
 date: 2020-01-18 13:09:42
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51-92603m%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-92603m%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.95'
 
 Ahora mismo tienes [Levi s Graphic Varsity tee Camiseta  Multicolor  All Over Dunsmuir Hsmk C89519 Dunsmuir 0036   Large para Mujer](https://www.amazon.es/dp/B07LFLRWMQ/?tag=tolees-21) a 13.95 EUR (original: 35 EUR) (60.14 %  de descuento) en el siguiente enlace!
 
-[![Levi s Graphic Varsity tee Camiseta  Mul](https://images-eu.ssl-images-amazon.com/images/I/51-92603m%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07LFLRWMQ/?tag=tolees-21)
+[![Levi s Graphic Varsity tee Camiseta  Mul](https://images-eu.ssl-images-amazon.com/images/I/51-92603m%2BL._SL400_.jpg)](https://www.amazon.es/dp/B07LFLRWMQ/?tag=tolees-21)
 
 🔎:
 

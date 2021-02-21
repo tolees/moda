@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 514 Vaqueros Straight  Azul  Appl al 41.69 % de descuento'
 date: 2020-06-05 17:46:28
-image: 'https://m.media-amazon.com/images/I/418FfDBeIjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418FfDBeIjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.06'
 
 Ahora mismo tienes [Levi s 514 Vaqueros Straight  Azul  Apple Overt Adapt 1238   W38/L32  Talla del Fabricante: 38 32  para Hombre](https://www.amazon.es/dp/B07LFDXBB2/?tag=tolees-21) a 67.06 EUR (original: 115.0 EUR) (41.69 %  de descuento) en el siguiente enlace!
 
-[![Levi s 514 Vaqueros Straight  Azul  Appl](https://m.media-amazon.com/images/I/418FfDBeIjL._SL200_.jpg)](https://www.amazon.es/dp/B07LFDXBB2/?tag=tolees-21)
+[![Levi s 514 Vaqueros Straight  Azul  Appl](https://m.media-amazon.com/images/I/418FfDBeIjL._SL400_.jpg)](https://www.amazon.es/dp/B07LFDXBB2/?tag=tolees-21)
 
 🔎:
 

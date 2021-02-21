@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Art Camiseta  Azul  595navy 5 con un 39.75 % de descuento'
 date: 2020-10-02 09:41:15
-image: 'https://m.media-amazon.com/images/I/31ayTb+vJxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ayTb+vJxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 En este momento está [Pepe Jeans Art Camiseta  Azul  595navy 595   6-7 años  Talla del Fabricante: 6  para Niños](https://www.amazon.es/dp/B07J28BDX3/?tag=tolees-21) a 11.99 EUR (original: 19.9 EUR) (39.75 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Art Camiseta  Azul  595navy 5](https://m.media-amazon.com/images/I/31ayTb+vJxL._SL200_.jpg)](https://www.amazon.es/dp/B07J28BDX3/?tag=tolees-21)
+[![Pepe Jeans Art Camiseta  Azul  595navy 5](https://m.media-amazon.com/images/I/31ayTb+vJxL._SL400_.jpg)](https://www.amazon.es/dp/B07J28BDX3/?tag=tolees-21)
 
 🔎:
 

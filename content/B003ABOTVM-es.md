@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Brasil  Chanclas Unisex Adulto con un 41.10 % de descuento'
 date: 2020-08-25 21:28:55
-image: 'https://m.media-amazon.com/images/I/31jH9g7413L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jH9g7413L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.9'
 
 En este momento está [Havaianas Brasil  Chanclas Unisex Adulto  Verde  Amazonia   43/44 EU](https://www.amazon.es/dp/B003ABOTVM/?tag=tolees-21) a 12.9 EUR (original: 21.9 EUR) (41.10 %  de descuento) en el siguiente enlace!
 
-[![Havaianas Brasil  Chanclas Unisex Adulto](https://m.media-amazon.com/images/I/31jH9g7413L._SL200_.jpg)](https://www.amazon.es/dp/B003ABOTVM/?tag=tolees-21)
+[![Havaianas Brasil  Chanclas Unisex Adulto](https://m.media-amazon.com/images/I/31jH9g7413L._SL400_.jpg)](https://www.amazon.es/dp/B003ABOTVM/?tag=tolees-21)
 
 🔎:
 

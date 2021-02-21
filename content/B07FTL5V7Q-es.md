@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Scarlett Cropped Vaqueros Skinny  Gr al 71.37 % de descuento'
 date: 2020-03-02 19:53:15
-image: 'https://m.media-amazon.com/images/I/3166FJXzNeL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3166FJXzNeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.89'
 
 Ahora mismo tienes [Lee Scarlett Cropped Vaqueros Skinny  Gris  Concrete Grey Cm   28W / 35L para Mujer](https://www.amazon.es/dp/B07FTL5V7Q/?tag=tolees-21) a 22.89 EUR (original: 79.95 EUR) (71.37 %  de descuento) en el siguiente enlace!
 
-[![Lee Scarlett Cropped Vaqueros Skinny  Gr](https://m.media-amazon.com/images/I/3166FJXzNeL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FTL5V7Q/?tag=tolees-21)
+[![Lee Scarlett Cropped Vaqueros Skinny  Gr](https://m.media-amazon.com/images/I/3166FJXzNeL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FTL5V7Q/?tag=tolees-21)
 
 🔎:
 

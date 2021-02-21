@@ -2,7 +2,7 @@
 layout: post
 title: 'Geographical Norway Parka DE Hombre BANT con un 30.00 % de descuento'
 date: 2020-10-04 08:49:11
-image: 'https://m.media-amazon.com/images/I/412dghMLqIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412dghMLqIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.3'
 
 En este momento está [Geographical Norway Parka DE Hombre BANTOU Caqui L](https://www.amazon.es/dp/B07NDJF313/?tag=tolees-21) a 69.3 EUR (original: 99.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Geographical Norway Parka DE Hombre BANT](https://m.media-amazon.com/images/I/412dghMLqIL._SL200_.jpg)](https://www.amazon.es/dp/B07NDJF313/?tag=tolees-21)
+[![Geographical Norway Parka DE Hombre BANT](https://m.media-amazon.com/images/I/412dghMLqIL._SL400_.jpg)](https://www.amazon.es/dp/B07NDJF313/?tag=tolees-21)
 
 🔎:
 

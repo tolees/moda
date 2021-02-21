@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike M NSW Nsp Top SS Check Camiseta  Ho con un 38.85 % de descuento'
 date: 2020-03-19 14:55:14
-image: 'https://m.media-amazon.com/images/I/315Pu+lKaqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315Pu+lKaqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.5'
 
 En este momento está [Nike M NSW Nsp Top SS Check Camiseta  Hombre  Blue Void/Royal Blue/White  S](https://www.amazon.es/dp/B07PV4D3BT/?tag=tolees-21) a 8.5 EUR (original: 13.9 EUR) (38.85 %  de descuento) en el siguiente enlace!
 
-[![Nike M NSW Nsp Top SS Check Camiseta  Ho](https://m.media-amazon.com/images/I/315Pu+lKaqL._SL200_.jpg)](https://www.amazon.es/dp/B07PV4D3BT/?tag=tolees-21)
+[![Nike M NSW Nsp Top SS Check Camiseta  Ho](https://m.media-amazon.com/images/I/315Pu+lKaqL._SL400_.jpg)](https://www.amazon.es/dp/B07PV4D3BT/?tag=tolees-21)
 
 🔎:
 

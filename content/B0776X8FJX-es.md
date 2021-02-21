@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Original Stretch Camisa   con un 44.06 % de descuento'
 date: 2020-08-24 19:22:20
-image: 'https://m.media-amazon.com/images/I/31sTo5j9a1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sTo5j9a1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.6'
 
 En este momento está [Tommy Hilfiger Original Stretch Camisa  Blanco  Classic White 100   X-Large para Hombre](https://www.amazon.es/dp/B0776X8FJX/?tag=tolees-21) a 38.6 EUR (original: 69.0 EUR) (44.06 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Original Stretch Camisa  ](https://m.media-amazon.com/images/I/31sTo5j9a1L._SL200_.jpg)](https://www.amazon.es/dp/B0776X8FJX/?tag=tolees-21)
+[![Tommy Hilfiger Original Stretch Camisa  ](https://m.media-amazon.com/images/I/31sTo5j9a1L._SL400_.jpg)](https://www.amazon.es/dp/B0776X8FJX/?tag=tolees-21)
 
 🔎:
 

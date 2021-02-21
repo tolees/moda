@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Verglas Down Insulator Chaq al 45.41 % de descuento'
 date: 2020-02-08 17:54:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41LTIOqRGgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LTIOqRGgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '125.56'
 
 Está [Helly Hansen Verglas Down Insulator Chaqueta de Down  Mujer  Color Negro  tamaño Medium](https://www.amazon.es/dp/B06XHDS6BP/?tag=tolees-21) con 45.41 de descuento por 125.56 EUR (original: 230 EUR) en el siguiente enlace!
 
-[![Helly Hansen Verglas Down Insulator Chaq](https://images-eu.ssl-images-amazon.com/images/I/41LTIOqRGgL._SL200_.jpg)](https://www.amazon.es/dp/B06XHDS6BP/?tag=tolees-21)
+[![Helly Hansen Verglas Down Insulator Chaq](https://images-eu.ssl-images-amazon.com/images/I/41LTIOqRGgL._SL400_.jpg)](https://www.amazon.es/dp/B06XHDS6BP/?tag=tolees-21)
 
 ℹ️:
 

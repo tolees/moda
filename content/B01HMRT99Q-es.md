@@ -2,7 +2,7 @@
 layout: post
 title: 'The North Face T92TX5 Camiseta De Manga  al 40.04 % de rebaja'
 date: 2020-05-21 18:48:44
-image: 'https://m.media-amazon.com/images/I/31mMoJjYUQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mMoJjYUQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.316666666666666'
 
 Tienes [The North Face T92TX5 Camiseta De Manga Corta Simple Dome  Hombre  Negro  TNF Black   M](https://www.amazon.es/dp/B01HMRT99Q/?tag=tolees-21) con precio final de  14.99 EUR (original: 25.0 EUR) (40.04 %  de rebaja) aqui!
 
-[![The North Face T92TX5 Camiseta De Manga ](https://m.media-amazon.com/images/I/31mMoJjYUQL._SL200_.jpg)](https://www.amazon.es/dp/B01HMRT99Q/?tag=tolees-21)
+[![The North Face T92TX5 Camiseta De Manga ](https://m.media-amazon.com/images/I/31mMoJjYUQL._SL400_.jpg)](https://www.amazon.es/dp/B01HMRT99Q/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Slim 2pk Crewneck 1 Camiseta  Mul al 50.00 % de descuento'
 date: 2020-07-21 18:14:55
-image: 'https://m.media-amazon.com/images/I/418H+BW116L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418H+BW116L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.450000000000001'
 
 Ahora mismo tienes [Levi s Slim 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Olive Night + White Yd/Dress Blues + Warm Cabernet Yd 0006   XX-Large para Hombre](https://www.amazon.es/dp/B07LFDNDPQ/?tag=tolees-21) a 17.5 EUR (original: 35.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Levi s Slim 2pk Crewneck 1 Camiseta  Mul](https://m.media-amazon.com/images/I/418H+BW116L._SL200_.jpg)](https://www.amazon.es/dp/B07LFDNDPQ/?tag=tolees-21)
+[![Levi s Slim 2pk Crewneck 1 Camiseta  Mul](https://m.media-amazon.com/images/I/418H+BW116L._SL400_.jpg)](https://www.amazon.es/dp/B07LFDNDPQ/?tag=tolees-21)
 
 🔎:
 

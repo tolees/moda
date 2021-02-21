@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Chaqueta Hombre  Ne al 19.17 % de rebaja'
 date: 2020-09-28 21:11:56
-image: 'https://m.media-amazon.com/images/I/31IuswS0CBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IuswS0CBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.65'
 
 Tienes [Marca Amazon - find. Chaqueta Hombre  Negro  Black   S  Label: S](https://www.amazon.es/dp/B07NQQLR4H/?tag=tolees-21) con precio final de  8.18 EUR (original: 10.12 EUR) (19.17 %  de rebaja) aqui!
 
-[![Marca Amazon - find. Chaqueta Hombre  Ne](https://m.media-amazon.com/images/I/31IuswS0CBL._SL200_.jpg)](https://www.amazon.es/dp/B07NQQLR4H/?tag=tolees-21)
+[![Marca Amazon - find. Chaqueta Hombre  Ne](https://m.media-amazon.com/images/I/31IuswS0CBL._SL400_.jpg)](https://www.amazon.es/dp/B07NQQLR4H/?tag=tolees-21)
 
 🔎:
 

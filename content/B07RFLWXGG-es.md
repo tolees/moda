@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Stretch Slim Fit Long Sle al 23.92 % de descuento'
 date: 2020-01-12 16:06:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31P0OGcPhhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31P0OGcPhhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.82'
 
 Ahora mismo tienes [Tommy Hilfiger Stretch Slim Fit Long Sleeve tee Camiseta Deporte  Negro  Black Bds   Medium para Hombre](https://www.amazon.es/dp/B07RFLWXGG/?tag=tolees-21) a 35.82 EUR (original: 47.08 EUR) (23.92 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Stretch Slim Fit Long Sle](https://images-eu.ssl-images-amazon.com/images/I/31P0OGcPhhL._SL200_.jpg)](https://www.amazon.es/dp/B07RFLWXGG/?tag=tolees-21)
+[![Tommy Hilfiger Stretch Slim Fit Long Sle](https://images-eu.ssl-images-amazon.com/images/I/31P0OGcPhhL._SL400_.jpg)](https://www.amazon.es/dp/B07RFLWXGG/?tag=tolees-21)
 
 🔎:
 

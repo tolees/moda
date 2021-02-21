@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Dress LORETHA Vestido   Negro 2 al 69.58 % de rebaja'
 date: 2020-03-03 11:41:33
-image: 'https://m.media-amazon.com/images/I/41qIhmqbC8L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qIhmqbC8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.32'
 
 Tienes [Desigual Dress LORETHA Vestido   Negro 2000   44  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07N39NSQQ/?tag=tolees-21) con precio final de  24.32 EUR (original: 79.95 EUR) (69.58 %  de rebaja) aqui!
 
-[![Desigual Dress LORETHA Vestido   Negro 2](https://m.media-amazon.com/images/I/41qIhmqbC8L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N39NSQQ/?tag=tolees-21)
+[![Desigual Dress LORETHA Vestido   Negro 2](https://m.media-amazon.com/images/I/41qIhmqbC8L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N39NSQQ/?tag=tolees-21)
 
 🔎:
 

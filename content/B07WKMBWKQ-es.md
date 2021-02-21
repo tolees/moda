@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Art Camiseta  Azul  519light  al 62.31 % de descuento'
 date: 2020-08-14 06:44:45
-image: 'https://m.media-amazon.com/images/I/31rG9wJwW5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rG9wJwW5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.5'
 
 Ahora mismo tienes [Pepe Jeans Art Camiseta  Azul  519light SPA 519   17-18 años  Talla del Fabricante: 18  para Niños](https://www.amazon.es/dp/B07WKMBWKQ/?tag=tolees-21) a 7.5 EUR (original: 19.9 EUR) (62.31 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Art Camiseta  Azul  519light ](https://m.media-amazon.com/images/I/31rG9wJwW5L._SL200_.jpg)](https://www.amazon.es/dp/B07WKMBWKQ/?tag=tolees-21)
+[![Pepe Jeans Art Camiseta  Azul  519light ](https://m.media-amazon.com/images/I/31rG9wJwW5L._SL400_.jpg)](https://www.amazon.es/dp/B07WKMBWKQ/?tag=tolees-21)
 
 🔎:
 

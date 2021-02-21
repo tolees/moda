@@ -2,7 +2,7 @@
 layout: post
 title: 'ESPRIT Collection 999eo1k809 Camisa Mang al 58.35 % de rebaja'
 date: 2020-03-01 11:02:37
-image: 'https://m.media-amazon.com/images/I/31xcKIAdPZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xcKIAdPZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Tienes [ESPRIT Collection 999eo1k809 Camisa Manga Larga  Blanco  Off White 110   Large para Mujer](https://www.amazon.es/dp/B07RZ79KBH/?tag=tolees-21) con precio final de  14.99 EUR (original: 35.99 EUR) (58.35 %  de rebaja) aqui!
 
-[![ESPRIT Collection 999eo1k809 Camisa Mang](https://m.media-amazon.com/images/I/31xcKIAdPZL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RZ79KBH/?tag=tolees-21)
+[![ESPRIT Collection 999eo1k809 Camisa Mang](https://m.media-amazon.com/images/I/31xcKIAdPZL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RZ79KBH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kickers Home  Zapatos de Cordones Derby  con un 83.35 % de descuento'
 date: 2020-03-12 20:01:51
-image: 'https://m.media-amazon.com/images/I/31L35-A3xQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31L35-A3xQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.48'
 
 En este momento está [Kickers Home  Zapatos de Cordones Derby para Mujer  Negro  Noir 8   36 EU](https://www.amazon.es/dp/B07MFBT3HY/?tag=tolees-21) a 16.48 EUR (original: 99.0 EUR) (83.35 %  de descuento) en el siguiente enlace!
 
-[![Kickers Home  Zapatos de Cordones Derby ](https://m.media-amazon.com/images/I/31L35-A3xQL._SL200_.jpg)](https://www.amazon.es/dp/B07MFBT3HY/?tag=tolees-21)
+[![Kickers Home  Zapatos de Cordones Derby ](https://m.media-amazon.com/images/I/31L35-A3xQL._SL400_.jpg)](https://www.amazon.es/dp/B07MFBT3HY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Plus Size Pl tee Camiseta  Gris   al 27.88 % de descuento'
 date: 2020-03-29 14:46:23
-image: 'https://m.media-amazon.com/images/I/41rs854uouL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rs854uouL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.290000000000001'
 
 Ahora mismo tienes [Levi s Plus Size Pl tee Camiseta  Gris  Plus Sportswear Logo Smokestack Htr 0027   X-Large para Mujer](https://www.amazon.es/dp/B07F2LWVNL/?tag=tolees-21) a 18.03 EUR (original: 25.0 EUR) (27.88 %  de descuento) en el siguiente enlace!
 
-[![Levi s Plus Size Pl tee Camiseta  Gris  ](https://m.media-amazon.com/images/I/41rs854uouL._SL200_.jpg)](https://www.amazon.es/dp/B07F2LWVNL/?tag=tolees-21)
+[![Levi s Plus Size Pl tee Camiseta  Gris  ](https://m.media-amazon.com/images/I/41rs854uouL._SL400_.jpg)](https://www.amazon.es/dp/B07F2LWVNL/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Batcombe Hall Derby - Zapatos de  con un 39.10 % de descuento'
 date: 2020-08-24 03:40:17
-image: 'https://m.media-amazon.com/images/I/41i4zfBzkhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i4zfBzkhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.07666666666667'
 
 En este momento está [Clarks Batcombe Hall Derby - Zapatos de Cordones  para Hombre  Negro  Black Leather   44 EU](https://www.amazon.es/dp/B073GY3DLB/?tag=tolees-21) a 66.99 EUR (original: 110.0 EUR) (39.10 %  de descuento) en el siguiente enlace!
 
-[![Clarks Batcombe Hall Derby - Zapatos de ](https://m.media-amazon.com/images/I/41i4zfBzkhL._SL200_.jpg)](https://www.amazon.es/dp/B073GY3DLB/?tag=tolees-21)
+[![Clarks Batcombe Hall Derby - Zapatos de ](https://m.media-amazon.com/images/I/41i4zfBzkhL._SL400_.jpg)](https://www.amazon.es/dp/B073GY3DLB/?tag=tolees-21)
 
 🔎:
 

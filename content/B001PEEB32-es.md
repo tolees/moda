@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Originals Adilette  Zapatos de Pl al 25.64 % de descuento'
 date: 2020-08-12 07:16:17
-image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.11'
 
 Ahora mismo tienes [adidas Originals Adilette  Zapatos de Playa y Piscina Unisex Adulto  Azul Adiblue White Adiblue  37 EU](https://www.amazon.es/dp/B001PEEB32/?tag=tolees-21) a 25.99 EUR (original: 34.95 EUR) (25.64 %  de descuento) en el siguiente enlace!
 
-[![adidas Originals Adilette  Zapatos de Pl](https://m.media-amazon.com/images/I/41fjLafiAAL._SL200_.jpg)](https://www.amazon.es/dp/B001PEEB32/?tag=tolees-21)
+[![adidas Originals Adilette  Zapatos de Pl](https://m.media-amazon.com/images/I/41fjLafiAAL._SL400_.jpg)](https://www.amazon.es/dp/B001PEEB32/?tag=tolees-21)
 
 🔎:
 

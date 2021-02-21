@@ -2,7 +2,7 @@
 layout: post
 title: 'Toallitas para lentes  200 toallitas de  al 43.50 % de descuento'
 date: 2020-08-14 17:37:09
-image: 'https://m.media-amazon.com/images/I/4195bYVY+nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4195bYVY+nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Ahora mismo tienes [Toallitas para lentes  200 toallitas de limpieza prehumedecidas individualmente para gafas  antivaho  secado rápido y sin arañazos  limpia las gafas – aroma a limón](https://www.amazon.es/dp/B08DK49C7K/?tag=tolees-21) a 12.99 EUR (original: 22.99 EUR) (43.50 %  de descuento) en el siguiente enlace!
 
-[![Toallitas para lentes  200 toallitas de ](https://m.media-amazon.com/images/I/4195bYVY+nL._SL200_.jpg)](https://www.amazon.es/dp/B08DK49C7K/?tag=tolees-21)
+[![Toallitas para lentes  200 toallitas de ](https://m.media-amazon.com/images/I/4195bYVY+nL._SL400_.jpg)](https://www.amazon.es/dp/B08DK49C7K/?tag=tolees-21)
 
 🔎:
 

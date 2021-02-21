@@ -2,7 +2,7 @@
 layout: post
 title: 'find. #  Shana-1a-58 Sandalias Abiertas  al 34.24 % de descuento'
 date: 2020-10-06 15:37:07
-image: 'https://m.media-amazon.com/images/I/31JtaDdZW1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JtaDdZW1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.59'
 
 Está [find. #  Shana-1a-58 Sandalias Abiertas  Negro  Black   37](https://www.amazon.es/dp/B07WMQ21BD/?tag=tolees-21) con 34.24 de descuento por 21.59 EUR (original: 32.83 EUR) en el siguiente enlace!
 
-[![find. #  Shana-1a-58 Sandalias Abiertas ](https://m.media-amazon.com/images/I/31JtaDdZW1L._SL200_.jpg)](https://www.amazon.es/dp/B07WMQ21BD/?tag=tolees-21)
+[![find. #  Shana-1a-58 Sandalias Abiertas ](https://m.media-amazon.com/images/I/31JtaDdZW1L._SL400_.jpg)](https://www.amazon.es/dp/B07WMQ21BD/?tag=tolees-21)
 
 ℹ️:
 

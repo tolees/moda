@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Erwachsene Core Remix Dusch al 68.97 % de rebaja'
 date: 2020-09-15 12:41:47
-image: 'https://m.media-amazon.com/images/I/311Of2J4S-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311Of2J4S-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.95'
 
 Tienes [Under Armour Erwachsene Core Remix Dusch-& Badeschuhe  Zapatos de Playa y Piscina Unisex Adulto  Blanco  Onyx White/Black/Onyx White  103  103   38.5 EU](https://www.amazon.es/dp/B07NNV9FLV/?tag=tolees-21) con precio final de  13.95 EUR (original: 44.95 EUR) (68.97 %  de rebaja) aqui!
 
-[![Under Armour Erwachsene Core Remix Dusch](https://m.media-amazon.com/images/I/311Of2J4S-L._SL200_.jpg)](https://www.amazon.es/dp/B07NNV9FLV/?tag=tolees-21)
+[![Under Armour Erwachsene Core Remix Dusch](https://m.media-amazon.com/images/I/311Of2J4S-L._SL400_.jpg)](https://www.amazon.es/dp/B07NNV9FLV/?tag=tolees-21)
 
 🔎:
 

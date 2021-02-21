@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox J POSEIDO Boy D  Zapatillas para Ni al 55.99 % de descuento'
 date: 2020-09-04 15:50:00
-image: 'https://m.media-amazon.com/images/I/41JgoD02xHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JgoD02xHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.845'
 
 Ahora mismo tienes [Geox J POSEIDO Boy D  Zapatillas para Niños  Azul  Navy/Red C0735   36 EU](https://www.amazon.es/dp/B07SRJGJPK/?tag=tolees-21) a 26.36 EUR (original: 59.9 EUR) (55.99 %  de descuento) en el siguiente enlace!
 
-[![Geox J POSEIDO Boy D  Zapatillas para Ni](https://m.media-amazon.com/images/I/41JgoD02xHL._SL200_.jpg)](https://www.amazon.es/dp/B07SRJGJPK/?tag=tolees-21)
+[![Geox J POSEIDO Boy D  Zapatillas para Ni](https://m.media-amazon.com/images/I/41JgoD02xHL._SL400_.jpg)](https://www.amazon.es/dp/B07SRJGJPK/?tag=tolees-21)
 
 🔎:
 

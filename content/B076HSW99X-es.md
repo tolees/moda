@@ -2,7 +2,7 @@
 layout: post
 title: 'find. 59699 vaqueros mujer  Azul  Mid Bl al 60.00 % de rebaja'
 date: 2020-01-07 09:30:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41sTu6kWmwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sTu6kWmwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.4'
 
 Tienes [find. 59699 vaqueros mujer  Azul  Mid Blue   W26/L32](https://www.amazon.es/dp/B076HSW99X/?tag=tolees-21) con precio final de  14.4 EUR (original: 36 EUR) (60.00 %  de rebaja) aqui!
 
-[![find. 59699 vaqueros mujer  Azul  Mid Bl](https://images-eu.ssl-images-amazon.com/images/I/41sTu6kWmwL._SL200_.jpg)](https://www.amazon.es/dp/B076HSW99X/?tag=tolees-21)
+[![find. 59699 vaqueros mujer  Azul  Mid Bl](https://images-eu.ssl-images-amazon.com/images/I/41sTu6kWmwL._SL400_.jpg)](https://www.amazon.es/dp/B076HSW99X/?tag=tolees-21)
 
 🔎:
 

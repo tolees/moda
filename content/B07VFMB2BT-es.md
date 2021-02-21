@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 099cc2k009 Camiseta  Blanc al 62.10 % de descuento'
 date: 2020-04-05 16:29:09
-image: 'https://m.media-amazon.com/images/I/41dtQwrGqiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dtQwrGqiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.06'
 
 Ahora mismo tienes [edc by Esprit 099cc2k009 Camiseta  Blanco  White 100   Small para Hombre](https://www.amazon.es/dp/B07VFMB2BT/?tag=tolees-21) a 6.06 EUR (original: 15.99 EUR) (62.10 %  de descuento) en el siguiente enlace!
 
-[![edc by Esprit 099cc2k009 Camiseta  Blanc](https://m.media-amazon.com/images/I/41dtQwrGqiL._SL200_.jpg)](https://www.amazon.es/dp/B07VFMB2BT/?tag=tolees-21)
+[![edc by Esprit 099cc2k009 Camiseta  Blanc](https://m.media-amazon.com/images/I/41dtQwrGqiL._SL400_.jpg)](https://www.amazon.es/dp/B07VFMB2BT/?tag=tolees-21)
 
 🔎:
 

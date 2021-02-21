@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 62.73 % en Lee Daren Jeans Vaqueros Straight  Gris '
 date: 2020-01-21 13:02:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31gEPV%2BvieL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gEPV%2BvieL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.52'
 
 Tienes [Lee Daren Jeans Vaqueros Straight  Gris  Moto Grey HG   28W / 32L para Hombre](https://www.amazon.es/dp/B07MMVWM5M/?tag=tolees-21) con un 62.73 % de descuento con precio de oferta de 33.52 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Lee Daren Jeans Vaqueros Straight  Gris ](https://images-eu.ssl-images-amazon.com/images/I/31gEPV%2BvieL._SL200_.jpg)](https://www.amazon.es/dp/B07MMVWM5M/?tag=tolees-21)
+[![Lee Daren Jeans Vaqueros Straight  Gris ](https://images-eu.ssl-images-amazon.com/images/I/31gEPV%2BvieL._SL400_.jpg)](https://www.amazon.es/dp/B07MMVWM5M/?tag=tolees-21)
 
 ℹ️:
 

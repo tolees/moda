@@ -2,7 +2,7 @@
 layout: post
 title: 'G-Star Eyben Slim R T Wmn S/s Camiseta   con un 34.89 % de descuento'
 date: 2020-05-11 20:39:29
-image: 'https://m.media-amazon.com/images/I/41IsvkWH06L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IsvkWH06L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 En este momento está [G-Star Eyben Slim R T Wmn S/s Camiseta  Azul  Sartho Blue 6067   40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B01MYY7UB3/?tag=tolees-21) a 12.99 EUR (original: 19.95 EUR) (34.89 %  de descuento) en el siguiente enlace!
 
-[![G-Star Eyben Slim R T Wmn S/s Camiseta  ](https://m.media-amazon.com/images/I/41IsvkWH06L._SL200_.jpg)](https://www.amazon.es/dp/B01MYY7UB3/?tag=tolees-21)
+[![G-Star Eyben Slim R T Wmn S/s Camiseta  ](https://m.media-amazon.com/images/I/41IsvkWH06L._SL400_.jpg)](https://www.amazon.es/dp/B01MYY7UB3/?tag=tolees-21)
 
 🔎:
 

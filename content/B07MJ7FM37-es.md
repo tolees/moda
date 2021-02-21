@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Oliver Lace  Zapatos de Cordones  al 73.55 % de descuento'
 date: 2020-02-09 14:08:40
-image: 'https://m.media-amazon.com/images/I/31etDLEINYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31etDLEINYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.445'
 
 Ahora mismo tienes [Clarks Oliver Lace  Zapatos de Cordones Derby para Hombre  Negro Black Leather  44 EU](https://www.amazon.es/dp/B07MJ7FM37/?tag=tolees-21) a 39.68 EUR (original: 150.0 EUR) (73.55 %  de descuento) en el siguiente enlace!
 
-[![Clarks Oliver Lace  Zapatos de Cordones ](https://m.media-amazon.com/images/I/31etDLEINYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MJ7FM37/?tag=tolees-21)
+[![Clarks Oliver Lace  Zapatos de Cordones ](https://m.media-amazon.com/images/I/31etDLEINYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MJ7FM37/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Mada Camiseta   Grey Marl 933 al 17.98 % de rebaja'
 date: 2020-04-04 08:14:19
-image: 'https://m.media-amazon.com/images/I/414DQ82rinL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414DQ82rinL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.3'
 
 Tienes [Pepe Jeans Mada Camiseta   Grey Marl 933   Medium para Mujer](https://www.amazon.es/dp/B07MZQQDC9/?tag=tolees-21) con precio final de  8.3 EUR (original: 10.12 EUR) (17.98 %  de rebaja) aqui!
 
-[![Pepe Jeans Mada Camiseta   Grey Marl 933](https://m.media-amazon.com/images/I/414DQ82rinL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQQDC9/?tag=tolees-21)
+[![Pepe Jeans Mada Camiseta   Grey Marl 933](https://m.media-amazon.com/images/I/414DQ82rinL._SL400_.jpg)](https://www.amazon.es/dp/B07MZQQDC9/?tag=tolees-21)
 
 🔎:
 

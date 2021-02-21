@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Lifaloft Insulator Jacket C con un 50.00 % de descuento'
 date: 2020-04-01 13:58:17
-image: 'https://m.media-amazon.com/images/I/51XxMT8otkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XxMT8otkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '100.0'
 
 En este momento está [Helly Hansen Lifaloft Insulator Jacket Chaqueta Aislante  Hombre  Azul  Navy   S](https://www.amazon.es/dp/B07R3DZV3J/?tag=tolees-21) a 100.0 EUR (original: 200.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen Lifaloft Insulator Jacket C](https://m.media-amazon.com/images/I/51XxMT8otkL._SL200_.jpg)](https://www.amazon.es/dp/B07R3DZV3J/?tag=tolees-21)
+[![Helly Hansen Lifaloft Insulator Jacket C](https://m.media-amazon.com/images/I/51XxMT8otkL._SL400_.jpg)](https://www.amazon.es/dp/B07R3DZV3J/?tag=tolees-21)
 
 🔎:
 

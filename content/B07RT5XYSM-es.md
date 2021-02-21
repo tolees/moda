@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.00 % en GLEADING Collar Anti pulgas y garrapatas'
 date: 2020-02-26 10:10:00
-image: 'https://m.media-amazon.com/images/I/51OJTwxn1IL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OJTwxn1IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.0'
 
 Tienes [GLEADING Collar Anti pulgas y garrapatas para Perros y Gatos  prevención de garrapatas y pulgas hipoalergénico e Impermeable por 8 Meses de protección  tamaño Ajustable 62cm ](https://www.amazon.es/dp/B07RT5XYSM/?tag=tolees-21) con un 52.00 % de descuento con precio de oferta de 12.0 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![GLEADING Collar Anti pulgas y garrapatas](https://m.media-amazon.com/images/I/51OJTwxn1IL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RT5XYSM/?tag=tolees-21)
+[![GLEADING Collar Anti pulgas y garrapatas](https://m.media-amazon.com/images/I/51OJTwxn1IL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RT5XYSM/?tag=tolees-21)
 
 ℹ️:
 

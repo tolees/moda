@@ -2,7 +2,7 @@
 layout: post
 title: 'Esprit 099ee1j024 Sudadera  Rojo  Red 63 con un 78.14 % de descuento'
 date: 2020-04-12 17:25:55
-image: 'https://m.media-amazon.com/images/I/413w+jDpO2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413w+jDpO2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.93'
 
 En este momento está [Esprit 099ee1j024 Sudadera  Rojo  Red 630   Medium para Mujer](https://www.amazon.es/dp/B07VD11K8Z/?tag=tolees-21) a 10.93 EUR (original: 49.99 EUR) (78.14 %  de descuento) en el siguiente enlace!
 
-[![Esprit 099ee1j024 Sudadera  Rojo  Red 63](https://m.media-amazon.com/images/I/413w+jDpO2L._SL200_.jpg)](https://www.amazon.es/dp/B07VD11K8Z/?tag=tolees-21)
+[![Esprit 099ee1j024 Sudadera  Rojo  Red 63](https://m.media-amazon.com/images/I/413w+jDpO2L._SL400_.jpg)](https://www.amazon.es/dp/B07VD11K8Z/?tag=tolees-21)
 
 🔎:
 

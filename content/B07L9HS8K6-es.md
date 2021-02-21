@@ -2,7 +2,7 @@
 layout: post
 title: 'Spiuk Altube Road Zapatilla  Unisex Adul al 40.03 % de descuento'
 date: 2020-04-12 07:48:03
-image: 'https://m.media-amazon.com/images/I/410q434EE9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410q434EE9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.9'
 
 Está [Spiuk Altube Road Zapatilla  Unisex Adulto  Negro Mate  37](https://www.amazon.es/dp/B07L9HS8K6/?tag=tolees-21) con 40.03 de descuento por 74.9 EUR (original: 124.9 EUR) en el siguiente enlace!
 
-[![Spiuk Altube Road Zapatilla  Unisex Adul](https://m.media-amazon.com/images/I/410q434EE9L._SL200_.jpg)](https://www.amazon.es/dp/B07L9HS8K6/?tag=tolees-21)
+[![Spiuk Altube Road Zapatilla  Unisex Adul](https://m.media-amazon.com/images/I/410q434EE9L._SL400_.jpg)](https://www.amazon.es/dp/B07L9HS8K6/?tag=tolees-21)
 
 ℹ️:
 

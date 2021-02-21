@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Zero Rules Short Sleeve Shirt C al 22.18 % de rebaja'
 date: 2020-08-27 19:28:05
-image: 'https://m.media-amazon.com/images/I/41RArWk3hhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RArWk3hhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.07142857142857'
 
 Tienes [Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Verde  Cypress Heather   XS](https://www.amazon.es/dp/B07KYX9CRJ/?tag=tolees-21) con precio final de  27.23 EUR (original: 34.99 EUR) (22.18 %  de rebaja) aqui!
 
-[![Columbia Zero Rules Short Sleeve Shirt C](https://m.media-amazon.com/images/I/41RArWk3hhL._SL200_.jpg)](https://www.amazon.es/dp/B07KYX9CRJ/?tag=tolees-21)
+[![Columbia Zero Rules Short Sleeve Shirt C](https://m.media-amazon.com/images/I/41RArWk3hhL._SL400_.jpg)](https://www.amazon.es/dp/B07KYX9CRJ/?tag=tolees-21)
 
 🔎:
 

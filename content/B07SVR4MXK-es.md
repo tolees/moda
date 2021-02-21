@@ -2,7 +2,7 @@
 layout: post
 title: 'Vero Moda Vmstella 3/4 Lace Abk Dress No al 43.48 % de rebaja'
 date: 2020-04-28 15:38:32
-image: 'https://m.media-amazon.com/images/I/41tZ9Od7RSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tZ9Od7RSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.95'
 
 Tienes [Vero Moda Vmstella 3/4 Lace Abk Dress Noos Vestido  Negro  Black Black   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07SVR4MXK/?tag=tolees-21) con precio final de  16.95 EUR (original: 29.99 EUR) (43.48 %  de rebaja) aqui!
 
-[![Vero Moda Vmstella 3/4 Lace Abk Dress No](https://m.media-amazon.com/images/I/41tZ9Od7RSL._SL200_.jpg)](https://www.amazon.es/dp/B07SVR4MXK/?tag=tolees-21)
+[![Vero Moda Vmstella 3/4 Lace Abk Dress No](https://m.media-amazon.com/images/I/41tZ9Od7RSL._SL400_.jpg)](https://www.amazon.es/dp/B07SVR4MXK/?tag=tolees-21)
 
 🔎:
 

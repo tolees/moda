@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Core18 Windbr Chaqueta de Deporte al 53.27 % de descuento'
 date: 2020-06-03 02:03:53
-image: 'https://m.media-amazon.com/images/I/41D+5wh8p-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D+5wh8p-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.67'
 
 Está [adidas Core18 Windbr Chaqueta de Deporte  Hombre  Black/White  XL](https://www.amazon.es/dp/B076HPVYDT/?tag=tolees-21) con 53.27 de descuento por 18.67 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![adidas Core18 Windbr Chaqueta de Deporte](https://m.media-amazon.com/images/I/41D+5wh8p-L._SL200_.jpg)](https://www.amazon.es/dp/B076HPVYDT/?tag=tolees-21)
+[![adidas Core18 Windbr Chaqueta de Deporte](https://m.media-amazon.com/images/I/41D+5wh8p-L._SL400_.jpg)](https://www.amazon.es/dp/B076HPVYDT/?tag=tolees-21)
 
 ℹ️:
 

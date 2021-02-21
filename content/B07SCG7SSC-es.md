@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Rise Up N Run Long-Sleeve Top Men al 24.42 % de descuento'
 date: 2020-04-05 10:48:15
-image: 'https://m.media-amazon.com/images/I/41v46n3FuzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v46n3FuzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.72'
 
 Ahora mismo tienes [adidas Rise Up N Run Long-Sleeve Top Men Camiseta de Manga Larga  Hombre  Gris  Legend Earth   L](https://www.amazon.es/dp/B07SCG7SSC/?tag=tolees-21) a 12.72 EUR (original: 16.83 EUR) (24.42 %  de descuento) en el siguiente enlace!
 
-[![adidas Rise Up N Run Long-Sleeve Top Men](https://m.media-amazon.com/images/I/41v46n3FuzL._SL200_.jpg)](https://www.amazon.es/dp/B07SCG7SSC/?tag=tolees-21)
+[![adidas Rise Up N Run Long-Sleeve Top Men](https://m.media-amazon.com/images/I/41v46n3FuzL._SL400_.jpg)](https://www.amazon.es/dp/B07SCG7SSC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Vero Moda Vmnoramille 3/4 Wool Jacket Ab con un 55.01 % de descuento'
 date: 2020-01-13 08:15:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31MImRHTksL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MImRHTksL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.99'
 
 En este momento está [Vero Moda Vmnoramille 3/4 Wool Jacket Abrigo  Rojo  Birch Birch   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07T93YPR8/?tag=tolees-21) a 35.99 EUR (original: 79.99 EUR) (55.01 %  de descuento) en el siguiente enlace!
 
-[![Vero Moda Vmnoramille 3/4 Wool Jacket Ab](https://images-eu.ssl-images-amazon.com/images/I/31MImRHTksL._SL200_.jpg)](https://www.amazon.es/dp/B07T93YPR8/?tag=tolees-21)
+[![Vero Moda Vmnoramille 3/4 Wool Jacket Ab](https://images-eu.ssl-images-amazon.com/images/I/31MImRHTksL._SL400_.jpg)](https://www.amazon.es/dp/B07T93YPR8/?tag=tolees-21)
 
 🔎:
 

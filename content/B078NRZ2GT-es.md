@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Casual Sudadera  Hombre  Peaco al 53.49 % de descuento'
 date: 2020-09-28 01:53:10
-image: 'https://m.media-amazon.com/images/I/410B0ddBeyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410B0ddBeyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.040000000000003'
 
 Ahora mismo tienes [PUMA Liga Casual Sudadera  Hombre  Peacoat / White  XL](https://www.amazon.es/dp/B078NRZ2GT/?tag=tolees-21) a 23.23 EUR (original: 49.95 EUR) (53.49 %  de descuento) en el siguiente enlace!
 
-[![PUMA Liga Casual Sudadera  Hombre  Peaco](https://m.media-amazon.com/images/I/410B0ddBeyL._SL200_.jpg)](https://www.amazon.es/dp/B078NRZ2GT/?tag=tolees-21)
+[![PUMA Liga Casual Sudadera  Hombre  Peaco](https://m.media-amazon.com/images/I/410B0ddBeyL._SL400_.jpg)](https://www.amazon.es/dp/B078NRZ2GT/?tag=tolees-21)
 
 🔎:
 

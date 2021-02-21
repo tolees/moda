@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.00 % en Marca Amazon - MERAKI Camiseta Slim Fit '
 date: 2020-05-07 06:54:00
-image: 'https://m.media-amazon.com/images/I/41N0GMi1ADL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41N0GMi1ADL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.506666666666667'
 
 Tienes [Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico Hombre  Negro  Black   M  Label: M](https://www.amazon.es/dp/B079MBX5ZT/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 6.76 EUR (original: 16.9 EUR) en el siguiente enlace!
 
-[![Marca Amazon - MERAKI Camiseta Slim Fit ](https://m.media-amazon.com/images/I/41N0GMi1ADL._SL200_.jpg)](https://www.amazon.es/dp/B079MBX5ZT/?tag=tolees-21)
+[![Marca Amazon - MERAKI Camiseta Slim Fit ](https://m.media-amazon.com/images/I/41N0GMi1ADL._SL400_.jpg)](https://www.amazon.es/dp/B079MBX5ZT/?tag=tolees-21)
 
 ℹ️:
 

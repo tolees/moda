@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Scarlett High Vaqueros  Verde  Agave al 53.91 % de descuento'
 date: 2020-06-19 11:25:39
-image: 'https://m.media-amazon.com/images/I/31epMG0Db8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31epMG0Db8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.46'
 
 Ahora mismo tienes [Lee Scarlett High Vaqueros  Verde  Agave Green MW   29W/31L para Mujer](https://www.amazon.es/dp/B07TSQ6YT7/?tag=tolees-21) a 41.46 EUR (original: 89.95 EUR) (53.91 %  de descuento) en el siguiente enlace!
 
-[![Lee Scarlett High Vaqueros  Verde  Agave](https://m.media-amazon.com/images/I/31epMG0Db8L._SL200_.jpg)](https://www.amazon.es/dp/B07TSQ6YT7/?tag=tolees-21)
+[![Lee Scarlett High Vaqueros  Verde  Agave](https://m.media-amazon.com/images/I/31epMG0Db8L._SL400_.jpg)](https://www.amazon.es/dp/B07TSQ6YT7/?tag=tolees-21)
 
 🔎:
 

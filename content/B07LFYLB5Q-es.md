@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 71.23 % en Geox D Felicity I  Botas Mosqueteras par'
 date: 2020-02-20 23:18:43
-image: 'https://m.media-amazon.com/images/I/31bOutmKZBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bOutmKZBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.23'
 
 Tienes [Geox D Felicity I  Botas Mosqueteras para Mujer  Negro  Black C9999   38 EU](https://www.amazon.es/dp/B07LFYLB5Q/?tag=tolees-21) con un 71.23 % de descuento con precio de oferta de 53.23 EUR (original: 185.0 EUR) en el siguiente enlace!
 
-[![Geox D Felicity I  Botas Mosqueteras par](https://m.media-amazon.com/images/I/31bOutmKZBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LFYLB5Q/?tag=tolees-21)
+[![Geox D Felicity I  Botas Mosqueteras par](https://m.media-amazon.com/images/I/31bOutmKZBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LFYLB5Q/?tag=tolees-21)
 
 ℹ️:
 

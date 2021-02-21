@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW 3301 Slim Fit Jeans Vaqueros  con un 76.46 % de descuento'
 date: 2020-09-06 04:06:49
-image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.24'
 
 En este momento está [G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Antic Charcoal  25W / 32L para Hombre](https://www.amazon.es/dp/B07N18GFBX/?tag=tolees-21) a 28.24 EUR (original: 119.95 EUR) (76.46 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW 3301 Slim Fit Jeans Vaqueros ](https://m.media-amazon.com/images/I/41omqBhCSjL._SL200_.jpg)](https://www.amazon.es/dp/B07N18GFBX/?tag=tolees-21)
+[![G-STAR RAW 3301 Slim Fit Jeans Vaqueros ](https://m.media-amazon.com/images/I/41omqBhCSjL._SL400_.jpg)](https://www.amazon.es/dp/B07N18GFBX/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Erima GmbH 2071803 XXL Sudadera Abierta  al 40.34 % de rebaja'
 date: 2020-06-06 14:46:26
-image: 'https://m.media-amazon.com/images/I/41Q4r+wEfaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q4r+wEfaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.215'
 
 Tienes [Erima GmbH 2071803 XXL Sudadera Abierta  Hombre  Azul  New Royal ](https://www.amazon.es/dp/B078GG3M9W/?tag=tolees-21) con precio final de  28.63 EUR (original: 47.99 EUR) (40.34 %  de rebaja) aqui!
 
-[![Erima GmbH 2071803 XXL Sudadera Abierta ](https://m.media-amazon.com/images/I/41Q4r+wEfaL._SL200_.jpg)](https://www.amazon.es/dp/B078GG3M9W/?tag=tolees-21)
+[![Erima GmbH 2071803 XXL Sudadera Abierta ](https://m.media-amazon.com/images/I/41Q4r+wEfaL._SL400_.jpg)](https://www.amazon.es/dp/B078GG3M9W/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 64.97 % en Burton Durable Goods Camiseta  Hombre  T'
 date: 2020-09-27 12:38:30
-image: 'https://m.media-amazon.com/images/I/31a7xshN1aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31a7xshN1aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.51'
 
 Tienes [Burton Durable Goods Camiseta  Hombre  True Black  S](https://www.amazon.es/dp/B07SNSQB5D/?tag=tolees-21) con un 64.97 % de descuento con precio de oferta de 10.51 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Burton Durable Goods Camiseta  Hombre  T](https://m.media-amazon.com/images/I/31a7xshN1aL._SL200_.jpg)](https://www.amazon.es/dp/B07SNSQB5D/?tag=tolees-21)
+[![Burton Durable Goods Camiseta  Hombre  T](https://m.media-amazon.com/images/I/31a7xshN1aL._SL400_.jpg)](https://www.amazon.es/dp/B07SNSQB5D/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'The North Face Sport Jacket Chaqueta Dep al 34.22 % de descuento'
 date: 2020-04-27 03:40:54
-image: 'https://m.media-amazon.com/images/I/41iaE6cAVXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iaE6cAVXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '97.34'
 
 Está [The North Face Sport Jacket Chaqueta Deportiva Thermoball  Mujer  Negro  TNF Black/TNF White   XS](https://www.amazon.es/dp/B07FQG47S1/?tag=tolees-21) con 34.22 de descuento por 124.99 EUR (original: 190.0 EUR) en el siguiente enlace!
 
-[![The North Face Sport Jacket Chaqueta Dep](https://m.media-amazon.com/images/I/41iaE6cAVXL._SL200_.jpg)](https://www.amazon.es/dp/B07FQG47S1/?tag=tolees-21)
+[![The North Face Sport Jacket Chaqueta Dep](https://m.media-amazon.com/images/I/41iaE6cAVXL._SL400_.jpg)](https://www.amazon.es/dp/B07FQG47S1/?tag=tolees-21)
 
 ℹ️:
 

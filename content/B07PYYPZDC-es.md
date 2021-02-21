@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Jet  Zapatos de Deporte  al 49.69 % de descuento'
 date: 2020-08-25 09:57:16
-image: 'https://m.media-amazon.com/images/I/41SV7JvRuLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SV7JvRuLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.22'
 
 Ahora mismo tienes [Under Armour UA Jet  Zapatos de Deporte para Hombre  Negro  Black/Halo Gray/Halo Gray   44 EU](https://www.amazon.es/dp/B07PYYPZDC/?tag=tolees-21) a 40.22 EUR (original: 79.95 EUR) (49.69 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Jet  Zapatos de Deporte ](https://m.media-amazon.com/images/I/41SV7JvRuLL._SL200_.jpg)](https://www.amazon.es/dp/B07PYYPZDC/?tag=tolees-21)
+[![Under Armour UA Jet  Zapatos de Deporte ](https://m.media-amazon.com/images/I/41SV7JvRuLL._SL400_.jpg)](https://www.amazon.es/dp/B07PYYPZDC/?tag=tolees-21)
 
 🔎:
 

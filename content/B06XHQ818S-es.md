@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox J Kommodor B  Zapatillas para Niños con un 36.18 % de descuento'
 date: 2020-05-19 11:34:04
-image: 'https://m.media-amazon.com/images/I/41AfdXY3t+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AfdXY3t+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.48'
 
 En este momento está [Geox J Kommodor B  Zapatillas para Niños  Negro  Black/White   31 EU](https://www.amazon.es/dp/B06XHQ818S/?tag=tolees-21) a 41.48 EUR (original: 65.0 EUR) (36.18 %  de descuento) en el siguiente enlace!
 
-[![Geox J Kommodor B  Zapatillas para Niños](https://m.media-amazon.com/images/I/41AfdXY3t+L._SL200_.jpg)](https://www.amazon.es/dp/B06XHQ818S/?tag=tolees-21)
+[![Geox J Kommodor B  Zapatillas para Niños](https://m.media-amazon.com/images/I/41AfdXY3t+L._SL400_.jpg)](https://www.amazon.es/dp/B06XHQ818S/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Braguita de Bikini  Multicolo al 60.00 % de rebaja'
 date: 2020-08-06 12:05:31
-image: 'https://m.media-amazon.com/images/I/51SfW+QCqrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SfW+QCqrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.8'
 
 Tienes [Pepe Jeans Braguita de Bikini  Multicolor  Multi 0aa   36A  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07W14BKNB/?tag=tolees-21) con precio final de  10.8 EUR (original: 27.0 EUR) (60.00 %  de rebaja) aqui!
 
-[![Pepe Jeans Braguita de Bikini  Multicolo](https://m.media-amazon.com/images/I/51SfW+QCqrL._SL200_.jpg)](https://www.amazon.es/dp/B07W14BKNB/?tag=tolees-21)
+[![Pepe Jeans Braguita de Bikini  Multicolo](https://m.media-amazon.com/images/I/51SfW+QCqrL._SL400_.jpg)](https://www.amazon.es/dp/B07W14BKNB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Fast Trek II Chaqueta Polar par al 46.01 % de descuento'
 date: 2020-05-05 23:10:10
-image: 'https://m.media-amazon.com/images/I/41wleIzM+ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wleIzM+ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 Ahora mismo tienes [Columbia Fast Trek II Chaqueta Polar para Mujer  Color: Lila  Dusty Iris   Talla: M](https://www.amazon.es/dp/B07R92LZB7/?tag=tolees-21) a 26.99 EUR (original: 49.99 EUR) (46.01 %  de descuento) en el siguiente enlace!
 
-[![Columbia Fast Trek II Chaqueta Polar par](https://m.media-amazon.com/images/I/41wleIzM+ZL._SL200_.jpg)](https://www.amazon.es/dp/B07R92LZB7/?tag=tolees-21)
+[![Columbia Fast Trek II Chaqueta Polar par](https://m.media-amazon.com/images/I/41wleIzM+ZL._SL400_.jpg)](https://www.amazon.es/dp/B07R92LZB7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Ch0763 Camisa   Blanc 001   Larg al 44.05 % de descuento'
 date: 2020-04-03 12:03:39
-image: 'https://m.media-amazon.com/images/I/315XrB-gaML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315XrB-gaML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.99'
 
 Está [Lacoste Ch0763 Camisa   Blanc 001   Large  Talla del Fabricante: 42  para Hombre](https://www.amazon.es/dp/B07JFGJT1M/?tag=tolees-21) con 44.05 de descuento por 60.99 EUR (original: 109.0 EUR) en el siguiente enlace!
 
-[![Lacoste Ch0763 Camisa   Blanc 001   Larg](https://m.media-amazon.com/images/I/315XrB-gaML._SL200_.jpg)](https://www.amazon.es/dp/B07JFGJT1M/?tag=tolees-21)
+[![Lacoste Ch0763 Camisa   Blanc 001   Larg](https://m.media-amazon.com/images/I/315XrB-gaML._SL400_.jpg)](https://www.amazon.es/dp/B07JFGJT1M/?tag=tolees-21)
 
 ℹ️:
 

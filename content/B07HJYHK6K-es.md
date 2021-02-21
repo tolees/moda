@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Grade School Jet 2019  Zapa al 16.90 % de descuento'
 date: 2020-05-03 19:15:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41KtOkD1bbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KtOkD1bbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.82'
 
 Está [Under Armour Grade School Jet 2019  Zapatos de Baloncesto Unisex Niños  Azul  Royal/Black/Taxi 404   40 EU](https://www.amazon.es/dp/B07HJYHK6K/?tag=tolees-21) con 16.90 de descuento por 49.82 EUR (original: 59.95 EUR) en el siguiente enlace!
 
-[![Under Armour Grade School Jet 2019  Zapa](https://images-eu.ssl-images-amazon.com/images/I/41KtOkD1bbL._SL200_.jpg)](https://www.amazon.es/dp/B07HJYHK6K/?tag=tolees-21)
+[![Under Armour Grade School Jet 2019  Zapa](https://images-eu.ssl-images-amazon.com/images/I/41KtOkD1bbL._SL400_.jpg)](https://www.amazon.es/dp/B07HJYHK6K/?tag=tolees-21)
 
 ℹ️:
 

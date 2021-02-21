@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Classic Camiseta  Gris  Athletic He al 50.80 % de rebaja'
 date: 2020-08-13 21:30:41
-image: 'https://m.media-amazon.com/images/I/410ymKc2eaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410ymKc2eaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.71'
 
 Tienes [Vans Classic Camiseta  Gris  Athletic Heather/Black   X-Small para Hombre](https://www.amazon.es/dp/B06XQPTPW9/?tag=tolees-21) con precio final de  14.76 EUR (original: 30.0 EUR) (50.80 %  de rebaja) aqui!
 
-[![Vans Classic Camiseta  Gris  Athletic He](https://m.media-amazon.com/images/I/410ymKc2eaL._SL200_.jpg)](https://www.amazon.es/dp/B06XQPTPW9/?tag=tolees-21)
+[![Vans Classic Camiseta  Gris  Athletic He](https://m.media-amazon.com/images/I/410ymKc2eaL._SL400_.jpg)](https://www.amazon.es/dp/B06XQPTPW9/?tag=tolees-21)
 
 🔎:
 

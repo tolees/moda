@@ -2,7 +2,7 @@
 layout: post
 title: 'El Naturalista N5353 VAQUETILLA Aqua  Sa al 76.03 % de descuento'
 date: 2020-01-14 20:08:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31--MybSb0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31--MybSb0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.96'
 
 Está [El Naturalista N5353 VAQUETILLA Aqua  Sandalias con Correa de Tobillo para Mujer  Marrón  Caramel Caramel   40 EU](https://www.amazon.es/dp/B07KJWXJ6H/?tag=tolees-21) con 76.03 de descuento por 23.96 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![El Naturalista N5353 VAQUETILLA Aqua  Sa](https://images-eu.ssl-images-amazon.com/images/I/31--MybSb0L._SL200_.jpg)](https://www.amazon.es/dp/B07KJWXJ6H/?tag=tolees-21)
+[![El Naturalista N5353 VAQUETILLA Aqua  Sa](https://images-eu.ssl-images-amazon.com/images/I/31--MybSb0L._SL400_.jpg)](https://www.amazon.es/dp/B07KJWXJ6H/?tag=tolees-21)
 
 ℹ️:
 

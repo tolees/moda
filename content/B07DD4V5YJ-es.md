@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 51.72 % en Tommy Hilfiger Modern Jaspe Camiseta  Bl'
 date: 2020-04-06 11:09:12
-image: 'https://m.media-amazon.com/images/I/31HnCoMHuGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HnCoMHuGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.0'
 
 Tienes [Tommy Hilfiger Modern Jaspe Camiseta  Blanco  Classic White 100   X-Large para Hombre](https://www.amazon.es/dp/B07DD4V5YJ/?tag=tolees-21) con un 51.72 % de descuento con precio de oferta de 14.0 EUR (original: 29.0 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Modern Jaspe Camiseta  Bl](https://m.media-amazon.com/images/I/31HnCoMHuGL._SL200_.jpg)](https://www.amazon.es/dp/B07DD4V5YJ/?tag=tolees-21)
+[![Tommy Hilfiger Modern Jaspe Camiseta  Bl](https://m.media-amazon.com/images/I/31HnCoMHuGL._SL400_.jpg)](https://www.amazon.es/dp/B07DD4V5YJ/?tag=tolees-21)
 
 ℹ️:
 

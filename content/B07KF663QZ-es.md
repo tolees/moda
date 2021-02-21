@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 501 Original Fit Jeans Pantalón v con un 35.34 % de descuento'
 date: 2020-06-26 13:02:12
-image: 'https://m.media-amazon.com/images/I/31afPmQlD1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31afPmQlD1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.39'
 
 En este momento está [Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Negro  Solice 2861   34W / 32L para Hombre](https://www.amazon.es/dp/B07KF663QZ/?tag=tolees-21) a 43.39 EUR (original: 67.1 EUR) (35.34 %  de descuento) en el siguiente enlace!
 
-[![Levi s 501 Original Fit Jeans Pantalón v](https://m.media-amazon.com/images/I/31afPmQlD1L._SL200_.jpg)](https://www.amazon.es/dp/B07KF663QZ/?tag=tolees-21)
+[![Levi s 501 Original Fit Jeans Pantalón v](https://m.media-amazon.com/images/I/31afPmQlD1L._SL400_.jpg)](https://www.amazon.es/dp/B07KF663QZ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Dry Academy Crew Camiseta  Niños  N al 60.62 % de rebaja'
 date: 2020-01-07 15:12:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/315d4soLayL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315d4soLayL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.01'
 
 Tienes [Nike Dry Academy Crew Camiseta  Niños  Negro  Black   M](https://www.amazon.es/dp/B079NFBFNJ/?tag=tolees-21) con precio final de  11.01 EUR (original: 27.96 EUR) (60.62 %  de rebaja) aqui!
 
-[![Nike Dry Academy Crew Camiseta  Niños  N](https://images-eu.ssl-images-amazon.com/images/I/315d4soLayL._SL200_.jpg)](https://www.amazon.es/dp/B079NFBFNJ/?tag=tolees-21)
+[![Nike Dry Academy Crew Camiseta  Niños  N](https://images-eu.ssl-images-amazon.com/images/I/315d4soLayL._SL400_.jpg)](https://www.amazon.es/dp/B079NFBFNJ/?tag=tolees-21)
 
 🔎:
 

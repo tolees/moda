@@ -2,7 +2,7 @@
 layout: post
 title: 'HUGO Trunk Brother Pack Bóxer  Negro  Bl con un 41.63 % de descuento'
 date: 2020-07-18 10:45:28
-image: 'https://m.media-amazon.com/images/I/41ewm5+RIRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ewm5+RIRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.15'
 
 En este momento está [HUGO Trunk Brother Pack Bóxer  Negro  Black 9   M 2 para Hombre](https://www.amazon.es/dp/B07V7PSM13/?tag=tolees-21) a 22.15 EUR (original: 37.95 EUR) (41.63 %  de descuento) en el siguiente enlace!
 
-[![HUGO Trunk Brother Pack Bóxer  Negro  Bl](https://m.media-amazon.com/images/I/41ewm5+RIRL._SL200_.jpg)](https://www.amazon.es/dp/B07V7PSM13/?tag=tolees-21)
+[![HUGO Trunk Brother Pack Bóxer  Negro  Bl](https://m.media-amazon.com/images/I/41ewm5+RIRL._SL400_.jpg)](https://www.amazon.es/dp/B07V7PSM13/?tag=tolees-21)
 
 🔎:
 

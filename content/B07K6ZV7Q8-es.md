@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Ex-Boyfriend Trucker Chaqueta Vaq con un 24.52 % de descuento'
 date: 2020-01-10 20:43:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zSakdaCaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zSakdaCaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.215'
 
 En este momento está [Levi s Ex-Boyfriend Trucker Chaqueta Vaquera  Azul  Soft Ash Butter Mid 0055   XX-Small para Mujer](https://www.amazon.es/dp/B07K6ZV7Q8/?tag=tolees-21) a 83.03 EUR (original: 110 EUR) (24.52 %  de descuento) en el siguiente enlace!
 
-[![Levi s Ex-Boyfriend Trucker Chaqueta Vaq](https://images-eu.ssl-images-amazon.com/images/I/41zSakdaCaL._SL200_.jpg)](https://www.amazon.es/dp/B07K6ZV7Q8/?tag=tolees-21)
+[![Levi s Ex-Boyfriend Trucker Chaqueta Vaq](https://images-eu.ssl-images-amazon.com/images/I/41zSakdaCaL._SL400_.jpg)](https://www.amazon.es/dp/B07K6ZV7Q8/?tag=tolees-21)
 
 🔎:
 

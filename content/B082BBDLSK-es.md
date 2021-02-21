@@ -2,7 +2,7 @@
 layout: post
 title: 'Geographical Norway Chaqueta Softshell H al 20.00 % de descuento'
 date: 2020-01-13 15:39:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RsaYA8UtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RsaYA8UtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.2'
 
 Ahora mismo tienes [Geographical Norway Chaqueta Softshell Hombre Tyreek Negro L](https://www.amazon.es/dp/B082BBDLSK/?tag=tolees-21) a 79.2 EUR (original: 99 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Geographical Norway Chaqueta Softshell H](https://images-eu.ssl-images-amazon.com/images/I/41RsaYA8UtL._SL200_.jpg)](https://www.amazon.es/dp/B082BBDLSK/?tag=tolees-21)
+[![Geographical Norway Chaqueta Softshell H](https://images-eu.ssl-images-amazon.com/images/I/41RsaYA8UtL._SL400_.jpg)](https://www.amazon.es/dp/B082BBDLSK/?tag=tolees-21)
 
 🔎:
 

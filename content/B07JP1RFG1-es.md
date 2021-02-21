@@ -2,7 +2,7 @@
 layout: post
 title: 'Cressi Aqua Shoes Zapatos Deportivo para al 35.85 % de descuento'
 date: 2020-08-31 13:14:03
-image: 'https://m.media-amazon.com/images/I/41WOF4MJ8ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WOF4MJ8ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.24'
 
 Está [Cressi Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Azul Claro/Amarillo  44](https://www.amazon.es/dp/B07JP1RFG1/?tag=tolees-21) con 35.85 de descuento por 19.24 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Cressi Aqua Shoes Zapatos Deportivo para](https://m.media-amazon.com/images/I/41WOF4MJ8ML._SL200_.jpg)](https://www.amazon.es/dp/B07JP1RFG1/?tag=tolees-21)
+[![Cressi Aqua Shoes Zapatos Deportivo para](https://m.media-amazon.com/images/I/41WOF4MJ8ML._SL400_.jpg)](https://www.amazon.es/dp/B07JP1RFG1/?tag=tolees-21)
 
 ℹ️:
 

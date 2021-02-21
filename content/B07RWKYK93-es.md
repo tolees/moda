@@ -2,7 +2,7 @@
 layout: post
 title: 'BILLABONG Alves Jacket Chaqueta Deportiv con un 73.26 % de descuento'
 date: 2020-02-14 08:31:35
-image: 'https://m.media-amazon.com/images/I/41YKBjhdWaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YKBjhdWaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.196666666666665'
 
 En este momento está [BILLABONG Alves Jacket Chaqueta Deportiva  Hombre  Azul  Dark Blue 709   One Size  Tamaño del Fabricante: L ](https://www.amazon.es/dp/B07RWKYK93/?tag=tolees-21) a 42.79 EUR (original: 160.0 EUR) (73.26 %  de descuento) en el siguiente enlace!
 
-[![BILLABONG Alves Jacket Chaqueta Deportiv](https://m.media-amazon.com/images/I/41YKBjhdWaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RWKYK93/?tag=tolees-21)
+[![BILLABONG Alves Jacket Chaqueta Deportiv](https://m.media-amazon.com/images/I/41YKBjhdWaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RWKYK93/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjiglenn Jjfox Bl 820 Noos  al 71.01 % de descuento'
 date: 2020-06-15 07:38:52
-image: 'https://m.media-amazon.com/images/I/31rPr4TLvqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rPr4TLvqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.59'
 
 Ahora mismo tienes [Jack & Jones Jjiglenn Jjfox Bl 820 Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W33/L34 para Hombre](https://www.amazon.es/dp/B07FNWDFD2/?tag=tolees-21) a 28.99 EUR (original: 99.99 EUR) (71.01 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones Jjiglenn Jjfox Bl 820 Noos ](https://m.media-amazon.com/images/I/31rPr4TLvqL._SL200_.jpg)](https://www.amazon.es/dp/B07FNWDFD2/?tag=tolees-21)
+[![Jack & Jones Jjiglenn Jjfox Bl 820 Noos ](https://m.media-amazon.com/images/I/31rPr4TLvqL._SL400_.jpg)](https://www.amazon.es/dp/B07FNWDFD2/?tag=tolees-21)
 
 🔎:
 

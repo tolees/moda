@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Rival Fleece Sportstyle Log al 51.84 % de descuento'
 date: 2020-03-27 19:31:52
-image: 'https://m.media-amazon.com/images/I/414yCb97JhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414yCb97JhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.74'
 
 Está [Under Armour Rival Fleece Sportstyle Logo Sudadera  Hombre  Gris  MD](https://www.amazon.es/dp/B07L1XV1S6/?tag=tolees-21) con 51.84 de descuento por 26.49 EUR (original: 55.0 EUR) en el siguiente enlace!
 
-[![Under Armour Rival Fleece Sportstyle Log](https://m.media-amazon.com/images/I/414yCb97JhL._SL200_.jpg)](https://www.amazon.es/dp/B07L1XV1S6/?tag=tolees-21)
+[![Under Armour Rival Fleece Sportstyle Log](https://m.media-amazon.com/images/I/414yCb97JhL._SL400_.jpg)](https://www.amazon.es/dp/B07L1XV1S6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 510 Skinny Fit  Vaqueros para Hom al 39.42 % de descuento'
 date: 2020-04-15 20:01:09
-image: 'https://m.media-amazon.com/images/I/41IWgwIjfPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IWgwIjfPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.58'
 
 Ahora mismo tienes [Levi s 510 Skinny Fit  Vaqueros para Hombre  Negro  Stylo Adv 0857   W26/L30](https://www.amazon.es/dp/B07F2JZBDF/?tag=tolees-21) a 60.58 EUR (original: 100.0 EUR) (39.42 %  de descuento) en el siguiente enlace!
 
-[![Levi s 510 Skinny Fit  Vaqueros para Hom](https://m.media-amazon.com/images/I/41IWgwIjfPL._SL200_.jpg)](https://www.amazon.es/dp/B07F2JZBDF/?tag=tolees-21)
+[![Levi s 510 Skinny Fit  Vaqueros para Hom](https://m.media-amazon.com/images/I/41IWgwIjfPL._SL400_.jpg)](https://www.amazon.es/dp/B07F2JZBDF/?tag=tolees-21)
 
 🔎:
 

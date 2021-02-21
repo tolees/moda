@@ -2,7 +2,7 @@
 layout: post
 title: 'Ledger Nano S - V1.4 - Monedero Hardware al 25.00 % de descuento'
 date: 2020-06-01 07:03:29
-image: 'https://m.media-amazon.com/images/I/31V85-5u4SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V85-5u4SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.25'
 
 Está [Ledger Nano S - V1.4 - Monedero Hardware de criptomonedas - Jade Green](https://www.amazon.es/dp/B07JQ28T1C/?tag=tolees-21) con 25.00 de descuento por 44.25 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![Ledger Nano S - V1.4 - Monedero Hardware](https://m.media-amazon.com/images/I/31V85-5u4SL._SL200_.jpg)](https://www.amazon.es/dp/B07JQ28T1C/?tag=tolees-21)
+[![Ledger Nano S - V1.4 - Monedero Hardware](https://m.media-amazon.com/images/I/31V85-5u4SL._SL400_.jpg)](https://www.amazon.es/dp/B07JQ28T1C/?tag=tolees-21)
 
 ℹ️:
 

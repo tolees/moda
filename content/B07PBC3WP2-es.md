@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Elly Vaqueros  Azul  Dark Marine 21  al 86.48 % de descuento'
 date: 2020-05-09 14:36:20
-image: 'https://m.media-amazon.com/images/I/31gxI18WA-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gxI18WA-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.16'
 
 Ahora mismo tienes [Lee Elly Vaqueros  Azul  Dark Marine 21   25W / 33L para Mujer](https://www.amazon.es/dp/B07PBC3WP2/?tag=tolees-21) a 12.16 EUR (original: 89.95 EUR) (86.48 %  de descuento) en el siguiente enlace!
 
-[![Lee Elly Vaqueros  Azul  Dark Marine 21 ](https://m.media-amazon.com/images/I/31gxI18WA-L._SL200_.jpg)](https://www.amazon.es/dp/B07PBC3WP2/?tag=tolees-21)
+[![Lee Elly Vaqueros  Azul  Dark Marine 21 ](https://m.media-amazon.com/images/I/31gxI18WA-L._SL400_.jpg)](https://www.amazon.es/dp/B07PBC3WP2/?tag=tolees-21)
 
 🔎:
 

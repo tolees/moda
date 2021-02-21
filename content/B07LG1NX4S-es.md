@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Jaysen D  Zapatillas para Mujer   al 72.46 % de rebaja'
 date: 2020-04-02 10:55:41
-image: 'https://m.media-amazon.com/images/I/4180eLwzFzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4180eLwzFzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.51'
 
 Tienes [Geox D Jaysen D  Zapatillas para Mujer  Negro  Black C9999   39 EU](https://www.amazon.es/dp/B07LG1NX4S/?tag=tolees-21) con precio final de  27.51 EUR (original: 99.9 EUR) (72.46 %  de rebaja) aqui!
 
-[![Geox D Jaysen D  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/4180eLwzFzL._SL200_.jpg)](https://www.amazon.es/dp/B07LG1NX4S/?tag=tolees-21)
+[![Geox D Jaysen D  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/4180eLwzFzL._SL400_.jpg)](https://www.amazon.es/dp/B07LG1NX4S/?tag=tolees-21)
 
 🔎:
 

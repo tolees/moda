@@ -2,7 +2,7 @@
 layout: post
 title: 'Accessoryo - Guantes - guantes - Animal  al 43.99 % de rebaja'
 date: 2020-09-21 11:07:37
-image: 'https://m.media-amazon.com/images/I/51VWXYPeB2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VWXYPeB2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.88'
 
 Tienes [Accessoryo - Guantes - guantes - Animal Print - para mujer Marrón marrón](https://www.amazon.es/dp/B009RNAG4Q/?tag=tolees-21) con precio final de  9.88 EUR (original: 17.64 EUR) (43.99 %  de rebaja) aqui!
 
-[![Accessoryo - Guantes - guantes - Animal ](https://m.media-amazon.com/images/I/51VWXYPeB2L._SL200_.jpg)](https://www.amazon.es/dp/B009RNAG4Q/?tag=tolees-21)
+[![Accessoryo - Guantes - guantes - Animal ](https://m.media-amazon.com/images/I/51VWXYPeB2L._SL400_.jpg)](https://www.amazon.es/dp/B009RNAG4Q/?tag=tolees-21)
 
 🔎:
 

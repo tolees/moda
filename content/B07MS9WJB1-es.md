@@ -2,7 +2,7 @@
 layout: post
 title: 'TWBB Sudadera para Hombre Abrigo de la C al 82.16 % de descuento'
 date: 2020-05-14 16:31:44
-image: 'https://m.media-amazon.com/images/I/51QUtMGXAEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QUtMGXAEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.78'
 
 Está [TWBB Sudadera para Hombre Abrigo de la Chaqueta de la Cremallera de los Deportes Ocio Chaqueta](https://www.amazon.es/dp/B07MS9WJB1/?tag=tolees-21) con 82.16 de descuento por 1.78 EUR (original: 9.98 EUR) en el siguiente enlace!
 
-[![TWBB Sudadera para Hombre Abrigo de la C](https://m.media-amazon.com/images/I/51QUtMGXAEL._SL200_.jpg)](https://www.amazon.es/dp/B07MS9WJB1/?tag=tolees-21)
+[![TWBB Sudadera para Hombre Abrigo de la C](https://m.media-amazon.com/images/I/51QUtMGXAEL._SL400_.jpg)](https://www.amazon.es/dp/B07MS9WJB1/?tag=tolees-21)
 
 ℹ️:
 

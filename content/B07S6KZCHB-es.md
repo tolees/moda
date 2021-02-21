@@ -2,7 +2,7 @@
 layout: post
 title: 'Fall Out Boy - Camiseta Modelo Mania par al 46.79 % de descuento'
 date: 2020-05-06 11:02:42
-image: 'https://m.media-amazon.com/images/I/41DQ8cQzxFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DQ8cQzxFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.7'
 
 Está [Fall Out Boy - Camiseta Modelo Mania para Adultos Unisex  L   Negro ](https://www.amazon.es/dp/B07S6KZCHB/?tag=tolees-21) con 46.79 de descuento por 9.7 EUR (original: 18.23 EUR) en el siguiente enlace!
 
-[![Fall Out Boy - Camiseta Modelo Mania par](https://m.media-amazon.com/images/I/41DQ8cQzxFL._SL200_.jpg)](https://www.amazon.es/dp/B07S6KZCHB/?tag=tolees-21)
+[![Fall Out Boy - Camiseta Modelo Mania par](https://m.media-amazon.com/images/I/41DQ8cQzxFL._SL400_.jpg)](https://www.amazon.es/dp/B07S6KZCHB/?tag=tolees-21)
 
 ℹ️:
 

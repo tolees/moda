@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans OG Checker SS Camiseta  Blanco  Whi al 50.00 % de descuento'
 date: 2020-07-05 05:37:55
-image: 'https://m.media-amazon.com/images/I/41mKnl2RrcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mKnl2RrcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.0'
 
 Está [Vans OG Checker SS Camiseta  Blanco  White Wht   X-Small para Hombre](https://www.amazon.es/dp/B07YBF6YZG/?tag=tolees-21) con 50.00 de descuento por 15.0 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Vans OG Checker SS Camiseta  Blanco  Whi](https://m.media-amazon.com/images/I/41mKnl2RrcL._SL200_.jpg)](https://www.amazon.es/dp/B07YBF6YZG/?tag=tolees-21)
+[![Vans OG Checker SS Camiseta  Blanco  Whi](https://m.media-amazon.com/images/I/41mKnl2RrcL._SL400_.jpg)](https://www.amazon.es/dp/B07YBF6YZG/?tag=tolees-21)
 
 ℹ️:
 

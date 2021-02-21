@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox Uomo Snake K  Zapatillas para Hombr al 60.00 % de rebaja'
 date: 2020-06-23 15:59:16
-image: 'https://m.media-amazon.com/images/I/41OsSjRrIuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OsSjRrIuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.52'
 
 Tienes [Geox Uomo Snake K  Zapatillas para Hombre  Grey  Grey C1006   39 EU](https://www.amazon.es/dp/B07DJ9J4VC/?tag=tolees-21) con precio final de  36.52 EUR (original: 91.31 EUR) (60.00 %  de rebaja) aqui!
 
-[![Geox Uomo Snake K  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41OsSjRrIuL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ9J4VC/?tag=tolees-21)
+[![Geox Uomo Snake K  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41OsSjRrIuL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ9J4VC/?tag=tolees-21)
 
 🔎:
 

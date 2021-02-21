@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 47.82 % en Montblanc 4810 Westside Bolso Bandolera '
 date: 2020-04-02 01:03:16
-image: 'https://m.media-amazon.com/images/I/31edczknjvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31edczknjvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '310.20571428571435'
 
 Tienes [Montblanc 4810 Westside Bolso Bandolera  27 cm  Negro  Schwarz ](https://www.amazon.es/dp/B077Z5PZFV/?tag=tolees-21) con un 47.82 % de descuento con precio de oferta de 271.36 EUR (original: 520.0 EUR) en el siguiente enlace!
 
-[![Montblanc 4810 Westside Bolso Bandolera ](https://m.media-amazon.com/images/I/31edczknjvL._SL200_.jpg)](https://www.amazon.es/dp/B077Z5PZFV/?tag=tolees-21)
+[![Montblanc 4810 Westside Bolso Bandolera ](https://m.media-amazon.com/images/I/31edczknjvL._SL400_.jpg)](https://www.amazon.es/dp/B077Z5PZFV/?tag=tolees-21)
 
 ℹ️:
 

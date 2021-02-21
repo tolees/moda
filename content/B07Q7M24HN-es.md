@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Rush Heatgear Compression C al 52.40 % de rebaja'
 date: 2020-10-11 08:27:29
-image: 'https://m.media-amazon.com/images/I/31dk5PijKwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dk5PijKwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.56'
 
 Tienes [Under Armour Rush Heatgear Compression Camisa de Manga Larga  Hombre  Negro  MD](https://www.amazon.es/dp/B07Q7M24HN/?tag=tolees-21) con precio final de  28.56 EUR (original: 60.0 EUR) (52.40 %  de rebaja) aqui!
 
-[![Under Armour Rush Heatgear Compression C](https://m.media-amazon.com/images/I/31dk5PijKwL._SL200_.jpg)](https://www.amazon.es/dp/B07Q7M24HN/?tag=tolees-21)
+[![Under Armour Rush Heatgear Compression C](https://m.media-amazon.com/images/I/31dk5PijKwL._SL400_.jpg)](https://www.amazon.es/dp/B07Q7M24HN/?tag=tolees-21)
 
 🔎:
 

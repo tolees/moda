@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Original Hm Icon Crew Sudadera  A al 58.29 % de descuento'
 date: 2020-05-24 17:14:29
-image: 'https://m.media-amazon.com/images/I/31IGo-3ErvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IGo-3ErvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.650000000000002'
 
 Está [Levi s Original Hm Icon Crew Sudadera  Amarillo  Golden Apricot 0016   Small para Hombre](https://www.amazon.es/dp/B07TJ9SK1P/?tag=tolees-21) con 58.29 de descuento por 27.11 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Levi s Original Hm Icon Crew Sudadera  A](https://m.media-amazon.com/images/I/31IGo-3ErvL._SL200_.jpg)](https://www.amazon.es/dp/B07TJ9SK1P/?tag=tolees-21)
+[![Levi s Original Hm Icon Crew Sudadera  A](https://m.media-amazon.com/images/I/31IGo-3ErvL._SL400_.jpg)](https://www.amazon.es/dp/B07TJ9SK1P/?tag=tolees-21)
 
 ℹ️:
 

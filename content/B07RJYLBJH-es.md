@@ -2,7 +2,7 @@
 layout: post
 title: 'ARTESANIA CERDA MOCHILA CASUAL MODA MICK al 44.72 % de descuento'
 date: 2020-09-26 09:05:46
-image: 'https://m.media-amazon.com/images/I/51Zk8h+H47L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Zk8h+H47L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.6'
 
 Ahora mismo tienes [ARTESANIA CERDA MOCHILA CASUAL MODA MICKEY](https://www.amazon.es/dp/B07RJYLBJH/?tag=tolees-21) a 13.6 EUR (original: 24.6 EUR) (44.72 %  de descuento) en el siguiente enlace!
 
-[![ARTESANIA CERDA MOCHILA CASUAL MODA MICK](https://m.media-amazon.com/images/I/51Zk8h+H47L._SL200_.jpg)](https://www.amazon.es/dp/B07RJYLBJH/?tag=tolees-21)
+[![ARTESANIA CERDA MOCHILA CASUAL MODA MICK](https://m.media-amazon.com/images/I/51Zk8h+H47L._SL400_.jpg)](https://www.amazon.es/dp/B07RJYLBJH/?tag=tolees-21)
 
 🔎:
 

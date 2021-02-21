@@ -2,7 +2,7 @@
 layout: post
 title: 'Burton Elite Camiseta  Hombre  True Blac con un 56.40 % de descuento'
 date: 2020-09-29 04:56:24
-image: 'https://m.media-amazon.com/images/I/31yp52XL0dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yp52XL0dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.44'
 
 En este momento está [Burton Elite Camiseta  Hombre  True Black  S](https://www.amazon.es/dp/B07SMTM3ZG/?tag=tolees-21) a 17.44 EUR (original: 40.0 EUR) (56.40 %  de descuento) en el siguiente enlace!
 
-[![Burton Elite Camiseta  Hombre  True Blac](https://m.media-amazon.com/images/I/31yp52XL0dL._SL200_.jpg)](https://www.amazon.es/dp/B07SMTM3ZG/?tag=tolees-21)
+[![Burton Elite Camiseta  Hombre  True Blac](https://m.media-amazon.com/images/I/31yp52XL0dL._SL400_.jpg)](https://www.amazon.es/dp/B07SMTM3ZG/?tag=tolees-21)
 
 🔎:
 

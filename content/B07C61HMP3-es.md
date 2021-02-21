@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjeholmen Sweat Zip Hood No con un 40.01 % de descuento'
 date: 2020-05-08 08:38:07
-image: 'https://m.media-amazon.com/images/I/4169c8djiwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4169c8djiwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.31'
 
 En este momento está [JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera  Verde  Olive Night   S para Hombre](https://www.amazon.es/dp/B07C61HMP3/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jjeholmen Sweat Zip Hood No](https://m.media-amazon.com/images/I/4169c8djiwL._SL200_.jpg)](https://www.amazon.es/dp/B07C61HMP3/?tag=tolees-21)
+[![JACK & JONES Jjeholmen Sweat Zip Hood No](https://m.media-amazon.com/images/I/4169c8djiwL._SL400_.jpg)](https://www.amazon.es/dp/B07C61HMP3/?tag=tolees-21)
 
 🔎:
 

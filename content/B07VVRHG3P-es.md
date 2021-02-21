@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Grace Sudadera  Amarillo  031 con un 61.26 % de descuento'
 date: 2020-10-08 18:41:48
-image: 'https://m.media-amazon.com/images/I/41qxX7yRzoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qxX7yRzoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.78'
 
 En este momento está [Pepe Jeans Grace Sudadera  Amarillo  031lemon 031   Large para Mujer](https://www.amazon.es/dp/B07VVRHG3P/?tag=tolees-21) a 25.18 EUR (original: 65.0 EUR) (61.26 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Grace Sudadera  Amarillo  031](https://m.media-amazon.com/images/I/41qxX7yRzoL._SL200_.jpg)](https://www.amazon.es/dp/B07VVRHG3P/?tag=tolees-21)
+[![Pepe Jeans Grace Sudadera  Amarillo  031](https://m.media-amazon.com/images/I/41qxX7yRzoL._SL400_.jpg)](https://www.amazon.es/dp/B07VVRHG3P/?tag=tolees-21)
 
 🔎:
 

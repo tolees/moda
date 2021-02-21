@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Rick Chaqueta   Berry Red 280 al 47.47 % de descuento'
 date: 2020-04-27 09:32:57
-image: 'https://m.media-amazon.com/images/I/41jdJeH-gNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jdJeH-gNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.04'
 
 Ahora mismo tienes [Pepe Jeans Rick Chaqueta   Berry Red 280   Medium para Hombre](https://www.amazon.es/dp/B07MZPSWNF/?tag=tolees-21) a 63.04 EUR (original: 120.0 EUR) (47.47 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Rick Chaqueta   Berry Red 280](https://m.media-amazon.com/images/I/41jdJeH-gNL._SL200_.jpg)](https://www.amazon.es/dp/B07MZPSWNF/?tag=tolees-21)
+[![Pepe Jeans Rick Chaqueta   Berry Red 280](https://m.media-amazon.com/images/I/41jdJeH-gNL._SL400_.jpg)](https://www.amazon.es/dp/B07MZPSWNF/?tag=tolees-21)
 
 🔎:
 

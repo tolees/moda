@@ -2,7 +2,7 @@
 layout: post
 title: 'HonourSport Falda Capri para Mujer Depor al 27.77 % de descuento'
 date: 2020-02-25 16:23:36
-image: 'https://m.media-amazon.com/images/I/31P6etK+AsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31P6etK+AsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 Está [HonourSport Falda Capri para Mujer Deportes faldones Leggings Tenis Golf](https://www.amazon.es/dp/B07R6GCWRG/?tag=tolees-21) con 27.77 de descuento por 25.99 EUR (original: 35.98 EUR) en el siguiente enlace!
 
-[![HonourSport Falda Capri para Mujer Depor](https://m.media-amazon.com/images/I/31P6etK+AsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07R6GCWRG/?tag=tolees-21)
+[![HonourSport Falda Capri para Mujer Depor](https://m.media-amazon.com/images/I/31P6etK+AsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07R6GCWRG/?tag=tolees-21)
 
 ℹ️:
 

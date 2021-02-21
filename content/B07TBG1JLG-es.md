@@ -2,7 +2,7 @@
 layout: post
 title: 'Quiksilver Mental Notes T-Shirt Men Cami al 49.87 % de descuento'
 date: 2020-05-04 11:55:14
-image: 'https://m.media-amazon.com/images/I/41plo+V+5jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41plo+V+5jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.02'
 
 Está [Quiksilver Mental Notes T-Shirt Men Camiseta de Manga Corta  Hombre  Gris  Light Grey Heather   S](https://www.amazon.es/dp/B07TBG1JLG/?tag=tolees-21) con 49.87 de descuento por 10.02 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Quiksilver Mental Notes T-Shirt Men Cami](https://m.media-amazon.com/images/I/41plo+V+5jL._SL200_.jpg)](https://www.amazon.es/dp/B07TBG1JLG/?tag=tolees-21)
+[![Quiksilver Mental Notes T-Shirt Men Cami](https://m.media-amazon.com/images/I/41plo+V+5jL._SL400_.jpg)](https://www.amazon.es/dp/B07TBG1JLG/?tag=tolees-21)
 
 ℹ️:
 

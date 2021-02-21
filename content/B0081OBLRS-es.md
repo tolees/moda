@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 501 Original Fit Vaqueros  Hook   al 42.01 % de descuento'
 date: 2020-04-07 11:02:18
-image: 'https://m.media-amazon.com/images/I/41sO0qY8tXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sO0qY8tXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.99'
 
 Está [Levi s 501 Original Fit Vaqueros  Hook  40W / 34L para Hombre](https://www.amazon.es/dp/B0081OBLRS/?tag=tolees-21) con 42.01 de descuento por 57.99 EUR (original: 100.0 EUR) en el siguiente enlace!
 
-[![Levi s 501 Original Fit Vaqueros  Hook  ](https://m.media-amazon.com/images/I/41sO0qY8tXL._SL200_.jpg)](https://www.amazon.es/dp/B0081OBLRS/?tag=tolees-21)
+[![Levi s 501 Original Fit Vaqueros  Hook  ](https://m.media-amazon.com/images/I/41sO0qY8tXL._SL400_.jpg)](https://www.amazon.es/dp/B0081OBLRS/?tag=tolees-21)
 
 ℹ️:
 

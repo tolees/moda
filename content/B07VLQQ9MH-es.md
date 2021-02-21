@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger TH Essential LW Dwn Chaqu al 63.29 % de rebaja'
 date: 2020-08-19 01:18:55
-image: 'https://m.media-amazon.com/images/I/31q5Ue-YqWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31q5Ue-YqWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.14500000000001'
 
 Tienes [Tommy Hilfiger TH Essential LW Dwn Chaqueta  Blanco  White Ybr   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07VLQQ9MH/?tag=tolees-21) con precio final de  65.31 EUR (original: 177.91 EUR) (63.29 %  de rebaja) aqui!
 
-[![Tommy Hilfiger TH Essential LW Dwn Chaqu](https://m.media-amazon.com/images/I/31q5Ue-YqWL._SL200_.jpg)](https://www.amazon.es/dp/B07VLQQ9MH/?tag=tolees-21)
+[![Tommy Hilfiger TH Essential LW Dwn Chaqu](https://m.media-amazon.com/images/I/31q5Ue-YqWL._SL400_.jpg)](https://www.amazon.es/dp/B07VLQQ9MH/?tag=tolees-21)
 
 🔎:
 

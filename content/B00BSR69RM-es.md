@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox 43c9999 J Agata C  Zapatos de Vesti al 82.29 % de rebaja'
 date: 2020-02-04 11:24:55
-image: 'https://m.media-amazon.com/images/I/417xYl6iYqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417xYl6iYqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.67'
 
 Tienes [Geox 43c9999 J Agata C  Zapatos de Vestir para Niñas  Negro  BLACKC9999   28 EU](https://www.amazon.es/dp/B00BSR69RM/?tag=tolees-21) con precio final de  11.51 EUR (original: 65.0 EUR) (82.29 %  de rebaja) aqui!
 
-[![Geox 43c9999 J Agata C  Zapatos de Vesti](https://m.media-amazon.com/images/I/417xYl6iYqL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00BSR69RM/?tag=tolees-21)
+[![Geox 43c9999 J Agata C  Zapatos de Vesti](https://m.media-amazon.com/images/I/417xYl6iYqL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00BSR69RM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland 6 Inch Premium Waterproof  Bo al 25.26 % de rebaja'
 date: 2020-03-03 06:31:55
-image: 'https://m.media-amazon.com/images/I/315ryYreNpL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315ryYreNpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '162.45'
 
 Tienes [Timberland 6 Inch Premium Waterproof  Botas para Hombre  Negro  Black Full Grain   41 EU](https://www.amazon.es/dp/B000VX4XFO/?tag=tolees-21) con precio final de  156.95 EUR (original: 210.0 EUR) (25.26 %  de rebaja) aqui!
 
-[![Timberland 6 Inch Premium Waterproof  Bo](https://m.media-amazon.com/images/I/315ryYreNpL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000VX4XFO/?tag=tolees-21)
+[![Timberland 6 Inch Premium Waterproof  Bo](https://m.media-amazon.com/images/I/315ryYreNpL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000VX4XFO/?tag=tolees-21)
 
 🔎:
 

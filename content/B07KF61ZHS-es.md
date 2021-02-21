@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Original Hm Icon Crew Sudadera  A al 33.02 % de descuento'
 date: 2020-01-18 09:16:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJZInmbnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJZInmbnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.45'
 
 Está [Levi s Original Hm Icon Crew Sudadera  Azul  Sodalite Blue 0013   Medium para Hombre](https://www.amazon.es/dp/B07KF61ZHS/?tag=tolees-21) con 33.02 de descuento por 32.45 EUR (original: 48.45 EUR) en el siguiente enlace!
 
-[![Levi s Original Hm Icon Crew Sudadera  A](https://images-eu.ssl-images-amazon.com/images/I/41gJZInmbnL._SL200_.jpg)](https://www.amazon.es/dp/B07KF61ZHS/?tag=tolees-21)
+[![Levi s Original Hm Icon Crew Sudadera  A](https://images-eu.ssl-images-amazon.com/images/I/41gJZInmbnL._SL400_.jpg)](https://www.amazon.es/dp/B07KF61ZHS/?tag=tolees-21)
 
 ℹ️:
 

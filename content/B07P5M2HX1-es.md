@@ -2,7 +2,7 @@
 layout: post
 title: 'Morgan 191-mentor.n Camiseta  Negro  Noi al 79.08 % de descuento'
 date: 2020-03-23 15:08:08
-image: 'https://m.media-amazon.com/images/I/416SpS9TZZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416SpS9TZZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.23'
 
 Está [Morgan 191-mentor.n Camiseta  Negro  Noir Noir   Large  Talla del Fabricante: TL  para Mujer](https://www.amazon.es/dp/B07P5M2HX1/?tag=tolees-21) con 79.08 de descuento por 5.23 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Morgan 191-mentor.n Camiseta  Negro  Noi](https://m.media-amazon.com/images/I/416SpS9TZZL._SL200_.jpg)](https://www.amazon.es/dp/B07P5M2HX1/?tag=tolees-21)
+[![Morgan 191-mentor.n Camiseta  Negro  Noi](https://m.media-amazon.com/images/I/416SpS9TZZL._SL400_.jpg)](https://www.amazon.es/dp/B07P5M2HX1/?tag=tolees-21)
 
 ℹ️:
 

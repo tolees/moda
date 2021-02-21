@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 65.12 % de descuento'
 date: 2020-06-22 08:10:09
-image: 'https://m.media-amazon.com/images/I/41oxqAOWuaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oxqAOWuaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.72'
 
 Ahora mismo tienes [Levi s The Perfect Tee  Camiseta  Mujer  Gris  Sportswear Logo Tee Smokestack 303   S](https://www.amazon.es/dp/B01N6TY2QV/?tag=tolees-21) a 8.72 EUR (original: 25.0 EUR) (65.12 %  de descuento) en el siguiente enlace!
 
-[![Levi s The Perfect Tee  Camiseta  Mujer ](https://m.media-amazon.com/images/I/41oxqAOWuaL._SL200_.jpg)](https://www.amazon.es/dp/B01N6TY2QV/?tag=tolees-21)
+[![Levi s The Perfect Tee  Camiseta  Mujer ](https://m.media-amazon.com/images/I/41oxqAOWuaL._SL400_.jpg)](https://www.amazon.es/dp/B01N6TY2QV/?tag=tolees-21)
 
 🔎:
 

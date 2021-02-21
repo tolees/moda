@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Sportstyle Left Chest Camis al 34.65 % de descuento'
 date: 2020-06-19 17:50:14
-image: 'https://m.media-amazon.com/images/I/41gUhwNYYdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gUhwNYYdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Ahora mismo tienes [Under Armour Sportstyle Left Chest Camiseta de Manga Corta  Hombre  Rojo  Red-600   XXL](https://www.amazon.es/dp/B077XPJJ7N/?tag=tolees-21) a 16.99 EUR (original: 26.0 EUR) (34.65 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Sportstyle Left Chest Camis](https://m.media-amazon.com/images/I/41gUhwNYYdL._SL200_.jpg)](https://www.amazon.es/dp/B077XPJJ7N/?tag=tolees-21)
+[![Under Armour Sportstyle Left Chest Camis](https://m.media-amazon.com/images/I/41gUhwNYYdL._SL400_.jpg)](https://www.amazon.es/dp/B077XPJJ7N/?tag=tolees-21)
 
 🔎:
 

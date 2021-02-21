@@ -2,7 +2,7 @@
 layout: post
 title: 'SALOMON Agile Training tee M Camiseta de al 30.00 % de descuento'
 date: 2020-08-11 07:36:36
-image: 'https://m.media-amazon.com/images/I/31zoi872ZHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zoi872ZHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.926666666666666'
 
 Ahora mismo tienes [SALOMON Agile Training tee M Camiseta de Manga Corta  Hombre  Azul  Vivid Blue/Heather   XS](https://www.amazon.es/dp/B07WFXFBRF/?tag=tolees-21) a 17.5 EUR (original: 25.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![SALOMON Agile Training tee M Camiseta de](https://m.media-amazon.com/images/I/31zoi872ZHL._SL200_.jpg)](https://www.amazon.es/dp/B07WFXFBRF/?tag=tolees-21)
+[![SALOMON Agile Training tee M Camiseta de](https://m.media-amazon.com/images/I/31zoi872ZHL._SL400_.jpg)](https://www.amazon.es/dp/B07WFXFBRF/?tag=tolees-21)
 
 🔎:
 

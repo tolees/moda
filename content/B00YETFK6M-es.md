@@ -2,7 +2,7 @@
 layout: post
 title: 'Biomecanics 151157  Zapatos de primeros  al 15.46 % de descuento'
 date: 2020-03-14 12:31:48
-image: 'https://m.media-amazon.com/images/I/31EwM3-syCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EwM3-syCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.34'
 
 Está [Biomecanics 151157  Zapatos de primeros pasos Unisex Bebés  Blanco  Sauvage   24 EU](https://www.amazon.es/dp/B00YETFK6M/?tag=tolees-21) con 15.46 de descuento por 41.34 EUR (original: 48.9 EUR) en el siguiente enlace!
 
-[![Biomecanics 151157  Zapatos de primeros ](https://m.media-amazon.com/images/I/31EwM3-syCL._SL200_.jpg)](https://www.amazon.es/dp/B00YETFK6M/?tag=tolees-21)
+[![Biomecanics 151157  Zapatos de primeros ](https://m.media-amazon.com/images/I/31EwM3-syCL._SL400_.jpg)](https://www.amazon.es/dp/B00YETFK6M/?tag=tolees-21)
 
 ℹ️:
 

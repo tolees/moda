@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jormastul Sweat Hood Sudade al 21.28 % de descuento'
 date: 2020-05-19 11:33:49
-image: 'https://m.media-amazon.com/images/I/31xJCUpXlqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xJCUpXlqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.420000000000002'
 
 Está [Jack & Jones Jormastul Sweat Hood Sudadera con Capucha  Azul  Navy Blazer Fit: Reg   M para Hombre](https://www.amazon.es/dp/B07W93M1RH/?tag=tolees-21) con 21.28 de descuento por 11.06 EUR (original: 14.05 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jormastul Sweat Hood Sudade](https://m.media-amazon.com/images/I/31xJCUpXlqL._SL200_.jpg)](https://www.amazon.es/dp/B07W93M1RH/?tag=tolees-21)
+[![Jack & Jones Jormastul Sweat Hood Sudade](https://m.media-amazon.com/images/I/31xJCUpXlqL._SL400_.jpg)](https://www.amazon.es/dp/B07W93M1RH/?tag=tolees-21)
 
 ℹ️:
 

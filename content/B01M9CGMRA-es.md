@@ -2,7 +2,7 @@
 layout: post
 title: 'Intimuse Shari  vestido Mujer  Morado  l al 55.56 % de rebaja'
 date: 2020-10-01 13:10:06
-image: 'https://m.media-amazon.com/images/I/41qiaco7OYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qiaco7OYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Tienes [Intimuse Shari  vestido Mujer  Morado  lila   36   XS/36 ](https://www.amazon.es/dp/B01M9CGMRA/?tag=tolees-21) con precio final de  6.95 EUR (original: 15.64 EUR) (55.56 %  de rebaja) aqui!
 
-[![Intimuse Shari  vestido Mujer  Morado  l](https://m.media-amazon.com/images/I/41qiaco7OYL._SL200_.jpg)](https://www.amazon.es/dp/B01M9CGMRA/?tag=tolees-21)
+[![Intimuse Shari  vestido Mujer  Morado  l](https://m.media-amazon.com/images/I/41qiaco7OYL._SL400_.jpg)](https://www.amazon.es/dp/B01M9CGMRA/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Avio Chaqueta  Rojo  Red Scarl al 74.01 % de descuento'
 date: 2020-08-23 23:04:11
-image: 'https://m.media-amazon.com/images/I/41yhBh6YzNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yhBh6YzNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '94.26666666666667'
 
 Está [Napapijri Avio Chaqueta  Rojo  Red Scarlet R01   S para Hombre](https://www.amazon.es/dp/B07MK1QJB6/?tag=tolees-21) con 74.01 de descuento por 103.72 EUR (original: 399.0 EUR) en el siguiente enlace!
 
-[![Napapijri Avio Chaqueta  Rojo  Red Scarl](https://m.media-amazon.com/images/I/41yhBh6YzNL._SL200_.jpg)](https://www.amazon.es/dp/B07MK1QJB6/?tag=tolees-21)
+[![Napapijri Avio Chaqueta  Rojo  Red Scarl](https://m.media-amazon.com/images/I/41yhBh6YzNL._SL400_.jpg)](https://www.amazon.es/dp/B07MK1QJB6/?tag=tolees-21)
 
 ℹ️:
 

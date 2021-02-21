@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Lockdown 4  Zapatos de B al 56.38 % de rebaja'
 date: 2020-06-24 12:51:31
-image: 'https://m.media-amazon.com/images/I/41nsOnawg0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nsOnawg0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.51'
 
 Tienes [Under Armour UA Lockdown 4  Zapatos de Baloncesto para Hombre  Gris  Pitch Gray/Halo Gray/Beta   42.5 EU](https://www.amazon.es/dp/B07Q24QXRG/?tag=tolees-21) con precio final de  30.51 EUR (original: 69.95 EUR) (56.38 %  de rebaja) aqui!
 
-[![Under Armour UA Lockdown 4  Zapatos de B](https://m.media-amazon.com/images/I/41nsOnawg0L._SL200_.jpg)](https://www.amazon.es/dp/B07Q24QXRG/?tag=tolees-21)
+[![Under Armour UA Lockdown 4  Zapatos de B](https://m.media-amazon.com/images/I/41nsOnawg0L._SL400_.jpg)](https://www.amazon.es/dp/B07Q24QXRG/?tag=tolees-21)
 
 🔎:
 

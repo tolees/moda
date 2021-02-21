@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Abigail Daisy  Sandalias con Tira con un 76.51 % de descuento'
 date: 2020-09-07 03:52:23
-image: 'https://m.media-amazon.com/images/I/319SVQhJMyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319SVQhJMyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.78'
 
 En este momento está [Clarks Abigail Daisy  Sandalias con Tira Vertical para Mujer  Azul  Blush Leather Blush Leather   37 EU](https://www.amazon.es/dp/B07TLTV3QT/?tag=tolees-21) a 18.78 EUR (original: 79.95 EUR) (76.51 %  de descuento) en el siguiente enlace!
 
-[![Clarks Abigail Daisy  Sandalias con Tira](https://m.media-amazon.com/images/I/319SVQhJMyL._SL200_.jpg)](https://www.amazon.es/dp/B07TLTV3QT/?tag=tolees-21)
+[![Clarks Abigail Daisy  Sandalias con Tira](https://m.media-amazon.com/images/I/319SVQhJMyL._SL400_.jpg)](https://www.amazon.es/dp/B07TLTV3QT/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Chi Chi London Dollie Vestido de Fiesta  al 77.01 % de rebaja'
 date: 2020-05-23 21:38:43
-image: 'https://m.media-amazon.com/images/I/412fR81a+NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412fR81a+NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.13'
 
 Tienes [Chi Chi London Dollie Vestido de Fiesta  Azul  Navy NB   44  Talla del Fabricante: 16  para Mujer](https://www.amazon.es/dp/B07V344HDN/?tag=tolees-21) con precio final de  16.13 EUR (original: 70.15 EUR) (77.01 %  de rebaja) aqui!
 
-[![Chi Chi London Dollie Vestido de Fiesta ](https://m.media-amazon.com/images/I/412fR81a+NL._SL200_.jpg)](https://www.amazon.es/dp/B07V344HDN/?tag=tolees-21)
+[![Chi Chi London Dollie Vestido de Fiesta ](https://m.media-amazon.com/images/I/412fR81a+NL._SL400_.jpg)](https://www.amazon.es/dp/B07V344HDN/?tag=tolees-21)
 
 🔎:
 

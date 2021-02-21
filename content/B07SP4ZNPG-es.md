@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Flash Urban  Sandalias de Taló al 34.72 % de rebaja'
 date: 2020-09-22 20:48:43
-image: 'https://m.media-amazon.com/images/I/51XqZ1OxJSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XqZ1OxJSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Tienes [Havaianas Flash Urban  Sandalias de Talón Abierto para Mujer  Rosa  Lilac Lavender 7599   39/40 EU](https://www.amazon.es/dp/B07SP4ZNPG/?tag=tolees-21) con precio final de  12.99 EUR (original: 19.9 EUR) (34.72 %  de rebaja) aqui!
 
-[![Havaianas Flash Urban  Sandalias de Taló](https://m.media-amazon.com/images/I/51XqZ1OxJSL._SL200_.jpg)](https://www.amazon.es/dp/B07SP4ZNPG/?tag=tolees-21)
+[![Havaianas Flash Urban  Sandalias de Taló](https://m.media-amazon.com/images/I/51XqZ1OxJSL._SL400_.jpg)](https://www.amazon.es/dp/B07SP4ZNPG/?tag=tolees-21)
 
 🔎:
 

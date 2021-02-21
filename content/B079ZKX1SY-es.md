@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen HH5014-C01-56 Gafas de Sol  al 53.15 % de descuento'
 date: 2020-01-13 08:15:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Rf9vSl2sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Rf9vSl2sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.51'
 
 Está [Helly Hansen HH5014-C01-56 Gafas de Sol  Hombre  Negro  56](https://www.amazon.es/dp/B079ZKX1SY/?tag=tolees-21) con 53.15 de descuento por 44.51 EUR (original: 95 EUR) en el siguiente enlace!
 
-[![Helly Hansen HH5014-C01-56 Gafas de Sol ](https://images-eu.ssl-images-amazon.com/images/I/31Rf9vSl2sL._SL200_.jpg)](https://www.amazon.es/dp/B079ZKX1SY/?tag=tolees-21)
+[![Helly Hansen HH5014-C01-56 Gafas de Sol ](https://images-eu.ssl-images-amazon.com/images/I/31Rf9vSl2sL._SL400_.jpg)](https://www.amazon.es/dp/B079ZKX1SY/?tag=tolees-21)
 
 ℹ️:
 

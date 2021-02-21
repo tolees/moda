@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U TAIKI B ABX A  Zapatillas Altas p al 35.42 % de descuento'
 date: 2020-04-01 17:38:40
-image: 'https://m.media-amazon.com/images/I/41Pu813rpUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Pu813rpUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.3'
 
 Ahora mismo tienes [Geox U TAIKI B ABX A  Zapatillas Altas para Hombre  Marrón  Brown/Mud C6044   39 EU](https://www.amazon.es/dp/B07PDS27GJ/?tag=tolees-21) a 90.35 EUR (original: 139.9 EUR) (35.42 %  de descuento) en el siguiente enlace!
 
-[![Geox U TAIKI B ABX A  Zapatillas Altas p](https://m.media-amazon.com/images/I/41Pu813rpUL._SL200_.jpg)](https://www.amazon.es/dp/B07PDS27GJ/?tag=tolees-21)
+[![Geox U TAIKI B ABX A  Zapatillas Altas p](https://m.media-amazon.com/images/I/41Pu813rpUL._SL400_.jpg)](https://www.amazon.es/dp/B07PDS27GJ/?tag=tolees-21)
 
 🔎:
 

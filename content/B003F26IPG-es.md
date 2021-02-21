@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste L1212 Camiseta Polo  Rosa  Flama al 35.96 % de descuento'
 date: 2020-08-25 20:54:42
-image: 'https://m.media-amazon.com/images/I/31aVavceNSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aVavceNSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.33571428571429'
 
 Está [Lacoste L1212 Camiseta Polo  Rosa  Flamant T03   XS para Hombre](https://www.amazon.es/dp/B003F26IPG/?tag=tolees-21) con 35.96 de descuento por 57.0 EUR (original: 89.0 EUR) en el siguiente enlace!
 
-[![Lacoste L1212 Camiseta Polo  Rosa  Flama](https://m.media-amazon.com/images/I/31aVavceNSL._SL200_.jpg)](https://www.amazon.es/dp/B003F26IPG/?tag=tolees-21)
+[![Lacoste L1212 Camiseta Polo  Rosa  Flama](https://m.media-amazon.com/images/I/31aVavceNSL._SL400_.jpg)](https://www.amazon.es/dp/B003F26IPG/?tag=tolees-21)
 
 ℹ️:
 

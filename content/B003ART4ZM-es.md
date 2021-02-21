@@ -2,7 +2,7 @@
 layout: post
 title: 'Birkenstock 51793 - Sandalias con hebill al 20.89 % de rebaja'
 date: 2020-08-25 14:59:17
-image: 'https://m.media-amazon.com/images/I/31IVx-LTwQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IVx-LTwQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.29000000000001'
 
 Tienes [Birkenstock 51793 - Sandalias con hebilla unisex  Negro  35  estrecho ](https://www.amazon.es/dp/B003ART4ZM/?tag=tolees-21) con precio final de  59.33 EUR (original: 75.0 EUR) (20.89 %  de rebaja) aqui!
 
-[![Birkenstock 51793 - Sandalias con hebill](https://m.media-amazon.com/images/I/31IVx-LTwQL._SL200_.jpg)](https://www.amazon.es/dp/B003ART4ZM/?tag=tolees-21)
+[![Birkenstock 51793 - Sandalias con hebill](https://m.media-amazon.com/images/I/31IVx-LTwQL._SL400_.jpg)](https://www.amazon.es/dp/B003ART4ZM/?tag=tolees-21)
 
 🔎:
 

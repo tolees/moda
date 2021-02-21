@@ -2,7 +2,7 @@
 layout: post
 title: 'The North Face T934VX Pantalón Infantil  con un 58.67 % de descuento'
 date: 2020-09-01 18:25:38
-image: 'https://m.media-amazon.com/images/I/31jiUo7BCDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jiUo7BCDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.33'
 
 En este momento está [The North Face T934VX Pantalón Infantil con Tirantes Snowquest  Unisex niños  TNF Black  S](https://www.amazon.es/dp/B07583XJMH/?tag=tolees-21) a 41.33 EUR (original: 100.0 EUR) (58.67 %  de descuento) en el siguiente enlace!
 
-[![The North Face T934VX Pantalón Infantil ](https://m.media-amazon.com/images/I/31jiUo7BCDL._SL200_.jpg)](https://www.amazon.es/dp/B07583XJMH/?tag=tolees-21)
+[![The North Face T934VX Pantalón Infantil ](https://m.media-amazon.com/images/I/31jiUo7BCDL._SL400_.jpg)](https://www.amazon.es/dp/B07583XJMH/?tag=tolees-21)
 
 🔎:
 

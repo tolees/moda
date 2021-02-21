@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Genova Moc A  Mocasines para Muje al 58.00 % de descuento'
 date: 2020-06-27 15:04:04
-image: 'https://m.media-amazon.com/images/I/31Woz+bDbRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Woz+bDbRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.16'
 
 Ahora mismo tienes [Geox D Genova Moc A  Mocasines para Mujer  Azul  Navy C4002   39 EU](https://www.amazon.es/dp/B07SRSF2TJ/?tag=tolees-21) a 46.16 EUR (original: 109.9 EUR) (58.00 %  de descuento) en el siguiente enlace!
 
-[![Geox D Genova Moc A  Mocasines para Muje](https://m.media-amazon.com/images/I/31Woz+bDbRL._SL200_.jpg)](https://www.amazon.es/dp/B07SRSF2TJ/?tag=tolees-21)
+[![Geox D Genova Moc A  Mocasines para Muje](https://m.media-amazon.com/images/I/31Woz+bDbRL._SL400_.jpg)](https://www.amazon.es/dp/B07SRSF2TJ/?tag=tolees-21)
 
 🔎:
 

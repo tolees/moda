@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 77.87 % en Superdry Padded Elite Jacket Chaqueta  N'
 date: 2020-02-09 10:19:15
-image: 'https://m.media-amazon.com/images/I/41fp5phPYvL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fp5phPYvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.335'
 
 Tienes [Superdry Padded Elite Jacket Chaqueta  Negro  Jet Black 12a   XX-Large  Talla del Fabricante: 2XL  para Hombre](https://www.amazon.es/dp/B07NY3Q1Y5/?tag=tolees-21) con un 77.87 % de descuento con precio de oferta de 26.55 EUR (original: 119.99 EUR) en el siguiente enlace!
 
-[![Superdry Padded Elite Jacket Chaqueta  N](https://m.media-amazon.com/images/I/41fp5phPYvL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NY3Q1Y5/?tag=tolees-21)
+[![Superdry Padded Elite Jacket Chaqueta  N](https://m.media-amazon.com/images/I/41fp5phPYvL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NY3Q1Y5/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox J Savage G  Zapatillas para Niños   al 49.77 % de descuento'
 date: 2020-06-27 09:37:03
-image: 'https://m.media-amazon.com/images/I/41Mi1K3zDqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mi1K3zDqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.248'
 
 Está [Geox J Savage G  Zapatillas para Niños  Negro  Black C9999   27 EU](https://www.amazon.es/dp/B003JMFG6Y/?tag=tolees-21) con 49.77 de descuento por 19.7 EUR (original: 39.22 EUR) en el siguiente enlace!
 
-[![Geox J Savage G  Zapatillas para Niños  ](https://m.media-amazon.com/images/I/41Mi1K3zDqL._SL200_.jpg)](https://www.amazon.es/dp/B003JMFG6Y/?tag=tolees-21)
+[![Geox J Savage G  Zapatillas para Niños  ](https://m.media-amazon.com/images/I/41Mi1K3zDqL._SL400_.jpg)](https://www.amazon.es/dp/B003JMFG6Y/?tag=tolees-21)
 
 ℹ️:
 

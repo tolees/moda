@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Camisa Hombre  Verd al 61.68 % de descuento'
 date: 2020-06-07 20:43:45
-image: 'https://m.media-amazon.com/images/I/415a8c9KyxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415a8c9KyxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.58'
 
 Ahora mismo tienes [Marca Amazon - find. Camisa Hombre  Verde  Khaki   S  Label: S](https://www.amazon.es/dp/B073JQW7MX/?tag=tolees-21) a 9.58 EUR (original: 25.0 EUR) (61.68 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - find. Camisa Hombre  Verd](https://m.media-amazon.com/images/I/415a8c9KyxL._SL200_.jpg)](https://www.amazon.es/dp/B073JQW7MX/?tag=tolees-21)
+[![Marca Amazon - find. Camisa Hombre  Verd](https://m.media-amazon.com/images/I/415a8c9KyxL._SL400_.jpg)](https://www.amazon.es/dp/B073JQW7MX/?tag=tolees-21)
 
 🔎:
 

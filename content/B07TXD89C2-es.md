@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Rainbow Sleek Flip Flop  Chancl al 24.01 % de descuento'
 date: 2020-07-17 16:20:53
-image: 'https://m.media-amazon.com/images/I/41DX3qeHodL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DX3qeHodL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Ahora mismo tienes [Superdry Rainbow Sleek Flip Flop  Chanclas para Mujer  Amarillo  Neon Yellow 24k   38/39 EU](https://www.amazon.es/dp/B07TXD89C2/?tag=tolees-21) a 18.99 EUR (original: 24.99 EUR) (24.01 %  de descuento) en el siguiente enlace!
 
-[![Superdry Rainbow Sleek Flip Flop  Chancl](https://m.media-amazon.com/images/I/41DX3qeHodL._SL200_.jpg)](https://www.amazon.es/dp/B07TXD89C2/?tag=tolees-21)
+[![Superdry Rainbow Sleek Flip Flop  Chancl](https://m.media-amazon.com/images/I/41DX3qeHodL._SL400_.jpg)](https://www.amazon.es/dp/B07TXD89C2/?tag=tolees-21)
 
 🔎:
 

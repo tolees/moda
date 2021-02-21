@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Jers Chill Chaqueta Punto  Negr al 38.74 % de descuento'
 date: 2020-05-16 09:39:08
-image: 'https://m.media-amazon.com/images/I/416WoQjIdjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416WoQjIdjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.1'
 
 Está [Desigual Jers Chill Chaqueta Punto  Negro  Negro 2000   Medium para Mujer](https://www.amazon.es/dp/B07VN6GJX1/?tag=tolees-21) con 38.74 de descuento por 55.1 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Desigual Jers Chill Chaqueta Punto  Negr](https://m.media-amazon.com/images/I/416WoQjIdjL._SL200_.jpg)](https://www.amazon.es/dp/B07VN6GJX1/?tag=tolees-21)
+[![Desigual Jers Chill Chaqueta Punto  Negr](https://m.media-amazon.com/images/I/416WoQjIdjL._SL400_.jpg)](https://www.amazon.es/dp/B07VN6GJX1/?tag=tolees-21)
 
 ℹ️:
 

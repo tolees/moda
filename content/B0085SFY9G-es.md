@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jones - Camiseta de manga c al 46.02 % de rebaja'
 date: 2020-09-22 14:37:30
-image: 'https://m.media-amazon.com/images/I/31HEOgfbVOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HEOgfbVOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.6433333333333335'
 
 Tienes [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  color azul marino  talla XL](https://www.amazon.es/dp/B0085SFY9G/?tag=tolees-21) con precio final de  6.99 EUR (original: 12.95 EUR) (46.02 %  de rebaja) aqui!
 
-[![Jack & Jones Jones - Camiseta de manga c](https://m.media-amazon.com/images/I/31HEOgfbVOL._SL200_.jpg)](https://www.amazon.es/dp/B0085SFY9G/?tag=tolees-21)
+[![Jack & Jones Jones - Camiseta de manga c](https://m.media-amazon.com/images/I/31HEOgfbVOL._SL400_.jpg)](https://www.amazon.es/dp/B0085SFY9G/?tag=tolees-21)
 
 🔎:
 

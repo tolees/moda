@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein Bikini  Gris  Grey Heather  al 28.64 % de descuento'
 date: 2020-01-18 20:56:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41P0rN50qLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P0rN50qLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Calvin Klein Bikini  Gris  Grey Heather 020   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B071XHCVKY/?tag=tolees-21) con 28.64 de descuento por 9.99 EUR (original: 14 EUR) en el siguiente enlace!
 
-[![Calvin Klein Bikini  Gris  Grey Heather ](https://images-eu.ssl-images-amazon.com/images/I/41P0rN50qLL._SL200_.jpg)](https://www.amazon.es/dp/B071XHCVKY/?tag=tolees-21)
+[![Calvin Klein Bikini  Gris  Grey Heather ](https://images-eu.ssl-images-amazon.com/images/I/41P0rN50qLL._SL400_.jpg)](https://www.amazon.es/dp/B071XHCVKY/?tag=tolees-21)
 
 ℹ️:
 

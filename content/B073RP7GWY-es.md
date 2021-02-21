@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen T-Shirt Camiseta de Manga C al 35.03 % de descuento'
 date: 2020-05-18 13:17:22
-image: 'https://m.media-amazon.com/images/I/31NvUr-ra9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NvUr-ra9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.1'
 
 Ahora mismo tienes [Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH en el Pecho  Hombre  Blanco  L](https://www.amazon.es/dp/B073RP7GWY/?tag=tolees-21) a 19.49 EUR (original: 30.0 EUR) (35.03 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen T-Shirt Camiseta de Manga C](https://m.media-amazon.com/images/I/31NvUr-ra9L._SL200_.jpg)](https://www.amazon.es/dp/B073RP7GWY/?tag=tolees-21)
+[![Helly Hansen T-Shirt Camiseta de Manga C](https://m.media-amazon.com/images/I/31NvUr-ra9L._SL400_.jpg)](https://www.amazon.es/dp/B073RP7GWY/?tag=tolees-21)
 
 🔎:
 

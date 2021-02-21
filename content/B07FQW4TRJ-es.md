@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Step Beat Sun  Abierta Sandalias  al 60.00 % de rebaja'
 date: 2020-07-15 18:11:33
-image: 'https://m.media-amazon.com/images/I/31jBPR0X-NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jBPR0X-NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.98'
 
 Tienes [Clarks Step Beat Sun  Abierta Sandalias Punta Cerrada  Azul  Navy-   44 EU](https://www.amazon.es/dp/B07FQW4TRJ/?tag=tolees-21) con precio final de  21.98 EUR (original: 54.95 EUR) (60.00 %  de rebaja) aqui!
 
-[![Clarks Step Beat Sun  Abierta Sandalias ](https://m.media-amazon.com/images/I/31jBPR0X-NL._SL200_.jpg)](https://www.amazon.es/dp/B07FQW4TRJ/?tag=tolees-21)
+[![Clarks Step Beat Sun  Abierta Sandalias ](https://m.media-amazon.com/images/I/31jBPR0X-NL._SL400_.jpg)](https://www.amazon.es/dp/B07FQW4TRJ/?tag=tolees-21)
 
 🔎:
 

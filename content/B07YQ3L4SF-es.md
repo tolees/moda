@@ -2,7 +2,7 @@
 layout: post
 title: 'PRIME LTR-01 - Chaqueta de Piel sintétic al 43.79 % de rebaja'
 date: 2020-05-21 11:35:59
-image: 'https://m.media-amazon.com/images/I/41oPn0LqIKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oPn0LqIKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.8'
 
 Tienes [PRIME LTR-01 - Chaqueta de Piel sintética para Hombre Verde FB-Olive L](https://www.amazon.es/dp/B07YQ3L4SF/?tag=tolees-21) con precio final de  21.8 EUR (original: 38.78 EUR) (43.79 %  de rebaja) aqui!
 
-[![PRIME LTR-01 - Chaqueta de Piel sintétic](https://m.media-amazon.com/images/I/41oPn0LqIKL._SL200_.jpg)](https://www.amazon.es/dp/B07YQ3L4SF/?tag=tolees-21)
+[![PRIME LTR-01 - Chaqueta de Piel sintétic](https://m.media-amazon.com/images/I/41oPn0LqIKL._SL400_.jpg)](https://www.amazon.es/dp/B07YQ3L4SF/?tag=tolees-21)
 
 🔎:
 

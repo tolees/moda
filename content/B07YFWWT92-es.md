@@ -2,7 +2,7 @@
 layout: post
 title: 'GOBY Collar de Helado de Paleta Creativa al 40.02 % de descuento'
 date: 2020-05-26 07:47:35
-image: 'https://m.media-amazon.com/images/I/31NVMCgEGmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NVMCgEGmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Ahora mismo tienes [GOBY Collar de Helado de Paleta Creativa de Moda cruda de Estilo Dulce Simple  conmemoración de Viaje  3 ](https://www.amazon.es/dp/B07YFWWT92/?tag=tolees-21) a 11.99 EUR (original: 19.99 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
-[![GOBY Collar de Helado de Paleta Creativa](https://m.media-amazon.com/images/I/31NVMCgEGmL._SL200_.jpg)](https://www.amazon.es/dp/B07YFWWT92/?tag=tolees-21)
+[![GOBY Collar de Helado de Paleta Creativa](https://m.media-amazon.com/images/I/31NVMCgEGmL._SL400_.jpg)](https://www.amazon.es/dp/B07YFWWT92/?tag=tolees-21)
 
 🔎:
 

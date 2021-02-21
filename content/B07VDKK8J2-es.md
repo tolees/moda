@@ -2,7 +2,7 @@
 layout: post
 title: 'SELECTED HOMME Slhpadded Reversible Jack al 80.31 % de descuento'
 date: 2020-03-22 13:09:10
-image: 'https://m.media-amazon.com/images/I/41l6XY2LogL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l6XY2LogL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.69'
 
 Ahora mismo tienes [SELECTED HOMME Slhpadded Reversible Jacket B Chaqueta  Rojo Rhubarb  XL para Hombre](https://www.amazon.es/dp/B07VDKK8J2/?tag=tolees-21) a 19.69 EUR (original: 99.99 EUR) (80.31 %  de descuento) en el siguiente enlace!
 
-[![SELECTED HOMME Slhpadded Reversible Jack](https://m.media-amazon.com/images/I/41l6XY2LogL._SL200_.jpg)](https://www.amazon.es/dp/B07VDKK8J2/?tag=tolees-21)
+[![SELECTED HOMME Slhpadded Reversible Jack](https://m.media-amazon.com/images/I/41l6XY2LogL._SL400_.jpg)](https://www.amazon.es/dp/B07VDKK8J2/?tag=tolees-21)
 
 🔎:
 

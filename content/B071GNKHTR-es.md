@@ -2,7 +2,7 @@
 layout: post
 title: 'find. 59179 vaqueros mujer  Azul  Mid Bl al 59.18 % de descuento'
 date: 2020-05-02 12:20:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419h8SyVp6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419h8SyVp6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.0'
 
 Está [find. 59179 vaqueros mujer  Azul  Mid Blue   W30/L32  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B071GNKHTR/?tag=tolees-21) con 59.18 de descuento por 12 EUR (original: 29.4 EUR) en el siguiente enlace!
 
-[![find. 59179 vaqueros mujer  Azul  Mid Bl](https://images-eu.ssl-images-amazon.com/images/I/419h8SyVp6L._SL200_.jpg)](https://www.amazon.es/dp/B071GNKHTR/?tag=tolees-21)
+[![find. 59179 vaqueros mujer  Azul  Mid Bl](https://images-eu.ssl-images-amazon.com/images/I/419h8SyVp6L._SL400_.jpg)](https://www.amazon.es/dp/B071GNKHTR/?tag=tolees-21)
 
 ℹ️:
 

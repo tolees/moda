@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 511 Slim Fit Vaqueros  Durian Od  con un 31.11 % de descuento'
 date: 2020-06-23 08:03:40
-image: 'https://m.media-amazon.com/images/I/318eBwb4HFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318eBwb4HFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.65'
 
 En este momento está [Levi s 511 Slim Fit Vaqueros  Durian Od Subtle 3720  32W / 36L para Hombre](https://www.amazon.es/dp/B07KF5K78F/?tag=tolees-21) a 34.65 EUR (original: 50.3 EUR) (31.11 %  de descuento) en el siguiente enlace!
 
-[![Levi s 511 Slim Fit Vaqueros  Durian Od ](https://m.media-amazon.com/images/I/318eBwb4HFL._SL200_.jpg)](https://www.amazon.es/dp/B07KF5K78F/?tag=tolees-21)
+[![Levi s 511 Slim Fit Vaqueros  Durian Od ](https://m.media-amazon.com/images/I/318eBwb4HFL._SL400_.jpg)](https://www.amazon.es/dp/B07KF5K78F/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'HuiHang Mujer Cuero Confort Peep Toe San al 52.19 % de rebaja'
 date: 2020-05-17 09:08:12
-image: 'https://m.media-amazon.com/images/I/41Ss1Iz3OfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ss1Iz3OfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Tienes [HuiHang Mujer Cuero Confort Peep Toe Sandalias Plataforma Sandalias de Verano Ligeras  Transpirables y de Gran tamaño Zapatos de Playa Flexibles-Leopard Print 38](https://www.amazon.es/dp/B088D7RR4D/?tag=tolees-21) con precio final de  21.99 EUR (original: 45.99 EUR) (52.19 %  de rebaja) aqui!
 
-[![HuiHang Mujer Cuero Confort Peep Toe San](https://m.media-amazon.com/images/I/41Ss1Iz3OfL._SL200_.jpg)](https://www.amazon.es/dp/B088D7RR4D/?tag=tolees-21)
+[![HuiHang Mujer Cuero Confort Peep Toe San](https://m.media-amazon.com/images/I/41Ss1Iz3OfL._SL400_.jpg)](https://www.amazon.es/dp/B088D7RR4D/?tag=tolees-21)
 
 🔎:
 

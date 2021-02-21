@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Zero Rules Camisa Técnica De Ma al 60.02 % de descuento'
 date: 2020-06-22 18:17:50
-image: 'https://m.media-amazon.com/images/I/31O3wa3mRNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31O3wa3mRNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Ahora mismo tienes [Columbia Zero Rules Camisa Técnica De Manga Corta  Hombre  New Olive  L](https://www.amazon.es/dp/B0817J7CCS/?tag=tolees-21) a 13.99 EUR (original: 34.99 EUR) (60.02 %  de descuento) en el siguiente enlace!
 
-[![Columbia Zero Rules Camisa Técnica De Ma](https://m.media-amazon.com/images/I/31O3wa3mRNL._SL200_.jpg)](https://www.amazon.es/dp/B0817J7CCS/?tag=tolees-21)
+[![Columbia Zero Rules Camisa Técnica De Ma](https://m.media-amazon.com/images/I/31O3wa3mRNL._SL400_.jpg)](https://www.amazon.es/dp/B0817J7CCS/?tag=tolees-21)
 
 🔎:
 

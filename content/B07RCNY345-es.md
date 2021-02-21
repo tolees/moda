@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.11 % en Columbia 1420421  Chaqueta Forro Polar H'
 date: 2020-06-30 15:10:09
-image: 'https://m.media-amazon.com/images/I/51s34yY0CTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51s34yY0CTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.37'
 
 Tienes [Columbia 1420421  Chaqueta Forro Polar Hombre  Azul  Blau/Negro   XS](https://www.amazon.es/dp/B07RCNY345/?tag=tolees-21) con un 36.11 % de descuento con precio de oferta de 31.94 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Columbia 1420421  Chaqueta Forro Polar H](https://m.media-amazon.com/images/I/51s34yY0CTL._SL200_.jpg)](https://www.amazon.es/dp/B07RCNY345/?tag=tolees-21)
+[![Columbia 1420421  Chaqueta Forro Polar H](https://m.media-amazon.com/images/I/51s34yY0CTL._SL400_.jpg)](https://www.amazon.es/dp/B07RCNY345/?tag=tolees-21)
 
 ℹ️:
 

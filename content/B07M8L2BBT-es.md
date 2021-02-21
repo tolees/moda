@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Button Down Camisa Casual  Azul  Bey al 54.60 % de descuento'
 date: 2020-03-12 18:11:48
-image: 'https://m.media-amazon.com/images/I/41RQCIxwXRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RQCIxwXRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.31'
 
 Ahora mismo tienes [Lee Button Down Camisa Casual  Azul  Beyond Blue   X-Large para Hombre](https://www.amazon.es/dp/B07M8L2BBT/?tag=tolees-21) a 31.76 EUR (original: 69.95 EUR) (54.60 %  de descuento) en el siguiente enlace!
 
-[![Lee Button Down Camisa Casual  Azul  Bey](https://m.media-amazon.com/images/I/41RQCIxwXRL._SL200_.jpg)](https://www.amazon.es/dp/B07M8L2BBT/?tag=tolees-21)
+[![Lee Button Down Camisa Casual  Azul  Bey](https://m.media-amazon.com/images/I/41RQCIxwXRL._SL400_.jpg)](https://www.amazon.es/dp/B07M8L2BBT/?tag=tolees-21)
 
 🔎:
 

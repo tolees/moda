@@ -2,7 +2,7 @@
 layout: post
 title: 'FitFlop Lottie Shimmermesh  Chanclas par al 40.00 % de descuento'
 date: 2020-09-15 18:01:14
-image: 'https://m.media-amazon.com/images/I/31f6KKAhrwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31f6KKAhrwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.4'
 
 Está [FitFlop Lottie Shimmermesh  Chanclas para Mujer  Negro  Black 001   39 EU](https://www.amazon.es/dp/B07KMT86VX/?tag=tolees-21) con 40.00 de descuento por 59.4 EUR (original: 99.0 EUR) en el siguiente enlace!
 
-[![FitFlop Lottie Shimmermesh  Chanclas par](https://m.media-amazon.com/images/I/31f6KKAhrwL._SL200_.jpg)](https://www.amazon.es/dp/B07KMT86VX/?tag=tolees-21)
+[![FitFlop Lottie Shimmermesh  Chanclas par](https://m.media-amazon.com/images/I/31f6KKAhrwL._SL400_.jpg)](https://www.amazon.es/dp/B07KMT86VX/?tag=tolees-21)
 
 ℹ️:
 

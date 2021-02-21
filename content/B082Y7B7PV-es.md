@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjelogo tee SS O-Neck 2 Col al 20.02 % de descuento'
 date: 2020-09-05 17:47:32
-image: 'https://m.media-amazon.com/images/I/31h1DfHwDVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31h1DfHwDVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.39'
 
 Ahora mismo tienes [Jack & Jones Jjelogo tee SS O-Neck 2 Col Ss20 Noos Camiseta  Blazer Azul Marino  XXL para Hombre](https://www.amazon.es/dp/B082Y7B7PV/?tag=tolees-21) a 10.39 EUR (original: 12.99 EUR) (20.02 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones Jjelogo tee SS O-Neck 2 Col](https://m.media-amazon.com/images/I/31h1DfHwDVL._SL200_.jpg)](https://www.amazon.es/dp/B082Y7B7PV/?tag=tolees-21)
+[![Jack & Jones Jjelogo tee SS O-Neck 2 Col](https://m.media-amazon.com/images/I/31h1DfHwDVL._SL400_.jpg)](https://www.amazon.es/dp/B082Y7B7PV/?tag=tolees-21)
 
 🔎:
 

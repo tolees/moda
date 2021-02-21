@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry OL Elite Crew Sudadera  Gris  S con un 40.01 % de descuento'
 date: 2020-04-07 16:06:32
-image: 'https://m.media-amazon.com/images/I/31Fl5kjdmtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Fl5kjdmtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.99'
 
 En este momento está [Superdry OL Elite Crew Sudadera  Gris  Slate 07x   Small para Mujer](https://www.amazon.es/dp/B07P3FYX28/?tag=tolees-21) a 35.99 EUR (original: 59.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![Superdry OL Elite Crew Sudadera  Gris  S](https://m.media-amazon.com/images/I/31Fl5kjdmtL._SL200_.jpg)](https://www.amazon.es/dp/B07P3FYX28/?tag=tolees-21)
+[![Superdry OL Elite Crew Sudadera  Gris  S](https://m.media-amazon.com/images/I/31Fl5kjdmtL._SL400_.jpg)](https://www.amazon.es/dp/B07P3FYX28/?tag=tolees-21)
 
 🔎:
 

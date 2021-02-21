@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Lay D Down II Chaqueta  Mujer   con un 68.04 % de descuento'
 date: 2020-07-31 07:50:24
-image: 'https://m.media-amazon.com/images/I/41jNDatDqYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jNDatDqYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.9'
 
 En este momento está [Columbia Lay D Down II Chaqueta  Mujer  Negro  Black 011   L](https://www.amazon.es/dp/B07JBC3NBY/?tag=tolees-21) a 79.9 EUR (original: 249.99 EUR) (68.04 %  de descuento) en el siguiente enlace!
 
-[![Columbia Lay D Down II Chaqueta  Mujer  ](https://m.media-amazon.com/images/I/41jNDatDqYL._SL200_.jpg)](https://www.amazon.es/dp/B07JBC3NBY/?tag=tolees-21)
+[![Columbia Lay D Down II Chaqueta  Mujer  ](https://m.media-amazon.com/images/I/41jNDatDqYL._SL400_.jpg)](https://www.amazon.es/dp/B07JBC3NBY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Marvel Camiseta Manga Corta Deadpool Cha al 60.37 % de rebaja'
 date: 2020-02-22 09:31:59
-image: 'https://m.media-amazon.com/images/I/41YZFzy7h7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YZFzy7h7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.182500000000001'
 
 Tienes [Marvel Camiseta Manga Corta Deadpool Character Blanco S](https://www.amazon.es/dp/B01LXW3I69/?tag=tolees-21) con precio final de  13.87 EUR (original: 35.0 EUR) (60.37 %  de rebaja) aqui!
 
-[![Marvel Camiseta Manga Corta Deadpool Cha](https://m.media-amazon.com/images/I/41YZFzy7h7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LXW3I69/?tag=tolees-21)
+[![Marvel Camiseta Manga Corta Deadpool Cha](https://m.media-amazon.com/images/I/41YZFzy7h7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01LXW3I69/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Colorful Rope Flat Sandal con un 40.36 % de descuento'
 date: 2020-02-20 19:59:00
-image: 'https://m.media-amazon.com/images/I/41UU8LqZBaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UU8LqZBaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.31'
 
 En este momento está [Tommy Hilfiger Colorful Rope Flat Sandal  Chanclas para Mujer  Blanco  Whisper White 121   41 EU](https://www.amazon.es/dp/B07L3G3GZV/?tag=tolees-21) a 59.58 EUR (original: 99.9 EUR) (40.36 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Colorful Rope Flat Sandal](https://m.media-amazon.com/images/I/41UU8LqZBaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L3G3GZV/?tag=tolees-21)
+[![Tommy Hilfiger Colorful Rope Flat Sandal](https://m.media-amazon.com/images/I/41UU8LqZBaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L3G3GZV/?tag=tolees-21)
 
 🔎:
 

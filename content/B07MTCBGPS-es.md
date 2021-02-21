@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri GOAYO Camisa Casual  Azul  Blu al 60.00 % de descuento'
 date: 2020-03-29 16:44:11
-image: 'https://m.media-amazon.com/images/I/51jP3KlgvVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jP3KlgvVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.6'
 
 Ahora mismo tienes [Napapijri GOAYO Camisa Casual  Azul  Blue Check 11c   XXXL para Hombre](https://www.amazon.es/dp/B07MTCBGPS/?tag=tolees-21) a 35.6 EUR (original: 89.0 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri GOAYO Camisa Casual  Azul  Blu](https://m.media-amazon.com/images/I/51jP3KlgvVL._SL200_.jpg)](https://www.amazon.es/dp/B07MTCBGPS/?tag=tolees-21)
+[![Napapijri GOAYO Camisa Casual  Azul  Blu](https://m.media-amazon.com/images/I/51jP3KlgvVL._SL400_.jpg)](https://www.amazon.es/dp/B07MTCBGPS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jorclan Parka  Verde  Fores al 70.65 % de rebaja'
 date: 2020-08-20 12:13:50
-image: 'https://m.media-amazon.com/images/I/41SIYSbIWZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SIYSbIWZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.235'
 
 Tienes [Jack & Jones Jorclan Parka  Verde  Forest Night Forest Night   Medium para Hombre](https://www.amazon.es/dp/B07VC9WYRX/?tag=tolees-21) con precio final de  20.54 EUR (original: 69.99 EUR) (70.65 %  de rebaja) aqui!
 
-[![Jack & Jones Jorclan Parka  Verde  Fores](https://m.media-amazon.com/images/I/41SIYSbIWZL._SL200_.jpg)](https://www.amazon.es/dp/B07VC9WYRX/?tag=tolees-21)
+[![Jack & Jones Jorclan Parka  Verde  Fores](https://m.media-amazon.com/images/I/41SIYSbIWZL._SL400_.jpg)](https://www.amazon.es/dp/B07VC9WYRX/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Norske Chaqueta  Azul  Ink 59 al 53.54 % de rebaja'
 date: 2020-06-28 09:00:49
-image: 'https://m.media-amazon.com/images/I/41jy3+6+PJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jy3+6+PJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.050000000000004'
 
 Tienes [Pepe Jeans Norske Chaqueta  Azul  Ink 591   M para Hombre](https://www.amazon.es/dp/B079RSDRTM/?tag=tolees-21) con precio final de  65.04 EUR (original: 140.0 EUR) (53.54 %  de rebaja) aqui!
 
-[![Pepe Jeans Norske Chaqueta  Azul  Ink 59](https://m.media-amazon.com/images/I/41jy3+6+PJL._SL200_.jpg)](https://www.amazon.es/dp/B079RSDRTM/?tag=tolees-21)
+[![Pepe Jeans Norske Chaqueta  Azul  Ink 59](https://m.media-amazon.com/images/I/41jy3+6+PJL._SL400_.jpg)](https://www.amazon.es/dp/B079RSDRTM/?tag=tolees-21)
 
 🔎:
 

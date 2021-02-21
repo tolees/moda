@@ -2,7 +2,7 @@
 layout: post
 title: 'Hollywood Star Fashion Polo clásico de m con un 30.00 % de descuento'
 date: 2020-01-10 22:14:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ACYN6dbnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ACYN6dbnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.2'
 
 En este momento está [Hollywood Star Fashion Polo clásico de manga corta Jersey - Marrón -](https://www.amazon.es/dp/B0154DR8UC/?tag=tolees-21) a 11.2 EUR (original: 16 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Hollywood Star Fashion Polo clásico de m](https://images-eu.ssl-images-amazon.com/images/I/41ACYN6dbnL._SL200_.jpg)](https://www.amazon.es/dp/B0154DR8UC/?tag=tolees-21)
+[![Hollywood Star Fashion Polo clásico de m](https://images-eu.ssl-images-amazon.com/images/I/41ACYN6dbnL._SL400_.jpg)](https://www.amazon.es/dp/B0154DR8UC/?tag=tolees-21)
 
 🔎:
 

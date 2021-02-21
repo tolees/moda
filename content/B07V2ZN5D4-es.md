@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler ICONS Chaqueta Vaquera  Azul  6 al 74.47 % de rebaja'
 date: 2020-02-19 20:37:51
-image: 'https://m.media-amazon.com/images/I/41kULv3lyHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kULv3lyHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.52'
 
 Tienes [Wrangler ICONS Chaqueta Vaquera  Azul  6 Months 923   Small para Hombre](https://www.amazon.es/dp/B07V2ZN5D4/?tag=tolees-21) con precio final de  25.52 EUR (original: 99.95 EUR) (74.47 %  de rebaja) aqui!
 
-[![Wrangler ICONS Chaqueta Vaquera  Azul  6](https://m.media-amazon.com/images/I/41kULv3lyHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07V2ZN5D4/?tag=tolees-21)
+[![Wrangler ICONS Chaqueta Vaquera  Azul  6](https://m.media-amazon.com/images/I/41kULv3lyHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07V2ZN5D4/?tag=tolees-21)
 
 🔎:
 

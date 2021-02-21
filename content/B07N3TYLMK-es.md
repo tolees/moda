@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Blouse LUMBE Blusa  Blanco 1000 con un 66.61 % de descuento'
 date: 2020-03-13 12:07:54
-image: 'https://m.media-amazon.com/images/I/415mhkipLFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415mhkipLFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.02'
 
 En este momento está [Desigual Blouse LUMBE Blusa  Blanco 1000  S para Mujer](https://www.amazon.es/dp/B07N3TYLMK/?tag=tolees-21) a 20.02 EUR (original: 59.95 EUR) (66.61 %  de descuento) en el siguiente enlace!
 
-[![Desigual Blouse LUMBE Blusa  Blanco 1000](https://m.media-amazon.com/images/I/415mhkipLFL._SL200_.jpg)](https://www.amazon.es/dp/B07N3TYLMK/?tag=tolees-21)
+[![Desigual Blouse LUMBE Blusa  Blanco 1000](https://m.media-amazon.com/images/I/415mhkipLFL._SL400_.jpg)](https://www.amazon.es/dp/B07N3TYLMK/?tag=tolees-21)
 
 🔎:
 

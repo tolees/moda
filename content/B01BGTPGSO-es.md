@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Core Super Slim Camisa  Blanc al 50.04 % de descuento'
 date: 2020-06-18 12:39:25
-image: 'https://m.media-amazon.com/images/I/31eV-jHTARL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eV-jHTARL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.444'
 
 Está [G-STAR RAW Core Super Slim Camisa  Blanco  White 110   XXS para Hombre](https://www.amazon.es/dp/B01BGTPGSO/?tag=tolees-21) con 50.04 de descuento por 34.95 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Core Super Slim Camisa  Blanc](https://m.media-amazon.com/images/I/31eV-jHTARL._SL200_.jpg)](https://www.amazon.es/dp/B01BGTPGSO/?tag=tolees-21)
+[![G-STAR RAW Core Super Slim Camisa  Blanc](https://m.media-amazon.com/images/I/31eV-jHTARL._SL400_.jpg)](https://www.amazon.es/dp/B01BGTPGSO/?tag=tolees-21)
 
 ℹ️:
 

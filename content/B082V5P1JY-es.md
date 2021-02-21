@@ -2,7 +2,7 @@
 layout: post
 title: 'Canadian Peak Abrigo al 40.00 % de descuento'
 date: 2020-01-11 08:02:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41LBbgcHfyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LBbgcHfyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.4'
 
 Está [Canadian Peak Abrigo](https://www.amazon.es/dp/B082V5P1JY/?tag=tolees-21) con 40.00 de descuento por 77.4 EUR (original: 129 EUR) en el siguiente enlace!
 
-[![Canadian Peak Abrigo](https://images-eu.ssl-images-amazon.com/images/I/41LBbgcHfyL._SL200_.jpg)](https://www.amazon.es/dp/B082V5P1JY/?tag=tolees-21)
+[![Canadian Peak Abrigo](https://images-eu.ssl-images-amazon.com/images/I/41LBbgcHfyL._SL400_.jpg)](https://www.amazon.es/dp/B082V5P1JY/?tag=tolees-21)
 
 ℹ️:
 

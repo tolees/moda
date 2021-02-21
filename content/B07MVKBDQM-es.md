@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Avalon Wint Chaqueta  Azul  BL al 50.00 % de descuento'
 date: 2020-01-16 17:11:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31dTvMvVSTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dTvMvVSTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.5'
 
 Ahora mismo tienes [Napapijri Avalon Wint Chaqueta  Azul  BLU Marine 176   Small para Hombre](https://www.amazon.es/dp/B07MVKBDQM/?tag=tolees-21) a 99.5 EUR (original: 199 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri Avalon Wint Chaqueta  Azul  BL](https://images-eu.ssl-images-amazon.com/images/I/31dTvMvVSTL._SL200_.jpg)](https://www.amazon.es/dp/B07MVKBDQM/?tag=tolees-21)
+[![Napapijri Avalon Wint Chaqueta  Azul  BL](https://images-eu.ssl-images-amazon.com/images/I/31dTvMvVSTL._SL400_.jpg)](https://www.amazon.es/dp/B07MVKBDQM/?tag=tolees-21)
 
 🔎:
 

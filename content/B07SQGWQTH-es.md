@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D AIRELL A  Zapatillas para Mujer   al 57.26 % de descuento'
 date: 2020-09-29 23:05:03
-image: 'https://m.media-amazon.com/images/I/41EZunRDOuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EZunRDOuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.256'
 
 Ahora mismo tienes [Geox D AIRELL A  Zapatillas para Mujer  Azul  Navy C4002   37 EU](https://www.amazon.es/dp/B07SQGWQTH/?tag=tolees-21) a 42.7 EUR (original: 99.9 EUR) (57.26 %  de descuento) en el siguiente enlace!
 
-[![Geox D AIRELL A  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41EZunRDOuL._SL200_.jpg)](https://www.amazon.es/dp/B07SQGWQTH/?tag=tolees-21)
+[![Geox D AIRELL A  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41EZunRDOuL._SL400_.jpg)](https://www.amazon.es/dp/B07SQGWQTH/?tag=tolees-21)
 
 🔎:
 

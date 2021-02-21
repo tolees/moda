@@ -2,7 +2,7 @@
 layout: post
 title: 'Mercedes-Benz Sonnenbrille M1035 Gafas d con un 84.27 % de descuento'
 date: 2020-01-22 18:18:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31zuESdvhPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zuESdvhPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.31'
 
 En este momento está [Mercedes-Benz Sonnenbrille M1035 Gafas de sol  Dorado  Gold   59.0 para Hombre](https://www.amazon.es/dp/B00PA3Z8NQ/?tag=tolees-21) a 31.31 EUR (original: 199 EUR) (84.27 %  de descuento) en el siguiente enlace!
 
-[![Mercedes-Benz Sonnenbrille M1035 Gafas d](https://images-eu.ssl-images-amazon.com/images/I/31zuESdvhPL._SL200_.jpg)](https://www.amazon.es/dp/B00PA3Z8NQ/?tag=tolees-21)
+[![Mercedes-Benz Sonnenbrille M1035 Gafas d](https://images-eu.ssl-images-amazon.com/images/I/31zuESdvhPL._SL400_.jpg)](https://www.amazon.es/dp/B00PA3Z8NQ/?tag=tolees-21)
 
 🔎:
 

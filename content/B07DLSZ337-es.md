@@ -2,7 +2,7 @@
 layout: post
 title: 'SPECIAL MAGIC - Pantalón Deportivo - par al 63.72 % de descuento'
 date: 2020-02-15 01:35:36
-image: 'https://m.media-amazon.com/images/I/416gyMJuwyL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416gyMJuwyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.09'
 
 Ahora mismo tienes [SPECIAL MAGIC - Pantalón Deportivo - para Mujer Gris Gris S](https://www.amazon.es/dp/B07DLSZ337/?tag=tolees-21) a 18.09 EUR (original: 49.86 EUR) (63.72 %  de descuento) en el siguiente enlace!
 
-[![SPECIAL MAGIC - Pantalón Deportivo - par](https://m.media-amazon.com/images/I/416gyMJuwyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DLSZ337/?tag=tolees-21)
+[![SPECIAL MAGIC - Pantalón Deportivo - par](https://m.media-amazon.com/images/I/416gyMJuwyL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DLSZ337/?tag=tolees-21)
 
 🔎:
 

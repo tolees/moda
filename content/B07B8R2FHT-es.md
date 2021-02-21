@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste CH4976 Camisa  Blanco  Blanc   X al 55.01 % de descuento'
 date: 2020-08-19 02:15:02
-image: 'https://m.media-amazon.com/images/I/31HB9dtb8-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HB9dtb8-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.99'
 
 Ahora mismo tienes [Lacoste CH4976 Camisa  Blanco  Blanc   X-Small  Talla del Fabricante: 37  para Hombre](https://www.amazon.es/dp/B07B8R2FHT/?tag=tolees-21) a 44.99 EUR (original: 100.0 EUR) (55.01 %  de descuento) en el siguiente enlace!
 
-[![Lacoste CH4976 Camisa  Blanco  Blanc   X](https://m.media-amazon.com/images/I/31HB9dtb8-L._SL200_.jpg)](https://www.amazon.es/dp/B07B8R2FHT/?tag=tolees-21)
+[![Lacoste CH4976 Camisa  Blanco  Blanc   X](https://m.media-amazon.com/images/I/31HB9dtb8-L._SL400_.jpg)](https://www.amazon.es/dp/B07B8R2FHT/?tag=tolees-21)
 
 🔎:
 

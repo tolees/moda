@@ -2,7 +2,7 @@
 layout: post
 title: 'sitengle Mujeres Elegante Camisetas de E al 71.89 % de descuento'
 date: 2020-03-03 01:21:29
-image: 'https://m.media-amazon.com/images/I/51NkDDIN7AL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NkDDIN7AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.82'
 
 Está [sitengle Mujeres Elegante Camisetas de Encaje Floral Mangas Largas See Through T Shirt Camisas Basic Blusa Tops Negro XX-Large](https://www.amazon.es/dp/B01KHU9O6S/?tag=tolees-21) con 71.89 de descuento por 7.82 EUR (original: 27.82 EUR) en el siguiente enlace!
 
-[![sitengle Mujeres Elegante Camisetas de E](https://m.media-amazon.com/images/I/51NkDDIN7AL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01KHU9O6S/?tag=tolees-21)
+[![sitengle Mujeres Elegante Camisetas de E](https://m.media-amazon.com/images/I/51NkDDIN7AL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01KHU9O6S/?tag=tolees-21)
 
 ℹ️:
 

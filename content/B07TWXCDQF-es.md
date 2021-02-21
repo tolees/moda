@@ -2,7 +2,7 @@
 layout: post
 title: 'Women s Secret Multilicense College MC D al 51.38 % de descuento'
 date: 2020-03-22 13:16:16
-image: 'https://m.media-amazon.com/images/I/417756Td28L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417756Td28L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.58'
 
 Ahora mismo tienes [Women s Secret Multilicense College MC DS Stars PJ Conjuntos de Pijama  Beige  Crudo 96   X-Small  Tamaño del Fabricante: XS  para Mujer](https://www.amazon.es/dp/B07TWXCDQF/?tag=tolees-21) a 14.58 EUR (original: 29.99 EUR) (51.38 %  de descuento) en el siguiente enlace!
 
-[![Women s Secret Multilicense College MC D](https://m.media-amazon.com/images/I/417756Td28L._SL200_.jpg)](https://www.amazon.es/dp/B07TWXCDQF/?tag=tolees-21)
+[![Women s Secret Multilicense College MC D](https://m.media-amazon.com/images/I/417756Td28L._SL400_.jpg)](https://www.amazon.es/dp/B07TWXCDQF/?tag=tolees-21)
 
 🔎:
 

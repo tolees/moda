@@ -2,7 +2,7 @@
 layout: post
 title: 'Rieker Herbst/Winter  Botines para Mujer al 74.52 % de rebaja'
 date: 2020-03-06 11:47:57
-image: 'https://m.media-amazon.com/images/I/51inORiFidL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51inORiFidL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.82'
 
 Tienes [Rieker Herbst/Winter  Botines para Mujer  Marrón  Nuss/Antik/Orange/Multi/Kastanie/23 23   36 EU](https://www.amazon.es/dp/B07Q7R84XB/?tag=tolees-21) con precio final de  17.82 EUR (original: 69.95 EUR) (74.52 %  de rebaja) aqui!
 
-[![Rieker Herbst/Winter  Botines para Mujer](https://m.media-amazon.com/images/I/51inORiFidL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Q7R84XB/?tag=tolees-21)
+[![Rieker Herbst/Winter  Botines para Mujer](https://m.media-amazon.com/images/I/51inORiFidL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Q7R84XB/?tag=tolees-21)
 
 🔎:
 

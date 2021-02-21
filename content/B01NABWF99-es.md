@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Ponderay Chaqueta  Mujer  Blanc al 44.50 % de rebaja'
 date: 2020-04-18 14:04:48
-image: 'https://m.media-amazon.com/images/I/41yC-edHvbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yC-edHvbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '110.99'
 
 Tienes [Columbia Ponderay Chaqueta  Mujer  Blanco  White   S](https://www.amazon.es/dp/B01NABWF99/?tag=tolees-21) con precio final de  110.99 EUR (original: 199.99 EUR) (44.50 %  de rebaja) aqui!
 
-[![Columbia Ponderay Chaqueta  Mujer  Blanc](https://m.media-amazon.com/images/I/41yC-edHvbL._SL200_.jpg)](https://www.amazon.es/dp/B01NABWF99/?tag=tolees-21)
+[![Columbia Ponderay Chaqueta  Mujer  Blanc](https://m.media-amazon.com/images/I/41yC-edHvbL._SL400_.jpg)](https://www.amazon.es/dp/B01NABWF99/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s The Original Camiseta  Multicolor al 45.48 % de rebaja'
 date: 2020-04-11 12:23:37
-image: 'https://m.media-amazon.com/images/I/41YW36apVFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YW36apVFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.63'
 
 Tienes [Levi s The Original Camiseta  Multicolor  Hm Patch OG tee Golden Apricot 0003   X-Large para Hombre](https://www.amazon.es/dp/B07S2S5S9R/?tag=tolees-21) con precio final de  13.63 EUR (original: 25.0 EUR) (45.48 %  de rebaja) aqui!
 
-[![Levi s The Original Camiseta  Multicolor](https://m.media-amazon.com/images/I/41YW36apVFL._SL200_.jpg)](https://www.amazon.es/dp/B07S2S5S9R/?tag=tolees-21)
+[![Levi s The Original Camiseta  Multicolor](https://m.media-amazon.com/images/I/41YW36apVFL._SL400_.jpg)](https://www.amazon.es/dp/B07S2S5S9R/?tag=tolees-21)
 
 🔎:
 

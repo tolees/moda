@@ -2,7 +2,7 @@
 layout: post
 title: 'Uvex LGL 29 Gafas de Ciclismo  Unisex Ad al 30.46 % de descuento'
 date: 2020-06-07 14:21:18
-image: 'https://m.media-amazon.com/images/I/31oGWKhiUlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oGWKhiUlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.78'
 
 Está [Uvex LGL 29 Gafas de Ciclismo  Unisex Adulto  Negro/Amarillo  Talla Única](https://www.amazon.es/dp/B015JB2XN6/?tag=tolees-21) con 30.46 de descuento por 27.78 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![Uvex LGL 29 Gafas de Ciclismo  Unisex Ad](https://m.media-amazon.com/images/I/31oGWKhiUlL._SL200_.jpg)](https://www.amazon.es/dp/B015JB2XN6/?tag=tolees-21)
+[![Uvex LGL 29 Gafas de Ciclismo  Unisex Ad](https://m.media-amazon.com/images/I/31oGWKhiUlL._SL400_.jpg)](https://www.amazon.es/dp/B015JB2XN6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Georginna Vestido   Black 999 al 76.67 % de descuento'
 date: 2020-03-15 11:30:03
-image: 'https://m.media-amazon.com/images/I/31WI1LCyNkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WI1LCyNkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.015'
 
 Ahora mismo tienes [Pepe Jeans Georginna Vestido   Black 999   Large para Mujer](https://www.amazon.es/dp/B07MZQMRBX/?tag=tolees-21) a 19.83 EUR (original: 85.0 EUR) (76.67 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Georginna Vestido   Black 999](https://m.media-amazon.com/images/I/31WI1LCyNkL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQMRBX/?tag=tolees-21)
+[![Pepe Jeans Georginna Vestido   Black 999](https://m.media-amazon.com/images/I/31WI1LCyNkL._SL400_.jpg)](https://www.amazon.es/dp/B07MZQMRBX/?tag=tolees-21)
 
 🔎:
 

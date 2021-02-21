@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. High Heel Point Cou al 78.39 % de descuento'
 date: 2020-07-25 05:17:52
-image: 'https://m.media-amazon.com/images/I/31FnQ73x+CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FnQ73x+CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.92'
 
 Ahora mismo tienes [Marca Amazon - find. High Heel Point Court Zapatos de tacón con Punta Cerrada  Beige  Beige  Nude   36 EU](https://www.amazon.es/dp/B07YFZWQFV/?tag=tolees-21) a 9.92 EUR (original: 45.9 EUR) (78.39 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - find. High Heel Point Cou](https://m.media-amazon.com/images/I/31FnQ73x+CL._SL200_.jpg)](https://www.amazon.es/dp/B07YFZWQFV/?tag=tolees-21)
+[![Marca Amazon - find. High Heel Point Cou](https://m.media-amazon.com/images/I/31FnQ73x+CL._SL400_.jpg)](https://www.amazon.es/dp/B07YFZWQFV/?tag=tolees-21)
 
 🔎:
 

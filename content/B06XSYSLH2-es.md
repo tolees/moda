@@ -2,7 +2,7 @@
 layout: post
 title: 'Paladinz Tripode Movil 106 cm  42" Inch  al 30.02 % de descuento'
 date: 2020-03-22 08:59:19
-image: 'https://m.media-amazon.com/images/I/41THv+ERVAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41THv+ERVAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Ahora mismo tienes [Paladinz Tripode Movil 106 cm  42" Inch  de Aluminio Smartphone Soporte de Trípode Tripode Camara Compatible con Samsung Huawei con el Bolso Que Lleva y Soporte Adaptador de móviles](https://www.amazon.es/dp/B06XSYSLH2/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!
 
-[![Paladinz Tripode Movil 106 cm  42" Inch ](https://m.media-amazon.com/images/I/41THv+ERVAL._SL200_.jpg)](https://www.amazon.es/dp/B06XSYSLH2/?tag=tolees-21)
+[![Paladinz Tripode Movil 106 cm  42" Inch ](https://m.media-amazon.com/images/I/41THv+ERVAL._SL400_.jpg)](https://www.amazon.es/dp/B06XSYSLH2/?tag=tolees-21)
 
 🔎:
 

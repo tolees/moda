@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Chest Logo tee Camiseta  Rojo  Warp  al 34.99 % de descuento'
 date: 2020-03-04 11:57:18
-image: 'https://m.media-amazon.com/images/I/416TXvbzE4L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416TXvbzE4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.47'
 
 Ahora mismo tienes [Lee Chest Logo tee Camiseta  Rojo  Warp Red KG   X-Small para Mujer](https://www.amazon.es/dp/B07M8L1H7P/?tag=tolees-21) a 19.47 EUR (original: 29.95 EUR) (34.99 %  de descuento) en el siguiente enlace!
 
-[![Lee Chest Logo tee Camiseta  Rojo  Warp ](https://m.media-amazon.com/images/I/416TXvbzE4L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07M8L1H7P/?tag=tolees-21)
+[![Lee Chest Logo tee Camiseta  Rojo  Warp ](https://m.media-amazon.com/images/I/416TXvbzE4L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07M8L1H7P/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Seven J Chaqueta Impermeabl al 55.21 % de rebaja'
 date: 2020-06-01 23:43:39
-image: 'https://m.media-amazon.com/images/I/41Iw4fT-dAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Iw4fT-dAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.013333333333335'
 
 Tienes [Helly Hansen Seven J Chaqueta Impermeable con Forro de Secado rápido  Cortaviento y Transpirable para Hombre y para Uso Diario  Rojo  Alerta   L](https://www.amazon.es/dp/B00C2L9ST4/?tag=tolees-21) con precio final de  49.27 EUR (original: 110.0 EUR) (55.21 %  de rebaja) aqui!
 
-[![Helly Hansen Seven J Chaqueta Impermeabl](https://m.media-amazon.com/images/I/41Iw4fT-dAL._SL200_.jpg)](https://www.amazon.es/dp/B00C2L9ST4/?tag=tolees-21)
+[![Helly Hansen Seven J Chaqueta Impermeabl](https://m.media-amazon.com/images/I/41Iw4fT-dAL._SL400_.jpg)](https://www.amazon.es/dp/B00C2L9ST4/?tag=tolees-21)
 
 🔎:
 

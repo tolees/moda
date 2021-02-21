@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Flying V Crew tee Camiseta  Negro   con un 28.61 % de descuento'
 date: 2020-07-27 20:51:51
-image: 'https://m.media-amazon.com/images/I/41EUIpZx7OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EUIpZx7OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 En este momento está [Vans Flying V Crew tee Camiseta  Negro  Black Blk   34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07MZ1X8XH/?tag=tolees-21) a 19.99 EUR (original: 28.0 EUR) (28.61 %  de descuento) en el siguiente enlace!
 
-[![Vans Flying V Crew tee Camiseta  Negro  ](https://m.media-amazon.com/images/I/41EUIpZx7OL._SL200_.jpg)](https://www.amazon.es/dp/B07MZ1X8XH/?tag=tolees-21)
+[![Vans Flying V Crew tee Camiseta  Negro  ](https://m.media-amazon.com/images/I/41EUIpZx7OL._SL400_.jpg)](https://www.amazon.es/dp/B07MZ1X8XH/?tag=tolees-21)
 
 🔎:
 

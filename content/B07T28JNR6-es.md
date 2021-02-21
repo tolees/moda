@@ -2,7 +2,7 @@
 layout: post
 title: 'Abravo Mujer Vestido Estampado Floral si al 57.42 % de descuento'
 date: 2020-07-10 07:52:33
-image: 'https://m.media-amazon.com/images/I/51jwqSednRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jwqSednRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.31'
 
 Está [Abravo Mujer Vestido Estampado Floral sin Mangas Vestido Casual Corto Playa con un Bolsillo  S  Azul Marino-2 ](https://www.amazon.es/dp/B07T28JNR6/?tag=tolees-21) con 57.42 de descuento por 15.99 EUR (original: 37.55 EUR) en el siguiente enlace!
 
-[![Abravo Mujer Vestido Estampado Floral si](https://m.media-amazon.com/images/I/51jwqSednRL._SL200_.jpg)](https://www.amazon.es/dp/B07T28JNR6/?tag=tolees-21)
+[![Abravo Mujer Vestido Estampado Floral si](https://m.media-amazon.com/images/I/51jwqSednRL._SL400_.jpg)](https://www.amazon.es/dp/B07T28JNR6/?tag=tolees-21)
 
 ℹ️:
 

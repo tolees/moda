@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U New Life C  Zapatos de Cordones D al 79.34 % de descuento'
 date: 2020-03-12 20:01:34
-image: 'https://m.media-amazon.com/images/I/31he7z80HSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31he7z80HSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.96'
 
 Ahora mismo tienes [Geox U New Life C  Zapatos de Cordones Derby para Hombre  Negro  Black C9999   39 EU](https://www.amazon.es/dp/B07LFZLTGZ/?tag=tolees-21) a 29.96 EUR (original: 145.0 EUR) (79.34 %  de descuento) en el siguiente enlace!
 
-[![Geox U New Life C  Zapatos de Cordones D](https://m.media-amazon.com/images/I/31he7z80HSL._SL200_.jpg)](https://www.amazon.es/dp/B07LFZLTGZ/?tag=tolees-21)
+[![Geox U New Life C  Zapatos de Cordones D](https://m.media-amazon.com/images/I/31he7z80HSL._SL400_.jpg)](https://www.amazon.es/dp/B07LFZLTGZ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Cotrell Stride  Zapatos de Cordon con un 62.76 % de descuento'
 date: 2020-04-25 16:07:24
-image: 'https://m.media-amazon.com/images/I/317gmAJeYmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317gmAJeYmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.846666666666664'
 
 En este momento está [Clarks Cotrell Stride  Zapatos de Cordones Derby para Hombre  Azul Marino  Piel Marina  44.5 EU](https://www.amazon.es/dp/B07MQ2J4T8/?tag=tolees-21) a 29.77 EUR (original: 79.95 EUR) (62.76 %  de descuento) en el siguiente enlace!
 
-[![Clarks Cotrell Stride  Zapatos de Cordon](https://m.media-amazon.com/images/I/317gmAJeYmL._SL200_.jpg)](https://www.amazon.es/dp/B07MQ2J4T8/?tag=tolees-21)
+[![Clarks Cotrell Stride  Zapatos de Cordon](https://m.media-amazon.com/images/I/317gmAJeYmL._SL400_.jpg)](https://www.amazon.es/dp/B07MQ2J4T8/?tag=tolees-21)
 
 🔎:
 

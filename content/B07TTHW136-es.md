@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 1908-puu  Zapatos de Playa y Pis al 40.83 % de descuento'
 date: 2020-07-20 12:03:13
-image: 'https://m.media-amazon.com/images/I/31LweCC5TbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LweCC5TbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.16'
 
 Está [Superga 1908-puu  Zapatos de Playa y Piscina Unisex Adulto  Naranja  Orange Melon/Orange A05   35 EU](https://www.amazon.es/dp/B07TTHW136/?tag=tolees-21) con 40.83 de descuento por 17.16 EUR (original: 29.0 EUR) en el siguiente enlace!
 
-[![Superga 1908-puu  Zapatos de Playa y Pis](https://m.media-amazon.com/images/I/31LweCC5TbL._SL200_.jpg)](https://www.amazon.es/dp/B07TTHW136/?tag=tolees-21)
+[![Superga 1908-puu  Zapatos de Playa y Pis](https://m.media-amazon.com/images/I/31LweCC5TbL._SL400_.jpg)](https://www.amazon.es/dp/B07TTHW136/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.59 % en Columbia Cascade Explorer Camisa de Mang'
 date: 2020-08-05 10:55:05
-image: 'https://m.media-amazon.com/images/I/41zi8pHlHiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zi8pHlHiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.7'
 
 Tienes [Columbia Cascade Explorer Camisa de Manga Corta  Hombre  Blanco  L](https://www.amazon.es/dp/B00L1RDOE0/?tag=tolees-21) con un 34.59 % de descuento con precio de oferta de 32.7 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Columbia Cascade Explorer Camisa de Mang](https://m.media-amazon.com/images/I/41zi8pHlHiL._SL200_.jpg)](https://www.amazon.es/dp/B00L1RDOE0/?tag=tolees-21)
+[![Columbia Cascade Explorer Camisa de Mang](https://m.media-amazon.com/images/I/41zi8pHlHiL._SL400_.jpg)](https://www.amazon.es/dp/B00L1RDOE0/?tag=tolees-21)
 
 ℹ️:
 

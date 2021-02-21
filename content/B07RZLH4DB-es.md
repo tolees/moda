@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Perfect-tee Camiseta de Manga Cor al 42.04 % de rebaja'
 date: 2020-10-02 11:27:46
-image: 'https://m.media-amazon.com/images/I/41sFhdK2skL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sFhdK2skL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.74'
 
 Tienes [Levi s Perfect-tee Camiseta de Manga Corta  Multicolor  Alyssa Stripe Cloud Dancer 0062   Medium para Mujer](https://www.amazon.es/dp/B07RZLH4DB/?tag=tolees-21) con precio final de  14.49 EUR (original: 25.0 EUR) (42.04 %  de rebaja) aqui!
 
-[![Levi s Perfect-tee Camiseta de Manga Cor](https://m.media-amazon.com/images/I/41sFhdK2skL._SL200_.jpg)](https://www.amazon.es/dp/B07RZLH4DB/?tag=tolees-21)
+[![Levi s Perfect-tee Camiseta de Manga Cor](https://m.media-amazon.com/images/I/41sFhdK2skL._SL400_.jpg)](https://www.amazon.es/dp/B07RZLH4DB/?tag=tolees-21)
 
 🔎:
 

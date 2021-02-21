@@ -2,7 +2,7 @@
 layout: post
 title: 'Pendientes Mariposa de Moda de Color Esp con un 23.82 % de descuento'
 date: 2020-09-22 18:49:11
-image: 'https://m.media-amazon.com/images/I/4197qbwwTiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4197qbwwTiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 En este momento está [Pendientes Mariposa de Moda de Color Espumoso Azul para Dama en Caja de Regalo](https://www.amazon.es/dp/B073DKMCF3/?tag=tolees-21) a 15.99 EUR (original: 20.99 EUR) (23.82 %  de descuento) en el siguiente enlace!
 
-[![Pendientes Mariposa de Moda de Color Esp](https://m.media-amazon.com/images/I/4197qbwwTiL._SL200_.jpg)](https://www.amazon.es/dp/B073DKMCF3/?tag=tolees-21)
+[![Pendientes Mariposa de Moda de Color Esp](https://m.media-amazon.com/images/I/4197qbwwTiL._SL400_.jpg)](https://www.amazon.es/dp/B073DKMCF3/?tag=tolees-21)
 
 🔎:
 

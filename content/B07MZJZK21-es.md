@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Vintage Logo Layered Camo tee C al 47.30 % de descuento'
 date: 2020-05-02 17:10:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Omy7dxZOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Omy7dxZOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.95'
 
 Está [Superdry Vintage Logo Layered Camo tee Camiseta  Negro  Black 02a   Small para Hombre](https://www.amazon.es/dp/B07MZJZK21/?tag=tolees-21) con 47.30 de descuento por 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!
 
-[![Superdry Vintage Logo Layered Camo tee C](https://images-eu.ssl-images-amazon.com/images/I/41Omy7dxZOL._SL200_.jpg)](https://www.amazon.es/dp/B07MZJZK21/?tag=tolees-21)
+[![Superdry Vintage Logo Layered Camo tee C](https://images-eu.ssl-images-amazon.com/images/I/41Omy7dxZOL._SL400_.jpg)](https://www.amazon.es/dp/B07MZJZK21/?tag=tolees-21)
 
 ℹ️:
 

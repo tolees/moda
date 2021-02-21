@@ -2,7 +2,7 @@
 layout: post
 title: 'Scalpers Camisa Slim FIT Pinzas - Skyblu al 33.39 % de descuento'
 date: 2020-02-11 13:28:16
-image: 'https://m.media-amazon.com/images/I/41m2uKjrEgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m2uKjrEgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.9'
 
 Está [Scalpers Camisa Slim FIT Pinzas - Skyblue/White Stripes / 42](https://www.amazon.es/dp/B07Z58H1WV/?tag=tolees-21) con 33.39 de descuento por 39.9 EUR (original: 59.9 EUR) en el siguiente enlace!
 
-[![Scalpers Camisa Slim FIT Pinzas - Skyblu](https://m.media-amazon.com/images/I/41m2uKjrEgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Z58H1WV/?tag=tolees-21)
+[![Scalpers Camisa Slim FIT Pinzas - Skyblu](https://m.media-amazon.com/images/I/41m2uKjrEgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Z58H1WV/?tag=tolees-21)
 
 ℹ️:
 

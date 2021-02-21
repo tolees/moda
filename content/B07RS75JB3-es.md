@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jcosteve Shirt LS Worker Ca con un 35.28 % de descuento'
 date: 2020-04-12 10:41:39
-image: 'https://m.media-amazon.com/images/I/41wdKtX+DSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wdKtX+DSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.856666666666666'
 
 En este momento está [JACK & JONES Jcosteve Shirt LS Worker Camisa  Azul  Chambray Blue Fit:/Slim   Small para Hombre](https://www.amazon.es/dp/B07RS75JB3/?tag=tolees-21) a 12.42 EUR (original: 19.19 EUR) (35.28 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jcosteve Shirt LS Worker Ca](https://m.media-amazon.com/images/I/41wdKtX+DSL._SL200_.jpg)](https://www.amazon.es/dp/B07RS75JB3/?tag=tolees-21)
+[![JACK & JONES Jcosteve Shirt LS Worker Ca](https://m.media-amazon.com/images/I/41wdKtX+DSL._SL400_.jpg)](https://www.amazon.es/dp/B07RS75JB3/?tag=tolees-21)
 
 🔎:
 

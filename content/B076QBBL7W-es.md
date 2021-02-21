@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Core 3D Slim Shirt Wmn L/s Bl al 50.01 % de descuento'
 date: 2020-09-17 21:50:04
-image: 'https://m.media-amazon.com/images/I/41FHlq+pIBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FHlq+pIBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.22'
 
 Ahora mismo tienes [G-STAR RAW Core 3D Slim Shirt Wmn L/s Blusa  Blanco  White 110   Medium para Mujer](https://www.amazon.es/dp/B076QBBL7W/?tag=tolees-21) a 34.97 EUR (original: 69.95 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Core 3D Slim Shirt Wmn L/s Bl](https://m.media-amazon.com/images/I/41FHlq+pIBL._SL200_.jpg)](https://www.amazon.es/dp/B076QBBL7W/?tag=tolees-21)
+[![G-STAR RAW Core 3D Slim Shirt Wmn L/s Bl](https://m.media-amazon.com/images/I/41FHlq+pIBL._SL400_.jpg)](https://www.amazon.es/dp/B076QBBL7W/?tag=tolees-21)
 
 🔎:
 

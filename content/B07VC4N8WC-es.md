@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein Center Monogram Box Slim te con un 40.14 % de descuento'
 date: 2020-09-12 06:53:39
-image: 'https://m.media-amazon.com/images/I/31QH+tDBg-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QH+tDBg-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.075'
 
 En este momento está [Calvin Klein Center Monogram Box Slim tee Camiseta  Blanco  Bright White Yaf   Medium para Hombre](https://www.amazon.es/dp/B07VC4N8WC/?tag=tolees-21) a 20.95 EUR (original: 35.0 EUR) (40.14 %  de descuento) en el siguiente enlace!
 
-[![Calvin Klein Center Monogram Box Slim te](https://m.media-amazon.com/images/I/31QH+tDBg-L._SL200_.jpg)](https://www.amazon.es/dp/B07VC4N8WC/?tag=tolees-21)
+[![Calvin Klein Center Monogram Box Slim te](https://m.media-amazon.com/images/I/31QH+tDBg-L._SL400_.jpg)](https://www.amazon.es/dp/B07VC4N8WC/?tag=tolees-21)
 
 🔎:
 

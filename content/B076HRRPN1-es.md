@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas CORE18 TR Top Sudadera  Hombre  P al 37.20 % de descuento'
 date: 2020-10-10 20:05:05
-image: 'https://m.media-amazon.com/images/I/41ZduBwrWnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZduBwrWnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.090000000000003'
 
 Está [adidas CORE18 TR Top Sudadera  Hombre  Power Red/White  XL](https://www.amazon.es/dp/B076HRRPN1/?tag=tolees-21) con 37.20 de descuento por 21.95 EUR (original: 34.95 EUR) en el siguiente enlace!
 
-[![adidas CORE18 TR Top Sudadera  Hombre  P](https://m.media-amazon.com/images/I/41ZduBwrWnL._SL200_.jpg)](https://www.amazon.es/dp/B076HRRPN1/?tag=tolees-21)
+[![adidas CORE18 TR Top Sudadera  Hombre  P](https://m.media-amazon.com/images/I/41ZduBwrWnL._SL400_.jpg)](https://www.amazon.es/dp/B076HRRPN1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.80 % en Rieker Hombre Botines B1340  de Caballer'
 date: 2020-01-08 11:49:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418-9muJ0pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418-9muJ0pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.95'
 
 Tienes [Rieker Hombre Botines B1340  de Caballero Botas Chukka  Medias Botas  botín con Cordones Nuss 40 EU / 6.5 UK](https://www.amazon.es/dp/B01EIJNWS0/?tag=tolees-21) con un 43.80 % de descuento con precio de oferta de 26.95 EUR (original: 47.95 EUR) en el siguiente enlace!
 
-[![Rieker Hombre Botines B1340  de Caballer](https://images-eu.ssl-images-amazon.com/images/I/418-9muJ0pL._SL200_.jpg)](https://www.amazon.es/dp/B01EIJNWS0/?tag=tolees-21)
+[![Rieker Hombre Botines B1340  de Caballer](https://images-eu.ssl-images-amazon.com/images/I/418-9muJ0pL._SL400_.jpg)](https://www.amazon.es/dp/B01EIJNWS0/?tag=tolees-21)
 
 ℹ️:
 

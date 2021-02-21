@@ -2,7 +2,7 @@
 layout: post
 title: 'Polaroid P8346 RC 0BM Gafas de sol  Marr al 20.02 % de descuento'
 date: 2020-01-08 14:03:56
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31PIcBQZoSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PIcBQZoSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.25'
 
 Está [Polaroid P8346 RC 0BM Gafas de sol  Marrón  Havana/Green Polarized   59 para Hombre](https://www.amazon.es/dp/B00C1TTWGQ/?tag=tolees-21) con 20.02 de descuento por 27.25 EUR (original: 34.07 EUR) en el siguiente enlace!
 
-[![Polaroid P8346 RC 0BM Gafas de sol  Marr](https://images-eu.ssl-images-amazon.com/images/I/31PIcBQZoSL._SL200_.jpg)](https://www.amazon.es/dp/B00C1TTWGQ/?tag=tolees-21)
+[![Polaroid P8346 RC 0BM Gafas de sol  Marr](https://images-eu.ssl-images-amazon.com/images/I/31PIcBQZoSL._SL400_.jpg)](https://www.amazon.es/dp/B00C1TTWGQ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Adilette Shower Chanclas Hombre   al 40.08 % de rebaja'
 date: 2020-09-07 15:21:17
-image: 'https://m.media-amazon.com/images/I/31KCfcA4gKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KCfcA4gKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Tienes [adidas Adilette Shower Chanclas Hombre  Blanco  Footwear White/Core Black/Footwear White 0   40.5 EU  7 UK ](https://www.amazon.es/dp/B06X16JXJ9/?tag=tolees-21) con precio final de  14.95 EUR (original: 24.95 EUR) (40.08 %  de rebaja) aqui!
 
-[![adidas Adilette Shower Chanclas Hombre  ](https://m.media-amazon.com/images/I/31KCfcA4gKL._SL200_.jpg)](https://www.amazon.es/dp/B06X16JXJ9/?tag=tolees-21)
+[![adidas Adilette Shower Chanclas Hombre  ](https://m.media-amazon.com/images/I/31KCfcA4gKL._SL400_.jpg)](https://www.amazon.es/dp/B06X16JXJ9/?tag=tolees-21)
 
 🔎:
 

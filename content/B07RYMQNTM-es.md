@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 511 Slim Fit Jeans Pantalón vaque al 20.41 % de descuento'
 date: 2020-06-19 12:16:09
-image: 'https://m.media-amazon.com/images/I/41x+FBVk4rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x+FBVk4rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.95'
 
 Ahora mismo tienes [Levi s 511 Slim Fit Jeans Pantalón vaquero elástico y con corte estilizado  East Lake Adv 4106  28W/30L para Hombre](https://www.amazon.es/dp/B07RYMQNTM/?tag=tolees-21) a 79.95 EUR (original: 100.45 EUR) (20.41 %  de descuento) en el siguiente enlace!
 
-[![Levi s 511 Slim Fit Jeans Pantalón vaque](https://m.media-amazon.com/images/I/41x+FBVk4rL._SL200_.jpg)](https://www.amazon.es/dp/B07RYMQNTM/?tag=tolees-21)
+[![Levi s 511 Slim Fit Jeans Pantalón vaque](https://m.media-amazon.com/images/I/41x+FBVk4rL._SL400_.jpg)](https://www.amazon.es/dp/B07RYMQNTM/?tag=tolees-21)
 
 🔎:
 

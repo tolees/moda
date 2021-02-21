@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW 3301 High Waist Skinny Vaquer al 75.40 % de descuento'
 date: 2020-01-27 08:35:28
-image: 'https://m.media-amazon.com/images/I/41dbAxqUHYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dbAxqUHYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.97'
 
 Ahora mismo tienes [G-STAR RAW 3301 High Waist Skinny Vaqueros  Azul  Medium Blue Aged 8968-9362   33W / 26L para Mujer](https://www.amazon.es/dp/B07BJHSKGD/?tag=tolees-21) a 31.97 EUR (original: 129.95 EUR) (75.40 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW 3301 High Waist Skinny Vaquer](https://m.media-amazon.com/images/I/41dbAxqUHYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BJHSKGD/?tag=tolees-21)
+[![G-STAR RAW 3301 High Waist Skinny Vaquer](https://m.media-amazon.com/images/I/41dbAxqUHYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07BJHSKGD/?tag=tolees-21)
 
 🔎:
 

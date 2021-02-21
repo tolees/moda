@@ -2,7 +2,7 @@
 layout: post
 title: 'FitFlop Zapatos de Cordones Chukker Choc al 50.00 % de descuento'
 date: 2020-06-14 14:00:27
-image: 'https://m.media-amazon.com/images/I/41VsqKEjE3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VsqKEjE3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.95'
 
 Ahora mismo tienes [FitFlop Zapatos de Cordones Chukker Chocolate EU 44  UK 10 ](https://www.amazon.es/dp/B004VJS2EM/?tag=tolees-21) a 75.95 EUR (original: 151.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![FitFlop Zapatos de Cordones Chukker Choc](https://m.media-amazon.com/images/I/41VsqKEjE3L._SL200_.jpg)](https://www.amazon.es/dp/B004VJS2EM/?tag=tolees-21)
+[![FitFlop Zapatos de Cordones Chukker Choc](https://m.media-amazon.com/images/I/41VsqKEjE3L._SL400_.jpg)](https://www.amazon.es/dp/B004VJS2EM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Miunana 5x Vestidos de noche + 10 Zapato al 16.68 % de descuento'
 date: 2020-06-14 17:01:49
-image: 'https://m.media-amazon.com/images/I/51EN-sVJ5yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EN-sVJ5yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Miunana 5x Vestidos de noche + 10 Zapatos Vestir de Fiesta Faldas Suave Ropas Fashion Hechos a Mano Accesorios para 11.5 Pulgadas 28 -30 CM Muñeca Doll Estilo al Azar](https://www.amazon.es/dp/B06ZZ1HKC1/?tag=tolees-21) con 16.68 de descuento por 9.99 EUR (original: 11.99 EUR) en el siguiente enlace!
 
-[![Miunana 5x Vestidos de noche + 10 Zapato](https://m.media-amazon.com/images/I/51EN-sVJ5yL._SL200_.jpg)](https://www.amazon.es/dp/B06ZZ1HKC1/?tag=tolees-21)
+[![Miunana 5x Vestidos de noche + 10 Zapato](https://m.media-amazon.com/images/I/51EN-sVJ5yL._SL400_.jpg)](https://www.amazon.es/dp/B06ZZ1HKC1/?tag=tolees-21)
 
 ℹ️:
 

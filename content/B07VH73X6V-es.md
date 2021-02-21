@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 099cc1b033 Vaqueros Skinny al 83.11 % de descuento'
 date: 2020-05-22 19:04:56
-image: 'https://m.media-amazon.com/images/I/41wYicm+ufL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wYicm+ufL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.13'
 
 Está [edc by Esprit 099cc1b033 Vaqueros Skinny  Azul  Blue Dark Wash 901   W27/L32  Talla del Fabricante: 27/32  para Mujer](https://www.amazon.es/dp/B07VH73X6V/?tag=tolees-21) con 83.11 de descuento por 10.13 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![edc by Esprit 099cc1b033 Vaqueros Skinny](https://m.media-amazon.com/images/I/41wYicm+ufL._SL200_.jpg)](https://www.amazon.es/dp/B07VH73X6V/?tag=tolees-21)
+[![edc by Esprit 099cc1b033 Vaqueros Skinny](https://m.media-amazon.com/images/I/41wYicm+ufL._SL400_.jpg)](https://www.amazon.es/dp/B07VH73X6V/?tag=tolees-21)
 
 ℹ️:
 

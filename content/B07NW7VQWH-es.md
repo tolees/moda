@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Keepsakes 2.0-Broken Arrow  Bot al 50.04 % de descuento'
 date: 2020-03-03 11:49:44
-image: 'https://m.media-amazon.com/images/I/418Xqz8Ij9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418Xqz8Ij9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.95'
 
 Ahora mismo tienes [Skechers Keepsakes 2.0-Broken Arrow  Botines para Mujer  Morado  Mauve Suede MVE   35 EU](https://www.amazon.es/dp/B07NW7VQWH/?tag=tolees-21) a 34.95 EUR (original: 69.95 EUR) (50.04 %  de descuento) en el siguiente enlace!
 
-[![Skechers Keepsakes 2.0-Broken Arrow  Bot](https://m.media-amazon.com/images/I/418Xqz8Ij9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NW7VQWH/?tag=tolees-21)
+[![Skechers Keepsakes 2.0-Broken Arrow  Bot](https://m.media-amazon.com/images/I/418Xqz8Ij9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NW7VQWH/?tag=tolees-21)
 
 🔎:
 

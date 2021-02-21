@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjegingham Shirt L/s Camisa al 40.01 % de descuento'
 date: 2020-09-19 19:57:27
-image: 'https://m.media-amazon.com/images/I/41qiYQ5cecL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qiYQ5cecL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.364444444444445'
 
 Ahora mismo tienes [Jack & Jones Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   X-Small para Hombre](https://www.amazon.es/dp/B07CCJHZWX/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones Jjegingham Shirt L/s Camisa](https://m.media-amazon.com/images/I/41qiYQ5cecL._SL200_.jpg)](https://www.amazon.es/dp/B07CCJHZWX/?tag=tolees-21)
+[![Jack & Jones Jjegingham Shirt L/s Camisa](https://m.media-amazon.com/images/I/41qiYQ5cecL._SL400_.jpg)](https://www.amazon.es/dp/B07CCJHZWX/?tag=tolees-21)
 
 🔎:
 

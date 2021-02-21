@@ -2,7 +2,7 @@
 layout: post
 title: 'Only Onlsedona Light Coat Otw Noos Abrig al 39.93 % de descuento'
 date: 2020-05-23 16:16:21
-image: 'https://m.media-amazon.com/images/I/41ZIYW1Wh3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZIYW1Wh3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.03'
 
 Está [Only Onlsedona Light Coat Otw Noos Abrigo  Marrón  Etherea Detail:Melange   34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B075TYPCG6/?tag=tolees-21) con 39.93 de descuento por 30.03 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Only Onlsedona Light Coat Otw Noos Abrig](https://m.media-amazon.com/images/I/41ZIYW1Wh3L._SL200_.jpg)](https://www.amazon.es/dp/B075TYPCG6/?tag=tolees-21)
+[![Only Onlsedona Light Coat Otw Noos Abrig](https://m.media-amazon.com/images/I/41ZIYW1Wh3L._SL400_.jpg)](https://www.amazon.es/dp/B075TYPCG6/?tag=tolees-21)
 
 ℹ️:
 

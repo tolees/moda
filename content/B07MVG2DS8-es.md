@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Art  Bolso de Mano para Mujer  M con un 44.73 % de descuento'
 date: 2020-02-08 19:04:05
-image: 'https://m.media-amazon.com/images/I/51pvBblSipL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pvBblSipL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.19'
 
 En este momento está [Kipling Art  Bolso de Mano para Mujer  Morado  Dark Plum   44x27x20 centimeters  B x H x T ](https://www.amazon.es/dp/B07MVG2DS8/?tag=tolees-21) a 49.19 EUR (original: 89.0 EUR) (44.73 %  de descuento) en el siguiente enlace!
 
-[![Kipling Art  Bolso de Mano para Mujer  M](https://m.media-amazon.com/images/I/51pvBblSipL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MVG2DS8/?tag=tolees-21)
+[![Kipling Art  Bolso de Mano para Mujer  M](https://m.media-amazon.com/images/I/51pvBblSipL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MVG2DS8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Ls Essentials Helio Padded Jack al 78.63 % de descuento'
 date: 2020-08-29 11:29:37
-image: 'https://m.media-amazon.com/images/I/41-Bv0bkSLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-Bv0bkSLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.37'
 
 Está [Superdry Ls Essentials Helio Padded Jacket Chaqueta  Gris  Grey Marl 07q   XL  Talla del fabricante:16  para Mujer](https://www.amazon.es/dp/B07TN1QCWZ/?tag=tolees-21) con 78.63 de descuento por 21.37 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Superdry Ls Essentials Helio Padded Jack](https://m.media-amazon.com/images/I/41-Bv0bkSLL._SL200_.jpg)](https://www.amazon.es/dp/B07TN1QCWZ/?tag=tolees-21)
+[![Superdry Ls Essentials Helio Padded Jack](https://m.media-amazon.com/images/I/41-Bv0bkSLL._SL400_.jpg)](https://www.amazon.es/dp/B07TN1QCWZ/?tag=tolees-21)
 
 ℹ️:
 

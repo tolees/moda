@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Benassi JDI Chanclas  Unisex Adulto al 57.45 % de descuento'
 date: 2020-05-30 19:03:27
-image: 'https://m.media-amazon.com/images/I/31Hc7l3B44L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Hc7l3B44L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.91'
 
 Ahora mismo tienes [Nike Benassi JDI Chanclas  Unisex Adulto  Negro  Black/White   40 EU](https://www.amazon.es/dp/B00B3Z2QQC/?tag=tolees-21) a 11.91 EUR (original: 27.99 EUR) (57.45 %  de descuento) en el siguiente enlace!
 
-[![Nike Benassi JDI Chanclas  Unisex Adulto](https://m.media-amazon.com/images/I/31Hc7l3B44L._SL200_.jpg)](https://www.amazon.es/dp/B00B3Z2QQC/?tag=tolees-21)
+[![Nike Benassi JDI Chanclas  Unisex Adulto](https://m.media-amazon.com/images/I/31Hc7l3B44L._SL400_.jpg)](https://www.amazon.es/dp/B00B3Z2QQC/?tag=tolees-21)
 
 🔎:
 

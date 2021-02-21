@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia M Thermarator Glove Guantes  Ho al 42.02 % de descuento'
 date: 2020-05-31 13:50:23
-image: 'https://m.media-amazon.com/images/I/414g64cmumL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414g64cmumL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.49'
 
 Ahora mismo tienes [Columbia M Thermarator Glove Guantes  Hombre  Negro  Talla XL](https://www.amazon.es/dp/B077KHRFTG/?tag=tolees-21) a 14.49 EUR (original: 24.99 EUR) (42.02 %  de descuento) en el siguiente enlace!
 
-[![Columbia M Thermarator Glove Guantes  Ho](https://m.media-amazon.com/images/I/414g64cmumL._SL200_.jpg)](https://www.amazon.es/dp/B077KHRFTG/?tag=tolees-21)
+[![Columbia M Thermarator Glove Guantes  Ho](https://m.media-amazon.com/images/I/414g64cmumL._SL400_.jpg)](https://www.amazon.es/dp/B077KHRFTG/?tag=tolees-21)
 
 🔎:
 

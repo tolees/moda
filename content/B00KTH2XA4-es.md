@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Tech Short Sleeve V-Solid C al 48.25 % de rebaja'
 date: 2020-06-23 09:29:21
-image: 'https://m.media-amazon.com/images/I/41XrqqFDMuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XrqqFDMuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.49'
 
 Tienes [Under Armour Tech Short Sleeve V-Solid Camiseta  Mujer  Blanco  White/Metallic Silver 100   XS](https://www.amazon.es/dp/B00KTH2XA4/?tag=tolees-21) con precio final de  14.49 EUR (original: 28.0 EUR) (48.25 %  de rebaja) aqui!
 
-[![Under Armour Tech Short Sleeve V-Solid C](https://m.media-amazon.com/images/I/41XrqqFDMuL._SL200_.jpg)](https://www.amazon.es/dp/B00KTH2XA4/?tag=tolees-21)
+[![Under Armour Tech Short Sleeve V-Solid C](https://m.media-amazon.com/images/I/41XrqqFDMuL._SL400_.jpg)](https://www.amazon.es/dp/B00KTH2XA4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Camiseta para Mujer  Anaranjado /  al 15.38 % de descuento'
 date: 2020-08-14 15:41:00
-image: 'https://m.media-amazon.com/images/I/31Yk5VzZlsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Yk5VzZlsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.52'
 
 Ahora mismo tienes [find. Camiseta para Mujer  Anaranjado / Coralino  Water Melon   38  Talle Fabricante: Small ](https://www.amazon.es/dp/B071YYR2T7/?tag=tolees-21) a 3.52 EUR (original: 4.16 EUR) (15.38 %  de descuento) en el siguiente enlace!
 
-[![find. Camiseta para Mujer  Anaranjado / ](https://m.media-amazon.com/images/I/31Yk5VzZlsL._SL200_.jpg)](https://www.amazon.es/dp/B071YYR2T7/?tag=tolees-21)
+[![find. Camiseta para Mujer  Anaranjado / ](https://m.media-amazon.com/images/I/31Yk5VzZlsL._SL400_.jpg)](https://www.amazon.es/dp/B071YYR2T7/?tag=tolees-21)
 
 🔎:
 

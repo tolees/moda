@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Athens  Chanclas Unisex Adulto  Az al 47.18 % de rebaja'
 date: 2020-05-10 19:56:36
-image: 'https://m.media-amazon.com/images/I/31Izdpn9ToL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Izdpn9ToL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.01'
 
 Tienes [Crocs Athens  Chanclas Unisex Adulto  Azul  Bright Cobalt/Pepper 4kn   42/43 EU](https://www.amazon.es/dp/B07S974FFL/?tag=tolees-21) con precio final de  19.01 EUR (original: 35.99 EUR) (47.18 %  de rebaja) aqui!
 
-[![Crocs Athens  Chanclas Unisex Adulto  Az](https://m.media-amazon.com/images/I/31Izdpn9ToL._SL200_.jpg)](https://www.amazon.es/dp/B07S974FFL/?tag=tolees-21)
+[![Crocs Athens  Chanclas Unisex Adulto  Az](https://m.media-amazon.com/images/I/31Izdpn9ToL._SL400_.jpg)](https://www.amazon.es/dp/B07S974FFL/?tag=tolees-21)
 
 🔎:
 

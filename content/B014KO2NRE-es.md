@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Soho Vaqueros  Azul  10Oz Cla al 33.35 % de descuento'
 date: 2020-02-20 08:15:04
-image: 'https://m.media-amazon.com/images/I/41hSnDy1AXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hSnDy1AXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Ahora mismo tienes [Pepe Jeans Soho Vaqueros  Azul  10Oz Classic Stretch Z63   34W / 30L para Mujer](https://www.amazon.es/dp/B014KO2NRE/?tag=tolees-21) a 49.99 EUR (original: 75.0 EUR) (33.35 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Soho Vaqueros  Azul  10Oz Cla](https://m.media-amazon.com/images/I/41hSnDy1AXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B014KO2NRE/?tag=tolees-21)
+[![Pepe Jeans Soho Vaqueros  Azul  10Oz Cla](https://m.media-amazon.com/images/I/41hSnDy1AXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B014KO2NRE/?tag=tolees-21)
 
 🔎:
 

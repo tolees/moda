@@ -2,7 +2,7 @@
 layout: post
 title: 'Tamaris 1-1-22444-23  Zapatos de Tacón p al 50.05 % de rebaja'
 date: 2020-02-11 11:34:00
-image: 'https://m.media-amazon.com/images/I/41YfKL0l9JL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YfKL0l9JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.95'
 
 Tienes [Tamaris 1-1-22444-23  Zapatos de Tacón para Mujer  Rojo  Chili Patent 520   39 EU](https://www.amazon.es/dp/B07L4CKQQK/?tag=tolees-21) con precio final de  24.95 EUR (original: 49.95 EUR) (50.05 %  de rebaja) aqui!
 
-[![Tamaris 1-1-22444-23  Zapatos de Tacón p](https://m.media-amazon.com/images/I/41YfKL0l9JL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L4CKQQK/?tag=tolees-21)
+[![Tamaris 1-1-22444-23  Zapatos de Tacón p](https://m.media-amazon.com/images/I/41YfKL0l9JL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L4CKQQK/?tag=tolees-21)
 
 🔎:
 

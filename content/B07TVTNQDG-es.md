@@ -2,7 +2,7 @@
 layout: post
 title: 'Women s Secret Trendy Tapestry TT Green  al 61.51 % de descuento'
 date: 2020-03-20 19:33:58
-image: 'https://m.media-amazon.com/images/I/41lxDdt59PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lxDdt59PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.24'
 
 Ahora mismo tienes [Women s Secret Trendy Tapestry TT Green CLAS PJ FR Conjuntos de Pijama  Verde  Gama Verdes 29   X-Large  Tamaño del Fabricante: XL  para Mujer](https://www.amazon.es/dp/B07TVTNQDG/?tag=tolees-21) a 19.24 EUR (original: 49.99 EUR) (61.51 %  de descuento) en el siguiente enlace!
 
-[![Women s Secret Trendy Tapestry TT Green ](https://m.media-amazon.com/images/I/41lxDdt59PL._SL200_.jpg)](https://www.amazon.es/dp/B07TVTNQDG/?tag=tolees-21)
+[![Women s Secret Trendy Tapestry TT Green ](https://m.media-amazon.com/images/I/41lxDdt59PL._SL400_.jpg)](https://www.amazon.es/dp/B07TVTNQDG/?tag=tolees-21)
 
 🔎:
 

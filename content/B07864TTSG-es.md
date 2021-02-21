@@ -2,7 +2,7 @@
 layout: post
 title: 'CROCS Swiftwater Mesh Deck Sandal M  Zue al 40.01 % de rebaja'
 date: 2020-08-13 12:39:54
-image: 'https://m.media-amazon.com/images/I/41y5wdlh7lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y5wdlh7lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [CROCS Swiftwater Mesh Deck Sandal M  Zuecos para Hombre  Marrón  Espresso 206b   46/47 EU](https://www.amazon.es/dp/B07864TTSG/?tag=tolees-21) con precio final de  29.99 EUR (original: 49.99 EUR) (40.01 %  de rebaja) aqui!
 
-[![CROCS Swiftwater Mesh Deck Sandal M  Zue](https://m.media-amazon.com/images/I/41y5wdlh7lL._SL200_.jpg)](https://www.amazon.es/dp/B07864TTSG/?tag=tolees-21)
+[![CROCS Swiftwater Mesh Deck Sandal M  Zue](https://m.media-amazon.com/images/I/41y5wdlh7lL._SL400_.jpg)](https://www.amazon.es/dp/B07864TTSG/?tag=tolees-21)
 
 🔎:
 

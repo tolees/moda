@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett Bengal Str KS Camisa   Blue 551  al 27.04 % de descuento'
 date: 2020-03-15 00:59:00
-image: 'https://m.media-amazon.com/images/I/4153USlJrhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4153USlJrhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.2'
 
 Ahora mismo tienes [Hackett Bengal Str KS Camisa   Blue 551   Medium para Hombre](https://www.amazon.es/dp/B07M7DHYYT/?tag=tolees-21) a 30.2 EUR (original: 41.39 EUR) (27.04 %  de descuento) en el siguiente enlace!
 
-[![Hackett Bengal Str KS Camisa   Blue 551 ](https://m.media-amazon.com/images/I/4153USlJrhL._SL200_.jpg)](https://www.amazon.es/dp/B07M7DHYYT/?tag=tolees-21)
+[![Hackett Bengal Str KS Camisa   Blue 551 ](https://m.media-amazon.com/images/I/4153USlJrhL._SL400_.jpg)](https://www.amazon.es/dp/B07M7DHYYT/?tag=tolees-21)
 
 🔎:
 

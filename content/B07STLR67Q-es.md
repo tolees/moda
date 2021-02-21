@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Nebula C  Zapatillas para Hombre  al 58.89 % de descuento'
 date: 2020-07-17 12:43:39
-image: 'https://m.media-amazon.com/images/I/41b2xfBbTTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b2xfBbTTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.4'
 
 Ahora mismo tienes [Geox U Nebula C  Zapatillas para Hombre  Beige  Sand C5004   41 EU](https://www.amazon.es/dp/B07STLR67Q/?tag=tolees-21) a 53.4 EUR (original: 129.9 EUR) (58.89 %  de descuento) en el siguiente enlace!
 
-[![Geox U Nebula C  Zapatillas para Hombre ](https://m.media-amazon.com/images/I/41b2xfBbTTL._SL200_.jpg)](https://www.amazon.es/dp/B07STLR67Q/?tag=tolees-21)
+[![Geox U Nebula C  Zapatillas para Hombre ](https://m.media-amazon.com/images/I/41b2xfBbTTL._SL400_.jpg)](https://www.amazon.es/dp/B07STLR67Q/?tag=tolees-21)
 
 🔎:
 

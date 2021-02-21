@@ -2,7 +2,7 @@
 layout: post
 title: 'OBEEII Vestidos Niñas Fiesta Bordado de  al 61.15 % de rebaja'
 date: 2020-01-30 11:24:14
-image: 'https://m.media-amazon.com/images/I/31bTLo7kJJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bTLo7kJJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.65'
 
 Tienes [OBEEII Vestidos Niñas Fiesta Bordado de Tul para Fiesta Comunion Vestido de Princesa Cumpleaños Cóctel Ceremonia Boda Prom Rosa 3-4 Años](https://www.amazon.es/dp/B07VGDS2S9/?tag=tolees-21) con precio final de  11.65 EUR (original: 29.99 EUR) (61.15 %  de rebaja) aqui!
 
-[![OBEEII Vestidos Niñas Fiesta Bordado de ](https://m.media-amazon.com/images/I/31bTLo7kJJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VGDS2S9/?tag=tolees-21)
+[![OBEEII Vestidos Niñas Fiesta Bordado de ](https://m.media-amazon.com/images/I/31bTLo7kJJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07VGDS2S9/?tag=tolees-21)
 
 🔎:
 

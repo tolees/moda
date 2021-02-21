@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Mocasines TB0A1Q86019 con un 56.94 % de descuento'
 date: 2020-07-16 14:50:50
-image: 'https://m.media-amazon.com/images/I/41dP36QalyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dP36QalyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.49'
 
 En este momento está [Timberland Mocasines TB0A1Q86019](https://www.amazon.es/dp/B078SWPTQW/?tag=tolees-21) a 27.99 EUR (original: 65.0 EUR) (56.94 %  de descuento) en el siguiente enlace!
 
-[![Timberland Mocasines TB0A1Q86019](https://m.media-amazon.com/images/I/41dP36QalyL._SL200_.jpg)](https://www.amazon.es/dp/B078SWPTQW/?tag=tolees-21)
+[![Timberland Mocasines TB0A1Q86019](https://m.media-amazon.com/images/I/41dP36QalyL._SL400_.jpg)](https://www.amazon.es/dp/B078SWPTQW/?tag=tolees-21)
 
 🔎:
 

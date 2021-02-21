@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Berber H Sudadera con Capucha  al 55.00 % de descuento'
 date: 2020-03-29 12:16:43
-image: 'https://m.media-amazon.com/images/I/31DIT-J4OPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DIT-J4OPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.55'
 
 Ahora mismo tienes [Napapijri Berber H Sudadera con Capucha  Azul  BLU Marine 176   XL para Hombre](https://www.amazon.es/dp/B07MQVGCRC/?tag=tolees-21) a 44.55 EUR (original: 99.0 EUR) (55.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri Berber H Sudadera con Capucha ](https://m.media-amazon.com/images/I/31DIT-J4OPL._SL200_.jpg)](https://www.amazon.es/dp/B07MQVGCRC/?tag=tolees-21)
+[![Napapijri Berber H Sudadera con Capucha ](https://m.media-amazon.com/images/I/31DIT-J4OPL._SL400_.jpg)](https://www.amazon.es/dp/B07MQVGCRC/?tag=tolees-21)
 
 🔎:
 

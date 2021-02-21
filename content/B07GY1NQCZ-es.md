@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 999cc1k803 Camiseta  Gris  al 46.19 % de descuento'
 date: 2020-01-15 09:55:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41V-MP6mpfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V-MP6mpfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Está [edc by Esprit 999cc1k803 Camiseta  Gris  Light Grey 040   Small para Mujer](https://www.amazon.es/dp/B07GY1NQCZ/?tag=tolees-21) con 46.19 de descuento por 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![edc by Esprit 999cc1k803 Camiseta  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41V-MP6mpfL._SL200_.jpg)](https://www.amazon.es/dp/B07GY1NQCZ/?tag=tolees-21)
+[![edc by Esprit 999cc1k803 Camiseta  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41V-MP6mpfL._SL400_.jpg)](https://www.amazon.es/dp/B07GY1NQCZ/?tag=tolees-21)
 
 ℹ️:
 

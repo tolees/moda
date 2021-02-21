@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW LUGE Knotted Camiseta  Beige  al 19.88 % de descuento'
 date: 2020-05-14 07:22:46
-image: 'https://m.media-amazon.com/images/I/41AId9FmRoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AId9FmRoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.685'
 
 Ahora mismo tienes [G-STAR RAW LUGE Knotted Camiseta  Beige  Milk B906/111   X-Small para Mujer](https://www.amazon.es/dp/B07KXJJTKF/?tag=tolees-21) a 13.22 EUR (original: 16.5 EUR) (19.88 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW LUGE Knotted Camiseta  Beige ](https://m.media-amazon.com/images/I/41AId9FmRoL._SL200_.jpg)](https://www.amazon.es/dp/B07KXJJTKF/?tag=tolees-21)
+[![G-STAR RAW LUGE Knotted Camiseta  Beige ](https://m.media-amazon.com/images/I/41AId9FmRoL._SL400_.jpg)](https://www.amazon.es/dp/B07KXJJTKF/?tag=tolees-21)
 
 🔎:
 

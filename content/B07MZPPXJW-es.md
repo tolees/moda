@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Nastia Sudadera   Verdant 683 al 40.01 % de descuento'
 date: 2020-05-05 15:32:01
-image: 'https://m.media-amazon.com/images/I/41AuI+zJzxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AuI+zJzxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.97'
 
 Ahora mismo tienes [Pepe Jeans Nastia Sudadera   Verdant 683   X-Small para Mujer](https://www.amazon.es/dp/B07MZPPXJW/?tag=tolees-21) a 44.99 EUR (original: 75.0 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Nastia Sudadera   Verdant 683](https://m.media-amazon.com/images/I/41AuI+zJzxL._SL200_.jpg)](https://www.amazon.es/dp/B07MZPPXJW/?tag=tolees-21)
+[![Pepe Jeans Nastia Sudadera   Verdant 683](https://m.media-amazon.com/images/I/41AuI+zJzxL._SL400_.jpg)](https://www.amazon.es/dp/B07MZPPXJW/?tag=tolees-21)
 
 🔎:
 

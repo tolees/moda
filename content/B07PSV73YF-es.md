@@ -2,7 +2,7 @@
 layout: post
 title: 'El Ganso Urban Country 2 Chaleco  Multic con un 35.00 % de descuento'
 date: 2020-04-25 12:59:55
-image: 'https://m.media-amazon.com/images/I/51MA-JAiIfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MA-JAiIfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.35'
 
 En este momento está [El Ganso Urban Country 2 Chaleco  Multicolor  Varios 0023   X-Large para Hombre](https://www.amazon.es/dp/B07PSV73YF/?tag=tolees-21) a 129.35 EUR (original: 199.0 EUR) (35.00 %  de descuento) en el siguiente enlace!
 
-[![El Ganso Urban Country 2 Chaleco  Multic](https://m.media-amazon.com/images/I/51MA-JAiIfL._SL200_.jpg)](https://www.amazon.es/dp/B07PSV73YF/?tag=tolees-21)
+[![El Ganso Urban Country 2 Chaleco  Multic](https://m.media-amazon.com/images/I/51MA-JAiIfL._SL400_.jpg)](https://www.amazon.es/dp/B07PSV73YF/?tag=tolees-21)
 
 🔎:
 

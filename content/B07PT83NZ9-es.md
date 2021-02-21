@@ -2,7 +2,7 @@
 layout: post
 title: 'CARE OF by PUMA Sudadera con capucha  fo al 20.79 % de rebaja'
 date: 2020-09-22 08:41:50
-image: 'https://m.media-amazon.com/images/I/31bHl3mM0gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bHl3mM0gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.104'
 
 Tienes [CARE OF by PUMA Sudadera con capucha  forro y cremallera de manga larga para hombre  Rojo  Red   XS  Label: XS](https://www.amazon.es/dp/B07PT83NZ9/?tag=tolees-21) con precio final de  9.64 EUR (original: 12.17 EUR) (20.79 %  de rebaja) aqui!
 
-[![CARE OF by PUMA Sudadera con capucha  fo](https://m.media-amazon.com/images/I/31bHl3mM0gL._SL200_.jpg)](https://www.amazon.es/dp/B07PT83NZ9/?tag=tolees-21)
+[![CARE OF by PUMA Sudadera con capucha  fo](https://m.media-amazon.com/images/I/31bHl3mM0gL._SL400_.jpg)](https://www.amazon.es/dp/B07PT83NZ9/?tag=tolees-21)
 
 🔎:
 

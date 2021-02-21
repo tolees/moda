@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Dubliner Jacket Chaqueta  H al 31.68 % de descuento'
 date: 2020-04-22 22:09:21
-image: 'https://m.media-amazon.com/images/I/4147ruf8IeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4147ruf8IeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.74666666666667'
 
 Está [Helly Hansen Dubliner Jacket Chaqueta  Hombre  Royal Blue  M](https://www.amazon.es/dp/B07SB1YZLY/?tag=tolees-21) con 31.68 de descuento por 81.99 EUR (original: 120.0 EUR) en el siguiente enlace!
 
-[![Helly Hansen Dubliner Jacket Chaqueta  H](https://m.media-amazon.com/images/I/4147ruf8IeL._SL200_.jpg)](https://www.amazon.es/dp/B07SB1YZLY/?tag=tolees-21)
+[![Helly Hansen Dubliner Jacket Chaqueta  H](https://m.media-amazon.com/images/I/4147ruf8IeL._SL400_.jpg)](https://www.amazon.es/dp/B07SB1YZLY/?tag=tolees-21)
 
 ℹ️:
 

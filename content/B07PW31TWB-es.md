@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 079cc2k020 Camiseta  Azul  al 60.03 % de descuento'
 date: 2020-01-30 16:39:33
-image: 'https://m.media-amazon.com/images/I/41O3v4Bt1jL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41O3v4Bt1jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Está [edc by Esprit 079cc2k020 Camiseta  Azul  Navy 400   Large para Hombre](https://www.amazon.es/dp/B07PW31TWB/?tag=tolees-21) con 60.03 de descuento por 7.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![edc by Esprit 079cc2k020 Camiseta  Azul ](https://m.media-amazon.com/images/I/41O3v4Bt1jL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PW31TWB/?tag=tolees-21)
+[![edc by Esprit 079cc2k020 Camiseta  Azul ](https://m.media-amazon.com/images/I/41O3v4Bt1jL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07PW31TWB/?tag=tolees-21)
 
 ℹ️:
 

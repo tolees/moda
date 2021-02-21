@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Chaqueta Punto con Cinturón para M al 60.00 % de descuento'
 date: 2020-01-12 13:18:18
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jr8bNRFEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jr8bNRFEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.5'
 
 Ahora mismo tienes [find. Chaqueta Punto con Cinturón para Mujer  Azul  Navy   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B074FY7LKD/?tag=tolees-21) a 10.5 EUR (original: 26.25 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![find. Chaqueta Punto con Cinturón para M](https://images-eu.ssl-images-amazon.com/images/I/41Jr8bNRFEL._SL200_.jpg)](https://www.amazon.es/dp/B074FY7LKD/?tag=tolees-21)
+[![find. Chaqueta Punto con Cinturón para M](https://images-eu.ssl-images-amazon.com/images/I/41Jr8bNRFEL._SL400_.jpg)](https://www.amazon.es/dp/B074FY7LKD/?tag=tolees-21)
 
 🔎:
 

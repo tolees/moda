@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.59 % en Element Dulcey Chaqueta  Hombre  Azul  E'
 date: 2020-03-04 17:50:10
-image: 'https://m.media-amazon.com/images/I/41oLmVrG-sL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oLmVrG-sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.17'
 
 Tienes [Element Dulcey Chaqueta  Hombre  Azul  Eclipse Navy   XS](https://www.amazon.es/dp/B07F25LYMM/?tag=tolees-21) con un 60.59 % de descuento con precio de oferta de 55.17 EUR (original: 140.0 EUR) en el siguiente enlace!
 
-[![Element Dulcey Chaqueta  Hombre  Azul  E](https://m.media-amazon.com/images/I/41oLmVrG-sL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07F25LYMM/?tag=tolees-21)
+[![Element Dulcey Chaqueta  Hombre  Azul  E](https://m.media-amazon.com/images/I/41oLmVrG-sL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07F25LYMM/?tag=tolees-21)
 
 ℹ️:
 

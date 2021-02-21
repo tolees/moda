@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES JCOSEAD Sweat Crew Neck FST al 40.91 % de descuento'
 date: 2020-02-13 07:55:56
-image: 'https://m.media-amazon.com/images/I/41bnqmEHpBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bnqmEHpBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.72'
 
 Ahora mismo tienes [JACK & JONES JCOSEAD Sweat Crew Neck FST Sudadera  Gris  Light Grey Melange Light Grey Melange   S para Hombre](https://www.amazon.es/dp/B07W6PZSG2/?tag=tolees-21) a 17.72 EUR (original: 29.99 EUR) (40.91 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES JCOSEAD Sweat Crew Neck FST](https://m.media-amazon.com/images/I/41bnqmEHpBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07W6PZSG2/?tag=tolees-21)
+[![JACK & JONES JCOSEAD Sweat Crew Neck FST](https://m.media-amazon.com/images/I/41bnqmEHpBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07W6PZSG2/?tag=tolees-21)
 
 🔎:
 

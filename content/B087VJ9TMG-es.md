@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Powder Lite Hooded Chaqueta De  al 48.85 % de rebaja'
 date: 2020-09-20 14:27:30
-image: 'https://m.media-amazon.com/images/I/416vr+wyIZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416vr+wyIZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.49'
 
 Tienes [Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Naranja  Harvester  Shark   L](https://www.amazon.es/dp/B087VJ9TMG/?tag=tolees-21) con precio final de  66.49 EUR (original: 129.99 EUR) (48.85 %  de rebaja) aqui!
 
-[![Columbia Powder Lite Hooded Chaqueta De ](https://m.media-amazon.com/images/I/416vr+wyIZL._SL200_.jpg)](https://www.amazon.es/dp/B087VJ9TMG/?tag=tolees-21)
+[![Columbia Powder Lite Hooded Chaqueta De ](https://m.media-amazon.com/images/I/416vr+wyIZL._SL400_.jpg)](https://www.amazon.es/dp/B087VJ9TMG/?tag=tolees-21)
 
 🔎:
 

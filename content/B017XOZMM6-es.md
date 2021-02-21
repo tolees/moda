@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Salt Power Chaqueta  Hombre al 49.00 % de descuento'
 date: 2020-01-21 14:29:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XmielfNkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XmielfNkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '132.59'
 
 Está [Helly Hansen Salt Power Chaqueta  Hombre  Negro  L](https://www.amazon.es/dp/B017XOZMM6/?tag=tolees-21) con 49.00 de descuento por 132.59 EUR (original: 260 EUR) en el siguiente enlace!
 
-[![Helly Hansen Salt Power Chaqueta  Hombre](https://images-eu.ssl-images-amazon.com/images/I/41XmielfNkL._SL200_.jpg)](https://www.amazon.es/dp/B017XOZMM6/?tag=tolees-21)
+[![Helly Hansen Salt Power Chaqueta  Hombre](https://images-eu.ssl-images-amazon.com/images/I/41XmielfNkL._SL400_.jpg)](https://www.amazon.es/dp/B017XOZMM6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Springfield 4.2.J.T.Mesa Jacq Allover Je al 44.76 % de rebaja'
 date: 2020-03-25 16:48:05
-image: 'https://m.media-amazon.com/images/I/41KNYZpqGqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KNYZpqGqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.38'
 
 Tienes [Springfield 4.2.J.T.Mesa Jacq Allover Jersey  Dorado  Dorado 97   Medium  Tamaño del Fabricante: M  para Mujer](https://www.amazon.es/dp/B07NJ65H4B/?tag=tolees-21) con precio final de  7.38 EUR (original: 13.36 EUR) (44.76 %  de rebaja) aqui!
 
-[![Springfield 4.2.J.T.Mesa Jacq Allover Je](https://m.media-amazon.com/images/I/41KNYZpqGqL._SL200_.jpg)](https://www.amazon.es/dp/B07NJ65H4B/?tag=tolees-21)
+[![Springfield 4.2.J.T.Mesa Jacq Allover Je](https://m.media-amazon.com/images/I/41KNYZpqGqL._SL400_.jpg)](https://www.amazon.es/dp/B07NJ65H4B/?tag=tolees-21)
 
 🔎:
 

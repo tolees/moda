@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.25 % en Timberland Larchmont Chelsea Waterproof '
 date: 2020-01-03 00:45:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QaVXd%2BDLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QaVXd%2BDLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.13'
 
 Tienes [Timberland Larchmont Chelsea Waterproof  Botas Hombre  Marrón  Medium Brown Nubuck   40 EU](https://www.amazon.es/dp/B010QRRDZG/?tag=tolees-21) con un 43.25 % de descuento con precio de oferta de 85.13 EUR (original: 150 EUR) en el siguiente enlace!
 
-[![Timberland Larchmont Chelsea Waterproof ](https://images-eu.ssl-images-amazon.com/images/I/41QaVXd%2BDLL._SL200_.jpg)](https://www.amazon.es/dp/B010QRRDZG/?tag=tolees-21)
+[![Timberland Larchmont Chelsea Waterproof ](https://images-eu.ssl-images-amazon.com/images/I/41QaVXd%2BDLL._SL400_.jpg)](https://www.amazon.es/dp/B010QRRDZG/?tag=tolees-21)
 
 ℹ️:
 

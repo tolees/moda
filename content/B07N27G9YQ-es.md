@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger TJM Essential Textured Sw al 59.59 % de rebaja'
 date: 2020-04-03 02:58:22
-image: 'https://m.media-amazon.com/images/I/41cy6Q+ONRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cy6Q+ONRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.35'
 
 Tienes [Tommy Hilfiger TJM Essential Textured Sweater Sudadera   Black Iris Twisted Cbk   Small para Hombre](https://www.amazon.es/dp/B07N27G9YQ/?tag=tolees-21) con precio final de  34.35 EUR (original: 85.0 EUR) (59.59 %  de rebaja) aqui!
 
-[![Tommy Hilfiger TJM Essential Textured Sw](https://m.media-amazon.com/images/I/41cy6Q+ONRL._SL200_.jpg)](https://www.amazon.es/dp/B07N27G9YQ/?tag=tolees-21)
+[![Tommy Hilfiger TJM Essential Textured Sw](https://m.media-amazon.com/images/I/41cy6Q+ONRL._SL400_.jpg)](https://www.amazon.es/dp/B07N27G9YQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Duff Chest Logo T Camiseta  G al 40.69 % de descuento'
 date: 2020-04-21 09:53:53
-image: 'https://m.media-amazon.com/images/I/41aMAKgu6rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aMAKgu6rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.051666666666666'
 
 Está [Pepe Jeans Duff Chest Logo T Camiseta  Gris  Grey Marl 933   X-Large para Hombre](https://www.amazon.es/dp/B07JGHTHC6/?tag=tolees-21) con 40.69 de descuento por 20.76 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Duff Chest Logo T Camiseta  G](https://m.media-amazon.com/images/I/41aMAKgu6rL._SL200_.jpg)](https://www.amazon.es/dp/B07JGHTHC6/?tag=tolees-21)
+[![Pepe Jeans Duff Chest Logo T Camiseta  G](https://m.media-amazon.com/images/I/41aMAKgu6rL._SL400_.jpg)](https://www.amazon.es/dp/B07JGHTHC6/?tag=tolees-21)
 
 ℹ️:
 

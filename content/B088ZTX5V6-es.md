@@ -2,7 +2,7 @@
 layout: post
 title: 'Lydee Moda Plataforma Sandalias Mujer Ve al 50.20 % de descuento'
 date: 2020-05-27 13:32:36
-image: 'https://m.media-amazon.com/images/I/51ky4RjGR7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ky4RjGR7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.86'
 
 Está [Lydee Moda Plataforma Sandalias Mujer Verano Zapatos Tacon Ancho Tacon Alto Peep Toe Party Heels Performance Zapatos Grey Size 36](https://www.amazon.es/dp/B088ZTX5V6/?tag=tolees-21) con 50.20 de descuento por 32.86 EUR (original: 65.99 EUR) en el siguiente enlace!
 
-[![Lydee Moda Plataforma Sandalias Mujer Ve](https://m.media-amazon.com/images/I/51ky4RjGR7L._SL200_.jpg)](https://www.amazon.es/dp/B088ZTX5V6/?tag=tolees-21)
+[![Lydee Moda Plataforma Sandalias Mujer Ve](https://m.media-amazon.com/images/I/51ky4RjGR7L._SL400_.jpg)](https://www.amazon.es/dp/B088ZTX5V6/?tag=tolees-21)
 
 ℹ️:
 

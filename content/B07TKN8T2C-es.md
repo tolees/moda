@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Step Cali Cove  Sandalias de Taló al 60.40 % de descuento'
 date: 2020-07-19 04:05:50
-image: 'https://m.media-amazon.com/images/I/41jz-RYcqbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jz-RYcqbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.7'
 
 Ahora mismo tienes [Clarks Step Cali Cove  Sandalias de Talón Abierto para Mujer  Beige  Navy Navy   37.5 EU](https://www.amazon.es/dp/B07TKN8T2C/?tag=tolees-21) a 27.7 EUR (original: 69.95 EUR) (60.40 %  de descuento) en el siguiente enlace!
 
-[![Clarks Step Cali Cove  Sandalias de Taló](https://m.media-amazon.com/images/I/41jz-RYcqbL._SL200_.jpg)](https://www.amazon.es/dp/B07TKN8T2C/?tag=tolees-21)
+[![Clarks Step Cali Cove  Sandalias de Taló](https://m.media-amazon.com/images/I/41jz-RYcqbL._SL400_.jpg)](https://www.amazon.es/dp/B07TKN8T2C/?tag=tolees-21)
 
 🔎:
 

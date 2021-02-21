@@ -2,7 +2,7 @@
 layout: post
 title: 'NIGHT CHERRY Mujer Moda Tacón Ancho Boti con un 50.00 % de descuento'
 date: 2020-05-11 19:31:51
-image: 'https://m.media-amazon.com/images/I/51VYwMRv-1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VYwMRv-1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.99'
 
 En este momento está [NIGHT CHERRY Mujer Moda Tacón Ancho Botines Cremallera Punta Quadrada Malla Botines Tacón Medio Vestido Zapatos Black Talla 37 Asiática](https://www.amazon.es/dp/B087G73SXG/?tag=tolees-21) a 51.99 EUR (original: 103.99 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![NIGHT CHERRY Mujer Moda Tacón Ancho Boti](https://m.media-amazon.com/images/I/51VYwMRv-1L._SL200_.jpg)](https://www.amazon.es/dp/B087G73SXG/?tag=tolees-21)
+[![NIGHT CHERRY Mujer Moda Tacón Ancho Boti](https://m.media-amazon.com/images/I/51VYwMRv-1L._SL400_.jpg)](https://www.amazon.es/dp/B087G73SXG/?tag=tolees-21)
 
 🔎:
 

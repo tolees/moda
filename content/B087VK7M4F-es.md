@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Pike Lake Chaqueta con Capucha  al 51.67 % de rebaja'
 date: 2020-10-02 12:27:57
-image: 'https://m.media-amazon.com/images/I/41NDA65+YOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NDA65+YOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.49'
 
 Tienes [Columbia Pike Lake Chaqueta con Capucha  Hombre  Morado  Negro  Dark Purple  Shark   M](https://www.amazon.es/dp/B087VK7M4F/?tag=tolees-21) con precio final de  72.49 EUR (original: 149.99 EUR) (51.67 %  de rebaja) aqui!
 
-[![Columbia Pike Lake Chaqueta con Capucha ](https://m.media-amazon.com/images/I/41NDA65+YOL._SL200_.jpg)](https://www.amazon.es/dp/B087VK7M4F/?tag=tolees-21)
+[![Columbia Pike Lake Chaqueta con Capucha ](https://m.media-amazon.com/images/I/41NDA65+YOL._SL400_.jpg)](https://www.amazon.es/dp/B087VK7M4F/?tag=tolees-21)
 
 🔎:
 

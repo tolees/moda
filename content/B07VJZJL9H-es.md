@@ -2,7 +2,7 @@
 layout: post
 title: 'NORTH SAILS Cotton Jersey Sweatshirt al 37.76 % de rebaja'
 date: 2020-07-22 08:23:29
-image: 'https://m.media-amazon.com/images/I/41U3ndMn7KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41U3ndMn7KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.73'
 
 Tienes [NORTH SAILS Cotton Jersey Sweatshirt](https://www.amazon.es/dp/B07VJZJL9H/?tag=tolees-21) con precio final de  49.73 EUR (original: 79.9 EUR) (37.76 %  de rebaja) aqui!
 
-[![NORTH SAILS Cotton Jersey Sweatshirt](https://m.media-amazon.com/images/I/41U3ndMn7KL._SL200_.jpg)](https://www.amazon.es/dp/B07VJZJL9H/?tag=tolees-21)
+[![NORTH SAILS Cotton Jersey Sweatshirt](https://m.media-amazon.com/images/I/41U3ndMn7KL._SL400_.jpg)](https://www.amazon.es/dp/B07VJZJL9H/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Low Rise Skinny Sophie Va al 60.32 % de descuento'
 date: 2020-03-20 20:38:58
-image: 'https://m.media-amazon.com/images/I/31Lfylwg5HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Lfylwg5HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.64'
 
 Ahora mismo tienes [Tommy Hilfiger Low Rise Skinny Sophie Vaqueros straight  Azul  Fresno Bk Str 911   W26/L30  Talla del fabricante: 3026  para Mujer](https://www.amazon.es/dp/B07JYRZ2GY/?tag=tolees-21) a 39.64 EUR (original: 99.9 EUR) (60.32 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Low Rise Skinny Sophie Va](https://m.media-amazon.com/images/I/31Lfylwg5HL._SL200_.jpg)](https://www.amazon.es/dp/B07JYRZ2GY/?tag=tolees-21)
+[![Tommy Hilfiger Low Rise Skinny Sophie Va](https://m.media-amazon.com/images/I/31Lfylwg5HL._SL400_.jpg)](https://www.amazon.es/dp/B07JYRZ2GY/?tag=tolees-21)
 
 🔎:
 

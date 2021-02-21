@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Streaker 2.0 Shortsleeve con un 20.36 % de descuento'
 date: 2020-02-18 10:41:19
-image: 'https://m.media-amazon.com/images/I/31P6HPSvuGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31P6HPSvuGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.6'
 
 En este momento está [Under Armour UA Streaker 2.0 Shortsleeve Camiseta  Hombre  Rojo  Beta Red/Reflective 632   L](https://www.amazon.es/dp/B07J3CQQLD/?tag=tolees-21) a 10.6 EUR (original: 13.31 EUR) (20.36 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Streaker 2.0 Shortsleeve](https://m.media-amazon.com/images/I/31P6HPSvuGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07J3CQQLD/?tag=tolees-21)
+[![Under Armour UA Streaker 2.0 Shortsleeve](https://m.media-amazon.com/images/I/31P6HPSvuGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07J3CQQLD/?tag=tolees-21)
 
 🔎:
 

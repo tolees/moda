@@ -2,7 +2,7 @@
 layout: post
 title: 'Daclay Zapatos niños Deportivo Transpira al 34.83 % de rebaja'
 date: 2020-03-06 14:32:26
-image: 'https://m.media-amazon.com/images/I/41D5tpzIpDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D5tpzIpDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Tienes [Daclay Zapatos niños Deportivo Transpirable y Transpirable con Parte Superior de Cuero cómoda con Zapatillas Velcro niña Sneakers  28 EU  Negro ](https://www.amazon.es/dp/B07B7D84BQ/?tag=tolees-21) con precio final de  14.99 EUR (original: 23.0 EUR) (34.83 %  de rebaja) aqui!
 
-[![Daclay Zapatos niños Deportivo Transpira](https://m.media-amazon.com/images/I/41D5tpzIpDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B7D84BQ/?tag=tolees-21)
+[![Daclay Zapatos niños Deportivo Transpira](https://m.media-amazon.com/images/I/41D5tpzIpDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B7D84BQ/?tag=tolees-21)
 
 🔎:
 

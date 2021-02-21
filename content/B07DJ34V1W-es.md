@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Rubidia A  Zapatillas para Mujer  al 40.00 % de descuento'
 date: 2020-07-30 06:20:12
-image: 'https://m.media-amazon.com/images/I/41GHTXuHN-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GHTXuHN-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.94'
 
 Está [Geox D Rubidia A  Zapatillas para Mujer  Beige  Light Taupe C6738   40 EU](https://www.amazon.es/dp/B07DJ34V1W/?tag=tolees-21) con 40.00 de descuento por 71.94 EUR (original: 119.9 EUR) en el siguiente enlace!
 
-[![Geox D Rubidia A  Zapatillas para Mujer ](https://m.media-amazon.com/images/I/41GHTXuHN-L._SL200_.jpg)](https://www.amazon.es/dp/B07DJ34V1W/?tag=tolees-21)
+[![Geox D Rubidia A  Zapatillas para Mujer ](https://m.media-amazon.com/images/I/41GHTXuHN-L._SL400_.jpg)](https://www.amazon.es/dp/B07DJ34V1W/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'find. NEWSTW046 vaqueros mujer  Azul  Da al 60.00 % de descuento'
 date: 2020-01-14 13:29:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ir2Oe1nWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ir2Oe1nWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.8'
 
 Está [find. NEWSTW046 vaqueros mujer  Azul  Dark Vintage   W27/L32](https://www.amazon.es/dp/B075X1TTSC/?tag=tolees-21) con 60.00 de descuento por 10.8 EUR (original: 27 EUR) en el siguiente enlace!
 
-[![find. NEWSTW046 vaqueros mujer  Azul  Da](https://images-eu.ssl-images-amazon.com/images/I/41Ir2Oe1nWL._SL200_.jpg)](https://www.amazon.es/dp/B075X1TTSC/?tag=tolees-21)
+[![find. NEWSTW046 vaqueros mujer  Azul  Da](https://images-eu.ssl-images-amazon.com/images/I/41Ir2Oe1nWL._SL400_.jpg)](https://www.amazon.es/dp/B075X1TTSC/?tag=tolees-21)
 
 ℹ️:
 

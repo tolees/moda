@@ -2,7 +2,7 @@
 layout: post
 title: 'REPLAY W2266a.000.52166 Blusa  Multicolo al 23.82 % de rebaja'
 date: 2020-05-13 17:44:21
-image: 'https://m.media-amazon.com/images/I/41k0KlEYeSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k0KlEYeSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.73'
 
 Tienes [REPLAY W2266a.000.52166 Blusa  Multicolor  Blue/Red/Azule 10   Medium para Mujer](https://www.amazon.es/dp/B07L8WHM9C/?tag=tolees-21) con precio final de  8.73 EUR (original: 11.46 EUR) (23.82 %  de rebaja) aqui!
 
-[![REPLAY W2266a.000.52166 Blusa  Multicolo](https://m.media-amazon.com/images/I/41k0KlEYeSL._SL200_.jpg)](https://www.amazon.es/dp/B07L8WHM9C/?tag=tolees-21)
+[![REPLAY W2266a.000.52166 Blusa  Multicolo](https://m.media-amazon.com/images/I/41k0KlEYeSL._SL400_.jpg)](https://www.amazon.es/dp/B07L8WHM9C/?tag=tolees-21)
 
 🔎:
 

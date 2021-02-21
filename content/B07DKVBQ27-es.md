@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Sport Th3377 Camiseta  Plateado  al 31.58 % de descuento'
 date: 2020-01-07 08:04:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417gLXsZH4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417gLXsZH4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.79'
 
 Ahora mismo tienes [Lacoste Sport Th3377 Camiseta  Plateado  Argent Chiné/Noir Y5j   Medium  Talla del Fabricante: 4  para Hombre](https://www.amazon.es/dp/B07DKVBQ27/?tag=tolees-21) a 30.79 EUR (original: 45 EUR) (31.58 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Sport Th3377 Camiseta  Plateado ](https://images-eu.ssl-images-amazon.com/images/I/417gLXsZH4L._SL200_.jpg)](https://www.amazon.es/dp/B07DKVBQ27/?tag=tolees-21)
+[![Lacoste Sport Th3377 Camiseta  Plateado ](https://images-eu.ssl-images-amazon.com/images/I/417gLXsZH4L._SL400_.jpg)](https://www.amazon.es/dp/B07DKVBQ27/?tag=tolees-21)
 
 🔎:
 

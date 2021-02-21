@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Gen Vaqueros Straight  Azul   al 45.31 % de descuento'
 date: 2020-08-27 14:03:39
-image: 'https://m.media-amazon.com/images/I/41BtyjkBZpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BtyjkBZpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.49'
 
 Ahora mismo tienes [Pepe Jeans Gen Vaqueros Straight  Azul  000Denim 000   W32/L32  Talla del Fabricante: 32  para Mujer](https://www.amazon.es/dp/B07WZGXSRD/?tag=tolees-21) a 46.49 EUR (original: 85.0 EUR) (45.31 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Gen Vaqueros Straight  Azul  ](https://m.media-amazon.com/images/I/41BtyjkBZpL._SL200_.jpg)](https://www.amazon.es/dp/B07WZGXSRD/?tag=tolees-21)
+[![Pepe Jeans Gen Vaqueros Straight  Azul  ](https://m.media-amazon.com/images/I/41BtyjkBZpL._SL400_.jpg)](https://www.amazon.es/dp/B07WZGXSRD/?tag=tolees-21)
 
 🔎:
 

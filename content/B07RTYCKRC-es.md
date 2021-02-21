@@ -2,7 +2,7 @@
 layout: post
 title: 'Emoji Camiseta de Manga Corta para niñas al 30.89 % de descuento'
 date: 2020-06-16 09:46:00
-image: 'https://m.media-amazon.com/images/I/31stUUURkDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31stUUURkDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.95'
 
 Ahora mismo tienes [Emoji Camiseta de Manga Corta para niñas Llama Blanco 12-13 Años](https://www.amazon.es/dp/B07RTYCKRC/?tag=tolees-21) a 8.95 EUR (original: 12.95 EUR) (30.89 %  de descuento) en el siguiente enlace!
 
-[![Emoji Camiseta de Manga Corta para niñas](https://m.media-amazon.com/images/I/31stUUURkDL._SL200_.jpg)](https://www.amazon.es/dp/B07RTYCKRC/?tag=tolees-21)
+[![Emoji Camiseta de Manga Corta para niñas](https://m.media-amazon.com/images/I/31stUUURkDL._SL400_.jpg)](https://www.amazon.es/dp/B07RTYCKRC/?tag=tolees-21)
 
 🔎:
 

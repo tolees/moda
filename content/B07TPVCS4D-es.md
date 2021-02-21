@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Merchant Milled Lite L/s Shirt  al 67.12 % de rebaja'
 date: 2020-08-05 16:02:54
-image: 'https://m.media-amazon.com/images/I/41TbnkhPlYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TbnkhPlYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.01'
 
 Tienes [Superdry Merchant Milled Lite L/s Shirt Camisa  Azul  Indigo Grit ZLK   S para Hombre](https://www.amazon.es/dp/B07TPVCS4D/?tag=tolees-21) con precio final de  23.01 EUR (original: 69.99 EUR) (67.12 %  de rebaja) aqui!
 
-[![Superdry Merchant Milled Lite L/s Shirt ](https://m.media-amazon.com/images/I/41TbnkhPlYL._SL200_.jpg)](https://www.amazon.es/dp/B07TPVCS4D/?tag=tolees-21)
+[![Superdry Merchant Milled Lite L/s Shirt ](https://m.media-amazon.com/images/I/41TbnkhPlYL._SL400_.jpg)](https://www.amazon.es/dp/B07TPVCS4D/?tag=tolees-21)
 
 🔎:
 

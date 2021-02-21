@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Malone Vaqueros  Washed Black OW  30 al 40.00 % de descuento'
 date: 2020-10-09 19:11:19
-image: 'https://m.media-amazon.com/images/I/313SlcZ6ZVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313SlcZ6ZVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.97'
 
 Ahora mismo tienes [Lee Malone Vaqueros  Washed Black OW  30W / 32L para Hombre](https://www.amazon.es/dp/B07VR2HWND/?tag=tolees-21) a 53.97 EUR (original: 89.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Lee Malone Vaqueros  Washed Black OW  30](https://m.media-amazon.com/images/I/313SlcZ6ZVL._SL200_.jpg)](https://www.amazon.es/dp/B07VR2HWND/?tag=tolees-21)
+[![Lee Malone Vaqueros  Washed Black OW  30](https://m.media-amazon.com/images/I/313SlcZ6ZVL._SL400_.jpg)](https://www.amazon.es/dp/B07VR2HWND/?tag=tolees-21)
 
 🔎:
 

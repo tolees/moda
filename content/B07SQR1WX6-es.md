@@ -2,7 +2,7 @@
 layout: post
 title: 'Quiksilver Molokai Tropical Flow  Zapato al 15.01 % de descuento'
 date: 2020-06-14 11:47:34
-image: 'https://m.media-amazon.com/images/I/51f0J3getcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51f0J3getcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Está [Quiksilver Molokai Tropical Flow  Zapatos de Playa y Piscina para Hombre  Multicolor  Black/White/Blue Xkwb   43 EU](https://www.amazon.es/dp/B07SQR1WX6/?tag=tolees-21) con 15.01 de descuento por 16.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Quiksilver Molokai Tropical Flow  Zapato](https://m.media-amazon.com/images/I/51f0J3getcL._SL200_.jpg)](https://www.amazon.es/dp/B07SQR1WX6/?tag=tolees-21)
+[![Quiksilver Molokai Tropical Flow  Zapato](https://m.media-amazon.com/images/I/51f0J3getcL._SL400_.jpg)](https://www.amazon.es/dp/B07SQR1WX6/?tag=tolees-21)
 
 ℹ️:
 

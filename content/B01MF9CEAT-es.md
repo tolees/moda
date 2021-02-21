@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Work Relaxed Fit: Hobbes-Frat S al 28.53 % de rebaja'
 date: 2020-08-20 04:43:43
-image: 'https://m.media-amazon.com/images/I/31CgyM-y9UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CgyM-y9UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.40500000000001'
 
 Tienes [Skechers Work Relaxed Fit: Hobbes-Frat SR  Zapatos de Seguridad para Hombre  Negro  Blk   39.5 EU](https://www.amazon.es/dp/B01MF9CEAT/?tag=tolees-21) con precio final de  64.29 EUR (original: 89.95 EUR) (28.53 %  de rebaja) aqui!
 
-[![Skechers Work Relaxed Fit: Hobbes-Frat S](https://m.media-amazon.com/images/I/31CgyM-y9UL._SL200_.jpg)](https://www.amazon.es/dp/B01MF9CEAT/?tag=tolees-21)
+[![Skechers Work Relaxed Fit: Hobbes-Frat S](https://m.media-amazon.com/images/I/31CgyM-y9UL._SL400_.jpg)](https://www.amazon.es/dp/B01MF9CEAT/?tag=tolees-21)
 
 🔎:
 

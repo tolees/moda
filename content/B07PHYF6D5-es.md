@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 58.62 % en Refresh 69188  Botines para Mujer  Marró'
 date: 2020-05-11 14:34:50
-image: 'https://m.media-amazon.com/images/I/41hoI3tajQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hoI3tajQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.67'
 
 Tienes [Refresh 69188  Botines para Mujer  Marrón Camel  38 EU](https://www.amazon.es/dp/B07PHYF6D5/?tag=tolees-21) con un 58.62 % de descuento con precio de oferta de 20.67 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![Refresh 69188  Botines para Mujer  Marró](https://m.media-amazon.com/images/I/41hoI3tajQL._SL200_.jpg)](https://www.amazon.es/dp/B07PHYF6D5/?tag=tolees-21)
+[![Refresh 69188  Botines para Mujer  Marró](https://m.media-amazon.com/images/I/41hoI3tajQL._SL400_.jpg)](https://www.amazon.es/dp/B07PHYF6D5/?tag=tolees-21)
 
 ℹ️:
 

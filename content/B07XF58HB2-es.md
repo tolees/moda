@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Lay D Down II  Chaqueta de esqu al 66.26 % de descuento'
 date: 2020-09-30 11:03:08
-image: 'https://m.media-amazon.com/images/I/41MaDg8+RmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MaDg8+RmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '84.34'
 
 Ahora mismo tienes [Columbia Lay D Down II  Chaqueta de esquí para Mujer](https://www.amazon.es/dp/B07XF58HB2/?tag=tolees-21) a 84.34 EUR (original: 249.99 EUR) (66.26 %  de descuento) en el siguiente enlace!
 
-[![Columbia Lay D Down II  Chaqueta de esqu](https://m.media-amazon.com/images/I/41MaDg8+RmL._SL200_.jpg)](https://www.amazon.es/dp/B07XF58HB2/?tag=tolees-21)
+[![Columbia Lay D Down II  Chaqueta de esqu](https://m.media-amazon.com/images/I/41MaDg8+RmL._SL400_.jpg)](https://www.amazon.es/dp/B07XF58HB2/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 73.27 % en G-STAR RAW Revend Skinny Vaqueros  Dk Ag'
 date: 2020-05-25 09:13:07
-image: 'https://m.media-amazon.com/images/I/41I+KRo2FIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I+KRo2FIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.72'
 
 Tienes [G-STAR RAW Revend Skinny Vaqueros  Dk Aged 6590-89  40W / 36L para Hombre](https://www.amazon.es/dp/B013X5OU5E/?tag=tolees-21) con un 73.27 % de descuento con precio de oferta de 26.72 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Revend Skinny Vaqueros  Dk Ag](https://m.media-amazon.com/images/I/41I+KRo2FIL._SL200_.jpg)](https://www.amazon.es/dp/B013X5OU5E/?tag=tolees-21)
+[![G-STAR RAW Revend Skinny Vaqueros  Dk Ag](https://m.media-amazon.com/images/I/41I+KRo2FIL._SL400_.jpg)](https://www.amazon.es/dp/B013X5OU5E/?tag=tolees-21)
 
 ℹ️:
 

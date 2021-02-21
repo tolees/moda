@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.02 % en Timberland Earthkeepers Oak Bluffs - San'
 date: 2020-07-08 14:07:20
-image: 'https://m.media-amazon.com/images/I/41WiqiGjiuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WiqiGjiuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.49'
 
 Tienes [Timberland Earthkeepers Oak Bluffs - Sandalias de cuero niño  Color Gris  Talla 29](https://www.amazon.es/dp/B00QKKWDTU/?tag=tolees-21) con un 37.02 % de descuento con precio de oferta de 31.49 EUR (original: 50.0 EUR) en el siguiente enlace!
 
-[![Timberland Earthkeepers Oak Bluffs - San](https://m.media-amazon.com/images/I/41WiqiGjiuL._SL200_.jpg)](https://www.amazon.es/dp/B00QKKWDTU/?tag=tolees-21)
+[![Timberland Earthkeepers Oak Bluffs - San](https://m.media-amazon.com/images/I/41WiqiGjiuL._SL400_.jpg)](https://www.amazon.es/dp/B00QKKWDTU/?tag=tolees-21)
 
 ℹ️:
 

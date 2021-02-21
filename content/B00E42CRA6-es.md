@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Bradstreet Ox  Zapatos de Cor al 37.73 % de descuento'
 date: 2020-06-23 07:31:52
-image: 'https://m.media-amazon.com/images/I/31fDBfNIY5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fDBfNIY5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '84.0'
 
 Está [Timberland Bradstreet Ox  Zapatos de Cordones Oxford para Hombre  Marrón Dark Brown 242  43 1/2 EU](https://www.amazon.es/dp/B00E42CRA6/?tag=tolees-21) con 37.73 de descuento por 84.0 EUR (original: 134.9 EUR) en el siguiente enlace!
 
-[![Timberland Bradstreet Ox  Zapatos de Cor](https://m.media-amazon.com/images/I/31fDBfNIY5L._SL200_.jpg)](https://www.amazon.es/dp/B00E42CRA6/?tag=tolees-21)
+[![Timberland Bradstreet Ox  Zapatos de Cor](https://m.media-amazon.com/images/I/31fDBfNIY5L._SL400_.jpg)](https://www.amazon.es/dp/B00E42CRA6/?tag=tolees-21)
 
 ℹ️:
 

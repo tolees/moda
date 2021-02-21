@@ -2,7 +2,7 @@
 layout: post
 title: 'Reslad Camisa vaquera para hombre Slim F al 57.18 % de descuento'
 date: 2020-08-26 14:00:51
-image: 'https://m.media-amazon.com/images/I/51oE5X09H-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oE5X09H-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.95'
 
 Ahora mismo tienes [Reslad Camisa vaquera para hombre Slim Fit Vintage Denim Camisa vaquera color azul desgastado | Camisa de ocio 100% algodón RS-7109 azul S](https://www.amazon.es/dp/B00MJ2YPMQ/?tag=tolees-21) a 29.95 EUR (original: 69.95 EUR) (57.18 %  de descuento) en el siguiente enlace!
 
-[![Reslad Camisa vaquera para hombre Slim F](https://m.media-amazon.com/images/I/51oE5X09H-L._SL200_.jpg)](https://www.amazon.es/dp/B00MJ2YPMQ/?tag=tolees-21)
+[![Reslad Camisa vaquera para hombre Slim F](https://m.media-amazon.com/images/I/51oE5X09H-L._SL400_.jpg)](https://www.amazon.es/dp/B00MJ2YPMQ/?tag=tolees-21)
 
 🔎:
 

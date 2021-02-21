@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Camiseta Manga Cort al 15.38 % de descuento'
 date: 2020-06-22 21:45:37
-image: 'https://m.media-amazon.com/images/I/41BlT3eFU2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BlT3eFU2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.4'
 
 Ahora mismo tienes [Marca Amazon - find. Camiseta Manga Corta con Textura  Hombre  Beige  Oatmeal   S  Label: S](https://www.amazon.es/dp/B077NJZZRP/?tag=tolees-21) a 4.4 EUR (original: 5.2 EUR) (15.38 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - find. Camiseta Manga Cort](https://m.media-amazon.com/images/I/41BlT3eFU2L._SL200_.jpg)](https://www.amazon.es/dp/B077NJZZRP/?tag=tolees-21)
+[![Marca Amazon - find. Camiseta Manga Cort](https://m.media-amazon.com/images/I/41BlT3eFU2L._SL400_.jpg)](https://www.amazon.es/dp/B077NJZZRP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Baya Clog Kids  Zuecos Unisex Niño con un 35.14 % de descuento'
 date: 2020-03-29 18:58:12
-image: 'https://m.media-amazon.com/images/I/41eqFU-ZE2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eqFU-ZE2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.75'
 
 En este momento está [Crocs Baya Clog Kids  Zuecos Unisex Niños  Azul  Navy 410   28/29 EU](https://www.amazon.es/dp/B07CN7J3YQ/?tag=tolees-21) a 20.75 EUR (original: 31.99 EUR) (35.14 %  de descuento) en el siguiente enlace!
 
-[![Crocs Baya Clog Kids  Zuecos Unisex Niño](https://m.media-amazon.com/images/I/41eqFU-ZE2L._SL200_.jpg)](https://www.amazon.es/dp/B07CN7J3YQ/?tag=tolees-21)
+[![Crocs Baya Clog Kids  Zuecos Unisex Niño](https://m.media-amazon.com/images/I/41eqFU-ZE2L._SL400_.jpg)](https://www.amazon.es/dp/B07CN7J3YQ/?tag=tolees-21)
 
 🔎:
 

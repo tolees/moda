@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 099cc1g012 Chaqueta  Marró al 77.86 % de descuento'
 date: 2020-05-12 11:26:29
-image: 'https://m.media-amazon.com/images/I/51sadjDUWhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sadjDUWhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.71'
 
 Ahora mismo tienes [edc by Esprit 099cc1g012 Chaqueta  Marrón  Camel 230   X-Small para Mujer](https://www.amazon.es/dp/B07VD11JR7/?tag=tolees-21) a 17.71 EUR (original: 79.99 EUR) (77.86 %  de descuento) en el siguiente enlace!
 
-[![edc by Esprit 099cc1g012 Chaqueta  Marró](https://m.media-amazon.com/images/I/51sadjDUWhL._SL200_.jpg)](https://www.amazon.es/dp/B07VD11JR7/?tag=tolees-21)
+[![edc by Esprit 099cc1g012 Chaqueta  Marró](https://m.media-amazon.com/images/I/51sadjDUWhL._SL400_.jpg)](https://www.amazon.es/dp/B07VD11JR7/?tag=tolees-21)
 
 🔎:
 

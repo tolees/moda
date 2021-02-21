@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Wells A  Zapatillas para Hombre   al 21.96 % de descuento'
 date: 2020-07-01 13:43:38
-image: 'https://m.media-amazon.com/images/I/41quZoQ3QBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41quZoQ3QBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.62333333333333'
 
 Está [Geox U Wells A  Zapatillas para Hombre  Azul  Navy   42 EU](https://www.amazon.es/dp/B076X6FBTC/?tag=tolees-21) con 21.96 de descuento por 77.96 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Geox U Wells A  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/41quZoQ3QBL._SL200_.jpg)](https://www.amazon.es/dp/B076X6FBTC/?tag=tolees-21)
+[![Geox U Wells A  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/41quZoQ3QBL._SL400_.jpg)](https://www.amazon.es/dp/B076X6FBTC/?tag=tolees-21)
 
 ℹ️:
 

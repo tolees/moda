@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 61.46 % en Gant D1. The Active Cloud Jacket Chaquet'
 date: 2020-03-20 08:16:52
-image: 'https://m.media-amazon.com/images/I/41dnD-20+gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dnD-20+gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '136.175'
 
 Tienes [Gant D1. The Active Cloud Jacket Chaqueta  Rojo  Mahogany Red 617   XXX-Large para Hombre](https://www.amazon.es/dp/B07MVQWC5L/?tag=tolees-21) con un 61.46 % de descuento con precio de oferta de 115.61 EUR (original: 299.99 EUR) en el siguiente enlace!
 
-[![Gant D1. The Active Cloud Jacket Chaquet](https://m.media-amazon.com/images/I/41dnD-20+gL._SL200_.jpg)](https://www.amazon.es/dp/B07MVQWC5L/?tag=tolees-21)
+[![Gant D1. The Active Cloud Jacket Chaquet](https://m.media-amazon.com/images/I/41dnD-20+gL._SL400_.jpg)](https://www.amazon.es/dp/B07MVQWC5L/?tag=tolees-21)
 
 ℹ️:
 

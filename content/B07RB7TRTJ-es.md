@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Horizon Explorer Chaqueta Térmi al 41.78 % de descuento'
 date: 2020-02-07 16:27:53
-image: 'https://m.media-amazon.com/images/I/31bPXQQIYdL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bPXQQIYdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '116.44'
 
 Ahora mismo tienes [Columbia Horizon Explorer Chaqueta Térmica Impermeable  Hombre  Negro  Black   M](https://www.amazon.es/dp/B07RB7TRTJ/?tag=tolees-21) a 116.44 EUR (original: 199.99 EUR) (41.78 %  de descuento) en el siguiente enlace!
 
-[![Columbia Horizon Explorer Chaqueta Térmi](https://m.media-amazon.com/images/I/31bPXQQIYdL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RB7TRTJ/?tag=tolees-21)
+[![Columbia Horizon Explorer Chaqueta Térmi](https://m.media-amazon.com/images/I/31bPXQQIYdL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RB7TRTJ/?tag=tolees-21)
 
 🔎:
 

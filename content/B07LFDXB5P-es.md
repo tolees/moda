@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 49.13 % en Levi s 501 Original Fit Jeans Pantalón v'
 date: 2020-06-24 16:51:40
-image: 'https://m.media-amazon.com/images/I/41gbg3Tn5zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gbg3Tn5zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.47'
 
 Tienes [Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Space Money  34W / 36L para Hombre](https://www.amazon.es/dp/B07LFDXB5P/?tag=tolees-21) con un 49.13 % de descuento con precio de oferta de 40.47 EUR (original: 79.55 EUR) en el siguiente enlace!
 
-[![Levi s 501 Original Fit Jeans Pantalón v](https://m.media-amazon.com/images/I/41gbg3Tn5zL._SL200_.jpg)](https://www.amazon.es/dp/B07LFDXB5P/?tag=tolees-21)
+[![Levi s 501 Original Fit Jeans Pantalón v](https://m.media-amazon.com/images/I/41gbg3Tn5zL._SL400_.jpg)](https://www.amazon.es/dp/B07LFDXB5P/?tag=tolees-21)
 
 ℹ️:
 

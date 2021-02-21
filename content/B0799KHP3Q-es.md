@@ -2,7 +2,7 @@
 layout: post
 title: 'KARACTERMANIA Mickey Mouse Crayons Bolso con un 20.00 % de descuento'
 date: 2020-08-23 18:10:43
-image: 'https://m.media-amazon.com/images/I/51iaR020xLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iaR020xLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.8'
 
 En este momento está [KARACTERMANIA Mickey Mouse Crayons Bolso bandolera  28 cm  Rojo](https://www.amazon.es/dp/B0799KHP3Q/?tag=tolees-21) a 10.8 EUR (original: 13.5 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![KARACTERMANIA Mickey Mouse Crayons Bolso](https://m.media-amazon.com/images/I/51iaR020xLL._SL200_.jpg)](https://www.amazon.es/dp/B0799KHP3Q/?tag=tolees-21)
+[![KARACTERMANIA Mickey Mouse Crayons Bolso](https://m.media-amazon.com/images/I/51iaR020xLL._SL400_.jpg)](https://www.amazon.es/dp/B0799KHP3Q/?tag=tolees-21)
 
 🔎:
 

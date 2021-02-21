@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen W Seven J Chaqueta  Mujer   al 43.82 % de rebaja'
 date: 2020-03-01 06:42:48
-image: 'https://m.media-amazon.com/images/I/31zTrjwl1FL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zTrjwl1FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.86'
 
 Tienes [Helly Hansen W Seven J Chaqueta  Mujer  Negro  M](https://www.amazon.es/dp/B006SWGJF4/?tag=tolees-21) con precio final de  61.8 EUR (original: 110.0 EUR) (43.82 %  de rebaja) aqui!
 
-[![Helly Hansen W Seven J Chaqueta  Mujer  ](https://m.media-amazon.com/images/I/31zTrjwl1FL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B006SWGJF4/?tag=tolees-21)
+[![Helly Hansen W Seven J Chaqueta  Mujer  ](https://m.media-amazon.com/images/I/31zTrjwl1FL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B006SWGJF4/?tag=tolees-21)
 
 🔎:
 

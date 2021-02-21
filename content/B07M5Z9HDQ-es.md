@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Revend Skinny Vaqueros  Mediu al 81.83 % de rebaja'
 date: 2020-04-06 15:47:39
-image: 'https://m.media-amazon.com/images/I/41zm5ya9MTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zm5ya9MTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.8'
 
 Tienes [G-STAR RAW Revend Skinny Vaqueros  Medium Aged Ripped  40W / 34L para Hombre](https://www.amazon.es/dp/B07M5Z9HDQ/?tag=tolees-21) con precio final de  21.8 EUR (original: 119.95 EUR) (81.83 %  de rebaja) aqui!
 
-[![G-STAR RAW Revend Skinny Vaqueros  Mediu](https://m.media-amazon.com/images/I/41zm5ya9MTL._SL200_.jpg)](https://www.amazon.es/dp/B07M5Z9HDQ/?tag=tolees-21)
+[![G-STAR RAW Revend Skinny Vaqueros  Mediu](https://m.media-amazon.com/images/I/41zm5ya9MTL._SL400_.jpg)](https://www.amazon.es/dp/B07M5Z9HDQ/?tag=tolees-21)
 
 🔎:
 

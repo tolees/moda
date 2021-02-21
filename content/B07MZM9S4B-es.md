@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Auriga Chaqueta   Black 999   al 42.64 % de rebaja'
 date: 2020-01-15 16:23:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IM6FiiBgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IM6FiiBgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.49'
 
 Tienes [Pepe Jeans Auriga Chaqueta   Black 999   11-12  Talla del Fabricante: 11/12 años  para Niñas](https://www.amazon.es/dp/B07MZM9S4B/?tag=tolees-21) con precio final de  54.49 EUR (original: 95 EUR) (42.64 %  de rebaja) aqui!
 
-[![Pepe Jeans Auriga Chaqueta   Black 999  ](https://images-eu.ssl-images-amazon.com/images/I/41IM6FiiBgL._SL200_.jpg)](https://www.amazon.es/dp/B07MZM9S4B/?tag=tolees-21)
+[![Pepe Jeans Auriga Chaqueta   Black 999  ](https://images-eu.ssl-images-amazon.com/images/I/41IM6FiiBgL._SL400_.jpg)](https://www.amazon.es/dp/B07MZM9S4B/?tag=tolees-21)
 
 🔎:
 

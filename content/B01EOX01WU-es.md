@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Coastal 2 Parka Chaqueta Im al 44.82 % de descuento'
 date: 2020-04-23 06:33:12
-image: 'https://m.media-amazon.com/images/I/41KBRsBfOPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KBRsBfOPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '148.99'
 
 Está [Helly Hansen Coastal 2 Parka Chaqueta Impermeable  Cortaviento y Transpirable para el Uso Diario  Hombre  Azul  Marino   XL](https://www.amazon.es/dp/B01EOX01WU/?tag=tolees-21) con 44.82 de descuento por 148.99 EUR (original: 270.0 EUR) en el siguiente enlace!
 
-[![Helly Hansen Coastal 2 Parka Chaqueta Im](https://m.media-amazon.com/images/I/41KBRsBfOPL._SL200_.jpg)](https://www.amazon.es/dp/B01EOX01WU/?tag=tolees-21)
+[![Helly Hansen Coastal 2 Parka Chaqueta Im](https://m.media-amazon.com/images/I/41KBRsBfOPL._SL400_.jpg)](https://www.amazon.es/dp/B01EOX01WU/?tag=tolees-21)
 
 ℹ️:
 

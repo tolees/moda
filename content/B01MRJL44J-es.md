@@ -2,7 +2,7 @@
 layout: post
 title: 'Asiv 20 Piezas Ropa y Zapatos para Muñec al 15.40 % de rebaja'
 date: 2020-04-18 13:03:05
-image: 'https://m.media-amazon.com/images/I/615viPa-RRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/615viPa-RRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.49'
 
 Tienes [Asiv 20 Piezas Ropa y Zapatos para Muñeca Doll - 10 Piezas Mini Falda de Moda y 10 Pares de Zapatos para Regalo de Niña](https://www.amazon.es/dp/B01MRJL44J/?tag=tolees-21) con precio final de  10.99 EUR (original: 12.99 EUR) (15.40 %  de rebaja) aqui!
 
-[![Asiv 20 Piezas Ropa y Zapatos para Muñec](https://m.media-amazon.com/images/I/615viPa-RRL._SL200_.jpg)](https://www.amazon.es/dp/B01MRJL44J/?tag=tolees-21)
+[![Asiv 20 Piezas Ropa y Zapatos para Muñec](https://m.media-amazon.com/images/I/615viPa-RRL._SL400_.jpg)](https://www.amazon.es/dp/B01MRJL44J/?tag=tolees-21)
 
 🔎:
 

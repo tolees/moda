@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Elcano Chaqueta  Marrón  Bras al 44.51 % de descuento'
 date: 2020-05-22 11:36:41
-image: 'https://m.media-amazon.com/images/I/41q-8+SJ0XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q-8+SJ0XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.48'
 
 Ahora mismo tienes [Pepe Jeans Elcano Chaqueta  Marrón  Brass 891   3-4 años  Talla del Fabricante: 3/4 años  para Niños](https://www.amazon.es/dp/B07MZPKWPX/?tag=tolees-21) a 60.48 EUR (original: 109.0 EUR) (44.51 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Elcano Chaqueta  Marrón  Bras](https://m.media-amazon.com/images/I/41q-8+SJ0XL._SL200_.jpg)](https://www.amazon.es/dp/B07MZPKWPX/?tag=tolees-21)
+[![Pepe Jeans Elcano Chaqueta  Marrón  Bras](https://m.media-amazon.com/images/I/41q-8+SJ0XL._SL400_.jpg)](https://www.amazon.es/dp/B07MZPKWPX/?tag=tolees-21)
 
 🔎:
 

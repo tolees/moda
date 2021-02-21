@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Liga Core H Camiseta de Manga Corta al 19.80 % de rebaja'
 date: 2020-09-06 07:05:32
-image: 'https://m.media-amazon.com/images/I/41ZLLOLl6vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZLLOLl6vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.976666666666667'
 
 Tienes [Puma Liga Core H Camiseta de Manga Corta  Hombre  Negro/Blanco Black White  M](https://www.amazon.es/dp/B07864WSDD/?tag=tolees-21) con precio final de  11.99 EUR (original: 14.95 EUR) (19.80 %  de rebaja) aqui!
 
-[![Puma Liga Core H Camiseta de Manga Corta](https://m.media-amazon.com/images/I/41ZLLOLl6vL._SL200_.jpg)](https://www.amazon.es/dp/B07864WSDD/?tag=tolees-21)
+[![Puma Liga Core H Camiseta de Manga Corta](https://m.media-amazon.com/images/I/41ZLLOLl6vL._SL400_.jpg)](https://www.amazon.es/dp/B07864WSDD/?tag=tolees-21)
 
 🔎:
 

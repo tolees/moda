@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Maine BC-p Vaqueros Straight  Azul  al 36.76 % de descuento'
 date: 2020-07-13 17:29:39
-image: 'https://m.media-amazon.com/images/I/31NUqYRBTAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NUqYRBTAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.21'
 
 Ahora mismo tienes [BOSS Maine BC-p Vaqueros Straight  Azul  Navy 410   33W / 36L para Hombre](https://www.amazon.es/dp/B07PMS5V2L/?tag=tolees-21) a 63.21 EUR (original: 99.95 EUR) (36.76 %  de descuento) en el siguiente enlace!
 
-[![BOSS Maine BC-p Vaqueros Straight  Azul ](https://m.media-amazon.com/images/I/31NUqYRBTAL._SL200_.jpg)](https://www.amazon.es/dp/B07PMS5V2L/?tag=tolees-21)
+[![BOSS Maine BC-p Vaqueros Straight  Azul ](https://m.media-amazon.com/images/I/31NUqYRBTAL._SL400_.jpg)](https://www.amazon.es/dp/B07PMS5V2L/?tag=tolees-21)
 
 🔎:
 

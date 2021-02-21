@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Tactical All Season Chaquet al 52.01 % de rebaja'
 date: 2020-03-28 12:52:14
-image: 'https://m.media-amazon.com/images/I/41Rb3jmqkWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rb3jmqkWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.63'
 
 Tienes [Under Armour Tactical All Season Chaqueta  Hombre  Negro  LG](https://www.amazon.es/dp/B07L6K8W9F/?tag=tolees-21) con precio final de  47.99 EUR (original: 100.0 EUR) (52.01 %  de rebaja) aqui!
 
-[![Under Armour Tactical All Season Chaquet](https://m.media-amazon.com/images/I/41Rb3jmqkWL._SL200_.jpg)](https://www.amazon.es/dp/B07L6K8W9F/?tag=tolees-21)
+[![Under Armour Tactical All Season Chaquet](https://m.media-amazon.com/images/I/41Rb3jmqkWL._SL400_.jpg)](https://www.amazon.es/dp/B07L6K8W9F/?tag=tolees-21)
 
 🔎:
 

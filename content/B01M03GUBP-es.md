@@ -2,7 +2,7 @@
 layout: post
 title: 'Furla - Stacy S Drawstring  Bolso Mujer  con un 50.19 % de descuento'
 date: 2020-05-29 14:14:20
-image: 'https://m.media-amazon.com/images/I/41d4pr1GHXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41d4pr1GHXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '145.94'
 
 En este momento está [Furla - Stacy S Drawstring  Bolso Mujer  Negro  Onyx   13x22x26 cm  B x H T ](https://www.amazon.es/dp/B01M03GUBP/?tag=tolees-21) a 145.94 EUR (original: 293.0 EUR) (50.19 %  de descuento) en el siguiente enlace!
 
-[![Furla - Stacy S Drawstring  Bolso Mujer ](https://m.media-amazon.com/images/I/41d4pr1GHXL._SL200_.jpg)](https://www.amazon.es/dp/B01M03GUBP/?tag=tolees-21)
+[![Furla - Stacy S Drawstring  Bolso Mujer ](https://m.media-amazon.com/images/I/41d4pr1GHXL._SL400_.jpg)](https://www.amazon.es/dp/B01M03GUBP/?tag=tolees-21)
 
 🔎:
 

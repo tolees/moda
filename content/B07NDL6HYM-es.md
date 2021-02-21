@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Whistler Down Parka  Gris  As al 70.12 % de descuento'
 date: 2020-08-30 19:33:28
-image: 'https://m.media-amazon.com/images/I/41iHLafwylL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iHLafwylL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.68'
 
 Está [G-STAR RAW Whistler Down Parka  Gris  Asfalt 995   XX-Small para Hombre](https://www.amazon.es/dp/B07NDL6HYM/?tag=tolees-21) con 70.12 de descuento por 74.68 EUR (original: 249.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Whistler Down Parka  Gris  As](https://m.media-amazon.com/images/I/41iHLafwylL._SL200_.jpg)](https://www.amazon.es/dp/B07NDL6HYM/?tag=tolees-21)
+[![G-STAR RAW Whistler Down Parka  Gris  As](https://m.media-amazon.com/images/I/41iHLafwylL._SL400_.jpg)](https://www.amazon.es/dp/B07NDL6HYM/?tag=tolees-21)
 
 ℹ️:
 

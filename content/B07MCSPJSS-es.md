@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri ABERDAR WOM Chaqueta  Azul  BL al 75.12 % de descuento'
 date: 2020-05-16 05:03:45
-image: 'https://m.media-amazon.com/images/I/41jNfox7NxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jNfox7NxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.4'
 
 Ahora mismo tienes [Napapijri ABERDAR WOM Chaqueta  Azul  BLU Marine 176   XL para Mujer](https://www.amazon.es/dp/B07MCSPJSS/?tag=tolees-21) a 74.4 EUR (original: 299.0 EUR) (75.12 %  de descuento) en el siguiente enlace!
 
-[![Napapijri ABERDAR WOM Chaqueta  Azul  BL](https://m.media-amazon.com/images/I/41jNfox7NxL._SL200_.jpg)](https://www.amazon.es/dp/B07MCSPJSS/?tag=tolees-21)
+[![Napapijri ABERDAR WOM Chaqueta  Azul  BL](https://m.media-amazon.com/images/I/41jNfox7NxL._SL400_.jpg)](https://www.amazon.es/dp/B07MCSPJSS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Vintage Logo Tri tee Camiseta d al 48.59 % de rebaja'
 date: 2020-10-07 19:03:15
-image: 'https://m.media-amazon.com/images/I/41Xt2qSjXTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Xt2qSjXTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Tienes [Superdry Vintage Logo Tri tee Camiseta de Tirantes  Gris  Montana Grey Grit Vy8   M para Hombre](https://www.amazon.es/dp/B07FKF3QT4/?tag=tolees-21) con precio final de  17.99 EUR (original: 34.99 EUR) (48.59 %  de rebaja) aqui!
 
-[![Superdry Vintage Logo Tri tee Camiseta d](https://m.media-amazon.com/images/I/41Xt2qSjXTL._SL200_.jpg)](https://www.amazon.es/dp/B07FKF3QT4/?tag=tolees-21)
+[![Superdry Vintage Logo Tri tee Camiseta d](https://m.media-amazon.com/images/I/41Xt2qSjXTL._SL400_.jpg)](https://www.amazon.es/dp/B07FKF3QT4/?tag=tolees-21)
 
 🔎:
 

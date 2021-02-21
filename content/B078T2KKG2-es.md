@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga JS Striped Jersey de Fútbol de al 68.30 % de descuento'
 date: 2020-03-19 14:53:30
-image: 'https://m.media-amazon.com/images/I/415SlTrDdrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415SlTrDdrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.91'
 
 Ahora mismo tienes [PUMA Liga JS Striped Jersey de Fútbol de Rayas  Hombre  Verde  Pepper Green/White   3XL](https://www.amazon.es/dp/B078T2KKG2/?tag=tolees-21) a 7.91 EUR (original: 24.95 EUR) (68.30 %  de descuento) en el siguiente enlace!
 
-[![PUMA Liga JS Striped Jersey de Fútbol de](https://m.media-amazon.com/images/I/415SlTrDdrL._SL200_.jpg)](https://www.amazon.es/dp/B078T2KKG2/?tag=tolees-21)
+[![PUMA Liga JS Striped Jersey de Fútbol de](https://m.media-amazon.com/images/I/415SlTrDdrL._SL400_.jpg)](https://www.amazon.es/dp/B078T2KKG2/?tag=tolees-21)
 
 🔎:
 

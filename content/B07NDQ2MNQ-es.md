@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Alkyne Slim Camiseta  Negro   al 41.44 % de descuento'
 date: 2020-06-13 13:55:42
-image: 'https://m.media-amazon.com/images/I/31sqXz8p85L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sqXz8p85L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.54'
 
 Ahora mismo tienes [G-STAR RAW Alkyne Slim Camiseta  Negro  White 110   XX-Small para Hombre](https://www.amazon.es/dp/B07NDQ2MNQ/?tag=tolees-21) a 17.54 EUR (original: 29.95 EUR) (41.44 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Alkyne Slim Camiseta  Negro  ](https://m.media-amazon.com/images/I/31sqXz8p85L._SL200_.jpg)](https://www.amazon.es/dp/B07NDQ2MNQ/?tag=tolees-21)
+[![G-STAR RAW Alkyne Slim Camiseta  Negro  ](https://m.media-amazon.com/images/I/31sqXz8p85L._SL400_.jpg)](https://www.amazon.es/dp/B07NDQ2MNQ/?tag=tolees-21)
 
 🔎:
 

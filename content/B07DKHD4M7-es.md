@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Gabbie  Bolso bandolera para Muj al 40.00 % de descuento'
 date: 2020-02-08 19:00:58
-image: 'https://m.media-amazon.com/images/I/415WqhZ0EoL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415WqhZ0EoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.0'
 
 Ahora mismo tienes [Kipling Gabbie  Bolso bandolera para Mujer  Gris  Active Grey Bl   35.5 x 30 x 18.5 cm](https://www.amazon.es/dp/B07DKHD4M7/?tag=tolees-21) a 57.0 EUR (original: 95.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Kipling Gabbie  Bolso bandolera para Muj](https://m.media-amazon.com/images/I/415WqhZ0EoL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DKHD4M7/?tag=tolees-21)
+[![Kipling Gabbie  Bolso bandolera para Muj](https://m.media-amazon.com/images/I/415WqhZ0EoL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DKHD4M7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Jr Moss Chaqueta Impermeabl al 32.02 % de rebaja'
 date: 2020-03-02 09:43:29
-image: 'https://m.media-amazon.com/images/I/31C1IU3PZNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31C1IU3PZNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.99'
 
 Tienes [Helly Hansen Jr Moss Chaqueta Impermeable  Unisex niños  Black  8 YRS](https://www.amazon.es/dp/B07FHD9PQP/?tag=tolees-21) con precio final de  33.99 EUR (original: 50.0 EUR) (32.02 %  de rebaja) aqui!
 
-[![Helly Hansen Jr Moss Chaqueta Impermeabl](https://m.media-amazon.com/images/I/31C1IU3PZNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FHD9PQP/?tag=tolees-21)
+[![Helly Hansen Jr Moss Chaqueta Impermeabl](https://m.media-amazon.com/images/I/31C1IU3PZNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FHD9PQP/?tag=tolees-21)
 
 🔎:
 

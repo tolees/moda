@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 502 Regular Taper Vaqueros  Azul  al 66.91 % de rebaja'
 date: 2020-04-01 06:55:51
-image: 'https://m.media-amazon.com/images/I/41g8k+KB1aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41g8k+KB1aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.4'
 
 Tienes [Levi s 502 Regular Taper Vaqueros  Azul  Adriatico Adapt 0473   31W / 30L para Hombre](https://www.amazon.es/dp/B07KF4TL9Q/?tag=tolees-21) con precio final de  36.4 EUR (original: 110.0 EUR) (66.91 %  de rebaja) aqui!
 
-[![Levi s 502 Regular Taper Vaqueros  Azul ](https://m.media-amazon.com/images/I/41g8k+KB1aL._SL200_.jpg)](https://www.amazon.es/dp/B07KF4TL9Q/?tag=tolees-21)
+[![Levi s 502 Regular Taper Vaqueros  Azul ](https://m.media-amazon.com/images/I/41g8k+KB1aL._SL400_.jpg)](https://www.amazon.es/dp/B07KF4TL9Q/?tag=tolees-21)
 
 🔎:
 

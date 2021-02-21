@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Armour Insulated Hooded Cha con un 46.22 % de descuento'
 date: 2020-02-01 13:04:24
-image: 'https://m.media-amazon.com/images/I/41GwpDgOeQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GwpDgOeQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.91'
 
 En este momento está [Under Armour Armour Insulated Hooded Chaqueta  Hombre  Azul  MD](https://www.amazon.es/dp/B07L9HVS8G/?tag=tolees-21) a 69.91 EUR (original: 130.0 EUR) (46.22 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Armour Insulated Hooded Cha](https://m.media-amazon.com/images/I/41GwpDgOeQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L9HVS8G/?tag=tolees-21)
+[![Under Armour Armour Insulated Hooded Cha](https://m.media-amazon.com/images/I/41GwpDgOeQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L9HVS8G/?tag=tolees-21)
 
 🔎:
 

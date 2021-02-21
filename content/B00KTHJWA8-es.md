@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Tech Short Sleeve V-Twist C con un 42.50 % de descuento'
 date: 2020-04-22 07:28:17
-image: 'https://m.media-amazon.com/images/I/41R04M4+uxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R04M4+uxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.1'
 
 En este momento está [Under Armour Tech Short Sleeve V-Twist Camiseta  Mujer  Negro  Black/Metallic Silver 001   L](https://www.amazon.es/dp/B00KTHJWA8/?tag=tolees-21) a 16.1 EUR (original: 28.0 EUR) (42.50 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Tech Short Sleeve V-Twist C](https://m.media-amazon.com/images/I/41R04M4+uxL._SL200_.jpg)](https://www.amazon.es/dp/B00KTHJWA8/?tag=tolees-21)
+[![Under Armour Tech Short Sleeve V-Twist C](https://m.media-amazon.com/images/I/41R04M4+uxL._SL400_.jpg)](https://www.amazon.es/dp/B00KTHJWA8/?tag=tolees-21)
 
 🔎:
 

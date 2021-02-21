@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland - Patucos y casquillo para be al 36.02 % de rebaja'
 date: 2020-04-15 01:51:32
-image: 'https://m.media-amazon.com/images/I/51iAFYyCXkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iAFYyCXkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Tienes [Timberland - Patucos y casquillo para bebés  Multicolor  Amarillo/ Blanco   17](https://www.amazon.es/dp/B00HRIQU4S/?tag=tolees-21) con precio final de  31.99 EUR (original: 50.0 EUR) (36.02 %  de rebaja) aqui!
 
-[![Timberland - Patucos y casquillo para be](https://m.media-amazon.com/images/I/51iAFYyCXkL._SL200_.jpg)](https://www.amazon.es/dp/B00HRIQU4S/?tag=tolees-21)
+[![Timberland - Patucos y casquillo para be](https://m.media-amazon.com/images/I/51iAFYyCXkL._SL400_.jpg)](https://www.amazon.es/dp/B00HRIQU4S/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'GettyGears Bolero - Chaqueta de piel sin al 60.02 % de descuento'
 date: 2020-09-16 09:10:42
-image: 'https://m.media-amazon.com/images/I/41JIQO6G19L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JIQO6G19L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.9'
 
 Está [GettyGears Bolero - Chaqueta de piel sintética con broche de princesa  para vestido de niña de las flores  abrigo de hombros - Blanco - 6-8 años](https://www.amazon.es/dp/B07Z6RMFLY/?tag=tolees-21) con 60.02 de descuento por 32.9 EUR (original: 82.29 EUR) en el siguiente enlace!
 
-[![GettyGears Bolero - Chaqueta de piel sin](https://m.media-amazon.com/images/I/41JIQO6G19L._SL200_.jpg)](https://www.amazon.es/dp/B07Z6RMFLY/?tag=tolees-21)
+[![GettyGears Bolero - Chaqueta de piel sin](https://m.media-amazon.com/images/I/41JIQO6G19L._SL400_.jpg)](https://www.amazon.es/dp/B07Z6RMFLY/?tag=tolees-21)
 
 ℹ️:
 

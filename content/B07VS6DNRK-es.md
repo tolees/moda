@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Lacie Shirt LS W2 Camisa  al 72.89 % de descuento'
 date: 2020-08-15 22:10:14
-image: 'https://m.media-amazon.com/images/I/41r-GYzUZmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r-GYzUZmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.46'
 
 Está [Tommy Hilfiger Lacie Shirt LS W2 Camisa  Naranja  Bitonal STP Bright Vermillion 0do   42 para Mujer](https://www.amazon.es/dp/B07VS6DNRK/?tag=tolees-21) con 72.89 de descuento por 20.46 EUR (original: 75.48 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Lacie Shirt LS W2 Camisa ](https://m.media-amazon.com/images/I/41r-GYzUZmL._SL200_.jpg)](https://www.amazon.es/dp/B07VS6DNRK/?tag=tolees-21)
+[![Tommy Hilfiger Lacie Shirt LS W2 Camisa ](https://m.media-amazon.com/images/I/41r-GYzUZmL._SL400_.jpg)](https://www.amazon.es/dp/B07VS6DNRK/?tag=tolees-21)
 
 ℹ️:
 

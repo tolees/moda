@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 68.18 % en Lee Chunky Knit Sudadera  Rosa  Frost Pi'
 date: 2020-04-06 15:52:04
-image: 'https://m.media-amazon.com/images/I/41HnS+XXgGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HnS+XXgGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.8'
 
 Tienes [Lee Chunky Knit Sudadera  Rosa  Frost Pink MC   Large para Mujer](https://www.amazon.es/dp/B07MN3GY65/?tag=tolees-21) con un 68.18 % de descuento con precio de oferta de 31.8 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Lee Chunky Knit Sudadera  Rosa  Frost Pi](https://m.media-amazon.com/images/I/41HnS+XXgGL._SL200_.jpg)](https://www.amazon.es/dp/B07MN3GY65/?tag=tolees-21)
+[![Lee Chunky Knit Sudadera  Rosa  Frost Pi](https://m.media-amazon.com/images/I/41HnS+XXgGL._SL400_.jpg)](https://www.amazon.es/dp/B07MN3GY65/?tag=tolees-21)
 
 ℹ️:
 

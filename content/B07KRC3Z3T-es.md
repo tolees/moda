@@ -2,7 +2,7 @@
 layout: post
 title: 'Gafas de Lectura sin Patillas Graduadas  con un 46.83 % de descuento'
 date: 2020-07-30 09:10:16
-image: 'https://m.media-amazon.com/images/I/41WG-DU464L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WG-DU464L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.52'
 
 En este momento está [Gafas de Lectura sin Patillas Graduadas Anti-bluelight para Hombre y Mujer. Anti-reflejantes y Anti Luz Azul Flexibles Irrompibles de Bolsillo. Red +2.0 – HERMITAGE ROUND](https://www.amazon.es/dp/B07KRC3Z3T/?tag=tolees-21) a 17.52 EUR (original: 32.95 EUR) (46.83 %  de descuento) en el siguiente enlace!
 
-[![Gafas de Lectura sin Patillas Graduadas ](https://m.media-amazon.com/images/I/41WG-DU464L._SL200_.jpg)](https://www.amazon.es/dp/B07KRC3Z3T/?tag=tolees-21)
+[![Gafas de Lectura sin Patillas Graduadas ](https://m.media-amazon.com/images/I/41WG-DU464L._SL400_.jpg)](https://www.amazon.es/dp/B07KRC3Z3T/?tag=tolees-21)
 
 🔎:
 

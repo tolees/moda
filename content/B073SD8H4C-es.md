@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Camiseta para Hombre  Rosa  Deauvi al 48.20 % de rebaja'
 date: 2020-01-16 15:04:42
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XlC9QZ-mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XlC9QZ-mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.6'
 
 Tienes [find. Camiseta para Hombre  Rosa  Deauvile Mauve 002   Large](https://www.amazon.es/dp/B073SD8H4C/?tag=tolees-21) con precio final de  3.6 EUR (original: 6.95 EUR) (48.20 %  de rebaja) aqui!
 
-[![find. Camiseta para Hombre  Rosa  Deauvi](https://images-eu.ssl-images-amazon.com/images/I/41XlC9QZ-mL._SL200_.jpg)](https://www.amazon.es/dp/B073SD8H4C/?tag=tolees-21)
+[![find. Camiseta para Hombre  Rosa  Deauvi](https://images-eu.ssl-images-amazon.com/images/I/41XlC9QZ-mL._SL400_.jpg)](https://www.amazon.es/dp/B073SD8H4C/?tag=tolees-21)
 
 🔎:
 

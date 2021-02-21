@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Hoops Mid 2.0 K  Zapatos de Balon al 24.38 % de descuento'
 date: 2020-01-25 10:08:43
-image: 'https://m.media-amazon.com/images/I/41Vp1q4sQrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vp1q4sQrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.99'
 
 Ahora mismo tienes [adidas Hoops Mid 2.0 K  Zapatos de Baloncesto Unisex Niños  Multicolor Ftwbla Negbás Placen 000  36 EU](https://www.amazon.es/dp/B07RDQBZCM/?tag=tolees-21) a 33.99 EUR (original: 44.95 EUR) (24.38 %  de descuento) en el siguiente enlace!
 
-[![adidas Hoops Mid 2.0 K  Zapatos de Balon](https://m.media-amazon.com/images/I/41Vp1q4sQrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RDQBZCM/?tag=tolees-21)
+[![adidas Hoops Mid 2.0 K  Zapatos de Balon](https://m.media-amazon.com/images/I/41Vp1q4sQrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RDQBZCM/?tag=tolees-21)
 
 🔎:
 

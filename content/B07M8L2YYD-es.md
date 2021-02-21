@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Chunky Knit Sudadera  Azul  Midnight al 85.64 % de descuento'
 date: 2020-04-01 20:05:51
-image: 'https://m.media-amazon.com/images/I/4103gT+bfHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4103gT+bfHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.82'
 
 Ahora mismo tienes [Lee Chunky Knit Sudadera  Azul  Midnight Navy Ma   Large para Mujer](https://www.amazon.es/dp/B07M8L2YYD/?tag=tolees-21) a 14.35 EUR (original: 99.95 EUR) (85.64 %  de descuento) en el siguiente enlace!
 
-[![Lee Chunky Knit Sudadera  Azul  Midnight](https://m.media-amazon.com/images/I/4103gT+bfHL._SL200_.jpg)](https://www.amazon.es/dp/B07M8L2YYD/?tag=tolees-21)
+[![Lee Chunky Knit Sudadera  Azul  Midnight](https://m.media-amazon.com/images/I/4103gT+bfHL._SL400_.jpg)](https://www.amazon.es/dp/B07M8L2YYD/?tag=tolees-21)
 
 🔎:
 

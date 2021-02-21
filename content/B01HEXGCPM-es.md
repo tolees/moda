@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Crocband Clog K  Zuecos con Correa al 39.98 % de descuento'
 date: 2020-07-25 17:43:47
-image: 'https://m.media-amazon.com/images/I/41W4iC7nCML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W4iC7nCML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.2'
 
 Está [Crocs Crocband Clog K  Zuecos con Correa Unisex-Bambini  Grigio  Smoke/Navy   30/31 EU](https://www.amazon.es/dp/B01HEXGCPM/?tag=tolees-21) con 39.98 de descuento por 19.2 EUR (original: 31.99 EUR) en el siguiente enlace!
 
-[![Crocs Crocband Clog K  Zuecos con Correa](https://m.media-amazon.com/images/I/41W4iC7nCML._SL200_.jpg)](https://www.amazon.es/dp/B01HEXGCPM/?tag=tolees-21)
+[![Crocs Crocband Clog K  Zuecos con Correa](https://m.media-amazon.com/images/I/41W4iC7nCML._SL400_.jpg)](https://www.amazon.es/dp/B01HEXGCPM/?tag=tolees-21)
 
 ℹ️:
 

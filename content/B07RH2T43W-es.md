@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Playoff 20 Men s Transpirab con un 64.23 % de descuento'
 date: 2020-10-08 08:08:18
-image: 'https://m.media-amazon.com/images/I/31cj7aBxMxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cj7aBxMxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.25'
 
 En este momento está [Under Armour Playoff 20 Men s Transpirable Hombre  cómoda y Ancha Camisa Polo Masculina de Manga Corta  Blanco  SM](https://www.amazon.es/dp/B07RH2T43W/?tag=tolees-21) a 23.25 EUR (original: 65.0 EUR) (64.23 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Playoff 20 Men s Transpirab](https://m.media-amazon.com/images/I/31cj7aBxMxL._SL200_.jpg)](https://www.amazon.es/dp/B07RH2T43W/?tag=tolees-21)
+[![Under Armour Playoff 20 Men s Transpirab](https://m.media-amazon.com/images/I/31cj7aBxMxL._SL400_.jpg)](https://www.amazon.es/dp/B07RH2T43W/?tag=tolees-21)
 
 🔎:
 

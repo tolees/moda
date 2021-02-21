@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas W CW NUVIC Jkt Chaqueta de Deport al 34.41 % de descuento'
 date: 2020-07-25 21:31:11
-image: 'https://m.media-amazon.com/images/I/41xngtfM7pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xngtfM7pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '118.03'
 
 Ahora mismo tienes [adidas W CW NUVIC Jkt Chaqueta de Deporte  Mujer  Black  S](https://www.amazon.es/dp/B072KNCCDV/?tag=tolees-21) a 118.03 EUR (original: 179.95 EUR) (34.41 %  de descuento) en el siguiente enlace!
 
-[![adidas W CW NUVIC Jkt Chaqueta de Deport](https://m.media-amazon.com/images/I/41xngtfM7pL._SL200_.jpg)](https://www.amazon.es/dp/B072KNCCDV/?tag=tolees-21)
+[![adidas W CW NUVIC Jkt Chaqueta de Deport](https://m.media-amazon.com/images/I/41xngtfM7pL._SL400_.jpg)](https://www.amazon.es/dp/B072KNCCDV/?tag=tolees-21)
 
 🔎:
 

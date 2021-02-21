@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Coton Logo SS tee M Camiseta de  al 30.00 % de rebaja'
 date: 2020-08-30 19:42:36
-image: 'https://m.media-amazon.com/images/I/41F629jyTIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F629jyTIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.75'
 
 Tienes [Salomon Coton Logo SS tee M Camiseta de Manga Corta  Hombre  Azul  Fjord Blue/Night Sky   S](https://www.amazon.es/dp/B07V44LMBF/?tag=tolees-21) con precio final de  21.0 EUR (original: 30.0 EUR) (30.00 %  de rebaja) aqui!
 
-[![Salomon Coton Logo SS tee M Camiseta de ](https://m.media-amazon.com/images/I/41F629jyTIL._SL200_.jpg)](https://www.amazon.es/dp/B07V44LMBF/?tag=tolees-21)
+[![Salomon Coton Logo SS tee M Camiseta de ](https://m.media-amazon.com/images/I/41F629jyTIL._SL400_.jpg)](https://www.amazon.es/dp/B07V44LMBF/?tag=tolees-21)
 
 🔎:
 

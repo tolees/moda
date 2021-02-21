@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s SS Classic 1 Pkt Standrd Camisa   con un 56.86 % de descuento'
 date: 2020-07-27 03:01:39
-image: 'https://m.media-amazon.com/images/I/51Pegkc+tPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Pegkc+tPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.57'
 
 En este momento está [Levi s SS Classic 1 Pkt Standrd Camisa  Azul  Austin Riverside 0019   Small para Hombre](https://www.amazon.es/dp/B07TJ9R8BM/?tag=tolees-21) a 21.57 EUR (original: 50.0 EUR) (56.86 %  de descuento) en el siguiente enlace!
 
-[![Levi s SS Classic 1 Pkt Standrd Camisa  ](https://m.media-amazon.com/images/I/51Pegkc+tPL._SL200_.jpg)](https://www.amazon.es/dp/B07TJ9R8BM/?tag=tolees-21)
+[![Levi s SS Classic 1 Pkt Standrd Camisa  ](https://m.media-amazon.com/images/I/51Pegkc+tPL._SL400_.jpg)](https://www.amazon.es/dp/B07TJ9R8BM/?tag=tolees-21)
 
 🔎:
 

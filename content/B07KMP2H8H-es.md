@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Leather Round Toe Block Heel Court con un 65.03 % de descuento'
 date: 2020-10-03 21:09:52
-image: 'https://m.media-amazon.com/images/I/31XCd5e4F1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XCd5e4F1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.62'
 
 En este momento está [find. Leather Round Toe Block Heel Court Zapatos de Tacón  Negro Black  37 EU](https://www.amazon.es/dp/B07KMP2H8H/?tag=tolees-21) a 16.62 EUR (original: 47.52 EUR) (65.03 %  de descuento) en el siguiente enlace!
 
-[![find. Leather Round Toe Block Heel Court](https://m.media-amazon.com/images/I/31XCd5e4F1L._SL200_.jpg)](https://www.amazon.es/dp/B07KMP2H8H/?tag=tolees-21)
+[![find. Leather Round Toe Block Heel Court](https://m.media-amazon.com/images/I/31XCd5e4F1L._SL400_.jpg)](https://www.amazon.es/dp/B07KMP2H8H/?tag=tolees-21)
 
 🔎:
 

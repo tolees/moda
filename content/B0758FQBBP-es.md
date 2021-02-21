@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Garratt Lace  Zapatos de Cordones con un 28.18 % de descuento'
 date: 2020-01-16 14:34:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jtvatPgrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jtvatPgrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.25'
 
 En este momento está [Clarks Garratt Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck-   44 EU](https://www.amazon.es/dp/B0758FQBBP/?tag=tolees-21) a 39.5 EUR (original: 55 EUR) (28.18 %  de descuento) en el siguiente enlace!
 
-[![Clarks Garratt Lace  Zapatos de Cordones](https://images-eu.ssl-images-amazon.com/images/I/41jtvatPgrL._SL200_.jpg)](https://www.amazon.es/dp/B0758FQBBP/?tag=tolees-21)
+[![Clarks Garratt Lace  Zapatos de Cordones](https://images-eu.ssl-images-amazon.com/images/I/41jtvatPgrL._SL400_.jpg)](https://www.amazon.es/dp/B0758FQBBP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'CARE OF by PUMA Chaleco acolchado imperm con un 30.00 % de descuento'
 date: 2020-01-04 15:34:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31aLn9raIuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aLn9raIuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49'
 
 En este momento está [CARE OF by PUMA Chaleco acolchado impermeable para hombre  Azul  Blue   120  Talla del fabricante: 2XL ](https://www.amazon.es/dp/B07R3TPTQN/?tag=tolees-21) a 49 EUR (original: 70 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![CARE OF by PUMA Chaleco acolchado imperm](https://images-eu.ssl-images-amazon.com/images/I/31aLn9raIuL._SL200_.jpg)](https://www.amazon.es/dp/B07R3TPTQN/?tag=tolees-21)
+[![CARE OF by PUMA Chaleco acolchado imperm](https://images-eu.ssl-images-amazon.com/images/I/31aLn9raIuL._SL400_.jpg)](https://www.amazon.es/dp/B07R3TPTQN/?tag=tolees-21)
 
 🔎:
 

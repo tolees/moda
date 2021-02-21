@@ -2,7 +2,7 @@
 layout: post
 title: 'Bolso de mano Pepe Jeans Porto Camel al 40.00 % de rebaja'
 date: 2020-04-10 20:17:55
-image: 'https://m.media-amazon.com/images/I/41BaxJ8oPAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BaxJ8oPAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.0'
 
 Tienes [Bolso de mano Pepe Jeans Porto Camel](https://www.amazon.es/dp/B01NAXDXB9/?tag=tolees-21) con precio final de  21.0 EUR (original: 35.0 EUR) (40.00 %  de rebaja) aqui!
 
-[![Bolso de mano Pepe Jeans Porto Camel](https://m.media-amazon.com/images/I/41BaxJ8oPAL._SL200_.jpg)](https://www.amazon.es/dp/B01NAXDXB9/?tag=tolees-21)
+[![Bolso de mano Pepe Jeans Porto Camel](https://m.media-amazon.com/images/I/41BaxJ8oPAL._SL400_.jpg)](https://www.amazon.es/dp/B01NAXDXB9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Bera Chaqueta  Negro  Black 9 al 66.43 % de descuento'
 date: 2020-09-13 23:52:33
-image: 'https://m.media-amazon.com/images/I/41089qDfrSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41089qDfrSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '94.0'
 
 Ahora mismo tienes [Pepe Jeans Bera Chaqueta  Negro  Black 999   Small para Mujer](https://www.amazon.es/dp/B07RWGFPYG/?tag=tolees-21) a 94.0 EUR (original: 280.0 EUR) (66.43 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Bera Chaqueta  Negro  Black 9](https://m.media-amazon.com/images/I/41089qDfrSL._SL200_.jpg)](https://www.amazon.es/dp/B07RWGFPYG/?tag=tolees-21)
+[![Pepe Jeans Bera Chaqueta  Negro  Black 9](https://m.media-amazon.com/images/I/41089qDfrSL._SL400_.jpg)](https://www.amazon.es/dp/B07RWGFPYG/?tag=tolees-21)
 
 🔎:
 

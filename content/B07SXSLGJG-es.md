@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U IACOPO A  Zapatos de Cordones Oxf al 18.49 % de descuento'
 date: 2020-09-30 07:46:19
-image: 'https://m.media-amazon.com/images/I/31J5FboJrdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31J5FboJrdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.9475'
 
 Ahora mismo tienes [Geox U IACOPO A  Zapatos de Cordones Oxford para Hombre  Marrón  Dk Brown C6006   45 EU](https://www.amazon.es/dp/B07SXSLGJG/?tag=tolees-21) a 51.0 EUR (original: 62.57 EUR) (18.49 %  de descuento) en el siguiente enlace!
 
-[![Geox U IACOPO A  Zapatos de Cordones Oxf](https://m.media-amazon.com/images/I/31J5FboJrdL._SL200_.jpg)](https://www.amazon.es/dp/B07SXSLGJG/?tag=tolees-21)
+[![Geox U IACOPO A  Zapatos de Cordones Oxf](https://m.media-amazon.com/images/I/31J5FboJrdL._SL400_.jpg)](https://www.amazon.es/dp/B07SXSLGJG/?tag=tolees-21)
 
 🔎:
 

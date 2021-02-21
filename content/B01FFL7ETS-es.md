@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour HG Armour 2.0 Comp Short Pa al 35.75 % de descuento'
 date: 2020-01-31 09:13:20
-image: 'https://m.media-amazon.com/images/I/412rCBNpvrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412rCBNpvrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.945'
 
 Ahora mismo tienes [Under Armour HG Armour 2.0 Comp Short Pantalón Corto  Hombre  Gris  Carbon Heather/Black 090   M](https://www.amazon.es/dp/B01FFL7ETS/?tag=tolees-21) a 17.99 EUR (original: 28.0 EUR) (35.75 %  de descuento) en el siguiente enlace!
 
-[![Under Armour HG Armour 2.0 Comp Short Pa](https://m.media-amazon.com/images/I/412rCBNpvrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01FFL7ETS/?tag=tolees-21)
+[![Under Armour HG Armour 2.0 Comp Short Pa](https://m.media-amazon.com/images/I/412rCBNpvrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01FFL7ETS/?tag=tolees-21)
 
 🔎:
 

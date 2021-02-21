@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda para Samsung Galaxy S7 Edge  Libro al 50.06 % de descuento'
 date: 2020-02-20 13:31:45
-image: 'https://m.media-amazon.com/images/I/51fbxd2puZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fbxd2puZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Está [Funda para Samsung Galaxy S7 Edge  Libro de Cuero Impresión de Suave PU Premium e Silicone TPU Carcasa  Soporte Plegable  Ranuras para Tarjetas y Billetera  Cierre Magnético Girasol Rosa Caliente](https://www.amazon.es/dp/B072V6CBTF/?tag=tolees-21) con 50.06 de descuento por 3.99 EUR (original: 7.99 EUR) en el siguiente enlace!
 
-[![Funda para Samsung Galaxy S7 Edge  Libro](https://m.media-amazon.com/images/I/51fbxd2puZL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B072V6CBTF/?tag=tolees-21)
+[![Funda para Samsung Galaxy S7 Edge  Libro](https://m.media-amazon.com/images/I/51fbxd2puZL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B072V6CBTF/?tag=tolees-21)
 
 ℹ️:
 

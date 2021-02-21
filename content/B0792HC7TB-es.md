@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U LEITAN C  Mocasines para Hombre   al 40.99 % de descuento'
 date: 2020-02-29 19:22:40
-image: 'https://m.media-amazon.com/images/I/31BW5FNO-wL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BW5FNO-wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.95'
 
 Ahora mismo tienes [Geox U LEITAN C  Mocasines para Hombre  Negro  41 EU](https://www.amazon.es/dp/B0792HC7TB/?tag=tolees-21) a 58.95 EUR (original: 99.9 EUR) (40.99 %  de descuento) en el siguiente enlace!
 
-[![Geox U LEITAN C  Mocasines para Hombre  ](https://m.media-amazon.com/images/I/31BW5FNO-wL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0792HC7TB/?tag=tolees-21)
+[![Geox U LEITAN C  Mocasines para Hombre  ](https://m.media-amazon.com/images/I/31BW5FNO-wL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0792HC7TB/?tag=tolees-21)
 
 🔎:
 

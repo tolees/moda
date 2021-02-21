@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Rival Fleece Graphic Novelt con un 31.58 % de descuento'
 date: 2020-01-18 15:59:03
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31VH0G0f7CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VH0G0f7CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.169999999999998'
 
 En este momento está [Under Armour Rival Fleece Graphic Novelty Sudadera con Capucha  Mujer  Negro  Black/Onyx White/Black 001   M](https://www.amazon.es/dp/B07R2X8T8Y/?tag=tolees-21) a 34.21 EUR (original: 50 EUR) (31.58 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Rival Fleece Graphic Novelt](https://images-eu.ssl-images-amazon.com/images/I/31VH0G0f7CL._SL200_.jpg)](https://www.amazon.es/dp/B07R2X8T8Y/?tag=tolees-21)
+[![Under Armour Rival Fleece Graphic Novelt](https://images-eu.ssl-images-amazon.com/images/I/31VH0G0f7CL._SL400_.jpg)](https://www.amazon.es/dp/B07R2X8T8Y/?tag=tolees-21)
 
 🔎:
 

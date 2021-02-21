@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Sexi Flip Women  Sandalias para Mu al 57.46 % de rebaja'
 date: 2020-04-13 21:02:42
-image: 'https://m.media-amazon.com/images/I/31IaoD8p2ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IaoD8p2ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.835'
 
 Tienes [Crocs Sexi Flip Women  Sandalias para Mujer  Azul  Pool 40m   37/38 EU](https://www.amazon.es/dp/B07CN8YCX4/?tag=tolees-21) con precio final de  15.95 EUR (original: 37.49 EUR) (57.46 %  de rebaja) aqui!
 
-[![Crocs Sexi Flip Women  Sandalias para Mu](https://m.media-amazon.com/images/I/31IaoD8p2ZL._SL200_.jpg)](https://www.amazon.es/dp/B07CN8YCX4/?tag=tolees-21)
+[![Crocs Sexi Flip Women  Sandalias para Mu](https://m.media-amazon.com/images/I/31IaoD8p2ZL._SL400_.jpg)](https://www.amazon.es/dp/B07CN8YCX4/?tag=tolees-21)
 
 🔎:
 

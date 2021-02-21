@@ -2,7 +2,7 @@
 layout: post
 title: 'Geographical Norway Parka Revolution Lad al 30.00 % de descuento'
 date: 2020-08-04 08:16:24
-image: 'https://m.media-amazon.com/images/I/41pjzOlBvlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pjzOlBvlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.3'
 
 Está [Geographical Norway Parka Revolution Lady 100 Laguna/Amarillo 1](https://www.amazon.es/dp/B089T1BVBB/?tag=tolees-21) con 30.00 de descuento por 69.3 EUR (original: 99.0 EUR) en el siguiente enlace!
 
-[![Geographical Norway Parka Revolution Lad](https://m.media-amazon.com/images/I/41pjzOlBvlL._SL200_.jpg)](https://www.amazon.es/dp/B089T1BVBB/?tag=tolees-21)
+[![Geographical Norway Parka Revolution Lad](https://m.media-amazon.com/images/I/41pjzOlBvlL._SL400_.jpg)](https://www.amazon.es/dp/B089T1BVBB/?tag=tolees-21)
 
 ℹ️:
 

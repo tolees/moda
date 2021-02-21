@@ -2,7 +2,7 @@
 layout: post
 title: 'Ternua K7 W Chaqueta  Mujer  Azul  Dark  al 21.04 % de rebaja'
 date: 2020-01-21 18:53:03
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41C6G8hMe7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C6G8hMe7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '149.99'
 
 Tienes [Ternua K7 W Chaqueta  Mujer  Azul  Dark Lagoon Melange   L](https://www.amazon.es/dp/B07FSB9VGG/?tag=tolees-21) con precio final de  149.99 EUR (original: 189.95 EUR) (21.04 %  de rebaja) aqui!
 
-[![Ternua K7 W Chaqueta  Mujer  Azul  Dark ](https://images-eu.ssl-images-amazon.com/images/I/41C6G8hMe7L._SL200_.jpg)](https://www.amazon.es/dp/B07FSB9VGG/?tag=tolees-21)
+[![Ternua K7 W Chaqueta  Mujer  Azul  Dark ](https://images-eu.ssl-images-amazon.com/images/I/41C6G8hMe7L._SL400_.jpg)](https://www.amazon.es/dp/B07FSB9VGG/?tag=tolees-21)
 
 🔎:
 

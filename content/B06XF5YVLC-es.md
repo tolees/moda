@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 65.58 % en PHOENISING - Pantalón Corto - para Mujer'
 date: 2020-02-01 09:35:58
-image: 'https://m.media-amazon.com/images/I/51JT5sWRzYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JT5sWRzYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.608333333333334'
 
 Tienes [PHOENISING - Pantalón Corto - para Mujer Azul Azul Claro 36](https://www.amazon.es/dp/B06XF5YVLC/?tag=tolees-21) con un 65.58 % de descuento con precio de oferta de 17.27 EUR (original: 50.17 EUR) en el siguiente enlace!
 
-[![PHOENISING - Pantalón Corto - para Mujer](https://m.media-amazon.com/images/I/51JT5sWRzYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XF5YVLC/?tag=tolees-21)
+[![PHOENISING - Pantalón Corto - para Mujer](https://m.media-amazon.com/images/I/51JT5sWRzYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XF5YVLC/?tag=tolees-21)
 
 ℹ️:
 

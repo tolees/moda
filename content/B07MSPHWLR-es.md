@@ -2,7 +2,7 @@
 layout: post
 title: 'Cerdá Pijama Corto Algodón Harry Potter  al 36.29 % de descuento'
 date: 2020-08-13 09:22:54
-image: 'https://m.media-amazon.com/images/I/31W75WPm12L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31W75WPm12L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.25'
 
 Ahora mismo tienes [Cerdá Pijama Corto Algodón Harry Potter Conjuntos  Gris  Gris C13   4 para Niños](https://www.amazon.es/dp/B07MSPHWLR/?tag=tolees-21) a 8.25 EUR (original: 12.95 EUR) (36.29 %  de descuento) en el siguiente enlace!
 
-[![Cerdá Pijama Corto Algodón Harry Potter ](https://m.media-amazon.com/images/I/31W75WPm12L._SL200_.jpg)](https://www.amazon.es/dp/B07MSPHWLR/?tag=tolees-21)
+[![Cerdá Pijama Corto Algodón Harry Potter ](https://m.media-amazon.com/images/I/31W75WPm12L._SL400_.jpg)](https://www.amazon.es/dp/B07MSPHWLR/?tag=tolees-21)
 
 🔎:
 

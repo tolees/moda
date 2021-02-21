@@ -2,7 +2,7 @@
 layout: post
 title: 'Gioseppo DEINZE  Sandalias de Gladiador  al 65.18 % de rebaja'
 date: 2020-08-30 18:11:26
-image: 'https://m.media-amazon.com/images/I/41fsbSbLY+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fsbSbLY+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.43'
 
 Tienes [Gioseppo DEINZE  Sandalias de Gladiador para Niñas  Morado  Lila Lila   38 EU](https://www.amazon.es/dp/B07Y8FV4ML/?tag=tolees-21) con precio final de  10.43 EUR (original: 29.95 EUR) (65.18 %  de rebaja) aqui!
 
-[![Gioseppo DEINZE  Sandalias de Gladiador ](https://m.media-amazon.com/images/I/41fsbSbLY+L._SL200_.jpg)](https://www.amazon.es/dp/B07Y8FV4ML/?tag=tolees-21)
+[![Gioseppo DEINZE  Sandalias de Gladiador ](https://m.media-amazon.com/images/I/41fsbSbLY+L._SL400_.jpg)](https://www.amazon.es/dp/B07Y8FV4ML/?tag=tolees-21)
 
 🔎:
 

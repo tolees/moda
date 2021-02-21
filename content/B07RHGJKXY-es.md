@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Corp Split tee Camiseta D al 52.38 % de descuento'
 date: 2020-02-04 08:53:41
-image: 'https://m.media-amazon.com/images/I/31ZAYAQnfiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZAYAQnfiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.0'
 
 Ahora mismo tienes [Tommy Hilfiger Corp Split tee Camiseta Deporte  Blanco  White Ybr   Large para Hombre](https://www.amazon.es/dp/B07RHGJKXY/?tag=tolees-21) a 19.0 EUR (original: 39.9 EUR) (52.38 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Corp Split tee Camiseta D](https://m.media-amazon.com/images/I/31ZAYAQnfiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RHGJKXY/?tag=tolees-21)
+[![Tommy Hilfiger Corp Split tee Camiseta D](https://m.media-amazon.com/images/I/31ZAYAQnfiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RHGJKXY/?tag=tolees-21)
 
 🔎:
 

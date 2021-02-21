@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - MERAKI Camiseta de Manga  al 66.80 % de descuento'
 date: 2020-10-01 09:42:15
-image: 'https://m.media-amazon.com/images/I/31+2RBeXepL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+2RBeXepL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.92'
 
 Ahora mismo tienes [Marca Amazon - MERAKI Camiseta de Manga Corta Hombre  Blanco  Optic White   L  Label: L](https://www.amazon.es/dp/B079MRX7W2/?tag=tolees-21) a 5.61 EUR (original: 16.9 EUR) (66.80 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - MERAKI Camiseta de Manga ](https://m.media-amazon.com/images/I/31+2RBeXepL._SL200_.jpg)](https://www.amazon.es/dp/B079MRX7W2/?tag=tolees-21)
+[![Marca Amazon - MERAKI Camiseta de Manga ](https://m.media-amazon.com/images/I/31+2RBeXepL._SL400_.jpg)](https://www.amazon.es/dp/B079MRX7W2/?tag=tolees-21)
 
 🔎:
 

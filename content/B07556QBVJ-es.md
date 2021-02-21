@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Camiseta deportiva de manga cort al 50.00 % de descuento'
 date: 2020-07-04 11:37:20
-image: 'https://m.media-amazon.com/images/I/41Pm+EL4CrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Pm+EL4CrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.494999999999997'
 
 Está [Salomon Camiseta deportiva de manga corta  AGILE SS  tejido de doble punto  negro  hombre  talla: M  l40209900](https://www.amazon.es/dp/B07556QBVJ/?tag=tolees-21) con 50.00 de descuento por 17.5 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Salomon Camiseta deportiva de manga cort](https://m.media-amazon.com/images/I/41Pm+EL4CrL._SL200_.jpg)](https://www.amazon.es/dp/B07556QBVJ/?tag=tolees-21)
+[![Salomon Camiseta deportiva de manga cort](https://m.media-amazon.com/images/I/41Pm+EL4CrL._SL400_.jpg)](https://www.amazon.es/dp/B07556QBVJ/?tag=tolees-21)
 
 ℹ️:
 

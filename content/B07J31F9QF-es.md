@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Play Up Short 2.0 Pantalón  al 55.32 % de rebaja'
 date: 2020-03-07 00:33:35
-image: 'https://m.media-amazon.com/images/I/41KgfoofpiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KgfoofpiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.51'
 
 Tienes [Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Rosa  Pink Fog/Black 694   XS](https://www.amazon.es/dp/B07J31F9QF/?tag=tolees-21) con precio final de  12.51 EUR (original: 28.0 EUR) (55.32 %  de rebaja) aqui!
 
-[![Under Armour Play Up Short 2.0 Pantalón ](https://m.media-amazon.com/images/I/41KgfoofpiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07J31F9QF/?tag=tolees-21)
+[![Under Armour Play Up Short 2.0 Pantalón ](https://m.media-amazon.com/images/I/41KgfoofpiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07J31F9QF/?tag=tolees-21)
 
 🔎:
 

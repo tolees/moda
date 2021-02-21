@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjebas tee SS U-Neck Noos C al 46.70 % de descuento'
 date: 2020-01-15 17:25:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31k866nLYOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31k866nLYOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Ahora mismo tienes [JACK & JONES Jjebas tee SS U-Neck Noos Camiseta  Azul  Navy Blazer Detail: Reg Fit   X-Large para Hombre](https://www.amazon.es/dp/B079C7QGS7/?tag=tolees-21) a 7.99 EUR (original: 14.99 EUR) (46.70 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jjebas tee SS U-Neck Noos C](https://images-eu.ssl-images-amazon.com/images/I/31k866nLYOL._SL200_.jpg)](https://www.amazon.es/dp/B079C7QGS7/?tag=tolees-21)
+[![JACK & JONES Jjebas tee SS U-Neck Noos C](https://images-eu.ssl-images-amazon.com/images/I/31k866nLYOL._SL400_.jpg)](https://www.amazon.es/dp/B079C7QGS7/?tag=tolees-21)
 
 🔎:
 

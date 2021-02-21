@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Urban Largo Parka Chaqueta  al 50.00 % de descuento'
 date: 2020-04-06 12:52:20
-image: 'https://m.media-amazon.com/images/I/41yjirVPaPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yjirVPaPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '150.0'
 
 Ahora mismo tienes [Helly Hansen Urban Largo Parka Chaqueta de Invierno  Hombre  Marmalade  S](https://www.amazon.es/dp/B07LBNK3N7/?tag=tolees-21) a 150.0 EUR (original: 300.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen Urban Largo Parka Chaqueta ](https://m.media-amazon.com/images/I/41yjirVPaPL._SL200_.jpg)](https://www.amazon.es/dp/B07LBNK3N7/?tag=tolees-21)
+[![Helly Hansen Urban Largo Parka Chaqueta ](https://m.media-amazon.com/images/I/41yjirVPaPL._SL400_.jpg)](https://www.amazon.es/dp/B07LBNK3N7/?tag=tolees-21)
 
 🔎:
 

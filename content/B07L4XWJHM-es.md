@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Camisa Franela de Cuadros al 51.50 % de rebaja'
 date: 2020-01-30 10:39:38
-image: 'https://m.media-amazon.com/images/I/51Zol-R6UOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Zol-R6UOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.95'
 
 Tienes [Charles Wilson Camisa Franela de Cuadros Manga Larga para Hombre  XX-Large  Red & White 1 ](https://www.amazon.es/dp/B07L4XWJHM/?tag=tolees-21) con precio final de  16.95 EUR (original: 34.95 EUR) (51.50 %  de rebaja) aqui!
 
-[![Charles Wilson Camisa Franela de Cuadros](https://m.media-amazon.com/images/I/51Zol-R6UOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L4XWJHM/?tag=tolees-21)
+[![Charles Wilson Camisa Franela de Cuadros](https://m.media-amazon.com/images/I/51Zol-R6UOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L4XWJHM/?tag=tolees-21)
 
 🔎:
 

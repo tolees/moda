@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 72.93 % en HUGO Elisha02 Camisa  Azul  Light/Pastel'
 date: 2020-09-22 10:19:51
-image: 'https://m.media-amazon.com/images/I/316ZhCqE+GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316ZhCqE+GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.35'
 
 Tienes [HUGO Elisha02 Camisa  Azul  Light/Pastel Blue 459   X-Large  Talla del Fabricante: 44  para Hombre](https://www.amazon.es/dp/B07VBBN5DC/?tag=tolees-21) con un 72.93 % de descuento con precio de oferta de 24.35 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![HUGO Elisha02 Camisa  Azul  Light/Pastel](https://m.media-amazon.com/images/I/316ZhCqE+GL._SL200_.jpg)](https://www.amazon.es/dp/B07VBBN5DC/?tag=tolees-21)
+[![HUGO Elisha02 Camisa  Azul  Light/Pastel](https://m.media-amazon.com/images/I/316ZhCqE+GL._SL400_.jpg)](https://www.amazon.es/dp/B07VBBN5DC/?tag=tolees-21)
 
 ℹ️:
 

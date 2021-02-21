@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 82.25 % en Lee 5 POCKET WIDE LEG  Vaqueros straight'
 date: 2020-04-01 07:02:03
-image: 'https://m.media-amazon.com/images/I/41oBOxFQ0TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oBOxFQ0TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.875'
 
 Tienes [Lee 5 POCKET WIDE LEG  Vaqueros straight Mujer  Azul  MYSTIC STONE JI   W31/L33  Talla fabricante: W31/L33 ](https://www.amazon.es/dp/B07M5DGVDT/?tag=tolees-21) con un 82.25 % de descuento con precio de oferta de 15.97 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Lee 5 POCKET WIDE LEG  Vaqueros straight](https://m.media-amazon.com/images/I/41oBOxFQ0TL._SL200_.jpg)](https://www.amazon.es/dp/B07M5DGVDT/?tag=tolees-21)
+[![Lee 5 POCKET WIDE LEG  Vaqueros straight](https://m.media-amazon.com/images/I/41oBOxFQ0TL._SL400_.jpg)](https://www.amazon.es/dp/B07M5DGVDT/?tag=tolees-21)
 
 ℹ️:
 

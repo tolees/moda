@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Midge Cody Mid-Waist Skinny V al 90.77 % de descuento'
 date: 2020-05-18 12:21:37
-image: 'https://m.media-amazon.com/images/I/311v6l56o3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311v6l56o3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.48'
 
 Ahora mismo tienes [G-STAR RAW Midge Cody Mid-Waist Skinny Vaqueros  Negro  Pitch Black B964-A810   22W / 30L para Mujer](https://www.amazon.es/dp/B07N18BJ2M/?tag=tolees-21) a 11.07 EUR (original: 119.95 EUR) (90.77 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Midge Cody Mid-Waist Skinny V](https://m.media-amazon.com/images/I/311v6l56o3L._SL200_.jpg)](https://www.amazon.es/dp/B07N18BJ2M/?tag=tolees-21)
+[![G-STAR RAW Midge Cody Mid-Waist Skinny V](https://m.media-amazon.com/images/I/311v6l56o3L._SL400_.jpg)](https://www.amazon.es/dp/B07N18BJ2M/?tag=tolees-21)
 
 🔎:
 

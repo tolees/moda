@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Camisa Lino Manga Corta p al 28.61 % de descuento'
 date: 2020-01-30 12:51:55
-image: 'https://m.media-amazon.com/images/I/513ZIrXfYzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513ZIrXfYzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.95'
 
 Ahora mismo tienes [Charles Wilson Camisa Lino Manga Corta para Hombre  Small  Navy Blue ](https://www.amazon.es/dp/B07JX7LCWW/?tag=tolees-21) a 24.95 EUR (original: 34.95 EUR) (28.61 %  de descuento) en el siguiente enlace!
 
-[![Charles Wilson Camisa Lino Manga Corta p](https://m.media-amazon.com/images/I/513ZIrXfYzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JX7LCWW/?tag=tolees-21)
+[![Charles Wilson Camisa Lino Manga Corta p](https://m.media-amazon.com/images/I/513ZIrXfYzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JX7LCWW/?tag=tolees-21)
 
 🔎:
 

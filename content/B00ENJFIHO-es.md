@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 75.58 % en Nueva OU falda plisada para niñas con ci'
 date: 2020-02-12 08:07:44
-image: 'https://m.media-amazon.com/images/I/514eJY6XZ1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514eJY6XZ1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.78'
 
 Tienes [Nueva OU falda plisada para niñas con cintura elástica de uniforme escolar tallas de 2 a 17 años.](https://www.amazon.es/dp/B00ENJFIHO/?tag=tolees-21) con un 75.58 % de descuento con precio de oferta de 1.78 EUR (original: 7.29 EUR) en el siguiente enlace!
 
-[![Nueva OU falda plisada para niñas con ci](https://m.media-amazon.com/images/I/514eJY6XZ1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00ENJFIHO/?tag=tolees-21)
+[![Nueva OU falda plisada para niñas con ci](https://m.media-amazon.com/images/I/514eJY6XZ1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00ENJFIHO/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Camisa Hombre  Rosa al 30.00 % de descuento'
 date: 2020-08-08 20:08:15
-image: 'https://m.media-amazon.com/images/I/31EkCxhG+5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EkCxhG+5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.6'
 
 Ahora mismo tienes [Marca Amazon - find. Camisa Hombre  Rosa  S  Label: S](https://www.amazon.es/dp/B072MKHH37/?tag=tolees-21) a 16.8 EUR (original: 24.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - find. Camisa Hombre  Rosa](https://m.media-amazon.com/images/I/31EkCxhG+5L._SL200_.jpg)](https://www.amazon.es/dp/B072MKHH37/?tag=tolees-21)
+[![Marca Amazon - find. Camisa Hombre  Rosa](https://m.media-amazon.com/images/I/31EkCxhG+5L._SL400_.jpg)](https://www.amazon.es/dp/B072MKHH37/?tag=tolees-21)
 
 🔎:
 

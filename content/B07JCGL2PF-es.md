@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Alpine Action Chaqueta OH Ski d al 44.11 % de descuento'
 date: 2020-01-03 17:44:46
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.19'
 
 Ahora mismo tienes [Columbia Alpine Action Chaqueta OH Ski de esquí  Mujer  Rojo  Red Lily 658   L](https://www.amazon.es/dp/B07JCGL2PF/?tag=tolees-21) a 106.19 EUR (original: 189.99 EUR) (44.11 %  de descuento) en el siguiente enlace!
 
-[![Columbia Alpine Action Chaqueta OH Ski d](https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL200_.jpg)](https://www.amazon.es/dp/B07JCGL2PF/?tag=tolees-21)
+[![Columbia Alpine Action Chaqueta OH Ski d](https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL400_.jpg)](https://www.amazon.es/dp/B07JCGL2PF/?tag=tolees-21)
 
 🔎:
 

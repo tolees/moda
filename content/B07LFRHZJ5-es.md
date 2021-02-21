@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 62.26 % en Geox D GLYNNA C  Botines para Mujer  Neg'
 date: 2020-03-07 14:38:23
-image: 'https://m.media-amazon.com/images/I/31CP4OvRwaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CP4OvRwaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.95'
 
 Tienes [Geox D GLYNNA C  Botines para Mujer  Negro  Black C9999   39.5 EU](https://www.amazon.es/dp/B07LFRHZJ5/?tag=tolees-21) con un 62.26 % de descuento con precio de oferta de 50.95 EUR (original: 135.0 EUR) en el siguiente enlace!
 
-[![Geox D GLYNNA C  Botines para Mujer  Neg](https://m.media-amazon.com/images/I/31CP4OvRwaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LFRHZJ5/?tag=tolees-21)
+[![Geox D GLYNNA C  Botines para Mujer  Neg](https://m.media-amazon.com/images/I/31CP4OvRwaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LFRHZJ5/?tag=tolees-21)
 
 ℹ️:
 

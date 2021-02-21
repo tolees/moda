@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.16 % en Camper Hardwood K300027-006 Botines Homb'
 date: 2020-01-11 11:31:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311%2B8HcEVIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311%2B8HcEVIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '132'
 
 Tienes [Camper Hardwood K300027-006 Botines Hombre 42](https://www.amazon.es/dp/B07WVDQ195/?tag=tolees-21) con un 30.16 % de descuento con precio de oferta de 132 EUR (original: 189 EUR) en el siguiente enlace!
 
-[![Camper Hardwood K300027-006 Botines Homb](https://images-eu.ssl-images-amazon.com/images/I/311%2B8HcEVIL._SL200_.jpg)](https://www.amazon.es/dp/B07WVDQ195/?tag=tolees-21)
+[![Camper Hardwood K300027-006 Botines Homb](https://images-eu.ssl-images-amazon.com/images/I/311%2B8HcEVIL._SL400_.jpg)](https://www.amazon.es/dp/B07WVDQ195/?tag=tolees-21)
 
 ℹ️:
 

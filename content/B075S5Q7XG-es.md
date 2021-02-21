@@ -2,7 +2,7 @@
 layout: post
 title: 'IRIS & LILLY Camisón Corto de Tirantes c al 37.47 % de descuento'
 date: 2020-01-11 16:08:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CPhw24oWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CPhw24oWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.5'
 
 Ahora mismo tienes [IRIS & LILLY Camisón Corto de Tirantes con Detalle de Encaje para Mujer  Verde  Mint Green   Medium](https://www.amazon.es/dp/B075S5Q7XG/?tag=tolees-21) a 11.5 EUR (original: 18.39 EUR) (37.47 %  de descuento) en el siguiente enlace!
 
-[![IRIS & LILLY Camisón Corto de Tirantes c](https://images-eu.ssl-images-amazon.com/images/I/41CPhw24oWL._SL200_.jpg)](https://www.amazon.es/dp/B075S5Q7XG/?tag=tolees-21)
+[![IRIS & LILLY Camisón Corto de Tirantes c](https://images-eu.ssl-images-amazon.com/images/I/41CPhw24oWL._SL400_.jpg)](https://www.amazon.es/dp/B075S5Q7XG/?tag=tolees-21)
 
 🔎:
 

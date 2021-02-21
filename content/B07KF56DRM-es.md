@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 502 Regular Taper Vaqueros  Azul  al 79.05 % de descuento'
 date: 2020-04-05 11:04:45
-image: 'https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.05'
 
 Está [Levi s 502 Regular Taper Vaqueros  Azul  Baltic Adapt 0472   31W / 32L para Hombre](https://www.amazon.es/dp/B07KF56DRM/?tag=tolees-21) con 79.05 de descuento por 23.05 EUR (original: 110.0 EUR) en el siguiente enlace!
 
-[![Levi s 502 Regular Taper Vaqueros  Azul ](https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL200_.jpg)](https://www.amazon.es/dp/B07KF56DRM/?tag=tolees-21)
+[![Levi s 502 Regular Taper Vaqueros  Azul ](https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL400_.jpg)](https://www.amazon.es/dp/B07KF56DRM/?tag=tolees-21)
 
 ℹ️:
 

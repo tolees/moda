@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Yth Park II Knit Short Nb  Pantalón al 21.11 % de rebaja'
 date: 2020-03-30 17:13:33
-image: 'https://m.media-amazon.com/images/I/41tatsqdDdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tatsqdDdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.65'
 
 Tienes [Nike Yth Park II Knit Short Nb  Pantalón Corto  Niños  Negro  Black/White   S](https://www.amazon.es/dp/B01AC0EZ9Y/?tag=tolees-21) con precio final de  10.65 EUR (original: 13.5 EUR) (21.11 %  de rebaja) aqui!
 
-[![Nike Yth Park II Knit Short Nb  Pantalón](https://m.media-amazon.com/images/I/41tatsqdDdL._SL200_.jpg)](https://www.amazon.es/dp/B01AC0EZ9Y/?tag=tolees-21)
+[![Nike Yth Park II Knit Short Nb  Pantalón](https://m.media-amazon.com/images/I/41tatsqdDdL._SL400_.jpg)](https://www.amazon.es/dp/B01AC0EZ9Y/?tag=tolees-21)
 
 🔎:
 

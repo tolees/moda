@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Axel Chaqueta  Verde  Bright  con un 35.95 % de descuento'
 date: 2020-01-01 23:30:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bdlfcETjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bdlfcETjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.66'
 
 En este momento está [Pepe Jeans Axel Chaqueta  Verde  Bright Green 633   11-12 años  Talla del Fabricante: 12  para Niños](https://www.amazon.es/dp/B07NC9C8NC/?tag=tolees-21) a 50.66 EUR (original: 79.1 EUR) (35.95 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Axel Chaqueta  Verde  Bright ](https://images-eu.ssl-images-amazon.com/images/I/41bdlfcETjL._SL200_.jpg)](https://www.amazon.es/dp/B07NC9C8NC/?tag=tolees-21)
+[![Pepe Jeans Axel Chaqueta  Verde  Bright ](https://images-eu.ssl-images-amazon.com/images/I/41bdlfcETjL._SL400_.jpg)](https://www.amazon.es/dp/B07NC9C8NC/?tag=tolees-21)
 
 🔎:
 

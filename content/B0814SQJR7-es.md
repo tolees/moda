@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Seamless SS  camiseta de al 44.67 % de descuento'
 date: 2020-10-11 11:25:24
-image: 'https://m.media-amazon.com/images/I/41JBtXHL6PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JBtXHL6PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.13'
 
 Ahora mismo tienes [Under Armour UA Seamless SS  camiseta de manga corta para hombre  camiseta para correr hombre  Rosa  Hushed Pink/Dash Pink/Metallic Silver  662    XS](https://www.amazon.es/dp/B0814SQJR7/?tag=tolees-21) a 22.13 EUR (original: 40.0 EUR) (44.67 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Seamless SS  camiseta de](https://m.media-amazon.com/images/I/41JBtXHL6PL._SL200_.jpg)](https://www.amazon.es/dp/B0814SQJR7/?tag=tolees-21)
+[![Under Armour UA Seamless SS  camiseta de](https://m.media-amazon.com/images/I/41JBtXHL6PL._SL400_.jpg)](https://www.amazon.es/dp/B0814SQJR7/?tag=tolees-21)
 
 🔎:
 

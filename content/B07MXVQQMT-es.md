@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual 19WAXA68 - Bolso de hombro de S al 38.12 % de descuento'
 date: 2020-02-26 17:04:01
-image: 'https://m.media-amazon.com/images/I/41nQ2O6kc+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nQ2O6kc+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.81333333333333'
 
 Ahora mismo tienes [Desigual 19WAXA68 - Bolso de hombro de Sintético Mujer 30.5x17x37 cm  B x H x T ](https://www.amazon.es/dp/B07MXVQQMT/?tag=tolees-21) a 49.47 EUR (original: 79.95 EUR) (38.12 %  de descuento) en el siguiente enlace!
 
-[![Desigual 19WAXA68 - Bolso de hombro de S](https://m.media-amazon.com/images/I/41nQ2O6kc+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MXVQQMT/?tag=tolees-21)
+[![Desigual 19WAXA68 - Bolso de hombro de S](https://m.media-amazon.com/images/I/41nQ2O6kc+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MXVQQMT/?tag=tolees-21)
 
 🔎:
 

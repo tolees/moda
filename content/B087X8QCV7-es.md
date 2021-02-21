@@ -2,7 +2,7 @@
 layout: post
 title: 'TEX - Pantalón Corto de Deporte para Hom al 21.44 % de descuento'
 date: 2020-08-16 07:16:04
-image: 'https://m.media-amazon.com/images/I/4152A8ZvLbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4152A8ZvLbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Ahora mismo tienes [TEX - Pantalón Corto de Deporte para Hombre  Gris Oscuro  XL](https://www.amazon.es/dp/B087X8QCV7/?tag=tolees-21) a 10.99 EUR (original: 13.99 EUR) (21.44 %  de descuento) en el siguiente enlace!
 
-[![TEX - Pantalón Corto de Deporte para Hom](https://m.media-amazon.com/images/I/4152A8ZvLbL._SL200_.jpg)](https://www.amazon.es/dp/B087X8QCV7/?tag=tolees-21)
+[![TEX - Pantalón Corto de Deporte para Hom](https://m.media-amazon.com/images/I/4152A8ZvLbL._SL400_.jpg)](https://www.amazon.es/dp/B087X8QCV7/?tag=tolees-21)
 
 🔎:
 

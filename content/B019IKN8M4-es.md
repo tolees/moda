@@ -2,7 +2,7 @@
 layout: post
 title: 'Keysui Mascotas fiesta traje Formal traj al 50.71 % de rebaja'
 date: 2020-08-21 14:08:30
-image: 'https://m.media-amazon.com/images/I/41KLpwLYCYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KLpwLYCYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.72'
 
 Tienes [Keysui Mascotas fiesta traje Formal traje ropa abrigo para perros ropa](https://www.amazon.es/dp/B019IKN8M4/?tag=tolees-21) con precio final de  9.72 EUR (original: 19.72 EUR) (50.71 %  de rebaja) aqui!
 
-[![Keysui Mascotas fiesta traje Formal traj](https://m.media-amazon.com/images/I/41KLpwLYCYL._SL200_.jpg)](https://www.amazon.es/dp/B019IKN8M4/?tag=tolees-21)
+[![Keysui Mascotas fiesta traje Formal traj](https://m.media-amazon.com/images/I/41KLpwLYCYL._SL400_.jpg)](https://www.amazon.es/dp/B019IKN8M4/?tag=tolees-21)
 
 🔎:
 

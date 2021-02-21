@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Spike Vaqueros Straight  Azul al 81.42 % de descuento'
 date: 2020-04-05 18:39:38
-image: 'https://m.media-amazon.com/images/I/41r-TIzGhSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r-TIzGhSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.65'
 
 Ahora mismo tienes [Pepe Jeans Spike Vaqueros Straight  Azul  Medium Used Powerflex Denim 000   29W / 34L para Hombre](https://www.amazon.es/dp/B07MZQMRCN/?tag=tolees-21) a 17.65 EUR (original: 95.0 EUR) (81.42 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Spike Vaqueros Straight  Azul](https://m.media-amazon.com/images/I/41r-TIzGhSL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQMRCN/?tag=tolees-21)
+[![Pepe Jeans Spike Vaqueros Straight  Azul](https://m.media-amazon.com/images/I/41r-TIzGhSL._SL400_.jpg)](https://www.amazon.es/dp/B07MZQMRCN/?tag=tolees-21)
 
 🔎:
 

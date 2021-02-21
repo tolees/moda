@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jcofin Shirt LS Plain Camis al 15.75 % de descuento'
 date: 2020-02-08 20:22:21
-image: 'https://m.media-amazon.com/images/I/41+yYa7wuqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+yYa7wuqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.27'
 
 Está [JACK & JONES Jcofin Shirt LS Plain Camisa  Multicolor  Federal Blue Fit:/Slim   X-Large para Hombre](https://www.amazon.es/dp/B07P81DSLX/?tag=tolees-21) con 15.75 de descuento por 10.27 EUR (original: 12.19 EUR) en el siguiente enlace!
 
-[![JACK & JONES Jcofin Shirt LS Plain Camis](https://m.media-amazon.com/images/I/41+yYa7wuqL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07P81DSLX/?tag=tolees-21)
+[![JACK & JONES Jcofin Shirt LS Plain Camis](https://m.media-amazon.com/images/I/41+yYa7wuqL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07P81DSLX/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Classic Clog  Zuecos Unisex Adulto al 20.01 % de rebaja'
 date: 2020-01-13 17:05:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31qt2nXKCOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qt2nXKCOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Tienes [Crocs Classic Clog  Zuecos Unisex Adulto  Verde  Dusty Green 3TD   43/44 EU](https://www.amazon.es/dp/B07K91P4ZT/?tag=tolees-21) con precio final de  27.99 EUR (original: 34.99 EUR) (20.01 %  de rebaja) aqui!
 
-[![Crocs Classic Clog  Zuecos Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/31qt2nXKCOL._SL200_.jpg)](https://www.amazon.es/dp/B07K91P4ZT/?tag=tolees-21)
+[![Crocs Classic Clog  Zuecos Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/31qt2nXKCOL._SL400_.jpg)](https://www.amazon.es/dp/B07K91P4ZT/?tag=tolees-21)
 
 🔎:
 

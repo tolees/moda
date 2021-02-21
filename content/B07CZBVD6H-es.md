@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Launch Sw 5   Short Pant al 51.78 % de descuento'
 date: 2020-02-18 10:41:16
-image: 'https://m.media-amazon.com/images/I/31AlITWA6TL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AlITWA6TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.29'
 
 Está [Under Armour UA Launch Sw 5   Short Pantalón Corto  Hombre  Negro  Black/Black/Reflective 001   S](https://www.amazon.es/dp/B07CZBVD6H/?tag=tolees-21) con 51.78 de descuento por 19.29 EUR (original: 40.0 EUR) en el siguiente enlace!
 
-[![Under Armour UA Launch Sw 5   Short Pant](https://m.media-amazon.com/images/I/31AlITWA6TL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CZBVD6H/?tag=tolees-21)
+[![Under Armour UA Launch Sw 5   Short Pant](https://m.media-amazon.com/images/I/31AlITWA6TL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CZBVD6H/?tag=tolees-21)
 
 ℹ️:
 

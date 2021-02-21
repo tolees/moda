@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jprjean Bla. tee SS U-Neck  al 16.67 % de descuento'
 date: 2020-04-02 10:47:13
-image: 'https://m.media-amazon.com/images/I/31GZ0mYtDwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GZ0mYtDwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.785'
 
 Ahora mismo tienes [JACK & JONES Jprjean Bla. tee SS U-Neck Camiseta  Negro  Black Fit: Slim Fit   Medium para Hombre](https://www.amazon.es/dp/B07RTXCRVN/?tag=tolees-21) a 4.7 EUR (original: 5.64 EUR) (16.67 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jprjean Bla. tee SS U-Neck ](https://m.media-amazon.com/images/I/31GZ0mYtDwL._SL200_.jpg)](https://www.amazon.es/dp/B07RTXCRVN/?tag=tolees-21)
+[![JACK & JONES Jprjean Bla. tee SS U-Neck ](https://m.media-amazon.com/images/I/31GZ0mYtDwL._SL400_.jpg)](https://www.amazon.es/dp/B07RTXCRVN/?tag=tolees-21)
 
 🔎:
 

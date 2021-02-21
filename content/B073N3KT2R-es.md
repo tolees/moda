@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland 6-Inch Waterproof Boot 73540  al 50.00 % de descuento'
 date: 2020-04-05 07:20:43
-image: 'https://m.media-amazon.com/images/I/41l6ttf4rVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l6ttf4rVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '112.35'
 
 Ahora mismo tienes [Timberland 6-Inch Waterproof Boot 73540 Wheat Nubuk  Schuhe Unisex:41.5](https://www.amazon.es/dp/B073N3KT2R/?tag=tolees-21) a 112.35 EUR (original: 224.7 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Timberland 6-Inch Waterproof Boot 73540 ](https://m.media-amazon.com/images/I/41l6ttf4rVL._SL200_.jpg)](https://www.amazon.es/dp/B073N3KT2R/?tag=tolees-21)
+[![Timberland 6-Inch Waterproof Boot 73540 ](https://m.media-amazon.com/images/I/41l6ttf4rVL._SL400_.jpg)](https://www.amazon.es/dp/B073N3KT2R/?tag=tolees-21)
 
 🔎:
 

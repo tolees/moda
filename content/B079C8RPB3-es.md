@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjeplain tee SS V-Neck Noos con un 40.04 % de descuento'
 date: 2020-07-25 09:53:10
-image: 'https://m.media-amazon.com/images/I/41gcBVgIQ6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gcBVgIQ6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 En este momento está [Jack & Jones Jjeplain tee SS V-Neck Noos Camiseta  Blanco  White Detail: Slim Fit   Medium para Hombre](https://www.amazon.es/dp/B079C8RPB3/?tag=tolees-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones Jjeplain tee SS V-Neck Noos](https://m.media-amazon.com/images/I/41gcBVgIQ6L._SL200_.jpg)](https://www.amazon.es/dp/B079C8RPB3/?tag=tolees-21)
+[![Jack & Jones Jjeplain tee SS V-Neck Noos](https://m.media-amazon.com/images/I/41gcBVgIQ6L._SL400_.jpg)](https://www.amazon.es/dp/B079C8RPB3/?tag=tolees-21)
 
 🔎:
 

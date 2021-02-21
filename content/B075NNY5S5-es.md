@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.15 % en FitFlop Lulu Cross Slide  Sandalias de P'
 date: 2020-02-10 20:34:17
-image: 'https://m.media-amazon.com/images/I/31HGEqnabWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HGEqnabWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.48'
 
 Tienes [FitFlop Lulu Cross Slide  Sandalias de Punta Descubierta para Mujer  Black  Black 001   42 EU](https://www.amazon.es/dp/B075NNY5S5/?tag=tolees-21) con un 38.15 % de descuento con precio de oferta de 49.48 EUR (original: 80.0 EUR) en el siguiente enlace!
 
-[![FitFlop Lulu Cross Slide  Sandalias de P](https://m.media-amazon.com/images/I/31HGEqnabWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075NNY5S5/?tag=tolees-21)
+[![FitFlop Lulu Cross Slide  Sandalias de P](https://m.media-amazon.com/images/I/31HGEqnabWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075NNY5S5/?tag=tolees-21)
 
 ℹ️:
 

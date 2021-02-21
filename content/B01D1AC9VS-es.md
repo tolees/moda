@@ -2,7 +2,7 @@
 layout: post
 title: 'NICOLE & DORIS Bolsos para Mujeres Moda  al 36.01 % de rebaja'
 date: 2020-09-10 15:44:37
-image: 'https://m.media-amazon.com/images/I/41PVMBD1kmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PVMBD1kmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Tienes [NICOLE & DORIS Bolsos para Mujeres Moda Bolsos Bandolera para Mujer Bolsos de Hombro para Damas Bolsos Tote](https://www.amazon.es/dp/B01D1AC9VS/?tag=tolees-21) con precio final de  31.99 EUR (original: 49.99 EUR) (36.01 %  de rebaja) aqui!
 
-[![NICOLE & DORIS Bolsos para Mujeres Moda ](https://m.media-amazon.com/images/I/41PVMBD1kmL._SL200_.jpg)](https://www.amazon.es/dp/B01D1AC9VS/?tag=tolees-21)
+[![NICOLE & DORIS Bolsos para Mujeres Moda ](https://m.media-amazon.com/images/I/41PVMBD1kmL._SL400_.jpg)](https://www.amazon.es/dp/B01D1AC9VS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling - monedero de Sintético Mujer  c al 34.00 % de descuento'
 date: 2020-01-21 08:02:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/514p0nlTOvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514p0nlTOvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.32'
 
 Está [Kipling - monedero de Sintético Mujer  color Multicolor  talla 21.5x13.5x4 cm  B x H x T ](https://www.amazon.es/dp/B07N7RNZK1/?tag=tolees-21) con 34.00 de descuento por 24.42 EUR (original: 37 EUR) en el siguiente enlace!
 
-[![Kipling - monedero de Sintético Mujer  c](https://images-eu.ssl-images-amazon.com/images/I/514p0nlTOvL._SL200_.jpg)](https://www.amazon.es/dp/B07N7RNZK1/?tag=tolees-21)
+[![Kipling - monedero de Sintético Mujer  c](https://images-eu.ssl-images-amazon.com/images/I/514p0nlTOvL._SL400_.jpg)](https://www.amazon.es/dp/B07N7RNZK1/?tag=tolees-21)
 
 ℹ️:
 

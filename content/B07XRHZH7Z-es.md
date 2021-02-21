@@ -2,7 +2,7 @@
 layout: post
 title: 'Geographical Norway Parka Hombre BOKER N al 20.00 % de descuento'
 date: 2020-01-21 08:22:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YpGzD5iNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YpGzD5iNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.46666666666667'
 
 Ahora mismo tienes [Geographical Norway Parka Hombre BOKER Negro S](https://www.amazon.es/dp/B07XRHZH7Z/?tag=tolees-21) a 79.2 EUR (original: 99 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Geographical Norway Parka Hombre BOKER N](https://images-eu.ssl-images-amazon.com/images/I/41YpGzD5iNL._SL200_.jpg)](https://www.amazon.es/dp/B07XRHZH7Z/?tag=tolees-21)
+[![Geographical Norway Parka Hombre BOKER N](https://images-eu.ssl-images-amazon.com/images/I/41YpGzD5iNL._SL400_.jpg)](https://www.amazon.es/dp/B07XRHZH7Z/?tag=tolees-21)
 
 🔎:
 

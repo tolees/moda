@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox J HADRIEL Girl A  Zapatillas Altas  al 40.92 % de descuento'
 date: 2020-01-04 18:09:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41X15tdk0AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X15tdk0AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.4'
 
 Ahora mismo tienes [Geox J HADRIEL Girl A  Zapatillas Altas para Niñas  Gris  Dk Grey C9002   32 EU](https://www.amazon.es/dp/B07LG1QJ82/?tag=tolees-21) a 38.4 EUR (original: 65 EUR) (40.92 %  de descuento) en el siguiente enlace!
 
-[![Geox J HADRIEL Girl A  Zapatillas Altas ](https://images-eu.ssl-images-amazon.com/images/I/41X15tdk0AL._SL200_.jpg)](https://www.amazon.es/dp/B07LG1QJ82/?tag=tolees-21)
+[![Geox J HADRIEL Girl A  Zapatillas Altas ](https://images-eu.ssl-images-amazon.com/images/I/41X15tdk0AL._SL400_.jpg)](https://www.amazon.es/dp/B07LG1QJ82/?tag=tolees-21)
 
 🔎:
 

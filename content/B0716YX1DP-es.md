@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Woven Graphic Wordmark Shor al 49.67 % de descuento'
 date: 2020-04-25 13:08:08
-image: 'https://m.media-amazon.com/images/I/31tO90HddzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tO90HddzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.1375'
 
 Está [Under Armour Woven Graphic Wordmark Shorts Pantalón Corto  Hombre  Azul  Academy/Graphite 408   XL](https://www.amazon.es/dp/B0716YX1DP/?tag=tolees-21) con 49.67 de descuento por 12.08 EUR (original: 24.0 EUR) en el siguiente enlace!
 
-[![Under Armour Woven Graphic Wordmark Shor](https://m.media-amazon.com/images/I/31tO90HddzL._SL200_.jpg)](https://www.amazon.es/dp/B0716YX1DP/?tag=tolees-21)
+[![Under Armour Woven Graphic Wordmark Shor](https://m.media-amazon.com/images/I/31tO90HddzL._SL400_.jpg)](https://www.amazon.es/dp/B0716YX1DP/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri K TAKY H Sudadera  Negro  Blac al 57.28 % de descuento'
 date: 2020-04-13 12:09:13
-image: 'https://m.media-amazon.com/images/I/31pDCE7JKBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pDCE7JKBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.48'
 
 Ahora mismo tienes [Napapijri K TAKY H Sudadera  Negro  Black 041   10 años para Niños](https://www.amazon.es/dp/B07MQVHN97/?tag=tolees-21) a 29.48 EUR (original: 69.0 EUR) (57.28 %  de descuento) en el siguiente enlace!
 
-[![Napapijri K TAKY H Sudadera  Negro  Blac](https://m.media-amazon.com/images/I/31pDCE7JKBL._SL200_.jpg)](https://www.amazon.es/dp/B07MQVHN97/?tag=tolees-21)
+[![Napapijri K TAKY H Sudadera  Negro  Blac](https://m.media-amazon.com/images/I/31pDCE7JKBL._SL400_.jpg)](https://www.amazon.es/dp/B07MQVHN97/?tag=tolees-21)
 
 🔎:
 

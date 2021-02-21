@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen HP Fleece Jacket Chaqueta   con un 28.20 % de descuento'
 date: 2020-07-27 07:35:44
-image: 'https://m.media-amazon.com/images/I/41sAl5s-RSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sAl5s-RSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.900000000000006'
 
 En este momento está [Helly Hansen HP Fleece Jacket Chaqueta  Hombre  Royal Blue  M](https://www.amazon.es/dp/B07SD93BLH/?tag=tolees-21) a 78.98 EUR (original: 110.0 EUR) (28.20 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen HP Fleece Jacket Chaqueta  ](https://m.media-amazon.com/images/I/41sAl5s-RSL._SL200_.jpg)](https://www.amazon.es/dp/B07SD93BLH/?tag=tolees-21)
+[![Helly Hansen HP Fleece Jacket Chaqueta  ](https://m.media-amazon.com/images/I/41sAl5s-RSL._SL400_.jpg)](https://www.amazon.es/dp/B07SD93BLH/?tag=tolees-21)
 
 🔎:
 

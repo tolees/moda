@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Dress Briana Vestido  Negro 200 al 32.47 % de descuento'
 date: 2020-02-20 06:13:43
-image: 'https://m.media-amazon.com/images/I/31kJFgXB5hL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kJFgXB5hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.99'
 
 Ahora mismo tienes [Desigual Dress Briana Vestido  Negro 2000  XL para Mujer](https://www.amazon.es/dp/B07N3YBKM7/?tag=tolees-21) a 53.99 EUR (original: 79.95 EUR) (32.47 %  de descuento) en el siguiente enlace!
 
-[![Desigual Dress Briana Vestido  Negro 200](https://m.media-amazon.com/images/I/31kJFgXB5hL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N3YBKM7/?tag=tolees-21)
+[![Desigual Dress Briana Vestido  Negro 200](https://m.media-amazon.com/images/I/31kJFgXB5hL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N3YBKM7/?tag=tolees-21)
 
 🔎:
 

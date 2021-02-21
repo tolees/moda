@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Heather Canyon  Chaqueta Softsh con un 44.10 % de descuento'
 date: 2020-09-25 15:59:59
-image: 'https://m.media-amazon.com/images/I/41X4hERBxaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X4hERBxaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.913333333333334'
 
 En este momento está [Columbia Heather Canyon  Chaqueta Softshell  Hombre  Gris  Grey Ash Heather   XL](https://www.amazon.es/dp/B01N7JN2E8/?tag=tolees-21) a 55.89 EUR (original: 99.99 EUR) (44.10 %  de descuento) en el siguiente enlace!
 
-[![Columbia Heather Canyon  Chaqueta Softsh](https://m.media-amazon.com/images/I/41X4hERBxaL._SL200_.jpg)](https://www.amazon.es/dp/B01N7JN2E8/?tag=tolees-21)
+[![Columbia Heather Canyon  Chaqueta Softsh](https://m.media-amazon.com/images/I/41X4hERBxaL._SL400_.jpg)](https://www.amazon.es/dp/B01N7JN2E8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Berber C Sudadera  Verde  Gree al 60.00 % de descuento'
 date: 2020-03-29 14:46:32
-image: 'https://m.media-amazon.com/images/I/315eiI9kVXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315eiI9kVXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.6'
 
 Está [Napapijri Berber C Sudadera  Verde  Green Forest 2 GE3   X-Large para Hombre](https://www.amazon.es/dp/B07MVBY81F/?tag=tolees-21) con 60.00 de descuento por 35.6 EUR (original: 89.0 EUR) en el siguiente enlace!
 
-[![Napapijri Berber C Sudadera  Verde  Gree](https://m.media-amazon.com/images/I/315eiI9kVXL._SL200_.jpg)](https://www.amazon.es/dp/B07MVBY81F/?tag=tolees-21)
+[![Napapijri Berber C Sudadera  Verde  Gree](https://m.media-amazon.com/images/I/315eiI9kVXL._SL400_.jpg)](https://www.amazon.es/dp/B07MVBY81F/?tag=tolees-21)
 
 ℹ️:
 

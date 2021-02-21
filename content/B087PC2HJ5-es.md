@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 51.37 % en Suhctup Funda Compatible con Xiaomi Redm'
 date: 2020-05-18 14:01:35
-image: 'https://m.media-amazon.com/images/I/51bD+4xeOsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bD+4xeOsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.98'
 
 Tienes [Suhctup Funda Compatible con Xiaomi Redmi 8 Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Negro](https://www.amazon.es/dp/B087PC2HJ5/?tag=tolees-21) con un 51.37 % de descuento con precio de oferta de 10.98 EUR (original: 22.58 EUR) en el siguiente enlace!
 
-[![Suhctup Funda Compatible con Xiaomi Redm](https://m.media-amazon.com/images/I/51bD+4xeOsL._SL200_.jpg)](https://www.amazon.es/dp/B087PC2HJ5/?tag=tolees-21)
+[![Suhctup Funda Compatible con Xiaomi Redm](https://m.media-amazon.com/images/I/51bD+4xeOsL._SL400_.jpg)](https://www.amazon.es/dp/B087PC2HJ5/?tag=tolees-21)
 
 ℹ️:
 

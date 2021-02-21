@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Ch5843 Camisa  Gris  Anthracite  al 54.88 % de descuento'
 date: 2020-04-06 05:14:38
-image: 'https://m.media-amazon.com/images/I/41DPU5AgEdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DPU5AgEdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.895'
 
 Ahora mismo tienes [Lacoste Ch5843 Camisa  Gris  Anthracite Chiné 8fx   Small  Talla del Fabricante: 38  para Hombre](https://www.amazon.es/dp/B07MRKG9V7/?tag=tolees-21) a 54.14 EUR (original: 120.0 EUR) (54.88 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Ch5843 Camisa  Gris  Anthracite ](https://m.media-amazon.com/images/I/41DPU5AgEdL._SL200_.jpg)](https://www.amazon.es/dp/B07MRKG9V7/?tag=tolees-21)
+[![Lacoste Ch5843 Camisa  Gris  Anthracite ](https://m.media-amazon.com/images/I/41DPU5AgEdL._SL400_.jpg)](https://www.amazon.es/dp/B07MRKG9V7/?tag=tolees-21)
 
 🔎:
 

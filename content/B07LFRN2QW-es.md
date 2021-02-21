@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Jaylon E  Botas Clasicas para Hom al 51.70 % de descuento'
 date: 2020-10-08 23:09:11
-image: 'https://m.media-amazon.com/images/I/31c5wmPyjzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31c5wmPyjzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.91'
 
 Ahora mismo tienes [Geox U Jaylon E  Botas Clasicas para Hombre  Marrón  Dk Coffee C6024   46 EU](https://www.amazon.es/dp/B07LFRN2QW/?tag=tolees-21) a 57.91 EUR (original: 119.9 EUR) (51.70 %  de descuento) en el siguiente enlace!
 
-[![Geox U Jaylon E  Botas Clasicas para Hom](https://m.media-amazon.com/images/I/31c5wmPyjzL._SL200_.jpg)](https://www.amazon.es/dp/B07LFRN2QW/?tag=tolees-21)
+[![Geox U Jaylon E  Botas Clasicas para Hom](https://m.media-amazon.com/images/I/31c5wmPyjzL._SL400_.jpg)](https://www.amazon.es/dp/B07LFRN2QW/?tag=tolees-21)
 
 🔎:
 

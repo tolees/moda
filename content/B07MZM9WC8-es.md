@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Carrie Chaqueta   Mousse 808  con un 71.83 % de descuento'
 date: 2020-07-01 21:01:03
-image: 'https://m.media-amazon.com/images/I/41kx6NLBXRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kx6NLBXRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.00666666666667'
 
 En este momento está [Pepe Jeans Carrie Chaqueta   Mousse 808   X-Small para Mujer](https://www.amazon.es/dp/B07MZM9WC8/?tag=tolees-21) a 59.16 EUR (original: 210.0 EUR) (71.83 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Carrie Chaqueta   Mousse 808 ](https://m.media-amazon.com/images/I/41kx6NLBXRL._SL200_.jpg)](https://www.amazon.es/dp/B07MZM9WC8/?tag=tolees-21)
+[![Pepe Jeans Carrie Chaqueta   Mousse 808 ](https://m.media-amazon.com/images/I/41kx6NLBXRL._SL400_.jpg)](https://www.amazon.es/dp/B07MZM9WC8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 999cc1k803 Camiseta  Azul  al 46.19 % de rebaja'
 date: 2020-01-07 19:25:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41v6vGxUVNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v6vGxUVNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Tienes [edc by Esprit 999cc1k803 Camiseta  Azul  Navy 2 401   X-Large para Mujer](https://www.amazon.es/dp/B07N4FWTYQ/?tag=tolees-21) con precio final de  6.99 EUR (original: 12.99 EUR) (46.19 %  de rebaja) aqui!
 
-[![edc by Esprit 999cc1k803 Camiseta  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41v6vGxUVNL._SL200_.jpg)](https://www.amazon.es/dp/B07N4FWTYQ/?tag=tolees-21)
+[![edc by Esprit 999cc1k803 Camiseta  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41v6vGxUVNL._SL400_.jpg)](https://www.amazon.es/dp/B07N4FWTYQ/?tag=tolees-21)
 
 🔎:
 

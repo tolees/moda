@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 55.94 % en NIKE M Nk Dry tee Db Athlete Camiseta de'
 date: 2020-05-20 10:21:53
-image: 'https://m.media-amazon.com/images/I/31+qpJO0KUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+qpJO0KUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.01'
 
 Tienes [NIKE M Nk Dry tee Db Athlete Camiseta de Manga Corta  Hombre  White/ Black   XL](https://www.amazon.es/dp/B00OE7R55I/?tag=tolees-21) con un 55.94 % de descuento con precio de oferta de 11.01 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![NIKE M Nk Dry tee Db Athlete Camiseta de](https://m.media-amazon.com/images/I/31+qpJO0KUL._SL200_.jpg)](https://www.amazon.es/dp/B00OE7R55I/?tag=tolees-21)
+[![NIKE M Nk Dry tee Db Athlete Camiseta de](https://m.media-amazon.com/images/I/31+qpJO0KUL._SL400_.jpg)](https://www.amazon.es/dp/B00OE7R55I/?tag=tolees-21)
 
 ℹ️:
 

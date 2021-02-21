@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Dress LENCY Vestido  Negro  507 al 47.69 % de rebaja'
 date: 2020-06-21 18:01:37
-image: 'https://m.media-amazon.com/images/I/31zcCyS7tbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zcCyS7tbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.25'
 
 Tienes [Desigual Dress LENCY Vestido  Negro  5074   38 para Mujer](https://www.amazon.es/dp/B07N3Y9PLZ/?tag=tolees-21) con precio final de  47.05 EUR (original: 89.95 EUR) (47.69 %  de rebaja) aqui!
 
-[![Desigual Dress LENCY Vestido  Negro  507](https://m.media-amazon.com/images/I/31zcCyS7tbL._SL200_.jpg)](https://www.amazon.es/dp/B07N3Y9PLZ/?tag=tolees-21)
+[![Desigual Dress LENCY Vestido  Negro  507](https://m.media-amazon.com/images/I/31zcCyS7tbL._SL400_.jpg)](https://www.amazon.es/dp/B07N3Y9PLZ/?tag=tolees-21)
 
 🔎:
 

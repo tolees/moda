@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Sideline Poly Pants Core Panta al 39.90 % de rebaja'
 date: 2020-01-18 19:50:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31RYNiI89EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RYNiI89EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 Tienes [PUMA Liga Sideline Poly Pants Core Pantalón  Hombre  Azul  Azul Oscuro/Blanco   XL](https://www.amazon.es/dp/B07864YJXM/?tag=tolees-21) con precio final de  18 EUR (original: 29.95 EUR) (39.90 %  de rebaja) aqui!
 
-[![PUMA Liga Sideline Poly Pants Core Panta](https://images-eu.ssl-images-amazon.com/images/I/31RYNiI89EL._SL200_.jpg)](https://www.amazon.es/dp/B07864YJXM/?tag=tolees-21)
+[![PUMA Liga Sideline Poly Pants Core Panta](https://images-eu.ssl-images-amazon.com/images/I/31RYNiI89EL._SL400_.jpg)](https://www.amazon.es/dp/B07864YJXM/?tag=tolees-21)
 
 🔎:
 

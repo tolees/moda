@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - MERAKI Sudadera con Capuc con un 17.59 % de descuento'
 date: 2020-09-19 08:58:49
-image: 'https://m.media-amazon.com/images/I/31tPyPv9IzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tPyPv9IzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.120000000000001'
 
 En este momento está [Marca Amazon - MERAKI Sudadera con Capucha Hombre  Negro  Black   M  Label: M](https://www.amazon.es/dp/B078YZTXPC/?tag=tolees-21) a 9.37 EUR (original: 11.37 EUR) (17.59 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - MERAKI Sudadera con Capuc](https://m.media-amazon.com/images/I/31tPyPv9IzL._SL200_.jpg)](https://www.amazon.es/dp/B078YZTXPC/?tag=tolees-21)
+[![Marca Amazon - MERAKI Sudadera con Capuc](https://m.media-amazon.com/images/I/31tPyPv9IzL._SL400_.jpg)](https://www.amazon.es/dp/B078YZTXPC/?tag=tolees-21)
 
 🔎:
 

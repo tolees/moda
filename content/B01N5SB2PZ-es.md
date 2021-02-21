@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 17.40 % de descuento'
 date: 2020-08-25 09:52:04
-image: 'https://m.media-amazon.com/images/I/41Vqo-EwsGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vqo-EwsGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.99679245283018'
 
 Ahora mismo tienes [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  White 297   XS](https://www.amazon.es/dp/B01N5SB2PZ/?tag=tolees-21) a 20.65 EUR (original: 25.0 EUR) (17.40 %  de descuento) en el siguiente enlace!
 
-[![Levi s The Perfect Tee  Camiseta  Mujer ](https://m.media-amazon.com/images/I/41Vqo-EwsGL._SL200_.jpg)](https://www.amazon.es/dp/B01N5SB2PZ/?tag=tolees-21)
+[![Levi s The Perfect Tee  Camiseta  Mujer ](https://m.media-amazon.com/images/I/41Vqo-EwsGL._SL400_.jpg)](https://www.amazon.es/dp/B01N5SB2PZ/?tag=tolees-21)
 
 🔎:
 

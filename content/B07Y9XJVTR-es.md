@@ -2,7 +2,7 @@
 layout: post
 title: 'Castellanisimos Zapatos Náuticos de Piel al 55.86 % de rebaja'
 date: 2020-02-02 21:37:57
-image: 'https://m.media-amazon.com/images/I/31t1oLQHPWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31t1oLQHPWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.0'
 
 Tienes [Castellanisimos Zapatos Náuticos de Piel Marron Hombre con Cordones](https://www.amazon.es/dp/B07Y9XJVTR/?tag=tolees-21) con precio final de  64.0 EUR (original: 145.0 EUR) (55.86 %  de rebaja) aqui!
 
-[![Castellanisimos Zapatos Náuticos de Piel](https://m.media-amazon.com/images/I/31t1oLQHPWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Y9XJVTR/?tag=tolees-21)
+[![Castellanisimos Zapatos Náuticos de Piel](https://m.media-amazon.com/images/I/31t1oLQHPWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Y9XJVTR/?tag=tolees-21)
 
 🔎:
 

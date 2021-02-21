@@ -2,7 +2,7 @@
 layout: post
 title: 'Marvel More Than A Fan Mujer Camiseta Ne al 20.01 % de descuento'
 date: 2020-08-23 12:36:57
-image: 'https://m.media-amazon.com/images/I/4194meA+PiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4194meA+PiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.19'
 
 Ahora mismo tienes [Marvel More Than A Fan Mujer Camiseta Negro S  100% algodón  Regular](https://www.amazon.es/dp/B07YCNQBR7/?tag=tolees-21) a 19.19 EUR (original: 23.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![Marvel More Than A Fan Mujer Camiseta Ne](https://m.media-amazon.com/images/I/4194meA+PiL._SL200_.jpg)](https://www.amazon.es/dp/B07YCNQBR7/?tag=tolees-21)
+[![Marvel More Than A Fan Mujer Camiseta Ne](https://m.media-amazon.com/images/I/4194meA+PiL._SL400_.jpg)](https://www.amazon.es/dp/B07YCNQBR7/?tag=tolees-21)
 
 🔎:
 

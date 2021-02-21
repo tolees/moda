@@ -2,7 +2,7 @@
 layout: post
 title: 'ACVIP - Correa de hombro ancha ajustable al 44.46 % de descuento'
 date: 2020-07-04 13:45:44
-image: 'https://m.media-amazon.com/images/I/41b3U7Nl8JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b3U7Nl8JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.92'
 
 Está [ACVIP - Correa de hombro ancha ajustable a rayas para bolso cruzado  color  talla Talla única](https://www.amazon.es/dp/B07SK1DZDS/?tag=tolees-21) con 44.46 de descuento por 9.92 EUR (original: 17.86 EUR) en el siguiente enlace!
 
-[![ACVIP - Correa de hombro ancha ajustable](https://m.media-amazon.com/images/I/41b3U7Nl8JL._SL200_.jpg)](https://www.amazon.es/dp/B07SK1DZDS/?tag=tolees-21)
+[![ACVIP - Correa de hombro ancha ajustable](https://m.media-amazon.com/images/I/41b3U7Nl8JL._SL400_.jpg)](https://www.amazon.es/dp/B07SK1DZDS/?tag=tolees-21)
 
 ℹ️:
 

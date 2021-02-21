@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.04 % en Tommy Hilfiger Cosy Rainboot  Botines pa'
 date: 2020-01-27 11:37:58
-image: 'https://m.media-amazon.com/images/I/410j0qAy0yL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410j0qAy0yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.59'
 
 Tienes [Tommy Hilfiger Cosy Rainboot  Botines para Mujer  Midnight 403  38 EU](https://www.amazon.es/dp/B07N6XDL5K/?tag=tolees-21) con un 37.04 % de descuento con precio de oferta de 39.59 EUR (original: 62.88 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Cosy Rainboot  Botines pa](https://m.media-amazon.com/images/I/410j0qAy0yL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N6XDL5K/?tag=tolees-21)
+[![Tommy Hilfiger Cosy Rainboot  Botines pa](https://m.media-amazon.com/images/I/410j0qAy0yL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N6XDL5K/?tag=tolees-21)
 
 ℹ️:
 

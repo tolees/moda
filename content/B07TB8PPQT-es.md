@@ -2,7 +2,7 @@
 layout: post
 title: 'The North Face M Quest L/S Camiseta  Hom con un 48.27 % de descuento'
 date: 2020-09-25 16:54:51
-image: 'https://m.media-amazon.com/images/I/41O6ih-Ey7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41O6ih-Ey7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.28'
 
 En este momento está [The North Face M Quest L/S Camiseta  Hombre  TNF Yellow/TNF  S](https://www.amazon.es/dp/B07TB8PPQT/?tag=tolees-21) a 23.28 EUR (original: 45.0 EUR) (48.27 %  de descuento) en el siguiente enlace!
 
-[![The North Face M Quest L/S Camiseta  Hom](https://m.media-amazon.com/images/I/41O6ih-Ey7L._SL200_.jpg)](https://www.amazon.es/dp/B07TB8PPQT/?tag=tolees-21)
+[![The North Face M Quest L/S Camiseta  Hom](https://m.media-amazon.com/images/I/41O6ih-Ey7L._SL400_.jpg)](https://www.amazon.es/dp/B07TB8PPQT/?tag=tolees-21)
 
 🔎:
 

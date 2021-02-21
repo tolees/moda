@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.02 % en Levi s Coit Down Puffer Chaqueta  Negro '
 date: 2020-01-18 11:16:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '83.47'
 
 Tienes [Levi s Coit Down Puffer Chaqueta  Negro  Black 0003   Medium para Hombre](https://www.amazon.es/dp/B07LF5XYSF/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 79.95 EUR (original: 200 EUR) en el siguiente enlace!
 
-[![Levi s Coit Down Puffer Chaqueta  Negro ](https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg)](https://www.amazon.es/dp/B07LF5XYSF/?tag=tolees-21)
+[![Levi s Coit Down Puffer Chaqueta  Negro ](https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL400_.jpg)](https://www.amazon.es/dp/B07LF5XYSF/?tag=tolees-21)
 
 ℹ️:
 

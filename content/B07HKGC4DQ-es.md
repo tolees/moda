@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Spawn Mid  Zapatos de Ba al 55.56 % de rebaja'
 date: 2020-04-26 18:05:30
-image: 'https://m.media-amazon.com/images/I/41qxnpfUSZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qxnpfUSZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.980000000000004'
 
 Tienes [Under Armour UA Spawn Mid  Zapatos de Baloncesto para Hombre  Rojo  Red 604   48.5 EU](https://www.amazon.es/dp/B07HKGC4DQ/?tag=tolees-21) con precio final de  46.39 EUR (original: 104.39 EUR) (55.56 %  de rebaja) aqui!
 
-[![Under Armour UA Spawn Mid  Zapatos de Ba](https://m.media-amazon.com/images/I/41qxnpfUSZL._SL200_.jpg)](https://www.amazon.es/dp/B07HKGC4DQ/?tag=tolees-21)
+[![Under Armour UA Spawn Mid  Zapatos de Ba](https://m.media-amazon.com/images/I/41qxnpfUSZL._SL400_.jpg)](https://www.amazon.es/dp/B07HKGC4DQ/?tag=tolees-21)
 
 🔎:
 

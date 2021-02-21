@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 24.18 % en Havaianas Brasil Mix  Chanclas Unisex Ad'
 date: 2020-08-30 12:22:39
-image: 'https://m.media-amazon.com/images/I/414tF2TZnjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414tF2TZnjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.397'
 
 Tienes [Havaianas Brasil Mix  Chanclas Unisex Adulto  Multicolor  Black/White   39/40 EU](https://www.amazon.es/dp/B01L410MOC/?tag=tolees-21) con un 24.18 % de descuento con precio de oferta de 18.12 EUR (original: 23.9 EUR) en el siguiente enlace!
 
-[![Havaianas Brasil Mix  Chanclas Unisex Ad](https://m.media-amazon.com/images/I/414tF2TZnjL._SL200_.jpg)](https://www.amazon.es/dp/B01L410MOC/?tag=tolees-21)
+[![Havaianas Brasil Mix  Chanclas Unisex Ad](https://m.media-amazon.com/images/I/414tF2TZnjL._SL400_.jpg)](https://www.amazon.es/dp/B01L410MOC/?tag=tolees-21)
 
 ℹ️:
 

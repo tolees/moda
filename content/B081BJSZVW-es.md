@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Flashback  Chaqueta cortaviento al 29.03 % de descuento'
 date: 2020-09-04 11:11:22
-image: 'https://m.media-amazon.com/images/I/41SKdWY64NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SKdWY64NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.06'
 
 Está [Columbia Flashback  Chaqueta cortavientos  Hombre  Gris/Negro  City Grey/Negro  Shark    S](https://www.amazon.es/dp/B081BJSZVW/?tag=tolees-21) con 29.03 de descuento por 35.48 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Columbia Flashback  Chaqueta cortaviento](https://m.media-amazon.com/images/I/41SKdWY64NL._SL200_.jpg)](https://www.amazon.es/dp/B081BJSZVW/?tag=tolees-21)
+[![Columbia Flashback  Chaqueta cortaviento](https://m.media-amazon.com/images/I/41SKdWY64NL._SL400_.jpg)](https://www.amazon.es/dp/B081BJSZVW/?tag=tolees-21)
 
 ℹ️:
 

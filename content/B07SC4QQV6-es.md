@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen HH Logo Crew Sudadera Depor al 46.43 % de descuento'
 date: 2020-09-12 01:29:52
-image: 'https://m.media-amazon.com/images/I/41i+PQCelqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i+PQCelqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.281666666666666'
 
 Está [Helly Hansen HH Logo Crew Sudadera Deportiva  Hombre  Azul Royal  S](https://www.amazon.es/dp/B07SC4QQV6/?tag=tolees-21) con 46.43 de descuento por 32.14 EUR (original: 60.0 EUR) en el siguiente enlace!
 
-[![Helly Hansen HH Logo Crew Sudadera Depor](https://m.media-amazon.com/images/I/41i+PQCelqL._SL200_.jpg)](https://www.amazon.es/dp/B07SC4QQV6/?tag=tolees-21)
+[![Helly Hansen HH Logo Crew Sudadera Depor](https://m.media-amazon.com/images/I/41i+PQCelqL._SL400_.jpg)](https://www.amazon.es/dp/B07SC4QQV6/?tag=tolees-21)
 
 ℹ️:
 

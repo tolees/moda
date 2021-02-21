@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.01 % en Pepe Jeans Soho Vaqueros  Denim Oz Class'
 date: 2020-07-24 09:26:55
-image: 'https://m.media-amazon.com/images/I/41hSnDy1AXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hSnDy1AXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.781666666666666'
 
 Tienes [Pepe Jeans Soho Vaqueros  Denim Oz Classic Stretch Z632  25W / 32L para Mujer](https://www.amazon.es/dp/B00XMLGP5S/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 29.99 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Soho Vaqueros  Denim Oz Class](https://m.media-amazon.com/images/I/41hSnDy1AXL._SL200_.jpg)](https://www.amazon.es/dp/B00XMLGP5S/?tag=tolees-21)
+[![Pepe Jeans Soho Vaqueros  Denim Oz Class](https://m.media-amazon.com/images/I/41hSnDy1AXL._SL400_.jpg)](https://www.amazon.es/dp/B00XMLGP5S/?tag=tolees-21)
 
 ℹ️:
 

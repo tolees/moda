@@ -2,7 +2,7 @@
 layout: post
 title: 'Savage Culture Cala Llonga Blusa  Blanco al 46.27 % de descuento'
 date: 2020-01-21 16:26:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41JFQF2NnkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JFQF2NnkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.7'
 
 Ahora mismo tienes [Savage Culture Cala Llonga Blusa  Blanco  Blanco 007   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07BH6V5J2/?tag=tolees-21) a 31.7 EUR (original: 59 EUR) (46.27 %  de descuento) en el siguiente enlace!
 
-[![Savage Culture Cala Llonga Blusa  Blanco](https://images-eu.ssl-images-amazon.com/images/I/41JFQF2NnkL._SL200_.jpg)](https://www.amazon.es/dp/B07BH6V5J2/?tag=tolees-21)
+[![Savage Culture Cala Llonga Blusa  Blanco](https://images-eu.ssl-images-amazon.com/images/I/41JFQF2NnkL._SL400_.jpg)](https://www.amazon.es/dp/B07BH6V5J2/?tag=tolees-21)
 
 🔎:
 

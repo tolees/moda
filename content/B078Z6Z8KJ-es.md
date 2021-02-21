@@ -2,7 +2,7 @@
 layout: post
 title: 'GRITION Sandalias Hombre Verano Punta Ce con un 41.08 % de descuento'
 date: 2020-06-28 11:55:19
-image: 'https://m.media-amazon.com/images/I/41SGKid21uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SGKid21uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.99'
 
 En este momento está [GRITION Sandalias Hombre Verano Punta Cerrada Sandalias de Deporte de Gran Tamaño Sandalias de Protección Rápida Dry Toecap Verano  40EU BB ](https://www.amazon.es/dp/B078Z6Z8KJ/?tag=tolees-21) a 45.99 EUR (original: 78.05 EUR) (41.08 %  de descuento) en el siguiente enlace!
 
-[![GRITION Sandalias Hombre Verano Punta Ce](https://m.media-amazon.com/images/I/41SGKid21uL._SL200_.jpg)](https://www.amazon.es/dp/B078Z6Z8KJ/?tag=tolees-21)
+[![GRITION Sandalias Hombre Verano Punta Ce](https://m.media-amazon.com/images/I/41SGKid21uL._SL400_.jpg)](https://www.amazon.es/dp/B078Z6Z8KJ/?tag=tolees-21)
 
 🔎:
 

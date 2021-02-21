@@ -2,7 +2,7 @@
 layout: post
 title: 'oodji Ultra Mujer Blusa con Escote Barco al 49.08 % de descuento'
 date: 2020-08-26 21:25:49
-image: 'https://m.media-amazon.com/images/I/51YTWy-PzAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YTWy-PzAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.3'
 
 Ahora mismo tienes [oodji Ultra Mujer Blusa con Escote Barco y Volantes en Las Mangas  Azul  ES 42 / L](https://www.amazon.es/dp/B07MKXFJMS/?tag=tolees-21) a 8.3 EUR (original: 16.3 EUR) (49.08 %  de descuento) en el siguiente enlace!
 
-[![oodji Ultra Mujer Blusa con Escote Barco](https://m.media-amazon.com/images/I/51YTWy-PzAL._SL200_.jpg)](https://www.amazon.es/dp/B07MKXFJMS/?tag=tolees-21)
+[![oodji Ultra Mujer Blusa con Escote Barco](https://m.media-amazon.com/images/I/51YTWy-PzAL._SL400_.jpg)](https://www.amazon.es/dp/B07MKXFJMS/?tag=tolees-21)
 
 🔎:
 

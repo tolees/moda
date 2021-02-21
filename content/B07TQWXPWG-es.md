@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Graphic 15 Hooded Sudadera  M al 50.01 % de descuento'
 date: 2020-02-19 19:16:22
-image: 'https://m.media-amazon.com/images/I/41riwnA6jiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41riwnA6jiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.97'
 
 Ahora mismo tienes [G-STAR RAW Graphic 15 Hooded Sudadera  Multicolor  Mazarine Blue/Sartho Blue/Grey Htr B051   X-Large para Hombre](https://www.amazon.es/dp/B07TQWXPWG/?tag=tolees-21) a 44.97 EUR (original: 89.95 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Graphic 15 Hooded Sudadera  M](https://m.media-amazon.com/images/I/41riwnA6jiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TQWXPWG/?tag=tolees-21)
+[![G-STAR RAW Graphic 15 Hooded Sudadera  M](https://m.media-amazon.com/images/I/41riwnA6jiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TQWXPWG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Adriel Viola  Zapatos de Tacón pa al 40.00 % de rebaja'
 date: 2020-09-06 18:02:33
-image: 'https://m.media-amazon.com/images/I/41FI-fWqcOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FI-fWqcOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.97'
 
 Tienes [Clarks Adriel Viola  Zapatos de Tacón para Mujer  Negro  Black Pat   40 EU](https://www.amazon.es/dp/B06XCJLR69/?tag=tolees-21) con precio final de  47.97 EUR (original: 79.95 EUR) (40.00 %  de rebaja) aqui!
 
-[![Clarks Adriel Viola  Zapatos de Tacón pa](https://m.media-amazon.com/images/I/41FI-fWqcOL._SL200_.jpg)](https://www.amazon.es/dp/B06XCJLR69/?tag=tolees-21)
+[![Clarks Adriel Viola  Zapatos de Tacón pa](https://m.media-amazon.com/images/I/41FI-fWqcOL._SL400_.jpg)](https://www.amazon.es/dp/B06XCJLR69/?tag=tolees-21)
 
 🔎:
 

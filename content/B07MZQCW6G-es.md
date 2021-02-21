@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Cash Vaqueros Straight  Azul  al 59.52 % de descuento'
 date: 2020-06-28 16:11:24
-image: 'https://m.media-amazon.com/images/I/41zzunddmZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zzunddmZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.97'
 
 Está [Pepe Jeans Cash Vaqueros Straight  Azul  Medium Used Denim 000   W34/L34 para Hombre](https://www.amazon.es/dp/B07MZQCW6G/?tag=tolees-21) con 59.52 de descuento por 38.46 EUR (original: 95.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Cash Vaqueros Straight  Azul ](https://m.media-amazon.com/images/I/41zzunddmZL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQCW6G/?tag=tolees-21)
+[![Pepe Jeans Cash Vaqueros Straight  Azul ](https://m.media-amazon.com/images/I/41zzunddmZL._SL400_.jpg)](https://www.amazon.es/dp/B07MZQCW6G/?tag=tolees-21)
 
 ℹ️:
 

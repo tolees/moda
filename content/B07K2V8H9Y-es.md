@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Glacial IV Jersey Polar con Med al 42.61 % de rebaja'
 date: 2020-01-28 12:17:25
-image: 'https://m.media-amazon.com/images/I/41sNK0FT3yL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sNK0FT3yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.325000000000003'
 
 Tienes [Columbia Glacial IV Jersey Polar con Media Cremallera para Mujer  Color: Rosa  Fucsia   Talla: S](https://www.amazon.es/dp/B07K2V8H9Y/?tag=tolees-21) con precio final de  17.21 EUR (original: 29.99 EUR) (42.61 %  de rebaja) aqui!
 
-[![Columbia Glacial IV Jersey Polar con Med](https://m.media-amazon.com/images/I/41sNK0FT3yL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K2V8H9Y/?tag=tolees-21)
+[![Columbia Glacial IV Jersey Polar con Med](https://m.media-amazon.com/images/I/41sNK0FT3yL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K2V8H9Y/?tag=tolees-21)
 
 🔎:
 

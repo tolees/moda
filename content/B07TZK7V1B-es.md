@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Trunk 3p Co/El Bóxer  Multicolor  O al 57.27 % de descuento'
 date: 2020-08-14 08:34:10
-image: 'https://m.media-amazon.com/images/I/31oLl1FfQ7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oLl1FfQ7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.025'
 
 Está [BOSS Trunk 3p Co/El Bóxer  Multicolor  Open Miscellaneous 50426021-962   M  Pack de 3  para Hombre](https://www.amazon.es/dp/B07TZK7V1B/?tag=tolees-21) con 57.27 de descuento por 17.07 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![BOSS Trunk 3p Co/El Bóxer  Multicolor  O](https://m.media-amazon.com/images/I/31oLl1FfQ7L._SL200_.jpg)](https://www.amazon.es/dp/B07TZK7V1B/?tag=tolees-21)
+[![BOSS Trunk 3p Co/El Bóxer  Multicolor  O](https://m.media-amazon.com/images/I/31oLl1FfQ7L._SL400_.jpg)](https://www.amazon.es/dp/B07TZK7V1B/?tag=tolees-21)
 
 ℹ️:
 

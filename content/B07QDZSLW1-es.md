@@ -2,7 +2,7 @@
 layout: post
 title: 'Cressi Ninja Floating - Gafas Flotantes  al 42.25 % de descuento'
 date: 2020-05-29 16:58:33
-image: 'https://m.media-amazon.com/images/I/41GNT+0LtBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GNT+0LtBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.32'
 
 Está [Cressi Ninja Floating - Gafas Flotantes Polarizadas para Deportes con una protección 100% UV Adultos Unisex  Amarillo/Azul/Lentes Azul Espejadas](https://www.amazon.es/dp/B07QDZSLW1/?tag=tolees-21) con 42.25 de descuento por 17.32 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Cressi Ninja Floating - Gafas Flotantes ](https://m.media-amazon.com/images/I/41GNT+0LtBL._SL200_.jpg)](https://www.amazon.es/dp/B07QDZSLW1/?tag=tolees-21)
+[![Cressi Ninja Floating - Gafas Flotantes ](https://m.media-amazon.com/images/I/41GNT+0LtBL._SL400_.jpg)](https://www.amazon.es/dp/B07QDZSLW1/?tag=tolees-21)
 
 ℹ️:
 

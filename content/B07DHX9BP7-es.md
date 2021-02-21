@@ -2,7 +2,7 @@
 layout: post
 title: 'Diesel Buster Vaqueros Straight  Negro   al 25.93 % de descuento'
 date: 2020-07-05 10:01:47
-image: 'https://m.media-amazon.com/images/I/31xrr8fteLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xrr8fteLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.94'
 
 Ahora mismo tienes [Diesel Buster Vaqueros Straight  Negro  Negro 069bg   31W / 32L para Hombre](https://www.amazon.es/dp/B07DHX9BP7/?tag=tolees-21) a 17.94 EUR (original: 24.22 EUR) (25.93 %  de descuento) en el siguiente enlace!
 
-[![Diesel Buster Vaqueros Straight  Negro  ](https://m.media-amazon.com/images/I/31xrr8fteLL._SL200_.jpg)](https://www.amazon.es/dp/B07DHX9BP7/?tag=tolees-21)
+[![Diesel Buster Vaqueros Straight  Negro  ](https://m.media-amazon.com/images/I/31xrr8fteLL._SL400_.jpg)](https://www.amazon.es/dp/B07DHX9BP7/?tag=tolees-21)
 
 🔎:
 

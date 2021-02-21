@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.42 % en Under Armour Tech Tank-Solid Correr  Cam'
 date: 2020-03-18 12:23:41
-image: 'https://m.media-amazon.com/images/I/41xXm5ElwpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xXm5ElwpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.05'
 
 Tienes [Under Armour Tech Tank-Solid Correr  Camiseta Ancha para Mujer  Gris  MD](https://www.amazon.es/dp/B00YO740RO/?tag=tolees-21) con un 30.42 % de descuento con precio de oferta de 18.09 EUR (original: 26.0 EUR) en el siguiente enlace!
 
-[![Under Armour Tech Tank-Solid Correr  Cam](https://m.media-amazon.com/images/I/41xXm5ElwpL._SL200_.jpg)](https://www.amazon.es/dp/B00YO740RO/?tag=tolees-21)
+[![Under Armour Tech Tank-Solid Correr  Cam](https://m.media-amazon.com/images/I/41xXm5ElwpL._SL400_.jpg)](https://www.amazon.es/dp/B00YO740RO/?tag=tolees-21)
 
 ℹ️:
 

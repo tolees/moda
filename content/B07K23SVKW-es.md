@@ -2,7 +2,7 @@
 layout: post
 title: 'Moda Mujer Casual Encaje Sexy Lunares O  con un 54.86 % de descuento'
 date: 2020-09-22 17:09:27
-image: 'https://m.media-amazon.com/images/I/51W-+X7XsHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51W-+X7XsHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.69'
 
 En este momento está [Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce Volante Camiseta Manga Larga Tops Blusa Luckycat  Blanco  Pequeña ](https://www.amazon.es/dp/B07K23SVKW/?tag=tolees-21) a 4.69 EUR (original: 10.39 EUR) (54.86 %  de descuento) en el siguiente enlace!
 
-[![Moda Mujer Casual Encaje Sexy Lunares O ](https://m.media-amazon.com/images/I/51W-+X7XsHL._SL200_.jpg)](https://www.amazon.es/dp/B07K23SVKW/?tag=tolees-21)
+[![Moda Mujer Casual Encaje Sexy Lunares O ](https://m.media-amazon.com/images/I/51W-+X7XsHL._SL400_.jpg)](https://www.amazon.es/dp/B07K23SVKW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW 3301 Slim Fit Jeans Vaqueros  al 79.62 % de rebaja'
 date: 2020-09-16 04:40:26
-image: 'https://m.media-amazon.com/images/I/31rQQHE9dDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rQQHE9dDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.44'
 
 Tienes [G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Dk Aged 8466-89  27W / 34L para Hombre](https://www.amazon.es/dp/B01N4NUXIC/?tag=tolees-21) con precio final de  24.44 EUR (original: 119.95 EUR) (79.62 %  de rebaja) aqui!
 
-[![G-STAR RAW 3301 Slim Fit Jeans Vaqueros ](https://m.media-amazon.com/images/I/31rQQHE9dDL._SL200_.jpg)](https://www.amazon.es/dp/B01N4NUXIC/?tag=tolees-21)
+[![G-STAR RAW 3301 Slim Fit Jeans Vaqueros ](https://m.media-amazon.com/images/I/31rQQHE9dDL._SL400_.jpg)](https://www.amazon.es/dp/B01N4NUXIC/?tag=tolees-21)
 
 🔎:
 

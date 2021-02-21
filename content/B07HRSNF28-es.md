@@ -2,7 +2,7 @@
 layout: post
 title: 'HAWKERS · COLLINS · Gold · Green Bottle  con un 29.52 % de descuento'
 date: 2020-04-12 09:18:35
-image: 'https://m.media-amazon.com/images/I/31J278mIxtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31J278mIxtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.213333333333333'
 
 En este momento está [HAWKERS · COLLINS · Gold · Green Bottle · Gafas de sol para hombre y mujer](https://www.amazon.es/dp/B07HRSNF28/?tag=tolees-21) a 5.3 EUR (original: 7.52 EUR) (29.52 %  de descuento) en el siguiente enlace!
 
-[![HAWKERS · COLLINS · Gold · Green Bottle ](https://m.media-amazon.com/images/I/31J278mIxtL._SL200_.jpg)](https://www.amazon.es/dp/B07HRSNF28/?tag=tolees-21)
+[![HAWKERS · COLLINS · Gold · Green Bottle ](https://m.media-amazon.com/images/I/31J278mIxtL._SL400_.jpg)](https://www.amazon.es/dp/B07HRSNF28/?tag=tolees-21)
 
 🔎:
 

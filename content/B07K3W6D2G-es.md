@@ -2,7 +2,7 @@
 layout: post
 title: 'Fortnite Floss Dance - Camiseta  color g al 54.71 % de descuento'
 date: 2020-02-24 17:32:51
-image: 'https://m.media-amazon.com/images/I/31raXYMoAwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31raXYMoAwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 Ahora mismo tienes [Fortnite Floss Dance - Camiseta  color gris oscuro  talla L](https://www.amazon.es/dp/B07K3W6D2G/?tag=tolees-21) a 5.0 EUR (original: 11.04 EUR) (54.71 %  de descuento) en el siguiente enlace!
 
-[![Fortnite Floss Dance - Camiseta  color g](https://m.media-amazon.com/images/I/31raXYMoAwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K3W6D2G/?tag=tolees-21)
+[![Fortnite Floss Dance - Camiseta  color g](https://m.media-amazon.com/images/I/31raXYMoAwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K3W6D2G/?tag=tolees-21)
 
 🔎:
 

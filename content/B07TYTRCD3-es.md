@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Junior Gafas de sol  Multicolor  Cr con un 37.99 % de descuento'
 date: 2020-03-20 11:48:12
-image: 'https://m.media-amazon.com/images/I/31ipjtJdzLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ipjtJdzLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.66'
 
 En este momento está [Puma Junior Gafas de sol  Multicolor  Crystal/Silver/Havana   47.0 Unisex Niños](https://www.amazon.es/dp/B07TYTRCD3/?tag=tolees-21) a 6.66 EUR (original: 10.74 EUR) (37.99 %  de descuento) en el siguiente enlace!
 
-[![Puma Junior Gafas de sol  Multicolor  Cr](https://m.media-amazon.com/images/I/31ipjtJdzLL._SL200_.jpg)](https://www.amazon.es/dp/B07TYTRCD3/?tag=tolees-21)
+[![Puma Junior Gafas de sol  Multicolor  Cr](https://m.media-amazon.com/images/I/31ipjtJdzLL._SL400_.jpg)](https://www.amazon.es/dp/B07TYTRCD3/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 56.95 % en El Ganso 1 Camisa casual  Rojo  Rojo 001'
 date: 2020-04-26 11:50:07
-image: 'https://m.media-amazon.com/images/I/51l7zxQOvFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51l7zxQOvFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.009999999999998'
 
 Tienes [El Ganso 1 Camisa casual  Rojo  Rojo 0010   XX-Large para Hombre](https://www.amazon.es/dp/B07PQNCV75/?tag=tolees-21) con un 56.95 % de descuento con precio de oferta de 25.4 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![El Ganso 1 Camisa casual  Rojo  Rojo 001](https://m.media-amazon.com/images/I/51l7zxQOvFL._SL200_.jpg)](https://www.amazon.es/dp/B07PQNCV75/?tag=tolees-21)
+[![El Ganso 1 Camisa casual  Rojo  Rojo 001](https://m.media-amazon.com/images/I/51l7zxQOvFL._SL400_.jpg)](https://www.amazon.es/dp/B07PQNCV75/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Whistler Slim Down Hooded Cha al 65.21 % de descuento'
 date: 2020-01-29 14:08:57
-image: 'https://m.media-amazon.com/images/I/41dETNzl0YL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dETNzl0YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.56'
 
 Ahora mismo tienes [G-STAR RAW Whistler Slim Down Hooded Chaqueta  Gris  Mercury 1359   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07NDNPFLW/?tag=tolees-21) a 69.56 EUR (original: 199.95 EUR) (65.21 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Whistler Slim Down Hooded Cha](https://m.media-amazon.com/images/I/41dETNzl0YL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NDNPFLW/?tag=tolees-21)
+[![G-STAR RAW Whistler Slim Down Hooded Cha](https://m.media-amazon.com/images/I/41dETNzl0YL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NDNPFLW/?tag=tolees-21)
 
 🔎:
 

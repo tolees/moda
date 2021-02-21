@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - MERAKI Chaqueta de Algodó al 15.89 % de descuento'
 date: 2020-09-19 08:27:56
-image: 'https://m.media-amazon.com/images/I/31Wg81joeqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Wg81joeqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.909999999999999'
 
 Ahora mismo tienes [Marca Amazon - MERAKI Chaqueta de Algodón Mujer Cuello Redondo  Beige  Linen   42  Label: L](https://www.amazon.es/dp/B074W7MFSJ/?tag=tolees-21) a 7.2 EUR (original: 8.56 EUR) (15.89 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - MERAKI Chaqueta de Algodó](https://m.media-amazon.com/images/I/31Wg81joeqL._SL200_.jpg)](https://www.amazon.es/dp/B074W7MFSJ/?tag=tolees-21)
+[![Marca Amazon - MERAKI Chaqueta de Algodó](https://m.media-amazon.com/images/I/31Wg81joeqL._SL400_.jpg)](https://www.amazon.es/dp/B074W7MFSJ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Originals Sudadera con Ca con un 47.68 % de descuento'
 date: 2020-04-12 17:16:35
-image: 'https://m.media-amazon.com/images/I/41AAyjx6AmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AAyjx6AmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.95'
 
 En este momento está [Charles Wilson Originals Sudadera con Capucha  X-Small  Port  0819  ](https://www.amazon.es/dp/B07WWFT918/?tag=tolees-21) a 21.95 EUR (original: 41.95 EUR) (47.68 %  de descuento) en el siguiente enlace!
 
-[![Charles Wilson Originals Sudadera con Ca](https://m.media-amazon.com/images/I/41AAyjx6AmL._SL200_.jpg)](https://www.amazon.es/dp/B07WWFT918/?tag=tolees-21)
+[![Charles Wilson Originals Sudadera con Ca](https://m.media-amazon.com/images/I/41AAyjx6AmL._SL400_.jpg)](https://www.amazon.es/dp/B07WWFT918/?tag=tolees-21)
 
 🔎:
 

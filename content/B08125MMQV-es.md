@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.00 % en Geographical Norway Parka Hombre VERVEIN'
 date: 2020-08-06 08:59:56
-image: 'https://m.media-amazon.com/images/I/41UOU623g8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UOU623g8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.4'
 
 Tienes [Geographical Norway Parka Hombre VERVEINE Negro S](https://www.amazon.es/dp/B08125MMQV/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 71.4 EUR (original: 119.0 EUR) en el siguiente enlace!
 
-[![Geographical Norway Parka Hombre VERVEIN](https://m.media-amazon.com/images/I/41UOU623g8L._SL200_.jpg)](https://www.amazon.es/dp/B08125MMQV/?tag=tolees-21)
+[![Geographical Norway Parka Hombre VERVEIN](https://m.media-amazon.com/images/I/41UOU623g8L._SL400_.jpg)](https://www.amazon.es/dp/B08125MMQV/?tag=tolees-21)
 
 ℹ️:
 

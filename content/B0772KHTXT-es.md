@@ -2,7 +2,7 @@
 layout: post
 title: 'MERAKI POETME003 Pantalones Cortos  Azul al 70.00 % de descuento'
 date: 2020-02-14 08:42:03
-image: 'https://m.media-amazon.com/images/I/41TWA3AQWUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TWA3AQWUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.6'
 
 Ahora mismo tienes [MERAKI POETME003 Pantalones Cortos  Azul  Cashmere Blue   W34](https://www.amazon.es/dp/B0772KHTXT/?tag=tolees-21) a 6.6 EUR (original: 22.0 EUR) (70.00 %  de descuento) en el siguiente enlace!
 
-[![MERAKI POETME003 Pantalones Cortos  Azul](https://m.media-amazon.com/images/I/41TWA3AQWUL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0772KHTXT/?tag=tolees-21)
+[![MERAKI POETME003 Pantalones Cortos  Azul](https://m.media-amazon.com/images/I/41TWA3AQWUL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0772KHTXT/?tag=tolees-21)
 
 🔎:
 

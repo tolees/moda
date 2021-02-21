@@ -2,7 +2,7 @@
 layout: post
 title: 'Suhctup Funda Compatible con Sony Xperia al 31.29 % de rebaja'
 date: 2020-09-07 12:01:13
-image: 'https://m.media-amazon.com/images/I/51maqXxrCgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51maqXxrCgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.98'
 
 Tienes [Suhctup Funda Compatible con Sony Xperia 20 Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Verde](https://www.amazon.es/dp/B087P9YDY9/?tag=tolees-21) con precio final de  10.98 EUR (original: 15.98 EUR) (31.29 %  de rebaja) aqui!
 
-[![Suhctup Funda Compatible con Sony Xperia](https://m.media-amazon.com/images/I/51maqXxrCgL._SL200_.jpg)](https://www.amazon.es/dp/B087P9YDY9/?tag=tolees-21)
+[![Suhctup Funda Compatible con Sony Xperia](https://m.media-amazon.com/images/I/51maqXxrCgL._SL400_.jpg)](https://www.amazon.es/dp/B087P9YDY9/?tag=tolees-21)
 
 🔎:
 

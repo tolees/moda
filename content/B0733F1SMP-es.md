@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Sudadera de Tacto S al 64.36 % de descuento'
 date: 2020-04-28 14:18:13
-image: 'https://m.media-amazon.com/images/I/311sCmD0RnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311sCmD0RnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.993333333333334'
 
 Está [Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Verde  Grape Leaf   L  Label: L](https://www.amazon.es/dp/B0733F1SMP/?tag=tolees-21) con 64.36 de descuento por 8.91 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Marca Amazon - find. Sudadera de Tacto S](https://m.media-amazon.com/images/I/311sCmD0RnL._SL200_.jpg)](https://www.amazon.es/dp/B0733F1SMP/?tag=tolees-21)
+[![Marca Amazon - find. Sudadera de Tacto S](https://m.media-amazon.com/images/I/311sCmD0RnL._SL400_.jpg)](https://www.amazon.es/dp/B0733F1SMP/?tag=tolees-21)
 
 ℹ️:
 

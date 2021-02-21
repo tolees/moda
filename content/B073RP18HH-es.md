@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen HH Tech Crew Camiseta  Homb con un 44.08 % de descuento'
 date: 2020-01-16 11:28:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OOMDr99aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OOMDr99aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.98'
 
 En este momento está [Helly Hansen HH Tech Crew Camiseta  Hombre  Gris  Gris Oscuro 980   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B073RP18HH/?tag=tolees-21) a 13.98 EUR (original: 25 EUR) (44.08 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen HH Tech Crew Camiseta  Homb](https://images-eu.ssl-images-amazon.com/images/I/41OOMDr99aL._SL200_.jpg)](https://www.amazon.es/dp/B073RP18HH/?tag=tolees-21)
+[![Helly Hansen HH Tech Crew Camiseta  Homb](https://images-eu.ssl-images-amazon.com/images/I/41OOMDr99aL._SL400_.jpg)](https://www.amazon.es/dp/B073RP18HH/?tag=tolees-21)
 
 🔎:
 

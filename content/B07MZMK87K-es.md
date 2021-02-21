@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Mohsen Sudadera   Grey Marl 9 al 78.15 % de descuento'
 date: 2020-04-15 18:43:33
-image: 'https://m.media-amazon.com/images/I/41Q0iEjA+yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q0iEjA+yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.02'
 
 Ahora mismo tienes [Pepe Jeans Mohsen Sudadera   Grey Marl 933   17-18 años de Edad  Talla del Fabricante: 17/18 años  para Niños](https://www.amazon.es/dp/B07MZMK87K/?tag=tolees-21) a 12.02 EUR (original: 55.0 EUR) (78.15 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Mohsen Sudadera   Grey Marl 9](https://m.media-amazon.com/images/I/41Q0iEjA+yL._SL200_.jpg)](https://www.amazon.es/dp/B07MZMK87K/?tag=tolees-21)
+[![Pepe Jeans Mohsen Sudadera   Grey Marl 9](https://m.media-amazon.com/images/I/41Q0iEjA+yL._SL400_.jpg)](https://www.amazon.es/dp/B07MZMK87K/?tag=tolees-21)
 
 🔎:
 

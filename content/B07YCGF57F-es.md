@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Classic Camiseta  Multicolor  Ash H al 25.17 % de descuento'
 date: 2020-05-07 17:53:29
-image: 'https://m.media-amazon.com/images/I/417roDQAoDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417roDQAoDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.45'
 
 Ahora mismo tienes [Vans Classic Camiseta  Multicolor  Ash Heather/Heliotrope Yky   X-Small para Hombre](https://www.amazon.es/dp/B07YCGF57F/?tag=tolees-21) a 22.45 EUR (original: 30.0 EUR) (25.17 %  de descuento) en el siguiente enlace!
 
-[![Vans Classic Camiseta  Multicolor  Ash H](https://m.media-amazon.com/images/I/417roDQAoDL._SL200_.jpg)](https://www.amazon.es/dp/B07YCGF57F/?tag=tolees-21)
+[![Vans Classic Camiseta  Multicolor  Ash H](https://m.media-amazon.com/images/I/417roDQAoDL._SL400_.jpg)](https://www.amazon.es/dp/B07YCGF57F/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri BAUNT FZ Sudadera  Negro  Blac al 50.00 % de descuento'
 date: 2020-03-13 05:37:11
-image: 'https://m.media-amazon.com/images/I/41JjlmxBtjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JjlmxBtjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '84.5'
 
 Ahora mismo tienes [Napapijri BAUNT FZ Sudadera  Negro  Black 041   L para Hombre](https://www.amazon.es/dp/B07MQVJ2R7/?tag=tolees-21) a 84.5 EUR (original: 169.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri BAUNT FZ Sudadera  Negro  Blac](https://m.media-amazon.com/images/I/41JjlmxBtjL._SL200_.jpg)](https://www.amazon.es/dp/B07MQVJ2R7/?tag=tolees-21)
+[![Napapijri BAUNT FZ Sudadera  Negro  Blac](https://m.media-amazon.com/images/I/41JjlmxBtjL._SL400_.jpg)](https://www.amazon.es/dp/B07MQVJ2R7/?tag=tolees-21)
 
 🔎:
 

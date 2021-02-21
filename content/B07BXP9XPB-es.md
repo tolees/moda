@@ -2,7 +2,7 @@
 layout: post
 title: 'KUULEE Hombre Camisa Manga Larga Slim Fi al 82.52 % de rebaja'
 date: 2020-03-17 11:12:40
-image: 'https://m.media-amazon.com/images/I/31PN0EJpwqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PN0EJpwqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Tienes [KUULEE Hombre Camisa Manga Larga Slim Fit Camisa Vaquera/Camisa a Cuadros Rejilla de Diamante](https://www.amazon.es/dp/B07BXP9XPB/?tag=tolees-21) con precio final de  6.99 EUR (original: 39.99 EUR) (82.52 %  de rebaja) aqui!
 
-[![KUULEE Hombre Camisa Manga Larga Slim Fi](https://m.media-amazon.com/images/I/31PN0EJpwqL._SL200_.jpg)](https://www.amazon.es/dp/B07BXP9XPB/?tag=tolees-21)
+[![KUULEE Hombre Camisa Manga Larga Slim Fi](https://m.media-amazon.com/images/I/31PN0EJpwqL._SL400_.jpg)](https://www.amazon.es/dp/B07BXP9XPB/?tag=tolees-21)
 
 🔎:
 

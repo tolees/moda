@@ -2,7 +2,7 @@
 layout: post
 title: 'oodji Ultra Hombre Jersey a Rayas con Cu con un 20.00 % de descuento'
 date: 2020-09-21 09:30:56
-image: 'https://m.media-amazon.com/images/I/51VWNhJ3wmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VWNhJ3wmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.2'
 
 En este momento está [oodji Ultra Hombre Jersey a Rayas con Cuello Redondo  Azul  ES 58-60 / XXL](https://www.amazon.es/dp/B01N4AVR8U/?tag=tolees-21) a 9.2 EUR (original: 11.5 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![oodji Ultra Hombre Jersey a Rayas con Cu](https://m.media-amazon.com/images/I/51VWNhJ3wmL._SL200_.jpg)](https://www.amazon.es/dp/B01N4AVR8U/?tag=tolees-21)
+[![oodji Ultra Hombre Jersey a Rayas con Cu](https://m.media-amazon.com/images/I/51VWNhJ3wmL._SL400_.jpg)](https://www.amazon.es/dp/B01N4AVR8U/?tag=tolees-21)
 
 🔎:
 

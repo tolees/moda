@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Boxer Brief 3p Co  Multicolor  Open al 37.27 % de descuento'
 date: 2020-04-30 10:54:54
-image: 'https://m.media-amazon.com/images/I/41wZEDw6GWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wZEDw6GWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.06'
 
 Está [BOSS Boxer Brief 3p Co  Multicolor  Open Miscellaneous 995   Medium  Pack de 3  para Hombre](https://www.amazon.es/dp/B07S56XVSV/?tag=tolees-21) con 37.27 de descuento por 25.06 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![BOSS Boxer Brief 3p Co  Multicolor  Open](https://m.media-amazon.com/images/I/41wZEDw6GWL._SL200_.jpg)](https://www.amazon.es/dp/B07S56XVSV/?tag=tolees-21)
+[![BOSS Boxer Brief 3p Co  Multicolor  Open](https://m.media-amazon.com/images/I/41wZEDw6GWL._SL400_.jpg)](https://www.amazon.es/dp/B07S56XVSV/?tag=tolees-21)
 
 ℹ️:
 

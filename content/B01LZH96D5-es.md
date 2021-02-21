@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 23.25 % en Marca Amazon – Goodthreads – «El pantaló'
 date: 2020-06-27 15:28:09
-image: 'https://m.media-amazon.com/images/I/31IqSa9YOgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IqSa9YOgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.53'
 
 Tienes [Marca Amazon – Goodthreads – «El pantalón chino perfecto»; pantalón chino de corte entallado  lavado  cómodo y elástico para hombre  azul marino  33W / 30L](https://www.amazon.es/dp/B01LZH96D5/?tag=tolees-21) con un 23.25 % de descuento con precio de oferta de 17.53 EUR (original: 22.84 EUR) en el siguiente enlace!
 
-[![Marca Amazon – Goodthreads – «El pantaló](https://m.media-amazon.com/images/I/31IqSa9YOgL._SL200_.jpg)](https://www.amazon.es/dp/B01LZH96D5/?tag=tolees-21)
+[![Marca Amazon – Goodthreads – «El pantaló](https://m.media-amazon.com/images/I/31IqSa9YOgL._SL400_.jpg)](https://www.amazon.es/dp/B01LZH96D5/?tag=tolees-21)
 
 ℹ️:
 

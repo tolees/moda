@@ -2,7 +2,7 @@
 layout: post
 title: 'Love Moschino Jc4275pp0a  Bolso tipo tot al 16.11 % de descuento'
 date: 2020-09-10 17:03:34
-image: 'https://m.media-amazon.com/images/I/41tIpzoSgkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tIpzoSgkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.36'
 
 Está [Love Moschino Jc4275pp0a  Bolso tipo tote para Mujer  Negro  Black   12x27x40 Centimeters  W x H x L ](https://www.amazon.es/dp/B07V7WW6DN/?tag=tolees-21) con 16.11 de descuento por 50.36 EUR (original: 60.03 EUR) en el siguiente enlace!
 
-[![Love Moschino Jc4275pp0a  Bolso tipo tot](https://m.media-amazon.com/images/I/41tIpzoSgkL._SL200_.jpg)](https://www.amazon.es/dp/B07V7WW6DN/?tag=tolees-21)
+[![Love Moschino Jc4275pp0a  Bolso tipo tot](https://m.media-amazon.com/images/I/41tIpzoSgkL._SL400_.jpg)](https://www.amazon.es/dp/B07V7WW6DN/?tag=tolees-21)
 
 ℹ️:
 

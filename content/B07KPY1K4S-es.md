@@ -2,7 +2,7 @@
 layout: post
 title: 'dPois Vestidos de Princesa Diadema Niña  al 55.79 % de rebaja'
 date: 2020-09-01 21:33:32
-image: 'https://m.media-amazon.com/images/I/41rQlXqnMTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rQlXqnMTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.823333333333334'
 
 Tienes [dPois Vestidos de Princesa Diadema Niña Bebé Fiesta Bautizo Tutú Ballet Danza Falda Lunares Bragas Disfraces Fantasía Carnaval Cumpleaños Infantil  6 Meses - 14 Años  Rojo 4 pc 10-12 Años](https://www.amazon.es/dp/B07KPY1K4S/?tag=tolees-21) con precio final de  11.49 EUR (original: 25.99 EUR) (55.79 %  de rebaja) aqui!
 
-[![dPois Vestidos de Princesa Diadema Niña ](https://m.media-amazon.com/images/I/41rQlXqnMTL._SL200_.jpg)](https://www.amazon.es/dp/B07KPY1K4S/?tag=tolees-21)
+[![dPois Vestidos de Princesa Diadema Niña ](https://m.media-amazon.com/images/I/41rQlXqnMTL._SL400_.jpg)](https://www.amazon.es/dp/B07KPY1K4S/?tag=tolees-21)
 
 🔎:
 

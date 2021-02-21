@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Men s MCFC Stadium INT SS Jersey  B al 16.47 % de rebaja'
 date: 2020-09-30 10:53:44
-image: 'https://m.media-amazon.com/images/I/41FLyrUCzsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FLyrUCzsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.97'
 
 Tienes [Puma Men s MCFC Stadium INT SS Jersey  Black/Georgia Peach  Large](https://www.amazon.es/dp/B07QJM89GF/?tag=tolees-21) con precio final de  11.97 EUR (original: 14.33 EUR) (16.47 %  de rebaja) aqui!
 
-[![Puma Men s MCFC Stadium INT SS Jersey  B](https://m.media-amazon.com/images/I/41FLyrUCzsL._SL200_.jpg)](https://www.amazon.es/dp/B07QJM89GF/?tag=tolees-21)
+[![Puma Men s MCFC Stadium INT SS Jersey  B](https://m.media-amazon.com/images/I/41FLyrUCzsL._SL400_.jpg)](https://www.amazon.es/dp/B07QJM89GF/?tag=tolees-21)
 
 🔎:
 

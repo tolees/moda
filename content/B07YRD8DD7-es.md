@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Vestido Corto Cruza al 29.71 % de descuento'
 date: 2020-10-08 22:41:38
-image: 'https://m.media-amazon.com/images/I/51i6QtQQSaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51i6QtQQSaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.14'
 
 Ahora mismo tienes [Marca Amazon - find. Vestido Corto Cruzado de Algodón Mujer  Negro  Negro Amarillo Check   42  Label: L](https://www.amazon.es/dp/B07YRD8DD7/?tag=tolees-21) a 4.14 EUR (original: 5.89 EUR) (29.71 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - find. Vestido Corto Cruza](https://m.media-amazon.com/images/I/51i6QtQQSaL._SL200_.jpg)](https://www.amazon.es/dp/B07YRD8DD7/?tag=tolees-21)
+[![Marca Amazon - find. Vestido Corto Cruza](https://m.media-amazon.com/images/I/51i6QtQQSaL._SL400_.jpg)](https://www.amazon.es/dp/B07YRD8DD7/?tag=tolees-21)
 
 🔎:
 

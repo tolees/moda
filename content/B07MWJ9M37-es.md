@@ -2,7 +2,7 @@
 layout: post
 title: 'Mustang Chris KC Camisa  Multicolor  Che al 16.76 % de descuento'
 date: 2020-03-15 11:07:48
-image: 'https://m.media-amazon.com/images/I/51EDW2r2IVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EDW2r2IVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.67'
 
 Ahora mismo tienes [Mustang Chris KC Camisa  Multicolor  Check 11531   Large para Hombre](https://www.amazon.es/dp/B07MWJ9M37/?tag=tolees-21) a 11.67 EUR (original: 14.02 EUR) (16.76 %  de descuento) en el siguiente enlace!
 
-[![Mustang Chris KC Camisa  Multicolor  Che](https://m.media-amazon.com/images/I/51EDW2r2IVL._SL200_.jpg)](https://www.amazon.es/dp/B07MWJ9M37/?tag=tolees-21)
+[![Mustang Chris KC Camisa  Multicolor  Che](https://m.media-amazon.com/images/I/51EDW2r2IVL._SL400_.jpg)](https://www.amazon.es/dp/B07MWJ9M37/?tag=tolees-21)
 
 🔎:
 

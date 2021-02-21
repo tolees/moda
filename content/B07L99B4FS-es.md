@@ -2,7 +2,7 @@
 layout: post
 title: 'Karactermania Diseny Icons Minnie Mouse- al 32.99 % de rebaja'
 date: 2020-08-21 11:01:53
-image: 'https://m.media-amazon.com/images/I/41Hn1qy70QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Hn1qy70QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.95'
 
 Tienes [Karactermania Diseny Icons Minnie Mouse-Bolso Cadena Wide Bolso Bandolera  20 cm  Rojo](https://www.amazon.es/dp/B07L99B4FS/?tag=tolees-21) con precio final de  10.95 EUR (original: 16.34 EUR) (32.99 %  de rebaja) aqui!
 
-[![Karactermania Diseny Icons Minnie Mouse-](https://m.media-amazon.com/images/I/41Hn1qy70QL._SL200_.jpg)](https://www.amazon.es/dp/B07L99B4FS/?tag=tolees-21)
+[![Karactermania Diseny Icons Minnie Mouse-](https://m.media-amazon.com/images/I/41Hn1qy70QL._SL400_.jpg)](https://www.amazon.es/dp/B07L99B4FS/?tag=tolees-21)
 
 🔎:
 

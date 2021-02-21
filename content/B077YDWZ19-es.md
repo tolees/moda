@@ -2,7 +2,7 @@
 layout: post
 title: 'HIKARO Sudadera con Print Mujer  Azul  N al 34.39 % de rebaja'
 date: 2020-06-17 14:09:10
-image: 'https://m.media-amazon.com/images/I/413wkFKC9bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413wkFKC9bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.09'
 
 Tienes [HIKARO Sudadera con Print Mujer  Azul  Navy   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YDWZ19/?tag=tolees-21) con precio final de  8.09 EUR (original: 12.33 EUR) (34.39 %  de rebaja) aqui!
 
-[![HIKARO Sudadera con Print Mujer  Azul  N](https://m.media-amazon.com/images/I/413wkFKC9bL._SL200_.jpg)](https://www.amazon.es/dp/B077YDWZ19/?tag=tolees-21)
+[![HIKARO Sudadera con Print Mujer  Azul  N](https://m.media-amazon.com/images/I/413wkFKC9bL._SL400_.jpg)](https://www.amazon.es/dp/B077YDWZ19/?tag=tolees-21)
 
 🔎:
 

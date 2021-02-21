@@ -2,7 +2,7 @@
 layout: post
 title: 'Collar de árbol de la vida y la familia  al 83.83 % de rebaja'
 date: 2020-04-17 11:33:53
-image: 'https://m.media-amazon.com/images/I/41sSJuhUQvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sSJuhUQvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Tienes [Collar de árbol de la vida y la familia con búho de circonitas y cadena  de GOXO](https://www.amazon.es/dp/B07DVQD4VR/?tag=tolees-21) con precio final de  23.99 EUR (original: 148.33 EUR) (83.83 %  de rebaja) aqui!
 
-[![Collar de árbol de la vida y la familia ](https://m.media-amazon.com/images/I/41sSJuhUQvL._SL200_.jpg)](https://www.amazon.es/dp/B07DVQD4VR/?tag=tolees-21)
+[![Collar de árbol de la vida y la familia ](https://m.media-amazon.com/images/I/41sSJuhUQvL._SL400_.jpg)](https://www.amazon.es/dp/B07DVQD4VR/?tag=tolees-21)
 
 🔎:
 

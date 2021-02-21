@@ -2,7 +2,7 @@
 layout: post
 title: 'The North Face Drew Peak Sudadera  Mujer al 40.00 % de descuento'
 date: 2020-03-27 21:04:49
-image: 'https://m.media-amazon.com/images/I/41-2VksPhNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-2VksPhNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.0'
 
 Está [The North Face Drew Peak Sudadera  Mujer  Azul  Azul tormenta   XS](https://www.amazon.es/dp/B07MN1QF6F/?tag=tolees-21) con 40.00 de descuento por 48.0 EUR (original: 80.0 EUR) en el siguiente enlace!
 
-[![The North Face Drew Peak Sudadera  Mujer](https://m.media-amazon.com/images/I/41-2VksPhNL._SL200_.jpg)](https://www.amazon.es/dp/B07MN1QF6F/?tag=tolees-21)
+[![The North Face Drew Peak Sudadera  Mujer](https://m.media-amazon.com/images/I/41-2VksPhNL._SL400_.jpg)](https://www.amazon.es/dp/B07MN1QF6F/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry OL Vintage Emb Crew Camiseta  A al 52.02 % de descuento'
 date: 2020-10-12 21:26:39
-image: 'https://m.media-amazon.com/images/I/41rOpPC4CZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rOpPC4CZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.823333333333334'
 
 Ahora mismo tienes [Superdry OL Vintage Emb Crew Camiseta  Azul  Blue Grindle Sve   S para Hombre](https://www.amazon.es/dp/B07TLLFDMB/?tag=tolees-21) a 11.99 EUR (original: 24.99 EUR) (52.02 %  de descuento) en el siguiente enlace!
 
-[![Superdry OL Vintage Emb Crew Camiseta  A](https://m.media-amazon.com/images/I/41rOpPC4CZL._SL200_.jpg)](https://www.amazon.es/dp/B07TLLFDMB/?tag=tolees-21)
+[![Superdry OL Vintage Emb Crew Camiseta  A](https://m.media-amazon.com/images/I/41rOpPC4CZL._SL400_.jpg)](https://www.amazon.es/dp/B07TLLFDMB/?tag=tolees-21)
 
 🔎:
 

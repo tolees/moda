@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Slim Animals  Chanclas para Mu al 33.73 % de descuento'
 date: 2020-08-15 19:57:50
-image: 'https://m.media-amazon.com/images/I/512n7e2M8RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512n7e2M8RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.49'
 
 Está [Havaianas Slim Animals  Chanclas para Mujer  Multicolor  Grey/Olive Green 7807   41/42 EU](https://www.amazon.es/dp/B07TKNMXX6/?tag=tolees-21) con 33.73 de descuento por 18.49 EUR (original: 27.9 EUR) en el siguiente enlace!
 
-[![Havaianas Slim Animals  Chanclas para Mu](https://m.media-amazon.com/images/I/512n7e2M8RL._SL200_.jpg)](https://www.amazon.es/dp/B07TKNMXX6/?tag=tolees-21)
+[![Havaianas Slim Animals  Chanclas para Mu](https://m.media-amazon.com/images/I/512n7e2M8RL._SL400_.jpg)](https://www.amazon.es/dp/B07TKNMXX6/?tag=tolees-21)
 
 ℹ️:
 

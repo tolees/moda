@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Lin Core Org Bolso  Unisex Adulto al 40.29 % de rebaja'
 date: 2020-05-19 07:31:52
-image: 'https://m.media-amazon.com/images/I/51QQV0c9ljL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QQV0c9ljL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.247333333333334'
 
 Tienes [adidas Lin Core Org Bolso  Unisex Adulto  Multicolor  azuaut/azuaut/Blanco   Talla Única](https://www.amazon.es/dp/B07KTX4KJX/?tag=tolees-21) con precio final de  8.95 EUR (original: 14.99 EUR) (40.29 %  de rebaja) aqui!
 
-[![adidas Lin Core Org Bolso  Unisex Adulto](https://m.media-amazon.com/images/I/51QQV0c9ljL._SL200_.jpg)](https://www.amazon.es/dp/B07KTX4KJX/?tag=tolees-21)
+[![adidas Lin Core Org Bolso  Unisex Adulto](https://m.media-amazon.com/images/I/51QQV0c9ljL._SL400_.jpg)](https://www.amazon.es/dp/B07KTX4KJX/?tag=tolees-21)
 
 🔎:
 

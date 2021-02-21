@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox J Alben Boy B  Zapatillas para Niño al 65.44 % de descuento'
 date: 2020-06-27 11:25:20
-image: 'https://m.media-amazon.com/images/I/41i3RNWMtZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i3RNWMtZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.75'
 
 Ahora mismo tienes [Geox J Alben Boy B  Zapatillas para Niños  Verde  Military/Orange C0623   28 EU](https://www.amazon.es/dp/B07SQG2B7H/?tag=tolees-21) a 22.75 EUR (original: 65.82 EUR) (65.44 %  de descuento) en el siguiente enlace!
 
-[![Geox J Alben Boy B  Zapatillas para Niño](https://m.media-amazon.com/images/I/41i3RNWMtZL._SL200_.jpg)](https://www.amazon.es/dp/B07SQG2B7H/?tag=tolees-21)
+[![Geox J Alben Boy B  Zapatillas para Niño](https://m.media-amazon.com/images/I/41i3RNWMtZL._SL400_.jpg)](https://www.amazon.es/dp/B07SQG2B7H/?tag=tolees-21)
 
 🔎:
 

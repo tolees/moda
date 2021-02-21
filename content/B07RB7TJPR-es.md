@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Midweight Stretch Camiseta Térm al 75.08 % de descuento'
 date: 2020-10-08 12:22:11
-image: 'https://m.media-amazon.com/images/I/31hLzkWipPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hLzkWipPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Ahora mismo tienes [Columbia Midweight Stretch Camiseta Térmica con Cremallera Media  Mujer  Lila  Dusty Iris   L](https://www.amazon.es/dp/B07RB7TJPR/?tag=tolees-21) a 14.95 EUR (original: 59.99 EUR) (75.08 %  de descuento) en el siguiente enlace!
 
-[![Columbia Midweight Stretch Camiseta Térm](https://m.media-amazon.com/images/I/31hLzkWipPL._SL200_.jpg)](https://www.amazon.es/dp/B07RB7TJPR/?tag=tolees-21)
+[![Columbia Midweight Stretch Camiseta Térm](https://m.media-amazon.com/images/I/31hLzkWipPL._SL400_.jpg)](https://www.amazon.es/dp/B07RB7TJPR/?tag=tolees-21)
 
 🔎:
 

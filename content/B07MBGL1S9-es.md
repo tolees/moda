@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Lake 22  Chaqueta de plumas  Ho al 61.31 % de rebaja'
 date: 2020-08-18 08:25:41
-image: 'https://m.media-amazon.com/images/I/41bB01VPioL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bB01VPioL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.42'
 
 Tienes [Columbia Lake 22  Chaqueta de plumas  Hombre  Gris  Columbia Grey Heather   Talla M](https://www.amazon.es/dp/B07MBGL1S9/?tag=tolees-21) con precio final de  46.42 EUR (original: 119.99 EUR) (61.31 %  de rebaja) aqui!
 
-[![Columbia Lake 22  Chaqueta de plumas  Ho](https://m.media-amazon.com/images/I/41bB01VPioL._SL200_.jpg)](https://www.amazon.es/dp/B07MBGL1S9/?tag=tolees-21)
+[![Columbia Lake 22  Chaqueta de plumas  Ho](https://m.media-amazon.com/images/I/41bB01VPioL._SL400_.jpg)](https://www.amazon.es/dp/B07MBGL1S9/?tag=tolees-21)
 
 🔎:
 

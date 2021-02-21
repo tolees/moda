@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA HG Armour Full Zip Sudad al 50.03 % de descuento'
 date: 2020-01-25 09:07:21
-image: 'https://m.media-amazon.com/images/I/41hHIMI4lsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hHIMI4lsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.98'
 
 Ahora mismo tienes [Under Armour UA HG Armour Full Zip Sudadera cálida  Mujer  Negro  Black/White 001   L](https://www.amazon.es/dp/B072LN5WX2/?tag=tolees-21) a 34.98 EUR (original: 70.0 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA HG Armour Full Zip Sudad](https://m.media-amazon.com/images/I/41hHIMI4lsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B072LN5WX2/?tag=tolees-21)
+[![Under Armour UA HG Armour Full Zip Sudad](https://m.media-amazon.com/images/I/41hHIMI4lsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B072LN5WX2/?tag=tolees-21)
 
 🔎:
 

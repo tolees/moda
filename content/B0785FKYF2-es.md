@@ -2,7 +2,7 @@
 layout: post
 title: 'Gore Wear 100153 Chaqueta  Hombre  Azul  al 28.99 % de descuento'
 date: 2020-01-16 10:35:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AFsnhBeHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AFsnhBeHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '141.99'
 
 Ahora mismo tienes [Gore Wear 100153 Chaqueta  Hombre  Azul  Dynamic Cyan   XL](https://www.amazon.es/dp/B0785FKYF2/?tag=tolees-21) a 141.99 EUR (original: 199.95 EUR) (28.99 %  de descuento) en el siguiente enlace!
 
-[![Gore Wear 100153 Chaqueta  Hombre  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41AFsnhBeHL._SL200_.jpg)](https://www.amazon.es/dp/B0785FKYF2/?tag=tolees-21)
+[![Gore Wear 100153 Chaqueta  Hombre  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41AFsnhBeHL._SL400_.jpg)](https://www.amazon.es/dp/B0785FKYF2/?tag=tolees-21)
 
 🔎:
 

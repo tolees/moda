@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.74 % en Marca Amazon - IRIS & LILLY Braguita Muj'
 date: 2020-08-18 12:46:30
-image: 'https://m.media-amazon.com/images/I/31IUqFiQDcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IUqFiQDcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.8600000000000003'
 
 Tienes [Marca Amazon - IRIS & LILLY Braguita Mujer  Pack de 5  Blanco  White   3XL  Label: 3XL](https://www.amazon.es/dp/B07NGXK5KM/?tag=tolees-21) con un 27.74 % de descuento con precio de oferta de 3.36 EUR (original: 4.65 EUR) en el siguiente enlace!
 
-[![Marca Amazon - IRIS & LILLY Braguita Muj](https://m.media-amazon.com/images/I/31IUqFiQDcL._SL200_.jpg)](https://www.amazon.es/dp/B07NGXK5KM/?tag=tolees-21)
+[![Marca Amazon - IRIS & LILLY Braguita Muj](https://m.media-amazon.com/images/I/31IUqFiQDcL._SL400_.jpg)](https://www.amazon.es/dp/B07NGXK5KM/?tag=tolees-21)
 
 ℹ️:
 

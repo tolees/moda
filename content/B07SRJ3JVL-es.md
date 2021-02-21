@@ -2,7 +2,7 @@
 layout: post
 title: 'REPLAY M3590 .000.2660 Camiseta  Azul  M con un 77.33 % de descuento'
 date: 2020-09-13 18:54:33
-image: 'https://m.media-amazon.com/images/I/31yBalKAQ3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yBalKAQ3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.8'
 
 En este momento está [REPLAY M3590 .000.2660 Camiseta  Azul  Midnight Blue. 576   X-Small para Hombre](https://www.amazon.es/dp/B07SRJ3JVL/?tag=tolees-21) a 6.8 EUR (original: 30.0 EUR) (77.33 %  de descuento) en el siguiente enlace!
 
-[![REPLAY M3590 .000.2660 Camiseta  Azul  M](https://m.media-amazon.com/images/I/31yBalKAQ3L._SL200_.jpg)](https://www.amazon.es/dp/B07SRJ3JVL/?tag=tolees-21)
+[![REPLAY M3590 .000.2660 Camiseta  Azul  M](https://m.media-amazon.com/images/I/31yBalKAQ3L._SL400_.jpg)](https://www.amazon.es/dp/B07SRJ3JVL/?tag=tolees-21)
 
 🔎:
 

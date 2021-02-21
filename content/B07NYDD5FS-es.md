@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.34 % en GRACE KARIN Mujer Vintage Vestido de 195'
 date: 2020-06-13 07:42:11
-image: 'https://m.media-amazon.com/images/I/31GO0gspZeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GO0gspZeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Tienes [GRACE KARIN Mujer Vintage Vestido de 1950s para Cóctel Fiesta Negro XL CL011020-1](https://www.amazon.es/dp/B07NYDD5FS/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 23.99 EUR (original: 35.99 EUR) en el siguiente enlace!
 
-[![GRACE KARIN Mujer Vintage Vestido de 195](https://m.media-amazon.com/images/I/31GO0gspZeL._SL200_.jpg)](https://www.amazon.es/dp/B07NYDD5FS/?tag=tolees-21)
+[![GRACE KARIN Mujer Vintage Vestido de 195](https://m.media-amazon.com/images/I/31GO0gspZeL._SL400_.jpg)](https://www.amazon.es/dp/B07NYDD5FS/?tag=tolees-21)
 
 ℹ️:
 

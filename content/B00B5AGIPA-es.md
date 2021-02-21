@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.31 % en Cressi Tauchmaske Erwachsen F1 Clear Fra'
 date: 2020-01-22 20:16:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wn0V10WOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wn0V10WOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20'
 
 Tienes [Cressi Tauchmaske Erwachsen F1 Clear Frameless Gafas de Buceo  Unisex  Transparente  Talla única](https://www.amazon.es/dp/B00B5AGIPA/?tag=tolees-21) con un 36.31 % de descuento con precio de oferta de 20 EUR (original: 31.4 EUR) en el siguiente enlace!
 
-[![Cressi Tauchmaske Erwachsen F1 Clear Fra](https://images-eu.ssl-images-amazon.com/images/I/41Wn0V10WOL._SL200_.jpg)](https://www.amazon.es/dp/B00B5AGIPA/?tag=tolees-21)
+[![Cressi Tauchmaske Erwachsen F1 Clear Fra](https://images-eu.ssl-images-amazon.com/images/I/41Wn0V10WOL._SL400_.jpg)](https://www.amazon.es/dp/B00B5AGIPA/?tag=tolees-21)
 
 ℹ️:
 

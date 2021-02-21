@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  U E  al 43.18 % de descuento'
 date: 2020-10-11 11:24:58
-image: 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.299999999999999'
 
 Está [Levi s SS Original Hm tee Camiseta  U E Print  XL para Hombre](https://www.amazon.es/dp/B07ZVQQ1QL/?tag=tolees-21) con 43.18 de descuento por 12.45 EUR (original: 21.91 EUR) en el siguiente enlace!
 
-[![Levi s SS Original Hm tee Camiseta  U E ](https://m.media-amazon.com/images/I/312ojkD+-1L._SL200_.jpg)](https://www.amazon.es/dp/B07ZVQQ1QL/?tag=tolees-21)
+[![Levi s SS Original Hm tee Camiseta  U E ](https://m.media-amazon.com/images/I/312ojkD+-1L._SL400_.jpg)](https://www.amazon.es/dp/B07ZVQQ1QL/?tag=tolees-21)
 
 ℹ️:
 

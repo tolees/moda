@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Mattias B ABX A  Botas Chukka par al 55.20 % de descuento'
 date: 2020-07-10 00:45:37
-image: 'https://m.media-amazon.com/images/I/41CFx3m1jdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CFx3m1jdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.56285714285713'
 
 Ahora mismo tienes [Geox U Mattias B ABX A  Botas Chukka para Hombre  Azul  Navy C4002   44 EU](https://www.amazon.es/dp/B07PK49V7H/?tag=tolees-21) a 67.16 EUR (original: 149.9 EUR) (55.20 %  de descuento) en el siguiente enlace!
 
-[![Geox U Mattias B ABX A  Botas Chukka par](https://m.media-amazon.com/images/I/41CFx3m1jdL._SL200_.jpg)](https://www.amazon.es/dp/B07PK49V7H/?tag=tolees-21)
+[![Geox U Mattias B ABX A  Botas Chukka par](https://m.media-amazon.com/images/I/41CFx3m1jdL._SL400_.jpg)](https://www.amazon.es/dp/B07PK49V7H/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Powder Pass Chaleco  Hombre  Ne con un 39.38 % de descuento'
 date: 2020-04-20 19:37:39
-image: 'https://m.media-amazon.com/images/I/41jLcVaC+nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jLcVaC+nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.49'
 
 En este momento está [Columbia Powder Pass Chaleco  Hombre  Negro  Black   Talla-S](https://www.amazon.es/dp/B07KSQC8S3/?tag=tolees-21) a 48.49 EUR (original: 79.99 EUR) (39.38 %  de descuento) en el siguiente enlace!
 
-[![Columbia Powder Pass Chaleco  Hombre  Ne](https://m.media-amazon.com/images/I/41jLcVaC+nL._SL200_.jpg)](https://www.amazon.es/dp/B07KSQC8S3/?tag=tolees-21)
+[![Columbia Powder Pass Chaleco  Hombre  Ne](https://m.media-amazon.com/images/I/41jLcVaC+nL._SL400_.jpg)](https://www.amazon.es/dp/B07KSQC8S3/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Tilden Walk  Zapatos de Cordones  al 51.46 % de descuento'
 date: 2020-06-23 12:47:29
-image: 'https://m.media-amazon.com/images/I/41nN97saDEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nN97saDEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.85666666666667'
 
 Ahora mismo tienes [Clarks Tilden Walk  Zapatos de Cordones Derby  Marrón  Dark Tan Leather-   41.5 EU](https://www.amazon.es/dp/B06XCBNCG2/?tag=tolees-21) a 38.81 EUR (original: 79.95 EUR) (51.46 %  de descuento) en el siguiente enlace!
 
-[![Clarks Tilden Walk  Zapatos de Cordones ](https://m.media-amazon.com/images/I/41nN97saDEL._SL200_.jpg)](https://www.amazon.es/dp/B06XCBNCG2/?tag=tolees-21)
+[![Clarks Tilden Walk  Zapatos de Cordones ](https://m.media-amazon.com/images/I/41nN97saDEL._SL400_.jpg)](https://www.amazon.es/dp/B06XCBNCG2/?tag=tolees-21)
 
 🔎:
 

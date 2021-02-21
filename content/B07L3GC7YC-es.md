@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Iconic Elena Corporate Ri al 30.00 % de descuento'
 date: 2020-04-24 18:11:00
-image: 'https://m.media-amazon.com/images/I/41B+vWkT4qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B+vWkT4qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.940000000000005'
 
 Ahora mismo tienes [Tommy Hilfiger Iconic Elena Corporate Ribbon  Sandalias con Plataforma para Mujer  Rojo  RWB 020   40 EU](https://www.amazon.es/dp/B07L3GC7YC/?tag=tolees-21) a 69.93 EUR (original: 99.9 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Iconic Elena Corporate Ri](https://m.media-amazon.com/images/I/41B+vWkT4qL._SL200_.jpg)](https://www.amazon.es/dp/B07L3GC7YC/?tag=tolees-21)
+[![Tommy Hilfiger Iconic Elena Corporate Ri](https://m.media-amazon.com/images/I/41B+vWkT4qL._SL400_.jpg)](https://www.amazon.es/dp/B07L3GC7YC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Liga Casuals Hoody Jacket Chaqueta  al 55.02 % de descuento'
 date: 2020-05-15 08:17:00
-image: 'https://m.media-amazon.com/images/I/41BG7VNN7OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BG7VNN7OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.312'
 
 Está [Puma Liga Casuals Hoody Jacket Chaqueta  Hombre  Pepper Green White  XX-Large](https://www.amazon.es/dp/B078T6JGXY/?tag=tolees-21) con 55.02 de descuento por 22.47 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![Puma Liga Casuals Hoody Jacket Chaqueta ](https://m.media-amazon.com/images/I/41BG7VNN7OL._SL200_.jpg)](https://www.amazon.es/dp/B078T6JGXY/?tag=tolees-21)
+[![Puma Liga Casuals Hoody Jacket Chaqueta ](https://m.media-amazon.com/images/I/41BG7VNN7OL._SL400_.jpg)](https://www.amazon.es/dp/B078T6JGXY/?tag=tolees-21)
 
 ℹ️:
 

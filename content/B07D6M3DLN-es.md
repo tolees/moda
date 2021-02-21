@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Literide Flip  Chanclas Unisex Adu con un 54.99 % de descuento'
 date: 2020-08-26 18:55:23
-image: 'https://m.media-amazon.com/images/I/41Ju1lK+NdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ju1lK+NdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 En este momento está [Crocs Literide Flip  Chanclas Unisex Adulto  Azul  Ice Blue/Almost White 4kp   41/42 EU](https://www.amazon.es/dp/B07D6M3DLN/?tag=tolees-21) a 18.0 EUR (original: 39.99 EUR) (54.99 %  de descuento) en el siguiente enlace!
 
-[![Crocs Literide Flip  Chanclas Unisex Adu](https://m.media-amazon.com/images/I/41Ju1lK+NdL._SL200_.jpg)](https://www.amazon.es/dp/B07D6M3DLN/?tag=tolees-21)
+[![Crocs Literide Flip  Chanclas Unisex Adu](https://m.media-amazon.com/images/I/41Ju1lK+NdL._SL400_.jpg)](https://www.amazon.es/dp/B07D6M3DLN/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - TRUTH & FABLE Vestido Cor al 32.47 % de descuento'
 date: 2020-06-21 09:12:21
-image: 'https://m.media-amazon.com/images/I/41bdJMAW-ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bdJMAW-ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.9'
 
 Está [Marca Amazon - TRUTH & FABLE Vestido Corto con Hombros al Aire de Satén Mujer  Negro  Black   38  Label: S](https://www.amazon.es/dp/B0743BNRP6/?tag=tolees-21) con 32.47 de descuento por 7.57 EUR (original: 11.21 EUR) en el siguiente enlace!
 
-[![Marca Amazon - TRUTH & FABLE Vestido Cor](https://m.media-amazon.com/images/I/41bdJMAW-ZL._SL200_.jpg)](https://www.amazon.es/dp/B0743BNRP6/?tag=tolees-21)
+[![Marca Amazon - TRUTH & FABLE Vestido Cor](https://m.media-amazon.com/images/I/41bdJMAW-ZL._SL400_.jpg)](https://www.amazon.es/dp/B0743BNRP6/?tag=tolees-21)
 
 ℹ️:
 

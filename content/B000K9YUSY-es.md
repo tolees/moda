@@ -2,7 +2,7 @@
 layout: post
 title: 'Birkenstock 51791 - Sandalias con hebill al 21.29 % de rebaja'
 date: 2020-06-21 11:01:24
-image: 'https://m.media-amazon.com/images/I/31UgvlD6D7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UgvlD6D7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.56'
 
 Tienes [Birkenstock 51791 - Sandalias con hebilla unisex  Negro  42  normal ](https://www.amazon.es/dp/B000K9YUSY/?tag=tolees-21) con precio final de  53.12 EUR (original: 67.49 EUR) (21.29 %  de rebaja) aqui!
 
-[![Birkenstock 51791 - Sandalias con hebill](https://m.media-amazon.com/images/I/31UgvlD6D7L._SL200_.jpg)](https://www.amazon.es/dp/B000K9YUSY/?tag=tolees-21)
+[![Birkenstock 51791 - Sandalias con hebill](https://m.media-amazon.com/images/I/31UgvlD6D7L._SL400_.jpg)](https://www.amazon.es/dp/B000K9YUSY/?tag=tolees-21)
 
 🔎:
 

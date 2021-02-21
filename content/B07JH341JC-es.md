@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Agnes Pl504151 Camiseta   Cha al 40.00 % de descuento'
 date: 2020-06-23 19:19:54
-image: 'https://m.media-amazon.com/images/I/4105fjc3RNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4105fjc3RNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.62666666666667'
 
 Está [Pepe Jeans Agnes Pl504151 Camiseta   Chambray 564   X-Small para Mujer](https://www.amazon.es/dp/B07JH341JC/?tag=tolees-21) con 40.00 de descuento por 21.0 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Agnes Pl504151 Camiseta   Cha](https://m.media-amazon.com/images/I/4105fjc3RNL._SL200_.jpg)](https://www.amazon.es/dp/B07JH341JC/?tag=tolees-21)
+[![Pepe Jeans Agnes Pl504151 Camiseta   Cha](https://m.media-amazon.com/images/I/4105fjc3RNL._SL400_.jpg)](https://www.amazon.es/dp/B07JH341JC/?tag=tolees-21)
 
 ℹ️:
 

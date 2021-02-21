@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 79.69 % en Buffalo London Es 30993 PU Patent  Zapat'
 date: 2020-01-10 18:07:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iZEThwEmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iZEThwEmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.565'
 
 Tienes [Buffalo London Es 30993 PU Patent  Zapatos de Vestir para Mujer  Negro  Preto 01   37 EU](https://www.amazon.es/dp/B06Y2K1B5G/?tag=tolees-21) con un 79.69 % de descuento con precio de oferta de 17.92 EUR (original: 88.25 EUR) en el siguiente enlace!
 
-[![Buffalo London Es 30993 PU Patent  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41iZEThwEmL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2K1B5G/?tag=tolees-21)
+[![Buffalo London Es 30993 PU Patent  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41iZEThwEmL._SL400_.jpg)](https://www.amazon.es/dp/B06Y2K1B5G/?tag=tolees-21)
 
 ℹ️:
 

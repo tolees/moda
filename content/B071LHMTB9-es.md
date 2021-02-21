@@ -2,7 +2,7 @@
 layout: post
 title: 'AtailorBird Funda Protectora Portátil 13 al 17.94 % de rebaja'
 date: 2020-02-20 18:10:09
-image: 'https://m.media-amazon.com/images/I/51hgcy4IUdL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hgcy4IUdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.1075'
 
 Tienes [AtailorBird Funda Protectora Portátil 13"-13.3" Fundas Protectora Portátil Resistente e Impermeable con Interior de Terciopelo Suave y Bolsillo Lateral Multifuncional Funda Bolso para Laptop-Gris](https://www.amazon.es/dp/B071LHMTB9/?tag=tolees-21) con precio final de  11.48 EUR (original: 13.99 EUR) (17.94 %  de rebaja) aqui!
 
-[![AtailorBird Funda Protectora Portátil 13](https://m.media-amazon.com/images/I/51hgcy4IUdL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071LHMTB9/?tag=tolees-21)
+[![AtailorBird Funda Protectora Portátil 13](https://m.media-amazon.com/images/I/51hgcy4IUdL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071LHMTB9/?tag=tolees-21)
 
 🔎:
 

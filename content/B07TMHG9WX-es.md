@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s The Original tee Camiseta  Gris   al 36.04 % de rebaja'
 date: 2020-09-20 16:18:14
-image: 'https://m.media-amazon.com/images/I/41bsnMfXsZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bsnMfXsZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.85'
 
 Tienes [Levi s The Original tee Camiseta  Gris  Cotton + Patch Medium Grey Heather Emb 0015   Small para Hombre](https://www.amazon.es/dp/B07TMHG9WX/?tag=tolees-21) con precio final de  15.99 EUR (original: 25.0 EUR) (36.04 %  de rebaja) aqui!
 
-[![Levi s The Original tee Camiseta  Gris  ](https://m.media-amazon.com/images/I/41bsnMfXsZL._SL200_.jpg)](https://www.amazon.es/dp/B07TMHG9WX/?tag=tolees-21)
+[![Levi s The Original tee Camiseta  Gris  ](https://m.media-amazon.com/images/I/41bsnMfXsZL._SL400_.jpg)](https://www.amazon.es/dp/B07TMHG9WX/?tag=tolees-21)
 
 🔎:
 

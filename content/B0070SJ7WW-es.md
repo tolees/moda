@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Stormbucks PT  Zapatos de Cor al 39.07 % de descuento'
 date: 2020-04-14 00:31:45
-image: 'https://m.media-amazon.com/images/I/31M4ksUqbDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31M4ksUqbDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.3'
 
 Ahora mismo tienes [Timberland Stormbucks PT  Zapatos de Cordones Oxford para Hombre  Marrón  Brown Nubuck   45 EU](https://www.amazon.es/dp/B0070SJ7WW/?tag=tolees-21) a 85.3 EUR (original: 140.0 EUR) (39.07 %  de descuento) en el siguiente enlace!
 
-[![Timberland Stormbucks PT  Zapatos de Cor](https://m.media-amazon.com/images/I/31M4ksUqbDL._SL200_.jpg)](https://www.amazon.es/dp/B0070SJ7WW/?tag=tolees-21)
+[![Timberland Stormbucks PT  Zapatos de Cor](https://m.media-amazon.com/images/I/31M4ksUqbDL._SL400_.jpg)](https://www.amazon.es/dp/B0070SJ7WW/?tag=tolees-21)
 
 🔎:
 

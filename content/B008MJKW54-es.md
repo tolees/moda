@@ -2,7 +2,7 @@
 layout: post
 title: 'Boxer Gifts - Carcasa para iPhone 4/4s   al 32.77 % de rebaja'
 date: 2020-04-13 00:34:02
-image: 'https://m.media-amazon.com/images/I/41FlLutE--L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FlLutE--L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.07'
 
 Tienes [Boxer Gifts - Carcasa para iPhone 4/4s  diseño con Texto LMAO](https://www.amazon.es/dp/B008MJKW54/?tag=tolees-21) con precio final de  9.07 EUR (original: 13.49 EUR) (32.77 %  de rebaja) aqui!
 
-[![Boxer Gifts - Carcasa para iPhone 4/4s  ](https://m.media-amazon.com/images/I/41FlLutE--L._SL200_.jpg)](https://www.amazon.es/dp/B008MJKW54/?tag=tolees-21)
+[![Boxer Gifts - Carcasa para iPhone 4/4s  ](https://m.media-amazon.com/images/I/41FlLutE--L._SL400_.jpg)](https://www.amazon.es/dp/B008MJKW54/?tag=tolees-21)
 
 🔎:
 

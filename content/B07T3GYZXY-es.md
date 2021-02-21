@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Adventure Seeker  Toddler   S con un 50.00 % de descuento'
 date: 2020-08-07 11:41:19
-image: 'https://m.media-amazon.com/images/I/41h-XFRBhPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h-XFRBhPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.0'
 
 En este momento está [Timberland Adventure Seeker  Toddler   Sandalias de Punta Descubierta 2 Strap Unisex-Niños  Gris Grigio Castlerock Tb0a24pe0331  30 EU](https://www.amazon.es/dp/B07T3GYZXY/?tag=tolees-21) a 20.0 EUR (original: 40.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Timberland Adventure Seeker  Toddler   S](https://m.media-amazon.com/images/I/41h-XFRBhPL._SL200_.jpg)](https://www.amazon.es/dp/B07T3GYZXY/?tag=tolees-21)
+[![Timberland Adventure Seeker  Toddler   S](https://m.media-amazon.com/images/I/41h-XFRBhPL._SL400_.jpg)](https://www.amazon.es/dp/B07T3GYZXY/?tag=tolees-21)
 
 🔎:
 

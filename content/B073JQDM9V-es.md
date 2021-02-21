@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Cazadora Acolchada  al 46.15 % de rebaja'
 date: 2020-06-30 22:30:49
-image: 'https://m.media-amazon.com/images/I/417RRYdDRLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417RRYdDRLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.472'
 
 Tienes [Marca Amazon - find. Cazadora Acolchada Hombre  Azul  Navy   XXL  Label: XXL](https://www.amazon.es/dp/B073JQDM9V/?tag=tolees-21) con precio final de  13.16 EUR (original: 24.44 EUR) (46.15 %  de rebaja) aqui!
 
-[![Marca Amazon - find. Cazadora Acolchada ](https://m.media-amazon.com/images/I/417RRYdDRLL._SL200_.jpg)](https://www.amazon.es/dp/B073JQDM9V/?tag=tolees-21)
+[![Marca Amazon - find. Cazadora Acolchada ](https://m.media-amazon.com/images/I/417RRYdDRLL._SL400_.jpg)](https://www.amazon.es/dp/B073JQDM9V/?tag=tolees-21)
 
 🔎:
 

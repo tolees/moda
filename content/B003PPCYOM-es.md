@@ -2,7 +2,7 @@
 layout: post
 title: 'Eastpak Jr Bolso bandolera  33 cm  11.5  con un 33.36 % de descuento'
 date: 2020-07-01 11:13:59
-image: 'https://m.media-amazon.com/images/I/41Nvm0aGiLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Nvm0aGiLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.845'
 
 En este momento está [Eastpak Jr Bolso bandolera  33 cm  11.5 L  Gris  Sunday Grey ](https://www.amazon.es/dp/B003PPCYOM/?tag=tolees-21) a 29.99 EUR (original: 45.0 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
-[![Eastpak Jr Bolso bandolera  33 cm  11.5 ](https://m.media-amazon.com/images/I/41Nvm0aGiLL._SL200_.jpg)](https://www.amazon.es/dp/B003PPCYOM/?tag=tolees-21)
+[![Eastpak Jr Bolso bandolera  33 cm  11.5 ](https://m.media-amazon.com/images/I/41Nvm0aGiLL._SL400_.jpg)](https://www.amazon.es/dp/B003PPCYOM/?tag=tolees-21)
 
 🔎:
 

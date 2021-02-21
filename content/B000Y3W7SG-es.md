@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler Texas Darkstone  Vaqueros para  al 63.36 % de descuento'
 date: 2020-06-28 13:23:52
-image: 'https://m.media-amazon.com/images/I/41sVq5QDtNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sVq5QDtNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.29'
 
 Ahora mismo tienes [Wrangler Texas Darkstone  Vaqueros para Hombre  Vint Darkstone  W32/L36  ES 42 ](https://www.amazon.es/dp/B000Y3W7SG/?tag=tolees-21) a 29.29 EUR (original: 79.95 EUR) (63.36 %  de descuento) en el siguiente enlace!
 
-[![Wrangler Texas Darkstone  Vaqueros para ](https://m.media-amazon.com/images/I/41sVq5QDtNL._SL200_.jpg)](https://www.amazon.es/dp/B000Y3W7SG/?tag=tolees-21)
+[![Wrangler Texas Darkstone  Vaqueros para ](https://m.media-amazon.com/images/I/41sVq5QDtNL._SL400_.jpg)](https://www.amazon.es/dp/B000Y3W7SG/?tag=tolees-21)
 
 🔎:
 

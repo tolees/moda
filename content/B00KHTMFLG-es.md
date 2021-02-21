@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.37 % en Under Armour UA Heatgear Short Sleeve Ca'
 date: 2020-06-22 18:16:43
-image: 'https://m.media-amazon.com/images/I/41bivfsd4EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bivfsd4EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.31'
 
 Tienes [Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Rojo  Red/Steel 600   M](https://www.amazon.es/dp/B00KHTMFLG/?tag=tolees-21) con un 48.37 % de descuento con precio de oferta de 15.49 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Under Armour UA Heatgear Short Sleeve Ca](https://m.media-amazon.com/images/I/41bivfsd4EL._SL200_.jpg)](https://www.amazon.es/dp/B00KHTMFLG/?tag=tolees-21)
+[![Under Armour UA Heatgear Short Sleeve Ca](https://m.media-amazon.com/images/I/41bivfsd4EL._SL400_.jpg)](https://www.amazon.es/dp/B00KHTMFLG/?tag=tolees-21)
 
 ℹ️:
 

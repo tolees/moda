@@ -2,7 +2,7 @@
 layout: post
 title: 'Only NOS Onlmoon SL Top Noos Wvn Camiset al 47.03 % de descuento'
 date: 2020-09-30 14:17:31
-image: 'https://m.media-amazon.com/images/I/41HEkGKQphL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HEkGKQphL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.824615384615383'
 
 Está [Only NOS Onlmoon SL Top Noos Wvn Camiseta sin Mangas  Verde  Kalamata Kalamata   38  Talla del Fabricante: 36.0  para Mujer](https://www.amazon.es/dp/B07Q1YFHFH/?tag=tolees-21) con 47.03 de descuento por 9.0 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![Only NOS Onlmoon SL Top Noos Wvn Camiset](https://m.media-amazon.com/images/I/41HEkGKQphL._SL200_.jpg)](https://www.amazon.es/dp/B07Q1YFHFH/?tag=tolees-21)
+[![Only NOS Onlmoon SL Top Noos Wvn Camiset](https://m.media-amazon.com/images/I/41HEkGKQphL._SL400_.jpg)](https://www.amazon.es/dp/B07Q1YFHFH/?tag=tolees-21)
 
 ℹ️:
 

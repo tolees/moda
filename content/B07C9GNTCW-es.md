@@ -2,7 +2,7 @@
 layout: post
 title: 'Bolso de Paja Crossbody  JOSEKO Bolso de al 26.33 % de rebaja'
 date: 2020-09-12 10:47:15
-image: 'https://m.media-amazon.com/images/I/511UTGU2EfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511UTGU2EfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [Bolso de Paja Crossbody  JOSEKO Bolso de Paja para Mujer Bolso Mimbre Bolsa de Hombro para Playa Viajar y Uso Diario](https://www.amazon.es/dp/B07C9GNTCW/?tag=tolees-21) con precio final de  13.99 EUR (original: 18.99 EUR) (26.33 %  de rebaja) aqui!
 
-[![Bolso de Paja Crossbody  JOSEKO Bolso de](https://m.media-amazon.com/images/I/511UTGU2EfL._SL200_.jpg)](https://www.amazon.es/dp/B07C9GNTCW/?tag=tolees-21)
+[![Bolso de Paja Crossbody  JOSEKO Bolso de](https://m.media-amazon.com/images/I/511UTGU2EfL._SL400_.jpg)](https://www.amazon.es/dp/B07C9GNTCW/?tag=tolees-21)
 
 🔎:
 

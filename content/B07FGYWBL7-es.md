@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Powder Lite Hooded Chaqueta De  al 30.10 % de descuento'
 date: 2020-01-16 12:09:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414G2M52pBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414G2M52pBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.36'
 
 Ahora mismo tienes [Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Verde  Mosstone/Peatmoss   XXL](https://www.amazon.es/dp/B07FGYWBL7/?tag=tolees-21) a 68.36 EUR (original: 97.79 EUR) (30.10 %  de descuento) en el siguiente enlace!
 
-[![Columbia Powder Lite Hooded Chaqueta De ](https://images-eu.ssl-images-amazon.com/images/I/414G2M52pBL._SL200_.jpg)](https://www.amazon.es/dp/B07FGYWBL7/?tag=tolees-21)
+[![Columbia Powder Lite Hooded Chaqueta De ](https://images-eu.ssl-images-amazon.com/images/I/414G2M52pBL._SL400_.jpg)](https://www.amazon.es/dp/B07FGYWBL7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Shirt CAM Camisa  Beige  Crudo  al 38.72 % de descuento'
 date: 2020-08-16 11:55:57
-image: 'https://m.media-amazon.com/images/I/41VhsavtjqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VhsavtjqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.99'
 
 Ahora mismo tienes [Desigual Shirt CAM Camisa  Beige  Crudo Beige 1008   XXL para Mujer](https://www.amazon.es/dp/B07N42ZXTY/?tag=tolees-21) a 48.99 EUR (original: 79.95 EUR) (38.72 %  de descuento) en el siguiente enlace!
 
-[![Desigual Shirt CAM Camisa  Beige  Crudo ](https://m.media-amazon.com/images/I/41VhsavtjqL._SL200_.jpg)](https://www.amazon.es/dp/B07N42ZXTY/?tag=tolees-21)
+[![Desigual Shirt CAM Camisa  Beige  Crudo ](https://m.media-amazon.com/images/I/41VhsavtjqL._SL400_.jpg)](https://www.amazon.es/dp/B07N42ZXTY/?tag=tolees-21)
 
 🔎:
 

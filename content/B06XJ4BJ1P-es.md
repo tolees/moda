@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Camisa Hombre  Azul al 73.72 % de descuento'
 date: 2020-05-11 11:56:26
-image: 'https://m.media-amazon.com/images/I/41+pDA2obNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+pDA2obNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.7225'
 
 Está [Marca Amazon - find. Camisa Hombre  Azul  Blue   S  Label: S](https://www.amazon.es/dp/B06XJ4BJ1P/?tag=tolees-21) con 73.72 de descuento por 6.57 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Marca Amazon - find. Camisa Hombre  Azul](https://m.media-amazon.com/images/I/41+pDA2obNL._SL200_.jpg)](https://www.amazon.es/dp/B06XJ4BJ1P/?tag=tolees-21)
+[![Marca Amazon - find. Camisa Hombre  Azul](https://m.media-amazon.com/images/I/41+pDA2obNL._SL400_.jpg)](https://www.amazon.es/dp/B06XJ4BJ1P/?tag=tolees-21)
 
 ℹ️:
 

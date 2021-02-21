@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste TH6709  Camiseta para Hombre  Gr con un 39.21 % de descuento'
 date: 2020-09-05 22:28:31
-image: 'https://m.media-amazon.com/images/I/41q3tYY5KzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q3tYY5KzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.22'
 
 En este momento está [Lacoste TH6709  Camiseta para Hombre  Gris  Argent Chine   4XL  Talla del fabricante: 9 ](https://www.amazon.es/dp/B071HN3MD8/?tag=tolees-21) a 32.22 EUR (original: 53.0 EUR) (39.21 %  de descuento) en el siguiente enlace!
 
-[![Lacoste TH6709  Camiseta para Hombre  Gr](https://m.media-amazon.com/images/I/41q3tYY5KzL._SL200_.jpg)](https://www.amazon.es/dp/B071HN3MD8/?tag=tolees-21)
+[![Lacoste TH6709  Camiseta para Hombre  Gr](https://m.media-amazon.com/images/I/41q3tYY5KzL._SL400_.jpg)](https://www.amazon.es/dp/B071HN3MD8/?tag=tolees-21)
 
 🔎:
 

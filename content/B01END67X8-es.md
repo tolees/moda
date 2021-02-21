@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES - Jcomac Slim fit - Camiset con un 38.85 % de descuento'
 date: 2020-01-25 10:45:36
-image: 'https://m.media-amazon.com/images/I/41AY4onOsBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AY4onOsBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.0'
 
 En este momento está [JACK & JONES - Jcomac Slim fit - Camiseta Bã¡Sica - White](https://www.amazon.es/dp/B01END67X8/?tag=tolees-21) a 11.0 EUR (original: 17.99 EUR) (38.85 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES - Jcomac Slim fit - Camiset](https://m.media-amazon.com/images/I/41AY4onOsBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01END67X8/?tag=tolees-21)
+[![JACK & JONES - Jcomac Slim fit - Camiset](https://m.media-amazon.com/images/I/41AY4onOsBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01END67X8/?tag=tolees-21)
 
 🔎:
 

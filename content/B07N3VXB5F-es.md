@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 49.99 % en Desigual Postcards Dress Vestido  Multic'
 date: 2020-02-10 10:29:16
-image: 'https://m.media-amazon.com/images/I/51NGLFZ6xAL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NGLFZ6xAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.98'
 
 Tienes [Desigual Postcards Dress Vestido  Multicolor  Tutti Fruti 9019   M para Mujer](https://www.amazon.es/dp/B07N3VXB5F/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 29.98 EUR (original: 59.95 EUR) en el siguiente enlace!
 
-[![Desigual Postcards Dress Vestido  Multic](https://m.media-amazon.com/images/I/51NGLFZ6xAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N3VXB5F/?tag=tolees-21)
+[![Desigual Postcards Dress Vestido  Multic](https://m.media-amazon.com/images/I/51NGLFZ6xAL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N3VXB5F/?tag=tolees-21)
 
 ℹ️:
 

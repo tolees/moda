@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Lake 22  Chaqueta de plumas con con un 54.50 % de descuento'
 date: 2020-10-11 08:52:35
-image: 'https://m.media-amazon.com/images/I/41O1nDEjRKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41O1nDEjRKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.7'
 
 En este momento está [Columbia Lake 22  Chaqueta de plumas con capucha  Hombre  Gris  Columbia Grey Heather   Talla XL](https://www.amazon.es/dp/B07RC8JNBG/?tag=tolees-21) a 63.7 EUR (original: 139.99 EUR) (54.50 %  de descuento) en el siguiente enlace!
 
-[![Columbia Lake 22  Chaqueta de plumas con](https://m.media-amazon.com/images/I/41O1nDEjRKL._SL200_.jpg)](https://www.amazon.es/dp/B07RC8JNBG/?tag=tolees-21)
+[![Columbia Lake 22  Chaqueta de plumas con](https://m.media-amazon.com/images/I/41O1nDEjRKL._SL400_.jpg)](https://www.amazon.es/dp/B07RC8JNBG/?tag=tolees-21)
 
 🔎:
 

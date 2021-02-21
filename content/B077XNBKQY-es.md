@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Rival Fleece Po Hoodie Suda al 28.20 % de descuento'
 date: 2020-04-10 16:40:28
-image: 'https://m.media-amazon.com/images/I/41AoNPel96L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AoNPel96L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.595'
 
 Ahora mismo tienes [Under Armour Rival Fleece Po Hoodie Sudadera con Capucha  Hombre  Gris  Steel Light Heather/Black 036   XL](https://www.amazon.es/dp/B077XNBKQY/?tag=tolees-21) a 35.9 EUR (original: 50.0 EUR) (28.20 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Rival Fleece Po Hoodie Suda](https://m.media-amazon.com/images/I/41AoNPel96L._SL200_.jpg)](https://www.amazon.es/dp/B077XNBKQY/?tag=tolees-21)
+[![Under Armour Rival Fleece Po Hoodie Suda](https://m.media-amazon.com/images/I/41AoNPel96L._SL400_.jpg)](https://www.amazon.es/dp/B077XNBKQY/?tag=tolees-21)
 
 🔎:
 

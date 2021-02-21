@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 31.52 % en Pepe Jeans Vestido  Multicolor  Multi 0a'
 date: 2020-09-06 11:04:22
-image: 'https://m.media-amazon.com/images/I/51LyOjRCkLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LyOjRCkLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.36'
 
 Tienes [Pepe Jeans Vestido  Multicolor  Multi 0aa   X-Large para Mujer](https://www.amazon.es/dp/B07VWX5CSP/?tag=tolees-21) con un 31.52 % de descuento con precio de oferta de 51.36 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Vestido  Multicolor  Multi 0a](https://m.media-amazon.com/images/I/51LyOjRCkLL._SL200_.jpg)](https://www.amazon.es/dp/B07VWX5CSP/?tag=tolees-21)
+[![Pepe Jeans Vestido  Multicolor  Multi 0a](https://m.media-amazon.com/images/I/51LyOjRCkLL._SL400_.jpg)](https://www.amazon.es/dp/B07VWX5CSP/?tag=tolees-21)
 
 ℹ️:
 

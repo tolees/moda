@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox Uomo Sandal Strada B  Sandalias Pun al 26.35 % de descuento'
 date: 2020-08-06 18:05:39
-image: 'https://m.media-amazon.com/images/I/412NxtJL0QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412NxtJL0QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.54666666666667'
 
 Ahora mismo tienes [Geox Uomo Sandal Strada B  Sandalias Punta Cerrada para Hombre  Gris  Taupe/Black C6088   39 EU](https://www.amazon.es/dp/B07SQGPB7W/?tag=tolees-21) a 58.85 EUR (original: 79.9 EUR) (26.35 %  de descuento) en el siguiente enlace!
 
-[![Geox Uomo Sandal Strada B  Sandalias Pun](https://m.media-amazon.com/images/I/412NxtJL0QL._SL200_.jpg)](https://www.amazon.es/dp/B07SQGPB7W/?tag=tolees-21)
+[![Geox Uomo Sandal Strada B  Sandalias Pun](https://m.media-amazon.com/images/I/412NxtJL0QL._SL400_.jpg)](https://www.amazon.es/dp/B07SQGPB7W/?tag=tolees-21)
 
 🔎:
 

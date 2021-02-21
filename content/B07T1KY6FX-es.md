@@ -2,7 +2,7 @@
 layout: post
 title: 'Tikea Bolsa Geométrica Luminosa Holográf al 48.45 % de descuento'
 date: 2020-02-12 10:04:53
-image: 'https://m.media-amazon.com/images/I/51JvKFtjOIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JvKFtjOIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Está [Tikea Bolsa Geométrica Luminosa Holográfica para Mujer  Bolsa Cruzada de Moda en Cuero Sintético  Bandolera con Manilla Reversible Efecto Reflectante](https://www.amazon.es/dp/B07T1KY6FX/?tag=tolees-21) con 48.45 de descuento por 32.99 EUR (original: 63.99 EUR) en el siguiente enlace!
 
-[![Tikea Bolsa Geométrica Luminosa Holográf](https://m.media-amazon.com/images/I/51JvKFtjOIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07T1KY6FX/?tag=tolees-21)
+[![Tikea Bolsa Geométrica Luminosa Holográf](https://m.media-amazon.com/images/I/51JvKFtjOIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07T1KY6FX/?tag=tolees-21)
 
 ℹ️:
 

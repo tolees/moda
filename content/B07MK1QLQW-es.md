@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Gardiner Camisa Casual  Multic al 60.00 % de descuento'
 date: 2020-04-09 19:03:46
-image: 'https://m.media-amazon.com/images/I/5155J3iBw8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5155J3iBw8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.6'
 
 Está [Napapijri Gardiner Camisa Casual  Multicolor  Multicol Check 02c   L para Hombre](https://www.amazon.es/dp/B07MK1QLQW/?tag=tolees-21) con 60.00 de descuento por 35.6 EUR (original: 89.0 EUR) en el siguiente enlace!
 
-[![Napapijri Gardiner Camisa Casual  Multic](https://m.media-amazon.com/images/I/5155J3iBw8L._SL200_.jpg)](https://www.amazon.es/dp/B07MK1QLQW/?tag=tolees-21)
+[![Napapijri Gardiner Camisa Casual  Multic](https://m.media-amazon.com/images/I/5155J3iBw8L._SL400_.jpg)](https://www.amazon.es/dp/B07MK1QLQW/?tag=tolees-21)
 
 ℹ️:
 

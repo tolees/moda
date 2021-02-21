@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW 3301 Straight Vaqueros  Blu   al 81.16 % de rebaja'
 date: 2020-03-14 01:05:11
-image: 'https://m.media-amazon.com/images/I/41oFseirlYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oFseirlYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.83'
 
 Tienes [G-STAR RAW 3301 Straight Vaqueros  Blu  Authentic Faded Blue B631-a817   27W / 30L para Hombre](https://www.amazon.es/dp/B07N18ZTC4/?tag=tolees-21) con precio final de  18.83 EUR (original: 99.95 EUR) (81.16 %  de rebaja) aqui!
 
-[![G-STAR RAW 3301 Straight Vaqueros  Blu  ](https://m.media-amazon.com/images/I/41oFseirlYL._SL200_.jpg)](https://www.amazon.es/dp/B07N18ZTC4/?tag=tolees-21)
+[![G-STAR RAW 3301 Straight Vaqueros  Blu  ](https://m.media-amazon.com/images/I/41oFseirlYL._SL400_.jpg)](https://www.amazon.es/dp/B07N18ZTC4/?tag=tolees-21)
 
 🔎:
 

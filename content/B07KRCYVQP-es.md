@@ -2,7 +2,7 @@
 layout: post
 title: 'FitFlop Twiss Slide Sandalias de Punta D al 60.00 % de descuento'
 date: 2020-08-07 18:32:14
-image: 'https://m.media-amazon.com/images/I/316uSko2PXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316uSko2PXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.0'
 
 Ahora mismo tienes [FitFlop Twiss Slide Sandalias de Punta Descubierta Mujer  Rojo  Blush 668   43 EU  9 UK ](https://www.amazon.es/dp/B07KRCYVQP/?tag=tolees-21) a 48.0 EUR (original: 120.0 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![FitFlop Twiss Slide Sandalias de Punta D](https://m.media-amazon.com/images/I/316uSko2PXL._SL200_.jpg)](https://www.amazon.es/dp/B07KRCYVQP/?tag=tolees-21)
+[![FitFlop Twiss Slide Sandalias de Punta D](https://m.media-amazon.com/images/I/316uSko2PXL._SL400_.jpg)](https://www.amazon.es/dp/B07KRCYVQP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga CR H Camiseta de Manga Corta   al 19.80 % de rebaja'
 date: 2020-06-24 13:10:48
-image: 'https://m.media-amazon.com/images/I/31WcZ4WHukL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WcZ4WHukL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [PUMA Liga CR H Camiseta de Manga Corta  Hombre  Blanco  White/Black   S](https://www.amazon.es/dp/B078T6SJZ9/?tag=tolees-21) con precio final de  11.99 EUR (original: 14.95 EUR) (19.80 %  de rebaja) aqui!
 
-[![PUMA Liga CR H Camiseta de Manga Corta  ](https://m.media-amazon.com/images/I/31WcZ4WHukL._SL200_.jpg)](https://www.amazon.es/dp/B078T6SJZ9/?tag=tolees-21)
+[![PUMA Liga CR H Camiseta de Manga Corta  ](https://m.media-amazon.com/images/I/31WcZ4WHukL._SL400_.jpg)](https://www.amazon.es/dp/B078T6SJZ9/?tag=tolees-21)
 
 🔎:
 

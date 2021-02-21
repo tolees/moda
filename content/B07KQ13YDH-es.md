@@ -2,7 +2,7 @@
 layout: post
 title: 'FitFlop Lottie Glitzy  Sandalias de Punt con un 30.00 % de descuento'
 date: 2020-09-02 07:19:53
-image: 'https://m.media-amazon.com/images/I/41YjtRtpGPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YjtRtpGPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.0'
 
 En este momento está [FitFlop Lottie Glitzy  Sandalias de Punta Descubierta Women s  Gris  Pewter 054   36 EU](https://www.amazon.es/dp/B07KQ13YDH/?tag=tolees-21) a 49.0 EUR (original: 70.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![FitFlop Lottie Glitzy  Sandalias de Punt](https://m.media-amazon.com/images/I/41YjtRtpGPL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ13YDH/?tag=tolees-21)
+[![FitFlop Lottie Glitzy  Sandalias de Punt](https://m.media-amazon.com/images/I/41YjtRtpGPL._SL400_.jpg)](https://www.amazon.es/dp/B07KQ13YDH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans March Basic Metal  Sandalias  al 46.69 % de descuento'
 date: 2020-08-05 09:11:39
-image: 'https://m.media-amazon.com/images/I/41rmPaftJPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rmPaftJPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.65'
 
 Está [Pepe Jeans March Basic Metal  Sandalias de Gladiador para Mujer  Gold Champagne 835  41 EU](https://www.amazon.es/dp/B07VCT1ZHM/?tag=tolees-21) con 46.69 de descuento por 34.65 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans March Basic Metal  Sandalias ](https://m.media-amazon.com/images/I/41rmPaftJPL._SL200_.jpg)](https://www.amazon.es/dp/B07VCT1ZHM/?tag=tolees-21)
+[![Pepe Jeans March Basic Metal  Sandalias ](https://m.media-amazon.com/images/I/41rmPaftJPL._SL400_.jpg)](https://www.amazon.es/dp/B07VCT1ZHM/?tag=tolees-21)
 
 ℹ️:
 

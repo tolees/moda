@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Orinoco Strap  Sandalias de Talón al 55.11 % de descuento'
 date: 2020-07-06 20:21:02
-image: 'https://m.media-amazon.com/images/I/41PvgVYVXBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PvgVYVXBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.38'
 
 Ahora mismo tienes [Clarks Orinoco Strap  Sandalias de Talón Abierto para Mujer  Azul  Sky Blue Sky Blue   37.5 EU](https://www.amazon.es/dp/B07TLSYTKK/?tag=tolees-21) a 40.38 EUR (original: 89.95 EUR) (55.11 %  de descuento) en el siguiente enlace!
 
-[![Clarks Orinoco Strap  Sandalias de Talón](https://m.media-amazon.com/images/I/41PvgVYVXBL._SL200_.jpg)](https://www.amazon.es/dp/B07TLSYTKK/?tag=tolees-21)
+[![Clarks Orinoco Strap  Sandalias de Talón](https://m.media-amazon.com/images/I/41PvgVYVXBL._SL400_.jpg)](https://www.amazon.es/dp/B07TLSYTKK/?tag=tolees-21)
 
 🔎:
 

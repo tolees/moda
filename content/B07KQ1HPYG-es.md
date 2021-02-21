@@ -2,7 +2,7 @@
 layout: post
 title: 'Ever-Pretty Vestido de Fiesta Noche Larg al 31.25 % de descuento'
 date: 2020-08-29 23:35:01
-image: 'https://m.media-amazon.com/images/I/316PypGZp9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316PypGZp9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.99'
 
 Está [Ever-Pretty Vestido de Fiesta Noche Largo para Mujer Cuello V Manga Corta Talla Grande Morado Oscuro 54](https://www.amazon.es/dp/B07KQ1HPYG/?tag=tolees-21) con 31.25 de descuento por 54.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![Ever-Pretty Vestido de Fiesta Noche Larg](https://m.media-amazon.com/images/I/316PypGZp9L._SL200_.jpg)](https://www.amazon.es/dp/B07KQ1HPYG/?tag=tolees-21)
+[![Ever-Pretty Vestido de Fiesta Noche Larg](https://m.media-amazon.com/images/I/316PypGZp9L._SL400_.jpg)](https://www.amazon.es/dp/B07KQ1HPYG/?tag=tolees-21)
 
 ℹ️:
 

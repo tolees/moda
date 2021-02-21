@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans GOLDERS PM503213 Camiseta  Bl al 39.32 % de rebaja'
 date: 2020-08-22 12:02:31
-image: 'https://m.media-amazon.com/images/I/41qBqRcAORL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qBqRcAORL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Tienes [Pepe Jeans GOLDERS PM503213 Camiseta  Blanco  Optic White 802   Small para Hombre](https://www.amazon.es/dp/B0779HTXLL/?tag=tolees-21) con precio final de  16.99 EUR (original: 28.0 EUR) (39.32 %  de rebaja) aqui!
 
-[![Pepe Jeans GOLDERS PM503213 Camiseta  Bl](https://m.media-amazon.com/images/I/41qBqRcAORL._SL200_.jpg)](https://www.amazon.es/dp/B0779HTXLL/?tag=tolees-21)
+[![Pepe Jeans GOLDERS PM503213 Camiseta  Bl](https://m.media-amazon.com/images/I/41qBqRcAORL._SL400_.jpg)](https://www.amazon.es/dp/B0779HTXLL/?tag=tolees-21)
 
 🔎:
 

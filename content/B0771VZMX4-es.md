@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Silver Ridge II Pantalón Capri  al 69.04 % de rebaja'
 date: 2020-04-17 15:28:36
-image: 'https://m.media-amazon.com/images/I/41mO6YLUjiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mO6YLUjiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.57'
 
 Tienes [Columbia Silver Ridge II Pantalón Capri  Hombre  Negro  Abyss   W30/L19](https://www.amazon.es/dp/B0771VZMX4/?tag=tolees-21) con precio final de  18.57 EUR (original: 59.99 EUR) (69.04 %  de rebaja) aqui!
 
-[![Columbia Silver Ridge II Pantalón Capri ](https://m.media-amazon.com/images/I/41mO6YLUjiL._SL200_.jpg)](https://www.amazon.es/dp/B0771VZMX4/?tag=tolees-21)
+[![Columbia Silver Ridge II Pantalón Capri ](https://m.media-amazon.com/images/I/41mO6YLUjiL._SL400_.jpg)](https://www.amazon.es/dp/B0771VZMX4/?tag=tolees-21)
 
 🔎:
 

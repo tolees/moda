@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Chaqueta de Satén E al 33.46 % de descuento'
 date: 2020-06-23 11:57:25
-image: 'https://m.media-amazon.com/images/I/41jBokNqHGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jBokNqHGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.83'
 
 Está [Marca Amazon - find. Chaqueta de Satén Estilo Bómber Mujer  Rosa  Blush   46  Label: XXL](https://www.amazon.es/dp/B073RM21LD/?tag=tolees-21) con 33.46 de descuento por 11.83 EUR (original: 17.78 EUR) en el siguiente enlace!
 
-[![Marca Amazon - find. Chaqueta de Satén E](https://m.media-amazon.com/images/I/41jBokNqHGL._SL200_.jpg)](https://www.amazon.es/dp/B073RM21LD/?tag=tolees-21)
+[![Marca Amazon - find. Chaqueta de Satén E](https://m.media-amazon.com/images/I/41jBokNqHGL._SL400_.jpg)](https://www.amazon.es/dp/B073RM21LD/?tag=tolees-21)
 
 ℹ️:
 

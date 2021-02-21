@@ -2,7 +2,7 @@
 layout: post
 title: 'qingqingR Mujeres Niñas Bolso pequeño Bo al 50.00 % de descuento'
 date: 2020-06-07 13:01:29
-image: 'https://m.media-amazon.com/images/I/41u6G6gNZ3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u6G6gNZ3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.38'
 
 Ahora mismo tienes [qingqingR Mujeres Niñas Bolso pequeño Bolso de Hombro Transparente Crossbody Summer Beach Purse](https://www.amazon.es/dp/B0897RM2FV/?tag=tolees-21) a 13.38 EUR (original: 26.76 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![qingqingR Mujeres Niñas Bolso pequeño Bo](https://m.media-amazon.com/images/I/41u6G6gNZ3L._SL200_.jpg)](https://www.amazon.es/dp/B0897RM2FV/?tag=tolees-21)
+[![qingqingR Mujeres Niñas Bolso pequeño Bo](https://m.media-amazon.com/images/I/41u6G6gNZ3L._SL400_.jpg)](https://www.amazon.es/dp/B0897RM2FV/?tag=tolees-21)
 
 🔎:
 

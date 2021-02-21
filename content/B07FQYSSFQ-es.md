@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Laina RAE  Zapatos de Tacón para  al 40.07 % de descuento'
 date: 2020-06-06 21:07:28
-image: 'https://m.media-amazon.com/images/I/31uuAHw3PZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uuAHw3PZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.9'
 
 Ahora mismo tienes [Clarks Laina RAE  Zapatos de Tacón para Mujer  Beige  Nude Patent-   38 EU](https://www.amazon.es/dp/B07FQYSSFQ/?tag=tolees-21) a 59.9 EUR (original: 99.95 EUR) (40.07 %  de descuento) en el siguiente enlace!
 
-[![Clarks Laina RAE  Zapatos de Tacón para ](https://m.media-amazon.com/images/I/31uuAHw3PZL._SL200_.jpg)](https://www.amazon.es/dp/B07FQYSSFQ/?tag=tolees-21)
+[![Clarks Laina RAE  Zapatos de Tacón para ](https://m.media-amazon.com/images/I/31uuAHw3PZL._SL400_.jpg)](https://www.amazon.es/dp/B07FQYSSFQ/?tag=tolees-21)
 
 🔎:
 

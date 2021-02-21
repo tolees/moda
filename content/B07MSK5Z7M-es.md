@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Bampton Lace  Zapatos de Cordones al 64.95 % de descuento'
 date: 2020-05-14 00:30:31
-image: 'https://m.media-amazon.com/images/I/31SrtVML4kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SrtVML4kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.483333333333334'
 
 Ahora mismo tienes [Clarks Bampton Lace  Zapatos de Cordones Brogue para Hombre  Braun Tan Tan  47 EU](https://www.amazon.es/dp/B07MSK5Z7M/?tag=tolees-21) a 28.02 EUR (original: 79.95 EUR) (64.95 %  de descuento) en el siguiente enlace!
 
-[![Clarks Bampton Lace  Zapatos de Cordones](https://m.media-amazon.com/images/I/31SrtVML4kL._SL200_.jpg)](https://www.amazon.es/dp/B07MSK5Z7M/?tag=tolees-21)
+[![Clarks Bampton Lace  Zapatos de Cordones](https://m.media-amazon.com/images/I/31SrtVML4kL._SL400_.jpg)](https://www.amazon.es/dp/B07MSK5Z7M/?tag=tolees-21)
 
 🔎:
 

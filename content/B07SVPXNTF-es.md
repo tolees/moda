@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Ottaya Sandal B  Sandalias de Tal al 56.02 % de descuento'
 date: 2020-06-24 16:19:11
-image: 'https://m.media-amazon.com/images/I/31KiU-hxUML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KiU-hxUML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.46'
 
 Ahora mismo tienes [Geox D Ottaya Sandal B  Sandalias de Talón Abierto para Mujer  Negro  Black/Turquoise C0490   37 EU](https://www.amazon.es/dp/B07SVPXNTF/?tag=tolees-21) a 42.46 EUR (original: 96.55 EUR) (56.02 %  de descuento) en el siguiente enlace!
 
-[![Geox D Ottaya Sandal B  Sandalias de Tal](https://m.media-amazon.com/images/I/31KiU-hxUML._SL200_.jpg)](https://www.amazon.es/dp/B07SVPXNTF/?tag=tolees-21)
+[![Geox D Ottaya Sandal B  Sandalias de Tal](https://m.media-amazon.com/images/I/31KiU-hxUML._SL400_.jpg)](https://www.amazon.es/dp/B07SVPXNTF/?tag=tolees-21)
 
 🔎:
 

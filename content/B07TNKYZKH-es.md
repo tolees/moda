@@ -2,7 +2,7 @@
 layout: post
 title: 'Kickers Holster  Zapatos de Cordones Der al 60.72 % de descuento'
 date: 2020-08-13 18:02:18
-image: 'https://m.media-amazon.com/images/I/31A+vuU8FqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31A+vuU8FqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.89'
 
 Ahora mismo tienes [Kickers Holster  Zapatos de Cordones Derby para Mujer  Beige  Beige 11   36 EU](https://www.amazon.es/dp/B07TNKYZKH/?tag=tolees-21) a 38.89 EUR (original: 99.0 EUR) (60.72 %  de descuento) en el siguiente enlace!
 
-[![Kickers Holster  Zapatos de Cordones Der](https://m.media-amazon.com/images/I/31A+vuU8FqL._SL200_.jpg)](https://www.amazon.es/dp/B07TNKYZKH/?tag=tolees-21)
+[![Kickers Holster  Zapatos de Cordones Der](https://m.media-amazon.com/images/I/31A+vuU8FqL._SL400_.jpg)](https://www.amazon.es/dp/B07TNKYZKH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.76 % en Morgan 132-mentos.m Camiseta  Marrón  Bo'
 date: 2020-05-10 16:52:38
-image: 'https://m.media-amazon.com/images/I/51HR9IB1vcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HR9IB1vcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.625'
 
 Tienes [Morgan 132-mentos.m Camiseta  Marrón  Bordeaux Bordeaux   X-Large para Mujer](https://www.amazon.es/dp/B015XBSTZI/?tag=tolees-21) con un 52.76 % de descuento con precio de oferta de 11.81 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Morgan 132-mentos.m Camiseta  Marrón  Bo](https://m.media-amazon.com/images/I/51HR9IB1vcL._SL200_.jpg)](https://www.amazon.es/dp/B015XBSTZI/?tag=tolees-21)
+[![Morgan 132-mentos.m Camiseta  Marrón  Bo](https://m.media-amazon.com/images/I/51HR9IB1vcL._SL400_.jpg)](https://www.amazon.es/dp/B015XBSTZI/?tag=tolees-21)
 
 ℹ️:
 

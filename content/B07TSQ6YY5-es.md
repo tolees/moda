@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.02 % en Lee Scarlett Vaqueros  Azul  Dark Favour'
 date: 2020-05-25 09:38:28
-image: 'https://m.media-amazon.com/images/I/418nmqqfbBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418nmqqfbBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.95'
 
 Tienes [Lee Scarlett Vaqueros  Azul  Dark Favourite Nr   27W / 29L para Mujer](https://www.amazon.es/dp/B07TSQ6YY5/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 59.95 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Lee Scarlett Vaqueros  Azul  Dark Favour](https://m.media-amazon.com/images/I/418nmqqfbBL._SL200_.jpg)](https://www.amazon.es/dp/B07TSQ6YY5/?tag=tolees-21)
+[![Lee Scarlett Vaqueros  Azul  Dark Favour](https://m.media-amazon.com/images/I/418nmqqfbBL._SL400_.jpg)](https://www.amazon.es/dp/B07TSQ6YY5/?tag=tolees-21)
 
 ℹ️:
 

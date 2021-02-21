@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Vestido con Cremallera para Mujer  con un 62.50 % de descuento'
 date: 2020-01-04 13:01:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41eygzS5imL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eygzS5imL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.6'
 
 En este momento está [find. Vestido con Cremallera para Mujer   Verde  Pine Grove   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B072JJJ1V3/?tag=tolees-21) a 9.6 EUR (original: 25.6 EUR) (62.50 %  de descuento) en el siguiente enlace!
 
-[![find. Vestido con Cremallera para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41eygzS5imL._SL200_.jpg)](https://www.amazon.es/dp/B072JJJ1V3/?tag=tolees-21)
+[![find. Vestido con Cremallera para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41eygzS5imL._SL400_.jpg)](https://www.amazon.es/dp/B072JJJ1V3/?tag=tolees-21)
 
 🔎:
 

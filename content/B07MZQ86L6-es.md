@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Hatch Vaqueros Slim   120z De al 40.41 % de descuento'
 date: 2020-05-19 14:08:20
-image: 'https://m.media-amazon.com/images/I/41BI73H2QML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BI73H2QML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.20571428571429'
 
 Está [Pepe Jeans Hatch Vaqueros Slim   120z Deep Sea Denim Denim 000   W31/L32 para Hombre](https://www.amazon.es/dp/B07MZQ86L6/?tag=tolees-21) con 40.41 de descuento por 58.99 EUR (original: 99.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Hatch Vaqueros Slim   120z De](https://m.media-amazon.com/images/I/41BI73H2QML._SL200_.jpg)](https://www.amazon.es/dp/B07MZQ86L6/?tag=tolees-21)
+[![Pepe Jeans Hatch Vaqueros Slim   120z De](https://m.media-amazon.com/images/I/41BI73H2QML._SL400_.jpg)](https://www.amazon.es/dp/B07MZQ86L6/?tag=tolees-21)
 
 ℹ️:
 

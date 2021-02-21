@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Jg A Xfg WB Chaqueta  Niñas  Blan al 20.00 % de descuento'
 date: 2020-07-15 11:11:54
-image: 'https://m.media-amazon.com/images/I/31+oaA3LkSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+oaA3LkSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.17'
 
 Está [adidas Jg A Xfg WB Chaqueta  Niñas  Blanco/matama/Negro  152  11/12 Años ](https://www.amazon.es/dp/B084JR6DCV/?tag=tolees-21) con 20.00 de descuento por 43.17 EUR (original: 53.96 EUR) en el siguiente enlace!
 
-[![adidas Jg A Xfg WB Chaqueta  Niñas  Blan](https://m.media-amazon.com/images/I/31+oaA3LkSL._SL200_.jpg)](https://www.amazon.es/dp/B084JR6DCV/?tag=tolees-21)
+[![adidas Jg A Xfg WB Chaqueta  Niñas  Blan](https://m.media-amazon.com/images/I/31+oaA3LkSL._SL400_.jpg)](https://www.amazon.es/dp/B084JR6DCV/?tag=tolees-21)
 
 ℹ️:
 

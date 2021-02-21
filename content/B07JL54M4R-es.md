@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Tabela 18 JSY Camiseta de Manga C al 32.10 % de rebaja'
 date: 2020-06-17 20:16:23
-image: 'https://m.media-amazon.com/images/I/41W3K1M1MAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W3K1M1MAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.94'
 
 Tienes [adidas Tabela 18 JSY Camiseta de Manga Corta  Hombre  Black/White  XS](https://www.amazon.es/dp/B07JL54M4R/?tag=tolees-21) con precio final de  16.94 EUR (original: 24.95 EUR) (32.10 %  de rebaja) aqui!
 
-[![adidas Tabela 18 JSY Camiseta de Manga C](https://m.media-amazon.com/images/I/41W3K1M1MAL._SL200_.jpg)](https://www.amazon.es/dp/B07JL54M4R/?tag=tolees-21)
+[![adidas Tabela 18 JSY Camiseta de Manga C](https://m.media-amazon.com/images/I/41W3K1M1MAL._SL400_.jpg)](https://www.amazon.es/dp/B07JL54M4R/?tag=tolees-21)
 
 🔎:
 

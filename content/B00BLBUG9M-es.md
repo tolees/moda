@@ -2,7 +2,7 @@
 layout: post
 title: 'Arena Hydrofit Man Hook Zapatos de Playa al 28.45 % de rebaja'
 date: 2020-06-11 18:44:33
-image: 'https://m.media-amazon.com/images/I/51Wv-K7nHhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Wv-K7nHhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.582'
 
 Tienes [Arena Hydrofit Man Hook Zapatos de Playa y Piscina  Hombre  Negro Black 056  40 EU](https://www.amazon.es/dp/B00BLBUG9M/?tag=tolees-21) con precio final de  14.99 EUR (original: 20.95 EUR) (28.45 %  de rebaja) aqui!
 
-[![Arena Hydrofit Man Hook Zapatos de Playa](https://m.media-amazon.com/images/I/51Wv-K7nHhL._SL200_.jpg)](https://www.amazon.es/dp/B00BLBUG9M/?tag=tolees-21)
+[![Arena Hydrofit Man Hook Zapatos de Playa](https://m.media-amazon.com/images/I/51Wv-K7nHhL._SL400_.jpg)](https://www.amazon.es/dp/B00BLBUG9M/?tag=tolees-21)
 
 🔎:
 

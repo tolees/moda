@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Innovation Super Skinny Vaqueros  al 39.92 % de descuento'
 date: 2020-06-24 11:22:58
-image: 'https://m.media-amazon.com/images/I/416ss7lq1vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416ss7lq1vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.97666666666667'
 
 Está [Levi s Innovation Super Skinny Vaqueros  Gris  Freak out Without Damages 0050   W25/L32  Talla del Fabricante: 25 32  para Mujer](https://www.amazon.es/dp/B07KGC2W6R/?tag=tolees-21) con 39.92 de descuento por 36.27 EUR (original: 60.37 EUR) en el siguiente enlace!
 
-[![Levi s Innovation Super Skinny Vaqueros ](https://m.media-amazon.com/images/I/416ss7lq1vL._SL200_.jpg)](https://www.amazon.es/dp/B07KGC2W6R/?tag=tolees-21)
+[![Levi s Innovation Super Skinny Vaqueros ](https://m.media-amazon.com/images/I/416ss7lq1vL._SL400_.jpg)](https://www.amazon.es/dp/B07KGC2W6R/?tag=tolees-21)
 
 ℹ️:
 

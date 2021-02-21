@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 119CC1G008 Abrigo  Negro   al 68.64 % de descuento'
 date: 2020-03-04 18:48:19
-image: 'https://m.media-amazon.com/images/I/31c-hqO0NKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31c-hqO0NKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.36'
 
 Ahora mismo tienes [edc by Esprit 119CC1G008 Abrigo  Negro  Black 001   XS para Mujer](https://www.amazon.es/dp/B07XVQN7SH/?tag=tolees-21) a 31.36 EUR (original: 99.99 EUR) (68.64 %  de descuento) en el siguiente enlace!
 
-[![edc by Esprit 119CC1G008 Abrigo  Negro  ](https://m.media-amazon.com/images/I/31c-hqO0NKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07XVQN7SH/?tag=tolees-21)
+[![edc by Esprit 119CC1G008 Abrigo  Negro  ](https://m.media-amazon.com/images/I/31c-hqO0NKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07XVQN7SH/?tag=tolees-21)
 
 🔎:
 

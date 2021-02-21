@@ -2,7 +2,7 @@
 layout: post
 title: 'UNISA Loreal Zapatos de tacón Mujeres Ro al 44.99 % de descuento'
 date: 2020-05-14 11:32:59
-image: 'https://m.media-amazon.com/images/I/21AfO3jBsXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21AfO3jBsXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.95'
 
 Ahora mismo tienes [UNISA Loreal Zapatos de tacón Mujeres Rojo - 38 - Zapatos de tacón](https://www.amazon.es/dp/B07WKBZCSK/?tag=tolees-21) a 54.95 EUR (original: 99.9 EUR) (44.99 %  de descuento) en el siguiente enlace!
 
-[![UNISA Loreal Zapatos de tacón Mujeres Ro](https://m.media-amazon.com/images/I/21AfO3jBsXL._SL200_.jpg)](https://www.amazon.es/dp/B07WKBZCSK/?tag=tolees-21)
+[![UNISA Loreal Zapatos de tacón Mujeres Ro](https://m.media-amazon.com/images/I/21AfO3jBsXL._SL400_.jpg)](https://www.amazon.es/dp/B07WKBZCSK/?tag=tolees-21)
 
 🔎:
 

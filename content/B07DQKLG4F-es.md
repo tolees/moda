@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Jeanius  Vaqueros relaxed par al 59.42 % de rebaja'
 date: 2020-06-29 12:29:22
-image: 'https://m.media-amazon.com/images/I/41uRbIzOeyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uRbIzOeyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.598571428571425'
 
 Tienes [Pepe Jeans Jeanius  Vaqueros relaxed para Hombre  Azul  11Oz Streaky Stretch Dk Z45   W40/L30](https://www.amazon.es/dp/B07DQKLG4F/?tag=tolees-21) con precio final de  34.49 EUR (original: 85.0 EUR) (59.42 %  de rebaja) aqui!
 
-[![Pepe Jeans Jeanius  Vaqueros relaxed par](https://m.media-amazon.com/images/I/41uRbIzOeyL._SL200_.jpg)](https://www.amazon.es/dp/B07DQKLG4F/?tag=tolees-21)
+[![Pepe Jeans Jeanius  Vaqueros relaxed par](https://m.media-amazon.com/images/I/41uRbIzOeyL._SL400_.jpg)](https://www.amazon.es/dp/B07DQKLG4F/?tag=tolees-21)
 
 🔎:
 

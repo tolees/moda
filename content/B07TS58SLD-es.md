@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjitim Jjleon GE 227 I.k. N con un 79.17 % de descuento'
 date: 2020-05-18 19:04:57
-image: 'https://m.media-amazon.com/images/I/416St4gq5VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416St4gq5VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.58'
 
 En este momento está [Jack & Jones Jjitim Jjleon GE 227 I.k. Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W28/L32  Talla del Fabricante: 28  para Hombre](https://www.amazon.es/dp/B07TS58SLD/?tag=tolees-21) a 14.58 EUR (original: 69.99 EUR) (79.17 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones Jjitim Jjleon GE 227 I.k. N](https://m.media-amazon.com/images/I/416St4gq5VL._SL200_.jpg)](https://www.amazon.es/dp/B07TS58SLD/?tag=tolees-21)
+[![Jack & Jones Jjitim Jjleon GE 227 I.k. N](https://m.media-amazon.com/images/I/416St4gq5VL._SL400_.jpg)](https://www.amazon.es/dp/B07TS58SLD/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Head Basic - Bóxer para hombre  Azul  Pe al 47.25 % de descuento'
 date: 2020-05-10 08:28:06
-image: 'https://m.media-amazon.com/images/I/41CueFViSIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CueFViSIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.102'
 
 Ahora mismo tienes [Head Basic - Bóxer para hombre  Azul  Peacoat/Orange   Large  Pack de 2](https://www.amazon.es/dp/B01IVKIT7G/?tag=tolees-21) a 5.27 EUR (original: 9.99 EUR) (47.25 %  de descuento) en el siguiente enlace!
 
-[![Head Basic - Bóxer para hombre  Azul  Pe](https://m.media-amazon.com/images/I/41CueFViSIL._SL200_.jpg)](https://www.amazon.es/dp/B01IVKIT7G/?tag=tolees-21)
+[![Head Basic - Bóxer para hombre  Azul  Pe](https://m.media-amazon.com/images/I/41CueFViSIL._SL400_.jpg)](https://www.amazon.es/dp/B01IVKIT7G/?tag=tolees-21)
 
 🔎:
 

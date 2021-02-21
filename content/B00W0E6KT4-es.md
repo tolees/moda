@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Crocband U  Zuecos Unisex Adulto   al 17.78 % de rebaja'
 date: 2020-06-02 08:05:43
-image: 'https://m.media-amazon.com/images/I/31i4YgxfGBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31i4YgxfGBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.92333333333333'
 
 Tienes [Crocs Crocband U  Zuecos Unisex Adulto  Rosa  Pearl Pink-Wild Orchid   45-46 EU](https://www.amazon.es/dp/B00W0E6KT4/?tag=tolees-21) con precio final de  36.99 EUR (original: 44.99 EUR) (17.78 %  de rebaja) aqui!
 
-[![Crocs Crocband U  Zuecos Unisex Adulto  ](https://m.media-amazon.com/images/I/31i4YgxfGBL._SL200_.jpg)](https://www.amazon.es/dp/B00W0E6KT4/?tag=tolees-21)
+[![Crocs Crocband U  Zuecos Unisex Adulto  ](https://m.media-amazon.com/images/I/31i4YgxfGBL._SL400_.jpg)](https://www.amazon.es/dp/B00W0E6KT4/?tag=tolees-21)
 
 🔎:
 

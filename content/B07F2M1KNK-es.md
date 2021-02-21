@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Left Chest Logo tee  Camiseta para  al 30.05 % de descuento'
 date: 2020-01-12 18:09:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vwq0m0KzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vwq0m0KzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Está [Vans Left Chest Logo tee  Camiseta para Hombre  Negro  Black White Grey Melange  XX-Large](https://www.amazon.es/dp/B07F2M1KNK/?tag=tolees-21) con 30.05 de descuento por 13.99 EUR (original: 20 EUR) en el siguiente enlace!
 
-[![Vans Left Chest Logo tee  Camiseta para ](https://images-eu.ssl-images-amazon.com/images/I/31Vwq0m0KzL._SL200_.jpg)](https://www.amazon.es/dp/B07F2M1KNK/?tag=tolees-21)
+[![Vans Left Chest Logo tee  Camiseta para ](https://images-eu.ssl-images-amazon.com/images/I/31Vwq0m0KzL._SL400_.jpg)](https://www.amazon.es/dp/B07F2M1KNK/?tag=tolees-21)
 
 ℹ️:
 

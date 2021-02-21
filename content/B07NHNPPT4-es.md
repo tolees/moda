@@ -2,7 +2,7 @@
 layout: post
 title: 'Tamaris 1-1-25059-23  Botines para Mujer al 70.63 % de rebaja'
 date: 2020-02-15 12:41:25
-image: 'https://m.media-amazon.com/images/I/31uUnq4xJXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uUnq4xJXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.93'
 
 Tienes [Tamaris 1-1-25059-23  Botines para Mujer  Rojo  Bordeaux 549   37 EU](https://www.amazon.es/dp/B07NHNPPT4/?tag=tolees-21) con precio final de  19.37 EUR (original: 65.95 EUR) (70.63 %  de rebaja) aqui!
 
-[![Tamaris 1-1-25059-23  Botines para Mujer](https://m.media-amazon.com/images/I/31uUnq4xJXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NHNPPT4/?tag=tolees-21)
+[![Tamaris 1-1-25059-23  Botines para Mujer](https://m.media-amazon.com/images/I/31uUnq4xJXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NHNPPT4/?tag=tolees-21)
 
 🔎:
 

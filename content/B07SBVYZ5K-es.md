@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.87 % en PUMA Epic Flip V2  Zapatos de Playa y Pi'
 date: 2020-09-11 08:35:24
-image: 'https://m.media-amazon.com/images/I/31lw8w085BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lw8w085BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.96333333333333'
 
 Tienes [PUMA Epic Flip V2  Zapatos de Playa y Piscina Unisex Adulto  Azul  Dark Denim/Palace Blue 40   43 EU](https://www.amazon.es/dp/B07SBVYZ5K/?tag=tolees-21) con un 29.87 % de descuento con precio de oferta de 13.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![PUMA Epic Flip V2  Zapatos de Playa y Pi](https://m.media-amazon.com/images/I/31lw8w085BL._SL200_.jpg)](https://www.amazon.es/dp/B07SBVYZ5K/?tag=tolees-21)
+[![PUMA Epic Flip V2  Zapatos de Playa y Pi](https://m.media-amazon.com/images/I/31lw8w085BL._SL400_.jpg)](https://www.amazon.es/dp/B07SBVYZ5K/?tag=tolees-21)
 
 ℹ️:
 

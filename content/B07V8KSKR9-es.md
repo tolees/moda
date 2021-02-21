@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein Monogram Relaxed Short Hood al 23.55 % de rebaja'
 date: 2020-09-14 10:01:51
-image: 'https://m.media-amazon.com/images/I/41itJwOX9DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41itJwOX9DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [Calvin Klein Monogram Relaxed Short Hoodie Sudadera  Gris  Light Grey Heather P01   40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07V8KSKR9/?tag=tolees-21) con precio final de  29.99 EUR (original: 39.23 EUR) (23.55 %  de rebaja) aqui!
 
-[![Calvin Klein Monogram Relaxed Short Hood](https://m.media-amazon.com/images/I/41itJwOX9DL._SL200_.jpg)](https://www.amazon.es/dp/B07V8KSKR9/?tag=tolees-21)
+[![Calvin Klein Monogram Relaxed Short Hood](https://m.media-amazon.com/images/I/41itJwOX9DL._SL400_.jpg)](https://www.amazon.es/dp/B07V8KSKR9/?tag=tolees-21)
 
 🔎:
 

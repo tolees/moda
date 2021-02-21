@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Cascade Ridge II Softshell Chaq al 49.00 % de descuento'
 date: 2020-09-25 18:46:28
-image: 'https://m.media-amazon.com/images/I/41EdMBH+dcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EdMBH+dcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.99'
 
 Está [Columbia Cascade Ridge II Softshell Chaqueta  Hombre  Night Tide  S](https://www.amazon.es/dp/B087VH6XL6/?tag=tolees-21) con 49.00 de descuento por 50.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Columbia Cascade Ridge II Softshell Chaq](https://m.media-amazon.com/images/I/41EdMBH+dcL._SL200_.jpg)](https://www.amazon.es/dp/B087VH6XL6/?tag=tolees-21)
+[![Columbia Cascade Ridge II Softshell Chaq](https://m.media-amazon.com/images/I/41EdMBH+dcL._SL400_.jpg)](https://www.amazon.es/dp/B087VH6XL6/?tag=tolees-21)
 
 ℹ️:
 

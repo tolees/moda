@@ -2,7 +2,7 @@
 layout: post
 title: 'G-Star 60885  Vaqueros para Mujer  Negro al 39.97 % de descuento'
 date: 2020-05-06 09:09:14
-image: 'https://m.media-amazon.com/images/I/41-kaaxmDgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-kaaxmDgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.916666666666664'
 
 Ahora mismo tienes [G-Star 60885  Vaqueros para Mujer  Negro  Dark Aged 6545   W24/L30](https://www.amazon.es/dp/B00MR10E2Y/?tag=tolees-21) a 60.0 EUR (original: 99.95 EUR) (39.97 %  de descuento) en el siguiente enlace!
 
-[![G-Star 60885  Vaqueros para Mujer  Negro](https://m.media-amazon.com/images/I/41-kaaxmDgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00MR10E2Y/?tag=tolees-21)
+[![G-Star 60885  Vaqueros para Mujer  Negro](https://m.media-amazon.com/images/I/41-kaaxmDgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00MR10E2Y/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 62.29 % en GLOGLOW Capa Casual de otoño de Las Muje'
 date: 2020-01-21 08:54:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z3PsRZZGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z3PsRZZGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.89'
 
 Tienes [GLOGLOW Capa Casual de otoño de Las Mujeres  Encaje o-Cuello con Cremallera Frontal Abierta Chaqueta de Manga Larga Chaqueta de Punto Blusa L-Blanco ](https://www.amazon.es/dp/B07JFXQTX5/?tag=tolees-21) con un 62.29 % de descuento con precio de oferta de 5.89 EUR (original: 15.62 EUR) en el siguiente enlace!
 
-[![GLOGLOW Capa Casual de otoño de Las Muje](https://images-eu.ssl-images-amazon.com/images/I/51Z3PsRZZGL._SL200_.jpg)](https://www.amazon.es/dp/B07JFXQTX5/?tag=tolees-21)
+[![GLOGLOW Capa Casual de otoño de Las Muje](https://images-eu.ssl-images-amazon.com/images/I/51Z3PsRZZGL._SL400_.jpg)](https://www.amazon.es/dp/B07JFXQTX5/?tag=tolees-21)
 
 ℹ️:
 

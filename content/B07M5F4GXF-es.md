@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler LS 2pkt Flap Shirt Corduroy Cam al 49.99 % de rebaja'
 date: 2020-03-01 07:27:18
-image: 'https://m.media-amazon.com/images/I/41mb4zpmtWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mb4zpmtWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.48'
 
 Tienes [Wrangler LS 2pkt Flap Shirt Corduroy Camisa  Marrón  Russet Brown Xma   Medium para Hombre](https://www.amazon.es/dp/B07M5F4GXF/?tag=tolees-21) con precio final de  37.48 EUR (original: 74.95 EUR) (49.99 %  de rebaja) aqui!
 
-[![Wrangler LS 2pkt Flap Shirt Corduroy Cam](https://m.media-amazon.com/images/I/41mb4zpmtWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07M5F4GXF/?tag=tolees-21)
+[![Wrangler LS 2pkt Flap Shirt Corduroy Cam](https://m.media-amazon.com/images/I/41mb4zpmtWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07M5F4GXF/?tag=tolees-21)
 
 🔎:
 

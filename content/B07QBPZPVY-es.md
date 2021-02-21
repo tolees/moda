@@ -2,7 +2,7 @@
 layout: post
 title: 'New Look Sport Harrington Chaqueta Bombe al 17.83 % de descuento'
 date: 2020-04-08 11:28:42
-image: 'https://m.media-amazon.com/images/I/41izI20fyLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41izI20fyLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.030000000000001'
 
 Ahora mismo tienes [New Look Sport Harrington Chaqueta Bomber  Azul  Navy 41   Medium  Talla del Fabricante: 52  para Hombre](https://www.amazon.es/dp/B07QBPZPVY/?tag=tolees-21) a 8.8 EUR (original: 10.71 EUR) (17.83 %  de descuento) en el siguiente enlace!
 
-[![New Look Sport Harrington Chaqueta Bombe](https://m.media-amazon.com/images/I/41izI20fyLL._SL200_.jpg)](https://www.amazon.es/dp/B07QBPZPVY/?tag=tolees-21)
+[![New Look Sport Harrington Chaqueta Bombe](https://m.media-amazon.com/images/I/41izI20fyLL._SL400_.jpg)](https://www.amazon.es/dp/B07QBPZPVY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Axcone Zapatillas Hombres Mujer Deporte  al 53.43 % de rebaja'
 date: 2020-06-26 01:36:46
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51uurOo%2Bx6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uurOo%2Bx6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.99'
 
 Tienes [Axcone Zapatillas Hombres Mujer Deporte Running Zapatos para Correr Gimnasio Sneakers Deportivas Padel Transpirables Casual 8995 BU 43EU](https://www.amazon.es/dp/B07TWZHBZ9/?tag=tolees-21) con precio final de  33.99 EUR (original: 72.99 EUR) (53.43 %  de rebaja) aqui!
 
-[![Axcone Zapatillas Hombres Mujer Deporte ](https://images-eu.ssl-images-amazon.com/images/I/51uurOo%2Bx6L._SL200_.jpg)](https://www.amazon.es/dp/B07TWZHBZ9/?tag=tolees-21)
+[![Axcone Zapatillas Hombres Mujer Deporte ](https://images-eu.ssl-images-amazon.com/images/I/51uurOo%2Bx6L._SL400_.jpg)](https://www.amazon.es/dp/B07TWZHBZ9/?tag=tolees-21)
 
 🔎:
 

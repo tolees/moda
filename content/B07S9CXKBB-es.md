@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee New Pocket SWS Sudadera  Gris  Grey  al 74.08 % de rebaja'
 date: 2020-07-07 07:30:43
-image: 'https://m.media-amazon.com/images/I/41cksHoSNAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cksHoSNAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.13'
 
 Tienes [Lee New Pocket SWS Sudadera  Gris  Grey Mele MP   X-Large para Hombre](https://www.amazon.es/dp/B07S9CXKBB/?tag=tolees-21) con precio final de  18.13 EUR (original: 69.95 EUR) (74.08 %  de rebaja) aqui!
 
-[![Lee New Pocket SWS Sudadera  Gris  Grey ](https://m.media-amazon.com/images/I/41cksHoSNAL._SL200_.jpg)](https://www.amazon.es/dp/B07S9CXKBB/?tag=tolees-21)
+[![Lee New Pocket SWS Sudadera  Gris  Grey ](https://m.media-amazon.com/images/I/41cksHoSNAL._SL400_.jpg)](https://www.amazon.es/dp/B07S9CXKBB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.77 % en dockers Smart 360 Flex Alpha Skinny Vaqu'
 date: 2020-01-21 21:17:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HmQEvquoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HmQEvquoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.95'
 
 Tienes [dockers Smart 360 Flex Alpha Skinny Vaqueros  Dark Ginger  28W / 32L para Hombre](https://www.amazon.es/dp/B07ND5VMMS/?tag=tolees-21) con un 60.77 % de descuento con precio de oferta de 34.95 EUR (original: 89.1 EUR) en el siguiente enlace!
 
-[![dockers Smart 360 Flex Alpha Skinny Vaqu](https://images-eu.ssl-images-amazon.com/images/I/41HmQEvquoL._SL200_.jpg)](https://www.amazon.es/dp/B07ND5VMMS/?tag=tolees-21)
+[![dockers Smart 360 Flex Alpha Skinny Vaqu](https://images-eu.ssl-images-amazon.com/images/I/41HmQEvquoL._SL400_.jpg)](https://www.amazon.es/dp/B07ND5VMMS/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Core18 Pre Jkty Chaqueta de Depor al 43.24 % de descuento'
 date: 2020-06-08 23:09:53
-image: 'https://m.media-amazon.com/images/I/41cdMcx7H0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cdMcx7H0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.0'
 
 Está [adidas Core18 Pre Jkty Chaqueta de Deporte  Unisex Niños  Azul  Azul/Blanco   11-12Y](https://www.amazon.es/dp/B076HRFYWK/?tag=tolees-21) con 43.24 de descuento por 17.0 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![adidas Core18 Pre Jkty Chaqueta de Depor](https://m.media-amazon.com/images/I/41cdMcx7H0L._SL200_.jpg)](https://www.amazon.es/dp/B076HRFYWK/?tag=tolees-21)
+[![adidas Core18 Pre Jkty Chaqueta de Depor](https://m.media-amazon.com/images/I/41cdMcx7H0L._SL400_.jpg)](https://www.amazon.es/dp/B076HRFYWK/?tag=tolees-21)
 
 ℹ️:
 

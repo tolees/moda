@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Pouring Adventu Chaqueta  Hombr al 46.95 % de descuento'
 date: 2020-05-19 19:23:29
-image: 'https://m.media-amazon.com/images/I/41oKHCZDJHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oKHCZDJHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.72'
 
 Ahora mismo tienes [Columbia Pouring Adventu Chaqueta  Hombre  Azul  Hyper Azul/Marine Azul   XXL](https://www.amazon.es/dp/B01N2VNKWG/?tag=tolees-21) a 47.72 EUR (original: 89.95 EUR) (46.95 %  de descuento) en el siguiente enlace!
 
-[![Columbia Pouring Adventu Chaqueta  Hombr](https://m.media-amazon.com/images/I/41oKHCZDJHL._SL200_.jpg)](https://www.amazon.es/dp/B01N2VNKWG/?tag=tolees-21)
+[![Columbia Pouring Adventu Chaqueta  Hombr](https://m.media-amazon.com/images/I/41oKHCZDJHL._SL400_.jpg)](https://www.amazon.es/dp/B01N2VNKWG/?tag=tolees-21)
 
 🔎:
 

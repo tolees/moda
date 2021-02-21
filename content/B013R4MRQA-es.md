@@ -2,7 +2,7 @@
 layout: post
 title: 'Cream Basmalla Cardigan Chaqueta  Marrón al 89.07 % de rebaja'
 date: 2020-01-08 08:41:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CI4W33qIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CI4W33qIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.16'
 
 Tienes [Cream Basmalla Cardigan Chaqueta  Marrón  S para Mujer](https://www.amazon.es/dp/B013R4MRQA/?tag=tolees-21) con precio final de  11.16 EUR (original: 102.14 EUR) (89.07 %  de rebaja) aqui!
 
-[![Cream Basmalla Cardigan Chaqueta  Marrón](https://images-eu.ssl-images-amazon.com/images/I/41CI4W33qIL._SL200_.jpg)](https://www.amazon.es/dp/B013R4MRQA/?tag=tolees-21)
+[![Cream Basmalla Cardigan Chaqueta  Marrón](https://images-eu.ssl-images-amazon.com/images/I/41CI4W33qIL._SL400_.jpg)](https://www.amazon.es/dp/B013R4MRQA/?tag=tolees-21)
 
 🔎:
 

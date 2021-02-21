@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jorseth Jacket Chaqueta  Ro al 63.21 % de descuento'
 date: 2020-03-19 12:33:27
-image: 'https://m.media-amazon.com/images/I/41IkDt1NdqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IkDt1NdqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.75'
 
 Está [JACK & JONES Jorseth Jacket Chaqueta  Rojo  Brick Red Detail: Blocking   Small para Hombre](https://www.amazon.es/dp/B07VD9Z1N6/?tag=tolees-21) con 63.21 de descuento por 25.75 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![JACK & JONES Jorseth Jacket Chaqueta  Ro](https://m.media-amazon.com/images/I/41IkDt1NdqL._SL200_.jpg)](https://www.amazon.es/dp/B07VD9Z1N6/?tag=tolees-21)
+[![JACK & JONES Jorseth Jacket Chaqueta  Ro](https://m.media-amazon.com/images/I/41IkDt1NdqL._SL400_.jpg)](https://www.amazon.es/dp/B07VD9Z1N6/?tag=tolees-21)
 
 ℹ️:
 

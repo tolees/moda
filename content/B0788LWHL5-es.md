@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 22.27 % en Salomon AGILE LS Camiseta deportiva de m'
 date: 2020-08-23 04:34:01
-image: 'https://m.media-amazon.com/images/I/31lOcT+Xb4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lOcT+Xb4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.98'
 
 Tienes [Salomon AGILE LS Camiseta deportiva de manga larga  Hombre  Negro  Black   XL](https://www.amazon.es/dp/B0788LWHL5/?tag=tolees-21) con un 22.27 % de descuento con precio de oferta de 34.98 EUR (original: 45.0 EUR) en el siguiente enlace!
 
-[![Salomon AGILE LS Camiseta deportiva de m](https://m.media-amazon.com/images/I/31lOcT+Xb4L._SL200_.jpg)](https://www.amazon.es/dp/B0788LWHL5/?tag=tolees-21)
+[![Salomon AGILE LS Camiseta deportiva de m](https://m.media-amazon.com/images/I/31lOcT+Xb4L._SL400_.jpg)](https://www.amazon.es/dp/B0788LWHL5/?tag=tolees-21)
 
 ℹ️:
 

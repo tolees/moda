@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Taylor PL900443 Falda  Azul   al 70.70 % de descuento'
 date: 2020-01-22 15:02:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41mkETlUaaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mkETlUaaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.48'
 
 Está [Pepe Jeans Taylor PL900443 Falda  Azul  Dark Tru BLU Ce3   X-Small para Mujer](https://www.amazon.es/dp/B076DGSY1K/?tag=tolees-21) con 70.70 de descuento por 20.48 EUR (original: 69.9 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Taylor PL900443 Falda  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41mkETlUaaL._SL200_.jpg)](https://www.amazon.es/dp/B076DGSY1K/?tag=tolees-21)
+[![Pepe Jeans Taylor PL900443 Falda  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41mkETlUaaL._SL400_.jpg)](https://www.amazon.es/dp/B076DGSY1K/?tag=tolees-21)
 
 ℹ️:
 

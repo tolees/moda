@@ -2,7 +2,7 @@
 layout: post
 title: 'Roxy Viva Sparkle  Zapatos de Playa y Pi al 37.87 % de rebaja'
 date: 2020-06-18 18:23:33
-image: 'https://m.media-amazon.com/images/I/41zngrUQJZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zngrUQJZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Tienes [Roxy Viva Sparkle  Zapatos de Playa y Piscina para Mujer  Azul  Navy Nvy   38 EU](https://www.amazon.es/dp/B07STWV9JT/?tag=tolees-21) con precio final de  10.99 EUR (original: 17.69 EUR) (37.87 %  de rebaja) aqui!
 
-[![Roxy Viva Sparkle  Zapatos de Playa y Pi](https://m.media-amazon.com/images/I/41zngrUQJZL._SL200_.jpg)](https://www.amazon.es/dp/B07STWV9JT/?tag=tolees-21)
+[![Roxy Viva Sparkle  Zapatos de Playa y Pi](https://m.media-amazon.com/images/I/41zngrUQJZL._SL400_.jpg)](https://www.amazon.es/dp/B07STWV9JT/?tag=tolees-21)
 
 🔎:
 

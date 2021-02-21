@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Davis Square Leather Chukka   al 70.57 % de descuento'
 date: 2020-04-01 22:34:00
-image: 'https://m.media-amazon.com/images/I/41NzKe8IVVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NzKe8IVVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.07'
 
 Está [Timberland Davis Square Leather Chukka  Botas Unisex-Niños  Azul  Navy Nubuck   22 EU](https://www.amazon.es/dp/B07DGM7T6C/?tag=tolees-21) con 70.57 de descuento por 22.07 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![Timberland Davis Square Leather Chukka  ](https://m.media-amazon.com/images/I/41NzKe8IVVL._SL200_.jpg)](https://www.amazon.es/dp/B07DGM7T6C/?tag=tolees-21)
+[![Timberland Davis Square Leather Chukka  ](https://m.media-amazon.com/images/I/41NzKe8IVVL._SL400_.jpg)](https://www.amazon.es/dp/B07DGM7T6C/?tag=tolees-21)
 
 ℹ️:
 

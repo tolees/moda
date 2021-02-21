@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 63.70 % en Uneek UC902 - Pantalón de carga  color n'
 date: 2020-01-21 11:29:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41I03kZW9FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I03kZW9FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8'
 
 Tienes [Uneek UC902 - Pantalón de carga  color negro  30 alturas ](https://www.amazon.es/dp/B019OLXV10/?tag=tolees-21) con un 63.70 % de descuento con precio de oferta de 8 EUR (original: 22.04 EUR) en el siguiente enlace!
 
-[![Uneek UC902 - Pantalón de carga  color n](https://images-eu.ssl-images-amazon.com/images/I/41I03kZW9FL._SL200_.jpg)](https://www.amazon.es/dp/B019OLXV10/?tag=tolees-21)
+[![Uneek UC902 - Pantalón de carga  color n](https://images-eu.ssl-images-amazon.com/images/I/41I03kZW9FL._SL400_.jpg)](https://www.amazon.es/dp/B019OLXV10/?tag=tolees-21)
 
 ℹ️:
 

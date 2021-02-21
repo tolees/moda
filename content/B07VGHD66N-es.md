@@ -2,7 +2,7 @@
 layout: post
 title: 'BLEND Jet Vaqueros Slim  Azul  Denim Mid al 40.98 % de descuento'
 date: 2020-04-25 12:08:15
-image: 'https://m.media-amazon.com/images/I/413y-xTCAHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413y-xTCAHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.48'
 
 Está [BLEND Jet Vaqueros Slim  Azul  Denim Middle Blue 76201   W32/L32  Talla del Fabricante: 32/32  para Hombre](https://www.amazon.es/dp/B07VGHD66N/?tag=tolees-21) con 40.98 de descuento por 29.48 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![BLEND Jet Vaqueros Slim  Azul  Denim Mid](https://m.media-amazon.com/images/I/413y-xTCAHL._SL200_.jpg)](https://www.amazon.es/dp/B07VGHD66N/?tag=tolees-21)
+[![BLEND Jet Vaqueros Slim  Azul  Denim Mid](https://m.media-amazon.com/images/I/413y-xTCAHL._SL400_.jpg)](https://www.amazon.es/dp/B07VGHD66N/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Agatha Ruiz de la Prada 191957  Botines  al 64.57 % de rebaja'
 date: 2020-03-11 11:19:44
-image: 'https://m.media-amazon.com/images/I/31Iyk7LaVmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Iyk7LaVmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.22'
 
 Tienes [Agatha Ruiz de la Prada 191957  Botines para Niñas  Rojo  Cereza  Serraje  C   27 EU](https://www.amazon.es/dp/B07P74VXN4/?tag=tolees-21) con precio final de  21.22 EUR (original: 59.9 EUR) (64.57 %  de rebaja) aqui!
 
-[![Agatha Ruiz de la Prada 191957  Botines ](https://m.media-amazon.com/images/I/31Iyk7LaVmL._SL200_.jpg)](https://www.amazon.es/dp/B07P74VXN4/?tag=tolees-21)
+[![Agatha Ruiz de la Prada 191957  Botines ](https://m.media-amazon.com/images/I/31Iyk7LaVmL._SL400_.jpg)](https://www.amazon.es/dp/B07P74VXN4/?tag=tolees-21)
 
 🔎:
 

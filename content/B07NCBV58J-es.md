@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Saturn Vaqueros  Azul  Medium con un 60.00 % de descuento'
 date: 2020-09-10 17:21:55
-image: 'https://m.media-amazon.com/images/I/41sgHElgqdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sgHElgqdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.791666666666664'
 
 En este momento está [Pepe Jeans Saturn Vaqueros  Azul  Medium Used Wiser Wash Denim Wz3   24W / 32L para Mujer](https://www.amazon.es/dp/B07NCBV58J/?tag=tolees-21) a 38.0 EUR (original: 95.0 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Saturn Vaqueros  Azul  Medium](https://m.media-amazon.com/images/I/41sgHElgqdL._SL200_.jpg)](https://www.amazon.es/dp/B07NCBV58J/?tag=tolees-21)
+[![Pepe Jeans Saturn Vaqueros  Azul  Medium](https://m.media-amazon.com/images/I/41sgHElgqdL._SL400_.jpg)](https://www.amazon.es/dp/B07NCBV58J/?tag=tolees-21)
 
 🔎:
 

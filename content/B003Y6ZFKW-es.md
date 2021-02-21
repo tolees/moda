@@ -2,7 +2,7 @@
 layout: post
 title: 'Urban Classics Chaqueta Lana Negro S al 74.75 % de descuento'
 date: 2020-01-18 16:33:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kipuVMZ2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kipuVMZ2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.65'
 
 Está [Urban Classics Chaqueta Lana Negro S](https://www.amazon.es/dp/B003Y6ZFKW/?tag=tolees-21) con 74.75 de descuento por 17.65 EUR (original: 69.9 EUR) en el siguiente enlace!
 
-[![Urban Classics Chaqueta Lana Negro S](https://images-eu.ssl-images-amazon.com/images/I/41kipuVMZ2L._SL200_.jpg)](https://www.amazon.es/dp/B003Y6ZFKW/?tag=tolees-21)
+[![Urban Classics Chaqueta Lana Negro S](https://images-eu.ssl-images-amazon.com/images/I/41kipuVMZ2L._SL400_.jpg)](https://www.amazon.es/dp/B003Y6ZFKW/?tag=tolees-21)
 
 ℹ️:
 

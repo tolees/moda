@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Graphic 9 Slim Round Neck Cam con un 43.46 % de descuento'
 date: 2020-02-12 19:35:20
-image: 'https://m.media-amazon.com/images/I/41nbdnTq-yL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nbdnTq-yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.79'
 
 En este momento está [G-STAR RAW Graphic 9 Slim Round Neck Camiseta  Blanco  White 110   XX-Small para Hombre](https://www.amazon.es/dp/B07NDL6L8G/?tag=tolees-21) a 19.79 EUR (original: 35.0 EUR) (43.46 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Graphic 9 Slim Round Neck Cam](https://m.media-amazon.com/images/I/41nbdnTq-yL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NDL6L8G/?tag=tolees-21)
+[![G-STAR RAW Graphic 9 Slim Round Neck Cam](https://m.media-amazon.com/images/I/41nbdnTq-yL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NDL6L8G/?tag=tolees-21)
 
 🔎:
 

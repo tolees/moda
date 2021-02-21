@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox Jr Ciak Girl a  Zapatillas Altas pa con un 61.78 % de descuento'
 date: 2020-02-19 13:05:36
-image: 'https://m.media-amazon.com/images/I/41WZJRamqrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WZJRamqrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.07'
 
 En este momento está [Geox Jr Ciak Girl a  Zapatillas Altas para Niñas  Blanco  White/Red C0050   32 EU](https://www.amazon.es/dp/B07DK3TDQ8/?tag=tolees-21) a 19.07 EUR (original: 49.9 EUR) (61.78 %  de descuento) en el siguiente enlace!
 
-[![Geox Jr Ciak Girl a  Zapatillas Altas pa](https://m.media-amazon.com/images/I/41WZJRamqrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DK3TDQ8/?tag=tolees-21)
+[![Geox Jr Ciak Girl a  Zapatillas Altas pa](https://m.media-amazon.com/images/I/41WZJRamqrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DK3TDQ8/?tag=tolees-21)
 
 🔎:
 

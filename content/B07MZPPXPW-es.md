@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Regent Vaqueros Skinny  Azul  al 49.04 % de descuento'
 date: 2020-06-12 20:31:38
-image: 'https://m.media-amazon.com/images/I/41w7NtQEADL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w7NtQEADL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.81'
 
 Ahora mismo tienes [Pepe Jeans Regent Vaqueros Skinny  Azul  Medium Used Hydroless Denim 000   W33/L32 para Mujer](https://www.amazon.es/dp/B07MZPPXPW/?tag=tolees-21) a 45.81 EUR (original: 89.9 EUR) (49.04 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Regent Vaqueros Skinny  Azul ](https://m.media-amazon.com/images/I/41w7NtQEADL._SL200_.jpg)](https://www.amazon.es/dp/B07MZPPXPW/?tag=tolees-21)
+[![Pepe Jeans Regent Vaqueros Skinny  Azul ](https://m.media-amazon.com/images/I/41w7NtQEADL._SL400_.jpg)](https://www.amazon.es/dp/B07MZPPXPW/?tag=tolees-21)
 
 🔎:
 

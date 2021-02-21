@@ -2,7 +2,7 @@
 layout: post
 title: 'NIZZIN Francine Camisa  Negro  Black   S al 62.18 % de descuento'
 date: 2020-09-28 11:59:18
-image: 'https://m.media-amazon.com/images/I/41GOOhwgiOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GOOhwgiOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.426'
 
 Está [NIZZIN Francine Camisa  Negro  Black   Small](https://www.amazon.es/dp/B01MSRO1KK/?tag=tolees-21) con 62.18 de descuento por 3.6 EUR (original: 9.52 EUR) en el siguiente enlace!
 
-[![NIZZIN Francine Camisa  Negro  Black   S](https://m.media-amazon.com/images/I/41GOOhwgiOL._SL200_.jpg)](https://www.amazon.es/dp/B01MSRO1KK/?tag=tolees-21)
+[![NIZZIN Francine Camisa  Negro  Black   S](https://m.media-amazon.com/images/I/41GOOhwgiOL._SL400_.jpg)](https://www.amazon.es/dp/B01MSRO1KK/?tag=tolees-21)
 
 ℹ️:
 

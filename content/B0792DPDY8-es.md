@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Arethea B  Mocasines para Mujer   con un 50.00 % de descuento'
 date: 2020-06-14 08:01:08
-image: 'https://m.media-amazon.com/images/I/41SAHL8y4oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SAHL8y4oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.95'
 
 En este momento está [Geox D Arethea B  Mocasines para Mujer  Negro  Black C9999   36 EU](https://www.amazon.es/dp/B0792DPDY8/?tag=tolees-21) a 54.95 EUR (original: 109.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Geox D Arethea B  Mocasines para Mujer  ](https://m.media-amazon.com/images/I/41SAHL8y4oL._SL200_.jpg)](https://www.amazon.es/dp/B0792DPDY8/?tag=tolees-21)
+[![Geox D Arethea B  Mocasines para Mujer  ](https://m.media-amazon.com/images/I/41SAHL8y4oL._SL400_.jpg)](https://www.amazon.es/dp/B0792DPDY8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 501 Crop Vaqueros Boyfriend  Azul al 51.37 % de descuento'
 date: 2020-07-12 08:01:21
-image: 'https://m.media-amazon.com/images/I/41CZMe9RQiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CZMe9RQiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.739999999999995'
 
 Está [Levi s 501 Crop Vaqueros Boyfriend  Azul  Montgomery Baked 0074   31W / 28L para Mujer](https://www.amazon.es/dp/B07KF4Y6M1/?tag=tolees-21) con 51.37 de descuento por 53.49 EUR (original: 110.0 EUR) en el siguiente enlace!
 
-[![Levi s 501 Crop Vaqueros Boyfriend  Azul](https://m.media-amazon.com/images/I/41CZMe9RQiL._SL200_.jpg)](https://www.amazon.es/dp/B07KF4Y6M1/?tag=tolees-21)
+[![Levi s 501 Crop Vaqueros Boyfriend  Azul](https://m.media-amazon.com/images/I/41CZMe9RQiL._SL400_.jpg)](https://www.amazon.es/dp/B07KF4Y6M1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Desert Alchemy Fuji Chaqueta  A al 49.00 % de rebaja'
 date: 2020-08-14 11:37:09
-image: 'https://m.media-amazon.com/images/I/41WBozLJuuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WBozLJuuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.99'
 
 Tienes [Superdry Desert Alchemy Fuji Chaqueta  Amarillo  Autumn Ochre Dq7   XS para Hombre](https://www.amazon.es/dp/B07TJT4SNL/?tag=tolees-21) con precio final de  50.99 EUR (original: 99.99 EUR) (49.00 %  de rebaja) aqui!
 
-[![Superdry Desert Alchemy Fuji Chaqueta  A](https://m.media-amazon.com/images/I/41WBozLJuuL._SL200_.jpg)](https://www.amazon.es/dp/B07TJT4SNL/?tag=tolees-21)
+[![Superdry Desert Alchemy Fuji Chaqueta  A](https://m.media-amazon.com/images/I/41WBozLJuuL._SL400_.jpg)](https://www.amazon.es/dp/B07TJT4SNL/?tag=tolees-21)
 
 🔎:
 

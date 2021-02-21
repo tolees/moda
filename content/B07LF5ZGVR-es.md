@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 61.57 % en Levi s 2pk Crewneck Graphic Camiseta  Mu'
 date: 2020-04-03 10:12:49
-image: 'https://m.media-amazon.com/images/I/31Zvl+xIDgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Zvl+xIDgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.85'
 
 Tienes [Levi s 2pk Crewneck Graphic Camiseta  Multicolor  2 Pack Hm White/Mid Tone Grey Heather 0001   Small para Hombre](https://www.amazon.es/dp/B07LF5ZGVR/?tag=tolees-21) con un 61.57 % de descuento con precio de oferta de 13.45 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Levi s 2pk Crewneck Graphic Camiseta  Mu](https://m.media-amazon.com/images/I/31Zvl+xIDgL._SL200_.jpg)](https://www.amazon.es/dp/B07LF5ZGVR/?tag=tolees-21)
+[![Levi s 2pk Crewneck Graphic Camiseta  Mu](https://m.media-amazon.com/images/I/31Zvl+xIDgL._SL400_.jpg)](https://www.amazon.es/dp/B07LF5ZGVR/?tag=tolees-21)
 
 ℹ️:
 

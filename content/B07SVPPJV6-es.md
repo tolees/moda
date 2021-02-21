@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Snake.2 B  Zapatillas para Hombre al 35.03 % de descuento'
 date: 2020-08-23 05:16:09
-image: 'https://m.media-amazon.com/images/I/31eQGgzxGzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eQGgzxGzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.9'
 
 Está [Geox U Snake.2 B  Zapatillas para Hombre  Negro  Black C9999   41 EU](https://www.amazon.es/dp/B07SVPPJV6/?tag=tolees-21) con 35.03 de descuento por 77.9 EUR (original: 119.9 EUR) en el siguiente enlace!
 
-[![Geox U Snake.2 B  Zapatillas para Hombre](https://m.media-amazon.com/images/I/31eQGgzxGzL._SL200_.jpg)](https://www.amazon.es/dp/B07SVPPJV6/?tag=tolees-21)
+[![Geox U Snake.2 B  Zapatillas para Hombre](https://m.media-amazon.com/images/I/31eQGgzxGzL._SL400_.jpg)](https://www.amazon.es/dp/B07SVPPJV6/?tag=tolees-21)
 
 ℹ️:
 

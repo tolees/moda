@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia CSC Basic Camiseta de Manga Cor al 36.01 % de descuento'
 date: 2020-05-17 10:42:48
-image: 'https://m.media-amazon.com/images/I/31mj1oGzuuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mj1oGzuuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Está [Columbia CSC Basic Camiseta de Manga Corta  Hombre  Blanco  White   L](https://www.amazon.es/dp/B081B6HFQV/?tag=tolees-21) con 36.01 de descuento por 15.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![Columbia CSC Basic Camiseta de Manga Cor](https://m.media-amazon.com/images/I/31mj1oGzuuL._SL200_.jpg)](https://www.amazon.es/dp/B081B6HFQV/?tag=tolees-21)
+[![Columbia CSC Basic Camiseta de Manga Cor](https://m.media-amazon.com/images/I/31mj1oGzuuL._SL400_.jpg)](https://www.amazon.es/dp/B081B6HFQV/?tag=tolees-21)
 
 ℹ️:
 

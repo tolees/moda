@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones JCOMOON Knit Crew Neck Jers con un 50.01 % de descuento'
 date: 2020-04-12 19:18:15
-image: 'https://m.media-amazon.com/images/I/31cDliwQFnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cDliwQFnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.49'
 
 En este momento está [Jack & Jones JCOMOON Knit Crew Neck Jersey  Negro  Black Fit:Knit FIT   S para Hombre](https://www.amazon.es/dp/B07WBZWC3Q/?tag=tolees-21) a 17.49 EUR (original: 34.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones JCOMOON Knit Crew Neck Jers](https://m.media-amazon.com/images/I/31cDliwQFnL._SL200_.jpg)](https://www.amazon.es/dp/B07WBZWC3Q/?tag=tolees-21)
+[![Jack & Jones JCOMOON Knit Crew Neck Jers](https://m.media-amazon.com/images/I/31cDliwQFnL._SL400_.jpg)](https://www.amazon.es/dp/B07WBZWC3Q/?tag=tolees-21)
 
 🔎:
 

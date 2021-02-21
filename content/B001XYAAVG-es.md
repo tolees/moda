@@ -2,7 +2,7 @@
 layout: post
 title: 'Craft Cool Mesh Camiseta Interior para H al 20.14 % de descuento'
 date: 2020-08-01 00:53:39
-image: 'https://m.media-amazon.com/images/I/41yCPVicrdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yCPVicrdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.633333333333333'
 
 Está [Craft Cool Mesh Camiseta Interior para Hombre  Hombre  Black  L](https://www.amazon.es/dp/B001XYAAVG/?tag=tolees-21) con 20.14 de descuento por 27.95 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Craft Cool Mesh Camiseta Interior para H](https://m.media-amazon.com/images/I/41yCPVicrdL._SL200_.jpg)](https://www.amazon.es/dp/B001XYAAVG/?tag=tolees-21)
+[![Craft Cool Mesh Camiseta Interior para H](https://m.media-amazon.com/images/I/41yCPVicrdL._SL400_.jpg)](https://www.amazon.es/dp/B001XYAAVG/?tag=tolees-21)
 
 ℹ️:
 

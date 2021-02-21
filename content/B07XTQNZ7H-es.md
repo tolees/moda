@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjiglenn Jjoriginal Jos 123 al 49.99 % de descuento'
 date: 2020-05-06 09:53:57
-image: 'https://m.media-amazon.com/images/I/41tGD4e8WIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tGD4e8WIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.0'
 
 Ahora mismo tienes [Jack & Jones Jjiglenn Jjoriginal Jos 123 I.k Vaqueros Slim  Azul  Blue Denim Blue Denim   W31/L30  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07XTQNZ7H/?tag=tolees-21) a 40.0 EUR (original: 79.99 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones Jjiglenn Jjoriginal Jos 123](https://m.media-amazon.com/images/I/41tGD4e8WIL._SL200_.jpg)](https://www.amazon.es/dp/B07XTQNZ7H/?tag=tolees-21)
+[![Jack & Jones Jjiglenn Jjoriginal Jos 123](https://m.media-amazon.com/images/I/41tGD4e8WIL._SL400_.jpg)](https://www.amazon.es/dp/B07XTQNZ7H/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler LS 1pkt Shirt Camisa  Azul  Cob al 79.72 % de descuento'
 date: 2020-04-01 19:50:00
-image: 'https://m.media-amazon.com/images/I/41Qq9We39dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Qq9We39dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.05'
 
 Ahora mismo tienes [Wrangler LS 1pkt Shirt Camisa  Azul  Cobalt Blue B09   Medium para Hombre](https://www.amazon.es/dp/B07R2BXRMH/?tag=tolees-21) a 13.17 EUR (original: 64.95 EUR) (79.72 %  de descuento) en el siguiente enlace!
 
-[![Wrangler LS 1pkt Shirt Camisa  Azul  Cob](https://m.media-amazon.com/images/I/41Qq9We39dL._SL200_.jpg)](https://www.amazon.es/dp/B07R2BXRMH/?tag=tolees-21)
+[![Wrangler LS 1pkt Shirt Camisa  Azul  Cob](https://m.media-amazon.com/images/I/41Qq9We39dL._SL400_.jpg)](https://www.amazon.es/dp/B07R2BXRMH/?tag=tolees-21)
 
 🔎:
 

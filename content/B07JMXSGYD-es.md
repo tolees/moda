@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Bradstreet Leather Sensorflex al 41.08 % de descuento'
 date: 2020-01-14 04:04:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31yKXC6w6OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yKXC6w6OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '97.245'
 
 Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Azul  Dark Blue Nubuck   42 EU](https://www.amazon.es/dp/B07JMXSGYD/?tag=tolees-21) a 82.49 EUR (original: 140 EUR) (41.08 %  de descuento) en el siguiente enlace!
 
-[![Timberland Bradstreet Leather Sensorflex](https://images-eu.ssl-images-amazon.com/images/I/31yKXC6w6OL._SL200_.jpg)](https://www.amazon.es/dp/B07JMXSGYD/?tag=tolees-21)
+[![Timberland Bradstreet Leather Sensorflex](https://images-eu.ssl-images-amazon.com/images/I/31yKXC6w6OL._SL400_.jpg)](https://www.amazon.es/dp/B07JMXSGYD/?tag=tolees-21)
 
 🔎:
 

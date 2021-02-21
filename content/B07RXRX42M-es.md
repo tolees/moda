@@ -2,7 +2,7 @@
 layout: post
 title: 'oodji Ultra Mujer Blusa de Punto Ajustad al 35.92 % de descuento'
 date: 2020-10-11 17:34:19
-image: 'https://m.media-amazon.com/images/I/41l9XxRkX7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l9XxRkX7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.1'
 
 Ahora mismo tienes [oodji Ultra Mujer Blusa de Punto Ajustada  Negro  ES 40 / M](https://www.amazon.es/dp/B07RXRX42M/?tag=tolees-21) a 9.1 EUR (original: 14.2 EUR) (35.92 %  de descuento) en el siguiente enlace!
 
-[![oodji Ultra Mujer Blusa de Punto Ajustad](https://m.media-amazon.com/images/I/41l9XxRkX7L._SL200_.jpg)](https://www.amazon.es/dp/B07RXRX42M/?tag=tolees-21)
+[![oodji Ultra Mujer Blusa de Punto Ajustad](https://m.media-amazon.com/images/I/41l9XxRkX7L._SL400_.jpg)](https://www.amazon.es/dp/B07RXRX42M/?tag=tolees-21)
 
 🔎:
 

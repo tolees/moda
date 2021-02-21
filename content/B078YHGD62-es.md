@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Training Jr Chaqueta de Entren al 65.18 % de descuento'
 date: 2020-06-21 15:33:41
-image: 'https://m.media-amazon.com/images/I/41jn+1jsh9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jn+1jsh9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.874'
 
 Ahora mismo tienes [PUMA Liga Training Jr Chaqueta de Entrenamiento  Unisex niños  Black / White  152](https://www.amazon.es/dp/B078YHGD62/?tag=tolees-21) a 15.65 EUR (original: 44.95 EUR) (65.18 %  de descuento) en el siguiente enlace!
 
-[![PUMA Liga Training Jr Chaqueta de Entren](https://m.media-amazon.com/images/I/41jn+1jsh9L._SL200_.jpg)](https://www.amazon.es/dp/B078YHGD62/?tag=tolees-21)
+[![PUMA Liga Training Jr Chaqueta de Entren](https://m.media-amazon.com/images/I/41jn+1jsh9L._SL400_.jpg)](https://www.amazon.es/dp/B078YHGD62/?tag=tolees-21)
 
 🔎:
 

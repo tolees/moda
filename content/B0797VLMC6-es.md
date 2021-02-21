@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma LIGA Sideline Poly Core  Chaqueta d al 20.00 % de descuento'
 date: 2020-01-11 11:41:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31SeZzuqqXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SeZzuqqXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.75'
 
 Está [Puma LIGA Sideline Poly Core  Chaqueta de Entrenamiento  Hombre  Azul  peacoat / white   S](https://www.amazon.es/dp/B0797VLMC6/?tag=tolees-21) con 20.00 de descuento por 14 EUR (original: 17.5 EUR) en el siguiente enlace!
 
-[![Puma LIGA Sideline Poly Core  Chaqueta d](https://images-eu.ssl-images-amazon.com/images/I/31SeZzuqqXL._SL200_.jpg)](https://www.amazon.es/dp/B0797VLMC6/?tag=tolees-21)
+[![Puma LIGA Sideline Poly Core  Chaqueta d](https://images-eu.ssl-images-amazon.com/images/I/31SeZzuqqXL._SL400_.jpg)](https://www.amazon.es/dp/B0797VLMC6/?tag=tolees-21)
 
 ℹ️:
 

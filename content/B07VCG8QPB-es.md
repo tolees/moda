@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Stitch Cardigan - c con un 33.82 % de descuento'
 date: 2020-10-10 12:29:41
-image: 'https://m.media-amazon.com/images/I/31QRBxPvGFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QRBxPvGFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.559999999999999'
 
 En este momento está [Marca Amazon - find. Stitch Cardigan - chaqueta punto Mujer  Azul  Soft Blue   46  Label: XXL](https://www.amazon.es/dp/B07VCG8QPB/?tag=tolees-21) a 10.37 EUR (original: 15.67 EUR) (33.82 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - find. Stitch Cardigan - c](https://m.media-amazon.com/images/I/31QRBxPvGFL._SL200_.jpg)](https://www.amazon.es/dp/B07VCG8QPB/?tag=tolees-21)
+[![Marca Amazon - find. Stitch Cardigan - c](https://m.media-amazon.com/images/I/31QRBxPvGFL._SL400_.jpg)](https://www.amazon.es/dp/B07VCG8QPB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'GEOX 3062U mini pochette donna portatess al 44.29 % de rebaja'
 date: 2020-05-28 17:12:09
-image: 'https://m.media-amazon.com/images/I/41nvKNH35eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nvKNH35eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.0'
 
 Tienes [GEOX 3062U mini pochette donna portatessere bordeaux mini handbag woman [ONE SIZE]](https://www.amazon.es/dp/B07J3N5N4Y/?tag=tolees-21) con precio final de  39.0 EUR (original: 70.0 EUR) (44.29 %  de rebaja) aqui!
 
-[![GEOX 3062U mini pochette donna portatess](https://m.media-amazon.com/images/I/41nvKNH35eL._SL200_.jpg)](https://www.amazon.es/dp/B07J3N5N4Y/?tag=tolees-21)
+[![GEOX 3062U mini pochette donna portatess](https://m.media-amazon.com/images/I/41nvKNH35eL._SL400_.jpg)](https://www.amazon.es/dp/B07J3N5N4Y/?tag=tolees-21)
 
 🔎:
 

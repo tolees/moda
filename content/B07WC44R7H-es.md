@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Block Stripe Hilfiger tee al 41.68 % de descuento'
 date: 2020-07-26 15:04:43
-image: 'https://m.media-amazon.com/images/I/414DfY2EeEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414DfY2EeEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.55'
 
 Ahora mismo tienes [Tommy Hilfiger Block Stripe Hilfiger tee Camiseta Deporte  Azul  Desert Sky   Medium  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07WC44R7H/?tag=tolees-21) a 25.55 EUR (original: 43.81 EUR) (41.68 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Block Stripe Hilfiger tee](https://m.media-amazon.com/images/I/414DfY2EeEL._SL200_.jpg)](https://www.amazon.es/dp/B07WC44R7H/?tag=tolees-21)
+[![Tommy Hilfiger Block Stripe Hilfiger tee](https://m.media-amazon.com/images/I/414DfY2EeEL._SL400_.jpg)](https://www.amazon.es/dp/B07WC44R7H/?tag=tolees-21)
 
 🔎:
 

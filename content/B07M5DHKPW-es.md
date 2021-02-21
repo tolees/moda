@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 58.99 % en Lee CAROL  Vaqueros straight Mujer  Azul'
 date: 2020-08-16 15:02:41
-image: 'https://m.media-amazon.com/images/I/41zzzoUdHpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zzzoUdHpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.99'
 
 Tienes [Lee CAROL  Vaqueros straight Mujer  Azul  Dark Garner Uv   W26/L31](https://www.amazon.es/dp/B07M5DHKPW/?tag=tolees-21) con un 58.99 % de descuento con precio de oferta de 40.99 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Lee CAROL  Vaqueros straight Mujer  Azul](https://m.media-amazon.com/images/I/41zzzoUdHpL._SL200_.jpg)](https://www.amazon.es/dp/B07M5DHKPW/?tag=tolees-21)
+[![Lee CAROL  Vaqueros straight Mujer  Azul](https://m.media-amazon.com/images/I/41zzzoUdHpL._SL400_.jpg)](https://www.amazon.es/dp/B07M5DHKPW/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Core 18 Training Jsy  Camiseta Ho al 30.13 % de descuento'
 date: 2020-06-24 06:19:34
-image: 'https://m.media-amazon.com/images/I/318-tnrc3eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318-tnrc3eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.64'
 
 Está [Adidas Core 18 Training Jsy  Camiseta Hombre Verde  Bold Green/Black   XL](https://www.amazon.es/dp/B076HR2L1Y/?tag=tolees-21) con 30.13 de descuento por 13.94 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![Adidas Core 18 Training Jsy  Camiseta Ho](https://m.media-amazon.com/images/I/318-tnrc3eL._SL200_.jpg)](https://www.amazon.es/dp/B076HR2L1Y/?tag=tolees-21)
+[![Adidas Core 18 Training Jsy  Camiseta Ho](https://m.media-amazon.com/images/I/318-tnrc3eL._SL400_.jpg)](https://www.amazon.es/dp/B076HR2L1Y/?tag=tolees-21)
 
 ℹ️:
 

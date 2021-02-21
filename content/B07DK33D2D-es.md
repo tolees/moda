@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox Jr Wader A  Sandalias Punta Cerrada al 31.31 % de descuento'
 date: 2020-06-28 10:04:04
-image: 'https://m.media-amazon.com/images/I/41UvmpivMzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UvmpivMzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.153333333333336'
 
 Ahora mismo tienes [Geox Jr Wader A  Sandalias Punta Cerrada para Niños  Azul  Navy/Royal C4226   28 EU](https://www.amazon.es/dp/B07DK33D2D/?tag=tolees-21) a 37.78 EUR (original: 55.0 EUR) (31.31 %  de descuento) en el siguiente enlace!
 
-[![Geox Jr Wader A  Sandalias Punta Cerrada](https://m.media-amazon.com/images/I/41UvmpivMzL._SL200_.jpg)](https://www.amazon.es/dp/B07DK33D2D/?tag=tolees-21)
+[![Geox Jr Wader A  Sandalias Punta Cerrada](https://m.media-amazon.com/images/I/41UvmpivMzL._SL400_.jpg)](https://www.amazon.es/dp/B07DK33D2D/?tag=tolees-21)
 
 🔎:
 

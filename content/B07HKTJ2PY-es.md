@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Sc 3zer0 Iii Zapatos de Bal al 50.01 % de descuento'
 date: 2020-05-15 08:36:31
-image: 'https://m.media-amazon.com/images/I/41fsevbCYkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fsevbCYkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.67666666666667'
 
 Ahora mismo tienes [Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre  Blanco  White/Mod Gray/Mod Gray  100  100   36 EU](https://www.amazon.es/dp/B07HKTJ2PY/?tag=tolees-21) a 49.29 EUR (original: 98.59 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Sc 3zer0 Iii Zapatos de Bal](https://m.media-amazon.com/images/I/41fsevbCYkL._SL200_.jpg)](https://www.amazon.es/dp/B07HKTJ2PY/?tag=tolees-21)
+[![Under Armour Sc 3zer0 Iii Zapatos de Bal](https://m.media-amazon.com/images/I/41fsevbCYkL._SL400_.jpg)](https://www.amazon.es/dp/B07HKTJ2PY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler SS Logo tee Camiseta  Azul  Nav con un 49.98 % de descuento'
 date: 2020-08-13 20:13:25
-image: 'https://m.media-amazon.com/images/I/41elj9xwimL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41elj9xwimL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.48'
 
 En este momento está [Wrangler SS Logo tee Camiseta  Azul  Navy 114   Medium para Hombre](https://www.amazon.es/dp/B07TZ27D3T/?tag=tolees-21) a 12.48 EUR (original: 24.95 EUR) (49.98 %  de descuento) en el siguiente enlace!
 
-[![Wrangler SS Logo tee Camiseta  Azul  Nav](https://m.media-amazon.com/images/I/41elj9xwimL._SL200_.jpg)](https://www.amazon.es/dp/B07TZ27D3T/?tag=tolees-21)
+[![Wrangler SS Logo tee Camiseta  Azul  Nav](https://m.media-amazon.com/images/I/41elj9xwimL._SL400_.jpg)](https://www.amazon.es/dp/B07TZ27D3T/?tag=tolees-21)
 
 🔎:
 

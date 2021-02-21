@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.37 % en Eastpak The One Bolso bandolera  21 cm  '
 date: 2020-09-12 18:02:27
-image: 'https://m.media-amazon.com/images/I/41zEjc4bM3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zEjc4bM3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.5'
 
 Tienes [Eastpak The One Bolso bandolera  21 cm  2.5 L  Azul  Triple Denim ](https://www.amazon.es/dp/B07DP73YF5/?tag=tolees-21) con un 33.37 % de descuento con precio de oferta de 19.99 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Eastpak The One Bolso bandolera  21 cm  ](https://m.media-amazon.com/images/I/41zEjc4bM3L._SL200_.jpg)](https://www.amazon.es/dp/B07DP73YF5/?tag=tolees-21)
+[![Eastpak The One Bolso bandolera  21 cm  ](https://m.media-amazon.com/images/I/41zEjc4bM3L._SL400_.jpg)](https://www.amazon.es/dp/B07DP73YF5/?tag=tolees-21)
 
 ℹ️:
 

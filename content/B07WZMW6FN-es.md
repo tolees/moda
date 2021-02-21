@@ -2,7 +2,7 @@
 layout: post
 title: 'Ipanema Fashion Sand VII Fem  Sandalias  al 25.34 % de descuento'
 date: 2020-08-23 18:56:48
-image: 'https://m.media-amazon.com/images/I/31y4HvipL9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31y4HvipL9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.39'
 
 Está [Ipanema Fashion Sand VII Fem  Sandalias con Tira Vertical para Mujer  Multicolor  Burgundy/Rose 9142.0   39 EU](https://www.amazon.es/dp/B07WZMW6FN/?tag=tolees-21) con 25.34 de descuento por 22.39 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Ipanema Fashion Sand VII Fem  Sandalias ](https://m.media-amazon.com/images/I/31y4HvipL9L._SL200_.jpg)](https://www.amazon.es/dp/B07WZMW6FN/?tag=tolees-21)
+[![Ipanema Fashion Sand VII Fem  Sandalias ](https://m.media-amazon.com/images/I/31y4HvipL9L._SL400_.jpg)](https://www.amazon.es/dp/B07WZMW6FN/?tag=tolees-21)
 
 ℹ️:
 

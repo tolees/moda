@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee V Neck tee Camiseta  Azul  Midnight  con un 58.30 % de descuento'
 date: 2020-06-02 07:03:19
-image: 'https://m.media-amazon.com/images/I/41NZPYVcCmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NZPYVcCmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.5375'
 
 En este momento está [Lee V Neck tee Camiseta  Azul  Midnight Navy Ma   X-Large para Mujer](https://www.amazon.es/dp/B07N17P8QL/?tag=tolees-21) a 12.49 EUR (original: 29.95 EUR) (58.30 %  de descuento) en el siguiente enlace!
 
-[![Lee V Neck tee Camiseta  Azul  Midnight ](https://m.media-amazon.com/images/I/41NZPYVcCmL._SL200_.jpg)](https://www.amazon.es/dp/B07N17P8QL/?tag=tolees-21)
+[![Lee V Neck tee Camiseta  Azul  Midnight ](https://m.media-amazon.com/images/I/41NZPYVcCmL._SL400_.jpg)](https://www.amazon.es/dp/B07N17P8QL/?tag=tolees-21)
 
 🔎:
 

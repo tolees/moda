@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Bikini Culotte  Gris  Gre al 36.12 % de descuento'
 date: 2020-09-08 12:00:47
-image: 'https://m.media-amazon.com/images/I/51slwuDGQJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51slwuDGQJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Está [Tommy Hilfiger Bikini Culotte  Gris  Grey Heather 004   Medium  Talla fabricante: Medium  para Mujer](https://www.amazon.es/dp/B078GGN51L/?tag=tolees-21) con 36.12 de descuento por 13.99 EUR (original: 21.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Bikini Culotte  Gris  Gre](https://m.media-amazon.com/images/I/51slwuDGQJL._SL200_.jpg)](https://www.amazon.es/dp/B078GGN51L/?tag=tolees-21)
+[![Tommy Hilfiger Bikini Culotte  Gris  Gre](https://m.media-amazon.com/images/I/51slwuDGQJL._SL400_.jpg)](https://www.amazon.es/dp/B078GGN51L/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger TJM Chest Stripe Logo tee al 32.79 % de descuento'
 date: 2020-07-07 04:26:05
-image: 'https://m.media-amazon.com/images/I/41Ast7gRWQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ast7gRWQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Ahora mismo tienes [Tommy Hilfiger TJM Chest Stripe Logo tee Camiseta Deporte  Azul  Twilight Navy C87   Medium para Hombre](https://www.amazon.es/dp/B07VWL67FC/?tag=tolees-21) a 19.49 EUR (original: 29.0 EUR) (32.79 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger TJM Chest Stripe Logo tee](https://m.media-amazon.com/images/I/41Ast7gRWQL._SL200_.jpg)](https://www.amazon.es/dp/B07VWL67FC/?tag=tolees-21)
+[![Tommy Hilfiger TJM Chest Stripe Logo tee](https://m.media-amazon.com/images/I/41Ast7gRWQL._SL400_.jpg)](https://www.amazon.es/dp/B07VWL67FC/?tag=tolees-21)
 
 🔎:
 

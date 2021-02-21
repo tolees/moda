@@ -2,7 +2,7 @@
 layout: post
 title: 'FOSTAK Bolso de hombro de viaje para Mes al 24.87 % de descuento'
 date: 2020-08-14 16:15:43
-image: 'https://m.media-amazon.com/images/I/41KEeXByUWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KEeXByUWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.465'
 
 Está [FOSTAK Bolso de hombro de viaje para Messenger  Work  MacBook y ordenador portátil 15.6 nylon Negro](https://www.amazon.es/dp/B07HR76YRN/?tag=tolees-21) con 24.87 de descuento por 37.0 EUR (original: 49.25 EUR) en el siguiente enlace!
 
-[![FOSTAK Bolso de hombro de viaje para Mes](https://m.media-amazon.com/images/I/41KEeXByUWL._SL200_.jpg)](https://www.amazon.es/dp/B07HR76YRN/?tag=tolees-21)
+[![FOSTAK Bolso de hombro de viaje para Mes](https://m.media-amazon.com/images/I/41KEeXByUWL._SL400_.jpg)](https://www.amazon.es/dp/B07HR76YRN/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Zapatillas de Deportes Hombre Mujer Zapa al 15.07 % de descuento'
 date: 2020-01-19 19:43:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413X8dTFK2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413X8dTFK2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 Está [Zapatillas de Deportes Hombre Mujer Zapatos Deportivos Running Zapatillas para Correr Calcetines Zapatos Zapatos para Padres e Hijos（35-41）](https://www.amazon.es/dp/B07TV4LS6T/?tag=tolees-21) con 15.07 de descuento por 26.99 EUR (original: 31.78 EUR) en el siguiente enlace!
 
-[![Zapatillas de Deportes Hombre Mujer Zapa](https://images-eu.ssl-images-amazon.com/images/I/413X8dTFK2L._SL200_.jpg)](https://www.amazon.es/dp/B07TV4LS6T/?tag=tolees-21)
+[![Zapatillas de Deportes Hombre Mujer Zapa](https://images-eu.ssl-images-amazon.com/images/I/413X8dTFK2L._SL400_.jpg)](https://www.amazon.es/dp/B07TV4LS6T/?tag=tolees-21)
 
 ℹ️:
 

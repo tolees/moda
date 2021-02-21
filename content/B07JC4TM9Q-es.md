@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Davis Square Alpine Oxford  Z al 24.89 % de rebaja'
 date: 2020-01-25 16:49:11
-image: 'https://m.media-amazon.com/images/I/41Kqmel1vwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Kqmel1vwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.14'
 
 Tienes [Timberland Davis Square Alpine Oxford  Zapatillas Unisex-Niño  Amarillo  Wheat   33 EU](https://www.amazon.es/dp/B07JC4TM9Q/?tag=tolees-21) con precio final de  18.14 EUR (original: 24.15 EUR) (24.89 %  de rebaja) aqui!
 
-[![Timberland Davis Square Alpine Oxford  Z](https://m.media-amazon.com/images/I/41Kqmel1vwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JC4TM9Q/?tag=tolees-21)
+[![Timberland Davis Square Alpine Oxford  Z](https://m.media-amazon.com/images/I/41Kqmel1vwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JC4TM9Q/?tag=tolees-21)
 
 🔎:
 

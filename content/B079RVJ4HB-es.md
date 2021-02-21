@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - Iris & Lilly Tanga Mujer  al 40.35 % de rebaja'
 date: 2020-10-02 20:26:23
-image: 'https://m.media-amazon.com/images/I/31GAZySy2kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GAZySy2kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.84'
 
 Tienes [Marca Amazon - Iris & Lilly Tanga Mujer  Pack de 3  Marrón  Dark Brown   M  Label: M](https://www.amazon.es/dp/B079RVJ4HB/?tag=tolees-21) con precio final de  5.84 EUR (original: 9.79 EUR) (40.35 %  de rebaja) aqui!
 
-[![Marca Amazon - Iris & Lilly Tanga Mujer ](https://m.media-amazon.com/images/I/31GAZySy2kL._SL200_.jpg)](https://www.amazon.es/dp/B079RVJ4HB/?tag=tolees-21)
+[![Marca Amazon - Iris & Lilly Tanga Mujer ](https://m.media-amazon.com/images/I/31GAZySy2kL._SL400_.jpg)](https://www.amazon.es/dp/B079RVJ4HB/?tag=tolees-21)
 
 🔎:
 

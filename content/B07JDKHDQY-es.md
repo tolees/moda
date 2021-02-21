@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Barstow Western Camisa Vaquera  A al 32.69 % de descuento'
 date: 2020-06-28 14:56:23
-image: 'https://m.media-amazon.com/images/I/41iuYApMneL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iuYApMneL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.876'
 
 Ahora mismo tienes [Levi s Barstow Western Camisa Vaquera  Azul  Red Cast Rinse 0115   XX-Small para Hombre](https://www.amazon.es/dp/B07JDKHDQY/?tag=tolees-21) a 10.4 EUR (original: 15.45 EUR) (32.69 %  de descuento) en el siguiente enlace!
 
-[![Levi s Barstow Western Camisa Vaquera  A](https://m.media-amazon.com/images/I/41iuYApMneL._SL200_.jpg)](https://www.amazon.es/dp/B07JDKHDQY/?tag=tolees-21)
+[![Levi s Barstow Western Camisa Vaquera  A](https://m.media-amazon.com/images/I/41iuYApMneL._SL400_.jpg)](https://www.amazon.es/dp/B07JDKHDQY/?tag=tolees-21)
 
 🔎:
 

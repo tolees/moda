@@ -2,7 +2,7 @@
 layout: post
 title: 'HKT by Hackett Hkt 3 SS tee Camiseta  Az al 53.63 % de descuento'
 date: 2020-07-28 20:54:50
-image: 'https://m.media-amazon.com/images/I/41ZXvjtrAoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZXvjtrAoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.23'
 
 Ahora mismo tienes [HKT by Hackett Hkt 3 SS tee Camiseta  Azul  5mgaqua Sky 5mg   X-Small para Hombre](https://www.amazon.es/dp/B07VHDMG7V/?tag=tolees-21) a 16.23 EUR (original: 35.0 EUR) (53.63 %  de descuento) en el siguiente enlace!
 
-[![HKT by Hackett Hkt 3 SS tee Camiseta  Az](https://m.media-amazon.com/images/I/41ZXvjtrAoL._SL200_.jpg)](https://www.amazon.es/dp/B07VHDMG7V/?tag=tolees-21)
+[![HKT by Hackett Hkt 3 SS tee Camiseta  Az](https://m.media-amazon.com/images/I/41ZXvjtrAoL._SL400_.jpg)](https://www.amazon.es/dp/B07VHDMG7V/?tag=tolees-21)
 
 🔎:
 

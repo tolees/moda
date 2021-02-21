@@ -2,7 +2,7 @@
 layout: post
 title: 'Pijama del increíble Hulk para niños des al 30.82 % de descuento'
 date: 2020-03-17 18:03:45
-image: 'https://m.media-amazon.com/images/I/41AbAjRKcGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AbAjRKcGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.49'
 
 Está [Pijama del increíble Hulk para niños desde 2 a 3 años hasta 7 a 8 años verde verde](https://www.amazon.es/dp/B013T6GFE6/?tag=tolees-21) con 30.82 de descuento por 11.49 EUR (original: 16.61 EUR) en el siguiente enlace!
 
-[![Pijama del increíble Hulk para niños des](https://m.media-amazon.com/images/I/41AbAjRKcGL._SL200_.jpg)](https://www.amazon.es/dp/B013T6GFE6/?tag=tolees-21)
+[![Pijama del increíble Hulk para niños des](https://m.media-amazon.com/images/I/41AbAjRKcGL._SL400_.jpg)](https://www.amazon.es/dp/B013T6GFE6/?tag=tolees-21)
 
 ℹ️:
 

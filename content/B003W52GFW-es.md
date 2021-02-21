@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Classic 2-Eye  Náuticos para  al 43.50 % de descuento'
 date: 2020-07-20 00:57:20
-image: 'https://m.media-amazon.com/images/I/41+alPWKw9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+alPWKw9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.55'
 
 Ahora mismo tienes [Timberland Classic 2-Eye  Náuticos para Mujer  Azul  MD Blue Full Grain   35.5 EU](https://www.amazon.es/dp/B003W52GFW/?tag=tolees-21) a 79.1 EUR (original: 140.0 EUR) (43.50 %  de descuento) en el siguiente enlace!
 
-[![Timberland Classic 2-Eye  Náuticos para ](https://m.media-amazon.com/images/I/41+alPWKw9L._SL200_.jpg)](https://www.amazon.es/dp/B003W52GFW/?tag=tolees-21)
+[![Timberland Classic 2-Eye  Náuticos para ](https://m.media-amazon.com/images/I/41+alPWKw9L._SL400_.jpg)](https://www.amazon.es/dp/B003W52GFW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Khanomak de Mujeres Camiseta de Manga Co con un 73.40 % de descuento'
 date: 2020-02-02 00:04:23
-image: 'https://m.media-amazon.com/images/I/314qIkzRvML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314qIkzRvML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 En este momento está [Khanomak de Mujeres Camiseta de Manga Corta de algodón con Cuello en V Camiseta Regular Fit  Medio  Rojo ](https://www.amazon.es/dp/B07DQCKCC8/?tag=tolees-21) a 3.99 EUR (original: 15.0 EUR) (73.40 %  de descuento) en el siguiente enlace!
 
-[![Khanomak de Mujeres Camiseta de Manga Co](https://m.media-amazon.com/images/I/314qIkzRvML._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DQCKCC8/?tag=tolees-21)
+[![Khanomak de Mujeres Camiseta de Manga Co](https://m.media-amazon.com/images/I/314qIkzRvML._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DQCKCC8/?tag=tolees-21)
 
 🔎:
 

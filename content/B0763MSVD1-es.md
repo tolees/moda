@@ -2,7 +2,7 @@
 layout: post
 title: 'Marvel Avengers - Camiseta para hombre - al 58.05 % de descuento'
 date: 2020-02-25 20:16:38
-image: 'https://m.media-amazon.com/images/I/51mFHhgbCkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mFHhgbCkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.95'
 
 Está [Marvel Avengers - Camiseta para hombre - Thor - Large](https://www.amazon.es/dp/B0763MSVD1/?tag=tolees-21) con 58.05 de descuento por 7.95 EUR (original: 18.95 EUR) en el siguiente enlace!
 
-[![Marvel Avengers - Camiseta para hombre -](https://m.media-amazon.com/images/I/51mFHhgbCkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0763MSVD1/?tag=tolees-21)
+[![Marvel Avengers - Camiseta para hombre -](https://m.media-amazon.com/images/I/51mFHhgbCkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0763MSVD1/?tag=tolees-21)
 
 ℹ️:
 

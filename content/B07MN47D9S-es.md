@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler Straight Vaqueros para Mujer  A al 75.93 % de rebaja'
 date: 2020-02-24 21:23:10
-image: 'https://m.media-amazon.com/images/I/41NTolKmYaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NTolKmYaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.65'
 
 Tienes [Wrangler Straight Vaqueros para Mujer  Azul  Mid Indigo X8E   28W / 34L](https://www.amazon.es/dp/B07MN47D9S/?tag=tolees-21) con precio final de  21.65 EUR (original: 89.95 EUR) (75.93 %  de rebaja) aqui!
 
-[![Wrangler Straight Vaqueros para Mujer  A](https://m.media-amazon.com/images/I/41NTolKmYaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MN47D9S/?tag=tolees-21)
+[![Wrangler Straight Vaqueros para Mujer  A](https://m.media-amazon.com/images/I/41NTolKmYaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MN47D9S/?tag=tolees-21)
 
 🔎:
 

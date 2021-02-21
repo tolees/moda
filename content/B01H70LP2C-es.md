@@ -2,7 +2,7 @@
 layout: post
 title: 'crocs 203998  Chanclas Mujer  Negro  Bla al 36.27 % de descuento'
 date: 2020-07-19 23:07:43
-image: 'https://m.media-amazon.com/images/I/31pUXUZIx4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pUXUZIx4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.3'
 
 Ahora mismo tienes [crocs 203998  Chanclas Mujer  Negro  Black/White   36/37 EU  W 6 US ](https://www.amazon.es/dp/B01H70LP2C/?tag=tolees-21) a 22.3 EUR (original: 34.99 EUR) (36.27 %  de descuento) en el siguiente enlace!
 
-[![crocs 203998  Chanclas Mujer  Negro  Bla](https://m.media-amazon.com/images/I/31pUXUZIx4L._SL200_.jpg)](https://www.amazon.es/dp/B01H70LP2C/?tag=tolees-21)
+[![crocs 203998  Chanclas Mujer  Negro  Bla](https://m.media-amazon.com/images/I/31pUXUZIx4L._SL400_.jpg)](https://www.amazon.es/dp/B01H70LP2C/?tag=tolees-21)
 
 🔎:
 

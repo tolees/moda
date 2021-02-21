@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 512 Slim Taper Fit Jean Vaqueros  al 70.24 % de rebaja'
 date: 2020-09-16 18:30:20
-image: 'https://m.media-amazon.com/images/I/410aCjSdQ-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410aCjSdQ-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.419999999999995'
 
 Tienes [Levi s 512 Slim Taper Fit Jean Vaqueros  Azul Biologia ADV  26W / 30L para Hombre](https://www.amazon.es/dp/B07TYHXY9T/?tag=tolees-21) con precio final de  34.22 EUR (original: 115.0 EUR) (70.24 %  de rebaja) aqui!
 
-[![Levi s 512 Slim Taper Fit Jean Vaqueros ](https://m.media-amazon.com/images/I/410aCjSdQ-L._SL200_.jpg)](https://www.amazon.es/dp/B07TYHXY9T/?tag=tolees-21)
+[![Levi s 512 Slim Taper Fit Jean Vaqueros ](https://m.media-amazon.com/images/I/410aCjSdQ-L._SL400_.jpg)](https://www.amazon.es/dp/B07TYHXY9T/?tag=tolees-21)
 
 🔎:
 

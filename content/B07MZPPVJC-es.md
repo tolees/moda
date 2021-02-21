@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Edward Chaqueta   Infinity 98 al 65.56 % de descuento'
 date: 2020-07-10 23:31:11
-image: 'https://m.media-amazon.com/images/I/41z38eOnGSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41z38eOnGSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '98.9'
 
 Ahora mismo tienes [Pepe Jeans Edward Chaqueta   Infinity 985   Large para Hombre](https://www.amazon.es/dp/B07MZPPVJC/?tag=tolees-21) a 72.33 EUR (original: 210.0 EUR) (65.56 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Edward Chaqueta   Infinity 98](https://m.media-amazon.com/images/I/41z38eOnGSL._SL200_.jpg)](https://www.amazon.es/dp/B07MZPPVJC/?tag=tolees-21)
+[![Pepe Jeans Edward Chaqueta   Infinity 98](https://m.media-amazon.com/images/I/41z38eOnGSL._SL400_.jpg)](https://www.amazon.es/dp/B07MZPPVJC/?tag=tolees-21)
 
 🔎:
 

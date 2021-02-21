@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.89 % en Under Armour Heatgear Armour 2.0 Comp Sh'
 date: 2020-04-30 19:10:38
-image: 'https://m.media-amazon.com/images/I/41wnHXaOLOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wnHXaOLOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.276666666666667'
 
 Tienes [Under Armour Heatgear Armour 2.0 Comp Shorts Pantalón Corto  Hombre  Negro  Black/Graphite 001   S](https://www.amazon.es/dp/B01FFL470C/?tag=tolees-21) con un 37.89 % de descuento con precio de oferta de 17.39 EUR (original: 28.0 EUR) en el siguiente enlace!
 
-[![Under Armour Heatgear Armour 2.0 Comp Sh](https://m.media-amazon.com/images/I/41wnHXaOLOL._SL200_.jpg)](https://www.amazon.es/dp/B01FFL470C/?tag=tolees-21)
+[![Under Armour Heatgear Armour 2.0 Comp Sh](https://m.media-amazon.com/images/I/41wnHXaOLOL._SL400_.jpg)](https://www.amazon.es/dp/B01FFL470C/?tag=tolees-21)
 
 ℹ️:
 

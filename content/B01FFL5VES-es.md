@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.37 % en Under Armour Heatgear Long Compression P'
 date: 2020-06-26 14:30:40
-image: 'https://m.media-amazon.com/images/I/41FatumAT-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FatumAT-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.49'
 
 Tienes [Under Armour Heatgear Long Compression Pantalón De Compresión  Hombre  Negro  Black/Graphite 001   XL](https://www.amazon.es/dp/B01FFL5VES/?tag=tolees-21) con un 48.37 % de descuento con precio de oferta de 15.49 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Under Armour Heatgear Long Compression P](https://m.media-amazon.com/images/I/41FatumAT-L._SL200_.jpg)](https://www.amazon.es/dp/B01FFL5VES/?tag=tolees-21)
+[![Under Armour Heatgear Long Compression P](https://m.media-amazon.com/images/I/41FatumAT-L._SL400_.jpg)](https://www.amazon.es/dp/B01FFL5VES/?tag=tolees-21)
 
 ℹ️:
 

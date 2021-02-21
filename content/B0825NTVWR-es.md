@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.82 % en Quiksilver Stone Cold Classic - Camiseta'
 date: 2020-06-02 08:08:15
-image: 'https://m.media-amazon.com/images/I/31CzkkknAHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CzkkknAHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.94'
 
 Tienes [Quiksilver Stone Cold Classic - Camiseta para Hombre Screen tee  Hombre  White  XL](https://www.amazon.es/dp/B0825NTVWR/?tag=tolees-21) con un 34.82 % de descuento con precio de oferta de 16.94 EUR (original: 25.99 EUR) en el siguiente enlace!
 
-[![Quiksilver Stone Cold Classic - Camiseta](https://m.media-amazon.com/images/I/31CzkkknAHL._SL200_.jpg)](https://www.amazon.es/dp/B0825NTVWR/?tag=tolees-21)
+[![Quiksilver Stone Cold Classic - Camiseta](https://m.media-amazon.com/images/I/31CzkkknAHL._SL400_.jpg)](https://www.amazon.es/dp/B0825NTVWR/?tag=tolees-21)
 
 ℹ️:
 

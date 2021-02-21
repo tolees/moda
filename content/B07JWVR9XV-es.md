@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Cup Training Jersey Core Maillot  H al 26.19 % de rebaja'
 date: 2020-09-06 07:05:28
-image: 'https://m.media-amazon.com/images/I/41QsNvj13gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QsNvj13gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.215'
 
 Tienes [PUMA Cup Training Jersey Core Maillot  Hombre  Black/Asphalt  L](https://www.amazon.es/dp/B07JWVR9XV/?tag=tolees-21) con precio final de  16.94 EUR (original: 22.95 EUR) (26.19 %  de rebaja) aqui!
 
-[![PUMA Cup Training Jersey Core Maillot  H](https://m.media-amazon.com/images/I/41QsNvj13gL._SL200_.jpg)](https://www.amazon.es/dp/B07JWVR9XV/?tag=tolees-21)
+[![PUMA Cup Training Jersey Core Maillot  H](https://m.media-amazon.com/images/I/41QsNvj13gL._SL400_.jpg)](https://www.amazon.es/dp/B07JWVR9XV/?tag=tolees-21)
 
 🔎:
 

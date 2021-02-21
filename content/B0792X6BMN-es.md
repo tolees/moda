@@ -2,7 +2,7 @@
 layout: post
 title: 'flintronic Cartera Tarjeta de Crédito  S al 55.03 % de descuento'
 date: 2020-01-23 16:34:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/518QnAhcz-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518QnAhcz-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.79'
 
 Está [flintronic Cartera Tarjeta de Crédito  Slim Billetera Hombre de Piel Auténtica  Mini Monedero con Cremallera para ID  Tarjetas Crédito  Licencia de Conducir - Negro](https://www.amazon.es/dp/B0792X6BMN/?tag=tolees-21) con 55.03 de descuento por 8.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![flintronic Cartera Tarjeta de Crédito  S](https://images-eu.ssl-images-amazon.com/images/I/518QnAhcz-L._SL200_.jpg)](https://www.amazon.es/dp/B0792X6BMN/?tag=tolees-21)
+[![flintronic Cartera Tarjeta de Crédito  S](https://images-eu.ssl-images-amazon.com/images/I/518QnAhcz-L._SL400_.jpg)](https://www.amazon.es/dp/B0792X6BMN/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Sukie B  Zapatillas para Mujer  A al 40.00 % de rebaja'
 date: 2020-09-22 23:41:28
-image: 'https://m.media-amazon.com/images/I/41RfhzQuZZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RfhzQuZZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.94'
 
 Tienes [Geox D Sukie B  Zapatillas para Mujer  Azul  Lt Blue C4003   35 EU](https://www.amazon.es/dp/B07SWT2T39/?tag=tolees-21) con precio final de  59.94 EUR (original: 99.9 EUR) (40.00 %  de rebaja) aqui!
 
-[![Geox D Sukie B  Zapatillas para Mujer  A](https://m.media-amazon.com/images/I/41RfhzQuZZL._SL200_.jpg)](https://www.amazon.es/dp/B07SWT2T39/?tag=tolees-21)
+[![Geox D Sukie B  Zapatillas para Mujer  A](https://m.media-amazon.com/images/I/41RfhzQuZZL._SL400_.jpg)](https://www.amazon.es/dp/B07SWT2T39/?tag=tolees-21)
 
 🔎:
 

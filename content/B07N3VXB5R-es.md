@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 63.42 % en Desigual Dress Karen Vestido  Blanco 100'
 date: 2020-04-03 11:28:15
-image: 'https://m.media-amazon.com/images/I/41pRG1HHTDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pRG1HHTDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.9'
 
 Tienes [Desigual Dress Karen Vestido  Blanco 1000  M para Mujer](https://www.amazon.es/dp/B07N3VXB5R/?tag=tolees-21) con un 63.42 % de descuento con precio de oferta de 32.9 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Desigual Dress Karen Vestido  Blanco 100](https://m.media-amazon.com/images/I/41pRG1HHTDL._SL200_.jpg)](https://www.amazon.es/dp/B07N3VXB5R/?tag=tolees-21)
+[![Desigual Dress Karen Vestido  Blanco 100](https://m.media-amazon.com/images/I/41pRG1HHTDL._SL400_.jpg)](https://www.amazon.es/dp/B07N3VXB5R/?tag=tolees-21)
 
 ℹ️:
 

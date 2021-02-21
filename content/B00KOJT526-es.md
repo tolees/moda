@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Peakfreak Nomad Zapatos imperme al 36.00 % de descuento'
 date: 2020-10-09 15:16:22
-image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.9875'
 
 Está [Columbia Peakfreak Nomad Zapatos impermeables para hombre   Verde Nori  Tangy Orange   40 EU](https://www.amazon.es/dp/B00KOJT526/?tag=tolees-21) con 36.00 de descuento por 63.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Columbia Peakfreak Nomad Zapatos imperme](https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg)](https://www.amazon.es/dp/B00KOJT526/?tag=tolees-21)
+[![Columbia Peakfreak Nomad Zapatos imperme](https://m.media-amazon.com/images/I/41iFsf8lSZL._SL400_.jpg)](https://www.amazon.es/dp/B00KOJT526/?tag=tolees-21)
 
 ℹ️:
 

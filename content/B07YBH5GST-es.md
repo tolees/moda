@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.00 % en Vans Colorblock tee Camiseta  Multicolor'
 date: 2020-08-10 18:35:41
-image: 'https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.5'
 
 Tienes [Vans Colorblock tee Camiseta  Multicolor  Sulphur Spring/Black Ynd   Medium para Hombre](https://www.amazon.es/dp/B07YBH5GST/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 12.5 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Vans Colorblock tee Camiseta  Multicolor](https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL200_.jpg)](https://www.amazon.es/dp/B07YBH5GST/?tag=tolees-21)
+[![Vans Colorblock tee Camiseta  Multicolor](https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL400_.jpg)](https://www.amazon.es/dp/B07YBH5GST/?tag=tolees-21)
 
 ℹ️:
 

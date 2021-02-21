@@ -2,7 +2,7 @@
 layout: post
 title: 'flintronic Cartera Hombre  Triple Pliegu al 42.13 % de rebaja'
 date: 2020-01-23 16:36:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kNSwbrjPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kNSwbrjPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.565000000000001'
 
 Tienes [flintronic Cartera Hombre  Triple Pliegue Slim Billetera de Piel Auténtica para Tarjetas de Crédito  Monedero con Pinza y Protección RFID  con Llavero y Caja de Regalo - Marrón](https://www.amazon.es/dp/B07QX5BN4K/?tag=tolees-21) con precio final de  10.99 EUR (original: 18.99 EUR) (42.13 %  de rebaja) aqui!
 
-[![flintronic Cartera Hombre  Triple Pliegu](https://images-eu.ssl-images-amazon.com/images/I/41kNSwbrjPL._SL200_.jpg)](https://www.amazon.es/dp/B07QX5BN4K/?tag=tolees-21)
+[![flintronic Cartera Hombre  Triple Pliegu](https://images-eu.ssl-images-amazon.com/images/I/41kNSwbrjPL._SL400_.jpg)](https://www.amazon.es/dp/B07QX5BN4K/?tag=tolees-21)
 
 🔎:
 

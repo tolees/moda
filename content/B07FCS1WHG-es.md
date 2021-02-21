@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 527 Slim Boot Cut  Vaqueros Corte al 58.79 % de descuento'
 date: 2020-06-27 01:00:51
-image: 'https://m.media-amazon.com/images/I/41+DdmPtTTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+DdmPtTTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.98'
 
 Está [Levi s 527 Slim Boot Cut  Vaqueros Corte de Bota para Hombre  Azul  Last Mid Blue 0553   36W/34L](https://www.amazon.es/dp/B07FCS1WHG/?tag=tolees-21) con 58.79 de descuento por 28.96 EUR (original: 70.28 EUR) en el siguiente enlace!
 
-[![Levi s 527 Slim Boot Cut  Vaqueros Corte](https://m.media-amazon.com/images/I/41+DdmPtTTL._SL200_.jpg)](https://www.amazon.es/dp/B07FCS1WHG/?tag=tolees-21)
+[![Levi s 527 Slim Boot Cut  Vaqueros Corte](https://m.media-amazon.com/images/I/41+DdmPtTTL._SL400_.jpg)](https://www.amazon.es/dp/B07FCS1WHG/?tag=tolees-21)
 
 ℹ️:
 

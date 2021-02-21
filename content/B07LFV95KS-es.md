@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.59 % en Geox U HALLSON A  Botas Chukka para Homb'
 date: 2020-04-27 13:40:11
-image: 'https://m.media-amazon.com/images/I/31jgLTiE2TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jgLTiE2TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.57'
 
 Tienes [Geox U HALLSON A  Botas Chukka para Hombre  Negro  Black C9999   46 EU](https://www.amazon.es/dp/B07LFV95KS/?tag=tolees-21) con un 30.59 % de descuento con precio de oferta de 26.57 EUR (original: 38.28 EUR) en el siguiente enlace!
 
-[![Geox U HALLSON A  Botas Chukka para Homb](https://m.media-amazon.com/images/I/31jgLTiE2TL._SL200_.jpg)](https://www.amazon.es/dp/B07LFV95KS/?tag=tolees-21)
+[![Geox U HALLSON A  Botas Chukka para Homb](https://m.media-amazon.com/images/I/31jgLTiE2TL._SL400_.jpg)](https://www.amazon.es/dp/B07LFV95KS/?tag=tolees-21)
 
 ℹ️:
 

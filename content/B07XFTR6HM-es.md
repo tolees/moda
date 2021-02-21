@@ -2,7 +2,7 @@
 layout: post
 title: 'ESPRIT Collection 109eo1g002 Abrigo  Neg al 60.63 % de descuento'
 date: 2020-02-04 16:53:57
-image: 'https://m.media-amazon.com/images/I/41Vr8fmYJdL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vr8fmYJdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.99'
 
 Está [ESPRIT Collection 109eo1g002 Abrigo  Negro  Black 001   Large para Mujer](https://www.amazon.es/dp/B07XFTR6HM/?tag=tolees-21) con 60.63 de descuento por 62.99 EUR (original: 159.99 EUR) en el siguiente enlace!
 
-[![ESPRIT Collection 109eo1g002 Abrigo  Neg](https://m.media-amazon.com/images/I/41Vr8fmYJdL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07XFTR6HM/?tag=tolees-21)
+[![ESPRIT Collection 109eo1g002 Abrigo  Neg](https://m.media-amazon.com/images/I/41Vr8fmYJdL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07XFTR6HM/?tag=tolees-21)
 
 ℹ️:
 

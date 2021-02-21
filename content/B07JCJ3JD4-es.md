@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Powder Lite Chaqueta De Plumón  al 58.90 % de rebaja'
 date: 2020-01-21 22:38:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wJcKu1MNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wJcKu1MNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.19'
 
 Tienes [Columbia Powder Lite Chaqueta De Plumón con Capucha  Mujer  Rosa  Dusty Pink   S](https://www.amazon.es/dp/B07JCJ3JD4/?tag=tolees-21) con precio final de  53.43 EUR (original: 129.99 EUR) (58.90 %  de rebaja) aqui!
 
-[![Columbia Powder Lite Chaqueta De Plumón ](https://images-eu.ssl-images-amazon.com/images/I/41wJcKu1MNL._SL200_.jpg)](https://www.amazon.es/dp/B07JCJ3JD4/?tag=tolees-21)
+[![Columbia Powder Lite Chaqueta De Plumón ](https://images-eu.ssl-images-amazon.com/images/I/41wJcKu1MNL._SL400_.jpg)](https://www.amazon.es/dp/B07JCJ3JD4/?tag=tolees-21)
 
 🔎:
 

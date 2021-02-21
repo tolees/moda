@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Knockout Tank  Camiseta  con un 54.26 % de descuento'
 date: 2020-09-19 07:58:16
-image: 'https://m.media-amazon.com/images/I/41xMf-KFxtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xMf-KFxtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.01'
 
 En este momento está [Under Armour UA Knockout Tank  Camiseta de Tirantes  Camiseta Deportiva para Mujer Mujer  Blanco  White/White/Black  100    XS](https://www.amazon.es/dp/B07PT8VGHB/?tag=tolees-21) a 16.01 EUR (original: 35.0 EUR) (54.26 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Knockout Tank  Camiseta ](https://m.media-amazon.com/images/I/41xMf-KFxtL._SL200_.jpg)](https://www.amazon.es/dp/B07PT8VGHB/?tag=tolees-21)
+[![Under Armour UA Knockout Tank  Camiseta ](https://m.media-amazon.com/images/I/41xMf-KFxtL._SL400_.jpg)](https://www.amazon.es/dp/B07PT8VGHB/?tag=tolees-21)
 
 🔎:
 

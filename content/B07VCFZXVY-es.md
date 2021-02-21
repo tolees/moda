@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Jers Nagar Chaqueta Punto  Blan al 70.04 % de descuento'
 date: 2020-07-19 11:32:29
-image: 'https://m.media-amazon.com/images/I/41xyje0dVrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xyje0dVrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.95'
 
 Ahora mismo tienes [Desigual Jers Nagar Chaqueta Punto  Blanco  Crudo 1001   Small para Mujer](https://www.amazon.es/dp/B07VCFZXVY/?tag=tolees-21) a 23.95 EUR (original: 79.95 EUR) (70.04 %  de descuento) en el siguiente enlace!
 
-[![Desigual Jers Nagar Chaqueta Punto  Blan](https://m.media-amazon.com/images/I/41xyje0dVrL._SL200_.jpg)](https://www.amazon.es/dp/B07VCFZXVY/?tag=tolees-21)
+[![Desigual Jers Nagar Chaqueta Punto  Blan](https://m.media-amazon.com/images/I/41xyje0dVrL._SL400_.jpg)](https://www.amazon.es/dp/B07VCFZXVY/?tag=tolees-21)
 
 🔎:
 

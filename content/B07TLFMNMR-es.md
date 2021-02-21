@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s The Original Camiseta  Verde  Hm  al 38.04 % de descuento'
 date: 2020-05-27 08:19:07
-image: 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.696'
 
 Ahora mismo tienes [Levi s The Original Camiseta  Verde  Hm Patch OG Hm tee Olive Night 0010   Medium para Hombre](https://www.amazon.es/dp/B07TLFMNMR/?tag=tolees-21) a 15.49 EUR (original: 25.0 EUR) (38.04 %  de descuento) en el siguiente enlace!
 
-[![Levi s The Original Camiseta  Verde  Hm ](https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg)](https://www.amazon.es/dp/B07TLFMNMR/?tag=tolees-21)
+[![Levi s The Original Camiseta  Verde  Hm ](https://m.media-amazon.com/images/I/41KbTtyymIL._SL400_.jpg)](https://www.amazon.es/dp/B07TLFMNMR/?tag=tolees-21)
 
 🔎:
 

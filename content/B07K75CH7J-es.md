@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s On Tour Camiseta Deportiva de Tir al 43.56 % de descuento'
 date: 2020-03-17 08:49:52
-image: 'https://m.media-amazon.com/images/I/31JTKX9GjuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JTKX9GjuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.639999999999999'
 
 Ahora mismo tienes [Levi s On Tour Camiseta Deportiva de Tirantes  Blanco  Red Hsmk Tank White 0022   Large para Mujer](https://www.amazon.es/dp/B07K75CH7J/?tag=tolees-21) a 10.16 EUR (original: 18.0 EUR) (43.56 %  de descuento) en el siguiente enlace!
 
-[![Levi s On Tour Camiseta Deportiva de Tir](https://m.media-amazon.com/images/I/31JTKX9GjuL._SL200_.jpg)](https://www.amazon.es/dp/B07K75CH7J/?tag=tolees-21)
+[![Levi s On Tour Camiseta Deportiva de Tir](https://m.media-amazon.com/images/I/31JTKX9GjuL._SL400_.jpg)](https://www.amazon.es/dp/B07K75CH7J/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Timormode Vestido Cóctel Corto Vintage 5 al 50.01 % de rebaja'
 date: 2020-04-07 17:32:13
-image: 'https://m.media-amazon.com/images/I/41vNzJgplZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vNzJgplZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [Timormode Vestido Cóctel Corto Vintage 50s Cuello Halter Vestido De Fiesta Rockabilly Mujer Armygreen XS](https://www.amazon.es/dp/B072ZT9RNV/?tag=tolees-21) con precio final de  29.99 EUR (original: 59.99 EUR) (50.01 %  de rebaja) aqui!
 
-[![Timormode Vestido Cóctel Corto Vintage 5](https://m.media-amazon.com/images/I/41vNzJgplZL._SL200_.jpg)](https://www.amazon.es/dp/B072ZT9RNV/?tag=tolees-21)
+[![Timormode Vestido Cóctel Corto Vintage 5](https://m.media-amazon.com/images/I/41vNzJgplZL._SL400_.jpg)](https://www.amazon.es/dp/B072ZT9RNV/?tag=tolees-21)
 
 🔎:
 

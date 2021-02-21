@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen HP Racing Midlayer Lifaloft al 64.87 % de rebaja'
 date: 2020-03-28 14:42:37
-image: 'https://m.media-amazon.com/images/I/41-Q+GEHGhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-Q+GEHGhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.75'
 
 Tienes [Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Mujer  Cherry Tomato  XS](https://www.amazon.es/dp/B07F344WZN/?tag=tolees-21) con precio final de  66.75 EUR (original: 190.0 EUR) (64.87 %  de rebaja) aqui!
 
-[![Helly Hansen HP Racing Midlayer Lifaloft](https://m.media-amazon.com/images/I/41-Q+GEHGhL._SL200_.jpg)](https://www.amazon.es/dp/B07F344WZN/?tag=tolees-21)
+[![Helly Hansen HP Racing Midlayer Lifaloft](https://m.media-amazon.com/images/I/41-Q+GEHGhL._SL400_.jpg)](https://www.amazon.es/dp/B07F344WZN/?tag=tolees-21)
 
 🔎:
 

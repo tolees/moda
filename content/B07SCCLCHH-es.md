@@ -2,7 +2,7 @@
 layout: post
 title: 'Fruit of the Loom Valueweight tee  3 Pac al 65.72 % de descuento'
 date: 2020-05-09 12:07:15
-image: 'https://m.media-amazon.com/images/I/318sSW4geNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318sSW4geNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.88'
 
 Ahora mismo tienes [Fruit of the Loom Valueweight tee  3 Pack Camiseta  Azul  Navy 32   Medium  Size:M   Pack de 3  para Hombre](https://www.amazon.es/dp/B07SCCLCHH/?tag=tolees-21) a 7.88 EUR (original: 22.99 EUR) (65.72 %  de descuento) en el siguiente enlace!
 
-[![Fruit of the Loom Valueweight tee  3 Pac](https://m.media-amazon.com/images/I/318sSW4geNL._SL200_.jpg)](https://www.amazon.es/dp/B07SCCLCHH/?tag=tolees-21)
+[![Fruit of the Loom Valueweight tee  3 Pac](https://m.media-amazon.com/images/I/318sSW4geNL._SL400_.jpg)](https://www.amazon.es/dp/B07SCCLCHH/?tag=tolees-21)
 
 🔎:
 

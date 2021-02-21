@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Oakland Lace  Zapatos de Cordones con un 40.00 % de descuento'
 date: 2020-08-04 20:14:17
-image: 'https://m.media-amazon.com/images/I/31kPfck-ppL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kPfck-ppL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.0'
 
 En este momento está [Clarks Oakland Lace  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   41 EU](https://www.amazon.es/dp/B07FS9T8SR/?tag=tolees-21) a 66.0 EUR (original: 110.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Clarks Oakland Lace  Zapatos de Cordones](https://m.media-amazon.com/images/I/31kPfck-ppL._SL200_.jpg)](https://www.amazon.es/dp/B07FS9T8SR/?tag=tolees-21)
+[![Clarks Oakland Lace  Zapatos de Cordones](https://m.media-amazon.com/images/I/31kPfck-ppL._SL400_.jpg)](https://www.amazon.es/dp/B07FS9T8SR/?tag=tolees-21)
 
 🔎:
 

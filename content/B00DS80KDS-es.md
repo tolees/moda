@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 81.39 % en MY EVENING DRESS Marlene  Vestido para M'
 date: 2020-01-14 18:20:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31v5mUbyaSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31v5mUbyaSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.86'
 
 Tienes [MY EVENING DRESS Marlene  Vestido para Mujer  Red - Burgundy  38](https://www.amazon.es/dp/B00DS80KDS/?tag=tolees-21) con un 81.39 % de descuento con precio de oferta de 11.86 EUR (original: 63.72 EUR) en el siguiente enlace!
 
-[![MY EVENING DRESS Marlene  Vestido para M](https://images-eu.ssl-images-amazon.com/images/I/31v5mUbyaSL._SL200_.jpg)](https://www.amazon.es/dp/B00DS80KDS/?tag=tolees-21)
+[![MY EVENING DRESS Marlene  Vestido para M](https://images-eu.ssl-images-amazon.com/images/I/31v5mUbyaSL._SL400_.jpg)](https://www.amazon.es/dp/B00DS80KDS/?tag=tolees-21)
 
 ℹ️:
 

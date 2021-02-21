@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Om Stadium Training Pants Pantalón  al 32.44 % de descuento'
 date: 2020-07-06 18:03:15
-image: 'https://m.media-amazon.com/images/I/314n2AO559L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314n2AO559L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Ahora mismo tienes [PUMA Om Stadium Training Pants Pantalón Largo  Hombre  Peacoat  S](https://www.amazon.es/dp/B082Z2NBKT/?tag=tolees-21) a 49.99 EUR (original: 73.99 EUR) (32.44 %  de descuento) en el siguiente enlace!
 
-[![PUMA Om Stadium Training Pants Pantalón ](https://m.media-amazon.com/images/I/314n2AO559L._SL200_.jpg)](https://www.amazon.es/dp/B082Z2NBKT/?tag=tolees-21)
+[![PUMA Om Stadium Training Pants Pantalón ](https://m.media-amazon.com/images/I/314n2AO559L._SL400_.jpg)](https://www.amazon.es/dp/B082Z2NBKT/?tag=tolees-21)
 
 🔎:
 

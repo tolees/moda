@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 70.52 % en Dickies Manitou Chaqueta  Verde  Small  '
 date: 2020-03-16 12:40:51
-image: 'https://m.media-amazon.com/images/I/41CR6aCchCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CR6aCchCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.44'
 
 Tienes [Dickies Manitou Chaqueta  Verde  Small  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07P22T5KR/?tag=tolees-21) con un 70.52 % de descuento con precio de oferta de 48.65 EUR (original: 165.0 EUR) en el siguiente enlace!
 
-[![Dickies Manitou Chaqueta  Verde  Small  ](https://m.media-amazon.com/images/I/41CR6aCchCL._SL200_.jpg)](https://www.amazon.es/dp/B07P22T5KR/?tag=tolees-21)
+[![Dickies Manitou Chaqueta  Verde  Small  ](https://m.media-amazon.com/images/I/41CR6aCchCL._SL400_.jpg)](https://www.amazon.es/dp/B07P22T5KR/?tag=tolees-21)
 
 ℹ️:
 

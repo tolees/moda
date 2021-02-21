@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D Taormina F  Sandalias con Punta A al 72.82 % de descuento'
 date: 2020-08-24 10:29:01
-image: 'https://m.media-amazon.com/images/I/31fGmzGNlDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fGmzGNlDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.455'
 
 Ahora mismo tienes [Geox D Taormina F  Sandalias con Punta Abierta para Mujer  Negro  Black C9999   38 EU](https://www.amazon.es/dp/B07SVXXZCY/?tag=tolees-21) a 27.15 EUR (original: 99.9 EUR) (72.82 %  de descuento) en el siguiente enlace!
 
-[![Geox D Taormina F  Sandalias con Punta A](https://m.media-amazon.com/images/I/31fGmzGNlDL._SL200_.jpg)](https://www.amazon.es/dp/B07SVXXZCY/?tag=tolees-21)
+[![Geox D Taormina F  Sandalias con Punta A](https://m.media-amazon.com/images/I/31fGmzGNlDL._SL400_.jpg)](https://www.amazon.es/dp/B07SVXXZCY/?tag=tolees-21)
 
 🔎:
 

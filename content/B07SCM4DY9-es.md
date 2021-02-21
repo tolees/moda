@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Scarlett High Vaqueros  Azul  Light  al 26.25 % de rebaja'
 date: 2020-02-20 07:50:37
-image: 'https://m.media-amazon.com/images/I/41yzKGQ3rDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yzKGQ3rDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.71'
 
 Tienes [Lee Scarlett High Vaqueros  Azul  Light Florin HR   24W/31L para Mujer](https://www.amazon.es/dp/B07SCM4DY9/?tag=tolees-21) con precio final de  73.71 EUR (original: 99.95 EUR) (26.25 %  de rebaja) aqui!
 
-[![Lee Scarlett High Vaqueros  Azul  Light ](https://m.media-amazon.com/images/I/41yzKGQ3rDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SCM4DY9/?tag=tolees-21)
+[![Lee Scarlett High Vaqueros  Azul  Light ](https://m.media-amazon.com/images/I/41yzKGQ3rDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07SCM4DY9/?tag=tolees-21)
 
 🔎:
 

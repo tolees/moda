@@ -2,7 +2,7 @@
 layout: post
 title: 'Fruit of the Loom - Camiseta básica de M al 33.33 % de descuento'
 date: 2020-07-08 13:31:32
-image: 'https://m.media-amazon.com/images/I/31rKaODAaNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rKaODAaNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.7'
 
 Ahora mismo tienes [Fruit of the Loom - Camiseta básica de Manga Corta Tacto Super Suave Modelo Sofspun Unisex Niños Niñas - Deportes/Gimnasia/Correr  14-15 Años   Vino ](https://www.amazon.es/dp/B07BC78R2L/?tag=tolees-21) a 3.7 EUR (original: 5.55 EUR) (33.33 %  de descuento) en el siguiente enlace!
 
-[![Fruit of the Loom - Camiseta básica de M](https://m.media-amazon.com/images/I/31rKaODAaNL._SL200_.jpg)](https://www.amazon.es/dp/B07BC78R2L/?tag=tolees-21)
+[![Fruit of the Loom - Camiseta básica de M](https://m.media-amazon.com/images/I/31rKaODAaNL._SL400_.jpg)](https://www.amazon.es/dp/B07BC78R2L/?tag=tolees-21)
 
 🔎:
 

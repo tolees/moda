@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.38 % en Redskins Gosseti  Zapatos de Cordones Ox'
 date: 2020-05-28 16:31:18
-image: 'https://m.media-amazon.com/images/I/31MKELQC4yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MKELQC4yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.1'
 
 Tienes [Redskins Gosseti  Zapatos de Cordones Oxford para Hombre  Negro-Negro  45 EU](https://www.amazon.es/dp/B00GCZCZOG/?tag=tolees-21) con un 52.38 % de descuento con precio de oferta de 48.1 EUR (original: 101.0 EUR) en el siguiente enlace!
 
-[![Redskins Gosseti  Zapatos de Cordones Ox](https://m.media-amazon.com/images/I/31MKELQC4yL._SL200_.jpg)](https://www.amazon.es/dp/B00GCZCZOG/?tag=tolees-21)
+[![Redskins Gosseti  Zapatos de Cordones Ox](https://m.media-amazon.com/images/I/31MKELQC4yL._SL400_.jpg)](https://www.amazon.es/dp/B00GCZCZOG/?tag=tolees-21)
 
 ℹ️:
 

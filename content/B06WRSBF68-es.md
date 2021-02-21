@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste TH6709  Camiseta para Hombre  Ne con un 30.10 % de descuento'
 date: 2020-09-01 21:15:04
-image: 'https://m.media-amazon.com/images/I/41N3KjeSqhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41N3KjeSqhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.95'
 
 En este momento está [Lacoste TH6709  Camiseta para Hombre  Negro  Noir   S  Talla del fabricante: 3 ](https://www.amazon.es/dp/B06WRSBF68/?tag=tolees-21) a 34.95 EUR (original: 50.0 EUR) (30.10 %  de descuento) en el siguiente enlace!
 
-[![Lacoste TH6709  Camiseta para Hombre  Ne](https://m.media-amazon.com/images/I/41N3KjeSqhL._SL200_.jpg)](https://www.amazon.es/dp/B06WRSBF68/?tag=tolees-21)
+[![Lacoste TH6709  Camiseta para Hombre  Ne](https://m.media-amazon.com/images/I/41N3KjeSqhL._SL400_.jpg)](https://www.amazon.es/dp/B06WRSBF68/?tag=tolees-21)
 
 🔎:
 

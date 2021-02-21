@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Tolt Track Chaqueta Interchange al 31.18 % de descuento'
 date: 2020-08-17 08:07:27
-image: 'https://m.media-amazon.com/images/I/31hqQi37FXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hqQi37FXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '158.29'
 
 Ahora mismo tienes [Columbia Tolt Track Chaqueta Interchange  Mujer  Azul  Dark Azul/Nocturnal   XS](https://www.amazon.es/dp/B07RC8KQ7C/?tag=tolees-21) a 158.29 EUR (original: 229.99 EUR) (31.18 %  de descuento) en el siguiente enlace!
 
-[![Columbia Tolt Track Chaqueta Interchange](https://m.media-amazon.com/images/I/31hqQi37FXL._SL200_.jpg)](https://www.amazon.es/dp/B07RC8KQ7C/?tag=tolees-21)
+[![Columbia Tolt Track Chaqueta Interchange](https://m.media-amazon.com/images/I/31hqQi37FXL._SL400_.jpg)](https://www.amazon.es/dp/B07RC8KQ7C/?tag=tolees-21)
 
 🔎:
 

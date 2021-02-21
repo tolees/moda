@@ -2,7 +2,7 @@
 layout: post
 title: 'Only Onlnew Lucca Parka Jacket Otw  Rojo al 64.77 % de descuento'
 date: 2020-01-07 16:01:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410JYWIXqkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410JYWIXqkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.09'
 
 Está [Only Onlnew Lucca Parka Jacket Otw  Rojo  Ketchup Ketchup   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07RY85G6R/?tag=tolees-21) con 64.77 de descuento por 14.09 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Only Onlnew Lucca Parka Jacket Otw  Rojo](https://images-eu.ssl-images-amazon.com/images/I/410JYWIXqkL._SL200_.jpg)](https://www.amazon.es/dp/B07RY85G6R/?tag=tolees-21)
+[![Only Onlnew Lucca Parka Jacket Otw  Rojo](https://images-eu.ssl-images-amazon.com/images/I/410JYWIXqkL._SL400_.jpg)](https://www.amazon.es/dp/B07RY85G6R/?tag=tolees-21)
 
 ℹ️:
 

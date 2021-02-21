@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 51.67 % en Geox J Android Girl A  Zapatillas para N'
 date: 2020-01-09 15:56:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVhaemIhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVhaemIhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.95'
 
 Tienes [Geox J Android Girl A  Zapatillas para Niñas  Grau  Grey/Pink C0502   34 EU](https://www.amazon.es/dp/B07LG18M5K/?tag=tolees-21) con un 51.67 % de descuento con precio de oferta de 28.95 EUR (original: 59.9 EUR) en el siguiente enlace!
 
-[![Geox J Android Girl A  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/41XVhaemIhL._SL200_.jpg)](https://www.amazon.es/dp/B07LG18M5K/?tag=tolees-21)
+[![Geox J Android Girl A  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/41XVhaemIhL._SL400_.jpg)](https://www.amazon.es/dp/B07LG18M5K/?tag=tolees-21)
 
 ℹ️:
 

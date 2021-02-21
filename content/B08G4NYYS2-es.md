@@ -2,7 +2,7 @@
 layout: post
 title: 'UCAYALI Zapatos de Trabajo Unisex Adulto al 19.57 % de descuento'
 date: 2020-10-04 09:47:00
-image: 'https://m.media-amazon.com/images/I/51rXQr6-tbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rXQr6-tbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Ahora mismo tienes [UCAYALI Zapatos de Trabajo Unisex Adulto Azul/Negro Talla 44](https://www.amazon.es/dp/B08G4NYYS2/?tag=tolees-21) a 36.99 EUR (original: 45.99 EUR) (19.57 %  de descuento) en el siguiente enlace!
 
-[![UCAYALI Zapatos de Trabajo Unisex Adulto](https://m.media-amazon.com/images/I/51rXQr6-tbL._SL200_.jpg)](https://www.amazon.es/dp/B08G4NYYS2/?tag=tolees-21)
+[![UCAYALI Zapatos de Trabajo Unisex Adulto](https://m.media-amazon.com/images/I/51rXQr6-tbL._SL400_.jpg)](https://www.amazon.es/dp/B08G4NYYS2/?tag=tolees-21)
 
 🔎:
 

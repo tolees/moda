@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Cotrell Lane  Zapatos de Cordones con un 57.35 % de descuento'
 date: 2020-07-10 07:53:38
-image: 'https://m.media-amazon.com/images/I/41+jnwfEFhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+jnwfEFhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.1'
 
 En este momento está [Clarks Cotrell Lane  Zapatos de Cordones Derby para Hombre  Marrón  Tan Combi Lea Tan Combi Lea   48 EU](https://www.amazon.es/dp/B07TNVW3YH/?tag=tolees-21) a 34.1 EUR (original: 79.95 EUR) (57.35 %  de descuento) en el siguiente enlace!
 
-[![Clarks Cotrell Lane  Zapatos de Cordones](https://m.media-amazon.com/images/I/41+jnwfEFhL._SL200_.jpg)](https://www.amazon.es/dp/B07TNVW3YH/?tag=tolees-21)
+[![Clarks Cotrell Lane  Zapatos de Cordones](https://m.media-amazon.com/images/I/41+jnwfEFhL._SL400_.jpg)](https://www.amazon.es/dp/B07TNVW3YH/?tag=tolees-21)
 
 🔎:
 

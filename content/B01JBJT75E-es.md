@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.98 % en Arena 1E49171 Gafas de natación  Unisex '
 date: 2020-09-19 11:40:47
-image: 'https://m.media-amazon.com/images/I/41gZcmTeDRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gZcmTeDRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.96'
 
 Tienes [Arena 1E49171 Gafas de natación  Unisex Adulto  Blue  Talla Única](https://www.amazon.es/dp/B01JBJT75E/?tag=tolees-21) con un 35.98 % de descuento con precio de oferta de 19.96 EUR (original: 31.18 EUR) en el siguiente enlace!
 
-[![Arena 1E49171 Gafas de natación  Unisex ](https://m.media-amazon.com/images/I/41gZcmTeDRL._SL200_.jpg)](https://www.amazon.es/dp/B01JBJT75E/?tag=tolees-21)
+[![Arena 1E49171 Gafas de natación  Unisex ](https://m.media-amazon.com/images/I/41gZcmTeDRL._SL400_.jpg)](https://www.amazon.es/dp/B01JBJT75E/?tag=tolees-21)
 
 ℹ️:
 

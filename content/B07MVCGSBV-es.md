@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Soves Camiseta  Negro  Black 0 al 60.00 % de descuento'
 date: 2020-02-04 11:19:55
-image: 'https://m.media-amazon.com/images/I/41Mz0xPs2FL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mz0xPs2FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.6'
 
 Ahora mismo tienes [Napapijri Soves Camiseta  Negro  Black 041   Medium para Hombre](https://www.amazon.es/dp/B07MVCGSBV/?tag=tolees-21) a 15.6 EUR (original: 39.0 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri Soves Camiseta  Negro  Black 0](https://m.media-amazon.com/images/I/41Mz0xPs2FL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MVCGSBV/?tag=tolees-21)
+[![Napapijri Soves Camiseta  Negro  Black 0](https://m.media-amazon.com/images/I/41Mz0xPs2FL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MVCGSBV/?tag=tolees-21)
 
 🔎:
 

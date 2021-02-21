@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Triple Canyon Camisa de Manga C al 62.32 % de descuento'
 date: 2020-06-26 11:10:54
-image: 'https://m.media-amazon.com/images/I/51QQvpXJjaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QQvpXJjaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.49'
 
 Está [Columbia Triple Canyon Camisa de Manga Corta  Hombre  Azul  Azul Mini Tonal Plaid   L](https://www.amazon.es/dp/B081B61FFF/?tag=tolees-21) con 62.32 de descuento por 24.49 EUR (original: 64.99 EUR) en el siguiente enlace!
 
-[![Columbia Triple Canyon Camisa de Manga C](https://m.media-amazon.com/images/I/51QQvpXJjaL._SL200_.jpg)](https://www.amazon.es/dp/B081B61FFF/?tag=tolees-21)
+[![Columbia Triple Canyon Camisa de Manga C](https://m.media-amazon.com/images/I/51QQvpXJjaL._SL400_.jpg)](https://www.amazon.es/dp/B081B61FFF/?tag=tolees-21)
 
 ℹ️:
 

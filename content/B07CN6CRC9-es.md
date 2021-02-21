@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Classic Clog Kids Roomy fit  Zueco al 44.02 % de rebaja'
 date: 2020-02-04 12:39:12
-image: 'https://m.media-amazon.com/images/I/31llT8eNnbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31llT8eNnbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.11'
 
 Tienes [Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Verde  Citrus 738   24/25 EU](https://www.amazon.es/dp/B07CN6CRC9/?tag=tolees-21) con precio final de  15.11 EUR (original: 26.99 EUR) (44.02 %  de rebaja) aqui!
 
-[![Crocs Classic Clog Kids Roomy fit  Zueco](https://m.media-amazon.com/images/I/31llT8eNnbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CN6CRC9/?tag=tolees-21)
+[![Crocs Classic Clog Kids Roomy fit  Zueco](https://m.media-amazon.com/images/I/31llT8eNnbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CN6CRC9/?tag=tolees-21)
 
 🔎:
 

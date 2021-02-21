@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Rider  Vaqueros slim Hombre  Gris  G con un 43.29 % de descuento'
 date: 2020-08-22 11:11:22
-image: 'https://m.media-amazon.com/images/I/31XRr5uq0WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XRr5uq0WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.68'
 
 En este momento está [Lee Rider  Vaqueros slim Hombre  Gris  Grey Worn Wf   W32/L32](https://www.amazon.es/dp/B07FTL62Y3/?tag=tolees-21) a 56.68 EUR (original: 99.95 EUR) (43.29 %  de descuento) en el siguiente enlace!
 
-[![Lee Rider  Vaqueros slim Hombre  Gris  G](https://m.media-amazon.com/images/I/31XRr5uq0WL._SL200_.jpg)](https://www.amazon.es/dp/B07FTL62Y3/?tag=tolees-21)
+[![Lee Rider  Vaqueros slim Hombre  Gris  G](https://m.media-amazon.com/images/I/31XRr5uq0WL._SL400_.jpg)](https://www.amazon.es/dp/B07FTL62Y3/?tag=tolees-21)
 
 🔎:
 

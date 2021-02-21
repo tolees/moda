@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 41.32 % en Tommy Hilfiger Hampton Down Parka Chaque'
 date: 2020-01-15 23:03:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412aXQa4PSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412aXQa4PSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '199'
 
 Tienes [Tommy Hilfiger Hampton Down Parka Chaqueta   Sky Captain Cjm   Medium para Hombre](https://www.amazon.es/dp/B07N45DFGJ/?tag=tolees-21) con un 41.32 % de descuento con precio de oferta de 199 EUR (original: 339.15 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Hampton Down Parka Chaque](https://images-eu.ssl-images-amazon.com/images/I/412aXQa4PSL._SL200_.jpg)](https://www.amazon.es/dp/B07N45DFGJ/?tag=tolees-21)
+[![Tommy Hilfiger Hampton Down Parka Chaque](https://images-eu.ssl-images-amazon.com/images/I/412aXQa4PSL._SL400_.jpg)](https://www.amazon.es/dp/B07N45DFGJ/?tag=tolees-21)
 
 ℹ️:
 

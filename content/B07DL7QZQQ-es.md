@@ -2,7 +2,7 @@
 layout: post
 title: 'Element Cornell Classic Ho Sudadera con  al 58.68 % de descuento'
 date: 2020-02-25 17:54:18
-image: 'https://m.media-amazon.com/images/I/41qA3oS93AL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qA3oS93AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.365000000000002'
 
 Ahora mismo tienes [Element Cornell Classic Ho Sudadera con Capucha  Hombre  Negro  Flint Black   S](https://www.amazon.es/dp/B07DL7QZQQ/?tag=tolees-21) a 23.55 EUR (original: 57.0 EUR) (58.68 %  de descuento) en el siguiente enlace!
 
-[![Element Cornell Classic Ho Sudadera con ](https://m.media-amazon.com/images/I/41qA3oS93AL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DL7QZQQ/?tag=tolees-21)
+[![Element Cornell Classic Ho Sudadera con ](https://m.media-amazon.com/images/I/41qA3oS93AL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DL7QZQQ/?tag=tolees-21)
 
 🔎:
 

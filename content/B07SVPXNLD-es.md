@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D SUZZIE B  Zapatillas para Mujer   al 53.95 % de descuento'
 date: 2020-09-01 16:10:01
-image: 'https://m.media-amazon.com/images/I/41oB2gtzyNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oB2gtzyNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.61'
 
 Ahora mismo tienes [Geox D SUZZIE B  Zapatillas para Mujer  Marfil  Black/Off White C9876   40 EU](https://www.amazon.es/dp/B07SVPXNLD/?tag=tolees-21) a 50.61 EUR (original: 109.9 EUR) (53.95 %  de descuento) en el siguiente enlace!
 
-[![Geox D SUZZIE B  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41oB2gtzyNL._SL200_.jpg)](https://www.amazon.es/dp/B07SVPXNLD/?tag=tolees-21)
+[![Geox D SUZZIE B  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41oB2gtzyNL._SL400_.jpg)](https://www.amazon.es/dp/B07SVPXNLD/?tag=tolees-21)
 
 🔎:
 

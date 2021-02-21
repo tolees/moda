@@ -2,7 +2,7 @@
 layout: post
 title: 'Nina Brautmoden - Vestido de novia - tra al 37.10 % de descuento'
 date: 2020-08-19 12:18:41
-image: 'https://m.media-amazon.com/images/I/41rQusiXwUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rQusiXwUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.5'
 
 Ahora mismo tienes [Nina Brautmoden - Vestido de novia - trapecio - Manga corta - Mujer blanco 48](https://www.amazon.es/dp/B00NWRFSX2/?tag=tolees-21) a 23.5 EUR (original: 37.36 EUR) (37.10 %  de descuento) en el siguiente enlace!
 
-[![Nina Brautmoden - Vestido de novia - tra](https://m.media-amazon.com/images/I/41rQusiXwUL._SL200_.jpg)](https://www.amazon.es/dp/B00NWRFSX2/?tag=tolees-21)
+[![Nina Brautmoden - Vestido de novia - tra](https://m.media-amazon.com/images/I/41rQusiXwUL._SL400_.jpg)](https://www.amazon.es/dp/B00NWRFSX2/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen W Crew Chaqueta Deportiva   al 56.34 % de descuento'
 date: 2020-03-03 06:53:52
-image: 'https://m.media-amazon.com/images/I/4127nYnGHiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4127nYnGHiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.12'
 
 Ahora mismo tienes [Helly Hansen W Crew Chaqueta Deportiva  Mujer  Negro  Negro 990   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B073RQ1YF2/?tag=tolees-21) a 61.12 EUR (original: 140.0 EUR) (56.34 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen W Crew Chaqueta Deportiva  ](https://m.media-amazon.com/images/I/4127nYnGHiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B073RQ1YF2/?tag=tolees-21)
+[![Helly Hansen W Crew Chaqueta Deportiva  ](https://m.media-amazon.com/images/I/4127nYnGHiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B073RQ1YF2/?tag=tolees-21)
 
 🔎:
 

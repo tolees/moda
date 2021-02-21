@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Crew Insulator Chaqueta  Ho al 41.26 % de rebaja'
 date: 2020-06-10 22:57:08
-image: 'https://m.media-amazon.com/images/I/41TrJ61xWoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TrJ61xWoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '93.99'
 
 Tienes [Helly Hansen Crew Insulator Chaqueta  Hombre  Grey Fog  M](https://www.amazon.es/dp/B07SC4QYXN/?tag=tolees-21) con precio final de  93.99 EUR (original: 160.0 EUR) (41.26 %  de rebaja) aqui!
 
-[![Helly Hansen Crew Insulator Chaqueta  Ho](https://m.media-amazon.com/images/I/41TrJ61xWoL._SL200_.jpg)](https://www.amazon.es/dp/B07SC4QYXN/?tag=tolees-21)
+[![Helly Hansen Crew Insulator Chaqueta  Ho](https://m.media-amazon.com/images/I/41TrJ61xWoL._SL400_.jpg)](https://www.amazon.es/dp/B07SC4QYXN/?tag=tolees-21)
 
 🔎:
 

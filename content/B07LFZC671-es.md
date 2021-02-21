@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox Women s D New ANNYA MID A Closed To al 70.68 % de descuento'
 date: 2020-09-29 16:49:04
-image: 'https://m.media-amazon.com/images/I/31xicIlf7YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xicIlf7YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.416'
 
 Está [Geox Women s D New ANNYA MID A Closed Toe Heels  Blue  Navy C4002   4 UK](https://www.amazon.es/dp/B07LFZC671/?tag=tolees-21) con 70.68 de descuento por 29.29 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Geox Women s D New ANNYA MID A Closed To](https://m.media-amazon.com/images/I/31xicIlf7YL._SL200_.jpg)](https://www.amazon.es/dp/B07LFZC671/?tag=tolees-21)
+[![Geox Women s D New ANNYA MID A Closed To](https://m.media-amazon.com/images/I/31xicIlf7YL._SL400_.jpg)](https://www.amazon.es/dp/B07LFZC671/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'New Look Aw19 Piper Abrigo  Negro  Black al 44.54 % de descuento'
 date: 2020-02-13 08:33:28
-image: 'https://m.media-amazon.com/images/I/31sDbeaXuOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sDbeaXuOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.0'
 
 Ahora mismo tienes [New Look Aw19 Piper Abrigo  Negro  Black 1   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07TWWNTBK/?tag=tolees-21) a 22.0 EUR (original: 39.67 EUR) (44.54 %  de descuento) en el siguiente enlace!
 
-[![New Look Aw19 Piper Abrigo  Negro  Black](https://m.media-amazon.com/images/I/31sDbeaXuOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TWWNTBK/?tag=tolees-21)
+[![New Look Aw19 Piper Abrigo  Negro  Black](https://m.media-amazon.com/images/I/31sDbeaXuOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TWWNTBK/?tag=tolees-21)
 
 🔎:
 

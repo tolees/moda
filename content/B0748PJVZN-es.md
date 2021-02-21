@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Vestido de Tirantes con Raya Ejecu con un 70.00 % de descuento'
 date: 2020-05-05 03:35:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41c4%2BZaaeTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c4%2BZaaeTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9'
 
 En este momento está [find. Vestido de Tirantes con Raya Ejecutiva para Mujer  Multicolor  Black/white   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B0748PJVZN/?tag=tolees-21) a 9 EUR (original: 30 EUR) (70.00 %  de descuento) en el siguiente enlace!
 
-[![find. Vestido de Tirantes con Raya Ejecu](https://images-eu.ssl-images-amazon.com/images/I/41c4%2BZaaeTL._SL200_.jpg)](https://www.amazon.es/dp/B0748PJVZN/?tag=tolees-21)
+[![find. Vestido de Tirantes con Raya Ejecu](https://images-eu.ssl-images-amazon.com/images/I/41c4%2BZaaeTL._SL400_.jpg)](https://www.amazon.es/dp/B0748PJVZN/?tag=tolees-21)
 
 🔎:
 

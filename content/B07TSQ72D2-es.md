@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Austin Vaqueros Tapered  Azul  Dk Cl al 47.03 % de descuento'
 date: 2020-06-11 00:58:58
-image: 'https://m.media-amazon.com/images/I/41K-+H2F7PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41K-+H2F7PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.94'
 
 Ahora mismo tienes [Lee Austin Vaqueros Tapered  Azul  Dk Clean Foam EK   32W / 30L para Hombre](https://www.amazon.es/dp/B07TSQ72D2/?tag=tolees-21) a 52.94 EUR (original: 99.95 EUR) (47.03 %  de descuento) en el siguiente enlace!
 
-[![Lee Austin Vaqueros Tapered  Azul  Dk Cl](https://m.media-amazon.com/images/I/41K-+H2F7PL._SL200_.jpg)](https://www.amazon.es/dp/B07TSQ72D2/?tag=tolees-21)
+[![Lee Austin Vaqueros Tapered  Azul  Dk Cl](https://m.media-amazon.com/images/I/41K-+H2F7PL._SL400_.jpg)](https://www.amazon.es/dp/B07TSQ72D2/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.12 % en Clarks Arla Jacory  Sandalias de Talón A'
 date: 2020-08-13 05:06:24
-image: 'https://m.media-amazon.com/images/I/41ggT8sEMbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ggT8sEMbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.12'
 
 Tienes [Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Negro  Black-   37.5 EU](https://www.amazon.es/dp/B0791KPBF5/?tag=tolees-21) con un 30.12 % de descuento con precio de oferta de 38.4 EUR (original: 54.95 EUR) en el siguiente enlace!
 
-[![Clarks Arla Jacory  Sandalias de Talón A](https://m.media-amazon.com/images/I/41ggT8sEMbL._SL200_.jpg)](https://www.amazon.es/dp/B0791KPBF5/?tag=tolees-21)
+[![Clarks Arla Jacory  Sandalias de Talón A](https://m.media-amazon.com/images/I/41ggT8sEMbL._SL400_.jpg)](https://www.amazon.es/dp/B0791KPBF5/?tag=tolees-21)
 
 ℹ️:
 

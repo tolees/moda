@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Housemark Graphic tee Camiseta  A al 43.37 % de rebaja'
 date: 2020-07-11 07:33:57
-image: 'https://m.media-amazon.com/images/I/41hxLnzNjnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hxLnzNjnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.49'
 
 Tienes [Levi s Housemark Graphic tee Camiseta  Azul  Hm Ssnl Tonal Riverside 0275   Large para Hombre](https://www.amazon.es/dp/B07TRM4DXS/?tag=tolees-21) con precio final de  16.99 EUR (original: 30.0 EUR) (43.37 %  de rebaja) aqui!
 
-[![Levi s Housemark Graphic tee Camiseta  A](https://m.media-amazon.com/images/I/41hxLnzNjnL._SL200_.jpg)](https://www.amazon.es/dp/B07TRM4DXS/?tag=tolees-21)
+[![Levi s Housemark Graphic tee Camiseta  A](https://m.media-amazon.com/images/I/41hxLnzNjnL._SL400_.jpg)](https://www.amazon.es/dp/B07TRM4DXS/?tag=tolees-21)
 
 🔎:
 

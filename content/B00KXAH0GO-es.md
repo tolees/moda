@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.12 % en Under Armour UA HG Armour SS Camiseta  H'
 date: 2020-05-31 14:54:22
-image: 'https://m.media-amazon.com/images/I/41Q9U60nDyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q9U60nDyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.95'
 
 Tienes [Under Armour UA HG Armour SS Camiseta  Hombre  Negro  Black/Steel 001   3XL](https://www.amazon.es/dp/B00KXAH0GO/?tag=tolees-21) con un 25.12 % de descuento con precio de oferta de 22.45 EUR (original: 29.98 EUR) en el siguiente enlace!
 
-[![Under Armour UA HG Armour SS Camiseta  H](https://m.media-amazon.com/images/I/41Q9U60nDyL._SL200_.jpg)](https://www.amazon.es/dp/B00KXAH0GO/?tag=tolees-21)
+[![Under Armour UA HG Armour SS Camiseta  H](https://m.media-amazon.com/images/I/41Q9U60nDyL._SL400_.jpg)](https://www.amazon.es/dp/B00KXAH0GO/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Hi-Tec Ula Raft  Sandalias Deportivas pa al 35.59 % de rebaja'
 date: 2020-08-25 13:47:24
-image: 'https://m.media-amazon.com/images/I/41FI6vc7HJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FI6vc7HJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.39'
 
 Tienes [Hi-Tec Ula Raft  Sandalias Deportivas para Hombre  Amarillo  Blazing Yellow/Navigate 079   43 EU](https://www.amazon.es/dp/B07Z6WF4J9/?tag=tolees-21) con precio final de  22.39 EUR (original: 34.76 EUR) (35.59 %  de rebaja) aqui!
 
-[![Hi-Tec Ula Raft  Sandalias Deportivas pa](https://m.media-amazon.com/images/I/41FI6vc7HJL._SL200_.jpg)](https://www.amazon.es/dp/B07Z6WF4J9/?tag=tolees-21)
+[![Hi-Tec Ula Raft  Sandalias Deportivas pa](https://m.media-amazon.com/images/I/41FI6vc7HJL._SL400_.jpg)](https://www.amazon.es/dp/B07Z6WF4J9/?tag=tolees-21)
 
 🔎:
 

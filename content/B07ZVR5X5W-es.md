@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.50 % en Levi s 512 Slim Taper Fit Jean Vaqueros '
 date: 2020-09-17 05:57:53
-image: 'https://m.media-amazon.com/images/I/41Rlr0-dPcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rlr0-dPcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.0'
 
 Tienes [Levi s 512 Slim Taper Fit Jean Vaqueros  Sage Nightshade ADV Tnl  32W / 34L para Hombre](https://www.amazon.es/dp/B07ZVR5X5W/?tag=tolees-21) con un 37.50 % de descuento con precio de oferta de 75.0 EUR (original: 120.0 EUR) en el siguiente enlace!
 
-[![Levi s 512 Slim Taper Fit Jean Vaqueros ](https://m.media-amazon.com/images/I/41Rlr0-dPcL._SL200_.jpg)](https://www.amazon.es/dp/B07ZVR5X5W/?tag=tolees-21)
+[![Levi s 512 Slim Taper Fit Jean Vaqueros ](https://m.media-amazon.com/images/I/41Rlr0-dPcL._SL400_.jpg)](https://www.amazon.es/dp/B07ZVR5X5W/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Classic Clog K  Zuecos Unisex Niño al 39.98 % de descuento'
 date: 2020-08-16 09:45:07
-image: 'https://m.media-amazon.com/images/I/41s0w4ZelML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s0w4ZelML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.2'
 
 Ahora mismo tienes [Crocs Classic Clog K  Zuecos Unisex Niños  Rosa  Pink Lemonade   24/25 EU](https://www.amazon.es/dp/B07K8YRKD2/?tag=tolees-21) a 16.2 EUR (original: 26.99 EUR) (39.98 %  de descuento) en el siguiente enlace!
 
-[![Crocs Classic Clog K  Zuecos Unisex Niño](https://m.media-amazon.com/images/I/41s0w4ZelML._SL200_.jpg)](https://www.amazon.es/dp/B07K8YRKD2/?tag=tolees-21)
+[![Crocs Classic Clog K  Zuecos Unisex Niño](https://m.media-amazon.com/images/I/41s0w4ZelML._SL400_.jpg)](https://www.amazon.es/dp/B07K8YRKD2/?tag=tolees-21)
 
 🔎:
 

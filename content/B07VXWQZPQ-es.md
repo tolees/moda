@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Charing Camiseta  Verde  Pond al 35.75 % de descuento'
 date: 2020-05-13 07:32:44
-image: 'https://m.media-amazon.com/images/I/41b-tMZsJpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b-tMZsJpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Ahora mismo tienes [Pepe Jeans Charing Camiseta  Verde  Pond 774   XX-Large para Hombre](https://www.amazon.es/dp/B07VXWQZPQ/?tag=tolees-21) a 17.99 EUR (original: 28.0 EUR) (35.75 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Charing Camiseta  Verde  Pond](https://m.media-amazon.com/images/I/41b-tMZsJpL._SL200_.jpg)](https://www.amazon.es/dp/B07VXWQZPQ/?tag=tolees-21)
+[![Pepe Jeans Charing Camiseta  Verde  Pond](https://m.media-amazon.com/images/I/41b-tMZsJpL._SL400_.jpg)](https://www.amazon.es/dp/B07VXWQZPQ/?tag=tolees-21)
 
 🔎:
 

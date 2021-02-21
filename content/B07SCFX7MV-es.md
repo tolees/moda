@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Mh Plain tee Camiseta de Manga Co al 61.48 % de descuento'
 date: 2020-09-14 08:23:54
-image: 'https://m.media-amazon.com/images/I/41yCZLZ0erL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yCZLZ0erL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.61'
 
 Ahora mismo tienes [adidas Mh Plain tee Camiseta de Manga Corta  Hombre  Medium Grey Heather  M](https://www.amazon.es/dp/B07SCFX7MV/?tag=tolees-21) a 9.61 EUR (original: 24.95 EUR) (61.48 %  de descuento) en el siguiente enlace!
 
-[![adidas Mh Plain tee Camiseta de Manga Co](https://m.media-amazon.com/images/I/41yCZLZ0erL._SL200_.jpg)](https://www.amazon.es/dp/B07SCFX7MV/?tag=tolees-21)
+[![adidas Mh Plain tee Camiseta de Manga Co](https://m.media-amazon.com/images/I/41yCZLZ0erL._SL400_.jpg)](https://www.amazon.es/dp/B07SCFX7MV/?tag=tolees-21)
 
 🔎:
 

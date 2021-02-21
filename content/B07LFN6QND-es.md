@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s LS Baby tee Camiseta  Gris  Smoke al 50.00 % de descuento'
 date: 2020-01-05 09:14:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zPKUNEnXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zPKUNEnXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.5'
 
 Está [Levi s LS Baby tee Camiseta  Gris  Smokestack Heather 0004   Medium para Mujer](https://www.amazon.es/dp/B07LFN6QND/?tag=tolees-21) con 50.00 de descuento por 17.5 EUR (original: 35 EUR) en el siguiente enlace!
 
-[![Levi s LS Baby tee Camiseta  Gris  Smoke](https://images-eu.ssl-images-amazon.com/images/I/41zPKUNEnXL._SL200_.jpg)](https://www.amazon.es/dp/B07LFN6QND/?tag=tolees-21)
+[![Levi s LS Baby tee Camiseta  Gris  Smoke](https://images-eu.ssl-images-amazon.com/images/I/41zPKUNEnXL._SL400_.jpg)](https://www.amazon.es/dp/B07LFN6QND/?tag=tolees-21)
 
 ℹ️:
 

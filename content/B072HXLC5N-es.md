@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.05 % en Chaqueta Softshell Inatye'
 date: 2020-09-23 08:08:22
-image: 'https://m.media-amazon.com/images/I/41H3xVFleyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H3xVFleyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.98'
 
 Tienes [Chaqueta Softshell Inatye](https://www.amazon.es/dp/B072HXLC5N/?tag=tolees-21) con un 35.05 % de descuento con precio de oferta de 49.98 EUR (original: 76.95 EUR) en el siguiente enlace!
 
-[![Chaqueta Softshell Inatye](https://m.media-amazon.com/images/I/41H3xVFleyL._SL200_.jpg)](https://www.amazon.es/dp/B072HXLC5N/?tag=tolees-21)
+[![Chaqueta Softshell Inatye](https://m.media-amazon.com/images/I/41H3xVFleyL._SL400_.jpg)](https://www.amazon.es/dp/B072HXLC5N/?tag=tolees-21)
 
 ℹ️:
 

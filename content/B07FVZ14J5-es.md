@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.01 % en adidas PANTALÓN Entrenamiento Core 30 Fú'
 date: 2020-05-08 16:32:44
-image: 'https://m.media-amazon.com/images/I/31eRInOlcOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eRInOlcOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Tienes [adidas PANTALÓN Entrenamiento Core 30 Fútbol  Adolescentes y Ninos  Azul  Dark Blue/White   176](https://www.amazon.es/dp/B07FVZ14J5/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![adidas PANTALÓN Entrenamiento Core 30 Fú](https://m.media-amazon.com/images/I/31eRInOlcOL._SL200_.jpg)](https://www.amazon.es/dp/B07FVZ14J5/?tag=tolees-21)
+[![adidas PANTALÓN Entrenamiento Core 30 Fú](https://m.media-amazon.com/images/I/31eRInOlcOL._SL400_.jpg)](https://www.amazon.es/dp/B07FVZ14J5/?tag=tolees-21)
 
 ℹ️:
 

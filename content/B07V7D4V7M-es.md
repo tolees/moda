@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Biado r Camisa  Azul  Bright Blue 4 al 39.47 % de descuento'
 date: 2020-08-10 05:00:36
-image: 'https://m.media-amazon.com/images/I/41GvKoAk+fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GvKoAk+fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '78.51470588235293'
 
 Ahora mismo tienes [BOSS Biado r Camisa  Azul  Bright Blue 436   Large para Hombre](https://www.amazon.es/dp/B07V7D4V7M/?tag=tolees-21) a 60.5 EUR (original: 99.95 EUR) (39.47 %  de descuento) en el siguiente enlace!
 
-[![BOSS Biado r Camisa  Azul  Bright Blue 4](https://m.media-amazon.com/images/I/41GvKoAk+fL._SL200_.jpg)](https://www.amazon.es/dp/B07V7D4V7M/?tag=tolees-21)
+[![BOSS Biado r Camisa  Azul  Bright Blue 4](https://m.media-amazon.com/images/I/41GvKoAk+fL._SL400_.jpg)](https://www.amazon.es/dp/B07V7D4V7M/?tag=tolees-21)
 
 🔎:
 

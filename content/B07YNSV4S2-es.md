@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Hurrache Sandalias con Punta Cerra al 63.62 % de descuento'
 date: 2020-08-01 16:16:15
-image: 'https://m.media-amazon.com/images/I/31kI3uwRDCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kI3uwRDCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.97'
 
 Ahora mismo tienes [find. Hurrache Sandalias con Punta Cerrada  Beige  Snake   38 EU](https://www.amazon.es/dp/B07YNSV4S2/?tag=tolees-21) a 15.97 EUR (original: 43.9 EUR) (63.62 %  de descuento) en el siguiente enlace!
 
-[![find. Hurrache Sandalias con Punta Cerra](https://m.media-amazon.com/images/I/31kI3uwRDCL._SL200_.jpg)](https://www.amazon.es/dp/B07YNSV4S2/?tag=tolees-21)
+[![find. Hurrache Sandalias con Punta Cerra](https://m.media-amazon.com/images/I/31kI3uwRDCL._SL400_.jpg)](https://www.amazon.es/dp/B07YNSV4S2/?tag=tolees-21)
 
 🔎:
 

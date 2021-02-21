@@ -2,7 +2,7 @@
 layout: post
 title: 'MTNG Collection 58027  Botines para Muje con un 35.96 % de descuento'
 date: 2020-01-29 12:18:40
-image: 'https://m.media-amazon.com/images/I/41GVbRkv2AL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GVbRkv2AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.28'
 
 En este momento está [MTNG Collection 58027  Botines para Mujer  Marrón  Vintage Marron C47320   39 EU](https://www.amazon.es/dp/B07QH193DX/?tag=tolees-21) a 21.28 EUR (original: 33.23 EUR) (35.96 %  de descuento) en el siguiente enlace!
 
-[![MTNG Collection 58027  Botines para Muje](https://m.media-amazon.com/images/I/41GVbRkv2AL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QH193DX/?tag=tolees-21)
+[![MTNG Collection 58027  Botines para Muje](https://m.media-amazon.com/images/I/41GVbRkv2AL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QH193DX/?tag=tolees-21)
 
 🔎:
 

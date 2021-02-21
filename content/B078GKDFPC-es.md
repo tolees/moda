@@ -2,7 +2,7 @@
 layout: post
 title: 'GRITION Sandalias Hombre Verano Piel  Pu con un 23.35 % de descuento'
 date: 2020-06-25 14:09:59
-image: 'https://m.media-amazon.com/images/I/41H6zHwxv1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H6zHwxv1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.99'
 
 En este momento está [GRITION Sandalias Hombre Verano Piel  Punta Cerrada Sandalias Gladiador Correa Ajustable de Malla y PU para Deportes de Trekking  41EU BO ](https://www.amazon.es/dp/B078GKDFPC/?tag=tolees-21) a 45.99 EUR (original: 60.0 EUR) (23.35 %  de descuento) en el siguiente enlace!
 
-[![GRITION Sandalias Hombre Verano Piel  Pu](https://m.media-amazon.com/images/I/41H6zHwxv1L._SL200_.jpg)](https://www.amazon.es/dp/B078GKDFPC/?tag=tolees-21)
+[![GRITION Sandalias Hombre Verano Piel  Pu](https://m.media-amazon.com/images/I/41H6zHwxv1L._SL400_.jpg)](https://www.amazon.es/dp/B078GKDFPC/?tag=tolees-21)
 
 🔎:
 

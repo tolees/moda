@@ -2,7 +2,7 @@
 layout: post
 title: 'Joma Academy Camiseta Termica  Hombre  R al 27.83 % de descuento'
 date: 2020-06-01 09:36:49
-image: 'https://m.media-amazon.com/images/I/41kEZUp-CaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kEZUp-CaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.94'
 
 Ahora mismo tienes [Joma Academy Camiseta Termica  Hombre  Rojo  L-XL](https://www.amazon.es/dp/B07G9FB2PD/?tag=tolees-21) a 12.99 EUR (original: 18.0 EUR) (27.83 %  de descuento) en el siguiente enlace!
 
-[![Joma Academy Camiseta Termica  Hombre  R](https://m.media-amazon.com/images/I/41kEZUp-CaL._SL200_.jpg)](https://www.amazon.es/dp/B07G9FB2PD/?tag=tolees-21)
+[![Joma Academy Camiseta Termica  Hombre  R](https://m.media-amazon.com/images/I/41kEZUp-CaL._SL400_.jpg)](https://www.amazon.es/dp/B07G9FB2PD/?tag=tolees-21)
 
 🔎:
 

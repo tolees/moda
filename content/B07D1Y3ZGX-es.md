@@ -2,7 +2,7 @@
 layout: post
 title: 'Dainese Hp1m1 - Chaqueta de esquí para H con un 44.00 % de descuento'
 date: 2020-06-08 07:05:47
-image: 'https://m.media-amazon.com/images/I/41dAh3uabcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dAh3uabcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '503.44'
 
 En este momento está [Dainese Hp1m1 - Chaqueta de esquí para Hombre  Invierno  Hombre  Color Schwarz-Iris/Chili-Pepper  tamaño Medium](https://www.amazon.es/dp/B07D1Y3ZGX/?tag=tolees-21) a 503.44 EUR (original: 899.0 EUR) (44.00 %  de descuento) en el siguiente enlace!
 
-[![Dainese Hp1m1 - Chaqueta de esquí para H](https://m.media-amazon.com/images/I/41dAh3uabcL._SL200_.jpg)](https://www.amazon.es/dp/B07D1Y3ZGX/?tag=tolees-21)
+[![Dainese Hp1m1 - Chaqueta de esquí para H](https://m.media-amazon.com/images/I/41dAh3uabcL._SL400_.jpg)](https://www.amazon.es/dp/B07D1Y3ZGX/?tag=tolees-21)
 
 🔎:
 

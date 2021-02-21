@@ -2,7 +2,7 @@
 layout: post
 title: 'Morgan Mentos Camiseta  Blanco  Off Whit al 36.60 % de rebaja'
 date: 2020-01-07 01:08:16
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31s0l6beQBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31s0l6beQBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.675'
 
 Tienes [Morgan Mentos Camiseta  Blanco  Off White Off White   Medium  Talla del Fabricante: TM  para Mujer](https://www.amazon.es/dp/B01HZ2UM4E/?tag=tolees-21) con precio final de  15.85 EUR (original: 25 EUR) (36.60 %  de rebaja) aqui!
 
-[![Morgan Mentos Camiseta  Blanco  Off Whit](https://images-eu.ssl-images-amazon.com/images/I/31s0l6beQBL._SL200_.jpg)](https://www.amazon.es/dp/B01HZ2UM4E/?tag=tolees-21)
+[![Morgan Mentos Camiseta  Blanco  Off Whit](https://images-eu.ssl-images-amazon.com/images/I/31s0l6beQBL._SL400_.jpg)](https://www.amazon.es/dp/B01HZ2UM4E/?tag=tolees-21)
 
 🔎:
 

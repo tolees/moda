@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen W Daybreaker Chaqueta  Muje al 46.95 % de descuento'
 date: 2020-01-15 20:03:36
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZVWpC0rEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZVWpC0rEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.83'
 
 Está [Helly Hansen W Daybreaker Chaqueta  Mujer  Navy  S](https://www.amazon.es/dp/B07KFW6HFV/?tag=tolees-21) con 46.95 de descuento por 31.83 EUR (original: 60 EUR) en el siguiente enlace!
 
-[![Helly Hansen W Daybreaker Chaqueta  Muje](https://images-eu.ssl-images-amazon.com/images/I/31ZVWpC0rEL._SL200_.jpg)](https://www.amazon.es/dp/B07KFW6HFV/?tag=tolees-21)
+[![Helly Hansen W Daybreaker Chaqueta  Muje](https://images-eu.ssl-images-amazon.com/images/I/31ZVWpC0rEL._SL400_.jpg)](https://www.amazon.es/dp/B07KFW6HFV/?tag=tolees-21)
 
 ℹ️:
 

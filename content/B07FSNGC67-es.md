@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Mena Blossom  Zapatos de Tacón pa al 50.03 % de descuento'
 date: 2020-04-21 01:25:14
-image: 'https://m.media-amazon.com/images/I/319zN8zFD9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319zN8zFD9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.72'
 
 Ahora mismo tienes [Clarks Mena Blossom  Zapatos de Tacón para Mujer  Plateado  Champagne-   39.5 EU](https://www.amazon.es/dp/B07FSNGC67/?tag=tolees-21) a 44.95 EUR (original: 89.95 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![Clarks Mena Blossom  Zapatos de Tacón pa](https://m.media-amazon.com/images/I/319zN8zFD9L._SL200_.jpg)](https://www.amazon.es/dp/B07FSNGC67/?tag=tolees-21)
+[![Clarks Mena Blossom  Zapatos de Tacón pa](https://m.media-amazon.com/images/I/319zN8zFD9L._SL400_.jpg)](https://www.amazon.es/dp/B07FSNGC67/?tag=tolees-21)
 
 🔎:
 

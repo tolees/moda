@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 45.01 % en Columbia Midweight Stretch Half Zip Cami'
 date: 2020-02-16 20:42:54
-image: 'https://m.media-amazon.com/images/I/41as20h2gfL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41as20h2gfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Tienes [Columbia Midweight Stretch Half Zip Camiseta técnica con Media Cremallera  Poliéster  Negro  Talla M](https://www.amazon.es/dp/B0162OFDJ0/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 32.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![Columbia Midweight Stretch Half Zip Cami](https://m.media-amazon.com/images/I/41as20h2gfL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0162OFDJ0/?tag=tolees-21)
+[![Columbia Midweight Stretch Half Zip Cami](https://m.media-amazon.com/images/I/41as20h2gfL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0162OFDJ0/?tag=tolees-21)
 
 ℹ️:
 

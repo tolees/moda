@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Un Trek Part  Sandalias de Talón  con un 45.02 % de descuento'
 date: 2020-09-10 18:01:20
-image: 'https://m.media-amazon.com/images/I/416wGYAlxqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416wGYAlxqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.83'
 
 En este momento está [Clarks Un Trek Part  Sandalias de Talón Abierto para Hombre  Marrón  Dark Tan Lea-   43 EU](https://www.amazon.es/dp/B075PFW3VV/?tag=tolees-21) a 54.95 EUR (original: 99.95 EUR) (45.02 %  de descuento) en el siguiente enlace!
 
-[![Clarks Un Trek Part  Sandalias de Talón ](https://m.media-amazon.com/images/I/416wGYAlxqL._SL200_.jpg)](https://www.amazon.es/dp/B075PFW3VV/?tag=tolees-21)
+[![Clarks Un Trek Part  Sandalias de Talón ](https://m.media-amazon.com/images/I/416wGYAlxqL._SL400_.jpg)](https://www.amazon.es/dp/B075PFW3VV/?tag=tolees-21)
 
 🔎:
 

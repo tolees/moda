@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.00 % en Pepe Jeans New Brooke Vaqueros Hombre Aj'
 date: 2020-09-24 15:22:21
-image: 'https://m.media-amazon.com/images/I/41BbVDgzR3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BbVDgzR3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.0'
 
 Tienes [Pepe Jeans New Brooke Vaqueros Hombre Ajustados  Azul  Denim GN2   27W / 32L para Mujer](https://www.amazon.es/dp/B07CSBM2X5/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 38.0 EUR (original: 95.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans New Brooke Vaqueros Hombre Aj](https://m.media-amazon.com/images/I/41BbVDgzR3L._SL200_.jpg)](https://www.amazon.es/dp/B07CSBM2X5/?tag=tolees-21)
+[![Pepe Jeans New Brooke Vaqueros Hombre Aj](https://m.media-amazon.com/images/I/41BbVDgzR3L._SL400_.jpg)](https://www.amazon.es/dp/B07CSBM2X5/?tag=tolees-21)
 
 ℹ️:
 

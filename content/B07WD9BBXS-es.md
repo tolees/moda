@@ -2,7 +2,7 @@
 layout: post
 title: 'VECDY Camisetas Mujer  Blusas Elegante 2 al 49.83 % de rebaja'
 date: 2020-05-13 08:02:03
-image: 'https://m.media-amazon.com/images/I/41loKlqXh+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41loKlqXh+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.5'
 
 Tienes [VECDY Camisetas Mujer  Blusas Elegante 2019 Sudadera De Patchwork De Encaje De Manga Larga con Cuello En O para Mujer Top Sexy Suave Camisetas Casual Ropa De Fiesta Cita Compras Negro 5XL ](https://www.amazon.es/dp/B07WD9BBXS/?tag=tolees-21) con precio final de  1.5 EUR (original: 2.99 EUR) (49.83 %  de rebaja) aqui!
 
-[![VECDY Camisetas Mujer  Blusas Elegante 2](https://m.media-amazon.com/images/I/41loKlqXh+L._SL200_.jpg)](https://www.amazon.es/dp/B07WD9BBXS/?tag=tolees-21)
+[![VECDY Camisetas Mujer  Blusas Elegante 2](https://m.media-amazon.com/images/I/41loKlqXh+L._SL400_.jpg)](https://www.amazon.es/dp/B07WD9BBXS/?tag=tolees-21)
 
 🔎:
 

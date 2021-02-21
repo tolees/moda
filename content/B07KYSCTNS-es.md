@@ -2,7 +2,7 @@
 layout: post
 title: 'The Drop Maya Falda con efecto seda para al 52.01 % de descuento'
 date: 2020-06-27 12:25:46
-image: 'https://m.media-amazon.com/images/I/31V9WgMhVQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V9WgMhVQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.75'
 
 Ahora mismo tienes [The Drop Maya Falda con efecto seda para mujer  fucsia  S](https://www.amazon.es/dp/B07KYSCTNS/?tag=tolees-21) a 16.75 EUR (original: 34.9 EUR) (52.01 %  de descuento) en el siguiente enlace!
 
-[![The Drop Maya Falda con efecto seda para](https://m.media-amazon.com/images/I/31V9WgMhVQL._SL200_.jpg)](https://www.amazon.es/dp/B07KYSCTNS/?tag=tolees-21)
+[![The Drop Maya Falda con efecto seda para](https://m.media-amazon.com/images/I/31V9WgMhVQL._SL400_.jpg)](https://www.amazon.es/dp/B07KYSCTNS/?tag=tolees-21)
 
 🔎:
 

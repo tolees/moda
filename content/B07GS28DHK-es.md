@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Newport Bay-Canvas  Zapatilla con un 62.02 % de descuento'
 date: 2020-01-11 11:09:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjTsQxXwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjTsQxXwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.674999999999997'
 
 En este momento está [Timberland Newport Bay-Canvas  Zapatillas Unisex Niños  Azul  Black Iris   39 EU](https://www.amazon.es/dp/B07GS28DHK/?tag=tolees-21) a 18.99 EUR (original: 50 EUR) (62.02 %  de descuento) en el siguiente enlace!
 
-[![Timberland Newport Bay-Canvas  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41SjTsQxXwL._SL200_.jpg)](https://www.amazon.es/dp/B07GS28DHK/?tag=tolees-21)
+[![Timberland Newport Bay-Canvas  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41SjTsQxXwL._SL400_.jpg)](https://www.amazon.es/dp/B07GS28DHK/?tag=tolees-21)
 
 🔎:
 

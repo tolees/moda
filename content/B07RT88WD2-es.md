@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Hatch Vaqueros Hombre Ajustad al 40.37 % de descuento'
 date: 2020-06-27 22:54:29
-image: 'https://m.media-amazon.com/images/I/31Qh8CuvtLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Qh8CuvtLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.02'
 
 Ahora mismo tienes [Pepe Jeans Hatch Vaqueros Hombre Ajustados  Gris  Grey Wiser Wash 000   W32/L32](https://www.amazon.es/dp/B07RT88WD2/?tag=tolees-21) a 48.02 EUR (original: 80.53 EUR) (40.37 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Hatch Vaqueros Hombre Ajustad](https://m.media-amazon.com/images/I/31Qh8CuvtLL._SL200_.jpg)](https://www.amazon.es/dp/B07RT88WD2/?tag=tolees-21)
+[![Pepe Jeans Hatch Vaqueros Hombre Ajustad](https://m.media-amazon.com/images/I/31Qh8CuvtLL._SL400_.jpg)](https://www.amazon.es/dp/B07RT88WD2/?tag=tolees-21)
 
 🔎:
 

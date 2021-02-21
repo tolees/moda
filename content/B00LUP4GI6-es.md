@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Freesail Clog  Zuecos para Mujer   al 39.98 % de descuento'
 date: 2020-02-10 10:53:59
-image: 'https://m.media-amazon.com/images/I/31PkThZbhwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PkThZbhwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.0'
 
 Está [Crocs Freesail Clog  Zuecos para Mujer  Negro  Black   42/43 EU](https://www.amazon.es/dp/B00LUP4GI6/?tag=tolees-21) con 39.98 de descuento por 21.0 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![Crocs Freesail Clog  Zuecos para Mujer  ](https://m.media-amazon.com/images/I/31PkThZbhwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00LUP4GI6/?tag=tolees-21)
+[![Crocs Freesail Clog  Zuecos para Mujer  ](https://m.media-amazon.com/images/I/31PkThZbhwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00LUP4GI6/?tag=tolees-21)
 
 ℹ️:
 

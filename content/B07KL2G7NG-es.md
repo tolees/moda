@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Essentials Linear Logo tee Camise al 26.02 % de descuento'
 date: 2020-06-13 21:36:25
-image: 'https://m.media-amazon.com/images/I/3150tLGaIxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3150tLGaIxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.782000000000002'
 
 Ahora mismo tienes [adidas Essentials Linear Logo tee Camiseta  Hombre  Blanco  White/Black   L](https://www.amazon.es/dp/B07KL2G7NG/?tag=tolees-21) a 9.98 EUR (original: 13.49 EUR) (26.02 %  de descuento) en el siguiente enlace!
 
-[![adidas Essentials Linear Logo tee Camise](https://m.media-amazon.com/images/I/3150tLGaIxL._SL200_.jpg)](https://www.amazon.es/dp/B07KL2G7NG/?tag=tolees-21)
+[![adidas Essentials Linear Logo tee Camise](https://m.media-amazon.com/images/I/3150tLGaIxL._SL400_.jpg)](https://www.amazon.es/dp/B07KL2G7NG/?tag=tolees-21)
 
 🔎:
 

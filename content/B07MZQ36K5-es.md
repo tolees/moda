@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 63.71 % en Pepe Jeans Lucas Sudadera   Ivy 673   La'
 date: 2020-03-09 14:02:53
-image: 'https://m.media-amazon.com/images/I/31Cs+sNxZGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Cs+sNxZGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.595'
 
 Tienes [Pepe Jeans Lucas Sudadera   Ivy 673   Large para Hombre](https://www.amazon.es/dp/B07MZQ36K5/?tag=tolees-21) con un 63.71 % de descuento con precio de oferta de 23.59 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Lucas Sudadera   Ivy 673   La](https://m.media-amazon.com/images/I/31Cs+sNxZGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MZQ36K5/?tag=tolees-21)
+[![Pepe Jeans Lucas Sudadera   Ivy 673   La](https://m.media-amazon.com/images/I/31Cs+sNxZGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MZQ36K5/?tag=tolees-21)
 
 ℹ️:
 

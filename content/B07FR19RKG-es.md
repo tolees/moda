@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Step Beat Dune  Zapatos de Cordon al 30.03 % de rebaja'
 date: 2020-06-15 15:47:28
-image: 'https://m.media-amazon.com/images/I/31AOEoY+PNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AOEoY+PNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.02166666666667'
 
 Tienes [Clarks Step Beat Dune  Zapatos de Cordones Derby para Hombre  Azul  Navy-   39.5 EU](https://www.amazon.es/dp/B07FR19RKG/?tag=tolees-21) con precio final de  38.45 EUR (original: 54.95 EUR) (30.03 %  de rebaja) aqui!
 
-[![Clarks Step Beat Dune  Zapatos de Cordon](https://m.media-amazon.com/images/I/31AOEoY+PNL._SL200_.jpg)](https://www.amazon.es/dp/B07FR19RKG/?tag=tolees-21)
+[![Clarks Step Beat Dune  Zapatos de Cordon](https://m.media-amazon.com/images/I/31AOEoY+PNL._SL400_.jpg)](https://www.amazon.es/dp/B07FR19RKG/?tag=tolees-21)
 
 🔎:
 

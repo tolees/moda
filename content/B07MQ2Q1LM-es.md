@@ -2,7 +2,7 @@
 layout: post
 title: 'HKT by Hackett Hkt Crew Sudadera   Petro al 16.02 % de descuento'
 date: 2020-03-29 19:55:12
-image: 'https://m.media-amazon.com/images/I/41KqxlDIk9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KqxlDIk9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.88'
 
 Está [HKT by Hackett Hkt Crew Sudadera   Petroleo 5er   Medium para Hombre](https://www.amazon.es/dp/B07MQ2Q1LM/?tag=tolees-21) con 16.02 de descuento por 15.88 EUR (original: 18.91 EUR) en el siguiente enlace!
 
-[![HKT by Hackett Hkt Crew Sudadera   Petro](https://m.media-amazon.com/images/I/41KqxlDIk9L._SL200_.jpg)](https://www.amazon.es/dp/B07MQ2Q1LM/?tag=tolees-21)
+[![HKT by Hackett Hkt Crew Sudadera   Petro](https://m.media-amazon.com/images/I/41KqxlDIk9L._SL400_.jpg)](https://www.amazon.es/dp/B07MQ2Q1LM/?tag=tolees-21)
 
 ℹ️:
 

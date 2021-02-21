@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Track Top LS HWK Sudadera con un 35.64 % de descuento'
 date: 2020-03-30 17:30:27
-image: 'https://m.media-amazon.com/images/I/41oV9XtBpQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oV9XtBpQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.99'
 
 En este momento está [Tommy Hilfiger Track Top LS HWK Sudadera  Gris  Grey Heather 004   Small para Hombre](https://www.amazon.es/dp/B0788CGDN8/?tag=tolees-21) a 44.99 EUR (original: 69.9 EUR) (35.64 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Track Top LS HWK Sudadera](https://m.media-amazon.com/images/I/41oV9XtBpQL._SL200_.jpg)](https://www.amazon.es/dp/B0788CGDN8/?tag=tolees-21)
+[![Tommy Hilfiger Track Top LS HWK Sudadera](https://m.media-amazon.com/images/I/41oV9XtBpQL._SL400_.jpg)](https://www.amazon.es/dp/B0788CGDN8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Graphic 13 Round Neck Camiset al 50.01 % de descuento'
 date: 2020-02-22 11:03:31
-image: 'https://m.media-amazon.com/images/I/41sGJVPnMUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sGJVPnMUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.97'
 
 Ahora mismo tienes [G-STAR RAW Graphic 13 Round Neck Camiseta  Multicolor  Dk Shamrock/Asfalt Ao A695   Small para Hombre](https://www.amazon.es/dp/B07NDMZWMD/?tag=tolees-21) a 19.97 EUR (original: 39.95 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Graphic 13 Round Neck Camiset](https://m.media-amazon.com/images/I/41sGJVPnMUL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NDMZWMD/?tag=tolees-21)
+[![G-STAR RAW Graphic 13 Round Neck Camiset](https://m.media-amazon.com/images/I/41sGJVPnMUL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NDMZWMD/?tag=tolees-21)
 
 🔎:
 

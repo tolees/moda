@@ -2,7 +2,7 @@
 layout: post
 title: 'NJunicorn Uncle Borderlands Cosplay - Su al 33.72 % de descuento'
 date: 2020-06-18 10:04:19
-image: 'https://m.media-amazon.com/images/I/41BWmdNGpNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BWmdNGpNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.42'
 
 Está [NJunicorn Uncle Borderlands Cosplay - Sudadera con capucha para hombre  impresión 3D 03 S](https://www.amazon.es/dp/B07VC6ZQK6/?tag=tolees-21) con 33.72 de descuento por 28.42 EUR (original: 42.88 EUR) en el siguiente enlace!
 
-[![NJunicorn Uncle Borderlands Cosplay - Su](https://m.media-amazon.com/images/I/41BWmdNGpNL._SL200_.jpg)](https://www.amazon.es/dp/B07VC6ZQK6/?tag=tolees-21)
+[![NJunicorn Uncle Borderlands Cosplay - Su](https://m.media-amazon.com/images/I/41BWmdNGpNL._SL400_.jpg)](https://www.amazon.es/dp/B07VC6ZQK6/?tag=tolees-21)
 
 ℹ️:
 

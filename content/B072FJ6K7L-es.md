@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour MK1 Shorts Pantalón Corto   al 57.29 % de descuento'
 date: 2020-04-06 09:55:36
-image: 'https://m.media-amazon.com/images/I/41yGF9wd0iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yGF9wd0iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.35'
 
 Ahora mismo tienes [Under Armour MK1 Shorts Pantalón Corto  Hombre  Negro  Black/Stealth Gray 001   XL](https://www.amazon.es/dp/B072FJ6K7L/?tag=tolees-21) a 14.95 EUR (original: 35.0 EUR) (57.29 %  de descuento) en el siguiente enlace!
 
-[![Under Armour MK1 Shorts Pantalón Corto  ](https://m.media-amazon.com/images/I/41yGF9wd0iL._SL200_.jpg)](https://www.amazon.es/dp/B072FJ6K7L/?tag=tolees-21)
+[![Under Armour MK1 Shorts Pantalón Corto  ](https://m.media-amazon.com/images/I/41yGF9wd0iL._SL400_.jpg)](https://www.amazon.es/dp/B072FJ6K7L/?tag=tolees-21)
 
 🔎:
 

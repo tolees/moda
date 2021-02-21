@@ -2,7 +2,7 @@
 layout: post
 title: 'MERAKI Boxy chaqueta punto  Negro Black  al 36.50 % de descuento'
 date: 2020-05-02 22:01:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31zllkybqbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zllkybqbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.5'
 
 Ahora mismo tienes [MERAKI Boxy chaqueta punto  Negro Black   Medium](https://www.amazon.es/dp/B07G7C9PT7/?tag=tolees-21) a 17.5 EUR (original: 27.56 EUR) (36.50 %  de descuento) en el siguiente enlace!
 
-[![MERAKI Boxy chaqueta punto  Negro Black ](https://images-eu.ssl-images-amazon.com/images/I/31zllkybqbL._SL200_.jpg)](https://www.amazon.es/dp/B07G7C9PT7/?tag=tolees-21)
+[![MERAKI Boxy chaqueta punto  Negro Black ](https://images-eu.ssl-images-amazon.com/images/I/31zllkybqbL._SL400_.jpg)](https://www.amazon.es/dp/B07G7C9PT7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Core18 W Camiseta Polo  Mujer  Da al 41.00 % de rebaja'
 date: 2020-05-27 18:34:28
-image: 'https://m.media-amazon.com/images/I/31xIBLOIOsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xIBLOIOsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.49'
 
 Tienes [adidas Core18 W Camiseta Polo  Mujer  Dark Blue/White  2XL](https://www.amazon.es/dp/B077BMLV4L/?tag=tolees-21) con precio final de  16.49 EUR (original: 27.95 EUR) (41.00 %  de rebaja) aqui!
 
-[![adidas Core18 W Camiseta Polo  Mujer  Da](https://m.media-amazon.com/images/I/31xIBLOIOsL._SL200_.jpg)](https://www.amazon.es/dp/B077BMLV4L/?tag=tolees-21)
+[![adidas Core18 W Camiseta Polo  Mujer  Da](https://m.media-amazon.com/images/I/31xIBLOIOsL._SL400_.jpg)](https://www.amazon.es/dp/B077BMLV4L/?tag=tolees-21)
 
 🔎:
 

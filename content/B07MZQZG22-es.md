@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Golders Camiseta  Gris  Misty al 39.32 % de descuento'
 date: 2020-05-11 18:18:32
-image: 'https://m.media-amazon.com/images/I/41gkEynT1PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gkEynT1PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Ahora mismo tienes [Pepe Jeans Golders Camiseta  Gris  Misty Grey 921   Medium para Hombre](https://www.amazon.es/dp/B07MZQZG22/?tag=tolees-21) a 16.99 EUR (original: 28.0 EUR) (39.32 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Golders Camiseta  Gris  Misty](https://m.media-amazon.com/images/I/41gkEynT1PL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQZG22/?tag=tolees-21)
+[![Pepe Jeans Golders Camiseta  Gris  Misty](https://m.media-amazon.com/images/I/41gkEynT1PL._SL400_.jpg)](https://www.amazon.es/dp/B07MZQZG22/?tag=tolees-21)
 
 🔎:
 

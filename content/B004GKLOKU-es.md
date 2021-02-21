@@ -2,7 +2,7 @@
 layout: post
 title: 'arena 92338  Gafas de Natación Infantil  al 29.78 % de rebaja'
 date: 2020-06-01 13:04:54
-image: 'https://m.media-amazon.com/images/I/31euvE4VzbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31euvE4VzbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.75'
 
 Tienes [arena 92338  Gafas de Natación Infantil  Multicolor  violet / clear   Talla única](https://www.amazon.es/dp/B004GKLOKU/?tag=tolees-21) con precio final de  8.75 EUR (original: 12.46 EUR) (29.78 %  de rebaja) aqui!
 
-[![arena 92338  Gafas de Natación Infantil ](https://m.media-amazon.com/images/I/31euvE4VzbL._SL200_.jpg)](https://www.amazon.es/dp/B004GKLOKU/?tag=tolees-21)
+[![arena 92338  Gafas de Natación Infantil ](https://m.media-amazon.com/images/I/31euvE4VzbL._SL400_.jpg)](https://www.amazon.es/dp/B004GKLOKU/?tag=tolees-21)
 
 🔎:
 

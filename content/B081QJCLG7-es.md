@@ -2,7 +2,7 @@
 layout: post
 title: 'Tom Tailor Logo T-Shirt Camiseta  12880  al 59.97 % de descuento'
 date: 2020-08-30 23:26:51
-image: 'https://m.media-amazon.com/images/I/31eNXfmuPwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eNXfmuPwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.84'
 
 Ahora mismo tienes [Tom Tailor Logo T-Shirt Camiseta  12880  XXXL para Hombre](https://www.amazon.es/dp/B081QJCLG7/?tag=tolees-21) a 4.84 EUR (original: 12.09 EUR) (59.97 %  de descuento) en el siguiente enlace!
 
-[![Tom Tailor Logo T-Shirt Camiseta  12880 ](https://m.media-amazon.com/images/I/31eNXfmuPwL._SL200_.jpg)](https://www.amazon.es/dp/B081QJCLG7/?tag=tolees-21)
+[![Tom Tailor Logo T-Shirt Camiseta  12880 ](https://m.media-amazon.com/images/I/31eNXfmuPwL._SL400_.jpg)](https://www.amazon.es/dp/B081QJCLG7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Hatch  Vaqueros Slim para Hom al 40.60 % de descuento'
 date: 2020-06-11 22:01:18
-image: 'https://m.media-amazon.com/images/I/41YOhCA0g2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YOhCA0g2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.81666666666667'
 
 Está [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim Z45   W33/L32](https://www.amazon.es/dp/B01MPYF1DW/?tag=tolees-21) con 40.60 de descuento por 50.49 EUR (original: 85.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Hatch  Vaqueros Slim para Hom](https://m.media-amazon.com/images/I/41YOhCA0g2L._SL200_.jpg)](https://www.amazon.es/dp/B01MPYF1DW/?tag=tolees-21)
+[![Pepe Jeans Hatch  Vaqueros Slim para Hom](https://m.media-amazon.com/images/I/41YOhCA0g2L._SL400_.jpg)](https://www.amazon.es/dp/B01MPYF1DW/?tag=tolees-21)
 
 ℹ️:
 

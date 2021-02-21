@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Eyben Slim V T Wmn S/s Camise al 34.89 % de descuento'
 date: 2020-10-11 10:01:59
-image: 'https://m.media-amazon.com/images/I/31Esv6hLKiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Esv6hLKiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Está [G-STAR RAW Eyben Slim V T Wmn S/s Camiseta  Blanco  White 110   42  Talla del fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B01N6FAJFH/?tag=tolees-21) con 34.89 de descuento por 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Eyben Slim V T Wmn S/s Camise](https://m.media-amazon.com/images/I/31Esv6hLKiL._SL200_.jpg)](https://www.amazon.es/dp/B01N6FAJFH/?tag=tolees-21)
+[![G-STAR RAW Eyben Slim V T Wmn S/s Camise](https://m.media-amazon.com/images/I/31Esv6hLKiL._SL400_.jpg)](https://www.amazon.es/dp/B01N6FAJFH/?tag=tolees-21)
 
 ℹ️:
 

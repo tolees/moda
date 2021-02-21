@@ -2,7 +2,7 @@
 layout: post
 title: 'Joma 900038.800 - Camiseta para Mujer  C con un 43.33 % de descuento'
 date: 2020-08-08 20:10:50
-image: 'https://m.media-amazon.com/images/I/317EakhZGqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317EakhZGqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.76'
 
 En este momento está [Joma 900038.800 - Camiseta para Mujer  Color Naranja  Talla L](https://www.amazon.es/dp/B01CSU8R18/?tag=tolees-21) a 4.76 EUR (original: 8.4 EUR) (43.33 %  de descuento) en el siguiente enlace!
 
-[![Joma 900038.800 - Camiseta para Mujer  C](https://m.media-amazon.com/images/I/317EakhZGqL._SL200_.jpg)](https://www.amazon.es/dp/B01CSU8R18/?tag=tolees-21)
+[![Joma 900038.800 - Camiseta para Mujer  C](https://m.media-amazon.com/images/I/317EakhZGqL._SL400_.jpg)](https://www.amazon.es/dp/B01CSU8R18/?tag=tolees-21)
 
 🔎:
 

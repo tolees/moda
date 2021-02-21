@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Graphic Set-in Neck  Camiseta par al 54.40 % de rebaja'
 date: 2020-01-08 13:10:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41FMiw3XhVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FMiw3XhVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.350000000000001'
 
 Tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Blanco  Levis Logo White 0424   M](https://www.amazon.es/dp/B07CYP49MR/?tag=tolees-21) con precio final de  11.4 EUR (original: 25 EUR) (54.40 %  de rebaja) aqui!
 
-[![Levi s Graphic Set-in Neck  Camiseta par](https://images-eu.ssl-images-amazon.com/images/I/41FMiw3XhVL._SL200_.jpg)](https://www.amazon.es/dp/B07CYP49MR/?tag=tolees-21)
+[![Levi s Graphic Set-in Neck  Camiseta par](https://images-eu.ssl-images-amazon.com/images/I/41FMiw3XhVL._SL400_.jpg)](https://www.amazon.es/dp/B07CYP49MR/?tag=tolees-21)
 
 🔎:
 

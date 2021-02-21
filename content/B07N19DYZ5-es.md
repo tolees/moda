@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 83.08 % en Lee Shirt Dress Vestido  Rojo  Warp Red '
 date: 2020-03-14 20:08:13
-image: 'https://m.media-amazon.com/images/I/41rY1WK80DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rY1WK80DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.91'
 
 Tienes [Lee Shirt Dress Vestido  Rojo  Warp Red Kg   X-Large para Mujer](https://www.amazon.es/dp/B07N19DYZ5/?tag=tolees-21) con un 83.08 % de descuento con precio de oferta de 16.91 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Lee Shirt Dress Vestido  Rojo  Warp Red ](https://m.media-amazon.com/images/I/41rY1WK80DL._SL200_.jpg)](https://www.amazon.es/dp/B07N19DYZ5/?tag=tolees-21)
+[![Lee Shirt Dress Vestido  Rojo  Warp Red ](https://m.media-amazon.com/images/I/41rY1WK80DL._SL400_.jpg)](https://www.amazon.es/dp/B07N19DYZ5/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual TS varsovia Camiseta  Azul  Est al 50.06 % de descuento'
 date: 2020-09-15 10:12:14
-image: 'https://m.media-amazon.com/images/I/41UY8hkumPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UY8hkumPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Ahora mismo tienes [Desigual TS varsovia Camiseta  Azul  Estate Blue 5016   Small para Mujer](https://www.amazon.es/dp/B07VDFZKBT/?tag=tolees-21) a 19.95 EUR (original: 39.95 EUR) (50.06 %  de descuento) en el siguiente enlace!
 
-[![Desigual TS varsovia Camiseta  Azul  Est](https://m.media-amazon.com/images/I/41UY8hkumPL._SL200_.jpg)](https://www.amazon.es/dp/B07VDFZKBT/?tag=tolees-21)
+[![Desigual TS varsovia Camiseta  Azul  Est](https://m.media-amazon.com/images/I/41UY8hkumPL._SL400_.jpg)](https://www.amazon.es/dp/B07VDFZKBT/?tag=tolees-21)
 
 🔎:
 

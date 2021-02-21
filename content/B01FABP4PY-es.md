@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Raid 8 Shorts  pantalón  al 60.18 % de rebaja'
 date: 2020-06-28 20:41:45
-image: 'https://m.media-amazon.com/images/I/31VDapFldiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VDapFldiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.756666666666668'
 
 Tienes [Under Armour UA Raid 8 Shorts  pantalón Corto Hombre  Blanco  MD](https://www.amazon.es/dp/B01FABP4PY/?tag=tolees-21) con precio final de  13.14 EUR (original: 33.0 EUR) (60.18 %  de rebaja) aqui!
 
-[![Under Armour UA Raid 8 Shorts  pantalón ](https://m.media-amazon.com/images/I/31VDapFldiL._SL200_.jpg)](https://www.amazon.es/dp/B01FABP4PY/?tag=tolees-21)
+[![Under Armour UA Raid 8 Shorts  pantalón ](https://m.media-amazon.com/images/I/31VDapFldiL._SL400_.jpg)](https://www.amazon.es/dp/B01FABP4PY/?tag=tolees-21)
 
 🔎:
 

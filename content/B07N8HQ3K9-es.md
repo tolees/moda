@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Dress Uvas Vestido  Azul  Navy  al 35.08 % de rebaja'
 date: 2020-04-12 08:12:28
-image: 'https://m.media-amazon.com/images/I/41dTrmnj2XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dTrmnj2XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.43'
 
 Tienes [Desigual Dress Uvas Vestido  Azul  Navy 5000   152 cm para Niñas](https://www.amazon.es/dp/B07N8HQ3K9/?tag=tolees-21) con precio final de  32.43 EUR (original: 49.95 EUR) (35.08 %  de rebaja) aqui!
 
-[![Desigual Dress Uvas Vestido  Azul  Navy ](https://m.media-amazon.com/images/I/41dTrmnj2XL._SL200_.jpg)](https://www.amazon.es/dp/B07N8HQ3K9/?tag=tolees-21)
+[![Desigual Dress Uvas Vestido  Azul  Navy ](https://m.media-amazon.com/images/I/41dTrmnj2XL._SL400_.jpg)](https://www.amazon.es/dp/B07N8HQ3K9/?tag=tolees-21)
 
 🔎:
 

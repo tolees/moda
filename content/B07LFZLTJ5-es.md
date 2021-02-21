@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 54.93 % en Geox D Nebula D  Zapatillas para Mujer  '
 date: 2020-02-13 23:28:48
-image: 'https://m.media-amazon.com/images/I/31rqeoS-IdL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rqeoS-IdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.85'
 
 Tienes [Geox D Nebula D  Zapatillas para Mujer  Azul  Dk Navy C4021   39 EU](https://www.amazon.es/dp/B07LFZLTJ5/?tag=tolees-21) con un 54.93 % de descuento con precio de oferta de 60.85 EUR (original: 135.0 EUR) en el siguiente enlace!
 
-[![Geox D Nebula D  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/31rqeoS-IdL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LFZLTJ5/?tag=tolees-21)
+[![Geox D Nebula D  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/31rqeoS-IdL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LFZLTJ5/?tag=tolees-21)
 
 ℹ️:
 

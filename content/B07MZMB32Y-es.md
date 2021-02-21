@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Margaret Camiseta   Mousse 80 al 58.19 % de descuento'
 date: 2020-03-30 17:31:20
-image: 'https://m.media-amazon.com/images/I/31QHpe9G97L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QHpe9G97L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.5'
 
 Ahora mismo tienes [Pepe Jeans Margaret Camiseta   Mousse 808   13-14 años  Talla del Fabricante: 13/14 años  para Niñas](https://www.amazon.es/dp/B07MZMB32Y/?tag=tolees-21) a 12.5 EUR (original: 29.9 EUR) (58.19 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Margaret Camiseta   Mousse 80](https://m.media-amazon.com/images/I/31QHpe9G97L._SL200_.jpg)](https://www.amazon.es/dp/B07MZMB32Y/?tag=tolees-21)
+[![Pepe Jeans Margaret Camiseta   Mousse 80](https://m.media-amazon.com/images/I/31QHpe9G97L._SL400_.jpg)](https://www.amazon.es/dp/B07MZMB32Y/?tag=tolees-21)
 
 🔎:
 

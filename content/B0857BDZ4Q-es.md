@@ -2,7 +2,7 @@
 layout: post
 title: 'GRIMEY Sudadera Acknowledge Hoodie SS20  al 20.00 % de rebaja'
 date: 2020-04-18 08:27:03
-image: 'https://m.media-amazon.com/images/I/41yazfZ-vPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yazfZ-vPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.92'
 
 Tienes [GRIMEY Sudadera Acknowledge Hoodie SS20 Sport Grey-XS](https://www.amazon.es/dp/B0857BDZ4Q/?tag=tolees-21) con precio final de  55.92 EUR (original: 69.9 EUR) (20.00 %  de rebaja) aqui!
 
-[![GRIMEY Sudadera Acknowledge Hoodie SS20 ](https://m.media-amazon.com/images/I/41yazfZ-vPL._SL200_.jpg)](https://www.amazon.es/dp/B0857BDZ4Q/?tag=tolees-21)
+[![GRIMEY Sudadera Acknowledge Hoodie SS20 ](https://m.media-amazon.com/images/I/41yazfZ-vPL._SL400_.jpg)](https://www.amazon.es/dp/B0857BDZ4Q/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mizuno Wave Momentum  Zapatos de Voleibo con un 42.70 % de descuento'
 date: 2020-03-24 21:49:17
-image: 'https://m.media-amazon.com/images/I/41+p-fNgbpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+p-fNgbpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.95'
 
 En este momento está [Mizuno Wave Momentum  Zapatos de Voleibol para Mujer  Weiß  Nimbus Cloud/10135c/Wht 52 ](https://www.amazon.es/dp/B07N3XGTRF/?tag=tolees-21) a 85.95 EUR (original: 150.0 EUR) (42.70 %  de descuento) en el siguiente enlace!
 
-[![Mizuno Wave Momentum  Zapatos de Voleibo](https://m.media-amazon.com/images/I/41+p-fNgbpL._SL200_.jpg)](https://www.amazon.es/dp/B07N3XGTRF/?tag=tolees-21)
+[![Mizuno Wave Momentum  Zapatos de Voleibo](https://m.media-amazon.com/images/I/41+p-fNgbpL._SL400_.jpg)](https://www.amazon.es/dp/B07N3XGTRF/?tag=tolees-21)
 
 🔎:
 

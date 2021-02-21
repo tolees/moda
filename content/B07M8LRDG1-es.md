@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler Bootcut Vaqueros  Azul  Water B al 58.63 % de descuento'
 date: 2020-03-01 18:53:11
-image: 'https://m.media-amazon.com/images/I/418DPG8PPJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418DPG8PPJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.21'
 
 Está [Wrangler Bootcut Vaqueros  Azul  Water Blue 78x   24 W/ 32L para Mujer](https://www.amazon.es/dp/B07M8LRDG1/?tag=tolees-21) con 58.63 de descuento por 37.21 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Wrangler Bootcut Vaqueros  Azul  Water B](https://m.media-amazon.com/images/I/418DPG8PPJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07M8LRDG1/?tag=tolees-21)
+[![Wrangler Bootcut Vaqueros  Azul  Water B](https://m.media-amazon.com/images/I/418DPG8PPJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07M8LRDG1/?tag=tolees-21)
 
 ℹ️:
 

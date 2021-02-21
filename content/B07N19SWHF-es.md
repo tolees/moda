@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Crew Sws  Sudadera para Hombre  Nara al 41.63 % de rebaja'
 date: 2020-03-16 13:04:21
-image: 'https://m.media-amazon.com/images/I/41tS+HuO-xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tS+HuO-xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.635'
 
 Tienes [Lee Crew Sws  Sudadera para Hombre  Naranja  Sign Orange Me   Small](https://www.amazon.es/dp/B07N19SWHF/?tag=tolees-21) con precio final de  34.99 EUR (original: 59.95 EUR) (41.63 %  de rebaja) aqui!
 
-[![Lee Crew Sws  Sudadera para Hombre  Nara](https://m.media-amazon.com/images/I/41tS+HuO-xL._SL200_.jpg)](https://www.amazon.es/dp/B07N19SWHF/?tag=tolees-21)
+[![Lee Crew Sws  Sudadera para Hombre  Nara](https://m.media-amazon.com/images/I/41tS+HuO-xL._SL400_.jpg)](https://www.amazon.es/dp/B07N19SWHF/?tag=tolees-21)
 
 🔎:
 

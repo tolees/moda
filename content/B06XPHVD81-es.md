@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Vest_vermond Vestido   Negro 20 al 50.03 % de descuento'
 date: 2020-01-15 08:35:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41o9jXJeP8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o9jXJeP8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.065000000000005'
 
 Está [Desigual Vest_vermond Vestido   Negro 2000   40 para Mujer](https://www.amazon.es/dp/B06XPHVD81/?tag=tolees-21) con 50.03 de descuento por 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Desigual Vest_vermond Vestido   Negro 20](https://images-eu.ssl-images-amazon.com/images/I/41o9jXJeP8L._SL200_.jpg)](https://www.amazon.es/dp/B06XPHVD81/?tag=tolees-21)
+[![Desigual Vest_vermond Vestido   Negro 20](https://images-eu.ssl-images-amazon.com/images/I/41o9jXJeP8L._SL400_.jpg)](https://www.amazon.es/dp/B06XPHVD81/?tag=tolees-21)
 
 ℹ️:
 

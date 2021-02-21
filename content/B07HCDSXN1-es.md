@@ -2,7 +2,7 @@
 layout: post
 title: 'Miss Lulu Bolso de Mano de Mujer Shopper al 15.03 % de descuento'
 date: 2020-06-01 11:41:47
-image: 'https://m.media-amazon.com/images/I/41SRtuEcy5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SRtuEcy5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.41'
 
 Está [Miss Lulu Bolso de Mano de Mujer Shopper de Hombro Bandolera Fiesta Multicolor Elegante Cuero Sintético  Gris ](https://www.amazon.es/dp/B07HCDSXN1/?tag=tolees-21) con 15.03 de descuento por 17.41 EUR (original: 20.49 EUR) en el siguiente enlace!
 
-[![Miss Lulu Bolso de Mano de Mujer Shopper](https://m.media-amazon.com/images/I/41SRtuEcy5L._SL200_.jpg)](https://www.amazon.es/dp/B07HCDSXN1/?tag=tolees-21)
+[![Miss Lulu Bolso de Mano de Mujer Shopper](https://m.media-amazon.com/images/I/41SRtuEcy5L._SL400_.jpg)](https://www.amazon.es/dp/B07HCDSXN1/?tag=tolees-21)
 
 ℹ️:
 

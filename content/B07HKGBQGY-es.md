@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA HOVR Havoc 2  Zapatos de al 57.15 % de descuento'
 date: 2020-05-07 08:23:36
-image: 'https://m.media-amazon.com/images/I/41ma80DwLpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ma80DwLpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.19'
 
 Ahora mismo tienes [Under Armour UA HOVR Havoc 2  Zapatos de Baloncesto para Hombre  Negro  Black/Lime Light/Black  001  001   38.5 EU](https://www.amazon.es/dp/B07HKGBQGY/?tag=tolees-21) a 52.19 EUR (original: 121.79 EUR) (57.15 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA HOVR Havoc 2  Zapatos de](https://m.media-amazon.com/images/I/41ma80DwLpL._SL200_.jpg)](https://www.amazon.es/dp/B07HKGBQGY/?tag=tolees-21)
+[![Under Armour UA HOVR Havoc 2  Zapatos de](https://m.media-amazon.com/images/I/41ma80DwLpL._SL400_.jpg)](https://www.amazon.es/dp/B07HKGBQGY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Classic University L/s Shirt Ca con un 24.02 % de descuento'
 date: 2020-08-23 21:08:14
-image: 'https://m.media-amazon.com/images/I/41fChSiEseL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fChSiEseL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.04'
 
 En este momento está [Superdry Classic University L/s Shirt Camisa  Rojo  Red Stripe 3rt   S para Hombre](https://www.amazon.es/dp/B07Q4V9PB3/?tag=tolees-21) a 11.04 EUR (original: 14.53 EUR) (24.02 %  de descuento) en el siguiente enlace!
 
-[![Superdry Classic University L/s Shirt Ca](https://m.media-amazon.com/images/I/41fChSiEseL._SL200_.jpg)](https://www.amazon.es/dp/B07Q4V9PB3/?tag=tolees-21)
+[![Superdry Classic University L/s Shirt Ca](https://m.media-amazon.com/images/I/41fChSiEseL._SL400_.jpg)](https://www.amazon.es/dp/B07Q4V9PB3/?tag=tolees-21)
 
 🔎:
 

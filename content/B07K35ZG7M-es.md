@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Daruch Vestido  Negro  Black 001    al 71.37 % de descuento'
 date: 2020-02-01 13:05:27
-image: 'https://m.media-amazon.com/images/I/41jzvY9xiYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jzvY9xiYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.57'
 
 Ahora mismo tienes [BOSS Daruch Vestido  Negro  Black 001   Small para Mujer](https://www.amazon.es/dp/B07K35ZG7M/?tag=tolees-21) a 65.57 EUR (original: 229.0 EUR) (71.37 %  de descuento) en el siguiente enlace!
 
-[![BOSS Daruch Vestido  Negro  Black 001   ](https://m.media-amazon.com/images/I/41jzvY9xiYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K35ZG7M/?tag=tolees-21)
+[![BOSS Daruch Vestido  Negro  Black 001   ](https://m.media-amazon.com/images/I/41jzvY9xiYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K35ZG7M/?tag=tolees-21)
 
 🔎:
 

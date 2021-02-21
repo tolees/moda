@@ -2,7 +2,7 @@
 layout: post
 title: 'Roman Originals Pantalón Capri elástico  al 25.00 % de descuento'
 date: 2020-09-06 10:30:38
-image: 'https://m.media-amazon.com/images/I/31wpVFWCUpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wpVFWCUpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.75'
 
 Ahora mismo tienes [Roman Originals Pantalón Capri elástico de bengalina para Mujer - Pantalón de Corte cónico Estilo años 50  Malla para Verano  Opaca  cómoda y elástica - Grey - 42](https://www.amazon.es/dp/B07MLF7QXX/?tag=tolees-21) a 21.75 EUR (original: 29.0 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![Roman Originals Pantalón Capri elástico ](https://m.media-amazon.com/images/I/31wpVFWCUpL._SL200_.jpg)](https://www.amazon.es/dp/B07MLF7QXX/?tag=tolees-21)
+[![Roman Originals Pantalón Capri elástico ](https://m.media-amazon.com/images/I/31wpVFWCUpL._SL400_.jpg)](https://www.amazon.es/dp/B07MLF7QXX/?tag=tolees-21)
 
 🔎:
 

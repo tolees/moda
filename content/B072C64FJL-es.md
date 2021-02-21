@@ -2,7 +2,7 @@
 layout: post
 title: 'Khanomak - Pantalón Corto Deportivo - pa al 60.01 % de rebaja'
 date: 2020-01-16 18:15:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31TN3PaDGFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TN3PaDGFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.705'
 
 Tienes [Khanomak - Pantalón Corto Deportivo - para Mujer Rojo Granate S](https://www.amazon.es/dp/B072C64FJL/?tag=tolees-21) con precio final de  11.06 EUR (original: 27.66 EUR) (60.01 %  de rebaja) aqui!
 
-[![Khanomak - Pantalón Corto Deportivo - pa](https://images-eu.ssl-images-amazon.com/images/I/31TN3PaDGFL._SL200_.jpg)](https://www.amazon.es/dp/B072C64FJL/?tag=tolees-21)
+[![Khanomak - Pantalón Corto Deportivo - pa](https://images-eu.ssl-images-amazon.com/images/I/31TN3PaDGFL._SL400_.jpg)](https://www.amazon.es/dp/B072C64FJL/?tag=tolees-21)
 
 🔎:
 

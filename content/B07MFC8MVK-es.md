@@ -2,7 +2,7 @@
 layout: post
 title: 'FOSTAK Bolsos totes/Bolso de hombro para con un 16.94 % de descuento'
 date: 2020-02-22 11:27:41
-image: 'https://m.media-amazon.com/images/I/41QL0mvrQvL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QL0mvrQvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.465'
 
 En este momento está [FOSTAK Bolsos totes/Bolso de hombro para mujer Bolso de viaje Messenger Bag elegante Bolsas portátiles para negocio que trabaja Notebook/ordenador portátil de 15.6 Inch Rosa](https://www.amazon.es/dp/B07MFC8MVK/?tag=tolees-21) a 10.79 EUR (original: 12.99 EUR) (16.94 %  de descuento) en el siguiente enlace!
 
-[![FOSTAK Bolsos totes/Bolso de hombro para](https://m.media-amazon.com/images/I/41QL0mvrQvL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MFC8MVK/?tag=tolees-21)
+[![FOSTAK Bolsos totes/Bolso de hombro para](https://m.media-amazon.com/images/I/41QL0mvrQvL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MFC8MVK/?tag=tolees-21)
 
 🔎:
 

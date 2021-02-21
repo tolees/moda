@@ -2,7 +2,7 @@
 layout: post
 title: 'Canadian Peak Chaqueta Mujer BAMBOLINA N con un 30.00 % de descuento'
 date: 2020-06-22 12:08:49
-image: 'https://m.media-amazon.com/images/I/41B9sYdLA6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B9sYdLA6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.3'
 
 En este momento está [Canadian Peak Chaqueta Mujer BAMBOLINA Negro 02](https://www.amazon.es/dp/B0831QRYC8/?tag=tolees-21) a 69.3 EUR (original: 99.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Canadian Peak Chaqueta Mujer BAMBOLINA N](https://m.media-amazon.com/images/I/41B9sYdLA6L._SL200_.jpg)](https://www.amazon.es/dp/B0831QRYC8/?tag=tolees-21)
+[![Canadian Peak Chaqueta Mujer BAMBOLINA N](https://m.media-amazon.com/images/I/41B9sYdLA6L._SL400_.jpg)](https://www.amazon.es/dp/B0831QRYC8/?tag=tolees-21)
 
 🔎:
 

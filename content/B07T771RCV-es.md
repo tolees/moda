@@ -2,7 +2,7 @@
 layout: post
 title: 'Mercedes-Benz Sonnenbrille M7008 Gafas d al 89.23 % de descuento'
 date: 2020-02-16 11:38:45
-image: 'https://m.media-amazon.com/images/I/31Ara4d+0nL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Ara4d+0nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.44'
 
 Está [Mercedes-Benz Sonnenbrille M7008 Gafas de sol  Azul  Blau   59.0 para Hombre](https://www.amazon.es/dp/B07T771RCV/?tag=tolees-21) con 89.23 de descuento por 21.44 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![Mercedes-Benz Sonnenbrille M7008 Gafas d](https://m.media-amazon.com/images/I/31Ara4d+0nL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07T771RCV/?tag=tolees-21)
+[![Mercedes-Benz Sonnenbrille M7008 Gafas d](https://m.media-amazon.com/images/I/31Ara4d+0nL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07T771RCV/?tag=tolees-21)
 
 ℹ️:
 

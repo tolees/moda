@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Hampton Down Parka Abrigo al 35.00 % de descuento'
 date: 2020-04-16 15:48:28
-image: 'https://m.media-amazon.com/images/I/41s988uceOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s988uceOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '259.35'
 
 Está [Tommy Hilfiger Hampton Down Parka Abrigo  Azul  Sky Captain   Large para Hombre](https://www.amazon.es/dp/B071G6JPTK/?tag=tolees-21) con 35.00 de descuento por 259.35 EUR (original: 399.0 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Hampton Down Parka Abrigo](https://m.media-amazon.com/images/I/41s988uceOL._SL200_.jpg)](https://www.amazon.es/dp/B071G6JPTK/?tag=tolees-21)
+[![Tommy Hilfiger Hampton Down Parka Abrigo](https://m.media-amazon.com/images/I/41s988uceOL._SL400_.jpg)](https://www.amazon.es/dp/B071G6JPTK/?tag=tolees-21)
 
 ℹ️:
 

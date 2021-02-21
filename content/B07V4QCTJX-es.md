@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Classic Trunk Triple Pack Bóxer al 68.31 % de rebaja'
 date: 2020-10-12 09:52:55
-image: 'https://m.media-amazon.com/images/I/41-VK4TogvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-VK4TogvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.09'
 
 Tienes [Superdry Classic Trunk Triple Pack Bóxer  Azul  Cobalt Multipack T3u   XS para Hombre](https://www.amazon.es/dp/B07V4QCTJX/?tag=tolees-21) con precio final de  11.09 EUR (original: 34.99 EUR) (68.31 %  de rebaja) aqui!
 
-[![Superdry Classic Trunk Triple Pack Bóxer](https://m.media-amazon.com/images/I/41-VK4TogvL._SL200_.jpg)](https://www.amazon.es/dp/B07V4QCTJX/?tag=tolees-21)
+[![Superdry Classic Trunk Triple Pack Bóxer](https://m.media-amazon.com/images/I/41-VK4TogvL._SL400_.jpg)](https://www.amazon.es/dp/B07V4QCTJX/?tag=tolees-21)
 
 🔎:
 

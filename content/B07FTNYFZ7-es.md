@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Rider  Vaqueros Slim para Hombre  Az al 49.99 % de descuento'
 date: 2020-01-29 16:59:32
-image: 'https://m.media-amazon.com/images/I/41PP-KDcQ+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PP-KDcQ+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.66'
 
 Ahora mismo tienes [Lee Rider  Vaqueros Slim para Hombre  Azul  Broken Blue Sx   W40/L34](https://www.amazon.es/dp/B07FTNYFZ7/?tag=tolees-21) a 44.98 EUR (original: 89.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
-[![Lee Rider  Vaqueros Slim para Hombre  Az](https://m.media-amazon.com/images/I/41PP-KDcQ+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FTNYFZ7/?tag=tolees-21)
+[![Lee Rider  Vaqueros Slim para Hombre  Az](https://m.media-amazon.com/images/I/41PP-KDcQ+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FTNYFZ7/?tag=tolees-21)
 
 🔎:
 

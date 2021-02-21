@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual TS Vicent Camiseta  Azul  Navy  al 15.36 % de rebaja'
 date: 2020-04-11 11:17:41
-image: 'https://m.media-amazon.com/images/I/41vjr5nGQSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vjr5nGQSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.55'
 
 Tienes [Desigual TS Vicent Camiseta  Azul  Navy 5000   S para Mujer](https://www.amazon.es/dp/B079SMCPWN/?tag=tolees-21) con precio final de  14.55 EUR (original: 17.19 EUR) (15.36 %  de rebaja) aqui!
 
-[![Desigual TS Vicent Camiseta  Azul  Navy ](https://m.media-amazon.com/images/I/41vjr5nGQSL._SL200_.jpg)](https://www.amazon.es/dp/B079SMCPWN/?tag=tolees-21)
+[![Desigual TS Vicent Camiseta  Azul  Navy ](https://m.media-amazon.com/images/I/41vjr5nGQSL._SL400_.jpg)](https://www.amazon.es/dp/B079SMCPWN/?tag=tolees-21)
 
 🔎:
 

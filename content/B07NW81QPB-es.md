@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Keepsakes 2.0 Botines Mujer  Mo al 47.83 % de descuento'
 date: 2020-01-10 19:32:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418Xqz8Ij9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418Xqz8Ij9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.49'
 
 Está [Skechers Keepsakes 2.0 Botines Mujer  Morado  Mauve Suede Mve   37 EU](https://www.amazon.es/dp/B07NW81QPB/?tag=tolees-21) con 47.83 de descuento por 36.49 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Skechers Keepsakes 2.0 Botines Mujer  Mo](https://images-eu.ssl-images-amazon.com/images/I/418Xqz8Ij9L._SL200_.jpg)](https://www.amazon.es/dp/B07NW81QPB/?tag=tolees-21)
+[![Skechers Keepsakes 2.0 Botines Mujer  Mo](https://images-eu.ssl-images-amazon.com/images/I/418Xqz8Ij9L._SL400_.jpg)](https://www.amazon.es/dp/B07NW81QPB/?tag=tolees-21)
 
 ℹ️:
 

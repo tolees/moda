@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Un Adorn Vibe  Sandalias de Talón al 58.08 % de descuento'
 date: 2020-07-13 10:38:54
-image: 'https://m.media-amazon.com/images/I/41Jqz0eTmdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jqz0eTmdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.9'
 
 Está [Clarks Un Adorn Vibe  Sandalias de Talón Abierto para Mujer  Beige  Red Leather Red Leather   39.5 EU](https://www.amazon.es/dp/B07TPYPG6T/?tag=tolees-21) con 58.08 de descuento por 41.9 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Clarks Un Adorn Vibe  Sandalias de Talón](https://m.media-amazon.com/images/I/41Jqz0eTmdL._SL200_.jpg)](https://www.amazon.es/dp/B07TPYPG6T/?tag=tolees-21)
+[![Clarks Un Adorn Vibe  Sandalias de Talón](https://m.media-amazon.com/images/I/41Jqz0eTmdL._SL400_.jpg)](https://www.amazon.es/dp/B07TPYPG6T/?tag=tolees-21)
 
 ℹ️:
 

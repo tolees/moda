@@ -2,7 +2,7 @@
 layout: post
 title: 'Marca Amazon - find. Vestido Corto Cruza al 33.75 % de rebaja'
 date: 2020-08-06 02:29:50
-image: 'https://m.media-amazon.com/images/I/31Qs3YO50jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Qs3YO50jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.83'
 
 Tienes [Marca Amazon - find. Vestido Corto Cruzado de Algodón Mujer  Rosa  Rose Pink   44  Label: XL](https://www.amazon.es/dp/B07YRD19D4/?tag=tolees-21) con precio final de  5.87 EUR (original: 8.86 EUR) (33.75 %  de rebaja) aqui!
 
-[![Marca Amazon - find. Vestido Corto Cruza](https://m.media-amazon.com/images/I/31Qs3YO50jL._SL200_.jpg)](https://www.amazon.es/dp/B07YRD19D4/?tag=tolees-21)
+[![Marca Amazon - find. Vestido Corto Cruza](https://m.media-amazon.com/images/I/31Qs3YO50jL._SL400_.jpg)](https://www.amazon.es/dp/B07YRD19D4/?tag=tolees-21)
 
 🔎:
 

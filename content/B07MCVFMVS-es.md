@@ -2,7 +2,7 @@
 layout: post
 title: 'Gant The Reg BD Camisa  Azul  Lt Indigo  al 37.83 % de descuento'
 date: 2020-03-04 23:48:44
-image: 'https://m.media-amazon.com/images/I/41VsSgUu5HL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VsSgUu5HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.95'
 
 Ahora mismo tienes [Gant The Reg BD Camisa  Azul  Lt Indigo 999   Large para Hombre](https://www.amazon.es/dp/B07MCVFMVS/?tag=tolees-21) a 55.95 EUR (original: 89.99 EUR) (37.83 %  de descuento) en el siguiente enlace!
 
-[![Gant The Reg BD Camisa  Azul  Lt Indigo ](https://m.media-amazon.com/images/I/41VsSgUu5HL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MCVFMVS/?tag=tolees-21)
+[![Gant The Reg BD Camisa  Azul  Lt Indigo ](https://m.media-amazon.com/images/I/41VsSgUu5HL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MCVFMVS/?tag=tolees-21)
 
 🔎:
 

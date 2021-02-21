@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Jersey Camiseta  Hombre  Blanc con un 45.86 % de descuento'
 date: 2020-03-14 14:38:26
-image: 'https://m.media-amazon.com/images/I/31MSAcy7JaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MSAcy7JaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.395'
 
 En este momento está [PUMA Liga Jersey Camiseta  Hombre  Blanco  White/Electric Blue   S](https://www.amazon.es/dp/B0795BZB8M/?tag=tolees-21) a 10.8 EUR (original: 19.95 EUR) (45.86 %  de descuento) en el siguiente enlace!
 
-[![PUMA Liga Jersey Camiseta  Hombre  Blanc](https://m.media-amazon.com/images/I/31MSAcy7JaL._SL200_.jpg)](https://www.amazon.es/dp/B0795BZB8M/?tag=tolees-21)
+[![PUMA Liga Jersey Camiseta  Hombre  Blanc](https://m.media-amazon.com/images/I/31MSAcy7JaL._SL400_.jpg)](https://www.amazon.es/dp/B0795BZB8M/?tag=tolees-21)
 
 🔎:
 

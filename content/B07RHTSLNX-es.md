@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger TJM Round Back Logo tee C al 48.26 % de descuento'
 date: 2020-10-04 21:20:01
-image: 'https://m.media-amazon.com/images/I/41cA9Ktay7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cA9Ktay7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.985'
 
 Ahora mismo tienes [Tommy Hilfiger TJM Round Back Logo tee Camiseta Deporte  Gris  Grey P   Medium para Hombre](https://www.amazon.es/dp/B07RHTSLNX/?tag=tolees-21) a 20.18 EUR (original: 39.0 EUR) (48.26 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger TJM Round Back Logo tee C](https://m.media-amazon.com/images/I/41cA9Ktay7L._SL200_.jpg)](https://www.amazon.es/dp/B07RHTSLNX/?tag=tolees-21)
+[![Tommy Hilfiger TJM Round Back Logo tee C](https://m.media-amazon.com/images/I/41cA9Ktay7L._SL400_.jpg)](https://www.amazon.es/dp/B07RHTSLNX/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.14 % en Marca Amazon - TRUTH & FABLE Vestido Muj'
 date: 2020-06-26 11:25:39
-image: 'https://m.media-amazon.com/images/I/31LUAeudBYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LUAeudBYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.8'
 
 Tienes [Marca Amazon - TRUTH & FABLE Vestido Mujer Multiposición  Rojo  Burgundy   44  Label: XL](https://www.amazon.es/dp/B07MZ35LDV/?tag=tolees-21) con un 32.14 % de descuento con precio de oferta de 37.8 EUR (original: 55.7 EUR) en el siguiente enlace!
 
-[![Marca Amazon - TRUTH & FABLE Vestido Muj](https://m.media-amazon.com/images/I/31LUAeudBYL._SL200_.jpg)](https://www.amazon.es/dp/B07MZ35LDV/?tag=tolees-21)
+[![Marca Amazon - TRUTH & FABLE Vestido Muj](https://m.media-amazon.com/images/I/31LUAeudBYL._SL400_.jpg)](https://www.amazon.es/dp/B07MZ35LDV/?tag=tolees-21)
 
 ℹ️:
 

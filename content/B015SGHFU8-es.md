@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas You Metallic  Sandalias para M con un 33.44 % de descuento'
 date: 2020-04-29 08:44:16
-image: 'https://m.media-amazon.com/images/I/51WQGStYmFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WQGStYmFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.9'
 
 En este momento está [Havaianas You Metallic  Sandalias para Mujer  Plateado  Steel Grey   41/42 EU](https://www.amazon.es/dp/B015SGHFU8/?tag=tolees-21) a 19.9 EUR (original: 29.9 EUR) (33.44 %  de descuento) en el siguiente enlace!
 
-[![Havaianas You Metallic  Sandalias para M](https://m.media-amazon.com/images/I/51WQGStYmFL._SL200_.jpg)](https://www.amazon.es/dp/B015SGHFU8/?tag=tolees-21)
+[![Havaianas You Metallic  Sandalias para M](https://m.media-amazon.com/images/I/51WQGStYmFL._SL400_.jpg)](https://www.amazon.es/dp/B015SGHFU8/?tag=tolees-21)
 
 🔎:
 

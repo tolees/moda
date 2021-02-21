@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Tech Hood Pop Zip SD-wndcheate  al 30.54 % de descuento'
 date: 2020-01-18 14:53:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41A16w8uT6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A16w8uT6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.49'
 
 Está [Superdry Tech Hood Pop Zip SD-wndcheate Chaqueta Deportiva  Negro  Black/Super Denby Cw9   Medium para Hombre](https://www.amazon.es/dp/B07C3L6TR1/?tag=tolees-21) con 30.54 de descuento por 45.49 EUR (original: 65.49 EUR) en el siguiente enlace!
 
-[![Superdry Tech Hood Pop Zip SD-wndcheate ](https://images-eu.ssl-images-amazon.com/images/I/41A16w8uT6L._SL200_.jpg)](https://www.amazon.es/dp/B07C3L6TR1/?tag=tolees-21)
+[![Superdry Tech Hood Pop Zip SD-wndcheate ](https://images-eu.ssl-images-amazon.com/images/I/41A16w8uT6L._SL400_.jpg)](https://www.amazon.es/dp/B07C3L6TR1/?tag=tolees-21)
 
 ℹ️:
 

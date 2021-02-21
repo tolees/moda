@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 69.33 % en Marca Amazon - IRIS & LILLY  Kimono Pija'
 date: 2020-06-28 15:45:20
-image: 'https://m.media-amazon.com/images/I/517I-Ye8N4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517I-Ye8N4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.48'
 
 Tienes [Marca Amazon - IRIS & LILLY  Kimono Pijama Mujer  Azul  Blue Spot Print   XS  Label: XS](https://www.amazon.es/dp/B075RDZLNM/?tag=tolees-21) con un 69.33 % de descuento con precio de oferta de 6.48 EUR (original: 21.13 EUR) en el siguiente enlace!
 
-[![Marca Amazon - IRIS & LILLY  Kimono Pija](https://m.media-amazon.com/images/I/517I-Ye8N4L._SL200_.jpg)](https://www.amazon.es/dp/B075RDZLNM/?tag=tolees-21)
+[![Marca Amazon - IRIS & LILLY  Kimono Pija](https://m.media-amazon.com/images/I/517I-Ye8N4L._SL400_.jpg)](https://www.amazon.es/dp/B075RDZLNM/?tag=tolees-21)
 
 ℹ️:
 

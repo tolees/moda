@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Challenger Chaqueta Sudadera  H al 50.03 % de rebaja'
 date: 2020-01-13 08:52:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41He8%2BZeNXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41He8%2BZeNXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.95'
 
 Tienes [Columbia Challenger Chaqueta Sudadera  Hombre  Rojo  Mountain Red/Black   L](https://www.amazon.es/dp/B07RB7TPN4/?tag=tolees-21) con precio final de  74.95 EUR (original: 149.99 EUR) (50.03 %  de rebaja) aqui!
 
-[![Columbia Challenger Chaqueta Sudadera  H](https://images-eu.ssl-images-amazon.com/images/I/41He8%2BZeNXL._SL200_.jpg)](https://www.amazon.es/dp/B07RB7TPN4/?tag=tolees-21)
+[![Columbia Challenger Chaqueta Sudadera  H](https://images-eu.ssl-images-amazon.com/images/I/41He8%2BZeNXL._SL400_.jpg)](https://www.amazon.es/dp/B07RB7TPN4/?tag=tolees-21)
 
 🔎:
 

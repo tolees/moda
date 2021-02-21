@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Essentials Linear Tk Camiseta de  al 30.02 % de descuento'
 date: 2020-03-11 11:48:29
-image: 'https://m.media-amazon.com/images/I/31qxUE7mP1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qxUE7mP1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Ahora mismo tienes [adidas Essentials Linear Tk Camiseta de Tirantes  Mujer  Blanco  White/Black   L](https://www.amazon.es/dp/B07KPW2V7G/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!
 
-[![adidas Essentials Linear Tk Camiseta de ](https://m.media-amazon.com/images/I/31qxUE7mP1L._SL200_.jpg)](https://www.amazon.es/dp/B07KPW2V7G/?tag=tolees-21)
+[![adidas Essentials Linear Tk Camiseta de ](https://m.media-amazon.com/images/I/31qxUE7mP1L._SL400_.jpg)](https://www.amazon.es/dp/B07KPW2V7G/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 49.99 % en BOSS Brief 3p Co/El Bóxer  Multicolor  S'
 date: 2020-08-11 18:30:35
-image: 'https://m.media-amazon.com/images/I/411HR4vLg-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411HR4vLg-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.98'
 
 Tienes [BOSS Brief 3p Co/El Bóxer  Multicolor  S  Pack de 3  para Hombre](https://www.amazon.es/dp/B07RYW5P5D/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 18.98 EUR (original: 37.95 EUR) en el siguiente enlace!
 
-[![BOSS Brief 3p Co/El Bóxer  Multicolor  S](https://m.media-amazon.com/images/I/411HR4vLg-L._SL200_.jpg)](https://www.amazon.es/dp/B07RYW5P5D/?tag=tolees-21)
+[![BOSS Brief 3p Co/El Bóxer  Multicolor  S](https://m.media-amazon.com/images/I/411HR4vLg-L._SL400_.jpg)](https://www.amazon.es/dp/B07RYW5P5D/?tag=tolees-21)
 
 ℹ️:
 

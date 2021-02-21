@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual 19WAXPBS - Bolso de hombro de S con un 47.52 % de descuento'
 date: 2020-05-06 16:04:14
-image: 'https://m.media-amazon.com/images/I/41pJ1Z7uDyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pJ1Z7uDyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.61000000000001'
 
 En este momento está [Desigual 19WAXPBS - Bolso de hombro de Sintético Mujer 29.5x12x31 cm  B x H x T ](https://www.amazon.es/dp/B07MXWC8JD/?tag=tolees-21) a 41.96 EUR (original: 79.95 EUR) (47.52 %  de descuento) en el siguiente enlace!
 
-[![Desigual 19WAXPBS - Bolso de hombro de S](https://m.media-amazon.com/images/I/41pJ1Z7uDyL._SL200_.jpg)](https://www.amazon.es/dp/B07MXWC8JD/?tag=tolees-21)
+[![Desigual 19WAXPBS - Bolso de hombro de S](https://m.media-amazon.com/images/I/41pJ1Z7uDyL._SL400_.jpg)](https://www.amazon.es/dp/B07MXWC8JD/?tag=tolees-21)
 
 🔎:
 

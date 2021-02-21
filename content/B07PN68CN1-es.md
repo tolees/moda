@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda billetera Samsung para Samsung Gal al 64.88 % de descuento'
 date: 2020-07-13 11:10:34
-image: 'https://m.media-amazon.com/images/I/21fG5T74X7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21fG5T74X7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.5'
 
 Está [Funda billetera Samsung para Samsung Galaxy A70  Funda protectora plegable con funda para smartphone - Duradera con ranura para tarjeta para guardar sus tarjetas de crédito - Negro](https://www.amazon.es/dp/B07PN68CN1/?tag=tolees-21) con 64.88 de descuento por 10.5 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![Funda billetera Samsung para Samsung Gal](https://m.media-amazon.com/images/I/21fG5T74X7L._SL200_.jpg)](https://www.amazon.es/dp/B07PN68CN1/?tag=tolees-21)
+[![Funda billetera Samsung para Samsung Gal](https://m.media-amazon.com/images/I/21fG5T74X7L._SL400_.jpg)](https://www.amazon.es/dp/B07PN68CN1/?tag=tolees-21)
 
 ℹ️:
 

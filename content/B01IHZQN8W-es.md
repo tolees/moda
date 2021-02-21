@@ -2,7 +2,7 @@
 layout: post
 title: 'The North Face Tekware TNF Chaqueta 200  con un 35.46 % de descuento'
 date: 2020-02-11 23:01:30
-image: 'https://m.media-amazon.com/images/I/31NtBbmCJNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NtBbmCJNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.765'
 
 En este momento está [The North Face Tekware TNF Chaqueta 200 Shadow  Hombre  Urban Navy  L](https://www.amazon.es/dp/B01IHZQN8W/?tag=tolees-21) a 64.54 EUR (original: 100.0 EUR) (35.46 %  de descuento) en el siguiente enlace!
 
-[![The North Face Tekware TNF Chaqueta 200 ](https://m.media-amazon.com/images/I/31NtBbmCJNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01IHZQN8W/?tag=tolees-21)
+[![The North Face Tekware TNF Chaqueta 200 ](https://m.media-amazon.com/images/I/31NtBbmCJNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01IHZQN8W/?tag=tolees-21)
 
 🔎:
 

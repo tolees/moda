@@ -2,7 +2,7 @@
 layout: post
 title: 'URAQT Vestido lady bug  Rojo M  C-UZ1811 al 28.01 % de rebaja'
 date: 2020-08-07 19:13:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.69'
 
 Tienes [URAQT Vestido lady bug  Rojo M  C-UZ18112-0 ](https://www.amazon.es/dp/B07KW4T4XQ/?tag=tolees-21) con precio final de  17.99 EUR (original: 24.99 EUR) (28.01 %  de rebaja) aqui!
 
-[![URAQT Vestido lady bug  Rojo M  C-UZ1811](https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL200_.jpg)](https://www.amazon.es/dp/B07KW4T4XQ/?tag=tolees-21)
+[![URAQT Vestido lady bug  Rojo M  C-UZ1811](https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL400_.jpg)](https://www.amazon.es/dp/B07KW4T4XQ/?tag=tolees-21)
 
 🔎:
 

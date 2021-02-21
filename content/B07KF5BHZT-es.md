@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 16.72 % en Levi s Original Chaqueta Vaquera  Azul  '
 date: 2020-05-14 10:37:44
-image: 'https://m.media-amazon.com/images/I/41W+dMEcKzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W+dMEcKzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '76.29'
 
 Tienes [Levi s Original Chaqueta Vaquera  Azul  Needlecraft Trucker 0080   X-Small para Mujer](https://www.amazon.es/dp/B07KF5BHZT/?tag=tolees-21) con un 16.72 % de descuento con precio de oferta de 99.94 EUR (original: 120.0 EUR) en el siguiente enlace!
 
-[![Levi s Original Chaqueta Vaquera  Azul  ](https://m.media-amazon.com/images/I/41W+dMEcKzL._SL200_.jpg)](https://www.amazon.es/dp/B07KF5BHZT/?tag=tolees-21)
+[![Levi s Original Chaqueta Vaquera  Azul  ](https://m.media-amazon.com/images/I/41W+dMEcKzL._SL400_.jpg)](https://www.amazon.es/dp/B07KF5BHZT/?tag=tolees-21)
 
 ℹ️:
 

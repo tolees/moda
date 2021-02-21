@@ -2,7 +2,7 @@
 layout: post
 title: 'Tous Kaos Mini - Monedero para Mujer  Be con un 50.00 % de descuento'
 date: 2020-02-23 08:36:43
-image: 'https://m.media-amazon.com/images/I/510rOt2ZTML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510rOt2ZTML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.5'
 
 En este momento está [Tous Kaos Mini - Monedero para Mujer  Beige  13 x 11 x 2 cm](https://www.amazon.es/dp/B07B9DRP68/?tag=tolees-21) a 32.5 EUR (original: 65.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Tous Kaos Mini - Monedero para Mujer  Be](https://m.media-amazon.com/images/I/510rOt2ZTML._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B9DRP68/?tag=tolees-21)
+[![Tous Kaos Mini - Monedero para Mujer  Be](https://m.media-amazon.com/images/I/510rOt2ZTML._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B9DRP68/?tag=tolees-21)
 
 🔎:
 

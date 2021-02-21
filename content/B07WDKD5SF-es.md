@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.69 % en find. #  Shana-1a-58 Sandalias Abiertas '
 date: 2020-07-14 16:19:44
-image: 'https://m.media-amazon.com/images/I/31aL1IVuOWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aL1IVuOWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.79'
 
 Tienes [find. #  Shana-1a-58 Sandalias Abiertas  Dorado  Gold   41](https://www.amazon.es/dp/B07WDKD5SF/?tag=tolees-21) con un 52.69 % de descuento con precio de oferta de 8.79 EUR (original: 18.58 EUR) en el siguiente enlace!
 
-[![find. #  Shana-1a-58 Sandalias Abiertas ](https://m.media-amazon.com/images/I/31aL1IVuOWL._SL200_.jpg)](https://www.amazon.es/dp/B07WDKD5SF/?tag=tolees-21)
+[![find. #  Shana-1a-58 Sandalias Abiertas ](https://m.media-amazon.com/images/I/31aL1IVuOWL._SL400_.jpg)](https://www.amazon.es/dp/B07WDKD5SF/?tag=tolees-21)
 
 ℹ️:
 

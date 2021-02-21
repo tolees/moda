@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Park VI Camiseta de Manga Corta par al 41.03 % de descuento'
 date: 2020-04-01 06:59:12
-image: 'https://m.media-amazon.com/images/I/41zvjD6BhDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zvjD6BhDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.055'
 
 Ahora mismo tienes [Nike Park VI Camiseta de Manga Corta para hombre  Amarillo  L](https://www.amazon.es/dp/B01AC6PV7I/?tag=tolees-21) a 17.25 EUR (original: 29.25 EUR) (41.03 %  de descuento) en el siguiente enlace!
 
-[![Nike Park VI Camiseta de Manga Corta par](https://m.media-amazon.com/images/I/41zvjD6BhDL._SL200_.jpg)](https://www.amazon.es/dp/B01AC6PV7I/?tag=tolees-21)
+[![Nike Park VI Camiseta de Manga Corta par](https://m.media-amazon.com/images/I/41zvjD6BhDL._SL400_.jpg)](https://www.amazon.es/dp/B01AC6PV7I/?tag=tolees-21)
 
 🔎:
 

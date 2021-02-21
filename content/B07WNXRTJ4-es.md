@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Original Sudadera de Homb al 34.13 % de rebaja'
 date: 2020-02-21 16:20:34
-image: 'https://m.media-amazon.com/images/I/41EPOBAB1RL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EPOBAB1RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.95'
 
 Tienes [Charles Wilson Original Sudadera de Hombre Algodón Premium Capucha Cremallera  Large  Black  0819  ](https://www.amazon.es/dp/B07WNXRTJ4/?tag=tolees-21) con precio final de  28.95 EUR (original: 43.95 EUR) (34.13 %  de rebaja) aqui!
 
-[![Charles Wilson Original Sudadera de Homb](https://m.media-amazon.com/images/I/41EPOBAB1RL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07WNXRTJ4/?tag=tolees-21)
+[![Charles Wilson Original Sudadera de Homb](https://m.media-amazon.com/images/I/41EPOBAB1RL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07WNXRTJ4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Cardigan Mujer Verano Camisa Blusa Manga con un 18.75 % de descuento'
 date: 2020-02-15 11:18:17
-image: 'https://m.media-amazon.com/images/I/41Ec5Xs5s+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ec5Xs5s+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.49'
 
 En este momento está [Cardigan Mujer Verano Camisa Blusa Manga Larga Mujer Cárdigan Largo Playa Camisetas de Fiesta Blusas Largas Chal Flojo Chaqueta Punto Cardigans Mujer Primavera Verano](https://www.amazon.es/dp/B07SS8P68T/?tag=tolees-21) a 32.49 EUR (original: 39.99 EUR) (18.75 %  de descuento) en el siguiente enlace!
 
-[![Cardigan Mujer Verano Camisa Blusa Manga](https://m.media-amazon.com/images/I/41Ec5Xs5s+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SS8P68T/?tag=tolees-21)
+[![Cardigan Mujer Verano Camisa Blusa Manga](https://m.media-amazon.com/images/I/41Ec5Xs5s+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07SS8P68T/?tag=tolees-21)
 
 🔎:
 

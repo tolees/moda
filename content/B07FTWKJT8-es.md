@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Brooklyn Straight Vaqueros para Homb con un 44.18 % de descuento'
 date: 2020-01-01 15:55:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/312B7Tl%2BYKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312B7Tl%2BYKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.0'
 
 En este momento está [Lee Brooklyn Straight Vaqueros para Hombre  Azul  Rinse Dp   42W / 34L](https://www.amazon.es/dp/B07FTWKJT8/?tag=tolees-21) a 50.21 EUR (original: 89.95 EUR) (44.18 %  de descuento) en el siguiente enlace!
 
-[![Lee Brooklyn Straight Vaqueros para Homb](https://images-eu.ssl-images-amazon.com/images/I/312B7Tl%2BYKL._SL200_.jpg)](https://www.amazon.es/dp/B07FTWKJT8/?tag=tolees-21)
+[![Lee Brooklyn Straight Vaqueros para Homb](https://images-eu.ssl-images-amazon.com/images/I/312B7Tl%2BYKL._SL400_.jpg)](https://www.amazon.es/dp/B07FTWKJT8/?tag=tolees-21)
 
 🔎:
 

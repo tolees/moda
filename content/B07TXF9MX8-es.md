@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 721 High Rise Skinny Vaqueros  Ve con un 66.09 % de descuento'
 date: 2020-08-10 17:08:52
-image: 'https://m.media-amazon.com/images/I/31xrCsX4lzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xrCsX4lzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.52'
 
 En este momento está [Levi s 721 High Rise Skinny Vaqueros  Verde  Hyper Soft T2 Olive Night 0267   W23/L32  Talla del Fabricante: 23 32  para Mujer](https://www.amazon.es/dp/B07TXF9MX8/?tag=tolees-21) a 30.52 EUR (original: 90.0 EUR) (66.09 %  de descuento) en el siguiente enlace!
 
-[![Levi s 721 High Rise Skinny Vaqueros  Ve](https://m.media-amazon.com/images/I/31xrCsX4lzL._SL200_.jpg)](https://www.amazon.es/dp/B07TXF9MX8/?tag=tolees-21)
+[![Levi s 721 High Rise Skinny Vaqueros  Ve](https://m.media-amazon.com/images/I/31xrCsX4lzL._SL400_.jpg)](https://www.amazon.es/dp/B07TXF9MX8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Nimbus 22  Zapatilla de Correr al 20.20 % de descuento'
 date: 2020-08-08 13:24:15
-image: 'https://m.media-amazon.com/images/I/41RJmP-YcPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RJmP-YcPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.24'
 
 Ahora mismo tienes [Asics Gel-Nimbus 22  Zapatilla de Correr para Hombre  Naranja Pop/Negro  43.5 EU](https://www.amazon.es/dp/B07SKHGLKK/?tag=tolees-21) a 109.24 EUR (original: 136.9 EUR) (20.20 %  de descuento) en el siguiente enlace!
 
-[![Asics Gel-Nimbus 22  Zapatilla de Correr](https://m.media-amazon.com/images/I/41RJmP-YcPL._SL200_.jpg)](https://www.amazon.es/dp/B07SKHGLKK/?tag=tolees-21)
+[![Asics Gel-Nimbus 22  Zapatilla de Correr](https://m.media-amazon.com/images/I/41RJmP-YcPL._SL400_.jpg)](https://www.amazon.es/dp/B07SKHGLKK/?tag=tolees-21)
 
 🔎:
 

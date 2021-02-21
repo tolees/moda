@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 42.87 % en Esprit 997ee1b812 Vaqueros Straight  Azu'
 date: 2020-06-27 10:55:44
-image: 'https://m.media-amazon.com/images/I/41hW0vOH1ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hW0vOH1ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.56'
 
 Tienes [Esprit 997ee1b812 Vaqueros Straight  Azul  Blue Medium Wash 902   W29/L34  Talla del Fabricante: 29/34  para Mujer](https://www.amazon.es/dp/B075VDVWVC/?tag=tolees-21) con un 42.87 % de descuento con precio de oferta de 28.56 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Esprit 997ee1b812 Vaqueros Straight  Azu](https://m.media-amazon.com/images/I/41hW0vOH1ML._SL200_.jpg)](https://www.amazon.es/dp/B075VDVWVC/?tag=tolees-21)
+[![Esprit 997ee1b812 Vaqueros Straight  Azu](https://m.media-amazon.com/images/I/41hW0vOH1ML._SL400_.jpg)](https://www.amazon.es/dp/B075VDVWVC/?tag=tolees-21)
 
 ℹ️:
 

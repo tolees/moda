@@ -2,7 +2,7 @@
 layout: post
 title: 'Geographical Norway Chaqueta Hombre BOKE con un 34.34 % de descuento'
 date: 2020-01-09 14:44:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413ib5sRlgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413ib5sRlgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '82.0'
 
 En este momento está [Geographical Norway Chaqueta Hombre BOKER Azul Marino M](https://www.amazon.es/dp/B081CF1XB8/?tag=tolees-21) a 65 EUR (original: 99 EUR) (34.34 %  de descuento) en el siguiente enlace!
 
-[![Geographical Norway Chaqueta Hombre BOKE](https://images-eu.ssl-images-amazon.com/images/I/413ib5sRlgL._SL200_.jpg)](https://www.amazon.es/dp/B081CF1XB8/?tag=tolees-21)
+[![Geographical Norway Chaqueta Hombre BOKE](https://images-eu.ssl-images-amazon.com/images/I/413ib5sRlgL._SL400_.jpg)](https://www.amazon.es/dp/B081CF1XB8/?tag=tolees-21)
 
 🔎:
 

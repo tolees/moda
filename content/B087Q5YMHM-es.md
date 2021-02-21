@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.13 % en TAOFFEN Mujer Canvas Shoes Punta Redonda'
 date: 2020-05-17 15:32:39
-image: 'https://m.media-amazon.com/images/I/41PAmFDi6HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PAmFDi6HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.88'
 
 Tienes [TAOFFEN Mujer Canvas Shoes Punta Redonda Zapatos para Caminar Planos sin Cordones Zapatos Escuela Orange Talla 37 Asiática](https://www.amazon.es/dp/B087Q5YMHM/?tag=tolees-21) con un 50.13 % de descuento con precio de oferta de 23.88 EUR (original: 47.88 EUR) en el siguiente enlace!
 
-[![TAOFFEN Mujer Canvas Shoes Punta Redonda](https://m.media-amazon.com/images/I/41PAmFDi6HL._SL200_.jpg)](https://www.amazon.es/dp/B087Q5YMHM/?tag=tolees-21)
+[![TAOFFEN Mujer Canvas Shoes Punta Redonda](https://m.media-amazon.com/images/I/41PAmFDi6HL._SL400_.jpg)](https://www.amazon.es/dp/B087Q5YMHM/?tag=tolees-21)
 
 ℹ️:
 

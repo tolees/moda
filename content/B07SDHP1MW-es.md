@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Crocband Flip Women  Chanclas para al 25.21 % de descuento'
 date: 2020-07-02 14:28:36
-image: 'https://m.media-amazon.com/images/I/31I+BczXKDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31I+BczXKDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.69'
 
 Está [Crocs Crocband Flip Women  Chanclas para Mujer  Naranja  Cantaloupe 801   41/42 EU](https://www.amazon.es/dp/B07SDHP1MW/?tag=tolees-21) con 25.21 de descuento por 18.69 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![Crocs Crocband Flip Women  Chanclas para](https://m.media-amazon.com/images/I/31I+BczXKDL._SL200_.jpg)](https://www.amazon.es/dp/B07SDHP1MW/?tag=tolees-21)
+[![Crocs Crocband Flip Women  Chanclas para](https://m.media-amazon.com/images/I/31I+BczXKDL._SL400_.jpg)](https://www.amazon.es/dp/B07SDHP1MW/?tag=tolees-21)
 
 ℹ️:
 

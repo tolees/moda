@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Adilette Chanclas Hombre  Azul  A con un 28.50 % de descuento'
 date: 2020-08-02 10:59:15
-image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.704'
 
 En este momento está [adidas Adilette Chanclas Hombre  Azul  Adiblu/White/Adiblu   43 EU  9 UK ](https://www.amazon.es/dp/B001OVFKB8/?tag=tolees-21) a 24.99 EUR (original: 34.95 EUR) (28.50 %  de descuento) en el siguiente enlace!
 
-[![adidas Adilette Chanclas Hombre  Azul  A](https://m.media-amazon.com/images/I/41fjLafiAAL._SL200_.jpg)](https://www.amazon.es/dp/B001OVFKB8/?tag=tolees-21)
+[![adidas Adilette Chanclas Hombre  Azul  A](https://m.media-amazon.com/images/I/41fjLafiAAL._SL400_.jpg)](https://www.amazon.es/dp/B001OVFKB8/?tag=tolees-21)
 
 🔎:
 

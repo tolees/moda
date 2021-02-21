@@ -2,7 +2,7 @@
 layout: post
 title: 'FitFlop Lottie Glitzy  Sandalias con Pun al 35.84 % de descuento'
 date: 2020-06-07 15:46:17
-image: 'https://m.media-amazon.com/images/I/31hHbOIbqzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hHbOIbqzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.91'
 
 Está [FitFlop Lottie Glitzy  Sandalias con Punta Abierta para Mujer  Negro  Black 001   39 EU](https://www.amazon.es/dp/B07KQ1PB86/?tag=tolees-21) con 35.84 de descuento por 44.91 EUR (original: 70.0 EUR) en el siguiente enlace!
 
-[![FitFlop Lottie Glitzy  Sandalias con Pun](https://m.media-amazon.com/images/I/31hHbOIbqzL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ1PB86/?tag=tolees-21)
+[![FitFlop Lottie Glitzy  Sandalias con Pun](https://m.media-amazon.com/images/I/31hHbOIbqzL._SL400_.jpg)](https://www.amazon.es/dp/B07KQ1PB86/?tag=tolees-21)
 
 ℹ️:
 

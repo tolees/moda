@@ -2,7 +2,7 @@
 layout: post
 title: 'Geographical Norway Chaqueta DE NIÑO BOK al 20.00 % de descuento'
 date: 2020-01-22 14:40:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.1'
 
 Está [Geographical Norway Chaqueta DE NIÑO BOKER Negro 16](https://www.amazon.es/dp/B081CDMXXN/?tag=tolees-21) con 20.00 de descuento por 71.2 EUR (original: 89 EUR) en el siguiente enlace!
 
-[![Geographical Norway Chaqueta DE NIÑO BOK](https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg)](https://www.amazon.es/dp/B081CDMXXN/?tag=tolees-21)
+[![Geographical Norway Chaqueta DE NIÑO BOK](https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL400_.jpg)](https://www.amazon.es/dp/B081CDMXXN/?tag=tolees-21)
 
 ℹ️:
 

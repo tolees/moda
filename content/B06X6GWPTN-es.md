@@ -2,7 +2,7 @@
 layout: post
 title: 'Esprit 057ee1f039 Blusa  Multicolor  Pas al 28.70 % de descuento'
 date: 2020-04-01 06:59:00
-image: 'https://m.media-amazon.com/images/I/41G9N4OoQsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41G9N4OoQsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.08'
 
 Está [Esprit 057ee1f039 Blusa  Multicolor  Pastel Blue   38 para Mujer](https://www.amazon.es/dp/B06X6GWPTN/?tag=tolees-21) con 28.70 de descuento por 7.08 EUR (original: 9.93 EUR) en el siguiente enlace!
 
-[![Esprit 057ee1f039 Blusa  Multicolor  Pas](https://m.media-amazon.com/images/I/41G9N4OoQsL._SL200_.jpg)](https://www.amazon.es/dp/B06X6GWPTN/?tag=tolees-21)
+[![Esprit 057ee1f039 Blusa  Multicolor  Pas](https://m.media-amazon.com/images/I/41G9N4OoQsL._SL400_.jpg)](https://www.amazon.es/dp/B06X6GWPTN/?tag=tolees-21)
 
 ℹ️:
 

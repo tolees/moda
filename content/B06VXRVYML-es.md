@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Sudadera de Volantes para Mujer    al 45.18 % de descuento'
 date: 2020-05-02 19:20:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4168IE%2Bh67L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4168IE%2Bh67L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.35'
 
 Está [find. Sudadera de Volantes para Mujer   Marfil  Ivory   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B06VXRVYML/?tag=tolees-21) con 45.18 de descuento por 15.35 EUR (original: 28 EUR) en el siguiente enlace!
 
-[![find. Sudadera de Volantes para Mujer   ](https://images-eu.ssl-images-amazon.com/images/I/4168IE%2Bh67L._SL200_.jpg)](https://www.amazon.es/dp/B06VXRVYML/?tag=tolees-21)
+[![find. Sudadera de Volantes para Mujer   ](https://images-eu.ssl-images-amazon.com/images/I/4168IE%2Bh67L._SL400_.jpg)](https://www.amazon.es/dp/B06VXRVYML/?tag=tolees-21)
 
 ℹ️:
 

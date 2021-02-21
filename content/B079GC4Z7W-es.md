@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Sandalias con Pulsera Mujer  Marró al 30.32 % de descuento'
 date: 2020-06-24 09:04:52
-image: 'https://m.media-amazon.com/images/I/31kPViJw9ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kPViJw9ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.24'
 
 Ahora mismo tienes [find. Sandalias con Pulsera Mujer  Marrón  Brown Brown   39 EU](https://www.amazon.es/dp/B079GC4Z7W/?tag=tolees-21) a 7.24 EUR (original: 10.39 EUR) (30.32 %  de descuento) en el siguiente enlace!
 
-[![find. Sandalias con Pulsera Mujer  Marró](https://m.media-amazon.com/images/I/31kPViJw9ML._SL200_.jpg)](https://www.amazon.es/dp/B079GC4Z7W/?tag=tolees-21)
+[![find. Sandalias con Pulsera Mujer  Marró](https://m.media-amazon.com/images/I/31kPViJw9ML._SL400_.jpg)](https://www.amazon.es/dp/B079GC4Z7W/?tag=tolees-21)
 
 🔎:
 

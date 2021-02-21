@@ -2,7 +2,7 @@
 layout: post
 title: 'Gifts Treat Sombrero de Invierno de Las  al 35.28 % de descuento'
 date: 2020-04-14 00:15:00
-image: 'https://m.media-amazon.com/images/I/5145kzN-4EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5145kzN-4EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Está [Gifts Treat Sombrero de Invierno de Las Niños Moda Sombrero Tejido  Dinosaurio-2  52cm ](https://www.amazon.es/dp/B07QM59YF1/?tag=tolees-21) con 35.28 de descuento por 10.99 EUR (original: 16.98 EUR) en el siguiente enlace!
 
-[![Gifts Treat Sombrero de Invierno de Las ](https://m.media-amazon.com/images/I/5145kzN-4EL._SL200_.jpg)](https://www.amazon.es/dp/B07QM59YF1/?tag=tolees-21)
+[![Gifts Treat Sombrero de Invierno de Las ](https://m.media-amazon.com/images/I/5145kzN-4EL._SL400_.jpg)](https://www.amazon.es/dp/B07QM59YF1/?tag=tolees-21)
 
 ℹ️:
 

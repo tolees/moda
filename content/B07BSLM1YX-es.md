@@ -2,7 +2,7 @@
 layout: post
 title: 'REPLAY M4941d.000.80279a Camisa  Negro   al 75.10 % de descuento'
 date: 2020-08-23 21:00:27
-image: 'https://m.media-amazon.com/images/I/31M5BSGTsKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31M5BSGTsKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.67'
 
 Está [REPLAY M4941d.000.80279a Camisa  Negro  Black 98   X-Large para Hombre](https://www.amazon.es/dp/B07BSLM1YX/?tag=tolees-21) con 75.10 de descuento por 19.67 EUR (original: 79.0 EUR) en el siguiente enlace!
 
-[![REPLAY M4941d.000.80279a Camisa  Negro  ](https://m.media-amazon.com/images/I/31M5BSGTsKL._SL200_.jpg)](https://www.amazon.es/dp/B07BSLM1YX/?tag=tolees-21)
+[![REPLAY M4941d.000.80279a Camisa  Negro  ](https://m.media-amazon.com/images/I/31M5BSGTsKL._SL400_.jpg)](https://www.amazon.es/dp/B07BSLM1YX/?tag=tolees-21)
 
 ℹ️:
 

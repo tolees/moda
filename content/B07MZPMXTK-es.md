@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Dolly Blusa   Multi 0aa   X-S al 81.27 % de descuento'
 date: 2020-04-26 15:34:03
-image: 'https://m.media-amazon.com/images/I/51sdW8ciRnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sdW8ciRnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.09'
 
 Ahora mismo tienes [Pepe Jeans Dolly Blusa   Multi 0aa   X-Small para Mujer](https://www.amazon.es/dp/B07MZPMXTK/?tag=tolees-21) a 11.22 EUR (original: 59.9 EUR) (81.27 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Dolly Blusa   Multi 0aa   X-S](https://m.media-amazon.com/images/I/51sdW8ciRnL._SL200_.jpg)](https://www.amazon.es/dp/B07MZPMXTK/?tag=tolees-21)
+[![Pepe Jeans Dolly Blusa   Multi 0aa   X-S](https://m.media-amazon.com/images/I/51sdW8ciRnL._SL400_.jpg)](https://www.amazon.es/dp/B07MZPMXTK/?tag=tolees-21)
 
 🔎:
 

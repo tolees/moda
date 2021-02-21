@@ -2,7 +2,7 @@
 layout: post
 title: 'Eli-time Gafas de sol polarizadas ultral al 52.98 % de descuento'
 date: 2020-05-26 15:36:46
-image: 'https://m.media-amazon.com/images/I/31X9+W5LIEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31X9+W5LIEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.4'
 
 Ahora mismo tienes [Eli-time Gafas de sol polarizadas ultraligeras hombres y mujeres para jugar al golf  correr  pescar  protección 100% UV400  marco mate rectangular de moda con lentes multicolores  ET19010  C-6 ](https://www.amazon.es/dp/B07YJHT2QV/?tag=tolees-21) a 9.4 EUR (original: 19.99 EUR) (52.98 %  de descuento) en el siguiente enlace!
 
-[![Eli-time Gafas de sol polarizadas ultral](https://m.media-amazon.com/images/I/31X9+W5LIEL._SL200_.jpg)](https://www.amazon.es/dp/B07YJHT2QV/?tag=tolees-21)
+[![Eli-time Gafas de sol polarizadas ultral](https://m.media-amazon.com/images/I/31X9+W5LIEL._SL400_.jpg)](https://www.amazon.es/dp/B07YJHT2QV/?tag=tolees-21)
 
 🔎:
 

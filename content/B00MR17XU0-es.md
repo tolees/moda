@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 61.49 % en G-STAR RAW Lynn Mid Waist Skinny  Vaquer'
 date: 2020-02-01 20:49:52
-image: 'https://m.media-amazon.com/images/I/31Z1EpPTt6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Z1EpPTt6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.49'
 
 Tienes [G-STAR RAW Lynn Mid Waist Skinny  Vaqueros  Medium Aged 6550  28W / 32L para Mujer](https://www.amazon.es/dp/B00MR17XU0/?tag=tolees-21) con un 61.49 % de descuento con precio de oferta de 38.49 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Lynn Mid Waist Skinny  Vaquer](https://m.media-amazon.com/images/I/31Z1EpPTt6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00MR17XU0/?tag=tolees-21)
+[![G-STAR RAW Lynn Mid Waist Skinny  Vaquer](https://m.media-amazon.com/images/I/31Z1EpPTt6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00MR17XU0/?tag=tolees-21)
 
 ℹ️:
 

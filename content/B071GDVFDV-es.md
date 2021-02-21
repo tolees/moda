@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon Essentials 6-Pack V-Neck Undershi al 17.50 % de descuento'
 date: 2020-06-25 17:15:43
-image: 'https://m.media-amazon.com/images/I/41MYfA+kwrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MYfA+kwrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.04'
 
 Está [Amazon Essentials 6-Pack V-Neck Undershirts Camisa  Negro  Black   XX-Large](https://www.amazon.es/dp/B071GDVFDV/?tag=tolees-21) con 17.50 de descuento por 15.04 EUR (original: 18.23 EUR) en el siguiente enlace!
 
-[![Amazon Essentials 6-Pack V-Neck Undershi](https://m.media-amazon.com/images/I/41MYfA+kwrL._SL200_.jpg)](https://www.amazon.es/dp/B071GDVFDV/?tag=tolees-21)
+[![Amazon Essentials 6-Pack V-Neck Undershi](https://m.media-amazon.com/images/I/41MYfA+kwrL._SL400_.jpg)](https://www.amazon.es/dp/B071GDVFDV/?tag=tolees-21)
 
 ℹ️:
 

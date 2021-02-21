@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D New ANNYA Mid A  Zapatos con Tacó al 54.50 % de descuento'
 date: 2020-08-20 12:01:08
-image: 'https://m.media-amazon.com/images/I/31xicIlf7YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xicIlf7YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.45'
 
 Ahora mismo tienes [Geox D New ANNYA Mid A  Zapatos con Tacón para Mujer  Azul  Navy C4002   38 5 EU](https://www.amazon.es/dp/B07LFRHYW2/?tag=tolees-21) a 45.45 EUR (original: 99.9 EUR) (54.50 %  de descuento) en el siguiente enlace!
 
-[![Geox D New ANNYA Mid A  Zapatos con Tacó](https://m.media-amazon.com/images/I/31xicIlf7YL._SL200_.jpg)](https://www.amazon.es/dp/B07LFRHYW2/?tag=tolees-21)
+[![Geox D New ANNYA Mid A  Zapatos con Tacó](https://m.media-amazon.com/images/I/31xicIlf7YL._SL400_.jpg)](https://www.amazon.es/dp/B07LFRHYW2/?tag=tolees-21)
 
 🔎:
 

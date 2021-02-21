@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 73.33 % en Wilson W Team RD Falda de Tenis  Mujer  '
 date: 2020-03-05 16:35:25
-image: 'https://m.media-amazon.com/images/I/41tcMwhjPDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tcMwhjPDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.0'
 
 Tienes [Wilson W Team RD Falda de Tenis  Mujer  Rojo  L](https://www.amazon.es/dp/B01AP5OJVA/?tag=tolees-21) con un 73.33 % de descuento con precio de oferta de 8.0 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Wilson W Team RD Falda de Tenis  Mujer  ](https://m.media-amazon.com/images/I/41tcMwhjPDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01AP5OJVA/?tag=tolees-21)
+[![Wilson W Team RD Falda de Tenis  Mujer  ](https://m.media-amazon.com/images/I/41tcMwhjPDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01AP5OJVA/?tag=tolees-21)
 
 ℹ️:
 

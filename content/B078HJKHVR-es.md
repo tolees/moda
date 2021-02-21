@@ -2,7 +2,7 @@
 layout: post
 title: 'IRIS & LILLY Braguita Estilo Culotte Muj con un 62.63 % de descuento'
 date: 2020-01-15 21:11:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41s2fQKLC3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s2fQKLC3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.0'
 
 En este momento está [IRIS & LILLY Braguita Estilo Culotte Mujer  Pack de 5  Multicolor  White/fiery Red/spanish Villa/maritime Blue    Talla del fabricante: Medium ](https://www.amazon.es/dp/B078HJKHVR/?tag=tolees-21) a 4.2 EUR (original: 11.24 EUR) (62.63 %  de descuento) en el siguiente enlace!
 
-[![IRIS & LILLY Braguita Estilo Culotte Muj](https://images-eu.ssl-images-amazon.com/images/I/41s2fQKLC3L._SL200_.jpg)](https://www.amazon.es/dp/B078HJKHVR/?tag=tolees-21)
+[![IRIS & LILLY Braguita Estilo Culotte Muj](https://images-eu.ssl-images-amazon.com/images/I/41s2fQKLC3L._SL400_.jpg)](https://www.amazon.es/dp/B078HJKHVR/?tag=tolees-21)
 
 🔎:
 
