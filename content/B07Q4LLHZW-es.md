@@ -28,8 +28,8 @@ Tienes [NIKE M NP Top LS Tight Camiseta de Manga Larga  Hombre  Black/White  2XL
 
 🔎:
 
-- Crew-neck design
 - Regular fit
 - Dri-Fit Technology
+- Crew-neck design
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Q4LLHZW/?tag=tolees-21)
