@@ -29,7 +29,7 @@ Tienes [Kipling SUPERWORKER S Bolso De Trabajo con Correa Extraible para El Homb
 ℹ️:
 
 - Para mujer
-- Bolsa para equipaje
 - CLASSICS
+- Bolsa para equipaje
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B083YDB5QK/?tag=tolees-21)
