@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Geox J Android Boy C  Zapatillas Deporti al 26.71 % de descuento'
-date: 2021-02-21 10:02:59
-image: 'https://m.media-amazon.com/images/I/41YAkejHp0L._SL200_.jpg'
+date: 2021-02-22 10:29:47
+image: 'https://m.media-amazon.com/images/I/41YAkejHp0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.64'
 
 Ahora mismo tienes [Geox J Android Boy C  Zapatillas Deportivas Niños  Azul  Royal/Orange C0685   33 EU](https://www.amazon.es/dp/B07SVJLSRT/?tag=tolees-21) a 47.64 EUR (original: 65.0 EUR) (26.71 %  de descuento) en el siguiente enlace!
 
-[![Geox J Android Boy C  Zapatillas Deporti](https://m.media-amazon.com/images/I/41YAkejHp0L._SL200_.jpg)](https://www.amazon.es/dp/B07SVJLSRT/?tag=tolees-21)
+[![Geox J Android Boy C  Zapatillas Deporti](https://m.media-amazon.com/images/I/41YAkejHp0L._SL400_.jpg)](https://www.amazon.es/dp/B07SVJLSRT/?tag=tolees-21)
 
 🔎:
 
