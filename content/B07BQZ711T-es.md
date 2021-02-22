@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Skechers Delson-Antigo  Zapatos de Cordo al 17.57 % de descuento'
-date: 2021-02-21 10:51:51
-image: 'https://m.media-amazon.com/images/I/41R-da4uU4L._SL200_.jpg'
+date: 2021-02-22 15:58:43
+image: 'https://m.media-amazon.com/images/I/41R-da4uU4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07BQZ711T/?tag=tolees-21'
 descuento: '17.57'
-average: '65.4999206349207'
+average: '65.5061718750001'
 ---
 
 Está [Skechers Delson-Antigo  Zapatos de Cordones Oxford Hombre  Marrón  CDB Black Leather   42 EU](https://www.amazon.es/dp/B07BQZ711T/?tag=tolees-21) con 17.57 de descuento por 65.9 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Skechers Delson-Antigo  Zapatos de Cordo](https://m.media-amazon.com/images/I/41R-da4uU4L._SL200_.jpg)](https://www.amazon.es/dp/B07BQZ711T/?tag=tolees-21)
+[![Skechers Delson-Antigo  Zapatos de Cordo](https://m.media-amazon.com/images/I/41R-da4uU4L._SL400_.jpg)](https://www.amazon.es/dp/B07BQZ711T/?tag=tolees-21)
 
 ℹ️:
 

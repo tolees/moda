@@ -28,8 +28,8 @@ Ahora mismo tienes [Jack & Jones Jeans Vaqueros  Blue Washed  32W / 32L para Hom
 
 🔎:
 
-- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Jack & Jones.
 - Jack & Jones Azul Mike Original 999 Jeans
+- Ver descripción del producto para obtener más información.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0823BZ7VV/?tag=tolees-21)

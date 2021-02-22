@@ -28,10 +28,10 @@ Tienes [Mottise Sport  Leggins Mujer  Leggins Deportivos  Mallas Running  Mallas
 
 🔎:
 
-- ✔️ANCHO CONTROL DE CINTURA – Muestra tu encanto personal confiadamente con este leggings mujer fitness. Cuentan con cintura alta que mejora el control del abdomen. Sujeta bien muslos, piernas, abdomen, cintura y glúteos.
-- ✔️COMPRE CON CONFIANZA – Creamos todos nuestros productos con materiales de la más alta calidad posible, teniendo en mente su completa satisfacción. Con gusto cambiaremos o reembolsaremos el producto si no está 100% satisfecho. ¡ORDENE AHORA!
-- ✔️MATERIAL DE ALTA CALIDAD – 75% Poliéster-25% Elastano. Leggins deportivos mujer la transpiración de tu cuerpo, elimina la humedad y te mantiene fresco durante tus rutinas de ejercicio. Excelente elasticidad para estirar y doblar libremente en todas direcciones.
 - ✔️IDEAL PARA TODO TIPO DE EJERCICIO – No se transparenta al hacer ejercicios. ¡Abraza perfectamente las caderas y da forma a las curvas! Las costuras no dan molestias ni rozaduras.
 - ✔️ REGALO AÑADIDO A SU COMPRA – Junto con su pantalon yoga mujer TALLA S hemos añadido a su compra una banda color negro ideal para secar el sudor en la frente, mallas anticelulíticas reductoras.
+- ✔️MATERIAL DE ALTA CALIDAD – 75% Poliéster-25% Elastano. Leggins deportivos mujer la transpiración de tu cuerpo, elimina la humedad y te mantiene fresco durante tus rutinas de ejercicio. Excelente elasticidad para estirar y doblar libremente en todas direcciones.
+- ✔️COMPRE CON CONFIANZA – Creamos todos nuestros productos con materiales de la más alta calidad posible, teniendo en mente su completa satisfacción. Con gusto cambiaremos o reembolsaremos el producto si no está 100% satisfecho. ¡ORDENE AHORA!
+- ✔️ANCHO CONTROL DE CINTURA – Muestra tu encanto personal confiadamente con este leggings mujer fitness. Cuentan con cintura alta que mejora el control del abdomen. Sujeta bien muslos, piernas, abdomen, cintura y glúteos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GKYL74N/?tag=tolees-21)
