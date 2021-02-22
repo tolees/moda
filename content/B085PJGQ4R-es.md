@@ -28,8 +28,8 @@ Tienes [Réplica oficial camiseta primera equipación rfef 2020  20CM0001  Regul
 
 🔎:
 
+- Producto oficial Licenciado
 - Logo del conmemorativo del centenario de la selección en el cuello
 - Escudo y estrella de campeones del mundo bordadas
-- Producto oficial Licenciado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085PJGQ4R/?tag=tolees-21)
