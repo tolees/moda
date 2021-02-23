@@ -29,7 +29,7 @@ Está [Wrangler Logo tee Camiseta  Gris  Mid Grey Mel X37   Medium para Hombre](
 ℹ️:
 
 - Estampado frontal con el logo de Wrangler
-- Tejido ligero primaveral
 - Corte cómodo e informal
+- Tejido ligero primaveral
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07M8W1TYW/?tag=tolees-21)
