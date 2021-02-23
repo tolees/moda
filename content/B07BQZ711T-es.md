@@ -28,10 +28,10 @@ Está [Skechers Delson-Antigo  Zapatos de Cordones Oxford Hombre  Marrón  CDB B
 
 ℹ️:
 
-- Material: Cuero
 - Color: marrón
 - Estilo: Sneaker Low
-- MÃ¡s informaciÃ³n: Skechers Men USA
 - NÃºmero del fabricante: 65693 CDB
+- MÃ¡s informaciÃ³n: Skechers Men USA
+- Material: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BQZ711T/?tag=tolees-21)
