@@ -29,7 +29,7 @@ Tienes [Tommy Hilfiger Heritage Crew Neck Graphic tee Camiseta  Azul  Midnight 4
 🔎:
 
 - Logo de Tommy Hilfiger en el pecho
-- Cinta distintiva en el interior del cuello
 - Logo de Tommy Hilfiger bordado en el bajo
+- Cinta distintiva en el interior del cuello
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N8Z1S4J/?tag=tolees-21)
