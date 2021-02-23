@@ -28,7 +28,7 @@ Tienes [ONLY Onlcrystal Ls Cardigan Noos  Chaqueta para Mujer  Negro  Black   42
 
 🔎:
 
-- El modelo de punto fino se lleva abierto y deja ver el resto del atuendo. Gracias al diseño sencillo, las posibilidades de la combinación no tienen límites.
 - Alarma básica. Este cárdigan de Only es un clásico imprescindible en el armario de una mujer moderna.
+- El modelo de punto fino se lleva abierto y deja ver el resto del atuendo. Gracias al diseño sencillo, las posibilidades de la combinación no tienen límites.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01A714HWS/?tag=tolees-21)
