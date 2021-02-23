@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Columbia Powder Lite Chaqueta para Hombr con un 44.10 % de descuento'
-date: 2021-02-19 10:28:20
-image: 'https://m.media-amazon.com/images/I/41Wlgw5Aa9L._SL200_.jpg'
+title: 'Columbia Powder Lite Chaqueta para Hombr con un 32.01 % de descuento'
+date: 2021-02-23 21:10:49
+image: 'https://m.media-amazon.com/images/I/41Wlgw5Aa9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0814B8ZWF-es Columbia Powder Lite Chaqueta para Hombre Azul Bright...'
 sku: 'B0814B8ZWF-es'
 tags: [ 'chaqueta', ]
-actualPrice: 55.89 EUR
+actualPrice: 67.98 EUR
 currency: EUR
-price: 55.89
+price: 67.98
 comparePrice: 99.99 EUR
 prodname: 'Columbia Powder Lite Chaqueta para Hombre  Azul  Bright Indigo   S'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B0814B8ZWF/?tag=tolees-21'
-descuento: '44.10'
-average: '66.578'
+descuento: '32.01'
+average: '66.8116666666666'
 ---
 
-En este momento está [Columbia Powder Lite Chaqueta para Hombre  Azul  Bright Indigo   S](https://www.amazon.es/dp/B0814B8ZWF/?tag=tolees-21) a 55.89 EUR (original: 99.99 EUR) (44.10 %  de descuento) en el siguiente enlace!
+En este momento está [Columbia Powder Lite Chaqueta para Hombre  Azul  Bright Indigo   S](https://www.amazon.es/dp/B0814B8ZWF/?tag=tolees-21) a 67.98 EUR (original: 99.99 EUR) (32.01 %  de descuento) en el siguiente enlace!
 
-[![Columbia Powder Lite Chaqueta para Hombr](https://m.media-amazon.com/images/I/41Wlgw5Aa9L._SL200_.jpg)](https://www.amazon.es/dp/B0814B8ZWF/?tag=tolees-21)
+[![Columbia Powder Lite Chaqueta para Hombr](https://m.media-amazon.com/images/I/41Wlgw5Aa9L._SL400_.jpg)](https://www.amazon.es/dp/B0814B8ZWF/?tag=tolees-21)
 
 🔎:
 
-- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
-- Contenido: 1x Columbia Powder Lite Chaqueta para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Azul (Bright Indigo), Talla: S, Art.No.1698001
-- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
-- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 - Chaqueta de hombre optimo para las excursiones de alta montaña gracias a su forro termorreflectante para mantenerte caliente y a gusto
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- Contenido: 1x Columbia Powder Lite Chaqueta para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Azul (Bright Indigo), Talla: S, Art.No.1698001
+- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
+- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0814B8ZWF/?tag=tolees-21)

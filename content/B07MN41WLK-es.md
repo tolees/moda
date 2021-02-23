@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Wrangler SS Logo tee Camiseta  Gris  Mid al 29.82 % de descuento'
-date: 2020-01-01 17:57:52
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416yFLnhR9L._SL400_.jpg'
+title: 'Wrangler Logo tee Camiseta  Gris  Mid Gr al 49.97 % de descuento'
+date: 2021-02-23 21:50:51
+image: 'https://m.media-amazon.com/images/I/41oUqdM2imL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN41WLK-es Wrangler SS Logo tee Camiseta Gris Mid Grey Mel X37 XL...'
+slug: 'B07MN41WLK-es Wrangler Logo tee Camiseta Gris Mid Grey Mel X37 X-Large...'
 sku: 'B07MN41WLK-es'
 tags: [ 'camiseta', ]
-actualPrice: 14 EUR
+actualPrice: 9.98 EUR
 currency: EUR
-price: 14
+price: 9.98
 comparePrice: 19.95 EUR
-prodname: 'Wrangler SS Logo tee Camiseta  Gris  Mid Grey Mel X37   XL para Hombre'
+prodname: 'Wrangler Logo tee Camiseta  Gris  Mid Grey Mel X37   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Wrangler'
 buyurl: 'https://www.amazon.es/dp/B07MN41WLK/?tag=tolees-21'
-descuento: '29.82'
-average: '14'
+descuento: '49.97'
+average: '11.32'
 ---
 
-Está [Wrangler SS Logo tee Camiseta  Gris  Mid Grey Mel X37   XL para Hombre](https://www.amazon.es/dp/B07MN41WLK/?tag=tolees-21) con 29.82 de descuento por 14 EUR (original: 19.95 EUR) en el siguiente enlace!
+Está [Wrangler Logo tee Camiseta  Gris  Mid Grey Mel X37   X-Large para Hombre](https://www.amazon.es/dp/B07MN41WLK/?tag=tolees-21) con 49.97 de descuento por 9.98 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![Wrangler SS Logo tee Camiseta  Gris  Mid](https://images-eu.ssl-images-amazon.com/images/I/416yFLnhR9L._SL400_.jpg)](https://www.amazon.es/dp/B07MN41WLK/?tag=tolees-21)
+[![Wrangler Logo tee Camiseta  Gris  Mid Gr](https://m.media-amazon.com/images/I/41oUqdM2imL._SL400_.jpg)](https://www.amazon.es/dp/B07MN41WLK/?tag=tolees-21)
 
 ℹ️:
 
+- Corte cómodo e informal
+- Tejido ligero primaveral
+- Estampado frontal con el logo de Wrangler
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MN41WLK/?tag=tolees-21)

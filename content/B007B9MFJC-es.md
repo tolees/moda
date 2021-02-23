@@ -28,10 +28,10 @@ Tienes [crocs Crocband U  Zuecos Unisex Adulto  Gris  Charcoal-Ocean   36-37 EU]
 
 🔎:
 
-- Revestimiento: Sintético
+- Altura del tacón: 1.5 pulgadas
 - Material exterior: Espuma
 - Material de la suela: Goma
 - Cierre: Sin cordones
-- Altura del tacón: 1.5 pulgadas
+- Revestimiento: Sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007B9MFJC/?tag=tolees-21)
