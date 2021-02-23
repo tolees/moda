@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Crocs Crocband U  Zuecos Unisex Adulto   al 44.88 % de descuento'
-date: 2021-02-18 20:10:30
-image: 'https://m.media-amazon.com/images/I/41aOyfU5puL._SL200_.jpg'
+date: 2021-02-23 20:48:33
+image: 'https://m.media-amazon.com/images/I/41aOyfU5puL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B01HQAMFCW/?tag=tolees-21'
 descuento: '44.88'
-average: '26.5734640522877'
+average: '26.5505806451614'
 ---
 
 Está [Crocs Crocband U  Zuecos Unisex Adulto  Rojo  Pepper   36-37 EU](https://www.amazon.es/dp/B01HQAMFCW/?tag=tolees-21) con 44.88 de descuento por 24.8 EUR (original: 44.99 EUR) en el siguiente enlace!
 
-[![Crocs Crocband U  Zuecos Unisex Adulto  ](https://m.media-amazon.com/images/I/41aOyfU5puL._SL200_.jpg)](https://www.amazon.es/dp/B01HQAMFCW/?tag=tolees-21)
+[![Crocs Crocband U  Zuecos Unisex Adulto  ](https://m.media-amazon.com/images/I/41aOyfU5puL._SL400_.jpg)](https://www.amazon.es/dp/B01HQAMFCW/?tag=tolees-21)
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Material exterior: Espuma
 - Altura del tacón: 1.5 pulgadas
+- Material exterior: Espuma
 - Material de la suela: Goma
 - Cierre: Sin cordones
+- Revestimiento: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HQAMFCW/?tag=tolees-21)
