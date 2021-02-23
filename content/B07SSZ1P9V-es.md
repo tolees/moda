@@ -28,10 +28,10 @@ Tienes [Rosenryan Bolsas de colofonia de 90 micras Bolsa de nylon reutilizable B
 
 🔎:
 
-- Resistente al calor - Recomendamos 180-240 ° F (82-115 ° C) para una extracción ideal. (Hasta 300 ° F / 150 ° C)
-- Solicitud - Filtro de aceite y bolsa de té, filtración líquida y otros medios de separación, filtro de presión de precisión, filtro de combustible, protección de la dirección y boquillas de inyección de combustible.
-- Diseño de doble costura - Las costuras perfectas minimizan las explosiones, evitan roturas y explosiones, garantizan un uso seguro. Rendimiento de filtración estable y de alta precisión.
 - 25/90 micras opcional - Cuanto mayor sea el número de micras, el orificio de tela será más grande.
+- Solicitud - Filtro de aceite y bolsa de té, filtración líquida y otros medios de separación, filtro de presión de precisión, filtro de combustible, protección de la dirección y boquillas de inyección de combustible.
 - Material de seguridad - La malla filtrante de nylon de grado alimenticio hace que las bolsas de colofonia sean muy resistentes, resistentes a altas temperaturas y con un buen rendimiento de abrasión.
+- Resistente al calor - Recomendamos 180-240 ° F (82-115 ° C) para una extracción ideal. (Hasta 300 ° F / 150 ° C)
+- Diseño de doble costura - Las costuras perfectas minimizan las explosiones, evitan roturas y explosiones, garantizan un uso seguro. Rendimiento de filtración estable y de alta precisión.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SSZ1P9V/?tag=tolees-21)
