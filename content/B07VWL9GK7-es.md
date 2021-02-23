@@ -28,7 +28,7 @@ Ahora mismo tienes [Tommy Hilfiger TJM Corp Logo tee Camiseta Deporte  Azul  Twi
 
 🔎:
 
-- Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 - Tommy Jeans - Camisetas S/S para hombre
+- Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VWL9GK7/?tag=tolees-21)

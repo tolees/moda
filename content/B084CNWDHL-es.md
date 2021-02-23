@@ -28,10 +28,10 @@ Tienes [HAWKERS Gafas de Sol Audrey Estilo Butterfly  para Mujer  con Montura De
 
 🔎:
 
+- Medidas: Frente:14,4 cm, Altura: 5,64 cm, Diámetro de la lente: 5,2 cm, Puente: 1,9 cm; Varillas: 14 cm
+- Lente en rosa dorada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV403
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 - Montura fabricada en TR90 con que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas
 - Gafas de sol Audrey para mujer, inspiradas en el icónico modelo que llevaba la actriz Audrey Hepburn en la película Desayuno con Diamantes, con montura negra brillante y cristal rosa dorado con efecto espejo
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
-- Lente en rosa dorada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV403
-- Medidas: Frente:14,4 cm, Altura: 5,64 cm, Diámetro de la lente: 5,2 cm, Puente: 1,9 cm; Varillas: 14 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084CNWDHL/?tag=tolees-21)
