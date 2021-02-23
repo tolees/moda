@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only 15174274 Chaqueta Punto  Beige  Bei con un 43.35 % de descuento'
-date: 2021-02-22 22:10:17
+date: 2021-02-23 22:53:11
 image: 'https://m.media-amazon.com/images/I/41Bu9sZjmAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07Y3SNNMM/?tag=tolees-21'
 descuento: '43.35'
-average: '17.6483870967742'
+average: '17.6278125'
 ---
 
 En este momento está [Only 15174274 Chaqueta Punto  Beige  Beige Detail: W. Melange   42  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07Y3SNNMM/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!

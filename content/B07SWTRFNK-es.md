@@ -28,13 +28,13 @@ Ahora mismo tienes [Geox D Myria D  Zapatillas Mujer  Beige  Lt Taupe C6738   39
 
 🔎:
 
-- Material exterior: Cuero ante
-- Revestimiento: Sintético
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Cierre: Cremallera
 - Tipo de tacón: Plano
+- Altura del tacón: 3.0 centímetros
 - Anchura del zapato: Normal
 - Material de la suela: Goma
-- Altura del tacón: 3.0 centímetros
-- Cierre: Cremallera
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Material exterior: Cuero ante
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SWTRFNK/?tag=tolees-21)
