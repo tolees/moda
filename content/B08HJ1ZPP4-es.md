@@ -28,9 +28,9 @@ Tienes [Pepe Jeans Amanda Monedero con Tarjetero Beige 11 5x8x1 5 cms Piel Sint�
 
 🔎:
 
+- Tamaño ideal para llevarlo en un bolso pequeño o bandolera.
 - De Joumma Bags.
 - Monedero de 11,5 cm x 8 cm x 1,5 cm fabricado en piel sintética.
 - Cuenta un compartimento con cierre de cremallera y dos ranuras para tarjetas a cada lado.
-- Tamaño ideal para llevarlo en un bolso pequeño o bandolera.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HJ1ZPP4/?tag=tolees-21)
