@@ -28,8 +28,8 @@ Tienes [Levi s 511 Slim Vaqueros  Fennel Subtle  33W / 34L para Hombre](https://
 
 🔎:
 
-- Corte ajustado de la cadera al tobillo
 - Estilo esbelto con confort añadido
+- Corte ajustado de la cadera al tobillo
 - Diseño de cinco bolsillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KF4QKSS/?tag=tolees-21)

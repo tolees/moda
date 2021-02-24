@@ -29,7 +29,7 @@ En este momento está [Jack & Jones JJGRAND tee SS Crew Neck Camiseta  Azul Vaqu
 🔎:
 
 - Manga corta
-- Corte ajustado
 - 100% algodón
+- Corte ajustado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DKZSLLX/?tag=tolees-21)

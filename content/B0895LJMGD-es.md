@@ -28,10 +28,10 @@ Tienes [DC Shoes Pocket - Camiseta - Hombre - S](https://www.amazon.es/dp/B0895L
 
 ℹ️:
 
-- Cinta espigada en la parte posterior del cuello
-- __Corte:__ corte normal, cómodo
-- __Cuello:__ cuello redondo
-- __Tejido:__ tejido ligero punto jersey de algodón y poliéster
 - Tejido idéntico en bolsillo del pecho
+- __Cuello:__ cuello redondo
+- Cinta espigada en la parte posterior del cuello
+- __Tejido:__ tejido ligero punto jersey de algodón y poliéster
+- __Corte:__ corte normal, cómodo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895LJMGD/?tag=tolees-21)
