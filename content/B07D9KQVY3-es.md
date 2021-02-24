@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'tomtoc Bolso Bandolera de Hombro para 16 con un 38.75 % de descuento'
-date: 2021-01-28 23:30:21
-image: 'https://m.media-amazon.com/images/I/51F3In96AIL._SL200_.jpg'
+date: 2021-02-24 14:39:51
+image: 'https://m.media-amazon.com/images/I/51F3In96AIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -13,17 +13,18 @@ actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99
 comparePrice: 79.99 EUR
-prodname: 'tomtoc Bolso Bandolera de Hombro para 16" MacBook Pro 2019  15 6" MacBook Portátil  Maletín Multifuncional para 15 6" HP Dell Acer Lenovo Asus Samsung Notebook Tabletas  Negro'
+prodname: 'tomtoc Bolso Bandolera de Hombro para 16" MacBook Pro 2019  15 6" MacBook Portátil  Maletín Multifuncional para 15 6" HP DELL Acer Lenovo ASUS Samsung Notebook Tabletas  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: 'tomtoc'
 buyurl: 'https://www.amazon.es/dp/B07D9KQVY3/?tag=tolees-21'
 descuento: '38.75'
-average: '49.07'
+average: '49.0640740740741'
 ---
 
-En este momento está [tomtoc Bolso Bandolera de Hombro para 16" MacBook Pro 2019  15 6" MacBook Portátil  Maletín Multifuncional para 15 6" HP Dell Acer Lenovo Asus Samsung Notebook Tabletas  Negro](https://www.amazon.es/dp/B07D9KQVY3/?tag=tolees-21) a 48.99 EUR (original: 79.99 EUR) (38.75 %  de descuento) en el siguiente enlace!
+En este momento está [tomtoc Bolso Bandolera de Hombro para 16" MacBook Pro 2019  15 6" MacBook Portátil  Maletín Multifuncional para 15 6" HP DELL Acer Lenovo ASUS Samsung Notebook Tabletas  Negro](https://www.amazon.es/dp/B07D9KQVY3/?tag=tolees-21) a 48.99 EUR (original: 79.99 EUR) (38.75 %  de descuento) en el siguiente enlace!
 
-[![tomtoc Bolso Bandolera de Hombro para 16](https://m.media-amazon.com/images/I/51F3In96AIL._SL200_.jpg)](https://www.amazon.es/dp/B07D9KQVY3/?tag=tolees-21)
+[![tomtoc Bolso Bandolera de Hombro para 16](https://m.media-amazon.com/images/I/51F3In96AIL._SL400_.jpg)](https://www.amazon.es/dp/B07D9KQVY3/?tag=tolees-21)
 
 🔎:
 
