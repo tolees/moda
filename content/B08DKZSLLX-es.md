@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJGRAND tee SS Crew Neck Ca con un 25.03 % de descuento'
-date: 2021-02-22 14:47:23
+date: 2021-02-24 07:41:37
 image: 'https://m.media-amazon.com/images/I/41wF3xk09EL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Jack & Jones JJGRAND tee SS Crew Neck Camiseta  Azul Vaqu
 
 🔎:
 
-- Corte ajustado
 - 100% algodón
 - Manga corta
+- Corte ajustado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DKZSLLX/?tag=tolees-21)
