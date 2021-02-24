@@ -28,8 +28,8 @@ En este momento está [Levi s SS Original Hm tee Camiseta  Rugby Stripe Dress Bl
 
 🔎:
 
+- Modelo casual
 - Adecuada para el día a día
 - Logotipo pequeño de Levis en el pecho
-- Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVQ948X/?tag=tolees-21)

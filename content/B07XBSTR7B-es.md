@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Teamgoal 23 Causals Hoody Sudadera  Hombre  Puma Red  M
 
 🔎:
 
-- Logotipo del felino PUMA en la parte derecha del pecho
-- Manga larga
-- Algodón, poliéster y elastano
-- Capucha con cordón ajustable
 - Bolsillo delantero tipo canguro
+- Algodón, poliéster y elastano
+- Manga larga
+- Capucha con cordón ajustable
+- Logotipo del felino PUMA en la parte derecha del pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XBSTR7B/?tag=tolees-21)
