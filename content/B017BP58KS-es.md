@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Philips Lumea Advanced SC1999/00 - Depil con un 36.11 % de descuento'
-date: 2021-02-16 11:28:49
-image: 'https://m.media-amazon.com/images/I/31DCP6vbzjL._SL200_.jpg'
+date: 2021-02-24 08:30:51
+image: 'https://m.media-amazon.com/images/I/31DCP6vbzjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,20 +19,20 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B017BP58KS/?tag=tolees-21'
 descuento: '36.11'
-average: '264.536571428572'
+average: '262.66918918919'
 ---
 
 En este momento está [Philips Lumea Advanced SC1999/00 - Depiladora Luz Pulsada  para la Depilación Permanente del Vello Visible en Casa con sensor de tono de piel y 3 Cabezales: Cuerpo  Cara y Zona Bikini](https://www.amazon.es/dp/B017BP58KS/?tag=tolees-21) a 229.99 EUR (original: 359.99 EUR) (36.11 %  de descuento) en el siguiente enlace!
 
-[![Philips Lumea Advanced SC1999/00 - Depil](https://m.media-amazon.com/images/I/31DCP6vbzjL._SL200_.jpg)](https://www.amazon.es/dp/B017BP58KS/?tag=tolees-21)
+[![Philips Lumea Advanced SC1999/00 - Depil](https://m.media-amazon.com/images/I/31DCP6vbzjL._SL400_.jpg)](https://www.amazon.es/dp/B017BP58KS/?tag=tolees-21)
 
 🔎:
 
+- Con Sensor de tono de piel integrado que mide la complexión de la piel
+- 5 posiciones de intensidad para adaptarse a los distintos tonos de piel
 - Incluye 3 accesorios específicos para cara, ingles& axilas y cuerpo para un tratamiento más efectivo
 - Tecnología IPL (luz pulsada intensa) profesional desarrollada por dermatólogos para uso doméstico de forma segura, sencilla y eficaz
 - Gran ventana de tratamiento para una aplicación rápida: 8 min para pierna, 1 min. para axilas, 1 min para linea del bikini
-- 5 posiciones de intensidad para adaptarse a los distintos tonos de piel
-- Con Sensor de tono de piel integrado que mide la complexión de la piel
 - Reduce el 85% del vello en tan sólo 3 sesiones*
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B017BP58KS/?tag=tolees-21)
