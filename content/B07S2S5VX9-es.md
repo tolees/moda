@@ -28,8 +28,8 @@ Tienes [Levi s The Jacket Chaqueta vaquera  Blue  Moon Lit Trucker 0466   M para
 
 🔎:
 
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Manga larga con cierre de botón en los puños
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Bajo ajustable en el lateral
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S2S5VX9/?tag=tolees-21)
