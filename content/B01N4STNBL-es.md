@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Logo Camiseta de Cuello R al 33.14 % de rebaja'
-date: 2021-02-23 16:39:18
+date: 2021-02-24 22:23:20
 image: 'https://m.media-amazon.com/images/I/41RQFcpDcvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B01N4STNBL/?tag=tolees-21'
 descuento: '33.14'
-average: '19.5767256637166'
+average: '19.5803508771928'
 ---
 
 Tienes [Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para El Tiempo Libre  Blanco  White   XL para Hombre](https://www.amazon.es/dp/B01N4STNBL/?tag=tolees-21) con precio final de  19.99 EUR (original: 29.9 EUR) (33.14 %  de rebaja) aqui!

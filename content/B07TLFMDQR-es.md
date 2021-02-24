@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Barstow Western Standard Camisa   al 38.76 % de descuento'
-date: 2021-02-23 16:37:36
+date: 2021-02-24 22:42:42
 image: 'https://m.media-amazon.com/images/I/41Crr7BgfCL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TLFMDQR/?tag=tolees-21'
 descuento: '38.76'
-average: '48.7224413145537'
+average: '48.7236915887848'
 ---
 
 Ahora mismo tienes [Levi s Barstow Western Standard Camisa  Blue  Red Cast Stone 0001   X-Large para Hombre](https://www.amazon.es/dp/B07TLFMDQR/?tag=tolees-21) a 48.99 EUR (original: 80.0 EUR) (38.76 %  de descuento) en el siguiente enlace!
