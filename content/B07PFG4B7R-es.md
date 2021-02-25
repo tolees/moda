@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Boys Basic Cn Knit L/s Camiseta  Negro  Meteo
 
 🔎:
 
-- jersey de algodón orgánico puro
 - De cuello redondo camiseta
+- jersey de algodón orgánico puro
 - Tommy Hilfiger bordado bandera en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PFG4B7R/?tag=tolees-21)
