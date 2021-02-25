@@ -28,9 +28,9 @@ Tienes [Vitamina C - Bolso de mujer bandolera naranja con asa para hombro shoppe
 
 🔎:
 
-- Hecho de malla microperforada con forro a tono y de gran calidad, muy cómodo y amplio, este shopper de mujer puede usarse al hombro o tipo bandolera, adaptándose a muchos estilos.
-- Tiene correa de hombro desmontable y ajustable con el logo de la marca y un bolsillo interno perfecto para el móvil y llaves.
-- El tamaño es de 30cm * 35cm * 10cm, suficiente espacio para tu iPad, papel A4, paraguas, botella, carpeta, maquillaje y mucho más.
 - Este es un bolso simple pero muy versátil y de moda, puedes usarlo para la oficina, para viajar, escuela, playa, etc.
+- Tiene correa de hombro desmontable y ajustable con el logo de la marca y un bolsillo interno perfecto para el móvil y llaves.
+- Hecho de malla microperforada con forro a tono y de gran calidad, muy cómodo y amplio, este shopper de mujer puede usarse al hombro o tipo bandolera, adaptándose a muchos estilos.
+- El tamaño es de 30cm * 35cm * 10cm, suficiente espacio para tu iPad, papel A4, paraguas, botella, carpeta, maquillaje y mucho más.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HS9SFKF/?tag=tolees-21)
