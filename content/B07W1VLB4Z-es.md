@@ -28,10 +28,10 @@ Tienes [Tommy Hilfiger TJM Chest Logo tee Camiseta  Rojo  Deep Crimson   Medium 
 
 🔎:
 
-- Algodón Oxford elástico
 - Corte entallado
-- Bandera de Tommy Hilfiger bordada en el pecho
-- Cinta interior del cuello
 - Cuello abotonado
+- Bandera de Tommy Hilfiger bordada en el pecho
+- Algodón Oxford elástico
+- Cinta interior del cuello
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W1VLB4Z/?tag=tolees-21)
