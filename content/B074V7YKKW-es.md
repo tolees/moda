@@ -28,10 +28,10 @@ Ahora mismo tienes [Timberland 6 Inch Basic Alburn Waterproof  Botas Chukka Homb
 
 🔎:
 
-- Material de la suela: Goma
-- Material exterior: Cuero
+- Cierre: Cordones
 - Tipo de tacón: Tacón ancho
 - Revestimiento: Tela
-- Cierre: Cordones
+- Material exterior: Cuero
+- Material de la suela: Goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074V7YKKW/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Desigual Accessories PU Shoulder Bag  Bolso bandolera. para 
 
 🔎:
 
-- Diseño; Accesorios; Back; Shoulder Bag; Black
 - negro
+- Diseño; Accesorios; Back; Shoulder Bag; Black
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083YHRHP7/?tag=tolees-21)

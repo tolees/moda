@@ -28,10 +28,10 @@ En este momento está [Art Vancouver  Sandalias con Punta Abierta Hombre  Marró
 
 🔎:
 
+- Cierre: Velcro
 - Tipo de tacón: Plataforma
 - Material exterior: Cuero
 - Material de la suela: Caucho
-- Cierre: Velcro
 - Revestimiento: Sin forro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VS3VDRZ/?tag=tolees-21)
