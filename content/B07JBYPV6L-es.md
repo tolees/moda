@@ -28,10 +28,10 @@ Está [Columbia Powder Lite Jacket Chaqueta  Hombre  Azul  Collegiate Navy   S](
 
 ℹ️:
 
+- Contents: 1 x Columbia Mens Powder Lite Jacket, Shell: Storm-Lite DP II 100% polyester; Lining: Omni-Heat Reflective lining 100% polyester; Insulation: Thermarator 100% polyester, Colour: Collegiate Navy, Size: S , Art.No 1698001
 - Water resistant fabric that protects you from light rain showers and fog, Optimal fit thanks to drawcord adjustable hem
 - The jacket has reflective Omni-Heat technology which offers you improved insulation to keep you warm even on the coldest days
 - Mens jacket ideal for high-mountain hikes thanks to its thermal reflective lining to keep you warm and cosy
-- Contents: 1 x Columbia Mens Powder Lite Jacket, Shell: Storm-Lite DP II 100% polyester; Lining: Omni-Heat Reflective lining 100% polyester; Insulation: Thermarator 100% polyester, Colour: Collegiate Navy, Size: S , Art.No 1698001
 - The zip pockets give you versatility. Keep your hands warm when needed or store your phone and other accessories without the fear of them falling out
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JBYPV6L/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [IEFIEL Vestido de Princesa Niña Tul Tutú Vestido Blanco de Fiesta Boda 
 
 ℹ️:
 
+- Si usted no confirma qué talla debe elegir, podría comprobar los detalles de tamaño en el medio de esta página
 - Perfecto para fiestas, boda, bautizo cumpleaños o otras ocasiones especiales
 - La parte superior de satén sin mangas con cremallera oculta a las espaldas
-- Si usted no confirma qué talla debe elegir, podría comprobar los detalles de tamaño en el medio de esta página
 - Falda de 4 capas, las primeras dos capas de malla, una capa de satén y una capa de forro
 - Banda de cintura con un broche desmontable delante, un lazo grande
 
