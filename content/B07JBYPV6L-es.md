@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Columbia Powder Lite Jacket Chaqueta  Ho al 31.51 % de descuento'
-date: 2021-02-25 18:41:51
+title: 'Columbia Powder Lite Jacket Chaqueta  Ho al 34.01 % de descuento'
+date: 2021-02-26 19:31:23
 image: 'https://m.media-amazon.com/images/I/41MF7UajawL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B07JBYPV6L-es Columbia Powder Lite Jacket Chaqueta Hombre Azul...'
 sku: 'B07JBYPV6L-es'
 tags: [ 'chaqueta', ]
-actualPrice: 68.48 EUR
+actualPrice: 65.98 EUR
 currency: EUR
-price: 68.48
+price: 65.98
 comparePrice: 99.99 EUR
 prodname: 'Columbia Powder Lite Jacket Chaqueta  Hombre  Azul  Collegiate Navy   S'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B07JBYPV6L/?tag=tolees-21'
-descuento: '31.51'
-average: '69.0916666666667'
+descuento: '34.01'
+average: '68.6471428571429'
 ---
 
-Está [Columbia Powder Lite Jacket Chaqueta  Hombre  Azul  Collegiate Navy   S](https://www.amazon.es/dp/B07JBYPV6L/?tag=tolees-21) con 31.51 de descuento por 68.48 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [Columbia Powder Lite Jacket Chaqueta  Hombre  Azul  Collegiate Navy   S](https://www.amazon.es/dp/B07JBYPV6L/?tag=tolees-21) con 34.01 de descuento por 65.98 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Columbia Powder Lite Jacket Chaqueta  Ho](https://m.media-amazon.com/images/I/41MF7UajawL._SL400_.jpg)](https://www.amazon.es/dp/B07JBYPV6L/?tag=tolees-21)
 
 ℹ️:
 
-- The jacket has reflective Omni-Heat technology which offers you improved insulation to keep you warm even on the coldest days
-- Mens jacket ideal for high-mountain hikes thanks to its thermal reflective lining to keep you warm and cosy
-- Contents: 1 x Columbia Mens Powder Lite Jacket, Shell: Storm-Lite DP II 100% polyester; Lining: Omni-Heat Reflective lining 100% polyester; Insulation: Thermarator 100% polyester, Colour: Collegiate Navy, Size: S , Art.No 1698001
-- Water resistant fabric that protects you from light rain showers and fog, Optimal fit thanks to drawcord adjustable hem
-- The zip pockets give you versatility. Keep your hands warm when needed or store your phone and other accessories without the fear of them falling out
+- Chaqueta de hombre optimo para las excursiones de alta montaña gracias a su forro termorreflectante para mantenerte caliente y a gusto
+- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
+- Contenido: 1x Columbia Powder Lite Chaqueta para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Azul (Collegiate Navy), Talla: S, Art.No.1698001
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JBYPV6L/?tag=tolees-21)

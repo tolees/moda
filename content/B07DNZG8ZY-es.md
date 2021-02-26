@@ -28,8 +28,8 @@ En este momento está [Arena The One Gafas de Natación  Unisex Adulto  Gris  Cl
 
 🔎:
 
-- Puente de nariz autoajustable, correa dividida, sin PVC
 - Lentes duras con protección UV y película antivaho.
+- Puente de nariz autoajustable, correa dividida, sin PVC
 - También aptas para triatlón y aguas abiertas
 - Cómodas gafas de natación para entrenamiento con ajuste universal y sellado suave.
 - 50% policarbonato, 30% caucho termoplástico, 20% silicona
