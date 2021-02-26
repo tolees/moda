@@ -30,8 +30,8 @@ Está [G-STAR RAW Graphic 8 Round Neck Camiseta  Azul  Sartho Blue 6067   XXS pa
 
 - Manga corta
 - Camiseta
-- 100% Algodón
-- Estilo del cuello: Cuello redondo
 - Lavar a máquina - caliente (mayor de 30 °)
+- Estilo del cuello: Cuello redondo
+- 100% Algodón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MZJGTM1/?tag=tolees-21)

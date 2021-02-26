@@ -28,9 +28,9 @@ Ahora mismo tienes [G-STAR RAW Graphic 8 Round Neck Camiseta  Blanco  White 110 
 
 🔎:
 
-- Lavar a máquina - caliente (mayor de 30 °)
-- Manga corta
 - Camiseta
+- Manga corta
+- Lavar a máquina - caliente (mayor de 30 °)
 - Estilo del cuello: Cuello redondo
 - 100% Algodón
 
