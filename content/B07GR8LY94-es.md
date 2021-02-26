@@ -28,10 +28,10 @@ Tienes [Calvin Klein J20J207879 Camiseta  099  XL para Mujer](https://www.amazon
 
 🔎:
 
+- Corte ajustado.
+- 100% algodón.
 - Logotipo impreso en la parte delantera.
 - Instrucciones de cuidado: lavar a máquina en frío (30 ° máx.).
-- Corte ajustado.
 - Cuello redondo.
-- 100% algodón.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GR8LY94/?tag=tolees-21)

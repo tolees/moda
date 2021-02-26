@@ -29,7 +29,7 @@ Tienes [Geox D Nebula C  Zapatillas Mujer  Azul  Navy C4002   36 EU](https://www
 🔎:
 
 - Casual Sneakers
-- Comfortable
 - Durable
+- Comfortable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DJ3VZ4Y/?tag=tolees-21)
