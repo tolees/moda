@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Levi s Slim 2pk Crewneck 1 Camiseta  Bla al 51.09 % de descuento'
-date: 2020-09-16 18:42:10
+title: 'Levi s Slim 2Pk Crewneck 1 Camiseta  Two al 30.03 % de descuento'
+date: 2021-02-26 06:42:17
 image: 'https://m.media-amazon.com/images/I/21yoLBSikAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDSSZH-es Levi s Slim 2pk Crewneck 1 Camiseta Blanco Two-Pack tee...'
+slug: 'B07LFDSSZH-es Levi s Slim 2Pk Crewneck 1 Camiseta Two-Pack tee White +...'
 sku: 'B07LFDSSZH-es'
 tags: [ 'camiseta', ]
-actualPrice: 17.12 EUR
+actualPrice: 24.49 EUR
 currency: EUR
-price: 17.12
+price: 24.49
 comparePrice: 35.0 EUR
-prodname: 'Levi s Slim 2pk Crewneck 1 Camiseta  Blanco  Two-Pack tee White + White 0000   XX-Large 2 para Hombre'
+prodname: 'Levi s Slim 2Pk Crewneck 1 Camiseta  Two-Pack tee White + White  XXL 2 para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFDSSZH/?tag=tolees-21'
-descuento: '51.09'
-average: '17.426250000000003'
+descuento: '30.03'
+average: '18.2111111111112'
 ---
 
-Ahora mismo tienes [Levi s Slim 2pk Crewneck 1 Camiseta  Blanco  Two-Pack tee White + White 0000   XX-Large 2 para Hombre](https://www.amazon.es/dp/B07LFDSSZH/?tag=tolees-21) a 17.12 EUR (original: 35.0 EUR) (51.09 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Levi s Slim 2Pk Crewneck 1 Camiseta  Two-Pack tee White + White  XXL 2 para Hombre](https://www.amazon.es/dp/B07LFDSSZH/?tag=tolees-21) a 24.49 EUR (original: 35.0 EUR) (30.03 %  de descuento) en el siguiente enlace!
 
-[![Levi s Slim 2pk Crewneck 1 Camiseta  Bla](https://m.media-amazon.com/images/I/21yoLBSikAL._SL400_.jpg)](https://www.amazon.es/dp/B07LFDSSZH/?tag=tolees-21)
+[![Levi s Slim 2Pk Crewneck 1 Camiseta  Two](https://m.media-amazon.com/images/I/21yoLBSikAL._SL400_.jpg)](https://www.amazon.es/dp/B07LFDSSZH/?tag=tolees-21)
 
 🔎:
 
+- Elaboradas en punto suave
+- Con un logo Levis en el bajo
+- Modelos casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFDSSZH/?tag=tolees-21)
