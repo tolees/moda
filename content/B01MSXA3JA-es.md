@@ -28,13 +28,13 @@ En este momento está [Timberland Adventure 2.0 Cupsole Chukka  Zapatillas Hombr
 
 🔎:
 
-- Material de la suela: Goma
-- Tipo de tacón: Plano
-- Cierre: Cordones
-- Composición: Cuero
-- Revestimiento: Malla
-- Altura del tacón: 3 centímetros
 - Material exterior: Cuero
+- Cierre: Cordones
+- Revestimiento: Malla
+- Material de la suela: Goma
 - Anchura del zapato: Normal
+- Composición: Cuero
+- Tipo de tacón: Plano
+- Altura del tacón: 3 centímetros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MSXA3JA/?tag=tolees-21)
