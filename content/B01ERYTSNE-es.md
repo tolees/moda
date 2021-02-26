@@ -28,9 +28,9 @@ Está [Joma Elite V Camiseta  Unisex Adulto  Azul Marino  S](https://www.amazon.
 
 ℹ️:
 
-- Ofrece una libertad total de movimientos, sin deformar la prenda
-- Camiseta de manga corta fabricada en poliéster y elastano que la hace resistente y elástica
 - Tejido en forma de rejilla, Mesh, en las axilas para mejorar la entrada y salida de aire y mantener la temperatura corporal
+- Ofrece una libertad total de movimientos, sin deformar la prenda
 - Incorpora el sistema DRY MX para evacuar el sudor y ayudar a la transpiración
+- Camiseta de manga corta fabricada en poliéster y elastano que la hace resistente y elástica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ERYTSNE/?tag=tolees-21)
