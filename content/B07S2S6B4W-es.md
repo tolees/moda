@@ -28,8 +28,8 @@ Tienes [Levi s Housemark Graphic tee Camiseta  White  Ssnl Hm Camo White 0249   
 
 🔎:
 
-- Modelo casual
 - Tiene estampado el logotipo de Levis
+- Modelo casual
 - Ofrece comodidad todo el día
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S2S6B4W/?tag=tolees-21)

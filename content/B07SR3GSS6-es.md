@@ -28,7 +28,7 @@ Está [Lonsdale - Camiseta de manga corta con logotipo grande  cuello redondo  p
 
 ℹ️:
 
-- Cuello redondo.
 - Detalle de rayas.
+- Cuello redondo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SR3GSS6/?tag=tolees-21)

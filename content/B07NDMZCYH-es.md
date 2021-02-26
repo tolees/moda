@@ -28,10 +28,10 @@ Ahora mismo tienes [G-STAR RAW Graphic 8 Round Neck Camiseta  Marrón  Aged Almo
 
 🔎:
 
-- Lavar a máquina - caliente (mayor de 30 °)
-- Estilo del cuello: Cuello redondo
-- 100% Algodón
 - Manga corta
+- 100% Algodón
 - Camiseta
+- Estilo del cuello: Cuello redondo
+- Lavar a máquina - caliente (mayor de 30 °)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NDMZCYH/?tag=tolees-21)
