@@ -28,8 +28,8 @@ Tienes [HAWKERS · HYPNOSE · Electric Blue · Gafas de sol para hombre y mujer]
 
 🔎:
 
+- Montura en acetato de celulosa super black Mazzucchelli de calidad que aporta una adecuada resistencia y durabilidad; almohadillas de acetato para una sujeción mucho más cómoda
 - Producto oficial Hawkers
 - Modelo para hombre y mujer: Unisex
-- Montura en acetato de celulosa super black Mazzucchelli de calidad que aporta una adecuada resistencia y durabilidad; almohadillas de acetato para una sujeción mucho más cómoda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TJHXHD9/?tag=tolees-21)
