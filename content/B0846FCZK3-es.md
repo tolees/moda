@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Pepe Jeans Owen Camiseta  Blanco  802    con un 50.00 % de descuento'
-date: 2021-02-17 20:13:10
-image: 'https://m.media-amazon.com/images/I/31A0MjJiMEL._SL200_.jpg'
+date: 2021-02-27 11:04:57
+image: 'https://m.media-amazon.com/images/I/31A0MjJiMEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.0'
 
 En este momento está [Pepe Jeans Owen Camiseta  Blanco  802   14 años para Niños](https://www.amazon.es/dp/B0846FCZK3/?tag=tolees-21) a 16.0 EUR (original: 32.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Owen Camiseta  Blanco  802   ](https://m.media-amazon.com/images/I/31A0MjJiMEL._SL200_.jpg)](https://www.amazon.es/dp/B0846FCZK3/?tag=tolees-21)
+[![Pepe Jeans Owen Camiseta  Blanco  802   ](https://m.media-amazon.com/images/I/31A0MjJiMEL._SL400_.jpg)](https://www.amazon.es/dp/B0846FCZK3/?tag=tolees-21)
 
 🔎:
 
