@@ -28,8 +28,8 @@ Tienes [Levi s Graphic Camiseta  84 Sportswear Logo White White  XX-Small para H
 
 ℹ️:
 
+- Fabricada en tejido ligero
 - Modelo casual
 - Con el logotipo deportivo de Levis
-- Fabricada en tejido ligero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CXR85GZ/?tag=tolees-21)
