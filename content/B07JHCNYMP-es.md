@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Redmond V2  Zapatos de Senderis al 35.56 % de descuento'
-date: 2021-02-26 02:56:42
+date: 2021-02-27 09:28:43
 image: 'https://m.media-amazon.com/images/I/41yskzyTg5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B07JHCNYMP/?tag=tolees-21'
 descuento: '35.56'
-average: '58.0398550724638'
+average: '58.0384507042254'
 ---
 
 Ahora mismo tienes [Columbia Redmond V2  Zapatos de Senderismo Impermeables Hombre  Marrón  Mud  Dark Adobe   42 EU](https://www.amazon.es/dp/B07JHCNYMP/?tag=tolees-21) a 57.99 EUR (original: 89.99 EUR) (35.56 %  de descuento) en el siguiente enlace!

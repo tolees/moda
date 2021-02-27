@@ -28,8 +28,8 @@ Tienes [Levi s Crewneck 1 Camiseta  Multicolour  2pk Slim Crew Riverside/Earth R
 
 🔎:
 
-- Con un logo Levis en el bajo
-- Modelos casual
 - Elaboradas en punto suave
+- Modelos casual
+- Con un logo Levis en el bajo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TKDNGS9/?tag=tolees-21)

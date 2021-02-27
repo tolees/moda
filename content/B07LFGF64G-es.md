@@ -28,8 +28,8 @@ Tienes [Levi s 2Pk Crewneck 1 Camiseta  2 Pack Slim Crew White/Med Heather Grey 
 
 🔎:
 
-- Con un logo Levis en el bajo
 - Modelos casual
 - Elaboradas en punto suave
+- Con un logo Levis en el bajo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07LFGF64G/?tag=tolees-21)

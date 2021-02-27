@@ -29,7 +29,7 @@ En este momento está [Levi s Relaxed Graphic tee Camiseta  Grey  90 s Serif Log
 🔎:
 
 - Con logotipo de inspiración noventera
-- Tejido de punto con tacto suave
 - Modelo casual
+- Tejido de punto con tacto suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081HFM8PZ/?tag=tolees-21)
