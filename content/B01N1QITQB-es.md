@@ -28,13 +28,13 @@ Está [Timberland Adventure 2.0 Cupsole Chukka  Zapatillas Hombre  Verde Dark Ol
 
 ℹ️:
 
-- Revestimiento: Malla
-- Tipo de tacón: Plano
-- Material de la suela: Goma
+- Altura del tacón: 3 centímetros
+- Composición: Cuero
 - Cierre: Cordones
 - Anchura del zapato: Normal
+- Tipo de tacón: Plano
+- Material de la suela: Goma
+- Revestimiento: Malla
 - Material exterior: Cuero
-- Composición: Cuero
-- Altura del tacón: 3 centímetros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N1QITQB/?tag=tolees-21)

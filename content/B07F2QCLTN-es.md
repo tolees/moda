@@ -28,9 +28,9 @@ Ahora mismo tienes [Helly Hansen Crew Ligera Repelente Al Viento Y Al Agua Chaqu
 
 🔎:
 
+- Cremallera frontal YKK Metalux
+- El tejido principal repelente al viento y al agua lo mantiene caliente y seco en el interior
 - Aislamiento Primaloft Black 100g/ m2 en cuerpo.
 - Aislamiento sintético Primaloft Black 80g/ m2 en mangas
-- El tejido principal repelente al viento y al agua lo mantiene caliente y seco en el interior
-- Cremallera frontal YKK Metalux
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F2QCLTN/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DGP - Collar con colgante de acero inoxi con un 30.71 % de descuento'
-date: 2021-02-26 15:04:27
+date: 2021-02-27 15:23:54
 image: 'https://m.media-amazon.com/images/I/41SWNDeGcGL._SL400_.jpg'
 comments: true
 category: ofertas
