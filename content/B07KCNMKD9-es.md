@@ -28,9 +28,9 @@ Tienes [adidas T19 Hoody W Sudadera  Mujer  Black/White  2XS](https://www.amazon
 
 🔎:
 
-- Cuello de polo de canalé con dos botones.
-- Kangaroo pocket
 - Detalle en contraste en la nuca.
 - Logotipo de adidas bordado a la derecha del pecho.
+- Cuello de polo de canalé con dos botones.
+- Kangaroo pocket
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KCNMKD9/?tag=tolees-21)
