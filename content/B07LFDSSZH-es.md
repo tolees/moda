@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Slim 2Pk Crewneck 1 Camiseta  Two al 30.03 % de descuento'
-date: 2021-02-26 06:42:17
+date: 2021-02-27 07:04:48
 image: 'https://m.media-amazon.com/images/I/21yoLBSikAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFDSSZH/?tag=tolees-21'
 descuento: '30.03'
-average: '18.2111111111112'
+average: '18.8390000000001'
 ---
 
 Ahora mismo tienes [Levi s Slim 2Pk Crewneck 1 Camiseta  Two-Pack tee White + White  XXL 2 para Hombre](https://www.amazon.es/dp/B07LFDSSZH/?tag=tolees-21) a 24.49 EUR (original: 35.0 EUR) (30.03 %  de descuento) en el siguiente enlace!
