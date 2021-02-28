@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Descuento del 16.01 % en Superdry Orange Label Vintage EMB tee Ca'
-date: 2021-02-17 17:08:43
-image: 'https://m.media-amazon.com/images/I/31Attlm30hL._SL200_.jpg'
+title: 'Descuento del 20.01 % en Superdry Orange Label Vintage EMB tee Ca'
+date: 2021-02-28 14:00:10
+image: 'https://m.media-amazon.com/images/I/31Attlm30hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07NX6R5SP-es Superdry Orange Label Vintage EMB tee Camiseta Manga Corta...'
 sku: 'B07NX6R5SP-es'
 tags: [ 'camiseta', ]
-actualPrice: 20.99 EUR
+actualPrice: 19.99 EUR
 currency: EUR
-price: 20.99
+price: 19.99
 comparePrice: 24.99 EUR
 prodname: 'Superdry Orange Label Vintage EMB tee Camiseta Manga Corta  Azul  Eclipse Navy 98t   XXS para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B07NX6R5SP/?tag=tolees-21'
-descuento: '16.01'
-average: '20.99'
+descuento: '20.01'
+average: '21.415'
 ---
 
-Tienes [Superdry Orange Label Vintage EMB tee Camiseta Manga Corta  Azul  Eclipse Navy 98t   XXS para Hombre](https://www.amazon.es/dp/B07NX6R5SP/?tag=tolees-21) con un 16.01 % de descuento con precio de oferta de 20.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+Tienes [Superdry Orange Label Vintage EMB tee Camiseta Manga Corta  Azul  Eclipse Navy 98t   XXS para Hombre](https://www.amazon.es/dp/B07NX6R5SP/?tag=tolees-21) con un 20.01 % de descuento con precio de oferta de 19.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![Superdry Orange Label Vintage EMB tee Ca](https://m.media-amazon.com/images/I/31Attlm30hL._SL200_.jpg)](https://www.amazon.es/dp/B07NX6R5SP/?tag=tolees-21)
+[![Superdry Orange Label Vintage EMB tee Ca](https://m.media-amazon.com/images/I/31Attlm30hL._SL400_.jpg)](https://www.amazon.es/dp/B07NX6R5SP/?tag=tolees-21)
 
 ℹ️:
 

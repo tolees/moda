@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Levi s New Original Crew Sudadera  Dress al 36.94 % de descuento'
-date: 2021-02-03 17:33:40
-image: 'https://m.media-amazon.com/images/I/31AbuRqDbWL._SL200_.jpg'
+date: 2021-02-28 14:52:17
+image: 'https://m.media-amazon.com/images/I/31AbuRqDbWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.99'
 
 Ahora mismo tienes [Levi s New Original Crew Sudadera  Dress Blues  S para Hombre](https://www.amazon.es/dp/B07ZVPRT17/?tag=tolees-21) a 40.99 EUR (original: 65.0 EUR) (36.94 %  de descuento) en el siguiente enlace!
 
-[![Levi s New Original Crew Sudadera  Dress](https://m.media-amazon.com/images/I/31AbuRqDbWL._SL200_.jpg)](https://www.amazon.es/dp/B07ZVPRT17/?tag=tolees-21)
+[![Levi s New Original Crew Sudadera  Dress](https://m.media-amazon.com/images/I/31AbuRqDbWL._SL400_.jpg)](https://www.amazon.es/dp/B07ZVPRT17/?tag=tolees-21)
 
 🔎:
 

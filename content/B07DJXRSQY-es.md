@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox B Kaytan a  Sandalias para Bebés  W al 50.00 % de descuento'
-date: 2021-02-26 13:31:12
+date: 2021-02-28 13:32:53
 image: 'https://m.media-amazon.com/images/I/31B3xcHjl1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox B Kaytan a  Sandalias para Bebés  White/Silver C0007  
 
 🔎:
 
+- Material exterior: Cuero
+- Cierre: Velcro
 - Altura del tacón: 1.5 centímetros
 - Material de la suela: Sintético
 - Revestimiento: Cuero
-- Material exterior: Cuero
-- Cierre: Velcro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJXRSQY/?tag=tolees-21)
