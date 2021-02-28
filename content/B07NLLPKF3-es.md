@@ -28,10 +28,10 @@ En este momento está [ARTESANIA CERDA Bolso Riñonera Avengers  Azul  33 cm](ht
 
 🔎:
 
-- Bolso riñonera con medidas de 33x11x1cm
 - Riñonera de tela sintética y resistente - incluye etiqueta cosida decorativa de la marca
-- Bolso Riñonera Avengers con impresión frontal del escudo del Capitán América - Licencia Oficial de Marvel
 - Riñonera niño con doble compartimiento para guardar objetos personales - cierres super fáciles de usar
+- Bolso Riñonera Avengers con impresión frontal del escudo del Capitán América - Licencia Oficial de Marvel
+- Bolso riñonera con medidas de 33x11x1cm
 - Riñonera chico con cinta ajustable a la cadera con cierre de clip - muy fácil de poner y quitar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NLLPKF3/?tag=tolees-21)
