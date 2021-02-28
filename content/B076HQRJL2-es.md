@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Adidas CORE18 SW Top Sudadera  Hombre  A al 40.11 % de descuento'
-date: 2021-02-18 10:24:36
-image: 'https://m.media-amazon.com/images/I/41tXMycABsL._SL200_.jpg'
+date: 2021-02-28 17:32:39
+image: 'https://m.media-amazon.com/images/I/41tXMycABsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,20 +19,20 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21'
 descuento: '40.11'
-average: '24.4929268292684'
+average: '24.4800000000001'
 ---
 
 Ahora mismo tienes [Adidas CORE18 SW Top Sudadera  Hombre  Azul  Azul/Blanco   XS](https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21) a 23.95 EUR (original: 39.99 EUR) (40.11 %  de descuento) en el siguiente enlace!
 
-[![Adidas CORE18 SW Top Sudadera  Hombre  A](https://m.media-amazon.com/images/I/41tXMycABsL._SL200_.jpg)](https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21)
+[![Adidas CORE18 SW Top Sudadera  Hombre  A](https://m.media-amazon.com/images/I/41tXMycABsL._SL400_.jpg)](https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21)
 
 🔎:
 
 - Puños y dobladillo de canalé.
-- Corte clásico más ancho y silueta recta.
-- Logotipo de adidas bordado en el pecho.
 - Manga raglán.
-- Cuenta con un pequeño logotipo de Adidas en el pecho
 - Mangas con ribete en contraste.
+- Logotipo de adidas bordado en el pecho.
+- Corte clásico más ancho y silueta recta.
+- Cuenta con un pequeño logotipo de Adidas en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21)
