@@ -28,8 +28,8 @@ Ahora mismo tienes [Red Dingo GmbH - Red Dingo Plain - Collar Perro  Negro  Blac
 
 🔎:
 
-- Collar liso
-- Negro
 - Ancho 25 mm Largo 41 -64 cm
+- Negro
+- Collar liso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0088VPW2Y/?tag=tolees-21)
