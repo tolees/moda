@@ -28,13 +28,13 @@ Está [Timberland Adventure 2.0 Cupsole Chukka  Zapatillas Hombre  Amarillo Yell
 
 ℹ️:
 
-- Material de la suela: Goma
+- Anchura del zapato: Normal
 - Composición: Cuero
+- Altura del tacón: 3 centímetros
 - Material exterior: Cuero
+- Cierre: Cordones
 - Revestimiento: Malla
 - Tipo de tacón: Plano
-- Altura del tacón: 3 centímetros
-- Cierre: Cordones
-- Anchura del zapato: Normal
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XDTCLKX/?tag=tolees-21)
