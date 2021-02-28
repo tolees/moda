@@ -28,8 +28,8 @@ Tienes [Levi s tee Camiseta  Benitoite Cloud Dancer  XX-Small para Mujer](https:
 
 🔎:
 
-- Modelo casual
-- Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Con un discreto logo en el pecho
+- Modelo casual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZVQGY4T/?tag=tolees-21)
