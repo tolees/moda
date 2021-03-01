@@ -28,8 +28,8 @@ Tienes [Levi s Housemark Graphic tee Camiseta  Green  Hm Ssnl Emb Aloe 0250   XX
 
 ℹ️:
 
-- Ofrece comodidad todo el día
 - Tiene estampado el logotipo de Levis
+- Ofrece comodidad todo el día
 - Modelo casual
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TPPJXD5/?tag=tolees-21)

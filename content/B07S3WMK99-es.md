@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 28.04 % de rebaja'
-date: 2021-02-28 02:56:18
+date: 2021-03-01 03:28:52
 image: 'https://m.media-amazon.com/images/I/41gNeZ+K1wL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07S3WMK99/?tag=tolees-21'
 descuento: '28.04'
-average: '17.5855217391307'
+average: '17.5890086206899'
 ---
 
 Tienes [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  90 s Serif T2 White+ 0781   M](https://www.amazon.es/dp/B07S3WMK99/?tag=tolees-21) con precio final de  17.99 EUR (original: 25.0 EUR) (28.04 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  90 s Serif T2 White+ 07
 
 🔎:
 
+- Modelo casual
 - Tiene estampado la marca Levis
 - Con tacto suave de forro polar
-- Modelo casual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S3WMK99/?tag=tolees-21)

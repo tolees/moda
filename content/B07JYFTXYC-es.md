@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Logo T-Shirt Camiseta Informal  Gris  Cloud H
 
 🔎:
 
-- Logo de Tommy Hilfiger en el pecho
 - Cinta distintiva en el cuello
 - Logo de Tommy Hilfiger bordado en la manga
+- Logo de Tommy Hilfiger en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JYFTXYC/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s The Original Camiseta  Grey  Hm Patch OG tee Forged I
 
 🔎:
 
-- Fabricada en tejido de punto con tacto suave
 - Modelo casual
+- Fabricada en tejido de punto con tacto suave
 - Logotipo pequeño de Levis en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RZLH557/?tag=tolees-21)
