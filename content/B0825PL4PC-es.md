@@ -31,7 +31,7 @@ Tienes [GEOX B BIGLIA GIRL C ROSE SMOKE/PRUNE Baby Girls  First Walking Shoes Lo
 - Cierre: Strap
 - Material de la suela: Caucho
 - Tipo de talla: Los zapatos Geox son holgados
-- Revestimiento: Cuero
 - Material exterior: Cuero
+- Revestimiento: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0825PL4PC/?tag=tolees-21)
