@@ -29,10 +29,10 @@ Está [PUMA Liga Training Chaqueta de Entrenamiento  Hombre  Negro  Black/White 
 ℹ️:
 
 - Se puede usar tanto para ejercicio físico como para llevar en la calle
-- Logotipo de puma en la parte derecha del pecho
 - Tipo de deporte: Fútbol
-- Tipo de fábrica: 100% Poliester
+- Logotipo de puma en la parte derecha del pecho
 - Insertos bajo las axilas y dos bolsillos laterales con cremallera oculta
+- Tipo de fábrica: 100% Poliester
 - Chaqueta de puma con tecnología drycell que absorbe la humedad y ayuda a mantenerse seco y cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0781VC1QK/?tag=tolees-21)
