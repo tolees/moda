@@ -28,8 +28,8 @@ En este momento está [Lee Rider Jeans Vaqueros  Black Rinse 47  28W / 32L para 
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M8VJHCJ/?tag=tolees-21)

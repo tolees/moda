@@ -28,7 +28,7 @@ Está [G-STAR RAW Lancet Skinny  Vaqueros  para Hombre  Negro  Vintage Basalt De
 
 ℹ️:
 
-- Cintura muy ajustada
 - Piernas muy ajustadas
+- Cintura muy ajustada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Z4B96XG/?tag=tolees-21)
