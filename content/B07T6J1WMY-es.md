@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lonsdale - Camiseta de manga corta con l al 48.40 % de descuento'
-date: 2021-02-27 07:17:33
+date: 2021-03-01 01:18:19
 image: 'https://m.media-amazon.com/images/I/41U5yVEEb8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lonsdale'
 buyurl: 'https://www.amazon.es/dp/B07T6J1WMY/?tag=tolees-21'
 descuento: '48.40'
-average: '15.71'
+average: '15.79'
 ---
 
 Está [Lonsdale - Camiseta de manga corta con logotipo grande  cuello redondo  para hombre Azul azul S](https://www.amazon.es/dp/B07T6J1WMY/?tag=tolees-21) con 48.40 de descuento por 15.99 EUR (original: 30.99 EUR) en el siguiente enlace!

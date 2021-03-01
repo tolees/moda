@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Original tee Camiseta  Grey   al 38.04 % de descuento'
-date: 2021-02-27 07:25:30
+date: 2021-03-01 01:27:20
 image: 'https://m.media-amazon.com/images/I/41bsnMfXsZL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TMHHJWH/?tag=tolees-21'
 descuento: '38.04'
-average: '14.2805555555556'
+average: '14.4015'
 ---
 
 Ahora mismo tienes [Levi s The Original tee Camiseta  Grey  Cotton + Patch Medium Grey Heather Emb 0015   Hombre](https://www.amazon.es/dp/B07TMHHJWH/?tag=tolees-21) a 15.49 EUR (original: 25.0 EUR) (38.04 %  de descuento) en el siguiente enlace!
