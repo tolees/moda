@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s New Original Zip Up Sudadera  Cha al 36.68 % de descuento'
-date: 2021-02-24 13:23:00
+date: 2021-03-01 18:28:53
 image: 'https://m.media-amazon.com/images/I/41I+iuXyOtL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07ZVQ4VB1/?tag=tolees-21'
 descuento: '36.68'
-average: '47.24'
+average: '47.3233333333333'
 ---
 
 Está [Levi s New Original Zip Up Sudadera  Charcoal Heather Xx  S para Hombre](https://www.amazon.es/dp/B07ZVQ4VB1/?tag=tolees-21) con 36.68 de descuento por 47.49 EUR (original: 75.0 EUR) en el siguiente enlace!
