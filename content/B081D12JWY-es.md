@@ -28,7 +28,7 @@ Ahora mismo tienes [Geographical Norway Parka NIÑA Baby 001 rol 7 + BS](https:/
 
 🔎:
 
-- Capucha
 - Bandera bordada
+- Capucha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081D12JWY/?tag=tolees-21)

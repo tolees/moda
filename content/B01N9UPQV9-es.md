@@ -28,8 +28,8 @@ Tienes [Levi s The Perfect Tee  Camiseta para Mujer  Blanco  White 297   Small](
 
 🔎:
 
-- Tiene estampado la marca Levis
 - Con tacto suave de forro polar
 - Modelo casual
+- Tiene estampado la marca Levis
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N9UPQV9/?tag=tolees-21)

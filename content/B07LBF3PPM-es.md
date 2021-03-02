@@ -28,10 +28,10 @@ En este momento está [MUADRESS Vestido Cóctel Sin Manga Cuello Y Espalda V Hi-
 
 🔎:
 
-- Recomentable lavado a mano de agua fría, y planchado a baja temperatura.Si tenga cualquier pregunta, o tiene cualquier ploblema despúes de recibirlo, nos contacta por e-mail,por favor.
-- Material exterior encaje elástica, material interior 104% poliéster, suave, cómodo y elegante.
-- El vestido perfecto para fiesta,noche, boda,banquete, baile,ocación formal y informal.
 - Nuestra tallas son DIFERENTE de Amazon, por favor, vea nuestra tabla de tamaño antes de compre.
 - Con diseño hi-lo, delante hasta la rodilla, atrás es máxima.Cuello y espalda V, Sin manga.
+- Recomentable lavado a mano de agua fría, y planchado a baja temperatura.Si tenga cualquier pregunta, o tiene cualquier ploblema despúes de recibirlo, nos contacta por e-mail,por favor.
+- El vestido perfecto para fiesta,noche, boda,banquete, baile,ocación formal y informal.
+- Material exterior encaje elástica, material interior 104% poliéster, suave, cómodo y elegante.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LBF3PPM/?tag=tolees-21)
