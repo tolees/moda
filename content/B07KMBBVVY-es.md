@@ -29,9 +29,9 @@ Ahora mismo tienes [Birkenstock Arizona SFB  Sandalias de Punta Descubierta Homb
 🔎:
 
 - Upper: nubuck leather, oiled
-- Lining: suede
+- Details: strap with two individually adjustable metal pin buckles
 - Sole: EVA
 - Anatomically shaped cork-latex footbed
-- Details: strap with two individually adjustable metal pin buckles
+- Lining: suede
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KMBBVVY/?tag=tolees-21)
