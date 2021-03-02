@@ -28,7 +28,7 @@ Ahora mismo tienes [Only Onlnicole S/s Mix Top Noos Camiseta  Blanco  Cloud Danc
 
 🔎:
 
-- lace insert
 - short sleeve top
+- lace insert
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079BWGS7T/?tag=tolees-21)
