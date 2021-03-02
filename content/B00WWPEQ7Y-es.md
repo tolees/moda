@@ -28,9 +28,9 @@ Ahora mismo tienes [JACK & JONES SENSE TRUNKS 3-PACK Bóxer  Blanco  Large  Pack
 
 🔎:
 
-- Pretina Ancha
-- Estiramiento
 - Paquete Triple
+- Estiramiento
+- Pretina Ancha
 - Conjunto De Calzoncillos Boxer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00WWPEQ7Y/?tag=tolees-21)
