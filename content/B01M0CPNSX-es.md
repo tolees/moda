@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Ray-Ban RB 3546 Gafas de sol  Gold Top B'
-date: 2021-02-14 06:29:38
-image: 'https://m.media-amazon.com/images/I/21iUfNgjpEL._SL200_.jpg'
+date: 2021-03-02 12:50:49
+image: 'https://m.media-amazon.com/images/I/21iUfNgjpEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.0'
 
 Tienes [Ray-Ban RB 3546 Gafas de sol  Gold Top Brown  49 Unisex-Adulto](https://www.amazon.es/dp/B01M0CPNSX/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 81.0 EUR (original: 162.0 EUR) en el siguiente enlace!
 
-[![Ray-Ban RB 3546 Gafas de sol  Gold Top B](https://m.media-amazon.com/images/I/21iUfNgjpEL._SL200_.jpg)](https://www.amazon.es/dp/B01M0CPNSX/?tag=tolees-21)
+[![Ray-Ban RB 3546 Gafas de sol  Gold Top B](https://m.media-amazon.com/images/I/21iUfNgjpEL._SL400_.jpg)](https://www.amazon.es/dp/B01M0CPNSX/?tag=tolees-21)
 
 ℹ️:
 
