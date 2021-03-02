@@ -28,8 +28,8 @@ En este momento está [Levi s tee Camiseta  Benitoite Cloud Dancer  M para Mujer
 
 🔎:
 
-- Modelo casual
 - Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVQCB18/?tag=tolees-21)

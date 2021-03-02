@@ -28,7 +28,7 @@ Está [Only & Sons Onsmatt Longy SS tee Noos Camiseta  Blanco  White White   Med
 
 ℹ️:
 
-- Agradable comodidad gracias al algodón puro
 - Camiseta básica para cualquier ocasión
+- Agradable comodidad gracias al algodón puro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EXFEWSS/?tag=tolees-21)
