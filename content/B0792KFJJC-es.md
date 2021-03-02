@@ -29,13 +29,13 @@ Ahora mismo tienes [Geox J RIDDOCK Boy I  School Uniform Shoe  Negro  Black C999
 🔎:
 
 - Tipo de tacón: Plano
-- Material de la suela: Caucho
-- Anchura del zapato: Normal
-- Tipo de talla: Los zapatos Geox son holgados
-- Cierre: Velcro
 - Composición: Cuero
-- Revestimiento: Cuero
+- Material de la suela: Caucho
+- Tipo de talla: Los zapatos Geox son holgados
 - Material exterior: Cuero
+- Anchura del zapato: Normal
+- Cierre: Velcro
+- Revestimiento: Cuero
 - Altura del tacón: 3 centímetros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792KFJJC/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas TIRO19 AW JKT Chaqueta de Deporte con un 40.04 % de descuento'
-date: 2021-02-26 18:41:56
+date: 2021-03-02 14:17:21
 image: 'https://m.media-amazon.com/images/I/41owoGCUZmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [adidas TIRO19 AW JKT Chaqueta de Deporte  Hombre  Dark Bl
 🔎:
 
 - Full zip
-- Soft fabric
 - Soccer jacket
+- Soft fabric
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JNX3CVJ/?tag=tolees-21)

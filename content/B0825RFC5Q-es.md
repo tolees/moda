@@ -28,14 +28,14 @@ Tienes [Geox D CATRIA E  Botín Mujer  Marrón  35 EU](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Forro: piel
-- Cierre: cremallera
-- No resistente al agua
-- Material de la suela: goma
-- Tipo de tacón: tacón cuadrado
-- Tipo de tela: Shi.Goat Lea
 - Ancho del zapato: estrecho
+- Forro: piel
+- Tipo de tela: Shi.Goat Lea
 - Material exterior: piel lisa
+- Tipo de tacón: tacón cuadrado
 - Tipo de ajuste: ten en cuenta que los zapatos geox tienen un ajuste cómodo, por lo que te recomendamos que elijas media talla
+- No resistente al agua
+- Cierre: cremallera
+- Material de la suela: goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825RFC5Q/?tag=tolees-21)
