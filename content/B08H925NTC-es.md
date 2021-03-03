@@ -28,11 +28,11 @@ Tienes [Ipanema Anat Temas IX  Sandalias Planas Mujer  Negro  43 EU](https://www
 
 ℹ️:
 
-- Composición del material: 100% sintético
-- Material exterior: Caucho
-- Material interior: Hecho a mano
 - Cierre: Hebilla
+- Material exterior: Caucho
 - Suela: Cloruro de polivinilo
+- Material interior: Hecho a mano
+- Composición del material: 100% sintético
 - Ancho del zapato: Medio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08H925NTC/?tag=tolees-21)
