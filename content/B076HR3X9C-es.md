@@ -28,9 +28,9 @@ Tienes [adidas Core18 Sw Pantalón  Sin género  Negro  Negro/Blanco   L](https:
 
 🔎:
 
-- Bolsillos de ojal en las costuras laterales.
 - Cintura elástica con cordón ajustable.
 - Inserción de canalé en la entrepierna.
+- Bolsillos de ojal en las costuras laterales.
 - Ajuste regular con pierna cónica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HR3X9C/?tag=tolees-21)
