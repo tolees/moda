@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger TJM Stretch Oxford Shirt Camisa  Negro  Black
 
 🔎:
 
-- Tommy Jeans - Camisas para hombre, talla L/S
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
 - Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
+- Tommy Jeans - Camisas para hombre, talla L/S
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RJXW2NH/?tag=tolees-21)
