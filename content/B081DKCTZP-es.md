@@ -28,8 +28,8 @@ Está [BILLABONG Unity Tank Camiseta sin Mangas  Hombre  Blanco  White   XS](htt
 
 ℹ️:
 
-- Algodón 100% premium
-- Camiseta de Billabong
 - Botones y logotipo de Billabong
+- Camiseta de Billabong
+- Algodón 100% premium
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081DKCTZP/?tag=tolees-21)
