@@ -29,7 +29,7 @@ Está [Levi s LS Original Hm tee Camiseta  Black  L para Hombre](https://www.ama
 ℹ️:
 
 - Elaborada en punto suave
-- Modelo casual
 - Con un discreto logo en el pecho
+- Modelo casual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LF8RRH6/?tag=tolees-21)
