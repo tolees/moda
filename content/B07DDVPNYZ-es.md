@@ -28,7 +28,7 @@ Ahora mismo tienes [Only Onlqueen L/s Long Cardigan Knt Noos Chaqueta Punto  Mul
 
 🔎:
 
-- Cárdigan
 - De punto
+- Cárdigan
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DDVPNYZ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Under Armour Armour Insulated Jacket Chaqueta  Mujer  Negro  SM](https://
 
 ℹ️:
 
-- Cuello cerrado para una protección y calidez adicionales
 - Tejido ligero que aporta una gran durabilidad y comodidad
 - Tecnología ColdGear Infrared con revestimiento interior termoconductor suave para absorber y retener el calor corporal
-- Bolsillos laterales con cremallera
 - Corte completo para ofrecer comodidad
+- Bolsillos laterales con cremallera
+- Cuello cerrado para una protección y calidez adicionales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L9J4YR1/?tag=tolees-21)
