@@ -28,8 +28,8 @@ Tienes [Lee Zip THROUH Hoodie Sudadera con Capucha  Grau  Grey Mele MP   XL para
 
 🔎:
 
-- Presenta 2 bolsillos laterales
 - Tiene estampado en el pecho el logotipo de la marca
+- Presenta 2 bolsillos laterales
 - Con cierre de cremallera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VNTTKF4/?tag=tolees-21)
