@@ -28,8 +28,8 @@ Está [Hurley M Have Fun Tank Camiseta De Tirantes  Hombre  Camelia  L](https://
 
 ℹ️:
 
-- Tejido de algodón suave para un ajuste cómodo
 - Serigrafiado suave al tacto
+- Tejido de algodón suave para un ajuste cómodo
 - Material: 100% algodón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088FJ46MG/?tag=tolees-21)
