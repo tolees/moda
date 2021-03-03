@@ -28,9 +28,9 @@ Tienes [Calvin Klein J20J207879 Camiseta  099  XL para Mujer](https://www.amazon
 
 🔎:
 
-- Logotipo impreso en la parte delantera.
-- Cuello redondo.
 - Corte ajustado.
+- Cuello redondo.
+- Logotipo impreso en la parte delantera.
 - Instrucciones de cuidado: lavar a máquina en frío (30 ° máx.).
 - 100% algodón.
 

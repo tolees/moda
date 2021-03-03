@@ -28,8 +28,8 @@ En este momento está [NIKE M NP Top LS Tight Camiseta de Manga Larga  Hombre  S
 
 🔎:
 
-- Dri-Fit Technology
-- Crew-neck design
 - Regular fit
+- Crew-neck design
+- Dri-Fit Technology
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W8JZG53/?tag=tolees-21)
