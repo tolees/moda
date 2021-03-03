@@ -28,8 +28,8 @@ Tienes [Nike M Nk Trophy Iv Jsy Ss  Camiseta Jersey  Hombre  Gris  M](https://ww
 
 🔎:
 
-- Maximum comfort
 - Regular fit
 - Nike Dry fabric
+- Maximum comfort
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W82S9NR/?tag=tolees-21)

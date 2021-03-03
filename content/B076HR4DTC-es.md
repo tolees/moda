@@ -28,8 +28,8 @@ Tienes [adidas Core18 PES Jkt Chaqueta de Deporte  Hombre  Negro  Black/White   
 
 🔎:
 
-- Puños con puños elásticos
 - Material 100% poliéster
+- Puños con puños elásticos
 - Chaqueta con bolsillos con cremallera
 - Cuello altamente cerrable
 
