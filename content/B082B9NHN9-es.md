@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Geographical Norway Chaqueta DE Mujer TI al 49.60 % de rebaja'
-date: 2021-02-19 23:22:07
-image: 'https://m.media-amazon.com/images/I/41ah5qTLMpL._SL200_.jpg'
+date: 2021-03-03 13:39:31
+image: 'https://m.media-amazon.com/images/I/41ah5qTLMpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.9'
 
 Tienes [Geographical Norway Chaqueta DE Mujer TILSIT Rojo 01](https://www.amazon.es/dp/B082B9NHN9/?tag=tolees-21) con precio final de  49.9 EUR (original: 99.0 EUR) (49.60 %  de rebaja) aqui!
 
-[![Geographical Norway Chaqueta DE Mujer TI](https://m.media-amazon.com/images/I/41ah5qTLMpL._SL200_.jpg)](https://www.amazon.es/dp/B082B9NHN9/?tag=tolees-21)
+[![Geographical Norway Chaqueta DE Mujer TI](https://m.media-amazon.com/images/I/41ah5qTLMpL._SL400_.jpg)](https://www.amazon.es/dp/B082B9NHN9/?tag=tolees-21)
 
 🔎:
 
