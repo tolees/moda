@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Original Trucker  Chaqueta Vaquer al 42.74 % de descuento'
-date: 2021-03-02 03:11:30
+date: 2021-03-03 03:33:41
 image: 'https://m.media-amazon.com/images/I/41dZszNiLGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B076YBZZ7V/?tag=tolees-21'
 descuento: '42.74'
-average: '61.8429411764707'
+average: '61.9066666666668'
 ---
 
 Ahora mismo tienes [Levi s Original Trucker  Chaqueta Vaquera para Mujer  Azul  All Yours 0026   M](https://www.amazon.es/dp/B076YBZZ7V/?tag=tolees-21) a 62.99 EUR (original: 110.0 EUR) (42.74 %  de descuento) en el siguiente enlace!
