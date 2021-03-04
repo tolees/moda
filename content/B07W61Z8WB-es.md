@@ -28,8 +28,8 @@ En este momento está [Springfield Popelin Cuadros Vichy-C/21 Camisa Casual  Ver
 
 🔎:
 
-- Adecuado para un atuendo casual
 - Camisa para hombre
+- Adecuado para un atuendo casual
 - Apta para el uso diario
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W61Z8WB/?tag=tolees-21)

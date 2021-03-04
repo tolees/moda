@@ -29,8 +29,8 @@ Está [Bolle TRACPSI - Gafas protectoras  Anti-rayaduras y Anti-vaho  Lentes Inc
 ℹ️:
 
 - Resistente al impacto exterior medio
-- Material de la lente: policarbonato
 - Anti-rasguños y anti-niebla
+- Material de la lente: policarbonato
 - Correas adaptables y desmontables para ajuste seguro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003UGDQ66/?tag=tolees-21)

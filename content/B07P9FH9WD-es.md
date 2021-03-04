@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger Heritage Crew Neck Graphic tee Camiseta  Schwarz  Masters
 
 🔎:
 
-- Logo de Tommy Hilfiger en el pecho
 - Cinta distintiva en el interior del cuello
 - Logo de Tommy Hilfiger bordado en el bajo
+- Logo de Tommy Hilfiger en el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P9FH9WD/?tag=tolees-21)
