@@ -28,8 +28,8 @@ Ahora mismo tienes [New Balance Camiseta Accelerate SS para Mujer  Mujer  Camise
 
 🔎:
 
+- Detalles reflectantes en la parte delantera, lateral y trasera.
 - Tejido NB Dry que absorbe la humedad para un secado rápido cómodo y después del entrenamiento.
 - 100% poliéster ligero reciclado.
-- Detalles reflectantes en la parte delantera, lateral y trasera.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DL6FW32/?tag=tolees-21)
