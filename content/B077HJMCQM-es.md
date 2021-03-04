@@ -28,9 +28,9 @@ Ahora mismo tienes [PUMA Pique Polo Camiseta  Hombre  Azul  S](https://www.amazo
 
 🔎:
 
-- Tapeta de dos botones con cuello de canalé
 - Puños de canalé
 - Algodón y elastano
+- Tapeta de dos botones con cuello de canalé
 - Impresión por pigmento del logotipo de PUMA en el pecho
 - Corte recto
 
