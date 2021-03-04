@@ -1,32 +1,41 @@
 ---
 layout: post
-title: 'Timberland 6-Inch Premium Boot  Botas pa al 26.21 % de descuento'
-date: 2020-09-04 18:36:06
-image: 'https://m.media-amazon.com/images/I/41z4W67gc4L._SL400_.jpg'
+title: 'Timberland 6 Inch Premium Waterproof  Bo al 22.17 % de descuento'
+date: 2021-03-04 08:59:38
+image: 'https://m.media-amazon.com/images/I/41EgG3fUOoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VX1CM6-es Timberland 6-Inch Premium Boot Botas para Hombre Amarillo...'
+slug: 'B000VX1CM6-es Timberland 6 Inch Premium Waterproof Botas Chukka Hombre...'
 sku: 'B000VX1CM6-es'
 tags: [ 'timberland', ]
-actualPrice: 154.95 EUR
+actualPrice: 163.45 EUR
 currency: EUR
-price: 154.95
+price: 163.45
 comparePrice: 210.0 EUR
-prodname: 'Timberland 6-Inch Premium Boot  Botas para Hombre  Amarillo  Wheat Nubuck   42 EU'
+prodname: 'Timberland 6 Inch Premium Waterproof  Botas Chukka Hombre  Amarillo Wheat Nubuck  42 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B000VX1CM6/?tag=tolees-21'
-descuento: '26.21'
-average: '135.42'
+descuento: '22.17'
+average: '143.428571428572'
 ---
 
-Está [Timberland 6-Inch Premium Boot  Botas para Hombre  Amarillo  Wheat Nubuck   42 EU](https://www.amazon.es/dp/B000VX1CM6/?tag=tolees-21) con 26.21 de descuento por 154.95 EUR (original: 210.0 EUR) en el siguiente enlace!
+Está [Timberland 6 Inch Premium Waterproof  Botas Chukka Hombre  Amarillo Wheat Nubuck  42 EU](https://www.amazon.es/dp/B000VX1CM6/?tag=tolees-21) con 22.17 de descuento por 163.45 EUR (original: 210.0 EUR) en el siguiente enlace!
 
-[![Timberland 6-Inch Premium Boot  Botas pa](https://m.media-amazon.com/images/I/41z4W67gc4L._SL400_.jpg)](https://www.amazon.es/dp/B000VX1CM6/?tag=tolees-21)
+[![Timberland 6 Inch Premium Waterproof  Bo](https://m.media-amazon.com/images/I/41EgG3fUOoL._SL400_.jpg)](https://www.amazon.es/dp/B000VX1CM6/?tag=tolees-21)
 
 ℹ️:
 
+- Tipo de tacón: plano
+- Shaft diameter: normal
+- Material composition: ver descripción
+- Closure: cordones
+- Heel height: 2.5 centimeters
+- Sole material: goma
+- Fit type: talla estándar
+- Outer material: cuero
+- Lining: cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000VX1CM6/?tag=tolees-21)
