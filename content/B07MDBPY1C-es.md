@@ -28,8 +28,8 @@ Está [Lee Ivy Vaqueros  Azul  Summer Night Vy   24W / 31L para Mujer](https://w
 
 ℹ️:
 
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
 - Vaqueros para mujer
-- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MDBPY1C/?tag=tolees-21)

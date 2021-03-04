@@ -28,7 +28,7 @@ Ahora mismo tienes [Vero Moda Vmverodona LS Jacket Noos Abrigo  Gris  Light Grey
 
 🔎:
 
-- Cleaner chic with a slightly tailored fit and two front pockets
 - With a Large hood for more comfort on COOL Days
+- Cleaner chic with a slightly tailored fit and two front pockets
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079NQY2Y2/?tag=tolees-21)

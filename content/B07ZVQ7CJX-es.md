@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s LS Original HM tee Camiseta  Sassafras  S para Hombre
 
 🔎:
 
-- Modelo casual
 - Elaborada en punto suave
+- Modelo casual
 - Con un discreto logo en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVQ7CJX/?tag=tolees-21)

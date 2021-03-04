@@ -28,8 +28,8 @@ Tienes [Lee One Pocket Shirt Blusa  Gris  Asphalt FZ   Large para Mujer](https:/
 
 🔎:
 
-- Tiene el logo de la marca bordado en el bolsillo
-- Con un bolsillo en el pecho
 - Camisa para mujer
+- Con un bolsillo en el pecho
+- Tiene el logo de la marca bordado en el bolsillo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S89TRLB/?tag=tolees-21)
