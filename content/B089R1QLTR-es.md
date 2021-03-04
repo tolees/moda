@@ -28,8 +28,8 @@ Está [Kappa Zallard Authentic Pantalón  Hombre  Rojo  XL](https://www.amazon.e
 
 ℹ️:
 
+- Cintura elástica
 - Omini Kappa
 - Comodidad y estilo
-- Cintura elástica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089R1QLTR/?tag=tolees-21)

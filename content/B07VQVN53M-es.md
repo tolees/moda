@@ -28,7 +28,7 @@ En este momento está [G-STAR RAW 5621 Wrap Rock Falda  Azul  Sun Faded Blue Sto
 
 🔎:
 
-- A-line Rock
 - Ya sea que elijas un estilo de negocios o un aspecto más informal en nuestra colección de Rock encontrarás lo que estás buscando.
+- A-line Rock
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VQVN53M/?tag=tolees-21)

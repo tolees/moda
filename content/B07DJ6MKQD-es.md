@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Geox Uomo Sandal Strada A  Sandalias con al 33.36 % de descuento'
-date: 2020-06-11 16:54:52
+title: 'Geox UOMO Sandal Strada A  Sandalias con al 40.00 % de descuento'
+date: 2021-03-04 14:23:35
 image: 'https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ6MKQD-es Geox Uomo Sandal Strada A Sandalias con Punta Abierta para...'
+slug: 'B07DJ6MKQD-es Geox UOMO Sandal Strada A Sandalias con Punta Abierta...'
 sku: 'B07DJ6MKQD-es'
 tags: [ 'geox','sandalias', ]
-actualPrice: 46.58 EUR
+actualPrice: 41.94 EUR
 currency: EUR
-price: 46.58
+price: 41.94
 comparePrice: 69.9 EUR
-prodname: 'Geox Uomo Sandal Strada A  Sandalias con Punta Abierta para Hombre  Brown  Coffee C6009   41 EU'
+prodname: 'Geox UOMO Sandal Strada A  Sandalias con Punta Abierta Hombre  Brown  Coffee C6009   41 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21'
-descuento: '33.36'
-average: '50.925'
+descuento: '40.00'
+average: '47.93'
 ---
 
-Está [Geox Uomo Sandal Strada A  Sandalias con Punta Abierta para Hombre  Brown  Coffee C6009   41 EU](https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21) con 33.36 de descuento por 46.58 EUR (original: 69.9 EUR) en el siguiente enlace!
+Está [Geox UOMO Sandal Strada A  Sandalias con Punta Abierta Hombre  Brown  Coffee C6009   41 EU](https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21) con 40.00 de descuento por 41.94 EUR (original: 69.9 EUR) en el siguiente enlace!
 
-[![Geox Uomo Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21)
+[![Geox UOMO Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21)
 
 ℹ️:
 
+- Revestimiento: Tela
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Material exterior: Sintético
+- Sin Cordones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21)
