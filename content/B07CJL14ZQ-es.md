@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlroyal Reg SK Dnm Jeans Bj312 Noo al 58.82 % de rebaja'
-date: 2021-03-02 20:02:00
+date: 2021-03-04 16:03:41
 image: 'https://m.media-amazon.com/images/I/31gOyNEhfSL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07CJL14ZQ/?tag=tolees-21'
 descuento: '58.82'
-average: '13.1926666666666'
+average: '13.14'
 ---
 
 Tienes [Only Onlroyal Reg SK Dnm Jeans Bj312 Noos Vaqueros Skinny  Gris  Dark Grey Denim Dark Grey Denim   M/L34 para Mujer](https://www.amazon.es/dp/B07CJL14ZQ/?tag=tolees-21) con precio final de  12.35 EUR (original: 29.99 EUR) (58.82 %  de rebaja) aqui!
