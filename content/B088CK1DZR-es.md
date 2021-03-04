@@ -29,9 +29,9 @@ Está [G-STAR RAW Zip Through Track Tweeter Chaleco de Sudadera  Sartho Blue C58
 ℹ️:
 
 - Bolsillo estilo canguro dividido con cremalleras ocultas
-- Manga larga recta insertada
-- Cuello alzado
 - Puños y cintura acanalados
+- Cuello alzado
+- Manga larga recta insertada
 - Etiqueta de G-Star RAW en el pecho, raya estampada en la parte alta de la espalda y en las mangas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088CK1DZR/?tag=tolees-21)

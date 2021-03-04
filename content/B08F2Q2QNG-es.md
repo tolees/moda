@@ -28,10 +28,10 @@ Ahora mismo tienes [Disney Princess - Muñeca Jasmín Royal Shimmer - Muñeca co
 
 🔎:
 
-- JUGUETE PARA NIÑAS DE 3 AÑOS EN ADELANTE: Este juguete de Disney Princess es ideal como regalo de cumpleaños o de Navidad para niñas
-- MUÑECA CON PANTALONES Y ACCESORIOS: La muñeca Jasmín Royal Shimmer incluye pantalones, zapatos y diadema en tonos azules, su color distintivo
 - LARGO CABELLO NEGRO: Esta muñeca Disney Princess tiene el cabello largo y negro, inspirado en el inolvidable estilo de la protagonista de la película de Disney Aladdín (1992)
 - PANTALONES Y CORPIÑO BRILLANTES: El corpiño de la muñeca tiene detalles que brillan maravillosamente como gemas junto a sus pantalones brillantes
+- JUGUETE PARA NIÑAS DE 3 AÑOS EN ADELANTE: Este juguete de Disney Princess es ideal como regalo de cumpleaños o de Navidad para niñas
+- MUÑECA CON PANTALONES Y ACCESORIOS: La muñeca Jasmín Royal Shimmer incluye pantalones, zapatos y diadema en tonos azules, su color distintivo
 - COLECCIÓN DE MUÑECAS DE DISNEY: Colecciona las muñecas de Ariel, Aurora, Bella, Cenicienta, Jasmín, Mérida, Moana, Mulán, Pocahontas, Rapunzel, Blancanieves y Tiana. Se venden por separado. Sujeto a disponibilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F2Q2QNG/?tag=tolees-21)
