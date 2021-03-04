@@ -28,8 +28,8 @@ Está [Lee Rider Jeans Vaqueros  Light Shade  28W / 34L para Hombre](https://www
 
 ℹ️:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07116DCPQ/?tag=tolees-21)
