@@ -28,7 +28,7 @@ En este momento está [Artesania Cerda Largo AC/DC Conjuntos de pijama  Negro  N
 
 🔎:
 
-- Producto con licencia oficial diseñado en España y fabricado por Artesania Cerdá, S.L. usando los mejores materiales de la forma más sostenible. Garantia del Fabricante 1 año.
 - Pijama Largo Ac/Dc con tejido cálido muy suave al tacto, estampado duradero al agua y prenda cómoda
+- Producto con licencia oficial diseñado en España y fabricado por Artesania Cerdá, S.L. usando los mejores materiales de la forma más sostenible. Garantia del Fabricante 1 año.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XFLZQ28/?tag=tolees-21)

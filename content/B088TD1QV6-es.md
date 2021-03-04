@@ -28,10 +28,10 @@ Está [DEWEL Collar Antiparasitos para Perro Gato Pequeño Mediano Grandes contr
 
 ℹ️:
 
-- Impermeable y resistente al agua,después de la natación, el baño y la actividad al aire libre bajo la lluvia, el collar para pulgas y garrapatas sigue disponible
 - Hecho de material natural,proporcionar una prevención confiable para sus mascotas
-- Si su mascota es alérgica, deje de usarlo inmediatamente
 - Dos Talla para elegir,Longitud：63.5cm/25”Para los perros Longitud ,34.5cm/13.5”Para los gatos ,Diseñado para todos los tamaños de perros y gatos，Si es demasiado largo, puedes cortarlo
+- Impermeable y resistente al agua,después de la natación, el baño y la actividad al aire libre bajo la lluvia, el collar para pulgas y garrapatas sigue disponible
 - De 8 Meses de protección contra pulgas y garrapatas
+- Si su mascota es alérgica, deje de usarlo inmediatamente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088TD1QV6/?tag=tolees-21)
