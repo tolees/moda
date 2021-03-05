@@ -28,7 +28,7 @@ Tienes [Only onlELCOS 4/5 AOP Top JRS Noos Camisa Manga Larga  Multicolor  Light
 
 🔎:
 
-- Camiseta con impresión.
 - Calidad ligera.
+- Camiseta con impresión.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072BZYF19/?tag=tolees-21)
