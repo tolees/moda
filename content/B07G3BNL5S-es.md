@@ -28,8 +28,8 @@ Tienes [adidas Stockhorn FL J Sudadera  Hombre  Black  46](https://www.amazon.es
 
 ℹ️:
 
-- Soft fabric
 - Regular fit
+- Soft fabric
 - Full zip
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G3BNL5S/?tag=tolees-21)
