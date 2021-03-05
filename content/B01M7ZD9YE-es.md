@@ -28,7 +28,7 @@ Tienes [Only onlAVA FAUX LEATHER BIKER OTW NOOS - Chaqueta para mujer  Rosa  Ash
 
 🔎:
 
-- Chaqueta de piel sintética con cierre especial.
 - Chaqueta de piel entallada.
+- Chaqueta de piel sintética con cierre especial.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M7ZD9YE/?tag=tolees-21)

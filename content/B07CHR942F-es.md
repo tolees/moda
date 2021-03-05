@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Cotton + Patch Black  XL
 
 🔎:
 
-- 0
 - Short sleeves
+- 0
 - Relaxed
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CHR942F/?tag=tolees-21)
