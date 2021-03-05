@@ -28,7 +28,7 @@ Ahora mismo tienes [Only Onlqueen L/s Long Cardigan Knt Noos Chaqueta Punto  Mul
 
 🔎:
 
-- Cárdigan largo y multicolor para mujer
 - Chaqueta de punto larga con dos bolsillos laterales
+- Cárdigan largo y multicolor para mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DDVPNYZ/?tag=tolees-21)
