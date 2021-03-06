@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01LZH96D5-es Marca Amazon – Goodthreads – «El pantalón chino perfecto»;...'
 sku: 'B01LZH96D5-es'
-tags: [ 'pantalón', ]
+tags: [ 'goodthreads','pantalón', ]
 actualPrice: 17.53 EUR
 currency: EUR
 price: 17.53

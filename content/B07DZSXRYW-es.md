@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DZSXRYW-es Marca Amazon – Goodthreads – Camisa de manga corta y corte...'
 sku: 'B07DZSXRYW-es'
-tags: [ 'camisa', ]
+tags: [ 'goodthreads','camisa', ]
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24
