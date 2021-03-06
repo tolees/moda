@@ -28,9 +28,9 @@ Ahora mismo tienes [Pepe Jeans Hana Glitter L/S Camiseta  Blanco  White 800   4 
 
 🔎:
 
-- Cuello redondo
-- Camiseta manga larga tejido suave
 - Logo estampado con purpurina
 - Fit regular
+- Cuello redondo
+- Camiseta manga larga tejido suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C54PK2G/?tag=tolees-21)
