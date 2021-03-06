@@ -28,10 +28,10 @@ En este momento está [HUGO Elisha02 Camisa  Blanco  Open White 199   46 para Ho
 
 🔎:
 
-- No secar en la secadora
-- Planchado a baja temperatura nivel 1
 - No usar lejía
 - No limpiar en seco
+- No secar en la secadora
 - Lavado normal en frío a 30 ºC
+- Planchado a baja temperatura nivel 1
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VFL3YY8/?tag=tolees-21)
