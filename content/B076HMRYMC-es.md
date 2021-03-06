@@ -30,7 +30,7 @@ Está [adidas CORE18 PES JKT Chaqueta de Deporte  Hombre  Azul  Azul/Blanco   M]
 
 - Material 100% poliéster
 - Puños con puños elásticos
-- Chaqueta con bolsillos con cremallera
 - Cuello altamente cerrable
+- Chaqueta con bolsillos con cremallera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HMRYMC/?tag=tolees-21)
