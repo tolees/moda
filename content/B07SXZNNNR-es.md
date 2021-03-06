@@ -29,9 +29,9 @@ Ahora mismo tienes [Geox D Sandal Hiver A  Sandalias con Tira Vertical Mujer  Bl
 🔎:
 
 - Tipo de tacón: Plano
+- Cierre: Hebilla
+- Material exterior: Cuero
 - Material de la suela: Sintético
 - Revestimiento: Sintético
-- Material exterior: Cuero
-- Cierre: Hebilla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SXZNNNR/?tag=tolees-21)
