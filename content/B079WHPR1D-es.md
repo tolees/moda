@@ -29,8 +29,8 @@ Está [PUMA Liga Jersey Camiseta  Hombre  Peacoat/White  3XL](https://www.amazon
 ℹ️:
 
 - dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
-- Tejido exterior de los puños en color contrastante
 - Cuello redondo
+- Tejido exterior de los puños en color contrastante
 - Transferencia térmica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079WHPR1D/?tag=tolees-21)
