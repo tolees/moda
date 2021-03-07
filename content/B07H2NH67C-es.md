@@ -28,10 +28,10 @@ Ahora mismo tienes [Sunny Fashion - Vestido para niña Rosa Flor Pétalo Verano 
 
 🔎:
 
-- Talla: Busto: 72CM, Cintura: 70CM, Longitud: 82CM
 - hasta la rodilla. Ocultos volver postal
-- Las mezclas de algodón, completa llena de algodón 100%
 - lavable a máquina, bajo retroceder seca
+- Talla: Busto: 72CM, Cintura: 70CM, Longitud: 82CM
 - Vestidos para niña Talla 10 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
+- Las mezclas de algodón, completa llena de algodón 100%
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H2NH67C/?tag=tolees-21)

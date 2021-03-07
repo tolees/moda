@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas T19 SS JSY M Camiseta de Manga Corta  Hombre  White  
 
 🔎:
 
-- Cuello de pico con inserciones de canalé.
-- Corte entallado.
 - Climalite anti-humidity fabric
 - Bandas anchas verticales.
+- Cuello de pico con inserciones de canalé.
+- Corte entallado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KCPDDVK/?tag=tolees-21)
