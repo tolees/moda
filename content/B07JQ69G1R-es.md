@@ -28,8 +28,8 @@ Está [adidas Tiro 19 Training Track Top Jkt Chaqueta Deportiva  Hombre  Azul  B
 
 ℹ️:
 
-- Climalite anti-humidity fabric
 - Full zip
+- Climalite anti-humidity fabric
 - Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JQ69G1R/?tag=tolees-21)

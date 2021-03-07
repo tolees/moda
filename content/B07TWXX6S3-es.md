@@ -28,8 +28,8 @@ En este momento está [Lee Scarlett Vaqueros Skinny  Azul  Light Taos Je   W32/L
 
 🔎:
 
-- Vaqueros para mujer
 - Tienen un parche en la parte trasera con la marca Lee
+- Vaqueros para mujer
 - Presentan 5 bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TWXX6S3/?tag=tolees-21)

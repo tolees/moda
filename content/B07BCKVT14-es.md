@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Sharon Noel  Zapatos de Cordones  al 29.86 % de rebaja'
-date: 2021-03-06 20:39:56
+date: 2021-03-07 21:12:31
 image: 'https://m.media-amazon.com/images/I/314AoUGiOGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07BCKVT14/?tag=tolees-21'
 descuento: '29.86'
-average: '51.2597435897436'
+average: '51.20475'
 ---
 
 Tienes [Clarks Sharon Noel  Zapatos de Cordones Derby Mujer  Negro  Black Nubuck   37.5 EU](https://www.amazon.es/dp/B07BCKVT14/?tag=tolees-21) con precio final de  49.06 EUR (original: 69.95 EUR) (29.86 %  de rebaja) aqui!

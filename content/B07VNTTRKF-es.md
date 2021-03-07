@@ -29,7 +29,7 @@ Ahora mismo tienes [Lee Rider Vaqueros Slim  Azul  Deep Pool TR   42W / 34L para
 🔎:
 
 - Presentan 5 bolsillos
-- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para hombre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VNTTRKF/?tag=tolees-21)

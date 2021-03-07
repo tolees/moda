@@ -29,7 +29,7 @@ En este momento está [Lee Luke Vaqueros  Navy 37  27W / 32L para Hombre](https:
 🔎:
 
 - Vaqueros para hombre
-- Tienen un parche en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
+- Tienen un parche en la parte trasera con la marca Lee
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M5DJ3BQ/?tag=tolees-21)
