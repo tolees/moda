@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Rider Jacket Chaqueta de jean  Azul  SOFT MID ALISO GJ  
 
 🔎:
 
+- Chaqueta para mujer
 - Cierre con botones
 - Presenta 2 bolsillos en el pecho
-- Chaqueta para mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VW3W97H/?tag=tolees-21)

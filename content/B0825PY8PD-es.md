@@ -28,10 +28,10 @@ En este momento está [Roxy Epic Afternoon T Camiseta de Mangas Cortas Enrollada
 
 🔎:
 
-- Cuello con escote redondo abierto
-- Bajo en curva y mangas enrollables
-- Punto jersey de algodón ligero
 - Punto canalé en el cuello
+- Cuello con escote redondo abierto
 - Corte normal, clásico, cómodo
+- Punto jersey de algodón ligero
+- Bajo en curva y mangas enrollables
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0825PY8PD/?tag=tolees-21)

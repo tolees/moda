@@ -28,14 +28,14 @@ Ahora mismo tienes [Eagle Industry - Gafas de protección laboral con lentes de 
 
 🔎:
 
-- Resistencia a la abrasión
 - Gafas de protección laboral con lente transparente
-- Filtro uv
+- Clase óptica: 1 uso continuado
+- Lente de clase óptica 1 (uso continuado), resistente a la abrasión y con tratamiento anti-vaho
+- Resistencia a la abrasión
+- Policarbonato
 - Campo de uso: trabajo
 - Antivaho
 - Normativas ce: en 166 (resistencia al impacto probado con partículas de 6 mm de diámetro arrojadas a la velocidad de 45 m/s. > ft)
-- Lente de clase óptica 1 (uso continuado), resistente a la abrasión y con tratamiento anti-vaho
-- Policarbonato
-- Clase óptica: 1 uso continuado
+- Filtro uv
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00OLJL7JE/?tag=tolees-21)

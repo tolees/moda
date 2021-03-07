@@ -28,8 +28,8 @@ En este momento está [Lee Carol  Vaqueros straight Mujer  Azul  Mid Bellevue Gx
 
 🔎:
 
-- Vaqueros de pernera recta para mujer
-- Con un diseño de cinco bolsillos
 - Lucen un parche con el logo de la marca en la parte trasera de la cintura
+- Con un diseño de cinco bolsillos
+- Vaqueros de pernera recta para mujer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TWXQZ8B/?tag=tolees-21)

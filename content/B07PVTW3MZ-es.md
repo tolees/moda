@@ -28,7 +28,7 @@ En este momento está [Vero Moda Vmeva HR Loose Paperbag Pant Noos Ki Pantalones
 
 🔎:
 
-- Paperbag pants
 - Loose fit pants
+- Paperbag pants
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PVTW3MZ/?tag=tolees-21)
