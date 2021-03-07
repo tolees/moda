@@ -28,12 +28,12 @@ Está [GEOX U LEVICO B ABX C NAVY Men s Trainers Hi-Top Trainers size 42 EU ](ht
 
 ℹ️:
 
-- Suela: goma
-- Material interior: sintético
 - Resistente al agua
-- Cierre: cordones
-- Ancho del zapato: estrecho
+- Material interior: sintético
+- Suela: goma
 - Nota sobre la talla: Ten en cuenta que los zapatos Geox tienen un ajuste cómodo, por lo que recomendamos elegir media talla
 - Material exterior: sintético
+- Ancho del zapato: estrecho
+- Cierre: cordones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0825NT6FJ/?tag=tolees-21)

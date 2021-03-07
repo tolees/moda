@@ -29,7 +29,7 @@ En este momento está [G-STAR RAW Perspective Logo Graphic Slim Camiseta  Dk Bla
 🔎:
 
 - G-Star Negro Camiseta con logo de perspectiva
-- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de G-Star.
+- Ver descripción del producto para obtener más información.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z5CZL8X/?tag=tolees-21)
