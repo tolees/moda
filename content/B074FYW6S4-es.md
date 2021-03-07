@@ -28,7 +28,7 @@ Tienes [Farah Brewer Camisa  Blanco  White 104   X-Small  Talla del Fabricante: 
 
 🔎:
 
-- Logotipo F bordado en el pecho
 - Cuello abotonado
+- Logotipo F bordado en el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074FYW6S4/?tag=tolees-21)
