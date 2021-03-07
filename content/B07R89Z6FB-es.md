@@ -28,8 +28,8 @@ Está [Ellesse SL Gottero Oh Hoody Sudadera  Hombre  Black  S](https://www.amazo
 
 ℹ️:
 
-- Sl Gottero Oh Hoody (SHC07407)
 - Sudadera tiempo libre y sportwear hombre
 - Ropa deportiva Ellesse
+- Sl Gottero Oh Hoody (SHC07407)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07R89Z6FB/?tag=tolees-21)
