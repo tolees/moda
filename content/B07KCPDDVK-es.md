@@ -1,36 +1,36 @@
 ---
 layout: post
-title: 'adidas T19 SS JSY M Camiseta de Manga Co al 51.82 % de descuento'
-date: 2021-02-19 11:54:38
-image: 'https://m.media-amazon.com/images/I/31wMFKbLdYL._SL200_.jpg'
+title: 'adidas T19 SS JSY M Camiseta de Manga Co al 54.28 % de descuento'
+date: 2021-03-07 11:16:05
+image: 'https://m.media-amazon.com/images/I/31wMFKbLdYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KCPDDVK-es adidas T19 SS JSY M Camiseta de Manga Corta Hombre White L'
 sku: 'B07KCPDDVK-es'
 tags: [ 'camiseta', ]
-actualPrice: 16.84 EUR
+actualPrice: 15.98 EUR
 currency: EUR
-price: 16.84
+price: 15.98
 comparePrice: 34.95 EUR
 prodname: 'adidas T19 SS JSY M Camiseta de Manga Corta  Hombre  White  L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07KCPDDVK/?tag=tolees-21'
-descuento: '51.82'
-average: '16.84'
+descuento: '54.28'
+average: '16.41'
 ---
 
-Ahora mismo tienes [adidas T19 SS JSY M Camiseta de Manga Corta  Hombre  White  L](https://www.amazon.es/dp/B07KCPDDVK/?tag=tolees-21) a 16.84 EUR (original: 34.95 EUR) (51.82 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas T19 SS JSY M Camiseta de Manga Corta  Hombre  White  L](https://www.amazon.es/dp/B07KCPDDVK/?tag=tolees-21) a 15.98 EUR (original: 34.95 EUR) (54.28 %  de descuento) en el siguiente enlace!
 
-[![adidas T19 SS JSY M Camiseta de Manga Co](https://m.media-amazon.com/images/I/31wMFKbLdYL._SL200_.jpg)](https://www.amazon.es/dp/B07KCPDDVK/?tag=tolees-21)
+[![adidas T19 SS JSY M Camiseta de Manga Co](https://m.media-amazon.com/images/I/31wMFKbLdYL._SL400_.jpg)](https://www.amazon.es/dp/B07KCPDDVK/?tag=tolees-21)
 
 🔎:
 
 - Cuello de pico con inserciones de canalé.
-- Bandas anchas verticales.
 - Corte entallado.
 - Climalite anti-humidity fabric
+- Bandas anchas verticales.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KCPDDVK/?tag=tolees-21)
