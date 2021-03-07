@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roxy Epic Afternoon T Camiseta de Mangas con un 20.01 % de descuento'
-date: 2021-03-06 13:27:27
+date: 2021-03-07 19:16:57
 image: 'https://m.media-amazon.com/images/I/31tXGlncaUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Roxy Epic Afternoon T Camiseta de Mangas Cortas Enrollada
 
 🔎:
 
-- Corte normal, clásico, cómodo
-- Punto canalé en el cuello
-- Bajo en curva y mangas enrollables
 - Cuello con escote redondo abierto
+- Bajo en curva y mangas enrollables
 - Punto jersey de algodón ligero
+- Punto canalé en el cuello
+- Corte normal, clásico, cómodo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0825PY8PD/?tag=tolees-21)

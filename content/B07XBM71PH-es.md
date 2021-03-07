@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'adidas Core 18 Hoody Sudadera con Capuch al 16.76 % de descuento'
-date: 2020-04-17 11:14:51
-image: 'https://m.media-amazon.com/images/I/413J8WXfBjL._SL400_.jpg'
+title: 'adidas Core 18 Hoody Sudadera con Capuch al 22.51 % de descuento'
+date: 2021-03-07 19:09:31
+image: 'https://m.media-amazon.com/images/I/4128xnymMyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07XBM71PH-es adidas Core 18 Hoody Sudadera con Capucha Hombre...'
 sku: 'B07XBM71PH-es'
 tags: [ 'sudadera', ]
-actualPrice: 23.99 EUR
+actualPrice: 30.99 EUR
 currency: EUR
-price: 23.99
-comparePrice: 28.82 EUR
+price: 30.99
+comparePrice: 39.99 EUR
 prodname: 'adidas Core 18 Hoody Sudadera con Capucha  Hombre  Yellow/Black  S'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XBM71PH/?tag=tolees-21'
-descuento: '16.76'
-average: '26.47'
+descuento: '22.51'
+average: '28.73'
 ---
 
-Está [adidas Core 18 Hoody Sudadera con Capucha  Hombre  Yellow/Black  S](https://www.amazon.es/dp/B07XBM71PH/?tag=tolees-21) con 16.76 de descuento por 23.99 EUR (original: 28.82 EUR) en el siguiente enlace!
+Está [adidas Core 18 Hoody Sudadera con Capucha  Hombre  Yellow/Black  S](https://www.amazon.es/dp/B07XBM71PH/?tag=tolees-21) con 22.51 de descuento por 30.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![adidas Core 18 Hoody Sudadera con Capuch](https://m.media-amazon.com/images/I/413J8WXfBjL._SL400_.jpg)](https://www.amazon.es/dp/B07XBM71PH/?tag=tolees-21)
+[![adidas Core 18 Hoody Sudadera con Capuch](https://m.media-amazon.com/images/I/4128xnymMyL._SL400_.jpg)](https://www.amazon.es/dp/B07XBM71PH/?tag=tolees-21)
 
 ℹ️:
 
+- Manga raglán
+- Capucha con cordón ajustable
+- Puños y dobladillo de canalé
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XBM71PH/?tag=tolees-21)
