@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.89 % en Levi s Original Hm tee Camiseta  LS Cott'
-date: 2021-03-06 15:03:32
+date: 2021-03-08 03:13:19
 image: 'https://m.media-amazon.com/images/I/41iR6KXnbIL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07K75RX5J/?tag=tolees-21'
 descuento: '42.89'
-average: '22.4821088435375'
+average: '22.4486577181209'
 ---
 
 Tienes [Levi s Original Hm tee Camiseta  LS Cotton + Patch Dress Blues  M para Hombre](https://www.amazon.es/dp/B07K75RX5J/?tag=tolees-21) con un 42.89 % de descuento con precio de oferta de 19.99 EUR (original: 35.0 EUR) en el siguiente enlace!

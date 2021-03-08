@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Zip Through Track Tweeter Cha al 37.11 % de descuento'
-date: 2021-03-04 16:49:12
+date: 2021-03-08 03:57:28
 image: 'https://m.media-amazon.com/images/I/41m2-VVKWBL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [G-STAR RAW Zip Through Track Tweeter Chaleco de Sudadera  Sartho Blue C58
 
 ℹ️:
 
-- Bolsillo estilo canguro dividido con cremalleras ocultas
 - Puños y cintura acanalados
-- Cuello alzado
 - Manga larga recta insertada
+- Bolsillo estilo canguro dividido con cremalleras ocultas
 - Etiqueta de G-Star RAW en el pecho, raya estampada en la parte alta de la espalda y en las mangas
+- Cuello alzado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088CK1DZR/?tag=tolees-21)

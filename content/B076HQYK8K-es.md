@@ -30,7 +30,7 @@ En este momento está [Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  R
 
 - Cintura elástica con cordón.
 - La tecnología Climalite expulsa el sudor de la piel.
-- Cierre de cremallera
 - Diseño ligero.
+- Cierre de cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HQYK8K/?tag=tolees-21)
