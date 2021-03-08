@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Geox J Savage G  Zapatillas para Niños   con un 31.42 % de descuento'
-date: 2020-07-30 16:06:02
-image: 'https://m.media-amazon.com/images/I/41Mi1K3zDqL._SL400_.jpg'
+title: 'Geox J Savage G  Zapatillas para Niños   con un 45.41 % de descuento'
+date: 2021-03-08 10:48:18
+image: 'https://m.media-amazon.com/images/I/41on71jVc4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B003JMFG8C-es Geox J Savage G Zapatillas para Niños Negro Black C9999 31 EU'
 sku: 'B003JMFG8C-es'
 tags: [ 'geox', ]
-actualPrice: 41.08 EUR
+actualPrice: 32.7 EUR
 currency: EUR
-price: 41.08
+price: 32.7
 comparePrice: 59.9 EUR
 prodname: 'Geox J Savage G  Zapatillas para Niños  Negro  Black C9999   31 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B003JMFG8C/?tag=tolees-21'
-descuento: '31.42'
-average: '41.08'
+descuento: '45.41'
+average: '38.2866666666667'
 ---
 
-En este momento está [Geox J Savage G  Zapatillas para Niños  Negro  Black C9999   31 EU](https://www.amazon.es/dp/B003JMFG8C/?tag=tolees-21) a 41.08 EUR (original: 59.9 EUR) (31.42 %  de descuento) en el siguiente enlace!
+En este momento está [Geox J Savage G  Zapatillas para Niños  Negro  Black C9999   31 EU](https://www.amazon.es/dp/B003JMFG8C/?tag=tolees-21) a 32.7 EUR (original: 59.9 EUR) (45.41 %  de descuento) en el siguiente enlace!
 
-[![Geox J Savage G  Zapatillas para Niños  ](https://m.media-amazon.com/images/I/41Mi1K3zDqL._SL400_.jpg)](https://www.amazon.es/dp/B003JMFG8C/?tag=tolees-21)
+[![Geox J Savage G  Zapatillas para Niños  ](https://m.media-amazon.com/images/I/41on71jVc4L._SL400_.jpg)](https://www.amazon.es/dp/B003JMFG8C/?tag=tolees-21)
 
 🔎:
 
+- Altura del tacón: 2 centímetros
+- Material de la suela: Goma
+- Cierre: Velcro
+- Revestimiento: Malla
+- Material exterior: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003JMFG8C/?tag=tolees-21)
