@@ -28,10 +28,10 @@ Está [Quiksilver Ca Tried N Tur Bear - Camiseta para Hombre Camiseta  Hombre  W
 
 ℹ️:
 
-- Acabado de carbono
-- Serigrafía estampada en el pecho
 - Corte: Corte normal, clásico, cómodo
-- Cuello: Cuello redondo
 - Tejido: punto jersey de algodón ligero
+- Serigrafía estampada en el pecho
+- Acabado de carbono
+- Cuello: Cuello redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0893QC6GP/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Rip Curl MAI Ohana Top Camisa  Mujer  Black  XS](https://www
 
 🔎:
 
-- Camisa sin mangas de crepé con cuello V
 - Camisa Mai Ohana Top
 - Estampado del bañador Mai Ohana en los hombros rematada con bordado.
+- Camisa sin mangas de crepé con cuello V
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PCYYXYF/?tag=tolees-21)

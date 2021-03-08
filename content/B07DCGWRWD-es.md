@@ -28,9 +28,9 @@ Ahora mismo tienes [Kappa NOVARE Sweat Sudadera de Entrenamiento  Hombre  Negro/
 
 🔎:
 
-- Kappa bordado en el pecho y Omini Kappa bordado en las mangas
-- Diseño moderno
-- Proporciona libertad de movimiento
 - Cierre de 1/4 de cremallera en el cuello
+- Proporciona libertad de movimiento
+- Diseño moderno
+- Kappa bordado en el pecho y Omini Kappa bordado en las mangas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DCGWRWD/?tag=tolees-21)
