@@ -29,9 +29,9 @@ Tienes [URFEDA Cuero Vistoso Billetera Carcasa para LG K8 2018 Funda Libro Eiffe
 🔎:
 
 - [MEJOR PROTECCIÓN:] Proveyendo protección cada día contra impactos, raspaduras, suciedad, polvo, y peligros cotidianos.Compatible con LG K8 2018 Funda.
+- [Warranty]:URFEDA se compromete con la calidad del producto y la satisfacción del cliente. No dude en contactarnos si tiene alguna pregunta. Estamos comprometidos, seremos serios y resolveremos todos sus problemas.Compatible con LG K8 2018 Funda.
+- URFEDA Design Funda Libro de Cuero Vistoso Especialmente Compatible con LG K8 2018
 - [Instalación fácil:] Los puertos de acceso con corte de precisión están integrados en el cuerpo de la funda, lo que permite el uso de todas las características de tu dispositivo incluso mientras la funda está equipada; esto incluye el botón de encendido, micrófono, cámara y puerto de carga. Función de soporte integrado permite que la parte posterior de la cubierta se duplique como un soporte plegable para una visualización rápida y fácil, manos libres de medios de visualización.
 - [ Multifunción:] Múltiples ranuras para dinero en efectivo y tarjetas en esta compatible con LG K8 2018 te permiten llevar tu ID, tarjetas de crédito, tarjetas de débito y dinero con usted en todo momento.Funda Compatible con LG K8 2018 Funda.
-- URFEDA Design Funda Libro de Cuero Vistoso Especialmente Compatible con LG K8 2018
-- [Warranty]:URFEDA se compromete con la calidad del producto y la satisfacción del cliente. No dude en contactarnos si tiene alguna pregunta. Estamos comprometidos, seremos serios y resolveremos todos sus problemas.Compatible con LG K8 2018 Funda.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B4SQPVQ/?tag=tolees-21)

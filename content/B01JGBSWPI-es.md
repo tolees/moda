@@ -29,9 +29,9 @@ Está [IEFIEL Vestido Fiesta Boda Niña Vestido Largo de Princesa con Flores Ves
 ℹ️:
 
 - Vestido fiesta Niña sin mangas. Cuello en V, La cintura está decorada con un broche de flor o Bowknot.Falda de tres capas, las primeras dos de gasas y la interior de forro de mallas
+- La Tabla de Tallas significa el rango de edades de las niñas, sólo para las referencias generales. Para obtener el producto más adecuado, le recomendamos verificar la medición detallada antes de la compra
+- Cierre con cremallera oculta a la espalda,
 - Adecuado para el uso diario y ocasión especial como fiesta de cumpleaños, fiesta,Boda , fiesta de Halloween, carnaval, desfile, día del niño, fiesta temática, ceremonia, ceremonia de graduación de jardín de infantes, actuación, representación teatral, espectáculo de danza, ceremonia de graduación, sesión de fotos, familia reunión, banquete, evento formal, etc.
 - Material suave y cómodo, que no dañará la piel.
-- Cierre con cremallera oculta a la espalda,
-- La Tabla de Tallas significa el rango de edades de las niñas, sólo para las referencias generales. Para obtener el producto más adecuado, le recomendamos verificar la medición detallada antes de la compra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01JGBSWPI/?tag=tolees-21)
