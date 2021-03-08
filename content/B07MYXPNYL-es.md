@@ -28,10 +28,10 @@ Ahora mismo tienes [Zhao Xuan Trade Los Angeles Lakers Lebron James Baloncesto M
 
 🔎:
 
-- 100% poliéster, excelente tela
-- Características: Transpirable, Secado rápido.
-- Nombre y números: cosido.
-- Costura de alta calidad en la parte delantera / trasera de Jersey
 - Estilo: camiseta de baloncesto sin mangas. Jersey perfecto para la fiesta de los 90, fiesta de jersey, Halloween y la vida diaria. Aviso: El tamaño es más grande de lo normal.
+- Costura de alta calidad en la parte delantera / trasera de Jersey
+- Nombre y números: cosido.
+- Características: Transpirable, Secado rápido.
+- 100% poliéster, excelente tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MYXPNYL/?tag=tolees-21)
