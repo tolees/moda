@@ -28,10 +28,10 @@ Ahora mismo tienes [Camper Match  Sandalias con Tira Vertical Hombre  Multicolor
 
 🔎:
 
+- Color: Gris / Azul marino
 - Empeine: Cintas técnicas (PET Reciclado)
 - Sistema de cierre de Velcro para un fácil ajuste
 - Cintas:
 - Suela/Características: EVA para mayor ligereza
-- Color: Gris / Azul marino
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VZS7TKP/?tag=tolees-21)
