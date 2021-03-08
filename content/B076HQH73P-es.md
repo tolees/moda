@@ -28,9 +28,9 @@ En este momento está [adidas CORE18 PES JKTY Sudadera con Cremallera  Unisex Ni
 
 🔎:
 
-- Tiene el logo de Adidas en el pecho
 - Chaqueta con cuello alto unisex niños
-- Tiene cierre completo con cremallera
+- Tiene el logo de Adidas en el pecho
 - Tiene dos bolsillos laterales para manos
+- Tiene cierre completo con cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HQH73P/?tag=tolees-21)
