@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Lambert Bolso de Mano con Ban con un 49.67 % de descuento'
-date: 2021-03-07 20:56:12
+date: 2021-03-08 22:17:52
 image: 'https://m.media-amazon.com/images/I/41DEFQhldOL._SL400_.jpg'
 comments: true
 category: ofertas
