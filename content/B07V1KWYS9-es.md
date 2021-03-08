@@ -28,9 +28,9 @@ Tienes [Salomon Agile Training Camiseta Hombre Trail Running Sanderismo](https:/
 
 🔎:
 
-- Camiseta de manga corta, cómoda y ligera de hombre para running, senderismo y otros deportes al aire libre
-- Tecnología AdvancedSkin Active Dry: material transpirable y de secado rápido para mayor comodidad incluso cuando hace frío
 - Tejido suave y ligero para mayor comodidad
+- Tecnología AdvancedSkin Active Dry: material transpirable y de secado rápido para mayor comodidad incluso cuando hace frío
 - Elasticidad en 4 direcciones para mayor libertad de movimiento
+- Camiseta de manga corta, cómoda y ligera de hombre para running, senderismo y otros deportes al aire libre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V1KWYS9/?tag=tolees-21)

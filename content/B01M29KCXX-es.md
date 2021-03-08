@@ -28,10 +28,10 @@ Tienes [Hawkers X Gafas de sol  Carey · Gold Rose  One Size Unisex](https://www
 
 🔎:
 
-- Montura en celulosa de acetato y acero inoxidable
+- Incluye: funda en microfibra, caja y set de pegatinas decorativas
 - Lentes triacetato con tecnología Anti­Scratch con protección UV400
 - Medidas: Frontal 14 cm, Alto 5 cm, Patillas 14 cm.
-- Incluye: funda en microfibra, caja y set de pegatinas decorativas
+- Montura en celulosa de acetato y acero inoxidable
 - Lentes categoría 3
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M29KCXX/?tag=tolees-21)
