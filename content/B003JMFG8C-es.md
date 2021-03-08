@@ -28,10 +28,10 @@ En este momento está [Geox J Savage G  Zapatillas para Niños  Negro  Black C99
 
 🔎:
 
-- Altura del tacón: 2 centímetros
 - Material de la suela: Goma
-- Cierre: Velcro
+- Altura del tacón: 2 centímetros
 - Revestimiento: Malla
+- Cierre: Velcro
 - Material exterior: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003JMFG8C/?tag=tolees-21)
