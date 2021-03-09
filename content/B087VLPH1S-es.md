@@ -28,10 +28,10 @@ Está [Columbia Iceline Ridge Chaqueta De Esquí con Capucha  Hombre  Azul  Brig
 
 ℹ️:
 
-- Forro termorreflectante para regular la entrada / salida del calor, Faldón para la nieve ajustable con cierre a presión para una protección reforzada, Longitud de la espalda central larga de 28.5 pulgadas
 - Chaqueta de esquí con muchas características para rendimiento y protección dentro y fuera de las pistas, Active Fit con aislamiento Thermarator y una capa impermeable / transpirable
-- Contenido: 1x Columbia Iceline Ridge, Chaqueta de esquí, Hombre, Exterior: 100% poliéster; Forro: O-H Reflective 100% poliéster; Aislamiento: Thermarator 100% poliéster, Azul (Bright Indigo/Collegiate Navy/Bright C), XXL
 - Capucha adjunta y ajustable, Puños ajustables y dobladillo ajustable con cordón, Para todas las actividades de invierno
+- Contenido: 1x Columbia Iceline Ridge, Chaqueta de esquí, Hombre, Exterior: 100% poliéster; Forro: O-H Reflective 100% poliéster; Aislamiento: Thermarator 100% poliéster, Azul (Bright Indigo/Collegiate Navy/Bright C), XXL
+- Forro termorreflectante para regular la entrada / salida del calor, Faldón para la nieve ajustable con cierre a presión para una protección reforzada, Longitud de la espalda central larga de 28.5 pulgadas
 - Características adicionales de almacenamiento, incl. bolsillos para las manos con cremallera, Bolsillo para forfait, Bolsillo interior de seguridad, Bolsillo para gafas y Clip interno para llaves
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087VLPH1S/?tag=tolees-21)
