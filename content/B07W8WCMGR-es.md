@@ -28,10 +28,10 @@ En este momento está [Nero Giardini - NeroGiardini A908730D Botines Mujer De Pi
 
 🔎:
 
-- Material Interno: Piel
 - Tacón: 7 cm
-- Material Externo: Piel
+- Material Interno: Piel
 - Ajuste: Cómodo
 - Calidad: Made in Italy
+- Material Externo: Piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W8WCMGR/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Nero Giardini - NeroGiardini A923750M Zapatos De Cordones
 
 🔎:
 
-- Material Interno: piel
 - Calidad: Made in Italy
-- Material Externo: Piel
 - Ajuste: Cómodo
+- Material Externo: Piel
+- Material Interno: piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08H5Q1GX3/?tag=tolees-21)
