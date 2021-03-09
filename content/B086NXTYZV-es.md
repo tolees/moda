@@ -28,9 +28,9 @@ Está [PUMA Ftblnxt Track Jacket Chaqueta De Entrenamiento  Hombre  Black/Lumino
 
 ℹ️:
 
-- Diseñada para actividades deportivas
 - El material absorbe el calor y se seca rápidamente
-- Ofrece una comodidad óptima
 - Tiene dos bolsillos laterales con cremallera
+- Ofrece una comodidad óptima
+- Diseñada para actividades deportivas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086NXTYZV/?tag=tolees-21)
