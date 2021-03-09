@@ -28,7 +28,7 @@ En este momento está [Only Onllillo L/s Dress Knt Noos Vestido  Multicolor  Nig
 
 🔎:
 
-- Colorblocking knit dress
 - Loose fit knit dress
+- Colorblocking knit dress
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FF613ZL/?tag=tolees-21)
