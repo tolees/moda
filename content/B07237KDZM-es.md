@@ -28,7 +28,7 @@ Ahora mismo tienes [Only onlSEDONA Light Coat OTW Noos Abrigo  Gris  Dark Grey M
 
 🔎:
 
-- Abrigo de lana con capucha.
 - Abrigo largo de entretiempo.
+- Abrigo de lana con capucha.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07237KDZM/?tag=tolees-21)
