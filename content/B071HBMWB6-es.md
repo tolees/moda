@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Poppy Tote  Bolso totes para Mujer  Azul  Tommy Navy   14x
 
 ℹ️:
 
-- Artículo: aw0aw04302
 - Temporada: Otoño/Invierno
 - Diseñador: Tommy Hilfiger
+- Artículo: aw0aw04302
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071HBMWB6/?tag=tolees-21)
