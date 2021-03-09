@@ -29,12 +29,12 @@ Ahora mismo tienes [Geox D Myria D  Zapatillas Mujer  Azul  Navy C4002   36 EU](
 🔎:
 
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Altura del tacón: 3.0 centímetros
+- Material exterior: Cuero ante
 - Anchura del zapato: Normal
+- Material de la suela: Goma
+- Altura del tacón: 3.0 centímetros
+- Revestimiento: Sintético
 - Cierre: Cremallera
 - Tipo de tacón: Plano
-- Material exterior: Cuero ante
-- Material de la suela: Goma
-- Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SXTHMFD/?tag=tolees-21)

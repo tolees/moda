@@ -28,10 +28,10 @@ Tienes [iiniim Maillot Ballet Niña Mangas Largas Vestido de Danza mono Leotardo
 
 🔎:
 
+- Vestido de danza ballet mangas largas para niñas.
 - La parte superior de gasa con una braga interior.
-- Falda de gasa con guarniciones volantes alrededor de la cintura.
 - iiniim: Marca de fábrica, patentado y auténtico.
 - Cuello redondo, suave y elástico para llevar.
-- Vestido de danza ballet mangas largas para niñas.
+- Falda de gasa con guarniciones volantes alrededor de la cintura.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06VWD8QD9/?tag=tolees-21)

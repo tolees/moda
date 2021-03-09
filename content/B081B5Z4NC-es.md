@@ -28,10 +28,10 @@ Tienes [Columbia Triple Canyon Camisa de Manga Larga  Hombre  Gris Grey Mini Ton
 
 🔎:
 
-- Una camisa con sensación de frescura para las aventuras con temperaturas cálidas y en excursiones activas al aire libre, mangas arremangables con lengüeta
-- Fresco, seco y refrescante gracias al sistema de gestión de la transpiración y el sudor de Omni-Wick
-- Piense en su piel con la protección solar de Omni-Shade UPF 30; opción de doblar el cuello para más protección
-- 1x Columbia Triple Canyon, Camisa de manga larga para hombre, Poliéster, Gris (Columbia Grey Mini Tonal Plaid), S, Art. 1883324
 - Cómodo tejido elástico para optimizar la movilidad, cómodo bolsillo en el pecho izquierdo para guardar los objetos de valor y los artículos de primera necesidad
+- Piense en su piel con la protección solar de Omni-Shade UPF 30; opción de doblar el cuello para más protección
+- Fresco, seco y refrescante gracias al sistema de gestión de la transpiración y el sudor de Omni-Wick
+- Una camisa con sensación de frescura para las aventuras con temperaturas cálidas y en excursiones activas al aire libre, mangas arremangables con lengüeta
+- 1x Columbia Triple Canyon, Camisa de manga larga para hombre, Poliéster, Gris (Columbia Grey Mini Tonal Plaid), S, Art. 1883324
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081B5Z4NC/?tag=tolees-21)

@@ -28,7 +28,7 @@ Está [Jack & Jones Jjiliam Jjoriginal Am 502 Lid STS Vaqueros Skinny  Negro  Bl
 
 ℹ️:
 
-- Mezcla de fibra de algodón
 - Cómodo de llevar
+- Mezcla de fibra de algodón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072XQ1SXT/?tag=tolees-21)
