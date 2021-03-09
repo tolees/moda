@@ -29,8 +29,8 @@ Está [Giochi Preziosi- Series 3: Da Boss Muñeca de Moda con 20 Sorpresas  Mult
 ℹ️:
 
 - DA BOSS - la OMG más cool y decidida. Con su look atigrado no pasará desapercibida!
-- Abre el pack y descubre más de 20 sorpresas diferentes. El mismo pack se convierte en un armario para jugar y crear tus propios diseños de moda
 - Su pelazo, rizado y con mucho volumen te permitirá peinarla y dejarla como una auténtica reina de la fiesta.
 - L.O.L SURPRISE SERIE 3, las nuevas OMG para la navidad 2020!
+- Abre el pack y descubre más de 20 sorpresas diferentes. El mismo pack se convierte en un armario para jugar y crear tus propios diseños de moda
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BPG9Y1R/?tag=tolees-21)
