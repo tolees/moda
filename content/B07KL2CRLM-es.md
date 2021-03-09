@@ -28,8 +28,8 @@ Ahora mismo tienes [NIKE Club19 Camiseta  Hombre  Azul Oscuro  Obsidian/White   
 
 🔎:
 
-- Crew-neck design
 - Dri-Fit Technology
+- Crew-neck design
 - Regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KL2CRLM/?tag=tolees-21)
