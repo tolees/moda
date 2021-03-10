@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Tuc Tuc Camiseta Punto BÁSICOS BEBÉ  Ver al 49.96 % de descuento'
-date: 2021-02-21 10:59:32
-image: 'https://m.media-amazon.com/images/I/31F3mnyKyAL._SL200_.jpg'
+date: 2021-03-10 20:46:45
+image: 'https://m.media-amazon.com/images/I/31F3mnyKyAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.98'
 
 Está [Tuc Tuc Camiseta Punto BÁSICOS BEBÉ  Verde  6A para Niñas](https://www.amazon.es/dp/B085H2SQ6T/?tag=tolees-21) con 49.96 de descuento por 5.98 EUR (original: 11.95 EUR) en el siguiente enlace!
 
-[![Tuc Tuc Camiseta Punto BÁSICOS BEBÉ  Ver](https://m.media-amazon.com/images/I/31F3mnyKyAL._SL200_.jpg)](https://www.amazon.es/dp/B085H2SQ6T/?tag=tolees-21)
+[![Tuc Tuc Camiseta Punto BÁSICOS BEBÉ  Ver](https://m.media-amazon.com/images/I/31F3mnyKyAL._SL400_.jpg)](https://www.amazon.es/dp/B085H2SQ6T/?tag=tolees-21)
 
 ℹ️:
 

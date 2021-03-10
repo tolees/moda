@@ -28,11 +28,11 @@ Tienes [Geox J Casey Girl C  School Uniform Shoe   Black   34 EU](https://www.am
 
 ℹ️:
 
+- Suela: piel sintética / poliuretano
+- Transpirable
 - Material interior: textil
+- Tipo de tela: Smo.Lea
 - Cierre: cordones
 - Forma del tacón: plano
-- Transpirable
-- Suela: piel sintética / poliuretano
-- Tipo de tela: Smo.Lea
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825PMKDH/?tag=tolees-21)
