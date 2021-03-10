@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zapatos Casual Niña Pablosky Azul 341929 al 31.99 % de descuento'
-date: 2021-03-08 16:47:26
+date: 2021-03-10 16:12:55
 image: 'https://m.media-amazon.com/images/I/417SH9TJqjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pablosky'
 buyurl: 'https://www.amazon.es/dp/B0853WRW1T/?tag=tolees-21'
 descuento: '31.99'
-average: '25.375'
+average: '25.25'
 ---
 
 Está [Zapatos Casual Niña Pablosky Azul 341929 32](https://www.amazon.es/dp/B0853WRW1T/?tag=tolees-21) con 31.99 de descuento por 25.0 EUR (original: 36.76 EUR) en el siguiente enlace!
