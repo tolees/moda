@@ -1,36 +1,36 @@
 ---
 layout: post
-title: 'adidas CORE18 Hoody Sudadera con Capucha al 33.96 % de descuento'
-date: 2021-02-28 22:26:34
-image: 'https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL400_.jpg'
+title: 'adidas CORE18 Hoody Sudadera con Capucha al 35.36 % de descuento'
+date: 2021-03-10 18:58:04
+image: 'https://m.media-amazon.com/images/I/31hURDLdC3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B076HPWK6H-es adidas CORE18 Hoody Sudadera con Capucha Hombre Negro...'
 sku: 'B076HPWK6H-es'
 tags: [ 'sudadera', ]
-actualPrice: 26.41 EUR
+actualPrice: 25.85 EUR
 currency: EUR
-price: 26.41
+price: 25.85
 comparePrice: 39.99 EUR
 prodname: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21'
-descuento: '33.96'
-average: '28.9065624999999'
+descuento: '35.36'
+average: '28.8139393939393'
 ---
 
-Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21) con 33.96 de descuento por 26.41 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21) con 35.36 de descuento por 25.85 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL400_.jpg)](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21)
+[![adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/31hURDLdC3L._SL400_.jpg)](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21)
 
 ℹ️:
 
-- Tiene una capucha ajustable con cordón
-- Cuenta con un bolsillo de tipo canguro
-- Es adecuada para el futbol
 - Sudadera adecuada para hombres
+- Tiene una capucha ajustable con cordón
+- Es adecuada para el futbol
+- Cuenta con un bolsillo de tipo canguro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21)
