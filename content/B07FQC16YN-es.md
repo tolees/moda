@@ -28,7 +28,7 @@ Está [JACK & JONES Jjitim Jjoriginal Am 781 50SPS Noos Vaqueros slim  Azul  Blu
 
 ℹ️:
 
-- Corte slim fit ni muy ceñido ni muy holgado
 - Costuras marrones para un look denim auténtico
+- Corte slim fit ni muy ceñido ni muy holgado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FQC16YN/?tag=tolees-21)

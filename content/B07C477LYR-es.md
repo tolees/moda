@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Pepe Jeans Thrift Pl400755cf7 Chaqueta V al 60.10 % de descuento'
-date: 2020-02-12 08:32:16
-image: 'https://m.media-amazon.com/images/I/41mqZZXqo+L._AC_._SL400_.jpg'
+title: 'Pepe Jeans Thrift PL400755CF7 Chaqueta V al 61.62 % de descuento'
+date: 2021-03-10 09:14:33
+image: 'https://m.media-amazon.com/images/I/412Jy80q0JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C477LYR-es Pepe Jeans Thrift Pl400755cf7 Chaqueta Vaquera Azul Denim...'
+slug: 'B07C477LYR-es Pepe Jeans Thrift PL400755CF7 Chaqueta Vaquera Azul Denim...'
 sku: 'B07C477LYR-es'
 tags: [ 'chaqueta', ]
-actualPrice: 39.5 EUR
+actualPrice: 38.0 EUR
 currency: EUR
-price: 39.5
+price: 38.0
 comparePrice: 99.0 EUR
-prodname: 'Pepe Jeans Thrift Pl400755cf7 Chaqueta Vaquera  Azul  Denim CF7   M para Mujer'
+prodname: 'Pepe Jeans Thrift PL400755CF7 Chaqueta Vaquera  Azul  Denim CF7   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B07C477LYR/?tag=tolees-21'
-descuento: '60.10'
-average: '39.5'
+descuento: '61.62'
+average: '38.75'
 ---
 
-Ahora mismo tienes [Pepe Jeans Thrift Pl400755cf7 Chaqueta Vaquera  Azul  Denim CF7   M para Mujer](https://www.amazon.es/dp/B07C477LYR/?tag=tolees-21) a 39.5 EUR (original: 99.0 EUR) (60.10 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans Thrift PL400755CF7 Chaqueta Vaquera  Azul  Denim CF7   Medium para Mujer](https://www.amazon.es/dp/B07C477LYR/?tag=tolees-21) a 38.0 EUR (original: 99.0 EUR) (61.62 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Thrift Pl400755cf7 Chaqueta V](https://m.media-amazon.com/images/I/41mqZZXqo+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07C477LYR/?tag=tolees-21)
+[![Pepe Jeans Thrift PL400755CF7 Chaqueta V](https://m.media-amazon.com/images/I/412Jy80q0JL._SL400_.jpg)](https://www.amazon.es/dp/B07C477LYR/?tag=tolees-21)
 
 🔎:
 
+- 98% Algodón, 2% Elastano
+- Manga larga
+- Lavar a máquina
+- Denim
+- Estilo del cuello: Clásico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C477LYR/?tag=tolees-21)

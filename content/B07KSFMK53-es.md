@@ -30,8 +30,8 @@ En este momento está [Columbia Saturday Trail Camisa elástica de Manga Larga  
 
 - 1 bolsillo con cremallera, Mangas enrollables con trabillas de sujeción para un uso versátil, Cómodo diseño elástico para conseguir un ajuste ideal
 - Contenido: 1x Columbia Camisa de manga larga de mujer, Saturday Trail Stretch LS Shirt, Material: 86% Poliéster/14% Elastano, Color: Azul (Nocturnal), Talla: XS , 1773081
+- Transpirable y de secado rápido gracias a la tecnología Omni-Wick
 - Camisa de manga larga de mujer para excursionismo y otras actividades al aire libre, Ajuste activo
 - Mayor protección para la piel en los días más soleados gracias a la tecnología Omni-Shade con protección UPF 50
-- Transpirable y de secado rápido gracias a la tecnología Omni-Wick
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KSFMK53/?tag=tolees-21)
