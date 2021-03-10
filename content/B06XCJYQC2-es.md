@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Adriel Viola  Zapatos de Tacón pa al 60.00 % de descuento'
-date: 2021-03-06 10:03:46
+date: 2021-03-10 08:43:38
 image: 'https://m.media-amazon.com/images/I/41tHLOd4hiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B06XCJYQC2/?tag=tolees-21'
 descuento: '60.00'
-average: '46.744'
+average: '42.5257142857143'
 ---
 
 Ahora mismo tienes [Clarks Adriel Viola  Zapatos de Tacón para Mujer  Negro  Black Leather   38 EU](https://www.amazon.es/dp/B06XCJYQC2/?tag=tolees-21) a 31.98 EUR (original: 79.95 EUR) (60.00 %  de descuento) en el siguiente enlace!

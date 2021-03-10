@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Un Trek Part  Sandalias de Talón  al 37.00 % de descuento'
-date: 2021-03-02 07:24:53
+date: 2021-03-10 08:01:37
 image: 'https://m.media-amazon.com/images/I/41YW5dnxg7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,5 @@ Ahora mismo tienes [Clarks Un Trek Part  Sandalias de Talón Abierto Hombre  Neg
 
 🔎:
 
-- , Textíl, Textíl, Piel , cuero, caucho, 179, Sandalias
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0756CWCQ7/?tag=tolees-21)
