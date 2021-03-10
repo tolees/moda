@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'oodji Ultra Mujer Blusa con Cordones Dec al 53.50 % de descuento'
-date: 2021-03-09 03:48:30
+date: 2021-03-10 04:37:50
 image: 'https://m.media-amazon.com/images/I/51MDmDEYRDL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [oodji Ultra Mujer Blusa con Cordones Decorativos y Volantes 
 
 🔎:
 
-- Estupenda blusa con diseño tradiconal y poco común con cuello rematado por un lazo
-- Elegante blusa con alegre estampado primaveral ideal para el entretiempo
+- Estilo de ropa: Ceremonia
 - Longitud de espalda (talla M): 58cm
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. La modella indossa: IT 42 / EU 38 / S. Le misure della modella: 85cm/65cm/90cm. Altezza/peso modella:175cm/52kg
-- Estilo de ropa: Ceremonia
+- Estupenda blusa con diseño tradiconal y poco común con cuello rematado por un lazo
+- Elegante blusa con alegre estampado primaveral ideal para el entretiempo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082QSDKZT/?tag=tolees-21)
