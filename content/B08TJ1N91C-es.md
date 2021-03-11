@@ -28,9 +28,9 @@ Está [CRYSTALINA - Juego de Joyas de Plata 925 bañado en oro blanco para Mujer
 
 ℹ️:
 
-- 💎EL REGALO PERFECTO - Este elegante conjunto de plata es el regalo ideal y viene en una bonita caja de regalo de joyería. Es perfecto para regalos en San Valentín, el Día de la Madre, aniversarios, bodas, cumpleaños, graduaciones y fiestas.
-- 💎100% COMPRA SEGURA - Disfrute de la entrega rápida y segura! Mantenerlo satisfecho y proporcionarle productos de la mejor calidad es nuestro objetivo número uno!
 - 💎DISEÑO - Un bonito y elegante conjunto realizado con plata y circonitas, incluye cadena con colgante, pendientes y anillo a juego, ideal tanto para el uso diario como para una ocasión especial.
 - 💎MATERIALES y MEDIDAS - Realizado con plata esterlina 925 bañado en oro blanco y circonitas AAA+, sin manchas, sin níquel y sin plomo. Hipoalergénico. 100% seguro para pieles sensibles. Tamaño del colgante 1,7 cm. Cadena: 44cm. Tamaño de los pendientes 1,3 cm. Tamaño adorno anillo 1,5cm EL CONJUNTO LLEVA EL SELLO S925.
+- 💎100% COMPRA SEGURA - Disfrute de la entrega rápida y segura! Mantenerlo satisfecho y proporcionarle productos de la mejor calidad es nuestro objetivo número uno!
+- 💎EL REGALO PERFECTO - Este elegante conjunto de plata es el regalo ideal y viene en una bonita caja de regalo de joyería. Es perfecto para regalos en San Valentín, el Día de la Madre, aniversarios, bodas, cumpleaños, graduaciones y fiestas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TJ1N91C/?tag=tolees-21)
