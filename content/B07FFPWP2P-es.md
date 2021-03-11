@@ -28,9 +28,9 @@ Ahora mismo tienes [Bollé FREEZE Black Matte / Grey Cat.3 | Medium - Gafas de e
 
 🔎:
 
+- Tipo de deporte: Snowboarding
 - Lente cilíndrica
 - Categoría: 3
 - Lente: Grey
-- Tipo de deporte: Snowboarding
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FFPWP2P/?tag=tolees-21)
