@@ -28,9 +28,9 @@ Tienes [Rubies - Fortnite - Disfraz camiseta Skull Trooper para niño  Small - 1
 
 🔎:
 
-- El producto diseñado y dimensionado en el Reino Unido se refiere a la tabla de tallas para mediciones, manténgalo alejado del fuego
-- Esta es una tarjeta de cabecera de Fortnight skull trooper. Este producto no es un traje completo.
-- El oficial de Skull Fortnite Skull Trooper de Rubie, ideal para el juego de disfraces de Halloween y las fiestas Fortnite
 - El producto con licencia oficial de Rubie ha sido probado según todas las normas europeas y británicas requeridas, incluyendo EN71 y REACH
+- El producto diseñado y dimensionado en el Reino Unido se refiere a la tabla de tallas para mediciones, manténgalo alejado del fuego
+- El oficial de Skull Fortnite Skull Trooper de Rubie, ideal para el juego de disfraces de Halloween y las fiestas Fortnite
+- Esta es una tarjeta de cabecera de Fortnight skull trooper. Este producto no es un traje completo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HFN4H9Y/?tag=tolees-21)
