@@ -29,7 +29,7 @@ Ahora mismo tienes [Springfield Linen Short Sleeve Franq-C/51 Camisa Casual   Be
 🔎:
 
 - Adecuado para un atuendo casual
-- Tiene un diseño moderno
 - Camisa para hombre
+- Tiene un diseño moderno
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WLWWHJV/?tag=tolees-21)
