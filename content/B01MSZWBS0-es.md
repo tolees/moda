@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.23 % en Lacoste NH2102NE  Bolso bandolera para H'
-date: 2021-03-10 09:24:10
+date: 2021-03-11 21:35:37
 image: 'https://m.media-amazon.com/images/I/51ABzSvXU9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Lacoste NH2102NE  Bolso bandolera para Hombre  BLACK  Black   Talla úni
 
 ℹ️:
 
-- Correa de hombro ajustable
-- Dimensiones 16 x 21 x 6,5 cm
 - Exterior de lona ligera (100% poliéster)
-- Un bolsillo exterior con cremallera y dos bolsillos interiores, uno de ellos con cremallera
+- Dimensiones 16 x 21 x 6,5 cm
 - Cocodrilo verde bordado
+- Un bolsillo exterior con cremallera y dos bolsillos interiores, uno de ellos con cremallera
+- Correa de hombro ajustable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MSZWBS0/?tag=tolees-21)

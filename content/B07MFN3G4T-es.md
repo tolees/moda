@@ -28,14 +28,14 @@ Tienes [Geox D PHAOLAE A  Ankle Boot Mujer  Negro  Black C9999   35 EU](https://
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material exterior: Cuero
-- Cierre: Cordones
-- Altura del tacón: 3.5 centímetros
 - Composición: Cuero
 - Revestimiento: Sintético
 - Anchura del zapato: Normal
-- Material de la suela: Sintético
+- Cierre: Cordones
 - Tipo de talla: Los zapatos Geox son holgados
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Material exterior: Cuero
+- Altura del tacón: 3.5 centímetros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MFN3G4T/?tag=tolees-21)
