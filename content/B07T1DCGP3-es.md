@@ -29,10 +29,10 @@ En este momento está [Timberland Adventure Seeker 2 Strap  Toddler   Sandalias 
 🔎:
 
 - Ancho del zapato: normal
-- Material de la suela: goma
-- Material exterior: sintético
 - Cierre: velcro
+- Material de la suela: goma
 - Forro: sintético
+- Material exterior: sintético
 - Tipo de tacón: plano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T1DCGP3/?tag=tolees-21)
