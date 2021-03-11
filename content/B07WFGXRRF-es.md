@@ -28,10 +28,10 @@ Ahora mismo tienes [Pepe Jeans Irvin Bolso de Mano Gris 24 5x15x6 cms Poliéster
 
 🔎:
 
-- Asa lateral para colgártelo de la muñeca
-- Bolsillo frontal y trasero con cremallera para acceder fácilmente a accesorios más pequeños
 - Interior con seis ranuras para las tarjetas, tres compartimentos para los bolis, y dos bolsillos de distintos tamaños, uno de ellos con cremallera
 - Bolso de mano de 24, 5 cm x 15 cm x 6 cm fabricado en poliéster con detalles en piel sintética
 - De joumma bags
+- Asa lateral para colgártelo de la muñeca
+- Bolsillo frontal y trasero con cremallera para acceder fácilmente a accesorios más pequeños
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WFGXRRF/?tag=tolees-21)
