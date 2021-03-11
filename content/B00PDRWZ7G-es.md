@@ -28,10 +28,10 @@ Ahora mismo tienes [Kit Pintura Tela para Camiseta la Pajarita 128958  Kit de Pi
 
 🔎:
 
-- Superficie: Uso para cualquier superficie textil.
 - El kit incluye: Seis botes de pintura para tela (25ml) de colores: Blanco, amarillo real, rojo escarlata, verde primavera, azul victoria y negro; 1 pincel.
-- Aplicación: Pincel incluido en el kit Pintura Tela
-- Para limpiar la pintura, utiliza agua y jabón
 - Los colores son miscibles entre sí
+- Para limpiar la pintura, utiliza agua y jabón
+- Superficie: Uso para cualquier superficie textil.
+- Aplicación: Pincel incluido en el kit Pintura Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00PDRWZ7G/?tag=tolees-21)
