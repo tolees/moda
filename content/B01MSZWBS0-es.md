@@ -28,10 +28,10 @@ Tienes [Lacoste NH2102NE  Bolso bandolera para Hombre  BLACK  Black   Talla úni
 
 ℹ️:
 
-- Exterior de lona ligera (100% poliéster)
 - Dimensiones 16 x 21 x 6,5 cm
-- Cocodrilo verde bordado
-- Un bolsillo exterior con cremallera y dos bolsillos interiores, uno de ellos con cremallera
 - Correa de hombro ajustable
+- Un bolsillo exterior con cremallera y dos bolsillos interiores, uno de ellos con cremallera
+- Exterior de lona ligera (100% poliéster)
+- Cocodrilo verde bordado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MSZWBS0/?tag=tolees-21)

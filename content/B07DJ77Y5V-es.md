@@ -29,9 +29,9 @@ Tienes [Geox UOMO Sandal Strada A  Sandalias con Punta Abierta Hombre  Black  Bl
 ℹ️:
 
 - Material exterior: Sintético
-- Material de la suela: Goma
-- Tipo de tacón: Plano
 - Sin Cordones
+- Material de la suela: Goma
 - Revestimiento: Tela
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DJ77Y5V/?tag=tolees-21)
