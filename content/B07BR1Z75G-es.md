@@ -28,10 +28,10 @@ Tienes [Skechers Delson-Antigo  Zapatos de Cordones Oxford Hombre  Marrón  CDB 
 
 ℹ️:
 
-- Forro: Textil
-- Superiores: Cuero
-- Código Del Fabricante: 65693
-- Fijación: Cordonehacia
 - Suela: Eva
+- Forro: Textil
+- Código Del Fabricante: 65693
+- Superiores: Cuero
+- Fijación: Cordonehacia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BR1Z75G/?tag=tolees-21)
