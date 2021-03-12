@@ -28,9 +28,9 @@ Tienes [Polaroid 07886- Gafas de sol color 9CA RC negro  black   talla 70](https
 
 ℹ️:
 
-- Gafas de sol Rectangular
-- Lentes no Polarizados
 - Montura completa
 - Almohadillas moldeadas para la nariz
+- Gafas de sol Rectangular
+- Lentes no Polarizados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00J0CRUVQ/?tag=tolees-21)
