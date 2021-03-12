@@ -28,10 +28,10 @@ Tienes [Clarks Tealite Grace  Sandalias con Tira Vertical para Mujer  Gris  Grau
 
 🔎:
 
-- Manmade Sole
-- Ideal for everyday casual wear and holidays
 - Leather Upper
-- Hook & Loop Fastening
 - Synthetic/Leather lining
+- Manmade Sole
+- Hook & Loop Fastening
+- Ideal for everyday casual wear and holidays
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JD9DLQT/?tag=tolees-21)
