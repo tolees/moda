@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 PES JKT Chaqueta de Deport al 30.01 % de descuento'
-date: 2021-03-11 21:59:18
+date: 2021-03-12 22:22:24
 image: 'https://m.media-amazon.com/images/I/41Sl4g43q7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMRYMC/?tag=tolees-21'
 descuento: '30.01'
-average: '19.7582758620689'
+average: '19.8377419354838'
 ---
 
 Está [adidas CORE18 PES JKT Chaqueta de Deporte  Hombre  Azul  Azul/Blanco   M](https://www.amazon.es/dp/B076HMRYMC/?tag=tolees-21) con 30.01 de descuento por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [adidas CORE18 PES JKT Chaqueta de Deporte  Hombre  Azul  Azul/Blanco   M]
 
 ℹ️:
 
-- Cuello altamente cerrable
-- Puños con puños elásticos
 - Chaqueta con bolsillos con cremallera
 - Material 100% poliéster
+- Cuello altamente cerrable
+- Puños con puños elásticos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HMRYMC/?tag=tolees-21)

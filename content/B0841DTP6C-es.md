@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger TJM Colorado Graphic tee  al 63.46 % de descuento'
-date: 2021-03-12 21:59:58
+date: 2021-03-12 22:00:41
 image: 'https://m.media-amazon.com/images/I/31GWxMOSGFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tommy Hilfiger TJM Colorado Graphic tee Camisa  Blanco  XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B0841DTP6C/?tag=tolees-21'
 descuento: '63.46'
 average: '12.79'
