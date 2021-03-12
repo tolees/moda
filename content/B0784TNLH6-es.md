@@ -28,9 +28,9 @@ Está [Lacoste L1212 Poloshirt Camisa de polo  Azul  Ibiza   XS para Hombre](htt
 
 ℹ️:
 
+- Cocodrilo bordado en el pecho
 - Cuello y bordes de las mangas acanalados
 - Botones de nácar
-- Cocodrilo bordado en el pecho
 - Bajo recto con aberturas laterales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0784TNLH6/?tag=tolees-21)
