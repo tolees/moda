@@ -28,10 +28,10 @@ Ahora mismo tienes [oodji Ultra Mujer Blusa con Cordones Decorativos y Volantes 
 
 🔎:
 
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. La modella indossa: IT 42 / EU 38 / S. Le misure della modella: 85cm/65cm/90cm. Altezza/peso modella:175cm/52kg
-- Estupenda blusa con diseño tradiconal y poco común con cuello rematado por un lazo
-- Elegante blusa con alegre estampado primaveral ideal para el entretiempo
 - Estilo de ropa: Ceremonia
 - Longitud de espalda (talla M): 58cm
+- Estupenda blusa con diseño tradiconal y poco común con cuello rematado por un lazo
+- Elegante blusa con alegre estampado primaveral ideal para el entretiempo
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. La modella indossa: IT 42 / EU 38 / S. Le misure della modella: 85cm/65cm/90cm. Altezza/peso modella:175cm/52kg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082QSDKZT/?tag=tolees-21)
