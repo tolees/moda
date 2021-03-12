@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Luke Vaqueros  Minimalee Fy  38W / 34L para Hombre](http
 
 🔎:
 
-- Estilo 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para mujer
+- Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo 5 bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JKWJHTX/?tag=tolees-21)
