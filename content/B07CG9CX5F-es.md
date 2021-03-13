@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.48 % en oodji Ultra Mujer Blusa de Viscosa con E'
-date: 2021-03-12 04:23:03
+date: 2021-03-13 10:24:04
 image: 'https://m.media-amazon.com/images/I/418yPPtJjFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [oodji Ultra Mujer Blusa de Viscosa con Espalda Larga  Azul  ES 36 / XS](
 
 ℹ️:
 
+- Estilo de ropa: Negocios
+- Longitud de espalda (talla M): 70,5cm
 - Ideal para llevar en ocasiones importantes y eventos formales
 - Sencilla blusa holgada con cuello de solapa y cierre de botones
-- Longitud de espalda (talla M): 70,5cm
-- Estilo de ropa: Negocios
 - Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CG9CX5F/?tag=tolees-21)
