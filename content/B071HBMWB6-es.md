@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Poppy Tote  Bolso totes p al 31.18 % de descuento'
-date: 2021-03-09 04:38:20
+date: 2021-03-13 03:59:51
 image: 'https://m.media-amazon.com/images/I/31eecRXhO2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Poppy Tote  Bolso totes para Mujer  Azul  Tommy Navy   14x
 
 ℹ️:
 
-- Temporada: Otoño/Invierno
 - Diseñador: Tommy Hilfiger
 - Artículo: aw0aw04302
+- Temporada: Otoño/Invierno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071HBMWB6/?tag=tolees-21)
