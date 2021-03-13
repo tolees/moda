@@ -28,10 +28,10 @@ Ahora mismo tienes [Cerdá Falda de Tul con Tutu de Minnie Mouse Disney para Ni�
 
 🔎:
 
+- Lavar a máquina (30º máx) no secar en secadora planchar a baja temperatura (110º máx)
 - Falda de tul compuesta por una falda de tela interior y una parte exterior con tutu para que tu niña se sienta como una auténtica bailarina
 - Tu niña se sentirá como una auténtica ratita presumida con este conjunto de falda tan original
 - Talla idónea para niña de 2 años
-- Lavar a máquina (30º máx) no secar en secadora planchar a baja temperatura (110º máx)
 - Perfecto conjunto para niña que garantiza la comodidad de movimiento para que salte y juegue con el estilo de una bailarina profesional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084BKTT2N/?tag=tolees-21)

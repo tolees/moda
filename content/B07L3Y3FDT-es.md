@@ -28,13 +28,13 @@ En este momento está [Quadiva G! - Collar para mujer con colgante de trébol  c
 
 🔎:
 
-- Chapado en oro de 18 quilates
-- Un brillante y llamativo
-- La cadena para mujer con colgante de trébol en color oro blanco es un atractivo de ensueño.
-- El regalo ideal
-- Brilla con esta pieza de joyería de Quadiva decorada con cristales de alta calidad de Swarovski.
-- Con cristales blancos y dos cristales de corazón Palace Green
 - Longitud de la cadena: 45 cm
 - Una joya con estilo
+- Con cristales blancos y dos cristales de corazón Palace Green
+- Un brillante y llamativo
+- Brilla con esta pieza de joyería de Quadiva decorada con cristales de alta calidad de Swarovski.
+- La cadena para mujer con colgante de trébol en color oro blanco es un atractivo de ensueño.
+- Chapado en oro de 18 quilates
+- El regalo ideal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L3Y3FDT/?tag=tolees-21)
