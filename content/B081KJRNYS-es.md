@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Bromley Bolso de Mano Azul 24 al 37.08 % de descuento'
-date: 2021-03-11 16:42:32
+date: 2021-03-13 04:32:33
 image: 'https://m.media-amazon.com/images/I/51P2xrAf+xL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B081KJRNYS/?tag=tolees-21'
 descuento: '37.08'
-average: '19.8985714285714'
+average: '19.77'
 ---
 
 Está [Pepe Jeans Bromley Bolso de Mano Azul 24 5x15x6 cms Poliéster](https://www.amazon.es/dp/B081KJRNYS/?tag=tolees-21) con 37.08 de descuento por 18.87 EUR (original: 29.99 EUR) en el siguiente enlace!
