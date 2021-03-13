@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Type 3 Sherpa Chaqueta Vaquera  Rockridge Trucker  XS
 
 🔎:
 
-- Bajo ajustable en el lateral
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HK7HYBF/?tag=tolees-21)
