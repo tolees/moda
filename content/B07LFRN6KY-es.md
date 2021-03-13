@@ -28,14 +28,14 @@ Está [Geox D ANNYTAH Moc A  Mocasines Mujer  Azul  Dk Blue C4007   38.5 EU](htt
 
 ℹ️:
 
-- Tipo de tacón: Plano
+- Cierre: Sin cierre
+- Anchura del zapato: Normal
+- Tipo de talla: Los zapatos Geox son holgados
+- Altura del tacón: 2 centímetros
+- Material exterior: Nobuck
+- Composición: Sintético
 - Revestimiento: Sintético
 - Material de la suela: Sintético
-- Cierre: Sin cierre
-- Tipo de talla: Los zapatos Geox son holgados
-- Material exterior: Nobuck
-- Anchura del zapato: Normal
-- Altura del tacón: 2 centímetros
-- Composición: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFRN6KY/?tag=tolees-21)
