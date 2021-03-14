@@ -29,9 +29,9 @@ Ahora mismo tienes [Burton Durable Goods Sudadera  Hombre  Tandori  XS](https://
 🔎:
 
 - El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
-- Bolsillo de canguro; Logos bordados
 - Puños y dobladillo de canalé.
-- Mezcla de algodón y poliéster reciclado 305 g de forro polar cepillado
+- Bolsillo de canguro; Logos bordados
 - Capucha forrada y con cordón
+- Mezcla de algodón y poliéster reciclado 305 g de forro polar cepillado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CSF8S77/?tag=tolees-21)
