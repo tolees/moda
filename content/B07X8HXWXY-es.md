@@ -28,8 +28,8 @@ En este momento está [adidas Core18 Hoody Sudadera  Hombre  Bold Green  XS](htt
 
 🔎:
 
-- Kangaroo pocket
 - Regular fit
 - Hood with lanyard
+- Kangaroo pocket
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X8HXWXY/?tag=tolees-21)
