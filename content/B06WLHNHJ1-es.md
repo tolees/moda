@@ -28,9 +28,9 @@ Está [oodji Ultra Mujer Blusa de Gasa con Pespuntes en el Pecho  Verde  ES 38 /
 
 ℹ️:
 
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
 - Ideal para crear un sensacional estilo para celebraciones o para delicados atuendos para ocasiones especiales
-- Elegante blusa con precioso estampado de mariposas, escote de gota y delicados pliegues decorativos
 - Estilo de ropa: Casual
+- Elegante blusa con precioso estampado de mariposas, escote de gota y delicados pliegues decorativos
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06WLHNHJ1/?tag=tolees-21)
