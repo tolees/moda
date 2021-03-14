@@ -28,10 +28,10 @@ Tienes [Kami Idea Collar  Mi Fatídico Amor  Colgante de Corazón a Corazón  Jo
 
 🔎:
 
-- ❤ Servicio de Primera Clase ❤ 30 días de garantía de devolución del dinero por cualquier motivo; Garantía de por vida para cualquier problema de calidad.
-- ❤ Consejos de Joyería ❤ Por favor, úselo y evite el agua caliente, el agua de mar, el champú, la crema de ducha, los perfumes y otros líquidos corrosivos. No lo toques a menudo. Frote su joyería con toallitas húmedas para bebés y luego frote con un paño de algodón limpio y seco. Almacenar joyas por separado.
-- ❤ Inspiración ❤ Nunca he tenido este sentimiento en mi corazón, pero desde el momento en que te vi, sé que siempre estás destinado a ser mi destino. Corazon a corazon y De la mano, envejecemos juntos! Diseño de dos corazones, grabado Inglés "I love you 3000 times" en un solo corazón. La superficie brillante y la exquisita cristalinas pavimentan a lo largo del perímetro exterior añaden un efecto llamativo al ítem.
 - ❤ Gran Idea de Regalo ❤ Todas las joyas llegan en una caja de joyería exquisita, sin necesidad de envoltura. Es un bonito regalo para cualquier mujer en cualquier ocasión Navidad, San Valentín, Día de la Madre …
+- ❤ Consejos de Joyería ❤ Por favor, úselo y evite el agua caliente, el agua de mar, el champú, la crema de ducha, los perfumes y otros líquidos corrosivos. No lo toques a menudo. Frote su joyería con toallitas húmedas para bebés y luego frote con un paño de algodón limpio y seco. Almacenar joyas por separado.
 - ❤ Especificación ❤ Talla Colgante: 0.9 * 0.6inch; Longitud de la Cadena: 17.7 + 2inch; Peso: 5.42g / 0.19oz. Respetuoso del medio ambiente aleación de zinc chapado en oro rosa y platino. Hipoalergénico, Sin Plomo y Sin Níquel, aprobó la norma de inspección SGS. Materias primas cristalinas de Austria.
+- ❤ Servicio de Primera Clase ❤ 30 días de garantía de devolución del dinero por cualquier motivo; Garantía de por vida para cualquier problema de calidad.
+- ❤ Inspiración ❤ Nunca he tenido este sentimiento en mi corazón, pero desde el momento en que te vi, sé que siempre estás destinado a ser mi destino. Corazon a corazon y De la mano, envejecemos juntos! Diseño de dos corazones, grabado Inglés "I love you 3000 times" en un solo corazón. La superficie brillante y la exquisita cristalinas pavimentan a lo largo del perímetro exterior añaden un efecto llamativo al ítem.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V6XT9JP/?tag=tolees-21)
