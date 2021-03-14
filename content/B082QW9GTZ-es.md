@@ -28,10 +28,10 @@ Tienes [oodji Ultra Mujer Blusa de Viscosa con Mangas 3/4 Transformables  Azul  
 
 🔎:
 
+- Estupenda blusa de estilo marinero a la moda
 - Estilo de ropa: Casual
 - Ideal para crear un look femenino de estilo casual
 - Longitud de espalda (talla M): 66,5cm
-- Estupenda blusa de estilo marinero a la moda
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082QW9GTZ/?tag=tolees-21)
