@@ -28,8 +28,8 @@ En este momento está [Lee Crewneck SWS  Sudadera para Hombre  Negro  Black 01  
 
 🔎:
 
-- Tiene estampado en el pecho el logotipo de la marca
 - Producto de ajuste regular
+- Tiene estampado en el pecho el logotipo de la marca
 - Con un interior rugoso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N17W3HR/?tag=tolees-21)
