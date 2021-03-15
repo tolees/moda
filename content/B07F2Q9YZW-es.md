@@ -28,8 +28,8 @@ Tienes [Helly Hansen HP Racing Chaqueta  Hombre  Azul  XL](https://www.amazon.es
 
 🔎:
 
-- De alta calidad.
 - De la marca Helly Hansen.
 - Helly Tech Performance Impermeable, cortaviento y transpirable Fabricación con tejido de 2 capas Costuras totalmente selladas Tratamiento de resistencia al agua duradera (DWR)
+- De alta calidad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F2Q9YZW/?tag=tolees-21)

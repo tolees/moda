@@ -28,10 +28,10 @@ Tienes [Smiffys- Disfraz de moza Pirata de Alta mar  con Vestido  Pantalones y t
 
 ℹ️:
 
-- Busto 40-42" / cintura 32-34" / cadera 425-445" / entrepiernas 33"
-- Tenga en cuenta que todos nuestros productos Smiffys siempre vienen en un empaque completo con la marca Smiffys
-- Incluye Disfraz de moza pirata de alta mar, con vestido, pantalones y tahalí
-- Smiffys es un proveedor líder de disfraces y una empresa familiar con una herencia de 123 años en disfraces, pelucas, maquillaje y accesorios
 - Nuestro equipo interno de seguridad asegura que todos nuestros productos son manufaturados y rigurosamente testados para cumplir con los estándares y regulamentos europeos y americanos de seguridad
+- Busto 40-42" / cintura 32-34" / cadera 425-445" / entrepiernas 33"
+- Smiffys es un proveedor líder de disfraces y una empresa familiar con una herencia de 123 años en disfraces, pelucas, maquillaje y accesorios
+- Incluye Disfraz de moza pirata de alta mar, con vestido, pantalones y tahalí
+- Tenga en cuenta que todos nuestros productos Smiffys siempre vienen en un empaque completo con la marca Smiffys
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AZGDIWG/?tag=tolees-21)

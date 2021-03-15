@@ -28,9 +28,9 @@ Tienes [oodji Ultra Mujer Blusa de Viscosa con Espalda Larga  Azul  ES 36 / XS](
 
 ℹ️:
 
+- Sencilla blusa holgada con cuello de solapa y cierre de botones
 - Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 - Longitud de espalda (talla M): 70,5cm
-- Sencilla blusa holgada con cuello de solapa y cierre de botones
 - Ideal para llevar en ocasiones importantes y eventos formales
 - Estilo de ropa: Negocios
 
