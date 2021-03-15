@@ -28,10 +28,10 @@ En este momento está [Hauck Cuna de Viaje Play N Relax Center  de Nacimiento ha
 
 🔎:
 
-- Plegado: la cuna de viaje es ligera de peso y fácil de plegar, ahorrando espacio vaya donde vaya, lleva incluida bolsa de transporte con asas para protegerla de suicidad y de roturas
-- Movilidad: fácil desplazamiento de la cuna con ruedas, la estructura de cuna en forma de a da estabilidad y protección antivuelco, bolsa lateral para almacenamiento de utensilios
 - Diversion jugando: para más diversión del niño podrá entrar y salir por la apertura lateral de la cuna, la apertura se abre y cierra mediante cremallera que únicamente se puede accionar desde fuera
-- Accesorio adicional: para mas comodidad de su bebe puede adquirir por separado nuestro colchoncito Hauck sleeper como su sábana bajera a juego Hauck bed me con medidas de 60 x 120cm
+- Plegado: la cuna de viaje es ligera de peso y fácil de plegar, ahorrando espacio vaya donde vaya, lleva incluida bolsa de transporte con asas para protegerla de suicidad y de roturas
 - Set completo desde nacimiento: cuna de viaje con doble altura y cambiador apto para recien nacidos, ambos soportan un peso de max, 9kg, la cuna de viaje es comoda y soporta un peso de 15kg
+- Accesorio adicional: para mas comodidad de su bebe puede adquirir por separado nuestro colchoncito Hauck sleeper como su sábana bajera a juego Hauck bed me con medidas de 60 x 120cm
+- Movilidad: fácil desplazamiento de la cuna con ruedas, la estructura de cuna en forma de a da estabilidad y protección antivuelco, bolsa lateral para almacenamiento de utensilios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XZP3NMY/?tag=tolees-21)
