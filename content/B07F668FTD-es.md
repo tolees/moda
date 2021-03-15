@@ -28,10 +28,10 @@ En este momento está [Landove - Camisas Hombros Descubiertos Mujer Casual Color
 
 🔎:
 
-- ☞ Por favor, solo compre al vendedor autorizado "Landove", otros vendedores con precios más baratos no tienen nuestras autorizaciones, pueden ser mentirosos y no enviar su paquete o vender los productos de baja calidad.
 - ☞ L / IT42 / FR38 / ES38 / DE36 / UK10: busto: 96cm; Longitud: 63cm;
-- ☞ XL / IT44 / FR40 / ES40 / DE38 / UK12: Busto: 100cm; Longitud: 64cm.
-- ☞ M / IT40 / FR36 / ES36 / DE34 / UK8: Busto: 92cm; Longitud: 62cm;
 - ☞ S / IT38 / FR34 / ES34 / DE32 / UK6: Busto: 88cm; Longitud: 61cm;
+- ☞ Por favor, solo compre al vendedor autorizado "Landove", otros vendedores con precios más baratos no tienen nuestras autorizaciones, pueden ser mentirosos y no enviar su paquete o vender los productos de baja calidad.
+- ☞ M / IT40 / FR36 / ES36 / DE34 / UK8: Busto: 92cm; Longitud: 62cm;
+- ☞ XL / IT44 / FR40 / ES40 / DE38 / UK12: Busto: 100cm; Longitud: 64cm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F668FTD/?tag=tolees-21)

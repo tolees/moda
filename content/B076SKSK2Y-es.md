@@ -28,10 +28,10 @@ Ahora mismo tienes [oodji Ultra Mujer Blusa Básica de Viscosa con Bolsillos en 
 
 🔎:
 
-- Perfecta tanto para la oficina como para los encuentros informales
 - Elegante camisa con charreteras y cuello vuelto
-- Longitud de espalda (talla M): 69cm
-- El corte holgado de esta blusa no limita los movimientos
 - Modelo: Talla S. Medidas: 85/63/90. Altura/peso: 176cm/55kg
+- Perfecta tanto para la oficina como para los encuentros informales
+- El corte holgado de esta blusa no limita los movimientos
+- Longitud de espalda (talla M): 69cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076SKSK2Y/?tag=tolees-21)
