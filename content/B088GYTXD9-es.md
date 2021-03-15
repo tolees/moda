@@ -28,10 +28,10 @@ Tienes [FANCYINN Mujeres Spaghetti Strap Summer Prom Vestidos Largos Dama de Hon
 
 🔎:
 
-- Una falda larga ondulada cae en cascada desde una cintura elástica hasta un elegante final
-- Un escote de delantal sostenido por tirantes de espagueti ajustables que se entrecruzan sobre una espalda abierta sensual
-- Georgette ligero forma un corpiño ajustado con costuras de princesa
 - Verano con este maxi de gasa suave de FANCYINN, una silueta fluida
 - Hermoso vestido de gala perfecto para cualquier ocasión especial. Simplemente combina elegantes zapatos de tacón alto y un clutch y estarás bien vestido en poco tiempo.
+- Georgette ligero forma un corpiño ajustado con costuras de princesa
+- Una falda larga ondulada cae en cascada desde una cintura elástica hasta un elegante final
+- Un escote de delantal sostenido por tirantes de espagueti ajustables que se entrecruzan sobre una espalda abierta sensual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088GYTXD9/?tag=tolees-21)
