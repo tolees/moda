@@ -28,10 +28,10 @@ Ahora mismo tienes [G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros  Dk 
 
 🔎:
 
+- 92% algodón, 7% poliéster, 1% elastano.
+- Cintura media.
+- Cierre: cremallera.
 - Cintura ajustada.
 - Cintura normal.
-- 92% algodón, 7% poliéster, 1% elastano.
-- Cierre: cremallera.
-- Cintura media.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MRAS5V7/?tag=tolees-21)
