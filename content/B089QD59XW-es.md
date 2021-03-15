@@ -28,10 +28,10 @@ Tienes [ZENAPHYR Jersey Hombre Cuello de Pico - 100% Algodón - Jersey de Mangas
 
 🔎:
 
-- COLORES - Las sudaderas anchas de la marca Zenaphyr existen en Azul Marino, Negro, Gris Claro y Gris Antracita. Pueden llevarse con una chaqueta o sobre unas camisetas manga corta hombre, polos manga corta hombre, camisas... ¡Ve siempre a la moda!
 - LAVADO - ¡Lava el jersey invierno Zenaphyr a 40ºC con ropas (chandal hombre, camiseta deporte hombre, polo hombre) del mismo tono para que tu jersey de punto hombre mantenga todo su brillo!
-- CORTES Y TALLAS - ¡Los sueters hombre de Zenaphyr con cuello de Pico y con las tallas S, M, L, XL, XXL también están disponibles con Cuello Redondo! La ropa de hombre Zenaphyr es perfecta tanto para el verano como para el invierno.
+- COLORES - Las sudaderas anchas de la marca Zenaphyr existen en Azul Marino, Negro, Gris Claro y Gris Antracita. Pueden llevarse con una chaqueta o sobre unas camisetas manga corta hombre, polos manga corta hombre, camisas... ¡Ve siempre a la moda!
 - REGALO - Los jerseis para hombre de la marca Zenaphyr son unos regalos perfectos para los hombres: como ropa de trabajo o simplemente para salir con los amigos. ¡Con la ropa para hombre de Zenaphir siempre combinarás!
 - ALTA CALIDAD - Sin sustancias químicas en nuestra ropa, las sudaderas hombre de manga larga están hechas con 100% Algodón certificado OEKO TEX. ¡La sudadera hombre de Zenaphyr es buena para tu piel y para el planeta!
+- CORTES Y TALLAS - ¡Los sueters hombre de Zenaphyr con cuello de Pico y con las tallas S, M, L, XL, XXL también están disponibles con Cuello Redondo! La ropa de hombre Zenaphyr es perfecta tanto para el verano como para el invierno.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089QD59XW/?tag=tolees-21)
