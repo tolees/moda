@@ -28,8 +28,8 @@ Está [NIKE Y Nk Rpl Park20 RN Jkt W Chaqueta de Deporte  Unisex niños  Black/W
 
 ℹ️:
 
+- Full-length frontal zip and Side pockets
 - Regular fit
 - Dri-fit Technology
-- Full-length frontal zip and Side pockets
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W966SJY/?tag=tolees-21)

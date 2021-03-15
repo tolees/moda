@@ -29,7 +29,7 @@ Está [GEOX J CASEY GIRL WPF B BLACK Girls  Boots rain size 28 EU ](https://www.
 ℹ️:
 
 - Revestimiento: Sintético
-- Material exterior: Cuero
 - Material de la suela: Caucho
+- Material exterior: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MQ9S5D1/?tag=tolees-21)
