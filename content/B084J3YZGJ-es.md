@@ -28,11 +28,11 @@ En este momento está [Petit Bateau 5710501 - Pijama de Flores para niña  Terci
 
 🔎:
 
-- Temperatura máxima: 40 °C
-- Se puede lavar a máquina
-- Pijama de terciopelo, cálido y cómodo
-- Bordes laterales unidos en la parte inferior de las mangas y las piernas
-- Planchar a una temperatura máxima de suela de 110 °C
 - 80% algodón y 20% poliéster
+- Pijama de terciopelo, cálido y cómodo
+- Planchar a una temperatura máxima de suela de 110 °C
+- Bordes laterales unidos en la parte inferior de las mangas y las piernas
+- Se puede lavar a máquina
+- Temperatura máxima: 40 °C
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084J3YZGJ/?tag=tolees-21)
