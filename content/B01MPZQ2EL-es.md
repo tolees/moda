@@ -28,9 +28,9 @@ Ahora mismo tienes [oodji Ultra Mujer Blusa Estampada de Gasa  Verde  ES 34 / XX
 
 🔎:
 
-- Estilo de ropa: Casual
-- Elegante blusa con original estmapado ideal para crear un look casual
-- Modelo: Talla S. Medidas: 85/63/90. Altura/peso: 176cm/55kg
 - Cómoda y ligera blusa perfecta para el el buen tiempo y el entretiempo
+- Estilo de ropa: Casual
+- Modelo: Talla S. Medidas: 85/63/90. Altura/peso: 176cm/55kg
+- Elegante blusa con original estmapado ideal para crear un look casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MPZQ2EL/?tag=tolees-21)
