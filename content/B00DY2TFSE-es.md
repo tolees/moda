@@ -28,7 +28,7 @@ Ahora mismo tienes [Geox UOMO Snake L  Zapatillas Hombre  Beige  Beige/Dk Orange
 
 🔎:
 
-- The rubber sole is perforated and contains a special microporous membrane, waterproof and breathable, that absorbs and expels sweat without letting water in
 - Feet keep cool and dry thanks to the breathable membrane and the perforated sole
+- The rubber sole is perforated and contains a special microporous membrane, waterproof and breathable, that absorbs and expels sweat without letting water in
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DY2TFSE/?tag=tolees-21)
