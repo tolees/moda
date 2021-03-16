@@ -28,10 +28,10 @@ Tienes [CMP Rigel Mid  Zapatos de High Rise Senderismo Hombre   Torba-Antracite 
 
 🔎:
 
-- Material exterior: piel; material interior: malla; suela: sintético.
-- Impermeable.
 - Ancho de calzado: normal.
-- Material: piel y tela.
 - Cierre: cordones.
+- Impermeable.
+- Material exterior: piel; material interior: malla; suela: sintético.
+- Material: piel y tela.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07M9CHYP9/?tag=tolees-21)
