@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07F9W7FQ4-es Marca Amazon - find. Blusa Mujer Beige 38 Label: S'
 sku: 'B07F9W7FQ4-es'
-tags: [ 'blusa','-','find.', ]
+tags: [ '-','blusa','find.', ]
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

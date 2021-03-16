@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YF91TXS-es Marca Amazon - find. Chaqueta Larga Mujer Gris Silver Grey...'
 sku: 'B07YF91TXS-es'
-tags: [ 'chaqueta','-','find.', ]
+tags: [ '-','chaqueta','find.', ]
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

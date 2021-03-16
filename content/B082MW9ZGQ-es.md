@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B082MW9ZGQ-es Iris & Lilly Braga de Bikini de Algodón Mujer Pack de 10...'
 sku: 'B082MW9ZGQ-es'
-tags: [ 'bikini','iris','&','lilly', ]
+tags: [ '&','bikini','iris','lilly', ]
 actualPrice: 18.71 EUR
 currency: EUR
 price: 18.71

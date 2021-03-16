@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XFT7RJK-es Marca Amazon - find. Camisa Hombre Verde Mint Green...'
 sku: 'B06XFT7RJK-es'
-tags: [ 'camisa','-','find.', ]
+tags: [ '-','camisa','find.', ]
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

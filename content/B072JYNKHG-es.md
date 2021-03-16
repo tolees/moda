@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B072JYNKHG-es Marca Amazon - find. Camisa Hombre Rosa L Label: L'
 sku: 'B072JYNKHG-es'
-tags: [ 'camisa','-','find.', ]
+tags: [ '-','camisa','find.', ]
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

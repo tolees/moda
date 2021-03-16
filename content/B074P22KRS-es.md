@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B074P22KRS-es Marca Amazon - find. Vestido de Canalé Mujer Negro Black...'
 sku: 'B074P22KRS-es'
-tags: [ 'vestido','-','find.', ]
+tags: [ '-','find.','vestido', ]
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

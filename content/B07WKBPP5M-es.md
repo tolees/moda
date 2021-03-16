@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07WKBPP5M-es Marca Amazon - find. Vestido Cruzado de Flores Mujer...'
 sku: 'B07WKBPP5M-es'
-tags: [ 'vestido','-','find.', ]
+tags: [ '-','find.','vestido', ]
 actualPrice: 5.72 EUR
 currency: EUR
 price: 5.72

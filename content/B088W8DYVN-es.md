@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B088W8DYVN-es Moda Zapatos Casuales Femeninos，Zapatillas para Mujer...'
 sku: 'B088W8DYVN-es'
-tags: [ 'moda','zapatos','zapatilla', ]
+tags: [ 'moda','zapatilla','zapatos', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

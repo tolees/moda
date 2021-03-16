@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07C6H5ZKH-es Marca Amazon - IRIS & LILLY Braguita de Bikini Crochet...'
 sku: 'B07C6H5ZKH-es'
-tags: [ 'bikini','iris','&','lilly', ]
+tags: [ '&','bikini','iris','lilly', ]
 actualPrice: 3.76 EUR
 currency: EUR
 price: 3.76

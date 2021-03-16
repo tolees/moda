@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Pepe Jeans Luisa Vestido  Negro  999   6 con un 60.00 % de descuento'
-date: 2021-03-08 16:06:37
+date: 2021-03-16 13:20:06
 image: 'https://m.media-amazon.com/images/I/31G4MfUBcBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0846FDGG3-es Pepe Jeans Luisa Vestido Negro 999 6 para Niñas'
 sku: 'B0846FDGG3-es'
-tags: [ 'vestido', ]
+tags: [ 'pepe jeans','vestido', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

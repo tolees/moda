@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07MHGRL71-es Iris & Lilly Bli2036 brallete sujetador Mujer Negro Black...'
 sku: 'B07MHGRL71-es'
-tags: [ 'iris','&','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

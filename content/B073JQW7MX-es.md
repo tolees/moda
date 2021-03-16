@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B073JQW7MX-es Marca Amazon - find. Camisa Hombre Verde Khaki S Label: S'
 sku: 'B073JQW7MX-es'
-tags: [ 'camisa','-','find.', ]
+tags: [ '-','camisa','find.', ]
 actualPrice: 9.58 EUR
 currency: EUR
 price: 9.58

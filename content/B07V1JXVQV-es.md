@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07V1JXVQV-es Marca Amazon - Iris & Lilly Sujetador Estilo Camiseta...'
 sku: 'B07V1JXVQV-es'
-tags: [ 'camiseta','iris','&','lilly', ]
+tags: [ '&','camiseta','iris','lilly', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

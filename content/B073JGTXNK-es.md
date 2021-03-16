@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B073JGTXNK-es Marca Amazon - find. Blusa Mujer Azul Blau 44 Label: XL'
 sku: 'B073JGTXNK-es'
-tags: [ 'blusa','-','find.', ]
+tags: [ '-','blusa','find.', ]
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

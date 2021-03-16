@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0813JQKGF-es Marca Amazon - Find. Sandalias abiertas para mujer con...'
 sku: 'B0813JQKGF-es'
-tags: [ 'sandalias','-','find.', ]
+tags: [ '-','find.','sandalias', ]
 actualPrice: 6.62 EUR
 currency: EUR
 price: 6.62

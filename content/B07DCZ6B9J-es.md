@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DCZ6B9J-es Marca Amazon - find. Abrigo Hombre Marrón Brown 3XL Label:...'
 sku: 'B07DCZ6B9J-es'
-tags: [ 'abrigo','-','find.', ]
+tags: [ '-','abrigo','find.', ]
 actualPrice: 29.21 EUR
 currency: EUR
 price: 29.21

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07P4R9NKR-es Goodthreads Standard-fit Long-Sleeve Stretch Oxford Shirt...'
 sku: 'B07P4R9NKR-es'
-tags: [ 'goodthreads','camisa', ]
+tags: [ 'camisa','goodthreads', ]
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

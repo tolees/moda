@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07M8SBC49-es Marca Amazon - find. Vestido Largo Estilo Camiseta de...'
 sku: 'B07M8SBC49-es'
-tags: [ 'camiseta','vestido','-','find.', ]
+tags: [ '-','camiseta','find.','vestido', ]
 actualPrice: 5.16 EUR
 currency: EUR
 price: 5.16

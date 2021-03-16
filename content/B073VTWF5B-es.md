@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B073VTWF5B-es Marca Amazon - find. Camiseta con Cuello Redondo Mujer...'
 sku: 'B073VTWF5B-es'
-tags: [ 'camiseta','-','find.', ]
+tags: [ '-','camiseta','find.', ]
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

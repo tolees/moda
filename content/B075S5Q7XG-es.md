@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B075S5Q7XG-es IRIS & LILLY Camisón Corto de Tirantes con Detalle de...'
 sku: 'B075S5Q7XG-es'
-tags: [ 'iris','&','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

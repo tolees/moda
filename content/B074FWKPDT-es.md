@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B074FWKPDT-es Marca Amazon - find. Camiseta con Franjas para Hombre Gris...'
 sku: 'B074FWKPDT-es'
-tags: [ 'camiseta','-','find.', ]
+tags: [ '-','camiseta','find.', ]
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

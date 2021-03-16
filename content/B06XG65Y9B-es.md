@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XG65Y9B-es Marca Amazon - find. Camisa Hombre Verde Fresh Green S...'
 sku: 'B06XG65Y9B-es'
-tags: [ 'camisa','-','find.', ]
+tags: [ '-','camisa','find.', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

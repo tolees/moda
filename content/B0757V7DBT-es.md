@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0757V7DBT-es Marca Amazon - find. Vaqueros Skinny Hombre Gris Grey Wash...'
 sku: 'B0757V7DBT-es'
-tags: [ 'vaqueros','-','find.', ]
+tags: [ '-','find.','vaqueros', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

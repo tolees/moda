@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07N33X9TC-es IRIS & LILLY BELK015M7 Tanga Multicolour...'
 sku: 'B07N33X9TC-es'
-tags: [ 'iris','&','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

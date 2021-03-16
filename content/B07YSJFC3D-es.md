@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YSJFC3D-es Marca Amazon - IRIS & LILLY Sporty Cotton - Braguita Mujer...'
 sku: 'B07YSJFC3D-es'
-tags: [ 'iris','&','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

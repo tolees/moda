@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XPWDRS8-es Marca Amazon - find. Pantalón Fruncido para Mujer Azul...'
 sku: 'B06XPWDRS8-es'
-tags: [ 'pantalón','-','find.', ]
+tags: [ '-','find.','pantalón', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01MYZPMIW-es IRIS & LILLY Sujetador Bandeau de Encaje Suave Mujer Pack...'
 sku: 'B01MYZPMIW-es'
-tags: [ 'iris','&','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0813HT3BC-es Marca Amazon - Find. Sandalias abiertas Barely There para...'
 sku: 'B0813HT3BC-es'
-tags: [ 'sandalias','-','find.', ]
+tags: [ '-','find.','sandalias', ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

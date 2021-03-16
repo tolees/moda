@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0813J2WCS-es Marca Amazon - find. Strippy Wedge Espadrille Sandalias...'
 sku: 'B0813J2WCS-es'
-tags: [ 'sandalias','-','find.', ]
+tags: [ '-','find.','sandalias', ]
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

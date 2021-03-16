@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B075QGPR8W-es Marca Amazon - find. Sudadera Jaspeada Hombre Verde Green...'
 sku: 'B075QGPR8W-es'
-tags: [ 'sudadera','-','find.', ]
+tags: [ '-','find.','sudadera', ]
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

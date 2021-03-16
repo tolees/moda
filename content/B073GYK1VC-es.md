@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B073GYK1VC-es Marca Amazon - find. Off The Shoulder Button Camisa para...'
 sku: 'B073GYK1VC-es'
-tags: [ 'camisa','-','find.', ]
+tags: [ '-','camisa','find.', ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

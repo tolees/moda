@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07PBGLGFQ-es Marca Amazon - find. Vestido Estampado con Cinturón...'
 sku: 'B07PBGLGFQ-es'
-tags: [ 'vestido','-','find.', ]
+tags: [ '-','find.','vestido', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

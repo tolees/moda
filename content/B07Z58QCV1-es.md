@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07Z58QCV1-es Marca Amazon - Find. Sandalias abiertas para mujer Lattice...'
 sku: 'B07Z58QCV1-es'
-tags: [ 'sandalias','-','find.', ]
+tags: [ '-','find.','sandalias', ]
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

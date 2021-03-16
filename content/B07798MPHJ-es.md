@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07798MPHJ-es COMVIP Bebé niña Resbalón Anti del algodón elástico de...'
 sku: 'B07798MPHJ-es'
-tags: [ 'zapatos','zapatilla', ]
+tags: [ 'zapatilla','zapatos', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

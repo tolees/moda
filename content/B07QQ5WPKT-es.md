@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07QQ5WPKT-es Marca Amazon - Iris & Lilly Sujetador de Modal Media Copa...'
 sku: 'B07QQ5WPKT-es'
-tags: [ 'iris','&','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

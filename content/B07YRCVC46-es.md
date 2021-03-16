@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YRCVC46-es Marca Amazon - find. Vestido Corto Cruzado de Algodón...'
 sku: 'B07YRCVC46-es'
-tags: [ 'vestido','-','find.', ]
+tags: [ '-','find.','vestido', ]
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

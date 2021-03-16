@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07TZKV6G9-es Iris & Lilly BLIC004 Sujetadores Push up Azul Navy Sky 90C'
 sku: 'B07TZKV6G9-es'
-tags: [ 'iris','&','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

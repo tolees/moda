@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06X9YS7RV-es Marca Amazon - Iris & Lilly Braguita Mujer Pack de 3 Beige...'
 sku: 'B06X9YS7RV-es'
-tags: [ 'iris','&','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07L3KQ5YW-es Marca Amazon - find. Vestido Midi Camisero de Lino Mujer...'
 sku: 'B07L3KQ5YW-es'
-tags: [ 'vestido','-','find.', ]
+tags: [ '-','find.','vestido', ]
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47
