@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dickies - Camisa de trabajo de manga lar con un 48.98 % de descuento'
-date: 2021-03-15 10:14:20
+date: 2021-03-16 10:48:53
 image: 'https://m.media-amazon.com/images/I/41sgtiEzL-L._SL400_.jpg'
 comments: true
 category: ofertas
