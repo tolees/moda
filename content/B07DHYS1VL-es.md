@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Geox Uomo Sandal Strada A  Sandalias con al 28.40 % de descuento'
-date: 2020-07-13 11:10:10
+title: 'Geox UOMO Sandal Strada A  Sandalias con al 40.00 % de descuento'
+date: 2021-03-16 08:21:54
 image: 'https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHYS1VL-es Geox Uomo Sandal Strada A Sandalias con Punta Abierta para...'
+slug: 'B07DHYS1VL-es Geox UOMO Sandal Strada A Sandalias con Punta Abierta...'
 sku: 'B07DHYS1VL-es'
 tags: [ 'geox','sandalias', ]
-actualPrice: 50.05 EUR
+actualPrice: 41.94 EUR
 currency: EUR
-price: 50.05
+price: 41.94
 comparePrice: 69.9 EUR
-prodname: 'Geox Uomo Sandal Strada A  Sandalias con Punta Abierta para Hombre  Brown  Coffee C6009   44 EU'
+prodname: 'Geox UOMO Sandal Strada A  Sandalias con Punta Abierta Hombre  Brown  Coffee C6009   44 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07DHYS1VL/?tag=tolees-21'
-descuento: '28.40'
-average: '48.21666666666666'
+descuento: '40.00'
+average: '45.706'
 ---
 
-Está [Geox Uomo Sandal Strada A  Sandalias con Punta Abierta para Hombre  Brown  Coffee C6009   44 EU](https://www.amazon.es/dp/B07DHYS1VL/?tag=tolees-21) con 28.40 de descuento por 50.05 EUR (original: 69.9 EUR) en el siguiente enlace!
+Está [Geox UOMO Sandal Strada A  Sandalias con Punta Abierta Hombre  Brown  Coffee C6009   44 EU](https://www.amazon.es/dp/B07DHYS1VL/?tag=tolees-21) con 40.00 de descuento por 41.94 EUR (original: 69.9 EUR) en el siguiente enlace!
 
-[![Geox Uomo Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg)](https://www.amazon.es/dp/B07DHYS1VL/?tag=tolees-21)
+[![Geox UOMO Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg)](https://www.amazon.es/dp/B07DHYS1VL/?tag=tolees-21)
 
 ℹ️:
 
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Cierre: Sin cordones
+- Material de la suela: Goma
+- Material exterior: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DHYS1VL/?tag=tolees-21)
