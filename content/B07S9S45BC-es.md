@@ -28,7 +28,7 @@ Tienes [Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros Skinny  Azul  Dar
 
 ℹ️:
 
-- Skinny ankle Jeans
 - Denim with super low waist
+- Skinny ankle Jeans
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07S9S45BC/?tag=tolees-21)
