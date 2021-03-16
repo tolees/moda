@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger TJM Layered Graphic tee Camisa  Azul  Providence Blue   X
 
 🔎:
 
-- Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 - Tommy Jeans S/S Camisetas para hombre
+- Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0841DJF9J/?tag=tolees-21)
