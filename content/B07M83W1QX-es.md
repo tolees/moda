@@ -5,7 +5,7 @@ date: 2020-01-29 09:42:39
 image: 'https://m.media-amazon.com/images/I/41fuicL-ltL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M83W1QX-es Napapijri Rainforest Pocket Chaqueta Azul French Blue BB7...'
 sku: 'B07M83W1QX-es'
 tags: [ 'chaqueta', ]

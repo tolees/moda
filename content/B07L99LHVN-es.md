@@ -5,7 +5,7 @@ date: 2020-01-27 08:31:02
 image: 'https://m.media-amazon.com/images/I/31mopF07C1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L99LHVN-es Under Armour Rival Fleece Solid Pantalón Mujer Negro...'
 sku: 'B07L99LHVN-es'
 tags: [ 'pantalón', ]

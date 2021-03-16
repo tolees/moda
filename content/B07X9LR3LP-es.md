@@ -5,7 +5,7 @@ date: 2020-08-05 21:17:06
 image: 'https://m.media-amazon.com/images/I/51EzEcQvSWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9LR3LP-es LIGE Relojes Hombre Negro Casual Minimalista Impermeable...'
 sku: 'B07X9LR3LP-es'
 tags: [ 'vestido', ]

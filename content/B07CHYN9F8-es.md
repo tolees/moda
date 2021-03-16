@@ -5,7 +5,7 @@ date: 2020-02-01 07:28:13
 image: 'https://m.media-amazon.com/images/I/31Lj9zE+mGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHYN9F8-es El Naturalista N5401 Dolce DOVELA Botines para Mujer Negro...'
 sku: 'B07CHYN9F8-es'
 tags: [ 'botines', ]

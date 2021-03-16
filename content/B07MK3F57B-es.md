@@ -5,7 +5,7 @@ date: 2020-01-21 01:39:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31D8qYWWaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK3F57B-es GANT The Broadcloth Reg BD Camisa Negro Black 5 Small para...'
 sku: 'B07MK3F57B-es'
 tags: [ 'camisa', ]

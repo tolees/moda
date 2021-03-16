@@ -5,7 +5,7 @@ date: 2020-06-14 14:00:27
 image: 'https://m.media-amazon.com/images/I/41VsqKEjE3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004VJS2EM-es FitFlop Zapatos de Cordones Chukker Chocolate EU 44 UK 10'
 sku: 'B004VJS2EM-es'
 tags: [ 'zapatos', ]

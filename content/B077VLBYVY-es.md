@@ -5,7 +5,7 @@ date: 2020-04-27 01:00:45
 image: 'https://m.media-amazon.com/images/I/41SDC23LeUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VLBYVY-es Levi s 502 Regular Taper Vaqueros Azul Franklin LTWT Warp...'
 sku: 'B077VLBYVY-es'
 tags: [ 'vaqueros', ]

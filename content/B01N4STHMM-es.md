@@ -5,7 +5,7 @@ date: 2020-06-19 19:28:56
 image: 'https://m.media-amazon.com/images/I/41F666hPJ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4STHMM-es Tommy Hilfiger SS tee Print Camiseta con Logo Azul Navy...'
 sku: 'B01N4STHMM-es'
 tags: [ 'camiseta', ]

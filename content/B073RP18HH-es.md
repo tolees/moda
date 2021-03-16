@@ -5,7 +5,7 @@ date: 2020-01-16 11:28:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OOMDr99aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RP18HH-es Helly Hansen HH Tech Crew Camiseta Hombre Gris Gris Oscuro...'
 sku: 'B073RP18HH-es'
 tags: [ 'camiseta', ]

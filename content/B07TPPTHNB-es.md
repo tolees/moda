@@ -5,7 +5,7 @@ date: 2020-10-07 20:10:49
 image: 'https://m.media-amazon.com/images/I/31fjuE6y+wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPPTHNB-es Levi s Relaxed Graphic Hoodie Sudadera Blanco Boxtab Pop...'
 sku: 'B07TPPTHNB-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-02-07 11:46:20
 image: 'https://m.media-amazon.com/images/I/41UCEBut0zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLLJQS-es Napapijri SOVES Camiseta Rojo Red Scarlet R01 XL para Hombre'
 sku: 'B07MMLLJQS-es'
 tags: [ 'camiseta', ]

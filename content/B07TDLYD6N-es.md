@@ -5,7 +5,7 @@ date: 2020-02-02 10:53:29
 image: 'https://m.media-amazon.com/images/I/41tA8PhHMUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDLYD6N-es Quiksilver Omni Logo Sudadera con Capucha Hombre Gris...'
 sku: 'B07TDLYD6N-es'
 tags: [ 'sudadera', ]

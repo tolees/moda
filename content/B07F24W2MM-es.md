@@ -5,7 +5,7 @@ date: 2020-06-24 02:38:32
 image: 'https://m.media-amazon.com/images/I/31XNpI4g4OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F24W2MM-es Levi s Plus Size 311 Pl Shaping Skinny Vaqueros 4X Stretch...'
 sku: 'B07F24W2MM-es'
 tags: [ 'vaqueros', ]

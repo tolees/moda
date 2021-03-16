@@ -5,7 +5,7 @@ date: 2020-04-08 11:28:42
 image: 'https://m.media-amazon.com/images/I/41izI20fyLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QBPZPVY-es New Look Sport Harrington Chaqueta Bomber Azul Navy 41...'
 sku: 'B07QBPZPVY-es'
 tags: [ 'chaqueta', ]

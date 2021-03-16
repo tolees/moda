@@ -5,7 +5,7 @@ date: 2020-09-05 09:23:08
 image: 'https://m.media-amazon.com/images/I/31ZQ4M234VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCFSXFF-es Crocs Classic Slide Sandalias de Punta Descubierta Unisex...'
 sku: 'B07SCFSXFF-es'
 tags: [ 'sandalias', ]

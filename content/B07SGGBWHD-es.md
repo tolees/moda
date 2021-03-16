@@ -5,7 +5,7 @@ date: 2020-03-28 15:26:50
 image: 'https://m.media-amazon.com/images/I/31L+E5FR6sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGGBWHD-es Burton Brtn Camiseta Hombre True Black L'
 sku: 'B07SGGBWHD-es'
 tags: [ 'camiseta', ]

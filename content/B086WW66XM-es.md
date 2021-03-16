@@ -5,7 +5,7 @@ date: 2020-05-23 19:02:13
 image: 'https://m.media-amazon.com/images/I/61oF6IOfGOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WW66XM-es Oihxse Billetera Cuero Funda Compatible con Samsung Galaxy...'
 sku: 'B086WW66XM-es'
 tags: [ 'billetera', ]

@@ -5,7 +5,7 @@ date: 2020-05-19 11:17:50
 image: 'https://m.media-amazon.com/images/I/41CX8a9LMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLFMNHV-es Levi s Relaxed Graphic tee Camiseta Negro 90 s Serif Logo...'
 sku: 'B07TLFMNHV-es'
 tags: [ 'camiseta', ]

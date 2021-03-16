@@ -5,7 +5,7 @@ date: 2020-10-01 11:35:37
 image: 'https://m.media-amazon.com/images/I/41HATqGbRRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXR5YTF-es El Naturalista Aqua Sandalias con Punta Abierta para Mujer...'
 sku: 'B07VXR5YTF-es'
 tags: [ 'sandalias', ]

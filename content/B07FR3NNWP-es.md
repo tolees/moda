@@ -5,7 +5,7 @@ date: 2020-02-14 14:48:49
 image: 'https://m.media-amazon.com/images/I/31IZ39KKDVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR3NNWP-es Camper 1913 Zapatos de cordones Oxford para Hombre Marrón...'
 sku: 'B07FR3NNWP-es'
 tags: [ 'zapatos', ]

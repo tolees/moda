@@ -5,7 +5,7 @@ date: 2020-03-03 11:26:51
 image: 'https://m.media-amazon.com/images/I/41C7kyAEkxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19L5KP-es Lee Chunky Crew Neck Sudadera Verde Dk Bottle Green BB...'
 sku: 'B07N19L5KP-es'
 tags: [ 'sudadera', ]

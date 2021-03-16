@@ -5,7 +5,7 @@ date: 2020-08-04 08:16:24
 image: 'https://m.media-amazon.com/images/I/41pjzOlBvlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089T1BVBB-es Geographical Norway Parka Revolution Lady 100...'
 sku: 'B089T1BVBB-es'
 tags: [ 'parka', ]

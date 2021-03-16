@@ -5,7 +5,7 @@ date: 2020-06-13 16:14:06
 image: 'https://m.media-amazon.com/images/I/31c5wmPyjzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRHZFJ-es Geox U Jaylon E Botas Clasicas para Hombre Marrón Dk...'
 sku: 'B07LFRHZFJ-es'
 tags: [ 'geox', ]

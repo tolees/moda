@@ -5,7 +5,7 @@ date: 2020-02-22 07:25:23
 image: 'https://m.media-amazon.com/images/I/41CMVBvL62L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVGPN7F-es Geographical Norway Sudadera Mujer GYMCLASS B Azul Cielo S'
 sku: 'B07XVGPN7F-es'
 tags: [ 'sudadera', ]

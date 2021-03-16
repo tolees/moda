@@ -5,7 +5,7 @@ date: 2020-06-12 17:58:05
 image: 'https://m.media-amazon.com/images/I/31G6yvB97HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7KM3V9-es Lee 5 Pocket Wide Leg Vaqueros straight Mujer Negro Subtle...'
 sku: 'B07T7KM3V9-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-28 15:07:58
 image: 'https://m.media-amazon.com/images/I/318eBwb4HFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF56DRZ-es Levi s 511 Slim Fit Vaqueros Durian Od Subtle 3720 32W /...'
 sku: 'B07KF56DRZ-es'
 tags: [ 'vaqueros', ]

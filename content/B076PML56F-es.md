@@ -5,7 +5,7 @@ date: 2020-06-23 11:25:49
 image: 'https://m.media-amazon.com/images/I/41huev4FQxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PML56F-es Marca Amazon - MERAKI Anorak Largo Mujer con Capucha Rojo...'
 sku: 'B076PML56F-es'
 tags: [ 'meraki', ]

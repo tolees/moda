@@ -5,7 +5,7 @@ date: 2020-01-30 20:16:43
 image: 'https://m.media-amazon.com/images/I/41ssynOa6HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG3MZ1Y-es Geox B ALBEN Boy A Zapatillas para Bebés Azul Navy/Grey...'
 sku: 'B07LG3MZ1Y-es'
 tags: [ 'geox', ]

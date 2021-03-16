@@ -5,7 +5,7 @@ date: 2020-08-06 08:59:56
 image: 'https://m.media-amazon.com/images/I/41UOU623g8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08125MMQV-es Geographical Norway Parka Hombre VERVEINE Negro S'
 sku: 'B08125MMQV-es'
 tags: [ 'parka', ]

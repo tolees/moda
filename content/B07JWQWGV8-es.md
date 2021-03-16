@@ -5,7 +5,7 @@ date: 2020-03-18 12:44:54
 image: 'https://m.media-amazon.com/images/I/41yGM3KqEPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWQWGV8-es Pepe Jeans Track Pm201100 Vaqueros Straight Black Used...'
 sku: 'B07JWQWGV8-es'
 tags: [ 'vaqueros', ]

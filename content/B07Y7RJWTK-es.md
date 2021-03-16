@@ -5,7 +5,7 @@ date: 2020-08-05 21:17:18
 image: 'https://m.media-amazon.com/images/I/511Dx1FZYzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7RJWTK-es LIGE Relojes Hombre Moda Impermeable Acero Inoxidable...'
 sku: 'B07Y7RJWTK-es'
 tags: [ 'moda', ]

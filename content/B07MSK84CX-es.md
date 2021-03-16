@@ -5,7 +5,7 @@ date: 2020-03-14 12:03:04
 image: 'https://m.media-amazon.com/images/I/41uxcYwGCVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSK84CX-es Geox D BACKSIE B ABX C Botas de Nieve para Mujer Marrón...'
 sku: 'B07MSK84CX-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-01-11 19:32:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51T5MDh9%2BAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5LLG35-es BestoU Monedero de Embrague Clutch Bolso de Noche Bolso...'
 sku: 'B07W5LLG35-es'
 tags: [ 'bolso','monedero', ]

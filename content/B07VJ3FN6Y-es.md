@@ -5,7 +5,7 @@ date: 2020-07-31 07:43:16
 image: 'https://m.media-amazon.com/images/I/41mLL4cP8qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJ3FN6Y-es Calvin Klein Zip Through HD Jacket Chaqueta Verde New...'
 sku: 'B07VJ3FN6Y-es'
 tags: [ 'chaqueta', ]

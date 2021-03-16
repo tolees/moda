@@ -5,7 +5,7 @@ date: 2020-03-02 07:08:14
 image: 'https://m.media-amazon.com/images/I/4162r7oEVaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHDNFSG-es Helly Hansen Jr Moss Chaqueta Impermeable Unisex niños...'
 sku: 'B07FHDNFSG-es'
 tags: [ 'chaqueta', ]

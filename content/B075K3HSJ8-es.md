@@ -5,7 +5,7 @@ date: 2020-08-24 18:12:57
 image: 'https://m.media-amazon.com/images/I/41Bhs4uUziL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075K3HSJ8-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Verde...'
 sku: 'B075K3HSJ8-es'
 tags: [ 'zapatos', ]

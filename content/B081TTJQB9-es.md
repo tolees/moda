@@ -5,7 +5,7 @@ date: 2020-09-16 08:13:33
 image: 'https://m.media-amazon.com/images/I/41pP5HFI2cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TTJQB9-es adidas Trefoil tee Camiseta de Manga Corta Mujer Future...'
 sku: 'B081TTJQB9-es'
 tags: [ 'camiseta', ]

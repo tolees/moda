@@ -5,7 +5,7 @@ date: 2020-06-23 07:58:26
 image: 'https://m.media-amazon.com/images/I/31AiOsSSlHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXF9M5Y-es Levi s 711 Shaping Super Skinny Pantalón Que moldea la...'
 sku: 'B07TXF9M5Y-es'
 tags: [ 'pantalón', ]

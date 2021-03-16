@@ -5,7 +5,7 @@ date: 2020-05-30 08:03:45
 image: 'https://m.media-amazon.com/images/I/413sM1yt8LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088JW7N8X-es Garggi Mujer Moda Puntiagudo Tacón De Aguja Noche Pump Sin...'
 sku: 'B088JW7N8X-es'
 tags: [ 'moda','vestido', ]

@@ -5,7 +5,7 @@ date: 2020-07-21 08:47:20
 image: 'https://m.media-amazon.com/images/I/41E+eiUS2OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS52LPT-es Lee Luke Vaqueros Slim Azul Dark Stonewash 46 W27/L32...'
 sku: 'B07VS52LPT-es'
 tags: [ 'vaqueros', ]

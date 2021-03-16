@@ -5,7 +5,7 @@ date: 2020-02-11 13:28:16
 image: 'https://m.media-amazon.com/images/I/41m2uKjrEgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z58H1WV-es Scalpers Camisa Slim FIT Pinzas - Skyblue/White Stripes / 42'
 sku: 'B07Z58H1WV-es'
 tags: [ 'camisa', ]

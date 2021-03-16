@@ -5,7 +5,7 @@ date: 2020-09-03 02:25:44
 image: 'https://m.media-amazon.com/images/I/41YFZy55+nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT3TTFC-es ITALY MORN Pantalón para Hombre Casual Chino Jogging...'
 sku: 'B07PT3TTFC-es'
 tags: [ 'pantalón', ]

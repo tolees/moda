@@ -5,7 +5,7 @@ date: 2020-03-22 14:25:24
 image: 'https://m.media-amazon.com/images/I/31ARkDQWPPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDP9NPY-es TBS Paxsonn Zapatos de Cordones Derby para Hombre Marron...'
 sku: 'B07NDP9NPY-es'
 tags: [ 'zapatos', ]

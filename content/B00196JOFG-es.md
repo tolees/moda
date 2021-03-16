@@ -5,7 +5,7 @@ date: 2020-07-22 07:12:45
 image: 'https://m.media-amazon.com/images/I/41godEO2boL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00196JOFG-es Dr. Martens 1461 Zapatos de cordones para Hombre Rojo...'
 sku: 'B00196JOFG-es'
 tags: [ 'zapatos', ]

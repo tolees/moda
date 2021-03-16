@@ -5,7 +5,7 @@ date: 2020-02-24 13:16:02
 image: 'https://m.media-amazon.com/images/I/41olH5x8ceL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JH3S3HW-es crocs Swiftwater Wave K Zuecos Unisex niño Rosa Neon...'
 sku: 'B01JH3S3HW-es'
 tags: [ 'zuecos', ]

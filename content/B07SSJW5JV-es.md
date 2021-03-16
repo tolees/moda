@@ -5,7 +5,7 @@ date: 2020-08-04 19:05:20
 image: 'https://m.media-amazon.com/images/I/41Bf7ZW2ObL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSJW5JV-es Geox U Wells C Zapatillas para Hombre Azul Lt Avio C4348...'
 sku: 'B07SSJW5JV-es'
 tags: [ 'geox', ]

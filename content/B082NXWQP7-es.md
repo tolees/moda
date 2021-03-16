@@ -5,7 +5,7 @@ date: 2020-06-16 12:10:31
 image: 'https://m.media-amazon.com/images/I/41FV8I3EZlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NXWQP7-es ShyaWorld Chaqueta Alta Visibilidad Trabajo homologada...'
 sku: 'B082NXWQP7-es'
 tags: [ 'chaqueta', ]

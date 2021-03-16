@@ -5,7 +5,7 @@ date: 2020-02-16 18:29:22
 image: 'https://m.media-amazon.com/images/I/516fyAngPEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6GRSWD-es FOSTAK Mochila Femenina maletín Bolsa de Viaje Bolso...'
 sku: 'B07H6GRSWD-es'
 tags: [ 'bolso', ]

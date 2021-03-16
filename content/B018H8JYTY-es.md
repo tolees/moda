@@ -5,7 +5,7 @@ date: 2020-01-25 11:07:38
 image: 'https://m.media-amazon.com/images/I/41tHVZR0pJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018H8JYTY-es Pepe Jeans Venus Vaqueros Azul 10Oz Str American Blue Lt...'
 sku: 'B018H8JYTY-es'
 tags: [ 'vaqueros', ]

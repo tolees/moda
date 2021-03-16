@@ -5,7 +5,7 @@ date: 2020-05-10 07:44:14
 image: 'https://m.media-amazon.com/images/I/41Ejz-EQKlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I056XHU-es Joma Gala Sudadera Hombre Rojo Vino 8XS'
 sku: 'B01I056XHU-es'
 tags: [ 'sudadera', ]

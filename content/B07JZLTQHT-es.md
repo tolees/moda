@@ -5,7 +5,7 @@ date: 2020-02-14 19:01:38
 image: 'https://m.media-amazon.com/images/I/518iwkMhdGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZLTQHT-es Tommy Hilfiger U Pop Over Chaqueta Naranja Russet Orange...'
 sku: 'B07JZLTQHT-es'
 tags: [ 'chaqueta', ]

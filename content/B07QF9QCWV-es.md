@@ -5,7 +5,7 @@ date: 2020-01-27 11:12:05
 image: 'https://m.media-amazon.com/images/I/41hifWWL1fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF9QCWV-es Puma Reactive Chaqueta De Entrenamiento Hombre Azul...'
 sku: 'B07QF9QCWV-es'
 tags: [ 'chaqueta', ]

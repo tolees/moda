@@ -5,7 +5,7 @@ date: 2020-05-12 17:46:07
 image: 'https://m.media-amazon.com/images/I/41WfOTG0w6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3K3R3S-es Marca Amazon - find. Vestido Midi Camisero de Lino Mujer...'
 sku: 'B07L3K3R3S-es'
 tags: [ '-','find.','vestido', ]

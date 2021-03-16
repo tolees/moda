@@ -5,7 +5,7 @@ date: 2020-04-19 10:57:49
 image: 'https://m.media-amazon.com/images/I/41RoIlDKYZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XW3JPJ8-es Huntvp Riñonera Táctica Mochila Deportiva Militar Bolso...'
 sku: 'B06XW3JPJ8-es'
 tags: [ 'bolso', ]

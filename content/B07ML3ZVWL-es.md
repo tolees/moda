@@ -5,7 +5,7 @@ date: 2020-07-13 17:05:58
 image: 'https://m.media-amazon.com/images/I/31Um39kVLLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ML3ZVWL-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Azul...'
 sku: 'B07ML3ZVWL-es'
 tags: [ 'zapatos', ]

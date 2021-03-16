@@ -5,7 +5,7 @@ date: 2020-01-03 09:13:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BV09-C0sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FW6PF8-es find. Sudadera de Raya Ejecutiva para Mujer Azul Navy 38...'
 sku: 'B074FW6PF8-es'
 tags: [ 'sudadera', ]

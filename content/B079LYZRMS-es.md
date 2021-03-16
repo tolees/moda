@@ -5,7 +5,7 @@ date: 2020-01-13 16:21:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gnDsNpyDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LYZRMS-es SIMYJOY Pareja Loro Dorado Pullover Savage Logang Paul...'
 sku: 'B079LYZRMS-es'
 tags: [ 'sudadera', ]

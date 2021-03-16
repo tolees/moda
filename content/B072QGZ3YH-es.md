@@ -5,7 +5,7 @@ date: 2020-02-18 06:42:50
 image: 'https://m.media-amazon.com/images/I/31AuiaEM9DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072QGZ3YH-es Crocs Classic Clog Zuecos Unisex Adulto Azul Chambray Blue...'
 sku: 'B072QGZ3YH-es'
 tags: [ 'zuecos', ]

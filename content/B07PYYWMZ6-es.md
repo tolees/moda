@@ -5,7 +5,7 @@ date: 2020-10-11 02:31:33
 image: 'https://m.media-amazon.com/images/I/416PqNcVAfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYYWMZ6-es Under Armour Under Armour Men s Hovr Havoc 2...'
 sku: 'B07PYYWMZ6-es'
 tags: [ 'zapatos', ]

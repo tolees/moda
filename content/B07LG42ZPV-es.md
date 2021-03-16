@@ -5,7 +5,7 @@ date: 2020-01-03 08:43:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TY3YSOGVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG42ZPV-es Geox J Kalispera Girl A Zapatillas Altas para Niñas Rosa...'
 sku: 'B07LG42ZPV-es'
 tags: [ 'geox', ]

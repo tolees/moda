@@ -5,7 +5,7 @@ date: 2020-07-27 14:34:24
 image: 'https://m.media-amazon.com/images/I/41KZ24bux-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK46M1S-es Columbia Redmond V2 Zapatos de Senderismo Impermeables...'
 sku: 'B07KK46M1S-es'
 tags: [ 'zapatos', ]

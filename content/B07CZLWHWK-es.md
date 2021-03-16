@@ -5,7 +5,7 @@ date: 2020-03-31 14:45:45
 image: 'https://m.media-amazon.com/images/I/41iTsjUZ90L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZLWHWK-es Under Armour UA Heatgear Racer Camiseta Mujer Naranja...'
 sku: 'B07CZLWHWK-es'
 tags: [ 'camiseta', ]

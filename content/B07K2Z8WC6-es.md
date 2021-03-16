@@ -5,7 +5,7 @@ date: 2020-04-18 11:34:38
 image: 'https://m.media-amazon.com/images/I/41278Beq6iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2Z8WC6-es Under Armour UA HOVR Havoc 2 Zapatos de Baloncesto para...'
 sku: 'B07K2Z8WC6-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-09-20 15:32:02
 image: 'https://m.media-amazon.com/images/I/4161nI7xNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBZG2ZJ-es LEVIS Mini Crossbody Vegan No Horse Pull - Bolso de hombro...'
 sku: 'B07MBZG2ZJ-es'
 tags: [ 'bolso', ]

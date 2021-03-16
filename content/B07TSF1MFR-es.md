@@ -5,7 +5,7 @@ date: 2020-09-26 20:27:26
 image: 'https://m.media-amazon.com/images/I/41+UhEyPboL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSF1MFR-es Skechers Pier Ave Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TSF1MFR-es'
 tags: [ 'sandalias', ]

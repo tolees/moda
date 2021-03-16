@@ -5,7 +5,7 @@ date: 2020-01-12 10:41:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513S2K2fgGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVKFYP9-es Kipling Izellah Bolso con Bandolera para Mujer Gris Chalk...'
 sku: 'B07MVKFYP9-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-09-24 09:35:39
 image: 'https://m.media-amazon.com/images/I/411DqkMI8TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019KKFRV2-es AUTOARK - Caja de cuero para 6 relojes caja de joyería y 3...'
 sku: 'B019KKFRV2-es'
 tags: [ 'gafas', ]

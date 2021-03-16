@@ -5,7 +5,7 @@ date: 2020-07-19 00:04:49
 image: 'https://m.media-amazon.com/images/I/41BuMgl8yOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWTXZ2G-es Geox D Sukie B Zapatillas para Mujer Gris Lt Grey C1010 36 EU'
 sku: 'B07SWTXZ2G-es'
 tags: [ 'geox', ]

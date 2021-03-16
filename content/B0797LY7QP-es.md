@@ -5,7 +5,7 @@ date: 2020-01-09 23:12:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/312Q142wcrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797LY7QP-es PUMA Liga Jersey Camiseta Hombre Azul Peacoat/White L'
 sku: 'B0797LY7QP-es'
 tags: [ 'camiseta','jersey', ]

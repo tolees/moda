@@ -5,7 +5,7 @@ date: 2020-08-27 12:22:35
 image: 'https://m.media-amazon.com/images/I/31duBdvB9PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNQGKYR-es LATEC Gafas de Sol Deportivas Gafas Ciclismo Polarizadas...'
 sku: 'B07PNQGKYR-es'
 tags: [ 'gafas', ]

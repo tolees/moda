@@ -5,7 +5,7 @@ date: 2020-07-14 03:45:24
 image: 'https://m.media-amazon.com/images/I/31UB+tqpsOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWKP2NB-es Ted Baker Sumpsa Zapatos de Cordones Derby para Hombre...'
 sku: 'B07RWKP2NB-es'
 tags: [ 'zapatos', ]

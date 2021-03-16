@@ -5,7 +5,7 @@ date: 2020-05-26 23:50:25
 image: 'https://m.media-amazon.com/images/I/31SRCMdU7EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNS4R2Z-es Under Armour Rival Terry Pantalón Mujer Negro SM'
 sku: 'B07PNS4R2Z-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-01-07 16:05:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51POowiUuvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0714JHB3J-es Paw Patrol HQ1227 Sudadera Gris Grey 5 años Tamaño del...'
 sku: 'B0714JHB3J-es'
 tags: [ 'sudadera', ]

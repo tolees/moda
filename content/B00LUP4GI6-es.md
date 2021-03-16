@@ -5,7 +5,7 @@ date: 2020-02-10 10:53:59
 image: 'https://m.media-amazon.com/images/I/31PkThZbhwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LUP4GI6-es Crocs Freesail Clog Zuecos para Mujer Negro Black 42/43 EU'
 sku: 'B00LUP4GI6-es'
 tags: [ 'zuecos', ]

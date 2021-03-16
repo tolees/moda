@@ -5,7 +5,7 @@ date: 2020-05-07 17:33:16
 image: 'https://m.media-amazon.com/images/I/41npf4EFg8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQFXYMP-es Geox B Kilwi Boy G Zapatillas para Bebés Azul Navy/Royal...'
 sku: 'B07SQFXYMP-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-04-20 16:02:19
 image: 'https://m.media-amazon.com/images/I/515p5j1Q3tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WYQ9S2-es AARDIMI - Sandalias para mujer sandalias con tacón plano...'
 sku: 'B086WYQ9S2-es'
 tags: [ 'sandalias','zapatos', ]

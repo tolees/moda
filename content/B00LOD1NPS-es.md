@@ -5,7 +5,7 @@ date: 2020-04-20 05:10:22
 image: 'https://m.media-amazon.com/images/I/41gsSKDZwHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LOD1NPS-es The North Face Evolution II Triclimate Chaqueta Hombre...'
 sku: 'B00LOD1NPS-es'
 tags: [ 'chaqueta', ]

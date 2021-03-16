@@ -5,7 +5,7 @@ date: 2020-02-20 20:26:28
 image: 'https://m.media-amazon.com/images/I/31VMKjSiXsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGCCCYS-es Tommy Hilfiger Basic Hilfiger Hoody Sudadera Blanco White...'
 sku: 'B07RGCCCYS-es'
 tags: [ 'sudadera', ]

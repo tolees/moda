@@ -5,7 +5,7 @@ date: 2020-01-16 09:50:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rNGcDMXCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2KWYB1-es Timberland Euro Sprint Hiker Waterproof Zapatillas Chukka...'
 sku: 'B07K2KWYB1-es'
 tags: [ 'timberland', ]

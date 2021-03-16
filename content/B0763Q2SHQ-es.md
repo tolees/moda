@@ -5,7 +5,7 @@ date: 2020-02-11 21:07:57
 image: 'https://m.media-amazon.com/images/I/41TMjqJASqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0763Q2SHQ-es WOLA estilo de redonda gafas de sol en madera SELVA mujer...'
 sku: 'B0763Q2SHQ-es'
 tags: [ 'gafas', ]

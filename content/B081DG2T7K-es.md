@@ -5,7 +5,7 @@ date: 2020-08-17 07:25:24
 image: 'https://m.media-amazon.com/images/I/51iQ9SmX99L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DG2T7K-es HALOVIE Mochila Antirrobo para Mujer Impermeable Bolsos...'
 sku: 'B081DG2T7K-es'
 tags: [ 'moda','monedero', ]

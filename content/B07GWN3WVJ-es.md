@@ -5,7 +5,7 @@ date: 2020-01-19 16:11:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Uwp2f5nJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWN3WVJ-es LEABAGS Detroit Bolso Bandolera de auténtico Cuero búfalo...'
 sku: 'B07GWN3WVJ-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-07-01 13:47:56
 image: 'https://m.media-amazon.com/images/I/41RR0ObY3KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLQ65VM-es adidas AB H JSY Perf J Camiseta Unisex niños Negro 3XL'
 sku: 'B07NLQ65VM-es'
 tags: [ 'camiseta', ]

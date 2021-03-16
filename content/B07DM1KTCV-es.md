@@ -5,7 +5,7 @@ date: 2020-09-23 01:55:39
 image: 'https://m.media-amazon.com/images/I/41GXHYPUlzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DM1KTCV-es Bebé Niña Vestido de Fiesta Princesa Disfraces Tutú Ballet...'
 sku: 'B07DM1KTCV-es'
 tags: [ 'vestido', ]

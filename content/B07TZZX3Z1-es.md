@@ -5,7 +5,7 @@ date: 2020-04-14 10:48:26
 image: 'https://m.media-amazon.com/images/I/315CuBvP+6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZZX3Z1-es Women s Secret Soft Touch 1 St1 Grey PJ Conjuntos de...'
 sku: 'B07TZZX3Z1-es'
 tags: [ 'pijama', ]

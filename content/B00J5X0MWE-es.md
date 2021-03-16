@@ -5,7 +5,7 @@ date: 2020-01-03 10:55:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41O6WVrAHwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5X0MWE-es uhlsport Match Chaqueta De Entrenamiento Hombre...'
 sku: 'B00J5X0MWE-es'
 tags: [ 'chaqueta', ]

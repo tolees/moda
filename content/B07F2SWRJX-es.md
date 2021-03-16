@@ -5,7 +5,7 @@ date: 2020-01-14 19:42:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OWRfS8TaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2SWRJX-es adidas FL_TRH Tec COO Camiseta Hombre grpuch/Gricin M'
 sku: 'B07F2SWRJX-es'
 tags: [ 'camiseta', ]

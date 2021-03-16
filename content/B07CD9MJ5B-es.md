@@ -5,7 +5,7 @@ date: 2020-06-25 21:49:01
 image: 'https://m.media-amazon.com/images/I/31oSKo+syXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CD9MJ5B-es REPLAY M3591 .000.2660 Camiseta Blanco White 1 Large para...'
 sku: 'B07CD9MJ5B-es'
 tags: [ 'camiseta', ]

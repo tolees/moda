@@ -5,7 +5,7 @@ date: 2020-04-13 12:38:20
 image: 'https://m.media-amazon.com/images/I/31+Sgun728L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY6DVLC-es Havaianas Slim Chanclas para Mujer Camo Green 7184 41/42 EU'
 sku: 'B07FY6DVLC-es'
 tags: [ 'chanclas', ]

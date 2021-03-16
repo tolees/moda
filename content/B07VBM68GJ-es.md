@@ -5,7 +5,7 @@ date: 2020-05-13 10:02:21
 image: 'https://m.media-amazon.com/images/I/41mIeHSV4lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBM68GJ-es Calvin Klein Hooded Blocking Nylon Jacket Chaqueta Bomber...'
 sku: 'B07VBM68GJ-es'
 tags: [ 'chaqueta', ]

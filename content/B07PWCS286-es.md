@@ -5,7 +5,7 @@ date: 2020-10-10 09:49:57
 image: 'https://m.media-amazon.com/images/I/51PYI-070oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWCS286-es AGPTEK Bolsa Deporte y Viaje para Mujer y Hombre con...'
 sku: 'B07PWCS286-es'
 tags: [ 'zapatos', ]

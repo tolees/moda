@@ -5,7 +5,7 @@ date: 2020-09-22 21:38:00
 image: 'https://m.media-amazon.com/images/I/31Z0-fE0pNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7PMQMQ-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Rajah Adv...'
 sku: 'B07K7PMQMQ-es'
 tags: [ 'vaqueros', ]

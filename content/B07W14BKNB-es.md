@@ -5,7 +5,7 @@ date: 2020-08-06 12:05:31
 image: 'https://m.media-amazon.com/images/I/51SfW+QCqrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W14BKNB-es Pepe Jeans Braguita de Bikini Multicolor Multi 0aa 36A...'
 sku: 'B07W14BKNB-es'
 tags: [ 'bikini', ]

@@ -5,7 +5,7 @@ date: 2020-08-21 15:31:59
 image: 'https://m.media-amazon.com/images/I/41Z358CXuBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U164PUE-es Anself - 12 colores Conjunto de Pintalabios brillante...'
 sku: 'B00U164PUE-es'
 tags: [ 'moda', ]

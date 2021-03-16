@@ -5,7 +5,7 @@ date: 2020-01-26 04:34:52
 image: 'https://m.media-amazon.com/images/I/41kbdpt6nRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CD1TTVQ-es Skechers DELSON-Antigo 65693 Zapatos de Cordones Oxford...'
 sku: 'B07CD1TTVQ-es'
 tags: [ 'zapatos', ]

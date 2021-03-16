@@ -5,7 +5,7 @@ date: 2020-06-25 10:18:55
 image: 'https://m.media-amazon.com/images/I/31A4yU0DvwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJ4JPTP-es Pepe Jeans Slider Basic Man Zuecos para Hombre Azul Navy...'
 sku: 'B07VJ4JPTP-es'
 tags: [ 'zuecos', ]

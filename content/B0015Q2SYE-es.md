@@ -5,7 +5,7 @@ date: 2020-06-23 17:03:51
 image: 'https://m.media-amazon.com/images/I/51-G7820BqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0015Q2SYE-es Havaianas Top Chanclas Unisex Adulto Blanco White 33/34 EU'
 sku: 'B0015Q2SYE-es'
 tags: [ 'chanclas', ]

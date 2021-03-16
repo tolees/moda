@@ -5,7 +5,7 @@ date: 2020-02-10 11:06:21
 image: 'https://m.media-amazon.com/images/I/41W-XnKhLQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0014C0OUY-es Crocs Classic Clog Zuecos Unisex Adulto Marrón Chocolate...'
 sku: 'B0014C0OUY-es'
 tags: [ 'zuecos', ]

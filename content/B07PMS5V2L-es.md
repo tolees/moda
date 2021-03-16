@@ -5,7 +5,7 @@ date: 2020-07-13 17:29:39
 image: 'https://m.media-amazon.com/images/I/31NUqYRBTAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMS5V2L-es BOSS Maine BC-p Vaqueros Straight Azul Navy 410 33W / 36L...'
 sku: 'B07PMS5V2L-es'
 tags: [ 'vaqueros', ]

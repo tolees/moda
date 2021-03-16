@@ -5,7 +5,7 @@ date: 2020-10-04 18:26:14
 image: 'https://m.media-amazon.com/images/I/41nX7xNvjmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9W8LD8-es Marca Amazon - Iris & Lilly Bralette de Rejilla Mujer Rojo...'
 sku: 'B07V9W8LD8-es'
 tags: [ '&','iris','lilly', ]

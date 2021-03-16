@@ -5,7 +5,7 @@ date: 2020-01-27 18:50:19
 image: 'https://m.media-amazon.com/images/I/31mnTHlkrQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2DLXQ9-es Only Onlnew Lucca Parka Jacket Otw Azul Night Sky Night...'
 sku: 'B07S2DLXQ9-es'
 tags: [ 'parka', ]

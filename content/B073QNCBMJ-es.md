@@ -5,7 +5,7 @@ date: 2020-05-01 13:19:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wpBCgU8EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QNCBMJ-es find. Chaqueta Biker Hombre Gris Grau Medium'
 sku: 'B073QNCBMJ-es'
 tags: [ 'chaqueta', ]

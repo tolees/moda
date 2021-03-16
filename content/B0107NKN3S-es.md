@@ -5,7 +5,7 @@ date: 2020-01-31 09:43:09
 image: 'https://m.media-amazon.com/images/I/31RIRlGC15L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0107NKN3S-es ESPRIT - Collar para mujer con circonita color oro rosa'
 sku: 'B0107NKN3S-es'
 tags: [ 'collar', ]

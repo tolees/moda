@@ -5,7 +5,7 @@ date: 2020-03-02 09:25:25
 image: 'https://m.media-amazon.com/images/I/41CY8F81edL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKR8DJD-es Lacoste Sf1550 Sudadera con Capucha Azul Marine 423 32...'
 sku: 'B07MKR8DJD-es'
 tags: [ 'sudadera', ]

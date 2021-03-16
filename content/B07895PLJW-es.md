@@ -5,7 +5,7 @@ date: 2020-06-24 02:28:36
 image: 'https://m.media-amazon.com/images/I/41jb6rzVxPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07895PLJW-es Under Armour Big Logo SS Camisa Manga Corta Hombre Azul LG'
 sku: 'B07895PLJW-es'
 tags: [ 'camisa', ]

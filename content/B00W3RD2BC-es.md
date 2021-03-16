@@ -5,7 +5,7 @@ date: 2020-06-01 09:37:03
 image: 'https://m.media-amazon.com/images/I/41EwfnYkaVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W3RD2BC-es Joma Gala Sudadera Hombre Rojo M'
 sku: 'B00W3RD2BC-es'
 tags: [ 'sudadera', ]

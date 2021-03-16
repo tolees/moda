@@ -5,7 +5,7 @@ date: 2020-02-21 08:22:41
 image: 'https://m.media-amazon.com/images/I/31bZwrTg7HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG48SF5-es Unno DIM Basic Lote X4 Boxer Sin Costuras Negro Noir/Noir...'
 sku: 'B07JG48SF5-es'
 tags: [ 'boxer', ]

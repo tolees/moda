@@ -5,7 +5,7 @@ date: 2020-03-26 16:19:40
 image: 'https://m.media-amazon.com/images/I/41w5gyWDZZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H953TQY-es Vero Moda Vmjune W/l Long Blazer Dnm Noos Abrigo Rosa...'
 sku: 'B07H953TQY-es'
 tags: [ 'abrigo','moda', ]

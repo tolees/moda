@@ -5,7 +5,7 @@ date: 2020-01-06 16:25:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OOKVbTGUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF5BDGD-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Ivy Adv...'
 sku: 'B07KF5BDGD-es'
 tags: [ 'vaqueros', ]

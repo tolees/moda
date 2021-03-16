@@ -5,7 +5,7 @@ date: 2020-03-04 17:50:10
 image: 'https://m.media-amazon.com/images/I/41oLmVrG-sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F25LYMM-es Element Dulcey Chaqueta Hombre Azul Eclipse Navy XS'
 sku: 'B07F25LYMM-es'
 tags: [ 'chaqueta', ]

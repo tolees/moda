@@ -5,7 +5,7 @@ date: 2020-08-23 14:06:21
 image: 'https://m.media-amazon.com/images/I/41q-7v4FaEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYCP1XW-es Farchat Vestidos Mujer Suelto Casual de la Camiseta Cuello...'
 sku: 'B07TYCP1XW-es'
 tags: [ 'camiseta','vestido', ]

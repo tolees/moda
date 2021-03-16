@@ -5,7 +5,7 @@ date: 2020-05-15 16:19:06
 image: 'https://m.media-amazon.com/images/I/4168RueFZYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K73CD8F-es Levi s On Tour Camiseta Deportiva de Tirantes Negro Red...'
 sku: 'B07K73CD8F-es'
 tags: [ 'camiseta', ]

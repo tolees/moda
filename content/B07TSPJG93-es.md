@@ -5,7 +5,7 @@ date: 2020-04-14 18:12:07
 image: 'https://m.media-amazon.com/images/I/41SRsG5Md+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSPJG93-es Women s Secret Daily Da1 Femenine PJ Conjuntos de Pijama...'
 sku: 'B07TSPJG93-es'
 tags: [ 'pijama', ]

@@ -5,7 +5,7 @@ date: 2020-09-06 03:20:48
 image: 'https://m.media-amazon.com/images/I/31P9w4vAN3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5QR74V-es Tommy Hilfiger Tommy Sequins Flat Sandal Sandalias Punta...'
 sku: 'B07V5QR74V-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-09-30 15:06:25
 image: 'https://m.media-amazon.com/images/I/31KSuokv8jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LGXZW5-es Under Armour UA Tag tee Camiseta de Manga Corta Hombre...'
 sku: 'B071LGXZW5-es'
 tags: [ 'camiseta', ]

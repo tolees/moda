@@ -5,7 +5,7 @@ date: 2020-10-03 18:11:19
 image: 'https://m.media-amazon.com/images/I/31-pluFzhYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKWLQZP-es Havaianas Top Vibes Chanclas para Mujer Multicolor...'
 sku: 'B07SKWLQZP-es'
 tags: [ 'chanclas', ]

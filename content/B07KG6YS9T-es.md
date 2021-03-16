@@ -5,7 +5,7 @@ date: 2020-01-30 14:32:09
 image: 'https://m.media-amazon.com/images/I/41Mv6DWeq4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG6YS9T-es PUMA Rise XT NETFIT 1 Zapatos de Futsal Unisex adulto Gris...'
 sku: 'B07KG6YS9T-es'
 tags: [ 'zapatos', ]

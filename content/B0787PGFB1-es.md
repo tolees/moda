@@ -5,7 +5,7 @@ date: 2020-08-30 10:06:04
 image: 'https://m.media-amazon.com/images/I/41NHCCKZ8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0787PGFB1-es Crocs Swiftwater Sandal Women Sandalias con Punta Abierta...'
 sku: 'B0787PGFB1-es'
 tags: [ 'sandalias', ]

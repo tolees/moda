@@ -5,7 +5,7 @@ date: 2020-02-12 09:57:43
 image: 'https://m.media-amazon.com/images/I/51P95MpC9ML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRRSGH8-es Deevike Pantuflas Zapatillas Hombre Invierno CáLido...'
 sku: 'B07WRRSGH8-es'
 tags: [ 'zapatos', ]

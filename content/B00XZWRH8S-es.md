@@ -5,7 +5,7 @@ date: 2020-03-07 14:50:15
 image: 'https://m.media-amazon.com/images/I/31nvuycGssL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XZWRH8S-es Mercedes-Benz Sonnenbrille M1042 Gafas de sol Azul Blau...'
 sku: 'B00XZWRH8S-es'
 tags: [ 'gafas', ]

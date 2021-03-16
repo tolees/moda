@@ -5,7 +5,7 @@ date: 2020-04-21 18:50:50
 image: 'https://m.media-amazon.com/images/I/41zSHOhlbxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N44ZMW6-es Desigual Coat Land Abrigo Amarillo Solar Power 8067 42...'
 sku: 'B07N44ZMW6-es'
 tags: [ 'abrigo', ]

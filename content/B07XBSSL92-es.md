@@ -5,7 +5,7 @@ date: 2020-09-25 18:30:43
 image: 'https://m.media-amazon.com/images/I/31KG5lId3VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBSSL92-es PUMA Nu-Tility FZ Hoody Sudadera Mujer Black M'
 sku: 'B07XBSSL92-es'
 tags: [ 'sudadera', ]

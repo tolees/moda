@@ -5,7 +5,7 @@ date: 2020-08-21 03:13:41
 image: 'https://m.media-amazon.com/images/I/61xvCOUZJjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NMKSHL-es CHALA 1450PCS Joyas de acrílico Diamantes de imitación de...'
 sku: 'B087NMKSHL-es'
 tags: [ 'vestido', ]

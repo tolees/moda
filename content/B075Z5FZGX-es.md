@@ -5,7 +5,7 @@ date: 2020-06-16 18:01:35
 image: 'https://m.media-amazon.com/images/I/4119oZMIiNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Z5FZGX-es Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Chaqueta...'
 sku: 'B075Z5FZGX-es'
 tags: [ 'chaqueta','moda', ]

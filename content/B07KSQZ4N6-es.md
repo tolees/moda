@@ -5,7 +5,7 @@ date: 2020-02-16 11:57:28
 image: 'https://m.media-amazon.com/images/I/41bBzHt6JGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSQZ4N6-es Columbia Inner Limits Chaqueta para Lluvia Negro/Gris 3XL...'
 sku: 'B07KSQZ4N6-es'
 tags: [ 'chaqueta', ]

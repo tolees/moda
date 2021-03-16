@@ -5,7 +5,7 @@ date: 2020-04-11 17:38:27
 image: 'https://m.media-amazon.com/images/I/41LC8q0yRUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777VY7JV-es Tommy Hilfiger Original Triblend Camiseta Rojo Formula One...'
 sku: 'B0777VY7JV-es'
 tags: [ 'camiseta', ]

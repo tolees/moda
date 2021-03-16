@@ -5,7 +5,7 @@ date: 2020-01-05 12:24:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311MYoPafyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JP4X1FS-es Amazon Essentials - Pantalón de chándal pirata de algodón...'
 sku: 'B07JP4X1FS-es'
 tags: [ 'pantalón', ]

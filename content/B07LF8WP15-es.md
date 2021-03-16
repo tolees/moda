@@ -5,7 +5,7 @@ date: 2020-07-01 05:34:30
 image: 'https://m.media-amazon.com/images/I/418FfDBeIjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF8WP15-es Levi s 514 Vaqueros Straight Azul Apple Overt Adapt 1238...'
 sku: 'B07LF8WP15-es'
 tags: [ 'vaqueros', ]

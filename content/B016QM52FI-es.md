@@ -5,7 +5,7 @@ date: 2020-03-04 16:10:33
 image: 'https://m.media-amazon.com/images/I/41Qi6eFTh7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QM52FI-es Tommy Hilfiger Core Stretch Slim CNECK tee Camiseta Negro...'
 sku: 'B016QM52FI-es'
 tags: [ 'camiseta', ]

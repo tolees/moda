@@ -5,7 +5,7 @@ date: 2020-05-23 19:12:20
 image: 'https://m.media-amazon.com/images/I/41kchmE4J6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3BWTG2-es Guess Brielle - Bolso bandolera color negro'
 sku: 'B07T3BWTG2-es'
 tags: [ 'bolso', ]

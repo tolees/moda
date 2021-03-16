@@ -5,7 +5,7 @@ date: 2020-04-27 17:32:24
 image: 'https://m.media-amazon.com/images/I/31LKGEgxcnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015GZQS1I-es Timberland Bradstreet Chukka Leather Botas Hombre Marrón...'
 sku: 'B015GZQS1I-es'
 tags: [ 'timberland', ]

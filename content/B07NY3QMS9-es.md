@@ -5,7 +5,7 @@ date: 2020-03-22 11:28:18
 image: 'https://m.media-amazon.com/images/I/41POPo4igLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY3QMS9-es Superdry Vintage Logo Crew Sudadera Negro Black 02a...'
 sku: 'B07NY3QMS9-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-08-12 19:37:31
 image: 'https://m.media-amazon.com/images/I/51LJ8HjRmwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2LH5CY-es Ipanema Anat Lovely X Fem Chanclas para Mujer Multicolor...'
 sku: 'B07X2LH5CY-es'
 tags: [ 'chanclas', ]

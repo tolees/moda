@@ -5,7 +5,7 @@ date: 2020-02-07 09:47:36
 image: 'https://m.media-amazon.com/images/I/51xXw9tGBbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MP4TJJ-es Geographical Norway Parka Mujer BOOMERA Camo Negro 02'
 sku: 'B082MP4TJJ-es'
 tags: [ 'parka', ]

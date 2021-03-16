@@ -5,7 +5,7 @@ date: 2020-09-01 16:40:08
 image: 'https://m.media-amazon.com/images/I/21JBiMXwVoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LFCGVW8-es Birkenstock Classic Arizona EVA Zuecos para Hombre Blanco...'
 sku: 'B00LFCGVW8-es'
 tags: [ 'zuecos', ]

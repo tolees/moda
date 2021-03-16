@@ -5,7 +5,7 @@ date: 2020-01-26 11:59:20
 image: 'https://m.media-amazon.com/images/I/41Ae+mfNiFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DXW5K3L-es Under Armour Sport Style Wind Anorak Chaqueta Hombre...'
 sku: 'B07DXW5K3L-es'
 tags: [ 'chaqueta', ]

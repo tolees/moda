@@ -5,7 +5,7 @@ date: 2020-07-27 09:19:29
 image: 'https://m.media-amazon.com/images/I/41OsvXK5faL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZQYR9J-es Joma Equip. M/c Hombre Camiseta hispa Rojo-Blanco S'
 sku: 'B07BZQYR9J-es'
 tags: [ 'camiseta', ]

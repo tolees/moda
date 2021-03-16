@@ -5,7 +5,7 @@ date: 2020-04-27 17:32:16
 image: 'https://m.media-amazon.com/images/I/411VqEFNLnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004BTVHYE-es Timberland 6 Inch Premium Waterproof Botas para Mujer...'
 sku: 'B004BTVHYE-es'
 tags: [ 'timberland', ]

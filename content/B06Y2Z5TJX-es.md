@@ -5,7 +5,7 @@ date: 2020-04-10 17:03:13
 image: 'https://m.media-amazon.com/images/I/41FwvH6wgXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2Z5TJX-es Joma 100801.109 Sudadera Hombre Negro/Amarillo S'
 sku: 'B06Y2Z5TJX-es'
 tags: [ 'sudadera', ]

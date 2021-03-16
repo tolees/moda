@@ -5,7 +5,7 @@ date: 2020-02-02 00:01:28
 image: 'https://m.media-amazon.com/images/I/414ilFLB3PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015HWBRRK-es Hollywood Star Fashion - Camiseta de Manga Larga con...'
 sku: 'B015HWBRRK-es'
 tags: [ 'camiseta', ]

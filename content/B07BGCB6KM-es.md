@@ -5,7 +5,7 @@ date: 2020-03-16 20:21:27
 image: 'https://m.media-amazon.com/images/I/31wbXiputHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGCB6KM-es Geox U844VA 00022 Zapato Casual Hombre Marròn 44'
 sku: 'B07BGCB6KM-es'
 tags: [ 'geox', ]

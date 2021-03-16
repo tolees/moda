@@ -5,7 +5,7 @@ date: 2020-04-21 09:05:25
 image: 'https://m.media-amazon.com/images/I/416SKqZGhgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014YXD3F2-es Clarks Mapped Edge Zapatos de Cordones Oxford para Hombre...'
 sku: 'B014YXD3F2-es'
 tags: [ 'zapatos', ]

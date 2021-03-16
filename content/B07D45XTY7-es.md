@@ -5,7 +5,7 @@ date: 2020-04-13 08:43:52
 image: 'https://m.media-amazon.com/images/I/31PverJ90zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D45XTY7-es find. Suede Zapatos de Cordones Derby Gris Grey 46 EU'
 sku: 'B07D45XTY7-es'
 tags: [ 'zapatos', ]

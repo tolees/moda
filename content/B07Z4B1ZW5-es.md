@@ -5,7 +5,7 @@ date: 2020-09-05 18:10:19
 image: 'https://m.media-amazon.com/images/I/31EadOyETLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4B1ZW5-es G-STAR RAW Tacoma Long Sleeve Shirt Straight Vestido...'
 sku: 'B07Z4B1ZW5-es'
 tags: [ 'vestido', ]

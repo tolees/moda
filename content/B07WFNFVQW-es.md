@@ -5,7 +5,7 @@ date: 2020-05-30 17:04:49
 image: 'https://m.media-amazon.com/images/I/319nX74csaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFNFVQW-es Pitillos Zapatos Tacon 5853P para Mujer Negro 41 EU'
 sku: 'B07WFNFVQW-es'
 tags: [ 'zapatos', ]

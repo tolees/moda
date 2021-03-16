@@ -5,7 +5,7 @@ date: 2020-04-06 15:43:02
 image: 'https://m.media-amazon.com/images/I/41Xc83aWESL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ8C6DQ-es Springfield 4.2.Pc. Midi Nudo Vestido Multicolor...'
 sku: 'B07NJ8C6DQ-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-06-26 01:43:55
 image: 'https://m.media-amazon.com/images/I/31iTqPVOvQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ4CDM6-es adidas Estro 19 JSY Camiseta de Manga Corta Niños White 1314Y'
 sku: 'B07JZ4CDM6-es'
 tags: [ 'camiseta', ]

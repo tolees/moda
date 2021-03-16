@@ -5,7 +5,7 @@ date: 2020-08-10 13:24:34
 image: 'https://m.media-amazon.com/images/I/41JXeC20Z4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWW8ZK8-es Vero Moda Vmava Plain SS Top Ga Noos Camiseta Marrón...'
 sku: 'B07SWW8ZK8-es'
 tags: [ 'camiseta','moda', ]

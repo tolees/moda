@@ -5,7 +5,7 @@ date: 2020-09-13 10:02:50
 image: 'https://m.media-amazon.com/images/I/41jTzs4eFAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1VT6J1-es Tommy Hilfiger TJM 1985 Vertical Logo tee Camiseta Deporte...'
 sku: 'B07W1VT6J1-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-23 21:57:46
 image: 'https://m.media-amazon.com/images/I/31srtvyMCZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCFF9VR-es Columbia Northern Comfort Chaqueta híbrida Mujer Color:...'
 sku: 'B07JCFF9VR-es'
 tags: [ 'chaqueta', ]

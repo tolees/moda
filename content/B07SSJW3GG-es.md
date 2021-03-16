@@ -5,7 +5,7 @@ date: 2020-10-12 15:13:01
 image: 'https://m.media-amazon.com/images/I/41VVXb7KizL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSJW3GG-es Geox U EOLO B Zapatillas para Hombre Gris White/Lt Grey...'
 sku: 'B07SSJW3GG-es'
 tags: [ 'geox', ]

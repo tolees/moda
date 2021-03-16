@@ -5,7 +5,7 @@ date: 2020-01-23 20:04:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dm1yPIIQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073WMM8WG-es Star Wars HQ1561 Sudadera Morado Purple 6 años Tamaño del...'
 sku: 'B073WMM8WG-es'
 tags: [ 'sudadera', ]

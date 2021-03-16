@@ -5,7 +5,7 @@ date: 2020-01-31 23:25:47
 image: 'https://m.media-amazon.com/images/I/310F6+qtHkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D61NMCC-es Trangoworld Manaslu Pantalón Largo Hombre Antracita/Rojo...'
 sku: 'B01D61NMCC-es'
 tags: [ 'pantalón', ]

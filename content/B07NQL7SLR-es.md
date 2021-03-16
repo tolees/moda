@@ -5,7 +5,7 @@ date: 2020-01-16 20:03:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qiL2RqDvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQL7SLR-es Springfield 3Ba Basica Capucha Abierta Sudadera Rojo Red...'
 sku: 'B07NQL7SLR-es'
 tags: [ 'sudadera', ]

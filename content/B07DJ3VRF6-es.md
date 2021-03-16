@@ -5,7 +5,7 @@ date: 2020-06-07 16:38:52
 image: 'https://m.media-amazon.com/images/I/31A2ok3xWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3VRF6-es Geox D Myria B Zapatillas para Mujer Blanco White C1001 35 EU'
 sku: 'B07DJ3VRF6-es'
 tags: [ 'geox', ]

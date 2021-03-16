@@ -5,7 +5,7 @@ date: 2020-02-23 11:48:49
 image: 'https://m.media-amazon.com/images/I/41Weg0k+s9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF51QB1-es Levi s Perfect-tee Camiseta de Manga Corta Rosa Pink Lady...'
 sku: 'B07KF51QB1-es'
 tags: [ 'camiseta', ]

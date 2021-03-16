@@ -5,7 +5,7 @@ date: 2020-04-03 14:38:34
 image: 'https://m.media-amazon.com/images/I/41tZGQVhpHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPSWJH-es Pepe Jeans Josephs Camiseta Mousse 808 Large para Hombre'
 sku: 'B07MZPSWJH-es'
 tags: [ 'camiseta', ]

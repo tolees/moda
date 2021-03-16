@@ -5,7 +5,7 @@ date: 2020-09-04 11:02:27
 image: 'https://m.media-amazon.com/images/I/3161qRaSrAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ3J4S6-es PUMA Epic Flip V2 Chanclas Unisex-Adulto Rosa Winsome...'
 sku: 'B07CZ3J4S6-es'
 tags: [ 'chanclas', ]

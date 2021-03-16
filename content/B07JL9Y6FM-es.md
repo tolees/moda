@@ -5,7 +5,7 @@ date: 2020-08-03 20:09:39
 image: 'https://m.media-amazon.com/images/I/41wsGJTmQ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JL9Y6FM-es 2*Piezas Conjunto de Lencería Pijama Semi Transparente de...'
 sku: 'B07JL9Y6FM-es'
 tags: [ 'pijama', ]

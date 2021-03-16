@@ -5,7 +5,7 @@ date: 2019-10-29 11:03:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31PZG%2BleznL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSJYPPJ-es Clarks - Botines de Cuero Hombre Color Negro Talla 42 EU'
 sku: 'B07MSJYPPJ-es'
 tags: [ 'botines', ]

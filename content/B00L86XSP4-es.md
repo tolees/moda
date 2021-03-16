@@ -5,7 +5,7 @@ date: 2020-08-05 16:14:00
 image: 'https://m.media-amazon.com/images/I/41AIH24jptL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L86XSP4-es Keen Newport H2 Sandalias de Senderismo Infantil Azul...'
 sku: 'B00L86XSP4-es'
 tags: [ 'sandalias', ]

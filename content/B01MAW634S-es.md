@@ -5,7 +5,7 @@ date: 2020-01-23 16:34:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tboIlz9kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MAW634S-es flintronic Cartera Tarjeta de Crédito Slim Billetera...'
 sku: 'B01MAW634S-es'
 tags: [ 'billetera','monedero', ]

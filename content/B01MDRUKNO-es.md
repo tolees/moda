@@ -5,7 +5,7 @@ date: 2020-01-19 09:38:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UzgqjfqAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDRUKNO-es Lacoste Sport SH7609 Sudadera con Capucha Gris Argent...'
 sku: 'B01MDRUKNO-es'
 tags: [ 'sudadera', ]

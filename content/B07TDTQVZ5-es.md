@@ -5,7 +5,7 @@ date: 2020-05-28 12:32:22
 image: 'https://m.media-amazon.com/images/I/31KhU8Z3iNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDTQVZ5-es Kappa Krus Chanclas Unisex Adulto Rojo Red/White 2010 45 EU'
 sku: 'B07TDTQVZ5-es'
 tags: [ 'chanclas', ]

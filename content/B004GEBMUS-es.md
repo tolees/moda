@@ -5,7 +5,7 @@ date: 2020-03-01 05:16:45
 image: 'https://m.media-amazon.com/images/I/41QyHlRNf4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004GEBMUS-es Helly Hansen Jacke Packable Pants Pantalón Hombre Negro XXL'
 sku: 'B004GEBMUS-es'
 tags: [ 'pantalón', ]

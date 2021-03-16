@@ -5,7 +5,7 @@ date: 2020-10-01 06:13:09
 image: 'https://m.media-amazon.com/images/I/31+c1pz7vTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNRHGZ7-es Marca Amazon - find. High Heel Point Court Zapatos de...'
 sku: 'B07YNRHGZ7-es'
 tags: [ '-','find.','zapatos', ]

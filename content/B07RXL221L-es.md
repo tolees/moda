@@ -5,7 +5,7 @@ date: 2020-04-16 19:19:15
 image: 'https://m.media-amazon.com/images/I/41MdghJMm9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXL221L-es Levi s The Original Camiseta Gris Hm Patch OG tee Forged...'
 sku: 'B07RXL221L-es'
 tags: [ 'camiseta', ]

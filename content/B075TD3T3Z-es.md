@@ -5,7 +5,7 @@ date: 2020-08-18 08:48:06
 image: 'https://m.media-amazon.com/images/I/41VEPqOXo5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TD3T3Z-es HARRY POTTER - Pijama para Niños Ajuste Ceñido - 5-6 Años'
 sku: 'B075TD3T3Z-es'
 tags: [ 'pijama', ]

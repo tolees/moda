@@ -5,7 +5,7 @@ date: 2020-05-15 13:32:22
 image: 'https://m.media-amazon.com/images/I/31u2S0-YkgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XZKDX2-es IPOTCH 1/6 Chaqueta Cortavientos de Mangas Largas con...'
 sku: 'B083XZKDX2-es'
 tags: [ 'chaqueta', ]

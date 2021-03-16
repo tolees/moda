@@ -5,7 +5,7 @@ date: 2020-02-27 17:07:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ykGxsgqDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSQ6MTW-es Columbia Hombre Chaqueta Polar con Cremallera Completa...'
 sku: 'B07KSQ6MTW-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-13 15:57:47
 image: 'https://m.media-amazon.com/images/I/31JSpDhWa5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QH44W-es PUMA Ralph Sampson LO Zapatilla Baja Unisex-Adulto White...'
 sku: 'B07S7QH44W-es'
 tags: [ 'zapatilla', ]

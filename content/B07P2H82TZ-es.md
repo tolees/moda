@@ -5,7 +5,7 @@ date: 2020-01-30 16:39:08
 image: 'https://m.media-amazon.com/images/I/41chCVq1MtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2H82TZ-es lodi VAREZ Zapatos de tacón con Punta Cerrada para Mujer...'
 sku: 'B07P2H82TZ-es'
 tags: [ 'zapatos', ]

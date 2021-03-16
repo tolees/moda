@@ -5,7 +5,7 @@ date: 2020-08-20 14:11:15
 image: 'https://m.media-amazon.com/images/I/3150keuXIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ8S48J-es Under Armour UA Speed Stride Split 1/4 ZIP Ligera Camiseta...'
 sku: 'B07CZ8S48J-es'
 tags: [ 'camiseta', ]

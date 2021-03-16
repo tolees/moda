@@ -5,7 +5,7 @@ date: 2020-07-19 14:19:01
 image: 'https://m.media-amazon.com/images/I/41EVuKBZa4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BHWCMF-es Columbia Challenger Chaqueta cortavientos Mujer...'
 sku: 'B081BHWCMF-es'
 tags: [ 'chaqueta', ]

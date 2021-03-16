@@ -5,7 +5,7 @@ date: 2020-04-15 11:41:11
 image: 'https://m.media-amazon.com/images/I/41w6HUlSjFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7KTCB6-es JACK & JONES JCOOSCAR Jacket Collar Chaqueta Negro Black S...'
 sku: 'B07W7KTCB6-es'
 tags: [ 'chaqueta','collar', ]

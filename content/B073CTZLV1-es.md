@@ -5,7 +5,7 @@ date: 2020-05-09 07:58:25
 image: 'https://m.media-amazon.com/images/I/41GFBbvQ-WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073CTZLV1-es Arena 000001E048-507 Estuche para Gafas de natación Unisex...'
 sku: 'B073CTZLV1-es'
 tags: [ 'gafas', ]

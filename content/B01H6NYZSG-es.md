@@ -5,7 +5,7 @@ date: 2020-09-19 11:57:23
 image: 'https://m.media-amazon.com/images/I/41rKXcLhN6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H6NYZSG-es Crocs Swiftwater River Sandals 203965-06 Sandalias para...'
 sku: 'B01H6NYZSG-es'
 tags: [ 'sandalias', ]

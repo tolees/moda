@@ -5,7 +5,7 @@ date: 2020-01-04 09:38:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cwJIi8htL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KY8SFYV-es Eastpak Delegate + Bolso bandolera 39 cm 20 liters Azul...'
 sku: 'B07KY8SFYV-es'
 tags: [ 'bolso', ]

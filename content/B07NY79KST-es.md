@@ -5,7 +5,7 @@ date: 2020-01-23 11:50:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xu3jUyuFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY79KST-es Superdry Digitize Reflective Gilet Chaleco Negro Black 02a...'
 sku: 'B07NY79KST-es'
 tags: [ 'chaleco', ]

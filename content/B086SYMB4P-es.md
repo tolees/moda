@@ -5,7 +5,7 @@ date: 2020-05-24 10:02:39
 image: 'https://m.media-amazon.com/images/I/31PfQnX-+LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086SYMB4P-es Oihxse Moda Lindo Cristal Case Compatible con iPhone X/XS...'
 sku: 'B086SYMB4P-es'
 tags: [ 'moda', ]

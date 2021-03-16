@@ -5,7 +5,7 @@ date: 2020-01-17 17:19:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IgYQNj1CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NYTJCJ2-es Skechers Stamina Cutback Zapatilla Deportiva con Cordones...'
 sku: 'B07NYTJCJ2-es'
 tags: [ 'zapatilla', ]

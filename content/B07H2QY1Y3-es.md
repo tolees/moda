@@ -5,7 +5,7 @@ date: 2020-02-23 23:56:47
 image: 'https://m.media-amazon.com/images/I/41xCcLy7ttL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2QY1Y3-es Gant D1. Triangle Texture Fullzip Chaqueta Punto Gris Dk...'
 sku: 'B07H2QY1Y3-es'
 tags: [ 'chaqueta', ]

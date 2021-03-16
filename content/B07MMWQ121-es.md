@@ -5,7 +5,7 @@ date: 2020-03-07 19:17:15
 image: 'https://m.media-amazon.com/images/I/31PNw7I4lAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWQ121-es Wrangler Plus Vaqueros Skinny Azul Stretch Dark 053 42 W/...'
 sku: 'B07MMWQ121-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-02-26 17:34:37
 image: 'https://m.media-amazon.com/images/I/313VtIaMZbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L13XJ5Y-es Under Armour Rival Fleece Sportstyle LC Sleeve Graphic...'
 sku: 'B07L13XJ5Y-es'
 tags: [ 'sudadera', ]

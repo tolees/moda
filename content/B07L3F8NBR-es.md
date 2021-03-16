@@ -5,7 +5,7 @@ date: 2020-05-01 17:24:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31rBMcsvTOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3F8NBR-es Tommy Hilfiger Dress Casual Nubuck Shoe Zapatos de...'
 sku: 'B07L3F8NBR-es'
 tags: [ 'zapatos', ]

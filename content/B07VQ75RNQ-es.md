@@ -5,7 +5,7 @@ date: 2020-08-29 21:57:19
 image: 'https://m.media-amazon.com/images/I/31FGFPjfPNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQ75RNQ-es Tommy Hilfiger Tommy Logo tee Camiseta Deporte Amarillo...'
 sku: 'B07VQ75RNQ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-05 05:37:55
 image: 'https://m.media-amazon.com/images/I/41mKnl2RrcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBF6YZG-es Vans OG Checker SS Camiseta Blanco White Wht X-Small para...'
 sku: 'B07YBF6YZG-es'
 tags: [ 'camiseta', ]

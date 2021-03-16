@@ -5,7 +5,7 @@ date: 2020-06-08 11:02:51
 image: 'https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ6Y2DT-es Geox Uomo Sandal Strada A Sandalias con Punta Abierta para...'
 sku: 'B07DJ6Y2DT-es'
 tags: [ 'geox','sandalias', ]

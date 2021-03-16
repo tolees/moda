@@ -5,7 +5,7 @@ date: 2020-06-02 10:16:09
 image: 'https://m.media-amazon.com/images/I/41W3K1M1MAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779DVWQP-es adidas Tabela 18 JSY Camiseta de Manga Corta Hombre...'
 sku: 'B0779DVWQP-es'
 tags: [ 'camiseta', ]

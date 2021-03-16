@@ -5,7 +5,7 @@ date: 2020-09-21 06:33:09
 image: 'https://m.media-amazon.com/images/I/31suofsIRIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RP4DX9-es Helly Hansen W HH Tech Crew Camisa Deportiva Mujer Blanco...'
 sku: 'B073RP4DX9-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-02-19 12:28:44
 image: 'https://m.media-amazon.com/images/I/41r9W+i3quL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8GPC99-es The North Face Venture 2 Chaqueta Hombre Urban Navy XL'
 sku: 'B07M8GPC99-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 18:48:19
 image: 'https://m.media-amazon.com/images/I/41Q+qbB+nsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKN6W2X-es Pepe Jeans West Sir Camiseta Naranja Sundown 166 Medium...'
 sku: 'B07WKN6W2X-es'
 tags: [ 'camiseta', ]

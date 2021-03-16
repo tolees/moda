@@ -5,7 +5,7 @@ date: 2020-04-14 08:33:19
 image: 'https://m.media-amazon.com/images/I/41Mp4CGz-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X5VL4Q-es Geox Uomo Symbol A Zapatos de Cordones Oxford para Hombre...'
 sku: 'B076X5VL4Q-es'
 tags: [ 'geox','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-03-02 12:33:58
 image: 'https://m.media-amazon.com/images/I/51xiB4s20CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVWNHLM-es RATEL Kit de Chaleco Táctico para Niños 92pcs Traje de...'
 sku: 'B07MVWNHLM-es'
 tags: [ 'chaleco','chaqueta','gafas', ]

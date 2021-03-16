@@ -5,7 +5,7 @@ date: 2020-10-08 12:22:11
 image: 'https://m.media-amazon.com/images/I/31hLzkWipPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB7TJPR-es Columbia Midweight Stretch Camiseta Térmica con Cremallera...'
 sku: 'B07RB7TJPR-es'
 tags: [ 'camiseta', ]

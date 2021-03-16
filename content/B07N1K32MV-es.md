@@ -5,7 +5,7 @@ date: 2020-04-10 19:43:54
 image: 'https://m.media-amazon.com/images/I/31zZdf7gtnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1K32MV-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07N1K32MV-es'
 tags: [ 'zapatos', ]

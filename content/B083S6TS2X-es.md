@@ -5,7 +5,7 @@ date: 2020-07-18 20:30:14
 image: 'https://m.media-amazon.com/images/I/41+nhegHMmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083S6TS2X-es COFACE Chanclas para Mujer Chancletas de Playa Sandalias...'
 sku: 'B083S6TS2X-es'
 tags: [ 'chanclas','sandalias','zapatos', ]

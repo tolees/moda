@@ -5,7 +5,7 @@ date: 2020-06-17 08:23:41
 image: 'https://m.media-amazon.com/images/I/41HV8RujBCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081WKFNGD-es DaMohony - Niñas Falda Tul de Capas Volantes Enagua Tutú...'
 sku: 'B081WKFNGD-es'
 tags: [ 'falda', ]

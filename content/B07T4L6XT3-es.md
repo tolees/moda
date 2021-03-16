@@ -5,7 +5,7 @@ date: 2020-08-14 23:00:35
 image: 'https://m.media-amazon.com/images/I/51ad7fbLerL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4L6XT3-es SHIELDON Mochila Portátil 17.3 Pulgadas Mochilas Ordenador...'
 sku: 'B07T4L6XT3-es'
 tags: [ 'bolso', ]

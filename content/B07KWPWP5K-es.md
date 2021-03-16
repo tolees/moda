@@ -5,7 +5,7 @@ date: 2020-07-22 05:23:38
 image: 'https://m.media-amazon.com/images/I/41e9zJkW6DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWPWP5K-es Bolsa de Deporte Hombre Bolsas Gimnasio Mujer de Grande...'
 sku: 'B07KWPWP5K-es'
 tags: [ 'zapatos', ]

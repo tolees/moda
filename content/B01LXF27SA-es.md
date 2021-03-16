@@ -5,7 +5,7 @@ date: 2020-03-21 01:15:26
 image: 'https://m.media-amazon.com/images/I/21H4VltQprL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXF27SA-es Ray-Ban Round Metal Gafas de sol Shiny Light Bronze 50...'
 sku: 'B01LXF27SA-es'
 tags: [ 'gafas', ]

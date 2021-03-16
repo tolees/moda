@@ -5,7 +5,7 @@ date: 2020-04-29 16:22:46
 image: 'https://m.media-amazon.com/images/I/41LWGHKtN9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MMDRFWO-es The North Face Sudadera Drew Peak Hombre TNF Black/TNF...'
 sku: 'B00MMDRFWO-es'
 tags: [ 'sudadera', ]

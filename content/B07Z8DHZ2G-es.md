@@ -5,7 +5,7 @@ date: 2020-09-25 06:29:04
 image: 'https://m.media-amazon.com/images/I/41TXzoaP4HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z8DHZ2G-es oodji Ultra Mujer Blusa de Silueta Libre con Mangas Cortas...'
 sku: 'B07Z8DHZ2G-es'
 tags: [ 'blusa', ]

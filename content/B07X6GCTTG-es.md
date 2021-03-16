@@ -5,7 +5,7 @@ date: 2020-03-15 09:46:52
 image: 'https://m.media-amazon.com/images/I/41Lwv401qXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6GCTTG-es Esprit 099Ee1G023 Parka Azul Navy 400 M para Mujer'
 sku: 'B07X6GCTTG-es'
 tags: [ 'parka', ]

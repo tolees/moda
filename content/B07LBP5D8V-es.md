@@ -5,7 +5,7 @@ date: 2020-10-12 13:32:10
 image: 'https://m.media-amazon.com/images/I/41pJXKmwrrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBP5D8V-es Helly Hansen Jr Barrier Down Aislante Chaqueta De Pluma...'
 sku: 'B07LBP5D8V-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-05 10:46:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415BajCIAgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBIWO10-es find. Sudadera Oversized con Volantes para Mujer Rosa Old...'
 sku: 'B01NBIWO10-es'
 tags: [ 'sudadera', ]

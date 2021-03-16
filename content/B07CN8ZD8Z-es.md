@@ -5,7 +5,7 @@ date: 2020-07-10 03:25:16
 image: 'https://m.media-amazon.com/images/I/31SJycOPLFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN8ZD8Z-es Crocs Crocband Flip Chanclas Unisex-Adult Green Army...'
 sku: 'B07CN8ZD8Z-es'
 tags: [ 'chanclas', ]

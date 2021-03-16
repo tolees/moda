@@ -5,7 +5,7 @@ date: 2020-08-04 10:41:27
 image: 'https://m.media-amazon.com/images/I/41SOUukfsSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDGTBP2-es Zapatos de Agua para Buceo Snorkel Surf Piscina Playa Vela...'
 sku: 'B07DDGTBP2-es'
 tags: [ 'zapatos', ]

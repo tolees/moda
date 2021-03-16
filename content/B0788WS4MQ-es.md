@@ -5,7 +5,7 @@ date: 2020-06-22 12:02:02
 image: 'https://m.media-amazon.com/images/I/41yJWfWSAkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788WS4MQ-es Tous Nika Sherton Bolso Bandolera para Mujer Negro...'
 sku: 'B0788WS4MQ-es'
 tags: [ 'bolso', ]

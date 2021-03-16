@@ -5,7 +5,7 @@ date: 2020-04-24 13:32:20
 image: 'https://m.media-amazon.com/images/I/41ZT44pu8ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FLPKV1-es P Prettyia Plantillas Cálidas de Invierno Unisex...'
 sku: 'B082FLPKV1-es'
 tags: [ 'zapatos', ]

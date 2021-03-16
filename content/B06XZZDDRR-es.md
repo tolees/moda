@@ -5,7 +5,7 @@ date: 2020-02-28 06:34:09
 image: 'https://m.media-amazon.com/images/I/31wxRdy3vOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XZZDDRR-es BROOKS BROTHERS Camicia Regent Manica Lunga Camisa de...'
 sku: 'B06XZZDDRR-es'
 tags: [ 'camisa', ]

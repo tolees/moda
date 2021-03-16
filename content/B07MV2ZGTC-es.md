@@ -5,7 +5,7 @@ date: 2020-05-30 06:45:55
 image: 'https://m.media-amazon.com/images/I/41xQ6hSmkML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV2ZGTC-es Glowlab dreams bolsa deporte bolso de viaje'
 sku: 'B07MV2ZGTC-es'
 tags: [ 'bolso', ]

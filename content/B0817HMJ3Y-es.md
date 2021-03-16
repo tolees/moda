@@ -5,7 +5,7 @@ date: 2020-06-26 16:31:01
 image: 'https://m.media-amazon.com/images/I/41ki003B4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817HMJ3Y-es Columbia Triple Canyon Pantalón Corto De Senderismo Hombre...'
 sku: 'B0817HMJ3Y-es'
 tags: [ 'pantalón', ]

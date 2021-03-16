@@ -5,7 +5,7 @@ date: 2020-07-12 16:25:39
 image: 'https://m.media-amazon.com/images/I/311tc2dZ0DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNTM5P1-es Lee Elly Vaqueros Azul Dark Truxel HP W28/L31 para Mujer'
 sku: 'B07VNTM5P1-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-02-19 09:03:01
 image: 'https://m.media-amazon.com/images/I/41rHFwV8geL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6XGY2Y-es SALOMON Coton Logo SS tee M Camiseta Deportiva de Manga...'
 sku: 'B07Q6XGY2Y-es'
 tags: [ 'camiseta', ]

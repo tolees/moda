@@ -5,7 +5,7 @@ date: 2020-09-25 18:46:28
 image: 'https://m.media-amazon.com/images/I/41EdMBH+dcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VH6XL6-es Columbia Cascade Ridge II Softshell Chaqueta Hombre Night...'
 sku: 'B087VH6XL6-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-04-21 00:41:17
 image: 'https://m.media-amazon.com/images/I/41nN97saDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XC8B12Z-es Clarks Tilden Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B06XC8B12Z-es'
 tags: [ 'zapatos', ]

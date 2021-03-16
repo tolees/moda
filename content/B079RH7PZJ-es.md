@@ -5,7 +5,7 @@ date: 2020-03-09 06:09:20
 image: 'https://m.media-amazon.com/images/I/41StlZT2W5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RH7PZJ-es GANT The Broadcloth Gingham Reg BD Camisa Azul Capri Blue...'
 sku: 'B079RH7PZJ-es'
 tags: [ 'camisa', ]

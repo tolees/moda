@@ -5,7 +5,7 @@ date: 2020-09-01 17:01:40
 image: 'https://m.media-amazon.com/images/I/31ccz1KHcGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082GY63KC-es Oihxse Cristal Case - Compatible con Samsung Galaxy A8S...'
 sku: 'B082GY63KC-es'
 tags: [ 'moda', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 21:08:20
 image: 'https://m.media-amazon.com/images/I/31a6LfXdEhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRTNFL9-es Marca Amazon - AURIQUE Mallas de Deporte Cortas sin...'
 sku: 'B07ZRTNFL9-es'
 tags: [ 'aurique', ]

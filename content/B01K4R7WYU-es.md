@@ -5,7 +5,7 @@ date: 2020-03-31 11:43:51
 image: 'https://m.media-amazon.com/images/I/41p0xi8UFfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K4R7WYU-es LEABAGS Havana Bolso Bandolera de Cuero auténtico de...'
 sku: 'B01K4R7WYU-es'
 tags: [ 'bolso', ]

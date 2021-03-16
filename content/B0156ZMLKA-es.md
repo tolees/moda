@@ -5,7 +5,7 @@ date: 2020-01-08 01:49:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ypKA3vm0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0156ZMLKA-es KRISP Vestido Mujer Tallas Grandes Largo Casual Ibicenco...'
 sku: 'B0156ZMLKA-es'
 tags: [ 'vestido', ]

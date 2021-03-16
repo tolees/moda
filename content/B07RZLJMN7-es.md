@@ -5,7 +5,7 @@ date: 2020-09-08 08:43:58
 image: 'https://m.media-amazon.com/images/I/41YW36apVFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLJMN7-es Levi s The Original Camiseta Multicolor Hm Patch OG tee...'
 sku: 'B07RZLJMN7-es'
 tags: [ 'camiseta', ]

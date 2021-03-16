@@ -5,7 +5,7 @@ date: 2020-03-22 12:42:05
 image: 'https://m.media-amazon.com/images/I/51FWsk1YMNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHLS5RY-es PET MAGASIN Guantes Quita pelos 1 par - Guantes...'
 sku: 'B07HHLS5RY-es'
 tags: [ 'guantes', ]

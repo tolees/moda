@@ -5,7 +5,7 @@ date: 2020-10-10 04:07:39
 image: 'https://m.media-amazon.com/images/I/41mhCyaTYFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDF37Y8-es LOSMILE Bolsos Bandolera de Hombres Bolso de Hombro de...'
 sku: 'B07SDF37Y8-es'
 tags: [ 'bolso', ]

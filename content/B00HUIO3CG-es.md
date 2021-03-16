@@ -5,7 +5,7 @@ date: 2020-04-23 07:25:57
 image: 'https://m.media-amazon.com/images/I/416Ekf+qHIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HUIO3CG-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Candy Pink...'
 sku: 'B00HUIO3CG-es'
 tags: [ 'zuecos', ]

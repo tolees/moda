@@ -5,7 +5,7 @@ date: 2020-09-18 20:19:07
 image: 'https://m.media-amazon.com/images/I/41WYt5JhuzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ63PX5-es Springfield Long Sleeve with Pearls Camiseta Multicolor...'
 sku: 'B07NJ63PX5-es'
 tags: [ 'camiseta', ]

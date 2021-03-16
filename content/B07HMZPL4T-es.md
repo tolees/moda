@@ -5,7 +5,7 @@ date: 2020-01-21 14:10:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31O9wNWXhXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMZPL4T-es Nike M NSW tee Icon Futura Camiseta Hombre Midnight...'
 sku: 'B07HMZPL4T-es'
 tags: [ 'camiseta', ]

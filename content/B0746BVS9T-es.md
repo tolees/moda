@@ -5,7 +5,7 @@ date: 2020-08-29 19:16:35
 image: 'https://m.media-amazon.com/images/I/51F2O0xBt6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746BVS9T-es Billetera Cuero Funda para Huawei P10 Lite Careynoce...'
 sku: 'B0746BVS9T-es'
 tags: [ 'billetera', ]

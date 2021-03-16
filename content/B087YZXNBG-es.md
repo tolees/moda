@@ -5,7 +5,7 @@ date: 2020-05-06 09:32:33
 image: 'https://m.media-amazon.com/images/I/41-5lDJ118L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087YZXNBG-es Regatta - Sandalias Chanclas Modelo Holcombe para Hombre...'
 sku: 'B087YZXNBG-es'
 tags: [ 'chanclas','sandalias', ]

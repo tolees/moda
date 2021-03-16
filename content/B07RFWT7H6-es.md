@@ -5,7 +5,7 @@ date: 2020-10-01 04:40:59
 image: 'https://m.media-amazon.com/images/I/31FD+L+IIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFWT7H6-es Marca Amazon - find. Zip Front Leather Botines Negro Black...'
 sku: 'B07RFWT7H6-es'
 tags: [ '-','botines','find.', ]

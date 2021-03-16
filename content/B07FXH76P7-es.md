@@ -5,7 +5,7 @@ date: 2020-02-25 13:06:30
 image: 'https://m.media-amazon.com/images/I/416yHxCEs+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXH76P7-es ENKEEO - Gafas de Esquí Snowboard Esquiar VLT 8.59% Lente...'
 sku: 'B07FXH76P7-es'
 tags: [ 'gafas', ]

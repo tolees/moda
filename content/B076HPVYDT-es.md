@@ -5,7 +5,7 @@ date: 2020-06-03 02:03:53
 image: 'https://m.media-amazon.com/images/I/41D+5wh8p-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HPVYDT-es adidas Core18 Windbr Chaqueta de Deporte Hombre...'
 sku: 'B076HPVYDT-es'
 tags: [ 'chaqueta', ]

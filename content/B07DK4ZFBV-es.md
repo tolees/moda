@@ -5,7 +5,7 @@ date: 2020-02-19 18:41:11
 image: 'https://m.media-amazon.com/images/I/41FRQGbcgnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK4ZFBV-es Geox J Android Boy C Zapatillas para Niños Azul Navy/Lime...'
 sku: 'B07DK4ZFBV-es'
 tags: [ 'geox', ]

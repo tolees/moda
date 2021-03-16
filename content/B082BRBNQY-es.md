@@ -5,7 +5,7 @@ date: 2020-08-25 14:18:48
 image: 'https://m.media-amazon.com/images/I/31aJhaPJxRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BRBNQY-es ARENA The One Gafas De Natación Unisex Adulto Clear/Black...'
 sku: 'B082BRBNQY-es'
 tags: [ 'gafas', ]

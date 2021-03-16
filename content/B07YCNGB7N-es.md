@@ -5,7 +5,7 @@ date: 2020-07-12 11:22:56
 image: 'https://m.media-amazon.com/images/I/31WXevJQVzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCNGB7N-es Levi s Kids Lvg Ss Batwing Tee Camiseta Niñas'
 sku: 'B07YCNGB7N-es'
 tags: [ 'camiseta', ]

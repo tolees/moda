@@ -5,7 +5,7 @@ date: 2020-02-10 06:03:34
 image: 'https://m.media-amazon.com/images/I/41gXYoQ6kIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CNTM8W-es Geographical Norway Parka Mujer BOOMERA Ass B Negro 02'
 sku: 'B081CNTM8W-es'
 tags: [ 'parka', ]

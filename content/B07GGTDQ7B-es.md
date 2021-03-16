@@ -5,7 +5,7 @@ date: 2020-03-24 10:31:49
 image: 'https://m.media-amazon.com/images/I/412eW9MqeEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGTDQ7B-es vifuur Hombres Casa Zapatillas High Density Memory Foam...'
 sku: 'B07GGTDQ7B-es'
 tags: [ 'guantes', ]

@@ -5,7 +5,7 @@ date: 2020-07-16 08:37:42
 image: 'https://m.media-amazon.com/images/I/318g+pTK0cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KTG70GG-es Levi s 712 Vaqueros Slim Negro Black Sheen 0001 W23/L34...'
 sku: 'B01KTG70GG-es'
 tags: [ 'vaqueros', ]

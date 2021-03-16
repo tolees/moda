@@ -5,7 +5,7 @@ date: 2020-04-25 11:42:50
 image: 'https://m.media-amazon.com/images/I/31LXwANgXRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJJ1T7J-es Tamaris 1-1-25356-23 Botines para Mujer Marrón Antelope...'
 sku: 'B07NJJ1T7J-es'
 tags: [ 'botines', ]

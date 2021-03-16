@@ -5,7 +5,7 @@ date: 2020-10-01 12:09:03
 image: 'https://m.media-amazon.com/images/I/41BmSNXqBRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HPL9ZT-es adidas Core18 PES Jkt Chaqueta Hombre Rojo Power Red/White L'
 sku: 'B076HPL9ZT-es'
 tags: [ 'chaqueta', ]

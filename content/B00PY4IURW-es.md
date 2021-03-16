@@ -5,7 +5,7 @@ date: 2020-01-19 01:49:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41h5SSWvtpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PY4IURW-es KRISP 6488-BLK-20 Vestido Corto Fruncido Busto Negro 6488 48'
 sku: 'B00PY4IURW-es'
 tags: [ 'vestido', ]

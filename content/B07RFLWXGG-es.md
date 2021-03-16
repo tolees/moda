@@ -5,7 +5,7 @@ date: 2020-01-12 16:06:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31P0OGcPhhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFLWXGG-es Tommy Hilfiger Stretch Slim Fit Long Sleeve tee Camiseta...'
 sku: 'B07RFLWXGG-es'
 tags: [ 'camiseta', ]

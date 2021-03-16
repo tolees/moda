@@ -5,7 +5,7 @@ date: 2020-03-02 10:34:21
 image: 'https://m.media-amazon.com/images/I/31Z3EmcuHiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFM3FFK-es Clarks Clarkdale Moon Zapatos de Cordones Derby para...'
 sku: 'B07MFM3FFK-es'
 tags: [ 'zapatos', ]

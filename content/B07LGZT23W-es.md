@@ -5,7 +5,7 @@ date: 2020-10-01 04:07:09
 image: 'https://m.media-amazon.com/images/I/51UcAF5pUBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGZT23W-es FineGood 12 pares de retenedores de gafas silicona...'
 sku: 'B07LGZT23W-es'
 tags: [ 'gafas', ]

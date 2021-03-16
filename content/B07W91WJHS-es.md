@@ -5,7 +5,7 @@ date: 2020-09-16 04:24:56
 image: 'https://m.media-amazon.com/images/I/31Gfyf17lWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W91WJHS-es Tommy Hilfiger Rope Stripe tee Camiseta Deporte Blanco...'
 sku: 'B07W91WJHS-es'
 tags: [ 'camiseta', ]

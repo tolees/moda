@@ -5,7 +5,7 @@ date: 2020-01-17 14:27:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41K8rINISLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFAP81G-es Fresh Made D9514Z90532A Jersey Rosa Pearl Rose Melange 40...'
 sku: 'B01MFAP81G-es'
 tags: [ 'jersey', ]

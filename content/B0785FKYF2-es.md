@@ -5,7 +5,7 @@ date: 2020-01-16 10:35:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AFsnhBeHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785FKYF2-es Gore Wear 100153 Chaqueta Hombre Azul Dynamic Cyan XL'
 sku: 'B0785FKYF2-es'
 tags: [ 'chaqueta', ]

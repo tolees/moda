@@ -5,7 +5,7 @@ date: 2020-09-25 18:21:10
 image: 'https://m.media-amazon.com/images/I/51hHQwTKpyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CHXQQ5-es SYOSIN Luz de Anillo LED 10.2" con Trípode Stand Control...'
 sku: 'B087CHXQQ5-es'
 tags: [ 'moda', ]

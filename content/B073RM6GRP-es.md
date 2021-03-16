@@ -5,7 +5,7 @@ date: 2020-01-16 17:39:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CQ1dNBVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RM6GRP-es RED WAGON Vestido Sudadera con Mensaje Niñas Verde Mint 5...'
 sku: 'B073RM6GRP-es'
 tags: [ 'sudadera','vestido', ]

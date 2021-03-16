@@ -5,7 +5,7 @@ date: 2020-03-10 18:03:14
 image: 'https://m.media-amazon.com/images/I/312iVCHzS4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4BCMPG-es New Balance 574 Nms Deportes De Los Zapatos De La...'
 sku: 'B07S4BCMPG-es'
 tags: [ 'zapatilla','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-30 08:50:50
 image: 'https://m.media-amazon.com/images/I/41tHzVok+gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDN7R9S-es Esprit 049ee2k002 Camiseta Azul Blue 430 Large para Hombre'
 sku: 'B07NDN7R9S-es'
 tags: [ 'camiseta', ]

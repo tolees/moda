@@ -5,7 +5,7 @@ date: 2020-01-01 17:02:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JOei%2B5xwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYHV19X-es DoGeek Zapato Seguridad Zapatos Trabajo con Punta de Acero...'
 sku: 'B07KYHV19X-es'
 tags: [ 'zapatos', ]

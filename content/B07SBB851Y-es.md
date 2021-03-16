@@ -5,7 +5,7 @@ date: 2020-02-24 17:19:24
 image: 'https://m.media-amazon.com/images/I/41w1Fc3kTmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBB851Y-es Crocs Crocband Flip Chanclas Unisex Adulto Verde Deep...'
 sku: 'B07SBB851Y-es'
 tags: [ 'chanclas', ]

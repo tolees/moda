@@ -5,7 +5,7 @@ date: 2020-01-10 10:28:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lPlT4tHtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076WZBML5-es find. Sudadera con Mensaje Mujer Rosa Medium'
 sku: 'B076WZBML5-es'
 tags: [ 'sudadera', ]

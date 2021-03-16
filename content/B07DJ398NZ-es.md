@@ -5,7 +5,7 @@ date: 2020-06-27 19:06:36
 image: 'https://m.media-amazon.com/images/I/41xT-GL8USL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ398NZ-es Geox Uomo Snake K Zapatillas para Hombre Blue Navy C4002...'
 sku: 'B07DJ398NZ-es'
 tags: [ 'geox', ]

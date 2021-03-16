@@ -5,7 +5,7 @@ date: 2020-04-26 15:23:29
 image: 'https://m.media-amazon.com/images/I/51Vh+LRBLAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQZ8W5-es Pepe Jeans Imani Chaqueta Berry Red 280 Small para Mujer'
 sku: 'B07MZQZ8W5-es'
 tags: [ 'chaqueta', ]

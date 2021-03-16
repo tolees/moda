@@ -5,7 +5,7 @@ date: 2020-05-03 10:16:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EeY0qzdhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYN9L2W-es Springfield 8.Gym.GRAF Bella Crochet Camiseta Hielo 94...'
 sku: 'B07KYN9L2W-es'
 tags: [ 'camiseta', ]

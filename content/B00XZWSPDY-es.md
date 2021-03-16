@@ -5,7 +5,7 @@ date: 2020-06-23 11:24:15
 image: 'https://m.media-amazon.com/images/I/31sn5pqsf+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XZWSPDY-es Mercedes-Benz Sonnenbrille M7004 Gafas de sol Azul Blau...'
 sku: 'B00XZWSPDY-es'
 tags: [ 'gafas', ]

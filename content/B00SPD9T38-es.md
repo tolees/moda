@@ -5,7 +5,7 @@ date: 2020-08-15 13:45:32
 image: 'https://m.media-amazon.com/images/I/41ZYWnr+MKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SPD9T38-es Fruit of the Loom - Camiseta básica de Manga Corta Tacto...'
 sku: 'B00SPD9T38-es'
 tags: [ 'camiseta', ]

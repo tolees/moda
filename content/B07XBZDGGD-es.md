@@ -5,7 +5,7 @@ date: 2020-01-13 18:47:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31r4klNan2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBZDGGD-es Esprit 109Ee1K026 Camiseta de Manga Larga Negro Black 001...'
 sku: 'B07XBZDGGD-es'
 tags: [ 'camiseta', ]

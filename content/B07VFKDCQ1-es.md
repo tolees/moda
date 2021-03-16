@@ -5,7 +5,7 @@ date: 2020-03-04 18:48:18
 image: 'https://m.media-amazon.com/images/I/31i3VKZ+z0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFKDCQ1-es Esprit 099ee1g018s Abrigo Azul Navy 400 XX-Large para Mujer'
 sku: 'B07VFKDCQ1-es'
 tags: [ 'abrigo', ]

@@ -5,7 +5,7 @@ date: 2020-10-12 07:12:16
 image: 'https://m.media-amazon.com/images/I/315AaHNTOoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXSVV88-es Geox D ANNYTAH C Bailarinas para Mujer Azul Blue C4000 38 EU'
 sku: 'B07SXSVV88-es'
 tags: [ 'geox', ]

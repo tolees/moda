@@ -5,7 +5,7 @@ date: 2020-06-19 13:29:14
 image: 'https://m.media-amazon.com/images/I/31YkLWcn02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFQ4BGF-es Gafas de Sol polarizadas Deportivas para Hombres Mujeres...'
 sku: 'B07QFQ4BGF-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 17:45:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HROkz0kAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZJN2RF-es CONQUECO - Chaleco - Moda - Sin Mangas - para Hombre Negro...'
 sku: 'B07GZJN2RF-es'
 tags: [ 'chaleco','moda', ]

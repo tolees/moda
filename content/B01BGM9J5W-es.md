@@ -5,7 +5,7 @@ date: 2020-09-02 14:31:11
 image: 'https://m.media-amazon.com/images/I/41ubCmY4MWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGM9J5W-es Veet Sensitive Precision - Recortador Eléctrico Depilador...'
 sku: 'B01BGM9J5W-es'
 tags: [ 'bikini', ]

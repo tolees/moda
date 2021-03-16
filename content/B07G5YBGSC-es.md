@@ -5,7 +5,7 @@ date: 2020-08-18 06:34:00
 image: 'https://m.media-amazon.com/images/I/61psrAtWXXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5YBGSC-es YDFYX Pierna Bolsa Multifuncional de Nailon Bolso para...'
 sku: 'B07G5YBGSC-es'
 tags: [ 'bolso', ]

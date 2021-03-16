@@ -5,7 +5,7 @@ date: 2020-09-23 02:34:46
 image: 'https://m.media-amazon.com/images/I/51ZUpwXF07L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7FKVY9-es Marca Amazon - find. Top Cruzado de Satén Mujer Multicolor...'
 sku: 'B07S7FKVY9-es'
 tags: [ '-','find.', ]

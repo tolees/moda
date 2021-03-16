@@ -5,7 +5,7 @@ date: 2020-08-19 21:25:57
 image: 'https://m.media-amazon.com/images/I/31XCDHlO-RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007O5K7UC-es Arena Spider Jr Gafas de Natación Unisex niños Rojo/Negro...'
 sku: 'B007O5K7UC-es'
 tags: [ 'gafas', ]

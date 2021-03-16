@@ -5,7 +5,7 @@ date: 2020-01-25 12:11:15
 image: 'https://m.media-amazon.com/images/I/41-3OpzW2wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFW14D2-es Kayhan Hombre Camisa TwoFace Grey L'
 sku: 'B07BFW14D2-es'
 tags: [ 'camisa', ]

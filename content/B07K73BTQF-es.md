@@ -5,7 +5,7 @@ date: 2020-01-29 12:59:39
 image: 'https://m.media-amazon.com/images/I/31Gn51t8zTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K73BTQF-es Levi s Graphic B Sudadera Negro Logo Ssnl Crew Mineral...'
 sku: 'B07K73BTQF-es'
 tags: [ 'sudadera', ]

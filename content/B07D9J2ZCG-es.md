@@ -5,7 +5,7 @@ date: 2020-08-25 03:23:27
 image: 'https://m.media-amazon.com/images/I/41PTBNNGU8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9J2ZCG-es LolaPix Bolso Tela Profesor y Profesora Personalizado con...'
 sku: 'B07D9J2ZCG-es'
 tags: [ 'bolso', ]

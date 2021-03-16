@@ -5,7 +5,7 @@ date: 2020-05-30 19:05:14
 image: 'https://m.media-amazon.com/images/I/411Ubor01NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7MZFW1-es Lover-Beauty Camisa Mujer Raya Cuello Redondo Manga Corta...'
 sku: 'B07M7MZFW1-es'
 tags: [ 'blusa','camisa','camiseta','jersey', ]

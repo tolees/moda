@@ -5,7 +5,7 @@ date: 2020-06-17 07:28:06
 image: 'https://m.media-amazon.com/images/I/416xYiUcOvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776XXJ6D-es Tommy Hilfiger Original Rib Camisa Negro Tommy Black 078...'
 sku: 'B0776XXJ6D-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-03-06 17:58:24
 image: 'https://m.media-amazon.com/images/I/31EMP6klXeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ7NV1Y-es SimpleLife Bolso de Mano/Bolso de Fiesta para el corazón...'
 sku: 'B07RZ7NV1Y-es'
 tags: [ 'bolso', ]

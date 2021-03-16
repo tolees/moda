@@ -5,7 +5,7 @@ date: 2020-04-04 12:01:42
 image: 'https://m.media-amazon.com/images/I/31+TSWfP-XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7QF5J9-es Chicco Sandalo Corissa Sandalias para Niñas Blanco Bianco...'
 sku: 'B07V7QF5J9-es'
 tags: [ 'sandalias', ]

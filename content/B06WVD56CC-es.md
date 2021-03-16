@@ -5,7 +5,7 @@ date: 2020-07-08 13:08:26
 image: 'https://m.media-amazon.com/images/I/31Hwb6Re+xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVD56CC-es camel active 5-Pocket Madison Vaqueros Straight Azul Raw...'
 sku: 'B06WVD56CC-es'
 tags: [ 'vaqueros', ]

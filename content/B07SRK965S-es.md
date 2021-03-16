@@ -5,7 +5,7 @@ date: 2020-10-08 07:24:28
 image: 'https://m.media-amazon.com/images/I/31lJmsSLN6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRK965S-es Geox D Jaysen A Zapatillas para Mujer Blanco White/Orange...'
 sku: 'B07SRK965S-es'
 tags: [ 'geox', ]

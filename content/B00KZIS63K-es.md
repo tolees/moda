@@ -5,7 +5,7 @@ date: 2020-09-09 11:45:37
 image: 'https://m.media-amazon.com/images/I/31Hu2yWl8kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KZIS63K-es SOLS- Camiseta de Manga Corta para niñas 8 años Blanco'
 sku: 'B00KZIS63K-es'
 tags: [ 'camiseta', ]

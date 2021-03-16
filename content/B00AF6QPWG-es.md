@@ -5,7 +5,7 @@ date: 2020-03-02 06:30:29
 image: 'https://m.media-amazon.com/images/I/413pXHqhiSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AF6QPWG-es Helly Hansen Seven J Jacket - Chaqueta para hombre color...'
 sku: 'B00AF6QPWG-es'
 tags: [ 'chaqueta', ]

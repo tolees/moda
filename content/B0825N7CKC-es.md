@@ -5,7 +5,7 @@ date: 2020-07-01 16:33:27
 image: 'https://m.media-amazon.com/images/I/41DiLtw7upL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825N7CKC-es Quiksilver Colors In Stereo - Camiseta para Hombre Screen...'
 sku: 'B0825N7CKC-es'
 tags: [ 'camiseta', ]

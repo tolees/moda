@@ -5,7 +5,7 @@ date: 2020-09-20 08:01:26
 image: 'https://m.media-amazon.com/images/I/31SFrc8ySkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGJ5VMX-es Under Armour Sportstyle Terry Logo Hoodie Sudadera con...'
 sku: 'B07MGJ5VMX-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-06-11 22:03:46
 image: 'https://m.media-amazon.com/images/I/41XmdVsKNlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBLBBS1-es Timberland Perkins Row 2-Strap sandale junior Descubierta...'
 sku: 'B07BBLBBS1-es'
 tags: [ 'timberland', ]

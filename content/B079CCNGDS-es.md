@@ -5,7 +5,7 @@ date: 2020-09-16 07:53:41
 image: 'https://m.media-amazon.com/images/I/31gv30QI02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079CCNGDS-es Jack & Jones Jjeplain tee SS V-Neck Noos Camiseta Blanco...'
 sku: 'B079CCNGDS-es'
 tags: [ 'camiseta', ]

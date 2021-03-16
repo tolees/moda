@@ -5,7 +5,7 @@ date: 2020-05-30 15:32:18
 image: 'https://m.media-amazon.com/images/I/41A81hB+GIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WGXZ1M-es Moda Zapatos Casuales Femeninos，Zapatillas para Mujer...'
 sku: 'B088WGXZ1M-es'
 tags: [ 'moda','zapatilla','zapatos', ]

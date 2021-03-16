@@ -5,7 +5,7 @@ date: 2020-08-23 04:34:01
 image: 'https://m.media-amazon.com/images/I/31lOcT+Xb4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788LWHL5-es Salomon AGILE LS Camiseta deportiva de manga larga Hombre...'
 sku: 'B0788LWHL5-es'
 tags: [ 'camiseta', ]

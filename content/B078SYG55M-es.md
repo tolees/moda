@@ -5,7 +5,7 @@ date: 2020-06-21 09:48:54
 image: 'https://m.media-amazon.com/images/I/31ImLhshsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SYG55M-es Marca Amazon - TRUTH & FABLE Vestido midi de gasa con...'
 sku: 'B078SYG55M-es'
 tags: [ 'vestido', ]

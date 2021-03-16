@@ -5,7 +5,7 @@ date: 2020-06-14 08:01:08
 image: 'https://m.media-amazon.com/images/I/41SAHL8y4oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792DPDY8-es Geox D Arethea B Mocasines para Mujer Negro Black C9999 36 EU'
 sku: 'B0792DPDY8-es'
 tags: [ 'geox', ]

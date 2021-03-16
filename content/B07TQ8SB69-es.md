@@ -5,7 +5,7 @@ date: 2020-03-14 13:16:44
 image: 'https://m.media-amazon.com/images/I/418YZkBc-yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ8SB69-es Calvin Klein Ckj 026 Vaqueros Slim Azul Antwerp Rinse 911...'
 sku: 'B07TQ8SB69-es'
 tags: [ 'vaqueros', ]

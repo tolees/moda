@@ -5,7 +5,7 @@ date: 2020-03-08 16:07:00
 image: 'https://m.media-amazon.com/images/I/41pzUBcEPuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPX557-es Pepe Jeans Makeba Camiseta Black 999 17-18 años de Edad...'
 sku: 'B07MZPX557-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-23 10:06:58
 image: 'https://m.media-amazon.com/images/I/51A1eTmNPeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBM1JH1-es Napapijri Goderich Camisa Multicolor Check C18 46 Talla...'
 sku: 'B07LBM1JH1-es'
 tags: [ 'camisa', ]

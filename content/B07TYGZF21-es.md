@@ -5,7 +5,7 @@ date: 2020-07-22 07:33:07
 image: 'https://m.media-amazon.com/images/I/41JPwWtoqvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYGZF21-es Levi s 511 Slim Vaqueros Beige Harvest Gold Sueded Sateen...'
 sku: 'B07TYGZF21-es'
 tags: [ 'vaqueros', ]

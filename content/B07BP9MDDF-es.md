@@ -5,7 +5,7 @@ date: 2020-05-01 13:11:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31n3EzaK1OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BP9MDDF-es find. Camisa Formal Entallada Hombre Azul Navy X-Large...'
 sku: 'B07BP9MDDF-es'
 tags: [ 'camisa', ]

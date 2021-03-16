@@ -5,7 +5,7 @@ date: 2020-08-21 12:24:12
 image: 'https://m.media-amazon.com/images/I/31y-pSL1e-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNZHV7S-es Lacoste Ch9623 Camisa Gris Nimbus/Nimbus 7fp X-Small Talla...'
 sku: 'B07MNZHV7S-es'
 tags: [ 'camisa', ]

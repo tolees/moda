@@ -5,7 +5,7 @@ date: 2020-07-19 19:54:31
 image: 'https://m.media-amazon.com/images/I/41uO3EnjYcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDQQPY3-es Tommy Hilfiger TJM Split Box tee Camiseta Deporte Azul...'
 sku: 'B07RDQQPY3-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-21 11:02:43
 image: 'https://m.media-amazon.com/images/I/51YyGcZ7uAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071K8LWDR-es Recién Nacido Pijama Algodón Mameluco Niñas Niños Peleles...'
 sku: 'B071K8LWDR-es'
 tags: [ 'pijama', ]

@@ -5,7 +5,7 @@ date: 2020-06-24 13:10:48
 image: 'https://m.media-amazon.com/images/I/31WcZ4WHukL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T6SJZ9-es PUMA Liga CR H Camiseta de Manga Corta Hombre Blanco...'
 sku: 'B078T6SJZ9-es'
 tags: [ 'camiseta', ]

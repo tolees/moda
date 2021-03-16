@@ -5,7 +5,7 @@ date: 2020-07-16 10:19:26
 image: 'https://m.media-amazon.com/images/I/41dW8R-2dpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZJJ2PP-es BaZhaHei CinturóN Verde de Compras Monedero del...'
 sku: 'B07QZJJ2PP-es'
 tags: [ 'bolso','monedero', ]

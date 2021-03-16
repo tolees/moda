@@ -5,7 +5,7 @@ date: 2020-06-22 17:48:44
 image: 'https://m.media-amazon.com/images/I/31-+Debr5eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HW9Z6V-es Under Armour Sportstyle Pique Track Jacket Chaqueta Hombre...'
 sku: 'B071HW9Z6V-es'
 tags: [ 'chaqueta', ]

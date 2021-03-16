@@ -5,7 +5,7 @@ date: 2020-02-16 13:26:35
 image: 'https://m.media-amazon.com/images/I/41ReIWylgkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5YXLZ3-es Spyder Challenger Chaqueta esquí/Snow Niños Volcano 16 años'
 sku: 'B07L5YXLZ3-es'
 tags: [ 'chaqueta', ]

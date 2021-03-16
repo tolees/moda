@@ -5,7 +5,7 @@ date: 2020-09-14 08:23:54
 image: 'https://m.media-amazon.com/images/I/41yCZLZ0erL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCFX7MV-es adidas Mh Plain tee Camiseta de Manga Corta Hombre Medium...'
 sku: 'B07SCFX7MV-es'
 tags: [ 'camiseta', ]

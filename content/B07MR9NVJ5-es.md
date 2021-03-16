@@ -5,7 +5,7 @@ date: 2020-02-01 08:54:38
 image: 'https://m.media-amazon.com/images/I/31RuOWt-idL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR9NVJ5-es Lee Ivy Vaqueros Azul Summer Night Vy 33W / 33L para Mujer'
 sku: 'B07MR9NVJ5-es'
 tags: [ 'vaqueros', ]

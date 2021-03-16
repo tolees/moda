@@ -5,7 +5,7 @@ date: 2020-05-25 14:05:46
 image: 'https://m.media-amazon.com/images/I/3169lorE19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTWKB93-es Lee Scarlett Vaqueros Azul Flight Wj 25W / 31L para Mujer'
 sku: 'B07FTWKB93-es'
 tags: [ 'vaqueros', ]

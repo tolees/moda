@@ -5,7 +5,7 @@ date: 2020-10-12 18:01:02
 image: 'https://m.media-amazon.com/images/I/41QPyYY5D+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JYZWBLH-es GOGME Funda para Samsung Galaxy S20 FE 5G/4G Billetera...'
 sku: 'B08JYZWBLH-es'
 tags: [ 'billetera', ]

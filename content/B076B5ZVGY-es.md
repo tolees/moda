@@ -5,7 +5,7 @@ date: 2020-06-18 18:55:26
 image: 'https://m.media-amazon.com/images/I/41j4qc5bNwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076B5ZVGY-es Havaianas Brasil Logo Chanclas Unisex Adulto Negro 35/36 EU'
 sku: 'B076B5ZVGY-es'
 tags: [ 'chanclas', ]

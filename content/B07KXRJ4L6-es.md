@@ -5,7 +5,7 @@ date: 2020-07-09 22:48:20
 image: 'https://m.media-amazon.com/images/I/41dtuB4J2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXRJ4L6-es G-STAR RAW Lynn Mid Skinny Vaqueros Azul Lt Aged 6553-424...'
 sku: 'B07KXRJ4L6-es'
 tags: [ 'vaqueros', ]

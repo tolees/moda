@@ -5,7 +5,7 @@ date: 2020-08-23 18:10:43
 image: 'https://m.media-amazon.com/images/I/51iaR020xLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0799KHP3Q-es KARACTERMANIA Mickey Mouse Crayons Bolso bandolera 28 cm Rojo'
 sku: 'B0799KHP3Q-es'
 tags: [ 'bolso', ]

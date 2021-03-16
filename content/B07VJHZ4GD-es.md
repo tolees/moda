@@ -5,7 +5,7 @@ date: 2020-10-04 22:04:17
 image: 'https://m.media-amazon.com/images/I/41yvQmsDArL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJHZ4GD-es Hackett Amr Stripe Back Camiseta Azul 595navy 595 Small...'
 sku: 'B07VJHZ4GD-es'
 tags: [ 'camiseta', ]

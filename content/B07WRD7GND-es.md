@@ -5,7 +5,7 @@ date: 2020-03-05 17:46:21
 image: 'https://m.media-amazon.com/images/I/51JUX6fUlnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRD7GND-es Zapatos de Seguridad Hombres LM-30 Zapatillas de Trabajo...'
 sku: 'B07WRD7GND-es'
 tags: [ 'zapatos', ]

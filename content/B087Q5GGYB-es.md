@@ -5,7 +5,7 @@ date: 2020-05-19 11:08:11
 image: 'https://m.media-amazon.com/images/I/41xrjjXiftL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087Q5GGYB-es TAOFFEN Mujer Tacón Medio Zapatillas de Deporte Caña Baja...'
 sku: 'B087Q5GGYB-es'
 tags: [ 'zapatos', ]

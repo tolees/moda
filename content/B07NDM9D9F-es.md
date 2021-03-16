@@ -5,7 +5,7 @@ date: 2020-05-14 00:47:55
 image: 'https://m.media-amazon.com/images/I/41AF1V5U6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDM9D9F-es G-STAR RAW 3301 High Waist Flare Vaqueros Medium Aged...'
 sku: 'B07NDM9D9F-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-24 12:09:33
 image: 'https://m.media-amazon.com/images/I/416Nr9LZnsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKTFJVX-es Dickies Farnham Chaqueta Marrón X-Small Talla del...'
 sku: 'B07DKTFJVX-es'
 tags: [ 'chaqueta', ]

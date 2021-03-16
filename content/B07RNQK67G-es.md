@@ -5,7 +5,7 @@ date: 2020-05-21 12:32:54
 image: 'https://m.media-amazon.com/images/I/41b-uR+EzbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RNQK67G-es Sandalias para Mujer Verano 2019 Plataforma Cuña...'
 sku: 'B07RNQK67G-es'
 tags: [ 'sandalias','zapatos', ]

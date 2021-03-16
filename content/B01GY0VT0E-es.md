@@ -5,7 +5,7 @@ date: 2020-04-07 22:40:55
 image: 'https://m.media-amazon.com/images/I/312cv4+fzWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GY0VT0E-es Mercedes-Benz Sonnenbrille M7006 Gafas de sol Marrón Braun...'
 sku: 'B01GY0VT0E-es'
 tags: [ 'gafas', ]

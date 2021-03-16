@@ -5,7 +5,7 @@ date: 2020-05-26 13:34:44
 image: 'https://m.media-amazon.com/images/I/41zbG-FjiOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG7TFRW-es Pepe Jeans Elizabeth Pl401677 Chaqueta Oyster 805 Small...'
 sku: 'B07JG7TFRW-es'
 tags: [ 'chaqueta', ]

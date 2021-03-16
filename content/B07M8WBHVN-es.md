@@ -5,7 +5,7 @@ date: 2020-01-08 08:25:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mzx45mZaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8WBHVN-es Wrangler Texas Contrast Vaqueros Azul Warm Up 97b 33 W/ 30...'
 sku: 'B07M8WBHVN-es'
 tags: [ 'vaqueros', ]

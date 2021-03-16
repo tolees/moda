@@ -5,7 +5,7 @@ date: 2020-10-10 08:18:48
 image: 'https://m.media-amazon.com/images/I/41tFxkAlE3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015SGFI9S-es Havaianas Luna Sandalias para Mujer Dorado Rose Gold 35/36 EU'
 sku: 'B015SGFI9S-es'
 tags: [ 'sandalias', ]

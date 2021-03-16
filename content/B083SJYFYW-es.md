@@ -5,7 +5,7 @@ date: 2020-05-07 11:52:20
 image: 'https://m.media-amazon.com/images/I/41fHM7Mq6fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SJYFYW-es VVA Gafas de sol polarizadas para hombres Gafas de sol...'
 sku: 'B083SJYFYW-es'
 tags: [ 'gafas', ]

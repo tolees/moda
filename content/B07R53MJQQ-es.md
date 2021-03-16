@@ -5,7 +5,7 @@ date: 2020-06-09 06:26:55
 image: 'https://m.media-amazon.com/images/I/412-gJVlGNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R53MJQQ-es Scotch & Soda Skim-Objet D art Vaqueros Straight Azul...'
 sku: 'B07R53MJQQ-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-07-07 19:27:04
 image: 'https://m.media-amazon.com/images/I/41RfhzQuZZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLX89Z-es Geox D Sukie B Zapatillas para Mujer Azul Lt Blue C4003 39 EU'
 sku: 'B07STLX89Z-es'
 tags: [ 'geox', ]

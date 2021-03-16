@@ -5,7 +5,7 @@ date: 2020-08-27 17:40:58
 image: 'https://m.media-amazon.com/images/I/41KOR0COtnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086DRDZSH-es Zapatos de Seguridad para Mujer Zapatillas Zapatos de...'
 sku: 'B086DRDZSH-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-03-19 13:32:19
 image: 'https://m.media-amazon.com/images/I/31XGFpk8xYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSJQ5Z8-es Only Onlastrid Marie Coat Otw Abrigo Color Negro M para Mujer'
 sku: 'B07TSJQ5Z8-es'
 tags: [ 'abrigo', ]

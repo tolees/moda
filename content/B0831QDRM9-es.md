@@ -5,7 +5,7 @@ date: 2020-05-24 08:13:24
 image: 'https://m.media-amazon.com/images/I/31DUMMfq+kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831QDRM9-es Zapatilla Casual Cuero Mujer - Nicki White Blue Red 39'
 sku: 'B0831QDRM9-es'
 tags: [ 'zapatilla', ]

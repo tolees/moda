@@ -5,7 +5,7 @@ date: 2020-10-06 13:47:34
 image: 'https://m.media-amazon.com/images/I/313Mhr2QD9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3FDWCF-es Marca Amazon - find. Chaleco Acolchado Hombre Negro Black...'
 sku: 'B07R3FDWCF-es'
 tags: [ '-','chaleco','find.', ]

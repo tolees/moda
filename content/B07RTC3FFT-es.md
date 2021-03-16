@@ -5,7 +5,7 @@ date: 2020-03-06 14:18:06
 image: 'https://m.media-amazon.com/images/I/41mgUgLQUCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTC3FFT-es JACK & JONES Jormachine tee SS Crew Neck Camiseta Blanco...'
 sku: 'B07RTC3FFT-es'
 tags: [ 'camiseta', ]

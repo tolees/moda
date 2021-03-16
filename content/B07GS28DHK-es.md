@@ -5,7 +5,7 @@ date: 2020-01-11 11:09:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjTsQxXwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GS28DHK-es Timberland Newport Bay-Canvas Zapatillas Unisex Niños Azul...'
 sku: 'B07GS28DHK-es'
 tags: [ 'timberland', ]

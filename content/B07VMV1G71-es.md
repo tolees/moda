@@ -5,7 +5,7 @@ date: 2020-08-05 04:31:11
 image: 'https://m.media-amazon.com/images/I/418cmiYUNmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMV1G71-es Lee Daren Zip Fly Vaqueros Straight Azul Mid Stonewash 44...'
 sku: 'B07VMV1G71-es'
 tags: [ 'vaqueros', ]

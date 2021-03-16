@@ -5,7 +5,7 @@ date: 2020-03-30 09:56:05
 image: 'https://m.media-amazon.com/images/I/41Mp3vLEVTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBZHI75-es Tommy Hilfiger SS tee Print Top de pijama Weiß White 100...'
 sku: 'B01NBZHI75-es'
 tags: [ 'pijama', ]

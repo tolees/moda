@@ -5,7 +5,7 @@ date: 2020-03-14 14:38:28
 image: 'https://m.media-amazon.com/images/I/31RnkZYD43L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078TNW3B9-es PUMA Liga Jersey Camiseta Hombre Negro Black/White XL'
 sku: 'B078TNW3B9-es'
 tags: [ 'camiseta','jersey', ]

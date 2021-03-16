@@ -5,7 +5,7 @@ date: 2020-10-09 18:37:19
 image: 'https://m.media-amazon.com/images/I/41iDfmLmaaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ7XYK-es Geox J SPACECLUB Girl B Zapatillas para Niñas Rosa Antique...'
 sku: 'B07LFZ7XYK-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-09-26 15:19:52
 image: 'https://m.media-amazon.com/images/I/41Hk6N7-jzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NF9PYM-es Jack & Jones JJEJEANS tee SS Crew Neck Noos 20/21 Camiseta...'
 sku: 'B089NF9PYM-es'
 tags: [ 'camiseta', ]

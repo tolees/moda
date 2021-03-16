@@ -5,7 +5,7 @@ date: 2020-02-06 23:21:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yUVyufUpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K75QTZG-es Levi s SS tee Camiseta Colorblock Quiet Shade/White/Dress...'
 sku: 'B07K75QTZG-es'
 tags: [ 'camiseta', ]

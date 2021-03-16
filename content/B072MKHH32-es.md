@@ -5,7 +5,7 @@ date: 2020-05-31 09:29:11
 image: 'https://m.media-amazon.com/images/I/415tQIKKcqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MKHH32-es Marca Amazon - find. Camisa Hombre Azul Navy S Label: S'
 sku: 'B072MKHH32-es'
 tags: [ '-','camisa','find.', ]

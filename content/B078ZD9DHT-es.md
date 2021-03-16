@@ -5,7 +5,7 @@ date: 2020-08-17 20:19:08
 image: 'https://m.media-amazon.com/images/I/41ZuRQl2yDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZD9DHT-es CIVO Reloj Negro Ultra Fino para Hombre Minimalista Moda...'
 sku: 'B078ZD9DHT-es'
 tags: [ 'moda', ]

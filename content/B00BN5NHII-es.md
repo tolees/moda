@@ -5,7 +5,7 @@ date: 2020-09-28 09:22:39
 image: 'https://m.media-amazon.com/images/I/41r+HUn2QFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN5NHII-es Pepe Jeans Original Stretch Camiseta Azul Navy 595 Large...'
 sku: 'B00BN5NHII-es'
 tags: [ 'camiseta', ]

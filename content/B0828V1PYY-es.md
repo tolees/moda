@@ -5,7 +5,7 @@ date: 2020-01-19 13:36:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rJwSMqEcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0828V1PYY-es Plantillas calentadas calentadores de pies plantillas de...'
 sku: 'B0828V1PYY-es'
 tags: [ 'zapatos', ]

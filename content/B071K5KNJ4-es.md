@@ -5,7 +5,7 @@ date: 2020-03-12 15:20:07
 image: 'https://m.media-amazon.com/images/I/31MqUU9JEoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071K5KNJ4-es Lee Logo tee Camiseta Blanco White Ai12 XX-Large para Hombre'
 sku: 'B071K5KNJ4-es'
 tags: [ 'camiseta', ]

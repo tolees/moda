@@ -5,7 +5,7 @@ date: 2020-04-07 15:26:20
 image: 'https://m.media-amazon.com/images/I/41m+jXOLj6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZQ3YQB-es Levi s The Perfect Tee Camiseta Mujer Blanco New Red Box...'
 sku: 'B07CZQ3YQB-es'
 tags: [ 'camiseta', ]

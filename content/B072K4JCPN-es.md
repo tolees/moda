@@ -5,7 +5,7 @@ date: 2020-08-30 22:36:41
 image: 'https://m.media-amazon.com/images/I/31qfS2bOXJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K4JCPN-es Teva W Hurricane Xlt2 Sandalias de Punta Descubierta para...'
 sku: 'B072K4JCPN-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-06-11 15:52:17
 image: 'https://m.media-amazon.com/images/I/41X1xpcQspL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS86JRK-es Tommy Hilfiger Bella Hybrid LW Down Jacket Chaqueta Rosa...'
 sku: 'B07RS86JRK-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-09 03:38:08
 image: 'https://m.media-amazon.com/images/I/41+hRBY3XNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJP4L2N-es Clarks Annadel Parker Sandalias de Talón Abierto para...'
 sku: 'B07TJP4L2N-es'
 tags: [ 'sandalias', ]

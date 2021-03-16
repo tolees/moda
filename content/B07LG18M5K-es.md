@@ -5,7 +5,7 @@ date: 2020-01-09 15:56:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVhaemIhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG18M5K-es Geox J Android Girl A Zapatillas para Niñas Grau Grey/Pink...'
 sku: 'B07LG18M5K-es'
 tags: [ 'geox', ]

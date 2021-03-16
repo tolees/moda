@@ -5,7 +5,7 @@ date: 2020-06-22 11:39:58
 image: 'https://m.media-amazon.com/images/I/41SgdRHgAHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGQ8L2F-es Amazon Essentials Camiseta Cuello en V y Manga Corta....'
 sku: 'B07YGQ8L2F-es'
 tags: [ 'camiseta', ]

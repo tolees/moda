@@ -5,7 +5,7 @@ date: 2020-04-10 15:15:34
 image: 'https://m.media-amazon.com/images/I/41XtgFMrg8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGYWND3-es El Naturalista N5311 Iris Coral Botines para Mujer Negro...'
 sku: 'B07NGYWND3-es'
 tags: [ 'botines', ]

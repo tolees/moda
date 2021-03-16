@@ -5,7 +5,7 @@ date: 2020-08-30 02:40:45
 image: 'https://m.media-amazon.com/images/I/518WEH2n+KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GILSNY4-es Calvin Klein 2pk Trunk Bóxer Negro Black Pr 002 140-152...'
 sku: 'B01GILSNY4-es'
 tags: [ 'bóxer', ]

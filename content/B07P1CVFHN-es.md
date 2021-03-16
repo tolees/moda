@@ -5,7 +5,7 @@ date: 2020-07-01 11:09:08
 image: 'https://m.media-amazon.com/images/I/51GeUEw9+2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P1CVFHN-es Monedero Movom Cactus'
 sku: 'B07P1CVFHN-es'
 tags: [ 'monedero', ]

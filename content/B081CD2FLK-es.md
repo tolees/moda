@@ -5,7 +5,7 @@ date: 2020-02-05 13:09:55
 image: 'https://m.media-amazon.com/images/I/41XpjuwRTdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CD2FLK-es Geographical Norway Chaqueta Hombre BOKER Negro XL'
 sku: 'B081CD2FLK-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-17 14:07:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CXr8%2B743L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071K5KCQ5-es Lee Logo tee Camiseta Blanco White Ai12 Medium para Hombre'
 sku: 'B071K5KCQ5-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-23 11:50:41
 image: 'https://m.media-amazon.com/images/I/41XNJOeRRFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLNCH7F-es David Jones - Pequeño Bolso Bandolera Cadena Mujer -...'
 sku: 'B07FLNCH7F-es'
 tags: [ 'bolso','moda', ]

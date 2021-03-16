@@ -5,7 +5,7 @@ date: 2020-07-31 08:28:42
 image: 'https://m.media-amazon.com/images/I/41jNDatDqYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC2HT3C-es Columbia Lay D Down II Chaqueta Mujer Negro Black 011 M'
 sku: 'B07JC2HT3C-es'
 tags: [ 'chaqueta', ]

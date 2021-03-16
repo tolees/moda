@@ -5,7 +5,7 @@ date: 2020-06-05 17:53:16
 image: 'https://m.media-amazon.com/images/I/41Y9z4aCfkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9S5FL8-es edc by Esprit 129cc2g003 Chaqueta Beige Beige 270 Small...'
 sku: 'B07Y9S5FL8-es'
 tags: [ 'chaqueta', ]

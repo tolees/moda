@@ -5,7 +5,7 @@ date: 2020-01-18 08:25:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vo9UG5N-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBC8NSR-es Wrangler Texas Vaqueros Marrón After Dark X9c W36/L34...'
 sku: 'B07PBC8NSR-es'
 tags: [ 'vaqueros', ]

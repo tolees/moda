@@ -5,7 +5,7 @@ date: 2020-09-06 07:05:32
 image: 'https://m.media-amazon.com/images/I/41ZLLOLl6vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07864WSDD-es Puma Liga Core H Camiseta de Manga Corta Hombre...'
 sku: 'B07864WSDD-es'
 tags: [ 'camiseta', ]

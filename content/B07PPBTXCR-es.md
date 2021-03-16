@@ -5,7 +5,7 @@ date: 2020-07-01 17:56:49
 image: 'https://m.media-amazon.com/images/I/51W28yXX4dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPBTXCR-es 6 PCS Moño Pelo Accesorios Moda Natural Francesa Twists...'
 sku: 'B07PPBTXCR-es'
 tags: [ 'moda', ]

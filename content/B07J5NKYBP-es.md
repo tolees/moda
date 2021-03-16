@@ -5,7 +5,7 @@ date: 2020-07-06 08:04:41
 image: 'https://m.media-amazon.com/images/I/31erMb+M1AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5NKYBP-es Marca Amazon - find. Wedge Close Toe Canvas Espadrille...'
 sku: 'B07J5NKYBP-es'
 tags: [ '-','find.','sandalias', ]

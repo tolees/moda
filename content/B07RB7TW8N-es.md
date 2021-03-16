@@ -5,7 +5,7 @@ date: 2020-01-21 13:50:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bTLdi2e8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB7TW8N-es Columbia Pike Lake Chaqueta Mujer Verde Olive Green S'
 sku: 'B07RB7TW8N-es'
 tags: [ 'chaqueta', ]

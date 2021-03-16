@@ -5,7 +5,7 @@ date: 2020-01-24 20:14:22
 image: 'https://m.media-amazon.com/images/I/41uQpA0zE-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XC8TDWX-es Pepe Jeans Spike Vaqueros Azul Fonce Denim H05 W33/L36...'
 sku: 'B06XC8TDWX-es'
 tags: [ 'vaqueros', ]

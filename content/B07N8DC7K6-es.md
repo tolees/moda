@@ -5,7 +5,7 @@ date: 2020-01-28 20:22:42
 image: 'https://m.media-amazon.com/images/I/41EcCeXFWiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8DC7K6-es JACK & JONES NOS Jjialvin Jjjacket Sa 001 Noos Chaqueta...'
 sku: 'B07N8DC7K6-es'
 tags: [ 'chaqueta', ]

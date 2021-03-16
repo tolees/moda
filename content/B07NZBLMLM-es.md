@@ -5,7 +5,7 @@ date: 2020-06-13 07:42:37
 image: 'https://m.media-amazon.com/images/I/31GO0gspZeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZBLMLM-es Mujer Vestido Años 50 Mangas 3/4 con Volantes para Cóctel...'
 sku: 'B07NZBLMLM-es'
 tags: [ 'vestido', ]

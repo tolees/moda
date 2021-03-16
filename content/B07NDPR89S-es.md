@@ -5,7 +5,7 @@ date: 2020-02-06 20:29:10
 image: 'https://m.media-amazon.com/images/I/41dxQl2JTdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPR89S-es G-STAR RAW Core Super Slim Camisa Vaquera Multicolor...'
 sku: 'B07NDPR89S-es'
 tags: [ 'camisa', ]

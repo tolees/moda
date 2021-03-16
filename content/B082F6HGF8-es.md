@@ -5,7 +5,7 @@ date: 2020-06-12 17:45:51
 image: 'https://m.media-amazon.com/images/I/41-BbDKabpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082F6HGF8-es Oihxse Mirror Funda Compatible con iPhone 11 Pro Espejo de...'
 sku: 'B082F6HGF8-es'
 tags: [ 'moda', ]

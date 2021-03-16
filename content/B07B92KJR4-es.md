@@ -5,7 +5,7 @@ date: 2020-06-23 14:51:43
 image: 'https://m.media-amazon.com/images/I/31Mpw98Xz4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B92KJR4-es Clarks Dalia Rose Zapatos de Tacón para Mujer Beige Nude...'
 sku: 'B07B92KJR4-es'
 tags: [ 'zapatos', ]

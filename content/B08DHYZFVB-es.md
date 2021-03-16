@@ -5,7 +5,7 @@ date: 2020-08-28 18:45:47
 image: 'https://m.media-amazon.com/images/I/41kVyggTF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHYZFVB-es LvShui Camiseta BTS Unisex Manga Corta Cuello Redondo...'
 sku: 'B08DHYZFVB-es'
 tags: [ 'camiseta', ]

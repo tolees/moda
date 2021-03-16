@@ -5,7 +5,7 @@ date: 2020-07-26 17:21:51
 image: 'https://m.media-amazon.com/images/I/313oFrHuARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPR8YLP-es Tommy Hilfiger Essential Original tee S/s Camiseta Azul...'
 sku: 'B07VPR8YLP-es'
 tags: [ 'camiseta', ]

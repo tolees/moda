@@ -5,7 +5,7 @@ date: 2020-03-13 06:01:49
 image: 'https://m.media-amazon.com/images/I/414icOQjgWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ET4DZIG-es Helly Hansen W Aden Down Parka Mujer Black M'
 sku: 'B01ET4DZIG-es'
 tags: [ 'parka', ]

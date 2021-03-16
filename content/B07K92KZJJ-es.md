@@ -5,7 +5,7 @@ date: 2020-07-25 08:07:04
 image: 'https://m.media-amazon.com/images/I/31Q2amQDqfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K92KZJJ-es Crocs Classic Clog K Zuecos Unisex Niños Rosa Pink...'
 sku: 'B07K92KZJJ-es'
 tags: [ 'zuecos', ]

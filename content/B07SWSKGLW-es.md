@@ -5,7 +5,7 @@ date: 2020-09-08 15:15:57
 image: 'https://m.media-amazon.com/images/I/41qV5mcyrXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWSKGLW-es Geox J Alonisso Boy D Zapatillas Altas para Niños Azul...'
 sku: 'B07SWSKGLW-es'
 tags: [ 'geox', ]

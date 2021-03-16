@@ -5,7 +5,7 @@ date: 2020-05-12 21:34:08
 image: 'https://m.media-amazon.com/images/I/416zgEqya+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCFC36S-es Columbia Carson Pass II Chaqueta Impermeable Mujer Verde...'
 sku: 'B07JCFC36S-es'
 tags: [ 'chaqueta', ]

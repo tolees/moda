@@ -5,7 +5,7 @@ date: 2020-07-25 12:18:45
 image: 'https://m.media-amazon.com/images/I/31XZMrGuPbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WTV7SQ-es Quiksilver Molokai-Flip-Flops For Men Zapatos de Playa y...'
 sku: 'B078WTV7SQ-es'
 tags: [ 'zapatos', ]

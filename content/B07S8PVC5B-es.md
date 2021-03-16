@@ -5,7 +5,7 @@ date: 2021-03-16 15:24:31
 image: 'https://m.media-amazon.com/images/I/31mjTfjpVCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8PVC5B-es Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros...'
 sku: 'B07S8PVC5B-es'
 tags: [ 'only','vaqueros', ]

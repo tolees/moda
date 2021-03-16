@@ -5,7 +5,7 @@ date: 2020-05-14 09:09:23
 image: 'https://m.media-amazon.com/images/I/41oVbfpOVrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087YY9TV8-es Conjunto De Bikini Acolchado De Malla Cruzada para Mujer...'
 sku: 'B087YY9TV8-es'
 tags: [ 'bikini', ]

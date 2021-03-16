@@ -5,7 +5,7 @@ date: 2020-06-24 07:46:13
 image: 'https://m.media-amazon.com/images/I/51s8yNOMKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG2WDXT-es Zapatillas de Deportivos de Running para Hombre Gimnasia...'
 sku: 'B07XG2WDXT-es'
 tags: [ 'zapatos', ]

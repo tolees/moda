@@ -5,7 +5,7 @@ date: 2020-01-04 13:05:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416xGpYYCVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCBPJNF-es Pepe Jeans Elia Camiseta Negro Black 999 Medium para Mujer'
 sku: 'B07NCBPJNF-es'
 tags: [ 'camiseta', ]

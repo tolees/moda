@@ -5,7 +5,7 @@ date: 2020-08-19 09:22:27
 image: 'https://m.media-amazon.com/images/I/41ydxQAxEFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AWW7S7Y-es Gildan Soft Style V-Neck T Shirt Camiseta Negro M para Hombre'
 sku: 'B00AWW7S7Y-es'
 tags: [ 'camiseta', ]

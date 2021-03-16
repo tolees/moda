@@ -5,7 +5,7 @@ date: 2020-07-14 02:12:33
 image: 'https://m.media-amazon.com/images/I/41hKAxXB7UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGX9SS-es Geox D Tabelya A Zapatillas para Mujer Negro Black/Gun...'
 sku: 'B07SQGX9SS-es'
 tags: [ 'geox', ]

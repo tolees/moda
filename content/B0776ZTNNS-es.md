@@ -5,7 +5,7 @@ date: 2020-04-25 16:34:01
 image: 'https://m.media-amazon.com/images/I/41KTrRDfhkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776ZTNNS-es Tommy Hilfiger Original Jersey Camiseta Gris Lt Grey Htr...'
 sku: 'B0776ZTNNS-es'
 tags: [ 'camiseta','jersey', ]

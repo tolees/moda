@@ -5,7 +5,7 @@ date: 2020-03-25 08:03:49
 image: 'https://m.media-amazon.com/images/I/518HjLiwXNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YMLQKG-es Boland 04241 Diadema Nilo Reina Disfraz de Vestido - Talla...'
 sku: 'B071YMLQKG-es'
 tags: [ 'vestido', ]

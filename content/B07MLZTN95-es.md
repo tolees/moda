@@ -5,7 +5,7 @@ date: 2020-04-16 13:31:08
 image: 'https://m.media-amazon.com/images/I/41oZMQTbosL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLZTN95-es Chaleco de mujer con calefacción USB Chaqueta térmica de 5...'
 sku: 'B07MLZTN95-es'
 tags: [ 'chaleco','chaqueta', ]

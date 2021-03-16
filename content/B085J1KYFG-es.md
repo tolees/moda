@@ -5,7 +5,7 @@ date: 2020-04-25 14:52:17
 image: 'https://m.media-amazon.com/images/I/41evmB65QIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085J1KYFG-es Sandalias de Mujer con Cuna de Yute Pala Trenzada y Correa...'
 sku: 'B085J1KYFG-es'
 tags: [ 'sandalias', ]

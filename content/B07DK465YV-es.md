@@ -5,7 +5,7 @@ date: 2020-06-27 00:46:24
 image: 'https://m.media-amazon.com/images/I/41elO-tSRuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK465YV-es Geox Tapuz Bebe Sandalia Niño Transpirantes para Bebés...'
 sku: 'B07DK465YV-es'
 tags: [ 'geox', ]

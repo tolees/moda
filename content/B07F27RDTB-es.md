@@ -5,7 +5,7 @@ date: 2020-04-27 01:40:19
 image: 'https://m.media-amazon.com/images/I/41IWgwIjfPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F27RDTB-es Levi s 510 Skinny Fit Vaqueros para Hombre Negro Stylo Adv...'
 sku: 'B07F27RDTB-es'
 tags: [ 'vaqueros', ]

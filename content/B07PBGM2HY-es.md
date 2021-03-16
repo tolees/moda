@@ -5,7 +5,7 @@ date: 2020-10-03 05:53:02
 image: 'https://m.media-amazon.com/images/I/41vE+wEcVHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBGM2HY-es Marca Amazon - find. Vaqueros Rectos de Tiro Medio Mujer...'
 sku: 'B07PBGM2HY-es'
 tags: [ '-','find.','vaqueros', ]

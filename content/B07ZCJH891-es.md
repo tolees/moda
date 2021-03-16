@@ -5,7 +5,7 @@ date: 2020-01-05 13:35:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iyUKO%2B2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCJH891-es seenlast Gafas de Natación para Hombres Mujeres Antiniebla...'
 sku: 'B07ZCJH891-es'
 tags: [ 'gafas', ]

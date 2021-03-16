@@ -5,7 +5,7 @@ date: 2020-07-13 12:04:24
 image: 'https://m.media-amazon.com/images/I/51J8+XqeLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0838S2WZZ-es AMZTM Dinosaurio Camiseta de Cumpleaños Bebé Cumpleaños...'
 sku: 'B0838S2WZZ-es'
 tags: [ 'camiseta', ]

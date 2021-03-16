@@ -5,7 +5,7 @@ date: 2020-01-28 16:44:45
 image: 'https://m.media-amazon.com/images/I/41FyQpHbIQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K73L6DB-es Levi s 511 Slim Fit Vaqueros Aegean Adapt 32W / 36L para...'
 sku: 'B07K73L6DB-es'
 tags: [ 'vaqueros', ]

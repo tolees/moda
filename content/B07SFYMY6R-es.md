@@ -5,7 +5,7 @@ date: 2020-09-30 21:26:57
 image: 'https://m.media-amazon.com/images/I/31itjH9ab3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFYMY6R-es Levi s June Batwing Chanclas para Hombre Negro R Black 59...'
 sku: 'B07SFYMY6R-es'
 tags: [ 'chanclas', ]

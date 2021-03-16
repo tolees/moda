@@ -5,7 +5,7 @@ date: 2020-08-17 00:32:33
 image: 'https://m.media-amazon.com/images/I/31RGK3V0HRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGML6LL-es Love Moschino T-Shirt Iridescent Logo Box Print Camiseta...'
 sku: 'B07VGML6LL-es'
 tags: [ 'camiseta', ]

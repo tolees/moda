@@ -5,7 +5,7 @@ date: 2020-07-28 16:11:25
 image: 'https://m.media-amazon.com/images/I/4112jtl04QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19NQH4-es NAVARCH Mujeres Enfermera Conjunto De Lencería Tentación...'
 sku: 'B07N19NQH4-es'
 tags: [ 'vestido', ]

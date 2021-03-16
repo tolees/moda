@@ -5,7 +5,7 @@ date: 2020-09-27 15:11:28
 image: 'https://m.media-amazon.com/images/I/41xTEV+kEVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9RZ8NL-es Superdry Danika Boho Top Blusa Azul Richest Navy Zrn XXS...'
 sku: 'B07Q9RZ8NL-es'
 tags: [ 'blusa', ]

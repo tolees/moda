@@ -5,7 +5,7 @@ date: 2020-01-28 16:56:43
 image: 'https://m.media-amazon.com/images/I/41QK-Y5MQWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2DPY27-es Esprit 089ee2g006 Chaqueta Bomber Negro Black 001 X-Large...'
 sku: 'B07S2DPY27-es'
 tags: [ 'chaqueta', ]

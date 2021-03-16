@@ -5,7 +5,7 @@ date: 2020-09-18 13:54:16
 image: 'https://m.media-amazon.com/images/I/31+V2-lLnAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814NGBY8-es Largas Camisetas Vestido Mujer Verano Sexy Encaje Algodón...'
 sku: 'B0814NGBY8-es'
 tags: [ 'moda','vestido', ]

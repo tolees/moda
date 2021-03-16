@@ -5,7 +5,7 @@ date: 2020-03-28 19:55:14
 image: 'https://m.media-amazon.com/images/I/51YIqiwqqtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDMTF8-es Levi s Type 3 Chaqueta Vaquera Azul Firework Sherpa...'
 sku: 'B07TKDMTF8-es'
 tags: [ 'chaqueta', ]

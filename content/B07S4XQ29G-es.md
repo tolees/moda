@@ -5,7 +5,7 @@ date: 2020-03-24 20:36:20
 image: 'https://m.media-amazon.com/images/I/31pHrxCjHAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4XQ29G-es Asics Classic CT Zapatos de Baloncesto para Hombre Blanco...'
 sku: 'B07S4XQ29G-es'
 tags: [ 'zapatos', ]

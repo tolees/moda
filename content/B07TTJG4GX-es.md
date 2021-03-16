@@ -5,7 +5,7 @@ date: 2020-08-13 10:34:48
 image: 'https://m.media-amazon.com/images/I/41twa7-pWxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTJG4GX-es Skechers Reggae Cup-oh Snap Sandalias de Punta Descubierta...'
 sku: 'B07TTJG4GX-es'
 tags: [ 'sandalias', ]

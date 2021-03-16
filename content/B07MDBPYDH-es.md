@@ -5,7 +5,7 @@ date: 2020-02-03 22:01:27
 image: 'https://m.media-amazon.com/images/I/318tqXSP5FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDBPYDH-es Lee Austin Vaqueros Tapered Negro Moto Black HL 31W / 34L...'
 sku: 'B07MDBPYDH-es'
 tags: [ 'vaqueros', ]

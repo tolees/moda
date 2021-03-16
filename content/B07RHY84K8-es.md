@@ -5,7 +5,7 @@ date: 2020-03-25 17:58:38
 image: 'https://m.media-amazon.com/images/I/41XltWYa1wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHY84K8-es New Balance 520v6 Zapatos para Correr para Mujer Azul Blue...'
 sku: 'B07RHY84K8-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-31 09:13:20
 image: 'https://m.media-amazon.com/images/I/412rCBNpvrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFL7ETS-es Under Armour HG Armour 2.0 Comp Short Pantalón Corto...'
 sku: 'B01FFL7ETS-es'
 tags: [ 'pantalón', ]

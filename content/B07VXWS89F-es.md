@@ -5,7 +5,7 @@ date: 2020-08-20 11:51:16
 image: 'https://m.media-amazon.com/images/I/41zgnKW2nGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXWS89F-es Pepe Jeans Golders Camiseta Naranja Sundown 166 XX-Large...'
 sku: 'B07VXWS89F-es'
 tags: [ 'camiseta', ]

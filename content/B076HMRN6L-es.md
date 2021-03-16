@@ -5,7 +5,7 @@ date: 2020-05-21 07:57:21
 image: 'https://m.media-amazon.com/images/I/31sv5CBohhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HMRN6L-es adidas Core 18 T Camiseta Hombre Verde Bold Green/Black M'
 sku: 'B076HMRN6L-es'
 tags: [ 'camiseta', ]

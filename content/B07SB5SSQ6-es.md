@@ -5,7 +5,7 @@ date: 2020-06-25 11:22:03
 image: 'https://m.media-amazon.com/images/I/41IE4wv1ZML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB5SSQ6-es AOQUSSQOA Mujer Conjuntos de Bikinis para Mujer Bikini de...'
 sku: 'B07SB5SSQ6-es'
 tags: [ 'bikini','falda', ]

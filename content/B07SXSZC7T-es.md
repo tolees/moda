@@ -5,7 +5,7 @@ date: 2020-06-28 11:01:55
 image: 'https://m.media-amazon.com/images/I/519QPENgHWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXSZC7T-es Geox J Borealis Boy B Sandalias Punta Cerrada para Niños...'
 sku: 'B07SXSZC7T-es'
 tags: [ 'geox','sandalias', ]

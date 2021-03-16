@@ -5,7 +5,7 @@ date: 2020-05-30 19:27:39
 image: 'https://m.media-amazon.com/images/I/514xYuP+w8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JY7ZXM-es YAZILIND Moda joyería Exquisita Personalidad Simple...'
 sku: 'B079JY7ZXM-es'
 tags: [ 'moda', ]

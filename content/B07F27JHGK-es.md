@@ -5,7 +5,7 @@ date: 2020-02-17 19:16:36
 image: 'https://m.media-amazon.com/images/I/41N4Vk6gh+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F27JHGK-es Levi s Big and Tall B&t Graphic tee Camiseta Blanco Big...'
 sku: 'B07F27JHGK-es'
 tags: [ 'camiseta', ]

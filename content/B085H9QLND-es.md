@@ -5,7 +5,7 @@ date: 2020-08-28 05:12:23
 image: 'https://m.media-amazon.com/images/I/41UkxRqlseL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085H9QLND-es Donpapa Bragas para Mujer Pack sin Costuras Invisible...'
 sku: 'B085H9QLND-es'
 tags: [ 'bikini', ]

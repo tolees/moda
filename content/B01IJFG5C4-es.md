@@ -5,7 +5,7 @@ date: 2020-07-22 17:46:47
 image: 'https://m.media-amazon.com/images/I/316k66GeW6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IJFG5C4-es VNOX Hombres de Acero Inoxidable Sencilla Cruz Collar con...'
 sku: 'B01IJFG5C4-es'
 tags: [ 'collar', ]

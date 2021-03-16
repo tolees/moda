@@ -5,7 +5,7 @@ date: 2020-08-07 15:13:33
 image: 'https://m.media-amazon.com/images/I/41+bf5JoxRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZCBG67-es Tommy Hilfiger Core Stretch Slim Cneck tee Camiseta Gris...'
 sku: 'B073ZCBG67-es'
 tags: [ 'camiseta', ]

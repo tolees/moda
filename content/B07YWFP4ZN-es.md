@@ -5,7 +5,7 @@ date: 2020-04-27 07:34:12
 image: 'https://m.media-amazon.com/images/I/41sIU92e1nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWFP4ZN-es SKYSPER Ropa Interior Térmica Hombre Conjuntos Térmicos...'
 sku: 'B07YWFP4ZN-es'
 tags: [ 'camiseta', ]

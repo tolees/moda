@@ -5,7 +5,7 @@ date: 2020-01-17 14:35:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pnJkehA6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L7CMJCG-es JACK & JONES Jjitim Jjoriginal Am 814 Vaqueros Slim Azul...'
 sku: 'B07L7CMJCG-es'
 tags: [ 'vaqueros', ]

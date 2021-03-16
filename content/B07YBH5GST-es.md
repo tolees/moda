@@ -5,7 +5,7 @@ date: 2020-08-10 18:35:41
 image: 'https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBH5GST-es Vans Colorblock tee Camiseta Multicolor Sulphur...'
 sku: 'B07YBH5GST-es'
 tags: [ 'camiseta', ]

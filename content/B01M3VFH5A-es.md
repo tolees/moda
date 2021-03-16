@@ -5,7 +5,7 @@ date: 2020-08-08 12:11:23
 image: 'https://m.media-amazon.com/images/I/31qt4dnNMwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3VFH5A-es Lacoste Sport SH7609 Sudadera con Capucha Azul...'
 sku: 'B01M3VFH5A-es'
 tags: [ 'sudadera', ]

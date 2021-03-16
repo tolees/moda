@@ -5,7 +5,7 @@ date: 2020-06-20 14:57:21
 image: 'https://m.media-amazon.com/images/I/41bDnBvwhUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGW5WKP-es Biwat Plantillas de Zapatos con Tacón Alto T-forma...'
 sku: 'B07DGW5WKP-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-09-20 15:43:14
 image: 'https://m.media-amazon.com/images/I/41oKzqqSJvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGRT7TZ-es Desigual - Bolso de mano de Sintético Mujer color Negro...'
 sku: 'B07VGRT7TZ-es'
 tags: [ 'bolso', ]

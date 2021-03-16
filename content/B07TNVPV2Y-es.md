@@ -5,7 +5,7 @@ date: 2020-09-17 11:59:32
 image: 'https://m.media-amazon.com/images/I/31uXV3gOH0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNVPV2Y-es Clarks Hero Walk Zapatos de Cordones Derby Blanco White...'
 sku: 'B07TNVPV2Y-es'
 tags: [ 'zapatos', ]

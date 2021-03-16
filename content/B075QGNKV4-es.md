@@ -5,7 +5,7 @@ date: 2020-05-02 03:30:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nMEaK3HGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QGNKV4-es MERAKI Vaqueros Skinny Hombre Azul Light Blue W30/L32'
 sku: 'B075QGNKV4-es'
 tags: [ 'meraki','vaqueros', ]

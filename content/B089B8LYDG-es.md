@@ -5,7 +5,7 @@ date: 2020-06-23 07:20:25
 image: 'https://m.media-amazon.com/images/I/51zwZKqPTCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089B8LYDG-es CARPISA ® Bolso cesta - MANDEL'
 sku: 'B089B8LYDG-es'
 tags: [ 'bolso', ]

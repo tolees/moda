@@ -5,7 +5,7 @@ date: 2020-06-02 04:16:03
 image: 'https://m.media-amazon.com/images/I/41qF9COaE4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZSXY52-es adidas Tiro19 PES Jkty Chaqueta de Deporte Unisex niños...'
 sku: 'B07JZSXY52-es'
 tags: [ 'chaqueta', ]

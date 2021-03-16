@@ -5,7 +5,7 @@ date: 2020-01-12 02:33:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41533N0bNOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WRR8VBZ-es Gant Stretch Oxford-Solid Shirt Blusa Rosa Light Pink 662...'
 sku: 'B06WRR8VBZ-es'
 tags: [ 'blusa', ]

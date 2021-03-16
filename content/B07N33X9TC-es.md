@@ -5,7 +5,7 @@ date: 2020-02-06 23:30:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vF3MG5zXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N33X9TC-es IRIS & LILLY BELK015M7 Tanga Multicolour...'
 sku: 'B07N33X9TC-es'
 tags: [ '&','iris','lilly', ]

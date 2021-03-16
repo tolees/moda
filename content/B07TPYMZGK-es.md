@@ -5,7 +5,7 @@ date: 2020-08-08 08:54:57
 image: 'https://m.media-amazon.com/images/I/41VOEKSu2QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPYMZGK-es Clarks Willow Glad Sandalias de Gladiador para Mujer Negro...'
 sku: 'B07TPYMZGK-es'
 tags: [ 'sandalias', ]

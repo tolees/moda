@@ -5,7 +5,7 @@ date: 2020-09-10 15:45:05
 image: 'https://m.media-amazon.com/images/I/41njZV+4fxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BONZ8IA-es ECCO Soft 2.0 Zapatos de Cordones Derby para Mujer Negro...'
 sku: 'B01BONZ8IA-es'
 tags: [ 'zapatos', ]

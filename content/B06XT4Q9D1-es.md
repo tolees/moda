@@ -5,7 +5,7 @@ date: 2020-06-26 16:33:44
 image: 'https://m.media-amazon.com/images/I/51RyPCY1fpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XT4Q9D1-es YAZILIND 18K joyeria plateada oro colorido cristal Cubic...'
 sku: 'B06XT4Q9D1-es'
 tags: [ 'moda', ]

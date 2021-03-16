@@ -5,7 +5,7 @@ date: 2020-01-08 13:41:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41L0tHVcixL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SHY4L7O-es Bogner Fire Ice Hombres Chaqueta Azul Azul/Azul Oscuro...'
 sku: 'B00SHY4L7O-es'
 tags: [ 'chaqueta', ]

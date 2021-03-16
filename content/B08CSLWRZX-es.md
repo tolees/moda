@@ -5,7 +5,7 @@ date: 2020-08-17 19:50:24
 image: 'https://m.media-amazon.com/images/I/41aNP5ejttL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CSLWRZX-es ISTON - Maquinilla de afeitar eléctrica para mujer...'
 sku: 'B08CSLWRZX-es'
 tags: [ 'bikini', ]

@@ -5,7 +5,7 @@ date: 2020-09-29 21:55:40
 image: 'https://m.media-amazon.com/images/I/41cWL5EjYVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085T8QYN1-es Gafas de Natación Profesional Anti Niebla Sin Fugas...'
 sku: 'B085T8QYN1-es'
 tags: [ 'gafas', ]

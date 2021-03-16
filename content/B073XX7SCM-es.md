@@ -5,7 +5,7 @@ date: 2020-03-02 04:29:16
 image: 'https://m.media-amazon.com/images/I/419o04+xSaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XX7SCM-es The North Face Jacket Chaqueta Trevail Mujer Negro TNF...'
 sku: 'B073XX7SCM-es'
 tags: [ 'chaqueta', ]

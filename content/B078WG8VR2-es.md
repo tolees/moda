@@ -5,7 +5,7 @@ date: 2020-05-28 06:29:50
 image: 'https://m.media-amazon.com/images/I/41y6PPAzztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WG8VR2-es The North Face Cyclone 2 HDY - Chaqueta con Capucha Hombre...'
 sku: 'B078WG8VR2-es'
 tags: [ 'chaqueta', ]

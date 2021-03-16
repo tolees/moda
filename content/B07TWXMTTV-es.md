@@ -5,7 +5,7 @@ date: 2020-04-25 18:45:19
 image: 'https://m.media-amazon.com/images/I/41i3uZXUGDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWXMTTV-es Women s Secret The Lion King LK DS Life PJ FR Conjuntos de...'
 sku: 'B07TWXMTTV-es'
 tags: [ 'pijama', ]

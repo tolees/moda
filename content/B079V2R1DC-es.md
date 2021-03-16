@@ -5,7 +5,7 @@ date: 2020-01-07 17:05:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JOwf7TSJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079V2R1DC-es Wrangler Greensboro Regular Jeans Vaqueros Azul 34W / 30L...'
 sku: 'B079V2R1DC-es'
 tags: [ 'vaqueros', ]

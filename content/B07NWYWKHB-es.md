@@ -5,7 +5,7 @@ date: 2020-02-12 19:27:54
 image: 'https://m.media-amazon.com/images/I/4163+cM4DWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWYWKHB-es Bolso de viaje 52 cm Pepe Jeans Ason'
 sku: 'B07NWYWKHB-es'
 tags: [ 'bolso', ]

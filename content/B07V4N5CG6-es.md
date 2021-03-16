@@ -5,7 +5,7 @@ date: 2020-08-09 15:36:24
 image: 'https://m.media-amazon.com/images/I/41j4bBsdqFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4N5CG6-es Tommy Hilfiger Basic Opened Toe Mid Wedge Sandalias con...'
 sku: 'B07V4N5CG6-es'
 tags: [ 'sandalias', ]

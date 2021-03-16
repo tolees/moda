@@ -5,7 +5,7 @@ date: 2020-08-25 13:47:24
 image: 'https://m.media-amazon.com/images/I/41FI6vc7HJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6WF4J9-es Hi-Tec Ula Raft Sandalias Deportivas para Hombre Amarillo...'
 sku: 'B07Z6WF4J9-es'
 tags: [ 'sandalias', ]

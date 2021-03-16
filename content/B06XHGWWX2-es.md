@@ -5,7 +5,7 @@ date: 2020-01-17 23:24:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mURbcOAsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHGWWX2-es Helly Hansen HH LIFA 1/2 Zip Camiseta Técnica Lana Merino...'
 sku: 'B06XHGWWX2-es'
 tags: [ 'camiseta', ]

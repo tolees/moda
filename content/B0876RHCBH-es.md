@@ -5,7 +5,7 @@ date: 2020-04-17 14:03:39
 image: 'https://m.media-amazon.com/images/I/51HMfvrkZjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876RHCBH-es RAZAMAZA Mujer Casual Tacón Ancho Zapatos de Mulas...'
 sku: 'B0876RHCBH-es'
 tags: [ 'sandalias','vestido','zapatos', ]

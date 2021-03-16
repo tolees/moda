@@ -5,7 +5,7 @@ date: 2020-08-08 06:58:25
 image: 'https://m.media-amazon.com/images/I/41J9SbjId6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJNVJXY-es Clarks Maritsa Mule Sandalias Punta Cerrada para Mujer...'
 sku: 'B07TJNVJXY-es'
 tags: [ 'sandalias', ]

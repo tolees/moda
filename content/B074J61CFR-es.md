@@ -5,7 +5,7 @@ date: 2020-09-01 12:06:36
 image: 'https://m.media-amazon.com/images/I/41IbaJzSIZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074J61CFR-es DafenQ Lindo Animal La mochila de jardín de infantes...'
 sku: 'B074J61CFR-es'
 tags: [ 'bolso', ]

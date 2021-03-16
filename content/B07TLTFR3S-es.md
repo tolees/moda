@@ -5,7 +5,7 @@ date: 2020-08-07 07:44:34
 image: 'https://m.media-amazon.com/images/I/31LhJk7w5ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLTFR3S-es Clarks Hero Zapatos de Cordones Brogue para Mujer Negro...'
 sku: 'B07TLTFR3S-es'
 tags: [ 'zapatos', ]

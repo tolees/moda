@@ -5,7 +5,7 @@ date: 2020-07-22 15:42:22
 image: 'https://m.media-amazon.com/images/I/31op+VDGDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNSVBMQ-es find. Hurrache Sandalias con Punta Cerrada Beige Natural...'
 sku: 'B07YNSVBMQ-es'
 tags: [ 'sandalias', ]

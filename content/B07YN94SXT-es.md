@@ -5,7 +5,7 @@ date: 2020-10-08 08:35:57
 image: 'https://m.media-amazon.com/images/I/41dU3xfuLUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YN94SXT-es MTNG Collection 58693 Sandalias con Punta Abierta para...'
 sku: 'B07YN94SXT-es'
 tags: [ 'sandalias', ]

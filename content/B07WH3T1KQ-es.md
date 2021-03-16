@@ -5,7 +5,7 @@ date: 2020-08-23 14:12:24
 image: 'https://m.media-amazon.com/images/I/51UmuM8utyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WH3T1KQ-es Marca Amazon - find. Mujer Vestido Midi Cruzado de Flores...'
 sku: 'B07WH3T1KQ-es'
 tags: [ '-','find.','vestido', ]

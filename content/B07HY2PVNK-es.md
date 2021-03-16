@@ -5,7 +5,7 @@ date: 2020-07-19 09:23:56
 image: 'https://m.media-amazon.com/images/I/41-7slVfhEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HY2PVNK-es Canadian Peak Sudadera DE Hombre Galapagos Azul ELÉCTRICO M'
 sku: 'B07HY2PVNK-es'
 tags: [ 'sudadera', ]

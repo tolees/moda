@@ -5,7 +5,7 @@ date: 2020-03-26 08:35:04
 image: 'https://m.media-amazon.com/images/I/51U02ygGKNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075N5X1NS-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
 sku: 'B075N5X1NS-es'
 tags: [ 'zapatos', ]

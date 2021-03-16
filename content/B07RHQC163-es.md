@@ -5,7 +5,7 @@ date: 2020-04-23 17:44:00
 image: 'https://m.media-amazon.com/images/I/317FyC-EXqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHQC163-es Nike Wmns Revolution 5 Zapatilla de Correr para Mujer...'
 sku: 'B07RHQC163-es'
 tags: [ 'zapatilla', ]

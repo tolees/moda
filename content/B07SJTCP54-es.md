@@ -5,7 +5,7 @@ date: 2020-08-05 10:07:39
 image: 'https://m.media-amazon.com/images/I/41WU+YzSKQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJTCP54-es Levi s Orig Hm Vneck Camiseta Blanco White 0000 XX-Large...'
 sku: 'B07SJTCP54-es'
 tags: [ 'camiseta', ]

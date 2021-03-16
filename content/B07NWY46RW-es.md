@@ -5,7 +5,7 @@ date: 2020-01-04 10:24:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qTg4Hfd%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWY46RW-es Joma Cairo II Sudadera Hombre Royal S'
 sku: 'B07NWY46RW-es'
 tags: [ 'sudadera', ]

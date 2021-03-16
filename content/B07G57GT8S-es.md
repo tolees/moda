@@ -5,7 +5,7 @@ date: 2020-07-12 11:54:51
 image: 'https://m.media-amazon.com/images/I/311nCXAZmRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G57GT8S-es find. 2 Pack Slim Shirt - Camisa Hombre Blanco White With...'
 sku: 'B07G57GT8S-es'
 tags: [ 'camisa', ]

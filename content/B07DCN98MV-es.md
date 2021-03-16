@@ -5,7 +5,7 @@ date: 2020-05-02 19:31:42
 image: 'https://m.media-amazon.com/images/I/41wfzgdKbeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCN98MV-es Ronamick Sandalen - Sandalias de Vestir para Mujer Color...'
 sku: 'B07DCN98MV-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-03-09 05:26:37
 image: 'https://m.media-amazon.com/images/I/51EEISKK+2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4W44FY-es Helly Hansen Lifaloft Insulator Jacket Chaqueta Aislante...'
 sku: 'B07R4W44FY-es'
 tags: [ 'chaqueta', ]

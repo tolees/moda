@@ -5,7 +5,7 @@ date: 2020-01-19 13:42:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41out5s-DuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074H3HYW5-es find. Camisa con Volantes para Mujer Verde Khaki 38 Talla...'
 sku: 'B074H3HYW5-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-07-11 23:10:06
 image: 'https://m.media-amazon.com/images/I/41H9ao6V2aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBN9PPR-es Pepe Jeans Tourist LAMU Suede Sandalias con cuña Tipo...'
 sku: 'B07VBN9PPR-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-05-19 07:50:15
 image: 'https://m.media-amazon.com/images/I/41rDrnk7dGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRYBN7B-es Marca Amazon - MERAKI Snk492 - camisa Mujer Azul Navy 46...'
 sku: 'B07SRYBN7B-es'
 tags: [ 'camisa','meraki', ]

@@ -5,7 +5,7 @@ date: 2020-01-11 15:55:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414l3v1Y4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGHTRY4-es Pepe Jeans Belair Pl580852 Sudadera Grey Marl 933 X-Small...'
 sku: 'B07JGHTRY4-es'
 tags: [ 'sudadera', ]

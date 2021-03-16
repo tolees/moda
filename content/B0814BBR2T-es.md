@@ -5,7 +5,7 @@ date: 2020-09-24 09:12:23
 image: 'https://m.media-amazon.com/images/I/41AGUVIZgtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814BBR2T-es Columbia Delta Ridge Chaqueta con Capucha Hombre Azul...'
 sku: 'B0814BBR2T-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 12:39:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tpNZj0QtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HJ3W2N-es IRIS & LILLY Braguita de Algodón Mujer Pack de 5...'
 sku: 'B078HJ3W2N-es'
 tags: [ '&','iris','lilly', ]

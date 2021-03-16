@@ -5,7 +5,7 @@ date: 2020-09-07 06:11:07
 image: 'https://m.media-amazon.com/images/I/419J0l0DhvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J38VLYS-es Dim X-Temp Boxer X2 Culotte Negro Noir 2 Pack Hombre'
 sku: 'B01J38VLYS-es'
 tags: [ 'boxer', ]

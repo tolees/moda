@@ -5,7 +5,7 @@ date: 2020-04-26 20:55:39
 image: 'https://m.media-amazon.com/images/I/41PpFhXw9uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFY16KZ-es PUMA Explode XT 3 Zapatos de Futsal para Hombre White-Grey...'
 sku: 'B07KFY16KZ-es'
 tags: [ 'zapatos', ]

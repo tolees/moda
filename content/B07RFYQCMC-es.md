@@ -5,7 +5,7 @@ date: 2020-06-16 03:35:55
 image: 'https://m.media-amazon.com/images/I/41MbumCW5yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFYQCMC-es G-STAR RAW 3301 Mid Waist Skinny Vaqueros Faded Indigo...'
 sku: 'B07RFYQCMC-es'
 tags: [ 'vaqueros', ]

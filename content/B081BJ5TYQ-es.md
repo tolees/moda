@@ -5,7 +5,7 @@ date: 2020-08-27 18:48:15
 image: 'https://m.media-amazon.com/images/I/41gfN6sN4yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BJ5TYQ-es Columbia Powder Pass Chaqueta con Capucha Mujer Naranja...'
 sku: 'B081BJ5TYQ-es'
 tags: [ 'chaqueta', ]

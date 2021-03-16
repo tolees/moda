@@ -5,7 +5,7 @@ date: 2020-01-20 07:41:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zfdy-dOmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9ZNRYW-es edc by Esprit 109cc1k022 Camisa Manga Larga Rosa Dark Old...'
 sku: 'B07X9ZNRYW-es'
 tags: [ 'camisa', ]

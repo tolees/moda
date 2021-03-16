@@ -5,7 +5,7 @@ date: 2020-04-06 16:28:45
 image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18BHS5-es G-STAR RAW 3301 Slim Vaqueros Antic Charcoal 35W / 30L...'
 sku: 'B07N18BHS5-es'
 tags: [ 'vaqueros', ]

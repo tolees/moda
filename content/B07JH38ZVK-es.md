@@ -5,7 +5,7 @@ date: 2020-07-02 11:15:15
 image: 'https://m.media-amazon.com/images/I/415PztscpVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH38ZVK-es Pepe Jeans William Pm305904 Camisa Indigo 561 Medium para...'
 sku: 'B07JH38ZVK-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-03-14 18:07:30
 image: 'https://m.media-amazon.com/images/I/31UUqNfoNdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBGPRXR-es Lee Scarlett High Zip Vaqueros Skinny Azul Mulberry It 27W...'
 sku: 'B07SBGPRXR-es'
 tags: [ 'vaqueros', ]

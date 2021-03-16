@@ -5,7 +5,7 @@ date: 2020-03-12 14:56:57
 image: 'https://m.media-amazon.com/images/I/41eM18Qll+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6TDJTC-es ALPHA INDUSTRIES 178139-7-L Chaqueta Azul Rep.Blue 7 Large...'
 sku: 'B07J6TDJTC-es'
 tags: [ 'chaqueta', ]

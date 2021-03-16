@@ -5,7 +5,7 @@ date: 2020-06-18 10:04:19
 image: 'https://m.media-amazon.com/images/I/41BWmdNGpNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC6ZQK6-es NJunicorn Uncle Borderlands Cosplay - Sudadera con capucha...'
 sku: 'B07VC6ZQK6-es'
 tags: [ 'sudadera', ]

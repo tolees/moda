@@ -5,7 +5,7 @@ date: 2020-08-13 21:30:41
 image: 'https://m.media-amazon.com/images/I/410ymKc2eaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XQPTPW9-es Vans Classic Camiseta Gris Athletic Heather/Black X-Small...'
 sku: 'B06XQPTPW9-es'
 tags: [ 'camiseta', ]

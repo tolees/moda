@@ -5,7 +5,7 @@ date: 2020-04-12 17:25:55
 image: 'https://m.media-amazon.com/images/I/413w+jDpO2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD11K8Z-es Esprit 099ee1j024 Sudadera Rojo Red 630 Medium para Mujer'
 sku: 'B07VD11K8Z-es'
 tags: [ 'sudadera', ]

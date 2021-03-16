@@ -5,7 +5,7 @@ date: 2020-09-29 09:05:59
 image: 'https://m.media-amazon.com/images/I/51+bMW9q1AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7RC3RB-es Zapatillas de Estar por Casa para Niñas Niños Invierno...'
 sku: 'B07Z7RC3RB-es'
 tags: [ 'zapatilla', ]

@@ -5,7 +5,7 @@ date: 2020-10-07 18:59:24
 image: 'https://m.media-amazon.com/images/I/41PTfnfoYAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076D9X6CY-es adidas CORE18 STD JKT Chaqueta de Deporte Hombre...'
 sku: 'B076D9X6CY-es'
 tags: [ 'chaqueta', ]

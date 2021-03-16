@@ -5,7 +5,7 @@ date: 2020-07-07 02:36:38
 image: 'https://m.media-amazon.com/images/I/41u6c5alheL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHZ5XY8-es Geox U Kaven A Zapatillas para Hombre Azul Navy C4002 42 EU'
 sku: 'B07DHZ5XY8-es'
 tags: [ 'geox', ]

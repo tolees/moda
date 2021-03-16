@@ -5,7 +5,7 @@ date: 2020-06-30 20:42:51
 image: 'https://m.media-amazon.com/images/I/41xhwnDHKYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825PY4MR-es Roxy Printed Beach Classics - Conjunto De Bikini Tiki Tri...'
 sku: 'B0825PY4MR-es'
 tags: [ 'bikini', ]

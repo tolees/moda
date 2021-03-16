@@ -5,7 +5,7 @@ date: 2020-08-19 01:18:55
 image: 'https://m.media-amazon.com/images/I/31q5Ue-YqWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLQQ9MH-es Tommy Hilfiger TH Essential LW Dwn Chaqueta Blanco White...'
 sku: 'B07VLQQ9MH-es'
 tags: [ 'chaqueta', ]

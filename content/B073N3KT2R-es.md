@@ -5,7 +5,7 @@ date: 2020-04-05 07:20:43
 image: 'https://m.media-amazon.com/images/I/41l6ttf4rVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073N3KT2R-es Timberland 6-Inch Waterproof Boot 73540 Wheat Nubuk Schuhe...'
 sku: 'B073N3KT2R-es'
 tags: [ 'timberland', ]

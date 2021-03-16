@@ -5,7 +5,7 @@ date: 2020-01-07 20:28:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AZa8OgO6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZZ7W3K-es JACK & JONES Jacbasic Crew Neck tee SS 2 Pack Camiseta...'
 sku: 'B075ZZ7W3K-es'
 tags: [ 'camiseta', ]

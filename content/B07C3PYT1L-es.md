@@ -5,7 +5,7 @@ date: 2020-02-08 07:15:39
 image: 'https://m.media-amazon.com/images/I/41WMiEHz3iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C3PYT1L-es INFUSEU 925 Árbol de la Vida de Plata Collar de la Mujer...'
 sku: 'B07C3PYT1L-es'
 tags: [ 'collar', ]

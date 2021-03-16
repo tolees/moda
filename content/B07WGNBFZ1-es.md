@@ -5,7 +5,7 @@ date: 2020-08-31 21:17:53
 image: 'https://m.media-amazon.com/images/I/51brAI8M+3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGNBFZ1-es Jack & Jones JORBROOK Shirt LS Camisa Casual Multicolor...'
 sku: 'B07WGNBFZ1-es'
 tags: [ 'camisa', ]

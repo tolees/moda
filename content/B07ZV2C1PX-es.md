@@ -5,7 +5,7 @@ date: 2020-06-11 06:31:57
 image: 'https://m.media-amazon.com/images/I/416UDayxCqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZV2C1PX-es Helly Hansen Rider Vest Chaleco de Ayuda a la flotabilidad...'
 sku: 'B07ZV2C1PX-es'
 tags: [ 'chaleco', ]

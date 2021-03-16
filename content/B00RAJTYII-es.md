@@ -5,7 +5,7 @@ date: 2020-02-12 19:52:35
 image: 'https://m.media-amazon.com/images/I/41AN5OPLKlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RAJTYII-es Fruit of the Loom - Sudadera con Capucha Hombre/Caballero...'
 sku: 'B00RAJTYII-es'
 tags: [ 'sudadera', ]

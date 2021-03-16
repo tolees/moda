@@ -5,7 +5,7 @@ date: 2020-08-01 06:00:59
 image: 'https://m.media-amazon.com/images/I/31sVobnIUrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FTWCZN-es Crocs Swiftwater Sandal W Sandalias de Punta Descubierta...'
 sku: 'B071FTWCZN-es'
 tags: [ 'sandalias', ]

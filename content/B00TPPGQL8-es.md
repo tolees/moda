@@ -5,7 +5,7 @@ date: 2020-10-07 11:09:13
 image: 'https://m.media-amazon.com/images/I/31jFmpJrocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TPPGQL8-es Lacoste Sh7613 Sudadera para Hombre Black 31 XX-Large...'
 sku: 'B00TPPGQL8-es'
 tags: [ 'sudadera', ]

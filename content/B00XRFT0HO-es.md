@@ -5,7 +5,7 @@ date: 2020-02-16 19:27:51
 image: 'https://m.media-amazon.com/images/I/312eFOaGOEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XRFT0HO-es Helly Hansen Velocity Insulated Pant Pantalón Hombre Negro M'
 sku: 'B00XRFT0HO-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 17:12:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZKmK54V2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BMMJUA6-es Geox U Dublin B Zapatos de Cordones Brogue para Hombre...'
 sku: 'B00BMMJUA6-es'
 tags: [ 'geox','zapatos', ]

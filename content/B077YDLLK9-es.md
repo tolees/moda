@@ -5,7 +5,7 @@ date: 2020-05-02 11:16:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413wkFKC9bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDLLK9-es HIKARO Sudadera con Print Mujer Azul Navy 40 Talla del...'
 sku: 'B077YDLLK9-es'
 tags: [ 'sudadera', ]

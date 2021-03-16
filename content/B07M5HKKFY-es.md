@@ -5,7 +5,7 @@ date: 2020-02-21 20:26:04
 image: 'https://m.media-amazon.com/images/I/41dOjh3pb4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5HKKFY-es Geox M Vincit C Chaqueta Bomber Verde Mid Forest F3211...'
 sku: 'B07M5HKKFY-es'
 tags: [ 'chaqueta','geox', ]

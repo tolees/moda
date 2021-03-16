@@ -5,7 +5,7 @@ date: 2020-09-29 12:00:51
 image: 'https://m.media-amazon.com/images/I/31B8UbndPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FWSZHBC-es Calvin Klein 3p Trunk Bóxer Negro Black/White/Grey Heather...'
 sku: 'B00FWSZHBC-es'
 tags: [ 'bóxer', ]

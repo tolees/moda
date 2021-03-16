@@ -5,7 +5,7 @@ date: 2020-05-11 16:51:29
 image: 'https://m.media-amazon.com/images/I/41aI0FKKO6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWQ5RWX-es Jack & Jones Jcomick tee SS Crew Neck Noos Camiseta Gris...'
 sku: 'B07TWQ5RWX-es'
 tags: [ 'camiseta', ]

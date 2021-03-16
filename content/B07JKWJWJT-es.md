@@ -5,7 +5,7 @@ date: 2020-01-23 08:03:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4146trvvI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWJWJT-es Lee Emblem tee Camiseta Beige Dust Beige LP Small para Hombre'
 sku: 'B07JKWJWJT-es'
 tags: [ 'camiseta', ]

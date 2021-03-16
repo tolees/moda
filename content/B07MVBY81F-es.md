@@ -5,7 +5,7 @@ date: 2020-03-29 14:46:32
 image: 'https://m.media-amazon.com/images/I/315eiI9kVXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVBY81F-es Napapijri Berber C Sudadera Verde Green Forest 2 GE3...'
 sku: 'B07MVBY81F-es'
 tags: [ 'sudadera', ]

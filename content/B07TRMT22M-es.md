@@ -5,7 +5,7 @@ date: 2020-06-26 09:15:41
 image: 'https://m.media-amazon.com/images/I/31AiOsSSlHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRMT22M-es Levi s 711 Shaping Super Skinny Jeans Pantalón Vaquero Que...'
 sku: 'B07TRMT22M-es'
 tags: [ 'pantalón', ]

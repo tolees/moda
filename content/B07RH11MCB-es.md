@@ -5,7 +5,7 @@ date: 2020-08-09 10:56:43
 image: 'https://m.media-amazon.com/images/I/51+690gRdXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH11MCB-es LAOYE Collar de pulgas - 8 Meses de protección el Collar...'
 sku: 'B07RH11MCB-es'
 tags: [ 'collar', ]

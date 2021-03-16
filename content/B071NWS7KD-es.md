@@ -5,7 +5,7 @@ date: 2020-05-12 13:27:47
 image: 'https://m.media-amazon.com/images/I/41BOPF65auL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NWS7KD-es Marca Amazon - find. Camiseta con Estampado Gráfico para...'
 sku: 'B071NWS7KD-es'
 tags: [ '-','camiseta','find.', ]

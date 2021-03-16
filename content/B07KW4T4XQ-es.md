@@ -5,7 +5,7 @@ date: 2020-08-07 19:13:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW4T4XQ-es URAQT Vestido lady bug Rojo M C-UZ18112-0'
 sku: 'B07KW4T4XQ-es'
 tags: [ 'vestido', ]

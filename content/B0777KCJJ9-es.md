@@ -5,7 +5,7 @@ date: 2020-04-01 10:27:34
 image: 'https://m.media-amazon.com/images/I/414R43IGROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777KCJJ9-es Tommy Hilfiger Original Triblend V Neck Camiseta Negro...'
 sku: 'B0777KCJJ9-es'
 tags: [ 'camiseta', ]

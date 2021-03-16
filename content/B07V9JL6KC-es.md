@@ -5,7 +5,7 @@ date: 2020-07-01 08:56:24
 image: 'https://m.media-amazon.com/images/I/51ue+FMETcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9JL6KC-es HCFKJ Cinturones para Vestidos de Fiesta Moda Rhinestone...'
 sku: 'B07V9JL6KC-es'
 tags: [ 'moda','vestido', ]

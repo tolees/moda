@@ -5,7 +5,7 @@ date: 2020-03-25 09:40:08
 image: 'https://m.media-amazon.com/images/I/41PJCUTCqeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC9X6KD-es JACK & JONES Jorexplore Parka Jacket STS Verde Forest...'
 sku: 'B07VC9X6KD-es'
 tags: [ 'parka', ]

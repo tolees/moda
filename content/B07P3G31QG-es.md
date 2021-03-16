@@ -5,7 +5,7 @@ date: 2020-04-03 09:34:32
 image: 'https://m.media-amazon.com/images/I/31va9TrIsHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3G31QG-es Superdry University L/s Shirt Camisa Azul Classic Blue...'
 sku: 'B07P3G31QG-es'
 tags: [ 'camisa', ]

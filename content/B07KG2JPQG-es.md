@@ -5,7 +5,7 @@ date: 2020-02-19 19:03:03
 image: 'https://m.media-amazon.com/images/I/41Mv6DWeq4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG2JPQG-es PUMA Rise XT Netfit 1 Zapatos de Futsal Unisex Adulto Grey...'
 sku: 'B07KG2JPQG-es'
 tags: [ 'zapatos', ]

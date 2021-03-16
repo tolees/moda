@@ -5,7 +5,7 @@ date: 2020-03-04 15:47:58
 image: 'https://m.media-amazon.com/images/I/411TK8dXgyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3YWJKH-es Desigual Blouse Mila Blusa Rojo Rojo Oscuro 3029 S para Mujer'
 sku: 'B07N3YWJKH-es'
 tags: [ 'blusa', ]

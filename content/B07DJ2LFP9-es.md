@@ -5,7 +5,7 @@ date: 2020-01-07 05:28:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31pPKZzw1WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2LFP9-es New Balance 230 Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07DJ2LFP9-es'
 tags: [ 'zapatos', ]

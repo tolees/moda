@@ -5,7 +5,7 @@ date: 2020-01-25 17:07:39
 image: 'https://m.media-amazon.com/images/I/31Z4MCCkH4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ91G7-es Geox B New Balu Boy C Zapatillas para Bebés Azul Navy...'
 sku: 'B07LFZ91G7-es'
 tags: [ 'geox', ]

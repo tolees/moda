@@ -5,7 +5,7 @@ date: 2020-10-10 18:31:38
 image: 'https://m.media-amazon.com/images/I/41vOD4zxJGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZRCLM2-es Crocs Classic Clog K Zuecos Unisex Niños Verde Grass Green...'
 sku: 'B071ZRCLM2-es'
 tags: [ 'zuecos', ]

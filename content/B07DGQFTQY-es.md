@@ -5,7 +5,7 @@ date: 2020-02-05 01:41:56
 image: 'https://m.media-amazon.com/images/I/31lKJv81rlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGQFTQY-es Timberland Dausette Low Zapatillas Altas para Mujer Negro...'
 sku: 'B07DGQFTQY-es'
 tags: [ 'timberland', ]

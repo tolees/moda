@@ -5,7 +5,7 @@ date: 2020-01-21 22:33:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HmQEvquoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND3YTRS-es dockers Smart 360 Flex Alpha Skinny Vaqueros Dark Ginger...'
 sku: 'B07ND3YTRS-es'
 tags: [ 'vaqueros', ]

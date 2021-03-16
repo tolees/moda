@@ -5,7 +5,7 @@ date: 2020-07-20 16:55:23
 image: 'https://m.media-amazon.com/images/I/31wgdmxTRML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HZSS9D4-es find. Wide Band Mule Sandalias con Punta Abierta Negro...'
 sku: 'B07HZSS9D4-es'
 tags: [ 'sandalias', ]

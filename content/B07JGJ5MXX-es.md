@@ -5,7 +5,7 @@ date: 2020-02-25 12:19:05
 image: 'https://m.media-amazon.com/images/I/41B0piD92qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGJ5MXX-es Pepe Jeans Carter Pb502479 Camiseta Chambray 564 4-5 años...'
 sku: 'B07JGJ5MXX-es'
 tags: [ 'camiseta', ]

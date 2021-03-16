@@ -5,7 +5,7 @@ date: 2020-04-01 07:04:26
 image: 'https://m.media-amazon.com/images/I/41da8VBurGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NK8QGDB-es Strellson Premium Allen Chaqueta de Traje Gris Grey 045 56...'
 sku: 'B07NK8QGDB-es'
 tags: [ 'chaqueta', ]

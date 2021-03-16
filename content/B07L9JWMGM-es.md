@@ -5,7 +5,7 @@ date: 2020-08-24 19:22:41
 image: 'https://m.media-amazon.com/images/I/41CIH4qXYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9JWMGM-es Avengers- Guantes Hulk Multicolor Hasbro E0615EU6'
 sku: 'B07L9JWMGM-es'
 tags: [ 'guantes', ]

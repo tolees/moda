@@ -5,7 +5,7 @@ date: 2020-05-26 13:46:51
 image: 'https://m.media-amazon.com/images/I/41FG3i1Uz0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9FSCHX-es Levi s 501 Original Fit Vaqueros Sponge St 38W / 34L para...'
 sku: 'B07D9FSCHX-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-23 14:49:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hdSXrA0jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N26T5BT-es edc by Esprit 039cc2k024 Camiseta Azul Navy 2 401 Small...'
 sku: 'B07N26T5BT-es'
 tags: [ 'camiseta', ]

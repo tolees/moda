@@ -5,7 +5,7 @@ date: 2020-10-09 04:22:48
 image: 'https://m.media-amazon.com/images/I/31BoZ-DftuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002JCSSZ6-es Crocs Crocband Zuecos Unisex Adulto Azul Navy 37/38 EU'
 sku: 'B002JCSSZ6-es'
 tags: [ 'zuecos', ]

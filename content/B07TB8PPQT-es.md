@@ -5,7 +5,7 @@ date: 2020-09-25 16:54:51
 image: 'https://m.media-amazon.com/images/I/41O6ih-Ey7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB8PPQT-es The North Face M Quest L/S Camiseta Hombre TNF Yellow/TNF S'
 sku: 'B07TB8PPQT-es'
 tags: [ 'camiseta', ]

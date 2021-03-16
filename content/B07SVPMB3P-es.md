@@ -5,7 +5,7 @@ date: 2020-09-11 21:35:52
 image: 'https://m.media-amazon.com/images/I/41b2xfBbTTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPMB3P-es Geox U Nebula C Zapatillas para Hombre Beige Sand C5004 40 EU'
 sku: 'B07SVPMB3P-es'
 tags: [ 'geox', ]

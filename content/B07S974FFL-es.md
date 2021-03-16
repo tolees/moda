@@ -5,7 +5,7 @@ date: 2020-05-10 19:56:36
 image: 'https://m.media-amazon.com/images/I/31Izdpn9ToL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S974FFL-es Crocs Athens Chanclas Unisex Adulto Azul Bright...'
 sku: 'B07S974FFL-es'
 tags: [ 'chanclas', ]

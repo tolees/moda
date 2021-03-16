@@ -5,7 +5,7 @@ date: 2020-08-11 10:07:23
 image: 'https://m.media-amazon.com/images/I/41Ibt63SImL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSS7TYZ-es Geox D Sandal Hiver B Sandalias con Tira Vertical para...'
 sku: 'B07SSS7TYZ-es'
 tags: [ 'geox','sandalias', ]

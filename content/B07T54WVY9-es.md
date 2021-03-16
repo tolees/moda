@@ -5,7 +5,7 @@ date: 2020-04-18 03:28:02
 image: 'https://m.media-amazon.com/images/I/41Q0hWM9UIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T54WVY9-es ZIGJOY Strangers TV Camiseta Unisex Camiseta Top One...'
 sku: 'B07T54WVY9-es'
 tags: [ 'camiseta', ]

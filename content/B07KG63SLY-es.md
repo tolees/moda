@@ -5,7 +5,7 @@ date: 2020-01-21 21:36:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31o%2BotR4MiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG63SLY-es PUMA Auriz Zapatos de Futsal para Hombre White-Green...'
 sku: 'B07KG63SLY-es'
 tags: [ 'zapatos', ]

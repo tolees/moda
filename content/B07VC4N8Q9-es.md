@@ -5,7 +5,7 @@ date: 2020-07-23 12:21:27
 image: 'https://m.media-amazon.com/images/I/318rdNM2IjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC4N8Q9-es Calvin Klein CK Essential Slim V Neck tee Camiseta Azul...'
 sku: 'B07VC4N8Q9-es'
 tags: [ 'camiseta', ]

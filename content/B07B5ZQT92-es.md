@@ -5,7 +5,7 @@ date: 2020-01-08 17:26:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41g0XtdxgfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B5ZQT92-es JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera Gris...'
 sku: 'B07B5ZQT92-es'
 tags: [ 'sudadera', ]

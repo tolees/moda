@@ -5,7 +5,7 @@ date: 2020-06-28 09:58:47
 image: 'https://m.media-amazon.com/images/I/41GEGORrXeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017RNULXI-es LEABAGS Boston Bolso de Mensajero de auténtico Cuero...'
 sku: 'B017RNULXI-es'
 tags: [ 'bolso', ]

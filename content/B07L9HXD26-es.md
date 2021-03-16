@@ -5,7 +5,7 @@ date: 2020-01-16 12:45:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PVnsfu-ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9HXD26-es Under Armour Qualifier Pantalón Hombre Negro LG'
 sku: 'B07L9HXD26-es'
 tags: [ 'pantalón', ]

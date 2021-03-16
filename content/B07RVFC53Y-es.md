@@ -5,7 +5,7 @@ date: 2020-10-05 15:42:43
 image: 'https://m.media-amazon.com/images/I/411TF5Hn82L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RVFC53Y-es Pepe Jeans Dexter Camisa Azul Indigo 561 Large para Hombre'
 sku: 'B07RVFC53Y-es'
 tags: [ 'camisa', ]

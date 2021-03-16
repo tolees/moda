@@ -5,7 +5,7 @@ date: 2020-07-14 11:32:32
 image: 'https://m.media-amazon.com/images/I/51mIQDurxdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWC4XW9-es RICOO WM035-W-B Banco Zapatero 79x49x30 Armario Interior...'
 sku: 'B07MWC4XW9-es'
 tags: [ 'zapatos', ]

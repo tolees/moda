@@ -5,7 +5,7 @@ date: 2020-01-06 12:54:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cs1Tu5tHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTH9ZSG-es Lee Slim Rider Chaqueta Vaquera Azul Flick Light IR...'
 sku: 'B07FTH9ZSG-es'
 tags: [ 'chaqueta', ]

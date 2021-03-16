@@ -5,7 +5,7 @@ date: 2020-06-13 08:04:09
 image: 'https://m.media-amazon.com/images/I/61Sy940a0oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DB4W95T-es DAYNEW 5.1" de Hombre Funda de Piel Cinturón Bolso de...'
 sku: 'B07DB4W95T-es'
 tags: [ 'bolso', ]

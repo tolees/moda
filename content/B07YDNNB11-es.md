@@ -5,7 +5,7 @@ date: 2020-09-28 11:06:04
 image: 'https://m.media-amazon.com/images/I/317yTpPaSeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDNNB11-es Maglev Essentials BDX011M5 Camiseta Multicolor Negro...'
 sku: 'B07YDNNB11-es'
 tags: [ 'camiseta', ]

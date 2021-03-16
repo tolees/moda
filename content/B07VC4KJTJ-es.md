@@ -5,7 +5,7 @@ date: 2020-09-21 19:10:22
 image: 'https://m.media-amazon.com/images/I/31AjUwenKbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC4KJTJ-es Calvin Klein CK Round Logo Reg tee Camiseta Blanco Bright...'
 sku: 'B07VC4KJTJ-es'
 tags: [ 'camiseta', ]

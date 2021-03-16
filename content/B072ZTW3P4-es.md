@@ -5,7 +5,7 @@ date: 2020-06-23 16:44:04
 image: 'https://m.media-amazon.com/images/I/416r2tDl80L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072ZTW3P4-es Champion Classic Logo Camiseta Ecru M para Hombre'
 sku: 'B072ZTW3P4-es'
 tags: [ 'camiseta', ]

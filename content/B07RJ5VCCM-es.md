@@ -5,7 +5,7 @@ date: 2020-02-21 17:55:38
 image: 'https://m.media-amazon.com/images/I/41m4EO4ZEdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ5VCCM-es G-STAR RAW 3301 Straight Vaqueros Antic Charcoal B479-A800...'
 sku: 'B07RJ5VCCM-es'
 tags: [ 'vaqueros', ]

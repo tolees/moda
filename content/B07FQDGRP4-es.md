@@ -5,7 +5,7 @@ date: 2020-03-23 16:46:10
 image: 'https://m.media-amazon.com/images/I/51cH89deApL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQDGRP4-es Relojes para Hombre Acero Inoxidable Impermeable Reloj...'
 sku: 'B07FQDGRP4-es'
 tags: [ 'vestido', ]

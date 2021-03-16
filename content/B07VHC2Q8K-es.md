@@ -5,7 +5,7 @@ date: 2020-05-15 19:21:42
 image: 'https://m.media-amazon.com/images/I/41+Vz3WUYnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHC2Q8K-es Jack & Jones Jcofigure Parka STS Negro Black Pattern:...'
 sku: 'B07VHC2Q8K-es'
 tags: [ 'parka', ]

@@ -5,7 +5,7 @@ date: 2020-09-01 01:44:33
 image: 'https://m.media-amazon.com/images/I/41g1pEZYWvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC3TY3N-es Tommy Hilfiger Fixed Triangle Rp Parte de Arriba de Bikini...'
 sku: 'B07WC3TY3N-es'
 tags: [ 'bikini', ]

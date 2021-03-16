@@ -5,7 +5,7 @@ date: 2020-07-02 19:03:31
 image: 'https://m.media-amazon.com/images/I/3112uP9VbJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N67HAW3-es Wrangler SKINNY Vaqueros Negro Black 25W / 32L para Mujer'
 sku: 'B01N67HAW3-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-08-15 15:02:18
 image: 'https://m.media-amazon.com/images/I/41vF4dTyyZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PLZN1Q-es Adidas Regista 18 Track Top Chaqueta Deportiva Hombre Rojo...'
 sku: 'B076PLZN1Q-es'
 tags: [ 'chaqueta', ]

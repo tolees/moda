@@ -5,7 +5,7 @@ date: 2020-01-20 08:17:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tv9DXqmKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNQYNXS-es Lacoste TH6709 Camiseta para Hombre Azul Electrique Z7z...'
 sku: 'B07FNQYNXS-es'
 tags: [ 'camiseta', ]

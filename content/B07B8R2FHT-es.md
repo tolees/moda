@@ -5,7 +5,7 @@ date: 2020-08-19 02:15:02
 image: 'https://m.media-amazon.com/images/I/31HB9dtb8-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8R2FHT-es Lacoste CH4976 Camisa Blanco Blanc X-Small Talla del...'
 sku: 'B07B8R2FHT-es'
 tags: [ 'camisa', ]

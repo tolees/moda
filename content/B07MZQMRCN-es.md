@@ -5,7 +5,7 @@ date: 2020-04-05 18:39:38
 image: 'https://m.media-amazon.com/images/I/41r-TIzGhSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQMRCN-es Pepe Jeans Spike Vaqueros Straight Azul Medium Used...'
 sku: 'B07MZQMRCN-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-02-23 13:11:42
 image: 'https://m.media-amazon.com/images/I/41CR6aCchCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXV1N8M-es Dickies Manitou Chaqueta Verde X-Small Talla del...'
 sku: 'B07NXV1N8M-es'
 tags: [ 'chaqueta', ]

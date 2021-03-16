@@ -5,7 +5,7 @@ date: 2020-06-29 10:36:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TJrwnHBnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN73BNB-es Axcone Zapatillas Hombres Mujer Deporte Running Zapatos...'
 sku: 'B07RN73BNB-es'
 tags: [ 'zapatos', ]

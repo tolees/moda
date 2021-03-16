@@ -5,7 +5,7 @@ date: 2020-06-10 05:38:24
 image: 'https://m.media-amazon.com/images/I/41sQj-72PSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788BMRYS-es Tommy Hilfiger RN tee SS Camiseta Blanco White 100 X-Large...'
 sku: 'B0788BMRYS-es'
 tags: [ 'camiseta', ]

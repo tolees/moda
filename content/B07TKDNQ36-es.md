@@ -5,7 +5,7 @@ date: 2020-05-13 10:52:21
 image: 'https://m.media-amazon.com/images/I/41sFHXqE7dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDNQ36-es Levi s 511 Slim Fit Vaqueros Verde Muddy Forest Sueded...'
 sku: 'B07TKDNQ36-es'
 tags: [ 'vaqueros', ]

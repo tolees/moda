@@ -5,7 +5,7 @@ date: 2020-02-22 15:32:03
 image: 'https://m.media-amazon.com/images/I/31Spnll3CtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0725JY7CK-es Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta Azul...'
 sku: 'B0725JY7CK-es'
 tags: [ 'camiseta', ]

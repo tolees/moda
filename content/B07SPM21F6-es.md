@@ -5,7 +5,7 @@ date: 2020-06-24 10:34:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41et9ii9UoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPM21F6-es LOHOTEK Zapatillas Hombres Zapatos Deportivos para Hombres...'
 sku: 'B07SPM21F6-es'
 tags: [ 'moda','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-10-03 10:15:33
 image: 'https://m.media-amazon.com/images/I/31x7wvaTnjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J1RD1SW-es Petusco -Bolso piel para mujer. Bolso de mano. Elegante y...'
 sku: 'B07J1RD1SW-es'
 tags: [ 'bolso', ]

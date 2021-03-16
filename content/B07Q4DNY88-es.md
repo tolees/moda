@@ -5,7 +5,7 @@ date: 2020-08-08 23:37:28
 image: 'https://m.media-amazon.com/images/I/41allfO-m5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4DNY88-es BOSS Magneton 1-Short Camisa Azul Dark Blue 404 Medium...'
 sku: 'B07Q4DNY88-es'
 tags: [ 'camisa', ]

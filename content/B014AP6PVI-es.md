@@ -5,7 +5,7 @@ date: 2020-02-11 21:54:13
 image: 'https://m.media-amazon.com/images/I/51gmcufjKYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014AP6PVI-es Dockers by Gerli 37wa703 Botines Unisex Niños Marrón Braun...'
 sku: 'B014AP6PVI-es'
 tags: [ 'botines', ]

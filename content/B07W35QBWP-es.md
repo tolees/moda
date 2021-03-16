@@ -5,7 +5,7 @@ date: 2020-09-04 10:57:26
 image: 'https://m.media-amazon.com/images/I/41Tlwt6IOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W35QBWP-es Pepe Jeans Jett Camiseta Azul Deep Sea 597 Medium para Hombre'
 sku: 'B07W35QBWP-es'
 tags: [ 'camiseta', ]

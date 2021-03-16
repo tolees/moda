@@ -5,7 +5,7 @@ date: 2020-01-13 18:48:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31jruZZHQIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QBPYY2J-es New Look Arnie Rip Bleach Vaqueros Skinny Azul Light Blue...'
 sku: 'B07QBPYY2J-es'
 tags: [ 'vaqueros', ]

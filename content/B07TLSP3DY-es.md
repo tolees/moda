@@ -5,7 +5,7 @@ date: 2020-07-24 07:40:46
 image: 'https://m.media-amazon.com/images/I/31tfYq9r1CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLSP3DY-es Clarks Step Juneshell Sandalias Punta Cerrada para Mujer...'
 sku: 'B07TLSP3DY-es'
 tags: [ 'sandalias', ]

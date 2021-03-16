@@ -5,7 +5,7 @@ date: 2020-06-08 19:01:08
 image: 'https://m.media-amazon.com/images/I/31JnU-J5jaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ436DZ-es Calvin Klein Core Monogram Logo Regular Fit tee Camiseta...'
 sku: 'B07KQ436DZ-es'
 tags: [ 'camiseta', ]

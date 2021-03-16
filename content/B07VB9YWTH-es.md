@@ -5,7 +5,7 @@ date: 2020-03-04 18:47:34
 image: 'https://m.media-amazon.com/images/I/41DIrh9mz+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB9YWTH-es Esprit 099Ee1G009 Abrigo Azul Navy 5 404 XL para Mujer'
 sku: 'B07VB9YWTH-es'
 tags: [ 'abrigo', ]

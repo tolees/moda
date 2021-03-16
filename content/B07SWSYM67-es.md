@@ -5,7 +5,7 @@ date: 2020-07-07 06:28:03
 image: 'https://m.media-amazon.com/images/I/41zB7htgFvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWSYM67-es Geox U Renan A Zapatillas para Hombre Marrón Browncotto...'
 sku: 'B07SWSYM67-es'
 tags: [ 'geox', ]

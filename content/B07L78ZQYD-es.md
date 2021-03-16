@@ -5,7 +5,7 @@ date: 2020-09-24 13:34:50
 image: 'https://m.media-amazon.com/images/I/41N2RzcsSAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L78ZQYD-es NIKE W Nk Dry SL Top Camiseta sin Mangas Mujer Black/ White M'
 sku: 'B07L78ZQYD-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-07 11:42:10
 image: 'https://m.media-amazon.com/images/I/51m8mBhQaVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WF3PFM-es Havaianas Top Chanclas Unisex Adulto Azul Marine Blue...'
 sku: 'B003WF3PFM-es'
 tags: [ 'chanclas', ]

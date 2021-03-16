@@ -5,7 +5,7 @@ date: 2020-04-08 06:13:15
 image: 'https://m.media-amazon.com/images/I/41ZC-QoeQhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTDZT3Q-es Mizuno Sala Classic 2 IN Zapatilla de fútbol Sala Blue-...'
 sku: 'B07MTDZT3Q-es'
 tags: [ 'zapatilla', ]

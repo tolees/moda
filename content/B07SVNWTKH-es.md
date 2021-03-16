@@ -5,7 +5,7 @@ date: 2020-06-27 13:44:47
 image: 'https://m.media-amazon.com/images/I/419n1x0c-qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVNWTKH-es Geox B Flexyper Boy B Zapatillas para Bebés Blanco...'
 sku: 'B07SVNWTKH-es'
 tags: [ 'geox', ]

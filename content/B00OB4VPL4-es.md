@@ -5,7 +5,7 @@ date: 2020-01-10 08:46:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ul-KdW0iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OB4VPL4-es Cofra 40-JV028000-39 - Calzado de Seguridad Nuevo Santo...'
 sku: 'B00OB4VPL4-es'
 tags: [ 'zapatos', ]

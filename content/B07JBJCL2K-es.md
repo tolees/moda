@@ -5,7 +5,7 @@ date: 2020-07-09 22:44:24
 image: 'https://m.media-amazon.com/images/I/4145FzGOFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBJCL2K-es ACVIP - Abrigo - Chaqueta Guateada - Manga Larga - para...'
 sku: 'B07JBJCL2K-es'
 tags: [ 'abrigo','chaqueta', ]

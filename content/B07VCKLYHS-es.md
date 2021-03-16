@@ -5,7 +5,7 @@ date: 2020-06-25 14:19:16
 image: 'https://m.media-amazon.com/images/I/41fzsPe2PAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCKLYHS-es Desigual Bols ada Rotterdam - Bolso bandolera para mujer...'
 sku: 'B07VCKLYHS-es'
 tags: [ 'bolso', ]

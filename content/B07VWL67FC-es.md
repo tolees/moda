@@ -5,7 +5,7 @@ date: 2020-07-07 04:26:05
 image: 'https://m.media-amazon.com/images/I/41Ast7gRWQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWL67FC-es Tommy Hilfiger TJM Chest Stripe Logo tee Camiseta Deporte...'
 sku: 'B07VWL67FC-es'
 tags: [ 'camiseta', ]

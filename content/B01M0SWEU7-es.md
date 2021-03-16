@@ -5,7 +5,7 @@ date: 2020-01-10 08:37:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GeSJgEZlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0SWEU7-es Antony Morato - Abrigo - para Hombre Verde XL'
 sku: 'B01M0SWEU7-es'
 tags: [ 'abrigo', ]

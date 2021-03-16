@@ -5,7 +5,7 @@ date: 2020-07-22 08:10:53
 image: 'https://m.media-amazon.com/images/I/311gLHvFUvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4P3SVD-es Art Harlem Botines para Mujer Marrón Cuero Cuero 38 EU'
 sku: 'B07P4P3SVD-es'
 tags: [ 'botines', ]

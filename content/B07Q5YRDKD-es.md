@@ -5,7 +5,7 @@ date: 2020-08-22 07:25:44
 image: 'https://m.media-amazon.com/images/I/41AwCSL708L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q5YRDKD-es Superdry VL 1st tee Camiseta Verde Pine GRL XL para Hombre'
 sku: 'B07Q5YRDKD-es'
 tags: [ 'camiseta', ]

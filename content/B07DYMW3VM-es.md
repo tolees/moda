@@ -5,7 +5,7 @@ date: 2020-03-11 16:38:26
 image: 'https://m.media-amazon.com/images/I/41KqyqgdWhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYMW3VM-es NOVECASA Chaleco Sauna Hombre Neopreno Camiseta sin...'
 sku: 'B07DYMW3VM-es'
 tags: [ 'camiseta','chaleco', ]

@@ -5,7 +5,7 @@ date: 2020-05-14 11:44:55
 image: 'https://m.media-amazon.com/images/I/516hp06ocNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN3RRHS-es Jack & Jones Jjewashington Shirt L/s STS Camisa Rojo...'
 sku: 'B07VN3RRHS-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 17:06:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTzeUveML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPXF484-es JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos Vaqueros...'
 sku: 'B07FPXF484-es'
 tags: [ 'vaqueros', ]

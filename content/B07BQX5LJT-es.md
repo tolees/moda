@@ -5,7 +5,7 @@ date: 2020-01-22 20:25:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DeQdOm0aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQX5LJT-es MAMALICIOUS Mliben Nell 2/4 Jersey Top Nf Camiseta de...'
 sku: 'B07BQX5LJT-es'
 tags: [ 'camiseta','jersey', ]

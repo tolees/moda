@@ -5,7 +5,7 @@ date: 2020-03-27 10:54:54
 image: 'https://m.media-amazon.com/images/I/31KFQu8TO8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPCN7WK-es Crocs Baya Clog Zuecos Unisex Niños Rosa Neon Magenta 6l0...'
 sku: 'B07CPCN7WK-es'
 tags: [ 'zuecos', ]

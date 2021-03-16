@@ -5,7 +5,7 @@ date: 2020-04-11 00:57:13
 image: 'https://m.media-amazon.com/images/I/31mtSsTfSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWNDV5Z-es Under Armour Challenger III Training Pantalón Hombre Azul LG'
 sku: 'B07QWNDV5Z-es'
 tags: [ 'pantalón', ]

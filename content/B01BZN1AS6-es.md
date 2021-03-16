@@ -5,7 +5,7 @@ date: 2020-06-26 16:01:49
 image: 'https://m.media-amazon.com/images/I/31ZEl6V0vEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BZN1AS6-es SOLS- Camiseta de Manga Corta para niñas 10 años Azul Agua'
 sku: 'B01BZN1AS6-es'
 tags: [ 'camiseta', ]

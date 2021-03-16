@@ -5,7 +5,7 @@ date: 2020-09-08 04:51:34
 image: 'https://m.media-amazon.com/images/I/31cQ6cLXsnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F22R8XJ-es Timberland Newport Bay Zapatillas Bajas para Hombre Blanco...'
 sku: 'B07F22R8XJ-es'
 tags: [ 'timberland', ]

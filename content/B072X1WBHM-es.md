@@ -5,7 +5,7 @@ date: 2020-02-01 21:23:14
 image: 'https://m.media-amazon.com/images/I/41NvCi5mzVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072X1WBHM-es Columbia Chaqueta Impermeable para Mujer Largo Medio...'
 sku: 'B072X1WBHM-es'
 tags: [ 'chaqueta', ]

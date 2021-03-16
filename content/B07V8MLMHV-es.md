@@ -5,7 +5,7 @@ date: 2020-04-11 14:08:25
 image: 'https://m.media-amazon.com/images/I/31+7wGheBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8MLMHV-es Tom Tailor Denim Culver Vaqueros Skinny Azul Mid Stone...'
 sku: 'B07V8MLMHV-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-04-11 19:31:35
 image: 'https://m.media-amazon.com/images/I/31qOXvAko1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXMRMC2-es Diesel S-Crew-Division-D Sweat-Shirt Sudadera Negro Negro...'
 sku: 'B07QXMRMC2-es'
 tags: [ 'sudadera', ]

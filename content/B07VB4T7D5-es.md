@@ -5,7 +5,7 @@ date: 2020-08-06 13:33:28
 image: 'https://m.media-amazon.com/images/I/51PVAReJVYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB4T7D5-es Scotch & Soda Oversized Boxy Fit Cotton Viscose Shirt In...'
 sku: 'B07VB4T7D5-es'
 tags: [ 'blusa', ]

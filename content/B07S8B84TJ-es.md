@@ -5,7 +5,7 @@ date: 2020-03-22 14:31:19
 image: 'https://m.media-amazon.com/images/I/41RtXyMiF+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8B84TJ-es Sandalias Mujer Verano 2019 con Plataforma Damas Moda...'
 sku: 'B07S8B84TJ-es'
 tags: [ 'moda','sandalias','zapatos', ]

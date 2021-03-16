@@ -5,7 +5,7 @@ date: 2020-04-08 19:21:45
 image: 'https://m.media-amazon.com/images/I/41QgEE2lT+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y86DJF-es HIKARO Sudadera con Capucha Hombre Azul Aqua 52 Talla del...'
 sku: 'B077Y86DJF-es'
 tags: [ 'sudadera', ]

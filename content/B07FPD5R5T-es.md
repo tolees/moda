@@ -5,7 +5,7 @@ date: 2020-07-15 20:04:30
 image: 'https://m.media-amazon.com/images/I/41QavQW2cXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPD5R5T-es Timberland 6 Inch Premium Waterproof Botas para Hombre...'
 sku: 'B07FPD5R5T-es'
 tags: [ 'timberland', ]

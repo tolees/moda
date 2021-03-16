@@ -5,7 +5,7 @@ date: 2020-06-15 10:46:40
 image: 'https://m.media-amazon.com/images/I/41DWjprsirL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8SFH9B-es Levi s 512 Slim Taper Fit Vaqueros Tapered Azul Abu ADV...'
 sku: 'B07K8SFH9B-es'
 tags: [ 'vaqueros', ]

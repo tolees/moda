@@ -5,7 +5,7 @@ date: 2020-02-01 13:09:53
 image: 'https://m.media-amazon.com/images/I/41KX7NjnSDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSP21F7-es PORPEE Gafas de Sol Hombre Mujer Polarizadas Súper Ligero...'
 sku: 'B07VSP21F7-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-08-05 11:14:07
 image: 'https://m.media-amazon.com/images/I/41mjZU5Mk3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYWCDN2-es Wrangler LS 1 Pkt Shirt Camisa Rojo Formula Red Xwo Large...'
 sku: 'B07TYWCDN2-es'
 tags: [ 'camisa', ]

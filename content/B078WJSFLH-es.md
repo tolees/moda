@@ -5,7 +5,7 @@ date: 2020-09-21 20:34:59
 image: 'https://m.media-amazon.com/images/I/41xr+7quJ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WJSFLH-es Levi s Graphic Camiseta Blanco 84 Sportswear Logo White...'
 sku: 'B078WJSFLH-es'
 tags: [ 'camiseta', ]

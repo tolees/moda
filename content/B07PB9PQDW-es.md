@@ -5,7 +5,7 @@ date: 2020-04-07 16:08:26
 image: 'https://m.media-amazon.com/images/I/41plM7EV02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PB9PQDW-es JACK & JONES Jcojordan tee SS Crew Neck Camiseta Azul...'
 sku: 'B07PB9PQDW-es'
 tags: [ 'camiseta', ]

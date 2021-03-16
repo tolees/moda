@@ -5,7 +5,7 @@ date: 2020-08-13 14:37:11
 image: 'https://m.media-amazon.com/images/I/41H4UW6FhLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ2CJY3-es BILLABONG Jackson SS Camiseta Negro Black 19 One Size...'
 sku: 'B07RZ2CJY3-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-09-14 19:28:35
 image: 'https://m.media-amazon.com/images/I/31U9iqoRSZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFL2PS6-es HUGO Elisha02 Camisa Blanco Open White 199 43 para Hombre'
 sku: 'B07VFL2PS6-es'
 tags: [ 'camisa', ]

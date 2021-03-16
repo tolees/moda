@@ -5,7 +5,7 @@ date: 2020-08-14 12:08:34
 image: 'https://m.media-amazon.com/images/I/31Itwt7BpZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DYZR04G-es Polaroid PLD 6014/S Y2 YYV Gafas de sol Negro Black...'
 sku: 'B01DYZR04G-es'
 tags: [ 'gafas', ]

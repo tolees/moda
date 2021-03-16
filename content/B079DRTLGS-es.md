@@ -5,7 +5,7 @@ date: 2020-01-21 12:59:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31sgPPohazL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DRTLGS-es Anna Smith Bolso de embrague con correa Bolso de noche de...'
 sku: 'B079DRTLGS-es'
 tags: [ 'bolso', ]

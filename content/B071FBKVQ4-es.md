@@ -5,7 +5,7 @@ date: 2020-05-19 15:23:02
 image: 'https://m.media-amazon.com/images/I/31cqme65gkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FBKVQ4-es Crocs Crocband U Zuecos Unisex Adulto Blanco White-Blue...'
 sku: 'B071FBKVQ4-es'
 tags: [ 'zuecos', ]

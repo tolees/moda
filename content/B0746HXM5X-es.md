@@ -5,7 +5,7 @@ date: 2020-01-19 20:36:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BbDNlszEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746HXM5X-es Vbiger Trineos de Snowboard Moto Ciclismo Guantes de...'
 sku: 'B0746HXM5X-es'
 tags: [ 'guantes', ]

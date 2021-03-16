@@ -5,7 +5,7 @@ date: 2020-08-01 06:33:48
 image: 'https://m.media-amazon.com/images/I/41JANA+6A7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08398XQBL-es Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua...'
 sku: 'B08398XQBL-es'
 tags: [ 'zapatos', ]

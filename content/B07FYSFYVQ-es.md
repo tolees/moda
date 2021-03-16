@@ -5,7 +5,7 @@ date: 2020-07-18 14:32:26
 image: 'https://m.media-amazon.com/images/I/312B7Tl+YKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYSFYVQ-es Lee Brooklyn Straight Vaqueros para Hombre Azul Rinse Dp...'
 sku: 'B07FYSFYVQ-es'
 tags: [ 'vaqueros', ]

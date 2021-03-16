@@ -5,7 +5,7 @@ date: 2020-08-01 08:46:18
 image: 'https://m.media-amazon.com/images/I/514u5Y78+mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZUYESWM-es Reef Phantoms Sandalias Flip-Flop para Hombre Negro Black...'
 sku: 'B00ZUYESWM-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-01-19 19:16:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41C%2B5dn9aSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N8HKAI4-es ALPHA INDUSTRIES 183110-184-M Chaqueta Rojo Burgundy 184...'
 sku: 'B00N8HKAI4-es'
 tags: [ 'chaqueta', ]

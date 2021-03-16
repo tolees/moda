@@ -5,7 +5,7 @@ date: 2020-01-20 14:40:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IHcgt5H3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JWM8ZR-es Napapijri Rainforest Winter Chaqueta para Hombre Rojo Red...'
 sku: 'B079JWM8ZR-es'
 tags: [ 'chaqueta', ]

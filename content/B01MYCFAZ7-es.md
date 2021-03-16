@@ -5,7 +5,7 @@ date: 2020-04-16 18:48:40
 image: 'https://m.media-amazon.com/images/I/513zz1Jz0RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYCFAZ7-es Kayhan Hombre Camisa Monaco Red M'
 sku: 'B01MYCFAZ7-es'
 tags: [ 'camisa', ]

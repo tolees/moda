@@ -5,7 +5,7 @@ date: 2020-09-03 21:00:44
 image: 'https://m.media-amazon.com/images/I/41D1uVNJUyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ZKSKOE-es Pepe Jeans Venus Vaqueros Negro Black 999 27W / 32L para...'
 sku: 'B004ZKSKOE-es'
 tags: [ 'vaqueros', ]

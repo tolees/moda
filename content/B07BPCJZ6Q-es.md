@@ -5,7 +5,7 @@ date: 2020-05-01 16:07:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oLWlDQzPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPCJZ6Q-es Hem & Seam Camisa Formal Entallada Hombre Negro Black...'
 sku: 'B07BPCJZ6Q-es'
 tags: [ 'camisa', ]

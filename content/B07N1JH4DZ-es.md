@@ -5,7 +5,7 @@ date: 2020-02-26 22:04:15
 image: 'https://m.media-amazon.com/images/I/31Gxt9srrBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JH4DZ-es Clarks Un Adorn Walk Botines Mujer Azul Navy Nubuck Navy...'
 sku: 'B07N1JH4DZ-es'
 tags: [ 'botines', ]

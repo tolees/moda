@@ -5,7 +5,7 @@ date: 2020-07-07 09:37:01
 image: 'https://m.media-amazon.com/images/I/41Jlyo0uxwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYHJKTL-es Levi s The tee Camiseta Blanco 90 s Serif T2 Multicolor...'
 sku: 'B07TYHJKTL-es'
 tags: [ 'camiseta', ]

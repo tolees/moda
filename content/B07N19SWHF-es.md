@@ -5,7 +5,7 @@ date: 2020-03-16 13:04:21
 image: 'https://m.media-amazon.com/images/I/41tS+HuO-xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19SWHF-es Lee Crew Sws Sudadera para Hombre Naranja Sign Orange Me...'
 sku: 'B07N19SWHF-es'
 tags: [ 'sudadera', ]

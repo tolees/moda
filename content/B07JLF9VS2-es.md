@@ -5,7 +5,7 @@ date: 2020-01-07 16:26:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JF5DFZUbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLF9VS2-es Wrangler SS Modern Western SH Camisa Azul Starlight Blue...'
 sku: 'B07JLF9VS2-es'
 tags: [ 'camisa', ]

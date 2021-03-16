@@ -5,7 +5,7 @@ date: 2020-05-13 16:06:49
 image: 'https://m.media-amazon.com/images/I/31F8Y7xD72L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSCB385-es Clarks Un Karely Sun Chanclas para Mujer Negro Black...'
 sku: 'B07FSCB385-es'
 tags: [ 'chanclas', ]

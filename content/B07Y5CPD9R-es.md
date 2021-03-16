@@ -5,7 +5,7 @@ date: 2020-09-16 06:31:59
 image: 'https://m.media-amazon.com/images/I/41JW4a9K95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5CPD9R-es Geographical Norway Sudadera DE Hombre GYMCLASS A Rojo S'
 sku: 'B07Y5CPD9R-es'
 tags: [ 'sudadera', ]

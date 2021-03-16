@@ -5,7 +5,7 @@ date: 2020-08-09 19:16:30
 image: 'https://m.media-amazon.com/images/I/41eg7xhEwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDFZK92-es Desigual TS Milan Camiseta Amarillo Blazing 8035 Small...'
 sku: 'B07VDFZK92-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-09-03 07:00:43
 image: 'https://m.media-amazon.com/images/I/516VQy2Wf0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK91HRH-es CoolBELL Mochila Convertible en Bolso de Hombro para...'
 sku: 'B07DK91HRH-es'
 tags: [ 'bolso', ]

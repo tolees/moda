@@ -5,7 +5,7 @@ date: 2020-07-20 19:01:42
 image: 'https://m.media-amazon.com/images/I/311yw2j2EmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0079JI4DU-es Arena Zoom X-Fit Gafas de Natación Unisex Adulto Negro...'
 sku: 'B0079JI4DU-es'
 tags: [ 'gafas', ]

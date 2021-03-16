@@ -5,7 +5,7 @@ date: 2020-01-06 22:23:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hi5HNegzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQXK8SP-es YOSICIL Zapatos de la Princesa Elsa niñas con Lentejuela...'
 sku: 'B07WQXK8SP-es'
 tags: [ 'sandalias','zapatos', ]

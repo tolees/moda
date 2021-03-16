@@ -5,7 +5,7 @@ date: 2020-05-02 08:04:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nBlvj7NvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y8N9RF-es HIKARO Camiseta con Botones Hombre Gris Grey Marl 50 Talla...'
 sku: 'B077Y8N9RF-es'
 tags: [ 'camiseta', ]

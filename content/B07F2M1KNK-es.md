@@ -5,7 +5,7 @@ date: 2020-01-12 18:09:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vwq0m0KzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2M1KNK-es Vans Left Chest Logo tee Camiseta para Hombre Negro Black...'
 sku: 'B07F2M1KNK-es'
 tags: [ 'camiseta', ]

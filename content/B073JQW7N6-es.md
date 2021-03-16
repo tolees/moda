@@ -5,7 +5,7 @@ date: 2020-04-29 13:14:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41et1FZI7CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JQW7N6-es find. Camisa de Algodón Hombre Azul Navy 54 Talla del...'
 sku: 'B073JQW7N6-es'
 tags: [ 'camisa', ]

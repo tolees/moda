@@ -5,7 +5,7 @@ date: 2020-07-02 21:10:57
 image: 'https://m.media-amazon.com/images/I/41Rd+c4PcRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JR1YS1A-es Timberland Euro Rock Hiker Botas Chukka para Hombre Azul...'
 sku: 'B00JR1YS1A-es'
 tags: [ 'timberland', ]

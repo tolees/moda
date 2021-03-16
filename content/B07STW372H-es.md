@@ -5,7 +5,7 @@ date: 2020-08-09 09:11:44
 image: 'https://m.media-amazon.com/images/I/51SHCKWPtgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STW372H-es Quiksilver Molokai Layback Zapatos de Playa y Piscina para...'
 sku: 'B07STW372H-es'
 tags: [ 'zapatos', ]

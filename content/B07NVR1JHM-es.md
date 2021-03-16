@@ -5,7 +5,7 @@ date: 2020-05-26 11:59:28
 image: 'https://m.media-amazon.com/images/I/41-LeqUicxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVR1JHM-es G-STAR RAW Graphic Logo 4 Camiseta Azul Small Talla del...'
 sku: 'B07NVR1JHM-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-02 15:18:15
 image: 'https://m.media-amazon.com/images/I/41iWNo73T6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FG1KGBW-es Mujer Maxi Vestido Sexy Sin Mangas Cabestro Backless...'
 sku: 'B07FG1KGBW-es'
 tags: [ 'vestido', ]

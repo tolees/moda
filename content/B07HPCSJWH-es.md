@@ -5,7 +5,7 @@ date: 2020-03-08 11:33:45
 image: 'https://m.media-amazon.com/images/I/51J9+Qi74aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPCSJWH-es Cartera Pepe Jeans Jeans vertical con monedero Azul'
 sku: 'B07HPCSJWH-es'
 tags: [ 'monedero', ]

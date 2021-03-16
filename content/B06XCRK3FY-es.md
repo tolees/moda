@@ -5,7 +5,7 @@ date: 2020-01-06 13:13:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cgqQFeHtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCRK3FY-es find. Vestido Camisero con Estampado de Rayas y Volantes...'
 sku: 'B06XCRK3FY-es'
 tags: [ 'vestido', ]

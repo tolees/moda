@@ -5,7 +5,7 @@ date: 2020-01-14 19:02:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3103y-mG9SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VLC96K-es Levi s tee Camiseta Blanco White Cn-100xx 0006 Medium para...'
 sku: 'B077VLC96K-es'
 tags: [ 'camiseta', ]

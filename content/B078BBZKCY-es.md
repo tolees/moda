@@ -5,7 +5,7 @@ date: 2020-06-26 21:44:24
 image: 'https://m.media-amazon.com/images/I/41k8xeCNzML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BBZKCY-es Under Armour Woven Graphic Short Pantalón Corto Hombre...'
 sku: 'B078BBZKCY-es'
 tags: [ 'pantalón', ]

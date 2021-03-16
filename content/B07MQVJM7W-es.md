@@ -5,7 +5,7 @@ date: 2020-03-16 14:34:06
 image: 'https://m.media-amazon.com/images/I/41vK-3LoICL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQVJM7W-es Napapijri Berber H Sudadera con Capucha Gris Med Grey Mel...'
 sku: 'B07MQVJM7W-es'
 tags: [ 'sudadera', ]

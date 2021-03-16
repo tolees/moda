@@ -5,7 +5,7 @@ date: 2020-07-14 12:32:36
 image: 'https://m.media-amazon.com/images/I/41px8bYhYyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089LZR9H5-es Dihope - Pantalón de deporte informal para hombre diseño...'
 sku: 'B089LZR9H5-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-02-08 22:55:32
 image: 'https://m.media-amazon.com/images/I/41q+paJ0u5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3GP5CN-es Tommy Hilfiger Elevated Leather Heeled Sandal Sandalias...'
 sku: 'B07L3GP5CN-es'
 tags: [ 'sandalias', ]

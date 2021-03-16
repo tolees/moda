@@ -5,7 +5,7 @@ date: 2020-04-07 16:06:10
 image: 'https://m.media-amazon.com/images/I/41uGfNq+SaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006YLR8TA-es Lacoste L1212 Camiseta Polo Azul Tanzanite C8Q XS Talla...'
 sku: 'B006YLR8TA-es'
 tags: [ 'camiseta', ]

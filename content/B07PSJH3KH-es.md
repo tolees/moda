@@ -5,7 +5,7 @@ date: 2020-03-02 14:46:06
 image: 'https://m.media-amazon.com/images/I/415CR-oj0DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJH3KH-es Kipling Osyka Bolso Con Bandolera para Mujer Dorado Cloud...'
 sku: 'B07PSJH3KH-es'
 tags: [ 'bolso', ]

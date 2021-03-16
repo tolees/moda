@@ -5,7 +5,7 @@ date: 2020-06-06 15:24:04
 image: 'https://m.media-amazon.com/images/I/41lIpgvez3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNJJG51-es MTNG Levin Bolso bandolera para Mujer Negro Lis Neg/Leop...'
 sku: 'B07PNJJG51-es'
 tags: [ 'bolso', ]

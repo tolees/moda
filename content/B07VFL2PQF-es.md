@@ -5,7 +5,7 @@ date: 2020-06-15 17:11:38
 image: 'https://m.media-amazon.com/images/I/31SJXuu7c7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFL2PQF-es HUGO 734 Vaqueros Skinny Gris Medium Grey 30 W30/L30 Talla...'
 sku: 'B07VFL2PQF-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-06-25 04:44:49
 image: 'https://m.media-amazon.com/images/I/417lOWyumPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q249JCV-es Under Armour UA Jet Zapatos de Deporte para Hombre Negro...'
 sku: 'B07Q249JCV-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-29 18:15:56
 image: 'https://m.media-amazon.com/images/I/51JO3HD+AdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QHN9-es Napapijri GOAYO Camisa Casual Rojo Red Check 13C S para...'
 sku: 'B07MK1QHN9-es'
 tags: [ 'camisa', ]

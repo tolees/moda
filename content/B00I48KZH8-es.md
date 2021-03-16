@@ -5,7 +5,7 @@ date: 2020-04-29 18:22:34
 image: 'https://m.media-amazon.com/images/I/51yupBMBWuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I48KZH8-es Katara Juego de Disfraces Super Mario Bros Niños/Adultos...'
 sku: 'B00I48KZH8-es'
 tags: [ 'guantes', ]

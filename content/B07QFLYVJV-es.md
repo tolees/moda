@@ -5,7 +5,7 @@ date: 2020-05-29 10:45:04
 image: 'https://m.media-amazon.com/images/I/41GsbUo0qZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFLYVJV-es Victorem NBA Michael Jordan #23 Camiseta de Baloncesto...'
 sku: 'B07QFLYVJV-es'
 tags: [ 'camiseta','chaleco', ]

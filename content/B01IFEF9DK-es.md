@@ -5,7 +5,7 @@ date: 2020-01-14 13:03:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LXgjNjS-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IFEF9DK-es Birkenstock Gizeh Eva - Sandalias unisex Marrón Copper 38'
 sku: 'B01IFEF9DK-es'
 tags: [ 'sandalias', ]

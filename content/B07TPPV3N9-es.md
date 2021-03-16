@@ -5,7 +5,7 @@ date: 2020-09-10 17:15:08
 image: 'https://m.media-amazon.com/images/I/41xaUHwaMEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPPV3N9-es Levi s Sudadera Azul Logo Colorblock Crew Dress...'
 sku: 'B07TPPV3N9-es'
 tags: [ 'sudadera', ]

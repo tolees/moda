@@ -5,7 +5,7 @@ date: 2020-04-09 19:08:22
 image: 'https://m.media-amazon.com/images/I/419b0Z8TiNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QLW7-es Napapijri Rainforest Pocket Chaqueta Rojo High Risk Red...'
 sku: 'B07MK1QLW7-es'
 tags: [ 'chaqueta', ]

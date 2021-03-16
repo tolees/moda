@@ -5,7 +5,7 @@ date: 2020-04-09 09:17:53
 image: 'https://m.media-amazon.com/images/I/4165k5bxnhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BP1LLPC-es JACK & JONES JJIALVIN JJJACKET AKM 528 STS Chaqueta...'
 sku: 'B07BP1LLPC-es'
 tags: [ 'chaqueta', ]

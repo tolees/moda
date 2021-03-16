@@ -5,7 +5,7 @@ date: 2020-03-02 12:36:27
 image: 'https://m.media-amazon.com/images/I/41ZgdQFs0PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG145CZ-es Geox J Casey Girl WPF C Botas Militar para Niñas Negro...'
 sku: 'B07LG145CZ-es'
 tags: [ 'geox', ]

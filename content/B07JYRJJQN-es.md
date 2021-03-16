@@ -5,7 +5,7 @@ date: 2020-05-08 07:21:07
 image: 'https://m.media-amazon.com/images/I/31QIL85VptL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYRJJQN-es Tommy Hilfiger TJM Stretch Oxford Shirt Camisa Blanco...'
 sku: 'B07JYRJJQN-es'
 tags: [ 'camisa', ]

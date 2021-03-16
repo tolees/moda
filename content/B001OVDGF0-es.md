@@ -5,7 +5,7 @@ date: 2020-05-10 11:03:10
 image: 'https://m.media-amazon.com/images/I/41vjcKGrPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001OVDGF0-es adidas Adilette Chanclas Hombre Azul Adiblu/White/Adiblu...'
 sku: 'B001OVDGF0-es'
 tags: [ 'chanclas', ]

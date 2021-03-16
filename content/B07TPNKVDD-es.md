@@ -5,7 +5,7 @@ date: 2020-09-17 10:19:53
 image: 'https://m.media-amazon.com/images/I/41NfyL4eT1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPNKVDD-es FM London Fitted Boxer Azul Dark Assorted 03 XX-Large Pack...'
 sku: 'B07TPNKVDD-es'
 tags: [ 'boxer', ]

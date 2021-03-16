@@ -5,7 +5,7 @@ date: 2020-03-08 22:16:48
 image: 'https://m.media-amazon.com/images/I/31CeubFBs4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011BW15UO-es The North Face Jkt Chaqueta Snow Quest Unisex niños Negro M'
 sku: 'B011BW15UO-es'
 tags: [ 'chaqueta', ]

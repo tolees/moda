@@ -5,7 +5,7 @@ date: 2020-04-01 20:19:06
 image: 'https://m.media-amazon.com/images/I/41nFPme89bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHHHBLC-es Kipling Sara Bolso con Bandolera para Mujer Verde Seagrass...'
 sku: 'B07NHHHBLC-es'
 tags: [ 'bolso', ]

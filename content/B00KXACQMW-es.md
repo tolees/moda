@@ -5,7 +5,7 @@ date: 2020-06-24 02:12:50
 image: 'https://m.media-amazon.com/images/I/41xlrveToxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KXACQMW-es Under Armour Raid Camiseta Masculina Camiseta Transpirable...'
 sku: 'B00KXACQMW-es'
 tags: [ 'camiseta', ]

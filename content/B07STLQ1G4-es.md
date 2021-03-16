@@ -5,7 +5,7 @@ date: 2020-07-14 02:06:41
 image: 'https://m.media-amazon.com/images/I/31m9tXN3qrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLQ1G4-es Geox U Wells B Zapatillas para Hombre Azul Navy C4002 39 EU'
 sku: 'B07STLQ1G4-es'
 tags: [ 'geox', ]

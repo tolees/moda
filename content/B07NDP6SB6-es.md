@@ -5,7 +5,7 @@ date: 2020-02-23 18:01:59
 image: 'https://m.media-amazon.com/images/I/31uYeLb8-3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDP6SB6-es G-STAR RAW Earth Core Raglan Round Neck Sudadera Rosa Dk...'
 sku: 'B07NDP6SB6-es'
 tags: [ 'sudadera', ]

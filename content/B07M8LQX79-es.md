@@ -5,7 +5,7 @@ date: 2020-02-17 19:16:38
 image: 'https://m.media-amazon.com/images/I/41RX2J7qspL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LQX79-es Wrangler Sherpa Jacket Chaqueta Vaquera Azul Winter Bleach...'
 sku: 'B07M8LQX79-es'
 tags: [ 'chaqueta', ]

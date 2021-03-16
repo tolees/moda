@@ -5,7 +5,7 @@ date: 2020-03-23 11:51:08
 image: 'https://m.media-amazon.com/images/I/41QM7OCEASL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8L31DD-es Lee Scarlett Cropped Vaqueros skinny Azul Clean Say Jj...'
 sku: 'B07M8L31DD-es'
 tags: [ 'vaqueros', ]

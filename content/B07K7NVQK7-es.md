@@ -5,7 +5,7 @@ date: 2020-01-15 09:18:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7NVQK7-es Levi s 502 Regular Taper Vaqueros Gris Gobbler ADV 0297...'
 sku: 'B07K7NVQK7-es'
 tags: [ 'vaqueros', ]

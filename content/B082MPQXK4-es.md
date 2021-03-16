@@ -5,7 +5,7 @@ date: 2020-01-22 14:30:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FauQHx5wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MPQXK4-es Geographical Norway Parka Hombre Boomerang Camo Azul Marino L'
 sku: 'B082MPQXK4-es'
 tags: [ 'parka', ]

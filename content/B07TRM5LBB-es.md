@@ -5,7 +5,7 @@ date: 2020-10-11 19:21:16
 image: 'https://m.media-amazon.com/images/I/31r0yAgdTcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRM5LBB-es Levi s Original Hm tee Camiseta Blanco LS Cotton + Patch...'
 sku: 'B07TRM5LBB-es'
 tags: [ 'camiseta', ]

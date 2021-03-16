@@ -5,7 +5,7 @@ date: 2020-02-06 10:23:09
 image: 'https://m.media-amazon.com/images/I/413ib5sRlgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CGJKPP-es Geographical Norway Chaqueta Hombre BOKER Azul Marino XL'
 sku: 'B081CGJKPP-es'
 tags: [ 'chaqueta', ]

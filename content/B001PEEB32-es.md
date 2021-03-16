@@ -5,7 +5,7 @@ date: 2020-08-12 07:16:17
 image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001PEEB32-es adidas Originals Adilette Zapatos de Playa y Piscina...'
 sku: 'B001PEEB32-es'
 tags: [ 'zapatos', ]

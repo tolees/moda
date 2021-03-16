@@ -5,7 +5,7 @@ date: 2020-02-14 20:48:47
 image: 'https://m.media-amazon.com/images/I/41Ki2QdgOGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3DLLRM-es Under Armour Armour Fleece 1/2 Zip Sudadera cálida Hombre...'
 sku: 'B07J3DLLRM-es'
 tags: [ 'sudadera', ]

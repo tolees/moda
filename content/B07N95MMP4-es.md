@@ -5,7 +5,7 @@ date: 2020-01-26 11:45:41
 image: 'https://m.media-amazon.com/images/I/31nvMJwiiGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N95MMP4-es BOSS Trek 4 Camiseta Blanco Natural 101 Large para Hombre'
 sku: 'B07N95MMP4-es'
 tags: [ 'camiseta', ]

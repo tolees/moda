@@ -5,7 +5,7 @@ date: 2020-05-13 18:24:41
 image: 'https://m.media-amazon.com/images/I/51CNf2ddvRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNWHDQP-es Funda con Cuerda para iPhone X/XS Carcasa Transparente TPU...'
 sku: 'B07WNWHDQP-es'
 tags: [ 'collar', ]

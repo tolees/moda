@@ -5,7 +5,7 @@ date: 2020-09-30 14:17:31
 image: 'https://m.media-amazon.com/images/I/41HEkGKQphL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1YFHFH-es Only NOS Onlmoon SL Top Noos Wvn Camiseta sin Mangas Verde...'
 sku: 'B07Q1YFHFH-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-06 16:06:36
 image: 'https://m.media-amazon.com/images/I/312lt5JNdyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFL13JD-es Calvin Klein Ckj 026 Vaqueros Slim Azul Stay Black 911 30W...'
 sku: 'B07SFL13JD-es'
 tags: [ 'vaqueros', ]

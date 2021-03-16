@@ -5,7 +5,7 @@ date: 2020-07-04 17:22:37
 image: 'https://m.media-amazon.com/images/I/41D2rg0T6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YL9SQWJ-es s.Oliver 03.899.32.5264 Camiseta Rojo Red 3185 Medium para...'
 sku: 'B07YL9SQWJ-es'
 tags: [ 'camiseta', ]

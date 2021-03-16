@@ -5,7 +5,7 @@ date: 2020-01-20 15:29:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hCEKEGMqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZSPQJ2-es Tom Tailor Ray Camisa Rojo Black Red Minimal De 19536 XXX-...'
 sku: 'B07SZSPQJ2-es'
 tags: [ 'camisa', ]

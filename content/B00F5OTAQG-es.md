@@ -5,7 +5,7 @@ date: 2020-02-04 06:01:58
 image: 'https://m.media-amazon.com/images/I/31jBwiXlgiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F5OTAQG-es GANT The Original SS T-Shirt Camiseta Blanco White 110...'
 sku: 'B00F5OTAQG-es'
 tags: [ 'camiseta', ]

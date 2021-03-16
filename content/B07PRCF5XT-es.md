@@ -5,7 +5,7 @@ date: 2020-03-29 15:14:37
 image: 'https://m.media-amazon.com/images/I/41iyL2o4gDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCF5XT-es Kipling Osyka Bolso Con Bandolera para Mujer Naranja...'
 sku: 'B07PRCF5XT-es'
 tags: [ 'bolso', ]

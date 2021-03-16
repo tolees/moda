@@ -5,7 +5,7 @@ date: 2020-09-28 18:00:33
 image: 'https://m.media-amazon.com/images/I/51slwuDGQJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GB71NK-es Tommy Hilfiger Bikini Culotte Gris Grey Heather 004 Large...'
 sku: 'B078GB71NK-es'
 tags: [ 'bikini', ]

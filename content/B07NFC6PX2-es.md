@@ -5,7 +5,7 @@ date: 2020-02-21 14:03:53
 image: 'https://m.media-amazon.com/images/I/41J9EnxvZHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFC6PX2-es Tommy Hilfiger Kitty C-nk Sweatshirt LS Sudadera Light...'
 sku: 'B07NFC6PX2-es'
 tags: [ 'sudadera', ]

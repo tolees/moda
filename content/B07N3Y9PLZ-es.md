@@ -5,7 +5,7 @@ date: 2020-06-21 18:01:37
 image: 'https://m.media-amazon.com/images/I/31zcCyS7tbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3Y9PLZ-es Desigual Dress LENCY Vestido Negro 5074 38 para Mujer'
 sku: 'B07N3Y9PLZ-es'
 tags: [ 'vestido', ]

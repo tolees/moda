@@ -5,7 +5,7 @@ date: 2020-04-16 11:54:07
 image: 'https://m.media-amazon.com/images/I/31gBJnCWq5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ54SPQ-es Women s Secret Black & White Multilicense Mbw MF Igloo PJ...'
 sku: 'B07TZ54SPQ-es'
 tags: [ 'pijama', ]

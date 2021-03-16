@@ -5,7 +5,7 @@ date: 2020-02-15 15:44:19
 image: 'https://m.media-amazon.com/images/I/31vtDeqEevL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5HR3SC-es Crocs Flip Flops Chanclas Unisex Adulto Azul Navy/Cerulean...'
 sku: 'B01N5HR3SC-es'
 tags: [ 'chanclas', ]

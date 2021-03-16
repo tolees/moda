@@ -5,7 +5,7 @@ date: 2020-02-02 09:57:50
 image: 'https://m.media-amazon.com/images/I/41hN2GFbhNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLPFN9-es Napapijri BOVES C Sudadera Rojo Red Scarlet R01 S para Hombre'
 sku: 'B07MMLPFN9-es'
 tags: [ 'sudadera', ]

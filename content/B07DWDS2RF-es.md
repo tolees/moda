@@ -5,7 +5,7 @@ date: 2020-03-07 00:33:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317HTzhGKqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWDS2RF-es Under Armour Tech SSC Graphic Camiseta Mujer Blanco...'
 sku: 'B07DWDS2RF-es'
 tags: [ 'camiseta', ]

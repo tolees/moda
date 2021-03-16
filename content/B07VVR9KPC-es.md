@@ -5,7 +5,7 @@ date: 2020-08-14 08:26:29
 image: 'https://m.media-amazon.com/images/I/31rG9wJwW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVR9KPC-es Pepe Jeans Art Camiseta Azul 519light SPA 519 8-9 años...'
 sku: 'B07VVR9KPC-es'
 tags: [ 'camiseta', ]

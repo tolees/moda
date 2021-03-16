@@ -5,7 +5,7 @@ date: 2020-07-06 11:34:15
 image: 'https://m.media-amazon.com/images/I/31Kl+54IfoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCG2HHW-es Crocs Literide Clog Zuecos Unisex Adulto Azul Navy/Almost...'
 sku: 'B07SCG2HHW-es'
 tags: [ 'zuecos', ]

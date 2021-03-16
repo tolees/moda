@@ -5,7 +5,7 @@ date: 2020-01-07 14:08:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41erA6kFQLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXJ37M8-es Wrangler Regular Jacket Chaqueta Azul Bleached out 12d XX-...'
 sku: 'B07JXJ37M8-es'
 tags: [ 'chaqueta', ]

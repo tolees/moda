@@ -5,7 +5,7 @@ date: 2020-06-25 17:48:29
 image: 'https://m.media-amazon.com/images/I/31-Jl7EOYwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZVVF9D-es Marca Amazon – Goodthreads – Pantalones cortos chinos...'
 sku: 'B07DZVVF9D-es'
 tags: [ 'goodthreads', ]

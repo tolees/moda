@@ -5,7 +5,7 @@ date: 2020-10-05 11:45:07
 image: 'https://m.media-amazon.com/images/I/411mrNQQC9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNPK329-es Levi s HR Decon Iconic BF Skirt Falda Azul High Plains...'
 sku: 'B07TNPK329-es'
 tags: [ 'falda', ]

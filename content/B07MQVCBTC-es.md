@@ -5,7 +5,7 @@ date: 2020-03-30 15:14:22
 image: 'https://m.media-amazon.com/images/I/41KL59w-VHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQVCBTC-es Napapijri Berber H Sudadera con Capucha Rojo Red Scarlet...'
 sku: 'B07MQVCBTC-es'
 tags: [ 'sudadera', ]

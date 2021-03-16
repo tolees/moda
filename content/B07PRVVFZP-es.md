@@ -5,7 +5,7 @@ date: 2020-03-07 17:32:56
 image: 'https://m.media-amazon.com/images/I/51X2WexeRQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRVVFZP-es MLMLANT Guantes de Barbacoa Resistentes Al Calor Extremo...'
 sku: 'B07PRVVFZP-es'
 tags: [ 'guantes', ]

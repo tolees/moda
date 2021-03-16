@@ -5,7 +5,7 @@ date: 2020-01-16 18:53:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bayq7j5dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGKP5TS-es Parfois - Clutch - Bolso De Fiesta Con Abalorios - Mujeres...'
 sku: 'B07WGKP5TS-es'
 tags: [ 'bolso', ]

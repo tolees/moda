@@ -5,7 +5,7 @@ date: 2020-03-20 19:33:58
 image: 'https://m.media-amazon.com/images/I/41lxDdt59PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTNQDG-es Women s Secret Trendy Tapestry TT Green CLAS PJ FR...'
 sku: 'B07TVTNQDG-es'
 tags: [ 'pijama', ]

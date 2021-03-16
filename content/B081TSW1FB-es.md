@@ -5,7 +5,7 @@ date: 2020-09-10 07:44:33
 image: 'https://m.media-amazon.com/images/I/41guVsb4W-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TSW1FB-es adidas Mono Jersey Pol T-Shirt Hombre Night Marine/White M'
 sku: 'B081TSW1FB-es'
 tags: [ 'jersey', ]

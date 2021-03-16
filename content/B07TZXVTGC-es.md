@@ -5,7 +5,7 @@ date: 2020-03-09 09:30:19
 image: 'https://m.media-amazon.com/images/I/41vKCbzpiBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZXVTGC-es Only Onlnaiomi Hooded Jacket CC Otw Chaqueta Rojo Merlot...'
 sku: 'B07TZXVTGC-es'
 tags: [ 'chaqueta', ]

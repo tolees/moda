@@ -5,7 +5,7 @@ date: 2020-02-01 03:46:49
 image: 'https://m.media-amazon.com/images/I/413yiTAPy8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XMLC8WM-es Pepe Jeans New Brooke Vaqueros Azul 10Oz Rinse Plus...'
 sku: 'B00XMLC8WM-es'
 tags: [ 'vaqueros', ]

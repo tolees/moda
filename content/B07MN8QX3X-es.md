@@ -5,7 +5,7 @@ date: 2020-01-29 13:14:39
 image: 'https://m.media-amazon.com/images/I/31SdFErrfBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN8QX3X-es Napapijri Bolso Bandolera Negro Negro - N0YIY0'
 sku: 'B07MN8QX3X-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-04-03 12:37:57
 image: 'https://m.media-amazon.com/images/I/41uYPtzypzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGRZKXV-es JACK & JONES Jprsander Detail Shirt L/s Pre Camisa Azul...'
 sku: 'B07VGRZKXV-es'
 tags: [ 'camisa', ]

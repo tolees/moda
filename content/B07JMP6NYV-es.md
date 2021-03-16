@@ -5,7 +5,7 @@ date: 2020-01-06 12:18:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DgueaunIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMP6NYV-es XTI 49105 Sandalias con Plataforma para Mujer Azul Jeans...'
 sku: 'B07JMP6NYV-es'
 tags: [ 'sandalias', ]

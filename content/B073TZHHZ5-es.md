@@ -5,7 +5,7 @@ date: 2020-02-08 15:11:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4176OZRXGxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073TZHHZ5-es Vero Moda Vmagoura LS O-Neck Blouse A suéter Mujer Negro...'
 sku: 'B073TZHHZ5-es'
 tags: [ 'moda', ]

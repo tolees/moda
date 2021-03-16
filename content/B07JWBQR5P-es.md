@@ -5,7 +5,7 @@ date: 2020-07-12 07:55:21
 image: 'https://m.media-amazon.com/images/I/513DWFP8dHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWBQR5P-es dPois Vestidos de Princesa Diadema Niña Bebé Fiesta...'
 sku: 'B07JWBQR5P-es'
 tags: [ 'falda', ]

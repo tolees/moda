@@ -5,7 +5,7 @@ date: 2019-12-31 15:31:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xC-l-DzdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18B7GY-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros Dusty Grey...'
 sku: 'B07N18B7GY-es'
 tags: [ 'vaqueros', ]

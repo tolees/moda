@@ -5,7 +5,7 @@ date: 2020-06-16 11:33:47
 image: 'https://m.media-amazon.com/images/I/414SC3yBoGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8HHQHN-es Geox U Snake.2 A Zapatillas para Hombre Marrón Cigar/Dk...'
 sku: 'B07M8HHQHN-es'
 tags: [ 'geox', ]

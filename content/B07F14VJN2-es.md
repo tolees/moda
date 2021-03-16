@@ -5,7 +5,7 @@ date: 2020-04-25 16:43:31
 image: 'https://m.media-amazon.com/images/I/41Ihy5eMaWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F14VJN2-es SHOBDW Las Mujeres de Moda señora de la Cintura elástica...'
 sku: 'B07F14VJN2-es'
 tags: [ 'moda', ]

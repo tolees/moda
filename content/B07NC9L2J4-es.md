@@ -5,7 +5,7 @@ date: 2020-03-12 15:23:31
 image: 'https://m.media-amazon.com/images/I/315RILeCDtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC9L2J4-es Pepe Jeans Zip Thru Boys Sudadera Azul Navy 595 2 años...'
 sku: 'B07NC9L2J4-es'
 tags: [ 'sudadera', ]

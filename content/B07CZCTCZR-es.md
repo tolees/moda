@@ -5,7 +5,7 @@ date: 2020-02-18 11:26:34
 image: 'https://m.media-amazon.com/images/I/31T-+QF6y8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZCTCZR-es Under Armour Sportstyle Logo LS Camiseta Hombre Negro...'
 sku: 'B07CZCTCZR-es'
 tags: [ 'camiseta', ]

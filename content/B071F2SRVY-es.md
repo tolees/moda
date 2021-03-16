@@ -5,7 +5,7 @@ date: 2020-03-09 09:47:08
 image: 'https://m.media-amazon.com/images/I/31Bhvaz0ffL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071F2SRVY-es Lacoste TH6710 Camiseta Rojo Rouge XXX-Large Talla del...'
 sku: 'B071F2SRVY-es'
 tags: [ 'camiseta', ]

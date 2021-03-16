@@ -5,7 +5,7 @@ date: 2020-08-27 15:45:27
 image: 'https://m.media-amazon.com/images/I/31zsvPUh4sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YLWMHZV-es VERTBAUDET Camiseta de Cuello Alto fantasía bebé niño Azul...'
 sku: 'B07YLWMHZV-es'
 tags: [ 'camiseta', ]

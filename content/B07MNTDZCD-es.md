@@ -5,7 +5,7 @@ date: 2020-09-22 18:29:40
 image: 'https://m.media-amazon.com/images/I/41NfxonHaYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNTDZCD-es oodji Ultra Mujer Blusa Ancha con Escote Gota en la...'
 sku: 'B07MNTDZCD-es'
 tags: [ 'blusa', ]

@@ -5,7 +5,7 @@ date: 2020-09-22 11:02:36
 image: 'https://m.media-amazon.com/images/I/41mry-pfKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E5FYJZ8-es PUMA Suede Classic+ Zapatilla para Hombre Rojo...'
 sku: 'B00E5FYJZ8-es'
 tags: [ 'zapatilla', ]

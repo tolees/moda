@@ -5,7 +5,7 @@ date: 2020-02-25 16:44:15
 image: 'https://m.media-amazon.com/images/I/41J645e7jVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AL4T2HQ-es Wilson M Rush 9 Woven Short Blue Mir. - Pantalón Corto...'
 sku: 'B01AL4T2HQ-es'
 tags: [ 'pantalón', ]

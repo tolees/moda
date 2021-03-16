@@ -5,7 +5,7 @@ date: 2020-01-30 10:07:10
 image: 'https://m.media-amazon.com/images/I/41JAkParcAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN5VDFK-es Fly London Ragi539fly Botines para Mujer Rojo Red 006 38 EU'
 sku: 'B07MN5VDFK-es'
 tags: [ 'botines', ]

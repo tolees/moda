@@ -5,7 +5,7 @@ date: 2020-10-12 21:25:38
 image: 'https://m.media-amazon.com/images/I/41IDvmE-axL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075X42SCX-es Marca Amazon - find. Vaqueros Rectos de Tiro Alto...'
 sku: 'B075X42SCX-es'
 tags: [ '-','find.','vaqueros', ]

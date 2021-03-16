@@ -5,7 +5,7 @@ date: 2020-09-10 15:27:47
 image: 'https://m.media-amazon.com/images/I/31D0TtwiNFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYXZZ2V-es Columbia Pantalón de Excursionismo para Mujer Back Beauty...'
 sku: 'B07DYXZZ2V-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-07-18 16:18:08
 image: 'https://m.media-amazon.com/images/I/31ATWTLnbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G17F7NR-es Tommy Hilfiger T Camiseta Básica de Manga Corta Negro...'
 sku: 'B07G17F7NR-es'
 tags: [ 'camiseta', ]

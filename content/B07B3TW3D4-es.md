@@ -5,7 +5,7 @@ date: 2020-04-28 16:04:04
 image: 'https://m.media-amazon.com/images/I/51IHWaJDl+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3TW3D4-es gracosy Mocasines para Mujer Primavera/Verano Vintage...'
 sku: 'B07B3TW3D4-es'
 tags: [ 'zapatos', ]

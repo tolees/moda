@@ -5,7 +5,7 @@ date: 2020-10-04 18:14:56
 image: 'https://m.media-amazon.com/images/I/518eBS3xXUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWZNRF6-es KATOOM Zapatilla fregona 3 Pares Limpiar Polvo Microfibra...'
 sku: 'B07MWZNRF6-es'
 tags: [ 'zapatilla', ]

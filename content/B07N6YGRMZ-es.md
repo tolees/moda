@@ -5,7 +5,7 @@ date: 2020-01-21 14:22:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415PMFjt%2B%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6YGRMZ-es Tuc Tuc Camiseta Punto NIÑA ROJA Chalk Painting'
 sku: 'B07N6YGRMZ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-08 18:35:26
 image: 'https://m.media-amazon.com/images/I/41KyWU6NulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSZMCGQ-es Lee Malone Vaqueros Stone Blue Zl 26W / 32L para Hombre'
 sku: 'B07VSZMCGQ-es'
 tags: [ 'vaqueros', ]

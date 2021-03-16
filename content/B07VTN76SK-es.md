@@ -5,7 +5,7 @@ date: 2020-09-11 08:52:09
 image: 'https://m.media-amazon.com/images/I/41R+P2TGtxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTN76SK-es Only Onlbeccy Crop7/8 Faux Leather Jacket Otw Chaqueta...'
 sku: 'B07VTN76SK-es'
 tags: [ 'chaqueta', ]

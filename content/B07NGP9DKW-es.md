@@ -5,7 +5,7 @@ date: 2020-07-10 17:23:38
 image: 'https://m.media-amazon.com/images/I/3111etaHAUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGP9DKW-es Marca Amazon - find. Vestido Corto con Estampado de Rayas...'
 sku: 'B07NGP9DKW-es'
 tags: [ '-','find.','vestido', ]

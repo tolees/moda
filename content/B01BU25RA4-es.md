@@ -5,7 +5,7 @@ date: 2020-01-13 06:49:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ezl9%2Bo8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BU25RA4-es Kempa Peak Training Jersey de Entrenamiento Hombre Azul...'
 sku: 'B01BU25RA4-es'
 tags: [ 'jersey', ]

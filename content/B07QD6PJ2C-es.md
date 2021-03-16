@@ -5,7 +5,7 @@ date: 2020-09-21 15:42:31
 image: 'https://m.media-amazon.com/images/I/415q8GcFNuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD6PJ2C-es PUMA Reactive Reversible Jacket Chaqueta De Entrenamiento...'
 sku: 'B07QD6PJ2C-es'
 tags: [ 'chaqueta', ]

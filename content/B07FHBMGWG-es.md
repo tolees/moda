@@ -5,7 +5,7 @@ date: 2020-06-10 05:28:51
 image: 'https://m.media-amazon.com/images/I/31vgk25kzzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHBMGWG-es Amazon Essentials – Pantalón corto de corte entallado para...'
 sku: 'B07FHBMGWG-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-04-14 00:32:23
 image: 'https://m.media-amazon.com/images/I/412p09Nz4mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV4VK23-es Disney Sudadera para niñas Toy Story Jessie Azul 7-8 Años'
 sku: 'B07TV4VK23-es'
 tags: [ 'sudadera', ]

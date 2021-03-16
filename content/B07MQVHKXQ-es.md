@@ -5,7 +5,7 @@ date: 2020-02-20 11:08:06
 image: 'https://m.media-amazon.com/images/I/41mxX7hjTxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQVHKXQ-es Napapijri Bra FZH Sudadera Gris Dark Grey Mel 197 XL para...'
 sku: 'B07MQVHKXQ-es'
 tags: [ 'sudadera', ]

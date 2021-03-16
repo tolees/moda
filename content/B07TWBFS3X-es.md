@@ -5,7 +5,7 @@ date: 2020-05-27 07:33:49
 image: 'https://m.media-amazon.com/images/I/41S9Ik8m7ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWBFS3X-es Levi s The tee Camiseta de Manga Corta Azul BRW T2 Marina...'
 sku: 'B07TWBFS3X-es'
 tags: [ 'camiseta', ]

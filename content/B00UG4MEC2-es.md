@@ -5,7 +5,7 @@ date: 2020-01-22 11:55:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41st1Ei%2BT5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UG4MEC2-es Charles Wilson Camiseta Polo Clásica Lisa Small Burgundy'
 sku: 'B00UG4MEC2-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-22 16:50:33
 image: 'https://m.media-amazon.com/images/I/41mTfZ3TLYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2L2PXL-es Timberland Adventure 2.0 Cupsole Alpine Oxford Zapatillas...'
 sku: 'B07K2L2PXL-es'
 tags: [ 'timberland', ]

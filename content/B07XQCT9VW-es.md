@@ -5,7 +5,7 @@ date: 2020-02-01 09:36:08
 image: 'https://m.media-amazon.com/images/I/41ik9xK3y+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQCT9VW-es Mujer Camisa Básica Mujer Slim Fit - Camisa Blusa Casual...'
 sku: 'B07XQCT9VW-es'
 tags: [ 'blusa','camisa', ]

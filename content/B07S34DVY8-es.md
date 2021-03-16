@@ -5,7 +5,7 @@ date: 2020-02-12 12:49:25
 image: 'https://m.media-amazon.com/images/I/31nBIG64YfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S34DVY8-es Ever-Pretty A-línea Tul Vestido de Noche Manga Corta...'
 sku: 'B07S34DVY8-es'
 tags: [ 'vestido', ]

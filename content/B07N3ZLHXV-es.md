@@ -5,7 +5,7 @@ date: 2020-08-08 01:44:48
 image: 'https://m.media-amazon.com/images/I/41u6LuM-3ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3ZLHXV-es Marca Amazon - find. Camisa de Manga Larga de Algodón...'
 sku: 'B07N3ZLHXV-es'
 tags: [ '-','camisa','find.', ]

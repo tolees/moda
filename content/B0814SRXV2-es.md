@@ -5,7 +5,7 @@ date: 2020-10-09 19:11:09
 image: 'https://m.media-amazon.com/images/I/31UYCMnXpHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814SRXV2-es Under Armour UA Tech P Pantalón de Entrenamiento Hombre...'
 sku: 'B0814SRXV2-es'
 tags: [ 'pantalón', ]

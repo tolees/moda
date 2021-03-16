@@ -5,7 +5,7 @@ date: 2020-02-09 12:15:36
 image: 'https://m.media-amazon.com/images/I/41zgBlNBCDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HGTPVR-es LANGRIA Perchero de Pie Metálico Multiusos de Entrada con...'
 sku: 'B071HGTPVR-es'
 tags: [ 'zapatos', ]

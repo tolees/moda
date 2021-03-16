@@ -5,7 +5,7 @@ date: 2020-06-22 20:22:24
 image: 'https://m.media-amazon.com/images/I/31+Bb0lXg4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6UDNCU-es BOSS T-Shirt RN 3p Co Camiseta para Hombre Negro Black...'
 sku: 'B01M6UDNCU-es'
 tags: [ 'camiseta', ]

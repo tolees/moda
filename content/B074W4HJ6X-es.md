@@ -5,7 +5,7 @@ date: 2020-03-12 11:20:00
 image: 'https://m.media-amazon.com/images/I/412j7SGULhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074W4HJ6X-es Wantdo Chaqueta Impermeable Contraviento Ligera para...'
 sku: 'B074W4HJ6X-es'
 tags: [ 'chaqueta', ]

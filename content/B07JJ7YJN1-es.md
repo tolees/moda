@@ -5,7 +5,7 @@ date: 2020-03-28 18:39:10
 image: 'https://m.media-amazon.com/images/I/31LZF54bnuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ7YJN1-es Lacoste Th3377 Camiseta Blanc/Noir Au8 X-Small Talla del...'
 sku: 'B07JJ7YJN1-es'
 tags: [ 'camiseta', ]

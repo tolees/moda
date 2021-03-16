@@ -5,7 +5,7 @@ date: 2020-01-27 14:08:05
 image: 'https://m.media-amazon.com/images/I/41BfvEHhqKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH3FJ68-es Pepe Jeans Wyatt Pm305905 Camisa Blue 551 Small para Hombre'
 sku: 'B07JH3FJ68-es'
 tags: [ 'camisa', ]

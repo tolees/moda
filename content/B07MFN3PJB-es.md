@@ -5,7 +5,7 @@ date: 2020-07-13 00:51:54
 image: 'https://m.media-amazon.com/images/I/41E-MvAoCDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFN3PJB-es Geox U Nebula Y A Zapatillas para Hombre Azul Navy C4002...'
 sku: 'B07MFN3PJB-es'
 tags: [ 'geox', ]

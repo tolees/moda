@@ -5,7 +5,7 @@ date: 2020-03-05 18:04:32
 image: 'https://m.media-amazon.com/images/I/31o-7BIDvoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFM2LMT-es Clarks Oliver Limit Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MFM2LMT-es'
 tags: [ 'zapatos', ]

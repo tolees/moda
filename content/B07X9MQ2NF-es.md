@@ -5,7 +5,7 @@ date: 2020-09-21 09:43:03
 image: 'https://m.media-amazon.com/images/I/41XvwOGCj4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9MQ2NF-es adidas Core 18 Sweat Top Sudadera Hombre Yellow/Black 3XL'
 sku: 'B07X9MQ2NF-es'
 tags: [ 'sudadera', ]

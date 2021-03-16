@@ -5,7 +5,7 @@ date: 2020-01-14 19:04:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJBmz4mrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYVZBGV-es Tommy Hilfiger Ivan Quilted Bomber Jacket Chaqueta Azul...'
 sku: 'B07JYVZBGV-es'
 tags: [ 'chaqueta', ]

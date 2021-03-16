@@ -5,7 +5,7 @@ date: 2020-05-30 07:27:17
 image: 'https://m.media-amazon.com/images/I/51icvPnBscL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD1CRQZ-es Flamingueo Bolso Holografico - Bolso Mochila Bolso...'
 sku: 'B07SD1CRQZ-es'
 tags: [ 'bolso', ]

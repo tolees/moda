@@ -5,7 +5,7 @@ date: 2020-04-03 17:47:53
 image: 'https://m.media-amazon.com/images/I/31oCEfLkqKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F138LNJ-es Levi s The Perfect Tee Camiseta Mujer Morado Better...'
 sku: 'B07F138LNJ-es'
 tags: [ 'camiseta', ]

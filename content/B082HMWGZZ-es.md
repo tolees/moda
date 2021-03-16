@@ -5,7 +5,7 @@ date: 2020-02-19 10:03:04
 image: 'https://m.media-amazon.com/images/I/41RDBiBEEIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HMWGZZ-es Guantes de Levantamiento de Pesas Guantes de Entrenamiento...'
 sku: 'B082HMWGZZ-es'
 tags: [ 'guantes', ]

@@ -5,7 +5,7 @@ date: 2020-01-03 13:31:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hy1uUH7-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075X1TTQL-es find. NEWSTW045 vaqueros mujer Azul Indigo Rinse W27/L30'
 sku: 'B075X1TTQL-es'
 tags: [ 'vaqueros', ]

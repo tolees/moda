@@ -5,7 +5,7 @@ date: 2020-09-17 08:08:04
 image: 'https://m.media-amazon.com/images/I/51AmkckjPTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJCTDWR-es HOMESPON Bolsa Isotérmica de Almuerzo Lunch Bag Bolsa...'
 sku: 'B07VJCTDWR-es'
 tags: [ 'bolso', ]

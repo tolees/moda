@@ -5,7 +5,7 @@ date: 2020-01-22 09:32:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51UsY-MMFhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FZHVRD-es Gafas de sol POLARIZADAS VERDSTER TourDePro Para Hombres y...'
 sku: 'B074FZHVRD-es'
 tags: [ 'gafas', ]

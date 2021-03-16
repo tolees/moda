@@ -5,7 +5,7 @@ date: 2020-01-04 19:47:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ktwXA%2BCFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD8P9DS-es adidas 18/19 Real Madrid Home with Lfp Badge Camiseta...'
 sku: 'B07DD8P9DS-es'
 tags: [ 'camiseta', ]

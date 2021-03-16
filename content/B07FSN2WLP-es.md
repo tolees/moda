@@ -5,7 +5,7 @@ date: 2020-01-16 19:27:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31kfaXIQM%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSN2WLP-es Rockport Dress Sport 2 Fast FLT Plain Toe Zapatos de...'
 sku: 'B07FSN2WLP-es'
 tags: [ 'zapatos', ]

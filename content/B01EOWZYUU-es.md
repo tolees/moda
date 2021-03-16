@@ -5,7 +5,7 @@ date: 2020-01-13 21:13:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KBRsBfOPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EOWZYUU-es Helly Hansen Coastal 2 Parka Hombre Azul Marino M'
 sku: 'B01EOWZYUU-es'
 tags: [ 'parka', ]

@@ -5,7 +5,7 @@ date: 2020-03-04 17:57:05
 image: 'https://m.media-amazon.com/images/I/31Cs+sNxZGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQSZJK-es Pepe Jeans Lucas Sudadera Ivy 673 Medium para Hombre'
 sku: 'B07MZQSZJK-es'
 tags: [ 'sudadera', ]

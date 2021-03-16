@@ -5,7 +5,7 @@ date: 2020-01-01 17:29:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mkdFbwYrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4QX83Z-es gracosy Botas Nieve Mujer Forro de Piel Invierno...'
 sku: 'B07V4QX83Z-es'
 tags: [ 'botines','zapatos', ]

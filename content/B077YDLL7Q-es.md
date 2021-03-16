@@ -5,7 +5,7 @@ date: 2020-06-26 17:46:55
 image: 'https://m.media-amazon.com/images/I/51FNFQ9OUQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDLL7Q-es HIKARO Sudadera con Capucha Hombre Azul Navy 48 Talla del...'
 sku: 'B077YDLL7Q-es'
 tags: [ 'sudadera', ]

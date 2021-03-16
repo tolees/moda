@@ -5,7 +5,7 @@ date: 2020-01-14 20:29:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ujejNPg5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L935QVR-es REPLAY Anbass Vaqueros Slim Verde Military Green 30...'
 sku: 'B07L935QVR-es'
 tags: [ 'vaqueros', ]

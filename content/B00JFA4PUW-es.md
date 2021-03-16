@@ -5,7 +5,7 @@ date: 2020-03-17 13:34:04
 image: 'https://m.media-amazon.com/images/I/41J8lF3xxeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFA4PUW-es givova Podio Chaqueta Hombre Negro/Blanco M'
 sku: 'B00JFA4PUW-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-05-10 08:53:24
 image: 'https://m.media-amazon.com/images/I/3104JAE9JiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YEYQ5NY-es Columbia Midweight Stretch Pantalón Mujer Negro Black S'
 sku: 'B00YEYQ5NY-es'
 tags: [ 'pantalón', ]

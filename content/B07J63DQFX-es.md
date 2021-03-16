@@ -5,7 +5,7 @@ date: 2020-01-14 20:02:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XBiVtOlAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J63DQFX-es Happy Cherry - Ropa Invierno Acolchada de Algodón para...'
 sku: 'B07J63DQFX-es'
 tags: [ 'abrigo','chaqueta', ]

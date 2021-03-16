@@ -5,7 +5,7 @@ date: 2020-10-03 08:59:08
 image: 'https://m.media-amazon.com/images/I/41rSqi7gpfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QHAR1J0-es Under Armour Coldgear Armour Mock Camiseta De Manga Larga...'
 sku: 'B00QHAR1J0-es'
 tags: [ 'camiseta', ]

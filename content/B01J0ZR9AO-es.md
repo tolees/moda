@@ -5,7 +5,7 @@ date: 2020-04-15 00:50:17
 image: 'https://m.media-amazon.com/images/I/41jtZ5ibiIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J0ZR9AO-es KELITCH Naranja Jaspe Abalorios Pulsera Del Abrigo Pulsera...'
 sku: 'B01J0ZR9AO-es'
 tags: [ 'abrigo', ]

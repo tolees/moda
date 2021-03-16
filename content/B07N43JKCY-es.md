@@ -5,7 +5,7 @@ date: 2020-01-31 14:01:45
 image: 'https://m.media-amazon.com/images/I/415mhkipLFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N43JKCY-es Desigual Blouse LUMBE Blusa Blanco 1000 M para Mujer'
 sku: 'B07N43JKCY-es'
 tags: [ 'blusa', ]

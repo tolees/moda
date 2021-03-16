@@ -5,7 +5,7 @@ date: 2020-08-02 01:07:33
 image: 'https://m.media-amazon.com/images/I/411m7AHDqyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0755XGH4S-es Skechers Beverlee-High Tea Sandalias de Punta Descubierta...'
 sku: 'B0755XGH4S-es'
 tags: [ 'sandalias', ]

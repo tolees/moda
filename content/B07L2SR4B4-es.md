@@ -5,7 +5,7 @@ date: 2020-02-06 07:04:31
 image: 'https://m.media-amazon.com/images/I/41uP2gopGRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2SR4B4-es Asics Netburner Ballistic FF MT Zapatos de Voleibol para...'
 sku: 'B07L2SR4B4-es'
 tags: [ 'zapatos', ]

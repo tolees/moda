@@ -5,7 +5,7 @@ date: 2020-03-29 17:52:58
 image: 'https://m.media-amazon.com/images/I/41V23CjTmsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KHTO118-es Under Armour UA Heatgear Long Sleeve Camiseta De Manga...'
 sku: 'B00KHTO118-es'
 tags: [ 'camiseta', ]

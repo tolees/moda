@@ -5,7 +5,7 @@ date: 2020-06-25 11:13:38
 image: 'https://m.media-amazon.com/images/I/41VD0ky9aRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVP39Z6-es Geox J Alben Boy D Zapatillas para Niños Gris Grey/Yellow...'
 sku: 'B07SVP39Z6-es'
 tags: [ 'geox', ]

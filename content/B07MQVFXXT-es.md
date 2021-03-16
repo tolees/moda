@@ -5,7 +5,7 @@ date: 2020-03-08 00:04:23
 image: 'https://m.media-amazon.com/images/I/51Cv0Vi3a2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQVFXXT-es Napapijri Aric Chaqueta Azul French Blue Bb7 XXXL para Hombre'
 sku: 'B07MQVFXXT-es'
 tags: [ 'chaqueta', ]

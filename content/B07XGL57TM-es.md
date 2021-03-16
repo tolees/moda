@@ -5,7 +5,7 @@ date: 2020-07-04 18:29:50
 image: 'https://m.media-amazon.com/images/I/41TMvC4QkjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGL57TM-es Spirit 599909 Bolso bandolera para Hombre Negro Negro...'
 sku: 'B07XGL57TM-es'
 tags: [ 'bolso', ]

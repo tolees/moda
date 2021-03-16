@@ -5,7 +5,7 @@ date: 2020-01-08 19:08:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xajJkgtEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFFD874-es Levi s The Jacket Chaqueta Vaquera Beige Olive Night...'
 sku: 'B07LFFD874-es'
 tags: [ 'chaqueta', ]

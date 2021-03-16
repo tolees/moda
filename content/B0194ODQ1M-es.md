@@ -5,7 +5,7 @@ date: 2020-01-16 08:35:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518K6gRMYpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0194ODQ1M-es P.KU.VDSL® Mochilas tipo casual / Mochila Vintage de Lona...'
 sku: 'B0194ODQ1M-es'
 tags: [ 'bolso', ]

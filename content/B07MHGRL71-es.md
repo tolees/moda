@@ -5,7 +5,7 @@ date: 2020-02-01 14:05:46
 image: 'https://m.media-amazon.com/images/I/41Sron9ECVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHGRL71-es Iris & Lilly Bli2036 brallete sujetador Mujer Negro Black...'
 sku: 'B07MHGRL71-es'
 tags: [ '&','iris','lilly', ]

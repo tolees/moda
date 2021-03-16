@@ -5,7 +5,7 @@ date: 2020-08-19 07:00:56
 image: 'https://m.media-amazon.com/images/I/31GdPJxtQPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQK3CZC-es ESPRIT Collection 998eo2f804 Camisa Azul Light Blue 440...'
 sku: 'B07JQK3CZC-es'
 tags: [ 'camisa', ]

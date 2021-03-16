@@ -5,7 +5,7 @@ date: 2020-08-09 19:43:29
 image: 'https://m.media-amazon.com/images/I/41XW3QVySnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z49MV2R-es Jack & Jones Jjeeric Puffer Collar Noos Chaqueta Rojo Rot...'
 sku: 'B07Z49MV2R-es'
 tags: [ 'chaqueta','collar', ]

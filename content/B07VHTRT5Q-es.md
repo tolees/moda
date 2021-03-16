@@ -5,7 +5,7 @@ date: 2020-04-12 17:22:34
 image: 'https://m.media-amazon.com/images/I/41FpoBzlTIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHTRT5Q-es edc by Esprit 099cc2f006 Camisa Negro Black 001 Large para...'
 sku: 'B07VHTRT5Q-es'
 tags: [ 'camisa', ]

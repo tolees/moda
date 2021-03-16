@@ -5,7 +5,7 @@ date: 2020-01-10 08:51:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513ZHVZt9sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785FPDBG-es Under Armour Tech Hoody 2.0-Twist Sudadera con Capucha...'
 sku: 'B0785FPDBG-es'
 tags: [ 'sudadera', ]

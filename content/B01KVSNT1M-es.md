@@ -5,7 +5,7 @@ date: 2020-01-23 15:23:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411yCv7Oo7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KVSNT1M-es Timberland Killington Botas Unisex Niños Azul Black Iris...'
 sku: 'B01KVSNT1M-es'
 tags: [ 'timberland', ]

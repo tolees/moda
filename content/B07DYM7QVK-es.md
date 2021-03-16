@@ -5,7 +5,7 @@ date: 2020-07-10 00:41:31
 image: 'https://m.media-amazon.com/images/I/31bdubSMHGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYM7QVK-es Merrell District Mendi Backstrap Sandalias de Talón...'
 sku: 'B07DYM7QVK-es'
 tags: [ 'sandalias', ]

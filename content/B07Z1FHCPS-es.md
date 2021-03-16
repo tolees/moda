@@ -5,7 +5,7 @@ date: 2020-08-30 19:40:59
 image: 'https://m.media-amazon.com/images/I/51Pyre7vCwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1FHCPS-es HOMESPON Bolsa Isotérmica de Almuerzo Top-Open Lunch Bag...'
 sku: 'B07Z1FHCPS-es'
 tags: [ 'bolso', ]

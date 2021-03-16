@@ -5,7 +5,7 @@ date: 2020-01-18 11:24:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tQdOM80OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZMFNH9-es Esprit 089ee1i002 Chaqueta Punto Gris Gunmetal 5 019 Small...'
 sku: 'B07RZMFNH9-es'
 tags: [ 'chaqueta', ]

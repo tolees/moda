@@ -5,7 +5,7 @@ date: 2020-01-30 11:24:14
 image: 'https://m.media-amazon.com/images/I/31bTLo7kJJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGDS2S9-es OBEEII Vestidos Niñas Fiesta Bordado de Tul para Fiesta...'
 sku: 'B07VGDS2S9-es'
 tags: [ 'vestido', ]

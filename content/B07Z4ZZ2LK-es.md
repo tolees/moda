@@ -5,7 +5,7 @@ date: 2020-03-31 16:52:53
 image: 'https://m.media-amazon.com/images/I/412qlJCMW6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4ZZ2LK-es Carteras de Mano Fiesta para Mujer Elegante Suave Bolsos...'
 sku: 'B07Z4ZZ2LK-es'
 tags: [ 'moda', ]

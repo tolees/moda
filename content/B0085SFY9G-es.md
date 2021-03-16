@@ -5,7 +5,7 @@ date: 2020-09-22 14:37:30
 image: 'https://m.media-amazon.com/images/I/31HEOgfbVOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0085SFY9G-es Jack & Jones Jones - Camiseta de manga corta con cuello...'
 sku: 'B0085SFY9G-es'
 tags: [ 'camiseta', ]

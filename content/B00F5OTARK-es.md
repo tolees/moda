@@ -5,7 +5,7 @@ date: 2020-02-04 06:22:49
 image: 'https://m.media-amazon.com/images/I/31Ps05XJZLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F5OTARK-es GANT The Original Solid T-Shirt Camiseta Negro Black 5...'
 sku: 'B00F5OTARK-es'
 tags: [ 'camiseta', ]

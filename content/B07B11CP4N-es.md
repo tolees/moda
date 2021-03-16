@@ -5,7 +5,7 @@ date: 2020-05-09 19:09:40
 image: 'https://m.media-amazon.com/images/I/419yTxizXeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B11CP4N-es VAIRO Falda Pantalon Skort Columns Negro/Verde M'
 sku: 'B07B11CP4N-es'
 tags: [ 'falda', ]

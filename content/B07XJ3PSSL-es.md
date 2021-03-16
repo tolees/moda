@@ -5,7 +5,7 @@ date: 2020-08-21 07:41:58
 image: 'https://m.media-amazon.com/images/I/41nbkZY9JCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJ3PSSL-es Artesania Cerda Largo AC/DC Conjuntos de pijama Gris Gris...'
 sku: 'B07XJ3PSSL-es'
 tags: [ 'pijama', ]

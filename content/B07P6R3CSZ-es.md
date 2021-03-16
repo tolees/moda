@@ -5,7 +5,7 @@ date: 2020-09-01 23:57:35
 image: 'https://m.media-amazon.com/images/I/51gRPahVl8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6R3CSZ-es X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel...'
 sku: 'B07P6R3CSZ-es'
 tags: [ 'boxer', ]

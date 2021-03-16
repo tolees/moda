@@ -5,7 +5,7 @@ date: 2020-03-12 04:02:29
 image: 'https://m.media-amazon.com/images/I/41Ls2O4NGpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMXM3B4-es Timberland Splitrock 2 Waterproof Zapatillas Chukka para...'
 sku: 'B07JMXM3B4-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-02-20 17:14:20
 image: 'https://m.media-amazon.com/images/I/31MsTn57y3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN8WRMM-es Crocs Classic II Slide Zapatos de Playa y Piscina Unisex...'
 sku: 'B07CN8WRMM-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-18 22:12:39
 image: 'https://m.media-amazon.com/images/I/31nl2JDAFRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BYNF9BT-es Pantalones Deportivos para Mujer para Yoga Running Fitness...'
 sku: 'B08BYNF9BT-es'
 tags: [ 'pijama', ]

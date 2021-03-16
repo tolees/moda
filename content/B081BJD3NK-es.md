@@ -5,7 +5,7 @@ date: 2020-09-10 17:37:55
 image: 'https://m.media-amazon.com/images/I/419dYrDSTnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BJD3NK-es Columbia Powder Pass Chaqueta con Capucha Mujer Rosa Peach...'
 sku: 'B081BJD3NK-es'
 tags: [ 'chaqueta', ]

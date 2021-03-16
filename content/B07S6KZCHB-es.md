@@ -5,7 +5,7 @@ date: 2020-05-06 11:02:42
 image: 'https://m.media-amazon.com/images/I/41DQ8cQzxFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6KZCHB-es Fall Out Boy - Camiseta Modelo Mania para Adultos Unisex L...'
 sku: 'B07S6KZCHB-es'
 tags: [ 'camiseta', ]

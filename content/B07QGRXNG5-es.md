@@ -5,7 +5,7 @@ date: 2020-05-22 09:05:12
 image: 'https://m.media-amazon.com/images/I/41DQbCU+vVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGRXNG5-es BeiaMina Mujer Moda Plano Sandalias Zapatos Sin Cordones...'
 sku: 'B07QGRXNG5-es'
 tags: [ 'moda','sandalias','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-03-06 18:39:49
 image: 'https://m.media-amazon.com/images/I/51+OJMyFuLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGSQRPM-es SKYSPER Ciclismo Maillot Hombres Jersey + Pantalones...'
 sku: 'B07GGSQRPM-es'
 tags: [ 'jersey', ]

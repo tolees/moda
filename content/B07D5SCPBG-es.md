@@ -5,7 +5,7 @@ date: 2020-06-28 16:17:27
 image: 'https://m.media-amazon.com/images/I/414co5+5suL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5SCPBG-es PUMA ESS Logo tee Camiseta Mujer Gris Light Gray Heather XL'
 sku: 'B07D5SCPBG-es'
 tags: [ 'camiseta', ]

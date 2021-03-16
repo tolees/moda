@@ -5,7 +5,7 @@ date: 2020-03-25 14:04:20
 image: 'https://m.media-amazon.com/images/I/41TC8Tbw0JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7ZBLD9-es O NEILL PM Alti Hyperfleece - Chaqueta para Hombre Hombre...'
 sku: 'B07R7ZBLD9-es'
 tags: [ 'chaqueta', ]

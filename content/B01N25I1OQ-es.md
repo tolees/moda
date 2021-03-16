@@ -5,7 +5,7 @@ date: 2020-09-10 16:56:24
 image: 'https://m.media-amazon.com/images/I/313rTHoJv1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N25I1OQ-es Geox Uomo Symbol B Zapatos de Cordones Oxford para Hombre...'
 sku: 'B01N25I1OQ-es'
 tags: [ 'geox','zapatos', ]

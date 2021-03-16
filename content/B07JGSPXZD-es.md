@@ -5,7 +5,7 @@ date: 2020-03-12 23:26:50
 image: 'https://m.media-amazon.com/images/I/41mMc3pYn1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGSPXZD-es Pepe Jeans Marge Sport Vaqueros Regular Azul 8oz Rigid Med...'
 sku: 'B07JGSPXZD-es'
 tags: [ 'vaqueros', ]

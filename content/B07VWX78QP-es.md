@@ -5,7 +5,7 @@ date: 2020-10-07 06:52:45
 image: 'https://m.media-amazon.com/images/I/41DpqHef6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWX78QP-es Pepe Jeans Jude Camiseta Azul Indigo 561 X-Large para Hombre'
 sku: 'B07VWX78QP-es'
 tags: [ 'camiseta', ]

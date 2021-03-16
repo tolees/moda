@@ -5,7 +5,7 @@ date: 2020-01-18 20:03:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zEdGkwH3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MAXUYMN-es MAMALICIOUS MLJULIANE SLIM PANT - NOOS Vaqueros premamá...'
 sku: 'B01MAXUYMN-es'
 tags: [ 'vaqueros', ]

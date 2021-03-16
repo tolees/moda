@@ -5,7 +5,7 @@ date: 2020-07-20 13:45:36
 image: 'https://m.media-amazon.com/images/I/41OjR+5pJzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QR3JXSS-es ZXYSHOP Abrigo de Invierno Acolchado para Niñas Princesas...'
 sku: 'B07QR3JXSS-es'
 tags: [ 'abrigo','chaqueta', ]

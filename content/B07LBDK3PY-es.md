@@ -5,7 +5,7 @@ date: 2020-04-20 19:09:19
 image: 'https://m.media-amazon.com/images/I/41gCWudBp2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBDK3PY-es Tommy Hilfiger Bikini Culotte Azul Navy Blazer 416 40...'
 sku: 'B07LBDK3PY-es'
 tags: [ 'bikini', ]

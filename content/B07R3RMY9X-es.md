@@ -5,7 +5,7 @@ date: 2020-04-27 15:55:19
 image: 'https://m.media-amazon.com/images/I/31h+xilXsFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3RMY9X-es Mujer Vestido Elegante Años 50 Vestido de Mujeres...'
 sku: 'B07R3RMY9X-es'
 tags: [ 'vestido', ]

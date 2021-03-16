@@ -5,7 +5,7 @@ date: 2020-01-13 10:49:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418XIqjq0QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4TNP1-es Levi s SS Original Hm tee Camiseta Azul Skyway 0023 Medium...'
 sku: 'B07KF4TNP1-es'
 tags: [ 'camiseta', ]

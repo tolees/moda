@@ -5,7 +5,7 @@ date: 2020-07-07 04:41:48
 image: 'https://m.media-amazon.com/images/I/51+tqMAjWAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXW6C19-es DoGeek Zapato Seguridad para el Verano Zapatos Trabajo con...'
 sku: 'B07RXW6C19-es'
 tags: [ 'zapatos', ]

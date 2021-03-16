@@ -5,7 +5,7 @@ date: 2020-02-18 16:29:19
 image: 'https://m.media-amazon.com/images/I/31DeRstn5ZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PP3CDCS-es HUGO Alisters Chaqueta de Traje Negro Charcoal 010 105...'
 sku: 'B07PP3CDCS-es'
 tags: [ 'chaqueta', ]

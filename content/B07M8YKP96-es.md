@@ -5,7 +5,7 @@ date: 2020-01-17 20:58:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BeZopM1dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8YKP96-es Geox W Adrya U Parka Negro Black F9000 36 Talla del...'
 sku: 'B07M8YKP96-es'
 tags: [ 'geox','parka', ]

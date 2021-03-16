@@ -5,7 +5,7 @@ date: 2020-01-23 10:09:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kTygnhdZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07925NGVB-es TTYAOVO Chicas Muestran Princesa Vestido de Flores para...'
 sku: 'B07925NGVB-es'
 tags: [ 'vestido', ]

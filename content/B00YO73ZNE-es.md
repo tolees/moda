@@ -5,7 +5,7 @@ date: 2020-06-22 10:43:01
 image: 'https://m.media-amazon.com/images/I/41xXm5ElwpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YO73ZNE-es Under Armour Tech T Camiseta sin Mangas Mujer Gris Gray 090 S'
 sku: 'B00YO73ZNE-es'
 tags: [ 'camiseta', ]

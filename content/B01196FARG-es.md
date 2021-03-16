@@ -5,7 +5,7 @@ date: 2020-04-09 09:36:30
 image: 'https://m.media-amazon.com/images/I/41LIDErX9oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01196FARG-es United Colors of Benetton Basico 1 Man Vaqueros Straight...'
 sku: 'B01196FARG-es'
 tags: [ 'vaqueros', ]

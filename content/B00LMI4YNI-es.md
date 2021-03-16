@@ -5,7 +5,7 @@ date: 2020-01-31 23:02:14
 image: 'https://m.media-amazon.com/images/I/31kMmJpx+7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LMI4YNI-es Quiksilver MONKEY ABYSS M SNDL XKKC - sandalias abiertas...'
 sku: 'B00LMI4YNI-es'
 tags: [ 'sandalias', ]

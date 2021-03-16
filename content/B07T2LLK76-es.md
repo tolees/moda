@@ -5,7 +5,7 @@ date: 2020-02-08 09:16:35
 image: 'https://m.media-amazon.com/images/I/51Ss-q8eqqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2LLK76-es Tikea Bolsa Geométrica Luminosa Holográfica para Mujer...'
 sku: 'B07T2LLK76-es'
 tags: [ 'moda', ]

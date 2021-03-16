@@ -5,7 +5,7 @@ date: 2020-04-28 17:04:33
 image: 'https://m.media-amazon.com/images/I/31Hrty3gWbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJBHKQJ-es P Prettyia Moda Zapatillas de Tobillo de Alto Tacón Mini...'
 sku: 'B07MJBHKQJ-es'
 tags: [ 'moda', ]

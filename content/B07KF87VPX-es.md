@@ -5,7 +5,7 @@ date: 2020-01-21 07:15:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31a0fDnxr7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF87VPX-es Levi s Graphic Crew B Sudadera Blanco Hm Ssnl Film...'
 sku: 'B07KF87VPX-es'
 tags: [ 'sudadera', ]

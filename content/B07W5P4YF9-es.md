@@ -5,7 +5,7 @@ date: 2020-09-16 22:58:44
 image: 'https://m.media-amazon.com/images/I/31+16wk7QVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5P4YF9-es Mary White AF.INF.PCOGT Conjuntos de Pijama Beige...'
 sku: 'B07W5P4YF9-es'
 tags: [ 'pijama', ]

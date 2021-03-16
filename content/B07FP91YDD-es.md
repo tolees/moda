@@ -5,7 +5,7 @@ date: 2020-09-12 22:16:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fsjWi1E0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP91YDD-es AmzBarley Disfraz Vestido Princesa Blancanieves Elsa...'
 sku: 'B07FP91YDD-es'
 tags: [ 'vestido', ]

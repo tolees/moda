@@ -5,7 +5,7 @@ date: 2020-06-18 10:23:34
 image: 'https://m.media-amazon.com/images/I/31rKACf7RKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SST9WY7-es Quiksilver Carver Print Zapatos de Playa y Piscina para...'
 sku: 'B07SST9WY7-es'
 tags: [ 'zapatos', ]

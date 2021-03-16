@@ -5,7 +5,7 @@ date: 2020-06-29 10:32:05
 image: 'https://m.media-amazon.com/images/I/41VeQvQr1qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015SGE85S-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
 sku: 'B015SGE85S-es'
 tags: [ 'chanclas', ]

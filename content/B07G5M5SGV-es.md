@@ -5,7 +5,7 @@ date: 2020-03-09 14:58:03
 image: 'https://m.media-amazon.com/images/I/41xUaxAf7rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5M5SGV-es Wrangler Authentic Vaqueros Straight Azul Blue Mid Stone...'
 sku: 'B07G5M5SGV-es'
 tags: [ 'vaqueros', ]

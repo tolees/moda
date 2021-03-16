@@ -5,7 +5,7 @@ date: 2020-01-12 17:15:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41S097vM1DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAIGK0Q-es KRISP 6252-GRY-18 Vestido Corto Patinadora Vuelo Fruncido...'
 sku: 'B01NAIGK0Q-es'
 tags: [ 'vestido', ]

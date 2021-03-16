@@ -5,7 +5,7 @@ date: 2020-08-13 08:46:19
 image: 'https://m.media-amazon.com/images/I/41XeKqZ7eqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LH43BRC-es Gafas de Presbicia con Filtro Anti Luz Azul para...'
 sku: 'B07LH43BRC-es'
 tags: [ 'gafas', ]

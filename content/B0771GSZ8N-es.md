@@ -5,7 +5,7 @@ date: 2020-08-11 10:09:06
 image: 'https://m.media-amazon.com/images/I/51-x5LbFj5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771GSZ8N-es Cartera pequeña con Monedero para Hombre - Billetera de...'
 sku: 'B0771GSZ8N-es'
 tags: [ 'billetera','monedero', ]

@@ -5,7 +5,7 @@ date: 2020-04-08 21:20:05
 image: 'https://m.media-amazon.com/images/I/511kgoafOSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CP05DFE-es Eshow Bolso Bandolera a Hombro para Mujeres de Tela de...'
 sku: 'B01CP05DFE-es'
 tags: [ 'bolso', ]

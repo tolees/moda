@@ -5,7 +5,7 @@ date: 2020-05-17 14:21:45
 image: 'https://m.media-amazon.com/images/I/41HYc1AeqmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND6BZDV-es bugatti 311815014141 Zapatos de Cordones Derby para Hombre...'
 sku: 'B07ND6BZDV-es'
 tags: [ 'zapatos', ]

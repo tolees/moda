@@ -5,7 +5,7 @@ date: 2020-07-25 21:31:11
 image: 'https://m.media-amazon.com/images/I/41xngtfM7pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KNCCDV-es adidas W CW NUVIC Jkt Chaqueta de Deporte Mujer Black S'
 sku: 'B072KNCCDV-es'
 tags: [ 'chaqueta', ]

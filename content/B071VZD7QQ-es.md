@@ -5,7 +5,7 @@ date: 2020-03-01 14:27:59
 image: 'https://m.media-amazon.com/images/I/31E6Gpc3HuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VZD7QQ-es Trangoworld Gyala Chaqueta Mujer Agua 2J1 L'
 sku: 'B071VZD7QQ-es'
 tags: [ 'chaqueta', ]

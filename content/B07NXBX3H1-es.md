@@ -5,7 +5,7 @@ date: 2020-01-24 19:08:23
 image: 'https://m.media-amazon.com/images/I/31VG2RlF77L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXBX3H1-es Superdry Travis Vaqueros Skinny Negro Berkeley Black Vf1...'
 sku: 'B07NXBX3H1-es'
 tags: [ 'vaqueros', ]

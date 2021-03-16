@@ -5,7 +5,7 @@ date: 2020-09-09 04:14:12
 image: 'https://m.media-amazon.com/images/I/31KQNFs7ztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPXZJLD-es Clarks Un Adorn Calm Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TPXZJLD-es'
 tags: [ 'sandalias', ]

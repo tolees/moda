@@ -5,7 +5,7 @@ date: 2020-04-06 11:49:36
 image: 'https://m.media-amazon.com/images/I/31bnSbWjOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX43GFB-es Caterpillar Intent Zapatos de Cordones Derby para Hombre...'
 sku: 'B07DX43GFB-es'
 tags: [ 'zapatos', ]

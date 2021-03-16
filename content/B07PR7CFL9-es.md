@@ -5,7 +5,7 @@ date: 2020-03-15 14:12:34
 image: 'https://m.media-amazon.com/images/I/41Z6QjiF4uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PR7CFL9-es 8safe Bolso de Bebé Universal | Material de Alta Calidad...'
 sku: 'B07PR7CFL9-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-02-05 02:19:08
 image: 'https://m.media-amazon.com/images/I/41DPMhn3POL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVFT719-es Gant D1. The Quilted Windcheater Chaqueta Azul Evening...'
 sku: 'B07MVFT719-es'
 tags: [ 'chaqueta', ]

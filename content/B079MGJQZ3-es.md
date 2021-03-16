@@ -5,7 +5,7 @@ date: 2020-09-29 18:55:49
 image: 'https://m.media-amazon.com/images/I/414PwTsHQrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MGJQZ3-es Marca Amazon - MERAKI Camiseta de Rayas de Manga Corta...'
 sku: 'B079MGJQZ3-es'
 tags: [ 'camiseta','meraki', ]

@@ -5,7 +5,7 @@ date: 2020-05-09 12:07:15
 image: 'https://m.media-amazon.com/images/I/318sSW4geNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCCLCHH-es Fruit of the Loom Valueweight tee 3 Pack Camiseta Azul...'
 sku: 'B07SCCLCHH-es'
 tags: [ 'camiseta', ]

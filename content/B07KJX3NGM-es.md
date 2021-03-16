@@ -5,7 +5,7 @@ date: 2020-06-22 08:14:35
 image: 'https://m.media-amazon.com/images/I/415xIDljr-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJX3NGM-es Columbia Fire Venture L II WP Zapatos de Senderismo para...'
 sku: 'B07KJX3NGM-es'
 tags: [ 'zapatos', ]

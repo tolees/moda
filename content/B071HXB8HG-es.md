@@ -5,7 +5,7 @@ date: 2020-05-31 10:33:42
 image: 'https://m.media-amazon.com/images/I/319zdPTSg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HXB8HG-es Crocs Classic Clog Zuecos Unisex Adulto Ballerina Pink...'
 sku: 'B071HXB8HG-es'
 tags: [ 'zuecos', ]

@@ -5,7 +5,7 @@ date: 2020-08-01 00:36:58
 image: 'https://m.media-amazon.com/images/I/31MtqjVIbbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z42RF1P-es CARE OF by PUMA Slide - Sandalias deportivas para Hombre...'
 sku: 'B07Z42RF1P-es'
 tags: [ 'sandalias', ]

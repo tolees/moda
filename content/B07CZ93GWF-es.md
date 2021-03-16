@@ -5,7 +5,7 @@ date: 2020-01-20 12:30:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31e1g4ARzQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ93GWF-es Under Armour UA Qualifier Shortsleeve Camiseta Hombre Gris...'
 sku: 'B07CZ93GWF-es'
 tags: [ 'camiseta', ]

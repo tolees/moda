@@ -5,7 +5,7 @@ date: 2020-05-25 08:05:10
 image: 'https://m.media-amazon.com/images/I/41hv2+Dc7eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ47RN-es Pepe Jeans Richardson Chaqueta Negro Black 999 Large para...'
 sku: 'B07MZQ47RN-es'
 tags: [ 'chaqueta', ]

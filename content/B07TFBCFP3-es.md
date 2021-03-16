@@ -5,7 +5,7 @@ date: 2020-08-16 02:30:56
 image: 'https://m.media-amazon.com/images/I/41hvmXWLBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFBCFP3-es Lacoste Sport Sh4899 Sudadera Azul Methylene/Noir-Blanc...'
 sku: 'B07TFBCFP3-es'
 tags: [ 'sudadera', ]

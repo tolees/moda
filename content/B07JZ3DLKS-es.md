@@ -5,7 +5,7 @@ date: 2020-04-11 07:50:34
 image: 'https://m.media-amazon.com/images/I/51e8wZQzMcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ3DLKS-es SKYSPER Guantes Ciclismo para Hombre Mujer Invierno...'
 sku: 'B07JZ3DLKS-es'
 tags: [ 'guantes', ]

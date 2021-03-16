@@ -5,7 +5,7 @@ date: 2020-08-19 15:20:56
 image: 'https://m.media-amazon.com/images/I/31mrqBUrwtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S63ZH9J-es Crocs Classic Clog K Zuecos Unisex Niños Naranja...'
 sku: 'B07S63ZH9J-es'
 tags: [ 'zuecos', ]

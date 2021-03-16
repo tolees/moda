@@ -5,7 +5,7 @@ date: 2020-01-11 16:18:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41K1cX9Og8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077P6YVYC-es Lee Elly Vaqueros Azul One Wash Ha45 27W / 35L para Mujer'
 sku: 'B077P6YVYC-es'
 tags: [ 'vaqueros', ]

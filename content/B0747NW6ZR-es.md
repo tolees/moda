@@ -5,7 +5,7 @@ date: 2020-03-23 03:05:37
 image: 'https://m.media-amazon.com/images/I/31e4PnaaNBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0747NW6ZR-es Timberland Courmayeur Valley Zapatillas Chukka para Mujer...'
 sku: 'B0747NW6ZR-es'
 tags: [ 'timberland', ]

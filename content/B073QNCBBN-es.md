@@ -5,7 +5,7 @@ date: 2020-05-02 11:35:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41f-HA%2BbKdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QNCBBN-es find. Chaqueta Efecto Borreguito para Mujer Marrón Braun...'
 sku: 'B073QNCBBN-es'
 tags: [ 'chaqueta', ]

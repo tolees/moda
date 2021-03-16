@@ -5,7 +5,7 @@ date: 2020-01-25 02:27:36
 image: 'https://m.media-amazon.com/images/I/41HbZsm3GrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ2FF9-es Geox J INEK Girl B Zapatillas Altas para Niñas Negro Black...'
 sku: 'B07LFZ2FF9-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-04-14 09:15:55
 image: 'https://m.media-amazon.com/images/I/41aSoGBoGPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMB8DVL-es Juguetes para Niños de 8-12 Años Dreamingbox Guantes...'
 sku: 'B07KMB8DVL-es'
 tags: [ 'guantes', ]

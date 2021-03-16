@@ -5,7 +5,7 @@ date: 2020-09-21 18:45:00
 image: 'https://m.media-amazon.com/images/I/419XL8D0eaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081YSMLMN-es Jack & Jones Jorpex Sweat Hood Sudadera con Capucha Ashley...'
 sku: 'B081YSMLMN-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-04-02 19:37:49
 image: 'https://m.media-amazon.com/images/I/319zdPTSg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728CNZ4Y-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Ballerina...'
 sku: 'B0728CNZ4Y-es'
 tags: [ 'zuecos', ]

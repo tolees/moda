@@ -5,7 +5,7 @@ date: 2020-04-25 12:59:55
 image: 'https://m.media-amazon.com/images/I/51MA-JAiIfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSV73YF-es El Ganso Urban Country 2 Chaleco Multicolor Varios 0023...'
 sku: 'B07PSV73YF-es'
 tags: [ 'chaleco', ]

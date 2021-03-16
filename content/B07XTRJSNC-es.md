@@ -5,7 +5,7 @@ date: 2020-07-16 06:31:26
 image: 'https://m.media-amazon.com/images/I/31vL9t3aUbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTRJSNC-es FIND Kitten Heel Court Zapatos de Tacón Negro Black 40 EU'
 sku: 'B07XTRJSNC-es'
 tags: [ 'zapatos', ]

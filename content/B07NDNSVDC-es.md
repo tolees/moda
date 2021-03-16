@@ -5,7 +5,7 @@ date: 2020-04-04 10:54:01
 image: 'https://m.media-amazon.com/images/I/413a2g2JjRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNSVDC-es G-STAR RAW Graphic 15 Core Round Neck Sudadera Azul...'
 sku: 'B07NDNSVDC-es'
 tags: [ 'sudadera', ]

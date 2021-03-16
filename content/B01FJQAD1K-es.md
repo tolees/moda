@@ -5,7 +5,7 @@ date: 2020-01-21 15:09:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412ZidZ0ALL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FJQAD1K-es Urban Classics Ladies Satin Bomber Jacket Chaqueta para...'
 sku: 'B01FJQAD1K-es'
 tags: [ 'chaqueta', ]

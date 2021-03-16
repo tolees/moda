@@ -5,7 +5,7 @@ date: 2020-03-05 16:54:59
 image: 'https://m.media-amazon.com/images/I/41bykK66loL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ERPH4L6-es Joma SHT.S0M01 - Falda de tenis para mujer color Coral...'
 sku: 'B01ERPH4L6-es'
 tags: [ 'falda', ]

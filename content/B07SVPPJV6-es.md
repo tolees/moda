@@ -5,7 +5,7 @@ date: 2020-08-23 05:16:09
 image: 'https://m.media-amazon.com/images/I/31eQGgzxGzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPPJV6-es Geox U Snake.2 B Zapatillas para Hombre Negro Black C9999...'
 sku: 'B07SVPPJV6-es'
 tags: [ 'geox', ]

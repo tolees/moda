@@ -5,7 +5,7 @@ date: 2020-01-06 17:05:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41s-gnQ4EOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9L3XPJ-es find. Parka Ligera Hombre Beige Stone Large'
 sku: 'B07B9L3XPJ-es'
 tags: [ 'parka', ]

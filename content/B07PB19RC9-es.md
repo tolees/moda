@@ -5,7 +5,7 @@ date: 2020-04-25 17:17:30
 image: 'https://m.media-amazon.com/images/I/51xHpv2WbrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PB19RC9-es gracosy Sandalias Cuero Deportivas para Hombre Verano...'
 sku: 'B07PB19RC9-es'
 tags: [ 'sandalias', ]

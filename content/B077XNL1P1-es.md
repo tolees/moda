@@ -5,7 +5,7 @@ date: 2020-06-23 21:18:48
 image: 'https://m.media-amazon.com/images/I/41acXs+XTYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XNL1P1-es Under Armour Tech Graphic Short Pantalón Corto Hombre Azul...'
 sku: 'B077XNL1P1-es'
 tags: [ 'pantalón', ]

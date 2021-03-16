@@ -5,7 +5,7 @@ date: 2020-08-06 01:25:29
 image: 'https://m.media-amazon.com/images/I/4125U6oP2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H6VPX6Q-es Eudora Harmony Ball Llamador de Angeles Embarazada...'
 sku: 'B01H6VPX6Q-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 08:56:26
 image: 'https://m.media-amazon.com/images/I/41UXXw462-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7FR5BW-es Cadena Transparente Bolsa De PVC Verano PU Colorido...'
 sku: 'B07T7FR5BW-es'
 tags: [ 'bolso','monedero', ]

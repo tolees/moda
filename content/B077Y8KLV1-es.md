@@ -5,7 +5,7 @@ date: 2020-05-03 18:40:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ln6Fv-x9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y8KLV1-es HIKARO Sudadera con Capucha Hombre Negro Black 50 Talla...'
 sku: 'B077Y8KLV1-es'
 tags: [ 'sudadera', ]

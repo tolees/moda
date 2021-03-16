@@ -5,7 +5,7 @@ date: 2020-08-30 18:48:39
 image: 'https://m.media-amazon.com/images/I/51Pn96-0RuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSTVF6X-es WISHDOIT Relojes para Hombres Impermeable Acero Inoxidable...'
 sku: 'B07HSTVF6X-es'
 tags: [ 'vestido', ]

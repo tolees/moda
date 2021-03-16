@@ -5,7 +5,7 @@ date: 2020-05-28 10:57:19
 image: 'https://m.media-amazon.com/images/I/41c0OH91NWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCTCFSS-es Sundried para Mujer Cuello en V Aptitud Camiseta de...'
 sku: 'B07VCTCFSS-es'
 tags: [ 'camiseta', ]

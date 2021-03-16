@@ -5,7 +5,7 @@ date: 2020-03-03 11:52:57
 image: 'https://m.media-amazon.com/images/I/41QditBTvaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPVPMC-es Pepe Jeans Josephs Camiseta Grey Marl 933 XX-Large para...'
 sku: 'B07MZPVPMC-es'
 tags: [ 'camiseta', ]

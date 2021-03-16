@@ -5,7 +5,7 @@ date: 2020-03-12 20:01:51
 image: 'https://m.media-amazon.com/images/I/31L35-A3xQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFBT3HY-es Kickers Home Zapatos de Cordones Derby para Mujer Negro...'
 sku: 'B07MFBT3HY-es'
 tags: [ 'zapatos', ]

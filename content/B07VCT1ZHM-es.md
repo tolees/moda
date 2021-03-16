@@ -5,7 +5,7 @@ date: 2020-08-05 09:11:39
 image: 'https://m.media-amazon.com/images/I/41rmPaftJPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCT1ZHM-es Pepe Jeans March Basic Metal Sandalias de Gladiador para...'
 sku: 'B07VCT1ZHM-es'
 tags: [ 'sandalias', ]

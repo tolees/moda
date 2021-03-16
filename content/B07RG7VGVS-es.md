@@ -5,7 +5,7 @@ date: 2020-09-08 10:57:51
 image: 'https://m.media-amazon.com/images/I/41W+wq3EHYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RG7VGVS-es Levi s 501 Crop Vaqueros Boyfriend Azul Jive Stone Wash...'
 sku: 'B07RG7VGVS-es'
 tags: [ 'vaqueros', ]

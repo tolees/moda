@@ -5,7 +5,7 @@ date: 2020-05-18 10:54:16
 image: 'https://m.media-amazon.com/images/I/31zj6-Yof6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081NZQB5R-es Marca Amazon - AURIQUE Shorts de Deporte con Banda Lateral...'
 sku: 'B081NZQB5R-es'
 tags: [ 'aurique', ]

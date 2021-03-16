@@ -5,7 +5,7 @@ date: 2020-05-12 20:34:49
 image: 'https://m.media-amazon.com/images/I/415zzLWNyGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R92LMDZ-es Columbia Cascade Ridge Chaqueta Softshell Unisex Adulto...'
 sku: 'B07R92LMDZ-es'
 tags: [ 'chaqueta', ]

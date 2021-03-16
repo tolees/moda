@@ -5,7 +5,7 @@ date: 2020-03-16 17:59:05
 image: 'https://m.media-amazon.com/images/I/41WnKg-ZT-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRCK9ZN-es Nike Court Borough Low PSV Zapatos de Baloncesto para...'
 sku: 'B01MRCK9ZN-es'
 tags: [ 'zapatos', ]

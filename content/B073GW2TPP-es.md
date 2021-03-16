@@ -5,7 +5,7 @@ date: 2020-02-11 13:05:11
 image: 'https://m.media-amazon.com/images/I/51xf327JQ2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073GW2TPP-es Bveyzi Mujeres RFID Bloqueo Billetera Cuero Zip Alrededor...'
 sku: 'B073GW2TPP-es'
 tags: [ 'billetera','bolso', ]

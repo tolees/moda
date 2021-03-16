@@ -5,7 +5,7 @@ date: 2020-03-01 19:41:52
 image: 'https://m.media-amazon.com/images/I/41ThAvqlE+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYBKSZ-es Geox U KEELBACK B ABX B Zapatillas Altas para Hombre Negro...'
 sku: 'B07LFYBKSZ-es'
 tags: [ 'geox', ]

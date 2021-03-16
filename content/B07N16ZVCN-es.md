@@ -5,7 +5,7 @@ date: 2020-01-15 20:10:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41THKGi5lnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N16ZVCN-es G-STAR RAW ARC 3D Vaqueros Authentic Faded Blue 29W / 32L...'
 sku: 'B07N16ZVCN-es'
 tags: [ 'vaqueros', ]

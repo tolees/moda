@@ -5,7 +5,7 @@ date: 2020-09-30 11:42:09
 image: 'https://m.media-amazon.com/images/I/319rZloamcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGFXG6Y-es PUMA Power BND tee Camiseta Hombre Rojo Rhubarb-Nrgy Red XXL'
 sku: 'B07QGFXG6Y-es'
 tags: [ 'camiseta', ]

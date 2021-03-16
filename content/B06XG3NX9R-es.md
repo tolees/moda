@@ -5,7 +5,7 @@ date: 2020-05-31 10:58:31
 image: 'https://m.media-amazon.com/images/I/41nBq42-8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG3NX9R-es Marca Amazon - find. Camisa Hombre Verde Mint Green...'
 sku: 'B06XG3NX9R-es'
 tags: [ '-','camisa','find.', ]

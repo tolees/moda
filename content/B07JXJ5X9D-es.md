@@ -5,7 +5,7 @@ date: 2020-09-21 09:22:44
 image: 'https://m.media-amazon.com/images/I/41-14G2rVQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXJ5X9D-es Lee Malone Vaqueros New Grey FZ 28W / 34L para Hombre'
 sku: 'B07JXJ5X9D-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-06-27 22:39:06
 image: 'https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RVFBYFS-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Azul Medium...'
 sku: 'B07RVFBYFS-es'
 tags: [ 'vaqueros', ]

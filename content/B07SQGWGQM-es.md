@@ -5,7 +5,7 @@ date: 2020-06-27 14:47:37
 image: 'https://m.media-amazon.com/images/I/41IsTvKo8yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGWGQM-es Geox D Sandal Vega A Sandalia con Pulsera para Mujer Beige...'
 sku: 'B07SQGWGQM-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-06-11 00:47:55
 image: 'https://m.media-amazon.com/images/I/3128obOuFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074BZNLCV-es Pepe Jeans Hatch Vaqueros Slim para Hombre Negro Denim...'
 sku: 'B074BZNLCV-es'
 tags: [ 'vaqueros', ]

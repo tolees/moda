@@ -5,7 +5,7 @@ date: 2020-05-01 22:07:12
 image: 'https://m.media-amazon.com/images/I/41nmnoJZZJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP13FNT-es Umbro Set de 5 boxers 5NEGROS -100% algodón-color negro x5...'
 sku: 'B07DP13FNT-es'
 tags: [ 'bóxer', ]

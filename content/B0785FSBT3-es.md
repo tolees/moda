@@ -5,7 +5,7 @@ date: 2020-06-28 13:53:21
 image: 'https://m.media-amazon.com/images/I/41spBHcdTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785FSBT3-es Under Armour Tech 2.0. Camiseta masculina camiseta...'
 sku: 'B0785FSBT3-es'
 tags: [ 'camiseta', ]

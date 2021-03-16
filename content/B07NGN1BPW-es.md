@@ -5,7 +5,7 @@ date: 2020-09-23 19:32:21
 image: 'https://m.media-amazon.com/images/I/31cH8JbA6vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGN1BPW-es Marca Amazon - find. Vestido Largo Estilo Camiseta de...'
 sku: 'B07NGN1BPW-es'
 tags: [ '-','camiseta','find.','vestido', ]

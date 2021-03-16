@@ -5,7 +5,7 @@ date: 2020-07-11 22:26:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uoLFMMvkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRV645D-es Zapatos de Seguridad para Hombre Zapatillas de Seguridad...'
 sku: 'B07RRV645D-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-06 01:35:18
 image: 'https://m.media-amazon.com/images/I/41WtaF9FdEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWSW1JC-es Geox Alfier B J A Zapatillas de Deporte para Niños Gris...'
 sku: 'B07SWSW1JC-es'
 tags: [ 'geox', ]

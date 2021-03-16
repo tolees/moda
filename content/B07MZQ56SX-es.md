@@ -5,7 +5,7 @@ date: 2020-04-19 12:24:04
 image: 'https://m.media-amazon.com/images/I/41gy+E9IQfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ56SX-es Pepe Jeans Rogery Chaqueta Brass 891 Small para Hombre'
 sku: 'B07MZQ56SX-es'
 tags: [ 'chaqueta', ]

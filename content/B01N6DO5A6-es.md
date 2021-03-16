@@ -5,7 +5,7 @@ date: 2020-02-26 09:27:54
 image: 'https://m.media-amazon.com/images/I/41FUKhZgl3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6DO5A6-es Helly Hansen Hombre Crew Hooded Jacke Chaqueta Not...'
 sku: 'B01N6DO5A6-es'
 tags: [ 'chaqueta', ]

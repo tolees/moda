@@ -5,7 +5,7 @@ date: 2020-02-22 21:21:22
 image: 'https://m.media-amazon.com/images/I/31RYYDE0bHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CYMSS28-es Trangoworld Sannat SN Pantalón Largo Mujer Multicolor...'
 sku: 'B01CYMSS28-es'
 tags: [ 'pantalón', ]

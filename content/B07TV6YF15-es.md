@@ -5,7 +5,7 @@ date: 2020-08-17 13:52:16
 image: 'https://m.media-amazon.com/images/I/412b5umPcKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV6YF15-es Levi s 510 Vaqueros Skinny Azul Noce Cool 1051 W34/L32...'
 sku: 'B07TV6YF15-es'
 tags: [ 'vaqueros', ]

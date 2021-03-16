@@ -5,7 +5,7 @@ date: 2020-02-07 16:48:37
 image: 'https://m.media-amazon.com/images/I/41+wESyPE-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CFBFKJ-es Geographical Norway Chaqueta NIÑA BOOMERA Rosa Llamativo 14'
 sku: 'B081CFBFKJ-es'
 tags: [ 'chaqueta', ]

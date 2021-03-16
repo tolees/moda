@@ -5,7 +5,7 @@ date: 2020-01-08 20:05:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/510qWZt9htL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LPL3C-es Wrangler LS 1pkt Bdown Shirt Camisa Azul Blue Depth Xjy...'
 sku: 'B07M8LPL3C-es'
 tags: [ 'camisa', ]

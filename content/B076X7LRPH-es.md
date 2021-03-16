@@ -5,7 +5,7 @@ date: 2020-08-05 18:09:18
 image: 'https://m.media-amazon.com/images/I/41ilpwtV4mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X7LRPH-es Geox U Uvet A Zapatos de Cordones Brogue para Hombre Gris...'
 sku: 'B076X7LRPH-es'
 tags: [ 'geox','zapatos', ]

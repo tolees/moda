@@ -5,7 +5,7 @@ date: 2020-01-20 08:18:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BQWDsFCPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F4PLK-es Wrangler Western Check Shirt Blusa Marfil Off White 737...'
 sku: 'B07M5F4PLK-es'
 tags: [ 'blusa', ]

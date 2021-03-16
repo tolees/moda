@@ -5,7 +5,7 @@ date: 2020-02-18 19:29:27
 image: 'https://m.media-amazon.com/images/I/41Ubfi+VlKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HGP3E3M-es Joma Suez Pantalón Hombre Rojo L'
 sku: 'B00HGP3E3M-es'
 tags: [ 'pantalón', ]

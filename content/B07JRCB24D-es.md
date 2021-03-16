@@ -5,7 +5,7 @@ date: 2020-05-12 18:27:21
 image: 'https://m.media-amazon.com/images/I/41t6CIMTWDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JRCB24D-es Tommy Hilfiger Logo T-Shirt Camiseta Informal Rojo Haute...'
 sku: 'B07JRCB24D-es'
 tags: [ 'camiseta', ]

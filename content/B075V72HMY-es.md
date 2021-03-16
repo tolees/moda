@@ -5,7 +5,7 @@ date: 2020-04-09 18:17:44
 image: 'https://m.media-amazon.com/images/I/31TsqUvQQeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075V72HMY-es Marca Amazon - AURIQUE Leggings Deporte Petite Mujer Azul...'
 sku: 'B075V72HMY-es'
 tags: [ 'aurique', ]

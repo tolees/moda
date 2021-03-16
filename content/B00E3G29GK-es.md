@@ -5,7 +5,7 @@ date: 2020-01-06 19:11:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411lYMPHboL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E3G29GK-es Dickies Cornwell Abrigo impermeable para Hombre Gris...'
 sku: 'B00E3G29GK-es'
 tags: [ 'abrigo', ]

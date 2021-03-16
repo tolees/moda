@@ -5,7 +5,7 @@ date: 2020-06-19 12:39:28
 image: 'https://m.media-amazon.com/images/I/41r6C0SUswL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001B15OLW-es Timberland 6-Inch Premium Boot Botas para Hombre Marrón...'
 sku: 'B001B15OLW-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-08-18 15:15:04
 image: 'https://m.media-amazon.com/images/I/41bNuTbTZmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVZ123T-es Quiksilver Molokai Nubuck II Zapatos de Playa y Piscina...'
 sku: 'B07SVZ123T-es'
 tags: [ 'zapatos', ]

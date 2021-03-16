@@ -5,7 +5,7 @@ date: 2020-09-22 18:21:36
 image: 'https://m.media-amazon.com/images/I/41XugffUYwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071L5YZ5R-es Levi s Graphic Camiseta Gris 84 Sportswear Logo Grey...'
 sku: 'B071L5YZ5R-es'
 tags: [ 'camiseta', ]

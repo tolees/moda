@@ -5,7 +5,7 @@ date: 2020-04-16 03:12:33
 image: 'https://m.media-amazon.com/images/I/31VWKV4nJzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6V2V9A-es Geox D Jaysen A Zapatillas para Mujer Negro Black 36 EU'
 sku: 'B01M6V2V9A-es'
 tags: [ 'geox', ]

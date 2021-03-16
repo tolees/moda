@@ -5,7 +5,7 @@ date: 2020-05-22 18:40:46
 image: 'https://m.media-amazon.com/images/I/31nz+cwSBaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PKJZMQ-es TYRY.HU dentición collar para mamá para usar silicona...'
 sku: 'B074PKJZMQ-es'
 tags: [ 'collar', ]

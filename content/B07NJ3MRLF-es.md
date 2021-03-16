@@ -5,7 +5,7 @@ date: 2020-06-13 23:30:56
 image: 'https://m.media-amazon.com/images/I/41mreXqkseL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ3MRLF-es Springfield 4.2.T.Apuesta Cuadros Blusa Multicolor...'
 sku: 'B07NJ3MRLF-es'
 tags: [ 'blusa', ]

@@ -5,7 +5,7 @@ date: 2020-02-08 19:04:26
 image: 'https://m.media-amazon.com/images/I/41sxL6rStPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKFTNY1-es TOTTO Bolso Bayonne Bolso Bandolera 20 cm 20 litros...'
 sku: 'B07JKFTNY1-es'
 tags: [ 'bolso', ]

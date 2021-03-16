@@ -5,7 +5,7 @@ date: 2020-01-23 10:07:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-jg40fd8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081S8ZTB6-es Disney Frozen 2 - Camisa de Noche con Volante - Full Print...'
 sku: 'B081S8ZTB6-es'
 tags: [ 'camisa', ]

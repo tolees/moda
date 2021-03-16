@@ -5,7 +5,7 @@ date: 2020-02-06 12:13:08
 image: 'https://m.media-amazon.com/images/I/41yNBpBNmsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N198RFT-es G-STAR RAW 3301 Straight Vaqueros Blu Authentic Faded Blue...'
 sku: 'B07N198RFT-es'
 tags: [ 'vaqueros', ]

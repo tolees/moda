@@ -5,7 +5,7 @@ date: 2020-08-10 17:02:03
 image: 'https://m.media-amazon.com/images/I/31vFo9N671L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPYPX1H-es Clarks Un Adorn Vibe Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TPYPX1H-es'
 tags: [ 'sandalias', ]

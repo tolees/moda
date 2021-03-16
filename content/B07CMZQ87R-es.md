@@ -5,7 +5,7 @@ date: 2020-03-30 09:39:54
 image: 'https://m.media-amazon.com/images/I/31tLx8GQHgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMZQ87R-es Crocs Santa Cruz Canvas Flip Men Zapatos de Playa y...'
 sku: 'B07CMZQ87R-es'
 tags: [ 'zapatos', ]

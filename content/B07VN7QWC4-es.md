@@ -5,7 +5,7 @@ date: 2020-07-25 16:12:54
 image: 'https://m.media-amazon.com/images/I/413YtKeCUzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN7QWC4-es Hackett London Amr Hackett tee Camiseta Rojo 1bkorange...'
 sku: 'B07VN7QWC4-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-11 00:44:01
 image: 'https://m.media-amazon.com/images/I/419dvz7p2CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UC13XCO-es Fruit of the Loom Heavy Cotton Tee Shirt 3 Pack Camiseta...'
 sku: 'B00UC13XCO-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-08 15:58:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Es%2B-v5yQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LH1PMXH-es The North Face Ambition S/S Camiseta de Manga Corta Hombre...'
 sku: 'B07LH1PMXH-es'
 tags: [ 'camiseta', ]

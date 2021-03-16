@@ -5,7 +5,7 @@ date: 2020-01-16 18:15:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31TN3PaDGFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072C64FJL-es Khanomak - Pantalón Corto Deportivo - para Mujer Rojo...'
 sku: 'B072C64FJL-es'
 tags: [ 'pantalón', ]

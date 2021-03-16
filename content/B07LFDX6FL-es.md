@@ -5,7 +5,7 @@ date: 2020-09-18 11:13:59
 image: 'https://m.media-amazon.com/images/I/31-3KF+nsbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFDX6FL-es Levi s 514 Vaqueros Straight Azul Ivy ADV 1209 W30/L30...'
 sku: 'B07LFDX6FL-es'
 tags: [ 'vaqueros', ]

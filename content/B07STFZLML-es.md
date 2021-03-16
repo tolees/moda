@@ -5,7 +5,7 @@ date: 2020-09-05 16:50:31
 image: 'https://m.media-amazon.com/images/I/41GUyM0u0lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STFZLML-es Geox J SPACECLUB Girl C Zapatillas para Niñas Rosa Pink...'
 sku: 'B07STFZLML-es'
 tags: [ 'geox', ]

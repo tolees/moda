@@ -5,7 +5,7 @@ date: 2020-06-07 22:56:01
 image: 'https://m.media-amazon.com/images/I/31MsL+hQxaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2L2C7Q-es Timberland Adventure 2.0 Cupsole Modern Chukka Zapatillas...'
 sku: 'B07K2L2C7Q-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-09-18 08:15:20
 image: 'https://m.media-amazon.com/images/I/51umKXvFI+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BW99ZGZ-es Hot One Cambios De Color Monederos y Bolsos Luminosos...'
 sku: 'B07BW99ZGZ-es'
 tags: [ 'billetera','moda','monedero', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 06:30:35
 image: 'https://m.media-amazon.com/images/I/31XPTed7nVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753KVDKS-es Uvex sportstyle 803 colorvision gafas de sol Rectangular...'
 sku: 'B0753KVDKS-es'
 tags: [ 'gafas', ]

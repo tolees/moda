@@ -5,7 +5,7 @@ date: 2020-10-06 22:39:01
 image: 'https://m.media-amazon.com/images/I/31gg6PPhQvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RW9ZJ7L-es GRACE KARIN Mujer Vestido Corto Elegante para Fiesta...'
 sku: 'B07RW9ZJ7L-es'
 tags: [ 'vestido', ]

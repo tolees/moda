@@ -5,7 +5,7 @@ date: 2020-06-01 20:17:52
 image: 'https://m.media-amazon.com/images/I/31jwBhSVSSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LTY7UM-es Lacoste L1212 Camiseta Polo Verde Vert L para Hombre'
 sku: 'B002LTY7UM-es'
 tags: [ 'camiseta', ]

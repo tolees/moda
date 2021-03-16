@@ -5,7 +5,7 @@ date: 2020-01-03 09:09:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31pCrOrYrQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N45PZ1K-es Tommy Hilfiger Corp Long Slv tee Camiseta de Manga Larga...'
 sku: 'B07N45PZ1K-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-18 18:38:12
 image: 'https://m.media-amazon.com/images/I/418xzoGsxHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CCJFS45-es JACK & JONES Jjesheridan Shirt L/s Camisa Vaquera Gris...'
 sku: 'B07CCJFS45-es'
 tags: [ 'camisa', ]

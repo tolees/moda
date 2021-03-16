@@ -5,7 +5,7 @@ date: 2020-02-23 05:04:12
 image: 'https://m.media-amazon.com/images/I/412oDvACaUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0060KENS4-es Smiffy s 28385 Chaqueta de Mujer para Grease Rosa S 8 - 10 UK'
 sku: 'B0060KENS4-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-09-18 21:52:37
 image: 'https://m.media-amazon.com/images/I/41sLJaSiwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R59SG5S-es find. High Point Botines Rojo Burgundy Croc 38 EU'
 sku: 'B07R59SG5S-es'
 tags: [ 'botines', ]

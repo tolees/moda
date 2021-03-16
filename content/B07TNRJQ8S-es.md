@@ -5,7 +5,7 @@ date: 2020-10-03 04:21:35
 image: 'https://m.media-amazon.com/images/I/41Y+mraUSkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNRJQ8S-es Superdry OL Vintage Emb Crew Camiseta Rosa Neon Pink Space...'
 sku: 'B07TNRJQ8S-es'
 tags: [ 'camiseta', ]

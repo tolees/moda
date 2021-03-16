@@ -5,7 +5,7 @@ date: 2020-08-04 08:46:01
 image: 'https://m.media-amazon.com/images/I/41YM-pjUk1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7VBX6M-es Geographical Norway - Chaqueta - para hombre azul marino L'
 sku: 'B07M7VBX6M-es'
 tags: [ 'chaqueta', ]

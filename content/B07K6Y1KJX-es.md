@@ -5,7 +5,7 @@ date: 2020-01-03 20:39:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MDDHURxIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6Y1KJX-es Levi s 501 Crop Vaqueros Straight Azul Shot In The Dark...'
 sku: 'B07K6Y1KJX-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-08-24 07:46:55
 image: 'https://m.media-amazon.com/images/I/41cgySgAu7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y929VQS-es XTI 49690 Zapatos de Cordones Oxford para Hombre Marrón...'
 sku: 'B07Y929VQS-es'
 tags: [ 'zapatos', ]

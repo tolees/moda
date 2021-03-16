@@ -5,7 +5,7 @@ date: 2020-01-11 08:02:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41skMlL%2BYRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V5NPD9-es Canadian Peak Chaqueta'
 sku: 'B082V5NPD9-es'
 tags: [ 'chaqueta', ]

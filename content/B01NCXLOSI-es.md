@@ -5,7 +5,7 @@ date: 2020-05-21 22:00:59
 image: 'https://m.media-amazon.com/images/I/31BpgMKxvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCXLOSI-es hummel AUTH Charge Poly Zip Jacket Chaqueta Infantil Negro...'
 sku: 'B01NCXLOSI-es'
 tags: [ 'chaqueta', ]

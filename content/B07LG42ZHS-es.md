@@ -5,7 +5,7 @@ date: 2020-01-12 12:23:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TSgPnt2%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG42ZHS-es Geox B RISHON Girl B Zapatillas para Bebés Gris Dk...'
 sku: 'B07LG42ZHS-es'
 tags: [ 'geox', ]

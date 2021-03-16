@@ -5,7 +5,7 @@ date: 2020-08-20 13:06:24
 image: 'https://m.media-amazon.com/images/I/31nOZgWinML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPDJRHW-es Desigual Bols Lazarus Barrel - Bolso para mujer color...'
 sku: 'B07XPDJRHW-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-01-10 19:25:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WsydjL9rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N97SBPT-es BOSS Trek 4 Camiseta Negro Black 001 Small para Hombre'
 sku: 'B07N97SBPT-es'
 tags: [ 'camiseta', ]

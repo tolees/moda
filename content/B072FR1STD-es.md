@@ -5,7 +5,7 @@ date: 2020-05-07 23:22:05
 image: 'https://m.media-amazon.com/images/I/41Aeloq5XdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FR1STD-es Marca Amazon - find. Blusa Mujer Morado Violet Indigo...'
 sku: 'B072FR1STD-es'
 tags: [ '-','blusa','find.', ]

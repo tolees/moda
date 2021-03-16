@@ -5,7 +5,7 @@ date: 2020-01-23 10:48:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DPWV08hZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J4FV8TO-es Portwest C676 - Chaqueta aireado Chef color Blanco talla 3 XL'
 sku: 'B00J4FV8TO-es'
 tags: [ 'chaqueta', ]

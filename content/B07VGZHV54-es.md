@@ -5,7 +5,7 @@ date: 2020-05-08 18:11:56
 image: 'https://m.media-amazon.com/images/I/41Qjz3GH7OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGZHV54-es Mocasines Mujer Piel Cuero Loafers Plano Lazy Casual...'
 sku: 'B07VGZHV54-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-05-15 15:15:10
 image: 'https://m.media-amazon.com/images/I/31OOa9ki-kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FB6QTHX-es Joma Winner Sudadera Hombre antrac. / Negro L'
 sku: 'B07FB6QTHX-es'
 tags: [ 'sudadera', ]

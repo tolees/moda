@@ -5,7 +5,7 @@ date: 2020-09-11 06:44:14
 image: 'https://m.media-amazon.com/images/I/41ut9N6rrjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FMKGQ38-es Doaraha Conjunto de Pijamas de Maternidad y Enfermería...'
 sku: 'B08FMKGQ38-es'
 tags: [ 'camiseta','pijama', ]

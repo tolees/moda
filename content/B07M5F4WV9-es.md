@@ -5,7 +5,7 @@ date: 2020-02-21 12:43:14
 image: 'https://m.media-amazon.com/images/I/419P1JZhfUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F4WV9-es Wrangler Jacket Chaqueta Bomber Azul Navy 114 Small para...'
 sku: 'B07M5F4WV9-es'
 tags: [ 'chaqueta', ]

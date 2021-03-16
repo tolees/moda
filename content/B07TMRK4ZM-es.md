@@ -5,7 +5,7 @@ date: 2020-08-05 03:45:24
 image: 'https://m.media-amazon.com/images/I/41+hK0nqRgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMRK4ZM-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Gris Stone...'
 sku: 'B07TMRK4ZM-es'
 tags: [ 'zapatos', ]

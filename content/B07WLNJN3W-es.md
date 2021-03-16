@@ -5,7 +5,7 @@ date: 2020-08-18 22:12:53
 image: 'https://m.media-amazon.com/images/I/51LAJKndiHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLNJN3W-es Tommy Hilfiger Summer Allover Print tee Camiseta Deporte...'
 sku: 'B07WLNJN3W-es'
 tags: [ 'camiseta', ]

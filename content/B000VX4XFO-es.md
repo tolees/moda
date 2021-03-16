@@ -5,7 +5,7 @@ date: 2020-03-03 06:31:55
 image: 'https://m.media-amazon.com/images/I/315ryYreNpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VX4XFO-es Timberland 6 Inch Premium Waterproof Botas para Hombre...'
 sku: 'B000VX4XFO-es'
 tags: [ 'timberland', ]

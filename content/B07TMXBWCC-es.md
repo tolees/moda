@@ -5,7 +5,7 @@ date: 2020-08-28 21:33:50
 image: 'https://m.media-amazon.com/images/I/31WJsoQNB4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMXBWCC-es Clarks Declan Mix Sandalias de Gladiador para Mujer Negro...'
 sku: 'B07TMXBWCC-es'
 tags: [ 'sandalias', ]

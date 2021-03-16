@@ -5,7 +5,7 @@ date: 2020-06-10 23:46:41
 image: 'https://m.media-amazon.com/images/I/41iMTMgxsBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWBFQ7K-es Levi s The tee Camiseta de Manga Corta Gris 90 s Serif T3...'
 sku: 'B07TWBFQ7K-es'
 tags: [ 'camiseta', ]

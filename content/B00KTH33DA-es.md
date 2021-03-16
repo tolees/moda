@@ -5,7 +5,7 @@ date: 2020-06-28 18:40:50
 image: 'https://m.media-amazon.com/images/I/41JyD0vhBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KTH33DA-es Under Armour Tech Short Sleeve V-Solid Camiseta Mujer Gris...'
 sku: 'B00KTH33DA-es'
 tags: [ 'camiseta', ]

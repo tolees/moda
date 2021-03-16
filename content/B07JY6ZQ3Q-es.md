@@ -5,7 +5,7 @@ date: 2020-05-03 01:23:33
 image: 'https://m.media-amazon.com/images/I/31qIbzrtmVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY6ZQ3Q-es Zapatos de Cuero para Hombres Patrón de impresión Vestido...'
 sku: 'B07JY6ZQ3Q-es'
 tags: [ 'vestido','zapatos', ]

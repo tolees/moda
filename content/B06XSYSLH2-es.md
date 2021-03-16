@@ -5,7 +5,7 @@ date: 2020-03-22 08:59:19
 image: 'https://m.media-amazon.com/images/I/41THv+ERVAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSYSLH2-es Paladinz Tripode Movil 106 cm 42" Inch de Aluminio...'
 sku: 'B06XSYSLH2-es'
 tags: [ 'bolso', ]

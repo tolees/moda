@@ -5,7 +5,7 @@ date: 2020-05-29 07:10:01
 image: 'https://m.media-amazon.com/images/I/416sb3mPsdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TF6L7MN-es ElegantPark HC1920 Zapatos Novia Tacon Bajo Correa Cruzada...'
 sku: 'B07TF6L7MN-es'
 tags: [ 'zapatos', ]

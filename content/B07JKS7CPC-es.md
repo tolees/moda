@@ -5,7 +5,7 @@ date: 2020-04-10 11:48:28
 image: 'https://m.media-amazon.com/images/I/41aEAwEAI4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKS7CPC-es Amazon Essentials - Chaqueta de uso diario para mujer...'
 sku: 'B07JKS7CPC-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 08:57:02
 image: 'https://m.media-amazon.com/images/I/31jCGoEGwZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC9WV9M-es JACK & JONES Jcowill Puffer Chaqueta Azul Navy Blazer...'
 sku: 'B07VC9WV9M-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-23 08:39:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41g-DMo7SoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6HGFHH-es Under Armour Armour Insulated Chaqueta Hombre Negro MD'
 sku: 'B07L6HGFHH-es'
 tags: [ 'chaqueta', ]

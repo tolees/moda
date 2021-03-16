@@ -5,7 +5,7 @@ date: 2020-05-15 11:43:49
 image: 'https://m.media-amazon.com/images/I/41WpkfstqWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VTBS24-es Zapatos para Mujer Tacon Alto Aguja Primavera 2020 Sexy...'
 sku: 'B084VTBS24-es'
 tags: [ 'sandalias','zapatos', ]

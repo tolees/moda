@@ -5,7 +5,7 @@ date: 2020-02-04 11:19:55
 image: 'https://m.media-amazon.com/images/I/41Mz0xPs2FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVCGSBV-es Napapijri Soves Camiseta Negro Black 041 Medium para Hombre'
 sku: 'B07MVCGSBV-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-18 20:40:14
 image: 'https://m.media-amazon.com/images/I/41kVfqF2LmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGRYJM7-es Little Sprouts - Cadena de chupete 2 en 1 - Moderna y Moda...'
 sku: 'B06XGRYJM7-es'
 tags: [ 'moda', ]

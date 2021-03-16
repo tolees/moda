@@ -5,7 +5,7 @@ date: 2020-09-27 04:30:37
 image: 'https://m.media-amazon.com/images/I/41zJNkMQxBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HXWBD-es Clarks Step Explorhi Botines para Mujer Negro Black Black...'
 sku: 'B07N1HXWBD-es'
 tags: [ 'botines', ]

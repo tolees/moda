@@ -5,7 +5,7 @@ date: 2020-09-12 01:29:52
 image: 'https://m.media-amazon.com/images/I/41i+PQCelqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC4QQV6-es Helly Hansen HH Logo Crew Sudadera Deportiva Hombre Azul...'
 sku: 'B07SC4QQV6-es'
 tags: [ 'sudadera', ]

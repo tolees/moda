@@ -5,7 +5,7 @@ date: 2020-02-22 11:14:07
 image: 'https://m.media-amazon.com/images/I/413HUw4JbmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RF18HK3-es G-STAR RAW Midge Mid Waist Straight Vaqueros Gris Dusty...'
 sku: 'B07RF18HK3-es'
 tags: [ 'vaqueros', ]

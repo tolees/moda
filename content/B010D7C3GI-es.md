@@ -5,7 +5,7 @@ date: 2020-06-25 14:38:26
 image: 'https://m.media-amazon.com/images/I/515YRlqSFlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010D7C3GI-es DSstyles Toalla de Playa Extra Grande Toalla de Viaje...'
 sku: 'B010D7C3GI-es'
 tags: [ 'bikini', ]

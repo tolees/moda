@@ -5,7 +5,7 @@ date: 2020-01-01 15:01:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GWxe8hgAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777LWQMV-es JACK & JONES Jjifred Jjoriginal CR 033 STS Vaqueros...'
 sku: 'B0777LWQMV-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-03-04 22:05:39
 image: 'https://m.media-amazon.com/images/I/41BN1BO6W-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W3VX9L6-es JACK & JONES JORSHAREE Puffer Jacket Chaqueta Azul Forest...'
 sku: 'B07W3VX9L6-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-05-28 16:51:24
 image: 'https://m.media-amazon.com/images/I/31p1Vi+A4GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KDF88WS-es adidas Regi18 Pre Jkt Chaqueta de Deporte Hombre Bold...'
 sku: 'B07KDF88WS-es'
 tags: [ 'chaqueta', ]

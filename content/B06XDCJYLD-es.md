@@ -5,7 +5,7 @@ date: 2020-06-21 11:56:52
 image: 'https://m.media-amazon.com/images/I/41e-nYD0HAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDCJYLD-es EverVanz Bolsa de Viaje Lona Gran tamaño Bolso del Fin de...'
 sku: 'B06XDCJYLD-es'
 tags: [ 'bolso', ]

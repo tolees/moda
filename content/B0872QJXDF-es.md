@@ -5,7 +5,7 @@ date: 2020-04-26 09:33:25
 image: 'https://m.media-amazon.com/images/I/41c4nBYefvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872QJXDF-es Odetina - Sandalias de tacón alto con correa de hebilla...'
 sku: 'B0872QJXDF-es'
 tags: [ 'sandalias', ]

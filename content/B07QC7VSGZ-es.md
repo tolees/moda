@@ -5,7 +5,7 @@ date: 2020-05-18 09:34:31
 image: 'https://m.media-amazon.com/images/I/317TMhgawBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC7VSGZ-es Marca Amazon - AURIQUE Bal181la18 - leggings deporte mujer...'
 sku: 'B07QC7VSGZ-es'
 tags: [ 'aurique', ]

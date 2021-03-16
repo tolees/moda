@@ -5,7 +5,7 @@ date: 2020-03-02 15:03:07
 image: 'https://m.media-amazon.com/images/I/31Neig9OBaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPCC9-es Napapijri DAMAVAND Crew Jersey Verde Green Forest 2 GE3 XL...'
 sku: 'B07MCSPCC9-es'
 tags: [ 'jersey', ]

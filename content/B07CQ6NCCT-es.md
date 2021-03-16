@@ -5,7 +5,7 @@ date: 2020-09-11 22:09:54
 image: 'https://m.media-amazon.com/images/I/41jdZ0U7zKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ6NCCT-es Marca Amazon - AURIQUE Mallas de Deporte sin Costuras de...'
 sku: 'B07CQ6NCCT-es'
 tags: [ 'aurique', ]

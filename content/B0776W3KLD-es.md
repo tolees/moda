@@ -5,7 +5,7 @@ date: 2020-09-18 21:22:57
 image: 'https://m.media-amazon.com/images/I/41GJKpD1epL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776W3KLD-es Adidas Terrex Swift R2 Zapatos de Low Rise Senderismo para...'
 sku: 'B0776W3KLD-es'
 tags: [ 'zapatos', ]

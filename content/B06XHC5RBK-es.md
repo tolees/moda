@@ -5,7 +5,7 @@ date: 2020-03-01 07:04:54
 image: 'https://m.media-amazon.com/images/I/31Qk0UXcaeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHC5RBK-es Helly Hansen W HH LIFA 1/2 Zip Camiseta Deportiva Mujer...'
 sku: 'B06XHC5RBK-es'
 tags: [ 'camiseta', ]

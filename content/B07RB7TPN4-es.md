@@ -5,7 +5,7 @@ date: 2020-01-13 08:52:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41He8%2BZeNXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB7TPN4-es Columbia Challenger Chaqueta Sudadera Hombre Rojo Mountain...'
 sku: 'B07RB7TPN4-es'
 tags: [ 'chaqueta','sudadera', ]

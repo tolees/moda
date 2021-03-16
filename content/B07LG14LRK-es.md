@@ -5,7 +5,7 @@ date: 2020-04-06 13:21:46
 image: 'https://m.media-amazon.com/images/I/411WPlRlBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG14LRK-es Geox D New ANNYA B Botines para Mujer Negro Black C9999 40 EU'
 sku: 'B07LG14LRK-es'
 tags: [ 'botines','geox', ]

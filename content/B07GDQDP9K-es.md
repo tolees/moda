@@ -5,7 +5,7 @@ date: 2020-07-01 08:04:36
 image: 'https://m.media-amazon.com/images/I/51zmowXDK-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDQDP9K-es Levi s Type 3 Chaqueta Vaquera Azul Mayze Sherpa Trucker...'
 sku: 'B07GDQDP9K-es'
 tags: [ 'chaqueta', ]

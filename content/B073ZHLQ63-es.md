@@ -5,7 +5,7 @@ date: 2020-03-10 18:26:54
 image: 'https://m.media-amazon.com/images/I/41f+SRoEFLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZHLQ63-es The North Face M Gotham Chaqueta De Plumón Hombre...'
 sku: 'B073ZHLQ63-es'
 tags: [ 'chaqueta', ]

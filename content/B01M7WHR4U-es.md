@@ -5,7 +5,7 @@ date: 2020-05-31 19:27:34
 image: 'https://m.media-amazon.com/images/I/51qg8qE8gDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7WHR4U-es Tuc Tuc Paraguas People - Bolso'
 sku: 'B01M7WHR4U-es'
 tags: [ 'bolso', ]

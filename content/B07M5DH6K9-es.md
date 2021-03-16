@@ -5,7 +5,7 @@ date: 2020-04-04 09:16:23
 image: 'https://m.media-amazon.com/images/I/41ryWyFSk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5DH6K9-es Lee Chunky Knit Sudadera Marfil Off White MK Small para Mujer'
 sku: 'B07M5DH6K9-es'
 tags: [ 'sudadera', ]

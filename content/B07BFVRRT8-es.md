@@ -5,7 +5,7 @@ date: 2020-05-28 15:15:13
 image: 'https://m.media-amazon.com/images/I/41vn9lVBk7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFVRRT8-es Rismart Mujer Verano Tacón Grueso Punta Abierta Tartán...'
 sku: 'B07BFVRRT8-es'
 tags: [ 'sandalias', ]

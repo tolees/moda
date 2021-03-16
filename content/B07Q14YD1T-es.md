@@ -5,7 +5,7 @@ date: 2020-06-21 10:24:20
 image: 'https://m.media-amazon.com/images/I/41FHV8y8omL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q14YD1T-es Voqeen Mujer Bañador con Cuello en V Sexy Bikin de Dos...'
 sku: 'B07Q14YD1T-es'
 tags: [ 'falda', ]

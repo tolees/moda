@@ -5,7 +5,7 @@ date: 2020-03-22 07:24:42
 image: 'https://m.media-amazon.com/images/I/41aOFEeYJZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2BB5Q5-es Superdry Downhill Racer Applique tee Camiseta Rojo Rouge...'
 sku: 'B07P2BB5Q5-es'
 tags: [ 'camiseta', ]

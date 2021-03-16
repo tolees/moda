@@ -5,7 +5,7 @@ date: 2020-10-02 01:21:01
 image: 'https://m.media-amazon.com/images/I/511Xc+DG1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X86K4RL-es LIGE Relojes de Pulsera Acero Inoxidable Negocios Cuarzo...'
 sku: 'B07X86K4RL-es'
 tags: [ 'moda', ]

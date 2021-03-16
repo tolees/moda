@@ -5,7 +5,7 @@ date: 2020-07-24 08:43:56
 image: 'https://m.media-amazon.com/images/I/41lotlKLKRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMHHTF2-es Levi s 511 Slim Vaqueros Noce Cool 4211 31W / 30L para Hombre'
 sku: 'B07TMHHTF2-es'
 tags: [ 'vaqueros', ]

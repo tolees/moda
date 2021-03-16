@@ -5,7 +5,7 @@ date: 2020-07-29 11:40:36
 image: 'https://m.media-amazon.com/images/I/41CZMe9RQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF3BN99-es Levi s 501 Crop Vaqueros Boyfriend Azul Montgomery Baked...'
 sku: 'B07KF3BN99-es'
 tags: [ 'vaqueros', ]

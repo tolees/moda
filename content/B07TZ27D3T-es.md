@@ -5,7 +5,7 @@ date: 2020-08-13 20:13:25
 image: 'https://m.media-amazon.com/images/I/41elj9xwimL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ27D3T-es Wrangler SS Logo tee Camiseta Azul Navy 114 Medium para...'
 sku: 'B07TZ27D3T-es'
 tags: [ 'camiseta', ]

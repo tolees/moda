@@ -5,7 +5,7 @@ date: 2020-08-05 01:27:56
 image: 'https://m.media-amazon.com/images/I/31Bt9+KogEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMRKB3H-es Clarks Tri Slide Sandalias Punta Cerrada para Mujer Beige...'
 sku: 'B07TMRKB3H-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 11:42:25
 image: 'https://m.media-amazon.com/images/I/41FByugzWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W2S36RL-es Tommy Hilfiger Small T Camiseta de Cuello Redondo y Logo...'
 sku: 'B07W2S36RL-es'
 tags: [ 'camiseta', ]

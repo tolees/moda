@@ -5,7 +5,7 @@ date: 2020-05-04 11:10:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WiWDDEL5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008ODLBT4-es Crocs Crocband Sandal Kids Sandalias Unisex Niños Azul...'
 sku: 'B008ODLBT4-es'
 tags: [ 'sandalias', ]

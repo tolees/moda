@@ -5,7 +5,7 @@ date: 2020-03-17 19:57:07
 image: 'https://m.media-amazon.com/images/I/41+xOS1I8dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQF3RZ7-es Helly Hansen Hp Atlantic Fz - Sudadera para Hombre Gris...'
 sku: 'B07MQF3RZ7-es'
 tags: [ 'sudadera', ]

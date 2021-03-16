@@ -5,7 +5,7 @@ date: 2020-09-22 17:59:53
 image: 'https://m.media-amazon.com/images/I/41pLnFZunJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EAQDLKA-es Halti Collar 8" - 12"'
 sku: 'B01EAQDLKA-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-09-23 09:17:34
 image: 'https://m.media-amazon.com/images/I/41UN1VxEq8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SF9BHLY-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Medium Aged...'
 sku: 'B00SF9BHLY-es'
 tags: [ 'vaqueros', ]

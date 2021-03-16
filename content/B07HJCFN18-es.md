@@ -5,7 +5,7 @@ date: 2020-04-20 16:03:24
 image: 'https://m.media-amazon.com/images/I/31YXAvYLiiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJCFN18-es Polaroid PLD 6062/S Gafas de sol Multicolor Havgreen 57...'
 sku: 'B07HJCFN18-es'
 tags: [ 'gafas', ]

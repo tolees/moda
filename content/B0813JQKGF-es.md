@@ -5,7 +5,7 @@ date: 2020-08-04 06:41:19
 image: 'https://m.media-amazon.com/images/I/31BElcO7F6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813JQKGF-es Marca Amazon - Find. Sandalias abiertas para mujer con...'
 sku: 'B0813JQKGF-es'
 tags: [ '-','find.','sandalias', ]

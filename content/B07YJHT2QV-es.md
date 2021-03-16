@@ -5,7 +5,7 @@ date: 2020-05-26 15:36:46
 image: 'https://m.media-amazon.com/images/I/31X9+W5LIEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJHT2QV-es Eli-time Gafas de sol polarizadas ultraligeras hombres y...'
 sku: 'B07YJHT2QV-es'
 tags: [ 'gafas','moda', ]

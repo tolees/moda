@@ -5,7 +5,7 @@ date: 2020-08-27 11:26:11
 image: 'https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLPTTH9-es Havaianas Slim Flatform Chanclas para Mujer Azul Blue 0057...'
 sku: 'B07TLPTTH9-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 08:13:54
 image: 'https://m.media-amazon.com/images/I/41K6YwtVcEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3KDV9Q-es Levi s Vneck Camiseta Azul Annalise Stripe Cloud Dancer...'
 sku: 'B07S3KDV9Q-es'
 tags: [ 'camiseta', ]

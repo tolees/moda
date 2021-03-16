@@ -5,7 +5,7 @@ date: 2020-09-05 16:18:17
 image: 'https://m.media-amazon.com/images/I/41R6zCAJsnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XV9LWFD-es Geographical Norway Sudadera Mujer GYMCLASS A Gris Melange S'
 sku: 'B07XV9LWFD-es'
 tags: [ 'sudadera', ]

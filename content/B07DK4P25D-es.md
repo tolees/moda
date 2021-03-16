@@ -5,7 +5,7 @@ date: 2020-04-24 16:13:43
 image: 'https://m.media-amazon.com/images/I/41EHYaDmQML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK4P25D-es Geox J Waviness B Zapatillas para Niños Azul Navy/Red...'
 sku: 'B07DK4P25D-es'
 tags: [ 'geox', ]

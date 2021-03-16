@@ -5,7 +5,7 @@ date: 2020-09-08 13:39:47
 image: 'https://m.media-amazon.com/images/I/31bpF0BN82L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQ8KRCJ-es Jack & Jones Jjiglenn Jjoriginal Am 814 Noos Vaqueros Slim...'
 sku: 'B07JQ8KRCJ-es'
 tags: [ 'vaqueros', ]

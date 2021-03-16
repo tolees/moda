@@ -5,7 +5,7 @@ date: 2020-02-25 18:44:19
 image: 'https://m.media-amazon.com/images/I/41tKTpGx-CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMMK99J-es DoGeek Escarpines Antideslizante Zapato de Agua Zapatos de...'
 sku: 'B07CMMK99J-es'
 tags: [ 'zapatos', ]

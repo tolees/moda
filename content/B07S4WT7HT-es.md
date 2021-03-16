@@ -5,7 +5,7 @@ date: 2020-07-14 18:04:21
 image: 'https://m.media-amazon.com/images/I/31PZr0knUjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4WT7HT-es Levi s Haight Harrington Jacket Chaqueta Negro Mineral...'
 sku: 'B07S4WT7HT-es'
 tags: [ 'chaqueta', ]

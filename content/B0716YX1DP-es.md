@@ -5,7 +5,7 @@ date: 2020-04-25 13:08:08
 image: 'https://m.media-amazon.com/images/I/31tO90HddzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716YX1DP-es Under Armour Woven Graphic Wordmark Shorts Pantalón Corto...'
 sku: 'B0716YX1DP-es'
 tags: [ 'pantalón', ]

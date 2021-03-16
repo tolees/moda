@@ -5,7 +5,7 @@ date: 2020-05-22 14:06:50
 image: 'https://m.media-amazon.com/images/I/51o7FjjI82L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FK1K7Y-es Oihxse Funda con Samsung Galaxy A90 5G Cuero PU Billetera...'
 sku: 'B088FK1K7Y-es'
 tags: [ 'billetera', ]

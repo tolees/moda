@@ -5,7 +5,7 @@ date: 2020-04-19 13:47:30
 image: 'https://m.media-amazon.com/images/I/31WgDxP60sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNXXN46-es The Indian Face Gafas de Sol Espejadas Oxygen Mujer Hombre...'
 sku: 'B07GNXXN46-es'
 tags: [ 'gafas', ]

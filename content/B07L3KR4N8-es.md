@@ -5,7 +5,7 @@ date: 2020-06-13 07:42:07
 image: 'https://m.media-amazon.com/images/I/31xOxtJ1bqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3KR4N8-es Vestido Vintage para Muejeres Mangas 3/4 Cuello V de...'
 sku: 'B07L3KR4N8-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-08-12 15:45:07
 image: 'https://m.media-amazon.com/images/I/31h02twcDLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTL7ZS2-es Tommy Hilfiger Boys Basic Cn Knit L/s Camiseta Blanco...'
 sku: 'B07QTL7ZS2-es'
 tags: [ 'camiseta', ]

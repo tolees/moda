@@ -5,7 +5,7 @@ date: 2020-01-28 14:09:56
 image: 'https://m.media-amazon.com/images/I/41sx3aTjzeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG14RT5-es Geox U Terence C Botas Clasicas para Hombre Marrón Cognac...'
 sku: 'B07LG14RT5-es'
 tags: [ 'geox', ]

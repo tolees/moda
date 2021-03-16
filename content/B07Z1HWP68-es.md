@@ -5,7 +5,7 @@ date: 2020-02-13 10:19:17
 image: 'https://m.media-amazon.com/images/I/41rkOsLAeSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1HWP68-es EVERU Conjunto de Joyas Corazón de Plata 925 para Mujeres...'
 sku: 'B07Z1HWP68-es'
 tags: [ 'collar', ]

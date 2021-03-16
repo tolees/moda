@@ -5,7 +5,7 @@ date: 2020-09-03 04:34:53
 image: 'https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRMZ7F-es Geox Womens D New ANNYA MID A Pump Black 39 5 EU'
 sku: 'B07LFRMZ7F-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-05-18 19:04:57
 image: 'https://m.media-amazon.com/images/I/416St4gq5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS58SLD-es Jack & Jones Jjitim Jjleon GE 227 I.k. Noos Vaqueros Slim...'
 sku: 'B07TS58SLD-es'
 tags: [ 'vaqueros', ]

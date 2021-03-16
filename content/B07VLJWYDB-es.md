@@ -5,7 +5,7 @@ date: 2020-05-19 16:32:48
 image: 'https://m.media-amazon.com/images/I/41-lbk5-wpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLJWYDB-es SINOES Mujer 720 Caña Baja Gimnasia Ligero Transpirable...'
 sku: 'B07VLJWYDB-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-23 13:36:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416RMAqkUIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D5DNPHS-es Compactor Taupe Home Zapatos Bolsa de Almacenamiento...'
 sku: 'B01D5DNPHS-es'
 tags: [ 'zapatos', ]

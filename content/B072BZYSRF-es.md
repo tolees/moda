@@ -5,7 +5,7 @@ date: 2020-08-12 07:17:52
 image: 'https://m.media-amazon.com/images/I/31p+URp4BbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BZYSRF-es Only onlRAIN REG Skinny Jeans CRY6060 Noos Vaqueros Negro...'
 sku: 'B072BZYSRF-es'
 tags: [ 'vaqueros', ]

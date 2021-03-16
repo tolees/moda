@@ -5,7 +5,7 @@ date: 2020-05-13 14:34:52
 image: 'https://m.media-amazon.com/images/I/31GHCfOC-SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3Y89CM-es Marca Amazon - AURIQUE Mallas de Entrenamiento Mujer Azul...'
 sku: 'B07L3Y89CM-es'
 tags: [ 'aurique', ]

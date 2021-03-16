@@ -5,7 +5,7 @@ date: 2020-04-11 11:04:48
 image: 'https://m.media-amazon.com/images/I/41NjWW3MK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6HWHP3-es Tom Tailor Doppelpack Basic T-Shirt Camiseta Azul Real...'
 sku: 'B07W6HWHP3-es'
 tags: [ 'camiseta', ]

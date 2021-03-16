@@ -5,7 +5,7 @@ date: 2020-01-15 21:30:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hy0TNkx1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1LK4T2-es Carrera 125/S HD 6UB Gafas de sol Negro Shn Black Gd/Grey...'
 sku: 'B01M1LK4T2-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-02-27 11:18:32
 image: 'https://m.media-amazon.com/images/I/31oEuKN6WJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC12G3C-es Clarks - Botines de Sintético Hombre Color Marrón Talla 46 EU'
 sku: 'B07MC12G3C-es'
 tags: [ 'botines', ]

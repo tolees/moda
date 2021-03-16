@@ -5,7 +5,7 @@ date: 2020-02-12 10:39:11
 image: 'https://m.media-amazon.com/images/I/31HcH6gus6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXE0L2R-es Crocs Swiftwater Wave M Zapatos de agua Hombre Azul...'
 sku: 'B01MXE0L2R-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-03 17:23:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418k7R%2Bl7EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ94R4-es Geox J HADRIEL Girl D Botas Slouch para Niñas Rosa Lt...'
 sku: 'B07LFZ94R4-es'
 tags: [ 'geox', ]

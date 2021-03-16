@@ -5,7 +5,7 @@ date: 2020-06-09 18:35:48
 image: 'https://m.media-amazon.com/images/I/51KN76eGTHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ393B-es Pepe Jeans Ophelia Blusa Multicolor Multi 0aa Large para...'
 sku: 'B07MZQ393B-es'
 tags: [ 'blusa', ]

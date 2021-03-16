@@ -5,7 +5,7 @@ date: 2020-04-28 10:03:43
 image: 'https://m.media-amazon.com/images/I/41ISI+H+h7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BFT92K-es TENDYCOCO 100Pcs Cubren Los Zapatos Útiles Portátiles...'
 sku: 'B086BFT92K-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-02-23 08:11:42
 image: 'https://m.media-amazon.com/images/I/31RsUouO4fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWXXR4Q-es Joma Cairo II Sudadera Hombre Blanco XL'
 sku: 'B07NWXXR4Q-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-09-26 21:36:42
 image: 'https://m.media-amazon.com/images/I/41eZ39oY+fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BJDS4N-es Columbia Powder Pass Chaqueta con Capucha Hombre Verde New...'
 sku: 'B081BJDS4N-es'
 tags: [ 'chaqueta', ]

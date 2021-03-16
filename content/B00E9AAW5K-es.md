@@ -5,7 +5,7 @@ date: 2020-01-05 15:53:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LzrycWllL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E9AAW5K-es Timberland Waterville 6 Inch Basic Waterproof Botas para...'
 sku: 'B00E9AAW5K-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-07-03 20:57:45
 image: 'https://m.media-amazon.com/images/I/51NeeCvj1BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894WNTQR-es EKQ Boxer Hombre Algodon Pack de 4 Calzoncillos Bóxers...'
 sku: 'B0894WNTQR-es'
 tags: [ 'boxer', ]

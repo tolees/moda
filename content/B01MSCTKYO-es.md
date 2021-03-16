@@ -5,7 +5,7 @@ date: 2020-06-26 14:10:37
 image: 'https://m.media-amazon.com/images/I/31PBHlFV3wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSCTKYO-es REPLAY Jondrill Vaqueros Skinny Negro Black 98 W30/L32...'
 sku: 'B01MSCTKYO-es'
 tags: [ 'vaqueros', ]

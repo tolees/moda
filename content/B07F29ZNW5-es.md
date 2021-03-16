@@ -5,7 +5,7 @@ date: 2020-09-03 22:40:57
 image: 'https://m.media-amazon.com/images/I/311GSvlZyxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F29ZNW5-es Timberland Union Wharf Plain Toe SO Slip On para Hombre...'
 sku: 'B07F29ZNW5-es'
 tags: [ 'timberland', ]

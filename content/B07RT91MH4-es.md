@@ -5,7 +5,7 @@ date: 2020-01-20 13:27:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41d5QVkwhZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT91MH4-es Esprit 079ee2h001 Chaleco Azul Blue 430 X-Small para Hombre'
 sku: 'B07RT91MH4-es'
 tags: [ 'chaleco', ]

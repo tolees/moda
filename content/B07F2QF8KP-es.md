@@ -5,7 +5,7 @@ date: 2020-03-12 06:32:45
 image: 'https://m.media-amazon.com/images/I/31j2OYLbnRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2QF8KP-es Helly Hansen Moss Outdoor Chaqueta Impermeable Hombre Black S'
 sku: 'B07F2QF8KP-es'
 tags: [ 'chaqueta', ]

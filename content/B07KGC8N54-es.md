@@ -5,7 +5,7 @@ date: 2020-07-20 06:30:10
 image: 'https://m.media-amazon.com/images/I/41Qabgtm4jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGC8N54-es DCalderoni Moncayo Zapatos Piel Negros De Vestir con...'
 sku: 'B07KGC8N54-es'
 tags: [ 'zapatos', ]

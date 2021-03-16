@@ -5,7 +5,7 @@ date: 2020-01-04 14:48:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XSRMZam0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKLMMPQ-es Trangoworld PC007743-6ZT-L Pantalón Largo Mujer...'
 sku: 'B07FKLMMPQ-es'
 tags: [ 'pantalón', ]

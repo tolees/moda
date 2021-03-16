@@ -5,7 +5,7 @@ date: 2020-04-14 00:18:08
 image: 'https://m.media-amazon.com/images/I/41KkUNhrxmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQM7DGF-es CATWALK COLLECTION - Bolso de Mujer Para Trabajo/Oficina -...'
 sku: 'B07PQM7DGF-es'
 tags: [ 'bolso', ]

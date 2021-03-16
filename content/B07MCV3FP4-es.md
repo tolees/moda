@@ -5,7 +5,7 @@ date: 2020-06-22 13:15:13
 image: 'https://m.media-amazon.com/images/I/41S6J7Nyg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCV3FP4-es Marca Amazon - MERAKI Shorts de Natación Hombre Negro Geo...'
 sku: 'B07MCV3FP4-es'
 tags: [ 'meraki', ]

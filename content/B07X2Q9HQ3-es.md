@@ -5,7 +5,7 @@ date: 2020-06-15 15:27:26
 image: 'https://m.media-amazon.com/images/I/517iYZ7oeYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2Q9HQ3-es LIGE Relojes para Hombres Moda Militar Impermeable Deporte...'
 sku: 'B07X2Q9HQ3-es'
 tags: [ 'moda', ]

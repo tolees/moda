@@ -5,7 +5,7 @@ date: 2020-09-27 23:28:17
 image: 'https://m.media-amazon.com/images/I/41oSQIfDnXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBMK4RW-es find. Chunky Hiker Botines Marrón Brown 41 EU'
 sku: 'B07RBMK4RW-es'
 tags: [ 'botines', ]

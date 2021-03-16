@@ -5,7 +5,7 @@ date: 2020-01-28 10:56:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51je92RuNHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CS9W82W-es Pepe Jeans Melanie Blusa para Mujer Multi Bleu 0aa Small'
 sku: 'B07CS9W82W-es'
 tags: [ 'blusa', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 16:04:19
 image: 'https://m.media-amazon.com/images/I/31NRUe5X2JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWNL8W-es Wrangler Skinny Jeans Vaqueros Azul Dark Indigo X1e 30W /...'
 sku: 'B07MMWNL8W-es'
 tags: [ 'vaqueros', ]

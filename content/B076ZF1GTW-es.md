@@ -5,7 +5,7 @@ date: 2020-01-02 09:00:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416EXIeac1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076ZF1GTW-es IRIS & LILLY Camiseta de Manga Larga para Mujer Gris Grey...'
 sku: 'B076ZF1GTW-es'
 tags: [ '&','camiseta','iris','lilly', ]

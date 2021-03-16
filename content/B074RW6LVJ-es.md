@@ -5,7 +5,7 @@ date: 2020-06-07 21:16:08
 image: 'https://m.media-amazon.com/images/I/41qT7mTjlpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074RW6LVJ-es Lee Scarlett High Vaqueros Azul Blue Indigo Hael 25W/33L...'
 sku: 'B074RW6LVJ-es'
 tags: [ 'vaqueros', ]

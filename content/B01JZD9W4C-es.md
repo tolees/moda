@@ -5,7 +5,7 @@ date: 2020-06-23 20:05:47
 image: 'https://m.media-amazon.com/images/I/41FRYoDPr0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JZD9W4C-es BOSS Trunk CO/EL Bóxer Blanco White 100 Large Pack de 3...'
 sku: 'B01JZD9W4C-es'
 tags: [ 'bóxer', ]

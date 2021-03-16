@@ -5,7 +5,7 @@ date: 2020-09-25 01:35:53
 image: 'https://m.media-amazon.com/images/I/41Rq-b4EECL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0741CHMB8-es Verdster Islander – Gafas de Sol Clásicas de Espejo Anchas...'
 sku: 'B0741CHMB8-es'
 tags: [ 'gafas','moda', ]

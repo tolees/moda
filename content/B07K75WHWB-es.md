@@ -5,7 +5,7 @@ date: 2020-01-23 11:21:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BiDjmnZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K75WHWB-es Levi s Button Thru Mom Skirt Falda Azul Mid Race 0002...'
 sku: 'B07K75WHWB-es'
 tags: [ 'falda', ]

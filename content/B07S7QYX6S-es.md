@@ -5,7 +5,7 @@ date: 2020-09-26 11:20:45
 image: 'https://m.media-amazon.com/images/I/31AEVFwXj6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QYX6S-es PUMA DIVECAT V2 Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07S7QYX6S-es'
 tags: [ 'zapatos', ]

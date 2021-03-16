@@ -5,7 +5,7 @@ date: 2020-01-10 10:23:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wpBCgU8EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QMZD79-es find. Chaqueta Biker Hombre Gris Grau Large'
 sku: 'B073QMZD79-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-07-07 07:23:35
 image: 'https://m.media-amazon.com/images/I/31iBEF6APEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFBRR6T-es Kickers Maldan Zapatos de Cordones Derby para Hombre Negro...'
 sku: 'B07MFBRR6T-es'
 tags: [ 'zapatos', ]

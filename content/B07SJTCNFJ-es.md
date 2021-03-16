@@ -5,7 +5,7 @@ date: 2020-08-22 20:09:57
 image: 'https://m.media-amazon.com/images/I/418Fwnt+tWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJTCNFJ-es Levi s Orig Hm Vneck Camiseta Negro Mineral Black 0001...'
 sku: 'B07SJTCNFJ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-09 20:31:01
 image: 'https://m.media-amazon.com/images/I/41mqZZXqo+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798KXHHK-es Pepe Jeans Thrift Pl400755cf7 Chaqueta Vaquera Azul Denim...'
 sku: 'B0798KXHHK-es'
 tags: [ 'chaqueta', ]

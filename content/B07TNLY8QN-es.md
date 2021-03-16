@@ -5,7 +5,7 @@ date: 2020-07-03 06:23:01
 image: 'https://m.media-amazon.com/images/I/31Nnk5lzryL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNLY8QN-es Levi s LS Battery Hm Shirt Slim Camisa Azul Allure 0005...'
 sku: 'B07TNLY8QN-es'
 tags: [ 'camisa', ]

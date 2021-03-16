@@ -5,7 +5,7 @@ date: 2020-03-19 10:04:06
 image: 'https://m.media-amazon.com/images/I/41x0DK4JsgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZFT1DD-es Under Armour UA Heatgear Racer Camiseta Sin Mangas Mujer...'
 sku: 'B07CZFT1DD-es'
 tags: [ 'camiseta', ]

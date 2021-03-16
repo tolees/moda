@@ -5,7 +5,7 @@ date: 2020-05-24 09:35:29
 image: 'https://m.media-amazon.com/images/I/41xXBm6TTHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0871GDZXR-es Chllyuang Sneakers Hombre Zapatos Deportivos de Malla...'
 sku: 'B0871GDZXR-es'
 tags: [ 'moda','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 10:42:01
 image: 'https://m.media-amazon.com/images/I/31I7KRgfv7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814S4PVF-es Under Armour Challenger III Midlayer Camiseta De Hombre...'
 sku: 'B0814S4PVF-es'
 tags: [ 'camiseta', ]

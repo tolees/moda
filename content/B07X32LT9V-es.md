@@ -5,7 +5,7 @@ date: 2020-06-11 08:24:08
 image: 'https://m.media-amazon.com/images/I/31Ovh7VI5ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X32LT9V-es G-STAR RAW Pocket Short Sleeve Camiseta Rosa Lt Bleach...'
 sku: 'B07X32LT9V-es'
 tags: [ 'camiseta', ]

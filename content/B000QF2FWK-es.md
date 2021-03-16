@@ -5,7 +5,7 @@ date: 2020-05-30 09:34:33
 image: 'https://m.media-amazon.com/images/I/41BFpe6rTpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000QF2FWK-es Birkenstock Madrid Birko-Flor - Sandalias de pala unisex...'
 sku: 'B000QF2FWK-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-05-04 01:00:56
 image: 'https://m.media-amazon.com/images/I/41CYW2HM+KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTMF4HK-es New Look Oversized PU Chaqueta Negro Black 1 36 Talla del...'
 sku: 'B07RTMF4HK-es'
 tags: [ 'chaqueta', ]

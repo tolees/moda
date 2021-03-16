@@ -5,7 +5,7 @@ date: 2020-04-26 18:48:02
 image: 'https://m.media-amazon.com/images/I/41z-VGlIu7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDJ564V-es edc by Esprit 099cc2g022 Chaqueta Gris Dark Grey 020 XX-...'
 sku: 'B07VDJ564V-es'
 tags: [ 'chaqueta', ]

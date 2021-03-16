@@ -5,7 +5,7 @@ date: 2020-09-27 16:29:48
 image: 'https://m.media-amazon.com/images/I/41g-gk6NN3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6FGPJ9-es Gaatpot Zapatos Invierno Niña Niño Botas de Nieve Forradas...'
 sku: 'B07W6FGPJ9-es'
 tags: [ 'botines','zapatos', ]

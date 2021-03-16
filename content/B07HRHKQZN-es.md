@@ -5,7 +5,7 @@ date: 2020-02-07 16:41:35
 image: 'https://m.media-amazon.com/images/I/51WS+-kMIHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRHKQZN-es Botas Altas para Mujer Cuero de Invierno Camfosy City...'
 sku: 'B07HRHKQZN-es'
 tags: [ 'botines', ]

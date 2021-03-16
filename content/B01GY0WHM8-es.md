@@ -5,7 +5,7 @@ date: 2020-01-29 13:00:18
 image: 'https://m.media-amazon.com/images/I/3112TyV7ORL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GY0WHM8-es Mercedes-Benz Sonnenbrille M1046 Gafas de Sol Negro...'
 sku: 'B01GY0WHM8-es'
 tags: [ 'gafas', ]

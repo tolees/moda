@@ -5,7 +5,7 @@ date: 2020-09-16 10:25:07
 image: 'https://m.media-amazon.com/images/I/51zHkMRQ2kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLXRRL-es Geox D Sozy Plus B Sandalias con Punta Abierta para Mujer...'
 sku: 'B07STLXRRL-es'
 tags: [ 'geox','sandalias', ]

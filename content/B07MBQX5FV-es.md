@@ -5,7 +5,7 @@ date: 2020-03-31 08:58:22
 image: 'https://m.media-amazon.com/images/I/41qkhzYQqTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBQX5FV-es Kickers Oxfork Zapatos de Cordones Derby para Mujer Rojo...'
 sku: 'B07MBQX5FV-es'
 tags: [ 'zapatos', ]

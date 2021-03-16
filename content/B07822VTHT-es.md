@@ -5,7 +5,7 @@ date: 2020-04-20 22:23:03
 image: 'https://m.media-amazon.com/images/I/51YV08QnrBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07822VTHT-es Helly Hansen Lifaloft Ligera Chaqueta Aislante Mujer Black XS'
 sku: 'B07822VTHT-es'
 tags: [ 'chaqueta', ]

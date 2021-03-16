@@ -5,7 +5,7 @@ date: 2020-04-29 19:08:58
 image: 'https://m.media-amazon.com/images/I/31JVV2xnIKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMR49RB-es Jack & Jones Jjimike Jjoriginal Am 816 Vaqueros Relaxed...'
 sku: 'B07RMR49RB-es'
 tags: [ 'vaqueros', ]

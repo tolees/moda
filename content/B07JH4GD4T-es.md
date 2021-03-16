@@ -5,7 +5,7 @@ date: 2020-01-03 08:06:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kmUZNdp6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH4GD4T-es Eono Essentials - Chaqueta de esquí híbrida acolchada para...'
 sku: 'B07JH4GD4T-es'
 tags: [ 'chaqueta', ]

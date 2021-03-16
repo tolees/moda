@@ -5,7 +5,7 @@ date: 2020-01-07 10:25:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zPbNy2RKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWBB4P7-es find. Blusa con Manga Acampanada para Mujer Marfil Ivory...'
 sku: 'B06XWBB4P7-es'
 tags: [ 'blusa', ]

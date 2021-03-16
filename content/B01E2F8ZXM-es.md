@@ -5,7 +5,7 @@ date: 2020-06-10 01:48:54
 image: 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E2F8ZXM-es Levi s 711 Vaqueros Skinny Negro Black Sheen 0052 32W /...'
 sku: 'B01E2F8ZXM-es'
 tags: [ 'vaqueros', ]

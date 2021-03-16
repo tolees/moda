@@ -5,7 +5,7 @@ date: 2020-01-03 19:05:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MzxyyC18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXL1C9D-es Levi s 512 Slim Taper Fit Vaqueros Tapered Azul Cedar...'
 sku: 'B07RXL1C9D-es'
 tags: [ 'vaqueros', ]

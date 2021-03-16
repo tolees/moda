@@ -5,7 +5,7 @@ date: 2020-06-23 16:31:08
 image: 'https://m.media-amazon.com/images/I/51AEtPwyO1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078B5NHX7-es KONXIDO Relojes Hombres Moda de Negocio Deportivo Reloj de...'
 sku: 'B078B5NHX7-es'
 tags: [ 'moda', ]

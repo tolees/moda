@@ -5,7 +5,7 @@ date: 2020-06-01 11:55:11
 image: 'https://m.media-amazon.com/images/I/51oMPD0LkZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BS13NGT-es Brace Master MMA Gloves Guantes UFC Guantes de Boxeo para...'
 sku: 'B07BS13NGT-es'
 tags: [ 'guantes', ]

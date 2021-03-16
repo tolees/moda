@@ -5,7 +5,7 @@ date: 2020-09-16 06:00:39
 image: 'https://m.media-amazon.com/images/I/31R5xWc1E-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005UVVGV6-es NIKE Benassi JDI Chanclas para Hombre Blanco White/Black...'
 sku: 'B005UVVGV6-es'
 tags: [ 'chanclas', ]

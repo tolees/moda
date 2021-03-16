@@ -5,7 +5,7 @@ date: 2020-02-11 09:27:22
 image: 'https://m.media-amazon.com/images/I/41-13xNGg2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HSAZL2Q-es Meller - Kubu Tigris Sky - Gafas de sol para hombre y mujer'
 sku: 'B01HSAZL2Q-es'
 tags: [ 'gafas', ]

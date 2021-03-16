@@ -5,7 +5,7 @@ date: 2020-05-08 11:04:41
 image: 'https://m.media-amazon.com/images/I/4168ouY50AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A6ZH92A-es Columbia Cascade Explorer Pantalón Convertible Hombre Gris...'
 sku: 'B01A6ZH92A-es'
 tags: [ 'pantalón', ]

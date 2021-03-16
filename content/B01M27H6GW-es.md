@@ -5,7 +5,7 @@ date: 2020-04-20 02:12:19
 image: 'https://m.media-amazon.com/images/I/41ZORzk5qiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M27H6GW-es Timberland Tidelands Classic 2 Eye Náuticos para Hombre...'
 sku: 'B01M27H6GW-es'
 tags: [ 'timberland', ]

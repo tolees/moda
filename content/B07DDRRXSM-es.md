@@ -5,7 +5,7 @@ date: 2020-08-12 16:01:22
 image: 'https://m.media-amazon.com/images/I/41MhhPNw4GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDRRXSM-es Only Onlblush Mid ANK Raw Jeans Rea1303 Noos Vaqueros...'
 sku: 'B07DDRRXSM-es'
 tags: [ 'vaqueros', ]

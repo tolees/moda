@@ -5,7 +5,7 @@ date: 2020-03-25 13:58:14
 image: 'https://m.media-amazon.com/images/I/31N9I6V4TAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F31KK2N-es Helly Hansen HP 1/2 Zip Jersey Hombre Ebony M'
 sku: 'B07F31KK2N-es'
 tags: [ 'jersey', ]

@@ -5,7 +5,7 @@ date: 2020-07-28 01:33:07
 image: 'https://m.media-amazon.com/images/I/41YRLEoBhYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTTLQG4-es Lee Pocket tee Camiseta Rojo Bright Red EF Small para Hombre'
 sku: 'B07TTTLQG4-es'
 tags: [ 'camiseta', ]

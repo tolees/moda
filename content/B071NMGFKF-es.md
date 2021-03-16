@@ -5,7 +5,7 @@ date: 2020-01-09 23:16:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414Krkys18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NMGFKF-es find. Camisa Casual para Hombre Blanco Ecru Large'
 sku: 'B071NMGFKF-es'
 tags: [ 'camisa', ]

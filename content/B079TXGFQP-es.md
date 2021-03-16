@@ -5,7 +5,7 @@ date: 2020-05-19 07:59:11
 image: 'https://m.media-amazon.com/images/I/41Xdd4RSayL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TXGFQP-es Wrangler Slim Vaqueros Azul Perfect Blue 17P 27W / 30L...'
 sku: 'B079TXGFQP-es'
 tags: [ 'vaqueros', ]

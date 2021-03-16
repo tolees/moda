@@ -5,7 +5,7 @@ date: 2020-03-17 11:06:44
 image: 'https://m.media-amazon.com/images/I/41tiFj56pzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GILS8JO-es Calvin Klein Modern Trunk Bóxer Negro Black/Black 001...'
 sku: 'B01GILS8JO-es'
 tags: [ 'bóxer', ]

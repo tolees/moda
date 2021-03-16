@@ -5,7 +5,7 @@ date: 2020-05-25 17:33:29
 image: 'https://m.media-amazon.com/images/I/41HTT6Evc6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLJCM9-es Levi s The Perfect Tee Camiseta Mujer Negro 90 s Serif...'
 sku: 'B07RZLJCM9-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-10 22:36:52
 image: 'https://m.media-amazon.com/images/I/31Mv4HMQmdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGYPZMV-es Under Armour UA Rush Camiseta Masculina de Manga Corta...'
 sku: 'B07KGYPZMV-es'
 tags: [ 'camiseta', ]

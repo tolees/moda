@@ -5,7 +5,7 @@ date: 2020-04-18 11:37:58
 image: 'https://m.media-amazon.com/images/I/41cNovwQcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMPR1W-es Levi s Down Dehon Pkbl Puffer Chaqueta Multicolor Apricot...'
 sku: 'B07RYMPR1W-es'
 tags: [ 'chaqueta', ]

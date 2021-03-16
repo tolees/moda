@@ -5,7 +5,7 @@ date: 2020-01-25 10:45:36
 image: 'https://m.media-amazon.com/images/I/41AY4onOsBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01END67X8-es JACK & JONES - Jcomac Slim fit - Camiseta Bã¡Sica - White'
 sku: 'B01END67X8-es'
 tags: [ 'camiseta', ]

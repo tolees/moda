@@ -5,7 +5,7 @@ date: 2020-01-09 09:12:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51R1mIeK7lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081YWQVFZ-es Guantes de Invierno Calientes Impermeable Prueba del...'
 sku: 'B081YWQVFZ-es'
 tags: [ 'guantes', ]

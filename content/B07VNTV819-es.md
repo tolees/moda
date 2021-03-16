@@ -5,7 +5,7 @@ date: 2020-06-29 07:35:02
 image: 'https://m.media-amazon.com/images/I/41J909cuuFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNTV819-es Lee Luke Vaqueros Moto Used Zu 26W / 32L para Hombre'
 sku: 'B07VNTV819-es'
 tags: [ 'vaqueros', ]

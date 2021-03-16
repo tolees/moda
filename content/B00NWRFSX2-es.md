@@ -5,7 +5,7 @@ date: 2020-08-19 12:18:41
 image: 'https://m.media-amazon.com/images/I/41rQusiXwUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NWRFSX2-es Nina Brautmoden - Vestido de novia - trapecio - Manga...'
 sku: 'B00NWRFSX2-es'
 tags: [ 'vestido', ]

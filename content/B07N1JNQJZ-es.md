@@ -5,7 +5,7 @@ date: 2020-04-14 16:01:50
 image: 'https://m.media-amazon.com/images/I/317frln+p5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JNQJZ-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Beige...'
 sku: 'B07N1JNQJZ-es'
 tags: [ 'zapatos', ]

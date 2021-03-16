@@ -5,7 +5,7 @@ date: 2020-09-05 19:45:31
 image: 'https://m.media-amazon.com/images/I/41E-dto0QxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZQZ8K3-es AMZTM Camiseta Cumpleaños Bebé Niña Flamenco 1er Cumpleaño...'
 sku: 'B08BZQZ8K3-es'
 tags: [ 'camiseta', ]

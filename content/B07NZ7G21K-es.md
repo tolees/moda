@@ -5,7 +5,7 @@ date: 2020-02-29 10:45:46
 image: 'https://m.media-amazon.com/images/I/21iykMaEORL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ7G21K-es adidas Ultimate Adistar Skort Falda Blanco Blanco Dq2127...'
 sku: 'B07NZ7G21K-es'
 tags: [ 'falda', ]

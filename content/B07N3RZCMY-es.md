@@ -5,7 +5,7 @@ date: 2020-01-19 20:50:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLAdDuYqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3RZCMY-es Desigual Coat Dante Abrigo Negro Negro 2000 40 Talla del...'
 sku: 'B07N3RZCMY-es'
 tags: [ 'abrigo', ]

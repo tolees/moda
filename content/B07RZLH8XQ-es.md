@@ -5,7 +5,7 @@ date: 2020-09-24 20:01:59
 image: 'https://m.media-amazon.com/images/I/4186acmTB+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLH8XQ-es Levi s Selma Dress Vestido Azul Going Steady 2 0000 Medium...'
 sku: 'B07RZLH8XQ-es'
 tags: [ 'vestido', ]

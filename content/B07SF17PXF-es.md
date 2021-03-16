@@ -5,7 +5,7 @@ date: 2020-04-16 18:44:06
 image: 'https://m.media-amazon.com/images/I/413B1V9hhFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SF17PXF-es SALOMON Discovery Lt FZ M Chaqueta Polar Hombre Gris Ebony'
 sku: 'B07SF17PXF-es'
 tags: [ 'chaqueta', ]

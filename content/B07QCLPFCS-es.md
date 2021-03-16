@@ -5,7 +5,7 @@ date: 2020-05-23 13:03:29
 image: 'https://m.media-amazon.com/images/I/412xizyI38L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCLPFCS-es PDQ - Sandalias Deportivas de Cierre Adhesivos 3 para...'
 sku: 'B07QCLPFCS-es'
 tags: [ 'sandalias', ]

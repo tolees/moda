@@ -5,7 +5,7 @@ date: 2020-10-08 09:08:23
 image: 'https://m.media-amazon.com/images/I/411asAQrHDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSFFMX1-es Wrangler Bryson Vaqueros Skinny Azul Game On 12e 32W / 32L...'
 sku: 'B07TSFFMX1-es'
 tags: [ 'vaqueros', ]

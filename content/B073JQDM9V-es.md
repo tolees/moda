@@ -5,7 +5,7 @@ date: 2020-06-30 22:30:49
 image: 'https://m.media-amazon.com/images/I/417RRYdDRLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JQDM9V-es Marca Amazon - find. Cazadora Acolchada Hombre Azul Navy...'
 sku: 'B073JQDM9V-es'
 tags: [ '-','find.', ]

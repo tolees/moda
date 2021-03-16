@@ -5,7 +5,7 @@ date: 2020-09-16 21:16:05
 image: 'https://m.media-amazon.com/images/I/31x6U+392HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LU5D9U-es Lacoste L1212 Camiseta Polo Azul Ruisseau XS para Hombre'
 sku: 'B002LU5D9U-es'
 tags: [ 'camiseta', ]

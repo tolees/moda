@@ -5,7 +5,7 @@ date: 2020-05-28 17:12:09
 image: 'https://m.media-amazon.com/images/I/41nvKNH35eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3N5N4Y-es GEOX 3062U mini pochette donna portatessere bordeaux mini...'
 sku: 'B07J3N5N4Y-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-08-08 20:06:20
 image: 'https://m.media-amazon.com/images/I/41Ftx7oRN6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJBPNCP-es Springfield 4.2.T.Bimateria.Coraz.Ban Camiseta Multicolor...'
 sku: 'B07NJBPNCP-es'
 tags: [ 'camiseta', ]

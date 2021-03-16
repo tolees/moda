@@ -5,7 +5,7 @@ date: 2020-01-13 09:35:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MK-VeVRML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M29SLQ6-es adidas Tiro 17 Training Top Youth Camiseta niños Azul...'
 sku: 'B01M29SLQ6-es'
 tags: [ 'camiseta', ]

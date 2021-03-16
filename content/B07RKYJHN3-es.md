@@ -5,7 +5,7 @@ date: 2020-07-24 12:42:23
 image: 'https://m.media-amazon.com/images/I/41MwsqvMm8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKYJHN3-es Nike Downshifter 9 Zapatilla de Correr para Hombre...'
 sku: 'B07RKYJHN3-es'
 tags: [ 'zapatilla', ]

@@ -5,7 +5,7 @@ date: 2020-07-29 14:02:38
 image: 'https://m.media-amazon.com/images/I/41Zf7jNvgbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV6BLJ7-es TWBB Pantalón Casual de Camuflaje para Hombre'
 sku: 'B07MV6BLJ7-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 16:04:41
 image: 'https://m.media-amazon.com/images/I/41H0tDPhNlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A8P0V2O-es LEABAGS London Bolso Bandolera de auténtico Cuero búfalo...'
 sku: 'B00A8P0V2O-es'
 tags: [ 'bolso', ]

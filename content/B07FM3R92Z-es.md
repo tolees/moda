@@ -5,7 +5,7 @@ date: 2020-07-27 18:45:51
 image: 'https://m.media-amazon.com/images/I/41jbXPGV1RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM3R92Z-es Kappa ZOSHIM 3 Betis Camiseta Hombre Neutro S'
 sku: 'B07FM3R92Z-es'
 tags: [ 'camiseta', ]

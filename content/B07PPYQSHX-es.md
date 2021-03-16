@@ -5,7 +5,7 @@ date: 2020-09-21 17:08:56
 image: 'https://m.media-amazon.com/images/I/41h0QEhTg5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPYQSHX-es Onnea Paquete 10 Piezas Gafas de Sol de Fiesta 100% de...'
 sku: 'B07PPYQSHX-es'
 tags: [ 'gafas', ]

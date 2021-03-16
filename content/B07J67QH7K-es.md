@@ -5,7 +5,7 @@ date: 2020-06-15 19:16:28
 image: 'https://m.media-amazon.com/images/I/31wN0OGr0BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J67QH7K-es Marca Amazon - Daily Ritual - Maxi vestido de algodón...'
 sku: 'B07J67QH7K-es'
 tags: [ 'vestido', ]

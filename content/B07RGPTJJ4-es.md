@@ -5,7 +5,7 @@ date: 2020-04-25 15:53:11
 image: 'https://m.media-amazon.com/images/I/41cvS2F9eBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGPTJJ4-es Tommy Hilfiger Modern T Shirt Bra Sujetador para Camiseta...'
 sku: 'B07RGPTJJ4-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-07 00:36:00
 image: 'https://m.media-amazon.com/images/I/51C-Zf-uVBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XMNTP9-es Under Armour Charged Cotton 6in Bóxer para Hombre Gris...'
 sku: 'B077XMNTP9-es'
 tags: [ 'bóxer', ]

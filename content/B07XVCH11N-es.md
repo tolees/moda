@@ -5,7 +5,7 @@ date: 2020-09-26 16:15:03
 image: 'https://m.media-amazon.com/images/I/41+JVGkOnkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVCH11N-es Geographical Norway Sudadera Mujer GYMCLASS B Gris Oscuro S'
 sku: 'B07XVCH11N-es'
 tags: [ 'sudadera', ]

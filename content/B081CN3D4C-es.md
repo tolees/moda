@@ -5,7 +5,7 @@ date: 2020-01-13 16:10:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hOzCqc3cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CN3D4C-es Geographical Norway Parka Mujer BOOMERA Ass B Rosa...'
 sku: 'B081CN3D4C-es'
 tags: [ 'parka', ]

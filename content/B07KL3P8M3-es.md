@@ -5,7 +5,7 @@ date: 2020-07-01 19:47:23
 image: 'https://m.media-amazon.com/images/I/31tj3wVzrJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL3P8M3-es adidas Mh Plain Camiseta Polo Hombre Black S'
 sku: 'B07KL3P8M3-es'
 tags: [ 'camiseta', ]

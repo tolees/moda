@@ -5,7 +5,7 @@ date: 2020-10-12 16:02:15
 image: 'https://m.media-amazon.com/images/I/21sISmRIP6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YKV26DN-es Esprit 999ee1n801 Camiseta Blanco White 100 Medium Pack de...'
 sku: 'B07YKV26DN-es'
 tags: [ 'camiseta', ]

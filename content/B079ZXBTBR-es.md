@@ -5,7 +5,7 @@ date: 2020-01-04 23:56:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oPz2VjhsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZXBTBR-es SIMYJOY Pareja Loro Dorado Pullover Loro Dorado Sudaderas...'
 sku: 'B079ZXBTBR-es'
 tags: [ 'sudadera', ]

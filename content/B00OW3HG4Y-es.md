@@ -5,7 +5,7 @@ date: 2020-08-03 16:34:25
 image: 'https://m.media-amazon.com/images/I/51627-cWy4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OW3HG4Y-es Havaianas Slim Chanclas Mujer Gris Steel Grey 41/42 EU'
 sku: 'B00OW3HG4Y-es'
 tags: [ 'chanclas', ]

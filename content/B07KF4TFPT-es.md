@@ -5,7 +5,7 @@ date: 2020-08-15 11:34:23
 image: 'https://m.media-amazon.com/images/I/31hv8hnbe7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4TFPT-es Levi s 311 Shaping Skinny Vaqueros London Nights 27W / 30L...'
 sku: 'B07KF4TFPT-es'
 tags: [ 'vaqueros', ]

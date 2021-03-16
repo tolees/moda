@@ -5,7 +5,7 @@ date: 2020-09-05 17:34:51
 image: 'https://m.media-amazon.com/images/I/31NF8IsvJLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M17UQQS-es Havaianas Brasil Chanclas Unisex Adulto Gris Steel Grey...'
 sku: 'B00M17UQQS-es'
 tags: [ 'chanclas', ]

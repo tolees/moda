@@ -5,7 +5,7 @@ date: 2020-08-24 18:12:58
 image: 'https://m.media-amazon.com/images/I/418u4CI6rTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797TZ7HY-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre...'
 sku: 'B0797TZ7HY-es'
 tags: [ 'zapatos', ]

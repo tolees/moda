@@ -5,7 +5,7 @@ date: 2020-05-11 13:26:45
 image: 'https://m.media-amazon.com/images/I/31iMrEVYsrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSB9GH9-es Kickers Maldan Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MSB9GH9-es'
 tags: [ 'zapatos', ]

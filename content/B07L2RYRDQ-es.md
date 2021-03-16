@@ -5,7 +5,7 @@ date: 2020-06-26 11:21:38
 image: 'https://m.media-amazon.com/images/I/31EED+aYSPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2RYRDQ-es Columbia Silver Ridge II Cargo Short Pantalón Corto Nailon...'
 sku: 'B07L2RYRDQ-es'
 tags: [ 'pantalón', ]

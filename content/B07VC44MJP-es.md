@@ -5,7 +5,7 @@ date: 2020-05-18 13:05:59
 image: 'https://m.media-amazon.com/images/I/41p2SNAd9PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC44MJP-es Calvin Klein Center Monogram Box Slim tee Camiseta Negro...'
 sku: 'B07VC44MJP-es'
 tags: [ 'camiseta', ]

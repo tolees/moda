@@ -5,7 +5,7 @@ date: 2020-08-24 07:47:43
 image: 'https://m.media-amazon.com/images/I/417dAVj4i1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSJW1JD-es Geox U Adrien B Zapatos de Cordones Derby para Hombre...'
 sku: 'B07SSJW1JD-es'
 tags: [ 'geox','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-03-15 21:11:43
 image: 'https://m.media-amazon.com/images/I/41SP9WYObXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JEWC0VW-es Blend 700522 Blizzard - Vaqueros para hombres color azul...'
 sku: 'B00JEWC0VW-es'
 tags: [ 'vaqueros', ]

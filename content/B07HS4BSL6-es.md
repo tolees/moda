@@ -5,7 +5,7 @@ date: 2020-08-07 08:53:21
 image: 'https://m.media-amazon.com/images/I/41rt+OenU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HS4BSL6-es Dim Coton Stretch Boxer X3 Multicolor Rouge Baiser/Bleu...'
 sku: 'B07HS4BSL6-es'
 tags: [ 'boxer', ]

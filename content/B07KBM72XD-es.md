@@ -5,7 +5,7 @@ date: 2020-08-24 08:30:45
 image: 'https://m.media-amazon.com/images/I/41BaYaAN7xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBM72XD-es Crocs Classic Clog K Zuecos Unisex Niños Azul Bright...'
 sku: 'B07KBM72XD-es'
 tags: [ 'zuecos', ]

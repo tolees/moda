@@ -5,7 +5,7 @@ date: 2020-10-12 04:05:29
 image: 'https://m.media-amazon.com/images/I/41jNDatDqYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBQ6KHT-es Columbia Lay D Down II Chaqueta Mujer Verde Talla: S'
 sku: 'B07JBQ6KHT-es'
 tags: [ 'chaqueta', ]

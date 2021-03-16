@@ -5,7 +5,7 @@ date: 2020-02-11 02:59:23
 image: 'https://m.media-amazon.com/images/I/41O7Z+ve+cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781ZBJLB-es Puma Liga Training Rain Core Camiseta de equipación Hombre...'
 sku: 'B0781ZBJLB-es'
 tags: [ 'camiseta', ]

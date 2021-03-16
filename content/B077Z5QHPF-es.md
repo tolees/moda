@@ -5,7 +5,7 @@ date: 2020-01-04 21:39:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HhJQriUAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Z5QHPF-es HIKARO Sudadera con Print Hombre Negro Black 52 Talla del...'
 sku: 'B077Z5QHPF-es'
 tags: [ 'sudadera', ]

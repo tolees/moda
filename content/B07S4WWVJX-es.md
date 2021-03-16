@@ -5,7 +5,7 @@ date: 2020-09-29 12:17:34
 image: 'https://m.media-amazon.com/images/I/41WoWktzqtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4WWVJX-es New Balance 520v6 Zapatos para Correr para Hombre Negro...'
 sku: 'B07S4WWVJX-es'
 tags: [ 'zapatos', ]

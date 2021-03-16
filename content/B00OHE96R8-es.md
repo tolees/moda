@@ -5,7 +5,7 @@ date: 2020-02-07 19:46:38
 image: 'https://m.media-amazon.com/images/I/31f0iR0qjHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OHE96R8-es Kappa Lucera Camiseta Hombre Amarillo Yellow L'
 sku: 'B00OHE96R8-es'
 tags: [ 'camiseta', ]

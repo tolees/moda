@@ -5,7 +5,7 @@ date: 2020-01-18 14:04:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lglVZr1jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P16DLXW-es Superdry Downhill Racer Box Quilt Jkt Chaqueta Azul True...'
 sku: 'B07P16DLXW-es'
 tags: [ 'chaqueta', ]

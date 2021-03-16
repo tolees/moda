@@ -5,7 +5,7 @@ date: 2020-01-10 18:07:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iZEThwEmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2K1B5G-es Buffalo London Es 30993 PU Patent Zapatos de Vestir para...'
 sku: 'B06Y2K1B5G-es'
 tags: [ 'zapatos', ]

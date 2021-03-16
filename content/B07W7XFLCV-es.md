@@ -5,7 +5,7 @@ date: 2020-09-21 03:31:31
 image: 'https://m.media-amazon.com/images/I/41O+aTXT42L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7XFLCV-es Tommy Hilfiger Rope Stripe tee Camiseta Deporte Azul...'
 sku: 'B07W7XFLCV-es'
 tags: [ 'camiseta', ]

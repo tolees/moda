@@ -5,7 +5,7 @@ date: 2020-05-26 10:33:10
 image: 'https://m.media-amazon.com/images/I/41hfdkWod4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6KQVG1-es Ronamick Sandalen - Sandalias de Vestir de Poliuretano...'
 sku: 'B07D6KQVG1-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-01-02 13:48:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/510EUd7VP8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRHLN5V-es Lifewit Bolsa Térmica Grande Porta Alimentos de...'
 sku: 'B07BRHLN5V-es'
 tags: [ 'bolso', ]

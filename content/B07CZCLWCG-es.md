@@ -5,7 +5,7 @@ date: 2020-01-15 12:41:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zb3FA3LBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZCLWCG-es G-STAR RAW ARC 2.0 3D Mid Boyfriend Jeans Vaqueros Azul lt...'
 sku: 'B07CZCLWCG-es'
 tags: [ 'vaqueros', ]

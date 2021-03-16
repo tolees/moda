@@ -5,7 +5,7 @@ date: 2020-03-12 09:28:28
 image: 'https://m.media-amazon.com/images/I/31gS4xRtjIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFP6V3Y-es Under Armour Tech Tank-Twist Camiseta sin Mangas Mujer...'
 sku: 'B01FFP6V3Y-es'
 tags: [ 'camiseta', ]

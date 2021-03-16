@@ -5,7 +5,7 @@ date: 2020-04-07 22:40:55
 image: 'https://m.media-amazon.com/images/I/311fh7fFBUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XZWRZLM-es Mercedes-Benz Sonnenbrille M5030 Gafas de Sol Negro...'
 sku: 'B00XZWRZLM-es'
 tags: [ 'gafas', ]

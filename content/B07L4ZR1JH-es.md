@@ -5,7 +5,7 @@ date: 2020-03-14 11:10:34
 image: 'https://m.media-amazon.com/images/I/41MMRC6qwrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4ZR1JH-es Marco Tozzi 2-2-25311-33 Botines para Mujer Marrón...'
 sku: 'B07L4ZR1JH-es'
 tags: [ 'botines', ]

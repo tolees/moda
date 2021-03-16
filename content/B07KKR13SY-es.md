@@ -5,7 +5,7 @@ date: 2020-01-27 01:57:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/310eicW93-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKR13SY-es Naf Naf Kenr2d Vestido Marfil Ecru/Fadded A and 34 para Mujer'
 sku: 'B07KKR13SY-es'
 tags: [ 'vestido', ]

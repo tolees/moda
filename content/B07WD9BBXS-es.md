@@ -5,7 +5,7 @@ date: 2020-05-13 08:02:03
 image: 'https://m.media-amazon.com/images/I/41loKlqXh+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WD9BBXS-es VECDY Camisetas Mujer Blusas Elegante 2019 Sudadera De...'
 sku: 'B07WD9BBXS-es'
 tags: [ 'sudadera', ]

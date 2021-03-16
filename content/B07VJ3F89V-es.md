@@ -5,7 +5,7 @@ date: 2020-07-26 14:18:21
 image: 'https://m.media-amazon.com/images/I/41ApQp4xFOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJ3F89V-es Calvin Klein Foundation Slim Denim Jacket Chaqueta Vaquera...'
 sku: 'B07VJ3F89V-es'
 tags: [ 'chaqueta', ]

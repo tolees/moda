@@ -5,7 +5,7 @@ date: 2020-01-03 15:40:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dr-lEIWeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XQ3PGJC-es RED WAGON Vaqueros Niños Azul Blue 9 años'
 sku: 'B06XQ3PGJC-es'
 tags: [ 'vaqueros', ]

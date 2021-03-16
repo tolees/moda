@@ -5,7 +5,7 @@ date: 2020-07-27 06:56:54
 image: 'https://m.media-amazon.com/images/I/41JnVCVkRbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S63YS5N-es Crocs Literide Flip Chanclas Unisex Adulto Verde Neo...'
 sku: 'B07S63YS5N-es'
 tags: [ 'chanclas', ]

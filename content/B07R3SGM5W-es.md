@@ -5,7 +5,7 @@ date: 2020-03-08 18:56:58
 image: 'https://m.media-amazon.com/images/I/41wo523rCsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3SGM5W-es Wrangler Sherpa Jacket Chaqueta Vaquera Negro Black Stone...'
 sku: 'B07R3SGM5W-es'
 tags: [ 'chaqueta', ]

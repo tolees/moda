@@ -5,7 +5,7 @@ date: 2020-08-20 20:42:27
 image: 'https://m.media-amazon.com/images/I/31tBrkKoFvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS3KMM5-es Levi s Selma Dress Vestido Blanco Faint Heart 2 0001...'
 sku: 'B07TS3KMM5-es'
 tags: [ 'vestido', ]

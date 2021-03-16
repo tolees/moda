@@ -5,7 +5,7 @@ date: 2020-05-22 10:32:06
 image: 'https://m.media-amazon.com/images/I/41CTCLh9GQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWRQSPH-es DaoRier - Cadena Tobillera para Mujer diseño de pie...'
 sku: 'B07FWRQSPH-es'
 tags: [ 'sandalias', ]

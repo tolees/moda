@@ -5,7 +5,7 @@ date: 2020-05-16 05:03:45
 image: 'https://m.media-amazon.com/images/I/41jNfox7NxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPJSS-es Napapijri ABERDAR WOM Chaqueta Azul BLU Marine 176 XL para...'
 sku: 'B07MCSPJSS-es'
 tags: [ 'chaqueta', ]

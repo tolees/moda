@@ -5,7 +5,7 @@ date: 2020-06-26 21:23:47
 image: 'https://m.media-amazon.com/images/I/41z3LkiV0sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825NMJSH-es Quiksilver Drift Away - Camiseta para Hombre Screen tee...'
 sku: 'B0825NMJSH-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-17 00:36:33
 image: 'https://m.media-amazon.com/images/I/311iVXDsloL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L93KV4Q-es Mujer Vestido Elegante de Oficina Falda Lápiz Mangas...'
 sku: 'B07L93KV4Q-es'
 tags: [ 'falda','vestido', ]

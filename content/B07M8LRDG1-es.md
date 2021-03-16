@@ -5,7 +5,7 @@ date: 2020-03-01 18:53:11
 image: 'https://m.media-amazon.com/images/I/418DPG8PPJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LRDG1-es Wrangler Bootcut Vaqueros Azul Water Blue 78x 24 W/ 32L...'
 sku: 'B07M8LRDG1-es'
 tags: [ 'vaqueros', ]

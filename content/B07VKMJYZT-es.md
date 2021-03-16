@@ -5,7 +5,7 @@ date: 2020-09-14 02:53:20
 image: 'https://m.media-amazon.com/images/I/31orab8l67L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKMJYZT-es Hackett Amr Tape LS Polo Camisa Manga Larga Azul 595navy...'
 sku: 'B07VKMJYZT-es'
 tags: [ 'camisa', ]

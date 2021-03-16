@@ -5,7 +5,7 @@ date: 2020-09-23 15:52:48
 image: 'https://m.media-amazon.com/images/I/41lz0xMCYGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CFGPV37-es Jack & Jones Jjegingham Shirt L/s Camisa Multicolor Port...'
 sku: 'B07CFGPV37-es'
 tags: [ 'camisa', ]

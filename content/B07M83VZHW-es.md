@@ -5,7 +5,7 @@ date: 2020-01-15 16:12:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LZnXfeIbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M83VZHW-es Napapijri Aerons Vest 2 Chaqueta Azul French Blue BB7 XL...'
 sku: 'B07M83VZHW-es'
 tags: [ 'chaqueta', ]

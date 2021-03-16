@@ -5,7 +5,7 @@ date: 2020-05-08 02:19:05
 image: 'https://m.media-amazon.com/images/I/31sLBfsGGrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPNNDF4-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Negro...'
 sku: 'B07DPNNDF4-es'
 tags: [ 'zapatos', ]

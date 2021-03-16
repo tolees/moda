@@ -5,7 +5,7 @@ date: 2020-06-20 09:47:15
 image: 'https://m.media-amazon.com/images/I/41UvRajDotL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBCOZFG-es Pepe Jeans Spike Vaqueros Azul Denim S55 W40/L30 para Hombre'
 sku: 'B01NBCOZFG-es'
 tags: [ 'vaqueros', ]

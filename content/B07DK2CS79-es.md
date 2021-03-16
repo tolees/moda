@@ -5,7 +5,7 @@ date: 2020-01-08 17:25:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41x-slpLPQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK2CS79-es Geox B Verred a Sandalias para Bebés White C1000 25 EU'
 sku: 'B07DK2CS79-es'
 tags: [ 'geox','sandalias', ]

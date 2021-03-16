@@ -5,7 +5,7 @@ date: 2020-01-07 08:04:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417gLXsZH4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKVBQ27-es Lacoste Sport Th3377 Camiseta Plateado Argent Chiné/Noir...'
 sku: 'B07DKVBQ27-es'
 tags: [ 'camiseta', ]

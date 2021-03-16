@@ -5,7 +5,7 @@ date: 2020-08-25 09:21:18
 image: 'https://m.media-amazon.com/images/I/61e70eYUxjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SP1ZM9-es Gifort Rotuladores para Tela Permanentes 24 Colores...'
 sku: 'B089SP1ZM9-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-05 14:46:03
 image: 'https://m.media-amazon.com/images/I/51+L0BlxuxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0714FZR2D-es KAPORAL NEGOR Camiseta Verde Army 10 Años para Niñas'
 sku: 'B0714FZR2D-es'
 tags: [ 'camiseta', ]

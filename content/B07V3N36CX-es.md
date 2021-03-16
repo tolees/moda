@@ -5,7 +5,7 @@ date: 2020-06-19 08:50:32
 image: 'https://m.media-amazon.com/images/I/41wrWxuSJCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3N36CX-es Tommy Hilfiger Sporty Corporate Beach Sandal Sandalias con...'
 sku: 'B07V3N36CX-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-08-25 09:52:04
 image: 'https://m.media-amazon.com/images/I/41Vqo-EwsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5SB2PZ-es Levi s The Perfect Tee Camiseta Mujer Blanco White 297 XS'
 sku: 'B01N5SB2PZ-es'
 tags: [ 'camiseta', ]

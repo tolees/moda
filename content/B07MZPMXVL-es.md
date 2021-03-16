@@ -5,7 +5,7 @@ date: 2020-05-12 09:46:47
 image: 'https://m.media-amazon.com/images/I/41Czkq2XKCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPMXVL-es Pepe Jeans Rick Chaqueta Sailor 580 Large para Hombre'
 sku: 'B07MZPMXVL-es'
 tags: [ 'chaqueta', ]

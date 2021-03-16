@@ -5,7 +5,7 @@ date: 2020-05-31 08:53:06
 image: 'https://m.media-amazon.com/images/I/41j8RXhqKgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005PQQ1OI-es Crocs Classic Clog Zuecos Unisex Adulto Negro Black 001...'
 sku: 'B005PQQ1OI-es'
 tags: [ 'zuecos', ]

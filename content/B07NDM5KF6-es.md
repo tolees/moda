@@ -5,7 +5,7 @@ date: 2020-04-06 16:30:19
 image: 'https://m.media-amazon.com/images/I/31i4RqXmg5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDM5KF6-es G-STAR RAW Citishield 3D Slim Tapered Jeans Vaqueros Negro...'
 sku: 'B07NDM5KF6-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 22:25:02
 image: 'https://m.media-amazon.com/images/I/41ZQpB0MoyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NK3MVK-es Lee Luke Vaqueros Kick It Cdpf 28W / 32L para Hombre'
 sku: 'B077NK3MVK-es'
 tags: [ 'vaqueros', ]

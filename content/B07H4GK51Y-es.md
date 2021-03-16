@@ -5,7 +5,7 @@ date: 2020-09-04 14:21:27
 image: 'https://m.media-amazon.com/images/I/4171GJANRJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4GK51Y-es adidas CAMPEON19 JSY Camiseta Campeon 19 Gris DGH Solid...'
 sku: 'B07H4GK51Y-es'
 tags: [ 'camiseta', ]

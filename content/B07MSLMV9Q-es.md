@@ -5,7 +5,7 @@ date: 2020-08-28 15:27:37
 image: 'https://m.media-amazon.com/images/I/31a0md3qbQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSLMV9Q-es Clarks Bampton Wing Zapatos de Cordones Brogue para Hombre...'
 sku: 'B07MSLMV9Q-es'
 tags: [ 'zapatos', ]

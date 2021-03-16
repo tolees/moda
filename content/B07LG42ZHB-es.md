@@ -5,7 +5,7 @@ date: 2020-01-05 08:43:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SA%2BwP45zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG42ZHB-es Geox J BULLER Boy D Zapatillas para Niños Azul Navy/Dk Red...'
 sku: 'B07LG42ZHB-es'
 tags: [ 'geox', ]

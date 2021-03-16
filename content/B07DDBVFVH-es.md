@@ -5,7 +5,7 @@ date: 2020-01-25 15:07:59
 image: 'https://m.media-amazon.com/images/I/41zsmAVzQhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDBVFVH-es Trangoworld Borau Chaqueta Hombre Rojo/Gris Antracita M'
 sku: 'B07DDBVFVH-es'
 tags: [ 'chaqueta', ]

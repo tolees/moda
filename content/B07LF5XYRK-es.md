@@ -5,7 +5,7 @@ date: 2020-01-07 12:09:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Shsw8ZkLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF5XYRK-es Levi s Barstow Western Camisa Vaquera Negro Bruised Indigo...'
 sku: 'B07LF5XYRK-es'
 tags: [ 'camisa', ]

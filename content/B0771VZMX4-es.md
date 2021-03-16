@@ -5,7 +5,7 @@ date: 2020-04-17 15:28:36
 image: 'https://m.media-amazon.com/images/I/41mO6YLUjiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771VZMX4-es Columbia Silver Ridge II Pantalón Capri Hombre Negro Abyss...'
 sku: 'B0771VZMX4-es'
 tags: [ 'pantalón', ]

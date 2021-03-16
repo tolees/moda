@@ -5,7 +5,7 @@ date: 2020-02-24 11:03:26
 image: 'https://m.media-amazon.com/images/I/41yeGKT51jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5VCJ2Q-es Puma ESS Logo tee Camiseta Deportiva Mujer Blanco White S'
 sku: 'B07D5VCJ2Q-es'
 tags: [ 'camiseta', ]

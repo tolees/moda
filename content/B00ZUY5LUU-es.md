@@ -5,7 +5,7 @@ date: 2020-02-05 12:56:53
 image: 'https://m.media-amazon.com/images/I/41XQkmU4r8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZUY5LUU-es REEF R2026ALB Chanclas Hombre Marrón Brown / Gum 36 EU'
 sku: 'B00ZUY5LUU-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-02-16 20:12:05
 image: 'https://m.media-amazon.com/images/I/31p-fAPA4BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMZSK2W-es Crocs Crocband U Zuecos Unisex Adulto Morado Lavender-...'
 sku: 'B07CMZSK2W-es'
 tags: [ 'zuecos', ]

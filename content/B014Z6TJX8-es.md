@@ -5,7 +5,7 @@ date: 2020-06-02 14:06:36
 image: 'https://m.media-amazon.com/images/I/31sjGMz2ClL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014Z6TJX8-es G-STAR RAW Revend Skinny Vaqueros 3D Dark Aged 7101 33W /...'
 sku: 'B014Z6TJX8-es'
 tags: [ 'vaqueros', ]

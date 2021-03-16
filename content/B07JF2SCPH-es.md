@@ -5,7 +5,7 @@ date: 2020-05-18 17:33:22
 image: 'https://m.media-amazon.com/images/I/61OXbCQbalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JF2SCPH-es P Prettyia 20 Juegos De Botines con Ganchos De Encaje con...'
 sku: 'B07JF2SCPH-es'
 tags: [ 'botines', ]

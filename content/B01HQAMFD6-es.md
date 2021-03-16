@@ -5,7 +5,7 @@ date: 2020-09-02 20:00:36
 image: 'https://m.media-amazon.com/images/I/41LsGVX4wEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HQAMFD6-es Crocs Crocband U Zuecos Unisex Adulto Rojo Pepper 43-44 EU'
 sku: 'B01HQAMFD6-es'
 tags: [ 'zuecos', ]

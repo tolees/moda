@@ -5,7 +5,7 @@ date: 2020-08-17 07:47:00
 image: 'https://m.media-amazon.com/images/I/51LvT3l9rnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1J8YT4-es BOSS Trunk 3p One Design Bóxer Multicolor Open...'
 sku: 'B07V1J8YT4-es'
 tags: [ 'bóxer', ]

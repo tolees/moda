@@ -5,7 +5,7 @@ date: 2020-04-19 17:49:30
 image: 'https://m.media-amazon.com/images/I/41bnqmEHpBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBZRVB2-es Jack & Jones JCOSEAD Sweat Crew Neck FST Sudadera Gris...'
 sku: 'B07WBZRVB2-es'
 tags: [ 'sudadera', ]

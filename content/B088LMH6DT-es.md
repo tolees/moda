@@ -5,7 +5,7 @@ date: 2020-05-26 18:03:13
 image: 'https://m.media-amazon.com/images/I/31Inl4y7D1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LMH6DT-es RAIN BOW ISLAND Zuecos Clásicos con Correa Trasera Hombre...'
 sku: 'B088LMH6DT-es'
 tags: [ 'zuecos', ]

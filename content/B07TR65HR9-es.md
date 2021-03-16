@@ -5,7 +5,7 @@ date: 2020-06-29 18:43:23
 image: 'https://m.media-amazon.com/images/I/31ChVXh6urL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TR65HR9-es Calvin Klein Ckj 026: Slim West Cut Vaqueros Azul...'
 sku: 'B07TR65HR9-es'
 tags: [ 'vaqueros', ]

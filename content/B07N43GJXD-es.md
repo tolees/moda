@@ -5,7 +5,7 @@ date: 2020-01-26 12:03:57
 image: 'https://m.media-amazon.com/images/I/51NGLFZ6xAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N43GJXD-es Desigual Postcards Dress Vestido Multicolor Tutti Fruti...'
 sku: 'B07N43GJXD-es'
 tags: [ 'vestido', ]

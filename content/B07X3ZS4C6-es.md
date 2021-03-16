@@ -5,7 +5,7 @@ date: 2020-04-16 10:05:21
 image: 'https://m.media-amazon.com/images/I/51NLpwi4odL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3ZS4C6-es Xnuoyo Mochilas de Pañales Gran Capacidad Mochila de...'
 sku: 'B07X3ZS4C6-es'
 tags: [ 'bolso', ]

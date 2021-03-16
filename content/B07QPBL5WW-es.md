@@ -5,7 +5,7 @@ date: 2020-02-17 08:16:10
 image: 'https://m.media-amazon.com/images/I/31gI8jMdpNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPBL5WW-es New Look Bermuda Button Falda Blanco White 10 40 Talla del...'
 sku: 'B07QPBL5WW-es'
 tags: [ 'falda', ]

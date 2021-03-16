@@ -5,7 +5,7 @@ date: 2020-02-16 10:55:28
 image: 'https://m.media-amazon.com/images/I/319Ir3CocZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0828PCTD6-es Mujer Vestido Elegante Años 50 Vestido de Mujeres...'
 sku: 'B0828PCTD6-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-05-04 21:00:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BpDA2obNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJ4Y2P4-es find. Camisa Entallada de Manga Corta con Bandas...'
 sku: 'B06XJ4Y2P4-es'
 tags: [ 'camisa', ]

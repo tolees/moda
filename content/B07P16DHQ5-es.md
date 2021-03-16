@@ -5,7 +5,7 @@ date: 2020-02-25 11:38:55
 image: 'https://m.media-amazon.com/images/I/31W80iKphqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P16DHQ5-es Superdry OL Elite Crew Neck tee Camiseta Blanco White 04c...'
 sku: 'B07P16DHQ5-es'
 tags: [ 'camiseta', ]

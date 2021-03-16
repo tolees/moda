@@ -5,7 +5,7 @@ date: 2020-08-30 19:27:56
 image: 'https://m.media-amazon.com/images/I/41qvT+e1M5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMF66GG-es Marca Amazon - find. Americana de Lino Mujer Beige Stone...'
 sku: 'B07KMF66GG-es'
 tags: [ '-','find.', ]

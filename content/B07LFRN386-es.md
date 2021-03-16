@@ -5,7 +5,7 @@ date: 2020-09-10 17:01:11
 image: 'https://m.media-amazon.com/images/I/31sspHGcjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRN386-es Geox D Calinda Mid C Botas Altas para Mujer Negro Black...'
 sku: 'B07LFRN386-es'
 tags: [ 'geox', ]

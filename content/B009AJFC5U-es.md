@@ -5,7 +5,7 @@ date: 2020-06-12 19:19:47
 image: 'https://m.media-amazon.com/images/I/316eBV61CeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009AJFC5U-es Ray-Ban Justin RB4165 - Gafas de sol Unisex Negro Black...'
 sku: 'B009AJFC5U-es'
 tags: [ 'gafas', ]

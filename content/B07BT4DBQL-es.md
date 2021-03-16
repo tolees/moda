@@ -5,7 +5,7 @@ date: 2020-02-10 13:39:00
 image: 'https://m.media-amazon.com/images/I/41XTBTM4QoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BT4DBQL-es Sunny Holiday Mocasines Hombres Zapatos Planos con...'
 sku: 'B07BT4DBQL-es'
 tags: [ 'zapatos', ]

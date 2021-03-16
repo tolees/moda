@@ -5,7 +5,7 @@ date: 2020-02-12 10:50:44
 image: 'https://m.media-amazon.com/images/I/31biKCdT1nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH1BM1N-es MTNG Collection 58641 Botines para Mujer Negro Antil Negro...'
 sku: 'B07QH1BM1N-es'
 tags: [ 'botines', ]

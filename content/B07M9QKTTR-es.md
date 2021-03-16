@@ -5,7 +5,7 @@ date: 2020-01-05 20:44:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41t9R-IXr3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9QKTTR-es G-STAR RAW Xpo Overshirt Chaqueta Negro Sartho Blue 6067...'
 sku: 'B07M9QKTTR-es'
 tags: [ 'chaqueta', ]

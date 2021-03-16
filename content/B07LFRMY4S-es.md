@@ -5,7 +5,7 @@ date: 2020-01-03 18:36:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31sAzicCcLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRMY4S-es Geox U Kristof A Zapatillas para Hombre Negro Black C9999...'
 sku: 'B07LFRMY4S-es'
 tags: [ 'geox', ]

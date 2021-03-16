@@ -5,7 +5,7 @@ date: 2020-07-29 07:01:21
 image: 'https://m.media-amazon.com/images/I/41QD39T5WKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXV1VBD-es Camiseta Sin Mangas para Hombre De Moda Casual Único...'
 sku: 'B08CXV1VBD-es'
 tags: [ 'camisa','camiseta','moda', ]

@@ -5,7 +5,7 @@ date: 2020-02-26 20:39:55
 image: 'https://m.media-amazon.com/images/I/31MorpPgDoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RPKHG1-es Helly Hansen HH Tech T Camiseta Hombre Gris Gris Oscuro...'
 sku: 'B073RPKHG1-es'
 tags: [ 'camiseta', ]

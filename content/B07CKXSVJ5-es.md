@@ -5,7 +5,7 @@ date: 2020-07-08 17:32:20
 image: 'https://m.media-amazon.com/images/I/410jKm5DYiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKXSVJ5-es STTLZMC Polo para Hombre de Manga Corta Casual Moda...'
 sku: 'B07CKXSVJ5-es'
 tags: [ 'moda', ]

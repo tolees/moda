@@ -5,7 +5,7 @@ date: 2020-10-11 20:18:36
 image: 'https://m.media-amazon.com/images/I/41ACf8zirrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y89JSKK-es edc by Esprit 999cc1b820 Vaqueros Slim Azul Blue Light...'
 sku: 'B07Y89JSKK-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-08-17 07:47:53
 image: 'https://m.media-amazon.com/images/I/41DsATYywXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHW4PQW-es Desigual Logo Patch Zurich Bolso de Patchwork en Logomanía...'
 sku: 'B07VHW4PQW-es'
 tags: [ 'bolso', ]

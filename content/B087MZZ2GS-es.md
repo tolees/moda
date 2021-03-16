@@ -5,7 +5,7 @@ date: 2020-06-18 10:11:50
 image: 'https://m.media-amazon.com/images/I/31WoHaFLcoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087MZZ2GS-es Ramokey Leggings Mujer Pantalón Deportivo Cintura Alta con...'
 sku: 'B087MZZ2GS-es'
 tags: [ 'pantalón', ]

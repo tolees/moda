@@ -5,7 +5,7 @@ date: 2020-06-24 14:56:16
 image: 'https://m.media-amazon.com/images/I/31jkVTU+C1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJTY37R-es Marca Amazon - IRIS & LILLY Classic Laser Cut Low Rise -...'
 sku: 'B07GJTY37R-es'
 tags: [ '&','iris','lilly', ]

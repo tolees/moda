@@ -5,7 +5,7 @@ date: 2020-04-15 10:43:58
 image: 'https://m.media-amazon.com/images/I/41swHyXxoXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RGTRYV-es Helly Hansen Blume Chaqueta De Fumador Repelente Al Agua...'
 sku: 'B075RGTRYV-es'
 tags: [ 'chaqueta','parka', ]

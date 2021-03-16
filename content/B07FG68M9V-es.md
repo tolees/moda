@@ -5,7 +5,7 @@ date: 2020-02-23 09:06:59
 image: 'https://m.media-amazon.com/images/I/31OnqhrGa3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FG68M9V-es Lacoste Croco Slide 119 1 CMA Sandalias de Punta...'
 sku: 'B07FG68M9V-es'
 tags: [ 'sandalias', ]

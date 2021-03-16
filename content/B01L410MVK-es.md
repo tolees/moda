@@ -5,7 +5,7 @@ date: 2020-07-19 19:08:08
 image: 'https://m.media-amazon.com/images/I/41oiP6IN6LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L410MVK-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
 sku: 'B01L410MVK-es'
 tags: [ 'chanclas', ]

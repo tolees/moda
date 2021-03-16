@@ -5,7 +5,7 @@ date: 2020-02-20 11:38:05
 image: 'https://m.media-amazon.com/images/I/31AxqJwS-KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MPBGQZ-es MERAKI Vestido Camiseta Slim Fit Mujer Rojo Racing Red Medium'
 sku: 'B075MPBGQZ-es'
 tags: [ 'camiseta','meraki','vestido', ]

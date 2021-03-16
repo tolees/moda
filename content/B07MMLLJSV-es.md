@@ -5,7 +5,7 @@ date: 2020-04-16 06:52:24
 image: 'https://m.media-amazon.com/images/I/41DfyrTFFhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLLJSV-es Napapijri Rainforest Winter 1 Chaqueta Orange Orangeade...'
 sku: 'B07MMLLJSV-es'
 tags: [ 'chaqueta', ]

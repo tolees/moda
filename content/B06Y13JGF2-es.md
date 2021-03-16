@@ -5,7 +5,7 @@ date: 2020-05-21 17:55:53
 image: 'https://m.media-amazon.com/images/I/41js63givYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y13JGF2-es Wrangler Arizona Straight Jeans Vaqueros Bright Stroke 38W...'
 sku: 'B06Y13JGF2-es'
 tags: [ 'vaqueros', ]

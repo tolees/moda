@@ -5,7 +5,7 @@ date: 2020-05-18 10:40:36
 image: 'https://m.media-amazon.com/images/I/410je8eT8BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1NG5PN-es Levi s Graphic tee-B Camiseta Negro Hm LS Better Black...'
 sku: 'B07F1NG5PN-es'
 tags: [ 'camiseta', ]

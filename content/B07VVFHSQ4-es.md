@@ -5,7 +5,7 @@ date: 2020-09-25 15:12:36
 image: 'https://m.media-amazon.com/images/I/41-xFY5huAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVFHSQ4-es Tommy Hilfiger TJM Contrast Pocket tee Camiseta Blanco...'
 sku: 'B07VVFHSQ4-es'
 tags: [ 'camiseta', ]

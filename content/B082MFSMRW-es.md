@@ -5,7 +5,7 @@ date: 2020-01-23 10:04:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3130qURT8CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MFSMRW-es OBEEII Niña Disfraz Princesa Party Vestido Bordado de Tul...'
 sku: 'B082MFSMRW-es'
 tags: [ 'vestido', ]

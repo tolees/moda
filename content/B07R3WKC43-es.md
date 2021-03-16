@@ -5,7 +5,7 @@ date: 2020-04-09 08:20:48
 image: 'https://m.media-amazon.com/images/I/41L2sRLQ6qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3WKC43-es 🎁 Bolso de la motocicleta Cuero genuino Bolso mensajero...'
 sku: 'B07R3WKC43-es'
 tags: [ 'bolso', ]

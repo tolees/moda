@@ -5,7 +5,7 @@ date: 2020-03-19 12:01:31
 image: 'https://m.media-amazon.com/images/I/41JHCciV-8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079K3FWF3-es Napapijri Burgee Sweatshirt Sudadera Gris Med Grey Mel 160...'
 sku: 'B079K3FWF3-es'
 tags: [ 'sudadera', ]

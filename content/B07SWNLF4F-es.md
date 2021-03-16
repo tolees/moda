@@ -5,7 +5,7 @@ date: 2020-03-31 10:52:28
 image: 'https://m.media-amazon.com/images/I/41XIWGlhHTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWNLF4F-es JACK & JONES Jprvictor Shirt L/s Noos Camisa Azul Cashmere...'
 sku: 'B07SWNLF4F-es'
 tags: [ 'camisa', ]

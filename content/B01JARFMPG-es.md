@@ -5,7 +5,7 @@ date: 2020-03-18 20:00:42
 image: 'https://m.media-amazon.com/images/I/41vNJNf-0NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JARFMPG-es Replay Anbass Vaqueros Slim para Hombre Gris Grey Denim...'
 sku: 'B01JARFMPG-es'
 tags: [ 'vaqueros', ]

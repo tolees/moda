@@ -5,7 +5,7 @@ date: 2020-01-09 14:42:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hYP-0ugRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000AP3AFM-es Reebok Classic Nylon Zapatilla de Running Hombre Negro...'
 sku: 'B000AP3AFM-es'
 tags: [ 'zapatilla', ]

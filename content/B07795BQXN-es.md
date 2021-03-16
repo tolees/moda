@@ -5,7 +5,7 @@ date: 2020-05-03 17:32:00
 image: 'https://m.media-amazon.com/images/I/51Zl0wgtupL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07795BQXN-es COMVIP Bebé niña Forro Polar Cachorro Suavemente único...'
 sku: 'B07795BQXN-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-05-29 19:05:01
 image: 'https://m.media-amazon.com/images/I/41WJvtnQuPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3BH1R5-es INSTINNCT Monokini Bikini Mujer Push-up Acolchado Bra...'
 sku: 'B07V3BH1R5-es'
 tags: [ 'bikini', ]

@@ -5,7 +5,7 @@ date: 2020-02-16 11:53:45
 image: 'https://m.media-amazon.com/images/I/319JVXcjQBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX8T75M-es Tommy Hilfiger Boys Basic Cn Knit S/s Camiseta Azul Sky...'
 sku: 'B07DX8T75M-es'
 tags: [ 'camiseta', ]

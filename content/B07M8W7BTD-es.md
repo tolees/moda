@@ -5,7 +5,7 @@ date: 2020-04-06 16:06:39
 image: 'https://m.media-amazon.com/images/I/41fsPjtMewL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8W7BTD-es Wrangler Skinny Jeans Vaqueros Azul Soft Worn 12b 25W /...'
 sku: 'B07M8W7BTD-es'
 tags: [ 'vaqueros', ]

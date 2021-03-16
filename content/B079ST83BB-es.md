@@ -5,7 +5,7 @@ date: 2020-02-26 08:32:19
 image: 'https://m.media-amazon.com/images/I/41ytYNVgJcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ST83BB-es Desigual TS_Logan Camiseta Cemento 2012 Small para Mujer'
 sku: 'B079ST83BB-es'
 tags: [ 'camiseta', ]

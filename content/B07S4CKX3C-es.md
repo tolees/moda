@@ -5,7 +5,7 @@ date: 2020-07-16 16:59:55
 image: 'https://m.media-amazon.com/images/I/31EWU553R1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4CKX3C-es FitFlop Lulu Leather Toepost Sandalias con Plataforma...'
 sku: 'B07S4CKX3C-es'
 tags: [ 'sandalias', ]

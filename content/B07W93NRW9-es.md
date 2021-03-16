@@ -5,7 +5,7 @@ date: 2020-05-13 13:56:14
 image: 'https://m.media-amazon.com/images/I/41qomTTgHyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W93NRW9-es Jack & Jones Jormastul Sweat Hood Sudadera con Capucha...'
 sku: 'B07W93NRW9-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-05-10 10:21:11
 image: 'https://m.media-amazon.com/images/I/315M8BOU7CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1ZPYVF-es Under Armour UNDKU I Will Multi Camisa Manga Corta Hombre...'
 sku: 'B07R1ZPYVF-es'
 tags: [ 'camisa', ]

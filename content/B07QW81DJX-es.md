@@ -5,7 +5,7 @@ date: 2020-01-23 16:36:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tgwavmm6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QW81DJX-es flintronic Cartera Hombre Triple Pliegue Slim Billetera de...'
 sku: 'B07QW81DJX-es'
 tags: [ 'billetera','monedero', ]

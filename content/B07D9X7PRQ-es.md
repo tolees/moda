@@ -5,7 +5,7 @@ date: 2020-01-18 09:20:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIuYj3AJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9X7PRQ-es Adidas Hoops 2.0 CMF C Zapatos de Baloncesto Unisex Niños...'
 sku: 'B07D9X7PRQ-es'
 tags: [ 'zapatos', ]

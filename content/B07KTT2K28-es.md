@@ -5,7 +5,7 @@ date: 2020-03-22 18:49:44
 image: 'https://m.media-amazon.com/images/I/51YPeel3B+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTT2K28-es anbiwangluo Zapatos de Lentejuelas de Niña Zapatos de...'
 sku: 'B07KTT2K28-es'
 tags: [ 'zapatos', ]

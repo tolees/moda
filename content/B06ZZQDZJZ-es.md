@@ -5,7 +5,7 @@ date: 2020-09-16 18:01:37
 image: 'https://m.media-amazon.com/images/I/31rAOr89mmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZQDZJZ-es Panama Jack Salton Basics Sandalias con Punta Abierta para...'
 sku: 'B06ZZQDZJZ-es'
 tags: [ 'sandalias', ]

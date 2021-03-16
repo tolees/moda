@@ -5,7 +5,7 @@ date: 2020-05-10 17:33:35
 image: 'https://m.media-amazon.com/images/I/41TMkYo4qiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RL2W2VZ-es Tommy Hilfiger TJM Essential Logo tee Camiseta Deporte...'
 sku: 'B07RL2W2VZ-es'
 tags: [ 'camiseta', ]

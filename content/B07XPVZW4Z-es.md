@@ -5,7 +5,7 @@ date: 2020-01-06 22:24:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rU92IOppL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPVZW4Z-es YOSICIL Niñas Disfraz Anna Frozen Elsa con Capa Traje de...'
 sku: 'B07XPVZW4Z-es'
 tags: [ 'collar','vestido', ]

@@ -5,7 +5,7 @@ date: 2020-08-03 13:07:09
 image: 'https://m.media-amazon.com/images/I/410tAZETgJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JQRHLGO-es Calvin Klein Low Rise Trunk Bóxer Hombre Blanco White...'
 sku: 'B00JQRHLGO-es'
 tags: [ 'bóxer', ]

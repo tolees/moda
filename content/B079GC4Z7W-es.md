@@ -5,7 +5,7 @@ date: 2020-06-24 09:04:52
 image: 'https://m.media-amazon.com/images/I/31kPViJw9ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079GC4Z7W-es find. Sandalias con Pulsera Mujer Marrón Brown Brown 39 EU'
 sku: 'B079GC4Z7W-es'
 tags: [ 'sandalias', ]

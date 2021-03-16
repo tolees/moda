@@ -5,7 +5,7 @@ date: 2020-06-25 17:54:47
 image: 'https://m.media-amazon.com/images/I/41LAUJtJ4cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STL4M76-es Geox Jr Sandal Strada A Sandalias con Punta Abierta para...'
 sku: 'B07STL4M76-es'
 tags: [ 'geox','sandalias', ]

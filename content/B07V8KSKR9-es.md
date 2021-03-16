@@ -5,7 +5,7 @@ date: 2020-09-14 10:01:51
 image: 'https://m.media-amazon.com/images/I/41itJwOX9DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8KSKR9-es Calvin Klein Monogram Relaxed Short Hoodie Sudadera Gris...'
 sku: 'B07V8KSKR9-es'
 tags: [ 'sudadera', ]

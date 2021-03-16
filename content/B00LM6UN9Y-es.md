@@ -5,7 +5,7 @@ date: 2020-05-23 10:04:05
 image: 'https://m.media-amazon.com/images/I/514HbE-P2KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LM6UN9Y-es Havaianas Slim Chanclas Mujer Marrón Rose Gold 39/40 EU'
 sku: 'B00LM6UN9Y-es'
 tags: [ 'chanclas', ]

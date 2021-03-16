@@ -5,7 +5,7 @@ date: 2020-05-30 16:37:06
 image: 'https://m.media-amazon.com/images/I/41bk2sHfeqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F25KYTV-es Amazon Essentials – Camisa Oxford de manga corta de corte...'
 sku: 'B07F25KYTV-es'
 tags: [ 'camisa', ]

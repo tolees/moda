@@ -5,7 +5,7 @@ date: 2020-07-13 20:31:22
 image: 'https://m.media-amazon.com/images/I/31kqk30j6bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3N24DH-es Tommy Hilfiger Corporate Leather Flat Sandal Sandalias con...'
 sku: 'B07V3N24DH-es'
 tags: [ 'sandalias', ]

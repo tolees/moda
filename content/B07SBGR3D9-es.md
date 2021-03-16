@@ -5,7 +5,7 @@ date: 2020-06-16 21:42:15
 image: 'https://m.media-amazon.com/images/I/416+eBzsaZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBGR3D9-es Lee Distorted Logo tee Camiseta Blanco Bright White Lj...'
 sku: 'B07SBGR3D9-es'
 tags: [ 'camiseta', ]

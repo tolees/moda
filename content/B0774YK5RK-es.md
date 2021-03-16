@@ -5,7 +5,7 @@ date: 2020-02-01 02:15:35
 image: 'https://m.media-amazon.com/images/I/41D45Eid4AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774YK5RK-es Siux Falda Cloe Negra'
 sku: 'B0774YK5RK-es'
 tags: [ 'falda', ]

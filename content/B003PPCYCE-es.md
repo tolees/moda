@@ -5,7 +5,7 @@ date: 2020-06-22 21:35:50
 image: 'https://m.media-amazon.com/images/I/41lwL6DEMdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003PPCYCE-es Eastpak The One Bolso bandolera 21 cm 2.5 L Gris Sunday Grey'
 sku: 'B003PPCYCE-es'
 tags: [ 'bolso', ]

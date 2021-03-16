@@ -5,7 +5,7 @@ date: 2020-03-09 01:27:17
 image: 'https://m.media-amazon.com/images/I/41FWOF7qQxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9F2B4T-es Quiksilver Get Buzzy Camiseta De Manga Larga Niños Blanco...'
 sku: 'B07T9F2B4T-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-10 13:45:48
 image: 'https://m.media-amazon.com/images/I/41xEctokhIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRD6H91-es Tom Tailor Casual 1008637 Camiseta Gris Tarmac Grey 10899...'
 sku: 'B07KRD6H91-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-17 09:37:55
 image: 'https://m.media-amazon.com/images/I/41jju86F+nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZHJ8RF-es Under Armour Sportstyle Camiseta sin Mangas con Logotipo...'
 sku: 'B07CZHJ8RF-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 14:26:38
 image: 'https://m.media-amazon.com/images/I/51jOz44wQ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCFL74-es Kipling Osyka Bolso Con Bandolera para Mujer Multicolor...'
 sku: 'B07PRCFL74-es'
 tags: [ 'bolso', ]

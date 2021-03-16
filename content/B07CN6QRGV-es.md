@@ -5,7 +5,7 @@ date: 2020-01-18 17:14:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sCfYV-VpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN6QRGV-es Hollywood Star Fashion Camisa de Manga Corta con Cuello en...'
 sku: 'B07CN6QRGV-es'
 tags: [ 'camisa', ]

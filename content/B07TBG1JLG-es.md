@@ -5,7 +5,7 @@ date: 2020-05-04 11:55:14
 image: 'https://m.media-amazon.com/images/I/41plo+V+5jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBG1JLG-es Quiksilver Mental Notes T-Shirt Men Camiseta de Manga...'
 sku: 'B07TBG1JLG-es'
 tags: [ 'camiseta', ]

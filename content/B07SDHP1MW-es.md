@@ -5,7 +5,7 @@ date: 2020-07-02 14:28:36
 image: 'https://m.media-amazon.com/images/I/31I+BczXKDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDHP1MW-es Crocs Crocband Flip Women Chanclas para Mujer Naranja...'
 sku: 'B07SDHP1MW-es'
 tags: [ 'chanclas', ]

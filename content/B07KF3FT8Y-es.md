@@ -5,7 +5,7 @@ date: 2020-07-23 13:36:25
 image: 'https://m.media-amazon.com/images/I/41cMpPuYycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF3FT8Y-es Levi s HR Decon Iconic BF Skirt Falda Negro Left Behind...'
 sku: 'B07KF3FT8Y-es'
 tags: [ 'falda', ]

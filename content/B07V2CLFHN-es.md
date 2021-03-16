@@ -5,7 +5,7 @@ date: 2020-09-29 11:01:32
 image: 'https://m.media-amazon.com/images/I/51GbKFZAAAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2CLFHN-es ACVIP - Camiseta de manga corta con cuello en V y hombros...'
 sku: 'B07V2CLFHN-es'
 tags: [ 'camiseta', ]

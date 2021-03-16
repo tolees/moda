@@ -5,7 +5,7 @@ date: 2020-06-24 14:26:09
 image: 'https://m.media-amazon.com/images/I/41ctsQPW-rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1JXVQV-es Marca Amazon - Iris & Lilly Sujetador Estilo Camiseta...'
 sku: 'B07V1JXVQV-es'
 tags: [ '&','camiseta','iris','lilly', ]

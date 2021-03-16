@@ -5,7 +5,7 @@ date: 2020-09-16 06:28:42
 image: 'https://m.media-amazon.com/images/I/315ekuDKuiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5BG1CG-es Skechers Sure Track Zapatos de trabajo para Mujer color...'
 sku: 'B01M5BG1CG-es'
 tags: [ 'zapatos', ]

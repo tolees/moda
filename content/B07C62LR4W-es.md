@@ -5,7 +5,7 @@ date: 2020-09-27 12:04:47
 image: 'https://m.media-amazon.com/images/I/31Ggy6TQ-yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C62LR4W-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera Negro...'
 sku: 'B07C62LR4W-es'
 tags: [ 'camisa', ]

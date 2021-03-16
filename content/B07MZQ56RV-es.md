@@ -5,7 +5,7 @@ date: 2020-04-03 09:32:47
 image: 'https://m.media-amazon.com/images/I/41etoNMZt-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ56RV-es Pepe Jeans Regent Vaqueros Skinny Powerflex Dark Used...'
 sku: 'B07MZQ56RV-es'
 tags: [ 'vaqueros', ]

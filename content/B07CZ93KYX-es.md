@@ -5,7 +5,7 @@ date: 2020-05-21 01:05:37
 image: 'https://m.media-amazon.com/images/I/310HKhY3q2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ93KYX-es Under Armour UA Streaker 2.0 Camiseta Mujer Negro...'
 sku: 'B07CZ93KYX-es'
 tags: [ 'camiseta', ]

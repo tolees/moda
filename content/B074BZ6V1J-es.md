@@ -5,7 +5,7 @@ date: 2020-06-12 08:24:04
 image: 'https://m.media-amazon.com/images/I/3128obOuFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074BZ6V1J-es Pepe Jeans Hatch Vaqueros Slim para Hombre Negro 11Oz Stay...'
 sku: 'B074BZ6V1J-es'
 tags: [ 'vaqueros', ]

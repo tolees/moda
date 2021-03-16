@@ -5,7 +5,7 @@ date: 2020-06-25 01:46:12
 image: 'https://m.media-amazon.com/images/I/41aMu-UlzoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPWDRS8-es Marca Amazon - find. Pantalón Fruncido para Mujer Azul...'
 sku: 'B06XPWDRS8-es'
 tags: [ '-','find.','pantalón', ]

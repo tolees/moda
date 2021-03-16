@@ -5,7 +5,7 @@ date: 2020-04-07 13:32:23
 image: 'https://m.media-amazon.com/images/I/41KOyQpKi9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L13LQFM-es Under Armour Woven Graphic Pantalón Corto Hombre Gris...'
 sku: 'B07L13LQFM-es'
 tags: [ 'pantalón', ]

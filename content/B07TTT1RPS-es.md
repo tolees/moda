@@ -5,7 +5,7 @@ date: 2020-03-09 17:59:12
 image: 'https://m.media-amazon.com/images/I/31DwcAByBYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTT1RPS-es Women s Secret Cozy Animals Ca Unicorn PJ Conjuntos de...'
 sku: 'B07TTT1RPS-es'
 tags: [ 'pijama', ]

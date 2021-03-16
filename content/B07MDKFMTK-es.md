@@ -5,7 +5,7 @@ date: 2020-01-22 11:04:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pV7JlcOoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDKFMTK-es Lacoste TH6709 Camiseta para Hombre Azul Alby Chiné 5ch XS...'
 sku: 'B07MDKFMTK-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-25 19:24:10
 image: 'https://m.media-amazon.com/images/I/41ghtYBdJoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXSMVHQ-es Geox J Alben Boy D Zapatillas para Niños Azul Royal/Green...'
 sku: 'B07SXSMVHQ-es'
 tags: [ 'geox', ]

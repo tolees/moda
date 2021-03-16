@@ -5,7 +5,7 @@ date: 2020-06-30 17:45:55
 image: 'https://m.media-amazon.com/images/I/313CHFieRgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXBD1CQ-es Quiksilver Monkey Abyss Zapatos de Playa y Piscina para...'
 sku: 'B07SXBD1CQ-es'
 tags: [ 'zapatos', ]

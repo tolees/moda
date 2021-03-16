@@ -5,7 +5,7 @@ date: 2020-01-20 11:46:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418idE9BXqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGSM568-es Pepe Jeans Jess Pl401684 Chaqueta 11oz Check Mix Denim 000...'
 sku: 'B07JGSM568-es'
 tags: [ 'chaqueta', ]

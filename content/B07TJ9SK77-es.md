@@ -5,7 +5,7 @@ date: 2020-08-06 17:31:54
 image: 'https://m.media-amazon.com/images/I/31CES60IZxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9SK77-es Levi s Graphic Po Hoodie- B Sudadera Azul Hm Ssnl Tonal...'
 sku: 'B07TJ9SK77-es'
 tags: [ 'sudadera', ]

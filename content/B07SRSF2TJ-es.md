@@ -5,7 +5,7 @@ date: 2020-06-27 15:04:04
 image: 'https://m.media-amazon.com/images/I/31Woz+bDbRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRSF2TJ-es Geox D Genova Moc A Mocasines para Mujer Azul Navy C4002...'
 sku: 'B07SRSF2TJ-es'
 tags: [ 'geox', ]

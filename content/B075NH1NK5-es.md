@@ -5,7 +5,7 @@ date: 2020-01-07 13:50:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QcDVvivwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NH1NK5-es Tom Tailor Denim Chambray Baloon Sleeve Blouse Blusa Mujer...'
 sku: 'B075NH1NK5-es'
 tags: [ 'blusa', ]

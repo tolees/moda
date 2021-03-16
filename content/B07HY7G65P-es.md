@@ -5,7 +5,7 @@ date: 2020-02-07 08:02:32
 image: 'https://m.media-amazon.com/images/I/41CT4xKYYrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HY7G65P-es Charles Wilson Camiseta Cuello Redondo Punto Tipo Jacquard...'
 sku: 'B07HY7G65P-es'
 tags: [ 'camiseta', ]

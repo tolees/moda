@@ -5,7 +5,7 @@ date: 2020-04-08 08:19:40
 image: 'https://m.media-amazon.com/images/I/31ynoSt-sNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVR1CLX-es Esprit 119EE1G014 Abrigo Azul Navy 400 S para Mujer'
 sku: 'B07XVR1CLX-es'
 tags: [ 'abrigo', ]

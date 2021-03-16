@@ -5,7 +5,7 @@ date: 2020-05-13 12:26:08
 image: 'https://m.media-amazon.com/images/I/31Fu3E8yGdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRB3JRD-es Lee Logo Sweat Sudadera Negro Black Black 02 Medium para...'
 sku: 'B07RRB3JRD-es'
 tags: [ 'sudadera', ]

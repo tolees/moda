@@ -5,7 +5,7 @@ date: 2020-01-24 10:40:06
 image: 'https://m.media-amazon.com/images/I/31SkL6JmemL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF8WPZR-es Levi s 511 Slim Fit Vaqueros Negro Caviar Warp Str Cord...'
 sku: 'B07LF8WPZR-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 11:42:19
 image: 'https://m.media-amazon.com/images/I/419Ro4zAW1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0823CC1PW-es Jack & Jones T-Shirt Camiseta Ajuste: Slim - Friday Tea...'
 sku: 'B0823CC1PW-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 21:51:35
 image: 'https://m.media-amazon.com/images/I/41Ubituc2nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH4ZYV9-es Pepe Jeans Kai Pm402100 Chaqueta Sailor 580 Small para Hombre'
 sku: 'B07JH4ZYV9-es'
 tags: [ 'chaqueta', ]

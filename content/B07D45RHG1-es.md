@@ -5,7 +5,7 @@ date: 2020-05-03 19:05:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Xsy1k0SQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D45RHG1-es FIND Court Zapatos de Tacón Rosa Nude 39 EU'
 sku: 'B07D45RHG1-es'
 tags: [ 'zapatos', ]

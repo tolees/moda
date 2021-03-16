@@ -5,7 +5,7 @@ date: 2020-06-01 14:34:24
 image: 'https://m.media-amazon.com/images/I/31+eYdnhC8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08967DRVT-es UMUSTY 3D One punch man Funda de lápiz con cremallera...'
 sku: 'B08967DRVT-es'
 tags: [ 'bolso', ]

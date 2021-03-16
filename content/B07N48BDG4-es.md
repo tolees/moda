@@ -5,7 +5,7 @@ date: 2020-02-05 11:14:31
 image: 'https://m.media-amazon.com/images/I/4149poDL+TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N48BDG4-es United Colors of Benetton Basico 1 Man Chaqueta Punto Azul...'
 sku: 'B07N48BDG4-es'
 tags: [ 'chaqueta', ]

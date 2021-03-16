@@ -5,7 +5,7 @@ date: 2020-06-19 10:33:46
 image: 'https://m.media-amazon.com/images/I/41LbM46AAtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZGD1PWZ-es Calvin Klein CK Essential Slim tee Camisa Black L para Hombre'
 sku: 'B07ZGD1PWZ-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-10-02 16:28:53
 image: 'https://m.media-amazon.com/images/I/41dp9oOflML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMPWRF-es Levi s 511 Slim Fit Vaqueros Biologia Adv 4102 36W/36L...'
 sku: 'B07RYMPWRF-es'
 tags: [ 'vaqueros', ]

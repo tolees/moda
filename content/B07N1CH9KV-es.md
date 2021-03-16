@@ -5,7 +5,7 @@ date: 2020-01-28 21:11:29
 image: 'https://m.media-amazon.com/images/I/416qK5oI3wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1CH9KV-es G-STAR RAW 3301 High Waist Straight 90 s Ankle Vaqueros...'
 sku: 'B07N1CH9KV-es'
 tags: [ 'vaqueros', ]

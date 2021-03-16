@@ -5,7 +5,7 @@ date: 2020-01-15 13:14:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41neN13cltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WM3N4T-es find. Pantalón de Traje Ajustado Hombre Verde Teal W32/L31'
 sku: 'B074WM3N4T-es'
 tags: [ 'pantalón', ]

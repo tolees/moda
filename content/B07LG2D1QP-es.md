@@ -5,7 +5,7 @@ date: 2020-02-02 13:41:12
 image: 'https://m.media-amazon.com/images/I/31Z4MCCkH4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG2D1QP-es Geox B New Balu Boy C Zapatillas para Bebés Azul Navy...'
 sku: 'B07LG2D1QP-es'
 tags: [ 'geox', ]

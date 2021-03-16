@@ -5,7 +5,7 @@ date: 2020-02-23 11:27:59
 image: 'https://m.media-amazon.com/images/I/41KPDcMASXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9C1D3W-es JACK & JONES Jcoleaf tee SS Crew Neck Camiseta Naranja...'
 sku: 'B07P9C1D3W-es'
 tags: [ 'camiseta', ]

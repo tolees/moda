@@ -5,7 +5,7 @@ date: 2020-07-28 05:20:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eWSRkFjaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP73VHZ-es DJSJ- Disfraz Deluxe Infantil Unisex Disfraz Costume Capa...'
 sku: 'B07RP73VHZ-es'
 tags: [ 'gafas', ]

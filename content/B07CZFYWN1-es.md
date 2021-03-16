@@ -5,7 +5,7 @@ date: 2020-06-22 21:09:17
 image: 'https://m.media-amazon.com/images/I/31BoIBwMZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZFYWN1-es Under Armour Fast Left Chest 2.0 SS Camiseta Deportiva De...'
 sku: 'B07CZFYWN1-es'
 tags: [ 'camiseta', ]

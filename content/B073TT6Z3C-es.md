@@ -5,7 +5,7 @@ date: 2020-06-24 15:55:50
 image: 'https://m.media-amazon.com/images/I/51QbuKvySGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073TT6Z3C-es Aroncent Pulsera de Cuero Trenzado Brazalete Decorado de...'
 sku: 'B073TT6Z3C-es'
 tags: [ 'collar', ]

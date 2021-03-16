@@ -5,7 +5,7 @@ date: 2020-01-24 12:26:34
 image: 'https://m.media-amazon.com/images/I/31ptGFxx7jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNRNXXM-es Lee Ivy Vaqueros Negro Black Rinse 47 28W / 33L para Mujer'
 sku: 'B07MNRNXXM-es'
 tags: [ 'vaqueros', ]

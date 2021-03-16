@@ -5,7 +5,7 @@ date: 2020-01-12 17:54:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q5LJCtbqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M83VSDB-es Napapijri GOAYO Camisa Casual Naranja Orange Check 15C M...'
 sku: 'B07M83VSDB-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-03-19 18:29:47
 image: 'https://m.media-amazon.com/images/I/41q4JL5GWYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPN3CHY-es Depiladora IPL Openuye sistema de depilación para mujeres...'
 sku: 'B07RPN3CHY-es'
 tags: [ 'gafas', ]

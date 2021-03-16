@@ -5,7 +5,7 @@ date: 2020-03-21 12:04:49
 image: 'https://m.media-amazon.com/images/I/41ovB7rLpbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N95R9DZ-es BOSS Trek 4 Camiseta Blanco White 100 XX-Large para Hombre'
 sku: 'B07N95R9DZ-es'
 tags: [ 'camiseta', ]

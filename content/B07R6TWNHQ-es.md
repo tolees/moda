@@ -5,7 +5,7 @@ date: 2020-08-09 19:14:00
 image: 'https://m.media-amazon.com/images/I/41r91pGxQuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6TWNHQ-es Columbia Silver Ridge 2.0 Camisa De Manga Larga Mujer...'
 sku: 'B07R6TWNHQ-es'
 tags: [ 'camisa', ]

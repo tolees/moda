@@ -5,7 +5,7 @@ date: 2020-04-25 11:46:50
 image: 'https://m.media-amazon.com/images/I/31ytaDEu+CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MW1G7FX-es Reebok BW Basic Boxer pantalón Corto Hombre Negro M'
 sku: 'B07MW1G7FX-es'
 tags: [ 'boxer','pantalón', ]

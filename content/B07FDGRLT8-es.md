@@ -5,7 +5,7 @@ date: 2020-08-12 07:02:22
 image: 'https://m.media-amazon.com/images/I/31Attlm30hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDGRLT8-es Superdry Orange Label Vntge Emb S/S tee Camiseta Azul...'
 sku: 'B07FDGRLT8-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-09 17:04:04
 image: 'https://m.media-amazon.com/images/I/41wdKtX+DSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMR882S-es JACK & JONES Jcosteve Shirt LS Worker Camisa Azul Chambray...'
 sku: 'B07RMR882S-es'
 tags: [ 'camisa', ]

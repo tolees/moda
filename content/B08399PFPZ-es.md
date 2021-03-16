@@ -5,7 +5,7 @@ date: 2020-07-13 09:23:23
 image: 'https://m.media-amazon.com/images/I/41f8aLaWeFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08399PFPZ-es Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua...'
 sku: 'B08399PFPZ-es'
 tags: [ 'zapatos', ]

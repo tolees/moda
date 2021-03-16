@@ -5,7 +5,7 @@ date: 2020-07-24 10:54:35
 image: 'https://m.media-amazon.com/images/I/41GCLlOHhnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B6M6PL-es Columbia Model Sudadera con Capucha con Logo Mujer Gris...'
 sku: 'B081B6M6PL-es'
 tags: [ 'sudadera', ]

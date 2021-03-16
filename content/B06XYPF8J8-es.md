@@ -5,7 +5,7 @@ date: 2020-05-03 19:13:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pzl5lB6AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYPF8J8-es find. 53669 Chaqueta Para Mujer Azul Mid Blue X-Small'
 sku: 'B06XYPF8J8-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-02-08 16:46:36
 image: 'https://m.media-amazon.com/images/I/51bnomoduBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3WRDQJ-es Desigual Pullover LOS Angeles Jersey Azul Ibiza 5106 S...'
 sku: 'B07N3WRDQJ-es'
 tags: [ 'jersey', ]

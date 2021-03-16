@@ -5,7 +5,7 @@ date: 2020-03-07 17:04:01
 image: 'https://m.media-amazon.com/images/I/31DcElDZUuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5DHBXY-es Lee Luke Vaqueros Forest Night 31W / 34L para Hombre'
 sku: 'B07M5DHBXY-es'
 tags: [ 'vaqueros', ]

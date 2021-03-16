@@ -5,7 +5,7 @@ date: 2020-06-24 19:47:55
 image: 'https://m.media-amazon.com/images/I/31Dfd47pWyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016W1G6JE-es Tommy Hilfiger 2P Tank Camiseta blanco blanco 100 S para...'
 sku: 'B016W1G6JE-es'
 tags: [ 'camiseta', ]

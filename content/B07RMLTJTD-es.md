@@ -5,7 +5,7 @@ date: 2020-07-21 06:38:54
 image: 'https://m.media-amazon.com/images/I/41u-ridDJgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMLTJTD-es New Balance 520v6 Zapatos para Correr para Mujer Negro...'
 sku: 'B07RMLTJTD-es'
 tags: [ 'zapatos', ]

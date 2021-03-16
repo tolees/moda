@@ -5,7 +5,7 @@ date: 2020-06-10 13:53:15
 image: 'https://m.media-amazon.com/images/I/41kpjILM-TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018KDHE3Y-es LA LEELA Casual Hawaiana Camisa para Hombre Señores Manga...'
 sku: 'B018KDHE3Y-es'
 tags: [ 'camisa', ]

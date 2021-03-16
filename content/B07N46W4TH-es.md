@@ -5,7 +5,7 @@ date: 2020-02-29 14:02:36
 image: 'https://m.media-amazon.com/images/I/41rF9jOX4XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N46W4TH-es Desigual T-Shirt NIKO Camiseta Verde Cactus 4029 L para Mujer'
 sku: 'B07N46W4TH-es'
 tags: [ 'camiseta', ]

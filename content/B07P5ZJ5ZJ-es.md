@@ -5,7 +5,7 @@ date: 2020-04-06 16:30:20
 image: 'https://m.media-amazon.com/images/I/41EFQoICHJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5ZJ5ZJ-es Lee Elly Vaqueros Naranja Potter S Clay 93 27W / 33L para...'
 sku: 'B07P5ZJ5ZJ-es'
 tags: [ 'vaqueros', ]

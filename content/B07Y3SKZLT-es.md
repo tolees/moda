@@ -5,7 +5,7 @@ date: 2020-05-20 11:54:19
 image: 'https://m.media-amazon.com/images/I/21nDL0eI7JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y3SKZLT-es Jack & Jones Jorbasic SS tee Crew Neck 5-Pack Ka Camiseta...'
 sku: 'B07Y3SKZLT-es'
 tags: [ 'camiseta', ]

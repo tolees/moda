@@ -5,7 +5,7 @@ date: 2020-06-21 18:35:53
 image: 'https://m.media-amazon.com/images/I/31IvteTvdSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGKKS7Q-es Marca Amazon – Lark & Ro – Vestido de tejido crepé con...'
 sku: 'B07MGKKS7Q-es'
 tags: [ 'vestido', ]

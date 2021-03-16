@@ -5,7 +5,7 @@ date: 2020-05-13 19:33:08
 image: 'https://m.media-amazon.com/images/I/31JdXcYFcdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL2JMP2-es adidas W E Lin Slim T Camiseta de Manga Corta Mujer Negro...'
 sku: 'B07KL2JMP2-es'
 tags: [ 'camiseta', ]

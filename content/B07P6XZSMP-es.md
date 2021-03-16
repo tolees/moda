@@ -5,7 +5,7 @@ date: 2020-06-04 01:43:37
 image: 'https://m.media-amazon.com/images/I/419CyH7yMyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6XZSMP-es DANISH ENDURANCE Calzoncillos Bóxer de Deporte Pack de 2...'
 sku: 'B07P6XZSMP-es'
 tags: [ 'bóxer', ]

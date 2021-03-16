@@ -5,7 +5,7 @@ date: 2020-04-16 09:08:49
 image: 'https://m.media-amazon.com/images/I/41Pu813rpUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDS28QW-es Geox U TAIKI B ABX A Zapatillas Altas para Hombre Marrón...'
 sku: 'B07PDS28QW-es'
 tags: [ 'geox', ]

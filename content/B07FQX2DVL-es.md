@@ -5,7 +5,7 @@ date: 2020-08-23 06:04:55
 image: 'https://m.media-amazon.com/images/I/41qfS9GmoRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQX2DVL-es Clarks Un Trek Part Sandalias de Talón Abierto para Hombre...'
 sku: 'B07FQX2DVL-es'
 tags: [ 'sandalias', ]

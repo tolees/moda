@@ -5,7 +5,7 @@ date: 2020-06-19 12:16:09
 image: 'https://m.media-amazon.com/images/I/41x+FBVk4rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMQNTM-es Levi s 511 Slim Fit Jeans Pantalón vaquero elástico y con...'
 sku: 'B07RYMQNTM-es'
 tags: [ 'pantalón', ]

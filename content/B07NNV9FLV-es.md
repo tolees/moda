@@ -5,7 +5,7 @@ date: 2020-09-15 12:41:47
 image: 'https://m.media-amazon.com/images/I/311Of2J4S-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNV9FLV-es Under Armour Erwachsene Core Remix Dusch-& Badeschuhe...'
 sku: 'B07NNV9FLV-es'
 tags: [ 'zapatos', ]

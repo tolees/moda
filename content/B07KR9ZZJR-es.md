@@ -5,7 +5,7 @@ date: 2020-04-22 17:17:43
 image: 'https://m.media-amazon.com/images/I/313zi5yC9YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR9ZZJR-es Under Armour UA Streaker 2.0 Half Zip Sudadera Mujer Negro...'
 sku: 'B07KR9ZZJR-es'
 tags: [ 'sudadera', ]

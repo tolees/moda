@@ -5,7 +5,7 @@ date: 2020-02-24 14:00:16
 image: 'https://m.media-amazon.com/images/I/41ET2GLR5TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LH7MPHX-es The North Face Quest Jacket Chaqueta Estampada para Mujer...'
 sku: 'B07LH7MPHX-es'
 tags: [ 'chaqueta', ]

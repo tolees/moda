@@ -5,7 +5,7 @@ date: 2020-09-16 18:30:20
 image: 'https://m.media-amazon.com/images/I/410aCjSdQ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYHXY9T-es Levi s 512 Slim Taper Fit Jean Vaqueros Azul Biologia ADV...'
 sku: 'B07TYHXY9T-es'
 tags: [ 'vaqueros', ]

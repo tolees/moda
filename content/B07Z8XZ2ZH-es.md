@@ -5,7 +5,7 @@ date: 2020-07-28 23:37:50
 image: 'https://m.media-amazon.com/images/I/41HDqIeL+eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z8XZ2ZH-es Alfheim - Maletín para Hombres Bolso Bandolera Bolsa de...'
 sku: 'B07Z8XZ2ZH-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-05-24 01:11:54
 image: 'https://m.media-amazon.com/images/I/31VjBKKo9hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F29ZNX3-es Timberland Newport Bay 2 Eye Náuticos para Hombre Blanco...'
 sku: 'B07F29ZNX3-es'
 tags: [ 'timberland', ]

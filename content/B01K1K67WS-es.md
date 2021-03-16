@@ -5,7 +5,7 @@ date: 2020-08-17 06:09:06
 image: 'https://m.media-amazon.com/images/I/51iTJWPJWtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K1K67WS-es Bolso impermeable de la bolsa de la correa de ECHPTower...'
 sku: 'B01K1K67WS-es'
 tags: [ 'bolso', ]

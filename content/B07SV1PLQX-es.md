@@ -5,7 +5,7 @@ date: 2020-01-16 09:47:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414gFa6mlrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SV1PLQX-es JACK & JONES PREMIUM Jprlogo Twist Shirt L/s STS Camisa...'
 sku: 'B07SV1PLQX-es'
 tags: [ 'camisa', ]

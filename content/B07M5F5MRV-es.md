@@ -5,7 +5,7 @@ date: 2020-01-01 17:05:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PPbHL5djL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F5MRV-es Wrangler LS Western Shirt Camisa Rojo Red X47 Small para...'
 sku: 'B07M5F5MRV-es'
 tags: [ 'camisa', ]

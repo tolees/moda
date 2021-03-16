@@ -5,7 +5,7 @@ date: 2020-03-01 11:38:28
 image: 'https://m.media-amazon.com/images/I/51fXeVke2-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081PLHZ1W-es Zapatillas de Baloncesto Altas Superiores Zapatillas de...'
 sku: 'B081PLHZ1W-es'
 tags: [ 'zapatos', ]

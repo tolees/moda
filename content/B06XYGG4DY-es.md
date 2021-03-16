@@ -5,7 +5,7 @@ date: 2020-01-30 17:35:15
 image: 'https://m.media-amazon.com/images/I/51lnlAFOqtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYGG4DY-es PIXNOR 4pcs mujeres flor pelo banda trenzado anudado Yoga...'
 sku: 'B06XYGG4DY-es'
 tags: [ 'abrigo', ]

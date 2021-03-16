@@ -5,7 +5,7 @@ date: 2020-01-28 01:56:53
 image: 'https://m.media-amazon.com/images/I/51YnUXfNSkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015KSUOZC-es NNJXD Vestido de Fiesta de Princesa con Encaje de Flor de...'
 sku: 'B015KSUOZC-es'
 tags: [ 'vestido', ]

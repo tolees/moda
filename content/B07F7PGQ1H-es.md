@@ -5,7 +5,7 @@ date: 2020-08-06 14:12:55
 image: 'https://m.media-amazon.com/images/I/51Ojk6ojcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7PGQ1H-es Only Onlnew Mallory L/s Blouse Wvn Noos Blusa Multicolor...'
 sku: 'B07F7PGQ1H-es'
 tags: [ 'blusa', ]

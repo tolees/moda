@@ -5,7 +5,7 @@ date: 2020-05-31 11:06:21
 image: 'https://m.media-amazon.com/images/I/51rSzhmFMaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9P59ZR-es Vestidos Estampados Flores Mujer de Verano Cuello en V...'
 sku: 'B07F9P59ZR-es'
 tags: [ 'falda','vestido', ]

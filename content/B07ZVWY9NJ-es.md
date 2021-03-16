@@ -5,7 +5,7 @@ date: 2020-06-30 07:55:21
 image: 'https://m.media-amazon.com/images/I/31dCPbppHKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVWY9NJ-es Lacoste - Camisa Punto Manga Larga Hombre - CH9623-00'
 sku: 'B07ZVWY9NJ-es'
 tags: [ 'camisa', ]

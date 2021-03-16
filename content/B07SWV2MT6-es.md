@@ -5,7 +5,7 @@ date: 2020-10-10 23:53:40
 image: 'https://m.media-amazon.com/images/I/41gLznjUnbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWV2MT6-es Geox D Myria C Zapatillas para Mujer Azul Navy C4002 38 EU'
 sku: 'B07SWV2MT6-es'
 tags: [ 'geox', ]

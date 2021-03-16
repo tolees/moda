@@ -5,7 +5,7 @@ date: 2020-07-19 07:01:20
 image: 'https://m.media-amazon.com/images/I/41J7gGCL4uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XFV8HZL-es Marca Amazon - find. Camisa Hombre Naranja Apricot Gingham...'
 sku: 'B06XFV8HZL-es'
 tags: [ '-','camisa','find.', ]

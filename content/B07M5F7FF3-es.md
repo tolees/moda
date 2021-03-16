@@ -5,7 +5,7 @@ date: 2020-03-13 19:40:35
 image: 'https://m.media-amazon.com/images/I/41XOwvSi44L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F7FF3-es Wrangler Arizona Vaqueros Straight Azul Burnt Up 77p 36 W/...'
 sku: 'B07M5F7FF3-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-07-30 20:20:16
 image: 'https://m.media-amazon.com/images/I/31A7wX659UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDRWNP8-es Calvin Klein Zip Through HD Jacket Chaqueta Blanco Bright...'
 sku: 'B07VDRWNP8-es'
 tags: [ 'chaqueta', ]

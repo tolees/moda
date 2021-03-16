@@ -5,7 +5,7 @@ date: 2020-02-25 14:28:08
 image: 'https://m.media-amazon.com/images/I/41LIDErX9oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYK26H9-es United Colors of Benetton Basico 1 Man Vaqueros Straight...'
 sku: 'B07FYK26H9-es'
 tags: [ 'vaqueros', ]

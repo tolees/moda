@@ -5,7 +5,7 @@ date: 2020-10-09 14:07:38
 image: 'https://m.media-amazon.com/images/I/31RwBaoYwWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LG7CUU4-es Under Armour UA TAC Tech Long Sleeve tee Camiseta De Manga...'
 sku: 'B00LG7CUU4-es'
 tags: [ 'camiseta', ]

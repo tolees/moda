@@ -5,7 +5,7 @@ date: 2020-03-11 06:48:11
 image: 'https://m.media-amazon.com/images/I/41UDbsplskL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GIQI3BW-es Columbia Saturday Trail Falda Pantalón con Protección...'
 sku: 'B01GIQI3BW-es'
 tags: [ 'falda','pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-04-06 16:05:38
 image: 'https://m.media-amazon.com/images/I/41wlZe5dkAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2J2ZW-es Clarks Un Trail Limit Zapatos de Cordones Derby para...'
 sku: 'B07MQ2J2ZW-es'
 tags: [ 'zapatos', ]

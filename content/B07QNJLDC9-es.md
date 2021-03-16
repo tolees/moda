@@ -5,7 +5,7 @@ date: 2020-05-11 11:04:22
 image: 'https://m.media-amazon.com/images/I/41lWM5pdRML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNJLDC9-es Zapatos para Correr Deportes en Montaña Asfalto Zapatillas...'
 sku: 'B07QNJLDC9-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-03-03 14:51:19
 image: 'https://m.media-amazon.com/images/I/31KRcD6K66L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLP4T6-es Napapijri Rainforest Winter 1 Chaqueta Verde Hunter Green...'
 sku: 'B07MMLP4T6-es'
 tags: [ 'chaqueta', ]

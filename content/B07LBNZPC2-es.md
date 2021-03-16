@@ -5,7 +5,7 @@ date: 2020-09-17 17:23:37
 image: 'https://m.media-amazon.com/images/I/31AVqUjEXUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBNZPC2-es Helly Hansen Moss Aislado 3-In-1 Forro Polar Interior...'
 sku: 'B07LBNZPC2-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-06-11 18:44:41
 image: 'https://m.media-amazon.com/images/I/31m1BJQqBkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KLRTJS-es Puma Liga CR H Camiseta de Manga Corta Hombre Verde Pepper...'
 sku: 'B079KLRTJS-es'
 tags: [ 'camiseta', ]

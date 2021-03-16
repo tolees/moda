@@ -5,7 +5,7 @@ date: 2020-06-21 10:25:39
 image: 'https://m.media-amazon.com/images/I/51FPrn6KXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HMFTSL-es Marca Amazon - find. Vestido Fruncido de Lunares Mujer...'
 sku: 'B077HMFTSL-es'
 tags: [ '-','find.','vestido', ]

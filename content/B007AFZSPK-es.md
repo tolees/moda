@@ -5,7 +5,7 @@ date: 2020-07-04 12:25:11
 image: 'https://m.media-amazon.com/images/I/41WiWDDEL5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007AFZSPK-es Crocs Crocband Sandal Kids Sandalias Unisex Niños Azul...'
 sku: 'B007AFZSPK-es'
 tags: [ 'sandalias', ]

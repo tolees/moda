@@ -5,7 +5,7 @@ date: 2020-01-02 09:21:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51aygS3nvoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PY4JARG-es KRISP 6488-NVY-18 Vestido Corto Fruncido Busto Azul Marino...'
 sku: 'B00PY4JARG-es'
 tags: [ 'vestido', ]

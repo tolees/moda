@@ -5,7 +5,7 @@ date: 2020-01-19 08:08:47
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZCJQ1R0-es LEABAGS Philadelphia Monedero para Mujeres de auténtico...'
 sku: 'B00ZCJQ1R0-es'
 tags: [ 'monedero', ]

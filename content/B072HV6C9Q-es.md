@@ -5,7 +5,7 @@ date: 2020-05-01 22:27:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-oFiRzRyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HV6C9Q-es find. Sudadera Manga Fruncida para Mujer Rosa Soft Peach...'
 sku: 'B072HV6C9Q-es'
 tags: [ 'sudadera', ]

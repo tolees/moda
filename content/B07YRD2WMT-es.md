@@ -5,7 +5,7 @@ date: 2020-07-14 13:18:00
 image: 'https://m.media-amazon.com/images/I/51gTz7XFVrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YRD2WMT-es Marca Amazon - find. Vestido Largo Camisero Mujer...'
 sku: 'B07YRD2WMT-es'
 tags: [ '-','find.','vestido', ]

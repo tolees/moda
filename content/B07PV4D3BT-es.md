@@ -5,7 +5,7 @@ date: 2020-03-19 14:55:14
 image: 'https://m.media-amazon.com/images/I/315Pu+lKaqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV4D3BT-es Nike M NSW Nsp Top SS Check Camiseta Hombre Blue...'
 sku: 'B07PV4D3BT-es'
 tags: [ 'camiseta', ]

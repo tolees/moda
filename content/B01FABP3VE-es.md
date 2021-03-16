@@ -5,7 +5,7 @@ date: 2020-06-26 15:34:20
 image: 'https://m.media-amazon.com/images/I/31VDapFldiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FABP3VE-es Under Armour UA Raid 8 Shorts pantalón Corto Hombre Blanco SM'
 sku: 'B01FABP3VE-es'
 tags: [ 'pantalón', ]

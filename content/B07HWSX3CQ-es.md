@@ -5,7 +5,7 @@ date: 2020-09-09 18:01:43
 image: 'https://m.media-amazon.com/images/I/51Uy+hrE34L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HWSX3CQ-es H&E - Abrigo de invierno para niña con capucha y capucha...'
 sku: 'B07HWSX3CQ-es'
 tags: [ 'abrigo', ]

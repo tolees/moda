@@ -5,7 +5,7 @@ date: 2020-01-02 14:56:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XG8xFUnRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD5NN78-es Trangoworld Borau Chaqueta Hombre Azul Oscuro/Negro S'
 sku: 'B07DD5NN78-es'
 tags: [ 'chaqueta', ]

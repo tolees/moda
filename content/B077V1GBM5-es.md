@@ -5,7 +5,7 @@ date: 2020-06-25 22:17:33
 image: 'https://m.media-amazon.com/images/I/41ik9bY-2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077V1GBM5-es Kipling Syro Bolso bandolera para Mujer Marrón True Beige...'
 sku: 'B077V1GBM5-es'
 tags: [ 'bolso', ]

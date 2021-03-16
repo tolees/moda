@@ -5,7 +5,7 @@ date: 2020-04-08 08:14:56
 image: 'https://m.media-amazon.com/images/I/41YNzhRpHGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH54YPK-es Lacoste Sport Sf7917 Sudadera premamá Gris Argent Chiné...'
 sku: 'B07MH54YPK-es'
 tags: [ 'sudadera', ]

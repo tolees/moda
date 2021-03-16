@@ -5,7 +5,7 @@ date: 2020-06-29 07:24:26
 image: 'https://m.media-amazon.com/images/I/41Ae-AvGtxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TT3Y1Y-es adidas Con20 TR Jkt Chaqueta de Deporte Hombre Team Power...'
 sku: 'B081TT3Y1Y-es'
 tags: [ 'chaqueta', ]

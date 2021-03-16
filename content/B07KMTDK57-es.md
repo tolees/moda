@@ -5,7 +5,7 @@ date: 2020-02-21 10:59:25
 image: 'https://m.media-amazon.com/images/I/515emRhsgTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMTDK57-es Armani Exchange Cotton Satin Pois Camisa 3D Micro Boxes...'
 sku: 'B07KMTDK57-es'
 tags: [ 'camisa', ]

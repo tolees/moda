@@ -5,7 +5,7 @@ date: 2020-01-17 12:17:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51nj7OZ9YiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LQ2FL-es Wrangler LS 1pkt Shirt Camisa Verde Pine G01 Small para...'
 sku: 'B07M8LQ2FL-es'
 tags: [ 'camisa', ]

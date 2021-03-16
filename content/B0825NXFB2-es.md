@@ -5,7 +5,7 @@ date: 2021-03-16 15:33:13
 image: 'https://m.media-amazon.com/images/I/41vyTFwDrWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825NXFB2-es GEOX U SNAKE.2 B ANTHRACITE Men s Trainers Low-Top...'
 sku: 'B0825NXFB2-es'
 tags: [ 'geox', ]

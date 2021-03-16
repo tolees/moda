@@ -5,7 +5,7 @@ date: 2020-02-01 13:14:02
 image: 'https://m.media-amazon.com/images/I/41mJBNfFoDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQVFHSN-es Napapijri BIBU H Sudadera con Capucha Azul French Blue BB7...'
 sku: 'B07MQVFHSN-es'
 tags: [ 'sudadera', ]

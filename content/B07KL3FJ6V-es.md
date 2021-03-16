@@ -5,7 +5,7 @@ date: 2020-05-24 01:46:57
 image: 'https://m.media-amazon.com/images/I/316aCS5CaJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL3FJ6V-es adidas E 3s tee Camiseta de Manga Corta Hombre Black/White S'
 sku: 'B07KL3FJ6V-es'
 tags: [ 'camiseta', ]

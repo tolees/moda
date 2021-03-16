@@ -5,7 +5,7 @@ date: 2020-01-10 20:43:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zSakdaCaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6ZV7Q8-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera Azul Soft Ash...'
 sku: 'B07K6ZV7Q8-es'
 tags: [ 'chaqueta', ]

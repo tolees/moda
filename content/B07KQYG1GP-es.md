@@ -5,7 +5,7 @@ date: 2020-02-24 12:20:33
 image: 'https://m.media-amazon.com/images/I/41b5mMlpzWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQYG1GP-es SALOMON Drifter Mid Jkt M Chaqueta Reversible Hombre Negro...'
 sku: 'B07KQYG1GP-es'
 tags: [ 'chaqueta', ]

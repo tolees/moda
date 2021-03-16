@@ -5,7 +5,7 @@ date: 2020-08-15 19:13:58
 image: 'https://m.media-amazon.com/images/I/41yNMLlW0QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QBV3JR-es Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta Negro...'
 sku: 'B076QBV3JR-es'
 tags: [ 'camiseta', ]

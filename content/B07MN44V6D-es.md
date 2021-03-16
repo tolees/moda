@@ -5,7 +5,7 @@ date: 2020-01-11 10:25:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AeZtTawcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN44V6D-es Wrangler Larston Vaqueros Grey Hill 31W / 32L para Hombre'
 sku: 'B07MN44V6D-es'
 tags: [ 'vaqueros', ]

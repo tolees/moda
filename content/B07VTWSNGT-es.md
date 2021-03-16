@@ -5,7 +5,7 @@ date: 2020-06-29 07:47:00
 image: 'https://m.media-amazon.com/images/I/31hS3Dod9bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTWSNGT-es Levi s Levis Men Solid Basic Trunk 2P Bóxer Negro Jet...'
 sku: 'B07VTWSNGT-es'
 tags: [ 'bóxer', ]

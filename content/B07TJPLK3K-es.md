@@ -5,7 +5,7 @@ date: 2020-09-10 18:27:17
 image: 'https://m.media-amazon.com/images/I/31Qo7b-ferL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJPLK3K-es Clarks Laina55 Court Zapatos de Tacón para Mujer Negro...'
 sku: 'B07TJPLK3K-es'
 tags: [ 'zapatos', ]

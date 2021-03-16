@@ -5,7 +5,7 @@ date: 2020-02-23 08:11:23
 image: 'https://m.media-amazon.com/images/I/41aMRoevCUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWXJJMY-es Joma Cairo II Sudadera Hombre Rojo XL'
 sku: 'B07NWXJJMY-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-07-27 07:35:44
 image: 'https://m.media-amazon.com/images/I/41sAl5s-RSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD93BLH-es Helly Hansen HP Fleece Jacket Chaqueta Hombre Royal Blue M'
 sku: 'B07SD93BLH-es'
 tags: [ 'chaqueta', ]

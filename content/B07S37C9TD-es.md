@@ -5,7 +5,7 @@ date: 2020-08-22 11:20:15
 image: 'https://m.media-amazon.com/images/I/41+lXTIriLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S37C9TD-es ARTESANIA CERDA Largo Conjuntos de Pijama Rojo Rojo C06 14...'
 sku: 'B07S37C9TD-es'
 tags: [ 'pijama', ]

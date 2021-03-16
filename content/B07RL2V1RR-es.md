@@ -5,7 +5,7 @@ date: 2020-03-27 20:13:17
 image: 'https://m.media-amazon.com/images/I/51GhdBQMB+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RL2V1RR-es Tommy Hilfiger Flex Multi Gingham Shirt Camisa Azul Blue...'
 sku: 'B07RL2V1RR-es'
 tags: [ 'camisa', ]

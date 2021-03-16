@@ -5,7 +5,7 @@ date: 2020-09-26 14:19:17
 image: 'https://m.media-amazon.com/images/I/31wlqJlEkiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078C6KW8V-es Lacoste L1212 Camiseta Polo Azul Electrique 2XL para Hombre'
 sku: 'B078C6KW8V-es'
 tags: [ 'camiseta', ]

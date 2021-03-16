@@ -5,7 +5,7 @@ date: 2020-05-20 09:40:20
 image: 'https://m.media-amazon.com/images/I/513Ns7brRoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811KYH4V-es Vicloon Princesa Vestir Accesorios 8 Pcs Violeta Elsa...'
 sku: 'B0811KYH4V-es'
 tags: [ 'collar','guantes', ]

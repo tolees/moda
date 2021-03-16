@@ -5,7 +5,7 @@ date: 2020-03-19 23:02:56
 image: 'https://m.media-amazon.com/images/I/41k3C3XmoQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NT8DZWU-es Dickies Kingsley Sudadera con Capucha Negro Black Small...'
 sku: 'B00NT8DZWU-es'
 tags: [ 'sudadera', ]

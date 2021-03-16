@@ -5,7 +5,7 @@ date: 2020-02-14 20:29:48
 image: 'https://m.media-amazon.com/images/I/41LZgra5XeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWXFRQM-es Rizador Pelo Plegable Profesional Planchas Rizadoras 25mm...'
 sku: 'B07WWXFRQM-es'
 tags: [ 'guantes', ]

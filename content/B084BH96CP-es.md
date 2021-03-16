@@ -5,7 +5,7 @@ date: 2020-09-06 10:06:11
 image: 'https://m.media-amazon.com/images/I/41w6Wtc264L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084BH96CP-es Levi s SS Original Hm tee Camiseta Charcoal Heather XX M...'
 sku: 'B084BH96CP-es'
 tags: [ 'camiseta', ]

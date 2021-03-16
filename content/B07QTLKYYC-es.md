@@ -5,7 +5,7 @@ date: 2020-08-14 21:27:04
 image: 'https://m.media-amazon.com/images/I/319JVXcjQBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTLKYYC-es Tommy Hilfiger T Camiseta Básica de Manga Corta Azul Sky...'
 sku: 'B07QTLKYYC-es'
 tags: [ 'camiseta', ]

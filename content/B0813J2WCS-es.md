@@ -5,7 +5,7 @@ date: 2020-07-19 14:44:54
 image: 'https://m.media-amazon.com/images/I/316w7cS1VNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813J2WCS-es Marca Amazon - find. Strippy Wedge Espadrille Sandalias...'
 sku: 'B0813J2WCS-es'
 tags: [ '-','find.','sandalias', ]

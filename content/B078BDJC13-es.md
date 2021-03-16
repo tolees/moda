@@ -5,7 +5,7 @@ date: 2020-02-06 10:15:04
 image: 'https://m.media-amazon.com/images/I/413PilQPUzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BDJC13-es Crocs Baya Zuecos Unisex Adulto Rosa Party Pink 41/42 EU'
 sku: 'B078BDJC13-es'
 tags: [ 'zuecos', ]

@@ -5,7 +5,7 @@ date: 2020-10-09 19:16:20
 image: 'https://m.media-amazon.com/images/I/41eyiVgmZCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQPLKX2-es Clarks Cammy Glory Sandalias Punta Cerrada para Mujer...'
 sku: 'B07FQPLKX2-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-04-05 10:48:15
 image: 'https://m.media-amazon.com/images/I/41v46n3FuzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCG7SSC-es adidas Rise Up N Run Long-Sleeve Top Men Camiseta de Manga...'
 sku: 'B07SCG7SSC-es'
 tags: [ 'camiseta', ]

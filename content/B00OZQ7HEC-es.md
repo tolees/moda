@@ -5,7 +5,7 @@ date: 2020-04-04 10:31:36
 image: 'https://m.media-amazon.com/images/I/41QTZcazExL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OZQ7HEC-es adidas T-Shirt Originals Sport Essentials tee - Camiseta...'
 sku: 'B00OZQ7HEC-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-15 01:00:32
 image: 'https://m.media-amazon.com/images/I/518Mc6Yws6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TL8L9S-es Manguera de jardín flexible 100 FT/30 m manguera de jardín...'
 sku: 'B088TL8L9S-es'
 tags: [ 'guantes', ]

@@ -5,7 +5,7 @@ date: 2020-03-02 10:39:34
 image: 'https://m.media-amazon.com/images/I/41k4RzRcSVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW5K96N-es Skechers Synergy Botines para Mujer Chestnut Micro...'
 sku: 'B07NW5K96N-es'
 tags: [ 'botines', ]

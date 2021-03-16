@@ -5,7 +5,7 @@ date: 2020-06-12 09:28:45
 image: 'https://m.media-amazon.com/images/I/51jKmn7ygHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDNS7T-es Levi s Sunset 1 Pkt Slim Camisa Negro Antonio Mineral...'
 sku: 'B07TKDNS7T-es'
 tags: [ 'camisa', ]

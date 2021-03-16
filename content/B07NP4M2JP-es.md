@@ -5,7 +5,7 @@ date: 2020-03-15 18:54:45
 image: 'https://m.media-amazon.com/images/I/417X6Zo5LtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NP4M2JP-es Zerimar Zapatos con Alzas Interiores para Hombres Aumento...'
 sku: 'B07NP4M2JP-es'
 tags: [ 'zapatos', ]

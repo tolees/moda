@@ -5,7 +5,7 @@ date: 2020-05-07 11:58:58
 image: 'https://m.media-amazon.com/images/I/41iFI71POPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08629XJRT-es Fiween Zapatos de Color Beige de plástico de Alta talón...'
 sku: 'B08629XJRT-es'
 tags: [ 'zapatos', ]

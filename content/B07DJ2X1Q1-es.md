@@ -5,7 +5,7 @@ date: 2020-05-20 21:59:15
 image: 'https://m.media-amazon.com/images/I/31ndetLcSML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2X1Q1-es Geox U Kennet B Zapatillas para Hombre Blanco White C1000...'
 sku: 'B07DJ2X1Q1-es'
 tags: [ 'geox', ]

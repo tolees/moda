@@ -5,7 +5,7 @@ date: 2020-01-22 14:00:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XdU70hfQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVLZQ4T-es Under Armour Forefront Rain Chaqueta Mujer Gris MD'
 sku: 'B07QVLZQ4T-es'
 tags: [ 'chaqueta', ]

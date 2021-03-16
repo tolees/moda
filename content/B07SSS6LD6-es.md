@@ -5,7 +5,7 @@ date: 2020-09-23 04:37:50
 image: 'https://m.media-amazon.com/images/I/31yk5-cUwbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSS6LD6-es Geox D Genova Moc A Mocasines para Mujer Beige Sand C5004...'
 sku: 'B07SSS6LD6-es'
 tags: [ 'geox', ]

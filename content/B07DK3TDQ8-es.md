@@ -5,7 +5,7 @@ date: 2020-02-19 13:05:36
 image: 'https://m.media-amazon.com/images/I/41WZJRamqrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK3TDQ8-es Geox Jr Ciak Girl a Zapatillas Altas para Niñas Blanco...'
 sku: 'B07DK3TDQ8-es'
 tags: [ 'geox', ]

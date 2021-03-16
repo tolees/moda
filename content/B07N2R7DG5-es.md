@@ -5,7 +5,7 @@ date: 2020-05-12 10:13:56
 image: 'https://m.media-amazon.com/images/I/51gHPj0GhhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2R7DG5-es Talbot Torro Set de Badminton 2 Attacker Junior para Niños...'
 sku: 'B07N2R7DG5-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-01-05 20:23:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QyIRzQljL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNVX4GR-es SINOES Zapatos De Los Hombres De Microfibra Otoño De...'
 sku: 'B07MNVX4GR-es'
 tags: [ 'zapatos', ]

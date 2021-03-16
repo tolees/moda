@@ -5,7 +5,7 @@ date: 2020-06-01 13:24:31
 image: 'https://m.media-amazon.com/images/I/41k8ZPfubKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MB4F7K-es MagiDeal 30 Piezas Kit de Resaca Bolso Fiesta de Soltería...'
 sku: 'B079MB4F7K-es'
 tags: [ 'bolso', ]

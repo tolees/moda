@@ -5,7 +5,7 @@ date: 2020-08-14 08:34:10
 image: 'https://m.media-amazon.com/images/I/31oLl1FfQ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZK7V1B-es BOSS Trunk 3p Co/El Bóxer Multicolor Open Miscellaneous...'
 sku: 'B07TZK7V1B-es'
 tags: [ 'bóxer', ]

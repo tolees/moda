@@ -5,7 +5,7 @@ date: 2020-01-13 07:17:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41X0pRv3vxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ERWBWIA-es Joma Campus II Camiseta de Juego Manga Larga Hombre...'
 sku: 'B01ERWBWIA-es'
 tags: [ 'camiseta', ]

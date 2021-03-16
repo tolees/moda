@@ -5,7 +5,7 @@ date: 2020-06-27 19:44:46
 image: 'https://m.media-amazon.com/images/I/41n1h0FbW6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLXQRZ-es Geox D Sandal Vega A Sandalia con Pulsera para Mujer Azul...'
 sku: 'B07STLXQRZ-es'
 tags: [ 'geox', ]

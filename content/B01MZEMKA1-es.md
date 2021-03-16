@@ -5,7 +5,7 @@ date: 2020-09-27 19:12:07
 image: 'https://m.media-amazon.com/images/I/41Z6FtAM95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZEMKA1-es Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta...'
 sku: 'B01MZEMKA1-es'
 tags: [ 'camiseta', ]

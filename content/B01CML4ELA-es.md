@@ -5,7 +5,7 @@ date: 2020-02-16 12:16:14
 image: 'https://m.media-amazon.com/images/I/41xFVgdc72L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CML4ELA-es Valentino Rossi VRKFL353102001 Sudadera Responder Casco...'
 sku: 'B01CML4ELA-es'
 tags: [ 'sudadera', ]

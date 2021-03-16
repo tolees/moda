@@ -5,7 +5,7 @@ date: 2020-10-10 11:12:03
 image: 'https://m.media-amazon.com/images/I/51y+k3q4ATL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9W7FQ4-es Marca Amazon - find. Blusa Mujer Beige 38 Label: S'
 sku: 'B07F9W7FQ4-es'
 tags: [ '-','blusa','find.', ]

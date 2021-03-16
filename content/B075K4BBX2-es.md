@@ -5,7 +5,7 @@ date: 2020-01-30 10:09:20
 image: 'https://m.media-amazon.com/images/I/51XSQrEVnKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075K4BBX2-es SAGUARO® Invierno Al Aire Libre Zapatillas Caliente...'
 sku: 'B075K4BBX2-es'
 tags: [ 'zapatilla','zapatos', ]

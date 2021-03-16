@@ -5,7 +5,7 @@ date: 2020-09-26 09:33:00
 image: 'https://m.media-amazon.com/images/I/41R6uU5rl4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EOX01OI-es Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable...'
 sku: 'B01EOX01OI-es'
 tags: [ 'parka', ]

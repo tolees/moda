@@ -5,7 +5,7 @@ date: 2020-02-16 18:20:47
 image: 'https://m.media-amazon.com/images/I/41RKPzc7jJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752BGF4G-es G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros Dark Aged...'
 sku: 'B0752BGF4G-es'
 tags: [ 'vaqueros', ]

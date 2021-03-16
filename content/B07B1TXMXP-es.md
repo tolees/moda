@@ -5,7 +5,7 @@ date: 2020-09-04 08:01:53
 image: 'https://m.media-amazon.com/images/I/316C4ex1M9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B1TXMXP-es Fruit of the Loom- Camiseta de Manga Corta Sofspun para...'
 sku: 'B07B1TXMXP-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-19 11:25:39
 image: 'https://m.media-amazon.com/images/I/31epMG0Db8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ6YT7-es Lee Scarlett High Vaqueros Verde Agave Green MW 29W/31L...'
 sku: 'B07TSQ6YT7-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-04-11 00:45:13
 image: 'https://m.media-amazon.com/images/I/41zVe1seoqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9TLTQ3-es Michael Kors Bedford - Bolso para mujer 13 x 25 x 29 cm...'
 sku: 'B07T9TLTQ3-es'
 tags: [ 'bolso', ]

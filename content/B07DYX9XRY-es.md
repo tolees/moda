@@ -5,7 +5,7 @@ date: 2020-01-21 13:21:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vs3rseTaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYX9XRY-es Columbia Pike Lake Chaqueta Mujer Negro Black M'
 sku: 'B07DYX9XRY-es'
 tags: [ 'chaqueta', ]

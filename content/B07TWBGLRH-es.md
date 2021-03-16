@@ -5,7 +5,7 @@ date: 2020-06-24 08:26:30
 image: 'https://m.media-amazon.com/images/I/41oPv1ZtgjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWBGLRH-es Levi s The tee Camiseta Negro 90 s Serif T2 Caviar 0959...'
 sku: 'B07TWBGLRH-es'
 tags: [ 'camiseta', ]

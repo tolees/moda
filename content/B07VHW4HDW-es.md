@@ -5,7 +5,7 @@ date: 2020-09-14 02:06:37
 image: 'https://m.media-amazon.com/images/I/410SevC7iZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHW4HDW-es Desigual – Bols stardust Yangra Bolso de hombro para mujer...'
 sku: 'B07VHW4HDW-es'
 tags: [ 'bolso', ]

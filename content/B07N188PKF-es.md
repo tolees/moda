@@ -5,7 +5,7 @@ date: 2020-09-22 08:41:16
 image: 'https://m.media-amazon.com/images/I/41yqt20BXoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N188PKF-es G-STAR RAW ARC 3D Vaqueros Worker Blue Faded 25W / 34L...'
 sku: 'B07N188PKF-es'
 tags: [ 'vaqueros', ]

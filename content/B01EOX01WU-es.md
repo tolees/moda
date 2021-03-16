@@ -5,7 +5,7 @@ date: 2020-04-23 06:33:12
 image: 'https://m.media-amazon.com/images/I/41KBRsBfOPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EOX01WU-es Helly Hansen Coastal 2 Parka Chaqueta Impermeable...'
 sku: 'B01EOX01WU-es'
 tags: [ 'chaqueta','parka', ]

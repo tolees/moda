@@ -5,7 +5,7 @@ date: 2020-10-10 13:33:15
 image: 'https://m.media-amazon.com/images/I/41dqoFne9SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NTNDJ5-es Lacoste Sport TH0123 Camiseta Negro Noir Medium Talla del...'
 sku: 'B071NTNDJ5-es'
 tags: [ 'camiseta', ]

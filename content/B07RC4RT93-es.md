@@ -5,7 +5,7 @@ date: 2020-01-15 16:57:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413kmPqCdSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC4RT93-es Charles Wilson Pantalón Vaquero Lavado Ajuste Estrecho 38"...'
 sku: 'B07RC4RT93-es'
 tags: [ 'pantalón', ]

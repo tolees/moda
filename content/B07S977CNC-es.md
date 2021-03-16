@@ -5,7 +5,7 @@ date: 2020-09-03 11:38:14
 image: 'https://m.media-amazon.com/images/I/311R7GIvR2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S977CNC-es Crocs Classic II Flip Chanclas Unisex Adulto Azul Navy 410...'
 sku: 'B07S977CNC-es'
 tags: [ 'chanclas', ]

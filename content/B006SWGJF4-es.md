@@ -5,7 +5,7 @@ date: 2020-03-01 06:42:48
 image: 'https://m.media-amazon.com/images/I/31zTrjwl1FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006SWGJF4-es Helly Hansen W Seven J Chaqueta Mujer Negro M'
 sku: 'B006SWGJF4-es'
 tags: [ 'chaqueta', ]

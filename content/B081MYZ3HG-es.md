@@ -5,7 +5,7 @@ date: 2020-03-23 10:24:23
 image: 'https://m.media-amazon.com/images/I/519yOpH5ZqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081MYZ3HG-es Wesho Guantes Gimnasio XL Guantes Gimnasio Hombre...'
 sku: 'B081MYZ3HG-es'
 tags: [ 'guantes', ]

@@ -5,7 +5,7 @@ date: 2020-01-28 09:19:31
 image: 'https://m.media-amazon.com/images/I/51fuNKa9nTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0754FVFY6-es Botas de Agua Bota de Goma Mujer Impermeable lluvia...'
 sku: 'B0754FVFY6-es'
 tags: [ 'zapatos', ]

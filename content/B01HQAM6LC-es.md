@@ -5,7 +5,7 @@ date: 2020-03-19 09:10:02
 image: 'https://m.media-amazon.com/images/I/41yiQ0+2HQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HQAM6LC-es Crocs Crocband Zuecos Unisex Adulto Azul Blue/Yellow 41/42 EU'
 sku: 'B01HQAM6LC-es'
 tags: [ 'zuecos', ]

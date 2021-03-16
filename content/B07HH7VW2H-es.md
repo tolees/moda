@@ -5,7 +5,7 @@ date: 2020-02-01 18:04:31
 image: 'https://m.media-amazon.com/images/I/31kWJj2626L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH7VW2H-es Polaroid PLD 6056/S Gafas de Sol Multicolor Blk Ruth 55...'
 sku: 'B07HH7VW2H-es'
 tags: [ 'gafas', ]

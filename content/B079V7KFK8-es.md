@@ -5,7 +5,7 @@ date: 2020-01-09 15:14:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JOwf7TSJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079V7KFK8-es Wrangler Greensboro Regular Jeans Vaqueros Azul 33W / 34L...'
 sku: 'B079V7KFK8-es'
 tags: [ 'vaqueros', ]

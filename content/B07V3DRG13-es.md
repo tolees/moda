@@ -5,7 +5,7 @@ date: 2020-07-18 21:37:25
 image: 'https://m.media-amazon.com/images/I/41gSRbam0uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3DRG13-es HUGO Trunk Brother Pack Bóxer Azul Open Blue 465 Medium 2...'
 sku: 'B07V3DRG13-es'
 tags: [ 'bóxer', ]

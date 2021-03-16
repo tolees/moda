@@ -5,7 +5,7 @@ date: 2020-08-23 21:00:27
 image: 'https://m.media-amazon.com/images/I/31M5BSGTsKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSLM1YX-es REPLAY M4941d.000.80279a Camisa Negro Black 98 X-Large...'
 sku: 'B07BSLM1YX-es'
 tags: [ 'camisa', ]

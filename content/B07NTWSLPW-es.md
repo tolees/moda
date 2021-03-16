@@ -5,7 +5,7 @@ date: 2020-03-03 17:40:27
 image: 'https://m.media-amazon.com/images/I/31PHPugK8SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NTWSLPW-es Calvin Klein Chest Institutional Slim SS tee Camiseta Gris...'
 sku: 'B07NTWSLPW-es'
 tags: [ 'camiseta', ]

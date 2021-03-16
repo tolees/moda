@@ -5,7 +5,7 @@ date: 2020-06-29 14:39:22
 image: 'https://m.media-amazon.com/images/I/41WcJJr6knL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLPRFG-es Geox U Snake.2 A Zapatillas para Hombre Beige Beige/Taupe...'
 sku: 'B07STLPRFG-es'
 tags: [ 'geox', ]

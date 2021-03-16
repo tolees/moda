@@ -5,7 +5,7 @@ date: 2020-02-20 06:13:43
 image: 'https://m.media-amazon.com/images/I/31kJFgXB5hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3YBKM7-es Desigual Dress Briana Vestido Negro 2000 XL para Mujer'
 sku: 'B07N3YBKM7-es'
 tags: [ 'vestido', ]

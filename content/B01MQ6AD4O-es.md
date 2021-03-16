@@ -5,7 +5,7 @@ date: 2020-05-28 06:50:18
 image: 'https://m.media-amazon.com/images/I/41c9c3IJ3dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQ6AD4O-es Amazon Essentials Cotton Stretch Bikini Panty 6-Pack...'
 sku: 'B01MQ6AD4O-es'
 tags: [ 'bikini', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 09:08:59
 image: 'https://m.media-amazon.com/images/I/41IiW7AkRvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071SDJ5VM-es GEOX U740HA-022ME-C9997 DAMIAN Zapatilla de hombre color...'
 sku: 'B071SDJ5VM-es'
 tags: [ 'geox','zapatilla', ]

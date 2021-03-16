@@ -5,7 +5,7 @@ date: 2020-07-23 22:57:35
 image: 'https://m.media-amazon.com/images/I/31JQx148StL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XN3LYN-es Under Armour Armour Fleece Jogger Pantalón De Chándal...'
 sku: 'B077XN3LYN-es'
 tags: [ 'pantalón', ]

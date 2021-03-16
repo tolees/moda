@@ -5,7 +5,7 @@ date: 2020-06-01 10:39:06
 image: 'https://m.media-amazon.com/images/I/31Iv5hMNtSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B5MNLN-es Columbia CSC Basic Camiseta de Manga Corta Hombre Gris...'
 sku: 'B081B5MNLN-es'
 tags: [ 'camiseta', ]

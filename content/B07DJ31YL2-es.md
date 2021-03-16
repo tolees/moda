@@ -5,7 +5,7 @@ date: 2020-07-16 06:33:44
 image: 'https://m.media-amazon.com/images/I/41wiR2aik+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ31YL2-es Geox U Renan C Zapatillas para Hombre Gris Grey/Jeans...'
 sku: 'B07DJ31YL2-es'
 tags: [ 'geox', ]

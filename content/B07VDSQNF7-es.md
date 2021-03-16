@@ -5,7 +5,7 @@ date: 2020-03-09 15:27:27
 image: 'https://m.media-amazon.com/images/I/41hXOcDfL8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDSQNF7-es Fila Boxer para Hombre Multicolor Small pack de 4'
 sku: 'B07VDSQNF7-es'
 tags: [ 'boxer', ]

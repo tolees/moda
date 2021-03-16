@@ -5,7 +5,7 @@ date: 2020-02-18 10:25:43
 image: 'https://m.media-amazon.com/images/I/41apYRD25lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFCKX36-es Tous Doromy Bolso bandolera para Mujer Multicolor...'
 sku: 'B07PFCKX36-es'
 tags: [ 'bolso', ]

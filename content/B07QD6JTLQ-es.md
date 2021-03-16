@@ -5,7 +5,7 @@ date: 2020-02-24 10:46:03
 image: 'https://m.media-amazon.com/images/I/31to4jqwneL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD6JTLQ-es PUMA Nu-Tility Woven Jacket Chaqueta De Entrenamiento...'
 sku: 'B07QD6JTLQ-es'
 tags: [ 'chaqueta', ]

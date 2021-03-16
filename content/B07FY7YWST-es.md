@@ -5,7 +5,7 @@ date: 2020-05-14 12:27:24
 image: 'https://m.media-amazon.com/images/I/41WlfEoxAlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY7YWST-es Wrangler Kabel tee Camiseta Blanco White 312 X-Large para...'
 sku: 'B07FY7YWST-es'
 tags: [ 'camiseta', ]

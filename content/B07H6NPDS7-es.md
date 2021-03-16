@@ -5,7 +5,7 @@ date: 2020-10-11 11:24:57
 image: 'https://m.media-amazon.com/images/I/41H+ngUW2zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6NPDS7-es Lee Scarlett High Zip Vaqueros Skinny Azul Blue Aged Yz...'
 sku: 'B07H6NPDS7-es'
 tags: [ 'vaqueros', ]

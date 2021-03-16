@@ -5,7 +5,7 @@ date: 2020-06-17 12:06:10
 image: 'https://m.media-amazon.com/images/I/31yVoaC1RZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JGTXNK-es Marca Amazon - find. Blusa Mujer Azul Blau 44 Label: XL'
 sku: 'B073JGTXNK-es'
 tags: [ '-','blusa','find.', ]

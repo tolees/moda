@@ -5,7 +5,7 @@ date: 2020-06-14 03:54:37
 image: 'https://m.media-amazon.com/images/I/31nWRrOh4iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WQAH84-es Geox U Moner V Mocasines para Hombre Azul Blue C4000 39 EU'
 sku: 'B003WQAH84-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-04-01 06:59:16
 image: 'https://m.media-amazon.com/images/I/41M8V45FwuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KGG3W8-es Lee Elly Vaqueros Azul Mid Export Tm 26W / 31L para Mujer'
 sku: 'B079KGG3W8-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-05-13 16:55:39
 image: 'https://m.media-amazon.com/images/I/31ZN2qwobNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017NLN7WG-es HUGO Elisha01 Camisa Blanco Open White 199 X-Large Talla...'
 sku: 'B017NLN7WG-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-06-22 09:32:46
 image: 'https://m.media-amazon.com/images/I/31nAwj87bcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH3FMPS-es Pepe Jeans Pixie Pl200025 Vaqueros Skinny Gris Powerflex...'
 sku: 'B07JH3FMPS-es'
 tags: [ 'vaqueros', ]

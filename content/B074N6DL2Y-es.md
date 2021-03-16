@@ -5,7 +5,7 @@ date: 2020-04-20 15:25:02
 image: 'https://m.media-amazon.com/images/I/41RD-t9UYpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074N6DL2Y-es Clarks Cotrell Edge Zapatos de Cordones Derby para Hombre...'
 sku: 'B074N6DL2Y-es'
 tags: [ 'zapatos', ]

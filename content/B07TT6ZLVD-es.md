@@ -5,7 +5,7 @@ date: 2020-08-22 02:18:51
 image: 'https://m.media-amazon.com/images/I/41j2EA0c9WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT6ZLVD-es Levi s Plus Size Pl 501 Crop Stonewash Vaqueros Straight...'
 sku: 'B07TT6ZLVD-es'
 tags: [ 'vaqueros', ]

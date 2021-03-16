@@ -5,7 +5,7 @@ date: 2020-08-23 18:56:48
 image: 'https://m.media-amazon.com/images/I/31y4HvipL9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZMW6FN-es Ipanema Fashion Sand VII Fem Sandalias con Tira Vertical...'
 sku: 'B07WZMW6FN-es'
 tags: [ 'sandalias', ]

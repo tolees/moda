@@ -5,7 +5,7 @@ date: 2020-01-16 17:34:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DLjeV9jEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K9GR4X9-es 【Vuelta al Colegio】 REYLEO Organizador de Equipaje...'
 sku: 'B07K9GR4X9-es'
 tags: [ 'zapatos', ]

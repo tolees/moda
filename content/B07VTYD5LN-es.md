@@ -5,7 +5,7 @@ date: 2020-08-31 17:56:22
 image: 'https://m.media-amazon.com/images/I/41s5WdhjlaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTYD5LN-es Lee Rider Jacket Chaqueta de Jean Azul Oakwood Light XA...'
 sku: 'B07VTYD5LN-es'
 tags: [ 'chaqueta', ]

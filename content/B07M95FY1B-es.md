@@ -5,7 +5,7 @@ date: 2020-01-25 19:55:42
 image: 'https://m.media-amazon.com/images/I/31oKESqMdjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M95FY1B-es Lee Luke Vaqueros Dark Pool GP 28W / 34L para Hombre'
 sku: 'B07M95FY1B-es'
 tags: [ 'vaqueros', ]

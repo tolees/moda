@@ -5,7 +5,7 @@ date: 2020-03-30 16:18:14
 image: 'https://m.media-amazon.com/images/I/31-YjWCd-HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFDRN1L-es Vero Moda Vmmalena LS Rollneck Short Dress Noos Vestido...'
 sku: 'B07VFDRN1L-es'
 tags: [ 'moda','vestido', ]

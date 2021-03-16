@@ -5,7 +5,7 @@ date: 2019-12-31 15:32:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31IV-0upPUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19CSJ1-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros Dk Aged 6545-89...'
 sku: 'B07N19CSJ1-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-02-24 17:03:20
 image: 'https://m.media-amazon.com/images/I/31-wSNKHKyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19SWMW-es Lee Shirt Dress Vestido Azul Oil Blue Mo X-Large para Mujer'
 sku: 'B07N19SWMW-es'
 tags: [ 'vestido', ]

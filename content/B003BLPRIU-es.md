@@ -5,7 +5,7 @@ date: 2020-03-12 17:36:30
 image: 'https://m.media-amazon.com/images/I/41bRsf28-LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003BLPRIU-es crocs Baya Zuecos Unisex Adulto Gris Graphite 41/42 EU'
 sku: 'B003BLPRIU-es'
 tags: [ 'zuecos', ]

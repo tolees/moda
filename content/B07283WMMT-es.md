@@ -5,7 +5,7 @@ date: 2020-08-09 08:41:35
 image: 'https://m.media-amazon.com/images/I/41UgfEHjXjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07283WMMT-es Lacoste L1212 Camiseta Polo Azul Methylene F9F XS para Hombre'
 sku: 'B07283WMMT-es'
 tags: [ 'camiseta', ]

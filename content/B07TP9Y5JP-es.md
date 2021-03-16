@@ -5,7 +5,7 @@ date: 2020-01-27 08:34:46
 image: 'https://m.media-amazon.com/images/I/41etptGWI8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TP9Y5JP-es Qkiss Colgante de Diamantes de imitación de Plata Redondo...'
 sku: 'B07TP9Y5JP-es'
 tags: [ 'collar', ]

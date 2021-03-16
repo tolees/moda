@@ -5,7 +5,7 @@ date: 2020-07-20 03:24:27
 image: 'https://m.media-amazon.com/images/I/31pl-qgMKWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JR9BV7-es Marca Amazon - find. Camisa Hombre Marfil Stone M Label: M'
 sku: 'B071JR9BV7-es'
 tags: [ '-','camisa','find.', ]

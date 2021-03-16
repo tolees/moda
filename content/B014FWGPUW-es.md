@@ -5,7 +5,7 @@ date: 2020-05-31 12:14:10
 image: 'https://m.media-amazon.com/images/I/31ky6ynRzVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014FWGPUW-es Pepe Jeans Soho Vaqueros Negro 10Oz Washed Black S98 24W /...'
 sku: 'B014FWGPUW-es'
 tags: [ 'vaqueros', ]

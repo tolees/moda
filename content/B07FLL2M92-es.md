@@ -5,7 +5,7 @@ date: 2020-02-10 08:09:48
 image: 'https://m.media-amazon.com/images/I/415kfhBhBLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLL2M92-es David Jones - Bolso de Mano Trabajo Mujer - Shopper Tote...'
 sku: 'B07FLL2M92-es'
 tags: [ 'bolso', ]

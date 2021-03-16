@@ -5,7 +5,7 @@ date: 2020-06-25 20:02:47
 image: 'https://m.media-amazon.com/images/I/31KjP5G1xrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B5MNMQ-es Columbia Silver Ridge 2.0 Camisa de Manga Corta Hombre...'
 sku: 'B081B5MNMQ-es'
 tags: [ 'camisa', ]

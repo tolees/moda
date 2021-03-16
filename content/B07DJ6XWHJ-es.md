@@ -5,7 +5,7 @@ date: 2020-04-16 09:09:05
 image: 'https://m.media-amazon.com/images/I/41g0YgRezSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ6XWHJ-es Geox U Leitan B Zapatos de Cordones Derby para Hombre...'
 sku: 'B07DJ6XWHJ-es'
 tags: [ 'geox','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 17:47:33
 image: 'https://m.media-amazon.com/images/I/31fP1ZGoOBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QRCGJ8M-es Geox U NEBULA B - zapatilla deportiva de cuero hombre Azul...'
 sku: 'B00QRCGJ8M-es'
 tags: [ 'geox','zapatilla', ]

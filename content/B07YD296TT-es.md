@@ -5,7 +5,7 @@ date: 2020-02-18 11:35:43
 image: 'https://m.media-amazon.com/images/I/51SWL1x1BlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD296TT-es Kansoom Guantes de Dedo completos Viento cortante Azul S'
 sku: 'B07YD296TT-es'
 tags: [ 'guantes', ]

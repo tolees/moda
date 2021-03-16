@@ -5,7 +5,7 @@ date: 2020-01-14 19:57:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LKQBJo08L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSK5ZBD-es Clarks - Botines de Cuero Hombre Color Marrón Talla 39.5 EU'
 sku: 'B07MSK5ZBD-es'
 tags: [ 'botines', ]

@@ -5,7 +5,7 @@ date: 2020-10-08 06:40:43
 image: 'https://m.media-amazon.com/images/I/41rlmDu11XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000G23ELY-es Timberland Classic 2 Eye Náuticos para Hombre Marrón...'
 sku: 'B000G23ELY-es'
 tags: [ 'timberland', ]

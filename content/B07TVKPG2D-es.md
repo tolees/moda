@@ -5,7 +5,7 @@ date: 2020-07-11 12:43:48
 image: 'https://m.media-amazon.com/images/I/31+titPeL6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVKPG2D-es Wrangler Flare Vaqueros evasé Azul Holiday 12y W24/L32...'
 sku: 'B07TVKPG2D-es'
 tags: [ 'vaqueros', ]

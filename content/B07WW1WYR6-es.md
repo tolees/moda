@@ -5,7 +5,7 @@ date: 2020-01-26 12:18:53
 image: 'https://m.media-amazon.com/images/I/415hfUTuJcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WW1WYR6-es Charles Wilson Originals Sudadera Algodón Ligera Capucha...'
 sku: 'B07WW1WYR6-es'
 tags: [ 'sudadera', ]

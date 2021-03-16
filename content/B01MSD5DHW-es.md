@@ -5,7 +5,7 @@ date: 2020-08-09 10:18:20
 image: 'https://m.media-amazon.com/images/I/41ya0UGzkYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSD5DHW-es Crocs Baya Zuecos Unisex Adulto Marrón Espresso 37/38 EU'
 sku: 'B01MSD5DHW-es'
 tags: [ 'zuecos', ]

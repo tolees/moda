@@ -5,7 +5,7 @@ date: 2020-01-15 08:35:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41o9jXJeP8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPHVD81-es Desigual Vest_vermond Vestido Negro 2000 40 para Mujer'
 sku: 'B06XPHVD81-es'
 tags: [ 'vestido', ]

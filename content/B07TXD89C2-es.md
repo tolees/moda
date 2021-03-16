@@ -5,7 +5,7 @@ date: 2020-07-17 16:20:53
 image: 'https://m.media-amazon.com/images/I/41DX3qeHodL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXD89C2-es Superdry Rainbow Sleek Flip Flop Chanclas para Mujer...'
 sku: 'B07TXD89C2-es'
 tags: [ 'chanclas', ]

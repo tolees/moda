@@ -5,7 +5,7 @@ date: 2020-02-21 10:57:25
 image: 'https://m.media-amazon.com/images/I/41fiPjCmI1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S19MSGN-es Esprit 089ee2g001 Chaqueta Marrón Toffee 225 XXX-Large...'
 sku: 'B07S19MSGN-es'
 tags: [ 'chaqueta', ]

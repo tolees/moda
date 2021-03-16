@@ -5,7 +5,7 @@ date: 2020-03-04 14:18:00
 image: 'https://m.media-amazon.com/images/I/313vLDHp0gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RX6D2R2-es Esprit 089ee2k011 Camiseta Azul Navy 400 X-Large para Hombre'
 sku: 'B07RX6D2R2-es'
 tags: [ 'camiseta', ]

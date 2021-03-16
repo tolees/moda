@@ -5,7 +5,7 @@ date: 2020-07-30 09:02:00
 image: 'https://m.media-amazon.com/images/I/5120khSoYmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899JPMST-es Zapatos de Seguridad para Mujer Zapatillas Zapatos de...'
 sku: 'B0899JPMST-es'
 tags: [ 'zapatos', ]

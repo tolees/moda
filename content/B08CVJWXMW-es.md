@@ -5,7 +5,7 @@ date: 2020-10-02 12:12:18
 image: 'https://m.media-amazon.com/images/I/417hQ9tneJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVJWXMW-es Ganchos Carrito Bebé 6 Piezas Ganchos para Silla de Paseo...'
 sku: 'B08CVJWXMW-es'
 tags: [ 'bolso', ]

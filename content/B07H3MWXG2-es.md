@@ -5,7 +5,7 @@ date: 2020-07-03 13:58:40
 image: 'https://m.media-amazon.com/images/I/31ualtOSdgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3MWXG2-es Chaleco para perro sin tirones ajustable correa para el...'
 sku: 'B07H3MWXG2-es'
 tags: [ 'chaleco', ]

@@ -5,7 +5,7 @@ date: 2020-01-22 16:06:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417xgBzhWTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3XKS3O-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros 3D Dark Aged...'
 sku: 'B01M3XKS3O-es'
 tags: [ 'vaqueros', ]

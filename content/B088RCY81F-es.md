@@ -5,7 +5,7 @@ date: 2020-07-06 08:26:39
 image: 'https://m.media-amazon.com/images/I/51nZ7M3BKWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088RCY81F-es Guantes Tácticos 1 PZ Guante Bicicleta Montaña Verano...'
 sku: 'B088RCY81F-es'
 tags: [ 'guantes', ]

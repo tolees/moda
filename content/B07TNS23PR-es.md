@@ -5,7 +5,7 @@ date: 2020-07-14 09:38:49
 image: 'https://m.media-amazon.com/images/I/41vw3vfPfdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNS23PR-es Superdry OL Vintage Emb Crew Camiseta Gris Silver Glass...'
 sku: 'B07TNS23PR-es'
 tags: [ 'camiseta', ]

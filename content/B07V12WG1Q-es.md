@@ -5,7 +5,7 @@ date: 2020-05-10 13:03:06
 image: 'https://m.media-amazon.com/images/I/31qoD8SIupL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V12WG1Q-es Women s Secret Multilicense College MC DS Bunny PJ FR...'
 sku: 'B07V12WG1Q-es'
 tags: [ 'pijama', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 18:18:32
 image: 'https://m.media-amazon.com/images/I/41gkEynT1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQZG22-es Pepe Jeans Golders Camiseta Gris Misty Grey 921 Medium...'
 sku: 'B07MZQZG22-es'
 tags: [ 'camiseta', ]

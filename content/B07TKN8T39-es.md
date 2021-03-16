@@ -5,7 +5,7 @@ date: 2020-04-29 14:53:40
 image: 'https://m.media-amazon.com/images/I/41skh9FOTSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKN8T39-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Beige...'
 sku: 'B07TKN8T39-es'
 tags: [ 'zapatos', ]

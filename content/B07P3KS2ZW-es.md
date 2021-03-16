@@ -5,7 +5,7 @@ date: 2020-06-13 07:40:14
 image: 'https://m.media-amazon.com/images/I/31RfibcmZ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3KS2ZW-es GRACE KARIN Mujer Vestido Fuera del Hombro Vintage Retro...'
 sku: 'B07P3KS2ZW-es'
 tags: [ 'vestido', ]

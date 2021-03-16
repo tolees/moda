@@ -5,7 +5,7 @@ date: 2020-03-08 03:02:43
 image: 'https://m.media-amazon.com/images/I/31jOVOhfTbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2KR46P-es Timberland Dausette Low Zapatillas Altas para Mujer Rojo...'
 sku: 'B07K2KR46P-es'
 tags: [ 'timberland', ]

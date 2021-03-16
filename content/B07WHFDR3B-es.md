@@ -5,7 +5,7 @@ date: 2020-09-04 04:39:07
 image: 'https://m.media-amazon.com/images/I/41IPb1l1n2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHFDR3B-es Zapatillas Casa Hombre Mujer Invierno Calido Zapatillas...'
 sku: 'B07WHFDR3B-es'
 tags: [ 'zapatilla', ]

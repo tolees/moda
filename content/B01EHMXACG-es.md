@@ -5,7 +5,7 @@ date: 2020-09-18 10:32:39
 image: 'https://m.media-amazon.com/images/I/31smpylG-eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EHMXACG-es Rnow - Gafas Premium unisex estilo retro moda en óptica...'
 sku: 'B01EHMXACG-es'
 tags: [ 'gafas','moda', ]

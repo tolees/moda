@@ -5,7 +5,7 @@ date: 2020-03-04 17:38:56
 image: 'https://m.media-amazon.com/images/I/41VLRKCz6vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072QW9S9Q-es Lee Logo tee Camiseta Negro Black Ai01 Large para Hombre'
 sku: 'B072QW9S9Q-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-02 07:43:37
 image: 'https://m.media-amazon.com/images/I/41FLSwSYlmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZK6NXQ-es BOSS Boxer Brief 3p Co Multicolor Open Miscellaneous 963...'
 sku: 'B07TZK6NXQ-es'
 tags: [ 'boxer', ]

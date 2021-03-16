@@ -5,7 +5,7 @@ date: 2020-08-07 13:06:00
 image: 'https://m.media-amazon.com/images/I/414qpPj-4zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GYVVGH-es Crocs Crocband Sandal Kids Sandalias Unisex Niños Rosa...'
 sku: 'B077GYVVGH-es'
 tags: [ 'sandalias', ]

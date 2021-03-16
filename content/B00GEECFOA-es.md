@@ -5,7 +5,7 @@ date: 2020-05-24 15:04:04
 image: 'https://m.media-amazon.com/images/I/41pLM0x+EFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GEECFOA-es Rieker Mujer Sandalias de Vestir 62461 señora Sandalias de...'
 sku: 'B00GEECFOA-es'
 tags: [ 'sandalias','zapatos', ]

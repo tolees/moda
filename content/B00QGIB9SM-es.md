@@ -5,7 +5,7 @@ date: 2020-09-15 01:46:53
 image: 'https://m.media-amazon.com/images/I/41MTQuhjbZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QGIB9SM-es adidas ESS 3S Chelsea - Pantalón corto para hombre color...'
 sku: 'B00QGIB9SM-es'
 tags: [ 'pantalón', ]

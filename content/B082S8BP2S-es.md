@@ -5,7 +5,7 @@ date: 2020-07-08 04:10:22
 image: 'https://m.media-amazon.com/images/I/31JSIxFLrEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082S8BP2S-es YIMI Gafas de Sol Hombre Deportivas Polarizadas...'
 sku: 'B082S8BP2S-es'
 tags: [ 'gafas', ]

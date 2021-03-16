@@ -5,7 +5,7 @@ date: 2020-04-21 14:32:26
 image: 'https://m.media-amazon.com/images/I/41AhRU3xplL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1R3BQ-es Napapijri TERRES Sudadera Gris Dark Grey Solid 198 S para...'
 sku: 'B07MK1R3BQ-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-09-20 23:58:33
 image: 'https://m.media-amazon.com/images/I/41Xl-Y8KcBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6D75KB-es Skechers Reggae Slim-Vacay Sandalias de Talón Abierto para...'
 sku: 'B01M6D75KB-es'
 tags: [ 'sandalias', ]

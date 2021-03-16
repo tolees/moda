@@ -5,7 +5,7 @@ date: 2020-07-21 08:20:45
 image: 'https://m.media-amazon.com/images/I/31CsVNlhMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001Q3KIJS-es Reef Smoothy - Chanclas para hombre Negro 44 EU'
 sku: 'B001Q3KIJS-es'
 tags: [ 'chanclas', ]

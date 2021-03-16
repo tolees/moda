@@ -5,7 +5,7 @@ date: 2020-05-21 22:42:33
 image: 'https://m.media-amazon.com/images/I/41LHO4Dhk6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L4NA9LW-es Columbia Flash Forward Chaqueta cortavientos Mujer Negro...'
 sku: 'B00L4NA9LW-es'
 tags: [ 'chaqueta', ]

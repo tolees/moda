@@ -5,7 +5,7 @@ date: 2020-06-27 14:31:27
 image: 'https://m.media-amazon.com/images/I/31aX2RBDLcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792TCWLB-es Geox Arzach B Zapatillas para Niños Negro Black C9999 37 EU'
 sku: 'B0792TCWLB-es'
 tags: [ 'geox', ]

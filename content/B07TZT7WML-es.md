@@ -5,7 +5,7 @@ date: 2020-04-30 11:23:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MrTPZOZcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZT7WML-es Wrangler ICONS Vaqueros Slim Azul 3 Years 10k W40/L34...'
 sku: 'B07TZT7WML-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-25 14:21:32
 image: 'https://m.media-amazon.com/images/I/51GuYKFk+IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PWN1NWY-es KRISP Vestido Moda Mujer Fruncido Granate 6487 38 6487-WIN-10'
 sku: 'B00PWN1NWY-es'
 tags: [ 'moda','vestido', ]

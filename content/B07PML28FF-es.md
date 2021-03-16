@@ -5,7 +5,7 @@ date: 2020-02-01 11:10:43
 image: 'https://m.media-amazon.com/images/I/41l3VKt3drL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PML28FF-es MTNG Mauri Bolso Mochila para Mujer Negro Antel/Liso Neg...'
 sku: 'B07PML28FF-es'
 tags: [ 'bolso', ]

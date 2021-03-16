@@ -5,7 +5,7 @@ date: 2020-05-11 17:35:14
 image: 'https://m.media-amazon.com/images/I/41AzFkDrYuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZFDWG6-es Jack & Jones JJEPAULOS Polo SS Noos Camisa Azul Vaquero L...'
 sku: 'B083ZFDWG6-es'
 tags: [ 'camisa', ]

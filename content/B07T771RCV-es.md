@@ -5,7 +5,7 @@ date: 2020-02-16 11:38:45
 image: 'https://m.media-amazon.com/images/I/31Ara4d+0nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T771RCV-es Mercedes-Benz Sonnenbrille M7008 Gafas de sol Azul Blau...'
 sku: 'B07T771RCV-es'
 tags: [ 'gafas', ]

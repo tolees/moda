@@ -5,7 +5,7 @@ date: 2020-06-20 16:01:38
 image: 'https://m.media-amazon.com/images/I/41QTW1aR8tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N39ZTBX-es Desigual Shirt Frida Camisa Blanco Blanco 1000 M para Mujer'
 sku: 'B07N39ZTBX-es'
 tags: [ 'camisa', ]

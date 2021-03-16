@@ -5,7 +5,7 @@ date: 2020-08-09 17:16:19
 image: 'https://m.media-amazon.com/images/I/41fQ0gFXw4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C51X7NH-es Mini Mango clásico de Cuerda con Inserto de Lona Bolsa...'
 sku: 'B08C51X7NH-es'
 tags: [ 'bolso', ]

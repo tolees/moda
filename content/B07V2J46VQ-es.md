@@ -5,7 +5,7 @@ date: 2020-09-02 09:32:53
 image: 'https://m.media-amazon.com/images/I/41Rm54xRqSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2J46VQ-es Tommy Hilfiger Corporate Leather Wedge Sandal Sandalias...'
 sku: 'B07V2J46VQ-es'
 tags: [ 'sandalias', ]

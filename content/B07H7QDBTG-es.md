@@ -5,7 +5,7 @@ date: 2020-01-14 21:17:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hoy--j5CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7QDBTG-es Softinos Evi523sof Zapatos y Bolsos para Mujer Pearl Grey...'
 sku: 'B07H7QDBTG-es'
 tags: [ 'zapatos', ]

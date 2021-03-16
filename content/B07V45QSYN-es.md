@@ -5,7 +5,7 @@ date: 2020-08-26 16:41:59
 image: 'https://m.media-amazon.com/images/I/31c5Xk6kjEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V45QSYN-es Salomon Coton Logo SS tee M Camiseta de Manga Corta Hombre...'
 sku: 'B07V45QSYN-es'
 tags: [ 'camiseta', ]

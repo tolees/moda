@@ -5,7 +5,7 @@ date: 2020-05-01 09:22:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31v7NULUYFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ML5KCD-es MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico...'
 sku: 'B079ML5KCD-es'
 tags: [ 'camiseta','meraki', ]

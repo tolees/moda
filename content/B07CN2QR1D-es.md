@@ -5,7 +5,7 @@ date: 2020-01-25 12:56:21
 image: 'https://m.media-amazon.com/images/I/31AJ2nT8VhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN2QR1D-es Calvin Klein Sonnenbrille Ck4359S 22 Gafas de sol Rosa...'
 sku: 'B07CN2QR1D-es'
 tags: [ 'gafas', ]

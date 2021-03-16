@@ -5,7 +5,7 @@ date: 2020-01-07 09:54:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414RfMSOamL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNZKLJG-es Lacoste Th8550 Camiseta Azul Marine 166 X-Small Talla del...'
 sku: 'B07MNZKLJG-es'
 tags: [ 'camiseta', ]

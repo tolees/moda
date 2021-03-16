@@ -5,7 +5,7 @@ date: 2020-04-01 06:59:06
 image: 'https://m.media-amazon.com/images/I/418y0V8+KLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8VLGJ7-es Lee Elly Vaqueros Negro/Lavado Negro Light Blue Taos Bg...'
 sku: 'B07M8VLGJ7-es'
 tags: [ 'vaqueros', ]

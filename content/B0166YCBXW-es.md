@@ -5,7 +5,7 @@ date: 2020-08-29 20:02:11
 image: 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0166YCBXW-es Levi s 711 Skinny Vaqueros Negro Blacks W26/L34 para Mujer'
 sku: 'B0166YCBXW-es'
 tags: [ 'vaqueros', ]

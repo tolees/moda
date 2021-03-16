@@ -5,7 +5,7 @@ date: 2020-07-12 04:17:00
 image: 'https://m.media-amazon.com/images/I/411uMPL9ExL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWBSFK7-es Clarks Crown Stem K Sandalias Punta Cerrada para Niños...'
 sku: 'B07TWBSFK7-es'
 tags: [ 'sandalias', ]

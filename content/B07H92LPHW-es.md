@@ -5,7 +5,7 @@ date: 2020-03-14 00:57:20
 image: 'https://m.media-amazon.com/images/I/41tM7s2oSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H92LPHW-es Gennia RESPIRO. - Zapatos de Tacon de Aguja 9 cm con Punta...'
 sku: 'B07H92LPHW-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-16 12:51:03
 image: 'https://m.media-amazon.com/images/I/31rIIq+hwwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVYY5XQ-es Quiksilver Molokai Eclipsed Deluxe Zapatos de Playa y...'
 sku: 'B07SVYY5XQ-es'
 tags: [ 'zapatos', ]

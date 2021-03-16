@@ -5,7 +5,7 @@ date: 2020-06-06 18:52:51
 image: 'https://m.media-amazon.com/images/I/316TxkT3akL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNTTY4F-es Lee Luke Vaqueros Moto Flat EB 32W / 34L para Hombre'
 sku: 'B07VNTTY4F-es'
 tags: [ 'vaqueros', ]

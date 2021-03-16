@@ -5,7 +5,7 @@ date: 2020-03-09 17:38:06
 image: 'https://m.media-amazon.com/images/I/41F-V-WEghL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLTLQHN-es Geox D Kaula B ABX C Botas de Nieve para Mujer Marrón...'
 sku: 'B07MLTLQHN-es'
 tags: [ 'geox', ]

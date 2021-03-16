@@ -5,7 +5,7 @@ date: 2020-10-11 08:27:29
 image: 'https://m.media-amazon.com/images/I/31dk5PijKwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7M24HN-es Under Armour Rush Heatgear Compression Camisa de Manga...'
 sku: 'B07Q7M24HN-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-02-25 11:35:07
 image: 'https://m.media-amazon.com/images/I/51Cv0Vi3a2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPKW3-es Napapijri Aric Chaqueta Azul French Blue BB7 S para Hombre'
 sku: 'B07MCSPKW3-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-04-12 19:12:38
 image: 'https://m.media-amazon.com/images/I/31NJ4ZqaDpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY17MG3-es JACK & JONES Jjiliam Jjoriginal Am 792 50sps Noos Vaqueros...'
 sku: 'B07JY17MG3-es'
 tags: [ 'vaqueros', ]

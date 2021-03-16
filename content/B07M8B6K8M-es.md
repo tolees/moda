@@ -5,7 +5,7 @@ date: 2020-01-19 17:08:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31A%2BO%2Bf5xuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8B6K8M-es Wrangler Jacksville Vaqueros Corte de Bota Azul Black...'
 sku: 'B07M8B6K8M-es'
 tags: [ 'vaqueros', ]

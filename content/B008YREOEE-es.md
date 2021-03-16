@@ -5,7 +5,7 @@ date: 2020-01-28 11:12:36
 image: 'https://m.media-amazon.com/images/I/41665+04m3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008YREOEE-es JACK & JONES Basic O-Neck tee S/S Noos Camiseta Grau Light...'
 sku: 'B008YREOEE-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-20 08:01:05
 image: 'https://m.media-amazon.com/images/I/317PTliup2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S975PRB-es Crocs Crocband Flip Women Chanclas para Mujer Azul Navy...'
 sku: 'B07S975PRB-es'
 tags: [ 'chanclas', ]

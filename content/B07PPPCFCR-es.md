@@ -5,7 +5,7 @@ date: 2020-03-12 15:24:30
 image: 'https://m.media-amazon.com/images/I/41zWjESEUsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPPCFCR-es MTNG Bengala Bolso bandolera para Mujer Negro Nylon Negro...'
 sku: 'B07PPPCFCR-es'
 tags: [ 'bolso', ]

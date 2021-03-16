@@ -5,7 +5,7 @@ date: 2020-05-28 15:40:21
 image: 'https://m.media-amazon.com/images/I/312awAn0t7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T74G8PV-es Tag Heuer Brillengestelle Th-0552 Monturas de gafas...'
 sku: 'B07T74G8PV-es'
 tags: [ 'gafas', ]

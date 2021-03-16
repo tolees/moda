@@ -5,7 +5,7 @@ date: 2020-08-23 09:19:56
 image: 'https://m.media-amazon.com/images/I/41maVaAe0VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4QV6D-es Levi s Type 3 Chaqueta Vaquera Azul Palmer Sherpa Trucker...'
 sku: 'B07KF4QV6D-es'
 tags: [ 'chaqueta', ]

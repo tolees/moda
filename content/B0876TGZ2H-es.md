@@ -5,7 +5,7 @@ date: 2020-04-17 18:40:28
 image: 'https://m.media-amazon.com/images/I/41E88oAIN-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876TGZ2H-es Bebé Mono Mameluco de Manga Larga Niños Niñas Body Peleles...'
 sku: 'B0876TGZ2H-es'
 tags: [ 'pijama', ]

@@ -5,7 +5,7 @@ date: 2020-05-01 17:15:22
 image: 'https://m.media-amazon.com/images/I/41LPJDmlQ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4RZW2K-es Camiseta de Baloncesto NBA Chicago Bulls para Hombre...'
 sku: 'B07V4RZW2K-es'
 tags: [ 'camiseta','jersey', ]

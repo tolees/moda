@@ -5,7 +5,7 @@ date: 2020-01-14 11:46:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q4kvqwUPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721QF1FH-es Taifun Mousse au Chocolat Vestido para Mujer Mehrfarbig...'
 sku: 'B0721QF1FH-es'
 tags: [ 'vestido', ]

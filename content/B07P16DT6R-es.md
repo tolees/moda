@@ -5,7 +5,7 @@ date: 2020-03-08 11:36:40
 image: 'https://m.media-amazon.com/images/I/41iWoq8b+zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P16DT6R-es Superdry Padded Elite Jacket Chaqueta Verde Warm Olive M6c...'
 sku: 'B07P16DT6R-es'
 tags: [ 'chaqueta', ]

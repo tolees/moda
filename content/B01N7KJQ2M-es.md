@@ -5,7 +5,7 @@ date: 2020-07-23 08:01:19
 image: 'https://m.media-amazon.com/images/I/414gdN4xWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7KJQ2M-es Crocs Crocband Flip Chanclas Unisex-Adult Multi 42/43 EU'
 sku: 'B01N7KJQ2M-es'
 tags: [ 'chanclas', ]

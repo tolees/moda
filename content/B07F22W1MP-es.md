@@ -5,7 +5,7 @@ date: 2020-05-27 18:28:04
 image: 'https://m.media-amazon.com/images/I/41GAZdmUIvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F22W1MP-es Timberland Classic 2 Eye Náuticos para Hombre Marrón Mid...'
 sku: 'B07F22W1MP-es'
 tags: [ 'timberland', ]

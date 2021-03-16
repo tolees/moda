@@ -5,7 +5,7 @@ date: 2020-02-18 09:42:48
 image: 'https://m.media-amazon.com/images/I/41FQZbLQADL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQVJ41-es Pepe Jeans Nanete Sudadera Azul Blue 551 Medium para Mujer'
 sku: 'B07MZQVJ41-es'
 tags: [ 'sudadera', ]

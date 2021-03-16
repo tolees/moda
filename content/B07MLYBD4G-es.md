@@ -5,7 +5,7 @@ date: 2020-10-10 14:08:33
 image: 'https://m.media-amazon.com/images/I/41O9+Am-GGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLYBD4G-es Geox B Tutim A Zapatillas Bebés Beige Biscuit C5046 23 EU'
 sku: 'B07MLYBD4G-es'
 tags: [ 'geox', ]

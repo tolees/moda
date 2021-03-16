@@ -5,7 +5,7 @@ date: 2020-04-20 18:04:05
 image: 'https://m.media-amazon.com/images/I/41RJmusyFeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08521YFFF-es Timberland Squall Canyon WT Pull ON MARRÓN TB0A296N9011'
 sku: 'B08521YFFF-es'
 tags: [ 'timberland', ]

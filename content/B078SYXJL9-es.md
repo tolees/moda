@@ -5,7 +5,7 @@ date: 2020-08-09 09:54:16
 image: 'https://m.media-amazon.com/images/I/31QC-RfwP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SYXJL9-es Timberland Newport Bay 2 Eye Mocasines para Hombre Negro...'
 sku: 'B078SYXJL9-es'
 tags: [ 'timberland', ]

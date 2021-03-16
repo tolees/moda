@@ -5,7 +5,7 @@ date: 2020-03-11 09:04:06
 image: 'https://m.media-amazon.com/images/I/31zfRLMcVpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDJB29T-es Levi s LS Battery Hm Shirt Camisa Blanco White 0000 Large...'
 sku: 'B07GDJB29T-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-05-24 19:01:57
 image: 'https://m.media-amazon.com/images/I/41cXQayv1UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ7ZBPV-es Marca Amazon - Iris & Lilly Sujetador de Tul Super Push Up...'
 sku: 'B07TQ7ZBPV-es'
 tags: [ '&','iris','lilly', ]

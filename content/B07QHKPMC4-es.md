@@ -5,7 +5,7 @@ date: 2020-05-12 09:53:43
 image: 'https://m.media-amazon.com/images/I/31ltXPq3QmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHKPMC4-es Marca Amazon - AURIQUE Mallas de Deporte Capri de Tiro...'
 sku: 'B07QHKPMC4-es'
 tags: [ 'aurique', ]

@@ -5,7 +5,7 @@ date: 2020-09-25 14:35:09
 image: 'https://m.media-amazon.com/images/I/41k1GmPt0bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYCJF9Z-es Amazon Essentials Sudadera Ligera de Felpa Francesa con...'
 sku: 'B07VYCJF9Z-es'
 tags: [ 'sudadera', ]

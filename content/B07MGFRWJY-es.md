@@ -5,7 +5,7 @@ date: 2020-08-08 14:02:31
 image: 'https://m.media-amazon.com/images/I/41EL0UCw-zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRWJY-es Napapijri TERRES Sudadera Verde Green Forest 2 Ge3 L para...'
 sku: 'B07MGFRWJY-es'
 tags: [ 'sudadera', ]

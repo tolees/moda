@@ -5,7 +5,7 @@ date: 2020-02-12 10:23:48
 image: 'https://m.media-amazon.com/images/I/31+T8EaI7lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB725KN-es Esprit 099eo1g039 Abrigo Beige Dusty Nude 5 279 X-Large...'
 sku: 'B07VB725KN-es'
 tags: [ 'abrigo', ]

@@ -5,7 +5,7 @@ date: 2020-10-10 20:05:05
 image: 'https://m.media-amazon.com/images/I/41ZduBwrWnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HRRPN1-es adidas CORE18 TR Top Sudadera Hombre Power Red/White XL'
 sku: 'B076HRRPN1-es'
 tags: [ 'sudadera', ]

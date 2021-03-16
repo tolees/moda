@@ -5,7 +5,7 @@ date: 2020-01-16 20:17:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415Q0vxZydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GWPNLK-es find. Camiseta Con Estampado Hombre Azul Blue Large'
 sku: 'B078GWPNLK-es'
 tags: [ 'camiseta', ]

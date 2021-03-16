@@ -5,7 +5,7 @@ date: 2020-02-29 03:10:37
 image: 'https://m.media-amazon.com/images/I/41TXBIAAT-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JDV50HO-es Timberland Killington Botas Clasicas para Hombre Beige...'
 sku: 'B01JDV50HO-es'
 tags: [ 'timberland', ]

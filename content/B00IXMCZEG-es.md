@@ -5,7 +5,7 @@ date: 2020-06-05 08:32:08
 image: 'https://m.media-amazon.com/images/I/31IOvMp+hRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IXMCZEG-es Joma Nobel Pantalón de equipación Amarillo XL'
 sku: 'B00IXMCZEG-es'
 tags: [ 'pantalón', ]

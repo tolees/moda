@@ -5,7 +5,7 @@ date: 2020-03-31 06:34:17
 image: 'https://m.media-amazon.com/images/I/41G02PAOdfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC8JWVM-es Columbia Powder Lite Chaleco Mujer Rojo Beet S'
 sku: 'B07RC8JWVM-es'
 tags: [ 'chaleco', ]

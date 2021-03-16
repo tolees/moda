@@ -5,7 +5,7 @@ date: 2020-04-07 15:28:03
 image: 'https://m.media-amazon.com/images/I/51lt4GXeD+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJ7Z3T-es Kipling Art Bolso de Mano para Mujer Negro Black Indigo...'
 sku: 'B07MVJ7Z3T-es'
 tags: [ 'bolso', ]

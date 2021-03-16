@@ -5,7 +5,7 @@ date: 2020-03-20 14:03:58
 image: 'https://m.media-amazon.com/images/I/31+RQxZ1l5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004LWANP0-es ALPRO A 630 - Zuecos de material sintético unisex negro -...'
 sku: 'B004LWANP0-es'
 tags: [ 'zuecos', ]

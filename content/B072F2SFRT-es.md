@@ -5,7 +5,7 @@ date: 2020-01-15 10:18:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31kY42IVRUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072F2SFRT-es SELECTED FEMME Sfranja SS Highneck Dress Vestido Mujer...'
 sku: 'B072F2SFRT-es'
 tags: [ 'vestido', ]

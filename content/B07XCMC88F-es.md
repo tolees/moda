@@ -5,7 +5,7 @@ date: 2020-02-17 13:38:08
 image: 'https://m.media-amazon.com/images/I/51v3tW5NdTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCMC88F-es coskefy Guantes Moto Invierno Guantes Termicos para Hombre...'
 sku: 'B07XCMC88F-es'
 tags: [ 'guantes', ]

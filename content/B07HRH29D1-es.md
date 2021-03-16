@@ -5,7 +5,7 @@ date: 2020-08-28 07:38:25
 image: 'https://m.media-amazon.com/images/I/31jyj-uBL5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRH29D1-es Alvivi Uniforme de Trabajo Bata Blanca Abrigo de...'
 sku: 'B07HRH29D1-es'
 tags: [ 'abrigo','chaqueta', ]

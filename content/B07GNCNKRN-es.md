@@ -5,7 +5,7 @@ date: 2020-08-04 17:33:29
 image: 'https://m.media-amazon.com/images/I/51dSGRzC9ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNCNKRN-es KidSwim - Gafas de natación para niños de 4 a 12 años sin...'
 sku: 'B07GNCNKRN-es'
 tags: [ 'gafas', ]

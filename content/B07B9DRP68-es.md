@@ -5,7 +5,7 @@ date: 2020-02-23 08:36:43
 image: 'https://m.media-amazon.com/images/I/510rOt2ZTML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9DRP68-es Tous Kaos Mini - Monedero para Mujer Beige 13 x 11 x 2 cm'
 sku: 'B07B9DRP68-es'
 tags: [ 'monedero', ]

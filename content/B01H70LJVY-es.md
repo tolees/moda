@@ -5,7 +5,7 @@ date: 2020-06-24 16:04:50
 image: 'https://m.media-amazon.com/images/I/31pUXUZIx4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H70LJVY-es crocs 203998 Chanclas Mujer Negro Black/White 41/42 EU W...'
 sku: 'B01H70LJVY-es'
 tags: [ 'chanclas', ]

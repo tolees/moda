@@ -5,7 +5,7 @@ date: 2020-01-17 13:46:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WTCbRD2bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRLL58B-es Kipling ONALO Bolso de gimnasio 45 cm 18 liters Azul...'
 sku: 'B07DRLL58B-es'
 tags: [ 'bolso', ]

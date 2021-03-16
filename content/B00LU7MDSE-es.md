@@ -5,7 +5,7 @@ date: 2020-09-09 10:08:40
 image: 'https://m.media-amazon.com/images/I/41590MItztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LU7MDSE-es Helly Hansen Crew Chaqueta Hombre Negro Black S'
 sku: 'B00LU7MDSE-es'
 tags: [ 'chaqueta', ]

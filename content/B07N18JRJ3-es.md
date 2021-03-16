@@ -5,7 +5,7 @@ date: 2020-03-11 11:13:45
 image: 'https://m.media-amazon.com/images/I/311v6l56o3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18JRJ3-es G-STAR RAW Midge Cody Mid-Waist Skinny Vaqueros Negro...'
 sku: 'B07N18JRJ3-es'
 tags: [ 'vaqueros', ]

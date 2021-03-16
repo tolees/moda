@@ -5,7 +5,7 @@ date: 2020-04-24 05:48:31
 image: 'https://m.media-amazon.com/images/I/41+xOS1I8dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7NRRD8-es Helly Hansen Hp Atlantic Fz Hoodie Sudadera para Hombre...'
 sku: 'B07M7NRRD8-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-04-28 09:29:01
 image: 'https://m.media-amazon.com/images/I/41O-56fp9cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF8N99M-es Levi s 502 Regular Taper Vaqueros Azul Cedar Od Flat ADV...'
 sku: 'B07LF8N99M-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-08 13:45:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ho0ne58tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000AP4DB2-es Reebok Classic Nylon Zapatilla de Running Hombre Azul Team...'
 sku: 'B000AP4DB2-es'
 tags: [ 'zapatilla', ]

@@ -5,7 +5,7 @@ date: 2020-02-15 12:31:18
 image: 'https://m.media-amazon.com/images/I/41QDbdLH7lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014UNSQWQ-es Geox J54E6A00043 Zapatos con Velcro Niños Negro Blackc9999...'
 sku: 'B014UNSQWQ-es'
 tags: [ 'geox','zapatos', ]

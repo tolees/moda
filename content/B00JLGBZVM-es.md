@@ -5,7 +5,7 @@ date: 2020-04-11 16:44:04
 image: 'https://m.media-amazon.com/images/I/41JH9MP+XlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JLGBZVM-es adidas Entrada 14 JSY Camiseta para hombre Rojo University...'
 sku: 'B00JLGBZVM-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 16:26:22
 image: 'https://m.media-amazon.com/images/I/418BYYi4kPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YSJD49-es AARDIMI - Sandalias para mujer planas de verano con lazo...'
 sku: 'B086YSJD49-es'
 tags: [ 'sandalias', ]

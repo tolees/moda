@@ -5,7 +5,7 @@ date: 2020-10-12 12:50:59
 image: 'https://m.media-amazon.com/images/I/41hLN7uesvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPDDZB5-es Dockers by Gerli 36li019-207120 Sandalias de Talón Abierto...'
 sku: 'B07HPDDZB5-es'
 tags: [ 'sandalias', ]

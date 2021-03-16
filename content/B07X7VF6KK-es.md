@@ -5,7 +5,7 @@ date: 2020-07-19 08:45:47
 image: 'https://m.media-amazon.com/images/I/41iW9wPqzyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X7VF6KK-es JK-2 Pegamento de Alta Intensidad Claro DIY Artesanía...'
 sku: 'B07X7VF6KK-es'
 tags: [ 'zapatos', ]

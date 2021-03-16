@@ -5,7 +5,7 @@ date: 2020-10-05 01:37:51
 image: 'https://m.media-amazon.com/images/I/31mbC6R85vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQQ12GM-es Geox D Genova Moc A Mocasines para Mujer Rosa Cyclamen...'
 sku: 'B07SQQ12GM-es'
 tags: [ 'geox', ]

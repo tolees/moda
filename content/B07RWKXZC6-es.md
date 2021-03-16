@@ -5,7 +5,7 @@ date: 2020-03-08 15:35:01
 image: 'https://m.media-amazon.com/images/I/41ePiYVjwbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWKXZC6-es BILLABONG Tendencies Crew Sudadera Hombre Negro Black 19...'
 sku: 'B07RWKXZC6-es'
 tags: [ 'sudadera', ]

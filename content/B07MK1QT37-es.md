@@ -5,7 +5,7 @@ date: 2020-09-20 10:05:32
 image: 'https://m.media-amazon.com/images/I/41yhBh6YzNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QT37-es Napapijri Avio Chaqueta Rojo Red Scarlet R01 L para Hombre'
 sku: 'B07MK1QT37-es'
 tags: [ 'chaqueta', ]

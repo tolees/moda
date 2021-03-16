@@ -5,7 +5,7 @@ date: 2020-07-27 20:51:51
 image: 'https://m.media-amazon.com/images/I/41EUIpZx7OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ1X8XH-es Vans Flying V Crew tee Camiseta Negro Black Blk 34 Talla...'
 sku: 'B07MZ1X8XH-es'
 tags: [ 'camiseta', ]

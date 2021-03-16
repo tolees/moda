@@ -5,7 +5,7 @@ date: 2020-03-04 18:13:12
 image: 'https://m.media-amazon.com/images/I/41SxgiXsIdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N194PDV-es Lee Rider Shirt Camisa Hombre Negro Washed Black Ja Small'
 sku: 'B07N194PDV-es'
 tags: [ 'camisa', ]

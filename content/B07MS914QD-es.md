@@ -5,7 +5,7 @@ date: 2020-06-15 12:47:59
 image: 'https://m.media-amazon.com/images/I/41M57+7j6PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MS914QD-es Marca Amazon - MERAKI Polo Hombre Azul Navy Marl S Label: S'
 sku: 'B07MS914QD-es'
 tags: [ 'meraki', ]

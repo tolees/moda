@@ -5,7 +5,7 @@ date: 2020-06-02 16:54:21
 image: 'https://m.media-amazon.com/images/I/31+anJlfCQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ2DT68-es Superdry Classic Twill L/s Shirt Camisa Azul Nórdica...'
 sku: 'B07NZ2DT68-es'
 tags: [ 'camisa', ]

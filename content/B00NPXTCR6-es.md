@@ -5,7 +5,7 @@ date: 2020-03-06 18:01:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nmdMFEjGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NPXTCR6-es Tommy Hilfiger Tailored Core Twill Classic Shirt Camisa...'
 sku: 'B00NPXTCR6-es'
 tags: [ 'camisa', ]

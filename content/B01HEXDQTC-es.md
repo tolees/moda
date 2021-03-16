@@ -5,7 +5,7 @@ date: 2020-09-25 15:25:30
 image: 'https://m.media-amazon.com/images/I/311jF7lvX0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEXDQTC-es Crocs Classic Clog K Zuecos Unisex Niños Amarillo Lemon...'
 sku: 'B01HEXDQTC-es'
 tags: [ 'zuecos', ]

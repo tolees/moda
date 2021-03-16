@@ -5,7 +5,7 @@ date: 2020-03-02 11:03:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qCZJHv1uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWP8B8-es Wrangler LS Western Shirt Camisa Azul Navy 114 Medium para...'
 sku: 'B07MMWP8B8-es'
 tags: [ 'camisa', ]

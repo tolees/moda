@@ -5,7 +5,7 @@ date: 2020-09-19 08:58:49
 image: 'https://m.media-amazon.com/images/I/31tPyPv9IzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YZTXPC-es Marca Amazon - MERAKI Sudadera con Capucha Hombre Negro...'
 sku: 'B078YZTXPC-es'
 tags: [ 'meraki','sudadera', ]

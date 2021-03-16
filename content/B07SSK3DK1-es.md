@@ -5,7 +5,7 @@ date: 2020-08-30 21:28:59
 image: 'https://m.media-amazon.com/images/I/31DFRh25GSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSK3DK1-es Geox D PONTOISE D Zapatillas para Mujer Negro Black/Lt...'
 sku: 'B07SSK3DK1-es'
 tags: [ 'geox', ]

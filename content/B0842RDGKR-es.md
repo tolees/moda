@@ -5,7 +5,7 @@ date: 2020-10-02 10:49:12
 image: 'https://m.media-amazon.com/images/I/51Vjy5Qm5tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0842RDGKR-es Cerdá Bebe-100% algodón Pelele Winnie The Pooh de Bebe...'
 sku: 'B0842RDGKR-es'
 tags: [ 'pelele', ]

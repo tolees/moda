@@ -5,7 +5,7 @@ date: 2020-03-15 23:03:08
 image: 'https://m.media-amazon.com/images/I/418DtjQ5u7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2BNNNM-es Sandalias Mujer Verano 2042 cáñamo Fondo Grueso Sandalias...'
 sku: 'B07T2BNNNM-es'
 tags: [ 'sandalias','zapatos', ]

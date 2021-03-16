@@ -5,7 +5,7 @@ date: 2020-04-11 10:28:32
 image: 'https://m.media-amazon.com/images/I/31AcJY1hptL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPNBXN-es Geox U Timothy A Zapatos de Cordones Derby para Hombre...'
 sku: 'B07SVPNBXN-es'
 tags: [ 'geox','zapatos', ]

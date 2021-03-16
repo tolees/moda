@@ -5,7 +5,7 @@ date: 2020-03-14 11:32:29
 image: 'https://m.media-amazon.com/images/I/41-wXsSZMxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFMC5WW-es edc by Esprit 099cc2g021 Chaqueta Azul Navy 400 Medium...'
 sku: 'B07VFMC5WW-es'
 tags: [ 'chaqueta', ]

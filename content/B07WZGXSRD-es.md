@@ -5,7 +5,7 @@ date: 2020-08-27 14:03:39
 image: 'https://m.media-amazon.com/images/I/41BtyjkBZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZGXSRD-es Pepe Jeans Gen Vaqueros Straight Azul 000Denim 000 W32/L32...'
 sku: 'B07WZGXSRD-es'
 tags: [ 'vaqueros', ]

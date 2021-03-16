@@ -5,7 +5,7 @@ date: 2020-05-14 22:29:37
 image: 'https://m.media-amazon.com/images/I/31K6q72uUML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YRCVFZY-es Marca Amazon - AURIQUE Mallas Largas de Deporte Mujer Rojo...'
 sku: 'B07YRCVFZY-es'
 tags: [ 'aurique', ]

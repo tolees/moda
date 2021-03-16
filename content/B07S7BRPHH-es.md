@@ -5,7 +5,7 @@ date: 2020-05-14 07:55:39
 image: 'https://m.media-amazon.com/images/I/31GOvP+kJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7BRPHH-es Lee Luke Vaqueros Mission Worn Zi 31W / 34L para Hombre'
 sku: 'B07S7BRPHH-es'
 tags: [ 'vaqueros', ]

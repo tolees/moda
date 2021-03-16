@@ -5,7 +5,7 @@ date: 2020-06-22 10:41:45
 image: 'https://m.media-amazon.com/images/I/41-BeR4tKFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078B27NBP-es Under Armour Big Logo SS Ligera Camiseta Masculina cómoda...'
 sku: 'B078B27NBP-es'
 tags: [ 'camiseta', ]

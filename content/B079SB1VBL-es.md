@@ -5,7 +5,7 @@ date: 2020-08-07 19:13:32
 image: 'https://m.media-amazon.com/images/I/31+qDfMqPzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SB1VBL-es Marca Amazon - MERAKI Camisa Clásica Entallada de Vestir...'
 sku: 'B079SB1VBL-es'
 tags: [ 'camisa','meraki', ]

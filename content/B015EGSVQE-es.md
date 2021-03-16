@@ -5,7 +5,7 @@ date: 2020-01-27 13:59:09
 image: 'https://m.media-amazon.com/images/I/31nkEVe+wxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015EGSVQE-es Ermenegildo Zegna Sonnenbrille EZ0035 Gafas de Sol...'
 sku: 'B015EGSVQE-es'
 tags: [ 'gafas', ]

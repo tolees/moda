@@ -5,7 +5,7 @@ date: 2020-01-31 08:10:36
 image: 'https://m.media-amazon.com/images/I/414vPZeWnIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6TWYQN-es Columbia Pike Lake Chaqueta Mujer Rojo Red Lily M'
 sku: 'B07R6TWYQN-es'
 tags: [ 'chaqueta', ]

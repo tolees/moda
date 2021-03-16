@@ -5,7 +5,7 @@ date: 2020-10-11 11:04:46
 image: 'https://m.media-amazon.com/images/I/41dZ5DMk6IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HRW7Z2Q-es Mishansha Zapatillas de Running para Hombre Casual Tenis...'
 sku: 'B08HRW7Z2Q-es'
 tags: [ 'zapatos', ]

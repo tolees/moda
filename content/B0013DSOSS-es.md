@@ -5,7 +5,7 @@ date: 2020-09-22 07:41:09
 image: 'https://m.media-amazon.com/images/I/41rYBHhMf+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0013DSOSS-es Timberland Classic 2 Eye Náuticos para Hombre Marrón Dark...'
 sku: 'B0013DSOSS-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-03-29 21:05:10
 image: 'https://m.media-amazon.com/images/I/41UnouYFCpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8SPXVR-es Calvin Klein Hip Brief Bóxer Negro Black 001 Medium para...'
 sku: 'B07B8SPXVR-es'
 tags: [ 'bóxer', ]

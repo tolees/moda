@@ -5,7 +5,7 @@ date: 2020-09-10 12:27:42
 image: 'https://m.media-amazon.com/images/I/51ua6T7NZcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXR2NWD-es Havaianas Slim Crystal Glamour SW Chanclas para Mujer...'
 sku: 'B07FXR2NWD-es'
 tags: [ 'chanclas', ]

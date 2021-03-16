@@ -5,7 +5,7 @@ date: 2021-03-16 14:51:23
 image: 'https://m.media-amazon.com/images/I/417o7v6VxvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZFKNCW-es Timberland Camiseta de Manga Corta Joven Azul ELECTRICO 8AÑOS'
 sku: 'B085ZFKNCW-es'
 tags: [ 'camiseta','timberland', ]

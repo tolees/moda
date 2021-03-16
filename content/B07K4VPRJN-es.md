@@ -5,7 +5,7 @@ date: 2020-03-22 15:35:57
 image: 'https://m.media-amazon.com/images/I/31EIy57s7vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4VPRJN-es BOSS Mabsoot Camisa Azul Open Blue X-Small para Hombre'
 sku: 'B07K4VPRJN-es'
 tags: [ 'camisa', ]

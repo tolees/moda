@@ -5,7 +5,7 @@ date: 2020-09-22 08:41:50
 image: 'https://m.media-amazon.com/images/I/31bHl3mM0gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT83NZ9-es CARE OF by PUMA Sudadera con capucha forro y cremallera de...'
 sku: 'B07PT83NZ9-es'
 tags: [ 'sudadera', ]

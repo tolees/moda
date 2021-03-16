@@ -5,7 +5,7 @@ date: 2020-05-18 09:44:20
 image: 'https://m.media-amazon.com/images/I/41wcricZvkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M72AS4O-es Lacoste TH6709 Camiseta Rojo Rouge XX-Large Talla del...'
 sku: 'B01M72AS4O-es'
 tags: [ 'camiseta', ]

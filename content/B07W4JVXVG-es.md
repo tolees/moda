@@ -5,7 +5,7 @@ date: 2020-04-14 11:08:37
 image: 'https://m.media-amazon.com/images/I/41eBFsMrcIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4JVXVG-es Only Onlally Boucle Wool Coat CC Otw Abrigo Azul Peacoat...'
 sku: 'B07W4JVXVG-es'
 tags: [ 'abrigo', ]

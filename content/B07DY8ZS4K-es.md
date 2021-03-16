@@ -5,7 +5,7 @@ date: 2020-07-10 00:32:52
 image: 'https://m.media-amazon.com/images/I/41ieZzFcHVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DY8ZS4K-es Roxy Costas Zapatos de Playa y Piscina para Mujer Negro...'
 sku: 'B07DY8ZS4K-es'
 tags: [ 'zapatos', ]

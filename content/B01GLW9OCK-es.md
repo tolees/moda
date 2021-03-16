@@ -5,7 +5,7 @@ date: 2020-01-17 16:04:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZzO8MZ-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GLW9OCK-es Twins Jacke TEDDYBÄR Chaqueta Bebé unisex Morado lila 74'
 sku: 'B01GLW9OCK-es'
 tags: [ 'chaqueta', ]

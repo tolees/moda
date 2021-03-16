@@ -5,7 +5,7 @@ date: 2020-06-28 11:53:05
 image: 'https://m.media-amazon.com/images/I/21H1wiCS9yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XNJPNZ-es Under Armour Hombre MK1 Short Sleeve EU SMU Camiseta'
 sku: 'B077XNJPNZ-es'
 tags: [ 'camiseta', ]

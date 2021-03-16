@@ -5,7 +5,7 @@ date: 2020-06-11 14:58:54
 image: 'https://m.media-amazon.com/images/I/41UX3yWtU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TW77GG2-es Tikea Mochila de Mamá Grande Mochila para Pañales...'
 sku: 'B07TW77GG2-es'
 tags: [ 'bolso', ]

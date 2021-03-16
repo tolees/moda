@@ -5,7 +5,7 @@ date: 2020-10-01 08:11:28
 image: 'https://m.media-amazon.com/images/I/31rRR3T57dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJX8RM3-es Geox D Vega Moc B Mocasines para Mujer Negro Black/Dk Grey...'
 sku: 'B07DJX8RM3-es'
 tags: [ 'geox', ]

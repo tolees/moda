@@ -5,7 +5,7 @@ date: 2020-01-14 05:31:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wcS-G-QzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHJF5NJ-es Burton Oak Sudadera Hombre Keef Heather M'
 sku: 'B07SHJF5NJ-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-06-22 17:10:36
 image: 'https://m.media-amazon.com/images/I/31rM948jpRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ026KV-es find. 13641 vestido fiesta mujer Rojo Red 38 Talla del...'
 sku: 'B01MZ026KV-es'
 tags: [ 'vestido', ]

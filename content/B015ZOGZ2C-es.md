@@ -5,7 +5,7 @@ date: 2020-06-16 12:21:21
 image: 'https://m.media-amazon.com/images/I/41jYSvy+zKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015ZOGZ2C-es MAKAYA Calavera con Casco - Camiseta Motocross - Hombre...'
 sku: 'B015ZOGZ2C-es'
 tags: [ 'camiseta', ]

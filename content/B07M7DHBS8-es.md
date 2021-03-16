@@ -5,7 +5,7 @@ date: 2020-04-21 06:53:43
 image: 'https://m.media-amazon.com/images/I/41S4mKrsyUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7DHBS8-es Hackett Amr Pro Camo T Camiseta Negro Black 999 XX-Large...'
 sku: 'B07M7DHBS8-es'
 tags: [ 'camiseta', ]

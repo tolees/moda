@@ -5,7 +5,7 @@ date: 2020-01-05 19:34:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31fwZonYvTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZG92K-es adidas W E Lin Slim T Camiseta de Manga Corta Mujer Blanco...'
 sku: 'B07LFZG92K-es'
 tags: [ 'camiseta', ]

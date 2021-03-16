@@ -5,7 +5,7 @@ date: 2020-02-22 17:46:02
 image: 'https://m.media-amazon.com/images/I/41AcuyZBhrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPMCW-es Napapijri Avio Chaqueta Azul BLU Marine 176 S para Hombre'
 sku: 'B07MCSPMCW-es'
 tags: [ 'chaqueta', ]

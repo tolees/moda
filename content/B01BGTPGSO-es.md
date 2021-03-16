@@ -5,7 +5,7 @@ date: 2020-06-18 12:39:25
 image: 'https://m.media-amazon.com/images/I/31eV-jHTARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTPGSO-es G-STAR RAW Core Super Slim Camisa Blanco White 110 XXS...'
 sku: 'B01BGTPGSO-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-05-05 06:42:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41t9RcXjs4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHSFWCK-es Levi s SS Camiseta Colorblock tee Peacoat/Marshmallow/Ch...'
 sku: 'B07CHSFWCK-es'
 tags: [ 'camiseta', ]

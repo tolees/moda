@@ -5,7 +5,7 @@ date: 2020-09-10 23:35:43
 image: 'https://m.media-amazon.com/images/I/31q+0h4P-OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNSYPBB-es find. Hurrache Sandalias con Punta Cerrada Rot Orange Red...'
 sku: 'B07YNSYPBB-es'
 tags: [ 'sandalias', ]

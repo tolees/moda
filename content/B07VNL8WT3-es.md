@@ -5,7 +5,7 @@ date: 2020-06-08 18:22:58
 image: 'https://m.media-amazon.com/images/I/41oIHnI9mRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNL8WT3-es Only Onlcarol S/s Glitter V-Neck Top Jrs Camiseta sin...'
 sku: 'B07VNL8WT3-es'
 tags: [ 'camiseta', ]

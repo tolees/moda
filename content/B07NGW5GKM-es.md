@@ -5,7 +5,7 @@ date: 2020-02-20 22:38:45
 image: 'https://m.media-amazon.com/images/I/41V2DtwwMTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGW5GKM-es Calvin Klein Hip Brief 3pk Bóxer Azul Astral...'
 sku: 'B07NGW5GKM-es'
 tags: [ 'bóxer', ]

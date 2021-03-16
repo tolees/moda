@@ -5,7 +5,7 @@ date: 2020-06-12 14:07:22
 image: 'https://m.media-amazon.com/images/I/41ZfSF5wFCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVQV9SN-es Esprit 119EE1E021 Vestido de Fiesta Negro Black 001 36...'
 sku: 'B07XVQV9SN-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2019-12-31 17:34:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wCUOUIdqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KNZC5G-es Urban Classics 2-Tone Tech Windrunner Chaqueta Multicolor...'
 sku: 'B078KNZC5G-es'
 tags: [ 'chaqueta', ]

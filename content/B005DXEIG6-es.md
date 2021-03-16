@@ -5,7 +5,7 @@ date: 2020-06-27 16:01:37
 image: 'https://m.media-amazon.com/images/I/41oCw9dZ5DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005DXEIG6-es Geox U Federico Y Zapatos de cordones derby para Hombre...'
 sku: 'B005DXEIG6-es'
 tags: [ 'geox','zapatos', ]

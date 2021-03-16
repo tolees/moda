@@ -5,7 +5,7 @@ date: 2020-07-12 02:59:54
 image: 'https://m.media-amazon.com/images/I/41qWRztEm8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVBFG46-es AMZTM Dinosaurio Camiseta de Cumpleaños - 1er Cumpleaños...'
 sku: 'B07ZVBFG46-es'
 tags: [ 'camiseta', ]

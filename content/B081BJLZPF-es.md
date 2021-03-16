@@ -5,7 +5,7 @@ date: 2020-09-19 06:22:15
 image: 'https://m.media-amazon.com/images/I/41s-tKOYVkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BJLZPF-es Columbia Powder Pass Chaqueta con Capucha Hombre Gris/Azul...'
 sku: 'B081BJLZPF-es'
 tags: [ 'chaqueta', ]

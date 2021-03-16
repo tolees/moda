@@ -5,7 +5,7 @@ date: 2020-02-07 20:10:38
 image: 'https://m.media-amazon.com/images/I/41KFKAlmJeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRXLXMR-es Salomon PROPELLER DRY M Guantes para hombre'
 sku: 'B07KRXLXMR-es'
 tags: [ 'guantes', ]

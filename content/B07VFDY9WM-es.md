@@ -5,7 +5,7 @@ date: 2020-01-27 18:49:21
 image: 'https://m.media-amazon.com/images/I/31vfla4OF4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFDY9WM-es JACK & JONES Jcodriver Anorak Parka Gris Glacier Gray...'
 sku: 'B07VFDY9WM-es'
 tags: [ 'parka', ]

@@ -5,7 +5,7 @@ date: 2020-04-06 09:33:43
 image: 'https://m.media-amazon.com/images/I/41Gs1SPWmLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728CNXWW-es Crocs Crocband II Sandal PS K Sandalias Unisex Niños Rosa...'
 sku: 'B0728CNXWW-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-06-22 18:17:50
 image: 'https://m.media-amazon.com/images/I/31O3wa3mRNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817J7CCS-es Columbia Zero Rules Camisa Técnica De Manga Corta Hombre...'
 sku: 'B0817J7CCS-es'
 tags: [ 'camisa', ]

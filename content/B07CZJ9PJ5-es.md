@@ -5,7 +5,7 @@ date: 2020-04-20 10:16:58
 image: 'https://m.media-amazon.com/images/I/412L5CTR2rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZJ9PJ5-es Under Armour Vanish Woven Short Pantalón Corto Hombre Azul...'
 sku: 'B07CZJ9PJ5-es'
 tags: [ 'pantalón', ]

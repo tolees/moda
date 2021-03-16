@@ -5,7 +5,7 @@ date: 2020-01-25 17:08:49
 image: 'https://m.media-amazon.com/images/I/41fbb1pj-3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QSB8-es Napapijri Aerons Vest 2 Chaqueta Verde Green Forest 2 GE3...'
 sku: 'B07MK1QSB8-es'
 tags: [ 'chaqueta', ]

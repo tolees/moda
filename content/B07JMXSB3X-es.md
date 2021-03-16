@@ -5,7 +5,7 @@ date: 2020-01-22 19:18:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BywSgSRpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMXSB3X-es Timberland Bradstreet Hiker Botas Chukka para Hombre Azul...'
 sku: 'B07JMXSB3X-es'
 tags: [ 'timberland', ]

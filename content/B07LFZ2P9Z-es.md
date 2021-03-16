@@ -5,7 +5,7 @@ date: 2020-02-13 17:47:41
 image: 'https://m.media-amazon.com/images/I/4180eLwzFzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ2P9Z-es Geox D Jaysen D Zapatillas para Mujer Negro Black C9999 41 EU'
 sku: 'B07LFZ2P9Z-es'
 tags: [ 'geox', ]

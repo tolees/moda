@@ -5,7 +5,7 @@ date: 2020-03-10 11:23:04
 image: 'https://m.media-amazon.com/images/I/41Xcf1XCmcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3YSWS9-es G-STAR RAW 3301 Slim Vaqueros Vintage Medium Aged...'
 sku: 'B07N3YSWS9-es'
 tags: [ 'vaqueros', ]

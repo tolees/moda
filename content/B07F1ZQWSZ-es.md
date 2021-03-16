@@ -5,7 +5,7 @@ date: 2020-07-05 02:20:07
 image: 'https://m.media-amazon.com/images/I/31PMATW69OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1ZQWSZ-es Timberland Malibu Waves Cross Slide Sandalias con Punta...'
 sku: 'B07F1ZQWSZ-es'
 tags: [ 'sandalias','timberland', ]

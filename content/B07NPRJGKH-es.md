@@ -5,7 +5,7 @@ date: 2020-06-15 08:17:06
 image: 'https://m.media-amazon.com/images/I/31swVih2HGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPRJGKH-es Marca Amazon - MERAKI Shorts de Lino Mujer Azul Navy 38...'
 sku: 'B07NPRJGKH-es'
 tags: [ 'meraki', ]

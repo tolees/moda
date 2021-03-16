@@ -5,7 +5,7 @@ date: 2020-04-16 19:47:06
 image: 'https://m.media-amazon.com/images/I/41nGONpQrML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8FZF11-es JACK & JONES Jjialvin Jjjacket Sa 001 Noos Chaqueta de...'
 sku: 'B07N8FZF11-es'
 tags: [ 'chaqueta', ]

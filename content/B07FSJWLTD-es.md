@@ -5,7 +5,7 @@ date: 2020-01-21 14:06:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413tp9TcP-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSJWLTD-es Peak Velocity - Sudadera con capucha con cremallera...'
 sku: 'B07FSJWLTD-es'
 tags: [ 'sudadera', ]

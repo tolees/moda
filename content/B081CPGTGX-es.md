@@ -5,7 +5,7 @@ date: 2020-01-02 08:34:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BCScGwpJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CPGTGX-es Geographical Norway Parka Hombre Boomerang A Gris Oscuro S'
 sku: 'B081CPGTGX-es'
 tags: [ 'parka', ]

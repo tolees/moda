@@ -5,7 +5,7 @@ date: 2020-06-30 15:54:11
 image: 'https://m.media-amazon.com/images/I/31kEhdgqKJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DKDV4N-es BILLABONG™ - Bañador de Surf de pantalón - Hombre - M - Negro'
 sku: 'B081DKDV4N-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-06-09 17:31:16
 image: 'https://m.media-amazon.com/images/I/51e+R2mwa+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z2MWBNP-es Robinsoni Fundas Compatible con Xiaomi Redmi 7A Funda...'
 sku: 'B07Z2MWBNP-es'
 tags: [ 'billetera','monedero', ]

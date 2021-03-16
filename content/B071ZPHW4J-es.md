@@ -5,7 +5,7 @@ date: 2020-03-23 08:33:09
 image: 'https://m.media-amazon.com/images/I/41QFYLEg6cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZPHW4J-es Finether 5m Escalera Telescópica de Aluminio Escalera...'
 sku: 'B071ZPHW4J-es'
 tags: [ 'guantes', ]

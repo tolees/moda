@@ -5,7 +5,7 @@ date: 2020-04-01 12:55:29
 image: 'https://m.media-amazon.com/images/I/31AhsB77C-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6QXLQG-es Tommy Hilfiger Cuff Jersey Pant Pantalones térmicos Gris...'
 sku: 'B07N6QXLQG-es'
 tags: [ 'jersey', ]

@@ -5,7 +5,7 @@ date: 2020-09-17 23:32:47
 image: 'https://m.media-amazon.com/images/I/417Agr6iS9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCKB4Y9-es Columbia Autumn Rise Chaqueta impermeable de longitud...'
 sku: 'B07JCKB4Y9-es'
 tags: [ 'chaqueta', ]

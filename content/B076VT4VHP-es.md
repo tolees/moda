@@ -5,7 +5,7 @@ date: 2020-02-21 19:24:29
 image: 'https://m.media-amazon.com/images/I/41i0NdXNGZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VT4VHP-es G-STAR RAW 3301 High Waist Boyfriend Vaqueros Azul lt Aged...'
 sku: 'B076VT4VHP-es'
 tags: [ 'vaqueros', ]

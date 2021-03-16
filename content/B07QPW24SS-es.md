@@ -5,7 +5,7 @@ date: 2020-05-03 11:22:03
 image: 'https://m.media-amazon.com/images/I/31FmZcFhEWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPW24SS-es Asics Classic CT Zapatos de Baloncesto para Hombre Negro...'
 sku: 'B07QPW24SS-es'
 tags: [ 'zapatos', ]

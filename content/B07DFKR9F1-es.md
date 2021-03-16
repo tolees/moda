@@ -5,7 +5,7 @@ date: 2020-08-02 08:55:55
 image: 'https://m.media-amazon.com/images/I/313ndrFV2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFKR9F1-es Crocs LiteRide Flip Chanclas Unisex Adulto Multicolor...'
 sku: 'B07DFKR9F1-es'
 tags: [ 'chanclas', ]

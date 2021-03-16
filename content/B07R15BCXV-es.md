@@ -5,7 +5,7 @@ date: 2020-03-21 09:18:18
 image: 'https://m.media-amazon.com/images/I/31F7p6VPzJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R15BCXV-es Wrangler Ringer tee Camiseta Negro Black 100 Small para Mujer'
 sku: 'B07R15BCXV-es'
 tags: [ 'camiseta', ]

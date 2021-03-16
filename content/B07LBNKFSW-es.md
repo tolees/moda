@@ -5,7 +5,7 @@ date: 2020-09-02 14:30:20
 image: 'https://m.media-amazon.com/images/I/41yc9NOtj3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBNKFSW-es Helly Hansen Welsey II Aislado Impermeable Gabardina...'
 sku: 'B07LBNKFSW-es'
 tags: [ 'chaqueta', ]

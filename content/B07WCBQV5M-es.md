@@ -5,7 +5,7 @@ date: 2020-05-08 18:14:57
 image: 'https://m.media-amazon.com/images/I/41PJCUTCqeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCBQV5M-es JACK JONES Jorexplore Parka Hombre Verde Forest Nightgrün...'
 sku: 'B07WCBQV5M-es'
 tags: [ 'parka', ]

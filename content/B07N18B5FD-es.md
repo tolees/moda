@@ -5,7 +5,7 @@ date: 2020-06-14 13:04:24
 image: 'https://m.media-amazon.com/images/I/31rD7LaRCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18B5FD-es G-STAR RAW Midge Cody Mid Waist Skinny Vaqueros Azul Faded...'
 sku: 'B07N18B5FD-es'
 tags: [ 'vaqueros', ]

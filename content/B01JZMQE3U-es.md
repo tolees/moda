@@ -5,7 +5,7 @@ date: 2020-02-23 15:18:40
 image: 'https://m.media-amazon.com/images/I/41S9Py7xgfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JZMQE3U-es Timberland Killington Botas Unisex Niños Beige Wheat...'
 sku: 'B01JZMQE3U-es'
 tags: [ 'timberland', ]

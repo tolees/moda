@@ -5,7 +5,7 @@ date: 2020-08-24 20:56:01
 image: 'https://m.media-amazon.com/images/I/41Z-ngnefNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751KQPTM-es Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta Azul...'
 sku: 'B0751KQPTM-es'
 tags: [ 'chaqueta','moda', ]

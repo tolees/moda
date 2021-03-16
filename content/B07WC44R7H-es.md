@@ -5,7 +5,7 @@ date: 2020-07-26 15:04:43
 image: 'https://m.media-amazon.com/images/I/414DfY2EeEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC44R7H-es Tommy Hilfiger Block Stripe Hilfiger tee Camiseta Deporte...'
 sku: 'B07WC44R7H-es'
 tags: [ 'camiseta', ]

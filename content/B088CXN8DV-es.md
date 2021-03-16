@@ -5,7 +5,7 @@ date: 2020-08-29 10:32:00
 image: 'https://m.media-amazon.com/images/I/41wA3jxAIUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088CXN8DV-es Meerway Bañador Hombre Bañadores de Natación para Hombre...'
 sku: 'B088CXN8DV-es'
 tags: [ 'pantalón', ]

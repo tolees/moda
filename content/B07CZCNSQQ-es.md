@@ -5,7 +5,7 @@ date: 2020-04-25 13:48:22
 image: 'https://m.media-amazon.com/images/I/31Vfmyc0UeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZCNSQQ-es Under Armour Play Up Short 2.0 Pantalón Corto Mujer Negro...'
 sku: 'B07CZCNSQQ-es'
 tags: [ 'pantalón', ]

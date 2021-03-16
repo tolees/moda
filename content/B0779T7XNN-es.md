@@ -5,7 +5,7 @@ date: 2020-05-07 10:42:12
 image: 'https://m.media-amazon.com/images/I/41dYpmGaCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779T7XNN-es Marca Amazon - AURIQUE Sudadera para Yoga Mujer Verde Sea...'
 sku: 'B0779T7XNN-es'
 tags: [ 'aurique','sudadera', ]

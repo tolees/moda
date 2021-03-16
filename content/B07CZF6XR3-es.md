@@ -5,7 +5,7 @@ date: 2020-05-15 08:53:24
 image: 'https://m.media-amazon.com/images/I/31TgufnPVEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZF6XR3-es Under Armour UA Speed Stride 7 Zoll Woven Pantalón Corto...'
 sku: 'B07CZF6XR3-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-09-08 18:45:38
 image: 'https://m.media-amazon.com/images/I/61cacIKAGiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CBVFJNB-es LJP Funda iPhone XR Suave PU Cuero Carcasa y TPU Funda...'
 sku: 'B08CBVFJNB-es'
 tags: [ 'billetera', ]

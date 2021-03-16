@@ -5,7 +5,7 @@ date: 2020-08-07 19:32:30
 image: 'https://m.media-amazon.com/images/I/31gm9W0rdAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779NYMZX-es Timberland Newport Bay 2 Eye Mocasines para Hombre Verde...'
 sku: 'B0779NYMZX-es'
 tags: [ 'timberland', ]

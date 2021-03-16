@@ -5,7 +5,7 @@ date: 2020-07-14 16:19:44
 image: 'https://m.media-amazon.com/images/I/31aL1IVuOWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDKD5SF-es find. # Shana-1a-58 Sandalias Abiertas Dorado Gold 41'
 sku: 'B07WDKD5SF-es'
 tags: [ 'sandalias', ]

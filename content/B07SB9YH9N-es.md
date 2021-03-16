@@ -5,7 +5,7 @@ date: 2020-03-29 10:31:53
 image: 'https://m.media-amazon.com/images/I/41a7vsF987L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB9YH9N-es Disney HS2090 Conjuntos de Pijama Rosa Pink Pink 3 años...'
 sku: 'B07SB9YH9N-es'
 tags: [ 'pijama', ]

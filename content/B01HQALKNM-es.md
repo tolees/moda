@@ -5,7 +5,7 @@ date: 2020-04-09 17:03:09
 image: 'https://m.media-amazon.com/images/I/41CptNqp+DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HQALKNM-es Crocs Crocband U Zuecos Unisex Adulto Gris Light Grey-Navy...'
 sku: 'B01HQALKNM-es'
 tags: [ 'zuecos', ]

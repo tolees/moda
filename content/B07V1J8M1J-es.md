@@ -5,7 +5,7 @@ date: 2020-08-09 19:13:04
 image: 'https://m.media-amazon.com/images/I/51EkfK7ylzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1J8M1J-es BOSS Boxer Brief 2p Print Azul Navy 415 Medium Pack de 2...'
 sku: 'B07V1J8M1J-es'
 tags: [ 'boxer', ]

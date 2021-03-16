@@ -5,7 +5,7 @@ date: 2020-02-24 15:54:02
 image: 'https://m.media-amazon.com/images/I/31yk+VUmZQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5P7B1G-es Under Armour UA Launch Sw 2-In-1 Long Short Pantalón Corto...'
 sku: 'B07D5P7B1G-es'
 tags: [ 'pantalón', ]

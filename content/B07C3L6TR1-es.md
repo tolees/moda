@@ -5,7 +5,7 @@ date: 2020-01-18 14:53:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41A16w8uT6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C3L6TR1-es Superdry Tech Hood Pop Zip SD-wndcheate Chaqueta Deportiva...'
 sku: 'B07C3L6TR1-es'
 tags: [ 'chaqueta', ]

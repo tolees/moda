@@ -5,7 +5,7 @@ date: 2020-09-27 20:13:57
 image: 'https://m.media-amazon.com/images/I/416EN1dtT+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8F5XGT-es VOHONEY - Bolso mochila para mujer Negro Sac À Dos Femme...'
 sku: 'B07T8F5XGT-es'
 tags: [ 'bolso', ]

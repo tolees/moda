@@ -5,7 +5,7 @@ date: 2020-02-11 16:30:48
 image: 'https://m.media-amazon.com/images/I/41tbPWmEKwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXBJPWZ-es JACK & JONES Jjebomb Puffer Noos Chaqueta Bomber Azul Navy...'
 sku: 'B07MXBJPWZ-es'
 tags: [ 'chaqueta', ]

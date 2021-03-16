@@ -5,7 +5,7 @@ date: 2020-06-08 09:46:34
 image: 'https://m.media-amazon.com/images/I/41txXYKyy6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPV8HT-es Pepe Jeans Carry Falda Garnet 284 Medium para Mujer'
 sku: 'B07MZPV8HT-es'
 tags: [ 'falda', ]

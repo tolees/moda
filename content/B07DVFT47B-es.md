@@ -5,7 +5,7 @@ date: 2020-05-29 11:36:39
 image: 'https://m.media-amazon.com/images/I/51+j8rjq1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVFT47B-es Spotted Zebra Boxer Brief Ropa interior con diseño de...'
 sku: 'B07DVFT47B-es'
 tags: [ 'boxer', ]

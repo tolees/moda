@@ -5,7 +5,7 @@ date: 2020-05-27 12:05:17
 image: 'https://m.media-amazon.com/images/I/51FFCTkDapL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLGT5C4-es gracosy Sandalias Cuero Planas Verano Mujer Estilo Bohemia...'
 sku: 'B07PLGT5C4-es'
 tags: [ 'chanclas','sandalias','zapatos', ]

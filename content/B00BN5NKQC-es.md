@@ -5,7 +5,7 @@ date: 2020-09-21 13:07:51
 image: 'https://m.media-amazon.com/images/I/41d77aQchNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN5NKQC-es Pepe Jeans Original Stretch Camiseta para Hombre Gris Grey...'
 sku: 'B00BN5NKQC-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-03-25 15:32:19
 image: 'https://m.media-amazon.com/images/I/51I3R8o6XJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBCDW6H-es TECOOL 14 Pulgadas Funda Blanda para Ordenador portátil...'
 sku: 'B07VBCDW6H-es'
 tags: [ 'bolso', ]

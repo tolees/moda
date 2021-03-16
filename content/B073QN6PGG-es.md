@@ -5,7 +5,7 @@ date: 2020-01-15 13:07:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412dTv6kEdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QN6PGG-es find. Chaqueta de Leñador para Hombre Verde Grün Medium'
 sku: 'B073QN6PGG-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-02-23 08:07:29
 image: 'https://m.media-amazon.com/images/I/317qq3U+KEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071S2KLZT-es Under Armour UA HG Armour Shorty Pantalón Corto Mujer Gris...'
 sku: 'B071S2KLZT-es'
 tags: [ 'pantalón', ]

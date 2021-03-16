@@ -5,7 +5,7 @@ date: 2020-06-05 01:44:59
 image: 'https://m.media-amazon.com/images/I/41Ot4JJUd2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1G8MDK-es Superga 2750-cotu Classic Zapatilla Baja Unisex Adulto...'
 sku: 'B01N1G8MDK-es'
 tags: [ 'zapatilla', ]

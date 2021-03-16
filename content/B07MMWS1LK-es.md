@@ -5,7 +5,7 @@ date: 2020-01-08 23:00:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-dweQdcHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWS1LK-es Wrangler Texas Contrast Vaqueros Azul Stay Warm 54s 32 W/...'
 sku: 'B07MMWS1LK-es'
 tags: [ 'vaqueros', ]

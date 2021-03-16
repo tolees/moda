@@ -5,7 +5,7 @@ date: 2020-01-27 04:40:16
 image: 'https://m.media-amazon.com/images/I/31ego+md-TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QL3DBMG-es Liu-jo BXX049PX003 Zapatos Mujeres Blanco 35'
 sku: 'B07QL3DBMG-es'
 tags: [ 'zapatos', ]

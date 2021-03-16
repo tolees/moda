@@ -5,7 +5,7 @@ date: 2020-05-06 19:56:12
 image: 'https://m.media-amazon.com/images/I/31uviCI+wFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLCTMXJ-es Caprice Herma Botines para Mujer Verde Khaki Nappa 710 38 EU'
 sku: 'B07NLCTMXJ-es'
 tags: [ 'botines', ]

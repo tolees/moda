@@ -5,7 +5,7 @@ date: 2020-10-05 11:23:43
 image: 'https://m.media-amazon.com/images/I/317U6HdYdML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMP33T4-es Under Armour Rival Fleece Sportstyle Logo Jogger Pantalón...'
 sku: 'B07MMP33T4-es'
 tags: [ 'pantalón', ]

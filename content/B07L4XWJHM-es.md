@@ -5,7 +5,7 @@ date: 2020-01-30 10:39:38
 image: 'https://m.media-amazon.com/images/I/51Zol-R6UOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4XWJHM-es Charles Wilson Camisa Franela de Cuadros Manga Larga para...'
 sku: 'B07L4XWJHM-es'
 tags: [ 'camisa', ]

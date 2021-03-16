@@ -5,7 +5,7 @@ date: 2020-09-24 19:10:55
 image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2G2TJZ-es Levi s Vneck Camiseta Blanco White + 0002 X-Small para Mujer'
 sku: 'B07S2G2TJZ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-24 08:02:03
 image: 'https://m.media-amazon.com/images/I/41cxOrspM+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083Z2LKLZ-es Jack & Jones JJEPAULOS Polo SS Noos Camisa Ojo XL para Hombre'
 sku: 'B083Z2LKLZ-es'
 tags: [ 'camisa', ]

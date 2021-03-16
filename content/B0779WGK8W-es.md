@@ -5,7 +5,7 @@ date: 2020-05-03 16:52:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BXM5%2BhqgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779WGK8W-es AURIQUE BAL181LA16 Sujetador Deportivo para Mujer...'
 sku: 'B0779WGK8W-es'
 tags: [ 'aurique', ]

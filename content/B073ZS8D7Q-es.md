@@ -5,7 +5,7 @@ date: 2020-02-24 05:39:16
 image: 'https://m.media-amazon.com/images/I/41t2pV8s87L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZS8D7Q-es GANT The Oxford Shirt Reg BD Camisa Rojo Light Pink 662...'
 sku: 'B073ZS8D7Q-es'
 tags: [ 'camisa', ]

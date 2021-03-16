@@ -5,7 +5,7 @@ date: 2020-09-26 14:16:20
 image: 'https://m.media-amazon.com/images/I/41KmD+lj-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XMZX7B-es Under Armour Charged Cotton Scramble Hombre Camisa Polo...'
 sku: 'B077XMZX7B-es'
 tags: [ 'camisa', ]

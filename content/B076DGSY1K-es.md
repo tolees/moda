@@ -5,7 +5,7 @@ date: 2020-01-22 15:02:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mkETlUaaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076DGSY1K-es Pepe Jeans Taylor PL900443 Falda Azul Dark Tru BLU Ce3...'
 sku: 'B076DGSY1K-es'
 tags: [ 'falda', ]

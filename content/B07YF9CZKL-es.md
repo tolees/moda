@@ -5,7 +5,7 @@ date: 2020-09-28 12:53:22
 image: 'https://m.media-amazon.com/images/I/31DT40vOdGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YF9CZKL-es Marca Amazon - find. Chaqueta Larga Mujer Negro Black 40...'
 sku: 'B07YF9CZKL-es'
 tags: [ '-','chaqueta','find.', ]

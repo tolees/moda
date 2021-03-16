@@ -5,7 +5,7 @@ date: 2020-06-03 23:43:50
 image: 'https://m.media-amazon.com/images/I/416UH22N9SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSK8R65-es Clarks Un Karely Sun Chanclas para Mujer Gris Sage Nubuck-...'
 sku: 'B07FSK8R65-es'
 tags: [ 'chanclas', ]

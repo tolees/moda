@@ -5,7 +5,7 @@ date: 2020-04-03 12:00:00
 image: 'https://m.media-amazon.com/images/I/418Ut0K3y0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T97QKJM-es The North Face M Drew Peak Sudadera con Capucha Hombre...'
 sku: 'B07T97QKJM-es'
 tags: [ 'sudadera', ]

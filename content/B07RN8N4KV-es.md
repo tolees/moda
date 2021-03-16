@@ -5,7 +5,7 @@ date: 2020-03-11 10:06:49
 image: 'https://m.media-amazon.com/images/I/31Xc7RCy2ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN8N4KV-es HAWKERS · PAPARAZZI · Gold · Ligth Red · Gafas de sol para...'
 sku: 'B07RN8N4KV-es'
 tags: [ 'gafas', ]

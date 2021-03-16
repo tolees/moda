@@ -5,7 +5,7 @@ date: 2020-08-24 23:42:40
 image: 'https://m.media-amazon.com/images/I/414lACobFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072J2QH6L-es Under Armour Sportstyle Pique Pantalón deportivo para...'
 sku: 'B072J2QH6L-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-01-13 12:40:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yJ8hsK5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FYNDBG-es PAW PATROL HQ7208.E00.B Pijama de Una Pieza para Niños...'
 sku: 'B074FYNDBG-es'
 tags: [ 'pijama', ]

@@ -5,7 +5,7 @@ date: 2020-08-09 19:10:55
 image: 'https://m.media-amazon.com/images/I/41Bu73+sZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFL4JCJ-es HUGO Daple202 Sudadera Negro Negro 1 M para Hombre'
 sku: 'B07VFL4JCJ-es'
 tags: [ 'sudadera', ]

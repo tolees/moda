@@ -5,7 +5,7 @@ date: 2020-06-30 12:32:31
 image: 'https://m.media-amazon.com/images/I/41c+SHXPK0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZM9S92-es Pepe Jeans Jay Chaqueta Black 999 Small para Hombre'
 sku: 'B07MZM9S92-es'
 tags: [ 'chaqueta', ]

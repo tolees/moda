@@ -5,7 +5,7 @@ date: 2020-08-25 09:31:15
 image: 'https://m.media-amazon.com/images/I/41sh5A7HQPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJHQ2RP-es G-STAR RAW Revend Skinny Vaqueros Rinsed 8970-082 35W /...'
 sku: 'B07BJHQ2RP-es'
 tags: [ 'vaqueros', ]

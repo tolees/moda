@@ -5,7 +5,7 @@ date: 2020-02-20 08:25:38
 image: 'https://m.media-amazon.com/images/I/41mieSGlRPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFTJT87-es Vero Moda NOS Vmcurl High Neck Faux Fur Jacket Noos...'
 sku: 'B07DFTJT87-es'
 tags: [ 'chaqueta','moda', ]

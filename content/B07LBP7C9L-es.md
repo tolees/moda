@@ -5,7 +5,7 @@ date: 2020-04-02 02:35:28
 image: 'https://m.media-amazon.com/images/I/31ruDqQIEoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBP7C9L-es Helly Hansen Daybreaker Chaqueta Forro Polar con Capucha...'
 sku: 'B07LBP7C9L-es'
 tags: [ 'chaqueta', ]

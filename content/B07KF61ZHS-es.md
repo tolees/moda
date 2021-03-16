@@ -5,7 +5,7 @@ date: 2020-01-18 09:16:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJZInmbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF61ZHS-es Levi s Original Hm Icon Crew Sudadera Azul Sodalite Blue...'
 sku: 'B07KF61ZHS-es'
 tags: [ 'sudadera', ]

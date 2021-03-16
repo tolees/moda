@@ -5,7 +5,7 @@ date: 2020-04-07 13:11:38
 image: 'https://m.media-amazon.com/images/I/41xkET9EGZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8ZPQ59-es REPLAY Anbass Vaqueros Slim Negro Blackboard 290 W36/L32...'
 sku: 'B07L8ZPQ59-es'
 tags: [ 'vaqueros', ]

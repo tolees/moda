@@ -5,7 +5,7 @@ date: 2020-04-25 12:26:17
 image: 'https://m.media-amazon.com/images/I/41STHQH5AiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZMB37F-es Pepe Jeans Dutchman Chaqueta Sailor 580 3-4 años Talla del...'
 sku: 'B07MZMB37F-es'
 tags: [ 'chaqueta', ]

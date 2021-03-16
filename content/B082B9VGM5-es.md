@@ -5,7 +5,7 @@ date: 2020-01-13 15:26:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RgjyUCMjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082B9VGM5-es Geographical Norway Chaqueta Softshell DE NIÑA TILSIT Azul...'
 sku: 'B082B9VGM5-es'
 tags: [ 'chaqueta', ]

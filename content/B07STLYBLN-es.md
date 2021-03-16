@@ -5,7 +5,7 @@ date: 2020-10-02 02:40:51
 image: 'https://m.media-amazon.com/images/I/41w13Jp1inL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLYBLN-es Geox D NYDAME D Zapatillas para Mujer Blanco White/Off...'
 sku: 'B07STLYBLN-es'
 tags: [ 'geox', ]

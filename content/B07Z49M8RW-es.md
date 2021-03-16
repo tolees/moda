@@ -5,7 +5,7 @@ date: 2020-08-05 12:36:40
 image: 'https://m.media-amazon.com/images/I/41Sg4nuAe2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z49M8RW-es Jack & Jones Jjeeric Puffer Collar Noos Chaqueta Gris...'
 sku: 'B07Z49M8RW-es'
 tags: [ 'chaqueta','collar', ]

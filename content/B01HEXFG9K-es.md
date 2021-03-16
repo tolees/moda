@@ -5,7 +5,7 @@ date: 2020-09-08 08:30:51
 image: 'https://m.media-amazon.com/images/I/41Rp+JIOeLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEXFG9K-es Crocs Crocband Clog K Zuecos con Correa Trasera Unisex-...'
 sku: 'B01HEXFG9K-es'
 tags: [ 'zuecos', ]

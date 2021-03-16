@@ -5,7 +5,7 @@ date: 2020-02-08 19:07:22
 image: 'https://m.media-amazon.com/images/I/51ZzJi+KthL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC1T8SL-es Tous Bandolera S. Rene Trenzada Rojo-Multi Bolso Mujer...'
 sku: 'B07NC1T8SL-es'
 tags: [ 'bolso', ]

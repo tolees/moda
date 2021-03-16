@@ -5,7 +5,7 @@ date: 2020-06-18 12:23:10
 image: 'https://m.media-amazon.com/images/I/41iybT-KIoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXL165S-es Levi s The Jacket Chaqueta Vaquera Azul Pale Shade Indigo...'
 sku: 'B07RXL165S-es'
 tags: [ 'chaqueta', ]

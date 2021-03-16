@@ -5,7 +5,7 @@ date: 2020-01-12 13:44:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AUQVuUCKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L951SJY-es JACK & JONES NOS JJEDESERT Bomber Noos Chaqueta Azul...'
 sku: 'B07L951SJY-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-08 07:21:34
 image: 'https://m.media-amazon.com/images/I/41RB+e5aBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHTVNZJ-es Tommy Hilfiger TJM Essential Hooded Jacket Chaqueta...'
 sku: 'B07RHTVNZJ-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-05-26 21:37:44
 image: 'https://m.media-amazon.com/images/I/41Cf0ivKPAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLH4G5-es Levi s Relaxed Graphic Sudadera Blanco Crew Box Taba...'
 sku: 'B07RZLH4G5-es'
 tags: [ 'sudadera', ]

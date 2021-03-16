@@ -5,7 +5,7 @@ date: 2020-01-17 17:01:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418rAuxQ4CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU2DTY3-es Activewear Sudadera Deportiva Hombre Negro Black Medium'
 sku: 'B01MU2DTY3-es'
 tags: [ 'sudadera', ]

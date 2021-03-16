@@ -5,7 +5,7 @@ date: 2020-02-01 15:11:57
 image: 'https://m.media-amazon.com/images/I/5186pnTSw7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ9B4SB-es Esprit 089ee1f005 Blusa Blanco Off White 110 36 Talla del...'
 sku: 'B07RZ9B4SB-es'
 tags: [ 'blusa', ]

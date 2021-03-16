@@ -5,7 +5,7 @@ date: 2020-09-16 18:45:46
 image: 'https://m.media-amazon.com/images/I/31NjFKMa-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GH36GWV-es WOWOWO Bolso de Mano Multiusos de Cuero PU con Embrague...'
 sku: 'B08GH36GWV-es'
 tags: [ 'bolso', ]

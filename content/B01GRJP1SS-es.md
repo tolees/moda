@@ -5,7 +5,7 @@ date: 2020-07-26 09:24:33
 image: 'https://m.media-amazon.com/images/I/416UaZt3uXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GRJP1SS-es Columbia Techsun™ Vent Sandalias para Niñas Gris...'
 sku: 'B01GRJP1SS-es'
 tags: [ 'sandalias', ]

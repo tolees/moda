@@ -5,7 +5,7 @@ date: 2020-05-15 17:08:42
 image: 'https://m.media-amazon.com/images/I/31DWZ4QilZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A1YIKW0-es Wrangler Arizona Straight Jeans Vaqueros Rinsewash 30W /...'
 sku: 'B00A1YIKW0-es'
 tags: [ 'vaqueros', ]

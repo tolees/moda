@@ -5,7 +5,7 @@ date: 2020-08-29 19:45:40
 image: 'https://m.media-amazon.com/images/I/31rHaEDUilL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XFYRTYJ-es Vans Colorblock tee - Camiseta para Hombre Blanco...'
 sku: 'B06XFYRTYJ-es'
 tags: [ 'camiseta', ]

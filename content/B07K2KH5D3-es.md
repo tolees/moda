@@ -5,7 +5,7 @@ date: 2020-10-05 21:59:49
 image: 'https://m.media-amazon.com/images/I/31TJEryXUUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2KH5D3-es Adidas Adilette Aqua Zapatos de playa y piscina Unisex...'
 sku: 'B07K2KH5D3-es'
 tags: [ 'zapatos', ]

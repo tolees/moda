@@ -5,7 +5,7 @@ date: 2020-06-13 14:20:26
 image: 'https://m.media-amazon.com/images/I/41HnLL16gGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9B4LRJ-es ziitop Aqua Shoes Escarpines Hombres Mujer Niños Zapatos...'
 sku: 'B07P9B4LRJ-es'
 tags: [ 'zapatos', ]

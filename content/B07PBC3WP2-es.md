@@ -5,7 +5,7 @@ date: 2020-05-09 14:36:20
 image: 'https://m.media-amazon.com/images/I/31gxI18WA-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBC3WP2-es Lee Elly Vaqueros Azul Dark Marine 21 25W / 33L para Mujer'
 sku: 'B07PBC3WP2-es'
 tags: [ 'vaqueros', ]

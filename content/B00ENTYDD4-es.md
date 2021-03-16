@@ -5,7 +5,7 @@ date: 2020-02-19 20:24:24
 image: 'https://m.media-amazon.com/images/I/41xtwqwPO7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ENTYDD4-es The North Face M Resolve Chaqueta Hombre TNF Red/Cardina M'
 sku: 'B00ENTYDD4-es'
 tags: [ 'chaqueta', ]

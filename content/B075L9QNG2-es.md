@@ -5,7 +5,7 @@ date: 2020-01-26 17:41:28
 image: 'https://m.media-amazon.com/images/I/51Y-8U1TC0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075L9QNG2-es VENI MASEE Bolso de noche de flores para mujer Bolso de...'
 sku: 'B075L9QNG2-es'
 tags: [ 'bolso', ]

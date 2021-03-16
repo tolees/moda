@@ -5,7 +5,7 @@ date: 2020-10-07 16:03:43
 image: 'https://m.media-amazon.com/images/I/31i+uD9OsxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UG4U0HI-es Lacoste Crew Neck Sudadera para Hombre Black 31 X-Small...'
 sku: 'B00UG4U0HI-es'
 tags: [ 'sudadera', ]

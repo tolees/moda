@@ -5,7 +5,7 @@ date: 2020-08-10 00:42:18
 image: 'https://m.media-amazon.com/images/I/41KHE1oDYqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3B4B9-es Geox D Yulimar C Sandalias con Punta Abierta para Mujer Lt...'
 sku: 'B07DJ3B4B9-es'
 tags: [ 'geox','sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-01-04 19:18:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31X%2BFuk8zFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ31RN-es Geox U Timothy B Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFZ31RN-es'
 tags: [ 'geox','zapatos', ]

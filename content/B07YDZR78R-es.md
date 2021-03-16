@@ -5,7 +5,7 @@ date: 2020-08-28 15:28:04
 image: 'https://m.media-amazon.com/images/I/41SQg67PMjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDZR78R-es Zapatillas Casa Hombre Mujer Invierno Calido Zapatillas...'
 sku: 'B07YDZR78R-es'
 tags: [ 'zapatilla', ]

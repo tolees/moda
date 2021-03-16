@@ -5,7 +5,7 @@ date: 2020-03-12 10:35:27
 image: 'https://m.media-amazon.com/images/I/31k2ZCcUXFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N48GFVY-es United Colors of Benetton Basico 2 Man Sudadera Azul BLU...'
 sku: 'B07N48GFVY-es'
 tags: [ 'sudadera', ]

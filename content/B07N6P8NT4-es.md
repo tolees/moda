@@ -5,7 +5,7 @@ date: 2020-04-14 11:12:12
 image: 'https://m.media-amazon.com/images/I/31E6dv3bO4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6P8NT4-es Tommy Hilfiger 3p Bikini Tanga Multicolor Multi 077 Talla...'
 sku: 'B07N6P8NT4-es'
 tags: [ 'bikini', ]

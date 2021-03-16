@@ -5,7 +5,7 @@ date: 2020-04-13 10:37:48
 image: 'https://m.media-amazon.com/images/I/31s+wss+FyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L97THGR-es Under Armour Rival Solid Pantalón Niños Negro YMD'
 sku: 'B07L97THGR-es'
 tags: [ 'pantalón', ]

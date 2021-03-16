@@ -5,7 +5,7 @@ date: 2020-02-09 09:11:59
 image: 'https://m.media-amazon.com/images/I/51U8OxLWJ1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXQM9Y5-es Desigual 19WAKA35 - Bolso mochila de Sintético Mujer...'
 sku: 'B07MXQM9Y5-es'
 tags: [ 'bolso', ]

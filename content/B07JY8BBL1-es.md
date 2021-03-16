@@ -5,7 +5,7 @@ date: 2020-01-28 08:07:17
 image: 'https://m.media-amazon.com/images/I/312mgOE0ajL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY8BBL1-es Lee Malone Vaqueros Skinny Negro Black Rinse 47 26W / 32L...'
 sku: 'B07JY8BBL1-es'
 tags: [ 'vaqueros', ]

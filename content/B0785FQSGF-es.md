@@ -5,7 +5,7 @@ date: 2020-01-15 09:09:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VKWgtOBDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785FQSGF-es Under Armour UA Tormenta Pantalón Hombre Black 001 L'
 sku: 'B0785FQSGF-es'
 tags: [ 'pantalón', ]

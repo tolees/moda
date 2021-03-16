@@ -5,7 +5,7 @@ date: 2020-01-13 13:20:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/515%2By6M52JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRXPXGA-es find. Flared Sleeve Blusa para Mujer Negro Black Mix 38...'
 sku: 'B01MRXPXGA-es'
 tags: [ 'blusa', ]

@@ -5,7 +5,7 @@ date: 2020-01-13 20:40:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417LV-q1HVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8L2XMY-es Lee Hoody Sudadera Verde DK Bottle Green BB Small para Mujer'
 sku: 'B07M8L2XMY-es'
 tags: [ 'sudadera', ]

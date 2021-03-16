@@ -5,7 +5,7 @@ date: 2020-06-22 11:42:28
 image: 'https://m.media-amazon.com/images/I/41WlzJ2EboL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831PMZ8Y-es Canadian Peak Chaqueta Mujer BUNATEAK Rojo 01'
 sku: 'B0831PMZ8Y-es'
 tags: [ 'chaqueta', ]

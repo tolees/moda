@@ -5,7 +5,7 @@ date: 2020-04-01 07:09:10
 image: 'https://m.media-amazon.com/images/I/41bKyR0g23L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLHDBTK-es G-STAR RAW ARC 3D Low Waist Boyfriend Vaqueros Multicolor...'
 sku: 'B07MLHDBTK-es'
 tags: [ 'vaqueros', ]

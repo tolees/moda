@@ -5,7 +5,7 @@ date: 2020-02-26 12:01:22
 image: 'https://m.media-amazon.com/images/I/31bw-2TvdrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GDFMYVI-es retroUV UV400 – Gafas de sol de diseño clásico Multicolor...'
 sku: 'B01GDFMYVI-es'
 tags: [ 'gafas', ]

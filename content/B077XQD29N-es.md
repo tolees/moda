@@ -5,7 +5,7 @@ date: 2020-03-11 00:50:15
 image: 'https://m.media-amazon.com/images/I/31uU-pz+52L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XQD29N-es Under Armour UNDKU Coldgear Armour Camisa De Manga Larga...'
 sku: 'B077XQD29N-es'
 tags: [ 'camisa', ]

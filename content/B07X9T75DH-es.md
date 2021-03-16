@@ -5,7 +5,7 @@ date: 2020-10-02 21:50:33
 image: 'https://m.media-amazon.com/images/I/41QQyFNdI1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9T75DH-es Cevapro Guantes de ciclismo cálidos guantes de invierno...'
 sku: 'B07X9T75DH-es'
 tags: [ 'guantes', ]

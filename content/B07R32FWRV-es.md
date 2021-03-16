@@ -5,7 +5,7 @@ date: 2020-07-10 23:42:50
 image: 'https://m.media-amazon.com/images/I/41qy4bmKf3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R32FWRV-es riou Bikini Conjuntos de Bikinis para Mujer Push Up...'
 sku: 'B07R32FWRV-es'
 tags: [ 'bikini', ]

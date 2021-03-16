@@ -5,7 +5,7 @@ date: 2020-07-03 13:08:23
 image: 'https://m.media-amazon.com/images/I/51GZGFKQqRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVTQ5YN-es Billetera de cuero para hombre billetera de cuero genuino...'
 sku: 'B07CVTQ5YN-es'
 tags: [ 'billetera', ]

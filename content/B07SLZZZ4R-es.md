@@ -5,7 +5,7 @@ date: 2020-02-28 03:58:11
 image: 'https://m.media-amazon.com/images/I/41MG3oQfCCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLZZZ4R-es G-Star Sp15006 Sweat Sudadera Verde Emerald 55 14 años...'
 sku: 'B07SLZZZ4R-es'
 tags: [ 'sudadera', ]

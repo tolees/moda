@@ -5,7 +5,7 @@ date: 2020-06-28 13:18:42
 image: 'https://m.media-amazon.com/images/I/51ycrtolV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTKYMFT-es LIGE Relojes para Hombres Moda Militar Impermeable Deporte...'
 sku: 'B07TTKYMFT-es'
 tags: [ 'moda', ]

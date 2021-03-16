@@ -5,7 +5,7 @@ date: 2020-09-21 12:34:54
 image: 'https://m.media-amazon.com/images/I/51unep9zPSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W85VJ8G-es Springfield 5.T.Blusa Print Cenefas-C/66 Blusa Naranja...'
 sku: 'B07W85VJ8G-es'
 tags: [ 'blusa', ]

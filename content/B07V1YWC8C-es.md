@@ -5,7 +5,7 @@ date: 2020-01-19 19:26:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Il48xlrIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1YWC8C-es Hi-Tec Damis - Sudadera de Forro Polar para Hombre...'
 sku: 'B07V1YWC8C-es'
 tags: [ 'sudadera', ]

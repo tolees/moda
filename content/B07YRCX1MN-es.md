@@ -5,7 +5,7 @@ date: 2020-05-19 13:21:40
 image: 'https://m.media-amazon.com/images/I/31tbv9zyC+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YRCX1MN-es Marca Amazon - AURIQUE Sujetador Deportivo Bajo Impacto...'
 sku: 'B07YRCX1MN-es'
 tags: [ 'aurique', ]

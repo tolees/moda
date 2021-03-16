@@ -5,7 +5,7 @@ date: 2020-08-30 22:41:43
 image: 'https://m.media-amazon.com/images/I/31JhVrb91yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072R3LYZX-es BOSS Trunk BF Original Bóxer Negro Black 001 Medium para...'
 sku: 'B072R3LYZX-es'
 tags: [ 'bóxer', ]

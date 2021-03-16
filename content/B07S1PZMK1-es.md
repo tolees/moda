@@ -5,7 +5,7 @@ date: 2020-02-12 14:55:59
 image: 'https://m.media-amazon.com/images/I/41csKxo2xOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1PZMK1-es Esprit 089ee1i002 Chaqueta Punto Beige Beige 5 274 Medium...'
 sku: 'B07S1PZMK1-es'
 tags: [ 'chaqueta', ]

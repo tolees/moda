@@ -5,7 +5,7 @@ date: 2020-04-05 21:08:12
 image: 'https://m.media-amazon.com/images/I/31m7SsvGPQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC17T7F-es Hackett Army tee Camiseta Ecru 814 Medium para Hombre'
 sku: 'B07MC17T7F-es'
 tags: [ 'camiseta', ]

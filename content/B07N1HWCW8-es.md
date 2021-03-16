@@ -5,7 +5,7 @@ date: 2020-04-09 09:34:50
 image: 'https://m.media-amazon.com/images/I/3116CR4G1NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HWCW8-es Clarks Sharon Noel Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1HWCW8-es'
 tags: [ 'zapatos', ]

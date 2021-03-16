@@ -5,7 +5,7 @@ date: 2020-01-28 20:40:04
 image: 'https://m.media-amazon.com/images/I/31KOwpfonIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGM8MHT-es BOSS Prime Camiseta Verde Open Green 346 XX-Large para Hombre'
 sku: 'B07KGM8MHT-es'
 tags: [ 'camiseta', ]

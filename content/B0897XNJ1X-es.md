@@ -5,7 +5,7 @@ date: 2020-07-26 08:31:58
 image: 'https://m.media-amazon.com/images/I/51c1SlaC6GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0897XNJ1X-es Zapatos Colchón Aire Deporte Mujer Zapatillas Deportivas...'
 sku: 'B0897XNJ1X-es'
 tags: [ 'zapatos', ]

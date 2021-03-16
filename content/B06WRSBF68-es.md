@@ -5,7 +5,7 @@ date: 2020-09-01 21:15:04
 image: 'https://m.media-amazon.com/images/I/41N3KjeSqhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WRSBF68-es Lacoste TH6709 Camiseta para Hombre Negro Noir S Talla del...'
 sku: 'B06WRSBF68-es'
 tags: [ 'camiseta', ]

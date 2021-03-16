@@ -5,7 +5,7 @@ date: 2020-02-01 01:46:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417fan-DTgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZ4RD23-es REPLAY Zackie Vaqueros Skinny Azul Light Blue 11 W24/L34...'
 sku: 'B07KZ4RD23-es'
 tags: [ 'vaqueros', ]

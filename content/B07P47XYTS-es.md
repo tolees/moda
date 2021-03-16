@@ -5,7 +5,7 @@ date: 2020-09-01 12:25:38
 image: 'https://m.media-amazon.com/images/I/21iptgPBmYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P47XYTS-es PIECES Pckaysa SL Dress Noos Vestido Rosa Peach Skin Peach...'
 sku: 'B07P47XYTS-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-01-30 11:23:58
 image: 'https://m.media-amazon.com/images/I/41mqY+J35ML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MG6CZF-es OBEEII Vestido Princesa Niña Bordado de Tul Disfraz...'
 sku: 'B082MG6CZF-es'
 tags: [ 'vestido', ]

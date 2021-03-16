@@ -5,7 +5,7 @@ date: 2020-01-07 10:42:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T%2B6Vs0YFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RPD1TR-es Helly Hansen HH Tech Crew Camiseta Deportiva Manga Larga...'
 sku: 'B073RPD1TR-es'
 tags: [ 'camiseta', ]

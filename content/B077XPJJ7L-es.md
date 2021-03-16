@@ -5,7 +5,7 @@ date: 2020-06-27 10:33:21
 image: 'https://m.media-amazon.com/images/I/31p6eJfegxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XPJJ7L-es Under Armour Sportstyle Left Chest Camiseta Hombre Blanco LG'
 sku: 'B077XPJJ7L-es'
 tags: [ 'camiseta', ]

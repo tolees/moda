@@ -5,7 +5,7 @@ date: 2020-01-30 23:35:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wkBvAO%2BaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728CNYJK-es Crocs Crocband Sandal Kids Sandalias Unisex Niños Morado...'
 sku: 'B0728CNYJK-es'
 tags: [ 'sandalias', ]

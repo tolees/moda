@@ -5,7 +5,7 @@ date: 2020-01-13 19:32:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BmQjZhKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPX38WY-es JACK & JONES NOS Jjitom Jjoriginal Am 815 STS Vaqueros...'
 sku: 'B07JPX38WY-es'
 tags: [ 'vaqueros', ]

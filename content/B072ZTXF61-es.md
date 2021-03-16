@@ -5,7 +5,7 @@ date: 2020-06-23 16:44:41
 image: 'https://m.media-amazon.com/images/I/41nxjhZNKyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072ZTXF61-es Champion Classic Logo Camiseta Rojo M para Hombre'
 sku: 'B072ZTXF61-es'
 tags: [ 'camiseta', ]

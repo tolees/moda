@@ -5,7 +5,7 @@ date: 2020-09-03 16:41:06
 image: 'https://m.media-amazon.com/images/I/312LnG21x6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MW9ZGQ-es Iris & Lilly Braga de Bikini de Algodón Mujer Pack de 10...'
 sku: 'B082MW9ZGQ-es'
 tags: [ '&','bikini','iris','lilly', ]

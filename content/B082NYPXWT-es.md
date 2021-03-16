@@ -5,7 +5,7 @@ date: 2020-09-20 18:02:26
 image: 'https://m.media-amazon.com/images/I/418nGrq+IGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NYPXWT-es Oihxse Transparente Silicona Case Compatible con Xiaomi...'
 sku: 'B082NYPXWT-es'
 tags: [ 'moda', ]

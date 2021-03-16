@@ -5,7 +5,7 @@ date: 2020-02-09 17:19:00
 image: 'https://m.media-amazon.com/images/I/41JbJwJBkkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCBNN2V-es VICTORIA 1101 Zapatilla Bota Basket Plataforma Negro 36 EU'
 sku: 'B07GCBNN2V-es'
 tags: [ 'zapatilla', ]

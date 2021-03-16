@@ -5,7 +5,7 @@ date: 2020-01-12 12:04:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tQvApcRVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H25QBR1-es Hombre Invierno Botines Botas de Nieve Cálido Aire Libre...'
 sku: 'B07H25QBR1-es'
 tags: [ 'botines','zapatos', ]

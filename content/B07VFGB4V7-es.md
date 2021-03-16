@@ -5,7 +5,7 @@ date: 2020-08-04 09:49:19
 image: 'https://m.media-amazon.com/images/I/410p0JZyDcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFGB4V7-es Clarks Cotrell Lane 261486527 Zapatos de Cordones Derby...'
 sku: 'B07VFGB4V7-es'
 tags: [ 'zapatos', ]

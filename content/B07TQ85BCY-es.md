@@ -5,7 +5,7 @@ date: 2020-08-21 19:53:17
 image: 'https://m.media-amazon.com/images/I/41WBozLJuuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ85BCY-es Superdry Desert Alchemy Fuji Chaqueta Amarillo Autumn...'
 sku: 'B07TQ85BCY-es'
 tags: [ 'chaqueta', ]

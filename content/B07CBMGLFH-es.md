@@ -5,7 +5,7 @@ date: 2020-04-24 16:02:51
 image: 'https://m.media-amazon.com/images/I/51WiTxF1sqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBMGLFH-es Showu Camisetas Niños Manga Larga Camisa Pantalones Set of...'
 sku: 'B07CBMGLFH-es'
 tags: [ 'camisa', ]

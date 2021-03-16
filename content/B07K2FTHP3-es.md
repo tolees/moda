@@ -5,7 +5,7 @@ date: 2020-01-09 08:06:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LLfo3V3UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2FTHP3-es Timberland Bradstreet Hiker Botas Chukka para Hombre Negro...'
 sku: 'B07K2FTHP3-es'
 tags: [ 'timberland', ]

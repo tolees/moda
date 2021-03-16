@@ -5,7 +5,7 @@ date: 2020-02-17 21:51:45
 image: 'https://m.media-amazon.com/images/I/51Xbcxq1UAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBCK5MK-es Kappa Sveberg Kids Botines para Niñas Ice/Pink 6522 25 EU'
 sku: 'B07LBCK5MK-es'
 tags: [ 'botines', ]

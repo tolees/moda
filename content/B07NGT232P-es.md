@@ -5,7 +5,7 @@ date: 2020-03-24 18:58:33
 image: 'https://m.media-amazon.com/images/I/41WZBw9WREL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGT232P-es Calvin Klein 3p Low Rise Trunk Bóxer Gris Charcoal H/Rasp...'
 sku: 'B07NGT232P-es'
 tags: [ 'bóxer', ]

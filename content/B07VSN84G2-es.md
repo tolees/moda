@@ -5,7 +5,7 @@ date: 2020-05-30 11:00:00
 image: 'https://m.media-amazon.com/images/I/41-sy0Ub1UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSN84G2-es Jack & Jones JORRAFAEL Sweat Hood Sudadera con Capucha...'
 sku: 'B07VSN84G2-es'
 tags: [ 'sudadera', ]

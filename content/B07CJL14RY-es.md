@@ -5,7 +5,7 @@ date: 2020-06-15 15:25:41
 image: 'https://m.media-amazon.com/images/I/31DOSFF1EsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJL14RY-es Only Onlkendell Reg SK ANK JNS Cre178067 Noos Vaqueros...'
 sku: 'B07CJL14RY-es'
 tags: [ 'vaqueros', ]

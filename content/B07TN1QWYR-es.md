@@ -5,7 +5,7 @@ date: 2020-08-29 11:37:20
 image: 'https://m.media-amazon.com/images/I/41-Bv0bkSLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TN1QWYR-es Superdry Ls Essentials Helio Padded Jacket Chaqueta Gris...'
 sku: 'B07TN1QWYR-es'
 tags: [ 'chaqueta', ]

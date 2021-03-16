@@ -5,7 +5,7 @@ date: 2020-10-06 15:01:07
 image: 'https://m.media-amazon.com/images/I/41opp1vHrdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824ZJ2FL-es AOTIAN Bolsos Bandolera de Mujer Nylon Bolso de Hombro...'
 sku: 'B0824ZJ2FL-es'
 tags: [ 'bolso', ]

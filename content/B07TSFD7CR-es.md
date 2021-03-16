@@ -5,7 +5,7 @@ date: 2020-07-20 08:57:34
 image: 'https://m.media-amazon.com/images/I/41bcTM74VLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSFD7CR-es Wrangler Vaqueros slim Azul Light Charm 17u W31/L34 Talla...'
 sku: 'B07TSFD7CR-es'
 tags: [ 'vaqueros', ]

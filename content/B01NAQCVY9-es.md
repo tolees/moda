@@ -5,7 +5,7 @@ date: 2020-01-20 11:46:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fqEwxr%2BUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAQCVY9-es Puma Cross The Line tee Camiseta Hombre Red White XL'
 sku: 'B01NAQCVY9-es'
 tags: [ 'camiseta', ]

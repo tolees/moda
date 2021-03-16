@@ -5,7 +5,7 @@ date: 2020-08-10 09:26:29
 image: 'https://m.media-amazon.com/images/I/3158AX7MrLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC4H3FH-es Scotch & Soda Nos Oxford Shirt Relaxed Fit Button Down...'
 sku: 'B07MC4H3FH-es'
 tags: [ 'camisa','collar', ]

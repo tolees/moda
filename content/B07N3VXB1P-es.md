@@ -5,7 +5,7 @@ date: 2020-02-07 00:33:37
 image: 'https://m.media-amazon.com/images/I/410v0UkV8CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3VXB1P-es Desigual Blouse Sena Blusa Rojo BORGOÑA 3007 L para Mujer'
 sku: 'B07N3VXB1P-es'
 tags: [ 'blusa', ]

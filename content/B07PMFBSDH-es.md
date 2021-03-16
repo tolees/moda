@@ -5,7 +5,7 @@ date: 2020-05-23 11:23:25
 image: 'https://m.media-amazon.com/images/I/41IQMIkA+zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMFBSDH-es El Ganso Urban INTERSEASON Camisa casual Azul Azul 0017...'
 sku: 'B07PMFBSDH-es'
 tags: [ 'camisa', ]

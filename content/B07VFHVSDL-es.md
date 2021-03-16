@@ -5,7 +5,7 @@ date: 2020-05-10 11:21:36
 image: 'https://m.media-amazon.com/images/I/41XGCbDaF5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFHVSDL-es Jack & Jones Jprmiles BLU tee LS Henley-Pre Camisa Manga...'
 sku: 'B07VFHVSDL-es'
 tags: [ 'camisa', ]

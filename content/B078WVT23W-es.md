@@ -5,7 +5,7 @@ date: 2020-05-13 19:45:46
 image: 'https://m.media-amazon.com/images/I/31PM5RgpQdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WVT23W-es Quiksilver Zapatos de Playa y Piscina AQYL100047 XSKS'
 sku: 'B078WVT23W-es'
 tags: [ 'zapatos', ]

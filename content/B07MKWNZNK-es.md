@@ -5,7 +5,7 @@ date: 2020-01-18 02:39:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nNnOBIoyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKWNZNK-es Vestido Unicornio De Niñas Hermosos Apliques de Volantes...'
 sku: 'B07MKWNZNK-es'
 tags: [ 'vestido', ]

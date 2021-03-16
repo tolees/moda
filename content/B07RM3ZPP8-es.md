@@ -5,7 +5,7 @@ date: 2020-08-18 18:21:26
 image: 'https://m.media-amazon.com/images/I/41qI7m9r5sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM3ZPP8-es Tommy Hilfiger Cazadora Chaqueta Bomber Essential con...'
 sku: 'B07RM3ZPP8-es'
 tags: [ 'chaqueta', ]

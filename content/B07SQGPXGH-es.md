@@ -5,7 +5,7 @@ date: 2020-09-13 08:34:03
 image: 'https://m.media-amazon.com/images/I/31TexpuZ5oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGPXGH-es Geox U Nebula C Zapatillas para Hombre Azul Avio C4005 39 EU'
 sku: 'B07SQGPXGH-es'
 tags: [ 'geox', ]

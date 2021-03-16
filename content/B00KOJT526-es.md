@@ -5,7 +5,7 @@ date: 2020-10-09 15:16:22
 image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KOJT526-es Columbia Peakfreak Nomad Zapatos impermeables para hombre...'
 sku: 'B00KOJT526-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-04-12 18:28:12
 image: 'https://m.media-amazon.com/images/I/41Et4KB9eLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6DSQR4-es Guess - Jones Bolso bandolera Hombre Negro Black 10x30x34...'
 sku: 'B07P6DSQR4-es'
 tags: [ 'bolso', ]

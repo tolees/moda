@@ -5,7 +5,7 @@ date: 2020-06-28 20:43:09
 image: 'https://m.media-amazon.com/images/I/413B1Pmfd5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8V8Y2D-es Tommy Hilfiger Casual Cork Beach Sandal Sandalias con...'
 sku: 'B07V8V8Y2D-es'
 tags: [ 'sandalias', ]

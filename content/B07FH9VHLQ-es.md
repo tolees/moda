@@ -5,7 +5,7 @@ date: 2020-04-24 07:14:49
 image: 'https://m.media-amazon.com/images/I/41HzlNDALZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FH9VHLQ-es Timberland Malibu Waves Thong Sandalias para Mujer Verde...'
 sku: 'B07FH9VHLQ-es'
 tags: [ 'sandalias','timberland', ]

@@ -5,7 +5,7 @@ date: 2020-04-22 06:58:46
 image: 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QKP1Q6-es Levi s 502 Regular Taper Vaqueros Azul Prewash 95977 0181...'
 sku: 'B079QKP1Q6-es'
 tags: [ 'vaqueros', ]

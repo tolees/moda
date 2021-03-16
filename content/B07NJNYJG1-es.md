@@ -5,7 +5,7 @@ date: 2020-05-20 18:05:07
 image: 'https://m.media-amazon.com/images/I/41pmrAI34EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJNYJG1-es D C.Supernice - Zapatilla Baja Adultos Unisex Color Azul...'
 sku: 'B07NJNYJG1-es'
 tags: [ 'zapatilla', ]

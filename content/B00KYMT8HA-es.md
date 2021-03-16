@@ -5,7 +5,7 @@ date: 2020-04-30 20:43:26
 image: 'https://m.media-amazon.com/images/I/41DlbeYRi6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KYMT8HA-es Geox U Siron Mocasines para Hombre Marrón Cognac C6001 39 EU'
 sku: 'B00KYMT8HA-es'
 tags: [ 'geox', ]

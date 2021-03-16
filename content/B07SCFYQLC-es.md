@@ -5,7 +5,7 @@ date: 2020-07-13 18:15:08
 image: 'https://m.media-amazon.com/images/I/41jdxfg93tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCFYQLC-es Crocs Literide Flip Chanclas Unisex Adulto Azul Ice Blue...'
 sku: 'B07SCFYQLC-es'
 tags: [ 'chanclas', ]

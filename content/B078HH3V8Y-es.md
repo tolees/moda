@@ -5,7 +5,7 @@ date: 2020-03-09 17:28:08
 image: 'https://m.media-amazon.com/images/I/41E4vEOdWUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HH3V8Y-es GEOX Zapatos con Cordones Schnürer Edgeware Brown tamaño:42'
 sku: 'B078HH3V8Y-es'
 tags: [ 'geox','zapatos', ]

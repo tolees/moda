@@ -5,7 +5,7 @@ date: 2020-06-19 00:30:44
 image: 'https://m.media-amazon.com/images/I/41oEUHn1jzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPS18RM-es Calzado Deportivo Masculino de Seguridad con Puntera...'
 sku: 'B06XPS18RM-es'
 tags: [ 'zapatos', ]

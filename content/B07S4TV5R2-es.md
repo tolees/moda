@@ -5,7 +5,7 @@ date: 2020-06-23 08:09:57
 image: 'https://m.media-amazon.com/images/I/311+hYwnQlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4TV5R2-es Levi s 724 High Rise Straight Vaqueros Azul Los Angeles...'
 sku: 'B07S4TV5R2-es'
 tags: [ 'vaqueros', ]

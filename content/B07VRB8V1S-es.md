@@ -5,7 +5,7 @@ date: 2020-01-06 18:40:06
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRB8V1S-es Pepe Jeans Art Camiseta Gris 933grey Marl 933 3 años Talla...'
 sku: 'B07VRB8V1S-es'
 tags: [ 'camiseta', ]

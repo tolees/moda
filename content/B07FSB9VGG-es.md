@@ -5,7 +5,7 @@ date: 2020-01-21 18:53:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41C6G8hMe7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSB9VGG-es Ternua K7 W Chaqueta Mujer Azul Dark Lagoon Melange L'
 sku: 'B07FSB9VGG-es'
 tags: [ 'chaqueta', ]

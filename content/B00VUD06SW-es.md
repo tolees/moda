@@ -5,7 +5,7 @@ date: 2020-06-15 18:00:54
 image: 'https://m.media-amazon.com/images/I/41hlmhtPxnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VUD06SW-es Roamers - Zapatos con Cordones para pies Anchos Hombre...'
 sku: 'B00VUD06SW-es'
 tags: [ 'zapatos', ]

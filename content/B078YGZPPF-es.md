@@ -5,7 +5,7 @@ date: 2020-01-02 16:21:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sTmYyMquL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YGZPPF-es Schiesser Puppy Love Baby Anzug 2-Teilig Conjuntos de...'
 sku: 'B078YGZPPF-es'
 tags: [ 'pijama', ]

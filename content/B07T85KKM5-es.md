@@ -5,7 +5,7 @@ date: 2020-08-17 13:22:24
 image: 'https://m.media-amazon.com/images/I/31GfWyol4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T85KKM5-es Helly Hansen W Iris Sandalias de Punta Descubierta para...'
 sku: 'B07T85KKM5-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-01-21 20:48:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-R8MguAUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVJVXFF-es New Balance MS 247 FK de la Zapatilla de deporte para...'
 sku: 'B07DVJVXFF-es'
 tags: [ 'zapatilla', ]

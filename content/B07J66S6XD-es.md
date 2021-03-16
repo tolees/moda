@@ -5,7 +5,7 @@ date: 2020-06-25 17:39:14
 image: 'https://m.media-amazon.com/images/I/41t7pomr04L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J66S6XD-es Lee Extreme Motion Straight Vaqueros Azul Maddox PU 32W /...'
 sku: 'B07J66S6XD-es'
 tags: [ 'vaqueros', ]

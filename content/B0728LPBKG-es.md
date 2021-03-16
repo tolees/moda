@@ -5,7 +5,7 @@ date: 2020-04-20 14:02:55
 image: 'https://m.media-amazon.com/images/I/4167PJ2azoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728LPBKG-es WuiWuiyu - Zapatilla Baja de Material Sintético para Chico'
 sku: 'B0728LPBKG-es'
 tags: [ 'zapatilla', ]

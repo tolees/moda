@@ -5,7 +5,7 @@ date: 2020-10-04 09:55:19
 image: 'https://m.media-amazon.com/images/I/41NWcu+2Y7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKWLVTF-es Havaianas High Light Chanclas para Mujer Negro Black/Dark...'
 sku: 'B07SKWLVTF-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-05-29 06:22:25
 image: 'https://m.media-amazon.com/images/I/41wwIuZePLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYR2HSZ-es Paninara Sin Collar 6"Impermeable Ca2461 Naranja Quemada -...'
 sku: 'B07TYR2HSZ-es'
 tags: [ 'collar', ]

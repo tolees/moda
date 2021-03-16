@@ -5,7 +5,7 @@ date: 2020-06-21 08:31:25
 image: 'https://m.media-amazon.com/images/I/416I0hHz2pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9WTC99-es Zuecos Hombre Playa Piscina Sanitarios Enfermera Goma...'
 sku: 'B07B9WTC99-es'
 tags: [ 'sandalias','zuecos', ]

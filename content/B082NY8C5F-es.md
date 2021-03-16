@@ -5,7 +5,7 @@ date: 2020-08-06 14:02:04
 image: 'https://m.media-amazon.com/images/I/31hY2cw0OWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NY8C5F-es Oihxse Transparente Silicona Case Compatible con Xiaomi Mi...'
 sku: 'B082NY8C5F-es'
 tags: [ 'moda', ]

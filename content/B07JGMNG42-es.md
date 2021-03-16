@@ -5,7 +5,7 @@ date: 2020-05-16 18:05:09
 image: 'https://m.media-amazon.com/images/I/517pqmhr50L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGMNG42-es HBselect 2 PCS Bolsa Pañales Impermeable Organizador...'
 sku: 'B07JGMNG42-es'
 tags: [ 'bolso', ]

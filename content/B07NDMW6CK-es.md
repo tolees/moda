@@ -5,7 +5,7 @@ date: 2020-09-17 18:21:19
 image: 'https://m.media-amazon.com/images/I/515lzsdkN0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMW6CK-es Tous Dorp - Monedero para Mujer Rosa 10 x 8 x 2.5 cm'
 sku: 'B07NDMW6CK-es'
 tags: [ 'monedero', ]

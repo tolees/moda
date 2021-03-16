@@ -5,7 +5,7 @@ date: 2020-01-06 19:02:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FkCJM2QbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL6J7R-es G-STAR RAW Graphic 24 Loose Round Neck Sudadera Beige Milk...'
 sku: 'B07NDL6J7R-es'
 tags: [ 'sudadera', ]

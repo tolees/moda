@@ -5,7 +5,7 @@ date: 2020-09-16 09:10:42
 image: 'https://m.media-amazon.com/images/I/41JIQO6G19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6RMFLY-es GettyGears Bolero - Chaqueta de piel sintética con broche...'
 sku: 'B07Z6RMFLY-es'
 tags: [ 'abrigo','chaqueta','vestido', ]

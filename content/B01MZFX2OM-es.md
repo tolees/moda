@@ -5,7 +5,7 @@ date: 2020-03-30 19:18:38
 image: 'https://m.media-amazon.com/images/I/31q87xXX+uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZFX2OM-es Crocs Athens Chanclas Unisex Adulto Marrón Espresso/Walnut...'
 sku: 'B01MZFX2OM-es'
 tags: [ 'chanclas', ]

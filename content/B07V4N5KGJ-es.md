@@ -5,7 +5,7 @@ date: 2020-07-31 18:01:29
 image: 'https://m.media-amazon.com/images/I/41dLKe3Z4mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4N5KGJ-es Tommy Hilfiger TH Hardware Basic Mid Wedge Chanclas para...'
 sku: 'B07V4N5KGJ-es'
 tags: [ 'chanclas', ]

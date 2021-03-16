@@ -5,7 +5,7 @@ date: 2019-12-31 19:06:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31PUDrtsvAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFM3QHZ-es Clarks Arla Free Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MFM3QHZ-es'
 tags: [ 'zapatos', ]

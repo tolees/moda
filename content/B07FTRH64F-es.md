@@ -5,7 +5,7 @@ date: 2020-08-03 11:25:38
 image: 'https://m.media-amazon.com/images/I/41rVoWWT1WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTRH64F-es Lee Rider Vaqueros Slim para Hombre Azul Broken Blue Sx...'
 sku: 'B07FTRH64F-es'
 tags: [ 'vaqueros', ]

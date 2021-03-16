@@ -5,7 +5,7 @@ date: 2020-04-27 05:48:21
 image: 'https://m.media-amazon.com/images/I/41cVqkUohRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0198WKA2S-es Timberland Kenniston 6 Inch Lace Up Botas para Mujer...'
 sku: 'B0198WKA2S-es'
 tags: [ 'timberland', ]

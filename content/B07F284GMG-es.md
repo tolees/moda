@@ -5,7 +5,7 @@ date: 2020-05-27 15:39:31
 image: 'https://m.media-amazon.com/images/I/41j+wgDnSkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F284GMG-es Pimkie PBW18 G-Daim Falda Marrón Autres 786A07 38 Talla...'
 sku: 'B07F284GMG-es'
 tags: [ 'falda', ]

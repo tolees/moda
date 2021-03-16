@@ -5,7 +5,7 @@ date: 2020-01-28 20:34:51
 image: 'https://m.media-amazon.com/images/I/41Pph8oIoAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ2P85-es Geox U Kristof A Zapatillas para Hombre Marrón Dk...'
 sku: 'B07LFZ2P85-es'
 tags: [ 'geox', ]

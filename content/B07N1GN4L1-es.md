@@ -5,7 +5,7 @@ date: 2020-06-17 16:05:22
 image: 'https://m.media-amazon.com/images/I/418yDEg8EdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GN4L1-es Clarks Hamble Oak Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1GN4L1-es'
 tags: [ 'zapatos', ]

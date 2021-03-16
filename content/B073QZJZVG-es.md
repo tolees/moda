@@ -5,7 +5,7 @@ date: 2020-09-13 08:35:31
 image: 'https://m.media-amazon.com/images/I/41p7iuka5JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QZJZVG-es Havaianas Slim Chanclas Mujer Rosa Ballet Rose 37/38 EU'
 sku: 'B073QZJZVG-es'
 tags: [ 'chanclas', ]

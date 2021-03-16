@@ -5,7 +5,7 @@ date: 2020-03-15 15:47:09
 image: 'https://m.media-amazon.com/images/I/41jkeZ5uA9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLT1L8V-es HKT by Hackett Hkt Ltweight Down Jkt Chaqueta Navy 595...'
 sku: 'B07MLT1L8V-es'
 tags: [ 'chaqueta', ]

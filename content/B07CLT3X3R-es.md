@@ -5,7 +5,7 @@ date: 2020-09-18 12:34:29
 image: 'https://m.media-amazon.com/images/I/51a0Xlcs8LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLT3X3R-es Vintage Camisetas Mujer Manga Corta Negro Aesthetic Verano...'
 sku: 'B07CLT3X3R-es'
 tags: [ 'moda', ]

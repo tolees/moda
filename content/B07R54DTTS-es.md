@@ -5,7 +5,7 @@ date: 2020-01-08 17:35:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410ehxrcdwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R54DTTS-es 【La última Versión Original 2019】Pantalones para Adelgazar...'
 sku: 'B07R54DTTS-es'
 tags: [ 'leggins','pantalón', ]

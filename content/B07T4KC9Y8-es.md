@@ -5,7 +5,7 @@ date: 2020-07-09 00:20:48
 image: 'https://m.media-amazon.com/images/I/41jvNM8ZAwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4KC9Y8-es FeelinGirl Mujer Vestido Maxi Estampado Floral Espalda...'
 sku: 'B07T4KC9Y8-es'
 tags: [ 'falda','vestido', ]

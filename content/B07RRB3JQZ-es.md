@@ -5,7 +5,7 @@ date: 2020-06-24 13:18:31
 image: 'https://m.media-amazon.com/images/I/41TPl32k5kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRB3JQZ-es Lee Luke Vaqueros Nitrate VM 38W / 34L para Hombre'
 sku: 'B07RRB3JQZ-es'
 tags: [ 'vaqueros', ]

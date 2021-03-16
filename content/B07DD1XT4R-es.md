@@ -5,7 +5,7 @@ date: 2020-05-22 09:52:00
 image: 'https://m.media-amazon.com/images/I/41rnXuiDC8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD1XT4R-es Odlo T-Shirt MC Millenium Element Camiseta Ligera Hombre...'
 sku: 'B07DD1XT4R-es'
 tags: [ 'camiseta', ]

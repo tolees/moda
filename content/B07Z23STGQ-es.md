@@ -5,7 +5,7 @@ date: 2020-05-06 19:38:54
 image: 'https://m.media-amazon.com/images/I/31JxL8VS27L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z23STGQ-es Vans Spicoli 4 Shades Gafas de sol Negro Black/Charcoal...'
 sku: 'B07Z23STGQ-es'
 tags: [ 'gafas', ]

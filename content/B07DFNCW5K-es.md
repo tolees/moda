@@ -5,7 +5,7 @@ date: 2020-10-12 14:20:51
 image: 'https://m.media-amazon.com/images/I/41TO5gmbxLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFNCW5K-es Marca Amazon - find. Statement Fairisle Jumper Suéter...'
 sku: 'B07DFNCW5K-es'
 tags: [ '-','find.', ]

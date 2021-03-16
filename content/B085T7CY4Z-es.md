@@ -5,7 +5,7 @@ date: 2020-08-18 14:13:07
 image: 'https://m.media-amazon.com/images/I/41YwDUyfzPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085T7CY4Z-es LIVACASA Riñoneras Mujeres Deportivas Riñoneras de Moda...'
 sku: 'B085T7CY4Z-es'
 tags: [ 'moda', ]

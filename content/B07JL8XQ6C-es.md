@@ -5,7 +5,7 @@ date: 2020-03-30 19:19:34
 image: 'https://m.media-amazon.com/images/I/41iFZMJ6QkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JL8XQ6C-es Columbia Redmond Zapatos Bajos Impermeables Unisex Niños...'
 sku: 'B07JL8XQ6C-es'
 tags: [ 'zapatos', ]

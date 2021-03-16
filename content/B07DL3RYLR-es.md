@@ -5,7 +5,7 @@ date: 2020-06-01 19:31:47
 image: 'https://m.media-amazon.com/images/I/41IEy20Xz8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DL3RYLR-es Sikai Amazfit Sports Smartwatch Stratos 2 Marco Caso...'
 sku: 'B07DL3RYLR-es'
 tags: [ 'moda', ]

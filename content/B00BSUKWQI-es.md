@@ -5,7 +5,7 @@ date: 2020-09-24 15:56:37
 image: 'https://m.media-amazon.com/images/I/31BjdiT7IqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BSUKWQI-es Uvex Sportstyle 215 Gafas de Ciclismo Unisex Adulto Negro...'
 sku: 'B00BSUKWQI-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-02-24 13:34:12
 image: 'https://m.media-amazon.com/images/I/4156EKOIhWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCLYW5T-es Lee Rider Jacket Chaqueta Vaquera Azul Cerulean EI Medium...'
 sku: 'B07SCLYW5T-es'
 tags: [ 'chaqueta', ]

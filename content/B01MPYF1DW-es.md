@@ -5,7 +5,7 @@ date: 2020-06-11 22:01:18
 image: 'https://m.media-amazon.com/images/I/41YOhCA0g2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MPYF1DW-es Pepe Jeans Hatch Vaqueros Slim para Hombre Azul Denim Z45...'
 sku: 'B01MPYF1DW-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-04-17 11:33:53
 image: 'https://m.media-amazon.com/images/I/41sSJuhUQvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVQD4VR-es Collar de árbol de la vida y la familia con búho de...'
 sku: 'B07DVQD4VR-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-08-18 11:30:15
 image: 'https://m.media-amazon.com/images/I/41hGD2WI2aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074TDR9PY-es ZAPATO GEOX U741UA 020FU C61T7J MARRON 44 Marron'
 sku: 'B074TDR9PY-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-03-23 21:03:12
 image: 'https://m.media-amazon.com/images/I/31qh1M-UaVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRHYTS-es Geox U HALLSON A Botas Chukka para Hombre Gris Stone C9007...'
 sku: 'B07LFRHYTS-es'
 tags: [ 'geox', ]

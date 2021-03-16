@@ -5,7 +5,7 @@ date: 2020-10-01 18:33:37
 image: 'https://m.media-amazon.com/images/I/41LVfg0DEoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2LGSBZ-es Pepe Jeans Piccadilly 7/8 Vaqueros Straight Azul 000Denim...'
 sku: 'B07X2LGSBZ-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-06-17 20:06:16
 image: 'https://m.media-amazon.com/images/I/31fJGswAsbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCLHRTN-es Clarks Tilden Plain Zapatos de cordones derby Hombre...'
 sku: 'B06XCLHRTN-es'
 tags: [ 'zapatos', ]

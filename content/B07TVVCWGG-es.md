@@ -5,7 +5,7 @@ date: 2020-05-30 21:42:37
 image: 'https://m.media-amazon.com/images/I/31OvBT8JjqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVVCWGG-es Lee Scarlett High Vaqueros Azul Mid Jelt GT 25W/31L para...'
 sku: 'B07TVVCWGG-es'
 tags: [ 'vaqueros', ]

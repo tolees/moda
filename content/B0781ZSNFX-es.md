@@ -5,7 +5,7 @@ date: 2020-06-26 00:37:24
 image: 'https://m.media-amazon.com/images/I/31ZJgibPi+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781ZSNFX-es Puma Liga TR JSY Camiseta de Manga Corta Hombre Azul...'
 sku: 'B0781ZSNFX-es'
 tags: [ 'camiseta', ]

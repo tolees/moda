@@ -5,7 +5,7 @@ date: 2020-02-18 15:15:51
 image: 'https://m.media-amazon.com/images/I/41F1C28NArL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4TP23-es Levi s The Perfect Tee Camiseta Mujer Rojo Sptwr Logo...'
 sku: 'B07KF4TP23-es'
 tags: [ 'camiseta', ]

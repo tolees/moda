@@ -5,7 +5,7 @@ date: 2020-03-11 11:19:44
 image: 'https://m.media-amazon.com/images/I/31Iyk7LaVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P74VXN4-es Agatha Ruiz de la Prada 191957 Botines para Niñas Rojo...'
 sku: 'B07P74VXN4-es'
 tags: [ 'botines', ]

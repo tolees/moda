@@ -5,7 +5,7 @@ date: 2020-04-02 05:10:10
 image: 'https://m.media-amazon.com/images/I/41r0SdCAq6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV5M6XS-es Unisex Riverdale Impreso Simple Estudiantes de Gran...'
 sku: 'B07MV5M6XS-es'
 tags: [ 'bolso', ]

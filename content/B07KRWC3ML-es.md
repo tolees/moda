@@ -5,7 +5,7 @@ date: 2020-09-25 15:14:41
 image: 'https://m.media-amazon.com/images/I/31cmjZL-WYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRWC3ML-es Columbia Tolmie Butte Chaqueta Hombre Gris Cool Grey XL'
 sku: 'B07KRWC3ML-es'
 tags: [ 'chaqueta', ]

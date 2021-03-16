@@ -5,7 +5,7 @@ date: 2020-10-11 04:51:17
 image: 'https://m.media-amazon.com/images/I/31TSnYb7OML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5K6WM6-es find. 2 Pack Slim Shirt - Camisa Hombre Multicolor...'
 sku: 'B07G5K6WM6-es'
 tags: [ 'camisa', ]

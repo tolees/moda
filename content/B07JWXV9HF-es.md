@@ -5,7 +5,7 @@ date: 2020-01-12 18:41:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/211dwkCHPHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWXV9HF-es G-STAR RAW Graphic 18 Mysid Slim Camiseta Beige Milk 111...'
 sku: 'B07JWXV9HF-es'
 tags: [ 'camiseta', ]

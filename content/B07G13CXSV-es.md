@@ -5,7 +5,7 @@ date: 2020-06-11 17:47:01
 image: 'https://m.media-amazon.com/images/I/31qzxjG-FzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G13CXSV-es Gafas de lectura sin patillas graduadas para hombre y...'
 sku: 'B07G13CXSV-es'
 tags: [ 'gafas', ]

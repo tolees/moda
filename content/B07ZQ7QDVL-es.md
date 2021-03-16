@@ -5,7 +5,7 @@ date: 2020-04-14 00:06:43
 image: 'https://m.media-amazon.com/images/I/41mbBKxhZnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQ7QDVL-es MR.SIGA Guantes para el Lavado de Platos Reutilizables...'
 sku: 'B07ZQ7QDVL-es'
 tags: [ 'guantes', ]

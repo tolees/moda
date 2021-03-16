@@ -5,7 +5,7 @@ date: 2020-03-17 21:40:37
 image: 'https://m.media-amazon.com/images/I/41-lPrhCkdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLNJXQ-es Napapijri BAUNT FZH Sudadera Azul BLU Marine 176 S para...'
 sku: 'B07MMLNJXQ-es'
 tags: [ 'sudadera', ]

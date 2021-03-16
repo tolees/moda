@@ -5,7 +5,7 @@ date: 2020-07-05 07:10:33
 image: 'https://m.media-amazon.com/images/I/41T6o0dURuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXTHMKW-es Geox D Suzzie B Zapatillas para Mujer Marfil Off White/Lt...'
 sku: 'B07SXTHMKW-es'
 tags: [ 'geox', ]

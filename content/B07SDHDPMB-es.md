@@ -5,7 +5,7 @@ date: 2020-07-01 15:54:27
 image: 'https://m.media-amazon.com/images/I/51sHgqSH5gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDHDPMB-es Disney HS1472 Sudadera Gris Grey Grey 8 años para Niños'
 sku: 'B07SDHDPMB-es'
 tags: [ 'sudadera', ]

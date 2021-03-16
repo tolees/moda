@@ -5,7 +5,7 @@ date: 2020-09-22 11:01:21
 image: 'https://m.media-amazon.com/images/I/41T4ZSB82ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004SGJRR4-es PUMA Suede Classic+ Zapatilla para Hombre Negro...'
 sku: 'B004SGJRR4-es'
 tags: [ 'zapatilla', ]

@@ -5,7 +5,7 @@ date: 2020-09-24 18:24:56
 image: 'https://m.media-amazon.com/images/I/41OqHH2cCkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVC2YVT-es Geographical Norway Sudadera Mujer GYMCLASS B Azul Marino XL'
 sku: 'B07XVC2YVT-es'
 tags: [ 'sudadera', ]

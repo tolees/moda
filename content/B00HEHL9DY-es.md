@@ -5,7 +5,7 @@ date: 2020-04-26 09:47:20
 image: 'https://m.media-amazon.com/images/I/41NUpAgQWhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HEHL9DY-es Conjunto de 3 piezas camiseta camisa a cuadros y...'
 sku: 'B00HEHL9DY-es'
 tags: [ 'camisa','camiseta', ]

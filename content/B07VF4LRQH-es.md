@@ -5,7 +5,7 @@ date: 2020-02-11 12:32:54
 image: 'https://m.media-amazon.com/images/I/41dlmej43iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF4LRQH-es JACK & JONES NOS Jjijean Jjjacket CR 139 STS Chaqueta...'
 sku: 'B07VF4LRQH-es'
 tags: [ 'chaqueta', ]

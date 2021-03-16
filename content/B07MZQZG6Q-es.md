@@ -5,7 +5,7 @@ date: 2020-03-11 11:07:50
 image: 'https://m.media-amazon.com/images/I/41x3f2hX-WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQZG6Q-es Pepe Jeans Hatch Vaqueros Slim Wiser Wash Dark Used Denim...'
 sku: 'B07MZQZG6Q-es'
 tags: [ 'vaqueros', ]

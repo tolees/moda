@@ -5,7 +5,7 @@ date: 2020-01-15 17:07:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316IHEIds5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KKJQ118-es James & Nicholson Children s - Sudadera infantil Azul Sky...'
 sku: 'B00KKJQ118-es'
 tags: [ 'sudadera', ]

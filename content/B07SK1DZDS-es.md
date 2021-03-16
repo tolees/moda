@@ -5,7 +5,7 @@ date: 2020-07-04 13:45:44
 image: 'https://m.media-amazon.com/images/I/41b3U7Nl8JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK1DZDS-es ACVIP - Correa de hombro ancha ajustable a rayas para...'
 sku: 'B07SK1DZDS-es'
 tags: [ 'bolso', ]

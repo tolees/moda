@@ -5,7 +5,7 @@ date: 2020-05-28 06:46:49
 image: 'https://m.media-amazon.com/images/I/41358Rrtw5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078Y7SPGG-es The North Face Jacket Chaqueta Trevail Hombre Bomber Blue M'
 sku: 'B078Y7SPGG-es'
 tags: [ 'chaqueta', ]

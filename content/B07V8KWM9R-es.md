@@ -5,7 +5,7 @@ date: 2020-09-21 18:45:24
 image: 'https://m.media-amazon.com/images/I/41j56QEJ7GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8KWM9R-es Calvin Klein Instit Chest Logo Mock Neck Sudadera Gris Mid...'
 sku: 'B07V8KWM9R-es'
 tags: [ 'sudadera', ]

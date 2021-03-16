@@ -5,7 +5,7 @@ date: 2020-04-01 06:55:31
 image: 'https://m.media-amazon.com/images/I/31WxJQKy87L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N25NC9P-es Seidensticker X-Slim Fit Langarm Mit Business Kent-Kragen...'
 sku: 'B07N25NC9P-es'
 tags: [ 'camisa', ]

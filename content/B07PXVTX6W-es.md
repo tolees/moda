@@ -5,7 +5,7 @@ date: 2020-04-13 08:40:14
 image: 'https://m.media-amazon.com/images/I/41Gnq09hxeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXVTX6W-es rismart Mujer Cuña Plataforma Botín Elegante Deportivos...'
 sku: 'B07PXVTX6W-es'
 tags: [ 'zapatos', ]

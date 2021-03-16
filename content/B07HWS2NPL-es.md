@@ -5,7 +5,7 @@ date: 2020-03-05 00:59:52
 image: 'https://m.media-amazon.com/images/I/51I-QjOyVVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HWS2NPL-es GANT D1. Harvest Moon Chiffon Blouse Blusa Azul Persian...'
 sku: 'B07HWS2NPL-es'
 tags: [ 'blusa', ]

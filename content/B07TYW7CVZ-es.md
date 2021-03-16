@@ -5,7 +5,7 @@ date: 2020-08-09 14:54:05
 image: 'https://m.media-amazon.com/images/I/3183t4xR9mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYW7CVZ-es Wrangler LS 2kt Flap Shirt Camisa Azul Directoire Blue Xkl...'
 sku: 'B07TYW7CVZ-es'
 tags: [ 'camisa', ]

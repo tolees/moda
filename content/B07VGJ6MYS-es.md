@@ -5,7 +5,7 @@ date: 2020-04-27 09:18:58
 image: 'https://m.media-amazon.com/images/I/41IfExGAjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGJ6MYS-es JACK & JONES Jcoglobe Parka Verde Forest Night Forest...'
 sku: 'B07VGJ6MYS-es'
 tags: [ 'parka', ]

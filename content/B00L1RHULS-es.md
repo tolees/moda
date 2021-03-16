@@ -5,7 +5,7 @@ date: 2020-04-28 13:48:26
 image: 'https://m.media-amazon.com/images/I/41ZZwiXgdkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L1RHULS-es Columbia Cascades Explorer Pantalón Largo Hombre Gris...'
 sku: 'B00L1RHULS-es'
 tags: [ 'pantalón', ]

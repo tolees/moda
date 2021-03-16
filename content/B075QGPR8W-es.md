@@ -5,7 +5,7 @@ date: 2020-06-22 19:37:57
 image: 'https://m.media-amazon.com/images/I/41efU0to+aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QGPR8W-es Marca Amazon - find. Sudadera Jaspeada Hombre Verde Green...'
 sku: 'B075QGPR8W-es'
 tags: [ '-','find.','sudadera', ]

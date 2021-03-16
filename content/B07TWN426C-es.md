@@ -5,7 +5,7 @@ date: 2020-08-09 19:13:36
 image: 'https://m.media-amazon.com/images/I/41d8W02bi8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWN426C-es Wrangler Skinny Vaqueros Blue Powder 15L 30W / 30L para Mujer'
 sku: 'B07TWN426C-es'
 tags: [ 'vaqueros', ]

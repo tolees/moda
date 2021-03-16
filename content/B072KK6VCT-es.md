@@ -5,7 +5,7 @@ date: 2020-06-22 14:13:24
 image: 'https://m.media-amazon.com/images/I/3114CYrbVcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KK6VCT-es BOSS Mix & Match T-Shirt R Camiseta Negro Black 001 Small...'
 sku: 'B072KK6VCT-es'
 tags: [ 'camiseta', ]

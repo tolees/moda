@@ -5,7 +5,7 @@ date: 2020-03-09 08:03:29
 image: 'https://m.media-amazon.com/images/I/41GIAL1woxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL56LPQ-es Vansney Moda Mujer Chunky Sneakers Mocasines Confort...'
 sku: 'B07HL56LPQ-es'
 tags: [ 'moda','zapatos', ]

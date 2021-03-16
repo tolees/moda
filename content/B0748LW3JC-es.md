@@ -5,7 +5,7 @@ date: 2020-01-04 12:57:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DO4mObyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0748LW3JC-es find. Jersey de Algodón para Mujer Rojo Burgandy 46 Talla...'
 sku: 'B0748LW3JC-es'
 tags: [ 'jersey', ]

@@ -5,7 +5,7 @@ date: 2020-04-20 09:47:19
 image: 'https://m.media-amazon.com/images/I/41SdA9sz4WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GUXK8F8-es Columbia Woodburn II Zapatilla Multideporte para Hombre...'
 sku: 'B00GUXK8F8-es'
 tags: [ 'zapatilla', ]

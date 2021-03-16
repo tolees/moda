@@ -5,7 +5,7 @@ date: 2020-04-27 15:12:06
 image: 'https://m.media-amazon.com/images/I/41QKcksBj3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNLXSVB-es Levi s Original Hm Pullover Hoo Sudadera Verde Olive Night...'
 sku: 'B07TNLXSVB-es'
 tags: [ 'sudadera', ]

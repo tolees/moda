@@ -5,7 +5,7 @@ date: 2020-07-13 19:31:17
 image: 'https://m.media-amazon.com/images/I/31rIfzKxU8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKS4P25-es Clarks Adriel Cove Zapatos con Tacon y Correa de Tobillo...'
 sku: 'B07TKS4P25-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-28 09:23:18
 image: 'https://m.media-amazon.com/images/I/41ebl2mQkNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYOB454-es PUMA Popcat Zapatos de Playa y Piscina Unisex Adulto White...'
 sku: 'B01MYOB454-es'
 tags: [ 'zapatos', ]

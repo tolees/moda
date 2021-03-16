@@ -5,7 +5,7 @@ date: 2020-09-28 17:59:40
 image: 'https://m.media-amazon.com/images/I/310in1U7tDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CL1FH8-es Samsonite Hip-Square - Tablet Cross-over M 7.9" Bolso...'
 sku: 'B076CL1FH8-es'
 tags: [ 'bolso', ]

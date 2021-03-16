@@ -5,7 +5,7 @@ date: 2020-07-30 06:20:12
 image: 'https://m.media-amazon.com/images/I/41GHTXuHN-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ34V1W-es Geox D Rubidia A Zapatillas para Mujer Beige Light Taupe...'
 sku: 'B07DJ34V1W-es'
 tags: [ 'geox', ]

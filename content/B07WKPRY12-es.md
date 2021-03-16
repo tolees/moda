@@ -5,7 +5,7 @@ date: 2020-09-11 14:03:23
 image: 'https://m.media-amazon.com/images/I/41aJSIpCVqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKPRY12-es Pepe Jeans Montana Camiseta Azul Old Navy 584 Large para...'
 sku: 'B07WKPRY12-es'
 tags: [ 'camiseta', ]

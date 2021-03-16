@@ -5,7 +5,7 @@ date: 2020-03-22 10:42:19
 image: 'https://m.media-amazon.com/images/I/313Tysp0ctL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3M6NK6-es Superdry Ana High Neck Crew Sudadera Blanco Soft White L6o...'
 sku: 'B07P3M6NK6-es'
 tags: [ 'sudadera', ]

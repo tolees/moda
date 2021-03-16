@@ -5,7 +5,7 @@ date: 2020-04-02 18:19:41
 image: 'https://m.media-amazon.com/images/I/411LLmL9AgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RX1Z2D8-es BILLABONG TRD Mrk LS tee Camiseta Gris Grey Heather 9 One...'
 sku: 'B07RX1Z2D8-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-20 12:12:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eSX2bUNYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8WHBNG-es REPLAY M3846 .000.2660 Camiseta Verde Dark Green 839 Small...'
 sku: 'B07L8WHBNG-es'
 tags: [ 'camiseta', ]

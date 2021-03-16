@@ -5,7 +5,7 @@ date: 2020-06-25 06:05:39
 image: 'https://m.media-amazon.com/images/I/41L2P3VdT8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CG6ZR41-es Marca Amazon - IRIS & LILLY Top de Bikini Crochet Mujer...'
 sku: 'B07CG6ZR41-es'
 tags: [ '&','bikini','iris','lilly', ]

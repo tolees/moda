@@ -5,7 +5,7 @@ date: 2020-02-27 13:28:40
 image: 'https://m.media-amazon.com/images/I/31nApARJX6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZTR7VG-es Under Armour Qualifier Storm Run Chaqueta Hombre Gris SM'
 sku: 'B07QZTR7VG-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-09-28 19:54:20
 image: 'https://m.media-amazon.com/images/I/31eME1Pr5-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0796CQ4QP-es Napapijri Rainforest M Sum 1 Chaqueta Gris Volcano H74...'
 sku: 'B0796CQ4QP-es'
 tags: [ 'chaqueta', ]

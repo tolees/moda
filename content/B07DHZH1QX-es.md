@@ -5,7 +5,7 @@ date: 2020-06-29 16:53:10
 image: 'https://m.media-amazon.com/images/I/31wz2OYpGoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHZH1QX-es Geox D Rubidia A Zapatillas para Mujer Azul Navy C4002 38 EU'
 sku: 'B07DHZH1QX-es'
 tags: [ 'geox', ]

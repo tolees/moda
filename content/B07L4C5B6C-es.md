@@ -5,7 +5,7 @@ date: 2020-01-10 11:09:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EGiYveeML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4C5B6C-es Tamaris 1-1-22426-23 Zapatos con Plataforma para Mujer...'
 sku: 'B07L4C5B6C-es'
 tags: [ 'zapatos', ]

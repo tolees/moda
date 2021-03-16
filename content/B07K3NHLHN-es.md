@@ -5,7 +5,7 @@ date: 2020-02-16 18:12:44
 image: 'https://m.media-amazon.com/images/I/31RqvsifX8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3NHLHN-es BOSS Mabsoot Camisa Blanco White 00100 X-Large para Hombre'
 sku: 'B07K3NHLHN-es'
 tags: [ 'camisa', ]

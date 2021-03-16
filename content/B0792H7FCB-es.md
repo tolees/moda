@@ -5,7 +5,7 @@ date: 2020-01-31 21:22:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318c4sBHjdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792H7FCB-es FITFLOP Gogh Moc Slide in Leather Zapatos de Playa y...'
 sku: 'B0792H7FCB-es'
 tags: [ 'zapatos', ]

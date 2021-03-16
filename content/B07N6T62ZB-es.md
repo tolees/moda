@@ -5,7 +5,7 @@ date: 2020-04-15 16:29:27
 image: 'https://m.media-amazon.com/images/I/41pzaMDXTwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6T62ZB-es Tommy Hilfiger Bralette Rp Parte de Arriba de Bikini Rosa...'
 sku: 'B07N6T62ZB-es'
 tags: [ 'bikini', ]

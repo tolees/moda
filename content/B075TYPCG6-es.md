@@ -5,7 +5,7 @@ date: 2020-05-23 16:16:21
 image: 'https://m.media-amazon.com/images/I/41ZIYW1Wh3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TYPCG6-es Only Onlsedona Light Coat Otw Noos Abrigo Marrón Etherea...'
 sku: 'B075TYPCG6-es'
 tags: [ 'abrigo', ]

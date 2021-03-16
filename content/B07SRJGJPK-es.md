@@ -5,7 +5,7 @@ date: 2020-09-04 15:50:00
 image: 'https://m.media-amazon.com/images/I/41JgoD02xHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRJGJPK-es Geox J POSEIDO Boy D Zapatillas para Niños Azul Navy/Red...'
 sku: 'B07SRJGJPK-es'
 tags: [ 'geox', ]

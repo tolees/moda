@@ -5,7 +5,7 @@ date: 2020-06-20 20:48:53
 image: 'https://m.media-amazon.com/images/I/21u56Usr-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDN3C4H-es Tous Kaos Shock - Organizador de Bolso para Mujer Arena...'
 sku: 'B07NDN3C4H-es'
 tags: [ 'bolso', ]

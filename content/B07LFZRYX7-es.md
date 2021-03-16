@@ -5,7 +5,7 @@ date: 2020-05-12 15:37:56
 image: 'https://m.media-amazon.com/images/I/31sqD9v5wVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZRYX7-es Geox D BIBBIANA A Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07LFZRYX7-es'
 tags: [ 'geox','zapatos', ]

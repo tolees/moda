@@ -5,7 +5,7 @@ date: 2021-03-16 14:51:09
 image: 'https://m.media-amazon.com/images/I/41OSasl-q3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DL33DG9-es NIKE Paris Saint-Germain Temporada 2020/21-PSG Y NK BRT...'
 sku: 'B08DL33DG9-es'
 tags: [ 'camiseta','nike', ]
@@ -28,9 +28,9 @@ Tienes [NIKE Paris Saint-Germain Temporada 2020/21-PSG Y NK BRT STAD JSY SS HMCD
 
 🔎:
 
-- Short sleeves
-- Soccer shirt
-- Tipo de deporte: atletismo
 - Stretch fabric
+- Short sleeves
+- Tipo de deporte: atletismo
+- Soccer shirt
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DL33DG9/?tag=tolees-21)

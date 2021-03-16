@@ -5,7 +5,7 @@ date: 2020-10-11 11:24:58
 image: 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVQQ1QL-es Levi s SS Original Hm tee Camiseta U E Print XL para Hombre'
 sku: 'B07ZVQQ1QL-es'
 tags: [ 'camiseta', ]

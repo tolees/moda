@@ -5,7 +5,7 @@ date: 2020-02-29 08:56:52
 image: 'https://m.media-amazon.com/images/I/41nYU2LuCwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721Y7KPH-es JACK & JONES Jprnon Iron Shirt L/s Noos Camisa Gris Grey...'
 sku: 'B0721Y7KPH-es'
 tags: [ 'camisa', ]

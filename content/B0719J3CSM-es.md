@@ -5,7 +5,7 @@ date: 2020-03-28 08:27:54
 image: 'https://m.media-amazon.com/images/I/41k-3eCZk+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719J3CSM-es Lightess Apliques de Pared LED 12W Lámpara Exterior...'
 sku: 'B0719J3CSM-es'
 tags: [ 'moda', ]

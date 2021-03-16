@@ -5,7 +5,7 @@ date: 2020-01-16 07:23:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4106FLeSsNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R16SLL4-es Helly Hansen Lifaloft Ligera Chaqueta Aislante Mujer...'
 sku: 'B07R16SLL4-es'
 tags: [ 'chaqueta', ]

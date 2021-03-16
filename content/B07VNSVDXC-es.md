@@ -5,7 +5,7 @@ date: 2020-08-09 19:17:24
 image: 'https://m.media-amazon.com/images/I/31Cscy+goSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNSVDXC-es Scotch & Soda Classic Garment Dyed Polo Chaleco Azul Pool...'
 sku: 'B07VNSVDXC-es'
 tags: [ 'chaleco', ]

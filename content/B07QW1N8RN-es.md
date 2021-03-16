@@ -5,7 +5,7 @@ date: 2020-04-06 12:52:20
 image: 'https://m.media-amazon.com/images/I/41i0stjygoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QW1N8RN-es Helly Hansen Lifaloft Insulator Vest Chaleco Aislante...'
 sku: 'B07QW1N8RN-es'
 tags: [ 'chaleco', ]

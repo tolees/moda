@@ -5,7 +5,7 @@ date: 2020-04-26 15:33:53
 image: 'https://m.media-amazon.com/images/I/41aMAKgu6rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH3FVZV-es Pepe Jeans Duff Chest Logo T Camiseta Gris Grey Marl 933...'
 sku: 'B07JH3FVZV-es'
 tags: [ 'camiseta', ]

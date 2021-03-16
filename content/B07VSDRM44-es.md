@@ -5,7 +5,7 @@ date: 2020-01-10 22:55:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TF50VBHPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSDRM44-es Bolso Bandolera Tejido de Paja con Borlas Ganchillo Verano...'
 sku: 'B07VSDRM44-es'
 tags: [ 'bolso','moda', ]

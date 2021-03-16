@@ -5,7 +5,7 @@ date: 2020-02-01 20:03:24
 image: 'https://m.media-amazon.com/images/I/31VVo8PfbxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN7TV81-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Melon 737...'
 sku: 'B07CN7TV81-es'
 tags: [ 'zuecos', ]

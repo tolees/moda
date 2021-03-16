@@ -5,7 +5,7 @@ date: 2020-01-11 10:24:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51yRvjPXviL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVVL24W-es RATEL Kit de Chaleco Táctico para Niños 38pcs Traje de...'
 sku: 'B07MVVL24W-es'
 tags: [ 'chaleco','chaqueta','gafas', ]

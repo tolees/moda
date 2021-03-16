@@ -5,7 +5,7 @@ date: 2020-01-07 17:16:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31tcZQfff5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LMI51X0-es Quiksilver Monkey Abyss M SNDL Sandalias con Plataforma...'
 sku: 'B00LMI51X0-es'
 tags: [ 'sandalias', ]

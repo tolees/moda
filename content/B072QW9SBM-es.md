@@ -5,7 +5,7 @@ date: 2020-05-27 09:16:26
 image: 'https://m.media-amazon.com/images/I/31wAQOmrwWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072QW9SBM-es Lee Twin Pack Crew Camiseta Multicolor 2 Pack Mix Aikw XX-...'
 sku: 'B072QW9SBM-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-11 18:02:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31jRernO8jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001U9JLCS-es Crocs Classic Clog Zuecos Unisex Adulto Morado Lavanda 530...'
 sku: 'B001U9JLCS-es'
 tags: [ 'zuecos', ]

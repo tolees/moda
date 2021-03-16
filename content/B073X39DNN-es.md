@@ -5,7 +5,7 @@ date: 2020-04-21 15:17:03
 image: 'https://m.media-amazon.com/images/I/51JKtfooLZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073X39DNN-es Camiseta Manga Corta Técnica Vueling Cup Hombre Roja M'
 sku: 'B073X39DNN-es'
 tags: [ 'camiseta', ]

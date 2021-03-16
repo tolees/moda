@@ -5,7 +5,7 @@ date: 2020-02-07 00:12:53
 image: 'https://m.media-amazon.com/images/I/41t+D6PzfML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QFKXXD-es Star Wars - Pijama para Niños Brillan En La Oscuridad -...'
 sku: 'B075QFKXXD-es'
 tags: [ 'pijama', ]

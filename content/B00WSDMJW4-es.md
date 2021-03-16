@@ -5,7 +5,7 @@ date: 2020-02-18 17:02:49
 image: 'https://m.media-amazon.com/images/I/31uGXUCuk5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WSDMJW4-es Morgan 152-caram.n Camisa Blanco Blanc 40 Talla del...'
 sku: 'B00WSDMJW4-es'
 tags: [ 'camisa', ]

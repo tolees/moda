@@ -5,7 +5,7 @@ date: 2020-10-08 00:48:36
 image: 'https://m.media-amazon.com/images/I/41SZSqmwM-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSWL732-es G-STAR RAW 3301 Slim jkt Vaqueros Gris Faded Stone...'
 sku: 'B07VSWL732-es'
 tags: [ 'vaqueros', ]

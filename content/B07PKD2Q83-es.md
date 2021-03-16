@@ -5,7 +5,7 @@ date: 2020-08-09 01:28:40
 image: 'https://m.media-amazon.com/images/I/31RWx6Nt0uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKD2Q83-es find. Kitten Heel Point Toe Zapatos con Tira de Tobillo...'
 sku: 'B07PKD2Q83-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 02:12:12
 image: 'https://m.media-amazon.com/images/I/41PojlJgfVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ1FS1L-es adidas FCB H JSY Y Camiseta Unisex Niños Rojfcb 164'
 sku: 'B07QZ1FS1L-es'
 tags: [ 'camiseta', ]

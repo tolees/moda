@@ -5,7 +5,7 @@ date: 2020-04-27 05:13:09
 image: 'https://m.media-amazon.com/images/I/41ecBBnncnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FH9GW6Z-es Timberland Capri Sunset Wedge Sandalias para Mujer Verde...'
 sku: 'B07FH9GW6Z-es'
 tags: [ 'sandalias','timberland', ]

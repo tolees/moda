@@ -5,7 +5,7 @@ date: 2020-06-22 12:08:49
 image: 'https://m.media-amazon.com/images/I/41B9sYdLA6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831QRYC8-es Canadian Peak Chaqueta Mujer BAMBOLINA Negro 02'
 sku: 'B0831QRYC8-es'
 tags: [ 'chaqueta', ]

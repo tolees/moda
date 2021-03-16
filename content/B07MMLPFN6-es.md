@@ -5,7 +5,7 @@ date: 2020-02-01 08:16:08
 image: 'https://m.media-amazon.com/images/I/41FDDxG8HtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLPFN6-es Napapijri BOVES H Sudadera con Capucha Rot Red Scarlet R01...'
 sku: 'B07MMLPFN6-es'
 tags: [ 'sudadera', ]

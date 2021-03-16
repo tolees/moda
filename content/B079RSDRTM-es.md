@@ -5,7 +5,7 @@ date: 2020-06-28 09:00:49
 image: 'https://m.media-amazon.com/images/I/41jy3+6+PJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RSDRTM-es Pepe Jeans Norske Chaqueta Azul Ink 591 M para Hombre'
 sku: 'B079RSDRTM-es'
 tags: [ 'chaqueta', ]

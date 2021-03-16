@@ -5,7 +5,7 @@ date: 2020-09-26 10:41:34
 image: 'https://m.media-amazon.com/images/I/41t4IRgIoRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5W0D1H-es Vero Moda Vmmaxi My Soft Long Tank Top Noos Camiseta sin...'
 sku: 'B01N5W0D1H-es'
 tags: [ 'camiseta','moda', ]

@@ -5,7 +5,7 @@ date: 2020-06-08 09:25:43
 image: 'https://m.media-amazon.com/images/I/413rMGHrgVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N81U4HW-es Joma Iris Chaqueta Niños Negro 6XS'
 sku: 'B00N81U4HW-es'
 tags: [ 'chaqueta', ]

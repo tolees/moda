@@ -5,7 +5,7 @@ date: 2020-07-28 12:13:55
 image: 'https://m.media-amazon.com/images/I/413x8o7X6JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BGVKSB-es Asics Gel-Pulse 11 Zapatos para Correr Mens Negro Blanco...'
 sku: 'B081BGVKSB-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-03-21 21:03:49
 image: 'https://m.media-amazon.com/images/I/31c7xP4LKEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZQFD2B-es Lacoste SH8654 - Sudadera Deportiva para Hombre Corte...'
 sku: 'B07RZQFD2B-es'
 tags: [ 'sudadera', ]

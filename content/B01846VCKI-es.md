@@ -5,7 +5,7 @@ date: 2020-03-24 01:41:17
 image: 'https://m.media-amazon.com/images/I/51ivbL8ZXXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01846VCKI-es Timberland 6 In Boot Botas Altas para Hombre Marrón Brown...'
 sku: 'B01846VCKI-es'
 tags: [ 'timberland', ]

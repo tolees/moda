@@ -5,7 +5,7 @@ date: 2020-02-19 13:12:55
 image: 'https://m.media-amazon.com/images/I/414zeh+L7BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K33CSR2-es BOSS Ivelna vestido Mujer Azul Medium Blue 422 Medium'
 sku: 'B07K33CSR2-es'
 tags: [ 'vestido', ]

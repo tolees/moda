@@ -5,7 +5,7 @@ date: 2020-09-29 18:03:36
 image: 'https://m.media-amazon.com/images/I/310qKnJ7QzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3GZK6L-es Timberland Bradstreet Plain Toe Sensorflex Zapatos de...'
 sku: 'B07T3GZK6L-es'
 tags: [ 'timberland','zapatos', ]

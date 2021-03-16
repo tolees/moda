@@ -5,7 +5,7 @@ date: 2020-04-26 15:33:14
 image: 'https://m.media-amazon.com/images/I/4192vLm5E1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZFX9WV-es Mujer Cuñas Zapatos 35-43 EU De Lona High-Top Zapatos...'
 sku: 'B07TZFX9WV-es'
 tags: [ 'zapatos', ]

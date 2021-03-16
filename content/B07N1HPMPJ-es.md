@@ -5,7 +5,7 @@ date: 2020-05-06 14:22:21
 image: 'https://m.media-amazon.com/images/I/41S3JpokBZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HPMPJ-es Clarks Orabella Alice Botines para Mujer Gris Light Grey...'
 sku: 'B07N1HPMPJ-es'
 tags: [ 'botines', ]

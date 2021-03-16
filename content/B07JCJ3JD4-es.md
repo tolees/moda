@@ -5,7 +5,7 @@ date: 2020-01-21 22:38:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wJcKu1MNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCJ3JD4-es Columbia Powder Lite Chaqueta De Plumón con Capucha Mujer...'
 sku: 'B07JCJ3JD4-es'
 tags: [ 'chaqueta', ]

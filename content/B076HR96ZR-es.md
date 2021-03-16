@@ -5,7 +5,7 @@ date: 2020-04-16 10:36:55
 image: 'https://m.media-amazon.com/images/I/41pH737OYcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HR96ZR-es adidas PANTALÓN Entrenamiento Core 21 Fútbol Adolescentes...'
 sku: 'B076HR96ZR-es'
 tags: [ 'pantalón', ]

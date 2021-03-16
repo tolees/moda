@@ -5,7 +5,7 @@ date: 2020-09-29 08:48:43
 image: 'https://m.media-amazon.com/images/I/41MaDg8+RmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG2C1PF-es Columbia Lay D Down II Chaqueta de esquí para Mujer'
 sku: 'B07XG2C1PF-es'
 tags: [ 'chaqueta', ]

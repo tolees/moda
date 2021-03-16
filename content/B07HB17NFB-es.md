@@ -5,7 +5,7 @@ date: 2020-04-22 15:34:07
 image: 'https://m.media-amazon.com/images/I/51YH8YIfJ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB17NFB-es LOQI Van Gogh Almond Blossom Bag Bolso de Viaje 50 cm 15...'
 sku: 'B07HB17NFB-es'
 tags: [ 'bolso', ]

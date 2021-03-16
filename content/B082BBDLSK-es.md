@@ -5,7 +5,7 @@ date: 2020-01-13 15:39:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RsaYA8UtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BBDLSK-es Geographical Norway Chaqueta Softshell Hombre Tyreek Negro L'
 sku: 'B082BBDLSK-es'
 tags: [ 'chaqueta', ]

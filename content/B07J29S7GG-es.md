@@ -5,7 +5,7 @@ date: 2020-01-03 15:46:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T%2BorE35JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J29S7GG-es JACK & JONES Jcoalu Jacket Noos Chaqueta Gris Light Grey...'
 sku: 'B07J29S7GG-es'
 tags: [ 'chaqueta', ]

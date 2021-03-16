@@ -5,7 +5,7 @@ date: 2020-04-04 14:02:35
 image: 'https://m.media-amazon.com/images/I/41ZZHGCYCLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BHMCZW0-es El Naturalista NF82 Botines para Mujer Negro Black 000 36 EU'
 sku: 'B01BHMCZW0-es'
 tags: [ 'botines', ]

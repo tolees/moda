@@ -5,7 +5,7 @@ date: 2020-06-27 12:27:26
 image: 'https://m.media-amazon.com/images/I/41pqtlFndhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWRRK2W-es Geox B Djrock Boy C Mocasines para Bebés Azul Navy/White...'
 sku: 'B07SWRRK2W-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-05-02 17:06:18
 image: 'https://m.media-amazon.com/images/I/41jFsZgbI3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GYHZH00-es Moolecole Seco Húmedo Separado Bolso De La Natación Bolsa...'
 sku: 'B01GYHZH00-es'
 tags: [ 'bolso', ]

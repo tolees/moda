@@ -5,7 +5,7 @@ date: 2020-09-13 08:05:34
 image: 'https://m.media-amazon.com/images/I/31D5rZfJz3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3VYLV-es Geox D Nebula C Zapatillas para Mujer Negro Gun C1357 38 EU'
 sku: 'B07DJ3VYLV-es'
 tags: [ 'geox', ]

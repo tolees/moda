@@ -5,7 +5,7 @@ date: 2020-09-26 06:45:35
 image: 'https://m.media-amazon.com/images/I/41bQk1C11xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002JCSSSI-es Crocs Crocband U Zuecos Unisex Adulto Negro Black 41-42 EU'
 sku: 'B002JCSSSI-es'
 tags: [ 'zuecos', ]

@@ -5,7 +5,7 @@ date: 2020-04-25 16:43:30
 image: 'https://m.media-amazon.com/images/I/41iBsyUgMRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XNN47J6-es Joma Torneo II Falda Mujer Marino M'
 sku: 'B06XNN47J6-es'
 tags: [ 'falda', ]

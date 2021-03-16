@@ -5,7 +5,7 @@ date: 2020-08-10 05:00:36
 image: 'https://m.media-amazon.com/images/I/41GvKoAk+fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7D4V7M-es BOSS Biado r Camisa Azul Bright Blue 436 Large para Hombre'
 sku: 'B07V7D4V7M-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-06-27 10:55:44
 image: 'https://m.media-amazon.com/images/I/41hW0vOH1ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075VDVWVC-es Esprit 997ee1b812 Vaqueros Straight Azul Blue Medium Wash...'
 sku: 'B075VDVWVC-es'
 tags: [ 'vaqueros', ]

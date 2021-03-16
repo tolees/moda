@@ -5,7 +5,7 @@ date: 2020-09-10 17:06:53
 image: 'https://m.media-amazon.com/images/I/31fTUuDhfgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0714PJ3GY-es G-STAR RAW 3301 Slim Vaqueros Dk Aged 6590-89 31W / 38L...'
 sku: 'B0714PJ3GY-es'
 tags: [ 'vaqueros', ]

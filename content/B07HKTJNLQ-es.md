@@ -5,7 +5,7 @@ date: 2020-01-01 14:29:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41S0G-HVX%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKTJNLQ-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre...'
 sku: 'B07HKTJNLQ-es'
 tags: [ 'zapatos', ]

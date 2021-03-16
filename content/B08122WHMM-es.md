@@ -5,7 +5,7 @@ date: 2020-06-22 11:02:20
 image: 'https://m.media-amazon.com/images/I/41e8TnQ3JcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08122WHMM-es Disney Camiseta Paquete de 2 de Manga Corta para niñas...'
 sku: 'B08122WHMM-es'
 tags: [ 'camiseta', ]

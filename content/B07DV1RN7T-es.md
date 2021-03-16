@@ -5,7 +5,7 @@ date: 2020-06-10 06:03:32
 image: 'https://m.media-amazon.com/images/I/31yWrpAcI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DV1RN7T-es Lacoste Croco Slide 119 1 737cma0018092 Sandalias de Punta...'
 sku: 'B07DV1RN7T-es'
 tags: [ 'sandalias', ]

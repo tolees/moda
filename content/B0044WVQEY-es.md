@@ -5,7 +5,7 @@ date: 2020-04-02 18:52:08
 image: 'https://m.media-amazon.com/images/I/4140egAirmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0044WVQEY-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Blossom 682...'
 sku: 'B0044WVQEY-es'
 tags: [ 'zuecos', ]

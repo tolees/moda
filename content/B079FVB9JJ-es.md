@@ -5,7 +5,7 @@ date: 2020-06-26 15:34:23
 image: 'https://m.media-amazon.com/images/I/31aLgNlyJ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FVB9JJ-es Under Armour Fitted Coldgear Crew Camiseta De Manga Larga...'
 sku: 'B079FVB9JJ-es'
 tags: [ 'camiseta', ]

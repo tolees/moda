@@ -5,7 +5,7 @@ date: 2020-08-17 15:23:35
 image: 'https://m.media-amazon.com/images/I/41ZY3jBFazL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZZBSMP-es El Naturalista Wakatiwai Sandalias con Punta Abierta para...'
 sku: 'B07VZZBSMP-es'
 tags: [ 'sandalias', ]

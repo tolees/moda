@@ -5,7 +5,7 @@ date: 2020-09-12 13:09:30
 image: 'https://m.media-amazon.com/images/I/31pe3TK+HoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FRC1LGK-es Clarks Step Beat Sun Abierta Sandalias Punta Cerrada Negro...'
 sku: 'B07FRC1LGK-es'
 tags: [ 'sandalias', ]

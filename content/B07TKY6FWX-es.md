@@ -5,7 +5,7 @@ date: 2020-05-21 10:16:25
 image: 'https://m.media-amazon.com/images/I/31VsSTmG7hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKY6FWX-es The North Face Zaneck Chaqueta Hombre Montague Blue M'
 sku: 'B07TKY6FWX-es'
 tags: [ 'chaqueta', ]

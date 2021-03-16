@@ -5,7 +5,7 @@ date: 2020-04-27 11:18:00
 image: 'https://m.media-amazon.com/images/I/31IaoD8p2ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN7JYCZ-es Crocs Sexi Flip Women Sandalias para Mujer Azul Pool 40m...'
 sku: 'B07CN7JYCZ-es'
 tags: [ 'sandalias', ]

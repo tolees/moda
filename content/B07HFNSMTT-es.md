@@ -5,7 +5,7 @@ date: 2020-07-19 08:54:29
 image: 'https://m.media-amazon.com/images/I/51aeg0NtlOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFNSMTT-es Only onlSKY REG DNM Skirt BB PIM992 Noos Falda Mezclilla...'
 sku: 'B07HFNSMTT-es'
 tags: [ 'falda', ]

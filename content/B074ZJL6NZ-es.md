@@ -5,7 +5,7 @@ date: 2020-04-05 17:06:54
 image: 'https://m.media-amazon.com/images/I/31-2jafB51L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZJL6NZ-es Polaroid PLD 2058/S M9 003 55 Gafas de sol Negro Matt...'
 sku: 'B074ZJL6NZ-es'
 tags: [ 'gafas', ]

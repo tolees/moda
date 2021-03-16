@@ -5,7 +5,7 @@ date: 2020-06-14 22:08:17
 image: 'https://m.media-amazon.com/images/I/31BuhBvZEOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SST8WSM-es Quiksilver Molokai Hold Down Zapatos de Playa y Piscina...'
 sku: 'B07SST8WSM-es'
 tags: [ 'zapatos', ]

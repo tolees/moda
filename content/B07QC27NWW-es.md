@@ -5,7 +5,7 @@ date: 2020-02-08 13:55:43
 image: 'https://m.media-amazon.com/images/I/51aRQqCmshL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC27NWW-es yuyte 288 Agujeros Seis Capas Colocan Cajas de Organizador...'
 sku: 'B07QC27NWW-es'
 tags: [ 'collar', ]

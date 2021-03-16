@@ -5,7 +5,7 @@ date: 2020-08-27 08:48:21
 image: 'https://m.media-amazon.com/images/I/41WeM3pZOWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JW51WBB-es Columbia Carson Pass II Chaqueta impermeable Mujer Azul...'
 sku: 'B07JW51WBB-es'
 tags: [ 'chaqueta', ]

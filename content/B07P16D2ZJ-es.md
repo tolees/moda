@@ -5,7 +5,7 @@ date: 2020-04-03 09:34:33
 image: 'https://m.media-amazon.com/images/I/31rJw0HIQwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P16D2ZJ-es Superdry Suprdry Surplus Goods LS Classic Graphic tee...'
 sku: 'B07P16D2ZJ-es'
 tags: [ 'camisa', ]

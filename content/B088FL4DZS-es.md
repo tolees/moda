@@ -5,7 +5,7 @@ date: 2020-05-29 17:22:22
 image: 'https://m.media-amazon.com/images/I/51RwAtxLXSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FL4DZS-es Oihxse Funda con Huawei Enjoy 7/Y6 Pro 2017 Cuero PU...'
 sku: 'B088FL4DZS-es'
 tags: [ 'billetera', ]

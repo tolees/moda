@@ -5,7 +5,7 @@ date: 2020-01-31 10:23:12
 image: 'https://m.media-amazon.com/images/I/51ZUTbZgrmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RW8KXDN-es BAIGIO Bolso de Fiesta Noche de Moda para Mujer Brillante...'
 sku: 'B07RW8KXDN-es'
 tags: [ 'bolso','moda', ]

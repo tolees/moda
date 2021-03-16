@@ -5,7 +5,7 @@ date: 2020-08-19 11:13:25
 image: 'https://m.media-amazon.com/images/I/419Yy-qP4XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCFXX81-es Crocs Crocband Zuecos Unisex Adulto Verde Deep Green/White...'
 sku: 'B07SCFXX81-es'
 tags: [ 'zuecos', ]

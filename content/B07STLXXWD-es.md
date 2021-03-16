@@ -5,7 +5,7 @@ date: 2020-07-15 00:24:50
 image: 'https://m.media-amazon.com/images/I/41tr3lmLcRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLXXWD-es Geox D Rubidia A Zapatillas para Mujer Gris Off White...'
 sku: 'B07STLXXWD-es'
 tags: [ 'geox', ]

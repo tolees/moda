@@ -5,7 +5,7 @@ date: 2020-06-22 17:16:14
 image: 'https://m.media-amazon.com/images/I/51X6IhwNvbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5KMCKD-es Levi s BARSTOW WESTERN Camisa Hombre Azul SUONA DRESS...'
 sku: 'B01M5KMCKD-es'
 tags: [ 'camisa', ]

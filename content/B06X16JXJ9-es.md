@@ -5,7 +5,7 @@ date: 2020-09-07 15:21:17
 image: 'https://m.media-amazon.com/images/I/31KCfcA4gKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X16JXJ9-es adidas Adilette Shower Chanclas Hombre Blanco Footwear...'
 sku: 'B06X16JXJ9-es'
 tags: [ 'chanclas', ]

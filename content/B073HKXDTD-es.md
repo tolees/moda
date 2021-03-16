@@ -5,7 +5,7 @@ date: 2020-04-20 14:41:22
 image: 'https://m.media-amazon.com/images/I/41MGe1b9GEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073HKXDTD-es XTI 26915 Sandalias ESCLAVAS Mujer Sandalias Fuxia 38'
 sku: 'B073HKXDTD-es'
 tags: [ 'sandalias', ]

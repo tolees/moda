@@ -5,7 +5,7 @@ date: 2020-04-26 17:03:45
 image: 'https://m.media-amazon.com/images/I/41N0YYnU5JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2XWC1K-es Peppa Pig Camiseta de Manga Corta Paquete de 2 para niñas...'
 sku: 'B07X2XWC1K-es'
 tags: [ 'camiseta', ]

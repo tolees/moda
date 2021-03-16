@@ -5,7 +5,7 @@ date: 2020-03-09 09:11:40
 image: 'https://m.media-amazon.com/images/I/41UuArYuM5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4P7KWT-es SAGUARO Hombre Mujer Barefoot Zapatillas de Trail Running...'
 sku: 'B07N4P7KWT-es'
 tags: [ 'zapatos', ]

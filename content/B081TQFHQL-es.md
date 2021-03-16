@@ -5,7 +5,7 @@ date: 2020-08-30 12:56:23
 image: 'https://m.media-amazon.com/images/I/31VsiCNfelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TQFHQL-es adidas Fef Camiseta Polo Hombre Collegiate Navy L'
 sku: 'B081TQFHQL-es'
 tags: [ 'camiseta', ]

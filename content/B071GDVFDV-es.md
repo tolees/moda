@@ -5,7 +5,7 @@ date: 2020-06-25 17:15:43
 image: 'https://m.media-amazon.com/images/I/41MYfA+kwrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GDVFDV-es Amazon Essentials 6-Pack V-Neck Undershirts Camisa Negro...'
 sku: 'B071GDVFDV-es'
 tags: [ 'camisa', ]

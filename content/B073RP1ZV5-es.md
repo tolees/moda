@@ -5,7 +5,7 @@ date: 2020-06-11 05:51:12
 image: 'https://m.media-amazon.com/images/I/31a64E9r0TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RP1ZV5-es Helly Hansen HH Tech T-Shirt Camiseta Técnica Hombre White M'
 sku: 'B073RP1ZV5-es'
 tags: [ 'camiseta', ]

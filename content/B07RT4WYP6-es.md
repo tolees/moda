@@ -5,7 +5,7 @@ date: 2020-06-13 07:40:20
 image: 'https://m.media-amazon.com/images/I/312KIdXBFDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT4WYP6-es Vestido Vintage para Muejeres Mangas Corta Cuello V de...'
 sku: 'B07RT4WYP6-es'
 tags: [ 'vestido', ]

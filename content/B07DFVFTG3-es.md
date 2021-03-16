@@ -5,7 +5,7 @@ date: 2020-02-22 15:27:53
 image: 'https://m.media-amazon.com/images/I/41Jk7iiJgXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFVFTG3-es Tommy Hilfiger Lightly Lined Demi Sujetador para Camiseta...'
 sku: 'B07DFVFTG3-es'
 tags: [ 'camiseta', ]

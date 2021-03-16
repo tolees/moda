@@ -5,7 +5,7 @@ date: 2020-01-14 16:38:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51kI1ssSPZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZPL8DP-es Bruetting Countdown Zapatos de Low Rise Senderismo para...'
 sku: 'B075ZPL8DP-es'
 tags: [ 'zapatos', ]

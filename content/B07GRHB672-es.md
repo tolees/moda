@@ -5,7 +5,7 @@ date: 2020-02-02 00:04:56
 image: 'https://m.media-amazon.com/images/I/413MvSmUjuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GRHB672-es Khanomak Camisa Corta del Tirante de Espagueti Mini Encaje...'
 sku: 'B07GRHB672-es'
 tags: [ 'camisa', ]

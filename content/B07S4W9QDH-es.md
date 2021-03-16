@@ -5,7 +5,7 @@ date: 2020-05-03 09:29:59
 image: 'https://m.media-amazon.com/images/I/41QGWg8sZ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4W9QDH-es Levi s Francine Down Pckble Jkt Chaqueta Azul Baby Blue...'
 sku: 'B07S4W9QDH-es'
 tags: [ 'chaqueta', ]

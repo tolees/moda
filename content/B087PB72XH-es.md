@@ -5,7 +5,7 @@ date: 2020-07-18 17:33:37
 image: 'https://m.media-amazon.com/images/I/51jF3Dsfh+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PB72XH-es Suhctup Funda Compatible con Huawei Honor 20 Pro Billetera...'
 sku: 'B087PB72XH-es'
 tags: [ 'billetera', ]

@@ -5,7 +5,7 @@ date: 2020-02-02 20:04:05
 image: 'https://m.media-amazon.com/images/I/41f4uXcwtLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081W1DK7K-es Fred Perry Taped Chest Track Jacket Chaqueta deportiva - M'
 sku: 'B081W1DK7K-es'
 tags: [ 'chaqueta', ]

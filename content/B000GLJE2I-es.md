@@ -5,7 +5,7 @@ date: 2020-01-16 15:41:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31rRecY0N8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GLJE2I-es Ray-Ban - Gafas de sol Aviador RB3025-W3275 Large Metal...'
 sku: 'B000GLJE2I-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-07-22 10:31:07
 image: 'https://m.media-amazon.com/images/I/41ALgIfODOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXRKWHJ-es Wrangler SS 2 Pkt Flap Shirt Camisa Azul Cerulean Blue Xvt...'
 sku: 'B07TXRKWHJ-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 10:31:12
 image: 'https://m.media-amazon.com/images/I/31PxMDC-WwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5FFGJN-es SALOMON Explore WP JKT M Chaqueta Impermeable Hombre Beige...'
 sku: 'B07V5FFGJN-es'
 tags: [ 'chaqueta', ]

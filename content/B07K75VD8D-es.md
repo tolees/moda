@@ -5,7 +5,7 @@ date: 2020-06-21 14:09:09
 image: 'https://m.media-amazon.com/images/I/41jAA4i+LlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K75VD8D-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Wobbegong...'
 sku: 'B07K75VD8D-es'
 tags: [ 'vaqueros', ]

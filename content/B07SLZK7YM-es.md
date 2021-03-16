@@ -5,7 +5,7 @@ date: 2020-09-12 18:18:23
 image: 'https://m.media-amazon.com/images/I/51BNFLQp26L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLZK7YM-es Havaianas Ipe Chanclas Unisex Adulto Multicolor...'
 sku: 'B07SLZK7YM-es'
 tags: [ 'chanclas', ]

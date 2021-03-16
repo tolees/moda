@@ -5,7 +5,7 @@ date: 2020-02-09 15:06:22
 image: 'https://m.media-amazon.com/images/I/317-KdJAFML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7R5GNN-es Prada 0PR51SS VHT1A0 54 Gafas de Sol Plateado...'
 sku: 'B01N7R5GNN-es'
 tags: [ 'gafas', ]

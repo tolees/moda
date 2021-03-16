@@ -5,7 +5,7 @@ date: 2020-09-21 12:20:37
 image: 'https://m.media-amazon.com/images/I/41EyK9T-19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVWSH4C-es G-STAR RAW Graphic Logo 4 Camiseta Negro Medium Talla del...'
 sku: 'B07NVWSH4C-es'
 tags: [ 'camiseta', ]

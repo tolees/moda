@@ -5,7 +5,7 @@ date: 2020-04-28 08:02:58
 image: 'https://m.media-amazon.com/images/I/41oDqjJx-QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PWVVZH-es Mediffen Mujer Noche Tacón De Aguja Tacón Alto Cierre De...'
 sku: 'B087PWVVZH-es'
 tags: [ 'sandalias', ]

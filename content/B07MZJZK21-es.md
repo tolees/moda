@@ -5,7 +5,7 @@ date: 2020-05-02 17:10:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Omy7dxZOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZJZK21-es Superdry Vintage Logo Layered Camo tee Camiseta Negro...'
 sku: 'B07MZJZK21-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-19 14:32:18
 image: 'https://m.media-amazon.com/images/I/41gh2hM1UnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PF3GTCH-es KTOL Personalidad Chanclas de Piscina para Hombre Elegante...'
 sku: 'B07PF3GTCH-es'
 tags: [ 'chanclas','zapatos', ]

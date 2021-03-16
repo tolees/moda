@@ -5,7 +5,7 @@ date: 2020-10-11 13:35:04
 image: 'https://m.media-amazon.com/images/I/41EZunRDOuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLY1BP-es Geox D AIRELL A Zapatillas para Mujer Azul Navy C4002 40 EU'
 sku: 'B07STLY1BP-es'
 tags: [ 'geox', ]

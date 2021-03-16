@@ -5,7 +5,7 @@ date: 2020-05-22 09:36:18
 image: 'https://m.media-amazon.com/images/I/41JWoBzcXeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798Q9WRZ-es Tommy Hilfiger Tommy Loves NY Beach Sandal Chanclas para...'
 sku: 'B0798Q9WRZ-es'
 tags: [ 'chanclas', ]

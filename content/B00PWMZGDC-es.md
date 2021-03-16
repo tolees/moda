@@ -5,7 +5,7 @@ date: 2020-01-08 07:28:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cnJszFN4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PWMZGDC-es KRISP Vestido Moda Mujer Fruncido Azul Marino 6487 42...'
 sku: 'B00PWMZGDC-es'
 tags: [ 'moda','vestido', ]

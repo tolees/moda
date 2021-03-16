@@ -5,7 +5,7 @@ date: 2020-09-21 19:44:48
 image: 'https://m.media-amazon.com/images/I/314mCZrghwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9P8MH9-es O NEILL LM Arrowhead T-Shirt Camiseta Manga Corta para...'
 sku: 'B07Z9P8MH9-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 07:58:59
 image: 'https://m.media-amazon.com/images/I/413qMtE3hJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBBN4YH-es HUGO 708 Vaqueros Slim Azul Bright Blue 431 W35/L34 Talla...'
 sku: 'B07VBBN4YH-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-06-20 01:24:01
 image: 'https://m.media-amazon.com/images/I/51NhNeR5tuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWPTXJ5-es Voqeen Mujer Bikini de Gradiente de Color Establece Retro...'
 sku: 'B07PWPTXJ5-es'
 tags: [ 'bikini', ]

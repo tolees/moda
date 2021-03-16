@@ -5,7 +5,7 @@ date: 2020-02-04 20:03:51
 image: 'https://m.media-amazon.com/images/I/31Kg7XaqeFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N15XPT9-es Lee Authentic Pkt T LS Camiseta Verde Dk Bottle Green BB...'
 sku: 'B07N15XPT9-es'
 tags: [ 'camiseta', ]

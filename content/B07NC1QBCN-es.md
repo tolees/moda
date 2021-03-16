@@ -5,7 +5,7 @@ date: 2020-09-26 06:54:04
 image: 'https://m.media-amazon.com/images/I/41ooOlP6eQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC1QBCN-es Dorina Casablanca Haut Maillot de Bain Bikini top Negro...'
 sku: 'B07NC1QBCN-es'
 tags: [ 'bikini', ]

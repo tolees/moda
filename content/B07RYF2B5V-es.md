@@ -5,7 +5,7 @@ date: 2020-04-01 07:01:09
 image: 'https://m.media-amazon.com/images/I/41hnET7IQcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYF2B5V-es Redskins Dynamite Chaqueta Verde Kaki Dark Blouson 14 años...'
 sku: 'B07RYF2B5V-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-03-07 20:39:46
 image: 'https://m.media-amazon.com/images/I/41CzYfLFV5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLQ46FD-es Cartera de Cuero Negro Cartera de Piel Billetera de Hombre...'
 sku: 'B07PLQ46FD-es'
 tags: [ 'billetera', ]

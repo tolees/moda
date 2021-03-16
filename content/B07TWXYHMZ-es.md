@@ -5,7 +5,7 @@ date: 2020-06-15 14:26:11
 image: 'https://m.media-amazon.com/images/I/417KFmRi1zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWXYHMZ-es Lee Logo tee Camiseta Negro Small para Mujer'
 sku: 'B07TWXYHMZ-es'
 tags: [ 'camiseta', ]

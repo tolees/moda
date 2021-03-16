@@ -5,7 +5,7 @@ date: 2020-04-28 19:34:34
 image: 'https://m.media-amazon.com/images/I/511JrOvp7GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPR8YD-es Pepe Jeans Donovan Camisa Multi 0aa Small para Hombre'
 sku: 'B07MZPR8YD-es'
 tags: [ 'camisa', ]

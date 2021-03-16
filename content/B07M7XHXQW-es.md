@@ -5,7 +5,7 @@ date: 2020-04-15 15:22:02
 image: 'https://m.media-amazon.com/images/I/31dXV719ZBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7XHXQW-es G-STAR RAW 3301 Slim Vaqueros Light Indigo Aged 8968-8436...'
 sku: 'B07M7XHXQW-es'
 tags: [ 'vaqueros', ]

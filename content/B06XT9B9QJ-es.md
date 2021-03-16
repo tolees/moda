@@ -5,7 +5,7 @@ date: 2020-08-29 08:35:01
 image: 'https://m.media-amazon.com/images/I/41PC4XLR0jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XT9B9QJ-es Pepe Jeans Charing PM503215 Camiseta Gris Grey Marl 933...'
 sku: 'B06XT9B9QJ-es'
 tags: [ 'camiseta', ]

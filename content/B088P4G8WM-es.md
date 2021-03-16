@@ -5,7 +5,7 @@ date: 2020-07-03 14:47:10
 image: 'https://m.media-amazon.com/images/I/31clOeKgCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088P4G8WM-es La Valenciana Sandalias Mustang 58553 Marrón - Color -...'
 sku: 'B088P4G8WM-es'
 tags: [ 'sandalias', ]

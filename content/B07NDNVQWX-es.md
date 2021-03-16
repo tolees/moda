@@ -5,7 +5,7 @@ date: 2020-04-18 15:46:31
 image: 'https://m.media-amazon.com/images/I/41+0RjY-UhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNVQWX-es G-STAR RAW Graphic 15 Core Round Neck Sudadera Rojo Port...'
 sku: 'B07NDNVQWX-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-01-29 12:18:40
 image: 'https://m.media-amazon.com/images/I/41GVbRkv2AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH193DX-es MTNG Collection 58027 Botines para Mujer Marrón Vintage...'
 sku: 'B07QH193DX-es'
 tags: [ 'botines', ]

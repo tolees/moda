@@ -5,7 +5,7 @@ date: 2020-06-23 05:11:30
 image: 'https://m.media-amazon.com/images/I/41Fn7KTs5DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YB6CW8P-es XTI Zapatilla XTI049956 para Mujer Negro 39'
 sku: 'B07YB6CW8P-es'
 tags: [ 'zapatilla', ]

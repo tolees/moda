@@ -5,7 +5,7 @@ date: 2020-02-17 12:11:28
 image: 'https://m.media-amazon.com/images/I/41eYhzOBFTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H37VVTX-es Pastaza Hombre Mujer Botas de Nieve Senderismo...'
 sku: 'B07H37VVTX-es'
 tags: [ 'zapatos', ]

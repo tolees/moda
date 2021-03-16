@@ -5,7 +5,7 @@ date: 2020-02-09 07:20:51
 image: 'https://m.media-amazon.com/images/I/411OWOeQvUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078S7GPPD-es Alicia abrigo chaqueta de invierno damas negro - Gothic...'
 sku: 'B078S7GPPD-es'
 tags: [ 'abrigo','chaqueta', ]

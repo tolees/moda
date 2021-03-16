@@ -5,7 +5,7 @@ date: 2020-06-18 11:45:49
 image: 'https://m.media-amazon.com/images/I/41KpiYqhJTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792S2RJQ-es KAPORAL Doria Abrigo Bleu Marine Marine 14 años para Niños'
 sku: 'B0792S2RJQ-es'
 tags: [ 'abrigo', ]

@@ -5,7 +5,7 @@ date: 2020-09-29 20:24:34
 image: 'https://m.media-amazon.com/images/I/31JY0YNOCjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B5VCMP-es Columbia CSC Basic Camiseta de Manga Corta Hombre Negro M'
 sku: 'B081B5VCMP-es'
 tags: [ 'camiseta', ]

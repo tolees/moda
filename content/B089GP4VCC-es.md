@@ -5,7 +5,7 @@ date: 2020-09-08 08:48:55
 image: 'https://m.media-amazon.com/images/I/41ymBn8i77L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GP4VCC-es morpilot Collar LED Luz Perro 6PCS Luces de Seguridad...'
 sku: 'B089GP4VCC-es'
 tags: [ 'collar', ]

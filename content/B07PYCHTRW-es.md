@@ -5,7 +5,7 @@ date: 2020-09-11 01:53:29
 image: 'https://m.media-amazon.com/images/I/41HvJKAxCkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYCHTRW-es Rebelhorn Chaqueta de moto de tres capas Membrana Sympatex...'
 sku: 'B07PYCHTRW-es'
 tags: [ 'chaqueta', ]

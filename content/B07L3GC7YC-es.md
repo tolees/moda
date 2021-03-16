@@ -5,7 +5,7 @@ date: 2020-04-24 18:11:00
 image: 'https://m.media-amazon.com/images/I/41B+vWkT4qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3GC7YC-es Tommy Hilfiger Iconic Elena Corporate Ribbon Sandalias con...'
 sku: 'B07L3GC7YC-es'
 tags: [ 'sandalias', ]

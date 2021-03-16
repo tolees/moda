@@ -5,7 +5,7 @@ date: 2020-05-30 17:56:24
 image: 'https://m.media-amazon.com/images/I/41Fjcrs70HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTK3HQZ-es Wrangler Retro Vaqueros Skinny Azul Montego Bay 11p...'
 sku: 'B07TTK3HQZ-es'
 tags: [ 'vaqueros', ]

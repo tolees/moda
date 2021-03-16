@@ -5,7 +5,7 @@ date: 2020-01-05 21:50:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31EUEo2uDZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLSVDYH-es Clarks Ronnie Limit Zapatos de Cordones Brogue para Hombre...'
 sku: 'B07MLSVDYH-es'
 tags: [ 'zapatos', ]

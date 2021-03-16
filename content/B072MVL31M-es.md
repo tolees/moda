@@ -5,7 +5,7 @@ date: 2020-01-18 10:09:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHwDVk25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MVL31M-es find. Chaqueta Estilo Bomber para Hombre Gris Charcoal...'
 sku: 'B072MVL31M-es'
 tags: [ 'chaqueta', ]

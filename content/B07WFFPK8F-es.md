@@ -5,7 +5,7 @@ date: 2020-08-21 10:15:08
 image: 'https://m.media-amazon.com/images/I/41-MTxC7vfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFFPK8F-es VECDY Ropa Mujer Blusas Elegante 2019 Solapa para Mujer...'
 sku: 'B07WFFPK8F-es'
 tags: [ 'abrigo','chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-03-13 14:03:50
 image: 'https://m.media-amazon.com/images/I/41ZMa9uUJKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQX26FD-es SINOES Hombre 720 Caña Baja Gimnasia Ligero Transpirable...'
 sku: 'B07VQX26FD-es'
 tags: [ 'zapatos', ]

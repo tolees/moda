@@ -5,7 +5,7 @@ date: 2020-08-09 10:00:32
 image: 'https://m.media-amazon.com/images/I/513CVZIo-oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J5V8QEG-es Vicloon - Disfraz de Princesa Elsa - Reino de Hielo -...'
 sku: 'B01J5V8QEG-es'
 tags: [ 'vestido', ]

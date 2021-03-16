@@ -5,7 +5,7 @@ date: 2020-09-08 14:00:49
 image: 'https://m.media-amazon.com/images/I/31K1pmj7a0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G1HHZ3D-es Ocobudbxw Moda Mujer Lona Crossbody Messenger Cremallera...'
 sku: 'B08G1HHZ3D-es'
 tags: [ 'moda', ]

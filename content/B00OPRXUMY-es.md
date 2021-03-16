@@ -5,7 +5,7 @@ date: 2020-06-29 12:12:05
 image: 'https://m.media-amazon.com/images/I/41f5tUnshlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OPRXUMY-es Dickies Milford Abrigo Multicolor Camouflge X-Small Tamaño...'
 sku: 'B00OPRXUMY-es'
 tags: [ 'abrigo', ]

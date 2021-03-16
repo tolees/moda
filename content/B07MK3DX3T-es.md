@@ -5,7 +5,7 @@ date: 2020-01-13 01:09:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41G9xXG0O-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK3DX3T-es GANT The Original C-Neck Sweat Sudadera Azul Marine...'
 sku: 'B07MK3DX3T-es'
 tags: [ 'sudadera', ]

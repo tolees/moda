@@ -5,7 +5,7 @@ date: 2020-06-29 12:29:22
 image: 'https://m.media-amazon.com/images/I/41uRbIzOeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQKLG4F-es Pepe Jeans Jeanius Vaqueros relaxed para Hombre Azul 11Oz...'
 sku: 'B07DQKLG4F-es'
 tags: [ 'vaqueros', ]

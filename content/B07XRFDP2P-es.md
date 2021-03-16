@@ -5,7 +5,7 @@ date: 2020-09-28 16:36:35
 image: 'https://m.media-amazon.com/images/I/41KJhtU+gKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRFDP2P-es Hawiton Pantalones de Pijama Hombre Algodón Largo...'
 sku: 'B07XRFDP2P-es'
 tags: [ 'pantalón','pijama', ]

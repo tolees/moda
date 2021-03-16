@@ -5,7 +5,7 @@ date: 2020-05-22 15:03:00
 image: 'https://m.media-amazon.com/images/I/31i9V4zYg7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WW3PPF-es Roxy Napili II J SNDL Zapatos de Playa y Piscina para...'
 sku: 'B078WW3PPF-es'
 tags: [ 'zapatos', ]

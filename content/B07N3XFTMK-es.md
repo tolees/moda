@@ -5,7 +5,7 @@ date: 2020-03-29 18:09:04
 image: 'https://m.media-amazon.com/images/I/41ZKde-IenL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3XFTMK-es Desigual Dress DAMIS Vestido Rojo Clavel 3036 42 Talla del...'
 sku: 'B07N3XFTMK-es'
 tags: [ 'vestido', ]

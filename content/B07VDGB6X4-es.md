@@ -5,7 +5,7 @@ date: 2020-02-29 09:32:20
 image: 'https://m.media-amazon.com/images/I/51aR1o5VJ9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDGB6X4-es Esprit 099ee1g006 Abrigo Gris Dark Grey 020 XX-Large para...'
 sku: 'B07VDGB6X4-es'
 tags: [ 'abrigo', ]

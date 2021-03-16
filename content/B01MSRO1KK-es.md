@@ -5,7 +5,7 @@ date: 2020-09-28 11:59:18
 image: 'https://m.media-amazon.com/images/I/41GOOhwgiOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSRO1KK-es NIZZIN Francine Camisa Negro Black Small'
 sku: 'B01MSRO1KK-es'
 tags: [ 'camisa', ]

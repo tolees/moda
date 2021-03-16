@@ -5,7 +5,7 @@ date: 2020-06-25 19:50:25
 image: 'https://m.media-amazon.com/images/I/41kBABGEXjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GX2YBQQ-es JIVANER Ultra Slim: Cartera Hombre de Piel Azul - Cartera...'
 sku: 'B07GX2YBQQ-es'
 tags: [ 'billetera','monedero', ]

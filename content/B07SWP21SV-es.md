@@ -5,7 +5,7 @@ date: 2020-03-24 12:05:31
 image: 'https://m.media-amazon.com/images/I/41hmYAK84vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWP21SV-es Coronel Tapiocca Bolso bandolera hombre Long Red Azul...'
 sku: 'B07SWP21SV-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-09-26 12:28:54
 image: 'https://m.media-amazon.com/images/I/41kee-mYDpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC4C9WX-es adidas 3-Stripes tee Camiseta Hombre Azul azucie XS'
 sku: 'B07DC4C9WX-es'
 tags: [ 'camiseta', ]

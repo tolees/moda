@@ -5,7 +5,7 @@ date: 2020-01-21 08:05:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rvsPfeW4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBF41BF-es Nike 937 - Guantes de Fitness para Hombre Color Gris...'
 sku: 'B07GBF41BF-es'
 tags: [ 'guantes', ]

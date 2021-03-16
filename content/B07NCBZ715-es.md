@@ -5,7 +5,7 @@ date: 2020-09-22 13:05:13
 image: 'https://m.media-amazon.com/images/I/41sgHElgqdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCBZ715-es Pepe Jeans Saturn Vaqueros Azul Medium Used Wiser Wash...'
 sku: 'B07NCBZ715-es'
 tags: [ 'vaqueros', ]

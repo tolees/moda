@@ -5,7 +5,7 @@ date: 2020-02-05 16:04:18
 image: 'https://m.media-amazon.com/images/I/4190i3fz1VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813BCNJH-es ZIGJOY GOT7 Sudadera Gruesa y Aterciopelada con Cremallera...'
 sku: 'B0813BCNJH-es'
 tags: [ 'sudadera', ]

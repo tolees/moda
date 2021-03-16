@@ -5,7 +5,7 @@ date: 2020-04-07 15:43:25
 image: 'https://m.media-amazon.com/images/I/41aLEhTuGnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0764JPDXF-es Kipling IZELLAH Bolso bandolera para Mujer Marrón True...'
 sku: 'B0764JPDXF-es'
 tags: [ 'bolso', ]

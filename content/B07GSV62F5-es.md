@@ -5,7 +5,7 @@ date: 2020-01-30 23:15:26
 image: 'https://m.media-amazon.com/images/I/51Du4iSri8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSV62F5-es SKYSPER 3 Pares Calcetines de Deporte Deportivos para...'
 sku: 'B07GSV62F5-es'
 tags: [ 'zapatilla', ]

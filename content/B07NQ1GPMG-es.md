@@ -5,7 +5,7 @@ date: 2020-06-28 23:18:21
 image: 'https://m.media-amazon.com/images/I/31Q9T-DVcRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQ1GPMG-es Marca Amazon - MERAKI Shorts de Lino Mujer Marfil Ecru 40...'
 sku: 'B07NQ1GPMG-es'
 tags: [ 'meraki', ]

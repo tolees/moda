@@ -5,7 +5,7 @@ date: 2020-03-05 19:02:59
 image: 'https://m.media-amazon.com/images/I/31h6LWudWjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L91BVRD-es REPLAY Vivy Vaqueros Slim Gris Dark Grey 97 26W / 32L para...'
 sku: 'B07L91BVRD-es'
 tags: [ 'vaqueros', ]

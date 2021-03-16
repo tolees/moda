@@ -5,7 +5,7 @@ date: 2020-05-30 12:35:04
 image: 'https://m.media-amazon.com/images/I/517EfDcR7LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074MKVLYN-es Havaianas Brasil Logo Chanclas Unisex adulto Amarillo...'
 sku: 'B074MKVLYN-es'
 tags: [ 'chanclas', ]

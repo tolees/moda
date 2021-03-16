@@ -5,7 +5,7 @@ date: 2020-01-14 14:30:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31fdB%2BkNzoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FVYG8L0-es MY EVENING DRESS Grace - Vestido para Mujer Verde Dark...'
 sku: 'B00FVYG8L0-es'
 tags: [ 'vestido', ]

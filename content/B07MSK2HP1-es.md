@@ -5,7 +5,7 @@ date: 2020-07-16 12:18:50
 image: 'https://m.media-amazon.com/images/I/415q46SMNPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSK2HP1-es Ropa de Dormir para Mujeres SHOBDW Regalo del día de San...'
 sku: 'B07MSK2HP1-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-03-10 09:08:07
 image: 'https://m.media-amazon.com/images/I/41jh9xBQr+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VL9TQ2J-es JACK & JONES Jjewashington Shirt L/s STS Camisa Verde Fall...'
 sku: 'B07VL9TQ2J-es'
 tags: [ 'camisa', ]

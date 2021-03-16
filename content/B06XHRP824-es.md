@@ -5,7 +5,7 @@ date: 2020-06-10 13:58:39
 image: 'https://m.media-amazon.com/images/I/51qAB6aGCXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHRP824-es Geox J Kommodor A Zapatillas para Niñas Plateado Dk...'
 sku: 'B06XHRP824-es'
 tags: [ 'geox', ]

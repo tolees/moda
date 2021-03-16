@@ -5,7 +5,7 @@ date: 2020-01-13 19:55:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DBOsXFOuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8VHHV1-es Lee Scarlett High Vaqueros Azul Sitka Worn In Jq 27W/31L...'
 sku: 'B07M8VHHV1-es'
 tags: [ 'vaqueros', ]

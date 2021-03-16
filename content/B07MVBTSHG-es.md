@@ -5,7 +5,7 @@ date: 2020-01-15 13:54:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dTvMvVSTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVBTSHG-es Napapijri Avalon Wint Chaqueta Azul BLU Marine 176 Medium...'
 sku: 'B07MVBTSHG-es'
 tags: [ 'chaqueta', ]

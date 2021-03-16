@@ -5,7 +5,7 @@ date: 2020-05-19 13:32:01
 image: 'https://m.media-amazon.com/images/I/41nfXcRiGgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0747THGZQ-es Geox Zapatillas J New Savage Boy para Niños Gris 33 EU'
 sku: 'B0747THGZQ-es'
 tags: [ 'geox', ]

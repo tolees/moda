@@ -5,7 +5,7 @@ date: 2020-08-27 19:03:59
 image: 'https://m.media-amazon.com/images/I/312tBQivXNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBB8F33-es Crocs Isabella T-Strap Sandalias de Punta Descubierta para...'
 sku: 'B07SBB8F33-es'
 tags: [ 'sandalias', ]

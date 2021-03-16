@@ -5,7 +5,7 @@ date: 2020-06-06 14:46:26
 image: 'https://m.media-amazon.com/images/I/41Q4r+wEfaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GG3M9W-es Erima GmbH 2071803 XXL Sudadera Abierta Hombre Azul New Royal'
 sku: 'B078GG3M9W-es'
 tags: [ 'sudadera', ]

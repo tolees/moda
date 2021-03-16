@@ -5,7 +5,7 @@ date: 2020-03-02 09:04:50
 image: 'https://m.media-amazon.com/images/I/31PdD0hV7CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M83W7BG-es Napapijri DAMAVAND Crew Jersey Rojo Red Scarlet R01 L para...'
 sku: 'B07M83W7BG-es'
 tags: [ 'jersey', ]

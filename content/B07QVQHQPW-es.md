@@ -5,7 +5,7 @@ date: 2020-08-11 07:09:35
 image: 'https://m.media-amazon.com/images/I/41Yg0F5daSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVQHQPW-es AOQUSSQOA Mujer Ropa de baño Monokin Traje de una Pieza...'
 sku: 'B07QVQHQPW-es'
 tags: [ 'bikini', ]

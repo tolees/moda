@@ -5,7 +5,7 @@ date: 2020-04-02 14:59:38
 image: 'https://m.media-amazon.com/images/I/41BMDVdXMFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSL1B4W-es Geox D BACKSIE B ABX C Botas de Nieve para Mujer Beige...'
 sku: 'B07MSL1B4W-es'
 tags: [ 'geox', ]

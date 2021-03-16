@@ -5,7 +5,7 @@ date: 2020-02-04 19:21:57
 image: 'https://m.media-amazon.com/images/I/41gl8g66GaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJGJ6LB-es CMP Rigel Mid Zapatos de High Rise Senderismo Unisex...'
 sku: 'B07MJGJ6LB-es'
 tags: [ 'zapatos', ]

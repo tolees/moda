@@ -5,7 +5,7 @@ date: 2020-08-14 06:44:45
 image: 'https://m.media-amazon.com/images/I/31rG9wJwW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKMBWKQ-es Pepe Jeans Art Camiseta Azul 519light SPA 519 17-18 años...'
 sku: 'B07WKMBWKQ-es'
 tags: [ 'camiseta', ]

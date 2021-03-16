@@ -5,7 +5,7 @@ date: 2020-04-12 23:49:46
 image: 'https://m.media-amazon.com/images/I/41n1gghG4iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SXLZGY-es Timberland Malibu Waves Thong Sandalias para Mujer Negro...'
 sku: 'B078SXLZGY-es'
 tags: [ 'sandalias','timberland', ]

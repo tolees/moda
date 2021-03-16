@@ -5,7 +5,7 @@ date: 2020-01-27 16:50:40
 image: 'https://m.media-amazon.com/images/I/41XpU5pYzqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072X1J9YV-es Columbia Pike Lake Jacket Chaqueta Hombre Negro Black XL'
 sku: 'B072X1J9YV-es'
 tags: [ 'chaqueta', ]

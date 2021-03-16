@@ -5,7 +5,7 @@ date: 2020-09-15 01:58:47
 image: 'https://m.media-amazon.com/images/I/419q-Y3oD1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876LCB6R-es Shelfin - Camiseta de baloncesto de la NBA de Miami Heat...'
 sku: 'B0876LCB6R-es'
 tags: [ 'camiseta', ]

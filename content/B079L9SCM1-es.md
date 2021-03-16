@@ -5,7 +5,7 @@ date: 2020-04-14 17:12:44
 image: 'https://m.media-amazon.com/images/I/31kho+PB95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079L9SCM1-es Lacoste Ch9623 Camisa Blanco Blanc/Blanc 37 para Hombre'
 sku: 'B079L9SCM1-es'
 tags: [ 'camisa', ]

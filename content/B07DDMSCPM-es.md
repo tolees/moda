@@ -5,7 +5,7 @@ date: 2020-01-07 16:21:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414gUuaWfpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDMSCPM-es Odlo Suw Crew Neck Active Originals Camiseta Bebé-Niños...'
 sku: 'B07DDMSCPM-es'
 tags: [ 'camiseta', ]

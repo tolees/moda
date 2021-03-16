@@ -5,7 +5,7 @@ date: 2020-04-28 11:47:43
 image: 'https://m.media-amazon.com/images/I/51gLQESc-tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ4XKL3-es Springfield 4.FQ. Slim Fit Camisa Multicolor Multicolor 15...'
 sku: 'B07NJ4XKL3-es'
 tags: [ 'camisa', ]

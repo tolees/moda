@@ -5,7 +5,7 @@ date: 2020-08-01 19:45:50
 image: 'https://m.media-amazon.com/images/I/51NqMZd0rKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084C3CVTN-es Mishansha Zapatillas de Masculino Femenino Ligero Suave...'
 sku: 'B084C3CVTN-es'
 tags: [ 'zapatos', ]

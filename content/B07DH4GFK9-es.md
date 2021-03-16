@@ -5,7 +5,7 @@ date: 2020-09-18 16:24:17
 image: 'https://m.media-amazon.com/images/I/31CQ3eGFvNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DH4GFK9-es HUGO Alisters Chaqueta de Traje Negro Black 001 46 Talla...'
 sku: 'B07DH4GFK9-es'
 tags: [ 'chaqueta', ]

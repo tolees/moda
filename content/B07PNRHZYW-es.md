@@ -5,7 +5,7 @@ date: 2020-08-22 22:45:24
 image: 'https://m.media-amazon.com/images/I/31mhaEGxRyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNRHZYW-es CARE OF by PUMA Sudadera con capucha de forro con...'
 sku: 'B07PNRHZYW-es'
 tags: [ 'sudadera', ]

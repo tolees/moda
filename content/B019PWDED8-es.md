@@ -5,7 +5,7 @@ date: 2020-07-18 21:10:45
 image: 'https://m.media-amazon.com/images/I/31V-tzSWPNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019PWDED8-es Diesel CREW NECK ESSENTIAL Camiseta para Hombre Negro...'
 sku: 'B019PWDED8-es'
 tags: [ 'camiseta', ]

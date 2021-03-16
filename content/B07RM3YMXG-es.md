@@ -5,7 +5,7 @@ date: 2020-06-18 21:01:11
 image: 'https://m.media-amazon.com/images/I/512CxVnizYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM3YMXG-es Tommy Hilfiger Hyper Classic Stripe Shirt Camisa Azul Blue...'
 sku: 'B07RM3YMXG-es'
 tags: [ 'camisa', ]

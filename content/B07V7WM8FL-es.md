@@ -5,7 +5,7 @@ date: 2020-07-20 19:33:40
 image: 'https://m.media-amazon.com/images/I/31LKJ0EoN6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7WM8FL-es Love Moschino Jc4256pp0a Bolso tipo tote para Mujer Rojo...'
 sku: 'B07V7WM8FL-es'
 tags: [ 'bolso', ]

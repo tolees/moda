@@ -5,7 +5,7 @@ date: 2020-01-08 14:03:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31PIcBQZoSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C1TTWGQ-es Polaroid P8346 RC 0BM Gafas de sol Marrón Havana/Green...'
 sku: 'B00C1TTWGQ-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-02-24 13:37:22
 image: 'https://m.media-amazon.com/images/I/41hN+-D6XWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2KGVMH-es Zapatos Invierno Mujer Botas de Nieve Forradas Calientes...'
 sku: 'B07X2KGVMH-es'
 tags: [ 'botines','zapatos', ]

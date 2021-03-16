@@ -5,7 +5,7 @@ date: 2020-04-07 16:04:03
 image: 'https://m.media-amazon.com/images/I/41IpL7gbPOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK411LC-es JACK & JONES Jcotake Sweat Zip Hood Sudadera Negro Black...'
 sku: 'B07RK411LC-es'
 tags: [ 'sudadera', ]

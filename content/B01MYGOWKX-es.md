@@ -5,7 +5,7 @@ date: 2020-01-18 09:07:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417n16ew4eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYGOWKX-es Intimuse Embu Sudadera Negro Schwarz/Pink 125 Small'
 sku: 'B01MYGOWKX-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 10:49:15
 image: 'https://m.media-amazon.com/images/I/41IsvkWH06L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRVW1CR-es G-Star Eyben Slim R T Wmn S/s Camiseta Azul Sartho Blue...'
 sku: 'B01MRVW1CR-es'
 tags: [ 'camiseta', ]

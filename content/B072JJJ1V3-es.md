@@ -5,7 +5,7 @@ date: 2020-01-04 13:01:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eygzS5imL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JJJ1V3-es find. Vestido con Cremallera para Mujer Verde Pine Grove...'
 sku: 'B072JJJ1V3-es'
 tags: [ 'vestido', ]

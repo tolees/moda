@@ -5,7 +5,7 @@ date: 2020-09-10 23:18:55
 image: 'https://m.media-amazon.com/images/I/314RMCkRo1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFV95M5-es Geox D ANNYTAH D Bailarinas para Mujer Azul Navy C4002 37 EU'
 sku: 'B07LFV95M5-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-05-26 19:18:49
 image: 'https://m.media-amazon.com/images/I/41j-2v+dYmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PWPL95-es Hurley M One and Only Surf Camiseta de Manga Corta Hombre...'
 sku: 'B074PWPL95-es'
 tags: [ 'camiseta', ]

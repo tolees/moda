@@ -5,7 +5,7 @@ date: 2020-08-02 10:27:48
 image: 'https://m.media-amazon.com/images/I/51rCKy1AosL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3TDDXS-es Wrangler LS 2pkt Flap Shirt Camisa Multicolor Black 100...'
 sku: 'B07R3TDDXS-es'
 tags: [ 'camisa', ]

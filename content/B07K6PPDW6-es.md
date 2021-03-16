@@ -5,7 +5,7 @@ date: 2020-08-05 05:45:04
 image: 'https://m.media-amazon.com/images/I/41ftqAiWS1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6PPDW6-es Tommy Hilfiger T Camiseta Básica de Manga Corta Rojo Apple...'
 sku: 'B07K6PPDW6-es'
 tags: [ 'camiseta', ]

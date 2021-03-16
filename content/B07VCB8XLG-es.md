@@ -5,7 +5,7 @@ date: 2020-06-25 10:26:16
 image: 'https://m.media-amazon.com/images/I/31NoIYPQhyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCB8XLG-es ECCO X-TRINSICM Sandalias con Punta Abierta para Hombre...'
 sku: 'B07VCB8XLG-es'
 tags: [ 'sandalias', ]

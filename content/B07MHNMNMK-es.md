@@ -5,7 +5,7 @@ date: 2020-04-20 19:37:15
 image: 'https://m.media-amazon.com/images/I/41MYQA+phyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHNMNMK-es Columbia Horizons Pine Chaqueta Interchange Hombre Verde...'
 sku: 'B07MHNMNMK-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-10-05 07:18:27
 image: 'https://m.media-amazon.com/images/I/41wnOLrYHnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TP5PF2M-es The North Face Trevail Chaqueta de Plumón Hombre Azul TNF...'
 sku: 'B07TP5PF2M-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-01 20:24:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31yklR0EBOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG2N1TS-es Geox U Renan B Zapatillas para Hombre Negro Black C9999 45 EU'
 sku: 'B07LG2N1TS-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 17:36:17
 image: 'https://m.media-amazon.com/images/I/41RH66cPmLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XQJTBS-es Under Armour Tech 2.0. Camiseta masculina camiseta...'
 sku: 'B077XQJTBS-es'
 tags: [ 'camiseta', ]

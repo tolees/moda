@@ -5,7 +5,7 @@ date: 2020-05-29 12:57:27
 image: 'https://m.media-amazon.com/images/I/41wc9rUi8iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000V9HHQA-es Timberland Heritage Noreen 3 Eye Náuticos para Mujer...'
 sku: 'B000V9HHQA-es'
 tags: [ 'timberland', ]

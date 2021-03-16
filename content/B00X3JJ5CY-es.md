@@ -5,7 +5,7 @@ date: 2020-01-15 19:06:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GRZm1xzmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X3JJ5CY-es G-STAR Lynn Mid Skinny Wmn Vaqueros para mujer color negro...'
 sku: 'B00X3JJ5CY-es'
 tags: [ 'vaqueros', ]

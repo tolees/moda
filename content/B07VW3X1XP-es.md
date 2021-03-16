@@ -5,7 +5,7 @@ date: 2020-08-23 20:59:27
 image: 'https://m.media-amazon.com/images/I/31dM7sQQoRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VW3X1XP-es Lee Luke Vaqueros Dark Marine 37 31W / 34L para Hombre'
 sku: 'B07VW3X1XP-es'
 tags: [ 'vaqueros', ]

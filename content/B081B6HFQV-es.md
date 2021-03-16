@@ -5,7 +5,7 @@ date: 2020-05-17 10:42:48
 image: 'https://m.media-amazon.com/images/I/31mj1oGzuuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B6HFQV-es Columbia CSC Basic Camiseta de Manga Corta Hombre Blanco...'
 sku: 'B081B6HFQV-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-03 10:03:09
 image: 'https://m.media-amazon.com/images/I/41Q70ddzWfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5LGZHH-es Sandalias Mujer con Sandalias Wedge Plateau con Correa en...'
 sku: 'B07S5LGZHH-es'
 tags: [ 'sandalias','zapatos', ]

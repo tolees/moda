@@ -5,7 +5,7 @@ date: 2020-06-22 20:55:54
 image: 'https://m.media-amazon.com/images/I/41StKrDYL-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFL40MC-es Under Armour Heatgear Armour 2.0 Comp Shorts Pantalón...'
 sku: 'B01FFL40MC-es'
 tags: [ 'pantalón', ]

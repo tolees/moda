@@ -5,7 +5,7 @@ date: 2020-07-13 23:08:23
 image: 'https://m.media-amazon.com/images/I/31qUq-XTQmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N14PH5M-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros Negro...'
 sku: 'B07N14PH5M-es'
 tags: [ 'vaqueros', ]

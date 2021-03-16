@@ -5,7 +5,7 @@ date: 2020-06-30 16:12:17
 image: 'https://m.media-amazon.com/images/I/31dKPVegOGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH2ZCG8-es G-STAR RAW D-STAQ 3D Slim Vaqueros Negro Pitch Black...'
 sku: 'B07RH2ZCG8-es'
 tags: [ 'vaqueros', ]

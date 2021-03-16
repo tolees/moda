@@ -5,7 +5,7 @@ date: 2020-01-12 09:05:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BG2X7npBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V4GGKQ-es Canadian Peak Abrigo'
 sku: 'B082V4GGKQ-es'
 tags: [ 'abrigo', ]

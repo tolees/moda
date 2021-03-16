@@ -5,7 +5,7 @@ date: 2020-05-31 22:54:17
 image: 'https://m.media-amazon.com/images/I/41MJL2FcZuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2S3S5L-es Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva...'
 sku: 'B07F2S3S5L-es'
 tags: [ 'chaqueta', ]

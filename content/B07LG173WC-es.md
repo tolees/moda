@@ -5,7 +5,7 @@ date: 2020-03-03 03:49:48
 image: 'https://m.media-amazon.com/images/I/31wrSr56PnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG173WC-es Geox U Renan B Zapatillas para Hombre Negro Black/Mud...'
 sku: 'B07LG173WC-es'
 tags: [ 'geox', ]

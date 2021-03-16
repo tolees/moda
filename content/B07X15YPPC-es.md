@@ -5,7 +5,7 @@ date: 2020-03-26 11:35:42
 image: 'https://m.media-amazon.com/images/I/41KqsZRK1WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X15YPPC-es JACK & JONES Jjemelange Shirt L/s Noos Camisa Azul Blue...'
 sku: 'B07X15YPPC-es'
 tags: [ 'camisa', ]

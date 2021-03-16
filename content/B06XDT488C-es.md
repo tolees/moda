@@ -5,7 +5,7 @@ date: 2020-08-02 19:13:45
 image: 'https://m.media-amazon.com/images/I/317pWXJ4bPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDT488C-es Timberland Adventure 2.0 Cupsole Chukka Zapatillas para...'
 sku: 'B06XDT488C-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-04-26 16:18:27
 image: 'https://m.media-amazon.com/images/I/31eVc9fml4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V13CYFG-es Women s Secret Generic Funny GD Koala PJ Conjuntos de...'
 sku: 'B07V13CYFG-es'
 tags: [ 'pijama', ]

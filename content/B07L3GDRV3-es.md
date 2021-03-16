@@ -5,7 +5,7 @@ date: 2020-03-29 12:02:53
 image: 'https://m.media-amazon.com/images/I/41yyiY4ejXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3GDRV3-es Tommy Hilfiger Sporty Flat Beach Sandal Chanclas para...'
 sku: 'B07L3GDRV3-es'
 tags: [ 'chanclas', ]

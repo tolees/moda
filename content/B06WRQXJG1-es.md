@@ -5,7 +5,7 @@ date: 2020-06-29 17:14:51
 image: 'https://m.media-amazon.com/images/I/41LHO7eNAvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WRQXJG1-es Lacoste TH6709 Camiseta para Hombre Blanco Blanc S Talla...'
 sku: 'B06WRQXJG1-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-08 17:20:07
 image: 'https://m.media-amazon.com/images/I/51223CDqzeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0773KM9VS-es KONXIDO Serie de Moda Reloj Hombre Limunoso Impermeable de...'
 sku: 'B0773KM9VS-es'
 tags: [ 'moda', ]

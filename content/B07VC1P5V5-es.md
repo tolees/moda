@@ -5,7 +5,7 @@ date: 2020-01-07 20:41:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UTLdPXxgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC1P5V5-es JACK & JONES Jorsprayed Sweat Crew Neck Sudadera Azul Sea...'
 sku: 'B07VC1P5V5-es'
 tags: [ 'sudadera', ]

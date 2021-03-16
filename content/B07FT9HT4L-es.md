@@ -5,7 +5,7 @@ date: 2020-05-02 16:19:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51i0LjdXFzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FT9HT4L-es Lee SS Western Camisa Marfil Blueprint Lh XX-Large para...'
 sku: 'B07FT9HT4L-es'
 tags: [ 'camisa', ]

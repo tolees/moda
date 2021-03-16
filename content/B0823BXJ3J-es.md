@@ -5,7 +5,7 @@ date: 2020-09-13 12:21:36
 image: 'https://m.media-amazon.com/images/I/41pQ-UowYDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0823BXJ3J-es Jack & Jones Kapuzenpullover Sudadera con Capucha Negro M...'
 sku: 'B0823BXJ3J-es'
 tags: [ 'sudadera', ]

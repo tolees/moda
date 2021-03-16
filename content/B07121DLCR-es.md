@@ -5,7 +5,7 @@ date: 2020-01-01 18:44:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41M2Sf9sX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07121DLCR-es find. AN5411 vestido fiesta mujer Rosa Blood Orange 46...'
 sku: 'B07121DLCR-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-03-22 17:43:22
 image: 'https://m.media-amazon.com/images/I/419s86IKUeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W91WXHY-es AIPER Chaleco Calefactable para Hombres y Mujeres con...'
 sku: 'B07W91WXHY-es'
 tags: [ 'chaleco','chaqueta', ]

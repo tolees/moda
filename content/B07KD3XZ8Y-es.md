@@ -5,7 +5,7 @@ date: 2020-07-26 23:56:30
 image: 'https://m.media-amazon.com/images/I/41lhOmKsPFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KD3XZ8Y-es zhi wei Mochila Antirrobo Impermeable Mochila Bolso para...'
 sku: 'B07KD3XZ8Y-es'
 tags: [ 'bolso', ]

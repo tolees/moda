@@ -5,7 +5,7 @@ date: 2020-06-02 10:01:36
 image: 'https://m.media-amazon.com/images/I/41SkHaCPfnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AUMVME0-es GIVI EA106B Easy Bag Bolso Magnético Depósito Volumen 6...'
 sku: 'B01AUMVME0-es'
 tags: [ 'bolso', ]

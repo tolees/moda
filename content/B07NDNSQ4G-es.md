@@ -5,7 +5,7 @@ date: 2020-03-03 10:30:11
 image: 'https://m.media-amazon.com/images/I/51sineYQp5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNSQ4G-es G-STAR RAW Core Super Slim Camisa Vaquera Multicolor...'
 sku: 'B07NDNSQ4G-es'
 tags: [ 'camisa', ]

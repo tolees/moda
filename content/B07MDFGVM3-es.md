@@ -5,7 +5,7 @@ date: 2020-02-04 09:18:24
 image: 'https://m.media-amazon.com/images/I/41TWBn-KZHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDFGVM3-es Dilwe Chaleco de Pesca Hombres Transpirable Multi-...'
 sku: 'B07MDFGVM3-es'
 tags: [ 'chaleco', ]

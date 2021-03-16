@@ -5,7 +5,7 @@ date: 2020-02-16 11:12:43
 image: 'https://m.media-amazon.com/images/I/31FdiAO7oCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QM4TDE-es Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa Negro...'
 sku: 'B016QM4TDE-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-01-12 21:48:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FAdbx8rGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I6SXRBG-es Alpha Industries MA-1 D-Tec Chaqueta Bomber para Hombre...'
 sku: 'B01I6SXRBG-es'
 tags: [ 'chaqueta', ]

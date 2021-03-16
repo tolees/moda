@@ -5,7 +5,7 @@ date: 2020-03-19 22:42:06
 image: 'https://m.media-amazon.com/images/I/410Y5u0GISL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007K45LDU-es Dickies Philadelphia - Sudadera para hombre Grey Melange...'
 sku: 'B007K45LDU-es'
 tags: [ 'sudadera', ]

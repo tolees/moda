@@ -5,7 +5,7 @@ date: 2020-08-30 19:26:13
 image: 'https://m.media-amazon.com/images/I/41P0-Hp5hfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFRV38Y-es Helly Hansen W Seven J Jacket Chaqueta Mujer Rosa XS'
 sku: 'B07SFRV38Y-es'
 tags: [ 'chaqueta', ]

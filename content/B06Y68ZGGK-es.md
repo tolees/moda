@@ -5,7 +5,7 @@ date: 2020-03-07 09:23:14
 image: 'https://m.media-amazon.com/images/I/319yAlnNy-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y68ZGGK-es Joma Camiseta Granada Beige-Vino M/C Manga Corta Hombre...'
 sku: 'B06Y68ZGGK-es'
 tags: [ 'camiseta', ]

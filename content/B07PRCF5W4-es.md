@@ -5,7 +5,7 @@ date: 2020-04-18 19:47:52
 image: 'https://m.media-amazon.com/images/I/41PRhq0YimL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCF5W4-es Kipling New S Bolso Shopper para Mujer Verde Seagrass...'
 sku: 'B07PRCF5W4-es'
 tags: [ 'bolso', ]

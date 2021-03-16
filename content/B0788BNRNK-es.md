@@ -5,7 +5,7 @@ date: 2020-06-11 06:07:10
 image: 'https://m.media-amazon.com/images/I/41mEEBqGAJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788BNRNK-es Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y...'
 sku: 'B0788BNRNK-es'
 tags: [ 'sudadera', ]

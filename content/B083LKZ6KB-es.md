@@ -5,7 +5,7 @@ date: 2020-06-09 18:01:38
 image: 'https://m.media-amazon.com/images/I/31XjvHKZMkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LKZ6KB-es AMZTM Camiseta de Manga Corta con Flamenca - Bimba Niñas...'
 sku: 'B083LKZ6KB-es'
 tags: [ 'blusa','camiseta', ]

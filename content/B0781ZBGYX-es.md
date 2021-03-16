@@ -5,7 +5,7 @@ date: 2020-09-30 10:28:03
 image: 'https://m.media-amazon.com/images/I/51YV08QnrBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781ZBGYX-es Helly Hansen Lifaloft Ligera Chaqueta Aislante Mujer Black S'
 sku: 'B0781ZBGYX-es'
 tags: [ 'chaqueta', ]

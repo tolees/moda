@@ -5,7 +5,7 @@ date: 2020-02-19 11:03:19
 image: 'https://m.media-amazon.com/images/I/41qXdQvijYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPPD3W-es G-STAR RAW CPO Slim Camisa Vaquera Multicolor Medium Aged...'
 sku: 'B07NDPPD3W-es'
 tags: [ 'camisa', ]

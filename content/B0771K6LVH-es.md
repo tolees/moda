@@ -5,7 +5,7 @@ date: 2020-02-20 09:40:31
 image: 'https://m.media-amazon.com/images/I/310Dwk1xX7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771K6LVH-es NHEIMA Faja Reductora Hombre Adelgazante Camiseta Termica...'
 sku: 'B0771K6LVH-es'
 tags: [ 'camiseta','chaleco', ]

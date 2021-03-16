@@ -5,7 +5,7 @@ date: 2020-09-14 10:26:33
 image: 'https://m.media-amazon.com/images/I/415qM3yLdUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDNDL8-es Levi s 514 Vaqueros Straight Beige Harvest Gold Bi Stretch...'
 sku: 'B07TKDNDL8-es'
 tags: [ 'vaqueros', ]

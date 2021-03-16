@@ -5,7 +5,7 @@ date: 2020-02-11 21:31:58
 image: 'https://m.media-amazon.com/images/I/31yG+TRZ6JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSNT5W8-es New Look Aw19 Piper Abrigo Beige Oatmeal 14 40 Talla del...'
 sku: 'B07TSNT5W8-es'
 tags: [ 'abrigo', ]

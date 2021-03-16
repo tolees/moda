@@ -5,7 +5,7 @@ date: 2020-08-16 12:25:31
 image: 'https://m.media-amazon.com/images/I/41Ff9TXEpLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDG1M4L-es Desigual TS Karen Camiseta Negro Gris Alquitran 2022...'
 sku: 'B07VDG1M4L-es'
 tags: [ 'camiseta', ]

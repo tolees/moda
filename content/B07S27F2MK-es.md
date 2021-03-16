@@ -5,7 +5,7 @@ date: 2020-04-22 20:47:55
 image: 'https://m.media-amazon.com/images/I/31hU4jPFzTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S27F2MK-es BILLABONG All Day 10K Jacket Chaqueta Deportiva Hombre...'
 sku: 'B07S27F2MK-es'
 tags: [ 'chaqueta', ]

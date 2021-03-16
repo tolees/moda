@@ -5,7 +5,7 @@ date: 2020-04-22 08:38:08
 image: 'https://m.media-amazon.com/images/I/419g9d9wVOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2V39MF-es Columbia Glacial IV Jersey Polar con Media Cremallera para...'
 sku: 'B07K2V39MF-es'
 tags: [ 'jersey', ]

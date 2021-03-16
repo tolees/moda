@@ -5,7 +5,7 @@ date: 2020-06-22 13:06:15
 image: 'https://m.media-amazon.com/images/I/411+Ag82AtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BBCXJV-es Zuecos Unisex Niños Verano Sandalias de Playa Respirable...'
 sku: 'B083BBCXJV-es'
 tags: [ 'sandalias','zapatos','zuecos', ]

@@ -5,7 +5,7 @@ date: 2020-03-14 19:38:33
 image: 'https://m.media-amazon.com/images/I/41DFZKDEqGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ2BQ5W-es BILLABONG Laguna Beach Sudadera Mujer Verde Wasabi 4447...'
 sku: 'B07RZ2BQ5W-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-06-18 04:26:28
 image: 'https://m.media-amazon.com/images/I/41FAWZkpGTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016ZKV91M-es Geox Vega S Sandalias con Punta Abierta para Mujer Azul...'
 sku: 'B016ZKV91M-es'
 tags: [ 'geox','sandalias', ]

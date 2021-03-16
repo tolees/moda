@@ -5,7 +5,7 @@ date: 2020-02-18 16:04:48
 image: 'https://m.media-amazon.com/images/I/41SjTsQxXwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JB4L6CK-es Timberland NeWaterproofort Bay Oxford Zapatillas Unisex-...'
 sku: 'B07JB4L6CK-es'
 tags: [ 'timberland', ]

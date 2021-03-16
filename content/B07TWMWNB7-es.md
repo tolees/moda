@@ -5,7 +5,7 @@ date: 2020-08-29 20:37:49
 image: 'https://m.media-amazon.com/images/I/41OBWLHl+bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWMWNB7-es Skechers D lites 2.0 - Mega Summer Sandalias de Talón...'
 sku: 'B07TWMWNB7-es'
 tags: [ 'sandalias', ]

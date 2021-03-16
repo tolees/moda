@@ -5,7 +5,7 @@ date: 2020-01-25 15:48:41
 image: 'https://m.media-amazon.com/images/I/41qs3wuYF3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076B1J7KT-es Gafas Fastskin Elite Mirror'
 sku: 'B076B1J7KT-es'
 tags: [ 'gafas', ]

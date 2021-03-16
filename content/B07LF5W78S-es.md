@@ -5,7 +5,7 @@ date: 2020-04-22 17:38:37
 image: 'https://m.media-amazon.com/images/I/41XvqKGpMYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF5W78S-es Levi s 501 Fit Jeans Pantalón vaquero para hombre con...'
 sku: 'B07LF5W78S-es'
 tags: [ 'pantalón', ]

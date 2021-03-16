@@ -5,7 +5,7 @@ date: 2020-07-14 16:24:03
 image: 'https://m.media-amazon.com/images/I/41W8ZGtNaAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9CC59W-es Emoji Camiseta de Manga Corta para niñas Llama Morado...'
 sku: 'B07S9CC59W-es'
 tags: [ 'camiseta', ]

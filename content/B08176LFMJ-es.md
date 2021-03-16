@@ -5,7 +5,7 @@ date: 2020-06-23 21:10:51
 image: 'https://m.media-amazon.com/images/I/41RCcakgJAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08176LFMJ-es Columbia Outdoor Elements Sr Chaqueta con Cremallera...'
 sku: 'B08176LFMJ-es'
 tags: [ 'chaqueta', ]

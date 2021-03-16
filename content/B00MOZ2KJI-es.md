@@ -5,7 +5,7 @@ date: 2020-03-09 00:52:14
 image: 'https://m.media-amazon.com/images/I/41xhB5p5d2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MOZ2KJI-es Dickies Streetwear Male Shirt Sacramento - Camiseta /...'
 sku: 'B00MOZ2KJI-es'
 tags: [ 'camisa','camiseta', ]

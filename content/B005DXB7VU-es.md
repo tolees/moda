@@ -5,7 +5,7 @@ date: 2020-05-21 21:52:22
 image: 'https://m.media-amazon.com/images/I/31tQO-+avkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005DXB7VU-es Geox U Moner V Mocasines para Hombre Negro Black C9999 41...'
 sku: 'B005DXB7VU-es'
 tags: [ 'geox', ]

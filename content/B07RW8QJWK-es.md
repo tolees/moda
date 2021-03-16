@@ -5,7 +5,7 @@ date: 2020-07-08 17:48:55
 image: 'https://m.media-amazon.com/images/I/419n7GPNi4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RW8QJWK-es Riñonera Deportiva Riñonera Mujer Hombre Running Cinturón...'
 sku: 'B07RW8QJWK-es'
 tags: [ 'bolso', ]

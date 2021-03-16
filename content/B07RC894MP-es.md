@@ -5,7 +5,7 @@ date: 2020-01-02 13:45:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tvXEFUMLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC894MP-es Columbia 1420421 Chaqueta Forro Polar Hombre Azul...'
 sku: 'B07RC894MP-es'
 tags: [ 'chaqueta', ]

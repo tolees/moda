@@ -5,7 +5,7 @@ date: 2020-04-21 15:21:37
 image: 'https://m.media-amazon.com/images/I/31+4667xr1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013V6O4VA-es Levi s Housemark Polo Camiseta para Hombre Blanco C00987...'
 sku: 'B013V6O4VA-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-24 12:20:41
 image: 'https://m.media-amazon.com/images/I/416mjw1ckbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4WT7YK-es Levi s Relaxed Graphic tee Camiseta Verde 90 s Serif Logo...'
 sku: 'B07S4WT7YK-es'
 tags: [ 'camiseta', ]

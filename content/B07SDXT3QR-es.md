@@ -5,7 +5,7 @@ date: 2020-03-01 14:28:54
 image: 'https://m.media-amazon.com/images/I/41Oy1rpKVwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDXT3QR-es Vans WM Thanks Coach Attendance Jacket Chaqueta Verde...'
 sku: 'B07SDXT3QR-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-07-18 11:11:01
 image: 'https://m.media-amazon.com/images/I/314Qy3FbwuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJQTSNH-es Desigual Mone adaggio - Monedero con Cremallera para Mujer...'
 sku: 'B07XJQTSNH-es'
 tags: [ 'monedero', ]

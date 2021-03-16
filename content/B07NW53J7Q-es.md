@@ -5,7 +5,7 @@ date: 2020-03-15 23:45:07
 image: 'https://m.media-amazon.com/images/I/418Xqz8Ij9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW53J7Q-es Skechers Keepsakes 2.0-Broken Arrow Botines para Mujer...'
 sku: 'B07NW53J7Q-es'
 tags: [ 'botines', ]

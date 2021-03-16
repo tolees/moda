@@ -5,7 +5,7 @@ date: 2020-09-22 17:21:37
 image: 'https://m.media-amazon.com/images/I/319MkUOhlDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B91XDVN-es Clarks Dalia Rose Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07B91XDVN-es'
 tags: [ 'zapatos', ]

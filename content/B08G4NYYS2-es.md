@@ -5,7 +5,7 @@ date: 2020-10-04 09:47:00
 image: 'https://m.media-amazon.com/images/I/51rXQr6-tbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G4NYYS2-es UCAYALI Zapatos de Trabajo Unisex Adulto Azul/Negro Talla 44'
 sku: 'B08G4NYYS2-es'
 tags: [ 'zapatos', ]

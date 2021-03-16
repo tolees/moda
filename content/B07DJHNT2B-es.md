@@ -5,7 +5,7 @@ date: 2020-06-07 05:04:43
 image: 'https://m.media-amazon.com/images/I/31bJKMUpsQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJHNT2B-es Geox D Arethea B Mocasines para Mujer Marfil Off White...'
 sku: 'B07DJHNT2B-es'
 tags: [ 'geox', ]

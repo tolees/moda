@@ -5,7 +5,7 @@ date: 2020-03-28 19:55:06
 image: 'https://m.media-amazon.com/images/I/31B0Sq80LoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTT1RQ4-es Women s Secret Thermal Generic GF Snow PJ Conjuntos de...'
 sku: 'B07TTT1RQ4-es'
 tags: [ 'pijama', ]

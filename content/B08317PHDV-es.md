@@ -5,7 +5,7 @@ date: 2020-08-26 11:32:41
 image: 'https://m.media-amazon.com/images/I/41DRSJyCQdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08317PHDV-es BestoU Bolsos de Mujer Cuero Bolso Bandolera Tote Grande...'
 sku: 'B08317PHDV-es'
 tags: [ 'bolso', ]

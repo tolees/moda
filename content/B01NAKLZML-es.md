@@ -5,7 +5,7 @@ date: 2020-03-05 23:07:09
 image: 'https://m.media-amazon.com/images/I/41X4hERBxaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAKLZML-es Columbia Canyon Chaqueta Softshell Hombre Gris Grey Ash...'
 sku: 'B01NAKLZML-es'
 tags: [ 'chaqueta', ]

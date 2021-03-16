@@ -5,7 +5,7 @@ date: 2020-01-12 13:44:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dyrl8z-SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8W5K8C-es Wrangler Graphic Logo tee Camiseta Negro Black 100 Medium...'
 sku: 'B07M8W5K8C-es'
 tags: [ 'camiseta', ]

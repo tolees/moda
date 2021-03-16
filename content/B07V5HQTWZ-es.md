@@ -5,7 +5,7 @@ date: 2020-01-09 07:06:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y34XdDs8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5HQTWZ-es Tom Tailor Denim Print Camiseta Azul Slate Blue/Green...'
 sku: 'B07V5HQTWZ-es'
 tags: [ 'camiseta', ]

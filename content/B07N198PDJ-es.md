@@ -5,7 +5,7 @@ date: 2020-01-21 20:50:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31PftI-7zsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N198PDJ-es G-STAR RAW 5620 3D Vaqueros Slim Azul Dry Waxed Cobler...'
 sku: 'B07N198PDJ-es'
 tags: [ 'vaqueros', ]

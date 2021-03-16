@@ -5,7 +5,7 @@ date: 2020-10-09 06:34:23
 image: 'https://m.media-amazon.com/images/I/216X3MgiIFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFRSXT7-es Collar GD Good Designs Est 2015 con letras en oro colgante...'
 sku: 'B07GFRSXT7-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-08-13 19:01:38
 image: 'https://m.media-amazon.com/images/I/51ApRzP2RjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J0P1T3C-es EKU FASHION - Camiseta - para bebé niño Azul Azul 5T'
 sku: 'B01J0P1T3C-es'
 tags: [ 'camiseta', ]

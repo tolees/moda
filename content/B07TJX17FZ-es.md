@@ -5,7 +5,7 @@ date: 2020-03-18 14:54:17
 image: 'https://m.media-amazon.com/images/I/41RZGl+2kpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJX17FZ-es Lacoste Sport Th3377 Camiseta Naranja Glaieul/Cosmique Xrn...'
 sku: 'B07TJX17FZ-es'
 tags: [ 'camiseta', ]

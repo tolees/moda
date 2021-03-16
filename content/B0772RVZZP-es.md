@@ -5,7 +5,7 @@ date: 2020-06-25 11:33:24
 image: 'https://m.media-amazon.com/images/I/31CjUq7OIrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772RVZZP-es Marca Amazon - MERAKI Pantalón Cortos Chinos Hombre azul...'
 sku: 'B0772RVZZP-es'
 tags: [ 'meraki','pantalón', ]

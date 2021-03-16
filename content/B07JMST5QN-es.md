@@ -5,7 +5,7 @@ date: 2020-01-21 14:05:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31QKZDy%2Bd0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMST5QN-es Amazon Essentials - Chaqueta de algodón terry de manga...'
 sku: 'B07JMST5QN-es'
 tags: [ 'chaqueta', ]

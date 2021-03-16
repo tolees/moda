@@ -5,7 +5,7 @@ date: 2020-03-22 12:13:08
 image: 'https://m.media-amazon.com/images/I/41y7cjxZw-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY79MWX-es Superdry Ashley Everest Parka Gris Grey 05q 42 Talla del...'
 sku: 'B07NY79MWX-es'
 tags: [ 'parka', ]

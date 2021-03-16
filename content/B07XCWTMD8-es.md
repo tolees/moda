@@ -5,7 +5,7 @@ date: 2020-09-29 08:02:56
 image: 'https://m.media-amazon.com/images/I/31GlhL7S88L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCWTMD8-es PUMA Nu-Tility Fitted tee Camiseta Mujer White L'
 sku: 'B07XCWTMD8-es'
 tags: [ 'camiseta', ]

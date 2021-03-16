@@ -5,7 +5,7 @@ date: 2020-03-09 10:34:55
 image: 'https://m.media-amazon.com/images/I/41kJa-396jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTV5S39-es Botas de Invierno para Niños Zapatillas de Senderismo...'
 sku: 'B07WTV5S39-es'
 tags: [ 'zapatos', ]

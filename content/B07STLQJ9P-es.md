@@ -5,7 +5,7 @@ date: 2020-09-21 04:49:06
 image: 'https://m.media-amazon.com/images/I/41HdgfY5ovL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLQJ9P-es Geox U Nebula C Zapatillas para Hombre Gris Lt Grey C1010...'
 sku: 'B07STLQJ9P-es'
 tags: [ 'geox', ]

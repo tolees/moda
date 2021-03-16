@@ -5,7 +5,7 @@ date: 2020-02-20 16:36:23
 image: 'https://m.media-amazon.com/images/I/41aAdvFAUOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5DHNXG-es Lee Luke Vaqueros Dark Blue Elko BU W26/L32 para Hombre'
 sku: 'B07M5DHNXG-es'
 tags: [ 'vaqueros', ]

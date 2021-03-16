@@ -5,7 +5,7 @@ date: 2020-01-27 19:02:59
 image: 'https://m.media-amazon.com/images/I/31o3oLLsXsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWQLW9H-es Pepe Jeans Betties HW Vaqueros Straight Azul Claro Archive...'
 sku: 'B07JWQLW9H-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-03-22 13:49:47
 image: 'https://m.media-amazon.com/images/I/51i8aBJMltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R32PXD9-es Camfosy CAMFOSYUnifr136 - Sandalias Deportivas Mujer...'
 sku: 'B07R32PXD9-es'
 tags: [ 'sandalias', ]

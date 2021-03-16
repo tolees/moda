@@ -5,7 +5,7 @@ date: 2020-01-10 21:03:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IUqZo7T5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MNPXZQ-es Geographical Norway Chaqueta Mujer ANIES Negro 03'
 sku: 'B082MNPXZQ-es'
 tags: [ 'chaqueta', ]

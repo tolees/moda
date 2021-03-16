@@ -5,7 +5,7 @@ date: 2020-09-26 18:28:36
 image: 'https://m.media-amazon.com/images/I/41FyTQXOjoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFGF69F-es Levi s 510 Skinny Fit Vaqueros para Hombre Gris Deathcap...'
 sku: 'B07LFGF69F-es'
 tags: [ 'vaqueros', ]

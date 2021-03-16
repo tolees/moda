@@ -5,7 +5,7 @@ date: 2020-07-14 17:25:18
 image: 'https://m.media-amazon.com/images/I/31rYtIbomqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQ5WPJZ-es Polaroid SPORT 7886 gafas de sol MTT NEGRO 66 Unisex Adulto'
 sku: 'B07YQ5WPJZ-es'
 tags: [ 'gafas', ]

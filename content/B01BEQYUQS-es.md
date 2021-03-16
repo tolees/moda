@@ -5,7 +5,7 @@ date: 2020-01-06 16:39:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BEQYUQS-es El Naturalista N758 Botines para Mujer Marrón Brown 000 37 EU'
 sku: 'B01BEQYUQS-es'
 tags: [ 'botines', ]

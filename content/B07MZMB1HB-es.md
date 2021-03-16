@@ -5,7 +5,7 @@ date: 2020-03-11 11:37:13
 image: 'https://m.media-amazon.com/images/I/51AA4ebDs3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZMB1HB-es Pepe Jeans Freya Blusa Multicolor Multi 0aa X-Large para...'
 sku: 'B07MZMB1HB-es'
 tags: [ 'blusa', ]

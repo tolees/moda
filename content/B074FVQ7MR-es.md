@@ -5,7 +5,7 @@ date: 2020-01-08 16:01:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bDTNtJ8IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FVQ7MR-es find. Sudadera Estampada para Hombre Gris G-marl Medium'
 sku: 'B074FVQ7MR-es'
 tags: [ 'sudadera', ]

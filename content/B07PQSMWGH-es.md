@@ -5,7 +5,7 @@ date: 2020-01-28 19:54:56
 image: 'https://m.media-amazon.com/images/I/51bqswWB4tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQSMWGH-es deAO Juego del Lejano Oeste Conjunto de Vaqueros y Nativos...'
 sku: 'B07PQSMWGH-es'
 tags: [ 'vaqueros', ]

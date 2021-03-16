@@ -5,7 +5,7 @@ date: 2020-05-17 02:58:11
 image: 'https://m.media-amazon.com/images/I/31dTBQMwWLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3SCC8N-es Geox Uomo Sandal Strada D Sandalias con Punta Abierta para...'
 sku: 'B07F3SCC8N-es'
 tags: [ 'geox','sandalias', ]

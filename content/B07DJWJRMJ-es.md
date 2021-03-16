@@ -5,7 +5,7 @@ date: 2020-06-28 13:14:29
 image: 'https://m.media-amazon.com/images/I/31wY3TvLteL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJWJRMJ-es Geox D Annytah Moc A Mocasines para Mujer Rojo Scarlet...'
 sku: 'B07DJWJRMJ-es'
 tags: [ 'geox', ]

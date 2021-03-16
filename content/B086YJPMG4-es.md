@@ -5,7 +5,7 @@ date: 2020-04-23 13:03:22
 image: 'https://m.media-amazon.com/images/I/419h5JZajoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YJPMG4-es Odetina - Sandalias de tacón bajo para mujer color Blanco...'
 sku: 'B086YJPMG4-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-06-22 14:05:30
 image: 'https://m.media-amazon.com/images/I/41JMqQE4E6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9QPRN-es Levi s The Original Camiseta Rojo Hm Patch OG Hm tee Earth...'
 sku: 'B07TJ9QPRN-es'
 tags: [ 'camiseta', ]

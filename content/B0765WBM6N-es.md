@@ -5,7 +5,7 @@ date: 2020-08-12 08:12:00
 image: 'https://m.media-amazon.com/images/I/310naRyCJML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765WBM6N-es Levi s Relaxed Graphic Crew Sudadera Blanco Better Batwing...'
 sku: 'B0765WBM6N-es'
 tags: [ 'sudadera', ]

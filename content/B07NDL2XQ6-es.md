@@ -5,7 +5,7 @@ date: 2019-12-31 15:31:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/315uQxkLe4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL2XQ6-es G-STAR RAW 3301 Slim Vaqueros Pitch Black B964-A810 26W /...'
 sku: 'B07NDL2XQ6-es'
 tags: [ 'vaqueros', ]

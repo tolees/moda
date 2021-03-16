@@ -5,7 +5,7 @@ date: 2020-01-22 18:18:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zuESdvhPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PA3Z8NQ-es Mercedes-Benz Sonnenbrille M1035 Gafas de sol Dorado Gold...'
 sku: 'B00PA3Z8NQ-es'
 tags: [ 'gafas', ]

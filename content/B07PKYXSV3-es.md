@@ -5,7 +5,7 @@ date: 2020-06-28 10:38:57
 image: 'https://m.media-amazon.com/images/I/41Xr1Tl3amL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKYXSV3-es New Balance 574v2 Zapatilla Baja de Deporte para Hombre...'
 sku: 'B07PKYXSV3-es'
 tags: [ 'zapatilla', ]

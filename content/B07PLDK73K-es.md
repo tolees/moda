@@ -5,7 +5,7 @@ date: 2020-01-02 20:03:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UxnfAKqtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLDK73K-es BLEND 20708633 Chaqueta Verde Olive Night Green 77233 S...'
 sku: 'B07PLDK73K-es'
 tags: [ 'chaqueta', ]

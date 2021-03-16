@@ -5,7 +5,7 @@ date: 2020-04-02 11:07:48
 image: 'https://m.media-amazon.com/images/I/41ZMuKUdJhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDGBQT4-es Esprit 099ee1g040 Abrigo Azul Navy 400 Small para Mujer'
 sku: 'B07VDGBQT4-es'
 tags: [ 'abrigo', ]

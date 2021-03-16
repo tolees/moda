@@ -5,7 +5,7 @@ date: 2020-03-29 20:44:48
 image: 'https://m.media-amazon.com/images/I/413lVivm3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYL7FH2-es Mizuno Wave Voltage Zapatos de Voleibol Unisex Adulto...'
 sku: 'B07RYL7FH2-es'
 tags: [ 'zapatos', ]

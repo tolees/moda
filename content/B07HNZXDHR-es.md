@@ -5,7 +5,7 @@ date: 2020-08-26 17:45:51
 image: 'https://m.media-amazon.com/images/I/31H8z8M7ClL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNZXDHR-es Alvivi Chaqueta de Piel Sintética Bebé Bolero Blanco Boda...'
 sku: 'B07HNZXDHR-es'
 tags: [ 'abrigo','chaqueta','vestido', ]

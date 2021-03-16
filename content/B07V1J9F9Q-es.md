@@ -5,7 +5,7 @@ date: 2020-08-09 20:22:36
 image: 'https://m.media-amazon.com/images/I/41vJ6F6qKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1J9F9Q-es BOSS T-Shirt RN 24 Camiseta Gris Medium Grey 32 Hombre'
 sku: 'B07V1J9F9Q-es'
 tags: [ 'camiseta', ]

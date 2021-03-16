@@ -5,7 +5,7 @@ date: 2020-02-23 14:54:58
 image: 'https://m.media-amazon.com/images/I/41PUta6gU6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXKBDT1-es XTI 48771 Sandalias con Punta Abierta para Mujer Beige...'
 sku: 'B07JXKBDT1-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-05-24 10:04:08
 image: 'https://m.media-amazon.com/images/I/41rbRONc0SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087BML2Z4-es Mediffen Mujer Fiesta Tacón Ancho Correa De Tobillo Lazos...'
 sku: 'B087BML2Z4-es'
 tags: [ 'moda','sandalias','vestido', ]

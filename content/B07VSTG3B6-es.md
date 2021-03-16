@@ -5,7 +5,7 @@ date: 2020-09-13 12:56:23
 image: 'https://m.media-amazon.com/images/I/31oIX2BGPPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSTG3B6-es G-STAR RAW Kafey Ultra High Waist Skinny Vaqueros Azul...'
 sku: 'B07VSTG3B6-es'
 tags: [ 'vaqueros', ]

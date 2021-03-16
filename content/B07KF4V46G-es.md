@@ -5,7 +5,7 @@ date: 2020-06-18 20:54:18
 image: 'https://m.media-amazon.com/images/I/31pipiGN5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4V46G-es Levi s Camiseta Blanco 2 Pack tee White +/White + 0001...'
 sku: 'B07KF4V46G-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-11 11:33:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hp3r7b%2BeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2DPJV7-es Monedero "Mamá tu sonrisa lo vale todo"'
 sku: 'B06Y2DPJV7-es'
 tags: [ 'monedero', ]

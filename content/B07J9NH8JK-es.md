@@ -5,7 +5,7 @@ date: 2020-07-06 18:49:55
 image: 'https://m.media-amazon.com/images/I/51kZgR7v4GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9NH8JK-es Lois - Cartera de Mano Organizador para Caballero....'
 sku: 'B07J9NH8JK-es'
 tags: [ 'moda', ]

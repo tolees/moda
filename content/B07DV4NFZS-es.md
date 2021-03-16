@@ -5,7 +5,7 @@ date: 2020-04-15 08:35:43
 image: 'https://m.media-amazon.com/images/I/31UdkRzBEqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DV4NFZS-es Columbia Kea II Sandalias para Mujer Negro Black Ti Grey...'
 sku: 'B07DV4NFZS-es'
 tags: [ 'sandalias', ]

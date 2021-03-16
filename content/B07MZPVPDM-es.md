@@ -5,7 +5,7 @@ date: 2020-04-14 19:22:00
 image: 'https://m.media-amazon.com/images/I/51wmGEAVxGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPVPDM-es Pepe Jeans Nadia Sudadera Grey Marl 933 7-8 años Talla del...'
 sku: 'B07MZPVPDM-es'
 tags: [ 'sudadera', ]

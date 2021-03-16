@@ -5,7 +5,7 @@ date: 2020-08-15 09:32:40
 image: 'https://m.media-amazon.com/images/I/41BGdV0drVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV4VXRN-es TWBB De los Hombres Vendimia Pantalones Pantalones Vaqueros'
 sku: 'B07MV4VXRN-es'
 tags: [ 'vaqueros', ]

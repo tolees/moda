@@ -5,7 +5,7 @@ date: 2020-09-02 17:31:17
 image: 'https://m.media-amazon.com/images/I/412P0cHz6EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771SCYGT-es Kiwisac Trendy Pirámides Bolso para Carro de Bebé...'
 sku: 'B0771SCYGT-es'
 tags: [ 'bolso', ]

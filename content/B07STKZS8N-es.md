@@ -5,7 +5,7 @@ date: 2020-09-21 16:06:57
 image: 'https://m.media-amazon.com/images/I/41SNVToTKXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STKZS8N-es Geox B FLEXYPER Girl B Zapatillas para Niñas Rosa Fuchsia...'
 sku: 'B07STKZS8N-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-04-03 18:31:19
 image: 'https://m.media-amazon.com/images/I/41-swDY45UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007B9MFHO-es Crocs Crocband U Zuecos Unisex Adulto Gris Charcoal-Ocean...'
 sku: 'B007B9MFHO-es'
 tags: [ 'zuecos', ]

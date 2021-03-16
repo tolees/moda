@@ -5,7 +5,7 @@ date: 2020-02-04 10:10:19
 image: 'https://m.media-amazon.com/images/I/41CbS2t5ToL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL7DJYR-es Geographical Norway Parka Mujer Baby Ass A Negro 1'
 sku: 'B07XL7DJYR-es'
 tags: [ 'parka', ]

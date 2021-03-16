@@ -5,7 +5,7 @@ date: 2020-03-19 07:55:33
 image: 'https://m.media-amazon.com/images/I/51l7zxQOvFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQNBPMT-es El Ganso 1 Camisa casual Rojo Rojo 0010 Small para Hombre'
 sku: 'B07PQNBPMT-es'
 tags: [ 'camisa', ]

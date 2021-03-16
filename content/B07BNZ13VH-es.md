@@ -5,7 +5,7 @@ date: 2020-02-06 02:24:29
 image: 'https://m.media-amazon.com/images/I/41BwZYMOLaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNZ13VH-es Columbia Ruckel Ridge Chukka WP Omni-Heat Zapatos de...'
 sku: 'B07BNZ13VH-es'
 tags: [ 'zapatos', ]

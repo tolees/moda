@@ -5,7 +5,7 @@ date: 2020-06-24 18:56:24
 image: 'https://m.media-amazon.com/images/I/41gZNV-SxmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXT3LNK-es Geox J Alben Boy D Zapatillas para Niños Azul Navy/Red...'
 sku: 'B07SXT3LNK-es'
 tags: [ 'geox', ]

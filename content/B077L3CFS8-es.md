@@ -5,7 +5,7 @@ date: 2020-03-12 09:29:23
 image: 'https://m.media-amazon.com/images/I/41QLKmIXMeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077L3CFS8-es HonourSport Falda Pantalón con Polainas Falda de Deportes...'
 sku: 'B077L3CFS8-es'
 tags: [ 'falda','pantalón', ]

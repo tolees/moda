@@ -5,7 +5,7 @@ date: 2020-08-09 13:24:07
 image: 'https://m.media-amazon.com/images/I/518gGuMxKIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBQB8FK-es Winline Gafas de Natación Profesional Anti Niebla...'
 sku: 'B07TBQB8FK-es'
 tags: [ 'gafas', ]

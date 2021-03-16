@@ -5,7 +5,7 @@ date: 2020-01-08 11:33:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41j3dXuP%2BFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VMRCNU-es Timberland Heritage 6 Inch Premium Waterproof Botas para...'
 sku: 'B000VMRCNU-es'
 tags: [ 'timberland', ]

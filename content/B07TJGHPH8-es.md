@@ -5,7 +5,7 @@ date: 2020-07-17 16:21:29
 image: 'https://m.media-amazon.com/images/I/41ezhKowHkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJGHPH8-es Superdry OL Vintage Emb Crew Camiseta Azul Navy Blue...'
 sku: 'B07TJGHPH8-es'
 tags: [ 'camiseta', ]

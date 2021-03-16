@@ -5,7 +5,7 @@ date: 2020-08-22 09:30:46
 image: 'https://m.media-amazon.com/images/I/41gOlh+748L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071V3BC2C-es Tommy Hilfiger Core Poplin Classic Shirt Camisa Azul 411...'
 sku: 'B071V3BC2C-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 15:43:55
 image: 'https://m.media-amazon.com/images/I/41UuOeDFkCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B6MYZ2-es Columbia Lodge Sudadera sin Capucha Hombre Gris/Azul Grey...'
 sku: 'B081B6MYZ2-es'
 tags: [ 'sudadera', ]

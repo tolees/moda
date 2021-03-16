@@ -5,7 +5,7 @@ date: 2020-07-19 10:14:58
 image: 'https://m.media-amazon.com/images/I/41wDJqvQJ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY8WFHW-es lodi ESIN Botines para Mujer Negro Glove Negro Glove Negro...'
 sku: 'B07NY8WFHW-es'
 tags: [ 'botines', ]

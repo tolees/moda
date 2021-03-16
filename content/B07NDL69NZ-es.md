@@ -5,7 +5,7 @@ date: 2020-04-16 10:54:14
 image: 'https://m.media-amazon.com/images/I/411x+jDY7EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL69NZ-es G-STAR RAW Starkon Loose Round Neck Camiseta Rojo Dk Baron...'
 sku: 'B07NDL69NZ-es'
 tags: [ 'camiseta', ]

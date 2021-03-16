@@ -5,7 +5,7 @@ date: 2020-10-01 09:42:15
 image: 'https://m.media-amazon.com/images/I/31+2RBeXepL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MRX7W2-es Marca Amazon - MERAKI Camiseta de Manga Corta Hombre...'
 sku: 'B079MRX7W2-es'
 tags: [ 'camiseta','meraki', ]

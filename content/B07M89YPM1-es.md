@@ -5,7 +5,7 @@ date: 2020-01-12 12:58:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41m7pFqBURL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M89YPM1-es Wrangler SS Logo tee Camiseta Blanco White 989 L para Hombre'
 sku: 'B07M89YPM1-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-25 08:59:31
 image: 'https://m.media-amazon.com/images/I/314uDuqP0qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC472PV-es Tommy Hilfiger John Cargo Short Light Twill Vaqueros...'
 sku: 'B07WC472PV-es'
 tags: [ 'vaqueros', ]

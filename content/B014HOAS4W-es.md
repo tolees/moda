@@ -5,7 +5,7 @@ date: 2020-07-29 07:06:30
 image: 'https://m.media-amazon.com/images/I/41Tizvq22KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014HOAS4W-es BLEND 701711 Vaqueros Black/ 70155 28 para Hombre'
 sku: 'B014HOAS4W-es'
 tags: [ 'vaqueros', ]

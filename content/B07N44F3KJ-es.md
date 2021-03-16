@@ -5,7 +5,7 @@ date: 2020-04-27 11:05:40
 image: 'https://m.media-amazon.com/images/I/41qWLaOwnKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N44F3KJ-es Desigual Trousers Robots Vaqueros Boyfriend Azul Denim...'
 sku: 'B07N44F3KJ-es'
 tags: [ 'vaqueros', ]

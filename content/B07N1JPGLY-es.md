@@ -5,7 +5,7 @@ date: 2020-04-12 11:52:20
 image: 'https://m.media-amazon.com/images/I/31JzsBWsg4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JPGLY-es Clarks Pure Mist Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1JPGLY-es'
 tags: [ 'zapatos', ]

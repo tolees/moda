@@ -5,7 +5,7 @@ date: 2020-04-09 09:32:59
 image: 'https://m.media-amazon.com/images/I/31na5M2KsmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQYQ4FG-es Clarks Mena Blossom Zapatos de Tacón para Mujer Negro...'
 sku: 'B07FQYQ4FG-es'
 tags: [ 'zapatos', ]

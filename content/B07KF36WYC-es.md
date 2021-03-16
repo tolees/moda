@@ -5,7 +5,7 @@ date: 2020-01-23 12:52:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414SOHSIrAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF36WYC-es Levi s 511 Slim Fit Vaqueros Norse Warp Cool 3721 36W /...'
 sku: 'B07KF36WYC-es'
 tags: [ 'vaqueros', ]

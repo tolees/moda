@@ -5,7 +5,7 @@ date: 2020-04-25 12:06:11
 image: 'https://m.media-amazon.com/images/I/41o8RYJhBqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZNNF7J-es Suhctup Funda Huawei P9 Plus Carcasa Patrón de Dibujos...'
 sku: 'B084ZNNF7J-es'
 tags: [ 'moda', ]

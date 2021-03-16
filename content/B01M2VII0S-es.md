@@ -5,7 +5,7 @@ date: 2020-05-09 18:02:02
 image: 'https://m.media-amazon.com/images/I/41odDu4UArL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2VII0S-es Silicona De Enfermería De Dentición Lactancia Materna...'
 sku: 'B01M2VII0S-es'
 tags: [ 'collar', ]

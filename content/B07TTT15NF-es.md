@@ -5,7 +5,7 @@ date: 2020-03-07 17:02:00
 image: 'https://m.media-amazon.com/images/I/3198MJBzIAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTT15NF-es Women s Secret Daily Bees Db Bee Stripes PJ Conjuntos de...'
 sku: 'B07TTT15NF-es'
 tags: [ 'pijama', ]

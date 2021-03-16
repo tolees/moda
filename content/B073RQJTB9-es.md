@@ -5,7 +5,7 @@ date: 2020-01-23 09:07:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qwUFqFUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RQJTB9-es Star Wars HQ2017 Pijama de una Pieza Rojo Red 4 años...'
 sku: 'B073RQJTB9-es'
 tags: [ 'pijama', ]

@@ -5,7 +5,7 @@ date: 2020-05-08 07:26:47
 image: 'https://m.media-amazon.com/images/I/31YPm9YnKDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07815BYTV-es Under Armour Tech 2.0 T Camiseta de Manga Corta Hombre...'
 sku: 'B07815BYTV-es'
 tags: [ 'camiseta', ]

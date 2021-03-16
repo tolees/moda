@@ -5,7 +5,7 @@ date: 2020-06-26 11:10:54
 image: 'https://m.media-amazon.com/images/I/51QQvpXJjaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B61FFF-es Columbia Triple Canyon Camisa de Manga Corta Hombre Azul...'
 sku: 'B081B61FFF-es'
 tags: [ 'camisa', ]

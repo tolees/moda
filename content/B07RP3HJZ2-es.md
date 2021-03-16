@@ -5,7 +5,7 @@ date: 2020-04-16 17:59:54
 image: 'https://m.media-amazon.com/images/I/41PpdwMtN7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP3HJZ2-es Conjunto regalo cumpleaños Cake Topper + Body o camiseta...'
 sku: 'B07RP3HJZ2-es'
 tags: [ 'camiseta', ]

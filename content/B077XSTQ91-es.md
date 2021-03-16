@@ -5,7 +5,7 @@ date: 2020-01-19 07:27:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411IbrCSTNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XSTQ91-es Under Armour UA HG Racer Tank Camiseta sin Mangas Mujer...'
 sku: 'B077XSTQ91-es'
 tags: [ 'camiseta', ]

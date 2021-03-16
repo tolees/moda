@@ -5,7 +5,7 @@ date: 2020-09-22 17:42:07
 image: 'https://m.media-amazon.com/images/I/41fzz4+EjoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNQJS4B-es 6 Ballenas Camisa Metal con 6 Imanes AOLVO Ballenas...'
 sku: 'B07HNQJS4B-es'
 tags: [ 'camisa','collar', ]

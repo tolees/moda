@@ -5,7 +5,7 @@ date: 2020-01-23 19:03:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZWi3GnSDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDBQFC9-es Lee Sherpa Jacket Chaqueta Azul Dark Stone SS Large para...'
 sku: 'B07MDBQFC9-es'
 tags: [ 'chaqueta', ]

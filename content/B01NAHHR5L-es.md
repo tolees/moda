@@ -5,7 +5,7 @@ date: 2020-01-09 16:03:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zOCvxP%2BxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAHHR5L-es find. Blusa Camisera con Cintura Ajustable para Mujer Azul...'
 sku: 'B01NAHHR5L-es'
 tags: [ 'blusa', ]

@@ -5,7 +5,7 @@ date: 2020-04-18 17:28:11
 image: 'https://m.media-amazon.com/images/I/41hhsUJpVkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V12KHBG-es Women s Secret Generic Funny GD Oh Deer PJ Conjuntos de...'
 sku: 'B07V12KHBG-es'
 tags: [ 'pijama', ]

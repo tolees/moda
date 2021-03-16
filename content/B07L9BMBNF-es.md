@@ -5,7 +5,7 @@ date: 2020-03-23 11:27:20
 image: 'https://m.media-amazon.com/images/I/31dO8T7HebL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9BMBNF-es Under Armour Baseline Fleece Jogger Pantalón Hombre Negro XL'
 sku: 'B07L9BMBNF-es'
 tags: [ 'pantalón', ]

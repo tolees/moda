@@ -5,7 +5,7 @@ date: 2020-05-18 21:49:53
 image: 'https://m.media-amazon.com/images/I/41Y8AhnczaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BOS9P8Y-es Freaky Nation Biker Princess Chaqueta Negro Shadow 9015...'
 sku: 'B01BOS9P8Y-es'
 tags: [ 'chaqueta', ]

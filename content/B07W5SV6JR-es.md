@@ -5,7 +5,7 @@ date: 2020-08-28 08:32:34
 image: 'https://m.media-amazon.com/images/I/419Rv0eEv8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5SV6JR-es Tommy Hilfiger Brooklyn Short Light Twill Vaqueros Regatta...'
 sku: 'B07W5SV6JR-es'
 tags: [ 'vaqueros', ]

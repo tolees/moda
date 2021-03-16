@@ -5,7 +5,7 @@ date: 2020-10-11 13:32:08
 image: 'https://m.media-amazon.com/images/I/31gEznXeAJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFG88KC-es ONLY onlAVA FAUX LEATHER BIKER OTW NOOS Chaqueta Mujer...'
 sku: 'B01MFG88KC-es'
 tags: [ 'chaqueta', ]

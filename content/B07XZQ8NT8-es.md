@@ -5,7 +5,7 @@ date: 2020-07-29 11:47:44
 image: 'https://m.media-amazon.com/images/I/51w9ZYvr9GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZQ8NT8-es ARTESANIA CERDA Bolso Bandolera 3D Harry Potter Unisex...'
 sku: 'B07XZQ8NT8-es'
 tags: [ 'bolso', ]

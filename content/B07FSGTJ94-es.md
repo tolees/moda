@@ -5,7 +5,7 @@ date: 2020-02-03 20:40:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bT%2BRjHM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSGTJ94-es Lee Lee Crew Sws sudadera Mujer Marfil Faded Rosado Ea Medium'
 sku: 'B07FSGTJ94-es'
 tags: [ 'sudadera', ]

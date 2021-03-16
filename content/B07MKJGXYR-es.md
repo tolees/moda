@@ -5,7 +5,7 @@ date: 2020-04-10 09:46:06
 image: 'https://m.media-amazon.com/images/I/41qAZ7CFGqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKJGXYR-es G-STAR RAW Revend Skinny Vaqueros Lt Indigo Aged 8968-8436...'
 sku: 'B07MKJGXYR-es'
 tags: [ 'vaqueros', ]

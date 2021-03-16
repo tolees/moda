@@ -5,7 +5,7 @@ date: 2020-04-18 14:04:02
 image: 'https://m.media-amazon.com/images/I/41y6uTFSUdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876ZHYLX-es ELEEMEE Mujer Elegant sin Cordones Zapatos con Lazos Tacón...'
 sku: 'B0876ZHYLX-es'
 tags: [ 'zapatos', ]

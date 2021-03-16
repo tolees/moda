@@ -5,7 +5,7 @@ date: 2020-09-17 22:05:25
 image: 'https://m.media-amazon.com/images/I/31Gaxdm-nxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B94YFC7-es Clarks Linvale Jerica Zapatos de Tacón para Mujer Azul...'
 sku: 'B07B94YFC7-es'
 tags: [ 'zapatos', ]

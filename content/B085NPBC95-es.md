@@ -5,7 +5,7 @@ date: 2020-07-04 19:26:00
 image: 'https://m.media-amazon.com/images/I/41Stxicl2LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NPBC95-es 7 PCS Organizadores de Viaje para Maletas Bolsas de...'
 sku: 'B085NPBC95-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-21 08:02:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514p0nlTOvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7RNZK1-es Kipling - monedero de Sintético Mujer color Multicolor...'
 sku: 'B07N7RNZK1-es'
 tags: [ 'monedero', ]

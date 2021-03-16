@@ -5,7 +5,7 @@ date: 2020-05-19 11:08:40
 image: 'https://m.media-amazon.com/images/I/51CrjGR8uSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GL2G1L5-es Rismart Hombre Punta Cerrado Gancho y Bucle Al Aire Libre...'
 sku: 'B07GL2G1L5-es'
 tags: [ 'chanclas','sandalias','zapatos', ]

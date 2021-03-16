@@ -5,7 +5,7 @@ date: 2020-08-04 08:06:51
 image: 'https://m.media-amazon.com/images/I/41B1hSKc5hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDCKKMJ-es Napapijri Gode Camisa Multicolor Red Check 38c 38c1 Large...'
 sku: 'B07VDCKKMJ-es'
 tags: [ 'camisa', ]

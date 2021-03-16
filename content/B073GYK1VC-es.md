@@ -5,7 +5,7 @@ date: 2020-04-28 22:31:42
 image: 'https://m.media-amazon.com/images/I/410ua3t0DJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073GYK1VC-es Marca Amazon - find. Off The Shoulder Button Camisa para...'
 sku: 'B073GYK1VC-es'
 tags: [ '-','camisa','find.', ]

@@ -5,7 +5,7 @@ date: 2020-01-17 17:04:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/511fI7uqMcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCDF78W-es Wrangler LS Western Shirt Camisa Negro Black 100 Small...'
 sku: 'B07PCDF78W-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 19:12:08
 image: 'https://m.media-amazon.com/images/I/41ga3+PkjlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMN428C-es Kansoom Guantes de Ciclismo Motocicleta Bicicleta Montaña-...'
 sku: 'B07SMN428C-es'
 tags: [ 'guantes', ]

@@ -5,7 +5,7 @@ date: 2020-02-03 09:38:42
 image: 'https://m.media-amazon.com/images/I/410p4x8aHQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J4H2MD7-es Columbia Hombre Camiseta técnica de manga larga M...'
 sku: 'B07J4H2MD7-es'
 tags: [ 'camiseta', ]

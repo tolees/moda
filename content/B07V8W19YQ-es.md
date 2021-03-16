@@ -5,7 +5,7 @@ date: 2020-06-15 12:33:32
 image: 'https://m.media-amazon.com/images/I/31+Yxry6siL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8W19YQ-es Tommy Hilfiger Hilfiger Badge Beach Sandal Sandalias con...'
 sku: 'B07V8W19YQ-es'
 tags: [ 'sandalias', ]

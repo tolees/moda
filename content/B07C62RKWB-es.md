@@ -5,7 +5,7 @@ date: 2020-02-29 10:46:38
 image: 'https://m.media-amazon.com/images/I/41lz0xMCYGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C62RKWB-es JACK & JONES Jjegingham Shirt L/s Camisa Multicolor Port...'
 sku: 'B07C62RKWB-es'
 tags: [ 'camisa', ]

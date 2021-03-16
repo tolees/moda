@@ -5,7 +5,7 @@ date: 2020-09-11 19:20:07
 image: 'https://m.media-amazon.com/images/I/411tyaf57NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYZLVDB-es Pepe Jeans Marke Camiseta Azul Old Navy 584 XX-Large para...'
 sku: 'B07VYZLVDB-es'
 tags: [ 'camiseta', ]

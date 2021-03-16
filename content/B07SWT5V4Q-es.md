@@ -5,7 +5,7 @@ date: 2020-06-24 18:23:39
 image: 'https://m.media-amazon.com/images/I/31UQBMOujXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWT5V4Q-es REPLAY Zeumar Vaqueros Slim Gris Stone Grey 400 31W / 34L...'
 sku: 'B07SWT5V4Q-es'
 tags: [ 'vaqueros', ]

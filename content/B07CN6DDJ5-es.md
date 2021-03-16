@@ -5,7 +5,7 @@ date: 2020-07-27 09:44:06
 image: 'https://m.media-amazon.com/images/I/41VGwBTAKpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN6DDJ5-es Crocs Baya Clog Zuecos Unisex Niños Verde Volt Green 395...'
 sku: 'B07CN6DDJ5-es'
 tags: [ 'zuecos', ]

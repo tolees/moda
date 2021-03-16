@@ -5,7 +5,7 @@ date: 2020-09-16 16:55:43
 image: 'https://m.media-amazon.com/images/I/41Z5zmMwnOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0764KV9CR-es Kipling ARTO Bolso bandolera para Mujer Marrón True Beige...'
 sku: 'B0764KV9CR-es'
 tags: [ 'bolso', ]

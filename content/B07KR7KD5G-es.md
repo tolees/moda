@@ -5,7 +5,7 @@ date: 2020-04-03 08:23:47
 image: 'https://m.media-amazon.com/images/I/41rrFPgLlkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR7KD5G-es Under Armour UA Speed Stride Printed SS Camiseta Hombre...'
 sku: 'B07KR7KD5G-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-13 09:03:00
 image: 'https://m.media-amazon.com/images/I/21ggLtTZfWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084CP1L6S-es HAWKERS · ONE LS · Frozen rose · Gold · Gafas de sol para...'
 sku: 'B084CP1L6S-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-10-09 02:46:59
 image: 'https://m.media-amazon.com/images/I/31RLRwl2KuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCQBNK8-es Marca Amazon - find. Soft Jersey High Neck Sudadera Mujer...'
 sku: 'B07FCQBNK8-es'
 tags: [ '-','find.','jersey','sudadera', ]

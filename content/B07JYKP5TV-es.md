@@ -5,7 +5,7 @@ date: 2020-05-12 11:34:09
 image: 'https://m.media-amazon.com/images/I/31ptwOg7zAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYKP5TV-es adidas Adilette W Zapatos de Playa y Piscina para Mujer...'
 sku: 'B07JYKP5TV-es'
 tags: [ 'zapatos', ]

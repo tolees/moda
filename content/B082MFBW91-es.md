@@ -5,7 +5,7 @@ date: 2020-01-28 19:51:16
 image: 'https://m.media-amazon.com/images/I/41zO1ecjzlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MFBW91-es OBEEII Vestido de Fiesta Niña Disfraz para Ninas para Boda...'
 sku: 'B082MFBW91-es'
 tags: [ 'vestido', ]

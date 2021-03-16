@@ -5,7 +5,7 @@ date: 2020-01-05 10:43:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qeAXxbnSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYRQGNC-es Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta...'
 sku: 'B07JYRQGNC-es'
 tags: [ 'chaqueta', ]

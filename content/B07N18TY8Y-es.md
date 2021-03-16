@@ -5,7 +5,7 @@ date: 2020-09-19 10:26:13
 image: 'https://m.media-amazon.com/images/I/41WwF4E8inL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18TY8Y-es G-STAR RAW Lynn Mid Skinny Vaqueros Azul Faded Blue...'
 sku: 'B07N18TY8Y-es'
 tags: [ 'vaqueros', ]

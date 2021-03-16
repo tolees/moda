@@ -5,7 +5,7 @@ date: 2020-09-08 02:15:35
 image: 'https://m.media-amazon.com/images/I/31xicIlf7YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG1LTYT-es Geox D New ANNYA Mid A Zapatos con Tacón para Mujer Azul...'
 sku: 'B07LG1LTYT-es'
 tags: [ 'geox','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-06 20:38:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31YjPbvvrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGTTM3N-es adidas Bolso Weekend 1.9 2019 Gris Adultos unisex...'
 sku: 'B07NGTTM3N-es'
 tags: [ 'bolso', ]

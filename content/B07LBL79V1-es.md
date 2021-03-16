@@ -5,7 +5,7 @@ date: 2020-06-06 16:10:27
 image: 'https://m.media-amazon.com/images/I/41Y90p-IK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBL79V1-es Rieker 52513-36 Botines para Mujer Multicolor...'
 sku: 'B07LBL79V1-es'
 tags: [ 'botines', ]

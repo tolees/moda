@@ -5,7 +5,7 @@ date: 2020-06-20 19:16:58
 image: 'https://m.media-amazon.com/images/I/41P4OP5RwcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZSXRYW-es Marca Amazon – Goodthreads – Camisa de manga corta y corte...'
 sku: 'B07DZSXRYW-es'
 tags: [ 'camisa','goodthreads', ]

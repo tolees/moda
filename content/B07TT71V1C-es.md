@@ -5,7 +5,7 @@ date: 2020-06-10 10:27:34
 image: 'https://m.media-amazon.com/images/I/41iMTMgxsBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT71V1C-es Levi s The tee Camiseta de Manga Corta Gris 90 s Serif T3...'
 sku: 'B07TT71V1C-es'
 tags: [ 'camiseta', ]

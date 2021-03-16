@@ -5,7 +5,7 @@ date: 2020-06-18 08:54:33
 image: 'https://m.media-amazon.com/images/I/41VSj-cjBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4RP6BN-es Ipanema Kirei Fem Chanclas para Mujer Multicolor Pink/Pink...'
 sku: 'B07X4RP6BN-es'
 tags: [ 'chanclas', ]

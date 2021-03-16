@@ -5,7 +5,7 @@ date: 2020-03-03 11:03:51
 image: 'https://m.media-amazon.com/images/I/41DkLYBGmGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RPL3F7-es Helly Hansen Logo Hoodie Sudadera con Capucha Hombre Azul...'
 sku: 'B073RPL3F7-es'
 tags: [ 'sudadera', ]

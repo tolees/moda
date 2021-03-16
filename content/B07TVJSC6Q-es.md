@@ -5,7 +5,7 @@ date: 2020-01-05 11:07:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Mi4urVifL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVJSC6Q-es Timberland Camisa de Franela para Hombre Manga Larga'
 sku: 'B07TVJSC6Q-es'
 tags: [ 'camisa','timberland', ]

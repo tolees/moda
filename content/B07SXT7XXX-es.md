@@ -5,7 +5,7 @@ date: 2020-10-10 00:09:48
 image: 'https://m.media-amazon.com/images/I/41TayNClbTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXT7XXX-es Geox D SUZZIE B Zapatillas para Mujer Beige Dk Skin/Off...'
 sku: 'B07SXT7XXX-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-01-05 22:22:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-j9M2Z1fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N17RTPN-es Lee Hoodie SWS Sudadera para Hombre Amarillo Lemon Zest Mm...'
 sku: 'B07N17RTPN-es'
 tags: [ 'sudadera', ]

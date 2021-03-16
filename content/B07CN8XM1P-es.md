@@ -5,7 +5,7 @@ date: 2020-05-09 16:33:45
 image: 'https://m.media-amazon.com/images/I/210-mB+Bn4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN8XM1P-es Crocs Classic Flip K Chanclas Unisex Niños Azul Ice Blue...'
 sku: 'B07CN8XM1P-es'
 tags: [ 'chanclas', ]

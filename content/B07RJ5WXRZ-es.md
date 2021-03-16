@@ -5,7 +5,7 @@ date: 2020-09-29 08:19:27
 image: 'https://m.media-amazon.com/images/I/411U-TlNG5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ5WXRZ-es Under Armour Charged Cotton Scramble Hombre Camisa Polo...'
 sku: 'B07RJ5WXRZ-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-05-13 10:50:28
 image: 'https://m.media-amazon.com/images/I/41RTPWQnN0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP8M86L-es DC Comics Pijama Entera para Niños Bebés The Flash Rojo...'
 sku: 'B07RP8M86L-es'
 tags: [ 'pijama', ]

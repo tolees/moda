@@ -5,7 +5,7 @@ date: 2020-07-27 19:56:21
 image: 'https://m.media-amazon.com/images/I/41iRY5GdssL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FS694FF-es 52W Lámpara LED UV Uñas para Manicura/Pedicura con 4...'
 sku: 'B07FS694FF-es'
 tags: [ 'guantes', ]

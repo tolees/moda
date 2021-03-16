@@ -5,7 +5,7 @@ date: 2020-04-04 13:19:13
 image: 'https://m.media-amazon.com/images/I/51wygl3z4jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GH4KV2E-es Bolso organizador para coche animal gato pájaro ratón de...'
 sku: 'B01GH4KV2E-es'
 tags: [ 'bolso', ]

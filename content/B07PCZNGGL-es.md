@@ -5,7 +5,7 @@ date: 2020-05-13 11:02:16
 image: 'https://m.media-amazon.com/images/I/41RBvkTfLZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCZNGGL-es Tommy Hilfiger Heritage Crew Neck Sweatshirt Sudadera...'
 sku: 'B07PCZNGGL-es'
 tags: [ 'sudadera', ]

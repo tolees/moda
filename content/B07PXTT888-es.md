@@ -5,7 +5,7 @@ date: 2020-01-20 21:08:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313pxiwCahL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXTT888-es Under Armour Mk1 Warmup FZ Chaqueta Hombre Negro MD'
 sku: 'B07PXTT888-es'
 tags: [ 'chaqueta', ]

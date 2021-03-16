@@ -5,7 +5,7 @@ date: 2020-09-30 17:47:26
 image: 'https://m.media-amazon.com/images/I/31dkiwI+c5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNVPLVX-es Clarks Orinoco Strap Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TNVPLVX-es'
 tags: [ 'sandalias', ]

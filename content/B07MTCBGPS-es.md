@@ -5,7 +5,7 @@ date: 2020-03-29 16:44:11
 image: 'https://m.media-amazon.com/images/I/51jP3KlgvVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTCBGPS-es Napapijri GOAYO Camisa Casual Azul Blue Check 11c XXXL...'
 sku: 'B07MTCBGPS-es'
 tags: [ 'camisa', ]

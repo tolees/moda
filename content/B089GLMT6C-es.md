@@ -5,7 +5,7 @@ date: 2020-06-06 15:27:16
 image: 'https://m.media-amazon.com/images/I/41hGJ2NIB4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GLMT6C-es Kloius Bolso de hombro de mochila de cuero de gran...'
 sku: 'B089GLMT6C-es'
 tags: [ 'bolso', ]

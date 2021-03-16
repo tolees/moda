@@ -5,7 +5,7 @@ date: 2020-05-15 12:32:08
 image: 'https://m.media-amazon.com/images/I/31ssH0JP2FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPTWF84-es MaxMuxun Sandalias de Tacón con Correa del Tobillo Azul...'
 sku: 'B07KPTWF84-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-03-17 08:49:52
 image: 'https://m.media-amazon.com/images/I/31JTKX9GjuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K75CH7J-es Levi s On Tour Camiseta Deportiva de Tirantes Blanco Red...'
 sku: 'B07K75CH7J-es'
 tags: [ 'camiseta', ]

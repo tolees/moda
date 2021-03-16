@@ -5,7 +5,7 @@ date: 2020-07-22 21:57:56
 image: 'https://m.media-amazon.com/images/I/31ZZkkwXsHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BGT1BV-es Asics Gel-Pulse 11 Zapatos para Correr Mens Negro 40 1/2 EU'
 sku: 'B081BGT1BV-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-02-06 11:23:56
 image: 'https://m.media-amazon.com/images/I/4125BG9Kt-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQFV1DL-es Kuako Zapatillas de Estar por casa con Forro de vellón...'
 sku: 'B07WQFV1DL-es'
 tags: [ 'zapatos', ]

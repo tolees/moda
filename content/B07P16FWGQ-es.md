@@ -5,7 +5,7 @@ date: 2020-08-16 13:03:26
 image: 'https://m.media-amazon.com/images/I/419MTmCha0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P16FWGQ-es Superdry Retro Sport tee Camiseta Negro Black 02a M para...'
 sku: 'B07P16FWGQ-es'
 tags: [ 'camiseta', ]

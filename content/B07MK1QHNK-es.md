@@ -5,7 +5,7 @@ date: 2020-02-02 21:56:06
 image: 'https://m.media-amazon.com/images/I/41aVQJw-8VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QHNK-es Napapijri Gardiner Camisa Casual Azul Blue Stripe 01S M...'
 sku: 'B07MK1QHNK-es'
 tags: [ 'camisa', ]

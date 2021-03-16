@@ -5,7 +5,7 @@ date: 2020-06-15 07:41:48
 image: 'https://m.media-amazon.com/images/I/415Q9Vi5uXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK333MR-es Marca Amazon - MERAKI Shorts de Natación Hombre Gris...'
 sku: 'B07MK333MR-es'
 tags: [ 'meraki', ]

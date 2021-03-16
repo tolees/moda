@@ -5,7 +5,7 @@ date: 2020-01-06 20:52:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lgcKb0P9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H29B3ZL-es ZAFUL Suéter Mujer de Cuello Alto Sueter Básico Corto...'
 sku: 'B07H29B3ZL-es'
 tags: [ 'jersey', ]

@@ -5,7 +5,7 @@ date: 2020-09-29 18:09:14
 image: 'https://m.media-amazon.com/images/I/31bWEZGFsML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCF8GX9-es REPLAY Anbass Vaqueros Dark Blue C07 36W / 36L para Hombre'
 sku: 'B07VCF8GX9-es'
 tags: [ 'vaqueros', ]

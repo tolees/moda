@@ -5,7 +5,7 @@ date: 2020-08-06 10:09:17
 image: 'https://m.media-amazon.com/images/I/51g919K8XhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFK6MBT-es Kappa Kit Gara Home Bambino 2019/2020 Camiseta de Juego...'
 sku: 'B07SFK6MBT-es'
 tags: [ 'camiseta', ]

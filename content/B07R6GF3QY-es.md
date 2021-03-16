@@ -5,7 +5,7 @@ date: 2020-01-24 10:12:18
 image: 'https://m.media-amazon.com/images/I/51L4zBxB+jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6GF3QY-es HonourSport Falda Capri para Mujer Deportes faldones...'
 sku: 'B07R6GF3QY-es'
 tags: [ 'falda', ]

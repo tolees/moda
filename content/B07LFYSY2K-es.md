@@ -5,7 +5,7 @@ date: 2020-03-03 19:12:02
 image: 'https://m.media-amazon.com/images/I/31TwcA3W6fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYSY2K-es Geox U Devan A Mocasines para Hombre Azul Navy C4002 42 EU'
 sku: 'B07LFYSY2K-es'
 tags: [ 'geox', ]

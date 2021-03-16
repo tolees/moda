@@ -5,7 +5,7 @@ date: 2020-02-10 09:59:52
 image: 'https://m.media-amazon.com/images/I/31B4qpSVsFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HNF76-es Clarks Un Lindel Hi Botines para Mujer Negro Black Combi...'
 sku: 'B07N1HNF76-es'
 tags: [ 'botines', ]

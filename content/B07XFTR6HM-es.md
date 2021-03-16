@@ -5,7 +5,7 @@ date: 2020-02-04 16:53:57
 image: 'https://m.media-amazon.com/images/I/41Vr8fmYJdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFTR6HM-es ESPRIT Collection 109eo1g002 Abrigo Negro Black 001 Large...'
 sku: 'B07XFTR6HM-es'
 tags: [ 'abrigo', ]

@@ -5,7 +5,7 @@ date: 2020-09-30 17:39:26
 image: 'https://m.media-amazon.com/images/I/51BxTL2qqIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYZMJBX-es Pepe Jeans Jerrod Camiseta Azul Indigo 561 X-Large para...'
 sku: 'B07VYZMJBX-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-13 12:40:38
 image: 'https://m.media-amazon.com/images/I/31GHOTItKmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0030ZSZTA-es adidas Duramo Slide Chanclas Unisex Adulto Negro...'
 sku: 'B0030ZSZTA-es'
 tags: [ 'chanclas', ]

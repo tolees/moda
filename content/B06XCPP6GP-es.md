@@ -5,7 +5,7 @@ date: 2020-07-28 14:37:46
 image: 'https://m.media-amazon.com/images/I/415MaCHSa7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCPP6GP-es Pepe Jeans New Brooke Vaqueros Azul 10Oz Str 8Dip Royal Dk...'
 sku: 'B06XCPP6GP-es'
 tags: [ 'vaqueros', ]

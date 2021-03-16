@@ -5,7 +5,7 @@ date: 2020-07-22 06:11:12
 image: 'https://m.media-amazon.com/images/I/41GADq5eoHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG65Y9B-es Marca Amazon - find. Camisa Hombre Verde Fresh Green S...'
 sku: 'B06XG65Y9B-es'
 tags: [ '-','camisa','find.', ]

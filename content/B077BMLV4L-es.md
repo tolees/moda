@@ -5,7 +5,7 @@ date: 2020-05-27 18:34:28
 image: 'https://m.media-amazon.com/images/I/31xIBLOIOsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BMLV4L-es adidas Core18 W Camiseta Polo Mujer Dark Blue/White 2XL'
 sku: 'B077BMLV4L-es'
 tags: [ 'camiseta', ]

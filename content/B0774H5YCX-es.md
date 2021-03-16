@@ -5,7 +5,7 @@ date: 2020-06-05 21:33:17
 image: 'https://m.media-amazon.com/images/I/316bV4YYQvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774H5YCX-es Eastpak Buddy Bolso bandolera 18 cm Azul Cloud Navy'
 sku: 'B0774H5YCX-es'
 tags: [ 'bolso', ]

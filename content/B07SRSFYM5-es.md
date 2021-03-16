@@ -5,7 +5,7 @@ date: 2020-03-04 10:35:53
 image: 'https://m.media-amazon.com/images/I/41WPcs-RYYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRSFYM5-es New Balance FC Porto Primera Equipación SS 2019-2020 Niño...'
 sku: 'B07SRSFYM5-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 23:26:51
 image: 'https://m.media-amazon.com/images/I/31eNXfmuPwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QJCLG7-es Tom Tailor Logo T-Shirt Camiseta 12880 XXXL para Hombre'
 sku: 'B081QJCLG7-es'
 tags: [ 'camiseta', ]

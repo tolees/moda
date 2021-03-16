@@ -5,7 +5,7 @@ date: 2020-02-24 16:45:51
 image: 'https://m.media-amazon.com/images/I/51bX4DL1rhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KFC2CIK-es Bolso de Embrague Monedero Cartera Bolso de Lentejuelas...'
 sku: 'B01KFC2CIK-es'
 tags: [ 'bolso','monedero', ]

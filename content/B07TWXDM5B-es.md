@@ -5,7 +5,7 @@ date: 2020-02-24 20:50:00
 image: 'https://m.media-amazon.com/images/I/31Ggrq9DKKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWXDM5B-es Women s Secret Multilicense College MC WR B-Star PJ...'
 sku: 'B07TWXDM5B-es'
 tags: [ 'pijama', ]

@@ -5,7 +5,7 @@ date: 2020-06-18 12:03:36
 image: 'https://m.media-amazon.com/images/I/41fPr6S6FrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHP99ND-es Marca Amazon - find. Camisa Hombre Negro Black L Label: L'
 sku: 'B06XHP99ND-es'
 tags: [ '-','camisa','find.', ]

@@ -5,7 +5,7 @@ date: 2020-10-08 18:11:25
 image: 'https://m.media-amazon.com/images/I/31WGeFVruUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTRBYZV-es Lee Western Shirt Camisa Black 01 XS para Hombre'
 sku: 'B07FTRBYZV-es'
 tags: [ 'camisa', ]

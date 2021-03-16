@@ -5,7 +5,7 @@ date: 2020-02-02 08:44:20
 image: 'https://m.media-amazon.com/images/I/419JFuDpD7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLN86C-es Napapijri BIBU H Sudadera con Capucha Verde Green Forest 2...'
 sku: 'B07MMLN86C-es'
 tags: [ 'sudadera', ]

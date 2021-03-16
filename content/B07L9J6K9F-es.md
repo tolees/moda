@@ -5,7 +5,7 @@ date: 2020-04-14 09:35:38
 image: 'https://m.media-amazon.com/images/I/315b7MBLh7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9J6K9F-es Under Armour Storm Launch Chaqueta Mujer Negro...'
 sku: 'B07L9J6K9F-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-04-19 20:45:49
 image: 'https://m.media-amazon.com/images/I/510feVeBX6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L1O2S8A-es SKYSPER Hombres Jersey Pantalones Largos Mangas Largas de...'
 sku: 'B01L1O2S8A-es'
 tags: [ 'jersey', ]

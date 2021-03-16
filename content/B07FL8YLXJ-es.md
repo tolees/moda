@@ -5,7 +5,7 @@ date: 2020-03-23 14:49:29
 image: 'https://m.media-amazon.com/images/I/41k2d+vNgzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FL8YLXJ-es Superdry Vintage Logo 1st tee Camiseta de Tirantes Azul...'
 sku: 'B07FL8YLXJ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-19 19:43:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413X8dTFK2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV4LS6T-es Zapatillas de Deportes Hombre Mujer Zapatos Deportivos...'
 sku: 'B07TV4LS6T-es'
 tags: [ 'zapatos', ]

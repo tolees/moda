@@ -5,7 +5,7 @@ date: 2020-05-31 14:54:22
 image: 'https://m.media-amazon.com/images/I/41Q9U60nDyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KXAH0GO-es Under Armour UA HG Armour SS Camiseta Hombre Negro...'
 sku: 'B00KXAH0GO-es'
 tags: [ 'camiseta', ]

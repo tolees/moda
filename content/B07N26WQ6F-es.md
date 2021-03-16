@@ -5,7 +5,7 @@ date: 2020-02-01 00:26:06
 image: 'https://m.media-amazon.com/images/I/410WEqp6T-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N26WQ6F-es Tommy Jeans TJM Tech Parka Chaqueta Verde Forest Night M...'
 sku: 'B07N26WQ6F-es'
 tags: [ 'chaqueta','parka', ]

@@ -5,7 +5,7 @@ date: 2020-07-14 06:02:10
 image: 'https://m.media-amazon.com/images/I/51t4Hp1Dk0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8FSH5R-es SHIELDON Mochila Portatil 15.6 Pulgadas Mochila...'
 sku: 'B07T8FSH5R-es'
 tags: [ 'bolso', ]

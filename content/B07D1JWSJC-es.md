@@ -5,7 +5,7 @@ date: 2020-04-16 15:06:11
 image: 'https://m.media-amazon.com/images/I/310A0WYqIaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1JWSJC-es SELECTED HOMME Slhslim-mylologan Stripe BLZ B Noos...'
 sku: 'B07D1JWSJC-es'
 tags: [ 'chaqueta', ]

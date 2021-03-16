@@ -5,7 +5,7 @@ date: 2020-08-28 11:43:44
 image: 'https://m.media-amazon.com/images/I/31VjBKKo9hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1ZQG12-es Timberland Newport Bay 2 Eye Mocasines para Hombre Blanco...'
 sku: 'B07F1ZQG12-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-04-18 05:46:25
 image: 'https://m.media-amazon.com/images/I/31c1mf3zw3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L471YGK-es Amazon Brand - AURIQUE Leggings deportivos capri con...'
 sku: 'B07L471YGK-es'
 tags: [ 'aurique', ]

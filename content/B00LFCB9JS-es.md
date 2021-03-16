@@ -5,7 +5,7 @@ date: 2020-01-14 13:05:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31X1XhT2xWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LFCB9JS-es Birkenstock Gizeh Eva - Sandalias unisex Verde Khaki 38'
 sku: 'B00LFCB9JS-es'
 tags: [ 'sandalias', ]

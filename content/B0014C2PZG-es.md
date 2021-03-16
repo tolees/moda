@@ -5,7 +5,7 @@ date: 2020-05-08 15:56:13
 image: 'https://m.media-amazon.com/images/I/31k8B48RfyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0014C2PZG-es Crocs Classic Z Zuecos con Correa Trasera Unisex Adulto...'
 sku: 'B0014C2PZG-es'
 tags: [ 'zuecos', ]

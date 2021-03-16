@@ -5,7 +5,7 @@ date: 2020-03-20 15:18:42
 image: 'https://m.media-amazon.com/images/I/41dadTMyMlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTT21W9-es Women s Secret Mickey Vintage Mv DS Every Week PJ...'
 sku: 'B07TTT21W9-es'
 tags: [ 'pijama', ]

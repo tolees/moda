@@ -5,7 +5,7 @@ date: 2020-03-09 14:48:28
 image: 'https://m.media-amazon.com/images/I/31GDMAYS1AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC1XGCV-es JACK & JONES Jjifred Jjtool Cj 097 Vaqueros Relaxed Negro...'
 sku: 'B07VC1XGCV-es'
 tags: [ 'vaqueros', ]

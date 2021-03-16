@@ -5,7 +5,7 @@ date: 2020-01-17 17:11:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LxctjH9jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CDQ3QS-es Geographical Norway Parka NIÑO Boomerang Azul Marino 12'
 sku: 'B081CDQ3QS-es'
 tags: [ 'parka', ]

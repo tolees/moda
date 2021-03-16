@@ -5,7 +5,7 @@ date: 2020-02-04 14:11:36
 image: 'https://m.media-amazon.com/images/I/51pMMoYInvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK3ZXY9-es Columbia Firecamp SLEDDER 3 Zapatos Multideporte...'
 sku: 'B07KK3ZXY9-es'
 tags: [ 'zapatos', ]

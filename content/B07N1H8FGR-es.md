@@ -5,7 +5,7 @@ date: 2020-08-04 16:07:28
 image: 'https://m.media-amazon.com/images/I/41lY9Rhz8wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1H8FGR-es Clarks Sheer Rose Zapatos de Tacón para Mujer Multicolor...'
 sku: 'B07N1H8FGR-es'
 tags: [ 'zapatos', ]

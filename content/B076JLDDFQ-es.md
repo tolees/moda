@@ -5,7 +5,7 @@ date: 2020-08-19 06:25:47
 image: 'https://m.media-amazon.com/images/I/31ryjCmzq0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JLDDFQ-es Crocs LiteRide Slide Sandalias de Punta Descubierta Unisex...'
 sku: 'B076JLDDFQ-es'
 tags: [ 'sandalias', ]

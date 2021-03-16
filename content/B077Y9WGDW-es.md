@@ -5,7 +5,7 @@ date: 2020-05-31 20:30:54
 image: 'https://m.media-amazon.com/images/I/41hyAOTq5CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y9WGDW-es HIKARO Sudadera con Capucha Hombre Verde Khaki 52 Talla...'
 sku: 'B077Y9WGDW-es'
 tags: [ 'sudadera', ]

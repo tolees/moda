@@ -5,7 +5,7 @@ date: 2020-07-22 16:42:48
 image: 'https://m.media-amazon.com/images/I/31IiYNbvR0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV6YYN7-es Levi s 511 Slim Vaqueros Baltic Navy Sueded Sateen WT B...'
 sku: 'B07TV6YYN7-es'
 tags: [ 'vaqueros', ]

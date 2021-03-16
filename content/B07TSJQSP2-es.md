@@ -5,7 +5,7 @@ date: 2020-04-29 16:33:23
 image: 'https://m.media-amazon.com/images/I/41-UzMU1pPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSJQSP2-es Only Onlorlando Quilted Jacket CC Otw Chaqueta Negro Black...'
 sku: 'B07TSJQSP2-es'
 tags: [ 'chaqueta', ]

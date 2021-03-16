@@ -5,7 +5,7 @@ date: 2020-08-23 07:34:02
 image: 'https://m.media-amazon.com/images/I/31rcQ1vQxEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG14S7N-es Geox Women s D New Annya Mid A Closed Toe Heels Black...'
 sku: 'B07LG14S7N-es'
 tags: [ 'geox', ]

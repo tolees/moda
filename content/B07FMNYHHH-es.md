@@ -5,7 +5,7 @@ date: 2020-10-05 18:34:46
 image: 'https://m.media-amazon.com/images/I/31AvXlQlYsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMNYHHH-es find. Fur Lined Hiker Zapatos de Low Rise Senderismo Negro...'
 sku: 'B07FMNYHHH-es'
 tags: [ 'zapatos', ]

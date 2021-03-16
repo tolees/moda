@@ -5,7 +5,7 @@ date: 2020-01-14 18:20:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31v5mUbyaSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DS80KDS-es MY EVENING DRESS Marlene Vestido para Mujer Red - Burgundy 38'
 sku: 'B00DS80KDS-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-09-07 17:18:40
 image: 'https://m.media-amazon.com/images/I/41tvkZzfsjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4J7ZJ7-es Superdry Rookie Down Parka Chaqueta Verde Khaki 03o XL...'
 sku: 'B07P4J7ZJ7-es'
 tags: [ 'chaqueta','parka', ]

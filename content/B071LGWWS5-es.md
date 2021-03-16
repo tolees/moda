@@ -5,7 +5,7 @@ date: 2020-04-11 09:05:20
 image: 'https://m.media-amazon.com/images/I/3111W8rvl5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LGWWS5-es Under Armour UA Athlete SS Camiseta de Manga Corta Hombre...'
 sku: 'B071LGWWS5-es'
 tags: [ 'camiseta', ]

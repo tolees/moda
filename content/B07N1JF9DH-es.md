@@ -5,7 +5,7 @@ date: 2020-02-01 10:01:49
 image: 'https://m.media-amazon.com/images/I/31TDOgj49xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JF9DH-es Clarks Un Cosmo Way Zapatos de Tacón para Mujer Negro...'
 sku: 'B07N1JF9DH-es'
 tags: [ 'zapatos', ]

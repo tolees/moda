@@ -5,7 +5,7 @@ date: 2020-05-22 16:04:45
 image: 'https://m.media-amazon.com/images/I/51bIVnl+QQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZRYH4G-es Zapatos de bebé Sandalias Unisex Niños 0-6 Meses - 3-4...'
 sku: 'B07TZRYH4G-es'
 tags: [ 'sandalias','zapatos', ]

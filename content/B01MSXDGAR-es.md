@@ -5,7 +5,7 @@ date: 2020-05-05 12:41:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uToSlRW1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSXDGAR-es find. Vestido con Escote Entrelazado para Mujer Rosa Old...'
 sku: 'B01MSXDGAR-es'
 tags: [ 'vestido', ]

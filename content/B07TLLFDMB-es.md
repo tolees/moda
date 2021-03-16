@@ -5,7 +5,7 @@ date: 2020-10-12 21:26:39
 image: 'https://m.media-amazon.com/images/I/41rOpPC4CZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLLFDMB-es Superdry OL Vintage Emb Crew Camiseta Azul Blue Grindle...'
 sku: 'B07TLLFDMB-es'
 tags: [ 'camiseta', ]

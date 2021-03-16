@@ -5,7 +5,7 @@ date: 2020-04-11 07:38:46
 image: 'https://m.media-amazon.com/images/I/411JjIwHLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC9WXN1-es JACK & JONES Jorhardy Light Puffer Chaqueta Rojo Scarlet...'
 sku: 'B07VC9WXN1-es'
 tags: [ 'chaqueta', ]

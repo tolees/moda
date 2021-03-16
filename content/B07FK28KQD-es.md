@@ -5,7 +5,7 @@ date: 2020-05-05 16:56:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410J09R5JYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FK28KQD-es Lee Sherpa Jacket Chaqueta Vaquera Azul Vintage Worn Large...'
 sku: 'B07FK28KQD-es'
 tags: [ 'chaqueta', ]

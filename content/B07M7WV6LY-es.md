@@ -5,7 +5,7 @@ date: 2020-04-21 16:05:49
 image: 'https://m.media-amazon.com/images/I/41Ff5ipeckL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7WV6LY-es Wildfire Vine Hombre Transpirables Aire Libre y Deporte...'
 sku: 'B07M7WV6LY-es'
 tags: [ 'moda','zapatos', ]

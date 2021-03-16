@@ -5,7 +5,7 @@ date: 2020-06-20 15:01:40
 image: 'https://m.media-amazon.com/images/I/41AMOWzdXKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NXS7B-es PUMA Epic Flip V2 Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07S6NXS7B-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-10-02 07:16:18
 image: 'https://m.media-amazon.com/images/I/41cvTvXBaWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC8KMT5-es Columbia Lodge Chaqueta Sudadera para Hombre Negro XL'
 sku: 'B07RC8KMT5-es'
 tags: [ 'chaqueta','sudadera', ]

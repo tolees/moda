@@ -5,7 +5,7 @@ date: 2020-05-30 09:03:23
 image: 'https://m.media-amazon.com/images/I/41N+Ky-4o+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBHH6KG-es JOINFREE Zapatos de Agua para niños Calzado de Secado...'
 sku: 'B07PBHH6KG-es'
 tags: [ 'botines','zapatos', ]

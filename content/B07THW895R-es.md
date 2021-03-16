@@ -5,7 +5,7 @@ date: 2020-09-01 05:48:45
 image: 'https://m.media-amazon.com/images/I/31YY-mjz1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THW895R-es Lacoste TF5441 Camiseta Blanco Blanc 34 para Mujer'
 sku: 'B07THW895R-es'
 tags: [ 'camiseta', ]

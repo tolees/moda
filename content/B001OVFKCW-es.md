@@ -5,7 +5,7 @@ date: 2020-07-10 00:51:26
 image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001OVFKCW-es adidas Originals Adilette Chanclas para Hombre Azul...'
 sku: 'B001OVFKCW-es'
 tags: [ 'chanclas', ]

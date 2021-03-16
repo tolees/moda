@@ -5,7 +5,7 @@ date: 2020-01-13 08:15:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Rf9vSl2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZKX1SY-es Helly Hansen HH5014-C01-56 Gafas de Sol Hombre Negro 56'
 sku: 'B079ZKX1SY-es'
 tags: [ 'gafas', ]

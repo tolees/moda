@@ -5,7 +5,7 @@ date: 2020-01-16 11:25:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FY2EuQvCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYWQG51-es Columbia Midweight Stretch Half Zip Camiseta técnica con...'
 sku: 'B07DYWQG51-es'
 tags: [ 'camiseta', ]

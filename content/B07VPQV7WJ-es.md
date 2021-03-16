@@ -5,7 +5,7 @@ date: 2020-08-04 13:26:27
 image: 'https://m.media-amazon.com/images/I/413zhVGgsTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPQV7WJ-es Calvin Klein 3pk Braguita de Bikini Negro...'
 sku: 'B07VPQV7WJ-es'
 tags: [ 'bikini', ]

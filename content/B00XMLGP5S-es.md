@@ -5,7 +5,7 @@ date: 2020-07-24 09:26:55
 image: 'https://m.media-amazon.com/images/I/41hSnDy1AXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XMLGP5S-es Pepe Jeans Soho Vaqueros Denim Oz Classic Stretch Z632 25W...'
 sku: 'B00XMLGP5S-es'
 tags: [ 'vaqueros', ]

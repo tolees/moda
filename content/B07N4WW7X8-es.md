@@ -5,7 +5,7 @@ date: 2020-01-17 13:43:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JJbibLlWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4WW7X8-es Tommy Jeans Tjw Tommy Fairisle Sweater Sudadera Blanco...'
 sku: 'B07N4WW7X8-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-02-02 15:40:02
 image: 'https://m.media-amazon.com/images/I/41oeCR8IPLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMCGHDG-es Skechers Heston-Rogic Zapatos de Cordones Oxford para...'
 sku: 'B07HMCGHDG-es'
 tags: [ 'zapatos', ]

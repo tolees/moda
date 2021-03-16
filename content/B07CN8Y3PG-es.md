@@ -5,7 +5,7 @@ date: 2020-01-11 09:16:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313-BHNPJ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN8Y3PG-es Crocs Classic Clog Zuecos Unisex Adulto Morado Neon Purple...'
 sku: 'B07CN8Y3PG-es'
 tags: [ 'zuecos', ]

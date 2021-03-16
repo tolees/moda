@@ -5,7 +5,7 @@ date: 2020-06-09 08:44:37
 image: 'https://m.media-amazon.com/images/I/31QoPztlEuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGJ5GD2-es Pepe Jeans Duff Chest Logo T Camiseta Blanco Optic White...'
 sku: 'B07JGJ5GD2-es'
 tags: [ 'camiseta', ]

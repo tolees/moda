@@ -5,7 +5,7 @@ date: 2020-07-01 11:02:13
 image: 'https://m.media-amazon.com/images/I/41UcMBNd2YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC8DK3D-es loonBonnie Bolso de Hombro de la Lona de la Moda Bolso de...'
 sku: 'B07JC8DK3D-es'
 tags: [ 'bolso','moda', ]

@@ -5,7 +5,7 @@ date: 2020-06-09 07:18:10
 image: 'https://m.media-amazon.com/images/I/31386Wab4xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZV2KRMW-es Helly Hansen HH Tech Crew Camiseta Técnica Hombre Navy 2XL'
 sku: 'B07ZV2KRMW-es'
 tags: [ 'camiseta', ]

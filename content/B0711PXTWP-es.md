@@ -5,7 +5,7 @@ date: 2020-08-16 00:12:04
 image: 'https://m.media-amazon.com/images/I/51avUwSM8EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711PXTWP-es EULAGPRE Zapatillas de Lino Zapatos de Piso Zapatillas de...'
 sku: 'B0711PXTWP-es'
 tags: [ 'sandalias','zapatos', ]

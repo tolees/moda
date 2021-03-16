@@ -5,7 +5,7 @@ date: 2020-02-25 15:50:04
 image: 'https://m.media-amazon.com/images/I/41nfON9vlmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8YKXXL-es Geox M Hilstone D Abrigo Azul Blue Nights F4386 Medium...'
 sku: 'B07M8YKXXL-es'
 tags: [ 'abrigo','geox', ]

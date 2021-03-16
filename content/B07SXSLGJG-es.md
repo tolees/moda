@@ -5,7 +5,7 @@ date: 2020-09-30 07:46:19
 image: 'https://m.media-amazon.com/images/I/31J5FboJrdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXSLGJG-es Geox U IACOPO A Zapatos de Cordones Oxford para Hombre...'
 sku: 'B07SXSLGJG-es'
 tags: [ 'geox','zapatos', ]

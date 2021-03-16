@@ -5,7 +5,7 @@ date: 2020-01-05 15:25:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-zp8w1JiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797NJXJ5-es Spalding Team II Sudadera con Capucha Hombre Azul Royal M'
 sku: 'B0797NJXJ5-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-04-20 19:37:39
 image: 'https://m.media-amazon.com/images/I/41jLcVaC+nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSQC8S3-es Columbia Powder Pass Chaleco Hombre Negro Black Talla-S'
 sku: 'B07KSQC8S3-es'
 tags: [ 'chaleco', ]

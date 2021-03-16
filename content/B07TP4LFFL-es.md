@@ -5,7 +5,7 @@ date: 2020-10-07 06:27:44
 image: 'https://m.media-amazon.com/images/I/41re5ryhjJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TP4LFFL-es Superdry Namid Pockets Bomber Chaqueta Marrón Bungee Cord...'
 sku: 'B07TP4LFFL-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-09-13 18:54:33
 image: 'https://m.media-amazon.com/images/I/31yBalKAQ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRJ3JVL-es REPLAY M3590 .000.2660 Camiseta Azul Midnight Blue. 576...'
 sku: 'B07SRJ3JVL-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-04 14:44:30
 image: 'https://m.media-amazon.com/images/I/41XVA5blIiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6ZMQ2Z-es Herrlicher Touch Cropped Vaqueros Bliss 634 25W para Mujer'
 sku: 'B07K6ZMQ2Z-es'
 tags: [ 'vaqueros', ]

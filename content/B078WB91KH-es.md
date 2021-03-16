@@ -5,7 +5,7 @@ date: 2020-04-23 11:20:18
 image: 'https://m.media-amazon.com/images/I/4105qLYve+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WB91KH-es Stonefly Berry II 1 Calf Zapatos de Cordones Brogue para...'
 sku: 'B078WB91KH-es'
 tags: [ 'zapatos', ]

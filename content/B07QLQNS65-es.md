@@ -5,7 +5,7 @@ date: 2020-10-03 15:19:10
 image: 'https://m.media-amazon.com/images/I/51RT+PeKXlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLQNS65-es DoGeek Zapato Seguridad Zapatos Trabajo con Punta de Acero...'
 sku: 'B07QLQNS65-es'
 tags: [ 'zapatos', ]

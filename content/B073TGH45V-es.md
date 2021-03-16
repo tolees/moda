@@ -5,7 +5,7 @@ date: 2020-06-02 15:45:43
 image: 'https://m.media-amazon.com/images/I/41sqpswu1BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073TGH45V-es Joymoze Moderna Mochila de Ocio para Niñas Mochila Escolar...'
 sku: 'B073TGH45V-es'
 tags: [ 'bolso', ]

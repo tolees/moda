@@ -5,7 +5,7 @@ date: 2020-05-23 19:36:43
 image: 'https://m.media-amazon.com/images/I/41+Un745sAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3VXB6Y-es Desigual Dress Marian Vestido Multicolor Crudo 1001 40...'
 sku: 'B07N3VXB6Y-es'
 tags: [ 'vestido', ]

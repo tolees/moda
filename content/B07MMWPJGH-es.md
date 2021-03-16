@@ -5,7 +5,7 @@ date: 2020-02-20 19:55:19
 image: 'https://m.media-amazon.com/images/I/41qfbL0YEWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWPJGH-es Wrangler LS 1pkt Shirt Camisa Rojo Crimson Red X51 Medium...'
 sku: 'B07MMWPJGH-es'
 tags: [ 'camisa', ]

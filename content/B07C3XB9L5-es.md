@@ -5,7 +5,7 @@ date: 2020-05-10 21:10:47
 image: 'https://m.media-amazon.com/images/I/41YRjjn86dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C3XB9L5-es newfacelook De las Mujeres Señoras Motocicleta Impermeable...'
 sku: 'B07C3XB9L5-es'
 tags: [ 'chaqueta', ]

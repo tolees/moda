@@ -5,7 +5,7 @@ date: 2020-06-30 13:20:46
 image: 'https://m.media-amazon.com/images/I/31oQNxKABgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV7NXYM-es Levi s 725 High Rise Bootcut Vaqueros Corte de Bota Azul...'
 sku: 'B07TV7NXYM-es'
 tags: [ 'vaqueros', ]

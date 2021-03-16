@@ -5,7 +5,7 @@ date: 2020-04-13 19:02:37
 image: 'https://m.media-amazon.com/images/I/411IuPXa8xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFY8B5D-es Jacqueline de Yong NOS Jdycrea Treats L/s Noos Cardigan...'
 sku: 'B07SFY8B5D-es'
 tags: [ 'chaqueta', ]

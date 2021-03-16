@@ -5,7 +5,7 @@ date: 2020-04-13 12:01:32
 image: 'https://m.media-amazon.com/images/I/31MlMDKYhYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S96TQY2-es Disney HS2220 Conjuntos de Pijama Rosa Pink Pink 8 años...'
 sku: 'B07S96TQY2-es'
 tags: [ 'pijama', ]

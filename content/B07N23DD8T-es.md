@@ -5,7 +5,7 @@ date: 2020-03-16 10:55:33
 image: 'https://m.media-amazon.com/images/I/316Tm+KhsDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N23DD8T-es Quiksilver Rivi Slide-Slider Sandals for Men Sandalias con...'
 sku: 'B07N23DD8T-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-06-15 15:26:43
 image: 'https://m.media-amazon.com/images/I/516kJBF7EQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYQ7JHD-es LIGE Relojes Hombre Moda Impermeable Deportivo Cuarzo...'
 sku: 'B07TYQ7JHD-es'
 tags: [ 'moda', ]

@@ -5,7 +5,7 @@ date: 2020-05-28 11:31:39
 image: 'https://m.media-amazon.com/images/I/31IZFssfrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQ55KDQ-es Marca Amazon - MERAKI Joggers Ajustados Hombre Gris...'
 sku: 'B07NQ55KDQ-es'
 tags: [ 'meraki', ]

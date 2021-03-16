@@ -5,7 +5,7 @@ date: 2020-06-13 16:23:30
 image: 'https://m.media-amazon.com/images/I/31HXiFlN0oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8PHV61-es Marca Amazon - IRIS & LILLY Picardías Mujer Gris Grey Grey...'
 sku: 'B07B8PHV61-es'
 tags: [ '&','iris','lilly', ]

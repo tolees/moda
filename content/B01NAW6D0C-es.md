@@ -5,7 +5,7 @@ date: 2020-04-15 11:16:28
 image: 'https://m.media-amazon.com/images/I/51ZMk-SlACL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAW6D0C-es The North Face Sudadera Drew Peak Hombre TNF Medium Grey...'
 sku: 'B01NAW6D0C-es'
 tags: [ 'sudadera', ]

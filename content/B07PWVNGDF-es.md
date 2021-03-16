@@ -5,7 +5,7 @@ date: 2020-03-03 16:26:42
 image: 'https://m.media-amazon.com/images/I/41+lNXNmPnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWVNGDF-es SUPRBIRD Guantes Ciclismo MTB Dedo Medio Guantes Hombre y...'
 sku: 'B07PWVNGDF-es'
 tags: [ 'guantes', ]

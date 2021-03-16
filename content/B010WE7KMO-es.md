@@ -5,7 +5,7 @@ date: 2020-01-11 18:42:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3169HHzs3yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010WE7KMO-es Crocs Classic Clog Zuecos Unisex Adulto Amarillo Lemon 7C1...'
 sku: 'B010WE7KMO-es'
 tags: [ 'zuecos', ]

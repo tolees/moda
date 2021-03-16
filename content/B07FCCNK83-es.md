@@ -5,7 +5,7 @@ date: 2020-05-26 19:46:04
 image: 'https://m.media-amazon.com/images/I/41w2R8wGcCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCCNK83-es Pañal Bolso Mochila Gran Capacidad Mochila de Pañales...'
 sku: 'B07FCCNK83-es'
 tags: [ 'bolso', ]

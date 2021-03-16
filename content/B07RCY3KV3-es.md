@@ -5,7 +5,7 @@ date: 2020-01-03 15:14:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21AihMY00qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCY3KV3-es TAIPAN Pulseras Mujer 925 Plata Original - Este Pulsera de...'
 sku: 'B07RCY3KV3-es'
 tags: [ 'moda', ]

@@ -5,7 +5,7 @@ date: 2020-01-16 12:47:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fBuotizRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYZNGC5-es Levi s Mile High Super Skinny Vaqueros Black Galaxy 24W /...'
 sku: 'B07CYZNGC5-es'
 tags: [ 'vaqueros', ]

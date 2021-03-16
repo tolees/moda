@@ -5,7 +5,7 @@ date: 2020-01-30 16:39:40
 image: 'https://m.media-amazon.com/images/I/410zPZxr-AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKC39X9-es edc by Esprit 069cc2k006 Camiseta Azul Navy 400 Large para...'
 sku: 'B07QKC39X9-es'
 tags: [ 'camiseta', ]

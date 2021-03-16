@@ -5,7 +5,7 @@ date: 2020-04-01 07:29:08
 image: 'https://m.media-amazon.com/images/I/41RGJDOtIBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X7JGBRX-es edc by Esprit 099CC1G030 Abrigo Gris Anthracite 010 XL...'
 sku: 'B07X7JGBRX-es'
 tags: [ 'abrigo', ]

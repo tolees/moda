@@ -5,7 +5,7 @@ date: 2020-09-02 15:46:13
 image: 'https://m.media-amazon.com/images/I/31n1-RWucnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBL7RXV-es SISMIURRA Colgante de Hoja chapada en Oro Blanco Collar de...'
 sku: 'B07RBL7RXV-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-05-29 14:14:20
 image: 'https://m.media-amazon.com/images/I/41d4pr1GHXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M03GUBP-es Furla - Stacy S Drawstring Bolso Mujer Negro Onyx 13x22x26...'
 sku: 'B01M03GUBP-es'
 tags: [ 'bolso', ]

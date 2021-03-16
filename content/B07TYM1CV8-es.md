@@ -5,7 +5,7 @@ date: 2020-03-21 12:06:24
 image: 'https://m.media-amazon.com/images/I/51jCwvePoVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYM1CV8-es Harry Potter Vestido para niñas Hogwarts Gris 9-10 Años'
 sku: 'B07TYM1CV8-es'
 tags: [ 'vestido', ]

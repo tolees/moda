@@ -5,7 +5,7 @@ date: 2020-05-23 05:32:30
 image: 'https://m.media-amazon.com/images/I/41LZOdjgUbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZQQHSX-es Tommy Hilfiger 3p Bikini Braguita Azul Navy Blazer/Navy...'
 sku: 'B079ZQQHSX-es'
 tags: [ 'bikini', ]

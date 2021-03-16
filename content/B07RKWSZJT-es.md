@@ -5,7 +5,7 @@ date: 2020-08-15 20:43:52
 image: 'https://m.media-amazon.com/images/I/41A9nUQKMFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKWSZJT-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva Azul Blue...'
 sku: 'B07RKWSZJT-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-05-06 11:23:32
 image: 'https://m.media-amazon.com/images/I/310ZBiQMhFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K4MNC4O-es Maxmer 3 Gancho de Pared Percha Perchero Colgador de Pared...'
 sku: 'B01K4MNC4O-es'
 tags: [ 'abrigo', ]

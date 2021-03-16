@@ -5,7 +5,7 @@ date: 2020-07-16 09:28:24
 image: 'https://m.media-amazon.com/images/I/31hmNGFYWuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY1ZQJV-es Lee Rider Vaqueros Slim Azul Light Sitka Jx W33/L30 Talla...'
 sku: 'B07TY1ZQJV-es'
 tags: [ 'vaqueros', ]

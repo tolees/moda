@@ -5,7 +5,7 @@ date: 2020-07-20 13:31:51
 image: 'https://m.media-amazon.com/images/I/41RWBD9VCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4X8G9C-es Levi s The Perfect Tee Camiseta Mujer Amarillo Brw T2...'
 sku: 'B07S4X8G9C-es'
 tags: [ 'camiseta', ]

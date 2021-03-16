@@ -5,7 +5,7 @@ date: 2020-01-11 18:45:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417fhxvpQRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMZFS1-es G-STAR RAW Graphic 22 Boyfriend Slit Round Neck Sudadera...'
 sku: 'B07NDMZFS1-es'
 tags: [ 'sudadera', ]

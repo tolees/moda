@@ -5,7 +5,7 @@ date: 2020-06-24 17:01:07
 image: 'https://m.media-amazon.com/images/I/41FF4UXFsgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004L39WDS-es Timberland Rugged 6 Inch Plain Toe Waterproof Botas para...'
 sku: 'B004L39WDS-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-04-06 10:08:04
 image: 'https://m.media-amazon.com/images/I/41Y0gGVJUPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHHQMV6-es Tamaris 1-1-22418-23 Zapatos de Tacón para Mujer Plateado...'
 sku: 'B07NHHQMV6-es'
 tags: [ 'zapatos', ]

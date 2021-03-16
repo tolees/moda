@@ -5,7 +5,7 @@ date: 2020-01-20 09:19:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DaWjHdigL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076Q8G9SG-es G-STAR RAW 3301 Straight Vaqueros Blu Medium Aged 6090-071...'
 sku: 'B076Q8G9SG-es'
 tags: [ 'vaqueros', ]

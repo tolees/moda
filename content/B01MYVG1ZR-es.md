@@ -5,7 +5,7 @@ date: 2020-05-02 11:07:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kkHaV4kPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYVG1ZR-es adidas ESS LIN P/O FT Sudadera con capucha Hombre Gris L'
 sku: 'B01MYVG1ZR-es'
 tags: [ 'sudadera', ]

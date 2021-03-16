@@ -5,7 +5,7 @@ date: 2020-01-05 09:14:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zPKUNEnXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFN6QND-es Levi s LS Baby tee Camiseta Gris Smokestack Heather 0004...'
 sku: 'B07LFN6QND-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-10-06 05:53:50
 image: 'https://m.media-amazon.com/images/I/31opDV9njoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFX3LM1-es Puma Amplified tee Camiseta de Manga Corta Hombre Blanco...'
 sku: 'B07XFX3LM1-es'
 tags: [ 'camiseta', ]

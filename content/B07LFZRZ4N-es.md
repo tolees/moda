@@ -5,7 +5,7 @@ date: 2020-01-30 10:13:40
 image: 'https://m.media-amazon.com/images/I/31zlHQ3Qk0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZRZ4N-es Geox U Garret A Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFZRZ4N-es'
 tags: [ 'geox','zapatos', ]

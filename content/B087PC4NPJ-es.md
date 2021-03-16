@@ -5,7 +5,7 @@ date: 2020-05-18 09:46:24
 image: 'https://m.media-amazon.com/images/I/5130CJgD3wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PC4NPJ-es Suhctup Funda Compatible con Xiaomi Redmi 6A Billetera...'
 sku: 'B087PC4NPJ-es'
 tags: [ 'billetera', ]

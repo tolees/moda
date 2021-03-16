@@ -5,7 +5,7 @@ date: 2020-07-03 16:18:01
 image: 'https://m.media-amazon.com/images/I/31zyJpokAFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005RB0Z3O-es Ray-Ban Mod. 4147 Gafas de sol Light Havana 55 para Hombre'
 sku: 'B005RB0Z3O-es'
 tags: [ 'gafas', ]

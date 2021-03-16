@@ -5,7 +5,7 @@ date: 2020-06-28 11:02:04
 image: 'https://m.media-amazon.com/images/I/313OWJbEeQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N68E9KV-es IEFIEL Chaqueta de Fiesta Boda para Niña Bolero Pompón de...'
 sku: 'B01N68E9KV-es'
 tags: [ 'abrigo','chaqueta', ]

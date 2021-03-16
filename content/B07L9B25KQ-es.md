@@ -5,7 +5,7 @@ date: 2020-01-10 08:52:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VJ24xpgkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9B25KQ-es Under Armour Heatgear Armour Pantalón Corto Mujer Negro...'
 sku: 'B07L9B25KQ-es'
 tags: [ 'pantalón', ]

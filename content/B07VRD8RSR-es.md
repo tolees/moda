@@ -5,7 +5,7 @@ date: 2020-09-01 18:41:02
 image: 'https://m.media-amazon.com/images/I/41+uY2YvptL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRD8RSR-es Levi s Levis Men Vintage Stripe YD Boxer 2P Gris Middle...'
 sku: 'B07VRD8RSR-es'
 tags: [ 'boxer', ]

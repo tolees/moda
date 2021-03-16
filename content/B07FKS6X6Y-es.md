@@ -5,7 +5,7 @@ date: 2020-03-09 09:29:17
 image: 'https://m.media-amazon.com/images/I/31RioJIzW8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKS6X6Y-es Trangoworld Mendilaz Chaqueta Hombre Gris S'
 sku: 'B07FKS6X6Y-es'
 tags: [ 'chaqueta', ]

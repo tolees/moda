@@ -5,7 +5,7 @@ date: 2020-01-18 13:31:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61JfFrJS%2BkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB2Z6RK-es Guantes Anticorte para Niños Herefun Guantes Resistentes a...'
 sku: 'B07HB2Z6RK-es'
 tags: [ 'guantes', ]

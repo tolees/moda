@@ -5,7 +5,7 @@ date: 2020-03-09 09:42:55
 image: 'https://m.media-amazon.com/images/I/51YRIa+wizL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSDNJTG-es Bolso de Hombro pequeña de Mujer Bolso de Bandolera de...'
 sku: 'B07FSDNJTG-es'
 tags: [ 'bolso','moda', ]

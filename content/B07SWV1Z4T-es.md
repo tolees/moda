@@ -5,7 +5,7 @@ date: 2020-06-28 16:57:48
 image: 'https://m.media-amazon.com/images/I/41KO1LTMBcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWV1Z4T-es Geox D Jaysen A Zapatillas para Mujer Azul Blue C4000 39 EU'
 sku: 'B07SWV1Z4T-es'
 tags: [ 'geox', ]

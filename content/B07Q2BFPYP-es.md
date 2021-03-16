@@ -5,7 +5,7 @@ date: 2020-09-07 22:51:24
 image: 'https://m.media-amazon.com/images/I/51+BhsffxiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2BFPYP-es Vicloon Barras Luminosas Pulseras Luminosas con Variedad...'
 sku: 'B07Q2BFPYP-es'
 tags: [ 'gafas', ]

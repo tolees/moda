@@ -5,7 +5,7 @@ date: 2020-10-11 02:03:58
 image: 'https://m.media-amazon.com/images/I/41GXVcPRQLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MSX7E6-es Birkenstock Arizona Zapatos con Hebilla Unisex Adulto...'
 sku: 'B000MSX7E6-es'
 tags: [ 'zapatos', ]

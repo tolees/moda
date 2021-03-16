@@ -5,7 +5,7 @@ date: 2020-05-15 14:58:08
 image: 'https://m.media-amazon.com/images/I/31zijNsa2GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F5N6W-es Wrangler Skinny Jeans Vaqueros Azul Soft Drive 20g 32W /...'
 sku: 'B07M5F5N6W-es'
 tags: [ 'vaqueros', ]

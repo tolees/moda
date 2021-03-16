@@ -5,7 +5,7 @@ date: 2020-05-02 19:33:09
 image: 'https://m.media-amazon.com/images/I/41sm-4YcKgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0735CJH5F-es Napapijri Rainforest Pocket Chaqueta para Hombre Gris Dark...'
 sku: 'B0735CJH5F-es'
 tags: [ 'chaqueta', ]

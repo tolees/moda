@@ -5,7 +5,7 @@ date: 2020-02-12 10:24:35
 image: 'https://m.media-amazon.com/images/I/21skERXQnbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005I0DSIS-es Carissima Gold Collar con colgante de mujer con oro...'
 sku: 'B005I0DSIS-es'
 tags: [ 'collar', ]

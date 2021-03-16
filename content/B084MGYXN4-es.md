@@ -5,7 +5,7 @@ date: 2020-06-26 16:15:25
 image: 'https://m.media-amazon.com/images/I/41YET8uj4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084MGYXN4-es CHIKA10 Saturday Sandalias de Tacon Mujer Negro Black 37 EU'
 sku: 'B084MGYXN4-es'
 tags: [ 'sandalias', ]

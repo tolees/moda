@@ -5,7 +5,7 @@ date: 2020-08-26 20:51:50
 image: 'https://m.media-amazon.com/images/I/31YabJ7YvoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXWLGDJ-es Kipling Izellah Bolso con Bandolera para Mujer Blanco...'
 sku: 'B07TXWLGDJ-es'
 tags: [ 'bolso', ]

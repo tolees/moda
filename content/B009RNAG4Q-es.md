@@ -5,7 +5,7 @@ date: 2020-09-21 11:07:37
 image: 'https://m.media-amazon.com/images/I/51VWXYPeB2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009RNAG4Q-es Accessoryo - Guantes - guantes - Animal Print - para mujer...'
 sku: 'B009RNAG4Q-es'
 tags: [ 'guantes', ]

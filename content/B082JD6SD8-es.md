@@ -5,7 +5,7 @@ date: 2020-08-10 13:06:44
 image: 'https://m.media-amazon.com/images/I/41RhkU230hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082JD6SD8-es Jack & Jones Jcobernda Sweat Crew Neck Ka Sudadera Capitán...'
 sku: 'B082JD6SD8-es'
 tags: [ 'sudadera', ]

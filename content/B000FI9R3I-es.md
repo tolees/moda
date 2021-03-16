@@ -5,7 +5,7 @@ date: 2020-02-13 13:03:20
 image: 'https://m.media-amazon.com/images/I/31TH5ZXKPAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000FI9R3I-es Pierre Cardin P.C. 8443/S IR 807 Gafas de Sol Mujer Negro...'
 sku: 'B000FI9R3I-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-05-08 18:53:59
 image: 'https://m.media-amazon.com/images/I/31RnVgKVS4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHSG592-es Levi s SS Original Hm tee Camiseta Negro Cotton + Patch...'
 sku: 'B07CHSG592-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-24 19:22:20
 image: 'https://m.media-amazon.com/images/I/31sTo5j9a1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776X8FJX-es Tommy Hilfiger Original Stretch Camisa Blanco Classic...'
 sku: 'B0776X8FJX-es'
 tags: [ 'camisa', ]

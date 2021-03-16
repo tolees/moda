@@ -5,7 +5,7 @@ date: 2020-05-31 17:17:06
 image: 'https://m.media-amazon.com/images/I/31m1vlJRWKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1RP14P-es adidas Estro 19 JSY Camiseta de Manga Corta Niños Black L'
 sku: 'B07K1RP14P-es'
 tags: [ 'camiseta', ]

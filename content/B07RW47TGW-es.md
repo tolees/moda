@@ -5,7 +5,7 @@ date: 2020-05-30 15:02:55
 image: 'https://m.media-amazon.com/images/I/412ULQPICYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RW47TGW-es Zapatillas Hombres De Deporte Talla 39-48 Sin Cordones De...'
 sku: 'B07RW47TGW-es'
 tags: [ 'zapatos', ]

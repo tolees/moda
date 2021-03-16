@@ -5,7 +5,7 @@ date: 2020-04-18 14:49:15
 image: 'https://m.media-amazon.com/images/I/41TFEp4fjnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781VSS5B-es PUMA Liga Training Shorts W Pantalón Mujer Negro...'
 sku: 'B0781VSS5B-es'
 tags: [ 'pantalón', ]

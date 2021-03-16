@@ -5,7 +5,7 @@ date: 2020-04-01 07:01:41
 image: 'https://m.media-amazon.com/images/I/416oy-K+GnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NQUPZ24-es LTB Jeans 5346 - Vaqueros para mujer Azul Blue Lapis Wash...'
 sku: 'B00NQUPZ24-es'
 tags: [ 'vaqueros', ]

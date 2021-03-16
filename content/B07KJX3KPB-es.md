@@ -5,7 +5,7 @@ date: 2020-03-15 00:14:52
 image: 'https://m.media-amazon.com/images/I/41u6eDws6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJX3KPB-es Columbia Five Forks Zapatos de Senderismo Impermeables...'
 sku: 'B07KJX3KPB-es'
 tags: [ 'zapatos', ]

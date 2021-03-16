@@ -5,7 +5,7 @@ date: 2020-05-22 19:04:56
 image: 'https://m.media-amazon.com/images/I/41wYicm+ufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VH73X6V-es edc by Esprit 099cc1b033 Vaqueros Skinny Azul Blue Dark...'
 sku: 'B07VH73X6V-es'
 tags: [ 'vaqueros', ]

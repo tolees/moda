@@ -5,7 +5,7 @@ date: 2020-09-28 17:57:33
 image: 'https://m.media-amazon.com/images/I/31wV-f1aRuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZ8NYZR-es Marca Amazon - MERAKI Blazer Hombre Azul Navy 48 Label: 38'
 sku: 'B07GZ8NYZR-es'
 tags: [ 'meraki', ]

@@ -5,7 +5,7 @@ date: 2020-05-23 12:06:28
 image: 'https://m.media-amazon.com/images/I/41z5ESZg0wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ54FSV-es Amazon Essentials - Camisa a cuadros de lino con manga...'
 sku: 'B07JJ54FSV-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-01-24 13:06:46
 image: 'https://m.media-amazon.com/images/I/41c6lssfGML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVPM825-es GHYUGR Abrigos con Horn Botones Mujer Invierno Elegantes...'
 sku: 'B07GVPM825-es'
 tags: [ 'chaqueta','parka','sudadera', ]

@@ -5,7 +5,7 @@ date: 2021-03-16 15:00:18
 image: 'https://m.media-amazon.com/images/I/31SZOw9zfsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825NXFB5-es GEOX U SNAKE.2 B BLACK Men s Trainers Low-Top Trainers...'
 sku: 'B0825NXFB5-es'
 tags: [ 'geox', ]

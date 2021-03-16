@@ -5,7 +5,7 @@ date: 2020-07-25 08:28:16
 image: 'https://m.media-amazon.com/images/I/41RZOY8SGfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X54BXF-es Geox U Leitan B Mocasines para Hombre Azul Navy 41 EU'
 sku: 'B076X54BXF-es'
 tags: [ 'geox', ]

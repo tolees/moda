@@ -5,7 +5,7 @@ date: 2020-05-12 12:46:28
 image: 'https://m.media-amazon.com/images/I/51FZ7J0GiCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087P9XCZP-es Suhctup Funda Compatible con Galaxy J6 Plus/J6 Prime...'
 sku: 'B087P9XCZP-es'
 tags: [ 'billetera', ]

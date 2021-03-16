@@ -5,7 +5,7 @@ date: 2020-02-10 11:48:45
 image: 'https://m.media-amazon.com/images/I/31ghttdBA3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XW7JHGJ-es CGID E47 Pequeño Estilo Vintage Retro Lennon inspirado...'
 sku: 'B06XW7JHGJ-es'
 tags: [ 'gafas', ]

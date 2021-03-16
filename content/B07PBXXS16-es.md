@@ -5,7 +5,7 @@ date: 2020-02-15 13:31:27
 image: 'https://m.media-amazon.com/images/I/41UK6UdT5eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBXXS16-es Superdry La Athletic Ziphood Sudadera Verde Spruce Lej...'
 sku: 'B07PBXXS16-es'
 tags: [ 'sudadera', ]

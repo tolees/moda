@@ -5,7 +5,7 @@ date: 2020-05-08 09:31:11
 image: 'https://m.media-amazon.com/images/I/41IyTLz6WBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751KQ7VJ-es Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta Vaquera...'
 sku: 'B0751KQ7VJ-es'
 tags: [ 'chaqueta','moda', ]

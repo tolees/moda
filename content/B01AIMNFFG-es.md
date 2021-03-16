@@ -5,7 +5,7 @@ date: 2020-07-14 10:16:20
 image: 'https://m.media-amazon.com/images/I/51veVCROVDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AIMNFFG-es Relaxdays – Zapatero Compuesto de estructuras de Acero...'
 sku: 'B01AIMNFFG-es'
 tags: [ 'zapatos', ]

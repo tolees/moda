@@ -5,7 +5,7 @@ date: 2020-01-16 08:25:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41m019cxqqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VWSHQXI-es Viking Rondane GTX Zapatos de High Rise Senderismo Unisex...'
 sku: 'B00VWSHQXI-es'
 tags: [ 'zapatos', ]

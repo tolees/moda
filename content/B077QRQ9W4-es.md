@@ -5,7 +5,7 @@ date: 2020-07-19 12:08:04
 image: 'https://m.media-amazon.com/images/I/316k+2lJtkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QRQ9W4-es FitFlop Iqushion Ergonomic Flip-Flops Chanclas para Mujer...'
 sku: 'B077QRQ9W4-es'
 tags: [ 'chanclas', ]

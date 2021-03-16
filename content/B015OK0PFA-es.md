@@ -5,7 +5,7 @@ date: 2020-08-14 16:30:45
 image: 'https://m.media-amazon.com/images/I/41H88hd9VNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015OK0PFA-es PUMA Epic Flip V2 Chanclas Unisex-Adulto Negro Black/White...'
 sku: 'B015OK0PFA-es'
 tags: [ 'chanclas', ]

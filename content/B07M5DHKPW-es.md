@@ -5,7 +5,7 @@ date: 2020-08-16 15:02:41
 image: 'https://m.media-amazon.com/images/I/41zzzoUdHpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5DHKPW-es Lee CAROL Vaqueros straight Mujer Azul Dark Garner Uv W26/L31'
 sku: 'B07M5DHKPW-es'
 tags: [ 'vaqueros', ]

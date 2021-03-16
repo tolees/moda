@@ -5,7 +5,7 @@ date: 2020-01-19 10:23:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uzMVJ3LiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTSFBZ7-es Lee Western Shirt Camisa Heather Blue Li XL para Hombre'
 sku: 'B07FTSFBZ7-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-04-02 08:51:38
 image: 'https://m.media-amazon.com/images/I/41xu2FsrjaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07254THBV-es WenVen Chaqueta Casual de Algodón para Invierno para...'
 sku: 'B07254THBV-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-01 16:16:15
 image: 'https://m.media-amazon.com/images/I/31kI3uwRDCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNSV4S2-es find. Hurrache Sandalias con Punta Cerrada Beige Snake 38 EU'
 sku: 'B07YNSV4S2-es'
 tags: [ 'sandalias', ]

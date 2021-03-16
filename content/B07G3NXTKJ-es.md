@@ -5,7 +5,7 @@ date: 2020-09-13 19:00:46
 image: 'https://m.media-amazon.com/images/I/51GdfSMhzZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3NXTKJ-es SELECTED HOMME Slhslimnew-Mark Shirt LS B Noos Camisa...'
 sku: 'B07G3NXTKJ-es'
 tags: [ 'camisa', ]

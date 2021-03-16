@@ -5,7 +5,7 @@ date: 2020-07-17 16:26:14
 image: 'https://m.media-amazon.com/images/I/41Z4gDY1UkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYVYNKZ-es Wrangler LS 1 Pkt Shirt Camisa Azul Navy 114 Small para...'
 sku: 'B07TYVYNKZ-es'
 tags: [ 'camisa', ]

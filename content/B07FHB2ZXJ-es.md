@@ -5,7 +5,7 @@ date: 2020-01-29 20:50:47
 image: 'https://m.media-amazon.com/images/I/41SEDmYhsUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHB2ZXJ-es Levi s Big and Tall B&t Graphic tee Camiseta Azul Hm Big...'
 sku: 'B07FHB2ZXJ-es'
 tags: [ 'camiseta', ]

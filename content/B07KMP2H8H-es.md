@@ -5,7 +5,7 @@ date: 2020-10-03 21:09:52
 image: 'https://m.media-amazon.com/images/I/31XCd5e4F1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMP2H8H-es find. Leather Round Toe Block Heel Court Zapatos de Tacón...'
 sku: 'B07KMP2H8H-es'
 tags: [ 'zapatos', ]

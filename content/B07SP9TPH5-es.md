@@ -5,7 +5,7 @@ date: 2020-01-23 16:36:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BiQ5jokQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SP9TPH5-es Flintronic® Cartera Tarjeta de Crédito Slim Billetera...'
 sku: 'B07SP9TPH5-es'
 tags: [ 'billetera', ]

@@ -5,7 +5,7 @@ date: 2020-10-05 23:08:18
 image: 'https://m.media-amazon.com/images/I/41y0k1YE3SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJS3FXF-es Cable Alargador USB 2.0 [3M] Cable Extension USB Tipo A...'
 sku: 'B08BJS3FXF-es'
 tags: [ 'gafas', ]

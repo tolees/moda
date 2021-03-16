@@ -5,7 +5,7 @@ date: 2020-07-01 13:43:38
 image: 'https://m.media-amazon.com/images/I/41quZoQ3QBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X6FBTC-es Geox U Wells A Zapatillas para Hombre Azul Navy 42 EU'
 sku: 'B076X6FBTC-es'
 tags: [ 'geox', ]

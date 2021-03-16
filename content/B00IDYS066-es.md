@@ -5,7 +5,7 @@ date: 2020-09-28 02:41:00
 image: 'https://m.media-amazon.com/images/I/41neJtRqUXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IDYS066-es Case Logic DSS101 - Bolso para cámara'
 sku: 'B00IDYS066-es'
 tags: [ 'bolso', ]

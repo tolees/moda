@@ -5,7 +5,7 @@ date: 2020-07-15 10:53:07
 image: 'https://m.media-amazon.com/images/I/41cF+XIJknL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000YKMIPG-es Havaianas Brasil Chanclas Unisex Adulto Negro Black 45/46 EU'
 sku: 'B000YKMIPG-es'
 tags: [ 'chanclas', ]

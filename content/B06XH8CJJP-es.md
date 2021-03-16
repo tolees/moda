@@ -5,7 +5,7 @@ date: 2020-08-12 12:47:29
 image: 'https://m.media-amazon.com/images/I/41JsPVpstKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XH8CJJP-es Helly Hansen Seven J Chaqueta impermeable con forro de...'
 sku: 'B06XH8CJJP-es'
 tags: [ 'chaqueta', ]

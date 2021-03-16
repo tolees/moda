@@ -5,7 +5,7 @@ date: 2020-03-09 01:54:32
 image: 'https://m.media-amazon.com/images/I/31yiYD9InZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6J6XIA-es Crocs Flip Flops Chanclas Unisex Adulto Negro Black/Smoke...'
 sku: 'B01N6J6XIA-es'
 tags: [ 'chanclas', ]

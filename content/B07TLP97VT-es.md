@@ -5,7 +5,7 @@ date: 2020-08-28 04:44:23
 image: 'https://m.media-amazon.com/images/I/41azqzEYf1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLP97VT-es Clarks Paulson Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07TLP97VT-es'
 tags: [ 'zapatos', ]

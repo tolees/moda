@@ -5,7 +5,7 @@ date: 2020-06-27 13:13:49
 image: 'https://m.media-amazon.com/images/I/41iRmhFamoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGP8X1-es Geox U Snake.2 A Zapatillas para Hombre Azul Avio/Lt Grey...'
 sku: 'B07SQGP8X1-es'
 tags: [ 'geox', ]

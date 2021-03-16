@@ -5,7 +5,7 @@ date: 2020-05-04 09:42:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41faZrLtNgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DXVSB58-es Under Armour HG Racer - Camiseta de Tirantes para Mujer...'
 sku: 'B07DXVSB58-es'
 tags: [ 'camiseta', ]

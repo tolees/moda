@@ -5,7 +5,7 @@ date: 2020-06-28 08:18:04
 image: 'https://m.media-amazon.com/images/I/413xxPEQnhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S89VDQV-es Lee Logo Crew SWS Sudadera Gris Grey Mele MP XX-Large para...'
 sku: 'B07S89VDQV-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-01-08 17:23:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31v4CYY4fZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMQQ89-es BOSS Debelt Vestido Plateado Silver 040 Large para Mujer'
 sku: 'B07NDMQQ89-es'
 tags: [ 'vestido', ]

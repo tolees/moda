@@ -5,7 +5,7 @@ date: 2020-08-23 19:41:42
 image: 'https://m.media-amazon.com/images/I/31QksTuHPQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQV8LWJ-es G-STAR RAW One Slim Fit Camiseta Blanco White 336-110 M...'
 sku: 'B07VQV8LWJ-es'
 tags: [ 'camiseta', ]

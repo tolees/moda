@@ -5,7 +5,7 @@ date: 2020-04-18 10:32:52
 image: 'https://m.media-amazon.com/images/I/41Ku7XTMl3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0836T9TMB-es Casual Slipper Flip Flop Sandal Zapatillas para Mujer...'
 sku: 'B0836T9TMB-es'
 tags: [ 'zapatos', ]

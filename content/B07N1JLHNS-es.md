@@ -5,7 +5,7 @@ date: 2020-09-28 16:29:44
 image: 'https://m.media-amazon.com/images/I/31f3MBB1EnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JLHNS-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Marrón...'
 sku: 'B07N1JLHNS-es'
 tags: [ 'zapatos', ]

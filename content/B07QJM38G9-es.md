@@ -5,7 +5,7 @@ date: 2020-06-22 07:00:56
 image: 'https://m.media-amazon.com/images/I/31iu-SBOFlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJM38G9-es Marca Amazon - AURIQUE Mallas de Deporte con Panel de...'
 sku: 'B07QJM38G9-es'
 tags: [ 'aurique', ]

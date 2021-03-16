@@ -5,7 +5,7 @@ date: 2020-01-08 17:41:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TM0kYynYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EHVY666-es Antony Morato Camicia con Contrasto Collo E Interno Finta...'
 sku: 'B01EHVY666-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-07-26 13:27:54
 image: 'https://m.media-amazon.com/images/I/51Dc0m77sUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQRQB22-es Transportín plegable de tela para gatos y perros pequeños...'
 sku: 'B07PQRQB22-es'
 tags: [ 'bolso', ]

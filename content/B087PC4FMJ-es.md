@@ -5,7 +5,7 @@ date: 2020-05-12 07:07:04
 image: 'https://m.media-amazon.com/images/I/511GMZWT7pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PC4FMJ-es Suhctup Funda Compatible con Xiaomi Redmi Note 8 Pro...'
 sku: 'B087PC4FMJ-es'
 tags: [ 'billetera', ]

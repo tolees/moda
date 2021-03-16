@@ -5,7 +5,7 @@ date: 2020-03-12 14:36:36
 image: 'https://m.media-amazon.com/images/I/312BqgdR3KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6W9WD6-es JACK & JONES Jorhotel tee SS Crew Neck Camiseta Turquesa...'
 sku: 'B07P6W9WD6-es'
 tags: [ 'camiseta', ]

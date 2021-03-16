@@ -5,7 +5,7 @@ date: 2020-06-08 08:11:43
 image: 'https://m.media-amazon.com/images/I/514uE-UIv2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083PVYGM9-es Relojes para Hombre Moda Deporte Cuarzo Analógico Negro...'
 sku: 'B083PVYGM9-es'
 tags: [ 'moda', ]

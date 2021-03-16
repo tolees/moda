@@ -5,7 +5,7 @@ date: 2020-06-14 14:31:08
 image: 'https://m.media-amazon.com/images/I/31ea+7GBOBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MD3YJ9-es Clarks Un Reisel Mara Sandalias con Tira Vertical para...'
 sku: 'B075MD3YJ9-es'
 tags: [ 'sandalias', ]

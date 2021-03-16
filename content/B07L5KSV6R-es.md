@@ -5,7 +5,7 @@ date: 2020-05-19 17:41:10
 image: 'https://m.media-amazon.com/images/I/41tuFTmxyVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5KSV6R-es Saco Universal Invierno para Silla de Paseo laamei Saco de...'
 sku: 'B07L5KSV6R-es'
 tags: [ 'abrigo', ]

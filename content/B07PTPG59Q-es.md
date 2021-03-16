@@ -5,7 +5,7 @@ date: 2020-05-22 07:26:00
 image: 'https://m.media-amazon.com/images/I/51htsGAvjML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTPG59Q-es WinCret Pareo Playa Mujer Traje de Baño Verano Camisolas y...'
 sku: 'B07PTPG59Q-es'
 tags: [ 'bikini', ]

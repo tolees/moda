@@ -5,7 +5,7 @@ date: 2020-06-26 11:25:39
 image: 'https://m.media-amazon.com/images/I/31LUAeudBYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ35LDV-es Marca Amazon - TRUTH & FABLE Vestido Mujer Multiposición...'
 sku: 'B07MZ35LDV-es'
 tags: [ 'vestido', ]

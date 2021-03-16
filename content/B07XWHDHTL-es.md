@@ -5,7 +5,7 @@ date: 2020-08-16 13:01:06
 image: 'https://m.media-amazon.com/images/I/51vIhwM0IvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XWHDHTL-es SKPAT - Maletín Portadocumentos de Mujer. Cartera para...'
 sku: 'B07XWHDHTL-es'
 tags: [ 'bolso', ]

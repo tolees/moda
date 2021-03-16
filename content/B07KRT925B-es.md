@@ -5,7 +5,7 @@ date: 2020-08-26 20:53:16
 image: 'https://m.media-amazon.com/images/I/31sU802dkPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRT925B-es Columbia Silver Ridge 2.0 Pantalón de Senderismo Nailon...'
 sku: 'B07KRT925B-es'
 tags: [ 'pantalón', ]

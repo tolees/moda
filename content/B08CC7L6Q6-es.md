@@ -5,7 +5,7 @@ date: 2020-09-20 05:31:45
 image: 'https://m.media-amazon.com/images/I/41tMhLP9Y9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CC7L6Q6-es XINFULUK Multi-propósito de Moda Coreana Diseño de lechón...'
 sku: 'B08CC7L6Q6-es'
 tags: [ 'moda', ]

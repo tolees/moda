@@ -5,7 +5,7 @@ date: 2020-07-11 01:29:12
 image: 'https://m.media-amazon.com/images/I/51+YumDCQKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2NQD7P-es Reloj para Hombres Relojes Deportivo de Cuarzo analógico...'
 sku: 'B07C2NQD7P-es'
 tags: [ 'moda', ]

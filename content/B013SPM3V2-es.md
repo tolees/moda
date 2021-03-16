@@ -5,7 +5,7 @@ date: 2020-04-23 10:32:19
 image: 'https://m.media-amazon.com/images/I/512CGhWNTuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013SPM3V2-es Victoria Mercedes Lona Pañuelo Zapatos de primeros pasos...'
 sku: 'B013SPM3V2-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 07:30:54
 image: 'https://m.media-amazon.com/images/I/41GU7ch3iJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCZ6B9J-es Marca Amazon - find. Abrigo Hombre Marrón Brown 3XL Label:...'
 sku: 'B07DCZ6B9J-es'
 tags: [ '-','abrigo','find.', ]

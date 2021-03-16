@@ -5,7 +5,7 @@ date: 2020-09-28 09:28:04
 image: 'https://m.media-amazon.com/images/I/41fFjNj5IqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPR77W4-es REPLAY Anbass Vaqueros Slim Azul Medium Blue 9 W28/L30...'
 sku: 'B07KPR77W4-es'
 tags: [ 'vaqueros', ]

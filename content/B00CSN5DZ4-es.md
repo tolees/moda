@@ -5,7 +5,7 @@ date: 2020-01-18 10:09:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZVe4H43SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CSN5DZ4-es Columbia Fast Trek II Chaqueta Polar para Mujer Color: Sea...'
 sku: 'B00CSN5DZ4-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-05-02 18:05:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UqpD6-iPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2JRCHY-es find. Paris Embroidered Sudadera Verde Green 44 Talla del...'
 sku: 'B07D2JRCHY-es'
 tags: [ 'sudadera', ]

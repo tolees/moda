@@ -5,7 +5,7 @@ date: 2020-09-01 19:16:11
 image: 'https://m.media-amazon.com/images/I/41tVp1wSbGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3JPCK3-es PUMA Liga Casuals Tracktop Chaqueta de Entrenamiento...'
 sku: 'B07B3JPCK3-es'
 tags: [ 'chaqueta', ]

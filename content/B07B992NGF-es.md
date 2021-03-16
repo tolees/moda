@@ -5,7 +5,7 @@ date: 2020-05-24 15:33:22
 image: 'https://m.media-amazon.com/images/I/316pmIKyQnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B992NGF-es Clarks Linvale Jerica Zapatos de Tacón para Mujer Negro...'
 sku: 'B07B992NGF-es'
 tags: [ 'zapatos', ]

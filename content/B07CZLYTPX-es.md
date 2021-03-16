@@ -5,7 +5,7 @@ date: 2020-05-02 11:48:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418cOT65iuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZLYTPX-es Under Armour Rival Fleece Logo Sweatshort Pantalón Corto...'
 sku: 'B07CZLYTPX-es'
 tags: [ 'pantalón', ]

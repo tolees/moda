@@ -5,7 +5,7 @@ date: 2020-05-31 15:57:27
 image: 'https://m.media-amazon.com/images/I/41hxLnzNjnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXD6VHK-es Levi s Housemark Graphic tee Camiseta Azul Hm Ssnl Tonal...'
 sku: 'B07TXD6VHK-es'
 tags: [ 'camiseta', ]

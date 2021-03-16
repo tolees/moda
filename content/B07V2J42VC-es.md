@@ -5,7 +5,7 @@ date: 2020-09-03 11:51:27
 image: 'https://m.media-amazon.com/images/I/31WXnNhQMTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2J42VC-es Tommy Hilfiger Comfort Footbed Beach Sandal Chanclas para...'
 sku: 'B07V2J42VC-es'
 tags: [ 'chanclas', ]

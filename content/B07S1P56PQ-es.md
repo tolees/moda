@@ -5,7 +5,7 @@ date: 2020-06-26 10:50:40
 image: 'https://m.media-amazon.com/images/I/41pMg8tpOoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1P56PQ-es Levi s The Perfect Tee Camiseta Mujer Blanco Brw Outline...'
 sku: 'B07S1P56PQ-es'
 tags: [ 'camiseta', ]

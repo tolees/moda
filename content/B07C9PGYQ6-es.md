@@ -5,7 +5,7 @@ date: 2020-02-24 10:49:52
 image: 'https://m.media-amazon.com/images/I/41qsj8ibGJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C9PGYQ6-es REPLAY M3594 .000.2660 Camiseta Gris Dark Grey Melange M03...'
 sku: 'B07C9PGYQ6-es'
 tags: [ 'camiseta', ]

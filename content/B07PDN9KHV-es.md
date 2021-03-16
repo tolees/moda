@@ -5,7 +5,7 @@ date: 2020-04-20 14:41:31
 image: 'https://m.media-amazon.com/images/I/31r6i8yNcIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDN9KHV-es XTI 49473 Botines para Mujer Negro 40 EU'
 sku: 'B07PDN9KHV-es'
 tags: [ 'botines', ]

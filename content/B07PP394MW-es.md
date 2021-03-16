@@ -5,7 +5,7 @@ date: 2020-02-17 12:58:04
 image: 'https://m.media-amazon.com/images/I/41IO6Xrbs4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PP394MW-es Kipling Eleva Bolso con Bandolera para Mujer Verde...'
 sku: 'B07PP394MW-es'
 tags: [ 'bolso', ]

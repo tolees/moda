@@ -5,7 +5,7 @@ date: 2020-06-22 18:28:56
 image: 'https://m.media-amazon.com/images/I/41Ag3D5Ku+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4JFMYP-es Levi s 501 Original Fit Jeans Pantalón vaquero con diseño...'
 sku: 'B07D4JFMYP-es'
 tags: [ 'pantalón', ]

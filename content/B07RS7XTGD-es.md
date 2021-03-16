@@ -5,7 +5,7 @@ date: 2020-04-16 15:03:35
 image: 'https://m.media-amazon.com/images/I/41L7LK5C1kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS7XTGD-es Pour Moi? Glamazon Underwired Double Strap Top Parte de...'
 sku: 'B07RS7XTGD-es'
 tags: [ 'bikini', ]

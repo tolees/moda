@@ -5,7 +5,7 @@ date: 2020-08-09 21:20:14
 image: 'https://m.media-amazon.com/images/I/31SBtSHFB4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VXQB2C-es Zoggs Ultima Air Titanium Gafas de natación Unisex-Adult...'
 sku: 'B077VXQB2C-es'
 tags: [ 'gafas', ]

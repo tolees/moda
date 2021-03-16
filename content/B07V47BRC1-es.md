@@ -5,7 +5,7 @@ date: 2020-02-19 11:14:26
 image: 'https://m.media-amazon.com/images/I/41NoYM-WmbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V47BRC1-es Coronel Tapiocca Hunter Bolso pequeño Hombres Negro...'
 sku: 'B07V47BRC1-es'
 tags: [ 'bolso', ]

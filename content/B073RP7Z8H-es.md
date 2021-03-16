@@ -5,7 +5,7 @@ date: 2020-06-29 11:51:04
 image: 'https://m.media-amazon.com/images/I/31u6AfT8KnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RP7Z8H-es Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de...'
 sku: 'B073RP7Z8H-es'
 tags: [ 'camiseta', ]

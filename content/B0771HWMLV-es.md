@@ -5,7 +5,7 @@ date: 2020-05-16 17:03:13
 image: 'https://m.media-amazon.com/images/I/514UlqwSlNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771HWMLV-es Landove Estampado de animales de manga larga pijama...'
 sku: 'B0771HWMLV-es'
 tags: [ 'pijama', ]

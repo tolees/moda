@@ -5,7 +5,7 @@ date: 2020-09-13 01:44:51
 image: 'https://m.media-amazon.com/images/I/41wgCUHDi7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G8MKXF7-es Zapatillas de Seguridad Hombre Zapatos de Trabajo con...'
 sku: 'B08G8MKXF7-es'
 tags: [ 'zapatos', ]

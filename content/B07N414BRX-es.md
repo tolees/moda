@@ -5,7 +5,7 @@ date: 2020-02-20 11:10:26
 image: 'https://m.media-amazon.com/images/I/41+Un745sAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N414BRX-es Desigual Dress Marian Vestido Blanco Crudo 1001 48 Talla...'
 sku: 'B07N414BRX-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-03-28 12:49:51
 image: 'https://m.media-amazon.com/images/I/41Rmn5YR1CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9JMTVS-es Under Armour Tactical All Season Chaqueta Hombre Verde LG'
 sku: 'B07L9JMTVS-es'
 tags: [ 'chaqueta', ]

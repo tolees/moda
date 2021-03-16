@@ -5,7 +5,7 @@ date: 2020-04-01 20:28:11
 image: 'https://m.media-amazon.com/images/I/51Jj7tQxPkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPQX92T-es VGEBY1 Zapatos para Saltar Zapatos de Rebote Unisex Botas...'
 sku: 'B07QPQX92T-es'
 tags: [ 'zapatos', ]

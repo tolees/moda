@@ -5,7 +5,7 @@ date: 2020-08-14 10:30:12
 image: 'https://m.media-amazon.com/images/I/410n8f4Y8qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXWQZPB-es Pepe Jeans Golders Camiseta Azul Light Thames 533 Large...'
 sku: 'B07VXWQZPB-es'
 tags: [ 'camiseta', ]

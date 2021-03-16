@@ -5,7 +5,7 @@ date: 2020-06-22 16:05:03
 image: 'https://m.media-amazon.com/images/I/31hSm5W3kBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XNMSPS-es Under Armour Tech 2.0. Camiseta masculina camiseta...'
 sku: 'B077XNMSPS-es'
 tags: [ 'camiseta', ]

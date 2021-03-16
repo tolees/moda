@@ -5,7 +5,7 @@ date: 2020-05-19 12:05:50
 image: 'https://m.media-amazon.com/images/I/41cpLmL-sxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB4YP29-es Jack & Jones Glenn Royal R215 Rdd Ltd Vaqueros Blue Denim...'
 sku: 'B07VB4YP29-es'
 tags: [ 'vaqueros', ]

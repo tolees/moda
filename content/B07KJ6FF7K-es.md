@@ -5,7 +5,7 @@ date: 2020-03-07 20:02:53
 image: 'https://m.media-amazon.com/images/I/415cQ0r1EOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJ6FF7K-es Love Moschino Jc4002pp18la0500 bolso bandolera Unisex...'
 sku: 'B07KJ6FF7K-es'
 tags: [ 'bolso', ]

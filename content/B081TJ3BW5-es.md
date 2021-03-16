@@ -5,7 +5,7 @@ date: 2020-09-23 03:43:04
 image: 'https://m.media-amazon.com/images/I/51Kw47912uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TJ3BW5-es BENYAR Cronógrafo de Cuero de Moda Relojes Impermeables de...'
 sku: 'B081TJ3BW5-es'
 tags: [ 'moda', ]

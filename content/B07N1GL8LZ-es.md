@@ -5,7 +5,7 @@ date: 2020-02-07 08:19:49
 image: 'https://m.media-amazon.com/images/I/41nQKPQorcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GL8LZ-es Clarks Un Lindel Lo Botines para Mujer Marrón Dark Tan...'
 sku: 'B07N1GL8LZ-es'
 tags: [ 'botines', ]

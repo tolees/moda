@@ -5,7 +5,7 @@ date: 2020-06-04 18:02:01
 image: 'https://m.media-amazon.com/images/I/51SqUlLAWWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0186Z4YSE-es Homar sin corbata Cordones de zapatos para niños y adultos...'
 sku: 'B0186Z4YSE-es'
 tags: [ 'zapatos', ]

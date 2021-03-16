@@ -5,7 +5,7 @@ date: 2020-04-13 03:41:39
 image: 'https://m.media-amazon.com/images/I/41CCr9ZXmCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JGWYFM-es Fluchos Luca Zapatos de Cordones Derby para Hombre Marrón...'
 sku: 'B072JGWYFM-es'
 tags: [ 'zapatos', ]

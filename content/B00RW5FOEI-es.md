@@ -5,7 +5,7 @@ date: 2020-02-14 23:14:24
 image: 'https://m.media-amazon.com/images/I/41GTGqWjt8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RW5FOEI-es Reef Twinpin Sandalias con Correa de Tobillo para Hombre...'
 sku: 'B00RW5FOEI-es'
 tags: [ 'sandalias', ]

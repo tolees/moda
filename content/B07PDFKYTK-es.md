@@ -5,7 +5,7 @@ date: 2020-03-11 11:16:44
 image: 'https://m.media-amazon.com/images/I/512EXjw7UnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDFKYTK-es Tous K Shock Rever Girls Organizadore de Bolso para Mujer...'
 sku: 'B07PDFKYTK-es'
 tags: [ 'bolso', ]

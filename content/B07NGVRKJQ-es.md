@@ -5,7 +5,7 @@ date: 2020-03-03 20:20:37
 image: 'https://m.media-amazon.com/images/I/41vHUSsUjgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGVRKJQ-es Calvin Klein Boxer Brief 2pk Gris Grey Heather/Surf The...'
 sku: 'B07NGVRKJQ-es'
 tags: [ 'boxer', ]

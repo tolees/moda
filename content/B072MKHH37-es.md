@@ -5,7 +5,7 @@ date: 2020-08-08 20:08:15
 image: 'https://m.media-amazon.com/images/I/31EkCxhG+5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MKHH37-es Marca Amazon - find. Camisa Hombre Rosa S Label: S'
 sku: 'B072MKHH37-es'
 tags: [ '-','camisa','find.', ]

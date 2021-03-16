@@ -5,7 +5,7 @@ date: 2020-06-29 19:12:39
 image: 'https://m.media-amazon.com/images/I/311-tTLOHvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM5SSH1-es Timberland Adventure 2.0 Cupsole Modern Oxford Zapatillas...'
 sku: 'B07PM5SSH1-es'
 tags: [ 'timberland', ]

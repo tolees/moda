@@ -5,7 +5,7 @@ date: 2020-02-02 23:17:10
 image: 'https://m.media-amazon.com/images/I/41bAQJ-l3WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYZPMIW-es IRIS & LILLY Sujetador Bandeau de Encaje Suave Mujer Pack...'
 sku: 'B01MYZPMIW-es'
 tags: [ '&','iris','lilly', ]

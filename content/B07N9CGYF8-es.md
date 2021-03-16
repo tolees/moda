@@ -5,7 +5,7 @@ date: 2020-06-13 11:46:57
 image: 'https://m.media-amazon.com/images/I/41xJo4S6WJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9CGYF8-es Pepe Jeans West Sir Camiseta Verde Absynth 625 X-Small...'
 sku: 'B07N9CGYF8-es'
 tags: [ 'camiseta', ]

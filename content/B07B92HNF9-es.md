@@ -5,7 +5,7 @@ date: 2020-02-05 10:56:19
 image: 'https://m.media-amazon.com/images/I/31bCfQ2l-WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B92HNF9-es Pepe Jeans Martin Gafas de sol Negro Black 52 para Hombre'
 sku: 'B07B92HNF9-es'
 tags: [ 'gafas', ]

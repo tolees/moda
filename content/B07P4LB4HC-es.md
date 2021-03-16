@@ -5,7 +5,7 @@ date: 2020-05-31 09:53:01
 image: 'https://m.media-amazon.com/images/I/210BsZ0HKiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4LB4HC-es Mujer Vestido Elegante sin Mangas lápiz para Cóctel Fiesta...'
 sku: 'B07P4LB4HC-es'
 tags: [ 'vestido', ]

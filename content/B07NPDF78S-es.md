@@ -5,7 +5,7 @@ date: 2020-02-15 20:03:08
 image: 'https://m.media-amazon.com/images/I/31kG+1JAvhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPDF78S-es Mocasines de Cuero Mujer Casual Zapatos de Conducción Moda...'
 sku: 'B07NPDF78S-es'
 tags: [ 'moda','zapatos', ]

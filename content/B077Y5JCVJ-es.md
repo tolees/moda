@@ -5,7 +5,7 @@ date: 2020-07-03 10:49:26
 image: 'https://m.media-amazon.com/images/I/31bQ+eJ0IVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y5JCVJ-es Tuc Tuc Brioche - Bolso panera y cambiador de polipiel...'
 sku: 'B077Y5JCVJ-es'
 tags: [ 'bolso', ]

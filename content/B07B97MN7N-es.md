@@ -5,7 +5,7 @@ date: 2020-03-25 13:16:44
 image: 'https://m.media-amazon.com/images/I/31g6s2h5WeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B97MN7N-es Clarks Bampton Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07B97MN7N-es'
 tags: [ 'zapatos', ]

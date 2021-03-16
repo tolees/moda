@@ -5,7 +5,7 @@ date: 2020-02-08 18:34:05
 image: 'https://m.media-amazon.com/images/I/31UPQUuwXmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVLB5DV-es Columbia Mujer Pantalón Convertible Saturday Trail II...'
 sku: 'B07DVLB5DV-es'
 tags: [ 'pantalón', ]

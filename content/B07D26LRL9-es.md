@@ -5,7 +5,7 @@ date: 2020-09-13 15:43:22
 image: 'https://m.media-amazon.com/images/I/41Ae2hZnawL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D26LRL9-es Aibrou Camisón Mujer Sexy Algodón Encaje Tirantes Pijama...'
 sku: 'B07D26LRL9-es'
 tags: [ 'pijama', ]

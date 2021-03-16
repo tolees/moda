@@ -5,7 +5,7 @@ date: 2020-02-29 09:35:15
 image: 'https://m.media-amazon.com/images/I/41KCXJE5KvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBNC5NV-es Helly Hansen HH LIFA Merino 1/2 Zip Camiseta Azul Azul...'
 sku: 'B07LBNC5NV-es'
 tags: [ 'camiseta', ]

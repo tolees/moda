@@ -5,7 +5,7 @@ date: 2020-03-29 17:03:02
 image: 'https://m.media-amazon.com/images/I/317uWFAVoyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC4LPNL-es Helly Hansen Daybreaker Fleece Jacket Forro Polar Chaqueta...'
 sku: 'B07SC4LPNL-es'
 tags: [ 'chaqueta', ]

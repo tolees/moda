@@ -5,7 +5,7 @@ date: 2020-08-21 19:22:04
 image: 'https://m.media-amazon.com/images/I/41IQvP8Rm3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXKV2SS-es Tommy Hilfiger TJM Bold tee Camiseta Azul Exotic Teal...'
 sku: 'B07VXKV2SS-es'
 tags: [ 'camiseta', ]

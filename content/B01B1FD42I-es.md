@@ -5,7 +5,7 @@ date: 2020-07-12 06:20:15
 image: 'https://m.media-amazon.com/images/I/51UJpOdsaSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B1FD42I-es Bluelover Cebolla Goggles Gafas Rebanar Cocina Corte Picar...'
 sku: 'B01B1FD42I-es'
 tags: [ 'gafas', ]

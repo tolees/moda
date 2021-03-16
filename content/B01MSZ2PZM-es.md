@@ -5,7 +5,7 @@ date: 2020-10-07 15:15:06
 image: 'https://m.media-amazon.com/images/I/411zrkCq6mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSZ2PZM-es Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable...'
 sku: 'B01MSZ2PZM-es'
 tags: [ 'chaqueta', ]

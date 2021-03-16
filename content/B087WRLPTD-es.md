@@ -5,7 +5,7 @@ date: 2020-07-22 02:51:13
 image: 'https://m.media-amazon.com/images/I/5100XDwLxBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WRLPTD-es WERNNSAI Azul Tiburón Bolsas de Regalos - 12 Pcs Bolsas de...'
 sku: 'B087WRLPTD-es'
 tags: [ 'abrigo', ]

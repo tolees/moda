@@ -5,7 +5,7 @@ date: 2020-09-26 16:30:56
 image: 'https://m.media-amazon.com/images/I/41x1FcVSObL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVDW615-es Geographical Norway Sudadera Mujer GYMCLASS B Taupe S'
 sku: 'B07XVDW615-es'
 tags: [ 'sudadera', ]

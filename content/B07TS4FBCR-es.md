@@ -5,7 +5,7 @@ date: 2020-03-13 08:01:17
 image: 'https://m.media-amazon.com/images/I/41xlRP-kl3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS4FBCR-es Perfectmiaoxuan Gafas de sol para hombre mujer...'
 sku: 'B07TS4FBCR-es'
 tags: [ 'gafas', ]

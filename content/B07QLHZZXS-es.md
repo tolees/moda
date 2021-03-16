@@ -5,7 +5,7 @@ date: 2020-06-19 01:29:02
 image: 'https://m.media-amazon.com/images/I/41iO4thXjnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLHZZXS-es Mujer Pantalones Cortos Verano Elásticos Mallas Pantalones...'
 sku: 'B07QLHZZXS-es'
 tags: [ 'moda', ]

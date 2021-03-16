@@ -5,7 +5,7 @@ date: 2019-12-31 18:36:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317ZERlR9eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9HH53R-es Joma Race Chaqueta y Chaleco Cabal Hombre Negro S'
 sku: 'B07G9HH53R-es'
 tags: [ 'chaleco','chaqueta', ]

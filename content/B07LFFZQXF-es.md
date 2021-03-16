@@ -5,7 +5,7 @@ date: 2020-01-08 11:48:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-nAn4jBhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFFZQXF-es Levi s Thermore Padded Parka Verde Olive Night 2 0005...'
 sku: 'B07LFFZQXF-es'
 tags: [ 'parka', ]

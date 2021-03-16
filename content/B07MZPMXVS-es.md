@@ -5,7 +5,7 @@ date: 2020-03-19 08:21:51
 image: 'https://m.media-amazon.com/images/I/51zv6TU2+ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPMXVS-es Pepe Jeans Nine Sudadera Grey Marl 933 Large para Mujer'
 sku: 'B07MZPMXVS-es'
 tags: [ 'sudadera', ]

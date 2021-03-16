@@ -5,7 +5,7 @@ date: 2020-07-18 22:35:29
 image: 'https://m.media-amazon.com/images/I/41LWGHKtN9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B7XCG7Y-es The North Face Sudadera Drew Peak Hombre Negro TNF Black M'
 sku: 'B00B7XCG7Y-es'
 tags: [ 'sudadera', ]

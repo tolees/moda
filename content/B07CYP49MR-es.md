@@ -5,7 +5,7 @@ date: 2020-01-08 13:10:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FMiw3XhVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYP49MR-es Levi s Graphic Set-in Neck Camiseta para Hombre Blanco...'
 sku: 'B07CYP49MR-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-20 06:29:15
 image: 'https://m.media-amazon.com/images/I/31g3EgmYcwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M89FB5L-es Lee Luke Vaqueros Moto Trashed Jr 33W / 34L para Hombre'
 sku: 'B07M89FB5L-es'
 tags: [ 'vaqueros', ]

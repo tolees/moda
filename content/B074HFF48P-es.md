@@ -5,7 +5,7 @@ date: 2020-07-01 17:58:02
 image: 'https://m.media-amazon.com/images/I/31DnYnrSGnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074HFF48P-es FitFlop Lulu Leather Toepost Sandalias con Plataforma para...'
 sku: 'B074HFF48P-es'
 tags: [ 'sandalias', ]

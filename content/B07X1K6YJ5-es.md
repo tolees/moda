@@ -5,7 +5,7 @@ date: 2020-03-16 09:36:44
 image: 'https://m.media-amazon.com/images/I/41yjVkRhaNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1K6YJ5-es Mishansha Zapatillas Invierno Hombre Casa Zapatos...'
 sku: 'B07X1K6YJ5-es'
 tags: [ 'zapatos', ]

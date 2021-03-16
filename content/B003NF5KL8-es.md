@@ -5,7 +5,7 @@ date: 2020-09-13 19:00:43
 image: 'https://m.media-amazon.com/images/I/41N3tl0XUWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003NF5KL8-es CATWALK COLLECTION - BELLSTONE - Bolso al hombro estilo...'
 sku: 'B003NF5KL8-es'
 tags: [ 'bolso', ]

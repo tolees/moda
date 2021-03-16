@@ -5,7 +5,7 @@ date: 2020-05-08 14:06:08
 image: 'https://m.media-amazon.com/images/I/41k4xi0dfOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKX6PX3-es Levi s Graphic Diana Crew Sudadera Amarillo 90 s Serif...'
 sku: 'B07SKX6PX3-es'
 tags: [ 'sudadera', ]

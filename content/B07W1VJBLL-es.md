@@ -5,7 +5,7 @@ date: 2020-09-20 15:57:21
 image: 'https://m.media-amazon.com/images/I/41wvlMAukNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1VJBLL-es Tommy Hilfiger TJM Pocket tee Camiseta Azul Faded Ink C0z...'
 sku: 'B07W1VJBLL-es'
 tags: [ 'camiseta', ]

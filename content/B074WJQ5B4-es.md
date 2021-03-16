@@ -5,7 +5,7 @@ date: 2020-07-16 16:08:24
 image: 'https://m.media-amazon.com/images/I/31S-g3NCJ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WJQ5B4-es Timberland Newport Bay Zapatillas Bajas para Hombre Negro...'
 sku: 'B074WJQ5B4-es'
 tags: [ 'timberland', ]

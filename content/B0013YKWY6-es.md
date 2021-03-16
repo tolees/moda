@@ -5,7 +5,7 @@ date: 2020-05-14 12:33:36
 image: 'https://m.media-amazon.com/images/I/41Z8PVPo4eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0013YKWY6-es Birkenstock Medina Birko-Flor Chanclas para Hombre Negro...'
 sku: 'B0013YKWY6-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-04-14 09:17:57
 image: 'https://m.media-amazon.com/images/I/61XAfzfzbpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015QETD9S-es rubyca colgantes flotante para cristal Living memory...'
 sku: 'B015QETD9S-es'
 tags: [ 'collar', ]

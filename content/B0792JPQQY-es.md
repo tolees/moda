@@ -5,7 +5,7 @@ date: 2020-01-25 17:25:16
 image: 'https://m.media-amazon.com/images/I/31bQ6XwnOzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792JPQQY-es Geox JR Plie E Zapatos de Cordones Oxford para Niñas Negro...'
 sku: 'B0792JPQQY-es'
 tags: [ 'geox','zapatos', ]

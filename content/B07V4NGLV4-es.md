@@ -5,7 +5,7 @@ date: 2020-09-24 13:49:36
 image: 'https://m.media-amazon.com/images/I/31EZ4WvLdpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4NGLV4-es Billabong™ - Chanclas - Hombre - EU 45 - Negro'
 sku: 'B07V4NGLV4-es'
 tags: [ 'chanclas', ]

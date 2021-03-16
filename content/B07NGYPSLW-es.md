@@ -5,7 +5,7 @@ date: 2020-06-23 07:50:17
 image: 'https://m.media-amazon.com/images/I/31XZMA4-qQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGYPSLW-es Marca Amazon - Iris & Lilly Tanga Mujer Pack de 5 Negro...'
 sku: 'B07NGYPSLW-es'
 tags: [ '&','iris','lilly', ]

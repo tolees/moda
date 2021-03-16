@@ -5,7 +5,7 @@ date: 2020-01-24 19:47:07
 image: 'https://m.media-amazon.com/images/I/515yBkOquEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNZMTGF-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
 sku: 'B07MNZMTGF-es'
 tags: [ 'zapatos', ]

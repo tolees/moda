@@ -5,7 +5,7 @@ date: 2020-09-12 15:32:51
 image: 'https://m.media-amazon.com/images/I/31F9zZfae5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKP52YF-es Ever-Pretty Vestido de Noche Gasa Un Hombro Corte Imperio...'
 sku: 'B07GKP52YF-es'
 tags: [ 'vestido', ]

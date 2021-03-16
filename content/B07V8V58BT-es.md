@@ -5,7 +5,7 @@ date: 2020-09-04 20:22:26
 image: 'https://m.media-amazon.com/images/I/31nIwbwNQbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8V58BT-es Tommy Hilfiger Feminine Leather Low Wedge Chanclas para...'
 sku: 'B07V8V58BT-es'
 tags: [ 'chanclas', ]

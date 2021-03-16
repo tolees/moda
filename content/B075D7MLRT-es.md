@@ -5,7 +5,7 @@ date: 2020-01-13 23:38:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41i0gaH6VFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075D7MLRT-es IRIS & LILLY BLIC002 sujetadores Beige Nude 100A Talla del...'
 sku: 'B075D7MLRT-es'
 tags: [ '&','iris','lilly', ]

@@ -5,7 +5,7 @@ date: 2020-02-07 10:37:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KBzCu-LJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ7FPNB-es Clarks Ronnie Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MJ7FPNB-es'
 tags: [ 'zapatos', ]

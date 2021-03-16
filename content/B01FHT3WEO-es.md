@@ -5,7 +5,7 @@ date: 2020-05-20 15:03:24
 image: 'https://m.media-amazon.com/images/I/413yiEtxLiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FHT3WEO-es MaxMuxun Sandalias de Vestir Clásica Básica con Tira...'
 sku: 'B01FHT3WEO-es'
 tags: [ 'sandalias', ]

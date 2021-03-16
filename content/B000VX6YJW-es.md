@@ -5,7 +5,7 @@ date: 2020-09-09 08:25:08
 image: 'https://m.media-amazon.com/images/I/41z4W67gc4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VX6YJW-es Timberland 6-Inch Premium Boot Botas para Hombre Amarillo...'
 sku: 'B000VX6YJW-es'
 tags: [ 'timberland', ]

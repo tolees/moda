@@ -5,7 +5,7 @@ date: 2020-05-04 08:03:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417rPJSHWdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDTT7Q-es HIKARO Sudadera con Cremallera y Capucha Mujer Rosa Coral...'
 sku: 'B077YDTT7Q-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 17:20:46
 image: 'https://m.media-amazon.com/images/I/31V+mGuf1QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FHDLR4M-es Sibinulo Camisón de Maternidad Pijama Lactancia Vestido...'
 sku: 'B08FHDLR4M-es'
 tags: [ 'pijama','vestido', ]

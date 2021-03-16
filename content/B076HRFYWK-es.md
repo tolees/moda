@@ -5,7 +5,7 @@ date: 2020-06-08 23:09:53
 image: 'https://m.media-amazon.com/images/I/41cdMcx7H0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HRFYWK-es adidas Core18 Pre Jkty Chaqueta de Deporte Unisex Niños...'
 sku: 'B076HRFYWK-es'
 tags: [ 'chaqueta', ]

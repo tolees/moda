@@ -5,7 +5,7 @@ date: 2020-04-05 09:26:06
 image: 'https://m.media-amazon.com/images/I/41exgnIYefL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWW6RS5-es Joma Cairo II Sudadera Hombre Melange L'
 sku: 'B07NWW6RS5-es'
 tags: [ 'sudadera', ]

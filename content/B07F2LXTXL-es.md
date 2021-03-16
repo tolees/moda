@@ -5,7 +5,7 @@ date: 2020-04-08 07:44:45
 image: 'https://m.media-amazon.com/images/I/41GuUPIfI9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2LXTXL-es Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro...'
 sku: 'B07F2LXTXL-es'
 tags: [ 'chaqueta', ]

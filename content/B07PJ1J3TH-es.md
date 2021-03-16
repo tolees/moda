@@ -5,7 +5,7 @@ date: 2020-07-03 13:09:24
 image: 'https://m.media-amazon.com/images/I/21Ex+hLddhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJ1J3TH-es HAWKERS · LAX · Karat · Rose gold TR18 · Gafas de sol para...'
 sku: 'B07PJ1J3TH-es'
 tags: [ 'gafas', ]

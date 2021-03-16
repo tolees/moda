@@ -5,7 +5,7 @@ date: 2020-06-30 11:14:16
 image: 'https://m.media-amazon.com/images/I/41UM66xKImL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825NNVYC-es Quiksilver New Slang - Camiseta para Hombre Screen tee...'
 sku: 'B0825NNVYC-es'
 tags: [ 'camiseta', ]

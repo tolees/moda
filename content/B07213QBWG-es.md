@@ -5,7 +5,7 @@ date: 2020-03-10 20:01:57
 image: 'https://m.media-amazon.com/images/I/41yJIDToH3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07213QBWG-es MYCARBON Cintura Fanny Pack Riñoneras Deportivas Cinturón...'
 sku: 'B07213QBWG-es'
 tags: [ 'bolso', ]

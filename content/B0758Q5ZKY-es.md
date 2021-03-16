@@ -5,7 +5,7 @@ date: 2020-04-06 08:03:37
 image: 'https://m.media-amazon.com/images/I/41-GhrUDBJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758Q5ZKY-es Clarks Lafley Rosen Sandalias de Talón Abierto para Mujer...'
 sku: 'B0758Q5ZKY-es'
 tags: [ 'sandalias', ]

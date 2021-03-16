@@ -5,7 +5,7 @@ date: 2020-02-04 17:13:46
 image: 'https://m.media-amazon.com/images/I/41cP-hzrbLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMPR1V-es Levi s Down Dehon Pkbl Puffer Chaqueta Negro Mineral Black...'
 sku: 'B07RYMPR1V-es'
 tags: [ 'chaqueta', ]

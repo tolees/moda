@@ -5,7 +5,7 @@ date: 2020-02-27 16:55:19
 image: 'https://m.media-amazon.com/images/I/41X4vwF0HbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4LLRD3-es Esprit 089ee1k031 Camiseta Negro Black 001 Small para Mujer'
 sku: 'B07S4LLRD3-es'
 tags: [ 'camiseta', ]

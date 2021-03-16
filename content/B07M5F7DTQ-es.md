@@ -5,7 +5,7 @@ date: 2020-04-06 15:47:35
 image: 'https://m.media-amazon.com/images/I/41Sq1kpxvmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F7DTQ-es Wrangler Greensboro Vaqueros Azul Gin Fuzz 77h 38W / 32L...'
 sku: 'B07M5F7DTQ-es'
 tags: [ 'vaqueros', ]

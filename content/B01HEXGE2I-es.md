@@ -5,7 +5,7 @@ date: 2020-08-10 08:01:34
 image: 'https://m.media-amazon.com/images/I/41FDmeB9f-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEXGE2I-es Crocs Classic Clog K Zuecos Unisex Niños Rojo Pepper 27/28 EU'
 sku: 'B01HEXGE2I-es'
 tags: [ 'zuecos', ]

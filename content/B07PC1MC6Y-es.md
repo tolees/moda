@@ -5,7 +5,7 @@ date: 2020-08-04 19:03:50
 image: 'https://m.media-amazon.com/images/I/31ujrm9-aGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PC1MC6Y-es Bose Frames - Gafas de sol con altavoces Alto M/L color negro'
 sku: 'B07PC1MC6Y-es'
 tags: [ 'gafas', ]

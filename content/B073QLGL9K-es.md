@@ -5,7 +5,7 @@ date: 2020-02-27 08:16:03
 image: 'https://m.media-amazon.com/images/I/41saUx8VIVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QLGL9K-es Activewear Sudadera Técnica con Capucha Hombre Rojo Sport...'
 sku: 'B073QLGL9K-es'
 tags: [ 'sudadera', ]

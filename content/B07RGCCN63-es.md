@@ -5,7 +5,7 @@ date: 2020-05-14 09:00:15
 image: 'https://m.media-amazon.com/images/I/41rc7xj7SrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGCCN63-es Tommy Hilfiger Corp Bar tee Camiseta Deporte Gris Grey P9x...'
 sku: 'B07RGCCN63-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 20:23:00
 image: 'https://m.media-amazon.com/images/I/21XCFmBI8IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBFTWYP-es Vans Colorblock tee Camiseta Morado Dark Purple/White Ypj...'
 sku: 'B07YBFTWYP-es'
 tags: [ 'camiseta', ]

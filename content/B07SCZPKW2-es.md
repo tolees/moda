@@ -5,7 +5,7 @@ date: 2020-08-08 09:48:57
 image: 'https://m.media-amazon.com/images/I/31eWAHXjZfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCZPKW2-es Crocs Literide Stretch Sandal Women Sandalias de Punta...'
 sku: 'B07SCZPKW2-es'
 tags: [ 'sandalias', ]

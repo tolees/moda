@@ -5,7 +5,7 @@ date: 2020-05-08 08:38:07
 image: 'https://m.media-amazon.com/images/I/4169c8djiwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C61HMP3-es JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera Verde...'
 sku: 'B07C61HMP3-es'
 tags: [ 'sudadera', ]

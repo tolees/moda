@@ -5,7 +5,7 @@ date: 2020-03-14 03:13:33
 image: 'https://m.media-amazon.com/images/I/41l9+ciqyBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ4G2L2-es G-STAR RAW Firn Camiseta Multicolor Milk/Imperial Blue...'
 sku: 'B07JJ4G2L2-es'
 tags: [ 'camiseta', ]

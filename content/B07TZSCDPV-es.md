@@ -5,7 +5,7 @@ date: 2020-07-29 16:53:27
 image: 'https://m.media-amazon.com/images/I/41WBVgr9c1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZSCDPV-es Wrangler Icons Vaqueros Azul Light Trace 13U 33W / 32L...'
 sku: 'B07TZSCDPV-es'
 tags: [ 'vaqueros', ]

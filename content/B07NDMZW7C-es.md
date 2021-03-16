@@ -5,7 +5,7 @@ date: 2020-03-10 11:03:43
 image: 'https://m.media-amazon.com/images/I/41AIqHEBGwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMZW7C-es G-STAR RAW Joosa V-Neck Camiseta Rojo Port Red 4608 40...'
 sku: 'B07NDMZW7C-es'
 tags: [ 'camiseta', ]

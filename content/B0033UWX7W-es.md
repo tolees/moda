@@ -5,7 +5,7 @@ date: 2020-06-27 23:57:03
 image: 'https://m.media-amazon.com/images/I/41nWb0B4HoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0033UWX7W-es Lee Brooklyn Comfort Vaqueros Rectos para Hombre Azul Dark...'
 sku: 'B0033UWX7W-es'
 tags: [ 'vaqueros', ]

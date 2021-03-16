@@ -5,7 +5,7 @@ date: 2020-09-19 02:07:04
 image: 'https://m.media-amazon.com/images/I/41jozfR9+LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ZIPKEY-es Helly Hansen Driftline Camiseta Tipo Polo de Manga Corta...'
 sku: 'B004ZIPKEY-es'
 tags: [ 'camiseta', ]

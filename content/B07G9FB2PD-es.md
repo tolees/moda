@@ -5,7 +5,7 @@ date: 2020-06-01 09:36:49
 image: 'https://m.media-amazon.com/images/I/41kEZUp-CaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9FB2PD-es Joma Academy Camiseta Termica Hombre Rojo L-XL'
 sku: 'B07G9FB2PD-es'
 tags: [ 'camiseta', ]

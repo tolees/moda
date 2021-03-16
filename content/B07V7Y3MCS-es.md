@@ -5,7 +5,7 @@ date: 2020-07-02 17:38:41
 image: 'https://m.media-amazon.com/images/I/31dBi0UJSWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7Y3MCS-es Billabong All Day Theme Chanclas para Hombre Negro...'
 sku: 'B07V7Y3MCS-es'
 tags: [ 'chanclas', ]

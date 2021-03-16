@@ -5,7 +5,7 @@ date: 2020-02-08 17:20:43
 image: 'https://m.media-amazon.com/images/I/41yjirVPaPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBP3DXF-es Helly Hansen Urban Largo Parka Chaqueta De Invierno Hombre...'
 sku: 'B07LBP3DXF-es'
 tags: [ 'chaqueta','parka', ]

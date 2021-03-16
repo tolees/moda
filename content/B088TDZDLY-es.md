@@ -5,7 +5,7 @@ date: 2020-08-22 14:31:24
 image: 'https://m.media-amazon.com/images/I/416+iYlj7sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TDZDLY-es Gafas de Protección Gafas Protectoras para Depilación...'
 sku: 'B088TDZDLY-es'
 tags: [ 'bikini','gafas', ]

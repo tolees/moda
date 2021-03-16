@@ -5,7 +5,7 @@ date: 2020-01-25 18:41:05
 image: 'https://m.media-amazon.com/images/I/51Z4DCS0OfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6SPPL1-es U+U 2019 Version Bolso bandolera de piel con bloqueo RFID...'
 sku: 'B07R6SPPL1-es'
 tags: [ 'bolso', ]

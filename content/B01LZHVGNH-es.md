@@ -5,7 +5,7 @@ date: 2020-06-13 16:51:02
 image: 'https://m.media-amazon.com/images/I/415gWOquOnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZHVGNH-es Helly Hansen Dubliner Jacket Chaqueta Deportiva Hombre...'
 sku: 'B01LZHVGNH-es'
 tags: [ 'chaqueta', ]

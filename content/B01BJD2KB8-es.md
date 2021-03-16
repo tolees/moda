@@ -5,7 +5,7 @@ date: 2020-07-22 06:35:36
 image: 'https://m.media-amazon.com/images/I/41j0ruQg8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BJD2KB8-es Just Cool - Camiseta lisa para hombre Primavera-Verano...'
 sku: 'B01BJD2KB8-es'
 tags: [ 'camiseta', ]

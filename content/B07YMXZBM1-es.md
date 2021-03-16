@@ -5,7 +5,7 @@ date: 2020-09-04 07:59:58
 image: 'https://m.media-amazon.com/images/I/416wG2FwYNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YMXZBM1-es Hurley M One&Only Solid tee Camiseta Hombre Camelia L'
 sku: 'B07YMXZBM1-es'
 tags: [ 'camiseta', ]

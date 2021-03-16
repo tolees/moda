@@ -5,7 +5,7 @@ date: 2020-01-07 15:12:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/315d4soLayL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NFBFNJ-es Nike Dry Academy Crew Camiseta Niños Negro Black M'
 sku: 'B079NFBFNJ-es'
 tags: [ 'camiseta', ]

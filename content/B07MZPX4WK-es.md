@@ -5,7 +5,7 @@ date: 2020-04-05 12:02:48
 image: 'https://m.media-amazon.com/images/I/51PNgSFcu9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPX4WK-es Pepe Jeans Catrina Blusa Multi 0aa Medium para Mujer'
 sku: 'B07MZPX4WK-es'
 tags: [ 'blusa', ]

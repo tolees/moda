@@ -5,7 +5,7 @@ date: 2020-01-08 12:35:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KIm5nhNsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR7XDFY-es Clarks Un Costa Lace Zapatos de Cordones Derby para Hombre...'
 sku: 'B07KR7XDFY-es'
 tags: [ 'zapatos', ]

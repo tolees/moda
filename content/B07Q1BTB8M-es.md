@@ -5,7 +5,7 @@ date: 2020-09-02 04:16:59
 image: 'https://m.media-amazon.com/images/I/41vYzKx9xzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1BTB8M-es AOQUSSQOA Mujer Traje de Baño de Una Pieza Retro Monokinis...'
 sku: 'B07Q1BTB8M-es'
 tags: [ 'moda', ]

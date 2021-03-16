@@ -5,7 +5,7 @@ date: 2020-05-02 14:23:27
 image: 'https://m.media-amazon.com/images/I/41D0FmJKz8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMS7VZS-es HUGO Elisha01 Camisa Rojo Medium Red 615 XX-Large Talla...'
 sku: 'B07PMS7VZS-es'
 tags: [ 'camisa', ]

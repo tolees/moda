@@ -5,7 +5,7 @@ date: 2020-01-13 09:43:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31nvqDfoAtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GQIY0E6-es Reef Contoured Cushion Chanclas para Hombre Negro Black...'
 sku: 'B01GQIY0E6-es'
 tags: [ 'chanclas', ]

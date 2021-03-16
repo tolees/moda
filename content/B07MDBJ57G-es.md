@@ -5,7 +5,7 @@ date: 2020-02-05 10:17:55
 image: 'https://m.media-amazon.com/images/I/41AeQglJ8wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDBJ57G-es G-STAR RAW Revend Skinny Vaqueros Medium Aged Ripped...'
 sku: 'B07MDBJ57G-es'
 tags: [ 'vaqueros', ]

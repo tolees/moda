@@ -5,7 +5,7 @@ date: 2020-01-05 20:00:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fIY6nPxoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2NRVHJ-es AURIQUE Half Zip Sports Chaqueta Rojo Port Royale 40 Talla...'
 sku: 'B07G2NRVHJ-es'
 tags: [ 'aurique','chaqueta', ]

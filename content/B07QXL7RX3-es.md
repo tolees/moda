@@ -5,7 +5,7 @@ date: 2020-04-10 20:41:00
 image: 'https://m.media-amazon.com/images/I/41NtkB5LMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXL7RX3-es Under Armour Forefront Rain Chaqueta Hombre Azul SM'
 sku: 'B07QXL7RX3-es'
 tags: [ 'chaqueta', ]

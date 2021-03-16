@@ -5,7 +5,7 @@ date: 2020-01-03 09:10:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BE3REvlwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBN77MJ-es Helly Hansen HH Logo Crew Sudadera Deportiva Mujer...'
 sku: 'B07LBN77MJ-es'
 tags: [ 'sudadera', ]

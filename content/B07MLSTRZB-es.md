@@ -5,7 +5,7 @@ date: 2020-05-06 16:29:25
 image: 'https://m.media-amazon.com/images/I/31rEpIqLlfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLSTRZB-es Clarks Cotrell Stride Zapatos de Cordones Derby para...'
 sku: 'B07MLSTRZB-es'
 tags: [ 'zapatos', ]

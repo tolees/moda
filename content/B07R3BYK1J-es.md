@@ -5,7 +5,7 @@ date: 2020-08-01 11:26:28
 image: 'https://m.media-amazon.com/images/I/31ofgFwokoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3BYK1J-es adidas Real Madrid 2019/2020 Camiseta Hombre Blanco 1ª...'
 sku: 'B07R3BYK1J-es'
 tags: [ 'camiseta', ]

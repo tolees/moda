@@ -5,7 +5,7 @@ date: 2020-02-01 01:34:48
 image: 'https://m.media-amazon.com/images/I/41EvFcXzDGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5DG3XL-es Lee V Neck tee Camiseta Verde DK Bottle Green BB Medium...'
 sku: 'B07M5DG3XL-es'
 tags: [ 'camiseta', ]

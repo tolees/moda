@@ -5,7 +5,7 @@ date: 2020-03-09 05:47:45
 image: 'https://m.media-amazon.com/images/I/41tF31nRYjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHF566K-es Helly Hansen Verglas Light Chaqueta De Pluma con Capucha...'
 sku: 'B07FHF566K-es'
 tags: [ 'chaqueta', ]

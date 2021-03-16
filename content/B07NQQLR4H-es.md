@@ -5,7 +5,7 @@ date: 2020-09-28 21:11:56
 image: 'https://m.media-amazon.com/images/I/31IuswS0CBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQQLR4H-es Marca Amazon - find. Chaqueta Hombre Negro Black S Label: S'
 sku: 'B07NQQLR4H-es'
 tags: [ '-','chaqueta','find.', ]

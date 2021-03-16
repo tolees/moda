@@ -5,7 +5,7 @@ date: 2020-02-10 12:49:55
 image: 'https://m.media-amazon.com/images/I/41kvuPHWWtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLP4TB-es Napapijri Rainforest Winter 1 Chaqueta Rojo High Risk Red...'
 sku: 'B07MMLP4TB-es'
 tags: [ 'chaqueta', ]

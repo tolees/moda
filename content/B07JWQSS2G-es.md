@@ -5,7 +5,7 @@ date: 2020-04-07 21:20:14
 image: 'https://m.media-amazon.com/images/I/418yNSY+GKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWQSS2G-es Pepe Jeans Cash Pm200124 Vaqueros Straight Wiser Wash Dark...'
 sku: 'B07JWQSS2G-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-07-01 11:32:19
 image: 'https://m.media-amazon.com/images/I/41asuHEjVTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3X35FF-es DORRISO Linda Niños Sombrero y Bufanda Guantes Otoño...'
 sku: 'B07J3X35FF-es'
 tags: [ 'guantes', ]

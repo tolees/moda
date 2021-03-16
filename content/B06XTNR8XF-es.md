@@ -5,7 +5,7 @@ date: 2020-09-07 08:44:39
 image: 'https://m.media-amazon.com/images/I/41k-7ouHCYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XTNR8XF-es Pepe Jeans Zip Thru Sudadera con Capucha para Hombre Gris...'
 sku: 'B06XTNR8XF-es'
 tags: [ 'sudadera', ]

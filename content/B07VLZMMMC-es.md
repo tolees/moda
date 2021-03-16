@@ -5,7 +5,7 @@ date: 2020-03-17 20:29:16
 image: 'https://m.media-amazon.com/images/I/41aQuyY1Z5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLZMMMC-es Vero Moda Vmeva HR Loose Paperbag Check Pant Noos...'
 sku: 'B07VLZMMMC-es'
 tags: [ 'moda', ]

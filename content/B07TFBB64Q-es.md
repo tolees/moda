@@ -5,7 +5,7 @@ date: 2020-09-01 04:29:18
 image: 'https://m.media-amazon.com/images/I/31lZCXoI7iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFBB64Q-es Lacoste EF5473 Vestido Azul Marine 34 para Mujer'
 sku: 'B07TFBB64Q-es'
 tags: [ 'vestido', ]

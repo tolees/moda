@@ -5,7 +5,7 @@ date: 2020-05-01 17:24:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419zYg0DsjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Z62GNX-es HIKARO Chaleco de Plumas con Capucha Hombre Rojo Burgundy...'
 sku: 'B077Z62GNX-es'
 tags: [ 'chaleco', ]

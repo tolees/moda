@@ -5,7 +5,7 @@ date: 2020-02-25 17:54:18
 image: 'https://m.media-amazon.com/images/I/41qA3oS93AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DL7QZQQ-es Element Cornell Classic Ho Sudadera con Capucha Hombre...'
 sku: 'B07DL7QZQQ-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-03-25 16:38:01
 image: 'https://m.media-amazon.com/images/I/417kbITTQrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ5GPYQ-es Springfield 4.1.Liuc.Mickey Leopardo Camiseta Multicolor...'
 sku: 'B07NJ5GPYQ-es'
 tags: [ 'camiseta', ]

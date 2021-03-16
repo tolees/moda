@@ -5,7 +5,7 @@ date: 2020-07-01 21:54:38
 image: 'https://m.media-amazon.com/images/I/319BeqpYLfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W3Q4Q1Q-es TOUS Dorp Monedero Women s U'
 sku: 'B07W3Q4Q1Q-es'
 tags: [ 'monedero', ]

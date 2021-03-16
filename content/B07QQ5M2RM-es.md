@@ -5,7 +5,7 @@ date: 2020-06-28 14:28:09
 image: 'https://m.media-amazon.com/images/I/41TSKvbs4KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQ5M2RM-es Marca Amazon - IRIS & LILLY Pijama de Modal Mujer Rojo...'
 sku: 'B07QQ5M2RM-es'
 tags: [ '&','iris','lilly','pijama', ]

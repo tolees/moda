@@ -5,7 +5,7 @@ date: 2020-01-22 11:56:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WS8xug1HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UG4MVMA-es Charles Wilson Camiseta Polo Clásica Lisa Small Teal'
 sku: 'B00UG4MVMA-es'
 tags: [ 'camiseta', ]

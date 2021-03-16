@@ -5,7 +5,7 @@ date: 2020-04-11 11:17:41
 image: 'https://m.media-amazon.com/images/I/41vjr5nGQSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SMCPWN-es Desigual TS Vicent Camiseta Azul Navy 5000 S para Mujer'
 sku: 'B079SMCPWN-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-03-03 06:53:52
 image: 'https://m.media-amazon.com/images/I/4127nYnGHiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RQ1YF2-es Helly Hansen W Crew Chaqueta Deportiva Mujer Negro Negro...'
 sku: 'B073RQ1YF2-es'
 tags: [ 'chaqueta', ]

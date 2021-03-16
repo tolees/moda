@@ -5,7 +5,7 @@ date: 2020-07-08 16:39:23
 image: 'https://m.media-amazon.com/images/I/41XB5uc9n+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPW2LXW-es Superdry VL O Crew Sudadera Gris Grey Marl 07q XS para Hombre'
 sku: 'B07TPW2LXW-es'
 tags: [ 'sudadera', ]

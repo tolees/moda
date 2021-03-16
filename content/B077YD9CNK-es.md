@@ -5,7 +5,7 @@ date: 2020-05-25 19:38:02
 image: 'https://m.media-amazon.com/images/I/41TU3luOCpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YD9CNK-es HIKARO Sudadera con Capucha Hombre Gris Charcoal Marl 48...'
 sku: 'B077YD9CNK-es'
 tags: [ 'sudadera', ]

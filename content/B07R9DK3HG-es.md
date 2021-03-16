@@ -5,7 +5,7 @@ date: 2020-01-23 19:43:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QXjSDh4lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9DK3HG-es Helly Hansen Aden Chaqueta De Pluma Impermeable Parka con...'
 sku: 'B07R9DK3HG-es'
 tags: [ 'chaqueta','parka', ]

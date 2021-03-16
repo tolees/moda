@@ -5,7 +5,7 @@ date: 2020-04-01 20:41:57
 image: 'https://m.media-amazon.com/images/I/412z6HA9doL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQTQDX3-es Springfield Frq Stripes Kodak Gg12 Jersey Azul Blue 11...'
 sku: 'B07NQTQDX3-es'
 tags: [ 'jersey', ]

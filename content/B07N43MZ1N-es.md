@@ -5,7 +5,7 @@ date: 2020-03-21 10:43:58
 image: 'https://m.media-amazon.com/images/I/416EkfdAO7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N43MZ1N-es Tommy Hilfiger Tommy Hooded Parka Chaqueta Jet Black Base...'
 sku: 'B07N43MZ1N-es'
 tags: [ 'chaqueta','parka', ]

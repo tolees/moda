@@ -5,7 +5,7 @@ date: 2020-04-19 12:04:28
 image: 'https://m.media-amazon.com/images/I/31WwvooqiYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY7CKBJ-es Superdry Vintage Logo Linear LS tee Camisa Manga Larga...'
 sku: 'B07NY7CKBJ-es'
 tags: [ 'camisa', ]

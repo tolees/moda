@@ -5,7 +5,7 @@ date: 2020-04-01 07:06:52
 image: 'https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF33V9K-es Levi s 502 Regular Taper Vaqueros Azul Baltic Adapt 0472...'
 sku: 'B07KF33V9K-es'
 tags: [ 'vaqueros', ]

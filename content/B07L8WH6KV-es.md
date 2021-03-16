@@ -5,7 +5,7 @@ date: 2020-04-08 09:43:33
 image: 'https://m.media-amazon.com/images/I/41i+xdhLomL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8WH6KV-es REPLAY Anbass Vaqueros Slim Azul Dark Blue 7 W34/L32 Talla...'
 sku: 'B07L8WH6KV-es'
 tags: [ 'vaqueros', ]

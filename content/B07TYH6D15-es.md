@@ -5,7 +5,7 @@ date: 2020-09-14 19:29:45
 image: 'https://m.media-amazon.com/images/I/418teEbww6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYH6D15-es Levi s LS Original Hm tee Camiseta Negro Black 0009...'
 sku: 'B07TYH6D15-es'
 tags: [ 'camiseta', ]

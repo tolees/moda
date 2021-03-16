@@ -5,7 +5,7 @@ date: 2020-05-10 10:17:37
 image: 'https://m.media-amazon.com/images/I/31AqeKPX9HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KHTOY3S-es Under Armour UA Heatgear Armour Sleeveless Camiseta Sin...'
 sku: 'B00KHTOY3S-es'
 tags: [ 'camiseta', ]

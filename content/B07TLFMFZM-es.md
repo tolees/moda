@@ -5,7 +5,7 @@ date: 2020-06-18 17:55:46
 image: 'https://m.media-amazon.com/images/I/410pxI+HUYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLFMFZM-es Levi s Housemark Graphic tee Camiseta Verde Hm Ssnl Emb...'
 sku: 'B07TLFMFZM-es'
 tags: [ 'camiseta', ]

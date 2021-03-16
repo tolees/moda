@@ -5,7 +5,7 @@ date: 2020-06-08 18:25:30
 image: 'https://m.media-amazon.com/images/I/41JhO48YNYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDKQ33L-es Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha...'
 sku: 'B07WDKQ33L-es'
 tags: [ 'sudadera', ]

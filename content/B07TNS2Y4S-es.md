@@ -5,7 +5,7 @@ date: 2020-08-08 08:33:44
 image: 'https://m.media-amazon.com/images/I/41lF16DvMpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNS2Y4S-es Superdry VL Fade T Shirt Store tee Camiseta Blanco Optic...'
 sku: 'B07TNS2Y4S-es'
 tags: [ 'camiseta', ]

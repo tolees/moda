@@ -5,7 +5,7 @@ date: 2020-06-25 08:56:37
 image: 'https://m.media-amazon.com/images/I/419OKLd29XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4SNPY5-es New Balance 373 Hook and Loop n Zapatilla Clásica para...'
 sku: 'B07S4SNPY5-es'
 tags: [ 'zapatilla', ]

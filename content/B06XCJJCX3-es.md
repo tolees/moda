@@ -5,7 +5,7 @@ date: 2020-06-05 17:32:41
 image: 'https://m.media-amazon.com/images/I/41gmcTSbJ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCJJCX3-es G-STAR RAW 3301 Deconstructed Skinny Vaqueros Medium...'
 sku: 'B06XCJJCX3-es'
 tags: [ 'vaqueros', ]

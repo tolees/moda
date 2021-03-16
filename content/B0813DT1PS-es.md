@@ -5,7 +5,7 @@ date: 2020-06-26 16:48:12
 image: 'https://m.media-amazon.com/images/I/41-DGjCxnaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813DT1PS-es Marca Amazon - TRUTH & FABLE Vestido Mujer Estampado...'
 sku: 'B0813DT1PS-es'
 tags: [ 'vestido', ]

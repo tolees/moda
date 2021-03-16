@@ -5,7 +5,7 @@ date: 2020-08-09 03:53:09
 image: 'https://m.media-amazon.com/images/I/417iENoDsTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG16PT3-es Geox U KEELBACK B ABX A Zapatillas para Hombre Azul Navy...'
 sku: 'B07LG16PT3-es'
 tags: [ 'geox', ]

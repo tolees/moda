@@ -5,7 +5,7 @@ date: 2020-03-30 19:56:19
 image: 'https://m.media-amazon.com/images/I/41EYhN-BZEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFC66XB-es Tommy Hilfiger Top Essential with V-Neck Camiseta de Manga...'
 sku: 'B07NFC66XB-es'
 tags: [ 'camiseta', ]

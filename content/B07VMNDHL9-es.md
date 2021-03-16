@@ -5,7 +5,7 @@ date: 2020-08-29 11:42:10
 image: 'https://m.media-amazon.com/images/I/41AFqWR0CDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMNDHL9-es Calvin Klein Braguita de Bikini Azul Maldives 3EK Talla...'
 sku: 'B07VMNDHL9-es'
 tags: [ 'bikini', ]

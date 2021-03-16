@@ -5,7 +5,7 @@ date: 2020-01-16 11:01:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DH3Bs8iLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NGYM2R-es find. Sudadera Mujer Verde Green 36 Talla del fabricante:...'
 sku: 'B077NGYM2R-es'
 tags: [ 'sudadera', ]

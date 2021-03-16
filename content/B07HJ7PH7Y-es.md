@@ -5,7 +5,7 @@ date: 2020-01-19 11:53:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Urqe007YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJ7PH7Y-es LEABAGS Acapulco Bolso Bandolera de auténtico Cuero búfalo...'
 sku: 'B07HJ7PH7Y-es'
 tags: [ 'bolso', ]

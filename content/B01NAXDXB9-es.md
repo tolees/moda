@@ -5,7 +5,7 @@ date: 2020-04-10 20:17:55
 image: 'https://m.media-amazon.com/images/I/41BaxJ8oPAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAXDXB9-es Bolso de mano Pepe Jeans Porto Camel'
 sku: 'B01NAXDXB9-es'
 tags: [ 'bolso', ]

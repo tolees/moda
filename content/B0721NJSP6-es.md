@@ -5,7 +5,7 @@ date: 2020-01-14 20:23:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NvCi5mzVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721NJSP6-es Columbia Chaqueta Impermeable para Mujer Largo Medio...'
 sku: 'B0721NJSP6-es'
 tags: [ 'chaqueta', ]

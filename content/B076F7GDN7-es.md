@@ -5,7 +5,7 @@ date: 2020-01-13 17:22:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51N0VH-LzdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076F7GDN7-es RED WAGON Vestido Manga Larga Niñas Multicolor...'
 sku: 'B076F7GDN7-es'
 tags: [ 'vestido', ]

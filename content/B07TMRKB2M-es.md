@@ -5,7 +5,7 @@ date: 2020-08-30 02:40:11
 image: 'https://m.media-amazon.com/images/I/31RgIbHDUYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMRKB2M-es Clarks Un Karely Sun Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TMRKB2M-es'
 tags: [ 'sandalias', ]

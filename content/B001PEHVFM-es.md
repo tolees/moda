@@ -5,7 +5,7 @@ date: 2020-06-14 21:06:32
 image: 'https://m.media-amazon.com/images/I/41vjcKGrPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001PEHVFM-es adidas Adilette Zapatos de playa y piscina Unisex adulto...'
 sku: 'B001PEHVFM-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-09-09 23:53:41
 image: 'https://m.media-amazon.com/images/I/41aZgto7OmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XBZ7SYJ-es Clarks Tilden Walk Zapatos de Cordones Derby Marrón Dark...'
 sku: 'B06XBZ7SYJ-es'
 tags: [ 'zapatos', ]

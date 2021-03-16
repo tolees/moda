@@ -5,7 +5,7 @@ date: 2020-02-18 15:09:54
 image: 'https://m.media-amazon.com/images/I/31uczkB98yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X3JJJ8Y-es G-Star 60885 Vaqueros para Mujer Azul Medium Aged 6131...'
 sku: 'B00X3JJJ8Y-es'
 tags: [ 'vaqueros', ]

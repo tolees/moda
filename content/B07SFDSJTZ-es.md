@@ -5,7 +5,7 @@ date: 2020-03-20 19:06:17
 image: 'https://m.media-amazon.com/images/I/41qgKo9TfYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFDSJTZ-es Camiseta Tirantes sin Mangas de Deporte para Mujer Verano...'
 sku: 'B07SFDSJTZ-es'
 tags: [ 'camiseta','chaleco','pijama', ]

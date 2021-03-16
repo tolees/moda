@@ -5,7 +5,7 @@ date: 2020-07-01 17:51:50
 image: 'https://m.media-amazon.com/images/I/31kIqeEYACL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVKP6YH-es Wrangler Larston Vaqueros Dusty Olive 28W / 32L para Hombre'
 sku: 'B07TVKP6YH-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-06-18 22:28:11
 image: 'https://m.media-amazon.com/images/I/41gG+nLJVhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KK7FNF-es Adidas Adilette Shower Chanclas Hombre Rojo...'
 sku: 'B072KK7FNF-es'
 tags: [ 'chanclas', ]

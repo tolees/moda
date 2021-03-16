@@ -5,7 +5,7 @@ date: 2020-02-11 22:41:18
 image: 'https://m.media-amazon.com/images/I/41nbdnTq-yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDP6SFL-es G-STAR RAW Graphic 9 Slim Round Neck Camiseta Blanco White...'
 sku: 'B07NDP6SFL-es'
 tags: [ 'camiseta', ]

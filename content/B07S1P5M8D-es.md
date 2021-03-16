@@ -5,7 +5,7 @@ date: 2020-06-24 08:04:20
 image: 'https://m.media-amazon.com/images/I/41H3hjS-E3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1P5M8D-es Levi s 511 Slim Fit Vaqueros Gris Cat Mask Cool 4110 32W /...'
 sku: 'B07S1P5M8D-es'
 tags: [ 'vaqueros', ]

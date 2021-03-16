@@ -5,7 +5,7 @@ date: 2020-01-09 14:39:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51q0gbfGpfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBLJVJ7-es coskefy Guantes Esquí Impermeable para Hombre y Mujer...'
 sku: 'B07XBLJVJ7-es'
 tags: [ 'guantes', ]

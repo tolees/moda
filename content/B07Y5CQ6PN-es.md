@@ -5,7 +5,7 @@ date: 2020-02-09 07:00:56
 image: 'https://m.media-amazon.com/images/I/41z75t5xdVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5CQ6PN-es Deevike Pantuflas Zapatillas Mujer Invierno CáLido Zapatos...'
 sku: 'B07Y5CQ6PN-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-05-17 10:09:40
 image: 'https://m.media-amazon.com/images/I/41Jb1XgiozL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RC4MPC-es ELEEMEE Mujer Moda Sandalias Tacón Alto Correa de Tobillo...'
 sku: 'B087RC4MPC-es'
 tags: [ 'moda','sandalias','vestido','zapatos', ]

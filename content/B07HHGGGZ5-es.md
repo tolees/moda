@@ -5,7 +5,7 @@ date: 2020-08-22 11:38:04
 image: 'https://m.media-amazon.com/images/I/31Qz55gOmlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHGGGZ5-es Camper Balloon Sandalias de Talón Abierto para Mujer Rojo...'
 sku: 'B07HHGGGZ5-es'
 tags: [ 'sandalias', ]

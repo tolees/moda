@@ -5,7 +5,7 @@ date: 2020-10-07 14:53:14
 image: 'https://m.media-amazon.com/images/I/41D+tYYXfzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RBWFP0K-es Millet Friction Zapatos de Escalada Unisex Adulto Gris...'
 sku: 'B00RBWFP0K-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-04-10 09:31:55
 image: 'https://m.media-amazon.com/images/I/41-APGe3cDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SKWJ9UM-es Lonsdale Caja de pantalón Corto para Hombre Pantalones de...'
 sku: 'B00SKWJ9UM-es'
 tags: [ 'pantalón', ]

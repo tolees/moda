@@ -5,7 +5,7 @@ date: 2020-06-24 18:12:41
 image: 'https://m.media-amazon.com/images/I/31ixkBczi9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPTWKW-es G-STAR RAW Stalt Button Down Pocket Straight Camisa...'
 sku: 'B07NDPTWKW-es'
 tags: [ 'camisa', ]

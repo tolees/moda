@@ -5,7 +5,7 @@ date: 2020-04-08 06:06:13
 image: 'https://m.media-amazon.com/images/I/31ar6eHmoEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BTRXXSY-es Porsche Design Sonnenbrille P8486 A 71 0 130 Iconic Gafas...'
 sku: 'B00BTRXXSY-es'
 tags: [ 'gafas', ]

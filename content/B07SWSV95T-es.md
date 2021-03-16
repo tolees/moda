@@ -5,7 +5,7 @@ date: 2020-05-06 09:56:59
 image: 'https://m.media-amazon.com/images/I/41lOZ5XQMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWSV95T-es Geox J Buller Boy B Zapatillas para Niños Azul Navy/Grey...'
 sku: 'B07SWSV95T-es'
 tags: [ 'geox', ]

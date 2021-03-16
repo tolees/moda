@@ -5,7 +5,7 @@ date: 2020-05-13 23:54:04
 image: 'https://m.media-amazon.com/images/I/410vbzJM9KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT679WP-es Levi s 510 Vaqueros Skinny Azul Simple Tings 1050 W27/L32...'
 sku: 'B07TT679WP-es'
 tags: [ 'vaqueros', ]

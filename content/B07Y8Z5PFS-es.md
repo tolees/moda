@@ -5,7 +5,7 @@ date: 2020-06-21 09:05:47
 image: 'https://m.media-amazon.com/images/I/51PD7yfbv8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8Z5PFS-es XTI 86290.0 Bolso bandolera para Mujer Negro Negro 22x22x7...'
 sku: 'B07Y8Z5PFS-es'
 tags: [ 'bolso', ]

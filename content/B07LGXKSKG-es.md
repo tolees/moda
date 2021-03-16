@@ -5,7 +5,7 @@ date: 2020-03-17 20:58:25
 image: 'https://m.media-amazon.com/images/I/413bwCA-ddL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGXKSKG-es The North Face Quest Print Jacket Chaqueta Estampada para...'
 sku: 'B07LGXKSKG-es'
 tags: [ 'chaqueta', ]

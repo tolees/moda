@@ -5,7 +5,7 @@ date: 2020-01-01 16:52:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xZUt03G1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBB5SLQ-es Pepe Jeans Regent Vaqueros Blanco Denim D76 27W / 32L para...'
 sku: 'B01NBB5SLQ-es'
 tags: [ 'vaqueros', ]

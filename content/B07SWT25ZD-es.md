@@ -5,7 +5,7 @@ date: 2020-08-12 20:33:14
 image: 'https://m.media-amazon.com/images/I/41RNUDfNK2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWT25ZD-es Geox Jr Sandal Kyle A Sandalias Punta Cerrada para Niños...'
 sku: 'B07SWT25ZD-es'
 tags: [ 'geox','sandalias', ]

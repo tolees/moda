@@ -5,7 +5,7 @@ date: 2020-09-27 11:57:08
 image: 'https://m.media-amazon.com/images/I/41JYUO3LI+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8VTHXQ-es Tommy Hilfiger Structured Slim Polo Camiseta Deporte Rojo...'
 sku: 'B07W8VTHXQ-es'
 tags: [ 'camiseta', ]

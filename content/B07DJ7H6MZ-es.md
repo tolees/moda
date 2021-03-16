@@ -5,7 +5,7 @@ date: 2020-07-15 00:20:59
 image: 'https://m.media-amazon.com/images/I/41aPfSEnHtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ7H6MZ-es Geox D New Annya Mid A Zapatos con Tacón para Mujer Negro...'
 sku: 'B07DJ7H6MZ-es'
 tags: [ 'geox','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-09-23 18:41:54
 image: 'https://m.media-amazon.com/images/I/41Aeqz4gyzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGPTFG-es Geox U Renan B Zapatillas para Hombre Gris Grey C1006 42 EU'
 sku: 'B07SQGPTFG-es'
 tags: [ 'geox', ]

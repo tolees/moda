@@ -5,7 +5,7 @@ date: 2020-10-09 19:11:26
 image: 'https://m.media-amazon.com/images/I/41sb1UPmE4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W35QBWV-es Pepe Jeans Edison Camiseta Verde Middle Green 631 Medium...'
 sku: 'B07W35QBWV-es'
 tags: [ 'camiseta', ]

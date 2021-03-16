@@ -5,7 +5,7 @@ date: 2020-02-01 13:05:27
 image: 'https://m.media-amazon.com/images/I/41jzvY9xiYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K35ZG7M-es BOSS Daruch Vestido Negro Black 001 Small para Mujer'
 sku: 'B07K35ZG7M-es'
 tags: [ 'vestido', ]

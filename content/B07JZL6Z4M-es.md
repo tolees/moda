@@ -5,7 +5,7 @@ date: 2020-05-10 06:50:39
 image: 'https://m.media-amazon.com/images/I/418xm798f+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZL6Z4M-es adidas Estro 19 JSY Camiseta de Manga Corta Niños Power Red M'
 sku: 'B07JZL6Z4M-es'
 tags: [ 'camiseta', ]

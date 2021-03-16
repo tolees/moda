@@ -5,7 +5,7 @@ date: 2020-09-27 07:27:58
 image: 'https://m.media-amazon.com/images/I/31RTeT4obyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HQRCTD-es adidas CORE18 tee Camiseta de Manga Corta Hombre Dark...'
 sku: 'B076HQRCTD-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-03-02 13:27:32
 image: 'https://m.media-amazon.com/images/I/41HUaH1EjaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V12WFTR-es Women s Secret Sense 1 Se1 Ruffle PJ Conjuntos de Pijama...'
 sku: 'B07V12WFTR-es'
 tags: [ 'pijama', ]

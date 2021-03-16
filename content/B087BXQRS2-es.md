@@ -5,7 +5,7 @@ date: 2020-05-06 14:04:34
 image: 'https://m.media-amazon.com/images/I/41OCiGj-WpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087BXQRS2-es TAONEEF Mujer Moda Stiletto Sandalias Correa de Tobillo...'
 sku: 'B087BXQRS2-es'
 tags: [ 'moda','sandalias','zapatos', ]

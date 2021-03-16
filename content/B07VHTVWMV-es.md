@@ -5,7 +5,7 @@ date: 2020-08-16 12:25:35
 image: 'https://m.media-amazon.com/images/I/41ope+RAESL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHTVWMV-es Desigual Vest Tennessee Vestido Azul Azul Agata 5026 48...'
 sku: 'B07VHTVWMV-es'
 tags: [ 'vestido', ]

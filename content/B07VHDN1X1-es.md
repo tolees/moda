@@ -5,7 +5,7 @@ date: 2020-07-24 10:33:36
 image: 'https://m.media-amazon.com/images/I/41lf8HSgZKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHDN1X1-es HKT by Hackett Hkt 3 SS tee Camiseta Verde 6fnspruce 6fn...'
 sku: 'B07VHDN1X1-es'
 tags: [ 'camiseta', ]

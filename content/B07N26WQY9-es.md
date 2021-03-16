@@ -5,7 +5,7 @@ date: 2020-02-01 02:39:59
 image: 'https://m.media-amazon.com/images/I/518aUhHafOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N26WQY9-es Quiksilver Molokai Wordmark-Flip-Flops for Men Zapatos de...'
 sku: 'B07N26WQY9-es'
 tags: [ 'zapatos', ]

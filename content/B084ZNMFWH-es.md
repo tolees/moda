@@ -5,7 +5,7 @@ date: 2020-05-12 08:02:46
 image: 'https://m.media-amazon.com/images/I/41JKanpaLwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZNMFWH-es Suhctup Funda Huawei P20 Pro Carcasa Patrón de Dibujos...'
 sku: 'B084ZNMFWH-es'
 tags: [ 'moda', ]

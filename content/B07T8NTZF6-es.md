@@ -5,7 +5,7 @@ date: 2020-03-11 09:11:10
 image: 'https://m.media-amazon.com/images/I/41oNQAkjIQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8NTZF6-es Gafas de Sol Mujer Gafas Gafas de Sol Mujer Polarizadas...'
 sku: 'B07T8NTZF6-es'
 tags: [ 'gafas','moda', ]

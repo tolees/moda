@@ -5,7 +5,7 @@ date: 2020-06-22 21:45:37
 image: 'https://m.media-amazon.com/images/I/41BlT3eFU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NJZZRP-es Marca Amazon - find. Camiseta Manga Corta con Textura...'
 sku: 'B077NJZZRP-es'
 tags: [ '-','camiseta','find.', ]

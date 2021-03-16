@@ -5,7 +5,7 @@ date: 2020-07-15 11:11:54
 image: 'https://m.media-amazon.com/images/I/31+oaA3LkSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084JR6DCV-es adidas Jg A Xfg WB Chaqueta Niñas Blanco/matama/Negro 152...'
 sku: 'B084JR6DCV-es'
 tags: [ 'chaqueta', ]

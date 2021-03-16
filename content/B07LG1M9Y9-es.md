@@ -5,7 +5,7 @@ date: 2020-01-27 12:58:40
 image: 'https://m.media-amazon.com/images/I/41TCJr5ZP-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG1M9Y9-es Geox B RISHON Girl A Zapatillas para Bebés Rosa Dk Rose...'
 sku: 'B07LG1M9Y9-es'
 tags: [ 'geox', ]

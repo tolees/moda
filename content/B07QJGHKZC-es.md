@@ -5,7 +5,7 @@ date: 2020-01-16 20:34:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31bhUzLxeML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJGHKZC-es Guess Analise Bolso de mano negro'
 sku: 'B07QJGHKZC-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-03-17 08:44:17
 image: 'https://m.media-amazon.com/images/I/41p2qLwzdwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDCJ1YC-es Desigual Wallet Rep Comunika Mini Zi Monedero para Mujer...'
 sku: 'B07NDCJ1YC-es'
 tags: [ 'monedero', ]

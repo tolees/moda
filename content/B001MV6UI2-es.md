@@ -5,7 +5,7 @@ date: 2020-04-13 17:19:22
 image: 'https://m.media-amazon.com/images/I/41FxV7-bSVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001MV6UI2-es El Naturalista Nd54 Sandalias Para Mujer Marrón Wood 40 EU...'
 sku: 'B001MV6UI2-es'
 tags: [ 'sandalias', ]

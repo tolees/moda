@@ -5,7 +5,7 @@ date: 2020-06-27 23:56:24
 image: 'https://m.media-amazon.com/images/I/41NKHe2d9vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLFJJSQ-es Antony Morato Jeans Slim Geezer Vaqueros Azul BLU Denim...'
 sku: 'B07VLFJJSQ-es'
 tags: [ 'vaqueros', ]

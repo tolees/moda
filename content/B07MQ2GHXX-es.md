@@ -5,7 +5,7 @@ date: 2020-10-07 19:55:35
 image: 'https://m.media-amazon.com/images/I/41ek--XQaGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2GHXX-es Clarks Ronnie Walk Zapatos de Cordones Derby Marrón...'
 sku: 'B07MQ2GHXX-es'
 tags: [ 'zapatos', ]

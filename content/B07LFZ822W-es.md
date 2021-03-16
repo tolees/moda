@@ -5,7 +5,7 @@ date: 2020-04-14 11:02:35
 image: 'https://m.media-amazon.com/images/I/417jZNSQFQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ822W-es Geox J INEK Boy C Zapatillas para Niños Negro Black/Orange...'
 sku: 'B07LFZ822W-es'
 tags: [ 'geox', ]

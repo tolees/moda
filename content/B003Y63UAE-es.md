@@ -5,7 +5,7 @@ date: 2020-03-08 16:03:00
 image: 'https://m.media-amazon.com/images/I/41T6FBXZdDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003Y63UAE-es Nike M Nk Dry Acdmy Top SS Camiseta de Manga Corta Hombre...'
 sku: 'B003Y63UAE-es'
 tags: [ 'camiseta', ]

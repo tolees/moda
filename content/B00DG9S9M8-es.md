@@ -5,7 +5,7 @@ date: 2020-07-23 13:40:41
 image: 'https://m.media-amazon.com/images/I/41r7UFdEWoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DG9S9M8-es Keen Newport H2 Sandalias de Senderismo Infantil Negro...'
 sku: 'B00DG9S9M8-es'
 tags: [ 'sandalias', ]

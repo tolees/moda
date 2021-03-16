@@ -5,7 +5,7 @@ date: 2020-06-07 11:01:49
 image: 'https://m.media-amazon.com/images/I/5114r0-R3TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833ZFQWB-es Collar Antiparasitos para Perros y Gatos contra Pulgas...'
 sku: 'B0833ZFQWB-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-01-02 08:51:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qpf7Ppl%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016Y7HYXI-es Luz Para Bolso Seguridad de Luz con Sensor de...'
 sku: 'B016Y7HYXI-es'
 tags: [ 'bolso', ]

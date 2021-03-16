@@ -5,7 +5,7 @@ date: 2020-06-27 19:59:39
 image: 'https://m.media-amazon.com/images/I/31h87N18hwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGNKR4-es Geox U Moner V Mocasines para Hombre Naranja Dk Yellow...'
 sku: 'B07SQGNKR4-es'
 tags: [ 'geox', ]

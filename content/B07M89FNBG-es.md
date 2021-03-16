@@ -5,7 +5,7 @@ date: 2020-09-27 15:45:22
 image: 'https://m.media-amazon.com/images/I/31-7rvoxCaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M89FNBG-es Lee Chino Corduroy Pantalón Negro Black 01 29W / 32L para...'
 sku: 'B07M89FNBG-es'
 tags: [ 'pantalón', ]

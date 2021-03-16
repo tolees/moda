@@ -5,7 +5,7 @@ date: 2020-02-11 11:34:00
 image: 'https://m.media-amazon.com/images/I/41YfKL0l9JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4CKQQK-es Tamaris 1-1-22444-23 Zapatos de Tacón para Mujer Rojo...'
 sku: 'B07L4CKQQK-es'
 tags: [ 'zapatos', ]

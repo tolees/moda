@@ -5,7 +5,7 @@ date: 2020-10-11 04:02:31
 image: 'https://m.media-amazon.com/images/I/41HpYwSgoYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G57CGK9-es find. 2 Pack Slim Shirt - Camisa Hombre Blau Bengal Blue /...'
 sku: 'B07G57CGK9-es'
 tags: [ 'camisa', ]

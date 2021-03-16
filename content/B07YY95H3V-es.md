@@ -5,7 +5,7 @@ date: 2020-02-13 14:35:48
 image: 'https://m.media-amazon.com/images/I/41H71LcW9gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY95H3V-es Guantes de Invierno para Smartphone Impermeables e...'
 sku: 'B07YY95H3V-es'
 tags: [ 'guantes', ]

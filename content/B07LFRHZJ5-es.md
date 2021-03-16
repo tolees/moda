@@ -5,7 +5,7 @@ date: 2020-03-07 14:38:23
 image: 'https://m.media-amazon.com/images/I/31CP4OvRwaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRHZJ5-es Geox D GLYNNA C Botines para Mujer Negro Black C9999 39.5 EU'
 sku: 'B07LFRHZJ5-es'
 tags: [ 'botines','geox', ]

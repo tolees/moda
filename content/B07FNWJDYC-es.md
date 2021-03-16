@@ -5,7 +5,7 @@ date: 2020-01-31 12:24:15
 image: 'https://m.media-amazon.com/images/I/413d6SsEiHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWJDYC-es JACK & JONES Jjiliam Jjoriginal JJ 104 50sps Noos Vaqueros...'
 sku: 'B07FNWJDYC-es'
 tags: [ 'vaqueros', ]

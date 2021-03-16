@@ -5,7 +5,7 @@ date: 2020-03-11 08:57:10
 image: 'https://m.media-amazon.com/images/I/41+Un745sAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3SPBJ1-es Desigual Dress Marian Vestido Color Blanco Crudo 1001 44...'
 sku: 'B07N3SPBJ1-es'
 tags: [ 'vestido', ]

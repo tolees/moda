@@ -5,7 +5,7 @@ date: 2020-05-27 09:26:08
 image: 'https://m.media-amazon.com/images/I/41W+p1RQm5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJT6R63-es Hanek Funda iPhone 7/8 Funda de móvil con cordón para...'
 sku: 'B07ZJT6R63-es'
 tags: [ 'bolso', ]

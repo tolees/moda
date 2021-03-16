@@ -5,7 +5,7 @@ date: 2020-06-16 13:02:04
 image: 'https://m.media-amazon.com/images/I/41rkcykiLgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000G1ZCII-es Timberland Classic 2 Eye Náuticos para Hombre Marrón...'
 sku: 'B000G1ZCII-es'
 tags: [ 'timberland', ]

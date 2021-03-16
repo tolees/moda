@@ -5,7 +5,7 @@ date: 2020-05-08 18:46:49
 image: 'https://m.media-amazon.com/images/I/41PivrbuQdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4YHLQB-es Vero Moda Vmsoraya SIV Aw19 Short Jacket Boos Chaqueta...'
 sku: 'B07S4YHLQB-es'
 tags: [ 'chaqueta','moda', ]

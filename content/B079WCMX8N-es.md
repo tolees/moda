@@ -5,7 +5,7 @@ date: 2020-04-09 18:31:13
 image: 'https://m.media-amazon.com/images/I/31KWF3B6aBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079WCMX8N-es Carrera 154/S Gafas de sol Negro BLACK 51 Unisex Adulto'
 sku: 'B079WCMX8N-es'
 tags: [ 'gafas', ]

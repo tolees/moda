@@ -5,7 +5,7 @@ date: 2020-01-05 22:53:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418hZ-nfD3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPRHP84-es Stenso Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de...'
 sku: 'B07NPRHP84-es'
 tags: [ 'chaleco','chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-03-14 14:19:59
 image: 'https://m.media-amazon.com/images/I/41wDUIjvAiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRJG3BM-es MessBebe Camiseta Mujer Jerseys Rayas Manga Larga Punto de...'
 sku: 'B07VRJG3BM-es'
 tags: [ 'camisa','camiseta', ]

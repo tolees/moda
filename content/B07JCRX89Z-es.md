@@ -5,7 +5,7 @@ date: 2020-05-28 17:18:41
 image: 'https://m.media-amazon.com/images/I/31I9OkKEuNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCRX89Z-es VERO MODA Vmverodona LS Jacket Noos Abrigo Rosado Mocha...'
 sku: 'B07JCRX89Z-es'
 tags: [ 'abrigo','moda', ]

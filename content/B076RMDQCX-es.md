@@ -5,7 +5,7 @@ date: 2020-09-10 21:24:30
 image: 'https://m.media-amazon.com/images/I/41KS77SWV6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076RMDQCX-es Natural Feelings Calzoncillos Boxer Bóxer Hombre Algodón...'
 sku: 'B076RMDQCX-es'
 tags: [ 'boxer','bóxer','moda', ]

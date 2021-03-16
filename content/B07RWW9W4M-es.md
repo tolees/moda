@@ -5,7 +5,7 @@ date: 2020-07-10 09:12:04
 image: 'https://m.media-amazon.com/images/I/51+qWbT5y0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWW9W4M-es WinCret Piel Carteras para Hombre con Monedero y RFID...'
 sku: 'B07RWW9W4M-es'
 tags: [ 'billetera','monedero', ]

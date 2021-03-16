@@ -5,7 +5,7 @@ date: 2020-10-10 18:56:01
 image: 'https://m.media-amazon.com/images/I/31bDAML5tfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M95FVRG-es Lee Elly Vaqueros Azul Clean Beaufort Jp W29/L31 para Mujer'
 sku: 'B07M95FVRG-es'
 tags: [ 'vaqueros', ]

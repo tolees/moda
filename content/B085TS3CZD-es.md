@@ -5,7 +5,7 @@ date: 2020-06-25 10:18:54
 image: 'https://m.media-amazon.com/images/I/51ZFo9mr4RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TS3CZD-es DOUBLE M Calzoncillos Boxer Ropa Interior De Algodón...'
 sku: 'B085TS3CZD-es'
 tags: [ 'boxer', ]

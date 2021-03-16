@@ -5,7 +5,7 @@ date: 2020-02-14 08:42:03
 image: 'https://m.media-amazon.com/images/I/41TWA3AQWUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772KHTXT-es MERAKI POETME003 Pantalones Cortos Azul Cashmere Blue W34'
 sku: 'B0772KHTXT-es'
 tags: [ 'meraki', ]

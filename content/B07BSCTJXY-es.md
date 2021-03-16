@@ -5,7 +5,7 @@ date: 2020-05-24 14:07:54
 image: 'https://m.media-amazon.com/images/I/41l-AP1V0rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSCTJXY-es SALOMON Driver s Casco de esquí y Snowboard con Visor para...'
 sku: 'B07BSCTJXY-es'
 tags: [ 'gafas', ]

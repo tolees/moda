@@ -5,7 +5,7 @@ date: 2020-08-23 23:46:09
 image: 'https://m.media-amazon.com/images/I/31X+SqUfaPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UFQTFX2-es Uvex Sportstyle 802 Small V Gafas Deportivas Unisex Adulto...'
 sku: 'B00UFQTFX2-es'
 tags: [ 'gafas', ]

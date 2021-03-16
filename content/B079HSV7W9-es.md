@@ -5,7 +5,7 @@ date: 2020-05-15 19:04:38
 image: 'https://m.media-amazon.com/images/I/411i7lVBP9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079HSV7W9-es MUOU Zapatillas Hombres Deporte Running Zapatos para...'
 sku: 'B079HSV7W9-es'
 tags: [ 'zapatos', ]

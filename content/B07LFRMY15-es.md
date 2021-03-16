@@ -5,7 +5,7 @@ date: 2020-06-17 15:38:58
 image: 'https://m.media-amazon.com/images/I/31iOm3M3vHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRMY15-es Geox U Wells A Zapatillas para Hombre Negro Black/Dk Jeans...'
 sku: 'B07LFRMY15-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-02-01 08:46:23
 image: 'https://m.media-amazon.com/images/I/31QiUhVPD+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLN2DV-es Napapijri Serber LS Camiseta Negro Black 041 S para Hombre'
 sku: 'B07MMLN2DV-es'
 tags: [ 'camiseta', ]

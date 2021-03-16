@@ -5,7 +5,7 @@ date: 2020-02-17 11:03:30
 image: 'https://m.media-amazon.com/images/I/41PJCUTCqeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4WGYN9-es JACK & JONES Jorexplore Parka Jacket STS Abrigos Hombre...'
 sku: 'B07X4WGYN9-es'
 tags: [ 'parka', ]

@@ -5,7 +5,7 @@ date: 2020-01-02 13:14:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31e%2BHFtcxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1SMBBN-es find. 13646 vestido fiesta mujer Negro Black 36 Talla del...'
 sku: 'B01N1SMBBN-es'
 tags: [ 'vestido', ]

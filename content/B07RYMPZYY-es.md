@@ -5,7 +5,7 @@ date: 2020-06-19 18:53:05
 image: 'https://m.media-amazon.com/images/I/418556TOzzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMPZYY-es Levi s LS Baby tee Camisa Manga Larga Multicolor Agnes...'
 sku: 'B07RYMPZYY-es'
 tags: [ 'camisa', ]

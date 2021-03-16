@@ -5,7 +5,7 @@ date: 2020-06-19 09:19:35
 image: 'https://m.media-amazon.com/images/I/31cKYXB8+tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQ5LQGM-es Levi s 724 High Rise Straight Vaqueros Negro Black Sheen...'
 sku: 'B07JQ5LQGM-es'
 tags: [ 'vaqueros', ]

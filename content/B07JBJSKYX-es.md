@@ -5,7 +5,7 @@ date: 2020-02-02 17:03:56
 image: 'https://m.media-amazon.com/images/I/41-T9s9hGFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBJSKYX-es Skechers Double Up Zapatos de tacón con Punta Cerrada para...'
 sku: 'B07JBJSKYX-es'
 tags: [ 'zapatos', ]

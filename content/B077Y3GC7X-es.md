@@ -5,7 +5,7 @@ date: 2020-05-05 14:36:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dFsxKnebL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y3GC7X-es HIKARO Chaqueta Bomber Hombre Azul Navy 50 Talla del...'
 sku: 'B077Y3GC7X-es'
 tags: [ 'chaqueta', ]

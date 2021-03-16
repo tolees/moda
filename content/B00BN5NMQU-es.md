@@ -5,7 +5,7 @@ date: 2020-09-27 06:57:40
 image: 'https://m.media-amazon.com/images/I/41s0LylTwHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN5NMQU-es Pepe Jeans Original Stretch Camiseta Negro Black 999...'
 sku: 'B00BN5NMQU-es'
 tags: [ 'camiseta', ]

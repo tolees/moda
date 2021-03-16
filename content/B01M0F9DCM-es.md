@@ -5,7 +5,7 @@ date: 2020-05-12 11:37:42
 image: 'https://m.media-amazon.com/images/I/416NHM1-P7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0F9DCM-es ESPRIT Bodywear 996EF1A973 Parte de arriba de bikini Mujer...'
 sku: 'B01M0F9DCM-es'
 tags: [ 'bikini', ]

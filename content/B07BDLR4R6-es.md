@@ -5,7 +5,7 @@ date: 2020-02-08 18:58:11
 image: 'https://m.media-amazon.com/images/I/51CB4ukXOpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDLR4R6-es FIRENZE ARTEGIANI. Mochila Mujer Casual Piel...'
 sku: 'B07BDLR4R6-es'
 tags: [ 'bolso', ]

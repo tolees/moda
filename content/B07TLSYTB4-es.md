@@ -5,7 +5,7 @@ date: 2020-09-20 19:57:04
 image: 'https://m.media-amazon.com/images/I/41wwovc6qVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLSYTB4-es Clarks Tri Sporty Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TLSYTB4-es'
 tags: [ 'sandalias', ]

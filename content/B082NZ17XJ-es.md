@@ -5,7 +5,7 @@ date: 2020-05-31 18:04:16
 image: 'https://m.media-amazon.com/images/I/417c2-CMSgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NZ17XJ-es Oihxse Transparente Silicona Case Compatible con Huawei...'
 sku: 'B082NZ17XJ-es'
 tags: [ 'moda', ]

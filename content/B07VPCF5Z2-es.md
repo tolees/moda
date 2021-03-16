@@ -5,7 +5,7 @@ date: 2020-09-13 18:54:48
 image: 'https://m.media-amazon.com/images/I/310nTO73zFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPCF5Z2-es Marca Amazon - AURIQUE Sudadera de Manga Larga de Forro...'
 sku: 'B07VPCF5Z2-es'
 tags: [ 'aurique','sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-06-26 10:44:02
 image: 'https://m.media-amazon.com/images/I/31JcB5855NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EYJRME4-es Levi s 511 Slim Fit Vaqueros Headed South 4006 29W / 32L...'
 sku: 'B01EYJRME4-es'
 tags: [ 'vaqueros', ]

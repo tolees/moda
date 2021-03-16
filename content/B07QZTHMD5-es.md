@@ -5,7 +5,7 @@ date: 2020-04-04 15:31:02
 image: 'https://m.media-amazon.com/images/I/31frdotxKlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZTHMD5-es Under Armour Fly by Exposed Pantalón Corto Mujer Negro...'
 sku: 'B07QZTHMD5-es'
 tags: [ 'pantalón', ]

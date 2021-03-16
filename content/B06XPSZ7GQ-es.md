@@ -5,7 +5,7 @@ date: 2020-02-16 19:21:57
 image: 'https://m.media-amazon.com/images/I/41-ihogWfuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPSZ7GQ-es Desigual TS_Leopard Degrade Camiseta Gris Gris Medio 2007...'
 sku: 'B06XPSZ7GQ-es'
 tags: [ 'camiseta', ]

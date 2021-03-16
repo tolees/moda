@@ -5,7 +5,7 @@ date: 2020-08-21 00:10:38
 image: 'https://m.media-amazon.com/images/I/41qj4qWFQGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXSDV1V-es Geox U Snake.2 A Zapatillas para Hombre Blanco White/Lt...'
 sku: 'B07SXSDV1V-es'
 tags: [ 'geox', ]

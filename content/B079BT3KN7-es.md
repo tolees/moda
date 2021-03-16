@@ -5,7 +5,7 @@ date: 2020-09-21 12:03:30
 image: 'https://m.media-amazon.com/images/I/61HZcq15i7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079BT3KN7-es Funda MacBook Pro 13"/MacBook Air 2018 Sleeve Antracita -...'
 sku: 'B079BT3KN7-es'
 tags: [ 'bolso', ]

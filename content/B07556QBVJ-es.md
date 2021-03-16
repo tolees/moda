@@ -5,7 +5,7 @@ date: 2020-07-04 11:37:20
 image: 'https://m.media-amazon.com/images/I/41Pm+EL4CrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07556QBVJ-es Salomon Camiseta deportiva de manga corta AGILE SS tejido...'
 sku: 'B07556QBVJ-es'
 tags: [ 'camiseta', ]

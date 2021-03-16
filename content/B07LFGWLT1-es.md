@@ -5,7 +5,7 @@ date: 2020-04-07 10:08:07
 image: 'https://m.media-amazon.com/images/I/41arbxeYZgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFGWLT1-es Levi s Type 3 Chaqueta Vaquera Azul Miracle Sauce Sherpa...'
 sku: 'B07LFGWLT1-es'
 tags: [ 'chaqueta', ]

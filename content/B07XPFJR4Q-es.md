@@ -5,7 +5,7 @@ date: 2020-03-07 18:33:11
 image: 'https://m.media-amazon.com/images/I/5190A1La81L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPFJR4Q-es BAIGIO Bolsa de Noche Mujer Bolso de Mano Bolso Clutch de...'
 sku: 'B07XPFJR4Q-es'
 tags: [ 'bolso','monedero', ]

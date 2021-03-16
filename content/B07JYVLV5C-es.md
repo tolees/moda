@@ -5,7 +5,7 @@ date: 2020-04-01 11:40:05
 image: 'https://m.media-amazon.com/images/I/41z+J3CX51L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYVLV5C-es Tommy Hilfiger TH ESS Classic Straight HW C Vaqueros Azul...'
 sku: 'B07JYVLV5C-es'
 tags: [ 'vaqueros', ]

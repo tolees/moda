@@ -5,7 +5,7 @@ date: 2020-05-12 23:26:13
 image: 'https://m.media-amazon.com/images/I/41NCEsJRh5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AR18V0S-es The North Face McMurdo - Chaqueta Impermeable Hombre Negro...'
 sku: 'B00AR18V0S-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-22 16:54:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qm8sI-9ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMGVKKD-es Charles Wilson Pantalón de Deportes con Puño Pantalón...'
 sku: 'B07TMGVKKD-es'
 tags: [ 'pantalón', ]

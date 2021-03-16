@@ -5,7 +5,7 @@ date: 2020-08-18 18:25:55
 image: 'https://m.media-amazon.com/images/I/312BdWGOTUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X7VM5SE-es Vero Moda 10138972 Pantalones para mujer negro...'
 sku: 'B00X7VM5SE-es'
 tags: [ 'moda', ]

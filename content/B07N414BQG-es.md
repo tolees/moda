@@ -5,7 +5,7 @@ date: 2020-03-10 12:27:34
 image: 'https://m.media-amazon.com/images/I/41pRG1HHTDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N414BQG-es Desigual Dress Karen Vestido Blanco Blanco 1000 L para Mujer'
 sku: 'B07N414BQG-es'
 tags: [ 'vestido', ]

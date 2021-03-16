@@ -5,7 +5,7 @@ date: 2020-02-01 09:35:58
 image: 'https://m.media-amazon.com/images/I/51JT5sWRzYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XF5YVLC-es PHOENISING - Pantalón Corto - para Mujer Azul Azul Claro 36'
 sku: 'B06XF5YVLC-es'
 tags: [ 'pantalón', ]

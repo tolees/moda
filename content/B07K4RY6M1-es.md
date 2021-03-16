@@ -5,7 +5,7 @@ date: 2020-03-01 11:56:25
 image: 'https://m.media-amazon.com/images/I/31EIy57s7vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4RY6M1-es BOSS Mabsoot Camisa Azul Open Blue X-Large para Hombre'
 sku: 'B07K4RY6M1-es'
 tags: [ 'camisa', ]

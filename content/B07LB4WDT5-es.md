@@ -5,7 +5,7 @@ date: 2020-03-25 10:07:19
 image: 'https://m.media-amazon.com/images/I/31pmL8sq28L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB4WDT5-es Nike W Nk Miler Top SS Camiseta de Manga Corta Mujer Echo...'
 sku: 'B07LB4WDT5-es'
 tags: [ 'camiseta', ]

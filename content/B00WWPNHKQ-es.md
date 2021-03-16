@@ -5,7 +5,7 @@ date: 2020-07-12 05:35:01
 image: 'https://m.media-amazon.com/images/I/41XQjw1PNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WWPNHKQ-es JACK & JONES - Vaqueros para hombre Azul Denim W32/L32 32'
 sku: 'B00WWPNHKQ-es'
 tags: [ 'vaqueros', ]

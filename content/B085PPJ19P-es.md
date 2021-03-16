@@ -5,7 +5,7 @@ date: 2020-04-21 13:32:16
 image: 'https://m.media-amazon.com/images/I/41ZdXnXxlUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085PPJ19P-es Timberland World Hiker Mid TB0A1W47K511'
 sku: 'B085PPJ19P-es'
 tags: [ 'timberland', ]

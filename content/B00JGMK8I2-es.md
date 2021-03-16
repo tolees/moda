@@ -5,7 +5,7 @@ date: 2020-05-15 17:29:26
 image: 'https://m.media-amazon.com/images/I/512kH6euJkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JGMK8I2-es LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse Bifold...'
 sku: 'B00JGMK8I2-es'
 tags: [ 'monedero', ]

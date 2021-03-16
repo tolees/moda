@@ -5,7 +5,7 @@ date: 2020-03-30 14:32:10
 image: 'https://m.media-amazon.com/images/I/41oHw2BJNCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752NQN3Q-es G-STAR RAW 3301 Loose Vaqueros Medium Aged 9299-071 38W /...'
 sku: 'B0752NQN3Q-es'
 tags: [ 'vaqueros', ]

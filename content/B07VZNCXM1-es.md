@@ -5,7 +5,7 @@ date: 2020-08-31 17:45:31
 image: 'https://m.media-amazon.com/images/I/41jkgClgzCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZNCXM1-es Pepe Jeans ANN Bolso para Ordenador Adaptable 40 cm 12...'
 sku: 'B07VZNCXM1-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-02-09 13:13:04
 image: 'https://m.media-amazon.com/images/I/411CExMuooL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8L2BQ9-es Lee Rider Jeans Vaqueros Mid Tinted 36W / 36L para Hombre'
 sku: 'B07M8L2BQ9-es'
 tags: [ 'vaqueros', ]

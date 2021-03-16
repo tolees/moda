@@ -5,7 +5,7 @@ date: 2020-05-12 17:05:03
 image: 'https://m.media-amazon.com/images/I/41f2JPYLZPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQKJ1WW-es Zapatos de agua para la playa piscina o jardín para niños...'
 sku: 'B07RQKJ1WW-es'
 tags: [ 'zapatos', ]

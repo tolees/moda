@@ -5,7 +5,7 @@ date: 2020-01-04 16:16:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41r-EHPhUvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFQZV4N-es NICE WIN Guantes Esqui Guantes Invierno Hombre Hombres y...'
 sku: 'B07ZFQZV4N-es'
 tags: [ 'guantes', ]

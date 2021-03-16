@@ -5,7 +5,7 @@ date: 2020-05-12 11:55:23
 image: 'https://m.media-amazon.com/images/I/31Iur+9lgoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR3FLJ4-es PUMA Classics T7 Track Jkt Ft Chaqueta Mujer Heather M'
 sku: 'B07NR3FLJ4-es'
 tags: [ 'chaqueta', ]

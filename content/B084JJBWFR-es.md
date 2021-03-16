@@ -5,7 +5,7 @@ date: 2020-06-24 14:28:35
 image: 'https://m.media-amazon.com/images/I/415-gjXl51L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084JJBWFR-es XTI - Sandalias con Tacón de Fiesta - Sandalia con Tacón...'
 sku: 'B084JJBWFR-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-01-31 23:07:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yu06x6YWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ6HZ3R-es Lacoste Sol 119 1 Cuc Sandalias de Punta Descubierta...'
 sku: 'B07DJ6HZ3R-es'
 tags: [ 'sandalias', ]

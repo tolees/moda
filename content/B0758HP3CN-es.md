@@ -5,7 +5,7 @@ date: 2020-02-17 08:31:05
 image: 'https://m.media-amazon.com/images/I/41ah-Io6L4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758HP3CN-es edc by Esprit 997cc1b817 Vaqueros Skinny Azul Blue Medium...'
 sku: 'B0758HP3CN-es'
 tags: [ 'vaqueros', ]

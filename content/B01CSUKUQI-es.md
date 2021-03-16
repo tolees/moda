@@ -5,7 +5,7 @@ date: 2020-04-13 00:19:14
 image: 'https://m.media-amazon.com/images/I/41AwwlGViwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CSUKUQI-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De...'
 sku: 'B01CSUKUQI-es'
 tags: [ 'zapatos', ]

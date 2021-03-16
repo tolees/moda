@@ -5,7 +5,7 @@ date: 2020-09-12 12:10:15
 image: 'https://m.media-amazon.com/images/I/31lQ30oASgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NTN5T-es PUMA Popcat 20 Sandalias deslizantes para Hombre Blanco...'
 sku: 'B07S6NTN5T-es'
 tags: [ 'sandalias', ]

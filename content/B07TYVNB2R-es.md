@@ -5,7 +5,7 @@ date: 2020-07-14 16:27:11
 image: 'https://m.media-amazon.com/images/I/41aGSS8Cg3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYVNB2R-es Skechers D lites 2.0 Sandalias de Punta Descubierta para...'
 sku: 'B07TYVNB2R-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-03-05 05:40:11
 image: 'https://m.media-amazon.com/images/I/415tUKdM9GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XJVDLB-es Timberland Adventure 2.0 Cupsole Botas Chukka para Hombre...'
 sku: 'B073XJVDLB-es'
 tags: [ 'timberland', ]

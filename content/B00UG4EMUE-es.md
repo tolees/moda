@@ -5,7 +5,7 @@ date: 2020-06-19 17:14:39
 image: 'https://m.media-amazon.com/images/I/31yJU9120oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UG4EMUE-es Lacoste Crew Neck Sudadera para Hombre azul Marine X-Small'
 sku: 'B00UG4EMUE-es'
 tags: [ 'sudadera', ]

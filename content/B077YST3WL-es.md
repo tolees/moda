@@ -5,7 +5,7 @@ date: 2020-05-01 07:02:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41d8Xo8PGOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YST3WL-es HIKARO Chaqueta Bomber Hombre Gris Charcoal 54 Talla del...'
 sku: 'B077YST3WL-es'
 tags: [ 'chaqueta', ]

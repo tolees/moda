@@ -5,7 +5,7 @@ date: 2020-02-29 11:03:51
 image: 'https://m.media-amazon.com/images/I/315dVsF63bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ59FK7-es Women s Secret Cozy Animals Ca Flamingo PJ Conjuntos de...'
 sku: 'B07TZ59FK7-es'
 tags: [ 'pijama', ]

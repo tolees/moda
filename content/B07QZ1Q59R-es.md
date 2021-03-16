@@ -5,7 +5,7 @@ date: 2020-03-13 19:13:58
 image: 'https://m.media-amazon.com/images/I/41hGA3enS6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ1Q59R-es Wrangler Texas Contrast Vaqueros Straight Azul Soft Power...'
 sku: 'B07QZ1Q59R-es'
 tags: [ 'vaqueros', ]

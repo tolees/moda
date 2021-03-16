@@ -5,7 +5,7 @@ date: 2020-09-12 10:41:22
 image: 'https://m.media-amazon.com/images/I/41t9AMEhGLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ6SXS5-es NK GF3114 - Gafas con Visor Adaptador 3D Realidad Virtual...'
 sku: 'B01LZ6SXS5-es'
 tags: [ 'gafas', ]

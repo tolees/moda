@@ -5,7 +5,7 @@ date: 2020-04-06 15:03:47
 image: 'https://m.media-amazon.com/images/I/31BETwGItzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2H86WZ-es Levi s 502 Regular Taper Vaqueros Azul Headed South 0279...'
 sku: 'B07D2H86WZ-es'
 tags: [ 'vaqueros', ]

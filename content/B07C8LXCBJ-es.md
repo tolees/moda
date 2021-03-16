@@ -5,7 +5,7 @@ date: 2020-08-21 13:30:31
 image: 'https://m.media-amazon.com/images/I/51J8lq00tpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C8LXCBJ-es trueprodigy Casual Hombre Marca Camiseta con impresión...'
 sku: 'B07C8LXCBJ-es'
 tags: [ 'camiseta','moda', ]

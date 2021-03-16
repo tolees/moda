@@ -5,7 +5,7 @@ date: 2020-01-14 18:34:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51IyRcFq%2BaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4K94ZX-es edc by Esprit 089cc1f022 Blusa Rojo Dark Red 610 Small...'
 sku: 'B07S4K94ZX-es'
 tags: [ 'blusa', ]

@@ -5,7 +5,7 @@ date: 2020-10-12 11:46:15
 image: 'https://m.media-amazon.com/images/I/41kVazcXNwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0778PDM6Q-es Amazon Brand - AURIQUE Legging deportivos con tejido...'
 sku: 'B0778PDM6Q-es'
 tags: [ 'aurique', ]

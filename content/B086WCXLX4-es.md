@@ -5,7 +5,7 @@ date: 2020-04-23 19:31:51
 image: 'https://m.media-amazon.com/images/I/41QA9JUKknL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WCXLX4-es Qunlon Ultraligero Zapatos de Seguridad Hombres Mujeres...'
 sku: 'B086WCXLX4-es'
 tags: [ 'zapatos', ]

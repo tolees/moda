@@ -5,7 +5,7 @@ date: 2019-12-31 15:32:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313J8v2Ku5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N15GP7K-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros Faded Blue...'
 sku: 'B07N15GP7K-es'
 tags: [ 'vaqueros', ]

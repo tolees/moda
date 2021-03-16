@@ -5,7 +5,7 @@ date: 2020-07-27 03:01:39
 image: 'https://m.media-amazon.com/images/I/51Pegkc+tPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9R8BM-es Levi s SS Classic 1 Pkt Standrd Camisa Azul Austin...'
 sku: 'B07TJ9R8BM-es'
 tags: [ 'camisa', ]

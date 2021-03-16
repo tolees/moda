@@ -5,7 +5,7 @@ date: 2020-01-20 08:44:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31R6yJ6ktoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6WM5C7-es O NEILL LM Olsen L/Slv - Camiseta para Hombre Hombre...'
 sku: 'B07R6WM5C7-es'
 tags: [ 'camiseta', ]

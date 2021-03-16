@@ -5,7 +5,7 @@ date: 2020-05-09 09:01:10
 image: 'https://m.media-amazon.com/images/I/41Zdo4SCjuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPR2R1Q-es Only Onlnayla Rianna Wool Coat CC Otw Abrigo Marrón Camel...'
 sku: 'B07VPR2R1Q-es'
 tags: [ 'abrigo', ]

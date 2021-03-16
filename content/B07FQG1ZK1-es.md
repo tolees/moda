@@ -5,7 +5,7 @@ date: 2020-01-11 14:28:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TB3xLkdML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQG1ZK1-es The North Face Sport Hoodie Sudadera Deportiva con Capucha...'
 sku: 'B07FQG1ZK1-es'
 tags: [ 'sudadera', ]

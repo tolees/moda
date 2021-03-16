@@ -5,7 +5,7 @@ date: 2020-01-25 18:41:20
 image: 'https://m.media-amazon.com/images/I/418u76R3cqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMYPP7-es G-STAR RAW Jirgi Zip Round Neck Chaqueta Punto Gris Raven...'
 sku: 'B07NDMYPP7-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-09-14 05:44:11
 image: 'https://m.media-amazon.com/images/I/41vuoumjrXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYVCY4P-es adidas Long tee Camiseta de Manga Corta Mujer White 40'
 sku: 'B07SYVCY4P-es'
 tags: [ 'camiseta', ]

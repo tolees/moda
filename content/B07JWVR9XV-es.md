@@ -5,7 +5,7 @@ date: 2020-09-06 07:05:28
 image: 'https://m.media-amazon.com/images/I/41QsNvj13gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWVR9XV-es PUMA Cup Training Jersey Core Maillot Hombre Black/Asphalt L'
 sku: 'B07JWVR9XV-es'
 tags: [ 'jersey', ]

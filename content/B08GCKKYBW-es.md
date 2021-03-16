@@ -5,7 +5,7 @@ date: 2020-10-10 13:02:23
 image: 'https://m.media-amazon.com/images/I/41vkPR7tG8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GCKKYBW-es MioRico Saco Dormir Bebe 1 TOG Saquito de Dormir 100%...'
 sku: 'B08GCKKYBW-es'
 tags: [ 'pijama', ]

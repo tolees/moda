@@ -5,7 +5,7 @@ date: 2020-02-14 18:44:54
 image: 'https://m.media-amazon.com/images/I/51xFrPFzI5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZR5L3PS-es TOOLSTAR Reloj Inteligente Fitness Tracker IP67 Mujer...'
 sku: 'B07ZR5L3PS-es'
 tags: [ 'moda', ]

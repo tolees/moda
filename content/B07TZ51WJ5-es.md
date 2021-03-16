@@ -5,7 +5,7 @@ date: 2020-03-09 18:11:28
 image: 'https://m.media-amazon.com/images/I/41LcvPpFg4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ51WJ5-es Women s Secret Home Hm Weekend Set Conjuntos de Pijama...'
 sku: 'B07TZ51WJ5-es'
 tags: [ 'pijama', ]

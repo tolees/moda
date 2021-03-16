@@ -5,7 +5,7 @@ date: 2020-03-23 05:32:35
 image: 'https://m.media-amazon.com/images/I/413gjNGSDaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073X8SFFG-es Timberland Larchmont Chelsea Waterproof Botas Hombre...'
 sku: 'B073X8SFFG-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-05-21 10:29:38
 image: 'https://m.media-amazon.com/images/I/41gGjkfrsEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0733DCZHC-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
 sku: 'B0733DCZHC-es'
 tags: [ '-','find.','sudadera', ]

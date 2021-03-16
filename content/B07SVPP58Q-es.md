@@ -5,7 +5,7 @@ date: 2020-04-13 15:26:28
 image: 'https://m.media-amazon.com/images/I/41c8-+NyI3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPP58Q-es Geox Uomo Snake E Zapatillas para Hombre Gris Lt Grey/Grey...'
 sku: 'B07SVPP58Q-es'
 tags: [ 'geox', ]

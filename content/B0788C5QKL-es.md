@@ -5,7 +5,7 @@ date: 2020-03-03 14:48:06
 image: 'https://m.media-amazon.com/images/I/4113EV5opQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788C5QKL-es Vero Moda Vmhot Seven NW Dnm Slit Knicker Mix Noos...'
 sku: 'B0788C5QKL-es'
 tags: [ 'moda', ]

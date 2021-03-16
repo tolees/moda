@@ -5,7 +5,7 @@ date: 2020-03-10 11:23:35
 image: 'https://m.media-amazon.com/images/I/41uC43KVvFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ5TH57-es HKT by Hackett Hkt Mlt Panel Mel Gham Camisa Navy/Grey 5cy...'
 sku: 'B07MQ5TH57-es'
 tags: [ 'camisa', ]

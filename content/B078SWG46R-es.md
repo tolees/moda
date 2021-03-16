@@ -5,7 +5,7 @@ date: 2021-02-22 14:57:48
 image: 'https://m.media-amazon.com/images/I/41f4dvs5ruL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SWG46R-es Timberland Perkins Row 2-Strap Youth Sandalias de Punta...'
 sku: 'B078SWG46R-es'
 tags: [ 'sandalias','timberland', ]

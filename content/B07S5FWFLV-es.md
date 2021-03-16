@@ -5,7 +5,7 @@ date: 2020-02-19 20:08:18
 image: 'https://m.media-amazon.com/images/I/417YQ5QCfTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5FWFLV-es Karactermania Harry Potter Relic-Action Mini Horizontal...'
 sku: 'B07S5FWFLV-es'
 tags: [ 'bolso', ]

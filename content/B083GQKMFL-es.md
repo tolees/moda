@@ -5,7 +5,7 @@ date: 2020-09-05 08:45:46
 image: 'https://m.media-amazon.com/images/I/41hHC4odgEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083GQKMFL-es Fankeshi - Abrigo de piel sintética para niña - Rojo - 100 cm'
 sku: 'B083GQKMFL-es'
 tags: [ 'abrigo', ]

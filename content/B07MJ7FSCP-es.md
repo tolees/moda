@@ -5,7 +5,7 @@ date: 2020-02-02 13:42:26
 image: 'https://m.media-amazon.com/images/I/41EY9EltaeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ7FSCP-es Clarks - Botines de Cuero Hombre color Taupe Suede talla...'
 sku: 'B07MJ7FSCP-es'
 tags: [ 'botines', ]

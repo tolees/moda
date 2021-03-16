@@ -5,7 +5,7 @@ date: 2020-08-12 09:48:19
 image: 'https://m.media-amazon.com/images/I/319YYI2D8SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HBHYL1-es CHEREEKI Gafas de Sol Deportivas Gafas de Sol Polarizadas...'
 sku: 'B085HBHYL1-es'
 tags: [ 'gafas', ]

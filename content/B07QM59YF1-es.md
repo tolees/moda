@@ -5,7 +5,7 @@ date: 2020-04-14 00:15:00
 image: 'https://m.media-amazon.com/images/I/5145kzN-4EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QM59YF1-es Gifts Treat Sombrero de Invierno de Las Niños Moda...'
 sku: 'B07QM59YF1-es'
 tags: [ 'moda', ]

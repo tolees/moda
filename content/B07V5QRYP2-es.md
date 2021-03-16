@@ -5,7 +5,7 @@ date: 2020-09-26 20:24:45
 image: 'https://m.media-amazon.com/images/I/41WS0T91qnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5QRYP2-es Tommy Hilfiger Natural Wedge Sandal Sandalias Punta...'
 sku: 'B07V5QRYP2-es'
 tags: [ 'sandalias', ]

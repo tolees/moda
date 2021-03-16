@@ -5,7 +5,7 @@ date: 2020-01-08 12:07:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OFAW%2B1dPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFGZ6VN-es Reebok LM Activchill Tank Camiseta De Tirantes Hombre...'
 sku: 'B07VFGZ6VN-es'
 tags: [ 'camiseta', ]

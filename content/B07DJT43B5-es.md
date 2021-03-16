@@ -5,7 +5,7 @@ date: 2020-09-21 17:15:35
 image: 'https://m.media-amazon.com/images/I/41-KX0hJfWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJT43B5-es Geox D Vega Moc B Mocasines para Mujer Azul Blue/Skin...'
 sku: 'B07DJT43B5-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-03-09 22:00:55
 image: 'https://m.media-amazon.com/images/I/41pK4CRtv+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCY7VR3-es X-TIGER Vellón Térmico Invierno MTB Ciclismo Guantes con...'
 sku: 'B07HCY7VR3-es'
 tags: [ 'guantes', ]

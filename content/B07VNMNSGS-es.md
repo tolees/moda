@@ -5,7 +5,7 @@ date: 2020-06-21 16:37:54
 image: 'https://m.media-amazon.com/images/I/41a0oyObOAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNMNSGS-es G-STAR RAW Lash Building Straight Camiseta Blanco White...'
 sku: 'B07VNMNSGS-es'
 tags: [ 'camiseta', ]

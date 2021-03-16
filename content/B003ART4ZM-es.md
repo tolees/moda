@@ -5,7 +5,7 @@ date: 2020-08-25 14:59:17
 image: 'https://m.media-amazon.com/images/I/31IVx-LTwQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ART4ZM-es Birkenstock 51793 - Sandalias con hebilla unisex Negro 35...'
 sku: 'B003ART4ZM-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-01-23 10:17:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ufwd3zBeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQR293K-es Under Armour Forefront Rain Chaqueta Mujer Negro LG'
 sku: 'B07KQR293K-es'
 tags: [ 'chaqueta', ]

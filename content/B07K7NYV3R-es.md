@@ -5,7 +5,7 @@ date: 2020-01-15 11:24:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vs5AVlyYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7NYV3R-es Esprit Kids Sweatshirt Card Sudadera Morado Plum 871 Talla...'
 sku: 'B07K7NYV3R-es'
 tags: [ 'sudadera', ]

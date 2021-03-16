@@ -5,7 +5,7 @@ date: 2020-06-01 15:37:50
 image: 'https://m.media-amazon.com/images/I/41kK2jO4N9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9K23DZ-es Chubasquero Mujer Chaqueta Impermeable Abrigo Manga Larga...'
 sku: 'B07T9K23DZ-es'
 tags: [ 'abrigo','chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-31 13:21:11
 image: 'https://m.media-amazon.com/images/I/31CRlUJbM0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZ2JSQM-es Wrangler Texas Vaqueros Azul W34/L34 Talla del Fabricante:...'
 sku: 'B07GZ2JSQM-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-07 13:19:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVgxg0mwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZ296HV-es Springfield 6BA Polo Basico Reg T5 Jersey Gama Verdes 21...'
 sku: 'B07KZ296HV-es'
 tags: [ 'jersey', ]

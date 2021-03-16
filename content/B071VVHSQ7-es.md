@@ -5,7 +5,7 @@ date: 2020-01-18 20:19:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318rxymUySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VVHSQ7-es Crocs Classic Clog Zuecos Unisex Adulto Azul Tropical Teal...'
 sku: 'B071VVHSQ7-es'
 tags: [ 'zuecos', ]

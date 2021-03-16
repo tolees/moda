@@ -5,7 +5,7 @@ date: 2020-02-18 16:04:31
 image: 'https://m.media-amazon.com/images/I/515xdRYbslL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PL2TBFB-es XTI 49303 Botines para Mujer Negro 38 EU'
 sku: 'B07PL2TBFB-es'
 tags: [ 'botines', ]

@@ -5,7 +5,7 @@ date: 2020-05-01 14:54:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31YUjcfoNJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075S4GPQN-es MERAKI Sudadera con Capucha y Cremallera Mujer Gris Grey...'
 sku: 'B075S4GPQN-es'
 tags: [ 'meraki','sudadera', ]

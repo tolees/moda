@@ -5,7 +5,7 @@ date: 2020-09-01 16:10:01
 image: 'https://m.media-amazon.com/images/I/41oB2gtzyNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPXNLD-es Geox D SUZZIE B Zapatillas para Mujer Marfil Black/Off...'
 sku: 'B07SVPXNLD-es'
 tags: [ 'geox', ]

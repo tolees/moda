@@ -5,7 +5,7 @@ date: 2020-10-12 15:45:13
 image: 'https://m.media-amazon.com/images/I/414oc9jeFxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NFXDJM-es Jack & Jones JORTRAILER Sweat Hood STS Sudadera con...'
 sku: 'B089NFXDJM-es'
 tags: [ 'sudadera', ]

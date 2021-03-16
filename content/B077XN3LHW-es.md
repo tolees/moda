@@ -5,7 +5,7 @@ date: 2020-09-30 18:42:54
 image: 'https://m.media-amazon.com/images/I/416Ms1mDqjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XN3LHW-es Under Armour Fleece Sudadera para Hombre Camiseta de Manga...'
 sku: 'B077XN3LHW-es'
 tags: [ 'camiseta','sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-04-26 08:45:36
 image: 'https://m.media-amazon.com/images/I/51PW1VgC5QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNV9WJR-es Zapatillas de Deportes Hombre Mujer Zapatos Deportivos...'
 sku: 'B07VNV9WJR-es'
 tags: [ 'zapatos', ]

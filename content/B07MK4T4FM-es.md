@@ -5,7 +5,7 @@ date: 2020-02-22 14:02:34
 image: 'https://m.media-amazon.com/images/I/41UxlzDYESL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK4T4FM-es Jeerhope Guantes de limpieza de látex Fregadora para lavar...'
 sku: 'B07MK4T4FM-es'
 tags: [ 'guantes', ]

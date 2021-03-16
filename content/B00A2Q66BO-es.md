@@ -5,7 +5,7 @@ date: 2020-04-13 11:03:14
 image: 'https://m.media-amazon.com/images/I/51p64oyVN9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A2Q66BO-es Black Diamond Crag Half Finger Gloves - Guantes de...'
 sku: 'B00A2Q66BO-es'
 tags: [ 'guantes', ]

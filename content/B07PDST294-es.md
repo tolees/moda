@@ -5,7 +5,7 @@ date: 2020-03-10 09:03:18
 image: 'https://m.media-amazon.com/images/I/41qgjXb-9kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDST294-es Disney Camiseta y Leggings para niñas Capitana Marvel Azul...'
 sku: 'B07PDST294-es'
 tags: [ 'camiseta', ]

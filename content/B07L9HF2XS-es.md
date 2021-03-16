@@ -5,7 +5,7 @@ date: 2020-08-14 07:39:58
 image: 'https://m.media-amazon.com/images/I/31C-LpjAIVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9HF2XS-es Under Armour Coldgear Reactor Performance Hybrid Chaqueta...'
 sku: 'B07L9HF2XS-es'
 tags: [ 'chaqueta', ]

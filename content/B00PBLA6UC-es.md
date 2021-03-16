@@ -5,7 +5,7 @@ date: 2020-02-25 20:36:40
 image: 'https://m.media-amazon.com/images/I/31SG6+jtCxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PBLA6UC-es Mercedes-Benz Sonnenbrille M1039 Gafas de sol Dorado Gold...'
 sku: 'B00PBLA6UC-es'
 tags: [ 'gafas', ]

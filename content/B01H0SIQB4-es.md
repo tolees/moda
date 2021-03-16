@@ -5,7 +5,7 @@ date: 2020-02-01 10:29:20
 image: 'https://m.media-amazon.com/images/I/41dkKCrr-AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H0SIQB4-es Michael Kors Jet Set Travel Bolso totes para Mujer Azul...'
 sku: 'B01H0SIQB4-es'
 tags: [ 'bolso', ]

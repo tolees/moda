@@ -5,7 +5,7 @@ date: 2020-02-19 21:55:44
 image: 'https://m.media-amazon.com/images/I/413g2YZgVoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG1SQG6-es Geox J HADRIEL Girl D Botas Slouch para Niñas Beige Smoke...'
 sku: 'B07LG1SQG6-es'
 tags: [ 'geox', ]

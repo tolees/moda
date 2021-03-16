@@ -5,7 +5,7 @@ date: 2020-01-10 18:54:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41b9mW1gAHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNVQWN-es G-STAR RAW Graphic 14 Core Hooded Sudadera Marrón Aged...'
 sku: 'B07NDNVQWN-es'
 tags: [ 'sudadera', ]

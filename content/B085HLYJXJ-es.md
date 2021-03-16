@@ -5,7 +5,7 @@ date: 2020-10-09 12:29:33
 image: 'https://m.media-amazon.com/images/I/51Z+nsapqUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HLYJXJ-es Mishansha Transpirables Zapatillas Running para Niños Hook...'
 sku: 'B085HLYJXJ-es'
 tags: [ 'zapatos', ]

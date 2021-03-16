@@ -5,7 +5,7 @@ date: 2020-09-07 16:55:47
 image: 'https://m.media-amazon.com/images/I/41Z22Yb3HlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4TQR8V-es Jack & Jones Liam Original Jos 650 50sps Vaqueros Blue...'
 sku: 'B07V4TQR8V-es'
 tags: [ 'vaqueros', ]

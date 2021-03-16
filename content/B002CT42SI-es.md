@@ -5,7 +5,7 @@ date: 2020-08-11 12:37:16
 image: 'https://m.media-amazon.com/images/I/31oSD0-iC6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002CT42SI-es adidas Originals Adilette Zapatos de Playa y Piscina...'
 sku: 'B002CT42SI-es'
 tags: [ 'zapatos', ]

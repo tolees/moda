@@ -5,7 +5,7 @@ date: 2020-04-19 17:43:16
 image: 'https://m.media-amazon.com/images/I/41OQy+OaNiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1B9GDP-es JACK & JONES Jjeorganic Basic tee SS O-Neck Noos Camiseta...'
 sku: 'B07S1B9GDP-es'
 tags: [ 'camiseta', ]

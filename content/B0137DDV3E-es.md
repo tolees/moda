@@ -5,7 +5,7 @@ date: 2020-04-12 17:40:19
 image: 'https://m.media-amazon.com/images/I/51Eat8YRQGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0137DDV3E-es Timberland 14478JSTB/02P - Reloj correa de goma color naranja'
 sku: 'B0137DDV3E-es'
 tags: [ 'timberland', ]

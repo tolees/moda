@@ -5,7 +5,7 @@ date: 2020-03-17 18:28:50
 image: 'https://m.media-amazon.com/images/I/41Rc9YUC2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBP3DYG-es Helly Hansen LIFA Merino 1/2 Zip Thermal Baselayer...'
 sku: 'B07LBP3DYG-es'
 tags: [ 'camiseta', ]

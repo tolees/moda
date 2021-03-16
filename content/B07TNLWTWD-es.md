@@ -5,7 +5,7 @@ date: 2020-07-25 08:23:03
 image: 'https://m.media-amazon.com/images/I/31IGo-3ErvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNLWTWD-es Levi s Original Hm Icon Crew Sudadera Amarillo Golden...'
 sku: 'B07TNLWTWD-es'
 tags: [ 'sudadera', ]

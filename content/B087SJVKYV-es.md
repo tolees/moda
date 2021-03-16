@@ -5,7 +5,7 @@ date: 2020-10-03 12:25:03
 image: 'https://m.media-amazon.com/images/I/41w5LrDhDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087SJVKYV-es Columbia Mission Air Interchange Chaqueta 3 En 1 con...'
 sku: 'B087SJVKYV-es'
 tags: [ 'chaqueta', ]

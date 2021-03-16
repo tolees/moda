@@ -5,7 +5,7 @@ date: 2020-05-06 15:02:59
 image: 'https://m.media-amazon.com/images/I/4108aBgMinL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGYRYVH-es JOINFREE Niños Niñas Nadar Zapatos para el Agua Deportes...'
 sku: 'B07LGYRYVH-es'
 tags: [ 'zapatos', ]

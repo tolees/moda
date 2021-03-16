@@ -5,7 +5,7 @@ date: 2020-03-15 00:59:00
 image: 'https://m.media-amazon.com/images/I/4153USlJrhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7DHYYT-es Hackett Bengal Str KS Camisa Blue 551 Medium para Hombre'
 sku: 'B07M7DHYYT-es'
 tags: [ 'camisa', ]

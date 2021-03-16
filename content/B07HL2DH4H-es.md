@@ -5,7 +5,7 @@ date: 2020-05-21 17:41:35
 image: 'https://m.media-amazon.com/images/I/419UmndXrmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL2DH4H-es Ganchos Carrito Bebé WELAVILA Cochecito Ganchos Clip para...'
 sku: 'B07HL2DH4H-es'
 tags: [ 'bolso', ]

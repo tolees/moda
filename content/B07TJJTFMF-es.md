@@ -5,7 +5,7 @@ date: 2020-02-18 08:01:43
 image: 'https://m.media-amazon.com/images/I/41riwnA6jiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJJTFMF-es G-STAR RAW Graphic 15 Hooded Sudadera Multicolor Mazarine...'
 sku: 'B07TJJTFMF-es'
 tags: [ 'sudadera', ]

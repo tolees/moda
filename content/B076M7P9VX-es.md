@@ -5,7 +5,7 @@ date: 2020-08-05 14:41:51
 image: 'https://m.media-amazon.com/images/I/3189aAfBetL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076M7P9VX-es Trangoworld Bern Chaqueta Hombre Negro L'
 sku: 'B076M7P9VX-es'
 tags: [ 'chaqueta', ]

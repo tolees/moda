@@ -5,7 +5,7 @@ date: 2020-03-04 11:57:18
 image: 'https://m.media-amazon.com/images/I/416TXvbzE4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8L1H7P-es Lee Chest Logo tee Camiseta Rojo Warp Red KG X-Small para...'
 sku: 'B07M8L1H7P-es'
 tags: [ 'camiseta', ]

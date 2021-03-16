@@ -5,7 +5,7 @@ date: 2020-06-26 20:26:29
 image: 'https://m.media-amazon.com/images/I/41J909cuuFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLPC27K-es Lee Luke Vaqueros Moto Used Zu 30W / 30L para Hombre'
 sku: 'B07VLPC27K-es'
 tags: [ 'vaqueros', ]

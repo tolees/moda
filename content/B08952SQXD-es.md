@@ -5,7 +5,7 @@ date: 2020-06-25 10:19:18
 image: 'https://m.media-amazon.com/images/I/31vkh5O9GhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08952SQXD-es Vestido de Tirantes con Cuello en Pico y Detalles de...'
 sku: 'B08952SQXD-es'
 tags: [ 'vestido', ]

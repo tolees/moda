@@ -5,7 +5,7 @@ date: 2020-07-30 21:29:39
 image: 'https://m.media-amazon.com/images/I/31DDHjrji6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYTPMD5-es BOSS Delaware BC-l-c Vaqueros Slim Azul Dark Blue 407...'
 sku: 'B07RYTPMD5-es'
 tags: [ 'vaqueros', ]

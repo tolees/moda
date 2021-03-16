@@ -5,7 +5,7 @@ date: 2020-04-16 10:17:06
 image: 'https://m.media-amazon.com/images/I/41+0CyFClhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1F49NZ-es Nike Club Hoodie Ft Sudadera con Capucha y Cremallera...'
 sku: 'B07T1F49NZ-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-04-27 10:32:54
 image: 'https://m.media-amazon.com/images/I/41ojzwShPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CY1Q8WG-es Zapatillas de Deporte para bebés Zapatos Ocasionales...'
 sku: 'B07CY1Q8WG-es'
 tags: [ 'sandalias','zapatos', ]

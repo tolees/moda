@@ -5,7 +5,7 @@ date: 2020-07-20 08:22:26
 image: 'https://m.media-amazon.com/images/I/41K-+H2F7PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ5CV23-es Lee Austin Vaqueros Tapered Azul Dk Clean Foam EK 30W /...'
 sku: 'B07TZ5CV23-es'
 tags: [ 'vaqueros', ]

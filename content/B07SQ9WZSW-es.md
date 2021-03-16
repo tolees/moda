@@ -5,7 +5,7 @@ date: 2020-06-27 11:41:10
 image: 'https://m.media-amazon.com/images/I/41Z+bodWZkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ9WZSW-es Geox B Todo Girl B Zapatillas para Bebés Plateado...'
 sku: 'B07SQ9WZSW-es'
 tags: [ 'geox', ]

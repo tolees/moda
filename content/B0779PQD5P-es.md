@@ -5,7 +5,7 @@ date: 2020-10-01 10:28:24
 image: 'https://m.media-amazon.com/images/I/41dP36QalyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779PQD5P-es Timberland Union Wharf 2 Eye Oxford Náuticos para Hombre...'
 sku: 'B0779PQD5P-es'
 tags: [ 'timberland', ]

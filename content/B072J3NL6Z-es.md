@@ -5,7 +5,7 @@ date: 2020-01-14 07:20:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zdCKrEDaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072J3NL6Z-es Under Armour Racing Pack Short Sleeve Camiseta de Manga...'
 sku: 'B072J3NL6Z-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-01 01:20:59
 image: 'https://m.media-amazon.com/images/I/31sc+8XJN7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004N0AOFE-es Wilkinson sword quattro bikini - Cuchilla de depilar para...'
 sku: 'B004N0AOFE-es'
 tags: [ 'bikini', ]

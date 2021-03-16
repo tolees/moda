@@ -5,7 +5,7 @@ date: 2020-07-15 14:26:31
 image: 'https://m.media-amazon.com/images/I/41WsL5k6gbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW7XGTP-es Marca Amazon - find. Vestido Midi Cruzado Mujer Multicolor...'
 sku: 'B07KW7XGTP-es'
 tags: [ '-','find.','vestido', ]

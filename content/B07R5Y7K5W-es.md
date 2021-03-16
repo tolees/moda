@@ -5,7 +5,7 @@ date: 2020-01-10 19:06:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51EgF2C7VfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5Y7K5W-es TEEHON Carteras Hombre con Monedero Billetera de Hombre de...'
 sku: 'B07R5Y7K5W-es'
 tags: [ 'billetera','monedero', ]

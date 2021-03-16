@@ -5,7 +5,7 @@ date: 2020-02-08 20:02:55
 image: 'https://m.media-amazon.com/images/I/41mY3rlvyZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8B4TL8-es Wrangler Jacket Chaqueta Bomber Negro Black 100 Small para...'
 sku: 'B07M8B4TL8-es'
 tags: [ 'chaqueta', ]

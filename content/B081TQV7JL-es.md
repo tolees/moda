@@ -5,7 +5,7 @@ date: 2020-08-12 16:57:15
 image: 'https://m.media-amazon.com/images/I/31IaI-or4hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TQV7JL-es adidas Fef TR JSY Camiseta de Manga Corta Hombre Dash Green L'
 sku: 'B081TQV7JL-es'
 tags: [ 'camiseta', ]

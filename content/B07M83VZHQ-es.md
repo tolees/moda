@@ -5,7 +5,7 @@ date: 2020-02-02 09:41:33
 image: 'https://m.media-amazon.com/images/I/41+SKU3QESL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M83VZHQ-es Napapijri Skidoo 2 Chaqueta Orange Orangeade A21 L para...'
 sku: 'B07M83VZHQ-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-07-21 21:30:37
 image: 'https://m.media-amazon.com/images/I/41+o1I70N3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007B6SA9O-es Superga 2750-linu Zapatos de Cordones Derby Unisex Adulto...'
 sku: 'B007B6SA9O-es'
 tags: [ 'zapatos', ]

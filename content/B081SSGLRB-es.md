@@ -5,7 +5,7 @@ date: 2020-07-04 09:27:52
 image: 'https://m.media-amazon.com/images/I/416IEMESjmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SSGLRB-es adidas Trefoil tee Camiseta de Manga Corta Mujer Lush...'
 sku: 'B081SSGLRB-es'
 tags: [ 'camiseta', ]

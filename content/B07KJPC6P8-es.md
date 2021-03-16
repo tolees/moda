@@ -5,7 +5,7 @@ date: 2020-04-30 07:44:26
 image: 'https://m.media-amazon.com/images/I/41IsUy9IXQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJPC6P8-es REPLAY Donny Vaqueros Slim Azul Medium Blue 9 W29/L30...'
 sku: 'B07KJPC6P8-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-07-04 06:37:57
 image: 'https://m.media-amazon.com/images/I/41dZjzDjy-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM1GB99-es alvorog Perchero con Zapatero Perchero Metálico de Pie...'
 sku: 'B07MM1GB99-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-03-13 23:51:29
 image: 'https://m.media-amazon.com/images/I/41jmF1g9YKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH1VDGN-es G-STAR RAW Graphic 8 Sudadera Negro Dk Black 6484 Small...'
 sku: 'B07RH1VDGN-es'
 tags: [ 'sudadera', ]

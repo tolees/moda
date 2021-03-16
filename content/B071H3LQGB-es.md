@@ -5,7 +5,7 @@ date: 2020-10-05 07:43:43
 image: 'https://m.media-amazon.com/images/I/41HGrQaCAOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071H3LQGB-es find. Botines con Suela de Crepe Estilo Óxford para Hombre...'
 sku: 'B071H3LQGB-es'
 tags: [ 'botines', ]

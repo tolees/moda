@@ -5,7 +5,7 @@ date: 2020-09-18 03:55:03
 image: 'https://m.media-amazon.com/images/I/31XmR6waJWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLVQJQV-es Marca Amazon - find. Abrigo Cruzado de Lana Hombre azul...'
 sku: 'B07MLVQJQV-es'
 tags: [ '-','abrigo','find.', ]

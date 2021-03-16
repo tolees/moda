@@ -5,7 +5,7 @@ date: 2020-09-15 11:54:30
 image: 'https://m.media-amazon.com/images/I/51RINXW+UnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJS2PG1-es Tous Sherton Bolso bandolera para Mujer Rojo Vino...'
 sku: 'B07PJS2PG1-es'
 tags: [ 'bolso', ]

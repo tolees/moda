@@ -5,7 +5,7 @@ date: 2020-01-10 18:09:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iKNTsIwVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTKG12X-es Lee Brooklyn Vaqueros Straight Azul Dark Stone Xg 32W /...'
 sku: 'B07FTKG12X-es'
 tags: [ 'vaqueros', ]

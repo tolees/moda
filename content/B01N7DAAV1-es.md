@@ -5,7 +5,7 @@ date: 2020-01-07 20:33:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iTah2gNZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7DAAV1-es The North Face Outerwear TNF Chaqueta Mujer Negro Tnf...'
 sku: 'B01N7DAAV1-es'
 tags: [ 'chaqueta', ]

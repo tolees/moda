@@ -5,7 +5,7 @@ date: 2020-04-26 15:10:20
 image: 'https://m.media-amazon.com/images/I/41pIYPA6YDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVZ7CKG-es Pierre Calvini - Calzoncillos bóxer para hombre ajustados...'
 sku: 'B07PVZ7CKG-es'
 tags: [ 'bóxer', ]

@@ -5,7 +5,7 @@ date: 2020-01-03 10:52:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SeorcsYPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071F4MMG3-es find. Sudadera Bicolor y Manga Ranglan para Hombre Gris...'
 sku: 'B071F4MMG3-es'
 tags: [ 'sudadera', ]

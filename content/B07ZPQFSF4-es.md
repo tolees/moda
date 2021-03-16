@@ -5,7 +5,7 @@ date: 2020-09-15 21:56:41
 image: 'https://m.media-amazon.com/images/I/41RCIZ1IXiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPQFSF4-es Hurley M Circle Dye Logo S/S Camiseta Hombre Black Heather S'
 sku: 'B07ZPQFSF4-es'
 tags: [ 'camiseta', ]

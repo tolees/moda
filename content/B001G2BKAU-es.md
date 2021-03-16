@@ -5,7 +5,7 @@ date: 2020-05-25 11:34:03
 image: 'https://m.media-amazon.com/images/I/41f5s48f2nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001G2BKAU-es Birkenstock Mayari Birko-Flor Sandalias de Dedo Mujer...'
 sku: 'B001G2BKAU-es'
 tags: [ 'sandalias', ]

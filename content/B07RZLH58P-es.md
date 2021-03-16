@@ -5,7 +5,7 @@ date: 2020-06-14 18:33:51
 image: 'https://m.media-amazon.com/images/I/410aCjSdQ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLH58P-es Levi s 512 Slim Taper Fit Vaqueros Tapered Azul Biologia...'
 sku: 'B07RZLH58P-es'
 tags: [ 'vaqueros', ]

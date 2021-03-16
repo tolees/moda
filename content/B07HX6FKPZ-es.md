@@ -5,7 +5,7 @@ date: 2020-06-10 14:12:28
 image: 'https://m.media-amazon.com/images/I/31v2gLZ2BZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HX6FKPZ-es Lacoste Ch9623 Camisa Azul Marine/Marine 423 Medium Talla...'
 sku: 'B07HX6FKPZ-es'
 tags: [ 'camisa', ]

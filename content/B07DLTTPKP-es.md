@@ -5,7 +5,7 @@ date: 2020-04-24 11:49:12
 image: 'https://m.media-amazon.com/images/I/31EV-hI71OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLTTPKP-es SAMSONITE Pro-DLX 5 - Rolling Tote for 17.3" Laptop 3.4 KG...'
 sku: 'B07DLTTPKP-es'
 tags: [ 'bolso', ]

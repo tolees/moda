@@ -5,7 +5,7 @@ date: 2020-04-28 18:42:58
 image: 'https://m.media-amazon.com/images/I/41QKqjp1qJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086W43CMM-es MagiDeal Dentición Collar De Cuentas Babyteether Plana De...'
 sku: 'B086W43CMM-es'
 tags: [ 'collar', ]

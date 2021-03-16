@@ -5,7 +5,7 @@ date: 2020-08-25 09:38:27
 image: 'https://m.media-amazon.com/images/I/41s70uvk9lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08354XCNY-es Jack & Jones Jjelogo tee SS O-Neck 2 Col Ss20 Noos...'
 sku: 'B08354XCNY-es'
 tags: [ 'camiseta', ]

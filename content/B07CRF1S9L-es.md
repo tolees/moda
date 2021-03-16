@@ -5,7 +5,7 @@ date: 2020-09-07 07:37:15
 image: 'https://m.media-amazon.com/images/I/31DbRDryU+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CRF1S9L-es Pepe Jeans Nate Jr Camisa White 800 8 años para Niños'
 sku: 'B07CRF1S9L-es'
 tags: [ 'camisa', ]

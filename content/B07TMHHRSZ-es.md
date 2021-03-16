@@ -5,7 +5,7 @@ date: 2020-09-07 10:04:41
 image: 'https://m.media-amazon.com/images/I/31I6c3fw60L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMHHRSZ-es Levi s 2pk Crewneck Graphic Camiseta Blanco 2pack tee...'
 sku: 'B07TMHHRSZ-es'
 tags: [ 'camiseta', ]

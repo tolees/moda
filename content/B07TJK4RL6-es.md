@@ -5,7 +5,7 @@ date: 2020-06-09 16:40:26
 image: 'https://m.media-amazon.com/images/I/31PdGd5eNxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJK4RL6-es Clarks Un Adorn Lace Zapatos de Cordones Derby para Mujer...'
 sku: 'B07TJK4RL6-es'
 tags: [ 'zapatos', ]

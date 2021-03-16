@@ -5,7 +5,7 @@ date: 2020-04-08 18:12:28
 image: 'https://m.media-amazon.com/images/I/41swh0DQLML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDS1BB9-es Geox U Mattias B ABX A Botas Chukka para Hombre Azul Navy...'
 sku: 'B07PDS1BB9-es'
 tags: [ 'geox', ]

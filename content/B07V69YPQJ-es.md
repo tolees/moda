@@ -5,7 +5,7 @@ date: 2020-03-29 10:50:06
 image: 'https://m.media-amazon.com/images/I/31wwM5aLw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V69YPQJ-es JACK & JONES Jcovally tee SS Crew Neck Camiseta Marrón...'
 sku: 'B07V69YPQJ-es'
 tags: [ 'camiseta', ]

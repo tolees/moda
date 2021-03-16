@@ -5,7 +5,7 @@ date: 2020-02-23 18:43:38
 image: 'https://m.media-amazon.com/images/I/41mTfZ3TLYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM77FLF-es Timberland Adventure 2.0 Cupsole Alpine Zapatillas Bajas...'
 sku: 'B07JM77FLF-es'
 tags: [ 'timberland', ]

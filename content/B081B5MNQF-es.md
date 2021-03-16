@@ -5,7 +5,7 @@ date: 2020-09-16 11:43:16
 image: 'https://m.media-amazon.com/images/I/41MdhZb79gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B5MNQF-es Columbia Windgates Chaqueta impermeable Mujer Azul oscuro...'
 sku: 'B081B5MNQF-es'
 tags: [ 'chaqueta', ]

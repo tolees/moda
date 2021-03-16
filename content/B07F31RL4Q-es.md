@@ -5,7 +5,7 @@ date: 2020-06-11 18:14:47
 image: 'https://m.media-amazon.com/images/I/41r3KRXXI5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F31RL4Q-es Helly Hansen Moss Jacket Chaqueta Hombre Blaze Orange M'
 sku: 'B07F31RL4Q-es'
 tags: [ 'chaqueta', ]

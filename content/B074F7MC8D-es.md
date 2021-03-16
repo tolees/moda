@@ -5,7 +5,7 @@ date: 2020-08-29 01:24:08
 image: 'https://m.media-amazon.com/images/I/31GdeLG0NAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074F7MC8D-es Crocs LiteRide Slide Sandalias de Punta Descubierta Unisex...'
 sku: 'B074F7MC8D-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-01-17 17:42:55
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1K47MF-es Tikea Bolsa Geométrica de Corcho Natural para Mujer...'
 sku: 'B07T1K47MF-es'
 tags: [ 'moda', ]

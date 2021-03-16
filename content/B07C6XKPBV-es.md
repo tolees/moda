@@ -5,7 +5,7 @@ date: 2020-04-15 12:04:18
 image: 'https://m.media-amazon.com/images/I/51f9SMPrGwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C6XKPBV-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
 sku: 'B07C6XKPBV-es'
 tags: [ 'zapatos', ]

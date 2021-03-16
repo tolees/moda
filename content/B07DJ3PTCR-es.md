@@ -5,7 +5,7 @@ date: 2020-06-29 02:24:27
 image: 'https://m.media-amazon.com/images/I/31UX8G5RnuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3PTCR-es Geox D Jaysen A Zapatillas para Mujer Blanco White C1000...'
 sku: 'B07DJ3PTCR-es'
 tags: [ 'geox', ]

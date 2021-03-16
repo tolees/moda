@@ -5,7 +5,7 @@ date: 2020-04-02 08:38:25
 image: 'https://m.media-amazon.com/images/I/31nvplnkFHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JGFJM6-es adidas Trefoil Crew Sudadera Hombre Negro L'
 sku: 'B076JGFJM6-es'
 tags: [ 'sudadera', ]

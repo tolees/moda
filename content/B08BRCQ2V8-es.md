@@ -5,7 +5,7 @@ date: 2020-09-12 21:13:57
 image: 'https://m.media-amazon.com/images/I/516StKMWytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BRCQ2V8-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
 sku: 'B08BRCQ2V8-es'
 tags: [ 'zapatos', ]

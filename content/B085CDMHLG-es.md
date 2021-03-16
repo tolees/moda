@@ -5,7 +5,7 @@ date: 2020-08-06 15:46:37
 image: 'https://m.media-amazon.com/images/I/416UD2wcYkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CDMHLG-es Elover UV Lámpara de Desinfección para Teléfono...'
 sku: 'B085CDMHLG-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-02-28 19:08:09
 image: 'https://m.media-amazon.com/images/I/41QDG1vqTxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKX6HNM-es Charles Wilson Sudadera con Cremallera Completa con...'
 sku: 'B07ZKX6HNM-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 19:04:28
 image: 'https://m.media-amazon.com/images/I/41Chsw613DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZPMB5V6-es LEE Daren Worn Grayly - Vaqueros para hombre Azul Strong...'
 sku: 'B00ZPMB5V6-es'
 tags: [ 'vaqueros', ]

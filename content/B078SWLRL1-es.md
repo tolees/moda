@@ -5,7 +5,7 @@ date: 2020-08-11 01:55:33
 image: 'https://m.media-amazon.com/images/I/51J0uWnQ3xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SWLRL1-es Timberland Capri Sunset Wedge Sandalias para Mujer Marrón...'
 sku: 'B078SWLRL1-es'
 tags: [ 'sandalias','timberland', ]

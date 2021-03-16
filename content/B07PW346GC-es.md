@@ -5,7 +5,7 @@ date: 2020-01-13 15:29:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31bjvJ9CXcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PW346GC-es New Look Powder Super Vaqueros Pitillo Hombre Azul Light...'
 sku: 'B07PW346GC-es'
 tags: [ 'vaqueros', ]

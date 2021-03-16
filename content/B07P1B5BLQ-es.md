@@ -5,7 +5,7 @@ date: 2020-01-27 11:40:34
 image: 'https://m.media-amazon.com/images/I/41OydLaed6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P1B5BLQ-es Superdry Orange Label Vintage Embroidery LS Top Camiseta...'
 sku: 'B07P1B5BLQ-es'
 tags: [ 'camiseta', ]

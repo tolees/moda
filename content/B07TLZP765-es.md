@@ -5,7 +5,7 @@ date: 2020-02-24 17:32:54
 image: 'https://m.media-amazon.com/images/I/41FLAyjijFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLZP765-es Calvin Klein Jeans Ckj 026 Vaqueros Slim Azul Antwerp Mid...'
 sku: 'B07TLZP765-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-10-10 10:25:36
 image: 'https://m.media-amazon.com/images/I/41gq8Kh+b8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJGHJ2Q-es Superdry OL Vintage EMB Crew Camiseta Azul Desert Sky Blue...'
 sku: 'B07TJGHJ2Q-es'
 tags: [ 'camiseta', ]

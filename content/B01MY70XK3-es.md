@@ -5,7 +5,7 @@ date: 2020-04-14 12:34:06
 image: 'https://m.media-amazon.com/images/I/31S9EC3uWLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY70XK3-es Kappa Fredo Pantalón Corto Hombre Blanco YXL'
 sku: 'B01MY70XK3-es'
 tags: [ 'pantalón', ]

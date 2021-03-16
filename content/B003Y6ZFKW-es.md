@@ -5,7 +5,7 @@ date: 2020-01-18 16:33:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kipuVMZ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003Y6ZFKW-es Urban Classics Chaqueta Lana Negro S'
 sku: 'B003Y6ZFKW-es'
 tags: [ 'chaqueta', ]

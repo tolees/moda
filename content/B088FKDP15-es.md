@@ -5,7 +5,7 @@ date: 2020-05-27 17:22:30
 image: 'https://m.media-amazon.com/images/I/51o7FjjI82L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FKDP15-es Oihxse Funda con Sony Xperia 10 Cuero PU Billetera Cierre...'
 sku: 'B088FKDP15-es'
 tags: [ 'billetera', ]

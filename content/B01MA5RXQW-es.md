@@ -5,7 +5,7 @@ date: 2020-01-21 15:03:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tKusqkkxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MA5RXQW-es Wrangler Straight Vaqueros para Mujer Azul Best Blue 94O...'
 sku: 'B01MA5RXQW-es'
 tags: [ 'vaqueros', ]

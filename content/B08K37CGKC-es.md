@@ -5,7 +5,7 @@ date: 2020-10-05 19:13:43
 image: 'https://m.media-amazon.com/images/I/51cNw3zoxFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08K37CGKC-es Bluelucon lenceria mujer 1pc El PañO De AlgodóN Estampado...'
 sku: 'B08K37CGKC-es'
 tags: [ 'moda', ]

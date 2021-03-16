@@ -5,7 +5,7 @@ date: 2020-08-10 14:25:51
 image: 'https://m.media-amazon.com/images/I/41rKXcLhN6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H6NZ1UC-es Crocs Swiftwater River Sandal M Sandalias para Hombre...'
 sku: 'B01H6NZ1UC-es'
 tags: [ 'sandalias', ]

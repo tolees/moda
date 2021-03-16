@@ -5,7 +5,7 @@ date: 2020-01-25 18:06:03
 image: 'https://m.media-amazon.com/images/I/61T7gsCtI5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM4SH3R-es Mochila Casual Moda LOL'
 sku: 'B07RM4SH3R-es'
 tags: [ 'moda', ]

@@ -5,7 +5,7 @@ date: 2020-08-31 15:30:04
 image: 'https://m.media-amazon.com/images/I/416Acn66f2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FI0VC58-es Birkenstock Arizona EVA Sandalias de Punta Descubierta...'
 sku: 'B01FI0VC58-es'
 tags: [ 'sandalias', ]

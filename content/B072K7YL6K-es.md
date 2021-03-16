@@ -5,7 +5,7 @@ date: 2020-01-14 20:07:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31aJamq9PUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K7YL6K-es find. Botines Años 60 Efecto Ante con Cremallera Mujer...'
 sku: 'B072K7YL6K-es'
 tags: [ 'botines', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 23:35:01
 image: 'https://m.media-amazon.com/images/I/316PypGZp9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ1HPYG-es Ever-Pretty Vestido de Fiesta Noche Largo para Mujer...'
 sku: 'B07KQ1HPYG-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-08-09 19:09:33
 image: 'https://m.media-amazon.com/images/I/41ebm0nNd9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1LNB1S-es Pepe Jeans Hatch Vaqueros Ajustados Azul 000Denim 000 34W...'
 sku: 'B07X1LNB1S-es'
 tags: [ 'vaqueros', ]

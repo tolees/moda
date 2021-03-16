@@ -5,7 +5,7 @@ date: 2020-01-14 20:42:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41I9Gqs2KlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB5TRDT-es The North Face M Jacket Chaqueta Sangro Hombre Azul Kodiak...'
 sku: 'B07BB5TRDT-es'
 tags: [ 'chaqueta', ]

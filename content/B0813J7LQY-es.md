@@ -5,7 +5,7 @@ date: 2020-07-26 18:54:06
 image: 'https://m.media-amazon.com/images/I/41fFrUG+sGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813J7LQY-es Marca Amazon - Find. Sandalias abiertas Barely There para...'
 sku: 'B0813J7LQY-es'
 tags: [ '-','find.','sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-04-08 08:48:21
 image: 'https://m.media-amazon.com/images/I/51sPrZkPgLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P578BTW-es Guess - Manhattan Logo Organizadores de bolso Hombre Negro...'
 sku: 'B07P578BTW-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 14:58:46
 image: 'https://m.media-amazon.com/images/I/41K9JsWROCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJBHSYL-es Esprit 099ee1j024 Sudadera Azul Navy 400 X-Small para Mujer'
 sku: 'B07VJBHSYL-es'
 tags: [ 'sudadera', ]

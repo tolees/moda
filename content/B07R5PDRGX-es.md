@@ -5,7 +5,7 @@ date: 2020-05-10 11:48:45
 image: 'https://m.media-amazon.com/images/I/41oqOZ0f-5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5PDRGX-es G.I.G.A. DX Hakawa - Parka de Invierno con Capucha...'
 sku: 'B07R5PDRGX-es'
 tags: [ 'parka', ]

@@ -5,7 +5,7 @@ date: 2020-04-06 11:09:12
 image: 'https://m.media-amazon.com/images/I/31HnCoMHuGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD4V5YJ-es Tommy Hilfiger Modern Jaspe Camiseta Blanco Classic White...'
 sku: 'B07DD4V5YJ-es'
 tags: [ 'camiseta', ]

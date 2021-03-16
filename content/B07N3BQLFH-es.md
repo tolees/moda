@@ -5,7 +5,7 @@ date: 2020-08-24 08:10:38
 image: 'https://m.media-amazon.com/images/I/41AQg7X0kRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3BQLFH-es Desigual Coat SIGRUN Abrigo blanco Blanco 1000 40 para Mujer'
 sku: 'B07N3BQLFH-es'
 tags: [ 'abrigo', ]

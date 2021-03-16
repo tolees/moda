@@ -5,7 +5,7 @@ date: 2020-06-04 01:10:28
 image: 'https://m.media-amazon.com/images/I/31rjqwGfDaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVZDB1B-es Marca Amazon - find. Calzoncillo Corto Bajo de Algodón...'
 sku: 'B07JVZDB1B-es'
 tags: [ '-','find.', ]

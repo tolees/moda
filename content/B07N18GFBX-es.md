@@ -5,7 +5,7 @@ date: 2020-09-06 04:06:49
 image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18GFBX-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Antic Charcoal 25W...'
 sku: 'B07N18GFBX-es'
 tags: [ 'vaqueros', ]

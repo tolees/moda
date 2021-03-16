@@ -5,7 +5,7 @@ date: 2020-06-30 02:26:24
 image: 'https://m.media-amazon.com/images/I/31cKN5te2+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4JMMM5-es Timberland Los Angeles Slingback Sandalias con Plataforma...'
 sku: 'B07B4JMMM5-es'
 tags: [ 'sandalias','timberland', ]

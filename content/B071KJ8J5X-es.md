@@ -5,7 +5,7 @@ date: 2020-09-13 09:28:13
 image: 'https://m.media-amazon.com/images/I/41ts7R6YwjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KJ8J5X-es adidas Entrada 86 Camiseta de Fútbol para Hombre de Cuello...'
 sku: 'B071KJ8J5X-es'
 tags: [ 'camiseta', ]

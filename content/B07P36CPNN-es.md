@@ -5,7 +5,7 @@ date: 2020-01-21 13:13:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417RbIqoKML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P36CPNN-es Dickies Sacramento Camisa Morado Large Talla del...'
 sku: 'B07P36CPNN-es'
 tags: [ 'camisa', ]

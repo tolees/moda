@@ -5,7 +5,7 @@ date: 2020-06-17 08:03:13
 image: 'https://m.media-amazon.com/images/I/31umxFxcY+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H6NY50E-es Crocs Swiftwater Wave M Zapatos de agua Hombre Negro...'
 sku: 'B01H6NY50E-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-06-29 15:53:56
 image: 'https://m.media-amazon.com/images/I/31zH1DphphL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDZB7Y2-es PUMA Cali WN S Zapatos Deportivos para Mujer Blanco...'
 sku: 'B07SDZB7Y2-es'
 tags: [ 'zapatos', ]

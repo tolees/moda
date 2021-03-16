@@ -5,7 +5,7 @@ date: 2020-06-22 08:00:50
 image: 'https://m.media-amazon.com/images/I/31tD+fA1w3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRG2PSQ-es BOSS Maine BC-c Vaqueros Straight Negro Black 002 32W/32L...'
 sku: 'B07BRG2PSQ-es'
 tags: [ 'vaqueros', ]

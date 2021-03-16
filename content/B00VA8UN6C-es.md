@@ -5,7 +5,7 @@ date: 2020-06-03 15:24:06
 image: 'https://m.media-amazon.com/images/I/31K3KXAzOWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VA8UN6C-es Joma Nobel Pantalón de equipación Naranja M'
 sku: 'B00VA8UN6C-es'
 tags: [ 'pantalón', ]

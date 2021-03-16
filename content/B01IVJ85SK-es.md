@@ -5,7 +5,7 @@ date: 2020-06-01 17:39:47
 image: 'https://m.media-amazon.com/images/I/416xSulv0YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IVJ85SK-es Ever-Pretty Vestido de Fiesta Noche Asimétrico en Encaje...'
 sku: 'B01IVJ85SK-es'
 tags: [ 'vestido', ]

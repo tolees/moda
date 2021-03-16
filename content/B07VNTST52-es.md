@@ -5,7 +5,7 @@ date: 2020-07-16 01:37:18
 image: 'https://m.media-amazon.com/images/I/41xx9Xl1MQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNTST52-es Lee Daren Button Fly Vaqueros Straight Azul Dk Clean Foam...'
 sku: 'B07VNTST52-es'
 tags: [ 'vaqueros', ]

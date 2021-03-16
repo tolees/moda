@@ -5,7 +5,7 @@ date: 2020-08-23 11:56:21
 image: 'https://m.media-amazon.com/images/I/41GrrJgwPQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F6WJP-es Wrangler Larston Vaqueros Ice Lake 29W / 34L para Hombre'
 sku: 'B07M5F6WJP-es'
 tags: [ 'vaqueros', ]

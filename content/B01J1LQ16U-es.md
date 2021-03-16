@@ -5,7 +5,7 @@ date: 2020-07-03 20:00:56
 image: 'https://m.media-amazon.com/images/I/31-zFL1FfUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J1LQ16U-es Crocs Crocband U Zuecos Unisex Adulto Beige Stucco-Melon...'
 sku: 'B01J1LQ16U-es'
 tags: [ 'zuecos', ]

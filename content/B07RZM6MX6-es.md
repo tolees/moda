@@ -5,7 +5,7 @@ date: 2020-09-26 20:51:03
 image: 'https://m.media-amazon.com/images/I/41CBGNWgLgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZM6MX6-es Levi s 510 Fit Vaqueros Skinny Azul Delray Pier 4/Waxy...'
 sku: 'B07RZM6MX6-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-07-18 19:28:36
 image: 'https://m.media-amazon.com/images/I/412UXgjzz7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HMRV8UY-es The North Face T92TX3 Camiseta Easy Hombre Multicolor...'
 sku: 'B01HMRV8UY-es'
 tags: [ 'camiseta', ]

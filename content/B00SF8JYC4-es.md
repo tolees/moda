@@ -5,7 +5,7 @@ date: 2020-02-01 11:22:05
 image: 'https://m.media-amazon.com/images/I/31rtXZ49w+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SF8JYC4-es G-STAR RAW Midge Zip Low Waist Super Skinny Vaqueros...'
 sku: 'B00SF8JYC4-es'
 tags: [ 'vaqueros', ]

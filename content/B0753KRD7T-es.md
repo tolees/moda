@@ -5,7 +5,7 @@ date: 2020-07-14 03:07:50
 image: 'https://m.media-amazon.com/images/I/31rpYxsWaZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753KRD7T-es Uvex Sportstyle 803 v Gafas de Deporte Adultos Unisex...'
 sku: 'B0753KRD7T-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-01-23 11:17:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JjLMfF9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJJ1JQB-es G-STAR RAW ARC 3D Mid Waist Skinny Vaqueros Azul dk Aged...'
 sku: 'B07BJJ1JQB-es'
 tags: [ 'vaqueros', ]

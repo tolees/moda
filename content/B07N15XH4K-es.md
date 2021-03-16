@@ -5,7 +5,7 @@ date: 2020-02-20 12:06:46
 image: 'https://m.media-amazon.com/images/I/41fVMwoMKGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N15XH4K-es Lee Chunky Crew Neck Sudadera Naranja Sign Orange Me Large...'
 sku: 'B07N15XH4K-es'
 tags: [ 'sudadera', ]

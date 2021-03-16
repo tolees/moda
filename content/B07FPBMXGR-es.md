@@ -5,7 +5,7 @@ date: 2020-04-24 11:35:09
 image: 'https://m.media-amazon.com/images/I/31h6ZGb4xRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPBMXGR-es Calvin Klein Core Institutional Logo Sweatshirt Sudadera...'
 sku: 'B07FPBMXGR-es'
 tags: [ 'sudadera', ]

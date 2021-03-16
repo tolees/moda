@@ -5,7 +5,7 @@ date: 2020-09-05 13:01:17
 image: 'https://m.media-amazon.com/images/I/3155yvFadsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AWVYDF0-es Gildan - Camiseta básica de manga corta Unisex Estilosa...'
 sku: 'B00AWVYDF0-es'
 tags: [ 'camiseta', ]

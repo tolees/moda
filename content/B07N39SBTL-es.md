@@ -5,7 +5,7 @@ date: 2020-03-26 13:25:01
 image: 'https://m.media-amazon.com/images/I/31iv-PLMXlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N39SBTL-es Desigual Coat Mandala Abrigo Negro 2000 46 Talla del...'
 sku: 'B07N39SBTL-es'
 tags: [ 'abrigo', ]

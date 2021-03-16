@@ -5,7 +5,7 @@ date: 2020-06-30 00:10:41
 image: 'https://m.media-amazon.com/images/I/419Qc2X4ofL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RPTMLW-es Helly Hansen Logo Hoodie Sudadera con Capucha Hombre Gris M'
 sku: 'B073RPTMLW-es'
 tags: [ 'sudadera', ]

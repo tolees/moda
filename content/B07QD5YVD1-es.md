@@ -5,7 +5,7 @@ date: 2020-05-13 18:45:39
 image: 'https://m.media-amazon.com/images/I/41nUIfXf6mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD5YVD1-es YIHANK - Blusa - para niña Negro Black3 XXXL'
 sku: 'B07QD5YVD1-es'
 tags: [ 'blusa', ]

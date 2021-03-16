@@ -5,7 +5,7 @@ date: 2020-10-01 13:07:44
 image: 'https://m.media-amazon.com/images/I/41gcejGY7ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FH9TBSF-es Timberland Classic 2 Eye Náuticos para Hombre Marrón Brown...'
 sku: 'B07FH9TBSF-es'
 tags: [ 'timberland', ]

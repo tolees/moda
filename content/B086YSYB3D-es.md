@@ -5,7 +5,7 @@ date: 2020-04-28 12:06:05
 image: 'https://m.media-amazon.com/images/I/41eJHN29hyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YSYB3D-es Sandalias Odetina Mary Jane de tacón grueso con correa de...'
 sku: 'B086YSYB3D-es'
 tags: [ 'sandalias', ]

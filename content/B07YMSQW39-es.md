@@ -5,7 +5,7 @@ date: 2020-10-12 20:19:53
 image: 'https://m.media-amazon.com/images/I/31yeMq2M1qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YMSQW39-es Kappa 304TDP0 911 S - Camiseta IRIAMI talla negro/gris S'
 sku: 'B07YMSQW39-es'
 tags: [ 'camiseta', ]

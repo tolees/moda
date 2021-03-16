@@ -5,7 +5,7 @@ date: 2020-02-25 17:02:25
 image: 'https://m.media-amazon.com/images/I/412vvSpgiPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3SPBPK-es Desigual Sweat ANNARAU Jersey Azul Blue Depths 5149 S para...'
 sku: 'B07N3SPBPK-es'
 tags: [ 'jersey', ]

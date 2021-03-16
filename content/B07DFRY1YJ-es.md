@@ -5,7 +5,7 @@ date: 2020-09-22 18:38:42
 image: 'https://m.media-amazon.com/images/I/41oMHZw0lGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFRY1YJ-es ECCO Lisbon Zapatos de Cordones Derby para Hombre Marrón...'
 sku: 'B07DFRY1YJ-es'
 tags: [ 'zapatos', ]

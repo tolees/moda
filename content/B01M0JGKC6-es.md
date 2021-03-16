@@ -5,7 +5,7 @@ date: 2020-06-26 20:47:00
 image: 'https://m.media-amazon.com/images/I/31odXxV9sWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0JGKC6-es Marca Amazon - Iris & Lilly BELK006M5 Hipster Mujer Pack...'
 sku: 'B01M0JGKC6-es'
 tags: [ '&','iris','lilly', ]

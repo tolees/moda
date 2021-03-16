@@ -5,7 +5,7 @@ date: 2020-04-23 11:36:26
 image: 'https://m.media-amazon.com/images/I/311eFTn0w+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB7Q2G3-es P Prettyia Calzador de Zapatos de Madera Mango Largo...'
 sku: 'B07QB7Q2G3-es'
 tags: [ 'zapatos', ]

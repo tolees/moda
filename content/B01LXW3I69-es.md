@@ -5,7 +5,7 @@ date: 2020-02-22 09:31:59
 image: 'https://m.media-amazon.com/images/I/41YZFzy7h7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXW3I69-es Marvel Camiseta Manga Corta Deadpool Character Blanco S'
 sku: 'B01LXW3I69-es'
 tags: [ 'camiseta', ]

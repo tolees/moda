@@ -5,7 +5,7 @@ date: 2020-08-18 18:16:34
 image: 'https://m.media-amazon.com/images/I/41cA9Ktay7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RL2SLCG-es Tommy Hilfiger TJM Round Back Logo tee Camiseta Deporte...'
 sku: 'B07RL2SLCG-es'
 tags: [ 'camiseta', ]

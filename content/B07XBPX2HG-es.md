@@ -5,7 +5,7 @@ date: 2020-07-02 17:17:24
 image: 'https://m.media-amazon.com/images/I/51Yezfjt9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBPX2HG-es LIGE Relojes Hombre Acero Inoxidable Ocio Simple Cuarzo...'
 sku: 'B07XBPX2HG-es'
 tags: [ 'moda', ]

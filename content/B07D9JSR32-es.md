@@ -5,7 +5,7 @@ date: 2020-03-02 20:07:19
 image: 'https://m.media-amazon.com/images/I/31nJXIZGkZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9JSR32-es Tommy Hilfiger Pant Pantalones de pijama Gris Grey Heather...'
 sku: 'B07D9JSR32-es'
 tags: [ 'pijama', ]

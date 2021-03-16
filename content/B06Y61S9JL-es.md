@@ -5,7 +5,7 @@ date: 2020-04-14 18:48:07
 image: 'https://m.media-amazon.com/images/I/41HAWYK+EXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y61S9JL-es Tommy Hilfiger Core Stretch Poplin Slim Shirt Camisa Azul...'
 sku: 'B06Y61S9JL-es'
 tags: [ 'camisa', ]

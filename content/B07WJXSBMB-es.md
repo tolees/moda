@@ -5,7 +5,7 @@ date: 2020-05-30 16:38:42
 image: 'https://m.media-amazon.com/images/I/41Q-TYptPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJXSBMB-es Jack & Jones Joroutdoors tee SS Crew Neck Camiseta Azul...'
 sku: 'B07WJXSBMB-es'
 tags: [ 'camiseta', ]

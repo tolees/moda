@@ -5,7 +5,7 @@ date: 2020-05-29 12:36:30
 image: 'https://m.media-amazon.com/images/I/51upqksiHqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08592NTCW-es Meloive Collar Anti Pulgas y Garrapatas para Perros...'
 sku: 'B08592NTCW-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-09-23 04:52:51
 image: 'https://m.media-amazon.com/images/I/31U7U2RPBuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNR6CXZ-es Burton Classic Mountain High Camiseta Hombre True Black XS'
 sku: 'B07SNR6CXZ-es'
 tags: [ 'camiseta', ]

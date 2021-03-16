@@ -5,7 +5,7 @@ date: 2020-02-09 21:18:44
 image: 'https://m.media-amazon.com/images/I/3196MoejmZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ413RH-es Geox D Annytah D Bailarinas para Mujer Negro Black C9999...'
 sku: 'B07DJ413RH-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-01-07 11:07:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31fgSBzw3rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F44LT-es Wrangler LS Refined Polo Camisa Manga Larga Azul Blue...'
 sku: 'B07M5F44LT-es'
 tags: [ 'camisa', ]

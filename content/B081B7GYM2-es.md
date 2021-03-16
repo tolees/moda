@@ -5,7 +5,7 @@ date: 2020-09-12 17:53:34
 image: 'https://m.media-amazon.com/images/I/31JY0YNOCjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B7GYM2-es Columbia CSC Basic Camiseta Estampada De Manga Corta...'
 sku: 'B081B7GYM2-es'
 tags: [ 'camiseta', ]

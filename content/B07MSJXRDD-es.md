@@ -5,7 +5,7 @@ date: 2020-06-25 22:05:49
 image: 'https://m.media-amazon.com/images/I/31y0OPHE0QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSJXRDD-es Clarks Ronnie Limit Zapatos de Cordones Brogue Marrón...'
 sku: 'B07MSJXRDD-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 16:40:05
 image: 'https://m.media-amazon.com/images/I/416vr+wyIZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VJ9THJ-es Columbia Powder Lite Chaqueta para Hombre Naranja Negro...'
 sku: 'B087VJ9THJ-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 22:33:08
 image: 'https://m.media-amazon.com/images/I/51OzZg3mARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYBCY3J-es Quiksilver Molokai Abyss Cork - Sandals For Men Zapatos de...'
 sku: 'B07DYBCY3J-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-02-02 22:58:49
 image: 'https://m.media-amazon.com/images/I/31dnFFsS6AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNSQ66-es G-STAR RAW Vehem Pocket Round Neck Camiseta Negro Dk Black...'
 sku: 'B07NDNSQ66-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-19 21:01:52
 image: 'https://m.media-amazon.com/images/I/41VI4nhfV6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R8N5NM-es Vero Moda Vmava Plain SS Top Ga Noos Camiseta Azul Night...'
 sku: 'B075R8N5NM-es'
 tags: [ 'camiseta','moda', ]

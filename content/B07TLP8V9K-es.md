@@ -5,7 +5,7 @@ date: 2020-06-02 13:22:02
 image: 'https://m.media-amazon.com/images/I/31xAc68jpyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLP8V9K-es Clarks Un Tynamo Tie Zapatos de Cordones Brogue para...'
 sku: 'B07TLP8V9K-es'
 tags: [ 'zapatos', ]

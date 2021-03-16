@@ -5,7 +5,7 @@ date: 2020-08-25 20:54:42
 image: 'https://m.media-amazon.com/images/I/31aVavceNSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003F26IPG-es Lacoste L1212 Camiseta Polo Rosa Flamant T03 XS para Hombre'
 sku: 'B003F26IPG-es'
 tags: [ 'camiseta', ]

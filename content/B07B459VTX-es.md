@@ -5,7 +5,7 @@ date: 2020-09-03 08:30:47
 image: 'https://m.media-amazon.com/images/I/41CRaLpoPdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B459VTX-es SELECTED HOMME Slhslimsel-Pelle Shirt LS B Noos Camisa...'
 sku: 'B07B459VTX-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-07-02 12:36:44
 image: 'https://m.media-amazon.com/images/I/41U7x6wd08L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792FQ7PP-es Geox U Leitan B Mocasines para Hombre Negro Black C9999 39 EU'
 sku: 'B0792FQ7PP-es'
 tags: [ 'geox', ]

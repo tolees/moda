@@ -5,7 +5,7 @@ date: 2020-01-20 09:33:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OzRDDOsUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGMSK28-es Timberland Davis Square 6 Inch Zapatillas Altas Unisex-...'
 sku: 'B07DGMSK28-es'
 tags: [ 'timberland', ]

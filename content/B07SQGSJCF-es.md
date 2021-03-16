@@ -5,7 +5,7 @@ date: 2020-04-08 13:54:40
 image: 'https://m.media-amazon.com/images/I/41y4AZYWW3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGSJCF-es Carteras Hombre Pequeña Tarjetero Pequeña Regalos...'
 sku: 'B07SQGSJCF-es'
 tags: [ 'billetera', ]

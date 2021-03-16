@@ -5,7 +5,7 @@ date: 2020-05-29 16:17:06
 image: 'https://m.media-amazon.com/images/I/41zKYT5VfHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1WB3RR-es Cressi Coral Shoes Zapatilla para Deportes Acuáticos...'
 sku: 'B07S1WB3RR-es'
 tags: [ 'zapatilla', ]

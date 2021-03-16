@@ -5,7 +5,7 @@ date: 2020-09-24 15:37:24
 image: 'https://m.media-amazon.com/images/I/41zdDtPnLvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797GD9RW-es Marca Amazon - Iris & Lilly Sujetador sin Aros con Relleno...'
 sku: 'B0797GD9RW-es'
 tags: [ '&','iris','lilly', ]

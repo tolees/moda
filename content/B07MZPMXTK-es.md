@@ -5,7 +5,7 @@ date: 2020-04-26 15:34:03
 image: 'https://m.media-amazon.com/images/I/51sdW8ciRnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPMXTK-es Pepe Jeans Dolly Blusa Multi 0aa X-Small para Mujer'
 sku: 'B07MZPMXTK-es'
 tags: [ 'blusa', ]

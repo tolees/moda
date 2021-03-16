@@ -5,7 +5,7 @@ date: 2020-02-16 11:35:58
 image: 'https://m.media-amazon.com/images/I/51SeuJzKD3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPTZ6BG-es Sexy Traje de baño de Dos Piezas para Mujer con Traje de...'
 sku: 'B07PPTZ6BG-es'
 tags: [ 'bikini', ]

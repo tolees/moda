@@ -5,7 +5,7 @@ date: 2020-01-03 13:41:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KCMvGM%2BWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GQUW8LG-es The North Face Venture 2 Chaqueta Mujer Negro TNF Black S'
 sku: 'B01GQUW8LG-es'
 tags: [ 'chaqueta', ]

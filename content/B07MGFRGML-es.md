@@ -5,7 +5,7 @@ date: 2020-03-11 12:21:54
 image: 'https://m.media-amazon.com/images/I/41y5v4cSwRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRGML-es Napapijri BOVES C Sudadera Azul BLU Marine 176 M para Hombre'
 sku: 'B07MGFRGML-es'
 tags: [ 'sudadera', ]

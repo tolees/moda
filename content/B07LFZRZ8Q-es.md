@@ -5,7 +5,7 @@ date: 2020-01-08 08:18:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31WI8SM8sIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZRZ8Q-es Geox D ANNYTAH Moc A Mocasines para Mujer Azul Navy C4064...'
 sku: 'B07LFZRZ8Q-es'
 tags: [ 'geox', ]

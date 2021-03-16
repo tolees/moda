@@ -5,7 +5,7 @@ date: 2020-03-27 01:52:12
 image: 'https://m.media-amazon.com/images/I/31nrnklBGCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LQZNLE-es Converse AS HI CAN OPTIC. WHT M7650 - Botines de lona...'
 sku: 'B000LQZNLE-es'
 tags: [ 'botines', ]

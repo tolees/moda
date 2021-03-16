@@ -5,7 +5,7 @@ date: 2020-08-09 16:20:07
 image: 'https://m.media-amazon.com/images/I/51px3ZXAMBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085SM6HH1-es Only Onlmay Life Vestido de Verano Apple Butter XS para Mujer'
 sku: 'B085SM6HH1-es'
 tags: [ 'vestido', ]

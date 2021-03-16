@@ -5,7 +5,7 @@ date: 2020-02-04 14:16:50
 image: 'https://m.media-amazon.com/images/I/41Qa1IhL5XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJQ2YC-es Kipling Eleva Bolso con Bandolera para Mujer Gris Chalk...'
 sku: 'B07MVJQ2YC-es'
 tags: [ 'bolso', ]

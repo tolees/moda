@@ -5,7 +5,7 @@ date: 2020-06-10 18:41:26
 image: 'https://m.media-amazon.com/images/I/41z1eJfTZ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQP42DF-es Anyeat Hormas para Zapatos 1 par Árbol del zapato Árbol...'
 sku: 'B07QQP42DF-es'
 tags: [ 'zapatos', ]

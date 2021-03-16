@@ -5,7 +5,7 @@ date: 2020-09-12 11:55:08
 image: 'https://m.media-amazon.com/images/I/41EPb2r1kuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVQ28Z2-es Levi s The tee Camiseta Logotipo de la Serie Sepia Rose...'
 sku: 'B07ZVQ28Z2-es'
 tags: [ 'camiseta', ]

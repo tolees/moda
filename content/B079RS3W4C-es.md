@@ -5,7 +5,7 @@ date: 2020-05-25 08:36:34
 image: 'https://m.media-amazon.com/images/I/41cV7lPDmgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RS3W4C-es Pepe Jeans Jenna PL952389 Vestido Multicolor Multi 0Aa...'
 sku: 'B079RS3W4C-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 23:54:56
 image: 'https://m.media-amazon.com/images/I/417zHxjsEeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CJTISNU-es Gafas de Natación para Niños 2 Paquete - Júnior Gafas de...'
 sku: 'B01CJTISNU-es'
 tags: [ 'gafas', ]

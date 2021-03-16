@@ -5,7 +5,7 @@ date: 2020-03-31 12:03:25
 image: 'https://m.media-amazon.com/images/I/41GiX8KuV0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWKXSQF-es BILLABONG Alves Jacket Chaqueta Deportiva Verde Dark...'
 sku: 'B07RWKXSQF-es'
 tags: [ 'chaqueta', ]

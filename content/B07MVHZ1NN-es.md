@@ -5,7 +5,7 @@ date: 2020-02-01 12:15:12
 image: 'https://m.media-amazon.com/images/I/41x0g0emfqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHZ1NN-es Kipling New S Bolso Shopper para Mujer Morado Dark Plum...'
 sku: 'B07MVHZ1NN-es'
 tags: [ 'bolso', ]

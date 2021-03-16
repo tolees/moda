@@ -5,7 +5,7 @@ date: 2020-06-23 07:12:59
 image: 'https://m.media-amazon.com/images/I/41ZwRtO+zAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYHB2WL-es Pepe Jeans Cane Vaqueros Medium Used Denim Bb6 34W / 34L...'
 sku: 'B07MYHB2WL-es'
 tags: [ 'vaqueros', ]

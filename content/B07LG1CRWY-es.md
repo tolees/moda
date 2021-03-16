@@ -5,7 +5,7 @@ date: 2020-03-05 17:40:47
 image: 'https://m.media-amazon.com/images/I/41o2vKVGEXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG1CRWY-es Geox J ALBEN Boy A Zapatillas para Niños Azul...'
 sku: 'B07LG1CRWY-es'
 tags: [ 'geox', ]

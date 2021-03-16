@@ -5,7 +5,7 @@ date: 2020-02-04 23:22:24
 image: 'https://m.media-amazon.com/images/I/41jY8wz-P5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ1Q9XX-es Parfois - Bolso Shopper Acolchado De Nylon - Mujeres -...'
 sku: 'B07TZ1Q9XX-es'
 tags: [ 'bolso', ]

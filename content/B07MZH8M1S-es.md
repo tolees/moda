@@ -5,7 +5,7 @@ date: 2020-06-11 07:17:29
 image: 'https://m.media-amazon.com/images/I/41gE8x+Q2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZH8M1S-es Superdry Surplus Goods Box FIT tee Camiseta Turchese Capri...'
 sku: 'B07MZH8M1S-es'
 tags: [ 'camiseta', ]

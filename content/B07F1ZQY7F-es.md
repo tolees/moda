@@ -5,7 +5,7 @@ date: 2020-09-23 09:08:17
 image: 'https://m.media-amazon.com/images/I/31Pa5f3w3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1ZQY7F-es Timberland Newport Bay Zapatillas Bajas para Hombre Azul...'
 sku: 'B07F1ZQY7F-es'
 tags: [ 'timberland', ]

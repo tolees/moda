@@ -5,7 +5,7 @@ date: 2020-05-08 18:52:46
 image: 'https://m.media-amazon.com/images/I/41ocg5emEBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXF9MTW-es Levi s The tee Camiseta de Manga Corta Blanco Floral...'
 sku: 'B07TXF9MTW-es'
 tags: [ 'camiseta', ]

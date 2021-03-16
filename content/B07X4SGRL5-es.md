@@ -5,7 +5,7 @@ date: 2020-06-28 19:05:08
 image: 'https://m.media-amazon.com/images/I/41FEDEPfM2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4SGRL5-es Pepe Jeans Hatch Vaqueros Ajustados Azul 000denim 000 40W...'
 sku: 'B07X4SGRL5-es'
 tags: [ 'vaqueros', ]

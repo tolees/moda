@@ -5,7 +5,7 @@ date: 2020-07-25 17:54:12
 image: 'https://m.media-amazon.com/images/I/41iGFhDuL-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBG9PFL-es Vans Classic Camiseta Amarillo Sulphur Spring/Asphalt Ync...'
 sku: 'B07YBG9PFL-es'
 tags: [ 'camiseta', ]

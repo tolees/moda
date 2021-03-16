@@ -5,7 +5,7 @@ date: 2020-07-12 20:58:18
 image: 'https://m.media-amazon.com/images/I/41vGrfbeq5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJGHFWP-es Superdry VL Fade T Shirt Store tee Camiseta Azul Princedom...'
 sku: 'B07TJGHFWP-es'
 tags: [ 'camiseta', ]

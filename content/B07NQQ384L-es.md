@@ -5,7 +5,7 @@ date: 2020-03-01 20:34:15
 image: 'https://m.media-amazon.com/images/I/41OJidwyaAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQQ384L-es Springfield 6Ba-Acolchada Cap Bas Chaqueta Verde Green 26...'
 sku: 'B07NQQ384L-es'
 tags: [ 'chaqueta', ]

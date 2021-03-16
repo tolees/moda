@@ -5,7 +5,7 @@ date: 2020-03-10 17:01:06
 image: 'https://m.media-amazon.com/images/I/41dprozmDgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WNAVSCY-es Timberland Euro Sprint Hiker Zapatillas Chukka para Hombre...'
 sku: 'B00WNAVSCY-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-01-29 09:50:25
 image: 'https://m.media-amazon.com/images/I/51wKpNao-gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ6ZKWC-es Vila Clothes 14053555 Chaqueta Punto Turquesa Oil Blue Oil...'
 sku: 'B07TJ6ZKWC-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-05-03 18:51:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31mX9fyZYfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079G4Z4RP-es Under Armour Sportstyle Cotton Graphic Short Pantalón...'
 sku: 'B079G4Z4RP-es'
 tags: [ 'pantalón', ]

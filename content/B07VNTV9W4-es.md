@@ -5,7 +5,7 @@ date: 2020-06-27 17:21:53
 image: 'https://m.media-amazon.com/images/I/3166nxg1dEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNTV9W4-es Lee Daren Zip Fly Vaqueros Straight Verde Lichen Green 82...'
 sku: 'B07VNTV9W4-es'
 tags: [ 'vaqueros', ]

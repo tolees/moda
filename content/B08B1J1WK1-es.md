@@ -5,7 +5,7 @@ date: 2020-09-16 14:14:48
 image: 'https://m.media-amazon.com/images/I/31fGuYO9r1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B1J1WK1-es Pantalón Chándal y Deportivo para Mujer Pantalones de...'
 sku: 'B08B1J1WK1-es'
 tags: [ 'pantalón', ]

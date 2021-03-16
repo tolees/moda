@@ -5,7 +5,7 @@ date: 2020-05-11 16:07:00
 image: 'https://m.media-amazon.com/images/I/4128nIskCmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNLQLBF-es New Look Earnie Patch Pocket Camisa Negro Black 1 40 para...'
 sku: 'B07VNLQLBF-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-04-06 00:46:39
 image: 'https://m.media-amazon.com/images/I/41ZitQ8kCHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RP2XTM-es Helly Hansen Crew Windbreaker Chaqueta Hombre Navy L'
 sku: 'B073RP2XTM-es'
 tags: [ 'chaqueta', ]

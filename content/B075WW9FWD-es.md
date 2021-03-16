@@ -5,7 +5,7 @@ date: 2020-02-26 13:36:58
 image: 'https://m.media-amazon.com/images/I/41XGBDOF4+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WW9FWD-es Esprit 998ee1j800 Sudadera Azul Navy 400 X-Small para Mujer'
 sku: 'B075WW9FWD-es'
 tags: [ 'sudadera', ]

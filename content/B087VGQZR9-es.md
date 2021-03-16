@@ -5,7 +5,7 @@ date: 2020-09-26 13:35:26
 image: 'https://m.media-amazon.com/images/I/410K5hwpNSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VGQZR9-es Columbia Powder Lite Chaqueta De Plumón con Capucha Hombre...'
 sku: 'B087VGQZR9-es'
 tags: [ 'chaqueta', ]

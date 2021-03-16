@@ -5,7 +5,7 @@ date: 2020-05-22 11:32:17
 image: 'https://m.media-amazon.com/images/I/51oZ8jc26NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMNH33-es HUGO Trunk Brother Pack Bóxer Blanco Open White 122 Small...'
 sku: 'B07RYMNH33-es'
 tags: [ 'bóxer', ]

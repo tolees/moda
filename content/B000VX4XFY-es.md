@@ -5,7 +5,7 @@ date: 2020-09-24 05:10:52
 image: 'https://m.media-amazon.com/images/I/41iV6Ia-39L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VX4XFY-es Timberland 6-Inch Premium Boot Botas para Hombre Negro...'
 sku: 'B000VX4XFY-es'
 tags: [ 'timberland', ]

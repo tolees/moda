@@ -5,7 +5,7 @@ date: 2020-01-04 19:26:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VUva05I-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6XX2T8-es J.Endéar Inicial Encanto J Personalizar Collar Clavícula...'
 sku: 'B07V6XX2T8-es'
 tags: [ 'collar', ]

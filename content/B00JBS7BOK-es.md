@@ -5,7 +5,7 @@ date: 2020-02-04 14:14:09
 image: 'https://m.media-amazon.com/images/I/41QpSVowU9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JBS7BOK-es Kempa Gold Camiseta Hombre Amarillo limón/Negro XL'
 sku: 'B00JBS7BOK-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 19:29:18
 image: 'https://m.media-amazon.com/images/I/310qlzvJp-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPXNRP-es Geox D Nebula B Zapatillas sin Cordones para Mujer Negro...'
 sku: 'B07SVPXNRP-es'
 tags: [ 'geox', ]

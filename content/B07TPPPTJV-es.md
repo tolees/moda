@@ -5,7 +5,7 @@ date: 2020-06-25 11:14:16
 image: 'https://m.media-amazon.com/images/I/41GOTDzPJaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPPPTJV-es Levi s Sunset 1 Pkt Slim Camisa Azul Antonio Skyway 0011...'
 sku: 'B07TPPPTJV-es'
 tags: [ 'camisa', ]

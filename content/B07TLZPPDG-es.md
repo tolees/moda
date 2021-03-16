@@ -5,7 +5,7 @@ date: 2020-04-17 10:57:28
 image: 'https://m.media-amazon.com/images/I/41b6Amv1JnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLZPPDG-es Calvin Klein Ckj 016 Vaqueros Skinny Azul Copenhagen Grey...'
 sku: 'B07TLZPPDG-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-04-09 02:56:27
 image: 'https://m.media-amazon.com/images/I/41P5qOrGCfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FB7NTLF-es JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera Negro...'
 sku: 'B07FB7NTLF-es'
 tags: [ 'sudadera', ]

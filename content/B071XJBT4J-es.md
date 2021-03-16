@@ -5,7 +5,7 @@ date: 2020-08-05 11:36:14
 image: 'https://m.media-amazon.com/images/I/41jPNafw98L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XJBT4J-es Jack & Jones Jprnon Iron Shirt L/s Noos Camisa Negro Black...'
 sku: 'B071XJBT4J-es'
 tags: [ 'camisa', ]

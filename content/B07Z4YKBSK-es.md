@@ -5,7 +5,7 @@ date: 2020-03-21 10:31:49
 image: 'https://m.media-amazon.com/images/I/51gqpYxhUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4YKBSK-es Bolso de Fiesta Noche Mujer Embrague Cartera de Mano de...'
 sku: 'B07Z4YKBSK-es'
 tags: [ 'bolso','monedero', ]

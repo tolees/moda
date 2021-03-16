@@ -5,7 +5,7 @@ date: 2020-05-20 13:02:15
 image: 'https://m.media-amazon.com/images/I/41ZO0UIataL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3DLP85-es Under Armour UA Streaker 2.0 Camiseta Mujer Azul...'
 sku: 'B07J3DLP85-es'
 tags: [ 'camiseta', ]

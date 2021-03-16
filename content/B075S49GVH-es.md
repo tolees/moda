@@ -5,7 +5,7 @@ date: 2020-05-06 17:15:06
 image: 'https://m.media-amazon.com/images/I/31YUjcfoNJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075S49GVH-es Marca Amazon - MERAKI Sudadera con Capucha y Cremallera...'
 sku: 'B075S49GVH-es'
 tags: [ 'meraki','sudadera', ]

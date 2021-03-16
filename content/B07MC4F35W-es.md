@@ -5,7 +5,7 @@ date: 2020-08-13 08:46:20
 image: 'https://m.media-amazon.com/images/I/31W75WPm12L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC4F35W-es Cerdá Pijama Corto Algodón Harry Potter Conjuntos Gris...'
 sku: 'B07MC4F35W-es'
 tags: [ 'pijama', ]

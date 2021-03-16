@@ -5,7 +5,7 @@ date: 2020-01-29 13:12:07
 image: 'https://m.media-amazon.com/images/I/41MwynXMj4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBYF6T5-es BOSS Trunk 3p One Design Bóxer Open Miscellaneous 960...'
 sku: 'B07NBYF6T5-es'
 tags: [ 'bóxer', ]

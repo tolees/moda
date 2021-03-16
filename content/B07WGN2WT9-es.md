@@ -5,7 +5,7 @@ date: 2020-05-08 09:10:45
 image: 'https://m.media-amazon.com/images/I/41FbOQeuUQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGN2WT9-es Jack & Jones Joruptown tee LS Crew Neck Camiseta de Manga...'
 sku: 'B07WGN2WT9-es'
 tags: [ 'camiseta', ]

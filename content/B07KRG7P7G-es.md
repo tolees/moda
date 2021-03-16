@@ -5,7 +5,7 @@ date: 2020-05-07 04:56:12
 image: 'https://m.media-amazon.com/images/I/31TNDBmO0FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRG7P7G-es Helly Hansen LIFA Dry Stripe Crew Thermal Baselayer...'
 sku: 'B07KRG7P7G-es'
 tags: [ 'camiseta', ]

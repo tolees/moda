@@ -5,7 +5,7 @@ date: 2020-04-27 16:46:42
 image: 'https://m.media-amazon.com/images/I/41oyDB4Mc8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC6JTCY-es BOYOU gafas de sol polarizadas de los hombres gafas de sol...'
 sku: 'B07QC6JTCY-es'
 tags: [ 'gafas', ]

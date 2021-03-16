@@ -5,7 +5,7 @@ date: 2020-09-28 14:40:22
 image: 'https://m.media-amazon.com/images/I/41-F6FObVaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXKN5DW-es Tommy Hilfiger TJM Essential Jaspe tee Camiseta Rosa...'
 sku: 'B07VXKN5DW-es'
 tags: [ 'camiseta', ]

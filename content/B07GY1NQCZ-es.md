@@ -5,7 +5,7 @@ date: 2020-01-15 09:55:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41V-MP6mpfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GY1NQCZ-es edc by Esprit 999cc1k803 Camiseta Gris Light Grey 040...'
 sku: 'B07GY1NQCZ-es'
 tags: [ 'camiseta', ]

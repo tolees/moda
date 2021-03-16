@@ -5,7 +5,7 @@ date: 2020-04-05 15:58:44
 image: 'https://m.media-amazon.com/images/I/41PieCga8nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBFTMMR-es Esprit 099EE1G091 Chaqueta Azul Navy 400 XL para Mujer'
 sku: 'B07VBFTMMR-es'
 tags: [ 'chaqueta', ]

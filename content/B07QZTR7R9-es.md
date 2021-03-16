@@ -5,7 +5,7 @@ date: 2020-03-25 08:39:16
 image: 'https://m.media-amazon.com/images/I/31NtunvdeRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZTR7R9-es Under Armour Mk1 Warmup Po Hood Sudadera Hombre Gris SM'
 sku: 'B07QZTR7R9-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 11:23:37
 image: 'https://m.media-amazon.com/images/I/41L39djxhML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19L5LG-es Lee Crew Sws Sudadera para Hombre Negro Black TT01 XX-Large'
 sku: 'B07N19L5LG-es'
 tags: [ 'sudadera', ]

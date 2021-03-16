@@ -5,7 +5,7 @@ date: 2020-04-13 19:31:12
 image: 'https://m.media-amazon.com/images/I/41nAclRmcKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTLYFJX-es RAZAMAZA Mujer Tacón Ancho Bombas Zapatos Plataforma...'
 sku: 'B07FTLYFJX-es'
 tags: [ 'zapatos', ]

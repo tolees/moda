@@ -5,7 +5,7 @@ date: 2020-02-04 09:05:19
 image: 'https://m.media-amazon.com/images/I/415S58X2JZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMMXMRB-es Hombre Botas de Nieve Al Aire Libre Senderismo...'
 sku: 'B07JMMXMRB-es'
 tags: [ 'botines','zapatos', ]

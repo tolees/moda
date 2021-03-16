@@ -5,7 +5,7 @@ date: 2020-10-03 11:57:04
 image: 'https://m.media-amazon.com/images/I/31kt62osfWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC194ZG-es PUMA DIVECAT V2 Sandalias deslizantes Unisex-Adulto Negro...'
 sku: 'B07DC194ZG-es'
 tags: [ 'sandalias', ]

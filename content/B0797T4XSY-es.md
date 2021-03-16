@@ -5,7 +5,7 @@ date: 2020-02-15 11:33:49
 image: 'https://m.media-amazon.com/images/I/419UBuREkVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797T4XSY-es adidas CY7875 Sudadera de Hombre Color Cortiz'
 sku: 'B0797T4XSY-es'
 tags: [ 'sudadera', ]

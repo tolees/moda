@@ -5,7 +5,7 @@ date: 2020-01-19 20:58:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fOO18z8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QN7WKD-es find. Chaqueta Efecto Cuero para Hombre Negro Schwarz Medium'
 sku: 'B073QN7WKD-es'
 tags: [ 'chaqueta', ]

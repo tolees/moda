@@ -5,7 +5,7 @@ date: 2020-06-26 11:44:12
 image: 'https://m.media-amazon.com/images/I/41iSZ9ReNgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XYN8AM-es Dim Coton Stretch Boxer x3 Noir/Noir/Noir 6 XG/60/XXL Pack...'
 sku: 'B005XYN8AM-es'
 tags: [ 'boxer', ]

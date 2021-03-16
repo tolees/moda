@@ -5,7 +5,7 @@ date: 2020-10-01 09:50:12
 image: 'https://m.media-amazon.com/images/I/41zY2Lmwe1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFRBY8S-es Tommy Hilfiger S/s Crew Neck Camiseta Gris Grey Heather...'
 sku: 'B07DFRBY8S-es'
 tags: [ 'camiseta', ]

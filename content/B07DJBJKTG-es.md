@@ -5,7 +5,7 @@ date: 2020-06-14 08:00:12
 image: 'https://m.media-amazon.com/images/I/41k-EXrZyLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJBJKTG-es Geox D Rubidia A Zapatillas para Mujer Marrón Curry C2021...'
 sku: 'B07DJBJKTG-es'
 tags: [ 'geox', ]

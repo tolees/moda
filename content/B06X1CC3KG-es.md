@@ -5,7 +5,7 @@ date: 2020-06-23 15:08:49
 image: 'https://m.media-amazon.com/images/I/41yLp9RCU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X1CC3KG-es Vans Colorblock tee - Camiseta para Hombre Negro...'
 sku: 'B06X1CC3KG-es'
 tags: [ 'camiseta', ]

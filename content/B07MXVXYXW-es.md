@@ -5,7 +5,7 @@ date: 2020-04-07 11:08:27
 image: 'https://m.media-amazon.com/images/I/31idau4PdlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXVXYXW-es Desigual 19WAXA68 - Bolso de hombro de Sintético Mujer...'
 sku: 'B07MXVXYXW-es'
 tags: [ 'bolso', ]

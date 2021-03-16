@@ -5,7 +5,7 @@ date: 2020-01-04 10:51:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WiaL95m9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPPHKS-es G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta...'
 sku: 'B07NDPPHKS-es'
 tags: [ 'camiseta', ]

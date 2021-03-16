@@ -5,7 +5,7 @@ date: 2020-05-28 16:22:39
 image: 'https://m.media-amazon.com/images/I/51cd9d77jwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYK41RD-es YZHEN Hombre Traje de Chaqueta a Cuadros Doble y Pantalones'
 sku: 'B07TYK41RD-es'
 tags: [ 'chaqueta', ]

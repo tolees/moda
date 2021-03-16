@@ -5,7 +5,7 @@ date: 2020-02-17 15:49:52
 image: 'https://m.media-amazon.com/images/I/41NAbL72WeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N45HTCS-es United Colors of Benetton Basico 1 Man Abrigo Negro 100...'
 sku: 'B07N45HTCS-es'
 tags: [ 'abrigo', ]

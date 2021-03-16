@@ -5,7 +5,7 @@ date: 2020-08-01 12:40:29
 image: 'https://m.media-amazon.com/images/I/31+NezrFANL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RKVZHZ-es Adidas Adilette Comfort Zapatos de Playa y Piscina para...'
 sku: 'B073RKVZHZ-es'
 tags: [ 'zapatos', ]

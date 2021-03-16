@@ -5,7 +5,7 @@ date: 2020-05-02 21:08:42
 image: 'https://m.media-amazon.com/images/I/41TN4-WJoVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJS2Z7H-es Tous New Essence Bolso de mano para Mujer Multicolor...'
 sku: 'B07PJS2Z7H-es'
 tags: [ 'bolso', ]

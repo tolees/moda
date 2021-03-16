@@ -5,7 +5,7 @@ date: 2020-01-23 19:21:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qloCGMkPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015E9HNE2-es Ermenegildo Zegna Sonnenbrille EZ0020 Gafas de Sol Marrón...'
 sku: 'B015E9HNE2-es'
 tags: [ 'gafas', ]

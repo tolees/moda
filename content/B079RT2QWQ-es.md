@@ -5,7 +5,7 @@ date: 2020-04-05 17:24:11
 image: 'https://m.media-amazon.com/images/I/41rOie0c-uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RT2QWQ-es Pepe Jeans Keith Chaqueta Negro Black 999 S para Hombre'
 sku: 'B079RT2QWQ-es'
 tags: [ 'chaqueta', ]

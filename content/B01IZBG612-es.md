@@ -5,7 +5,7 @@ date: 2020-05-16 15:06:19
 image: 'https://m.media-amazon.com/images/I/41bYJfooqcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IZBG612-es PUMA Popcat Sandalias deslizantes Unisex Adulto Negro...'
 sku: 'B01IZBG612-es'
 tags: [ 'sandalias', ]

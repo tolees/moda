@@ -5,7 +5,7 @@ date: 2020-01-18 14:55:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uI2biWAQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0HIKCV-es Pepe Jeans Regent Vaqueros Negro Denim H96 27W / 30L para...'
 sku: 'B01N0HIKCV-es'
 tags: [ 'vaqueros', ]

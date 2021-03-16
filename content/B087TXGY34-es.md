@@ -5,7 +5,7 @@ date: 2020-05-06 15:31:09
 image: 'https://m.media-amazon.com/images/I/415apfr30kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087TXGY34-es VulusValas Mujer Comodo Clip Toe Plano Corcho Sandalias...'
 sku: 'B087TXGY34-es'
 tags: [ 'sandalias','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-09-07 08:41:08
 image: 'https://m.media-amazon.com/images/I/41guVsb4W-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TTD7HV-es adidas Mono Jersey Pol Camiseta de Manga Corta Hombre...'
 sku: 'B081TTD7HV-es'
 tags: [ 'camiseta','jersey', ]

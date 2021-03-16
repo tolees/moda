@@ -5,7 +5,7 @@ date: 2020-05-01 13:29:19
 image: 'https://m.media-amazon.com/images/I/417jP8JT+xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG8XRST-es Marca Amazon - find. Camisa Hombre Verde Khaki Palm L...'
 sku: 'B06XG8XRST-es'
 tags: [ '-','camisa','find.', ]

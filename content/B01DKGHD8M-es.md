@@ -5,7 +5,7 @@ date: 2020-09-09 17:01:52
 image: 'https://m.media-amazon.com/images/I/41gDq8-TT7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DKGHD8M-es MagiDeal Zapatos Botas Encaje para Muñeca Muchacha...'
 sku: 'B01DKGHD8M-es'
 tags: [ 'zapatos', ]

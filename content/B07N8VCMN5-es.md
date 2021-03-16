@@ -5,7 +5,7 @@ date: 2020-04-18 17:28:36
 image: 'https://m.media-amazon.com/images/I/31dgrVxqGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8VCMN5-es Rockport Marshall Plain Toe Zapatos de Cordones Oxford...'
 sku: 'B07N8VCMN5-es'
 tags: [ 'zapatos', ]

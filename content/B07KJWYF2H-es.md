@@ -5,7 +5,7 @@ date: 2020-01-06 23:33:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31wQ0l4-hZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJWYF2H-es El Naturalista N5244 Multi Leather Zumaia Sandalias con...'
 sku: 'B07KJWYF2H-es'
 tags: [ 'sandalias', ]

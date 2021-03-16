@@ -5,7 +5,7 @@ date: 2020-02-24 20:17:00
 image: 'https://m.media-amazon.com/images/I/314b38qvOoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBV6WHR-es edc by Esprit 099cc1d009 Falda Azul Grey Blue 420 36 Talla...'
 sku: 'B07VBV6WHR-es'
 tags: [ 'falda', ]

@@ -5,7 +5,7 @@ date: 2020-09-01 06:03:03
 image: 'https://m.media-amazon.com/images/I/41FyU3OFDsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088R5P3WL-es WERNNSAI Cesto para Guardar de Dinosaurios - 40 × 33 ×...'
 sku: 'B088R5P3WL-es'
 tags: [ 'zapatos', ]

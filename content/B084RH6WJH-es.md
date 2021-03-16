@@ -5,7 +5,7 @@ date: 2020-04-26 20:05:21
 image: 'https://m.media-amazon.com/images/I/31s13Ovh2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RH6WJH-es 2 piezas portátil coche auto suspensión asiento monedero...'
 sku: 'B084RH6WJH-es'
 tags: [ 'monedero', ]

@@ -5,7 +5,7 @@ date: 2020-09-17 05:57:53
 image: 'https://m.media-amazon.com/images/I/41Rlr0-dPcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVR5X5W-es Levi s 512 Slim Taper Fit Jean Vaqueros Sage Nightshade...'
 sku: 'B07ZVR5X5W-es'
 tags: [ 'vaqueros', ]

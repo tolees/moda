@@ -5,7 +5,7 @@ date: 2020-01-07 08:07:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZH9e%2BR8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T334QSV-es Parfois - Bolso Shopper Acolchado - Mujeres - Tallas M -...'
 sku: 'B07T334QSV-es'
 tags: [ 'bolso', ]

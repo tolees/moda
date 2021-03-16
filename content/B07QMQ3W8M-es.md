@@ -5,7 +5,7 @@ date: 2020-09-17 12:51:03
 image: 'https://m.media-amazon.com/images/I/419RK9SOenL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMQ3W8M-es Guzack Riñonera Deportivo Bolso Cintura Cinturón Running...'
 sku: 'B07QMQ3W8M-es'
 tags: [ 'bolso', ]

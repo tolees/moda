@@ -5,7 +5,7 @@ date: 2020-02-17 12:17:46
 image: 'https://m.media-amazon.com/images/I/31fJxZ8A2SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L136WCD-es Under Armour AF Po Big Logo Graphic Sudadera Hombre Negro LG'
 sku: 'B07L136WCD-es'
 tags: [ 'sudadera', ]

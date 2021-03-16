@@ -5,7 +5,7 @@ date: 2020-06-01 09:55:21
 image: 'https://m.media-amazon.com/images/I/41cjRRXzmlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJHBQH5-es Dolores Promesas 108220 Camiseta Negro Negro Negro 00 000...'
 sku: 'B07NJHBQH5-es'
 tags: [ 'camiseta', ]

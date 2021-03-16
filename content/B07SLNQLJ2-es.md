@@ -5,7 +5,7 @@ date: 2020-03-02 16:50:12
 image: 'https://m.media-amazon.com/images/I/41h0E0GQOnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLNQLJ2-es Nike Jumpman Diamond Mid Zapatos de Baloncesto para Hombre...'
 sku: 'B07SLNQLJ2-es'
 tags: [ 'zapatos', ]

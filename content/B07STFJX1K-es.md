@@ -5,7 +5,7 @@ date: 2020-04-02 10:47:12
 image: 'https://m.media-amazon.com/images/I/41OiO0pTk9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STFJX1K-es JACK & JONES Jprlogo Twist Shirt L/s STS Camisa Marrón...'
 sku: 'B07STFJX1K-es'
 tags: [ 'camisa', ]

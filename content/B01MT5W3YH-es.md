@@ -5,7 +5,7 @@ date: 2020-01-15 14:54:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KasphBoFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT5W3YH-es AURIQUE Mallas Largas de Deporte para Mujer Azul Cobalt...'
 sku: 'B01MT5W3YH-es'
 tags: [ 'aurique', ]

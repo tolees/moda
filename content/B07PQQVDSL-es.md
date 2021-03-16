@@ -5,7 +5,7 @@ date: 2020-02-27 20:09:40
 image: 'https://m.media-amazon.com/images/I/41DGLnZ-ekL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQQVDSL-es Celio Pudaim Chaqueta Beige Camel Camel Medium para Hombre'
 sku: 'B07PQQVDSL-es'
 tags: [ 'chaqueta', ]

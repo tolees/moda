@@ -5,7 +5,7 @@ date: 2020-01-18 19:50:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31RYNiI89EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07864YJXM-es PUMA Liga Sideline Poly Pants Core Pantalón Hombre Azul...'
 sku: 'B07864YJXM-es'
 tags: [ 'pantalón', ]

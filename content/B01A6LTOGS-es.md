@@ -5,7 +5,7 @@ date: 2020-04-13 17:21:32
 image: 'https://m.media-amazon.com/images/I/31oeECFENFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A6LTOGS-es Crocs Classic Lined Clog Zuecos Unisex Adulto Negro...'
 sku: 'B01A6LTOGS-es'
 tags: [ 'zuecos', ]

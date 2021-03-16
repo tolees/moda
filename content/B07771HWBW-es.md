@@ -5,7 +5,7 @@ date: 2020-05-13 11:35:01
 image: 'https://m.media-amazon.com/images/I/31TynLctg-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07771HWBW-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo Azul...'
 sku: 'B07771HWBW-es'
 tags: [ 'camiseta', ]

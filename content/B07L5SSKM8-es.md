@@ -5,7 +5,7 @@ date: 2020-04-23 18:27:37
 image: 'https://m.media-amazon.com/images/I/41i9IzP-8LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5SSKM8-es FITYLE Bolso De Cuero Ajustable De La PU Bolso Bandolera...'
 sku: 'B07L5SSKM8-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-01-22 09:23:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zwjoBsKpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRHHZX4-es Art 0998 Memphis Sandalias con Correa de Tobillo para...'
 sku: 'B07KRHHZX4-es'
 tags: [ 'sandalias', ]

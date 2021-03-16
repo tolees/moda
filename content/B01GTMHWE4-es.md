@@ -5,7 +5,7 @@ date: 2020-09-07 12:07:51
 image: 'https://m.media-amazon.com/images/I/31qG7vrIYVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GTMHWE4-es Uvex Sportstyle Gafas de seguridad - Protección laboral -...'
 sku: 'B01GTMHWE4-es'
 tags: [ 'gafas', ]

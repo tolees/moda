@@ -5,7 +5,7 @@ date: 2020-04-20 20:03:05
 image: 'https://m.media-amazon.com/images/I/41b6DSkipjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZMM3HJ-es Pepe Jeans Kenth Camiseta Ochre Orange 190 Medium para Hombre'
 sku: 'B07MZMM3HJ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-30 11:32:47
 image: 'https://m.media-amazon.com/images/I/31+zIiy8NTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6V76ND-es Ipanema Anat Temas IX Fem Chanclas para Mujer Multicolor...'
 sku: 'B07X6V76ND-es'
 tags: [ 'chanclas', ]

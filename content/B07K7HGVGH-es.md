@@ -5,7 +5,7 @@ date: 2020-06-13 10:58:48
 image: 'https://m.media-amazon.com/images/I/41EBTfZ5PKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7HGVGH-es adidas TIRO19 TR JKTY Chaqueta Unisex niños Black/White 5-6A'
 sku: 'B07K7HGVGH-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-02-20 18:10:09
 image: 'https://m.media-amazon.com/images/I/51hgcy4IUdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LHMTB9-es AtailorBird Funda Protectora Portátil 13"-13.3" Fundas...'
 sku: 'B071LHMTB9-es'
 tags: [ 'bolso', ]

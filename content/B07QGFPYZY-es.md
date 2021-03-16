@@ -5,7 +5,7 @@ date: 2020-01-08 10:47:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31r2o8B2I-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGFPYZY-es PUMA Last Lap Hoodless Jacket Chaqueta De Entrenamiento...'
 sku: 'B07QGFPYZY-es'
 tags: [ 'chaqueta', ]

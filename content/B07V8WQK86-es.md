@@ -5,7 +5,7 @@ date: 2020-06-12 16:25:39
 image: 'https://m.media-amazon.com/images/I/4152ZZKWERL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8WQK86-es Triumph Body Make-up Soft Touch P Ex Sujetador para...'
 sku: 'B07V8WQK86-es'
 tags: [ 'camiseta', ]

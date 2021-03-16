@@ -5,7 +5,7 @@ date: 2020-01-29 07:52:56
 image: 'https://m.media-amazon.com/images/I/41W3mYvfxxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU1N9GN-es Crocs W Swiftwater Webbing Sandal 204804 Sandalias con...'
 sku: 'B01MU1N9GN-es'
 tags: [ 'sandalias', ]

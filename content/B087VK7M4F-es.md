@@ -5,7 +5,7 @@ date: 2020-10-02 12:27:57
 image: 'https://m.media-amazon.com/images/I/41NDA65+YOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VK7M4F-es Columbia Pike Lake Chaqueta con Capucha Hombre Morado...'
 sku: 'B087VK7M4F-es'
 tags: [ 'chaqueta', ]

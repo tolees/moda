@@ -5,7 +5,7 @@ date: 2020-03-06 12:51:22
 image: 'https://m.media-amazon.com/images/I/41DP226tQDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGGCQF5-es Rockport Briah Perforated Sling Back Sandalias de...'
 sku: 'B07QGGCQF5-es'
 tags: [ 'sandalias', ]

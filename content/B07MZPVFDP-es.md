@@ -5,7 +5,7 @@ date: 2020-06-26 09:01:11
 image: 'https://m.media-amazon.com/images/I/4147kRdrPBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPVFDP-es Pepe Jeans Finsbury Vaqueros Skinny Gris Powerflex Grey...'
 sku: 'B07MZPVFDP-es'
 tags: [ 'vaqueros', ]

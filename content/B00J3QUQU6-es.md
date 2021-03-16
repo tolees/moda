@@ -5,7 +5,7 @@ date: 2020-01-21 07:32:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31p7D%2BCME-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J3QUQU6-es uhlsport Match Classic De Mujer Chaqueta De Entrenamiento...'
 sku: 'B00J3QUQU6-es'
 tags: [ 'chaqueta', ]

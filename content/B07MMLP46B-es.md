@@ -5,7 +5,7 @@ date: 2020-03-10 11:42:47
 image: 'https://m.media-amazon.com/images/I/41GZ97fxTeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLP46B-es Napapijri Aric Chaqueta Rojo Red Scarlet R01 XL para Hombre'
 sku: 'B07MMLP46B-es'
 tags: [ 'chaqueta', ]

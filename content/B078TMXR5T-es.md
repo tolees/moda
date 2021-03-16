@@ -5,7 +5,7 @@ date: 2020-02-13 18:52:47
 image: 'https://m.media-amazon.com/images/I/31RnkZYD43L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078TMXR5T-es PUMA Liga Jersey Camiseta Hombre Negro Black/White M'
 sku: 'B078TMXR5T-es'
 tags: [ 'camiseta','jersey', ]

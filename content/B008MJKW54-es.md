@@ -5,7 +5,7 @@ date: 2020-04-13 00:34:02
 image: 'https://m.media-amazon.com/images/I/41FlLutE--L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008MJKW54-es Boxer Gifts - Carcasa para iPhone 4/4s diseño con Texto LMAO'
 sku: 'B008MJKW54-es'
 tags: [ 'boxer', ]

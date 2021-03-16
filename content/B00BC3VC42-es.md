@@ -5,7 +5,7 @@ date: 2020-06-21 11:51:26
 image: 'https://m.media-amazon.com/images/I/41Vq8uTV8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BC3VC42-es Dr. Martens 1460 Zapatos de Vestir Unisex Adulto Negro 36'
 sku: 'B00BC3VC42-es'
 tags: [ 'zapatos', ]

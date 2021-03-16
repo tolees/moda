@@ -5,7 +5,7 @@ date: 2020-07-22 21:56:08
 image: 'https://m.media-amazon.com/images/I/41gj9ggSLnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBHJVCW-es Helly Hansen Squamish 3-In-1 Desmontable & Aislante...'
 sku: 'B07LBHJVCW-es'
 tags: [ 'chaqueta', ]

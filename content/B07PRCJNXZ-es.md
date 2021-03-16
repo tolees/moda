@@ -5,7 +5,7 @@ date: 2020-04-06 17:52:37
 image: 'https://m.media-amazon.com/images/I/41m4b6Oh3tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCJNXZ-es Esprit Jelto NW PJ.LS_ll Pijama Negro Black 001 Medium...'
 sku: 'B07PRCJNXZ-es'
 tags: [ 'pijama', ]

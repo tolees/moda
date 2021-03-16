@@ -5,7 +5,7 @@ date: 2020-08-04 13:01:36
 image: 'https://m.media-amazon.com/images/I/41R-SiwLzZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8W1BGG-es Tommy Hilfiger Nautical Print Beach Sandal Sandalias con...'
 sku: 'B07V8W1BGG-es'
 tags: [ 'sandalias', ]

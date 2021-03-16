@@ -5,7 +5,7 @@ date: 2020-01-08 10:42:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JSbarI5gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKGDGFM-es Under Armour UA Lockdown 4 Zapatos de Baloncesto para...'
 sku: 'B07HKGDGFM-es'
 tags: [ 'zapatos', ]

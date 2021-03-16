@@ -5,7 +5,7 @@ date: 2020-03-04 15:38:02
 image: 'https://m.media-amazon.com/images/I/41BujlGxIDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWHV53-es Lee Emblem T Camiseta Azul Sky Blue LM Medium para Mujer'
 sku: 'B07JKWHV53-es'
 tags: [ 'camiseta', ]

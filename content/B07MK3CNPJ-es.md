@@ -5,7 +5,7 @@ date: 2020-02-05 21:10:06
 image: 'https://m.media-amazon.com/images/I/41pmEJ86HiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK3CNPJ-es GANT D1.Winter TWI Buffalo Check Reg BD Camisa Azul...'
 sku: 'B07MK3CNPJ-es'
 tags: [ 'camisa', ]

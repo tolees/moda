@@ -5,7 +5,7 @@ date: 2020-10-03 12:48:37
 image: 'https://m.media-amazon.com/images/I/41vfLkHRhFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VH5ZLX-es Columbia Lake 22 Chaqueta de Plumas para Hombre Azul...'
 sku: 'B087VH5ZLX-es'
 tags: [ 'chaqueta', ]

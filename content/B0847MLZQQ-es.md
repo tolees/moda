@@ -5,7 +5,7 @@ date: 2020-07-14 08:20:36
 image: 'https://m.media-amazon.com/images/I/41kO6R7+QsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0847MLZQQ-es Cerdá Pijama Niña de Disney Frozen 2-Camiseta + Pantalon...'
 sku: 'B0847MLZQQ-es'
 tags: [ 'pijama', ]

@@ -5,7 +5,7 @@ date: 2020-07-02 08:57:42
 image: 'https://m.media-amazon.com/images/I/51Rdql4PTmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT4M3FZ-es Hasbro Disney Frozen 2 Fashion + Extra Vestido Elsa...'
 sku: 'B07RT4M3FZ-es'
 tags: [ 'vestido', ]

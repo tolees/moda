@@ -5,7 +5,7 @@ date: 2020-07-05 08:11:46
 image: 'https://m.media-amazon.com/images/I/41Skm2JC1lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKY6CJF-es adidas Most Haves Badge of Sports TS M Camiseta Hombre...'
 sku: 'B07KKY6CJF-es'
 tags: [ 'camiseta', ]

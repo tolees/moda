@@ -5,7 +5,7 @@ date: 2020-01-11 12:20:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31kzLZI-78L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZ8FW26-es Columbia Mission Air Chaqueta Interchange Hombre Azul Dark...'
 sku: 'B07DZ8FW26-es'
 tags: [ 'chaqueta', ]

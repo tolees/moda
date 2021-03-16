@@ -5,7 +5,7 @@ date: 2020-05-30 14:55:40
 image: 'https://m.media-amazon.com/images/I/31JLrLP0MHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S23DMN1-es Y.A.S YAS Yaschadro Wool Coat Abrigo Verde Beech Beech 40...'
 sku: 'B07S23DMN1-es'
 tags: [ 'abrigo', ]

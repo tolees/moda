@@ -5,7 +5,7 @@ date: 2020-09-08 18:45:02
 image: 'https://m.media-amazon.com/images/I/51DUNzBK2-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHC1JBX-es Springfield 4.Gym.Vestido Ap Polybubb-C/65 Vestido de...'
 sku: 'B07WHC1JBX-es'
 tags: [ 'vestido', ]

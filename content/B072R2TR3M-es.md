@@ -5,7 +5,7 @@ date: 2020-02-20 20:43:09
 image: 'https://m.media-amazon.com/images/I/41NvCi5mzVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072R2TR3M-es Columbia Chaqueta Impermeable para Mujer Largo Medio...'
 sku: 'B072R2TR3M-es'
 tags: [ 'chaqueta', ]

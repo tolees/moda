@@ -5,7 +5,7 @@ date: 2020-02-27 01:14:45
 image: 'https://m.media-amazon.com/images/I/21MjwKsXUrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KK7ZXH-es Freebily Vestido Elegante de Boda Fiesta Cóctel para Mujer...'
 sku: 'B071KK7ZXH-es'
 tags: [ 'vestido', ]

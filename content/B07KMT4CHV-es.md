@@ -5,7 +5,7 @@ date: 2020-10-06 10:11:51
 image: 'https://m.media-amazon.com/images/I/31sCmDqENvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMT4CHV-es adidas Essentials Linear Logo Camiseta Niños Negro...'
 sku: 'B07KMT4CHV-es'
 tags: [ 'camiseta', ]

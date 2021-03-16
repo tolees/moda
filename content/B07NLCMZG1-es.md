@@ -5,7 +5,7 @@ date: 2020-09-30 16:25:45
 image: 'https://m.media-amazon.com/images/I/31DmX8SYqfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLCMZG1-es Marca Amazon - TRUTH & FABLE Vestido Midi Cruzado de Gasa...'
 sku: 'B07NLCMZG1-es'
 tags: [ 'vestido', ]

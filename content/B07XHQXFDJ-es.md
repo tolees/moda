@@ -5,7 +5,7 @@ date: 2020-05-11 10:25:55
 image: 'https://m.media-amazon.com/images/I/31ze40jBkiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHQXFDJ-es Marca Amazon - AURIQUE Mallas para Correr por el Tobillo...'
 sku: 'B07XHQXFDJ-es'
 tags: [ 'aurique', ]

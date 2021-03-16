@@ -5,7 +5,7 @@ date: 2020-03-28 19:08:17
 image: 'https://m.media-amazon.com/images/I/31oaZ7PQCgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN4GVY7-es Crocs Baya Clog Zuecos Unisex Niños Azul Ice Blue 4o9...'
 sku: 'B07CN4GVY7-es'
 tags: [ 'zuecos', ]

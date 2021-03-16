@@ -5,7 +5,7 @@ date: 2020-03-05 13:16:48
 image: 'https://m.media-amazon.com/images/I/31tUVXgAcbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG2HDMD-es Geox D Hiver D Zapatillas sin Cordones para Mujer Azul DK...'
 sku: 'B07LG2HDMD-es'
 tags: [ 'geox', ]

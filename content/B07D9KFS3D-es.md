@@ -5,7 +5,7 @@ date: 2020-05-24 11:32:12
 image: 'https://m.media-amazon.com/images/I/41Xr0OioQ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9KFS3D-es Baoblaze Bolsa de Hombro de Lona de Moda para 1/3 Lolita...'
 sku: 'B07D9KFS3D-es'
 tags: [ 'moda', ]

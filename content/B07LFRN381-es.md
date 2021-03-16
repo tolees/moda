@@ -5,7 +5,7 @@ date: 2020-01-14 21:33:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hsbq%2B9PjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRN381-es Geox D New ANNYA Mid B Botines para Mujer Marrón Brown...'
 sku: 'B07LFRN381-es'
 tags: [ 'botines','geox', ]

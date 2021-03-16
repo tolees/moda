@@ -5,7 +5,7 @@ date: 2020-07-12 12:27:57
 image: 'https://m.media-amazon.com/images/I/41M7iQ2Q8SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC4W7JD-es Calvin Klein Vegetable Dye Monogram Crew Neck Sudadera...'
 sku: 'B07VC4W7JD-es'
 tags: [ 'sudadera', ]

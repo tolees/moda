@@ -5,7 +5,7 @@ date: 2020-03-08 17:03:23
 image: 'https://m.media-amazon.com/images/I/415ImtM2TzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ19ZM8-es Springfield INT.R.Real Down Tecnico Chaqueta Negro Negro 1...'
 sku: 'B07NJ19ZM8-es'
 tags: [ 'chaqueta', ]

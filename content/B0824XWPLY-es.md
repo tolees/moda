@@ -5,7 +5,7 @@ date: 2020-07-29 17:17:47
 image: 'https://m.media-amazon.com/images/I/51tF2rGo-gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824XWPLY-es WeciBor Calcetines Hasta La Pantorrilla Para Hombre...'
 sku: 'B0824XWPLY-es'
 tags: [ 'moda', ]

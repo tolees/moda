@@ -5,7 +5,7 @@ date: 2020-05-20 10:02:15
 image: 'https://m.media-amazon.com/images/I/41WYkxNbunL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXBZ521-es Superdry Premium Goods Puff Entry tee Camiseta de Tirantes...'
 sku: 'B07NXBZ521-es'
 tags: [ 'camiseta', ]

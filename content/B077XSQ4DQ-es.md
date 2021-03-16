@@ -5,7 +5,7 @@ date: 2020-01-07 08:31:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41weskFzR0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XSQ4DQ-es Under Armour Sc30 MVP - Sudadera con Capucha y Cremallera...'
 sku: 'B077XSQ4DQ-es'
 tags: [ 'sudadera', ]

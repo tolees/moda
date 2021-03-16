@@ -5,7 +5,7 @@ date: 2020-02-15 10:44:32
 image: 'https://m.media-amazon.com/images/I/41W4wVGHAGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKVY4G8-es Tous Bowling New Essence Bolso bolera para Mujer...'
 sku: 'B07PKVY4G8-es'
 tags: [ 'bolso', ]

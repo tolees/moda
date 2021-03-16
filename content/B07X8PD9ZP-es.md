@@ -5,7 +5,7 @@ date: 2020-06-25 21:48:46
 image: 'https://m.media-amazon.com/images/I/317ne20DPAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8PD9ZP-es PUMA Rebel Bold tee Camiseta Hombre Burnt Olive L'
 sku: 'B07X8PD9ZP-es'
 tags: [ 'camiseta', ]

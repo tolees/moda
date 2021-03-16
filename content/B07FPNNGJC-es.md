@@ -5,7 +5,7 @@ date: 2020-08-30 20:54:13
 image: 'https://m.media-amazon.com/images/I/41ZGRyhR0pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPNNGJC-es Tommy Hilfiger Classic Bikini Braguitas Rojo Tango Red 611...'
 sku: 'B07FPNNGJC-es'
 tags: [ 'bikini', ]

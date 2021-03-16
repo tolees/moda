@@ -5,7 +5,7 @@ date: 2020-06-04 14:05:43
 image: 'https://m.media-amazon.com/images/I/41Sk2bPFnoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRRNBRR-es Zapatos de Trabajo Muy cómodos para Trabajos de hostelería...'
 sku: 'B07PRRNBRR-es'
 tags: [ 'zapatos', ]

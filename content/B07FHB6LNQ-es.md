@@ -5,7 +5,7 @@ date: 2020-01-17 08:28:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gPsA-Ib4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHB6LNQ-es Levi s Sunset 1 Pocket Shirt Camisa Multicolor Wildcat...'
 sku: 'B07FHB6LNQ-es'
 tags: [ 'camisa', ]

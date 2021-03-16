@@ -5,7 +5,7 @@ date: 2020-04-07 16:05:51
 image: 'https://m.media-amazon.com/images/I/41MLE8KS-GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RF197MS-es G-STAR RAW Revend Skinny Vaqueros Antic Faded Ripped Ash...'
 sku: 'B07RF197MS-es'
 tags: [ 'vaqueros', ]

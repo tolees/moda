@@ -5,7 +5,7 @@ date: 2020-08-05 23:06:28
 image: 'https://m.media-amazon.com/images/I/41f88R1-CRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C589DBJ-es Neceser de Maquillaje LOSMILE Bolsa de Maquillaje para...'
 sku: 'B08C589DBJ-es'
 tags: [ 'bolso', ]

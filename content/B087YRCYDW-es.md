@@ -5,7 +5,7 @@ date: 2020-05-12 14:03:07
 image: 'https://m.media-amazon.com/images/I/41MMIUUxycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087YRCYDW-es Sternitz Sudadera Fitness para Mujer Bhakti Hoodie Tela de...'
 sku: 'B087YRCYDW-es'
 tags: [ 'sudadera', ]

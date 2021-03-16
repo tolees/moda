@@ -5,7 +5,7 @@ date: 2020-06-24 13:31:47
 image: 'https://m.media-amazon.com/images/I/41iwIozkn8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC5TKWT-es LOVEVOOK Bolsos de las mujeres bolsos hobo bolso de mano...'
 sku: 'B07DC5TKWT-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-09-02 18:39:55
 image: 'https://m.media-amazon.com/images/I/31An5GvpRNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S75WSD2-es Crocs Classic II Flip Chanclas Unisex Adulto Negro Black...'
 sku: 'B07S75WSD2-es'
 tags: [ 'chanclas', ]

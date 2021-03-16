@@ -5,7 +5,7 @@ date: 2020-02-17 16:55:41
 image: 'https://m.media-amazon.com/images/I/51MokqLyevL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHLLT4J-es Bolso de Alforja de Bicicleta Bolso Impermeable de Viajero...'
 sku: 'B07BHLLT4J-es'
 tags: [ 'bolso', ]

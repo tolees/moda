@@ -5,7 +5,7 @@ date: 2020-04-24 15:18:50
 image: 'https://m.media-amazon.com/images/I/41POk2OjHYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FTJQT4-es MOBIUSPHY Pantalon Corto Hombre Deporte Pantalones Cortos...'
 sku: 'B083FTJQT4-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-01-07 17:26:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ze5ldFPVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVRMWJ9-es Joules Golightly Abrigo para Lluvia Morado Berry Peony...'
 sku: 'B07MVRMWJ9-es'
 tags: [ 'abrigo', ]

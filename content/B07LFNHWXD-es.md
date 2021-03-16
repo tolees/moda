@@ -5,7 +5,7 @@ date: 2020-01-26 17:22:12
 image: 'https://m.media-amazon.com/images/I/41kuSI04ZHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFNHWXD-es Levi s 501 Crop Vaqueros Straight Azul Market Vintage 0080...'
 sku: 'B07LFNHWXD-es'
 tags: [ 'vaqueros', ]

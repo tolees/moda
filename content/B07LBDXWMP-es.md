@@ -5,7 +5,7 @@ date: 2020-02-15 01:47:00
 image: 'https://m.media-amazon.com/images/I/418vxaLbRCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBDXWMP-es Helly Hansen Vertex Secado Rápido Y Elástico Chaqueta con...'
 sku: 'B07LBDXWMP-es'
 tags: [ 'chaqueta', ]

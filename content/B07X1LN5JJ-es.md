@@ -5,7 +5,7 @@ date: 2020-06-27 18:08:08
 image: 'https://m.media-amazon.com/images/I/41iQ9BNVo8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1LN5JJ-es Pepe Jeans Zinc Vaqueros Straight Azul 000Denim 000...'
 sku: 'B07X1LN5JJ-es'
 tags: [ 'vaqueros', ]

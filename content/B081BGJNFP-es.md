@@ -5,7 +5,7 @@ date: 2020-09-19 05:08:53
 image: 'https://m.media-amazon.com/images/I/41nF5KybKIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BGJNFP-es Asics Gel-Pulse 11 Zapatos para Correr Mens Gris 44 1/2 EU'
 sku: 'B081BGJNFP-es'
 tags: [ 'zapatos', ]

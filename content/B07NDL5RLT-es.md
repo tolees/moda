@@ -5,7 +5,7 @@ date: 2020-01-23 15:04:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51sineYQp5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL5RLT-es G-STAR RAW Core Super Slim Camisa Vaquera Multicolor...'
 sku: 'B07NDL5RLT-es'
 tags: [ 'camisa', ]

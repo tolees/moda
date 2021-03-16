@@ -5,7 +5,7 @@ date: 2020-03-06 03:01:19
 image: 'https://m.media-amazon.com/images/I/31MXAZiedVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZW37FK-es GANT The Oxford Shirt Reg BD Camiseta Deporte Blanco White...'
 sku: 'B073ZW37FK-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-05 15:18:14
 image: 'https://m.media-amazon.com/images/I/31QrCTLUsiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2JJ2F-es Clarks - Botines de Cuero Hombre Color Negro Talla 44 EU'
 sku: 'B07MQ2JJ2F-es'
 tags: [ 'botines', ]

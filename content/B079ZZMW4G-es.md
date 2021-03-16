@@ -5,7 +5,7 @@ date: 2020-02-02 17:46:46
 image: 'https://m.media-amazon.com/images/I/41bIipHaAiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZZMW4G-es VAIRO Falda Pantalon Skort Columns Negro/Rosa M'
 sku: 'B079ZZMW4G-es'
 tags: [ 'falda', ]

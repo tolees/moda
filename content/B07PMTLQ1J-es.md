@@ -5,7 +5,7 @@ date: 2020-06-26 13:11:04
 image: 'https://m.media-amazon.com/images/I/31n+C9rhpVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMTLQ1J-es Under Armour Challenger III Training Top Transpirable para...'
 sku: 'B07PMTLQ1J-es'
 tags: [ 'camiseta', ]

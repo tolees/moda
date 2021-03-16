@@ -5,7 +5,7 @@ date: 2020-04-22 13:58:53
 image: 'https://m.media-amazon.com/images/I/41nIcmP9jtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBZKRW7-es Morgan 192-menti.n Camiseta Multicolor Offwhite/Marine...'
 sku: 'B07PBZKRW7-es'
 tags: [ 'camiseta', ]

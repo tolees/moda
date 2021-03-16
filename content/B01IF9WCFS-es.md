@@ -5,7 +5,7 @@ date: 2020-01-05 17:43:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zrfnDU0PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IF9WCFS-es The North Face S/S Simple Dome H Camiseta de Manga Corta...'
 sku: 'B01IF9WCFS-es'
 tags: [ 'camiseta', ]

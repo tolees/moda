@@ -5,7 +5,7 @@ date: 2020-09-17 01:23:06
 image: 'https://m.media-amazon.com/images/I/414ilEAlRwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC8CKNT-es Columbia Cascade Ridge Chaqueta Softshell Mujer Olive...'
 sku: 'B07RC8CKNT-es'
 tags: [ 'chaqueta', ]

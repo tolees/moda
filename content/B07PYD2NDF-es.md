@@ -5,7 +5,7 @@ date: 2020-04-12 10:08:09
 image: 'https://m.media-amazon.com/images/I/31EvbliDHlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYD2NDF-es New Look Bermuda Button Falda Azul Navy 41 42 Talla del...'
 sku: 'B07PYD2NDF-es'
 tags: [ 'falda', ]

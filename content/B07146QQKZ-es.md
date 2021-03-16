@@ -5,7 +5,7 @@ date: 2020-06-01 17:06:28
 image: 'https://m.media-amazon.com/images/I/61tLLA+2hsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07146QQKZ-es Hill Burry Cartera de Cuero para Mujer | Billetera -...'
 sku: 'B07146QQKZ-es'
 tags: [ 'billetera','monedero', ]

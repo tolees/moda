@@ -5,7 +5,7 @@ date: 2020-07-29 19:38:38
 image: 'https://m.media-amazon.com/images/I/316bW0r1FIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P04KXEE-es Polaroid PLD 1013/S H8 V08 50 Gafas de sol Marrón...'
 sku: 'B00P04KXEE-es'
 tags: [ 'gafas', ]

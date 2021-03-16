@@ -5,7 +5,7 @@ date: 2020-04-11 18:18:19
 image: 'https://m.media-amazon.com/images/I/41zbgL00sVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ59S7R-es Women s Secret Mickey Vintage Mv DS Dots PJ FR Conjuntos...'
 sku: 'B07TZ59S7R-es'
 tags: [ 'pijama', ]

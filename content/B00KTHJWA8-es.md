@@ -5,7 +5,7 @@ date: 2020-04-22 07:28:17
 image: 'https://m.media-amazon.com/images/I/41R04M4+uxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KTHJWA8-es Under Armour Tech Short Sleeve V-Twist Camiseta Mujer...'
 sku: 'B00KTHJWA8-es'
 tags: [ 'camiseta', ]

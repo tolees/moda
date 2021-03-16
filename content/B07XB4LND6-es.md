@@ -5,7 +5,7 @@ date: 2020-02-02 21:37:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bu27R%2BqDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XB4LND6-es TTYAOVO Vestido de Fiesta con Volantes de Princesa sin...'
 sku: 'B07XB4LND6-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-05-22 03:45:28
 image: 'https://m.media-amazon.com/images/I/31olQkcFoWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WJBN4Y-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello...'
 sku: 'B074WJBN4Y-es'
 tags: [ 'chaqueta','meraki', ]

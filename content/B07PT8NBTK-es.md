@@ -5,7 +5,7 @@ date: 2020-08-09 19:20:21
 image: 'https://m.media-amazon.com/images/I/31aPF-Dta0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT8NBTK-es Marca Amazon - MERAKI Jersey de Algodón con Cremallera...'
 sku: 'B07PT8NBTK-es'
 tags: [ 'jersey','meraki', ]

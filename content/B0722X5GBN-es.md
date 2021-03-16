@@ -5,7 +5,7 @@ date: 2020-01-04 10:57:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lpusKO81L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0722X5GBN-es find. Vestido para Mujer Rojo Wine 36 Talla del...'
 sku: 'B0722X5GBN-es'
 tags: [ 'vestido', ]

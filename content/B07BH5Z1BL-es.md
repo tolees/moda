@@ -5,7 +5,7 @@ date: 2020-04-23 18:04:23
 image: 'https://m.media-amazon.com/images/I/218V0o929XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BH5Z1BL-es Star Wars T030-14 Bóxer Multicolor Multicolor 0 16 años...'
 sku: 'B07BH5Z1BL-es'
 tags: [ 'bóxer', ]

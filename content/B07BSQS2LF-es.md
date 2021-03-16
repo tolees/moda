@@ -5,7 +5,7 @@ date: 2020-10-08 15:30:27
 image: 'https://m.media-amazon.com/images/I/41q2MSfk-oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSQS2LF-es oodji Ultra Hombre Camisa de Algodón con Cuello en...'
 sku: 'B07BSQS2LF-es'
 tags: [ 'camisa', ]

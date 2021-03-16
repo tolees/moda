@@ -5,7 +5,7 @@ date: 2020-01-20 12:00:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416Q1l6yy6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N17FK4V-es Lee Button Down Camisa Gris Grey Mele 37 Large para Hombre'
 sku: 'B07N17FK4V-es'
 tags: [ 'camisa', ]

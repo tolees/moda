@@ -5,7 +5,7 @@ date: 2020-05-23 21:38:43
 image: 'https://m.media-amazon.com/images/I/412fR81a+NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V344HDN-es Chi Chi London Dollie Vestido de Fiesta Azul Navy NB 44...'
 sku: 'B07V344HDN-es'
 tags: [ 'vestido', ]

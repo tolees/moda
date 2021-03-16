@@ -5,7 +5,7 @@ date: 2020-09-27 17:44:45
 image: 'https://m.media-amazon.com/images/I/31g1bJjR1sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWN58FR-es Under Armour UNDKU Coldgear Rush Camisa De Manga Larga...'
 sku: 'B07QWN58FR-es'
 tags: [ 'camisa', ]

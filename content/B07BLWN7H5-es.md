@@ -5,7 +5,7 @@ date: 2020-06-26 09:05:40
 image: 'https://m.media-amazon.com/images/I/51ORoefEkvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BLWN7H5-es Honghu Mujeres con Cord¨®n Pantalones Sueltos de Rayas...'
 sku: 'B07BLWN7H5-es'
 tags: [ 'pijama', ]

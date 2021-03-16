@@ -5,7 +5,7 @@ date: 2020-05-07 14:43:03
 image: 'https://m.media-amazon.com/images/I/41Cf0ivKPAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLJM4S-es Levi s 29717 Sudadera Blanco Crew Box Taba White+ 0092 S...'
 sku: 'B07RZLJM4S-es'
 tags: [ 'sudadera', ]

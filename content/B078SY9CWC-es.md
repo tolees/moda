@@ -5,7 +5,7 @@ date: 2020-09-15 08:48:44
 image: 'https://m.media-amazon.com/images/I/31iuqzY6GoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SY9CWC-es Timberland Gateway Pier Casual Zapatos de Cordones Oxford...'
 sku: 'B078SY9CWC-es'
 tags: [ 'timberland','zapatos', ]

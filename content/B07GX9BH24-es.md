@@ -5,7 +5,7 @@ date: 2020-03-24 11:39:27
 image: 'https://m.media-amazon.com/images/I/31USPxFAdmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GX9BH24-es SKYSPER Camiseta de Compresión Manga Larga para Hombre...'
 sku: 'B07GX9BH24-es'
 tags: [ 'camiseta', ]

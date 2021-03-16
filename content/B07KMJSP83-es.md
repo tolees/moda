@@ -5,7 +5,7 @@ date: 2020-01-21 14:34:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qh3nPN83L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMJSP83-es Mustang Big Sur Vaqueros Straight Azul Medium Middle 580...'
 sku: 'B07KMJSP83-es'
 tags: [ 'vaqueros', ]

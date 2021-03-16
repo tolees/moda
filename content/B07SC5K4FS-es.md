@@ -5,7 +5,7 @@ date: 2020-06-15 09:17:48
 image: 'https://m.media-amazon.com/images/I/31JVkeZvFpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC5K4FS-es Adidas Adilette Aqua K Chanclas Unisex Adulto Gris Grey...'
 sku: 'B07SC5K4FS-es'
 tags: [ 'chanclas', ]

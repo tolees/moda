@@ -5,7 +5,7 @@ date: 2020-03-02 18:02:52
 image: 'https://m.media-amazon.com/images/I/31KSZCEhtAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HY23CS8-es Lee Rider Tonal Vaqueros Black Rinse Yc47 33W / 32L para...'
 sku: 'B01HY23CS8-es'
 tags: [ 'vaqueros', ]

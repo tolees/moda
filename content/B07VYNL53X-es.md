@@ -5,7 +5,7 @@ date: 2020-10-08 00:17:06
 image: 'https://m.media-amazon.com/images/I/41YP4Z2iCiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYNL53X-es Tommy Hilfiger TJM NYC Small Logo tee Camiseta Deporte...'
 sku: 'B07VYNL53X-es'
 tags: [ 'camiseta', ]

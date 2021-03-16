@@ -5,7 +5,7 @@ date: 2020-06-25 11:33:32
 image: 'https://m.media-amazon.com/images/I/41RykCVzNHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772FLCKN-es Marca Amazon - MERAKI Pantalón Cortos Chinos Hombre gris...'
 sku: 'B0772FLCKN-es'
 tags: [ 'meraki','pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-10-03 08:06:53
 image: 'https://m.media-amazon.com/images/I/416+EghJ+OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSJ97GX-es Geox J ALBEN Girl B Zapatillas de Deporte para Niñas Azul...'
 sku: 'B07SSJ97GX-es'
 tags: [ 'geox', ]

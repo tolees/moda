@@ -5,7 +5,7 @@ date: 2020-07-23 08:18:33
 image: 'https://m.media-amazon.com/images/I/410sVecL7HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9KKMSB-es Columbia Carson Pass Chaqueta Interchange Mujer Azul Dark...'
 sku: 'B07J9KKMSB-es'
 tags: [ 'chaqueta', ]

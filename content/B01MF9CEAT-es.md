@@ -5,7 +5,7 @@ date: 2020-08-20 04:43:43
 image: 'https://m.media-amazon.com/images/I/31CgyM-y9UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MF9CEAT-es Skechers Work Relaxed Fit: Hobbes-Frat SR Zapatos de...'
 sku: 'B01MF9CEAT-es'
 tags: [ 'zapatos', ]

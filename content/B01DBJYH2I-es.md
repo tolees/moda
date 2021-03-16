@@ -5,7 +5,7 @@ date: 2020-01-19 21:28:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311KWkZQACL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DBJYH2I-es The North Face W Nimble Sudadera Mujer Negro Black L'
 sku: 'B01DBJYH2I-es'
 tags: [ 'sudadera', ]

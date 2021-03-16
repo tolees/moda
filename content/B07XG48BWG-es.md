@@ -5,7 +5,7 @@ date: 2020-01-01 21:26:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51PzVT%2BmsPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG48BWG-es edc by Esprit 109cc1k023 Camisa Manga Larga Negro Black...'
 sku: 'B07XG48BWG-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 11:04:51
 image: 'https://m.media-amazon.com/images/I/41Lu-rWDNtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJJKFRC-es Tamaris 1-1-26250-23 Botines para Mujer Marrón Cognac 305...'
 sku: 'B07NJJKFRC-es'
 tags: [ 'botines', ]

@@ -5,7 +5,7 @@ date: 2020-01-20 18:51:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jr63JQJKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FHJI7GW-es Under Armour UA Woven Graphic Short Pantalón Corto Hombre...'
 sku: 'B01FHJI7GW-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-03-20 15:27:44
 image: 'https://m.media-amazon.com/images/I/41Nmzhc549L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFV9DJ2-es Geox D Calinda High A Botines para Mujer Marrón Chestnut...'
 sku: 'B07LFV9DJ2-es'
 tags: [ 'botines','geox', ]

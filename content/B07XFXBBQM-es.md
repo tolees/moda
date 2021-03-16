@@ -5,7 +5,7 @@ date: 2020-09-25 14:22:16
 image: 'https://m.media-amazon.com/images/I/41dyLz0LOEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFXBBQM-es PUMA ESS Hoody FL Big Logo Sudadera Hombre Dark Gray...'
 sku: 'B07XFXBBQM-es'
 tags: [ 'sudadera', ]

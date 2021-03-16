@@ -5,7 +5,7 @@ date: 2020-05-18 12:06:57
 image: 'https://m.media-amazon.com/images/I/414ASxBtiJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLMDYD2-es Jack & Jones JORBRANDON Sweat Hood Sudadera con Capucha...'
 sku: 'B07XLMDYD2-es'
 tags: [ 'sudadera', ]

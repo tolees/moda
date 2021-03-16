@@ -5,7 +5,7 @@ date: 2020-05-21 18:12:24
 image: 'https://m.media-amazon.com/images/I/411WlTx3BxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN8XRTQ-es Crocs Crocband U Zuecos Unisex Adulto Azul Blue Jean-Pool...'
 sku: 'B07CN8XRTQ-es'
 tags: [ 'zuecos', ]

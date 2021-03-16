@@ -5,7 +5,7 @@ date: 2020-05-23 11:08:39
 image: 'https://m.media-amazon.com/images/I/41QR9SRnN7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFPMRMZ-es Antony Morato Felpa Girocollo Basic con Placchetta...'
 sku: 'B07VFPMRMZ-es'
 tags: [ 'sudadera', ]

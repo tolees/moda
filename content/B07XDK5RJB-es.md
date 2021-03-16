@@ -5,7 +5,7 @@ date: 2020-01-20 12:42:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51b4I45w2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDK5RJB-es coskefy Guantes Moto Invierno Guantes Esquí Impermeable...'
 sku: 'B07XDK5RJB-es'
 tags: [ 'guantes', ]

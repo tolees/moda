@@ -5,7 +5,7 @@ date: 2020-04-10 00:12:02
 image: 'https://m.media-amazon.com/images/I/21yoLBSikAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF8HTSR-es Levi s Slim 2pk Crewneck 1 Camiseta Blanco Two-Pack tee...'
 sku: 'B07LF8HTSR-es'
 tags: [ 'camiseta', ]

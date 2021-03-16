@@ -5,7 +5,7 @@ date: 2020-09-02 18:46:04
 image: 'https://m.media-amazon.com/images/I/31CZ1GIXcFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHVCZYJ-es Levi s Graphic Diana Crew Sudadera Blanco 90 s Serif...'
 sku: 'B07SHVCZYJ-es'
 tags: [ 'sudadera', ]

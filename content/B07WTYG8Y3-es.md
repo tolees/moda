@@ -5,7 +5,7 @@ date: 2020-05-14 15:40:03
 image: 'https://m.media-amazon.com/images/I/51UOSqP63zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTYG8Y3-es Vgo... 2Pares Guantes de Cuero de Cabra para Senderismo...'
 sku: 'B07WTYG8Y3-es'
 tags: [ 'guantes', ]

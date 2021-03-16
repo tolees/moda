@@ -5,7 +5,7 @@ date: 2020-03-08 09:21:54
 image: 'https://m.media-amazon.com/images/I/41iD7BwxYXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHX1DNS-es Estuche SileuCase para copas menstruales – Ideal para...'
 sku: 'B07JHX1DNS-es'
 tags: [ 'bolso', ]

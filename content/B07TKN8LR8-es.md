@@ -5,7 +5,7 @@ date: 2020-09-30 23:51:51
 image: 'https://m.media-amazon.com/images/I/41fJ4h2J6TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKN8LR8-es Clarks Un Palma Vibe Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TKN8LR8-es'
 tags: [ 'sandalias', ]

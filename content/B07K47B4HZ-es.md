@@ -5,7 +5,7 @@ date: 2020-03-09 13:03:33
 image: 'https://m.media-amazon.com/images/I/31cEzkGDJqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K47B4HZ-es BOSS Mabsoot Camisa Azul Dark Blue 4040 Medium para Hombre'
 sku: 'B07K47B4HZ-es'
 tags: [ 'camisa', ]

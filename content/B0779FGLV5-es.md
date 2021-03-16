@@ -5,7 +5,7 @@ date: 2020-03-24 13:23:13
 image: 'https://m.media-amazon.com/images/I/41oga5TAp3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779FGLV5-es Pepe Jeans AMERSHAM PM504034 Camiseta Gris Middle Grey 925...'
 sku: 'B0779FGLV5-es'
 tags: [ 'camiseta', ]

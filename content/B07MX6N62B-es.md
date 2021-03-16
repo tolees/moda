@@ -5,7 +5,7 @@ date: 2020-03-21 10:06:27
 image: 'https://m.media-amazon.com/images/I/51v-S3LYU1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MX6N62B-es A+ Trainer Collar Antiladridos Perro – Collar...'
 sku: 'B07MX6N62B-es'
 tags: [ 'collar', ]

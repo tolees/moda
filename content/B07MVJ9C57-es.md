@@ -5,7 +5,7 @@ date: 2020-02-13 15:40:35
 image: 'https://m.media-amazon.com/images/I/51LqUxqXBRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJ9C57-es Kipling Creativity S Monedero para Mujer Gris Night Grey...'
 sku: 'B07MVJ9C57-es'
 tags: [ 'monedero', ]

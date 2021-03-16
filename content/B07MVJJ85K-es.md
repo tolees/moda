@@ -5,7 +5,7 @@ date: 2020-06-09 10:10:11
 image: 'https://m.media-amazon.com/images/I/41v-tAkSmcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJJ85K-es Kipling Eleva Bolso con Bandolera para Mujer Rosa Metallic...'
 sku: 'B07MVJJ85K-es'
 tags: [ 'bolso', ]

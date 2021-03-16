@@ -5,7 +5,7 @@ date: 2020-07-04 06:37:57
 image: 'https://m.media-amazon.com/images/I/51RimayvvCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y2ZVTC1-es BONANGEL Calcetines de algodón peinado para hombre...'
 sku: 'B07Y2ZVTC1-es'
 tags: [ 'moda', ]

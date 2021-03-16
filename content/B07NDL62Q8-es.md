@@ -5,7 +5,7 @@ date: 2020-01-30 14:06:48
 image: 'https://m.media-amazon.com/images/I/41SAdHPZueL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL62Q8-es G-STAR RAW Remi Boyfriend Blusa Rosa Dk Tea Rose A827...'
 sku: 'B07NDL62Q8-es'
 tags: [ 'blusa', ]

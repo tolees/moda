@@ -5,7 +5,7 @@ date: 2020-09-11 21:12:49
 image: 'https://m.media-amazon.com/images/I/31tJpD+gVyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWL41RN-es Crocs Literide Clog Kids Zuecos Unisex Niños Verde Neo...'
 sku: 'B07FWL41RN-es'
 tags: [ 'zuecos', ]

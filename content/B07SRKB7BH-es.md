@@ -5,7 +5,7 @@ date: 2020-06-28 18:05:37
 image: 'https://m.media-amazon.com/images/I/41vLS4hrO6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRKB7BH-es Geox D Borealis A Sandalia con Pulsera para Mujer Rojo...'
 sku: 'B07SRKB7BH-es'
 tags: [ 'geox', ]

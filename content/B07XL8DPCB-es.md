@@ -5,7 +5,7 @@ date: 2020-02-04 10:07:46
 image: 'https://m.media-amazon.com/images/I/41XaXsImj4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL8DPCB-es Geographical Norway Parka Mujer Baby Ass A Azul Marino 3'
 sku: 'B07XL8DPCB-es'
 tags: [ 'parka', ]

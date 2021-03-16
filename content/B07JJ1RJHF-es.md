@@ -5,7 +5,7 @@ date: 2020-01-09 15:21:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41n92ZJWQ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ1RJHF-es Timberland Adventure 2.0 Cupsole Zapatillas Altas para...'
 sku: 'B07JJ1RJHF-es'
 tags: [ 'timberland', ]

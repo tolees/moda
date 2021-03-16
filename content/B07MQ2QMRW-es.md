@@ -5,7 +5,7 @@ date: 2020-03-16 19:35:05
 image: 'https://m.media-amazon.com/images/I/41YnthRx3NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2QMRW-es HKT by Hackett Hkt GMT W Piquet Camisa Indigo 561 Medium...'
 sku: 'B07MQ2QMRW-es'
 tags: [ 'camisa', ]

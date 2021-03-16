@@ -5,7 +5,7 @@ date: 2020-06-22 17:10:45
 image: 'https://m.media-amazon.com/images/I/31SMGb5A8JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBQBZQM-es Marca Amazon - MERAKI Falda de Algodón Midi Mujer Beige 46...'
 sku: 'B07MBQBZQM-es'
 tags: [ 'falda','meraki', ]

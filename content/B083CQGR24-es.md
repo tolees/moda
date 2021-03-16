@@ -5,7 +5,7 @@ date: 2020-01-26 20:28:54
 image: 'https://m.media-amazon.com/images/I/41-NMvboDtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083CQGR24-es Le Coq Sportif Aluf Crew Sweat Sudadera - L'
 sku: 'B083CQGR24-es'
 tags: [ 'sudadera', ]

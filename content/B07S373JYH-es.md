@@ -5,7 +5,7 @@ date: 2020-04-21 12:21:57
 image: 'https://m.media-amazon.com/images/I/51MOF5lkOaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S373JYH-es Only & Sons Onsstorm Check Shirt 3599 Camisa Multicolor...'
 sku: 'B07S373JYH-es'
 tags: [ 'camisa', ]

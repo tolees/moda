@@ -5,7 +5,7 @@ date: 2020-07-01 20:27:03
 image: 'https://m.media-amazon.com/images/I/31V3mhzB8XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6MCPJM-es Tommy Hilfiger 3p Bikini Tanga Multicolor Multi 078 Talla...'
 sku: 'B07N6MCPJM-es'
 tags: [ 'bikini', ]

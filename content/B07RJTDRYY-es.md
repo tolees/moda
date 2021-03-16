@@ -5,7 +5,7 @@ date: 2020-01-17 17:51:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MtGYX9JTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJTDRYY-es adidas Hoops 2.0 Mid Zapatos de Baloncesto para Mujer...'
 sku: 'B07RJTDRYY-es'
 tags: [ 'zapatos', ]

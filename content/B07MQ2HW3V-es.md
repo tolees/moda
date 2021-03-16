@@ -5,7 +5,7 @@ date: 2020-05-29 22:01:09
 image: 'https://m.media-amazon.com/images/I/31gLle0qWlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2HW3V-es Clarks Becken Lace Zapatos de Cordones Brogue para Hombre...'
 sku: 'B07MQ2HW3V-es'
 tags: [ 'zapatos', ]

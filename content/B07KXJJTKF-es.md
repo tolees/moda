@@ -5,7 +5,7 @@ date: 2020-05-14 07:22:46
 image: 'https://m.media-amazon.com/images/I/41AId9FmRoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXJJTKF-es G-STAR RAW LUGE Knotted Camiseta Beige Milk B906/111...'
 sku: 'B07KXJJTKF-es'
 tags: [ 'camiseta', ]

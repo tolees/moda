@@ -5,7 +5,7 @@ date: 2020-06-14 22:08:26
 image: 'https://m.media-amazon.com/images/I/31MzhkejOuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WTTBRG-es Quiksilver Carver Nubuck-Sandals For Men Zapatos de Playa...'
 sku: 'B078WTTBRG-es'
 tags: [ 'zapatos', ]

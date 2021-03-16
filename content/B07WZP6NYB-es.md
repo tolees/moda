@@ -5,7 +5,7 @@ date: 2020-05-21 11:46:30
 image: 'https://m.media-amazon.com/images/I/41JVYjLlmpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZP6NYB-es Dorothy Perkins Luxe Fur Parka Azul Navy 230 36 Talla del...'
 sku: 'B07WZP6NYB-es'
 tags: [ 'parka', ]

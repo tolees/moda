@@ -5,7 +5,7 @@ date: 2020-08-17 15:14:13
 image: 'https://m.media-amazon.com/images/I/417bTZGwFbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FQRVZ72-es Estudiante Coreano Hombro Arte Fresh Messenger Canvas Bag...'
 sku: 'B08FQRVZ72-es'
 tags: [ 'bolso', ]

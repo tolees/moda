@@ -5,7 +5,7 @@ date: 2020-06-01 07:04:59
 image: 'https://m.media-amazon.com/images/I/31e5TaiUAtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLNSGPD-es G-STAR RAW Earth Beetle Sudadera Gris Faded Balsam A983...'
 sku: 'B07TLNSGPD-es'
 tags: [ 'sudadera', ]

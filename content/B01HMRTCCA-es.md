@@ -5,7 +5,7 @@ date: 2020-04-28 07:42:51
 image: 'https://m.media-amazon.com/images/I/31mMoJjYUQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HMRTCCA-es The North Face T92TX5 Camiseta De Manga Corta Simple Dome...'
 sku: 'B01HMRTCCA-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-06 16:30:10
 image: 'https://m.media-amazon.com/images/I/41WipI1xZWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825PWLM1-es Roxy Epic Afternoon Camiseta Mujer Blanco Snow White XL'
 sku: 'B0825PWLM1-es'
 tags: [ 'camiseta', ]

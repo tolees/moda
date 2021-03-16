@@ -5,7 +5,7 @@ date: 2020-08-14 09:32:28
 image: 'https://m.media-amazon.com/images/I/51lTgMmhFNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089M1ZLFQ-es Zuecos Unisex Infantil Niños Niñas Clogs Verano Respirable...'
 sku: 'B089M1ZLFQ-es'
 tags: [ 'zapatos','zuecos', ]

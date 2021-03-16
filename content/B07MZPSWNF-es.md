@@ -5,7 +5,7 @@ date: 2020-04-27 09:32:57
 image: 'https://m.media-amazon.com/images/I/41jdJeH-gNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPSWNF-es Pepe Jeans Rick Chaqueta Berry Red 280 Medium para Hombre'
 sku: 'B07MZPSWNF-es'
 tags: [ 'chaqueta', ]

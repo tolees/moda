@@ -5,7 +5,7 @@ date: 2020-05-06 13:32:42
 image: 'https://m.media-amazon.com/images/I/31cqaz9drSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087P2PFVT-es Kaizi Karzi Mujer Moda Puntiagudo Zapatos de la Corte...'
 sku: 'B087P2PFVT-es'
 tags: [ 'moda','vestido','zapatos', ]

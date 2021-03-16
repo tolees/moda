@@ -5,7 +5,7 @@ date: 2020-04-18 16:28:24
 image: 'https://m.media-amazon.com/images/I/41aMY644a2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5PLVCW-es Mavi Printed tee Camiseta Azul Indigo 18790 Large Talla...'
 sku: 'B07V5PLVCW-es'
 tags: [ 'camiseta', ]

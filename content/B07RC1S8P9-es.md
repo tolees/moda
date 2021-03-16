@@ -5,7 +5,7 @@ date: 2020-03-15 11:03:26
 image: 'https://m.media-amazon.com/images/I/41PnkeZE3UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC1S8P9-es O NEILL LM Irvine 52 Sudadera con Capucha para Hombre...'
 sku: 'B07RC1S8P9-es'
 tags: [ 'sudadera', ]

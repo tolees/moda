@@ -5,7 +5,7 @@ date: 2020-04-16 13:04:03
 image: 'https://m.media-amazon.com/images/I/51k7mUUUQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7WNS3W-es Zacro Gafas Esquí Snowboard para Niño Joven con Máscara...'
 sku: 'B07Z7WNS3W-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-04-01 07:02:03
 image: 'https://m.media-amazon.com/images/I/41oBOxFQ0TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5DGVDT-es Lee 5 POCKET WIDE LEG Vaqueros straight Mujer Azul MYSTIC...'
 sku: 'B07M5DGVDT-es'
 tags: [ 'vaqueros', ]

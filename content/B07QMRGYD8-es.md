@@ -5,7 +5,7 @@ date: 2020-02-02 21:38:18
 image: 'https://m.media-amazon.com/images/I/41A6A2fa9wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMRGYD8-es TTYAOVO Chicas Arco Iris Unicornio Fancy Vestido Princesa...'
 sku: 'B07QMRGYD8-es'
 tags: [ 'vestido', ]

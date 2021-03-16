@@ -5,7 +5,7 @@ date: 2020-06-01 15:12:12
 image: 'https://m.media-amazon.com/images/I/41JEvYmjQ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN8WRPP-es Crocs Classic Clog Zuecos Unisex Adulto Dorado Bronze 854...'
 sku: 'B07CN8WRPP-es'
 tags: [ 'zuecos', ]

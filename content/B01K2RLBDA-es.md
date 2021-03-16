@@ -5,7 +5,7 @@ date: 2020-09-07 15:30:38
 image: 'https://m.media-amazon.com/images/I/31nyM-mt7zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K2RLBDA-es Antony Morato Camicia Basica Abbottonatura A Vista Camisa...'
 sku: 'B01K2RLBDA-es'
 tags: [ 'camisa', ]

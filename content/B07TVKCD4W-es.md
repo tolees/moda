@@ -5,7 +5,7 @@ date: 2020-08-09 19:16:57
 image: 'https://m.media-amazon.com/images/I/41Y6KrjWFsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVKCD4W-es Wrangler Greensboro Vaqueros Gris Pitch Grey 15d 30W / 34L...'
 sku: 'B07TVKCD4W-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 09:36:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xfEBO8oGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002OYMKSK-es Lacoste L1212 Camiseta Polo Azul Ruisseau 2XL Talla del...'
 sku: 'B002OYMKSK-es'
 tags: [ 'camiseta', ]

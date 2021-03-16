@@ -5,7 +5,7 @@ date: 2020-06-27 07:56:28
 image: 'https://m.media-amazon.com/images/I/417Ga7vfJyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKCJFVZ-es NIKE W NP Tank All Over Mesh Camiseta sin Mangas Mujer...'
 sku: 'B07FKCJFVZ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-03-12 20:01:54
 image: 'https://m.media-amazon.com/images/I/41YHA-nIZIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG246BH-es Geox J Sleigh Girl B ABX B Botas de Nieve para Niñas Negro...'
 sku: 'B07LG246BH-es'
 tags: [ 'geox', ]

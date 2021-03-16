@@ -5,7 +5,7 @@ date: 2020-01-19 15:53:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uf0kum57L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWJTY6P-es Only Onlenya Faux Leather Biker CC Otw Chaqueta Rojo...'
 sku: 'B07RWJTY6P-es'
 tags: [ 'chaqueta', ]

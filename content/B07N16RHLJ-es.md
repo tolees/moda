@@ -5,7 +5,7 @@ date: 2020-06-27 18:37:39
 image: 'https://m.media-amazon.com/images/I/31xC-l-DzdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N16RHLJ-es G-STAR RAW Lynn Mid Skinny Vaqueros Gris Dusty Grey...'
 sku: 'B07N16RHLJ-es'
 tags: [ 'vaqueros', ]

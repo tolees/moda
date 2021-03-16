@@ -5,7 +5,7 @@ date: 2020-01-12 20:02:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417UZlIUp5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3TLNV9-es Desigual Blouse Amandine Blusa Azul Marino 5001 L para Mujer'
 sku: 'B07N3TLNV9-es'
 tags: [ 'blusa', ]

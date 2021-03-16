@@ -5,7 +5,7 @@ date: 2020-01-15 08:29:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BYh9I-VXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFV9CM9-es Geox U Terence C Botas Clasicas para Hombre Negro Black...'
 sku: 'B07LFV9CM9-es'
 tags: [ 'geox', ]

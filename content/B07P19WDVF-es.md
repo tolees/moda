@@ -5,7 +5,7 @@ date: 2020-04-21 09:53:57
 image: 'https://m.media-amazon.com/images/I/41gH1ay1OGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P19WDVF-es Superdry Colour Block Track Jacket Chaqueta Mujer...'
 sku: 'B07P19WDVF-es'
 tags: [ 'chaqueta', ]

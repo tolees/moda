@@ -5,7 +5,7 @@ date: 2020-05-10 08:32:02
 image: 'https://m.media-amazon.com/images/I/31SQSOuMSlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1QRNR6-es Jack & Jones Jjiliam Jjoriginal Am 816 Noos Vaqueros...'
 sku: 'B07L1QRNR6-es'
 tags: [ 'vaqueros', ]

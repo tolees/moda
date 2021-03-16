@@ -5,7 +5,7 @@ date: 2020-03-31 17:39:46
 image: 'https://m.media-amazon.com/images/I/41mzct-iX2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMVK4V8-es Converse Converse EDC 22 Backpack 10007031-A06 Bolso...'
 sku: 'B07FMVK4V8-es'
 tags: [ 'bolso', ]

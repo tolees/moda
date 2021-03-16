@@ -5,7 +5,7 @@ date: 2020-07-01 21:58:00
 image: 'https://m.media-amazon.com/images/I/413mez4QdAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7B6SZQ-es Geox U Nebula Y A Zapatillas para Hombre Negro Black C9999...'
 sku: 'B07M7B6SZQ-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-09-01 04:04:51
 image: 'https://m.media-amazon.com/images/I/41GnrelWaAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W91WVZ4-es Tommy Hilfiger Abstract Stripe tee Camiseta Deporte Gris...'
 sku: 'B07W91WVZ4-es'
 tags: [ 'camiseta', ]

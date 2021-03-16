@@ -5,7 +5,7 @@ date: 2020-04-28 13:32:59
 image: 'https://m.media-amazon.com/images/I/413gVd7ykqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXRZXDZ-es SUADEX Unisex Hombre Mujer Zapato de Agua Zapatos de Playa...'
 sku: 'B07QXRZXDZ-es'
 tags: [ 'zapatos', ]

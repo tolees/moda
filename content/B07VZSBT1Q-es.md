@@ -5,7 +5,7 @@ date: 2020-08-19 11:16:26
 image: 'https://m.media-amazon.com/images/I/41I3NkH7RJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZSBT1Q-es Tommy Hilfiger TJM Bold tee Camiseta Azul Twilight Navy...'
 sku: 'B07VZSBT1Q-es'
 tags: [ 'camiseta', ]

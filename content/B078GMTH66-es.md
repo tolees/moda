@@ -5,7 +5,7 @@ date: 2020-06-25 14:08:19
 image: 'https://m.media-amazon.com/images/I/41QkpKTsg3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GMTH66-es GRITION Sandalias Hombre Verano Piel Punta Cerrada...'
 sku: 'B078GMTH66-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-05-10 08:03:15
 image: 'https://m.media-amazon.com/images/I/41vjcKGrPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001PEFZ7I-es adidas Adilette Chanclas Hombre Azul Adiblu/White/Adiblu...'
 sku: 'B001PEFZ7I-es'
 tags: [ 'chanclas', ]

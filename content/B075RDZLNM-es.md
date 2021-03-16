@@ -5,7 +5,7 @@ date: 2020-06-28 15:45:20
 image: 'https://m.media-amazon.com/images/I/517I-Ye8N4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RDZLNM-es Marca Amazon - IRIS & LILLY Kimono Pijama Mujer Azul Blue...'
 sku: 'B075RDZLNM-es'
 tags: [ '&','iris','lilly','pijama', ]

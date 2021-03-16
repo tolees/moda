@@ -5,7 +5,7 @@ date: 2020-09-30 12:02:41
 image: 'https://m.media-amazon.com/images/I/41WNSYimL+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH3SY9T-es Calvin Klein K60k606172 conjunto bufanda gorro y guantes...'
 sku: 'B07RH3SY9T-es'
 tags: [ 'guantes', ]

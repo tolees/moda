@@ -5,7 +5,7 @@ date: 2020-01-14 01:36:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BkuGC8d7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VNJ7WY-es GANT The Broadcloth Reg BD Camiseta Deporte Blanco White...'
 sku: 'B077VNJ7WY-es'
 tags: [ 'camiseta', ]

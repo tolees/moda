@@ -5,7 +5,7 @@ date: 2020-03-19 14:53:30
 image: 'https://m.media-amazon.com/images/I/415SlTrDdrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T2KKG2-es PUMA Liga JS Striped Jersey de Fútbol de Rayas Hombre...'
 sku: 'B078T2KKG2-es'
 tags: [ 'jersey', ]

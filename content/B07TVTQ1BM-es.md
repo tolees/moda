@@ -5,7 +5,7 @@ date: 2020-04-18 18:28:25
 image: 'https://m.media-amazon.com/images/I/417756Td28L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTQ1BM-es Women s Secret Multilicense College MC DS Stars PJ...'
 sku: 'B07TVTQ1BM-es'
 tags: [ 'pijama', ]

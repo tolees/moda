@@ -5,7 +5,7 @@ date: 2020-06-29 21:56:44
 image: 'https://m.media-amazon.com/images/I/31q1xmNVG8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JR9MC1R-es Tommy Hilfiger TJM Classics Logo tee Camisa Negro Tommy...'
 sku: 'B07JR9MC1R-es'
 tags: [ 'camisa', ]

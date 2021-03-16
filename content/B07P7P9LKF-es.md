@@ -5,7 +5,7 @@ date: 2020-03-14 21:01:27
 image: 'https://m.media-amazon.com/images/I/41SZBEJhpRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7P9LKF-es Morgan 192-rdenty.p Vestido Negro Noir Noir 36 Talla del...'
 sku: 'B07P7P9LKF-es'
 tags: [ 'vestido', ]

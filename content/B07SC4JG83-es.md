@@ -5,7 +5,7 @@ date: 2020-09-12 18:55:25
 image: 'https://m.media-amazon.com/images/I/31nrf+pJxiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC4JG83-es Levi s 724 High Rise Straight Vaqueros Azul London Bridge...'
 sku: 'B07SC4JG83-es'
 tags: [ 'vaqueros', ]

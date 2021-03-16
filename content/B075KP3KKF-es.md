@@ -5,7 +5,7 @@ date: 2020-02-26 14:49:20
 image: 'https://m.media-amazon.com/images/I/31D7BPF7WPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KP3KKF-es MBT SHUGULI M Zapatos de Cordones Oxford para Hombre...'
 sku: 'B075KP3KKF-es'
 tags: [ 'zapatos', ]

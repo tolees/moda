@@ -5,7 +5,7 @@ date: 2020-03-08 10:36:07
 image: 'https://m.media-amazon.com/images/I/41sSsyYhIpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ILPU9FQ-es Protest Update Chaqueta para Hombre Negro True Black 290 S'
 sku: 'B01ILPU9FQ-es'
 tags: [ 'chaqueta', ]

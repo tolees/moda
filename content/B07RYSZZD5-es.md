@@ -5,7 +5,7 @@ date: 2020-04-04 05:23:49
 image: 'https://m.media-amazon.com/images/I/31EDeOCVWpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYSZZD5-es Lacoste TH2036 - Camiseta de Manga Corta para Hombre...'
 sku: 'B07RYSZZD5-es'
 tags: [ 'camiseta', ]

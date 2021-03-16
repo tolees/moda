@@ -5,7 +5,7 @@ date: 2020-03-01 22:09:41
 image: 'https://m.media-amazon.com/images/I/31-KauOXVKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDC4NDW-es Nike Dri-FIT Academy Dril Top Camiseta de Manga Larga...'
 sku: 'B07GDC4NDW-es'
 tags: [ 'camiseta', ]

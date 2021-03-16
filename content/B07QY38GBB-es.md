@@ -5,7 +5,7 @@ date: 2020-02-03 20:14:14
 image: 'https://m.media-amazon.com/images/I/31s1f1nuKkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QY38GBB-es Under Armour Storm Full Zip Chaqueta Hombre Negro XL'
 sku: 'B07QY38GBB-es'
 tags: [ 'chaqueta', ]

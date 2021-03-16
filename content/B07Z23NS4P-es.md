@@ -5,7 +5,7 @@ date: 2020-04-06 18:03:44
 image: 'https://m.media-amazon.com/images/I/31a2we+XMVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z23NS4P-es Vans Spicoli Flat Shades Gafas de Sol Negro Black/Silver...'
 sku: 'B07Z23NS4P-es'
 tags: [ 'gafas', ]

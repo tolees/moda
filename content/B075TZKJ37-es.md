@@ -5,7 +5,7 @@ date: 2020-01-30 11:16:28
 image: 'https://m.media-amazon.com/images/I/517VKdmJkWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TZKJ37-es VITIKE Hombre Zapatos de Entrenamiento de fútbol Botas de...'
 sku: 'B075TZKJ37-es'
 tags: [ 'zapatos', ]

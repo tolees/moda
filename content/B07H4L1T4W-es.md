@@ -5,7 +5,7 @@ date: 2020-07-01 07:32:49
 image: 'https://m.media-amazon.com/images/I/413N+Yi4gkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4L1T4W-es Nakosite DOG2433 Mejor Collar Antiladridos Perros para...'
 sku: 'B07H4L1T4W-es'
 tags: [ 'collar', ]

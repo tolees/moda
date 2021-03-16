@@ -5,7 +5,7 @@ date: 2020-05-29 08:04:24
 image: 'https://m.media-amazon.com/images/I/41bnBTKDt9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TX2TV5-es Si Diosa Moda Mujer Zapatos Verano D Orsay Stiletto Heels...'
 sku: 'B088TX2TV5-es'
 tags: [ 'moda','sandalias','zapatos', ]

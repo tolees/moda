@@ -5,7 +5,7 @@ date: 2020-01-06 13:14:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NxAOFpcwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HR4DSM-es Adidas Regista 18 Track Top Chaqueta Deportiva Hombre...'
 sku: 'B076HR4DSM-es'
 tags: [ 'chaqueta', ]

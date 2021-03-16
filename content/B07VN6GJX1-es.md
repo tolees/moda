@@ -5,7 +5,7 @@ date: 2020-05-16 09:39:08
 image: 'https://m.media-amazon.com/images/I/416WoQjIdjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN6GJX1-es Desigual Jers Chill Chaqueta Punto Negro Negro 2000 Medium...'
 sku: 'B07VN6GJX1-es'
 tags: [ 'chaqueta', ]

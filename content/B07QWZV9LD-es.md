@@ -5,7 +5,7 @@ date: 2020-03-04 08:49:30
 image: 'https://m.media-amazon.com/images/I/31s1f1nuKkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWZV9LD-es Under Armour Storm Full Zip Chaqueta Hombre Negro SM'
 sku: 'B07QWZV9LD-es'
 tags: [ 'chaqueta', ]

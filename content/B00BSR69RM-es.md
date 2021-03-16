@@ -5,7 +5,7 @@ date: 2020-02-04 11:24:55
 image: 'https://m.media-amazon.com/images/I/417xYl6iYqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BSR69RM-es Geox 43c9999 J Agata C Zapatos de Vestir para Niñas Negro...'
 sku: 'B00BSR69RM-es'
 tags: [ 'geox','zapatos', ]

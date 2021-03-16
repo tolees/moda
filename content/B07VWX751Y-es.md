@@ -5,7 +5,7 @@ date: 2020-08-30 09:49:00
 image: 'https://m.media-amazon.com/images/I/41Tlwt6IOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWX751Y-es Pepe Jeans Jett Camiseta Azul Deep Sea 597 Small para Hombre'
 sku: 'B07VWX751Y-es'
 tags: [ 'camiseta', ]

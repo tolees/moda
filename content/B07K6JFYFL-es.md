@@ -5,7 +5,7 @@ date: 2020-06-26 00:53:40
 image: 'https://m.media-amazon.com/images/I/31ypWaoC16L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6JFYFL-es Marca Amazon - MERAKI Culottes Mujer Verde Khaki 42 Label: L'
 sku: 'B07K6JFYFL-es'
 tags: [ 'meraki', ]

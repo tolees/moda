@@ -5,7 +5,7 @@ date: 2020-03-12 09:34:29
 image: 'https://m.media-amazon.com/images/I/41+b4M6PAqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2PSKD-es HKT by Hackett Hkt Crew Sudadera Red 255 Medium para Hombre'
 sku: 'B07MQ2PSKD-es'
 tags: [ 'sudadera', ]

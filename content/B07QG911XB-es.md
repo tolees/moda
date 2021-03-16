@@ -5,7 +5,7 @@ date: 2020-08-29 13:01:29
 image: 'https://m.media-amazon.com/images/I/41AQEjb2mTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QG911XB-es Kipling NEW ERASTO Bolso bandolera 40 cm 17 liters Dorado...'
 sku: 'B07QG911XB-es'
 tags: [ 'bolso', ]

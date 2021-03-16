@@ -5,7 +5,7 @@ date: 2020-02-18 12:22:37
 image: 'https://m.media-amazon.com/images/I/31AFyjUICCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2PSF8-es Geox Uomo Snake a Zapatillas para Hombre Black/Dk Grey...'
 sku: 'B07DJ2PSF8-es'
 tags: [ 'geox', ]

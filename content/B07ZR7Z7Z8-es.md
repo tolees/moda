@@ -5,7 +5,7 @@ date: 2020-05-31 07:28:08
 image: 'https://m.media-amazon.com/images/I/41-CNr7CBdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZR7Z7Z8-es Zapatillas de casa de Hombre Ultraligero cómodo y...'
 sku: 'B07ZR7Z7Z8-es'
 tags: [ 'zapatilla', ]

@@ -5,7 +5,7 @@ date: 2020-01-26 16:06:03
 image: 'https://m.media-amazon.com/images/I/41oXhhlo8kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AHOY9B4-es Prada 0PR17SS UE00A6 53 gafas de sol Marrón Spotted Brown...'
 sku: 'B01AHOY9B4-es'
 tags: [ 'gafas', ]

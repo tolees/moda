@@ -5,7 +5,7 @@ date: 2020-10-04 16:31:36
 image: 'https://m.media-amazon.com/images/I/41CEXVw3-JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW66DQZ-es Disney muñeca Princesa Anna con Vestido Capa y Botas de...'
 sku: 'B07KW66DQZ-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-09-23 08:08:22
 image: 'https://m.media-amazon.com/images/I/41H3xVFleyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HXLC5N-es Chaqueta Softshell Inatye'
 sku: 'B072HXLC5N-es'
 tags: [ 'chaqueta', ]

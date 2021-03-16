@@ -5,7 +5,7 @@ date: 2020-01-18 11:23:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414WKWiuuuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8KC69P-es BOSS Togn 1 Camiseta Azul Navy X-Large para Hombre'
 sku: 'B07N8KC69P-es'
 tags: [ 'camiseta', ]

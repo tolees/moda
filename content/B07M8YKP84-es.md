@@ -5,7 +5,7 @@ date: 2020-02-08 09:36:12
 image: 'https://m.media-amazon.com/images/I/41ZSP3MZkpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8YKP84-es Geox M Hilstone D Abrigo Negro Black F9000 XXXX-Large...'
 sku: 'B07M8YKP84-es'
 tags: [ 'abrigo','geox', ]

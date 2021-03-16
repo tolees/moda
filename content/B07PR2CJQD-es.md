@@ -5,7 +5,7 @@ date: 2020-06-24 07:51:59
 image: 'https://m.media-amazon.com/images/I/41F+AeHgznL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PR2CJQD-es Under Armour Camo Boxed Logo Camisa Manga Corta Hombre...'
 sku: 'B07PR2CJQD-es'
 tags: [ 'camisa', ]

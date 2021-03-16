@@ -5,7 +5,7 @@ date: 2020-02-12 10:24:41
 image: 'https://m.media-amazon.com/images/I/31El0TEOphL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T18Y7GS-es Organizador de Equipaje de Viaje 7 Piezas Impermeables...'
 sku: 'B07T18Y7GS-es'
 tags: [ 'zapatos', ]

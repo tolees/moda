@@ -5,7 +5,7 @@ date: 2020-06-01 17:49:25
 image: 'https://m.media-amazon.com/images/I/41xPbWVsFTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q49MSF7-es ZERHOK Neceser Aseo pequeño 8pcs Bolso de Organizador de...'
 sku: 'B07Q49MSF7-es'
 tags: [ 'bolso', ]

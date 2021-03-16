@@ -5,7 +5,7 @@ date: 2020-05-19 09:35:01
 image: 'https://m.media-amazon.com/images/I/31zmNfHjhVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XW8JLK3-es Amazon Essentials 6-Pack Crewneck Undershirts Camisa...'
 sku: 'B06XW8JLK3-es'
 tags: [ 'camisa', ]

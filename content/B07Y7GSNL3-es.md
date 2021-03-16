@@ -5,7 +5,7 @@ date: 2020-01-21 02:01:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518nCFCCTaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7GSNL3-es GANT Jersey Fantasia Redondo - Color - Azul Talla - 2XL'
 sku: 'B07Y7GSNL3-es'
 tags: [ 'jersey', ]

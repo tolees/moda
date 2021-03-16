@@ -5,7 +5,7 @@ date: 2020-01-31 08:37:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UMWcEfSJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776ZNPLJ-es Tommy Jeans Hombre Original Jersey Camiseta Manga Corta...'
 sku: 'B0776ZNPLJ-es'
 tags: [ 'camiseta','jersey', ]

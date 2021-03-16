@@ -5,7 +5,7 @@ date: 2020-04-14 09:09:08
 image: 'https://m.media-amazon.com/images/I/410IUCow4IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZNZP4P-es FANDARE Mochila Hombres Business Outdoor Viaje Rucksack...'
 sku: 'B07GZNZP4P-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-09-10 10:53:52
 image: 'https://m.media-amazon.com/images/I/31bpbv6t17L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002EA55BS-es Havaianas Slim Chanclas Mujer Negro Black 0090 33/34 EU'
 sku: 'B002EA55BS-es'
 tags: [ 'chanclas', ]

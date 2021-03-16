@@ -5,7 +5,7 @@ date: 2020-05-30 09:34:21
 image: 'https://m.media-amazon.com/images/I/31yOs5r3N6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0897FLPR5-es ELEEMEE Mujer Simple Tacón Bajo Sandalias Square Toe...'
 sku: 'B0897FLPR5-es'
 tags: [ 'sandalias','vestido','zapatos', ]

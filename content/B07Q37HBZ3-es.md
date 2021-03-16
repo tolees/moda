@@ -5,7 +5,7 @@ date: 2020-02-05 11:30:24
 image: 'https://m.media-amazon.com/images/I/41jEMG2S2+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q37HBZ3-es TTYAOVO Chicas Estrella Unicornio Fancy Vestido Princesa...'
 sku: 'B07Q37HBZ3-es'
 tags: [ 'vestido', ]

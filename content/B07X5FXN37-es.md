@@ -5,7 +5,7 @@ date: 2020-04-17 00:36:31
 image: 'https://m.media-amazon.com/images/I/314YwsodsVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5FXN37-es Mujer Vestido Lápiz de Oficina Elegante Mangas Cortas S...'
 sku: 'B07X5FXN37-es'
 tags: [ 'vestido', ]

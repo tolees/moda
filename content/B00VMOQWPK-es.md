@@ -5,7 +5,7 @@ date: 2020-01-14 12:20:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KCbcuBUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VMOQWPK-es Jako Camiseta de LA Manga Blanco/Negro Talla:42-44'
 sku: 'B00VMOQWPK-es'
 tags: [ 'camiseta', ]

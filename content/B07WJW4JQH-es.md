@@ -5,7 +5,7 @@ date: 2020-05-19 11:21:12
 image: 'https://m.media-amazon.com/images/I/41-n6JENPVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJW4JQH-es Jack & Jones JCOBOOSTER tee SS Crew Neck Oct 19 Camiseta...'
 sku: 'B07WJW4JQH-es'
 tags: [ 'camiseta', ]

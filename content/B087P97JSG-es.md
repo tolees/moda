@@ -5,7 +5,7 @@ date: 2020-07-03 15:46:01
 image: 'https://m.media-amazon.com/images/I/51aQOpnOfHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087P97JSG-es Suhctup Funda Compatible con Samsung Galaxy Note 9...'
 sku: 'B087P97JSG-es'
 tags: [ 'billetera', ]

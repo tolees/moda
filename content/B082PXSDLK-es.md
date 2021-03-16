@@ -5,7 +5,7 @@ date: 2020-01-26 20:59:59
 image: 'https://m.media-amazon.com/images/I/418+ZxZiJFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PXSDLK-es Star Wars Jedi Master T-Shirt Top de Manga Corta Alrededor...'
 sku: 'B082PXSDLK-es'
 tags: [ 'camiseta', ]

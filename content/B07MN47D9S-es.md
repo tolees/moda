@@ -5,7 +5,7 @@ date: 2020-02-24 21:23:10
 image: 'https://m.media-amazon.com/images/I/41NTolKmYaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN47D9S-es Wrangler Straight Vaqueros para Mujer Azul Mid Indigo X8E...'
 sku: 'B07MN47D9S-es'
 tags: [ 'vaqueros', ]

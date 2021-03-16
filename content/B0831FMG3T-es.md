@@ -5,7 +5,7 @@ date: 2020-10-07 08:04:01
 image: 'https://m.media-amazon.com/images/I/31g1-Bb6ZkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831FMG3T-es Gafas de Presbicia con Visión Ultra Nítida Especiales para...'
 sku: 'B0831FMG3T-es'
 tags: [ 'gafas', ]

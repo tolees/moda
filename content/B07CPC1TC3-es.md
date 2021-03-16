@@ -5,7 +5,7 @@ date: 2020-03-24 16:15:43
 image: 'https://m.media-amazon.com/images/I/31MbkAE4eDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPC1TC3-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños Rosa...'
 sku: 'B07CPC1TC3-es'
 tags: [ 'zuecos', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 00:12:11
 image: 'https://m.media-amazon.com/images/I/413M71XSoIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWVS4WS-es 18th Birthday Gifts 18 cumpleaños Mujer Original 18 Camiseta'
 sku: 'B07NWVS4WS-es'
 tags: [ 'camiseta', ]

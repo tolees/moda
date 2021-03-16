@@ -5,7 +5,7 @@ date: 2020-03-19 11:56:28
 image: 'https://m.media-amazon.com/images/I/31Z1vLqT+KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D45G3NK-es Tommy Hilfiger TJM Tommy Classics Logo tee Camisa Gris Lt...'
 sku: 'B07D45G3NK-es'
 tags: [ 'camisa', ]

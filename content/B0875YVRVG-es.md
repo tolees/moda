@@ -5,7 +5,7 @@ date: 2020-08-01 13:05:42
 image: 'https://m.media-amazon.com/images/I/51tv5JPW+yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0875YVRVG-es Sandalias Mujer Verano Cuña Cómodos Mules Zuecos Casual...'
 sku: 'B0875YVRVG-es'
 tags: [ 'sandalias','zapatos','zuecos', ]

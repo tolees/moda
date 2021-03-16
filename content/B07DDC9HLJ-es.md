@@ -5,7 +5,7 @@ date: 2020-06-07 16:53:58
 image: 'https://m.media-amazon.com/images/I/316ZYMu0JpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDC9HLJ-es PUMA ESS Logo tee Camiseta Mujer Negro Cotton Black M'
 sku: 'B07DDC9HLJ-es'
 tags: [ 'camiseta', ]

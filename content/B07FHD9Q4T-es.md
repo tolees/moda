@@ -5,7 +5,7 @@ date: 2020-07-16 17:53:59
 image: 'https://m.media-amazon.com/images/I/41jcZCflfTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHD9Q4T-es Helly Hansen HP Racing Prueba De Viento Y Respirable...'
 sku: 'B07FHD9Q4T-es'
 tags: [ 'chaqueta', ]

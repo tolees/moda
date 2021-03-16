@@ -5,7 +5,7 @@ date: 2020-06-23 16:40:26
 image: 'https://m.media-amazon.com/images/I/41F5+FMxXJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQHDDK-es Pepe Jeans Nanete Sudadera Rosa Cloudy Pink 308 Large para...'
 sku: 'B07MZQHDDK-es'
 tags: [ 'sudadera', ]

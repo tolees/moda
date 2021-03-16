@@ -5,7 +5,7 @@ date: 2020-05-27 13:32:36
 image: 'https://m.media-amazon.com/images/I/51ky4RjGR7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088ZTX5V6-es Lydee Moda Plataforma Sandalias Mujer Verano Zapatos Tacon...'
 sku: 'B088ZTX5V6-es'
 tags: [ 'moda','sandalias','zapatos', ]

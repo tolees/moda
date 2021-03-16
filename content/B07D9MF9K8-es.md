@@ -5,7 +5,7 @@ date: 2020-08-14 13:38:18
 image: 'https://m.media-amazon.com/images/I/41DuMCXaLwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9MF9K8-es Tommy Hilfiger Trunk Bóxer Azul Navy Blazer 416 Medium...'
 sku: 'B07D9MF9K8-es'
 tags: [ 'bóxer', ]

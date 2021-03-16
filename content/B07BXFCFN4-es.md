@@ -5,7 +5,7 @@ date: 2020-03-27 13:18:50
 image: 'https://m.media-amazon.com/images/I/31PN0EJpwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXFCFN4-es KUULEE Hombre Camisa Manga Larga Slim Fit Camisa...'
 sku: 'B07BXFCFN4-es'
 tags: [ 'camisa', ]

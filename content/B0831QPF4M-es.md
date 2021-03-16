@@ -5,7 +5,7 @@ date: 2020-01-11 09:08:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417IQKcx6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831QPF4M-es Canadian Peak Chaqueta DE Mujer AKATE Azul Marino 01'
 sku: 'B0831QPF4M-es'
 tags: [ 'chaqueta', ]

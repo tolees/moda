@@ -5,7 +5,7 @@ date: 2020-01-06 17:42:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41c7qgxhDmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5J6P9C-es JACK & JONES Camiseta de Manga Larga T-Shirt Longsleeve...'
 sku: 'B07J5J6P9C-es'
 tags: [ 'camiseta', ]

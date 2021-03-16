@@ -5,7 +5,7 @@ date: 2020-03-18 11:45:15
 image: 'https://m.media-amazon.com/images/I/31KthZ3GafL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012A3I7RM-es Geox D Nebula a Zapatillas para Mujer Negro BLACKC9999 39 EU'
 sku: 'B012A3I7RM-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-03-05 16:35:25
 image: 'https://m.media-amazon.com/images/I/41tcMwhjPDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AP5OJVA-es Wilson W Team RD Falda de Tenis Mujer Rojo L'
 sku: 'B01AP5OJVA-es'
 tags: [ 'falda', ]

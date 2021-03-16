@@ -5,7 +5,7 @@ date: 2020-08-01 10:43:24
 image: 'https://m.media-amazon.com/images/I/31LZYnfRDAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCFSXC6-es Crocs Classic U Zuecos con Correa Trasera Unisex Adulto...'
 sku: 'B07SCFSXC6-es'
 tags: [ 'zuecos', ]

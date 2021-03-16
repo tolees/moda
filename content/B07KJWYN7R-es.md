@@ -5,7 +5,7 @@ date: 2020-01-02 11:08:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31iar9VhrBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJWYN7R-es El Naturalista N5372 Pleasant Sandalias con Correa de...'
 sku: 'B07KJWYN7R-es'
 tags: [ 'sandalias', ]

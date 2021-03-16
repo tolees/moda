@@ -5,7 +5,7 @@ date: 2020-08-09 21:37:29
 image: 'https://m.media-amazon.com/images/I/41OCcT9REcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZK73SK-es BOSS Brief 3p Co/El Bóxer Multicolor Open Miscellaneous L...'
 sku: 'B07TZK73SK-es'
 tags: [ 'bóxer', ]

@@ -5,7 +5,7 @@ date: 2020-08-19 12:03:23
 image: 'https://m.media-amazon.com/images/I/41dP36QalyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779SJTK6-es Timberland Newport Bay 2 Eye Mocasines para Hombre Azul...'
 sku: 'B0779SJTK6-es'
 tags: [ 'timberland', ]

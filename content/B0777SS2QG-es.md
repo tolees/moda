@@ -5,7 +5,7 @@ date: 2020-02-04 10:20:45
 image: 'https://m.media-amazon.com/images/I/31rOKrA7nyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777SS2QG-es Napapijri DAMAVAND Half Jersey Negro Black 041 S para Hombre'
 sku: 'B0777SS2QG-es'
 tags: [ 'jersey', ]

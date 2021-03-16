@@ -5,7 +5,7 @@ date: 2020-04-14 19:21:58
 image: 'https://m.media-amazon.com/images/I/51wmGEAVxGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPR8LL-es Pepe Jeans Nadia Sudadera Grey Marl 933 17-18 años de Edad...'
 sku: 'B07MZPR8LL-es'
 tags: [ 'sudadera', ]

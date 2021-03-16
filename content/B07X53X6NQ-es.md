@@ -5,7 +5,7 @@ date: 2020-03-01 16:35:39
 image: 'https://m.media-amazon.com/images/I/41BiF2wTGWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X53X6NQ-es J.Rosée Caja de Organizador de joyería de Viaje pequeña...'
 sku: 'B07X53X6NQ-es'
 tags: [ 'collar', ]

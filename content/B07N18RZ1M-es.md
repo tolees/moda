@@ -5,7 +5,7 @@ date: 2020-04-20 12:32:38
 image: 'https://m.media-amazon.com/images/I/41fiLXDG6NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18RZ1M-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros Antic Blue...'
 sku: 'B07N18RZ1M-es'
 tags: [ 'vaqueros', ]

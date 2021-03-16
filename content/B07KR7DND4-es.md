@@ -5,7 +5,7 @@ date: 2020-01-19 07:05:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OCmLKgM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR7DND4-es GANT Footwear Bari Zapatos de Cordones Brogue para Hombre...'
 sku: 'B07KR7DND4-es'
 tags: [ 'zapatos', ]

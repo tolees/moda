@@ -5,7 +5,7 @@ date: 2020-02-16 16:16:59
 image: 'https://m.media-amazon.com/images/I/31fp38zw4EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076FXBCL5-es Dainese Pantalón de Motorista DAINESE Delta 3 Piel/Botas...'
 sku: 'B076FXBCL5-es'
 tags: [ 'pantalón', ]

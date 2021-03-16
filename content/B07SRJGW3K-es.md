@@ -5,7 +5,7 @@ date: 2020-06-28 10:19:38
 image: 'https://m.media-amazon.com/images/I/41n3N1I08CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRJGW3K-es Geox J Alben Boy B Zapatillas para Niños Azul Avio/Beige...'
 sku: 'B07SRJGW3K-es'
 tags: [ 'geox', ]

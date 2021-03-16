@@ -5,7 +5,7 @@ date: 2020-02-21 12:16:29
 image: 'https://m.media-amazon.com/images/I/41GkoKt5xtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWQLWB1-es Pepe Jeans Maria Pl203428 Vaqueros evasé Archive Medium...'
 sku: 'B07JWQLWB1-es'
 tags: [ 'vaqueros', ]

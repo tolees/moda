@@ -5,7 +5,7 @@ date: 2020-01-05 12:20:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WBIM4TwVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNLJRLR-es JACK & JONES Jjiglenn Jjoriginal Jos 102 STS Vaqueros Slim...'
 sku: 'B07FNLJRLR-es'
 tags: [ 'vaqueros', ]

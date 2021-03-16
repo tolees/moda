@@ -5,7 +5,7 @@ date: 2020-10-05 14:24:57
 image: 'https://m.media-amazon.com/images/I/41HSD0nvpvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9SDGG-es Levi s Camiseta Multicolor Authentic Colorblock tee...'
 sku: 'B07TJ9SDGG-es'
 tags: [ 'camiseta', ]

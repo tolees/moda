@@ -5,7 +5,7 @@ date: 2020-01-11 20:30:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tDXHug%2BpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V59NKB-es Canadian Peak Parka'
 sku: 'B082V59NKB-es'
 tags: [ 'parka', ]

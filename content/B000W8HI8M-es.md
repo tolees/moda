@@ -5,7 +5,7 @@ date: 2020-07-09 04:35:28
 image: 'https://m.media-amazon.com/images/I/41GZN2QFpcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000W8HI8M-es Timberland Heritage 6 Inch Premium Waterproof Botas para...'
 sku: 'B000W8HI8M-es'
 tags: [ 'timberland', ]

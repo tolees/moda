@@ -5,7 +5,7 @@ date: 2020-03-15 15:55:46
 image: 'https://m.media-amazon.com/images/I/31o1XqFaSyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1W2V3Q-es BOSS Mabsoot Camisa Verde Open Green 350 Small para Hombre'
 sku: 'B07S1W2V3Q-es'
 tags: [ 'camisa', ]

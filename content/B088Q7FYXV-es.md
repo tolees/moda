@@ -5,7 +5,7 @@ date: 2020-05-18 10:02:47
 image: 'https://m.media-amazon.com/images/I/51QmjYoMiCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088Q7FYXV-es URFEDA Funda Compatible con Samsung Galaxy S6 Funda Libro...'
 sku: 'B088Q7FYXV-es'
 tags: [ 'billetera', ]

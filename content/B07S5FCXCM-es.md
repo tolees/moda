@@ -5,7 +5,7 @@ date: 2020-04-26 18:39:26
 image: 'https://m.media-amazon.com/images/I/41ITCxBsfXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5FCXCM-es El Naturalista N5144 Botines para Mujer Marrón Wood Wood...'
 sku: 'B07S5FCXCM-es'
 tags: [ 'botines', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 09:29:52
 image: 'https://m.media-amazon.com/images/I/41uIisDZNPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JQR6G6-es NIKE M Nk Dry Acdmy18 Top SS Camiseta de Manga Corta...'
 sku: 'B079JQR6G6-es'
 tags: [ 'camiseta', ]

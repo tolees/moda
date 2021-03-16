@@ -5,7 +5,7 @@ date: 2020-05-22 13:42:54
 image: 'https://m.media-amazon.com/images/I/411ef43NOkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F58T9JB-es Bolso De Compras de Bebé Cochecito Piezas de Automóvil...'
 sku: 'B07F58T9JB-es'
 tags: [ 'bolso', ]

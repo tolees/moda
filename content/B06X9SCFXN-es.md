@@ -5,7 +5,7 @@ date: 2020-03-05 12:02:45
 image: 'https://m.media-amazon.com/images/I/312QygTnGtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9SCFXN-es find. Botines de Piel para Mujer Marrón Brown 38 EU'
 sku: 'B06X9SCFXN-es'
 tags: [ 'botines', ]

@@ -5,7 +5,7 @@ date: 2020-09-09 20:57:10
 image: 'https://m.media-amazon.com/images/I/41RYG9BCn3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081P9X7PZ-es NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaqueta de Deporte...'
 sku: 'B081P9X7PZ-es'
 tags: [ 'chaqueta', ]

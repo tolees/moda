@@ -5,7 +5,7 @@ date: 2020-08-30 18:11:26
 image: 'https://m.media-amazon.com/images/I/41fsbSbLY+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8FV4ML-es Gioseppo DEINZE Sandalias de Gladiador para Niñas Morado...'
 sku: 'B07Y8FV4ML-es'
 tags: [ 'sandalias', ]

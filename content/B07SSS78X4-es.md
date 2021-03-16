@@ -5,7 +5,7 @@ date: 2020-06-27 15:33:46
 image: 'https://m.media-amazon.com/images/I/31SEfo7+vpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSS78X4-es Geox D Genziana Mid B Sandalias con Punta Abierta para...'
 sku: 'B07SSS78X4-es'
 tags: [ 'geox','sandalias', ]

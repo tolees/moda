@@ -5,7 +5,7 @@ date: 2020-01-26 20:49:51
 image: 'https://m.media-amazon.com/images/I/31G0ZwedB-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4HMV48-es Botin Timberland A1ODQ Verde 45.5 Verde'
 sku: 'B07B4HMV48-es'
 tags: [ 'timberland', ]

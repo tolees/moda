@@ -5,7 +5,7 @@ date: 2020-04-01 06:59:00
 image: 'https://m.media-amazon.com/images/I/41G9N4OoQsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6GWPTN-es Esprit 057ee1f039 Blusa Multicolor Pastel Blue 38 para Mujer'
 sku: 'B06X6GWPTN-es'
 tags: [ 'blusa', ]

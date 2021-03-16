@@ -5,7 +5,7 @@ date: 2020-03-16 09:32:44
 image: 'https://m.media-amazon.com/images/I/31SZbUoj47L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKPPX6D-es Tommy Hilfiger Basic Hilfiger Sweatshirt Sudadera Azul...'
 sku: 'B07RKPPX6D-es'
 tags: [ 'sudadera', ]

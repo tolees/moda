@@ -5,7 +5,7 @@ date: 2020-01-17 08:48:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415xVzearhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYZ0MU3-es KRISP 6252-PNK-08 Vestido Corto Patinadora Vuelo Fruncido...'
 sku: 'B01MYZ0MU3-es'
 tags: [ 'vestido', ]

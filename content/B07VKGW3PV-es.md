@@ -5,7 +5,7 @@ date: 2020-07-30 18:56:26
 image: 'https://m.media-amazon.com/images/I/41GLuqLEqFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKGW3PV-es HKT by Hackett Hkt Crew Sudadera Rojo 2eylt Jack Red 2ey...'
 sku: 'B07VKGW3PV-es'
 tags: [ 'sudadera', ]

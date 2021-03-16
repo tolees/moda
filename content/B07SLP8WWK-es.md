@@ -5,7 +5,7 @@ date: 2020-04-04 14:17:14
 image: 'https://m.media-amazon.com/images/I/31j8qfTV8xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLP8WWK-es Burton Elite Camiseta Hombre Martini Olive XXL'
 sku: 'B07SLP8WWK-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-19 08:58:07
 image: 'https://m.media-amazon.com/images/I/31u5kE1zGcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F31RHKT-es Vans Colorblock tee - Camiseta para Hombre Azul Dress...'
 sku: 'B07F31RHKT-es'
 tags: [ 'camiseta', ]

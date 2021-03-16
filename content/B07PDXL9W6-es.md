@@ -5,7 +5,7 @@ date: 2020-01-06 14:35:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hIV2PfkWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDXL9W6-es Lego Movie Camiseta de Manga Larga para niños La Lego...'
 sku: 'B07PDXL9W6-es'
 tags: [ 'camiseta', ]

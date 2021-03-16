@@ -5,7 +5,7 @@ date: 2020-01-17 09:46:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417oa0nMRZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ5F0FQ-es HÄRVIST HTSMA Sudadera Para Mujer Gris S'
 sku: 'B01LZ5F0FQ-es'
 tags: [ 'sudadera', ]

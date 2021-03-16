@@ -5,7 +5,7 @@ date: 2020-01-15 23:05:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HPxScaBFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D74PJCZ-es Svpo Batería recargable eléctrica Guantes térmicos de...'
 sku: 'B07D74PJCZ-es'
 tags: [ 'guantes', ]

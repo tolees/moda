@@ -5,7 +5,7 @@ date: 2020-01-29 20:10:42
 image: 'https://m.media-amazon.com/images/I/41LB4N1-lRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPV1LQS-es Urban Classics Ladies Sherpa Hooded Jacket Chaqueta...'
 sku: 'B07DPV1LQS-es'
 tags: [ 'chaqueta', ]

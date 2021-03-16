@@ -5,7 +5,7 @@ date: 2020-09-29 09:48:08
 image: 'https://m.media-amazon.com/images/I/41lA9jGP0cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQNP5XB-es Amazon Essentials - Chaqueta deportiva con media...'
 sku: 'B07JQNP5XB-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-06 22:24:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51M8ZRt0sPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJPP28J-es YOSICIL Vestido de Princesa Elsa Niña Disfraz Frozen Elsa...'
 sku: 'B07XJPP28J-es'
 tags: [ 'vestido', ]

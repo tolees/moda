@@ -5,7 +5,7 @@ date: 2020-02-24 08:33:25
 image: 'https://m.media-amazon.com/images/I/31XoBPOXWuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K75FGFQ-es Levi s Graphic B Sudadera Blanco Add Crew T2 Flock White...'
 sku: 'B07K75FGFQ-es'
 tags: [ 'sudadera', ]

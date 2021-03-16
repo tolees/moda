@@ -5,7 +5,7 @@ date: 2020-05-01 13:50:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411EezPsZ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BJ2JW5-es FIND Camiseta Ciclismo Hombre Negro Black/acid Lime 52...'
 sku: 'B077BJ2JW5-es'
 tags: [ 'camiseta', ]

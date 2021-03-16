@@ -5,7 +5,7 @@ date: 2020-06-26 11:55:45
 image: 'https://m.media-amazon.com/images/I/51TK4iGyBEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082QDSRXL-es Marca Amazon - Iris & Lilly Caftán Mujer Multicolor Dark...'
 sku: 'B082QDSRXL-es'
 tags: [ '&','iris','lilly', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 08:35:45
 image: 'https://m.media-amazon.com/images/I/31zYnX77-DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079T16TMV-es Kappa TALBINO Pantalón Corto de equipación Hombre...'
 sku: 'B079T16TMV-es'
 tags: [ 'pantalón', ]

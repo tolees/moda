@@ -5,7 +5,7 @@ date: 2020-08-14 14:33:54
 image: 'https://m.media-amazon.com/images/I/31KuFHnOM2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGCN3NL-es Calvin Klein Hip Brief 3pk Boxer Rojo...'
 sku: 'B07VGCN3NL-es'
 tags: [ 'boxer', ]

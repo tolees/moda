@@ -5,7 +5,7 @@ date: 2020-02-08 17:17:43
 image: 'https://m.media-amazon.com/images/I/31WOWNdrNaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDXGYKP-es Prada 0PR17SS VH43C2 53 Gafas de Sol Verde...'
 sku: 'B06XDXGYKP-es'
 tags: [ 'gafas', ]

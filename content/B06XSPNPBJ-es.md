@@ -5,7 +5,7 @@ date: 2020-06-14 20:51:50
 image: 'https://m.media-amazon.com/images/I/41sGFddHM8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSPNPBJ-es Pepe Jeans New Virginia Camiseta Para Mujer Azul Navy Small'
 sku: 'B06XSPNPBJ-es'
 tags: [ 'camiseta', ]

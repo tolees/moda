@@ -5,7 +5,7 @@ date: 2020-06-22 16:53:16
 image: 'https://m.media-amazon.com/images/I/41WU+YzSKQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNTWQ1Y-es Levi s Orig Hm Vneck Camiseta Blanco White 0000 Large para...'
 sku: 'B07SNTWQ1Y-es'
 tags: [ 'camiseta', ]

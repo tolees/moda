@@ -5,7 +5,7 @@ date: 2020-08-26 14:00:51
 image: 'https://m.media-amazon.com/images/I/51oE5X09H-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MJ2YPMQ-es Reslad Camisa vaquera para hombre Slim Fit Vintage Denim...'
 sku: 'B00MJ2YPMQ-es'
 tags: [ 'camisa', ]

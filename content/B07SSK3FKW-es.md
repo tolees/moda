@@ -5,7 +5,7 @@ date: 2020-03-09 13:22:05
 image: 'https://m.media-amazon.com/images/I/31ipFZIWx9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSK3FKW-es Geox D RUBIDIA A Zapatillas para Mujer Negro Black C9997...'
 sku: 'B07SSK3FKW-es'
 tags: [ 'geox', ]

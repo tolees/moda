@@ -5,7 +5,7 @@ date: 2020-06-17 14:52:27
 image: 'https://m.media-amazon.com/images/I/411f841Vl4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B45SCWM-es SELECTED HOMME Slhregsel-Pelle Shirt LS B Noos Camisa Azul...'
 sku: 'B07B45SCWM-es'
 tags: [ 'camisa', ]

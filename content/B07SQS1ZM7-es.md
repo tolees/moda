@@ -5,7 +5,7 @@ date: 2020-04-26 16:05:22
 image: 'https://m.media-amazon.com/images/I/41CVmaVyHzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQS1ZM7-es Marca Amazon - MERAKI Calcetines por Media Pierna de...'
 sku: 'B07SQS1ZM7-es'
 tags: [ 'meraki', ]

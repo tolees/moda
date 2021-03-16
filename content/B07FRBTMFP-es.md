@@ -5,7 +5,7 @@ date: 2020-09-10 09:01:53
 image: 'https://m.media-amazon.com/images/I/41MsQ8IDphL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FRBTMFP-es Clarks Batcombe Wing Zapatos de Cordones Derby Marrón Tan...'
 sku: 'B07FRBTMFP-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 07:13:21
 image: 'https://m.media-amazon.com/images/I/41eK7HmfMGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CR5MP5N-es Cartera Legado Horizontal con Bandera Billetera Tarjetero...'
 sku: 'B07CR5MP5N-es'
 tags: [ 'billetera','monedero', ]

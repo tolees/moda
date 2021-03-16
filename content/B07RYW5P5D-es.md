@@ -5,7 +5,7 @@ date: 2020-08-11 18:30:35
 image: 'https://m.media-amazon.com/images/I/411HR4vLg-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYW5P5D-es BOSS Brief 3p Co/El Bóxer Multicolor S Pack de 3 para Hombre'
 sku: 'B07RYW5P5D-es'
 tags: [ 'bóxer', ]

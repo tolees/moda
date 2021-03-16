@@ -5,7 +5,7 @@ date: 2020-04-26 08:55:34
 image: 'https://m.media-amazon.com/images/I/31n9U5K1W4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3H1S6P-es Tommy Hilfiger Essential Logo Sweatshirt Sudadera Azul...'
 sku: 'B07L3H1S6P-es'
 tags: [ 'sudadera', ]

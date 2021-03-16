@@ -5,7 +5,7 @@ date: 2020-09-23 20:07:18
 image: 'https://m.media-amazon.com/images/I/41zLyswmMAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCKLKAK-es G-Star Eyben Slim R T Wmn S/s Camiseta Blanco White 110 42...'
 sku: 'B01NCKLKAK-es'
 tags: [ 'camiseta', ]

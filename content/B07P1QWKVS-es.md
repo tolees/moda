@@ -5,7 +5,7 @@ date: 2020-07-14 09:50:33
 image: 'https://m.media-amazon.com/images/I/51Qbj0i3amL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P1QWKVS-es synmixx Gafas Natación Antiniebla Gafas de Natación...'
 sku: 'B07P1QWKVS-es'
 tags: [ 'gafas', ]

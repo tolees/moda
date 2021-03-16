@@ -5,7 +5,7 @@ date: 2020-09-28 11:31:14
 image: 'https://m.media-amazon.com/images/I/31+iicY3UgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TWLWTD-es find. Zapatos de Serraje con Cordones Hombre Beige Sand 43 EU'
 sku: 'B077TWLWTD-es'
 tags: [ 'zapatos', ]

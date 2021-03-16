@@ -5,7 +5,7 @@ date: 2020-06-27 22:54:29
 image: 'https://m.media-amazon.com/images/I/31Qh8CuvtLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT88WD2-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Gris Grey Wiser...'
 sku: 'B07RT88WD2-es'
 tags: [ 'vaqueros', ]

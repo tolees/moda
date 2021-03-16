@@ -5,7 +5,7 @@ date: 2020-08-24 11:13:10
 image: 'https://m.media-amazon.com/images/I/51IDbeAB4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MT98LTS-es Zapatillas de Deporte para niños Niños Zapatillas de...'
 sku: 'B07MT98LTS-es'
 tags: [ 'zapatos', ]

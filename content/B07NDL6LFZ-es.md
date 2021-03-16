@@ -5,7 +5,7 @@ date: 2020-02-15 23:20:08
 image: 'https://m.media-amazon.com/images/I/41OkaypCqyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL6LFZ-es G-STAR RAW Vodan Quilted Chaqueta Bomber Gris Asfalt 995...'
 sku: 'B07NDL6LFZ-es'
 tags: [ 'chaqueta', ]

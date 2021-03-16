@@ -5,7 +5,7 @@ date: 2020-07-24 01:00:32
 image: 'https://m.media-amazon.com/images/I/51x-uWVYzvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYJHHB7-es Bolso Bowling Pepe Jeans ANN Azul'
 sku: 'B07VYJHHB7-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-09-07 12:36:17
 image: 'https://m.media-amazon.com/images/I/31fTG6aGcOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFCKLRK-es Speedo Futura Classic Gafas Anticloro Unisex Adulto...'
 sku: 'B01MFCKLRK-es'
 tags: [ 'gafas', ]

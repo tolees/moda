@@ -5,7 +5,7 @@ date: 2020-01-12 11:29:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xYDXGgoOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6BN8C2-es Percy Perry Hombre Chaqueta de Piloto Bombardero Chaqueta...'
 sku: 'B07J6BN8C2-es'
 tags: [ 'chaqueta', ]

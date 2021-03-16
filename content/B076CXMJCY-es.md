@@ -5,7 +5,7 @@ date: 2020-01-16 11:31:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-3J%2Bx6a7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CXMJCY-es RED WAGON Camiseta Print Niños Pack de 3 Multicolor...'
 sku: 'B076CXMJCY-es'
 tags: [ 'camiseta', ]

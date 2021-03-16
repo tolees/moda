@@ -5,7 +5,7 @@ date: 2020-04-11 15:48:24
 image: 'https://m.media-amazon.com/images/I/311EPP4bQ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K9RM8BJ-es Crocs Serena Slide Women Sandalias de Punta Descubierta...'
 sku: 'B07K9RM8BJ-es'
 tags: [ 'sandalias', ]

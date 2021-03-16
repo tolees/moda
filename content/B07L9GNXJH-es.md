@@ -5,7 +5,7 @@ date: 2020-03-01 09:09:20
 image: 'https://m.media-amazon.com/images/I/31Sv3txJSPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9GNXJH-es Under Armour UNDKU Heatgear Armour SS Camisa Manga Corta...'
 sku: 'B07L9GNXJH-es'
 tags: [ 'camisa', ]

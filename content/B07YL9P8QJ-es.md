@@ -5,7 +5,7 @@ date: 2020-09-23 09:10:18
 image: 'https://m.media-amazon.com/images/I/41QB6GpKIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YL9P8QJ-es s.Oliver 03.899.32.5264 Camiseta Turquesa Türkis 6242...'
 sku: 'B07YL9P8QJ-es'
 tags: [ 'camiseta', ]

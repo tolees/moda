@@ -5,7 +5,7 @@ date: 2020-03-29 12:04:14
 image: 'https://m.media-amazon.com/images/I/31OkuGTiWmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCDH883-es HUGO 734 Vaqueros Slim Azul Dark Blue 401 W30/L30 Talla...'
 sku: 'B07SCDH883-es'
 tags: [ 'vaqueros', ]

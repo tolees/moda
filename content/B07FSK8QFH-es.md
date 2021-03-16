@@ -5,7 +5,7 @@ date: 2020-05-08 02:37:03
 image: 'https://m.media-amazon.com/images/I/319zN8zFD9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSK8QFH-es Clarks Mena Blossom Zapatos de Tacón para Mujer Plateado...'
 sku: 'B07FSK8QFH-es'
 tags: [ 'zapatos', ]

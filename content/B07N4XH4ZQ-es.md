@@ -5,7 +5,7 @@ date: 2020-03-31 12:03:24
 image: 'https://m.media-amazon.com/images/I/41d7xoyFlOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4XH4ZQ-es Tommy Hilfiger Tjw Clean Linear Logo tee Camiseta Purple...'
 sku: 'B07N4XH4ZQ-es'
 tags: [ 'camiseta', ]

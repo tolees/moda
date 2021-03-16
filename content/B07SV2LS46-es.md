@@ -5,7 +5,7 @@ date: 2020-08-11 11:42:44
 image: 'https://m.media-amazon.com/images/I/41YEg-LdNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SV2LS46-es Asics Gel-Rocket 9 Zapatilla para Deportes para Hombre...'
 sku: 'B07SV2LS46-es'
 tags: [ 'zapatilla', ]

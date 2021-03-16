@@ -5,7 +5,7 @@ date: 2020-09-13 22:25:00
 image: 'https://m.media-amazon.com/images/I/41EIwdtegUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W36J2DX-es Skechers Energy-Retro Vision Sandalias con Punta Cerrada...'
 sku: 'B07W36J2DX-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-03-13 21:19:00
 image: 'https://m.media-amazon.com/images/I/41iwUIfs9JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2ZMQ2N-es Wrangler ICONS Camisa Vaquera Azul New 301 Small para Hombre'
 sku: 'B07V2ZMQ2N-es'
 tags: [ 'camisa', ]

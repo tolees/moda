@@ -5,7 +5,7 @@ date: 2020-05-30 09:34:16
 image: 'https://m.media-amazon.com/images/I/31a-7uPGzkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079K3HL5Y-es Napapijri Rainforest Pocket Chaqueta para Hombre Blanco...'
 sku: 'B079K3HL5Y-es'
 tags: [ 'chaqueta', ]

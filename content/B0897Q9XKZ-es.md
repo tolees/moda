@@ -5,7 +5,7 @@ date: 2020-07-17 09:45:31
 image: 'https://m.media-amazon.com/images/I/41jt-N7koyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0897Q9XKZ-es qingqingR Bolso Bandolera de Cuero de Mujer para Mujer...'
 sku: 'B0897Q9XKZ-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-09-15 12:47:54
 image: 'https://m.media-amazon.com/images/I/31gn4Hj5EwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ1SRBZ-es Helly Hansen Driftline Polo Camiseta tipo polo de manga...'
 sku: 'B07KQ1SRBZ-es'
 tags: [ 'camiseta', ]

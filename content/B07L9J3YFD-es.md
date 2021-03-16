@@ -5,7 +5,7 @@ date: 2020-03-28 12:50:42
 image: 'https://m.media-amazon.com/images/I/41Rmn5YR1CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9J3YFD-es Under Armour Tactical All Season Chaqueta Hombre Verde MD'
 sku: 'B07L9J3YFD-es'
 tags: [ 'chaqueta', ]

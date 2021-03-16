@@ -5,7 +5,7 @@ date: 2020-07-09 23:09:21
 image: 'https://m.media-amazon.com/images/I/41xEctokhIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR662CC-es Tom Tailor Logo Camiseta Gris Tarmac Grey 10899 Large para...'
 sku: 'B07KR662CC-es'
 tags: [ 'camiseta', ]

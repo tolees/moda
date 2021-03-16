@@ -5,7 +5,7 @@ date: 2020-03-05 14:51:25
 image: 'https://m.media-amazon.com/images/I/41KsDg5HnIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKNDMCX-es Trangoworld Argualas Chaqueta Hombre Azul Profundo S'
 sku: 'B07FKNDMCX-es'
 tags: [ 'chaqueta', ]

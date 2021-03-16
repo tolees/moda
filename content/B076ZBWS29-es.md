@@ -5,7 +5,7 @@ date: 2020-06-21 07:25:40
 image: 'https://m.media-amazon.com/images/I/41AHL8ovfQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076ZBWS29-es Marca Amazon - TRUTH & FABLE Vestido Cuello Halter de...'
 sku: 'B076ZBWS29-es'
 tags: [ 'vestido', ]

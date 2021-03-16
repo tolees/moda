@@ -5,7 +5,7 @@ date: 2020-06-28 20:23:35
 image: 'https://m.media-amazon.com/images/I/41fHDcPjVWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWGG44K-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Azul Wiser Wash...'
 sku: 'B07RWGG44K-es'
 tags: [ 'vaqueros', ]

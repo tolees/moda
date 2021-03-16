@@ -5,7 +5,7 @@ date: 2020-06-25 21:48:50
 image: 'https://m.media-amazon.com/images/I/31pF0hREWmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDZF94N-es Puma Amplified tee Camiseta de Manga Corta Hombre Negro...'
 sku: 'B07XDZF94N-es'
 tags: [ 'camiseta', ]

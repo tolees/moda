@@ -5,7 +5,7 @@ date: 2020-01-02 07:36:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31aqhUP7jrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYWQH54-es Columbia Triple Canyon Fall Pantalón de Senderismo...'
 sku: 'B07DYWQH54-es'
 tags: [ 'pantalón', ]

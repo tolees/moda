@@ -5,7 +5,7 @@ date: 2020-02-08 09:27:06
 image: 'https://m.media-amazon.com/images/I/41U8U7qb0VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSQPTLQ-es Under Armour Mfo Train Daily SS Camiseta Hombre Negro...'
 sku: 'B07KSQPTLQ-es'
 tags: [ 'camiseta', ]

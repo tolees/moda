@@ -5,7 +5,7 @@ date: 2020-01-21 15:25:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31t1HAbc-yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHZ3Z1Q-es Geox U Garret B Botas Clasicas para Hombre Marrón...'
 sku: 'B07PHZ3Z1Q-es'
 tags: [ 'geox', ]

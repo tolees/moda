@@ -5,7 +5,7 @@ date: 2020-08-25 12:57:28
 image: 'https://m.media-amazon.com/images/I/41AbZHpV+AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJVK18G-es Victorem Lebron James #23 Camiseta de Baloncesto para...'
 sku: 'B07MJVK18G-es'
 tags: [ 'camiseta','jersey', ]

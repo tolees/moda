@@ -5,7 +5,7 @@ date: 2020-05-13 11:42:04
 image: 'https://m.media-amazon.com/images/I/41v1g7CCuOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBZRVJ5-es Jack & Jones JORDUSTO Sweat Hood Sudadera con Capucha Gris...'
 sku: 'B07WBZRVJ5-es'
 tags: [ 'sudadera', ]

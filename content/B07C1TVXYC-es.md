@@ -5,7 +5,7 @@ date: 2020-09-24 06:39:52
 image: 'https://m.media-amazon.com/images/I/41qiYQ5cecL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C1TVXYC-es Jack & Jones Jjegingham Shirt L/s Camisa Multicolor Brick...'
 sku: 'B07C1TVXYC-es'
 tags: [ 'camisa', ]

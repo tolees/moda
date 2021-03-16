@@ -5,7 +5,7 @@ date: 2020-08-02 15:16:55
 image: 'https://m.media-amazon.com/images/I/318ZFapXFmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBBN4YY-es HUGO Ernie Camisa Azul Navy 413 Small Talla del...'
 sku: 'B07VBBN4YY-es'
 tags: [ 'camisa', ]

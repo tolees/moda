@@ -5,7 +5,7 @@ date: 2020-05-24 08:25:38
 image: 'https://m.media-amazon.com/images/I/31-AzPGCjlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN3DBJ9-es Lee Rider Jeans Vaqueros Dark Marine 29W / 32L para Hombre'
 sku: 'B07MN3DBJ9-es'
 tags: [ 'vaqueros', ]

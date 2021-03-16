@@ -5,7 +5,7 @@ date: 2020-04-10 07:00:09
 image: 'https://m.media-amazon.com/images/I/31bDIw1F+BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFM346K-es Clarks Atticus Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MFM346K-es'
 tags: [ 'zapatos', ]

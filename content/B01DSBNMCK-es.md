@@ -5,7 +5,7 @@ date: 2020-03-29 12:01:51
 image: 'https://m.media-amazon.com/images/I/51I90hzzmqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DSBNMCK-es Minions - Camiseta de Manga Corta - para niño Azul Azul'
 sku: 'B01DSBNMCK-es'
 tags: [ 'camiseta', ]

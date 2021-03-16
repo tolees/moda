@@ -5,7 +5,7 @@ date: 2020-10-11 08:32:15
 image: 'https://m.media-amazon.com/images/I/31e42W4t-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXTMXFR-es Geox D ANNYTAH D Bailarinas para Mujer Beige Lt Grey C1010...'
 sku: 'B07SXTMXFR-es'
 tags: [ 'geox', ]

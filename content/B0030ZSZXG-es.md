@@ -5,7 +5,7 @@ date: 2020-02-20 13:14:58
 image: 'https://m.media-amazon.com/images/I/31oBQ2B9RbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0030ZSZXG-es adidas Duramo Slide Chanclas Unisex Azul New...'
 sku: 'B0030ZSZXG-es'
 tags: [ 'chanclas', ]

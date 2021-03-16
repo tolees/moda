@@ -5,7 +5,7 @@ date: 2020-09-29 17:01:12
 image: 'https://m.media-amazon.com/images/I/51K-mXhV-WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08832TBDV-es Dragon Ball T-Shirts 3D Impresión Camisetas de Manga Corta...'
 sku: 'B08832TBDV-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-02-18 09:02:58
 image: 'https://m.media-amazon.com/images/I/41WduakXNsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR3WP4B-es Under Armour UA Streaker 2.0 Half Zip Sudadera Hombre...'
 sku: 'B07KR3WP4B-es'
 tags: [ 'sudadera', ]

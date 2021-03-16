@@ -5,7 +5,7 @@ date: 2020-06-14 11:55:44
 image: 'https://m.media-amazon.com/images/I/41+p95SfoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HKY6K5-es Vila Clothes Vitinny New S/s Dress-Noos Vestido Blanco...'
 sku: 'B077HKY6K5-es'
 tags: [ 'vestido', ]

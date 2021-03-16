@@ -5,7 +5,7 @@ date: 2020-09-14 06:59:52
 image: 'https://m.media-amazon.com/images/I/31Sfc9ORHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H931BSL-es Skechers Reggae Slim-Slip Spliced Sandalias de Talón...'
 sku: 'B07H931BSL-es'
 tags: [ 'sandalias', ]

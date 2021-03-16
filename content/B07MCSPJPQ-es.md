@@ -5,7 +5,7 @@ date: 2020-02-16 13:09:15
 image: 'https://m.media-amazon.com/images/I/31pwd30vIQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPJPQ-es Napapijri Rainforest Pocket Chaqueta Azul Clematis Blue...'
 sku: 'B07MCSPJPQ-es'
 tags: [ 'chaqueta', ]

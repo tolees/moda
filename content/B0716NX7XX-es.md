@@ -5,7 +5,7 @@ date: 2020-10-11 02:33:40
 image: 'https://m.media-amazon.com/images/I/41koBjSmpeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716NX7XX-es Activewear Mesh Camiseta Deportiva para Hombre Weiß White...'
 sku: 'B0716NX7XX-es'
 tags: [ 'camiseta', ]

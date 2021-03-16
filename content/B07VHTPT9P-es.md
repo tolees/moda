@@ -5,7 +5,7 @@ date: 2020-08-19 11:15:14
 image: 'https://m.media-amazon.com/images/I/41fwbCoAT3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHTPT9P-es Desigual Vest Charlotte Vestido Blanco Blanco 1000 Small...'
 sku: 'B07VHTPT9P-es'
 tags: [ 'vestido', ]

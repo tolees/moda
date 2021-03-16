@@ -5,7 +5,7 @@ date: 2020-01-04 16:33:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RfRtBNxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF8N6NX-es Levi s SS Color Block tee Camiseta Multicolor Jersey...'
 sku: 'B07LF8N6NX-es'
 tags: [ 'camiseta','jersey', ]

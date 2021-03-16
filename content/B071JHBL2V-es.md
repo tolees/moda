@@ -5,7 +5,7 @@ date: 2020-10-06 16:25:07
 image: 'https://m.media-amazon.com/images/I/21L9B-mTRBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JHBL2V-es Marca Amazon - find. Calcetines Hombre Pack de 7 Blanco...'
 sku: 'B071JHBL2V-es'
 tags: [ '-','find.', ]

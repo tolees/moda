@@ -5,7 +5,7 @@ date: 2020-01-20 13:09:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415MBfPqXwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFM9K65-es Levi s HR Decon Iconic BF Skirt Falda Gris Snakehead 0002...'
 sku: 'B07LFM9K65-es'
 tags: [ 'falda', ]

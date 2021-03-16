@@ -5,7 +5,7 @@ date: 2020-09-05 14:12:19
 image: 'https://m.media-amazon.com/images/I/31Rags9pdjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MWDXML-es Iris & Lilly Braga Brasileña de Algodón Mujer Pack de 10...'
 sku: 'B082MWDXML-es'
 tags: [ '&','iris','lilly', ]

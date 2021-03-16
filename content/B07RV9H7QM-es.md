@@ -5,7 +5,7 @@ date: 2020-04-06 13:31:35
 image: 'https://m.media-amazon.com/images/I/412V-EQCSiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RV9H7QM-es YWLINK Zapatos NiñO NiñA Deportes Aire Libre Mesh Fire...'
 sku: 'B07RV9H7QM-es'
 tags: [ 'zapatos', ]

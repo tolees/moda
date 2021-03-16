@@ -5,7 +5,7 @@ date: 2020-08-27 18:11:52
 image: 'https://m.media-amazon.com/images/I/31tQhUrk4tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FBKV8B-es Crocs Classic U Zuecos con Correa Trasera Unisex Adulto...'
 sku: 'B071FBKV8B-es'
 tags: [ 'zuecos', ]

@@ -5,7 +5,7 @@ date: 2020-10-08 18:41:48
 image: 'https://m.media-amazon.com/images/I/41qxX7yRzoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVRHG3P-es Pepe Jeans Grace Sudadera Amarillo 031lemon 031 Large para...'
 sku: 'B07VVRHG3P-es'
 tags: [ 'sudadera', ]

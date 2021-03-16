@@ -5,7 +5,7 @@ date: 2020-09-19 09:14:43
 image: 'https://m.media-amazon.com/images/I/31fUvADC9hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZW5KJZM-es Marca Amazon - find. Flat Gladiator Sandalias de Gladiador...'
 sku: 'B07ZW5KJZM-es'
 tags: [ '-','find.','sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-09-13 18:49:38
 image: 'https://m.media-amazon.com/images/I/31flFReEzeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMZ487S-es Marca Amazon - Goodthreads - Camiseta de manga corta y...'
 sku: 'B07HMZ487S-es'
 tags: [ 'camiseta','goodthreads', ]

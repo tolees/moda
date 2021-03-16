@@ -5,7 +5,7 @@ date: 2020-10-01 15:34:20
 image: 'https://m.media-amazon.com/images/I/51gRnVGowwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F22F9GG-es YISEVEN Guantes Hombre Pantalla Táctil Invierno de Cuero...'
 sku: 'B07F22F9GG-es'
 tags: [ 'guantes', ]

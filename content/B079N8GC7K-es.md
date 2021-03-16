@@ -5,7 +5,7 @@ date: 2020-01-13 14:42:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uyB6KQsXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079N8GC7K-es J.Rosée Collar de Perlas Mujer Joyería Perla de Agua Dulce...'
 sku: 'B079N8GC7K-es'
 tags: [ 'collar', ]

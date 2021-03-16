@@ -5,7 +5,7 @@ date: 2020-07-10 14:08:16
 image: 'https://m.media-amazon.com/images/I/41ehMredxNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771DZVD7-es SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim...'
 sku: 'B0771DZVD7-es'
 tags: [ 'abrigo','chaqueta','moda', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 21:08:14
 image: 'https://m.media-amazon.com/images/I/41fChSiEseL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4V9PB3-es Superdry Classic University L/s Shirt Camisa Rojo Red...'
 sku: 'B07Q4V9PB3-es'
 tags: [ 'camisa', ]

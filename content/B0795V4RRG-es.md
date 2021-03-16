@@ -5,7 +5,7 @@ date: 2020-05-07 19:06:15
 image: 'https://m.media-amazon.com/images/I/51nPB+53RqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0795V4RRG-es Desigual BOLS Ginebra Lilac Bolso a mano 33 cm'
 sku: 'B0795V4RRG-es'
 tags: [ 'bolso', ]

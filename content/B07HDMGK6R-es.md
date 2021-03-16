@@ -5,7 +5,7 @@ date: 2020-08-01 08:19:25
 image: 'https://m.media-amazon.com/images/I/51u7tSNxSxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HDMGK6R-es Only Onltia Dnm Jacket BB MB Bex02 Noos Chaqueta Vaquera...'
 sku: 'B07HDMGK6R-es'
 tags: [ 'chaqueta', ]

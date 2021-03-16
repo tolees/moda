@@ -5,7 +5,7 @@ date: 2020-07-14 16:46:34
 image: 'https://m.media-amazon.com/images/I/41-YgUBs0fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SX5R9X-es Timberland Malibu Waves Sandalias para Mujer Marrón Rust...'
 sku: 'B078SX5R9X-es'
 tags: [ 'sandalias','timberland', ]

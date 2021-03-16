@@ -5,7 +5,7 @@ date: 2020-08-12 14:12:45
 image: 'https://m.media-amazon.com/images/I/5180e1p+KqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5VFDYQ-es Tommy Hilfiger - Elevated Nylon Hanging Washbag...'
 sku: 'B07V5VFDYQ-es'
 tags: [ 'bolso', ]

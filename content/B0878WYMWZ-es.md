@@ -5,7 +5,7 @@ date: 2020-05-10 14:36:51
 image: 'https://m.media-amazon.com/images/I/418PQ8N2BOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0878WYMWZ-es Odetina Zapatos de tacón alto sólido Mary Janes con correa...'
 sku: 'B0878WYMWZ-es'
 tags: [ 'zapatos', ]

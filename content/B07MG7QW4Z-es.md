@@ -5,7 +5,7 @@ date: 2020-07-10 02:46:35
 image: 'https://m.media-amazon.com/images/I/31+WqvzsFRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MG7QW4Z-es Marca Amazon - find. Pantalón con Cintura de Fuelle Mujer...'
 sku: 'B07MG7QW4Z-es'
 tags: [ '-','find.','pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-05-02 10:16:28
 image: 'https://m.media-amazon.com/images/I/414pXkCWzOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMR8B2F-es G-STAR RAW Earth Beetle Sudadera Azul Faded Legion Blue...'
 sku: 'B07TMR8B2F-es'
 tags: [ 'sudadera', ]

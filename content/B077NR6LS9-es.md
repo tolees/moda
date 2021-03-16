@@ -5,7 +5,7 @@ date: 2020-01-11 18:15:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GkG1gPDWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NR6LS9-es Lee Luke Vaqueros Fresh Roig 27W / 32L para Hombre'
 sku: 'B077NR6LS9-es'
 tags: [ 'vaqueros', ]

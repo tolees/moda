@@ -5,7 +5,7 @@ date: 2020-01-16 11:51:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZKmK54V2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BMMJVA0-es Geox U Dublin B Zapatos de Vestir para Hombre Negro...'
 sku: 'B00BMMJVA0-es'
 tags: [ 'geox','zapatos', ]

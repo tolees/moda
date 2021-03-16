@@ -5,7 +5,7 @@ date: 2020-05-23 11:11:54
 image: 'https://m.media-amazon.com/images/I/51Rzf4rSXpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCJ9J16-es Esprit 099ee2f007 Camisa Blanco Off White 110 X-Large para...'
 sku: 'B07VCJ9J16-es'
 tags: [ 'camisa', ]

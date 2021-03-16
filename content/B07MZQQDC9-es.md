@@ -5,7 +5,7 @@ date: 2020-04-04 08:14:19
 image: 'https://m.media-amazon.com/images/I/414DQ82rinL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQQDC9-es Pepe Jeans Mada Camiseta Grey Marl 933 Medium para Mujer'
 sku: 'B07MZQQDC9-es'
 tags: [ 'camiseta', ]

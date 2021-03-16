@@ -5,7 +5,7 @@ date: 2020-09-26 10:25:22
 image: 'https://m.media-amazon.com/images/I/3152yQkuygL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWX8B93-es Pepe Jeans West Sir Camiseta Azul Dark Acqua 518 X-Large...'
 sku: 'B07VWX8B93-es'
 tags: [ 'camiseta', ]

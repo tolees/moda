@@ -5,7 +5,7 @@ date: 2020-05-13 07:26:39
 image: 'https://m.media-amazon.com/images/I/41w7ri9iMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7DZ2V2-es Jack & Jones Jjigeorge Shirt Stretch LS Camisa Vaquera...'
 sku: 'B07V7DZ2V2-es'
 tags: [ 'camisa', ]

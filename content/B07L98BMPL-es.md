@@ -5,7 +5,7 @@ date: 2020-03-29 19:36:57
 image: 'https://m.media-amazon.com/images/I/3143DWfZ-BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L98BMPL-es Under Armour Storm Launch Jacket 2.0 Chaqueta Hombre Negro LG'
 sku: 'B07L98BMPL-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-02-21 11:31:13
 image: 'https://m.media-amazon.com/images/I/41P7nV9YP9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QJKLNK-es Levi s 502 Regular Taper Vaqueros Azul Stonewash 95978...'
 sku: 'B079QJKLNK-es'
 tags: [ 'vaqueros', ]

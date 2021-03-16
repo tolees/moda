@@ -5,7 +5,7 @@ date: 2020-02-08 19:18:22
 image: 'https://m.media-amazon.com/images/I/41ztUmlW9tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9VYFXC-es Skechers On-The-go-Bundle Up Botines para Mujer Morado...'
 sku: 'B07B9VYFXC-es'
 tags: [ 'botines', ]

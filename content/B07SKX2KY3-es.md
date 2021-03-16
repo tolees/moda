@@ -5,7 +5,7 @@ date: 2020-02-09 10:49:36
 image: 'https://m.media-amazon.com/images/I/41pOasTstLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKX2KY3-es G-Star Sp30506 Dress Vestido Negro Black 02 10 años Talla...'
 sku: 'B07SKX2KY3-es'
 tags: [ 'vestido', ]

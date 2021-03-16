@@ -5,7 +5,7 @@ date: 2020-10-01 21:25:53
 image: 'https://m.media-amazon.com/images/I/510DJpkOM9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NYTCJRQ-es Marca Amazon - find. Vestido de Flores con Volantes Mujer...'
 sku: 'B07NYTCJRQ-es'
 tags: [ '-','find.','vestido', ]

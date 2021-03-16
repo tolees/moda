@@ -5,7 +5,7 @@ date: 2020-04-16 15:49:58
 image: 'https://m.media-amazon.com/images/I/315CKp+SWSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007RNRII0-es Speedo 8082108137 Gafas de Natación Unisex Negro Cromo...'
 sku: 'B007RNRII0-es'
 tags: [ 'gafas', ]

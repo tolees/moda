@@ -5,7 +5,7 @@ date: 2020-09-10 10:08:55
 image: 'https://m.media-amazon.com/images/I/41KisKYjxwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8JXGTF-es Columbia Arcadia Chaqueta Impermeable con Capucha Unisex...'
 sku: 'B07R8JXGTF-es'
 tags: [ 'chaqueta', ]

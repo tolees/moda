@@ -5,7 +5,7 @@ date: 2020-02-23 19:02:03
 image: 'https://m.media-amazon.com/images/I/41aKccbNvCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078PTG7QK-es G-STAR RAW Core Super Slim Camisa Vaquera Negro Black 990...'
 sku: 'B078PTG7QK-es'
 tags: [ 'camisa', ]

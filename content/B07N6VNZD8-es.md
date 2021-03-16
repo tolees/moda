@@ -5,7 +5,7 @@ date: 2020-07-20 21:27:51
 image: 'https://m.media-amazon.com/images/I/31bM0tmmdAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6VNZD8-es Tommy Hilfiger Signature Hilfiger Leather Shoe Zapatos de...'
 sku: 'B07N6VNZD8-es'
 tags: [ 'zapatos', ]

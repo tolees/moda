@@ -5,7 +5,7 @@ date: 2020-01-08 15:00:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JZrrKtfsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JWQJ3N-es NNDOLL Vestido de Princesa Carnaval Vestido de niña Traje...'
 sku: 'B079JWQJ3N-es'
 tags: [ 'vestido', ]

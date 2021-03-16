@@ -5,7 +5,7 @@ date: 2020-07-20 00:57:20
 image: 'https://m.media-amazon.com/images/I/41+alPWKw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003W52GFW-es Timberland Classic 2-Eye Náuticos para Mujer Azul MD Blue...'
 sku: 'B003W52GFW-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-07-21 16:27:42
 image: 'https://m.media-amazon.com/images/I/41mVT8Rtk5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMPYQSW-es Esprit Crosby Beach Padded Bandeau Parte de Arriba de...'
 sku: 'B07JMPYQSW-es'
 tags: [ 'bikini', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 01:41:27
 image: 'https://m.media-amazon.com/images/I/31Bw5cM8igL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DM1SPQ6-es Samsonite Openroad - 3 Way Bag Expandable for 15.6" Laptop...'
 sku: 'B07DM1SPQ6-es'
 tags: [ 'bolso', ]

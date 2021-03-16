@@ -5,7 +5,7 @@ date: 2020-03-02 19:17:40
 image: 'https://m.media-amazon.com/images/I/31BrHxLYziL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWRGQN-es Wrangler Arizona Vaqueros Straight Azul Soft Night 50w 30...'
 sku: 'B07MMWRGQN-es'
 tags: [ 'vaqueros', ]

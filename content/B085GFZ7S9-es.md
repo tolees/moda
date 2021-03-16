@@ -5,7 +5,7 @@ date: 2020-09-20 08:56:14
 image: 'https://m.media-amazon.com/images/I/51ZulRqBHTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085GFZ7S9-es Superdry Hombre Chaqueta degradada Power Lima/Turquesa XXL'
 sku: 'B085GFZ7S9-es'
 tags: [ 'chaqueta', ]

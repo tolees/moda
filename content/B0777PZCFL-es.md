@@ -5,7 +5,7 @@ date: 2020-06-21 08:51:22
 image: 'https://m.media-amazon.com/images/I/41LC8q0yRUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777PZCFL-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo Rojo...'
 sku: 'B0777PZCFL-es'
 tags: [ 'camiseta', ]

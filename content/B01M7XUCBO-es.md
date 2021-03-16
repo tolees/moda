@@ -5,7 +5,7 @@ date: 2020-08-25 11:26:20
 image: 'https://m.media-amazon.com/images/I/51p7JJPq+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7XUCBO-es Dainese Super Rider D-Dry Jacket Chaqueta Moto'
 sku: 'B01M7XUCBO-es'
 tags: [ 'chaqueta', ]

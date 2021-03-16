@@ -5,7 +5,7 @@ date: 2020-01-24 19:52:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bM4PrsNzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZMN6T2-es BOYOU Guantes de Ciclismo a Prueba de Viento para Hombre...'
 sku: 'B07WZMN6T2-es'
 tags: [ 'guantes', ]

@@ -5,7 +5,7 @@ date: 2020-09-27 11:58:10
 image: 'https://m.media-amazon.com/images/I/41I+MroBtvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GUXJJ4Y-es Columbia Peakfreak Nomad Chukka WP Omni-Heat Zapatos...'
 sku: 'B00GUXJJ4Y-es'
 tags: [ 'zapatos', ]

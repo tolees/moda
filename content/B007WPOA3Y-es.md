@@ -5,7 +5,7 @@ date: 2020-06-03 15:24:11
 image: 'https://m.media-amazon.com/images/I/51c5DXAqkuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007WPOA3Y-es Havaianas Brasil Logo Chanclas Unisex Adulto Azul Marine...'
 sku: 'B007WPOA3Y-es'
 tags: [ 'chanclas', ]

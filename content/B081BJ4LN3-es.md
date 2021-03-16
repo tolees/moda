@@ -5,7 +5,7 @@ date: 2020-09-19 07:27:09
 image: 'https://m.media-amazon.com/images/I/41k5XeruNFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BJ4LN3-es Columbia Powder Pass Chaqueta con Capucha Hombre Rojo...'
 sku: 'B081BJ4LN3-es'
 tags: [ 'chaqueta', ]

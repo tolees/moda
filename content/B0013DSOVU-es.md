@@ -5,7 +5,7 @@ date: 2020-04-16 09:17:53
 image: 'https://m.media-amazon.com/images/I/31B8si9QuxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0013DSOVU-es Timberland Classic 2 Eye Náuticos para Hombre Azul MD Blue...'
 sku: 'B0013DSOVU-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 17:26:18
 image: 'https://m.media-amazon.com/images/I/41IoUzDpRFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPQG9TS-es Gritin Clip on Gafas de Sol [2 Unidades] Gafas de Sol...'
 sku: 'B07GPQG9TS-es'
 tags: [ 'gafas', ]

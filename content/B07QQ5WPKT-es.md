@@ -5,7 +5,7 @@ date: 2020-04-24 23:29:13
 image: 'https://m.media-amazon.com/images/I/31aMSPvYxPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQ5WPKT-es Marca Amazon - Iris & Lilly Sujetador de Modal Media Copa...'
 sku: 'B07QQ5WPKT-es'
 tags: [ '&','iris','lilly', ]

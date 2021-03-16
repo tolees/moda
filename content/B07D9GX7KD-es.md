@@ -5,7 +5,7 @@ date: 2020-08-12 10:00:46
 image: 'https://m.media-amazon.com/images/I/41liYinBxDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9GX7KD-es Tommy Hilfiger Trunk Bóxer Gris Dark Grey Htr 091 Large...'
 sku: 'B07D9GX7KD-es'
 tags: [ 'bóxer', ]

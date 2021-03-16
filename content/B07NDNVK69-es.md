@@ -5,7 +5,7 @@ date: 2020-01-07 19:14:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cpzpHdBLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNVK69-es G-STAR RAW Earth Round Neck Camiseta Gris Asfalt 995...'
 sku: 'B07NDNVK69-es'
 tags: [ 'camiseta', ]

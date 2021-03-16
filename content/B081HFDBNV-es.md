@@ -5,7 +5,7 @@ date: 2020-08-28 10:22:36
 image: 'https://m.media-amazon.com/images/I/41oHHm2b71L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081HFDBNV-es FCB Conjunto Camiseta y Pantalón Primera Equipación...'
 sku: 'B081HFDBNV-es'
 tags: [ 'camiseta','pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-01-25 09:07:21
 image: 'https://m.media-amazon.com/images/I/41hHIMI4lsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072LN5WX2-es Under Armour UA HG Armour Full Zip Sudadera cálida Mujer...'
 sku: 'B072LN5WX2-es'
 tags: [ 'sudadera', ]

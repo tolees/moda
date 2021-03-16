@@ -5,7 +5,7 @@ date: 2020-07-06 18:29:32
 image: 'https://m.media-amazon.com/images/I/31HjeiQJzSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVYYZD-es PUMA Popcat 20 Sandalias deslizantes Unisex Adulto Azul...'
 sku: 'B07SBVYYZD-es'
 tags: [ 'sandalias', ]

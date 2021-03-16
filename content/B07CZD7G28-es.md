@@ -5,7 +5,7 @@ date: 2020-01-28 11:20:32
 image: 'https://m.media-amazon.com/images/I/41khkIs1IsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZD7G28-es IEFIEL Disfraz de Princesa para Niñas Bebes Vestido Corto...'
 sku: 'B07CZD7G28-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-06-07 20:43:45
 image: 'https://m.media-amazon.com/images/I/415a8c9KyxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JQW7MX-es Marca Amazon - find. Camisa Hombre Verde Khaki S Label: S'
 sku: 'B073JQW7MX-es'
 tags: [ '-','camisa','find.', ]

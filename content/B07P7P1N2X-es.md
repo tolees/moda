@@ -5,7 +5,7 @@ date: 2020-02-27 10:48:54
 image: 'https://m.media-amazon.com/images/I/41jIv621aQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7P1N2X-es dPois Chaleco Deporte Yoga Gym Running Danza Baile Mujer...'
 sku: 'B07P7P1N2X-es'
 tags: [ 'blusa','camiseta','chaleco','moda', ]

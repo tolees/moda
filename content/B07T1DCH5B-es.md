@@ -5,7 +5,7 @@ date: 2020-10-03 18:29:21
 image: 'https://m.media-amazon.com/images/I/31cD7K9tT4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1DCH5B-es Timberland Newport Bay Bumper Toe Oxford Zapatillas para...'
 sku: 'B07T1DCH5B-es'
 tags: [ 'timberland', ]

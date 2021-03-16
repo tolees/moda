@@ -5,7 +5,7 @@ date: 2020-04-07 17:59:54
 image: 'https://m.media-amazon.com/images/I/31wQzUbtixL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGVRKHG-es Calvin Klein 3p Low Rise Trunk Bóxer Negro B/Tolerance/Wet...'
 sku: 'B07NGVRKHG-es'
 tags: [ 'bóxer', ]

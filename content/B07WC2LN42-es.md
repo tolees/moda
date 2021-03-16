@@ -5,7 +5,7 @@ date: 2020-10-12 10:18:17
 image: 'https://m.media-amazon.com/images/I/41bQGG-6OOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC2LN42-es Marca Amazon - MERAKI Abrigo de Lana Mujer Beige Camel 40...'
 sku: 'B07WC2LN42-es'
 tags: [ 'abrigo','meraki', ]

@@ -5,7 +5,7 @@ date: 2020-01-08 16:32:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41z6lXCzVLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FW2D2N-es find. Sudadera Estampada para Hombre Azul Navy Medium'
 sku: 'B074FW2D2N-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 20:47:24
 image: 'https://m.media-amazon.com/images/I/41c8-+NyI3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPNBY5-es Geox Uomo Snake E Zapatillas para Hombre Gris Lt Grey/Grey...'
 sku: 'B07SVPNBY5-es'
 tags: [ 'geox', ]

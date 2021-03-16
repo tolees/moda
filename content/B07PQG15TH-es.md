@@ -5,7 +5,7 @@ date: 2020-05-07 13:18:22
 image: 'https://m.media-amazon.com/images/I/41HU9voDulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQG15TH-es SINOES Hombre 91-219 Caña Baja Gimnasia Ligero...'
 sku: 'B07PQG15TH-es'
 tags: [ 'zapatos', ]

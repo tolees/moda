@@ -5,7 +5,7 @@ date: 2020-03-18 11:55:30
 image: 'https://m.media-amazon.com/images/I/31iyDkvocxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XY5JNT8-es UNIQUEBELLA Suit Esquí Térmica Ropa Interior Térmica Manga...'
 sku: 'B07XY5JNT8-es'
 tags: [ 'camiseta', ]

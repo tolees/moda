@@ -5,7 +5,7 @@ date: 2020-04-01 00:43:23
 image: 'https://m.media-amazon.com/images/I/41dnD-20+gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVLC3LM-es Gant D1. The Active Cloud Jacket Chaqueta Rojo Mahogany...'
 sku: 'B07MVLC3LM-es'
 tags: [ 'chaqueta', ]

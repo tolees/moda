@@ -5,7 +5,7 @@ date: 2020-05-08 09:08:23
 image: 'https://m.media-amazon.com/images/I/41eLOcfRF0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHY217Z-es BAIGIO Bolso Bandolera de Piel para Hombres Bolso...'
 sku: 'B07RHY217Z-es'
 tags: [ 'bolso', ]

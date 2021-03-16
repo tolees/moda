@@ -5,7 +5,7 @@ date: 2020-06-06 16:14:49
 image: 'https://m.media-amazon.com/images/I/31rxv41wAEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRS3LM4-es BOSS Maine BC-c Vaqueros Straight Azul Dark Blue 408...'
 sku: 'B07BRS3LM4-es'
 tags: [ 'vaqueros', ]

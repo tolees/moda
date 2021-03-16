@@ -5,7 +5,7 @@ date: 2020-09-29 09:58:13
 image: 'https://m.media-amazon.com/images/I/312Az+aWuPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDH7PG7-es Crocs Classic II Flip Chanclas Unisex Adulto Negro Black...'
 sku: 'B07SDH7PG7-es'
 tags: [ 'chanclas', ]

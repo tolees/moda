@@ -5,7 +5,7 @@ date: 2020-08-29 16:40:20
 image: 'https://m.media-amazon.com/images/I/51EbZaang+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZBXTHW-es Bebé Pelele de Algodón Mameluco Béisbol Trajes Niños Niñas...'
 sku: 'B07DZBXTHW-es'
 tags: [ 'pelele', ]

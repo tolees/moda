@@ -5,7 +5,7 @@ date: 2020-03-02 00:55:01
 image: 'https://m.media-amazon.com/images/I/41MM89O3xQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QM11PJB-es Timberland SS Millers River Pique Wide Stripe Polo Reg...'
 sku: 'B07QM11PJB-es'
 tags: [ 'timberland', ]

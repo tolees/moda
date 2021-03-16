@@ -5,7 +5,7 @@ date: 2020-01-14 17:07:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QbsiXzQjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MEG5XP7-es ESPRIT 017EE2F018 Camisa Hombre Azul NAVY Large'
 sku: 'B01MEG5XP7-es'
 tags: [ 'camisa', ]

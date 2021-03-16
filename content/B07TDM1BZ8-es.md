@@ -5,7 +5,7 @@ date: 2020-02-24 10:25:07
 image: 'https://m.media-amazon.com/images/I/41TVR0h8U0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDM1BZ8-es Quiksilver Scaly Chaqueta Acolchada con Capucha Hombre...'
 sku: 'B07TDM1BZ8-es'
 tags: [ 'chaqueta', ]

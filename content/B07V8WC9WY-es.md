@@ -5,7 +5,7 @@ date: 2020-04-04 12:02:42
 image: 'https://m.media-amazon.com/images/I/31CPoAd39DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8WC9WY-es JACK & JONES Jprwetford Parka STS Negro Black Black Large...'
 sku: 'B07V8WC9WY-es'
 tags: [ 'parka', ]

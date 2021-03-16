@@ -5,7 +5,7 @@ date: 2020-09-14 09:32:17
 image: 'https://m.media-amazon.com/images/I/31ixlDh8EkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCHT464-es Vans Colorblock tee Camiseta Multicolor Ash Heather/Black...'
 sku: 'B07YCHT464-es'
 tags: [ 'camiseta', ]

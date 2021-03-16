@@ -5,7 +5,7 @@ date: 2020-04-17 12:48:34
 image: 'https://m.media-amazon.com/images/I/411TrSkOY5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH34DLT-es Pepe Jeans Boreas Pm402096 Chaqueta Flame 265 Small para...'
 sku: 'B07JH34DLT-es'
 tags: [ 'chaqueta', ]

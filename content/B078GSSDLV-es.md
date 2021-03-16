@@ -5,7 +5,7 @@ date: 2020-01-14 14:59:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BryWLfcNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GSSDLV-es find. Camiseta Estampada NYC 99 Hombre Blanco White 52...'
 sku: 'B078GSSDLV-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-20 14:35:03
 image: 'https://m.media-amazon.com/images/I/511Eozyga8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXVQQN9-es Desigual Bag Tekila Sunrise Loverty Bolso Plegable para...'
 sku: 'B07MXVQQN9-es'
 tags: [ 'bolso', ]

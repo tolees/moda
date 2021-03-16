@@ -5,7 +5,7 @@ date: 2020-02-17 14:07:33
 image: 'https://m.media-amazon.com/images/I/41SGS27DtBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VLNXTNA-es Levi s L/S Barstow Western Shirt Camisa Casual de Manga...'
 sku: 'B00VLNXTNA-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-01-13 15:46:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31MImRHTksL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB4PT9S-es Vero Moda Vmnoramille 3/4 Wool Jacket Abrigo Rojo Birch 44...'
 sku: 'B07TB4PT9S-es'
 tags: [ 'abrigo','moda', ]

@@ -5,7 +5,7 @@ date: 2020-02-19 13:11:40
 image: 'https://m.media-amazon.com/images/I/41YG9KTUvJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPPHJWH-es Urban Classics Hooded Check Puffer Jacket Chaqueta...'
 sku: 'B07TPPHJWH-es'
 tags: [ 'chaqueta', ]

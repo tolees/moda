@@ -5,7 +5,7 @@ date: 2020-04-22 12:07:06
 image: 'https://m.media-amazon.com/images/I/31KrDdDhI6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M7FR7Q6-es Pepe Jeans Venus Vaqueros Azul 10Oz Stretch Ultra Dk H062...'
 sku: 'B00M7FR7Q6-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-08-22 14:38:12
 image: 'https://m.media-amazon.com/images/I/31mVPou3rCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY8NF3X-es Art Bergen Botines para Mujer Marrón Cuero Cuero 36 EU'
 sku: 'B07NY8NF3X-es'
 tags: [ 'botines', ]

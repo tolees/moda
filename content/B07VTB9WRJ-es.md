@@ -5,7 +5,7 @@ date: 2020-09-11 16:53:53
 image: 'https://m.media-amazon.com/images/I/31Cwsur4P-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTB9WRJ-es Tommy Hilfiger De Brooklyn Structure Short Flex Vaqueros...'
 sku: 'B07VTB9WRJ-es'
 tags: [ 'vaqueros', ]

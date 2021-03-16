@@ -5,7 +5,7 @@ date: 2020-08-09 15:23:20
 image: 'https://m.media-amazon.com/images/I/41tOoq5dljL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT719WR-es Levi s The tee Camiseta Azul BRW T2 Baby Blue 0777 Small...'
 sku: 'B07TT719WR-es'
 tags: [ 'camiseta', ]

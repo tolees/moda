@@ -5,7 +5,7 @@ date: 2020-04-07 17:32:13
 image: 'https://m.media-amazon.com/images/I/41vNzJgplZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072ZT9RNV-es Timormode Vestido Cóctel Corto Vintage 50s Cuello Halter...'
 sku: 'B072ZT9RNV-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-08-14 08:36:56
 image: 'https://m.media-amazon.com/images/I/41u5LE8-YKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6F7R7B-es Vagabond Lara Botines para Mujer Multicolor Sand/Black 87...'
 sku: 'B07P6F7R7B-es'
 tags: [ 'botines', ]

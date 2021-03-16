@@ -5,7 +5,7 @@ date: 2020-05-02 03:29:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31i5Rg%2BwGeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QJSHPW-es MERAKI Vaqueros Skinny Hombre Azul Indigo Rinse W30/L32'
 sku: 'B075QJSHPW-es'
 tags: [ 'meraki','vaqueros', ]

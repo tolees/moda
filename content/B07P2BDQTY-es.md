@@ -5,7 +5,7 @@ date: 2020-04-01 09:28:54
 image: 'https://m.media-amazon.com/images/I/41yWNfpOLeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2BDQTY-es Superdry Dahlia Roll Neck Jumper Camiseta Cuello Alto...'
 sku: 'B07P2BDQTY-es'
 tags: [ 'camiseta', ]

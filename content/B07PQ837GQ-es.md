@@ -5,7 +5,7 @@ date: 2020-08-05 15:50:32
 image: 'https://m.media-amazon.com/images/I/517-5OGIZBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQ837GQ-es Kipling Gleam S Bolso de Tocador para Mujer Multicolor...'
 sku: 'B07PQ837GQ-es'
 tags: [ 'bolso', ]

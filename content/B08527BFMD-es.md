@@ -5,7 +5,7 @@ date: 2020-09-20 17:01:48
 image: 'https://m.media-amazon.com/images/I/41TtF6mjBLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08527BFMD-es Haioo Mochilas Escolares 5 en 1 con Dibujo de Nube para...'
 sku: 'B08527BFMD-es'
 tags: [ 'bolso','monedero', ]

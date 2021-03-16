@@ -5,7 +5,7 @@ date: 2020-06-24 14:56:17
 image: 'https://m.media-amazon.com/images/I/31ou17+KhCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKH2PM8-es Iris & Lilly Calzoncillo Tanga de Microfibra Mujer Pack de...'
 sku: 'B07FKH2PM8-es'
 tags: [ '&','iris','lilly', ]

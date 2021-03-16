@@ -5,7 +5,7 @@ date: 2020-07-22 10:17:36
 image: 'https://m.media-amazon.com/images/I/413kIJMl7oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNZW8L9-es Jack & Jones Jcoisland tee SS Crew Neck Camiseta Rojo Rio...'
 sku: 'B07ZNZW8L9-es'
 tags: [ 'camiseta', ]

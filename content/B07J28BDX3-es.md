@@ -5,7 +5,7 @@ date: 2020-10-02 09:41:15
 image: 'https://m.media-amazon.com/images/I/31ayTb+vJxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J28BDX3-es Pepe Jeans Art Camiseta Azul 595navy 595 6-7 años Talla...'
 sku: 'B07J28BDX3-es'
 tags: [ 'camiseta', ]

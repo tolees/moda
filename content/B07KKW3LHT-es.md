@@ -5,7 +5,7 @@ date: 2020-05-19 09:54:23
 image: 'https://m.media-amazon.com/images/I/317I8I16CzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKW3LHT-es adidas Ask 360 LS 3S D Camiseta de Manga Larga Hombre Black M'
 sku: 'B07KKW3LHT-es'
 tags: [ 'camiseta', ]

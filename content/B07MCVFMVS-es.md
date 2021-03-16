@@ -5,7 +5,7 @@ date: 2020-03-04 23:48:44
 image: 'https://m.media-amazon.com/images/I/41VsSgUu5HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCVFMVS-es Gant The Reg BD Camisa Azul Lt Indigo 999 Large para Hombre'
 sku: 'B07MCVFMVS-es'
 tags: [ 'camisa', ]

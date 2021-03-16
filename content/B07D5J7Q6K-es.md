@@ -5,7 +5,7 @@ date: 2020-07-10 01:10:02
 image: 'https://m.media-amazon.com/images/I/516-bddoLEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5J7Q6K-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
 sku: 'B07D5J7Q6K-es'
 tags: [ 'zapatos', ]

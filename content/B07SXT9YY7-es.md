@@ -5,7 +5,7 @@ date: 2020-09-14 23:10:05
 image: 'https://m.media-amazon.com/images/I/41spRn3vpUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXT9YY7-es Geox D Sandal Vega C Sandalias Punta Cerrada para Mujer...'
 sku: 'B07SXT9YY7-es'
 tags: [ 'geox','sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-01-22 01:42:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317UyeYyZrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YSK4NOM-es ARENA 000001E191 Gafas de Natación Mujer Azul Clear Talla...'
 sku: 'B00YSK4NOM-es'
 tags: [ 'gafas', ]

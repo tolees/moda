@@ -5,7 +5,7 @@ date: 2020-07-22 16:21:19
 image: 'https://m.media-amazon.com/images/I/31CsVNlhMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KMOFE0-es Reef Smoothy - Chanclas para hombre Negro 35 EU'
 sku: 'B000KMOFE0-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-06-01 17:16:29
 image: 'https://m.media-amazon.com/images/I/51FC-yM0jEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FF7XDY-es Magichome Collar Antiparasitario para Gatos contra Pulgas...'
 sku: 'B079FF7XDY-es'
 tags: [ 'collar', ]

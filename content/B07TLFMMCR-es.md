@@ -5,7 +5,7 @@ date: 2020-08-14 10:33:38
 image: 'https://m.media-amazon.com/images/I/41H9wjvE6kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLFMMCR-es Levi s SS Classic 1 Pkt Standrd Camisa Azul Alonzo Dress...'
 sku: 'B07TLFMMCR-es'
 tags: [ 'camisa', ]

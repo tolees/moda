@@ -5,7 +5,7 @@ date: 2020-07-20 06:26:42
 image: 'https://m.media-amazon.com/images/I/41hAJA8nBKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012N51ZQC-es Desconocido Ajustables Cordon Elastico Cuello Deporte...'
 sku: 'B012N51ZQC-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-03-05 22:37:35
 image: 'https://m.media-amazon.com/images/I/31hoGt+9-PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ITBFNDA-es SHINU Clasico Marco Redondo Espejo Gafas de sol de moda...'
 sku: 'B01ITBFNDA-es'
 tags: [ 'gafas','moda', ]

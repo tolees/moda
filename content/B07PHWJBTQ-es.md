@@ -5,7 +5,7 @@ date: 2020-02-12 20:53:27
 image: 'https://m.media-amazon.com/images/I/51WRv4voPRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHWJBTQ-es XIHOME Vintage Edison Bombilla Retro Pasado de moda 60W...'
 sku: 'B07PHWJBTQ-es'
 tags: [ 'moda', ]

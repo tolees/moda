@@ -5,7 +5,7 @@ date: 2020-10-03 13:03:33
 image: 'https://m.media-amazon.com/images/I/41nRr1Vot3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VJCM7N-es Columbia Pouring Adventure Chaqueta para Hombre Azul...'
 sku: 'B087VJCM7N-es'
 tags: [ 'chaqueta', ]

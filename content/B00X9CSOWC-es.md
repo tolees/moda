@@ -5,7 +5,7 @@ date: 2020-09-14 02:24:57
 image: 'https://m.media-amazon.com/images/I/41IB8yU45ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9CSOWC-es Timberland Larchmont Waterproof Botas Chukka para Hombre...'
 sku: 'B00X9CSOWC-es'
 tags: [ 'timberland', ]

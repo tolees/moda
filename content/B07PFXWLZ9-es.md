@@ -5,7 +5,7 @@ date: 2020-01-17 14:25:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OT42drluL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFXWLZ9-es BLEND 20708531 Camisa Casual Azul Dark Navy Blue 74645 M...'
 sku: 'B07PFXWLZ9-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 11:14:13
 image: 'https://m.media-amazon.com/images/I/41f57SHReZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFN4W95-es Jack & Jones JORWONTON Sweat Hood Sudadera con Capucha...'
 sku: 'B07WFN4W95-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-01-30 17:31:51
 image: 'https://m.media-amazon.com/images/I/31t-KWbALfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010AEM47W-es ESPRIT - Collar para mujer con circonita color plateado'
 sku: 'B010AEM47W-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 07:07:47
 image: 'https://m.media-amazon.com/images/I/31gswvr+MdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLMVY8J-es Amazon Essentials – Pantalón corto chino con tiro de 8 89...'
 sku: 'B07JLMVY8J-es'
 tags: [ 'pantalón', ]

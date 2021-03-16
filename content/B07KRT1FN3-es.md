@@ -5,7 +5,7 @@ date: 2020-03-16 18:53:30
 image: 'https://m.media-amazon.com/images/I/31A3vxFJEEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRT1FN3-es Columbia Silver Ridge 2.0 Pantalón Capri de Senderismo...'
 sku: 'B07KRT1FN3-es'
 tags: [ 'pantalón', ]

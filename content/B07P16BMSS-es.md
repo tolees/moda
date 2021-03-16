@@ -5,7 +5,7 @@ date: 2020-02-29 17:57:37
 image: 'https://m.media-amazon.com/images/I/41ODvefIgWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P16BMSS-es Superdry Hooded Windtrekker Chaqueta Azul Navy Feeder V6z...'
 sku: 'B07P16BMSS-es'
 tags: [ 'chaqueta', ]

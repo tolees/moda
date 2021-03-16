@@ -5,7 +5,7 @@ date: 2020-01-01 19:46:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RapILCg1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KMDHFS4-es oodji Collection Mujer Camiseta Básica de Algodón Verde ES...'
 sku: 'B01KMDHFS4-es'
 tags: [ 'camiseta', ]

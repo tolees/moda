@@ -5,7 +5,7 @@ date: 2020-07-22 10:22:48
 image: 'https://m.media-amazon.com/images/I/31SzNIEESYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V12TPV2-es K-WAY Claudette Abrigo Gris Grey Lt Lead 343 128 Talla del...'
 sku: 'B07V12TPV2-es'
 tags: [ 'abrigo', ]

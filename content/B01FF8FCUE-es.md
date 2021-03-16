@@ -5,7 +5,7 @@ date: 2020-01-03 18:49:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41v5wMrr%2BZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FF8FCUE-es JACK & JONES Jjiliam Jjoriginal Am 010 Lid Noos Vaqueros...'
 sku: 'B01FF8FCUE-es'
 tags: [ 'vaqueros', ]

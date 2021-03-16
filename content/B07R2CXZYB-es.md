@@ -5,7 +5,7 @@ date: 2020-08-31 11:02:25
 image: 'https://m.media-amazon.com/images/I/51-0FywRPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2CXZYB-es BaZhaHei Bolsos de Hombro Bolsos de Mujer Y Bolsos de...'
 sku: 'B07R2CXZYB-es'
 tags: [ 'bolso', ]

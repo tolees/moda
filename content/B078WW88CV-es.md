@@ -5,7 +5,7 @@ date: 2020-09-18 12:22:08
 image: 'https://m.media-amazon.com/images/I/41rOzRxXEuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WW88CV-es PUMA Liga Jersey Jr T-Shirt Unisex niños Red White 164'
 sku: 'B078WW88CV-es'
 tags: [ 'jersey', ]

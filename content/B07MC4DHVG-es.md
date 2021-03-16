@@ -5,7 +5,7 @@ date: 2020-03-16 21:13:47
 image: 'https://m.media-amazon.com/images/I/51tOa85y+SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC4DHVG-es Hackett Mini Chk BS Camisa Blue/White 5ar Small para Hombre'
 sku: 'B07MC4DHVG-es'
 tags: [ 'camisa', ]

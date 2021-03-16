@@ -5,7 +5,7 @@ date: 2020-03-02 14:07:56
 image: 'https://m.media-amazon.com/images/I/41-SlKn7DmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK2M4V6-es Geox J KOMMODOR Boy A Zapatillas para Niños Blue Navy/Lime...'
 sku: 'B07DK2M4V6-es'
 tags: [ 'geox', ]

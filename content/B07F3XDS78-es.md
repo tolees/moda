@@ -5,7 +5,7 @@ date: 2020-01-17 09:42:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wCQy5O%2BHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3XDS78-es SHOBDW Pantalones de Verano Mujeres Shorts Deportivos...'
 sku: 'B07F3XDS78-es'
 tags: [ 'moda', ]

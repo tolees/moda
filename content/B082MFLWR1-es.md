@@ -5,7 +5,7 @@ date: 2020-05-08 08:55:17
 image: 'https://m.media-amazon.com/images/I/51HP1pm1T8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MFLWR1-es BAIGIO Embrague de la Tarde Bling Glitter Purse Triángulo...'
 sku: 'B082MFLWR1-es'
 tags: [ 'bolso','monedero', ]

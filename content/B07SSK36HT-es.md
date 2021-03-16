@@ -5,7 +5,7 @@ date: 2020-09-17 22:47:32
 image: 'https://m.media-amazon.com/images/I/412s5nOI-HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSK36HT-es Geox D Myria C Zapatillas para Mujer Negro Black C9999 38 EU'
 sku: 'B07SSK36HT-es'
 tags: [ 'geox', ]

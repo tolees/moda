@@ -5,7 +5,7 @@ date: 2020-02-02 17:03:40
 image: 'https://m.media-amazon.com/images/I/41m1X-TfEkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBX5BV6-es RIP CURL Flagship Fleece Sudadera Hombre Anthracite S'
 sku: 'B07NBX5BV6-es'
 tags: [ 'sudadera', ]

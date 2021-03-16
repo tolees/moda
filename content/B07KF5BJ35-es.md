@@ -5,7 +5,7 @@ date: 2020-04-01 20:08:59
 image: 'https://m.media-amazon.com/images/I/41+7IHiV9tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF5BJ35-es Levi s 502 Regular Taper Vaqueros Gris Porcini Overt ADV...'
 sku: 'B07KF5BJ35-es'
 tags: [ 'vaqueros', ]

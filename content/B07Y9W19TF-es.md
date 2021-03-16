@@ -5,7 +5,7 @@ date: 2020-03-11 09:03:57
 image: 'https://m.media-amazon.com/images/I/41-3BOL+XaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9W19TF-es edc by Esprit 129cc1k040 Camisa Manga Larga Gris Light...'
 sku: 'B07Y9W19TF-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-05-06 08:35:09
 image: 'https://m.media-amazon.com/images/I/419Qc2X4ofL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RNZQJD-es Helly Hansen Logo Hoodie Sudadera con Capucha Hombre Gris 2XL'
 sku: 'B073RNZQJD-es'
 tags: [ 'sudadera', ]

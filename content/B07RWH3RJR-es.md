@@ -5,7 +5,7 @@ date: 2020-01-07 09:38:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vKCBjT63L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWH3RJR-es Esprit 079ee2k016 Camisa Manga Larga Azul Navy 400 Medium...'
 sku: 'B07RWH3RJR-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-08-06 21:52:24
 image: 'https://m.media-amazon.com/images/I/31PhostXtbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PS35RBZ-es Panama Jack Meridian Basics Sandalias Punta Cerrada para...'
 sku: 'B07PS35RBZ-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-09-22 07:06:17
 image: 'https://m.media-amazon.com/images/I/31fyP8NBZOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GWX252E-es Geox U New Damon B Mocasines para Hombre Negro BLACKC9999...'
 sku: 'B01GWX252E-es'
 tags: [ 'geox', ]

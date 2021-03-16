@@ -5,7 +5,7 @@ date: 2020-08-31 20:15:14
 image: 'https://m.media-amazon.com/images/I/31XfNevNI1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF5RDV4-es Levi s 2pk Crewneck 1 Camiseta Multicolor 2 Pack Slim Crew...'
 sku: 'B07LF5RDV4-es'
 tags: [ 'camiseta', ]

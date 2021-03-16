@@ -5,7 +5,7 @@ date: 2020-07-05 17:25:20
 image: 'https://m.media-amazon.com/images/I/31s22l4AycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V44PJLT-es SALOMON Agile FZ Hoodie M Chaqueta Cortavientos Hombre...'
 sku: 'B07V44PJLT-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-02-21 23:43:26
 image: 'https://m.media-amazon.com/images/I/416x7fC4StL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRSQJ-es Napapijri Aric Chaqueta Negro Black 041 XXL para Hombre'
 sku: 'B07MGFRSQJ-es'
 tags: [ 'chaqueta', ]

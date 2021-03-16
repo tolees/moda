@@ -5,7 +5,7 @@ date: 2020-05-31 08:54:41
 image: 'https://m.media-amazon.com/images/I/51sDhz8tsDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DV93MTP-es Spotted Zebra Boxer Brief Ropa interior camuflaje X-Small 4-5'
 sku: 'B07DV93MTP-es'
 tags: [ 'boxer', ]

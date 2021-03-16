@@ -5,7 +5,7 @@ date: 2020-03-25 17:52:51
 image: 'https://m.media-amazon.com/images/I/41Hz8DLYZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014YUE3F4-es Pepe Jeans Soho Vaqueros Azul 10Oz Rinse Plus M15 26W /...'
 sku: 'B014YUE3F4-es'
 tags: [ 'vaqueros', ]

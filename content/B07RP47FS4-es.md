@@ -5,7 +5,7 @@ date: 2020-04-18 11:53:37
 image: 'https://m.media-amazon.com/images/I/41rL+5MFcZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP47FS4-es Tommy Hilfiger New TH ESS Hilfiger C-nk tee SS Camiseta...'
 sku: 'B07RP47FS4-es'
 tags: [ 'camiseta', ]

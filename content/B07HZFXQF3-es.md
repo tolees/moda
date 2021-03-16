@@ -5,7 +5,7 @@ date: 2020-07-27 01:43:47
 image: 'https://m.media-amazon.com/images/I/31S5S-eRpzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HZFXQF3-es find. Asymetric Toe Thong Wedge Sandalias con Punta...'
 sku: 'B07HZFXQF3-es'
 tags: [ 'sandalias', ]

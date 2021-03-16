@@ -5,7 +5,7 @@ date: 2020-05-19 16:03:50
 image: 'https://m.media-amazon.com/images/I/31XjvtBd4UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EAG8OC6-es SEAC Biogel Antiempañante para máscaras y Gafas 100%...'
 sku: 'B00EAG8OC6-es'
 tags: [ 'gafas', ]

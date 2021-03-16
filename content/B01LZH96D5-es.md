@@ -5,7 +5,7 @@ date: 2020-06-27 15:28:09
 image: 'https://m.media-amazon.com/images/I/31IqSa9YOgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZH96D5-es Marca Amazon – Goodthreads – «El pantalón chino perfecto»;...'
 sku: 'B01LZH96D5-es'
 tags: [ 'goodthreads','pantalón', ]

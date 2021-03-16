@@ -5,7 +5,7 @@ date: 2020-06-09 18:24:54
 image: 'https://m.media-amazon.com/images/I/31kRKHCdqSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RPZR8Z-es Helly Hansen W HH Tech T-Shirt Camiseta Mujer White M'
 sku: 'B073RPZR8Z-es'
 tags: [ 'camiseta', ]

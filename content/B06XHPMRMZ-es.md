@@ -5,7 +5,7 @@ date: 2020-05-27 11:35:28
 image: 'https://m.media-amazon.com/images/I/41+pDA2obNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHPMRMZ-es Marca Amazon - find. Camisa Hombre Azul Blue M Label: M'
 sku: 'B06XHPMRMZ-es'
 tags: [ '-','camisa','find.', ]

@@ -5,7 +5,7 @@ date: 2020-04-05 10:51:24
 image: 'https://m.media-amazon.com/images/I/41R9Zb0ROYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYWN1J-es Geox D Nebula 4 X 4 B ABX A Botas Chukka para Mujer Azul...'
 sku: 'B07LFYWN1J-es'
 tags: [ 'geox', ]

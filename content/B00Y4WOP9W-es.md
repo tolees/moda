@@ -5,7 +5,7 @@ date: 2020-01-05 10:00:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ikXJqer-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y4WOP9W-es Neosens S849 Restored Skin Rococo Zapatos con tira...'
 sku: 'B00Y4WOP9W-es'
 tags: [ 'zapatos', ]

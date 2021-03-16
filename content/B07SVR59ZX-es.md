@@ -5,7 +5,7 @@ date: 2020-01-16 11:06:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UV-WyWsgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVR59ZX-es Vero Moda NOS Vmexcursion Expedition Aw193/4parka Noos...'
 sku: 'B07SVR59ZX-es'
 tags: [ 'abrigo','moda', ]

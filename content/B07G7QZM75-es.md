@@ -5,7 +5,7 @@ date: 2020-07-16 16:53:50
 image: 'https://m.media-amazon.com/images/I/41fW8f44rML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G7QZM75-es DINOKA Riñonera de Gran Capacidad Cintura Fanny Pack Mujer...'
 sku: 'B07G7QZM75-es'
 tags: [ 'bolso','gafas', ]

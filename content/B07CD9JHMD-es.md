@@ -5,7 +5,7 @@ date: 2020-06-12 13:55:39
 image: 'https://m.media-amazon.com/images/I/419lYlzbWHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CD9JHMD-es REPLAY M3666 .000.21842 Camiseta Negro Black 98 Large para...'
 sku: 'B07CD9JHMD-es'
 tags: [ 'camiseta', ]

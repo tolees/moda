@@ -5,7 +5,7 @@ date: 2020-06-23 07:30:34
 image: 'https://m.media-amazon.com/images/I/51sNu4tk6KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBW4F6B-es PUMA Epic Flip V2 Amplified Zapatos de Playa y Piscina...'
 sku: 'B07SBW4F6B-es'
 tags: [ 'zapatos', ]

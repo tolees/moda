@@ -5,7 +5,7 @@ date: 2020-04-13 18:18:33
 image: 'https://m.media-amazon.com/images/I/41XUu-GO8ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SQW1CZ-es CRZ YOGA Mujer Deportivo Corto Falda Plisada Skorts de...'
 sku: 'B082SQW1CZ-es'
 tags: [ 'falda', ]

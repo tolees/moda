@@ -5,7 +5,7 @@ date: 2020-06-24 14:36:29
 image: 'https://m.media-amazon.com/images/I/41hSnDy1AXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XMLGEN6-es Pepe Jeans Soho Vaqueros Azul 10oz Dark Used Worn H45 27W...'
 sku: 'B00XMLGEN6-es'
 tags: [ 'vaqueros', ]

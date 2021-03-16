@@ -5,7 +5,7 @@ date: 2020-05-13 14:05:02
 image: 'https://m.media-amazon.com/images/I/41mrjtH6GXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPVJ8BM-es SINOES 270 Zapatillas Deporte Hombres Running Zapatos...'
 sku: 'B07SPVJ8BM-es'
 tags: [ 'zapatos', ]

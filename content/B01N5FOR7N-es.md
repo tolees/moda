@@ -5,7 +5,7 @@ date: 2020-05-19 11:34:00
 image: 'https://m.media-amazon.com/images/I/41H0HASFlXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5FOR7N-es find. Camisa Clásica Manga Corta Hombre Azul Navy Medium'
 sku: 'B01N5FOR7N-es'
 tags: [ 'camisa', ]

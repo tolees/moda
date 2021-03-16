@@ -5,7 +5,7 @@ date: 2020-09-24 03:01:59
 image: 'https://m.media-amazon.com/images/I/51GWXFl1hyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HRH33L-es adidas CV3429 Sudadera con Capucha Unisex Niños Gris...'
 sku: 'B076HRH33L-es'
 tags: [ 'sudadera', ]

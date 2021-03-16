@@ -5,7 +5,7 @@ date: 2020-06-15 09:55:41
 image: 'https://m.media-amazon.com/images/I/31wWsUAaZcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFBPSGH-es Helly Hansen W HH Logo Singlet Camiseta De Tirantes Mujer...'
 sku: 'B07SFBPSGH-es'
 tags: [ 'camiseta', ]

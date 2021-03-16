@@ -5,7 +5,7 @@ date: 2020-05-28 20:43:03
 image: 'https://m.media-amazon.com/images/I/315Re8KPGaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KDJT4KT-es adidas T19 TRK Jkt M Chaqueta de Deporte Hombre Team Navy...'
 sku: 'B07KDJT4KT-es'
 tags: [ 'chaqueta', ]

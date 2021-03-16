@@ -5,7 +5,7 @@ date: 2020-04-10 08:36:30
 image: 'https://m.media-amazon.com/images/I/41AOfoH5aNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HZ8ZGCN-es Amazon Essentials 6-Pack Cotton Bikini Underwear Flores...'
 sku: 'B07HZ8ZGCN-es'
 tags: [ 'bikini', ]

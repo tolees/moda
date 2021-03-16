@@ -5,7 +5,7 @@ date: 2020-03-07 15:58:05
 image: 'https://m.media-amazon.com/images/I/31T2ZoXc2hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMR7TH3-es G-STAR RAW Graphic 15 Hooded Sudadera Multicolor Grey...'
 sku: 'B07TMR7TH3-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 16:32:39
 image: 'https://m.media-amazon.com/images/I/41w9OfmkJFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087BXRQPY-es TAONEEF Mujer Moda Tacon Delgados Sandalias Cruzado Tacon...'
 sku: 'B087BXRQPY-es'
 tags: [ 'moda','sandalias','zapatos', ]

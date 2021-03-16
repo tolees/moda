@@ -5,7 +5,7 @@ date: 2020-02-26 09:04:13
 image: 'https://m.media-amazon.com/images/I/51Fn+PkCiKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1Y7T3L-es Khroom Camiseta de Compresión de Superhéroe para Hombre |...'
 sku: 'B07N1Y7T3L-es'
 tags: [ 'camiseta', ]

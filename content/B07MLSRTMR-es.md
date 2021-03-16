@@ -5,7 +5,7 @@ date: 2020-01-29 07:49:04
 image: 'https://m.media-amazon.com/images/I/31ix6dC5HRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLSRTMR-es Clarks - Botines de Cuero Hombre Color Marrón Talla 45 EU'
 sku: 'B07MLSRTMR-es'
 tags: [ 'botines', ]

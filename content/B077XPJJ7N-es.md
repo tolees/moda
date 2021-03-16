@@ -5,7 +5,7 @@ date: 2020-06-19 17:50:14
 image: 'https://m.media-amazon.com/images/I/41gUhwNYYdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XPJJ7N-es Under Armour Sportstyle Left Chest Camiseta de Manga Corta...'
 sku: 'B077XPJJ7N-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-25 11:33:34
 image: 'https://m.media-amazon.com/images/I/41Pfnt3tLxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQMWYY-es Pepe Jeans Lionel Sudadera Old Navy 584 Medium para Hombre'
 sku: 'B07MZQMWYY-es'
 tags: [ 'sudadera', ]

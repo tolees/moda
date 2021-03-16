@@ -5,7 +5,7 @@ date: 2020-02-10 08:34:45
 image: 'https://m.media-amazon.com/images/I/41f5ezuOARL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3ZM14F-es Desigual T-Shirt Luciana Camiseta Verde Junco 4045 S para...'
 sku: 'B07N3ZM14F-es'
 tags: [ 'camiseta', ]

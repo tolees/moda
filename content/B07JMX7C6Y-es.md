@@ -5,7 +5,7 @@ date: 2020-04-20 23:53:56
 image: 'https://m.media-amazon.com/images/I/312iY9LpWCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMX7C6Y-es Timberland Sprint Trekker Mid Zapatillas Chukka para...'
 sku: 'B07JMX7C6Y-es'
 tags: [ 'timberland', ]

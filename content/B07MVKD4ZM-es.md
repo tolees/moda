@@ -5,7 +5,7 @@ date: 2020-02-08 17:20:28
 image: 'https://m.media-amazon.com/images/I/41Mz0xPs2FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVKD4ZM-es Napapijri Soves Camiseta Negro Black 041 X-Large para Hombre'
 sku: 'B07MVKD4ZM-es'
 tags: [ 'camiseta', ]

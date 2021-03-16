@@ -5,7 +5,7 @@ date: 2020-06-27 14:31:23
 image: 'https://m.media-amazon.com/images/I/410lsOircHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSJ5G8Q-es Geox B Tutim B Zapatillas para Bebés Azul Navy/Royal C4226...'
 sku: 'B07SSJ5G8Q-es'
 tags: [ 'geox', ]

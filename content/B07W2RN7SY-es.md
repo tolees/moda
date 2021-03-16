@@ -5,7 +5,7 @@ date: 2020-10-11 19:54:07
 image: 'https://m.media-amazon.com/images/I/41T854KIQuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W2RN7SY-es Tommy Hilfiger TJM Arched Graphic tee Camiseta Deporte...'
 sku: 'B07W2RN7SY-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 22:22:28
 image: 'https://m.media-amazon.com/images/I/316LyE3iS7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEXGDAQ-es Crocs Classic Clog K Zuecos Unisex Niños Negro Black 20/21 EU'
 sku: 'B01HEXGDAQ-es'
 tags: [ 'zuecos', ]

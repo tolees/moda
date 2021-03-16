@@ -5,7 +5,7 @@ date: 2020-09-28 23:35:17
 image: 'https://m.media-amazon.com/images/I/41eqONEA7SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKT6F6G-es Marca Amazon - find. Vaqueros Ceñidos con Bajo Elástico...'
 sku: 'B07VKT6F6G-es'
 tags: [ '-','find.','vaqueros', ]

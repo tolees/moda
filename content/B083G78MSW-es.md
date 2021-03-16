@@ -5,7 +5,7 @@ date: 2020-01-20 12:15:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31eUogMvYlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083G78MSW-es New balance NBML574SNU Zapatos Hombre Azul 50'
 sku: 'B083G78MSW-es'
 tags: [ 'zapatos', ]

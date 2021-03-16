@@ -5,7 +5,7 @@ date: 2020-01-18 21:49:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41666U-jAaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNDJMZ-es G-STAR RAW Vodan Padded Hooded Parka Negro Dk Black 6484...'
 sku: 'B07NDNDJMZ-es'
 tags: [ 'parka', ]

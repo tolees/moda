@@ -5,7 +5,7 @@ date: 2020-03-23 10:58:10
 image: 'https://m.media-amazon.com/images/I/41FivjkblSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VK22F1Y-es Fila Boxer para Hombre Negro Medium pack de 6'
 sku: 'B07VK22F1Y-es'
 tags: [ 'boxer', ]

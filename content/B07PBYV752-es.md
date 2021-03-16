@@ -5,7 +5,7 @@ date: 2020-04-13 19:46:34
 image: 'https://m.media-amazon.com/images/I/41fJKWvtpyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBYV752-es Morgan 192-jelini.n Falda Morado Marine Marine 42 Talla...'
 sku: 'B07PBYV752-es'
 tags: [ 'falda', ]

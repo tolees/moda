@@ -5,7 +5,7 @@ date: 2020-09-13 17:23:13
 image: 'https://m.media-amazon.com/images/I/41VIxa2-NlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJQ2MF3-es Desigual Vest Bonney Vestido Blanco Crudo 1001 34 Talla...'
 sku: 'B07VJQ2MF3-es'
 tags: [ 'vestido', ]

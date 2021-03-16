@@ -5,7 +5,7 @@ date: 2020-09-19 09:32:45
 image: 'https://m.media-amazon.com/images/I/518PDzDlKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QG4S78P-es BaZhaHei Monedero MóVil Con Estampado de Flores de Dama...'
 sku: 'B07QG4S78P-es'
 tags: [ 'monedero', ]

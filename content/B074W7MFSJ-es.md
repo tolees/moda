@@ -5,7 +5,7 @@ date: 2020-09-19 08:27:56
 image: 'https://m.media-amazon.com/images/I/31Wg81joeqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074W7MFSJ-es Marca Amazon - MERAKI Chaqueta de Algodón Mujer Cuello...'
 sku: 'B074W7MFSJ-es'
 tags: [ 'chaqueta','meraki', ]

@@ -5,7 +5,7 @@ date: 2020-09-25 17:18:50
 image: 'https://m.media-amazon.com/images/I/51YmkDTSIVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MCZDR4A-es ValueHall Crampones universales 18 dientes acero hielo...'
 sku: 'B01MCZDR4A-es'
 tags: [ 'zapatos', ]

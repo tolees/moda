@@ -5,7 +5,7 @@ date: 2020-03-06 09:32:15
 image: 'https://m.media-amazon.com/images/I/31LZF54bnuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGQF8VJ-es Lacoste Th3377 Camiseta Blanco Blanc/Noir Au8 2XL Talla...'
 sku: 'B07JGQF8VJ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-17 12:05:01
 image: 'https://m.media-amazon.com/images/I/51Z7sWAI2VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDDH2X4-es HEMING Cartera para Hombre Azul Cartera tarjetero hombre...'
 sku: 'B07MDDH2X4-es'
 tags: [ 'billetera', ]

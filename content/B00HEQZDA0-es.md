@@ -5,7 +5,7 @@ date: 2020-01-08 17:49:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31sWg54DWYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HEQZDA0-es Timberland 6 Inch Premium Waterproof Botas para Mujer...'
 sku: 'B00HEQZDA0-es'
 tags: [ 'timberland', ]

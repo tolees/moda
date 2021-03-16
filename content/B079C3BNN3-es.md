@@ -5,7 +5,7 @@ date: 2020-02-27 19:03:53
 image: 'https://m.media-amazon.com/images/I/41EeTwCth1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079C3BNN3-es Helly Hansen Swift 4.0 Aislado Chaqueta de Esquí Hombre...'
 sku: 'B079C3BNN3-es'
 tags: [ 'chaqueta', ]

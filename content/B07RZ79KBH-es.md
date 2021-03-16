@@ -5,7 +5,7 @@ date: 2020-03-01 11:02:37
 image: 'https://m.media-amazon.com/images/I/31xcKIAdPZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ79KBH-es ESPRIT Collection 999eo1k809 Camisa Manga Larga Blanco Off...'
 sku: 'B07RZ79KBH-es'
 tags: [ 'camisa', ]

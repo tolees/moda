@@ -5,7 +5,7 @@ date: 2020-04-03 11:28:15
 image: 'https://m.media-amazon.com/images/I/41pRG1HHTDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3VXB5R-es Desigual Dress Karen Vestido Blanco 1000 M para Mujer'
 sku: 'B07N3VXB5R-es'
 tags: [ 'vestido', ]

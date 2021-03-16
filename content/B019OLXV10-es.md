@@ -5,7 +5,7 @@ date: 2020-01-21 11:29:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41I03kZW9FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019OLXV10-es Uneek UC902 - Pantalón de carga color negro 30 alturas'
 sku: 'B019OLXV10-es'
 tags: [ 'pantalón', ]

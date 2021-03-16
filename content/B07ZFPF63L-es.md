@@ -5,7 +5,7 @@ date: 2020-10-02 10:47:51
 image: 'https://m.media-amazon.com/images/I/31kIKyfiTbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFPF63L-es Tommy Hilfiger TH Cool Eng Sleeve Slim Polo Camisa Blue L...'
 sku: 'B07ZFPF63L-es'
 tags: [ 'camisa', ]

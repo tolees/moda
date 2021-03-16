@@ -5,7 +5,7 @@ date: 2020-04-01 20:21:26
 image: 'https://m.media-amazon.com/images/I/31vfwjWOmvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYLB8P-es Geox U ARIAM B Zapatillas para Hombre Azul Navy C4002 43 EU'
 sku: 'B07LFYLB8P-es'
 tags: [ 'geox', ]

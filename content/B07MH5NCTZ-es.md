@@ -5,7 +5,7 @@ date: 2020-01-04 16:43:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WC%2BqWEHlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH5NCTZ-es Nike Court Borough Low VF GS Zapatos de Baloncesto para...'
 sku: 'B07MH5NCTZ-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-04-04 10:14:40
 image: 'https://m.media-amazon.com/images/I/31WytgIqgfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JK81PTK-es Pepe Jeans Hailey Crop Pl203424 Vaqueros evasé Archive...'
 sku: 'B07JK81PTK-es'
 tags: [ 'vaqueros', ]

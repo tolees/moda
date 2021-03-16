@@ -5,7 +5,7 @@ date: 2020-01-29 14:17:40
 image: 'https://m.media-amazon.com/images/I/41e9+6WVUwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0QHBSC-es Levi s Levis 200SF Vintage Stripe 0312 Boxer Brief...'
 sku: 'B01M0QHBSC-es'
 tags: [ 'boxer', ]

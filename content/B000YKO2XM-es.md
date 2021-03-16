@@ -5,7 +5,7 @@ date: 2020-08-10 13:13:33
 image: 'https://m.media-amazon.com/images/I/31-o-INQHRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000YKO2XM-es Havaianas Top Chanclas Unisex Adulto Negro Black 41/42 EU'
 sku: 'B000YKO2XM-es'
 tags: [ 'chanclas', ]

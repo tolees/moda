@@ -5,7 +5,7 @@ date: 2020-10-03 08:01:32
 image: 'https://m.media-amazon.com/images/I/41-qf17lqgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FJFQTRT-es Hoylson Gavena Calcetines Antideslizantes para Bebé Niños...'
 sku: 'B08FJFQTRT-es'
 tags: [ 'zapatos', ]

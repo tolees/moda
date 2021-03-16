@@ -5,7 +5,7 @@ date: 2020-01-04 09:01:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31pQ7VHrPsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0725GRT1T-es JACK & JONES Jjimike Jjorg Jos 097 ID.k Lid Noos...'
 sku: 'B0725GRT1T-es'
 tags: [ 'vaqueros', ]

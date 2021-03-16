@@ -5,7 +5,7 @@ date: 2020-08-05 00:41:50
 image: 'https://m.media-amazon.com/images/I/41CUIX9jCGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPWMNJ-es Geox D Tabelya A Zapatillas para Mujer Negro Black/Gun...'
 sku: 'B07SVPWMNJ-es'
 tags: [ 'geox', ]

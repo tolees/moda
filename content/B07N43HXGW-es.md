@@ -5,7 +5,7 @@ date: 2020-01-05 21:01:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hVE%2B2dK-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N43HXGW-es Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sudadera...'
 sku: 'B07N43HXGW-es'
 tags: [ 'sudadera', ]

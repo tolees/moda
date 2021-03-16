@@ -5,7 +5,7 @@ date: 2020-02-09 12:09:41
 image: 'https://m.media-amazon.com/images/I/31kYizPOHWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JOC7FB6-es Timberland Kenniston 6 Inch Lace Up Botas para Mujer Negro...'
 sku: 'B01JOC7FB6-es'
 tags: [ 'timberland', ]

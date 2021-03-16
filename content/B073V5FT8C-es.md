@@ -5,7 +5,7 @@ date: 2020-05-26 05:49:00
 image: 'https://m.media-amazon.com/images/I/41saSHHbOZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073V5FT8C-es adidas HVC K Zapatos de Boxeo Unisex Niños Negro Schwarz...'
 sku: 'B073V5FT8C-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-14 12:47:57
 image: 'https://m.media-amazon.com/images/I/41kKV91eTtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDJBCBY-es Desigual Vest Paradise Vestido Rojo Rojo ROJA 3061 Medium...'
 sku: 'B07VDJBCBY-es'
 tags: [ 'vestido', ]

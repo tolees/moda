@@ -5,7 +5,7 @@ date: 2020-02-04 07:15:47
 image: 'https://m.media-amazon.com/images/I/41TUJwKBXxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSRGWCJ-es Charles Wilson Sudadera con Capucha de Peso Pesado Small Lime'
 sku: 'B07WSRGWCJ-es'
 tags: [ 'sudadera', ]

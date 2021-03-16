@@ -5,7 +5,7 @@ date: 2020-05-26 09:33:51
 image: 'https://m.media-amazon.com/images/I/51pSYIifoHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082CZVMBZ-es ASICS Solution Speed FF Zapatilla Indoor S - SS20-40'
 sku: 'B082CZVMBZ-es'
 tags: [ 'zapatilla', ]

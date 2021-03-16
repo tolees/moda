@@ -5,7 +5,7 @@ date: 2020-01-22 12:33:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qe14T7enL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7TNL8H-es SUNMEET Gafas de sol Hombre Polarizadas Clásico Retro...'
 sku: 'B07F7TNL8H-es'
 tags: [ 'gafas', ]

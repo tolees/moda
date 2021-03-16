@@ -5,7 +5,7 @@ date: 2020-10-10 15:29:36
 image: 'https://m.media-amazon.com/images/I/41Gzj6I2JDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D44NXKH-es Marca Amazon - find. Chunky Gumsole Heavy Rand Botas...'
 sku: 'B07D44NXKH-es'
 tags: [ '-','find.', ]

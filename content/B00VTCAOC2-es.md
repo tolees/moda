@@ -5,7 +5,7 @@ date: 2020-08-27 11:59:52
 image: 'https://m.media-amazon.com/images/I/517V9bY56AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VTCAOC2-es COOFIT Bolsos de Mujer Bolso Bandolera Lona Bolsos de...'
 sku: 'B00VTCAOC2-es'
 tags: [ 'bolso', ]

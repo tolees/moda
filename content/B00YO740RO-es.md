@@ -5,7 +5,7 @@ date: 2020-03-18 12:23:41
 image: 'https://m.media-amazon.com/images/I/41xXm5ElwpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YO740RO-es Under Armour Tech Tank-Solid Correr Camiseta Ancha para...'
 sku: 'B00YO740RO-es'
 tags: [ 'camiseta', ]

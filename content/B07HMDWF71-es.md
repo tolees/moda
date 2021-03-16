@@ -5,7 +5,7 @@ date: 2020-02-03 14:49:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31YBtjfFiAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMDWF71-es New Look Vaqueros Skinny Negro Black W42 para Hombre'
 sku: 'B07HMDWF71-es'
 tags: [ 'vaqueros', ]

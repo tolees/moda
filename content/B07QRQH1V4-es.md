@@ -5,7 +5,7 @@ date: 2020-02-02 16:05:06
 image: 'https://m.media-amazon.com/images/I/51UF3I2H9DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRQH1V4-es flintronic® Billetera Monedero para Hombres RFID Billetera...'
 sku: 'B07QRQH1V4-es'
 tags: [ 'billetera','monedero', ]

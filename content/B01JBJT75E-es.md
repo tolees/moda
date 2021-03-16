@@ -5,7 +5,7 @@ date: 2020-09-19 11:40:47
 image: 'https://m.media-amazon.com/images/I/41gZcmTeDRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JBJT75E-es Arena 1E49171 Gafas de natación Unisex Adulto Blue Talla...'
 sku: 'B01JBJT75E-es'
 tags: [ 'gafas', ]

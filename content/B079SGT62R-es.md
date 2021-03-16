@@ -5,7 +5,7 @@ date: 2020-09-29 12:21:40
 image: 'https://m.media-amazon.com/images/I/31FsdxAfwBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SGT62R-es Polaroid PLD 4066/S Gafas de sol Marrón DKHAVANA 57 Unisex...'
 sku: 'B079SGT62R-es'
 tags: [ 'gafas', ]

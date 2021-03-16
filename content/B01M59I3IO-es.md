@@ -5,7 +5,7 @@ date: 2020-01-07 13:55:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417NeJ0E2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M59I3IO-es VILA CLOTHES VICANTIK L/S SHIRT Blusa Mujer Verde Vetiver...'
 sku: 'B01M59I3IO-es'
 tags: [ 'blusa', ]

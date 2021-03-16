@@ -5,7 +5,7 @@ date: 2020-06-19 09:04:52
 image: 'https://m.media-amazon.com/images/I/319TivOrvwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBJ26JB-es Vans Left Chest Logo tee Camiseta Rojo Port Royale/Whi K1o...'
 sku: 'B07YBJ26JB-es'
 tags: [ 'camiseta', ]

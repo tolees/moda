@@ -5,7 +5,7 @@ date: 2020-03-12 11:57:37
 image: 'https://m.media-amazon.com/images/I/416uSGnpGeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFNK1MG-es SELECTED HOMME Slhcolor Block Jacket W Chaqueta Turtle...'
 sku: 'B07VFNK1MG-es'
 tags: [ 'chaqueta', ]

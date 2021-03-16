@@ -5,7 +5,7 @@ date: 2020-04-08 08:05:19
 image: 'https://m.media-amazon.com/images/I/51y8s2-4oJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSCGK6Z-es gracosy Zapatos de Cuero de tacón bajo de Mujer Merceditas...'
 sku: 'B07BSCGK6Z-es'
 tags: [ 'zapatos', ]

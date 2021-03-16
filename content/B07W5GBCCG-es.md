@@ -5,7 +5,7 @@ date: 2020-02-01 11:17:26
 image: 'https://m.media-amazon.com/images/I/41xfdxultuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5GBCCG-es JACK & JONES JCOOSCAR Jacket Hood Chaqueta Negro Black M...'
 sku: 'B07W5GBCCG-es'
 tags: [ 'chaqueta', ]

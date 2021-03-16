@@ -5,7 +5,7 @@ date: 2020-01-03 12:58:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UbVRybNCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18WY4D-es Lee Button Down Camisa Azul Beyond Blue Medium para Hombre'
 sku: 'B07N18WY4D-es'
 tags: [ 'camisa', ]

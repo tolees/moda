@@ -5,7 +5,7 @@ date: 2020-05-25 15:03:14
 image: 'https://m.media-amazon.com/images/I/518FOyx9bXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005UVVJ72-es Nike Benassi JDI Chanclas Unisex Adulto Multicolor...'
 sku: 'B005UVVJ72-es'
 tags: [ 'chanclas', ]

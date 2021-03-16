@@ -5,7 +5,7 @@ date: 2020-02-06 11:50:41
 image: 'https://m.media-amazon.com/images/I/31+RT5Zp9OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N194PJZ-es Lee Authentic Pkt T LS Camiseta Azul Midnight Navy Ma...'
 sku: 'B07N194PJZ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 07:32:25
 image: 'https://m.media-amazon.com/images/I/41ISZK+AUQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005YBQM52-es Lee Brooklyn Straight Hombre Vaqueros Azul Mid Stonewash...'
 sku: 'B005YBQM52-es'
 tags: [ 'vaqueros', ]

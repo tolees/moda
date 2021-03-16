@@ -5,7 +5,7 @@ date: 2020-07-30 14:52:24
 image: 'https://m.media-amazon.com/images/I/31csd43MqNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZKDKRJ-es Ever-Pretty A-línea Vestido de Fiesta Gasa Cuello en V sin...'
 sku: 'B07KZKDKRJ-es'
 tags: [ 'vestido', ]

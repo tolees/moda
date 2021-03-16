@@ -5,7 +5,7 @@ date: 2020-05-30 00:35:31
 image: 'https://m.media-amazon.com/images/I/41VwYBPciSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F31RL7G-es Helly Hansen HH Logo Camiseta Manga Corta Hombre Grey...'
 sku: 'B07F31RL7G-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-19 21:51:49
 image: 'https://m.media-amazon.com/images/I/41geoCn3uYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGG7LS2-es Gola Mujer Sandalias Deportivas Zapatillas de Senderismo...'
 sku: 'B07BGG7LS2-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-03-27 21:07:57
 image: 'https://m.media-amazon.com/images/I/31qMKkciNcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG3X1YF-es Geox D Sukie C Zapatillas para Mujer Blau Navy C4002 38 EU'
 sku: 'B07LG3X1YF-es'
 tags: [ 'geox', ]

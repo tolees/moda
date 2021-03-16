@@ -5,7 +5,7 @@ date: 2020-02-19 12:10:04
 image: 'https://m.media-amazon.com/images/I/518iuYn3baL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B6FAHT6-es LEGO Ninjago - Pijama para Niños 5-6 Años'
 sku: 'B01B6FAHT6-es'
 tags: [ 'pijama', ]

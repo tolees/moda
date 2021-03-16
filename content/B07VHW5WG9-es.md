@@ -5,7 +5,7 @@ date: 2020-04-08 08:19:39
 image: 'https://m.media-amazon.com/images/I/41zsOU4bymL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHW5WG9-es Desigual TS brulé Camiseta Negro Negro 2000 Medium para Mujer'
 sku: 'B07VHW5WG9-es'
 tags: [ 'camiseta', ]

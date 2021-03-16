@@ -5,7 +5,7 @@ date: 2020-04-14 18:12:11
 image: 'https://m.media-amazon.com/images/I/41urRj6UAiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M247JJT-es Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable...'
 sku: 'B01M247JJT-es'
 tags: [ 'chaqueta', ]

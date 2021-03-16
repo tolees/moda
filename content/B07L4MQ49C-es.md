@@ -5,7 +5,7 @@ date: 2020-03-03 15:57:58
 image: 'https://m.media-amazon.com/images/I/41hebK-LipL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4MQ49C-es Charles Wilson Camisa Manga Larga Popelina Lisa para...'
 sku: 'B07L4MQ49C-es'
 tags: [ 'camisa', ]

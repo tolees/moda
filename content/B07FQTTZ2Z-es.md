@@ -5,7 +5,7 @@ date: 2020-08-23 04:29:52
 image: 'https://m.media-amazon.com/images/I/31BAHzK880L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQTTZ2Z-es Clarks Tri Chloe Sandalias de Talón Abierto para Mujer...'
 sku: 'B07FQTTZ2Z-es'
 tags: [ 'sandalias', ]

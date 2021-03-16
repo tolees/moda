@@ -5,7 +5,7 @@ date: 2020-03-26 20:01:41
 image: 'https://m.media-amazon.com/images/I/41qkJVg1JlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N44CVW2-es Desigual Skirt Andrea Falda Rojo Rojo Clavel 3036 46 Talla...'
 sku: 'B07N44CVW2-es'
 tags: [ 'falda', ]

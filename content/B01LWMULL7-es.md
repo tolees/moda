@@ -5,7 +5,7 @@ date: 2020-09-05 10:22:22
 image: 'https://m.media-amazon.com/images/I/41-r0jp42lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWMULL7-es Marca Amazon - IRIS & LILLY Sujetador Preformado con...'
 sku: 'B01LWMULL7-es'
 tags: [ '&','iris','lilly', ]

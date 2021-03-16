@@ -5,7 +5,7 @@ date: 2020-02-28 17:28:20
 image: 'https://m.media-amazon.com/images/I/41WEhyGM1hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F5VY9-es Wrangler Larston Vaqueros Ice Flow 32W / 34L para Hombre'
 sku: 'B07M5F5VY9-es'
 tags: [ 'vaqueros', ]

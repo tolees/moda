@@ -5,7 +5,7 @@ date: 2020-03-11 08:28:16
 image: 'https://m.media-amazon.com/images/I/31hsyWgJ--L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L98BSG1-es Under Armour UA Heatgear Racer Camiseta Sin Mangas Mujer...'
 sku: 'B07L98BSG1-es'
 tags: [ 'camiseta', ]

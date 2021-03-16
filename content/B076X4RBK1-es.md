@@ -5,7 +5,7 @@ date: 2020-04-29 08:10:05
 image: 'https://m.media-amazon.com/images/I/41M49iGhOvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X4RBK1-es Under Armour Curry 1 Lux Mid Zapatilla Baloncesto - 41'
 sku: 'B076X4RBK1-es'
 tags: [ 'zapatilla', ]

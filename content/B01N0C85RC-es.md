@@ -5,7 +5,7 @@ date: 2020-08-23 22:28:13
 image: 'https://m.media-amazon.com/images/I/41EBaTW9m9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0C85RC-es Geox U Wells C Zapatillas para Hombre Gris Anthracite...'
 sku: 'B01N0C85RC-es'
 tags: [ 'geox', ]

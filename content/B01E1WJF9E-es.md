@@ -5,7 +5,7 @@ date: 2020-04-07 22:40:56
 image: 'https://m.media-amazon.com/images/I/31MT+lHxlLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E1WJF9E-es Mercedes-Benz Sonnenbrille M7005 Gafas de sol Negro...'
 sku: 'B01E1WJF9E-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-03-08 13:06:43
 image: 'https://m.media-amazon.com/images/I/41o0WJIvJYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2QGHM9-es Adidas Adissage Zapatos de playa y piscina Unisex adulto...'
 sku: 'B07K2QGHM9-es'
 tags: [ 'zapatos', ]

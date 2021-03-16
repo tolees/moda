@@ -5,7 +5,7 @@ date: 2020-08-28 11:42:27
 image: 'https://m.media-amazon.com/images/I/41bB01VPioL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MF39DCL-es Columbia Lake 22 Chaqueta de plumas Hombre Gris Columbia...'
 sku: 'B07MF39DCL-es'
 tags: [ 'chaqueta', ]

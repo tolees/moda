@@ -5,7 +5,7 @@ date: 2020-08-10 08:46:33
 image: 'https://m.media-amazon.com/images/I/410s7BXPPGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBGZHJY-es Vans Classic Camiseta Rojo Port Royale/White K1o Medium...'
 sku: 'B07YBGZHJY-es'
 tags: [ 'camiseta', ]

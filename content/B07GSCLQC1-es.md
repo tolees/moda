@@ -5,7 +5,7 @@ date: 2020-02-01 02:27:42
 image: 'https://m.media-amazon.com/images/I/41vlLDhafEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSCLQC1-es Elimina el cabello facial para mujeres suave sin dolor...'
 sku: 'B07GSCLQC1-es'
 tags: [ 'bikini', ]

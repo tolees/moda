@@ -5,7 +5,7 @@ date: 2020-06-27 17:06:24
 image: 'https://m.media-amazon.com/images/I/41q+Rgkko4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7P8DZR-es Lee Luke Vaqueros Deep Pool TR 33W / 34L para Hombre'
 sku: 'B07T7P8DZR-es'
 tags: [ 'vaqueros', ]

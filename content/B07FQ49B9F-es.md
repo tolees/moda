@@ -5,7 +5,7 @@ date: 2020-08-11 19:45:36
 image: 'https://m.media-amazon.com/images/I/31kfMmz3RJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQ49B9F-es Jack & Jones Jjitim Jjoriginal Am 782 50sps Noos Vaqueros...'
 sku: 'B07FQ49B9F-es'
 tags: [ 'vaqueros', ]

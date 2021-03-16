@@ -5,7 +5,7 @@ date: 2020-03-03 15:28:17
 image: 'https://m.media-amazon.com/images/I/416TXvbzE4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M89GQ1Z-es Lee Chest Logo tee Camiseta Rojo Warp Red KG Small para Mujer'
 sku: 'B07M89GQ1Z-es'
 tags: [ 'camiseta', ]

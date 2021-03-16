@@ -5,7 +5,7 @@ date: 2020-03-06 16:04:33
 image: 'https://m.media-amazon.com/images/I/41t5YpJUAPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH3JKJJ-es Vgo 3Pares 2-4 Edad Guantes de Niños Guantes de Trabajo y...'
 sku: 'B07HH3JKJJ-es'
 tags: [ 'guantes', ]

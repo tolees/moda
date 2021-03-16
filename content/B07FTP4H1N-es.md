@@ -5,7 +5,7 @@ date: 2020-10-08 20:25:38
 image: 'https://m.media-amazon.com/images/I/41T8YlHc4zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTP4H1N-es Lee Luke Vaqueros Light Daze ZX 30W / 34L para Hombre'
 sku: 'B07FTP4H1N-es'
 tags: [ 'vaqueros', ]

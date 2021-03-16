@@ -5,7 +5,7 @@ date: 2020-06-26 10:50:46
 image: 'https://m.media-amazon.com/images/I/41X4hERBxaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRYUOQR-es Columbia Heather Canyon Chaqueta Softshell Hombre Gris...'
 sku: 'B01MRYUOQR-es'
 tags: [ 'chaqueta', ]

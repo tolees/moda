@@ -5,7 +5,7 @@ date: 2020-02-02 09:17:57
 image: 'https://m.media-amazon.com/images/I/315m5EguhCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5DZ5Z9-es Wrangler High Rise Skinny Vaqueros Azul Night Blue 78y 30W...'
 sku: 'B07M5DZ5Z9-es'
 tags: [ 'vaqueros', ]

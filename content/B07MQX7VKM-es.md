@@ -5,7 +5,7 @@ date: 2020-04-01 00:20:04
 image: 'https://m.media-amazon.com/images/I/41q3ysomlwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQX7VKM-es GANT D1. TP BC Micro Print Reg Hbd Camisa Azul Marine 410...'
 sku: 'B07MQX7VKM-es'
 tags: [ 'camisa', ]

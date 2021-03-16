@@ -5,7 +5,7 @@ date: 2020-01-11 12:18:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31wAldqaZ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRHS4P-es Geox U Wells C Zapatillas para Hombre Gris Stone/Grey...'
 sku: 'B07LFRHS4P-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 20:07:04
 image: 'https://m.media-amazon.com/images/I/31FuVEWvNZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G73WSGX-es Aibrou Pijamas Mujer Algodón Invierno 2 Piezas Ropa de...'
 sku: 'B07G73WSGX-es'
 tags: [ 'camiseta', ]

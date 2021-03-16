@@ -5,7 +5,7 @@ date: 2020-02-19 12:43:41
 image: 'https://m.media-amazon.com/images/I/31aIKQZdypL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015GLWLNQ-es Ermenegildo Zegna Brillengestelle EZ5038 Monturas de gafas...'
 sku: 'B015GLWLNQ-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-01-10 07:16:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31y4iJn4QYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLQ8SQN-es Timberland Bradstreet Perforated Plain Toe Zapatos de...'
 sku: 'B07JLQ8SQN-es'
 tags: [ 'timberland','zapatos', ]

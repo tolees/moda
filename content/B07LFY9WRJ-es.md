@@ -5,7 +5,7 @@ date: 2020-02-20 20:33:03
 image: 'https://m.media-amazon.com/images/I/31YmUBfocDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFY9WRJ-es Geox D BETTANIE E Botas para Mujer Negro Black C9999 38 EU'
 sku: 'B07LFY9WRJ-es'
 tags: [ 'geox', ]

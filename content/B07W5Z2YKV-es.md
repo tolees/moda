@@ -5,7 +5,7 @@ date: 2020-03-18 14:43:52
 image: 'https://m.media-amazon.com/images/I/51FEdaV2YTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5Z2YKV-es DOACT Chalecos Termico Exteriores Interfaz USB Chaleco...'
 sku: 'B07W5Z2YKV-es'
 tags: [ 'chaleco', ]

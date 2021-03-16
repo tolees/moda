@@ -5,7 +5,7 @@ date: 2020-04-14 14:08:23
 image: 'https://m.media-amazon.com/images/I/31Pu9UOFBML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017AG4IHW-es Polaroid P0115 JB N5N Gafas de sol Azul Bluette Royal...'
 sku: 'B017AG4IHW-es'
 tags: [ 'gafas', ]

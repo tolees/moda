@@ -5,7 +5,7 @@ date: 2020-08-05 02:08:12
 image: 'https://m.media-amazon.com/images/I/412zXOzXV0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3V5XR5-es NNJXD Vestido de Unicornio para niñas Fiesta de Apliques...'
 sku: 'B07Q3V5XR5-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-01-31 07:21:30
 image: 'https://m.media-amazon.com/images/I/41pjA6F0llL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZC7B7Z-es WOLA gafas de sol madera - AIR lentes mujer y hombre...'
 sku: 'B06ZZC7B7Z-es'
 tags: [ 'gafas', ]

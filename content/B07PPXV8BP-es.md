@@ -5,7 +5,7 @@ date: 2020-10-10 19:52:06
 image: 'https://m.media-amazon.com/images/I/31kSIxf+sRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPXV8BP-es Under Armour UA Seamless SS Camiseta de Manga Corta para...'
 sku: 'B07PPXV8BP-es'
 tags: [ 'camiseta', ]

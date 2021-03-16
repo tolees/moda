@@ -5,7 +5,7 @@ date: 2020-03-07 16:42:08
 image: 'https://m.media-amazon.com/images/I/31I7MtkAP0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015OK4K1U-es PumaPurecat - Zapatos de playa y piscina adultos unisex...'
 sku: 'B015OK4K1U-es'
 tags: [ 'zapatos', ]

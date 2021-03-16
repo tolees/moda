@@ -5,7 +5,7 @@ date: 2020-08-16 12:25:30
 image: 'https://m.media-amazon.com/images/I/41xyje0dVrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGN8RXS-es Desigual Jers Nagar Chaqueta Punto Blanco Crudo 1001...'
 sku: 'B07VGN8RXS-es'
 tags: [ 'chaqueta', ]

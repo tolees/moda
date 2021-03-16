@@ -5,7 +5,7 @@ date: 2020-10-12 08:06:59
 image: 'https://m.media-amazon.com/images/I/41ifNgYhj1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4R96VG-es Marca Amazon - find. Jersey de Ochos Hombre Marfil Ecru S...'
 sku: 'B07D4R96VG-es'
 tags: [ '-','find.','jersey', ]

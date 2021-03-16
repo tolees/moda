@@ -5,7 +5,7 @@ date: 2020-08-02 17:59:25
 image: 'https://m.media-amazon.com/images/I/31zoi872ZHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WK5YV15-es SALOMON Agile Training tee M Camiseta de Manga Corta...'
 sku: 'B07WK5YV15-es'
 tags: [ 'camiseta', ]

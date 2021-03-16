@@ -5,7 +5,7 @@ date: 2020-01-19 21:46:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AxFEeppOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K744CSC-es Levi s SS Colorblock tee Camiseta Multicolor Colorbock...'
 sku: 'B07K744CSC-es'
 tags: [ 'camiseta', ]

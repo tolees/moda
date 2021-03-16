@@ -5,7 +5,7 @@ date: 2020-03-12 14:35:44
 image: 'https://m.media-amazon.com/images/I/413ypP0eGTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GTPCSJ-es Under Armour Ua Classic Script SS Camiseta de manga corta...'
 sku: 'B077GTPCSJ-es'
 tags: [ 'camiseta', ]

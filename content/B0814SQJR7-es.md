@@ -5,7 +5,7 @@ date: 2020-10-11 11:25:24
 image: 'https://m.media-amazon.com/images/I/41JBtXHL6PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814SQJR7-es Under Armour UA Seamless SS camiseta de manga corta para...'
 sku: 'B0814SQJR7-es'
 tags: [ 'camiseta', ]

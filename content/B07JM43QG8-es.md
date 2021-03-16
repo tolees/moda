@@ -5,7 +5,7 @@ date: 2020-09-30 05:39:02
 image: 'https://m.media-amazon.com/images/I/411ewh9ihiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM43QG8-es Lee Luke Vaqueros Dark Diamond Ft 31W / 36L para Hombre'
 sku: 'B07JM43QG8-es'
 tags: [ 'vaqueros', ]

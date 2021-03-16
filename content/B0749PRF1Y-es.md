@@ -5,7 +5,7 @@ date: 2020-05-09 15:58:49
 image: 'https://m.media-amazon.com/images/I/51iqL7M9K9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749PRF1Y-es Jane Klain283 819 - Sandalias con Punta Abierta Mujer...'
 sku: 'B0749PRF1Y-es'
 tags: [ 'sandalias', ]

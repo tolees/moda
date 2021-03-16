@@ -5,7 +5,7 @@ date: 2020-03-31 17:26:56
 image: 'https://m.media-amazon.com/images/I/41zzeToPbxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3PT69C-es Dilwe Chaleco táctico Clip Impermeable para Pistola Tira...'
 sku: 'B07B3PT69C-es'
 tags: [ 'chaleco', ]

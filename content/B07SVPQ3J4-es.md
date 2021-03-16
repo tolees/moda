@@ -5,7 +5,7 @@ date: 2020-09-30 12:54:00
 image: 'https://m.media-amazon.com/images/I/31yW7kZJxgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPQ3J4-es Geox U Artie B Chanclas para Hombre Marrón Coffee C6009 40 EU'
 sku: 'B07SVPQ3J4-es'
 tags: [ 'chanclas','geox', ]

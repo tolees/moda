@@ -5,7 +5,7 @@ date: 2020-09-03 13:17:05
 image: 'https://m.media-amazon.com/images/I/51oo5ScxpML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5FF1RG-es Bikien Guantes para Mascotas Masaje con Pelo Largo y Corto...'
 sku: 'B07H5FF1RG-es'
 tags: [ 'guantes', ]

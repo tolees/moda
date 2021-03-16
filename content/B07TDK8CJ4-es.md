@@ -5,7 +5,7 @@ date: 2020-01-26 12:11:32
 image: 'https://m.media-amazon.com/images/I/51Wi-6MHdLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDK8CJ4-es Bolso de Fiesta Noche Hard Shell Clutch Pequeña Diamantes...'
 sku: 'B07TDK8CJ4-es'
 tags: [ 'billetera','bolso', ]

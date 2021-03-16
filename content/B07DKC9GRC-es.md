@@ -5,7 +5,7 @@ date: 2020-02-09 18:32:35
 image: 'https://m.media-amazon.com/images/I/410lk0PUAwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKC9GRC-es PUMA Essential Crew SWS Big Logo M Sudadera Hombre Gris...'
 sku: 'B07DKC9GRC-es'
 tags: [ 'sudadera', ]

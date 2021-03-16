@@ -5,7 +5,7 @@ date: 2020-06-22 17:10:27
 image: 'https://m.media-amazon.com/images/I/31barAT5t3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PVY2LR-es Marca Amazon - TRUTH & FABLE Vestido Midi Ajustado de...'
 sku: 'B077PVY2LR-es'
 tags: [ 'vestido', ]

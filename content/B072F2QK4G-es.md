@@ -5,7 +5,7 @@ date: 2020-03-13 23:51:01
 image: 'https://m.media-amazon.com/images/I/31XCNkxmivL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072F2QK4G-es G-STAR RAW Base Htr V T S/s 2-Pack Camiseta Negro Solid...'
 sku: 'B072F2QK4G-es'
 tags: [ 'camiseta', ]

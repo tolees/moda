@@ -5,7 +5,7 @@ date: 2020-04-18 16:04:21
 image: 'https://m.media-amazon.com/images/I/41iGPYlyefL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPTH93-es Pepe Jeans Mika Camiseta Black 999 Large para Mujer'
 sku: 'B07MZPTH93-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-03-03 09:17:46
 image: 'https://m.media-amazon.com/images/I/51TmFSXEEmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWKYK9W-es BILLABONG Divine Vestido Negro Black 19 X-Small Tamaño del...'
 sku: 'B07RWKYK9W-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-10-12 09:44:45
 image: 'https://m.media-amazon.com/images/I/31X4SmPozmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C6OGWN2-es Jack & Jones Basic O-Neck tee L/S Noos Camiseta Blanco Opt...'
 sku: 'B00C6OGWN2-es'
 tags: [ 'camiseta', ]

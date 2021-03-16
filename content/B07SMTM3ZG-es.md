@@ -5,7 +5,7 @@ date: 2020-09-29 04:56:24
 image: 'https://m.media-amazon.com/images/I/31yp52XL0dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMTM3ZG-es Burton Elite Camiseta Hombre True Black S'
 sku: 'B07SMTM3ZG-es'
 tags: [ 'camiseta', ]

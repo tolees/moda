@@ -5,7 +5,7 @@ date: 2020-07-14 04:14:19
 image: 'https://m.media-amazon.com/images/I/41ve-xW+bkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCFYKHG-es G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros Medium...'
 sku: 'B06XCFYKHG-es'
 tags: [ 'vaqueros', ]

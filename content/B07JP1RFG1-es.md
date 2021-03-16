@@ -5,7 +5,7 @@ date: 2020-08-31 13:14:03
 image: 'https://m.media-amazon.com/images/I/41WOF4MJ8ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JP1RFG1-es Cressi Aqua Shoes Zapatos Deportivo para Uso Acuático...'
 sku: 'B07JP1RFG1-es'
 tags: [ 'zapatos', ]

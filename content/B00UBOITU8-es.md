@@ -5,7 +5,7 @@ date: 2020-06-15 08:26:11
 image: 'https://m.media-amazon.com/images/I/41YUGSplPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBOITU8-es Tommy Hilfiger 3p Trunk Bóxer Blanco White/Tango...'
 sku: 'B00UBOITU8-es'
 tags: [ 'bóxer', ]

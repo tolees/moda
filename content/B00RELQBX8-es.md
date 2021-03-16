@@ -5,7 +5,7 @@ date: 2020-09-22 10:13:16
 image: 'https://m.media-amazon.com/images/I/31YpTwkYkrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RELQBX8-es Crocs Patricia Women Sandalias de Punta Descubierta para...'
 sku: 'B00RELQBX8-es'
 tags: [ 'sandalias', ]

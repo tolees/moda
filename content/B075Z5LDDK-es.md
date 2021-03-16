@@ -5,7 +5,7 @@ date: 2020-09-11 15:28:30
 image: 'https://m.media-amazon.com/images/I/41nCE3b0xFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Z5LDDK-es Vero Moda Vmhot Nine HW Dnm Pencil Skirt Mix Noos Falda...'
 sku: 'B075Z5LDDK-es'
 tags: [ 'falda','moda', ]

@@ -5,7 +5,7 @@ date: 2020-06-20 13:48:54
 image: 'https://m.media-amazon.com/images/I/41u7BXEE8HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBG4KBZ-es Vans Classic Camiseta Morado Heliotrope/White Ymm Large...'
 sku: 'B07YBG4KBZ-es'
 tags: [ 'camiseta', ]

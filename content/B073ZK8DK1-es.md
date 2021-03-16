@@ -5,7 +5,7 @@ date: 2020-10-01 06:23:00
 image: 'https://m.media-amazon.com/images/I/41JSHqPc9NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZK8DK1-es Napapijri Rainforest Winter Chaqueta para Hombre Azul Blu...'
 sku: 'B073ZK8DK1-es'
 tags: [ 'chaqueta', ]

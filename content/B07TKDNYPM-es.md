@@ -5,7 +5,7 @@ date: 2020-07-03 11:23:19
 image: 'https://m.media-amazon.com/images/I/41bsnMfXsZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDNYPM-es Levi s The Original tee Camiseta Gris Cotton + Patch...'
 sku: 'B07TKDNYPM-es'
 tags: [ 'camiseta', ]

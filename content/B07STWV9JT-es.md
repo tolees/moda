@@ -5,7 +5,7 @@ date: 2020-06-18 18:23:33
 image: 'https://m.media-amazon.com/images/I/41zngrUQJZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STWV9JT-es Roxy Viva Sparkle Zapatos de Playa y Piscina para Mujer...'
 sku: 'B07STWV9JT-es'
 tags: [ 'zapatos', ]

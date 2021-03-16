@@ -5,7 +5,7 @@ date: 2020-04-05 22:15:32
 image: 'https://m.media-amazon.com/images/I/41BwfeK+d2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HX672CJ-es GANT D1. Harvest Moon Chiffon Blouse Blusa Marfil Eggshell...'
 sku: 'B07HX672CJ-es'
 tags: [ 'blusa', ]

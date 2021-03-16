@@ -5,7 +5,7 @@ date: 2019-12-31 15:58:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411obqWyiIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MP1JTK-es Geographical Norway Chaqueta Mujer Abby Negro 02'
 sku: 'B082MP1JTK-es'
 tags: [ 'chaqueta', ]

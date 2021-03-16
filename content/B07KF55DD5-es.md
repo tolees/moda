@@ -5,7 +5,7 @@ date: 2020-06-19 10:29:29
 image: 'https://m.media-amazon.com/images/I/41H+spBMCOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF55DD5-es Levi s 502 Regular Taper Vaqueros Azul Kalsomine 0388 28W...'
 sku: 'B07KF55DD5-es'
 tags: [ 'vaqueros', ]

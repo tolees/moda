@@ -5,7 +5,7 @@ date: 2020-08-21 07:52:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fYms8%2B9CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZG4M5H-es SIMYJOY Unisex Regalo de San Valentín Blackpink Sudadera...'
 sku: 'B078ZG4M5H-es'
 tags: [ 'sudadera', ]

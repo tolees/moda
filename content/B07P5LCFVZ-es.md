@@ -5,7 +5,7 @@ date: 2020-02-18 10:35:50
 image: 'https://m.media-amazon.com/images/I/31Aa9XCCCkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5LCFVZ-es Ogeenier Pantalones de Yoga de Mujer Pantalón de Pilates...'
 sku: 'B07P5LCFVZ-es'
 tags: [ 'pantalón', ]

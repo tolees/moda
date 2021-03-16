@@ -5,7 +5,7 @@ date: 2020-09-22 06:16:15
 image: 'https://m.media-amazon.com/images/I/41jkCNjw3DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K71QH8Q-es Levi s Graphic Top Camiseta Deportiva de Tirantes Blanco...'
 sku: 'B07K71QH8Q-es'
 tags: [ 'camiseta', ]

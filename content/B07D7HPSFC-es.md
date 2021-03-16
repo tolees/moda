@@ -5,7 +5,7 @@ date: 2020-02-05 08:00:34
 image: 'https://m.media-amazon.com/images/I/31--ew3eufL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7HPSFC-es Oculus Go Gafas y Auriculares Independientes De Realidad...'
 sku: 'B07D7HPSFC-es'
 tags: [ 'gafas', ]

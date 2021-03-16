@@ -5,7 +5,7 @@ date: 2020-07-16 21:19:01
 image: 'https://m.media-amazon.com/images/I/31vojGkk1EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDBKGDL-es G-STAR RAW 3301 High Waist Skinny Vaqueros Azul lt aged...'
 sku: 'B07MDBKGDL-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-06-25 19:09:52
 image: 'https://m.media-amazon.com/images/I/31GGv6DGrwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9YS7RV-es Marca Amazon - Iris & Lilly Braguita Mujer Pack de 3 Beige...'
 sku: 'B06X9YS7RV-es'
 tags: [ '&','iris','lilly', ]

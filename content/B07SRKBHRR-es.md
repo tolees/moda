@@ -5,7 +5,7 @@ date: 2020-07-06 08:27:32
 image: 'https://m.media-amazon.com/images/I/41srJQhjrJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRKBHRR-es Geox D Airell C Zapatillas para Mujer Blanco White C1000...'
 sku: 'B07SRKBHRR-es'
 tags: [ 'geox', ]

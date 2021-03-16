@@ -5,7 +5,7 @@ date: 2020-01-17 15:40:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41S3qqhaxxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JK3XJ2-es find. D7832 vestido fiesta mujer Negro Schwarz 48 Talla...'
 sku: 'B073JK3XJ2-es'
 tags: [ 'vestido', ]

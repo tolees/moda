@@ -5,7 +5,7 @@ date: 2020-04-22 14:58:09
 image: 'https://m.media-amazon.com/images/I/31k1rLN4ocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXTTZM3-es Dickies Belfry Camiseta Negro X-Large Talla del...'
 sku: 'B07NXTTZM3-es'
 tags: [ 'camiseta', ]

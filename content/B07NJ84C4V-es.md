@@ -5,7 +5,7 @@ date: 2020-04-24 18:28:34
 image: 'https://m.media-amazon.com/images/I/41BPvz6RelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ84C4V-es Springfield 4.1.LIC.Dumbo Camiseta Multicolor Multicolor...'
 sku: 'B07NJ84C4V-es'
 tags: [ 'camiseta', ]

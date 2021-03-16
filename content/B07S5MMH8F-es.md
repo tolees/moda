@@ -5,7 +5,7 @@ date: 2020-04-12 08:28:33
 image: 'https://m.media-amazon.com/images/I/41tW9MHaGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5MMH8F-es BOSS Trunk 2p Gift Co Bóxer Rojo Bright Red 624 XX-Large...'
 sku: 'B07S5MMH8F-es'
 tags: [ 'bóxer', ]

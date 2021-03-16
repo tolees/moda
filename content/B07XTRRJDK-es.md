@@ -5,7 +5,7 @@ date: 2020-05-16 09:38:54
 image: 'https://m.media-amazon.com/images/I/41B03vibvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTRRJDK-es Jack & Jones Jjiglenn Jjoriginal JOS 800 I.K Vaqueros Slim...'
 sku: 'B07XTRRJDK-es'
 tags: [ 'vaqueros', ]

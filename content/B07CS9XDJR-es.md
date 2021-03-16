@@ -5,7 +5,7 @@ date: 2020-05-03 14:10:02
 image: 'https://m.media-amazon.com/images/I/312faqBiC5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CS9XDJR-es Pepe Jeans Soho Vaqueros Violet 28W / 30L para Mujer'
 sku: 'B07CS9XDJR-es'
 tags: [ 'vaqueros', ]

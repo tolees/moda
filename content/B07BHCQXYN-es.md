@@ -5,7 +5,7 @@ date: 2020-06-22 06:01:34
 image: 'https://m.media-amazon.com/images/I/413gxBW1itL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHCQXYN-es Zeewoo Casual Mochila Bolso Aire Libre Ocio Mochila Bolsa...'
 sku: 'B07BHCQXYN-es'
 tags: [ 'bolso', ]

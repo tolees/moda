@@ -5,7 +5,7 @@ date: 2020-06-27 13:13:46
 image: 'https://m.media-amazon.com/images/I/316+2b4bHPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B7W9DCQ-es Geox Piuma G Bailarinas para Niñas Negro Black 9999 39 EU'
 sku: 'B00B7W9DCQ-es'
 tags: [ 'geox', ]

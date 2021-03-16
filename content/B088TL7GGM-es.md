@@ -5,7 +5,7 @@ date: 2020-07-27 15:03:19
 image: 'https://m.media-amazon.com/images/I/41c8vfi9yGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TL7GGM-es Ququcheng Funda Compatible con Huawei P Smart 2019 Cuerda...'
 sku: 'B088TL7GGM-es'
 tags: [ 'collar', ]

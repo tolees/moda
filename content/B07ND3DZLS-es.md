@@ -5,7 +5,7 @@ date: 2020-03-03 10:53:59
 image: 'https://m.media-amazon.com/images/I/41efOzhiojL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND3DZLS-es Billabong Sunlight Zapatos de Playa y Piscina para Mujer...'
 sku: 'B07ND3DZLS-es'
 tags: [ 'zapatos', ]

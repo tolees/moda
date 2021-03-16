@@ -5,7 +5,7 @@ date: 2020-08-20 07:55:38
 image: 'https://m.media-amazon.com/images/I/318fi27V6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMRKNVX-es Clarks Stanford Walk Zapatos de Cordones Derby Negro Black...'
 sku: 'B07TMRKNVX-es'
 tags: [ 'zapatos', ]

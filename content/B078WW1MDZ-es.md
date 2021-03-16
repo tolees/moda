@@ -5,7 +5,7 @@ date: 2020-05-13 16:06:43
 image: 'https://m.media-amazon.com/images/I/31HRgi08m2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WW1MDZ-es PUMA Liga CR Jr Camiseta de Fútbol Unisex Niños Negro...'
 sku: 'B078WW1MDZ-es'
 tags: [ 'camiseta', ]

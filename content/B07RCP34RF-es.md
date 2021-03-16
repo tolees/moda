@@ -5,7 +5,7 @@ date: 2020-01-22 06:12:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OfwDcVd%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCP34RF-es Columbia Lake 22 Chaqueta De Plumón con Capucha Mujer...'
 sku: 'B07RCP34RF-es'
 tags: [ 'chaqueta', ]

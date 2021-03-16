@@ -5,7 +5,7 @@ date: 2020-04-09 09:45:44
 image: 'https://m.media-amazon.com/images/I/51N7vB0Xp2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPSWMC-es Pepe Jeans Nouvelle Sudadera Grey Marl 933 9-10 años Talla...'
 sku: 'B07MZPSWMC-es'
 tags: [ 'sudadera', ]

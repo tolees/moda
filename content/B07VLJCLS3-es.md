@@ -5,7 +5,7 @@ date: 2020-07-16 19:05:00
 image: 'https://m.media-amazon.com/images/I/21hJBz8nKCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLJCLS3-es Calvin Klein 2pk Tees Top de Pijama Blanco 1white/1unique...'
 sku: 'B07VLJCLS3-es'
 tags: [ 'pijama', ]

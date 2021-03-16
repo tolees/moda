@@ -5,7 +5,7 @@ date: 2020-02-10 20:43:23
 image: 'https://m.media-amazon.com/images/I/31QHpe9G97L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQZZG8-es Pepe Jeans Margaret Camiseta Mousse 808 3-4 Talla del...'
 sku: 'B07MZQZZG8-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-03 06:42:40
 image: 'https://m.media-amazon.com/images/I/514q5PRFSZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG11LZD-es CADeN Camera Hombro Bolsa de Mensajero Mochila de Lona...'
 sku: 'B06XG11LZD-es'
 tags: [ 'bolso', ]

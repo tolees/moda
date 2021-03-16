@@ -5,7 +5,7 @@ date: 2020-08-19 11:13:07
 image: 'https://m.media-amazon.com/images/I/4112IMjkL9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMGQTMR-es FM London Fitted Boxer Negro Black 01 Large Pack de 8 para...'
 sku: 'B07TMGQTMR-es'
 tags: [ 'boxer', ]

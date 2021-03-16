@@ -5,7 +5,7 @@ date: 2020-02-01 13:04:24
 image: 'https://m.media-amazon.com/images/I/41GwpDgOeQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9HVS8G-es Under Armour Armour Insulated Hooded Chaqueta Hombre Azul MD'
 sku: 'B07L9HVS8G-es'
 tags: [ 'chaqueta', ]

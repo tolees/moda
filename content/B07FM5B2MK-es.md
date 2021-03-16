@@ -5,7 +5,7 @@ date: 2020-02-24 11:45:27
 image: 'https://m.media-amazon.com/images/I/51BUI1OXyFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM5B2MK-es De Mujer con Cuello en V Profunda con Volantes Lunares...'
 sku: 'B07FM5B2MK-es'
 tags: [ 'abrigo','vestido', ]

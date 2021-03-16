@@ -5,7 +5,7 @@ date: 2020-01-21 16:42:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41R7WfWDHJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RF8VLTY-es Fila Disruptor 2 Premium Metallic Mujeres Zapatillas Moda...'
 sku: 'B07RF8VLTY-es'
 tags: [ 'moda', ]

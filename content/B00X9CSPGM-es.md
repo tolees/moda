@@ -5,7 +5,7 @@ date: 2020-01-11 21:50:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IB8yU45ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9CSPGM-es Timberland Larchmont Waterproof Zapatillas Chukka para...'
 sku: 'B00X9CSPGM-es'
 tags: [ 'timberland', ]

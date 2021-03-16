@@ -5,7 +5,7 @@ date: 2020-09-10 17:15:02
 image: 'https://m.media-amazon.com/images/I/61B07nBhBOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCR439D-es Marcadores textiles RATEL 24 colores Marcadores de tela y...'
 sku: 'B07VCR439D-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-22 18:39:15
 image: 'https://m.media-amazon.com/images/I/516zrTk10fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPYHN15-es New front Zapatos de Princesa Niñas Bailarina Sandalias...'
 sku: 'B07SPYHN15-es'
 tags: [ 'sandalias','zapatilla','zapatos', ]

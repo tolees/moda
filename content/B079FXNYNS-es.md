@@ -5,7 +5,7 @@ date: 2020-07-05 04:18:25
 image: 'https://m.media-amazon.com/images/I/412LWRv8T3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FXNYNS-es Under Armour Sportstyle Cotton Logo Shorts Pantalón Corto...'
 sku: 'B079FXNYNS-es'
 tags: [ 'pantalón', ]

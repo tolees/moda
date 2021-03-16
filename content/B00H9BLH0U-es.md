@@ -5,7 +5,7 @@ date: 2020-09-26 10:14:19
 image: 'https://m.media-amazon.com/images/I/41m614mDyGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H9BLH0U-es Geox J ARTACH Boy A Zapatillas para Niños Negro Black...'
 sku: 'B00H9BLH0U-es'
 tags: [ 'geox', ]

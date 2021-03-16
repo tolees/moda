@@ -5,7 +5,7 @@ date: 2020-01-16 08:05:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316DhYcxnKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDHXFXT-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Irish Sea...'
 sku: 'B07FDHXFXT-es'
 tags: [ 'vaqueros', ]

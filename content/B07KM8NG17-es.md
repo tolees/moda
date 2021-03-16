@@ -5,7 +5,7 @@ date: 2020-08-24 12:37:51
 image: 'https://m.media-amazon.com/images/I/31HpY+cy6YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KM8NG17-es Yakmoo Bolso de Cintura Estilo Militar Táctico Bolsa de...'
 sku: 'B07KM8NG17-es'
 tags: [ 'bolso', ]

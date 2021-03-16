@@ -5,7 +5,7 @@ date: 2020-02-05 20:10:16
 image: 'https://m.media-amazon.com/images/I/41+IPlsSs5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN8Y5L8-es MTNG 50740 Sandalias con Plataforma para Mujer Beige Antil...'
 sku: 'B07MN8Y5L8-es'
 tags: [ 'sandalias', ]

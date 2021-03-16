@@ -5,7 +5,7 @@ date: 2020-09-17 08:10:21
 image: 'https://m.media-amazon.com/images/I/41TNmyuUxaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IPFNQZ2-es Helly Hansen Crew Chaqueta deportiva Hombre Azul Azul Navy...'
 sku: 'B01IPFNQZ2-es'
 tags: [ 'chaqueta', ]

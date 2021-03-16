@@ -5,7 +5,7 @@ date: 2020-02-20 08:16:35
 image: 'https://m.media-amazon.com/images/I/51mfltcTteL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001RADKYK-es Widmann -Conjunto de motorista - guantes 2 pulseras collar...'
 sku: 'B001RADKYK-es'
 tags: [ 'collar','guantes', ]

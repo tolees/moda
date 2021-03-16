@@ -5,7 +5,7 @@ date: 2020-08-25 17:29:11
 image: 'https://m.media-amazon.com/images/I/31BYxz7rd5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SF2KX4M-es PUMA Cozy Flip Zapatos de Playa y Piscina Unisex-Adulto...'
 sku: 'B07SF2KX4M-es'
 tags: [ 'zapatos', ]

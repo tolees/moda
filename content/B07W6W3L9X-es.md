@@ -5,7 +5,7 @@ date: 2020-04-28 10:40:44
 image: 'https://m.media-amazon.com/images/I/415sCsoBdWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6W3L9X-es JACK & JONES Jorpannel Knit Crew Neck. Jersey Azul Navy...'
 sku: 'B07W6W3L9X-es'
 tags: [ 'jersey', ]

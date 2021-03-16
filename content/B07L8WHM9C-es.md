@@ -5,7 +5,7 @@ date: 2020-05-13 17:44:21
 image: 'https://m.media-amazon.com/images/I/41k0KlEYeSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8WHM9C-es REPLAY W2266a.000.52166 Blusa Multicolor Blue/Red/Azule 10...'
 sku: 'B07L8WHM9C-es'
 tags: [ 'blusa', ]

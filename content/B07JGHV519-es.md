@@ -5,7 +5,7 @@ date: 2020-03-16 09:20:03
 image: 'https://m.media-amazon.com/images/I/41djUE2bv4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGHV519-es Pepe Jeans Antonia Pl504170 Camiseta Optic White 802...'
 sku: 'B07JGHV519-es'
 tags: [ 'camiseta', ]

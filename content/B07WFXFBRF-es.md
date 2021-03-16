@@ -5,7 +5,7 @@ date: 2020-08-11 07:36:36
 image: 'https://m.media-amazon.com/images/I/31zoi872ZHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFXFBRF-es SALOMON Agile Training tee M Camiseta de Manga Corta...'
 sku: 'B07WFXFBRF-es'
 tags: [ 'camiseta', ]

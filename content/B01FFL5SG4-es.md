@@ -5,7 +5,7 @@ date: 2020-06-24 03:14:34
 image: 'https://m.media-amazon.com/images/I/41FatumAT-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFL5SG4-es Under Armour Heatgear Long Compression Pantalón De...'
 sku: 'B01FFL5SG4-es'
 tags: [ 'pantalón', ]

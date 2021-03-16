@@ -5,7 +5,7 @@ date: 2020-04-05 20:26:14
 image: 'https://m.media-amazon.com/images/I/41msgadtTZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYL1T1-es Geox J GRAYJAY Boy C Zapatillas Altas para Niños Azul Navy...'
 sku: 'B07LFYL1T1-es'
 tags: [ 'geox', ]

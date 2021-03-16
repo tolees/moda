@@ -5,7 +5,7 @@ date: 2020-05-29 08:14:54
 image: 'https://m.media-amazon.com/images/I/31XxSomb2uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG2KH9G-es Crocs Swiftwater Sandal Women Sandalias de Punta...'
 sku: 'B07KG2KH9G-es'
 tags: [ 'sandalias', ]

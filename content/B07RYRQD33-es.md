@@ -5,7 +5,7 @@ date: 2020-03-15 15:12:42
 image: 'https://m.media-amazon.com/images/I/41vg3vMKFAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYRQD33-es Lacoste - Camisa Punto Manga Larga Hombre - Ch0564'
 sku: 'B07RYRQD33-es'
 tags: [ 'camisa', ]

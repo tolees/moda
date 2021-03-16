@@ -5,7 +5,7 @@ date: 2020-01-16 17:56:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51aq9rKKbCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JX953CL-es Amazon Essentials - Camisa informal de popelín de manga...'
 sku: 'B07JX953CL-es'
 tags: [ 'camisa', ]

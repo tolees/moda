@@ -5,7 +5,7 @@ date: 2020-01-18 13:16:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qL2Q8K-zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF666LL-es Levi s SS Battery Hm Shirt Camisa Blanco White X 0000...'
 sku: 'B07KF666LL-es'
 tags: [ 'camisa', ]

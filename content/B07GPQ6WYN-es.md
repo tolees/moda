@@ -5,7 +5,7 @@ date: 2020-02-01 02:22:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412Ag7DK3-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPQ6WYN-es JOGVELO Maillot Ciclismo Ropa Ciclismo Conjunto Hombre...'
 sku: 'B07GPQ6WYN-es'
 tags: [ 'jersey', ]

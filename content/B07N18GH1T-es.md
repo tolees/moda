@@ -5,7 +5,7 @@ date: 2020-06-06 16:39:43
 image: 'https://m.media-amazon.com/images/I/41h5tUrCcsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18GH1T-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros Azul Faded...'
 sku: 'B07N18GH1T-es'
 tags: [ 'vaqueros', ]

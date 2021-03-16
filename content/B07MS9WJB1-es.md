@@ -5,7 +5,7 @@ date: 2020-05-14 16:31:44
 image: 'https://m.media-amazon.com/images/I/51QUtMGXAEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MS9WJB1-es TWBB Sudadera para Hombre Abrigo de la Chaqueta de la...'
 sku: 'B07MS9WJB1-es'
 tags: [ 'abrigo','chaqueta','sudadera', ]

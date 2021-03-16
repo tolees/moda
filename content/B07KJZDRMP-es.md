@@ -5,7 +5,7 @@ date: 2020-06-23 16:18:16
 image: 'https://m.media-amazon.com/images/I/51Lhbf8HDGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJZDRMP-es Under Armour Under Armour Crossbody 1327794-408 Bolso...'
 sku: 'B07KJZDRMP-es'
 tags: [ 'bolso', ]

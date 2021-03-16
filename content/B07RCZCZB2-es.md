@@ -5,7 +5,7 @@ date: 2020-02-28 10:40:33
 image: 'https://m.media-amazon.com/images/I/418F65j5ahL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCZCZB2-es G-STAR RAW Attacc Quilted Hooded Chaqueta Negro Dk Black...'
 sku: 'B07RCZCZB2-es'
 tags: [ 'chaqueta', ]

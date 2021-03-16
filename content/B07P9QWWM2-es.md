@@ -5,7 +5,7 @@ date: 2020-01-22 20:52:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4157kufxE%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9QWWM2-es ESCATCH - Pantalón de Ropa de Pijama de Verano para...'
 sku: 'B07P9QWWM2-es'
 tags: [ 'pantalón','pijama', ]

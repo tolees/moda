@@ -5,7 +5,7 @@ date: 2020-01-29 19:51:27
 image: 'https://m.media-amazon.com/images/I/41kv84a6qIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N176BHY-es Lee Logo tee Camiseta para Hombre Rojo Warp Red Kg XX-Large'
 sku: 'B07N176BHY-es'
 tags: [ 'camiseta', ]

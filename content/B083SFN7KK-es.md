@@ -5,7 +5,7 @@ date: 2020-04-28 16:45:34
 image: 'https://m.media-amazon.com/images/I/51R-EMhd8JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SFN7KK-es HUTACT Telescopio Terrestre 20-60X80 Telescopio Monocular...'
 sku: 'B083SFN7KK-es'
 tags: [ 'bolso', ]

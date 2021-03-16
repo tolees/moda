@@ -5,7 +5,7 @@ date: 2020-01-11 21:55:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31TDgGKd5YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3HKLPS-es Tommy Hilfiger Essential Boxy Flag S/s Camiseta Azul Black...'
 sku: 'B07L3HKLPS-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 22:13:46
 image: 'https://m.media-amazon.com/images/I/31dnHNzdGIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1BK4SF-es GRACE KARIN Mujer Bolero Chaqueta Corta Suave Cómodo...'
 sku: 'B07K1BK4SF-es'
 tags: [ 'chaqueta', ]

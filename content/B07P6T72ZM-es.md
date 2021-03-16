@@ -5,7 +5,7 @@ date: 2020-06-25 19:08:40
 image: 'https://m.media-amazon.com/images/I/313k4cSoBAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6T72ZM-es Tous Brunock Chain Bolso Mochila para Mujer Beige Topo...'
 sku: 'B07P6T72ZM-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-06-15 05:58:59
 image: 'https://m.media-amazon.com/images/I/51VZYr1El2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5LJF92-es Jack & Jones Jjegingham Shirt L/s Camisa Multicolor White...'
 sku: 'B07C5LJF92-es'
 tags: [ 'camisa', ]

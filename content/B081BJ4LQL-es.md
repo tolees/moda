@@ -5,7 +5,7 @@ date: 2020-09-16 11:17:09
 image: 'https://m.media-amazon.com/images/I/41GKFupVQIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BJ4LQL-es Columbia Powder Pass Chaqueta Híbrida sin Mangas Hombre...'
 sku: 'B081BJ4LQL-es'
 tags: [ 'chaqueta', ]

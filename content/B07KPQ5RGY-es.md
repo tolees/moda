@@ -5,7 +5,7 @@ date: 2020-03-15 04:53:48
 image: 'https://m.media-amazon.com/images/I/41HtH6r+V3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPQ5RGY-es Gant O2. Striped Flared Dress Vestido para Mujer Azul...'
 sku: 'B07KPQ5RGY-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-10-08 14:25:38
 image: 'https://m.media-amazon.com/images/I/418fr7IBYNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLX21GY-es Mavi Frida Falda Negro Smoke Random Embelished 29954 Small...'
 sku: 'B07RLX21GY-es'
 tags: [ 'falda', ]

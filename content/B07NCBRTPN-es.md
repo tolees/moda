@@ -5,7 +5,7 @@ date: 2020-04-29 21:55:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Afc69boKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCBRTPN-es Pepe Jeans Mable Vaqueros Straight Azul Light Used Denim...'
 sku: 'B07NCBRTPN-es'
 tags: [ 'vaqueros', ]

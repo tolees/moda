@@ -5,7 +5,7 @@ date: 2020-01-08 18:36:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OHKcm5WGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZUY6T1K-es REEF Fanning Sandalias Flip-Flop para Hombre Negro Black /...'
 sku: 'B00ZUY6T1K-es'
 tags: [ 'sandalias', ]

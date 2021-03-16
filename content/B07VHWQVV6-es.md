@@ -5,7 +5,7 @@ date: 2020-01-20 12:18:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TJETrcLzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHWQVV6-es Esprit 099EE1K016s Camiseta de Manga Larga Azul Navy 2 401...'
 sku: 'B07VHWQVV6-es'
 tags: [ 'camiseta', ]

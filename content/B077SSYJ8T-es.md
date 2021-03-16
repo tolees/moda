@@ -5,7 +5,7 @@ date: 2020-09-24 06:29:18
 image: 'https://m.media-amazon.com/images/I/31W46VkdR-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SSYJ8T-es Puma 655921 05 Camiseta de Manga Larga Infantil Negro Puma...'
 sku: 'B077SSYJ8T-es'
 tags: [ 'camiseta', ]

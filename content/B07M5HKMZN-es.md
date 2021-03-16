@@ -5,7 +5,7 @@ date: 2020-02-03 20:58:25
 image: 'https://m.media-amazon.com/images/I/31kWviN2seL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5HKMZN-es Geox M Vincit G Abrigo Negro Black F9000 XXX-Large Talla...'
 sku: 'B07M5HKMZN-es'
 tags: [ 'abrigo','geox', ]

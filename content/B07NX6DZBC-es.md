@@ -5,7 +5,7 @@ date: 2020-02-02 22:55:40
 image: 'https://m.media-amazon.com/images/I/412JCj76KnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NX6DZBC-es Superdry Vintage Logo Pop Entry Hood Sudadera Azul Eclipse...'
 sku: 'B07NX6DZBC-es'
 tags: [ 'sudadera', ]

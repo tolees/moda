@@ -5,7 +5,7 @@ date: 2020-09-06 07:05:23
 image: 'https://m.media-amazon.com/images/I/410B0ddBeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NNSH7R-es PUMA Liga Casual Sudadera Hombre Peacoat / White M'
 sku: 'B078NNSH7R-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-07-06 20:41:28
 image: 'https://m.media-amazon.com/images/I/31QkUjViN-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYNZBHZ-es Uvex sportstyle 803 small CV Gafas de deporte Adultos...'
 sku: 'B07FYNZBHZ-es'
 tags: [ 'gafas', ]

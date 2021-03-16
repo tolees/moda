@@ -5,7 +5,7 @@ date: 2020-01-08 20:42:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uczkB98yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SF8JDJI-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros Medium Aged 6131...'
 sku: 'B00SF8JDJI-es'
 tags: [ 'vaqueros', ]

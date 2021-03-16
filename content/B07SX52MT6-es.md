@@ -5,7 +5,7 @@ date: 2020-04-24 11:37:42
 image: 'https://m.media-amazon.com/images/I/416iP-co9DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SX52MT6-es Marca Amazon - MERAKI Calcetines por Media Pierna de...'
 sku: 'B07SX52MT6-es'
 tags: [ 'meraki', ]

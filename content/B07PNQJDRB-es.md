@@ -5,7 +5,7 @@ date: 2020-04-14 08:34:52
 image: 'https://m.media-amazon.com/images/I/31jco3Qwm8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNQJDRB-es Calvin Klein Core Monogram Logo Sweatshirt Sudadera Gris...'
 sku: 'B07PNQJDRB-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-08-14 10:21:08
 image: 'https://m.media-amazon.com/images/I/31LIaB8y3TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GP7WSJ4-es Skechers On-The-go 600-Flawless Sandalias de Talón Abierto...'
 sku: 'B07GP7WSJ4-es'
 tags: [ 'sandalias', ]

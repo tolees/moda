@@ -5,7 +5,7 @@ date: 2020-04-30 15:26:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Bshj%2Bov8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WW5PJH7-es Sloggi Men 24/7 Microfibre H Hipster C2p Boxer Hombre...'
 sku: 'B06WW5PJH7-es'
 tags: [ 'boxer', ]

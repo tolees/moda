@@ -5,7 +5,7 @@ date: 2020-05-01 19:26:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ssqZamcmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PND2SG-es MERAKI Anorak Mujer con Cuello Alto Plateado Silver X-Large'
 sku: 'B076PND2SG-es'
 tags: [ 'meraki', ]

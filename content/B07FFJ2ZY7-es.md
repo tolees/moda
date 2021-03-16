@@ -5,7 +5,7 @@ date: 2020-04-19 17:22:03
 image: 'https://m.media-amazon.com/images/I/41-MCtMW-IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFJ2ZY7-es Roxy Essential Element Chaqueta Mujer Verde Burnt Olive...'
 sku: 'B07FFJ2ZY7-es'
 tags: [ 'chaqueta', ]

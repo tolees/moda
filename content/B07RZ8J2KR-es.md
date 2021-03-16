@@ -5,7 +5,7 @@ date: 2020-02-22 10:52:55
 image: 'https://m.media-amazon.com/images/I/312gG5V8pLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ8J2KR-es Levi s Vneck Camiseta Azul Sea Captain Blue 0005 Small...'
 sku: 'B07RZ8J2KR-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-21 14:08:30
 image: 'https://m.media-amazon.com/images/I/41KLpwLYCYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019IKN8M4-es Keysui Mascotas fiesta traje Formal traje ropa abrigo para...'
 sku: 'B019IKN8M4-es'
 tags: [ 'abrigo', ]

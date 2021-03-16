@@ -5,7 +5,7 @@ date: 2020-07-13 03:58:15
 image: 'https://m.media-amazon.com/images/I/31tawiXq6TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQRHKRH-es Camiseta y Pantalón Corto Riverdale Adolescente Chica...'
 sku: 'B07MQRHKRH-es'
 tags: [ 'camiseta','pantalón', ]

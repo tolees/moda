@@ -5,7 +5,7 @@ date: 2020-01-19 11:51:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31w4wEbzJLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079V4ZDPB-es Wrangler Skinny Vaqueros Skinny Mujer Azul Tainted Blue...'
 sku: 'B079V4ZDPB-es'
 tags: [ 'vaqueros', ]

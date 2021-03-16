@@ -5,7 +5,7 @@ date: 2020-04-26 11:33:14
 image: 'https://m.media-amazon.com/images/I/411ySQ1degL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNVCM8J-es Leggins de Sudoracion Adelgazantes Mujer Fitness...'
 sku: 'B07PNVCM8J-es'
 tags: [ 'leggins', ]

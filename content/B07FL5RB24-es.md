@@ -5,7 +5,7 @@ date: 2020-09-02 17:51:04
 image: 'https://m.media-amazon.com/images/I/31JmiAZpvLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FL5RB24-es Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes...'
 sku: 'B07FL5RB24-es'
 tags: [ 'camiseta', ]

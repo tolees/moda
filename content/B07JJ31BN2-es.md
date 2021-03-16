@@ -5,7 +5,7 @@ date: 2020-03-02 13:13:17
 image: 'https://m.media-amazon.com/images/I/41BAak7IaQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ31BN2-es Lonsdale - Chaqueta - Universidad - Manga Larga - para...'
 sku: 'B07JJ31BN2-es'
 tags: [ 'chaqueta', ]

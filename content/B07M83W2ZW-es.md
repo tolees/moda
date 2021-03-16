@@ -5,7 +5,7 @@ date: 2020-01-18 08:46:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xtBThVLfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M83W2ZW-es Napapijri K Rainforest 1 Chaqueta Rosa Dahlia Pink PA5 4...'
 sku: 'B07M83W2ZW-es'
 tags: [ 'chaqueta', ]

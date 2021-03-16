@@ -5,7 +5,7 @@ date: 2020-01-09 15:22:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XDd8o3XcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CUSC1PM-es Spalding Attack Tank Top Camiseta De Equipaciones Manga...'
 sku: 'B00CUSC1PM-es'
 tags: [ 'camiseta', ]

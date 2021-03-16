@@ -5,7 +5,7 @@ date: 2020-08-04 11:09:39
 image: 'https://m.media-amazon.com/images/I/41nJJaf-71L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002VM7POE-es CATWALK COLLECTION - MARTINA - Bolso de mano - Cuero - Blanco'
 sku: 'B002VM7POE-es'
 tags: [ 'bolso', ]

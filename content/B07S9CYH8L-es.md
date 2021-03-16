@@ -5,7 +5,7 @@ date: 2020-07-17 16:32:53
 image: 'https://m.media-amazon.com/images/I/41vG2Z7HHfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9CYH8L-es Lee Relaxed Fit tee Camiseta Negro Black 01 Medium para Mujer'
 sku: 'B07S9CYH8L-es'
 tags: [ 'camiseta', ]

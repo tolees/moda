@@ -5,7 +5,7 @@ date: 2020-01-26 10:48:58
 image: 'https://m.media-amazon.com/images/I/41hZUEsQ3YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ3DNHQ-es Lee Daren Zip Fly Vaqueros Rectos Azul Time out Dn 36W /...'
 sku: 'B07CQ3DNHQ-es'
 tags: [ 'vaqueros', ]

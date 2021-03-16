@@ -5,7 +5,7 @@ date: 2020-04-01 07:01:57
 image: 'https://m.media-amazon.com/images/I/51F4uxYWfbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9Z3VP9-es United Colors of Benetton Layette BB B2 Camiseta de Manga...'
 sku: 'B07M9Z3VP9-es'
 tags: [ 'camiseta', ]

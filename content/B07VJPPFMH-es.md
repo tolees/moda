@@ -5,7 +5,7 @@ date: 2020-08-10 19:44:33
 image: 'https://m.media-amazon.com/images/I/31g0EvHtpAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJPPFMH-es HUGO Elisha02 Camisa Negro Black 1 38 para Hombre'
 sku: 'B07VJPPFMH-es'
 tags: [ 'camisa', ]

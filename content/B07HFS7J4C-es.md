@@ -5,7 +5,7 @@ date: 2020-08-26 13:35:06
 image: 'https://m.media-amazon.com/images/I/41Dv5lXMhjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFS7J4C-es Crocs Baya Clog Kids Zuecos Unisex Niños Negro Black 001...'
 sku: 'B07HFS7J4C-es'
 tags: [ 'zuecos', ]

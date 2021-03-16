@@ -5,7 +5,7 @@ date: 2020-06-23 16:56:18
 image: 'https://m.media-amazon.com/images/I/3101IEmiofL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075BJCYKF-es Marca Amazon - MERAKI Falda Maxi Slim Fit Mujer Negro...'
 sku: 'B075BJCYKF-es'
 tags: [ 'falda','meraki', ]

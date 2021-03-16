@@ -5,7 +5,7 @@ date: 2020-04-10 16:15:37
 image: 'https://m.media-amazon.com/images/I/31iOSMn2UEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086W1ZRVH-es Lil Yachty Vestido Asimetrico Mujer Mangas Largas Camisa...'
 sku: 'B086W1ZRVH-es'
 tags: [ 'blusa','camisa','sudadera','vestido', ]

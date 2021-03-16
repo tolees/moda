@@ -5,7 +5,7 @@ date: 2020-01-14 11:16:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LYZAxC6ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075D89QRM-es INBIKE Guantes Calientes De Ciclismo De Invierno Guantes...'
 sku: 'B075D89QRM-es'
 tags: [ 'guantes', ]

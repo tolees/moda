@@ -5,7 +5,7 @@ date: 2020-02-09 13:22:58
 image: 'https://m.media-amazon.com/images/I/31ihE7BWqTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001QOL0YE-es Levi s 501 Original Fit Jeans Vaqueros Negro Black 0165...'
 sku: 'B001QOL0YE-es'
 tags: [ 'vaqueros', ]

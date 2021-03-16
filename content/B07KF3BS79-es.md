@@ -5,7 +5,7 @@ date: 2020-06-25 18:38:15
 image: 'https://m.media-amazon.com/images/I/31cNgC6TZCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF3BS79-es Levi s Plus Size 311 Pl Shaping Skinny Vaqueros Light A...'
 sku: 'B07KF3BS79-es'
 tags: [ 'vaqueros', ]

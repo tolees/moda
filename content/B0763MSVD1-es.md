@@ -5,7 +5,7 @@ date: 2020-02-25 20:16:38
 image: 'https://m.media-amazon.com/images/I/51mFHhgbCkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0763MSVD1-es Marvel Avengers - Camiseta para hombre - Thor - Large'
 sku: 'B0763MSVD1-es'
 tags: [ 'camiseta', ]

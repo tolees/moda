@@ -5,7 +5,7 @@ date: 2020-06-27 10:55:45
 image: 'https://m.media-amazon.com/images/I/41X7oIjS3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQFYY5V-es Geox B Shaax A Zapatillas para Bebés Rosa Pink C8004 25 EU'
 sku: 'B07SQFYY5V-es'
 tags: [ 'geox', ]

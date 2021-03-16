@@ -5,7 +5,7 @@ date: 2020-04-08 17:38:36
 image: 'https://m.media-amazon.com/images/I/31K1UHrE3kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008X3RW3O-es Geox U Federico W Zapatos Derby para Hombre Negro Black...'
 sku: 'B008X3RW3O-es'
 tags: [ 'geox','zapatos', ]

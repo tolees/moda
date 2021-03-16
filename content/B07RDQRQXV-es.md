@@ -5,7 +5,7 @@ date: 2020-03-22 15:48:37
 image: 'https://m.media-amazon.com/images/I/41YT+5ak9eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDQRQXV-es Tommy Hilfiger TJM Novel Logo Crew Jersey de Deporte Gris...'
 sku: 'B07RDQRQXV-es'
 tags: [ 'jersey', ]

@@ -5,7 +5,7 @@ date: 2020-08-18 23:57:37
 image: 'https://m.media-amazon.com/images/I/31TymS8MGFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGQMGHB-es Tommy Hilfiger Tjw Logo Text tee Camiseta Blanco White Ya2...'
 sku: 'B07RGQMGHB-es'
 tags: [ 'camiseta', ]

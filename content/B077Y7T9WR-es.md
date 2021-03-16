@@ -5,7 +5,7 @@ date: 2020-05-29 12:07:10
 image: 'https://m.media-amazon.com/images/I/41fuPhx6RPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y7T9WR-es HIKARO Sudadera con Print Mujer Rosa Coral 40 Talla del...'
 sku: 'B077Y7T9WR-es'
 tags: [ 'sudadera', ]

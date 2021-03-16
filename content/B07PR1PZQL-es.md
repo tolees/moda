@@ -5,7 +5,7 @@ date: 2020-09-30 16:26:28
 image: 'https://m.media-amazon.com/images/I/31+hUWA3C5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PR1PZQL-es CARE OF by PUMA Sudadera con capucha de manga larga para...'
 sku: 'B07PR1PZQL-es'
 tags: [ 'sudadera', ]

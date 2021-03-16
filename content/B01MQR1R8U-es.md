@@ -5,7 +5,7 @@ date: 2020-10-05 18:43:43
 image: 'https://m.media-amazon.com/images/I/41v2i18UgaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQR1R8U-es Columbia Carson Pass II Chaqueta para Mujer Negro M'
 sku: 'B01MQR1R8U-es'
 tags: [ 'chaqueta', ]

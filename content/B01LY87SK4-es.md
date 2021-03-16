@@ -5,7 +5,7 @@ date: 2020-03-24 21:40:21
 image: 'https://m.media-amazon.com/images/I/31vn2U7-c4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY87SK4-es Trangoworld Inobe Termic Parka Hombre Kaki 2XL'
 sku: 'B01LY87SK4-es'
 tags: [ 'parka', ]

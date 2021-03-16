@@ -5,7 +5,7 @@ date: 2020-08-07 14:57:21
 image: 'https://m.media-amazon.com/images/I/51-jXmF1X-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRTHZ6G-es UMIPUBO Mujer Ropa de Baño Crochet Vestido de Playa V...'
 sku: 'B07BRTHZ6G-es'
 tags: [ 'bikini','vestido', ]

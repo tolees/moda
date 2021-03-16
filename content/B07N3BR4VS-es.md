@@ -5,7 +5,7 @@ date: 2020-10-06 19:23:12
 image: 'https://m.media-amazon.com/images/I/41zmLQ39g1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3BR4VS-es Desigual Coat AGGU Abrigo Negro Negro 2000 44 para Mujer'
 sku: 'B07N3BR4VS-es'
 tags: [ 'abrigo', ]

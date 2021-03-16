@@ -5,7 +5,7 @@ date: 2020-04-22 22:23:11
 image: 'https://m.media-amazon.com/images/I/41uPLhR4DKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016REH5HS-es adidas Parma 16 Sho - Pantalón corto para Niños Negro...'
 sku: 'B016REH5HS-es'
 tags: [ 'pantalón', ]

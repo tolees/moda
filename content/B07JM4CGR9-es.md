@@ -5,7 +5,7 @@ date: 2020-02-10 13:53:16
 image: 'https://m.media-amazon.com/images/I/31geE-duFiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM4CGR9-es Lee Basic Graphic Crew Sudadera Azul Sky Captain Hy XX-...'
 sku: 'B07JM4CGR9-es'
 tags: [ 'sudadera', ]

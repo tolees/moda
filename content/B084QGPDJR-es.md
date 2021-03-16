@@ -5,7 +5,7 @@ date: 2020-06-24 09:52:54
 image: 'https://m.media-amazon.com/images/I/517qrZ-W2AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084QGPDJR-es Taglory Collar Perro Ajustable Estilo Único Collar...'
 sku: 'B084QGPDJR-es'
 tags: [ 'collar', ]

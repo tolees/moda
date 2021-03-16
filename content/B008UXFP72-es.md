@@ -5,7 +5,7 @@ date: 2020-02-01 11:10:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LTtxQEMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008UXFP72-es Surplus - Pantalón Chino para Mujer Talla W33/L30...'
 sku: 'B008UXFP72-es'
 tags: [ 'pantalón', ]

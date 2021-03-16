@@ -5,7 +5,7 @@ date: 2020-04-17 00:34:08
 image: 'https://m.media-amazon.com/images/I/51GiUEKxQ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPSWZN8-es Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de...'
 sku: 'B07NPSWZN8-es'
 tags: [ 'chaleco','chaqueta', ]

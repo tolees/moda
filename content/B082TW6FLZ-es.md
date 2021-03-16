@@ -5,7 +5,7 @@ date: 2020-08-13 15:45:43
 image: 'https://m.media-amazon.com/images/I/51BvPjUyDNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082TW6FLZ-es Hub USB C Adaptador USB C 11 en 1 con 4 USB3.0/2.0 4K HDMI...'
 sku: 'B082TW6FLZ-es'
 tags: [ 'chaqueta', ]

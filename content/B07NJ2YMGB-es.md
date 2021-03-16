@@ -5,7 +5,7 @@ date: 2020-04-10 19:36:29
 image: 'https://m.media-amazon.com/images/I/5148-HhgW8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ2YMGB-es Springfield 1.Gym.MD.Corto Cruzado Vestido Multicolor...'
 sku: 'B07NJ2YMGB-es'
 tags: [ 'vestido', ]

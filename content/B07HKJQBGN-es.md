@@ -5,7 +5,7 @@ date: 2020-04-05 10:34:18
 image: 'https://m.media-amazon.com/images/I/4137ccisw7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKJQBGN-es Under Armour UA Jet Zapatos de Baloncesto para Hombre...'
 sku: 'B07HKJQBGN-es'
 tags: [ 'zapatos', ]

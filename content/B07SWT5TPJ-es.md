@@ -5,7 +5,7 @@ date: 2020-07-26 18:39:10
 image: 'https://m.media-amazon.com/images/I/41ut0jsM2rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWT5TPJ-es Geox J Rebecca Girl B Zapatillas para Niñas Blanco...'
 sku: 'B07SWT5TPJ-es'
 tags: [ 'geox', ]

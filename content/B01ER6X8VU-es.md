@@ -5,7 +5,7 @@ date: 2020-02-29 16:03:07
 image: 'https://m.media-amazon.com/images/I/31rCC1yeAqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ER6X8VU-es Mercedes-Benz Sonnenbrille M1047 Gafas de sol Negro...'
 sku: 'B01ER6X8VU-es'
 tags: [ 'gafas', ]

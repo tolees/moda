@@ -5,7 +5,7 @@ date: 2020-04-09 18:21:33
 image: 'https://m.media-amazon.com/images/I/31ZOraVvIlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9GP6CH-es Joma Academy Camiseta Termica Hombre Blanco L-XL'
 sku: 'B07G9GP6CH-es'
 tags: [ 'camiseta', ]

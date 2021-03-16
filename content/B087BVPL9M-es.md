@@ -5,7 +5,7 @@ date: 2020-05-26 17:05:18
 image: 'https://m.media-amazon.com/images/I/41AL4+fG2EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087BVPL9M-es Coolcept Mujer Dulce Lazos Zapatos de la Corte Tacón Alto...'
 sku: 'B087BVPL9M-es'
 tags: [ 'zapatos', ]

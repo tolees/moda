@@ -5,7 +5,7 @@ date: 2020-10-12 16:40:57
 image: 'https://m.media-amazon.com/images/I/31JuFDfcQZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXL85K4-es Tommy Hilfiger Jersey Pant Pantalones de Deporte Azul Navy...'
 sku: 'B07MXL85K4-es'
 tags: [ 'jersey', ]

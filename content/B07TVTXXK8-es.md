@@ -5,7 +5,7 @@ date: 2020-02-12 19:45:44
 image: 'https://m.media-amazon.com/images/I/31fHMEJbLWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTXXK8-es Women s Secret British Multilicense MB PE Rain PJ...'
 sku: 'B07TVTXXK8-es'
 tags: [ 'pijama', ]

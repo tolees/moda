@@ -5,7 +5,7 @@ date: 2020-09-30 09:27:46
 image: 'https://m.media-amazon.com/images/I/31R4tCOO4oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K97C1QH-es Crocs Crocband Zuecos Unisex Adulto Rosa Pink...'
 sku: 'B07K97C1QH-es'
 tags: [ 'zuecos', ]

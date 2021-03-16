@@ -5,7 +5,7 @@ date: 2020-02-04 13:29:24
 image: 'https://m.media-amazon.com/images/I/41MunWYuzNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVZX4S4-es LEGO Wear Boy Ninjago Tiger 322-T-shirt Camiseta Azul Dark...'
 sku: 'B07JVZX4S4-es'
 tags: [ 'camiseta', ]

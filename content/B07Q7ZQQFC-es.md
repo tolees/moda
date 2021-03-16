@@ -5,7 +5,7 @@ date: 2020-03-19 10:02:43
 image: 'https://m.media-amazon.com/images/I/31Dzt38L9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7ZQQFC-es Xnuoyo Mochila de Bandolera Bolso de Pecho Hombro...'
 sku: 'B07Q7ZQQFC-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-01-14 11:07:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zw09qNdiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5R9P6S-es Tommy Hilfiger 3p Lr Trunk Bóxer Shorts para Hombre Azul...'
 sku: 'B00K5R9P6S-es'
 tags: [ 'bóxer', ]

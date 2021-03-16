@@ -5,7 +5,7 @@ date: 2020-09-26 14:45:14
 image: 'https://m.media-amazon.com/images/I/31r4UI+zABL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HWQQLW-es FM London Tagless Bóxer Multicolor Assorted Small Pack de...'
 sku: 'B077HWQQLW-es'
 tags: [ 'bóxer', ]

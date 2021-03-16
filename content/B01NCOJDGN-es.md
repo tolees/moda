@@ -5,7 +5,7 @@ date: 2020-02-04 03:51:09
 image: 'https://m.media-amazon.com/images/I/41Hw6tpTp0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCOJDGN-es Gant The Original Slim V-Neck T-Shirt Camiseta Blanco...'
 sku: 'B01NCOJDGN-es'
 tags: [ 'camiseta', ]

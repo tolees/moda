@@ -5,7 +5,7 @@ date: 2020-09-24 10:38:24
 image: 'https://m.media-amazon.com/images/I/41m4jk-0wlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SX45FVY-es Quiksilver Monkey Abyss Youth Zapatos de Playa y Piscina...'
 sku: 'B07SX45FVY-es'
 tags: [ 'zapatos', ]

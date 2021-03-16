@@ -5,7 +5,7 @@ date: 2020-01-10 20:16:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31VKeb52V5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYRM2SW-es Tommy Jeans TJM Contrast Pocket tee Camiseta Multicolor...'
 sku: 'B07JYRM2SW-es'
 tags: [ 'camiseta', ]

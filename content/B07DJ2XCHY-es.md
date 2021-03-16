@@ -5,7 +5,7 @@ date: 2020-01-10 17:21:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-fyMNjt6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2XCHY-es Geox U New Life B Zapatos de Cordones Derby para Hombre...'
 sku: 'B07DJ2XCHY-es'
 tags: [ 'geox','zapatos', ]

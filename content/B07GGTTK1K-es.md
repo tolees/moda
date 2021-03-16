@@ -5,7 +5,7 @@ date: 2020-04-19 13:06:24
 image: 'https://m.media-amazon.com/images/I/41xO18nZjFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGTTK1K-es Battle Royale Pijama para Niños Gaming Multicolor 7-8 Años'
 sku: 'B07GGTTK1K-es'
 tags: [ 'pijama', ]

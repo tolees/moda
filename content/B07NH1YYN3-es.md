@@ -5,7 +5,7 @@ date: 2020-04-15 05:03:52
 image: 'https://m.media-amazon.com/images/I/41mSa-VSk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NH1YYN3-es Strellson Premium Cozer-j Chaqueta de Traje Gris Grey 019...'
 sku: 'B07NH1YYN3-es'
 tags: [ 'chaqueta', ]

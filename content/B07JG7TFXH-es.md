@@ -5,7 +5,7 @@ date: 2020-02-08 15:17:24
 image: 'https://m.media-amazon.com/images/I/51+IZl6weqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG7TFXH-es Pepe Jeans Waylon Pm305927 Camisa Indigo 561 Medium para...'
 sku: 'B07JG7TFXH-es'
 tags: [ 'camisa', ]

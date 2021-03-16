@@ -5,7 +5,7 @@ date: 2020-01-31 23:37:30
 image: 'https://m.media-amazon.com/images/I/31EpqxcBWaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKZDX9T-es Trangoworld PC008106 Pantalón Largo Mujer Azul Profundo XS'
 sku: 'B07FKZDX9T-es'
 tags: [ 'pantalón', ]

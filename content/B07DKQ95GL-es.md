@@ -5,7 +5,7 @@ date: 2020-01-09 15:55:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416Nr9LZnsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKQ95GL-es Dickies Farnham Chaqueta Marrón Medium Talla del...'
 sku: 'B07DKQ95GL-es'
 tags: [ 'chaqueta', ]

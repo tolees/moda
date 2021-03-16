@@ -5,7 +5,7 @@ date: 2020-03-03 18:42:41
 image: 'https://m.media-amazon.com/images/I/41PFdJOwSEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGR5B9R-es edc by Esprit 999cc2k803 Camiseta Rojo Red 630 Small para...'
 sku: 'B07KGR5B9R-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-03-28 07:28:18
 image: 'https://m.media-amazon.com/images/I/41Rb3jmqkWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6LDSWJ-es Under Armour Tactical All Season Chaqueta Hombre Negro MD'
 sku: 'B07L6LDSWJ-es'
 tags: [ 'chaqueta', ]

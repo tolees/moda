@@ -5,7 +5,7 @@ date: 2020-06-23 12:54:14
 image: 'https://m.media-amazon.com/images/I/31LBl-8lPrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8MLWLL-es Marca Amazon - find. Vestido Midi de Satén Mujer Rojo...'
 sku: 'B07P8MLWLL-es'
 tags: [ '-','find.','vestido', ]

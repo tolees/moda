@@ -5,7 +5,7 @@ date: 2020-07-07 07:30:43
 image: 'https://m.media-amazon.com/images/I/41cksHoSNAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9CXKBB-es Lee New Pocket SWS Sudadera Gris Grey Mele MP X-Large para...'
 sku: 'B07S9CXKBB-es'
 tags: [ 'sudadera', ]

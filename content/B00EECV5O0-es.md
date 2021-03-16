@@ -5,7 +5,7 @@ date: 2020-03-03 22:07:28
 image: 'https://m.media-amazon.com/images/I/51RoPHWmQfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EECV5O0-es Timberland Authentics 3 Eye Classic Náuticos para Hombre...'
 sku: 'B00EECV5O0-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-06-27 14:16:11
 image: 'https://m.media-amazon.com/images/I/41oi2Kb9uwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWTF7LZ-es Geox D Myria C Zapatillas para Mujer Blanco White/Off...'
 sku: 'B07SWTF7LZ-es'
 tags: [ 'geox', ]

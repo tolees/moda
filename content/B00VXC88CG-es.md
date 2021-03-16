@@ -5,7 +5,7 @@ date: 2020-10-03 16:00:46
 image: 'https://m.media-amazon.com/images/I/41FsmXSui0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VXC88CG-es G-Star RAW 3301 Straight Vaqueros para Hombre Azul Dark...'
 sku: 'B00VXC88CG-es'
 tags: [ 'vaqueros', ]

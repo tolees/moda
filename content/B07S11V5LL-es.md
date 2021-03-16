@@ -5,7 +5,7 @@ date: 2020-03-16 05:51:36
 image: 'https://m.media-amazon.com/images/I/31YH7UelOlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S11V5LL-es Only Frsfalcon Zip Hood Sweat-Unit Sudadera con Capucha de...'
 sku: 'B07S11V5LL-es'
 tags: [ 'sudadera', ]

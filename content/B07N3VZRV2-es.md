@@ -5,7 +5,7 @@ date: 2020-03-22 15:38:06
 image: 'https://m.media-amazon.com/images/I/41ROucU+b5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3VZRV2-es Desigual T-Shirt Julieta Camiseta Rojo Oscuro 3029 L para...'
 sku: 'B07N3VZRV2-es'
 tags: [ 'camiseta', ]

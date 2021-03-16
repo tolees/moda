@@ -5,7 +5,7 @@ date: 2020-04-28 16:03:42
 image: 'https://m.media-amazon.com/images/I/41MoBUg78GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YKQ9ZF4-es Esprit 010eo1g304 Chaqueta Beige Light Taupe 260 Medium...'
 sku: 'B07YKQ9ZF4-es'
 tags: [ 'chaqueta', ]

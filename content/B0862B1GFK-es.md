@@ -5,7 +5,7 @@ date: 2020-04-15 09:33:33
 image: 'https://m.media-amazon.com/images/I/41ZrpcOYzBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0862B1GFK-es FOTN Zapatos 6PCS Beige plástico de Alta talón Consejos...'
 sku: 'B0862B1GFK-es'
 tags: [ 'zapatos', ]

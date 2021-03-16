@@ -5,7 +5,7 @@ date: 2020-01-08 11:09:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AaDUPNTzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH25DDB-es G-STAR RAW Graphic 13 Sudadera Gris Lt Grey Htr A302...'
 sku: 'B07RH25DDB-es'
 tags: [ 'sudadera', ]

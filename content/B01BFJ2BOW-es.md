@@ -5,7 +5,7 @@ date: 2020-01-22 11:30:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AAbQLOugL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BFJ2BOW-es Charles Wilson Camiseta Polo con Solapa de Contraste Large...'
 sku: 'B01BFJ2BOW-es'
 tags: [ 'camiseta', ]

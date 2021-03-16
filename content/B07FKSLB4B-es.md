@@ -5,7 +5,7 @@ date: 2020-01-05 14:44:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31nK5vWjczL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKSLB4B-es Trangoworld PC007777 Pantalón Largo Mujer Azul Tinta L'
 sku: 'B07FKSLB4B-es'
 tags: [ 'pantalón', ]

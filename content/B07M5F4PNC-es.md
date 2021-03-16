@@ -5,7 +5,7 @@ date: 2020-02-20 21:32:55
 image: 'https://m.media-amazon.com/images/I/41LD4z23LIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F4PNC-es Wrangler LS Western Shirt Camisa Amarillo Mineral Yellow...'
 sku: 'B07M5F4PNC-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-10-10 09:32:04
 image: 'https://m.media-amazon.com/images/I/31pL507EffL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QO1HZRU-es Columbia Saturday Trail Pantalón para Mujer Gris India Ink...'
 sku: 'B00QO1HZRU-es'
 tags: [ 'pantalón', ]

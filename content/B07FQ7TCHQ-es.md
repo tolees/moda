@@ -5,7 +5,7 @@ date: 2020-04-21 13:32:14
 image: 'https://m.media-amazon.com/images/I/31fpBv4UGZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQ7TCHQ-es Clarks Originals Desert London Zapatos de Cordones Derby...'
 sku: 'B07FQ7TCHQ-es'
 tags: [ 'zapatos', ]

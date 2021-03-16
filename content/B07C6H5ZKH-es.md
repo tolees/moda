@@ -5,7 +5,7 @@ date: 2020-06-25 06:05:39
 image: 'https://m.media-amazon.com/images/I/41DNPia5-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C6H5ZKH-es Marca Amazon - IRIS & LILLY Braguita de Bikini Crochet...'
 sku: 'B07C6H5ZKH-es'
 tags: [ '&','bikini','iris','lilly', ]

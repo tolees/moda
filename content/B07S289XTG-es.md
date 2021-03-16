@@ -5,7 +5,7 @@ date: 2020-07-08 03:48:26
 image: 'https://m.media-amazon.com/images/I/41U7MV4Co7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S289XTG-es BILLABONG Harlem Chaqueta Negro Black 19 One Size Tamaño...'
 sku: 'B07S289XTG-es'
 tags: [ 'chaqueta', ]

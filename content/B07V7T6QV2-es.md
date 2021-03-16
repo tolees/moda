@@ -5,7 +5,7 @@ date: 2020-05-30 06:42:59
 image: 'https://m.media-amazon.com/images/I/51Chz0-GO0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7T6QV2-es Bolsa Maternal de Pañales RUVALINO Gran Bolso de Viaje...'
 sku: 'B07V7T6QV2-es'
 tags: [ 'bolso', ]

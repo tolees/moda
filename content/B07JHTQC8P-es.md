@@ -5,7 +5,7 @@ date: 2020-03-05 16:23:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41u3b5pe40L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHTQC8P-es Amazon Essentials - Camisa regular de lino a cuadros con...'
 sku: 'B07JHTQC8P-es'
 tags: [ 'camisa', ]

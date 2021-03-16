@@ -5,7 +5,7 @@ date: 2020-01-14 09:40:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UXWhJGULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728CNXWK-es Crocs Classic Clog Zuecos Unisex Adulto Gris Slate Grey...'
 sku: 'B0728CNXWK-es'
 tags: [ 'zuecos', ]

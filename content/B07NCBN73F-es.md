@@ -5,7 +5,7 @@ date: 2020-02-24 17:51:46
 image: 'https://m.media-amazon.com/images/I/314doK9Ru3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCBN73F-es Pepe Jeans New Brooke Vaqueros Straight Azul Dark Used...'
 sku: 'B07NCBN73F-es'
 tags: [ 'vaqueros', ]

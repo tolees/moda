@@ -5,7 +5,7 @@ date: 2020-09-30 09:30:42
 image: 'https://m.media-amazon.com/images/I/41oxqAOWuaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5SB1VQ-es Levi s The Perfect Tee Camiseta para Mujer Gris Sportswear...'
 sku: 'B01N5SB1VQ-es'
 tags: [ 'camiseta', ]

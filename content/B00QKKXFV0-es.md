@@ -5,7 +5,7 @@ date: 2020-08-09 11:33:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419huDvsugL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QKKXFV0-es Timberland Earthkeepers Oak Bluffs - Sandalias de cuero...'
 sku: 'B00QKKXFV0-es'
 tags: [ 'sandalias','timberland', ]

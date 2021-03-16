@@ -5,7 +5,7 @@ date: 2020-08-29 09:14:28
 image: 'https://m.media-amazon.com/images/I/31oFUf86EUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN7HY5S-es Crocs Specialist II Vent Clog Zuecos Unisex Adulto Negro...'
 sku: 'B07CN7HY5S-es'
 tags: [ 'zuecos', ]

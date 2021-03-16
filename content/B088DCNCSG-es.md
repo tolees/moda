@@ -5,7 +5,7 @@ date: 2020-07-19 09:23:00
 image: 'https://m.media-amazon.com/images/I/41SUY3KtmBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088DCNCSG-es Gafas de Natación y Gorro de Natacion Para Hombres Mujeres...'
 sku: 'B088DCNCSG-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-03-01 09:33:01
 image: 'https://m.media-amazon.com/images/I/51c05GA6PzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1KP93R-es Guantes Impermeables Pantalla Táctil Esquí al Aire libre...'
 sku: 'B07Z1KP93R-es'
 tags: [ 'guantes', ]

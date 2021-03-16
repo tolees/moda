@@ -5,7 +5,7 @@ date: 2020-02-07 12:06:46
 image: 'https://m.media-amazon.com/images/I/41HqHnYOu4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDXGCVM-es Canadian Peak - Sudadera para Hombre Turquesa M'
 sku: 'B07YDXGCVM-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-10-06 15:37:07
 image: 'https://m.media-amazon.com/images/I/31JtaDdZW1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMQ21BD-es find. # Shana-1a-58 Sandalias Abiertas Negro Black 37'
 sku: 'B07WMQ21BD-es'
 tags: [ 'sandalias', ]

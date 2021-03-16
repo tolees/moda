@@ -5,7 +5,7 @@ date: 2020-05-01 08:15:46
 image: 'https://m.media-amazon.com/images/I/31k1qw72clL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCFK2W5-es Clarks Adriel Viola Zapatos de Tacón para Mujer Negro...'
 sku: 'B06XCFK2W5-es'
 tags: [ 'zapatos', ]

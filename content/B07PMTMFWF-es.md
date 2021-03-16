@@ -5,7 +5,7 @@ date: 2020-08-16 12:24:36
 image: 'https://m.media-amazon.com/images/I/31KcH149OIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMTMFWF-es Under Armour UA Knockout Tank Camiseta De Tirantes...'
 sku: 'B07PMTMFWF-es'
 tags: [ 'camiseta', ]

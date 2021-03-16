@@ -5,7 +5,7 @@ date: 2020-04-01 06:59:12
 image: 'https://m.media-amazon.com/images/I/41zvjD6BhDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AC6PV7I-es Nike Park VI Camiseta de Manga Corta para hombre Amarillo L'
 sku: 'B01AC6PV7I-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-30 11:34:03
 image: 'https://m.media-amazon.com/images/I/41fPr6S6FrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHPMTQF-es Marca Amazon - find. Camisa Hombre Negro Black S Label: S'
 sku: 'B06XHPMTQF-es'
 tags: [ '-','camisa','find.', ]

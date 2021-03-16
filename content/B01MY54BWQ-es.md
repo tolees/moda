@@ -5,7 +5,7 @@ date: 2020-07-31 21:25:03
 image: 'https://m.media-amazon.com/images/I/51BfG0bVLdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY54BWQ-es eonar Mujer Push-up Bikini Desmontable Acolchado Bra...'
 sku: 'B01MY54BWQ-es'
 tags: [ 'bikini', ]

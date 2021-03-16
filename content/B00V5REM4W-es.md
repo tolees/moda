@@ -5,7 +5,7 @@ date: 2020-04-26 08:35:37
 image: 'https://m.media-amazon.com/images/I/41jkwoS5EJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V5REM4W-es ElegantPark HC1509 Zapatos de tacón Zapato con Cierre Raso...'
 sku: 'B00V5REM4W-es'
 tags: [ 'zapatos', ]

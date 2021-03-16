@@ -5,7 +5,7 @@ date: 2020-04-12 12:28:10
 image: 'https://m.media-amazon.com/images/I/31zFKeUGtAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGFKS4S-es SELECTED FEMME 16064917 Camisa Manga Larga Azul Night Sky...'
 sku: 'B07VGFKS4S-es'
 tags: [ 'camisa', ]

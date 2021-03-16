@@ -5,7 +5,7 @@ date: 2020-01-06 08:51:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V5LSQYU-es Kempa Pantalón Deporte Core Modern Gris Jaspeado 2XS'
 sku: 'B00V5LSQYU-es'
 tags: [ 'pantalón', ]

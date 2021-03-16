@@ -5,7 +5,7 @@ date: 2020-01-18 20:56:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41P0rN50qLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XHCVKY-es Calvin Klein Bikini Gris Grey Heather 020 38 Talla del...'
 sku: 'B071XHCVKY-es'
 tags: [ 'bikini', ]

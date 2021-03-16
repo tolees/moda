@@ -5,7 +5,7 @@ date: 2020-04-12 07:48:03
 image: 'https://m.media-amazon.com/images/I/410q434EE9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9HS8K6-es Spiuk Altube Road Zapatilla Unisex Adulto Negro Mate 37'
 sku: 'B07L9HS8K6-es'
 tags: [ 'zapatilla', ]

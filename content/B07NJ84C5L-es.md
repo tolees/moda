@@ -5,7 +5,7 @@ date: 2020-04-13 12:12:13
 image: 'https://m.media-amazon.com/images/I/31snraJSqvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ84C5L-es Springfield 2.T.Ciudades Lentejuelas Camiseta Beige Beige...'
 sku: 'B07NJ84C5L-es'
 tags: [ 'camiseta', ]

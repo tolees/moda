@@ -5,7 +5,7 @@ date: 2020-02-08 19:03:35
 image: 'https://m.media-amazon.com/images/I/415Y5ReunJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1M5HHW-es Calvin Klein - Trail Flat Crossover Organizadores de bolso...'
 sku: 'B07K1M5HHW-es'
 tags: [ 'bolso', ]

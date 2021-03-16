@@ -5,7 +5,7 @@ date: 2020-06-18 16:36:59
 image: 'https://m.media-amazon.com/images/I/41CxEc51hzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0743C1PCJ-es Marca Amazon - Lark & Ro Classic Cap-Sleeve Wrap Dress...'
 sku: 'B0743C1PCJ-es'
 tags: [ 'vestido', ]

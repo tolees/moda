@@ -5,7 +5,7 @@ date: 2020-04-15 11:10:28
 image: 'https://m.media-amazon.com/images/I/41tayBUPwsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN7J66S-es Crocs Swiftwater Mesh Sandal W Sandalias Deportivas para...'
 sku: 'B07CN7J66S-es'
 tags: [ 'sandalias', ]

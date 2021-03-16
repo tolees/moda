@@ -5,7 +5,7 @@ date: 2020-04-16 15:06:07
 image: 'https://m.media-amazon.com/images/I/41x62PxcqgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMZD55-es G-STAR RAW Motac Slim Round Neck Sudadera Gris Granite Htr...'
 sku: 'B07NDMZD55-es'
 tags: [ 'sudadera', ]

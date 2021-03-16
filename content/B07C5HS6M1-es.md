@@ -5,7 +5,7 @@ date: 2020-03-04 10:09:28
 image: 'https://m.media-amazon.com/images/I/51kZZjsceEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5HS6M1-es 3pcs Bikini Conjuntos Traje de Bano Das beste Bikini con...'
 sku: 'B07C5HS6M1-es'
 tags: [ 'bikini', ]

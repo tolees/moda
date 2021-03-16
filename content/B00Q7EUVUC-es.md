@@ -5,7 +5,7 @@ date: 2020-06-08 09:46:38
 image: 'https://m.media-amazon.com/images/I/41frOYRGuXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q7EUVUC-es Columbia Peakfreak Venture Zapatos Impermeables para...'
 sku: 'B00Q7EUVUC-es'
 tags: [ 'zapatos', ]

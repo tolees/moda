@@ -5,7 +5,7 @@ date: 2020-07-16 14:50:50
 image: 'https://m.media-amazon.com/images/I/41dP36QalyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SWPTQW-es Timberland Mocasines TB0A1Q86019'
 sku: 'B078SWPTQW-es'
 tags: [ 'timberland', ]

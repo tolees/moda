@@ -5,7 +5,7 @@ date: 2020-01-02 13:47:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415s-vM5%2BSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N195SPB-es Lee Logo SWS Sudadera Azul Midnight Navy Ma X-Large para...'
 sku: 'B07N195SPB-es'
 tags: [ 'sudadera', ]

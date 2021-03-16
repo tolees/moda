@@ -5,7 +5,7 @@ date: 2020-06-17 06:54:29
 image: 'https://m.media-amazon.com/images/I/31uuq2c6J3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK33KX6-es Marca Amazon - find. Pantalón Ancho Mujer Negro Black 28W...'
 sku: 'B07MK33KX6-es'
 tags: [ '-','find.','pantalón', ]

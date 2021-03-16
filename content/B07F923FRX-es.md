@@ -5,7 +5,7 @@ date: 2020-04-14 18:10:47
 image: 'https://m.media-amazon.com/images/I/61xhy3pyp1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F923FRX-es Marvel Grafiti Bolso Bandolera 19 cm 2.85 litros Multicolor'
 sku: 'B07F923FRX-es'
 tags: [ 'bolso', ]

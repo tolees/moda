@@ -5,7 +5,7 @@ date: 2020-07-18 11:47:47
 image: 'https://m.media-amazon.com/images/I/41M79ahj1gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZNPQ5C-es Suhctup Funda Xiaomi Mi 6X Carcasa Patrón de Dibujos...'
 sku: 'B084ZNPQ5C-es'
 tags: [ 'moda', ]

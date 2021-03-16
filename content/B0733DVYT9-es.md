@@ -5,7 +5,7 @@ date: 2020-05-09 11:24:39
 image: 'https://m.media-amazon.com/images/I/31M+GhXCfVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0733DVYT9-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
 sku: 'B0733DVYT9-es'
 tags: [ '-','find.','sudadera', ]

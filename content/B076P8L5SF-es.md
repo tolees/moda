@@ -5,7 +5,7 @@ date: 2020-03-08 09:14:26
 image: 'https://m.media-amazon.com/images/I/41UM2O6500L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076P8L5SF-es HAPPY MAMA. Mujer Sudadera Capucha Lactancia Premamá...'
 sku: 'B076P8L5SF-es'
 tags: [ 'sudadera', ]

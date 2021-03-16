@@ -5,7 +5,7 @@ date: 2020-03-31 15:02:57
 image: 'https://m.media-amazon.com/images/I/41uJ-zcYpHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M63MPWF-es SINOES Hombre Zapatillas de Baloncesto Calzado Deportivo...'
 sku: 'B07M63MPWF-es'
 tags: [ 'moda','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-09-30 08:16:46
 image: 'https://m.media-amazon.com/images/I/41AUuc6pJkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017WHIS98-es Pepe Jeans Soho Vaqueros Black 29W / 32L para Mujer'
 sku: 'B017WHIS98-es'
 tags: [ 'vaqueros', ]

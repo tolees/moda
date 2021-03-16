@@ -5,7 +5,7 @@ date: 2020-10-02 01:20:53
 image: 'https://m.media-amazon.com/images/I/51ApoFncAaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6LBVQK-es LIGE Relojes para Hombres Cronógrafo Impermeable Cuarzo...'
 sku: 'B07X6LBVQK-es'
 tags: [ 'moda','vestido', ]

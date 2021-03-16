@@ -5,7 +5,7 @@ date: 2020-05-10 10:00:57
 image: 'https://m.media-amazon.com/images/I/31rIJgIrKOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXWWHFV-es MeBB Chic Collar Mordedor de Lactancia para Bebé Mordedor...'
 sku: 'B01MXWWHFV-es'
 tags: [ 'collar','moda', ]

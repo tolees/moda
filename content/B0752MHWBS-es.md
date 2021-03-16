@@ -5,7 +5,7 @@ date: 2020-07-12 02:15:06
 image: 'https://m.media-amazon.com/images/I/41tszoBThaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752MHWBS-es G-STAR RAW D-Staq 3D Skinny Vaqueros Azul dk aged 8971-89...'
 sku: 'B0752MHWBS-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 04:02:42
 image: 'https://m.media-amazon.com/images/I/41+Hiw0cNmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSJW8HK-es Geox U Snake.2 A Zapatillas para Hombre Gris Grey/Lt Grey...'
 sku: 'B07SSJW8HK-es'
 tags: [ 'geox', ]

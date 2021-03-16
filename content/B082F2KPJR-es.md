@@ -5,7 +5,7 @@ date: 2020-03-07 20:39:45
 image: 'https://m.media-amazon.com/images/I/41A-WSbBMDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082F2KPJR-es Martin cocoa Hombre Impermeable Chaqueta Al Aire Libre...'
 sku: 'B082F2KPJR-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-20 21:40:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NaeTpsH8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFF5B7R-es Levi s 310 Shaping Super Skinny Vaqueros Skinny Mujer Azul...'
 sku: 'B07LFF5B7R-es'
 tags: [ 'vaqueros', ]

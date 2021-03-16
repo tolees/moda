@@ -5,7 +5,7 @@ date: 2020-01-17 13:55:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41D6wluEkFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN3GY5F-es Lee Rider Jeans Vaqueros Tawny Port 28W / 34L para Hombre'
 sku: 'B07MN3GY5F-es'
 tags: [ 'vaqueros', ]

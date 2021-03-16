@@ -5,7 +5,7 @@ date: 2020-03-19 13:29:57
 image: 'https://m.media-amazon.com/images/I/4175iIGHzRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZCH322-es Under Armour UA Qualifier Camiseta Hombre Amarillo High-...'
 sku: 'B07CZCH322-es'
 tags: [ 'camiseta', ]

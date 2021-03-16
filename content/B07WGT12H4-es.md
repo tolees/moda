@@ -5,7 +5,7 @@ date: 2020-01-04 21:35:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51N-CHXIXDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGT12H4-es LOHOTEK Guantes Gimnasio Hombre Mujer Guantes Acolchados...'
 sku: 'B07WGT12H4-es'
 tags: [ 'guantes', ]

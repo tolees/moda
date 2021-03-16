@@ -5,7 +5,7 @@ date: 2020-05-03 06:00:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BdxUfpq-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY7PU3V-es find. Camisa Casual de Algodón con Corte Estándar para...'
 sku: 'B01MY7PU3V-es'
 tags: [ 'camisa', ]

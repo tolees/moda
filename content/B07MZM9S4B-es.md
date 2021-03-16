@@ -5,7 +5,7 @@ date: 2020-01-15 16:23:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IM6FiiBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZM9S4B-es Pepe Jeans Auriga Chaqueta Black 999 11-12 Talla del...'
 sku: 'B07MZM9S4B-es'
 tags: [ 'chaqueta', ]

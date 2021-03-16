@@ -5,7 +5,7 @@ date: 2020-06-22 16:40:11
 image: 'https://m.media-amazon.com/images/I/41Shsw8ZkLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFG2SVM-es Levi s Barstow Western Camisa Casual de Manga Larga Negro...'
 sku: 'B07LFG2SVM-es'
 tags: [ 'camisa', ]

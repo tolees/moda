@@ -5,7 +5,7 @@ date: 2020-06-24 16:32:10
 image: 'https://m.media-amazon.com/images/I/41ZDp-9hqIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KXIKF5E-es Under Armour Raid Shorts Pantalones para hombre pantalón...'
 sku: 'B00KXIKF5E-es'
 tags: [ 'pantalón', ]

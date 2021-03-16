@@ -5,7 +5,7 @@ date: 2020-10-04 08:35:00
 image: 'https://m.media-amazon.com/images/I/410t8v0jPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGZG3FK-es Jack & Jones Jjeemil Knit Roll Neck Noos Camiseta Cuello...'
 sku: 'B07VGZG3FK-es'
 tags: [ 'camiseta', ]

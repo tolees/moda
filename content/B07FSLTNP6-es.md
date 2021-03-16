@@ -5,7 +5,7 @@ date: 2020-07-10 18:26:06
 image: 'https://m.media-amazon.com/images/I/31KEB475fPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSLTNP6-es Clarks Un Karely Sun Chanclas Sandalias Flip-Flop Gris...'
 sku: 'B07FSLTNP6-es'
 tags: [ 'chanclas','sandalias', ]

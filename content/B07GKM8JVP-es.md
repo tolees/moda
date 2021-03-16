@@ -5,7 +5,7 @@ date: 2020-07-29 10:33:40
 image: 'https://m.media-amazon.com/images/I/31X0saEyl4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKM8JVP-es Ever-Pretty A-línea Vestido de Fiesta Cuello en V Manga...'
 sku: 'B07GKM8JVP-es'
 tags: [ 'vestido', ]

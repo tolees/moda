@@ -5,7 +5,7 @@ date: 2020-10-12 09:52:44
 image: 'https://m.media-amazon.com/images/I/41q8RCIrtoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLM6GHF-es Marca Amazon - MERAKI Abrigo de Lana Mujer Gris...'
 sku: 'B07WLM6GHF-es'
 tags: [ 'abrigo','meraki', ]

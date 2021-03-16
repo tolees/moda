@@ -5,7 +5,7 @@ date: 2020-06-26 13:11:39
 image: 'https://m.media-amazon.com/images/I/41IGKMuwA7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQFYR9V-es Geox B Kaytan A Sandalias de Punta Descubierta para Bebés...'
 sku: 'B07SQFYR9V-es'
 tags: [ 'geox','sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-02-18 10:44:39
 image: 'https://m.media-amazon.com/images/I/31tmkRJB51L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018JT4UW2-es Levi s 200Sf Trunk 2P Boxer para Hombre Negro Jet Black...'
 sku: 'B018JT4UW2-es'
 tags: [ 'boxer', ]

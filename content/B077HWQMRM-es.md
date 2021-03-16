@@ -5,7 +5,7 @@ date: 2020-10-07 00:52:56
 image: 'https://m.media-amazon.com/images/I/51fDoNhh6EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HWQMRM-es Marca Amazon - find. Vestido Asimétrico de Flores Mujer...'
 sku: 'B077HWQMRM-es'
 tags: [ '-','find.','vestido', ]

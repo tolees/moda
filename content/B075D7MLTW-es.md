@@ -5,7 +5,7 @@ date: 2020-02-06 13:12:37
 image: 'https://m.media-amazon.com/images/I/41U7UA8TuHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075D7MLTW-es IRIS & LILLY BLIC004 sujetadores push up Beige Praline 90B...'
 sku: 'B075D7MLTW-es'
 tags: [ '&','iris','lilly', ]

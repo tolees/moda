@@ -5,7 +5,7 @@ date: 2020-04-10 14:44:06
 image: 'https://m.media-amazon.com/images/I/31qSYMNHd4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072M7ZRSV-es Crocs Swiftwater Flip Women Zapatos de Playa y Piscina...'
 sku: 'B072M7ZRSV-es'
 tags: [ 'zapatos', ]

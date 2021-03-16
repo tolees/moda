@@ -5,7 +5,7 @@ date: 2020-02-24 16:32:02
 image: 'https://m.media-amazon.com/images/I/41T+S6UF6sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSGTXGB-es Under Armour Women s Training Glove Guantes Mujer Negro...'
 sku: 'B07KSGTXGB-es'
 tags: [ 'guantes', ]

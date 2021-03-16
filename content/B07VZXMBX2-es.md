@@ -5,7 +5,7 @@ date: 2020-05-28 09:34:28
 image: 'https://m.media-amazon.com/images/I/41KSROp73YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZXMBX2-es Hush Puppies - Zapatos Rosie Estilo Menorquina de Esparto...'
 sku: 'B07VZXMBX2-es'
 tags: [ 'zapatos', ]

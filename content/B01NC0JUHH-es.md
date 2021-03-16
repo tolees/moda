@@ -5,7 +5,7 @@ date: 2020-07-24 08:48:32
 image: 'https://m.media-amazon.com/images/I/41Hz8DLYZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NC0JUHH-es Pepe Jeans Soho Vaqueros 10Oz Rinse Plus 24W / 28L para Mujer'
 sku: 'B01NC0JUHH-es'
 tags: [ 'vaqueros', ]

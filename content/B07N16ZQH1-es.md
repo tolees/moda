@@ -5,7 +5,7 @@ date: 2020-05-21 13:05:15
 image: 'https://m.media-amazon.com/images/I/41kZQVFvZGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N16ZQH1-es G-STAR RAW 3301 Vaqueros Relaxed Azul Worker Blue Faded...'
 sku: 'B07N16ZQH1-es'
 tags: [ 'vaqueros', ]

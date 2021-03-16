@@ -5,7 +5,7 @@ date: 2020-08-31 09:08:24
 image: 'https://m.media-amazon.com/images/I/31kYxFhaeCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD17LCM-es PUMA DIVECAT V2 Sandalias deslizantes Unisex Adulto Azul...'
 sku: 'B07SD17LCM-es'
 tags: [ 'sandalias', ]

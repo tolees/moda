@@ -5,7 +5,7 @@ date: 2020-01-02 16:19:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410YHg6xbQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ6W1XU-es Indicode Glenn Camisa Azul Sky Way XL para Hombre'
 sku: 'B01LZ6W1XU-es'
 tags: [ 'camisa', ]

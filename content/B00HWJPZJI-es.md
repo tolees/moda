@@ -5,7 +5,7 @@ date: 2020-10-03 12:59:41
 image: 'https://m.media-amazon.com/images/I/41-mOmxzMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HWJPZJI-es Superga 2750-Lamew S001820 - Zapatos de lona para mujer...'
 sku: 'B00HWJPZJI-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-17 11:12:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TjbYOLr6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HJT0KBI-es Mexx Women Pullover Jersey Azul Sky Captain 42 para Mujer'
 sku: 'B01HJT0KBI-es'
 tags: [ 'jersey', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 21:11:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41s2fQKLC3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HJKHVR-es IRIS & LILLY Braguita Estilo Culotte Mujer Pack de 5...'
 sku: 'B078HJKHVR-es'
 tags: [ '&','iris','lilly', ]

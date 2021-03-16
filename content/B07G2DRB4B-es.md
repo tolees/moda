@@ -5,7 +5,7 @@ date: 2020-05-02 08:48:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317Q92cxVYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2DRB4B-es AURIQUE Mallas de Entrenamiento Negro Black High...'
 sku: 'B07G2DRB4B-es'
 tags: [ 'aurique', ]

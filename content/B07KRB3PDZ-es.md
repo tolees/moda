@@ -5,7 +5,7 @@ date: 2020-08-06 12:47:59
 image: 'https://m.media-amazon.com/images/I/31vu4aa4gcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRB3PDZ-es FitFlop Twiss Sandalias de Punta Descubierta para Mujer...'
 sku: 'B07KRB3PDZ-es'
 tags: [ 'sandalias', ]

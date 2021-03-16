@@ -5,7 +5,7 @@ date: 2020-06-28 13:23:52
 image: 'https://m.media-amazon.com/images/I/41sVq5QDtNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Y3W7SG-es Wrangler Texas Darkstone Vaqueros para Hombre Vint...'
 sku: 'B000Y3W7SG-es'
 tags: [ 'vaqueros', ]

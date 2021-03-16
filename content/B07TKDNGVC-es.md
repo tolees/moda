@@ -5,7 +5,7 @@ date: 2020-08-01 19:54:43
 image: 'https://m.media-amazon.com/images/I/41ta3gx2-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDNGVC-es Levi s SS Battery Hm Slim Camisa Azul Riverside Garment...'
 sku: 'B07TKDNGVC-es'
 tags: [ 'camisa', ]

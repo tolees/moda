@@ -5,7 +5,7 @@ date: 2020-03-03 11:16:28
 image: 'https://m.media-amazon.com/images/I/31cIRy5hVmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWRT4V-es Wrangler Arizona Vaqueros Straight Azul Dark Fuzz 77j 30...'
 sku: 'B07MMWRT4V-es'
 tags: [ 'vaqueros', ]

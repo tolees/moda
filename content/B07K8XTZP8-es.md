@@ -5,7 +5,7 @@ date: 2020-01-03 21:10:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qt2nXKCOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8XTZP8-es Crocs Classic Clog Zuecos Unisex Adulto Verde Dusty Green...'
 sku: 'B07K8XTZP8-es'
 tags: [ 'zuecos', ]

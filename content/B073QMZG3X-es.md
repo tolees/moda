@@ -5,7 +5,7 @@ date: 2020-04-03 17:46:38
 image: 'https://m.media-amazon.com/images/I/416oUNWQsOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QMZG3X-es Levi s Plus Size Pl tee Camiseta Blanco Plus Batwing White...'
 sku: 'B073QMZG3X-es'
 tags: [ 'camiseta', ]

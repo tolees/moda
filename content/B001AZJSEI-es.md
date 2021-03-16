@@ -5,7 +5,7 @@ date: 2020-04-27 12:33:33
 image: 'https://m.media-amazon.com/images/I/31BIz274LJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001AZJSEI-es Crocs Cleo Sandalias de Punta Descubierta para Mujer Negro...'
 sku: 'B001AZJSEI-es'
 tags: [ 'sandalias', ]

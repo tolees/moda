@@ -5,7 +5,7 @@ date: 2020-04-15 15:22:06
 image: 'https://m.media-amazon.com/images/I/31i7ycLvImL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMVYXWC-es Lee Luke Vaqueros Vintage Blue HX 28W / 34L para Hombre'
 sku: 'B07MMVYXWC-es'
 tags: [ 'vaqueros', ]

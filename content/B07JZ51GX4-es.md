@@ -5,7 +5,7 @@ date: 2020-01-12 21:02:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDL%2BVzmyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ51GX4-es Tommy Hilfiger Recycled Short Puffer Chaqueta Azul Black...'
 sku: 'B07JZ51GX4-es'
 tags: [ 'chaqueta', ]

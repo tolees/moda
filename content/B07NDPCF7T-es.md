@@ -5,7 +5,7 @@ date: 2020-05-19 15:49:32
 image: 'https://m.media-amazon.com/images/I/31VYv7VqivL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPCF7T-es TBS Tansley Zapatos de Cordones Oxford para Hombre Marrón...'
 sku: 'B07NDPCF7T-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-06-06 22:11:43
 image: 'https://m.media-amazon.com/images/I/41-NTylBf+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1WR1YG-es Timberland Classic 2 Eye Náuticos para Hombre Azul Dark...'
 sku: 'B07F1WR1YG-es'
 tags: [ 'timberland', ]

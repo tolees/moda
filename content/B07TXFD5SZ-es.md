@@ -5,7 +5,7 @@ date: 2020-08-09 21:23:36
 image: 'https://m.media-amazon.com/images/I/415AkYKUvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXFD5SZ-es Levi s Essential Western Blusa Negro Black Sheen 2 0004...'
 sku: 'B07TXFD5SZ-es'
 tags: [ 'blusa', ]

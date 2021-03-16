@@ -5,7 +5,7 @@ date: 2020-03-03 17:39:10
 image: 'https://m.media-amazon.com/images/I/31084sj7nbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FVQGAS8-es Oakley Line Miner Gafas Deportivas Hombre Matte Black...'
 sku: 'B01FVQGAS8-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-01-10 08:52:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xlzILr1gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3DLLXH-es Under Armour UA Streaker 2.0 Longsleeve Camiseta de Manga...'
 sku: 'B07J3DLLXH-es'
 tags: [ 'camiseta', ]

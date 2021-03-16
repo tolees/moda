@@ -5,7 +5,7 @@ date: 2020-01-15 11:09:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sx3aTjzeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYWMWL-es Geox U Terence C Botines para Hombre Marrón Cognac C6001...'
 sku: 'B07LFYWMWL-es'
 tags: [ 'botines','geox', ]

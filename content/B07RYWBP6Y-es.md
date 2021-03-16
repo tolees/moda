@@ -5,7 +5,7 @@ date: 2020-08-11 13:21:03
 image: 'https://m.media-amazon.com/images/I/31HuX7gABjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYWBP6Y-es VPASS Pantalones Hombre Verano Casuales Moda Deportivos...'
 sku: 'B07RYWBP6Y-es'
 tags: [ 'moda', ]

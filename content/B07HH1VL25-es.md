@@ -5,7 +5,7 @@ date: 2020-01-20 15:08:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31fzNQ9tmAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH1VL25-es Tommy Jeans Hombre Scanton Vaqueros Slim Azul Vernon Black...'
 sku: 'B07HH1VL25-es'
 tags: [ 'vaqueros', ]

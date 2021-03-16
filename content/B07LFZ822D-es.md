@@ -5,7 +5,7 @@ date: 2020-02-26 10:34:20
 image: 'https://m.media-amazon.com/images/I/41jG5DryB0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ822D-es Geox J INEK Boy E Zapatillas Altas para Niños Azul...'
 sku: 'B07LFZ822D-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-02-08 18:08:58
 image: 'https://m.media-amazon.com/images/I/41isTBnCSwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8W7FG2-es Wrangler Sherpa Jacket Corduroy Chaqueta Marrón Russet...'
 sku: 'B07M8W7FG2-es'
 tags: [ 'chaqueta', ]

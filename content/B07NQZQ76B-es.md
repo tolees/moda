@@ -5,7 +5,7 @@ date: 2020-04-25 18:19:56
 image: 'https://m.media-amazon.com/images/I/41FlgMcT+OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQZQ76B-es PUMA Classics Logo Hoody TR Sudadera Hombre Medium Gray...'
 sku: 'B07NQZQ76B-es'
 tags: [ 'sudadera', ]

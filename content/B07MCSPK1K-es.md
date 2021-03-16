@@ -5,7 +5,7 @@ date: 2020-02-01 03:32:57
 image: 'https://m.media-amazon.com/images/I/41X0aCEJOkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPK1K-es Napapijri BIBU H Sudadera con Capucha Gris Med Grey Mel...'
 sku: 'B07MCSPK1K-es'
 tags: [ 'sudadera', ]

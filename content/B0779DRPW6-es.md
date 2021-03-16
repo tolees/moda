@@ -5,7 +5,7 @@ date: 2020-10-09 21:57:08
 image: 'https://m.media-amazon.com/images/I/41UFDd1MaoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779DRPW6-es adidas Ask SPRT LST M Camiseta Sin género Negro'
 sku: 'B0779DRPW6-es'
 tags: [ 'camiseta', ]

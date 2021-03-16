@@ -5,7 +5,7 @@ date: 2020-04-07 10:14:05
 image: 'https://m.media-amazon.com/images/I/31uOl+PmKbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2KB8ZB-es Amazon Essentials – Camisa Oxford de manga larga de corte...'
 sku: 'B07F2KB8ZB-es'
 tags: [ 'camisa', ]

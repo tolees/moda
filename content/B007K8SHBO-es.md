@@ -5,7 +5,7 @@ date: 2020-01-20 01:54:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KdCCaplJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007K8SHBO-es Arena HYDROSOFT JR Boy HOO Zapatos de Playa y Piscina...'
 sku: 'B007K8SHBO-es'
 tags: [ 'zapatos', ]

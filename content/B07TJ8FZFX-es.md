@@ -5,7 +5,7 @@ date: 2020-01-29 07:53:49
 image: 'https://m.media-amazon.com/images/I/31hILUaypmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ8FZFX-es Only & Sons NOS Onswinston Sweat Hoodie Noos Sudadera con...'
 sku: 'B07TJ8FZFX-es'
 tags: [ 'sudadera', ]

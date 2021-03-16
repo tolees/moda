@@ -5,7 +5,7 @@ date: 2020-09-18 13:55:12
 image: 'https://m.media-amazon.com/images/I/31xJ5OwaR9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RM6ZIW-es Havaianas Brasil Chanclas Unisex Adulto Blanco Brasil...'
 sku: 'B000RM6ZIW-es'
 tags: [ 'chanclas', ]

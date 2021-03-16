@@ -5,7 +5,7 @@ date: 2020-09-09 21:58:26
 image: 'https://m.media-amazon.com/images/I/41WcJJr6knL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRK2YDC-es Geox U Snake.2 A Zapatillas para Hombre Beige Beige/Taupe...'
 sku: 'B07SRK2YDC-es'
 tags: [ 'geox', ]

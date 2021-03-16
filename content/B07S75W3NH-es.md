@@ -5,7 +5,7 @@ date: 2020-04-10 18:46:35
 image: 'https://m.media-amazon.com/images/I/31LZYnfRDAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S75W3NH-es Crocs Classic Zuecos Unisex Adulto Pink 41/42 EU'
 sku: 'B07S75W3NH-es'
 tags: [ 'zuecos', ]

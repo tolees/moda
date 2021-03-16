@@ -5,7 +5,7 @@ date: 2020-01-23 20:25:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41H7VR2ZcQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NB9B9L1-es Esprit 049ee1k034 Camiseta Blanco Off White 110 Small para...'
 sku: 'B07NB9B9L1-es'
 tags: [ 'camiseta', ]

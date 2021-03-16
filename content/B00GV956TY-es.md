@@ -5,7 +5,7 @@ date: 2020-06-27 21:07:00
 image: 'https://m.media-amazon.com/images/I/41Mkzr1V78L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GV956TY-es Wrangler Arizona Vaqueros Cool Hand 38W / 30L para Hombre'
 sku: 'B00GV956TY-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-10-07 22:34:11
 image: 'https://m.media-amazon.com/images/I/31hoRRr6PEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZRZ1C-es Geox D New ANNYA A Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07LFZRZ1C-es'
 tags: [ 'geox','zapatos', ]

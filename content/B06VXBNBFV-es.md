@@ -5,7 +5,7 @@ date: 2020-05-19 16:03:56
 image: 'https://m.media-amazon.com/images/I/41hpngQIDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VXBNBFV-es adidas Adilette Shower Chanclas para Hombre Azul...'
 sku: 'B06VXBNBFV-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-07-28 20:54:50
 image: 'https://m.media-amazon.com/images/I/41ZXvjtrAoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHDMG7V-es HKT by Hackett Hkt 3 SS tee Camiseta Azul 5mgaqua Sky 5mg...'
 sku: 'B07VHDMG7V-es'
 tags: [ 'camiseta', ]

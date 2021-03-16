@@ -5,7 +5,7 @@ date: 2020-06-25 06:16:03
 image: 'https://m.media-amazon.com/images/I/41cvTfhX7bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YO73MQ4-es Under Armour Tech T Camiseta sin Mangas Mujer Negro...'
 sku: 'B00YO73MQ4-es'
 tags: [ 'camiseta', ]

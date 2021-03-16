@@ -5,7 +5,7 @@ date: 2020-09-08 16:06:26
 image: 'https://m.media-amazon.com/images/I/51lrp59Yf4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLQP937-es Geographical Norway Sudadera Mujer GYMCLASS B Gris Claro M'
 sku: 'B07XLQP937-es'
 tags: [ 'sudadera', ]

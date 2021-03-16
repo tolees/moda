@@ -5,7 +5,7 @@ date: 2020-06-30 13:46:06
 image: 'https://m.media-amazon.com/images/I/516ZZUNJI7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PBP56Q-es Suhctup Funda Compatible con Samsung Galaxy S9 Plus...'
 sku: 'B087PBP56Q-es'
 tags: [ 'billetera', ]

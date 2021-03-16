@@ -5,7 +5,7 @@ date: 2020-01-10 09:10:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31pFGOOw9tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9GH93V-es Lacoste Sport SH2128 Sudadera Multicolor Noir/Argent Chine...'
 sku: 'B01M9GH93V-es'
 tags: [ 'sudadera', ]

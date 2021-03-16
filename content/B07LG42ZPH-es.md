@@ -5,7 +5,7 @@ date: 2019-12-31 21:29:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41o2vKVGEXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG42ZPH-es Geox J ALBEN Boy A Zapatillas para Niños Azul...'
 sku: 'B07LG42ZPH-es'
 tags: [ 'geox', ]

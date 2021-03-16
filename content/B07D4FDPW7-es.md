@@ -5,7 +5,7 @@ date: 2020-09-23 18:25:47
 image: 'https://m.media-amazon.com/images/I/41YpitEgF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4FDPW7-es Skechers MELBO Journeyman 2 Sandalias con Punta Cerrada...'
 sku: 'B07D4FDPW7-es'
 tags: [ 'sandalias', ]

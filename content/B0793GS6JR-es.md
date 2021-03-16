@@ -5,7 +5,7 @@ date: 2020-04-12 21:50:01
 image: 'https://m.media-amazon.com/images/I/31WUEWEDgxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793GS6JR-es Clarks Un Aldric Lace Zapatos de Cordones Derby para...'
 sku: 'B0793GS6JR-es'
 tags: [ 'zapatos', ]

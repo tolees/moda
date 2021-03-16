@@ -5,7 +5,7 @@ date: 2020-04-19 18:07:22
 image: 'https://m.media-amazon.com/images/I/41Q0iEjA+yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQJMDV-es Pepe Jeans Mohsen Sudadera Grey Marl 933 9-10 años Talla...'
 sku: 'B07MZQJMDV-es'
 tags: [ 'sudadera', ]

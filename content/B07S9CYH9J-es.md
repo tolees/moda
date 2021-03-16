@@ -5,7 +5,7 @@ date: 2020-07-07 17:40:38
 image: 'https://m.media-amazon.com/images/I/41XEnlF6fFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9CYH9J-es Lee New Pocket SWS Sudadera Azul Ashley Blue Na Medium...'
 sku: 'B07S9CYH9J-es'
 tags: [ 'sudadera', ]

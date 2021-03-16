@@ -5,7 +5,7 @@ date: 2020-07-13 16:58:55
 image: 'https://m.media-amazon.com/images/I/41DWjprsirL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8SCYPQ-es Levi s 512 Slim Taper Fit Jean Vaqueros Azul Abu ADV 32W /...'
 sku: 'B07K8SCYPQ-es'
 tags: [ 'vaqueros', ]

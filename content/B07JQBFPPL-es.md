@@ -5,7 +5,7 @@ date: 2020-08-02 10:53:05
 image: 'https://m.media-amazon.com/images/I/31TGC9k2FNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQBFPPL-es Jack & Jones Jjitom Jjoriginal Am 815 STS Vaqueros Skinny...'
 sku: 'B07JQBFPPL-es'
 tags: [ 'vaqueros', ]

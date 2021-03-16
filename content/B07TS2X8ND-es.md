@@ -5,7 +5,7 @@ date: 2020-04-07 22:07:50
 image: 'https://m.media-amazon.com/images/I/41q4O6DWgSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS2X8ND-es Disney Sudadera para niños Toy Story Multicolor 3-4 Años'
 sku: 'B07TS2X8ND-es'
 tags: [ 'sudadera', ]

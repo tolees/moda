@@ -5,7 +5,7 @@ date: 2020-01-21 08:22:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YpGzD5iNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRHZH7Z-es Geographical Norway Parka Hombre BOKER Negro S'
 sku: 'B07XRHZH7Z-es'
 tags: [ 'parka', ]

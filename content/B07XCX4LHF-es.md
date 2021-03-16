@@ -5,7 +5,7 @@ date: 2020-06-06 12:44:09
 image: 'https://m.media-amazon.com/images/I/51-3nRV38fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCX4LHF-es Mujer Camisones Conjunto de Pijama de Encaje Sexy Elegante...'
 sku: 'B07XCX4LHF-es'
 tags: [ 'pijama', ]

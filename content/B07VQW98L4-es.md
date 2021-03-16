@@ -5,7 +5,7 @@ date: 2020-08-22 10:23:14
 image: 'https://m.media-amazon.com/images/I/31RvOzmkVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQW98L4-es Calvin Klein Low Rise Trunk 3pk Bóxer Hombre Blanco W-BLUE...'
 sku: 'B07VQW98L4-es'
 tags: [ 'bóxer', ]

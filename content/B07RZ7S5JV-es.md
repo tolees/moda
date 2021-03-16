@@ -5,7 +5,7 @@ date: 2020-05-21 08:25:14
 image: 'https://m.media-amazon.com/images/I/41j49rX4k2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ7S5JV-es Jack & Jones Jjeliam Leather Jacket Noos Chaqueta Negro...'
 sku: 'B07RZ7S5JV-es'
 tags: [ 'chaqueta', ]

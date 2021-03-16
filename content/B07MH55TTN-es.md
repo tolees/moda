@@ -5,7 +5,7 @@ date: 2020-02-04 17:42:59
 image: 'https://m.media-amazon.com/images/I/41fDZRq3M2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH55TTN-es Lacoste Sport Bh8843 Chaqueta Azul Océano/Marine Bnb XX-...'
 sku: 'B07MH55TTN-es'
 tags: [ 'chaqueta', ]

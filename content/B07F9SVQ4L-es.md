@@ -5,7 +5,7 @@ date: 2020-01-07 12:00:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XXseVsr4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9SVQ4L-es Esprit Kids RM1039307 Camiseta Blanco White 010 Talla del...'
 sku: 'B07F9SVQ4L-es'
 tags: [ 'camiseta', ]

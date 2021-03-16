@@ -5,7 +5,7 @@ date: 2020-09-18 08:22:25
 image: 'https://m.media-amazon.com/images/I/41EUIpZx7OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ2Q1CB-es Vans Flying V Crew tee Camiseta Negro Black Blk 36 Talla...'
 sku: 'B07MZ2Q1CB-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-25 11:36:15
 image: 'https://m.media-amazon.com/images/I/51BhyOFv3CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074V5D4XF-es SYMALL Bolso de Mano con Fleco Borlas Bolso de Noche...'
 sku: 'B074V5D4XF-es'
 tags: [ 'bolso', ]

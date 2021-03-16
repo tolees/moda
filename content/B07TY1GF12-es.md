@@ -5,7 +5,7 @@ date: 2020-03-23 15:32:28
 image: 'https://m.media-amazon.com/images/I/4196zhlFXpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY1GF12-es Women s Secret Mickey Vintage Mv DS Allover PJ FR...'
 sku: 'B07TY1GF12-es'
 tags: [ 'pijama', ]

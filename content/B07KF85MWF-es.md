@@ -5,7 +5,7 @@ date: 2020-03-09 09:28:34
 image: 'https://m.media-amazon.com/images/I/31qtNyddRUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF85MWF-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Norse Warp...'
 sku: 'B07KF85MWF-es'
 tags: [ 'vaqueros', ]

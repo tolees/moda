@@ -5,7 +5,7 @@ date: 2020-09-30 13:21:17
 image: 'https://m.media-amazon.com/images/I/41hq1SlJjWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRK9RXJ-es Geox D NYDAME E Zapatillas para Mujer Gris Lt Grey C1010...'
 sku: 'B07SRK9RXJ-es'
 tags: [ 'geox', ]

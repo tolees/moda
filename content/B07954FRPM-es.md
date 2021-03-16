@@ -5,7 +5,7 @@ date: 2020-07-03 09:30:26
 image: 'https://m.media-amazon.com/images/I/41Ts7kMa-qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07954FRPM-es NIKE M Nk Rpl Park 18 RN Jkt W Chaqueta de Deporte Hombre...'
 sku: 'B07954FRPM-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 10:27:19
 image: 'https://m.media-amazon.com/images/I/31SE1Wkfl8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5JJKVH-es Joma Open II Falda Señora Mujer Negro S'
 sku: 'B07P5JJKVH-es'
 tags: [ 'falda', ]

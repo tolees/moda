@@ -5,7 +5,7 @@ date: 2020-07-09 18:59:18
 image: 'https://m.media-amazon.com/images/I/315LdG4wNwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YRCXYXQ-es Marca Amazon - AURIQUE Contrast Panels BAL004 Mallas de...'
 sku: 'B07YRCXYXQ-es'
 tags: [ 'aurique', ]

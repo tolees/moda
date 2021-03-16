@@ -5,7 +5,7 @@ date: 2020-06-24 21:58:17
 image: 'https://m.media-amazon.com/images/I/31U0Z4Kn8dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDKC6PD-es Lacoste Ch9612 Camisa Azul Noir Phoenix/Lagon Nsv X-Small...'
 sku: 'B07MDKC6PD-es'
 tags: [ 'camisa', ]

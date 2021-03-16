@@ -5,7 +5,7 @@ date: 2020-05-06 19:39:03
 image: 'https://m.media-amazon.com/images/I/31tTKx8Z77L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC132XS-es Clarks Vargo Vibe Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MC132XS-es'
 tags: [ 'zapatos', ]

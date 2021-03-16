@@ -5,7 +5,7 @@ date: 2020-09-20 18:08:45
 image: 'https://m.media-amazon.com/images/I/41aGtvQTTjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F31KHV1-es Helly Hansen Crew Windbreaker Jacket Chaqueta deportiva...'
 sku: 'B07F31KHV1-es'
 tags: [ 'chaqueta', ]

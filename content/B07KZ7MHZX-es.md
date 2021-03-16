@@ -5,7 +5,7 @@ date: 2020-04-14 17:57:35
 image: 'https://m.media-amazon.com/images/I/3118A8otKSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZ7MHZX-es Calvin Klein Core Institutional Logo Slim tee Camiseta...'
 sku: 'B07KZ7MHZX-es'
 tags: [ 'camiseta', ]

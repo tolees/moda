@@ -5,7 +5,7 @@ date: 2020-02-11 09:53:12
 image: 'https://m.media-amazon.com/images/I/41Ckz2h9zzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRSKR-es Napapijri ABRAHA Chaqueta Verde Green Forest 2 GE3 S para...'
 sku: 'B07MGFRSKR-es'
 tags: [ 'chaqueta', ]

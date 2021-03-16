@@ -5,7 +5,7 @@ date: 2020-09-11 07:29:02
 image: 'https://m.media-amazon.com/images/I/41y+5Y3y0tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YV7B82D-es Jack & Jones Jprlogo BLU. tee SS Crew Neck Pre Camiseta...'
 sku: 'B07YV7B82D-es'
 tags: [ 'camiseta', ]

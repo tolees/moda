@@ -5,7 +5,7 @@ date: 2020-05-26 21:40:59
 image: 'https://m.media-amazon.com/images/I/41eU+TRtWEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9SDFF-es Levi s Barstow Western Standard Camisa Azul Red Cast Rinse...'
 sku: 'B07TJ9SDFF-es'
 tags: [ 'camisa', ]

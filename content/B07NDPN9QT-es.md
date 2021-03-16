@@ -5,7 +5,7 @@ date: 2020-04-02 06:54:25
 image: 'https://m.media-amazon.com/images/I/314FjT6A4RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPN9QT-es G-STAR RAW Citishield Round Neck Sudadera Azul Dk Aged 89...'
 sku: 'B07NDPN9QT-es'
 tags: [ 'sudadera', ]

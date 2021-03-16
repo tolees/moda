@@ -5,7 +5,7 @@ date: 2020-01-14 15:44:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vcQq2uN7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785GS4CZ-es Gregster Bauna Zapatos de Low Rise Senderismo para Hombre...'
 sku: 'B0785GS4CZ-es'
 tags: [ 'zapatos', ]

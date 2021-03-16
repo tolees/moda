@@ -5,7 +5,7 @@ date: 2020-01-22 12:35:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hYkf7YNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C94BCCR-es Columbia Ruckel Ridge Plus Waterproof Zapatos Impermeables...'
 sku: 'B07C94BCCR-es'
 tags: [ 'zapatos', ]

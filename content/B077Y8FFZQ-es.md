@@ -5,7 +5,7 @@ date: 2020-06-11 06:36:52
 image: 'https://m.media-amazon.com/images/I/41WYzqPjlXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y8FFZQ-es Sylvie Flirty Swimwear Bryana Braguita de Bikini para...'
 sku: 'B077Y8FFZQ-es'
 tags: [ 'bikini', ]

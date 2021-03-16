@@ -5,7 +5,7 @@ date: 2020-07-27 20:00:35
 image: 'https://m.media-amazon.com/images/I/41leI5NdsyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000W8AMRG-es Havaianas Slim Chanclas Mujer Negro Black 0090 39/40 EU'
 sku: 'B000W8AMRG-es'
 tags: [ 'chanclas', ]

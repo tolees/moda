@@ -5,7 +5,7 @@ date: 2020-01-20 12:36:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31h0jcEVFGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9GC3YG-es Bolso de Hombro para Mujer Bolsos Cruzados de Marca para...'
 sku: 'B07X9GC3YG-es'
 tags: [ 'bolso','moda', ]

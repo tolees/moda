@@ -5,7 +5,7 @@ date: 2020-03-09 17:02:35
 image: 'https://m.media-amazon.com/images/I/41rXmhYbyVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VQCX8H-es Levi s The Perfect Tee Camiseta Mujer Gris Pattern...'
 sku: 'B077VQCX8H-es'
 tags: [ 'camiseta', ]

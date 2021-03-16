@@ -5,7 +5,7 @@ date: 2020-05-16 18:07:56
 image: 'https://m.media-amazon.com/images/I/41vZxN4aKQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV972DB-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Sudadera...'
 sku: 'B07TV972DB-es'
 tags: [ 'sudadera', ]

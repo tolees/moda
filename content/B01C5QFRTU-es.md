@@ -5,7 +5,7 @@ date: 2020-02-16 20:27:09
 image: 'https://m.media-amazon.com/images/I/412ccp5n2uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C5QFRTU-es Emporio Armani Underwear 111610cc722 Bóxer Multicolor...'
 sku: 'B01C5QFRTU-es'
 tags: [ 'bóxer', ]

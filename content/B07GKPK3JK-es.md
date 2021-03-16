@@ -5,7 +5,7 @@ date: 2020-05-03 09:33:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41V96Mu4pEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKPK3JK-es Levi s Big and Tall 514 B&t Vaqueros Straight Azul Roald...'
 sku: 'B07GKPK3JK-es'
 tags: [ 'vaqueros', ]

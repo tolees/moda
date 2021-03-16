@@ -5,7 +5,7 @@ date: 2020-02-16 11:17:03
 image: 'https://m.media-amazon.com/images/I/41dKFdxBiOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF8RVYD-es Levi s Coit Down Puffer Chaqueta Marrón Cabernet 0000...'
 sku: 'B07LF8RVYD-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-02-24 19:20:56
 image: 'https://m.media-amazon.com/images/I/41y3mRNlgVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNX86P2-es SimpleLife Bolso de Las Mujeres del Bolso del Wristlet...'
 sku: 'B07NNX86P2-es'
 tags: [ 'bolso','monedero', ]

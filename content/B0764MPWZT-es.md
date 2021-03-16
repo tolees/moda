@@ -5,7 +5,7 @@ date: 2020-04-19 13:03:26
 image: 'https://m.media-amazon.com/images/I/41BTn9t6iRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0764MPWZT-es Kipling SILEN Bolso bandolera para Mujer Negro True Black...'
 sku: 'B0764MPWZT-es'
 tags: [ 'bolso', ]

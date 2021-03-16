@@ -5,7 +5,7 @@ date: 2020-09-14 18:32:10
 image: 'https://m.media-amazon.com/images/I/41k-0YTrOtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZ7XCQY-es Columbia Powder Lite Chaqueta De Plumón Niños Negro Black XS'
 sku: 'B07DZ7XCQY-es'
 tags: [ 'chaqueta', ]

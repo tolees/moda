@@ -5,7 +5,7 @@ date: 2020-08-23 02:01:46
 image: 'https://m.media-amazon.com/images/I/41gadxQnbiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0854DKYRP-es CheChury Bikini Mujer Moda Conjuntos De Bikini Rayas Talle...'
 sku: 'B0854DKYRP-es'
 tags: [ 'bikini','moda', ]

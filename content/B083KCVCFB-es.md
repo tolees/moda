@@ -5,7 +5,7 @@ date: 2020-05-15 19:32:43
 image: 'https://m.media-amazon.com/images/I/51I8F6qIZhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KCVCFB-es LuckyGirls Chic Sandalias Mujer Plataforma Cuña Verano...'
 sku: 'B083KCVCFB-es'
 tags: [ 'sandalias','zapatos', ]

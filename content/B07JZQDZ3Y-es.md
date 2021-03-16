@@ -5,7 +5,7 @@ date: 2020-02-09 08:50:58
 image: 'https://m.media-amazon.com/images/I/41stim4gb+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZQDZ3Y-es Lee Malone Vaqueros Blue Drop Em 29W / 30L para Hombre'
 sku: 'B07JZQDZ3Y-es'
 tags: [ 'vaqueros', ]

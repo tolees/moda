@@ -5,7 +5,7 @@ date: 2020-05-02 10:09:32
 image: 'https://m.media-amazon.com/images/I/41Ap8-0NwaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6ZSD69-es COZ7W|#Cole Haan Zerogrand Wingtip Zapatos de Cordones...'
 sku: 'B07M6ZSD69-es'
 tags: [ 'zapatos', ]

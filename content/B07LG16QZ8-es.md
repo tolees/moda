@@ -5,7 +5,7 @@ date: 2020-01-06 20:05:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31YKH7U6kcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG16QZ8-es Geox U Jaylon F Botas Clasicas para Hombre Negro Black...'
 sku: 'B07LG16QZ8-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-02-08 19:04:05
 image: 'https://m.media-amazon.com/images/I/51pvBblSipL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVG2DS8-es Kipling Art Bolso de Mano para Mujer Morado Dark Plum...'
 sku: 'B07MVG2DS8-es'
 tags: [ 'bolso', ]

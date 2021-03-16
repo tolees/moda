@@ -5,7 +5,7 @@ date: 2020-03-07 12:50:46
 image: 'https://m.media-amazon.com/images/I/51fLV66LDrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XR67H5V-es TABIGER - 4 Unidades de Luces LED Luminosas Reflectantes...'
 sku: 'B07XR67H5V-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-06-17 11:38:27
 image: 'https://m.media-amazon.com/images/I/41hYqVH7rVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CSTQ95A-es Joma Nobel Pantalón de equipación Antracita S'
 sku: 'B01CSTQ95A-es'
 tags: [ 'pantalón', ]

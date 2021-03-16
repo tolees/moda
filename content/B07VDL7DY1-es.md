@@ -5,7 +5,7 @@ date: 2020-05-13 14:20:31
 image: 'https://m.media-amazon.com/images/I/41PMRAhFYiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDL7DY1-es Esprit 099ee1d003s Falda Negro Black 001 Small para Mujer'
 sku: 'B07VDL7DY1-es'
 tags: [ 'falda', ]

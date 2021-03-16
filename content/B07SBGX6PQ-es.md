@@ -5,7 +5,7 @@ date: 2020-06-16 09:51:36
 image: 'https://m.media-amazon.com/images/I/31-83tES6TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBGX6PQ-es Lee Austin Vaqueros Tapered Azul Mission Clean Zg 29W /...'
 sku: 'B07SBGX6PQ-es'
 tags: [ 'vaqueros', ]

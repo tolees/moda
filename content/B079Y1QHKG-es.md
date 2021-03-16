@@ -5,7 +5,7 @@ date: 2020-04-01 16:00:30
 image: 'https://m.media-amazon.com/images/I/31WWTPuyl1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Y1QHKG-es PUMA Liga TR JSY Camiseta de Manga Corta Hombre Verde...'
 sku: 'B079Y1QHKG-es'
 tags: [ 'camiseta', ]

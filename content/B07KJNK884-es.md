@@ -5,7 +5,7 @@ date: 2020-06-23 12:31:52
 image: 'https://m.media-amazon.com/images/I/51nc1lcL9tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJNK884-es Levi s Big and Tall 501 Button Fly B&t Vaqueros Straight...'
 sku: 'B07KJNK884-es'
 tags: [ 'vaqueros', ]

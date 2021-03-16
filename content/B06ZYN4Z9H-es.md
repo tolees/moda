@@ -5,7 +5,7 @@ date: 2020-03-10 15:54:19
 image: 'https://m.media-amazon.com/images/I/31l0X+vVD3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYN4Z9H-es Prada 67Ts Gafas de Sol Unisex Adulto Negro Black 63'
 sku: 'B06ZYN4Z9H-es'
 tags: [ 'gafas', ]

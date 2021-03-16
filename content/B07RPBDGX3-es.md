@@ -5,7 +5,7 @@ date: 2020-04-16 20:15:38
 image: 'https://m.media-amazon.com/images/I/31U0U7V2h5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPBDGX3-es HAWKERS Warwick Gafas de sol Carbon Black Chrome One Size...'
 sku: 'B07RPBDGX3-es'
 tags: [ 'gafas', ]

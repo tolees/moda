@@ -5,7 +5,7 @@ date: 2020-06-27 22:24:31
 image: 'https://m.media-amazon.com/images/I/31iH1pVJU1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCLN86S-es Lee Daren Zip Fly Vaqueros Mission Clean Zg 32W / 30L para...'
 sku: 'B07SCLN86S-es'
 tags: [ 'vaqueros', ]

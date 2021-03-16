@@ -5,7 +5,7 @@ date: 2020-04-05 20:26:16
 image: 'https://m.media-amazon.com/images/I/31jgLTiE2TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFTZTSZ-es Geox U HALLSON A Botas Chukka para Hombre Negro Black...'
 sku: 'B07LFTZTSZ-es'
 tags: [ 'geox', ]

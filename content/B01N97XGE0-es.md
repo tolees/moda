@@ -5,7 +5,7 @@ date: 2020-08-27 16:03:43
 image: 'https://m.media-amazon.com/images/I/31iogvfYL2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N97XGE0-es Nike Kawa Shower Chanclas Hombre Negro Black/White 42.5 EU'
 sku: 'B01N97XGE0-es'
 tags: [ 'chanclas', ]

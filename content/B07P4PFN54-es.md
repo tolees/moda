@@ -5,7 +5,7 @@ date: 2020-02-23 22:57:28
 image: 'https://m.media-amazon.com/images/I/31lJXOxYnYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4PFN54-es Art Mainz Zapatos de Cordones Brogue Unisex Adulto Marrón...'
 sku: 'B07P4PFN54-es'
 tags: [ 'zapatos', ]

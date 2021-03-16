@@ -5,7 +5,7 @@ date: 2020-08-22 11:55:44
 image: 'https://m.media-amazon.com/images/I/31u2GMy2UOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPYSHWB-es Clarks Unwilmore Ray Sandalias Punta Cerrada para Hombre...'
 sku: 'B07TPYSHWB-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-01-23 13:33:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xio8pExjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XMB6XN-es Gaatpot Zapatos Invierno Botas Forradas de Nieve...'
 sku: 'B075XMB6XN-es'
 tags: [ 'botines','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-10-08 08:08:18
 image: 'https://m.media-amazon.com/images/I/31cj7aBxMxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH2T43W-es Under Armour Playoff 20 Men s Transpirable Hombre cómoda y...'
 sku: 'B07RH2T43W-es'
 tags: [ 'camisa', ]

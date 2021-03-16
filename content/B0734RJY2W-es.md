@@ -5,7 +5,7 @@ date: 2020-07-15 23:56:24
 image: 'https://m.media-amazon.com/images/I/31ptMzmP7TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0734RJY2W-es find. Zapatos de Charol y Empeine Alto para Mujer Rojo Red...'
 sku: 'B0734RJY2W-es'
 tags: [ 'zapatos', ]

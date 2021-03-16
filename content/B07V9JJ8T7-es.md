@@ -5,7 +5,7 @@ date: 2020-06-22 20:04:51
 image: 'https://m.media-amazon.com/images/I/31grN6765aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9JJ8T7-es Calvin Klein Essential Slim V Neck tee Camiseta Negro CK...'
 sku: 'B07V9JJ8T7-es'
 tags: [ 'camiseta', ]

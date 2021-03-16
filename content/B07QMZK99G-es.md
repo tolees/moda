@@ -5,7 +5,7 @@ date: 2020-04-02 09:34:27
 image: 'https://m.media-amazon.com/images/I/51OvEzbGs8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMZK99G-es YACUN Sujetador Deportivo Mujer Bra Chaleco de Malla Yoga...'
 sku: 'B07QMZK99G-es'
 tags: [ 'chaleco', ]

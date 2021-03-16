@@ -5,7 +5,7 @@ date: 2020-10-02 13:03:43
 image: 'https://m.media-amazon.com/images/I/41OZLbdP6hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWBFQGW-es Levi s The tee Camiseta Rojo BRW T2 Tomato 0792 Medium...'
 sku: 'B07TWBFQGW-es'
 tags: [ 'camiseta', ]

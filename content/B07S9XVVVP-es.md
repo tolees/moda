@@ -5,7 +5,7 @@ date: 2020-01-10 13:48:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VjiPVMv5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9XVVVP-es FTIMILD - Chaqueta de Pana para Hombre con Cremallera...'
 sku: 'B07S9XVVVP-es'
 tags: [ 'chaqueta', ]

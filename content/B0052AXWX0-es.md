@@ -5,7 +5,7 @@ date: 2020-04-14 14:25:58
 image: 'https://m.media-amazon.com/images/I/41K2nGLmqZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0052AXWX0-es Columbia 1420421 Chaqueta Forro Polar Hombre Negro Black L'
 sku: 'B0052AXWX0-es'
 tags: [ 'chaqueta', ]

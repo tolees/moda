@@ -5,7 +5,7 @@ date: 2020-10-03 17:43:17
 image: 'https://m.media-amazon.com/images/I/31NFhETEqYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T6N2D8Y-es Timberland Classic 2 Eye Náuticos para Hombre Beige Light...'
 sku: 'B07T6N2D8Y-es'
 tags: [ 'timberland', ]

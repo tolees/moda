@@ -5,7 +5,7 @@ date: 2020-06-30 12:02:11
 image: 'https://m.media-amazon.com/images/I/315YUHQ985L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNQYT4V-es HAWKERS - Gafas de sol para hombre y mujer ONE Negro'
 sku: 'B07JNQYT4V-es'
 tags: [ 'gafas', ]

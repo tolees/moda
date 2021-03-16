@@ -5,7 +5,7 @@ date: 2020-08-19 08:00:21
 image: 'https://m.media-amazon.com/images/I/31yzOcnigEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6T6CRN-es Tommy Hilfiger RWB Pocket Flex tee Camiseta Deporte Blanco...'
 sku: 'B07W6T6CRN-es'
 tags: [ 'camiseta', ]

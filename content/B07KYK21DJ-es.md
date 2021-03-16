@@ -5,7 +5,7 @@ date: 2020-06-04 10:20:29
 image: 'https://m.media-amazon.com/images/I/41CB-Omq-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYK21DJ-es Mallalah Chaqueta de bebé niña Abrigo Trench Coat Sudadera...'
 sku: 'B07KYK21DJ-es'
 tags: [ 'abrigo','chaqueta','parka','sudadera', ]

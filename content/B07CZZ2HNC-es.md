@@ -5,7 +5,7 @@ date: 2020-04-18 09:08:02
 image: 'https://m.media-amazon.com/images/I/31jgc6nZqSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZZ2HNC-es Under Armour UA Qualifier Speedpocket 7 Short Pantalón...'
 sku: 'B07CZZ2HNC-es'
 tags: [ 'pantalón', ]

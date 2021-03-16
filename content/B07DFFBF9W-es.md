@@ -5,7 +5,7 @@ date: 2020-06-08 08:45:54
 image: 'https://m.media-amazon.com/images/I/41P0DmLlgDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFFBF9W-es Niños Trolley Mochila Escolar Bolso - Niña Niño con Ruedas...'
 sku: 'B07DFFBF9W-es'
 tags: [ 'bolso', ]

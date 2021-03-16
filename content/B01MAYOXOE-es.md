@@ -5,7 +5,7 @@ date: 2020-06-30 15:24:03
 image: 'https://m.media-amazon.com/images/I/41GsOFusCmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MAYOXOE-es Speedo Biofuse Rift Gafas de Natación Unisex niños...'
 sku: 'B01MAYOXOE-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-06-22 16:34:02
 image: 'https://m.media-amazon.com/images/I/41yoj8CFPqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001QOJ1ZY-es Levi s 501 Original Fit- Vaqueros para hombre Azul 33W x 32L'
 sku: 'B001QOJ1ZY-es'
 tags: [ 'vaqueros', ]

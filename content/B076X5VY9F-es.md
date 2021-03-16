@@ -5,7 +5,7 @@ date: 2020-01-15 01:21:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31upIe-fOhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X5VY9F-es Geox U SAYMORE C Zapatos de Cordones Derby para Hombre...'
 sku: 'B076X5VY9F-es'
 tags: [ 'geox','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-07 22:23:13
 image: 'https://m.media-amazon.com/images/I/418wUy7eJBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZW5W7S4-es Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón...'
 sku: 'B07ZW5W7S4-es'
 tags: [ '-','find.','zapatos', ]

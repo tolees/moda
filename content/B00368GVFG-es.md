@@ -5,7 +5,7 @@ date: 2020-07-29 12:23:34
 image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00368GVFG-es adidas Adilette Zapatos de playa y piscina Unisex adulto...'
 sku: 'B00368GVFG-es'
 tags: [ 'zapatos', ]

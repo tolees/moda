@@ -5,7 +5,7 @@ date: 2020-04-19 13:05:34
 image: 'https://m.media-amazon.com/images/I/31cmeUdPBML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M83W2ZJ-es Napapijri Rainforest Pocket Chaqueta Verde Hunter Green 2...'
 sku: 'B07M83W2ZJ-es'
 tags: [ 'chaqueta', ]

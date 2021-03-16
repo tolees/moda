@@ -5,7 +5,7 @@ date: 2019-12-31 18:35:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vMA%2BHQQ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D724ZSD-es Levi s Type 3 Sherpa Trucker Chaqueta Negro Black Cord...'
 sku: 'B07D724ZSD-es'
 tags: [ 'chaqueta', ]

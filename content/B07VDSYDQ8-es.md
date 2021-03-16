@@ -5,7 +5,7 @@ date: 2020-02-16 18:23:51
 image: 'https://m.media-amazon.com/images/I/41fAecDmVML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDSYDQ8-es Reebok Boxer para Hombre Multicolor X-Large pack de 4'
 sku: 'B07VDSYDQ8-es'
 tags: [ 'boxer', ]

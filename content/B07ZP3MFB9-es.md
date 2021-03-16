@@ -5,7 +5,7 @@ date: 2020-04-18 12:31:28
 image: 'https://m.media-amazon.com/images/I/41WwsXs1uLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZP3MFB9-es LuckyGirls Accesorios de protección Solar de Estilo...'
 sku: 'B07ZP3MFB9-es'
 tags: [ 'guantes', ]

@@ -5,7 +5,7 @@ date: 2020-07-31 02:47:38
 image: 'https://m.media-amazon.com/images/I/31dVkoVIVdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AFO9DT4-es Diesel UMTEE-JAKETHREEPACK Camiseta para Hombre Multicolor...'
 sku: 'B01AFO9DT4-es'
 tags: [ 'camiseta', ]

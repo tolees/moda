@@ -5,7 +5,7 @@ date: 2020-05-07 18:46:18
 image: 'https://m.media-amazon.com/images/I/41I+KRo2FIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SF8EE9M-es G-STAR RAW Revend Skinny Vaqueros Dk Aged 6590-89 36W /...'
 sku: 'B00SF8EE9M-es'
 tags: [ 'vaqueros', ]

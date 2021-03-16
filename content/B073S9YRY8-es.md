@@ -5,7 +5,7 @@ date: 2020-04-05 22:15:33
 image: 'https://m.media-amazon.com/images/I/41uvlI2nROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073S9YRY8-es GANT Stretch Oxford Banker Shirt Camisa Azul Nautical Blue...'
 sku: 'B073S9YRY8-es'
 tags: [ 'camisa', ]

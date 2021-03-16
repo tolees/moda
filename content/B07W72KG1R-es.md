@@ -5,7 +5,7 @@ date: 2020-08-14 16:42:51
 image: 'https://m.media-amazon.com/images/I/41RnNOHsfrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W72KG1R-es Springfield Web Naming Stripes-C/41 Camiseta Gris Dark...'
 sku: 'B07W72KG1R-es'
 tags: [ 'camiseta', ]

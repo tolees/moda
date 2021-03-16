@@ -5,7 +5,7 @@ date: 2020-04-25 15:02:36
 image: 'https://m.media-amazon.com/images/I/41JSqygC2KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDY23CH-es LoveOlvidoE 1: 6 Mujer Mujer Soldado Simulación Stiletto...'
 sku: 'B07PDY23CH-es'
 tags: [ 'zapatos', ]

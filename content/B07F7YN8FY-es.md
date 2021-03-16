@@ -5,7 +5,7 @@ date: 2020-10-09 17:21:30
 image: 'https://m.media-amazon.com/images/I/41NIzlh8DhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7YN8FY-es Only Onlpaola HW SK Dnm Jeans Azgz878 Noos Vaqueros Skinny...'
 sku: 'B07F7YN8FY-es'
 tags: [ 'vaqueros', ]

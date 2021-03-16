@@ -5,7 +5,7 @@ date: 2020-06-24 15:14:50
 image: 'https://m.media-amazon.com/images/I/419HHrXjo2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFFVFQQ-es Levi s 514 Vaqueros Straight Azul Orinda ADV 1009 W36/L30...'
 sku: 'B07LFFVFQQ-es'
 tags: [ 'vaqueros', ]

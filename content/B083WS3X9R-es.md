@@ -5,7 +5,7 @@ date: 2020-04-13 19:16:11
 image: 'https://m.media-amazon.com/images/I/41eDuEq-AQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083WS3X9R-es STARBILD Leggins Deportivas para Mujer para Adelgazar...'
 sku: 'B083WS3X9R-es'
 tags: [ 'leggins','pantalón', ]

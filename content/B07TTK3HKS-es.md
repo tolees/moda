@@ -5,7 +5,7 @@ date: 2020-08-17 11:50:57
 image: 'https://m.media-amazon.com/images/I/41ap5QO-xSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTK3HKS-es Wrangler LS 1 Pkt Button Down Camisa Rojo Redlight 82v...'
 sku: 'B07TTK3HKS-es'
 tags: [ 'camisa', ]

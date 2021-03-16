@@ -5,7 +5,7 @@ date: 2020-04-09 06:29:26
 image: 'https://m.media-amazon.com/images/I/41g23W3RoLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2KQBG6-es Geox J Kalispera Girl I Zapatillas Altas para Niñas Negro...'
 sku: 'B06Y2KQBG6-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-09-21 20:07:49
 image: 'https://m.media-amazon.com/images/I/31iX21TcgoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4SPLB-es Levi s Original Hm Icon Crew Sudadera Blanco White + 0014...'
 sku: 'B07KF4SPLB-es'
 tags: [ 'sudadera', ]

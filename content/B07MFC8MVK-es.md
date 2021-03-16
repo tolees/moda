@@ -5,7 +5,7 @@ date: 2020-02-22 11:27:41
 image: 'https://m.media-amazon.com/images/I/41QL0mvrQvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFC8MVK-es FOSTAK Bolsos totes/Bolso de hombro para mujer Bolso de...'
 sku: 'B07MFC8MVK-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-04-09 09:28:10
 image: 'https://m.media-amazon.com/images/I/41S0Eo8sXpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ5BJ3L-es Women s Secret Trendy Tapestry TT Indiana White PJ...'
 sku: 'B07TZ5BJ3L-es'
 tags: [ 'pijama', ]

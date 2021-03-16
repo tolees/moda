@@ -5,7 +5,7 @@ date: 2020-03-17 09:35:19
 image: 'https://m.media-amazon.com/images/I/41kKb+O4H1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073BFDYSD-es BaronHong Gynecomastia compresión Camisa Chaleco para...'
 sku: 'B073BFDYSD-es'
 tags: [ 'camisa','chaleco', ]

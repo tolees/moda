@@ -5,7 +5,7 @@ date: 2020-01-14 21:29:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415mhkipLFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N43PCNR-es Desigual Blouse LUMBE Blusa Blanco Blanco 1000 XL para Mujer'
 sku: 'B07N43PCNR-es'
 tags: [ 'blusa', ]

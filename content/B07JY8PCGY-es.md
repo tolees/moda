@@ -5,7 +5,7 @@ date: 2020-05-12 19:41:23
 image: 'https://m.media-amazon.com/images/I/41f4068pA8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY8PCGY-es Goodthreads - Bañador para hombre de 12 7 cm de tiro Green...'
 sku: 'B07JY8PCGY-es'
 tags: [ 'goodthreads', ]

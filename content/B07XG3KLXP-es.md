@@ -5,7 +5,7 @@ date: 2020-09-24 09:38:21
 image: 'https://m.media-amazon.com/images/I/318Ifu3eqdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG3KLXP-es Izod Basic Solid tee Camiseta Azul Angel Blue 450 Small...'
 sku: 'B07XG3KLXP-es'
 tags: [ 'camiseta', ]

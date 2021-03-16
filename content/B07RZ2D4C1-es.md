@@ -5,7 +5,7 @@ date: 2020-04-26 13:41:19
 image: 'https://m.media-amazon.com/images/I/41w+HnF+1AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ2D4C1-es BILLABONG Bus Stop Jacket Chaqueta Deportiva Hombre Negro...'
 sku: 'B07RZ2D4C1-es'
 tags: [ 'chaqueta', ]

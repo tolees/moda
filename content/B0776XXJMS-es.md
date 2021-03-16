@@ -5,7 +5,7 @@ date: 2020-05-26 12:00:21
 image: 'https://m.media-amazon.com/images/I/31uqgQ3BM3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776XXJMS-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo Negro...'
 sku: 'B0776XXJMS-es'
 tags: [ 'camiseta', ]

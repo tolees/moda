@@ -5,7 +5,7 @@ date: 2020-09-27 12:07:04
 image: 'https://m.media-amazon.com/images/I/31Rxo+rXNsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NTCLB-es PUMA Popcat 20 Sandalias deslizantes Unisex niños Negro...'
 sku: 'B07S6NTCLB-es'
 tags: [ 'sandalias', ]

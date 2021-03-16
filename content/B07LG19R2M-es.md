@@ -5,7 +5,7 @@ date: 2020-02-01 20:17:16
 image: 'https://m.media-amazon.com/images/I/310ZQok8FtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG19R2M-es Geox D Nebula D Zapatillas para Mujer Gris Dk Grey C9002...'
 sku: 'B07LG19R2M-es'
 tags: [ 'geox', ]

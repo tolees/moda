@@ -5,7 +5,7 @@ date: 2020-05-27 11:04:40
 image: 'https://m.media-amazon.com/images/I/41Chon7mxeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6WYTKG-es Rockport - Zapatos de tacón Melora de Piel 39 EU Alpaca'
 sku: 'B07H6WYTKG-es'
 tags: [ 'zapatos', ]

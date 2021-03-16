@@ -5,7 +5,7 @@ date: 2020-02-28 11:02:47
 image: 'https://m.media-amazon.com/images/I/31Mw67EOVfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN47DBM-es Wrangler Straight Vaqueros para Mujer Azul Dark Indigo X1E...'
 sku: 'B07MN47DBM-es'
 tags: [ 'vaqueros', ]

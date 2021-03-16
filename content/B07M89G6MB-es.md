@@ -5,7 +5,7 @@ date: 2020-06-13 06:18:49
 image: 'https://m.media-amazon.com/images/I/31gEPV+vieL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M89G6MB-es Lee Daren Jeans Vaqueros Straight Gris Moto Grey HG 34W /...'
 sku: 'B07M89G6MB-es'
 tags: [ 'vaqueros', ]

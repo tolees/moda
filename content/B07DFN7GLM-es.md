@@ -5,7 +5,7 @@ date: 2020-05-03 00:37:16
 image: 'https://m.media-amazon.com/images/I/51yL+MFiVFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFN7GLM-es ONLY NOS Onlsedona Boucle Wool Coat Otw Noos Abrigo Gris...'
 sku: 'B07DFN7GLM-es'
 tags: [ 'abrigo', ]

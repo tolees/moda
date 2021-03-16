@@ -5,7 +5,7 @@ date: 2020-06-27 14:56:38
 image: 'https://m.media-amazon.com/images/I/41LI9-gpQkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J1LZ59Y-es Crocs Crocband Clog K Zuecos con Correa Unisex Niños Azul...'
 sku: 'B01J1LZ59Y-es'
 tags: [ 'zuecos', ]

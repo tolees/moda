@@ -5,7 +5,7 @@ date: 2020-03-09 11:39:27
 image: 'https://m.media-amazon.com/images/I/41jdJeH-gNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPHJ4F-es Pepe Jeans Rick Chaqueta Berry Red 280 X-Large para Hombre'
 sku: 'B07MZPHJ4F-es'
 tags: [ 'chaqueta', ]

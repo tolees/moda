@@ -5,7 +5,7 @@ date: 2020-02-20 17:58:42
 image: 'https://m.media-amazon.com/images/I/41iMBf3VGKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PW8YKS8-es Duevin Bolso de la Motocicleta de la Mujer Mate PU...'
 sku: 'B07PW8YKS8-es'
 tags: [ 'bolso', ]

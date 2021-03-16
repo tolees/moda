@@ -5,7 +5,7 @@ date: 2020-09-29 09:29:00
 image: 'https://m.media-amazon.com/images/I/21QapyNV98L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076TVLK7R-es Fruit of the Loom Mens Original 5 Pack T-Shirt Camiseta...'
 sku: 'B076TVLK7R-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-24 18:04:00
 image: 'https://m.media-amazon.com/images/I/41yyoqvP45L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFNSH52-es Levi s The Perfect Tee Camiseta Mujer Azul Hsmk Red Flock...'
 sku: 'B07LFNSH52-es'
 tags: [ 'camiseta', ]

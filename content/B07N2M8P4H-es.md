@@ -5,7 +5,7 @@ date: 2020-02-26 14:26:34
 image: 'https://m.media-amazon.com/images/I/51xY3jTXyML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2M8P4H-es LEMEGO Bolsa Bicicleta Manillar para Ciclista Ciclismo...'
 sku: 'B07N2M8P4H-es'
 tags: [ 'bolso', ]

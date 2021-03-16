@@ -5,7 +5,7 @@ date: 2020-05-05 12:41:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412IALAuUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071S3LHTZ-es FIND Vestido Ajustable para Mujer Negro Schwarz 36 Talla...'
 sku: 'B071S3LHTZ-es'
 tags: [ 'vestido', ]

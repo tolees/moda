@@ -5,7 +5,7 @@ date: 2020-06-04 01:17:35
 image: 'https://m.media-amazon.com/images/I/41h9vAU5hxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015W9LBH4-es Levi s kids Short Sleeves Batwin T-Shirt Camiseta para...'
 sku: 'B015W9LBH4-es'
 tags: [ 'camiseta', ]

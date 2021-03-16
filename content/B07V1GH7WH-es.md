@@ -5,7 +5,7 @@ date: 2020-02-17 13:25:44
 image: 'https://m.media-amazon.com/images/I/41gLnII0ITL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1GH7WH-es Wrangler ICONS Camisa Vaquera Azul 2 Years 922 XXX-Large...'
 sku: 'B07V1GH7WH-es'
 tags: [ 'camisa', ]

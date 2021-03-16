@@ -5,7 +5,7 @@ date: 2020-01-22 15:04:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31CKJWxnJ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHT2LP7-es Vans VN0A3I6C - Billetera de Sintético hombre Rojo Rojo...'
 sku: 'B07WHT2LP7-es'
 tags: [ 'billetera', ]

@@ -5,7 +5,7 @@ date: 2020-04-19 17:03:56
 image: 'https://m.media-amazon.com/images/I/315dMkNi0cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S89TRHQ-es Lee Rider Jeans Vaqueros Mission Worn 31W / 32L para Hombre'
 sku: 'B07S89TRHQ-es'
 tags: [ 'vaqueros', ]

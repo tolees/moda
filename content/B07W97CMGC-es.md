@@ -5,7 +5,7 @@ date: 2020-08-23 04:09:52
 image: 'https://m.media-amazon.com/images/I/31HABmcFT8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W97CMGC-es FIND Block Heel Round Toe Zapatos de Tacón Naranja Red 37 EU'
 sku: 'B07W97CMGC-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-02-20 23:18:43
 image: 'https://m.media-amazon.com/images/I/31bOutmKZBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYLB5Q-es Geox D Felicity I Botas Mosqueteras para Mujer Negro Black...'
 sku: 'B07LFYLB5Q-es'
 tags: [ 'geox', ]

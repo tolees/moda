@@ -5,7 +5,7 @@ date: 2020-05-22 08:25:54
 image: 'https://m.media-amazon.com/images/I/417fUhiS++L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKVMFVJ-es Tous New Essence Bolso bandolera para Mujer Multicolor...'
 sku: 'B07PKVMFVJ-es'
 tags: [ 'bolso', ]

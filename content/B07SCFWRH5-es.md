@@ -5,7 +5,7 @@ date: 2020-08-30 19:33:19
 image: 'https://m.media-amazon.com/images/I/410D4GlU-eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCFWRH5-es adidas FreeLift Climachill 3-Stripes tee Men Camiseta de...'
 sku: 'B07SCFWRH5-es'
 tags: [ 'camiseta', ]

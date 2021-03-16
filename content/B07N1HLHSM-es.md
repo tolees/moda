@@ -5,7 +5,7 @@ date: 2020-02-08 13:36:28
 image: 'https://m.media-amazon.com/images/I/418BQRltzxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HLHSM-es Clarks Un Cosmo Way Zapatos de Tacón para Mujer Gris Grey...'
 sku: 'B07N1HLHSM-es'
 tags: [ 'zapatos', ]

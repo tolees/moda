@@ -5,7 +5,7 @@ date: 2020-04-06 16:04:41
 image: 'https://m.media-amazon.com/images/I/41Iiq7st+ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC8L2CL-es Columbia Challenger Chaqueta Sudadera Hombre Azul Dark...'
 sku: 'B07RC8L2CL-es'
 tags: [ 'chaqueta','sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-01-14 09:24:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oLitbi6HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FYW2LW-es Star Wars HQ2022 Pijama de una Pieza Gris Grey 4 años...'
 sku: 'B074FYW2LW-es'
 tags: [ 'pijama', ]

@@ -5,7 +5,7 @@ date: 2020-02-04 10:19:59
 image: 'https://m.media-amazon.com/images/I/41XHUu71sZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P87K6WM-es JACK & JONES Jcofin Shirt LS Plain Camisa Multicolor Blue...'
 sku: 'B07P87K6WM-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-09-15 18:01:14
 image: 'https://m.media-amazon.com/images/I/31f6KKAhrwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMT86VX-es FitFlop Lottie Shimmermesh Chanclas para Mujer Negro Black...'
 sku: 'B07KMT86VX-es'
 tags: [ 'chanclas', ]

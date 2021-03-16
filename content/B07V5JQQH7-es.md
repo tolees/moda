@@ -5,7 +5,7 @@ date: 2020-06-09 13:32:57
 image: 'https://m.media-amazon.com/images/I/31ZyzfoyugL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5JQQH7-es QUIZ Contrast Midi Dress Vestido Fiesta Mujer Negro Black...'
 sku: 'B07V5JQQH7-es'
 tags: [ 'vestido', ]

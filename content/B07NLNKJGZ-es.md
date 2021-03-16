@@ -5,7 +5,7 @@ date: 2020-09-14 13:12:52
 image: 'https://m.media-amazon.com/images/I/41jcut3599L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLNKJGZ-es ARTESANIA CERDA BOLSO RIÑONERA BATMAN Gris'
 sku: 'B07NLNKJGZ-es'
 tags: [ 'bolso', ]

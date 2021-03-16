@@ -5,7 +5,7 @@ date: 2020-08-28 13:01:28
 image: 'https://m.media-amazon.com/images/I/51lEkmmBSAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PBDKN8-es Suhctup Funda Compatible con OnePlus 7T Billetera Carcasa...'
 sku: 'B087PBDKN8-es'
 tags: [ 'billetera', ]

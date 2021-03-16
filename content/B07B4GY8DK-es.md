@@ -5,7 +5,7 @@ date: 2020-06-24 16:02:22
 image: 'https://m.media-amazon.com/images/I/41199RweyQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4GY8DK-es Mandarina Duck Mellow Leather Tracolla/Amphora Bolso...'
 sku: 'B07B4GY8DK-es'
 tags: [ 'bolso', ]

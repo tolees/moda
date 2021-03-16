@@ -5,7 +5,7 @@ date: 2020-07-23 16:33:47
 image: 'https://m.media-amazon.com/images/I/31NeM455ZkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SP3N4JC-es Havaianas Flash Urban Plus Sandalias de Talón Abierto para...'
 sku: 'B07SP3N4JC-es'
 tags: [ 'sandalias', ]

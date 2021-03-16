@@ -5,7 +5,7 @@ date: 2020-06-21 11:01:24
 image: 'https://m.media-amazon.com/images/I/31UgvlD6D7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000K9YUSY-es Birkenstock 51791 - Sandalias con hebilla unisex Negro 42...'
 sku: 'B000K9YUSY-es'
 tags: [ 'sandalias', ]

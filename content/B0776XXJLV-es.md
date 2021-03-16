@@ -5,7 +5,7 @@ date: 2020-03-23 13:19:31
 image: 'https://m.media-amazon.com/images/I/310KS8hlpmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776XXJLV-es Tommy Hilfiger Original Jersey Camiseta Blanco Classic...'
 sku: 'B0776XXJLV-es'
 tags: [ 'camiseta','jersey', ]

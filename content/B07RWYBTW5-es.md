@@ -5,7 +5,7 @@ date: 2020-03-05 15:50:01
 image: 'https://m.media-amazon.com/images/I/41IqultGVcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWYBTW5-es Juego de destornilladores de precisión juego de...'
 sku: 'B07RWYBTW5-es'
 tags: [ 'gafas', ]

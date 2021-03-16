@@ -5,7 +5,7 @@ date: 2020-05-02 12:20:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419h8SyVp6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GNKHTR-es find. 59179 vaqueros mujer Azul Mid Blue W30/L32 Talla del...'
 sku: 'B071GNKHTR-es'
 tags: [ 'vaqueros', ]

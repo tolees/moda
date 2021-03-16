@@ -5,7 +5,7 @@ date: 2020-06-12 08:19:25
 image: 'https://m.media-amazon.com/images/I/31N8jUKw2YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z2T84YY-es Charles Wilson Camiseta Polo Clásica Lisa X-Small Graphite...'
 sku: 'B07Z2T84YY-es'
 tags: [ 'camiseta', ]

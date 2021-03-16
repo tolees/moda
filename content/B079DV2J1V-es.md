@@ -5,7 +5,7 @@ date: 2020-02-04 11:45:51
 image: 'https://m.media-amazon.com/images/I/516gLhAYOSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DV2J1V-es NOTONEON Collar del Regalo del día de la Madre Plata del...'
 sku: 'B079DV2J1V-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-09-04 09:12:53
 image: 'https://m.media-amazon.com/images/I/41ATSpd3-kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005SG4G9C-es Batman Logo - Camiseta para Hombre Color Negro Talla M/M'
 sku: 'B005SG4G9C-es'
 tags: [ 'camiseta', ]

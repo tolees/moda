@@ -5,7 +5,7 @@ date: 2020-08-02 19:59:12
 image: 'https://m.media-amazon.com/images/I/41BtyjkBZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4SJ3SL-es Pepe Jeans Gen Vaqueros Straight Azul 000Denim 000 W24/L34...'
 sku: 'B07X4SJ3SL-es'
 tags: [ 'vaqueros', ]

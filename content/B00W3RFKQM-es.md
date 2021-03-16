@@ -5,7 +5,7 @@ date: 2020-06-17 13:32:21
 image: 'https://m.media-amazon.com/images/I/41svDiSszfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W3RFKQM-es Joma Gala Sudadera Hombre Naranja M'
 sku: 'B00W3RFKQM-es'
 tags: [ 'sudadera', ]

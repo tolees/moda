@@ -5,7 +5,7 @@ date: 2020-01-10 10:18:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51rlQIccryL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFVQKGH-es edc by Esprit 019cc1f005 Blusa Blanco Off White 110 Large...'
 sku: 'B07KFVQKGH-es'
 tags: [ 'blusa', ]

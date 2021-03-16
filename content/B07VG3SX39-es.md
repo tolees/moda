@@ -5,7 +5,7 @@ date: 2020-03-04 18:48:20
 image: 'https://m.media-amazon.com/images/I/319-Gsk1fdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VG3SX39-es edc by Esprit 099cc1g027 Abrigo Azul Navy 400 X-Small para...'
 sku: 'B07VG3SX39-es'
 tags: [ 'abrigo', ]

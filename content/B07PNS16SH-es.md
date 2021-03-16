@@ -5,7 +5,7 @@ date: 2020-10-03 12:46:12
 image: 'https://m.media-amazon.com/images/I/415gNKo92VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNS16SH-es Under Armour Challenger III Knit Short Pantalones Cortos...'
 sku: 'B07PNS16SH-es'
 tags: [ 'pantalón', ]

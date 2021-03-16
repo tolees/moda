@@ -5,7 +5,7 @@ date: 2020-02-15 17:22:51
 image: 'https://m.media-amazon.com/images/I/412loR1CisL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSRP7DT-es CMP Rigel Zapatos de Low Rise Senderismo Unisex Niños...'
 sku: 'B07MSRP7DT-es'
 tags: [ 'zapatos', ]

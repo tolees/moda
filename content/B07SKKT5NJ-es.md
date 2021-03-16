@@ -5,7 +5,7 @@ date: 2020-09-20 18:18:57
 image: 'https://m.media-amazon.com/images/I/41M+2xWUUUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKKT5NJ-es Superdry Hombre Chaqueta Plegable Offshore Rojo Auténtico XL'
 sku: 'B07SKKT5NJ-es'
 tags: [ 'chaqueta', ]

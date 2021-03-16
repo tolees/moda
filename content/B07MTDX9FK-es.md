@@ -5,7 +5,7 @@ date: 2020-06-30 12:06:03
 image: 'https://m.media-amazon.com/images/I/415m4FJNfDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTDX9FK-es Marca Amazon - MERAKI Shorts de Natación Hombre Turquesa...'
 sku: 'B07MTDX9FK-es'
 tags: [ 'meraki', ]

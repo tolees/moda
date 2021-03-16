@@ -5,7 +5,7 @@ date: 2020-01-30 16:38:01
 image: 'https://m.media-amazon.com/images/I/41qloYHwh0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6V8FTQ-es Diesel UMLT-JAKE Camiseta para Hombre Negro Black 900/0taww M'
 sku: 'B07N6V8FTQ-es'
 tags: [ 'camiseta', ]

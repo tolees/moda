@@ -5,7 +5,7 @@ date: 2020-01-07 01:08:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31s0l6beQBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HZ2UM4E-es Morgan Mentos Camiseta Blanco Off White Off White Medium...'
 sku: 'B01HZ2UM4E-es'
 tags: [ 'camiseta', ]

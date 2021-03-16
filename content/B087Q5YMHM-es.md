@@ -5,7 +5,7 @@ date: 2020-05-17 15:32:39
 image: 'https://m.media-amazon.com/images/I/41PAmFDi6HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087Q5YMHM-es TAOFFEN Mujer Canvas Shoes Punta Redonda Zapatos para...'
 sku: 'B087Q5YMHM-es'
 tags: [ 'zapatos', ]

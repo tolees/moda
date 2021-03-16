@@ -5,7 +5,7 @@ date: 2020-01-23 19:27:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZWi3GnSDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNRRBZN-es Lee Sherpa Jacket Chaqueta Azul Dark Stone SS Medium para...'
 sku: 'B07MNRRBZN-es'
 tags: [ 'chaqueta', ]

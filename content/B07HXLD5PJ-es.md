@@ -5,7 +5,7 @@ date: 2020-05-10 15:51:24
 image: 'https://m.media-amazon.com/images/I/31E6jj6vF7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HXLD5PJ-es New Look Poplin Camisa para Hombre Azul Light Blue Medium...'
 sku: 'B07HXLD5PJ-es'
 tags: [ 'camisa', ]

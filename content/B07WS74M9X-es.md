@@ -5,7 +5,7 @@ date: 2020-05-13 07:34:48
 image: 'https://m.media-amazon.com/images/I/41iKQH2QmlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WS74M9X-es Hombre Mujer Zapatillas de Deportes Zapatos Sneakers...'
 sku: 'B07WS74M9X-es'
 tags: [ 'zapatos', ]

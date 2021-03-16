@@ -5,7 +5,7 @@ date: 2020-04-17 11:04:00
 image: 'https://m.media-amazon.com/images/I/31V7RpIzv8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FL59LXV-es Superdry Orange Label Vntge Emb S/s tee Camiseta Rojo...'
 sku: 'B07FL59LXV-es'
 tags: [ 'camiseta', ]

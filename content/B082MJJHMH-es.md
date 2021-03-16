@@ -5,7 +5,7 @@ date: 2020-08-14 15:45:55
 image: 'https://m.media-amazon.com/images/I/31HH1udic-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MJJHMH-es TIK TOK Camiseta Corta para Niñas Adolescentes Moda Verano...'
 sku: 'B082MJJHMH-es'
 tags: [ 'camiseta','moda', ]

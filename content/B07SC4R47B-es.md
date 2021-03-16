@@ -5,7 +5,7 @@ date: 2020-08-30 19:23:42
 image: 'https://m.media-amazon.com/images/I/515fb4c6vWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC4R47B-es Helly Hansen Jr Moss Jacket Chaqueta Unisex niños Sling...'
 sku: 'B07SC4R47B-es'
 tags: [ 'chaqueta', ]

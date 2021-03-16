@@ -5,7 +5,7 @@ date: 2020-07-28 02:19:06
 image: 'https://m.media-amazon.com/images/I/319faFmgefL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQ9KF88-es Marca Amazon - FIND Stiletto Round Toe T-Bar Zapatos de...'
 sku: 'B07XQ9KF88-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-01 23:30:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bdlfcETjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC9C8NC-es Pepe Jeans Axel Chaqueta Verde Bright Green 633 11-12 años...'
 sku: 'B07NC9C8NC-es'
 tags: [ 'chaqueta', ]

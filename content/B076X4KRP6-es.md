@@ -5,7 +5,7 @@ date: 2020-09-09 03:26:11
 image: 'https://m.media-amazon.com/images/I/31sFjlwLOnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X4KRP6-es Levi s Original Hm Icon Crew Sudadera Gris Medium Grey...'
 sku: 'B076X4KRP6-es'
 tags: [ 'sudadera', ]

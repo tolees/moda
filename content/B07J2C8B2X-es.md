@@ -5,7 +5,7 @@ date: 2020-01-05 18:05:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316HBG0q2KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J2C8B2X-es Lee Ivy Vaqueros Azul Clean Play Zh 30W / 35L para Mujer'
 sku: 'B07J2C8B2X-es'
 tags: [ 'vaqueros', ]

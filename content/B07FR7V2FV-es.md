@@ -5,7 +5,7 @@ date: 2020-01-05 12:37:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fKck3U9vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR7V2FV-es Clarks Batcombe Hall Derby - Zapatos de Cordones para...'
 sku: 'B07FR7V2FV-es'
 tags: [ 'zapatos', ]

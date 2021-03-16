@@ -5,7 +5,7 @@ date: 2020-09-21 07:01:00
 image: 'https://m.media-amazon.com/images/I/41MTQuhjbZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RDBIR18-es adidas ESS 3S Chelsea - Pantalón corto para hombre color...'
 sku: 'B00RDBIR18-es'
 tags: [ 'pantalón', ]

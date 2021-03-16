@@ -5,7 +5,7 @@ date: 2020-07-15 16:54:42
 image: 'https://m.media-amazon.com/images/I/61nd0Dg2gDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKYKH3V-es BaZhaHei SúPer Fuego Nacional Viento Cadena PortáTil...'
 sku: 'B07QKYKH3V-es'
 tags: [ 'bolso', ]

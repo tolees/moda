@@ -5,7 +5,7 @@ date: 2020-01-08 08:41:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CI4W33qIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013R4MRQA-es Cream Basmalla Cardigan Chaqueta Marrón S para Mujer'
 sku: 'B013R4MRQA-es'
 tags: [ 'chaqueta', ]

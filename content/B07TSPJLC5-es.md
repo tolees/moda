@@ -5,7 +5,7 @@ date: 2020-03-30 13:19:20
 image: 'https://m.media-amazon.com/images/I/41nzZV0bsYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSPJLC5-es Women s Secret The Lion King LK DS Hakuna PJ FR Conjuntos...'
 sku: 'B07TSPJLC5-es'
 tags: [ 'pijama', ]

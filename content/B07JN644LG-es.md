@@ -5,7 +5,7 @@ date: 2020-01-11 21:56:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/314vrfCxyKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JN644LG-es Timberland Davis Square Leather Oxford Zapatillas Unisex-...'
 sku: 'B07JN644LG-es'
 tags: [ 'timberland', ]

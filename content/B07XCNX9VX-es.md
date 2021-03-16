@@ -5,7 +5,7 @@ date: 2020-01-24 10:54:23
 image: 'https://m.media-amazon.com/images/I/41zA48JEhLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCNX9VX-es SATINIOR 3 Pares de Guantes de Medio Dedo Guantes sin...'
 sku: 'B07XCNX9VX-es'
 tags: [ 'guantes', ]

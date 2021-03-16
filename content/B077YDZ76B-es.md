@@ -5,7 +5,7 @@ date: 2020-01-13 11:46:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rgWEVJtGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDZ76B-es HIKARO Parka Corta Hombre Beige Stone 48 Talla del...'
 sku: 'B077YDZ76B-es'
 tags: [ 'parka', ]

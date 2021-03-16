@@ -5,7 +5,7 @@ date: 2020-08-30 16:29:00
 image: 'https://m.media-amazon.com/images/I/413mezLQL6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GP36XCR-es Zapatillas Hombre Mujer Invierno CáLido Zapatos Memory...'
 sku: 'B07GP36XCR-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-28 13:22:56
 image: 'https://m.media-amazon.com/images/I/41I83yVkQ4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYQM6T5-es Springfield 5DS Polo Oxford Liso Jersey Gama Azules 11...'
 sku: 'B07KYQM6T5-es'
 tags: [ 'jersey', ]

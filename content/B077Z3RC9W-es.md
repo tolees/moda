@@ -5,7 +5,7 @@ date: 2020-01-30 16:39:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zW5cWjsrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Z3RC9W-es Adidas Response Tee M Camiseta para Hombre Multicolor Rojo S'
 sku: 'B077Z3RC9W-es'
 tags: [ 'camiseta', ]

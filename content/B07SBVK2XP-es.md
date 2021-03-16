@@ -5,7 +5,7 @@ date: 2020-09-27 15:41:42
 image: 'https://m.media-amazon.com/images/I/31bHlNsNx7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVK2XP-es Crocs Classic Clog Zuecos Unisex Adulto Naranja Cantaloupe...'
 sku: 'B07SBVK2XP-es'
 tags: [ 'zuecos', ]

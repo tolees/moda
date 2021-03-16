@@ -5,7 +5,7 @@ date: 2020-03-18 14:52:05
 image: 'https://m.media-amazon.com/images/I/41R2zyEzxUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVFS2YW-es Columbia WAYFINDER Zapatos Multideporte para Hombre Negro...'
 sku: 'B07DVFS2YW-es'
 tags: [ 'zapatos', ]

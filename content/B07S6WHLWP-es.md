@@ -5,7 +5,7 @@ date: 2020-04-16 21:27:32
 image: 'https://m.media-amazon.com/images/I/41Mcxp7K0zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6WHLWP-es El Naturalista N5144 Botines para Mujer Rojo Rioja Rioja...'
 sku: 'B07S6WHLWP-es'
 tags: [ 'botines', ]

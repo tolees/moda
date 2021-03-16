@@ -5,7 +5,7 @@ date: 2020-06-11 12:01:47
 image: 'https://m.media-amazon.com/images/I/31X-wL1-RDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGNGR73-es Timberland City S Edge Botas Clasicas para Hombre Marrón...'
 sku: 'B07DGNGR73-es'
 tags: [ 'timberland', ]

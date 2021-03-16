@@ -5,7 +5,7 @@ date: 2020-03-16 09:50:52
 image: 'https://m.media-amazon.com/images/I/4189S63ZoNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797MPV4X-es Puma LIGA Sideline Poly Core Chaqueta de Entrenamiento...'
 sku: 'B0797MPV4X-es'
 tags: [ 'chaqueta', ]

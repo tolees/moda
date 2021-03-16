@@ -5,7 +5,7 @@ date: 2020-01-05 12:25:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XKPZReFzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4SQL3-es Levi s 311 Shaping Skinny Vaqueros Paris Fade 29W / 30L...'
 sku: 'B07KF4SQL3-es'
 tags: [ 'vaqueros', ]

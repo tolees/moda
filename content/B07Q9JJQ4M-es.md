@@ -5,7 +5,7 @@ date: 2020-07-18 11:03:51
 image: 'https://m.media-amazon.com/images/I/51j79Kqp7wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9JJQ4M-es Abravo Mujer Vestido?Bohemio Corto Florales Nacional...'
 sku: 'B07Q9JJQ4M-es'
 tags: [ 'vestido', ]

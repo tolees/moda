@@ -5,7 +5,7 @@ date: 2020-10-09 16:17:51
 image: 'https://m.media-amazon.com/images/I/41hJCVzZg0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPXSK6X-es Under Armour Speed Stride Graphic Camisa Manga Corta...'
 sku: 'B07PPXSK6X-es'
 tags: [ 'camisa', ]

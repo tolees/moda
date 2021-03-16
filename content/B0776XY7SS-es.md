@@ -5,7 +5,7 @@ date: 2020-03-28 20:41:55
 image: 'https://m.media-amazon.com/images/I/31TynLctg-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776XY7SS-es Tommy Hilfiger Original Jersey Camiseta Azul Black Iris...'
 sku: 'B0776XY7SS-es'
 tags: [ 'camiseta','jersey', ]

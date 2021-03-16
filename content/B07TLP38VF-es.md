@@ -5,7 +5,7 @@ date: 2020-07-19 19:54:31
 image: 'https://m.media-amazon.com/images/I/31VGinTXs3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLP38VF-es Clarks Un Perri Way Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TLP38VF-es'
 tags: [ 'sandalias', ]

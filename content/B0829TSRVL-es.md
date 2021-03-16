@@ -5,7 +5,7 @@ date: 2020-06-21 11:57:35
 image: 'https://m.media-amazon.com/images/I/41eZEjy-SSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829TSRVL-es EverVanz Bolsa de Viaje Poliéster Gran tamaño Bolso del...'
 sku: 'B0829TSRVL-es'
 tags: [ 'bolso', ]

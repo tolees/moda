@@ -5,7 +5,7 @@ date: 2020-06-27 08:34:07
 image: 'https://m.media-amazon.com/images/I/31p6eJfegxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XNWC1H-es Under Armour Sportstyle Left Chest Camiseta Hombre Blanco SM'
 sku: 'B077XNWC1H-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 15:45:24
 image: 'https://m.media-amazon.com/images/I/31Qzql-cCpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6GP5MT-es Ping Pop Camiseta de Crop para niñas California Azul 12-14...'
 sku: 'B07V6GP5MT-es'
 tags: [ 'camiseta', ]

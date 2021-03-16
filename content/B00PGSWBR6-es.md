@@ -5,7 +5,7 @@ date: 2020-04-18 22:32:04
 image: 'https://m.media-amazon.com/images/I/41zSNTu6AbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PGSWBR6-es Camiseta de manga corta con cuello en V para mujer varios...'
 sku: 'B00PGSWBR6-es'
 tags: [ 'camiseta', ]

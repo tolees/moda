@@ -5,7 +5,7 @@ date: 2020-06-25 01:44:48
 image: 'https://m.media-amazon.com/images/I/31C0wYMiTRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYYLSRY-es Under Armour UA M Ignite Vi SL Zapatos de Playa y Piscina...'
 sku: 'B07PYYLSRY-es'
 tags: [ 'zapatos', ]

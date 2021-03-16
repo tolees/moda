@@ -5,7 +5,7 @@ date: 2020-01-18 11:55:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411t4AEnEkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEXEZKG-es Crocs Crocband Clog Kids Zuecos Unisex Niños Azul Navy/Red...'
 sku: 'B01HEXEZKG-es'
 tags: [ 'zuecos', ]

@@ -5,7 +5,7 @@ date: 2020-07-27 22:09:51
 image: 'https://m.media-amazon.com/images/I/41S2ZWW0DxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZATMRG6-es G-STAR RAW Revend Skinny Vaqueros Light Aged Destroy...'
 sku: 'B00ZATMRG6-es'
 tags: [ 'vaqueros', ]

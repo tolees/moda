@@ -5,7 +5,7 @@ date: 2020-03-07 15:06:32
 image: 'https://m.media-amazon.com/images/I/41hsixhyG8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHX3TJN-es Columbia WAYFINDER Zapatos Multideporte para Hombre Gris...'
 sku: 'B07JHX3TJN-es'
 tags: [ 'zapatos', ]

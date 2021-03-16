@@ -5,7 +5,7 @@ date: 2020-01-30 20:41:42
 image: 'https://m.media-amazon.com/images/I/41FZ98BdZRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF85MYQ-es Levi s SS Original Hm tee Camiseta Rojo Brilliant Red 0025...'
 sku: 'B07KF85MYQ-es'
 tags: [ 'camiseta', ]

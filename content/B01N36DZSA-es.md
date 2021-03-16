@@ -5,7 +5,7 @@ date: 2020-01-26 14:15:51
 image: 'https://m.media-amazon.com/images/I/41QJjGtOa8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N36DZSA-es Wrangler Texas Contrast Vaqueros Azul Vintage Tint 44W /...'
 sku: 'B01N36DZSA-es'
 tags: [ 'vaqueros', ]

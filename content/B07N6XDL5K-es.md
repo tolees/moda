@@ -5,7 +5,7 @@ date: 2020-01-27 11:37:58
 image: 'https://m.media-amazon.com/images/I/410j0qAy0yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6XDL5K-es Tommy Hilfiger Cosy Rainboot Botines para Mujer Midnight...'
 sku: 'B07N6XDL5K-es'
 tags: [ 'botines', ]

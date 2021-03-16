@@ -5,7 +5,7 @@ date: 2020-04-12 08:12:28
 image: 'https://m.media-amazon.com/images/I/41dTrmnj2XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8HQ3K9-es Desigual Dress Uvas Vestido Azul Navy 5000 152 cm para Niñas'
 sku: 'B07N8HQ3K9-es'
 tags: [ 'vestido', ]

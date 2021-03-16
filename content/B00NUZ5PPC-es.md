@@ -5,7 +5,7 @@ date: 2020-04-07 07:04:26
 image: 'https://m.media-amazon.com/images/I/41LWAZFprhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NUZ5PPC-es Pepe Jeans Venus Vaqueros Azul 10Oz Authentic Rope Str Med...'
 sku: 'B00NUZ5PPC-es'
 tags: [ 'vaqueros', ]

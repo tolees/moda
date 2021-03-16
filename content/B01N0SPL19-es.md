@@ -5,7 +5,7 @@ date: 2020-08-08 22:31:12
 image: 'https://m.media-amazon.com/images/I/41fTipkM3xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0SPL19-es Arena Envision Gafas de natación Unisex Adulto Clear Talla...'
 sku: 'B01N0SPL19-es'
 tags: [ 'gafas', ]

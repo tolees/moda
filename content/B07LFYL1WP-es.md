@@ -5,7 +5,7 @@ date: 2020-04-08 11:18:23
 image: 'https://m.media-amazon.com/images/I/31YxiWS4mTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYL1WP-es Geox U Devan A Mocasines para Hombre Marrón Mud C6372 42 EU'
 sku: 'B07LFYL1WP-es'
 tags: [ 'geox', ]

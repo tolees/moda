@@ -5,7 +5,7 @@ date: 2020-01-05 10:29:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bm5o5TXoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZJ3VYJ-es G-STAR RAW Graphic 8 Round Neck Camiseta Azul Sartho Blue...'
 sku: 'B07MZJ3VYJ-es'
 tags: [ 'camiseta', ]

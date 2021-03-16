@@ -5,7 +5,7 @@ date: 2020-05-26 10:25:50
 image: 'https://m.media-amazon.com/images/I/31pO+HakMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073V3X4DF-es Jack & Jones Jjiglenn Jjfelix Am 046 50 SPS Noos Vaqueros...'
 sku: 'B073V3X4DF-es'
 tags: [ 'vaqueros', ]

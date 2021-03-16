@@ -5,7 +5,7 @@ date: 2020-02-28 09:24:12
 image: 'https://m.media-amazon.com/images/I/31qpm72y8aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG3X1WV-es Geox U KAVEN B Zapatillas para Hombre Marrón Browncotto/Dk...'
 sku: 'B07LG3X1WV-es'
 tags: [ 'geox', ]

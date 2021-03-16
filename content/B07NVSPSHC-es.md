@@ -5,7 +5,7 @@ date: 2020-07-29 10:22:59
 image: 'https://m.media-amazon.com/images/I/31DLL37nTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVSPSHC-es G-STAR RAW Graphic Logo 4 Camiseta Blanco Medium Talla del...'
 sku: 'B07NVSPSHC-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-01 16:01:27
 image: 'https://m.media-amazon.com/images/I/51zircD1K9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPDY1QW-es Felly Arnés de Seguridad para Caminar Ajustable Arnés de...'
 sku: 'B07PPDY1QW-es'
 tags: [ 'chaleco', ]

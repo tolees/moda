@@ -5,7 +5,7 @@ date: 2020-06-05 19:01:27
 image: 'https://m.media-amazon.com/images/I/41tE7Ulhk8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7C7SX5-es Lee Malone Vaqueros Easy Blue Zk 31W / 34L para Hombre'
 sku: 'B07S7C7SX5-es'
 tags: [ 'vaqueros', ]

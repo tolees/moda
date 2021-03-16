@@ -5,7 +5,7 @@ date: 2020-03-07 00:33:35
 image: 'https://m.media-amazon.com/images/I/41KgfoofpiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J31F9QF-es Under Armour Play Up Short 2.0 Pantalón Corto Mujer Rosa...'
 sku: 'B07J31F9QF-es'
 tags: [ 'pantalón', ]

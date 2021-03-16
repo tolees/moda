@@ -5,7 +5,7 @@ date: 2020-04-04 08:10:06
 image: 'https://m.media-amazon.com/images/I/41uFVyTQXtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ2D9JG-es BILLABONG TRD Mrk LS tee Camiseta Hombre Azul Dark Blue...'
 sku: 'B07RZ2D9JG-es'
 tags: [ 'camiseta', ]

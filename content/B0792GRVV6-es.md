@@ -5,7 +5,7 @@ date: 2020-01-05 12:55:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OZ8PIqG5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792GRVV6-es Geox J New Savage Boy A Zapatillas para Niños Negro...'
 sku: 'B0792GRVV6-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-04-26 09:35:13
 image: 'https://m.media-amazon.com/images/I/41pDCP4zF+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMXCJJX-es Pantalones de Sauna Adelgazantes Mujer NANOTECNOLOGÍA...'
 sku: 'B07PMXCJJX-es'
 tags: [ 'leggins', ]

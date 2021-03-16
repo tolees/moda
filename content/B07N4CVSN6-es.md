@@ -5,7 +5,7 @@ date: 2020-03-13 17:45:03
 image: 'https://m.media-amazon.com/images/I/419fd8PZtvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4CVSN6-es Desigual Dress Always Vestido Azul Denim Medium Wash 5053...'
 sku: 'B07N4CVSN6-es'
 tags: [ 'vestido', ]

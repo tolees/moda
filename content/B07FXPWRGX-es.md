@@ -5,7 +5,7 @@ date: 2020-04-13 13:38:22
 image: 'https://m.media-amazon.com/images/I/41ZfDLIkzJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXPWRGX-es Levi s 502 Regular Taper Vaqueros Azul Rock Cod 0280 33W /...'
 sku: 'B07FXPWRGX-es'
 tags: [ 'vaqueros', ]

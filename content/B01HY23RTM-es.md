@@ -5,7 +5,7 @@ date: 2020-01-04 08:44:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KSZCEhtAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HY23RTM-es Lee Rider Jeans Vaqueros Black Rinse Yc47 32W / 30L para...'
 sku: 'B01HY23RTM-es'
 tags: [ 'vaqueros', ]

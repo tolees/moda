@@ -5,7 +5,7 @@ date: 2020-04-25 19:14:32
 image: 'https://m.media-amazon.com/images/I/41q3tYY5KzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2BI3Z5-es Lacoste TH6709 Camiseta para Hombre Gris Argent Chine XL...'
 sku: 'B01N2BI3Z5-es'
 tags: [ 'camiseta', ]

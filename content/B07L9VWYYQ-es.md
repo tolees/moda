@@ -5,7 +5,7 @@ date: 2020-08-29 14:57:11
 image: 'https://m.media-amazon.com/images/I/21gHfMB6zUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9VWYYQ-es Lacoste Croco Slide 319 4 US CMA Sandalias de Punta...'
 sku: 'B07L9VWYYQ-es'
 tags: [ 'sandalias', ]

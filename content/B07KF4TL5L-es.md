@@ -5,7 +5,7 @@ date: 2020-01-07 12:05:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nhRYwwkYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4TL5L-es Levi s 511 Slim Fit Vaqueros Adriatico Adapt 3408 32W /...'
 sku: 'B07KF4TL5L-es'
 tags: [ 'vaqueros', ]

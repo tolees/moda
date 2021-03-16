@@ -5,7 +5,7 @@ date: 2020-02-29 19:14:25
 image: 'https://m.media-amazon.com/images/I/41UpMUkvxuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4LKZ8K-es G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros...'
 sku: 'B07B4LKZ8K-es'
 tags: [ 'vaqueros', ]

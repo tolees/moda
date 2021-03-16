@@ -5,7 +5,7 @@ date: 2020-01-31 09:11:39
 image: 'https://m.media-amazon.com/images/I/51CqCjQ5qRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXZQN5Q-es New Look Lattice Front Vestido Negro Black Pattern 9 40...'
 sku: 'B07TXZQN5Q-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-09-22 19:09:02
 image: 'https://m.media-amazon.com/images/I/31285rRZAsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVQT6YL-es Levi s Orig HM Vneck Camiseta Puerto S para Hombre'
 sku: 'B07ZVQT6YL-es'
 tags: [ 'camiseta', ]

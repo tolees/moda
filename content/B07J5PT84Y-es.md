@@ -5,7 +5,7 @@ date: 2020-04-25 08:21:30
 image: 'https://m.media-amazon.com/images/I/41qmhKWalDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5PT84Y-es Marca Amazon - AURIQUE Sujetador Deportivo para...'
 sku: 'B07J5PT84Y-es'
 tags: [ 'aurique', ]

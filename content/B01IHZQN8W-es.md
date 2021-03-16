@@ -5,7 +5,7 @@ date: 2020-02-11 23:01:30
 image: 'https://m.media-amazon.com/images/I/31NtBbmCJNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IHZQN8W-es The North Face Tekware TNF Chaqueta 200 Shadow Hombre...'
 sku: 'B01IHZQN8W-es'
 tags: [ 'chaqueta', ]

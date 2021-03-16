@@ -5,7 +5,7 @@ date: 2020-06-02 09:49:14
 image: 'https://m.media-amazon.com/images/I/31ol0uCRznL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSKND9S-es Clarks Grandin Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MSKND9S-es'
 tags: [ 'zapatos', ]

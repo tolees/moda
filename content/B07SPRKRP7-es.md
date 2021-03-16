@@ -5,7 +5,7 @@ date: 2020-10-12 15:37:53
 image: 'https://m.media-amazon.com/images/I/416ZcidyZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPRKRP7-es Carteras Hombre pequeñas con Monedero - De Piel con Cierre...'
 sku: 'B07SPRKRP7-es'
 tags: [ 'monedero', ]

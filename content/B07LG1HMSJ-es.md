@@ -5,7 +5,7 @@ date: 2020-02-04 21:08:20
 image: 'https://m.media-amazon.com/images/I/41H8fqVyawL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG1HMSJ-es Geox B Kaytan A Zapatillas para Bebés Gris Dk Grey C9002...'
 sku: 'B07LG1HMSJ-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-04-11 18:23:26
 image: 'https://m.media-amazon.com/images/I/41qxP1zz8JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B94QV3V-es Clarks Laina RAE Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07B94QV3V-es'
 tags: [ 'zapatos', ]

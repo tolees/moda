@@ -5,7 +5,7 @@ date: 2020-08-03 16:43:05
 image: 'https://m.media-amazon.com/images/I/31UY8e+QvJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XR2WWBS-es Marca Amazon - FIND Mule Wedge Zapatos de tacón con Punta...'
 sku: 'B07XR2WWBS-es'
 tags: [ 'zapatos', ]

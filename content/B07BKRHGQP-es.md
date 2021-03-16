@@ -5,7 +5,7 @@ date: 2020-06-27 19:27:53
 image: 'https://m.media-amazon.com/images/I/31TJ2+Gvu-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKRHGQP-es Marca Amazon – Goodthreads – «El pantalón chino perfecto»;...'
 sku: 'B07BKRHGQP-es'
 tags: [ 'goodthreads','pantalón', ]

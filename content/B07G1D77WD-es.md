@@ -5,7 +5,7 @@ date: 2020-07-23 03:28:50
 image: 'https://m.media-amazon.com/images/I/513+Q3+3EuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1D77WD-es Feilaxleer Ropa Ciclismo Verano para Hombre y Mujer - Un...'
 sku: 'B07G1D77WD-es'
 tags: [ 'jersey', ]

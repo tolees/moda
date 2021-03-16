@@ -5,7 +5,7 @@ date: 2020-06-28 09:32:08
 image: 'https://m.media-amazon.com/images/I/41qzuq8nfXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7TK8HK-es Funda para bolso estuche portatil Leorx superficie para...'
 sku: 'B01M7TK8HK-es'
 tags: [ 'bolso', ]

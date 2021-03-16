@@ -5,7 +5,7 @@ date: 2020-02-09 22:55:45
 image: 'https://m.media-amazon.com/images/I/31mpSSnM8vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTWK92K-es Lee Brooklyn Comfort Vaqueros Straight Negro Black Rinse...'
 sku: 'B07FTWK92K-es'
 tags: [ 'vaqueros', ]

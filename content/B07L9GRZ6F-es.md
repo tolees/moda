@@ -5,7 +5,7 @@ date: 2020-09-10 15:43:22
 image: 'https://m.media-amazon.com/images/I/31n0I2pfhlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9GRZ6F-es Under Armour UA Tech 2.0 SS Tee Novelty camiseta para...'
 sku: 'B07L9GRZ6F-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 09:00:53
 image: 'https://m.media-amazon.com/images/I/316Dn7jEhiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0741MGNMT-es Volcom Rocker 2 SNDL Zehentrenner Chanclas para Hombre...'
 sku: 'B0741MGNMT-es'
 tags: [ 'chanclas', ]

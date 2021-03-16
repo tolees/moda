@@ -5,7 +5,7 @@ date: 2020-05-11 11:04:15
 image: 'https://m.media-amazon.com/images/I/51Y6gRy-HCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0745WCDQS-es Nakosite PET2433 El Mejor Collar Anti-Ladridos Collar...'
 sku: 'B0745WCDQS-es'
 tags: [ 'collar', ]

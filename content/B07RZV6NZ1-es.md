@@ -5,7 +5,7 @@ date: 2020-05-11 08:06:03
 image: 'https://m.media-amazon.com/images/I/41J2CaQseSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZV6NZ1-es Columbia Vapor Vent Zapatos para Hombre Azul Pool/Red...'
 sku: 'B07RZV6NZ1-es'
 tags: [ 'zapatos', ]

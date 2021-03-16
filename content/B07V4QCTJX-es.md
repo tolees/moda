@@ -5,7 +5,7 @@ date: 2020-10-12 09:52:55
 image: 'https://m.media-amazon.com/images/I/41-VK4TogvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4QCTJX-es Superdry Classic Trunk Triple Pack Bóxer Azul Cobalt...'
 sku: 'B07V4QCTJX-es'
 tags: [ 'bóxer', ]

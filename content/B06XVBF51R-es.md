@@ -5,7 +5,7 @@ date: 2020-08-25 04:49:04
 image: 'https://m.media-amazon.com/images/I/31eV-jHTARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XVBF51R-es G-STAR RAW Core Super Slim Camisa Vaquera Blanco White 110...'
 sku: 'B06XVBF51R-es'
 tags: [ 'camisa', ]

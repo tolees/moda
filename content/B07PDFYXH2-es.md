@@ -5,7 +5,7 @@ date: 2020-02-08 19:06:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T62Y5-kBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDFYXH2-es XTI 86138 Bolso bandolera para Mujer Negro 25x20x7 cm W x...'
 sku: 'B07PDFYXH2-es'
 tags: [ 'bolso', ]

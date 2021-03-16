@@ -5,7 +5,7 @@ date: 2020-01-28 01:49:11
 image: 'https://m.media-amazon.com/images/I/41fPKFPhf3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWMT2NW-es LEGO Star Wars Cm Sudadera Amarillo Yellow 222 104 para Niños'
 sku: 'B07KWMT2NW-es'
 tags: [ 'sudadera', ]

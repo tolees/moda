@@ -5,7 +5,7 @@ date: 2020-02-26 11:13:40
 image: 'https://m.media-amazon.com/images/I/41SUW98AO6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC12NCV-es Clarks - Botines de Cuero Hombre Color Marrón Talla 42 EU'
 sku: 'B07MC12NCV-es'
 tags: [ 'botines', ]

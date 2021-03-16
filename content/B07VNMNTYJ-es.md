@@ -5,7 +5,7 @@ date: 2020-09-28 15:34:47
 image: 'https://m.media-amazon.com/images/I/41UfgQZZIAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNMNTYJ-es G-STAR RAW Denim Mix Hooded Chaqueta Azul Mazarine Blue...'
 sku: 'B07VNMNTYJ-es'
 tags: [ 'chaqueta', ]

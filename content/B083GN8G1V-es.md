@@ -5,7 +5,7 @@ date: 2020-05-22 16:33:33
 image: 'https://m.media-amazon.com/images/I/41cbzK2MYHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083GN8G1V-es Zapatos Deporte Mujer Zapatillas Deportivas Correr...'
 sku: 'B083GN8G1V-es'
 tags: [ 'zapatos', ]

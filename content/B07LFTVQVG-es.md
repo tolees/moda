@@ -5,7 +5,7 @@ date: 2020-02-12 15:48:20
 image: 'https://m.media-amazon.com/images/I/4177NaHhY0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFTVQVG-es Geox J INEK Boy C Zapatillas Altas para Niños Azul...'
 sku: 'B07LFTVQVG-es'
 tags: [ 'geox', ]

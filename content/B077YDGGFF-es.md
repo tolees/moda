@@ -5,7 +5,7 @@ date: 2020-05-01 13:53:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-QWTiF6JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDGGFF-es HIKARO Pantalón Deportivo Estilo Jogger Hombre Gris Light...'
 sku: 'B077YDGGFF-es'
 tags: [ 'pantalón', ]

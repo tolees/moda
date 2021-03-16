@@ -5,7 +5,7 @@ date: 2020-06-20 20:57:32
 image: 'https://m.media-amazon.com/images/I/312GqeFeg9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0ZNA4P-es Kappa Fredo Pantalón Corto Hombre Azul Marino YL'
 sku: 'B01N0ZNA4P-es'
 tags: [ 'pantalón', ]

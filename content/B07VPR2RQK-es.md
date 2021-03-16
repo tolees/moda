@@ -5,7 +5,7 @@ date: 2020-07-07 00:17:32
 image: 'https://m.media-amazon.com/images/I/41I7qV0XZSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPR2RQK-es Tommy Hilfiger Tjw Essential Logo Sweatshirt Sudadera...'
 sku: 'B07VPR2RQK-es'
 tags: [ 'sudadera', ]

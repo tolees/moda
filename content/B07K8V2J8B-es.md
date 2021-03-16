@@ -5,7 +5,7 @@ date: 2020-03-23 06:04:13
 image: 'https://m.media-amazon.com/images/I/41aAr1nBAKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8V2J8B-es G-STAR RAW 3301 Slim Vaqueros Dk Aged Cobler 7863-3143 25W...'
 sku: 'B07K8V2J8B-es'
 tags: [ 'vaqueros', ]

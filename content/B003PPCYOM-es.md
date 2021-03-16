@@ -5,7 +5,7 @@ date: 2020-07-01 11:13:59
 image: 'https://m.media-amazon.com/images/I/41Nvm0aGiLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003PPCYOM-es Eastpak Jr Bolso bandolera 33 cm 11.5 L Gris Sunday Grey'
 sku: 'B003PPCYOM-es'
 tags: [ 'bolso', ]

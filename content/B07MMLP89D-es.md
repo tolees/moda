@@ -5,7 +5,7 @@ date: 2020-01-14 16:35:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AXamRTTuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLP89D-es Napapijri Rainforest W WINT 3 Chaqueta Amarillo Yellow...'
 sku: 'B07MMLP89D-es'
 tags: [ 'chaqueta', ]

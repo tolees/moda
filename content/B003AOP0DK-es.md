@@ -5,7 +5,7 @@ date: 2020-06-23 14:42:51
 image: 'https://m.media-amazon.com/images/I/51p1Ks6P6SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003AOP0DK-es Havaianas Top Chanclas Unisex Adulto Rojo Ruby Red 37/38 EU'
 sku: 'B003AOP0DK-es'
 tags: [ 'chanclas', ]

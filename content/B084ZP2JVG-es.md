@@ -5,7 +5,7 @@ date: 2020-06-18 18:03:07
 image: 'https://m.media-amazon.com/images/I/41ywRnhOJQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZP2JVG-es Suhctup Funda Huawei Honor 30 Pro Carcasa Patrón de...'
 sku: 'B084ZP2JVG-es'
 tags: [ 'moda', ]

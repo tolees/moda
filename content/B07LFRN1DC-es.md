@@ -5,7 +5,7 @@ date: 2020-08-21 17:21:30
 image: 'https://m.media-amazon.com/images/I/31ojKyiohwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRN1DC-es Geox D ANNYTAH D Bailarinas para Mujer Negro Black C9997...'
 sku: 'B07LFRN1DC-es'
 tags: [ 'geox', ]

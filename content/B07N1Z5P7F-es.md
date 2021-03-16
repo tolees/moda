@@ -5,7 +5,7 @@ date: 2020-04-08 15:28:07
 image: 'https://m.media-amazon.com/images/I/41wwrtcYx7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1Z5P7F-es Clarks Deva Mae Zapatos de tacón. para Mujer Negro Combi...'
 sku: 'B07N1Z5P7F-es'
 tags: [ 'zapatos', ]

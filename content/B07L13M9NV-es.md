@@ -5,7 +5,7 @@ date: 2020-02-17 20:31:19
 image: 'https://m.media-amazon.com/images/I/41tImiCWO4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L13M9NV-es Under Armour Rival Fleece Sportstyle Graphic Sudadera con...'
 sku: 'B07L13M9NV-es'
 tags: [ 'sudadera', ]

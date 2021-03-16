@@ -5,7 +5,7 @@ date: 2020-03-02 13:32:38
 image: 'https://m.media-amazon.com/images/I/31I3TZQOrUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8HXF42-es Only NOS Onlblush Mid SK ANK Raw Colour Jea Noos Vaqueros...'
 sku: 'B07M8HXF42-es'
 tags: [ 'vaqueros', ]

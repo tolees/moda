@@ -5,7 +5,7 @@ date: 2020-01-03 10:28:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qkf-xigAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLNZDR-es Napapijri DROZ Jersey Azul French Blue BB7 M para Hombre'
 sku: 'B07MMLNZDR-es'
 tags: [ 'jersey', ]

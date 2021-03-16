@@ -5,7 +5,7 @@ date: 2020-08-14 09:11:40
 image: 'https://m.media-amazon.com/images/I/415-pFK3dHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082LBM4ZS-es Zoggs Predator Flex Gafas de natación Unisex Adulto...'
 sku: 'B082LBM4ZS-es'
 tags: [ 'gafas', ]

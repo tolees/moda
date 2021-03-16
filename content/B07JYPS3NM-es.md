@@ -5,7 +5,7 @@ date: 2020-02-23 10:06:22
 image: 'https://m.media-amazon.com/images/I/412TDkCw5XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYPS3NM-es Tommy Hilfiger Western Denim Shirt Msmb Camisa Azul...'
 sku: 'B07JYPS3NM-es'
 tags: [ 'camisa', ]

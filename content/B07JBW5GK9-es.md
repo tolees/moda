@@ -5,7 +5,7 @@ date: 2020-01-21 22:37:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Lae7mZNyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBW5GK9-es Guantes de Invierno otutun Guantes de Pantalla Táctil...'
 sku: 'B07JBW5GK9-es'
 tags: [ 'guantes', ]

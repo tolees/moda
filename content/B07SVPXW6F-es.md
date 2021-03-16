@@ -5,7 +5,7 @@ date: 2020-10-08 20:18:22
 image: 'https://m.media-amazon.com/images/I/31SMWkxNL1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPXW6F-es Geox D Vega A Zapatillas para Mujer Blanco Off White and...'
 sku: 'B07SVPXW6F-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-05-25 20:12:15
 image: 'https://m.media-amazon.com/images/I/313ojuM8WPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S75WPRR-es Crocs Baya Zuecos Unisex Adulto Amarillo Lemon 7c1 36/37 EU'
 sku: 'B07S75WPRR-es'
 tags: [ 'zuecos', ]

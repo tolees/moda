@@ -5,7 +5,7 @@ date: 2020-01-03 12:02:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wq0456lNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AADHRU2-es Nike Club Logo2 Pantalón Mujer Multicolor Dk Grey...'
 sku: 'B01AADHRU2-es'
 tags: [ 'pantalón', ]

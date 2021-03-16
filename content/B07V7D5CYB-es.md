@@ -5,7 +5,7 @@ date: 2020-09-12 18:57:46
 image: 'https://m.media-amazon.com/images/I/41z5PcOh8TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7D5CYB-es BOSS Teeonic Camiseta Negro Black 1 Small para Hombre'
 sku: 'B07V7D5CYB-es'
 tags: [ 'camiseta', ]

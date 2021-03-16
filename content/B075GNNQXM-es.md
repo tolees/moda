@@ -5,7 +5,7 @@ date: 2020-04-04 15:56:48
 image: 'https://m.media-amazon.com/images/I/314QIwoZbpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GNNQXM-es Falda de Tenis Skort Golf Mujer Niña Negra Pantalón Ropa...'
 sku: 'B075GNNQXM-es'
 tags: [ 'falda','moda','pantalón', ]

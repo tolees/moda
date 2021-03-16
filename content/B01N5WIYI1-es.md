@@ -5,7 +5,7 @@ date: 2020-01-25 14:13:59
 image: 'https://m.media-amazon.com/images/I/41sh47FFzWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5WIYI1-es JACK & JONES Jorhero tee SS Crew Neck Camiseta Rosa Peach...'
 sku: 'B01N5WIYI1-es'
 tags: [ 'camiseta', ]

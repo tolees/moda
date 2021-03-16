@@ -5,7 +5,7 @@ date: 2020-04-21 14:03:21
 image: 'https://m.media-amazon.com/images/I/31KBMS6mTiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFYPGT3-es G-STAR RAW Type C 3D Straight Tapered Vaqueros Negro Jet...'
 sku: 'B07RFYPGT3-es'
 tags: [ 'vaqueros', ]

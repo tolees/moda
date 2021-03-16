@@ -5,7 +5,7 @@ date: 2020-06-26 18:26:23
 image: 'https://m.media-amazon.com/images/I/41cWK2ld6zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B45L4DX-es SELECTED HOMME Slhslimpreston-Clean Shirt LS B Noos Camisa...'
 sku: 'B07B45L4DX-es'
 tags: [ 'camisa', ]

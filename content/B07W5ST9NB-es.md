@@ -5,7 +5,7 @@ date: 2020-09-27 11:03:59
 image: 'https://m.media-amazon.com/images/I/41vnN7Eb5KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5ST9NB-es Tommy Hilfiger Brooklyn Short Light Twill Vaqueros Primary...'
 sku: 'B07W5ST9NB-es'
 tags: [ 'vaqueros', ]

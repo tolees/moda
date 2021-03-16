@@ -5,7 +5,7 @@ date: 2020-07-05 10:15:50
 image: 'https://m.media-amazon.com/images/I/41UKavnxdyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQNC75P-es El Ganso Casual 2 Abrigo Verde Verde 0012 X-Large para Hombre'
 sku: 'B07PQNC75P-es'
 tags: [ 'abrigo', ]

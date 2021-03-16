@@ -5,7 +5,7 @@ date: 2020-03-22 15:53:32
 image: 'https://m.media-amazon.com/images/I/317ddOuM7IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XNS3XB4-es Pepe Jeans Venus Vaqueros Azul 10Oz Rinse Plus M15 28W /...'
 sku: 'B00XNS3XB4-es'
 tags: [ 'vaqueros', ]

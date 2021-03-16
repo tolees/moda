@@ -5,7 +5,7 @@ date: 2020-09-20 10:58:31
 image: 'https://m.media-amazon.com/images/I/41G9NYpZeWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YRDVN4J-es VIFUUR Zapatillas Hombre Mujer de casa Espuma de Memoria...'
 sku: 'B07YRDVN4J-es'
 tags: [ 'zapatos', ]

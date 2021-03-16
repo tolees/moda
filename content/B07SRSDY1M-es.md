@@ -5,7 +5,7 @@ date: 2020-08-10 21:23:45
 image: 'https://m.media-amazon.com/images/I/41VRS0XCYkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRSDY1M-es Geox D Sandal Hiver A Sandalias con Punta Abierta para...'
 sku: 'B07SRSDY1M-es'
 tags: [ 'geox','sandalias', ]

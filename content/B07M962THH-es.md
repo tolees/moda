@@ -5,7 +5,7 @@ date: 2020-02-20 19:57:47
 image: 'https://m.media-amazon.com/images/I/41wV62ycRaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M962THH-es Wrangler Slim Western Shirt Blusa Azul Dark Indigo X1e...'
 sku: 'B07M962THH-es'
 tags: [ 'blusa', ]

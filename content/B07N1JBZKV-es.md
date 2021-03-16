@@ -5,7 +5,7 @@ date: 2020-08-07 07:50:51
 image: 'https://m.media-amazon.com/images/I/31NxXPBc4iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JBZKV-es Clarks Linvale Jerica Zapatos de tacón con Punta Cerrada...'
 sku: 'B07N1JBZKV-es'
 tags: [ 'zapatos', ]

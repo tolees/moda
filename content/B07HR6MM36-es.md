@@ -5,7 +5,7 @@ date: 2020-03-22 06:42:36
 image: 'https://m.media-amazon.com/images/I/31iLeuRpTVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HR6MM36-es JACK & JONES Jjitim Jjoriginal JJ 320 Noos Vaqueros Slim...'
 sku: 'B07HR6MM36-es'
 tags: [ 'vaqueros', ]

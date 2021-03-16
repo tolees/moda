@@ -5,7 +5,7 @@ date: 2020-01-14 17:39:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JOoSREtWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007MLY7XQ-es Derbystar Uni Spielertrikot - Camiseta de equipación...'
 sku: 'B007MLY7XQ-es'
 tags: [ 'camiseta', ]

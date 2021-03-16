@@ -5,7 +5,7 @@ date: 2020-03-14 18:38:09
 image: 'https://m.media-amazon.com/images/I/41MVRxwa3UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTN5LHW-es Only Onlnew Skylar AW Fur Parka CC Otw Azul Night Sky...'
 sku: 'B07TTN5LHW-es'
 tags: [ 'parka', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 00:58:33
 image: 'https://m.media-amazon.com/images/I/41puvJaF7FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZGY54K-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Azul 000denim...'
 sku: 'B07WZGY54K-es'
 tags: [ 'vaqueros', ]

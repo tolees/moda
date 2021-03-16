@@ -5,7 +5,7 @@ date: 2020-01-16 14:34:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jtvatPgrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758FQBBP-es Clarks Garratt Lace Zapatos de Cordones Derby para Hombre...'
 sku: 'B0758FQBBP-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-04-10 16:40:28
 image: 'https://m.media-amazon.com/images/I/41AoNPel96L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XNBKQY-es Under Armour Rival Fleece Po Hoodie Sudadera con Capucha...'
 sku: 'B077XNBKQY-es'
 tags: [ 'sudadera', ]

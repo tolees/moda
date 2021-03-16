@@ -5,7 +5,7 @@ date: 2020-03-10 20:28:43
 image: 'https://m.media-amazon.com/images/I/31e2lOPgXYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QV84DB-es PUMA Liga Jersey Camiseta Hombre Blanco White/Red 3XL'
 sku: 'B079QV84DB-es'
 tags: [ 'camiseta','jersey', ]

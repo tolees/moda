@@ -5,7 +5,7 @@ date: 2020-02-29 21:01:21
 image: 'https://m.media-amazon.com/images/I/41Y2KamqSPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NKBY7DF-es SALOMON Right Nice Mid Hoodie W Chaqueta Deportiva con...'
 sku: 'B07NKBY7DF-es'
 tags: [ 'chaqueta', ]

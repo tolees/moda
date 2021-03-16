@@ -5,7 +5,7 @@ date: 2020-08-08 15:45:46
 image: 'https://m.media-amazon.com/images/I/41Bn+3e4jUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR9ZGSM-es Clarks Sharon Crystal Zapatos de Cordones Derby para Mujer...'
 sku: 'B07FR9ZGSM-es'
 tags: [ 'zapatos', ]

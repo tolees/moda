@@ -5,7 +5,7 @@ date: 2020-05-12 18:04:27
 image: 'https://m.media-amazon.com/images/I/518YAkoM6iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U2HP3OY-es Minecraft - Camiseta para niño - Minecraft - Negro - 7 - 8...'
 sku: 'B00U2HP3OY-es'
 tags: [ 'camiseta', ]

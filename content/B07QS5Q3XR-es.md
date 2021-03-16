@@ -5,7 +5,7 @@ date: 2020-01-06 16:10:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QS5Q3XR-es Columbia 1420421 Chaqueta Forro Polar Hombre Rojo Red...'
 sku: 'B07QS5Q3XR-es'
 tags: [ 'chaqueta', ]

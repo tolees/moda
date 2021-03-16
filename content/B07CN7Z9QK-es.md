@@ -5,7 +5,7 @@ date: 2020-02-04 08:22:08
 image: 'https://m.media-amazon.com/images/I/41KLA5FJ8dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN7Z9QK-es Crocs Crocband II Sandal PS K Sandalias Unisex Niños Verde...'
 sku: 'B07CN7Z9QK-es'
 tags: [ 'sandalias', ]

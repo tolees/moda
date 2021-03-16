@@ -5,7 +5,7 @@ date: 2020-01-09 00:34:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41H1JsmVIeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078H8B9LT-es find. Camiseta de Rayas Hombre Azul Navy Base And Grey...'
 sku: 'B078H8B9LT-es'
 tags: [ 'camiseta', ]

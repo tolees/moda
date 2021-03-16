@@ -5,7 +5,7 @@ date: 2020-03-20 13:36:08
 image: 'https://m.media-amazon.com/images/I/41RPZF9gA+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQFL4N9-es Botas de Nieve Hombre Antideslizante Invierno Botines...'
 sku: 'B07JQFL4N9-es'
 tags: [ 'botines','zapatos', ]

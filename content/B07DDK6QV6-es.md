@@ -5,7 +5,7 @@ date: 2020-10-12 18:28:43
 image: 'https://m.media-amazon.com/images/I/41RjtQJuUSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDK6QV6-es Marca Amazon - find. Rose Print Sudadera Mujer Multicolor...'
 sku: 'B07DDK6QV6-es'
 tags: [ '-','find.','sudadera', ]

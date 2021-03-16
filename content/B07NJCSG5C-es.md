@@ -5,7 +5,7 @@ date: 2020-04-24 19:29:01
 image: 'https://m.media-amazon.com/images/I/4157zu338TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJCSG5C-es Springfield INT.R.Real Down Tecnico Chaqueta Azul Azul 19...'
 sku: 'B07NJCSG5C-es'
 tags: [ 'chaqueta', ]

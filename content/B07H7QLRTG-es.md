@@ -5,7 +5,7 @@ date: 2020-05-03 15:13:23
 image: 'https://m.media-amazon.com/images/I/41nB3sgulTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7QLRTG-es JACK & JONES Jachenrik Trunks 3 Pack Noos Bóxer Multicolor...'
 sku: 'B07H7QLRTG-es'
 tags: [ 'bóxer', ]

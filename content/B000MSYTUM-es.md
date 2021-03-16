@@ -5,7 +5,7 @@ date: 2020-07-16 22:37:16
 image: 'https://m.media-amazon.com/images/I/31UgvlD6D7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MSYTUM-es Birkenstock 051791 - Sandalias con hebilla unisex Negro 40...'
 sku: 'B000MSYTUM-es'
 tags: [ 'sandalias', ]

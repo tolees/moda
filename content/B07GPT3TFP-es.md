@@ -5,7 +5,7 @@ date: 2020-02-01 15:57:27
 image: 'https://m.media-amazon.com/images/I/31x0JYlkaCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPT3TFP-es Geox Jr Ciak Girl K Zapatillas para Niñas White C1000 31 EU'
 sku: 'B07GPT3TFP-es'
 tags: [ 'geox', ]

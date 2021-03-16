@@ -5,7 +5,7 @@ date: 2020-04-09 15:28:49
 image: 'https://m.media-amazon.com/images/I/51UDQJeaMmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R79TLWQ-es Vestidos Mujer Casual Playa Largos Verano Floral Vestido...'
 sku: 'B07R79TLWQ-es'
 tags: [ 'falda','vestido', ]

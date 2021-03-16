@@ -5,7 +5,7 @@ date: 2020-09-19 10:34:28
 image: 'https://m.media-amazon.com/images/I/41aVmWDqt8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VKRFH1-es Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha...'
 sku: 'B087VKRFH1-es'
 tags: [ 'chaqueta', ]

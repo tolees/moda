@@ -5,7 +5,7 @@ date: 2020-09-21 19:47:00
 image: 'https://m.media-amazon.com/images/I/41Egz42sqsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD4DF6R-es Calvin Klein Instit Chest Logo Reg tee Camiseta Rojo Fiery...'
 sku: 'B07VD4DF6R-es'
 tags: [ 'camiseta', ]

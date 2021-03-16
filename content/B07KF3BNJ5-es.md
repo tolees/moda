@@ -5,7 +5,7 @@ date: 2020-06-13 07:42:02
 image: 'https://m.media-amazon.com/images/I/31nIZ2Jrn1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF3BNJ5-es Levi s 511 Slim Fit Vaqueros Rajah Adv 3313 30W / 34L para...'
 sku: 'B07KF3BNJ5-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-09-18 08:14:18
 image: 'https://m.media-amazon.com/images/I/41R3wFe5iHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCX6PTV-es Hot One Cambios De Color Monederos y Bolsos Luminosos...'
 sku: 'B07MCX6PTV-es'
 tags: [ 'bolso','moda','monedero', ]

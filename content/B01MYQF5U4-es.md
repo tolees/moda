@@ -5,7 +5,7 @@ date: 2020-06-19 21:55:41
 image: 'https://m.media-amazon.com/images/I/31vRm97cIDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYQF5U4-es Wrangler Texas Tonal Vaqueros Azul Blue Stroke 30W / 32L...'
 sku: 'B01MYQF5U4-es'
 tags: [ 'vaqueros', ]

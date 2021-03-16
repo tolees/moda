@@ -5,7 +5,7 @@ date: 2020-09-02 17:38:42
 image: 'https://m.media-amazon.com/images/I/31s3OLZ3wDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ1GY2P-es Ever-Pretty A-línea Vestido de Noche Cuello en V Manga...'
 sku: 'B07KQ1GY2P-es'
 tags: [ 'vestido', ]

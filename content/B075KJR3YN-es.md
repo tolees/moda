@@ -5,7 +5,7 @@ date: 2020-02-11 16:25:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dAG8HwtML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KJR3YN-es Astrapahl ed060217ap Vestido Rojo Scarlet Rot 32 EU para...'
 sku: 'B075KJR3YN-es'
 tags: [ 'vestido', ]

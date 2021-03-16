@@ -5,7 +5,7 @@ date: 2020-03-29 10:08:27
 image: 'https://m.media-amazon.com/images/I/41KuFr3SVQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGP9PSF-es JACK & JONES Jjewashington Shirt L/s STS Camisa Verde...'
 sku: 'B07VGP9PSF-es'
 tags: [ 'camisa', ]

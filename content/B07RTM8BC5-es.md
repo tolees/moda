@@ -5,7 +5,7 @@ date: 2020-06-29 11:04:58
 image: 'https://m.media-amazon.com/images/I/313g37Wfk3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTM8BC5-es HAWKERS · LACMA · Gold · Gafas de sol para hombre y mujer'
 sku: 'B07RTM8BC5-es'
 tags: [ 'gafas', ]

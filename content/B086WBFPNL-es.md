@@ -5,7 +5,7 @@ date: 2020-05-18 19:33:00
 image: 'https://m.media-amazon.com/images/I/41q7xaWRhgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WBFPNL-es MO JOC - Zapatos de tacón para mujer color Negro talla 41 EU'
 sku: 'B086WBFPNL-es'
 tags: [ 'zapatos', ]

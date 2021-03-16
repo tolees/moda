@@ -5,7 +5,7 @@ date: 2020-06-22 15:25:46
 image: 'https://m.media-amazon.com/images/I/41DGqXoPA0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4PHN5R-es Goodthreads Packable Down Jacket Outerwear-Jackets Dorado...'
 sku: 'B07P4PHN5R-es'
 tags: [ 'goodthreads', ]

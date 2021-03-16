@@ -5,7 +5,7 @@ date: 2020-06-01 19:21:51
 image: 'https://m.media-amazon.com/images/I/41mzRfwF3dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK79YVN-es Compatible con Xiaomi FIMI X8 SE Bolsa de Almacenamiento...'
 sku: 'B07SK79YVN-es'
 tags: [ 'bolso', ]

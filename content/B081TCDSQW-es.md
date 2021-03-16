@@ -5,7 +5,7 @@ date: 2020-01-28 11:19:26
 image: 'https://m.media-amazon.com/images/I/511X770RgQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TCDSQW-es Disfraz Anna Frozen Niñas con Capa Princesa Ana Vestido...'
 sku: 'B081TCDSQW-es'
 tags: [ 'vestido', ]

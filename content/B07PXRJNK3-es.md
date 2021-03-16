@@ -5,7 +5,7 @@ date: 2020-09-01 09:40:30
 image: 'https://m.media-amazon.com/images/I/41T3C0uV5YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXRJNK3-es oodji Ultra Mujer Camisa de Algodón Oversize Azul ES 36 / XS'
 sku: 'B07PXRJNK3-es'
 tags: [ 'camisa', ]

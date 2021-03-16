@@ -5,7 +5,7 @@ date: 2020-02-06 13:11:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cf%2BKhSN2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DJ6JJM-es IRIS & LILLY BLIC004 sujetadores push up Rosa Azalea 90C...'
 sku: 'B075DJ6JJM-es'
 tags: [ '&','iris','lilly', ]

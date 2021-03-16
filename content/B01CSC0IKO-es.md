@@ -5,7 +5,7 @@ date: 2020-01-19 12:28:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41socZBFLpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CSC0IKO-es LEABAGS Illinois Monedero de auténtico Cuero Ternero en el...'
 sku: 'B01CSC0IKO-es'
 tags: [ 'monedero', ]

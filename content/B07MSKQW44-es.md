@@ -5,7 +5,7 @@ date: 2020-07-29 09:25:49
 image: 'https://m.media-amazon.com/images/I/31OcyI2HanL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSKQW44-es HKT by Hackett Hkt SS tee Camiseta Ink 591 Large para Hombre'
 sku: 'B07MSKQW44-es'
 tags: [ 'camiseta', ]

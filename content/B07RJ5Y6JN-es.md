@@ -5,7 +5,7 @@ date: 2020-04-06 18:32:12
 image: 'https://m.media-amazon.com/images/I/31paNkE04CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ5Y6JN-es G-STAR RAW Revend Skinny Vaqueros Waxed Black Destroyed...'
 sku: 'B07RJ5Y6JN-es'
 tags: [ 'vaqueros', ]

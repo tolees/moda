@@ -5,7 +5,7 @@ date: 2020-03-14 02:30:52
 image: 'https://m.media-amazon.com/images/I/41dETNzl0YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDQ2MTX-es G-STAR RAW Whistler Slim Down Hooded Chaqueta Gris Mercury...'
 sku: 'B07NDQ2MTX-es'
 tags: [ 'chaqueta', ]

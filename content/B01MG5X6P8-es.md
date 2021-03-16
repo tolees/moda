@@ -5,7 +5,7 @@ date: 2020-05-31 10:29:34
 image: 'https://m.media-amazon.com/images/I/41M0dufIv8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MG5X6P8-es Lacoste TH6712 Camiseta Gris Argent Chine Large Talla del...'
 sku: 'B01MG5X6P8-es'
 tags: [ 'camiseta', ]

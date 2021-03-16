@@ -5,7 +5,7 @@ date: 2020-03-01 08:18:14
 image: 'https://m.media-amazon.com/images/I/414oH2ETBuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPNSGL-es G-STAR RAW Citishield Slim Chaqueta Vaquera Negro 3D...'
 sku: 'B07NDPNSGL-es'
 tags: [ 'chaqueta', ]

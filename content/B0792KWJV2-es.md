@@ -5,7 +5,7 @@ date: 2020-08-21 22:33:14
 image: 'https://m.media-amazon.com/images/I/41Q+O4FFQtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792KWJV2-es Geox JR Wader A Zapatillas para Niños Negro Black C9999 38 EU'
 sku: 'B0792KWJV2-es'
 tags: [ 'geox', ]

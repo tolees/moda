@@ -5,7 +5,7 @@ date: 2020-01-26 08:06:04
 image: 'https://m.media-amazon.com/images/I/41y66m+W6FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH2KT9F-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros Faded Glacier...'
 sku: 'B07RH2KT9F-es'
 tags: [ 'vaqueros', ]

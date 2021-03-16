@@ -5,7 +5,7 @@ date: 2020-09-28 22:34:42
 image: 'https://m.media-amazon.com/images/I/31+0u6JP6gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGP7Q23-es HUGO 708 Vaqueros Slim Negro Black 1 W34/L34 Talla del...'
 sku: 'B07VGP7Q23-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-05-14 07:02:29
 image: 'https://m.media-amazon.com/images/I/31CmYx8vNzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776ZRDSM-es Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3...'
 sku: 'B0776ZRDSM-es'
 tags: [ 'camiseta', ]

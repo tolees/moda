@@ -5,7 +5,7 @@ date: 2020-09-01 10:34:43
 image: 'https://m.media-amazon.com/images/I/412G3V0DgRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9GNW5H-es Under Armour Rival Fleece Crew Sudadera Hombre Verde SM'
 sku: 'B07L9GNW5H-es'
 tags: [ 'sudadera', ]

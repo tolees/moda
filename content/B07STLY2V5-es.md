@@ -5,7 +5,7 @@ date: 2020-07-05 09:47:55
 image: 'https://m.media-amazon.com/images/I/31uaS4o5swL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLY2V5-es Geox Vega W Zapatillas para Mujer Azul Navy C4002 35 EU'
 sku: 'B07STLY2V5-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-07-21 14:01:30
 image: 'https://m.media-amazon.com/images/I/31nAZ9lMkJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB92ZNQ-es PUMA Manchester City FC Kids Replica Dodge Jersey Unisex...'
 sku: 'B07QB92ZNQ-es'
 tags: [ 'jersey', ]

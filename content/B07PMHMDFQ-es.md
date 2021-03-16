@@ -5,7 +5,7 @@ date: 2020-03-02 09:54:11
 image: 'https://m.media-amazon.com/images/I/41Sk2bPFnoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMHMDFQ-es Zapatos de Trabajo Muy cómodos para Trabajos de hostelería...'
 sku: 'B07PMHMDFQ-es'
 tags: [ 'zapatos', ]

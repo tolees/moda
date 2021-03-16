@@ -5,7 +5,7 @@ date: 2020-03-06 22:46:36
 image: 'https://m.media-amazon.com/images/I/41VsSgUu5HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTGFKQQ-es GANT The Reg BD Camisa Azul Lt Indigo 999 XX-Large para...'
 sku: 'B07MTGFKQQ-es'
 tags: [ 'camisa', ]

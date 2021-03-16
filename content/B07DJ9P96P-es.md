@@ -5,7 +5,7 @@ date: 2020-01-20 19:18:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIf%2B%2BDw2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ9P96P-es Geox D Marykarmen Mid Sandal E Sandalias con Punta Abierta...'
 sku: 'B07DJ9P96P-es'
 tags: [ 'geox','sandalias', ]

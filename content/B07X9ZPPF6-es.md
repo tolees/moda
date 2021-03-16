@@ -5,7 +5,7 @@ date: 2020-01-15 19:57:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iTbKVVnVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9ZPPF6-es edc by Esprit 109cc1k023 Camisa Manga Larga Azul Navy 400...'
 sku: 'B07X9ZPPF6-es'
 tags: [ 'camisa', ]

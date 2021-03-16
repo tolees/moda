@@ -5,7 +5,7 @@ date: 2020-10-03 19:03:35
 image: 'https://m.media-amazon.com/images/I/41-f8KrlW7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VHG1JM-es Columbia Horizon Explorer Chaqueta con Capucha Hombre...'
 sku: 'B087VHG1JM-es'
 tags: [ 'chaqueta', ]

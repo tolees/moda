@@ -5,7 +5,7 @@ date: 2020-06-15 10:43:37
 image: 'https://m.media-amazon.com/images/I/41TEwH0xQ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHWRQRV-es PUMA Cup Training Jersey Core Maillot Hombre Black/Cyber...'
 sku: 'B07JHWRQRV-es'
 tags: [ 'jersey', ]

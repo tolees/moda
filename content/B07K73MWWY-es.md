@@ -5,7 +5,7 @@ date: 2020-10-04 23:54:31
 image: 'https://m.media-amazon.com/images/I/41lm2G0uWCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K73MWWY-es Levi s 511 Slim Fit Vaqueros Caspian Adapt 3406 27W / 32L...'
 sku: 'B07K73MWWY-es'
 tags: [ 'vaqueros', ]

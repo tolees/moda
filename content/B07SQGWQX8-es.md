@@ -5,7 +5,7 @@ date: 2020-07-20 08:24:11
 image: 'https://m.media-amazon.com/images/I/31-y1ps5FPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGWQX8-es Geox D Avery C Zapatillas para Mujer Blanco White C1000 38 EU'
 sku: 'B07SQGWQX8-es'
 tags: [ 'geox', ]

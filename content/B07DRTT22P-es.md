@@ -5,7 +5,7 @@ date: 2020-02-24 14:29:10
 image: 'https://m.media-amazon.com/images/I/41L5fQ0RNML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRTT22P-es Salomon Xview Gafas de esquí unisex Azul Moroccan...'
 sku: 'B07DRTT22P-es'
 tags: [ 'gafas', ]

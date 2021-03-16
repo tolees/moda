@@ -5,7 +5,7 @@ date: 2020-08-28 17:27:44
 image: 'https://m.media-amazon.com/images/I/410sXNZKzEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1H8RH7-es Havaianas Slim Chanclas para Niñas Rosa Hollywood Rose...'
 sku: 'B07F1H8RH7-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-03-04 11:44:36
 image: 'https://m.media-amazon.com/images/I/41zJNkMQxBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1K5MTX-es Clarks Step Explorhi Botines para Mujer Negro Black 38 EU'
 sku: 'B07N1K5MTX-es'
 tags: [ 'botines', ]

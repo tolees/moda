@@ -5,7 +5,7 @@ date: 2020-06-02 17:57:16
 image: 'https://m.media-amazon.com/images/I/418R-6lMu9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLYLFH-es Geox D Rubidia A Zapatillas para Mujer Dorado Gold/White...'
 sku: 'B07STLYLFH-es'
 tags: [ 'geox', ]

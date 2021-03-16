@@ -5,7 +5,7 @@ date: 2020-04-07 11:02:18
 image: 'https://m.media-amazon.com/images/I/41sO0qY8tXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0081OBLRS-es Levi s 501 Original Fit Vaqueros Hook 40W / 34L para Hombre'
 sku: 'B0081OBLRS-es'
 tags: [ 'vaqueros', ]

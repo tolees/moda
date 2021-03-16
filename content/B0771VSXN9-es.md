@@ -5,7 +5,7 @@ date: 2020-01-02 07:56:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fv9WF1a9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771VSXN9-es Columbia Silver Ridge II Pantalón Cargo de Senderismo para...'
 sku: 'B0771VSXN9-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-03-06 07:43:18
 image: 'https://m.media-amazon.com/images/I/41hGBNLQnDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8B6QX6-es Wrangler Greensboro Vaqueros Azul Something Warm 67q 33 W/...'
 sku: 'B07M8B6QX6-es'
 tags: [ 'vaqueros', ]

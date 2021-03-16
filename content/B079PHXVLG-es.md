@@ -5,7 +5,7 @@ date: 2020-09-22 12:18:57
 image: 'https://m.media-amazon.com/images/I/41cXjjh2YKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PHXVLG-es Only Onlnicole S/s Mix Top Noos Camiseta Blanco Cloud...'
 sku: 'B079PHXVLG-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-07 20:13:16
 image: 'https://m.media-amazon.com/images/I/51AQ9wKt+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJXXLZ7-es Tommy Hilfiger TJM Flannel Multi Check Shirt Camisa Negro...'
 sku: 'B07RJXXLZ7-es'
 tags: [ 'camisa', ]

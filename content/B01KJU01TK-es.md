@@ -5,7 +5,7 @@ date: 2020-09-24 05:12:09
 image: 'https://m.media-amazon.com/images/I/41r6C0SUswL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KJU01TK-es Timberland 6-Inch Premium Boot Botas para Hombre Marrón...'
 sku: 'B01KJU01TK-es'
 tags: [ 'timberland', ]

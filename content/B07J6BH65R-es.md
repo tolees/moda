@@ -5,7 +5,7 @@ date: 2020-01-27 20:04:35
 image: 'https://m.media-amazon.com/images/I/51qDipjXCJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6BH65R-es Hombres Bombardero Vuelo Piloto Chaqueta de Cuero Manga...'
 sku: 'B07J6BH65R-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-05-27 20:32:29
 image: 'https://m.media-amazon.com/images/I/41g6sN8qGWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779CZYRD-es Adidas Ref18 JSY Camiseta de Manga Corta Hombre Black XS'
 sku: 'B0779CZYRD-es'
 tags: [ 'camiseta', ]

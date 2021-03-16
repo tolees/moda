@@ -5,7 +5,7 @@ date: 2020-03-21 09:32:58
 image: 'https://m.media-amazon.com/images/I/411-O6qdYCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BY169PM-es Tommy Hilfiger Modern Jaspe Camiseta Azul Blue Sapphire...'
 sku: 'B07BY169PM-es'
 tags: [ 'camiseta', ]

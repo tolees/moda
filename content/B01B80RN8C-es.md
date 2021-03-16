@@ -5,7 +5,7 @@ date: 2020-04-15 23:08:39
 image: 'https://m.media-amazon.com/images/I/41GKY7L8XYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B80RN8C-es Helly Hansen Rigging Abrigo Hombre Azul Navy L'
 sku: 'B01B80RN8C-es'
 tags: [ 'abrigo', ]

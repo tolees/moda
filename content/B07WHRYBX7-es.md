@@ -5,7 +5,7 @@ date: 2020-01-08 14:10:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZN%2BOPTAUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHRYBX7-es SALOMON Blend Logo SS tee M Camiseta Deportiva de Manga...'
 sku: 'B07WHRYBX7-es'
 tags: [ 'camiseta', ]

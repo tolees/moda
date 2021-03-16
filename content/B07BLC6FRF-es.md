@@ -5,7 +5,7 @@ date: 2020-02-08 17:45:30
 image: 'https://m.media-amazon.com/images/I/31MANM65cNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BLC6FRF-es AURIQUE BAL1042 Mallas de Entrenamiento Rojo Port...'
 sku: 'B07BLC6FRF-es'
 tags: [ 'aurique', ]

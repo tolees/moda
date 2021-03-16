@@ -5,7 +5,7 @@ date: 2020-01-24 15:41:35
 image: 'https://m.media-amazon.com/images/I/41OG5R6nmwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGR766S-es Timberland Davis Square Leather Chukka Botas Unisex-Niños...'
 sku: 'B07DGR766S-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-02-01 13:33:32
 image: 'https://m.media-amazon.com/images/I/31jG7hu14wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XNCFKL-es Under Armour Armour Fleece Full Zip Sudadera con Capucha...'
 sku: 'B077XNCFKL-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-02-20 06:03:45
 image: 'https://m.media-amazon.com/images/I/41j3Cp3MFiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVSZ255-es New Look Maisie Fitted Puffer Abrigo Mujer Gris Dark Grey...'
 sku: 'B07TVSZ255-es'
 tags: [ 'abrigo', ]

@@ -5,7 +5,7 @@ date: 2020-06-11 06:25:18
 image: 'https://m.media-amazon.com/images/I/31CVeFl3vZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKCVRXC-es Helly Hansen HH LIFA T-Shirt Camiseta Técnica De...'
 sku: 'B07MKCVRXC-es'
 tags: [ 'camiseta', ]

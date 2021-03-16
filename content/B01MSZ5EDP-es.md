@@ -5,7 +5,7 @@ date: 2020-01-02 08:11:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dP-Le2rBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSZ5EDP-es s.Oliver 14704783465 Falda para Mujer negro black 9999 44'
 sku: 'B01MSZ5EDP-es'
 tags: [ 'falda', ]

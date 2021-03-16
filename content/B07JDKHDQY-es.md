@@ -5,7 +5,7 @@ date: 2020-06-28 14:56:23
 image: 'https://m.media-amazon.com/images/I/41iuYApMneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JDKHDQY-es Levi s Barstow Western Camisa Vaquera Azul Red Cast Rinse...'
 sku: 'B07JDKHDQY-es'
 tags: [ 'camisa', ]

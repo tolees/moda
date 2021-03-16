@@ -5,7 +5,7 @@ date: 2020-03-10 14:21:10
 image: 'https://m.media-amazon.com/images/I/41CvcnwZmhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VICBIU-es Timberland 6 In Premium Waterproof Botas Unisex Niños...'
 sku: 'B000VICBIU-es'
 tags: [ 'timberland', ]

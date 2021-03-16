@@ -5,7 +5,7 @@ date: 2020-09-18 18:33:49
 image: 'https://m.media-amazon.com/images/I/31NUfDEm4AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SH1VDQ5-es Levi s June L Chanclas para Hombre Rojo R Red 87 40 EU'
 sku: 'B07SH1VDQ5-es'
 tags: [ 'chanclas', ]

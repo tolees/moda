@@ -5,7 +5,7 @@ date: 2020-01-11 09:05:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zv5nfDS0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RPSTV8-es Star Wars HQ2017 Pijama de una Pieza Niños Azul Navy 4...'
 sku: 'B073RPSTV8-es'
 tags: [ 'pijama', ]

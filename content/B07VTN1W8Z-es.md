@@ -5,7 +5,7 @@ date: 2020-08-03 07:37:43
 image: 'https://m.media-amazon.com/images/I/41rs8ofqUuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTN1W8Z-es Meizas Conjuntos de Bikinis para Mujer Push Up Bikini...'
 sku: 'B07VTN1W8Z-es'
 tags: [ 'bikini', ]

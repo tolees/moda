@@ -5,7 +5,7 @@ date: 2020-05-03 00:38:47
 image: 'https://m.media-amazon.com/images/I/31w3+JxJxRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076Y7YRV9-es Levi s 511 Slim Fit Vaqueros Nightwatch Blue Bi-Str 2617...'
 sku: 'B076Y7YRV9-es'
 tags: [ 'vaqueros', ]

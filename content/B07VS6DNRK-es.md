@@ -5,7 +5,7 @@ date: 2020-08-15 22:10:14
 image: 'https://m.media-amazon.com/images/I/41r-GYzUZmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS6DNRK-es Tommy Hilfiger Lacie Shirt LS W2 Camisa Naranja Bitonal...'
 sku: 'B07VS6DNRK-es'
 tags: [ 'camisa', ]

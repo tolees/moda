@@ -5,7 +5,7 @@ date: 2020-02-24 22:20:19
 image: 'https://m.media-amazon.com/images/I/41nJCt3dXWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL6BN8-es G-STAR RAW Bristum 1 Pocket Slim Camisa Vaquera Multicolor...'
 sku: 'B07NDL6BN8-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-02-25 14:45:17
 image: 'https://m.media-amazon.com/images/I/31kdwwpwUkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKWKYX9-es FITTOO Mujeres PU Leggins Cuero Brillante Pantalón...'
 sku: 'B07GKWKYX9-es'
 tags: [ 'leggins','pantalón', ]

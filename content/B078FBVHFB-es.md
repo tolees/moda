@@ -5,7 +5,7 @@ date: 2020-01-19 11:40:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413amMHadmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078FBVHFB-es find. 62909 vaqueros mujer Negro Black W31/L32 Talla del...'
 sku: 'B078FBVHFB-es'
 tags: [ 'vaqueros', ]

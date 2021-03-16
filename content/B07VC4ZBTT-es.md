@@ -5,7 +5,7 @@ date: 2020-07-22 19:56:51
 image: 'https://m.media-amazon.com/images/I/31aYRX3V4GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC4ZBTT-es Calvin Klein Monogram Sweater Sudadera Blanco CK Black 0k4...'
 sku: 'B07VC4ZBTT-es'
 tags: [ 'sudadera', ]

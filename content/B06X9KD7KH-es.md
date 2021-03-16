@@ -5,7 +5,7 @@ date: 2020-02-09 09:20:28
 image: 'https://m.media-amazon.com/images/I/41Ym4fOLtIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9KD7KH-es Kayhan Hombre Camisa TwoFace Bordeaux M'
 sku: 'B06X9KD7KH-es'
 tags: [ 'camisa', ]

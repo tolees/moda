@@ -5,7 +5,7 @@ date: 2020-02-19 20:41:53
 image: 'https://m.media-amazon.com/images/I/31-wSNKHKyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M95FTBR-es Lee Shirt Dress Vestido Azul Oil Blue Mo Medium para Mujer'
 sku: 'B07M95FTBR-es'
 tags: [ 'vestido', ]

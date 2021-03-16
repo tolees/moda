@@ -5,7 +5,7 @@ date: 2020-07-13 12:22:26
 image: 'https://m.media-amazon.com/images/I/212AJ+oyjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQGW2LT-es Samsung EF-WA705 Funda billetera para teléfono Galaxy A70...'
 sku: 'B07PQGW2LT-es'
 tags: [ 'billetera', ]

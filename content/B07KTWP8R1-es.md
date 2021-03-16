@@ -5,7 +5,7 @@ date: 2020-08-26 21:03:36
 image: 'https://m.media-amazon.com/images/I/31vv4CiNrCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTWP8R1-es Adidas Adilette Shower - Zapatos de Playa y Piscina para...'
 sku: 'B07KTWP8R1-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-09-05 14:41:26
 image: 'https://m.media-amazon.com/images/I/41HdRVV4jOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZ7YSPG-es Women s Secret PF Carey Sw Conjuntos de Bikini Rojo Red 60...'
 sku: 'B07KZ7YSPG-es'
 tags: [ 'bikini', ]

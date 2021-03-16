@@ -5,7 +5,7 @@ date: 2020-08-09 04:08:48
 image: 'https://m.media-amazon.com/images/I/31GhNXw7qpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXQW7WQ-es Skechers Go Walk Smart-First Class Chanclas para Mujer...'
 sku: 'B07TXQW7WQ-es'
 tags: [ 'chanclas', ]

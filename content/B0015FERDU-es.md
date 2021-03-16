@@ -5,7 +5,7 @@ date: 2020-07-01 12:10:21
 image: 'https://m.media-amazon.com/images/I/41D9Le7pkaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0015FERDU-es Havaianas Brasil Chanclas Unisex Adulto Negro Black 47/48 EU'
 sku: 'B0015FERDU-es'
 tags: [ 'chanclas', ]

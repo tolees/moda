@@ -5,7 +5,7 @@ date: 2020-02-25 12:32:19
 image: 'https://m.media-amazon.com/images/I/31R-dpMbbSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQWL4TF-es HAWKERS · NARCISO · Electric Blue · Gafas de sol para...'
 sku: 'B07TQWL4TF-es'
 tags: [ 'gafas', ]

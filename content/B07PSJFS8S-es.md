@@ -5,7 +5,7 @@ date: 2020-07-02 18:09:12
 image: 'https://m.media-amazon.com/images/I/41H1iDxcIxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJFS8S-es Kipling Amiel Bolso de Mano para Mujer Verde Seagrass...'
 sku: 'B07PSJFS8S-es'
 tags: [ 'bolso', ]

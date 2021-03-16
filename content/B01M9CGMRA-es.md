@@ -5,7 +5,7 @@ date: 2020-10-01 13:10:06
 image: 'https://m.media-amazon.com/images/I/41qiaco7OYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9CGMRA-es Intimuse Shari vestido Mujer Morado lila 36 XS/36'
 sku: 'B01M9CGMRA-es'
 tags: [ 'vestido', ]

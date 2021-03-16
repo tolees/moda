@@ -5,7 +5,7 @@ date: 2020-08-14 15:41:00
 image: 'https://m.media-amazon.com/images/I/31Yk5VzZlsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YYR2T7-es find. Camiseta para Mujer Anaranjado / Coralino Water...'
 sku: 'B071YYR2T7-es'
 tags: [ 'camiseta', ]

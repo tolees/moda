@@ -5,7 +5,7 @@ date: 2020-01-27 02:15:10
 image: 'https://m.media-amazon.com/images/I/41BowP9ik9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSRNJ6T-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos...'
 sku: 'B07KSRNJ6T-es'
 tags: [ 'camisa', ]

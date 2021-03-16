@@ -5,7 +5,7 @@ date: 2020-01-21 08:55:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hehCt55DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071L9YDJR-es Izas Ferni Chaqueta Forro Polar Mujer Fuxia XXS'
 sku: 'B071L9YDJR-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-02-24 09:40:38
 image: 'https://m.media-amazon.com/images/I/31fq3iY-nIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UNA3Z36-es Lacoste TH7618 Camiseta para Hombre Azul Marine X-Small...'
 sku: 'B00UNA3Z36-es'
 tags: [ 'camiseta', ]

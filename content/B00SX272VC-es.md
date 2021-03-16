@@ -5,7 +5,7 @@ date: 2020-05-21 16:20:33
 image: 'https://m.media-amazon.com/images/I/41+cNgVBTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SX272VC-es Calvin Klein Modern Cotton-Bralette Braguita de bikini...'
 sku: 'B00SX272VC-es'
 tags: [ 'bikini', ]

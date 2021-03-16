@@ -5,7 +5,7 @@ date: 2020-08-19 11:33:47
 image: 'https://m.media-amazon.com/images/I/31sHtODqADL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HC9N3DZ-es PICSIL Raven 2H Calleras para Crossfit Grips 2 Agujeros...'
 sku: 'B07HC9N3DZ-es'
 tags: [ 'guantes', ]

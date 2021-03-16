@@ -5,7 +5,7 @@ date: 2020-01-23 12:35:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ctbu7j9jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3DF5VS-es Under Armour Men s CGI Fleece Glove Guantes Hombre Gris LG'
 sku: 'B07J3DF5VS-es'
 tags: [ 'guantes', ]

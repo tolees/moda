@@ -5,7 +5,7 @@ date: 2020-09-22 17:09:27
 image: 'https://m.media-amazon.com/images/I/51W-+X7XsHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K23SVKW-es Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce...'
 sku: 'B07K23SVKW-es'
 tags: [ 'blusa','camiseta','moda', ]

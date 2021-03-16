@@ -5,7 +5,7 @@ date: 2020-07-27 12:17:00
 image: 'https://m.media-amazon.com/images/I/41lk9e6FMmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6ZJQ9C-es 2-Pack Gafas de Lectura Magnéticas Plegables para Hombre y...'
 sku: 'B07V6ZJQ9C-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-01-18 12:33:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KszS%2BZQAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JQSRYT-es find. Camiseta Manga Larga Hombre Gris Stone 50 Talla del...'
 sku: 'B073JQSRYT-es'
 tags: [ 'camiseta', ]

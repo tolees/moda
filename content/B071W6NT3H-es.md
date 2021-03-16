@@ -5,7 +5,7 @@ date: 2020-07-09 21:46:28
 image: 'https://m.media-amazon.com/images/I/41xrBLpoNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071W6NT3H-es Fluchos- retail ES Spain 8499 Zapatos sin Cordones Hombre...'
 sku: 'B071W6NT3H-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-05 18:21:52
 image: 'https://m.media-amazon.com/images/I/41Gw2eAJE+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKNCC6Z-es Clarks Step Beat Sun Abierta Sandalias Punta Cerrada Verde...'
 sku: 'B07TKNCC6Z-es'
 tags: [ 'sandalias', ]

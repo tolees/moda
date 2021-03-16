@@ -5,7 +5,7 @@ date: 2020-06-14 15:37:56
 image: 'https://m.media-amazon.com/images/I/31Izx2Ro5EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQFDDLM-es Adidas Altaswim C Jr Sandalias Unisex Niños Blanco...'
 sku: 'B07ZQFDDLM-es'
 tags: [ 'sandalias', ]

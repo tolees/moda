@@ -5,7 +5,7 @@ date: 2020-07-23 04:15:54
 image: 'https://m.media-amazon.com/images/I/31P9gsFwGCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFZ53CQ-es Marca Amazon - find. SHANA-S-1A-58 - Tira de tobillo de...'
 sku: 'B07YFZ53CQ-es'
 tags: [ '-','find.', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 13:13:05
 image: 'https://m.media-amazon.com/images/I/31eJua0krIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4BR8SF-es United Colors of Benetton Basico 2 Man Camiseta de Manga...'
 sku: 'B07N4BR8SF-es'
 tags: [ 'camiseta', ]

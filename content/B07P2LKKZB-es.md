@@ -5,7 +5,7 @@ date: 2020-06-13 07:42:02
 image: 'https://m.media-amazon.com/images/I/31RfibcmZ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2LKKZB-es GRACE KARIN Mujer Vestido Elegante Años 50 Vestido de...'
 sku: 'B07P2LKKZB-es'
 tags: [ 'vestido', ]

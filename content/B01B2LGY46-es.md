@@ -5,7 +5,7 @@ date: 2020-02-14 01:22:00
 image: 'https://m.media-amazon.com/images/I/31QctcEwcoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B2LGY46-es Kaporal BROZE16M7JSAD Vaqueros Para Hombre Beige sandes W31'
 sku: 'B01B2LGY46-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-01 09:43:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51kFyBjFWKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBH4QND-es Realer - Bolso de asas de sintético para mujer negro negro'
 sku: 'B01NBH4QND-es'
 tags: [ 'bolso', ]

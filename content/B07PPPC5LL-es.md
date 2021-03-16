@@ -5,7 +5,7 @@ date: 2020-03-09 09:37:10
 image: 'https://m.media-amazon.com/images/I/51sy6tO9KuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPPC5LL-es MTNG Kanda Bolso bandolera para Mujer Marrón Pull...'
 sku: 'B07PPPC5LL-es'
 tags: [ 'bolso', ]

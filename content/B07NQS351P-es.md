@@ -5,7 +5,7 @@ date: 2020-02-27 11:43:12
 image: 'https://m.media-amazon.com/images/I/41k+Ji5Lf5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQS351P-es Tom Tailor 7990106 Botines para Mujer Rosa Nude 01521 40 EU'
 sku: 'B07NQS351P-es'
 tags: [ 'botines', ]

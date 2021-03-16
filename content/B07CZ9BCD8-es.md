@@ -5,7 +5,7 @@ date: 2020-02-24 20:59:07
 image: 'https://m.media-amazon.com/images/I/31SCsG4FzTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ9BCD8-es Under Armour UA Speed Stride Camiseta Mujer Negro Black...'
 sku: 'B07CZ9BCD8-es'
 tags: [ 'camiseta', ]

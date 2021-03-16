@@ -5,7 +5,7 @@ date: 2020-09-26 16:01:45
 image: 'https://m.media-amazon.com/images/I/41PUVsnTjAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000U6URF2-es Clarks Funny Dream Zapatos de Cordones Derby para Mujer...'
 sku: 'B000U6URF2-es'
 tags: [ 'zapatos', ]

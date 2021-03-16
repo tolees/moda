@@ -5,7 +5,7 @@ date: 2020-01-17 08:40:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41H10rr9i1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3FQR76-es Hilfiger Denim Stripe Tommy Jeans Beach Sandal Chanclas...'
 sku: 'B07L3FQR76-es'
 tags: [ 'chanclas', ]

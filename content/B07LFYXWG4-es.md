@@ -5,7 +5,7 @@ date: 2020-05-16 16:52:58
 image: 'https://m.media-amazon.com/images/I/31xicIlf7YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYXWG4-es Geox Womens D New ANNYA MID A Pump Navy 41 EU'
 sku: 'B07LFYXWG4-es'
 tags: [ 'geox', ]

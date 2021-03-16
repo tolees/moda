@@ -5,7 +5,7 @@ date: 2020-01-07 15:53:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HegRDC49L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPWSDDW-es Desigual T-Shirt Short Sleeve NANUK Woman Blue Camiseta...'
 sku: 'B07GPWSDDW-es'
 tags: [ 'camiseta', ]

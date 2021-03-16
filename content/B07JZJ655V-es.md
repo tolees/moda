@@ -5,7 +5,7 @@ date: 2020-03-19 04:53:02
 image: 'https://m.media-amazon.com/images/I/41P5murMpJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZJ655V-es Tommy Hilfiger U Light Down Jacket Chaqueta Verde Olive...'
 sku: 'B07JZJ655V-es'
 tags: [ 'chaqueta', ]

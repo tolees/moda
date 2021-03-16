@@ -5,7 +5,7 @@ date: 2020-06-26 18:00:38
 image: 'https://m.media-amazon.com/images/I/41Lhu6a4rmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010QRQ3NE-es Timberland Larchmont Chukka Botas Clasicas para Hombre...'
 sku: 'B010QRQ3NE-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-01-26 11:11:05
 image: 'https://m.media-amazon.com/images/I/419P1JZhfUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWPJJY-es Wrangler Jacket Chaqueta Bomber Azul Navy 114 Medium para...'
 sku: 'B07MMWPJJY-es'
 tags: [ 'chaqueta', ]

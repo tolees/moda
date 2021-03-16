@@ -5,7 +5,7 @@ date: 2020-01-21 08:54:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z3PsRZZGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFXQTX5-es GLOGLOW Capa Casual de otoño de Las Mujeres Encaje...'
 sku: 'B07JFXQTX5-es'
 tags: [ 'blusa','chaqueta', ]

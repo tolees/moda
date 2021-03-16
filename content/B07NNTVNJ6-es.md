@@ -5,7 +5,7 @@ date: 2020-07-16 06:42:16
 image: 'https://m.media-amazon.com/images/I/41lGXnrRBDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNTVNJ6-es Under Armour UA Jet Zapatos de Deporte para Hombre Gris...'
 sku: 'B07NNTVNJ6-es'
 tags: [ 'zapatos', ]

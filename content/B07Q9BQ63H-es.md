@@ -5,7 +5,7 @@ date: 2020-09-12 09:25:23
 image: 'https://m.media-amazon.com/images/I/417VNeEGIzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9BQ63H-es Superdry Utility Field Edition L/s Shirt Camisa Verde Army...'
 sku: 'B07Q9BQ63H-es'
 tags: [ 'camisa', ]

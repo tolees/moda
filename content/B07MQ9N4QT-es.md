@@ -5,7 +5,7 @@ date: 2020-03-12 14:36:19
 image: 'https://m.media-amazon.com/images/I/31XwIl0GxSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ9N4QT-es Reebok Wor AC tee Camiseta Mujer Negro S'
 sku: 'B07MQ9N4QT-es'
 tags: [ 'camiseta', ]

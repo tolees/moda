@@ -5,7 +5,7 @@ date: 2020-02-10 20:33:41
 image: 'https://m.media-amazon.com/images/I/31TMynk3iYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074NB81BX-es Fitflop Lulu Cross Slide Sandalias de Punta Descubierta...'
 sku: 'B074NB81BX-es'
 tags: [ 'sandalias', ]

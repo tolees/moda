@@ -5,7 +5,7 @@ date: 2020-02-10 14:10:48
 image: 'https://m.media-amazon.com/images/I/41yqh8Yl2XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTH2KJN-es Organizador de equipaje de viaje 7 piezas impermeables...'
 sku: 'B07QTH2KJN-es'
 tags: [ 'zapatos', ]

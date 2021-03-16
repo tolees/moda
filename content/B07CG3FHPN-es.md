@@ -5,7 +5,7 @@ date: 2020-10-02 08:19:15
 image: 'https://m.media-amazon.com/images/I/417-vLdV6LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CG3FHPN-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera Azul...'
 sku: 'B07CG3FHPN-es'
 tags: [ 'camisa', ]

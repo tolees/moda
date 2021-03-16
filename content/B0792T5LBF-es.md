@@ -5,7 +5,7 @@ date: 2020-02-19 08:32:42
 image: 'https://m.media-amazon.com/images/I/41G4niveAaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792T5LBF-es Geox J New Savage Boy A Zapatillas para Niños Azul...'
 sku: 'B0792T5LBF-es'
 tags: [ 'geox', ]

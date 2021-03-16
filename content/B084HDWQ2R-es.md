@@ -5,7 +5,7 @@ date: 2020-06-26 09:32:47
 image: 'https://m.media-amazon.com/images/I/41FRWGC3mTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HDWQ2R-es XTI - Sandalias con Tacón Casual - Sandalia con Tacón -...'
 sku: 'B084HDWQ2R-es'
 tags: [ 'sandalias', ]

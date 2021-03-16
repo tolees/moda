@@ -5,7 +5,7 @@ date: 2020-04-26 15:10:41
 image: 'https://m.media-amazon.com/images/I/41yc5SFGefL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5NPTZB-es Tom Tailor Denim Kontrastreiche Chaqueta Punto Beige Camel...'
 sku: 'B07V5NPTZB-es'
 tags: [ 'chaqueta', ]

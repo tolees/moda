@@ -5,7 +5,7 @@ date: 2020-08-08 13:39:26
 image: 'https://m.media-amazon.com/images/I/41Vq1WzywCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z49N1PC-es Jack & Jones Jjeeric Puffer Collar Noos Chaqueta Azul Blau...'
 sku: 'B07Z49N1PC-es'
 tags: [ 'chaqueta','collar', ]

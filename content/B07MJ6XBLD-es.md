@@ -5,7 +5,7 @@ date: 2020-01-20 14:56:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BclSYKmBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ6XBLD-es New Look Highwaist Skinny 6055144 Vaqueros Negro Black 1...'
 sku: 'B07MJ6XBLD-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-13 08:23:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ago8CJpBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KH2DHY1-es Under Armour Qualifier Wg Perf Short Pantalón Corto Hombre...'
 sku: 'B07KH2DHY1-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-02-13 13:34:06
 image: 'https://m.media-amazon.com/images/I/31DUMMfq+kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831RHMRC-es Zapatilla Casual Cuero Mujer - Nicki White Blue Red 36'
 sku: 'B0831RHMRC-es'
 tags: [ 'zapatilla', ]

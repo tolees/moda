@@ -5,7 +5,7 @@ date: 2020-05-12 15:42:46
 image: 'https://m.media-amazon.com/images/I/41rRN2PbW+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDGMY13-es CHENMA Hombre Naruto Kakashi Chaqueta de bombardero con...'
 sku: 'B07BDGMY13-es'
 tags: [ 'chaqueta', ]

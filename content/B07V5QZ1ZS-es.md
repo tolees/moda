@@ -5,7 +5,7 @@ date: 2020-08-10 15:20:20
 image: 'https://m.media-amazon.com/images/I/41mHOu-PMUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5QZ1ZS-es Billabong All Day Impact Chanclas para Hombre Azul Navy 21...'
 sku: 'B07V5QZ1ZS-es'
 tags: [ 'chanclas', ]

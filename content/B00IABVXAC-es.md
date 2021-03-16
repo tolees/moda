@@ -5,7 +5,7 @@ date: 2020-01-19 19:02:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31mIkjzbzoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IABVXAC-es Helly Hansen Squamish CIS Jacket Chaqueta Hombre Negro L'
 sku: 'B00IABVXAC-es'
 tags: [ 'chaqueta', ]

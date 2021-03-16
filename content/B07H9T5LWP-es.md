@@ -5,7 +5,7 @@ date: 2020-03-02 12:46:29
 image: 'https://m.media-amazon.com/images/I/41J1ntgeGqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9T5LWP-es Litthing Sujetador Invisible Slim fit sin Anillo de Acero...'
 sku: 'B07H9T5LWP-es'
 tags: [ 'chaleco', ]

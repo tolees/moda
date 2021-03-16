@@ -5,7 +5,7 @@ date: 2020-05-16 11:33:16
 image: 'https://m.media-amazon.com/images/I/31rC2bvCi6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HV6MH2-es BENNALD Short Deportivo Hombre Pantalones Cortos Deporte...'
 sku: 'B083HV6MH2-es'
 tags: [ 'pantalón', ]

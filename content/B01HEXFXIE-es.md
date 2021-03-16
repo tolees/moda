@@ -5,7 +5,7 @@ date: 2020-08-13 12:22:42
 image: 'https://m.media-amazon.com/images/I/31v0y72sncL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEXFXIE-es Crocs Crocband Clog Kids Zuecos Unisex Niños Negro Black...'
 sku: 'B01HEXFXIE-es'
 tags: [ 'zuecos', ]

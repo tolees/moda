@@ -5,7 +5,7 @@ date: 2020-04-06 16:29:41
 image: 'https://m.media-amazon.com/images/I/31AalU92FmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTJ1YE-es G-STAR RAW 3301 Tapered Vaqueros para Hombre Azul dk aged...'
 sku: 'B01BGTJ1YE-es'
 tags: [ 'vaqueros', ]

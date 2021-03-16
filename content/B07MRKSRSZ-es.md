@@ -5,7 +5,7 @@ date: 2020-04-16 22:37:53
 image: 'https://m.media-amazon.com/images/I/41Y2wOaMd7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MRKSRSZ-es United Colors of Benetton Layette BB G2 Camiseta de Manga...'
 sku: 'B07MRKSRSZ-es'
 tags: [ 'camiseta', ]

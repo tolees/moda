@@ -5,7 +5,7 @@ date: 2020-06-02 22:50:13
 image: 'https://m.media-amazon.com/images/I/31MLLeUaMoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBNSYLQ-es Helly Hansen Crew Pique 2 Camisa Polo Mujer Nightshade M'
 sku: 'B07LBNSYLQ-es'
 tags: [ 'camisa', ]

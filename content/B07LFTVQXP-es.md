@@ -5,7 +5,7 @@ date: 2020-08-20 02:45:59
 image: 'https://m.media-amazon.com/images/I/31mhUX1ifgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFTVQXP-es Geox D ANNYTAH Moc A Mocasines para Mujer Azul Dk Blue...'
 sku: 'B07LFTVQXP-es'
 tags: [ 'geox', ]

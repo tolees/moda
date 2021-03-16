@@ -5,7 +5,7 @@ date: 2020-06-22 11:41:29
 image: 'https://m.media-amazon.com/images/I/314JcGhHVuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MW8GJZ-es Marca Amazon - IRIS & LILLY Braguita Mujer Pack de 10...'
 sku: 'B082MW8GJZ-es'
 tags: [ '&','iris','lilly', ]

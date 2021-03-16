@@ -5,7 +5,7 @@ date: 2020-08-17 13:48:33
 image: 'https://m.media-amazon.com/images/I/31ugAVlkIxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HS11RB6-es Armani Exchange Smart Stretch Satin Camisa Negro Black...'
 sku: 'B07HS11RB6-es'
 tags: [ 'camisa', ]

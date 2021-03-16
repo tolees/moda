@@ -5,7 +5,7 @@ date: 2020-02-17 16:32:48
 image: 'https://m.media-amazon.com/images/I/41nYMaQljJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMCYPHB-es Lee Scarlett Vaqueros Mujer Azul Pine Cone Eg 24W / 33L'
 sku: 'B07JMCYPHB-es'
 tags: [ 'vaqueros', ]

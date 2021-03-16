@@ -5,7 +5,7 @@ date: 2020-03-13 16:52:56
 image: 'https://m.media-amazon.com/images/I/41b2grW6zRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS3SJNT-es Fila 4516_21192 Talla S 2 Boxer Verde-95% algodón 5%...'
 sku: 'B07RS3SJNT-es'
 tags: [ 'boxer', ]

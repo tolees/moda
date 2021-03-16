@@ -5,7 +5,7 @@ date: 2020-03-21 08:58:12
 image: 'https://m.media-amazon.com/images/I/415fHd4X28L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JYTT6T-es Nike Dry Academy 18 Football Top Camiseta Hombre Azul...'
 sku: 'B079JYTT6T-es'
 tags: [ 'camiseta', ]

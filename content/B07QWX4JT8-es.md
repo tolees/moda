@@ -5,7 +5,7 @@ date: 2020-07-13 10:02:17
 image: 'https://m.media-amazon.com/images/I/31bbyLk-kNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWX4JT8-es ranrann Chaleco Sin Mangas para Niña Suave Camiseta de...'
 sku: 'B07QWX4JT8-es'
 tags: [ 'camiseta','chaleco', ]

@@ -5,7 +5,7 @@ date: 2020-07-21 16:25:38
 image: 'https://m.media-amazon.com/images/I/41sdHD3VwNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXZZ3YD-es Esprit 999ee2b806 Vaqueros Slim Azul Blue Dark Wash 901...'
 sku: 'B07RXZZ3YD-es'
 tags: [ 'vaqueros', ]

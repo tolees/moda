@@ -5,7 +5,7 @@ date: 2020-07-23 10:51:11
 image: 'https://m.media-amazon.com/images/I/41J7SD5olWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015SGHCHE-es Havaianas You Metallic Sandalias para Mujer Dorado Sand...'
 sku: 'B015SGHCHE-es'
 tags: [ 'sandalias', ]

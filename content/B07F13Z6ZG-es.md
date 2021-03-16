@@ -5,7 +5,7 @@ date: 2020-05-06 18:04:00
 image: 'https://m.media-amazon.com/images/I/41i6WY9aErL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F13Z6ZG-es Havaianas Brasil Logo Chanclas Unisex niños Amarillo...'
 sku: 'B07F13Z6ZG-es'
 tags: [ 'chanclas', ]

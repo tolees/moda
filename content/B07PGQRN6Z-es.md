@@ -5,7 +5,7 @@ date: 2020-02-03 07:49:01
 image: 'https://m.media-amazon.com/images/I/41Q8o5t+tCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGQRN6Z-es XTI 49285 Botines para Mujer Blanco 39 EU'
 sku: 'B07PGQRN6Z-es'
 tags: [ 'botines', ]

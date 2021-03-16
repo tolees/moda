@@ -5,7 +5,7 @@ date: 2020-01-23 10:09:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51jEKfq8fAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CWSS4WQ-es AmzBarley Princesa Disfraz Traje Vestido Dress Costume...'
 sku: 'B07CWSS4WQ-es'
 tags: [ 'vestido', ]

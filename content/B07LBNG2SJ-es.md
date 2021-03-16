@@ -5,7 +5,7 @@ date: 2020-01-15 23:06:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cSbu0TkyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBNG2SJ-es Helly Hansen Phantom 1/2 Zip 2.0 Ligera Elástico Jersey De...'
 sku: 'B07LBNG2SJ-es'
 tags: [ 'jersey', ]

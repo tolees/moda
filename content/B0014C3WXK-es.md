@@ -5,7 +5,7 @@ date: 2020-09-17 11:00:20
 image: 'https://m.media-amazon.com/images/I/31TNrOAKyNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0014C3WXK-es Crocs Classic Clog Zuecos Unisex Adulto Azul Navy 36/37 EU'
 sku: 'B0014C3WXK-es'
 tags: [ 'zuecos', ]

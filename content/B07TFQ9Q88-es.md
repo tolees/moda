@@ -5,7 +5,7 @@ date: 2020-01-08 11:24:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-ZpNnNVQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFQ9Q88-es Quiksilver Omni Logo Sudadera con Capucha Hombre Blanco...'
 sku: 'B07TFQ9Q88-es'
 tags: [ 'sudadera', ]

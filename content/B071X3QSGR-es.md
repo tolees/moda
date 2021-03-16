@@ -5,7 +5,7 @@ date: 2020-03-03 13:44:15
 image: 'https://m.media-amazon.com/images/I/31MqUU9JEoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071X3QSGR-es Lee Logo tee Camiseta Blanco White Ai12 Small para Hombre'
 sku: 'B071X3QSGR-es'
 tags: [ 'camiseta', ]

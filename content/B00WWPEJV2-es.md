@@ -5,7 +5,7 @@ date: 2020-06-01 10:03:48
 image: 'https://m.media-amazon.com/images/I/418xwqE9pEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WWPEJV2-es Jack & Jones Sense Trunks 3-Pack Bóxer Negro Large Pack de...'
 sku: 'B00WWPEJV2-es'
 tags: [ 'bóxer', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 00:06:24
 image: 'https://m.media-amazon.com/images/I/31we52eo1UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVQMXMM-es Marca Amazon - MERAKI Calzoncillo de Algodón Hombre Pack...'
 sku: 'B07MVQMXMM-es'
 tags: [ 'meraki', ]

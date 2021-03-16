@@ -5,7 +5,7 @@ date: 2020-06-20 18:02:03
 image: 'https://m.media-amazon.com/images/I/41cwmWvjkVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCB8SFF-es Pepe Jeans Hatch Vaqueros Medium Used Wiser Wash Denim 34W...'
 sku: 'B07NCB8SFF-es'
 tags: [ 'vaqueros', ]

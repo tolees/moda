@@ -5,7 +5,7 @@ date: 2020-04-21 19:46:04
 image: 'https://m.media-amazon.com/images/I/41pKazl+AcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNJ7W1W-es Charles Wilson Camiseta Polo de Punto Abultado Large Light...'
 sku: 'B07TNJ7W1W-es'
 tags: [ 'camiseta', ]

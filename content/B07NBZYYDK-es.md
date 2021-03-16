@@ -5,7 +5,7 @@ date: 2020-02-15 14:21:21
 image: 'https://m.media-amazon.com/images/I/41oZDZ8peZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBZYYDK-es AURIQUE Side Stripe Cycling Pantalon Corto Ciclismo Negro...'
 sku: 'B07NBZYYDK-es'
 tags: [ 'aurique', ]

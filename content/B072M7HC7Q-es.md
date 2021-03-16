@@ -5,7 +5,7 @@ date: 2020-03-30 17:29:47
 image: 'https://m.media-amazon.com/images/I/41y4I2KV4gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072M7HC7Q-es JACK & JONES Jjiliam Jjoriginal Am 502 Lid STS Vaqueros...'
 sku: 'B072M7HC7Q-es'
 tags: [ 'vaqueros', ]

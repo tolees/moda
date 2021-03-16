@@ -5,7 +5,7 @@ date: 2020-10-05 17:28:28
 image: 'https://m.media-amazon.com/images/I/41Hsl65JIYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YF91TXS-es Marca Amazon - find. Chaqueta Larga Mujer Gris Silver Grey...'
 sku: 'B07YF91TXS-es'
 tags: [ '-','chaqueta','find.', ]

@@ -5,7 +5,7 @@ date: 2020-06-27 08:38:19
 image: 'https://m.media-amazon.com/images/I/41xoMQPGUzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F16SXKL-es Marca Amazon – Goodthreads – Camisa dobby de manga corta y...'
 sku: 'B07F16SXKL-es'
 tags: [ 'camisa','goodthreads', ]

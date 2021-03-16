@@ -5,7 +5,7 @@ date: 2020-01-21 13:00:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31y9Tr-qTGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYTVLH-es Geox D Avery C Zapatillas para Mujer Negro Black C9999 38 EU'
 sku: 'B07LFYTVLH-es'
 tags: [ 'geox', ]

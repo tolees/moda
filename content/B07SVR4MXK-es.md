@@ -5,7 +5,7 @@ date: 2020-04-28 15:38:32
 image: 'https://m.media-amazon.com/images/I/41tZ9Od7RSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVR4MXK-es Vero Moda Vmstella 3/4 Lace Abk Dress Noos Vestido Negro...'
 sku: 'B07SVR4MXK-es'
 tags: [ 'moda','vestido', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 14:18:30
 image: 'https://m.media-amazon.com/images/I/51pwNM2AnVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010M9WZIS-es Timberland Euro Sprint Hiker Botas para Hombre Amarillo...'
 sku: 'B010M9WZIS-es'
 tags: [ 'timberland', ]

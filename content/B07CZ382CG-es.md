@@ -5,7 +5,7 @@ date: 2020-09-21 19:25:46
 image: 'https://m.media-amazon.com/images/I/31vm-V3PhWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ382CG-es PUMA Leadcat NSK Zapatos de Playa y Piscina Unisex-Adulto...'
 sku: 'B07CZ382CG-es'
 tags: [ 'zapatos', ]

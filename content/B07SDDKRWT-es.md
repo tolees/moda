@@ -5,7 +5,7 @@ date: 2020-09-25 20:25:47
 image: 'https://m.media-amazon.com/images/I/51mQSDJgDmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDDKRWT-es LIGE Relojes de Pulsera para Hombre Impermeable con Fecha...'
 sku: 'B07SDDKRWT-es'
 tags: [ 'moda', ]

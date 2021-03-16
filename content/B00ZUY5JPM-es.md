@@ -5,7 +5,7 @@ date: 2020-08-30 13:04:15
 image: 'https://m.media-amazon.com/images/I/31xx7Q0MgkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZUY5JPM-es Reef Fanning Chanclas para Hombre Marrón Brown / Gum 35 EU'
 sku: 'B00ZUY5JPM-es'
 tags: [ 'chanclas', ]

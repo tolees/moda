@@ -5,7 +5,7 @@ date: 2020-03-28 12:51:24
 image: 'https://m.media-amazon.com/images/I/41Rmn5YR1CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9BM7Q1-es Under Armour Tactical All Season Chaqueta Hombre Verde XXL'
 sku: 'B07L9BM7Q1-es'
 tags: [ 'chaqueta', ]

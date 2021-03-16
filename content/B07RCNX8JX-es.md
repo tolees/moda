@@ -5,7 +5,7 @@ date: 2020-03-06 09:24:36
 image: 'https://m.media-amazon.com/images/I/31IJzlW5jQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCNX8JX-es Columbia Tolt Track Chaqueta Interchange Hombre Azul...'
 sku: 'B07RCNX8JX-es'
 tags: [ 'chaqueta', ]

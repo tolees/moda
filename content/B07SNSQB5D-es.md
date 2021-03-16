@@ -5,7 +5,7 @@ date: 2020-09-27 12:38:30
 image: 'https://m.media-amazon.com/images/I/31a7xshN1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNSQB5D-es Burton Durable Goods Camiseta Hombre True Black S'
 sku: 'B07SNSQB5D-es'
 tags: [ 'camiseta', ]

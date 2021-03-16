@@ -5,7 +5,7 @@ date: 2020-10-03 04:36:58
 image: 'https://m.media-amazon.com/images/I/31rHaEDUilL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y547KLW-es Vans Colorblock tee Camiseta Blanco White/Black XX-Large...'
 sku: 'B06Y547KLW-es'
 tags: [ 'camiseta', ]

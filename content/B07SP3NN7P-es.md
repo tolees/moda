@@ -5,7 +5,7 @@ date: 2020-01-28 17:59:11
 image: 'https://m.media-amazon.com/images/I/51TAHglghUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SP3NN7P-es G-Star Sp15505 Sweat Sudadera Gris China Grey 20 5 años...'
 sku: 'B07SP3NN7P-es'
 tags: [ 'sudadera', ]

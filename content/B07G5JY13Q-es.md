@@ -5,7 +5,7 @@ date: 2020-06-24 20:35:25
 image: 'https://m.media-amazon.com/images/I/31orAsgN7rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5JY13Q-es Marca Amazon - Hem & Seam Camisa Lisa Regular Fit Hombre...'
 sku: 'B07G5JY13Q-es'
 tags: [ 'camisa', ]

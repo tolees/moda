@@ -5,7 +5,7 @@ date: 2020-02-15 17:49:50
 image: 'https://m.media-amazon.com/images/I/31RTQZJWkiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN8WXL1-es Crocs Baya Zuecos Unisex Adulto Azul Pool 36/37 EU'
 sku: 'B07CN8WXL1-es'
 tags: [ 'zuecos', ]

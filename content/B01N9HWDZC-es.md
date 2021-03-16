@@ -5,7 +5,7 @@ date: 2020-01-06 13:13:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418-pvRoZqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9HWDZC-es find. Jersey de Crochet con Hombros al Aire para Mujer...'
 sku: 'B01N9HWDZC-es'
 tags: [ 'jersey', ]

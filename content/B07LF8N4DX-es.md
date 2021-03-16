@@ -5,7 +5,7 @@ date: 2020-04-22 06:58:17
 image: 'https://m.media-amazon.com/images/I/41JWUhj87zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF8N4DX-es Levi s 502 Regular Taper Vaqueros Azul Creeping Thyme ADV...'
 sku: 'B07LF8N4DX-es'
 tags: [ 'vaqueros', ]

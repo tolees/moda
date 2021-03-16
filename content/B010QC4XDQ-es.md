@@ -5,7 +5,7 @@ date: 2020-10-07 07:54:54
 image: 'https://m.media-amazon.com/images/I/31cJ6XsbJ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010QC4XDQ-es ONLY Onlroyal High Waist Skinny Jeans Vaqueros Medium Blue...'
 sku: 'B010QC4XDQ-es'
 tags: [ 'vaqueros', ]

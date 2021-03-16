@@ -5,7 +5,7 @@ date: 2020-02-07 11:46:43
 image: 'https://m.media-amazon.com/images/I/416WG3lsPFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NS7CGF9-es Marco Tozzi 2-2-22416-33 Zapatos de Tacón para Mujer...'
 sku: 'B07NS7CGF9-es'
 tags: [ 'zapatos', ]

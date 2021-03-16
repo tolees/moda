@@ -5,7 +5,7 @@ date: 2020-05-07 13:45:40
 image: 'https://m.media-amazon.com/images/I/31oIpjP6l1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QLVYWX-es Marca Amazon - AURIQUE Leggings con Paneles en Contraste...'
 sku: 'B073QLVYWX-es'
 tags: [ 'aurique', ]

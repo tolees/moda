@@ -5,7 +5,7 @@ date: 2020-01-08 18:13:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-wSNKHKyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMVWM9N-es Lee Shirt Dress Vestido Azul Oil Blue Mo X-Small para Mujer'
 sku: 'B07MMVWM9N-es'
 tags: [ 'vestido', ]

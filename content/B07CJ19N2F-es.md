@@ -5,7 +5,7 @@ date: 2020-01-16 22:00:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pu0UJvDXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJ19N2F-es SIMYJOY Mujere Hip Pop Fans Sudaderas Rapper Llorar Niñas...'
 sku: 'B07CJ19N2F-es'
 tags: [ 'jersey', ]

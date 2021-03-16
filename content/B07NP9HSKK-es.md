@@ -5,7 +5,7 @@ date: 2020-08-08 13:55:37
 image: 'https://m.media-amazon.com/images/I/41phw-vgSyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NP9HSKK-es New Look Ditsy Mesh Ruffle 6172444 Falda Negro Black...'
 sku: 'B07NP9HSKK-es'
 tags: [ 'falda', ]

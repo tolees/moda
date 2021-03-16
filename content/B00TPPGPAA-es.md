@@ -5,7 +5,7 @@ date: 2020-10-07 14:33:30
 image: 'https://m.media-amazon.com/images/I/31i+uD9OsxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TPPGPAA-es Lacoste Sudadera para Hombre Black 31 X-Large Talla del...'
 sku: 'B00TPPGPAA-es'
 tags: [ 'sudadera', ]

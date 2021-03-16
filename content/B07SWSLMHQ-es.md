@@ -5,7 +5,7 @@ date: 2020-09-24 16:16:22
 image: 'https://m.media-amazon.com/images/I/41teLXrJ2aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWSLMHQ-es Geox J Alonisso Boy E Zapatillas para Niños Gris...'
 sku: 'B07SWSLMHQ-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-09-17 11:21:58
 image: 'https://m.media-amazon.com/images/I/4133keWQYcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079M9L9WZ-es Geox J Kiwi Zapatos Para Niño 30'
 sku: 'B079M9L9WZ-es'
 tags: [ 'geox','zapatos', ]

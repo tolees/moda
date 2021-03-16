@@ -5,7 +5,7 @@ date: 2020-08-26 18:03:33
 image: 'https://m.media-amazon.com/images/I/41WnLE485mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLXXNX5-es Springfield 3Ip Offline-c/08 Camiseta Dorado Gold/Mustard...'
 sku: 'B07WLXXNX5-es'
 tags: [ 'camiseta', ]

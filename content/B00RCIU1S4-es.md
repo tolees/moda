@@ -5,7 +5,7 @@ date: 2020-04-03 17:32:18
 image: 'https://m.media-amazon.com/images/I/41XXdBnAkfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RCIU1S4-es Nike Team Club Hoody - Sudadera para hombre Negro/Blanco S'
 sku: 'B00RCIU1S4-es'
 tags: [ 'sudadera', ]

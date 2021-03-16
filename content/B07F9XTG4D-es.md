@@ -5,7 +5,7 @@ date: 2020-03-15 12:58:10
 image: 'https://m.media-amazon.com/images/I/4132XTu1gYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9XTG4D-es Joma Atenas II Sudadera Hombre Melange XL'
 sku: 'B07F9XTG4D-es'
 tags: [ 'sudadera', ]

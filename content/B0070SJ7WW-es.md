@@ -5,7 +5,7 @@ date: 2020-04-14 00:31:45
 image: 'https://m.media-amazon.com/images/I/31M4ksUqbDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0070SJ7WW-es Timberland Stormbucks PT Zapatos de Cordones Oxford para...'
 sku: 'B0070SJ7WW-es'
 tags: [ 'timberland','zapatos', ]

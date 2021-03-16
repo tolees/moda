@@ -5,7 +5,7 @@ date: 2020-01-26 11:11:49
 image: 'https://m.media-amazon.com/images/I/41JMG3diVPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3TFMZK-es Tous Jacalanda Brunock Chain Bolso Bandolera para Mujer...'
 sku: 'B01N3TFMZK-es'
 tags: [ 'bolso', ]

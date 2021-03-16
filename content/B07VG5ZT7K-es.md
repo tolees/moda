@@ -5,7 +5,7 @@ date: 2020-01-20 12:13:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51YvoGp1kGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VG5ZT7K-es Grebarley Guantes de Ciclismo Bicicleta Montaña-Acolchados...'
 sku: 'B07VG5ZT7K-es'
 tags: [ 'guantes', ]

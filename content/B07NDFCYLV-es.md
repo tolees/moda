@@ -5,7 +5,7 @@ date: 2020-05-24 11:32:38
 image: 'https://m.media-amazon.com/images/I/31eqc7bwpoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDFCYLV-es CTAS Platform Layer HI Zapatos Deportivos Mujer Blanco...'
 sku: 'B07NDFCYLV-es'
 tags: [ 'zapatos', ]

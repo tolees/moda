@@ -5,7 +5,7 @@ date: 2020-03-08 08:35:47
 image: 'https://m.media-amazon.com/images/I/41l0bziIdDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FD18WN-es AOWOFS - Abrigo - para Hombre Marrón marrón X-Small'
 sku: 'B079FD18WN-es'
 tags: [ 'abrigo', ]

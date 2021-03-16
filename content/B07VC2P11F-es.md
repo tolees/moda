@@ -5,7 +5,7 @@ date: 2020-08-05 11:38:19
 image: 'https://m.media-amazon.com/images/I/41b0QdmWQTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC2P11F-es BOSS Rash Camisa Blanco White 100 Large para Hombre'
 sku: 'B07VC2P11F-es'
 tags: [ 'camisa', ]

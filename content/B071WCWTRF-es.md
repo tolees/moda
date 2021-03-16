@@ -5,7 +5,7 @@ date: 2020-02-18 06:42:00
 image: 'https://m.media-amazon.com/images/I/31gPfDD8MVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WCWTRF-es Crocs Classic Clog Zuecos Unisex Adulto Verde Grass Green...'
 sku: 'B071WCWTRF-es'
 tags: [ 'zuecos', ]

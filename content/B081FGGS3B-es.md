@@ -5,7 +5,7 @@ date: 2020-06-30 15:17:03
 image: 'https://m.media-amazon.com/images/I/31q7x6tYQFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081FGGS3B-es BILLABONG™ - Bañador de Surf de pantalón - Hombre - S - Azul'
 sku: 'B081FGGS3B-es'
 tags: [ 'pantalón', ]

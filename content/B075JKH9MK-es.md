@@ -5,7 +5,7 @@ date: 2020-03-30 11:23:18
 image: 'https://m.media-amazon.com/images/I/21yAdIzGJFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JKH9MK-es Ray-Ban 0RB3589 Gafas de Sol para Mujer Marrón Gold Top on...'
 sku: 'B075JKH9MK-es'
 tags: [ 'gafas', ]

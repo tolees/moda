@@ -5,7 +5,7 @@ date: 2020-03-27 17:24:03
 image: 'https://m.media-amazon.com/images/I/515yBkOquEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077JKZP41-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
 sku: 'B077JKZP41-es'
 tags: [ 'zapatos', ]

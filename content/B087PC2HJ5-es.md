@@ -5,7 +5,7 @@ date: 2020-05-18 14:01:35
 image: 'https://m.media-amazon.com/images/I/51bD+4xeOsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PC2HJ5-es Suhctup Funda Compatible con Xiaomi Redmi 8 Billetera...'
 sku: 'B087PC2HJ5-es'
 tags: [ 'billetera', ]

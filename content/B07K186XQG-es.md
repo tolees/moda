@@ -5,7 +5,7 @@ date: 2020-10-10 14:32:16
 image: 'https://m.media-amazon.com/images/I/417CKKW7RpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K186XQG-es adidas CAMPEON19 JSY Camiseta de Manga Corta Hombre True...'
 sku: 'B07K186XQG-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-21 13:25:47
 image: 'https://m.media-amazon.com/images/I/31+JhwIO1JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC8VT6D-es JACK & JONES JJESLUB Knit Crew Neck STS Jersey Azul Navy...'
 sku: 'B07MC8VT6D-es'
 tags: [ 'jersey', ]

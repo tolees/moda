@@ -5,7 +5,7 @@ date: 2020-08-06 17:30:44
 image: 'https://m.media-amazon.com/images/I/41Vw8DgM3dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0108VQE7S-es Keen Seacamp II CNX Sandalias de Senderismo Unisex Niños...'
 sku: 'B0108VQE7S-es'
 tags: [ 'sandalias', ]

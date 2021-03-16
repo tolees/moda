@@ -5,7 +5,7 @@ date: 2020-06-23 08:17:45
 image: 'https://m.media-amazon.com/images/I/41boTX4yN5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMQWFC-es Levi s Barstow Western Standard Camisa Negro Archer...'
 sku: 'B07RYMQWFC-es'
 tags: [ 'camisa', ]

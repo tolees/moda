@@ -5,7 +5,7 @@ date: 2020-06-16 12:45:22
 image: 'https://m.media-amazon.com/images/I/213y9D7TkkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EXRUMKS-es Ray-Ban Hexagonal Flat Lenses Gafas de sol Oro Gold 51...'
 sku: 'B01EXRUMKS-es'
 tags: [ 'gafas', ]

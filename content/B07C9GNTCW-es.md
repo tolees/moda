@@ -5,7 +5,7 @@ date: 2020-09-12 10:47:15
 image: 'https://m.media-amazon.com/images/I/511UTGU2EfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C9GNTCW-es Bolso de Paja Crossbody JOSEKO Bolso de Paja para Mujer...'
 sku: 'B07C9GNTCW-es'
 tags: [ 'bolso', ]

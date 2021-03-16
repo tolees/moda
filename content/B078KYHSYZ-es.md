@@ -5,7 +5,7 @@ date: 2020-01-22 12:28:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51TIG5H8o1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KYHSYZ-es SDINAZ Bolsos de Mano Mujer Bolsos Bandolera Moda 6piezas...'
 sku: 'B078KYHSYZ-es'
 tags: [ 'billetera','moda', ]

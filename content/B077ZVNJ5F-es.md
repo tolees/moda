@@ -5,7 +5,7 @@ date: 2020-06-27 15:02:02
 image: 'https://m.media-amazon.com/images/I/41OodpZWdJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZVNJ5F-es Baoblaze 10pcs Tirador de Cremallera Zipper Pulls...'
 sku: 'B077ZVNJ5F-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-11 07:37:54
 image: 'https://m.media-amazon.com/images/I/31GtbqluMDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN4HB1Y-es Crocs Crocband Flip Chanclas Unisex-Adult Grey Light...'
 sku: 'B07CN4HB1Y-es'
 tags: [ 'chanclas', ]

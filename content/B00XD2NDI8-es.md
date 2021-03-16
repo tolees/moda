@@ -5,7 +5,7 @@ date: 2020-05-20 09:03:48
 image: 'https://m.media-amazon.com/images/I/41JGFNs+mPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XD2NDI8-es Pepe Jeans Spike Vaqueros Azul 11oz Streaky Stretch Med...'
 sku: 'B00XD2NDI8-es'
 tags: [ 'vaqueros', ]

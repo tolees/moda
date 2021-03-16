@@ -5,7 +5,7 @@ date: 2020-06-28 17:32:32
 image: 'https://m.media-amazon.com/images/I/31Lmxg59ITL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PJZ4KT-es hummel Hmlauthentic - Pantalón de Entrenamiento para...'
 sku: 'B082PJZ4KT-es'
 tags: [ 'pantalón', ]

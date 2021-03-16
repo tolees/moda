@@ -5,7 +5,7 @@ date: 2020-02-10 12:49:09
 image: 'https://m.media-amazon.com/images/I/31lbqxywlAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VT2D3PZ-es Hawiton Camison Sexy Mujer Corto Camison de Dormir Satín...'
 sku: 'B07VT2D3PZ-es'
 tags: [ 'vestido', ]

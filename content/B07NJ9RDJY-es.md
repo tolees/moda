@@ -5,7 +5,7 @@ date: 2020-05-20 12:32:37
 image: 'https://m.media-amazon.com/images/I/41OkaPTuyiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ9RDJY-es Springfield 1.Ap.Oi19.Tirante Bimater Blusa Multicolor...'
 sku: 'B07NJ9RDJY-es'
 tags: [ 'blusa', ]

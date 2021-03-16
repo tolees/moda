@@ -5,7 +5,7 @@ date: 2020-01-20 16:36:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412yPMRzHsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H1SO2O8-es Nike Flat Front 833194 Pantalón Largo de Golf Hombre...'
 sku: 'B01H1SO2O8-es'
 tags: [ 'pantalón', ]

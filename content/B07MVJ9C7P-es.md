@@ -5,7 +5,7 @@ date: 2020-02-13 18:33:30
 image: 'https://m.media-amazon.com/images/I/51dCBR8x61L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJ9C7P-es Kipling Creativity S Monedero para Mujer Multicolor Music...'
 sku: 'B07MVJ9C7P-es'
 tags: [ 'monedero', ]

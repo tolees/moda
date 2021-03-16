@@ -5,7 +5,7 @@ date: 2020-01-13 19:53:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AMv7TwheL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BBRYS9-es Geographical Norway Parka Mujer DINASTY Negro 02'
 sku: 'B082BBRYS9-es'
 tags: [ 'parka', ]

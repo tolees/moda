@@ -5,7 +5,7 @@ date: 2020-05-13 09:46:17
 image: 'https://m.media-amazon.com/images/I/419CJAXGmsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X69JRQ-es Geox U Walee A Zapatillas para Hombre Beige Sand 39 EU'
 sku: 'B076X69JRQ-es'
 tags: [ 'geox', ]

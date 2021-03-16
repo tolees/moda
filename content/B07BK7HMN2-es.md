@@ -5,7 +5,7 @@ date: 2020-10-07 10:02:30
 image: 'https://m.media-amazon.com/images/I/31MZ5qvOUYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BK7HMN2-es Speedo Futura Biofuse Flexiseal Gafas Natación Infantil...'
 sku: 'B07BK7HMN2-es'
 tags: [ 'gafas', ]

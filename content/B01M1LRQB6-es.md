@@ -5,7 +5,7 @@ date: 2020-04-25 18:48:09
 image: 'https://m.media-amazon.com/images/I/31En4PHLEAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1LRQB6-es El Naturalista N413 PLEASANT BLACK / WAKATAUA Sandalias...'
 sku: 'B01M1LRQB6-es'
 tags: [ 'sandalias', ]

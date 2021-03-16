@@ -5,7 +5,7 @@ date: 2020-06-08 07:05:47
 image: 'https://m.media-amazon.com/images/I/41dAh3uabcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1Y3ZGX-es Dainese Hp1m1 - Chaqueta de esquí para Hombre Invierno...'
 sku: 'B07D1Y3ZGX-es'
 tags: [ 'chaqueta', ]

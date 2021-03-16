@@ -5,7 +5,7 @@ date: 2020-06-07 05:01:17
 image: 'https://m.media-amazon.com/images/I/31JcB5855NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0BA4HQ-es Levi s 511 Slim Fit Jeans Pantalón vaquero con corte...'
 sku: 'B01M0BA4HQ-es'
 tags: [ 'pantalón', ]

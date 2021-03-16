@@ -5,7 +5,7 @@ date: 2020-09-10 07:59:53
 image: 'https://m.media-amazon.com/images/I/41-PMGL8s6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JP5FDSS-es Adidas Tiro 19 Training Track Top Jkt Chaqueta Deportiva...'
 sku: 'B07JP5FDSS-es'
 tags: [ 'chaqueta', ]

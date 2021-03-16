@@ -5,7 +5,7 @@ date: 2020-06-23 14:40:35
 image: 'https://m.media-amazon.com/images/I/41KB5KOHS8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHDNTZR-es G-STAR RAW D-STAQ 3D Slim Vaqueros Faded Quartz B604-A805...'
 sku: 'B07QHDNTZR-es'
 tags: [ 'vaqueros', ]

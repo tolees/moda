@@ -5,7 +5,7 @@ date: 2020-09-27 16:50:52
 image: 'https://m.media-amazon.com/images/I/313PQwTC+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GKYSY-es Clarks Desert London Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1GKYSY-es'
 tags: [ 'zapatos', ]

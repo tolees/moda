@@ -5,7 +5,7 @@ date: 2020-04-23 10:42:18
 image: 'https://m.media-amazon.com/images/I/41I5ew2DE5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQMRC1-es Pepe Jeans Miracle Camiseta Dark Denim 559 X-Small para Mujer'
 sku: 'B07MZQMRC1-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-26 18:28:47
 image: 'https://m.media-amazon.com/images/I/51d5Bg1ntKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2KTT24-es Gifort 53Pcs Ganchillos Crochet Ergonómicos Agujas de...'
 sku: 'B07C2KTT24-es'
 tags: [ 'bolso', ]

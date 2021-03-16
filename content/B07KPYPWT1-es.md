@@ -5,7 +5,7 @@ date: 2020-06-01 06:21:14
 image: 'https://m.media-amazon.com/images/I/31T93Zu+i9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPYPWT1-es Ever-Pretty Vestido de Boda Encaje Gasa Cuello Redondo...'
 sku: 'B07KPYPWT1-es'
 tags: [ 'vestido', ]

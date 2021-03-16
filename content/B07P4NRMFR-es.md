@@ -5,7 +5,7 @@ date: 2020-07-22 05:34:05
 image: 'https://m.media-amazon.com/images/I/311gLHvFUvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4NRMFR-es Art Harlem Botines para Mujer Marrón Cuero Cuero 40 EU'
 sku: 'B07P4NRMFR-es'
 tags: [ 'botines', ]

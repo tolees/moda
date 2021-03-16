@@ -5,7 +5,7 @@ date: 2020-02-22 20:20:00
 image: 'https://m.media-amazon.com/images/I/51qwseBkq3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ9XZPW-es Honghu Verano Sexy Mangas Corta Low Culleo Slim Fit...'
 sku: 'B07DJ9XZPW-es'
 tags: [ 'vestido', ]

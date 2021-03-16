@@ -5,7 +5,7 @@ date: 2020-08-30 19:49:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wvrXnxciL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSH9K2L-es Bolsa para Mascotas Pequeño Animal doméstico Gato Perro...'
 sku: 'B07KSH9K2L-es'
 tags: [ 'bolso', ]

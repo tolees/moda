@@ -5,7 +5,7 @@ date: 2020-04-22 18:46:04
 image: 'https://m.media-amazon.com/images/I/31r33++rP+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KR3KVL-es Sudadera con Capucha de Gran tamaño la Original Sherpa con...'
 sku: 'B082KR3KVL-es'
 tags: [ 'sudadera', ]

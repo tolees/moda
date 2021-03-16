@@ -5,7 +5,7 @@ date: 2020-08-02 17:16:12
 image: 'https://m.media-amazon.com/images/I/31QgztrVtSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPYPWYL-es Clarks Un Bali Trek Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TPYPWYL-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 18:07:40
 image: 'https://m.media-amazon.com/images/I/41IRmJ0nCHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07598DJVP-es Skechers Reggae-Zig Swag 48228 Chanclas para Mujer Azul...'
 sku: 'B07598DJVP-es'
 tags: [ 'chanclas', ]

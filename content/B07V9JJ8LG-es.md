@@ -5,7 +5,7 @@ date: 2020-09-30 09:27:57
 image: 'https://m.media-amazon.com/images/I/51h46g5TO3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9JJ8LG-es Calvin Klein Washed Stripe Stretch Shirt f Camisa Azul...'
 sku: 'B07V9JJ8LG-es'
 tags: [ 'camisa', ]

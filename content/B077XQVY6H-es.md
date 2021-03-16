@@ -5,7 +5,7 @@ date: 2020-08-25 11:21:33
 image: 'https://m.media-amazon.com/images/I/41eJB3ttPyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XQVY6H-es Under Armour Rival Fleece Crew Sudadera Hombre Azul XL'
 sku: 'B077XQVY6H-es'
 tags: [ 'sudadera', ]

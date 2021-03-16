@@ -5,7 +5,7 @@ date: 2020-08-12 08:03:59
 image: 'https://m.media-amazon.com/images/I/51bMhaZrLnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0773FTS9Z-es KONXIDO Reloj para Hombre Elegante Pantalla Analógica con...'
 sku: 'B0773FTS9Z-es'
 tags: [ 'moda', ]

@@ -5,7 +5,7 @@ date: 2020-02-23 09:47:17
 image: 'https://m.media-amazon.com/images/I/41TcSuNnp0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFV56Z9-es Geox D Felicity G Botines para Mujer Gris Chestnut C6004...'
 sku: 'B07LFV56Z9-es'
 tags: [ 'botines','geox', ]

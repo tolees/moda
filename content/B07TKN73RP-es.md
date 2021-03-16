@@ -5,7 +5,7 @@ date: 2020-08-10 06:27:47
 image: 'https://m.media-amazon.com/images/I/41MYYf7MZqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKN73RP-es Clarks Maritsa95 Glad Sandalias de Talón Abierto para...'
 sku: 'B07TKN73RP-es'
 tags: [ 'sandalias', ]

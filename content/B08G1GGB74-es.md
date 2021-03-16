@@ -5,7 +5,7 @@ date: 2020-10-09 12:14:58
 image: 'https://m.media-amazon.com/images/I/418Kw5hBGqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G1GGB74-es Ocobudbxw Bolso de Hombro Tipo Cubo para Mujer Bandolera...'
 sku: 'B08G1GGB74-es'
 tags: [ 'bolso', ]

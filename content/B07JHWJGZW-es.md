@@ -5,7 +5,7 @@ date: 2020-03-06 15:15:35
 image: 'https://m.media-amazon.com/images/I/41PNw551F8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHWJGZW-es PUMA ftblNXT Shirt Camiseta Hombre Azul Bleu Azur/Red...'
 sku: 'B07JHWJGZW-es'
 tags: [ 'camiseta', ]

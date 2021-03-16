@@ -5,7 +5,7 @@ date: 2020-06-23 07:24:22
 image: 'https://m.media-amazon.com/images/I/31JIbi02keL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GZOGDBU-es Joma Suez Pantalón Hombre Azul Marino S'
 sku: 'B00GZOGDBU-es'
 tags: [ 'pantalón', ]

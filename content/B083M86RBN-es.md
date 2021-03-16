@@ -5,7 +5,7 @@ date: 2020-05-20 12:04:43
 image: 'https://m.media-amazon.com/images/I/41wBdE1tDdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083M86RBN-es LuckyGirls Chic Sandalias Mujer Verano 2020 Fiesta Planas...'
 sku: 'B083M86RBN-es'
 tags: [ 'chanclas','sandalias','zapatos', ]

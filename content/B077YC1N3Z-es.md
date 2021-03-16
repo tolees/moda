@@ -5,7 +5,7 @@ date: 2020-05-01 08:53:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415JSNVOyQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YC1N3Z-es HIKARO Sudadera Hombre Azul Navy 48 Talla del fabricante:...'
 sku: 'B077YC1N3Z-es'
 tags: [ 'sudadera', ]

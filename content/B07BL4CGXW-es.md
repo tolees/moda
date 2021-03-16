@@ -5,7 +5,7 @@ date: 2020-02-29 19:42:23
 image: 'https://m.media-amazon.com/images/I/41bb5i2F5VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL4CGXW-es FANTAZIA - Pantalón Corto - Pierna Ancha - para Mujer...'
 sku: 'B07BL4CGXW-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-03-15 09:58:28
 image: 'https://m.media-amazon.com/images/I/31IH1n8yu+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JLK69-es Clarks Un Damson Mid Botines para Mujer Marrón Brown...'
 sku: 'B07N1JLK69-es'
 tags: [ 'botines', ]

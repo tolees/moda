@@ -5,7 +5,7 @@ date: 2020-09-16 08:46:48
 image: 'https://m.media-amazon.com/images/I/41Ar82vQmcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC8F1W8-es Columbia Marquam Peak Chaqueta de invierno Hombre Azul...'
 sku: 'B07RC8F1W8-es'
 tags: [ 'chaqueta', ]

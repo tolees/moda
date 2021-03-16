@@ -5,7 +5,7 @@ date: 2020-05-14 07:02:13
 image: 'https://m.media-amazon.com/images/I/51eMGtTrTJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNQB58C-es PINPOXE Guantes Esquí Guantes de Invierno Pantalla Táctil...'
 sku: 'B07WNQB58C-es'
 tags: [ 'guantes', ]

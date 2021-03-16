@@ -5,7 +5,7 @@ date: 2020-03-16 12:40:51
 image: 'https://m.media-amazon.com/images/I/41CR6aCchCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P22T5KR-es Dickies Manitou Chaqueta Verde Small Talla del Fabricante:...'
 sku: 'B07P22T5KR-es'
 tags: [ 'chaqueta', ]

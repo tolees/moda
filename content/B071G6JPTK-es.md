@@ -5,7 +5,7 @@ date: 2020-04-16 15:48:28
 image: 'https://m.media-amazon.com/images/I/41s988uceOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071G6JPTK-es Tommy Hilfiger Hampton Down Parka Abrigo Azul Sky Captain...'
 sku: 'B071G6JPTK-es'
 tags: [ 'abrigo','parka', ]

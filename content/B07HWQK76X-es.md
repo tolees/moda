@@ -5,7 +5,7 @@ date: 2020-03-29 20:31:23
 image: 'https://m.media-amazon.com/images/I/31G4F7BjBlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HWQK76X-es Lacoste Ch9623 Camisa Azul Noir Phoenix/Lagon Nsv Medium...'
 sku: 'B07HWQK76X-es'
 tags: [ 'camisa', ]

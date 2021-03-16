@@ -5,7 +5,7 @@ date: 2020-07-10 10:46:05
 image: 'https://m.media-amazon.com/images/I/41Aa+ECig0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSFC99C-es Wrangler Bryson Vaqueros Skinny Azul Light Glory 030 32W /...'
 sku: 'B07TSFC99C-es'
 tags: [ 'vaqueros', ]

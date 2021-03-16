@@ -5,7 +5,7 @@ date: 2020-04-18 11:29:41
 image: 'https://m.media-amazon.com/images/I/41pT1ZnfJmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDB1WKT-es bugatti 321793513200 - Botines de Cuero Hombre Color...'
 sku: 'B07NDB1WKT-es'
 tags: [ 'botines', ]

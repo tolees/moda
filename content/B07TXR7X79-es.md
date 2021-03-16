@@ -5,7 +5,7 @@ date: 2020-03-14 19:19:04
 image: 'https://m.media-amazon.com/images/I/41MrTPZOZcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXR7X79-es Wrangler Icons Vaqueros Blue 3 Years 10K 30W / 34L para...'
 sku: 'B07TXR7X79-es'
 tags: [ 'vaqueros', ]

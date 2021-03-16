@@ -5,7 +5,7 @@ date: 2020-06-06 19:02:33
 image: 'https://m.media-amazon.com/images/I/31J4wsZ130L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J28E3EA-es Joma Combi Camiseta Manga Corta Hombre Rojo L'
 sku: 'B00J28E3EA-es'
 tags: [ 'camiseta', ]

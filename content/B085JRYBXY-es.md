@@ -5,7 +5,7 @@ date: 2020-10-09 03:35:04
 image: 'https://m.media-amazon.com/images/I/31iVhOT0MTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085JRYBXY-es Skevic Gafas de Sol Hombre Mujer Polarizadas TR90 - Gafas...'
 sku: 'B085JRYBXY-es'
 tags: [ 'gafas', ]

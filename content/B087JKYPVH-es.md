@@ -5,7 +5,7 @@ date: 2020-04-27 12:06:52
 image: 'https://m.media-amazon.com/images/I/41R3HmXtRnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JKYPVH-es Sucreven Mujer Elegante Tacón Alto Pump Punta Redonda...'
 sku: 'B087JKYPVH-es'
 tags: [ 'vestido','zapatos', ]

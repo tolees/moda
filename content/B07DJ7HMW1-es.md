@@ -5,7 +5,7 @@ date: 2020-04-18 11:32:17
 image: 'https://m.media-amazon.com/images/I/31abBL0nOmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ7HMW1-es Geox D Bibbiana a Zapatos de Tacón para Mujer Beige Cream...'
 sku: 'B07DJ7HMW1-es'
 tags: [ 'geox','zapatos', ]

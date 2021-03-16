@@ -5,7 +5,7 @@ date: 2020-09-30 10:29:20
 image: 'https://m.media-amazon.com/images/I/41qbA8agIKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S72JGHY-es Geschallino Chaqueta con Capucha de Suave Piel Falsa para...'
 sku: 'B07S72JGHY-es'
 tags: [ 'chaqueta', ]

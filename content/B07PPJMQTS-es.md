@@ -5,7 +5,7 @@ date: 2020-05-01 19:57:17
 image: 'https://m.media-amazon.com/images/I/31eHjgDp9cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPJMQTS-es El Ganso 1 Camisa casual Blanco Blanco 0003 XX-Large para...'
 sku: 'B07PPJMQTS-es'
 tags: [ 'camisa', ]

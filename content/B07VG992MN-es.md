@@ -5,7 +5,7 @@ date: 2020-07-30 07:08:19
 image: 'https://m.media-amazon.com/images/I/41P5bMj18aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VG992MN-es Hackett London Amr Wings tee Camiseta Naranja 158flame...'
 sku: 'B07VG992MN-es'
 tags: [ 'camiseta', ]

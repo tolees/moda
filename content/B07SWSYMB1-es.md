@@ -5,7 +5,7 @@ date: 2020-09-23 11:56:15
 image: 'https://m.media-amazon.com/images/I/41-GasrB97L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWSYMB1-es Geox UOMO Snake E Zapatillas para Hombre Azul Avio/Lt Grey...'
 sku: 'B07SWSYMB1-es'
 tags: [ 'geox', ]

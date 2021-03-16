@@ -5,7 +5,7 @@ date: 2020-02-02 21:36:45
 image: 'https://m.media-amazon.com/images/I/41Z7c34z7IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2TG1DP-es TTYAOVO Chicas Unicornio Fancy Vestido Princesa Flor...'
 sku: 'B07Q2TG1DP-es'
 tags: [ 'vestido', ]

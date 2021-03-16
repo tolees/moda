@@ -5,7 +5,7 @@ date: 2020-06-23 09:38:44
 image: 'https://m.media-amazon.com/images/I/414b4C5c9oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074H3HYQH-es Marca Amazon - find. Blusa de Rayas con Lazada para Mujer...'
 sku: 'B074H3HYQH-es'
 tags: [ '-','blusa','find.', ]

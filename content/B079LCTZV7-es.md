@@ -5,7 +5,7 @@ date: 2020-01-03 18:25:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31p2BpSsXmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LCTZV7-es Lacoste TH6709 Camiseta para Hombre Azul Bleu 001 5XL...'
 sku: 'B079LCTZV7-es'
 tags: [ 'camiseta', ]

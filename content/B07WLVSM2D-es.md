@@ -5,7 +5,7 @@ date: 2020-08-20 19:25:03
 image: 'https://m.media-amazon.com/images/I/41vXtc7EtYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLVSM2D-es Bolso Redondo de la Paja Mujeres Funda Grandes Flores...'
 sku: 'B07WLVSM2D-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-01-01 16:05:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q1An6Oy8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC7MN3H-es Pepe Jeans Stanley Vaqueros Straight Azul Medium Destroy...'
 sku: 'B07NC7MN3H-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-07-07 11:46:42
 image: 'https://m.media-amazon.com/images/I/41xKBfRa7dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZR9CGR-es Summer Baby Kids Cómodo y suave mono corto de manga corta...'
 sku: 'B08BZR9CGR-es'
 tags: [ 'camiseta', ]

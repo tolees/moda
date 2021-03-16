@@ -5,7 +5,7 @@ date: 2020-04-12 17:16:35
 image: 'https://m.media-amazon.com/images/I/41AAyjx6AmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWFT918-es Charles Wilson Originals Sudadera con Capucha X-Small Port...'
 sku: 'B07WWFT918-es'
 tags: [ 'sudadera', ]

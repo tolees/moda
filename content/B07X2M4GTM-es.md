@@ -5,7 +5,7 @@ date: 2020-08-17 20:23:24
 image: 'https://m.media-amazon.com/images/I/41MnTKz36xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2M4GTM-es Dickies Sacramento Relaxed Long Sleeve Shirt Camisa Rojo...'
 sku: 'B07X2M4GTM-es'
 tags: [ 'camisa', ]

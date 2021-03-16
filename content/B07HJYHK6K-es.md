@@ -5,7 +5,7 @@ date: 2020-05-03 19:15:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KtOkD1bbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJYHK6K-es Under Armour Grade School Jet 2019 Zapatos de Baloncesto...'
 sku: 'B07HJYHK6K-es'
 tags: [ 'zapatos', ]

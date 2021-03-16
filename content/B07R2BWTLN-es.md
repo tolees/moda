@@ -5,7 +5,7 @@ date: 2020-03-02 19:17:41
 image: 'https://m.media-amazon.com/images/I/41AVc7F-SqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2BWTLN-es Wrangler LS 1pkt Bdown Shirt Camisa Azul Dress Blue X20...'
 sku: 'B07R2BWTLN-es'
 tags: [ 'camisa', ]

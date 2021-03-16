@@ -5,7 +5,7 @@ date: 2020-04-15 11:15:52
 image: 'https://m.media-amazon.com/images/I/41i3jDqDelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL6TXB-es G-STAR RAW 3301 Boyfriend Denim Chaqueta Rosa Dk Tea Rose...'
 sku: 'B07NDL6TXB-es'
 tags: [ 'chaqueta', ]

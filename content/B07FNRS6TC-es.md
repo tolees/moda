@@ -5,7 +5,7 @@ date: 2020-02-01 14:14:55
 image: 'https://m.media-amazon.com/images/I/41wZKOyFk5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNRS6TC-es The North Face W TBL Sport HD Sudadera Deportiva con...'
 sku: 'B07FNRS6TC-es'
 tags: [ 'sudadera', ]

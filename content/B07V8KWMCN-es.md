@@ -5,7 +5,7 @@ date: 2020-09-10 19:59:30
 image: 'https://m.media-amazon.com/images/I/31QH+tDBg-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8KWMCN-es Calvin Klein Center Monogram Box Slim tee Camiseta Blanco...'
 sku: 'B07V8KWMCN-es'
 tags: [ 'camiseta', ]

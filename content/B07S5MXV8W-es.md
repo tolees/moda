@@ -5,7 +5,7 @@ date: 2020-06-18 10:21:25
 image: 'https://m.media-amazon.com/images/I/31lYbPAijSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5MXV8W-es Columbia Youth TECHSUN Vent Sandalias para Niños Gris...'
 sku: 'B07S5MXV8W-es'
 tags: [ 'sandalias', ]

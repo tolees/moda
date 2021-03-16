@@ -5,7 +5,7 @@ date: 2020-07-28 13:50:52
 image: 'https://m.media-amazon.com/images/I/31FEgkB31hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2F22WB-es Deess IPL GP586 - Depiladora a base de luz para una piel...'
 sku: 'B07F2F22WB-es'
 tags: [ 'gafas', ]

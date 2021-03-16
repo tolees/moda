@@ -5,7 +5,7 @@ date: 2020-03-03 05:50:02
 image: 'https://m.media-amazon.com/images/I/41Fr8KvF+sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KYV34Z8-es Helly Hansen Jacke W Loke Chaqueta Deportiva para Mujer...'
 sku: 'B00KYV34Z8-es'
 tags: [ 'chaqueta', ]

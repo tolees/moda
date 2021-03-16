@@ -5,7 +5,7 @@ date: 2020-04-08 17:18:03
 image: 'https://m.media-amazon.com/images/I/51lw9L5yIcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JNRTY-es Clarks Linvale Sea Zapatos con Tira de Tobillo para Mujer...'
 sku: 'B07N1JNRTY-es'
 tags: [ 'zapatos', ]

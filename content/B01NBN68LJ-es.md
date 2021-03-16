@@ -5,7 +5,7 @@ date: 2020-05-02 12:28:10
 image: 'https://m.media-amazon.com/images/I/41UW2SOQjYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBN68LJ-es find. BAY001018W170205 vaqueros mujer Azul W30/L32 Talla...'
 sku: 'B01NBN68LJ-es'
 tags: [ 'vaqueros', ]

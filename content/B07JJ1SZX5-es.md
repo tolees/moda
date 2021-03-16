@@ -5,7 +5,7 @@ date: 2020-04-14 18:38:37
 image: 'https://m.media-amazon.com/images/I/41oy5gKia0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ1SZX5-es Armani Exchange 9 5 Ounces Stretch Mid Wash Vaqueros...'
 sku: 'B07JJ1SZX5-es'
 tags: [ 'vaqueros', ]

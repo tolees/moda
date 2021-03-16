@@ -5,7 +5,7 @@ date: 2020-07-13 11:10:34
 image: 'https://m.media-amazon.com/images/I/21fG5T74X7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PN68CN1-es Funda billetera Samsung para Samsung Galaxy A70 Funda...'
 sku: 'B07PN68CN1-es'
 tags: [ 'billetera', ]

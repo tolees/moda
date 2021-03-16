@@ -5,7 +5,7 @@ date: 2020-05-20 07:48:14
 image: 'https://m.media-amazon.com/images/I/41zGEEhwggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005L8V1CC-es Duronic SCK102 Spray Limpiador x2 de 200ml para Pantallas...'
 sku: 'B005L8V1CC-es'
 tags: [ 'gafas', ]

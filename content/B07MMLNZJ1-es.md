@@ -5,7 +5,7 @@ date: 2020-02-15 19:57:41
 image: 'https://m.media-amazon.com/images/I/41FV3PUodqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLNZJ1-es Napapijri SOVES Camiseta Azul French Blue BB7 XL para Hombre'
 sku: 'B07MMLNZJ1-es'
 tags: [ 'camiseta', ]

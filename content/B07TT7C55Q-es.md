@@ -5,7 +5,7 @@ date: 2020-07-04 18:39:44
 image: 'https://m.media-amazon.com/images/I/418ouMMXCVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT7C55Q-es Clarks Surfing Tide T Sandalias Punta Cerrada para Niñas...'
 sku: 'B07TT7C55Q-es'
 tags: [ 'sandalias', ]

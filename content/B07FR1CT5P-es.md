@@ -5,7 +5,7 @@ date: 2020-07-27 15:02:45
 image: 'https://m.media-amazon.com/images/I/41joCRyrrGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR1CT5P-es Clarks Step Beat Sun Sandalias Punta Abierta para Hombre...'
 sku: 'B07FR1CT5P-es'
 tags: [ 'sandalias', ]

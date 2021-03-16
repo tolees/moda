@@ -5,7 +5,7 @@ date: 2020-10-03 08:19:55
 image: 'https://m.media-amazon.com/images/I/31xbNUWCEnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9JNKSG-es Under Armour Challenger III Jacket chaqueta de hombre para...'
 sku: 'B07L9JNKSG-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-22 19:06:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21yrekYR2SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH9FCYQ-es G-STAR RAW 3301 Mid Waist Boyfriend Colored Vaqueros Azul...'
 sku: 'B07JH9FCYQ-es'
 tags: [ 'vaqueros', ]

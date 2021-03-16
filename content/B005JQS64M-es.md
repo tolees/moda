@@ -5,7 +5,7 @@ date: 2020-06-02 14:18:03
 image: 'https://m.media-amazon.com/images/I/413RQtbnJgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005JQS64M-es Timberland Nellie Double Zapatillas Chukka Mujer Amarillo...'
 sku: 'B005JQS64M-es'
 tags: [ 'timberland', ]

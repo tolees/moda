@@ -5,7 +5,7 @@ date: 2020-03-27 13:20:32
 image: 'https://m.media-amazon.com/images/I/31H7xamKq2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QR6KWF-es Under Armour UA Streaker 2.0 Half Zip Cremallera Media...'
 sku: 'B081QR6KWF-es'
 tags: [ 'sudadera', ]

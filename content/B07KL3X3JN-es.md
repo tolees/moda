@@ -5,7 +5,7 @@ date: 2020-06-21 10:20:27
 image: 'https://m.media-amazon.com/images/I/41R61O5WVgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL3X3JN-es adidas Mh Plain Camiseta Polo Hombre Medium Grey Heather S'
 sku: 'B07KL3X3JN-es'
 tags: [ 'camiseta', ]

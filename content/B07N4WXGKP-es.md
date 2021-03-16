@@ -5,7 +5,7 @@ date: 2020-03-17 08:44:14
 image: 'https://m.media-amazon.com/images/I/41PLbMl-knL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4WXGKP-es Tommy Hilfiger Tjw Essential Americana tee Camiseta Blue...'
 sku: 'B07N4WXGKP-es'
 tags: [ 'camiseta', ]

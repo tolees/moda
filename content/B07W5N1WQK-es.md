@@ -5,7 +5,7 @@ date: 2020-08-24 09:39:34
 image: 'https://m.media-amazon.com/images/I/419W-QhT9RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5N1WQK-es Tommy Hilfiger Basic Embroidered Hoody Sudadera Azul...'
 sku: 'B07W5N1WQK-es'
 tags: [ 'sudadera', ]

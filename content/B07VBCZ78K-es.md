@@ -5,7 +5,7 @@ date: 2020-09-18 18:49:52
 image: 'https://m.media-amazon.com/images/I/51vCi+XyDjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBCZ78K-es Desigual Fal Norah Falda Azul Marino 5001 Medium para Mujer'
 sku: 'B07VBCZ78K-es'
 tags: [ 'falda', ]

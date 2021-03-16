@@ -5,7 +5,7 @@ date: 2020-05-03 23:44:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xl5hTLGbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9HW9XE-es find. Camisa Entallada Óxford Estampada de Corte Entallado...'
 sku: 'B01N9HW9XE-es'
 tags: [ 'camisa', ]

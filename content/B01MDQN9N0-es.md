@@ -5,7 +5,7 @@ date: 2020-05-11 04:28:37
 image: 'https://m.media-amazon.com/images/I/41xB2ipjmqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDQN9N0-es Geox U WALEE A Zapatillas para Hombre Azul Navy c4002 40 EU'
 sku: 'B01MDQN9N0-es'
 tags: [ 'geox', ]

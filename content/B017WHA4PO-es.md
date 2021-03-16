@@ -5,7 +5,7 @@ date: 2020-07-24 12:40:43
 image: 'https://m.media-amazon.com/images/I/41Iw0QDqKUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017WHA4PO-es Columbia Flashback Chaqueta cortavientos Hombre Negro Black S'
 sku: 'B017WHA4PO-es'
 tags: [ 'chaqueta', ]

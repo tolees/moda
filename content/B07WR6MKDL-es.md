@@ -5,7 +5,7 @@ date: 2020-05-21 15:04:07
 image: 'https://m.media-amazon.com/images/I/511u2ZTt2JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WR6MKDL-es Cómodo Zapatos para Correr Deportes en Montaña Asfalto...'
 sku: 'B07WR6MKDL-es'
 tags: [ 'zapatos', ]

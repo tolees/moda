@@ -5,7 +5,7 @@ date: 2020-03-08 15:02:19
 image: 'https://m.media-amazon.com/images/I/41q3qE5cvnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NB12JD-es Trangoworld Awear Chaqueta Mujer Negro/Verde Ácido L'
 sku: 'B075NB12JD-es'
 tags: [ 'chaqueta', ]

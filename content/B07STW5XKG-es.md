@@ -5,7 +5,7 @@ date: 2020-06-28 22:47:51
 image: 'https://m.media-amazon.com/images/I/31UPVjxh8AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STW5XKG-es Quiksilver Monkey Caged Sandalias de Talón Abierto para...'
 sku: 'B07STW5XKG-es'
 tags: [ 'sandalias', ]

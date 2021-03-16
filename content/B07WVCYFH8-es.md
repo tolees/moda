@@ -5,7 +5,7 @@ date: 2020-01-21 13:33:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PIElAQHqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVCYFH8-es Charles Wilson Originals Sudadera con Capucha XXX-Large...'
 sku: 'B07WVCYFH8-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-05-18 10:59:58
 image: 'https://m.media-amazon.com/images/I/41CM63UqFHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBGLGFQ-es Marca Amazon - find. Vestido Estampado con Cinturón...'
 sku: 'B07PBGLGFQ-es'
 tags: [ '-','find.','vestido', ]

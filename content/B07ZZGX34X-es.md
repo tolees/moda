@@ -5,7 +5,7 @@ date: 2020-01-21 08:59:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yrERdMSbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZZGX34X-es Charles Wilson Jersey de Punto Fino de Algodón Cuello Pico...'
 sku: 'B07ZZGX34X-es'
 tags: [ 'jersey', ]

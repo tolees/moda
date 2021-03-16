@@ -5,7 +5,7 @@ date: 2020-04-27 03:40:54
 image: 'https://m.media-amazon.com/images/I/41iaE6cAVXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQG47S1-es The North Face Sport Jacket Chaqueta Deportiva Thermoball...'
 sku: 'B07FQG47S1-es'
 tags: [ 'chaqueta', ]

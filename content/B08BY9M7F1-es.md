@@ -5,7 +5,7 @@ date: 2020-07-21 17:14:01
 image: 'https://m.media-amazon.com/images/I/41LWewOewSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BY9M7F1-es AMZTM Zapatos de Agua Niño Chicos Tiburón Zapatillas...'
 sku: 'B08BY9M7F1-es'
 tags: [ 'zapatos', ]

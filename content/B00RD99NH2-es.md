@@ -5,7 +5,7 @@ date: 2020-04-03 18:44:23
 image: 'https://m.media-amazon.com/images/I/31i4YgxfGBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RD99NH2-es crocs Crocband U Zuecos Unisex Adulto Rosa Pearl Pink-Wild...'
 sku: 'B00RD99NH2-es'
 tags: [ 'zuecos', ]

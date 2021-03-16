@@ -5,7 +5,7 @@ date: 2020-05-16 14:42:50
 image: 'https://m.media-amazon.com/images/I/31y8wWgeobL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y5WNL4K-es G-STAR RAW Base V T S/s 2-Pack Camiseta Negro Black 990...'
 sku: 'B06Y5WNL4K-es'
 tags: [ 'camiseta', ]

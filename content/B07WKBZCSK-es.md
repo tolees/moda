@@ -5,7 +5,7 @@ date: 2020-05-14 11:32:59
 image: 'https://m.media-amazon.com/images/I/21AfO3jBsXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKBZCSK-es UNISA Loreal Zapatos de tacón Mujeres Rojo - 38 - Zapatos...'
 sku: 'B07WKBZCSK-es'
 tags: [ 'zapatos', ]

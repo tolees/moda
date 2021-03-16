@@ -5,7 +5,7 @@ date: 2020-04-25 12:08:15
 image: 'https://m.media-amazon.com/images/I/413y-xTCAHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGHD66N-es BLEND Jet Vaqueros Slim Azul Denim Middle Blue 76201...'
 sku: 'B07VGHD66N-es'
 tags: [ 'vaqueros', ]

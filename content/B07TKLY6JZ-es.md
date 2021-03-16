@@ -5,7 +5,7 @@ date: 2020-09-30 10:09:52
 image: 'https://m.media-amazon.com/images/I/31gKDPBWVnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKLY6JZ-es HAWKERS - Gafas de sol para mujer BUTERFLY Carey'
 sku: 'B07TKLY6JZ-es'
 tags: [ 'gafas', ]

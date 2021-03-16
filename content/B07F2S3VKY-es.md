@@ -5,7 +5,7 @@ date: 2020-09-07 13:09:42
 image: 'https://m.media-amazon.com/images/I/41bRys7P4mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2S3VKY-es Helly Hansen Crew Jacket Chaqueta Hombre Cherry Tomato XXL'
 sku: 'B07F2S3VKY-es'
 tags: [ 'chaqueta', ]

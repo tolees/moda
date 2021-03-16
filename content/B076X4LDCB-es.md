@@ -5,7 +5,7 @@ date: 2020-08-28 17:39:10
 image: 'https://m.media-amazon.com/images/I/41dZDiQraRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X4LDCB-es Geox U Wells C Zapatillas para Hombre Azul Dark Navy 40 EU'
 sku: 'B076X4LDCB-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 18:07:01
 image: 'https://m.media-amazon.com/images/I/41QmphUM7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCJHL7V-es G-STAR RAW 3301 Slim Vaqueros Antic Faded Ripped Marine...'
 sku: 'B07RCJHL7V-es'
 tags: [ 'vaqueros', ]

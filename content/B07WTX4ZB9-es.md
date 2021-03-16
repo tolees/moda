@@ -5,7 +5,7 @@ date: 2020-05-10 10:22:32
 image: 'https://m.media-amazon.com/images/I/41TsNxEYfZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTX4ZB9-es Charles Wilson Original Sudadera de Hombre Algodón Premium...'
 sku: 'B07WTX4ZB9-es'
 tags: [ 'sudadera', ]

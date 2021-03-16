@@ -5,7 +5,7 @@ date: 2020-09-06 19:09:27
 image: 'https://m.media-amazon.com/images/I/41U20fEGeAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLY86CM-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva Verde Green...'
 sku: 'B07RLY86CM-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 23:41:58
 image: 'https://m.media-amazon.com/images/I/4181BR9AsLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWV1N7Z-es Geox D NYDAME E Zapatillas para Mujer Beige Sand C5004 38 EU'
 sku: 'B07SWV1N7Z-es'
 tags: [ 'geox', ]

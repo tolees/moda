@@ -5,7 +5,7 @@ date: 2020-06-13 22:31:28
 image: 'https://m.media-amazon.com/images/I/41mOM67fVGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4HXW4D-es Superdry Resurrection L/s Shirt Camisa Azul Durango Mid...'
 sku: 'B07P4HXW4D-es'
 tags: [ 'camisa', ]

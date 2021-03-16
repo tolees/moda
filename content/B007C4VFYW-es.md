@@ -5,7 +5,7 @@ date: 2020-09-26 19:28:03
 image: 'https://m.media-amazon.com/images/I/41qsybJGbGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007C4VFYW-es Levi s 501 Original Fit Jeans Vaqueros Azul Marlon 42W /...'
 sku: 'B007C4VFYW-es'
 tags: [ 'vaqueros', ]

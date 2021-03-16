@@ -5,7 +5,7 @@ date: 2020-04-07 21:51:55
 image: 'https://m.media-amazon.com/images/I/51PFlLDFD0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHGFKQ5-es AngLink Guantes Barbacoa Resistentes Al Calor Extremo...'
 sku: 'B07DHGFKQ5-es'
 tags: [ 'guantes', ]

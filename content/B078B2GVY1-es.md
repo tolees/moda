@@ -5,7 +5,7 @@ date: 2020-05-13 02:39:59
 image: 'https://m.media-amazon.com/images/I/31Ui5E4FTuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078B2GVY1-es Under Armour Team Issue Camiseta para Hombre con Logotipo...'
 sku: 'B078B2GVY1-es'
 tags: [ 'camiseta', ]

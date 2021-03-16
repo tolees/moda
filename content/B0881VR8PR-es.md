@@ -5,7 +5,7 @@ date: 2020-08-28 17:12:02
 image: 'https://m.media-amazon.com/images/I/51f5Dri6lzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0881VR8PR-es WeciBor Calcetines cortos Mujer Estampados Mujer...'
 sku: 'B0881VR8PR-es'
 tags: [ 'moda', ]

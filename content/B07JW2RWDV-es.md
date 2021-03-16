@@ -5,7 +5,7 @@ date: 2020-09-03 21:59:41
 image: 'https://m.media-amazon.com/images/I/41OhbBjZV9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JW2RWDV-es Timberland Perkins Row 2-Strap Toddler Sandalias de Punta...'
 sku: 'B07JW2RWDV-es'
 tags: [ 'sandalias','timberland', ]

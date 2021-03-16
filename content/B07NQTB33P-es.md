@@ -5,7 +5,7 @@ date: 2020-01-25 16:48:31
 image: 'https://m.media-amazon.com/images/I/416LVy0A+1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQTB33P-es Springfield 7Ba Jacquard Posicionado Jersey Azul Blue 11...'
 sku: 'B07NQTB33P-es'
 tags: [ 'jersey', ]

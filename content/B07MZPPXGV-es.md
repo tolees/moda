@@ -5,7 +5,7 @@ date: 2020-03-26 20:44:03
 image: 'https://m.media-amazon.com/images/I/41SzPh56LiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPPXGV-es Pepe Jeans Winter Ronit Sudadera Black 999 9-10 años Talla...'
 sku: 'B07MZPPXGV-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-07-15 06:28:28
 image: 'https://m.media-amazon.com/images/I/316kx+dSTYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5Q5K6X-es FIND Block Heel Mary-Jane Zapatos de Tacón Morado Purple...'
 sku: 'B07W5Q5K6X-es'
 tags: [ 'zapatos', ]

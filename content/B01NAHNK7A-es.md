@@ -5,7 +5,7 @@ date: 2020-07-06 18:44:03
 image: 'https://m.media-amazon.com/images/I/31NbxMtdmWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAHNK7A-es G-STAR RAW Eyben Slim V T Wmn S/s Camiseta Negro Black 990...'
 sku: 'B01NAHNK7A-es'
 tags: [ 'camiseta', ]

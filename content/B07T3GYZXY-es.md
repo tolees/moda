@@ -5,7 +5,7 @@ date: 2020-08-07 11:41:19
 image: 'https://m.media-amazon.com/images/I/41h-XFRBhPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3GYZXY-es Timberland Adventure Seeker Toddler Sandalias de Punta...'
 sku: 'B07T3GYZXY-es'
 tags: [ 'sandalias','timberland', ]

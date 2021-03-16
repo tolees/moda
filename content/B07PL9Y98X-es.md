@@ -5,7 +5,7 @@ date: 2020-07-23 09:42:45
 image: 'https://m.media-amazon.com/images/I/31mljxZjBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PL9Y98X-es X-TIGER Gafas Ciclismo CE Certificación Polarizadas con 3...'
 sku: 'B07PL9Y98X-es'
 tags: [ 'gafas', ]

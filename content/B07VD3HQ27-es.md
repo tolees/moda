@@ -5,7 +5,7 @@ date: 2020-08-03 10:38:16
 image: 'https://m.media-amazon.com/images/I/41nuPvxc1XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD3HQ27-es Calvin Klein Modern Western Shirt Camisa Gris Da039 Grey...'
 sku: 'B07VD3HQ27-es'
 tags: [ 'camisa', ]

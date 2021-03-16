@@ -5,7 +5,7 @@ date: 2020-05-13 19:29:17
 image: 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4TNLA6-es Levi s Graphic Set-In Neck Camiseta para Hombre Azul...'
 sku: 'B01N4TNLA6-es'
 tags: [ 'camiseta', ]

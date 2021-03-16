@@ -5,7 +5,7 @@ date: 2020-08-29 09:43:32
 image: 'https://m.media-amazon.com/images/I/419nMNZtL6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H4YGGB6-es Pepe Jeans Charing Camiseta Hombre Negro Black Large'
 sku: 'B01H4YGGB6-es'
 tags: [ 'camiseta', ]

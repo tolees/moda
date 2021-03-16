@@ -5,7 +5,7 @@ date: 2020-04-02 07:45:49
 image: 'https://m.media-amazon.com/images/I/41u73odv5KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071DQTK4P-es WenVen Chaqueta Parka de Algodón con Capucha para Hombres...'
 sku: 'B071DQTK4P-es'
 tags: [ 'chaqueta','parka', ]

@@ -5,7 +5,7 @@ date: 2020-01-21 11:33:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41o9Qp7wHrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006FI3JZY-es Twentyfour Freizeitshirt FM NY Kapuzen in frischen Farben...'
 sku: 'B006FI3JZY-es'
 tags: [ 'jersey', ]

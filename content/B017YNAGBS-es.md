@@ -5,7 +5,7 @@ date: 2020-01-09 16:05:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dhuFNLdJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017YNAGBS-es Gregster Hombre Chaqueta de Esquí - Snowboard - Chaqueta...'
 sku: 'B017YNAGBS-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 14:26:08
 image: 'https://m.media-amazon.com/images/I/41O2IyPEtLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K9K1YMI-es Clarks Tealite Grace Sandalias con Tira Vertical para...'
 sku: 'B01K9K1YMI-es'
 tags: [ 'sandalias', ]

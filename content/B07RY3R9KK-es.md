@@ -5,7 +5,7 @@ date: 2020-08-08 11:28:51
 image: 'https://m.media-amazon.com/images/I/41ikEDdlBOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RY3R9KK-es BILLABONG Jackson Hood Sudadera Negro Black 19 One Size...'
 sku: 'B07RY3R9KK-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-04-10 20:04:28
 image: 'https://m.media-amazon.com/images/I/41KW9LyTwAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYZ7DVH-es Springfield 8.T.Kaftan Blusa Multicolor Varios 98 U Tamaño...'
 sku: 'B07KYZ7DVH-es'
 tags: [ 'blusa', ]

@@ -5,7 +5,7 @@ date: 2020-01-25 18:28:39
 image: 'https://m.media-amazon.com/images/I/41sqUGp3xuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVCK4X4-es Under Armour UNDKU Tech Camisa Polo Hombre Verde XXL'
 sku: 'B07JVCK4X4-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-05-03 14:55:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3173vcwm9QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BLB3Y78-es AURIQUE Racerback Camiseta deportiva de tirantes...'
 sku: 'B07BLB3Y78-es'
 tags: [ 'aurique','camiseta', ]

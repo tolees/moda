@@ -5,7 +5,7 @@ date: 2020-09-23 21:16:59
 image: 'https://m.media-amazon.com/images/I/312KFdHfLSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZ7YY3R-es Geox U Nebula Y A Zapatillas para Hombre Azul Lt AVI O...'
 sku: 'B07SZ7YY3R-es'
 tags: [ 'geox', ]

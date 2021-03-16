@@ -5,7 +5,7 @@ date: 2020-10-06 18:51:43
 image: 'https://m.media-amazon.com/images/I/31OqGzd9RmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQBKFC5-es Jack & Jones NOS Jjiglenn Jjoriginal Am 816 Noos Vaqueros...'
 sku: 'B07JQBKFC5-es'
 tags: [ 'vaqueros', ]

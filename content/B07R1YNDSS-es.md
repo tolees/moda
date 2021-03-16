@@ -5,7 +5,7 @@ date: 2020-05-12 07:57:40
 image: 'https://m.media-amazon.com/images/I/31S4gtk47qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1YNDSS-es Under Armour Hombre UA GL Foundation Short Sleeve tee...'
 sku: 'B07R1YNDSS-es'
 tags: [ 'camiseta', ]

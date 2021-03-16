@@ -5,7 +5,7 @@ date: 2020-04-28 18:57:17
 image: 'https://m.media-amazon.com/images/I/5158BruAx-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQMP5D9-es Zerone Camisetas de Camuflaje de Manga Larga y Corta de...'
 sku: 'B07PQMP5D9-es'
 tags: [ 'camisa', ]

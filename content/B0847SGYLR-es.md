@@ -5,7 +5,7 @@ date: 2020-02-18 20:13:04
 image: 'https://m.media-amazon.com/images/I/41TMjPoKsVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0847SGYLR-es WOLFIRE SC Camiseta de Baloncesto para Hombre NBA Los...'
 sku: 'B0847SGYLR-es'
 tags: [ 'camiseta', ]

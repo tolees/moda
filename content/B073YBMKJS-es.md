@@ -5,7 +5,7 @@ date: 2020-01-16 17:40:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41njG4bqoVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073YBMKJS-es Esprit 107ee1k036 Camisa Manga Larga Off White 110 XX-...'
 sku: 'B073YBMKJS-es'
 tags: [ 'camisa', ]

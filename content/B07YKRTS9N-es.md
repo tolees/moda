@@ -5,7 +5,7 @@ date: 2020-05-19 10:25:52
 image: 'https://m.media-amazon.com/images/I/41+DEEBAUtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YKRTS9N-es Esprit 129ee2g006 Chaqueta Azul Dark Blue 405 X-Large para...'
 sku: 'B07YKRTS9N-es'
 tags: [ 'chaqueta', ]

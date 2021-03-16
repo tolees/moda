@@ -5,7 +5,7 @@ date: 2020-05-29 07:31:08
 image: 'https://m.media-amazon.com/images/I/41-PoJ6I0+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010WEBZG6-es Crocs Isabella T Strap Sandalias para Mujer Negro Black...'
 sku: 'B010WEBZG6-es'
 tags: [ 'sandalias', ]

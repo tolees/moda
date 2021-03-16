@@ -5,7 +5,7 @@ date: 2020-06-26 17:53:41
 image: 'https://m.media-amazon.com/images/I/41p1fue5+CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZCD1ML-es Under Armour Raid Short Sleeve tee Camiseta Niños Negro...'
 sku: 'B07CZCD1ML-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-01 11:41:47
 image: 'https://m.media-amazon.com/images/I/41SRtuEcy5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCDSXN1-es Miss Lulu Bolso de Mano de Mujer Shopper de Hombro...'
 sku: 'B07HCDSXN1-es'
 tags: [ 'bolso', ]

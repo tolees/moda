@@ -5,7 +5,7 @@ date: 2020-04-07 16:03:50
 image: 'https://m.media-amazon.com/images/I/41daxm3hkQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW7HJYQ-es Sisley Jacket Chaqueta Mujer Negro Black 100 40 Talla...'
 sku: 'B07KW7HJYQ-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-02-27 12:36:31
 image: 'https://m.media-amazon.com/images/I/31UI2fYMytL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSPJMY7-es Women s Secret Generic Funny GD Cactixmas PJ Conjuntos de...'
 sku: 'B07TSPJMY7-es'
 tags: [ 'pijama', ]

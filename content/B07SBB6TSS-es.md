@@ -5,7 +5,7 @@ date: 2020-02-27 17:33:46
 image: 'https://m.media-amazon.com/images/I/31c7sUR3IRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBB6TSS-es Crocs Crocband Zuecos Unisex Adulto Rosa Blossom/White 6ph...'
 sku: 'B07SBB6TSS-es'
 tags: [ 'zuecos', ]

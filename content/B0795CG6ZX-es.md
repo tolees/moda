@@ -5,7 +5,7 @@ date: 2020-06-07 14:37:41
 image: 'https://m.media-amazon.com/images/I/41hMsz-TAGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0795CG6ZX-es PUMA Liga Jersey T-Shirt Hombre Silver Lake Blue White XL'
 sku: 'B0795CG6ZX-es'
 tags: [ 'jersey', ]

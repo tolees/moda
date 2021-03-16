@@ -5,7 +5,7 @@ date: 2020-08-30 16:31:44
 image: 'https://m.media-amazon.com/images/I/51CC8s-10vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H78JWTH-es Zapatillas Hombre Mujer Invierno CáLido Zapatos Memory...'
 sku: 'B07H78JWTH-es'
 tags: [ 'zapatos', ]

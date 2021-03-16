@@ -5,7 +5,7 @@ date: 2020-02-20 19:31:20
 image: 'https://m.media-amazon.com/images/I/519dEGUHjZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SN46MH2-es Gifort Cortador de Verdura Mandolina de Verduras 8 en 1...'
 sku: 'B07SN46MH2-es'
 tags: [ 'guantes', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 09:50:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xfEBO8oGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LU3E9G-es Lacoste L1212 Camiseta Polo Azul Ruisseau XL Talla del...'
 sku: 'B002LU3E9G-es'
 tags: [ 'camiseta', ]

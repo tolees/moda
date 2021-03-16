@@ -5,7 +5,7 @@ date: 2020-01-10 07:24:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2B%2BEDVZ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078S6NK9G-es find. Trucker Denim Chaqueta Rosa Pink 48 Talla del...'
 sku: 'B078S6NK9G-es'
 tags: [ 'chaqueta', ]

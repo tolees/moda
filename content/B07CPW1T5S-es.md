@@ -5,7 +5,7 @@ date: 2020-09-13 18:51:00
 image: 'https://m.media-amazon.com/images/I/41voXKqY1NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPW1T5S-es Marca Amazon - AURIQUE Camiseta Yoga con Eslogan y...'
 sku: 'B07CPW1T5S-es'
 tags: [ 'aurique','camiseta', ]

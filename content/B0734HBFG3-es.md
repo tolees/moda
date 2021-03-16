@@ -5,7 +5,7 @@ date: 2020-01-11 10:49:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XDJ%2BeOJyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0734HBFG3-es Lakerom Zapatos Mocasines para Hombres Zapatos sin...'
 sku: 'B0734HBFG3-es'
 tags: [ 'zapatos', ]

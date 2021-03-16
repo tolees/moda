@@ -5,7 +5,7 @@ date: 2020-01-26 12:20:01
 image: 'https://m.media-amazon.com/images/I/416Nr9LZnsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKTGW76-es Dickies Farnham Chaqueta Marrón Large Talla del...'
 sku: 'B07DKTGW76-es'
 tags: [ 'chaqueta', ]

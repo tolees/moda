@@ -5,7 +5,7 @@ date: 2020-09-17 16:05:34
 image: 'https://m.media-amazon.com/images/I/51kTrP3Qt4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWFWFG3-es Elf Sack Mujer Abrigo Acolchado Largo con Cuello Alto de...'
 sku: 'B07GWFWFG3-es'
 tags: [ 'abrigo','parka', ]

@@ -5,7 +5,7 @@ date: 2020-01-11 11:31:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311%2B8HcEVIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVDQ195-es Camper Hardwood K300027-006 Botines Hombre 42'
 sku: 'B07WVDQ195-es'
 tags: [ 'botines', ]

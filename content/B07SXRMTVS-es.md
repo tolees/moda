@@ -5,7 +5,7 @@ date: 2020-07-24 20:49:33
 image: 'https://m.media-amazon.com/images/I/41lsni6DU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXRMTVS-es Geox D Borealis A Sandalia con Pulsera para Mujer Gris Dk...'
 sku: 'B07SXRMTVS-es'
 tags: [ 'geox', ]

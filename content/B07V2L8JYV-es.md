@@ -5,7 +5,7 @@ date: 2020-02-17 16:28:38
 image: 'https://m.media-amazon.com/images/I/31fT+0vrIJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2L8JYV-es JACK & JONES PREMIUM 12154586 Abrigo Negro Black Black XX-...'
 sku: 'B07V2L8JYV-es'
 tags: [ 'abrigo', ]

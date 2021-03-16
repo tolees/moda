@@ -5,7 +5,7 @@ date: 2020-05-19 12:34:19
 image: 'https://m.media-amazon.com/images/I/41uUBsr1XZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMHGQJS-es Levi s 512 Slim Taper Vaqueros Tapered Azul Cioccolato...'
 sku: 'B07TMHGQJS-es'
 tags: [ 'vaqueros', ]

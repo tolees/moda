@@ -5,7 +5,7 @@ date: 2020-09-28 03:02:33
 image: 'https://m.media-amazon.com/images/I/31a7apjUFWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC132NN-es Clarks Un Venture Low Zapatos de Cordones Derby para...'
 sku: 'B07MC132NN-es'
 tags: [ 'zapatos', ]

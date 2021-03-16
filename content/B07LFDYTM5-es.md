@@ -5,7 +5,7 @@ date: 2020-04-01 06:59:04
 image: 'https://m.media-amazon.com/images/I/31Puu5GjOPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFDYTM5-es Levi s Relaxed Graphic Crew Sudadera Azul Sea Captain Blue...'
 sku: 'B07LFDYTM5-es'
 tags: [ 'sudadera', ]

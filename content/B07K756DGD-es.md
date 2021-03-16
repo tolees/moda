@@ -5,7 +5,7 @@ date: 2020-10-11 19:52:24
 image: 'https://m.media-amazon.com/images/I/51Co-ibECIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K756DGD-es Levi s Original Trucker Chaqueta vaquera Azul Soft Ash...'
 sku: 'B07K756DGD-es'
 tags: [ 'chaqueta', ]

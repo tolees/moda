@@ -5,7 +5,7 @@ date: 2020-07-30 15:53:03
 image: 'https://m.media-amazon.com/images/I/31DTNTdEalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HWCJY-es Clarks Orabella Alice Botines para Mujer Marrón Burgundy...'
 sku: 'B07N1HWCJY-es'
 tags: [ 'botines', ]

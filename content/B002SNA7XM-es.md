@@ -5,7 +5,7 @@ date: 2020-06-27 17:21:07
 image: 'https://m.media-amazon.com/images/I/310g8JjyhXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002SNA7XM-es Crocs Crocband Flip Chanclas Unisex-Adult Black Black...'
 sku: 'B002SNA7XM-es'
 tags: [ 'chanclas', ]

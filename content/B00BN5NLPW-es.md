@@ -5,7 +5,7 @@ date: 2020-10-07 19:23:04
 image: 'https://m.media-amazon.com/images/I/41d77aQchNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN5NLPW-es Pepe Jeans Original Stretch Camiseta Gris Grey Marl 933...'
 sku: 'B00BN5NLPW-es'
 tags: [ 'camiseta', ]

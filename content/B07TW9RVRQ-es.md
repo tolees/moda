@@ -5,7 +5,7 @@ date: 2020-10-11 19:21:16
 image: 'https://m.media-amazon.com/images/I/41aA5ncK+0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TW9RVRQ-es Levi s LS Original Hm tee Camiseta Gris Medium Grey...'
 sku: 'B07TW9RVRQ-es'
 tags: [ 'camiseta', ]

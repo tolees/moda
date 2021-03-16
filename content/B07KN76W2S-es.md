@@ -5,7 +5,7 @@ date: 2020-03-11 18:56:12
 image: 'https://m.media-amazon.com/images/I/41ISDHPQOfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KN76W2S-es adidas W E 3s FZ HD Sudadera Mujer Negro Black/White M'
 sku: 'B07KN76W2S-es'
 tags: [ 'sudadera', ]

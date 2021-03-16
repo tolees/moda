@@ -5,7 +5,7 @@ date: 2020-08-12 09:11:27
 image: 'https://m.media-amazon.com/images/I/416L1zQYnjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD92X1M-es Helly Hansen Crew Midlayer Chaqueta Deportiva Impermeable...'
 sku: 'B07SD92X1M-es'
 tags: [ 'chaqueta', ]

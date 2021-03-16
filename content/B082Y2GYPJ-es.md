@@ -5,7 +5,7 @@ date: 2020-04-04 11:38:53
 image: 'https://m.media-amazon.com/images/I/41xmRkEhalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Y2GYPJ-es Siux Camiseta Dry Rojo Negro'
 sku: 'B082Y2GYPJ-es'
 tags: [ 'camiseta', ]

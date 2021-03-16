@@ -5,7 +5,7 @@ date: 2020-01-13 19:22:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31J%2Bqdy75uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018JT3FI2-es Levi s 200Sf Boxer Brief 2P Hombre Azul Mid Denim Small...'
 sku: 'B018JT3FI2-es'
 tags: [ 'boxer', ]

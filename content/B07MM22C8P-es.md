@@ -5,7 +5,7 @@ date: 2020-01-13 18:13:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DVM06Cc3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM22C8P-es Geox J KURAY Boy B ABX B Botas de Nieve para Niños Azul...'
 sku: 'B07MM22C8P-es'
 tags: [ 'geox', ]

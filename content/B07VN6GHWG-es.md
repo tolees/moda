@@ -5,7 +5,7 @@ date: 2020-02-05 10:16:44
 image: 'https://m.media-amazon.com/images/I/41Q6MmmGyLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN6GHWG-es edc by Esprit 099cc1k044 Camiseta sin Mangas Verde Khaki...'
 sku: 'B07VN6GHWG-es'
 tags: [ 'camiseta', ]

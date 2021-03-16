@@ -5,7 +5,7 @@ date: 2020-09-16 13:02:35
 image: 'https://m.media-amazon.com/images/I/41XA0jqV3YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQWDJGT-es H&E - Abrigo de plumón con capucha para niñas Niños color...'
 sku: 'B07JQWDJGT-es'
 tags: [ 'abrigo', ]

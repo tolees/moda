@@ -5,7 +5,7 @@ date: 2020-08-11 11:24:40
 image: 'https://m.media-amazon.com/images/I/41HFn-IPPML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYHC642-es Levi s Vneck Camiseta Multicolor Annalise Stripe Marina...'
 sku: 'B07TYHC642-es'
 tags: [ 'camiseta', ]

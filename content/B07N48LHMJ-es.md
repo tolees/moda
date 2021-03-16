@@ -5,7 +5,7 @@ date: 2020-04-01 07:01:35
 image: 'https://m.media-amazon.com/images/I/31397E0o8iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N48LHMJ-es United Colors of Benetton Basico 3 Woman Abrigo Negro 100...'
 sku: 'B07N48LHMJ-es'
 tags: [ 'abrigo', ]

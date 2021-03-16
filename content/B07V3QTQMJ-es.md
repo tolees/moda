@@ -5,7 +5,7 @@ date: 2020-01-01 17:05:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mkdFbwYrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3QTQMJ-es gracosy Botas Nieve Mujer de Piel Invierno Antideslizante...'
 sku: 'B07V3QTQMJ-es'
 tags: [ 'botines','zapatos', ]

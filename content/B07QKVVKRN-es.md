@@ -5,7 +5,7 @@ date: 2020-02-04 16:37:02
 image: 'https://m.media-amazon.com/images/I/51HUepZbqEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKVVKRN-es La Chaqueta Metálica Edición Especial Bluray Iconic [Blu-ray]'
 sku: 'B07QKVVKRN-es'
 tags: [ 'chaqueta', ]

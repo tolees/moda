@@ -5,7 +5,7 @@ date: 2020-02-09 20:16:47
 image: 'https://m.media-amazon.com/images/I/51J0uJTsGPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6LL6T5-es OurLeeme Casco para Soldar Gafas Solares Lente...'
 sku: 'B07V6LL6T5-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-09-19 08:26:26
 image: 'https://m.media-amazon.com/images/I/41DuMCXaLwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9MDDBL-es Tommy Hilfiger Trunk Bóxer Azul Navy Blazer 416 Small para...'
 sku: 'B07D9MDDBL-es'
 tags: [ 'bóxer', ]

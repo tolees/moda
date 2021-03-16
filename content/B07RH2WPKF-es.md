@@ -5,7 +5,7 @@ date: 2020-02-13 08:01:39
 image: 'https://m.media-amazon.com/images/I/41B-jPhW-GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH2WPKF-es G-STAR RAW 3301 Slim Vaqueros Rinsed B780-082 31W / 30L...'
 sku: 'B07RH2WPKF-es'
 tags: [ 'vaqueros', ]

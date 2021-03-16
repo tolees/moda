@@ -5,7 +5,7 @@ date: 2020-09-22 18:02:37
 image: 'https://m.media-amazon.com/images/I/51Era5N5TVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D978XXK-es Vunavueya Mujer Zapatillas de Estar por Casa Hombre...'
 sku: 'B08D978XXK-es'
 tags: [ 'zapatos', ]

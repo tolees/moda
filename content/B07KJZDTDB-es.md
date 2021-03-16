@@ -5,7 +5,7 @@ date: 2020-07-01 17:59:37
 image: 'https://m.media-amazon.com/images/I/41flFr5tCwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJZDTDB-es Pepe Jeans Spike Vaqueros Straight Gris Wiser Wash Grey...'
 sku: 'B07KJZDTDB-es'
 tags: [ 'vaqueros', ]

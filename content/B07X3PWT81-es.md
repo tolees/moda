@@ -5,7 +5,7 @@ date: 2020-10-06 14:55:36
 image: 'https://m.media-amazon.com/images/I/41+odZx0nHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3PWT81-es Pepe Jeans Victoria Vaqueros Ajustados Azul 000denim 000...'
 sku: 'B07X3PWT81-es'
 tags: [ 'vaqueros', ]

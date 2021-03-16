@@ -5,7 +5,7 @@ date: 2020-09-16 13:32:54
 image: 'https://m.media-amazon.com/images/I/41ysx+FD2HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4Y1P4-es Levi s HR Decon Iconic BF Skirt Falda Azul Meer In The...'
 sku: 'B07KF4Y1P4-es'
 tags: [ 'falda', ]

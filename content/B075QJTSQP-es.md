@@ -5,7 +5,7 @@ date: 2020-01-13 11:32:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zeRyATO1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QJTSQP-es find. Camiseta de Deporte con Paneles de Rejilla Hombre...'
 sku: 'B075QJTSQP-es'
 tags: [ 'camiseta', ]

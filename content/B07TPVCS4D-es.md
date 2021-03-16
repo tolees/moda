@@ -5,7 +5,7 @@ date: 2020-08-05 16:02:54
 image: 'https://m.media-amazon.com/images/I/41TbnkhPlYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPVCS4D-es Superdry Merchant Milled Lite L/s Shirt Camisa Azul Indigo...'
 sku: 'B07TPVCS4D-es'
 tags: [ 'camisa', ]

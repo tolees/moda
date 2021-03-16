@@ -5,7 +5,7 @@ date: 2020-05-22 14:11:17
 image: 'https://m.media-amazon.com/images/I/415hU0TMDyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFGWLYC-es Levi s 514 Vaqueros Straight Azul Stonewash Stretch T2...'
 sku: 'B07LFGWLYC-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-03 08:20:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41a4hBPqw7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1CB8YG-es New Look Tasmim Texture Chaqueta de Traje Beige Stone 16...'
 sku: 'B07S1CB8YG-es'
 tags: [ 'chaqueta', ]

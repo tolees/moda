@@ -5,7 +5,7 @@ date: 2020-02-09 03:45:20
 image: 'https://m.media-amazon.com/images/I/41UpTUKqLxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010QRS11Q-es Timberland Larchmont Chelsea Waterproof Botas Hombre...'
 sku: 'B010QRS11Q-es'
 tags: [ 'timberland', ]

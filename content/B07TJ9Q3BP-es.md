@@ -5,7 +5,7 @@ date: 2020-07-25 05:46:31
 image: 'https://m.media-amazon.com/images/I/41bmSAzkfAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9Q3BP-es Levi s Housemark Graphic tee Camiseta Rojo Hm Ssnl Emb...'
 sku: 'B07TJ9Q3BP-es'
 tags: [ 'camiseta', ]

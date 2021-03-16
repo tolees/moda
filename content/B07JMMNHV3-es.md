@@ -5,7 +5,7 @@ date: 2020-01-27 10:00:50
 image: 'https://m.media-amazon.com/images/I/41g8hCV+lpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMMNHV3-es dPois Bebé Niña Pelele Vestido Halter Lentejuelas Snow...'
 sku: 'B07JMMNHV3-es'
 tags: [ 'pelele','vestido', ]

@@ -5,7 +5,7 @@ date: 2020-06-11 00:58:58
 image: 'https://m.media-amazon.com/images/I/41K-+H2F7PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ72D2-es Lee Austin Vaqueros Tapered Azul Dk Clean Foam EK 32W /...'
 sku: 'B07TSQ72D2-es'
 tags: [ 'vaqueros', ]

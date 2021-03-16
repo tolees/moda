@@ -5,7 +5,7 @@ date: 2020-02-01 15:22:04
 image: 'https://m.media-amazon.com/images/I/413FogFJ6iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FK9YBJ2-es Columbia Alpine Action Oh Chaqueta de Esquí Rosa Cactus...'
 sku: 'B07FK9YBJ2-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-05 07:55:28
 image: 'https://m.media-amazon.com/images/I/41Z1ZWFQJqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3SYDZ6-es TALED - Bolso bandolera de piel auténtica de 15 6 pulgadas...'
 sku: 'B07V3SYDZ6-es'
 tags: [ 'bolso', ]

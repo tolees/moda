@@ -5,7 +5,7 @@ date: 2020-08-24 14:10:36
 image: 'https://m.media-amazon.com/images/I/51jt6VAYLEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQ924GP-es FIND Cork Two Part Sling Back Wedge Zapatos de tacón con...'
 sku: 'B07XQ924GP-es'
 tags: [ 'zapatos', ]

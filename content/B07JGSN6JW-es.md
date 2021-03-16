@@ -5,7 +5,7 @@ date: 2020-05-18 10:47:49
 image: 'https://m.media-amazon.com/images/I/41Ubituc2nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGSN6JW-es Pepe Jeans Kai Pm402100 Chaqueta Sailor 580 X-Large para...'
 sku: 'B07JGSN6JW-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-04-25 20:48:26
 image: 'https://m.media-amazon.com/images/I/41J9d8aJNfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY9EHZV-es IRIS & LILLY Braguita Brasileña Cotton para Mujer Pack de...'
 sku: 'B01LY9EHZV-es'
 tags: [ '&','iris','lilly', ]

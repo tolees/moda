@@ -5,7 +5,7 @@ date: 2020-05-08 08:29:20
 image: 'https://m.media-amazon.com/images/I/414-AlqRo+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHKRTQK-es GRAT.UNIC Pantalón Corto Deportivo para Mujer Running...'
 sku: 'B07DHKRTQK-es'
 tags: [ 'pantalón', ]

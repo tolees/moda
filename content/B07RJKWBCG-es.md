@@ -5,7 +5,7 @@ date: 2020-02-20 21:34:54
 image: 'https://m.media-amazon.com/images/I/31j-5KAQCXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJKWBCG-es Tommy Hilfiger Basic Hilfiger Hoody Sudadera Azul Blue Dw5...'
 sku: 'B07RJKWBCG-es'
 tags: [ 'sudadera', ]

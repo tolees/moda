@@ -5,7 +5,7 @@ date: 2020-04-25 18:07:02
 image: 'https://m.media-amazon.com/images/I/31ypPPG3waL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFDHNRR-es JACK & JONES Mike Original Jos 697 I.k Vaqueros Black...'
 sku: 'B07VFDHNRR-es'
 tags: [ 'vaqueros', ]

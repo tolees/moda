@@ -5,7 +5,7 @@ date: 2020-04-14 03:01:29
 image: 'https://m.media-amazon.com/images/I/41OnxrociaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014VFZ0O0-es Clarks Carlita Cove - Zapatos de Tacón para Mujer Beige...'
 sku: 'B014VFZ0O0-es'
 tags: [ 'zapatos', ]

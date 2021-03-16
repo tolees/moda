@@ -5,7 +5,7 @@ date: 2020-08-04 09:02:52
 image: 'https://m.media-amazon.com/images/I/31oajJOkj2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793S6GZV-es adidas SST TP Pantalón Hombre Rojo Escarl L'
 sku: 'B0793S6GZV-es'
 tags: [ 'pantalón', ]

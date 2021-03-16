@@ -5,7 +5,7 @@ date: 2020-01-23 08:04:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ix1HpphLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYPZJTB-es Tommy Jeans Mujer Essential Slim Tee Camiseta Negro Tommy...'
 sku: 'B07JYPZJTB-es'
 tags: [ 'camiseta', ]

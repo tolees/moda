@@ -5,7 +5,7 @@ date: 2020-05-15 11:36:03
 image: 'https://m.media-amazon.com/images/I/41-LJyGuLqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776X8BJN-es Tommy Hilfiger Scanton Vaqueros Azul Berry Mid Blue...'
 sku: 'B0776X8BJN-es'
 tags: [ 'vaqueros', ]

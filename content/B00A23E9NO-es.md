@@ -5,7 +5,7 @@ date: 2020-10-09 12:12:57
 image: 'https://m.media-amazon.com/images/I/41fU5uBoUSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A23E9NO-es Levi s 2 Pack Crew - Camiseta para Hombre Negro...'
 sku: 'B00A23E9NO-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-02 20:41:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31CENk5q0eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HDTC5R1-es Nike Precision III Zapatos de Baloncesto Unisex Adulto...'
 sku: 'B07HDTC5R1-es'
 tags: [ 'zapatos', ]

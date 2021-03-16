@@ -5,7 +5,7 @@ date: 2020-02-18 08:59:26
 image: 'https://m.media-amazon.com/images/I/4168m9UaldL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHV88CC-es G-Star Sp10546 SS tee Camiseta Rosa Mid Pink 34 8 años...'
 sku: 'B07SHV88CC-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-06 21:55:59
 image: 'https://m.media-amazon.com/images/I/41gSZ6OvLrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07822SQMQ-es Puma Liga Sideline Woven Pantalón Hombre Azul Peacoat...'
 sku: 'B07822SQMQ-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-05-01 07:50:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21K8-2g92EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYYDQ9C-es HAWKERS · CLASSIC · Burgundy Pink · Dark · Gafas de sol...'
 sku: 'B07HYYDQ9C-es'
 tags: [ 'gafas', ]

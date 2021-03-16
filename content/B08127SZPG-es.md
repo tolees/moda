@@ -5,7 +5,7 @@ date: 2020-05-21 07:45:59
 image: 'https://m.media-amazon.com/images/I/31qjZoC7soL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08127SZPG-es Jack & Jones JPRBLUWIN Polo SS STS Camisa Azul Marino XL...'
 sku: 'B08127SZPG-es'
 tags: [ 'camisa', ]

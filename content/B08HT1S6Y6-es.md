@@ -5,7 +5,7 @@ date: 2020-10-05 22:00:16
 image: 'https://m.media-amazon.com/images/I/4148cAivFML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HT1S6Y6-es Doaraha Camisón Lactancia para Mujer Vestido Premamá con...'
 sku: 'B08HT1S6Y6-es'
 tags: [ 'pijama','vestido', ]

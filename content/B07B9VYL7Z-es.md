@@ -5,7 +5,7 @@ date: 2020-10-04 16:36:40
 image: 'https://m.media-amazon.com/images/I/310kFZFIUGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9VYL7Z-es Skechers On-The-go Joy-Bundle Up Botines para Mujer Marrón...'
 sku: 'B07B9VYL7Z-es'
 tags: [ 'botines', ]

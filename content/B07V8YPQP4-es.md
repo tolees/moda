@@ -5,7 +5,7 @@ date: 2020-07-15 19:49:19
 image: 'https://m.media-amazon.com/images/I/31ivftoVxLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8YPQP4-es Tommy Hilfiger - Th Metro Washbag Organizadores de bolso...'
 sku: 'B07V8YPQP4-es'
 tags: [ 'bolso', ]

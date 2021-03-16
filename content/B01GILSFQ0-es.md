@@ -5,7 +5,7 @@ date: 2020-02-22 17:45:59
 image: 'https://m.media-amazon.com/images/I/41ScfqVG7jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GILSFQ0-es Calvin Klein 2PK Trunk Bóxer para Niños Multicolor...'
 sku: 'B01GILSFQ0-es'
 tags: [ 'bóxer', ]

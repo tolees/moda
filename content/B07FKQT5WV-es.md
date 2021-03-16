@@ -5,7 +5,7 @@ date: 2020-04-13 00:48:57
 image: 'https://m.media-amazon.com/images/I/411RjEdLy+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKQT5WV-es Battle Royale Camiseta para niño Gaming Negro 13-14 Años'
 sku: 'B07FKQT5WV-es'
 tags: [ 'camiseta', ]

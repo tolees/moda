@@ -5,7 +5,7 @@ date: 2020-08-08 13:24:15
 image: 'https://m.media-amazon.com/images/I/41RJmP-YcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKHGLKK-es Asics Gel-Nimbus 22 Zapatilla de Correr para Hombre...'
 sku: 'B07SKHGLKK-es'
 tags: [ 'zapatilla', ]

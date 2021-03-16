@@ -5,7 +5,7 @@ date: 2020-01-03 12:35:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CRENeSBqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L6RVEO6-es Lee Rider Jeans Vaqueros Rinse 38W / 30L para Hombre'
 sku: 'B01L6RVEO6-es'
 tags: [ 'vaqueros', ]

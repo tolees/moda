@@ -5,7 +5,7 @@ date: 2020-01-19 16:05:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BLyUMLJfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1KYHWN-es NUBILY Bolsos de Mujer Bolso para Portatil 15.6 Pulgadas...'
 sku: 'B07W1KYHWN-es'
 tags: [ 'bolso', ]

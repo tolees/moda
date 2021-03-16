@@ -5,7 +5,7 @@ date: 2020-04-14 11:20:52
 image: 'https://m.media-amazon.com/images/I/31aFmg3yQjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6Z0Y3Q-es Barkey - Panama Lentes Marrones - Gafas De Madera De Alta...'
 sku: 'B01M6Z0Y3Q-es'
 tags: [ 'gafas', ]

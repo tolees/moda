@@ -5,7 +5,7 @@ date: 2020-04-27 12:50:34
 image: 'https://m.media-amazon.com/images/I/31yj+nNhQYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB881DD-es PUMA Classics T7 Jacket TR G Chaqueta De Entrenamiento...'
 sku: 'B07QB881DD-es'
 tags: [ 'chaqueta', ]

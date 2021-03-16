@@ -5,7 +5,7 @@ date: 2020-02-07 10:38:33
 image: 'https://m.media-amazon.com/images/I/41lfHEYAgaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9RZHWD-es Neosens S970 Restored Skin TINTILLA Sandalias con Punta...'
 sku: 'B07B9RZHWD-es'
 tags: [ 'sandalias', ]

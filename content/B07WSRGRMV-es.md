@@ -5,7 +5,7 @@ date: 2020-02-03 15:46:23
 image: 'https://m.media-amazon.com/images/I/41c3DSDyPXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSRGRMV-es Charles Wilson Sudadera con Capucha de Peso Pesado XX-...'
 sku: 'B07WSRGRMV-es'
 tags: [ 'sudadera', ]

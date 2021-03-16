@@ -5,7 +5,7 @@ date: 2020-08-20 01:08:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419DUdMRx1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTGMR4B-es LARNMERN Zapatillas de Seguridad para Hombre Verano Ligero...'
 sku: 'B07RTGMR4B-es'
 tags: [ 'zapatilla','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-18 15:58:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31wlAtO13dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNH8W74-es Bikers Gear Australia Limited - Pantalones vaqueros...'
 sku: 'B07BNH8W74-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-03-31 23:35:23
 image: 'https://m.media-amazon.com/images/I/51SxfvZLqvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0007VHBQ8-es Vileda Gr00683 - Guantes de goma'
 sku: 'B0007VHBQ8-es'
 tags: [ 'guantes', ]

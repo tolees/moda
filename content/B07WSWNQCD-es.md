@@ -5,7 +5,7 @@ date: 2020-07-08 00:17:29
 image: 'https://m.media-amazon.com/images/I/31+mMraJXkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSWNQCD-es Bose Frames - Gafas de sol con altavoces Alto S/M color negro'
 sku: 'B07WSWNQCD-es'
 tags: [ 'gafas', ]

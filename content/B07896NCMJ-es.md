@@ -5,7 +5,7 @@ date: 2020-03-28 20:54:36
 image: 'https://m.media-amazon.com/images/I/41-hpJq4NVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07896NCMJ-es Under Armour UA Boxed Sportstyle Short Sleeve Camiseta...'
 sku: 'B07896NCMJ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-03 13:19:37
 image: 'https://m.media-amazon.com/images/I/51ahPFhYgbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFL619N-es Marca Amazon - find. Shorts Bermuda Hombre Multicolor Blue...'
 sku: 'B07KFL619N-es'
 tags: [ '-','find.', ]

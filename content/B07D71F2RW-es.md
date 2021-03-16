@@ -5,7 +5,7 @@ date: 2020-06-30 11:04:32
 image: 'https://m.media-amazon.com/images/I/41OwVDJCWAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D71F2RW-es Levi s Type 3 Sherpa Trucker Chaqueta Beige True Chino...'
 sku: 'B07D71F2RW-es'
 tags: [ 'chaqueta', ]

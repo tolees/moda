@@ -5,7 +5,7 @@ date: 2020-02-07 11:46:46
 image: 'https://m.media-amazon.com/images/I/41S0I0CiXwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19PJ9K-es Lee Trend Fit Tee Camiseta para Hombre Azul Midnight Navy...'
 sku: 'B07N19PJ9K-es'
 tags: [ 'camiseta', ]

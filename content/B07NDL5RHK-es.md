@@ -5,7 +5,7 @@ date: 2020-05-20 15:17:09
 image: 'https://m.media-amazon.com/images/I/41vzd0-1FBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL5RHK-es G-STAR RAW Xpo Field Chaqueta Verde Sage 724 Small para...'
 sku: 'B07NDL5RHK-es'
 tags: [ 'chaqueta', ]

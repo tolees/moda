@@ -5,7 +5,7 @@ date: 2020-03-01 11:02:35
 image: 'https://m.media-amazon.com/images/I/41zpzIhUDuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W3VVMK7-es JACK & JONES Jcoglobe Parka Abrigos Hombre Azul China Blue...'
 sku: 'B07W3VVMK7-es'
 tags: [ 'parka', ]

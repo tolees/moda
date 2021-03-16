@@ -5,7 +5,7 @@ date: 2020-02-06 23:25:42
 image: 'https://m.media-amazon.com/images/I/41L+LDVTupL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCK53VD-es Columbia Alpine Action Chaqueta OH Ski de esquí Mujer Azul...'
 sku: 'B07JCK53VD-es'
 tags: [ 'chaqueta', ]

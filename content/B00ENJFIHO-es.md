@@ -5,7 +5,7 @@ date: 2020-02-12 08:07:44
 image: 'https://m.media-amazon.com/images/I/514eJY6XZ1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ENJFIHO-es Nueva OU falda plisada para niñas con cintura elástica de...'
 sku: 'B00ENJFIHO-es'
 tags: [ 'falda', ]

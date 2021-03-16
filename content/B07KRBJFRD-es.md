@@ -5,7 +5,7 @@ date: 2020-04-18 03:12:03
 image: 'https://m.media-amazon.com/images/I/31xVFZ+YhNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRBJFRD-es Kigu Isabel Collar con Nombre - Chapado en Oro...'
 sku: 'B07KRBJFRD-es'
 tags: [ 'collar', ]

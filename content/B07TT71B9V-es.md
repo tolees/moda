@@ -5,7 +5,7 @@ date: 2020-08-27 09:36:22
 image: 'https://m.media-amazon.com/images/I/31aejabSkdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT71B9V-es Levi s 501 Crop Vaqueros Boyfriend Blanco In The Clouds...'
 sku: 'B07TT71B9V-es'
 tags: [ 'vaqueros', ]

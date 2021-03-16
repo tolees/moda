@@ -5,7 +5,7 @@ date: 2020-08-30 19:39:41
 image: 'https://m.media-amazon.com/images/I/31cJPEAmbNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9HRLXV-es Under Armour Accelerate Off-Pitch Pantalón Hombre Negro SM'
 sku: 'B07L9HRLXV-es'
 tags: [ 'pantalón', ]

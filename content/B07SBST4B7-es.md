@@ -5,7 +5,7 @@ date: 2020-01-02 23:02:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51nSKOd5l-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBST4B7-es ARTOP Guantes Moto de Pantalla Táctil Guantes Motocross...'
 sku: 'B07SBST4B7-es'
 tags: [ 'guantes', ]

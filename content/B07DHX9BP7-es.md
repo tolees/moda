@@ -5,7 +5,7 @@ date: 2020-07-05 10:01:47
 image: 'https://m.media-amazon.com/images/I/31xrr8fteLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHX9BP7-es Diesel Buster Vaqueros Straight Negro Negro 069bg 31W /...'
 sku: 'B07DHX9BP7-es'
 tags: [ 'vaqueros', ]

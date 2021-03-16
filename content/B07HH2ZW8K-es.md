@@ -5,7 +5,7 @@ date: 2020-01-31 01:02:02
 image: 'https://m.media-amazon.com/images/I/51P5mNMWUtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH2ZW8K-es Mujer Botas de Nieve Zapatos Invierno Impermeables...'
 sku: 'B07HH2ZW8K-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-07-02 06:04:29
 image: 'https://m.media-amazon.com/images/I/31tYy6+IQwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MGD25V-es Marca Amazon - MERAKI Camiseta de Manga Corta de Corte...'
 sku: 'B079MGD25V-es'
 tags: [ 'camiseta','meraki', ]

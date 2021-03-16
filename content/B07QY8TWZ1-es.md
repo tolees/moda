@@ -5,7 +5,7 @@ date: 2020-06-03 14:17:21
 image: 'https://m.media-amazon.com/images/I/31fhKGRvuyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QY8TWZ1-es Marca Amazon - IRIS & LILLY Asw-018 - Pijama de dos piezas...'
 sku: 'B07QY8TWZ1-es'
 tags: [ '&','iris','lilly','pijama', ]

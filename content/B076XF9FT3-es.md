@@ -5,7 +5,7 @@ date: 2020-08-31 18:10:07
 image: 'https://m.media-amazon.com/images/I/41r6KBNAAbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076XF9FT3-es Geox JR CIAK Girl A Zapatillas para Niñas Azul Navy 39 EU'
 sku: 'B076XF9FT3-es'
 tags: [ 'geox', ]

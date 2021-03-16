@@ -5,7 +5,7 @@ date: 2020-07-17 09:25:51
 image: 'https://m.media-amazon.com/images/I/41RFxEBGygL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJPHMHT-es GRITION Sandalias Hombre Verano Punta Cerrada Sandalias de...'
 sku: 'B06XJPHMHT-es'
 tags: [ 'sandalias', ]

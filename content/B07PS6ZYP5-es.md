@@ -5,7 +5,7 @@ date: 2020-10-09 08:13:39
 image: 'https://m.media-amazon.com/images/I/31kSIxf+sRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PS6ZYP5-es Under Armour UA Seamless SS Manga Corta para Hombre...'
 sku: 'B07PS6ZYP5-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-17 09:16:47
 image: 'https://m.media-amazon.com/images/I/41cGbs8peCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPPV21-es Pepe Jeans Joe Chaleco Sailor 580 Medium para Hombre'
 sku: 'B07MZPPV21-es'
 tags: [ 'chaleco', ]

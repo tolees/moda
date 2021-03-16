@@ -5,7 +5,7 @@ date: 2020-05-07 11:46:19
 image: 'https://m.media-amazon.com/images/I/31HF+s5vecL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQPWRVB-es Wrangler Arizona Straight Jeans Vaqueros Black Valley 30W...'
 sku: 'B07CQPWRVB-es'
 tags: [ 'vaqueros', ]

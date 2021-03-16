@@ -5,7 +5,7 @@ date: 2020-02-14 08:31:35
 image: 'https://m.media-amazon.com/images/I/41YKBjhdWaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWKYK93-es BILLABONG Alves Jacket Chaqueta Deportiva Hombre Azul Dark...'
 sku: 'B07RWKYK93-es'
 tags: [ 'chaqueta', ]

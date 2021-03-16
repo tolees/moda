@@ -5,7 +5,7 @@ date: 2020-03-07 14:22:37
 image: 'https://m.media-amazon.com/images/I/418w7aVEKxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NVSJTZ-es Izas Nasser Chaqueta Fibra Hombre Agua Maria / Lima 2XL'
 sku: 'B071NVSJTZ-es'
 tags: [ 'chaqueta', ]

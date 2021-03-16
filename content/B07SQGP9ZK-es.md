@@ -5,7 +5,7 @@ date: 2020-07-23 12:51:33
 image: 'https://m.media-amazon.com/images/I/41X0WexwinL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGP9ZK-es Geox U Wells C Zapatillas para Hombre Gris Lt Grey C1010...'
 sku: 'B07SQGP9ZK-es'
 tags: [ 'geox', ]

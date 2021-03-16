@@ -5,7 +5,7 @@ date: 2020-01-20 21:48:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IdG1Z7u5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IF9Z7BY-es The North Face Tekware TNF Jersey 100 Glacier Hombre TNF...'
 sku: 'B01IF9Z7BY-es'
 tags: [ 'jersey', ]

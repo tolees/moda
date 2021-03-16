@@ -5,7 +5,7 @@ date: 2020-07-13 11:05:51
 image: 'https://m.media-amazon.com/images/I/31I948RB7kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV7MJ47-es Levi s Innovation Super Skinny Vaqueros Azul Globe Trotter...'
 sku: 'B07TV7MJ47-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-09-21 20:33:40
 image: 'https://m.media-amazon.com/images/I/41mxXoolzLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VDKTNQ-es Levi s The Perfect Tee Camiseta Mujer Negro Caviar 2 0008 L'
 sku: 'B077VDKTNQ-es'
 tags: [ 'camiseta', ]

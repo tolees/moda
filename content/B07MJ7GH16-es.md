@@ -5,7 +5,7 @@ date: 2020-02-02 11:39:03
 image: 'https://m.media-amazon.com/images/I/31ix6dC5HRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ7GH16-es Clarks - Botines de Cuero Hombre Color Marrón Talla 41.5 EU'
 sku: 'B07MJ7GH16-es'
 tags: [ 'botines', ]

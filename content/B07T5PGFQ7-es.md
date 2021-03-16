@@ -5,7 +5,7 @@ date: 2020-08-18 19:36:24
 image: 'https://m.media-amazon.com/images/I/31s4RLewuqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5PGFQ7-es Timberland Bradstreet Leather Sensorflex Botas Chukka para...'
 sku: 'B07T5PGFQ7-es'
 tags: [ 'timberland', ]

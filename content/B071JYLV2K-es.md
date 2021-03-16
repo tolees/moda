@@ -5,7 +5,7 @@ date: 2020-05-10 07:42:15
 image: 'https://m.media-amazon.com/images/I/41Z2n4izcBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JYLV2K-es Levi s The Perfect Tee Camiseta Mujer Negro Large Batwing...'
 sku: 'B071JYLV2K-es'
 tags: [ 'camiseta', ]

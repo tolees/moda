@@ -5,7 +5,7 @@ date: 2020-05-17 08:12:15
 image: 'https://m.media-amazon.com/images/I/4148Lr8cflL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YP6V2J-es HIKARO Sudadera Logo Hombre Verde Khaki 48 Talla del...'
 sku: 'B077YP6V2J-es'
 tags: [ 'sudadera', ]

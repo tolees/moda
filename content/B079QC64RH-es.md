@@ -5,7 +5,7 @@ date: 2020-09-23 17:33:14
 image: 'https://m.media-amazon.com/images/I/41XI5g3x-0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QC64RH-es Kipling Gabbie Bolso bandolera para Mujer Azul True Dazz...'
 sku: 'B079QC64RH-es'
 tags: [ 'bolso', ]

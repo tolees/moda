@@ -5,7 +5,7 @@ date: 2020-10-01 14:17:52
 image: 'https://m.media-amazon.com/images/I/310g8JjyhXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBB8DYX-es Crocs Crocband Flip Women Chanclas para Mujer Negro Black...'
 sku: 'B07SBB8DYX-es'
 tags: [ 'chanclas', ]

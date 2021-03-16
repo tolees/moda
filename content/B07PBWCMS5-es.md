@@ -5,7 +5,7 @@ date: 2020-06-22 16:55:45
 image: 'https://m.media-amazon.com/images/I/31T2hqXS27L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBWCMS5-es find. Vaqueros Ceñidos de Tiro Medio Mujer Blanco White...'
 sku: 'B07PBWCMS5-es'
 tags: [ 'vaqueros', ]

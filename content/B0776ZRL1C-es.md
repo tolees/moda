@@ -5,7 +5,7 @@ date: 2020-05-11 21:39:17
 image: 'https://m.media-amazon.com/images/I/31zAWk6A0hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776ZRL1C-es Tommy Hilfiger Original Jersey Camiseta Blanco Classic...'
 sku: 'B0776ZRL1C-es'
 tags: [ 'camiseta','jersey', ]

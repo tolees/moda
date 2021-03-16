@@ -5,7 +5,7 @@ date: 2020-09-07 10:24:48
 image: 'https://m.media-amazon.com/images/I/41fa+w5+qEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVNZGFZ-es Geox B Waviness Boy A Zapatillas para Bebés Azul Navy/Sky...'
 sku: 'B07SVNZGFZ-es'
 tags: [ 'geox', ]

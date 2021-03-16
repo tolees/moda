@@ -5,7 +5,7 @@ date: 2020-04-07 22:40:50
 image: 'https://m.media-amazon.com/images/I/31KuEtJwImL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E1WJC8I-es Mercedes-Benz Sonnenbrille M3019 Gafas de sol Marrón Braun...'
 sku: 'B01E1WJC8I-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-06-13 11:27:38
 image: 'https://m.media-amazon.com/images/I/41iRt1hZxiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076N8DK3Y-es adidas CE9047 Chaqueta Unisex niños Negro Black/White 176'
 sku: 'B076N8DK3Y-es'
 tags: [ 'chaqueta', ]

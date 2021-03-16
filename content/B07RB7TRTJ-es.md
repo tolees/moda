@@ -5,7 +5,7 @@ date: 2020-02-07 16:27:53
 image: 'https://m.media-amazon.com/images/I/31bPXQQIYdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB7TRTJ-es Columbia Horizon Explorer Chaqueta Térmica Impermeable...'
 sku: 'B07RB7TRTJ-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-05-22 23:28:26
 image: 'https://m.media-amazon.com/images/I/41iNS4UxNCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM2LTCL-es Tommy Hilfiger TJM Straight Small Logo Hoodie Jersey de...'
 sku: 'B07RM2LTCL-es'
 tags: [ 'jersey', ]

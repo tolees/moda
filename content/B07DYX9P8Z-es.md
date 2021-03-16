@@ -5,7 +5,7 @@ date: 2020-06-09 03:24:19
 image: 'https://m.media-amazon.com/images/I/31aUiDycB8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYX9P8Z-es Columbia Gate Racer Chaqueta Softshell para Hombre Azul...'
 sku: 'B07DYX9P8Z-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-09 19:17:48
 image: 'https://m.media-amazon.com/images/I/41+nWp-zIjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZY3Q39-es Wrangler Logo tee Camiseta Negro Real Black XW5 XXXX-Large...'
 sku: 'B07TZY3Q39-es'
 tags: [ 'camiseta', ]

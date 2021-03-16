@@ -5,7 +5,7 @@ date: 2020-09-12 15:20:13
 image: 'https://m.media-amazon.com/images/I/41ZeWfXFaLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXL1BD2-es Levi s 501 Crop Vaqueros Boyfriend Negro Cabo Fade 0111...'
 sku: 'B07RXL1BD2-es'
 tags: [ 'vaqueros', ]

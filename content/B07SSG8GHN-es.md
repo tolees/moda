@@ -5,7 +5,7 @@ date: 2020-03-20 10:50:54
 image: 'https://m.media-amazon.com/images/I/31SHY6o1bKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSG8GHN-es adidas Real Madrid Home Jersey Camiseta de Manga Corta...'
 sku: 'B07SSG8GHN-es'
 tags: [ 'camiseta','jersey', ]

@@ -5,7 +5,7 @@ date: 2020-10-05 07:03:41
 image: 'https://m.media-amazon.com/images/I/319H+ahCcvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBP88NF-es Helly Hansen Paramount Resistente Al Agua Y Al Viento Y...'
 sku: 'B07LBP88NF-es'
 tags: [ 'chaqueta', ]

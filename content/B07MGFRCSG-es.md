@@ -5,7 +5,7 @@ date: 2020-01-24 15:29:43
 image: 'https://m.media-amazon.com/images/I/31nlFLz9ryL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRCSG-es Napapijri Rainforest Winter 1 Chaqueta Verde Green Forest...'
 sku: 'B07MGFRCSG-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-04-13 23:48:30
 image: 'https://m.media-amazon.com/images/I/4170Eu07h5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L1W65VO-es The North Face Evolve II Triclimate Chaqueta Hombre Negro...'
 sku: 'B00L1W65VO-es'
 tags: [ 'chaqueta', ]

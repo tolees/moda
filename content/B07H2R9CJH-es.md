@@ -5,7 +5,7 @@ date: 2020-09-17 12:51:02
 image: 'https://m.media-amazon.com/images/I/41KqTMLmW9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2R9CJH-es Riñonera Deportiva Bolso Cintura Cinturón de Correr con...'
 sku: 'B07H2R9CJH-es'
 tags: [ 'bolso', ]

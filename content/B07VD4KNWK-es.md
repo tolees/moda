@@ -5,7 +5,7 @@ date: 2020-03-14 12:18:58
 image: 'https://m.media-amazon.com/images/I/51gobv2a6rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD4KNWK-es Zapatillas de Niños Niñas Running Zapatos Azul 29'
 sku: 'B07VD4KNWK-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-06-17 19:01:59
 image: 'https://m.media-amazon.com/images/I/41WFab1+aRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088PTJ3BZ-es Oiotuyi - Camiseta de manga corta de algodón para niños...'
 sku: 'B088PTJ3BZ-es'
 tags: [ 'camiseta', ]

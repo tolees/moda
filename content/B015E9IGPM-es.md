@@ -5,7 +5,7 @@ date: 2020-01-24 01:27:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31haMPgoLwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015E9IGPM-es Gant Sonnenbrille Ga7047 90A 54 Gafas de sol Azul Blau...'
 sku: 'B015E9IGPM-es'
 tags: [ 'gafas', ]

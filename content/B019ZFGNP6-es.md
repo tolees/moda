@@ -5,7 +5,7 @@ date: 2020-09-25 02:20:46
 image: 'https://m.media-amazon.com/images/I/414bNaGUIbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019ZFGNP6-es Under Armour Tech Short Sleeve-Twist Camiseta Mujer Negro XS'
 sku: 'B019ZFGNP6-es'
 tags: [ 'camiseta', ]

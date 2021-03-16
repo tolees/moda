@@ -5,7 +5,7 @@ date: 2020-03-11 13:04:54
 image: 'https://m.media-amazon.com/images/I/41QgNjTLM5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4ST33-es Levi s SS Ringer tee Camiseta Rojo Brand Integrated...'
 sku: 'B07KF4ST33-es'
 tags: [ 'camiseta', ]

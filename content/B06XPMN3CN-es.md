@@ -5,7 +5,7 @@ date: 2020-06-24 13:21:44
 image: 'https://m.media-amazon.com/images/I/419U7ML5z8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPMN3CN-es Marca Amazon - find. Pantalón Fruncido para Mujer Rosa...'
 sku: 'B06XPMN3CN-es'
 tags: [ '-','find.','pantalón', ]

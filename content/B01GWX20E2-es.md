@@ -5,7 +5,7 @@ date: 2020-09-09 08:39:13
 image: 'https://m.media-amazon.com/images/I/31sk7PpT0tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GWX20E2-es Geox U New Damon B Mocasines para Hombre Marrón DK...'
 sku: 'B01GWX20E2-es'
 tags: [ 'geox', ]

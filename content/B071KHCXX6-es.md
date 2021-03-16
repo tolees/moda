@@ -5,7 +5,7 @@ date: 2020-09-27 17:42:51
 image: 'https://m.media-amazon.com/images/I/51DY40sj5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KHCXX6-es TRIXIE Jersey Moncton M 45 cm Marrón Perro'
 sku: 'B071KHCXX6-es'
 tags: [ 'jersey', ]

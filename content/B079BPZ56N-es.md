@@ -5,7 +5,7 @@ date: 2020-08-30 15:31:48
 image: 'https://m.media-amazon.com/images/I/41G-SI+7QML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079BPZ56N-es Jack & Jones Jjebasic Polo SS Noos - Camiseta para Hombre...'
 sku: 'B079BPZ56N-es'
 tags: [ 'camiseta', ]

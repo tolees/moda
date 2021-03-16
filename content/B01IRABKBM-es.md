@@ -5,7 +5,7 @@ date: 2020-04-09 08:15:40
 image: 'https://m.media-amazon.com/images/I/41AwwlGViwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IRABKBM-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De...'
 sku: 'B01IRABKBM-es'
 tags: [ 'zapatos', ]

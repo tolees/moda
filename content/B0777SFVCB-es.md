@@ -5,7 +5,7 @@ date: 2020-09-13 07:26:24
 image: 'https://m.media-amazon.com/images/I/411vj1bfItL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777SFVCB-es Dim Mix and Colors Boxer X2 Negro Negro CT Jaune...'
 sku: 'B0777SFVCB-es'
 tags: [ 'boxer', ]

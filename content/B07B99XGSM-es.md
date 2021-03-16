@@ -5,7 +5,7 @@ date: 2020-09-21 12:01:01
 image: 'https://m.media-amazon.com/images/I/41aaL0cKFWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B99XGSM-es Clarks Un Abode Ease Zapatos de Cordones Derby para Hombre...'
 sku: 'B07B99XGSM-es'
 tags: [ 'zapatos', ]

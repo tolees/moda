@@ -5,7 +5,7 @@ date: 2020-02-04 11:26:27
 image: 'https://m.media-amazon.com/images/I/41aUrbeakDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNS7ZB-es G-STAR RAW Graphic 14 Core Hooded Sudadera Azul Imperial...'
 sku: 'B07NDNS7ZB-es'
 tags: [ 'sudadera', ]

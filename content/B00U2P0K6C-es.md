@@ -5,7 +5,7 @@ date: 2020-01-08 08:21:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KHgz-tpCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U2P0K6C-es KRISP 6610-CORBLK-08 Vestido Corto Patinadora Vuelo...'
 sku: 'B00U2P0K6C-es'
 tags: [ 'vestido', ]

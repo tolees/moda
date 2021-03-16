@@ -5,7 +5,7 @@ date: 2020-05-28 09:28:20
 image: 'https://m.media-amazon.com/images/I/413-05amJLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5WJ8SG-es Regatta Cline III Coolweave Crew Neck Graphic Camiseta...'
 sku: 'B07L5WJ8SG-es'
 tags: [ 'camiseta', ]

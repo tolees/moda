@@ -5,7 +5,7 @@ date: 2020-06-22 14:31:29
 image: 'https://m.media-amazon.com/images/I/31jIhs-gVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772QNYJ7-es Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre...'
 sku: 'B0772QNYJ7-es'
 tags: [ 'meraki', ]

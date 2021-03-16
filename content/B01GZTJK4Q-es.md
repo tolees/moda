@@ -5,7 +5,7 @@ date: 2020-01-29 09:38:18
 image: 'https://m.media-amazon.com/images/I/51YasMSoKPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GZTJK4Q-es KUTOOK Guantes Ciclismo Guantes MTB Gel Almohadilla de...'
 sku: 'B01GZTJK4Q-es'
 tags: [ 'guantes', ]

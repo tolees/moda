@@ -5,7 +5,7 @@ date: 2020-06-25 17:45:27
 image: 'https://m.media-amazon.com/images/I/31RQednOI3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3WGGHL-es Levi s 510 Fit Vaqueros Skinny Azul Bonita City 4/Waxy...'
 sku: 'B07S3WGGHL-es'
 tags: [ 'vaqueros', ]

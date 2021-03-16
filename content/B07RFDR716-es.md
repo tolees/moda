@@ -5,7 +5,7 @@ date: 2020-01-27 13:23:35
 image: 'https://m.media-amazon.com/images/I/315wCFe9fpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFDR716-es Tommy Hilfiger Corp Split tee Camiseta Deporte Negro Black...'
 sku: 'B07RFDR716-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-04 11:19:51
 image: 'https://m.media-amazon.com/images/I/51rmBj0bMtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071L1LNMJ-es Marca Amazon - find. Camisa Hombre Rosa Dusty Pink XL...'
 sku: 'B071L1LNMJ-es'
 tags: [ '-','camisa','find.', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 14:34:50
 image: 'https://m.media-amazon.com/images/I/41hoI3tajQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHYF6D5-es Refresh 69188 Botines para Mujer Marrón Camel 38 EU'
 sku: 'B07PHYF6D5-es'
 tags: [ 'botines', ]

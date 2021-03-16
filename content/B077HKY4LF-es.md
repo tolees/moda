@@ -5,7 +5,7 @@ date: 2020-01-15 18:53:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dCRLrzYmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HKY4LF-es find. Vestido de Flores y Gasa Mujer Multicolor...'
 sku: 'B077HKY4LF-es'
 tags: [ 'vestido', ]

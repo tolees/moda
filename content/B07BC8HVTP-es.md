@@ -5,7 +5,7 @@ date: 2020-01-23 10:06:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51WzQaFnGPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BC8HVTP-es AmzBarley Disfraz Traje de Princesa Niña Disfraz Vestido...'
 sku: 'B07BC8HVTP-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-05-25 17:35:27
 image: 'https://m.media-amazon.com/images/I/41WyYjuG1FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081VBPRLP-es Oihxse Silicona Matorral Funda Compatible con iPhone 11...'
 sku: 'B081VBPRLP-es'
 tags: [ 'moda', ]

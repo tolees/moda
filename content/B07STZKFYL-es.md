@@ -5,7 +5,7 @@ date: 2020-06-28 00:12:26
 image: 'https://m.media-amazon.com/images/I/31sWYViu+zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STZKFYL-es Pepe Jeans Stanley Vaqueros Straight Blanco 000Denim 000...'
 sku: 'B07STZKFYL-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-02-07 12:29:21
 image: 'https://m.media-amazon.com/images/I/41MSQS3Z+rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3VZRT9-es Desigual T-Shirt Andora Camiseta Rojo Rojo Oscuro 3029 M...'
 sku: 'B07N3VZRT9-es'
 tags: [ 'camiseta', ]

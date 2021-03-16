@@ -5,7 +5,7 @@ date: 2020-09-26 22:09:30
 image: 'https://m.media-amazon.com/images/I/31ARCeBg3UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RV4KW3W-es Marca Amazon - find. Divan Botas Clasicas Marrón Wood...'
 sku: 'B07RV4KW3W-es'
 tags: [ '-','find.', ]

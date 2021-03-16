@@ -5,7 +5,7 @@ date: 2020-01-17 17:03:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414sCh3T3dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758FDQT2-es Care Bane Camiseta Morado Lavender 607 9 Meses/74 cm Pack...'
 sku: 'B0758FDQT2-es'
 tags: [ 'camiseta', ]

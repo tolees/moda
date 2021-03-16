@@ -5,7 +5,7 @@ date: 2020-05-29 12:05:26
 image: 'https://m.media-amazon.com/images/I/41BPFLdM25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TG3KK3-es LuckyGirls Zapatos Casuales de Invierno para Hombre Slip...'
 sku: 'B081TG3KK3-es'
 tags: [ 'botines','zapatos', ]

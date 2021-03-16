@@ -5,7 +5,7 @@ date: 2020-05-31 08:28:51
 image: 'https://m.media-amazon.com/images/I/41VyomUVurL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YDITMQS-es Merrell - sandalias de Cuero mujer Azul NAVY 37 EU 4 UK'
 sku: 'B00YDITMQS-es'
 tags: [ 'sandalias', ]

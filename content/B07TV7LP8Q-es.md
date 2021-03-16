@@ -5,7 +5,7 @@ date: 2020-05-12 07:07:06
 image: 'https://m.media-amazon.com/images/I/31uhvDOH-YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV7LP8Q-es Levi s Relaxed Crew New Sudadera Rosa Peach Blush 0003...'
 sku: 'B07TV7LP8Q-es'
 tags: [ 'sudadera', ]

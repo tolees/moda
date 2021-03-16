@@ -5,7 +5,7 @@ date: 2020-05-17 10:48:39
 image: 'https://m.media-amazon.com/images/I/41EnjqQhIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB5GQFW-es Jack & Jones Jorwillow Stand Collar Jacket Chaqueta Azul...'
 sku: 'B07VB5GQFW-es'
 tags: [ 'chaqueta','collar', ]

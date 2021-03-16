@@ -5,7 +5,7 @@ date: 2020-01-07 19:25:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41v6vGxUVNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4FWTYQ-es edc by Esprit 999cc1k803 Camiseta Azul Navy 2 401 X-Large...'
 sku: 'B07N4FWTYQ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-26 11:57:29
 image: 'https://m.media-amazon.com/images/I/41FcyB4hojL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGGG8Q5-es Jack & Jones JCOBOOSTER Sweat Hood DEC 19 Sudadera con...'
 sku: 'B07YGGG8Q5-es'
 tags: [ 'sudadera', ]

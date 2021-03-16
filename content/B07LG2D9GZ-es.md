@@ -5,7 +5,7 @@ date: 2020-01-14 10:24:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31l9nwXfhJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG2D9GZ-es Geox U Renan B Zapatillas para Hombre Marrón Mud C6372 45 EU'
 sku: 'B07LG2D9GZ-es'
 tags: [ 'geox', ]

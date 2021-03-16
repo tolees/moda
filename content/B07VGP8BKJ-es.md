@@ -5,7 +5,7 @@ date: 2020-08-13 16:23:21
 image: 'https://m.media-amazon.com/images/I/41MESw5fPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGP8BKJ-es HUGO Daple202 Sudadera Beige Dark Beige 251 M para Hombre'
 sku: 'B07VGP8BKJ-es'
 tags: [ 'sudadera', ]

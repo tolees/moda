@@ -5,7 +5,7 @@ date: 2020-06-14 08:01:23
 image: 'https://m.media-amazon.com/images/I/31ubXouYhPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHZ6H5T-es Geox D Theragon C Zapatillas para Mujer Blue/Navy C4294 36 EU'
 sku: 'B07DHZ6H5T-es'
 tags: [ 'geox', ]

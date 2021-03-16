@@ -5,7 +5,7 @@ date: 2020-01-26 21:06:49
 image: 'https://m.media-amazon.com/images/I/41raPjzrgqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QN47-es Napapijri Rainforest Winter 1 Chaqueta Marrón Golden Brown...'
 sku: 'B07MK1QN47-es'
 tags: [ 'chaqueta', ]

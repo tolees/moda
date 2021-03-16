@@ -5,7 +5,7 @@ date: 2020-06-24 10:02:08
 image: 'https://m.media-amazon.com/images/I/51EVO-YxwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HCFCQZ-es Victorem Lebron James #23 Camiseta de Baloncesto para...'
 sku: 'B085HCFCQZ-es'
 tags: [ 'camiseta','jersey', ]

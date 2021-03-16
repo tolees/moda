@@ -5,7 +5,7 @@ date: 2020-05-27 17:55:31
 image: 'https://m.media-amazon.com/images/I/41Qv9bAj-hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2QLWJ3-es Helly Hansen Hp Fleece Jacket Chaqueta Deportiva para...'
 sku: 'B07F2QLWJ3-es'
 tags: [ 'chaqueta', ]

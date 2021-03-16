@@ -5,7 +5,7 @@ date: 2020-05-21 06:52:38
 image: 'https://m.media-amazon.com/images/I/31z1kTFtZ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT6ZZ29-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera Blanco White...'
 sku: 'B07TT6ZZ29-es'
 tags: [ 'chaqueta', ]

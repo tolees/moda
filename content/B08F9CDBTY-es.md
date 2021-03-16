@@ -5,7 +5,7 @@ date: 2020-09-25 19:00:06
 image: 'https://m.media-amazon.com/images/I/41UYbRLlFmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F9CDBTY-es Voova Funda Portatil 11-11.6 11.3 Pulgada Upgraded...'
 sku: 'B08F9CDBTY-es'
 tags: [ 'bolso', ]

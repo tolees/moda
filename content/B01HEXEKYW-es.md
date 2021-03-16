@@ -5,7 +5,7 @@ date: 2020-06-27 21:44:00
 image: 'https://m.media-amazon.com/images/I/31Q0bM+UgjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEXEKYW-es Crocs Crocband Clog K Zuecos Unisex-Bambini BLU...'
 sku: 'B01HEXEKYW-es'
 tags: [ 'zuecos', ]

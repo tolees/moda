@@ -5,7 +5,7 @@ date: 2020-09-28 06:37:06
 image: 'https://m.media-amazon.com/images/I/41A4GUONSSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRKBDQB-es Geox D Myria B Zapatillas Altas para Mujer Blanco...'
 sku: 'B07SRKBDQB-es'
 tags: [ 'geox', ]

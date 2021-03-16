@@ -5,7 +5,7 @@ date: 2020-04-19 12:04:14
 image: 'https://m.media-amazon.com/images/I/31VIdOMLs3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYW95Z7-es Wrangler Bryson Vaqueros Skinny Negro Like A Champ 120 36W...'
 sku: 'B07TYW95Z7-es'
 tags: [ 'vaqueros', ]

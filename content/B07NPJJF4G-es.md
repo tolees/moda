@@ -5,7 +5,7 @@ date: 2020-09-08 01:37:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51CmtWb0yyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPJJF4G-es LARNMERN Zapatos de Seguridad para Hombre con Puntera de...'
 sku: 'B07NPJJF4G-es'
 tags: [ 'zapatos', ]

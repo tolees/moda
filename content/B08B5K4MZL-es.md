@@ -5,7 +5,7 @@ date: 2020-08-18 11:45:41
 image: 'https://m.media-amazon.com/images/I/516BduFPGWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5K4MZL-es Leeharu - Abrigo de invierno para niña con capucha Bleu...'
 sku: 'B08B5K4MZL-es'
 tags: [ 'abrigo', ]

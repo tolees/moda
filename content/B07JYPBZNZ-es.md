@@ -5,7 +5,7 @@ date: 2020-05-11 09:57:20
 image: 'https://m.media-amazon.com/images/I/41HXXLWCAVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYPBZNZ-es Tommy Hilfiger TJM Essential Jaspe tee Camiseta Azul Blue...'
 sku: 'B07JYPBZNZ-es'
 tags: [ 'camiseta', ]

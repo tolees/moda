@@ -5,7 +5,7 @@ date: 2020-10-03 19:09:57
 image: 'https://m.media-amazon.com/images/I/41zZFLfudvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZ7CCRD-es Hawiton Pijamas para Mujer Verano Corto Pijama de Algodón...'
 sku: 'B07PZ7CCRD-es'
 tags: [ 'pijama', ]

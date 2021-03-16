@@ -5,7 +5,7 @@ date: 2020-04-26 23:34:41
 image: 'https://m.media-amazon.com/images/I/41riw3Lb7TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P82SZDX-es Lee Logo tee Camiseta Rojo Rhubarb Red Gbl Large para Mujer'
 sku: 'B07P82SZDX-es'
 tags: [ 'camiseta', ]

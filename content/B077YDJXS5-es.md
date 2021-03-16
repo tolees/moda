@@ -5,7 +5,7 @@ date: 2020-08-16 15:00:42
 image: 'https://m.media-amazon.com/images/I/41zRpJ8apeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDJXS5-es HIKARO Sudadera Hombre Rojo Red 52 Talla del fabricante:...'
 sku: 'B077YDJXS5-es'
 tags: [ 'sudadera', ]

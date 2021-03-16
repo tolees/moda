@@ -5,7 +5,7 @@ date: 2020-04-07 16:06:14
 image: 'https://m.media-amazon.com/images/I/41P5qfRMUrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYXGTL9-es Columbia Horizon Explore H Chaqueta Térmica Impermeable...'
 sku: 'B07DYXGTL9-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-06 18:42:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31GyOLHfZlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779CBPSG-es adidas Entrada 18 JSY Jersey Niños Negro Black/White 140...'
 sku: 'B0779CBPSG-es'
 tags: [ 'jersey', ]

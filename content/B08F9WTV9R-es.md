@@ -5,7 +5,7 @@ date: 2020-10-07 19:03:04
 image: 'https://m.media-amazon.com/images/I/51UywurySCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F9WTV9R-es Mochilas para Pañales Biberones Multifuncional Impermeable...'
 sku: 'B08F9WTV9R-es'
 tags: [ 'bolso', ]

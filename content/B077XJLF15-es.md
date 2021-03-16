@@ -5,7 +5,7 @@ date: 2020-01-09 05:12:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oSq59CB4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XJLF15-es Superdry Tech Hood Pop Zip SD-Windcheater Chaqueta...'
 sku: 'B077XJLF15-es'
 tags: [ 'chaqueta', ]

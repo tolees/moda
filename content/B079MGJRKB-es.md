@@ -5,7 +5,7 @@ date: 2020-07-01 08:33:16
 image: 'https://m.media-amazon.com/images/I/41IR0Cb4OuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MGJRKB-es Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con...'
 sku: 'B079MGJRKB-es'
 tags: [ 'camiseta','meraki', ]

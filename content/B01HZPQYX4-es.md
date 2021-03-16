@@ -5,7 +5,7 @@ date: 2020-06-02 22:00:38
 image: 'https://m.media-amazon.com/images/I/41ZQnwzxZiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HZPQYX4-es Merrell - sandalias de Cuero mujer Beige Taupe 39 EU'
 sku: 'B01HZPQYX4-es'
 tags: [ 'sandalias', ]

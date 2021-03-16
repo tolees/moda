@@ -5,7 +5,7 @@ date: 2020-09-02 16:19:00
 image: 'https://m.media-amazon.com/images/I/41oOfWciVZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B94Y7JL-es Clarks Vargo Plain Zapatos de Cordones Derby Marrón Dark...'
 sku: 'B07B94Y7JL-es'
 tags: [ 'zapatos', ]

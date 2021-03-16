@@ -5,7 +5,7 @@ date: 2020-06-08 07:55:47
 image: 'https://m.media-amazon.com/images/I/41IbOZQqFYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8Y8RPQ-es Helly Hansen HH Logo Hoodie Sudadera con Capucha Hombre...'
 sku: 'B07S8Y8RPQ-es'
 tags: [ 'sudadera', ]

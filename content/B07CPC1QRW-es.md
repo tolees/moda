@@ -5,7 +5,7 @@ date: 2020-08-12 23:19:57
 image: 'https://m.media-amazon.com/images/I/31srFDK8cbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPC1QRW-es Crocs Serena Sandal Women Sandalias de Punta Descubierta...'
 sku: 'B07CPC1QRW-es'
 tags: [ 'sandalias', ]

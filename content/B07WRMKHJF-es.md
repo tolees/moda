@@ -5,7 +5,7 @@ date: 2020-08-11 09:03:40
 image: 'https://m.media-amazon.com/images/I/31+iAu3uPCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRMKHJF-es Skechers Sargo Reyon Chanclas para Hombre Marrón Chocolate...'
 sku: 'B07WRMKHJF-es'
 tags: [ 'chanclas', ]

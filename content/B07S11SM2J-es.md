@@ -5,7 +5,7 @@ date: 2020-04-27 11:26:30
 image: 'https://m.media-amazon.com/images/I/417O5V19HIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S11SM2J-es Only Frsfloyd Training Brushed Sweat-Unit Sudadera...'
 sku: 'B07S11SM2J-es'
 tags: [ 'sudadera', ]

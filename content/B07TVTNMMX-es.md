@@ -5,7 +5,7 @@ date: 2020-05-30 13:11:03
 image: 'https://m.media-amazon.com/images/I/41v1O+KfQeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTNMMX-es Women s Secret Bloom Feminine BF Dahlia PJ FR Conjuntos de...'
 sku: 'B07TVTNMMX-es'
 tags: [ 'pijama', ]

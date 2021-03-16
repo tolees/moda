@@ -5,7 +5,7 @@ date: 2020-08-11 11:12:19
 image: 'https://m.media-amazon.com/images/I/41ZWossZRbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD195SJ-es PUMA Leadcat FTR Sandalias deslizantes Unisex-Adulto Negro...'
 sku: 'B07SD195SJ-es'
 tags: [ 'sandalias', ]

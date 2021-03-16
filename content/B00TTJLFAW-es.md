@@ -5,7 +5,7 @@ date: 2020-06-21 01:23:03
 image: 'https://m.media-amazon.com/images/I/41-awmKWYcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTJLFAW-es Clarks Tilden Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B00TTJLFAW-es'
 tags: [ 'zapatos', ]

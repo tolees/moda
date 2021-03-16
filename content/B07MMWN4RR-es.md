@@ -5,7 +5,7 @@ date: 2020-02-08 15:49:37
 image: 'https://m.media-amazon.com/images/I/41DaWf03yQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWN4RR-es Wrangler Sign Off Crew Sudadera Amarillo Mineral Yellow...'
 sku: 'B07MMWN4RR-es'
 tags: [ 'sudadera', ]

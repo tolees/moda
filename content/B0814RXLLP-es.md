@@ -5,7 +5,7 @@ date: 2020-06-28 20:34:18
 image: 'https://m.media-amazon.com/images/I/41GTz65g5KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814RXLLP-es Under Armour Global Football Tag Camisa Manga Corta Hombre...'
 sku: 'B0814RXLLP-es'
 tags: [ 'camisa', ]

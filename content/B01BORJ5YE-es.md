@@ -5,7 +5,7 @@ date: 2020-01-17 12:03:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413cKcYx3pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BORJ5YE-es Erima GmbH Classic Team Chaqueta para Todo Tiempo Unisex...'
 sku: 'B01BORJ5YE-es'
 tags: [ 'chaqueta', ]

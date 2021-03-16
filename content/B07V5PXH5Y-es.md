@@ -5,7 +5,7 @@ date: 2020-09-06 13:16:00
 image: 'https://m.media-amazon.com/images/I/51PiXzAMJNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5PXH5Y-es Kipling NEW ELDORADO Bolso bandolera 20 cm 1 litros...'
 sku: 'B07V5PXH5Y-es'
 tags: [ 'bolso', ]

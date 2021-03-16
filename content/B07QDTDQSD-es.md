@@ -5,7 +5,7 @@ date: 2020-04-07 11:15:52
 image: 'https://m.media-amazon.com/images/I/416U+wxyfmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDTDQSD-es Unisun Gafas de natación Niños Adultos Gafas de natación...'
 sku: 'B07QDTDQSD-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-01-05 10:36:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xwTg4J7GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1NKHM-es PUMA Monarch IT Jr Zapatos de Futsal Unisex Niños Black...'
 sku: 'B07KG1NKHM-es'
 tags: [ 'zapatos', ]

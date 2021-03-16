@@ -5,7 +5,7 @@ date: 2020-01-05 09:46:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ntu98sjhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J9RTS48-es INBIKE Gafas De Sol Polarizadas para Ciclismo con 5 Lentes...'
 sku: 'B01J9RTS48-es'
 tags: [ 'gafas', ]

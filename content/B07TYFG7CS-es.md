@@ -5,7 +5,7 @@ date: 2020-08-09 19:09:28
 image: 'https://m.media-amazon.com/images/I/41vJ6F6qKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYFG7CS-es BOSS T-Shirt RN 24 Camiseta Gris Medium Grey 32 Small para...'
 sku: 'B07TYFG7CS-es'
 tags: [ 'camiseta', ]

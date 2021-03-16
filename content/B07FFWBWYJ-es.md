@@ -5,7 +5,7 @@ date: 2020-01-02 07:06:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41scYxEdoZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFWBWYJ-es Eono Essentials - Chaqueta impermeable para hombre con...'
 sku: 'B07FFWBWYJ-es'
 tags: [ 'chaqueta', ]

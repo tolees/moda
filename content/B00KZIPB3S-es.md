@@ -5,7 +5,7 @@ date: 2020-08-24 19:11:40
 image: 'https://m.media-amazon.com/images/I/310AQ1f-pPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KZIPB3S-es SOLS - Camiseta básica de Manga Corta Modelo Regent Unisex...'
 sku: 'B00KZIPB3S-es'
 tags: [ 'camiseta', ]

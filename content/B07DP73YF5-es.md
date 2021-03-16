@@ -5,7 +5,7 @@ date: 2020-09-12 18:02:27
 image: 'https://m.media-amazon.com/images/I/41zEjc4bM3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP73YF5-es Eastpak The One Bolso bandolera 21 cm 2.5 L Azul Triple Denim'
 sku: 'B07DP73YF5-es'
 tags: [ 'bolso', ]

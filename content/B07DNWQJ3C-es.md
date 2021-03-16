@@ -5,7 +5,7 @@ date: 2020-03-11 10:34:33
 image: 'https://m.media-amazon.com/images/I/41msjQ6cu3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNWQJ3C-es LPUK Moda Mujer Cuadrado De Gran Tamaño Lentes de...'
 sku: 'B07DNWQJ3C-es'
 tags: [ 'gafas','moda', ]

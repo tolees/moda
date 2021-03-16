@@ -5,7 +5,7 @@ date: 2020-01-03 15:59:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ze40jBkiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XMLH36W-es AURIQUE BAL1178 Leggings Deporte Mujer Morado...'
 sku: 'B07XMLH36W-es'
 tags: [ 'aurique', ]

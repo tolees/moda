@@ -5,7 +5,7 @@ date: 2020-01-07 05:02:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51UR2FXFNJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C7B52PW-es Guantes para la artritis Brace Master One guantes de...'
 sku: 'B07C7B52PW-es'
 tags: [ 'guantes', ]

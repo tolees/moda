@@ -5,7 +5,7 @@ date: 2020-01-14 20:08:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31--MybSb0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJWXJ6H-es El Naturalista N5353 VAQUETILLA Aqua Sandalias con Correa...'
 sku: 'B07KJWXJ6H-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-07-03 19:40:35
 image: 'https://m.media-amazon.com/images/I/41T8DyCERwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLB15DF-es Corrector de Postura Espalda y Hombros Para Hombre y Mujer...'
 sku: 'B07CLB15DF-es'
 tags: [ 'chaleco', ]

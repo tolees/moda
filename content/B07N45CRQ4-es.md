@@ -5,7 +5,7 @@ date: 2020-05-05 11:08:12
 image: 'https://m.media-amazon.com/images/I/41k3RWHLI1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N45CRQ4-es United Colors of Benetton Highlands Man Abrigo Marrón 2c0...'
 sku: 'B07N45CRQ4-es'
 tags: [ 'abrigo', ]

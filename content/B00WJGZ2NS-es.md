@@ -5,7 +5,7 @@ date: 2020-02-20 20:22:59
 image: 'https://m.media-amazon.com/images/I/41oD7cVMxPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WJGZ2NS-es Burberry 0BE4203 336973 57 Gafas de sol Marrón Gradient...'
 sku: 'B00WJGZ2NS-es'
 tags: [ 'gafas', ]

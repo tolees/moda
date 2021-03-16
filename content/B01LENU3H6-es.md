@@ -5,7 +5,7 @@ date: 2020-06-23 10:02:40
 image: 'https://m.media-amazon.com/images/I/41nrBI5GbYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LENU3H6-es BOSS Brief CO/EL Bóxer Multicolor Assorted Pre-Pack 999...'
 sku: 'B01LENU3H6-es'
 tags: [ 'bóxer', ]

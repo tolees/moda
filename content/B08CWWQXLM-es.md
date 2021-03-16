@@ -5,7 +5,7 @@ date: 2020-08-28 17:12:25
 image: 'https://m.media-amazon.com/images/I/416z-7e5GXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CWWQXLM-es Paoseven Us - Camiseta de manga corta unisex color negro...'
 sku: 'B08CWWQXLM-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-25 11:35:36
 image: 'https://m.media-amazon.com/images/I/51sDtRDEvEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SX6GSS8-es Moonssy Leggins Reductores Adelgazantes Pantalones de...'
 sku: 'B07SX6GSS8-es'
 tags: [ 'leggins', ]

@@ -5,7 +5,7 @@ date: 2020-01-31 08:32:56
 image: 'https://m.media-amazon.com/images/I/51A3f5iTE+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JRDXDYB-es Tommy Hilfiger TH Essential Shirt LS W2 Blusa Azul Easy...'
 sku: 'B07JRDXDYB-es'
 tags: [ 'blusa', ]

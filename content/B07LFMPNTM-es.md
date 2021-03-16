@@ -5,7 +5,7 @@ date: 2020-01-12 16:23:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51NaG%2BRks%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFMPNTM-es Levi s LS Baby tee Camiseta Multicolor Koronis Meteorite...'
 sku: 'B07LFMPNTM-es'
 tags: [ 'camiseta', ]

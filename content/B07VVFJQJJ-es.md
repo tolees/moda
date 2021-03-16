@@ -5,7 +5,7 @@ date: 2020-10-06 11:52:12
 image: 'https://m.media-amazon.com/images/I/41fT4d0raWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVFJQJJ-es Tommy Hilfiger TJM Circle Logo tee Camiseta Deporte Gris...'
 sku: 'B07VVFJQJJ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-15 12:41:25
 image: 'https://m.media-amazon.com/images/I/31uUnq4xJXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHNPPT4-es Tamaris 1-1-25059-23 Botines para Mujer Rojo Bordeaux 549...'
 sku: 'B07NHNPPT4-es'
 tags: [ 'botines', ]

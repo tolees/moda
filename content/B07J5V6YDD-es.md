@@ -5,7 +5,7 @@ date: 2020-01-02 14:16:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31A90DaxC8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5V6YDD-es Hawiton Pijama Mujer de Algodón Invierno Otoño Mangas...'
 sku: 'B07J5V6YDD-es'
 tags: [ 'pijama', ]

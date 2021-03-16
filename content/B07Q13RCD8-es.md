@@ -5,7 +5,7 @@ date: 2020-06-24 08:04:16
 image: 'https://m.media-amazon.com/images/I/31fzyuFn3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q13RCD8-es Under Armour UA Core PTH SL Zapatos de Playa y Piscina...'
 sku: 'B07Q13RCD8-es'
 tags: [ 'zapatos', ]

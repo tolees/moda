@@ -5,7 +5,7 @@ date: 2020-04-13 13:03:56
 image: 'https://m.media-amazon.com/images/I/31-mBokhRRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3VH5V-es Geox D Annya High A Zapatos de Tacón para Mujer Beige...'
 sku: 'B07DJ3VH5V-es'
 tags: [ 'geox','zapatos', ]

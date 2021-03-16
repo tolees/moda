@@ -5,7 +5,7 @@ date: 2020-03-28 14:40:23
 image: 'https://m.media-amazon.com/images/I/41lYy0fjg4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RSDVM9-es Pepe Jeans Hiddleston PM305474 Camisa Azul Indigo 561...'
 sku: 'B079RSDVM9-es'
 tags: [ 'camisa', ]

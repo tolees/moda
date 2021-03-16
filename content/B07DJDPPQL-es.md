@@ -5,7 +5,7 @@ date: 2020-04-22 08:28:51
 image: 'https://m.media-amazon.com/images/I/31Noc4BxwXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJDPPQL-es Tommy Hilfiger Essential TH Beach Sandal Chanclas para...'
 sku: 'B07DJDPPQL-es'
 tags: [ 'chanclas', ]

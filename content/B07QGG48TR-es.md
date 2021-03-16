@@ -5,7 +5,7 @@ date: 2020-03-09 16:32:26
 image: 'https://m.media-amazon.com/images/I/41u64R+US8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGG48TR-es PUMA Collective Woven Jacket Chaqueta de Entrenamiento...'
 sku: 'B07QGG48TR-es'
 tags: [ 'chaqueta', ]

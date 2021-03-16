@@ -5,7 +5,7 @@ date: 2020-08-02 11:40:38
 image: 'https://m.media-amazon.com/images/I/41n6MooHT8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PL6CQ7J-es Geox U Mattias B ABX A Botas Chukka para Hombre Negro...'
 sku: 'B07PL6CQ7J-es'
 tags: [ 'geox', ]

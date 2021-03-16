@@ -5,7 +5,7 @@ date: 2020-06-01 20:17:48
 image: 'https://m.media-amazon.com/images/I/41snBa70KFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BEAX3I-es Calvin Klein 3P Trunk Bóxer para Hombre Blanco M Pack de 3'
 sku: 'B001BEAX3I-es'
 tags: [ 'bóxer', ]

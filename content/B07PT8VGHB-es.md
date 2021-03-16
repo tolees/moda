@@ -5,7 +5,7 @@ date: 2020-09-19 07:58:16
 image: 'https://m.media-amazon.com/images/I/41xMf-KFxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT8VGHB-es Under Armour UA Knockout Tank Camiseta de Tirantes...'
 sku: 'B07PT8VGHB-es'
 tags: [ 'camiseta', ]

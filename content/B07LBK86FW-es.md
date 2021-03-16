@@ -5,7 +5,7 @@ date: 2020-01-23 21:42:28
 image: 'https://m.media-amazon.com/images/I/41vxrNZysOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBK86FW-es Tommy Hilfiger Saba Short Packable Windbreaker Chaqueta...'
 sku: 'B07LBK86FW-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-31 16:46:12
 image: 'https://m.media-amazon.com/images/I/41VCr7AQ3xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WWV69S-es LSERVER Chaqueta de Otoño e Invierno para Niña Acolchada...'
 sku: 'B075WWV69S-es'
 tags: [ 'abrigo','chaqueta', ]

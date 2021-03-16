@@ -5,7 +5,7 @@ date: 2020-04-10 20:04:16
 image: 'https://m.media-amazon.com/images/I/31hB+6VkvvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRD5MQJ-es HAWKERS · DREAM · Silver · Chrome · Gafas de sol para...'
 sku: 'B07RRD5MQJ-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 05:43:06
 image: 'https://m.media-amazon.com/images/I/41JUBrLPxTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFL9X2L-es Tommy Hilfiger Cheeky String Side Tie Bikini Braguita...'
 sku: 'B07DFL9X2L-es'
 tags: [ 'bikini', ]

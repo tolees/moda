@@ -5,7 +5,7 @@ date: 2020-04-10 19:52:57
 image: 'https://m.media-amazon.com/images/I/41Gs5UNA3WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ8M71G-es Springfield 7.J.Ap.T.Turtle Neck Jersey Azul Azul 19 Large...'
 sku: 'B07NJ8M71G-es'
 tags: [ 'jersey', ]

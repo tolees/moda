@@ -5,7 +5,7 @@ date: 2020-05-27 10:03:44
 image: 'https://m.media-amazon.com/images/I/51lWgjr1FiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNKZLF2-es Apretón de Zapatos Crampones Nieve Accesorios Deportivo...'
 sku: 'B07FNKZLF2-es'
 tags: [ 'zapatos', ]

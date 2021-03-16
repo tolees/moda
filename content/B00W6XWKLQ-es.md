@@ -5,7 +5,7 @@ date: 2020-01-08 20:58:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FyaCSwBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W6XWKLQ-es GANT Regular Jeans Vaqueros Straight Marrón Desert Brown...'
 sku: 'B00W6XWKLQ-es'
 tags: [ 'vaqueros', ]

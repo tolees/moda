@@ -5,7 +5,7 @@ date: 2020-05-31 05:22:11
 image: 'https://m.media-amazon.com/images/I/41WiGWIpOyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XKV1FK1-es ElegantPark HC1621 Zapatos para Novia Boda Tacon Bajo...'
 sku: 'B06XKV1FK1-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-04-12 08:04:46
 image: 'https://m.media-amazon.com/images/I/51-c+DHv+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXR2HKC-es Havaianas Stars Wars Chanclas Unisex Adulto Multicolor...'
 sku: 'B07FXR2HKC-es'
 tags: [ 'chanclas', ]

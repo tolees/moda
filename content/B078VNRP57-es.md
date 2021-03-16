@@ -5,7 +5,7 @@ date: 2020-07-09 22:38:41
 image: 'https://m.media-amazon.com/images/I/419c2F7oEYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078VNRP57-es B BIDEN BLDEN Mujer Grande Gafas De Sol moda polarizadas...'
 sku: 'B078VNRP57-es'
 tags: [ 'gafas','moda', ]

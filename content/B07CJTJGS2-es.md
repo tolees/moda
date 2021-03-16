@@ -5,7 +5,7 @@ date: 2020-09-23 15:01:16
 image: 'https://m.media-amazon.com/images/I/41DZrzX3xzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJTJGS2-es Levi s SS Original Hm tee Camiseta Multicolor Cotton +...'
 sku: 'B07CJTJGS2-es'
 tags: [ 'camiseta', ]

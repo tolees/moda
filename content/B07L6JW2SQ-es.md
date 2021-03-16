@@ -5,7 +5,7 @@ date: 2020-03-03 12:07:08
 image: 'https://m.media-amazon.com/images/I/316sAMnM7nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6JW2SQ-es Under Armour Armour Insulated Hooded Chaqueta Mujer Gris XL'
 sku: 'B07L6JW2SQ-es'
 tags: [ 'chaqueta', ]

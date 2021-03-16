@@ -5,7 +5,7 @@ date: 2020-06-11 14:44:23
 image: 'https://m.media-amazon.com/images/I/41Z9LJuxE2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3TYLQL-es Desigual Dress HILIER Vestido Verde Verde Jack 4074 46...'
 sku: 'B07N3TYLQL-es'
 tags: [ 'vestido', ]

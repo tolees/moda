@@ -5,7 +5,7 @@ date: 2020-01-21 11:30:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415Dxnv4DFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H2DON6E-es Desires Jacket-Anine-A Long Chaqueta Azul XS para Mujer'
 sku: 'B01H2DON6E-es'
 tags: [ 'chaqueta', ]

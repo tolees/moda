@@ -5,7 +5,7 @@ date: 2020-01-12 13:04:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41L58VE9USL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVGWW5R-es Kipling Gleam Bolso de Tocador para Mujer Gris Night Grey...'
 sku: 'B07MVGWW5R-es'
 tags: [ 'bolso', ]

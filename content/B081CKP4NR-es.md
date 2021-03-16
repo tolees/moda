@@ -5,7 +5,7 @@ date: 2020-02-07 09:49:04
 image: 'https://m.media-amazon.com/images/I/41cvx8i+krL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CKP4NR-es Geographical Norway Chaqueta Hombre BOKER MARRÓN L'
 sku: 'B081CKP4NR-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-10 10:23:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417DuGrNkYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D9XTY7K-es Rhino- Falda pantalón de deporte para mujer'
 sku: 'B00D9XTY7K-es'
 tags: [ 'falda','pantalón', ]

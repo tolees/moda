@@ -5,7 +5,7 @@ date: 2020-01-10 17:40:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31T%2Bteljs%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0014C5RSS-es Crocs Classic Clog Zuecos Unisex Adulto Verde Army Green...'
 sku: 'B0014C5RSS-es'
 tags: [ 'zuecos', ]

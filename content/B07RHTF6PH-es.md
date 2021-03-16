@@ -5,7 +5,7 @@ date: 2020-10-02 13:22:37
 image: 'https://m.media-amazon.com/images/I/31S+z8DqEsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHTF6PH-es adidas Streetcheck Zapatos de Baloncesto para Hombre...'
 sku: 'B07RHTF6PH-es'
 tags: [ 'zapatos', ]

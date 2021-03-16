@@ -5,7 +5,7 @@ date: 2020-02-08 08:29:11
 image: 'https://m.media-amazon.com/images/I/31dS4rjP96L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGSNKKW-es Pepe Jeans Finsbury Pm200338 Vaqueros Skinny Grey Wiser...'
 sku: 'B07JGSNKKW-es'
 tags: [ 'vaqueros', ]

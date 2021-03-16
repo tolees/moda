@@ -5,7 +5,7 @@ date: 2020-05-10 09:59:20
 image: 'https://m.media-amazon.com/images/I/415fIl2WV5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMPK71-es Levi s Relaxed Graphic Crewneck Sudadera Blanco 90 s Serif...'
 sku: 'B07RYMPK71-es'
 tags: [ 'sudadera', ]

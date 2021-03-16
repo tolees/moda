@@ -5,7 +5,7 @@ date: 2020-07-16 11:17:40
 image: 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDNGQ9-es Levi s The Original Camiseta Verde Hm Patch OG Hm tee...'
 sku: 'B07TKDNGQ9-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-09-24 13:34:45
 image: 'https://m.media-amazon.com/images/I/31pmro-eNUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDNG7Z-es Levi s Crewneck 1 Camiseta Azul 2pk Slim Crew Dress Blues...'
 sku: 'B07TKDNG7Z-es'
 tags: [ 'camiseta', ]

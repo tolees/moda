@@ -5,7 +5,7 @@ date: 2020-06-24 14:56:23
 image: 'https://m.media-amazon.com/images/I/318YEM8NmcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSJFC3D-es Marca Amazon - IRIS & LILLY Sporty Cotton - Braguita Mujer...'
 sku: 'B07YSJFC3D-es'
 tags: [ '&','iris','lilly', ]

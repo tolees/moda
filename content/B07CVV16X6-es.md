@@ -5,7 +5,7 @@ date: 2020-08-30 16:23:40
 image: 'https://m.media-amazon.com/images/I/61mtivtSSwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVV16X6-es Foino Bolso Bandolera Mujer Moda Bolsa Diseño Bolsas de...'
 sku: 'B07CVV16X6-es'
 tags: [ 'bolso','moda', ]

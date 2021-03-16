@@ -5,7 +5,7 @@ date: 2020-03-02 16:10:14
 image: 'https://m.media-amazon.com/images/I/31u2MYnxWyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079WF7RHL-es Carrera 154/S Gafas de sol Negro MTT BLACK 51 Unisex Adulto'
 sku: 'B079WF7RHL-es'
 tags: [ 'gafas', ]

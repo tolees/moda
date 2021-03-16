@@ -5,7 +5,7 @@ date: 2020-01-02 08:52:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51CTCMNMjwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076SDS8KV-es find. Camisa con Cuello Alado Mujer Negro Black/ivory 40...'
 sku: 'B076SDS8KV-es'
 tags: [ 'camisa', ]

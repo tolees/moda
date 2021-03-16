@@ -5,7 +5,7 @@ date: 2020-02-26 21:29:02
 image: 'https://m.media-amazon.com/images/I/41Wl-r59t3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF67PY5-es Levi s Housemark Graphic tee Camiseta Azul Hm Outline...'
 sku: 'B07LF67PY5-es'
 tags: [ 'camiseta', ]

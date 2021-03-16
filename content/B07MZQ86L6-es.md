@@ -5,7 +5,7 @@ date: 2020-05-19 14:08:20
 image: 'https://m.media-amazon.com/images/I/41BI73H2QML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ86L6-es Pepe Jeans Hatch Vaqueros Slim 120z Deep Sea Denim Denim...'
 sku: 'B07MZQ86L6-es'
 tags: [ 'vaqueros', ]

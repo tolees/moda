@@ -5,7 +5,7 @@ date: 2020-07-01 08:02:54
 image: 'https://m.media-amazon.com/images/I/31DeRYJ1KCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZP5MPC1-es Alvivi Bolero Fiesta Bebé Niñas para Boda Abrigo Manga...'
 sku: 'B07ZP5MPC1-es'
 tags: [ 'abrigo','vestido', ]

@@ -5,7 +5,7 @@ date: 2020-07-23 21:01:03
 image: 'https://m.media-amazon.com/images/I/41YOhCA0g2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCKKDSY-es Pepe Jeans Hatch Vaqueros Blue Denim Z45 34W / 30L para...'
 sku: 'B06XCKKDSY-es'
 tags: [ 'vaqueros', ]

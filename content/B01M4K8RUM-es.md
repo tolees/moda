@@ -5,7 +5,7 @@ date: 2020-02-18 18:04:04
 image: 'https://m.media-amazon.com/images/I/51i6kY3CvhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4K8RUM-es Collares para Parejas Anillo Acero Inoxidable Regalo Amor...'
 sku: 'B01M4K8RUM-es'
 tags: [ 'moda', ]

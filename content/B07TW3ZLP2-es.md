@@ -5,7 +5,7 @@ date: 2020-07-11 07:43:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mZ0eTzZ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TW3ZLP2-es Zapatos de Seguridad para Hombre con Puntera de Acero...'
 sku: 'B07TW3ZLP2-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-21 13:27:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vpbyf-z7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB7TXGR-es Columbia Pike Lake Chaqueta Mujer Amarillo Raw Honey M'
 sku: 'B07RB7TXGR-es'
 tags: [ 'chaqueta', ]

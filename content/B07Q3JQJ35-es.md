@@ -5,7 +5,7 @@ date: 2020-01-26 16:18:19
 image: 'https://m.media-amazon.com/images/I/41efyk6rTEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3JQJ35-es Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 [[No Apto...'
 sku: 'B07Q3JQJ35-es'
 tags: [ 'moda', ]

@@ -5,7 +5,7 @@ date: 2020-01-31 22:05:33
 image: 'https://m.media-amazon.com/images/I/31MdNxLfSDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPB4HSQ-es OBEEII Vestidos Princesa Sofia Disfraz para niñas Vestido...'
 sku: 'B07VPB4HSQ-es'
 tags: [ 'vestido', ]

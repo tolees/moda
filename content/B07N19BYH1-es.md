@@ -5,7 +5,7 @@ date: 2020-02-04 11:53:12
 image: 'https://m.media-amazon.com/images/I/41KBx9G0s0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19BYH1-es Lee Hoodie SWS Sudadera para Hombre Rojo Warp Red Kg XX-Large'
 sku: 'B07N19BYH1-es'
 tags: [ 'sudadera', ]

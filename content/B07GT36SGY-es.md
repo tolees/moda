@@ -5,7 +5,7 @@ date: 2020-03-04 12:27:19
 image: 'https://m.media-amazon.com/images/I/31QrPC258xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT36SGY-es PUMA Active Soft tee Camiseta Hombre Blanco 2XL'
 sku: 'B07GT36SGY-es'
 tags: [ 'camiseta', ]

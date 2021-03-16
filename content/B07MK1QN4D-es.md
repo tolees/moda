@@ -5,7 +5,7 @@ date: 2020-03-03 09:23:34
 image: 'https://m.media-amazon.com/images/I/41UYgGjCN1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QN4D-es Napapijri Rainforest Winter 1 Chaqueta Amarillo Yellow...'
 sku: 'B07MK1QN4D-es'
 tags: [ 'chaqueta', ]

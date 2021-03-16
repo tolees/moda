@@ -5,7 +5,7 @@ date: 2020-04-13 08:30:16
 image: 'https://m.media-amazon.com/images/I/41B2PZ8NtDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWMFXTV-es AiRunTech Cintura Fanny Pack Riñoneras Deportivas Cinturón...'
 sku: 'B07RWMFXTV-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-02-01 23:20:48
 image: 'https://m.media-amazon.com/images/I/41DERJ0hhFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL6TQ7-es G-STAR RAW Graphic 14 Core Hooded Sudadera Negro Dk Black...'
 sku: 'B07NDL6TQ7-es'
 tags: [ 'sudadera', ]

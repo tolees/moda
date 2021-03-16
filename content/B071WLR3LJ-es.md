@@ -5,7 +5,7 @@ date: 2020-02-01 00:30:35
 image: 'https://m.media-amazon.com/images/I/41HNMa+ZGKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WLR3LJ-es Crocs Crocband U Zuecos Unisex Adulto Amarillo Tennis Ball...'
 sku: 'B071WLR3LJ-es'
 tags: [ 'zuecos', ]

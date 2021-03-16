@@ -5,7 +5,7 @@ date: 2020-05-18 12:34:20
 image: 'https://m.media-amazon.com/images/I/41aRFK1tFjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G4FYZSC-es Asics Hyper MD 6 Unisex Zapatilla Running De Clavos - 42'
 sku: 'B01G4FYZSC-es'
 tags: [ 'zapatilla', ]

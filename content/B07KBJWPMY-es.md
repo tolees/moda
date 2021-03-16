@@ -5,7 +5,7 @@ date: 2020-05-07 09:42:24
 image: 'https://m.media-amazon.com/images/I/418XOHWcWUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBJWPMY-es Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo Marrón...'
 sku: 'B07KBJWPMY-es'
 tags: [ 'abrigo','moda', ]

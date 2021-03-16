@@ -5,7 +5,7 @@ date: 2020-01-09 15:58:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31C7tGnW1HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5TNYXH-es Celio Maestro Camisa Blanc Large para Hombre'
 sku: 'B07D5TNYXH-es'
 tags: [ 'camisa', ]

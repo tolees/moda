@@ -5,7 +5,7 @@ date: 2020-09-17 21:51:18
 image: 'https://m.media-amazon.com/images/I/41GucfFdsgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010WE7TQ6-es Crocs Classic Clog Zuecos Unisex Adulto Naranja Tangerine...'
 sku: 'B010WE7TQ6-es'
 tags: [ 'zuecos', ]

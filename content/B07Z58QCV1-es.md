@@ -5,7 +5,7 @@ date: 2020-08-03 22:19:07
 image: 'https://m.media-amazon.com/images/I/21IeVd40t9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z58QCV1-es Marca Amazon - Find. Sandalias abiertas para mujer Lattice...'
 sku: 'B07Z58QCV1-es'
 tags: [ '-','find.','sandalias', ]

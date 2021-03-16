@@ -5,7 +5,7 @@ date: 2020-04-06 11:51:53
 image: 'https://m.media-amazon.com/images/I/51BSfdxmqIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJFSD4-es Kipling Amiel Bolso de Mano Mediano para Mujer Multicolor...'
 sku: 'B07PSJFSD4-es'
 tags: [ 'bolso', ]

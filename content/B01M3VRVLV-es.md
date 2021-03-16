@@ -5,7 +5,7 @@ date: 2020-01-05 09:49:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41t687Dz7wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3VRVLV-es Pepe Jeans Spike Vaqueros Azul 11oz Streaky Vintage Used...'
 sku: 'B01M3VRVLV-es'
 tags: [ 'vaqueros', ]

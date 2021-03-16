@@ -5,7 +5,7 @@ date: 2020-09-05 13:55:56
 image: 'https://m.media-amazon.com/images/I/31kiPrlj6XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDY6Y9P-es OCTOBER Vestido Fluido Lyocell SALMÓN M'
 sku: 'B08CDY6Y9P-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-09-14 13:59:50
 image: 'https://m.media-amazon.com/images/I/31NLL8lgOoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HYDFVP4-es Gorila Cole Zapatos Unisex para Niños Azul Oscuro 34 EU'
 sku: 'B01HYDFVP4-es'
 tags: [ 'zapatos', ]

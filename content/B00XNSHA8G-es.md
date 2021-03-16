@@ -5,7 +5,7 @@ date: 2020-06-27 21:37:07
 image: 'https://m.media-amazon.com/images/I/31fTHaw3zKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XNSHA8G-es Pepe Jeans Cane Vaqueros Streaky Stretch Dk Z45 34W / 34L...'
 sku: 'B00XNSHA8G-es'
 tags: [ 'vaqueros', ]

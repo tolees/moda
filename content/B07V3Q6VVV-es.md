@@ -5,7 +5,7 @@ date: 2020-09-03 13:51:06
 image: 'https://m.media-amazon.com/images/I/417zAp5d9SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3Q6VVV-es Superdry Classic Trunk Triple Pack Bóxer Blanco White...'
 sku: 'B07V3Q6VVV-es'
 tags: [ 'bóxer', ]

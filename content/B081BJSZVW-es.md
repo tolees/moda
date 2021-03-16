@@ -5,7 +5,7 @@ date: 2020-09-04 11:11:22
 image: 'https://m.media-amazon.com/images/I/41SKdWY64NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BJSZVW-es Columbia Flashback Chaqueta cortavientos Hombre Gris/Negro...'
 sku: 'B081BJSZVW-es'
 tags: [ 'chaqueta', ]

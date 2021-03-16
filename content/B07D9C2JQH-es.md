@@ -5,7 +5,7 @@ date: 2020-01-19 19:40:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OIroPsJFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9C2JQH-es NNJXD Unicornio Arco Iris Tutú Primer Cumpleaños Trajes de...'
 sku: 'B07D9C2JQH-es'
 tags: [ 'falda', ]

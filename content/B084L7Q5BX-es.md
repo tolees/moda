@@ -5,7 +5,7 @@ date: 2020-05-29 14:40:22
 image: 'https://m.media-amazon.com/images/I/519kkx8cJiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084L7Q5BX-es Spiuk Sportline Zapatilla MTB ALDAPA Adultos Unisex...'
 sku: 'B084L7Q5BX-es'
 tags: [ 'zapatilla', ]

@@ -5,7 +5,7 @@ date: 2020-05-05 10:22:20
 image: 'https://m.media-amazon.com/images/I/51OMRHvSxLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LVTUC4P-es Tiebao Niños Difícil Suelo Artificial Velocidad PU Cuero...'
 sku: 'B01LVTUC4P-es'
 tags: [ 'zapatos', ]

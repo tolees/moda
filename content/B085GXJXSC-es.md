@@ -5,7 +5,7 @@ date: 2020-09-23 16:09:08
 image: 'https://m.media-amazon.com/images/I/31K4moOKT2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085GXJXSC-es Jack & Jones Jcogeek Sweat Hood Fst Sudadera con Capucha...'
 sku: 'B085GXJXSC-es'
 tags: [ 'sudadera', ]

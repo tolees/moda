@@ -5,7 +5,7 @@ date: 2020-03-22 13:09:10
 image: 'https://m.media-amazon.com/images/I/41l6XY2LogL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDKK8J2-es SELECTED HOMME Slhpadded Reversible Jacket B Chaqueta Rojo...'
 sku: 'B07VDKK8J2-es'
 tags: [ 'chaqueta', ]

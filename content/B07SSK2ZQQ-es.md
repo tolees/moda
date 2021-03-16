@@ -5,7 +5,7 @@ date: 2020-08-24 15:20:32
 image: 'https://m.media-amazon.com/images/I/41Q5temyQPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSK2ZQQ-es Geox D Sozy E Sandalias de Gladiador para Mujer Amarillo...'
 sku: 'B07SSK2ZQQ-es'
 tags: [ 'geox','sandalias', ]

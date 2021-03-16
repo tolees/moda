@@ -5,7 +5,7 @@ date: 2020-01-16 09:24:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31HsH8wz0OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D54GCKM-es HUGO Venzo Camisa Blanco Open White 199 XX-Large Talla del...'
 sku: 'B07D54GCKM-es'
 tags: [ 'camisa', ]

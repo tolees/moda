@@ -5,7 +5,7 @@ date: 2020-05-16 10:26:38
 image: 'https://m.media-amazon.com/images/I/416A3M+k6jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721WBBGL-es adidas Entrada 18 JSY Jersey de Fútbol de Manga Corta...'
 sku: 'B0721WBBGL-es'
 tags: [ 'jersey', ]

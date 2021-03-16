@@ -5,7 +5,7 @@ date: 2020-01-12 20:55:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AymgzebhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG7TB7R-es Pepe Jeans Chaplin 1973 Camiseta Blanco Optic White 802...'
 sku: 'B07JG7TB7R-es'
 tags: [ 'camiseta', ]

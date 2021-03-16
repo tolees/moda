@@ -5,7 +5,7 @@ date: 2020-09-21 18:45:09
 image: 'https://m.media-amazon.com/images/I/41qd9vCAnAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H4A8E4M-es Wrangler Texas Tonal Vaqueros Gris Graze 33W / 32L para...'
 sku: 'B01H4A8E4M-es'
 tags: [ 'vaqueros', ]

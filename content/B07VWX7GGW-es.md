@@ -5,7 +5,7 @@ date: 2020-10-05 15:31:41
 image: 'https://m.media-amazon.com/images/I/41hpLpOcE1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWX7GGW-es Pepe Jeans Theo Camiseta Azul Old Navy 584 Medium para Hombre'
 sku: 'B07VWX7GGW-es'
 tags: [ 'camiseta', ]

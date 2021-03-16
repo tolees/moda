@@ -5,7 +5,7 @@ date: 2020-03-30 17:22:15
 image: 'https://m.media-amazon.com/images/I/41JtASwxoML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3SPBNC-es Desigual Pullover MARYLEBONE Jersey Negro Storm Front 2104...'
 sku: 'B07N3SPBNC-es'
 tags: [ 'jersey', ]

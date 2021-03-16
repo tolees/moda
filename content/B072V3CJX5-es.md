@@ -5,7 +5,7 @@ date: 2020-01-31 22:36:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51E0iTsLSdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072V3CJX5-es Lifewit Bolsa Térmica Porta Alimentos con Paquete de Hielo...'
 sku: 'B072V3CJX5-es'
 tags: [ 'bolso', ]

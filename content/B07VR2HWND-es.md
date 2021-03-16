@@ -5,7 +5,7 @@ date: 2020-10-09 19:11:19
 image: 'https://m.media-amazon.com/images/I/313SlcZ6ZVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VR2HWND-es Lee Malone Vaqueros Washed Black OW 30W / 32L para Hombre'
 sku: 'B07VR2HWND-es'
 tags: [ 'vaqueros', ]

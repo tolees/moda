@@ -5,7 +5,7 @@ date: 2020-06-24 05:32:26
 image: 'https://m.media-amazon.com/images/I/418cOT65iuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZM1BRJ-es Under Armour Rival Fleece Logo Pantalones Cortos para...'
 sku: 'B07CZM1BRJ-es'
 tags: [ 'pantalón', ]

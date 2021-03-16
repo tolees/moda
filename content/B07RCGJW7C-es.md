@@ -5,7 +5,7 @@ date: 2020-01-09 15:38:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-MoeCxm1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCGJW7C-es Columbia Marquam Peak Chaqueta Hombre Marrón Camel Brown M'
 sku: 'B07RCGJW7C-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-02-27 12:05:25
 image: 'https://m.media-amazon.com/images/I/41PPpBYqRsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZJ2V2D-es Tommy Hilfiger Recycled Short Puffer Chaqueta Rojo Virtual...'
 sku: 'B07JZJ2V2D-es'
 tags: [ 'chaqueta', ]

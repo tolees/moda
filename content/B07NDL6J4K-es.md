@@ -5,7 +5,7 @@ date: 2020-03-21 23:10:11
 image: 'https://m.media-amazon.com/images/I/41IdaXtUrcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL6J4K-es G-STAR RAW Mysid Slim Round Neck Camiseta Multicolor Grey...'
 sku: 'B07NDL6J4K-es'
 tags: [ 'camiseta', ]

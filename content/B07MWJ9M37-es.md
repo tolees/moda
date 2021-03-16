@@ -5,7 +5,7 @@ date: 2020-03-15 11:07:48
 image: 'https://m.media-amazon.com/images/I/51EDW2r2IVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWJ9M37-es Mustang Chris KC Camisa Multicolor Check 11531 Large para...'
 sku: 'B07MWJ9M37-es'
 tags: [ 'camisa', ]

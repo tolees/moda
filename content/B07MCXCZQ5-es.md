@@ -5,7 +5,7 @@ date: 2020-05-14 15:07:14
 image: 'https://m.media-amazon.com/images/I/41NvB+5JfuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCXCZQ5-es Zapatillas de Deporte para niños Niños Zapatillas de...'
 sku: 'B07MCXCZQ5-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-04 10:17:49
 image: 'https://m.media-amazon.com/images/I/31uVuGVWxNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CSU1DHS-es Joma Campus II Camiseta de Juego Manga Corta Hombre...'
 sku: 'B01CSU1DHS-es'
 tags: [ 'camiseta', ]

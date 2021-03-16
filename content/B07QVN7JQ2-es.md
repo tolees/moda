@@ -5,7 +5,7 @@ date: 2020-09-23 18:04:53
 image: 'https://m.media-amazon.com/images/I/318NeNH793L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVN7JQ2-es Under Armour Challenger III Midlayer Camiseta de Hombre...'
 sku: 'B07QVN7JQ2-es'
 tags: [ 'camiseta', ]

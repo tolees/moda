@@ -5,7 +5,7 @@ date: 2020-08-09 08:53:24
 image: 'https://m.media-amazon.com/images/I/41dV0GsXozL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003YBSRLG-es Crocs Sexi Flip Women Sandalias para Mujer Negro...'
 sku: 'B003YBSRLG-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-03-16 17:45:45
 image: 'https://m.media-amazon.com/images/I/61Lwgaa9KnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP8SVVN-es Cra-Z-Art - Crea tu bolso de lentejuelas Shimmer n Sparkle...'
 sku: 'B07DP8SVVN-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-06-27 13:02:29
 image: 'https://m.media-amazon.com/images/I/51X6EtauDwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQVB4JV-es B Blesiya Juego deAjedrez Acrílico Magnético Portátil...'
 sku: 'B07NQVB4JV-es'
 tags: [ 'moda', ]

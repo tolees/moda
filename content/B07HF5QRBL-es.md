@@ -5,7 +5,7 @@ date: 2020-01-15 11:38:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416ST56mYUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HF5QRBL-es Bolso Mujer Pequeño Bolso Bandolera Mujer Pequeño Piel...'
 sku: 'B07HF5QRBL-es'
 tags: [ 'bolso', ]

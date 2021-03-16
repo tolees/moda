@@ -5,7 +5,7 @@ date: 2020-06-08 08:38:41
 image: 'https://m.media-amazon.com/images/I/41gNoTA4DML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD93JVL-es Helly Hansen Nord Graphic T-Shirt Camiseta Hombre Grey...'
 sku: 'B07SD93JVL-es'
 tags: [ 'camiseta', ]

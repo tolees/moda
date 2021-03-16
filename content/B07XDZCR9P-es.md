@@ -5,7 +5,7 @@ date: 2020-01-28 07:51:59
 image: 'https://m.media-amazon.com/images/I/41jUfOmgCCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDZCR9P-es edc by Esprit 099CC1G030 Abrigo Verde Dark Khaki 355 L...'
 sku: 'B07XDZCR9P-es'
 tags: [ 'abrigo', ]

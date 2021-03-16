@@ -5,7 +5,7 @@ date: 2020-01-10 01:14:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31EFmH0k5uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H9DBWUS-es VAUDE 50393005500 Abrigo y Chaqueta - Abrigos y Chaquetas...'
 sku: 'B00H9DBWUS-es'
 tags: [ 'abrigo','chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-07-22 05:39:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51YWpo%2B3CWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0744BRSJQ-es gracosy Alpargatas Zapatos de Mujer Caminando Zapatillas...'
 sku: 'B0744BRSJQ-es'
 tags: [ 'sandalias','zapatos', ]

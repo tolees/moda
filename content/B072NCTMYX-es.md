@@ -5,7 +5,7 @@ date: 2020-01-07 13:21:23
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072NCTMYX-es adidas ESS Lin Fzhoodb Sudadera Hombre Azul Maruni/Blanco XS'
 sku: 'B072NCTMYX-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-05-02 22:01:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zllkybqbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G7C9PT7-es MERAKI Boxy chaqueta punto Negro Black Medium'
 sku: 'B07G7C9PT7-es'
 tags: [ 'chaqueta','meraki', ]

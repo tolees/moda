@@ -5,7 +5,7 @@ date: 2020-02-15 21:14:15
 image: 'https://m.media-amazon.com/images/I/51SBT6sQ7WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792PYNL7-es CooBELL Bolso portátil a Ordenadores portátiles de 15 6...'
 sku: 'B0792PYNL7-es'
 tags: [ 'bolso', ]

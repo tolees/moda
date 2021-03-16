@@ -5,7 +5,7 @@ date: 2020-07-10 07:31:42
 image: 'https://m.media-amazon.com/images/I/31HjNKSilBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4MCCXZ-es Kipling Presto UP Organizador de Bolso 28 cm 1 Liters Gris...'
 sku: 'B07V4MCCXZ-es'
 tags: [ 'bolso', ]

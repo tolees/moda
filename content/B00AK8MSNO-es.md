@@ -5,7 +5,7 @@ date: 2020-06-09 13:45:42
 image: 'https://m.media-amazon.com/images/I/31uYLWgo8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AK8MSNO-es Superga 2750 COTU Classic Zapatilla de Deporte Unisexo...'
 sku: 'B00AK8MSNO-es'
 tags: [ 'zapatilla', ]

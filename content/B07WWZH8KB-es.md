@@ -5,7 +5,7 @@ date: 2020-08-27 17:40:46
 image: 'https://m.media-amazon.com/images/I/31CbjUoj-ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWZH8KB-es Skechers Sargo REYON Chanclas para Hombre Negro Negro Lona...'
 sku: 'B07WWZH8KB-es'
 tags: [ 'chanclas', ]

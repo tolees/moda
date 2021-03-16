@@ -5,7 +5,7 @@ date: 2020-08-11 14:03:20
 image: 'https://m.media-amazon.com/images/I/41GRM1rydVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1VT6W6-es Tommy Hilfiger TJM Corp Logo tee Camiseta Deporte Blanco...'
 sku: 'B07W1VT6W6-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-19 08:58:23
 image: 'https://m.media-amazon.com/images/I/41u2urRZAgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0722RQ6RT-es El Naturalista N5142 Capretto Nectar Botines para Mujer...'
 sku: 'B0722RQ6RT-es'
 tags: [ 'botines', ]

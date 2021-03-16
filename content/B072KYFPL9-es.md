@@ -5,7 +5,7 @@ date: 2020-07-23 05:12:53
 image: 'https://m.media-amazon.com/images/I/31uB1cWJ-0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KYFPL9-es SELECTED HOMME Shhcollect Shirt Ls R Noos Camisa Hombre...'
 sku: 'B072KYFPL9-es'
 tags: [ 'camisa', ]

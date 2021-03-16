@@ -5,7 +5,7 @@ date: 2020-05-11 11:55:33
 image: 'https://m.media-amazon.com/images/I/510+b3E9YjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XFTMFRY-es Marca Amazon - find. Camisa Hombre Azul Blue Palm L Label: L'
 sku: 'B06XFTMFRY-es'
 tags: [ '-','camisa','find.', ]

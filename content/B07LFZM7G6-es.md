@@ -5,7 +5,7 @@ date: 2020-01-22 12:55:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31htBToEerL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZM7G6-es Geox D ANNYTAH C Bailarinas para Mujer Marrón Chestnut...'
 sku: 'B07LFZM7G6-es'
 tags: [ 'geox', ]

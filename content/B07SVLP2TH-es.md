@@ -5,7 +5,7 @@ date: 2020-02-04 16:39:21
 image: 'https://m.media-amazon.com/images/I/31Rk4F3bmeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVLP2TH-es Greylags 100% Algodón Prima Camiseta | Cuello Redondo |...'
 sku: 'B07SVLP2TH-es'
 tags: [ 'camiseta','chaleco', ]

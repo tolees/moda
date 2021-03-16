@@ -5,7 +5,7 @@ date: 2020-05-26 21:36:47
 image: 'https://m.media-amazon.com/images/I/41Crr7BgfCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMHG9Z8-es Levi s Barstow Western Standard Camisa Azul Red Cast Stone...'
 sku: 'B07TMHG9Z8-es'
 tags: [ 'camisa', ]

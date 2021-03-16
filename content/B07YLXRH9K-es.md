@@ -5,7 +5,7 @@ date: 2020-04-19 10:25:37
 image: 'https://m.media-amazon.com/images/I/4187ZsUffWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YLXRH9K-es Maglev Essentials Bdx014am2 Pijama Multicolor Navy Red...'
 sku: 'B07YLXRH9K-es'
 tags: [ 'pijama', ]

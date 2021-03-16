@@ -5,7 +5,7 @@ date: 2020-02-25 08:02:14
 image: 'https://m.media-amazon.com/images/I/31pI5sLLyUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RX1Z2CF-es BILLABONG All Night tee Camiseta Mujer Negro Black 19 One...'
 sku: 'B07RX1Z2CF-es'
 tags: [ 'camiseta', ]

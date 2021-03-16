@@ -5,7 +5,7 @@ date: 2020-09-22 18:06:09
 image: 'https://m.media-amazon.com/images/I/31JGj0R2JWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WWQ0QRC-es Jack & Jones Jjprparma Shirt L/s Noos Camisa Weiß...'
 sku: 'B00WWQ0QRC-es'
 tags: [ 'camisa', ]

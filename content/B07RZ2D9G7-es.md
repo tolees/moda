@@ -5,7 +5,7 @@ date: 2020-06-06 18:35:54
 image: 'https://m.media-amazon.com/images/I/41mtFMIHcgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ2D9G7-es BILLABONG™ - Camiseta de Manga Corta - Hombre - S - Negro'
 sku: 'B07RZ2D9G7-es'
 tags: [ 'camiseta', ]

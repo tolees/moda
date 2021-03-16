@@ -5,7 +5,7 @@ date: 2020-10-10 18:54:34
 image: 'https://m.media-amazon.com/images/I/31swTw2FIdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A22PZ5G-es Levi s 511 Slim Fit Vaqueros Rain Shower 40W / 34L para...'
 sku: 'B00A22PZ5G-es'
 tags: [ 'vaqueros', ]

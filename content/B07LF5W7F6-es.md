@@ -5,7 +5,7 @@ date: 2020-02-17 10:20:50
 image: 'https://m.media-amazon.com/images/I/41oihmyeSIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF5W7F6-es Levi s Colorblock Windrunner Chaqueta Rojo Chinese Red...'
 sku: 'B07LF5W7F6-es'
 tags: [ 'chaqueta', ]

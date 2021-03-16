@@ -5,7 +5,7 @@ date: 2020-01-16 15:10:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q1VbIXC1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GYTPMY-es Lico Milan Zapatos de High Rise Senderismo para Hombre...'
 sku: 'B071GYTPMY-es'
 tags: [ 'zapatos', ]

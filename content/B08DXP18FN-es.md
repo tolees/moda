@@ -5,7 +5,7 @@ date: 2020-08-15 08:01:17
 image: 'https://m.media-amazon.com/images/I/41y4vLkMOdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DXP18FN-es Ocobudbxw Pulseras Coloridas Cuentas de Dados de acrílico...'
 sku: 'B08DXP18FN-es'
 tags: [ 'moda', ]

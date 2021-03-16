@@ -5,7 +5,7 @@ date: 2020-08-28 19:01:13
 image: 'https://m.media-amazon.com/images/I/51nE+lFH-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CLH7XG-es emansmoer Niños exterior resistente al agua Softshell para...'
 sku: 'B076CLH7XG-es'
 tags: [ 'abrigo', ]

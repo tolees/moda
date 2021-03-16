@@ -5,7 +5,7 @@ date: 2020-05-06 19:37:53
 image: 'https://m.media-amazon.com/images/I/41rvjpK3vlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGJ6N29-es JACK & JONES Jcowill Puffer Chaqueta Gris Light Grey...'
 sku: 'B07VGJ6N29-es'
 tags: [ 'chaqueta', ]

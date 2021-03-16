@@ -5,7 +5,7 @@ date: 2020-05-12 12:07:52
 image: 'https://m.media-amazon.com/images/I/314rOTemvXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0733F1GNM-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
 sku: 'B0733F1GNM-es'
 tags: [ '-','find.','sudadera', ]

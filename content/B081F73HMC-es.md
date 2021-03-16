@@ -5,7 +5,7 @@ date: 2020-08-26 02:49:32
 image: 'https://m.media-amazon.com/images/I/51vLGBrTclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081F73HMC-es Voova 15 15.6 14 Pulgadas Funda Maletín Ordenador...'
 sku: 'B081F73HMC-es'
 tags: [ 'bolso', ]

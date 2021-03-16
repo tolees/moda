@@ -5,7 +5,7 @@ date: 2020-06-23 12:57:07
 image: 'https://m.media-amazon.com/images/I/41F7gyyvbqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PH3JYG3-es Scalpers New Oxford BD - Camisa para Hombre Talla 42 Color...'
 sku: 'B07PH3JYG3-es'
 tags: [ 'camisa', ]

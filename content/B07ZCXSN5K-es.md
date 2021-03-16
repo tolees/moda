@@ -5,7 +5,7 @@ date: 2020-10-06 07:26:15
 image: 'https://m.media-amazon.com/images/I/41957tCNMvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCXSN5K-es Cartera Mujer Cuero Auténtico Bloqueo RFID Billetera Mujer...'
 sku: 'B07ZCXSN5K-es'
 tags: [ 'billetera','monedero', ]

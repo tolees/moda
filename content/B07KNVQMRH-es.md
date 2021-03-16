@@ -5,7 +5,7 @@ date: 2020-09-11 17:13:39
 image: 'https://m.media-amazon.com/images/I/41W4S9a1G4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KNVQMRH-es adidas Freelift T Camiseta Hombre Negro Black XS'
 sku: 'B07KNVQMRH-es'
 tags: [ 'camiseta', ]

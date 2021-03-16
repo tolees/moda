@@ -5,7 +5,7 @@ date: 2020-02-02 00:01:20
 image: 'https://m.media-amazon.com/images/I/31+Ns13tdjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D9DW29G-es Khanomak - Camiseta - para Mujer Negro Negro S'
 sku: 'B01D9DW29G-es'
 tags: [ 'camiseta', ]

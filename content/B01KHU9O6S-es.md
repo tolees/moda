@@ -5,7 +5,7 @@ date: 2020-03-03 01:21:29
 image: 'https://m.media-amazon.com/images/I/51NkDDIN7AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KHU9O6S-es sitengle Mujeres Elegante Camisetas de Encaje Floral...'
 sku: 'B01KHU9O6S-es'
 tags: [ 'blusa', ]

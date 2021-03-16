@@ -5,7 +5,7 @@ date: 2020-01-19 20:25:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YdbRLi%2BCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EVPRTN6-es Calvin Klein BB Bottoms Up Braguita de bikini Azul Purity...'
 sku: 'B00EVPRTN6-es'
 tags: [ 'bikini', ]

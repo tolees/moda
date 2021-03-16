@@ -5,7 +5,7 @@ date: 2020-04-10 20:39:51
 image: 'https://m.media-amazon.com/images/I/31rBQq4htOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQWF4X6-es Clarks Edward Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07FQWF4X6-es'
 tags: [ 'zapatos', ]

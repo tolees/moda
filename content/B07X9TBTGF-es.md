@@ -5,7 +5,7 @@ date: 2020-02-22 06:33:52
 image: 'https://m.media-amazon.com/images/I/41uFGd3vaSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9TBTGF-es DANISH ENDURANCE Boxer Bambu Pack de 3 Negro XX-Large'
 sku: 'B07X9TBTGF-es'
 tags: [ 'boxer', ]

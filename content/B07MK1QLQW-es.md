@@ -5,7 +5,7 @@ date: 2020-04-09 19:03:46
 image: 'https://m.media-amazon.com/images/I/5155J3iBw8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QLQW-es Napapijri Gardiner Camisa Casual Multicolor Multicol Check...'
 sku: 'B07MK1QLQW-es'
 tags: [ 'camisa', ]

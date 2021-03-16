@@ -5,7 +5,7 @@ date: 2020-04-03 23:50:16
 image: 'https://m.media-amazon.com/images/I/41i5Gnzab+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH4P27W-es Pepe Jeans Belle Pg580920 Sudadera Grey Marl 933 4-5 años...'
 sku: 'B07JH4P27W-es'
 tags: [ 'sudadera', ]

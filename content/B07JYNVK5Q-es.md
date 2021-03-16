@@ -5,7 +5,7 @@ date: 2020-02-26 08:38:25
 image: 'https://m.media-amazon.com/images/I/31REeweFS9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYNVK5Q-es Tommy Hilfiger Colorful Tommy Flat Sandal Sandalias con...'
 sku: 'B07JYNVK5Q-es'
 tags: [ 'sandalias', ]

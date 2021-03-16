@@ -5,7 +5,7 @@ date: 2020-03-08 11:00:12
 image: 'https://m.media-amazon.com/images/I/31acbqPLuYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7THTRF-es Reebok Classic Slide Zapatos de Playa y Piscina Unisex...'
 sku: 'B07K7THTRF-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 15:51:16
 image: 'https://m.media-amazon.com/images/I/41nNaXWJFvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMHGSNM-es Levi s Relaxed Graphic Hoodie Sudadera Azul Boxtab Pop...'
 sku: 'B07TMHGSNM-es'
 tags: [ 'sudadera', ]

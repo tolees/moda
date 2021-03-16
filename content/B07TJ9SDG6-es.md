@@ -5,7 +5,7 @@ date: 2020-04-04 16:56:02
 image: 'https://m.media-amazon.com/images/I/41Y3gYskt8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9SDG6-es Levi s Sportswear Logo Graphic Camiseta Negro Ssnl Sw...'
 sku: 'B07TJ9SDG6-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-17 08:03:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31MnRlYobeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXS74SW-es Timezone Tight Taviratz 7/8 Vaqueros Slim Blanco Dark Navy...'
 sku: 'B07GXS74SW-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-02-09 10:19:15
 image: 'https://m.media-amazon.com/images/I/41fp5phPYvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY3Q1Y5-es Superdry Padded Elite Jacket Chaqueta Negro Jet Black 12a...'
 sku: 'B07NY3Q1Y5-es'
 tags: [ 'chaqueta', ]

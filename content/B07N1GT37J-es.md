@@ -5,7 +5,7 @@ date: 2020-09-27 18:08:38
 image: 'https://m.media-amazon.com/images/I/31hoTQEvPAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GT37J-es Clarks Griffin Lane Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1GT37J-es'
 tags: [ 'zapatos', ]

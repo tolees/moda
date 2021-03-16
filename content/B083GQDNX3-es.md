@@ -5,7 +5,7 @@ date: 2020-09-09 19:45:34
 image: 'https://m.media-amazon.com/images/I/31R+-0sTUiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083GQDNX3-es Fankeshi - Abrigo de piel sintética para niña de flores...'
 sku: 'B083GQDNX3-es'
 tags: [ 'abrigo', ]

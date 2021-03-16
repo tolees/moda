@@ -5,7 +5,7 @@ date: 2020-05-10 16:52:38
 image: 'https://m.media-amazon.com/images/I/51HR9IB1vcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015XBSTZI-es Morgan 132-mentos.m Camiseta Marrón Bordeaux Bordeaux...'
 sku: 'B015XBSTZI-es'
 tags: [ 'camiseta', ]

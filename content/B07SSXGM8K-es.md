@@ -5,7 +5,7 @@ date: 2020-05-16 16:33:25
 image: 'https://m.media-amazon.com/images/I/51HvKe4434L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSXGM8K-es BeiaMina Mujer Zapatos Moda Tacón Alto Sandalias...'
 sku: 'B07SSXGM8K-es'
 tags: [ 'moda','sandalias','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-02-21 18:38:30
 image: 'https://m.media-amazon.com/images/I/41CqAFTJLeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCXJWFF-es Columbia Pouring Adventure II Chaqueta para Lluvia Hombre...'
 sku: 'B07RCXJWFF-es'
 tags: [ 'chaqueta', ]

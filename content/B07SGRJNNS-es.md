@@ -5,7 +5,7 @@ date: 2020-06-02 16:22:20
 image: 'https://m.media-amazon.com/images/I/41X0LHyEDKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGRJNNS-es Raging Bull Guantes Gimnasio Hombre Mujer calleras para...'
 sku: 'B07SGRJNNS-es'
 tags: [ 'guantes', ]

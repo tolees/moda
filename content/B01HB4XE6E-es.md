@@ -5,7 +5,7 @@ date: 2020-01-02 11:05:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LVcFvdbSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HB4XE6E-es Bombers Original Berlin Chaqueta Rot Burgundy 5 40 para Mujer'
 sku: 'B01HB4XE6E-es'
 tags: [ 'chaqueta', ]

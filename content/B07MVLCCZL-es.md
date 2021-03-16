@@ -5,7 +5,7 @@ date: 2020-02-26 02:52:22
 image: 'https://m.media-amazon.com/images/I/410e3d4X7kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVLCCZL-es Gant D1. The Light Down Jacket Chaqueta Negro Black 5...'
 sku: 'B07MVLCCZL-es'
 tags: [ 'chaqueta', ]

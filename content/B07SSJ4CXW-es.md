@@ -5,7 +5,7 @@ date: 2020-08-15 09:08:47
 image: 'https://m.media-amazon.com/images/I/41Ci1RVrvYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSJ4CXW-es Geox B Djrock Girl A Zapatillas para Bebés Plateado...'
 sku: 'B07SSJ4CXW-es'
 tags: [ 'geox', ]

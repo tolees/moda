@@ -5,7 +5,7 @@ date: 2020-09-04 17:25:41
 image: 'https://m.media-amazon.com/images/I/317p+JNyUUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJHXYKT-es Burton Underhill Camiseta Hombre Stout White XL'
 sku: 'B07SJHXYKT-es'
 tags: [ 'camiseta', ]

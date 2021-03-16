@@ -5,7 +5,7 @@ date: 2020-01-11 07:42:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JOwf7TSJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079V7T3GB-es Wrangler Greensboro Regular Jeans Vaqueros Negro Black...'
 sku: 'B079V7T3GB-es'
 tags: [ 'vaqueros', ]

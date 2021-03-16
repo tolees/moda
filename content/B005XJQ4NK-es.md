@@ -5,7 +5,7 @@ date: 2020-07-05 09:53:39
 image: 'https://m.media-amazon.com/images/I/410yfAKscdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XJQ4NK-es Eastpak Rusher Bolso bandolera 23 cm Negro Black'
 sku: 'B005XJQ4NK-es'
 tags: [ 'bolso', ]

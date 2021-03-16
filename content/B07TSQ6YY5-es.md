@@ -5,7 +5,7 @@ date: 2020-05-25 09:38:28
 image: 'https://m.media-amazon.com/images/I/418nmqqfbBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ6YY5-es Lee Scarlett Vaqueros Azul Dark Favourite Nr 27W / 29L...'
 sku: 'B07TSQ6YY5-es'
 tags: [ 'vaqueros', ]

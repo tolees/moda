@@ -5,7 +5,7 @@ date: 2020-05-22 15:45:13
 image: 'https://m.media-amazon.com/images/I/51Ap-fxEwAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXJN3R3-es Firenze Artegiani Bolso Bandolera de Mujer en Piel...'
 sku: 'B07JXJN3R3-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-05-07 11:43:49
 image: 'https://m.media-amazon.com/images/I/31CW19HoLhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSN8H15-es Jack & Jones Jjitim Jjoriginal Am 816 Vaqueros Slim Fit...'
 sku: 'B07GSN8H15-es'
 tags: [ 'vaqueros', ]

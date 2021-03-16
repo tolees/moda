@@ -5,7 +5,7 @@ date: 2020-06-22 10:55:52
 image: 'https://m.media-amazon.com/images/I/51h4n5qcgHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QNH5XT-es Levi s Wool Bf Sherpa Trucker Amazon Exclusive - Chaqueta...'
 sku: 'B073QNH5XT-es'
 tags: [ 'chaqueta', ]

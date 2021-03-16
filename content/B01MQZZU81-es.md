@@ -5,7 +5,7 @@ date: 2020-03-23 03:26:55
 image: 'https://m.media-amazon.com/images/I/41t9Wa1g0jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQZZU81-es Timberland Kenniston Nellie Zapatillas Chukka para Mujer...'
 sku: 'B01MQZZU81-es'
 tags: [ 'timberland', ]

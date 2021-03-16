@@ -5,7 +5,7 @@ date: 2020-10-01 20:38:43
 image: 'https://m.media-amazon.com/images/I/41LYSGUtmCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STWS5W6-es Roxy - Sandalias - Mujer - EU 40 - Rosa'
 sku: 'B07STWS5W6-es'
 tags: [ 'sandalias', ]

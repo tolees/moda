@@ -5,7 +5,7 @@ date: 2020-07-18 11:09:26
 image: 'https://m.media-amazon.com/images/I/41O2n-9ALXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UWP8VY-es Birkenstock Gizeh Birko-Flor Chanclas para Mujer Negro...'
 sku: 'B000UWP8VY-es'
 tags: [ 'chanclas', ]

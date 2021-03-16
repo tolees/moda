@@ -5,7 +5,7 @@ date: 2020-02-03 12:48:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31crcd8-ZQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JW4YBPS-es Hackett London Tie Placket Oxford Camisa Blanco White 800...'
 sku: 'B07JW4YBPS-es'
 tags: [ 'camisa', ]

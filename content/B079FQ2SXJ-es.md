@@ -5,7 +5,7 @@ date: 2020-04-07 09:26:35
 image: 'https://m.media-amazon.com/images/I/312W4EjvHsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FQ2SXJ-es Under Armour Sportstyle Pantalones para Hombre de algodón...'
 sku: 'B079FQ2SXJ-es'
 tags: [ 'pantalón', ]

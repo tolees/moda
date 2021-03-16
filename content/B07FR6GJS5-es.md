@@ -5,7 +5,7 @@ date: 2020-07-01 17:36:34
 image: 'https://m.media-amazon.com/images/I/31h2gicXJwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR6GJS5-es Clarks Step Beat Dune Zapatos de Cordones Derby para...'
 sku: 'B07FR6GJS5-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-09-22 12:09:46
 image: 'https://m.media-amazon.com/images/I/61xhYz7qN7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAPGDW6-es Collar - Envueltos - Caramelo comprimido - 1020 g'
 sku: 'B00XAPGDW6-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-07-16 07:39:53
 image: 'https://m.media-amazon.com/images/I/41uknYaR9DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKN8LYQ-es Clarks Maritsa Lara Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TKN8LYQ-es'
 tags: [ 'sandalias', ]

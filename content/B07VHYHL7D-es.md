@@ -5,7 +5,7 @@ date: 2020-10-09 15:01:03
 image: 'https://m.media-amazon.com/images/I/41iw5rT+LiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHYHL7D-es Mishansha Hombre Mujer Botas de Nieve Invierno Botines...'
 sku: 'B07VHYHL7D-es'
 tags: [ 'botines','zapatos', ]

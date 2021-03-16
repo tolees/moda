@@ -5,7 +5,7 @@ date: 2020-02-06 09:37:41
 image: 'https://m.media-amazon.com/images/I/31W38s-uUVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPNS6J-es G-STAR RAW Scutar Utility Padded Abrigo Gris Asfalt 995...'
 sku: 'B07NDPNS6J-es'
 tags: [ 'abrigo', ]

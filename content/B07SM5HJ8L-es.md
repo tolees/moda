@@ -5,7 +5,7 @@ date: 2020-07-03 10:51:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UF4gysdkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SM5HJ8L-es Zapatos de Seguridad para Hombre con Puntera de Acero...'
 sku: 'B07SM5HJ8L-es'
 tags: [ 'zapatos', ]

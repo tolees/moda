@@ -5,7 +5,7 @@ date: 2020-01-07 14:07:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31o9nePv4lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWNNBD-es Wrangler 80\u00b4s Retro Sweat Sudadera Blanco White 989...'
 sku: 'B07MMWNNBD-es'
 tags: [ 'sudadera', ]

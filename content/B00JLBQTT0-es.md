@@ -5,7 +5,7 @@ date: 2020-04-24 15:18:50
 image: 'https://m.media-amazon.com/images/I/41ZVwCkdV2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JLBQTT0-es NIKE M Nk Dry tee Db Athlete Camiseta de Manga Corta...'
 sku: 'B00JLBQTT0-es'
 tags: [ 'camiseta', ]

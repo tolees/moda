@@ -5,7 +5,7 @@ date: 2020-08-25 15:23:48
 image: 'https://m.media-amazon.com/images/I/41OcQv8C-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RX7TX3R-es Levi s Vneck Camiseta Negro Caviar 0003 Medium para Mujer'
 sku: 'B07RX7TX3R-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-08-07 08:22:01
 image: 'https://m.media-amazon.com/images/I/41Xm+wAju2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGP8KJ-es Geox U Eolo A Zapatillas para Hombre Marrón Taupe C6029 41 EU'
 sku: 'B07SQGP8KJ-es'
 tags: [ 'geox', ]

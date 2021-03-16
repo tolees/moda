@@ -5,7 +5,7 @@ date: 2020-03-23 19:32:14
 image: 'https://m.media-amazon.com/images/I/41qxnpfUSZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKGCW34-es Under Armour UA Spawn Mid Zapatos de Baloncesto para...'
 sku: 'B07HKGCW34-es'
 tags: [ 'zapatos', ]

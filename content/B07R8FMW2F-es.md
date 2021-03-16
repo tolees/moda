@@ -5,7 +5,7 @@ date: 2020-09-27 17:40:38
 image: 'https://m.media-amazon.com/images/I/51N44wXs1kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8FMW2F-es find. Lace Up Wedge Bootie Botines Marrón Tan 39 EU'
 sku: 'B07R8FMW2F-es'
 tags: [ 'botines', ]

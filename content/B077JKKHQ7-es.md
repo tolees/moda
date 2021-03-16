@@ -5,7 +5,7 @@ date: 2020-01-23 10:05:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51V0eml4PKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077JKKHQ7-es URAQT Traje del Vestido/Traje de Princesa de la Nieve...'
 sku: 'B077JKKHQ7-es'
 tags: [ 'vestido', ]

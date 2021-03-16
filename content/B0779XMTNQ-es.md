@@ -5,7 +5,7 @@ date: 2020-07-02 00:17:45
 image: 'https://m.media-amazon.com/images/I/41AWKMSJWGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779XMTNQ-es Marca Amazon - find. Camiseta Transpirable Deporte Hombre...'
 sku: 'B0779XMTNQ-es'
 tags: [ '-','camiseta','find.', ]

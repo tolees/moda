@@ -5,7 +5,7 @@ date: 2020-04-02 16:03:43
 image: 'https://m.media-amazon.com/images/I/41PAKoUb0oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6TYD6Z-es El Naturalista N5133 Botines para Mujer Negro Black-...'
 sku: 'B07S6TYD6Z-es'
 tags: [ 'botines', ]

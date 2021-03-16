@@ -5,7 +5,7 @@ date: 2020-01-09 15:37:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/310WBkrqLiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFM2KB2-es Clarks 261440557 - Botines de Cuero Hombre Color Marrón...'
 sku: 'B07MFM2KB2-es'
 tags: [ 'botines', ]

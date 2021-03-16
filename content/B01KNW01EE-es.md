@@ -5,7 +5,7 @@ date: 2020-09-16 11:07:17
 image: 'https://m.media-amazon.com/images/I/41ntpvG743L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KNW01EE-es Qomolo Guantes Para Carrito de Bebé Guantes de Silla de...'
 sku: 'B01KNW01EE-es'
 tags: [ 'guantes', ]

@@ -5,7 +5,7 @@ date: 2020-04-26 16:02:04
 image: 'https://m.media-amazon.com/images/I/41Q4TIACINL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7KMFC7-es ZOEREA Bebé Chicos Conjunto de Conjunto Page Boy Trajes 4...'
 sku: 'B07H7KMFC7-es'
 tags: [ 'camisa','chaleco','chaqueta', ]

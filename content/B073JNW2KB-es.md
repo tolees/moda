@@ -5,7 +5,7 @@ date: 2020-01-17 07:43:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nl1ob4AeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JNW2KB-es find. Camiseta Manga Larga Hombre Marfil Off White 50...'
 sku: 'B073JNW2KB-es'
 tags: [ 'camiseta', ]

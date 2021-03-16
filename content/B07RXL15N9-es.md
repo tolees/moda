@@ -5,7 +5,7 @@ date: 2020-06-19 20:38:06
 image: 'https://m.media-amazon.com/images/I/416ss7lq1vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXL15N9-es Levi s Innovation Super Skinny Vaqueros Gris Freak out...'
 sku: 'B07RXL15N9-es'
 tags: [ 'vaqueros', ]

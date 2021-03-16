@@ -5,7 +5,7 @@ date: 2020-07-27 12:55:47
 image: 'https://m.media-amazon.com/images/I/31rBYUk2frL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DL5XV81-es Columbia 1840661 EVOLUTION VALLEY Pantalón de lluvia...'
 sku: 'B07DL5XV81-es'
 tags: [ 'pantalón', ]

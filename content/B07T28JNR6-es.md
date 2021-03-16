@@ -5,7 +5,7 @@ date: 2020-07-10 07:52:33
 image: 'https://m.media-amazon.com/images/I/51jwqSednRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T28JNR6-es Abravo Mujer Vestido Estampado Floral sin Mangas Vestido...'
 sku: 'B07T28JNR6-es'
 tags: [ 'vestido', ]

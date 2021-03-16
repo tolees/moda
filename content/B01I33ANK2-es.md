@@ -5,7 +5,7 @@ date: 2020-07-09 02:15:14
 image: 'https://m.media-amazon.com/images/I/31iEKmwCfSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I33ANK2-es Heimdall lámpara de escritorio luz de la noche multicolor...'
 sku: 'B01I33ANK2-es'
 tags: [ 'moda', ]

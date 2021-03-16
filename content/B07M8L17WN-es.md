@@ -5,7 +5,7 @@ date: 2020-01-18 08:08:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eKn-Lo70L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8L17WN-es Lee Sherpa Jacket Chaqueta Vaquera Verde Forest Night 96...'
 sku: 'B07M8L17WN-es'
 tags: [ 'chaqueta', ]

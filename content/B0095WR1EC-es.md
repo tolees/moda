@@ -5,7 +5,7 @@ date: 2020-07-05 11:50:35
 image: 'https://m.media-amazon.com/images/I/31kFkAYcPmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0095WR1EC-es Ray Ban Erika - Gafas de sol unisex rama color marron y...'
 sku: 'B0095WR1EC-es'
 tags: [ 'gafas', ]

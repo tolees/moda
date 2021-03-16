@@ -5,7 +5,7 @@ date: 2020-07-13 08:33:00
 image: 'https://m.media-amazon.com/images/I/41JZ7xCV7bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHL96T2-es Camisas de Mujer Tops Manga Corta Camisa de Gasa 3/4 Manga...'
 sku: 'B07RHL96T2-es'
 tags: [ 'blusa','camisa', ]

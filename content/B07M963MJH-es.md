@@ -5,7 +5,7 @@ date: 2020-02-02 13:54:44
 image: 'https://m.media-amazon.com/images/I/31dAnbAblQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M963MJH-es Wrangler Logo Sweat Sudadera Verde Pine G01 Small para Mujer'
 sku: 'B07M963MJH-es'
 tags: [ 'sudadera', ]

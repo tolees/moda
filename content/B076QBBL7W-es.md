@@ -5,7 +5,7 @@ date: 2020-09-17 21:50:04
 image: 'https://m.media-amazon.com/images/I/41FHlq+pIBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QBBL7W-es G-STAR RAW Core 3D Slim Shirt Wmn L/s Blusa Blanco White...'
 sku: 'B076QBBL7W-es'
 tags: [ 'blusa', ]

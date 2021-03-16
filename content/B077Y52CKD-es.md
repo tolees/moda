@@ -5,7 +5,7 @@ date: 2020-04-30 19:21:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4177HAXd4QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y52CKD-es HIKARO Chaqueta con Cremallera y Capucha Hombre Rojo...'
 sku: 'B077Y52CKD-es'
 tags: [ 'chaqueta', ]

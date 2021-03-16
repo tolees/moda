@@ -5,7 +5,7 @@ date: 2020-08-06 08:33:53
 image: 'https://m.media-amazon.com/images/I/41I7xFsfxmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MPNZ58-es Geographical Norway Parka Mujer Destine Azul Marino 03'
 sku: 'B082MPNZ58-es'
 tags: [ 'parka', ]

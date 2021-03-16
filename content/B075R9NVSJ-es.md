@@ -5,7 +5,7 @@ date: 2020-10-11 17:19:36
 image: 'https://m.media-amazon.com/images/I/41igbEO33NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R9NVSJ-es Vero Moda Vmava Plain SS Top Ga Noos Camiseta Gris Asphalt...'
 sku: 'B075R9NVSJ-es'
 tags: [ 'camiseta','moda', ]

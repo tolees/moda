@@ -5,7 +5,7 @@ date: 2020-05-13 16:33:53
 image: 'https://m.media-amazon.com/images/I/41d64zJkkOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RHW12M-es Odetina - Zapatos de tacón alto para mujer con correa de...'
 sku: 'B087RHW12M-es'
 tags: [ 'zapatos', ]

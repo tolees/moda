@@ -5,7 +5,7 @@ date: 2020-09-06 16:36:23
 image: 'https://m.media-amazon.com/images/I/31KOBB1usfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6X61YL-es Roman Originals Pantalón Capri elástico de bengalina para...'
 sku: 'B07M6X61YL-es'
 tags: [ 'pantalón', ]

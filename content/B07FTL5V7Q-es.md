@@ -5,7 +5,7 @@ date: 2020-03-02 19:53:15
 image: 'https://m.media-amazon.com/images/I/3166FJXzNeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTL5V7Q-es Lee Scarlett Cropped Vaqueros Skinny Gris Concrete Grey Cm...'
 sku: 'B07FTL5V7Q-es'
 tags: [ 'vaqueros', ]

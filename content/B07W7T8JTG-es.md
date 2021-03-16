@@ -5,7 +5,7 @@ date: 2020-08-29 03:01:41
 image: 'https://m.media-amazon.com/images/I/41Eiqc9qThL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7T8JTG-es Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha Gris...'
 sku: 'B07W7T8JTG-es'
 tags: [ 'sudadera', ]

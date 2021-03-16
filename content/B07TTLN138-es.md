@@ -5,7 +5,7 @@ date: 2020-10-07 19:05:49
 image: 'https://m.media-amazon.com/images/I/31242OjdF9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTLN138-es DC Shoes Spectrum - Chaqueta para Nieve - Hombre - L'
 sku: 'B07TTLN138-es'
 tags: [ 'chaqueta', ]

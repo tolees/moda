@@ -5,7 +5,7 @@ date: 2020-03-13 18:11:28
 image: 'https://m.media-amazon.com/images/I/41iJEdcxfBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFSDPQL-es Prada 1AB0A7 Gafas de sol Black 55 para Mujer'
 sku: 'B07BFSDPQL-es'
 tags: [ 'gafas', ]

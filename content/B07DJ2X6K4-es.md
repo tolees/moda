@@ -5,7 +5,7 @@ date: 2020-07-14 18:13:59
 image: 'https://m.media-amazon.com/images/I/31pg2+X3VwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2X6K4-es Geox U Goinway B Sandalias con Punta Abierta para Hombre...'
 sku: 'B07DJ2X6K4-es'
 tags: [ 'geox','sandalias', ]

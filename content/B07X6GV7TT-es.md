@@ -5,7 +5,7 @@ date: 2020-08-25 12:09:31
 image: 'https://m.media-amazon.com/images/I/51q8TYmlkSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6GV7TT-es Pantalones para Adelgazar Pantalones Deportivos Mujer...'
 sku: 'B07X6GV7TT-es'
 tags: [ 'pantalón', ]

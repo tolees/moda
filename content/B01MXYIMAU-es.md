@@ -5,7 +5,7 @@ date: 2020-07-20 11:01:18
 image: 'https://m.media-amazon.com/images/I/31P9MLV-eGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXYIMAU-es find. Regular fit linen shirt Camisa Blanco White 52'
 sku: 'B01MXYIMAU-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-07-03 23:12:15
 image: 'https://m.media-amazon.com/images/I/31G2Co2yQ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNVRXQ7-es The Indian Face Gafas de Sol Deportivas Free Spirit para...'
 sku: 'B07GNVRXQ7-es'
 tags: [ 'gafas', ]

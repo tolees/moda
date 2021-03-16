@@ -5,7 +5,7 @@ date: 2020-08-31 08:51:25
 image: 'https://m.media-amazon.com/images/I/41PuehzXdUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZHLFC2-es Cressi Beach Portofino Chanclas Unisex Adulto Verde/Azul 42'
 sku: 'B06ZZHLFC2-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 09:11:38
 image: 'https://m.media-amazon.com/images/I/31pl-qgMKWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JYNKH5-es Marca Amazon - find. Camisa Hombre Marfil Stone L Label: L'
 sku: 'B072JYNKH5-es'
 tags: [ '-','camisa','find.', ]

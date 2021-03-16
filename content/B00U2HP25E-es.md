@@ -5,7 +5,7 @@ date: 2020-02-16 19:31:45
 image: 'https://m.media-amazon.com/images/I/41DtZRDTOQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U2HP25E-es Camiseta para chicos de Minecraft Negro negro 5-6 Years'
 sku: 'B00U2HP25E-es'
 tags: [ 'camiseta', ]

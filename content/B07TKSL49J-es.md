@@ -5,7 +5,7 @@ date: 2020-07-15 23:57:09
 image: 'https://m.media-amazon.com/images/I/41+GfyAaakL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKSL49J-es Clarks Botanic Strap Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TKSL49J-es'
 tags: [ 'sandalias', ]

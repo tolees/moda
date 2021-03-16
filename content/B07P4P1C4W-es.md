@@ -5,7 +5,7 @@ date: 2020-02-27 18:27:33
 image: 'https://m.media-amazon.com/images/I/31l-V+jn57L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4P1C4W-es Art Bergen Botines para Mujer Verde Forest Forest 39 EU'
 sku: 'B07P4P1C4W-es'
 tags: [ 'botines', ]

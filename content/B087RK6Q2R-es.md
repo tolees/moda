@@ -5,7 +5,7 @@ date: 2020-09-08 12:41:22
 image: 'https://m.media-amazon.com/images/I/41dKsLhhOpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RK6Q2R-es Mosucoirl Camisa sin Mangas con Cuello en V y Encaje con...'
 sku: 'B087RK6Q2R-es'
 tags: [ 'blusa','camisa', ]

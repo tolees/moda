@@ -5,7 +5,7 @@ date: 2020-01-18 09:42:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31RvSnT2ZHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKSWP43-es CMP Poncho 39X6617 Chaqueta Hombre Gecko XS'
 sku: 'B07JKSWP43-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-06-27 11:53:16
 image: 'https://m.media-amazon.com/images/I/41Dlt2bQpgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719CWLLF-es Under Armour Tech 1/2 Zip-Twist Sudadera Mujer Negro...'
 sku: 'B0719CWLLF-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-05-09 18:03:18
 image: 'https://m.media-amazon.com/images/I/41M6mGUGhBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PWGY1D-es Mediffen Mujer Elegante Tacón De Aguja Tacón Alto Punta...'
 sku: 'B087PWGY1D-es'
 tags: [ 'moda','sandalias','vestido', ]

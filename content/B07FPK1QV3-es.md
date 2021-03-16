@@ -5,7 +5,7 @@ date: 2020-02-19 21:14:15
 image: 'https://m.media-amazon.com/images/I/31v-Z9VE9LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPK1QV3-es The North Face M Tball Triclim Jkt Chaqueta Thermoball...'
 sku: 'B07FPK1QV3-es'
 tags: [ 'chaqueta', ]

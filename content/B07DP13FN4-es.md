@@ -5,7 +5,7 @@ date: 2020-07-27 00:30:46
 image: 'https://m.media-amazon.com/images/I/416w94kqSsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP13FN4-es Umbro Set de 3 boxers multicolor-100% algodón-color negro...'
 sku: 'B07DP13FN4-es'
 tags: [ 'bóxer', ]

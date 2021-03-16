@@ -5,7 +5,7 @@ date: 2020-03-21 22:38:19
 image: 'https://m.media-amazon.com/images/I/41rkWv1Qy-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG7ZNHY-es Pepe Jeans Amberes Archive Camiseta Blanco Optic White 802...'
 sku: 'B07JG7ZNHY-es'
 tags: [ 'camiseta', ]

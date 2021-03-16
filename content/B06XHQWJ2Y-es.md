@@ -5,7 +5,7 @@ date: 2020-01-14 08:56:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AfdXY3t%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHQWJ2Y-es Geox J Kommodor B Zapatillas para Niños Negro Black/White...'
 sku: 'B06XHQWJ2Y-es'
 tags: [ 'geox', ]

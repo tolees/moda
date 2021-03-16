@@ -5,7 +5,7 @@ date: 2020-09-03 11:06:12
 image: 'https://m.media-amazon.com/images/I/41we-ril6sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNJ1W94-es Youecci Zapatillas de Deportivos de Running para Mujer...'
 sku: 'B08DNJ1W94-es'
 tags: [ 'zapatos', ]

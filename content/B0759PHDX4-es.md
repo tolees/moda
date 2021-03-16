@@ -5,7 +5,7 @@ date: 2019-11-01 11:28:25
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0759PHDX4-es Clarks Step Isle Lace Zapatos de Cordones Derby para...'
 sku: 'B0759PHDX4-es'
 tags: [ 'zapatos', ]

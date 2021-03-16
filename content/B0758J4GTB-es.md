@@ -5,7 +5,7 @@ date: 2020-06-17 08:25:39
 image: 'https://m.media-amazon.com/images/I/41oNCfGrm8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758J4GTB-es edc by Esprit 997cc1b817 Vaqueros Skinny Azul Blue Dark...'
 sku: 'B0758J4GTB-es'
 tags: [ 'vaqueros', ]

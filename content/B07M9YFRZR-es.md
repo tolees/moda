@@ -5,7 +5,7 @@ date: 2020-03-09 07:08:35
 image: 'https://m.media-amazon.com/images/I/31fAL0yiwBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9YFRZR-es Lacoste Sport Th3377 Camiseta Negro Noir/Enluminure 26n...'
 sku: 'B07M9YFRZR-es'
 tags: [ 'camiseta', ]

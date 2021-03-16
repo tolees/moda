@@ -5,7 +5,7 @@ date: 2020-03-28 12:51:21
 image: 'https://m.media-amazon.com/images/I/41Rb3jmqkWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6MFWGT-es Under Armour Tactical All Season Chaqueta Hombre Negro XXL'
 sku: 'B07L6MFWGT-es'
 tags: [ 'chaqueta', ]

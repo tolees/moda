@@ -5,7 +5,7 @@ date: 2021-03-16 15:01:39
 image: 'https://m.media-amazon.com/images/I/41xhMZ49FKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JHSRKRQ-es Jack & Jones JJECORP Logo Sweat Hood Noos Sudadera con...'
 sku: 'B08JHSRKRQ-es'
 tags: [ 'jack & jones','sudadera', ]
@@ -28,9 +28,9 @@ En este momento está [Jack & Jones JJECORP Logo Sweat Hood Noos Sudadera con Ca
 
 🔎:
 
-- Composición del material: 70 % algodón, 30 % poliéster.
 - Especialmente suave y cálida.
-- Con el clásico logotipo impreso.
 - Sudadera de corte regular.
+- Con el clásico logotipo impreso.
+- Composición del material: 70 % algodón, 30 % poliéster.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JHSRKRQ/?tag=tolees-21)

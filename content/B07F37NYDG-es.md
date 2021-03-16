@@ -5,7 +5,7 @@ date: 2020-07-12 07:57:49
 image: 'https://m.media-amazon.com/images/I/41h2YqFeUkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F37NYDG-es Anillo de plata esterlina Qings 925 Ajustable Abierto Gato...'
 sku: 'B07F37NYDG-es'
 tags: [ 'moda', ]

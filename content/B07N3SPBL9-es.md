@@ -5,7 +5,7 @@ date: 2020-07-15 21:52:20
 image: 'https://m.media-amazon.com/images/I/41YJAyNauqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3SPBL9-es Desigual Vest Jacob Vestido Blanco Blanco 1000 XXL para Mujer'
 sku: 'B07N3SPBL9-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-01-23 16:34:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B55zT6DZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M24E9GN-es flintronic Cartera Tarjeta de Crédito Slim Billetera...'
 sku: 'B01M24E9GN-es'
 tags: [ 'billetera','monedero', ]

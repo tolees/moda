@@ -5,7 +5,7 @@ date: 2020-09-24 20:12:11
 image: 'https://m.media-amazon.com/images/I/41HT-0cDPoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9NLQSB-es Hosaire Pulsera de Plata de Cielo Estrellado Metal-...'
 sku: 'B06W9NLQSB-es'
 tags: [ 'moda', ]

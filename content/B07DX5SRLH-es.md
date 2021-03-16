@@ -5,7 +5,7 @@ date: 2020-09-28 01:10:50
 image: 'https://m.media-amazon.com/images/I/31MP1IW1JIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX5SRLH-es Tommy Hilfiger T Camiseta Básica de Manga Corta Blanco...'
 sku: 'B07DX5SRLH-es'
 tags: [ 'camiseta', ]

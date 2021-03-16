@@ -5,7 +5,7 @@ date: 2020-07-11 12:02:30
 image: 'https://m.media-amazon.com/images/I/31igKz3u9rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VL3FFVT-es Hackett London Amr Hackett tee Camiseta Blanco White 800...'
 sku: 'B07VL3FFVT-es'
 tags: [ 'camiseta', ]

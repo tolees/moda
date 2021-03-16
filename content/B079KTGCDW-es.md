@@ -5,7 +5,7 @@ date: 2020-06-18 12:01:43
 image: 'https://m.media-amazon.com/images/I/51WFGars-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KTGCDW-es Foino Bolso de Moda Bolso Bandolera Mujer Bolsas de Viaje...'
 sku: 'B079KTGCDW-es'
 tags: [ 'bolso','moda', ]

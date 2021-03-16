@@ -5,7 +5,7 @@ date: 2020-07-30 09:10:16
 image: 'https://m.media-amazon.com/images/I/41WG-DU464L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRC3Z3T-es Gafas de Lectura sin Patillas Graduadas Anti-bluelight...'
 sku: 'B07KRC3Z3T-es'
 tags: [ 'gafas', ]

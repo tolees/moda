@@ -5,7 +5,7 @@ date: 2020-03-14 02:52:33
 image: 'https://m.media-amazon.com/images/I/41v6VygNDdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNRFYP-es G-STAR RAW Graphic 16 Core Hooded Sudadera Azul Imperial...'
 sku: 'B07NDNRFYP-es'
 tags: [ 'sudadera', ]

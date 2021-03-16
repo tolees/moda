@@ -5,7 +5,7 @@ date: 2020-08-25 22:29:17
 image: 'https://m.media-amazon.com/images/I/31hMV5bzphL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7HPXZL-es Tommy Hilfiger Heritage Slim Fit Shirt Blusa Azul Midnight...'
 sku: 'B07P7HPXZL-es'
 tags: [ 'blusa', ]

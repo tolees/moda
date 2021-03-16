@@ -5,7 +5,7 @@ date: 2020-09-23 14:45:33
 image: 'https://m.media-amazon.com/images/I/31OZkqFbgHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCX2XMQ-es PUMA Ftblnxt Camisa Hombre Ultra Yellow Black XXL'
 sku: 'B07XCX2XMQ-es'
 tags: [ 'camisa', ]

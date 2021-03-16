@@ -5,7 +5,7 @@ date: 2020-03-10 23:52:02
 image: 'https://m.media-amazon.com/images/I/4131sj5uKqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EHF1IHC-es GANT The Original Slim T-Shirt Camiseta Negro Black 5...'
 sku: 'B01EHF1IHC-es'
 tags: [ 'camiseta', ]

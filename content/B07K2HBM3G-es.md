@@ -5,7 +5,7 @@ date: 2020-06-24 15:25:40
 image: 'https://m.media-amazon.com/images/I/317VcRMsfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2HBM3G-es Amazon Essentials - Camiseta de protección solar con manga...'
 sku: 'B07K2HBM3G-es'
 tags: [ 'camiseta', ]

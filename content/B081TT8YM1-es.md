@@ -5,7 +5,7 @@ date: 2020-05-29 07:20:02
 image: 'https://m.media-amazon.com/images/I/41xXfRemm2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TT8YM1-es adidas M BB T Camiseta de Manga Corta Hombre Scarlet/Black S'
 sku: 'B081TT8YM1-es'
 tags: [ 'camiseta', ]

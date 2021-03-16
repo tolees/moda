@@ -5,7 +5,7 @@ date: 2020-05-09 16:03:50
 image: 'https://m.media-amazon.com/images/I/51vzKXnto6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PKMJ4L-es Gracemee Mujer Moda Stiletto Heels Zapatos Ponerse Basic...'
 sku: 'B087PKMJ4L-es'
 tags: [ 'moda','zapatos', ]

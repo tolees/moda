@@ -5,7 +5,7 @@ date: 2020-08-30 20:27:13
 image: 'https://m.media-amazon.com/images/I/41cf4D5GcXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQ74DZR-es Tommy Hilfiger Arch tee Camiseta Deporte Azul Desert Sky...'
 sku: 'B07VQ74DZR-es'
 tags: [ 'camiseta', ]

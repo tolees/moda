@@ -5,7 +5,7 @@ date: 2020-09-11 13:21:04
 image: 'https://m.media-amazon.com/images/I/41nXw9hnbAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCV3WVN-es Pepe Jeans Kingston Zip Vaqueros Regular para Hombre Azul...'
 sku: 'B06XCV3WVN-es'
 tags: [ 'vaqueros', ]

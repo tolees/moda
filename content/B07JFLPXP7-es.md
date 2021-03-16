@@ -5,7 +5,7 @@ date: 2020-05-02 14:05:05
 image: 'https://m.media-amazon.com/images/I/413xz0FQFYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFLPXP7-es Pepe Jeans Boreas Pm402096 Chaqueta Sailor 580 Large para...'
 sku: 'B07JFLPXP7-es'
 tags: [ 'chaqueta', ]

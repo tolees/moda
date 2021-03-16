@@ -5,7 +5,7 @@ date: 2020-09-30 07:33:01
 image: 'https://m.media-amazon.com/images/I/41pjTIlKX+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5R99FA-es Tommy Hilfiger 3p Trunk Bóxer Blanco White 100 XX-Large...'
 sku: 'B00K5R99FA-es'
 tags: [ 'bóxer', ]

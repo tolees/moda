@@ -5,7 +5,7 @@ date: 2020-02-26 15:25:26
 image: 'https://m.media-amazon.com/images/I/41nLbyMRqLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGSF62W-es edc by Esprit 999cc2k803 Camiseta Blanco White 100 Large...'
 sku: 'B07KGSF62W-es'
 tags: [ 'camiseta', ]

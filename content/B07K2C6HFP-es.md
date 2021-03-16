@@ -5,7 +5,7 @@ date: 2020-03-12 04:23:17
 image: 'https://m.media-amazon.com/images/I/319QdAmnk+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2C6HFP-es Timberland Nellie Double Waterproof Zapatillas Chukka para...'
 sku: 'B07K2C6HFP-es'
 tags: [ 'timberland', ]

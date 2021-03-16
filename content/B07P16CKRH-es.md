@@ -5,7 +5,7 @@ date: 2020-02-17 21:25:38
 image: 'https://m.media-amazon.com/images/I/313x9W6t6iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P16CKRH-es Superdry Classic Twill L/s Shirt Camisa Azul Nórdica Blue...'
 sku: 'B07P16CKRH-es'
 tags: [ 'camisa', ]

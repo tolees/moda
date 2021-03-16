@@ -5,7 +5,7 @@ date: 2020-06-13 15:21:36
 image: 'https://m.media-amazon.com/images/I/411a+FWrVQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ48CL-es Pepe Jeans Finsbury Vaqueros Skinny Azul Medium Used Denim...'
 sku: 'B07MZQ48CL-es'
 tags: [ 'vaqueros', ]

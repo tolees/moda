@@ -5,7 +5,7 @@ date: 2020-08-28 01:28:37
 image: 'https://m.media-amazon.com/images/I/31ypiyTVgRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTJGS9A-es Clarks Tilden Plain Zapatos Derby para Hombre Negro Black...'
 sku: 'B00TTJGS9A-es'
 tags: [ 'zapatos', ]

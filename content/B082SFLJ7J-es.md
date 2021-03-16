@@ -5,7 +5,7 @@ date: 2020-08-21 07:30:43
 image: 'https://m.media-amazon.com/images/I/51kCT2n4vKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SFLJ7J-es BAIGIO Bolso Bandolera de Piel para Hombres iPad Bolso...'
 sku: 'B082SFLJ7J-es'
 tags: [ 'bolso', ]

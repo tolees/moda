@@ -5,7 +5,7 @@ date: 2020-03-30 18:48:01
 image: 'https://m.media-amazon.com/images/I/41lgNZAQ1vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYS634C-es Tommy Hilfiger Stretch Slim Fit tee Camisa Deportiva Verde...'
 sku: 'B07JYS634C-es'
 tags: [ 'camisa', ]

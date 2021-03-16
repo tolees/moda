@@ -5,7 +5,7 @@ date: 2020-06-11 07:48:54
 image: 'https://m.media-amazon.com/images/I/511fI7uqMcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P96YVSC-es Wrangler LS Western Shirt Camisa Negro Black 100 X-Large...'
 sku: 'B07P96YVSC-es'
 tags: [ 'camisa', ]

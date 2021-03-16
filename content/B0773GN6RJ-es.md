@@ -5,7 +5,7 @@ date: 2020-01-07 12:55:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61ZYPYPDrlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0773GN6RJ-es DCCN 3 Pcs Canvas Bolsas Escolares Mochila niños niñas...'
 sku: 'B0773GN6RJ-es'
 tags: [ 'billetera','bolso', ]

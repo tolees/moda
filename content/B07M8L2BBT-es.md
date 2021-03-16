@@ -5,7 +5,7 @@ date: 2020-03-12 18:11:48
 image: 'https://m.media-amazon.com/images/I/41RQCIxwXRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8L2BBT-es Lee Button Down Camisa Casual Azul Beyond Blue X-Large...'
 sku: 'B07M8L2BBT-es'
 tags: [ 'camisa', ]

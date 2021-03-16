@@ -5,7 +5,7 @@ date: 2020-01-30 11:24:47
 image: 'https://m.media-amazon.com/images/I/41j8poo7LHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDD8HCX-es OBEEII Vestido de Comunion Niña Bordado de Tul Vestido...'
 sku: 'B07VDD8HCX-es'
 tags: [ 'vestido', ]

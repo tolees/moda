@@ -5,7 +5,7 @@ date: 2020-08-26 11:30:00
 image: 'https://m.media-amazon.com/images/I/41wapFynh2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TTDSGB-es adidas Cropped Hood Sudadera Mujer Rojo Trace Scarlet s18/...'
 sku: 'B081TTDSGB-es'
 tags: [ 'sudadera', ]

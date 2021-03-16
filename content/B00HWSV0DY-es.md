@@ -5,7 +5,7 @@ date: 2020-09-23 09:53:57
 image: 'https://m.media-amazon.com/images/I/41AIDKUufsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HWSV0DY-es crocs Baya Zuecos Unisex Adulto Azul Cerulean Blue 36/37 EU'
 sku: 'B00HWSV0DY-es'
 tags: [ 'zuecos', ]

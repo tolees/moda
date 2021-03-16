@@ -5,7 +5,7 @@ date: 2020-05-29 10:28:41
 image: 'https://m.media-amazon.com/images/I/41NsREUw4HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005CTTWLW-es Schott NYC Lc1380 Chaqueta Negro Black Taille Fabricant:...'
 sku: 'B005CTTWLW-es'
 tags: [ 'chaqueta', ]

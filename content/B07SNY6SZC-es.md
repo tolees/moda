@@ -5,7 +5,7 @@ date: 2020-09-22 20:30:47
 image: 'https://m.media-amazon.com/images/I/41D70kRIpgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNY6SZC-es Levi s Orig Hm Vneck Camiseta Azul Dress Blues 0002 Large...'
 sku: 'B07SNY6SZC-es'
 tags: [ 'camiseta', ]

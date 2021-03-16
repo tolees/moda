@@ -5,7 +5,7 @@ date: 2020-01-19 11:58:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514Tnh3WiSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D1IZ1UQ-es LEABAGS Springfield Monedero de auténtico Cuero búfalo en...'
 sku: 'B01D1IZ1UQ-es'
 tags: [ 'monedero', ]

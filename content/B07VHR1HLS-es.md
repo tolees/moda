@@ -5,7 +5,7 @@ date: 2020-08-09 20:43:29
 image: 'https://m.media-amazon.com/images/I/41oa+WB4EzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHR1HLS-es Desigual TS Milan Camiseta Blanco Blanco 1000 Large para...'
 sku: 'B07VHR1HLS-es'
 tags: [ 'camiseta', ]

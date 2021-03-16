@@ -5,7 +5,7 @@ date: 2020-02-28 19:02:23
 image: 'https://m.media-amazon.com/images/I/41-ja3BBhrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XH4CM8V-es Funko 46788 Pop Balón de Baloncesto: UNC-Michael Jordan...'
 sku: 'B07XH4CM8V-es'
 tags: [ 'jersey', ]

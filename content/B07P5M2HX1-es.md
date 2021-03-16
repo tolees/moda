@@ -5,7 +5,7 @@ date: 2020-03-23 15:08:08
 image: 'https://m.media-amazon.com/images/I/416SpS9TZZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5M2HX1-es Morgan 191-mentor.n Camiseta Negro Noir Noir Large Talla...'
 sku: 'B07P5M2HX1-es'
 tags: [ 'camiseta', ]

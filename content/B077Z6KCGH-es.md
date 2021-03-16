@@ -5,7 +5,7 @@ date: 2020-02-01 17:28:42
 image: 'https://m.media-amazon.com/images/I/31WFHHE71QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Z6KCGH-es OAKLEY Holbrook Xl 941703 Gafas de sol para Hombre...'
 sku: 'B077Z6KCGH-es'
 tags: [ 'gafas', ]

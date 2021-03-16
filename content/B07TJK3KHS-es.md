@@ -5,7 +5,7 @@ date: 2020-09-30 09:27:35
 image: 'https://m.media-amazon.com/images/I/41ixCzZQZlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJK3KHS-es Clarks Willow Gild Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TJK3KHS-es'
 tags: [ 'sandalias', ]

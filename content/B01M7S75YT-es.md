@@ -5,7 +5,7 @@ date: 2020-06-20 02:25:08
 image: 'https://m.media-amazon.com/images/I/31dMQB5Kl5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7S75YT-es Ever-Pretty Vestido de Fiesta Gasa Cuello en V A-línea sin...'
 sku: 'B01M7S75YT-es'
 tags: [ 'vestido', ]

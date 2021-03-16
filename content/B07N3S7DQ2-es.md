@@ -5,7 +5,7 @@ date: 2020-06-22 08:42:41
 image: 'https://m.media-amazon.com/images/I/41g1ugdG4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3S7DQ2-es Bright Deer Vestido de Fiesta Boda Noche Cóctel Graduación...'
 sku: 'B07N3S7DQ2-es'
 tags: [ 'vestido', ]

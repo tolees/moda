@@ -5,7 +5,7 @@ date: 2020-04-25 17:07:16
 image: 'https://m.media-amazon.com/images/I/41OgAQyks8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ16TP2-es Springfield 8.0.Lentejuelas Texto Camiseta Multicolor...'
 sku: 'B07NJ16TP2-es'
 tags: [ 'camiseta', ]

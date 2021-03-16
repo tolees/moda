@@ -5,7 +5,7 @@ date: 2020-06-30 11:51:41
 image: 'https://m.media-amazon.com/images/I/41QcfCduBaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XACVLSK-es Scholl Desodorante Pies Fresh Step anti-transpirante...'
 sku: 'B00XACVLSK-es'
 tags: [ 'zapatos', ]

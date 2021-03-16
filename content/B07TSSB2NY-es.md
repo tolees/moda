@@ -5,7 +5,7 @@ date: 2020-08-05 21:16:59
 image: 'https://m.media-amazon.com/images/I/51XWUgaXY0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSSB2NY-es LIGE Relojes para Hombres Moda Relojes de Pulsera de para...'
 sku: 'B07TSSB2NY-es'
 tags: [ 'moda','vestido', ]

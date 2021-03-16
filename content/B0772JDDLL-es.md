@@ -5,7 +5,7 @@ date: 2020-05-02 21:02:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RykCVzNHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772JDDLL-es MERAKI Pantalón Cortos Chinos Hombre Gris Oscuro M'
 sku: 'B0772JDDLL-es'
 tags: [ 'meraki','pantalón', ]

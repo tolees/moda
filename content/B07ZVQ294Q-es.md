@@ -5,7 +5,7 @@ date: 2020-10-01 15:34:31
 image: 'https://m.media-amazon.com/images/I/41pHXPkXZYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVQ294Q-es Levi s Housemark Graphic tee Camiseta Ssnl Hm Outline...'
 sku: 'B07ZVQ294Q-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-03 12:31:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Zr46asNkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B12DKJQ-es FIND Vestido de Flores con Volantes Mujer Rosa Pink Large'
 sku: 'B07B12DKJQ-es'
 tags: [ 'vestido', ]

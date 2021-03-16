@@ -5,7 +5,7 @@ date: 2020-04-12 10:28:16
 image: 'https://m.media-amazon.com/images/I/31P9wiE1a9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJS7BT1-es Tous K Shock Rever Organizadore de bolso para Mujer...'
 sku: 'B07PJS7BT1-es'
 tags: [ 'bolso', ]

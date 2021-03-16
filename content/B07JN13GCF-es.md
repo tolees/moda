@@ -5,7 +5,7 @@ date: 2020-08-15 09:57:09
 image: 'https://m.media-amazon.com/images/I/31FaDoWmWcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JN13GCF-es HAWKERS Gafas de Sol ONE Carbono para Hombre y Mujer con...'
 sku: 'B07JN13GCF-es'
 tags: [ 'gafas', ]

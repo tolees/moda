@@ -5,7 +5,7 @@ date: 2020-06-26 09:10:39
 image: 'https://m.media-amazon.com/images/I/41J8HHxvqSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6RLQFX-es find. Sandalias de Cuero Trenzado Mujer Varios Colores Tan...'
 sku: 'B01N6RLQFX-es'
 tags: [ 'sandalias', ]

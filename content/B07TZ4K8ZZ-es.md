@@ -5,7 +5,7 @@ date: 2020-08-04 13:02:19
 image: 'https://m.media-amazon.com/images/I/412RgvgtfML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ4K8ZZ-es New Look Maisie Fitted Puffer Abrigo Mujer Negro Black 1...'
 sku: 'B07TZ4K8ZZ-es'
 tags: [ 'abrigo', ]

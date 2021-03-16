@@ -5,7 +5,7 @@ date: 2020-06-19 08:45:38
 image: 'https://m.media-amazon.com/images/I/41ts7R6YwjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779FKQ4W-es adidas Entrada 18 JSY Teamtrikot Camiseta de Manga Corta...'
 sku: 'B0779FKQ4W-es'
 tags: [ 'camiseta', ]

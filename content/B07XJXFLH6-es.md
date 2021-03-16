@@ -5,7 +5,7 @@ date: 2020-09-01 11:05:32
 image: 'https://m.media-amazon.com/images/I/41y2g0SAhRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJXFLH6-es DoGeek Botas Nieve Botas de Forro de Piel de Invierno...'
 sku: 'B07XJXFLH6-es'
 tags: [ 'zapatos', ]

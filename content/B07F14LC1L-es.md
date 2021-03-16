@@ -5,7 +5,7 @@ date: 2020-09-16 10:23:27
 image: 'https://m.media-amazon.com/images/I/31TBJC3jlxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F14LC1L-es Havaianas Top Mix Chanclas Unisex Adulto Multicolor...'
 sku: 'B07F14LC1L-es'
 tags: [ 'chanclas', ]

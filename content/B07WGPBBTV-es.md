@@ -5,7 +5,7 @@ date: 2020-07-19 02:45:27
 image: 'https://m.media-amazon.com/images/I/31JpeF2dpAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGPBBTV-es FIND Barely There Strappy Sandalias Abiertas Beige Tan 36 EU'
 sku: 'B07WGPBBTV-es'
 tags: [ 'sandalias', ]

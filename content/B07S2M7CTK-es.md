@@ -5,7 +5,7 @@ date: 2020-09-24 18:48:21
 image: 'https://m.media-amazon.com/images/I/31jJUjmXgDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2M7CTK-es adidas M Mh 3s tee Camiseta de Manga Corta Hombre...'
 sku: 'B07S2M7CTK-es'
 tags: [ 'camiseta', ]

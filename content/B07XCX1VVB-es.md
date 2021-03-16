@@ -5,7 +5,7 @@ date: 2020-02-26 09:22:34
 image: 'https://m.media-amazon.com/images/I/51SKddwbx5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCX1VVB-es Jersey De Hombre Sudadera con Capucha De La Camiseta con...'
 sku: 'B07XCX1VVB-es'
 tags: [ 'camiseta','jersey','sudadera', ]

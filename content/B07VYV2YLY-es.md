@@ -5,7 +5,7 @@ date: 2020-09-20 18:11:34
 image: 'https://m.media-amazon.com/images/I/41-sSjOcU5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYV2YLY-es Superdry Hombre Chaqueta de chándal Off-Piste Ultravioleta L'
 sku: 'B07VYV2YLY-es'
 tags: [ 'chaqueta', ]

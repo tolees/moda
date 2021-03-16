@@ -5,7 +5,7 @@ date: 2020-06-15 12:16:52
 image: 'https://m.media-amazon.com/images/I/51dqPlU0XyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRTHF22-es Quiksilver Molokai Tijuana Zapatos de Playa y Piscina para...'
 sku: 'B07SRTHF22-es'
 tags: [ 'zapatos', ]

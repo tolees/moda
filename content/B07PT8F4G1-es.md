@@ -5,7 +5,7 @@ date: 2020-09-22 09:47:37
 image: 'https://m.media-amazon.com/images/I/31xGZIISqvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT8F4G1-es Under Armour Mk1 Warmup Po Hood Sudadera Hombre Negro XL'
 sku: 'B07PT8F4G1-es'
 tags: [ 'sudadera', ]

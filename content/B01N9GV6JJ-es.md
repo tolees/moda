@@ -5,7 +5,7 @@ date: 2020-01-27 18:42:15
 image: 'https://m.media-amazon.com/images/I/41HRFhbn0JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9GV6JJ-es KRISP 6252-TUR-20 Vestido Corto Patinadora Vuelo Fruncido...'
 sku: 'B01N9GV6JJ-es'
 tags: [ 'vestido', ]

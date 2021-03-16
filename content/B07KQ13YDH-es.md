@@ -5,7 +5,7 @@ date: 2020-09-02 07:19:53
 image: 'https://m.media-amazon.com/images/I/41YjtRtpGPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ13YDH-es FitFlop Lottie Glitzy Sandalias de Punta Descubierta Women...'
 sku: 'B07KQ13YDH-es'
 tags: [ 'sandalias', ]

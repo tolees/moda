@@ -5,7 +5,7 @@ date: 2020-02-04 09:36:37
 image: 'https://m.media-amazon.com/images/I/41TercADnyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831PVM8C-es Canadian Peak Sudadera NIÑO Galapagos Gris Melange 12'
 sku: 'B0831PVM8C-es'
 tags: [ 'sudadera', ]

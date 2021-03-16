@@ -5,7 +5,7 @@ date: 2020-08-19 02:30:43
 image: 'https://m.media-amazon.com/images/I/41jbNJG2hgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1VNPH5-es Tommy Hilfiger Windbreaker J Chaqueta Cortavientos con...'
 sku: 'B07W1VNPH5-es'
 tags: [ 'chaqueta', ]

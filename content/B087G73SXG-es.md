@@ -5,7 +5,7 @@ date: 2020-05-11 19:31:51
 image: 'https://m.media-amazon.com/images/I/51VYwMRv-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087G73SXG-es NIGHT CHERRY Mujer Moda Tacón Ancho Botines Cremallera...'
 sku: 'B087G73SXG-es'
 tags: [ 'botines','moda','vestido','zapatos', ]

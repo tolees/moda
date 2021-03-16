@@ -5,7 +5,7 @@ date: 2020-01-20 16:42:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YnLroEe2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R4JL8II-es Izas Jalan Chaqueta polar Mujer Lima/ Turquesa XXL'
 sku: 'B00R4JL8II-es'
 tags: [ 'chaqueta', ]

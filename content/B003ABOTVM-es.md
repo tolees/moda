@@ -5,7 +5,7 @@ date: 2020-08-25 21:28:55
 image: 'https://m.media-amazon.com/images/I/31jH9g7413L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ABOTVM-es Havaianas Brasil Chanclas Unisex Adulto Verde Amazonia...'
 sku: 'B003ABOTVM-es'
 tags: [ 'chanclas', ]

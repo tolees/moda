@@ -5,7 +5,7 @@ date: 2020-10-08 11:55:42
 image: 'https://m.media-amazon.com/images/I/31HZe2O-N-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCG8QNM-es Marca Amazon - find. Stitch Cardigan - chaqueta punto...'
 sku: 'B07VCG8QNM-es'
 tags: [ '-','chaqueta','find.', ]

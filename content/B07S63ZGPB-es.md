@@ -5,7 +5,7 @@ date: 2020-08-28 15:30:50
 image: 'https://m.media-amazon.com/images/I/31l-x1agp3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S63ZGPB-es Crocs Crocband Flip Women Chanclas para Mujer Verde Neo...'
 sku: 'B07S63ZGPB-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 16:13:15
 image: 'https://m.media-amazon.com/images/I/31WVq9TEoEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FD1X5SZ-es Doaraha Pantalones Deportivos Mujer Algodón Pantalón de...'
 sku: 'B08FD1X5SZ-es'
 tags: [ 'pantalón', ]

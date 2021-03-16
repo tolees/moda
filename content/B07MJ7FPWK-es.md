@@ -5,7 +5,7 @@ date: 2020-04-30 12:58:39
 image: 'https://m.media-amazon.com/images/I/31wii1A+LYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ7FPWK-es Clarks Flow Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MJ7FPWK-es'
 tags: [ 'zapatos', ]

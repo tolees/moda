@@ -5,7 +5,7 @@ date: 2020-07-18 08:40:53
 image: 'https://m.media-amazon.com/images/I/31jGud1UFfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPR8MCC-es Calvin Klein 2pk Bikini Azul 1BlackIris/1White 0HC 8-9...'
 sku: 'B07VPR8MCC-es'
 tags: [ 'bikini', ]

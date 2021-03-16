@@ -5,7 +5,7 @@ date: 2020-06-27 21:53:36
 image: 'https://m.media-amazon.com/images/I/41nBdiCwtKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4RY5WV-es Pepe Jeans Chepstow Vaqueros Hombre Ajustados Azul...'
 sku: 'B07X4RY5WV-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-01-12 13:18:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jr8bNRFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FY7LKD-es find. Chaqueta Punto con Cinturón para Mujer Azul Navy 36...'
 sku: 'B074FY7LKD-es'
 tags: [ 'chaqueta', ]

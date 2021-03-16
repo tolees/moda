@@ -5,7 +5,7 @@ date: 2020-03-04 05:22:21
 image: 'https://m.media-amazon.com/images/I/4177XgTX7iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LH3MLIS-es Helly Hansen W Paramount Softshell Chaqueta Mujer Negro L'
 sku: 'B00LH3MLIS-es'
 tags: [ 'chaqueta', ]

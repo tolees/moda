@@ -5,7 +5,7 @@ date: 2020-10-02 09:08:31
 image: 'https://m.media-amazon.com/images/I/31wSV2Ur2uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3PYCTR-es Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt...'
 sku: 'B07P3PYCTR-es'
 tags: [ 'goodthreads', ]

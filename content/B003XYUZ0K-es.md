@@ -5,7 +5,7 @@ date: 2020-10-06 19:57:40
 image: 'https://m.media-amazon.com/images/I/41D0Zxin1RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XYUZ0K-es Levi s 501 Original Fit Jeans Vaqueros Azul Sey 2367 31W /...'
 sku: 'B003XYUZ0K-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-07-16 15:47:43
 image: 'https://m.media-amazon.com/images/I/41oWgjvJXuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DV8XZQW-es Columbia Kyra III Sandalias para Mujer Negro Shark Steam...'
 sku: 'B07DV8XZQW-es'
 tags: [ 'sandalias', ]

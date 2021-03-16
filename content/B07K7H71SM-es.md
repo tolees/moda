@@ -5,7 +5,7 @@ date: 2020-06-23 17:24:17
 image: 'https://m.media-amazon.com/images/I/41vh6k2CmKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7H71SM-es adidas Tiro19 TR Jkty Chaqueta de Deporte Unisex niños...'
 sku: 'B07K7H71SM-es'
 tags: [ 'chaqueta', ]

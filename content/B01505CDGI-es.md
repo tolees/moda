@@ -5,7 +5,7 @@ date: 2020-01-29 22:28:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XYHOepH9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01505CDGI-es Star Wars Episode VII Kylo REN Shadows Camiseta Negro...'
 sku: 'B01505CDGI-es'
 tags: [ 'camiseta', ]

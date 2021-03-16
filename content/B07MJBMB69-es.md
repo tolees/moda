@@ -5,7 +5,7 @@ date: 2020-05-30 16:38:32
 image: 'https://m.media-amazon.com/images/I/3108egdoggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJBMB69-es Marca Amazon - find. Cinturón Doble Cierre para Hombre...'
 sku: 'B07MJBMB69-es'
 tags: [ '-','find.', ]

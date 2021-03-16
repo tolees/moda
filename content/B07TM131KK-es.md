@@ -5,7 +5,7 @@ date: 2020-08-15 07:58:10
 image: 'https://m.media-amazon.com/images/I/41D1ueuc2UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TM131KK-es Lacoste Pack De 2 Boxer Courts Multicolor Blanc/Pin Yn6...'
 sku: 'B07TM131KK-es'
 tags: [ 'boxer', ]

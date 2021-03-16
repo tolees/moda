@@ -5,7 +5,7 @@ date: 2020-06-28 21:07:21
 image: 'https://m.media-amazon.com/images/I/31v0xhgTgfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DLWWW5-es Agatha Ruiz de la Prada Bandolera Bolso Redondo Infantil...'
 sku: 'B085DLWWW5-es'
 tags: [ 'bolso', ]

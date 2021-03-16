@@ -5,7 +5,7 @@ date: 2020-01-21 14:29:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XmielfNkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017XOZMM6-es Helly Hansen Salt Power Chaqueta Hombre Negro L'
 sku: 'B017XOZMM6-es'
 tags: [ 'chaqueta', ]

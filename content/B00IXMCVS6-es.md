@@ -5,7 +5,7 @@ date: 2020-05-17 16:40:36
 image: 'https://m.media-amazon.com/images/I/41juEy1BNCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IXMCVS6-es Joma Nobel Pantalón de equipación Azul royal L'
 sku: 'B00IXMCVS6-es'
 tags: [ 'pantalón', ]

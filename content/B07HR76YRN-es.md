@@ -5,7 +5,7 @@ date: 2020-08-14 16:15:43
 image: 'https://m.media-amazon.com/images/I/41KEeXByUWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HR76YRN-es FOSTAK Bolso de hombro de viaje para Messenger Work...'
 sku: 'B07HR76YRN-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 12:36:57
 image: 'https://m.media-amazon.com/images/I/4194meA+PiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCNQBR7-es Marvel More Than A Fan Mujer Camiseta Negro S 100% algodón...'
 sku: 'B07YCNQBR7-es'
 tags: [ 'camiseta', ]

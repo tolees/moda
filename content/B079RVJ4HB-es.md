@@ -5,7 +5,7 @@ date: 2020-10-02 20:26:23
 image: 'https://m.media-amazon.com/images/I/31GAZySy2kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RVJ4HB-es Marca Amazon - Iris & Lilly Tanga Mujer Pack de 3 Marrón...'
 sku: 'B079RVJ4HB-es'
 tags: [ '&','iris','lilly', ]

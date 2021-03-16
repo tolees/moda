@@ -5,7 +5,7 @@ date: 2020-04-27 14:00:36
 image: 'https://m.media-amazon.com/images/I/411JjIwHLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPFWWPR-es Jack & Jones JORHARDY Light Puffer Chaqueta Rojo Detalles...'
 sku: 'B07VPFWWPR-es'
 tags: [ 'chaqueta', ]

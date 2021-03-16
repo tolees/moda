@@ -5,7 +5,7 @@ date: 2020-09-17 12:35:41
 image: 'https://m.media-amazon.com/images/I/41JW4a9K95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVCDKMX-es Geographical Norway Sudadera Mujer GYMCLASS A Rojo L'
 sku: 'B07XVCDKMX-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:59:14
 image: 'https://m.media-amazon.com/images/I/513dl3tqTNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQS8M2-es Pepe Jeans Marcelle Camiseta Bubble Gum 349 3-4 años Talla...'
 sku: 'B07MZQS8M2-es'
 tags: [ 'camiseta', ]

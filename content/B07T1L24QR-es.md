@@ -5,7 +5,7 @@ date: 2020-02-28 09:48:09
 image: 'https://m.media-amazon.com/images/I/5115HKxTsBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1L24QR-es Tikea Bolsa Geométrica de Corcho Natural para Mujer...'
 sku: 'B07T1L24QR-es'
 tags: [ 'moda', ]

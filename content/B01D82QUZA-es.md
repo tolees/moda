@@ -5,7 +5,7 @@ date: 2020-04-01 11:03:32
 image: 'https://m.media-amazon.com/images/I/51tKvDFGSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D82QUZA-es URAQT Vestido de Princesa Elsa Reina Frozen Disfraz Elsa...'
 sku: 'B01D82QUZA-es'
 tags: [ 'vestido', ]

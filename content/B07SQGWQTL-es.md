@@ -5,7 +5,7 @@ date: 2020-08-21 18:09:15
 image: 'https://m.media-amazon.com/images/I/31SMWkxNL1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGWQTL-es Geox Vega W Zapatillas para Mujer Blanco Off White and...'
 sku: 'B07SQGWQTL-es'
 tags: [ 'geox', ]

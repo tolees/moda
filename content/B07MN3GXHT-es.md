@@ -5,7 +5,7 @@ date: 2020-05-27 06:21:44
 image: 'https://m.media-amazon.com/images/I/41Rru4enE5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN3GXHT-es Lee Sherpa Jacket Chaqueta Vaquera Azul Light Stone Oy...'
 sku: 'B07MN3GXHT-es'
 tags: [ 'chaqueta', ]

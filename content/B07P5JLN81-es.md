@@ -5,7 +5,7 @@ date: 2020-01-13 16:08:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31mycI2zmlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5JLN81-es Joma Combi Camiseta Entrenamiento Hombre Negro L'
 sku: 'B07P5JLN81-es'
 tags: [ 'camiseta', ]

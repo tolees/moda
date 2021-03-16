@@ -5,7 +5,7 @@ date: 2020-03-09 09:30:04
 image: 'https://m.media-amazon.com/images/I/41AUatrVrgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSJQ5Y8-es Only Onlnorth Nylon Jacket CC Otw Chaqueta Azul Detalle...'
 sku: 'B07TSJQ5Y8-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-02-09 09:09:31
 image: 'https://m.media-amazon.com/images/I/41lzwBStwrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5CRMPB-es Geographical Norway Sudadera DE Hombre GYMCLASS B Gris...'
 sku: 'B07Y5CRMPB-es'
 tags: [ 'sudadera', ]

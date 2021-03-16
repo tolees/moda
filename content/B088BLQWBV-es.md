@@ -5,7 +5,7 @@ date: 2020-05-22 14:33:59
 image: 'https://m.media-amazon.com/images/I/41QdE113JkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BLQWBV-es Mediffen Mujer Tacón De Agujae Elegante Fiesta Vestido...'
 sku: 'B088BLQWBV-es'
 tags: [ 'vestido', ]

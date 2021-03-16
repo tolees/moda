@@ -5,7 +5,7 @@ date: 2020-02-06 14:48:41
 image: 'https://m.media-amazon.com/images/I/31qi9LcPK7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXKU88C-es Trango Sieber Complet Chaqueta Hombre Rojo Rojo Fuego 2XL'
 sku: 'B01LXKU88C-es'
 tags: [ 'chaqueta', ]

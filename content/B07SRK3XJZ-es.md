@@ -5,7 +5,7 @@ date: 2020-08-23 11:22:07
 image: 'https://m.media-amazon.com/images/I/41uLPuUX01L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRK3XJZ-es Geox U Tevere C Sandalias con Punta Abierta para Hombre...'
 sku: 'B07SRK3XJZ-es'
 tags: [ 'geox','sandalias', ]

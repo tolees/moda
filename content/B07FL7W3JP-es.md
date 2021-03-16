@@ -5,7 +5,7 @@ date: 2020-09-13 19:11:13
 image: 'https://m.media-amazon.com/images/I/41Xt2qSjXTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FL7W3JP-es Superdry Vintage Logo Tri tee Camiseta de Tirantes Gris...'
 sku: 'B07FL7W3JP-es'
 tags: [ 'camiseta', ]

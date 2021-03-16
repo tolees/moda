@@ -5,7 +5,7 @@ date: 2020-04-01 12:28:55
 image: 'https://m.media-amazon.com/images/I/41nLExtWDfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K75ZPPD-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Megamouth...'
 sku: 'B07K75ZPPD-es'
 tags: [ 'vaqueros', ]

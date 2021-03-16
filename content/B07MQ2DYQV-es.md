@@ -5,7 +5,7 @@ date: 2020-03-31 16:36:25
 image: 'https://m.media-amazon.com/images/I/41EY9EltaeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2DYQV-es Clarks - Botines de Cuero Hombre Color Gris Talla 44.5 EU'
 sku: 'B07MQ2DYQV-es'
 tags: [ 'botines', ]

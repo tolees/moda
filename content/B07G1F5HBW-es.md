@@ -5,7 +5,7 @@ date: 2020-10-11 00:12:10
 image: 'https://m.media-amazon.com/images/I/412PyCJkSpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1F5HBW-es Superdry O L Vintage Embroidery L/s tee Camisa Manga Larga...'
 sku: 'B07G1F5HBW-es'
 tags: [ 'camisa', ]

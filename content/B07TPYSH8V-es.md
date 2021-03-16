@@ -5,7 +5,7 @@ date: 2020-09-10 00:24:31
 image: 'https://m.media-amazon.com/images/I/312dNmLTwbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPYSH8V-es Clarks Foxwell Hall Zapatos de Cordones Derby Negro Black...'
 sku: 'B07TPYSH8V-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-01-27 08:30:43
 image: 'https://m.media-amazon.com/images/I/41Cb-6l-Q9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2ZT3RO-es Under Armour Rival Fitted Pull Over Sudadera Hombre Negro...'
 sku: 'B01M2ZT3RO-es'
 tags: [ 'sudadera', ]

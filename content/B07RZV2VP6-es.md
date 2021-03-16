@@ -5,7 +5,7 @@ date: 2020-05-23 10:58:24
 image: 'https://m.media-amazon.com/images/I/31LJlh1ZWYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZV2VP6-es BOSS LS-Shirt RN Thermal+ Camiseta térmica Rojo Dark Red...'
 sku: 'B07RZV2VP6-es'
 tags: [ 'camiseta', ]

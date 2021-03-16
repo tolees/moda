@@ -5,7 +5,7 @@ date: 2020-06-16 13:01:28
 image: 'https://m.media-amazon.com/images/I/51lxe3olMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD9DBMY-es MerCie Joyeria de creación Artesanal de Juguete | 1800...'
 sku: 'B07QD9DBMY-es'
 tags: [ 'moda', ]

@@ -5,7 +5,7 @@ date: 2020-06-21 07:13:51
 image: 'https://m.media-amazon.com/images/I/31SrtVML4kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2HL98-es Clarks Bampton Lace Zapatos de Cordones Brogue para Hombre...'
 sku: 'B07MQ2HL98-es'
 tags: [ 'zapatos', ]

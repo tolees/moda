@@ -5,7 +5,7 @@ date: 2020-04-24 16:18:07
 image: 'https://m.media-amazon.com/images/I/41kH1806W8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4QKSK-es Levi s SS Set-in Sunset Pocket Camiseta Multicolor...'
 sku: 'B07KF4QKSK-es'
 tags: [ 'camiseta', ]

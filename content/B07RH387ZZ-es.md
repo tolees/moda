@@ -5,7 +5,7 @@ date: 2020-09-07 07:55:08
 image: 'https://m.media-amazon.com/images/I/31GW7FlE7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH387ZZ-es Under Armour Fleece PO Men s Pullover Hoodie Sudadera con...'
 sku: 'B07RH387ZZ-es'
 tags: [ 'sudadera', ]

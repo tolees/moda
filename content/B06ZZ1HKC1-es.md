@@ -5,7 +5,7 @@ date: 2020-06-14 17:01:49
 image: 'https://m.media-amazon.com/images/I/51EN-sVJ5yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZ1HKC1-es Miunana 5x Vestidos de noche + 10 Zapatos Vestir de Fiesta...'
 sku: 'B06ZZ1HKC1-es'
 tags: [ 'zapatos', ]

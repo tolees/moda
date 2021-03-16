@@ -5,7 +5,7 @@ date: 2020-01-11 20:04:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BSk86sqGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RR55RT-es Pepe Jeans Jepson PM302995 Camisa Azul Black Wk2 Medium...'
 sku: 'B079RR55RT-es'
 tags: [ 'camisa', ]

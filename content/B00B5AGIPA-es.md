@@ -5,7 +5,7 @@ date: 2020-01-22 20:16:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wn0V10WOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B5AGIPA-es Cressi Tauchmaske Erwachsen F1 Clear Frameless Gafas de...'
 sku: 'B00B5AGIPA-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-05-18 09:32:52
 image: 'https://m.media-amazon.com/images/I/4136DOZuaqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGDCS2F-es Columbia WAYFINDER Outdry Zapatos Multideporte para Hombre...'
 sku: 'B07JGDCS2F-es'
 tags: [ 'zapatos', ]

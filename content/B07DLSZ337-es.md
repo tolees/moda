@@ -5,7 +5,7 @@ date: 2020-02-15 01:35:36
 image: 'https://m.media-amazon.com/images/I/416gyMJuwyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLSZ337-es SPECIAL MAGIC - Pantalón Deportivo - para Mujer Gris Gris S'
 sku: 'B07DLSZ337-es'
 tags: [ 'pantalón', ]

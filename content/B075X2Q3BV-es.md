@@ -5,7 +5,7 @@ date: 2020-01-03 13:32:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ir2Oe1nWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075X2Q3BV-es find. NEWSTW046 vaqueros mujer Azul Dark Vintage W27/L30'
 sku: 'B075X2Q3BV-es'
 tags: [ 'vaqueros', ]

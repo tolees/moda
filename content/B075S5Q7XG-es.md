@@ -5,7 +5,7 @@ date: 2020-01-11 16:08:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CPhw24oWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075S5Q7XG-es IRIS & LILLY Camisón Corto de Tirantes con Detalle de...'
 sku: 'B075S5Q7XG-es'
 tags: [ '&','iris','lilly', ]

@@ -5,7 +5,7 @@ date: 2020-07-20 19:24:05
 image: 'https://m.media-amazon.com/images/I/41V1zLEF-7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CW9B7WJ-es Socluer Bikini Tankini de Mujer Bikini Push up de Playa de...'
 sku: 'B07CW9B7WJ-es'
 tags: [ 'bikini', ]

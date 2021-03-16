@@ -5,7 +5,7 @@ date: 2020-03-09 19:02:20
 image: 'https://m.media-amazon.com/images/I/41j4B6WUXyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF9SW8M-es PUMA Hit Feel It tee Camiseta Mujer Black XL'
 sku: 'B07QF9SW8M-es'
 tags: [ 'camiseta', ]

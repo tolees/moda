@@ -5,7 +5,7 @@ date: 2020-05-05 03:35:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41c4%2BZaaeTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0748PJVZN-es find. Vestido de Tirantes con Raya Ejecutiva para Mujer...'
 sku: 'B0748PJVZN-es'
 tags: [ 'vestido', ]

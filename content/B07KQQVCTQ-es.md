@@ -5,7 +5,7 @@ date: 2020-08-01 19:38:27
 image: 'https://m.media-amazon.com/images/I/41NbCOPtU8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQQVCTQ-es SALOMON Drifter Mid Hoodie W Chaqueta Reversible con...'
 sku: 'B07KQQVCTQ-es'
 tags: [ 'chaqueta', ]

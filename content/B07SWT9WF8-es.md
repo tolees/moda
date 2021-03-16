@@ -5,7 +5,7 @@ date: 2020-08-05 03:00:59
 image: 'https://m.media-amazon.com/images/I/41lbFfvRtBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWT9WF8-es Geox D Nydame D Zapatillas para Mujer Negro Black C9999 37 EU'
 sku: 'B07SWT9WF8-es'
 tags: [ 'geox', ]

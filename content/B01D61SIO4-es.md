@@ -5,7 +5,7 @@ date: 2020-02-20 20:56:28
 image: 'https://m.media-amazon.com/images/I/31vbWfGVhrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D61SIO4-es Trangoworld Ghawdex SN Pantalón Largo Hombre Rojo...'
 sku: 'B01D61SIO4-es'
 tags: [ 'pantalón', ]

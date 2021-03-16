@@ -5,7 +5,7 @@ date: 2020-02-24 15:45:09
 image: 'https://m.media-amazon.com/images/I/513J8L5LNnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQM2Q1X-es Under Armour Field Player s Glove 2.0 Guantes Hombre Negro...'
 sku: 'B07JQM2Q1X-es'
 tags: [ 'guantes', ]

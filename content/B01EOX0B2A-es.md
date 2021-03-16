@@ -5,7 +5,7 @@ date: 2020-04-26 16:55:54
 image: 'https://m.media-amazon.com/images/I/31muA7XEQgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EOX0B2A-es Helly Hansen Dubliner Jacket Chaqueta Chubasquero para...'
 sku: 'B01EOX0B2A-es'
 tags: [ 'chaqueta', ]

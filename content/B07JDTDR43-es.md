@@ -5,7 +5,7 @@ date: 2020-03-08 09:53:18
 image: 'https://m.media-amazon.com/images/I/41WgDmnan7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JDTDR43-es Lacoste Sh6382 Sudadera Gris Argent Chiné Cca XXXX-Large...'
 sku: 'B07JDTDR43-es'
 tags: [ 'sudadera', ]

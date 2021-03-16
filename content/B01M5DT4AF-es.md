@@ -5,7 +5,7 @@ date: 2020-01-07 11:25:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iLbD6VcAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5DT4AF-es Under Armour UA HG Printedy Pantalón Corto Mujer Gris M'
 sku: 'B01M5DT4AF-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-01-10 13:45:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31b1Qlh3-wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9NT83P-es Calvin Klein Sonnenbrille Ck18502S 1 Gafas de sol Negro...'
 sku: 'B07D9NT83P-es'
 tags: [ 'gafas', ]

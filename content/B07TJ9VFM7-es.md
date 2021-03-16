@@ -5,7 +5,7 @@ date: 2020-09-11 13:33:50
 image: 'https://m.media-amazon.com/images/I/41lT6o6RDDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9VFM7-es NIKE W NP Tank Essential Swoosh Camiseta sin Mangas Mujer...'
 sku: 'B07TJ9VFM7-es'
 tags: [ 'camiseta', ]

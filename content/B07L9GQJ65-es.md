@@ -5,7 +5,7 @@ date: 2020-04-04 15:03:32
 image: 'https://m.media-amazon.com/images/I/31gnVome91L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9GQJ65-es Under Armour Tech Terry Sudadera Mujer Negro XL'
 sku: 'B07L9GQJ65-es'
 tags: [ 'sudadera', ]

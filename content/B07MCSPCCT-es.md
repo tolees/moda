@@ -5,7 +5,7 @@ date: 2020-04-17 16:59:38
 image: 'https://m.media-amazon.com/images/I/417gbP+Lq3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPCCT-es Napapijri Avio Chaqueta Verde Green Forest 2 Ge3 XXL para...'
 sku: 'B07MCSPCCT-es'
 tags: [ 'chaqueta', ]

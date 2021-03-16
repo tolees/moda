@@ -5,7 +5,7 @@ date: 2020-09-22 20:50:42
 image: 'https://m.media-amazon.com/images/I/31ox3-JmE+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWTT9NT-es Geox U ARSIEN A Zapatillas para Hombre Gris Taupe C6029 44 EU'
 sku: 'B07SWTT9NT-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-01-06 20:08:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417PHWtpJbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JHFY4D-es find. D7832 vestido fiesta mujer Rojo Rot 36 Talla del...'
 sku: 'B073JHFY4D-es'
 tags: [ 'vestido', ]

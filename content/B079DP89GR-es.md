@@ -5,7 +5,7 @@ date: 2020-06-21 05:34:19
 image: 'https://m.media-amazon.com/images/I/31XuJPhcAVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DP89GR-es Ever-Pretty A-línea Vestido de Noche Gasa Cuello en V sin...'
 sku: 'B079DP89GR-es'
 tags: [ 'vestido', ]

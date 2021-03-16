@@ -5,7 +5,7 @@ date: 2020-03-26 05:58:58
 image: 'https://m.media-amazon.com/images/I/3109qZQPqPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBJWJD8-es Tommy Hilfiger Boat Neck tee 3/4 Sudadera Deportiva Sky...'
 sku: 'B07LBJWJD8-es'
 tags: [ 'sudadera', ]

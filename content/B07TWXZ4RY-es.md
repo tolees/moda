@@ -5,7 +5,7 @@ date: 2020-08-09 19:17:12
 image: 'https://m.media-amazon.com/images/I/41Rkjbs3f+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWXZ4RY-es Lee Rider Vaqueros Slim Negro Black Helen Kj W32/L30 Talla...'
 sku: 'B07TWXZ4RY-es'
 tags: [ 'vaqueros', ]

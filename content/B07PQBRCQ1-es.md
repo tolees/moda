@@ -5,7 +5,7 @@ date: 2020-06-15 21:34:07
 image: 'https://m.media-amazon.com/images/I/41pUBysGAzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQBRCQ1-es Mujer Traje de Baño Conjunto Bikini Estampado Verde Dos...'
 sku: 'B07PQBRCQ1-es'
 tags: [ 'bikini', ]

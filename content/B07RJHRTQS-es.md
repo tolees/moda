@@ -5,7 +5,7 @@ date: 2020-02-25 16:53:04
 image: 'https://m.media-amazon.com/images/I/31T-yIRZ4bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJHRTQS-es DoGeek Leggins Deporte Mujer para Training Running Yoga...'
 sku: 'B07RJHRTQS-es'
 tags: [ 'leggins', ]

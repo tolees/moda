@@ -5,7 +5,7 @@ date: 2020-01-24 19:35:24
 image: 'https://m.media-amazon.com/images/I/41QEjPqrZTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPNS4K-es G-STAR RAW Starkon Graphic Loose Round Neck Camiseta Azul...'
 sku: 'B07NDPNS4K-es'
 tags: [ 'camiseta', ]

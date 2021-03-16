@@ -5,7 +5,7 @@ date: 2020-05-02 10:57:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jIArDukcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074RDFDB6-es Red Tape Holker Zapatos de cordones derby hombre Negro...'
 sku: 'B074RDFDB6-es'
 tags: [ 'zapatos', ]

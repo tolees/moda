@@ -5,7 +5,7 @@ date: 2020-03-05 23:42:56
 image: 'https://m.media-amazon.com/images/I/41bRce-sAGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNZF48P-es GANT The Broadcloth Banker Reg BD Camisa Azul Capri Blue...'
 sku: 'B07BNZF48P-es'
 tags: [ 'camisa', ]

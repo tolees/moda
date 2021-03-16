@@ -5,7 +5,7 @@ date: 2020-01-13 13:26:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qsgr9jyqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BXT4QI4-es Kempa Woven Pantalón Corto de Entrenamiento Hombre Blanco L'
 sku: 'B00BXT4QI4-es'
 tags: [ 'pantalón', ]

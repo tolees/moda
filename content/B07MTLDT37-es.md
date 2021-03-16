@@ -5,7 +5,7 @@ date: 2020-07-07 12:58:57
 image: 'https://m.media-amazon.com/images/I/41AnxFgDzKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTLDT37-es Peppa Pig Sudadera para niñas 4-5 años Rosado'
 sku: 'B07MTLDT37-es'
 tags: [ 'sudadera', ]

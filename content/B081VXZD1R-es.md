@@ -5,7 +5,7 @@ date: 2020-01-30 12:20:11
 image: 'https://m.media-amazon.com/images/I/41251ZnrwhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081VXZD1R-es gracosy Botas de Mujer Otoño Invierno Goma Forro de Piel...'
 sku: 'B081VXZD1R-es'
 tags: [ 'botines','zapatos', ]

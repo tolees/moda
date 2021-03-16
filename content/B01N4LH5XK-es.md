@@ -5,7 +5,7 @@ date: 2020-06-07 17:23:08
 image: 'https://m.media-amazon.com/images/I/41JGOkEGP0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4LH5XK-es Puma Cross The Line Singlet Camiseta De Tirantes Hombre...'
 sku: 'B01N4LH5XK-es'
 tags: [ 'camiseta', ]

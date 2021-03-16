@@ -5,7 +5,7 @@ date: 2020-05-07 15:08:45
 image: 'https://m.media-amazon.com/images/I/31Mb4FqPzzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2PVN88-es Adidas Adilette Aqua Zapatos de playa y piscina Unisex...'
 sku: 'B07K2PVN88-es'
 tags: [ 'zapatos', ]

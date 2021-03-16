@@ -5,7 +5,7 @@ date: 2020-04-19 12:48:14
 image: 'https://m.media-amazon.com/images/I/31lTjRX3gdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY8H28W-es Art Harlem Botines para Mujer Marrón Brown/Brown...'
 sku: 'B07NY8H28W-es'
 tags: [ 'botines', ]

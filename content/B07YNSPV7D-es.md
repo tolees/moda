@@ -5,7 +5,7 @@ date: 2020-05-14 10:48:37
 image: 'https://m.media-amazon.com/images/I/410783g6qpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNSPV7D-es Charles Wilson Calzoncillo Bóxer de Hombre 6 Unidades...'
 sku: 'B07YNSPV7D-es'
 tags: [ 'bóxer', ]

@@ -5,7 +5,7 @@ date: 2020-03-04 18:59:16
 image: 'https://m.media-amazon.com/images/I/411HzMoqrqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8YKQYS-es Geox M Dereck B Abrigo Azul Blue Nights F4386 XX-Large...'
 sku: 'B07M8YKQYS-es'
 tags: [ 'abrigo','geox', ]

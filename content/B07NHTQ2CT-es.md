@@ -5,7 +5,7 @@ date: 2020-02-02 11:33:34
 image: 'https://m.media-amazon.com/images/I/31-t-VzGT+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHTQ2CT-es Tom Tailor NOS 1010415 Camiseta para Mujer Marfil Whisper...'
 sku: 'B07NHTQ2CT-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-09-26 10:50:37
 image: 'https://m.media-amazon.com/images/I/31hTdxwHdWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8PG91G-es PUMA Ftblnxt 1/4 Zip Top Sudadera Hombre Black-Ultra Yellow L'
 sku: 'B07X8PG91G-es'
 tags: [ 'sudadera', ]

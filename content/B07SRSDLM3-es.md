@@ -5,7 +5,7 @@ date: 2020-10-12 03:42:57
 image: 'https://m.media-amazon.com/images/I/31tUveVCraL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRSDLM3-es Geox D Taormina F Sandalias con Punta Abierta para Mujer...'
 sku: 'B07SRSDLM3-es'
 tags: [ 'geox','sandalias', ]

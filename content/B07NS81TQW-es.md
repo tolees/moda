@@ -5,7 +5,7 @@ date: 2020-02-29 14:32:51
 image: 'https://m.media-amazon.com/images/I/51UIXiVUPBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NS81TQW-es Camisetas Mujer SHOBDW Dia de la Mujer Verano Patchwork De...'
 sku: 'B07NS81TQW-es'
 tags: [ 'blusa','camiseta', ]

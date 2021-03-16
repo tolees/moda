@@ -5,7 +5,7 @@ date: 2020-07-06 19:26:12
 image: 'https://m.media-amazon.com/images/I/41P8G3nAQ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C9XI1ME-es Joopin Gafas de Sol Mujer Polarizadas de Moda Protección...'
 sku: 'B01C9XI1ME-es'
 tags: [ 'gafas','moda', ]

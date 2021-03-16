@@ -5,7 +5,7 @@ date: 2020-02-13 23:28:48
 image: 'https://m.media-amazon.com/images/I/31rqeoS-IdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZLTJ5-es Geox D Nebula D Zapatillas para Mujer Azul Dk Navy C4021...'
 sku: 'B07LFZLTJ5-es'
 tags: [ 'geox', ]

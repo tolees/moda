@@ -5,7 +5,7 @@ date: 2020-08-30 07:37:40
 image: 'https://m.media-amazon.com/images/I/41E1SftiItL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDKK9Y6-es Desigual Bols tribal Loverty - Bolso bandolera 14 x 24 x...'
 sku: 'B07VDKK9Y6-es'
 tags: [ 'bolso', ]

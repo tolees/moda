@@ -5,7 +5,7 @@ date: 2020-04-22 17:48:04
 image: 'https://m.media-amazon.com/images/I/41c4k-4aJzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7BRB1J-es Lee Small Sunset tee Camiseta Negro Black 01 Large para...'
 sku: 'B07S7BRB1J-es'
 tags: [ 'camiseta', ]

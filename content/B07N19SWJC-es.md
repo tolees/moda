@@ -5,7 +5,7 @@ date: 2020-01-01 19:26:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ImKTSGQsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19SWJC-es Lee Slim Button Down Camisa Azul Frost Blue XX-Large para...'
 sku: 'B07N19SWJC-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-02-16 09:08:04
 image: 'https://m.media-amazon.com/images/I/41CrZuA22zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPBJJSV-es Wrangler Slider Vaqueros Azul Indigo Wit 25F 34W / 32L...'
 sku: 'B07BPBJJSV-es'
 tags: [ 'vaqueros', ]

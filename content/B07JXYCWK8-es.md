@@ -5,7 +5,7 @@ date: 2020-02-15 11:17:22
 image: 'https://m.media-amazon.com/images/I/41gCA3letiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXYCWK8-es XIAOYAO Hombre Sudadera con Capucha Deportiva Manga Larga...'
 sku: 'B07JXYCWK8-es'
 tags: [ 'camisa','sudadera', ]

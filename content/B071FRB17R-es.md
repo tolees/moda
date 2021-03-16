@@ -5,7 +5,7 @@ date: 2020-08-04 01:02:32
 image: 'https://m.media-amazon.com/images/I/31EE7sTd4nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FRB17R-es Herzmutter Pijama de Maternidad - Pijama de Lactancia -...'
 sku: 'B071FRB17R-es'
 tags: [ 'pijama', ]

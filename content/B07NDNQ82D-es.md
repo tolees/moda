@@ -5,7 +5,7 @@ date: 2020-03-04 19:02:32
 image: 'https://m.media-amazon.com/images/I/31KalpUbf4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNQ82D-es G-STAR RAW Scutar Utility Padded Abrigo Gris Dk Black 6484...'
 sku: 'B07NDNQ82D-es'
 tags: [ 'abrigo', ]

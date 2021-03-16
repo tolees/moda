@@ -5,7 +5,7 @@ date: 2020-01-31 23:26:06
 image: 'https://m.media-amazon.com/images/I/51cK2Va1tXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBVKVZ9-es Botines Impermeables Hombre Mujer Botas de Nieve Botines...'
 sku: 'B07WBVKVZ9-es'
 tags: [ 'botines','zapatos', ]

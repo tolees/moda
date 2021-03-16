@@ -5,7 +5,7 @@ date: 2020-10-09 22:31:13
 image: 'https://m.media-amazon.com/images/I/41FarSyO-eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JH66J7P-es Zapatos de Seguridad Hombre Zapatillas de Seguridad con...'
 sku: 'B08JH66J7P-es'
 tags: [ 'zapatos', ]

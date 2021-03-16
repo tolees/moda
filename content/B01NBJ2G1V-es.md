@@ -5,7 +5,7 @@ date: 2020-03-02 18:29:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zLyswmMAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBJ2G1V-es G-STAR RAW Eyben Slim R T Wmn S/s Camiseta Blanco White...'
 sku: 'B01NBJ2G1V-es'
 tags: [ 'camiseta', ]

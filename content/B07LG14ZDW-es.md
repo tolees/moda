@@ -5,7 +5,7 @@ date: 2020-02-16 14:15:08
 image: 'https://m.media-amazon.com/images/I/31gWdVI-dLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG14ZDW-es Geox D Annytah D Bailarinas para Mujer Marrón Chestnut...'
 sku: 'B07LG14ZDW-es'
 tags: [ 'geox', ]

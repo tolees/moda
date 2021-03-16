@@ -5,7 +5,7 @@ date: 2020-09-28 20:02:10
 image: 'https://m.media-amazon.com/images/I/518O2KPp4SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWQ5J9Z-es LIGE Relojes de Pulsera para Hombre Impermeable con Fecha...'
 sku: 'B07QWQ5J9Z-es'
 tags: [ 'moda', ]

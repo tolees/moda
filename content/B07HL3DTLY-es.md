@@ -5,7 +5,7 @@ date: 2020-05-27 19:45:31
 image: 'https://m.media-amazon.com/images/I/41Uo2yUUFnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL3DTLY-es Amazon Essentials - Camisa de cambray de manga corta para...'
 sku: 'B07HL3DTLY-es'
 tags: [ 'camisa', ]

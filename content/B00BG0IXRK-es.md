@@ -5,7 +5,7 @@ date: 2020-05-30 05:39:58
 image: 'https://m.media-amazon.com/images/I/41V4M7eCGDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BG0IXRK-es Nike Benassi JDI Chanclas Unisex Adulto Azul Midnight...'
 sku: 'B00BG0IXRK-es'
 tags: [ 'chanclas', ]

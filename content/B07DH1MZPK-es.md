@@ -5,7 +5,7 @@ date: 2020-09-05 16:31:00
 image: 'https://m.media-amazon.com/images/I/51IMdjBOODL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DH1MZPK-es Cressi Reef Zapatillas Chanclas Unisex Adulto...'
 sku: 'B07DH1MZPK-es'
 tags: [ 'chanclas', ]

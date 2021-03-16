@@ -5,7 +5,7 @@ date: 2020-08-17 11:47:29
 image: 'https://m.media-amazon.com/images/I/41OioAivifL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK2CWYJ-es New Balance 410v6 Trail Zapatos para Correr para Mujer...'
 sku: 'B07RK2CWYJ-es'
 tags: [ 'zapatos', ]

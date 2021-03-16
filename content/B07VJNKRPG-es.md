@@ -5,7 +5,7 @@ date: 2020-09-12 22:45:12
 image: 'https://m.media-amazon.com/images/I/31r36zrkl1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJNKRPG-es Hackett London Amr Tape LS Polo Camisa Manga Larga Blanco...'
 sku: 'B07VJNKRPG-es'
 tags: [ 'camisa', ]

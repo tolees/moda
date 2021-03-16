@@ -5,7 +5,7 @@ date: 2020-07-18 21:25:48
 image: 'https://m.media-amazon.com/images/I/41mppO0L3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777PX5ZQ-es Tommy Hilfiger Jersey T Camiseta con Cuello de Pico y Logo...'
 sku: 'B0777PX5ZQ-es'
 tags: [ 'camiseta','jersey', ]

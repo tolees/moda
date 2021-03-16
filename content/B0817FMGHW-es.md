@@ -5,7 +5,7 @@ date: 2020-06-26 10:50:52
 image: 'https://m.media-amazon.com/images/I/41eWHobKRhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817FMGHW-es Columbia Heather Canyon Chaqueta Softshell Hombre Azul...'
 sku: 'B0817FMGHW-es'
 tags: [ 'chaqueta', ]

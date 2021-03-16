@@ -5,7 +5,7 @@ date: 2020-10-04 14:31:45
 image: 'https://m.media-amazon.com/images/I/418cxp1CKgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWSX9ZW-es SAGUARO Otoño Invierno Zapatillas Interior Casa Caliente...'
 sku: 'B07GWSX9ZW-es'
 tags: [ 'zapatilla','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-05-30 17:33:03
 image: 'https://m.media-amazon.com/images/I/41+B4f1xQZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KG3QH2-es Suhctup Funda Compatible con Samsung Galaxy M10 Antigolpes...'
 sku: 'B088KG3QH2-es'
 tags: [ 'moda', ]

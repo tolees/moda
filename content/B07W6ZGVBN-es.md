@@ -5,7 +5,7 @@ date: 2020-08-31 19:25:22
 image: 'https://m.media-amazon.com/images/I/51FEdaV2YTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6ZGVBN-es DOACT Chaleco Calefactable Exteriores Chaqueta...'
 sku: 'B07W6ZGVBN-es'
 tags: [ 'chaleco','chaqueta', ]

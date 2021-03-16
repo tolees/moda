@@ -5,7 +5,7 @@ date: 2020-04-06 15:52:04
 image: 'https://m.media-amazon.com/images/I/41HnS+XXgGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN3GY65-es Lee Chunky Knit Sudadera Rosa Frost Pink MC Large para Mujer'
 sku: 'B07MN3GY65-es'
 tags: [ 'sudadera', ]

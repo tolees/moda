@@ -5,7 +5,7 @@ date: 2020-04-26 11:31:58
 image: 'https://m.media-amazon.com/images/I/41DS2iR1FpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GWX3TNS-es Geox D Yuki A Mocasines para Mujer Grau...'
 sku: 'B01GWX3TNS-es'
 tags: [ 'geox', ]

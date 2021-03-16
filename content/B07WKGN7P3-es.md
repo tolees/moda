@@ -5,7 +5,7 @@ date: 2020-05-08 11:19:18
 image: 'https://m.media-amazon.com/images/I/518iHtWTXaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKGN7P3-es New Look Faith Belted PU Biker Chaqueta Beige Light Khaki...'
 sku: 'B07WKGN7P3-es'
 tags: [ 'chaqueta', ]

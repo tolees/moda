@@ -5,7 +5,7 @@ date: 2020-05-31 11:06:13
 image: 'https://m.media-amazon.com/images/I/31k8B48RfyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005PQQ3QE-es Crocs Classic Clog Zuecos Unisex Adulto Azul Navy 410...'
 sku: 'B005PQQ3QE-es'
 tags: [ 'zuecos', ]

@@ -5,7 +5,7 @@ date: 2020-07-03 15:24:17
 image: 'https://m.media-amazon.com/images/I/41rVkSpN19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNZMDX5-es Clarks Step Cali Cove Sandalias de Talón Abierto para...'
 sku: 'B07TNZMDX5-es'
 tags: [ 'sandalias', ]

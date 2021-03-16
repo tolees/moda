@@ -5,7 +5,7 @@ date: 2020-05-10 08:02:22
 image: 'https://m.media-amazon.com/images/I/515A83y61NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRIR5QK-es Timberland - Patucos y casquillo para bebés Rosa 17'
 sku: 'B00HRIR5QK-es'
 tags: [ 'timberland', ]

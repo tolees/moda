@@ -5,7 +5,7 @@ date: 2020-06-25 10:19:01
 image: 'https://m.media-amazon.com/images/I/41jxsMr-jEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYWLJJ2-es Pepe Jeans Bobby Camiseta Gris Grey Marl 933 Talla única...'
 sku: 'B07RYWLJJ2-es'
 tags: [ 'camiseta', ]

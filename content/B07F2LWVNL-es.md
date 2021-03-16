@@ -5,7 +5,7 @@ date: 2020-03-29 14:46:23
 image: 'https://m.media-amazon.com/images/I/41rs854uouL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2LWVNL-es Levi s Plus Size Pl tee Camiseta Gris Plus Sportswear Logo...'
 sku: 'B07F2LWVNL-es'
 tags: [ 'camiseta', ]

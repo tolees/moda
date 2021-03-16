@@ -5,7 +5,7 @@ date: 2020-05-13 02:05:38
 image: 'https://m.media-amazon.com/images/I/415Vor-l7xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2PVDKM-es Under Armour UA SC 3ZER0 III Zapatos de Baloncesto para...'
 sku: 'B07K2PVDKM-es'
 tags: [ 'zapatos', ]

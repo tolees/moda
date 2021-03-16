@@ -5,7 +5,7 @@ date: 2020-02-06 13:16:04
 image: 'https://m.media-amazon.com/images/I/414uzXjLB5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZKV6G9-es Iris & Lilly BLIC004 Sujetadores Push up Azul Navy Sky 90C'
 sku: 'B07TZKV6G9-es'
 tags: [ '&','iris','lilly', ]

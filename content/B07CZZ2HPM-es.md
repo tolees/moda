@@ -5,7 +5,7 @@ date: 2020-07-01 18:37:29
 image: 'https://m.media-amazon.com/images/I/31hBaM-L0eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZZ2HPM-es Under Armour UA Launch Sw Split Short Pantalón Corto...'
 sku: 'B07CZZ2HPM-es'
 tags: [ 'pantalón', ]

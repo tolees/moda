@@ -5,7 +5,7 @@ date: 2020-05-27 15:58:27
 image: 'https://m.media-amazon.com/images/I/41Y5lp1kFfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DG6Z3GC-es PUMA Energy Seamless tee Camiseta Hombre Negro Black...'
 sku: 'B07DG6Z3GC-es'
 tags: [ 'camiseta', ]

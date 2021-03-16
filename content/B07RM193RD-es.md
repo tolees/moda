@@ -5,7 +5,7 @@ date: 2020-04-21 11:26:27
 image: 'https://m.media-amazon.com/images/I/31AdbC0U4YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM193RD-es Asics Classic CT Zapatos de Baloncesto para Hombre Blanco...'
 sku: 'B07RM193RD-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-04-18 12:24:25
 image: 'https://m.media-amazon.com/images/I/31Rzjplv-dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M89DRD8-es Lee Rider Jeans Vaqueros Moto Black 29W / 34L para Hombre'
 sku: 'B07M89DRD8-es'
 tags: [ 'vaqueros', ]

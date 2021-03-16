@@ -5,7 +5,7 @@ date: 2020-09-04 15:33:03
 image: 'https://m.media-amazon.com/images/I/41TLHS34ATL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB97M7B-es adidas Grand Court Base Zapatos de Tenis para Hombre...'
 sku: 'B07SB97M7B-es'
 tags: [ 'zapatos', ]

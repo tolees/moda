@@ -5,7 +5,7 @@ date: 2020-06-18 07:30:56
 image: 'https://m.media-amazon.com/images/I/31Y63BI8KOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPXD7SZ-es HAWKERS · ONE LS · Rubber Black · Sky · Gafas de sol para...'
 sku: 'B07TPXD7SZ-es'
 tags: [ 'gafas', ]

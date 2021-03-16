@@ -5,7 +5,7 @@ date: 2020-02-16 18:18:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51MU1y1SZML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ1L5VY-es UBORSE Bolso de Fiesta Noche Moda para Mujer Embrague Hard...'
 sku: 'B07QZ1L5VY-es'
 tags: [ 'billetera','bolso','moda', ]

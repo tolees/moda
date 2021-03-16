@@ -5,7 +5,7 @@ date: 2020-05-29 11:32:48
 image: 'https://m.media-amazon.com/images/I/31PTyAB1OmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086SQXP5Y-es Mujer Zapatos de tacón Alto con tacón de Aguja de Boda...'
 sku: 'B086SQXP5Y-es'
 tags: [ 'zapatos', ]

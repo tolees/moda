@@ -5,7 +5,7 @@ date: 2020-07-23 16:34:37
 image: 'https://m.media-amazon.com/images/I/417qJurtYNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C1JN9X5-es Auxo Mujer Pijama Vestido Interior Sexy Enaguas Enteras...'
 sku: 'B07C1JN9X5-es'
 tags: [ 'pijama','vestido', ]

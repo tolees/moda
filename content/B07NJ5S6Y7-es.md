@@ -5,7 +5,7 @@ date: 2020-04-11 17:35:07
 image: 'https://m.media-amazon.com/images/I/31xeKL6r5sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ5S6Y7-es Springfield 7.J.Ap.T.Turtle Neck Jersey Negro Negro 1...'
 sku: 'B07NJ5S6Y7-es'
 tags: [ 'jersey', ]

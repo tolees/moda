@@ -5,7 +5,7 @@ date: 2020-06-28 19:51:58
 image: 'https://m.media-amazon.com/images/I/41H1q32spfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWX94LB-es Pepe Jeans Hatch Vaqueros Ajustados Azul Bleach 000 34W /...'
 sku: 'B07RWX94LB-es'
 tags: [ 'vaqueros', ]

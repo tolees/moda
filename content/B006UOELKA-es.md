@@ -5,7 +5,7 @@ date: 2020-01-16 13:42:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JXVi9I6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006UOELKA-es adidas Spiro espíritu de Equipo Polo Camiseta de la Mujer...'
 sku: 'B006UOELKA-es'
 tags: [ 'camiseta', ]

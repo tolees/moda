@@ -5,7 +5,7 @@ date: 2020-03-08 17:08:35
 image: 'https://m.media-amazon.com/images/I/41iRzW5nVlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3G9RGT-es Tommy Hilfiger Flatform Sandal Tommy Pastel Sandalias con...'
 sku: 'B07L3G9RGT-es'
 tags: [ 'sandalias', ]

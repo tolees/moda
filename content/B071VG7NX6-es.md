@@ -5,7 +5,7 @@ date: 2020-09-18 05:57:18
 image: 'https://m.media-amazon.com/images/I/41bhoO5hsBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VG7NX6-es Levi s The Perfect Tee Camiseta para Mujer Gris Better...'
 sku: 'B071VG7NX6-es'
 tags: [ 'camiseta', ]

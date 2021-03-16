@@ -5,7 +5,7 @@ date: 2020-04-01 08:35:56
 image: 'https://m.media-amazon.com/images/I/513lTdbmMiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFBRQ2Y-es Levi s Perfect-tee Camiseta de Manga Corta Multicolor...'
 sku: 'B07LFBRQ2Y-es'
 tags: [ 'camiseta', ]

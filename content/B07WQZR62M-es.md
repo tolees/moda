@@ -5,7 +5,7 @@ date: 2020-09-10 18:46:46
 image: 'https://m.media-amazon.com/images/I/41Y5mvfpbRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQZR62M-es Souke Sports - Pantalones Ciclismo Hombre Invierno...'
 sku: 'B07WQZR62M-es'
 tags: [ 'pantalón', ]

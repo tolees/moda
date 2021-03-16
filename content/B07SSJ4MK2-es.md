@@ -5,7 +5,7 @@ date: 2020-07-26 18:44:32
 image: 'https://m.media-amazon.com/images/I/414Zym4H9FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSJ4MK2-es Geox B Kilwi Girl E Bailarinas para Bebés Azul Navy C4064...'
 sku: 'B07SSJ4MK2-es'
 tags: [ 'geox', ]

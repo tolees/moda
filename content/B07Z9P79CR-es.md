@@ -5,7 +5,7 @@ date: 2020-09-18 12:42:30
 image: 'https://m.media-amazon.com/images/I/513SBkyNFGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9P79CR-es O NEILL LM 3Ple T-Shirt Camiseta Manga Corta Hombre Gris...'
 sku: 'B07Z9P79CR-es'
 tags: [ 'camiseta', ]

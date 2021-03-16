@@ -5,7 +5,7 @@ date: 2020-04-27 14:00:39
 image: 'https://m.media-amazon.com/images/I/41Ie61RULbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FXGNURU-es Under Armour UA TAC Heatgear Comp tee Camiseta Hombre...'
 sku: 'B01FXGNURU-es'
 tags: [ 'camiseta', ]

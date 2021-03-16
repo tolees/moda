@@ -5,7 +5,7 @@ date: 2020-10-05 13:46:01
 image: 'https://m.media-amazon.com/images/I/418b70MQGvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWNDTRX-es Under Armour Mk1 Warmup FZ Chaqueta Hombre Gris XL'
 sku: 'B07QWNDTRX-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-09 14:21:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EjvHgAtLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG182KZ-es PUMA Rise XT 3 Zapatos de Futsal Unisex adulto Puma Black-...'
 sku: 'B07KG182KZ-es'
 tags: [ 'zapatos', ]

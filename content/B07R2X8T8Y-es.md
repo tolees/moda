@@ -5,7 +5,7 @@ date: 2020-01-18 15:59:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31VH0G0f7CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2X8T8Y-es Under Armour Rival Fleece Graphic Novelty Sudadera con...'
 sku: 'B07R2X8T8Y-es'
 tags: [ 'sudadera', ]

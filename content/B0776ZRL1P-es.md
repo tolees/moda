@@ -5,7 +5,7 @@ date: 2020-06-22 17:54:22
 image: 'https://m.media-amazon.com/images/I/31VDm3FKT4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776ZRL1P-es Tommy Hilfiger Original Rib Camisa Blanco Classic White...'
 sku: 'B0776ZRL1P-es'
 tags: [ 'camisa', ]

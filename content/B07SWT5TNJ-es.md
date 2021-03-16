@@ -5,7 +5,7 @@ date: 2020-10-04 14:01:25
 image: 'https://m.media-amazon.com/images/I/31yDqYgLo8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWT5TNJ-es REPLAY M3590 .000.2660 Camiseta Gris Stone Grey. 396 XXX-...'
 sku: 'B07SWT5TNJ-es'
 tags: [ 'camiseta', ]

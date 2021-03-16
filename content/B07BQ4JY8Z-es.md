@@ -5,7 +5,7 @@ date: 2020-01-27 12:55:56
 image: 'https://m.media-amazon.com/images/I/41Tgr-KeIQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQ4JY8Z-es Lee Scarlett Vaqueros Azul Blue Drop Em 28W / 33L para Mujer'
 sku: 'B07BQ4JY8Z-es'
 tags: [ 'vaqueros', ]

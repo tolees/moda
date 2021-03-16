@@ -5,7 +5,7 @@ date: 2020-09-16 14:21:41
 image: 'https://m.media-amazon.com/images/I/41tSyI4sw1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6VWK8S-es Camiseta Deportiva de Tirantes para Hombre Sin Manga Slim...'
 sku: 'B07V6VWK8S-es'
 tags: [ 'camiseta', ]

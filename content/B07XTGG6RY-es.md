@@ -5,7 +5,7 @@ date: 2020-09-25 17:01:45
 image: 'https://m.media-amazon.com/images/I/31NIvvoHhIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTGG6RY-es inhzoy Chaqueta de Princesa para Niña Abrigo de Fiesta...'
 sku: 'B07XTGG6RY-es'
 tags: [ 'abrigo','chaqueta','vestido', ]

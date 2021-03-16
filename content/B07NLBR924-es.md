@@ -5,7 +5,7 @@ date: 2020-04-14 13:28:02
 image: 'https://m.media-amazon.com/images/I/31PXOvDtm-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLBR924-es Caprice Marlene Botines para Mujer Marrón Cognac Nappa 303...'
 sku: 'B07NLBR924-es'
 tags: [ 'botines', ]

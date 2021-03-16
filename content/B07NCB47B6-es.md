@@ -5,7 +5,7 @@ date: 2020-09-23 18:01:31
 image: 'https://m.media-amazon.com/images/I/31SjgkXGjPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCB47B6-es Pepe Jeans Pixie Vaqueros Pitillo Hombre Negro Black Wiser...'
 sku: 'B07NCB47B6-es'
 tags: [ 'vaqueros', ]

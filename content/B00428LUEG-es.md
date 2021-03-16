@@ -5,7 +5,7 @@ date: 2020-07-28 10:55:58
 image: 'https://m.media-amazon.com/images/I/31+j+815O0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00428LUEG-es Havaianas Slim Crystal Glamour SW Chanclas para Mujer...'
 sku: 'B00428LUEG-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-08-08 07:21:32
 image: 'https://m.media-amazon.com/images/I/41a8Hsd-psL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXKSYQX-es Tommy Hilfiger TJM Essential Hooded Jacket Chaqueta Rojo...'
 sku: 'B07VXKSYQX-es'
 tags: [ 'chaqueta', ]

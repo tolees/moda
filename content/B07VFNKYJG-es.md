@@ -5,7 +5,7 @@ date: 2020-09-29 18:31:35
 image: 'https://m.media-amazon.com/images/I/31BgUFcuAvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFNKYJG-es Desigual Bols rhapsody Durban - Bolso bandolera 4 x 17 5 x...'
 sku: 'B07VFNKYJG-es'
 tags: [ 'bolso', ]

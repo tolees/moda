@@ -5,7 +5,7 @@ date: 2020-04-06 11:39:46
 image: 'https://m.media-amazon.com/images/I/517a0Og3t7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767P1SRB-es Geox D Ophira B Zapatillas para Mujer Dorado Lt Taupe/lt...'
 sku: 'B0767P1SRB-es'
 tags: [ 'geox', ]

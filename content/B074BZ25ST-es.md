@@ -5,7 +5,7 @@ date: 2020-09-10 12:01:40
 image: 'https://m.media-amazon.com/images/I/3128obOuFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074BZ25ST-es Pepe Jeans Hatch Vaqueros Denim 11Oz Stay Black 36W / 34L...'
 sku: 'B074BZ25ST-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-04-02 19:12:01
 image: 'https://m.media-amazon.com/images/I/412wtvVAAlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVNRTQ2-es Only Onlnew Carle L/S Pullover CC Knt Jersey Multicolor...'
 sku: 'B07TVNRTQ2-es'
 tags: [ 'jersey', ]

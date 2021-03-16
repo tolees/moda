@@ -5,7 +5,7 @@ date: 2020-01-09 14:27:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414iZ-ypnrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075X2RL4N-es find. NEWSTW050 vaqueros mujer cintura alta Azul Bright...'
 sku: 'B075X2RL4N-es'
 tags: [ 'vaqueros', ]

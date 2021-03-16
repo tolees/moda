@@ -5,7 +5,7 @@ date: 2020-08-08 20:10:50
 image: 'https://m.media-amazon.com/images/I/317EakhZGqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CSU8R18-es Joma 900038.800 - Camiseta para Mujer Color Naranja Talla L'
 sku: 'B01CSU8R18-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-18 11:16:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF5XYSF-es Levi s Coit Down Puffer Chaqueta Negro Black 0003 Medium...'
 sku: 'B07LF5XYSF-es'
 tags: [ 'chaqueta', ]

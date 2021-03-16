@@ -5,7 +5,7 @@ date: 2020-04-06 08:09:51
 image: 'https://m.media-amazon.com/images/I/41OeX8OAcmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGVCWTL-es Geox J Xunday Boy B ABX A Botas Chukka para Niños Verde...'
 sku: 'B07PGVCWTL-es'
 tags: [ 'geox', ]

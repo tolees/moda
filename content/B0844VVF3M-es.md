@@ -5,7 +5,7 @@ date: 2020-06-25 10:19:06
 image: 'https://m.media-amazon.com/images/I/31WHxQRQmhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0844VVF3M-es Pepe Jeans Camiseta Trey Marino Hombre Small Blanco'
 sku: 'B0844VVF3M-es'
 tags: [ 'camiseta', ]

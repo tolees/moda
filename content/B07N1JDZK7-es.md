@@ -5,7 +5,7 @@ date: 2020-05-18 11:14:08
 image: 'https://m.media-amazon.com/images/I/418S+E1IQDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JDZK7-es Clarks Step Explorhi Botines para Mujer Azul Navy Navy 40 EU'
 sku: 'B07N1JDZK7-es'
 tags: [ 'botines', ]

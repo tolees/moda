@@ -5,7 +5,7 @@ date: 2020-05-10 07:20:18
 image: 'https://m.media-amazon.com/images/I/41omJiJWLjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W3RASS2-es Joma Gala Sudadera Hombre Azul Marino M'
 sku: 'B00W3RASS2-es'
 tags: [ 'sudadera', ]

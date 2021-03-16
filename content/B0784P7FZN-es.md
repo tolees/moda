@@ -5,7 +5,7 @@ date: 2020-02-29 13:45:48
 image: 'https://m.media-amazon.com/images/I/31ecgpXAp1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0784P7FZN-es Antony Morato Camicia Basica Abbottonatura A Vista Camisa...'
 sku: 'B0784P7FZN-es'
 tags: [ 'camisa', ]

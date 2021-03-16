@@ -5,7 +5,7 @@ date: 2020-06-22 14:12:05
 image: 'https://m.media-amazon.com/images/I/419wXeg9NSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JZD8VYE-es BOSS Trunk CO/EL Bóxer Negro Black 001 XX-Large Pack de 3...'
 sku: 'B01JZD8VYE-es'
 tags: [ 'bóxer', ]

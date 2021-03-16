@@ -5,7 +5,7 @@ date: 2020-06-28 00:31:13
 image: 'https://m.media-amazon.com/images/I/31EjCO5pVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHKZ1MV-es TENGTA Unisex Zapatos de jardinería Impermeables para...'
 sku: 'B07JHKZ1MV-es'
 tags: [ 'zapatos', ]

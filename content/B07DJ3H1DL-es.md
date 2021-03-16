@@ -5,7 +5,7 @@ date: 2020-02-20 14:37:04
 image: 'https://m.media-amazon.com/images/I/41JYGUg74DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3H1DL-es Geox U Damian A Zapatillas para Hombre Beige Sand C5004 40 EU'
 sku: 'B07DJ3H1DL-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-03-01 11:44:06
 image: 'https://m.media-amazon.com/images/I/41mb4zpmtWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN5JZXW-es Wrangler LS 2pkt Flap Shirt Corduroy Camisa Marrón Russet...'
 sku: 'B07MN5JZXW-es'
 tags: [ 'camisa', ]

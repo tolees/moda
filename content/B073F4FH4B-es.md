@@ -5,7 +5,7 @@ date: 2020-06-15 05:50:25
 image: 'https://m.media-amazon.com/images/I/51ZbqVuZ7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073F4FH4B-es LOSMILE Hombres Lona Bolso de Bandolera La Bolsa de...'
 sku: 'B073F4FH4B-es'
 tags: [ 'bolso', ]

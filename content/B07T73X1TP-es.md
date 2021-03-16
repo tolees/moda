@@ -5,7 +5,7 @@ date: 2020-02-14 11:42:54
 image: 'https://m.media-amazon.com/images/I/31MmyZezmsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T73X1TP-es Mercedes-Benz Sonnenbrille M7008 Gafas de sol Marrón Braun...'
 sku: 'B07T73X1TP-es'
 tags: [ 'gafas', ]

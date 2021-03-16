@@ -5,7 +5,7 @@ date: 2020-06-25 17:49:19
 image: 'https://m.media-amazon.com/images/I/41nO22N6QCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM8N5XY-es Ipanema Kirei Fem Chanclas para Mujer Black/Silver 8441...'
 sku: 'B07FM8N5XY-es'
 tags: [ 'chanclas', ]

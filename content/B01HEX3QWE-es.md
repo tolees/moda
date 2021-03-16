@@ -5,7 +5,7 @@ date: 2020-07-13 02:40:51
 image: 'https://m.media-amazon.com/images/I/41pAqGVfRhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEX3QWE-es opel-r elegante exterior bici en gafas de sol polarizadas...'
 sku: 'B01HEX3QWE-es'
 tags: [ 'gafas', ]

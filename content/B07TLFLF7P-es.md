@@ -5,7 +5,7 @@ date: 2020-02-15 13:08:08
 image: 'https://m.media-amazon.com/images/I/41sYeugbh0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLFLF7P-es Charles Wilson Camiseta Polo de Punto Abultado X-Large Black'
 sku: 'B07TLFLF7P-es'
 tags: [ 'camiseta', ]

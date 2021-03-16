@@ -5,7 +5,7 @@ date: 2020-02-27 15:24:27
 image: 'https://m.media-amazon.com/images/I/41xd7ShoGYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJ4GV1K-es Fila Boxer para Hombre Multicolor Medium pack de 4'
 sku: 'B07VJ4GV1K-es'
 tags: [ 'boxer', ]

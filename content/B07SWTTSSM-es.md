@@ -5,7 +5,7 @@ date: 2020-06-27 14:16:11
 image: 'https://m.media-amazon.com/images/I/31RiYtSZ2ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWTTSSM-es Geox U Moner V Mocasines para Hombre Azul Avio C4005 43 5 EU'
 sku: 'B07SWTTSSM-es'
 tags: [ 'geox', ]

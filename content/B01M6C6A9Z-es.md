@@ -5,7 +5,7 @@ date: 2020-02-05 10:27:55
 image: 'https://m.media-amazon.com/images/I/41-p5e0JvfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6C6A9Z-es flintronic® Cartera Tarjeta de Crédito Slim RFID Bloqueo...'
 sku: 'B01M6C6A9Z-es'
 tags: [ 'monedero', ]

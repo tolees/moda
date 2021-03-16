@@ -5,7 +5,7 @@ date: 2020-06-22 17:10:42
 image: 'https://m.media-amazon.com/images/I/31SJrO9FlEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074P22KRS-es Marca Amazon - find. Vestido de Canalé Mujer Negro Black...'
 sku: 'B074P22KRS-es'
 tags: [ '-','find.','vestido', ]

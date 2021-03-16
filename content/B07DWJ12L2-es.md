@@ -5,7 +5,7 @@ date: 2020-01-22 21:32:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31oPVzpsx3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWJ12L2-es hummel Precision Pro Entrenamiento Zip Chaqueta...'
 sku: 'B07DWJ12L2-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-15 19:37:01
 image: 'https://m.media-amazon.com/images/I/41901FmWvRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGWM44-es Geox D Hiver A Zapatillas para Mujer Plateado Silver/Lt...'
 sku: 'B07SQGWM44-es'
 tags: [ 'geox', ]

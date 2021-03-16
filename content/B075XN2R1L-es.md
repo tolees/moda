@@ -5,7 +5,7 @@ date: 2020-01-06 12:53:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CqFO5xJRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XN2R1L-es Emily Bridal Zapatos Nupciales De Mujer satén Sedoso Tacón...'
 sku: 'B075XN2R1L-es'
 tags: [ 'zapatos', ]

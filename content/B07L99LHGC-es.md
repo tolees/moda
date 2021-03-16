@@ -5,7 +5,7 @@ date: 2020-02-06 17:36:37
 image: 'https://m.media-amazon.com/images/I/411Wyg9LK8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L99LHGC-es Under Armour Mk1 Printed Camisa Manga Corta Hombre Verde XL'
 sku: 'B07L99LHGC-es'
 tags: [ 'camisa', ]

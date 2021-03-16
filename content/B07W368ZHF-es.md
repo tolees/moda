@@ -5,7 +5,7 @@ date: 2020-09-12 17:47:25
 image: 'https://m.media-amazon.com/images/I/41aJSIpCVqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W368ZHF-es Pepe Jeans Montana Camiseta Azul Old Navy 584 XX-Large...'
 sku: 'B07W368ZHF-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-27 18:34:00
 image: 'https://m.media-amazon.com/images/I/412Mpjg+fDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWSKMMP-es Geox J Sandal Alben Boy D Sandalias con Punta Abierta para...'
 sku: 'B07SWSKMMP-es'
 tags: [ 'geox','sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-05-22 11:39:17
 image: 'https://m.media-amazon.com/images/I/41-z-jseOeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LHFL7XD-es The North Face SS Raglan Easy tee Camiseta Hombre Azul...'
 sku: 'B07LHFL7XD-es'
 tags: [ 'camiseta', ]

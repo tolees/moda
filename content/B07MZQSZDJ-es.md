@@ -5,7 +5,7 @@ date: 2020-07-08 16:26:25
 image: 'https://m.media-amazon.com/images/I/41KcPOLh89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQSZDJ-es Pepe Jeans Pixie New Wave Vaqueros Skinny Azul 1o0z Wavy...'
 sku: 'B07MZQSZDJ-es'
 tags: [ 'vaqueros', ]

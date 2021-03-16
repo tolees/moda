@@ -5,7 +5,7 @@ date: 2020-02-21 17:39:17
 image: 'https://m.media-amazon.com/images/I/41WtKI-VZAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCJTD4W-es JACK & JONES Jorretrovibe tee SS Crew Neck Camiseta...'
 sku: 'B07RCJTD4W-es'
 tags: [ 'camiseta', ]

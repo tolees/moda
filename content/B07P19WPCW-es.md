@@ -5,7 +5,7 @@ date: 2020-08-28 04:44:41
 image: 'https://m.media-amazon.com/images/I/31xbFy4eMeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P19WPCW-es Camper Micro Sandalias con Punta Abierta para Mujer Rosa...'
 sku: 'B07P19WPCW-es'
 tags: [ 'sandalias', ]

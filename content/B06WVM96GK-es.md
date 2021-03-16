@@ -5,7 +5,7 @@ date: 2020-08-25 21:50:43
 image: 'https://m.media-amazon.com/images/I/41Mp3vLEVTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVM96GK-es Tommy Hilfiger SS tee Print Camiseta con Logo Blanco White...'
 sku: 'B06WVM96GK-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-18 19:53:14
 image: 'https://m.media-amazon.com/images/I/41w7NtQEADL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQJMFD-es Pepe Jeans Regent Vaqueros Skinny Azul Medium Used...'
 sku: 'B07MZQJMFD-es'
 tags: [ 'vaqueros', ]

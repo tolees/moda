@@ -5,7 +5,7 @@ date: 2020-02-06 18:42:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GcyuEYDBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMJCC8K-es Chantelle DE Pyramide Sujetador para Camiseta Beige...'
 sku: 'B07JMJCC8K-es'
 tags: [ 'camiseta', ]

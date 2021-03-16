@@ -5,7 +5,7 @@ date: 2020-06-19 16:01:40
 image: 'https://m.media-amazon.com/images/I/41YNWj27muL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TR3CXS6-es Clarks Tri Alexia Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TR3CXS6-es'
 tags: [ 'sandalias', ]

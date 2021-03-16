@@ -5,7 +5,7 @@ date: 2020-05-27 05:39:06
 image: 'https://m.media-amazon.com/images/I/41P-3NQK6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STW36G9-es Quiksilver Molokai Abyss Zapatos de Playa y Piscina para...'
 sku: 'B07STW36G9-es'
 tags: [ 'zapatos', ]

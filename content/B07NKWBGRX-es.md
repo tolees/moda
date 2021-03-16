@@ -5,7 +5,7 @@ date: 2020-07-10 18:11:29
 image: 'https://m.media-amazon.com/images/I/414o8H5N2iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NKWBGRX-es Sandalias Niño con Plantillas de Trekking Senderismo...'
 sku: 'B07NKWBGRX-es'
 tags: [ 'sandalias','zapatos', ]

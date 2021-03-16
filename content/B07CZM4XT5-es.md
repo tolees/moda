@@ -5,7 +5,7 @@ date: 2020-02-16 12:11:06
 image: 'https://m.media-amazon.com/images/I/312kmpgjkCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZM4XT5-es Under Armour Sportstyle Terry H Sudadera con Capucha...'
 sku: 'B07CZM4XT5-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-01-29 12:34:42
 image: 'https://m.media-amazon.com/images/I/41-MC+uZ7PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQVG2VB-es Napapijri SIBU Camiseta Azul BLU Marine 176 M para Hombre'
 sku: 'B07MQVG2VB-es'
 tags: [ 'camiseta', ]

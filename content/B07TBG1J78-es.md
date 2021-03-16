@@ -5,7 +5,7 @@ date: 2020-10-07 08:14:17
 image: 'https://m.media-amazon.com/images/I/31dpXeE60WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBG1J78-es Quiksilver Stapilton - Chaqueta De Lona Con Cremallera...'
 sku: 'B07TBG1J78-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-07-25 17:43:47
 image: 'https://m.media-amazon.com/images/I/41W4iC7nCML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEXGCPM-es Crocs Crocband Clog K Zuecos con Correa Unisex-Bambini...'
 sku: 'B01HEXGCPM-es'
 tags: [ 'zuecos', ]

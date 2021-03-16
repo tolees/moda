@@ -5,7 +5,7 @@ date: 2020-05-13 15:05:00
 image: 'https://m.media-amazon.com/images/I/415fqCOLvKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0888CYTL2-es SINOES 270 2020 Hombre de Zapatos Deportivos Correr...'
 sku: 'B0888CYTL2-es'
 tags: [ 'zapatos', ]

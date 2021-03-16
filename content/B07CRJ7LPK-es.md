@@ -5,7 +5,7 @@ date: 2020-01-05 19:18:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411R%2BsGkwjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CRJ7LPK-es Pepe Jeans Pinner Chaqueta Vaquera Raw DLX Denim 000...'
 sku: 'B07CRJ7LPK-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-03-16 14:04:25
 image: 'https://m.media-amazon.com/images/I/31hTDd2bs+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081VRTQ8Y-es Tommy Hilfiger KB0KB05547 Camiseta niño 16A'
 sku: 'B081VRTQ8Y-es'
 tags: [ 'camiseta', ]

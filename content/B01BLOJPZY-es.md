@@ -5,7 +5,7 @@ date: 2020-06-22 12:13:57
 image: 'https://m.media-amazon.com/images/I/412HYaolh0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLOJPZY-es Levi s Housemark Polo Camiseta para Hombre Gris M7511...'
 sku: 'B01BLOJPZY-es'
 tags: [ 'camiseta', ]

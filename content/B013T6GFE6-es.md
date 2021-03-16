@@ -5,7 +5,7 @@ date: 2020-03-17 18:03:45
 image: 'https://m.media-amazon.com/images/I/41AbAjRKcGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013T6GFE6-es Pijama del increíble Hulk para niños desde 2 a 3 años...'
 sku: 'B013T6GFE6-es'
 tags: [ 'pijama', ]

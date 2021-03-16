@@ -5,7 +5,7 @@ date: 2020-08-14 17:37:09
 image: 'https://m.media-amazon.com/images/I/4195bYVY+nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DK49C7K-es Toallitas para lentes 200 toallitas de limpieza...'
 sku: 'B08DK49C7K-es'
 tags: [ 'gafas', ]

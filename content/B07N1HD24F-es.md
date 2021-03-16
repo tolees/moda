@@ -5,7 +5,7 @@ date: 2020-08-24 08:46:13
 image: 'https://m.media-amazon.com/images/I/31Hzw1FH2UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HD24F-es Clarks Calla Blossom Botines para Mujer Negro Black SDE...'
 sku: 'B07N1HD24F-es'
 tags: [ 'botines', ]

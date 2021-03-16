@@ -5,7 +5,7 @@ date: 2020-05-30 18:40:20
 image: 'https://m.media-amazon.com/images/I/319jhMYicOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRJBJS6-es 1 Unids Silicona de Grado Alimenticio Juguetes para...'
 sku: 'B07ZRJBJS6-es'
 tags: [ 'guantes', ]

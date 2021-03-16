@@ -5,7 +5,7 @@ date: 2020-06-11 20:02:34
 image: 'https://m.media-amazon.com/images/I/41v56e1J+iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLP23XR-es HOMCOM Maleta Correpasillos Niños con Forma de Moto Bolso...'
 sku: 'B07WLP23XR-es'
 tags: [ 'bolso', ]

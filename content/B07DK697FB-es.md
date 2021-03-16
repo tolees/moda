@@ -5,7 +5,7 @@ date: 2020-06-27 10:39:07
 image: 'https://m.media-amazon.com/images/I/41UvmpivMzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK697FB-es Geox Jr Wader A Sandalias Punta Cerrada para Niños Azul...'
 sku: 'B07DK697FB-es'
 tags: [ 'geox','sandalias', ]

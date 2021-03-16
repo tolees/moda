@@ -5,7 +5,7 @@ date: 2020-06-18 21:26:18
 image: 'https://m.media-amazon.com/images/I/41p64RZXoHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ1KL84-es Quiksilver Molokai Zapatos de Playa y Piscina para Hombre...'
 sku: 'B07DJ1KL84-es'
 tags: [ 'zapatos', ]

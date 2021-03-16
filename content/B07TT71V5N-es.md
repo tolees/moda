@@ -5,7 +5,7 @@ date: 2020-06-28 05:29:13
 image: 'https://m.media-amazon.com/images/I/41NvJWXkB4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT71V5N-es Levi s Vneck Camiseta Gris Tbd100 0008 X-Small para Mujer'
 sku: 'B07TT71V5N-es'
 tags: [ 'camiseta', ]

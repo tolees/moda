@@ -5,7 +5,7 @@ date: 2020-05-12 10:26:29
 image: 'https://m.media-amazon.com/images/I/41ehmVrT2yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6VLKJQ-es DC Shoes Circle Star - Camiseta - Hombre - S'
 sku: 'B07L6VLKJQ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-16 14:15:17
 image: 'https://m.media-amazon.com/images/I/31koBLmhtxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFV95F1-es Geox D Hiver A Zapatillas para Mujer Azul Navy C4002 38 EU'
 sku: 'B07LFV95F1-es'
 tags: [ 'geox', ]

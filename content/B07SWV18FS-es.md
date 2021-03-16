@@ -5,7 +5,7 @@ date: 2020-09-14 23:39:53
 image: 'https://m.media-amazon.com/images/I/41rQSBIY6GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWV18FS-es Geox D LEELU E Zapatillas para Niñas Blanco White/Off...'
 sku: 'B07SWV18FS-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-06-27 12:12:06
 image: 'https://m.media-amazon.com/images/I/41BSp2iny2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X6PSZ3-es Geox Uomo Sandal Strada D Sandalia con Pulsera para Hombre...'
 sku: 'B076X6PSZ3-es'
 tags: [ 'geox', ]

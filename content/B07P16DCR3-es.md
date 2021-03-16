@@ -5,7 +5,7 @@ date: 2020-03-18 07:42:16
 image: 'https://m.media-amazon.com/images/I/41rn1epjLrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P16DCR3-es Superdry Surplus Goods Coach Jacket Chaqueta Verde Green...'
 sku: 'B07P16DCR3-es'
 tags: [ 'chaqueta', ]

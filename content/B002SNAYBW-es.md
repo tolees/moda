@@ -5,7 +5,7 @@ date: 2020-09-18 20:49:51
 image: 'https://m.media-amazon.com/images/I/41tvR6rl2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002SNAYBW-es Clarks Nature Three 20339005 - Zapatos casual de cuero...'
 sku: 'B002SNAYBW-es'
 tags: [ 'zapatos', ]

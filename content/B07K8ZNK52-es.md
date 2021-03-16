@@ -5,7 +5,7 @@ date: 2020-04-02 13:44:25
 image: 'https://m.media-amazon.com/images/I/31uU2VSW9kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8ZNK52-es Crocs Classic Lined Clog Zuecos Unisex Adulto Rojo...'
 sku: 'B07K8ZNK52-es'
 tags: [ 'zuecos', ]

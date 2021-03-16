@@ -5,7 +5,7 @@ date: 2020-02-03 15:39:48
 image: 'https://m.media-amazon.com/images/I/41PwrGURQTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWRKCG4-es AIMTOP 2 Pack Leggins Termicos Mujer Leggins Mujer...'
 sku: 'B07VWRKCG4-es'
 tags: [ 'leggins', ]

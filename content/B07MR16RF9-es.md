@@ -5,7 +5,7 @@ date: 2020-01-03 13:06:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21iOeLmyCLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR16RF9-es Calvin Klein Jeans Sonnenbrille Ckj510S 0 Gafas de sol...'
 sku: 'B07MR16RF9-es'
 tags: [ 'gafas', ]

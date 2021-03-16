@@ -5,7 +5,7 @@ date: 2020-07-12 07:10:44
 image: 'https://m.media-amazon.com/images/I/419mwvAfC8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK6F2S8-es adidas Map Bag Bolso bandolera Unisex Adultos Negro Negro...'
 sku: 'B07KK6F2S8-es'
 tags: [ 'bolso', ]

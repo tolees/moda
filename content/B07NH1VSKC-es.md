@@ -5,7 +5,7 @@ date: 2020-06-26 11:40:43
 image: 'https://m.media-amazon.com/images/I/31KEGuMFxSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NH1VSKC-es Marca Amazon - Iris & Lilly Tanga Mujer Pack de 5 Rosa...'
 sku: 'B07NH1VSKC-es'
 tags: [ '&','iris','lilly', ]

@@ -5,7 +5,7 @@ date: 2020-07-30 11:10:23
 image: 'https://m.media-amazon.com/images/I/41+Uxpq0W7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0107S4CFS-es Joma - Sudadera faraon marino media cremallera para hombre L'
 sku: 'B0107S4CFS-es'
 tags: [ 'sudadera', ]

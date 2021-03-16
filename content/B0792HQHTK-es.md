@@ -5,7 +5,7 @@ date: 2020-07-04 01:44:19
 image: 'https://m.media-amazon.com/images/I/31lEr2lBoNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792HQHTK-es Geox U Saymore D Mocasines para Hombre Negro Black C9999...'
 sku: 'B0792HQHTK-es'
 tags: [ 'geox', ]

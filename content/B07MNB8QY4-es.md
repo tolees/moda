@@ -5,7 +5,7 @@ date: 2020-02-11 11:30:59
 image: 'https://m.media-amazon.com/images/I/41Uwl1pBcRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNB8QY4-es Geox D Sukie D Zapatillas para Mujer Rojo Bordeaux C7005...'
 sku: 'B07MNB8QY4-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-07-14 04:30:05
 image: 'https://m.media-amazon.com/images/I/41Cxzlz6TwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSB3D2C-es Marca Amazon - MERAKI Polo Hombre Gris Grey Marl S Label: S'
 sku: 'B07MSB3D2C-es'
 tags: [ 'meraki', ]

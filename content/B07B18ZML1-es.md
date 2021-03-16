@@ -5,7 +5,7 @@ date: 2020-05-01 09:22:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Zr46asNkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B18ZML1-es find. Vestido de Flores con Volantes Mujer Rosa Pink Medium'
 sku: 'B07B18ZML1-es'
 tags: [ 'vestido', ]

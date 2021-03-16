@@ -5,7 +5,7 @@ date: 2020-10-10 11:13:09
 image: 'https://m.media-amazon.com/images/I/41z70oo26rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08239PVTD-es Levi s The tee Camiseta Serif con Caviar De Cactus M para...'
 sku: 'B08239PVTD-es'
 tags: [ 'camiseta', ]

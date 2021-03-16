@@ -5,7 +5,7 @@ date: 2020-02-09 13:36:21
 image: 'https://m.media-amazon.com/images/I/41hBmuTyS8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGTS76T-es Aizeroth-UK Unisex Hombre Mujer Zapatillas de Seguridad...'
 sku: 'B07HGTS76T-es'
 tags: [ 'zapatos', ]

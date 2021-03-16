@@ -5,7 +5,7 @@ date: 2020-05-29 18:28:03
 image: 'https://m.media-amazon.com/images/I/41VESqR4J9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JZN2WQ-es Guess Cn SS Original Logo Camiseta Bianco L para Hombre'
 sku: 'B081JZN2WQ-es'
 tags: [ 'camiseta', ]

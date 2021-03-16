@@ -5,7 +5,7 @@ date: 2020-10-08 08:03:18
 image: 'https://m.media-amazon.com/images/I/4192YDizzwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y8KLJ9-es HIKARO Parka Corta Hombre Azul Navy 48 Talla del...'
 sku: 'B077Y8KLJ9-es'
 tags: [ 'parka', ]

@@ -5,7 +5,7 @@ date: 2020-07-27 08:45:11
 image: 'https://m.media-amazon.com/images/I/41Kb+-+3DSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7QM9TJ-es Jack & Jones Jaccrazy Solid Trunks 3 Pack Noos Bóxer Negro...'
 sku: 'B07H7QM9TJ-es'
 tags: [ 'bóxer', ]

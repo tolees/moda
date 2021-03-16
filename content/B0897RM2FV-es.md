@@ -5,7 +5,7 @@ date: 2020-06-07 13:01:29
 image: 'https://m.media-amazon.com/images/I/41u6G6gNZ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0897RM2FV-es qingqingR Mujeres Niñas Bolso pequeño Bolso de Hombro...'
 sku: 'B0897RM2FV-es'
 tags: [ 'bolso', ]

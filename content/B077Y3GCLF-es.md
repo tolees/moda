@@ -5,7 +5,7 @@ date: 2020-05-03 19:07:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41x0HCZdnKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y3GCLF-es HIKARO Sudadera con Capucha Hombre Gris Grey Marl 52 Talla...'
 sku: 'B077Y3GCLF-es'
 tags: [ 'sudadera', ]

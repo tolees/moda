@@ -5,7 +5,7 @@ date: 2020-07-03 11:32:17
 image: 'https://m.media-amazon.com/images/I/4159eLNjxVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4Y2RX6-es Levi s 511 Slim Fit Vaqueros Durian Super Tint Overt 3953...'
 sku: 'B07S4Y2RX6-es'
 tags: [ 'vaqueros', ]

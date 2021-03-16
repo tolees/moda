@@ -5,7 +5,7 @@ date: 2020-03-09 13:54:10
 image: 'https://m.media-amazon.com/images/I/41+zQMk70JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QCQRDG-es Wantdo Chaqueta Gruesa Impermeable Contraviento para Niñas...'
 sku: 'B075QCQRDG-es'
 tags: [ 'chaqueta', ]

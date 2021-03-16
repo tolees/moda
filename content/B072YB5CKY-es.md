@@ -5,7 +5,7 @@ date: 2020-01-09 12:24:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ANyg2gSyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072YB5CKY-es Columbia Zero Rules Short Sleeve Shirt Camiseta de manga...'
 sku: 'B072YB5CKY-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-12 10:30:25
 image: 'https://m.media-amazon.com/images/I/41bUTvq21yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMCBFM-es Tommy Hilfiger Modern T Shirt Bra Sujetador para Camiseta...'
 sku: 'B07NDMCBFM-es'
 tags: [ 'camiseta', ]

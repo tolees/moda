@@ -5,7 +5,7 @@ date: 2020-06-28 21:08:21
 image: 'https://m.media-amazon.com/images/I/41QJjGtOa8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Y46QPU-es Wrangler Texas Stretch Vintage Tint Vaqueros para Hombre...'
 sku: 'B000Y46QPU-es'
 tags: [ 'vaqueros', ]

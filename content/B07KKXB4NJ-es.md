@@ -5,7 +5,7 @@ date: 2020-05-27 09:55:46
 image: 'https://m.media-amazon.com/images/I/51ZmxCkPh4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKXB4NJ-es Nike Y Hoodie FZ FLC TM Club19 Sudadera Unisex niños Gris...'
 sku: 'B07KKXB4NJ-es'
 tags: [ 'sudadera', ]

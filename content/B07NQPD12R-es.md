@@ -5,7 +5,7 @@ date: 2020-02-18 07:56:12
 image: 'https://m.media-amazon.com/images/I/41BCR71EdiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQPD12R-es Springfield 7Ba C/Red G7 Block Torzal Jersey Azul Blue 11...'
 sku: 'B07NQPD12R-es'
 tags: [ 'jersey', ]

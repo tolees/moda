@@ -5,7 +5,7 @@ date: 2020-02-25 19:13:53
 image: 'https://m.media-amazon.com/images/I/31ypoSHXrUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNQVVJ-es G-STAR RAW Varve Wool Abrigo Negro Dk Black 6484 XX-Small...'
 sku: 'B07NDNQVVJ-es'
 tags: [ 'abrigo', ]

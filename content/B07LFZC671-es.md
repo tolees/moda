@@ -5,7 +5,7 @@ date: 2020-09-29 16:49:04
 image: 'https://m.media-amazon.com/images/I/31xicIlf7YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZC671-es Geox Women s D New ANNYA MID A Closed Toe Heels Blue Navy...'
 sku: 'B07LFZC671-es'
 tags: [ 'geox', ]

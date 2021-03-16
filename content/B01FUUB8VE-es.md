@@ -5,7 +5,7 @@ date: 2020-01-15 19:07:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41L%2BoCmOzhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FUUB8VE-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros Cobler Smash...'
 sku: 'B01FUUB8VE-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-09-10 00:08:44
 image: 'https://m.media-amazon.com/images/I/41mxXoolzLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VMRTC1-es Levi s Perfect Tee Camiseta para Mujer Negro Caviar 2 0008...'
 sku: 'B077VMRTC1-es'
 tags: [ 'camiseta', ]

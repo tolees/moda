@@ -5,7 +5,7 @@ date: 2020-05-25 16:34:25
 image: 'https://m.media-amazon.com/images/I/312SRHo+mTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4BCR98-es FitFlop Lido II Chanclas para Hombre Negro Black 001 43 EU'
 sku: 'B07L4BCR98-es'
 tags: [ 'chanclas', ]

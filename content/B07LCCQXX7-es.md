@@ -5,7 +5,7 @@ date: 2020-01-24 13:19:30
 image: 'https://m.media-amazon.com/images/I/4114vDjSB8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCCQXX7-es Only Onlnew Skylar Spring Jacket CC OTW Chaqueta Rosa Rose...'
 sku: 'B07LCCQXX7-es'
 tags: [ 'chaqueta', ]

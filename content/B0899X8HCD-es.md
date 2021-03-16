@@ -5,7 +5,7 @@ date: 2020-08-27 17:43:36
 image: 'https://m.media-amazon.com/images/I/51z-Bp3qhpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899X8HCD-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
 sku: 'B0899X8HCD-es'
 tags: [ 'zapatos', ]

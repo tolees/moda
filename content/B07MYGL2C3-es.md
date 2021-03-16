@@ -5,7 +5,7 @@ date: 2020-06-10 20:56:03
 image: 'https://m.media-amazon.com/images/I/41y6b6mgZuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYGL2C3-es Pepe Jeans Hatch Vaqueros 12Oz Clean Twill Denim 38W / 32L...'
 sku: 'B07MYGL2C3-es'
 tags: [ 'vaqueros', ]

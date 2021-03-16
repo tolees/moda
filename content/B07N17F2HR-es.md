@@ -5,7 +5,7 @@ date: 2020-09-18 16:48:15
 image: 'https://m.media-amazon.com/images/I/31OwzW2r8vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N17F2HR-es Mr. Boho Hayes Santa Fe - Gafas de sol para mujer 44'
 sku: 'B07N17F2HR-es'
 tags: [ 'gafas', ]

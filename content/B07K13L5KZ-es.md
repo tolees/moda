@@ -5,7 +5,7 @@ date: 2020-04-07 22:13:20
 image: 'https://m.media-amazon.com/images/I/314E74qNlEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K13L5KZ-es Mujer Torera Casual Frente Abierto Manga Larga para...'
 sku: 'B07K13L5KZ-es'
 tags: [ 'vestido', ]

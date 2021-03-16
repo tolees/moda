@@ -5,7 +5,7 @@ date: 2020-08-08 00:32:24
 image: 'https://m.media-amazon.com/images/I/41tc0GoPTpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKXK5KH-es HKT by Hackett Hkt SS tee Camiseta Rojo 2eylt Jack Red 2ey...'
 sku: 'B07VKXK5KH-es'
 tags: [ 'camiseta', ]

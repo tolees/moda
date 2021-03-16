@@ -5,7 +5,7 @@ date: 2020-08-28 19:45:52
 image: 'https://m.media-amazon.com/images/I/417P3LZA3qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G1FTPL4-es Ocobudbxw Mujeres niñas Moda en Forma de corazón Embrague...'
 sku: 'B08G1FTPL4-es'
 tags: [ 'bolso','moda','monedero', ]

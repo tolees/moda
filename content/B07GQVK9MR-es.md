@@ -5,7 +5,7 @@ date: 2020-01-18 13:46:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31W7gyA9qDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GQVK9MR-es Suertree Anti Blue Light gafas de lectura 3 paquete ayuda...'
 sku: 'B07GQVK9MR-es'
 tags: [ 'gafas', ]

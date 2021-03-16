@@ -5,7 +5,7 @@ date: 2020-03-14 14:38:26
 image: 'https://m.media-amazon.com/images/I/31MSAcy7JaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0795BZB8M-es PUMA Liga Jersey Camiseta Hombre Blanco White/Electric Blue S'
 sku: 'B0795BZB8M-es'
 tags: [ 'camiseta','jersey', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 16:05:45
 image: 'https://m.media-amazon.com/images/I/41duGboco7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHPP4F1-es LTB Jeans Valerie Vaqueros Corte de Bota Azul Nome Wash...'
 sku: 'B07MHPP4F1-es'
 tags: [ 'vaqueros', ]

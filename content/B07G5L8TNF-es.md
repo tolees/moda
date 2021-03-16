@@ -5,7 +5,7 @@ date: 2020-03-23 13:32:15
 image: 'https://m.media-amazon.com/images/I/41AwhKWv0yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5L8TNF-es Bolso de mano Pepe Jeans Bromley Azul'
 sku: 'B07G5L8TNF-es'
 tags: [ 'bolso', ]

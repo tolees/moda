@@ -5,7 +5,7 @@ date: 2020-08-04 04:24:24
 image: 'https://m.media-amazon.com/images/I/41dLfV2QaeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHZBQLX-es Geox D Sandal Vega a Sandalias con Punta Abierta para...'
 sku: 'B07DHZBQLX-es'
 tags: [ 'geox','sandalias', ]

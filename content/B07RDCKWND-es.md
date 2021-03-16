@@ -5,7 +5,7 @@ date: 2020-04-28 09:15:29
 image: 'https://m.media-amazon.com/images/I/31KCpkBLQmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDCKWND-es Tommy Hilfiger Corp Box Logo tee Camiseta Deporte Azul...'
 sku: 'B07RDCKWND-es'
 tags: [ 'camiseta', ]

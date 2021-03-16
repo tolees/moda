@@ -5,7 +5,7 @@ date: 2020-02-07 07:56:55
 image: 'https://m.media-amazon.com/images/I/31j7uaeZXXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EFRXJQ6-es Helly Hansen Daybreaker Fleece Jacket Chaqueta Hombre...'
 sku: 'B00EFRXJQ6-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-24 19:19:31
 image: 'https://m.media-amazon.com/images/I/319laEPQRWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004S63IJM-es Geox J Crush M Zapatillas para Niños Negro BLACKC9999 30 EU'
 sku: 'B004S63IJM-es'
 tags: [ 'geox', ]

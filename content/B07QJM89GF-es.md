@@ -5,7 +5,7 @@ date: 2020-09-30 10:53:44
 image: 'https://m.media-amazon.com/images/I/41FLyrUCzsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJM89GF-es Puma Men s MCFC Stadium INT SS Jersey Black/Georgia Peach...'
 sku: 'B07QJM89GF-es'
 tags: [ 'jersey', ]

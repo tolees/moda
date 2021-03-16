@@ -5,7 +5,7 @@ date: 2020-01-23 05:14:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41N-Bp%2BgYWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVG9FYT-es Gant D1. The Light Down Jacket Chaqueta Azul Marine 410...'
 sku: 'B07MVG9FYT-es'
 tags: [ 'chaqueta', ]

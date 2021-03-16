@@ -5,7 +5,7 @@ date: 2020-08-05 14:47:40
 image: 'https://m.media-amazon.com/images/I/31zF8Ezf3pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ15V9M-es Levi s June L Chanclas para Hombre Blanco R White 51 40 EU'
 sku: 'B07SJ15V9M-es'
 tags: [ 'chanclas', ]

@@ -5,7 +5,7 @@ date: 2020-06-23 11:28:51
 image: 'https://m.media-amazon.com/images/I/51J7OZKKMvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGLBF1R-es Zapatos Deporte Mujer Zapatillas Deportivas Correr...'
 sku: 'B07MGLBF1R-es'
 tags: [ 'zapatos', ]

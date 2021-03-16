@@ -5,7 +5,7 @@ date: 2020-07-07 22:12:59
 image: 'https://m.media-amazon.com/images/I/41ySSirDQbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKS4NXC-es Clarks Abigail Daisy Sandalias con Tira Vertical para...'
 sku: 'B07TKS4NXC-es'
 tags: [ 'sandalias', ]

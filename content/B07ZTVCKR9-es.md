@@ -5,7 +5,7 @@ date: 2020-05-30 18:21:22
 image: 'https://m.media-amazon.com/images/I/41pYE-aFACL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTVCKR9-es Nike Air MAX Invigor Zapatilla de Correr para Hombre Smoke...'
 sku: 'B07ZTVCKR9-es'
 tags: [ 'zapatilla', ]

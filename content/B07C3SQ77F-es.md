@@ -5,7 +5,7 @@ date: 2020-05-07 16:07:19
 image: 'https://m.media-amazon.com/images/I/31iL937xalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C3SQ77F-es Karrimor - Pantalón Corto Deportivo - para Hombre Negro L'
 sku: 'B07C3SQ77F-es'
 tags: [ 'pantalón', ]

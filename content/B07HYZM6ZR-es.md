@@ -5,7 +5,7 @@ date: 2020-04-10 08:36:34
 image: 'https://m.media-amazon.com/images/I/41je9-BaU0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYZM6ZR-es Amazon Essentials 6-Pack Cotton Bikini Underwear...'
 sku: 'B07HYZM6ZR-es'
 tags: [ 'bikini', ]

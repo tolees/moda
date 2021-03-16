@@ -5,7 +5,7 @@ date: 2020-03-27 10:18:16
 image: 'https://m.media-amazon.com/images/I/31hSm5W3kBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XRH4JQ-es Under Armour Tech 2.0 Shortsleeve Camiseta Hombre Blanco...'
 sku: 'B077XRH4JQ-es'
 tags: [ 'camiseta', ]

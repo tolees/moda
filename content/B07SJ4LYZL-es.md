@@ -5,7 +5,7 @@ date: 2020-08-05 05:28:05
 image: 'https://m.media-amazon.com/images/I/51UF5LhBsNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ4LYZL-es amzdeal - 30pcs Organizadores de Zapatos Ajustables...'
 sku: 'B07SJ4LYZL-es'
 tags: [ 'zapatos', ]

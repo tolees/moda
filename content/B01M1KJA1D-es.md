@@ -5,7 +5,7 @@ date: 2020-09-16 16:20:25
 image: 'https://m.media-amazon.com/images/I/51D8TbQmHYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1KJA1D-es FREESOO Set 5 kits Bolsa de Mama para Bebe Biberon...'
 sku: 'B01M1KJA1D-es'
 tags: [ 'bolso', ]

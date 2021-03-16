@@ -5,7 +5,7 @@ date: 2020-05-06 15:26:31
 image: 'https://m.media-amazon.com/images/I/41X2x-93BVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071W88TYP-es Marca Amazon - find. Camiseta con Cuello Redondo Mujer...'
 sku: 'B071W88TYP-es'
 tags: [ '-','camiseta','find.', ]

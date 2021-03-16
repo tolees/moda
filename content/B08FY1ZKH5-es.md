@@ -5,7 +5,7 @@ date: 2020-09-21 18:05:44
 image: 'https://m.media-amazon.com/images/I/41OY2M6DyuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FY1ZKH5-es Souke Sports - Chaqueta de Ciclismo Hombre Chaqueta Ligera...'
 sku: 'B08FY1ZKH5-es'
 tags: [ 'chaqueta', ]

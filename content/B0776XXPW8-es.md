@@ -5,7 +5,7 @@ date: 2020-05-27 09:09:56
 image: 'https://m.media-amazon.com/images/I/31zLFq9xqvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776XXPW8-es Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3...'
 sku: 'B0776XXPW8-es'
 tags: [ 'camiseta', ]

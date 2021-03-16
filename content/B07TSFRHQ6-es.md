@@ -5,7 +5,7 @@ date: 2020-04-03 12:02:45
 image: 'https://m.media-amazon.com/images/I/41ZLu6yJWuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSFRHQ6-es Wrangler Straight Vaqueros para Mujer Azul Montego Bay 11P...'
 sku: 'B07TSFRHQ6-es'
 tags: [ 'vaqueros', ]

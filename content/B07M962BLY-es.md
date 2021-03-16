@@ -5,7 +5,7 @@ date: 2020-01-11 20:03:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bnTFRLekL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M962BLY-es Wrangler Stripe Logo Sweat Sudadera Azul Blue Depth Xjy...'
 sku: 'B07M962BLY-es'
 tags: [ 'sudadera', ]

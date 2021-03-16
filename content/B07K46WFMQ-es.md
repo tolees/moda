@@ -5,7 +5,7 @@ date: 2020-03-30 17:01:24
 image: 'https://m.media-amazon.com/images/I/410DVLB3XfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K46WFMQ-es WISHDOIT Hombre Moda Clásico Negro Ultra-Delgado Acero...'
 sku: 'B07K46WFMQ-es'
 tags: [ 'moda', ]

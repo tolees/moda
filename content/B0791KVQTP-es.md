@@ -5,7 +5,7 @@ date: 2020-09-19 09:45:55
 image: 'https://m.media-amazon.com/images/I/41ggT8sEMbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0791KVQTP-es Clarks Arla Jacory Sandalias de Talón Abierto para Mujer...'
 sku: 'B0791KVQTP-es'
 tags: [ 'sandalias', ]

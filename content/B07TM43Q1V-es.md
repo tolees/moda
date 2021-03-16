@@ -5,7 +5,7 @@ date: 2020-05-23 07:10:37
 image: 'https://m.media-amazon.com/images/I/51k-cW8T3RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TM43Q1V-es Zapatos de Seguridad para Hombre Mujer con Puntera de...'
 sku: 'B07TM43Q1V-es'
 tags: [ 'zapatos', ]

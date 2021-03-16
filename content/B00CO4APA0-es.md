@@ -5,7 +5,7 @@ date: 2020-09-05 18:24:24
 image: 'https://m.media-amazon.com/images/I/31bmvsgKOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CO4APA0-es Cressi Ninja Floating - Gafas Flotantes Polarizadas para...'
 sku: 'B00CO4APA0-es'
 tags: [ 'gafas', ]

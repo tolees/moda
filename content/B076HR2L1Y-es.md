@@ -5,7 +5,7 @@ date: 2020-06-24 06:19:34
 image: 'https://m.media-amazon.com/images/I/318-tnrc3eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HR2L1Y-es Adidas Core 18 Training Jsy Camiseta Hombre Verde Bold...'
 sku: 'B076HR2L1Y-es'
 tags: [ 'camiseta', ]

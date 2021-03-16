@@ -5,7 +5,7 @@ date: 2020-08-10 05:59:52
 image: 'https://m.media-amazon.com/images/I/41Gz+AqbLOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJGGVCW-es Superdry OL Low Roller tee Camiseta Azul True Blue 69h XS...'
 sku: 'B07TJGGVCW-es'
 tags: [ 'camiseta', ]

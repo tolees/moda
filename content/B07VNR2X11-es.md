@@ -5,7 +5,7 @@ date: 2020-08-30 19:23:40
 image: 'https://m.media-amazon.com/images/I/51NzT+dmpqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNR2X11-es Izod Tartan Check BD Shirt Camisa Casual Color Blanco...'
 sku: 'B07VNR2X11-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-04-25 13:21:01
 image: 'https://m.media-amazon.com/images/I/41tOoq5dljL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV7NG1Q-es Levi s The tee Camiseta de Manga Corta Azul BRW T2 Baby...'
 sku: 'B07TV7NG1Q-es'
 tags: [ 'camiseta', ]

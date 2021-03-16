@@ -5,7 +5,7 @@ date: 2020-08-17 00:19:45
 image: 'https://m.media-amazon.com/images/I/41gBGe4D7KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMWRZHW-es Clarks Lafley Lily Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TMWRZHW-es'
 tags: [ 'sandalias', ]

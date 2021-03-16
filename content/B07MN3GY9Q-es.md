@@ -5,7 +5,7 @@ date: 2020-04-11 07:02:57
 image: 'https://m.media-amazon.com/images/I/41ryWyFSk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN3GY9Q-es Lee Chunky Knit Sudadera Marfil Off White MK Medium para...'
 sku: 'B07MN3GY9Q-es'
 tags: [ 'sudadera', ]

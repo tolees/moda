@@ -5,7 +5,7 @@ date: 2020-08-13 13:33:20
 image: 'https://m.media-amazon.com/images/I/41p6vMkOzCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCG3HWG-es Desigual Chaq Cerezas Abrigo Azul Jeans Vaquero 5053 128...'
 sku: 'B07VCG3HWG-es'
 tags: [ 'abrigo', ]

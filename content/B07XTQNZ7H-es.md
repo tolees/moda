@@ -5,7 +5,7 @@ date: 2020-05-06 09:53:57
 image: 'https://m.media-amazon.com/images/I/41tGD4e8WIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTQNZ7H-es Jack & Jones Jjiglenn Jjoriginal Jos 123 I.k Vaqueros Slim...'
 sku: 'B07XTQNZ7H-es'
 tags: [ 'vaqueros', ]

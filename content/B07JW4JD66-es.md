@@ -5,7 +5,7 @@ date: 2020-02-11 21:58:47
 image: 'https://m.media-amazon.com/images/I/31AVStFQj3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JW4JD66-es Timberland Davis Square Alpine Oxford Zapatillas Unisex-...'
 sku: 'B07JW4JD66-es'
 tags: [ 'timberland', ]

@@ -5,7 +5,7 @@ date: 2020-03-17 20:37:17
 image: 'https://m.media-amazon.com/images/I/41HR5QKAxOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AK68WVM-es Helly Hansen W Long Belfast Chaqueta Mujer Negro Black M'
 sku: 'B01AK68WVM-es'
 tags: [ 'chaqueta', ]

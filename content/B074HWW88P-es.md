@@ -5,7 +5,7 @@ date: 2020-03-05 08:21:20
 image: 'https://m.media-amazon.com/images/I/41OieMp2G+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074HWW88P-es Blanco Rosa Sudaderas Mujer Largas Tumblr Invierno Raya...'
 sku: 'B074HWW88P-es'
 tags: [ 'moda', ]

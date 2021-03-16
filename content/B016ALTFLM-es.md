@@ -5,7 +5,7 @@ date: 2020-02-04 03:06:29
 image: 'https://m.media-amazon.com/images/I/51vM+SHmKcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016ALTFLM-es Gant 3-Pack Trunk Camiseta sin Mangas Gris Grey Melange 93...'
 sku: 'B016ALTFLM-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-22 07:12:29
 image: 'https://m.media-amazon.com/images/I/418lO0bL4dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLP884-es Napapijri Aerons Hood 1 Chaqueta Verde Green Forest 2 Ge3...'
 sku: 'B07MMLP884-es'
 tags: [ 'chaqueta', ]

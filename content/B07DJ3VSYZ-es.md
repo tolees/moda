@@ -5,7 +5,7 @@ date: 2020-05-31 15:14:10
 image: 'https://m.media-amazon.com/images/I/417A0qNAS2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3VSYZ-es Geox D Myria B Zapatillas para Mujer Black C9999 37 EU'
 sku: 'B07DJ3VSYZ-es'
 tags: [ 'geox', ]

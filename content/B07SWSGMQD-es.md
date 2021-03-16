@@ -5,7 +5,7 @@ date: 2020-06-11 06:37:09
 image: 'https://m.media-amazon.com/images/I/4196CX8w3EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWSGMQD-es Geox B Kilwi Boy A Zapatillas para Bebés Blanco White/Dk...'
 sku: 'B07SWSGMQD-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-09-28 20:48:00
 image: 'https://m.media-amazon.com/images/I/31f7fbmZmjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8JHTNT-es Marca Amazon - find. Mono Fluido de Manga Corta para Mujer...'
 sku: 'B07L8JHTNT-es'
 tags: [ '-','find.', ]

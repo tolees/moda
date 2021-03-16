@@ -5,7 +5,7 @@ date: 2020-08-18 09:51:03
 image: 'https://m.media-amazon.com/images/I/41YOPp39sTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKBQT8Y-es Skechers Summits Sandalias Punta Cerrada para Niños Gris...'
 sku: 'B07XKBQT8Y-es'
 tags: [ 'sandalias', ]

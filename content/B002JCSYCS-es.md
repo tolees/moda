@@ -5,7 +5,7 @@ date: 2020-06-22 13:17:19
 image: 'https://m.media-amazon.com/images/I/31ET2yFEHKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002JCSYCS-es Crocs Crocband Flip Chanclas Unisex-Adult Blue Navy 39/40 EU'
 sku: 'B002JCSYCS-es'
 tags: [ 'chanclas', ]

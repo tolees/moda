@@ -5,7 +5,7 @@ date: 2020-07-23 02:31:06
 image: 'https://m.media-amazon.com/images/I/41-Txt2tYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLHRS8R-es BOTRE 13-15.6 Pulgadas Bolso de Mujer Bandolera...'
 sku: 'B07PLHRS8R-es'
 tags: [ 'bolso','moda', ]

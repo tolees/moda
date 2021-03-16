@@ -5,7 +5,7 @@ date: 2020-09-17 00:04:50
 image: 'https://m.media-amazon.com/images/I/31u+nkxIHoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074XYM5LP-es BOSS Identity T-Shirt RN Top de Pijama Azul Dark Blue 403...'
 sku: 'B074XYM5LP-es'
 tags: [ 'pijama', ]

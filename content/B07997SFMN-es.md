@@ -5,7 +5,7 @@ date: 2020-07-14 05:47:04
 image: 'https://m.media-amazon.com/images/I/31+ldf4-EkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07997SFMN-es Marca Amazon - MERAKI Camisa de Vestir de Corte Recto...'
 sku: 'B07997SFMN-es'
 tags: [ 'camisa','meraki', ]

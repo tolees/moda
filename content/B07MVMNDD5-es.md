@@ -5,7 +5,7 @@ date: 2020-06-23 15:24:28
 image: 'https://m.media-amazon.com/images/I/41qrWskFXwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVMNDD5-es Marca Amazon - MERAKI Calzoncillo Corto de Algodón Hombre...'
 sku: 'B07MVMNDD5-es'
 tags: [ 'meraki', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 21:08:50
 image: 'https://m.media-amazon.com/images/I/31dS8I-JXxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6B6PVT-es Skechers Ultra Flex-Neon Star Sandalias de Talón Abierto...'
 sku: 'B07H6B6PVT-es'
 tags: [ 'sandalias', ]

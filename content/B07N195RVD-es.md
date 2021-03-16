@@ -5,7 +5,7 @@ date: 2020-02-09 09:39:33
 image: 'https://m.media-amazon.com/images/I/416ckbbXpxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N195RVD-es Lee Essential Logo SWS Sudadera Gris Grey Mele MP X-Large...'
 sku: 'B07N195RVD-es'
 tags: [ 'sudadera', ]

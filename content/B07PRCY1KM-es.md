@@ -5,7 +5,7 @@ date: 2020-05-16 12:04:29
 image: 'https://m.media-amazon.com/images/I/31m0kuy+ulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCY1KM-es Mary A1905 - Zapatos de napa color negro y rojo tacón de 6...'
 sku: 'B07PRCY1KM-es'
 tags: [ 'zapatos', ]

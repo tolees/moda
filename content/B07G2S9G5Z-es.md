@@ -5,7 +5,7 @@ date: 2020-01-29 00:02:51
 image: 'https://m.media-amazon.com/images/I/31mojiE7itL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2S9G5Z-es Pierre Calvini Signiture Bóxer para Hombre Negro Black...'
 sku: 'B07G2S9G5Z-es'
 tags: [ 'bóxer', ]

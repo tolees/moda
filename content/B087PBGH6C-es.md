@@ -5,7 +5,7 @@ date: 2020-05-08 13:37:01
 image: 'https://m.media-amazon.com/images/I/511GMZWT7pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PBGH6C-es Suhctup Funda Compatible con Xiaomi Mi CC9e/Mi A3...'
 sku: 'B087PBGH6C-es'
 tags: [ 'billetera', ]

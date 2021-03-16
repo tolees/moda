@@ -5,7 +5,7 @@ date: 2020-05-12 11:34:06
 image: 'https://m.media-amazon.com/images/I/41EO0xavOmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LGZ66P-es Under Armour Tech Graphic Short Pantalón Corto Hombre...'
 sku: 'B071LGZ66P-es'
 tags: [ 'pantalón', ]

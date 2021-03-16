@@ -5,7 +5,7 @@ date: 2020-02-22 17:16:52
 image: 'https://m.media-amazon.com/images/I/31ziMIzDquL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019XXIREU-es Crocs Classic Clog Zuecos Unisex Adulto Verde New Mint 3P7...'
 sku: 'B019XXIREU-es'
 tags: [ 'zuecos', ]

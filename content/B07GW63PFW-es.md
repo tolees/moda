@@ -5,7 +5,7 @@ date: 2020-01-07 17:49:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bavWHT1HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GW63PFW-es Vero Moda Vmsiv Soraya Short Jacket Boos Chaqueta Azul...'
 sku: 'B07GW63PFW-es'
 tags: [ 'chaqueta','moda', ]

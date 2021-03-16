@@ -5,7 +5,7 @@ date: 2020-02-29 10:49:33
 image: 'https://m.media-amazon.com/images/I/31at-lNo5HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWP7TQ-es Wrangler Graphic Logo tee Camiseta Blanco Antique White...'
 sku: 'B07MMWP7TQ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-16 19:31:46
 image: 'https://m.media-amazon.com/images/I/31dVkoVIVdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AFO9W54-es Diesel CREW NECK ESSENTIAL Camiseta para Hombre Multicolor...'
 sku: 'B01AFO9W54-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-17 09:47:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wJ1VxZFuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGY2BBT-es Under Armour UA Prevail Windbreaker Chaqueta Mujer Negro...'
 sku: 'B07KGY2BBT-es'
 tags: [ 'chaqueta', ]

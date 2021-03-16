@@ -5,7 +5,7 @@ date: 2020-09-20 18:03:31
 image: 'https://m.media-amazon.com/images/I/41n+b07eruL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFV9MVT-es Geox D HOARA G Botas Estilo Motero para Mujer Negro Black...'
 sku: 'B07LFV9MVT-es'
 tags: [ 'geox', ]

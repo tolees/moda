@@ -5,7 +5,7 @@ date: 2020-05-11 08:22:16
 image: 'https://m.media-amazon.com/images/I/51BK6uSKflL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVK37TG-es YUNB Gafas de Seguridad de oscurecimiento LCD automático...'
 sku: 'B07WVK37TG-es'
 tags: [ 'gafas', ]

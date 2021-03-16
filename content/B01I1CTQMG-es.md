@@ -5,7 +5,7 @@ date: 2020-01-29 09:56:54
 image: 'https://m.media-amazon.com/images/I/412sUfSK11L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I1CTQMG-es adidas Real Madrid CF TRG Sudadera Hombre Blanco/Morado S'
 sku: 'B01I1CTQMG-es'
 tags: [ 'sudadera', ]

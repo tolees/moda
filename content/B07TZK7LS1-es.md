@@ -5,7 +5,7 @@ date: 2020-06-27 10:44:40
 image: 'https://m.media-amazon.com/images/I/41Z3UrbZX-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZK7LS1-es BOSS Boxer Brief 2p Solid Naranja Medium Orange 813 Large...'
 sku: 'B07TZK7LS1-es'
 tags: [ 'boxer', ]

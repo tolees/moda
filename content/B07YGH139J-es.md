@@ -5,7 +5,7 @@ date: 2020-09-17 12:41:29
 image: 'https://m.media-amazon.com/images/I/41B02C-y4TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGH139J-es Jack & Jones JORTOPIAS Sweat Hood Sudadera con Capucha...'
 sku: 'B07YGH139J-es'
 tags: [ 'sudadera', ]

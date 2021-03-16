@@ -5,7 +5,7 @@ date: 2020-05-14 06:25:55
 image: 'https://m.media-amazon.com/images/I/31iDF7GBZGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HMRTWO8-es The North Face T92TX3 Camiseta Easy Hombre Blanco Tnf White S'
 sku: 'B01HMRTWO8-es'
 tags: [ 'camiseta', ]

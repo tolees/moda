@@ -5,7 +5,7 @@ date: 2020-08-07 11:19:03
 image: 'https://m.media-amazon.com/images/I/315llEZtlOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWNMH6K-es Wrangler LS 1 Pkt Button Down Camisa Azul Cerulean Blue...'
 sku: 'B07TWNMH6K-es'
 tags: [ 'camisa', ]

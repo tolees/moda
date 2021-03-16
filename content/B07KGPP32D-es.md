@@ -5,7 +5,7 @@ date: 2020-02-26 20:42:52
 image: 'https://m.media-amazon.com/images/I/41nLbyMRqLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGPP32D-es edc by Esprit 999cc2k803 Camiseta Blanco White 100 X-Large...'
 sku: 'B07KGPP32D-es'
 tags: [ 'camiseta', ]

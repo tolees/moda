@@ -5,7 +5,7 @@ date: 2020-06-25 10:29:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ygb4psFWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GN53C7H-es Uten Limpiador Ultrasónico Profesional Acero Inoxidable...'
 sku: 'B07GN53C7H-es'
 tags: [ 'gafas', ]

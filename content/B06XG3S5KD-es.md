@@ -5,7 +5,7 @@ date: 2020-07-23 23:16:51
 image: 'https://m.media-amazon.com/images/I/41GADq5eoHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG3S5KD-es Marca Amazon - find. Camisa Hombre Verde Fresh Green L...'
 sku: 'B06XG3S5KD-es'
 tags: [ '-','camisa','find.', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 15:42:05
 image: 'https://m.media-amazon.com/images/I/51uIjFdTn3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7L47QP-es Superdry Felicity Tie Crop Bikini Top Parte de Arriba...'
 sku: 'B07P7L47QP-es'
 tags: [ 'bikini', ]

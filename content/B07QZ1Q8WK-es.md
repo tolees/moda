@@ -5,7 +5,7 @@ date: 2020-03-01 14:13:20
 image: 'https://m.media-amazon.com/images/I/417TMCmL4lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ1Q8WK-es Wrangler Logo Sweat Sudadera Marrón Picante Brown X9h...'
 sku: 'B07QZ1Q8WK-es'
 tags: [ 'sudadera', ]

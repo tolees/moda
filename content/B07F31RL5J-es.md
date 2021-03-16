@@ -5,7 +5,7 @@ date: 2020-04-11 10:04:41
 image: 'https://m.media-amazon.com/images/I/41XoTXNg9sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F31RL5J-es Helly Hansen Moss Rain Shell Chaqueta Impermeable con...'
 sku: 'B07F31RL5J-es'
 tags: [ 'chaqueta', ]

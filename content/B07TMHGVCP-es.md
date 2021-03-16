@@ -5,7 +5,7 @@ date: 2020-08-08 09:10:51
 image: 'https://m.media-amazon.com/images/I/413QDm0J69L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMHGVCP-es Levi s 510 Vaqueros Skinny Azul Moose Tracks Cool 1035...'
 sku: 'B07TMHGVCP-es'
 tags: [ 'vaqueros', ]

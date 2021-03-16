@@ -5,7 +5,7 @@ date: 2020-05-22 11:36:41
 image: 'https://m.media-amazon.com/images/I/41q-8+SJ0XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPKWPX-es Pepe Jeans Elcano Chaqueta Marrón Brass 891 3-4 años Talla...'
 sku: 'B07MZPKWPX-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-06-09 10:52:35
 image: 'https://m.media-amazon.com/images/I/315xZ0mnG0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RXZLOK0-es Joma Combi Camiseta Manga Corta Hombre Negro 8-10'
 sku: 'B00RXZLOK0-es'
 tags: [ 'camiseta', ]

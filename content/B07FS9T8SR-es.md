@@ -5,7 +5,7 @@ date: 2020-08-04 20:14:17
 image: 'https://m.media-amazon.com/images/I/31kPfck-ppL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FS9T8SR-es Clarks Oakland Lace Zapatos de Cordones Derby para Hombre...'
 sku: 'B07FS9T8SR-es'
 tags: [ 'zapatos', ]

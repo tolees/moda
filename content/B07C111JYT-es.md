@@ -5,7 +5,7 @@ date: 2020-08-05 15:01:34
 image: 'https://m.media-amazon.com/images/I/41+9l4DRJNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C111JYT-es Fruit of the Loom - Camiseta básica de Manga Corta para...'
 sku: 'B07C111JYT-es'
 tags: [ 'camiseta', ]

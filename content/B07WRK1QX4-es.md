@@ -5,7 +5,7 @@ date: 2020-04-23 17:58:31
 image: 'https://m.media-amazon.com/images/I/31tB2ArfIkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRK1QX4-es New Look Op Patch Pocket Mtj Chaqueta Punto Marfil Off...'
 sku: 'B07WRK1QX4-es'
 tags: [ 'chaqueta', ]

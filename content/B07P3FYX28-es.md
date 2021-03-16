@@ -5,7 +5,7 @@ date: 2020-04-07 16:06:32
 image: 'https://m.media-amazon.com/images/I/31Fl5kjdmtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3FYX28-es Superdry OL Elite Crew Sudadera Gris Slate 07x Small para...'
 sku: 'B07P3FYX28-es'
 tags: [ 'sudadera', ]

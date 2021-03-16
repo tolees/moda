@@ -5,7 +5,7 @@ date: 2020-04-14 20:01:18
 image: 'https://m.media-amazon.com/images/I/41Svj+mWUqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJJ1ZZY-es Tamaris 1-1-26250-23 Botines para Mujer Negro Black 1 39 EU'
 sku: 'B07NJJ1ZZY-es'
 tags: [ 'botines', ]

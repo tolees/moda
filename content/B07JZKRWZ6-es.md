@@ -5,7 +5,7 @@ date: 2020-03-19 11:48:20
 image: 'https://m.media-amazon.com/images/I/41FigT+dBtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZKRWZ6-es Tommy Hilfiger Logo tee S/s Camiseta Azul Saxony Blue 491...'
 sku: 'B07JZKRWZ6-es'
 tags: [ 'camiseta', ]

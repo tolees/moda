@@ -5,7 +5,7 @@ date: 2020-07-01 16:57:41
 image: 'https://m.media-amazon.com/images/I/415NtN2PEKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085RBK2FL-es Gafas Protectoras Gafas Protectoras de Seguridad Gafas...'
 sku: 'B085RBK2FL-es'
 tags: [ 'gafas', ]

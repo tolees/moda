@@ -5,7 +5,7 @@ date: 2020-02-12 21:49:32
 image: 'https://m.media-amazon.com/images/I/41CD1akbo3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8JYF5V-es Desigual T-Shirt John Camiseta de Manga Larga Azul Diva...'
 sku: 'B07N8JYF5V-es'
 tags: [ 'camiseta', ]

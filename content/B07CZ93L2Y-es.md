@@ -5,7 +5,7 @@ date: 2020-05-06 13:51:04
 image: 'https://m.media-amazon.com/images/I/31oFCRpf-PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ93L2Y-es Under Armour UA Launch Sw 9 Short Pantalón Corto Hombre...'
 sku: 'B07CZ93L2Y-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-04-11 09:04:28
 image: 'https://m.media-amazon.com/images/I/41GAtRcZUxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y8KL2N-es Sylvie Flirty Swimwear Brix Parte de Arriba de Bikini para...'
 sku: 'B077Y8KL2N-es'
 tags: [ 'bikini', ]

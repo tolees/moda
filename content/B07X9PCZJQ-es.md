@@ -5,7 +5,7 @@ date: 2020-08-17 13:59:10
 image: 'https://m.media-amazon.com/images/I/41kPXu7wXhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9PCZJQ-es FCB Conjunto Camiseta y Pantalón Primera Equipación...'
 sku: 'B07X9PCZJQ-es'
 tags: [ 'camiseta','pantalón', ]

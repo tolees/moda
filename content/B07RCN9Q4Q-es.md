@@ -5,7 +5,7 @@ date: 2020-01-05 10:43:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DYr5ygulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCN9Q4Q-es Columbia Centennial Creek Chaqueta De Plumón con Capucha...'
 sku: 'B07RCN9Q4Q-es'
 tags: [ 'chaqueta', ]

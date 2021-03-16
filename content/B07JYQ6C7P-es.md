@@ -5,7 +5,7 @@ date: 2020-03-08 09:03:12
 image: 'https://m.media-amazon.com/images/I/41ygzpvicdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYQ6C7P-es Tommy Hilfiger Essential Hooded Down Jacket Chaqueta Flame...'
 sku: 'B07JYQ6C7P-es'
 tags: [ 'chaqueta', ]

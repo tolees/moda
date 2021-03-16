@@ -5,7 +5,7 @@ date: 2020-01-22 14:39:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HzoTgk%2BIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N44CKNX-es Desigual T-Shirt Matilde Camiseta Negro Negro 2000 XL para...'
 sku: 'B07N44CKNX-es'
 tags: [ 'camiseta', ]

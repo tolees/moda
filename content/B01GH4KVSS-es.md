@@ -5,7 +5,7 @@ date: 2020-03-11 02:37:28
 image: 'https://m.media-amazon.com/images/I/51d0onwjDUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GH4KVSS-es Bolso organizador para coche animal león tigre jirafa de...'
 sku: 'B01GH4KVSS-es'
 tags: [ 'bolso', ]

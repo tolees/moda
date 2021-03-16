@@ -5,7 +5,7 @@ date: 2020-09-22 18:13:20
 image: 'https://m.media-amazon.com/images/I/41Aw9WFUSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3DN3W4-es PAOLIAN Blusa Lino de Mujer Manga Largas Otoño 2018 Blusa...'
 sku: 'B07G3DN3W4-es'
 tags: [ 'blusa','camisa','moda', ]

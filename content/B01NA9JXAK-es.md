@@ -5,7 +5,7 @@ date: 2020-04-05 16:40:29
 image: 'https://m.media-amazon.com/images/I/419ayJ9rDpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NA9JXAK-es Ducomi® Master Classic - Gafas de Sol con Madera de Caña...'
 sku: 'B01NA9JXAK-es'
 tags: [ 'gafas', ]

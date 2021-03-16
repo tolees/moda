@@ -5,7 +5,7 @@ date: 2020-04-04 11:39:36
 image: 'https://m.media-amazon.com/images/I/41EueOXdUZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBYPXWF-es PUMA Sudadera Rebel Hoody FL Light Gris Mujer'
 sku: 'B07TBYPXWF-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-03-30 17:31:20
 image: 'https://m.media-amazon.com/images/I/31QHpe9G97L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZMB32Y-es Pepe Jeans Margaret Camiseta Mousse 808 13-14 años Talla...'
 sku: 'B07MZMB32Y-es'
 tags: [ 'camiseta', ]

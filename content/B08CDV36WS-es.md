@@ -5,7 +5,7 @@ date: 2020-09-23 18:34:28
 image: 'https://m.media-amazon.com/images/I/51hsO1Ni1QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDV36WS-es Zapatos de Seguridad Hombre Mujer Zapatillas de Trabajo...'
 sku: 'B08CDV36WS-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-07-13 22:19:49
 image: 'https://m.media-amazon.com/images/I/415FJevT7GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWV24JL-es Geox D Airell A Zapatillas para Mujer Gris Lt Grey C1010...'
 sku: 'B07SWV24JL-es'
 tags: [ 'geox', ]

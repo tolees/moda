@@ -5,7 +5,7 @@ date: 2020-06-02 09:35:53
 image: 'https://m.media-amazon.com/images/I/51Y5-EpFEAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UT2MXTA-es Tommy Hilfiger Shorty Pantalones de Pijama Gris Grey...'
 sku: 'B00UT2MXTA-es'
 tags: [ 'pijama', ]

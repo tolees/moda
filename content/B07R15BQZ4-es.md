@@ -5,7 +5,7 @@ date: 2020-04-27 19:44:43
 image: 'https://m.media-amazon.com/images/I/51KP93aFM5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R15BQZ4-es Wrangler LS 2pkt Flap Shirt Camisa Multicolor Dress Blue...'
 sku: 'B07R15BQZ4-es'
 tags: [ 'camisa', ]

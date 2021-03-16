@@ -5,7 +5,7 @@ date: 2020-03-20 10:18:00
 image: 'https://m.media-amazon.com/images/I/41totmygZXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P81FF8R-es JACK & JONES Jcotony tee SS Crew Neck WHS 2-Pack Camiseta...'
 sku: 'B07P81FF8R-es'
 tags: [ 'camiseta', ]

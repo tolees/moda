@@ -5,7 +5,7 @@ date: 2020-04-18 10:42:37
 image: 'https://m.media-amazon.com/images/I/41zLxu9LLTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL6BJ5-es G-STAR RAW Attacc Down Chaqueta Verde Sage 724 X-Small...'
 sku: 'B07NDL6BJ5-es'
 tags: [ 'chaqueta', ]

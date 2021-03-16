@@ -5,7 +5,7 @@ date: 2020-06-08 09:21:16
 image: 'https://m.media-amazon.com/images/I/31QCd1pEK0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KS9WMJ4-es adidas W E 3s Slim tee Camiseta de Manga Corta Mujer...'
 sku: 'B07KS9WMJ4-es'
 tags: [ 'camiseta', ]

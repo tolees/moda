@@ -5,7 +5,7 @@ date: 2020-01-23 12:03:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZePu4kShL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNVKCS-es G-STAR RAW Whistler Slim Down Hooded Long Abrigo Gris...'
 sku: 'B07NDNVKCS-es'
 tags: [ 'abrigo', ]

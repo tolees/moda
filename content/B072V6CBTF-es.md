@@ -5,7 +5,7 @@ date: 2020-02-20 13:31:45
 image: 'https://m.media-amazon.com/images/I/51fbxd2puZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072V6CBTF-es Funda para Samsung Galaxy S7 Edge Libro de Cuero Impresión...'
 sku: 'B072V6CBTF-es'
 tags: [ 'billetera', ]

@@ -5,7 +5,7 @@ date: 2020-08-20 17:45:36
 image: 'https://m.media-amazon.com/images/I/41sVfTd5HkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPC1PYY-es Crocs Crocband Clog Kids Zuecos Unisex Niños Morado...'
 sku: 'B07CPC1PYY-es'
 tags: [ 'zuecos', ]

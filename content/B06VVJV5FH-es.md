@@ -5,7 +5,7 @@ date: 2020-04-29 07:03:59
 image: 'https://m.media-amazon.com/images/I/41aoO1s6rdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VVJV5FH-es Momawo | Abrigo Polar de Porteo y Maternidad...'
 sku: 'B06VVJV5FH-es'
 tags: [ 'abrigo', ]

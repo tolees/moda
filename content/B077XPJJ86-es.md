@@ -5,7 +5,7 @@ date: 2020-10-09 20:09:22
 image: 'https://m.media-amazon.com/images/I/31mnNUvX02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XPJJ86-es Under Armour Sportstyle Left Chest Camiseta Hombre Negro MD'
 sku: 'B077XPJJ86-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-25 09:07:13
 image: 'https://m.media-amazon.com/images/I/41oJHVrjhXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5BPL7G-es Geographical Norway Sudadera DE Hombre GYMCLASS B Verde S'
 sku: 'B07Y5BPL7G-es'
 tags: [ 'sudadera', ]

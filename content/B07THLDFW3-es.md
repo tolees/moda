@@ -5,7 +5,7 @@ date: 2020-04-25 10:32:08
 image: 'https://m.media-amazon.com/images/I/51uv+CFIwXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THLDFW3-es iWalker Guantes Gimnasios de Crossfit para los Deportes...'
 sku: 'B07THLDFW3-es'
 tags: [ 'guantes', ]

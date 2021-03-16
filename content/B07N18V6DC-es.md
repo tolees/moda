@@ -5,7 +5,7 @@ date: 2020-02-11 11:26:35
 image: 'https://m.media-amazon.com/images/I/41gM4xWLcZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18V6DC-es G-STAR RAW 3301 Straight Vaqueros Worker Blue Faded...'
 sku: 'B07N18V6DC-es'
 tags: [ 'vaqueros', ]

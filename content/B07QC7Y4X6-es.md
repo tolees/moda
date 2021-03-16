@@ -5,7 +5,7 @@ date: 2020-01-17 09:13:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FlJubSkCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC7Y4X6-es PUMA Reactive Chaqueta de Entrenamiento Hombre Negro...'
 sku: 'B07QC7Y4X6-es'
 tags: [ 'chaqueta', ]

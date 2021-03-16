@@ -5,7 +5,7 @@ date: 2020-05-28 14:17:41
 image: 'https://m.media-amazon.com/images/I/31-cytAIBjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8TFJKB-es Mammut Camiseta Alnasca Mujer Camiseta Mujer Bright White XS'
 sku: 'B07R8TFJKB-es'
 tags: [ 'camiseta', ]

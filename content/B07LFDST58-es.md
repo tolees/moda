@@ -5,7 +5,7 @@ date: 2020-01-06 18:17:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51XgwIPFRYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFDST58-es Levi s Sunset 1 Pocket Shirt Camisa Multicolor Rushmeyer...'
 sku: 'B07LFDST58-es'
 tags: [ 'camisa', ]

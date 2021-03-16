@@ -5,7 +5,7 @@ date: 2020-05-21 16:34:41
 image: 'https://m.media-amazon.com/images/I/41WSRfS9elL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8Y8LFT-es Helly Hansen W HH Logo Hoodie Sudadera con Capucha Mujer...'
 sku: 'B07S8Y8LFT-es'
 tags: [ 'sudadera', ]

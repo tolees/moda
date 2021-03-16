@@ -5,7 +5,7 @@ date: 2020-01-07 09:30:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sTu6kWmwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HSW99X-es find. 59699 vaqueros mujer Azul Mid Blue W26/L32'
 sku: 'B076HSW99X-es'
 tags: [ 'vaqueros', ]

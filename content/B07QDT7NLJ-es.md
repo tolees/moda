@@ -5,7 +5,7 @@ date: 2020-06-06 17:01:38
 image: 'https://m.media-amazon.com/images/I/41E0lVSMvcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDT7NLJ-es PUMA VCF Training Jersey Maillot Hombre White/Fizzy Orange S'
 sku: 'B07QDT7NLJ-es'
 tags: [ 'jersey', ]

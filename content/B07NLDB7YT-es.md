@@ -5,7 +5,7 @@ date: 2020-07-26 16:54:34
 image: 'https://m.media-amazon.com/images/I/31goN+-JWtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLDB7YT-es Meller - Waga Minor Carbon - Gafas de sol para hombre y mujer'
 sku: 'B07NLDB7YT-es'
 tags: [ 'gafas', ]

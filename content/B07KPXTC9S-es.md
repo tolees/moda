@@ -5,7 +5,7 @@ date: 2020-03-30 17:31:20
 image: 'https://m.media-amazon.com/images/I/31lt4C96OcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPXTC9S-es adidas Essentials Linear Tk Camiseta de Tirantes Mujer...'
 sku: 'B07KPXTC9S-es'
 tags: [ 'camiseta', ]

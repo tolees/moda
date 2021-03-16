@@ -5,7 +5,7 @@ date: 2020-01-04 15:34:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31aLn9raIuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3TPTQN-es CARE OF by PUMA Chaleco acolchado impermeable para hombre...'
 sku: 'B07R3TPTQN-es'
 tags: [ 'chaleco', ]

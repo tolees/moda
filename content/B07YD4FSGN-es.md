@@ -5,7 +5,7 @@ date: 2020-05-17 14:34:11
 image: 'https://m.media-amazon.com/images/I/51slomzumPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD4FSGN-es Amzdeal Gafas de Esquí Gafas Esquí Snowboard Doble Capa...'
 sku: 'B07YD4FSGN-es'
 tags: [ 'gafas', ]

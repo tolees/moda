@@ -5,7 +5,7 @@ date: 2020-08-18 22:45:20
 image: 'https://m.media-amazon.com/images/I/41o9Z8dwKEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFLWYQD-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva Negro Black...'
 sku: 'B07RFLWYQD-es'
 tags: [ 'chaqueta', ]

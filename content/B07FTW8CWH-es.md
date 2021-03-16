@@ -5,7 +5,7 @@ date: 2020-08-15 10:57:57
 image: 'https://m.media-amazon.com/images/I/41917OL65mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTW8CWH-es Lee Daren Zip Fly Vaqueros Rectos Azul Broken Blue Sx 42W...'
 sku: 'B07FTW8CWH-es'
 tags: [ 'vaqueros', ]

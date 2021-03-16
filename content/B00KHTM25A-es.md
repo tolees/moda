@@ -5,7 +5,7 @@ date: 2020-06-24 01:41:32
 image: 'https://m.media-amazon.com/images/I/41Q9U60nDyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KHTM25A-es Under Armour UA Heatgear Short Sleeve Camiseta Hombre...'
 sku: 'B00KHTM25A-es'
 tags: [ 'camiseta', ]

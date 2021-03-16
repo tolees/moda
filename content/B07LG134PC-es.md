@@ -5,7 +5,7 @@ date: 2020-01-05 14:43:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41X15tdk0AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG134PC-es Geox J HADRIEL Girl A Zapatillas Altas para Niñas Gris Dk...'
 sku: 'B07LG134PC-es'
 tags: [ 'geox', ]

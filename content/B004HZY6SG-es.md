@@ -5,7 +5,7 @@ date: 2020-06-28 09:22:25
 image: 'https://m.media-amazon.com/images/I/41rsfB2fyAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004HZY6SG-es Geox U Moner V Mocasines para Hombre Marrone Sable 45 EU'
 sku: 'B004HZY6SG-es'
 tags: [ 'geox', ]

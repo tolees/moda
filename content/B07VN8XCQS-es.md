@@ -5,7 +5,7 @@ date: 2020-04-28 07:05:45
 image: 'https://m.media-amazon.com/images/I/41+g6iKvLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN8XCQS-es Pepe Jeans Eggo Camiseta Azul Steel Blue 563 Medium para...'
 sku: 'B07VN8XCQS-es'
 tags: [ 'camiseta', ]

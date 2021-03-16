@@ -5,7 +5,7 @@ date: 2020-02-01 12:03:48
 image: 'https://m.media-amazon.com/images/I/41Y6D7lHBML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081GYM9R2-es Mujer Zapatillas Deporte para Zapatillas de Ligeras...'
 sku: 'B081GYM9R2-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-06-01 11:06:24
 image: 'https://m.media-amazon.com/images/I/514GhKXcMOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084P5GXWN-es Camiseta de Baloncesto para Hombre Los Angeles Lakers #24...'
 sku: 'B084P5GXWN-es'
 tags: [ 'camiseta', ]

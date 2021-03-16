@@ -5,7 +5,7 @@ date: 2020-05-17 09:08:12
 image: 'https://m.media-amazon.com/images/I/41Ss1Iz3OfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D7RR4D-es HuiHang Mujer Cuero Confort Peep Toe Sandalias Plataforma...'
 sku: 'B088D7RR4D-es'
 tags: [ 'sandalias','zapatos', ]

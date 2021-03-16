@@ -5,7 +5,7 @@ date: 2020-01-15 12:53:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JKKMDzBGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3J3TVJ-es Only Onlcarrie Bonded Coat CC Otw Abrigo Beige Nomad...'
 sku: 'B07S3J3TVJ-es'
 tags: [ 'abrigo', ]

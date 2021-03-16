@@ -5,7 +5,7 @@ date: 2020-01-03 12:09:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ubkWa%2B06L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYVTJY1-es Tommy Hilfiger Belle Boat-nk Top 3/4 Slv Jersey Deportivo...'
 sku: 'B07JYVTJY1-es'
 tags: [ 'jersey', ]

@@ -5,7 +5,7 @@ date: 2020-01-13 09:16:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413LhgWihyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719DGBFY-es find. Camiseta Estampada para Hombre Negro Charcoal Small'
 sku: 'B0719DGBFY-es'
 tags: [ 'camiseta', ]

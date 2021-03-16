@@ -5,7 +5,7 @@ date: 2020-05-23 20:32:19
 image: 'https://m.media-amazon.com/images/I/41QzQw+7wtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB43FFV-es The North Face T93BRM Chaqueta Trevail Mujer Grisaille...'
 sku: 'B07BB43FFV-es'
 tags: [ 'chaqueta', ]

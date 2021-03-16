@@ -5,7 +5,7 @@ date: 2020-06-22 20:50:31
 image: 'https://m.media-amazon.com/images/I/41AJ9aRNH0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5D7VRP-es Salewa WS Alpenviolet Mid GTX Zapatos de High Rise...'
 sku: 'B07M5D7VRP-es'
 tags: [ 'zapatos', ]

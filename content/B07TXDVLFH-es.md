@@ -5,7 +5,7 @@ date: 2020-07-26 15:19:03
 image: 'https://m.media-amazon.com/images/I/411coIsshHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXDVLFH-es Levi s Graphic tee Camiseta Azul Boxtab SS T2 Dress Blues...'
 sku: 'B07TXDVLFH-es'
 tags: [ 'camiseta', ]

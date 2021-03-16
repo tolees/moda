@@ -5,7 +5,7 @@ date: 2020-07-22 10:32:43
 image: 'https://m.media-amazon.com/images/I/418b5BE9loL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XWXBKGX-es IPOTCH Collar De Signo De Paz De Color Iris De 3 Piezas...'
 sku: 'B07XWXBKGX-es'
 tags: [ 'collar', ]

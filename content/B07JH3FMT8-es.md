@@ -5,7 +5,7 @@ date: 2020-05-07 09:12:31
 image: 'https://m.media-amazon.com/images/I/41+0Oo+0rwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH3FMT8-es Pepe Jeans Glover Pm506560 Camiseta Light Yellow 003...'
 sku: 'B07JH3FMT8-es'
 tags: [ 'camiseta', ]

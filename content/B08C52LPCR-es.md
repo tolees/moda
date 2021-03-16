@@ -5,7 +5,7 @@ date: 2020-08-31 16:00:40
 image: 'https://m.media-amazon.com/images/I/51jnDFchGuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C52LPCR-es GMWD Alfombrilla Desinfectante para El Piso Zapatos De...'
 sku: 'B08C52LPCR-es'
 tags: [ 'zapatos', ]

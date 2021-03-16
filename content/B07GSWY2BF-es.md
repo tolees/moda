@@ -5,7 +5,7 @@ date: 2020-02-29 23:19:25
 image: 'https://m.media-amazon.com/images/I/41cT762-RML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSWY2BF-es Puma Essentials LG T Camiseta de Manga Corta Hombre Negro...'
 sku: 'B07GSWY2BF-es'
 tags: [ 'camiseta', ]

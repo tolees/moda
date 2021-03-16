@@ -5,7 +5,7 @@ date: 2020-09-20 15:33:19
 image: 'https://m.media-amazon.com/images/I/419S0sdYWAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHCGJYK-es Columbia REDMOND V2 Zapatos de senderismo impermeables...'
 sku: 'B07JHCGJYK-es'
 tags: [ 'zapatos', ]

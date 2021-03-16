@@ -5,7 +5,7 @@ date: 2020-09-02 04:08:53
 image: 'https://m.media-amazon.com/images/I/31qOrgpbeRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9ZXTD6-es VVA Gafas de sol Hombre Polarizadas Aviador Hombres...'
 sku: 'B07H9ZXTD6-es'
 tags: [ 'gafas', ]

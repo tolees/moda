@@ -5,7 +5,7 @@ date: 2020-03-20 20:38:58
 image: 'https://m.media-amazon.com/images/I/31Lfylwg5HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYRZ2GY-es Tommy Hilfiger Low Rise Skinny Sophie Vaqueros straight...'
 sku: 'B07JYRZ2GY-es'
 tags: [ 'vaqueros', ]

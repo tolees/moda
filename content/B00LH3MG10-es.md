@@ -5,7 +5,7 @@ date: 2020-03-10 06:03:52
 image: 'https://m.media-amazon.com/images/I/4177XgTX7iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LH3MG10-es Helly Hansen W Paramount Softshell Chaqueta Mujer Negro XS'
 sku: 'B00LH3MG10-es'
 tags: [ 'chaqueta', ]

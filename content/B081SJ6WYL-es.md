@@ -5,7 +5,7 @@ date: 2020-07-11 17:03:07
 image: 'https://m.media-amazon.com/images/I/41K1Q2QVGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SJ6WYL-es adidas Own The Run Jkt Chaqueta de Deporte Hombre...'
 sku: 'B081SJ6WYL-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-26 15:11:04
 image: 'https://m.media-amazon.com/images/I/41CUllJxYRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078C66WMV-es Lacoste L1212 Camiseta Polo Azul Electrique 3XL Talla del...'
 sku: 'B078C66WMV-es'
 tags: [ 'camiseta', ]

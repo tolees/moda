@@ -5,7 +5,7 @@ date: 2020-04-09 08:41:30
 image: 'https://m.media-amazon.com/images/I/412p09Nz4mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS3DL32-es Disney Sudadera para niñas Toy Story Jessie Azul 2-3 Años'
 sku: 'B07TS3DL32-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-05-21 17:36:15
 image: 'https://m.media-amazon.com/images/I/41wgouQ5nWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W91WW6S-es Tommy Hilfiger Stretch Slim Fit Vneck tee Camiseta Deporte...'
 sku: 'B07W91WW6S-es'
 tags: [ 'camiseta', ]

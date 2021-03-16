@@ -5,7 +5,7 @@ date: 2020-03-15 14:25:00
 image: 'https://m.media-amazon.com/images/I/31fq3iY-nIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q4MYSSI-es Lacoste TH7618 Camiseta para Hombre Azul Marine Medium...'
 sku: 'B00Q4MYSSI-es'
 tags: [ 'camiseta', ]

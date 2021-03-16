@@ -5,7 +5,7 @@ date: 2020-02-11 10:47:53
 image: 'https://m.media-amazon.com/images/I/31tkkitGnwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HVOIDQK-es Meller - Kubu Glawi Carbon - Gafas de sol para hombre y mujer'
 sku: 'B01HVOIDQK-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-03-28 20:27:03
 image: 'https://m.media-amazon.com/images/I/41oLQzqPgtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCKBQ7L-es Slimerence Guantes médicos desechables de nitrilo sin...'
 sku: 'B07YCKBQ7L-es'
 tags: [ 'guantes', ]

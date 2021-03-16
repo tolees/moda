@@ -5,7 +5,7 @@ date: 2020-10-12 08:08:05
 image: 'https://m.media-amazon.com/images/I/41V+Xg2cwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y3GCLN-es HIKARO Sudadera con Capucha Hombre Rojo Red 52 Talla del...'
 sku: 'B077Y3GCLN-es'
 tags: [ 'sudadera', ]

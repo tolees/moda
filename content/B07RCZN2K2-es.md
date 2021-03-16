@@ -5,7 +5,7 @@ date: 2020-06-26 09:35:12
 image: 'https://m.media-amazon.com/images/I/41kHqmKjVGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCZN2K2-es Under Armour Tech 2.0 Shortsleeve Camiseta Transpirable...'
 sku: 'B07RCZN2K2-es'
 tags: [ 'camiseta', ]

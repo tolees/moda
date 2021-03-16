@@ -5,7 +5,7 @@ date: 2020-05-19 07:34:28
 image: 'https://m.media-amazon.com/images/I/41Fy0BVTZ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNQJVQY-es AURIQUE AZ20SS008 Pantalones Cortos de Gimnasio Negro...'
 sku: 'B07YNQJVQY-es'
 tags: [ 'aurique', ]

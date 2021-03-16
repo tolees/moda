@@ -5,7 +5,7 @@ date: 2020-03-12 20:01:34
 image: 'https://m.media-amazon.com/images/I/31he7z80HSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZLTGZ-es Geox U New Life C Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFZLTGZ-es'
 tags: [ 'geox','zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-02-28 13:04:00
 image: 'https://m.media-amazon.com/images/I/41YLhsKR61L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJFMPL-es Kipling Myrte Bolso con Bandolera para Mujer Azul Navy...'
 sku: 'B07PSJFMPL-es'
 tags: [ 'bolso', ]

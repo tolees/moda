@@ -5,7 +5,7 @@ date: 2020-07-27 18:12:44
 image: 'https://m.media-amazon.com/images/I/41ZPO9CL47L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SWXN8K-es Timberland Malibu Waves Sandalias para Mujer Negro Black...'
 sku: 'B078SWXN8K-es'
 tags: [ 'sandalias','timberland', ]

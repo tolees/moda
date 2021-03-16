@@ -5,7 +5,7 @@ date: 2020-10-10 10:21:46
 image: 'https://m.media-amazon.com/images/I/412BHpcR4bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I46FDGS-es Pepe Jeans Eggo PM500465 Camiseta Blanco White 800 X-Small...'
 sku: 'B00I46FDGS-es'
 tags: [ 'camiseta', ]

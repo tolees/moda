@@ -5,7 +5,7 @@ date: 2020-05-15 15:06:28
 image: 'https://m.media-amazon.com/images/I/51FDqNqGtyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PBZYVR-es Suhctup Funda Compatible con iPhone 7/8 Billetera Carcasa...'
 sku: 'B087PBZYVR-es'
 tags: [ 'billetera', ]

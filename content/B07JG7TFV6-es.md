@@ -5,7 +5,7 @@ date: 2020-05-22 10:51:57
 image: 'https://m.media-amazon.com/images/I/41c4bx2PsTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG7TFV6-es Pepe Jeans Sealey Pm581633 Sudadera Grey Marl 933 Small...'
 sku: 'B07JG7TFV6-es'
 tags: [ 'sudadera', ]

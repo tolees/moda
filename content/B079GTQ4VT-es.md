@@ -5,7 +5,7 @@ date: 2020-02-07 20:37:58
 image: 'https://m.media-amazon.com/images/I/41+WiKyWEwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079GTQ4VT-es NOVECASA Chaleco Suana Mujer Neopreno Sweat Vest para...'
 sku: 'B079GTQ4VT-es'
 tags: [ 'chaleco', ]

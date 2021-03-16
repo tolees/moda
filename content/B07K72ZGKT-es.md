@@ -5,7 +5,7 @@ date: 2020-01-18 20:49:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41prtsJ61sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K72ZGKT-es Levi s 501 Original Fit Jeans Vaqueros Azul Snoot 2744 36W...'
 sku: 'B07K72ZGKT-es'
 tags: [ 'vaqueros', ]

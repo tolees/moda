@@ -5,7 +5,7 @@ date: 2020-02-09 19:09:21
 image: 'https://m.media-amazon.com/images/I/41UPnSmcS1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PML1SFR-es MTNG Picton Bolso Bolera para Mujer Nylon/lis Negro...'
 sku: 'B07PML1SFR-es'
 tags: [ 'bolso', ]

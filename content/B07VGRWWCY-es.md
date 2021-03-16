@@ -5,7 +5,7 @@ date: 2020-09-30 09:28:01
 image: 'https://m.media-amazon.com/images/I/51ScPgtMHFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGRWWCY-es Desigual Back Galaxy Tribeca - Bolso de mano para mujer 15...'
 sku: 'B07VGRWWCY-es'
 tags: [ 'bolso', ]

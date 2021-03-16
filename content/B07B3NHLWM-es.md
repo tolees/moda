@@ -5,7 +5,7 @@ date: 2020-07-14 12:22:01
 image: 'https://m.media-amazon.com/images/I/417br8gh5iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3NHLWM-es Timberland Perkins Row Toddler Sandalias de Punta...'
 sku: 'B07B3NHLWM-es'
 tags: [ 'sandalias','timberland', ]

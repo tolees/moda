@@ -5,7 +5,7 @@ date: 2020-06-23 16:32:12
 image: 'https://m.media-amazon.com/images/I/51sLWxA8TsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QNX8J5-es Levi s 26309 Camisa Para Mujer Multicolor Gallberry Merlot...'
 sku: 'B073QNX8J5-es'
 tags: [ 'camisa', ]

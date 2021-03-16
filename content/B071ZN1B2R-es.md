@@ -5,7 +5,7 @@ date: 2020-06-24 06:18:45
 image: 'https://m.media-amazon.com/images/I/411oh+swBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZN1B2R-es Under Armour 1323415-001 Camiseta Hombre Negro L'
 sku: 'B071ZN1B2R-es'
 tags: [ 'camiseta', ]

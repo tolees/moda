@@ -5,7 +5,7 @@ date: 2020-06-26 00:54:24
 image: 'https://m.media-amazon.com/images/I/31pHTPSjG-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6KPTY9-es Marca Amazon - MERAKI Culottes Mujer Azul Navy 38 Label: S'
 sku: 'B07K6KPTY9-es'
 tags: [ 'meraki', ]

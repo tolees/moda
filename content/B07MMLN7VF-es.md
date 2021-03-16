@@ -5,7 +5,7 @@ date: 2020-01-26 10:43:55
 image: 'https://m.media-amazon.com/images/I/41E+Kb-f24L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLN7VF-es Napapijri Rainforest Pocket Chaqueta Marrón Golden Brown...'
 sku: 'B07MMLN7VF-es'
 tags: [ 'chaqueta', ]

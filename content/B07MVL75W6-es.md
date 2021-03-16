@@ -5,7 +5,7 @@ date: 2020-06-26 14:08:06
 image: 'https://m.media-amazon.com/images/I/41+mHE+rz-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVL75W6-es Marca Amazon - MERAKI Camiseta de Manga Larga Hombre Pack...'
 sku: 'B07MVL75W6-es'
 tags: [ 'camiseta','meraki', ]

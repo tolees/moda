@@ -5,7 +5,7 @@ date: 2020-06-10 10:31:53
 image: 'https://m.media-amazon.com/images/I/41XcHNi6HjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBOITQM-es Tommy Hilfiger 3p Trunk Bóxer Negro Black/Grey...'
 sku: 'B00UBOITQM-es'
 tags: [ 'bóxer', ]

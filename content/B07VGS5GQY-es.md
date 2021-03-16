@@ -5,7 +5,7 @@ date: 2020-05-09 11:41:39
 image: 'https://m.media-amazon.com/images/I/415a-hhIUlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGS5GQY-es Esprit 099EE1G091 Chaqueta Negro Black 001 XS para Mujer'
 sku: 'B07VGS5GQY-es'
 tags: [ 'chaqueta', ]

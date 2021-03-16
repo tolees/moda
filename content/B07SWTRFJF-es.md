@@ -5,7 +5,7 @@ date: 2020-06-27 15:17:48
 image: 'https://m.media-amazon.com/images/I/41HuFU-lMYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWTRFJF-es Geox D Ophira C Zapatillas para Mujer Beige Lt Taupe/Lt...'
 sku: 'B07SWTRFJF-es'
 tags: [ 'geox', ]

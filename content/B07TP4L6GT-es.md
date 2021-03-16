@@ -5,7 +5,7 @@ date: 2020-09-17 10:16:20
 image: 'https://m.media-amazon.com/images/I/41PCWyHWAgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TP4L6GT-es Superdry Field Jacket Chaqueta Verde Utl Olive T8m M para...'
 sku: 'B07TP4L6GT-es'
 tags: [ 'chaqueta', ]

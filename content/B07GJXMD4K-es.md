@@ -5,7 +5,7 @@ date: 2020-06-27 07:25:51
 image: 'https://m.media-amazon.com/images/I/31Wmo77OEyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJXMD4K-es Marca Amazon - MERAKI Paula Paper Bag - Pantalones Mujer...'
 sku: 'B07GJXMD4K-es'
 tags: [ 'meraki', ]

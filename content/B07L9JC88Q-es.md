@@ -5,7 +5,7 @@ date: 2020-10-11 13:31:08
 image: 'https://m.media-amazon.com/images/I/31CBUh+COCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9JC88Q-es Under Armour Graphic Script Logo Fashion SSC Camisa Manga...'
 sku: 'B07L9JC88Q-es'
 tags: [ 'camisa', ]

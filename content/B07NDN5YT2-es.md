@@ -5,7 +5,7 @@ date: 2020-04-01 07:02:03
 image: 'https://m.media-amazon.com/images/I/31P8VGyEMrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDN5YT2-es G-STAR RAW CITI You High Waist Jegging Ankle Vaqueros...'
 sku: 'B07NDN5YT2-es'
 tags: [ 'vaqueros', ]

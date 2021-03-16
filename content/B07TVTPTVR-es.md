@@ -5,7 +5,7 @@ date: 2020-03-03 14:47:44
 image: 'https://m.media-amazon.com/images/I/41LcvPpFg4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTPTVR-es Women s Secret Home Hm Weekend Set Conjuntos de Pijama...'
 sku: 'B07TVTPTVR-es'
 tags: [ 'pijama', ]

@@ -5,7 +5,7 @@ date: 2020-03-14 14:23:38
 image: 'https://m.media-amazon.com/images/I/4156EKOIhWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBGX2D2-es Lee Rider Jacket Chaqueta Vaquera Azul Cerulean EI X-Large...'
 sku: 'B07SBGX2D2-es'
 tags: [ 'chaqueta', ]

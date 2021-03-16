@@ -5,7 +5,7 @@ date: 2020-01-03 17:35:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31i5Kt8fAML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RY8VPM2-es JACK & JONES NOS Jjesoft Sweat Crew Neck Noos Sudadera...'
 sku: 'B07RY8VPM2-es'
 tags: [ 'sudadera', ]

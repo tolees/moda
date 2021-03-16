@@ -5,7 +5,7 @@ date: 2020-06-27 17:32:56
 image: 'https://m.media-amazon.com/images/I/41YPsTSfO0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXKVRPQ-es Buffalo - 1339-14 2.0 - Zapatos para mujer Negro negro 37 EU'
 sku: 'B07MXKVRPQ-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-10-04 18:15:10
 image: 'https://m.media-amazon.com/images/I/31hWOm0Js2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3KKXYV-es Marca Amazon - IRIS & LILLY BELK315M2 Legging para Mujer...'
 sku: 'B07D3KKXYV-es'
 tags: [ '&','iris','lilly', ]

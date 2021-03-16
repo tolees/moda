@@ -5,7 +5,7 @@ date: 2020-10-08 09:46:31
 image: 'https://m.media-amazon.com/images/I/41SIYSbIWZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFDZV19-es Jack & Jones Jorclan Parka Verde Forest Night Forest Night...'
 sku: 'B07VFDZV19-es'
 tags: [ 'parka', ]

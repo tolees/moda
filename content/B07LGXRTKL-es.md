@@ -5,7 +5,7 @@ date: 2020-01-07 10:49:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qz0LWT8JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGXRTKL-es The North Face Ambition P Pantalón Mujer Multicolor...'
 sku: 'B07LGXRTKL-es'
 tags: [ 'pantalón', ]

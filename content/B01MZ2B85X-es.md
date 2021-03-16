@@ -5,7 +5,7 @@ date: 2020-05-22 12:19:36
 image: 'https://m.media-amazon.com/images/I/414XAQKfvGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ2B85X-es find. Vaqueros Rectos para Hombre Azul W31/L32 Talla del...'
 sku: 'B01MZ2B85X-es'
 tags: [ 'vaqueros', ]

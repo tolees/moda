@@ -5,7 +5,7 @@ date: 2020-04-18 13:03:05
 image: 'https://m.media-amazon.com/images/I/615viPa-RRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRJL44J-es Asiv 20 Piezas Ropa y Zapatos para Muñeca Doll - 10 Piezas...'
 sku: 'B01MRJL44J-es'
 tags: [ 'falda','moda','zapatos', ]

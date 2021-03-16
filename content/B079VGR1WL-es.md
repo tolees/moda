@@ -5,7 +5,7 @@ date: 2020-07-01 18:16:28
 image: 'https://m.media-amazon.com/images/I/519urGV3h9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VGR1WL-es Miraculous - Camiseta para niñas Ladybug y Cat Noir - 8-9...'
 sku: 'B079VGR1WL-es'
 tags: [ 'camiseta', ]

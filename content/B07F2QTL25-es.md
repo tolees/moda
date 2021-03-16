@@ -5,7 +5,7 @@ date: 2020-02-14 09:51:18
 image: 'https://m.media-amazon.com/images/I/41xPoc4-lpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2QTL25-es Vans Left Chest Logo tee Camiseta para Hombre Rojo Jazzy-...'
 sku: 'B07F2QTL25-es'
 tags: [ 'camiseta', ]

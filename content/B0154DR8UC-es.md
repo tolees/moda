@@ -5,7 +5,7 @@ date: 2020-01-10 22:14:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ACYN6dbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0154DR8UC-es Hollywood Star Fashion Polo clásico de manga corta Jersey...'
 sku: 'B0154DR8UC-es'
 tags: [ 'jersey', ]

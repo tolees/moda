@@ -5,7 +5,7 @@ date: 2020-04-03 12:03:39
 image: 'https://m.media-amazon.com/images/I/315XrB-gaML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFGJT1M-es Lacoste Ch0763 Camisa Blanc 001 Large Talla del...'
 sku: 'B07JFGJT1M-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-05-30 18:06:03
 image: 'https://m.media-amazon.com/images/I/51Ufy+xYveL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078M7MK2D-es NEEGO Bolsillo Lateral de la Consola con Monedero y...'
 sku: 'B078M7MK2D-es'
 tags: [ 'monedero', ]

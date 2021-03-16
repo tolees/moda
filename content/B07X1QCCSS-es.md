@@ -5,7 +5,7 @@ date: 2020-06-24 07:48:28
 image: 'https://m.media-amazon.com/images/I/41yyK2c-GEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1QCCSS-es Zapatillas de Running Hombre Zapatillas para Hombre...'
 sku: 'B07X1QCCSS-es'
 tags: [ 'zapatos', ]

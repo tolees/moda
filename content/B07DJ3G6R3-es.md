@@ -5,7 +5,7 @@ date: 2020-08-10 02:12:15
 image: 'https://m.media-amazon.com/images/I/41lw4+w+3eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3G6R3-es Geox Snake M L Zapatillas para Hombre Azul Navy C4002 41 EU'
 sku: 'B07DJ3G6R3-es'
 tags: [ 'geox', ]

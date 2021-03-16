@@ -5,7 +5,7 @@ date: 2020-01-12 09:13:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JQV30b0CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QEMRZM4-es Crocs Classic Clog Zuecos Unisex Adulto Azul Pool 40M...'
 sku: 'B00QEMRZM4-es'
 tags: [ 'zuecos', ]

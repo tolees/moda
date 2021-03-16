@@ -5,7 +5,7 @@ date: 2020-05-14 02:44:06
 image: 'https://m.media-amazon.com/images/I/31ZOiUeheML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGJWG2H-es Marca Amazon - IRIS & LILLY Bañador Moldeador Mujer Rojo...'
 sku: 'B07JGJWG2H-es'
 tags: [ '&','iris','lilly', ]

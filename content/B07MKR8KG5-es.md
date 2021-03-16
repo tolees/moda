@@ -5,7 +5,7 @@ date: 2020-01-19 15:20:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31oZwMXOQ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKR8KG5-es Lacoste Ch9861 Camisa Azul Marine/Hemisphere/Blanc 0wf...'
 sku: 'B07MKR8KG5-es'
 tags: [ 'camisa', ]

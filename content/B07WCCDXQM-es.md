@@ -5,7 +5,7 @@ date: 2020-09-13 18:54:41
 image: 'https://m.media-amazon.com/images/I/51xWA0BoVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCCDXQM-es Springfield Especial Frq Telediario-C/17 Camiseta Azul...'
 sku: 'B07WCCDXQM-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-26 01:36:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51uurOo%2Bx6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWZHBZ9-es Axcone Zapatillas Hombres Mujer Deporte Running Zapatos...'
 sku: 'B07TWZHBZ9-es'
 tags: [ 'zapatos', ]

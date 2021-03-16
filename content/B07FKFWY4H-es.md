@@ -5,7 +5,7 @@ date: 2020-03-17 21:24:35
 image: 'https://m.media-amazon.com/images/I/317BDcaHWtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKFWY4H-es Nike Sunray Adjust 5 GS/PS Zapatos de Playa y Piscina para...'
 sku: 'B07FKFWY4H-es'
 tags: [ 'zapatos', ]

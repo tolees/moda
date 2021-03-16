@@ -5,7 +5,7 @@ date: 2020-08-08 14:35:32
 image: 'https://m.media-amazon.com/images/I/419RqUHe7qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K92RH3M-es Crocs Crocband Zuecos con Correa Unisex Adulto Azul Bright...'
 sku: 'B07K92RH3M-es'
 tags: [ 'zuecos', ]

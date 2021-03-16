@@ -5,7 +5,7 @@ date: 2020-06-14 15:30:00
 image: 'https://m.media-amazon.com/images/I/41gJ6RWJfvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJNR7YY-es Clarks Leisa Faye Sandalias Punta Cerrada para Mujer Rojo...'
 sku: 'B07TJNR7YY-es'
 tags: [ 'sandalias', ]

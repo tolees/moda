@@ -5,7 +5,7 @@ date: 2020-03-09 08:42:05
 image: 'https://m.media-amazon.com/images/I/41W46DyfFYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XN5PXD-es Under Armour Rival Fleece Short Pantalón Corto Hombre Gris...'
 sku: 'B077XN5PXD-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-01-03 20:56:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LpHzQbR3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBVV5FF-es Calvin Klein Fixed Triangle-rp Top de Bikini Negro Pvh...'
 sku: 'B07LBVV5FF-es'
 tags: [ 'bikini', ]

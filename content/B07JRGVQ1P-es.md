@@ -5,7 +5,7 @@ date: 2020-01-14 16:31:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Xy%2Bngsb-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JRGVQ1P-es Zapatillas de Seguridad Hombre LM-18 Zapatos de Seguridad...'
 sku: 'B07JRGVQ1P-es'
 tags: [ 'zapatos', ]

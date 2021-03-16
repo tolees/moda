@@ -5,7 +5,7 @@ date: 2020-08-23 11:37:58
 image: 'https://m.media-amazon.com/images/I/41n7obddpwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCFV8CT-es Crocs Classic Glitter Clog Kids Zuecos Unisex Niños Rosa...'
 sku: 'B07SCFV8CT-es'
 tags: [ 'zuecos', ]

@@ -5,7 +5,7 @@ date: 2020-06-27 12:25:46
 image: 'https://m.media-amazon.com/images/I/31V9WgMhVQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYSCTNS-es The Drop Maya Falda con efecto seda para mujer fucsia S'
 sku: 'B07KYSCTNS-es'
 tags: [ 'falda', ]

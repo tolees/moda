@@ -5,7 +5,7 @@ date: 2020-06-24 19:28:14
 image: 'https://m.media-amazon.com/images/I/41Mi1K3zDqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JMFG6O-es Geox J Savage G Zapatillas para Niños Negro Black C9999 26 EU'
 sku: 'B003JMFG6O-es'
 tags: [ 'geox', ]

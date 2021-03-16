@@ -5,7 +5,7 @@ date: 2020-01-05 11:01:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/310DLI9CJOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLQR4Q3-es Lee Scarlett Vaqueros Clean Wheaton In 31W / 29L para Mujer'
 sku: 'B07JLQR4Q3-es'
 tags: [ 'vaqueros', ]

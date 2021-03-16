@@ -5,7 +5,7 @@ date: 2020-01-05 09:37:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KCUK6IWkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FLR2NIE-es hummel HUMMEL SLIMMER STADIL LOW - Zapatos de caña baja de...'
 sku: 'B00FLR2NIE-es'
 tags: [ 'zapatos', ]

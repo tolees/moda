@@ -5,7 +5,7 @@ date: 2020-08-30 19:31:35
 image: 'https://m.media-amazon.com/images/I/31rk+OtzvaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWX72LB-es Pepe Jeans Raury Camiseta Verde Pine Green 672 X-Large...'
 sku: 'B07VWX72LB-es'
 tags: [ 'camiseta', ]

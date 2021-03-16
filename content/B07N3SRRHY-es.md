@@ -5,7 +5,7 @@ date: 2020-03-02 10:33:53
 image: 'https://m.media-amazon.com/images/I/31W8fe7syUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3SRRHY-es Desigual Dress Melissa Vestido Negro Negro 2000 L para Mujer'
 sku: 'B07N3SRRHY-es'
 tags: [ 'vestido', ]

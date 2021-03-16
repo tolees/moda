@@ -5,7 +5,7 @@ date: 2020-05-19 17:32:50
 image: 'https://m.media-amazon.com/images/I/31y1fo2xKbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ3XV9D-es Springfield 2.T. Print Vestido Negro Negro 1 Medium Tamaño...'
 sku: 'B07NJ3XV9D-es'
 tags: [ 'vestido', ]

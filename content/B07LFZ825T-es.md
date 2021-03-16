@@ -5,7 +5,7 @@ date: 2020-02-25 19:04:07
 image: 'https://m.media-amazon.com/images/I/41lg-Rp0YbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ825T-es Geox U ARIAM B Zapatillas para Hombre Marrón Mud C6372 39 EU'
 sku: 'B07LFZ825T-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-10-03 18:53:34
 image: 'https://m.media-amazon.com/images/I/41A0C-9J2iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WJFFFH-es Timberland Union Wharf Lace Oxford Zapatillas Bajas para...'
 sku: 'B074WJFFFH-es'
 tags: [ 'timberland', ]

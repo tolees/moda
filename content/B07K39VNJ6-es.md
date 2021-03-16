@@ -5,7 +5,7 @@ date: 2020-01-08 17:06:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414zeh%2BL7BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K39VNJ6-es BOSS Ivelna vestido Mujer Azul Medium Blue 422 Large'
 sku: 'B07K39VNJ6-es'
 tags: [ 'vestido', ]

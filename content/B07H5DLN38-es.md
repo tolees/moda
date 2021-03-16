@@ -5,7 +5,7 @@ date: 2020-05-17 13:33:22
 image: 'https://m.media-amazon.com/images/I/31KkAy5bvTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5DLN38-es Dannto Zapatos luminosos de 7 colores con luz led para...'
 sku: 'B07H5DLN38-es'
 tags: [ 'zapatos', ]

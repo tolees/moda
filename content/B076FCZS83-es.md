@@ -5,7 +5,7 @@ date: 2020-01-17 18:04:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uGw%2BpjDAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076FCZS83-es RED WAGON Sudadera Print Niñas Morado Lavander Fog 13-3820...'
 sku: 'B076FCZS83-es'
 tags: [ 'sudadera', ]

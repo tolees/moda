@@ -5,7 +5,7 @@ date: 2020-02-23 10:17:53
 image: 'https://m.media-amazon.com/images/I/51umsmQDpLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077G5NWT5-es gracosy Mujer Botas de Nieve Senderismo Zapatos...'
 sku: 'B077G5NWT5-es'
 tags: [ 'zapatos', ]

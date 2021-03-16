@@ -5,7 +5,7 @@ date: 2020-05-29 09:59:01
 image: 'https://m.media-amazon.com/images/I/3112T14JEFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WW1F5Z6-es Uvex Sportstyle 224 Gafas de Deporte Adultos Unisex Grey...'
 sku: 'B07WW1F5Z6-es'
 tags: [ 'gafas', ]

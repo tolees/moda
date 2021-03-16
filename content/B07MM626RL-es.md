@@ -5,7 +5,7 @@ date: 2020-01-08 18:30:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cntzjcgML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM626RL-es Levi s Levis 200sf Sprtswr Logo Color Boxer Brief 2p...'
 sku: 'B07MM626RL-es'
 tags: [ 'boxer', ]

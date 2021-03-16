@@ -5,7 +5,7 @@ date: 2020-02-04 10:49:15
 image: 'https://m.media-amazon.com/images/I/31MMCxGCOKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2JVFF-es Clarks Tunsil Lane Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MQ2JVFF-es'
 tags: [ 'zapatos', ]

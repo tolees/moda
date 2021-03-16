@@ -5,7 +5,7 @@ date: 2020-05-01 13:49:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317QneTnE3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076ZCMR8H-es TRUTH & FABLE 13842 vestido dama de honor mujer Rosa...'
 sku: 'B076ZCMR8H-es'
 tags: [ 'vestido', ]

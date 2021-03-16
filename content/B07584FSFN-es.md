@@ -5,7 +5,7 @@ date: 2020-05-05 18:23:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yR7s10tYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07584FSFN-es find. Vaqueros Skinny con Rotos Hombre Azul Mid Blue Wash...'
 sku: 'B07584FSFN-es'
 tags: [ 'vaqueros', ]

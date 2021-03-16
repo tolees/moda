@@ -5,7 +5,7 @@ date: 2020-08-01 07:54:11
 image: 'https://m.media-amazon.com/images/I/51DfnnHNAfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VSX9SY-es Donpapa Mujer Traje de Baño Tankinis Hálter Falda Push Up...'
 sku: 'B083VSX9SY-es'
 tags: [ 'bikini','falda', ]

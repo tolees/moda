@@ -5,7 +5,7 @@ date: 2020-03-03 09:33:45
 image: 'https://m.media-amazon.com/images/I/41G2isVCDJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNVRYBG-es Vicloon 9Pcs Princesa Vestir Accesorios Regalo Conjunto de...'
 sku: 'B07MNVRYBG-es'
 tags: [ 'collar','guantes', ]

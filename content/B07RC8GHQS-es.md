@@ -5,7 +5,7 @@ date: 2020-03-10 22:27:27
 image: 'https://m.media-amazon.com/images/I/41mzAbR7SWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC8GHQS-es Columbia Timberturner Chaqueta Hombre Blanco...'
 sku: 'B07RC8GHQS-es'
 tags: [ 'chaqueta', ]

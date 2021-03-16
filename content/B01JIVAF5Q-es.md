@@ -5,7 +5,7 @@ date: 2020-04-19 12:38:42
 image: 'https://m.media-amazon.com/images/I/41ckBHdQXOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JIVAF5Q-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Broken Raw...'
 sku: 'B01JIVAF5Q-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 08:52:35
 image: 'https://m.media-amazon.com/images/I/41O1nDEjRKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC8JNBG-es Columbia Lake 22 Chaqueta de plumas con capucha Hombre...'
 sku: 'B07RC8JNBG-es'
 tags: [ 'chaqueta', ]

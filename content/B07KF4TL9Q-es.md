@@ -5,7 +5,7 @@ date: 2020-04-01 06:55:51
 image: 'https://m.media-amazon.com/images/I/41g8k+KB1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4TL9Q-es Levi s 502 Regular Taper Vaqueros Azul Adriatico Adapt...'
 sku: 'B07KF4TL9Q-es'
 tags: [ 'vaqueros', ]

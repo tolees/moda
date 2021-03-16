@@ -5,7 +5,7 @@ date: 2020-08-09 11:33:31
 image: 'https://m.media-amazon.com/images/I/41DTTK0sUML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3B4N7G-es Skechers Status 2.0 Pexton Zapatos de Cordones Derby para...'
 sku: 'B07N3B4N7G-es'
 tags: [ 'zapatos', ]

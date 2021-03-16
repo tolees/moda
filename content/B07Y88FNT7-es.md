@@ -5,7 +5,7 @@ date: 2020-06-25 17:57:27
 image: 'https://m.media-amazon.com/images/I/31rqSFvFUtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y88FNT7-es Marca Amazon - Iris & Lilly Braga Hipster de Microfibra...'
 sku: 'B07Y88FNT7-es'
 tags: [ '&','iris','lilly', ]

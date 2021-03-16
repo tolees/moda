@@ -5,7 +5,7 @@ date: 2020-01-17 07:43:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61KX3ZZwWqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZK1RLS-es Desigual TS_Barrie - Camiseta Niños Azul Navy 5000 6 años...'
 sku: 'B01LZK1RLS-es'
 tags: [ 'camiseta', ]

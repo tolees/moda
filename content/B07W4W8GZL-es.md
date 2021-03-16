@@ -5,7 +5,7 @@ date: 2020-01-09 15:35:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419bijCsYFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4W8GZL-es JACK JONES Jorexplore Parka Jacket STS Hombre Negro Black...'
 sku: 'B07W4W8GZL-es'
 tags: [ 'parka', ]

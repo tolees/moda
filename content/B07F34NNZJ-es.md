@@ -5,7 +5,7 @@ date: 2020-02-20 15:02:54
 image: 'https://m.media-amazon.com/images/I/41Gk-k5DbrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F34NNZJ-es Recién nacido Bebé Pijama de Algodón Mameluco Niños Pelele...'
 sku: 'B07F34NNZJ-es'
 tags: [ 'pelele','pijama', ]

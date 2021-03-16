@@ -5,7 +5,7 @@ date: 2020-06-22 11:10:20
 image: 'https://m.media-amazon.com/images/I/31vwdmOT+FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2DRB3C-es Marca Amazon - AURIQUE Printed - Chaqueta bomber Mujer...'
 sku: 'B07G2DRB3C-es'
 tags: [ 'aurique','chaqueta', ]

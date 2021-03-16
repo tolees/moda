@@ -5,7 +5,7 @@ date: 2020-08-27 18:37:27
 image: 'https://m.media-amazon.com/images/I/31MupRdg0IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVZ278-es PUMA Cozy Flip Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07SBVZ278-es'
 tags: [ 'zapatos', ]

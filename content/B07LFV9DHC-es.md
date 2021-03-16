@@ -5,7 +5,7 @@ date: 2020-10-05 14:58:24
 image: 'https://m.media-amazon.com/images/I/31U25Bnk0rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFV9DHC-es Geox D ANNYTAH Moc A Mocasines para Mujer Negro Black...'
 sku: 'B07LFV9DHC-es'
 tags: [ 'geox', ]

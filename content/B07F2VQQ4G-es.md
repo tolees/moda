@@ -5,7 +5,7 @@ date: 2020-05-17 11:05:32
 image: 'https://m.media-amazon.com/images/I/41gYcjVyyjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2VQQ4G-es Arena The One Gafas de Natación Unisex Adulto Rosa Talla...'
 sku: 'B07F2VQQ4G-es'
 tags: [ 'gafas', ]

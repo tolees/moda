@@ -5,7 +5,7 @@ date: 2020-08-24 09:25:37
 image: 'https://m.media-amazon.com/images/I/41l0HdGS8cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHTVWJM-es Desigual Vest Cuautitlá Vestido Blanco Blanco 1000 4 años...'
 sku: 'B07VHTVWJM-es'
 tags: [ 'vestido', ]

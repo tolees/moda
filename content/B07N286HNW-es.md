@@ -5,7 +5,7 @@ date: 2020-09-10 11:38:38
 image: 'https://m.media-amazon.com/images/I/41u5h07LMuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N286HNW-es KAPORAL OLRIK Camiseta Blanc White M para Hombre'
 sku: 'B07N286HNW-es'
 tags: [ 'camiseta', ]

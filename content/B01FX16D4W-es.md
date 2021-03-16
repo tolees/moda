@@ -5,7 +5,7 @@ date: 2020-03-31 18:37:44
 image: 'https://m.media-amazon.com/images/I/41SPH5BOp+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FX16D4W-es Under Armour Play Up Short 2.0 Pantalón Corto Mujer Negro...'
 sku: 'B01FX16D4W-es'
 tags: [ 'pantalón', ]

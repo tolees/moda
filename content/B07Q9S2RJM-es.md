@@ -5,7 +5,7 @@ date: 2020-06-09 10:27:53
 image: 'https://m.media-amazon.com/images/I/415uv4MOKfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9S2RJM-es Superdry Core Logo Tag tee Camiseta Azul Royal Blue 49g...'
 sku: 'B07Q9S2RJM-es'
 tags: [ 'camiseta', ]

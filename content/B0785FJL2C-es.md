@@ -5,7 +5,7 @@ date: 2020-04-30 10:28:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ogDPpbltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785FJL2C-es Under Armour - Camiseta de Tirantes para Mujer Mujer...'
 sku: 'B0785FJL2C-es'
 tags: [ 'camiseta', ]

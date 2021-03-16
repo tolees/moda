@@ -5,7 +5,7 @@ date: 2020-10-03 17:49:19
 image: 'https://m.media-amazon.com/images/I/410j4BGDSsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BBZ5M9-es find. Botines Chelsea de Ante para Mujer Marrón Congo 36 EU'
 sku: 'B072BBZ5M9-es'
 tags: [ 'botines', ]

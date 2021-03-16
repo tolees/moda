@@ -5,7 +5,7 @@ date: 2020-04-02 16:55:06
 image: 'https://m.media-amazon.com/images/I/516X3RNLuAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074BPSN5K-es Hombre s Zapatillas de Baloncesto Otoño Nuevo Entrenadores...'
 sku: 'B074BPSN5K-es'
 tags: [ 'moda', ]

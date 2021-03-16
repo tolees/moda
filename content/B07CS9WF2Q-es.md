@@ -5,7 +5,7 @@ date: 2020-02-13 09:27:59
 image: 'https://m.media-amazon.com/images/I/41BbVDgzR3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CS9WF2Q-es Pepe Jeans New Brooke Vaqueros Hombre Ajustados Azul Denim...'
 sku: 'B07CS9WF2Q-es'
 tags: [ 'vaqueros', ]

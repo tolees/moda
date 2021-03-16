@@ -5,7 +5,7 @@ date: 2020-01-08 12:49:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31RDLjv-jwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRRBDKY-es DAFENP Zapatillas de Casa Hombre Mujer Invierno Caliente...'
 sku: 'B07HRRBDKY-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-04-20 09:43:19
 image: 'https://m.media-amazon.com/images/I/41xu5IybG3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWQ8ZLJ-es Pepe Jeans Sealey Pm581633 Sudadera Sherwood 664 XX-Large...'
 sku: 'B07JWQ8ZLJ-es'
 tags: [ 'sudadera', ]

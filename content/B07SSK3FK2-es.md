@@ -5,7 +5,7 @@ date: 2020-08-01 22:49:02
 image: 'https://m.media-amazon.com/images/I/311d5pFb8ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSK3FK2-es Geox D Ottaya Sandal B Sandalias de Talón Abierto para...'
 sku: 'B07SSK3FK2-es'
 tags: [ 'geox','sandalias', ]

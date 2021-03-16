@@ -5,7 +5,7 @@ date: 2020-07-02 14:58:33
 image: 'https://m.media-amazon.com/images/I/218ngiObqUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DTV2TMX-es Lacoste Croco Slide 119 3 Cfa Sandalias de Punta...'
 sku: 'B07DTV2TMX-es'
 tags: [ 'sandalias', ]

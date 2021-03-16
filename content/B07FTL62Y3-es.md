@@ -5,7 +5,7 @@ date: 2020-08-22 11:11:22
 image: 'https://m.media-amazon.com/images/I/31XRr5uq0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTL62Y3-es Lee Rider Vaqueros slim Hombre Gris Grey Worn Wf W32/L32'
 sku: 'B07FTL62Y3-es'
 tags: [ 'vaqueros', ]

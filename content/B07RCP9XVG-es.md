@@ -5,7 +5,7 @@ date: 2020-08-14 15:40:53
 image: 'https://m.media-amazon.com/images/I/41VGKuzCKOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCP9XVG-es Columbia Columbia Lodge Chaqueta sudadera Hombre...'
 sku: 'B07RCP9XVG-es'
 tags: [ 'chaqueta','sudadera', ]

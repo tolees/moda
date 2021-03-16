@@ -5,7 +5,7 @@ date: 2020-03-14 10:03:18
 image: 'https://m.media-amazon.com/images/I/51Ly9GpOVBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WV77SV7-es Vinmori Chaleco Térmico Eléctrico Tamaño Lavable Carga USB...'
 sku: 'B07WV77SV7-es'
 tags: [ 'abrigo','chaleco', ]

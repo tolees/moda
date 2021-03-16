@@ -5,7 +5,7 @@ date: 2020-05-28 08:33:01
 image: 'https://m.media-amazon.com/images/I/41V-syfJqcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK53D3H-es Geox J Alben D Zapatillas para Niños Azul Navy/Red C0735...'
 sku: 'B07DK53D3H-es'
 tags: [ 'geox', ]

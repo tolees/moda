@@ -5,7 +5,7 @@ date: 2020-04-14 16:24:43
 image: 'https://m.media-amazon.com/images/I/31SgA78q-rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TQR4CR-es find. Zapatos de Serraje con Cordones Hombre Marrón...'
 sku: 'B077TQR4CR-es'
 tags: [ 'zapatos', ]

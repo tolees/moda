@@ -5,7 +5,7 @@ date: 2020-05-11 18:26:05
 image: 'https://m.media-amazon.com/images/I/41+FTsyP8cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4QZPVH-es Amazon Brand - AURIQUE Leggings deportivos con paneles...'
 sku: 'B07G4QZPVH-es'
 tags: [ 'aurique', ]

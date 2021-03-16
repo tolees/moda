@@ -5,7 +5,7 @@ date: 2020-05-13 07:32:44
 image: 'https://m.media-amazon.com/images/I/41b-tMZsJpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXWQZPQ-es Pepe Jeans Charing Camiseta Verde Pond 774 XX-Large para...'
 sku: 'B07VXWQZPQ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-02 19:20:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4168IE%2Bh67L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VXRVYML-es find. Sudadera de Volantes para Mujer Marfil Ivory 46...'
 sku: 'B06VXRVYML-es'
 tags: [ 'sudadera', ]

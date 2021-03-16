@@ -5,7 +5,7 @@ date: 2020-04-01 06:58:18
 image: 'https://m.media-amazon.com/images/I/31SwDY8VKqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8HHXHP-es Coast Lilli Falda Azul Navy 20 42 ES para Mujer'
 sku: 'B07M8HHXHP-es'
 tags: [ 'falda', ]

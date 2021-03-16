@@ -5,7 +5,7 @@ date: 2020-02-09 18:21:54
 image: 'https://m.media-amazon.com/images/I/41XnFXIoAcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQJMLT-es Pepe Jeans Neana Sudadera Sailor 580 3-4 años Talla del...'
 sku: 'B07MZQJMLT-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-02-02 18:19:17
 image: 'https://m.media-amazon.com/images/I/41se0b0NLWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811JFJCB-es Yigou Chubasquero Poncho de Lluvia Impermeable Poncho con...'
 sku: 'B0811JFJCB-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-17 21:01:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31aiUd7WtfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N43NJ1S-es Tommy Hilfiger Organic Cotton Silk V Neck Sudadera Pine...'
 sku: 'B07N43NJ1S-es'
 tags: [ 'sudadera', ]

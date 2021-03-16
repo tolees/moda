@@ -5,7 +5,7 @@ date: 2020-01-01 16:00:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41siu6sUXVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WEVRFP6-es KRISP Vestido Moda Mujer Fruncido Moca 6487 40 6487-MOC-12'
 sku: 'B00WEVRFP6-es'
 tags: [ 'moda','vestido', ]

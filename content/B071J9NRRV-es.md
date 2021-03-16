@@ -5,7 +5,7 @@ date: 2020-09-22 18:20:04
 image: 'https://m.media-amazon.com/images/I/31N2B6TKFlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071J9NRRV-es Geox J New Fast Boy A Mocasines para Niños Negro Black 27 EU'
 sku: 'B071J9NRRV-es'
 tags: [ 'geox', ]

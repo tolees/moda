@@ -5,7 +5,7 @@ date: 2020-05-28 16:31:18
 image: 'https://m.media-amazon.com/images/I/31MKELQC4yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GCZCZOG-es Redskins Gosseti Zapatos de Cordones Oxford para Hombre...'
 sku: 'B00GCZCZOG-es'
 tags: [ 'zapatos', ]

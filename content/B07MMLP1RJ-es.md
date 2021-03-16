@@ -5,7 +5,7 @@ date: 2020-01-05 07:10:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41k0ZjEtVYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLP1RJ-es Napapijri K Rainforest 1 Chaqueta Rojo High Risk Red RA3 3...'
 sku: 'B07MMLP1RJ-es'
 tags: [ 'chaqueta', ]

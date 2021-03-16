@@ -5,7 +5,7 @@ date: 2020-06-27 10:03:23
 image: 'https://m.media-amazon.com/images/I/41wNd1OoYUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814RXLQL-es Under Armour Men s UA GL Foundation Short Sleeve T-Shirt...'
 sku: 'B0814RXLQL-es'
 tags: [ 'camiseta', ]

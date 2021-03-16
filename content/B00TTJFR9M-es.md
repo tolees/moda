@@ -5,7 +5,7 @@ date: 2020-06-26 03:52:07
 image: 'https://m.media-amazon.com/images/I/317iihs9d1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTJFR9M-es Clarks Tilden Walk Zapatos de Cordones Derby Negro Black...'
 sku: 'B00TTJFR9M-es'
 tags: [ 'zapatos', ]

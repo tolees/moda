@@ -5,7 +5,7 @@ date: 2020-04-13 06:32:06
 image: 'https://m.media-amazon.com/images/I/41jVaOe47PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KPCB3K8-es Timberland Killington Chukka Zapatillas Altas para Hombre...'
 sku: 'B01KPCB3K8-es'
 tags: [ 'timberland', ]

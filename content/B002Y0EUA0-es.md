@@ -5,7 +5,7 @@ date: 2020-09-22 17:37:46
 image: 'https://m.media-amazon.com/images/I/41K7bkSI-JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002Y0EUA0-es Timberland Authentic 6” – Botas para Niños Marrón Brown...'
 sku: 'B002Y0EUA0-es'
 tags: [ 'timberland', ]

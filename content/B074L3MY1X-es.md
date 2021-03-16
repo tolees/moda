@@ -5,7 +5,7 @@ date: 2020-04-17 16:48:24
 image: 'https://m.media-amazon.com/images/I/31NkbS5dJwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074L3MY1X-es SELECTED HOMME Shharo Ss Embroidery Polo Noos Camiseta...'
 sku: 'B074L3MY1X-es'
 tags: [ 'camiseta', ]

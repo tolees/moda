@@ -5,7 +5,7 @@ date: 2020-06-14 10:33:37
 image: 'https://m.media-amazon.com/images/I/31lde1y-mEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL1S42Z-es adidas Essentials Linear Logo tee Camiseta Hombre Azul...'
 sku: 'B07KL1S42Z-es'
 tags: [ 'camiseta', ]

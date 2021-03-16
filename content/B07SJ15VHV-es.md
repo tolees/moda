@@ -5,7 +5,7 @@ date: 2020-09-13 17:57:27
 image: 'https://m.media-amazon.com/images/I/41ZHcXJc-lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ15VHV-es Levi s Delamar L Chanclas para Hombre Negro R Black 159 XL'
 sku: 'B07SJ15VHV-es'
 tags: [ 'chanclas', ]

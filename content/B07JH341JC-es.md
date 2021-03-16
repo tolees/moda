@@ -5,7 +5,7 @@ date: 2020-06-23 19:19:54
 image: 'https://m.media-amazon.com/images/I/4105fjc3RNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH341JC-es Pepe Jeans Agnes Pl504151 Camiseta Chambray 564 X-Small...'
 sku: 'B07JH341JC-es'
 tags: [ 'camiseta', ]

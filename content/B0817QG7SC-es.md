@@ -5,7 +5,7 @@ date: 2020-03-10 18:47:13
 image: 'https://m.media-amazon.com/images/I/41F0e97iWyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817QG7SC-es Ohwhoa Guantes Invierno con Mascara por Hombre y Mujer...'
 sku: 'B0817QG7SC-es'
 tags: [ 'guantes', ]

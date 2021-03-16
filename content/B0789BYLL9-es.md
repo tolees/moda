@@ -5,7 +5,7 @@ date: 2020-09-12 21:56:21
 image: 'https://m.media-amazon.com/images/I/41rUY45QVtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0789BYLL9-es Helly Hansen HH LIFA Merino Crew Camiseta Deportiva Manga...'
 sku: 'B0789BYLL9-es'
 tags: [ 'camiseta', ]

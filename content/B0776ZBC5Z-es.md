@@ -5,7 +5,7 @@ date: 2020-01-06 10:16:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41w-TL1ediL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776ZBC5Z-es Ho soccer 0505576.02 Pantalón Corto sin Acolchado Hombre...'
 sku: 'B0776ZBC5Z-es'
 tags: [ 'pantalón', ]

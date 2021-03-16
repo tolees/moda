@@ -5,7 +5,7 @@ date: 2020-06-11 18:44:33
 image: 'https://m.media-amazon.com/images/I/51Wv-K7nHhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BLBUG9M-es Arena Hydrofit Man Hook Zapatos de Playa y Piscina Hombre...'
 sku: 'B00BLBUG9M-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-05-26 07:14:45
 image: 'https://m.media-amazon.com/images/I/31iraLNRGfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3PMQYT-es Puma Liga Sideline Jh Chaqueta de Entrenamiento con...'
 sku: 'B07B3PMQYT-es'
 tags: [ 'chaqueta', ]

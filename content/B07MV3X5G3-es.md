@@ -5,7 +5,7 @@ date: 2020-01-25 11:43:06
 image: 'https://m.media-amazon.com/images/I/51vbnzvg2tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV3X5G3-es Bolso de Noche Bolso de Hombro Mujer Glitter Diamond Hard...'
 sku: 'B07MV3X5G3-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-07-21 10:37:58
 image: 'https://m.media-amazon.com/images/I/41s3qqANOKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07773RVJG-es Tommy Hilfiger Original Stretch Camisa Azul Black Iris 002...'
 sku: 'B07773RVJG-es'
 tags: [ 'camisa', ]

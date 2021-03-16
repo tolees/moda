@@ -5,7 +5,7 @@ date: 2020-08-13 18:02:18
 image: 'https://m.media-amazon.com/images/I/31A+vuU8FqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNKYZKH-es Kickers Holster Zapatos de Cordones Derby para Mujer Beige...'
 sku: 'B07TNKYZKH-es'
 tags: [ 'zapatos', ]

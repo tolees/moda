@@ -5,7 +5,7 @@ date: 2020-06-27 22:08:43
 image: 'https://m.media-amazon.com/images/I/414cf27Qa4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMCYXGG-es Lee Luke Vaqueros Minimalee Fy 36W / 32L para Hombre'
 sku: 'B07JMCYXGG-es'
 tags: [ 'vaqueros', ]

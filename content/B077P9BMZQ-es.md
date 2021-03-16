@@ -5,7 +5,7 @@ date: 2020-10-05 16:56:29
 image: 'https://m.media-amazon.com/images/I/417XDRwBQYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077P9BMZQ-es adidas Ask SPR LS Camiseta Sin género Negro 2XL'
 sku: 'B077P9BMZQ-es'
 tags: [ 'camiseta', ]

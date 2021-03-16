@@ -5,7 +5,7 @@ date: 2020-07-18 16:41:08
 image: 'https://m.media-amazon.com/images/I/31R4StpChvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKY7MR4-es adidas D2m 3s Pant Pantalón de Deporte Mujer Negro...'
 sku: 'B07KKY7MR4-es'
 tags: [ 'pantalón', ]

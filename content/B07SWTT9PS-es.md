@@ -5,7 +5,7 @@ date: 2020-09-24 01:54:44
 image: 'https://m.media-amazon.com/images/I/41+yB1hepqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWTT9PS-es Geox U EOLO B Zapatillas para Hombre Azul Navy C4002 42 EU'
 sku: 'B07SWTT9PS-es'
 tags: [ 'geox', ]

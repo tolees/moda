@@ -5,7 +5,7 @@ date: 2020-06-09 14:05:32
 image: 'https://m.media-amazon.com/images/I/4130LoQCbdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGD6HKR-es PUMA Cup Casuals tee Camiseta Hombre Gris Asphalt/Whisper...'
 sku: 'B07JGD6HKR-es'
 tags: [ 'camiseta', ]

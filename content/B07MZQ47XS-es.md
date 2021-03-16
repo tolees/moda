@@ -5,7 +5,7 @@ date: 2020-06-28 10:44:37
 image: 'https://m.media-amazon.com/images/I/41zzunddmZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ47XS-es Pepe Jeans Cash Vaqueros Straight Azul Medium Used Denim...'
 sku: 'B07MZQ47XS-es'
 tags: [ 'vaqueros', ]

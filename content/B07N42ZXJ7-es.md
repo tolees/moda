@@ -5,7 +5,7 @@ date: 2020-01-31 09:59:14
 image: 'https://m.media-amazon.com/images/I/41fQmEnbpjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N42ZXJ7-es Desigual Blouse LUMBE Blusa Negro Negro 2000 XL para Mujer'
 sku: 'B07N42ZXJ7-es'
 tags: [ 'blusa', ]

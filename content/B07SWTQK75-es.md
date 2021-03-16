@@ -5,7 +5,7 @@ date: 2020-07-19 21:26:17
 image: 'https://m.media-amazon.com/images/I/411JB26YdUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWTQK75-es Geox D Nebula B Zapatillas sin Cordones para Mujer Gris Lt...'
 sku: 'B07SWTQK75-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-06-01 14:45:31
 image: 'https://m.media-amazon.com/images/I/31zOaokygqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDCJM36-es Tommy Hilfiger Tommy Logo Long Sleeve tee Camiseta Deporte...'
 sku: 'B07RDCJM36-es'
 tags: [ 'camiseta', ]

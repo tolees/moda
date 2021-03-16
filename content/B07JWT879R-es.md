@@ -5,7 +5,7 @@ date: 2020-07-29 11:48:15
 image: 'https://m.media-amazon.com/images/I/41Y0r0lwknL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWT879R-es Bolso Bandolera Harry Potter'
 sku: 'B07JWT879R-es'
 tags: [ 'bolso', ]

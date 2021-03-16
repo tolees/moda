@@ -5,7 +5,7 @@ date: 2020-03-29 12:06:11
 image: 'https://m.media-amazon.com/images/I/41jCMOacO9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGSNBN1-es Pepe Jeans Kai Pm402100 Chaqueta Dandelion 054 Medium para...'
 sku: 'B07JGSNBN1-es'
 tags: [ 'chaqueta', ]

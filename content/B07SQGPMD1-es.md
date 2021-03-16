@@ -5,7 +5,7 @@ date: 2020-07-31 20:40:00
 image: 'https://m.media-amazon.com/images/I/41-ruurYoUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGPMD1-es Geox U Snake.2 A Zapatillas para Hombre Naranja Dk...'
 sku: 'B07SQGPMD1-es'
 tags: [ 'geox', ]

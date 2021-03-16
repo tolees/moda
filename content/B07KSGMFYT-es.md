@@ -5,7 +5,7 @@ date: 2020-04-19 04:15:00
 image: 'https://m.media-amazon.com/images/I/31CJLYt5nrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSGMFYT-es Columbia Peak to Point Pantalón de Senderismo Poliéster...'
 sku: 'B07KSGMFYT-es'
 tags: [ 'pantalón', ]

@@ -5,7 +5,7 @@ date: 2020-05-06 11:04:33
 image: 'https://m.media-amazon.com/images/I/41w9OfmkJFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RBTBJF-es ELEEMEE Mujer Moda Tacón Alto Verano Zapatos Tacón Pequeno...'
 sku: 'B087RBTBJF-es'
 tags: [ 'moda','sandalias','zapatos', ]

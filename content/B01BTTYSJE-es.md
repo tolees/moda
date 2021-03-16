@@ -5,7 +5,7 @@ date: 2020-05-27 13:32:34
 image: 'https://m.media-amazon.com/images/I/41HgM3jD18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BTTYSJE-es Piquadro Bolso Escolares Azul Azul - CA3347P15/BLU3'
 sku: 'B01BTTYSJE-es'
 tags: [ 'bolso', ]

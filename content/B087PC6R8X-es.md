@@ -5,7 +5,7 @@ date: 2020-05-18 15:02:35
 image: 'https://m.media-amazon.com/images/I/51Fz05HX+SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PC6R8X-es Suhctup Funda Compatible con Samsung Galaxy J7 Pro...'
 sku: 'B087PC6R8X-es'
 tags: [ 'billetera', ]

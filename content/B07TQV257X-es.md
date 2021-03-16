@@ -5,7 +5,7 @@ date: 2020-07-23 09:15:29
 image: 'https://m.media-amazon.com/images/I/41oGTWTMQVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQV257X-es Superdry OL Low Roller tee Camiseta Azul Rich Navy Adq XS...'
 sku: 'B07TQV257X-es'
 tags: [ 'camiseta', ]

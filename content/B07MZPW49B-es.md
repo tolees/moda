@@ -5,7 +5,7 @@ date: 2020-03-17 21:26:21
 image: 'https://m.media-amazon.com/images/I/41TsobpK5UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPW49B-es Pepe Jeans Kurt Camiseta Brass 891 Medium para Hombre'
 sku: 'B07MZPW49B-es'
 tags: [ 'camiseta', ]

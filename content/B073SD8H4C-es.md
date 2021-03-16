@@ -5,7 +5,7 @@ date: 2020-01-16 15:04:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XlC9QZ-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073SD8H4C-es find. Camiseta para Hombre Rosa Deauvile Mauve 002 Large'
 sku: 'B073SD8H4C-es'
 tags: [ 'camiseta', ]

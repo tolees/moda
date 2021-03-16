@@ -5,7 +5,7 @@ date: 2020-09-18 04:19:09
 image: 'https://m.media-amazon.com/images/I/416XqniqpTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9LF7SL-es Levi s 501 Crop Vaqueros Boyfriend Gris Dancing In The...'
 sku: 'B07D9LF7SL-es'
 tags: [ 'vaqueros', ]

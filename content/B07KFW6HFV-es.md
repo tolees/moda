@@ -5,7 +5,7 @@ date: 2020-01-15 20:03:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZVWpC0rEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFW6HFV-es Helly Hansen W Daybreaker Chaqueta Mujer Navy S'
 sku: 'B07KFW6HFV-es'
 tags: [ 'chaqueta', ]

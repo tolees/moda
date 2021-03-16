@@ -5,7 +5,7 @@ date: 2020-08-17 17:15:29
 image: 'https://m.media-amazon.com/images/I/51P0Rg7tDpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085GBX19X-es CAVEEN Organizador de Sofá - 2 Piezas Organizador de...'
 sku: 'B085GBX19X-es'
 tags: [ 'gafas', ]

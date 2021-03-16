@@ -5,7 +5,7 @@ date: 2020-03-28 09:24:04
 image: 'https://m.media-amazon.com/images/I/51fMeUvfuCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWSMMB7-es Zapatos de Seguridad Hombres LM-313 Zapatillas de Trabajo...'
 sku: 'B07DWSMMB7-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-04-19 14:08:23
 image: 'https://m.media-amazon.com/images/I/41-Mpdb8hsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ2VKGB-es Springfield 2.T.Ciudades Lentejuelas Camiseta Azul Azul 17...'
 sku: 'B07NJ2VKGB-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-01 16:07:31
 image: 'https://m.media-amazon.com/images/I/31Jon4SR2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HMRRBFK-es The North Face S/S Easy H Camiseta de Manga Corta Hombre...'
 sku: 'B01HMRRBFK-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-04-11 14:53:02
 image: 'https://m.media-amazon.com/images/I/41zmLQ39g1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N39ZLFG-es Desigual Coat AGGU Abrigo Negro Negro 2000 42 Talla del...'
 sku: 'B07N39ZLFG-es'
 tags: [ 'abrigo', ]

@@ -5,7 +5,7 @@ date: 2020-04-01 19:50:00
 image: 'https://m.media-amazon.com/images/I/41Qq9We39dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2BXRMH-es Wrangler LS 1pkt Shirt Camisa Azul Cobalt Blue B09 Medium...'
 sku: 'B07R2BXRMH-es'
 tags: [ 'camisa', ]

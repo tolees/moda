@@ -5,7 +5,7 @@ date: 2020-10-11 08:50:52
 image: 'https://m.media-amazon.com/images/I/31AvTpbkXmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PS6BLXP-es CARE OF by PUMA Sudadera de manga larga con cuello redondo...'
 sku: 'B07PS6BLXP-es'
 tags: [ 'sudadera', ]

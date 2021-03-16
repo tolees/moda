@@ -5,7 +5,7 @@ date: 2020-06-28 19:11:20
 image: 'https://m.media-amazon.com/images/I/313VsAa2qqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WRWW385-es Meller - Nyasa Glawi Rose - Gafas de sol para hombre y mujer'
 sku: 'B06WRWW385-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-06-20 17:01:39
 image: 'https://m.media-amazon.com/images/I/31zjWr4BC6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DRN55T-es Agoky Bolero de Boda Fiesta para Niña Abrigo Satinado...'
 sku: 'B081DRN55T-es'
 tags: [ 'abrigo','chaqueta','vestido', ]

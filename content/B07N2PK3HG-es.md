@@ -5,7 +5,7 @@ date: 2020-01-19 12:17:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DJ6wfJImL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2PK3HG-es Realista Reborn Bebe Muchacha Vinilo Vestido de Tutú Rosa...'
 sku: 'B07N2PK3HG-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-03-05 12:21:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415gr9UrmUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMCYQBY-es Lee Emblem T Camiseta Amarillo Yellow Sign Ln X-Small para...'
 sku: 'B07JMCYQBY-es'
 tags: [ 'camiseta', ]

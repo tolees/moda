@@ -5,7 +5,7 @@ date: 2020-03-21 06:37:01
 image: 'https://m.media-amazon.com/images/I/41Ok6i057WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JDTF5P2-es Lacoste Sh6382 Sudadera Azul Marine 166 XX-Large Talla del...'
 sku: 'B07JDTF5P2-es'
 tags: [ 'sudadera', ]

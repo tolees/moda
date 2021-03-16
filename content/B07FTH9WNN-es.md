@@ -5,7 +5,7 @@ date: 2020-02-19 17:02:53
 image: 'https://m.media-amazon.com/images/I/3169lorE19L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTH9WNN-es Lee Scarlett Jeans Vaqueros Skinny Azul Flight Wj 30W /...'
 sku: 'B07FTH9WNN-es'
 tags: [ 'vaqueros', ]

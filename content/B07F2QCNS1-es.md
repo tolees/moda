@@ -5,7 +5,7 @@ date: 2020-05-29 04:07:03
 image: 'https://m.media-amazon.com/images/I/41aLBljl25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2QCNS1-es Helly Hansen HH Logo Crew Sudadera Deportiva Mujer Grey...'
 sku: 'B07F2QCNS1-es'
 tags: [ 'sudadera', ]

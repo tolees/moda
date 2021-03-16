@@ -5,7 +5,7 @@ date: 2020-06-24 07:46:38
 image: 'https://m.media-amazon.com/images/I/415iPRqsrKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD8Z39G-es Zapatos de Hombres Zapatillas de Deportivos Running para...'
 sku: 'B07XD8Z39G-es'
 tags: [ 'zapatos', ]

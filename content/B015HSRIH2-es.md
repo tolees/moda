@@ -5,7 +5,7 @@ date: 2020-04-12 19:22:59
 image: 'https://m.media-amazon.com/images/I/41nzyf6ERjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015HSRIH2-es ESPRIT 2tone Strk Blz - Chaqueta de traje Hombre Dark Grey 50'
 sku: 'B015HSRIH2-es'
 tags: [ 'chaqueta', ]

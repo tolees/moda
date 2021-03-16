@@ -5,7 +5,7 @@ date: 2020-05-06 19:39:03
 image: 'https://m.media-amazon.com/images/I/318LXz8w-YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THZFMCF-es Ermenegildo Zegna Sonnenbrille EZ0028-FN Gafas de sol...'
 sku: 'B07THZFMCF-es'
 tags: [ 'gafas', ]

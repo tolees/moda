@@ -5,7 +5,7 @@ date: 2020-07-07 03:36:22
 image: 'https://m.media-amazon.com/images/I/41vz5eZ3bAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7ZCMMN-es Jack & Jones Jcofranklin Sweat Hood Sudadera con Capucha...'
 sku: 'B07W7ZCMMN-es'
 tags: [ 'sudadera', ]

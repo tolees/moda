@@ -5,7 +5,7 @@ date: 2020-05-18 11:05:57
 image: 'https://m.media-amazon.com/images/I/41i5clH+2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GDV2B2-es Amazon Essentials 6-Pack Crewneck Undershirts Camisa Negro...'
 sku: 'B071GDV2B2-es'
 tags: [ 'camisa', ]

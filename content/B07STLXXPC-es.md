@@ -5,7 +5,7 @@ date: 2020-09-12 13:32:24
 image: 'https://m.media-amazon.com/images/I/315AaHNTOoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLXXPC-es Geox D ANNYTAH C Bailarinas para Mujer Azul Blue C4000 36...'
 sku: 'B07STLXXPC-es'
 tags: [ 'geox', ]

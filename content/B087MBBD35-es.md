@@ -5,7 +5,7 @@ date: 2020-07-11 08:32:03
 image: 'https://m.media-amazon.com/images/I/41YiiQoFlAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087MBBD35-es Ucayali Zapatos de Seguridad Hombre Trabajo Verano...'
 sku: 'B087MBBD35-es'
 tags: [ 'zapatos', ]

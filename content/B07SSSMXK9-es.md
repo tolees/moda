@@ -5,7 +5,7 @@ date: 2020-01-10 09:24:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T8F8MsOBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSSMXK9-es JACK & JONES PREMIUM Jprblackpool Shirt L/s Au19 STS...'
 sku: 'B07SSSMXK9-es'
 tags: [ 'camisa', ]

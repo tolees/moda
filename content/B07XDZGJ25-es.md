@@ -5,7 +5,7 @@ date: 2020-09-16 21:17:01
 image: 'https://m.media-amazon.com/images/I/41BLBdlRFCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDZGJ25-es PUMA Amplified Crew TR Sudadera Hombre Medium Gray Heather L'
 sku: 'B07XDZGJ25-es'
 tags: [ 'sudadera', ]

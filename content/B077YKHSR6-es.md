@@ -5,7 +5,7 @@ date: 2020-01-16 10:29:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ixpY9bwAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YKHSR6-es Puma 516397 04 Chaleco Mujer Blanco M'
 sku: 'B077YKHSR6-es'
 tags: [ 'chaleco', ]

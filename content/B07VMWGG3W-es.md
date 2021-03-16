@@ -5,7 +5,7 @@ date: 2020-08-16 08:12:40
 image: 'https://m.media-amazon.com/images/I/41ht1eKZvOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMWGG3W-es Tommy Hilfiger TH Essential Shirt LS W2 Camisa Azul Yd Web...'
 sku: 'B07VMWGG3W-es'
 tags: [ 'camisa', ]

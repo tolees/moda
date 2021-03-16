@@ -5,7 +5,7 @@ date: 2020-04-02 09:45:46
 image: 'https://m.media-amazon.com/images/I/41HBMGi3auL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHNKHY3-es Wantdo Chaqueta Corta de Cuero de Imitación para Mujer...'
 sku: 'B07RHNKHY3-es'
 tags: [ 'chaqueta', ]

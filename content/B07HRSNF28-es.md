@@ -5,7 +5,7 @@ date: 2020-04-12 09:18:35
 image: 'https://m.media-amazon.com/images/I/31J278mIxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRSNF28-es HAWKERS · COLLINS · Gold · Green Bottle · Gafas de sol...'
 sku: 'B07HRSNF28-es'
 tags: [ 'gafas', ]

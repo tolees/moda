@@ -5,7 +5,7 @@ date: 2020-09-05 14:57:11
 image: 'https://m.media-amazon.com/images/I/41OLly4-sVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081VVD5D2-es Vans Mochila diseño de vestido de esquí Azul a cuadros'
 sku: 'B081VVD5D2-es'
 tags: [ 'vestido', ]

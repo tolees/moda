@@ -5,7 +5,7 @@ date: 2020-02-10 10:06:44
 image: 'https://m.media-amazon.com/images/I/416ckbbXpxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1BX6MS-es Lee Essential Logo SWS Sudadera Gris Grey Mele MP XXX-...'
 sku: 'B07N1BX6MS-es'
 tags: [ 'sudadera', ]

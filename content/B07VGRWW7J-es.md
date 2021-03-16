@@ -5,7 +5,7 @@ date: 2020-09-30 10:01:51
 image: 'https://m.media-amazon.com/images/I/31+mMQHbcNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGRWW7J-es Desigual Mone Rhapsody Zip Around - Monedero para Mujer 2...'
 sku: 'B07VGRWW7J-es'
 tags: [ 'monedero', ]

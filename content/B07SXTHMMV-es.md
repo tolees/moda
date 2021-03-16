@@ -5,7 +5,7 @@ date: 2020-08-25 07:22:49
 image: 'https://m.media-amazon.com/images/I/41CzsF2ZLuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXTHMMV-es Geox D Borealis A Sandalia con Pulsera para Mujer Negro...'
 sku: 'B07SXTHMMV-es'
 tags: [ 'geox', ]

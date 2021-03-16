@@ -5,7 +5,7 @@ date: 2020-05-24 17:10:17
 image: 'https://m.media-amazon.com/images/I/31KtOBYsnuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWKMVD3-es QUEEN ROSE Almohada de Embarazo con Funda de Jersey...'
 sku: 'B07TWKMVD3-es'
 tags: [ 'jersey', ]

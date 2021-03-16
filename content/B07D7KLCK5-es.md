@@ -5,7 +5,7 @@ date: 2020-09-08 00:30:28
 image: 'https://m.media-amazon.com/images/I/51r4aiNwBWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7KLCK5-es Hierro sobre papel de transferencia para tela oscura Magic...'
 sku: 'B07D7KLCK5-es'
 tags: [ 'camiseta', ]

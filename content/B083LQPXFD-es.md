@@ -5,7 +5,7 @@ date: 2020-05-28 13:03:38
 image: 'https://m.media-amazon.com/images/I/51yaj2MJnTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LQPXFD-es MoneRffi Hombres Zapatillas de Deporte Malla Ultra Ligero...'
 sku: 'B083LQPXFD-es'
 tags: [ 'zapatos', ]

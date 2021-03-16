@@ -5,7 +5,7 @@ date: 2020-01-15 10:13:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414GJ3ZGzAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NWGHF6-es Brax Style.Clarissa Camiseta de Manga Larga para Mujer...'
 sku: 'B077NWGHF6-es'
 tags: [ 'camiseta', ]

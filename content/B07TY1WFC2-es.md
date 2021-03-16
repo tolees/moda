@@ -5,7 +5,7 @@ date: 2020-06-20 11:08:21
 image: 'https://m.media-amazon.com/images/I/41V7MKhB8PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY1WFC2-es Lee Button Down Camisa Azul Blueprint LGH X-Large para Hombre'
 sku: 'B07TY1WFC2-es'
 tags: [ 'camisa', ]

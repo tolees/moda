@@ -5,7 +5,7 @@ date: 2020-01-16 10:47:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PkF1oY82L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXZZS82-es Pierre Cardin Antibes Raw Denim Vaqueros Slim Blau Blau 53...'
 sku: 'B07NXZZS82-es'
 tags: [ 'vaqueros', ]

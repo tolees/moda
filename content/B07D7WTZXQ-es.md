@@ -5,7 +5,7 @@ date: 2020-01-24 07:35:54
 image: 'https://m.media-amazon.com/images/I/51DUdvDLHVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7WTZXQ-es Charles Wilson Camisa Original Manga Larga Cuadros para...'
 sku: 'B07D7WTZXQ-es'
 tags: [ 'camisa', ]

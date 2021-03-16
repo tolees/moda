@@ -5,7 +5,7 @@ date: 2020-02-17 19:18:00
 image: 'https://m.media-amazon.com/images/I/418++vSZXxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M95G1LL-es Lee Scarlett High Vaqueros Gris Dark Grey Ovid Dw 25W/31L...'
 sku: 'B07M95G1LL-es'
 tags: [ 'vaqueros', ]

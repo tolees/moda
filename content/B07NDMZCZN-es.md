@@ -5,7 +5,7 @@ date: 2020-03-03 17:40:30
 image: 'https://m.media-amazon.com/images/I/41rYxZ+0gnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMZCZN-es G-STAR RAW Vehem Pocket Round Neck Camiseta Verde Sage 724...'
 sku: 'B07NDMZCZN-es'
 tags: [ 'camiseta', ]

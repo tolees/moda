@@ -5,7 +5,7 @@ date: 2020-07-30 09:01:59
 image: 'https://m.media-amazon.com/images/I/315PoBT0-IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBB7ZPP-es Crocs Baya Zuecos Unisex Adulto Verde Grass Green 3e8...'
 sku: 'B07SBB7ZPP-es'
 tags: [ 'zuecos', ]

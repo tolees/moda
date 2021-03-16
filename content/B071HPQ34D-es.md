@@ -5,7 +5,7 @@ date: 2020-06-23 23:08:41
 image: 'https://m.media-amazon.com/images/I/41FKJGbUfJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HPQ34D-es Under Armour Pantalón Corto 1309618-001 M Negro'
 sku: 'B071HPQ34D-es'
 tags: [ 'pantalón', ]

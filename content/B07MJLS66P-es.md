@@ -5,7 +5,7 @@ date: 2020-02-01 20:41:59
 image: 'https://m.media-amazon.com/images/I/412a6rTqH2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJLS66P-es Levi s Levis Optical Illusion Boxer Brief 2p Multicolor...'
 sku: 'B07MJLS66P-es'
 tags: [ 'boxer', ]

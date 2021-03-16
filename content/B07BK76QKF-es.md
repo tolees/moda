@@ -5,7 +5,7 @@ date: 2020-08-27 18:32:51
 image: 'https://m.media-amazon.com/images/I/41+6bIAkGbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BK76QKF-es Panama Jack Sanders Basics Sandalias con Punta Abierta...'
 sku: 'B07BK76QKF-es'
 tags: [ 'sandalias', ]

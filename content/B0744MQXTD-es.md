@@ -5,7 +5,7 @@ date: 2020-01-17 11:08:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GwFkjP0ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0744MQXTD-es Capitán Denim Denver Vaqueros Skinny Azul Mid Blue WNA/L30...'
 sku: 'B0744MQXTD-es'
 tags: [ 'vaqueros', ]

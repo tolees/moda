@@ -5,7 +5,7 @@ date: 2020-03-16 16:02:57
 image: 'https://m.media-amazon.com/images/I/41SW0t5IYtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQSZ9G-es Pepe Jeans Jaiden Camisa Grey Marl 933 X-Large para Hombre'
 sku: 'B07MZQSZ9G-es'
 tags: [ 'camisa', ]

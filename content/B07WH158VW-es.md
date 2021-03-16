@@ -5,7 +5,7 @@ date: 2020-01-27 18:52:32
 image: 'https://m.media-amazon.com/images/I/41lPD+VPgzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WH158VW-es Mishansha Mujer Botas de Nieve Mujer Botines Zapatos...'
 sku: 'B07WH158VW-es'
 tags: [ 'botines','zapatos', ]

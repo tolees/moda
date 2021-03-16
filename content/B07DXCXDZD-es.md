@@ -5,7 +5,7 @@ date: 2020-03-17 08:44:17
 image: 'https://m.media-amazon.com/images/I/41M9AlxY1UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DXCXDZD-es Tommy Hilfiger Boys Basic Vn Knit S/s Camiseta Azul Sky...'
 sku: 'B07DXCXDZD-es'
 tags: [ 'camiseta', ]

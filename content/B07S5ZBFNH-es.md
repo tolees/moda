@@ -5,7 +5,7 @@ date: 2020-01-17 12:36:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BQfpg6psL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5ZBFNH-es adidas Must Haves Badge of Sports Hoodie Sudadera Hombre...'
 sku: 'B07S5ZBFNH-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-10-12 08:07:49
 image: 'https://m.media-amazon.com/images/I/41WWejzzm2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QQDC1V-es Marca Amazon - find. Jersey de Punto con Textura para...'
 sku: 'B073QQDC1V-es'
 tags: [ '-','find.','jersey', ]

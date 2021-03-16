@@ -5,7 +5,7 @@ date: 2020-01-06 13:12:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41d9X-4TGeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MS8QW2-es find. 17 03 LLF 04 vestido fiesta mujer Rojo Rot 40 Talla...'
 sku: 'B072MS8QW2-es'
 tags: [ 'vestido', ]

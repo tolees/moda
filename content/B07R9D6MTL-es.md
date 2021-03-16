@@ -5,7 +5,7 @@ date: 2020-03-11 00:08:41
 image: 'https://m.media-amazon.com/images/I/41OjyCAOTnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9D6MTL-es Helly Hansen Majestic Warm Aislado Chaqueta de Esquí Mujer...'
 sku: 'B07R9D6MTL-es'
 tags: [ 'chaqueta', ]

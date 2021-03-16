@@ -5,7 +5,7 @@ date: 2020-10-08 21:34:15
 image: 'https://m.media-amazon.com/images/I/31zaOYizrjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRKB11H-es Geox D SUZZIE D Zapatillas sin Cordones para Mujer Blanco...'
 sku: 'B07SRKB11H-es'
 tags: [ 'geox', ]

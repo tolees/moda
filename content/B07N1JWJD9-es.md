@@ -5,7 +5,7 @@ date: 2020-10-10 19:22:00
 image: 'https://m.media-amazon.com/images/I/31lo2utNQFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JWJD9-es Clarks Un Venturehi Botines para Mujer Negro Black Combi...'
 sku: 'B07N1JWJD9-es'
 tags: [ 'botines', ]

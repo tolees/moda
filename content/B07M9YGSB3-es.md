@@ -5,7 +5,7 @@ date: 2020-01-12 11:38:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vi7hwMlvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9YGSB3-es Lacoste Sport Sh7613 Sudadera Verde Brome Chiné 5at Small...'
 sku: 'B07M9YGSB3-es'
 tags: [ 'sudadera', ]

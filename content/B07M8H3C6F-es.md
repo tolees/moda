@@ -5,7 +5,7 @@ date: 2020-09-15 12:26:26
 image: 'https://m.media-amazon.com/images/I/31cJlqPeRYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8H3C6F-es The North Face tee Camiseta de Manga raglán Simple Dome...'
 sku: 'B07M8H3C6F-es'
 tags: [ 'camiseta', ]

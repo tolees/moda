@@ -5,7 +5,7 @@ date: 2020-09-26 17:12:24
 image: 'https://m.media-amazon.com/images/I/31tsMNIGr+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PFKKCR-es PUMA ESS Logo tee Camiseta Mujer Glowing Pink M'
 sku: 'B086PFKKCR-es'
 tags: [ 'camiseta', ]

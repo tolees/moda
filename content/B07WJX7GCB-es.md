@@ -5,7 +5,7 @@ date: 2020-06-23 18:04:02
 image: 'https://m.media-amazon.com/images/I/31K6MBj9oCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJX7GCB-es FIND Block Heel Slingback Zapatos de Talón Abierto Verde...'
 sku: 'B07WJX7GCB-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 07:46:05
 image: 'https://m.media-amazon.com/images/I/31Vx4NHGqpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4JJ7TF-es Timberland Wild Dunes Synthetic Thong Chanclas de Dedo...'
 sku: 'B07B4JJ7TF-es'
 tags: [ 'chanclas','timberland', ]

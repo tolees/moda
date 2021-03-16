@@ -5,7 +5,7 @@ date: 2020-07-28 02:04:02
 image: 'https://m.media-amazon.com/images/I/31JG32JJ4iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002Q5NC8Y-es Ray-Ban Clubmaster RB3016 W0365 - Gafas de sol para hombre...'
 sku: 'B002Q5NC8Y-es'
 tags: [ 'gafas', ]

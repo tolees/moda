@@ -5,7 +5,7 @@ date: 2020-02-21 16:38:03
 image: 'https://m.media-amazon.com/images/I/31uIkYURkFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4P2BTB-es Art 1521 Grass Black/Mainz Zapatos de Cordones para Hombre...'
 sku: 'B07P4P2BTB-es'
 tags: [ 'zapatos', ]

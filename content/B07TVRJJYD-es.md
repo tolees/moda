@@ -5,7 +5,7 @@ date: 2020-03-03 12:43:59
 image: 'https://m.media-amazon.com/images/I/51RZIRy-H0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVRJJYD-es Camisetas de Baloncesto para niño y niña Stephen Curry #30...'
 sku: 'B07TVRJJYD-es'
 tags: [ 'camiseta','chaleco', ]

@@ -5,7 +5,7 @@ date: 2020-08-25 22:24:31
 image: 'https://m.media-amazon.com/images/I/41rW8h0ZfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRW7N8M-es DYKHMILY Zapatillas de Seguridad Hombre Ligeras Comodo...'
 sku: 'B08CRW7N8M-es'
 tags: [ 'zapatos', ]

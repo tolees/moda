@@ -5,7 +5,7 @@ date: 2020-01-15 11:15:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DfFocMUnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZTZ4KM-es Zapatos de Seguridad Hombres LM-121 Zapatillas de Trabajo...'
 sku: 'B07QZTZ4KM-es'
 tags: [ 'zapatos', ]

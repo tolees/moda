@@ -5,7 +5,7 @@ date: 2020-03-03 06:48:03
 image: 'https://m.media-amazon.com/images/I/41Nfb03tErL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY3RQ7F-es Superdry Padded Elite Jacket Chaqueta Azul Nautical Navy...'
 sku: 'B07NY3RQ7F-es'
 tags: [ 'chaqueta', ]

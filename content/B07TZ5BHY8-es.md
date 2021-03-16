@@ -5,7 +5,7 @@ date: 2020-03-05 14:24:12
 image: 'https://m.media-amazon.com/images/I/31QpEaERnFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ5BHY8-es Women s Secret Cozy Animals Ca Llama PJ Conjuntos de...'
 sku: 'B07TZ5BHY8-es'
 tags: [ 'pijama', ]

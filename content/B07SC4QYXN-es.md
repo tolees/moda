@@ -5,7 +5,7 @@ date: 2020-06-10 22:57:08
 image: 'https://m.media-amazon.com/images/I/41TrJ61xWoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC4QYXN-es Helly Hansen Crew Insulator Chaqueta Hombre Grey Fog M'
 sku: 'B07SC4QYXN-es'
 tags: [ 'chaqueta', ]

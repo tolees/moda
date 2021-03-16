@@ -5,7 +5,7 @@ date: 2020-07-01 16:27:41
 image: 'https://m.media-amazon.com/images/I/31b0s7rfKdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DTNT60Y-es Jimmy Choo Brillengestelle Jc180 Monturas de gafas Blanco...'
 sku: 'B01DTNT60Y-es'
 tags: [ 'gafas', ]

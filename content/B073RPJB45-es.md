@@ -5,7 +5,7 @@ date: 2020-06-12 13:11:56
 image: 'https://m.media-amazon.com/images/I/3113gcwE+ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RPJB45-es Helly Hansen HH Tech 1/2 Zip Camiseta de Manga Larga con...'
 sku: 'B073RPJB45-es'
 tags: [ 'camiseta', ]

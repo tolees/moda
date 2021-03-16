@@ -5,7 +5,7 @@ date: 2020-08-16 14:01:59
 image: 'https://m.media-amazon.com/images/I/51Gcfwa6wcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DSFDHD-es Joymoze Moderna Mochila de Ocio para Niñas Mochila Escolar...'
 sku: 'B074DSFDHD-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-01-26 15:26:05
 image: 'https://m.media-amazon.com/images/I/51bwY6wb8uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB25T3Q-es Brace Master MMA Guantes UFC Guantes de Cuero Más...'
 sku: 'B07HB25T3Q-es'
 tags: [ 'guantes', ]

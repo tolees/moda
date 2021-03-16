@@ -5,7 +5,7 @@ date: 2020-02-26 15:09:36
 image: 'https://m.media-amazon.com/images/I/31zcCyS7tbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3YVQMM-es Desigual Dress LENCY Vestido Azul Medieval Blue 5074 38...'
 sku: 'B07N3YVQMM-es'
 tags: [ 'vestido', ]

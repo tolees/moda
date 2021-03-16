@@ -5,7 +5,7 @@ date: 2020-09-28 11:07:24
 image: 'https://m.media-amazon.com/images/I/41a-EpHDBAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R92NCFC-es Columbia Marquam Peak Chaqueta de invierno Hombre Negro...'
 sku: 'B07R92NCFC-es'
 tags: [ 'chaqueta', ]

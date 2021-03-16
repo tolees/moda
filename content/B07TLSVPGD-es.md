@@ -5,7 +5,7 @@ date: 2020-07-04 17:29:02
 image: 'https://m.media-amazon.com/images/I/412wYyid9wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLSVPGD-es Clarks Lexi Carmen Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TLSVPGD-es'
 tags: [ 'sandalias', ]

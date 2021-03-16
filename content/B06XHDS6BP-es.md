@@ -5,7 +5,7 @@ date: 2020-02-08 17:54:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LTIOqRGgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHDS6BP-es Helly Hansen Verglas Down Insulator Chaqueta de Down Mujer...'
 sku: 'B06XHDS6BP-es'
 tags: [ 'chaqueta', ]

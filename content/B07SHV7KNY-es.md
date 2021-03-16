@@ -5,7 +5,7 @@ date: 2020-04-01 07:02:05
 image: 'https://m.media-amazon.com/images/I/31kZwB18PTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHV7KNY-es G-Star Sp10515 LS tee Camiseta de Manga Larga Marfil...'
 sku: 'B07SHV7KNY-es'
 tags: [ 'camiseta', ]

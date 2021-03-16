@@ -5,7 +5,7 @@ date: 2020-04-08 19:08:46
 image: 'https://m.media-amazon.com/images/I/41-kbwmItiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJS22YX-es SELECTED HOMME Slhdean Parka W Abrigo Azul Dark Sapphire...'
 sku: 'B07VJS22YX-es'
 tags: [ 'abrigo','parka', ]

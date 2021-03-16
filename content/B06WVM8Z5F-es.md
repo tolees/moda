@@ -5,7 +5,7 @@ date: 2020-05-25 09:49:02
 image: 'https://m.media-amazon.com/images/I/4127UguttEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVM8Z5F-es Tommy Hilfiger Bikini con Inserción de Malla Braguitas con...'
 sku: 'B06WVM8Z5F-es'
 tags: [ 'bikini', ]

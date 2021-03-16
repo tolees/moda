@@ -5,7 +5,7 @@ date: 2020-02-22 09:58:08
 image: 'https://m.media-amazon.com/images/I/41mngahWyHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBBZGVF-es Lee Elly Vaqueros Gris Lead Grey 30 28W / 33L para Mujer'
 sku: 'B07PBBZGVF-es'
 tags: [ 'vaqueros', ]

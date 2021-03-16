@@ -5,7 +5,7 @@ date: 2020-07-08 10:27:03
 image: 'https://m.media-amazon.com/images/I/51ArEHHDjLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1JKCF6-es Bolso de Fiesta Pequeña Elegante Noche Diamantes de...'
 sku: 'B07R1JKCF6-es'
 tags: [ 'bolso','monedero', ]

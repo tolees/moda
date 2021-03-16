@@ -5,7 +5,7 @@ date: 2020-06-15 15:53:03
 image: 'https://m.media-amazon.com/images/I/51dqPlU0XyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SX45PHY-es Quiksilver Molokai Tijuana Zapatos de Playa y Piscina para...'
 sku: 'B07SX45PHY-es'
 tags: [ 'zapatos', ]

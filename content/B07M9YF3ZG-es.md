@@ -5,7 +5,7 @@ date: 2020-04-04 04:36:15
 image: 'https://m.media-amazon.com/images/I/31sqYKNBWEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9YF3ZG-es Lacoste Th8602 Camiseta Azul Marine 166 Small Talla del...'
 sku: 'B07M9YF3ZG-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-07-22 12:48:55
 image: 'https://m.media-amazon.com/images/I/41XM4oxnE4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3RVHLB-es Geox Uomo Sandal Strada B Sandalias Punta Cerrada para...'
 sku: 'B07F3RVHLB-es'
 tags: [ 'geox','sandalias', ]

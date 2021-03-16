@@ -5,7 +5,7 @@ date: 2020-07-06 20:40:24
 image: 'https://m.media-amazon.com/images/I/41faKShfkfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWTDRBX-es Geox D Tabelya A Zapatillas para Mujer Beige Cream/Lt Gold...'
 sku: 'B07SWTDRBX-es'
 tags: [ 'geox', ]

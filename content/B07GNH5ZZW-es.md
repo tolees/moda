@@ -5,7 +5,7 @@ date: 2020-04-08 08:32:00
 image: 'https://m.media-amazon.com/images/I/513kNr7OrRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNH5ZZW-es Mujer Hombres Zapatos de Senderismo al Aire Libre Zapatos...'
 sku: 'B07GNH5ZZW-es'
 tags: [ 'zapatos', ]

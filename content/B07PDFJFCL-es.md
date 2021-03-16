@@ -5,7 +5,7 @@ date: 2020-02-10 00:05:38
 image: 'https://m.media-amazon.com/images/I/31CQqpWD-BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDFJFCL-es Sokaly 13-15.6 Pulgadas Mujer Hombre Bolso de...'
 sku: 'B07PDFJFCL-es'
 tags: [ 'bolso','moda', ]

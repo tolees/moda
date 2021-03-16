@@ -5,7 +5,7 @@ date: 2020-01-17 17:13:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VMu1NcipL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDNBG61-es Mexx Falda Multicolor Floral Printed 318186 36 Talla del...'
 sku: 'B07QDNBG61-es'
 tags: [ 'falda', ]

@@ -5,7 +5,7 @@ date: 2020-03-09 08:31:21
 image: 'https://m.media-amazon.com/images/I/31ob5wpi8pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V12JYNN-es Women s Secret Glitter Multilicense VR All I Want PJ...'
 sku: 'B07V12JYNN-es'
 tags: [ 'pijama', ]

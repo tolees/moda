@@ -5,7 +5,7 @@ date: 2020-02-29 19:22:40
 image: 'https://m.media-amazon.com/images/I/31BW5FNO-wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792HC7TB-es Geox U LEITAN C Mocasines para Hombre Negro 41 EU'
 sku: 'B0792HC7TB-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-08-06 07:11:31
 image: 'https://m.media-amazon.com/images/I/31H--ZTWlyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSL3YCG-es Clarks Un Larvik Lace Zapatos de Cordones Derby para...'
 sku: 'B07MSL3YCG-es'
 tags: [ 'zapatos', ]

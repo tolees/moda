@@ -5,7 +5,7 @@ date: 2020-09-03 16:31:43
 image: 'https://m.media-amazon.com/images/I/41B7bTqqAeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC4Y7ZX-es Calvin Klein Vegetable Dye Monogram Slim tee Camiseta Gris...'
 sku: 'B07VC4Y7ZX-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-06-24 16:02:56
 image: 'https://m.media-amazon.com/images/I/41+v9kR75AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYJ95Y8-es YACUN Vestido Lactancia Maternidad de Noche Camisón Verano...'
 sku: 'B07FYJ95Y8-es'
 tags: [ 'pijama','vestido', ]

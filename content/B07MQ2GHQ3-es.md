@@ -5,7 +5,7 @@ date: 2020-03-01 17:28:05
 image: 'https://m.media-amazon.com/images/I/31-XfTwbHVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2GHQ3-es Clarks Gilman Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MQ2GHQ3-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-09-01 18:25:38
 image: 'https://m.media-amazon.com/images/I/31jiUo7BCDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07583XJMH-es The North Face T934VX Pantalón Infantil con Tirantes...'
 sku: 'B07583XJMH-es'
 tags: [ 'pantalón', ]

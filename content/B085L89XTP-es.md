@@ -5,7 +5,7 @@ date: 2020-04-20 14:32:19
 image: 'https://m.media-amazon.com/images/I/41LnA6yFgsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085L89XTP-es MoneRffi Mujeres Sandalias Planas Sandalias Casuales...'
 sku: 'B085L89XTP-es'
 tags: [ 'sandalias','zapatos', ]

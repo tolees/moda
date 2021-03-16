@@ -5,7 +5,7 @@ date: 2020-01-07 09:41:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nIh1guAsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TZAB2SK-es uhlsport Stream 3.0 Ml Camiseta De Juego Manga Larga...'
 sku: 'B00TZAB2SK-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 17:34:19
 image: 'https://m.media-amazon.com/images/I/41l9XxRkX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXRX42M-es oodji Ultra Mujer Blusa de Punto Ajustada Negro ES 40 / M'
 sku: 'B07RXRX42M-es'
 tags: [ 'blusa', ]

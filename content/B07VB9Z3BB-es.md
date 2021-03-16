@@ -5,7 +5,7 @@ date: 2020-04-05 10:33:15
 image: 'https://m.media-amazon.com/images/I/41tTt5kmZwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB9Z3BB-es JACK & JONES Jjedane Biker Jacket Noos Chaqueta Marrón...'
 sku: 'B07VB9Z3BB-es'
 tags: [ 'chaqueta', ]

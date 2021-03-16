@@ -5,7 +5,7 @@ date: 2020-04-30 20:41:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XwwYM7ZqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXWHCPP-es find. Falda Mini de Rayas para Mujer Negro Black/white...'
 sku: 'B01MXWHCPP-es'
 tags: [ 'falda', ]

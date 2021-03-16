@@ -5,7 +5,7 @@ date: 2020-05-31 11:15:29
 image: 'https://m.media-amazon.com/images/I/41a4SAAl-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1SNW5T-es Adidas Tiro 19 Polyester Jacke Chaqueta Deportiva Hombre...'
 sku: 'B07K1SNW5T-es'
 tags: [ 'chaqueta', ]

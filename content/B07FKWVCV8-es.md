@@ -5,7 +5,7 @@ date: 2020-01-08 15:27:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DRSqb3fCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKWVCV8-es Trangoworld Helens Complet Chaqueta Mujer Sombra Oscura XL'
 sku: 'B07FKWVCV8-es'
 tags: [ 'chaqueta', ]

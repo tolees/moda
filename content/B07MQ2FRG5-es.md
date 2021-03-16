@@ -5,7 +5,7 @@ date: 2020-01-11 17:23:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31npKpCiXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2FRG5-es Clarks - Botines de Cuero Hombre Color Negro Talla 39.5 EU'
 sku: 'B07MQ2FRG5-es'
 tags: [ 'botines', ]

@@ -5,7 +5,7 @@ date: 2020-02-09 11:10:37
 image: 'https://m.media-amazon.com/images/I/41rC0jG6tOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG7TP8D-es Pepe Jeans Shirley Pl401682 Chaqueta Multi Bleu 0aa...'
 sku: 'B07JG7TP8D-es'
 tags: [ 'chaqueta', ]

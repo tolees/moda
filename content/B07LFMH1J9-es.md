@@ -5,7 +5,7 @@ date: 2020-08-03 13:07:45
 image: 'https://m.media-amazon.com/images/I/41vWfhFH7xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFMH1J9-es Levi s HR Decon Iconic BF Skirt Falda Blanco Pearly White...'
 sku: 'B07LFMH1J9-es'
 tags: [ 'falda', ]

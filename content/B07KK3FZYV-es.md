@@ -5,7 +5,7 @@ date: 2020-04-16 18:28:37
 image: 'https://m.media-amazon.com/images/I/41S2H8XZTDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK3FZYV-es Columbia Peakfreak X2 Mid Outdry Zapatos de Senderismo...'
 sku: 'B07KK3FZYV-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 19:23:47
 image: 'https://m.media-amazon.com/images/I/41F3c58xEeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1XQLG3-es Columbia Vapor Vent Zapatos para Hombre Gris Steam/Royal...'
 sku: 'B07S1XQLG3-es'
 tags: [ 'zapatos', ]

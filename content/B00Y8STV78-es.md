@@ -5,7 +5,7 @@ date: 2020-06-01 11:34:34
 image: 'https://m.media-amazon.com/images/I/51bGqj-MerL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y8STV78-es BlackButterfly Audrey Vestido Vintage Años 50 Divinity...'
 sku: 'B00Y8STV78-es'
 tags: [ 'vestido', ]

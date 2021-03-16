@@ -5,7 +5,7 @@ date: 2020-04-23 01:01:23
 image: 'https://m.media-amazon.com/images/I/41uGOhDpy6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757V7DBT-es Marca Amazon - find. Vaqueros Skinny Hombre Gris Grey Wash...'
 sku: 'B0757V7DBT-es'
 tags: [ '-','find.','vaqueros', ]

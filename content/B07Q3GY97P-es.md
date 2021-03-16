@@ -5,7 +5,7 @@ date: 2020-04-05 18:18:27
 image: 'https://m.media-amazon.com/images/I/415e8oO2NjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3GY97P-es Dockers by Gerli 43ln201 Botines para Mujer Marrón Braun...'
 sku: 'B07Q3GY97P-es'
 tags: [ 'botines', ]

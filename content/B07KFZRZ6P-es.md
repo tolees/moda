@@ -5,7 +5,7 @@ date: 2020-04-25 00:09:25
 image: 'https://m.media-amazon.com/images/I/41nkVd7ORUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZRZ6P-es PUMA AURIZ Zapatos de fútbol para Hombre Negro Black...'
 sku: 'B07KFZRZ6P-es'
 tags: [ 'zapatos', ]

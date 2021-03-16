@@ -5,7 +5,7 @@ date: 2020-06-04 10:39:30
 image: 'https://m.media-amazon.com/images/I/41O7Qnbm5iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HMN94H-es Adidas Regista 18 Track Top Chaqueta Deportiva Hombre Bold...'
 sku: 'B076HMN94H-es'
 tags: [ 'chaqueta', ]

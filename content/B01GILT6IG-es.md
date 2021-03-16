@@ -5,7 +5,7 @@ date: 2020-05-13 15:56:09
 image: 'https://m.media-amazon.com/images/I/41ve2+DWmoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GILT6IG-es Calvin Klein Modern tee Camiseta Negro Black/White Lg 930...'
 sku: 'B01GILT6IG-es'
 tags: [ 'camiseta', ]

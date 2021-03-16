@@ -5,7 +5,7 @@ date: 2020-08-22 03:16:33
 image: 'https://m.media-amazon.com/images/I/31+LLHcGwLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF5W5ZQ-es Levi s 2pk Crewneck Graphic Camiseta Multicolor 2 Pack Hm...'
 sku: 'B07LF5W5ZQ-es'
 tags: [ 'camiseta', ]

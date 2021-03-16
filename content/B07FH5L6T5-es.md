@@ -5,7 +5,7 @@ date: 2020-04-12 08:04:43
 image: 'https://m.media-amazon.com/images/I/41CxRl8Tz8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FH5L6T5-es Havaianas Brasil Chanclas Unisex Adulto Beige Sand...'
 sku: 'B07FH5L6T5-es'
 tags: [ 'chanclas', ]

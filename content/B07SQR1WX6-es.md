@@ -5,7 +5,7 @@ date: 2020-06-14 11:47:34
 image: 'https://m.media-amazon.com/images/I/51f0J3getcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQR1WX6-es Quiksilver Molokai Tropical Flow Zapatos de Playa y...'
 sku: 'B07SQR1WX6-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-07-30 21:30:27
 image: 'https://m.media-amazon.com/images/I/41fcMO8WneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2SDXDF-es Geox U Mattias B ABX B Botas Chukka para Hombre Marrón...'
 sku: 'B06Y2SDXDF-es'
 tags: [ 'geox', ]

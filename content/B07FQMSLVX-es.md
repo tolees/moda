@@ -5,7 +5,7 @@ date: 2020-06-28 20:45:38
 image: 'https://m.media-amazon.com/images/I/315t8BRj6hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQMSLVX-es Clarks Un Trail Form Zapatos de Cordones Derby Negro Black...'
 sku: 'B07FQMSLVX-es'
 tags: [ 'zapatos', ]

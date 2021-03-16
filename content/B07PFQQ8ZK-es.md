@@ -5,7 +5,7 @@ date: 2020-09-07 04:22:57
 image: 'https://m.media-amazon.com/images/I/41Af-GF6tWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFQQ8ZK-es El Búho Nocturno Pijama de Caballero de Manga Larga canalé...'
 sku: 'B07PFQQ8ZK-es'
 tags: [ 'pijama', ]

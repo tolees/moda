@@ -5,7 +5,7 @@ date: 2020-01-18 07:28:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eXiTaQXAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FF2V4HQ-es TRUTH & FABLE ACB022 vestido Multicolore Multi Colour 32...'
 sku: 'B07FF2V4HQ-es'
 tags: [ 'vestido', ]

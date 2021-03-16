@@ -5,7 +5,7 @@ date: 2020-09-15 05:27:53
 image: 'https://m.media-amazon.com/images/I/41RPxXrRmiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N16ZSD5-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Worker Blue Faded...'
 sku: 'B07N16ZSD5-es'
 tags: [ 'vaqueros', ]

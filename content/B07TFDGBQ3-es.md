@@ -5,7 +5,7 @@ date: 2020-02-02 11:22:58
 image: 'https://m.media-amazon.com/images/I/41binE++vZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFDGBQ3-es Quiksilver Brooks 5k Chaqueta Impermeable Hombre Gris...'
 sku: 'B07TFDGBQ3-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-08-27 21:53:50
 image: 'https://m.media-amazon.com/images/I/41eMuIHeeLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1ZQY4Z-es Timberland Malibu Waves Sandalias para Mujer Verde Olive...'
 sku: 'B07F1ZQY4Z-es'
 tags: [ 'sandalias','timberland', ]

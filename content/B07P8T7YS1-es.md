@@ -5,7 +5,7 @@ date: 2020-05-15 12:10:35
 image: 'https://m.media-amazon.com/images/I/31-P0YKVZTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8T7YS1-es Morgan 192-chessa.n Camisa Blanco Blanc Blanc 38 Talla del...'
 sku: 'B07P8T7YS1-es'
 tags: [ 'camisa', ]

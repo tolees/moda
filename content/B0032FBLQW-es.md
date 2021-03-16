@@ -5,7 +5,7 @@ date: 2020-06-29 02:55:25
 image: 'https://m.media-amazon.com/images/I/41Ehf6SZUcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0032FBLQW-es Lacoste L1212 Camiseta Polo Rojo Rouge XS para Hombre'
 sku: 'B0032FBLQW-es'
 tags: [ 'camiseta', ]

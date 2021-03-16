@@ -5,7 +5,7 @@ date: 2020-02-07 20:53:42
 image: 'https://m.media-amazon.com/images/I/414zKRtO2LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFNNDH7-es Levi s Francine Down Pckble Jkt Chaqueta Azul Sodalite...'
 sku: 'B07LFNNDH7-es'
 tags: [ 'chaqueta', ]

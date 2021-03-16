@@ -5,7 +5,7 @@ date: 2020-04-18 11:37:26
 image: 'https://m.media-amazon.com/images/I/41br66JcaiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002A6WWDA-es Havaianas Slim Chanclas para Mujer Oro SandGrey/Light...'
 sku: 'B002A6WWDA-es'
 tags: [ 'chanclas', ]

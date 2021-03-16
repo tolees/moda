@@ -5,7 +5,7 @@ date: 2020-01-24 17:35:43
 image: 'https://m.media-amazon.com/images/I/31FN3YXYP-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVWKFR1-es Armor Lux 77288 Chaqueta Negro Noir 010 Medium Talla del...'
 sku: 'B07NVWKFR1-es'
 tags: [ 'chaqueta', ]

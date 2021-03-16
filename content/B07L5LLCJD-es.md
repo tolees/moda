@@ -5,7 +5,7 @@ date: 2020-09-28 10:25:03
 image: 'https://m.media-amazon.com/images/I/31VgI1QCkQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5LLCJD-es RealMadrid Pelele Blanco 3-12 Meses 3 Meses'
 sku: 'B07L5LLCJD-es'
 tags: [ 'pelele', ]

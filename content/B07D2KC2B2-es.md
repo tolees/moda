@@ -5,7 +5,7 @@ date: 2020-04-14 15:32:14
 image: 'https://m.media-amazon.com/images/I/41nGvw-D0pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2KC2B2-es Levi s 510 Skinny Fit Vaqueros para Hombre Negro Luther...'
 sku: 'B07D2KC2B2-es'
 tags: [ 'vaqueros', ]

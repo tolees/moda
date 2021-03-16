@@ -5,7 +5,7 @@ date: 2020-03-05 17:38:21
 image: 'https://m.media-amazon.com/images/I/41Mx2+1TpTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N17XZQN-es Lee Logo SWS Sudadera Gris Grey Mele MP X-Large para Mujer'
 sku: 'B07N17XZQN-es'
 tags: [ 'sudadera', ]

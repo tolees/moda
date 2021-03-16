@@ -5,7 +5,7 @@ date: 2020-09-26 09:33:57
 image: 'https://m.media-amazon.com/images/I/31e340nPCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W14BXYH-es Pepe Jeans Raury Camiseta Verde 734safari 734 17-18 años...'
 sku: 'B07W14BXYH-es'
 tags: [ 'camiseta', ]

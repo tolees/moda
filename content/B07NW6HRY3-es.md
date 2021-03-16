@@ -5,7 +5,7 @@ date: 2020-02-26 09:07:38
 image: 'https://m.media-amazon.com/images/I/418Xqz8Ij9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW6HRY3-es Skechers Keepsakes 2.0 Botines Mujer Morado Mauve Suede...'
 sku: 'B07NW6HRY3-es'
 tags: [ 'botines', ]

@@ -5,7 +5,7 @@ date: 2020-09-18 09:02:54
 image: 'https://m.media-amazon.com/images/I/51j2jTjP8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077JRW4XX-es Mujer Camisetas Manga Larga Originales Basicas Camuflaje...'
 sku: 'B077JRW4XX-es'
 tags: [ 'moda', ]

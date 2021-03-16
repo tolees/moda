@@ -5,7 +5,7 @@ date: 2020-01-04 18:06:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OB8aROOjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMVYXRN-es Lee Marion Vaqueros Straight Azul Mid Gordo CV W31/L35...'
 sku: 'B07MMVYXRN-es'
 tags: [ 'vaqueros', ]

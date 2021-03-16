@@ -5,7 +5,7 @@ date: 2020-06-28 15:34:49
 image: 'https://m.media-amazon.com/images/I/41ocg5emEBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT6YGDF-es Levi s The tee Camiseta Blanco Floral Filled Batwing...'
 sku: 'B07TT6YGDF-es'
 tags: [ 'camiseta', ]

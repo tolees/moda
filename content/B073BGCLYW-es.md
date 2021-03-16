@@ -5,7 +5,7 @@ date: 2020-03-06 11:33:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4184yLN%2BXLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073BGCLYW-es BaronHong Gynecomastia Compression Shirt Chaleco para...'
 sku: 'B073BGCLYW-es'
 tags: [ 'chaleco', ]

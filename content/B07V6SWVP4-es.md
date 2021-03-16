@@ -5,7 +5,7 @@ date: 2020-09-04 20:14:36
 image: 'https://m.media-amazon.com/images/I/4107KQc8KxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6SWVP4-es Kipling LENEXA Bolso bandolera 44 cm 24 liters Negro Charcoal'
 sku: 'B07V6SWVP4-es'
 tags: [ 'bolso', ]

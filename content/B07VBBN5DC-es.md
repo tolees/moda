@@ -5,7 +5,7 @@ date: 2020-09-22 10:19:51
 image: 'https://m.media-amazon.com/images/I/316ZhCqE+GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBBN5DC-es HUGO Elisha02 Camisa Azul Light/Pastel Blue 459 X-Large...'
 sku: 'B07VBBN5DC-es'
 tags: [ 'camisa', ]

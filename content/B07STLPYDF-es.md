@@ -5,7 +5,7 @@ date: 2020-06-27 11:41:14
 image: 'https://m.media-amazon.com/images/I/41Xm+wAju2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLPYDF-es Geox U Eolo A Zapatillas para Hombre Marrón Taupe C6029 42 EU'
 sku: 'B07STLPYDF-es'
 tags: [ 'geox', ]

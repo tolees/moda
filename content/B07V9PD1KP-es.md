@@ -5,7 +5,7 @@ date: 2020-02-17 22:28:46
 image: 'https://m.media-amazon.com/images/I/41EpXRwhBiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9PD1KP-es JACK & JONES Jorclan Parka Negro Black Small para Hombre'
 sku: 'B07V9PD1KP-es'
 tags: [ 'parka', ]

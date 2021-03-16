@@ -5,7 +5,7 @@ date: 2020-03-29 14:46:29
 image: 'https://m.media-amazon.com/images/I/41KZgOOquUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPW9L-es Napapijri BIBU FZH Sudadera Verde Green Forest 2 Ge3 L...'
 sku: 'B07MCSPW9L-es'
 tags: [ 'sudadera', ]

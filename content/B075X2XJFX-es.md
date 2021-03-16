@@ -5,7 +5,7 @@ date: 2020-01-09 15:12:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31iTxTqMsuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075X2XJFX-es find. NEWSTW051 vaqueros mujer cintura alta Blanco White...'
 sku: 'B075X2XJFX-es'
 tags: [ 'vaqueros', ]

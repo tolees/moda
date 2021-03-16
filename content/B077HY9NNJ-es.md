@@ -5,7 +5,7 @@ date: 2020-04-30 09:08:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pYVWCGeeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HY9NNJ-es Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa...'
 sku: 'B077HY9NNJ-es'
 tags: [ 'pantalón', ]

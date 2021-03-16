@@ -5,7 +5,7 @@ date: 2020-03-10 10:38:08
 image: 'https://m.media-amazon.com/images/I/41FR3aQdbZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJFWMZX-es Springfield 4.1.Gym.Skinny Cropped Ro Vaqueros Straight...'
 sku: 'B07NJFWMZX-es'
 tags: [ 'vaqueros', ]

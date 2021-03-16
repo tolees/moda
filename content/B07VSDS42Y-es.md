@@ -5,7 +5,7 @@ date: 2020-02-02 11:49:58
 image: 'https://m.media-amazon.com/images/I/41YZtK7T6cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSDS42Y-es JACK & JONES NOS Jjewashington Shirt L/s STS Camisa Rojo...'
 sku: 'B07VSDS42Y-es'
 tags: [ 'camisa', ]

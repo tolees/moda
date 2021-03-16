@@ -5,7 +5,7 @@ date: 2020-07-18 12:45:55
 image: 'https://m.media-amazon.com/images/I/41WjHl1yqnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089R8B5QG-es LJP Funda Samsung Galaxy A51 5G Suave PU Cuero Carcasa y...'
 sku: 'B089R8B5QG-es'
 tags: [ 'billetera', ]

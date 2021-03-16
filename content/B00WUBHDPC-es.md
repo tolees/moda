@@ -5,7 +5,7 @@ date: 2020-08-29 17:02:04
 image: 'https://m.media-amazon.com/images/I/31oXwUTdPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WUBHDPC-es CASUAL FRIDAY 500924 Camisa 50003 Black S para Hombre'
 sku: 'B00WUBHDPC-es'
 tags: [ 'camisa', ]

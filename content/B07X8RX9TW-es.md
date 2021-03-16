@@ -5,7 +5,7 @@ date: 2020-09-21 15:57:49
 image: 'https://m.media-amazon.com/images/I/41iPb+J0s-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8RX9TW-es Hawiton Camisón Lactancia Manga Larga Pijama Embarazada...'
 sku: 'B07X8RX9TW-es'
 tags: [ 'pijama', ]

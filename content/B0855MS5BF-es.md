@@ -5,7 +5,7 @@ date: 2020-06-25 06:43:17
 image: 'https://m.media-amazon.com/images/I/41CZluVIEZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0855MS5BF-es HRainbow Riñoneras Deportivas Mujer Hombre Riñoneras...'
 sku: 'B0855MS5BF-es'
 tags: [ 'moda', ]

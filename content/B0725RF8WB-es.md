@@ -5,7 +5,7 @@ date: 2020-01-06 16:28:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AwdAsDtfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0725RF8WB-es Wrangler Greensboro Regular Jeans Vaqueros Azul For Real...'
 sku: 'B0725RF8WB-es'
 tags: [ 'vaqueros', ]

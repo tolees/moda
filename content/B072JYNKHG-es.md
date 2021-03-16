@@ -5,7 +5,7 @@ date: 2020-07-31 21:33:07
 image: 'https://m.media-amazon.com/images/I/31EkCxhG+5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JYNKHG-es Marca Amazon - find. Camisa Hombre Rosa L Label: L'
 sku: 'B072JYNKHG-es'
 tags: [ '-','camisa','find.', ]

@@ -5,7 +5,7 @@ date: 2020-05-20 10:04:57
 image: 'https://m.media-amazon.com/images/I/41WrAPAafHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DB2V5N7-es Jack Wolfskin Vojo Hike 2 Texapore Mid W Wasserdicht...'
 sku: 'B07DB2V5N7-es'
 tags: [ 'zapatos', ]

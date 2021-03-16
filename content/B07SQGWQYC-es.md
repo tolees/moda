@@ -5,7 +5,7 @@ date: 2020-06-27 19:44:46
 image: 'https://m.media-amazon.com/images/I/41SoyYToniL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGWQYC-es Geox D Sozy G Sandalias con Punta Abierta para Mujer Negro...'
 sku: 'B07SQGWQYC-es'
 tags: [ 'geox','sandalias', ]

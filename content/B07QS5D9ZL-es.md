@@ -5,7 +5,7 @@ date: 2020-05-14 12:51:58
 image: 'https://m.media-amazon.com/images/I/31FmZcFhEWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QS5D9ZL-es Asics Classic CT Zapatos de Baloncesto para Hombre Negro...'
 sku: 'B07QS5D9ZL-es'
 tags: [ 'zapatos', ]

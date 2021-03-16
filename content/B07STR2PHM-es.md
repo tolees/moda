@@ -5,7 +5,7 @@ date: 2020-02-08 20:06:35
 image: 'https://m.media-amazon.com/images/I/41plkJp9R-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STR2PHM-es YWLINK Mono NiñA NiñO Verano Sin Mangas De Color SóLido...'
 sku: 'B07STR2PHM-es'
 tags: [ 'moda', ]

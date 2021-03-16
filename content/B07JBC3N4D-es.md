@@ -5,7 +5,7 @@ date: 2020-05-13 14:27:40
 image: 'https://m.media-amazon.com/images/I/41Jvuf3f7IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBC3N4D-es Columbia Titan Ultra II Pantalón Corto Poliéster Hombre...'
 sku: 'B07JBC3N4D-es'
 tags: [ 'pantalón', ]

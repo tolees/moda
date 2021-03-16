@@ -5,7 +5,7 @@ date: 2020-05-05 13:02:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fCZmsJCuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6V3FRL-es Geox D Avery C Mocasines para Mujer Beige LT TAUPEC6738 36 EU'
 sku: 'B01M6V3FRL-es'
 tags: [ 'geox', ]

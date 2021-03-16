@@ -5,7 +5,7 @@ date: 2020-04-16 10:08:17
 image: 'https://m.media-amazon.com/images/I/412Gmk-CyNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND3YKNQ-es Dockers Plaited Jersey Crew suéter Azul Logo Pembroke 0010...'
 sku: 'B07ND3YKNQ-es'
 tags: [ 'jersey', ]

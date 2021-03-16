@@ -5,7 +5,7 @@ date: 2020-09-15 18:53:12
 image: 'https://m.media-amazon.com/images/I/31aVRijmxbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJX17FL-es Lacoste Sport Sh7609 Sudadera Rojo Corrida/Noir G64 Large...'
 sku: 'B07TJX17FL-es'
 tags: [ 'sudadera', ]

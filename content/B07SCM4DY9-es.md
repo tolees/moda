@@ -5,7 +5,7 @@ date: 2020-02-20 07:50:37
 image: 'https://m.media-amazon.com/images/I/41yzKGQ3rDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCM4DY9-es Lee Scarlett High Vaqueros Azul Light Florin HR 24W/31L...'
 sku: 'B07SCM4DY9-es'
 tags: [ 'vaqueros', ]

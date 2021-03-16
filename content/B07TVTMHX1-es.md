@@ -5,7 +5,7 @@ date: 2020-02-19 17:29:47
 image: 'https://m.media-amazon.com/images/I/315bOTsO-SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTMHX1-es Women s Secret Home Set 2 HS Say Yes PJ Conjuntos de...'
 sku: 'B07TVTMHX1-es'
 tags: [ 'pijama', ]

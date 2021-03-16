@@ -5,7 +5,7 @@ date: 2020-02-23 17:02:32
 image: 'https://m.media-amazon.com/images/I/41F1ekAOi0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN83YBQ-es Wrangler Crewneck Knit Sudadera Amarillo Mineral Yellow...'
 sku: 'B07MN83YBQ-es'
 tags: [ 'sudadera', ]

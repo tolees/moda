@@ -5,7 +5,7 @@ date: 2020-08-08 06:13:33
 image: 'https://m.media-amazon.com/images/I/41RDlul5YrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WD9GN38-es Bragas Mujer sin Costuras Invisible Señoras Braguitas Low...'
 sku: 'B07WD9GN38-es'
 tags: [ 'bikini', ]

@@ -5,7 +5,7 @@ date: 2020-04-11 16:52:10
 image: 'https://m.media-amazon.com/images/I/413S-w3h5ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHQ5P6X-es Tamaris 1-1-22444-23 Zapatos de Tacón para Mujer Negro Leo...'
 sku: 'B07NHQ5P6X-es'
 tags: [ 'zapatos', ]

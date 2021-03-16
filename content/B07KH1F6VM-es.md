@@ -5,7 +5,7 @@ date: 2020-01-11 07:27:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31HnqQQFyIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KH1F6VM-es Under Armour EU Tech Pant Pantalón de Golf Hombre Marrón...'
 sku: 'B07KH1F6VM-es'
 tags: [ 'pantalón', ]

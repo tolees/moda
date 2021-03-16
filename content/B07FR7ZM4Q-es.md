@@ -5,7 +5,7 @@ date: 2020-08-24 22:57:05
 image: 'https://m.media-amazon.com/images/I/415umO-pKeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR7ZM4Q-es Clarks Un Lisbon Lace Zapatos de Cordones Derby para...'
 sku: 'B07FR7ZM4Q-es'
 tags: [ 'zapatos', ]

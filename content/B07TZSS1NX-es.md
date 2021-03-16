@@ -5,7 +5,7 @@ date: 2020-07-08 11:21:36
 image: 'https://m.media-amazon.com/images/I/31Wn1trnFjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZSS1NX-es Superga 1908-puu Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07TZSS1NX-es'
 tags: [ 'zapatos', ]

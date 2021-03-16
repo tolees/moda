@@ -5,7 +5,7 @@ date: 2020-05-27 14:36:02
 image: 'https://m.media-amazon.com/images/I/417RtEa8IxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SY8N5P-es Timberland Bayham Canvas Mocasines Mocasines Hombre Azul...'
 sku: 'B078SY8N5P-es'
 tags: [ 'timberland', ]

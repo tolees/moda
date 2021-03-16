@@ -5,7 +5,7 @@ date: 2020-07-19 19:08:08
 image: 'https://m.media-amazon.com/images/I/31olgzA1MbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CP7M4SM-es Crocs Crocband U Zuecos Unisex Adulto Verde Army Green-...'
 sku: 'B07CP7M4SM-es'
 tags: [ 'zuecos', ]

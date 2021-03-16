@@ -5,7 +5,7 @@ date: 2020-02-27 11:03:19
 image: 'https://m.media-amazon.com/images/I/41cGqjlHu2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3Z3QKL-es Desigual T-Shirt Daryl Camiseta Blanco Crudo 1001 Large...'
 sku: 'B07N3Z3QKL-es'
 tags: [ 'camiseta', ]

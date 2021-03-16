@@ -5,7 +5,7 @@ date: 2020-09-04 18:42:01
 image: 'https://m.media-amazon.com/images/I/41WdMsiFq1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQX5H1T-es Clarks Un Trail Form Zapatos de Cordones Derby Azul Navy...'
 sku: 'B07FQX5H1T-es'
 tags: [ 'zapatos', ]

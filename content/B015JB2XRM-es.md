@@ -5,7 +5,7 @@ date: 2020-06-30 20:38:10
 image: 'https://m.media-amazon.com/images/I/31LZQOlH3QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015JB2XRM-es Uvex LGL 29 Gafas de Ciclismo Unisex Adulto Negro/Verde...'
 sku: 'B015JB2XRM-es'
 tags: [ 'gafas', ]

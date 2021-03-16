@@ -5,7 +5,7 @@ date: 2020-03-09 14:17:22
 image: 'https://m.media-amazon.com/images/I/313pi7j4GEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZM77P-es Geox U CLINTFORDB ABX A Botas Clasicas para Hombre Marrón...'
 sku: 'B07LFZM77P-es'
 tags: [ 'geox', ]

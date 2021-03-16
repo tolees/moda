@@ -5,7 +5,7 @@ date: 2020-06-23 13:12:21
 image: 'https://m.media-amazon.com/images/I/31PiLX2eYuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDSKZSS-es Marca Amazon - find. Vestido Midi de Satén Mujer Negro...'
 sku: 'B07NDSKZSS-es'
 tags: [ '-','find.','vestido', ]

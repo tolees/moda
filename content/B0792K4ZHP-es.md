@@ -5,7 +5,7 @@ date: 2020-01-04 11:10:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KSUlI%2B2zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792K4ZHP-es Geox U NORWOLK B Botas Chukka para Hombre Negro Black...'
 sku: 'B0792K4ZHP-es'
 tags: [ 'geox', ]

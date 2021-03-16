@@ -5,7 +5,7 @@ date: 2020-02-20 19:21:25
 image: 'https://m.media-amazon.com/images/I/51PB4C-HKCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9YSSV2-es Unisex Chico Chica Zapatilla de Deporte del Zapato Negro...'
 sku: 'B07H9YSSV2-es'
 tags: [ 'zapatilla', ]

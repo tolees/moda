@@ -5,7 +5,7 @@ date: 2020-06-13 21:36:25
 image: 'https://m.media-amazon.com/images/I/3150tLGaIxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL2G7NG-es adidas Essentials Linear Logo tee Camiseta Hombre Blanco...'
 sku: 'B07KL2G7NG-es'
 tags: [ 'camiseta', ]

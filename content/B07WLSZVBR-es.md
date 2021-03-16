@@ -5,7 +5,7 @@ date: 2020-05-06 11:05:52
 image: 'https://m.media-amazon.com/images/I/41vg+BxdIrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLSZVBR-es Jack & Jones Jornewshakedown Block Sweat Zip Hood Chaqueta...'
 sku: 'B07WLSZVBR-es'
 tags: [ 'chaqueta', ]

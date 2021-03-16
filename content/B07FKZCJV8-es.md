@@ -5,7 +5,7 @@ date: 2020-01-08 15:26:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31yrIWETJpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKZCJV8-es Trangoworld PC008106 Pantalón Largo Mujer Verde Caza M'
 sku: 'B07FKZCJV8-es'
 tags: [ 'pantalón', ]

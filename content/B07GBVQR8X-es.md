@@ -5,7 +5,7 @@ date: 2020-06-09 03:29:43
 image: 'https://m.media-amazon.com/images/I/31oHDz-Hb0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBVQR8X-es Puma Essentials LG T Camiseta de Manga Corta Hombre Blanco...'
 sku: 'B07GBVQR8X-es'
 tags: [ 'camiseta', ]

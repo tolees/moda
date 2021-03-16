@@ -5,7 +5,7 @@ date: 2020-06-25 10:06:50
 image: 'https://m.media-amazon.com/images/I/31OsbEre1kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNGNPHF-es Fossil Collar para Hombre JF03175040'
 sku: 'B07VNGNPHF-es'
 tags: [ 'collar', ]

@@ -5,7 +5,7 @@ date: 2020-04-12 08:22:39
 image: 'https://m.media-amazon.com/images/I/51clnos76RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08218VRMX-es Kit Ojetes Metalicos 8mm ManLee 100pcs Ojales Metalicos...'
 sku: 'B08218VRMX-es'
 tags: [ 'zapatos', ]

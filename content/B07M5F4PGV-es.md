@@ -5,7 +5,7 @@ date: 2020-02-20 20:12:06
 image: 'https://m.media-amazon.com/images/I/41NTfdj9AKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F4PGV-es Wrangler LS Refined Polo Camisa Manga Larga Negro Black...'
 sku: 'B07M5F4PGV-es'
 tags: [ 'camisa', ]

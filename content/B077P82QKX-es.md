@@ -5,7 +5,7 @@ date: 2020-07-22 14:10:53
 image: 'https://m.media-amazon.com/images/I/31rVOJimlEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077P82QKX-es DIDINSKY Gafas de lectura sin patillas graduadas para...'
 sku: 'B077P82QKX-es'
 tags: [ 'gafas', ]

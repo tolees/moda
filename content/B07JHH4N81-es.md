@@ -5,7 +5,7 @@ date: 2020-05-26 12:35:49
 image: 'https://m.media-amazon.com/images/I/41RI6c2YDzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHH4N81-es Amazon Essentials - Camisa de lino a rayas de manga corta...'
 sku: 'B07JHH4N81-es'
 tags: [ 'camisa', ]

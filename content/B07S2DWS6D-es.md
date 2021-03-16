@@ -5,7 +5,7 @@ date: 2020-07-04 14:26:00
 image: 'https://m.media-amazon.com/images/I/31VrczMgH1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2DWS6D-es Esprit 999ee1b803 Vaqueros Slim Negro Black 001 W28/L30...'
 sku: 'B07S2DWS6D-es'
 tags: [ 'vaqueros', ]

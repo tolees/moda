@@ -5,7 +5,7 @@ date: 2020-09-21 09:30:56
 image: 'https://m.media-amazon.com/images/I/51VWNhJ3wmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4AVR8U-es oodji Ultra Hombre Jersey a Rayas con Cuello Redondo Azul...'
 sku: 'B01N4AVR8U-es'
 tags: [ 'jersey', ]

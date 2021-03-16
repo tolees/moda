@@ -5,7 +5,7 @@ date: 2020-06-01 08:15:06
 image: 'https://m.media-amazon.com/images/I/31zC+FHJSML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPJC3ZF-es Ledger Nano S - V1.4 - Monedero Hardware de criptomonedas...'
 sku: 'B07JPJC3ZF-es'
 tags: [ 'monedero', ]

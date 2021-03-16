@@ -5,7 +5,7 @@ date: 2020-07-31 10:23:04
 image: 'https://m.media-amazon.com/images/I/31nBizYLgeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9JHWRX-es Calvin Klein Contrasted Ringer Reg Fit tee Camiseta Blanco...'
 sku: 'B07V9JHWRX-es'
 tags: [ 'camiseta', ]

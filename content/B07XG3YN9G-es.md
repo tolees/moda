@@ -5,7 +5,7 @@ date: 2020-05-16 14:02:16
 image: 'https://m.media-amazon.com/images/I/31y4MjeHOEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG3YN9G-es Sharplace Forma De Memoria Almohadillas De Copa Del Talón...'
 sku: 'B07XG3YN9G-es'
 tags: [ 'zapatos', ]

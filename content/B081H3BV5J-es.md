@@ -5,7 +5,7 @@ date: 2020-09-18 17:31:44
 image: 'https://m.media-amazon.com/images/I/41rTZ9T4+3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081H3BV5J-es BT Bear Abrigo para Perros cálido Ropa de Invierno para...'
 sku: 'B081H3BV5J-es'
 tags: [ 'abrigo', ]

@@ -5,7 +5,7 @@ date: 2020-01-07 16:01:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410JYWIXqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RY85G6R-es Only Onlnew Lucca Parka Jacket Otw Rojo Ketchup Ketchup 40...'
 sku: 'B07RY85G6R-es'
 tags: [ 'parka', ]

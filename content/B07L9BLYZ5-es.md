@@ -5,7 +5,7 @@ date: 2020-04-24 10:36:59
 image: 'https://m.media-amazon.com/images/I/41fjk03mo5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9BLYZ5-es Under Armour UA Qualifier Tank Camiseta sin Mangas Mujer...'
 sku: 'B07L9BLYZ5-es'
 tags: [ 'camiseta', ]

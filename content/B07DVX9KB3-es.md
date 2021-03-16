@@ -5,7 +5,7 @@ date: 2020-04-14 13:32:05
 image: 'https://m.media-amazon.com/images/I/41jGN+dRttL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVX9KB3-es Levi s Type 3 Sherpa Trucker Chaqueta para Hombre Azul...'
 sku: 'B07DVX9KB3-es'
 tags: [ 'chaqueta', ]

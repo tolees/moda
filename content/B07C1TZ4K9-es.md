@@ -5,7 +5,7 @@ date: 2020-06-29 14:28:24
 image: 'https://m.media-amazon.com/images/I/31e6NtYKizL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C1TZ4K9-es H by Hudson Antrim Zapatos de Cordones Derby para Hombre...'
 sku: 'B07C1TZ4K9-es'
 tags: [ 'zapatos', ]

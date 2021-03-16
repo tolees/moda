@@ -5,7 +5,7 @@ date: 2020-05-11 08:43:44
 image: 'https://m.media-amazon.com/images/I/41pExoH6pSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZO1O8L-es Asics Gel-Solution Speed 3 Clay Zapatilla De Tenis - 39'
 sku: 'B01LZO1O8L-es'
 tags: [ 'zapatilla', ]

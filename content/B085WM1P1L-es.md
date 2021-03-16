@@ -5,7 +5,7 @@ date: 2020-03-28 10:26:36
 image: 'https://m.media-amazon.com/images/I/41JHjg2CtVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085WM1P1L-es Verano de Deportivo Tops de Yoga Vests para Mujer Blusa...'
 sku: 'B085WM1P1L-es'
 tags: [ 'blusa','chaleco', ]

@@ -5,7 +5,7 @@ date: 2020-06-26 11:46:51
 image: 'https://m.media-amazon.com/images/I/41OBsnHtCmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JRG9R1-es Clarks Batcombe Wing Zapatos de Cordones Derby Negro Black...'
 sku: 'B071JRG9R1-es'
 tags: [ 'zapatos', ]

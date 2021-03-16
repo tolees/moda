@@ -5,7 +5,7 @@ date: 2020-01-05 19:11:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cw1lO9mLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL6Z8G-es G-STAR RAW Rovic Wrap Cargo Falda Gris Asfalt B436-995 XXS...'
 sku: 'B07NDL6Z8G-es'
 tags: [ 'falda', ]

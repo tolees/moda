@@ -5,7 +5,7 @@ date: 2020-05-23 19:46:18
 image: 'https://m.media-amazon.com/images/I/51nwZcpPGqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJCJ9WF-es ⭐ Za atar Libanés Del Chef ⭐ 200 Gr ⭐ NABÜR GOURMET ⭐...'
 sku: 'B07MJCJ9WF-es'
 tags: [ 'bolso', ]

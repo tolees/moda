@@ -5,7 +5,7 @@ date: 2020-07-22 08:23:29
 image: 'https://m.media-amazon.com/images/I/41U3ndMn7KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJZJL9H-es NORTH SAILS Cotton Jersey Sweatshirt'
 sku: 'B07VJZJL9H-es'
 tags: [ 'jersey', ]

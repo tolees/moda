@@ -5,7 +5,7 @@ date: 2020-09-05 17:34:43
 image: 'https://m.media-amazon.com/images/I/41rNCmP4eZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0047TAOG0-es Crocs Crocband U Zuecos Unisex Adulto Marrón Espresso-...'
 sku: 'B0047TAOG0-es'
 tags: [ 'zuecos', ]

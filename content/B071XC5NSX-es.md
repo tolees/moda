@@ -5,7 +5,7 @@ date: 2020-06-21 12:55:41
 image: 'https://m.media-amazon.com/images/I/41lnnR1b1zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XC5NSX-es Marca Amazon - find. Vestido Asimétrico para Mujer Rojo...'
 sku: 'B071XC5NSX-es'
 tags: [ '-','find.','vestido', ]

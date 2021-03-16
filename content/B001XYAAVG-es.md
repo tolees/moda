@@ -5,7 +5,7 @@ date: 2020-08-01 00:53:39
 image: 'https://m.media-amazon.com/images/I/41yCPVicrdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001XYAAVG-es Craft Cool Mesh Camiseta Interior para Hombre Hombre Black L'
 sku: 'B001XYAAVG-es'
 tags: [ 'camiseta', ]

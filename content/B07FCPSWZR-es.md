@@ -5,7 +5,7 @@ date: 2020-06-24 11:36:05
 image: 'https://m.media-amazon.com/images/I/31RcQ3bab4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCPSWZR-es REPLAY Zeumar Vaqueros Slim Azul Blue 10 36W / 32L para...'
 sku: 'B07FCPSWZR-es'
 tags: [ 'vaqueros', ]

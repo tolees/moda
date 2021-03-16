@@ -5,7 +5,7 @@ date: 2020-03-08 17:49:17
 image: 'https://m.media-amazon.com/images/I/41vl-+GrWAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NZKLQD-es Lee Marion Vaqueros Ninety Nine 28W / 35L para Mujer'
 sku: 'B077NZKLQD-es'
 tags: [ 'vaqueros', ]

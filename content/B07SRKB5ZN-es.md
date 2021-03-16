@@ -5,7 +5,7 @@ date: 2020-08-20 02:46:00
 image: 'https://m.media-amazon.com/images/I/41F5ApJW+BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRKB5ZN-es Geox D Hiver A Zapatillas para Mujer Beige Sand C5004 38 EU'
 sku: 'B07SRKB5ZN-es'
 tags: [ 'geox', ]

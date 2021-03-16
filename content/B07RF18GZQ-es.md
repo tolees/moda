@@ -5,7 +5,7 @@ date: 2020-08-23 21:12:56
 image: 'https://m.media-amazon.com/images/I/41QmphUM7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RF18GZQ-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Antic Faded Ripped...'
 sku: 'B07RF18GZQ-es'
 tags: [ 'vaqueros', ]

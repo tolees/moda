@@ -5,7 +5,7 @@ date: 2020-08-10 04:20:15
 image: 'https://m.media-amazon.com/images/I/31VNJw84GAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HZQM2RF-es find. Diagonal Weave Mule Sandalias con Punta Abierta...'
 sku: 'B07HZQM2RF-es'
 tags: [ 'sandalias', ]

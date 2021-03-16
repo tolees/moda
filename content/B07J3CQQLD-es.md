@@ -5,7 +5,7 @@ date: 2020-02-18 10:41:19
 image: 'https://m.media-amazon.com/images/I/31P6HPSvuGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3CQQLD-es Under Armour UA Streaker 2.0 Shortsleeve Camiseta Hombre...'
 sku: 'B07J3CQQLD-es'
 tags: [ 'camiseta', ]

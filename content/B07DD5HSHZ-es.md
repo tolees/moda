@@ -5,7 +5,7 @@ date: 2020-01-19 09:55:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OvxuDyS4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD5HSHZ-es Odlo Hoody Midlayer 1/2 Zip Steam Sudadera Mujer Gris...'
 sku: 'B07DD5HSHZ-es'
 tags: [ 'sudadera', ]

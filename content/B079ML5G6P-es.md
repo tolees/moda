@@ -5,7 +5,7 @@ date: 2020-05-25 20:55:40
 image: 'https://m.media-amazon.com/images/I/31olDLzQ13L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ML5G6P-es Marca Amazon - MERAKI Camiseta de Manga Corta Hombre Negro...'
 sku: 'B079ML5G6P-es'
 tags: [ 'camiseta','meraki', ]

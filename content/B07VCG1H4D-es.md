@@ -5,7 +5,7 @@ date: 2020-09-15 08:46:18
 image: 'https://m.media-amazon.com/images/I/41UY8hkumPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCG1H4D-es Desigual TS varsovia Camiseta Azul Estate Blue 5016 Medium...'
 sku: 'B07VCG1H4D-es'
 tags: [ 'camiseta', ]

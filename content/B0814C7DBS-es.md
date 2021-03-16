@@ -5,7 +5,7 @@ date: 2020-10-04 12:03:37
 image: 'https://m.media-amazon.com/images/I/41vekdkAcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814C7DBS-es Columbia Youth Nordic Strider Chaqueta para niña Niñas...'
 sku: 'B0814C7DBS-es'
 tags: [ 'chaqueta', ]

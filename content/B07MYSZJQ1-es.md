@@ -5,7 +5,7 @@ date: 2020-06-06 16:21:09
 image: 'https://m.media-amazon.com/images/I/414iT7snAVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYSZJQ1-es Zapatillas de Deporte Blanco para Las niñas Harpia Zapatos...'
 sku: 'B07MYSZJQ1-es'
 tags: [ 'moda','zapatos', ]

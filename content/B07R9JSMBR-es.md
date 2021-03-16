@@ -5,7 +5,7 @@ date: 2020-10-07 19:50:33
 image: 'https://m.media-amazon.com/images/I/41HSem-C1gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9JSMBR-es Aibrou Camiseta Lactancia Mujer Verano Camisetas Premama...'
 sku: 'B07R9JSMBR-es'
 tags: [ 'camiseta', ]

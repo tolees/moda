@@ -5,7 +5,7 @@ date: 2020-07-03 18:11:57
 image: 'https://m.media-amazon.com/images/I/31f5Ta7A5NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079XYKD7R-es PUMA Liga TR JSY Camiseta de Manga Corta Hombre Blanco...'
 sku: 'B079XYKD7R-es'
 tags: [ 'camiseta', ]

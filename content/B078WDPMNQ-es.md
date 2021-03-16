@@ -5,7 +5,7 @@ date: 2020-01-14 08:55:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AJweKhZSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WDPMNQ-es Ultrasport Basic Braguita de bikini para mujer Skara Azul...'
 sku: 'B078WDPMNQ-es'
 tags: [ 'bikini', ]

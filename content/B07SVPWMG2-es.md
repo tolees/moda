@@ -5,7 +5,7 @@ date: 2020-09-23 05:23:52
 image: 'https://m.media-amazon.com/images/I/41u6vrvb0aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPWMG2-es Geox D Sukie B Zapatillas para Mujer Beige Dk Skin C8191...'
 sku: 'B07SVPWMG2-es'
 tags: [ 'geox', ]

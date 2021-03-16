@@ -5,7 +5,7 @@ date: 2020-07-28 20:52:43
 image: 'https://m.media-amazon.com/images/I/514iSkKmDaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FH5DQP7-es Havaianas Hype Chanclas Unisex Adulto Multicolor...'
 sku: 'B07FH5DQP7-es'
 tags: [ 'chanclas', ]

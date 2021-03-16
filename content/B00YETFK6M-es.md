@@ -5,7 +5,7 @@ date: 2020-03-14 12:31:48
 image: 'https://m.media-amazon.com/images/I/31EwM3-syCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YETFK6M-es Biomecanics 151157 Zapatos de primeros pasos Unisex Bebés...'
 sku: 'B00YETFK6M-es'
 tags: [ 'zapatos', ]

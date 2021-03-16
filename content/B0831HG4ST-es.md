@@ -5,7 +5,7 @@ date: 2020-06-22 11:40:56
 image: 'https://m.media-amazon.com/images/I/41d1INNWdRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831HG4ST-es Marca Amazon - AURIQUE Low Impact Strappy - Sujetador...'
 sku: 'B0831HG4ST-es'
 tags: [ 'aurique', ]

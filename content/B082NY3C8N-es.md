@@ -5,7 +5,7 @@ date: 2020-04-20 19:35:40
 image: 'https://m.media-amazon.com/images/I/41gzl6UnL+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NY3C8N-es Oihxse Transparente Silicona Case Compatible con Huawei Y9...'
 sku: 'B082NY3C8N-es'
 tags: [ 'moda', ]

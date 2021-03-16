@@ -5,7 +5,7 @@ date: 2020-06-19 13:02:59
 image: 'https://m.media-amazon.com/images/I/31ovvWXWA5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPRFVB7-es Marca Amazon - MERAKI Shorts de Lino Mujer Negro Black 38...'
 sku: 'B07NPRFVB7-es'
 tags: [ 'meraki', ]

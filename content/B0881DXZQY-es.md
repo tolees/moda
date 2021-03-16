@@ -5,7 +5,7 @@ date: 2020-09-13 13:54:10
 image: 'https://m.media-amazon.com/images/I/51i0IIROhSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0881DXZQY-es HAOYE Funda para Sony Xperia L4 Funda Suave PU Cuero Flip...'
 sku: 'B0881DXZQY-es'
 tags: [ 'billetera', ]

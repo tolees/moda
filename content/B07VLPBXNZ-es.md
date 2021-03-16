@@ -5,7 +5,7 @@ date: 2020-05-27 15:31:22
 image: 'https://m.media-amazon.com/images/I/41y0W8phbOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLPBXNZ-es Lee Malone Vaqueros Light del Rey Ej 29W / 34L para Hombre'
 sku: 'B07VLPBXNZ-es'
 tags: [ 'vaqueros', ]

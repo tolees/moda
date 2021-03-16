@@ -5,7 +5,7 @@ date: 2020-09-24 19:59:50
 image: 'https://m.media-amazon.com/images/I/418gY-UBuDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5Q3PN8-es Jack & Jones Jcowiseman Sweat High Neck Ka Sudadera...'
 sku: 'B07Z5Q3PN8-es'
 tags: [ 'sudadera', ]

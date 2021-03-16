@@ -5,7 +5,7 @@ date: 2020-07-27 13:32:55
 image: 'https://m.media-amazon.com/images/I/41rSAfIi8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLPBTJ8-es Lee Pique Polo Camiseta Verde Utility Green NG L para Hombre'
 sku: 'B07VLPBTJ8-es'
 tags: [ 'camiseta', ]

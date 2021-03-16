@@ -5,7 +5,7 @@ date: 2020-03-16 18:53:13
 image: 'https://m.media-amazon.com/images/I/41gFSdaayxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3TLP2Y-es Desigual Dress Valentina Vestido Rojo Merlot 3215 48 Talla...'
 sku: 'B07N3TLP2Y-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-04-14 17:09:07
 image: 'https://m.media-amazon.com/images/I/41syywrIMPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3B1RLB-es Desigual Coat Letras Abrigo Azul Navy 5000 40 Talla del...'
 sku: 'B07N3B1RLB-es'
 tags: [ 'abrigo', ]

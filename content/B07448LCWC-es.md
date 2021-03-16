@@ -5,7 +5,7 @@ date: 2020-02-19 16:39:50
 image: 'https://m.media-amazon.com/images/I/51yHwLY5NbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07448LCWC-es vetoky Gafas de Natación Antiniebla Gafas para Nadar...'
 sku: 'B07448LCWC-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-08-18 09:33:34
 image: 'https://m.media-amazon.com/images/I/41TbtfcbcGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFYLP2F-es Levi s June L S Chanclas para Mujer Negro R Black 59 38 EU'
 sku: 'B07SFYLP2F-es'
 tags: [ 'chanclas', ]

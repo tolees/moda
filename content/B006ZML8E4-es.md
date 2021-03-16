@@ -5,7 +5,7 @@ date: 2020-09-26 16:46:54
 image: 'https://m.media-amazon.com/images/I/41rBq0+SG1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006ZML8E4-es Helly Hansen Crew Midlayer Chaqueta deportiva impermeable...'
 sku: 'B006ZML8E4-es'
 tags: [ 'chaqueta', ]

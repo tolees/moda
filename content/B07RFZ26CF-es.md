@@ -5,7 +5,7 @@ date: 2020-01-11 09:32:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313aoIxeT6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFZ26CF-es DC Comics Aquaman Logo Camiseta Negro Black Blk Small para...'
 sku: 'B07RFZ26CF-es'
 tags: [ 'camiseta', ]

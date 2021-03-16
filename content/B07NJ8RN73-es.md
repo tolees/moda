@@ -5,7 +5,7 @@ date: 2020-03-09 14:48:41
 image: 'https://m.media-amazon.com/images/I/41p1buTcOkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ8RN73-es Springfield 2.Zodiaco Rosa Camiseta Multicolor Multicolor...'
 sku: 'B07NJ8RN73-es'
 tags: [ 'camiseta', ]

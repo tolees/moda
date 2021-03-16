@@ -5,7 +5,7 @@ date: 2020-08-05 21:17:04
 image: 'https://m.media-amazon.com/images/I/514TZJEfeXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVXFP77-es LIGE Reloj para Hombre Negro Moda Relojes de Pulsera para...'
 sku: 'B07TVXFP77-es'
 tags: [ 'moda','vestido', ]

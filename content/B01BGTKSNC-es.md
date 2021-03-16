@@ -5,7 +5,7 @@ date: 2020-08-06 16:38:03
 image: 'https://m.media-amazon.com/images/I/41yhEke+0RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTKSNC-es G-STAR RAW 5620 3D Super Slim Vaqueros para Hombre Gris...'
 sku: 'B01BGTKSNC-es'
 tags: [ 'vaqueros', ]

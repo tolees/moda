@@ -5,7 +5,7 @@ date: 2020-07-21 21:09:32
 image: 'https://m.media-amazon.com/images/I/415Luj+LzaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXHXY74-es 6TN Hombre Nunca soñé Que sería un Viejo gruñón Pero aquí...'
 sku: 'B07TXHXY74-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-15 11:19:15
 image: 'https://m.media-amazon.com/images/I/411RjEdLy+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKS4PSX-es Battle Royale Camiseta para niño Gaming Negro 10-11 Años'
 sku: 'B07FKS4PSX-es'
 tags: [ 'camiseta', ]

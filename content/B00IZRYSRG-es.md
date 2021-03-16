@@ -5,7 +5,7 @@ date: 2020-06-06 16:24:12
 image: 'https://m.media-amazon.com/images/I/41rpruSGCAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IZRYSRG-es JAKO Fútbol Camiseta KA Camiseta United Todo el año...'
 sku: 'B00IZRYSRG-es'
 tags: [ 'camiseta', ]

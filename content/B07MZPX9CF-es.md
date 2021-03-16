@@ -5,7 +5,7 @@ date: 2020-07-10 18:01:34
 image: 'https://m.media-amazon.com/images/I/41z38eOnGSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPX9CF-es Pepe Jeans Edward Chaqueta Infinity 985 Medium para Hombre'
 sku: 'B07MZPX9CF-es'
 tags: [ 'chaqueta', ]

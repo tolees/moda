@@ -5,7 +5,7 @@ date: 2020-04-17 13:31:51
 image: 'https://m.media-amazon.com/images/I/41Ku7XTMl3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0836QDJJ3-es Slipper Casual Flip Flop Sandal Zapatillas para Mujer...'
 sku: 'B0836QDJJ3-es'
 tags: [ 'zapatos', ]

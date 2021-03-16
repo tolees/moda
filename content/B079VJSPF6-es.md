@@ -5,7 +5,7 @@ date: 2020-08-24 04:28:13
 image: 'https://m.media-amazon.com/images/I/31PG6KD2fFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VJSPF6-es Clarks Un Aldric Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B079VJSPF6-es'
 tags: [ 'zapatos', ]

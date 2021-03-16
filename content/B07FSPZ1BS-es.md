@@ -5,7 +5,7 @@ date: 2020-05-30 22:16:26
 image: 'https://m.media-amazon.com/images/I/31gnZEcI22L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSPZ1BS-es Clarks Un Maui Lace Zapatos de Cordones Derby para Mujer...'
 sku: 'B07FSPZ1BS-es'
 tags: [ 'zapatos', ]

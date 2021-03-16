@@ -5,7 +5,7 @@ date: 2020-02-03 15:39:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41D97x99ezL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXWLMA7-es TRANGO Neku Chaqueta Mujer Azul Tinta XS'
 sku: 'B01LXWLMA7-es'
 tags: [ 'chaqueta', ]

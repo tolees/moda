@@ -5,7 +5,7 @@ date: 2020-03-27 13:38:39
 image: 'https://m.media-amazon.com/images/I/51Q1+67uO7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD9G2VB-es ALLROS Gafas de Esquí Máscara Gafas ski Snowboard OTG...'
 sku: 'B07YD9G2VB-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-01-26 09:07:45
 image: 'https://m.media-amazon.com/images/I/41659JY-Q9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0BT7IK-es Under Armour Rival Fitted Full Zip Sudadera Hombre Azul...'
 sku: 'B01N0BT7IK-es'
 tags: [ 'sudadera', ]

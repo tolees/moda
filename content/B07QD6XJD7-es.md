@@ -5,7 +5,7 @@ date: 2020-01-22 15:41:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qTCZbNS7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD6XJD7-es PUMA Rebel Bold tee Camiseta Hombre White S'
 sku: 'B07QD6XJD7-es'
 tags: [ 'camiseta', ]

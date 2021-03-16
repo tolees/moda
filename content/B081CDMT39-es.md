@@ -5,7 +5,7 @@ date: 2020-03-04 08:32:47
 image: 'https://m.media-amazon.com/images/I/4152wBae5qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CDMT39-es Geographical Norway Chaqueta NIÑA Anson Rosa Llamativo 12'
 sku: 'B081CDMT39-es'
 tags: [ 'chaqueta', ]

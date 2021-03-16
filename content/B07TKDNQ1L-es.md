@@ -5,7 +5,7 @@ date: 2020-08-05 09:08:12
 image: 'https://m.media-amazon.com/images/I/31mLuUsbGQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDNQ1L-es Levi s Graphic Crew B Sudadera Verde Needle Hm Needle...'
 sku: 'B07TKDNQ1L-es'
 tags: [ 'sudadera', ]

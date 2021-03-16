@@ -5,7 +5,7 @@ date: 2020-02-12 16:56:51
 image: 'https://m.media-amazon.com/images/I/31gzn83iSIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792JWYKR-es Geox JR Agata D Zapatos de Cordones Brogue para Niñas...'
 sku: 'B0792JWYKR-es'
 tags: [ 'geox','zapatos', ]

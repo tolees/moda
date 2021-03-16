@@ -5,7 +5,7 @@ date: 2020-06-05 00:59:35
 image: 'https://m.media-amazon.com/images/I/51tFgz9cdNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCWJN5T-es Bebé Pijama Niños Pelele de Algodón Body Manga Corta...'
 sku: 'B07QCWJN5T-es'
 tags: [ 'pelele','pijama', ]

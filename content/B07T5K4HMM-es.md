@@ -5,7 +5,7 @@ date: 2020-08-07 19:36:43
 image: 'https://m.media-amazon.com/images/I/31CrDR7WrML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5K4HMM-es Teva Hurricane Drift Sandalias de Punta Descubierta para...'
 sku: 'B07T5K4HMM-es'
 tags: [ 'sandalias', ]

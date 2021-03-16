@@ -5,7 +5,7 @@ date: 2020-03-02 10:39:56
 image: 'https://m.media-amazon.com/images/I/41SoztjlZYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LPZ4N-es Wrangler Graphic Logo tee Camiseta Marfil Off White 737...'
 sku: 'B07M8LPZ4N-es'
 tags: [ 'camiseta', ]

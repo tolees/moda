@@ -5,7 +5,7 @@ date: 2020-09-09 10:44:55
 image: 'https://m.media-amazon.com/images/I/41u7OnnvCmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLJ13HX-es Tommy Hilfiger Tjw Colored Linear Logo tee Camiseta...'
 sku: 'B07VLJ13HX-es'
 tags: [ 'camiseta', ]

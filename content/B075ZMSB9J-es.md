@@ -5,7 +5,7 @@ date: 2020-02-02 10:24:52
 image: 'https://m.media-amazon.com/images/I/41GzPtdWXLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZMSB9J-es Zapatero Sable de 10 niveles almacenamiento para 50 pares...'
 sku: 'B075ZMSB9J-es'
 tags: [ 'zapatos', ]

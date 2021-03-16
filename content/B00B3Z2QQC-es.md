@@ -5,7 +5,7 @@ date: 2020-05-30 19:03:27
 image: 'https://m.media-amazon.com/images/I/31Hc7l3B44L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B3Z2QQC-es Nike Benassi JDI Chanclas Unisex Adulto Negro Black/White...'
 sku: 'B00B3Z2QQC-es'
 tags: [ 'chanclas', ]

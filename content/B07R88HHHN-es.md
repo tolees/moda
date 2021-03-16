@@ -5,7 +5,7 @@ date: 2020-09-29 20:23:34
 image: 'https://m.media-amazon.com/images/I/41+gqoO-GzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R88HHHN-es Helly Hansen Roam 2.5 Capa Chaqueta Impermeable con...'
 sku: 'B07R88HHHN-es'
 tags: [ 'chaqueta', ]

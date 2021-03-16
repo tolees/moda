@@ -5,7 +5,7 @@ date: 2020-02-01 02:31:09
 image: 'https://m.media-amazon.com/images/I/312TvD7nWSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMRG2W4-es HUGO Bill1921 Chaqueta Negro Black 001 Large para Hombre'
 sku: 'B07KMRG2W4-es'
 tags: [ 'chaqueta', ]

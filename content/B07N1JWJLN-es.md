@@ -5,7 +5,7 @@ date: 2020-04-19 19:04:30
 image: 'https://m.media-amazon.com/images/I/318RrHfB-IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JWJLN-es Clarks Adriel Mae Botines para Mujer Negro Black Leather...'
 sku: 'B07N1JWJLN-es'
 tags: [ 'botines', ]

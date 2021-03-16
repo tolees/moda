@@ -5,7 +5,7 @@ date: 2020-08-24 08:01:07
 image: 'https://m.media-amazon.com/images/I/41kzaCMOe2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DV95WMT-es Fallout Chaqueta XL Vault Capucha'
 sku: 'B07DV95WMT-es'
 tags: [ 'chaqueta', ]

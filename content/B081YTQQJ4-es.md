@@ -5,7 +5,7 @@ date: 2020-09-20 10:14:51
 image: 'https://m.media-amazon.com/images/I/413ARuPKCbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081YTQQJ4-es Jack & Jones Jorpex Sweat Hood Sudadera con Capucha Flan M...'
 sku: 'B081YTQQJ4-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-01-27 21:19:00
 image: 'https://m.media-amazon.com/images/I/41d829n7DXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFWJDKL-es MTNG Collection 58666 Botines para Mujer Negro Karma Negro...'
 sku: 'B07QFWJDKL-es'
 tags: [ 'botines', ]

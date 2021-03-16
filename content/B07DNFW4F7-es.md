@@ -5,7 +5,7 @@ date: 2020-08-04 09:01:47
 image: 'https://m.media-amazon.com/images/I/410r6XDKtkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNFW4F7-es Clarks Becken Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B07DNFW4F7-es'
 tags: [ 'zapatos', ]

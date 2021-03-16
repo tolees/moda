@@ -5,7 +5,7 @@ date: 2020-07-21 13:03:07
 image: 'https://m.media-amazon.com/images/I/51tEQyhXbBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSCQFTP-es TWBB Camiseta Hombre Cordon de Cuero Vintage Patchwork con...'
 sku: 'B07MSCQFTP-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-03-09 13:05:06
 image: 'https://m.media-amazon.com/images/I/411K13EQ+dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D85L8VZ-es Dickies Belspring Chaqueta Marrón Medium Talla del...'
 sku: 'B07D85L8VZ-es'
 tags: [ 'chaqueta', ]

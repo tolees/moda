@@ -5,7 +5,7 @@ date: 2020-07-17 18:11:51
 image: 'https://m.media-amazon.com/images/I/41ZZBO0ArtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ4N5L2-es Camisetas Hombre SHOBDW Verano de Lino Liso Algodón Talla...'
 sku: 'B07MZ4N5L2-es'
 tags: [ 'blusa','camiseta', ]

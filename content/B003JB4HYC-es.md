@@ -5,7 +5,7 @@ date: 2020-01-18 12:02:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CUW7ux3aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JB4HYC-es uhlsport Camiseta Stream II Manga Larga Todo el año Unisex...'
 sku: 'B003JB4HYC-es'
 tags: [ 'camiseta', ]

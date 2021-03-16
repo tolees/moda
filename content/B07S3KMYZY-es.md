@@ -5,7 +5,7 @@ date: 2020-07-30 11:34:35
 image: 'https://m.media-amazon.com/images/I/41OcQv8C-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3KMYZY-es Levi s Vneck Camiseta Negro Caviar 0003 X-Small para Mujer'
 sku: 'B07S3KMYZY-es'
 tags: [ 'camiseta', ]

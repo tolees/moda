@@ -5,7 +5,7 @@ date: 2020-06-23 15:40:57
 image: 'https://m.media-amazon.com/images/I/414RBck+gpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711CZHNV-es Marca Amazon - find. Camiseta Estampada de Mickey Mouse...'
 sku: 'B0711CZHNV-es'
 tags: [ '-','camiseta','find.', ]

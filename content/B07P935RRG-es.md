@@ -5,7 +5,7 @@ date: 2020-06-25 16:03:33
 image: 'https://m.media-amazon.com/images/I/41SIFst2pdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P935RRG-es Tous K Mini Bolso de Mano para Mujer Beige 795900418...'
 sku: 'B07P935RRG-es'
 tags: [ 'bolso', ]

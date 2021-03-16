@@ -5,7 +5,7 @@ date: 2020-03-25 11:53:25
 image: 'https://m.media-amazon.com/images/I/41gm3y7UB-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN65Y6R-es JACK & JONES Jprhague LS tee Crew Neck Tc319 Camisa Manga...'
 sku: 'B07VN65Y6R-es'
 tags: [ 'camisa', ]

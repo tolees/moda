@@ -5,7 +5,7 @@ date: 2020-07-20 20:42:49
 image: 'https://m.media-amazon.com/images/I/41qPeu4aCDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8GMP69-es bedee Chaqueta Impermeable para Lluvia Ligera de Mujer...'
 sku: 'B07T8GMP69-es'
 tags: [ 'chaqueta', ]

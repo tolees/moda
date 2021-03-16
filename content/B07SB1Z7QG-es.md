@@ -5,7 +5,7 @@ date: 2020-06-08 14:16:05
 image: 'https://m.media-amazon.com/images/I/21ymrRY0UGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB1Z7QG-es Helly Hansen Nord Graphic HH T-Shirt Camiseta Hombre White L'
 sku: 'B07SB1Z7QG-es'
 tags: [ 'camiseta', ]

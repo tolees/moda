@@ -5,7 +5,7 @@ date: 2020-01-19 22:43:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZJZjIcsbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004MMQDYO-es Josef Seibel Schuhfabrik GmbH Anvers 08 Zapatos de...'
 sku: 'B004MMQDYO-es'
 tags: [ 'zapatos', ]

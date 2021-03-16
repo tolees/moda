@@ -5,7 +5,7 @@ date: 2020-06-28 15:00:44
 image: 'https://m.media-amazon.com/images/I/31v-hhtvarL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQE8CQL-es Levi s 511 Slim Fit Vaqueros Nightshine X 36W / 34L para...'
 sku: 'B01MQE8CQL-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-09-26 12:21:21
 image: 'https://m.media-amazon.com/images/I/31FCyCUmhpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074QGVLMB-es Uvex Sportstyle 706 Gafas Deportivas Unisex Adulto Negro...'
 sku: 'B074QGVLMB-es'
 tags: [ 'gafas', ]

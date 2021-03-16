@@ -5,7 +5,7 @@ date: 2020-02-25 17:39:29
 image: 'https://m.media-amazon.com/images/I/41-buz5j3SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMXFJMK-es SimpleLife Bolso Bandolera de Las Mujeres holográfica...'
 sku: 'B07RMXFJMK-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-08-11 18:43:20
 image: 'https://m.media-amazon.com/images/I/41GUUTdRlyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXDV9M1-es Levi s The Original Camiseta Azul Hm Patch OG tee...'
 sku: 'B07TXDV9M1-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-03-03 11:41:33
 image: 'https://m.media-amazon.com/images/I/41qIhmqbC8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N39NSQQ-es Desigual Dress LORETHA Vestido Negro 2000 44 Talla del...'
 sku: 'B07N39NSQQ-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-04-29 08:44:18
 image: 'https://m.media-amazon.com/images/I/31QiqOgdDKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E5NDXOM-es Joma Combi s/m Camiseta Técnica sin Manga Unisex Rojo L'
 sku: 'B01E5NDXOM-es'
 tags: [ 'camiseta', ]

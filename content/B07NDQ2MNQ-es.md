@@ -5,7 +5,7 @@ date: 2020-06-13 13:55:42
 image: 'https://m.media-amazon.com/images/I/31sqXz8p85L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDQ2MNQ-es G-STAR RAW Alkyne Slim Camiseta Negro White 110 XX-Small...'
 sku: 'B07NDQ2MNQ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-01-17 08:05:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NYUPi18hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TH2WD3E-es Berydale CAmisa para mujer estilo Carmen Blanco 34'
 sku: 'B00TH2WD3E-es'
 tags: [ 'camisa', ]

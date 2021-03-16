@@ -5,7 +5,7 @@ date: 2020-02-28 10:42:10
 image: 'https://m.media-amazon.com/images/I/41H3EA1OVGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXVBPSB-es JACK & JONES Jjitim Jjoriginal Am 815 Vaqueros Skinny Azul...'
 sku: 'B07KXVBPSB-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-09-25 12:25:55
 image: 'https://m.media-amazon.com/images/I/310+V9xrsmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLMDP3K-es Jack & Jones JJICHRIS Jjoriginal CR 097 Vaqueros Relaxed...'
 sku: 'B07XLMDP3K-es'
 tags: [ 'vaqueros', ]

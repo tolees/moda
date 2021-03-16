@@ -5,7 +5,7 @@ date: 2020-06-27 08:47:29
 image: 'https://m.media-amazon.com/images/I/31qP4bK+JVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XBNK11-es Under Armour UA Challenger II Pantalones para Hombre...'
 sku: 'B077XBNK11-es'
 tags: [ 'pantalón', ]

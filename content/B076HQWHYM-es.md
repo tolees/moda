@@ -5,7 +5,7 @@ date: 2020-09-12 10:45:13
 image: 'https://m.media-amazon.com/images/I/41tXMycABsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HQWHYM-es Adidas CORE18 SW Top Sudadera Hombre Azul Azul/Blanco L'
 sku: 'B076HQWHYM-es'
 tags: [ 'sudadera', ]

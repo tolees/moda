@@ -5,7 +5,7 @@ date: 2020-05-17 10:41:33
 image: 'https://m.media-amazon.com/images/I/41LcVZWfqqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KG6BB5-es Suhctup Funda Compatible con iPhone 7/8/SE2 Antigolpes...'
 sku: 'B088KG6BB5-es'
 tags: [ 'moda', ]

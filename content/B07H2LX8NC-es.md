@@ -5,7 +5,7 @@ date: 2020-01-19 17:07:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OdH-eW7GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2LX8NC-es Goodbye Rita. Round 6 Gafas Azul Talla Única Mujeres'
 sku: 'B07H2LX8NC-es'
 tags: [ 'gafas', ]

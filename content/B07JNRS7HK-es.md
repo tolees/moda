@@ -5,7 +5,7 @@ date: 2020-05-08 15:52:15
 image: 'https://m.media-amazon.com/images/I/31YqZj67ypL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNRS7HK-es Amazon Essentials - Vestido largo de manga corta para...'
 sku: 'B07JNRS7HK-es'
 tags: [ 'vestido', ]

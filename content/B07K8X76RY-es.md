@@ -5,7 +5,7 @@ date: 2020-06-11 13:17:16
 image: 'https://m.media-amazon.com/images/I/31HrPgXhnwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8X76RY-es G-STAR RAW 3301 Slim Vaqueros Ultra Dk Aged 8968-9112 26W...'
 sku: 'B07K8X76RY-es'
 tags: [ 'vaqueros', ]

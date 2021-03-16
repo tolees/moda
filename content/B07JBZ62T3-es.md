@@ -5,7 +5,7 @@ date: 2019-12-31 15:51:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WGY02KjSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBZ62T3-es Columbia Powder Lite Jacket Chaqueta Hombre Amarillo...'
 sku: 'B07JBZ62T3-es'
 tags: [ 'chaqueta', ]

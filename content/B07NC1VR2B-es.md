@@ -5,7 +5,7 @@ date: 2020-06-13 07:55:47
 image: 'https://m.media-amazon.com/images/I/41WDVfQZtCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC1VR2B-es Dorina Casablanca Maillot De Bain Braguita de Bikini Negro...'
 sku: 'B07NC1VR2B-es'
 tags: [ 'bikini', ]

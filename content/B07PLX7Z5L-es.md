@@ -5,7 +5,7 @@ date: 2020-05-23 12:08:46
 image: 'https://m.media-amazon.com/images/I/41VC+ZNnsFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLX7Z5L-es Ogquaton Calidad superior 4 piezas Moda Zircon Crystal Cat...'
 sku: 'B07PLX7Z5L-es'
 tags: [ 'collar','moda', ]

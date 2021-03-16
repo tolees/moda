@@ -5,7 +5,7 @@ date: 2020-07-12 15:29:39
 image: 'https://m.media-amazon.com/images/I/41d5h1E1ssL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ6YTMV-es Lacoste Th3377 Camiseta Plateado Argent Chiné/Marine Mnc...'
 sku: 'B07JJ6YTMV-es'
 tags: [ 'camiseta', ]

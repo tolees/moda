@@ -5,7 +5,7 @@ date: 2020-02-22 19:42:22
 image: 'https://m.media-amazon.com/images/I/41ceB9oLOKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ET4MO5Q-es Helly Hansen W Aden Long Chaqueta Mujer Black L'
 sku: 'B01ET4MO5Q-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-01-13 19:06:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ijf-iGctL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5ZB5ZF-es G-STAR RAW Motac-x R N SS Camiseta Negro dk Black 6484...'
 sku: 'B07M5ZB5ZF-es'
 tags: [ 'camiseta', ]

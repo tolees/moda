@@ -5,7 +5,7 @@ date: 2020-05-27 17:17:50
 image: 'https://m.media-amazon.com/images/I/51-7lNekcNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007QAQQ14-es Cressi Portofino Chanclas Flip Flops Hombre Azul/Blanco...'
 sku: 'B007QAQQ14-es'
 tags: [ 'chanclas', ]

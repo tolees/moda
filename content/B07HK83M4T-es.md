@@ -5,7 +5,7 @@ date: 2020-03-10 13:34:24
 image: 'https://m.media-amazon.com/images/I/41YSXa0YU9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HK83M4T-es Amazon Essentials - Chaqueta para hombre Camo US L EU L'
 sku: 'B07HK83M4T-es'
 tags: [ 'chaqueta', ]

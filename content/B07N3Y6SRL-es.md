@@ -5,7 +5,7 @@ date: 2020-02-24 20:16:49
 image: 'https://m.media-amazon.com/images/I/41ljEqQwvRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3Y6SRL-es Desigual Skirt Kape Falda Negro Negro 2000 X-Large para Mujer'
 sku: 'B07N3Y6SRL-es'
 tags: [ 'falda', ]

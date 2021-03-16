@@ -5,7 +5,7 @@ date: 2020-05-19 19:23:29
 image: 'https://m.media-amazon.com/images/I/41oKHCZDJHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2VNKWG-es Columbia Pouring Adventu Chaqueta Hombre Azul Hyper...'
 sku: 'B01N2VNKWG-es'
 tags: [ 'chaqueta', ]

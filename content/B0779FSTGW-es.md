@@ -5,7 +5,7 @@ date: 2020-01-13 13:35:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41X0I7bWOdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779FSTGW-es Clarks Originals Wallabee Zapatos de Cordones Derby para...'
 sku: 'B0779FSTGW-es'
 tags: [ 'zapatos', ]

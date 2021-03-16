@@ -5,7 +5,7 @@ date: 2020-07-01 14:23:37
 image: 'https://m.media-amazon.com/images/I/31e4ZwfrnrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MWN4KW2-es Uvex Sportstyle 802 Vario Gafas de Ciclismo Unisex Adulto...'
 sku: 'B00MWN4KW2-es'
 tags: [ 'gafas', ]

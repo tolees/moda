@@ -5,7 +5,7 @@ date: 2020-05-29 12:11:41
 image: 'https://m.media-amazon.com/images/I/21z-rVII7uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PK5HJY1-es HAWKERS Gafas de sol Negro/Azul One Size Womens'
 sku: 'B07PK5HJY1-es'
 tags: [ 'gafas', ]

@@ -5,7 +5,7 @@ date: 2020-01-27 17:28:05
 image: 'https://m.media-amazon.com/images/I/41HqHS3AyIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSQ6R4G-es Under Armour Mfo Let The Gains Begin SS Camiseta Hombre...'
 sku: 'B07KSQ6R4G-es'
 tags: [ 'camiseta', ]

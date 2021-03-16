@@ -5,7 +5,7 @@ date: 2020-05-23 22:12:38
 image: 'https://m.media-amazon.com/images/I/51y70YqA3DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG5WM6Y-es Marca Amazon - find. Camisa Hombre Azul Navy Polka S Label: S'
 sku: 'B06XG5WM6Y-es'
 tags: [ '-','camisa','find.', ]

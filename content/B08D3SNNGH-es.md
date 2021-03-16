@@ -5,7 +5,7 @@ date: 2020-08-24 22:02:30
 image: 'https://m.media-amazon.com/images/I/41pbP-34tJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3SNNGH-es Doaraha Camisón de Maternidad para Mujer Vestido Lactancia...'
 sku: 'B08D3SNNGH-es'
 tags: [ 'pijama','vestido', ]

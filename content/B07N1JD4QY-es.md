@@ -5,7 +5,7 @@ date: 2020-02-02 09:57:45
 image: 'https://m.media-amazon.com/images/I/41ngXZdl3xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JD4QY-es Clarks Laina RAE Botines para Mujer Marrón Dark Brown 36 EU'
 sku: 'B07N1JD4QY-es'
 tags: [ 'botines', ]

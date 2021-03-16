@@ -5,7 +5,7 @@ date: 2020-01-07 20:34:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31i%2B7Uh-MsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPP6G-es Napapijri Rainforest W WINT 3 Chaqueta Azul BLU Marine 176...'
 sku: 'B07MCSPP6G-es'
 tags: [ 'chaqueta', ]

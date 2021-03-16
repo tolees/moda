@@ -5,7 +5,7 @@ date: 2020-09-16 16:53:07
 image: 'https://m.media-amazon.com/images/I/31ipxAkb2SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z591DRN-es Marca Amazon - find. Square Toe Block Heel Slingback...'
 sku: 'B07Z591DRN-es'
 tags: [ '-','find.','zapatos', ]

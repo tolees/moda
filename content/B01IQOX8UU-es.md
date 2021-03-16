@@ -5,7 +5,7 @@ date: 2020-06-25 19:31:13
 image: 'https://m.media-amazon.com/images/I/41RJJrM0oPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IQOX8UU-es Desconocido Botas Zapatos Fashion Princesa Encaje PU para...'
 sku: 'B01IQOX8UU-es'
 tags: [ 'zapatos', ]

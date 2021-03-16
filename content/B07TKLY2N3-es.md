@@ -5,7 +5,7 @@ date: 2020-03-18 11:46:23
 image: 'https://m.media-amazon.com/images/I/31EBULZyE-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKLY2N3-es HAWKERS · ONE · Carbon Black · Dark Polarized · Gafas de...'
 sku: 'B07TKLY2N3-es'
 tags: [ 'gafas', ]

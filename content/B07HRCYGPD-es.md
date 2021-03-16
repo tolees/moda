@@ -5,7 +5,7 @@ date: 2020-07-15 03:08:49
 image: 'https://m.media-amazon.com/images/I/41ORTFgbFsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRCYGPD-es Marca Amazon - find. Short Sleeve Flannel Shirt Hombre...'
 sku: 'B07HRCYGPD-es'
 tags: [ '-','find.', ]

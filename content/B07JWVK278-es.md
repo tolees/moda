@@ -5,7 +5,7 @@ date: 2020-06-24 09:04:50
 image: 'https://m.media-amazon.com/images/I/41jckZHVOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWVK278-es PUMA Cup Casuals tee Camiseta Hombre Blanco Whisper White...'
 sku: 'B07JWVK278-es'
 tags: [ 'camiseta', ]

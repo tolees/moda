@@ -5,7 +5,7 @@ date: 2020-01-15 17:55:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41avXn9lodL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYWVNZL-es Columbia Pantalón Impermeable para Hombre Maxtrail II...'
 sku: 'B07DYWVNZL-es'
 tags: [ 'pantalón', ]

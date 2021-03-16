@@ -5,7 +5,7 @@ date: 2020-07-10 16:47:07
 image: 'https://m.media-amazon.com/images/I/41CxiFQZalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S854BXY-es Crocs Crocband Zuecos Unisex Adulto Naranja Orange/White...'
 sku: 'B07S854BXY-es'
 tags: [ 'zuecos', ]

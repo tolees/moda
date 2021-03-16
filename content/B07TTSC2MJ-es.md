@@ -5,7 +5,7 @@ date: 2020-01-22 15:10:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410BjdtdMgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTSC2MJ-es Huntvp Chaleco Táctico Militar al Aire Libre Ajustable...'
 sku: 'B07TTSC2MJ-es'
 tags: [ 'chaleco', ]

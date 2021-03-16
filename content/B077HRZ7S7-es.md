@@ -5,7 +5,7 @@ date: 2020-06-18 16:36:50
 image: 'https://m.media-amazon.com/images/I/51bRRxe9GIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HRZ7S7-es Marca Amazon - find. Vestido Midi de Flores Mujer Verde...'
 sku: 'B077HRZ7S7-es'
 tags: [ '-','find.','vestido', ]

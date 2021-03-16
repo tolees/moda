@@ -5,7 +5,7 @@ date: 2020-09-26 05:00:47
 image: 'https://m.media-amazon.com/images/I/41ceH31k2pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGQGWDR-es PROSTEEL Collar de Oro con Colgante Guitarra electrónica...'
 sku: 'B07GGQGWDR-es'
 tags: [ 'collar', ]

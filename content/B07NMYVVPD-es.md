@@ -5,7 +5,7 @@ date: 2020-09-11 00:06:14
 image: 'https://m.media-amazon.com/images/I/41F8RVTvRgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NMYVVPD-es Nike Court Vision Mid Zapatos de Baloncesto para Hombre...'
 sku: 'B07NMYVVPD-es'
 tags: [ 'zapatos', ]

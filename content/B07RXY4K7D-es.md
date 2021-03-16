@@ -5,7 +5,7 @@ date: 2020-07-18 18:11:18
 image: 'https://m.media-amazon.com/images/I/41I+aQxMffL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXY4K7D-es Pepe Jeans Avalon Sudadera Azul Thames 583 Talla única...'
 sku: 'B07RXY4K7D-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-06-18 21:01:10
 image: 'https://m.media-amazon.com/images/I/41as+hmRdeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N99DXHK-es Pepe Jeans Flag Logo Camiseta Negro Black 999 X-Small para...'
 sku: 'B07N99DXHK-es'
 tags: [ 'camiseta', ]

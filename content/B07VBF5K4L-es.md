@@ -5,7 +5,7 @@ date: 2020-08-27 19:10:34
 image: 'https://m.media-amazon.com/images/I/41VNgIuJXaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBF5K4L-es Desigual Bols Intra Merlo H - Bolso con asa 14 x 27 5 x 40...'
 sku: 'B07VBF5K4L-es'
 tags: [ 'bolso', ]

@@ -5,7 +5,7 @@ date: 2020-09-15 16:25:18
 image: 'https://m.media-amazon.com/images/I/41lSMfYl9eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0823BZK5Z-es Jack & Jones Sweatshirt Sudadera Detalle: Nueva White...'
 sku: 'B0823BZK5Z-es'
 tags: [ 'sudadera', ]

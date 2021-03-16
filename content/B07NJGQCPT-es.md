@@ -5,7 +5,7 @@ date: 2020-04-08 19:28:26
 image: 'https://m.media-amazon.com/images/I/41BbY1x4cVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJGQCPT-es Dolores Promesas 108146 Camiseta Verde Verde Verde 00 000...'
 sku: 'B07NJGQCPT-es'
 tags: [ 'camiseta', ]

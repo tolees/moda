@@ -5,7 +5,7 @@ date: 2020-07-16 18:02:19
 image: 'https://m.media-amazon.com/images/I/31xwKSCUjIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RPZRBQ-es Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto...'
 sku: 'B073RPZRBQ-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-09-28 18:43:23
 image: 'https://m.media-amazon.com/images/I/31DaF+tCf2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SP3YV84-es Under Armour Rush Heatgear Compression Camisa Manga Corta...'
 sku: 'B07SP3YV84-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-01-22 14:13:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QmrG8TESL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J1LYWT8-es Crocs Crocband Clog Kids Zuecos Unisex Niños Beige...'
 sku: 'B01J1LYWT8-es'
 tags: [ 'zuecos', ]

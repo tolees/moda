@@ -5,7 +5,7 @@ date: 2020-09-02 17:45:32
 image: 'https://m.media-amazon.com/images/I/41pPBJSuO3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822H5HCY-es Oihxse Case Compatible conHuawei Mate 20 Pro Funda...'
 sku: 'B0822H5HCY-es'
 tags: [ 'moda', ]

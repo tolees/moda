@@ -5,7 +5,7 @@ date: 2020-09-10 15:44:50
 image: 'https://m.media-amazon.com/images/I/31kpxX7CXSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KWK2MWC-es Geox U Nebula B - Zapatos para hombre Negro 46 EU'
 sku: 'B00KWK2MWC-es'
 tags: [ 'geox','zapatos', ]

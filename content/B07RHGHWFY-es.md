@@ -5,7 +5,7 @@ date: 2020-01-26 17:18:54
 image: 'https://m.media-amazon.com/images/I/312bbP-YpkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHGHWFY-es Tommy Hilfiger Corp Split tee Camiseta Deporte Azul Blue...'
 sku: 'B07RHGHWFY-es'
 tags: [ 'camiseta', ]

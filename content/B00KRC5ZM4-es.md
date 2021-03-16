@@ -5,7 +5,7 @@ date: 2020-01-03 18:56:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417qZDmbJYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KRC5ZM4-es SELECTED 16040493 - Camisa casual de manga larga para...'
 sku: 'B00KRC5ZM4-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-01-18 21:28:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nuuOgCp8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721CCZW1-es find. Vestido Recto para Mujer Rosa 38 Talla del...'
 sku: 'B0721CCZW1-es'
 tags: [ 'vestido', ]

@@ -5,7 +5,7 @@ date: 2020-06-23 12:04:02
 image: 'https://m.media-amazon.com/images/I/51YppS7gbLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJSWZ1X-es Desigual Bols legacy Holbox - Bolso con asas 17 x 30 5 x...'
 sku: 'B07VJSWZ1X-es'
 tags: [ 'bolso', ]

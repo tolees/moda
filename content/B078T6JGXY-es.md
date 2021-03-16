@@ -5,7 +5,7 @@ date: 2020-05-15 08:17:00
 image: 'https://m.media-amazon.com/images/I/41BG7VNN7OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T6JGXY-es Puma Liga Casuals Hoody Jacket Chaqueta Hombre Pepper...'
 sku: 'B078T6JGXY-es'
 tags: [ 'chaqueta', ]

@@ -5,7 +5,7 @@ date: 2020-09-30 14:48:33
 image: 'https://m.media-amazon.com/images/I/41couX57ImL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HGM88D1-es #N/A 2 Juegos Ropa de Vestir de Moda para Muñecas Chicas...'
 sku: 'B08HGM88D1-es'
 tags: [ 'moda', ]

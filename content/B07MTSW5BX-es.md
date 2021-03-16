@@ -5,7 +5,7 @@ date: 2020-07-07 13:55:50
 image: 'https://m.media-amazon.com/images/I/31r8iKktytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTSW5BX-es Pepe Jeans Pixie Vaqueros Pitillo Hombre Azul Destroy...'
 sku: 'B07MTSW5BX-es'
 tags: [ 'vaqueros', ]

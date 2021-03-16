@@ -5,7 +5,7 @@ date: 2020-06-16 09:49:41
 image: 'https://m.media-amazon.com/images/I/41q-okmQAXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1DC86X-es Timberland Perkins Row 2-Strap Sandalias con Punta Abierta...'
 sku: 'B07T1DC86X-es'
 tags: [ 'sandalias','timberland', ]

@@ -5,7 +5,7 @@ date: 2020-05-31 13:18:39
 image: 'https://m.media-amazon.com/images/I/41WV2e8U2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF6FCBW-es Hackett London Amr Print Crew Sudadera Rojo 1bkorange Lacq...'
 sku: 'B07VF6FCBW-es'
 tags: [ 'sudadera', ]

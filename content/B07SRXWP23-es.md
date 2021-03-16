@@ -5,7 +5,7 @@ date: 2020-09-10 06:40:59
 image: 'https://m.media-amazon.com/images/I/41zREKX8eQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRXWP23-es dockers Alpha 360 Button Up Camisa Casual Azul Pembroke...'
 sku: 'B07SRXWP23-es'
 tags: [ 'camisa', ]

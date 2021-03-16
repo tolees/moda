@@ -5,7 +5,7 @@ date: 2020-06-27 09:37:03
 image: 'https://m.media-amazon.com/images/I/41YQEmNh0HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSJ56HB-es Geox B Waviness Girl C Zapatillas para Bebés Rosa Pink...'
 sku: 'B07SSJ56HB-es'
 tags: [ 'geox', ]

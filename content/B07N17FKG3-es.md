@@ -5,7 +5,7 @@ date: 2020-05-06 19:39:02
 image: 'https://m.media-amazon.com/images/I/4155MgtBlRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N17FKG3-es Lee Scarlett Vaqueros Skinny Gris Dark Grey Ovid Dw 25W /...'
 sku: 'B07N17FKG3-es'
 tags: [ 'vaqueros', ]

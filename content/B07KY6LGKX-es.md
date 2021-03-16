@@ -5,7 +5,7 @@ date: 2020-08-29 20:34:46
 image: 'https://m.media-amazon.com/images/I/41YimLxPY1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KY6LGKX-es Yosemy Tarjetero para Tarjetas de Crédito Delgado...'
 sku: 'B07KY6LGKX-es'
 tags: [ 'billetera', ]

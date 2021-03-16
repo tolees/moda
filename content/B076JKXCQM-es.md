@@ -5,7 +5,7 @@ date: 2020-02-01 23:59:40
 image: 'https://m.media-amazon.com/images/I/41p-BLByscL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JKXCQM-es Hollywood Star - Camiseta de Manga Larga Lisa con Cuello...'
 sku: 'B076JKXCQM-es'
 tags: [ 'camiseta', ]

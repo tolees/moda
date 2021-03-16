@@ -5,7 +5,7 @@ date: 2020-08-09 07:50:24
 image: 'https://m.media-amazon.com/images/I/31jFmpJrocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TPPGQ7C-es Lacoste Sudadera para Hombre Black 31 Medium Talla del...'
 sku: 'B00TPPGQ7C-es'
 tags: [ 'sudadera', ]

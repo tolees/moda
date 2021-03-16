@@ -5,7 +5,7 @@ date: 2020-01-04 12:40:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CG9QpscIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0714MTQJY-es Khanomak - Pantalón Corto Deportivo - para Mujer Negro...'
 sku: 'B0714MTQJY-es'
 tags: [ 'pantalón', ]

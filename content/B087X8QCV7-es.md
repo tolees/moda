@@ -5,7 +5,7 @@ date: 2020-08-16 07:16:04
 image: 'https://m.media-amazon.com/images/I/4152A8ZvLbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087X8QCV7-es TEX - Pantalón Corto de Deporte para Hombre Gris Oscuro XL'
 sku: 'B087X8QCV7-es'
 tags: [ 'pantalón', ]

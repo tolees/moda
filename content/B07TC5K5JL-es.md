@@ -5,7 +5,7 @@ date: 2020-01-01 18:23:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41s5cEhQ2dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TC5K5JL-es Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta...'
 sku: 'B07TC5K5JL-es'
 tags: [ 'chaqueta','moda', ]

@@ -5,7 +5,7 @@ date: 2020-06-24 09:11:58
 image: 'https://m.media-amazon.com/images/I/41T516M4g5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBYCKFH-es Tous Billetera M. Carlata Plata-Rosa Monedero para Mujer...'
 sku: 'B07NBYCKFH-es'
 tags: [ 'billetera','monedero', ]

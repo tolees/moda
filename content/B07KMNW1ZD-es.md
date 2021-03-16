@@ -5,7 +5,7 @@ date: 2020-06-24 09:33:12
 image: 'https://m.media-amazon.com/images/I/41gLLMlOaRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMNW1ZD-es adidas Essentials Chelsea 7 Inch 3 Bandas Pantalón Corto...'
 sku: 'B07KMNW1ZD-es'
 tags: [ 'pantalón', ]

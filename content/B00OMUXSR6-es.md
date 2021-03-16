@@ -5,7 +5,7 @@ date: 2020-02-16 12:18:24
 image: 'https://m.media-amazon.com/images/I/41qGL9JeOML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OMUXSR6-es Chung Shi Sensomo I Zapatos Brogue para Hombre Marrón...'
 sku: 'B00OMUXSR6-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-06-03 02:05:37
 image: 'https://m.media-amazon.com/images/I/31+X4kPgCWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJH98VD-es G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros Azul...'
 sku: 'B07BJH98VD-es'
 tags: [ 'vaqueros', ]

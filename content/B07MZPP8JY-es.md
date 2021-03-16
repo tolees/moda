@@ -5,7 +5,7 @@ date: 2020-03-09 16:25:57
 image: 'https://m.media-amazon.com/images/I/412+21wvadL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPP8JY-es Pepe Jeans Loganne Sudadera Dulwich 594 X-Large para Hombre'
 sku: 'B07MZPP8JY-es'
 tags: [ 'sudadera', ]

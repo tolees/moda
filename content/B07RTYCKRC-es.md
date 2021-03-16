@@ -5,7 +5,7 @@ date: 2020-06-16 09:46:00
 image: 'https://m.media-amazon.com/images/I/31stUUURkDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTYCKRC-es Emoji Camiseta de Manga Corta para niñas Llama Blanco...'
 sku: 'B07RTYCKRC-es'
 tags: [ 'camiseta', ]

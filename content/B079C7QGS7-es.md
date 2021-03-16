@@ -5,7 +5,7 @@ date: 2020-01-15 17:25:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31k866nLYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079C7QGS7-es JACK & JONES Jjebas tee SS U-Neck Noos Camiseta Azul Navy...'
 sku: 'B079C7QGS7-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-02-07 19:07:50
 image: 'https://m.media-amazon.com/images/I/41YRVhM37xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B59H4QX-es G-STAR RAW D-STAQ 3D Skinny Vaqueros Azul medium aged...'
 sku: 'B07B59H4QX-es'
 tags: [ 'vaqueros', ]

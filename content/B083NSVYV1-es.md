@@ -5,7 +5,7 @@ date: 2020-09-14 16:08:12
 image: 'https://m.media-amazon.com/images/I/41LRq96T5ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NSVYV1-es Zapatos de Agua Escarpines Hombres Mujer Niños Verano...'
 sku: 'B083NSVYV1-es'
 tags: [ 'zapatos', ]

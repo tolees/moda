@@ -5,7 +5,7 @@ date: 2020-06-21 14:34:53
 image: 'https://m.media-amazon.com/images/I/51i4C3oQlKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B11JXD3-es Marca Amazon - find. Vestido de Flores por Media Pierna...'
 sku: 'B07B11JXD3-es'
 tags: [ '-','find.','vestido', ]

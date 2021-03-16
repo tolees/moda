@@ -5,7 +5,7 @@ date: 2020-01-01 20:28:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZqZ4C%2B1kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFV9MTM-es Geox U HALLSON A Botas Chukka para Hombre Amarillo Curry...'
 sku: 'B07LFV9MTM-es'
 tags: [ 'geox', ]

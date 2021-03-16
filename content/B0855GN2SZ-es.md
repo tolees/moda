@@ -5,7 +5,7 @@ date: 2020-06-27 13:41:23
 image: 'https://m.media-amazon.com/images/I/31U9N5t+4KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0855GN2SZ-es New Balance Sandalias Chanclas K2013 HPK para Niñas Rosa...'
 sku: 'B0855GN2SZ-es'
 tags: [ 'chanclas','sandalias', ]

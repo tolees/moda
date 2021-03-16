@@ -5,7 +5,7 @@ date: 2020-04-05 16:48:30
 image: 'https://m.media-amazon.com/images/I/41VdLcje1oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVNS4JN-es Only Onlantonia Faux Suede Midi Skirt Otw Falda Negro...'
 sku: 'B07TVNS4JN-es'
 tags: [ 'falda', ]

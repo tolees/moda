@@ -5,7 +5,7 @@ date: 2020-07-15 13:19:56
 image: 'https://m.media-amazon.com/images/I/418lbnKit-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT5XK6G-es Superdry Super Sleek Flip Flop Chanclas para Mujer Rosa...'
 sku: 'B07TT5XK6G-es'
 tags: [ 'chanclas', ]

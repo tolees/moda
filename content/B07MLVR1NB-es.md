@@ -5,7 +5,7 @@ date: 2020-09-08 02:31:35
 image: 'https://m.media-amazon.com/images/I/41E8+bBA87L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLVR1NB-es Marca Amazon - find. Abrigo Cruzado de Cuadros Hombre Rojo...'
 sku: 'B07MLVR1NB-es'
 tags: [ '-','abrigo','find.', ]

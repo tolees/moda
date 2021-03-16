@@ -5,7 +5,7 @@ date: 2020-06-02 08:55:13
 image: 'https://m.media-amazon.com/images/I/41myyJs0ohL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSMBRF3-es Apanphy® Bolsa de Aseo Neceseres de Viaje Travel Bolso...'
 sku: 'B07TSMBRF3-es'
 tags: [ 'bolso', ]

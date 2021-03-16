@@ -5,7 +5,7 @@ date: 2020-02-17 17:02:31
 image: 'https://m.media-amazon.com/images/I/41+F1IDwYEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCGCGFG-es Esprit 099ee1g043 Abrigo Gris Anthracite 010 Large para Mujer'
 sku: 'B07VCGCGFG-es'
 tags: [ 'abrigo', ]

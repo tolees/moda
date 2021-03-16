@@ -5,7 +5,7 @@ date: 2020-06-02 20:07:23
 image: 'https://m.media-amazon.com/images/I/41gy+E9IQfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZMHX7W-es Pepe Jeans Rogery Chaqueta Brass 891 Medium para Hombre'
 sku: 'B07MZMHX7W-es'
 tags: [ 'chaqueta', ]

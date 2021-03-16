@@ -5,7 +5,7 @@ date: 2020-09-20 14:52:44
 image: 'https://m.media-amazon.com/images/I/31HrPgXhnwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8YHTBZ-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Ultra Dk Aged Blue...'
 sku: 'B07K8YHTBZ-es'
 tags: [ 'vaqueros', ]

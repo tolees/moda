@@ -5,7 +5,7 @@ date: 2020-06-25 07:23:36
 image: 'https://m.media-amazon.com/images/I/51afgahU1oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6VYZZS-es El Naturalista Myth Yggdrasil Botines para Mujer Gris...'
 sku: 'B07S6VYZZS-es'
 tags: [ 'botines', ]

@@ -5,7 +5,7 @@ date: 2020-08-03 11:22:50
 image: 'https://m.media-amazon.com/images/I/41zCuiVCyBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGQP1BL-es Desigual Vest Bondi Vestido Azul Turkish Sea 5114 Small...'
 sku: 'B07VGQP1BL-es'
 tags: [ 'vestido', ]

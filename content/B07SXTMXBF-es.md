@@ -5,7 +5,7 @@ date: 2020-09-15 21:50:16
 image: 'https://m.media-amazon.com/images/I/31kU7Qfm2rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXTMXBF-es Geox D PONTOISE D Zapatillas para Mujer Blanco...'
 sku: 'B07SXTMXBF-es'
 tags: [ 'geox', ]

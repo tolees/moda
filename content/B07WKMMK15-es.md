@@ -5,7 +5,7 @@ date: 2020-07-16 11:23:53
 image: 'https://m.media-amazon.com/images/I/411tyaf57NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKMMK15-es Pepe Jeans Marke Camiseta Azul Old Navy 584 Large para Hombre'
 sku: 'B07WKMMK15-es'
 tags: [ 'camiseta', ]

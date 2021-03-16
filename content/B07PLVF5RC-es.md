@@ -5,7 +5,7 @@ date: 2020-09-19 13:40:18
 image: 'https://m.media-amazon.com/images/I/31q43HJzzUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLVF5RC-es Hawiton Pijama de Lactancia Verano Ropa Premamá...'
 sku: 'B07PLVF5RC-es'
 tags: [ 'pijama', ]

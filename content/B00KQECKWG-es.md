@@ -5,7 +5,7 @@ date: 2020-01-14 13:04:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31NxggZq2QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KQECKWG-es Birkenstock Gizeh Eva - Sandalias unisex Negro Black 38'
 sku: 'B00KQECKWG-es'
 tags: [ 'sandalias', ]

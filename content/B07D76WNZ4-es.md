@@ -5,7 +5,7 @@ date: 2020-01-15 10:52:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41l92AW054L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D76WNZ4-es Levi s Original Trucker Chaqueta Vaquera Azul Clean Dark...'
 sku: 'B07D76WNZ4-es'
 tags: [ 'chaqueta', ]

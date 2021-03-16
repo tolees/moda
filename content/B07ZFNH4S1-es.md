@@ -5,7 +5,7 @@ date: 2020-03-03 08:57:02
 image: 'https://m.media-amazon.com/images/I/416O4YB8T3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFNH4S1-es XIANGUO Guantes Invierno Ciclismo Guantes Pantalla Tactil...'
 sku: 'B07ZFNH4S1-es'
 tags: [ 'guantes', ]

@@ -5,7 +5,7 @@ date: 2020-09-12 07:06:18
 image: 'https://m.media-amazon.com/images/I/41qxX7yRzoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKPXFFZ-es Pepe Jeans Grace Sudadera Amarillo 031lemon 031 X-Large...'
 sku: 'B07WKPXFFZ-es'
 tags: [ 'sudadera', ]

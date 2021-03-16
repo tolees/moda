@@ -5,7 +5,7 @@ date: 2020-08-08 20:16:01
 image: 'https://m.media-amazon.com/images/I/41y+fjhg9ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVV9M5K-es Lee Logo tee Camiseta Blanco White 12 Medium para Mujer'
 sku: 'B07TVV9M5K-es'
 tags: [ 'camiseta', ]

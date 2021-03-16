@@ -5,7 +5,7 @@ date: 2020-06-17 01:48:44
 image: 'https://m.media-amazon.com/images/I/31D4gNmc6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFV93RW-es Geox U Adrien A Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFV93RW-es'
 tags: [ 'geox','zapatos', ]

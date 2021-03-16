@@ -5,7 +5,7 @@ date: 2020-03-06 20:04:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51q9f29oN7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KLXTZC8-es Bolso de Mujer Pequeña Bolso de Noche Hombro Billetera...'
 sku: 'B07KLXTZC8-es'
 tags: [ 'billetera','bolso', ]

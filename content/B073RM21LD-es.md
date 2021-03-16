@@ -5,7 +5,7 @@ date: 2020-06-23 11:57:25
 image: 'https://m.media-amazon.com/images/I/41jBokNqHGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RM21LD-es Marca Amazon - find. Chaqueta de Satén Estilo Bómber Mujer...'
 sku: 'B073RM21LD-es'
 tags: [ '-','chaqueta','find.', ]

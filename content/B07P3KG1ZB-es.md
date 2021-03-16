@@ -5,7 +5,7 @@ date: 2020-07-16 11:29:07
 image: 'https://m.media-amazon.com/images/I/31oqCO8czKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3KG1ZB-es Superdry Vintage Logo Racer tee Camiseta Verde Green 10e M...'
 sku: 'B07P3KG1ZB-es'
 tags: [ 'camiseta', ]

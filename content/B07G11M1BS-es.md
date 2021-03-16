@@ -5,7 +5,7 @@ date: 2020-10-06 06:28:21
 image: 'https://m.media-amazon.com/images/I/31t0ZAkm7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G11M1BS-es Gafas de lectura sin patillas graduadas para hombre y...'
 sku: 'B07G11M1BS-es'
 tags: [ 'gafas', ]

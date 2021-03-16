@@ -5,7 +5,7 @@ date: 2020-09-19 08:01:12
 image: 'https://m.media-amazon.com/images/I/417feMEZB-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCJD4X2-es Desigual Chaq villena Abrigo Azul Jeans Claro 5007 46...'
 sku: 'B07VCJD4X2-es'
 tags: [ 'abrigo', ]

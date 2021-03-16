@@ -5,7 +5,7 @@ date: 2020-09-21 19:49:51
 image: 'https://m.media-amazon.com/images/I/31h1b6WyT+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVV33W4-es Maglev Essentials Damen T-Shirt Mit V-Ausschnitt 5er-Pack...'
 sku: 'B07PVV33W4-es'
 tags: [ 'camiseta', ]

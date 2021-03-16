@@ -5,7 +5,7 @@ date: 2020-03-08 19:02:41
 image: 'https://m.media-amazon.com/images/I/31I2xakFNOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KHLFG1T-es Under Armour UA Rush Short Sleeve Camiseta Mujer Negro...'
 sku: 'B07KHLFG1T-es'
 tags: [ 'camiseta', ]

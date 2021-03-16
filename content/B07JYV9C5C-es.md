@@ -5,7 +5,7 @@ date: 2020-03-22 09:32:26
 image: 'https://m.media-amazon.com/images/I/31PMX-M09ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYV9C5C-es Tommy Hilfiger Hilfiger Logo Sweatshirt Sudadera Blanco...'
 sku: 'B07JYV9C5C-es'
 tags: [ 'sudadera', ]

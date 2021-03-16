@@ -5,7 +5,7 @@ date: 2020-01-16 14:28:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417n16ew4eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6ZGNZF-es Intimuse Embu Sudadera Negro Schwarz/Pink 125 Medium'
 sku: 'B01N6ZGNZF-es'
 tags: [ 'sudadera', ]

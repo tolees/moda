@@ -5,7 +5,7 @@ date: 2020-05-07 15:43:50
 image: 'https://m.media-amazon.com/images/I/51WQGStYmFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015SGHER2-es Havaianas You Metallic Sandalias para Mujer Plateado Steel...'
 sku: 'B015SGHER2-es'
 tags: [ 'sandalias', ]

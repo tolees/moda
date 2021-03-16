@@ -5,7 +5,7 @@ date: 2020-06-27 15:17:49
 image: 'https://m.media-amazon.com/images/I/41P7omaG8SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STKZDWX-es Geox B Flexyper Boy A Zapatillas para Bebés Azul Dk...'
 sku: 'B07STKZDWX-es'
 tags: [ 'geox', ]

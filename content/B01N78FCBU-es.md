@@ -5,7 +5,7 @@ date: 2020-08-02 08:07:42
 image: 'https://m.media-amazon.com/images/I/41R5vguuX1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N78FCBU-es Miss Lulu Mujer Bolso de Mano Reversible Elegante Bolso de...'
 sku: 'B01N78FCBU-es'
 tags: [ 'bolso', ]

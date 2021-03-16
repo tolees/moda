@@ -5,7 +5,7 @@ date: 2020-05-20 07:25:43
 image: 'https://m.media-amazon.com/images/I/3105bdPA74L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YRCVG3F-es Marca Amazon - AURIQUE Shorts para Correr con Banda...'
 sku: 'B07YRCVG3F-es'
 tags: [ 'aurique', ]

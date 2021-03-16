@@ -5,7 +5,7 @@ date: 2020-06-24 10:25:46
 image: 'https://m.media-amazon.com/images/I/31EUbZ+jSQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JYXEN2E-es MAMALICIOUS MLRAM COATED SLIM JEANS Vaqueros premamá Mujer...'
 sku: 'B01JYXEN2E-es'
 tags: [ 'vaqueros', ]

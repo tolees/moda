@@ -5,7 +5,7 @@ date: 2020-04-17 12:22:49
 image: 'https://m.media-amazon.com/images/I/313VjZaT3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XF64NQ9-es Esprit 109ee1i012 Chaqueta Punto Gris Medium Grey 5 039 Mujer'
 sku: 'B07XF64NQ9-es'
 tags: [ 'chaqueta', ]

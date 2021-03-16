@@ -5,7 +5,7 @@ date: 2020-07-19 10:12:38
 image: 'https://m.media-amazon.com/images/I/5175PZetc6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNMZTQ1-es G-STAR RAW Core Super Slim Camisa Casual Multicolor...'
 sku: 'B07VNMZTQ1-es'
 tags: [ 'camisa', ]

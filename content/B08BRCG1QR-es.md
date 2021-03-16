@@ -5,7 +5,7 @@ date: 2020-09-25 00:31:34
 image: 'https://m.media-amazon.com/images/I/41tPwhKYbdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BRCG1QR-es FUSHITON Hombre Zapatillas Casual Calzado Deportivo Moda...'
 sku: 'B08BRCG1QR-es'
 tags: [ 'moda','zapatos', ]

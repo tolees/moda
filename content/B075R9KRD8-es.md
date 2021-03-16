@@ -5,7 +5,7 @@ date: 2020-01-07 15:10:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316NkJV8FNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R9KRD8-es Trangoworld Sieber Complet Chaqueta Hombre Kaki XL'
 sku: 'B075R9KRD8-es'
 tags: [ 'chaqueta', ]

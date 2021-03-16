@@ -5,7 +5,7 @@ date: 2020-01-25 12:04:49
 image: 'https://m.media-amazon.com/images/I/41bDcDQhthL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WGG2C9-es The North Face Etip Glove Guantes Unisex Adulto Negro TNF...'
 sku: 'B078WGG2C9-es'
 tags: [ 'guantes', ]

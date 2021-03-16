@@ -5,7 +5,7 @@ date: 2020-09-15 02:02:56
 image: 'https://m.media-amazon.com/images/I/41SRVWTxWhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z94NQJW-es PITTMAN Hombre Pantalones de Chándal Cargo Deportivo Bruno...'
 sku: 'B07Z94NQJW-es'
 tags: [ 'pantalón', ]

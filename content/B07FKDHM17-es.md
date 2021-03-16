@@ -5,7 +5,7 @@ date: 2020-04-08 03:14:05
 image: 'https://m.media-amazon.com/images/I/31CsVf4w4TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKDHM17-es Nike Dri-FIT Miler Camiseta Hombre Gris Atmosphere...'
 sku: 'B07FKDHM17-es'
 tags: [ 'camiseta', ]

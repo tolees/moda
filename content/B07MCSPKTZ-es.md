@@ -5,7 +5,7 @@ date: 2020-04-03 11:34:18
 image: 'https://m.media-amazon.com/images/I/41K0-T1LtvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPKTZ-es Napapijri Aerons WOM Hood 1 Chaqueta Beige Natural Peyote...'
 sku: 'B07MCSPKTZ-es'
 tags: [ 'chaqueta', ]

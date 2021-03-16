@@ -5,7 +5,7 @@ date: 2020-06-27 20:00:17
 image: 'https://m.media-amazon.com/images/I/31ktMlIIo1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JW44MKV-es Lee Extreme Motion Straight Vaqueros Beige Cougar 77 32W /...'
 sku: 'B07JW44MKV-es'
 tags: [ 'vaqueros', ]

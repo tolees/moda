@@ -5,7 +5,7 @@ date: 2020-03-26 11:42:54
 image: 'https://m.media-amazon.com/images/I/41I1NLHFV8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCHHP87-es Clarks Gilman Mode Zapatos de Cordones Derby para Hombre...'
 sku: 'B06XCHHP87-es'
 tags: [ 'zapatos', ]

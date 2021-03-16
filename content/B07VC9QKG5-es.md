@@ -5,7 +5,7 @@ date: 2020-01-12 23:47:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41k2fBP-iTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC9QKG5-es Vero Moda NOS Vmexcursionexpedition 3/4 Parka Noos Rojo...'
 sku: 'B07VC9QKG5-es'
 tags: [ 'moda','parka', ]

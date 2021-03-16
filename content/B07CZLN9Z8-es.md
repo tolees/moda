@@ -5,7 +5,7 @@ date: 2020-01-23 09:14:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/319yWEzwJhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZLN9Z8-es Under Armour UA Qualifier Shortsleeve Camiseta Hombre...'
 sku: 'B07CZLN9Z8-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-05-02 18:52:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419YGza0MiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y84WCF-es HIKARO Sudadera con Capucha Hombre Azul Denim 50 Talla del...'
 sku: 'B077Y84WCF-es'
 tags: [ 'sudadera', ]

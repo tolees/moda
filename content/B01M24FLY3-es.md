@@ -5,7 +5,7 @@ date: 2020-09-12 19:48:44
 image: 'https://m.media-amazon.com/images/I/51B713KM2+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M24FLY3-es Brandit Check Shirt Camisa Gris-Negro L para Mujer'
 sku: 'B01M24FLY3-es'
 tags: [ 'camisa', ]

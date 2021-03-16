@@ -5,7 +5,7 @@ date: 2020-04-09 16:02:02
 image: 'https://m.media-amazon.com/images/I/419hBdST8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076XBQZDK-es Geox Jr Piuma Ballerine A Bailarinas para Niñas Plateado...'
 sku: 'B076XBQZDK-es'
 tags: [ 'geox', ]

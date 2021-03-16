@@ -5,7 +5,7 @@ date: 2020-01-21 11:26:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31L%2ByPKhUlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NX7Z9VT-es Superdry Tyler Vaqueros Slim Azul Union Dark Blue Vf6...'
 sku: 'B07NX7Z9VT-es'
 tags: [ 'vaqueros', ]

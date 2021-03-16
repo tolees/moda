@@ -5,7 +5,7 @@ date: 2020-02-03 15:27:37
 image: 'https://m.media-amazon.com/images/I/51snA6CMKaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXVNHD5-es Desigual 19WAXP01 - Bolso de hombro de Sintético Mujer...'
 sku: 'B07MXVNHD5-es'
 tags: [ 'bolso', ]

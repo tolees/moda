@@ -5,7 +5,7 @@ date: 2020-08-22 06:16:22
 image: 'https://m.media-amazon.com/images/I/31Dfwkuux3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGLFS6W-es Skechers Go Walk 5 Sandalias de Punta Descubierta para...'
 sku: 'B07XGLFS6W-es'
 tags: [ 'sandalias', ]

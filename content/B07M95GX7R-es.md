@@ -5,7 +5,7 @@ date: 2020-02-10 13:50:10
 image: 'https://m.media-amazon.com/images/I/410Xsc8F6FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M95GX7R-es Lee CAROL Vaqueros straight Mujer Azul Light Stone Qa W25/L33'
 sku: 'B07M95GX7R-es'
 tags: [ 'vaqueros', ]

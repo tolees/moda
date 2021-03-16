@@ -5,7 +5,7 @@ date: 2020-08-29 11:30:03
 image: 'https://m.media-amazon.com/images/I/419L768j8kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758HTW2X-es Clarks Vennor Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B0758HTW2X-es'
 tags: [ 'zapatos', ]

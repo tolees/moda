@@ -5,7 +5,7 @@ date: 2020-08-04 21:04:22
 image: 'https://m.media-amazon.com/images/I/41Pmn+nerPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JZCFI8-es Clarks Nature Three 20340682 - Zapatos casual de cuero...'
 sku: 'B003JZCFI8-es'
 tags: [ 'zapatos', ]

@@ -5,7 +5,7 @@ date: 2020-03-23 15:40:49
 image: 'https://m.media-amazon.com/images/I/31NEOBj1d5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NMGF77-es G-STAR RAW Revend Skinny Vaqueros Rinsed 9114-082 36W /...'
 sku: 'B071NMGF77-es'
 tags: [ 'vaqueros', ]

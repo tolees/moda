@@ -5,7 +5,7 @@ date: 2020-02-23 13:31:16
 image: 'https://m.media-amazon.com/images/I/51+jXb3kzQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N17W3JD-es Lee Slim Button Down Camisa Negro Black 01 XX-Large para...'
 sku: 'B07N17W3JD-es'
 tags: [ 'camisa', ]

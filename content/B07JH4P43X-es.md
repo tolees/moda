@@ -5,7 +5,7 @@ date: 2020-01-19 12:07:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UjSe2d-bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH4P43X-es Pepe Jeans Venus Pl200029 Vaqueros Straight Grey Wiser...'
 sku: 'B07JH4P43X-es'
 tags: [ 'vaqueros', ]

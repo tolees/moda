@@ -5,7 +5,7 @@ date: 2020-03-20 11:48:12
 image: 'https://m.media-amazon.com/images/I/31ipjtJdzLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYTRCD3-es Puma Junior Gafas de sol Multicolor Crystal/Silver/Havana...'
 sku: 'B07TYTRCD3-es'
 tags: [ 'gafas', ]

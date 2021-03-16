@@ -5,7 +5,7 @@ date: 2020-02-05 17:55:45
 image: 'https://m.media-amazon.com/images/I/31NMLtLuVQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2F3KYD-es AURIQUE Floral Print Legging Mallas de Entrenamiento Negro...'
 sku: 'B07G2F3KYD-es'
 tags: [ 'aurique', ]

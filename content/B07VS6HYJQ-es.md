@@ -5,7 +5,7 @@ date: 2020-08-16 02:31:25
 image: 'https://m.media-amazon.com/images/I/41CtGbiicjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS6HYJQ-es Tommy Hilfiger TH Cool ESS Relaxed C-nk tee SS Camiseta...'
 sku: 'B07VS6HYJQ-es'
 tags: [ 'camiseta', ]

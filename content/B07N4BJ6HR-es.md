@@ -5,7 +5,7 @@ date: 2020-04-05 10:39:21
 image: 'https://m.media-amazon.com/images/I/41u9xA0ZWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4BJ6HR-es United Colors of Benetton College Man Camisa Casual Azul...'
 sku: 'B07N4BJ6HR-es'
 tags: [ 'camisa', ]

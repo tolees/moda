@@ -5,7 +5,7 @@ date: 2020-08-10 15:55:30
 image: 'https://m.media-amazon.com/images/I/31Qs3YO50jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YRCVC46-es Marca Amazon - find. Vestido Corto Cruzado de Algodón...'
 sku: 'B07YRCVC46-es'
 tags: [ '-','find.','vestido', ]

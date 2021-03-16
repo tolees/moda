@@ -5,7 +5,7 @@ date: 2020-02-20 20:07:35
 image: 'https://m.media-amazon.com/images/I/31cbGrZxuoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGGTT5X-es BOSS Citravel_2 Blusa Azul Bright Blue 439 40 Talla del...'
 sku: 'B07KGGTT5X-es'
 tags: [ 'blusa', ]

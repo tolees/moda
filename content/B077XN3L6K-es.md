@@ -5,7 +5,7 @@ date: 2020-02-25 18:39:23
 image: 'https://m.media-amazon.com/images/I/51x-A0hCLwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XN3L6K-es Under Armour Armour Fleece 1/2 Zip Camiseta De Manga Larga...'
 sku: 'B077XN3L6K-es'
 tags: [ 'camiseta', ]

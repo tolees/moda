@@ -5,7 +5,7 @@ date: 2020-01-04 10:53:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-aN0rwQgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WK2MC6B-es Ropa Interior Térmica Hombre Camiseta Térmica Hombre...'
 sku: 'B07WK2MC6B-es'
 tags: [ 'camiseta', ]

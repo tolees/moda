@@ -5,7 +5,7 @@ date: 2020-01-18 13:09:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51-92603m%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFLRWMQ-es Levi s Graphic Varsity tee Camiseta Multicolor All Over...'
 sku: 'B07LFLRWMQ-es'
 tags: [ 'camiseta', ]

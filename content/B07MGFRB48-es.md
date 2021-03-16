@@ -5,7 +5,7 @@ date: 2020-02-24 19:02:04
 image: 'https://m.media-amazon.com/images/I/41qJDd9cHNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRB48-es Napapijri GOAYO Camisa Casual Azul Blue Check 12C L para...'
 sku: 'B07MGFRB48-es'
 tags: [ 'camisa', ]

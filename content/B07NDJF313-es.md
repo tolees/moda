@@ -5,7 +5,7 @@ date: 2020-10-04 08:49:11
 image: 'https://m.media-amazon.com/images/I/412dghMLqIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDJF313-es Geographical Norway Parka DE Hombre BANTOU Caqui L'
 sku: 'B07NDJF313-es'
 tags: [ 'parka', ]

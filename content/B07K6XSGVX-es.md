@@ -5,7 +5,7 @@ date: 2020-08-20 00:53:28
 image: 'https://m.media-amazon.com/images/I/41iR6KXnbIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6XSGVX-es Levi s Original Hm tee Camiseta Azul LS Cotton + Patch...'
 sku: 'B07K6XSGVX-es'
 tags: [ 'camiseta', ]

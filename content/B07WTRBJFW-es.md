@@ -5,7 +5,7 @@ date: 2020-09-11 00:37:08
 image: 'https://m.media-amazon.com/images/I/41CHyabR44L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTRBJFW-es Skechers Tresmen Hirano Sandalias de Punta Descubierta...'
 sku: 'B07WTRBJFW-es'
 tags: [ 'sandalias', ]

@@ -5,7 +5,7 @@ date: 2020-06-18 18:56:06
 image: 'https://m.media-amazon.com/images/I/41pSl20C+nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HR46KBJ-es Jack & Jones Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros...'
 sku: 'B07HR46KBJ-es'
 tags: [ 'vaqueros', ]

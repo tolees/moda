@@ -5,7 +5,7 @@ date: 2020-05-13 10:52:22
 image: 'https://m.media-amazon.com/images/I/41IVIeMw1GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BTY7R84-es ZCFXJiTuanYZ Traje de Deporte al Aire Libre Jersey de...'
 sku: 'B07BTY7R84-es'
 tags: [ 'jersey', ]

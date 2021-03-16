@@ -5,7 +5,7 @@ date: 2020-09-22 16:34:21
 image: 'https://m.media-amazon.com/images/I/51AaZr25KjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081GW2TBJ-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
 sku: 'B081GW2TBJ-es'
 tags: [ 'zapatos', ]

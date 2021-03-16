@@ -5,7 +5,7 @@ date: 2020-03-20 21:16:09
 image: 'https://m.media-amazon.com/images/I/416gHJ6yU-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBLVV3C-es Kappa Farvel Tex Kids Botines para Niñas Navy/Mint 6737 28 EU'
 sku: 'B07LBLVV3C-es'
 tags: [ 'botines', ]

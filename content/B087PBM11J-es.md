@@ -5,7 +5,7 @@ date: 2020-05-30 16:03:14
 image: 'https://m.media-amazon.com/images/I/51lEkmmBSAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PBM11J-es Suhctup Funda Compatible con LG Stylo 5 Billetera Carcasa...'
 sku: 'B087PBM11J-es'
 tags: [ 'billetera', ]

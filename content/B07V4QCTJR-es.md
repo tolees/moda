@@ -5,7 +5,7 @@ date: 2020-10-04 11:46:47
 image: 'https://m.media-amazon.com/images/I/31+pVBpHRQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4QCTJR-es Superdry Classic Trunk Triple Pack Bóxer Gris Grey Marl...'
 sku: 'B07V4QCTJR-es'
 tags: [ 'bóxer', ]

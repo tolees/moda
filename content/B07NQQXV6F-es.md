@@ -5,7 +5,7 @@ date: 2020-04-20 20:25:30
 image: 'https://m.media-amazon.com/images/I/413ERUjrjrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQQXV6F-es Springfield FR Bomber Sudadera Negro Black 1 Medium Tamaño...'
 sku: 'B07NQQXV6F-es'
 tags: [ 'sudadera', ]

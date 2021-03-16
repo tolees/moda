@@ -5,7 +5,7 @@ date: 2020-07-15 19:53:23
 image: 'https://m.media-amazon.com/images/I/31gxt3wp+UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S63YSQQ-es Crocs Crocband Flip Women Chanclas para Mujer Blanco White...'
 sku: 'B07S63YSQQ-es'
 tags: [ 'chanclas', ]

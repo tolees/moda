@@ -5,7 +5,7 @@ date: 2020-08-23 21:04:07
 image: 'https://m.media-amazon.com/images/I/41+FmQUA2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMNL237-es Tommy Hilfiger Tjw Soft Jersey tee Ropa Deportiva de Punto...'
 sku: 'B07VMNL237-es'
 tags: [ 'jersey', ]

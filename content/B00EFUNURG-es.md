@@ -5,7 +5,7 @@ date: 2020-03-03 06:53:51
 image: 'https://m.media-amazon.com/images/I/41GI7gZrxZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EFUNURG-es Helly Hansen W Crew Chaqueta Mujer Blanco XL'
 sku: 'B00EFUNURG-es'
 tags: [ 'chaqueta', ]

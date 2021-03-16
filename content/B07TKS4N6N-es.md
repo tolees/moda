@@ -5,7 +5,7 @@ date: 2020-10-03 18:11:11
 image: 'https://m.media-amazon.com/images/I/416nvQSSRUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKS4N6N-es Clarks Alice Flame Zapatos de Tacón para Mujer Azul Blush...'
 sku: 'B07TKS4N6N-es'
 tags: [ 'zapatos', ]

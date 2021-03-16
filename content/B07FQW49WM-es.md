@@ -5,7 +5,7 @@ date: 2020-01-12 16:46:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31gX4LKHEPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQW49WM-es Clarks Edward Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07FQW49WM-es'
 tags: [ 'zapatos', ]

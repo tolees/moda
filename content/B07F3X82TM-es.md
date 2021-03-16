@@ -5,7 +5,7 @@ date: 2020-07-23 07:54:19
 image: 'https://m.media-amazon.com/images/I/31po5xsT-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3X82TM-es Levi s 511 Slim Vaqueros Negro Headed South 2090 28W / 34L...'
 sku: 'B07F3X82TM-es'
 tags: [ 'vaqueros', ]

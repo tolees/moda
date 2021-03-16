@@ -5,7 +5,7 @@ date: 2020-01-15 12:57:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TuNXCaukL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073V55ZLK-es OPUS Seconda Camiseta de Manga Larga Rosa Pink Melange...'
 sku: 'B073V55ZLK-es'
 tags: [ 'camiseta', ]

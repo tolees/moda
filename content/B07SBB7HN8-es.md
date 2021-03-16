@@ -5,7 +5,7 @@ date: 2020-04-02 15:58:20
 image: 'https://m.media-amazon.com/images/I/31LZYnfRDAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBB7HN8-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Electric Pink...'
 sku: 'B07SBB7HN8-es'
 tags: [ 'zuecos', ]

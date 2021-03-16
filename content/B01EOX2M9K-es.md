@@ -5,7 +5,7 @@ date: 2020-03-30 12:03:34
 image: 'https://m.media-amazon.com/images/I/41GzvYmNrnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EOX2M9K-es Helly Hansen W Aden Chaqueta Mujer Evening Blue L'
 sku: 'B01EOX2M9K-es'
 tags: [ 'chaqueta', ]

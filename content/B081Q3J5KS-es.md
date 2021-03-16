@@ -5,7 +5,7 @@ date: 2020-10-12 19:11:26
 image: 'https://m.media-amazon.com/images/I/41zHJIFke8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081Q3J5KS-es UTOBEST Mochila Running Hidratacion 3L Chaleco Hidratación...'
 sku: 'B081Q3J5KS-es'
 tags: [ 'chaleco', ]

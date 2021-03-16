@@ -5,7 +5,7 @@ date: 2020-02-04 13:05:12
 image: 'https://m.media-amazon.com/images/I/41EqBxjgnVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPC1PT4-es Crocs Crocband Clog Kids Zuecos Unisex Niños Verde Army...'
 sku: 'B07CPC1PT4-es'
 tags: [ 'zuecos', ]

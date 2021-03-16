@@ -5,7 +5,7 @@ date: 2020-10-10 17:34:56
 image: 'https://m.media-amazon.com/images/I/31imCwg0pOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0070SJ6RI-es Timberland Stormbucks Plain Toe Zapatos de Cordones Oxford...'
 sku: 'B0070SJ6RI-es'
 tags: [ 'timberland','zapatos', ]

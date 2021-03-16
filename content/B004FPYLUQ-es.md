@@ -5,7 +5,7 @@ date: 2020-03-15 00:05:14
 image: 'https://m.media-amazon.com/images/I/41mYmVlcjmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004FPYLUQ-es Vans Classic VGGG Camiseta Para Hombre Azul Royal/White L'
 sku: 'B004FPYLUQ-es'
 tags: [ 'camiseta', ]

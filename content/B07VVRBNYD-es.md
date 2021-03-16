@@ -5,7 +5,7 @@ date: 2020-08-25 08:11:42
 image: 'https://m.media-amazon.com/images/I/413pxWBm5CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVRBNYD-es Pepe Jeans Garrett Sudadera con Capucha Rojo Brick 262...'
 sku: 'B07VVRBNYD-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-01-02 00:46:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41slxQJYoCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VM4FN6-es Levi s The Perfect Tee Camiseta Mujer Blanco Better...'
 sku: 'B077VM4FN6-es'
 tags: [ 'camiseta', ]

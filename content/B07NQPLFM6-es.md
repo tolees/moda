@@ -5,7 +5,7 @@ date: 2020-07-02 10:54:47
 image: 'https://m.media-amazon.com/images/I/41+bnmDKAQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQPLFM6-es Yuson Girl Conjuntos De Bikini Rayas Talle Alto Retro...'
 sku: 'B07NQPLFM6-es'
 tags: [ 'bikini', ]

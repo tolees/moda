@@ -5,7 +5,7 @@ date: 2020-04-20 22:45:25
 image: 'https://m.media-amazon.com/images/I/31U6wBxkldL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5GTEGH-es Lacoste TH6712 Camiseta Azul Marine Small Talla del...'
 sku: 'B01M5GTEGH-es'
 tags: [ 'camiseta', ]

@@ -5,7 +5,7 @@ date: 2020-03-18 20:11:39
 image: 'https://m.media-amazon.com/images/I/413JRZbJm-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771W4LBS-es Columbia Silver Ridge II Pantalón Capri Hombre Gris Grill...'
 sku: 'B0771W4LBS-es'
 tags: [ 'pantalón', ]

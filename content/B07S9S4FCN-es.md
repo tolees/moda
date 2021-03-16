@@ -5,7 +5,7 @@ date: 2020-08-26 17:56:02
 image: 'https://m.media-amazon.com/images/I/31X+ThXbEaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9S4FCN-es PUMA Popcat 20 TS Sandalias deslizantes Unisex-Adulto Azul...'
 sku: 'B07S9S4FCN-es'
 tags: [ 'sandalias', ]

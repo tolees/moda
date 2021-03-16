@@ -5,7 +5,7 @@ date: 2020-10-10 18:54:35
 image: 'https://m.media-amazon.com/images/I/415+Wl9snML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMNWW3X-es Superdry OL Essential Vee tee Camiseta Negro Black 02a S...'
 sku: 'B07TMNWW3X-es'
 tags: [ 'camiseta', ]

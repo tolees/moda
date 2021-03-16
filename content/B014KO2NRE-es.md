@@ -5,7 +5,7 @@ date: 2020-02-20 08:15:04
 image: 'https://m.media-amazon.com/images/I/41hSnDy1AXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014KO2NRE-es Pepe Jeans Soho Vaqueros Azul 10Oz Classic Stretch Z63 34W...'
 sku: 'B014KO2NRE-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-03-06 23:46:32
 image: 'https://m.media-amazon.com/images/I/41YNJhzQjGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZCJ1C-es Geox J Alonisso Boy N Zapatillas Altas para Niños Azul...'
 sku: 'B07LFZCJ1C-es'
 tags: [ 'geox', ]

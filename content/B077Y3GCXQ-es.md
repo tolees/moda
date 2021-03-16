@@ -5,7 +5,7 @@ date: 2020-01-02 15:04:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41COO1sjk1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y3GCXQ-es HIKARO Sudadera con Cuello Alto Mujer Azul Aqua 36 Talla...'
 sku: 'B077Y3GCXQ-es'
 tags: [ 'sudadera', ]

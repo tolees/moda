@@ -5,7 +5,7 @@ date: 2020-01-26 17:23:45
 image: 'https://m.media-amazon.com/images/I/41NwwPL2kRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SM65VFC-es Vans MN Classic Crew II Sudadera Gris Cement Heather-Black...'
 sku: 'B07SM65VFC-es'
 tags: [ 'sudadera', ]

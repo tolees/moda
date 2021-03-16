@@ -5,7 +5,7 @@ date: 2020-03-13 22:44:03
 image: 'https://m.media-amazon.com/images/I/41uxTOXRjlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWPQMT-es Wrangler Super High Skinny Vaqueros Azul Dark Indigo X1e...'
 sku: 'B07MMWPQMT-es'
 tags: [ 'vaqueros', ]

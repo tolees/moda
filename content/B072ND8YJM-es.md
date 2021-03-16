@@ -5,7 +5,7 @@ date: 2020-04-26 18:53:52
 image: 'https://m.media-amazon.com/images/I/41CM0CBc6xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072ND8YJM-es JACK & JONES Jprnon Iron Shirt L/s Noos Camisa Azul Navy...'
 sku: 'B072ND8YJM-es'
 tags: [ 'camisa', ]

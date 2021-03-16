@@ -5,7 +5,7 @@ date: 2020-02-13 08:33:28
 image: 'https://m.media-amazon.com/images/I/31sDbeaXuOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWWNTBK-es New Look Aw19 Piper Abrigo Negro Black 1 38 Talla del...'
 sku: 'B07TWWNTBK-es'
 tags: [ 'abrigo', ]

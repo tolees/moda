@@ -5,7 +5,7 @@ date: 2020-08-26 21:27:49
 image: 'https://m.media-amazon.com/images/I/41yB8a495AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQVMYCH-es Clarks Step Urban Mix Zapatos de Cordones Derby para...'
 sku: 'B07FQVMYCH-es'
 tags: [ 'zapatos', ]

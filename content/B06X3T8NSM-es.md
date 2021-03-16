@@ -5,7 +5,7 @@ date: 2020-06-22 07:30:51
 image: 'https://m.media-amazon.com/images/I/51wkbtSFiUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X3T8NSM-es Marca Amazon - find. Slip para Hombre Y-Front Multipack...'
 sku: 'B06X3T8NSM-es'
 tags: [ '-','find.', ]

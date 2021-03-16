@@ -5,7 +5,7 @@ date: 2020-09-05 15:45:36
 image: 'https://m.media-amazon.com/images/I/313OWJbEeQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XXTM7N1-es CHICTRY Chaqueta de Princesa Fiesta Boda Danza para Niña...'
 sku: 'B07XXTM7N1-es'
 tags: [ 'abrigo','chaqueta', ]

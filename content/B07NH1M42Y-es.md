@@ -5,7 +5,7 @@ date: 2020-07-08 17:44:43
 image: 'https://m.media-amazon.com/images/I/31s3QJhP5QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NH1M42Y-es El Naturalista Aqua Botines para Mujer Marrón Brown Brown...'
 sku: 'B07NH1M42Y-es'
 tags: [ 'botines', ]

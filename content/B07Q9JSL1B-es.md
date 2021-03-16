@@ -5,7 +5,7 @@ date: 2020-06-26 18:45:51
 image: 'https://m.media-amazon.com/images/I/41r01a8wrcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9JSL1B-es Cronell Story Chaqueta De Camuflaje para Niñas Chaqueta...'
 sku: 'B07Q9JSL1B-es'
 tags: [ 'abrigo','chaqueta', ]

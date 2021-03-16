@@ -5,7 +5,7 @@ date: 2020-08-06 09:55:28
 image: 'https://m.media-amazon.com/images/I/41xNNk4CTRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MD2FSKP-es HongHu Moda para mujer Neat Bangs Corto Gran peluca rizada...'
 sku: 'B07MD2FSKP-es'
 tags: [ 'moda', ]

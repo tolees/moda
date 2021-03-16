@@ -5,7 +5,7 @@ date: 2020-01-29 09:42:25
 image: 'https://m.media-amazon.com/images/I/414rzxd6WNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7QSY9N-es Columbia WAYFINDER Outdry Zapatos Multideporte para Mujer...'
 sku: 'B07K7QSY9N-es'
 tags: [ 'zapatos', ]

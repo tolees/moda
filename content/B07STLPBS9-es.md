@@ -5,7 +5,7 @@ date: 2020-08-20 19:53:21
 image: 'https://m.media-amazon.com/images/I/414RfhrW6DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLPBS9-es Geox U Renan B Zapatillas para Hombre Azul Navy C4064 41 EU'
 sku: 'B07STLPBS9-es'
 tags: [ 'geox', ]

@@ -5,7 +5,7 @@ date: 2020-07-17 12:43:39
 image: 'https://m.media-amazon.com/images/I/41b2xfBbTTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLR67Q-es Geox U Nebula C Zapatillas para Hombre Beige Sand C5004 41 EU'
 sku: 'B07STLR67Q-es'
 tags: [ 'geox', ]

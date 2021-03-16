@@ -5,7 +5,7 @@ date: 2020-05-01 19:31:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hR9Qn9xiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7NN7B5-es Converse Accesorios Bolso Bandolera 22 cm Azul'
 sku: 'B01N7NN7B5-es'
 tags: [ 'bolso', ]

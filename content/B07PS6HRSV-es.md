@@ -5,7 +5,7 @@ date: 2020-06-25 06:50:43
 image: 'https://m.media-amazon.com/images/I/31FfV8MTflL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PS6HRSV-es CARE OF by PUMA Sudadera con capucha de manga larga con...'
 sku: 'B07PS6HRSV-es'
 tags: [ 'sudadera', ]

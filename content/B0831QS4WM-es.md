@@ -5,7 +5,7 @@ date: 2020-01-12 16:03:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AEJhdyfuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831QS4WM-es Canadian Peak Parka DE NIÑA BANINA Azul Marino 14'
 sku: 'B0831QS4WM-es'
 tags: [ 'parka', ]

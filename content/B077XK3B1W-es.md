@@ -5,7 +5,7 @@ date: 2020-01-05 14:54:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DuEvJu-BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XK3B1W-es Under Armour TAC Crew Base Camiseta Hombre Negro...'
 sku: 'B077XK3B1W-es'
 tags: [ 'camiseta', ]

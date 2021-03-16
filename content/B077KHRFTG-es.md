@@ -5,7 +5,7 @@ date: 2020-05-31 13:50:23
 image: 'https://m.media-amazon.com/images/I/414g64cmumL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077KHRFTG-es Columbia M Thermarator Glove Guantes Hombre Negro Talla XL'
 sku: 'B077KHRFTG-es'
 tags: [ 'guantes', ]

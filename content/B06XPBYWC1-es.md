@@ -5,7 +5,7 @@ date: 2020-06-24 10:30:43
 image: 'https://m.media-amazon.com/images/I/41LHxCc70XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPBYWC1-es Kipling Iaka Monedero para Mujer Multicolor Water Camo...'
 sku: 'B06XPBYWC1-es'
 tags: [ 'monedero', ]

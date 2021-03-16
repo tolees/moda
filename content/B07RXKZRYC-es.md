@@ -5,7 +5,7 @@ date: 2020-06-26 12:45:24
 image: 'https://m.media-amazon.com/images/I/41Y6NnHOrcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXKZRYC-es Levi s 711 Vaqueros Skinny Gris Hit Me Up 0454 W26/L30...'
 sku: 'B07RXKZRYC-es'
 tags: [ 'vaqueros', ]

@@ -5,7 +5,7 @@ date: 2020-06-10 21:34:02
 image: 'https://m.media-amazon.com/images/I/41K2zm2PDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RNTHPF-es Helly Hansen Rider Stealth Zip Chaleco de Ayuda a la...'
 sku: 'B073RNTHPF-es'
 tags: [ 'chaleco', ]

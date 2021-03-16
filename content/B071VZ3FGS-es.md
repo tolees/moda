@@ -5,7 +5,7 @@ date: 2020-08-19 14:40:16
 image: 'https://m.media-amazon.com/images/I/41iYSPOdPeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VZ3FGS-es Fossil Collar FS4812IE'
 sku: 'B071VZ3FGS-es'
 tags: [ 'collar', ]

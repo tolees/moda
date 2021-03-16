@@ -5,7 +5,7 @@ date: 2020-03-21 13:10:11
 image: 'https://m.media-amazon.com/images/I/41JKe-jkJ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2BW8SB-es Wrangler SS Logo tee Camiseta Marfil Off White 737 Medium...'
 sku: 'B07R2BW8SB-es'
 tags: [ 'camiseta', ]

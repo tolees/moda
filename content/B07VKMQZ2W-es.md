@@ -5,7 +5,7 @@ date: 2020-08-29 18:23:47
 image: 'https://m.media-amazon.com/images/I/41or3GNchVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKMQZ2W-es Teva Terra Fi Lite Sandalias de Punta Descubierta para...'
 sku: 'B07VKMQZ2W-es'
 tags: [ 'sandalias', ]

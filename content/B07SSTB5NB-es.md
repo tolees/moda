@@ -5,7 +5,7 @@ date: 2020-06-29 04:28:36
 image: 'https://m.media-amazon.com/images/I/41LxMBvUUGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSTB5NB-es Quiksilver Molokai Vacancy Zapatos de Playa y Piscina para...'
 sku: 'B07SSTB5NB-es'
 tags: [ 'zapatos', ]

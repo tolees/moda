@@ -5,7 +5,7 @@ date: 2020-07-27 21:37:51
 image: 'https://m.media-amazon.com/images/I/41qTYyqpMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKN7DY8-es Clarks Flex Sun Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TKN7DY8-es'
 tags: [ 'sandalias', ]

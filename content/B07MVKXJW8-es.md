@@ -5,7 +5,7 @@ date: 2020-02-02 16:06:20
 image: 'https://m.media-amazon.com/images/I/41u8QjKExSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVKXJW8-es Napapijri Boves C Sudadera Negro Black 041 Small para Hombre'
 sku: 'B07MVKXJW8-es'
 tags: [ 'sudadera', ]

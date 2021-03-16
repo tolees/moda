@@ -5,7 +5,7 @@ date: 2020-01-20 09:08:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41F9lklqOML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LYTAG4Q-es Hollywood Star Fashion - Camiseta de manga corta con...'
 sku: 'B00LYTAG4Q-es'
 tags: [ 'camiseta', ]

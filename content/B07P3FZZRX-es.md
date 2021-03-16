@@ -5,7 +5,7 @@ date: 2020-02-24 20:13:15
 image: 'https://m.media-amazon.com/images/I/41NNmV0TH3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3FZZRX-es Superdry Icelandic Parka Rojo New Port Oxa 36 Talla del...'
 sku: 'B07P3FZZRX-es'
 tags: [ 'parka', ]

@@ -5,7 +5,7 @@ date: 2020-08-13 22:56:24
 image: 'https://m.media-amazon.com/images/I/41cg5XeXTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S15C3XF-es BILLABONG Tendencies Zip Hood Sudadera Amarillo Mustard 54...'
 sku: 'B07S15C3XF-es'
 tags: [ 'sudadera', ]

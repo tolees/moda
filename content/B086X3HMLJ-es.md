@@ -5,7 +5,7 @@ date: 2020-05-07 17:43:50
 image: 'https://m.media-amazon.com/images/I/51silCu69bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086X3HMLJ-es 5 Piezas Bebé Body Mono de Manga Corta Mameluco Algodón...'
 sku: 'B086X3HMLJ-es'
 tags: [ 'pijama', ]

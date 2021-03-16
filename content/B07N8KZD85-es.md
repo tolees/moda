@@ -5,7 +5,7 @@ date: 2020-01-13 16:29:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ODbAD2POL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8KZD85-es Izod Poplin Plaid BD Shirt Camisa Casual Rosa Candy Pink...'
 sku: 'B07N8KZD85-es'
 tags: [ 'camisa', ]

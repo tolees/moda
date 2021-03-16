@@ -5,7 +5,7 @@ date: 2020-10-05 21:01:58
 image: 'https://m.media-amazon.com/images/I/51DYos7+1xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772ZCRYM-es Columbia Canyon Point Mid Zapatos impermeables de...'
 sku: 'B0772ZCRYM-es'
 tags: [ 'zapatos', ]

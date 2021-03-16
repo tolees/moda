@@ -5,7 +5,7 @@ date: 2020-02-02 21:37:57
 image: 'https://m.media-amazon.com/images/I/31t1oLQHPWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9XJVTR-es Castellanisimos Zapatos Náuticos de Piel Marron Hombre con...'
 sku: 'B07Y9XJVTR-es'
 tags: [ 'zapatos', ]

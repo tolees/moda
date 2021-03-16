@@ -5,7 +5,7 @@ date: 2020-08-11 14:50:00
 image: 'https://m.media-amazon.com/images/I/41ax+ffWqfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0735CJH3Z-es Napapijri Rainforest Winter Chaqueta para Hombre Gris Dark...'
 sku: 'B0735CJH3Z-es'
 tags: [ 'chaqueta', ]

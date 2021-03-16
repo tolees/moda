@@ -5,7 +5,7 @@ date: 2020-01-23 08:01:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dNsPhVBWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3UR3WX-es Brandit Mella Sommerparka Parka Grün Olive 1 1 XL para Mujer'
 sku: 'B01N3UR3WX-es'
 tags: [ 'parka', ]

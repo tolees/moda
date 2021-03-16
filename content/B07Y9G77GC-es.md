@@ -5,7 +5,7 @@ date: 2020-04-10 08:29:01
 image: 'https://m.media-amazon.com/images/I/51tJlq9FniL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9G77GC-es CRZ YOGA Mujer Mallas Deportivo Pantalón Elastico para...'
 sku: 'B07Y9G77GC-es'
 tags: [ 'pantalón', ]

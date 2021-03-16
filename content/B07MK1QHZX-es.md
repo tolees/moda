@@ -5,7 +5,7 @@ date: 2020-03-29 21:14:59
 image: 'https://m.media-amazon.com/images/I/51JEufOxcOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QHZX-es Napapijri Gardiner Camisa Casual Rojo Red Check 01c XL...'
 sku: 'B07MK1QHZX-es'
 tags: [ 'camisa', ]

@@ -5,7 +5,7 @@ date: 2020-02-12 07:05:07
 image: 'https://m.media-amazon.com/images/I/41jhm2y4G8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NYQJRKV-es Sexy Lencería Picardias Mujer Body Transparente Conjunto...'
 sku: 'B07NYQJRKV-es'
 tags: [ 'pijama', ]

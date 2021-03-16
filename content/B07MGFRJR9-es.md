@@ -5,7 +5,7 @@ date: 2020-08-11 10:03:29
 image: 'https://m.media-amazon.com/images/I/41iThlrDY4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRJR9-es Napapijri Burgee 2 Sudadera con Capucha Verde Green Forest...'
 sku: 'B07MGFRJR9-es'
 tags: [ 'sudadera', ]

@@ -5,7 +5,7 @@ date: 2020-06-08 11:02:34
 image: 'https://m.media-amazon.com/images/I/41dkrlsc7kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0897QNYDB-es qingqingR Bolso de Hombro pequeño Transparente para Mujer...'
 sku: 'B0897QNYDB-es'
 tags: [ 'bolso', ]

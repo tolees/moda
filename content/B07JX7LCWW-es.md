@@ -5,7 +5,7 @@ date: 2020-01-30 12:51:55
 image: 'https://m.media-amazon.com/images/I/513ZIrXfYzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JX7LCWW-es Charles Wilson Camisa Lino Manga Corta para Hombre Small...'
 sku: 'B07JX7LCWW-es'
 tags: [ 'camisa', ]

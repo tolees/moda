@@ -5,7 +5,7 @@ date: 2020-08-18 15:31:44
 image: 'https://m.media-amazon.com/images/I/31YtgJW9qPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4SVXJK-es Concert Light Stick 15 Sticks de colores intercambiables...'
 sku: 'B08C4SVXJK-es'
 tags: [ 'moda', ]

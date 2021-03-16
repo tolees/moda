@@ -5,7 +5,7 @@ date: 2020-02-25 21:06:11
 image: 'https://m.media-amazon.com/images/I/41RBuLqhDQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4FFKQY-es Tommy Hilfiger Essential Hoodie Sweatdress Sudadera...'
 sku: 'B07N4FFKQY-es'
 tags: [ 'sudadera','vestido', ]

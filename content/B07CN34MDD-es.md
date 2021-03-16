@@ -5,7 +5,7 @@ date: 2020-05-14 23:02:57
 image: 'https://m.media-amazon.com/images/I/31LE22LISNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN34MDD-es Crocs Crocband Flip U Chanclas para Mujer Rosa Melon/White...'
 sku: 'B07CN34MDD-es'
 tags: [ 'chanclas', ]

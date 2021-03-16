@@ -5,7 +5,7 @@ date: 2020-02-04 00:10:27
 image: 'https://m.media-amazon.com/images/I/41OIeIPHYxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5C7TXC-es Geographical Norway Sudadera DE Hombre GYMCLASS B Naranja L'
 sku: 'B07Y5C7TXC-es'
 tags: [ 'sudadera', ]

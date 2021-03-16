@@ -5,7 +5,7 @@ date: 2020-01-04 11:52:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4173lBMcj5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078FBYJQR-es find. 64635 vaqueros mujer Azul Blue W36/L32 Talla del...'
 sku: 'B078FBYJQR-es'
 tags: [ 'vaqueros', ]

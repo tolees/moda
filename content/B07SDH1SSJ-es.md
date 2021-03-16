@@ -5,7 +5,7 @@ date: 2020-01-10 11:29:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WPMPwxx1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDH1SSJ-es adidas Vintage tee Camiseta Hombre Negro Black/Bluebird S'
 sku: 'B07SDH1SSJ-es'
 tags: [ 'camiseta', ]

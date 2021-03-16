@@ -5,7 +5,7 @@ date: 2020-06-28 07:01:03
 image: 'https://m.media-amazon.com/images/I/51vD61mb1yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTC1HWF-es Jack & Jones - Jorabe - Jersey de Punto - Deauville Mauve'
 sku: 'B01MTC1HWF-es'
 tags: [ 'jersey', ]

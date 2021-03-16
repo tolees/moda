@@ -5,7 +5,7 @@ date: 2020-06-14 12:43:15
 image: 'https://m.media-amazon.com/images/I/41QditBTvaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQF8Z8-es Pepe Jeans Josephs Camiseta Grey Marl 933 Medium para Hombre'
 sku: 'B07MZQF8Z8-es'
 tags: [ 'camiseta', ]

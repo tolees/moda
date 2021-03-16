@@ -5,7 +5,7 @@ date: 2020-06-26 09:56:04
 image: 'https://m.media-amazon.com/images/I/31DDzq4b7LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FH9V6ZQ-es Amazon Essentials – Pantalón chino sin pinzas en la parte...'
 sku: 'B07FH9V6ZQ-es'
 tags: [ 'pantalón', ]

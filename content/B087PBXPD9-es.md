@@ -5,7 +5,7 @@ date: 2020-07-20 10:00:43
 image: 'https://m.media-amazon.com/images/I/51Nm2rPMkGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PBXPD9-es Suhctup Funda Compatible con Huawei Enjoy 8S/Y5 2019...'
 sku: 'B087PBXPD9-es'
 tags: [ 'billetera', ]

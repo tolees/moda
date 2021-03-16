@@ -5,7 +5,7 @@ date: 2020-06-24 17:26:37
 image: 'https://m.media-amazon.com/images/I/41G3k98HQ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772J6ZZH-es Marca Amazon - MERAKI POETME005 Pantalones Cortos Hombre...'
 sku: 'B0772J6ZZH-es'
 tags: [ 'meraki', ]

@@ -5,7 +5,7 @@ date: 2020-02-24 17:32:51
 image: 'https://m.media-amazon.com/images/I/31raXYMoAwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3W6D2G-es Fortnite Floss Dance - Camiseta color gris oscuro talla L'
 sku: 'B07K3W6D2G-es'
 tags: [ 'camiseta', ]

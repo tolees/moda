@@ -5,7 +5,7 @@ date: 2020-09-06 11:04:22
 image: 'https://m.media-amazon.com/images/I/51LyOjRCkLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWX5CSP-es Pepe Jeans Vestido Multicolor Multi 0aa X-Large para Mujer'
 sku: 'B07VWX5CSP-es'
 tags: [ 'vestido', ]

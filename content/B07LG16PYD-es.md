@@ -5,7 +5,7 @@ date: 2020-10-02 15:29:49
 image: 'https://m.media-amazon.com/images/I/31xicIlf7YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LG16PYD-es Geox Women s D NEW ANNYA MID A Closed Toe Heels Blue Navy...'
 sku: 'B07LG16PYD-es'
 tags: [ 'geox', ]

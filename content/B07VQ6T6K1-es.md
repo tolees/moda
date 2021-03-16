@@ -5,7 +5,7 @@ date: 2020-05-23 13:55:42
 image: 'https://m.media-amazon.com/images/I/31Rk0mIupwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQ6T6K1-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte Rojo...'
 sku: 'B07VQ6T6K1-es'
 tags: [ 'camiseta', ]

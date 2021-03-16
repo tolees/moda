@@ -5,7 +5,7 @@ date: 2020-08-05 10:35:25
 image: 'https://m.media-amazon.com/images/I/41CPcrldQVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0887RR8ZC-es Aiboria Pijama Mujer Seda Verano Cortos 2 Piezas sin...'
 sku: 'B0887RR8ZC-es'
 tags: [ 'pijama', ]

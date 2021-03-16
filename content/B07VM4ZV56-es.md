@@ -5,7 +5,7 @@ date: 2020-04-20 08:02:41
 image: 'https://m.media-amazon.com/images/I/41DPBWXg35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VM4ZV56-es JIASUQI Zapatos clásicos de deporte descalzo para niños...'
 sku: 'B07VM4ZV56-es'
 tags: [ 'zapatos', ]

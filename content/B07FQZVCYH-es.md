@@ -5,7 +5,7 @@ date: 2020-01-08 18:59:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/314XAr8QR2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQZVCYH-es Ternua Corno Pants Pantalón Hombre Negro Black M'
 sku: 'B07FQZVCYH-es'
 tags: [ 'pantalón', ]

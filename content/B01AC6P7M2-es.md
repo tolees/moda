@@ -5,7 +5,7 @@ date: 2020-10-03 18:40:08
 image: 'https://m.media-amazon.com/images/I/31Jj1MhXhaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AC6P7M2-es Nike Park VI Camiseta de Manga Corta para hombre Negro...'
 sku: 'B01AC6P7M2-es'
 tags: [ 'camiseta', ]

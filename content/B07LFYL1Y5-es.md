@@ -5,7 +5,7 @@ date: 2020-02-03 20:26:17
 image: 'https://m.media-amazon.com/images/I/21VQBbseVtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYL1Y5-es Geox D Hiver E Zapatillas para Mujer Marfil Off White...'
 sku: 'B07LFYL1Y5-es'
 tags: [ 'geox', ]

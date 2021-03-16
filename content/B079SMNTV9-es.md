@@ -5,7 +5,7 @@ date: 2020-09-07 08:06:17
 image: 'https://m.media-amazon.com/images/I/41jKw1syfYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SMNTV9-es Desigual Padded Elysian Abrigo Negro 2000 38 Talla del...'
 sku: 'B079SMNTV9-es'
 tags: [ 'abrigo', ]

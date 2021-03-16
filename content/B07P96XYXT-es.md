@@ -5,7 +5,7 @@ date: 2020-03-13 21:40:29
 image: 'https://m.media-amazon.com/images/I/41busYQsClL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P96XYXT-es Wrangler LS Western Shirt Camisa Gris Dark Grey Mel X06...'
 sku: 'B07P96XYXT-es'
 tags: [ 'camisa', ]

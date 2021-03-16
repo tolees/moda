@@ -5,7 +5,7 @@ date: 2020-10-12 21:30:06
 image: 'https://m.media-amazon.com/images/I/419ff5PO2wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKKP7RH-es Superdry OL Vintage Emb Crew Camiseta Azul Navy Fluro...'
 sku: 'B07TKKP7RH-es'
 tags: [ 'camiseta', ]

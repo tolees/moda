@@ -5,7 +5,7 @@ date: 2020-07-21 23:22:11
 image: 'https://m.media-amazon.com/images/I/41Eov7TdHOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0736TYXK4-es Vero Moda Vmava Plain Ss Top Ga Noos Camiseta para Mujer...'
 sku: 'B0736TYXK4-es'
 tags: [ 'camiseta','moda', ]

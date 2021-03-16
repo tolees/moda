@@ -5,7 +5,7 @@ date: 2020-08-11 10:44:55
 image: 'https://m.media-amazon.com/images/I/41Zf5Y764sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KDFQ92T-es adidas Tiro19 Pre Jkty Chaqueta de Deporte Unisex niños...'
 sku: 'B07KDFQ92T-es'
 tags: [ 'chaqueta', ]

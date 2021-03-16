@@ -5,7 +5,7 @@ date: 2020-02-23 23:22:10
 image: 'https://m.media-amazon.com/images/I/41RAgFwr9OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1PGFR2-es Rowenta Depiladora Flower Love Kit 3 en 1 - EP2853F0-2...'
 sku: 'B07S1PGFR2-es'
 tags: [ 'bikini', ]

@@ -5,7 +5,7 @@ date: 2020-01-10 12:56:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31f3XGXh4xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQVGS36-es Tommy Hilfiger Tommy Flag Hilfiger tee Camisa Deportiva...'
 sku: 'B07JQVGS36-es'
 tags: [ 'camisa', ]

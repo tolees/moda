@@ -5,7 +5,7 @@ date: 2020-03-30 19:56:23
 image: 'https://m.media-amazon.com/images/I/318KF73xdzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN7J1Y4-es Crocs Reviva Flip Chanclas Unisex Adulto Negro Black/Slate...'
 sku: 'B07CN7J1Y4-es'
 tags: [ 'chanclas', ]

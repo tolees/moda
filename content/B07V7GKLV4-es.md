@@ -5,7 +5,7 @@ date: 2020-09-10 10:55:41
 image: 'https://m.media-amazon.com/images/I/41LD-RiDj5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7GKLV4-es Calvin Klein Instit Back Pop Logo Slim tee Camiseta Gris...'
 sku: 'B07V7GKLV4-es'
 tags: [ 'camiseta', ]

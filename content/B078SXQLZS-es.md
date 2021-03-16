@@ -5,7 +5,7 @@ date: 2020-08-28 14:05:46
 image: 'https://m.media-amazon.com/images/I/41BD5lJHB2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SXQLZS-es Timberland Kiri Up Oxford Zapatillas de Gimnasia para...'
 sku: 'B078SXQLZS-es'
 tags: [ 'timberland', ]

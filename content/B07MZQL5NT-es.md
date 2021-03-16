@@ -5,7 +5,7 @@ date: 2020-06-24 08:43:26
 image: 'https://m.media-amazon.com/images/I/41-L9jxRdwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQL5NT-es Pepe Jeans Kenth Camiseta Coal 992 Small para Hombre'
 sku: 'B07MZQL5NT-es'
 tags: [ 'camiseta', ]

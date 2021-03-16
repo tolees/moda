@@ -5,7 +5,7 @@ date: 2020-03-14 20:08:13
 image: 'https://m.media-amazon.com/images/I/41rY1WK80DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19DYZ5-es Lee Shirt Dress Vestido Rojo Warp Red Kg X-Large para Mujer'
 sku: 'B07N19DYZ5-es'
 tags: [ 'vestido', ]

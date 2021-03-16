@@ -5,7 +5,7 @@ date: 2020-04-18 10:46:43
 image: 'https://m.media-amazon.com/images/I/41M39243QkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DSXA0JQ-es SONGMICS Perchero con 3 Capas para Zapatos con 18 Ganchos...'
 sku: 'B01DSXA0JQ-es'
 tags: [ 'zapatos', ]

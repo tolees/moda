@@ -5,7 +5,7 @@ date: 2020-02-25 20:22:59
 image: 'https://m.media-amazon.com/images/I/516J5IL++eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WYDHQ7Z-es Omasi Gafas de esquí Máscara Gafas Esqui Snowboard para...'
 sku: 'B07WYDHQ7Z-es'
 tags: [ 'gafas', ]

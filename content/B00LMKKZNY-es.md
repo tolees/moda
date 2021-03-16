@@ -5,7 +5,7 @@ date: 2020-07-04 19:39:24
 image: 'https://m.media-amazon.com/images/I/31dwstOf3eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LMKKZNY-es Quiksilver Carver Suede M Sndl Sandalias con Plataforma...'
 sku: 'B00LMKKZNY-es'
 tags: [ 'sandalias', ]

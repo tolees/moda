@@ -5,7 +5,7 @@ date: 2020-01-26 12:42:40
 image: 'https://m.media-amazon.com/images/I/41TSvGYYOaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZY5WB-es Geox D Myria A Zapatillas para Mujer Beige Champagne/Off...'
 sku: 'B07LFZY5WB-es'
 tags: [ 'geox', ]
