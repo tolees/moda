@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PNM3LT-es Adidas CORE18 Hoody Sudadera con Capucha Hombre Rojo...'
 sku: 'B076PNM3LT-es'
-tags: [ 'Calcetines hasta la pantorrilla para hombre','Calcetines para hombre','Chaquetas para mujer','Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera', ]
+tags: [ 'Calcetines hasta la pantorrilla para hombre','Calcetines para hombre','Chaquetas para mujer','Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Sudaderas con capucha para hombre','Sudaderas para hombre','Vestidos casual para mujer','Vestidos para mujer','adidas','sudadera', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98
@@ -28,9 +28,9 @@ En este momento está [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  R
 
 🔎:
 
-- Tiene una capucha ajustable con cordón
-- Ventilación Climacool.
-- Escote redondo.
 - Sin mangas.
+- Tiene una capucha ajustable con cordón
+- Escote redondo.
+- Ventilación Climacool.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076PNM3LT/?tag=tolees-21)

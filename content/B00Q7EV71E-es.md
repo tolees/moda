@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q7EV71E-es Columbia Peakfreak Venture Zapatos impermeables para...'
 sku: 'B00Q7EV71E-es'
-tags: [ 'Abrigos para mujer','Accesorios','Accesorios de viaje','Accesorios para hombre','Bikinis y Braguitas para mujer','Blusas y camisas para mujer','Braguitas y culottes para mujer','Bóxers ajustados para hombre','Calcetines hasta la pantorrilla para hombre','Calcetines para hombre','Calzado de senderismo para hombre','Calzado deportivo para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, tops y blusas para mujer','Chaquetas para hombre','Chaquetas para mujer','Equipaje','Gafas de sol para hombre','Gafas y accesorios para hombre','Jerséis, cárdigans y sudaderas para hombre','Juguetes','Juguetes y juegos','Lencería y ropa interior para mujer','Muñecas bebé','Muñecas y accesorios','Neceseres de viaje','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa de dormir, lencería y ropa interior para mujer','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Ropa para niña','Sandalias de vestir para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','Vestidos para niña','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de tacón','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Abrigos para mujer','Accesorios','Accesorios de viaje','Accesorios para hombre','Bikinis y Braguitas para mujer','Blusas y camisas para mujer','Braguitas y culottes para mujer','Calcetines hasta la pantorrilla para hombre','Calcetines para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, tops y blusas para mujer','Chaquetas para hombre','Chaquetas para mujer','Equipaje','Gafas de sol para hombre','Gafas y accesorios para hombre','Jerséis, cárdigans y sudaderas para hombre','Lencería y ropa interior para mujer','Neceseres de viaje','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa de dormir, lencería y ropa interior para mujer','Ropa para hombre','Ropa para mujer','Sandalias de vestir para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','Vestidos casual para mujer','Vestidos para mujer','Zapatos','Zapatos de tacón','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 86.66 EUR
 currency: EUR
 price: 86.66
@@ -28,13 +28,13 @@ Está [Columbia Peakfreak Venture Zapatos impermeables para hombre   Negro Black
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Altura del tacón: 1 centímetros
-- Material de la suela: Caucho
+- Cierre: Cordones
 - Composición: Cuero/Malla
-- Anchura del zapato: Normal
 - Material exterior: Cuero
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
+- Revestimiento: Sintético
+- Material de la suela: Caucho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Q7EV71E/?tag=tolees-21)
