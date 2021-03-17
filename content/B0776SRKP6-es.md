@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776SRKP6-es Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3...'
 sku: 'B0776SRKP6-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Deportes y aire libre','Fútbol','Polos para hombre','Ropa','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para niño','Vaqueros para hombre','camiseta','tommy hilfiger', ]
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chaquetas para mujer','Deportes y aire libre','Fútbol','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Vaqueros para hombre','Vaqueros para mujer','camiseta','tommy hilfiger', ]
 actualPrice: 43.19 EUR
 currency: EUR
 price: 43.19
@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3 Botones  Azul  Blac
 
 ℹ️:
 
-- Tiene cuello y puños de punto acanalado
 - Presenta la bandera de Tommy Jeans bordada en el pecho
+- Tiene cuello y puños de punto acanalado
 - Fabricado en algodón orgánico
 - Con tapeta de tres botones
 

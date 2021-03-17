@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079C4YGGK-es Jack & Jones Jjebasic Polo SS Noos - Camiseta para Hombre...'
 sku: 'B079C4YGGK-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Deportes y aire libre','Fútbol','Polos para hombre','Ropa','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para niño','Vaqueros para hombre','camiseta','jack & jones', ]
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chaquetas para mujer','Deportes y aire libre','Fútbol','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Vaqueros para hombre','Vaqueros para mujer','camiseta','jack & jones', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

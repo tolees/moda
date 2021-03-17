@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J5U68YM-es Lee Rider Jeans Vaqueros Blue Surrender 28W / 32L para Hombre'
 sku: 'B01J5U68YM-es'
-tags: [ 'Ropa','Ropa para hombre','Vaqueros para hombre','lee','vaqueros', ]
+tags: [ 'Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Vaqueros para hombre','Vaqueros para mujer','lee','vaqueros', ]
 actualPrice: 57.2 EUR
 currency: EUR
 price: 57.2
@@ -28,8 +28,8 @@ En este momento está [Lee Rider Jeans Vaqueros  Blue Surrender  28W / 32L para 
 
 🔎:
 
-- Estilo 5 bolsillos
 - Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo 5 bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01J5U68YM/?tag=tolees-21)

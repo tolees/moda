@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7GDPKY-es adidas TIRO19 TR JKTY Chaqueta de Deporte Unisex niños...'
 sku: 'B07K7GDPKY-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Deportes y aire libre','Fútbol','Ropa','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para niño','Vaqueros para hombre','adidas','chaqueta', ]
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chaquetas para mujer','Deportes y aire libre','Fútbol','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Vaqueros para hombre','Vaqueros para mujer','adidas','chaqueta', ]
 actualPrice: 22.16 EUR
 currency: EUR
 price: 22.16
@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas TIRO19 TR JKTY Chaqueta de Deporte  Unisex niños  Bo
 
 🔎:
 
-- Climalite anti-humidity fabric
 - Full zip
 - Regular fit
+- Climalite anti-humidity fabric
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K7GDPKY/?tag=tolees-21)

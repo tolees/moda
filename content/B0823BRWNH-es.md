@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823BRWNH-es Levi s SS Original Hm tee Camiseta Colony Blue X-Small...'
 sku: 'B0823BRWNH-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','Vaqueros para hombre','camiseta','levis', ]
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Vaqueros para hombre','Vaqueros para mujer','camiseta','levis', ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94
@@ -28,8 +28,8 @@ En este momento está [Levi s SS Original Hm tee Camiseta  Colony Blue  X-Small 
 
 🔎:
 
-- Logotipo pequeño de Levis en el pecho
 - Adecuada para el día a día
 - Modelo casual
+- Logotipo pequeño de Levis en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0823BRWNH/?tag=tolees-21)

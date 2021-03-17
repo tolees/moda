@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q7EV71E-es Columbia Peakfreak Venture Zapatos impermeables para...'
 sku: 'B00Q7EV71E-es'
-tags: [ 'Acampada y senderismo','Calzado deportivo para hombre','Camisetas de manga larga para hombre','Camisetas de pijama para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chanclas y sandalias de piscina para hombre','Chaquetas de acampada y marcha para hombre','Chaquetas de navegación para hombre','Chaquetas deportivas para hombre','Ciclismo','Collares  para mujer','Deportes acuáticos','Deportes y aire libre','Forros de acampada y marcha para hombre','Fútbol','Gafas de ciclismo','Joyería','Joyería para mujer','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Náutica','Polos para hombre','Ropa','Ropa de acampada','Ropa de acampada para hombre','Ropa de dormir para hombre','Ropa de fútbol','Ropa de fútbol para hombre','Ropa de navegación','Ropa de navegación para hombre','Ropa deportiva para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para niño','Sandalias de vestir para hombre','Sandalias de vestir para mujer','Sandalias y palas de mujer','Vaqueros para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Camisetas de manga larga para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chaquetas para mujer','Collares  para mujer','Deportes y aire libre','Fútbol','Joyería','Joyería para mujer','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Sandalias de vestir para hombre','Sandalias de vestir para mujer','Sandalias y palas de mujer','Vaqueros para hombre','Vaqueros para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 86.66 EUR
 currency: EUR
 price: 86.66
@@ -28,13 +28,13 @@ Está [Columbia Peakfreak Venture Zapatos impermeables para hombre   Negro Black
 
 ℹ️:
 
-- Composición: Cuero/Malla
-- Cierre: Cordones
-- Revestimiento: Sintético
 - Altura del tacón: 1 centímetros
 - Tipo de tacón: Plano
-- Material exterior: Cuero
-- Material de la suela: Caucho
 - Anchura del zapato: Normal
+- Material de la suela: Caucho
+- Material exterior: Cuero
+- Revestimiento: Sintético
+- Cierre: Cordones
+- Composición: Cuero/Malla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Q7EV71E/?tag=tolees-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTH9X3M-es Lee Rider Vaqueros Slim para Hombre Azul Broken Blue Sx...'
 sku: 'B07FTH9X3M-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','Vaqueros para hombre','lee','vaqueros', ]
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Vaqueros para hombre','Vaqueros para mujer','lee','vaqueros', ]
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71
@@ -28,8 +28,8 @@ En este momento está [Lee Rider  Vaqueros Slim para Hombre  Azul  Broken Blue S
 
 🔎:
 
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
 - Estilo 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FTH9X3M/?tag=tolees-21)
