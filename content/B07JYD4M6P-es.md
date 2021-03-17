@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYD4M6P-es Jack & Jones Jcorocky Jacket Noos Chaqueta Negro Black...'
 sku: 'B07JYD4M6P-es'
-tags: [ 'chaqueta','jack & jones', ]
+tags: [ 'Bóxers ajustados para hombre','Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Chaquetas para hombre','Faldas para mujer','Ropa','Ropa de abrigo para hombre','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Ropa para niña','Sandalias de vestir para niño','Vestidos para niña','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para niños pequeños','Zapatos y complementos','chaqueta','jack & jones', ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49
