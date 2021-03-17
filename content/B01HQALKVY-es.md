@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQALKVY-es Crocs Crocband U Zuecos Unisex Adulto Gris Light Grey-Navy...'
 sku: 'B01HQALKVY-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','crocs','zuecos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Camisetas de equipación de fútbol para niño','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Chanclas y sandalias de piscina para hombre','Deportes y aire libre','Fútbol','Productos para fans','Ropa','Ropa de fútbol','Ropa para hombre','Ropa para niño','Ropa para niño de fútbol','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','crocs','zuecos', ]
 actualPrice: 32.14 EUR
 currency: EUR
 price: 32.14

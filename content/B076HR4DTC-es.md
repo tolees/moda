@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HR4DTC-es adidas Core18 PES Jkt Chaqueta de Deporte Hombre Negro...'
 sku: 'B076HR4DTC-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chanclas y sandalias de piscina para hombre','Chaquetas para hombre','Deportes y aire libre','Fútbol','Jerséis, cárdigans y sudaderas para hombre','Polos para hombre','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Ropa','Ropa de abrigo para hombre','Ropa de fútbol','Ropa de fútbol para hombre','Ropa para hombre','Sandalias y chanclas para niña','Sudaderas con capucha para hombre','Sudaderas de fútbol para hombre','Sudaderas para hombre','Vaqueros para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','adidas','chaqueta', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Camisetas de equipación de fútbol para niño','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Chanclas y sandalias de piscina para hombre','Chaquetas para hombre','Deportes y aire libre','Fútbol','Jerséis, cárdigans y sudaderas para hombre','Polos para hombre','Productos para fans','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Ropa','Ropa de abrigo para hombre','Ropa de fútbol','Ropa de fútbol para hombre','Ropa para hombre','Ropa para niño','Ropa para niño de fútbol','Sandalias y chanclas para niña','Sudaderas con capucha para hombre','Sudaderas de fútbol para hombre','Sudaderas para hombre','Vaqueros para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','adidas','chaqueta', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98
@@ -28,8 +28,8 @@ Tienes [adidas Core18 PES Jkt Chaqueta de Deporte  Hombre  Negro  Black/White   
 
 🔎:
 
-- Material 100% poliéster
 - Cuello altamente cerrable
+- Material 100% poliéster
 - Puños con puños elásticos
 - Chaqueta con bolsillos con cremallera
 

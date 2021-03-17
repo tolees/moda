@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JCSSYW-es Crocs Crocband Zuecos Unisex Adulto Azul Navy 36/37 EU'
 sku: 'B002JCSSYW-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chanclas y sandalias de piscina para hombre','Ropa','Ropa para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','crocs','zuecos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Camisetas de equipación de fútbol para niño','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Chanclas y sandalias de piscina para hombre','Deportes y aire libre','Fútbol','Productos para fans','Ropa','Ropa de fútbol','Ropa para hombre','Ropa para niño','Ropa para niño de fútbol','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','crocs','zuecos', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99
@@ -28,13 +28,13 @@ Ahora mismo tienes [Crocs Crocband  Zuecos Unisex Adulto  Azul  Navy   36/37 EU]
 
 🔎:
 
-- Material exterior: Espuma
 - Material de la suela: Goma
+- Tipo de tacón: Plano
 - Cierre: Sin cordones
 - Tipo de talla: talla estándar
-- Tipo de tacón: Plano
-- Altura del tacón: 1 centímetro
 - Composición: Sintético
+- Material exterior: Espuma
 - Revestimiento: Sintético
+- Altura del tacón: 1 centímetro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002JCSSYW/?tag=tolees-21)
