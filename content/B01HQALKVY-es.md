@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Crocs Crocband U  Zuecos Unisex Adulto   al 41.65 % de descuento'
-date: 2021-03-14 20:31:57
+title: 'Crocs Crocband U  Zuecos Unisex Adulto   al 28.56 % de descuento'
+date: 2021-03-17 14:19:18
 image: 'https://m.media-amazon.com/images/I/41CptNqp+DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HQALKVY-es Crocs Crocband U Zuecos Unisex Adulto Gris Light Grey-Navy...'
 sku: 'B01HQALKVY-es'
-tags: [ 'zuecos', ]
-actualPrice: 26.25 EUR
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','crocs','zuecos', ]
+actualPrice: 32.14 EUR
 currency: EUR
-price: 26.25
+price: 32.14
 comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Gris  Light Grey-Navy   36-37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B01HQALKVY/?tag=tolees-21'
-descuento: '41.65'
-average: '31.0507142857143'
+descuento: '28.56'
+average: '31.186875'
 ---
 
-Está [Crocs Crocband U  Zuecos Unisex Adulto  Gris  Light Grey-Navy   36-37 EU](https://www.amazon.es/dp/B01HQALKVY/?tag=tolees-21) con 41.65 de descuento por 26.25 EUR (original: 44.99 EUR) en el siguiente enlace!
+Está [Crocs Crocband U  Zuecos Unisex Adulto  Gris  Light Grey-Navy   36-37 EU](https://www.amazon.es/dp/B01HQALKVY/?tag=tolees-21) con 28.56 de descuento por 32.14 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![Crocs Crocband U  Zuecos Unisex Adulto  ](https://m.media-amazon.com/images/I/41CptNqp+DL._SL400_.jpg)](https://www.amazon.es/dp/B01HQALKVY/?tag=tolees-21)
 
 ℹ️:
 
 - Altura del tacón: 1.5 pulgadas
-- Cierre: Sin cordones
 - Revestimiento: Sintético
 - Material de la suela: Goma
 - Material exterior: Espuma
+- Cierre: Sin cordones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HQALKVY/?tag=tolees-21)

@@ -1,40 +1,40 @@
 ---
 layout: post
-title: 'Crocs Crocband  Zuecos Unisex Adulto  Az al 17.78 % de descuento'
-date: 2021-03-13 01:24:49
+title: 'Crocs Crocband  Zuecos Unisex Adulto  Az al 20.00 % de descuento'
+date: 2021-03-17 14:15:35
 image: 'https://m.media-amazon.com/images/I/31BoZ-DftuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002JCSSYW-es Crocs Crocband Zuecos Unisex Adulto Azul Navy 36/37 EU'
 sku: 'B002JCSSYW-es'
-tags: [ 'zuecos', ]
-actualPrice: 36.99 EUR
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chanclas y sandalias de piscina para hombre','Ropa','Ropa para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','crocs','zuecos', ]
+actualPrice: 35.99 EUR
 currency: EUR
-price: 36.99
+price: 35.99
 comparePrice: 44.99 EUR
 prodname: 'Crocs Crocband  Zuecos Unisex Adulto  Azul  Navy   36/37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B002JCSSYW/?tag=tolees-21'
-descuento: '17.78'
-average: '32.4629577464789'
+descuento: '20.00'
+average: '32.7116216216216'
 ---
 
-Ahora mismo tienes [Crocs Crocband  Zuecos Unisex Adulto  Azul  Navy   36/37 EU](https://www.amazon.es/dp/B002JCSSYW/?tag=tolees-21) a 36.99 EUR (original: 44.99 EUR) (17.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Crocs Crocband  Zuecos Unisex Adulto  Azul  Navy   36/37 EU](https://www.amazon.es/dp/B002JCSSYW/?tag=tolees-21) a 35.99 EUR (original: 44.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
 [![Crocs Crocband  Zuecos Unisex Adulto  Az](https://m.media-amazon.com/images/I/31BoZ-DftuL._SL400_.jpg)](https://www.amazon.es/dp/B002JCSSYW/?tag=tolees-21)
 
 🔎:
 
-- Composición: Sintético
-- Cierre: Sin cordones
-- Altura del tacón: 1 centímetro
 - Material exterior: Espuma
 - Material de la suela: Goma
-- Revestimiento: Sintético
-- Tipo de tacón: Plano
+- Cierre: Sin cordones
 - Tipo de talla: talla estándar
+- Tipo de tacón: Plano
+- Altura del tacón: 1 centímetro
+- Composición: Sintético
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002JCSSYW/?tag=tolees-21)
