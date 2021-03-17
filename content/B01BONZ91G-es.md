@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BONZ91G-es ECCO Soft 2.0 Zapatos de Cordones Derby para Mujer Negro...'
 sku: 'B01BONZ91G-es'
-tags: [ 'Camisetas de manga larga para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chaquetas para mujer','Collares  para mujer','Deportes y aire libre','Fútbol','Joyería','Joyería para mujer','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Sandalias de vestir para hombre','Sandalias de vestir para mujer','Sandalias y palas de mujer','Vaqueros para hombre','Vaqueros para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Accesorios para hombre','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Chalecos de fútbol para hombre','Chaquetas para mujer','Deportes y aire libre','Fútbol','Gafas de sol para hombre','Gafas y accesorios para hombre','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Vaqueros para hombre','Vaqueros para mujer','zapatos', ]
 actualPrice: 35.28 EUR
 currency: EUR
 price: 35.28

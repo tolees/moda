@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTH9X3M-es Lee Rider Vaqueros Slim para Hombre Azul Broken Blue Sx...'
 sku: 'B07FTH9X3M-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Vaqueros para hombre','Vaqueros para mujer','lee','vaqueros', ]
+tags: [ 'Accesorios para hombre','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Chaquetas para mujer','Gafas de sol para hombre','Gafas y accesorios para hombre','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Ropa para niño','Vaqueros para hombre','Vaqueros para mujer','lee','vaqueros', ]
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DCZ6B9J-es Marca Amazon - find. Abrigo Hombre Marrón Brown 3XL Label:...'
 sku: 'B07DCZ6B9J-es'
-tags: [ '-','Camisetas de manga larga para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chaquetas para mujer','Collares  para mujer','Deportes y aire libre','Fútbol','Joyería','Joyería para mujer','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Sandalias de vestir para hombre','Sandalias de vestir para mujer','Sandalias y palas de mujer','Vaqueros para hombre','Vaqueros para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','abrigo','find.', ]
+tags: [ '-','Accesorios para hombre','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Chalecos de fútbol para hombre','Chaquetas para mujer','Deportes y aire libre','Fútbol','Gafas de sol para hombre','Gafas y accesorios para hombre','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Vaqueros para hombre','Vaqueros para mujer','abrigo','find.', ]
 actualPrice: 29.21 EUR
 currency: EUR
 price: 29.21

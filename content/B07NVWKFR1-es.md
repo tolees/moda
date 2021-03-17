@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVWKFR1-es Armor Lux 77288 Chaqueta Negro Noir 010 Medium Talla del...'
 sku: 'B07NVWKFR1-es'
-tags: [ 'Camisetas de manga larga para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chaquetas para mujer','Collares  para mujer','Deportes y aire libre','Fútbol','Joyería','Joyería para mujer','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Sandalias de vestir para hombre','Sandalias de vestir para mujer','Sandalias y palas de mujer','Vaqueros para hombre','Vaqueros para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','chaqueta', ]
+tags: [ 'Accesorios para hombre','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Chalecos de fútbol para hombre','Chaquetas para mujer','Deportes y aire libre','Fútbol','Gafas de sol para hombre','Gafas y accesorios para hombre','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Vaqueros para hombre','Vaqueros para mujer','chaqueta', ]
 actualPrice: 121.43 EUR
 currency: EUR
 price: 121.43

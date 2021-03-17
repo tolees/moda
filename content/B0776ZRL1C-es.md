@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776ZRL1C-es Tommy Hilfiger Original Jersey Camiseta Blanco Classic...'
 sku: 'B0776ZRL1C-es'
-tags: [ 'Camisetas de manga larga para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chaquetas para mujer','Collares  para mujer','Deportes y aire libre','Fútbol','Joyería','Joyería para mujer','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Sandalias de vestir para hombre','Sandalias de vestir para mujer','Sandalias y palas de mujer','Vaqueros para hombre','Vaqueros para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','camiseta','jersey', ]
+tags: [ 'Accesorios para hombre','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Chalecos de fútbol para hombre','Chaquetas para mujer','Deportes y aire libre','Fútbol','Gafas de sol para hombre','Gafas y accesorios para hombre','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Vaqueros para hombre','Vaqueros para mujer','camiseta','jersey', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49
