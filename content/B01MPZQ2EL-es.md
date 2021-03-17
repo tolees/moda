@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'oodji Ultra Mujer Blusa Estampada de Gas al 36.89 % de descuento'
-date: 2021-03-15 22:50:22
+date: 2021-03-17 05:35:04
 image: 'https://m.media-amazon.com/images/I/51v2xaf6IVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MPZQ2EL-es oodji Ultra Mujer Blusa Estampada de Gasa Verde ES 34 / XXS'
 sku: 'B01MPZQ2EL-es'
-tags: [ 'blusa', ]
+tags: [ 'blusa','oodji ultra', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7
@@ -28,8 +28,8 @@ Ahora mismo tienes [oodji Ultra Mujer Blusa Estampada de Gasa  Verde  ES 34 / XX
 
 🔎:
 
-- Cómoda y ligera blusa perfecta para el el buen tiempo y el entretiempo
 - Estilo de ropa: Casual
+- Cómoda y ligera blusa perfecta para el el buen tiempo y el entretiempo
 - Modelo: Talla S. Medidas: 85/63/90. Altura/peso: 176cm/55kg
 - Elegante blusa con original estmapado ideal para crear un look casual
 
