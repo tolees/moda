@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WWPEQ7Y-es JACK & JONES SENSE TRUNKS 3-PACK Bóxer Blanco Large Pack...'
 sku: 'B00WWPEQ7Y-es'
-tags: [ 'Bóxers ajustados para hombre','Ropa','Ropa interior para hombre','Ropa para hombre','Ropa para niña','Vestidos para niña','bóxer','jack & jones', ]
+tags: [ 'Accesorios','Accesorios de viaje','Accesorios para hombre','Bóxers ajustados para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas para hombre','Chaquetas para mujer','Equipaje','Gafas de sol para hombre','Gafas y accesorios para hombre','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Neceseres de viaje','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Ropa para niña','Sandalias de vestir para hombre','Vestidos para niña','Zapatos','Zapatos para hombre','Zapatos y complementos','bóxer','jack & jones', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

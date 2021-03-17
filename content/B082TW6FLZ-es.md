@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082TW6FLZ-es Hub USB C Adaptador USB C 11 en 1 con 4 USB3.0/2.0 4K HDMI...'
 sku: 'B082TW6FLZ-es'
-tags: [ 'chaqueta', ]
+tags: [ 'Accesorios','Accesorios de viaje','Accesorios para hombre','Bóxers ajustados para hombre','Calzado de senderismo para hombre','Calzado deportivo para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chanclas y sandalias de piscina para hombre','Chaquetas para hombre','Chaquetas para mujer','Equipaje','Faldas para mujer','Gafas de sol para hombre','Gafas y accesorios para hombre','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Neceseres de viaje','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Ropa para niña','Sandalias de vestir para hombre','Vestidos para niña','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

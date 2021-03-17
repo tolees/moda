@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U2P0K6C-es KRISP 6610-CORBLK-08 Vestido Corto Patinadora Vuelo...'
 sku: 'B00U2P0K6C-es'
-tags: [ 'vestido', ]
+tags: [ 'Accesorios','Accesorios de viaje','Accesorios para hombre','Bóxers ajustados para hombre','Calzado de senderismo para hombre','Calzado deportivo para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chanclas y sandalias de piscina para hombre','Chaquetas para hombre','Chaquetas para mujer','Equipaje','Faldas para mujer','Gafas de sol para hombre','Gafas y accesorios para hombre','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Neceseres de viaje','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Ropa para niña','Sandalias de vestir para hombre','Vestidos para niña','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','vestido', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

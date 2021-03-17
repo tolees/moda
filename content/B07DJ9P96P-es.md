@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ9P96P-es Geox D Marykarmen Mid Sandal E Sandalias con Punta Abierta...'
 sku: 'B07DJ9P96P-es'
-tags: [ 'geox','sandalias', ]
+tags: [ 'Accesorios','Accesorios de viaje','Accesorios para hombre','Bóxers ajustados para hombre','Calzado de senderismo para hombre','Calzado deportivo para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chanclas y sandalias de piscina para hombre','Chaquetas para hombre','Chaquetas para mujer','Equipaje','Faldas para mujer','Gafas de sol para hombre','Gafas y accesorios para hombre','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Neceseres de viaje','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Ropa para niña','Sandalias de vestir para hombre','Vestidos para niña','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','sandalias', ]
 actualPrice: 28.66 EUR
 currency: EUR
 price: 28.66

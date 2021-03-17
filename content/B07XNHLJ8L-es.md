@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XNHLJ8L-es Freaky Nation Lucky Jim-fn Chaqueta Negro Black 9000 Large...'
 sku: 'B07XNHLJ8L-es'
-tags: [ 'Bóxers ajustados para hombre','Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa interior para hombre','Ropa para hombre','Ropa para niña','Vestidos para niña','chaqueta','freaky nation', ]
+tags: [ 'Accesorios','Accesorios de viaje','Accesorios para hombre','Bóxers ajustados para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas para hombre','Chaquetas para mujer','Equipaje','Gafas de sol para hombre','Gafas y accesorios para hombre','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Neceseres de viaje','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Ropa para niña','Sandalias de vestir para hombre','Vestidos para niña','Zapatos','Zapatos para hombre','Zapatos y complementos','chaqueta','freaky nation', ]
 actualPrice: 87.31 EUR
 currency: EUR
 price: 87.31

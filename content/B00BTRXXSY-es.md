@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BTRXXSY-es Porsche Design Sonnenbrille P8486 A 71 0 130 Iconic Gafas...'
 sku: 'B00BTRXXSY-es'
-tags: [ 'gafas', ]
+tags: [ 'Accesorios','Accesorios de viaje','Accesorios para hombre','Bóxers ajustados para hombre','Calzado de senderismo para hombre','Calzado deportivo para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chanclas y sandalias de piscina para hombre','Chaquetas para hombre','Chaquetas para mujer','Equipaje','Faldas para mujer','Gafas de sol para hombre','Gafas y accesorios para hombre','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Neceseres de viaje','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Ropa para niña','Sandalias de vestir para hombre','Vestidos para niña','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','gafas', ]
 actualPrice: 203.27 EUR
 currency: EUR
 price: 203.27

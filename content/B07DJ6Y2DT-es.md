@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Geox Uomo Sandal Strada A  Sandalias con al 18.98 % de descuento'
-date: 2020-06-08 11:02:51
+title: 'Geox UOMO Sandal Strada A  Sandalias con al 40.00 % de descuento'
+date: 2021-03-17 10:52:48
 image: 'https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07DJ6Y2DT-es Geox Uomo Sandal Strada A Sandalias con Punta Abierta para...'
+slug: 'B07DJ6Y2DT-es Geox UOMO Sandal Strada A Sandalias con Punta Abierta...'
 sku: 'B07DJ6Y2DT-es'
-tags: [ 'geox','sandalias', ]
-actualPrice: 56.63 EUR
+tags: [ 'Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','sandalias', ]
+actualPrice: 41.94 EUR
 currency: EUR
-price: 56.63
+price: 41.94
 comparePrice: 69.9 EUR
-prodname: 'Geox Uomo Sandal Strada A  Sandalias con Punta Abierta para Hombre  Brown  Coffee C6009   42 EU'
+prodname: 'Geox UOMO Sandal Strada A  Sandalias con Punta Abierta Hombre  Brown  Coffee C6009   42 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07DJ6Y2DT/?tag=tolees-21'
-descuento: '18.98'
-average: '56.63'
+descuento: '40.00'
+average: '49.285'
 ---
 
-Ahora mismo tienes [Geox Uomo Sandal Strada A  Sandalias con Punta Abierta para Hombre  Brown  Coffee C6009   42 EU](https://www.amazon.es/dp/B07DJ6Y2DT/?tag=tolees-21) a 56.63 EUR (original: 69.9 EUR) (18.98 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Geox UOMO Sandal Strada A  Sandalias con Punta Abierta Hombre  Brown  Coffee C6009   42 EU](https://www.amazon.es/dp/B07DJ6Y2DT/?tag=tolees-21) a 41.94 EUR (original: 69.9 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Geox Uomo Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ6Y2DT/?tag=tolees-21)
+[![Geox UOMO Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ6Y2DT/?tag=tolees-21)
 
 🔎:
 
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Material exterior: Sintético
+- Sin Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ6Y2DT/?tag=tolees-21)
