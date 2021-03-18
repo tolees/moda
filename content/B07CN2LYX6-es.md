@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN2LYX6-es gracosy Sandalias Cuero Verano Mujer Estilo Bohemia...'
 sku: 'B07CN2LYX6-es'
-tags: [ 'chanclas','sandalias','zapatos', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

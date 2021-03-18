@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T69B9LW-es Cepillo de dientes eléctricos 4 Horas de Recarga la...'
 sku: 'B07T69B9LW-es'
-tags: [ 'bolso', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

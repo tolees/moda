@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087SJVKYV-es Columbia Mission Air Interchange Chaqueta 3 En 1 con...'
 sku: 'B087SJVKYV-es'
-tags: [ 'chaqueta', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VL4WHJY-es Hackett London Delave Linen Hopsack Chaqueta Azul 595navy...'
 sku: 'B07VL4WHJY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 156.62 EUR
 currency: EUR
 price: 156.62

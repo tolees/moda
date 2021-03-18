@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ENJFIHO-es Nueva OU falda plisada para niñas con cintura elástica de...'
 sku: 'B00ENJFIHO-es'
-tags: [ 'falda', ]
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

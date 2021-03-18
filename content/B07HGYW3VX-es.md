@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGYW3VX-es Kit de Reparación de Neumáticos 100pcs TECCPO Reparación...'
 sku: 'B07HGYW3VX-es'
-tags: [ 'guantes', ]
 actualPrice: 21.07 EUR
 currency: EUR
 price: 21.07

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S3WN3ND-es Levi s Innovation Super Skinny Vaqueros Blue Echo Vibes...'
 sku: 'B07S3WN3ND-es'
-tags: [ 'levis','vaqueros', ]
 actualPrice: 71.97 EUR
 currency: EUR
 price: 71.97

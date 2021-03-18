@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXDRLPB-es Levi s Housemark Graphic tee Camiseta Azul Hm Ssnl Tonal...'
 sku: 'B07TXDRLPB-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

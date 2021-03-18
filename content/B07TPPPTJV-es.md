@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPPPTJV-es Levi s Sunset 1 Pkt Slim Camisa Azul Antonio Skyway 0011...'
 sku: 'B07TPPPTJV-es'
-tags: [ 'camisa', ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYDD5FS-es GRACE KARIN Mujer Vintage Vestido de 1950s para Cóctel...'
 sku: 'B07NYDD5FS-es'
-tags: [ 'vestido', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

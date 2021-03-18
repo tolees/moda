@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RRG44HS-es Levi s 512 Slim Taper Vaqueros Sage Overt Adv Tnl 34W /...'
 sku: 'B07RRG44HS-es'
-tags: [ 'vaqueros', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

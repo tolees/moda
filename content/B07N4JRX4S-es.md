@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N4JRX4S-es Clarks Kaylin Alba Zapatos de tacón. Mujer Praline Combi...'
 sku: 'B07N4JRX4S-es'
-tags: [ 'zapatos', ]
 actualPrice: 72.57 EUR
 currency: EUR
 price: 72.57

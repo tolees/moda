@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072V6CBTF-es Funda para Samsung Galaxy S7 Edge Libro de Cuero Impresión...'
 sku: 'B072V6CBTF-es'
-tags: [ 'billetera', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

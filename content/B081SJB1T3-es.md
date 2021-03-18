@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081SJB1T3-es adidas CON20 PRE JKT Chaqueta de Deporte Hombre Team Navy...'
 sku: 'B081SJB1T3-es'
-tags: [ 'chaqueta', ]
 actualPrice: 24.93 EUR
 currency: EUR
 price: 24.93

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NQVH2-es GEOX D JAYSEN A WHITE/BLACK Women s Trainers Low-Top...'
 sku: 'B0825NQVH2-es'
-tags: [ 'geox', ]
 actualPrice: 48.98 EUR
 currency: EUR
 price: 48.98

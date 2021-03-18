@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6T62ZB-es Tommy Hilfiger Bralette Rp Parte de Arriba de Bikini Rosa...'
 sku: 'B07N6T62ZB-es'
-tags: [ 'bikini', ]
 actualPrice: 24.61 EUR
 currency: EUR
 price: 24.61

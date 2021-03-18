@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ9SDFF-es Levi s Barstow Western Standard Camisa Azul Red Cast Rinse...'
 sku: 'B07TJ9SDFF-es'
-tags: [ 'camisa', ]
 actualPrice: 55.45 EUR
 currency: EUR
 price: 55.45

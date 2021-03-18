@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W82S9NR-es Nike M Nk Trophy Iv Jsy Ss Camiseta Jersey Hombre Gris M'
 sku: 'B07W82S9NR-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 14.14 EUR
 currency: EUR
 price: 14.14

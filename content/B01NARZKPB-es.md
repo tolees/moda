@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NARZKPB-es Kappa Fredo Pantalón Corto Hombre Verde L'
 sku: 'B01NARZKPB-es'
-tags: [ 'pantalón', ]
 actualPrice: 13.94 EUR
 currency: EUR
 price: 13.94

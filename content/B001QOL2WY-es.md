@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001QOL2WY-es Levi s 501 Original Fit- Vaqueros para hombre Azul Onewash...'
 sku: 'B001QOL2WY-es'
-tags: [ 'vaqueros', ]
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

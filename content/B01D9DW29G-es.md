@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D9DW29G-es Khanomak - Camiseta - para Mujer Negro Negro S'
 sku: 'B01D9DW29G-es'
-tags: [ 'camiseta', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

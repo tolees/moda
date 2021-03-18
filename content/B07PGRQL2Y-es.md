@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PGRQL2Y-es alvorog Perchero con Zapatero Perchero Metálico de Pie...'
 sku: 'B07PGRQL2Y-es'
-tags: [ 'zapatos', ]
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

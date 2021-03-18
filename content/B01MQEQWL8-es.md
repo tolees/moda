@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQEQWL8-es Only onlAVA FAUX LEATHER BIKER OTW NOOS - Chaqueta para...'
 sku: 'B01MQEQWL8-es'
-tags: [ 'Chaquetas para mujer','chaqueta','only', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

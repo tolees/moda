@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K7NRDD9-es Levi s The Jacket Chaqueta vaquera Killebrew Trucker L...'
 sku: 'B07K7NRDD9-es'
-tags: [ 'chaqueta', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

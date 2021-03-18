@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JFGJT1M-es Lacoste Ch0763 Camisa Blanc 001 Large Talla del...'
 sku: 'B07JFGJT1M-es'
-tags: [ 'camisa', ]
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

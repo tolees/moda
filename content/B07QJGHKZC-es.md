@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJGHKZC-es Guess Analise Bolso de mano negro'
 sku: 'B07QJGHKZC-es'
-tags: [ 'bolso', ]
 actualPrice: 116 EUR
 currency: EUR
 price: 116

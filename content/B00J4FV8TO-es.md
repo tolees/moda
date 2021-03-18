@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J4FV8TO-es Portwest C676 - Chaqueta aireado Chef color Blanco talla 3 XL'
 sku: 'B00J4FV8TO-es'
-tags: [ 'chaqueta', ]
 actualPrice: 22.12 EUR
 currency: EUR
 price: 22.12

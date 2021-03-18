@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GY0WHM8-es Mercedes-Benz Sonnenbrille M1046 Gafas de Sol Negro...'
 sku: 'B01GY0WHM8-es'
-tags: [ 'gafas', ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

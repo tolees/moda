@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5JY13Q-es Marca Amazon - Hem & Seam Camisa Lisa Regular Fit Hombre...'
 sku: 'B07G5JY13Q-es'
-tags: [ 'camisa', ]
 actualPrice: 16.32 EUR
 currency: EUR
 price: 16.32

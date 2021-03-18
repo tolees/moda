@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FZJ2NKX-es adidas TIRO19 WRM Top Sudadera Hombre Negro Black/White L'
 sku: 'B07FZJ2NKX-es'
-tags: [ 'sudadera', ]
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PS749DY-es Under Armour UA Seamless SS Manga Corta para Hombre...'
 sku: 'B07PS749DY-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.71 EUR
 currency: EUR
 price: 20.71

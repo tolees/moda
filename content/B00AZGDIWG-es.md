@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AZGDIWG-es Smiffys- Disfraz de moza Pirata de Alta mar con Vestido...'
 sku: 'B00AZGDIWG-es'
-tags: [ 'vestido', ]
 actualPrice: 28.52 EUR
 currency: EUR
 price: 28.52

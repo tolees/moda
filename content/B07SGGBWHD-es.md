@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGGBWHD-es Burton Brtn Camiseta Hombre True Black L'
 sku: 'B07SGGBWHD-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

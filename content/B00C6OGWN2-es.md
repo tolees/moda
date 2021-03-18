@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C6OGWN2-es Jack & Jones Basic O-Neck tee L/S Noos Camiseta Blanco Opt...'
 sku: 'B00C6OGWN2-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

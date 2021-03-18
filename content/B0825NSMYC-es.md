@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NSMYC-es GEOX U NEBULA E ANTHRACITE/LT GREY Men s Trainers Low-Top...'
 sku: 'B0825NSMYC-es'
-tags: [ 'geox', ]
 actualPrice: 57.57 EUR
 currency: EUR
 price: 57.57

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF8RR6P-es Levi s 2Pk Crewneck Graphic Camiseta 2 Pack Sw...'
 sku: 'B07LF8RR6P-es'
-tags: [ 'Calcetines hasta la pantorrilla para hombre','Calcetines para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Sudaderas con capucha para hombre','Sudaderas para hombre','Vestidos casual para mujer','Vestidos para mujer','camiseta','levis', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087P9XCZP-es Suhctup Funda Compatible con Galaxy J6 Plus/J6 Prime...'
 sku: 'B087P9XCZP-es'
-tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

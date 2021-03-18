@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K3GVHBX-es Speedo Elite GOG Au Black/Blue Gafas de natación Adult...'
 sku: 'B07K3GVHBX-es'
-tags: [ 'gafas', ]
 actualPrice: 37.25 EUR
 currency: EUR
 price: 37.25

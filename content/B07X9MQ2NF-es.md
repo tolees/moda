@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X9MQ2NF-es adidas Core 18 Sweat Top Sudadera Hombre Yellow/Black 3XL'
 sku: 'B07X9MQ2NF-es'
-tags: [ 'sudadera', ]
 actualPrice: 24.38 EUR
 currency: EUR
 price: 24.38

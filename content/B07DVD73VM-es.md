@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DVD73VM-es Columbia Kea II Sandalias Mujer Black Black Ti Grey Steel...'
 sku: 'B07DVD73VM-es'
-tags: [ 'columbia','sandalias', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

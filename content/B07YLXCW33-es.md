@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLXCW33-es Superdry LS Classic University Oxford Camisa Rojo Broken...'
 sku: 'B07YLXCW33-es'
-tags: [ 'camisa', ]
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

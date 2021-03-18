@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXF27SA-es Ray-Ban Round Metal Gafas de sol Shiny Light Bronze 50...'
 sku: 'B01LXF27SA-es'
-tags: [ 'gafas', ]
 actualPrice: 92.77 EUR
 currency: EUR
 price: 92.77

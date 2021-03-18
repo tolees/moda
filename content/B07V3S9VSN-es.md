@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V3S9VSN-es GUFANSI - Zapatos de Seguridad para Hombre Zapatillas...'
 sku: 'B07V3S9VSN-es'
-tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

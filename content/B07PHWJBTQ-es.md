@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHWJBTQ-es XIHOME Vintage Edison Bombilla Retro Pasado de moda 60W...'
 sku: 'B07PHWJBTQ-es'
-tags: [ 'moda', ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

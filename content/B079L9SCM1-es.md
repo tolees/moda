@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079L9SCM1-es Lacoste Ch9623 Camisa Blanco Blanc/Blanc 37 para Hombre'
 sku: 'B079L9SCM1-es'
-tags: [ 'camisa', ]
 actualPrice: 62.69 EUR
 currency: EUR
 price: 62.69

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EXFEWRE-es Only & Sons onsMATT LONGY SS tee Noos Camiseta Blanco...'
 sku: 'B01EXFEWRE-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

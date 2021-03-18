@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJHT2QV-es Eli-time Gafas de sol polarizadas ultraligeras hombres y...'
 sku: 'B07YJHT2QV-es'
-tags: [ 'gafas','moda', ]
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4

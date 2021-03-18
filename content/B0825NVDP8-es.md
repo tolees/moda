@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NVDP8-es GEOX U SNAKE.2 B BLACK Men s Trainers Low-Top Trainers...'
 sku: 'B0825NVDP8-es'
-tags: [ 'geox', ]
 actualPrice: 37.8 EUR
 currency: EUR
 price: 37.8

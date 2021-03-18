@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSRO1KK-es NIZZIN Francine Camisa Negro Black Small'
 sku: 'B01MSRO1KK-es'
-tags: [ 'camisa', ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

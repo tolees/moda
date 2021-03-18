@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP8M86L-es DC Comics Pijama Entera para Niños Bebés The Flash Rojo...'
 sku: 'B07RP8M86L-es'
-tags: [ 'pijama', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

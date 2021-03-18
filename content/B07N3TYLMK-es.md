@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3TYLMK-es Desigual Blouse LUMBE Blusa Blanco 1000 S para Mujer'
 sku: 'B07N3TYLMK-es'
-tags: [ 'blusa', ]
 actualPrice: 20.02 EUR
 currency: EUR
 price: 20.02

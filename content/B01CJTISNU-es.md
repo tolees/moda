@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CJTISNU-es Gafas de Natación para Niños 2 Paquete - Júnior Gafas de...'
 sku: 'B01CJTISNU-es'
-tags: [ 'gafas', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJV1NR7-es Harmont & Blaine HRA012030347 Jersey Rojo Cherry 513 5XL...'
 sku: 'B07FJV1NR7-es'
-tags: [ 'jersey', ]
 actualPrice: 44.38 EUR
 currency: EUR
 price: 44.38

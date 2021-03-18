@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825SP5VR-es GEOX U BRENSON A DK BROWN Men s Boots Chelsea size 41 EU'
 sku: 'B0825SP5VR-es'
-tags: [ 'geox', ]
 actualPrice: 24.63 EUR
 currency: EUR
 price: 24.63

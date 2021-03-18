@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MSKJ35L-es Clarks Becken Lace Zapatos de Cordones Brogue Hombre...'
 sku: 'B07MSKJ35L-es'
-tags: [ 'zapatos', ]
 actualPrice: 40.78 EUR
 currency: EUR
 price: 40.78

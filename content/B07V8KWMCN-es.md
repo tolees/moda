@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8KWMCN-es Calvin Klein Center Monogram Box Slim tee Camiseta Blanco...'
 sku: 'B07V8KWMCN-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

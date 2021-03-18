@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MR7RQQC-es Lee Ivy Vaqueros Negro Black Rinse 47 25W / 33L para Mujer'
 sku: 'B07MR7RQQC-es'
-tags: [ 'vaqueros', ]
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0841CXZQC-es Tommy Hilfiger TJM Essential Down Jacket Chaqueta Azul...'
 sku: 'B0841CXZQC-es'
-tags: [ 'Chaquetas para hombre','chaqueta','tommy hilfiger', ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

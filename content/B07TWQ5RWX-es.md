@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWQ5RWX-es Jack & Jones Jcomick tee SS Crew Neck Noos Camiseta Gris...'
 sku: 'B07TWQ5RWX-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2V39MF-es Columbia Glacial IV Jersey Polar con Media Cremallera para...'
 sku: 'B07K2V39MF-es'
-tags: [ 'jersey', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

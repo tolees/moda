@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG2D9D2-es Geox U Kristof A Zapatillas para Hombre Marrón Dk...'
 sku: 'B07LG2D9D2-es'
-tags: [ 'geox', ]
 actualPrice: 41.21 EUR
 currency: EUR
 price: 41.21

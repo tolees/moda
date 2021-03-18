@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CRJ7LPK-es Pepe Jeans Pinner Chaqueta Vaquera Raw DLX Denim 000...'
 sku: 'B07CRJ7LPK-es'
-tags: [ 'chaqueta', ]
 actualPrice: 51.51 EUR
 currency: EUR
 price: 51.51

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077HZDN28-es IEFIEL Niñas Vestido Princesa Largo de Fiesta Traje...'
 sku: 'B077HZDN28-es'
-tags: [ 'vestido', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GY554QH-es Hurley M DF Disperse Siege FZ Sudadera Cool Grey XL'
 sku: 'B08GY554QH-es'
-tags: [ 'sudadera', ]
 actualPrice: 32.05 EUR
 currency: EUR
 price: 32.05

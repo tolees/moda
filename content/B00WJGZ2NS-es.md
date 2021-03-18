@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WJGZ2NS-es Burberry 0BE4203 336973 57 Gafas de sol Marrón Gradient...'
 sku: 'B00WJGZ2NS-es'
-tags: [ 'gafas', ]
 actualPrice: 68.7 EUR
 currency: EUR
 price: 68.7

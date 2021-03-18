@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721QF1FH-es Taifun Mousse au Chocolat Vestido para Mujer Mehrfarbig...'
 sku: 'B0721QF1FH-es'
-tags: [ 'vestido', ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

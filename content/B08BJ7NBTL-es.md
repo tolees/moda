@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJ7NBTL-es Jack & Jones JJBYRON Shirt LS Camisa Mezclilla De Color...'
 sku: 'B08BJ7NBTL-es'
-tags: [ 'camisa', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

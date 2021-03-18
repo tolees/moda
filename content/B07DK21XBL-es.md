@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DK21XBL-es Geox B Kaytan A Zapatos de Primeros Pasos Niñas White...'
 sku: 'B07DK21XBL-es'
-tags: [ 'geox','zapatos', ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBB7HN8-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Electric Pink...'
 sku: 'B07SBB7HN8-es'
-tags: [ 'zuecos', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

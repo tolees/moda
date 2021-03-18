@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RR9WPMX-es TEEHON Cartera para Hombre Monedero con RFID Bloqueo con...'
 sku: 'B07RR9WPMX-es'
-tags: [ 'monedero', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

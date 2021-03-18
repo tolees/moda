@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCGWRWD-es Kappa NOVARE Sweat Sudadera de Entrenamiento Hombre...'
 sku: 'B07DCGWRWD-es'
-tags: [ 'sudadera', ]
 actualPrice: 11.53 EUR
 currency: EUR
 price: 11.53

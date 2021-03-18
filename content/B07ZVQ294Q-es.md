@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVQ294Q-es Levi s Housemark Graphic tee Camiseta Ssnl Hm Outline...'
 sku: 'B07ZVQ294Q-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

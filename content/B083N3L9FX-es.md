@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083N3L9FX-es Helly Hansen W Kirkwall Ii Raincoat Chaqueta Mujer Black XL'
 sku: 'B083N3L9FX-es'
-tags: [ 'chaqueta', ]
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

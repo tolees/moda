@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083HFL5T2-es TEEHON Cartera Hombre Billetera Hombre Cartera RFID...'
 sku: 'B083HFL5T2-es'
-tags: [ 'billetera', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

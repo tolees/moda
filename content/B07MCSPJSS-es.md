@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCSPJSS-es Napapijri ABERDAR WOM Chaqueta Azul BLU Marine 176 XL para...'
 sku: 'B07MCSPJSS-es'
-tags: [ 'chaqueta', ]
 actualPrice: 74.4 EUR
 currency: EUR
 price: 74.4

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FL59LXV-es Superdry Orange Label Vntge Emb S/s tee Camiseta Rojo...'
 sku: 'B07FL59LXV-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K75CH7J-es Levi s On Tour Camiseta Deportiva de Tirantes Blanco Red...'
 sku: 'B07K75CH7J-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

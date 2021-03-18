@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK33KX6-es Marca Amazon - find. Pantalón Ancho Mujer Negro Black 28W...'
 sku: 'B07MK33KX6-es'
-tags: [ '-','find.','pantalón', ]
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

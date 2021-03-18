@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XSF2Y73-es MAIITRIP - Zapatillas para Hombre Espuma viscoelástica...'
 sku: 'B07XSF2Y73-es'
-tags: [ 'zapatos', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

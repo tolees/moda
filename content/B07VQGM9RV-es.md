@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQGM9RV-es Marca Amazon - AURIQUE Sudadera de Manga Larga de Forro...'
 sku: 'B07VQGM9RV-es'
-tags: [ 'aurique','sudadera', ]
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

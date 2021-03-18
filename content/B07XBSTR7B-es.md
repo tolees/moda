@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XBSTR7B-es PUMA Teamgoal 23 Causals Hoody Sudadera Hombre Puma Red M'
 sku: 'B07XBSTR7B-es'
-tags: [ 'sudadera', ]
 actualPrice: 24.72 EUR
 currency: EUR
 price: 24.72

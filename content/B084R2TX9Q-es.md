@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084R2TX9Q-es G-STAR RAW Multipocket Softshell Jkt Chaqueta Asfalt...'
 sku: 'B084R2TX9Q-es'
-tags: [ 'chaqueta', ]
 actualPrice: 38.07 EUR
 currency: EUR
 price: 38.07

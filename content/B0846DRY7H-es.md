@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846DRY7H-es Pepe Jeans New Nate Camisa Blanco 800 18 para Niños'
 sku: 'B0846DRY7H-es'
-tags: [ 'camisa', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

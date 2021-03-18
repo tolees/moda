@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846FDGG3-es Pepe Jeans Luisa Vestido Negro 999 6 para Niñas'
 sku: 'B0846FDGG3-es'
-tags: [ 'pepe jeans','vestido', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

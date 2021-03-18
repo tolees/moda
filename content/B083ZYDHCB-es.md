@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083ZYDHCB-es Geox M Vincit Chaqueta marrón 46 para Hombre'
 sku: 'B083ZYDHCB-es'
-tags: [ 'chaqueta','geox', ]
 actualPrice: 59.42 EUR
 currency: EUR
 price: 59.42

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HZQCJK8-es oodji Ultra Mujer Blusa de Viscosa con Cuello de Solapa...'
 sku: 'B07HZQCJK8-es'
-tags: [ 'blusa', ]
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

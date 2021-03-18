@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SXZNNNR-es Geox D Sandal Hiver A Sandalias con Tira Vertical Mujer...'
 sku: 'B07SXZNNNR-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 38.32 EUR
 currency: EUR
 price: 38.32

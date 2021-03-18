@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC5LLDN-es NIKE M NK Dry Chalng III JSY SS Camiseta de Manga Corta...'
 sku: 'B07WC5LLDN-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

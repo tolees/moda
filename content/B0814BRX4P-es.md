@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0814BRX4P-es Columbia Horizons Pine Interchange Chaqueta 3 En 1 con...'
 sku: 'B0814BRX4P-es'
-tags: [ 'chaqueta', ]
 actualPrice: 125.4 EUR
 currency: EUR
 price: 125.4

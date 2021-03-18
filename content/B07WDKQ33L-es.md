@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDKQ33L-es Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha...'
 sku: 'B07WDKQ33L-es'
-tags: [ 'sudadera', ]
 actualPrice: 26.93 EUR
 currency: EUR
 price: 26.93

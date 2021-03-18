@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBJWPLV-es Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo Negro...'
 sku: 'B07KBJWPLV-es'
-tags: [ 'abrigo','moda', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

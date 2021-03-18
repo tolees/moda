@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M8K0QK1-es Speedo Fastskin Speedsocket 2 Gafas de Natación Unisex...'
 sku: 'B01M8K0QK1-es'
-tags: [ 'gafas', ]
 actualPrice: 34.35 EUR
 currency: EUR
 price: 34.35

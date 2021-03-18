@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NBQK9S-es Trangoworld Bern Chaqueta Hombre Gris Oscuro/Negro S'
 sku: 'B075NBQK9S-es'
-tags: [ 'chaqueta', ]
 actualPrice: 77.49 EUR
 currency: EUR
 price: 77.49

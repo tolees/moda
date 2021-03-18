@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PML1SFR-es MTNG Picton Bolso Bolera para Mujer Nylon/lis Negro...'
 sku: 'B07PML1SFR-es'
-tags: [ 'bolso', ]
 actualPrice: 15.54 EUR
 currency: EUR
 price: 15.54

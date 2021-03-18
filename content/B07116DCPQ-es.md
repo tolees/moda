@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07116DCPQ-es Lee Rider Jeans Vaqueros Light Shade 28W / 34L para Hombre'
 sku: 'B07116DCPQ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 62.5 EUR
 currency: EUR
 price: 62.5

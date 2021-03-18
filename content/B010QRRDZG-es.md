@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010QRRDZG-es Timberland Larchmont Chelsea Waterproof Botas Hombre...'
 sku: 'B010QRRDZG-es'
-tags: [ 'timberland', ]
 actualPrice: 85.13 EUR
 currency: EUR
 price: 85.13

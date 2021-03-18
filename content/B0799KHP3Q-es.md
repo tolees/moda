@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0799KHP3Q-es KARACTERMANIA Mickey Mouse Crayons Bolso bandolera 28 cm Rojo'
 sku: 'B0799KHP3Q-es'
-tags: [ 'bolso', ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

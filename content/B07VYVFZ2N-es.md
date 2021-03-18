@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VYVFZ2N-es Tommy Hilfiger Skinny Trucker Jacket Dyadk Chaqueta Azul...'
 sku: 'B07VYVFZ2N-es'
-tags: [ 'chaqueta', ]
 actualPrice: 34.26 EUR
 currency: EUR
 price: 34.26

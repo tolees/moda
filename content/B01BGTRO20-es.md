@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BGTRO20-es G-STAR RAW Midge Mid Bootcut Vaqueros Corte de Bota Azul...'
 sku: 'B01BGTRO20-es'
-tags: [ 'vaqueros', ]
 actualPrice: 23.16 EUR
 currency: EUR
 price: 23.16

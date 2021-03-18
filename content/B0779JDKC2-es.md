@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0779JDKC2-es Pepe Jeans Pixie PL200025 Camiseta Blanco Optic White 802...'
 sku: 'B0779JDKC2-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

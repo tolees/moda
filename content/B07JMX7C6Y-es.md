@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMX7C6Y-es Timberland Sprint Trekker Mid Zapatillas Chukka para...'
 sku: 'B07JMX7C6Y-es'
-tags: [ 'timberland', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

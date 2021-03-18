@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4B96XG-es G-STAR RAW Lancet Skinny Vaqueros para Hombre Negro...'
 sku: 'B07Z4B96XG-es'
-tags: [ 'vaqueros', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

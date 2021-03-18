@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SN4WM85-es Havaianas Luna Sandalias de Talón Abierto para Mujer Rosa...'
 sku: 'B07SN4WM85-es'
-tags: [ 'sandalias', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

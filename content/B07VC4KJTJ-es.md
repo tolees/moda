@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC4KJTJ-es Calvin Klein CK Round Logo Reg tee Camiseta Blanco Bright...'
 sku: 'B07VC4KJTJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.35 EUR
 currency: EUR
 price: 21.35

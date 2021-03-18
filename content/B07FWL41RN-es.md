@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWL41RN-es Crocs Literide Clog Kids Zuecos Unisex Niños Verde Neo...'
 sku: 'B07FWL41RN-es'
-tags: [ 'zuecos', ]
 actualPrice: 23.27 EUR
 currency: EUR
 price: 23.27

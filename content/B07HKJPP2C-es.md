@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HKJPP2C-es Scholl Plantillas óptimas para botas y botines con...'
 sku: 'B07HKJPP2C-es'
-tags: [ 'botines', ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

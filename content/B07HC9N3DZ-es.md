@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HC9N3DZ-es PICSIL Raven 2H Calleras para Crossfit Grips 2 Agujeros...'
 sku: 'B07HC9N3DZ-es'
-tags: [ 'guantes', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

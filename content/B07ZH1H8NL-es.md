@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZH1H8NL-es tomtoc Mochila Escolar de Ordenador Libros Bolso...'
 sku: 'B07ZH1H8NL-es'
-tags: [ 'bolso', ]
 actualPrice: 29.09 EUR
 currency: EUR
 price: 29.09

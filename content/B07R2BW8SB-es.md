@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R2BW8SB-es Wrangler SS Logo tee Camiseta Marfil Off White 737 Medium...'
 sku: 'B07R2BW8SB-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

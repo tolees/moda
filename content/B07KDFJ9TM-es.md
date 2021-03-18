@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KDFJ9TM-es adidas DT5268 Chaqueta Unisex niños Azul Bold...'
 sku: 'B07KDFJ9TM-es'
-tags: [ 'chaqueta', ]
 actualPrice: 21.34 EUR
 currency: EUR
 price: 21.34

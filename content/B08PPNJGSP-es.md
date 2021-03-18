@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PPNJGSP-es Cartera Caza Hombre Legado Cartera de Caza Hombre para...'
 sku: 'B08PPNJGSP-es'
-tags: [ 'chaleco', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

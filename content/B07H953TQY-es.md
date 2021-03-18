@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H953TQY-es Vero Moda Vmjune W/l Long Blazer Dnm Noos Abrigo Rosa...'
 sku: 'B07H953TQY-es'
-tags: [ 'abrigo','moda', ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

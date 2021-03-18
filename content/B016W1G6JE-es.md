@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016W1G6JE-es Tommy Hilfiger 2P Tank Camiseta blanco blanco 100 S para...'
 sku: 'B016W1G6JE-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

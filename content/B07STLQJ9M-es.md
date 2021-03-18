@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07STLQJ9M-es Geox U Nebula C Zapatillas Hombre Negro Black C9999 41 EU'
 sku: 'B07STLQJ9M-es'
-tags: [ 'geox', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

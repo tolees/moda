@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084Q3M5YY-es WenVen Chaqueta Militar Invierno Chaqueta de Algodón...'
 sku: 'B084Q3M5YY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 51.01 EUR
 currency: EUR
 price: 51.01

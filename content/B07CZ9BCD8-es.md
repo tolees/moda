@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ9BCD8-es Under Armour UA Speed Stride Camiseta Mujer Negro Black...'
 sku: 'B07CZ9BCD8-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

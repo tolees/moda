@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHP99ND-es Marca Amazon - find. Camisa Hombre Negro Black L Label: L'
 sku: 'B06XHP99ND-es'
-tags: [ '-','camisa','find.', ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

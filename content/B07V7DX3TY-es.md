@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7DX3TY-es JACK & JONES Jjifred Jjtool Cj 097 Vaqueros Relaxed Negro...'
 sku: 'B07V7DX3TY-es'
-tags: [ 'vaqueros', ]
 actualPrice: 16.77 EUR
 currency: EUR
 price: 16.77

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HB55OIU-es Crocs Classic Zuecos con Correa Trasera Unisex Adulto...'
 sku: 'B00HB55OIU-es'
-tags: [ 'zuecos', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

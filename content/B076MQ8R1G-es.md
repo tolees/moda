@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076MQ8R1G-es jiamiaoi Collar de gato Collar de perlas de plata Colgante...'
 sku: 'B076MQ8R1G-es'
-tags: [ 'collar', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

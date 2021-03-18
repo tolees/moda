@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N6QOMAK-es G-STAR RAW 3301 Slim Fit Vaqueros Dk Aged 8466-89 26W /...'
 sku: 'B01N6QOMAK-es'
-tags: [ 'vaqueros', ]
 actualPrice: 25.83 EUR
 currency: EUR
 price: 25.83

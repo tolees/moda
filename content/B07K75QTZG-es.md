@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K75QTZG-es Levi s SS tee Camiseta Colorblock Quiet Shade/White/Dress...'
 sku: 'B07K75QTZG-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

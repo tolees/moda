@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KC4CCLB-es Lv.unique - Collar dama Collar I Love You Collar Dale a tu...'
 sku: 'B07KC4CCLB-es'
-tags: [ 'collar', ]
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

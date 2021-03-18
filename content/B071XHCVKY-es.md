@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071XHCVKY-es Calvin Klein Bikini Gris Grey Heather 020 38 Talla del...'
 sku: 'B071XHCVKY-es'
-tags: [ 'bikini', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

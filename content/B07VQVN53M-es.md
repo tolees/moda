@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VQVN53M-es G-STAR RAW 5621 Wrap Rock Falda Azul Sun Faded Blue Stone...'
 sku: 'B07VQVN53M-es'
-tags: [ 'falda', ]
 actualPrice: 8.04 EUR
 currency: EUR
 price: 8.04

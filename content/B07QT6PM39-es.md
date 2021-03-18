@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QT6PM39-es Asics Classic CT Zapatos de Baloncesto para Hombre Negro...'
 sku: 'B07QT6PM39-es'
-tags: [ 'zapatos', ]
 actualPrice: 26.47 EUR
 currency: EUR
 price: 26.47

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N17XZQN-es Lee Logo SWS Sudadera Gris Grey Mele MP X-Large para Mujer'
 sku: 'B07N17XZQN-es'
-tags: [ 'sudadera', ]
 actualPrice: 21.38 EUR
 currency: EUR
 price: 21.38

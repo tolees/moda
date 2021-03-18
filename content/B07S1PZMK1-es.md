@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1PZMK1-es Esprit 089ee1i002 Chaqueta Punto Beige Beige 5 274 Medium...'
 sku: 'B07S1PZMK1-es'
-tags: [ 'chaqueta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

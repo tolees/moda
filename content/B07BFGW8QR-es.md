@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFGW8QR-es Columbia Silver Ridge II Pantalón Capri Hombre Gris Grill...'
 sku: 'B07BFGW8QR-es'
-tags: [ 'pantalón', ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

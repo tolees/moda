@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0085SFY7I-es Jack & Jones Jones - Camiseta de manga corta con cuello...'
 sku: 'B0085SFY7I-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

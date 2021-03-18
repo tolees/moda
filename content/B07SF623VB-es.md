@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SF623VB-es Gimdumasa Pantalón Deportivo de Mujer Cintura Alta...'
 sku: 'B07SF623VB-es'
-tags: [ 'pantalón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

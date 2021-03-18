@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RX7TX3R-es Levi s Vneck Camiseta Negro Caviar 0003 Medium para Mujer'
 sku: 'B07RX7TX3R-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

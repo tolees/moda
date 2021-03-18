@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RJS8WX-es Adidas Adilette Comfort Zapatos de Playa y Piscina para...'
 sku: 'B073RJS8WX-es'
-tags: [ 'zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

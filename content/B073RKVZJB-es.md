@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073RKVZJB-es adidas Adilette Comfort Zapatos de Playa y Piscina Hombre...'
 sku: 'B073RKVZJB-es'
-tags: [ 'zapatos', ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

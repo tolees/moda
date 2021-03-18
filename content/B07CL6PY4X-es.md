@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CL6PY4X-es Only Onlroyal Reg SK Dnm Jeans Bj312 Noos Vaqueros Skinny...'
 sku: 'B07CL6PY4X-es'
-tags: [ 'vaqueros', ]
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

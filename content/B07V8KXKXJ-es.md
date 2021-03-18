@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8KXKXJ-es Calvin Klein Contrasted Ringer Reg Fit tee Camiseta Blanco...'
 sku: 'B07V8KXKXJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

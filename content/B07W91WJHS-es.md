@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W91WJHS-es Tommy Hilfiger Rope Stripe tee Camiseta Deporte Blanco...'
 sku: 'B07W91WJHS-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

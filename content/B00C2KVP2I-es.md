@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C2KVP2I-es ONLY Onlultimate King Reg Jeans Cry200 Vaqueros Dark Blue...'
 sku: 'B00C2KVP2I-es'
-tags: [ 'only','vaqueros', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

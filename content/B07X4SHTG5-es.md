@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4SHTG5-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Azul 000denim...'
 sku: 'B07X4SHTG5-es'
-tags: [ 'vaqueros', ]
 actualPrice: 64.4 EUR
 currency: EUR
 price: 64.4

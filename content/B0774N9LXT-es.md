@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774N9LXT-es LA LEELA Casual Hawaiana Camisa para Hombre Señores Manga...'
 sku: 'B0774N9LXT-es'
-tags: [ 'camisa', ]
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

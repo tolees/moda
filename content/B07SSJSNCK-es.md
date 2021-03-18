@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SSJSNCK-es Geox U IACOPO D Zapatos de Cordones Derby Hombre Azul Navy...'
 sku: 'B07SSJSNCK-es'
-tags: [ 'geox','zapatos', ]
 actualPrice: 31.1 EUR
 currency: EUR
 price: 31.1

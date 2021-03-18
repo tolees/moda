@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z7XHY9T-es Zacro Gafas Esquí Snowboard para Niño Joven con Máscara...'
 sku: 'B07Z7XHY9T-es'
-tags: [ 'gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

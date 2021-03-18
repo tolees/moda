@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846FC5XM-es Pepe Jeans Lupe Vestido Rojo 295 6 para Niñas'
 sku: 'B0846FC5XM-es'
-tags: [ 'vestido', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

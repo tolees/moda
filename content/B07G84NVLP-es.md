@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G84NVLP-es Aibrou Pijama Hombre Invierno Algodón Pijamas de casa con...'
 sku: 'B07G84NVLP-es'
-tags: [ 'pijama', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

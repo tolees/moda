@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNLY8QN-es Levi s LS Battery Hm Shirt Slim Camisa Azul Allure 0005...'
 sku: 'B07TNLY8QN-es'
-tags: [ 'camisa', ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

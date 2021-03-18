@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072BMHGQN-es Levi s Sportswear Logo Graphic - Camiseta para Hombre...'
 sku: 'B072BMHGQN-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQSBZRZ-es Occffy Cintura Alta Pantalón Deportivo de Mujer Leggings...'
 sku: 'B07QQSBZRZ-es'
-tags: [ 'pantalón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

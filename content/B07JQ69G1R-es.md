@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JQ69G1R-es adidas Tiro 19 Training Track Top Jkt Chaqueta Deportiva...'
 sku: 'B07JQ69G1R-es'
-tags: [ 'chaqueta', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

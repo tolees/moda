@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H6NX1KE-es Crocs Swiftwater River Sandal M Sandalias para Hombre...'
 sku: 'B01H6NX1KE-es'
-tags: [ 'sandalias', ]
 actualPrice: 31.94 EUR
 currency: EUR
 price: 31.94

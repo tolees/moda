@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6KQVG1-es Ronamick Sandalen - Sandalias de Vestir de Poliuretano...'
 sku: 'B07D6KQVG1-es'
-tags: [ 'sandalias', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

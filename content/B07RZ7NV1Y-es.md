@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ7NV1Y-es SimpleLife Bolso de Mano/Bolso de Fiesta para el corazón...'
 sku: 'B07RZ7NV1Y-es'
-tags: [ 'bolso', ]
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

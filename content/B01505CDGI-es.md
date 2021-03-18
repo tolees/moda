@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01505CDGI-es Star Wars Episode VII Kylo REN Shadows Camiseta Negro...'
 sku: 'B01505CDGI-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.58 EUR
 currency: EUR
 price: 13.58

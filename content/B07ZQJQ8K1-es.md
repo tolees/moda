@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZQJQ8K1-es Vero Moda Vmtanya Plain LS Shirt Ga Color Blusa Negro...'
 sku: 'B07ZQJQ8K1-es'
-tags: [ 'blusa','moda', ]
 actualPrice: 17.05 EUR
 currency: EUR
 price: 17.05

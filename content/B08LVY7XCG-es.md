@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LVY7XCG-es Viannchi Bolso para mujer pequeño de hombro con grabado en...'
 sku: 'B08LVY7XCG-es'
-tags: [ 'bolso', ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

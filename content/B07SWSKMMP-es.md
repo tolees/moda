@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWSKMMP-es Geox J Sandal Alben Boy D Sandalias con Punta Abierta para...'
 sku: 'B07SWSKMMP-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

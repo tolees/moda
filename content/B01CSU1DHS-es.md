@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CSU1DHS-es Joma Campus II Camiseta de Juego Manga Corta Hombre...'
 sku: 'B01CSU1DHS-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

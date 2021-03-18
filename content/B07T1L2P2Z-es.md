@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1L2P2Z-es Tikea Bolsa Geométrica de Corcho Natural para Mujer Caja...'
 sku: 'B07T1L2P2Z-es'
-tags: [ 'moda', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

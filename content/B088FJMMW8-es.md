@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088FJMMW8-es Hurley M Essential Henley S/S Camiseta Hombre Obsidian'
 sku: 'B088FJMMW8-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.86 EUR
 currency: EUR
 price: 8.86

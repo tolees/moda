@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GQM48WZ-es Levi s Graphic Camiseta 84 Sportswear Logo Grey Midtone...'
 sku: 'B07GQM48WZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3TMRGY-es Wrangler Logo Sweat Sudadera Marrón Picante Brown X9h...'
 sku: 'B07R3TMRGY-es'
-tags: [ 'sudadera', ]
 actualPrice: 33.12 EUR
 currency: EUR
 price: 33.12

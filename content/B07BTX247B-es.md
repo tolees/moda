@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BTX247B-es HIKERS - Tarjeta Anti RFID/NFC Protector de Tarjetas de...'
 sku: 'B07BTX247B-es'
-tags: [ 'billetera', ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

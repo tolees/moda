@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q4LLHZW-es NIKE M NP Top LS Tight Camiseta de Manga Larga Hombre...'
 sku: 'B07Q4LLHZW-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.84 EUR
 currency: EUR
 price: 19.84

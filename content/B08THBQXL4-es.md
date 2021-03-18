@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08THBQXL4-es ZJchao - Correa de reloj Herramienta de reparación de...'
 sku: 'B08THBQXL4-es'
-tags: [ 'gafas', ]
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

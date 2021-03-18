@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QBPYY2J-es New Look Arnie Rip Bleach Vaqueros Skinny Azul Light Blue...'
 sku: 'B07QBPYY2J-es'
-tags: [ 'vaqueros', ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

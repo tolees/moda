@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDJB7P3-es Desigual Vest Tennessee Vestido Azul Azul Agata 5026 40...'
 sku: 'B07VDJB7P3-es'
-tags: [ 'vestido', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

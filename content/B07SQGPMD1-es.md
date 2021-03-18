@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQGPMD1-es Geox U Snake.2 A Zapatillas para Hombre Naranja Dk...'
 sku: 'B07SQGPMD1-es'
-tags: [ 'geox', ]
 actualPrice: 38.55 EUR
 currency: EUR
 price: 38.55

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RX1Z2D9-es BILLABONG™ - Camiseta de Manga Corta - Hombre - XS - Negro'
 sku: 'B07RX1Z2D9-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.31 EUR
 currency: EUR
 price: 15.31

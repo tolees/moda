@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCF973R-es Columbia Alpine Action Chaqueta OH Ski de esquí Mujer Azul...'
 sku: 'B07JCF973R-es'
-tags: [ 'chaqueta', ]
 actualPrice: 100.29 EUR
 currency: EUR
 price: 100.29

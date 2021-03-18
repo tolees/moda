@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KL39ZMC-es adidas Design 2 Move W TS Camiseta Mujer Negro Black/White XS'
 sku: 'B07KL39ZMC-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

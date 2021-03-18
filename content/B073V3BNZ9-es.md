@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073V3BNZ9-es Clarks Tilden Cap Zapatos de Cordones Derby Hombre Marrón...'
 sku: 'B073V3BNZ9-es'
-tags: [ 'zapatos', ]
 actualPrice: 55.9 EUR
 currency: EUR
 price: 55.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SCFXXQW-es Crocs Monterey Diamante WdgFpW Chanclas Mujer Azul 38 EU'
 sku: 'B07SCFXXQW-es'
-tags: [ 'chanclas', ]
 actualPrice: 17.22 EUR
 currency: EUR
 price: 17.22

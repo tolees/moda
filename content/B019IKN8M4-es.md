@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019IKN8M4-es Keysui Mascotas fiesta traje Formal traje ropa abrigo para...'
 sku: 'B019IKN8M4-es'
-tags: [ 'abrigo', ]
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TJ1N91C-es CRYSTALINA - Juego de Joyas de Plata 925 bañado en oro...'
 sku: 'B08TJ1N91C-es'
-tags: [ 'collar', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

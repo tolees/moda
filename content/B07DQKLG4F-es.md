@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQKLG4F-es Pepe Jeans Jeanius Vaqueros relaxed para Hombre Azul 11Oz...'
 sku: 'B07DQKLG4F-es'
-tags: [ 'vaqueros', ]
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

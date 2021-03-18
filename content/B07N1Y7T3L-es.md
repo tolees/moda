@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1Y7T3L-es Khroom Camiseta de Compresión de Superhéroe para Hombre |...'
 sku: 'B07N1Y7T3L-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

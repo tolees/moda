@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3VWVHL-es Desigual T-Shirt Matilde Camiseta Negro Negro 2000 M para...'
 sku: 'B07N3VWVHL-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.72 EUR
 currency: EUR
 price: 20.72

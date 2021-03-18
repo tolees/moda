@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IFDWGEW-es Zapatilla Soft Negro Paredes Estrella Velcro - Velcro -...'
 sku: 'B00IFDWGEW-es'
-tags: [ 'zapatilla', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014FDV2TA-es Only onlFREYA Faux Leather Biker OTW Noos Chaqueta Negro...'
 sku: 'B014FDV2TA-es'
-tags: [ 'chaqueta', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

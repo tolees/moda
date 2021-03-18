@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N153KZW-es G-STAR RAW 3301 Straight Tapered Vaqueros Negro Faded...'
 sku: 'B07N153KZW-es'
-tags: [ 'vaqueros', ]
 actualPrice: 27.13 EUR
 currency: EUR
 price: 27.13

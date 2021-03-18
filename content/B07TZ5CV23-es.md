@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ5CV23-es Lee Austin Vaqueros Tapered Azul Dk Clean Foam EK 30W /...'
 sku: 'B07TZ5CV23-es'
-tags: [ 'vaqueros', ]
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSJFMPL-es Kipling Myrte Bolso con Bandolera para Mujer Azul Navy...'
 sku: 'B07PSJFMPL-es'
-tags: [ 'bolso', ]
 actualPrice: 34.91 EUR
 currency: EUR
 price: 34.91

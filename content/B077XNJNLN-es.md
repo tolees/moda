@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XNJNLN-es Under Armour Rival Fleece Logo Sudadera con Capucha para...'
 sku: 'B077XNJNLN-es'
-tags: [ 'sudadera', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

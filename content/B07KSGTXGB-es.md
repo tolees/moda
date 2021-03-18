@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSGTXGB-es Under Armour Women s Training Glove Guantes Mujer Negro...'
 sku: 'B07KSGTXGB-es'
-tags: [ 'guantes', ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

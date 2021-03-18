@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK3TDQ8-es Geox Jr Ciak Girl a Zapatillas Altas para Niñas Blanco...'
 sku: 'B07DK3TDQ8-es'
-tags: [ 'geox', ]
 actualPrice: 19.07 EUR
 currency: EUR
 price: 19.07

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JRBH9KM-es Tommy Jeans Mujer Garment Dye Tee Camiseta Morado Hyacinth...'
 sku: 'B07JRBH9KM-es'
-tags: [ 'camiseta', ]
 actualPrice: 19 EUR
 currency: EUR
 price: 19

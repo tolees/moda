@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VDCMKQZ-es Napapijri Acalmar W 2 Chaqueta Gris Dove Grey H361 X-Small...'
 sku: 'B07VDCMKQZ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 58.22 EUR
 currency: EUR
 price: 58.22

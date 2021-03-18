@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG14S7N-es Geox Women s D New Annya Mid A Closed Toe Heels Black...'
 sku: 'B07LG14S7N-es'
-tags: [ 'geox', ]
 actualPrice: 37.7 EUR
 currency: EUR
 price: 37.7

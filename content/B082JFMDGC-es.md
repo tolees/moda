@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082JFMDGC-es REPLAY M3142 .000.22880 Camiseta 1 Blanco L para Hombre'
 sku: 'B082JFMDGC-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.93 EUR
 currency: EUR
 price: 9.93

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJCK9DD-es LIGE Reloj para Hombre Deportes De Moda Reloj De Cuarzo...'
 sku: 'B07ZJCK9DD-es'
-tags: [ 'moda', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

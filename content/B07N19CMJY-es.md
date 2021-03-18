@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N19CMJY-es G-STAR RAW Lynn Mid Skinny Vaqueros Azul Antic Blue 34W /...'
 sku: 'B07N19CMJY-es'
-tags: [ 'vaqueros', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

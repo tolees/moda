@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C26TCPG-es Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera Gris...'
 sku: 'B07C26TCPG-es'
-tags: [ 'sudadera', ]
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

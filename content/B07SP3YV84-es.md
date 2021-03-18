@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SP3YV84-es Under Armour Rush Heatgear Compression Camisa Manga Corta...'
 sku: 'B07SP3YV84-es'
-tags: [ 'camisa', ]
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

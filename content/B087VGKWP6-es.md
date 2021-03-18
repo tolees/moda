@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VGKWP6-es Columbia Autumn Park Chaqueta de Plumas Mujer Rojo Red Lily L'
 sku: 'B087VGKWP6-es'
-tags: [ 'chaqueta', ]
 actualPrice: 71.38 EUR
 currency: EUR
 price: 71.38

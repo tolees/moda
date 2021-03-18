@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PB9PQDW-es JACK & JONES Jcojordan tee SS Crew Neck Camiseta Azul...'
 sku: 'B07PB9PQDW-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

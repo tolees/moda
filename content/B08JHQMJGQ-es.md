@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JHQMJGQ-es Jack & Jones JJECORP Logo Sweat Hood Noos Sudadera con...'
 sku: 'B08JHQMJGQ-es'
-tags: [ 'Calcetines hasta la pantorrilla para hombre','Calcetines para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Sudaderas con capucha para hombre','Sudaderas para hombre','Vestidos casual para mujer','Vestidos para mujer','jack & jones','sudadera', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

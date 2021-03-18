@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CJ28LRW-es Element Alder Puff Fundament - Jacket para Hombre Chaqueta...'
 sku: 'B08CJ28LRW-es'
-tags: [ 'chaqueta','parka', ]
 actualPrice: 43.03 EUR
 currency: EUR
 price: 43.03

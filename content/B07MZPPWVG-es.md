@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPPWVG-es Pepe Jeans Nastia Sudadera Dandelion 054 Large para Mujer'
 sku: 'B07MZPPWVG-es'
-tags: [ 'sudadera', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

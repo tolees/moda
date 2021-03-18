@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V5LSQYU-es Kempa Pantalón Deporte Core Modern Gris Jaspeado 2XS'
 sku: 'B00V5LSQYU-es'
-tags: [ 'pantalón', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

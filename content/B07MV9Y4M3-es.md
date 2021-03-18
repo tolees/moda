@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV9Y4M3-es Kipling Gleam Bolso de Tocador para Mujer Multicolor Music...'
 sku: 'B07MV9Y4M3-es'
-tags: [ 'bolso', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

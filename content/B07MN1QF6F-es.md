@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN1QF6F-es The North Face Drew Peak Sudadera Mujer Azul Azul tormenta XS'
 sku: 'B07MN1QF6F-es'
-tags: [ 'sudadera', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

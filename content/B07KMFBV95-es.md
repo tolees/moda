@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMFBV95-es adidas Essentials Chelsea 7 Inch 3 Bandas Pantalón Corto...'
 sku: 'B07KMFBV95-es'
-tags: [ 'pantalón', ]
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

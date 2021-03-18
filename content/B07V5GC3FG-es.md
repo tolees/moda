@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V5GC3FG-es Lixada Mochila de Senderismo 50L Impermeable Mochila de...'
 sku: 'B07V5GC3FG-es'
-tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

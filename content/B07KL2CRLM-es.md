@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KL2CRLM-es NIKE Club19 Camiseta Hombre Azul Oscuro Obsidian/White S'
 sku: 'B07KL2CRLM-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

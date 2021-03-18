@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FWSZHBC-es Calvin Klein 3p Trunk Bóxer Negro Black/White/Grey Heather...'
 sku: 'B00FWSZHBC-es'
-tags: [ 'bóxer', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

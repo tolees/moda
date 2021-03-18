@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SL25GFB-es Vans MN Classic Crew II Sudadera Gris Cemento Heather-...'
 sku: 'B07SL25GFB-es'
-tags: [ 'sudadera', ]
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

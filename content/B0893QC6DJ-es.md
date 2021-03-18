@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893QC6DJ-es Quiksilver Waiting Period - Parka Resistente Al Agua Para...'
 sku: 'B0893QC6DJ-es'
-tags: [ 'parka', ]
 actualPrice: 67.57 EUR
 currency: EUR
 price: 67.57

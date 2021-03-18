@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5HXB74-es find. 2 Pack Slim Shirt - Camisa Hombre Gris Contrast...'
 sku: 'B07G5HXB74-es'
-tags: [ 'camisa', ]
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MRX7W2-es Marca Amazon - MERAKI Camiseta de Manga Corta Hombre...'
 sku: 'B079MRX7W2-es'
-tags: [ 'camiseta','meraki', ]
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

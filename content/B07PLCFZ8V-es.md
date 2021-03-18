@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PLCFZ8V-es Rioneo - Zapatos Deporte Mujer Zapatillas Deportivas...'
 sku: 'B07PLCFZ8V-es'
-tags: [ 'zapatos', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

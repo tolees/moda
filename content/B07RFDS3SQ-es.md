@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFDS3SQ-es Tommy Hilfiger Corp Split tee Camiseta Deporte Negro Black...'
 sku: 'B07RFDS3SQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CJ25V4Z-es Element Alder Puff Fundament - Jacket para Hombre Chaqueta...'
 sku: 'B08CJ25V4Z-es'
-tags: [ 'chaqueta','parka', ]
 actualPrice: 42.62 EUR
 currency: EUR
 price: 42.62

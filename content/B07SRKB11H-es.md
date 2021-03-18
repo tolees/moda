@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRKB11H-es Geox D SUZZIE D Zapatillas sin Cordones para Mujer Blanco...'
 sku: 'B07SRKB11H-es'
-tags: [ 'geox', ]
 actualPrice: 28.44 EUR
 currency: EUR
 price: 28.44

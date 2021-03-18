@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7GKLV4-es Calvin Klein Instit Back Pop Logo Slim tee Camiseta Gris...'
 sku: 'B07V7GKLV4-es'
-tags: [ 'camiseta', ]
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

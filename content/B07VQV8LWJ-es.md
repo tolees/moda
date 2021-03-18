@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQV8LWJ-es G-STAR RAW One Slim Fit Camiseta Blanco White 336-110 M...'
 sku: 'B07VQV8LWJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

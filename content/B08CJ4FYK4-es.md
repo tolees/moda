@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CJ4FYK4-es Element Wolfeboro Stark - Chaqueta resistente al agua para...'
 sku: 'B08CJ4FYK4-es'
-tags: [ 'chaqueta','parka', ]
 actualPrice: 46.76 EUR
 currency: EUR
 price: 46.76

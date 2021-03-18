@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB7RZGC-es Columbia Tolt Track Chaqueta con forro extraíble Mujer...'
 sku: 'B07RB7RZGC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 77.52 EUR
 currency: EUR
 price: 77.52

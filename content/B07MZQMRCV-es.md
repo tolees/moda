@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQMRCV-es Pepe Jeans Alice Chaqueta Forest Green 682 X-Large para Mujer'
 sku: 'B07MZQMRCV-es'
-tags: [ 'chaqueta', ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

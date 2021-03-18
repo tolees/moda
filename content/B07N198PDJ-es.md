@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N198PDJ-es G-STAR RAW 5620 3D Vaqueros Slim Azul Dry Waxed Cobler...'
 sku: 'B07N198PDJ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

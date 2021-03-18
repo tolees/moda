@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0842HDXNY-es Tommy Hilfiger TJW Diamond Quilted Coat Chaqueta Negro XL...'
 sku: 'B0842HDXNY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 86.38 EUR
 currency: EUR
 price: 86.38

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L4GHD68-es Columbia Sunlightâ¢ Vent II Sandalias para Mujer Beige...'
 sku: 'B00L4GHD68-es'
-tags: [ 'sandalias', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

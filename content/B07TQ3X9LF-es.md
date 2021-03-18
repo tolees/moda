@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TQ3X9LF-es Clarks Maritsa95 Glad Sandalias de Talón Abierto para...'
 sku: 'B07TQ3X9LF-es'
-tags: [ 'sandalias', ]
 actualPrice: 36.74 EUR
 currency: EUR
 price: 36.74

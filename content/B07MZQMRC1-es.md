@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQMRC1-es Pepe Jeans Miracle Camiseta Dark Denim 559 X-Small para Mujer'
 sku: 'B07MZQMRC1-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846FC5XY-es Pepe Jeans Valentina Vestido Multicolor 0AA 4 para Niñas'
 sku: 'B0846FC5XY-es'
-tags: [ 'vestido', ]
 actualPrice: 20.86 EUR
 currency: EUR
 price: 20.86

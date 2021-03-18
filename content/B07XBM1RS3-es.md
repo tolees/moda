@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XBM1RS3-es LIGE Relojes Hombre Militar Deportivo Cronógrafo a Prueba...'
 sku: 'B07XBM1RS3-es'
-tags: [ 'moda', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

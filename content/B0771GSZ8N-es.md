@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771GSZ8N-es Cartera pequeña con Monedero para Hombre - Billetera de...'
 sku: 'B0771GSZ8N-es'
-tags: [ 'billetera','monedero', ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

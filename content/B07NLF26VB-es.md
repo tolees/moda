@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLF26VB-es Meller - Kribi Tigris Carbon - Gafas de sol para hombre y...'
 sku: 'B07NLF26VB-es'
-tags: [ 'gafas', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

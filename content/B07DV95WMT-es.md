@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DV95WMT-es Fallout Chaqueta XL Vault Capucha'
 sku: 'B07DV95WMT-es'
-tags: [ 'chaqueta', ]
 actualPrice: 24.18 EUR
 currency: EUR
 price: 24.18

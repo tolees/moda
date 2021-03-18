@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z89W5WJ-es NORWAY Abrigo Mujer Boomerang Lady Fuxia WR861F'
 sku: 'B07Z89W5WJ-es'
-tags: [ 'abrigo', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

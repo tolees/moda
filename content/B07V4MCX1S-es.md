@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4MCX1S-es Kipling NEW ELDORADO Bolso bandolera 20 cm 1 liters Negro...'
 sku: 'B07V4MCX1S-es'
-tags: [ 'bolso', ]
 actualPrice: 32.74 EUR
 currency: EUR
 price: 32.74

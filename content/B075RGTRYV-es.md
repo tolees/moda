@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RGTRYV-es Helly Hansen Blume Chaqueta De Fumador Repelente Al Agua...'
 sku: 'B075RGTRYV-es'
-tags: [ 'chaqueta','parka', ]
 actualPrice: 55.2 EUR
 currency: EUR
 price: 55.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NFXDJM-es Jack & Jones JORTRAILER Sweat Hood STS Sudadera con...'
 sku: 'B089NFXDJM-es'
-tags: [ 'sudadera', ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

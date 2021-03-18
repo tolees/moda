@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4PCTBG-es LIVACASA Bolso para Ordenador Bandolera para Portátil...'
 sku: 'B07Z4PCTBG-es'
-tags: [ 'bolso', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

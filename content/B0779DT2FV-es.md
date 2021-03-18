@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779DT2FV-es adidas Entrada 85 Camiseta de Fútbol para Hombre de Cuello...'
 sku: 'B0779DT2FV-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

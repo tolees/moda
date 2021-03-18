@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LVTUC4P-es Tiebao Niños Difícil Suelo Artificial Velocidad PU Cuero...'
 sku: 'B01LVTUC4P-es'
-tags: [ 'zapatos', ]
 actualPrice: 22.65 EUR
 currency: EUR
 price: 22.65

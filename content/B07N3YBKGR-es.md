@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3YBKGR-es Desigual Coat Exotic Classic Abrigo Azul Denim Medium Wash...'
 sku: 'B07N3YBKGR-es'
-tags: [ 'abrigo', ]
 actualPrice: 32.94 EUR
 currency: EUR
 price: 32.94

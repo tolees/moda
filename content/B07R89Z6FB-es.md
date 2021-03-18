@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R89Z6FB-es Ellesse SL Gottero Oh Hoody Sudadera Hombre Black S'
 sku: 'B07R89Z6FB-es'
-tags: [ 'sudadera', ]
 actualPrice: 35.55 EUR
 currency: EUR
 price: 35.55

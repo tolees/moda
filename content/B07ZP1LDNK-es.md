@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP1LDNK-es Jack & Jones Jcoisland tee SS Crew Neck Camiseta Azul...'
 sku: 'B07ZP1LDNK-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

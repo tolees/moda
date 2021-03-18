@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017BP58KS-es Philips Lumea Advanced SC1999/00 - Depiladora Luz Pulsada...'
 sku: 'B017BP58KS-es'
-tags: [ 'bikini', ]
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

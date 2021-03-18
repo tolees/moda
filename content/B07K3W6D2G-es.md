@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K3W6D2G-es Fortnite Floss Dance - Camiseta color gris oscuro talla L'
 sku: 'B07K3W6D2G-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

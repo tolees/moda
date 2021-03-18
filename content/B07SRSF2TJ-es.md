@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRSF2TJ-es Geox D Genova Moc A Mocasines para Mujer Azul Navy C4002...'
 sku: 'B07SRSF2TJ-es'
-tags: [ 'geox', ]
 actualPrice: 46.16 EUR
 currency: EUR
 price: 46.16

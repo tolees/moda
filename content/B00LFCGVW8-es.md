@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LFCGVW8-es Birkenstock Classic Arizona EVA Zuecos para Hombre Blanco...'
 sku: 'B00LFCGVW8-es'
-tags: [ 'zuecos', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8PT33J-es Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros...'
 sku: 'B07S8PT33J-es'
-tags: [ 'only','vaqueros', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

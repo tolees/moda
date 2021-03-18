@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SN46MH2-es Gifort Cortador de Verdura Mandolina de Verduras 8 en 1...'
 sku: 'B07SN46MH2-es'
-tags: [ 'guantes', ]
 actualPrice: 24.89 EUR
 currency: EUR
 price: 24.89

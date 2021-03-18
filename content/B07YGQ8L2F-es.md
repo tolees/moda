@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGQ8L2F-es Amazon Essentials Camiseta Cuello en V y Manga Corta....'
 sku: 'B07YGQ8L2F-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.92 EUR
 currency: EUR
 price: 13.92

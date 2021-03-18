@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083YHDMXV-es Desigual Sport Accessories Woven Shoulder Bag Bolso...'
 sku: 'B083YHDMXV-es'
-tags: [ 'bolso', ]
 actualPrice: 27.32 EUR
 currency: EUR
 price: 27.32

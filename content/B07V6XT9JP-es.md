@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V6XT9JP-es Kami Idea Collar Mi Fatídico Amor Colgante de Corazón a...'
 sku: 'B07V6XT9JP-es'
-tags: [ 'collar', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TP652FK-es Calvin Klein Jeans Ckj 016 Vaqueros Skinny Azul Copenhagen...'
 sku: 'B07TP652FK-es'
-tags: [ 'vaqueros', ]
 actualPrice: 43.94 EUR
 currency: EUR
 price: 43.94

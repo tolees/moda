@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQSSF6M-es Springfield 6Ba-Acolchada Cap Bas Chaqueta Verde Green 26...'
 sku: 'B07NQSSF6M-es'
-tags: [ 'chaqueta', ]
 actualPrice: 35.07 EUR
 currency: EUR
 price: 35.07

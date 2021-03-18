@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRLK5D9-es Vero Moda Vmexcursion Expedition Aw193/4parka Noos Abrigo...'
 sku: 'B07SRLK5D9-es'
-tags: [ 'abrigo','moda', ]
 actualPrice: 35.49 EUR
 currency: EUR
 price: 35.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X9SZ7NG-es Puma Essentials+ Fitted tee Camiseta de Manga Corta Mujer...'
 sku: 'B07X9SZ7NG-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

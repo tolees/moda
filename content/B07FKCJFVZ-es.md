@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKCJFVZ-es NIKE W NP Tank All Over Mesh Camiseta sin Mangas Mujer...'
 sku: 'B07FKCJFVZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

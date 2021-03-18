@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLZN2VT-es Calvin Klein Jeans Ckj 026 Vaqueros Slim Azul Antwerp...'
 sku: 'B07TLZN2VT-es'
-tags: [ 'vaqueros', ]
 actualPrice: 42.98 EUR
 currency: EUR
 price: 42.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRKB18Y-es Geox D Myria C Zapatillas Mujer Beige Skin/Sand C8389 36 EU'
 sku: 'B07SRKB18Y-es'
-tags: [ 'geox', ]
 actualPrice: 56.65 EUR
 currency: EUR
 price: 56.65

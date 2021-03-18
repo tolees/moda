@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KJZN34H-es Under Armour Crossbody Bolso de Hombro Unisex Negro...'
 sku: 'B07KJZN34H-es'
-tags: [ 'bolso', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

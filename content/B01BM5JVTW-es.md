@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BM5JVTW-es Remington Smooth & Silky BKT4000 - Depiladora Femenina...'
 sku: 'B01BM5JVTW-es'
-tags: [ 'bikini', ]
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

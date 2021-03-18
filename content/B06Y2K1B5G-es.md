@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2K1B5G-es Buffalo London Es 30993 PU Patent Zapatos de Vestir para...'
 sku: 'B06Y2K1B5G-es'
-tags: [ 'zapatos', ]
 actualPrice: 17.92 EUR
 currency: EUR
 price: 17.92

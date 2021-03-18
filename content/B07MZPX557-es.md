@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPX557-es Pepe Jeans Makeba Camiseta Black 999 17-18 años de Edad...'
 sku: 'B07MZPX557-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.62 EUR
 currency: EUR
 price: 7.62

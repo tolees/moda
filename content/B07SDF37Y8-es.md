@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDF37Y8-es LOSMILE Bolsos Bandolera de Hombres Bolso de Hombro de...'
 sku: 'B07SDF37Y8-es'
-tags: [ 'bolso', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

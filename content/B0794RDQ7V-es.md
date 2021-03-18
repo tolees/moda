@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0794RDQ7V-es jiamiaoi - De la perla accesorios de la joyería nuevos...'
 sku: 'B0794RDQ7V-es'
-tags: [ 'moda', ]
 actualPrice: 26.77 EUR
 currency: EUR
 price: 26.77

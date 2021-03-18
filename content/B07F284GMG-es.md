@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F284GMG-es Pimkie PBW18 G-Daim Falda Marrón Autres 786A07 38 Talla...'
 sku: 'B07F284GMG-es'
-tags: [ 'falda', ]
 actualPrice: 11.71 EUR
 currency: EUR
 price: 11.71

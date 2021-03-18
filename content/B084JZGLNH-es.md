@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084JZGLNH-es Petit Bateau - Pantalón con diseño de bebé niña...'
 sku: 'B084JZGLNH-es'
-tags: [ 'pantalón', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

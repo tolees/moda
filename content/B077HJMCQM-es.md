@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077HJMCQM-es PUMA Pique Polo Camiseta Hombre Azul S'
 sku: 'B077HJMCQM-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.23 EUR
 currency: EUR
 price: 13.23

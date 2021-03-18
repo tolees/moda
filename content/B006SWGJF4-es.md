@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006SWGJF4-es Helly Hansen W Seven J Chaqueta Mujer Negro M'
 sku: 'B006SWGJF4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 61.8 EUR
 currency: EUR
 price: 61.8

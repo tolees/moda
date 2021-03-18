@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFS5G93-es Tommy Hilfiger TJM Flannel Multi Check Shirt Camisa Negro...'
 sku: 'B07RFS5G93-es'
-tags: [ 'camisa', ]
 actualPrice: 16.83 EUR
 currency: EUR
 price: 16.83

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRHKQZN-es Botas Altas para Mujer Cuero de Invierno Camfosy City...'
 sku: 'B07HRHKQZN-es'
-tags: [ 'botines', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

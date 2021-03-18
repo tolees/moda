@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0792FKCY6-es Geox D ASHEELY B Botas Estilo Motero Mujer Rojo Dk...'
 sku: 'B0792FKCY6-es'
-tags: [ 'geox', ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

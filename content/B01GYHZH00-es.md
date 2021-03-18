@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GYHZH00-es Moolecole Seco Húmedo Separado Bolso De La Natación Bolsa...'
 sku: 'B01GYHZH00-es'
-tags: [ 'bolso', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

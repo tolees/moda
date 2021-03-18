@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F2Q2QNG-es Disney Princess - Muñeca Jasmín Royal Shimmer - Muñeca con...'
 sku: 'B08F2Q2QNG-es'
-tags: [ 'falda', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

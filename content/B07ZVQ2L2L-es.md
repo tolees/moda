@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQ2L2L-es Levi s New Original Crew Sudadera Mineral Black S para Hombre'
 sku: 'B07ZVQ2L2L-es'
-tags: [ 'sudadera', ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

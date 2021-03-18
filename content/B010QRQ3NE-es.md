@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010QRQ3NE-es Timberland Larchmont Chukka Botas Clasicas para Hombre...'
 sku: 'B010QRQ3NE-es'
-tags: [ 'timberland', ]
 actualPrice: 61.63 EUR
 currency: EUR
 price: 61.63

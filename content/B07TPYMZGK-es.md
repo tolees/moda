@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPYMZGK-es Clarks Willow Glad Sandalias de Gladiador para Mujer Negro...'
 sku: 'B07TPYMZGK-es'
-tags: [ 'sandalias', ]
 actualPrice: 40.68 EUR
 currency: EUR
 price: 40.68

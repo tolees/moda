@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TS2X8ND-es Disney Sudadera para niños Toy Story Multicolor 3-4 Años'
 sku: 'B07TS2X8ND-es'
-tags: [ 'sudadera', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WZV2MKW-es Sandalias Niña Pablosky Blanco 477900 30'
 sku: 'B07WZV2MKW-es'
-tags: [ 'sandalias', ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDNG56K-es G-STAR RAW Salant Core Round Neck Sudadera Multicolor...'
 sku: 'B07NDNG56K-es'
-tags: [ 'sudadera', ]
 actualPrice: 33.5 EUR
 currency: EUR
 price: 33.5

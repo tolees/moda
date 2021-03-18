@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SV1PLQX-es JACK & JONES PREMIUM Jprlogo Twist Shirt L/s STS Camisa...'
 sku: 'B07SV1PLQX-es'
-tags: [ 'camisa', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

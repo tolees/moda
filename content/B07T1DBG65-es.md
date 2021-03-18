@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T1DBG65-es Timberland Adventure Seeker 2 Strap Toddler Sandalias de...'
 sku: 'B07T1DBG65-es'
-tags: [ 'sandalias','timberland', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVWY9NJ-es Lacoste - Camisa Punto Manga Larga Hombre - CH9623-00'
 sku: 'B07ZVWY9NJ-es'
-tags: [ 'camisa', ]
 actualPrice: 77.0 EUR
 currency: EUR
 price: 77.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKZSLLX-es Jack & Jones JJGRAND tee SS Crew Neck Camiseta Azul...'
 sku: 'B08DKZSLLX-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

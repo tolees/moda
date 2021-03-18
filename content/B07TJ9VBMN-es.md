@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TJ9VBMN-es Under Armour Tech Pantalón Hombre Marrón 3632'
 sku: 'B07TJ9VBMN-es'
-tags: [ 'pantalón', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

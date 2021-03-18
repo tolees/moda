@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQX67C3-es Clarks Un Karely Sun Chanclas para Mujer Gris Sage Nubuck-...'
 sku: 'B07FQX67C3-es'
-tags: [ 'chanclas', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

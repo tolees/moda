@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZMHX6D-es Pepe Jeans Legendary Shepherd Cord Chaqueta Navy 595 7-8...'
 sku: 'B07MZMHX6D-es'
-tags: [ 'chaqueta', ]
 actualPrice: 47.56 EUR
 currency: EUR
 price: 47.56

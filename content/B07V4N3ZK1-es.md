@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4N3ZK1-es Tommy Hilfiger Nautical Print Beach Sandal Sandalias con...'
 sku: 'B07V4N3ZK1-es'
-tags: [ 'sandalias', ]
 actualPrice: 21.29 EUR
 currency: EUR
 price: 21.29

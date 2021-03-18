@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X86M5KN-es JACK & JONES Jcofort tee SS Crew Neck Camiseta Blanco...'
 sku: 'B07X86M5KN-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.12 EUR
 currency: EUR
 price: 5.12

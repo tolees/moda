@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CKAKPO8-es Feliz Caminar - Zuecos Sanitarios Flotantes Blanco 41 EU'
 sku: 'B01CKAKPO8-es'
-tags: [ 'Zuecos sanitarios y de hostelería para hombre','Zuecos sanitarios y de hostelería para mujer','feliz caminar','zuecos', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

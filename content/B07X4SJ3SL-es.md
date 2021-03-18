@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4SJ3SL-es Pepe Jeans Gen Vaqueros Straight Azul 000Denim 000 W24/L34...'
 sku: 'B07X4SJ3SL-es'
-tags: [ 'vaqueros', ]
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

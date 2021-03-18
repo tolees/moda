@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRSX1BL-es JACK & JONES Jprlogo Twist Shirt L/s STS Camisa Marrón...'
 sku: 'B07SRSX1BL-es'
-tags: [ 'camisa', ]
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

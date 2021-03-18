@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDNVK69-es G-STAR RAW Earth Round Neck Camiseta Gris Asfalt 995...'
 sku: 'B07NDNVK69-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.81 EUR
 currency: EUR
 price: 16.81

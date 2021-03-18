@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RFC5Q-es Geox D CATRIA E Botín Mujer Marrón 35 EU'
 sku: 'B0825RFC5Q-es'
-tags: [ 'geox', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

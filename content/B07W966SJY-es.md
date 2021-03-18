@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W966SJY-es NIKE Y Nk Rpl Park20 RN Jkt W Chaqueta de Deporte Unisex...'
 sku: 'B07W966SJY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 19.57 EUR
 currency: EUR
 price: 19.57

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H716YXT-es Lee Scarlett High Zip Vaqueros Skinny Azul Blue Aged Yz...'
 sku: 'B07H716YXT-es'
-tags: [ 'vaqueros', ]
 actualPrice: 54.93 EUR
 currency: EUR
 price: 54.93

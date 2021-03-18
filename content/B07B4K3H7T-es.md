@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4K3H7T-es Timberland Adventure Seeker Toddler Sandalias de Punta...'
 sku: 'B07B4K3H7T-es'
-tags: [ 'sandalias','timberland', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

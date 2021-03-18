@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N3BP18T-es Desigual Coat Sigrun Abrigo Blanco Blanco 1000 36 para Mujer'
 sku: 'B07N3BP18T-es'
-tags: [ 'abrigo', ]
 actualPrice: 45.75 EUR
 currency: EUR
 price: 45.75

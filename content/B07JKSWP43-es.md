@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKSWP43-es CMP Poncho 39X6617 Chaqueta Hombre Gecko XS'
 sku: 'B07JKSWP43-es'
-tags: [ 'chaqueta', ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

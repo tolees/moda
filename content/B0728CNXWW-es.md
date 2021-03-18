@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0728CNXWW-es Crocs Crocband II Sandal PS K Sandalias Unisex Niños Rosa...'
 sku: 'B0728CNXWW-es'
-tags: [ 'sandalias', ]
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2QF8KP-es Helly Hansen Moss Outdoor Chaqueta Impermeable Hombre Black S'
 sku: 'B07F2QF8KP-es'
-tags: [ 'chaqueta', ]
 actualPrice: 38.81 EUR
 currency: EUR
 price: 38.81

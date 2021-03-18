@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHW4CTL-es Desigual - Bolso de mano de Sintético Mujer color Blanco...'
 sku: 'B07VHW4CTL-es'
-tags: [ 'bolso', ]
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

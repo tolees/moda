@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTH9ZSG-es Lee Slim Rider Chaqueta Vaquera Azul Flick Light IR...'
 sku: 'B07FTH9ZSG-es'
-tags: [ 'chaqueta', ]
 actualPrice: 37.23 EUR
 currency: EUR
 price: 37.23

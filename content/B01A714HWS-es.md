@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01A714HWS-es ONLY Onlcrystal Ls Cardigan Noos Chaqueta para Mujer Negro...'
 sku: 'B01A714HWS-es'
-tags: [ 'chaqueta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

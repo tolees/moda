@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRSDLM3-es Geox D Taormina F Sandalias con Punta Abierta para Mujer...'
 sku: 'B07SRSDLM3-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

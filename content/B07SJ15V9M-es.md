@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ15V9M-es Levi s June L Chanclas para Hombre Blanco R White 51 40 EU'
 sku: 'B07SJ15V9M-es'
-tags: [ 'chanclas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

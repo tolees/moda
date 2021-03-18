@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZQDZJZ-es Panama Jack Salton Basics Sandalias con Punta Abierta para...'
 sku: 'B06ZZQDZJZ-es'
-tags: [ 'sandalias', ]
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

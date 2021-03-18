@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGSNKKW-es Pepe Jeans Finsbury Pm200338 Vaqueros Skinny Grey Wiser...'
 sku: 'B07JGSNKKW-es'
-tags: [ 'vaqueros', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

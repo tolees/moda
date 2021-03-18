@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TD1QV6-es DEWEL Collar Antiparasitos para Perro Gato Pequeño Mediano...'
 sku: 'B088TD1QV6-es'
-tags: [ 'collar', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

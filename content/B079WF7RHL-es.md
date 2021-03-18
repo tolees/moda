@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079WF7RHL-es Carrera 154/S Gafas de sol Negro MTT BLACK 51 Unisex Adulto'
 sku: 'B079WF7RHL-es'
-tags: [ 'gafas', ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

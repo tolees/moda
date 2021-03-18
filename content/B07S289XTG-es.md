@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S289XTG-es BILLABONG Harlem Chaqueta Negro Black 19 One Size Tamaño...'
 sku: 'B07S289XTG-es'
-tags: [ 'chaqueta', ]
 actualPrice: 28.17 EUR
 currency: EUR
 price: 28.17

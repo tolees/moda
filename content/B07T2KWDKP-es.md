@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T2KWDKP-es Amazon Basics - Guantes de boxeo 453 g'
 sku: 'B07T2KWDKP-es'
-tags: [ 'guantes', ]
 actualPrice: 24.62 EUR
 currency: EUR
 price: 24.62

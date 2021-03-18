@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DDS1KW8-es Only Onlqueen L/s Long Cardigan Knt Noos Chaqueta Punto...'
 sku: 'B07DDS1KW8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

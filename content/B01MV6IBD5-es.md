@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MV6IBD5-es Lacoste TH6709 Camiseta para Hombre Azul Marine 2XL Talla...'
 sku: 'B01MV6IBD5-es'
-tags: [ 'camiseta', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

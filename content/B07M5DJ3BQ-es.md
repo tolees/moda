@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M5DJ3BQ-es Lee Luke Vaqueros Navy 37 27W / 32L para Hombre'
 sku: 'B07M5DJ3BQ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

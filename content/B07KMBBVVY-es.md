@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KMBBVVY-es Birkenstock Arizona SFB Sandalias de Punta Descubierta...'
 sku: 'B07KMBBVVY-es'
-tags: [ 'sandalias', ]
 actualPrice: 46.15 EUR
 currency: EUR
 price: 46.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRTJVNF-es Quiksilver Molokai Tijuana Zapatos de Playa y Piscina...'
 sku: 'B07SRTJVNF-es'
-tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQG47S1-es The North Face Sport Jacket Chaqueta Deportiva Thermoball...'
 sku: 'B07FQG47S1-es'
-tags: [ 'chaqueta', ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

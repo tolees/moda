@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FW6T9N-es Marca Amazon - find. Sudadera de Rayas Verticales con...'
 sku: 'B074FW6T9N-es'
-tags: [ '-','find.','sudadera', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

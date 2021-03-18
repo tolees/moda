@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXL1BTV-es Levi s Sunset 1 Pkt Slim Camisa Azul Alfonso Indigo 0006...'
 sku: 'B07RXL1BTV-es'
-tags: [ 'camisa', ]
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

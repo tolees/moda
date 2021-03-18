@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071GZ6ZD4-es Jack & Jones Jprnon Iron Shirt L/s Noos Camisa Blanco...'
 sku: 'B071GZ6ZD4-es'
-tags: [ 'camisa', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

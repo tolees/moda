@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MLSTJDP-es Clarks Atticus Lace Zapatos de Cordones Derby Hombre Braun...'
 sku: 'B07MLSTJDP-es'
-tags: [ 'zapatos', ]
 actualPrice: 43.62 EUR
 currency: EUR
 price: 43.62

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RH2XT-es GEOX U NEBULA 4 X 4 B ABX NAVY Men s Trainers Low-Top...'
 sku: 'B0825RH2XT-es'
-tags: [ 'geox', ]
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

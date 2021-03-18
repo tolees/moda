@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CJ4H13N-es Element Blazin Chest - Sudadera para Hombre Sudadera...'
 sku: 'B08CJ4H13N-es'
-tags: [ 'sudadera', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

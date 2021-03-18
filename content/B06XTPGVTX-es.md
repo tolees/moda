@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XTPGVTX-es Pepe Jeans Original Basic S/S PM503835 Camiseta Gris Grey...'
 sku: 'B06XTPGVTX-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5SCPBG-es PUMA ESS Logo tee Camiseta Mujer Gris Light Gray Heather XL'
 sku: 'B07D5SCPBG-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

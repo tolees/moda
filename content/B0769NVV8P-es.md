@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0769NVV8P-es Only ONLGEMMA Faux Leather Biker OTW Noos Chaqueta Negro...'
 sku: 'B0769NVV8P-es'
-tags: [ 'chaqueta', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

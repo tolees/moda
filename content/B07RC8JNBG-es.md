@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RC8JNBG-es Columbia Lake 22 Chaqueta de plumas con capucha Hombre...'
 sku: 'B07RC8JNBG-es'
-tags: [ 'chaqueta', ]
 actualPrice: 63.7 EUR
 currency: EUR
 price: 63.7

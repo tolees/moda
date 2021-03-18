@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LENU3H6-es BOSS Brief CO/EL Bóxer Multicolor Assorted Pre-Pack 999...'
 sku: 'B01LENU3H6-es'
-tags: [ 'bóxer', ]
 actualPrice: 18.91 EUR
 currency: EUR
 price: 18.91

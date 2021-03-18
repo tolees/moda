@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZNMFWH-es Suhctup Funda Huawei P20 Pro Carcasa Patrón de Dibujos...'
 sku: 'B084ZNMFWH-es'
-tags: [ 'moda', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

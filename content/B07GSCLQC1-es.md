@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSCLQC1-es Elimina el cabello facial para mujeres suave sin dolor...'
 sku: 'B07GSCLQC1-es'
-tags: [ 'bikini', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

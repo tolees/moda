@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0781VC1QK-es PUMA Liga Training Chaqueta de Entrenamiento Hombre Negro...'
 sku: 'B0781VC1QK-es'
-tags: [ 'chaqueta', ]
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

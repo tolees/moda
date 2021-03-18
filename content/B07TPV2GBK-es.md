@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TPV2GBK-es Superdry Collective Crew Sudadera Blanco Optic 01c 3XL...'
 sku: 'B07TPV2GBK-es'
-tags: [ 'sudadera', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

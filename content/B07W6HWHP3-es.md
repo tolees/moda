@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6HWHP3-es Tom Tailor Doppelpack Basic T-Shirt Camiseta Azul Real...'
 sku: 'B07W6HWHP3-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLDLXPF-es Zapatillas Casa Mujer Hombre Invierno Calido Zapatillas...'
 sku: 'B07WLDLXPF-es'
-tags: [ 'zapatilla', ]
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

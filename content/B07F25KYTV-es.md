@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F25KYTV-es Amazon Essentials – Camisa Oxford de manga corta de corte...'
 sku: 'B07F25KYTV-es'
-tags: [ 'camisa', ]
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

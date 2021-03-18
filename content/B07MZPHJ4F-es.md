@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPHJ4F-es Pepe Jeans Rick Chaqueta Berry Red 280 X-Large para Hombre'
 sku: 'B07MZPHJ4F-es'
-tags: [ 'chaqueta', ]
 actualPrice: 32.62 EUR
 currency: EUR
 price: 32.62

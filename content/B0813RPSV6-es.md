@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RPSV6-es LEGO Friends Heartlake City Friends Tienda de Moda Set de...'
 sku: 'B0813RPSV6-es'
-tags: [ 'moda', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

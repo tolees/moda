@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825NXFB2-es GEOX U SNAKE.2 B ANTHRACITE Men s Trainers Low-Top...'
 sku: 'B0825NXFB2-es'
-tags: [ 'geox', ]
 actualPrice: 38.52 EUR
 currency: EUR
 price: 38.52

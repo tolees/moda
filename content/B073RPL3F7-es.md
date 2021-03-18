@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RPL3F7-es Helly Hansen Logo Hoodie Sudadera con Capucha Hombre Azul...'
 sku: 'B073RPL3F7-es'
-tags: [ 'sudadera', ]
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

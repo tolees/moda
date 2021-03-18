@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T2WQPGG-es Armani Exchange 11 5 Ounces Cotton Chaqueta Vaquera BLU...'
 sku: 'B07T2WQPGG-es'
-tags: [ 'chaqueta', ]
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y3SNNMM-es Only 15174274 Chaqueta Punto Beige Beige Detail: W....'
 sku: 'B07Y3SNNMM-es'
-tags: [ 'chaqueta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

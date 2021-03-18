@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKN8T39-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Beige...'
 sku: 'B07TKN8T39-es'
-tags: [ 'zapatos', ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

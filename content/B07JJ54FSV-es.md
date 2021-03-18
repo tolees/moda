@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJ54FSV-es Amazon Essentials - Camisa a cuadros de lino con manga...'
 sku: 'B07JJ54FSV-es'
-tags: [ 'camisa', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

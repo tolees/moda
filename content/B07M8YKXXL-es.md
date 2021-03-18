@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8YKXXL-es Geox M Hilstone D Abrigo Azul Blue Nights F4386 Medium...'
 sku: 'B07M8YKXXL-es'
-tags: [ 'abrigo','geox', ]
 actualPrice: 99.5 EUR
 currency: EUR
 price: 99.5

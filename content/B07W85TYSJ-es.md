@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W85TYSJ-es Springfield Top Offshoulder-c/95 Blusa Verde Dark Khaki 95...'
 sku: 'B07W85TYSJ-es'
-tags: [ 'blusa', ]
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

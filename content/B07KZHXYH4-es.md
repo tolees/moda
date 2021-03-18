@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZHXYH4-es Alex Perry Regalo Día de la Madre collares mujer colgantes...'
 sku: 'B07KZHXYH4-es'
-tags: [ 'collar', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

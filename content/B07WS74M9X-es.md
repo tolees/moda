@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS74M9X-es Hombre Mujer Zapatillas de Deportes Zapatos Sneakers...'
 sku: 'B07WS74M9X-es'
-tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

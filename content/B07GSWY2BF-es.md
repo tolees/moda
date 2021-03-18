@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSWY2BF-es Puma Essentials LG T Camiseta de Manga Corta Hombre Negro...'
 sku: 'B07GSWY2BF-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

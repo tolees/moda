@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B59H4QX-es G-STAR RAW D-STAQ 3D Skinny Vaqueros Azul medium aged...'
 sku: 'B07B59H4QX-es'
-tags: [ 'vaqueros', ]
 actualPrice: 36.48 EUR
 currency: EUR
 price: 36.48

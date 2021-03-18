@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G13NR7W-es Cartera de Cuero Billetera de hombre Monederos de hombre...'
 sku: 'B07G13NR7W-es'
-tags: [ 'billetera', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

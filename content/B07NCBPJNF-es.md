@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NCBPJNF-es Pepe Jeans Elia Camiseta Negro Black 999 Medium para Mujer'
 sku: 'B07NCBPJNF-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

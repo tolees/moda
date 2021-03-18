@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMCTVPK-es Marca Amazon - find. Americana de Lino Mujer Negro Black...'
 sku: 'B07KMCTVPK-es'
-tags: [ '-','find.', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

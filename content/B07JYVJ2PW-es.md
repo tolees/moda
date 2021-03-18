@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYVJ2PW-es Tommy Hilfiger Hilfiger Logo Sweatshirt Sudadera Gris...'
 sku: 'B07JYVJ2PW-es'
-tags: [ 'sudadera', ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

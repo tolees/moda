@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZFGPZB-es Under Armour Sportstyle Camiseta sin Mangas con Logotipo...'
 sku: 'B07CZFGPZB-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

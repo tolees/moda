@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGPBBTV-es FIND Barely There Strappy Sandalias Abiertas Beige Tan 36 EU'
 sku: 'B07WGPBBTV-es'
-tags: [ 'sandalias', ]
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

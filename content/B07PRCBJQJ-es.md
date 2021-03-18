@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRCBJQJ-es Kipling Souta Bolso con Bandolera para Mujer Naranja...'
 sku: 'B07PRCBJQJ-es'
-tags: [ 'bolso', ]
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

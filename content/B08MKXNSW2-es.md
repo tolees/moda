@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MKXNSW2-es Geographical Norway Parka BOOMERANG hombre AZUL ELÉCTRICO...'
 sku: 'B08MKXNSW2-es'
-tags: [ 'parka', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

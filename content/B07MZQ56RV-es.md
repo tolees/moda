@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQ56RV-es Pepe Jeans Regent Vaqueros Skinny Powerflex Dark Used...'
 sku: 'B07MZQ56RV-es'
-tags: [ 'vaqueros', ]
 actualPrice: 40.34 EUR
 currency: EUR
 price: 40.34

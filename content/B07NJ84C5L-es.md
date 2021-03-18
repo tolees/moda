@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ84C5L-es Springfield 2.T.Ciudades Lentejuelas Camiseta Beige Beige...'
 sku: 'B07NJ84C5L-es'
-tags: [ 'camiseta', ]
 actualPrice: 4.21 EUR
 currency: EUR
 price: 4.21

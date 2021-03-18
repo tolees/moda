@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J1LQ6YC-es Crocs Crocband U Zuecos Unisex Adulto Azul Navy-Volt...'
 sku: 'B01J1LQ6YC-es'
-tags: [ 'zuecos', ]
 actualPrice: 32.11 EUR
 currency: EUR
 price: 32.11

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078Y7SPGG-es The North Face Jacket Chaqueta Trevail Hombre Bomber Blue M'
 sku: 'B078Y7SPGG-es'
-tags: [ 'chaqueta', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

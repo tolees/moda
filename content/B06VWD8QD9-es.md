@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06VWD8QD9-es iiniim Maillot Ballet Niña Mangas Largas Vestido de Danza...'
 sku: 'B06VWD8QD9-es'
-tags: [ 'vestido', ]
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

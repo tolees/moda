@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W35QBWV-es Pepe Jeans Edison Camiseta Verde Middle Green 631 Medium...'
 sku: 'B07W35QBWV-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

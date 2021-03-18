@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5LSGVX-es BOSS T-Shirt RN Camiseta Azul Bright Blue 436 Large para...'
 sku: 'B07S5LSGVX-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

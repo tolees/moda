@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076Q8ZTBC-es United Colors of Benetton Basico 1 Man Vaqueros Straight...'
 sku: 'B076Q8ZTBC-es'
-tags: [ 'vaqueros', ]
 actualPrice: 17.28 EUR
 currency: EUR
 price: 17.28

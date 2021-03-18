@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH341JC-es Pepe Jeans Agnes Pl504151 Camiseta Chambray 564 X-Small...'
 sku: 'B07JH341JC-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

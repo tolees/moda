@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M69IMAU-es Lacoste TH6712 Camiseta Azul Marine Medium Talla del...'
 sku: 'B01M69IMAU-es'
-tags: [ 'camiseta', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

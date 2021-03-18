@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N4FNQKS-es Clarks Ronnie Walk GTX Zapatos de Cordones Derby Hombre...'
 sku: 'B07N4FNQKS-es'
-tags: [ 'zapatos', ]
 actualPrice: 51.06 EUR
 currency: EUR
 price: 51.06

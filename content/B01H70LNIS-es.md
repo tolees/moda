@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H70LNIS-es Crocs Swiftwater Sandal Women Chanclas para Mujer Negro...'
 sku: 'B01H70LNIS-es'
-tags: [ 'chanclas', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QF9X1Y9-es PUMA Rebel Bold tee Camiseta Hombre White XL'
 sku: 'B07QF9X1Y9-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

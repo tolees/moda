@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PB7BH-es GEOX B PILLOW GIRL A ROSE SMOKE Baby Girls First Walking...'
 sku: 'B0825PB7BH-es'
-tags: [ 'geox', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

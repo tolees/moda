@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015OK3PQG-es PUMA PURECAT Sandalias deslizantes Unisex Adulto Azul...'
 sku: 'B015OK3PQG-es'
-tags: [ 'sandalias', ]
 actualPrice: 10.35 EUR
 currency: EUR
 price: 10.35

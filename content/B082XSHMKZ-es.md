@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XSHMKZ-es Lee Ultimate Pocket tee Camiseta Serpico Green S para Hombre'
 sku: 'B082XSHMKZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

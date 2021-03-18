@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0831PP4MF-es Canadian Peak Sudadera DE Hombre Galapagos Turquesa L'
 sku: 'B0831PP4MF-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGL57TM-es Spirit 599909 Bolso bandolera para Hombre Negro Negro...'
 sku: 'B07XGL57TM-es'
-tags: [ 'bolso', ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

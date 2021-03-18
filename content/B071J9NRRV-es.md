@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071J9NRRV-es Geox J New Fast Boy A Mocasines para Niños Negro Black 27 EU'
 sku: 'B071J9NRRV-es'
-tags: [ 'geox', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

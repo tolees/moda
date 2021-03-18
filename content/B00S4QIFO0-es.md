@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00S4QIFO0-es Ray-Ban - Rayban Justin RB4165 - Gafas de sol Unisex Negro...'
 sku: 'B00S4QIFO0-es'
-tags: [ 'gafas', ]
 actualPrice: 101.03 EUR
 currency: EUR
 price: 101.03

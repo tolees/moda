@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQ2LGS-es Levi s The Perfect tee Camiseta Batwing Blue Indigo S para...'
 sku: 'B07ZVQ2LGS-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4Y1P4-es Levi s HR Decon Iconic BF Skirt Falda Azul Meer In The...'
 sku: 'B07KF4Y1P4-es'
-tags: [ 'falda', ]
 actualPrice: 29.05 EUR
 currency: EUR
 price: 29.05

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XYBL5GV-es Marca Amazon - find. Mono de Lino Casual con Manga Larga...'
 sku: 'B07XYBL5GV-es'
-tags: [ '-','find.', ]
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

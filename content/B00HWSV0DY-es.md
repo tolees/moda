@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HWSV0DY-es crocs Baya Zuecos Unisex Adulto Azul Cerulean Blue 36/37 EU'
 sku: 'B00HWSV0DY-es'
-tags: [ 'zuecos', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

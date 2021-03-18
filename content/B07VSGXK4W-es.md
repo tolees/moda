@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VSGXK4W-es Chantelle Motif Sujetador para Camiseta Negro Black 011...'
 sku: 'B07VSGXK4W-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.46 EUR
 currency: EUR
 price: 8.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVJ85SK-es Ever-Pretty Vestido de Fiesta Noche Asimétrico en Encaje...'
 sku: 'B01IVJ85SK-es'
-tags: [ 'vestido', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RB7VDCL-es Columbia Lake 22 Chaqueta de plumas con capucha Hombre...'
 sku: 'B07RB7VDCL-es'
-tags: [ 'chaqueta', ]
 actualPrice: 51.7 EUR
 currency: EUR
 price: 51.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MR96EH1-es Geox UOMO Symbol D Zapatillas Hombre Negro Black C9999...'
 sku: 'B01MR96EH1-es'
-tags: [ 'geox', ]
 actualPrice: 56.79 EUR
 currency: EUR
 price: 56.79

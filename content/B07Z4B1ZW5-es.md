@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4B1ZW5-es G-STAR RAW Tacoma Long Sleeve Shirt Straight Vestido...'
 sku: 'B07Z4B1ZW5-es'
-tags: [ 'vestido', ]
 actualPrice: 69.97 EUR
 currency: EUR
 price: 69.97

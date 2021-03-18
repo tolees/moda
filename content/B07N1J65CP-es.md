@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N1J65CP-es Clarks Un Lindel Zip Botines Mujer Negro Black Oily Lea...'
 sku: 'B07N1J65CP-es'
-tags: [ 'botines', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

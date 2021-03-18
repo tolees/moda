@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPRHP84-es Stenso Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de...'
 sku: 'B07NPRHP84-es'
-tags: [ 'chaleco','chaqueta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

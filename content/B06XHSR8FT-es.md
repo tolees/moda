@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XHSR8FT-es ROCKBROS Gafas de Sol Polarizadas con 5 Lentes...'
 sku: 'B06XHSR8FT-es'
-tags: [ 'gafas', ]
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

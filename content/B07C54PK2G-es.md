@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C54PK2G-es Pepe Jeans Hana Glitter L/S Camiseta Blanco White 800 4...'
 sku: 'B07C54PK2G-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

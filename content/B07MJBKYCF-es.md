@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJBKYCF-es Hackett London Amr Wings tee Camiseta Verde Dusty Olive...'
 sku: 'B07MJBKYCF-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.63 EUR
 currency: EUR
 price: 15.63

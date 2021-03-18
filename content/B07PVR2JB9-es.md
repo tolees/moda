@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVR2JB9-es DOMISO 15-15 6 Pulgadas Funda Protectora con Puerto de...'
 sku: 'B07PVR2JB9-es'
-tags: [ 'bolso', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

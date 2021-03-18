@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HJ1ZPP4-es Pepe Jeans Amanda Monedero con Tarjetero Beige 11 5x8x1 5...'
 sku: 'B08HJ1ZPP4-es'
-tags: [ 'monedero', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

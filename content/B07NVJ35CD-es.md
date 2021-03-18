@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVJ35CD-es Zapatos de Playa y Piscina para Niña Niño Chanclas 2019...'
 sku: 'B07NVJ35CD-es'
-tags: [ 'chanclas','sandalias','zapatos', ]
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

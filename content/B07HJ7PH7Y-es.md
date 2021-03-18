@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJ7PH7Y-es LEABAGS Acapulco Bolso Bandolera de auténtico Cuero búfalo...'
 sku: 'B07HJ7PH7Y-es'
-tags: [ 'bolso', ]
 actualPrice: 98.98 EUR
 currency: EUR
 price: 98.98

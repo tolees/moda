@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846DYZZX-es Pepe Jeans Ricky Camiseta Blanco 802 16 para Niños'
 sku: 'B0846DYZZX-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

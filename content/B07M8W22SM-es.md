@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M8W22SM-es Wrangler Logo tee Camiseta Negro Black 100 Medium para Hombre'
 sku: 'B07M8W22SM-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

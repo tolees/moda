@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0797TMMK8-es Lacoste CH4976 Camisa Azul Hemisphere X-Large Talla del...'
 sku: 'B0797TMMK8-es'
-tags: [ 'camisa', ]
 actualPrice: 60.15 EUR
 currency: EUR
 price: 60.15

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087MZZ2GS-es Ramokey Leggings Mujer Pantalón Deportivo Cintura Alta con...'
 sku: 'B087MZZ2GS-es'
-tags: [ 'pantalón', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

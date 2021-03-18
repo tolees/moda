@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MSZWBS0-es Lacoste NH2102NE Bolso bandolera para Hombre BLACK Black...'
 sku: 'B01MSZWBS0-es'
-tags: [ 'bolso', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

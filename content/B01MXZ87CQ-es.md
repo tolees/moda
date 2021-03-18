@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MXZ87CQ-es Crocs Sloane Embellished Flip Chanclas para Mujer Azul...'
 sku: 'B01MXZ87CQ-es'
-tags: [ 'chanclas', ]
 actualPrice: 31.94 EUR
 currency: EUR
 price: 31.94

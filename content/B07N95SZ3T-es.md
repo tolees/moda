@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N95SZ3T-es Vero Moda VMGAVA SS Dress VMA Noos Vestido Negro Black...'
 sku: 'B07N95SZ3T-es'
-tags: [ 'moda','vestido', ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

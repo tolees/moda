@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XMLGEN6-es Pepe Jeans Soho Vaqueros Azul 10oz Dark Used Worn H45 27W...'
 sku: 'B00XMLGEN6-es'
-tags: [ 'vaqueros', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

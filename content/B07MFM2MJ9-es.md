@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFM2MJ9-es Clarks Ronnie Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MFM2MJ9-es'
-tags: [ 'zapatos', ]
 actualPrice: 37.76 EUR
 currency: EUR
 price: 37.76

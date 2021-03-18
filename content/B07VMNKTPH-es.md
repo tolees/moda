@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMNKTPH-es Tommy Hilfiger Tjw Slim Fit Oxford Shirt Camisa Blanco...'
 sku: 'B07VMNKTPH-es'
-tags: [ 'camisa', ]
 actualPrice: 54.83 EUR
 currency: EUR
 price: 54.83

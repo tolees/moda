@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5KL3S3-es edc by Esprit 089cc2j010 Sudadera Rojo Dark Red 610 Large...'
 sku: 'B07S5KL3S3-es'
-tags: [ 'sudadera', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

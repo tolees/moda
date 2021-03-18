@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CJFJLH9-es Only Onltahoe Hood Jacket Otw Noos Chaqueta Negro Black...'
 sku: 'B07CJFJLH9-es'
-tags: [ 'chaqueta', ]
 actualPrice: 34.85 EUR
 currency: EUR
 price: 34.85

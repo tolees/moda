@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JHBL2V-es Marca Amazon - find. Calcetines Hombre Pack de 7 Blanco...'
 sku: 'B071JHBL2V-es'
-tags: [ '-','find.', ]
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

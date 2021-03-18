@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLFMBNC-es CARE OF by PUMA Camiseta de entrenamiento para hombre...'
 sku: 'B07WLFMBNC-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

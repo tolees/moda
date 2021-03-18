@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084CNWDHL-es HAWKERS Gafas de Sol Audrey Estilo Butterfly para Mujer...'
 sku: 'B084CNWDHL-es'
-tags: [ 'gafas', ]
 actualPrice: 28.3 EUR
 currency: EUR
 price: 28.3

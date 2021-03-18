@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084VP5LR5-es HANPURE - Guantes con Luz LED Regalos Originales Hombre &...'
 sku: 'B084VP5LR5-es'
-tags: [ 'guantes', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

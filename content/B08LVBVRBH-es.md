@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LVBVRBH-es SeeWeLove - Personalizado de Foto Carteras Grabada...'
 sku: 'B08LVBVRBH-es'
-tags: [ 'billetera','monedero', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

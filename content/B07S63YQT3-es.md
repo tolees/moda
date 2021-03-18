@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S63YQT3-es Crocs Crocband Zuecos Unisex Adulto Amarillo Lemon/White...'
 sku: 'B07S63YQT3-es'
-tags: [ 'zuecos', ]
 actualPrice: 32.81 EUR
 currency: EUR
 price: 32.81

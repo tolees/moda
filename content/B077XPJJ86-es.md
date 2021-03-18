@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XPJJ86-es Under Armour Sportstyle Left Chest Camiseta Hombre Negro MD'
 sku: 'B077XPJJ86-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

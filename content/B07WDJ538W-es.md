@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDJ538W-es Jack & Jones JORASTON SS tee Crew Neck KA Camiseta Verde...'
 sku: 'B07WDJ538W-es'
-tags: [ 'camiseta', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

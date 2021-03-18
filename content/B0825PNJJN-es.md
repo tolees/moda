@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PNJJN-es GEOX J BUBBLEX BOY A BLACK/ORANGE Boys Trainers Low-Top...'
 sku: 'B0825PNJJN-es'
-tags: [ 'geox', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

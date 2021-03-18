@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK2M4V6-es Geox J KOMMODOR Boy A Zapatillas para Niños Blue Navy/Lime...'
 sku: 'B07DK2M4V6-es'
-tags: [ 'geox', ]
 actualPrice: 38.17 EUR
 currency: EUR
 price: 38.17

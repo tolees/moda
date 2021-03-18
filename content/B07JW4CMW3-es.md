@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW4CMW3-es Columbia Powder Lite Jacket Chaqueta Hombre Negro Black M'
 sku: 'B07JW4CMW3-es'
-tags: [ 'Acampada y senderismo','Camisas casual para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas de acampada y marcha para hombre','Chaquetas de pluma para acampada y marcha para hombre','Chaquetas para hombre','Chaquetas para mujer','Deportes y aire libre','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa de acampada','Ropa de acampada para hombre','Ropa para hombre','Ropa para mujer','chaqueta','columbia', ]
 actualPrice: 60.75 EUR
 currency: EUR
 price: 60.75

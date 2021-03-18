@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRKB1Z4-es Geox D Myria B Zapatillas Altas para Mujer Negro Black...'
 sku: 'B07SRKB1Z4-es'
-tags: [ 'geox', ]
 actualPrice: 61.16 EUR
 currency: EUR
 price: 61.16

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF5BHYR-es Levi s 502 Regular Taper Vaqueros Azul Kalsomine 0388 36W...'
 sku: 'B07KF5BHYR-es'
-tags: [ 'vaqueros', ]
 actualPrice: 58.11 EUR
 currency: EUR
 price: 58.11

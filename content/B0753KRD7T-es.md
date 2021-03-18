@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0753KRD7T-es Uvex Sportstyle 803 v Gafas de Deporte Adultos Unisex...'
 sku: 'B0753KRD7T-es'
-tags: [ 'gafas', ]
 actualPrice: 91.21 EUR
 currency: EUR
 price: 91.21

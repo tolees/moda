@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G57CGK9-es find. 2 Pack Slim Shirt - Camisa Hombre Blau Bengal Blue /...'
 sku: 'B07G57CGK9-es'
-tags: [ 'camisa', ]
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJ7VW52-es Jack & Jones JCOHIM tee SS Crew Neck Camiseta Port Royale...'
 sku: 'B08BJ7VW52-es'
-tags: [ 'camiseta', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0754FVFY6-es Botas de Agua Bota de Goma Mujer Impermeable lluvia...'
 sku: 'B0754FVFY6-es'
-tags: [ 'zapatos', ]
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

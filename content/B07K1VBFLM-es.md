@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K1VBFLM-es adidas Tiro 19 JSY Camiseta de Manga Corta Hombre...'
 sku: 'B07K1VBFLM-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

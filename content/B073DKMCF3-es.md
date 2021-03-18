@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073DKMCF3-es Pendientes Mariposa de Moda de Color Espumoso Azul para...'
 sku: 'B073DKMCF3-es'
-tags: [ 'moda', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

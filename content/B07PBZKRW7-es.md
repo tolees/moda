@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBZKRW7-es Morgan 192-menti.n Camiseta Multicolor Offwhite/Marine...'
 sku: 'B07PBZKRW7-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

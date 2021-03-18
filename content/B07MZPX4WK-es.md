@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPX4WK-es Pepe Jeans Catrina Blusa Multi 0aa Medium para Mujer'
 sku: 'B07MZPX4WK-es'
-tags: [ 'blusa', ]
 actualPrice: 26.18 EUR
 currency: EUR
 price: 26.18

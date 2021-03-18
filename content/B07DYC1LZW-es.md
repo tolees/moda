@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYC1LZW-es Quiksilver Monkey Caged Zapatos de Playa y Piscina para...'
 sku: 'B07DYC1LZW-es'
-tags: [ 'zapatos', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

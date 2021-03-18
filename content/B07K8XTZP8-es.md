@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8XTZP8-es Crocs Classic Clog Zuecos Unisex Adulto Verde Dusty Green...'
 sku: 'B07K8XTZP8-es'
-tags: [ 'zuecos', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

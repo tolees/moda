@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073Q38RNP-es JACK & JONES JACWAISTBAND TRUNKS 3 PACK NOOS Bóxer Gris...'
 sku: 'B073Q38RNP-es'
-tags: [ 'bóxer','jack & jones', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

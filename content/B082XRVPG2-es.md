@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XRVPG2-es Lee Stencil tee Camiseta Rojo Ocre S para Hombre'
 sku: 'B082XRVPG2-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

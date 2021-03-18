@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGP7Q23-es HUGO 708 Vaqueros Slim Negro Black 1 W34/L34 Talla del...'
 sku: 'B07VGP7Q23-es'
-tags: [ 'vaqueros', ]
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

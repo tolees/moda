@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XTPSFBN-es Pepe Jeans Eggo PM500465 Camiseta Gris Grey Marl 933...'
 sku: 'B06XTPSFBN-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

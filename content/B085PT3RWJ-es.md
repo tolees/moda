@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085PT3RWJ-es Timberland Camiseta Estampada de algodón NIÑO Marino 14AÑOS'
 sku: 'B085PT3RWJ-es'
-tags: [ 'Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Ropa','Ropa para hombre','Ropa para niño','Sandalias y chanclas para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','camiseta','timberland', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

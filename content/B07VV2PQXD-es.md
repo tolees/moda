@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VV2PQXD-es Jack & Jones JORRAFAEL Sweat Hood Sudadera con Capucha...'
 sku: 'B07VV2PQXD-es'
-tags: [ 'sudadera', ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

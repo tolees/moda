@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQTQDX3-es Springfield Frq Stripes Kodak Gg12 Jersey Azul Blue 11...'
 sku: 'B07NQTQDX3-es'
-tags: [ 'jersey', ]
 actualPrice: 15.11 EUR
 currency: EUR
 price: 15.11

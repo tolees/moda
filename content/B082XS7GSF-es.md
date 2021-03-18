@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XS7GSF-es Lee Crew Neck tee Camiseta Azul Oscuro XL para Mujer'
 sku: 'B082XS7GSF-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.6 EUR
 currency: EUR
 price: 14.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MYZSZ2W-es LEVI S 711 Skinny Vaqueros Mujeres Role/Model - EU 34/36...'
 sku: 'B07MYZSZ2W-es'
-tags: [ 'vaqueros', ]
 actualPrice: 89.25 EUR
 currency: EUR
 price: 89.25

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0785FQSGF-es Under Armour UA Tormenta Pantalón Hombre Black 001 L'
 sku: 'B0785FQSGF-es'
-tags: [ 'pantalón', ]
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08483YYCZ-es Pepe Jeans New Virginia LS Camiseta Rojo 288 X-Large para...'
 sku: 'B08483YYCZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893RZZQZ-es Quiksilver Essentials - Sudadera con Capucha Y Cremallera...'
 sku: 'B0893RZZQZ-es'
-tags: [ 'sudadera', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

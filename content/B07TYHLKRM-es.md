@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TYHLKRM-es Levi s Relaxed Graphic Hoodie Sudadera Black Boxtab Pop...'
 sku: 'B07TYHLKRM-es'
-tags: [ 'sudadera', ]
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

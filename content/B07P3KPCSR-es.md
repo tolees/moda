@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P3KPCSR-es Superdry Dahlia Roll Neck Jumper Camiseta Cuello Alto...'
 sku: 'B07P3KPCSR-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15

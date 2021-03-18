@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD17LCM-es PUMA DIVECAT V2 Sandalias deslizantes Unisex Adulto Azul...'
 sku: 'B07SD17LCM-es'
-tags: [ 'sandalias', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

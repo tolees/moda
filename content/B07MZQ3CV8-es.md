@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQ3CV8-es Pepe Jeans Freya Blusa Multicolor Multi 0aa Medium para Mujer'
 sku: 'B07MZQ3CV8-es'
-tags: [ 'blusa', ]
 actualPrice: 41.94 EUR
 currency: EUR
 price: 41.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BF5G7LS-es Lifewit Maletín para Portátiles de 17" Impermeable Bolso...'
 sku: 'B07BF5G7LS-es'
-tags: [ 'bolso', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

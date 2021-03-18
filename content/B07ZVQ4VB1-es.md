@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQ4VB1-es Levi s New Original Zip Up Sudadera Charcoal Heather Xx S...'
 sku: 'B07ZVQ4VB1-es'
-tags: [ 'sudadera', ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

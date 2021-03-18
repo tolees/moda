@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LH43BRC-es Gafas de Presbicia con Filtro Anti Luz Azul para...'
 sku: 'B07LH43BRC-es'
-tags: [ 'gafas', ]
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

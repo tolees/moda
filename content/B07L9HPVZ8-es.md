@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9HPVZ8-es Under Armour UNDKU Heatgear Armour SS Camisa Manga Corta...'
 sku: 'B07L9HPVZ8-es'
-tags: [ 'camisa', ]
 actualPrice: 7.71 EUR
 currency: EUR
 price: 7.71

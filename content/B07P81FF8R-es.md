@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P81FF8R-es JACK & JONES Jcotony tee SS Crew Neck WHS 2-Pack Camiseta...'
 sku: 'B07P81FF8R-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

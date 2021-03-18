@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBW1VPC-es Wind Took riñoneras Mujer y Hombre riñoneras desportivas...'
 sku: 'B08CBW1VPC-es'
-tags: [ 'moda', ]
 actualPrice: 10.1 EUR
 currency: EUR
 price: 10.1

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LBUZU3K-es Joma Combi Camiseta Manga Corta Hombres Negro 2XL/3XL'
 sku: 'B00LBUZU3K-es'
-tags: [ 'camiseta','joma', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

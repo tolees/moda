@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVR4MXK-es Vero Moda Vmstella 3/4 Lace Abk Dress Noos Vestido Negro...'
 sku: 'B07SVR4MXK-es'
-tags: [ 'moda','vestido', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

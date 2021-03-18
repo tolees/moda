@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMMK99J-es DoGeek Escarpines Antideslizante Zapato de Agua Zapatos de...'
 sku: 'B07CMMK99J-es'
-tags: [ 'zapatos', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NKVMN4M-es Rage 2 - Camiseta Goon Tatto [M]'
 sku: 'B07NKVMN4M-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

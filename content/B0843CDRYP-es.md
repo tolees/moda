@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0843CDRYP-es GEOX D PILLOW OFF WHITE Women s Trainers Low-Top Trainers...'
 sku: 'B0843CDRYP-es'
-tags: [ 'geox', ]
 actualPrice: 25.42 EUR
 currency: EUR
 price: 25.42

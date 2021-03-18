@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGHXD3V-es Amazon Essentials - Camisa de lino con manga larga corte...'
 sku: 'B07JGHXD3V-es'
-tags: [ 'camisa', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

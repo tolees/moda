@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z94NQJW-es PITTMAN Hombre Pantalones de Chándal Cargo Deportivo Bruno...'
 sku: 'B07Z94NQJW-es'
-tags: [ 'pantalón', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

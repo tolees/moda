@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4J7ZJ7-es Superdry Rookie Down Parka Chaqueta Verde Khaki 03o XL...'
 sku: 'B07P4J7ZJ7-es'
-tags: [ 'chaqueta','parka', ]
 actualPrice: 122.99 EUR
 currency: EUR
 price: 122.99

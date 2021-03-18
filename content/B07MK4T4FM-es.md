@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK4T4FM-es Jeerhope Guantes de limpieza de látex Fregadora para lavar...'
 sku: 'B07MK4T4FM-es'
-tags: [ 'guantes', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

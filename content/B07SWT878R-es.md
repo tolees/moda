@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SWT878R-es Geox U MONDELLO C Alpargata Hombre Azul Navy C4002 40 EU'
 sku: 'B07SWT878R-es'
-tags: [ 'geox', ]
 actualPrice: 29.73 EUR
 currency: EUR
 price: 29.73

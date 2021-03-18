@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XSQDL9-es Lee Sherpa Jacket Chaqueta Vaquera Deep Kansas S para Hombre'
 sku: 'B082XSQDL9-es'
-tags: [ 'chaqueta','lee', ]
 actualPrice: 68.13 EUR
 currency: EUR
 price: 68.13

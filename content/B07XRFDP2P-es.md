@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRFDP2P-es Hawiton Pantalones de Pijama Hombre Algodón Largo...'
 sku: 'B07XRFDP2P-es'
-tags: [ 'pantalón','pijama', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

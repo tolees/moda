@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRKBGR6-es Geox D LEELU E Zapatillas para Mujer Blanco White/Off...'
 sku: 'B07SRKBGR6-es'
-tags: [ 'geox', ]
 actualPrice: 47.8 EUR
 currency: EUR
 price: 47.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077GYD8T6-es Crocs Crocband Sandal Kids Sandalias Unisex Niños Rosa...'
 sku: 'B077GYD8T6-es'
-tags: [ 'sandalias', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

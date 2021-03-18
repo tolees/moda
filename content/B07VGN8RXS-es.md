@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGN8RXS-es Desigual Jers Nagar Chaqueta Punto Blanco Crudo 1001...'
 sku: 'B07VGN8RXS-es'
-tags: [ 'chaqueta', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

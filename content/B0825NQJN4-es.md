@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825NQJN4-es GEOX U NAVIGLIO B ABX A DOVE GREY Men s Trainers Low-Top...'
 sku: 'B0825NQJN4-es'
-tags: [ 'geox', ]
 actualPrice: 45.8 EUR
 currency: EUR
 price: 45.8

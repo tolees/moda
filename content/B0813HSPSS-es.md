@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813HSPSS-es Marca Amazon - Find. Sandalias abiertas para mujer 90s...'
 sku: 'B0813HSPSS-es'
-tags: [ '-','find.','sandalias', ]
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

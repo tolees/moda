@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077NN6CDP-es Lee Rider Jeans Vaqueros Kick It 28W / 34L para Hombre'
 sku: 'B077NN6CDP-es'
-tags: [ 'vaqueros', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

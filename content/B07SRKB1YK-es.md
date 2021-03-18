@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRKB1YK-es Geox D Sozy E Sandalias de Gladiador para Mujer Amarillo...'
 sku: 'B07SRKB1YK-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 21.81 EUR
 currency: EUR
 price: 21.81

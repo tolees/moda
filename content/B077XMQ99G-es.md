@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077XMQ99G-es Under Armour CC Scramble Camisa Polo Hombre Blanco SM'
 sku: 'B077XMQ99G-es'
-tags: [ 'camisa', ]
 actualPrice: 12.92 EUR
 currency: EUR
 price: 12.92

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZDTT9X-es Under Armour Armour Heatgear Short-Sleeve Camiseta Niñas...'
 sku: 'B07CZDTT9X-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

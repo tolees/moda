@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3N5N4Y-es GEOX 3062U mini pochette donna portatessere bordeaux mini...'
 sku: 'B07J3N5N4Y-es'
-tags: [ 'geox', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

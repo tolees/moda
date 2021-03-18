@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQQLR4H-es Marca Amazon - find. Chaqueta Hombre Negro Black S Label: S'
 sku: 'B07NQQLR4H-es'
-tags: [ '-','chaqueta','find.', ]
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

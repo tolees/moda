@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082MPBBMP-es Geographical Norway Chaqueta Mujer Astana Antracita 02'
 sku: 'B082MPBBMP-es'
-tags: [ 'chaqueta', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

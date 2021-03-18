@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWTPMX8-es Geox D Jaysen A Zapatillas para Mujer Blanco White/Lt...'
 sku: 'B07SWTPMX8-es'
-tags: [ 'geox', ]
 actualPrice: 45.57 EUR
 currency: EUR
 price: 45.57

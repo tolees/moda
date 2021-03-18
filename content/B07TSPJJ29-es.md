@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSPJJ29-es Women s Secret Daily Bees Db Bee Stripes PJ Conjuntos de...'
 sku: 'B07TSPJJ29-es'
-tags: [ 'pijama', ]
 actualPrice: 15.46 EUR
 currency: EUR
 price: 15.46

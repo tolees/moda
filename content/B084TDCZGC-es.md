@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084TDCZGC-es Gioseppo Lausick Botas de Moda Mujer Color 40 EU'
 sku: 'B084TDCZGC-es'
-tags: [ 'moda', ]
 actualPrice: 41.57 EUR
 currency: EUR
 price: 41.57

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08484PYHC-es Pepe Jeans Don Camiseta Azul 591 Medium para Hombre'
 sku: 'B08484PYHC-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

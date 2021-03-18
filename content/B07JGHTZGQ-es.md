@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGHTZGQ-es Pepe Jeans Boreas Pm402096 Chaqueta Sailor 580 Medium para...'
 sku: 'B07JGHTZGQ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 54.5 EUR
 currency: EUR
 price: 54.5

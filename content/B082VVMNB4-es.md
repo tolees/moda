@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VVMNB4-es Lee Sherpa Jacket Chaqueta Vaquera Negro M para Hombre'
 sku: 'B082VVMNB4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

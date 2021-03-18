@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y8N9RF-es HIKARO Camiseta con Botones Hombre Gris Grey Marl 50 Talla...'
 sku: 'B077Y8N9RF-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M8VJHCJ-es Lee Rider Jeans Vaqueros Black Rinse 47 28W / 32L para Hombre'
 sku: 'B07M8VJHCJ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

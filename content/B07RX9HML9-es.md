@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RX9HML9-es Grebarley Fitness Gloves Levantamiento de Pesas protección...'
 sku: 'B07RX9HML9-es'
-tags: [ 'guantes', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

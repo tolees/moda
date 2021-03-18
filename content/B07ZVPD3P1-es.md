@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVPD3P1-es Levi s Relaxed T2 Graphic Crew Sudadera Serif Relax Fit...'
 sku: 'B07ZVPD3P1-es'
-tags: [ 'sudadera', ]
 actualPrice: 40.66 EUR
 currency: EUR
 price: 40.66

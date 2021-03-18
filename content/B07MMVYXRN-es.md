@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMVYXRN-es Lee Marion Vaqueros Straight Azul Mid Gordo CV W31/L35...'
 sku: 'B07MMVYXRN-es'
-tags: [ 'vaqueros', ]
 actualPrice: 48.85 EUR
 currency: EUR
 price: 48.85

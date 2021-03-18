@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TKNF3TD-es Clarks Stanford Walk Zapatos de Cordones Derby Negro Black...'
 sku: 'B07TKNF3TD-es'
-tags: [ 'zapatos', ]
 actualPrice: 35.1 EUR
 currency: EUR
 price: 35.1

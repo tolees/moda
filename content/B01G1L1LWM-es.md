@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G1L1LWM-es Newfacelook De las mujeres Señoras Motocicleta Impermeable...'
 sku: 'B01G1L1LWM-es'
-tags: [ 'chaqueta', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

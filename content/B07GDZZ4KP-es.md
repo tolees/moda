@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDZZ4KP-es Levi s LS Battery Hm Shirt Camisa Blanco White 0000 Small...'
 sku: 'B07GDZZ4KP-es'
-tags: [ 'camisa', ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

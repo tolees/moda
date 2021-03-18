@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RPZRBQ-es Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto...'
 sku: 'B073RPZRBQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

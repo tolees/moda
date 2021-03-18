@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010PELNRY-es Crocs Classic Zuecos Unisex Adulto Lemon 36/37 EU'
 sku: 'B010PELNRY-es'
-tags: [ 'zuecos', ]
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

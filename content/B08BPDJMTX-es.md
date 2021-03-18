@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BPDJMTX-es JACK & JONES JJELOGO Blocking Sweat Hood STS Sudadera con...'
 sku: 'B08BPDJMTX-es'
-tags: [ 'sudadera', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

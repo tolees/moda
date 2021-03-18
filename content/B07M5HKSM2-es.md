@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5HKSM2-es Geox M Hilstone D Abrigo Negro Black F9000 XX-Large Talla...'
 sku: 'B07M5HKSM2-es'
-tags: [ 'abrigo','geox', ]
 actualPrice: 69.65 EUR
 currency: EUR
 price: 69.65

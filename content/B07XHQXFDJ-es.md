@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XHQXFDJ-es Marca Amazon - AURIQUE Mallas para Correr por el Tobillo...'
 sku: 'B07XHQXFDJ-es'
-tags: [ 'aurique', ]
 actualPrice: 10.09 EUR
 currency: EUR
 price: 10.09

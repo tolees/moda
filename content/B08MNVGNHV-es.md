@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MNVGNHV-es Geographical Norway Chaqueta de hombre BOKER CAQUI talla S'
 sku: 'B08MNVGNHV-es'
-tags: [ 'chaqueta', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

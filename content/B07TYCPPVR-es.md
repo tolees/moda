@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TYCPPVR-es Wrangler Icons Camisa Azul 1 Year 924 XX-Large para Hombre'
 sku: 'B07TYCPPVR-es'
-tags: [ 'camisa', ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

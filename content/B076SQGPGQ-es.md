@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076SQGPGQ-es Birkenstock Gizeh BS Chanclas para Mujer Blanco Blanc...'
 sku: 'B076SQGPGQ-es'
-tags: [ 'chanclas', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

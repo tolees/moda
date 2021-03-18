@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W91VWQH-es Tommy Hilfiger Brooklyn Short Light Twill Vaqueros Blue...'
 sku: 'B07W91VWQH-es'
-tags: [ 'vaqueros', ]
 actualPrice: 16.66 EUR
 currency: EUR
 price: 16.66

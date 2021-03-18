@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3VFH5A-es Lacoste Sport SH7609 Sudadera con Capucha Azul...'
 sku: 'B01M3VFH5A-es'
-tags: [ 'sudadera', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

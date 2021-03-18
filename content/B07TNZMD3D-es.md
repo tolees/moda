@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TNZMD3D-es Clarks Tri Sporty Sandalias de Talón Abierto Mujer Beige...'
 sku: 'B07TNZMD3D-es'
-tags: [ 'sandalias', ]
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HS9SFKF-es Vitamina C - Bolso de mujer bandolera naranja con asa para...'
 sku: 'B08HS9SFKF-es'
-tags: [ 'bolso', ]
 actualPrice: 21.46 EUR
 currency: EUR
 price: 21.46

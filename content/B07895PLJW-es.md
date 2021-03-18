@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07895PLJW-es Under Armour Big Logo SS Camisa Manga Corta Hombre Azul LG'
 sku: 'B07895PLJW-es'
-tags: [ 'camisa', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

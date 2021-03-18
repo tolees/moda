@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGM4LB2-es Timberland Davis Square Leather Junior Botas Chukka...'
 sku: 'B07DGM4LB2-es'
-tags: [ 'timberland', ]
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSPHWLR-es Cerdá Pijama Corto Algodón Harry Potter Conjuntos Gris...'
 sku: 'B07MSPHWLR-es'
-tags: [ 'pijama', ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

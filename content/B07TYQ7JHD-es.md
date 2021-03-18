@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYQ7JHD-es LIGE Relojes Hombre Moda Impermeable Deportivo Cuarzo...'
 sku: 'B07TYQ7JHD-es'
-tags: [ 'moda', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

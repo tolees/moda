@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF7SXZJ-es Calvin Klein Core Institutional Logo Slim tee Camiseta...'
 sku: 'B07KF7SXZJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.78 EUR
 currency: EUR
 price: 15.78

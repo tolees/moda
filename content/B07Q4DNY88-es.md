@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4DNY88-es BOSS Magneton 1-Short Camisa Azul Dark Blue 404 Medium...'
 sku: 'B07Q4DNY88-es'
-tags: [ 'camisa', ]
 actualPrice: 56.43 EUR
 currency: EUR
 price: 56.43

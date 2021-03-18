@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0887NRNHG-es Helly Hansen Swift 4.0 Jacket Chaqueta Hombre Black M'
 sku: 'B0887NRNHG-es'
-tags: [ 'chaqueta', ]
 actualPrice: 110.67 EUR
 currency: EUR
 price: 110.67

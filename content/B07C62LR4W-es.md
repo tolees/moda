@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C62LR4W-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera Negro...'
 sku: 'B07C62LR4W-es'
-tags: [ 'camisa', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

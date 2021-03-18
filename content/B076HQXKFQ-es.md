@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQXKFQ-es adidas CORE18 TR Top Sudadera Hombre Power Red/White 2XL'
 sku: 'B076HQXKFQ-es'
-tags: [ 'sudadera', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

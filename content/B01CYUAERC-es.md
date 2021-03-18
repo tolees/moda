@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CYUAERC-es Helly Hansen Crew Insulator - Chaqueta para hombre Negro...'
 sku: 'B01CYUAERC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 108.48 EUR
 currency: EUR
 price: 108.48

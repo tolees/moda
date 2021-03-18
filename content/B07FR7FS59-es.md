@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FR7FS59-es Clarks Un Karely Sun Chanclas Sandalias Flip-Flop Gris...'
 sku: 'B07FR7FS59-es'
-tags: [ 'chanclas','sandalias', ]
 actualPrice: 39.1 EUR
 currency: EUR
 price: 39.1

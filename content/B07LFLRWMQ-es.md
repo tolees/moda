@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFLRWMQ-es Levi s Graphic Varsity tee Camiseta Multicolor All Over...'
 sku: 'B07LFLRWMQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

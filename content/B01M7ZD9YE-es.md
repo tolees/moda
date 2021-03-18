@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M7ZD9YE-es Only onlAVA FAUX LEATHER BIKER OTW NOOS - Chaqueta para...'
 sku: 'B01M7ZD9YE-es'
-tags: [ 'chaqueta', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

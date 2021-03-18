@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BH5Z1BL-es Star Wars T030-14 Bóxer Multicolor Multicolor 0 16 años...'
 sku: 'B07BH5Z1BL-es'
-tags: [ 'bóxer', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

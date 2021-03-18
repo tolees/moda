@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XBSTWLQ-es PUMA Teamgoal 23 Causals Hoody Sudadera Hombre Electric...'
 sku: 'B07XBSTWLQ-es'
-tags: [ 'sudadera', ]
 actualPrice: 30.14 EUR
 currency: EUR
 price: 30.14

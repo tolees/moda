@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089R3KR2C-es DEWEL Collar Antiparasitos Perros/Gatos contra Pulgas...'
 sku: 'B089R3KR2C-es'
-tags: [ 'collar', ]
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

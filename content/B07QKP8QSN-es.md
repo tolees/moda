@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QKP8QSN-es MTNG - Botines de tacón Mustang 58027 Marron'
 sku: 'B07QKP8QSN-es'
-tags: [ 'botines', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

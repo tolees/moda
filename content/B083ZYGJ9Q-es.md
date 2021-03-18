@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083ZYGJ9Q-es Geox M Vincit Chaqueta Negro 46 para Hombre'
 sku: 'B083ZYGJ9Q-es'
-tags: [ 'chaqueta','geox', ]
 actualPrice: 79.5 EUR
 currency: EUR
 price: 79.5

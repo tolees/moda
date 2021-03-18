@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KCPDDVK-es adidas T19 SS JSY M Camiseta de Manga Corta Hombre White L'
 sku: 'B07KCPDDVK-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

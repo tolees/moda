@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N17W3HR-es Lee Crewneck SWS Sudadera para Hombre Negro Black 01 Small'
 sku: 'B07N17W3HR-es'
-tags: [ 'sudadera', ]
 actualPrice: 34.72 EUR
 currency: EUR
 price: 34.72

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5D88DR-es G-STAR RAW Slim Camisa Polo Dk Shamrock Micro Objects...'
 sku: 'B07Z5D88DR-es'
-tags: [ 'camisa', ]
 actualPrice: 31.81 EUR
 currency: EUR
 price: 31.81

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JBC3XL4-es Columbia Carson Pass II Chaqueta impermeable Mujer Gris...'
 sku: 'B07JBC3XL4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 122.98 EUR
 currency: EUR
 price: 122.98

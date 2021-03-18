@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071F4MMG3-es find. Sudadera Bicolor y Manga Ranglan para Hombre Gris...'
 sku: 'B071F4MMG3-es'
-tags: [ 'sudadera', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

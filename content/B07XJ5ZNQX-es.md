@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XJ5ZNQX-es Skechers Go Walk 5 Chanclas para Hombre Negro Black...'
 sku: 'B07XJ5ZNQX-es'
-tags: [ 'chanclas', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NS3NX7C-es Clarks Tri Walk Sandalias Mujer Rojo Berry Combi Berry...'
 sku: 'B07NS3NX7C-es'
-tags: [ 'sandalias', ]
 actualPrice: 30.65 EUR
 currency: EUR
 price: 30.65

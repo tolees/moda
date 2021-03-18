@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08483SHNK-es Pepe Jeans Edmonton Camisa Blanco 800 Medium para Hombre'
 sku: 'B08483SHNK-es'
-tags: [ 'camisa', ]
 actualPrice: 34.29 EUR
 currency: EUR
 price: 34.29

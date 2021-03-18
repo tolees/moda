@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QX5BN4K-es flintronic Cartera Hombre Triple Pliegue Slim Billetera de...'
 sku: 'B07QX5BN4K-es'
-tags: [ 'billetera','monedero', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

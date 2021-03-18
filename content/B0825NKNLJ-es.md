@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NKNLJ-es GEOX D UMBRETTA A BLUE Women s Court Shoes Pumps size 39 EU'
 sku: 'B0825NKNLJ-es'
-tags: [ 'geox', ]
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

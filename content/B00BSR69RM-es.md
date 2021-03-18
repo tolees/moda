@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BSR69RM-es Geox 43c9999 J Agata C Zapatos de Vestir para Niñas Negro...'
 sku: 'B00BSR69RM-es'
-tags: [ 'geox','zapatos', ]
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

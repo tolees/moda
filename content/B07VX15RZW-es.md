@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VX15RZW-es Hombre Invierno Botines Botas de Nieve Cálido Aire Libre...'
 sku: 'B07VX15RZW-es'
-tags: [ 'botines','zapatos', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

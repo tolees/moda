@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L5RFJB7-es Element Basic Pocket Label - Camiseta de Manga Corta para...'
 sku: 'B07L5RFJB7-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

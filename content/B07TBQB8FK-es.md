@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBQB8FK-es Winline Gafas de Natación Profesional Anti Niebla...'
 sku: 'B07TBQB8FK-es'
-tags: [ 'gafas', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

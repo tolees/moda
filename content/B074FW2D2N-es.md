@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FW2D2N-es find. Sudadera Estampada para Hombre Azul Navy Medium'
 sku: 'B074FW2D2N-es'
-tags: [ 'sudadera', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

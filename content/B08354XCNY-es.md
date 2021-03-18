@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08354XCNY-es Jack & Jones Jjelogo tee SS O-Neck 2 Col Ss20 Noos...'
 sku: 'B08354XCNY-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

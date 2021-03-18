@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M59I3IO-es VILA CLOTHES VICANTIK L/S SHIRT Blusa Mujer Verde Vetiver...'
 sku: 'B01M59I3IO-es'
-tags: [ 'blusa', ]
 actualPrice: 9.39 EUR
 currency: EUR
 price: 9.39

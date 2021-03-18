@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZSNCVJ-es Under Armour Sportstyle Logo LS Camiseta Hombre Azul...'
 sku: 'B07CZSNCVJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

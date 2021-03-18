@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HP6SDL-es adidas CORE18 SW Top Sudadera Hombre Negro Negro/Blanco L'
 sku: 'B076HP6SDL-es'
-tags: [ 'sudadera', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

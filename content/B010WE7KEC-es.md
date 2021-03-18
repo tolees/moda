@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010WE7KEC-es Crocs Classic Clog Zuecos Unisex Adulto Amarillo Lemon 7C1...'
 sku: 'B010WE7KEC-es'
-tags: [ 'zuecos', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

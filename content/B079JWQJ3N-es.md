@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JWQJ3N-es NNDOLL Vestido de Princesa Carnaval Vestido de niña Traje...'
 sku: 'B079JWQJ3N-es'
-tags: [ 'vestido', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

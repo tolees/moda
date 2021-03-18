@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CKAKOTY-es Feliz Caminar - Zuecos Sanitarios Flotantes Blanco 40'
 sku: 'B01CKAKOTY-es'
-tags: [ 'zuecos', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

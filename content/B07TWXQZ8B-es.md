@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TWXQZ8B-es Lee Carol Vaqueros straight Mujer Azul Mid Bellevue Gx...'
 sku: 'B07TWXQZ8B-es'
-tags: [ 'vaqueros', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

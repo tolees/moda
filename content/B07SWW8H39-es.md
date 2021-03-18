@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SWW8H39-es Vero Moda Vmava Plain SS Top Ga Noos Camiseta Marrón...'
 sku: 'B07SWW8H39-es'
-tags: [ 'camiseta','moda', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

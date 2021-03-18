@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076Y9FNQS-es Levi s Graphic tee B Camiseta Hm LS Better White S para...'
 sku: 'B076Y9FNQS-es'
-tags: [ 'Camisetas de manga larga para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chaquetas para mujer','Collares  para mujer','Deportes y aire libre','Fútbol','Joyería','Joyería para mujer','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Sandalias de vestir para hombre','Vaqueros para hombre','Vaqueros para mujer','Zapatos','Zapatos para hombre','Zapatos y complementos','camiseta','levis', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

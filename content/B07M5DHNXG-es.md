@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5DHNXG-es Lee Luke Vaqueros Dark Blue Elko BU W26/L32 para Hombre'
 sku: 'B07M5DHNXG-es'
-tags: [ 'vaqueros', ]
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

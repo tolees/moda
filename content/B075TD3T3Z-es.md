@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075TD3T3Z-es HARRY POTTER - Pijama para Niños Ajuste Ceñido - 5-6 Años'
 sku: 'B075TD3T3Z-es'
-tags: [ 'pijama', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

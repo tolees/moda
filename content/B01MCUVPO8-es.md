@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MCUVPO8-es Timberland Bradstreet Leather Sensorflex Botas Chukka para...'
 sku: 'B01MCUVPO8-es'
-tags: [ 'timberland', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CD2FLK-es Geographical Norway Chaqueta Hombre BOKER Negro XL'
 sku: 'B081CD2FLK-es'
-tags: [ 'chaqueta', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

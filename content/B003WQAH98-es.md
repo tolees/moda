@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WQAH98-es Geox U Moner V Mocasines para Hombre Azul Blue C4000 42 EU'
 sku: 'B003WQAH98-es'
-tags: [ 'geox', ]
 actualPrice: 63.76 EUR
 currency: EUR
 price: 63.76

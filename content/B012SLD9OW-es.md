@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B012SLD9OW-es G-STAR RAW 3301 Straight Jeans Vaqueros Azul Dk Aged...'
 sku: 'B012SLD9OW-es'
-tags: [ 'vaqueros', ]
 actualPrice: 27.41 EUR
 currency: EUR
 price: 27.41

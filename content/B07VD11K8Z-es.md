@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD11K8Z-es Esprit 099ee1j024 Sudadera Rojo Red 630 Medium para Mujer'
 sku: 'B07VD11K8Z-es'
-tags: [ 'sudadera', ]
 actualPrice: 10.93 EUR
 currency: EUR
 price: 10.93

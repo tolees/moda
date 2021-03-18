@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQH73P-es adidas CORE18 PES JKTY Sudadera con Cremallera Unisex...'
 sku: 'B076HQH73P-es'
-tags: [ 'sudadera', ]
 actualPrice: 15.84 EUR
 currency: EUR
 price: 15.84

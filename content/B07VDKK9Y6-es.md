@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDKK9Y6-es Desigual Bols tribal Loverty - Bolso bandolera 14 x 24 x...'
 sku: 'B07VDKK9Y6-es'
-tags: [ 'bolso', ]
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

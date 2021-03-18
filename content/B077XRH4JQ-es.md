@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XRH4JQ-es Under Armour Tech 2.0 Shortsleeve Camiseta Hombre Blanco...'
 sku: 'B077XRH4JQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

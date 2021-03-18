@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083YDB5QK-es Kipling SUPERWORKER S Bolso De Trabajo con Correa...'
 sku: 'B083YDB5QK-es'
-tags: [ 'bolso', ]
 actualPrice: 82.1 EUR
 currency: EUR
 price: 82.1

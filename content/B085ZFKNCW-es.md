@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZFKNCW-es Timberland Camiseta de Manga Corta Joven Azul ELECTRICO 8AÑOS'
 sku: 'B085ZFKNCW-es'
-tags: [ 'camiseta','timberland', ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

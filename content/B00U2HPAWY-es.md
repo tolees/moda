@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U2HPAWY-es Minecraft - Camiseta para niño - Minecraft - Negro - 12 -...'
 sku: 'B00U2HPAWY-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

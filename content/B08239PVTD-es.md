@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08239PVTD-es Levi s The tee Camiseta Serif con Caviar De Cactus M para...'
 sku: 'B08239PVTD-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

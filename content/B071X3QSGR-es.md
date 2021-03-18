@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071X3QSGR-es Lee Logo tee Camiseta Blanco White Ai12 Small para Hombre'
 sku: 'B071X3QSGR-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

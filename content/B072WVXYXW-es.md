@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072WVXYXW-es Timberland Radford 6-Inch Waterproof Botas Chukka Hombre...'
 sku: 'B072WVXYXW-es'
-tags: [ 'timberland', ]
 actualPrice: 107.58 EUR
 currency: EUR
 price: 107.58

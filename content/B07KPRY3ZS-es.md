@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPRY3ZS-es REPLAY Zeumar Vaqueros Slim Azul Blue 10 27W / 30L para...'
 sku: 'B07KPRY3ZS-es'
-tags: [ 'vaqueros', ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

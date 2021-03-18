@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VJV8TX7-es Petit Bateau 5332300 Camiseta Blanco Variante 1 Zga 4 años...'
 sku: 'B07VJV8TX7-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

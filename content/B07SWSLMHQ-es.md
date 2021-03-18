@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWSLMHQ-es Geox J Alonisso Boy E Zapatillas para Niños Gris...'
 sku: 'B07SWSLMHQ-es'
-tags: [ 'geox', ]
 actualPrice: 18.43 EUR
 currency: EUR
 price: 18.43

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XSBVJ3-es Lee SS Small Logo tee Camiseta Sky Captain S para Hombre'
 sku: 'B082XSBVJ3-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDN9KHV-es XTI 49473 Botines para Mujer Negro 40 EU'
 sku: 'B07PDN9KHV-es'
-tags: [ 'botines', ]
 actualPrice: 21.18 EUR
 currency: EUR
 price: 21.18

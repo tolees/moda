@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XX7SCM-es The North Face Jacket Chaqueta Trevail Mujer Negro TNF...'
 sku: 'B073XX7SCM-es'
-tags: [ 'chaqueta', ]
 actualPrice: 125.95 EUR
 currency: EUR
 price: 125.95

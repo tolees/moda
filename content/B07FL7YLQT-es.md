@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FL7YLQT-es Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes...'
 sku: 'B07FL7YLQT-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

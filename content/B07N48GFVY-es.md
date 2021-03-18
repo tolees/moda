@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N48GFVY-es United Colors of Benetton Basico 2 Man Sudadera Azul BLU...'
 sku: 'B07N48GFVY-es'
-tags: [ 'sudadera', ]
 actualPrice: 39.77 EUR
 currency: EUR
 price: 39.77

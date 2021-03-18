@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0778PDM6Q-es Amazon Brand - AURIQUE Legging deportivos con tejido...'
 sku: 'B0778PDM6Q-es'
-tags: [ 'aurique', ]
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

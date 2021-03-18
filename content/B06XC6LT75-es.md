@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XC6LT75-es G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros Rinsed...'
 sku: 'B06XC6LT75-es'
-tags: [ 'vaqueros', ]
 actualPrice: 19.88 EUR
 currency: EUR
 price: 19.88

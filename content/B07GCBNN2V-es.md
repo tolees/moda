@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCBNN2V-es VICTORIA 1101 Zapatilla Bota Basket Plataforma Negro 36 EU'
 sku: 'B07GCBNN2V-es'
-tags: [ 'zapatilla', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

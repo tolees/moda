@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQ393B-es Pepe Jeans Ophelia Blusa Multicolor Multi 0aa Large para...'
 sku: 'B07MZQ393B-es'
-tags: [ 'blusa', ]
 actualPrice: 40.47 EUR
 currency: EUR
 price: 40.47

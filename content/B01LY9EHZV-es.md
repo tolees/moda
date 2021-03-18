@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY9EHZV-es IRIS & LILLY Braguita Brasileña Cotton para Mujer Pack de...'
 sku: 'B01LY9EHZV-es'
-tags: [ '&','iris','lilly', ]
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

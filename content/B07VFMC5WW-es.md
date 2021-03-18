@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFMC5WW-es edc by Esprit 099cc2g021 Chaqueta Azul Navy 400 Medium...'
 sku: 'B07VFMC5WW-es'
-tags: [ 'chaqueta', ]
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

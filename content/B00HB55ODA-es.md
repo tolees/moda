@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HB55ODA-es Crocs Classic Clog Zuecos Unisex Adulto Rojo Pepper 6EN...'
 sku: 'B00HB55ODA-es'
-tags: [ 'zuecos', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVXFP77-es LIGE Reloj para Hombre Negro Moda Relojes de Pulsera para...'
 sku: 'B07TVXFP77-es'
-tags: [ 'moda','vestido', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

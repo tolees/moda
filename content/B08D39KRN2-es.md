@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D39KRN2-es ebox Mochila para portátil con Bolsillo esterilizador UV...'
 sku: 'B08D39KRN2-es'
-tags: [ 'bolso', ]
 actualPrice: 30.31 EUR
 currency: EUR
 price: 30.31

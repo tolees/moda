@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002Q5NC8Y-es Ray-Ban Clubmaster RB3016 W0365 - Gafas de sol para hombre...'
 sku: 'B002Q5NC8Y-es'
-tags: [ 'gafas', ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

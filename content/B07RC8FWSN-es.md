@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RC8FWSN-es Columbia Pike Lake Chaqueta forrada con capucha Hombre...'
 sku: 'B07RC8FWSN-es'
-tags: [ 'chaqueta', ]
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

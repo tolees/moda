@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSQ6R4G-es Under Armour Mfo Let The Gains Begin SS Camiseta Hombre...'
 sku: 'B07KSQ6R4G-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

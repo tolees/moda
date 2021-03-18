@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073V55ZLK-es OPUS Seconda Camiseta de Manga Larga Rosa Pink Melange...'
 sku: 'B073V55ZLK-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LMI5DCY-es Quiksilver Monkey Abyss M Sndl Sandalias con plataforma...'
 sku: 'B00LMI5DCY-es'
-tags: [ 'sandalias', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9PD1KP-es JACK & JONES Jorclan Parka Negro Black Small para Hombre'
 sku: 'B07V9PD1KP-es'
-tags: [ 'parka', ]
 actualPrice: 22.37 EUR
 currency: EUR
 price: 22.37

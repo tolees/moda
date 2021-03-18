@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4ST33-es Levi s SS Ringer tee Camiseta Rojo Brand Integrated...'
 sku: 'B07KF4ST33-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

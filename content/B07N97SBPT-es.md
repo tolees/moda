@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N97SBPT-es BOSS Trek 4 Camiseta Negro Black 001 Small para Hombre'
 sku: 'B07N97SBPT-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

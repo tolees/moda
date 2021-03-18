@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CK2VC88-es Ouinne Joyería de Collar de Cristal Gargantilla de Encaje...'
 sku: 'B07CK2VC88-es'
-tags: [ 'collar', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

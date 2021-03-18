@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087WRLPTD-es WERNNSAI Azul Tiburón Bolsas de Regalos - 12 Pcs Bolsas de...'
 sku: 'B087WRLPTD-es'
-tags: [ 'abrigo', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBMGLFH-es Showu Camisetas Niños Manga Larga Camisa Pantalones Set of...'
 sku: 'B07CBMGLFH-es'
-tags: [ 'camisa', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

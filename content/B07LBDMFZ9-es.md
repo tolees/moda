@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LBDMFZ9-es JACK & JONES Jaclee Trunks 5 Pack Bóxer Azul Surft The...'
 sku: 'B07LBDMFZ9-es'
-tags: [ 'bóxer', ]
 actualPrice: 26.19 EUR
 currency: EUR
 price: 26.19

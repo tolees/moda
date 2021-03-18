@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083HH7YXT-es wilbest® Carteras de Hombre Carteras de Tarjetero Piel...'
 sku: 'B083HH7YXT-es'
-tags: [ 'billetera','monedero', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

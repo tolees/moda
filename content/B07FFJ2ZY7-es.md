@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFJ2ZY7-es Roxy Essential Element Chaqueta Mujer Verde Burnt Olive...'
 sku: 'B07FFJ2ZY7-es'
-tags: [ 'chaqueta', ]
 actualPrice: 36.67 EUR
 currency: EUR
 price: 36.67

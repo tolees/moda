@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQCB18-es Levi s tee Camiseta Benitoite Cloud Dancer M para Mujer'
 sku: 'B07ZVQCB18-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

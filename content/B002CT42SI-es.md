@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002CT42SI-es adidas Originals Adilette Zapatos de Playa y Piscina...'
 sku: 'B002CT42SI-es'
-tags: [ 'zapatos', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

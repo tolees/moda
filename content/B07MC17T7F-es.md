@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC17T7F-es Hackett Army tee Camiseta Ecru 814 Medium para Hombre'
 sku: 'B07MC17T7F-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.94 EUR
 currency: EUR
 price: 13.94

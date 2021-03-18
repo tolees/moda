@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RFYQCF1-es G-STAR RAW Midge Mid Waist Straight Vaqueros Gris Dusty...'
 sku: 'B07RFYQCF1-es'
-tags: [ 'vaqueros', ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

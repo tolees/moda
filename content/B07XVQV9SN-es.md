@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVQV9SN-es Esprit 119EE1E021 Vestido de Fiesta Negro Black 001 36...'
 sku: 'B07XVQV9SN-es'
-tags: [ 'vestido', ]
 actualPrice: 40.02 EUR
 currency: EUR
 price: 40.02

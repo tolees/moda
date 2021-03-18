@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFV95F1-es Geox D Hiver A Zapatillas para Mujer Azul Navy C4002 38 EU'
 sku: 'B07LFV95F1-es'
-tags: [ 'geox', ]
 actualPrice: 30.45 EUR
 currency: EUR
 price: 30.45

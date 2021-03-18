@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085HCFCQZ-es Victorem Lebron James #23 Camiseta de Baloncesto para...'
 sku: 'B085HCFCQZ-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

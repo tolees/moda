@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BTTYSJE-es Piquadro Bolso Escolares Azul Azul - CA3347P15/BLU3'
 sku: 'B01BTTYSJE-es'
-tags: [ 'bolso', ]
 actualPrice: 224.25 EUR
 currency: EUR
 price: 224.25

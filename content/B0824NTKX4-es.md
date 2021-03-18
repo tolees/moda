@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0824NTKX4-es JoXiGo - Gafas de Lectura Sin Patillas Negro +3.0 65-69...'
 sku: 'B0824NTKX4-es'
-tags: [ 'gafas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

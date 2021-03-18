@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S563DBX-es BOSS Mabsoot Camisa Verde Open Green 350 X-Large para Hombre'
 sku: 'B07S563DBX-es'
-tags: [ 'camisa', ]
 actualPrice: 43.57 EUR
 currency: EUR
 price: 43.57

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073S9YRY8-es GANT Stretch Oxford Banker Shirt Camisa Azul Nautical Blue...'
 sku: 'B073S9YRY8-es'
-tags: [ 'camisa', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

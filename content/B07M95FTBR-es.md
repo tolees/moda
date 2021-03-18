@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M95FTBR-es Lee Shirt Dress Vestido Azul Oil Blue Mo Medium para Mujer'
 sku: 'B07M95FTBR-es'
-tags: [ 'vestido', ]
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

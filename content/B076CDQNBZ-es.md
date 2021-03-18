@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076CDQNBZ-es adidas Terrex Swift R2 Zapatos de Low Rise Senderismo...'
 sku: 'B076CDQNBZ-es'
-tags: [ 'zapatos', ]
 actualPrice: 101.9 EUR
 currency: EUR
 price: 101.9

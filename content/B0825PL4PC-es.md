@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PL4PC-es GEOX B BIGLIA GIRL C ROSE SMOKE/PRUNE Baby Girls First...'
 sku: 'B0825PL4PC-es'
-tags: [ 'geox', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

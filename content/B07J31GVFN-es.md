@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J31GVFN-es Under Armour - Under Armor Undeniable Duffel 4.0 bolsa de...'
 sku: 'B07J31GVFN-es'
-tags: [ 'bolso', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

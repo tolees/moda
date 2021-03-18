@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S3XF3PT-es Levi s Relaxed Graphic tee Camiseta White 90 s Serif Logo...'
 sku: 'B07S3XF3PT-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

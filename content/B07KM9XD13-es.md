@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KM9XD13-es Clarks Tri Walk Sandalias Negro Black Combi Black Combi 35 EU'
 sku: 'B07KM9XD13-es'
-tags: [ 'sandalias', ]
 actualPrice: 14.08 EUR
 currency: EUR
 price: 14.08

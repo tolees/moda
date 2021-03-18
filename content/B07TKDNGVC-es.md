@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKDNGVC-es Levi s SS Battery Hm Slim Camisa Azul Riverside Garment...'
 sku: 'B07TKDNGVC-es'
-tags: [ 'camisa', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

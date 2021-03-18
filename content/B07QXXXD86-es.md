@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QXXXD86-es Wrangler Bryson Vaqueros Skinny Azul Mascot Blue 514 32W /...'
 sku: 'B07QXXXD86-es'
-tags: [ 'vaqueros', ]
 actualPrice: 42.83 EUR
 currency: EUR
 price: 42.83

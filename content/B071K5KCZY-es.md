@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071K5KCZY-es Lee Twin Pack Crew Camiseta Multicolor 2 Pack Mix Aikw...'
 sku: 'B071K5KCZY-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZGP4H9-es Tikea Bolsa Geométrica Luminosa Holográfica para Mujer...'
 sku: 'B07SZGP4H9-es'
-tags: [ 'moda', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

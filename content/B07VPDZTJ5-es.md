@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPDZTJ5-es OBEEII Vestidos Princesa Sofia Disfraz para niñas Vestido...'
 sku: 'B07VPDZTJ5-es'
-tags: [ 'vestido', ]
 actualPrice: 21.29 EUR
 currency: EUR
 price: 21.29

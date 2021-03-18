@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076PL8DSP-es adidas CORE18 Hoody Sudadera con Capucha Hombre Rojo...'
 sku: 'B076PL8DSP-es'
-tags: [ 'sudadera', ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

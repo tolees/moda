@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846FCZK3-es Pepe Jeans Owen Camiseta Blanco 802 14 años para Niños'
 sku: 'B0846FCZK3-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

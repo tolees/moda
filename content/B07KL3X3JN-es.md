@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL3X3JN-es adidas Mh Plain Camiseta Polo Hombre Medium Grey Heather S'
 sku: 'B07KL3X3JN-es'
-tags: [ 'camiseta', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

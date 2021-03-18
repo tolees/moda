@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086Z7NGW8-es Levi s Kids Lvb Aop Color Block Puffer I Chaqueta Bebé-...'
 sku: 'B086Z7NGW8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

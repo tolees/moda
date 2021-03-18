@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HYJ2XLZ-es Tuopuda Mujer Sudadera Tipo Manta Manga Larga Sudadera...'
 sku: 'B08HYJ2XLZ-es'
-tags: [ 'chaqueta','sudadera', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

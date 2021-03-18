@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NPXTCR6-es Tommy Hilfiger Tailored Core Twill Classic Shirt Camisa...'
 sku: 'B00NPXTCR6-es'
-tags: [ 'camisa', ]
 actualPrice: 51.73 EUR
 currency: EUR
 price: 51.73

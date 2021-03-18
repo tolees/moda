@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJTXMRK-es Levi s The Perfect tee Camiseta Box Tab White+ M para Mujer'
 sku: 'B07ZJTXMRK-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

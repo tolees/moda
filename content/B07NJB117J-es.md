@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJB117J-es Bañador de Mujer Bikini Ropa de Baño de Una Pieza Azul...'
 sku: 'B07NJB117J-es'
-tags: [ 'bikini', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

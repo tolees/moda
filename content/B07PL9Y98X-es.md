@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PL9Y98X-es X-TIGER Gafas Ciclismo CE Certificación Polarizadas con 3...'
 sku: 'B07PL9Y98X-es'
-tags: [ 'gafas', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

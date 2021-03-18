@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZ2PCC-es Geox U Kristof A Zapatillas para Hombre Negro Black C9999...'
 sku: 'B07LFZ2PCC-es'
-tags: [ 'geox', ]
 actualPrice: 36.97 EUR
 currency: EUR
 price: 36.97

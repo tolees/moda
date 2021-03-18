@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S96TQY2-es Disney HS2220 Conjuntos de Pijama Rosa Pink Pink 8 años...'
 sku: 'B07S96TQY2-es'
-tags: [ 'pijama', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

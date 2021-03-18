@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4B7XQR-es G-STAR RAW Lancet Skinny Vaqueros para Hombre Azul Faded...'
 sku: 'B07Z4B7XQR-es'
-tags: [ 'vaqueros', ]
 actualPrice: 64.97 EUR
 currency: EUR
 price: 64.97

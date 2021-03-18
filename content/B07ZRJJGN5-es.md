@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZRJJGN5-es Helly Hansen HP Racing Chaqueta Alert M para Hombre Alert'
 sku: 'B07ZRJJGN5-es'
-tags: [ 'chaqueta', ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

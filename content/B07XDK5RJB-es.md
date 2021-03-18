@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDK5RJB-es coskefy Guantes Moto Invierno Guantes Esquí Impermeable...'
 sku: 'B07XDK5RJB-es'
-tags: [ 'guantes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

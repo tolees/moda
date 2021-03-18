@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SGP68N-es IceUnicorn - Escarpines de baño para niña zapatos de playa...'
 sku: 'B083SGP68N-es'
-tags: [ 'zapatos', ]
 actualPrice: 14.83 EUR
 currency: EUR
 price: 14.83

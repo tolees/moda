@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZK749-es Geox U Timothy B Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFZK749-es'
-tags: [ 'geox','zapatos', ]
 actualPrice: 92.0 EUR
 currency: EUR
 price: 92.0

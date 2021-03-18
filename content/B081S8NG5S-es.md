@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081S8NG5S-es Disney Frozen 2 - Camisa de Noche con Volante - Full Print...'
 sku: 'B081S8NG5S-es'
-tags: [ 'camisa', ]
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

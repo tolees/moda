@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KFOJ55Q-es Levi s 512 Slim Taper Vaqueros Tapered Negro Nightshade X...'
 sku: 'B01KFOJ55Q-es'
-tags: [ 'vaqueros', ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

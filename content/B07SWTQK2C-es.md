@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SWTQK2C-es Geox D Sukie B Zapatillas Mujer Beige Lt Taupe C6738 40 EU'
 sku: 'B07SWTQK2C-es'
-tags: [ 'geox', ]
 actualPrice: 49.09 EUR
 currency: EUR
 price: 49.09

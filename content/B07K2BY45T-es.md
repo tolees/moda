@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2BY45T-es Timberland Dausette Low Zapatillas Altas para Mujer Rojo...'
 sku: 'B07K2BY45T-es'
-tags: [ 'timberland', ]
 actualPrice: 60.31 EUR
 currency: EUR
 price: 60.31

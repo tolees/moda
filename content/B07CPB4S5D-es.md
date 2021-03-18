@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPB4S5D-es Crocs Reviva Flip Women Chanclas para Mujer Beige...'
 sku: 'B07CPB4S5D-es'
-tags: [ 'chanclas', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078BS27DK-es Disney Princess - Collar con imagen blanca como la nieve'
 sku: 'B078BS27DK-es'
-tags: [ 'collar', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

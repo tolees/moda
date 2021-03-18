@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R15BQZ4-es Wrangler LS 2pkt Flap Shirt Camisa Multicolor Dress Blue...'
 sku: 'B07R15BQZ4-es'
-tags: [ 'camisa', ]
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F3T5JDS-es Levi s 512 Slim Taper Vaqueros Nightshine X 27W / 30L para...'
 sku: 'B07F3T5JDS-es'
-tags: [ 'vaqueros', ]
 actualPrice: 66.85 EUR
 currency: EUR
 price: 66.85

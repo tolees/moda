@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LMI52XY-es Quiksilver Monkey Abyss M Sndl Xgkc - Sandalias para...'
 sku: 'B00LMI52XY-es'
-tags: [ 'sandalias', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

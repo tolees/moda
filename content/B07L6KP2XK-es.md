@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6KP2XK-es Under Armour Tactical All Season Chaqueta Hombre Negro XL'
 sku: 'B07L6KP2XK-es'
-tags: [ 'chaqueta', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

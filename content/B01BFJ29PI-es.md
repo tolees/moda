@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BFJ29PI-es Charles Wilson Camiseta Polo con Solapa de Contraste Small...'
 sku: 'B01BFJ29PI-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

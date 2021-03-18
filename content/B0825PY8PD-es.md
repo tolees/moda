@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PY8PD-es Roxy Epic Afternoon T Camiseta de Mangas Cortas Enrolladas...'
 sku: 'B0825PY8PD-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

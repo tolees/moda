@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VLPBC87-es Lee Rider Vaqueros Slim Azul Deep Pool TR 36W / 30L para...'
 sku: 'B07VLPBC87-es'
-tags: [ 'vaqueros', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

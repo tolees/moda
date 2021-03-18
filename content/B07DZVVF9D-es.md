@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DZVVF9D-es Marca Amazon – Goodthreads – Pantalones cortos chinos...'
 sku: 'B07DZVVF9D-es'
-tags: [ 'goodthreads', ]
 actualPrice: 10.68 EUR
 currency: EUR
 price: 10.68

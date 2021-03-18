@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQ948X-es Levi s SS Original Hm tee Camiseta Rugby Stripe Dress...'
 sku: 'B07ZVQ948X-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

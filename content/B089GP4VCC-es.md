@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GP4VCC-es morpilot Collar LED Luz Perro 6PCS Luces de Seguridad...'
 sku: 'B089GP4VCC-es'
-tags: [ 'collar', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

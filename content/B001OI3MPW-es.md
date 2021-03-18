@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001OI3MPW-es Havaianas Brasil Logo Chanclas Unisex Adulto Azul Navy...'
 sku: 'B001OI3MPW-es'
-tags: [ 'chanclas', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

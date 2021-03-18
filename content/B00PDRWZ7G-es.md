@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PDRWZ7G-es Kit Pintura Tela para Camiseta la Pajarita 128958 Kit de...'
 sku: 'B00PDRWZ7G-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085PPJ19P-es Timberland World Hiker Mid TB0A1W47K511'
 sku: 'B085PPJ19P-es'
-tags: [ 'timberland', ]
 actualPrice: 55.04 EUR
 currency: EUR
 price: 55.04

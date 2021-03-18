@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HK83M4T-es Amazon Essentials - Chaqueta para hombre Camo US L EU L'
 sku: 'B07HK83M4T-es'
-tags: [ 'chaqueta', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

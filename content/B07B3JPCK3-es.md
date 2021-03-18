@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3JPCK3-es PUMA Liga Casuals Tracktop Chaqueta de Entrenamiento...'
 sku: 'B07B3JPCK3-es'
-tags: [ 'chaqueta', ]
 actualPrice: 24.85 EUR
 currency: EUR
 price: 24.85

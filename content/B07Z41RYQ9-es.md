@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z41RYQ9-es Pepe Jeans Alessia Monedero con Tarjetero rojo 11 5x8x1 5...'
 sku: 'B07Z41RYQ9-es'
-tags: [ 'monedero', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

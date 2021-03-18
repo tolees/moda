@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CF8ZZMW-es SMILODOX - Sudadera con capucha - para hombre Gris antracita'
 sku: 'B01CF8ZZMW-es'
-tags: [ 'sudadera', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

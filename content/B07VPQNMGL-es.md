@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VPQNMGL-es G-STAR RAW Lhana High Waist Super Skinny Vaqueros Gris...'
 sku: 'B07VPQNMGL-es'
-tags: [ 'vaqueros', ]
 actualPrice: 37.41 EUR
 currency: EUR
 price: 37.41

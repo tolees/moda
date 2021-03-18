@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JYFTXYC-es Tommy Hilfiger Logo T-Shirt Camiseta Informal Gris Cloud...'
 sku: 'B07JYFTXYC-es'
-tags: [ 'camiseta', ]
 actualPrice: 29.53 EUR
 currency: EUR
 price: 29.53

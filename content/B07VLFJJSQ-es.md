@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLFJJSQ-es Antony Morato Jeans Slim Geezer Vaqueros Azul BLU Denim...'
 sku: 'B07VLFJJSQ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

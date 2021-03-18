@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074J61CFR-es DafenQ Lindo Animal La mochila de jardín de infantes...'
 sku: 'B074J61CFR-es'
-tags: [ 'bolso', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

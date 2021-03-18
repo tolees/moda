@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6UDNCU-es BOSS T-Shirt RN 3p Co Camiseta para Hombre Negro Black...'
 sku: 'B01M6UDNCU-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

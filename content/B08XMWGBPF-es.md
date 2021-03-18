@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XMWGBPF-es Super kids - Zapatillas con Ruedas Niños Niña LED Luces...'
 sku: 'B08XMWGBPF-es'
-tags: [ 'zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

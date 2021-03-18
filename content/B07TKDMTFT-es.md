@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TKDMTFT-es Levi s The Original Camiseta Rojo Hm Patch OG Hm tee Earth...'
 sku: 'B07TKDMTFT-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

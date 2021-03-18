@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZHKKEVI-es Geox JR Agata A School Uniform Shoe Negro 30 EU'
 sku: 'B00ZHKKEVI-es'
-tags: [ 'geox', ]
 actualPrice: 24.57 EUR
 currency: EUR
 price: 24.57

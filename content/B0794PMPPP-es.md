@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0794PMPPP-es Columbia Tolmie Butte Chaqueta Hombre Beige British Tan S'
 sku: 'B0794PMPPP-es'
-tags: [ 'chaqueta', ]
 actualPrice: 25.43 EUR
 currency: EUR
 price: 25.43

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QXL7YF3-es Under Armour UA Team Issue Wordmark Short Sleeve Camiseta...'
 sku: 'B07QXL7YF3-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6MCPJM-es Tommy Hilfiger 3p Bikini Tanga Multicolor Multi 078 Talla...'
 sku: 'B07N6MCPJM-es'
-tags: [ 'bikini', ]
 actualPrice: 24.61 EUR
 currency: EUR
 price: 24.61

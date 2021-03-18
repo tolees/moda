@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078SXQVMX-es Timberland Capri Sunset Wedge Sandalia con Pulsera Mujer...'
 sku: 'B078SXQVMX-es'
-tags: [ 'timberland', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

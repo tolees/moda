@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH34DLT-es Pepe Jeans Boreas Pm402096 Chaqueta Flame 265 Small para...'
 sku: 'B07JH34DLT-es'
-tags: [ 'chaqueta', ]
 actualPrice: 32.63 EUR
 currency: EUR
 price: 32.63

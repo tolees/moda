@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3T4C2W-es Wrangler LS 1pkt Shirt Camisa Blanco Off White 737 Medium...'
 sku: 'B07R3T4C2W-es'
-tags: [ 'camisa', ]
 actualPrice: 14.94 EUR
 currency: EUR
 price: 14.94

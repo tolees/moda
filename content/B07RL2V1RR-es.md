@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RL2V1RR-es Tommy Hilfiger Flex Multi Gingham Shirt Camisa Azul Blue...'
 sku: 'B07RL2V1RR-es'
-tags: [ 'camisa', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

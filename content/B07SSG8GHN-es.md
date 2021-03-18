@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSG8GHN-es adidas Real Madrid Home Jersey Camiseta de Manga Corta...'
 sku: 'B07SSG8GHN-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDB1WKT-es bugatti 321793513200 - Botines de Cuero Hombre Color...'
 sku: 'B07NDB1WKT-es'
-tags: [ 'botines', ]
 actualPrice: 25.36 EUR
 currency: EUR
 price: 25.36

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6WF4J9-es Hi-Tec Ula Raft Sandalias Deportivas para Hombre Amarillo...'
 sku: 'B07Z6WF4J9-es'
-tags: [ 'sandalias', ]
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

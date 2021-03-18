@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5SSKM8-es FITYLE Bolso De Cuero Ajustable De La PU Bolso Bandolera...'
 sku: 'B07L5SSKM8-es'
-tags: [ 'bolso', ]
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

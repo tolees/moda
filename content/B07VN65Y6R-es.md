@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VN65Y6R-es JACK & JONES Jprhague LS tee Crew Neck Tc319 Camisa Manga...'
 sku: 'B07VN65Y6R-es'
-tags: [ 'camisa', ]
 actualPrice: 6.64 EUR
 currency: EUR
 price: 6.64

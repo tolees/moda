@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TLFMDJ6-es Levi s Sportswear Logo Graphic Camiseta White Ssnl Sw...'
 sku: 'B07TLFMDJ6-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.37 EUR
 currency: EUR
 price: 17.37

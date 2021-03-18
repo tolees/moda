@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VJSHJTB-es Petit Bateau 5332300 Camiseta Blanco Variante 1 Zga 12...'
 sku: 'B07VJSHJTB-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

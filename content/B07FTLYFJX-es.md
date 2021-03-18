@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTLYFJX-es RAZAMAZA Mujer Tacón Ancho Bombas Zapatos Plataforma...'
 sku: 'B07FTLYFJX-es'
-tags: [ 'zapatos', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

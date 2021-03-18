@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TTJJ9VE-es Clarks Tilden Free - Zapatos de cuero para hombre Negro...'
 sku: 'B00TTJJ9VE-es'
-tags: [ 'zapatos', ]
 actualPrice: 47.21 EUR
 currency: EUR
 price: 47.21

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHLBR23-es Camisas de Mujer Tops Camisa de Gasa Mangas Blusas Blusas...'
 sku: 'B07RHLBR23-es'
-tags: [ 'camisa', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

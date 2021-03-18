@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KXAH0GO-es Under Armour UA HG Armour SS Camiseta Hombre Negro...'
 sku: 'B00KXAH0GO-es'
-tags: [ 'camiseta', ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

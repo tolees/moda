@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W1VSQWD-es Tommy Hilfiger TJM Chest Logo tee Camiseta Blanco White...'
 sku: 'B07W1VSQWD-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KYX9CRJ-es Columbia Zero Rules Short Sleeve Shirt Camiseta de manga...'
 sku: 'B07KYX9CRJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 23.05 EUR
 currency: EUR
 price: 23.05

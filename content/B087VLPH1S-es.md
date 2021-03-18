@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VLPH1S-es Columbia Iceline Ridge Chaqueta De Esquí con Capucha...'
 sku: 'B087VLPH1S-es'
-tags: [ 'chaqueta', ]
 actualPrice: 65.6 EUR
 currency: EUR
 price: 65.6

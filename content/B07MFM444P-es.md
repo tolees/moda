@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFM444P-es Clarks Vargo Vibe Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MFM444P-es'
-tags: [ 'zapatos', ]
 actualPrice: 31.71 EUR
 currency: EUR
 price: 31.71

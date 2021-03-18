@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV5M6XS-es Unisex Riverdale Impreso Simple Estudiantes de Gran...'
 sku: 'B07MV5M6XS-es'
-tags: [ 'bolso', ]
 actualPrice: 11.82 EUR
 currency: EUR
 price: 11.82

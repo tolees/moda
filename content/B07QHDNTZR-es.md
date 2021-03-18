@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QHDNTZR-es G-STAR RAW D-STAQ 3D Slim Vaqueros Faded Quartz B604-A805...'
 sku: 'B07QHDNTZR-es'
-tags: [ 'vaqueros', ]
 actualPrice: 56.06 EUR
 currency: EUR
 price: 56.06

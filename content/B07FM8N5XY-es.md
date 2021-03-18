@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM8N5XY-es Ipanema Kirei Fem Chanclas para Mujer Black/Silver 8441...'
 sku: 'B07FM8N5XY-es'
-tags: [ 'chanclas', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

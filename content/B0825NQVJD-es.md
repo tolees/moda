@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NQVJD-es GEOX D CALINDA MID B WINE Women s Court Shoes Pumps size...'
 sku: 'B0825NQVJD-es'
-tags: [ 'geox', ]
 actualPrice: 23.66 EUR
 currency: EUR
 price: 23.66

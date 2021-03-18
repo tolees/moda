@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SWPTQW-es Timberland Mocasines TB0A1Q86019'
 sku: 'B078SWPTQW-es'
-tags: [ 'timberland', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

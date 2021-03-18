@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725RF8WB-es Wrangler Greensboro Regular Jeans Vaqueros Azul For Real...'
 sku: 'B0725RF8WB-es'
-tags: [ 'vaqueros', ]
 actualPrice: 62.49 EUR
 currency: EUR
 price: 62.49

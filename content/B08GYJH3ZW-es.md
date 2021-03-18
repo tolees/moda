@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYJH3ZW-es Hurley M One&Only Crew Sudadera Lt British Tan S'
 sku: 'B08GYJH3ZW-es'
-tags: [ 'sudadera', ]
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

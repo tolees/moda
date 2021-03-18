@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LGWWS5-es Under Armour UA Athlete SS Camiseta de Manga Corta Hombre...'
 sku: 'B071LGWWS5-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

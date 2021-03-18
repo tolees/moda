@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZFFPZJ-es Under Armour UA Qualifier Speedpocket 2-N-1 Short Pantalón...'
 sku: 'B07CZFFPZJ-es'
-tags: [ 'pantalón', ]
 actualPrice: 33.17 EUR
 currency: EUR
 price: 33.17

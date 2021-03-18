@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083JRCWB7-es Lacoste Nf2970 - Bolso bandolera para mujer talla única...'
 sku: 'B083JRCWB7-es'
-tags: [ 'bolso', ]
 actualPrice: 80.66 EUR
 currency: EUR
 price: 80.66

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZJ6MYB-es Under Armour Sportstyle Cotton Logo Shorts Pantalón Corto...'
 sku: 'B07CZJ6MYB-es'
-tags: [ 'pantalón', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

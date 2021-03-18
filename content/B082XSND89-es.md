@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XSND89-es Lee One Pocket Shirt Camisa Negro XS para Mujer'
 sku: 'B082XSND89-es'
-tags: [ 'camisa', ]
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6R3CSZ-es X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel...'
 sku: 'B07P6R3CSZ-es'
-tags: [ 'boxer', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

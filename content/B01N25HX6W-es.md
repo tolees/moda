@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N25HX6W-es Geox UOMO Symbol B Oxford Hombre Negro Black C9999 41 EU'
 sku: 'B01N25HX6W-es'
-tags: [ 'geox', ]
 actualPrice: 56.98 EUR
 currency: EUR
 price: 56.98

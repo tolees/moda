@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077SYCGDS-es PUMA Liga Casual Sudadera Hombre Medium Gray Heather /...'
 sku: 'B077SYCGDS-es'
-tags: [ 'sudadera', ]
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDJBCBY-es Desigual Vest Paradise Vestido Rojo Rojo ROJA 3061 Medium...'
 sku: 'B07VDJBCBY-es'
-tags: [ 'vestido', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

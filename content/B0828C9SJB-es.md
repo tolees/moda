@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0828C9SJB-es GEOX D NEBULA E OFF WHITE/BEIGE Women s Trainers Low-Top...'
 sku: 'B0828C9SJB-es'
-tags: [ 'geox', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

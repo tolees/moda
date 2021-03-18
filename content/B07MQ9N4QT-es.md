@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ9N4QT-es Reebok Wor AC tee Camiseta Mujer Negro S'
 sku: 'B07MQ9N4QT-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

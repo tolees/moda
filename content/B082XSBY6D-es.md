@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XSBY6D-es Lee Ultimate Pocket tee Camiseta Sky Captain XXL para Hombre'
 sku: 'B082XSBY6D-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.78 EUR
 currency: EUR
 price: 8.78

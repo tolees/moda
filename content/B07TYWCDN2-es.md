@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYWCDN2-es Wrangler LS 1 Pkt Shirt Camisa Rojo Formula Red Xwo Large...'
 sku: 'B07TYWCDN2-es'
-tags: [ 'camisa', ]
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071G6JPTK-es Tommy Hilfiger Hampton Down Parka Abrigo Azul Sky Captain...'
 sku: 'B071G6JPTK-es'
-tags: [ 'abrigo','parka', ]
 actualPrice: 259.35 EUR
 currency: EUR
 price: 259.35

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005PQQ1OI-es Crocs Classic Clog Zuecos Unisex Adulto Negro Black 001...'
 sku: 'B005PQQ1OI-es'
-tags: [ 'zuecos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

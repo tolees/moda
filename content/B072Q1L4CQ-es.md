@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072Q1L4CQ-es Fluchos- retail ES Spain 8499 Zapatos sin Cordones Hombre...'
 sku: 'B072Q1L4CQ-es'
-tags: [ 'zapatos', ]
 actualPrice: 65.71 EUR
 currency: EUR
 price: 65.71

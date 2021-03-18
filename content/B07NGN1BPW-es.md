@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGN1BPW-es Marca Amazon - find. Vestido Largo Estilo Camiseta de...'
 sku: 'B07NGN1BPW-es'
-tags: [ '-','camiseta','find.','vestido', ]
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HQWHYM-es Adidas CORE18 SW Top Sudadera Hombre Azul Azul/Blanco L'
 sku: 'B076HQWHYM-es'
-tags: [ 'sudadera', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

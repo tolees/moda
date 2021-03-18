@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLT1L8V-es HKT by Hackett Hkt Ltweight Down Jkt Chaqueta Navy 595...'
 sku: 'B07MLT1L8V-es'
-tags: [ 'chaqueta', ]
 actualPrice: 37.6 EUR
 currency: EUR
 price: 37.6

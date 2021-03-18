@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779CBPSG-es adidas Entrada 18 JSY Jersey Niños Negro Black/White 140...'
 sku: 'B0779CBPSG-es'
-tags: [ 'jersey', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

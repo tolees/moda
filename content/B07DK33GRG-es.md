@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DK33GRG-es Geox B Kaytan a Sandalias para Bebés White/Silver C0007 24 EU'
 sku: 'B07DK33GRG-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

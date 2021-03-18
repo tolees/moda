@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8VJYFD-es Lee Luke Vaqueros Dark Pool GP 34W / 30L para Hombre'
 sku: 'B07M8VJYFD-es'
-tags: [ 'vaqueros', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KGDZTJF-es Levi s Innovation Super Skinny Vaqueros Celestial Rinse...'
 sku: 'B07KGDZTJF-es'
-tags: [ 'vaqueros', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

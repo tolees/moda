@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T73X1TP-es Mercedes-Benz Sonnenbrille M7008 Gafas de sol Marrón Braun...'
 sku: 'B07T73X1TP-es'
-tags: [ 'gafas', ]
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

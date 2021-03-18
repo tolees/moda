@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711CZHNV-es Marca Amazon - find. Camiseta Estampada de Mickey Mouse...'
 sku: 'B0711CZHNV-es'
-tags: [ '-','camiseta','find.', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

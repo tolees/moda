@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VK2WWW-es Columbia Autumn Park Chaqueta de Plumas con Capucha Mujer...'
 sku: 'B087VK2WWW-es'
-tags: [ 'chaqueta', ]
 actualPrice: 67.35 EUR
 currency: EUR
 price: 67.35

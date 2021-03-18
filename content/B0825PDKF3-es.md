@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PDKF3-es GEOX U DAMIANO C NAVY Men s Trainers Low-Top Trainers size...'
 sku: 'B0825PDKF3-es'
-tags: [ 'geox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

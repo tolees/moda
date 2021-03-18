@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZ91G7-es Geox B New Balu Boy C Zapatillas para Bebés Azul Navy...'
 sku: 'B07LFZ91G7-es'
-tags: [ 'geox', ]
 actualPrice: 32.31 EUR
 currency: EUR
 price: 32.31

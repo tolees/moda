@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HWQMRM-es Marca Amazon - find. Vestido Asimétrico de Flores Mujer...'
 sku: 'B077HWQMRM-es'
-tags: [ '-','find.','vestido', ]
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHT2LP7-es Vans VN0A3I6C - Billetera de Sintético hombre Rojo Rojo...'
 sku: 'B07WHT2LP7-es'
-tags: [ 'billetera', ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

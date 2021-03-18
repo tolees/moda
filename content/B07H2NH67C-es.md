@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H2NH67C-es Sunny Fashion - Vestido para niña Rosa Flor Pétalo Verano...'
 sku: 'B07H2NH67C-es'
-tags: [ 'vestido', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N18B6SQ-es G-STAR RAW 3301 Straight Jeans Vaqueros Worker Blue Faded...'
 sku: 'B07N18B6SQ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 22.86 EUR
 currency: EUR
 price: 22.86

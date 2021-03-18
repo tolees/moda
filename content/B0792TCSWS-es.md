@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0792TCSWS-es Geox D Felicity D Botas Altas Mujer Negro Black C9999 39 EU'
 sku: 'B0792TCSWS-es'
-tags: [ 'geox', ]
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQQ11PX-es Geox D Genziana Mid B Sandalias con Punta Abierta para...'
 sku: 'B07SQQ11PX-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 38.51 EUR
 currency: EUR
 price: 38.51

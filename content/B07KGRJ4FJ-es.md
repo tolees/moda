@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGRJ4FJ-es edc by Esprit 999cc2k803 Camiseta Rojo Red 630 Large para...'
 sku: 'B07KGRJ4FJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084GMLCC1-es Pepe Jeans Eva Bolso con Solapa Blanco 26x14x5 cms Piel...'
 sku: 'B084GMLCC1-es'
-tags: [ 'bolso', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

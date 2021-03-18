@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083ZYF4WX-es Geox W BETTANIE Capa de Pluma Outer Coconut 44 para Mujer'
 sku: 'B083ZYF4WX-es'
-tags: [ 'geox', ]
 actualPrice: 119.6 EUR
 currency: EUR
 price: 119.6

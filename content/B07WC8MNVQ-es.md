@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC8MNVQ-es Burton Underhill Camiseta Hombre Stout White XXS'
 sku: 'B07WC8MNVQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.62 EUR
 currency: EUR
 price: 15.62

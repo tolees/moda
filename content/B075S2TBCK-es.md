@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075S2TBCK-es GORE WEAR C3 Chaqueta de hombre con capucha GORE-TEX S negro'
 sku: 'B075S2TBCK-es'
-tags: [ 'chaqueta', ]
 actualPrice: 143.49 EUR
 currency: EUR
 price: 143.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MH54YPK-es Lacoste Sport Sf7917 Sudadera premamá Gris Argent Chiné...'
 sku: 'B07MH54YPK-es'
-tags: [ 'sudadera', ]
 actualPrice: 56.28 EUR
 currency: EUR
 price: 56.28

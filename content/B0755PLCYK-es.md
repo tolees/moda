@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0755PLCYK-es Skechers Beverlee-High Tea Sandalias de Punta Descubierta...'
 sku: 'B0755PLCYK-es'
-tags: [ 'sandalias', ]
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

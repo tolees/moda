@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083ZYDFJJ-es Geox M Dereck Chaleco Vaquero Azul Oscuro 58 para Hombre'
 sku: 'B083ZYDFJJ-es'
-tags: [ 'chaleco','geox', ]
 actualPrice: 66.77 EUR
 currency: EUR
 price: 66.77

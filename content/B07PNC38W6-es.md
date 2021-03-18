@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNC38W6-es Only Onlmay S/s Dress Noos Vestido Multicolor Night Sky...'
 sku: 'B07PNC38W6-es'
-tags: [ 'vestido', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018RFDLAK-es Vixxsin Rest Sudadera con Capucha Negro XS'
 sku: 'B018RFDLAK-es'
-tags: [ 'sudadera', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

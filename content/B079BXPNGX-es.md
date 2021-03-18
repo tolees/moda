@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079BXPNGX-es Only onlNICOLE S/S Mix Top Noos Camiseta Negro Black L...'
 sku: 'B079BXPNGX-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002A6WWDA-es Havaianas Slim Chanclas para Mujer Oro SandGrey/Light...'
 sku: 'B002A6WWDA-es'
-tags: [ 'chanclas', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

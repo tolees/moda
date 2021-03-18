@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBDK3PY-es Tommy Hilfiger Bikini Culotte Azul Navy Blazer 416 40...'
 sku: 'B07LBDK3PY-es'
-tags: [ 'bikini', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

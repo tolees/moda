@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087CR1CB2-es adidas Maori Rep JSY Y Camiseta Unisex niños Negro 152...'
 sku: 'B087CR1CB2-es'
-tags: [ 'camiseta', ]
 actualPrice: 36.48 EUR
 currency: EUR
 price: 36.48

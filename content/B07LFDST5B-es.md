@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFDST5B-es Levi s 2Pk Crewneck Graphic Camiseta 2 Pack Sw...'
 sku: 'B07LFDST5B-es'
-tags: [ 'Camisas casual para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','camiseta','levis', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

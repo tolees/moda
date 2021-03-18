@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQZ8W5-es Pepe Jeans Imani Chaqueta Berry Red 280 Small para Mujer'
 sku: 'B07MZQZ8W5-es'
-tags: [ 'chaqueta', ]
 actualPrice: 63.31 EUR
 currency: EUR
 price: 63.31

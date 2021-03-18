@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MCSPR15-es Napapijri Skidoo WOM EF 2 Chaqueta Blanco Whitecap Gray...'
 sku: 'B07MCSPR15-es'
-tags: [ 'chaqueta', ]
 actualPrice: 207.45 EUR
 currency: EUR
 price: 207.45

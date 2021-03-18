@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0735CJH5F-es Napapijri Rainforest Pocket Chaqueta para Hombre Gris Dark...'
 sku: 'B0735CJH5F-es'
-tags: [ 'chaqueta', ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

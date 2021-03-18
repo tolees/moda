@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CK1DZR-es G-STAR RAW Zip Through Track Tweeter Chaleco de Sudadera...'
 sku: 'B088CK1DZR-es'
-tags: [ 'chaleco','sudadera', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

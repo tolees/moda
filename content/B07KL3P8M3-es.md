@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL3P8M3-es adidas Mh Plain Camiseta Polo Hombre Black S'
 sku: 'B07KL3P8M3-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.73 EUR
 currency: EUR
 price: 17.73

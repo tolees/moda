@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BLC6FRF-es AURIQUE BAL1042 Mallas de Entrenamiento Rojo Port...'
 sku: 'B07BLC6FRF-es'
-tags: [ 'aurique', ]
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

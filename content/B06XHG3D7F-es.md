@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XHG3D7F-es Helly Hansen Daybreaker Fleece Jacket Chaqueta con Forro...'
 sku: 'B06XHG3D7F-es'
-tags: [ 'chaqueta', ]
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S75XKN9-es Crocs Classic Slide Sandalias de Punta Descubierta Unisex...'
 sku: 'B07S75XKN9-es'
-tags: [ 'sandalias', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

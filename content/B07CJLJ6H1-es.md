@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJLJ6H1-es Only Onltahoe Hood Jacket Otw Noos Chaqueta Negro Black...'
 sku: 'B07CJLJ6H1-es'
-tags: [ 'chaqueta','only', ]
 actualPrice: 38.19 EUR
 currency: EUR
 price: 38.19

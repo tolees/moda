@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MF17CL4-es KIWI RATA Mallas Push up Mujer Leggins Deportivos Yoga...'
 sku: 'B08MF17CL4-es'
-tags: [ 'leggins', ]
 actualPrice: 12.78 EUR
 currency: EUR
 price: 12.78

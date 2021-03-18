@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019ZFGNP6-es Under Armour Tech Short Sleeve-Twist Camiseta Mujer Negro XS'
 sku: 'B019ZFGNP6-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

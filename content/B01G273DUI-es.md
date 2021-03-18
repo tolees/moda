@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01G273DUI-es Timberland Bradstreet Leather Sensorflex Botas Chukka...'
 sku: 'B01G273DUI-es'
-tags: [ 'timberland', ]
 actualPrice: 78.1 EUR
 currency: EUR
 price: 78.1

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WVC52X-es Quiksilver Carver Nubuck-Sandals For Men Zapatos de Playa...'
 sku: 'B078WVC52X-es'
-tags: [ 'zapatos', ]
 actualPrice: 30.32 EUR
 currency: EUR
 price: 30.32

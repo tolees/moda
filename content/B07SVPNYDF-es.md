@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVPNYDF-es Geox U EOLO B Zapatillas para Hombre Gris White/Lt Grey...'
 sku: 'B07SVPNYDF-es'
-tags: [ 'geox', ]
 actualPrice: 57.92 EUR
 currency: EUR
 price: 57.92

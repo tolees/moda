@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JHFY4D-es find. D7832 vestido fiesta mujer Rojo Rot 36 Talla del...'
 sku: 'B073JHFY4D-es'
-tags: [ 'vestido', ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

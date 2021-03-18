@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY9L9YW-es Levi s Vneck Camiseta Blanco White + 0002 Medium para Mujer'
 sku: 'B07RY9L9YW-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

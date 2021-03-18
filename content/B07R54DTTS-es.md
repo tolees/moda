@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R54DTTS-es 【La última Versión Original 2019】Pantalones para Adelgazar...'
 sku: 'B07R54DTTS-es'
-tags: [ 'leggins','pantalón', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

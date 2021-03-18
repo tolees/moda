@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MA5RXQW-es Wrangler Straight Vaqueros para Mujer Azul Best Blue 94O...'
 sku: 'B01MA5RXQW-es'
-tags: [ 'vaqueros', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

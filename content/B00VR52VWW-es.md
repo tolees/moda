@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VR52VWW-es Skechers Stamina-Cutback Zapatilla Deportiva con Cordones...'
 sku: 'B00VR52VWW-es'
-tags: [ 'zapatilla', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

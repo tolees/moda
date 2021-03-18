@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Y8STV78-es BlackButterfly Audrey Vestido Vintage Años 50 Divinity...'
 sku: 'B00Y8STV78-es'
-tags: [ 'vestido', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQRH61W-es Amazon Essentials - Chaqueta deportiva con media...'
 sku: 'B07JQRH61W-es'
-tags: [ 'chaqueta', ]
 actualPrice: 5.02 EUR
 currency: EUR
 price: 5.02

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D1M11PR-es adidas Real Pre Wrmtop Sudadera Hombre Blanco XS'
 sku: 'B08D1M11PR-es'
-tags: [ 'sudadera', ]
 actualPrice: 51.77 EUR
 currency: EUR
 price: 51.77

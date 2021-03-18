@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085BNXWPP-es Hitmars - Zapatos de Seguridad Hombre Mujer Ligeros...'
 sku: 'B085BNXWPP-es'
-tags: [ 'zapatos', ]
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

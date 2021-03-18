@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VR9CPRZ-es Nihlsfen 1 par Transparente 5 Capas Plantilla más Alta...'
 sku: 'B08VR9CPRZ-es'
-tags: [ 'zapatos', ]
 actualPrice: 3.12 EUR
 currency: EUR
 price: 3.12

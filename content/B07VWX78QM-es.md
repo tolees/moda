@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWX78QM-es Pepe Jeans Edwin Camiseta Azul Bay 524 XX-Large para Hombre'
 sku: 'B07VWX78QM-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

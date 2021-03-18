@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ2JL81-es Clarks Cotrell Stride Zapatos de Cordones Derby para...'
 sku: 'B07MQ2JL81-es'
-tags: [ 'zapatos', ]
 actualPrice: 38.87 EUR
 currency: EUR
 price: 38.87

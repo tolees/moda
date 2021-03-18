@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TWXX6S3-es Lee Scarlett Vaqueros Skinny Azul Light Taos Je W32/L33...'
 sku: 'B07TWXX6S3-es'
-tags: [ 'vaqueros', ]
 actualPrice: 40.02 EUR
 currency: EUR
 price: 40.02

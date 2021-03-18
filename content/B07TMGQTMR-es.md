@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMGQTMR-es FM London Fitted Boxer Negro Black 01 Large Pack de 8 para...'
 sku: 'B07TMGQTMR-es'
-tags: [ 'boxer', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

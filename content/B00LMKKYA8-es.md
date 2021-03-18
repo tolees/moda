@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LMKKYA8-es Quiksilver Carver Suede M Sndl Sandalias con Plataforma...'
 sku: 'B00LMKKYA8-es'
-tags: [ 'sandalias', ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

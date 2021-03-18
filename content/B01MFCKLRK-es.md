@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MFCKLRK-es Speedo Futura Classic Gafas Anticloro Unisex Adulto...'
 sku: 'B01MFCKLRK-es'
-tags: [ 'gafas', ]
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

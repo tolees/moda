@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BP1LLPC-es JACK & JONES JJIALVIN JJJACKET AKM 528 STS Chaqueta...'
 sku: 'B07BP1LLPC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

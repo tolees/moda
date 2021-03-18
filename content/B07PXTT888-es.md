@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXTT888-es Under Armour Mk1 Warmup FZ Chaqueta Hombre Negro MD'
 sku: 'B07PXTT888-es'
-tags: [ 'chaqueta', ]
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

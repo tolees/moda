@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMRG2W4-es HUGO Bill1921 Chaqueta Negro Black 001 Large para Hombre'
 sku: 'B07KMRG2W4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 45.56 EUR
 currency: EUR
 price: 45.56

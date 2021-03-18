@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VSW5QGK-es G-STAR RAW Polo Loose Fit Blusa Azul Rinsed C115-082...'
 sku: 'B07VSW5QGK-es'
-tags: [ 'blusa', ]
 actualPrice: 22.1 EUR
 currency: EUR
 price: 22.1

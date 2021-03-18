@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVCDKMX-es Geographical Norway Sudadera Mujer GYMCLASS A Rojo L'
 sku: 'B07XVCDKMX-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

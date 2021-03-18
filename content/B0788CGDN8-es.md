@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788CGDN8-es Tommy Hilfiger Track Top LS HWK Sudadera Gris Grey Heather...'
 sku: 'B0788CGDN8-es'
-tags: [ 'sudadera', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

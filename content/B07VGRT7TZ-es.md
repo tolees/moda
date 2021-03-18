@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGRT7TZ-es Desigual - Bolso de mano de Sintético Mujer color Negro...'
 sku: 'B07VGRT7TZ-es'
-tags: [ 'bolso', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

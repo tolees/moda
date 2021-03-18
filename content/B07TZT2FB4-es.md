@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZT2FB4-es Nike Wmns Explore Strada Zapatos para Correr Mujer...'
 sku: 'B07TZT2FB4-es'
-tags: [ 'zapatos', ]
 actualPrice: 33.1 EUR
 currency: EUR
 price: 33.1

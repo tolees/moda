@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HZJ2ZPD-es find. Diagonal Weave Mule Sandalias con Punta Abierta...'
 sku: 'B07HZJ2ZPD-es'
-tags: [ 'sandalias', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

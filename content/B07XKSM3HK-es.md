@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKSM3HK-es HOMESPON Bolsa Isotérmica de Almuerzo Top-Open Lunch Bag...'
 sku: 'B07XKSM3HK-es'
-tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFRN3DB-es Geox U Hampstead B Zapatos de Cordones Derby Hombre Marrón...'
 sku: 'B07LFRN3DB-es'
-tags: [ 'geox','zapatos', ]
 actualPrice: 75.5 EUR
 currency: EUR
 price: 75.5

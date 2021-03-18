@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7VVNRD-es Tommy Hilfiger Track Short Pantalones de Pijama Azul...'
 sku: 'B07W7VVNRD-es'
-tags: [ 'pijama', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

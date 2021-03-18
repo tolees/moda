@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HMRTWO8-es The North Face T92TX3 Camiseta Easy Hombre Blanco Tnf White S'
 sku: 'B01HMRTWO8-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

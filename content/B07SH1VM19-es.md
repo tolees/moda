@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SH1VM19-es Levi s June L Chanclas Hombre Blanco R White 51 39 EU'
 sku: 'B07SH1VM19-es'
-tags: [ 'chanclas', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

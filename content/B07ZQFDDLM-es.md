@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZQFDDLM-es Adidas Altaswim C Jr Sandalias Unisex Niños Blanco...'
 sku: 'B07ZQFDDLM-es'
-tags: [ 'sandalias', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R9KRD8-es Trangoworld Sieber Complet Chaqueta Hombre Kaki XL'
 sku: 'B075R9KRD8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 160.99 EUR
 currency: EUR
 price: 160.99

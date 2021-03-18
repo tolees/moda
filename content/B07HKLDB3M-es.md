@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HKLDB3M-es RICOO WM032-EP-A Banco Zapatero 60x42x30cm Armario...'
 sku: 'B07HKLDB3M-es'
-tags: [ 'zapatos', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

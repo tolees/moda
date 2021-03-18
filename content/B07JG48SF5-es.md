@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JG48SF5-es Unno DIM Basic Lote X4 Boxer Sin Costuras Negro Noir/Noir...'
 sku: 'B07JG48SF5-es'
-tags: [ 'boxer', ]
 actualPrice: 12.66 EUR
 currency: EUR
 price: 12.66

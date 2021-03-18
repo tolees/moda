@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVRD2FC-es Pepe Jeans Golders Camiseta Naranja Sundown 166 X-Small...'
 sku: 'B07VVRD2FC-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

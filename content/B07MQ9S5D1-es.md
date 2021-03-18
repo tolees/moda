@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MQ9S5D1-es GEOX J CASEY GIRL WPF B BLACK Girls Boots rain size 28 EU'
 sku: 'B07MQ9S5D1-es'
-tags: [ 'geox', ]
 actualPrice: 36.02 EUR
 currency: EUR
 price: 36.02

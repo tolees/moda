@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CWWRD4Z-es Tvird Guantes para Barbacoa Guantes para Horno Resistencia...'
 sku: 'B07CWWRD4Z-es'
-tags: [ 'guantes', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

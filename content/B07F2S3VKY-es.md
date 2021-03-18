@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2S3VKY-es Helly Hansen Crew Jacket Chaqueta Hombre Cherry Tomato XXL'
 sku: 'B07F2S3VKY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 45.02 EUR
 currency: EUR
 price: 45.02

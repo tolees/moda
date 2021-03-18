@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPCN7WK-es Crocs Baya Clog Zuecos Unisex Niños Rosa Neon Magenta 6l0...'
 sku: 'B07CPCN7WK-es'
-tags: [ 'zuecos', ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D2JJ7Q4-es Levi s Innovation Super Skinny Vaqueros Negro Black Galaxy...'
 sku: 'B07D2JJ7Q4-es'
-tags: [ 'vaqueros', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

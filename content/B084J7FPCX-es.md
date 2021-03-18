@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084J7FPCX-es Levi s Logo All-over Print Men s Boxer Briefs Giftbox 3...'
 sku: 'B084J7FPCX-es'
-tags: [ 'boxer', ]
 actualPrice: 27.36 EUR
 currency: EUR
 price: 27.36

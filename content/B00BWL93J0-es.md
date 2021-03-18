@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BWL93J0-es Superga 2750-Lamew S001820 - Zapatos de lona para mujer...'
 sku: 'B00BWL93J0-es'
-tags: [ 'zapatos', ]
 actualPrice: 47.05 EUR
 currency: EUR
 price: 47.05

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFL4JCJ-es HUGO Daple202 Sudadera Negro Negro 1 M para Hombre'
 sku: 'B07VFL4JCJ-es'
-tags: [ 'sudadera', ]
 actualPrice: 29.17 EUR
 currency: EUR
 price: 29.17

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WRL6PNK-es YOSICIL Disfraz Princesa Zapatos Frozen Elsa Zapatos de...'
 sku: 'B07WRL6PNK-es'
-tags: [ 'zapatos', ]
 actualPrice: 23.91 EUR
 currency: EUR
 price: 23.91

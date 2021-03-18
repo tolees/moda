@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0753GKP9L-es Myhozee Bolsos de Mujer Bolso Bandolera Mujer Bolso Lona...'
 sku: 'B0753GKP9L-es'
-tags: [ 'bolso', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

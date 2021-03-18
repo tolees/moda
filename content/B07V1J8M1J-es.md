@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1J8M1J-es BOSS Boxer Brief 2p Print Azul Navy 415 Medium Pack de 2...'
 sku: 'B07V1J8M1J-es'
-tags: [ 'boxer', ]
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBP3DXF-es Helly Hansen Urban Largo Parka Chaqueta De Invierno Hombre...'
 sku: 'B07LBP3DXF-es'
-tags: [ 'chaqueta','parka', ]
 actualPrice: 159.81 EUR
 currency: EUR
 price: 159.81

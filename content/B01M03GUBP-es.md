@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M03GUBP-es Furla - Stacy S Drawstring Bolso Mujer Negro Onyx 13x22x26...'
 sku: 'B01M03GUBP-es'
-tags: [ 'bolso', ]
 actualPrice: 145.94 EUR
 currency: EUR
 price: 145.94

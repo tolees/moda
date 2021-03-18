@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4P7KWT-es SAGUARO Hombre Mujer Barefoot Zapatillas de Trail Running...'
 sku: 'B07N4P7KWT-es'
-tags: [ 'zapatos', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

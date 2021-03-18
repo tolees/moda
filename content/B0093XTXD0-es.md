@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0093XTXD0-es Lacoste L1212 Camisa de Polo COSMIQUE 3XL para Hombre'
 sku: 'B0093XTXD0-es'
-tags: [ 'camisa', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

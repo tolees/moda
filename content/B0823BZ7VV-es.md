@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0823BZ7VV-es Jack & Jones Jeans Vaqueros Blue Washed 32W / 32L para Hombre'
 sku: 'B0823BZ7VV-es'
-tags: [ 'vaqueros', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

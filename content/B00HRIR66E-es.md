@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRIR66E-es Timberland - Patucos y casquillo para bebés Rosa 18.5'
 sku: 'B00HRIR66E-es'
-tags: [ 'timberland', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

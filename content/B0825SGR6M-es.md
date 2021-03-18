@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825SGR6M-es GEOX U PRJ 26 B MUD Men s Boots Desert size 43 EU'
 sku: 'B0825SGR6M-es'
-tags: [ 'geox', ]
 actualPrice: 40.28 EUR
 currency: EUR
 price: 40.28

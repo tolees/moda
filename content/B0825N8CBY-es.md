@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825N8CBY-es Quiksilver New Slang - Camiseta para Hombre Screen tee...'
 sku: 'B0825N8CBY-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

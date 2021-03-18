@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0088VPW2Y-es Red Dingo GmbH - Red Dingo Plain - Collar Perro Negro...'
 sku: 'B0088VPW2Y-es'
-tags: [ 'collar', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC673YW-es Nike M Nk Trophy Iv Jsy Ss Camiseta Jersey Hombre Rojo S'
 sku: 'B07WC673YW-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

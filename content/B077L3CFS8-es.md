@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077L3CFS8-es HonourSport Falda Pantalón con Polainas Falda de Deportes...'
 sku: 'B077L3CFS8-es'
-tags: [ 'falda','pantalón', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

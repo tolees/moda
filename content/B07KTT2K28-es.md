@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTT2K28-es anbiwangluo Zapatos de Lentejuelas de Niña Zapatos de...'
 sku: 'B07KTT2K28-es'
-tags: [ 'zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

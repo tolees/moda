@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4MM8LL-es Columbia Hombre Camiseta técnica de manga larga M...'
 sku: 'B07J4MM8LL-es'
-tags: [ 'camiseta', ]
 actualPrice: 36.97 EUR
 currency: EUR
 price: 36.97

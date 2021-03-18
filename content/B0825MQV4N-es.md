@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825MQV4N-es GEOX D PONTOISE F BLACK/DK GREY Women s Trainers Low-Top...'
 sku: 'B0825MQV4N-es'
-tags: [ 'geox', ]
 actualPrice: 48.03 EUR
 currency: EUR
 price: 48.03

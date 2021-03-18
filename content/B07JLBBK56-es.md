@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLBBK56-es Amazon Essentials - Chaqueta de uso diario para mujer...'
 sku: 'B07JLBBK56-es'
-tags: [ 'chaqueta', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

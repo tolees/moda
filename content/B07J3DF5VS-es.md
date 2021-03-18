@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3DF5VS-es Under Armour Men s CGI Fleece Glove Guantes Hombre Gris LG'
 sku: 'B07J3DF5VS-es'
-tags: [ 'guantes', ]
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

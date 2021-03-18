@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXVQQN9-es Desigual Bag Tekila Sunrise Loverty Bolso Plegable para...'
 sku: 'B07MXVQQN9-es'
-tags: [ 'bolso', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

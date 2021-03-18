@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SW8V6GN-es BINLUN Correas de reloj de resina Correas de reloj de...'
 sku: 'B08SW8V6GN-es'
-tags: [ 'moda', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

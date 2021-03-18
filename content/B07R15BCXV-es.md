@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R15BCXV-es Wrangler Ringer tee Camiseta Negro Black 100 Small para Mujer'
 sku: 'B07R15BCXV-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

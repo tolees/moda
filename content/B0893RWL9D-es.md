@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893RWL9D-es Quiksilver Storm Drop 5k - Parka Resistente Al Agua Para...'
 sku: 'B0893RWL9D-es'
-tags: [ 'parka', ]
 actualPrice: 106.38 EUR
 currency: EUR
 price: 106.38

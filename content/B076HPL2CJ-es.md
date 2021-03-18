@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HPL2CJ-es adidas CORE18 RN JKT Chaqueta Deportiva Hombre Negro...'
 sku: 'B076HPL2CJ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F2QCLTN-es Helly Hansen Crew Ligera Repelente Al Viento Y Al Agua...'
 sku: 'B07F2QCLTN-es'
-tags: [ 'chaqueta', ]
 actualPrice: 42.55 EUR
 currency: EUR
 price: 42.55

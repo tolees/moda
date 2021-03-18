@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9S9MLN-es PUMA Popcat 20 TS Sandalias deslizantes Unisex-Adulto Azul...'
 sku: 'B07S9S9MLN-es'
-tags: [ 'sandalias', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

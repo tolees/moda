@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M9V1QS2-es Only ONLAVA Faux Leather Biker OTW Noos Chaqueta Grün...'
 sku: 'B07M9V1QS2-es'
-tags: [ 'chaqueta', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLTV3QT-es Clarks Abigail Daisy Sandalias con Tira Vertical para...'
 sku: 'B07TLTV3QT-es'
-tags: [ 'sandalias', ]
 actualPrice: 18.78 EUR
 currency: EUR
 price: 18.78

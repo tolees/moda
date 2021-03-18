@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MH55TTN-es Lacoste Sport Bh8843 Chaqueta Azul Océano/Marine Bnb XX-...'
 sku: 'B07MH55TTN-es'
-tags: [ 'chaqueta', ]
 actualPrice: 72.74 EUR
 currency: EUR
 price: 72.74

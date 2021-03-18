@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P16FWGQ-es Superdry Retro Sport tee Camiseta Negro Black 02a M para...'
 sku: 'B07P16FWGQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

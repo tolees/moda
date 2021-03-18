@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004JBR1GW-es Ray-Ban Rb 3447 Gafas de sol Matte Gunmetal 50 para Hombre'
 sku: 'B004JBR1GW-es'
-tags: [ 'gafas', ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

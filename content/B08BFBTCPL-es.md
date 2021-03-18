@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BFBTCPL-es Guantes de cobre para artritis Duerer Los mejores guantes...'
 sku: 'B08BFBTCPL-es'
-tags: [ 'guantes', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLNG3GS-es Bolso de Mano con Bandolera Pepe Jeans Strike'
 sku: 'B07VLNG3GS-es'
-tags: [ 'bolso', ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

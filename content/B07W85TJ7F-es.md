@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W85TJ7F-es Springfield 3.T.Blusa Cruzada Bordado-C/96 Blusa Beige...'
 sku: 'B07W85TJ7F-es'
-tags: [ 'blusa', ]
 actualPrice: 8.12 EUR
 currency: EUR
 price: 8.12

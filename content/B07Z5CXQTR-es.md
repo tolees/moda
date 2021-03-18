@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5CXQTR-es G-STAR RAW Bristum Straight Short Sleeve Camisa Deep True...'
 sku: 'B07Z5CXQTR-es'
-tags: [ 'camisa', ]
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

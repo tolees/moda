@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TWTG764-es Wrangler Larston Jeans Vaqueros Mistral Green 36W / 34L...'
 sku: 'B07TWTG764-es'
-tags: [ 'vaqueros', ]
 actualPrice: 35.49 EUR
 currency: EUR
 price: 35.49

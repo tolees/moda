@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PFFDF-es GEOX U SNAKE.2 B ANTHRACITE Men s Trainers Low-Top...'
 sku: 'B0825PFFDF-es'
-tags: [ 'geox', ]
 actualPrice: 71.5 EUR
 currency: EUR
 price: 71.5

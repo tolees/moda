@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QRQ9W4-es FitFlop Iqushion Ergonomic Flip-Flops Chanclas para Mujer...'
 sku: 'B077QRQ9W4-es'
-tags: [ 'chanclas', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

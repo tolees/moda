@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FQQS6XC-es Clarks Un Voyageplain Zapatos de Cordones Derby Hombre...'
 sku: 'B07FQQS6XC-es'
-tags: [ 'zapatos', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

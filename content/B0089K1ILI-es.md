@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0089K1ILI-es Clarks Hamble Oak - Zapatos de Cordones de cuero Mujer...'
 sku: 'B0089K1ILI-es'
-tags: [ 'clarks','zapatos', ]
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

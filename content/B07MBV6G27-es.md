@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MBV6G27-es Columbia Tipton Peak Insulated Chaqueta De Esquí con...'
 sku: 'B07MBV6G27-es'
-tags: [ 'chaqueta', ]
 actualPrice: 76.27 EUR
 currency: EUR
 price: 76.27

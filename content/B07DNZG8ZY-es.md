@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DNZG8ZY-es Arena The One Gafas de Natación Unisex Adulto Gris...'
 sku: 'B07DNZG8ZY-es'
-tags: [ 'gafas', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

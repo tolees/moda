@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CG9CX5F-es oodji Ultra Mujer Blusa de Viscosa con Espalda Larga Azul...'
 sku: 'B07CG9CX5F-es'
-tags: [ 'blusa', ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NB12JD-es Trangoworld Awear Chaqueta Mujer Negro/Verde Ácido L'
 sku: 'B075NB12JD-es'
-tags: [ 'chaqueta', ]
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

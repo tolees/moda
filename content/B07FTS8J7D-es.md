@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FTS8J7D-es Lee Western Shirt Camisa Black 01 X-Large para Hombre'
 sku: 'B07FTS8J7D-es'
-tags: [ 'camisa', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

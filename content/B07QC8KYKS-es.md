@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QC8KYKS-es PUMA Ftblnxt Pro tee Camiseta de Manga Corta Hombre Gris...'
 sku: 'B07QC8KYKS-es'
-tags: [ 'camiseta', ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

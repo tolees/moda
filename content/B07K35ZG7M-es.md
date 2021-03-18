@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K35ZG7M-es BOSS Daruch Vestido Negro Black 001 Small para Mujer'
 sku: 'B07K35ZG7M-es'
-tags: [ 'vestido', ]
 actualPrice: 65.57 EUR
 currency: EUR
 price: 65.57

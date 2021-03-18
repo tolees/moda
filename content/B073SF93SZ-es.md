@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073SF93SZ-es HAWKERS Gafas de Sol Venm Hybrid Chrome para Hombre y...'
 sku: 'B073SF93SZ-es'
-tags: [ 'gafas', ]
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072LN5WX2-es Under Armour UA HG Armour Full Zip Sudadera cálida Mujer...'
 sku: 'B072LN5WX2-es'
-tags: [ 'sudadera', ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

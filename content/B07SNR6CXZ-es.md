@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNR6CXZ-es Burton Classic Mountain High Camiseta Hombre True Black XS'
 sku: 'B07SNR6CXZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

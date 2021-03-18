@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCKKDSY-es Pepe Jeans Hatch Vaqueros Blue Denim Z45 34W / 30L para...'
 sku: 'B06XCKKDSY-es'
-tags: [ 'vaqueros', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

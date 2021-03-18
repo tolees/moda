@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VC9H5Y8-es Pepe Jeans Lambert Bolso de Mano con Bandolera Rojo...'
 sku: 'B07VC9H5Y8-es'
-tags: [ 'bolso', ]
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

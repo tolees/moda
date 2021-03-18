@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MQJLTF3-es Geographical Norway Chaqueta de hombre BOKER ROJO talla M'
 sku: 'B08MQJLTF3-es'
-tags: [ 'chaqueta', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

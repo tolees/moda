@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HEXGGSU-es Crocs Classic Clog K Zuecos Unisex Niños Pepper 30/31 EU'
 sku: 'B01HEXGGSU-es'
-tags: [ 'zuecos', ]
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

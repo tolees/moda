@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PFB7DPZ-es Fenlern Zapatillas de Seguridad Hombre Impermeable Zapatos...'
 sku: 'B08PFB7DPZ-es'
-tags: [ 'zapatos', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

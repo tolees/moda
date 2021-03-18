@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWQLX6C-es Pepe Jeans Kai Pm402100 Chaqueta Dandelion 054 Small para...'
 sku: 'B07JWQLX6C-es'
-tags: [ 'chaqueta', ]
 actualPrice: 26.92 EUR
 currency: EUR
 price: 26.92

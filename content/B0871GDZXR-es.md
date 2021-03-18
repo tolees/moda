@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0871GDZXR-es Chllyuang Sneakers Hombre Zapatos Deportivos de Malla...'
 sku: 'B0871GDZXR-es'
-tags: [ 'moda','zapatos', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

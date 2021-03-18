@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K19ZH3W-es adidas ESTRO 19 JSY Camiseta de Manga Corta Niños White S'
 sku: 'B07K19ZH3W-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.43 EUR
 currency: EUR
 price: 10.43

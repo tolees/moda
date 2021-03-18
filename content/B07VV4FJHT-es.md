@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VV4FJHT-es PUMA Basic Boxers Boxer Azul Brillante 146/152 cm Pack de...'
 sku: 'B07VV4FJHT-es'
-tags: [ 'boxer', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

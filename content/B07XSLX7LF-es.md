@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XSLX7LF-es MAIITRIP - Zapatillas de Mula de Espuma viscoelástica para...'
 sku: 'B07XSLX7LF-es'
-tags: [ 'zapatos', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

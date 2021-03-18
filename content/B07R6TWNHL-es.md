@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R6TWNHL-es Columbia Columbia Lodge Chaqueta sudadera Hombre...'
 sku: 'B07R6TWNHL-es'
-tags: [ 'chaqueta','sudadera', ]
 actualPrice: 53.01 EUR
 currency: EUR
 price: 53.01

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825NXFB5-es GEOX U SNAKE.2 B BLACK Men s Trainers Low-Top Trainers...'
 sku: 'B0825NXFB5-es'
-tags: [ 'geox', ]
 actualPrice: 32.15 EUR
 currency: EUR
 price: 32.15

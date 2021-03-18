@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0814BBR3S-es Columbia Powder Lite Chaqueta para Hombre Naranja Negro...'
 sku: 'B0814BBR3S-es'
-tags: [ 'chaqueta', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

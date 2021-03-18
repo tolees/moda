@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXTMXFR-es Geox D ANNYTAH D Bailarinas para Mujer Beige Lt Grey C1010...'
 sku: 'B07SXTMXFR-es'
-tags: [ 'geox', ]
 actualPrice: 42.58 EUR
 currency: EUR
 price: 42.58

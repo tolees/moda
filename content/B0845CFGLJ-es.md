@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0845CFGLJ-es Tommy Hilfiger Dress SS Juego de Pijama Mid Grey Heather...'
 sku: 'B0845CFGLJ-es'
-tags: [ 'pijama', ]
 actualPrice: 25.35 EUR
 currency: EUR
 price: 25.35

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DJ34PJ2-es GEOX D JAYSEN A WHITE Women s Trainers Low-Top Trainers...'
 sku: 'B07DJ34PJ2-es'
-tags: [ 'geox', ]
 actualPrice: 65.39 EUR
 currency: EUR
 price: 65.39

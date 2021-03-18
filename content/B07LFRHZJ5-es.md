@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRHZJ5-es Geox D GLYNNA C Botines para Mujer Negro Black C9999 39.5 EU'
 sku: 'B07LFRHZJ5-es'
-tags: [ 'botines','geox', ]
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017INL3D4-es Happy Girls Chaqueta de Punto Niñas talla fabricante 152...'
 sku: 'B017INL3D4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 11.06 EUR
 currency: EUR
 price: 11.06

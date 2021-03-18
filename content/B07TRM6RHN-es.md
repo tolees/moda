@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TRM6RHN-es Levi s Orig Hm Vneck Camiseta Blue Dress Blues 0002...'
 sku: 'B07TRM6RHN-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.86 EUR
 currency: EUR
 price: 13.86

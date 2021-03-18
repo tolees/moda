@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PB1CQBL-es Bose Frames - Gafas de sol con altavoces Rondo color negro'
 sku: 'B07PB1CQBL-es'
-tags: [ 'gafas', ]
 actualPrice: 159.2 EUR
 currency: EUR
 price: 159.2

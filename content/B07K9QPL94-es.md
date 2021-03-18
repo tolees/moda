@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K9QPL94-es Crocs Classic Lined Clog K Zuecos Unisex niños Azul...'
 sku: 'B07K9QPL94-es'
-tags: [ 'zuecos', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

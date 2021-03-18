@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXKN5DW-es Tommy Hilfiger TJM Essential Jaspe tee Camiseta Rosa...'
 sku: 'B07VXKN5DW-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I0PYI1Y-es Jack & Jones Basic Tank Top - Camiseta de tirantes con...'
 sku: 'B00I0PYI1Y-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

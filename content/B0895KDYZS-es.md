@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0895KDYZS-es Roxy Epic Afternoon - Camiseta para Mujer Camiseta Mujer...'
 sku: 'B0895KDYZS-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.91 EUR
 currency: EUR
 price: 12.91

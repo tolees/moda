@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079V7T3GB-es Wrangler Greensboro Regular Jeans Vaqueros Negro Black...'
 sku: 'B079V7T3GB-es'
-tags: [ 'vaqueros', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

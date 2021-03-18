@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BNKV3LX-es NEWHEY Bolsa Mensajero Maletin Hombre Vintage Resistentes...'
 sku: 'B08BNKV3LX-es'
-tags: [ 'bolso', ]
 actualPrice: 32.18 EUR
 currency: EUR
 price: 32.18

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJ19N2F-es SIMYJOY Mujere Hip Pop Fans Sudaderas Rapper Llorar Niñas...'
 sku: 'B07CJ19N2F-es'
-tags: [ 'jersey', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

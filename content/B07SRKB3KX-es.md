@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRKB3KX-es Geox D Nydame D Zapatillas para Mujer Negro Black C9999 35 EU'
 sku: 'B07SRKB3KX-es'
-tags: [ 'geox', ]
 actualPrice: 56.96 EUR
 currency: EUR
 price: 56.96

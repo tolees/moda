@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKBW84L-es Skechers GO Walk 5 Sandalias con Punta Abierta para Hombre...'
 sku: 'B07XKBW84L-es'
-tags: [ 'sandalias', ]
 actualPrice: 36.27 EUR
 currency: EUR
 price: 36.27

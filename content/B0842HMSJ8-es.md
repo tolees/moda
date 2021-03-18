@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0842HMSJ8-es Tommy Hilfiger TJW Basic Hooded Down Jacket Chaqueta Rosa...'
 sku: 'B0842HMSJ8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

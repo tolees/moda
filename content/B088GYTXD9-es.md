@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088GYTXD9-es FANCYINN Mujeres Spaghetti Strap Summer Prom Vestidos...'
 sku: 'B088GYTXD9-es'
-tags: [ 'vestido', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

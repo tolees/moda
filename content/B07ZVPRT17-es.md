@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVPRT17-es Levi s New Original Crew Sudadera Dress Blues S para Hombre'
 sku: 'B07ZVPRT17-es'
-tags: [ 'sudadera', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

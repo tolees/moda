@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHYN9F8-es El Naturalista N5401 Dolce DOVELA Botines para Mujer Negro...'
 sku: 'B07CHYN9F8-es'
-tags: [ 'botines', ]
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

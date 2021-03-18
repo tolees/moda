@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019KKFRV2-es AUTOARK - Caja de cuero para 6 relojes caja de joyería y 3...'
 sku: 'B019KKFRV2-es'
-tags: [ 'gafas', ]
 actualPrice: 16.53 EUR
 currency: EUR
 price: 16.53

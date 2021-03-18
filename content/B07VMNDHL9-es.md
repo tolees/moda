@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMNDHL9-es Calvin Klein Braguita de Bikini Azul Maldives 3EK Talla...'
 sku: 'B07VMNDHL9-es'
-tags: [ 'bikini', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

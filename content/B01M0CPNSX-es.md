@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M0CPNSX-es Ray-Ban RB 3546 Gafas de sol Gold Top Brown 49 Unisex-Adulto'
 sku: 'B01M0CPNSX-es'
-tags: [ 'gafas', ]
 actualPrice: 81.0 EUR
 currency: EUR
 price: 81.0

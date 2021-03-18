@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071NTNDJ5-es Lacoste Sport TH0123 Camiseta Negro Noir Medium Talla del...'
 sku: 'B071NTNDJ5-es'
-tags: [ 'camiseta', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

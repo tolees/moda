@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDCJ1YC-es Desigual Wallet Rep Comunika Mini Zi Monedero para Mujer...'
 sku: 'B07NDCJ1YC-es'
-tags: [ 'monedero', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5HQTWZ-es Tom Tailor Denim Print Camiseta Azul Slate Blue/Green...'
 sku: 'B07V5HQTWZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 3.56 EUR
 currency: EUR
 price: 3.56

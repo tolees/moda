@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKFTNY1-es TOTTO Bolso Bayonne Bolso Bandolera 20 cm 20 litros...'
 sku: 'B07JKFTNY1-es'
-tags: [ 'bolso', ]
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

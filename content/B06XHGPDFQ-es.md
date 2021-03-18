@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XHGPDFQ-es Helly Hansen Lifa Crew camiseta de deporte interior con...'
 sku: 'B06XHGPDFQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

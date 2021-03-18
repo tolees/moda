@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWQG5BH-es Pepe Jeans Elizabeth Pl401677 Chaqueta Oyster 805 X-Large...'
 sku: 'B07JWQG5BH-es'
-tags: [ 'chaqueta', ]
 actualPrice: 60.2 EUR
 currency: EUR
 price: 60.2

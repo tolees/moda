@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S2S65RK-es Levi s 501 Crop T-Shirt Camisa Manga Larga Multicolour...'
 sku: 'B07S2S65RK-es'
-tags: [ 'camisa', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

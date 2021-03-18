@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002LTWLUK-es Lacoste L1212 Camiseta Polo Azul Ruisseau L Talla del...'
 sku: 'B002LTWLUK-es'
-tags: [ 'camiseta', ]
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

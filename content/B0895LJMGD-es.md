@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0895LJMGD-es DC Shoes Pocket - Camiseta - Hombre - S'
 sku: 'B0895LJMGD-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

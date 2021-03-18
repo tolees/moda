@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZD9DHT-es CIVO Reloj Negro Ultra Fino para Hombre Minimalista Moda...'
 sku: 'B078ZD9DHT-es'
-tags: [ 'moda', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

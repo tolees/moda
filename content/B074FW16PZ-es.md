@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FW16PZ-es Marca Amazon - find. Camiseta con Franjas para Hombre Rojo...'
 sku: 'B074FW16PZ-es'
-tags: [ '-','camiseta','find.', ]
 actualPrice: 4.76 EUR
 currency: EUR
 price: 4.76

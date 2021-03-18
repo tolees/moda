@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003LKLN02-es Kempa Pantalón Aspire Web Todo el año Unisex Color...'
 sku: 'B003LKLN02-es'
-tags: [ 'pantalón', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

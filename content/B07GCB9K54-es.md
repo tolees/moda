@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCB9K54-es AmzBarley Disfraz Princesa Vestido de Traje Niñas de...'
 sku: 'B07GCB9K54-es'
-tags: [ 'falda','vestido', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

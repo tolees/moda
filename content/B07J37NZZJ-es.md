@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J37NZZJ-es Under Armour Coldgear Armour Mock Camisa De Manga Larga...'
 sku: 'B07J37NZZJ-es'
-tags: [ 'camisa', ]
 actualPrice: 24.61 EUR
 currency: EUR
 price: 24.61

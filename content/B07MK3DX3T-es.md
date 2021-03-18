@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK3DX3T-es GANT The Original C-Neck Sweat Sudadera Azul Marine...'
 sku: 'B07MK3DX3T-es'
-tags: [ 'sudadera', ]
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

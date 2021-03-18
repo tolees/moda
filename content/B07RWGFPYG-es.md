@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWGFPYG-es Pepe Jeans Bera Chaqueta Negro Black 999 Small para Mujer'
 sku: 'B07RWGFPYG-es'
-tags: [ 'chaqueta', ]
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

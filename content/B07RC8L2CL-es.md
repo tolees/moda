@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RC8L2CL-es Columbia Challenger Chaqueta Sudadera Hombre Azul Dark...'
 sku: 'B07RC8L2CL-es'
-tags: [ 'chaqueta','sudadera', ]
 actualPrice: 39.06 EUR
 currency: EUR
 price: 39.06

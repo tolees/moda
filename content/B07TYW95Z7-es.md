@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYW95Z7-es Wrangler Bryson Vaqueros Skinny Negro Like A Champ 120 36W...'
 sku: 'B07TYW95Z7-es'
-tags: [ 'vaqueros', ]
 actualPrice: 46.35 EUR
 currency: EUR
 price: 46.35

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VVHVJF-es Crocs Crocband II Sandal PS K Sandalias Unisex Niños Rosa...'
 sku: 'B071VVHVJF-es'
-tags: [ 'sandalias', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4QCTJX-es Superdry Classic Trunk Triple Pack Bóxer Azul Cobalt...'
 sku: 'B07V4QCTJX-es'
-tags: [ 'bóxer', ]
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

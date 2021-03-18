@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079K3FWF3-es Napapijri Burgee Sweatshirt Sudadera Gris Med Grey Mel 160...'
 sku: 'B079K3FWF3-es'
-tags: [ 'sudadera', ]
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0838KLTHR-es Hurley M One&Only 2.0 Woven S/S Camisa Hombre Olive Grey L'
 sku: 'B0838KLTHR-es'
-tags: [ 'camisa', ]
 actualPrice: 28.85 EUR
 currency: EUR
 price: 28.85

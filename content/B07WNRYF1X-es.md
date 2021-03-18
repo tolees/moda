@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WNRYF1X-es Skechers TRESMEN HIRANO Sandalias con Punta Abierta Hombre...'
 sku: 'B07WNRYF1X-es'
-tags: [ 'sandalias', ]
 actualPrice: 28.72 EUR
 currency: EUR
 price: 28.72

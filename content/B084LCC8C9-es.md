@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084LCC8C9-es Pepe Jeans Vegan Bolso de Mano Marrón 24 5x15x6 cms Piel...'
 sku: 'B084LCC8C9-es'
-tags: [ 'bolso', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

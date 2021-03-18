@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078HC2HZ3-es REPLAY M4941d.000.80279a Camisa Blanco White 1 Medium para...'
 sku: 'B078HC2HZ3-es'
-tags: [ 'camisa', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

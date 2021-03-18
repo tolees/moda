@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQKHDLR-es Helly Hansen W Imperial Puffy Jacket Chaqueta Con Doble...'
 sku: 'B07SQKHDLR-es'
-tags: [ 'chaqueta', ]
 actualPrice: 131.26 EUR
 currency: EUR
 price: 131.26

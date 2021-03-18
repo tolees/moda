@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QW9SBM-es Lee Twin Pack Crew Camiseta Multicolor 2 Pack Mix Aikw XX-...'
 sku: 'B072QW9SBM-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

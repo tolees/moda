@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFW6HFV-es Helly Hansen W Daybreaker Chaqueta Mujer Navy S'
 sku: 'B07KFW6HFV-es'
-tags: [ 'chaqueta', ]
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

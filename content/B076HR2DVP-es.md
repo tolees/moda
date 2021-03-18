@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HR2DVP-es adidas CORE18 RN JKT Chaqueta Deportiva Hombre Negro...'
 sku: 'B076HR2DVP-es'
-tags: [ 'adidas','chaqueta', ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

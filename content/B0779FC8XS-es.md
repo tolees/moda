@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0779FC8XS-es Pepe Jeans Waldo Camiseta Blanco Optic White 802 16 años...'
 sku: 'B0779FC8XS-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

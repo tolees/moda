@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLN9CWC-es Levi s Graphic Set-In Neck Camiseta para Hombre Gris...'
 sku: 'B00VLN9CWC-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

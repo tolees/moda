@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MGD25V-es Marca Amazon - MERAKI Camiseta de Manga Corta de Corte...'
 sku: 'B079MGD25V-es'
-tags: [ 'camiseta','meraki', ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

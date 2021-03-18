@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQBTVXC-es JACK & JONES NOS Jjitom Jjoriginal Am 815 STS Vaqueros...'
 sku: 'B07JQBTVXC-es'
-tags: [ 'vaqueros', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

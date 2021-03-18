@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824HKYJ4-es Bolso para Hombre Bolso Bandolera Coronel Tapiocca Casual...'
 sku: 'B0824HKYJ4-es'
-tags: [ 'bolso','coronel tapiocca', ]
 actualPrice: 11.61 EUR
 currency: EUR
 price: 11.61

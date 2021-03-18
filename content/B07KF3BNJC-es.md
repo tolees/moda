@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF3BNJC-es Levi s Graphic Set-in Neck Camiseta para Hombre Blanco 501...'
 sku: 'B07KF3BNJC-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

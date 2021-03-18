@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L13XJ5Y-es Under Armour Rival Fleece Sportstyle LC Sleeve Graphic...'
 sku: 'B07L13XJ5Y-es'
-tags: [ 'sudadera', ]
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

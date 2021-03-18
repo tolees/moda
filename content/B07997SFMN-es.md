@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07997SFMN-es Marca Amazon - MERAKI Camisa de Vestir de Corte Recto...'
 sku: 'B07997SFMN-es'
-tags: [ 'camisa','meraki', ]
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

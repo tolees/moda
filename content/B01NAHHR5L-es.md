@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAHHR5L-es find. Blusa Camisera con Cintura Ajustable para Mujer Azul...'
 sku: 'B01NAHHR5L-es'
-tags: [ 'blusa', ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

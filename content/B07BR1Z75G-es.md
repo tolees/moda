@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BR1Z75G-es Skechers Delson-Antigo Zapatos de Cordones Oxford Hombre...'
 sku: 'B07BR1Z75G-es'
-tags: [ 'zapatos', ]
 actualPrice: 64.48 EUR
 currency: EUR
 price: 64.48

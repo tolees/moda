@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZXVTGC-es Only Onlnaiomi Hooded Jacket CC Otw Chaqueta Rojo Merlot...'
 sku: 'B07TZXVTGC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 15.56 EUR
 currency: EUR
 price: 15.56

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017WHIS98-es Pepe Jeans Soho Vaqueros Black 29W / 32L para Mujer'
 sku: 'B017WHIS98-es'
-tags: [ 'vaqueros', ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VXBNBFV-es adidas Adilette Shower Chanclas para Hombre Azul...'
 sku: 'B06VXBNBFV-es'
-tags: [ 'chanclas', ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

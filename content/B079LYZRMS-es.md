@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LYZRMS-es SIMYJOY Pareja Loro Dorado Pullover Savage Logang Paul...'
 sku: 'B079LYZRMS-es'
-tags: [ 'sudadera', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

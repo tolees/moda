@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082QSDKZT-es oodji Ultra Mujer Blusa con Cordones Decorativos y...'
 sku: 'B082QSDKZT-es'
-tags: [ 'blusa', ]
 actualPrice: 7.3 EUR
 currency: EUR
 price: 7.3

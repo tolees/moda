@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F21WFGR-es Timberland Union Wharf Derby Zapatillas Bajas Hombre Azul...'
 sku: 'B07F21WFGR-es'
-tags: [ 'timberland', ]
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084JZQ44Q-es Petit Bateau - Pantalón de bebé para niño...'
 sku: 'B084JZQ44Q-es'
-tags: [ 'pantalón', ]
 actualPrice: 15.76 EUR
 currency: EUR
 price: 15.76

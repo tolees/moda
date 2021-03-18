@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005UVVIPU-es NIKE Benassi JDI Chanclas Unisex Adulto Blanco White/Black...'
 sku: 'B005UVVIPU-es'
-tags: [ 'chanclas', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841CXD5Y-es Tommy Hilfiger TJM Essential Down Jacket Chaqueta Negro L...'
 sku: 'B0841CXD5Y-es'
-tags: [ 'chaqueta', ]
 actualPrice: 152.67 EUR
 currency: EUR
 price: 152.67

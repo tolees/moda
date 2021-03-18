@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWTXZ2G-es Geox D Sukie B Zapatillas para Mujer Gris Lt Grey C1010 36 EU'
 sku: 'B07SWTXZ2G-es'
-tags: [ 'geox', ]
 actualPrice: 43.67 EUR
 currency: EUR
 price: 43.67

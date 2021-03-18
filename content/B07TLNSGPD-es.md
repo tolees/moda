@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLNSGPD-es G-STAR RAW Earth Beetle Sudadera Gris Faded Balsam A983...'
 sku: 'B07TLNSGPD-es'
-tags: [ 'sudadera', ]
 actualPrice: 24.27 EUR
 currency: EUR
 price: 24.27

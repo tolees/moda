@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5GR27Z-es Levi s MT-Graphic Tees Camiseta SRT Serif Dress Blues XS...'
 sku: 'B07Z5GR27Z-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.13 EUR
 currency: EUR
 price: 12.13

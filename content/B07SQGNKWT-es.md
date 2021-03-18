@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQGNKWT-es Geox U Wells C Zapatillas para Hombre Gris Lt Grey C1010...'
 sku: 'B07SQGNKWT-es'
-tags: [ 'geox', ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N45HCHM-es United Colors of Benetton Basico 1 Man Vaqueros Straight...'
 sku: 'B07N45HCHM-es'
-tags: [ 'vaqueros', ]
 actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16

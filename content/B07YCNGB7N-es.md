@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCNGB7N-es Levi s Kids Lvg Ss Batwing Tee Camiseta Niñas'
 sku: 'B07YCNGB7N-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

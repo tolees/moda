@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M7WLBFW-es Wildfire Vine Hombre Transpirables Aire Libre y Deporte...'
 sku: 'B07M7WLBFW-es'
-tags: [ 'moda','zapatos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

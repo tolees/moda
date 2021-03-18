@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079BT3KN7-es Funda MacBook Pro 13"/MacBook Air 2018 Sleeve Antracita -...'
 sku: 'B079BT3KN7-es'
-tags: [ 'bolso', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

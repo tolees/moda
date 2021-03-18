@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B2RLW2L-es KAMLE - VR Gafas de Realidad Virtual Gafas vr Con Control...'
 sku: 'B07B2RLW2L-es'
-tags: [ 'gafas', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

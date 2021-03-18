@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3R66BH-es Mujer Vestido 1950 s Vintage Retro de Cóctel Fiesta...'
 sku: 'B07R3R66BH-es'
-tags: [ 'vestido', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

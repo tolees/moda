@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Q7EOVCQ-es Columbia Peakfreak Venture Mid Waterproof Omni-Heat...'
 sku: 'B00Q7EOVCQ-es'
-tags: [ 'zapatos', ]
 actualPrice: 70.64 EUR
 currency: EUR
 price: 70.64

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XN3L6K-es Under Armour Armour Fleece 1/2 Zip Camiseta De Manga Larga...'
 sku: 'B077XN3L6K-es'
-tags: [ 'camiseta', ]
 actualPrice: 36.67 EUR
 currency: EUR
 price: 36.67

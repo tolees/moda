@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CSF8S77-es Burton Durable Goods Sudadera Hombre Tandori XS'
 sku: 'B08CSF8S77-es'
-tags: [ 'sudadera', ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

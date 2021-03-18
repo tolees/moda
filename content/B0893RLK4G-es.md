@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893RLK4G-es Quiksilver Creators of Simplicity - Camiseta para Hombre...'
 sku: 'B0893RLK4G-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

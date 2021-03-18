@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3RMY9X-es Mujer Vestido Elegante Años 50 Vestido de Mujeres...'
 sku: 'B07R3RMY9X-es'
-tags: [ 'vestido', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9GSKV4-es Under Armour Storm Launch Chaqueta Mujer Negro...'
 sku: 'B07L9GSKV4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 27.64 EUR
 currency: EUR
 price: 27.64

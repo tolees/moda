@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCKBQ7L-es Slimerence Guantes médicos desechables de nitrilo sin...'
 sku: 'B07YCKBQ7L-es'
-tags: [ 'guantes', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

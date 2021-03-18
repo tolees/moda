@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N36DZSA-es Wrangler Texas Contrast Vaqueros Azul Vintage Tint 44W /...'
 sku: 'B01N36DZSA-es'
-tags: [ 'vaqueros', ]
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

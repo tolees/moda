@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AHOY9B4-es Prada 0PR17SS UE00A6 53 gafas de sol Marrón Spotted Brown...'
 sku: 'B01AHOY9B4-es'
-tags: [ 'gafas', ]
 actualPrice: 150.5 EUR
 currency: EUR
 price: 150.5

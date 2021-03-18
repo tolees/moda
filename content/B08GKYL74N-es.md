@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GKYL74N-es Mottise Sport Leggins Mujer Leggins Deportivos Mallas...'
 sku: 'B08GKYL74N-es'
-tags: [ 'leggins','pantalón', ]
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

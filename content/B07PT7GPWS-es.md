@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT7GPWS-es Marca Amazon - MERAKI Jersey Cuello Cremallera Hombre...'
 sku: 'B07PT7GPWS-es'
-tags: [ 'jersey','meraki', ]
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

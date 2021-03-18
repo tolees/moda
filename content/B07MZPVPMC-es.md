@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPVPMC-es Pepe Jeans Josephs Camiseta Grey Marl 933 XX-Large para...'
 sku: 'B07MZPVPMC-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

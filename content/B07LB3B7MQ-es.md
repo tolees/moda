@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LB3B7MQ-es Nike W Nk Miler Top SS Camiseta de Manga Corta Mujer Echo...'
 sku: 'B07LB3B7MQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

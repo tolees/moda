@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NX6DZBC-es Superdry Vintage Logo Pop Entry Hood Sudadera Azul Eclipse...'
 sku: 'B07NX6DZBC-es'
-tags: [ 'sudadera', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

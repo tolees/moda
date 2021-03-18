@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007VHBQ8-es Vileda Gr00683 - Guantes de goma'
 sku: 'B0007VHBQ8-es'
-tags: [ 'guantes', ]
 actualPrice: 4.07 EUR
 currency: EUR
 price: 4.07

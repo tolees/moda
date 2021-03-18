@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y2ZVTC1-es BONANGEL Calcetines de algodón peinado para hombre...'
 sku: 'B07Y2ZVTC1-es'
-tags: [ 'moda', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

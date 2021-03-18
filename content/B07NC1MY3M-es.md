@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC1MY3M-es Dorina Casablanca Maillot De Bain Braguita de Bikini Negro...'
 sku: 'B07NC1MY3M-es'
-tags: [ 'bikini', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

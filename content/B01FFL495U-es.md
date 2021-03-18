@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFL495U-es Under Armour HeatGear ARMOUR 2.0 COMP Shorts Pantalón...'
 sku: 'B01FFL495U-es'
-tags: [ 'pantalón','under armour', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

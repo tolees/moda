@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075X42SCX-es Marca Amazon - find. Vaqueros Rectos de Tiro Alto...'
 sku: 'B075X42SCX-es'
-tags: [ '-','find.','vaqueros', ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

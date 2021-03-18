@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFXBBQM-es PUMA ESS Hoody FL Big Logo Sudadera Hombre Dark Gray...'
 sku: 'B07XFXBBQM-es'
-tags: [ 'sudadera', ]
 actualPrice: 29.37 EUR
 currency: EUR
 price: 29.37

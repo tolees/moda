@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VRY9RQM-es G-STAR RAW Hybrid Fyx Biker Tracktop Jacke Chaqueta Negro...'
 sku: 'B07VRY9RQM-es'
-tags: [ 'chaqueta', ]
 actualPrice: 69.97 EUR
 currency: EUR
 price: 69.97

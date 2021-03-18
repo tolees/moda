@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDJ564V-es edc by Esprit 099cc2g022 Chaqueta Gris Dark Grey 020 XX-...'
 sku: 'B07VDJ564V-es'
-tags: [ 'chaqueta', ]
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

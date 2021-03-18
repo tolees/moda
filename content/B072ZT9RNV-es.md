@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072ZT9RNV-es Timormode Vestido Cóctel Corto Vintage 50s Cuello Halter...'
 sku: 'B072ZT9RNV-es'
-tags: [ 'vestido', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

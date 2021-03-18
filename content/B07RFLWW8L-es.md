@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFLWW8L-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva Azul Blue...'
 sku: 'B07RFLWW8L-es'
-tags: [ 'chaqueta', ]
 actualPrice: 91.34 EUR
 currency: EUR
 price: 91.34

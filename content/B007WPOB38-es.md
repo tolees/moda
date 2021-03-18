@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007WPOB38-es Havaianas Brasil Logo Chanclas Unisex Adulto Azul Marine...'
 sku: 'B007WPOB38-es'
-tags: [ 'chanclas', ]
 actualPrice: 18.03 EUR
 currency: EUR
 price: 18.03

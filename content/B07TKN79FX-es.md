@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKN79FX-es Clarks Tri Sporty Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TKN79FX-es'
-tags: [ 'sandalias', ]
 actualPrice: 45.71 EUR
 currency: EUR
 price: 45.71

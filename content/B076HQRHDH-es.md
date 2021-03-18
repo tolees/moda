@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HQRHDH-es adidas Core18 PES Jkt Chaqueta Hombre Negro Black/White XL'
 sku: 'B076HQRHDH-es'
-tags: [ 'adidas','chaqueta', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

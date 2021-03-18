@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0795BNK5T-es PUMA Liga Jersey Camiseta Hombre Blanco White/Red M'
 sku: 'B0795BNK5T-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

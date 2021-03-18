@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2QFBY4-es Helly Hansen Crew Camisa Polo Unisex Adulto Alert Red M'
 sku: 'B07F2QFBY4-es'
-tags: [ 'camisa', ]
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

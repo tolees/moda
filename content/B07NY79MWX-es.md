@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY79MWX-es Superdry Ashley Everest Parka Gris Grey 05q 42 Talla del...'
 sku: 'B07NY79MWX-es'
-tags: [ 'parka', ]
 actualPrice: 59.86 EUR
 currency: EUR
 price: 59.86

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081HFM8PZ-es Levi s Relaxed Graphic tee Camiseta Grey 90 s Serif Logo...'
 sku: 'B081HFM8PZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

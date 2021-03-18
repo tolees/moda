@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NWW6RS5-es Joma Cairo II Sudadera Hombre Melange L'
 sku: 'B07NWW6RS5-es'
-tags: [ 'sudadera', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

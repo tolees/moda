@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXGBLC-es Crocs Classic Clog K Zuecos Unisex Niños Negro Black 30/31 EU'
 sku: 'B01HEXGBLC-es'
-tags: [ 'zuecos', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

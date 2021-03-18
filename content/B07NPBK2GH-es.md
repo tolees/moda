@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPBK2GH-es Nike W Nk Miler Top Vneck Camiseta de Manga Corta Mujer...'
 sku: 'B07NPBK2GH-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

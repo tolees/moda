@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFYTVLH-es Geox D Avery C Zapatillas para Mujer Negro Black C9999 38 EU'
 sku: 'B07LFYTVLH-es'
-tags: [ 'geox', ]
 actualPrice: 50.76 EUR
 currency: EUR
 price: 50.76

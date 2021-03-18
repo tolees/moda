@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL6Z8G-es G-STAR RAW Rovic Wrap Cargo Falda Gris Asfalt B436-995 XXS...'
 sku: 'B07NDL6Z8G-es'
-tags: [ 'falda', ]
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

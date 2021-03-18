@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TNHLB7-es adidas FL TRG Hzip Camiseta de Manga Larga Hombre Black M'
 sku: 'B081TNHLB7-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.88 EUR
 currency: EUR
 price: 19.88

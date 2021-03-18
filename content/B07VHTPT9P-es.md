@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHTPT9P-es Desigual Vest Charlotte Vestido Blanco Blanco 1000 Small...'
 sku: 'B07VHTPT9P-es'
-tags: [ 'vestido', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

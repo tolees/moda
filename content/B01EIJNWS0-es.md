@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EIJNWS0-es Rieker Hombre Botines B1340 de Caballero Botas Chukka...'
 sku: 'B01EIJNWS0-es'
-tags: [ 'botines', ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

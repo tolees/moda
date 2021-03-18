@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LMKL85S-es Quiksilver Carver Suede M Sndl Sandalias con Plataforma...'
 sku: 'B00LMKL85S-es'
-tags: [ 'sandalias', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

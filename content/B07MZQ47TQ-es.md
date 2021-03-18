@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQ47TQ-es Pepe Jeans Josephs Camiseta Grey Marl 933 Large para Hombre'
 sku: 'B07MZQ47TQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

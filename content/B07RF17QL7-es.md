@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RF17QL7-es G-STAR RAW 3301 Mid Waist Skinny Vaqueros Faded Indigo...'
 sku: 'B07RF17QL7-es'
-tags: [ 'vaqueros', ]
 actualPrice: 40.83 EUR
 currency: EUR
 price: 40.83

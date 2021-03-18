@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082BBWTD3-es Geographical Norway Parka Hombre ALCALINE 041 rol 7 + BS'
 sku: 'B082BBWTD3-es'
-tags: [ 'parka', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

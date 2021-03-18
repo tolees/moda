@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQZ6R2-es Adidas CORE18 Hoody Y Sudadera con Capucha Unisex Niños...'
 sku: 'B076HQZ6R2-es'
-tags: [ 'sudadera', ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFY16KZ-es PUMA Explode XT 3 Zapatos de Futsal para Hombre White-Grey...'
 sku: 'B07KFY16KZ-es'
-tags: [ 'zapatos', ]
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

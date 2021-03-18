@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3J3TVJ-es Only Onlcarrie Bonded Coat CC Otw Abrigo Beige Nomad...'
 sku: 'B07S3J3TVJ-es'
-tags: [ 'abrigo', ]
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42

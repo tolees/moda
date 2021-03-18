@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KSFMK53-es Columbia Saturday Trail Camisa elástica de Manga Larga...'
 sku: 'B07KSFMK53-es'
-tags: [ 'camisa', ]
 actualPrice: 28.69 EUR
 currency: EUR
 price: 28.69

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHDS6BP-es Helly Hansen Verglas Down Insulator Chaqueta de Down Mujer...'
 sku: 'B06XHDS6BP-es'
-tags: [ 'chaqueta', ]
 actualPrice: 125.56 EUR
 currency: EUR
 price: 125.56

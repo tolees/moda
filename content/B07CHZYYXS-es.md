@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CHZYYXS-es Levi s SS Original Hm tee Camiseta Cotton + Patch Black L...'
 sku: 'B07CHZYYXS-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMF8CZH-es katliu - Zapatillas de Estar por Casa Mujer Hombre...'
 sku: 'B07VMF8CZH-es'
-tags: [ 'zapatos', ]
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

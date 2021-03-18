@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014Z6SQRS-es G-STAR RAW Revend Skinny Vaqueros 3D Dark Aged 7101 28W /...'
 sku: 'B014Z6SQRS-es'
-tags: [ 'vaqueros', ]
 actualPrice: 27.24 EUR
 currency: EUR
 price: 27.24

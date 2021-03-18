@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WNRWWBW-es Skechers Sargo Reyon Chanclas Hombre Negro Black Canvas...'
 sku: 'B07WNRWWBW-es'
-tags: [ 'chanclas', ]
 actualPrice: 27.41 EUR
 currency: EUR
 price: 27.41

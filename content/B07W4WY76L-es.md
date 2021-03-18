@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4WY76L-es Springfield Pinpoint Print Buttondown-C/12 Camisa Casual...'
 sku: 'B07W4WY76L-es'
-tags: [ 'camisa', ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

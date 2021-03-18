@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ZML8E4-es Helly Hansen Crew Midlayer Chaqueta deportiva impermeable...'
 sku: 'B006ZML8E4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 81.67 EUR
 currency: EUR
 price: 81.67

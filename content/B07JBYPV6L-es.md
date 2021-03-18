@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JBYPV6L-es Columbia Powder Lite Jacket Chaqueta Hombre Azul...'
 sku: 'B07JBYPV6L-es'
-tags: [ 'chaqueta', ]
 actualPrice: 65.98 EUR
 currency: EUR
 price: 65.98

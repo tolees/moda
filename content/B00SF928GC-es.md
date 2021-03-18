@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SF928GC-es G-STAR RAW ARC 3D Slim Jeans Vaqueros Medium Aged 6090-071...'
 sku: 'B00SF928GC-es'
-tags: [ 'vaqueros', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

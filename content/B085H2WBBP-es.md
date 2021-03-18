@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085H2WBBP-es Tuc Tuc Vestido Sarga The Edge Verde 4A para Niñas'
 sku: 'B085H2WBBP-es'
-tags: [ 'tuc tuc','vestido', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRGMM1B-es ALLROS Gafas de Esquí con Lente Magnética sin Marco...'
 sku: 'B07XRGMM1B-es'
-tags: [ 'gafas', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

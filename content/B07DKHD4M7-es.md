@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKHD4M7-es Kipling Gabbie Bolso bandolera para Mujer Gris Active Grey...'
 sku: 'B07DKHD4M7-es'
-tags: [ 'bolso', ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

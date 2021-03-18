@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086P4T1HW-es PUMA Ftblnxt Pro Jacket Sudadera Hombre Black/Shocking...'
 sku: 'B086P4T1HW-es'
-tags: [ 'sudadera', ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

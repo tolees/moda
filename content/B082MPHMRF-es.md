@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082MPHMRF-es Geographical Norway Parka Hombre Boomerang Camo'
 sku: 'B082MPHMRF-es'
-tags: [ 'parka', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

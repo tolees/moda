@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0823B6NHY-es Levi s SS Original Hm tee Camiseta Colony Blue M para Hombre'
 sku: 'B0823B6NHY-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

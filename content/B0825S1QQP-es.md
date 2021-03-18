@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825S1QQP-es GEOX D NEW ANNYA MID C BLACK Women s Boots Classic size 36 EU'
 sku: 'B0825S1QQP-es'
-tags: [ 'geox', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

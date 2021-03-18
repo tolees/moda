@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXDWFGM-es Levi s Relaxed Graphic Hoodie Sudadera Gris Boxtab Pop...'
 sku: 'B07TXDWFGM-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.67 EUR
 currency: EUR
 price: 27.67

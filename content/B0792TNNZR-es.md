@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0792TNNZR-es Geox J RIDDOCK Boy I School Uniform Shoe Negro Black C9999...'
 sku: 'B0792TNNZR-es'
-tags: [ 'geox', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

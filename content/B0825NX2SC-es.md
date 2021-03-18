@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NX2SC-es GEOX U DAMIANO D BLACK Men s Trainers Low-Top Trainers...'
 sku: 'B0825NX2SC-es'
-tags: [ 'geox', ]
 actualPrice: 60.05 EUR
 currency: EUR
 price: 60.05

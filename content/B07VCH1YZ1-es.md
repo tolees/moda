@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCH1YZ1-es HUGO Ernie Camisa de Oficina Beige Dark Beige 251 41 para...'
 sku: 'B07VCH1YZ1-es'
-tags: [ 'camisa', ]
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

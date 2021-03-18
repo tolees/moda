@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTJGS9A-es Clarks Tilden Plain Zapatos Derby para Hombre Negro Black...'
 sku: 'B00TTJGS9A-es'
-tags: [ 'zapatos', ]
 actualPrice: 50.33 EUR
 currency: EUR
 price: 50.33

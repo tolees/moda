@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG1WZWP-es Geox U Devan B Mocasines para Hombre Marrón BROWNCOTTO...'
 sku: 'B07LG1WZWP-es'
-tags: [ 'geox', ]
 actualPrice: 30.52 EUR
 currency: EUR
 price: 30.52

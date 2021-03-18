@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EFRXGL4-es Helly Hansen Daybreaker Fleece Jacket Chaqueta con forro...'
 sku: 'B00EFRXGL4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 41.2 EUR
 currency: EUR
 price: 41.2

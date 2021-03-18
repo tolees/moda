@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VYVC7DD-es Tommy Hilfiger - Tommy Jeans Mujer Tjw Chest Logo...'
 sku: 'B07VYVC7DD-es'
-tags: [ 'chaqueta', ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

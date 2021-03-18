@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B4HC7Y5-es Timberland Seabury Classic 2 Eye Toddler Náuticos Unisex-...'
 sku: 'B07B4HC7Y5-es'
-tags: [ 'timberland', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

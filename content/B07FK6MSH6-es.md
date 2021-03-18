@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FK6MSH6-es Lee Luke Vaqueros Grey Used SF 33W / 36L para Hombre'
 sku: 'B07FK6MSH6-es'
-tags: [ 'vaqueros', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

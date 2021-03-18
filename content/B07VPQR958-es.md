@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPQR958-es Calvin Klein Braguita de Bikini Gris Elementary Stars Grey...'
 sku: 'B07VPQR958-es'
-tags: [ 'bikini', ]
 actualPrice: 5.02 EUR
 currency: EUR
 price: 5.02

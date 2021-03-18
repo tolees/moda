@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082V5NPD9-es Canadian Peak Chaqueta'
 sku: 'B082V5NPD9-es'
-tags: [ 'chaqueta', ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

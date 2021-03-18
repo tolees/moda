@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5JQQH7-es QUIZ Contrast Midi Dress Vestido Fiesta Mujer Negro Black...'
 sku: 'B07V5JQQH7-es'
-tags: [ 'vestido', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

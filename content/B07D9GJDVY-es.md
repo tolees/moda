@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9GJDVY-es Tommy Hilfiger Trunk Bóxer Azul Navy Blazer 416 Large para...'
 sku: 'B07D9GJDVY-es'
-tags: [ 'bóxer', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

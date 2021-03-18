@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWXSNND-es G-STAR RAW 3301 Mid Waist Boyfriend Colored Vaqueros Azul...'
 sku: 'B07JWXSNND-es'
-tags: [ 'vaqueros', ]
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

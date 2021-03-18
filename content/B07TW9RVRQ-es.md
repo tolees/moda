@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TW9RVRQ-es Levi s LS Original Hm tee Camiseta Gris Medium Grey...'
 sku: 'B07TW9RVRQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

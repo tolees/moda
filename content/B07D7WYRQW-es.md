@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D7WYRQW-es Levi s 512 Slim Taper Vaqueros Rock Cod 33W / 36L para Hombre'
 sku: 'B07D7WYRQW-es'
-tags: [ 'vaqueros', ]
 actualPrice: 44.86 EUR
 currency: EUR
 price: 44.86

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4Y2RX6-es Levi s 511 Slim Fit Vaqueros Durian Super Tint Overt 3953...'
 sku: 'B07S4Y2RX6-es'
-tags: [ 'vaqueros', ]
 actualPrice: 48.49 EUR
 currency: EUR
 price: 48.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPXTC9S-es adidas Essentials Linear Tk Camiseta de Tirantes Mujer...'
 sku: 'B07KPXTC9S-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

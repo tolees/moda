@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K73B9ZC-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Rajah Adv...'
 sku: 'B07K73B9ZC-es'
-tags: [ 'vaqueros', ]
 actualPrice: 39.87 EUR
 currency: EUR
 price: 39.87

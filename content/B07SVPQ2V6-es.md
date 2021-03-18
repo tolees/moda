@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVPQ2V6-es Geox U Renan B Zapatillas para Hombre Azul Navy C4064 46 EU'
 sku: 'B07SVPQ2V6-es'
-tags: [ 'geox', ]
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

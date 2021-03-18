@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2XWC1K-es Peppa Pig Camiseta de Manga Corta Paquete de 2 para niñas...'
 sku: 'B07X2XWC1K-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

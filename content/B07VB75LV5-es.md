@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VB75LV5-es Napapijri Decatur V 2 Camiseta de Manga Larga Rojo Bright...'
 sku: 'B07VB75LV5-es'
-tags: [ 'camiseta', ]
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

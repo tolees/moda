@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073F6QQNM-es LOSMILE Hombres Lona Bolso de Bandolera La Bolsa de...'
 sku: 'B073F6QQNM-es'
-tags: [ 'bolso', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

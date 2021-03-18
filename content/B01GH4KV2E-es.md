@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GH4KV2E-es Bolso organizador para coche animal gato pájaro ratón de...'
 sku: 'B01GH4KV2E-es'
-tags: [ 'bolso', ]
 actualPrice: 31.91 EUR
 currency: EUR
 price: 31.91

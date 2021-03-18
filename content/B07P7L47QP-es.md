@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7L47QP-es Superdry Felicity Tie Crop Bikini Top Parte de Arriba...'
 sku: 'B07P7L47QP-es'
-tags: [ 'bikini', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

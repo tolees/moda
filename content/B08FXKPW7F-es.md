@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FXKPW7F-es Jack & Jones JORHARRY Sweat Hood 2-Pack Sudadera con...'
 sku: 'B08FXKPW7F-es'
-tags: [ 'sudadera', ]
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

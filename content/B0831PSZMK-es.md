@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0831PSZMK-es Canadian Peak Sudadera DE Mujer GYRELLE Rosa Llamativo 02'
 sku: 'B0831PSZMK-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

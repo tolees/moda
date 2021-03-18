@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084QCS8WM-es WenVen Chaqueta Cuello Alto Sahariana Rompevientos...'
 sku: 'B084QCS8WM-es'
-tags: [ 'chaqueta', ]
 actualPrice: 51.01 EUR
 currency: EUR
 price: 51.01

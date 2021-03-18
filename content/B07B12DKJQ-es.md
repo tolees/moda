@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B12DKJQ-es FIND Vestido de Flores con Volantes Mujer Rosa Pink Large'
 sku: 'B07B12DKJQ-es'
-tags: [ 'vestido', ]
 actualPrice: 36 EUR
 currency: EUR
 price: 36

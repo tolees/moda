@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VTMKRWZ-es Burton Classic Mountain High Camiseta Hombre Dress Blue XS'
 sku: 'B07VTMKRWZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08483QYWN-es Pepe Jeans Dana Camiseta Negro 999 Small para Mujer'
 sku: 'B08483QYWN-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.52 EUR
 currency: EUR
 price: 15.52

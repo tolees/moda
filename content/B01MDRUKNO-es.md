@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MDRUKNO-es Lacoste Sport SH7609 Sudadera con Capucha Gris Argent...'
 sku: 'B01MDRUKNO-es'
-tags: [ 'sudadera', ]
 actualPrice: 76.93 EUR
 currency: EUR
 price: 76.93

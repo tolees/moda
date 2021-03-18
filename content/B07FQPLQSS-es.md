@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FQPLQSS-es Clarks Un Rio Lace Zapatos de Cordones Derby Mujer Blanco...'
 sku: 'B07FQPLQSS-es'
-tags: [ 'zapatos', ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

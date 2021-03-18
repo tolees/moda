@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V4UVACW-es ONLY Onlava Pu Biker Otw Noos - Chaqueta para mujer color...'
 sku: 'B00V4UVACW-es'
-tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','chaqueta','only', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

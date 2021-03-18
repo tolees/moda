@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNTTTTP-es Lee Button Down Camisa Casual Verde Utility Green NG Large...'
 sku: 'B07VNTTTTP-es'
-tags: [ 'camisa', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

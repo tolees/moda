@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B4SQPVQ-es URFEDA Cuero Vistoso Billetera Carcasa para LG K8 2018...'
 sku: 'B08B4SQPVQ-es'
-tags: [ 'billetera', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

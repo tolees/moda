@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015KSUOZC-es NNJXD Vestido de Fiesta de Princesa con Encaje de Flor de...'
 sku: 'B015KSUOZC-es'
-tags: [ 'vestido', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

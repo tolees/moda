@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPJMRW8-es Levi s Kids Lvg Key Item Logo Crew Sudadera Red / White...'
 sku: 'B07ZPJMRW8-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

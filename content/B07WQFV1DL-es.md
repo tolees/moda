@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQFV1DL-es Kuako Zapatillas de Estar por casa con Forro de vellón...'
 sku: 'B07WQFV1DL-es'
-tags: [ 'zapatos', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

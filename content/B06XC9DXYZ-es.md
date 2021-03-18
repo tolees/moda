@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XC9DXYZ-es Jack & Jones Jjiglenn Jjoriginal Jos 788 50sps Noos...'
 sku: 'B06XC9DXYZ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

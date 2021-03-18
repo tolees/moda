@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S2T2K9N-es Esprit 999ee1f808s Blusa Blanco White 100 38 Talla del...'
 sku: 'B07S2T2K9N-es'
-tags: [ 'blusa', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

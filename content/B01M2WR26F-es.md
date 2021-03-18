@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M2WR26F-es Helly Hansen W Crew Hooded Midlayer Chaqueta Impermeable...'
 sku: 'B01M2WR26F-es'
-tags: [ 'Abrigos para mujer','Bikinis y Braguitas para mujer','Blusas y camisas para mujer','Braguitas y culottes para mujer','Calcetines hasta la pantorrilla para hombre','Calcetines para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, tops y blusas para mujer','Chaquetas para mujer','Jerséis, cárdigans y sudaderas para hombre','Lencería y ropa interior para mujer','Ropa','Ropa de abrigo para mujer','Ropa de dormir, lencería y ropa interior para mujer','Ropa para hombre','Ropa para mujer','Sudaderas con capucha para hombre','Sudaderas para hombre','Vestidos casual para mujer','Vestidos para mujer','Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chaqueta','helly hansen', ]
 actualPrice: 127.99 EUR
 currency: EUR
 price: 127.99

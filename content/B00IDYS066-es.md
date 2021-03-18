@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IDYS066-es Case Logic DSS101 - Bolso para cámara'
 sku: 'B00IDYS066-es'
-tags: [ 'bolso', ]
 actualPrice: 41.29 EUR
 currency: EUR
 price: 41.29

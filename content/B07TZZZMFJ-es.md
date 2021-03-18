@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZZZMFJ-es Lee Elly Vaqueros Negro Black Rinse 47 W24/L31 para Mujer'
 sku: 'B07TZZZMFJ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 32.64 EUR
 currency: EUR
 price: 32.64

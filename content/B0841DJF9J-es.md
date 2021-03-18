@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841DJF9J-es Tommy Hilfiger TJM Layered Graphic tee Camisa Azul...'
 sku: 'B0841DJF9J-es'
-tags: [ 'camisa', ]
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

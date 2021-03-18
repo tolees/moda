@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VLP86MJ-es Lee Daren Zip Fly Vaqueros Verde Lichen Green 82 31W / 34L...'
 sku: 'B07VLP86MJ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

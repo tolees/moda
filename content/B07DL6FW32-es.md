@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DL6FW32-es New Balance Camiseta Accelerate SS para Mujer Mujer...'
 sku: 'B07DL6FW32-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.34 EUR
 currency: EUR
 price: 14.34

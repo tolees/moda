@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085DXXD2W-es DKNY Pantalón Corto de Punto Milano Joven Negro 14AÑOS'
 sku: 'B085DXXD2W-es'
-tags: [ 'pantalón', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

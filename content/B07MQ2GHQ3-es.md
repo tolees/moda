@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ2GHQ3-es Clarks Gilman Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MQ2GHQ3-es'
-tags: [ 'zapatos', ]
 actualPrice: 28.16 EUR
 currency: EUR
 price: 28.16

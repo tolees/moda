@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017BH74GW-es Bezzee-Pro Gafas de Natación para Adultos - Lentes Espejo...'
 sku: 'B017BH74GW-es'
-tags: [ 'gafas', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

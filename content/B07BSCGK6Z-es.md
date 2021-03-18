@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BSCGK6Z-es gracosy Zapatos de Cuero de tacón bajo de Mujer Merceditas...'
 sku: 'B07BSCGK6Z-es'
-tags: [ 'zapatos', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

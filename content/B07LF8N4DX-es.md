@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF8N4DX-es Levi s 502 Regular Taper Vaqueros Azul Creeping Thyme ADV...'
 sku: 'B07LF8N4DX-es'
-tags: [ 'vaqueros', ]
 actualPrice: 32.83 EUR
 currency: EUR
 price: 32.83

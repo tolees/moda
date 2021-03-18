@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNTTKF4-es Lee Zip THROUH Hoodie Sudadera con Capucha Grau Grey Mele...'
 sku: 'B07VNTTKF4-es'
-tags: [ 'sudadera', ]
 actualPrice: 37.85 EUR
 currency: EUR
 price: 37.85

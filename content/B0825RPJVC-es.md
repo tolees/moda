@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RPJVC-es GEOX D FELICITY G BROWN Women s Boots Chelsea size 36 EU'
 sku: 'B0825RPJVC-es'
-tags: [ 'geox', ]
 actualPrice: 37.72 EUR
 currency: EUR
 price: 37.72

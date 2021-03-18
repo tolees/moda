@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081B5ZXY6-es Columbia Silver Ridge 2.0 Camisa de Manga Corta Hombre...'
 sku: 'B081B5ZXY6-es'
-tags: [ 'camisa', ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

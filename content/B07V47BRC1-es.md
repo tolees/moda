@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V47BRC1-es Coronel Tapiocca Hunter Bolso pequeño Hombres Negro...'
 sku: 'B07V47BRC1-es'
-tags: [ 'bolso', ]
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

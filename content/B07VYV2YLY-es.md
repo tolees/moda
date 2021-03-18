@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYV2YLY-es Superdry Hombre Chaqueta de chándal Off-Piste Ultravioleta L'
 sku: 'B07VYV2YLY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

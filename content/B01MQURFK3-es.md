@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQURFK3-es Pendientes de Moda Rectángulo Largo Azul Gris y Púrpura...'
 sku: 'B01MQURFK3-es'
-tags: [ 'moda', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AXYMKDC-es Joma Nobel Pantalón de equipación Azul celeste L'
 sku: 'B01AXYMKDC-es'
-tags: [ 'pantalón', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

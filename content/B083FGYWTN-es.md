@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FGYWTN-es Lacoste L1212 Camisa de Polo RECIF XS para Hombre'
 sku: 'B083FGYWTN-es'
-tags: [ 'camisa', ]
 actualPrice: 57.01 EUR
 currency: EUR
 price: 57.01

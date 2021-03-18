@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TT6BRRP-es Levi s Graphic tee Camiseta Black Boxtab SS T2 Mineral...'
 sku: 'B07TT6BRRP-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

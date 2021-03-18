@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086NKYTRZ-es Mariamare Altea Botas de Moda para Mujer Brush Negro 39 EU'
 sku: 'B086NKYTRZ-es'
-tags: [ 'moda', ]
 actualPrice: 27.57 EUR
 currency: EUR
 price: 27.57

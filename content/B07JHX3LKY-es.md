@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHX3LKY-es PUMA Cup Casuals tee Camiseta Hombre Gris Asphalt/Whisper...'
 sku: 'B07JHX3LKY-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYPF8J8-es find. 53669 Chaqueta Para Mujer Azul Mid Blue X-Small'
 sku: 'B06XYPF8J8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

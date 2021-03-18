@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9GP6CH-es Joma Academy Camiseta Termica Hombre Blanco L-XL'
 sku: 'B07G9GP6CH-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

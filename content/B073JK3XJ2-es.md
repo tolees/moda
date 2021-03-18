@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JK3XJ2-es find. D7832 vestido fiesta mujer Negro Schwarz 48 Talla...'
 sku: 'B073JK3XJ2-es'
-tags: [ 'vestido', ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

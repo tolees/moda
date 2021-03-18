@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW4YBPS-es Hackett London Tie Placket Oxford Camisa Blanco White 800...'
 sku: 'B07JW4YBPS-es'
-tags: [ 'camisa', ]
 actualPrice: 92.51 EUR
 currency: EUR
 price: 92.51

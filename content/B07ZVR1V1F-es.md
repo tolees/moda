@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVR1V1F-es Levi s 512 Slim Taper Vaqueros Cedar Light Mid Overt Adv...'
 sku: 'B07ZVR1V1F-es'
-tags: [ 'vaqueros', ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

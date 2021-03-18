@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006FI3JZY-es Twentyfour Freizeitshirt FM NY Kapuzen in frischen Farben...'
 sku: 'B006FI3JZY-es'
-tags: [ 'jersey', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PBCVPW-es Suhctup Funda Compatible con Huawei Honor 20 Pro Billetera...'
 sku: 'B087PBCVPW-es'
-tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

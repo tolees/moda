@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B89MBT4-es XQXA Bolso Bandolera riñonera de Nailon para pequeñas...'
 sku: 'B08B89MBT4-es'
-tags: [ 'bolso', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

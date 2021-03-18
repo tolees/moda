@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4HMV48-es Botin Timberland A1ODQ Verde 45.5 Verde'
 sku: 'B07B4HMV48-es'
-tags: [ 'timberland', ]
 actualPrice: 71.65 EUR
 currency: EUR
 price: 71.65

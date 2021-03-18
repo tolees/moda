@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MN3DFGF-es Wrangler Logo tee Camiseta Blanco White 989 Medium para...'
 sku: 'B07MN3DFGF-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

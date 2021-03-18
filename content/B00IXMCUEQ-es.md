@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IXMCUEQ-es Joma Nobel Pantalón de equipación Azul royal S'
 sku: 'B00IXMCUEQ-es'
-tags: [ 'pantalón', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

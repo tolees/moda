@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YDJXS5-es HIKARO Sudadera Hombre Rojo Red 52 Talla del fabricante:...'
 sku: 'B077YDJXS5-es'
-tags: [ 'sudadera', ]
 actualPrice: 10.93 EUR
 currency: EUR
 price: 10.93

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PNM3LT-es Adidas CORE18 Hoody Sudadera con Capucha Hombre Rojo...'
 sku: 'B076PNM3LT-es'
-tags: [ 'Calcetines hasta la pantorrilla para hombre','Calcetines para hombre','Chaquetas para mujer','Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Sudaderas con capucha para hombre','Sudaderas para hombre','Vestidos casual para mujer','Vestidos para mujer','adidas','sudadera', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

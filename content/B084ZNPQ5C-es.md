@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZNPQ5C-es Suhctup Funda Xiaomi Mi 6X Carcasa Patrón de Dibujos...'
 sku: 'B084ZNPQ5C-es'
-tags: [ 'moda', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

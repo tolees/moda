@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG16PT3-es Geox U KEELBACK B ABX A Zapatillas para Hombre Azul Navy...'
 sku: 'B07LG16PT3-es'
-tags: [ 'geox', ]
 actualPrice: 31.23 EUR
 currency: EUR
 price: 31.23

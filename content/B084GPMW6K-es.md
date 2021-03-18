@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084GPMW6K-es Tommy Hilfiger TJW Striped Rib Crop Longsleeve Camisa...'
 sku: 'B084GPMW6K-es'
-tags: [ 'camisa', ]
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

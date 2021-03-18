@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DSXA0JQ-es SONGMICS Perchero con 3 Capas para Zapatos con 18 Ganchos...'
 sku: 'B01DSXA0JQ-es'
-tags: [ 'zapatos', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016QM4WZE-es Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa...'
 sku: 'B016QM4WZE-es'
-tags: [ 'camisa', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

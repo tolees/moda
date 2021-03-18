@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVNWTKH-es Geox B Flexyper Boy B Zapatillas para Bebés Blanco...'
 sku: 'B07SVNWTKH-es'
-tags: [ 'geox', ]
 actualPrice: 30.57 EUR
 currency: EUR
 price: 30.57

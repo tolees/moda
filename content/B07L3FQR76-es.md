@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3FQR76-es Hilfiger Denim Stripe Tommy Jeans Beach Sandal Chanclas...'
 sku: 'B07L3FQR76-es'
-tags: [ 'chanclas', ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

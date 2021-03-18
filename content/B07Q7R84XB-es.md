@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7R84XB-es Rieker Herbst/Winter Botines para Mujer Marrón...'
 sku: 'B07Q7R84XB-es'
-tags: [ 'botines', ]
 actualPrice: 17.82 EUR
 currency: EUR
 price: 17.82

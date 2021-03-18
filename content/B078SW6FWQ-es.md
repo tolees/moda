@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SW6FWQ-es Timberland Newport Bay Zapatillas Bajas para Hombre Negro...'
 sku: 'B078SW6FWQ-es'
-tags: [ 'timberland', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

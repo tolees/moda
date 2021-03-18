@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3BQLF9-es Desigual Dress LORETHA Vestido Negro 2000 40 Talla del...'
 sku: 'B07N3BQLF9-es'
-tags: [ 'vestido', ]
 actualPrice: 27.22 EUR
 currency: EUR
 price: 27.22

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F25LYMM-es Element Dulcey Chaqueta Hombre Azul Eclipse Navy XS'
 sku: 'B07F25LYMM-es'
-tags: [ 'chaqueta', ]
 actualPrice: 55.17 EUR
 currency: EUR
 price: 55.17

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JCSYCS-es Crocs Crocband Flip Chanclas Unisex-Adult Blue Navy 39/40 EU'
 sku: 'B002JCSYCS-es'
-tags: [ 'chanclas', ]
 actualPrice: 12.51 EUR
 currency: EUR
 price: 12.51

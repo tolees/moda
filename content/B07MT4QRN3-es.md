@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MT4QRN3-es G-STAR RAW 3301 Slim Fit Vaqueros Light Indigo Aged 24W /...'
 sku: 'B07MT4QRN3-es'
-tags: [ 'vaqueros', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

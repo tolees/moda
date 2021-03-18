@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STLPY45-es Geox U Walee A Zapatillas para Hombre Azul Navy C4002 39 EU'
 sku: 'B07STLPY45-es'
-tags: [ 'geox', ]
 actualPrice: 35.73 EUR
 currency: EUR
 price: 35.73

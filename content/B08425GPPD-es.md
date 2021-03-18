@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08425GPPD-es Tommy Hilfiger TJW Regular Cord Shirt Camisa Glamour Rosa...'
 sku: 'B08425GPPD-es'
-tags: [ 'camisa', ]
 actualPrice: 27.53 EUR
 currency: EUR
 price: 27.53

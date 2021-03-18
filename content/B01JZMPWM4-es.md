@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JZMPWM4-es Timberland Killington Botas Unisex Niños Azul Black Iris...'
 sku: 'B01JZMPWM4-es'
-tags: [ 'timberland', ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

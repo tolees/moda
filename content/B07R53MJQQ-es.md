@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R53MJQQ-es Scotch & Soda Skim-Objet D art Vaqueros Straight Azul...'
 sku: 'B07R53MJQQ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 77.95 EUR
 currency: EUR
 price: 77.95

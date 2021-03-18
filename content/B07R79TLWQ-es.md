@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R79TLWQ-es Vestidos Mujer Casual Playa Largos Verano Floral Vestido...'
 sku: 'B07R79TLWQ-es'
-tags: [ 'falda','vestido', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

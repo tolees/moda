@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG144GQ-es Geox J HADRIEL Girl D Botas Slouch para Niñas Beige Smoke...'
 sku: 'B07LG144GQ-es'
-tags: [ 'geox', ]
 actualPrice: 40.85 EUR
 currency: EUR
 price: 40.85

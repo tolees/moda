@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWPTXJ5-es Voqeen Mujer Bikini de Gradiente de Color Establece Retro...'
 sku: 'B07PWPTXJ5-es'
-tags: [ 'bikini', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MPZ91VP-es Geographical Norway Chaqueta de hombre BOKER CAQUI talla M'
 sku: 'B08MPZ91VP-es'
-tags: [ 'chaqueta', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

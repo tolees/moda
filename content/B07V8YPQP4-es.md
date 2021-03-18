@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8YPQP4-es Tommy Hilfiger - Th Metro Washbag Organizadores de bolso...'
 sku: 'B07V8YPQP4-es'
-tags: [ 'bolso', ]
 actualPrice: 38.6 EUR
 currency: EUR
 price: 38.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K71KW7K-es Levi s SS Original Hm tee Camiseta Cotton + Patch Dress...'
 sku: 'B07K71KW7K-es'
-tags: [ 'camiseta','levis', ]
 actualPrice: 21.14 EUR
 currency: EUR
 price: 21.14

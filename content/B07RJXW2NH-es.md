@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RJXW2NH-es Tommy Hilfiger TJM Stretch Oxford Shirt Camisa Negro Black...'
 sku: 'B07RJXW2NH-es'
-tags: [ 'camisa', ]
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0882BQCVX-es Vans Classic Kids Camiseta Chili Pepper/White 4 para Bebés'
 sku: 'B0882BQCVX-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

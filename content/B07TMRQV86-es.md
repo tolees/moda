@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TMRQV86-es Clarks Atticus Cap Zapatos de Cordones Derby Hombre Beige...'
 sku: 'B07TMRQV86-es'
-tags: [ 'zapatos', ]
 actualPrice: 37.8 EUR
 currency: EUR
 price: 37.8

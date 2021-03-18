@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VN3RRHS-es Jack & Jones Jjewashington Shirt L/s STS Camisa Rojo...'
 sku: 'B07VN3RRHS-es'
-tags: [ 'camisa', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

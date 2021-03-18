@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KJLBQ6H-es adidas E PLN tee Camiseta de Manga Corta Hombre White 2XL'
 sku: 'B07KJLBQ6H-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

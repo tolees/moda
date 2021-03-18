@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFS7J4C-es Crocs Baya Clog Kids Zuecos Unisex Niños Negro Black 001...'
 sku: 'B07HFS7J4C-es'
-tags: [ 'zuecos', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

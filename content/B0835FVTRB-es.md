@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0835FVTRB-es DC Shoes Lynx Zero - Zapatos de cuero - Hombre - EU 40'
 sku: 'B0835FVTRB-es'
-tags: [ 'zapatos', ]
 actualPrice: 16.3 EUR
 currency: EUR
 price: 16.3

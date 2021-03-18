@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYGG4DY-es PIXNOR 4pcs mujeres flor pelo banda trenzado anudado Yoga...'
 sku: 'B06XYGG4DY-es'
-tags: [ 'abrigo', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

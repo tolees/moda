@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8YKP96-es Geox W Adrya U Parka Negro Black F9000 36 Talla del...'
 sku: 'B07M8YKP96-es'
-tags: [ 'geox','parka', ]
 actualPrice: 92.9 EUR
 currency: EUR
 price: 92.9

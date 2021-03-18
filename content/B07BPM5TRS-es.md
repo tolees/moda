@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BPM5TRS-es Camper Lotta Botines para Mujer Schwarz Black 1 41 EU'
 sku: 'B07BPM5TRS-es'
-tags: [ 'botines', ]
 actualPrice: 51.58 EUR
 currency: EUR
 price: 51.58

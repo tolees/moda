@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9SCFXN-es find. Botines de Piel para Mujer Marrón Brown 38 EU'
 sku: 'B06X9SCFXN-es'
-tags: [ 'botines', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

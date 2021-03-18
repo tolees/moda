@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BB5TRDT-es The North Face M Jacket Chaqueta Sangro Hombre Azul Kodiak...'
 sku: 'B07BB5TRDT-es'
-tags: [ 'chaqueta', ]
 actualPrice: 81.41 EUR
 currency: EUR
 price: 81.41

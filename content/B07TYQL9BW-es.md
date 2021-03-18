@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYQL9BW-es Zapatillas de Deportes Hombre Mujer Zapatos Deportivos...'
 sku: 'B07TYQL9BW-es'
-tags: [ 'zapatos', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

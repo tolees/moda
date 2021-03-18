@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GC57Z6X-es Puma Essentials LG T Camiseta de Manga Corta Hombre Gris...'
 sku: 'B07GC57Z6X-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

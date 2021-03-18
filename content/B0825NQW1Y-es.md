@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NQW1Y-es GEOX U DANIELE D BLACK Men s Derbys Oxfords and Monk Shoes...'
 sku: 'B0825NQW1Y-es'
-tags: [ 'geox', ]
 actualPrice: 35.19 EUR
 currency: EUR
 price: 35.19

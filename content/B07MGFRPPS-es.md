@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MGFRPPS-es Napapijri AXSTRAL Chaqueta Verde Green Forest 2 Ge3 XXXL...'
 sku: 'B07MGFRPPS-es'
-tags: [ 'chaqueta', ]
 actualPrice: 91.6 EUR
 currency: EUR
 price: 91.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XSDZGN-es Lee Rider Shirt Camisa OCHER Rojo S para Hombre'
 sku: 'B082XSDZGN-es'
-tags: [ 'camisa', ]
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GUXJVDI-es Columbia Peakfreak Nomad Zapatos impermeables para hombre...'
 sku: 'B00GUXJVDI-es'
-tags: [ 'zapatos', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

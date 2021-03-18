@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VGLNX3-es Columbia Cascade Ridge II Chaqueta Softshell para hombre'
 sku: 'B087VGLNX3-es'
-tags: [ 'chaqueta', ]
 actualPrice: 55.1 EUR
 currency: EUR
 price: 55.1

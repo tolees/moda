@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X4XP9MM-es LEONE 1947 - Guantes de Boxeo Smart Unisex – Adulto Negro...'
 sku: 'B07X4XP9MM-es'
-tags: [ 'guantes', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

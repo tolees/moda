@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKWMG94-es Havaianas Urban Basic II Chanclas para Hombre Negro Black...'
 sku: 'B07SKWMG94-es'
-tags: [ 'chanclas', ]
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

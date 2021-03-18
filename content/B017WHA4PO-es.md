@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017WHA4PO-es Columbia Flashback Chaqueta cortavientos Hombre Negro Black S'
 sku: 'B017WHA4PO-es'
-tags: [ 'chaqueta', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

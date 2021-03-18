@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003KGTDGI-es Ray-Ban New Wayfarer Gafas de Sol Unisex adulto Negro...'
 sku: 'B003KGTDGI-es'
-tags: [ 'gafas', ]
 actualPrice: 82.0 EUR
 currency: EUR
 price: 82.0

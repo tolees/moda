@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JJJ1V3-es find. Vestido con Cremallera para Mujer Verde Pine Grove...'
 sku: 'B072JJJ1V3-es'
-tags: [ 'vestido', ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

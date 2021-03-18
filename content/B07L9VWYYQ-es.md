@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9VWYYQ-es Lacoste Croco Slide 319 4 US CMA Sandalias de Punta...'
 sku: 'B07L9VWYYQ-es'
-tags: [ 'sandalias', ]
 actualPrice: 25.74 EUR
 currency: EUR
 price: 25.74

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HX672CJ-es GANT D1. Harvest Moon Chiffon Blouse Blusa Marfil Eggshell...'
 sku: 'B07HX672CJ-es'
-tags: [ 'blusa', ]
 actualPrice: 46.28 EUR
 currency: EUR
 price: 46.28

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDMW6CK-es Tous Dorp - Monedero para Mujer Rosa 10 x 8 x 2.5 cm'
 sku: 'B07NDMW6CK-es'
-tags: [ 'monedero', ]
 actualPrice: 27.1 EUR
 currency: EUR
 price: 27.1

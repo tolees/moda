@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W72KFVL-es Springfield Classic Linen Color-C/72 Camisa Casual Rosa...'
 sku: 'B07W72KFVL-es'
-tags: [ 'camisa', ]
 actualPrice: 9.35 EUR
 currency: EUR
 price: 9.35

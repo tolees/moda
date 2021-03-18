@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RZLJT18-es Levi s 511 Slim Vaqueros East Lake Adv 26W / 30L para Hombre'
 sku: 'B07RZLJT18-es'
-tags: [ 'vaqueros', ]
 actualPrice: 77.49 EUR
 currency: EUR
 price: 77.49

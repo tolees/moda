@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07STLR3H2-es GEOX U DOMENICO A BLACK Men s Derbys Oxfords and Monk...'
 sku: 'B07STLR3H2-es'
-tags: [ 'geox', ]
 actualPrice: 41.57 EUR
 currency: EUR
 price: 41.57

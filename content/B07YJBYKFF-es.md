@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YJBYKFF-es Wrangler Striped High Rib Camiseta Verde Lime Sherbet G17...'
 sku: 'B07YJBYKFF-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

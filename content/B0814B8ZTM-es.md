@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0814B8ZTM-es Columbia Powder Lite Chaqueta para Hombre Gris City Grey...'
 sku: 'B0814B8ZTM-es'
-tags: [ 'chaqueta', ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

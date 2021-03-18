@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HEXDM82-es Crocs Classic Clog K Zuecos Unisex Niños Lemon 27/28 EU'
 sku: 'B01HEXDM82-es'
-tags: [ 'zuecos', ]
 actualPrice: 20.12 EUR
 currency: EUR
 price: 20.12

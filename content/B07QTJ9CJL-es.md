@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QTJ9CJL-es wilbest® Cartera Hombre Cartera RFID Billetera de Hombre...'
 sku: 'B07QTJ9CJL-es'
-tags: [ 'billetera', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

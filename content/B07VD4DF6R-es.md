@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD4DF6R-es Calvin Klein Instit Chest Logo Reg tee Camiseta Rojo Fiery...'
 sku: 'B07VD4DF6R-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

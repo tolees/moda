@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074N4Q8HD-es Clarks Cotrell Edge Zapatos de Cordones Derby para Hombre...'
 sku: 'B074N4Q8HD-es'
-tags: [ 'zapatos', ]
 actualPrice: 31.86 EUR
 currency: EUR
 price: 31.86

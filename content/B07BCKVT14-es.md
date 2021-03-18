@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BCKVT14-es Clarks Sharon Noel Zapatos de Cordones Derby Mujer Negro...'
 sku: 'B07BCKVT14-es'
-tags: [ 'zapatos', ]
 actualPrice: 49.06 EUR
 currency: EUR
 price: 49.06

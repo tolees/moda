@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRD6H91-es Tom Tailor Casual 1008637 Camiseta Gris Tarmac Grey 10899...'
 sku: 'B07KRD6H91-es'
-tags: [ 'camiseta', ]
 actualPrice: 4.16 EUR
 currency: EUR
 price: 4.16

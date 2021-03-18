@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYJ95Y8-es YACUN Vestido Lactancia Maternidad de Noche Camisón Verano...'
 sku: 'B07FYJ95Y8-es'
-tags: [ 'pijama','vestido', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

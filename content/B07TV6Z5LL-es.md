@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TV6Z5LL-es Levi s The Original Camiseta Azul Hm Patch OG tee...'
 sku: 'B07TV6Z5LL-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

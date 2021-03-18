@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VDLP4G-es Bollé - Bolle Safety PILOPSI Pilot - Gafas protectoras...'
 sku: 'B000VDLP4G-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Bricolaje y herramientas','Carros para tractores cortacéspedes','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Prevención y seguridad','Protección ocular','bollé','gafas', ]
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15

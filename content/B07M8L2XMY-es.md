@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8L2XMY-es Lee Hoody Sudadera Verde DK Bottle Green BB Small para Mujer'
 sku: 'B07M8L2XMY-es'
-tags: [ 'sudadera', ]
 actualPrice: 21.77 EUR
 currency: EUR
 price: 21.77

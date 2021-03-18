@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NGYDH-es GEOX D LEELU E BLACK Women s Trainers Low-Top Trainers...'
 sku: 'B0825NGYDH-es'
-tags: [ 'geox', ]
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

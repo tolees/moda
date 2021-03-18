@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZN1B2R-es Under Armour 1323415-001 Camiseta Hombre Negro L'
 sku: 'B071ZN1B2R-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

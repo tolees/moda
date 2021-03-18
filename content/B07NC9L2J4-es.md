@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC9L2J4-es Pepe Jeans Zip Thru Boys Sudadera Azul Navy 595 2 años...'
 sku: 'B07NC9L2J4-es'
-tags: [ 'sudadera', ]
 actualPrice: 20.68 EUR
 currency: EUR
 price: 20.68

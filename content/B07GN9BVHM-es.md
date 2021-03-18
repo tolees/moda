@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GN9BVHM-es Zapatillas de Estar por Casa para Niñas Niños Invierno...'
 sku: 'B07GN9BVHM-es'
-tags: [ 'zapatilla', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

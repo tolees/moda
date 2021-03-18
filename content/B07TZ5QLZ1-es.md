@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZ5QLZ1-es Lee Rider Vaqueros Slim Azul Light Sitka Jx W34/L30 Talla...'
 sku: 'B07TZ5QLZ1-es'
-tags: [ 'vaqueros', ]
 actualPrice: 49.47 EUR
 currency: EUR
 price: 49.47

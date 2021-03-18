@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KWXVMJB-es Glop Games - Disney muñeca Princesa Elsa con Vestido Capa...'
 sku: 'B07KWXVMJB-es'
-tags: [ 'vestido', ]
 actualPrice: 27.07 EUR
 currency: EUR
 price: 27.07

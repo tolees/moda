@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMQRS65-es JACK & JONES Joruptown tee LS Crew Neck Camiseta de Manga...'
 sku: 'B07WMQRS65-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

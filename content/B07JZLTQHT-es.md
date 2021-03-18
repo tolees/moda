@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZLTQHT-es Tommy Hilfiger U Pop Over Chaqueta Naranja Russet Orange...'
 sku: 'B07JZLTQHT-es'
-tags: [ 'chaqueta', ]
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

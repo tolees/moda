@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072F2SFRT-es SELECTED FEMME Sfranja SS Highneck Dress Vestido Mujer...'
 sku: 'B072F2SFRT-es'
-tags: [ 'vestido', ]
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

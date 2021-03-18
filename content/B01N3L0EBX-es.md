@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N3L0EBX-es Tous Kaos Mini Lona Bolso Totes para Mujer Beige Beige...'
 sku: 'B01N3L0EBX-es'
-tags: [ 'bolso', ]
 actualPrice: 120.97 EUR
 currency: EUR
 price: 120.97

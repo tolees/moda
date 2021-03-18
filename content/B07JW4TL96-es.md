@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JW4TL96-es Columbia Powder Lite Jacket Chaqueta Hombre Negro Black L'
 sku: 'B07JW4TL96-es'
-tags: [ 'chaqueta', ]
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

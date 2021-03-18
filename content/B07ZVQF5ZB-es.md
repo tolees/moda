@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVQF5ZB-es Levi s SS Original Hm tee Camiseta Dusky Citron M para Hombre'
 sku: 'B07ZVQF5ZB-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

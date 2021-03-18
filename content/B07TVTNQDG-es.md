@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVTNQDG-es Women s Secret Trendy Tapestry TT Green CLAS PJ FR...'
 sku: 'B07TVTNQDG-es'
-tags: [ 'pijama', ]
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4LKZ8K-es G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros...'
 sku: 'B07B4LKZ8K-es'
-tags: [ 'vaqueros', ]
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

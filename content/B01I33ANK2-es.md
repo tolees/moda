@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I33ANK2-es Heimdall lámpara de escritorio luz de la noche multicolor...'
 sku: 'B01I33ANK2-es'
-tags: [ 'moda', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

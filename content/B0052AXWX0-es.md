@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0052AXWX0-es Columbia 1420421 Chaqueta Forro Polar Hombre Negro Black L'
 sku: 'B0052AXWX0-es'
-tags: [ 'chaqueta', ]
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

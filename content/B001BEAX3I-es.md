@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BEAX3I-es Calvin Klein 3P Trunk Bóxer para Hombre Blanco M Pack de 3'
 sku: 'B001BEAX3I-es'
-tags: [ 'bóxer', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

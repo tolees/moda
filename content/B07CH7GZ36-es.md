@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CH7GZ36-es Joopin Gafas de Sol Deportivas Polarizadas para Hombre...'
 sku: 'B07CH7GZ36-es'
-tags: [ 'gafas', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

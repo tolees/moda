@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FZHJXWG-es Adidas Tiro 19 Polyester Jacke Chaqueta Deportiva Hombre...'
 sku: 'B07FZHJXWG-es'
-tags: [ 'chaqueta', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2S6B1B-es Levi s Relaxed Graphic tee Camiseta Verde 90 s Serif Logo...'
 sku: 'B07S2S6B1B-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

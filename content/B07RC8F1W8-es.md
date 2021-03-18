@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RC8F1W8-es Columbia Marquam Peak Chaqueta de invierno Hombre Azul...'
 sku: 'B07RC8F1W8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 99.08 EUR
 currency: EUR
 price: 99.08

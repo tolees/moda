@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZCLWCG-es G-STAR RAW ARC 2.0 3D Mid Boyfriend Jeans Vaqueros Azul lt...'
 sku: 'B07CZCLWCG-es'
-tags: [ 'vaqueros', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMV1C9W-es Lee Luke Vaqueros Moto Used Zu 31W / 30L para Hombre'
 sku: 'B07VMV1C9W-es'
-tags: [ 'vaqueros', ]
 actualPrice: 65.9 EUR
 currency: EUR
 price: 65.9

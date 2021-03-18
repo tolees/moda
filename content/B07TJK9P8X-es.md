@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJK9P8X-es Clarks Garratt Street Zapatos de Cordones Derby Hombre...'
 sku: 'B07TJK9P8X-es'
-tags: [ 'clarks','zapatos', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

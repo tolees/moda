@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BPG9Y1R-es Giochi Preziosi- Series 3: Da Boss Muñeca de Moda con 20...'
 sku: 'B08BPG9Y1R-es'
-tags: [ 'moda', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

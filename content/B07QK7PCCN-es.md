@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QK7PCCN-es MTNG Collection 58662 Botines Mujer Marrón 37 EU'
 sku: 'B07QK7PCCN-es'
-tags: [ 'botines', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

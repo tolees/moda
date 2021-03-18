@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPSWJH-es Pepe Jeans Josephs Camiseta Mousse 808 Large para Hombre'
 sku: 'B07MZPSWJH-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

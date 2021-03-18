@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YZPM89K-es Jack & Jones Jjiliam Jjoriginal Agi 002 Noos Vaqueros...'
 sku: 'B07YZPM89K-es'
-tags: [ 'vaqueros', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

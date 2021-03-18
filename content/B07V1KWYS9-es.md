@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V1KWYS9-es Salomon Agile Training Camiseta Hombre Trail Running...'
 sku: 'B07V1KWYS9-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.72 EUR
 currency: EUR
 price: 19.72

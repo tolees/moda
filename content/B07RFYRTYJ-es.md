@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFYRTYJ-es G-STAR RAW Graphic 13 Sudadera Azul Sartho Blue 6067...'
 sku: 'B07RFYRTYJ-es'
-tags: [ 'sudadera', ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

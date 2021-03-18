@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGSNHFS-es Pepe Jeans Betties HW Vaqueros Straight Azul Claro Archive...'
 sku: 'B07JGSNHFS-es'
-tags: [ 'vaqueros', ]
 actualPrice: 17.73 EUR
 currency: EUR
 price: 17.73

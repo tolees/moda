@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FF613ZL-es Only Onllillo L/s Dress Knt Noos Vestido Multicolor Night...'
 sku: 'B07FF613ZL-es'
-tags: [ 'vestido', ]
 actualPrice: 23.21 EUR
 currency: EUR
 price: 23.21

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814SQJR7-es Under Armour UA Seamless SS camiseta de manga corta para...'
 sku: 'B0814SQJR7-es'
-tags: [ 'camiseta', ]
 actualPrice: 22.13 EUR
 currency: EUR
 price: 22.13

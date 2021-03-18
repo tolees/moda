@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QJTSQP-es find. Camiseta de Deporte con Paneles de Rejilla Hombre...'
 sku: 'B075QJTSQP-es'
-tags: [ 'camiseta', ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

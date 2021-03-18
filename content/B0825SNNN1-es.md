@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825SNNN1-es GEOX U NEBULA 4 X 4 B ABX BLACK Men s Boots Chukka size 39 EU'
 sku: 'B0825SNNN1-es'
-tags: [ 'geox', ]
 actualPrice: 77.6 EUR
 currency: EUR
 price: 77.6

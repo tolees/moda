@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2ZN5D4-es Wrangler ICONS Chaqueta Vaquera Azul 6 Months 923 Small...'
 sku: 'B07V2ZN5D4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 25.52 EUR
 currency: EUR
 price: 25.52

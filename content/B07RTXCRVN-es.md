@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTXCRVN-es JACK & JONES Jprjean Bla. tee SS U-Neck Camiseta Negro...'
 sku: 'B07RTXCRVN-es'
-tags: [ 'camiseta', ]
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

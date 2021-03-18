@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TPYGJSQ-es Clarks Stanford Walk Zapatos de Cordones Derby Marrón Tan...'
 sku: 'B07TPYGJSQ-es'
-tags: [ 'zapatos', ]
 actualPrice: 35.08 EUR
 currency: EUR
 price: 35.08

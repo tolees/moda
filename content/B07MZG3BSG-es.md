@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZG3BSG-es Element Crail - Camiseta de Manga Corta para Hombre...'
 sku: 'B07MZG3BSG-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

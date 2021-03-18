@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076F7GDN7-es RED WAGON Vestido Manga Larga Niñas Multicolor...'
 sku: 'B076F7GDN7-es'
-tags: [ 'vestido', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

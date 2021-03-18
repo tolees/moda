@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJNYJG1-es D C.Supernice - Zapatilla Baja Adultos Unisex Color Azul...'
 sku: 'B07NJNYJG1-es'
-tags: [ 'zapatilla', ]
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

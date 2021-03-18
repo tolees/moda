@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HK7HYBF-es Levi s Type 3 Sherpa Chaqueta Vaquera Rockridge Trucker XS...'
 sku: 'B07HK7HYBF-es'
-tags: [ 'chaqueta', ]
 actualPrice: 32.27 EUR
 currency: EUR
 price: 32.27

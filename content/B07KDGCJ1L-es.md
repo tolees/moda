@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KDGCJ1L-es adidas TIRO19 PRE JKT Chaqueta Hombre Azul Bold Blue/Dark...'
 sku: 'B07KDGCJ1L-es'
-tags: [ 'chaqueta', ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

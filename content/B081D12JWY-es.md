@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081D12JWY-es Geographical Norway Parka NIÑA Baby 001 rol 7 + BS'
 sku: 'B081D12JWY-es'
-tags: [ 'parka', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

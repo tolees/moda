@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8W38YB-es G-STAR RAW 3301 Slim Vaqueros Dk Aged Cobler 7863-3143 24W...'
 sku: 'B07K8W38YB-es'
-tags: [ 'vaqueros', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

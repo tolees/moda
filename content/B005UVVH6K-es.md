@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005UVVH6K-es Nike Benassi Jdi Chanclas Unisex Adulto Multicolor...'
 sku: 'B005UVVH6K-es'
-tags: [ 'chanclas', ]
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

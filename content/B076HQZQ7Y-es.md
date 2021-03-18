@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQZQ7Y-es adidas Core18 TR Pantalón Sin género Multicolor M'
 sku: 'B076HQZQ7Y-es'
-tags: [ 'pantalón', ]
 actualPrice: 21.37 EUR
 currency: EUR
 price: 21.37

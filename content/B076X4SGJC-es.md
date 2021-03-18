@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076X4SGJC-es GEOX UOMO SYMBOL A NAVY Men s Derbys Oxfords and Monk...'
 sku: 'B076X4SGJC-es'
-tags: [ 'geox', ]
 actualPrice: 53.87 EUR
 currency: EUR
 price: 53.87

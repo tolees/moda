@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777KCJJ9-es Tommy Hilfiger Original Triblend V Neck Camiseta Negro...'
 sku: 'B0777KCJJ9-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDSQNF7-es Fila Boxer para Hombre Multicolor Small pack de 4'
 sku: 'B07VDSQNF7-es'
-tags: [ 'boxer', ]
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

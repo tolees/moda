@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779DRPW6-es adidas Ask SPRT LST M Camiseta Sin género Negro'
 sku: 'B0779DRPW6-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

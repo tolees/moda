@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SWTZDQC-es GEOX D JAYSEN A BLUE Women s Trainers Low-Top Trainers...'
 sku: 'B07SWTZDQC-es'
-tags: [ 'geox', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

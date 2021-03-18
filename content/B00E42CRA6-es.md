@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E42CRA6-es Timberland Bradstreet Ox Zapatos de Cordones Oxford para...'
 sku: 'B00E42CRA6-es'
-tags: [ 'timberland','zapatos', ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

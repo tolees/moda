@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BJHD7GH-es G-STAR RAW 3301 Straight Tapered Vaqueros Dark Aged...'
 sku: 'B07BJHD7GH-es'
-tags: [ 'vaqueros', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

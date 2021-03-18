@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PR26NM8-es Under Armour UA Seamless SS camiseta de manga corta para...'
 sku: 'B07PR26NM8-es'
-tags: [ 'camiseta', ]
 actualPrice: 24.67 EUR
 currency: EUR
 price: 24.67

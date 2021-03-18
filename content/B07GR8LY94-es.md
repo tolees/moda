@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GR8LY94-es Calvin Klein J20J207879 Camiseta 099 XL para Mujer'
 sku: 'B07GR8LY94-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

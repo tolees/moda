@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9KK1IU-es RED WAGON Waffle Grandad Shirt Camisa para Niños Blanco...'
 sku: 'B01N9KK1IU-es'
-tags: [ 'camisa', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

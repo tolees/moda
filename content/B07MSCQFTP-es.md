@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSCQFTP-es TWBB Camiseta Hombre Cordon de Cuero Vintage Patchwork con...'
 sku: 'B07MSCQFTP-es'
-tags: [ 'camiseta', ]
 actualPrice: 1.28 EUR
 currency: EUR
 price: 1.28

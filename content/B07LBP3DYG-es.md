@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBP3DYG-es Helly Hansen LIFA Merino 1/2 Zip Thermal Baselayer...'
 sku: 'B07LBP3DYG-es'
-tags: [ 'camiseta', ]
 actualPrice: 66.67 EUR
 currency: EUR
 price: 66.67

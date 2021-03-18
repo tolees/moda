@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9HZ52G-es Under Armour Tech Terry Sudadera Mujer Negro MD'
 sku: 'B07L9HZ52G-es'
-tags: [ 'sudadera', ]
 actualPrice: 25.74 EUR
 currency: EUR
 price: 25.74

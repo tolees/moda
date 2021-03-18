@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LF8RRH6-es Levi s LS Original Hm tee Camiseta Black L para Hombre'
 sku: 'B07LF8RRH6-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

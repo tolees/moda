@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MTER6C8-es Camper Neuman Oxfords Zapatos de Cordones Derby Hombre...'
 sku: 'B01MTER6C8-es'
-tags: [ 'zapatos', ]
 actualPrice: 77.0 EUR
 currency: EUR
 price: 77.0

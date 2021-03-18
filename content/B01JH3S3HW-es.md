@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JH3S3HW-es crocs Swiftwater Wave K Zuecos Unisex niño Rosa Neon...'
 sku: 'B01JH3S3HW-es'
-tags: [ 'zuecos', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

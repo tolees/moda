@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PMTPY29-es Under Armour UA Knockout Tank Camiseta de Tirantes...'
 sku: 'B07PMTPY29-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.41 EUR
 currency: EUR
 price: 18.41

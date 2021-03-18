@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLNLXZJ-es bollé MADDOX Black Marble Matte / Black Chrome Cat.3 |...'
 sku: 'B07YLNLXZJ-es'
-tags: [ 'gafas', ]
 actualPrice: 27.82 EUR
 currency: EUR
 price: 27.82

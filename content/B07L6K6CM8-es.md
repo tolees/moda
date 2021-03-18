@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6K6CM8-es Under Armour Armour Insulated Hooded Chaqueta Mujer Gris XS'
 sku: 'B07L6K6CM8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 47.14 EUR
 currency: EUR
 price: 47.14

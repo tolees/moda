@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7RP53M-es Tommy Hilfiger Basic Embroidered Sweatshort Jersey de...'
 sku: 'B07W7RP53M-es'
-tags: [ 'jersey', ]
 actualPrice: 27.07 EUR
 currency: EUR
 price: 27.07

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081CK1ZQC-es Geographical Norway Chaqueta Mujer Anson Azul Marino M'
 sku: 'B081CK1ZQC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079C7H6FQ-es Jack & Jones Jjepocket tee SS O-Neck Noos Camiseta Negro...'
 sku: 'B079C7H6FQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

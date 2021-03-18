@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9FB2PD-es Joma Academy Camiseta Termica Hombre Rojo L-XL'
 sku: 'B07G9FB2PD-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

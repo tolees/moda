@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EANTU0O-es Pepe Jeans Eggo PM500465 Camiseta Blanco White 800 Medium...'
 sku: 'B00EANTU0O-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

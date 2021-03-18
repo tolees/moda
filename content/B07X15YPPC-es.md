@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X15YPPC-es JACK & JONES Jjemelange Shirt L/s Noos Camisa Azul Blue...'
 sku: 'B07X15YPPC-es'
-tags: [ 'camisa', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

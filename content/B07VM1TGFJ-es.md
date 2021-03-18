@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VM1TGFJ-es HKT by Hackett Hkt Super Ox Camisa Blanco 800white 800 40...'
 sku: 'B07VM1TGFJ-es'
-tags: [ 'camisa', ]
 actualPrice: 34.32 EUR
 currency: EUR
 price: 34.32

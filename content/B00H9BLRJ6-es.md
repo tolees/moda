@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00H9BLRJ6-es Geox J ARTACH Boy A Zapatillas Hombre Negro Black C9999 41 EU'
 sku: 'B00H9BLRJ6-es'
-tags: [ 'geox', ]
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

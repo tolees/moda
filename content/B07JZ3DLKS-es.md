@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ3DLKS-es SKYSPER Guantes Ciclismo para Hombre Mujer Invierno...'
 sku: 'B07JZ3DLKS-es'
-tags: [ 'guantes', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

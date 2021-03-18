@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FHF566K-es Helly Hansen Verglas Light Chaqueta De Pluma con Capucha...'
 sku: 'B07FHF566K-es'
-tags: [ 'chaqueta', ]
 actualPrice: 85.26 EUR
 currency: EUR
 price: 85.26

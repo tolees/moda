@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDPNS6J-es G-STAR RAW Scutar Utility Padded Abrigo Gris Asfalt 995...'
 sku: 'B07NDPNS6J-es'
-tags: [ 'abrigo', ]
 actualPrice: 34.92 EUR
 currency: EUR
 price: 34.92

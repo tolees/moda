@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMLLJWX-es Napapijri Aric Chaqueta Azul French Blue BB7 XXL para Hombre'
 sku: 'B07MMLLJWX-es'
-tags: [ 'chaqueta', ]
 actualPrice: 86.44 EUR
 currency: EUR
 price: 86.44

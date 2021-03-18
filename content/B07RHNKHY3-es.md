@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHNKHY3-es Wantdo Chaqueta Corta de Cuero de Imitación para Mujer...'
 sku: 'B07RHNKHY3-es'
-tags: [ 'chaqueta', ]
 actualPrice: 46.28 EUR
 currency: EUR
 price: 46.28

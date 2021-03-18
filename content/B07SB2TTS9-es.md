@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB2TTS9-es Camiseta Tirantes sin Mangas de Deporte para Mujer Verano...'
 sku: 'B07SB2TTS9-es'
-tags: [ 'camiseta','chaleco','pijama', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

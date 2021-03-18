@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CWSS4WQ-es AmzBarley Princesa Disfraz Traje Vestido Dress Costume...'
 sku: 'B07CWSS4WQ-es'
-tags: [ 'vestido', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

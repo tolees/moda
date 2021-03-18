@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JY7ZXM-es YAZILIND Moda joyería Exquisita Personalidad Simple...'
 sku: 'B079JY7ZXM-es'
-tags: [ 'moda', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

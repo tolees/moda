@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N49JXMB-es United Colors of Benetton Basico 2 Man Camiseta de Manga...'
 sku: 'B07N49JXMB-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

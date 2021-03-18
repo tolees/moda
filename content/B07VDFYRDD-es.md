@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VDFYRDD-es Desigual CAM Matera Blusa Blanco Blanco 1000 XX-Large para...'
 sku: 'B07VDFYRDD-es'
-tags: [ 'blusa', ]
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

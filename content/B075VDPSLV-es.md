@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075VDPSLV-es Hurley M One and Only LS Camisa de Manga Larga Hombre Azul...'
 sku: 'B075VDPSLV-es'
-tags: [ 'camisa', ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

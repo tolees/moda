@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRN2QW-es Geox U Jaylon E Botas Clasicas para Hombre Marrón Dk...'
 sku: 'B07LFRN2QW-es'
-tags: [ 'geox', ]
 actualPrice: 57.91 EUR
 currency: EUR
 price: 57.91

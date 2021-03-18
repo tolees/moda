@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWN58FR-es Under Armour UNDKU Coldgear Rush Camisa De Manga Larga...'
 sku: 'B07QWN58FR-es'
-tags: [ 'camisa', ]
 actualPrice: 25.81 EUR
 currency: EUR
 price: 25.81

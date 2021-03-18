@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHRJP81-es Desigual TS Milan Camiseta Amarillo Blazing 8035 Medium...'
 sku: 'B07VHRJP81-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

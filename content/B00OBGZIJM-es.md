@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OBGZIJM-es Only onlROYAL REG SKINNY JEANS PIM504 NOOS - Vaqueros...'
 sku: 'B00OBGZIJM-es'
-tags: [ 'vaqueros', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

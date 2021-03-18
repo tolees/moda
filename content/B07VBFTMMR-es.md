@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBFTMMR-es Esprit 099EE1G091 Chaqueta Azul Navy 400 XL para Mujer'
 sku: 'B07VBFTMMR-es'
-tags: [ 'chaqueta', ]
 actualPrice: 21.8 EUR
 currency: EUR
 price: 21.8

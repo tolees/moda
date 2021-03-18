@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076T49HVZ-es Birkenstock Gizeh BS Chanclas para Mujer Blanco Blanc...'
 sku: 'B076T49HVZ-es'
-tags: [ 'chanclas', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

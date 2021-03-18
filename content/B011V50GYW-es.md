@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B011V50GYW-es PUMA PURECAT Sandalias deslizantes Unisex Adulto Azul...'
 sku: 'B011V50GYW-es'
-tags: [ 'sandalias', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

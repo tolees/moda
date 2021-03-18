@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089PWTV5Q-es ZENAPHYR Jersey Hombre Cuello de Pico - 100% Algodón -...'
 sku: 'B089PWTV5Q-es'
-tags: [ 'jersey', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

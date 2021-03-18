@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FHB2ZXJ-es Levi s Big and Tall B&t Graphic tee Camiseta Azul Hm Big...'
 sku: 'B07FHB2ZXJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

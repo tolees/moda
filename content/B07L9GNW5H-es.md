@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9GNW5H-es Under Armour Rival Fleece Crew Sudadera Hombre Verde SM'
 sku: 'B07L9GNW5H-es'
-tags: [ 'sudadera', ]
 actualPrice: 26.23 EUR
 currency: EUR
 price: 26.23

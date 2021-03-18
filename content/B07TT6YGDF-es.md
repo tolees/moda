@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT6YGDF-es Levi s The tee Camiseta Blanco Floral Filled Batwing...'
 sku: 'B07TT6YGDF-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

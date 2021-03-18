@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001QOJ24E-es Levi s 501 Original Vaqueros Onewash 33W / 30L para Hombre'
 sku: 'B001QOJ24E-es'
-tags: [ 'vaqueros', ]
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

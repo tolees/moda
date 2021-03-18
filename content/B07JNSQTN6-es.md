@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JNSQTN6-es Jack & Jones Jjiglenn Jjoriginal Am 814 Noos Vaqueros Slim...'
 sku: 'B07JNSQTN6-es'
-tags: [ 'vaqueros', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

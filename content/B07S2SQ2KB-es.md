@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S2SQ2KB-es Levi s 501 Original Vaqueros Key West Sky Tnl 31W / 30L...'
 sku: 'B07S2SQ2KB-es'
-tags: [ 'vaqueros', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

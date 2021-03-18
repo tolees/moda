@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899X8HCD-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
 sku: 'B0899X8HCD-es'
-tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

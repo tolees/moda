@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06ZXV24K4-es Vila Clothes Viril L/s Open Knit Cardigan-Noos Chaqueta...'
 sku: 'B06ZXV24K4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

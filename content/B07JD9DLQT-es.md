@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JD9DLQT-es Clarks Tealite Grace Sandalias con Tira Vertical para...'
 sku: 'B07JD9DLQT-es'
-tags: [ 'sandalias', ]
 actualPrice: 52.02 EUR
 currency: EUR
 price: 52.02

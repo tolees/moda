@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MPNZ58-es Geographical Norway Parka Mujer Destine Azul Marino 03'
 sku: 'B082MPNZ58-es'
-tags: [ 'parka', ]
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

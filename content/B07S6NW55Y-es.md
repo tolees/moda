@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6NW55Y-es PUMA Popcat 20 Sandalias deslizantes Unisex Adulto Negro...'
 sku: 'B07S6NW55Y-es'
-tags: [ 'sandalias', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

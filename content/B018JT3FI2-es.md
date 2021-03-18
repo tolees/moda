@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018JT3FI2-es Levi s 200Sf Boxer Brief 2P Hombre Azul Mid Denim Small...'
 sku: 'B018JT3FI2-es'
-tags: [ 'boxer', ]
 actualPrice: 11 EUR
 currency: EUR
 price: 11

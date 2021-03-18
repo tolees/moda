@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMJCC8K-es Chantelle DE Pyramide Sujetador para Camiseta Beige...'
 sku: 'B07JMJCC8K-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

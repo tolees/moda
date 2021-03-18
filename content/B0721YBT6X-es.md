@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721YBT6X-es Jack & Jones Jprnon Iron Shirt L/s Noos Camisa Negro Black...'
 sku: 'B0721YBT6X-es'
-tags: [ 'camisa', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

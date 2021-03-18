@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HEXF5P0-es Crocs Crocband Clog K Zuecos Navy/Red 32/33 EU'
 sku: 'B01HEXF5P0-es'
-tags: [ 'zuecos', ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

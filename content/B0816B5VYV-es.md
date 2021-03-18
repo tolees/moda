@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0816B5VYV-es Rioneo - Zapatos Deporte Mujer Zapatillas Deportivas...'
 sku: 'B0816B5VYV-es'
-tags: [ 'zapatos', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F344WZN-es Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro...'
 sku: 'B07F344WZN-es'
-tags: [ 'chaqueta', ]
 actualPrice: 66.75 EUR
 currency: EUR
 price: 66.75

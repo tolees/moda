@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B98BJG2-es Clarks Linvale Jerica Zapatos de Tacón para Mujer Azul...'
 sku: 'B07B98BJG2-es'
-tags: [ 'zapatos', ]
 actualPrice: 43.84 EUR
 currency: EUR
 price: 43.84

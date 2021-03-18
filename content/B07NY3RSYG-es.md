@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NY3RSYG-es Superdry Classic University L/s Shirt Camisa Blanco Optic...'
 sku: 'B07NY3RSYG-es'
-tags: [ 'camisa', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

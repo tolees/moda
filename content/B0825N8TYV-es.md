@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825N8TYV-es GEOX D UMBRETTA A BLACK Women s Court Shoes Pumps size 36 EU'
 sku: 'B0825N8TYV-es'
-tags: [ 'geox', ]
 actualPrice: 27.42 EUR
 currency: EUR
 price: 27.42

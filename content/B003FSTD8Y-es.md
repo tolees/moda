@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003FSTD8Y-es uhlsport Player s Glove Guantes De Portero De Fútbol...'
 sku: 'B003FSTD8Y-es'
-tags: [ 'guantes', ]
 actualPrice: 7.33 EUR
 currency: EUR
 price: 7.33

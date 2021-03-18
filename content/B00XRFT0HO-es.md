@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XRFT0HO-es Helly Hansen Velocity Insulated Pant Pantalón Hombre Negro M'
 sku: 'B00XRFT0HO-es'
-tags: [ 'pantalón', ]
 actualPrice: 74.62 EUR
 currency: EUR
 price: 74.62

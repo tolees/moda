@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK46M7P-es Columbia Peakfreak X2 Outdry Zapatos de Senderismo para...'
 sku: 'B07KK46M7P-es'
-tags: [ 'Zapatillas de senderismo para hombre','columbia','zapatos', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

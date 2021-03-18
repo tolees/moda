@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825N7CKC-es Quiksilver Colors In Stereo - Camiseta para Hombre Screen...'
 sku: 'B0825N7CKC-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

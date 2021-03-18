@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BB4G6JL-es The North Face T93RXD Chaqueta deportiva Thermoball Hombre...'
 sku: 'B07BB4G6JL-es'
-tags: [ 'chaqueta', ]
 actualPrice: 102.01 EUR
 currency: EUR
 price: 102.01

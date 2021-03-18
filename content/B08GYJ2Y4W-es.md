@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYJ2Y4W-es Hurley M Ace Trucker Sudadera Black'
 sku: 'B08GYJ2Y4W-es'
-tags: [ 'sudadera', ]
 actualPrice: 44.83 EUR
 currency: EUR
 price: 44.83

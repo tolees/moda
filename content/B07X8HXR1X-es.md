@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X8HXR1X-es adidas Core18 Hoody Sudadera Hombre White S'
 sku: 'B07X8HXR1X-es'
-tags: [ 'sudadera', ]
 actualPrice: 31.56 EUR
 currency: EUR
 price: 31.56

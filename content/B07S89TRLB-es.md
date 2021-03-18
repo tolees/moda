@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S89TRLB-es Lee One Pocket Shirt Blusa Gris Asphalt FZ Large para Mujer'
 sku: 'B07S89TRLB-es'
-tags: [ 'blusa', ]
 actualPrice: 25.96 EUR
 currency: EUR
 price: 25.96

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XB4LND6-es TTYAOVO Vestido de Fiesta con Volantes de Princesa sin...'
 sku: 'B07XB4LND6-es'
-tags: [ 'vestido', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CJLJDN2-es Only Onltahoe Hood Jacket Otw Noos Chaqueta Rosa Misty...'
 sku: 'B07CJLJDN2-es'
-tags: [ 'chaqueta', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

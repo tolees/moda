@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLZZZ4R-es G-Star Sp15006 Sweat Sudadera Verde Emerald 55 14 años...'
 sku: 'B07SLZZZ4R-es'
-tags: [ 'sudadera', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

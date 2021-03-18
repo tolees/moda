@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081B6MYZ2-es Columbia Lodge Sudadera sin Capucha Hombre Gris/Azul Grey...'
 sku: 'B081B6MYZ2-es'
-tags: [ 'sudadera', ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

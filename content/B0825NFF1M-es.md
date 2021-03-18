@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NFF1M-es GEOX D NEBULA E BLACK/GUN Women s Trainers Low-Top...'
 sku: 'B0825NFF1M-es'
-tags: [ 'geox', ]
 actualPrice: 54.66 EUR
 currency: EUR
 price: 54.66

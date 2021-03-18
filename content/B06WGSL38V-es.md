@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WGSL38V-es adidas Adilette Shower Chanclas para Hombre Azul...'
 sku: 'B06WGSL38V-es'
-tags: [ 'Calzado deportivo para hombre','Camisetas de equipación de fútbol para niño','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Chanclas y sandalias de piscina para hombre','Deportes y aire libre','Fútbol','Productos para fans','Ropa','Ropa de fútbol','Ropa para hombre','Ropa para niño','Ropa para niño de fútbol','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para niñas pequeñas','Zapatos y complementos','adidas','chanclas', ]
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

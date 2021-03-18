@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJYHK6K-es Under Armour Grade School Jet 2019 Zapatos de Baloncesto...'
 sku: 'B07HJYHK6K-es'
-tags: [ 'zapatos', ]
 actualPrice: 49.82 EUR
 currency: EUR
 price: 49.82

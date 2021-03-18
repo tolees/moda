@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0795CK3NZ-es PUMA Camiseta para Hombre Liga Jersey Core Hombre Jersey...'
 sku: 'B0795CK3NZ-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 8.56 EUR
 currency: EUR
 price: 8.56

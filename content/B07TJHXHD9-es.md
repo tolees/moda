@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TJHXHD9-es HAWKERS · HYPNOSE · Electric Blue · Gafas de sol para...'
 sku: 'B07TJHXHD9-es'
-tags: [ 'gafas', ]
 actualPrice: 36.03 EUR
 currency: EUR
 price: 36.03

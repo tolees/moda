@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XSC97H-es Lee Ultimate Pocket tee Camiseta Rojo Ocre M para Hombre'
 sku: 'B082XSC97H-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

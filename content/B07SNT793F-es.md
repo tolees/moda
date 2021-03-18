@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SNT793F-es bollé Inuk Gafas de Ski Juventud Unisex Extra Small Pink...'
 sku: 'B07SNT793F-es'
-tags: [ 'gafas', ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LGNVKBS-es SEAC Maui Chanclas Adultos Unisex Negro/Azul 37/38 EU'
 sku: 'B07LGNVKBS-es'
-tags: [ 'chanclas', ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

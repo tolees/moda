@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL69NZ-es G-STAR RAW Starkon Loose Round Neck Camiseta Rojo Dk Baron...'
 sku: 'B07NDL69NZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

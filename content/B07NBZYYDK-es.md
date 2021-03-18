@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBZYYDK-es AURIQUE Side Stripe Cycling Pantalon Corto Ciclismo Negro...'
 sku: 'B07NBZYYDK-es'
-tags: [ 'aurique', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SH1TWL7-es Levi s Mendocino l Chanclas Hombre Azul Navy Blue 17'
 sku: 'B07SH1TWL7-es'
-tags: [ 'chanclas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

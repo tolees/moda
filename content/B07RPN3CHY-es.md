@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPN3CHY-es Depiladora IPL Openuye sistema de depilación para mujeres...'
 sku: 'B07RPN3CHY-es'
-tags: [ 'gafas', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

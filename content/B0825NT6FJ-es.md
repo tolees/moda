@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NT6FJ-es GEOX U LEVICO B ABX C NAVY Men s Trainers Hi-Top Trainers...'
 sku: 'B0825NT6FJ-es'
-tags: [ 'geox', ]
 actualPrice: 56.76 EUR
 currency: EUR
 price: 56.76

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHKZ1MV-es TENGTA Unisex Zapatos de jardinería Impermeables para...'
 sku: 'B07JHKZ1MV-es'
-tags: [ 'zapatos', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

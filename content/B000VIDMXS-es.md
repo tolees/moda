@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VIDMXS-es Timberland 6-inch Premium Wp Botas Clasicas Unisex Niños...'
 sku: 'B000VIDMXS-es'
-tags: [ 'timberland', ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

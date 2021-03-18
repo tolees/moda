@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDMCBFM-es Tommy Hilfiger Modern T Shirt Bra Sujetador para Camiseta...'
 sku: 'B07NDMCBFM-es'
-tags: [ 'camiseta', ]
 actualPrice: 22.61 EUR
 currency: EUR
 price: 22.61

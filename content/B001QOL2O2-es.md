@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001QOL2O2-es Levi s 501 Original Fit- Vaqueros para hombre Azul Onewash...'
 sku: 'B001QOL2O2-es'
-tags: [ 'Accesorios para hombre','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Gafas de sol para hombre','Gafas y accesorios para hombre','Ropa','Ropa para hombre','Ropa para niño','Vaqueros para hombre','levis','vaqueros', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

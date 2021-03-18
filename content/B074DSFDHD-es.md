@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DSFDHD-es Joymoze Moderna Mochila de Ocio para Niñas Mochila Escolar...'
 sku: 'B074DSFDHD-es'
-tags: [ 'bolso', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

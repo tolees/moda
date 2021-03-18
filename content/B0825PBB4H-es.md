@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PBB4H-es GEOX J BUBBLEX BOY A MILITARY/BLACK Boys Trainers Low-Top...'
 sku: 'B0825PBB4H-es'
-tags: [ 'geox', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

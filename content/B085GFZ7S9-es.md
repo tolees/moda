@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085GFZ7S9-es Superdry Hombre Chaqueta degradada Power Lima/Turquesa XXL'
 sku: 'B085GFZ7S9-es'
-tags: [ 'chaqueta', ]
 actualPrice: 84.98 EUR
 currency: EUR
 price: 84.98

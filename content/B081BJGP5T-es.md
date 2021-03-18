@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081BJGP5T-es Columbia Flashback Chaqueta cortavientos Hombre Verde...'
 sku: 'B081BJGP5T-es'
-tags: [ 'chaqueta', ]
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

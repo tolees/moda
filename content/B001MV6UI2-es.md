@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001MV6UI2-es El Naturalista Nd54 Sandalias Para Mujer Marrón Wood 40 EU...'
 sku: 'B001MV6UI2-es'
-tags: [ 'sandalias', ]
 actualPrice: 30.74 EUR
 currency: EUR
 price: 30.74

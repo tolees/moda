@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BPZCTC6-es Lee Rider Jeans Vaqueros Blue Drop 31W / 32L para Hombre'
 sku: 'B07BPZCTC6-es'
-tags: [ 'vaqueros', ]
 actualPrice: 41.49 EUR
 currency: EUR
 price: 41.49

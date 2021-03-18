@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NGFCH-es GEOX U RENAN A BLACK Men s Trainers Low-Top Trainers size...'
 sku: 'B0825NGFCH-es'
-tags: [ 'geox', ]
 actualPrice: 40.11 EUR
 currency: EUR
 price: 40.11

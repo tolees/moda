@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL4JNZN-es adidas Essentials Linear Logo tee Camiseta Hombre Negro...'
 sku: 'B07KL4JNZN-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

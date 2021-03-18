@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6WHLWP-es El Naturalista N5144 Botines para Mujer Rojo Rioja Rioja...'
 sku: 'B07S6WHLWP-es'
-tags: [ 'botines', ]
 actualPrice: 73.37 EUR
 currency: EUR
 price: 73.37

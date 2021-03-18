@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4N5CG6-es Tommy Hilfiger Basic Opened Toe Mid Wedge Sandalias con...'
 sku: 'B07V4N5CG6-es'
-tags: [ 'sandalias', ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

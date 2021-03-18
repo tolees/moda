@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMV1G5W-es Lee Malone Vaqueros Stone Blue Zl 34W / 32L para Hombre'
 sku: 'B07VMV1G5W-es'
-tags: [ 'vaqueros', ]
 actualPrice: 58.38 EUR
 currency: EUR
 price: 58.38

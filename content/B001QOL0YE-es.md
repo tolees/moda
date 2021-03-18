@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001QOL0YE-es Levi s 501 Original Fit Jeans Vaqueros Negro Black 0165...'
 sku: 'B001QOL0YE-es'
-tags: [ 'vaqueros', ]
 actualPrice: 58.95 EUR
 currency: EUR
 price: 58.95

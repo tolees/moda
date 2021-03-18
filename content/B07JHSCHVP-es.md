@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JHSCHVP-es Armani Exchange Logo SS Camiseta Blanco Optic White 1000...'
 sku: 'B07JHSCHVP-es'
-tags: [ 'camiseta', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

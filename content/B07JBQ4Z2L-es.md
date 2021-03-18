@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBQ4Z2L-es Columbia Powder Lite Chaqueta Mujer C142Cirrus Grey...'
 sku: 'B07JBQ4Z2L-es'
-tags: [ 'chaqueta', ]
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

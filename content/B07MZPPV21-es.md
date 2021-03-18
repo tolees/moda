@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPPV21-es Pepe Jeans Joe Chaleco Sailor 580 Medium para Hombre'
 sku: 'B07MZPPV21-es'
-tags: [ 'chaleco', ]
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

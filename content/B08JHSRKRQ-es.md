@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JHSRKRQ-es Jack & Jones JJECORP Logo Sweat Hood Noos Sudadera con...'
 sku: 'B08JHSRKRQ-es'
-tags: [ 'jack & jones','sudadera', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

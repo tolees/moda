@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MA3FMRU-es flintronic ® Billetera Tarjetas de Crédito Slim Moda RFID...'
 sku: 'B01MA3FMRU-es'
-tags: [ 'billetera','moda','monedero', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

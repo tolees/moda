@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5DG3XL-es Lee V Neck tee Camiseta Verde DK Bottle Green BB Medium...'
 sku: 'B07M5DG3XL-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.06 EUR
 currency: EUR
 price: 7.06

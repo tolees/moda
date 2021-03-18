@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N15XPT9-es Lee Authentic Pkt T LS Camiseta Verde Dk Bottle Green BB...'
 sku: 'B07N15XPT9-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

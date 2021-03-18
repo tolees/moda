@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07815BYTV-es Under Armour Tech 2.0 T Camiseta de Manga Corta Hombre...'
 sku: 'B07815BYTV-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

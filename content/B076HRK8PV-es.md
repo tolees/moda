@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HRK8PV-es adidas Core18 PES Jkt Chaqueta Hombre Azul Dark Blue/White S'
 sku: 'B076HRK8PV-es'
-tags: [ 'chaqueta', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

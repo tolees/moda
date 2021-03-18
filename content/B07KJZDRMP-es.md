@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJZDRMP-es Under Armour Under Armour Crossbody 1327794-408 Bolso...'
 sku: 'B07KJZDRMP-es'
-tags: [ 'bolso', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

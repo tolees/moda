@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMN4PB2-es wilbest® Negro Billeteras Hombre Cartera de Piel Carteras...'
 sku: 'B07CMN4PB2-es'
-tags: [ 'Carteras para hombre','moda','monedero','wilbest', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

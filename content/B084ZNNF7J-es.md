@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZNNF7J-es Suhctup Funda Huawei P9 Plus Carcasa Patrón de Dibujos...'
 sku: 'B084ZNNF7J-es'
-tags: [ 'moda', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

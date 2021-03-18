@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RC8JWVM-es Columbia Powder Lite Chaleco Mujer Rojo Beet S'
 sku: 'B07RC8JWVM-es'
-tags: [ 'chaleco', ]
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

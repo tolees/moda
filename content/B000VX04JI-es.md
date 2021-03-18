@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VX04JI-es Timberland 6 Inch Premium Waterproof Botas para Hombre...'
 sku: 'B000VX04JI-es'
-tags: [ 'timberland', ]
 actualPrice: 158.08 EUR
 currency: EUR
 price: 158.08

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ9J4J7-es Geox U Wells C Zapatillas Hombre Gris Smoke Grey C9006 46 EU'
 sku: 'B07DJ9J4J7-es'
-tags: [ 'Zapatillas casual para hombre','geox', ]
 actualPrice: 65.79 EUR
 currency: EUR
 price: 65.79

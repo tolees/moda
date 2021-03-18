@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0779DRZYX-es adidas Ask SPRT LST M Camiseta de Manga Larga Hombre White...'
 sku: 'B0779DRZYX-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

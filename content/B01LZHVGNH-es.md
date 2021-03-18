@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZHVGNH-es Helly Hansen Dubliner Jacket Chaqueta Deportiva Hombre...'
 sku: 'B01LZHVGNH-es'
-tags: [ 'chaqueta', ]
 actualPrice: 82.94 EUR
 currency: EUR
 price: 82.94

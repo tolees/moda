@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088FJ46MG-es Hurley M Have Fun Tank Camiseta De Tirantes Hombre Camelia L'
 sku: 'B088FJ46MG-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841CRL6V-es Tommy Hilfiger TJM Essential Down Jacket Chaqueta Azul...'
 sku: 'B0841CRL6V-es'
-tags: [ 'chaqueta', ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

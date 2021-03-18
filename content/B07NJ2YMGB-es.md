@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ2YMGB-es Springfield 1.Gym.MD.Corto Cruzado Vestido Multicolor...'
 sku: 'B07NJ2YMGB-es'
-tags: [ 'vestido', ]
 actualPrice: 14.47 EUR
 currency: EUR
 price: 14.47

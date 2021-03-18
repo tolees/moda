@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MWW4BM6-es Clarks Scala Loop K Zapatos de Cordones Derby Niños Negro...'
 sku: 'B07MWW4BM6-es'
-tags: [ 'zapatos', ]
 actualPrice: 19.73 EUR
 currency: EUR
 price: 19.73

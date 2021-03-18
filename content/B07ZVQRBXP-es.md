@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQRBXP-es Levi s Housemark Graphic Camiseta Ssnl Hm Photo tee Mid...'
 sku: 'B07ZVQRBXP-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

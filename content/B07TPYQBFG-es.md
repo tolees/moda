@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPYQBFG-es Clarks Tri Alexia Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TPYQBFG-es'
-tags: [ 'sandalias', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

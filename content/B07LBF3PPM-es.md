@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LBF3PPM-es MUADRESS Vestido Cóctel Sin Manga Cuello Y Espalda V Hi-lo...'
 sku: 'B07LBF3PPM-es'
-tags: [ 'vestido', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

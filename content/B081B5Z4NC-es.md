@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081B5Z4NC-es Columbia Triple Canyon Camisa de Manga Larga Hombre Gris...'
 sku: 'B081B5Z4NC-es'
-tags: [ 'camisa', ]
 actualPrice: 58.39 EUR
 currency: EUR
 price: 58.39

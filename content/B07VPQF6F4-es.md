@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VPQF6F4-es G-STAR RAW Tedie Ultra High Waist Straight Ripped Ankle C...'
 sku: 'B07VPQF6F4-es'
-tags: [ 'vaqueros', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

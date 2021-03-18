@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5M2HX1-es Morgan 191-mentor.n Camiseta Negro Noir Noir Large Talla...'
 sku: 'B07P5M2HX1-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.23 EUR
 currency: EUR
 price: 5.23

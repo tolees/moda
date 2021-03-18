@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VQKFNP-es CAMPER Bicho FW Sandalias con Tira de T para Niñas Rosa...'
 sku: 'B079VQKFNP-es'
-tags: [ 'sandalias', ]
 actualPrice: 16.51 EUR
 currency: EUR
 price: 16.51

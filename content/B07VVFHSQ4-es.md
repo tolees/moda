@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVFHSQ4-es Tommy Hilfiger TJM Contrast Pocket tee Camiseta Blanco...'
 sku: 'B07VVFHSQ4-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

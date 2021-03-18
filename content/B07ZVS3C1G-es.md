@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVS3C1G-es Levi s 512 Slim Taper Vaqueros Smoke On The Pond Adv 26W /...'
 sku: 'B07ZVS3C1G-es'
-tags: [ 'vaqueros', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

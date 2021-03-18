@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH4GD4T-es Eono Essentials - Chaqueta de esquí híbrida acolchada para...'
 sku: 'B07JH4GD4T-es'
-tags: [ 'chaqueta', ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

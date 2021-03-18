@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JNKTBM-es Columbia 1420421 Chaqueta Forro Polar Hombre Negro Black XS'
 sku: 'B075JNKTBM-es'
-tags: [ 'chaqueta', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

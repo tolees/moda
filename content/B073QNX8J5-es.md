@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QNX8J5-es Levi s 26309 Camisa Para Mujer Multicolor Gallberry Merlot...'
 sku: 'B073QNX8J5-es'
-tags: [ 'camisa', ]
 actualPrice: 22.13 EUR
 currency: EUR
 price: 22.13

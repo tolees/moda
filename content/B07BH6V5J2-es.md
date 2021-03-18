@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BH6V5J2-es Savage Culture Cala Llonga Blusa Blanco Blanco 007 Medium...'
 sku: 'B07BH6V5J2-es'
-tags: [ 'blusa', ]
 actualPrice: 31.7 EUR
 currency: EUR
 price: 31.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W8WCMGR-es Nero Giardini - NeroGiardini A908730D Botines Mujer De...'
 sku: 'B07W8WCMGR-es'
-tags: [ 'botines', ]
 actualPrice: 69.35 EUR
 currency: EUR
 price: 69.35

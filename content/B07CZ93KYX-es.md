@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ93KYX-es Under Armour UA Streaker 2.0 Camiseta Mujer Negro...'
 sku: 'B07CZ93KYX-es'
-tags: [ 'camiseta', ]
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

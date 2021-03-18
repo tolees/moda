@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07STB2J2J-es Cabin Max Chicago 20L Stowaway - Maleta de Cabina de...'
 sku: 'B07STB2J2J-es'
-tags: [ 'bolso', ]
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QMZG3X-es Levi s Plus Size Pl tee Camiseta Blanco Plus Batwing White...'
 sku: 'B073QMZG3X-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

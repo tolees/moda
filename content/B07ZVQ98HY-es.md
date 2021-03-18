@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQ98HY-es Levi s Vneck Camiseta Annalise Stripe Sepia Rose XS para...'
 sku: 'B07ZVQ98HY-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

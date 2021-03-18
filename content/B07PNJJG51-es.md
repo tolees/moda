@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNJJG51-es MTNG Levin Bolso bandolera para Mujer Negro Lis Neg/Leop...'
 sku: 'B07PNJJG51-es'
-tags: [ 'bolso', ]
 actualPrice: 7.73 EUR
 currency: EUR
 price: 7.73

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078SXQVMT-es Timberland Kiri Up Zapatillas Bajas Mujer Negro Black Knit...'
 sku: 'B078SXQVMT-es'
-tags: [ 'timberland', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

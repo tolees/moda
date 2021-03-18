@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D3SD8MG-es Doaraha Camisón de Maternidad para Mujer Vestido Lactancia...'
 sku: 'B08D3SD8MG-es'
-tags: [ 'pijama','vestido', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

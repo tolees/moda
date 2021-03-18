@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GC1G7GK-es Camper Atom Work Zapatos de cordones Oxford para Hombre...'
 sku: 'B07GC1G7GK-es'
-tags: [ 'zapatos', ]
 actualPrice: 63.08 EUR
 currency: EUR
 price: 63.08

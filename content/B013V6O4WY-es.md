@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013V6O4WY-es Levi s Housemark Polo Camiseta para Hombre Azul 104 DRESS...'
 sku: 'B013V6O4WY-es'
-tags: [ 'camiseta', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

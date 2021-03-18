@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FH5MKD-es Lacoste CH2945 Camisa Blanc/Panorama 37 para Hombre'
 sku: 'B083FH5MKD-es'
-tags: [ 'camisa', ]
 actualPrice: 29.48 EUR
 currency: EUR
 price: 29.48

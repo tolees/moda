@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TTD7HV-es adidas Mono Jersey Pol Camiseta de Manga Corta Hombre...'
 sku: 'B081TTD7HV-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

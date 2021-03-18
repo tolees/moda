@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004H5MMFA-es Lee Brooklyn Comfort Vaqueros Rectos para Hombre Azul Dark...'
 sku: 'B004H5MMFA-es'
-tags: [ 'vaqueros', ]
 actualPrice: 40.17 EUR
 currency: EUR
 price: 40.17

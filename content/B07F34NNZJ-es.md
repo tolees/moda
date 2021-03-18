@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F34NNZJ-es Recién nacido Bebé Pijama de Algodón Mameluco Niños Pelele...'
 sku: 'B07F34NNZJ-es'
-tags: [ 'pelele','pijama', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

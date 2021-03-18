@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RX18BT5-es Levi s SS Graphic T-Shirt 2.0 Camiseta para Hombre Azul Hm...'
 sku: 'B07RX18BT5-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

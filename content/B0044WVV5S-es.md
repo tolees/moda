@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044WVV5S-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Blossom 682...'
 sku: 'B0044WVV5S-es'
-tags: [ 'zuecos', ]
 actualPrice: 21.07 EUR
 currency: EUR
 price: 21.07

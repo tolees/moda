@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XWHDHTL-es SKPAT - Maletín Portadocumentos de Mujer. Cartera para...'
 sku: 'B07XWHDHTL-es'
-tags: [ 'bolso', ]
 actualPrice: 41.55 EUR
 currency: EUR
 price: 41.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F26ZDDL-es Element Alder Boy Chaqueta Niños Azul Eclipse Navy 10'
 sku: 'B07F26ZDDL-es'
-tags: [ 'chaqueta', ]
 actualPrice: 43.37 EUR
 currency: EUR
 price: 43.37

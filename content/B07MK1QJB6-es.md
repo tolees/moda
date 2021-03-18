@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MK1QJB6-es Napapijri Avio Chaqueta Rojo Red Scarlet R01 S para Hombre'
 sku: 'B07MK1QJB6-es'
-tags: [ 'chaqueta', ]
 actualPrice: 209.63 EUR
 currency: EUR
 price: 209.63

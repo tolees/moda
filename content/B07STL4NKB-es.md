@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07STL4NKB-es Geox JR CIAK Girl I Zapatillas Niñas Blanco White/Pink...'
 sku: 'B07STL4NKB-es'
-tags: [ 'geox', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

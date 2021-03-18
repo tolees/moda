@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W1VNPH5-es Tommy Hilfiger Windbreaker J Chaqueta Cortavientos con...'
 sku: 'B07W1VNPH5-es'
-tags: [ 'chaqueta', ]
 actualPrice: 39.27 EUR
 currency: EUR
 price: 39.27

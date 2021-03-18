@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBZHI75-es Tommy Hilfiger SS tee Print Top de pijama Weiß White 100...'
 sku: 'B01NBZHI75-es'
-tags: [ 'pijama', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

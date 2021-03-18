@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X7H6QNS-es Lemeng - Pantalones para Adelgazar Pantalones Deportivos...'
 sku: 'B07X7H6QNS-es'
-tags: [ 'pantalón', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

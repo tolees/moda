@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6VNZD8-es Tommy Hilfiger Signature Hilfiger Leather Shoe Zapatos de...'
 sku: 'B07N6VNZD8-es'
-tags: [ 'zapatos', ]
 actualPrice: 73.13 EUR
 currency: EUR
 price: 73.13

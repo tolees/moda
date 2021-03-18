@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC1QBCN-es Dorina Casablanca Haut Maillot de Bain Bikini top Negro...'
 sku: 'B07NC1QBCN-es'
-tags: [ 'bikini', ]
 actualPrice: 10.25 EUR
 currency: EUR
 price: 10.25

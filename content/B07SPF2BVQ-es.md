@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPF2BVQ-es MAMMUT Zapatilla DUCAN Low GTX Zapatos para Hombre...'
 sku: 'B07SPF2BVQ-es'
-tags: [ 'zapatilla','zapatos', ]
 actualPrice: 130.9 EUR
 currency: EUR
 price: 130.9

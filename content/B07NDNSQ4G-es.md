@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDNSQ4G-es G-STAR RAW Core Super Slim Camisa Vaquera Multicolor...'
 sku: 'B07NDNSQ4G-es'
-tags: [ 'camisa', ]
 actualPrice: 27.31 EUR
 currency: EUR
 price: 27.31

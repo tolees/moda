@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JCDCTZJ-es Columbia Lay D Down II Chaqueta de esquí Mujer Blanco S'
 sku: 'B07JCDCTZJ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

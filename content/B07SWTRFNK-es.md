@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SWTRFNK-es Geox D Myria D Zapatillas Mujer Beige Lt Taupe C6738 39 EU'
 sku: 'B07SWTRFNK-es'
-tags: [ 'geox', ]
 actualPrice: 44.28 EUR
 currency: EUR
 price: 44.28

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001W6BDG6-es Ray-Ban RB 4098 Gafas de sol Black 60 para Mujer'
 sku: 'B001W6BDG6-es'
-tags: [ 'gafas', ]
 actualPrice: 103.0 EUR
 currency: EUR
 price: 103.0

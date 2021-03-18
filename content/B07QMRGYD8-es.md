@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMRGYD8-es TTYAOVO Chicas Arco Iris Unicornio Fancy Vestido Princesa...'
 sku: 'B07QMRGYD8-es'
-tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PCYYXYF-es Rip Curl MAI Ohana Top Camisa Mujer Black XS'
 sku: 'B07PCYYXYF-es'
-tags: [ 'camisa', ]
 actualPrice: 20.05 EUR
 currency: EUR
 price: 20.05

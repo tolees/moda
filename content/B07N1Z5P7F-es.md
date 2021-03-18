@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1Z5P7F-es Clarks Deva Mae Zapatos de tacón. para Mujer Negro Combi...'
 sku: 'B07N1Z5P7F-es'
-tags: [ 'zapatos', ]
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

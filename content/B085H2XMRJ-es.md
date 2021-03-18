@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085H2XMRJ-es Tuc Tuc Vestido Punto FANTASÍA Fiesta Informal Negro 3A...'
 sku: 'B085H2XMRJ-es'
-tags: [ 'vestido', ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

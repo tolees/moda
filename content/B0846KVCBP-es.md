@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0846KVCBP-es Tommy Hilfiger Jonny 6c Botas de Moda Hombre marrón 44.5 EU'
 sku: 'B0846KVCBP-es'
-tags: [ 'Botas para hombre','moda','tommy hilfiger', ]
 actualPrice: 67.0 EUR
 currency: EUR
 price: 67.0

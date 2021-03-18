@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QDDZPM5-es Geographical Norway Parka BOOMERA niña BLANCO talla 14'
 sku: 'B08QDDZPM5-es'
-tags: [ 'parka', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

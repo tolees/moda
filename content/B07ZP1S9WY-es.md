@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP1S9WY-es Jack & Jones Jcoisland tee SS Crew Neck Camiseta Rojo Rio...'
 sku: 'B07ZP1S9WY-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

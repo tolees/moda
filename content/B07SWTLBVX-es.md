@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SWTLBVX-es Geox U Eolo A Zapatillas para Hombre Azul Avio C4005 39 EU'
 sku: 'B07SWTLBVX-es'
-tags: [ 'geox', ]
 actualPrice: 47.91 EUR
 currency: EUR
 price: 47.91

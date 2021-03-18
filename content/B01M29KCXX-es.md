@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M29KCXX-es Hawkers X Gafas de sol Carey · Gold Rose One Size Unisex'
 sku: 'B01M29KCXX-es'
-tags: [ 'gafas', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

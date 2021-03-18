@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WCCFCPT-es Springfield Denim 2 Pocket-c/12 Camisa Casual Azul Medium...'
 sku: 'B07WCCFCPT-es'
-tags: [ 'camisa', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

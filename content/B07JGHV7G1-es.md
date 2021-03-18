@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGHV7G1-es Pepe Jeans Kai Pm402100 Chaqueta Dandelion 054 X-Large...'
 sku: 'B07JGHV7G1-es'
-tags: [ 'chaqueta', ]
 actualPrice: 29.7 EUR
 currency: EUR
 price: 29.7

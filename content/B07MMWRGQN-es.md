@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMWRGQN-es Wrangler Arizona Vaqueros Straight Azul Soft Night 50w 30...'
 sku: 'B07MMWRGQN-es'
-tags: [ 'vaqueros', ]
 actualPrice: 18.27 EUR
 currency: EUR
 price: 18.27

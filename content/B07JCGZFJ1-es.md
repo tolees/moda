@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCGZFJ1-es Columbia Powder Lite Chaqueta Hombre Rojo Red Lily Talla XL'
 sku: 'B07JCGZFJ1-es'
-tags: [ 'chaqueta','columbia', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

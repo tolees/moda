@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VW3W97H-es Lee Rider Jacket Chaqueta de jean Azul SOFT MID ALISO GJ...'
 sku: 'B07VW3W97H-es'
-tags: [ 'chaqueta', ]
 actualPrice: 27.78 EUR
 currency: EUR
 price: 27.78

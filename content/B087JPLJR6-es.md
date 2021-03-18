@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087JPLJR6-es Sucreven Mujer Elegante Tacón Ancho Pump Puntiagudo Tacón...'
 sku: 'B087JPLJR6-es'
-tags: [ 'vestido','zapatos', ]
 actualPrice: 26.78 EUR
 currency: EUR
 price: 26.78

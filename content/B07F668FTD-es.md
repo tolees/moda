@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F668FTD-es Landove - Camisas Hombros Descubiertos Mujer Casual...'
 sku: 'B07F668FTD-es'
-tags: [ 'Acampada y senderismo','Blusas y camisas para mujer','Camisas casual para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, tops y blusas para mujer','Camisetas, tops y blusas para premamá','Chaquetas de acampada y marcha para hombre','Chaquetas de pluma para acampada y marcha para hombre','Chaquetas para hombre','Chaquetas para mujer','Deportes y aire libre','Jerséis, cárdigans y sudaderas para mujer','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa de acampada','Ropa de acampada para hombre','Ropa para hombre','Ropa para mujer','Ropa para premamá','Sudaderas para mujer','Sudaderas sin capucha para mujer','camiseta','landove','moda', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

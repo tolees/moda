@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJJ2YJV-es Geox D Vega Moc B Mocasines para Mujer Azul Blue/Skin...'
 sku: 'B07DJJ2YJV-es'
-tags: [ 'geox', ]
 actualPrice: 71.48 EUR
 currency: EUR
 price: 71.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PVTW3MZ-es Vero Moda Vmeva HR Loose Paperbag Pant Noos Ki Pantalones...'
 sku: 'B07PVTW3MZ-es'
-tags: [ 'moda', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

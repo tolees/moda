@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TX2TV5-es Si Diosa Moda Mujer Zapatos Verano D Orsay Stiletto Heels...'
 sku: 'B088TX2TV5-es'
-tags: [ 'moda','sandalias','zapatos', ]
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

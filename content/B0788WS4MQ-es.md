@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788WS4MQ-es Tous Nika Sherton Bolso Bandolera para Mujer Negro...'
 sku: 'B0788WS4MQ-es'
-tags: [ 'bolso', ]
 actualPrice: 57.75 EUR
 currency: EUR
 price: 57.75

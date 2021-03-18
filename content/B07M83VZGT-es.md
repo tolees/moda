@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M83VZGT-es Napapijri Rainforest Winter 1 Chaqueta Azul French Blue...'
 sku: 'B07M83VZGT-es'
-tags: [ 'chaqueta', ]
 actualPrice: 120.49 EUR
 currency: EUR
 price: 120.49

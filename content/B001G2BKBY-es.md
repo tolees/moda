@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001G2BKBY-es Birkenstock Mayari Birko-Flor Sandalias de Dedo Mujer...'
 sku: 'B001G2BKBY-es'
-tags: [ 'sandalias', ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

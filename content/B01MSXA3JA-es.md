@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MSXA3JA-es Timberland Adventure 2.0 Cupsole Chukka Zapatillas Hombre...'
 sku: 'B01MSXA3JA-es'
-tags: [ 'timberland', ]
 actualPrice: 62.5 EUR
 currency: EUR
 price: 62.5

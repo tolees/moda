@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N18TYD1-es G-STAR RAW ARC 3D Slim Jeans Vaqueros Worker Blue Faded...'
 sku: 'B07N18TYD1-es'
-tags: [ 'vaqueros', ]
 actualPrice: 63.49 EUR
 currency: EUR
 price: 63.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFW14D2-es Kayhan Hombre Camisa TwoFace Grey L'
 sku: 'B07BFW14D2-es'
-tags: [ 'camisa', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

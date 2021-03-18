@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0842HBJKZ-es Tommy Hilfiger TJW Basic Hooded Down Jacket Chaqueta Verde...'
 sku: 'B0842HBJKZ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 142.9 EUR
 currency: EUR
 price: 142.9

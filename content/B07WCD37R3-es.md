@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WCD37R3-es Skechers Flex Advantage Sr Fourche Zapatos de Vestir par...'
 sku: 'B07WCD37R3-es'
-tags: [ 'zapatos', ]
 actualPrice: 58.67 EUR
 currency: EUR
 price: 58.67

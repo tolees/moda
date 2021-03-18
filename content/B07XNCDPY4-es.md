@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XNCDPY4-es Sunny Fashion - Vestido para niña Turquesa Unicornio Arco...'
 sku: 'B07XNCDPY4-es'
-tags: [ 'vestido', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

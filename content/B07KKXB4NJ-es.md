@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KKXB4NJ-es Nike Y Hoodie FZ FLC TM Club19 Sudadera Unisex niños Gris...'
 sku: 'B07KKXB4NJ-es'
-tags: [ 'sudadera', ]
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

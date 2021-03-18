@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MMNT836-es Pepe Jeans Allblack Bolso de Mano con Bandolera Negro...'
 sku: 'B07MMNT836-es'
-tags: [ 'bolso', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

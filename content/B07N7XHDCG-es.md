@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N7XHDCG-es Kami Idea Collar - SIEMPRE - Colgante de oro Rosa Regalo...'
 sku: 'B07N7XHDCG-es'
-tags: [ 'collar', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

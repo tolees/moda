@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N18B7YY-es G-STAR RAW Revend Skinny Vaqueros Medium Aged Faded 24W /...'
 sku: 'B07N18B7YY-es'
-tags: [ 'vaqueros', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

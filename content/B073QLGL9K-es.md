@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QLGL9K-es Activewear Sudadera Técnica con Capucha Hombre Rojo Sport...'
 sku: 'B073QLGL9K-es'
-tags: [ 'sudadera', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

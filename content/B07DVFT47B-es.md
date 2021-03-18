@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVFT47B-es Spotted Zebra Boxer Brief Ropa interior con diseño de...'
 sku: 'B07DVFT47B-es'
-tags: [ 'boxer', ]
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

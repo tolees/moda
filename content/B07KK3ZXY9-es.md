@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK3ZXY9-es Columbia Firecamp SLEDDER 3 Zapatos Multideporte...'
 sku: 'B07KK3ZXY9-es'
-tags: [ 'zapatos', ]
 actualPrice: 18.24 EUR
 currency: EUR
 price: 18.24

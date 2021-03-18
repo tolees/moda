@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5DBP9R-es G-STAR RAW Tacoma Boyfriend Long Sleeve Camisa Faded Shore...'
 sku: 'B07Z5DBP9R-es'
-tags: [ 'camisa', ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

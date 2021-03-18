@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRCFL74-es Kipling Osyka Bolso Con Bandolera para Mujer Multicolor...'
 sku: 'B07PRCFL74-es'
-tags: [ 'bolso', ]
 actualPrice: 18.84 EUR
 currency: EUR
 price: 18.84

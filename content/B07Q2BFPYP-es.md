@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2BFPYP-es Vicloon Barras Luminosas Pulseras Luminosas con Variedad...'
 sku: 'B07Q2BFPYP-es'
-tags: [ 'gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

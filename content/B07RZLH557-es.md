@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RZLH557-es Levi s The Original Camiseta Grey Hm Patch OG tee Forged...'
 sku: 'B07RZLH557-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

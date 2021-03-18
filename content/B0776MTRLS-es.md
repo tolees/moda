@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0776MTRLS-es SAMSONITE Cross-Over S Yellow -PARADIVER Light Bolso...'
 sku: 'B0776MTRLS-es'
-tags: [ 'bolso', ]
 actualPrice: 36.82 EUR
 currency: EUR
 price: 36.82

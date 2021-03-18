@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN4G9LF-es Wrangler Greensboro Regular Jeans Vaqueros Azul Black Dust...'
 sku: 'B07MN4G9LF-es'
-tags: [ 'vaqueros', ]
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

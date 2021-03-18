@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KF6W9FW-es Levi s 501 Crop Vaqueros Boyfriend Black Heart 23W / 26L...'
 sku: 'B07KF6W9FW-es'
-tags: [ 'vaqueros', ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

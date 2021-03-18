@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MTLT3N6-es Rpanle Guantes de Invierno Caliente Guantes de Pantalla...'
 sku: 'B08MTLT3N6-es'
-tags: [ 'guantes', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

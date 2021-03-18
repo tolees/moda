@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MGFRK9T-es Napapijri AXSTRAL Chaqueta Azul Blu Marine 176 S para Hombre'
 sku: 'B07MGFRK9T-es'
-tags: [ 'chaqueta', ]
 actualPrice: 91.6 EUR
 currency: EUR
 price: 91.6

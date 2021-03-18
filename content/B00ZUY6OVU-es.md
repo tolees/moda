@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZUY6OVU-es REEF Fanning Sandalias Flip-Flop para Hombre Negro Black /...'
 sku: 'B00ZUY6OVU-es'
-tags: [ 'sandalias', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

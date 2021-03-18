@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C61LFCB-es Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera Verde...'
 sku: 'B07C61LFCB-es'
-tags: [ 'sudadera', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

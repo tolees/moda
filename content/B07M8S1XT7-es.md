@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M8S1XT7-es adidas Club 3STR Polo Camiseta Hombre Black/White XS'
 sku: 'B07M8S1XT7-es'
-tags: [ 'camiseta', ]
 actualPrice: 25.96 EUR
 currency: EUR
 price: 25.96

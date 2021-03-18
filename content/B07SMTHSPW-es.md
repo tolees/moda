@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMTHSPW-es Burton Classic Mountain High Camiseta Hombre True Black XL'
 sku: 'B07SMTHSPW-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

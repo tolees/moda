@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3XGTRF-es Mizuno Wave Momentum Zapatos de Voleibol para Mujer Weiß...'
 sku: 'B07N3XGTRF-es'
-tags: [ 'zapatos', ]
 actualPrice: 85.95 EUR
 currency: EUR
 price: 85.95

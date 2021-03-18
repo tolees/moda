@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KM75LH6-es Jack & Jones AM 781 50SPS - Pantalones vaqueros ajustados...'
 sku: 'B07KM75LH6-es'
-tags: [ 'vaqueros', ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHU9O6S-es sitengle Mujeres Elegante Camisetas de Encaje Floral...'
 sku: 'B01KHU9O6S-es'
-tags: [ 'blusa', ]
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJGQCPT-es Dolores Promesas 108146 Camiseta Verde Verde Verde 00 000...'
 sku: 'B07NJGQCPT-es'
-tags: [ 'camiseta', ]
 actualPrice: 24.57 EUR
 currency: EUR
 price: 24.57

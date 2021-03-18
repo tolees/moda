@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKVT8R2-es find. Flat Leather Pull On Botines Marrón Almond 38 EU'
 sku: 'B07PKVT8R2-es'
-tags: [ 'botines', ]
 actualPrice: 24.18 EUR
 currency: EUR
 price: 24.18

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPXK669-es Lee Malone Vaqueros Washed Black OW 26W / 32L para Hombre'
 sku: 'B07VPXK669-es'
-tags: [ 'vaqueros', ]
 actualPrice: 53.51 EUR
 currency: EUR
 price: 53.51

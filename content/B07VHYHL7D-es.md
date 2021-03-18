@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHYHL7D-es Mishansha Hombre Mujer Botas de Nieve Invierno Botines...'
 sku: 'B07VHYHL7D-es'
-tags: [ 'botines','zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

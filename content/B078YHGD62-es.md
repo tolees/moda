@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YHGD62-es PUMA Liga Training Jr Chaqueta de Entrenamiento Unisex...'
 sku: 'B078YHGD62-es'
-tags: [ 'chaqueta', ]
 actualPrice: 15.65 EUR
 currency: EUR
 price: 15.65

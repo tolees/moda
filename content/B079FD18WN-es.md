@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FD18WN-es AOWOFS - Abrigo - para Hombre Marrón marrón X-Small'
 sku: 'B079FD18WN-es'
-tags: [ 'abrigo', ]
 actualPrice: 42.34 EUR
 currency: EUR
 price: 42.34

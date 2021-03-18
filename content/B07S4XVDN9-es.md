@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S4XVDN9-es BOSS tee Curved Camiseta Blanco Natural 102 Medium para...'
 sku: 'B07S4XVDN9-es'
-tags: [ 'camiseta', ]
 actualPrice: 34.21 EUR
 currency: EUR
 price: 34.21

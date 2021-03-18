@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H925NTC-es Ipanema Anat Temas IX Sandalias Planas Mujer Negro 43 EU'
 sku: 'B08H925NTC-es'
-tags: [ 'sandalias', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

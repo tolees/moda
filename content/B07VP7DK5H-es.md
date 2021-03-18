@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VP7DK5H-es Lee Rider Jacket Chaqueta de Jean Azul Oakwood Light XA...'
 sku: 'B07VP7DK5H-es'
-tags: [ 'chaqueta', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

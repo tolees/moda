@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGY2BBT-es Under Armour UA Prevail Windbreaker Chaqueta Mujer Negro...'
 sku: 'B07KGY2BBT-es'
-tags: [ 'chaqueta', ]
 actualPrice: 29.14 EUR
 currency: EUR
 price: 29.14

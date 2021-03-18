@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083YHRHP7-es Desigual Accessories PU Shoulder Bag Bolso bandolera. para...'
 sku: 'B083YHRHP7-es'
-tags: [ 'bolso', ]
 actualPrice: 53.0 EUR
 currency: EUR
 price: 53.0

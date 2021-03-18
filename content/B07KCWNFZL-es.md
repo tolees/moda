@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KCWNFZL-es Hurley Premium Icon Slash Gradient tee Camiseta de Manga...'
 sku: 'B07KCWNFZL-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.61 EUR
 currency: EUR
 price: 12.61

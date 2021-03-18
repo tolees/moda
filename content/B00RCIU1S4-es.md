@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RCIU1S4-es Nike Team Club Hoody - Sudadera para hombre Negro/Blanco S'
 sku: 'B00RCIU1S4-es'
-tags: [ 'sudadera', ]
 actualPrice: 32.36 EUR
 currency: EUR
 price: 32.36

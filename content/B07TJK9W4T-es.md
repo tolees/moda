@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TJK9W4T-es Clarks Stanford Limit Zapatos de Cordones Derby Negro...'
 sku: 'B07TJK9W4T-es'
-tags: [ 'zapatos', ]
 actualPrice: 33.44 EUR
 currency: EUR
 price: 33.44

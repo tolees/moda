@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCSPMWP-es Napapijri Rainforest Winter 1 Chaqueta Verde Hunter Green...'
 sku: 'B07MCSPMWP-es'
-tags: [ 'chaqueta', ]
 actualPrice: 98.79 EUR
 currency: EUR
 price: 98.79

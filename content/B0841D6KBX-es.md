@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0841D6KBX-es Tommy Hilfiger TJM Essential Down Jacket Chaqueta Rojo...'
 sku: 'B0841D6KBX-es'
-tags: [ 'Chaquetas para hombre','chaqueta','tommy hilfiger', ]
 actualPrice: 147.01 EUR
 currency: EUR
 price: 147.01

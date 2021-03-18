@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0828D9LQP-es GEOX J DISCOMIX GIRL B WHISKY Girls Boots Snow size 32 EU'
 sku: 'B0828D9LQP-es'
-tags: [ 'geox', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

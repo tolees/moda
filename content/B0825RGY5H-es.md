@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RGY5H-es Geox D CATRIA E Botas Cortas al Tobillo Mujer Negro 36 EU'
 sku: 'B0825RGY5H-es'
-tags: [ 'geox', ]
 actualPrice: 47.31 EUR
 currency: EUR
 price: 47.31

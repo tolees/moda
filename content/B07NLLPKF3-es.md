@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLLPKF3-es ARTESANIA CERDA Bolso Riñonera Avengers Azul 33 cm'
 sku: 'B07NLLPKF3-es'
-tags: [ 'bolso', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

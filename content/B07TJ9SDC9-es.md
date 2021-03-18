@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ9SDC9-es Levi s Relaxed Graphic Hoodie Sudadera Blanco Boxtab Pop...'
 sku: 'B07TJ9SDC9-es'
-tags: [ 'sudadera', ]
 actualPrice: 44.29 EUR
 currency: EUR
 price: 44.29

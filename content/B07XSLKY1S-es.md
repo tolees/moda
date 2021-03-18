@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XSLKY1S-es Wasnton Zapatillas con una Rueda/Dos Ruedas para niños y...'
 sku: 'B07XSLKY1S-es'
-tags: [ 'zapatos', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

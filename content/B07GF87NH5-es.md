@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GF87NH5-es Levi s SS Colorblock tee Camiseta Multicolor Colorbock...'
 sku: 'B07GF87NH5-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

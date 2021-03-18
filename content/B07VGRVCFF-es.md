@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGRVCFF-es SELECTED HOMME Slhdean Parka W Abrigo Azul Dark Sapphire...'
 sku: 'B07VGRVCFF-es'
-tags: [ 'abrigo','parka', ]
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

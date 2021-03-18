@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9CHYP9-es CMP Rigel Mid Zapatos de High Rise Senderismo Hombre...'
 sku: 'B07M9CHYP9-es'
-tags: [ 'cmp','zapatos', ]
 actualPrice: 60.49 EUR
 currency: EUR
 price: 60.49

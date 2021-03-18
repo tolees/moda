@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFDY9WM-es JACK & JONES Jcodriver Anorak Parka Gris Glacier Gray...'
 sku: 'B07VFDY9WM-es'
-tags: [ 'parka', ]
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

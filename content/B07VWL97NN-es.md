@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWL97NN-es Tommy Hilfiger TJM Chest Logo tee Camiseta Rojo Deep...'
 sku: 'B07VWL97NN-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

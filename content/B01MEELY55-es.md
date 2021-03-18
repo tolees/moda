@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MEELY55-es Skechers Sure Track Zapatos de Trabajo Mujer Negro BBK...'
 sku: 'B01MEELY55-es'
-tags: [ 'zapatos', ]
 actualPrice: 45.91 EUR
 currency: EUR
 price: 45.91

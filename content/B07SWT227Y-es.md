@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWT227Y-es Geox J Borealis Boy B Sandalias Punta Cerrada para Niños...'
 sku: 'B07SWT227Y-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

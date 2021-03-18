@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071P56FTZ-es Only onlELCOS 4/5 AOP Top JRS Noos Camisa Manga Larga...'
 sku: 'B071P56FTZ-es'
-tags: [ 'camisa', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

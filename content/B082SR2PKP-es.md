@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SR2PKP-es CRZ YOGA Mujer Deportivo Corto Falda Plisada Skorts de...'
 sku: 'B082SR2PKP-es'
-tags: [ 'falda', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

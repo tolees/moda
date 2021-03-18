@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FWYPRQ-es Under Armour UNDKU Tactical Patrol Pantalón Hombre Marrón...'
 sku: 'B079FWYPRQ-es'
-tags: [ 'pantalón', ]
 actualPrice: 36.64 EUR
 currency: EUR
 price: 36.64

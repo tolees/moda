@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5DDTWL-es G-STAR RAW Flag Graphic Slim Camiseta White 336/110...'
 sku: 'B07Z5DDTWL-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

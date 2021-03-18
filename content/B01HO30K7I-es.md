@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HO30K7I-es Dickies Sacramento Camisa Gris Grey Melange Gym X-Large...'
 sku: 'B01HO30K7I-es'
-tags: [ 'camisa', ]
 actualPrice: 36.82 EUR
 currency: EUR
 price: 36.82

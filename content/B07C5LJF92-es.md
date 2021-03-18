@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C5LJF92-es Jack & Jones Jjegingham Shirt L/s Camisa Multicolor White...'
 sku: 'B07C5LJF92-es'
-tags: [ 'camisa', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

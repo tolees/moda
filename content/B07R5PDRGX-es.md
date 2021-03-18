@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R5PDRGX-es G.I.G.A. DX Hakawa - Parka de Invierno con Capucha...'
 sku: 'B07R5PDRGX-es'
-tags: [ 'parka', ]
 actualPrice: 100.95 EUR
 currency: EUR
 price: 100.95

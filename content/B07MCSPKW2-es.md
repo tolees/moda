@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCSPKW2-es Napapijri Aric Chaqueta Negro Black 041 3XL para Hombre'
 sku: 'B07MCSPKW2-es'
-tags: [ 'chaqueta', ]
 actualPrice: 139.95 EUR
 currency: EUR
 price: 139.95

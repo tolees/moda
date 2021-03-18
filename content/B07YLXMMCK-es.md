@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLXMMCK-es Superdry Classic Twill Lite L/s Shirt Camisa Azul Pool...'
 sku: 'B07YLXMMCK-es'
-tags: [ 'camisa', ]
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

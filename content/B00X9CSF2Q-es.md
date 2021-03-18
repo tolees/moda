@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9CSF2Q-es Timberland Larchmont Waterproof Zapatillas Chukka para...'
 sku: 'B00X9CSF2Q-es'
-tags: [ 'timberland', ]
 actualPrice: 78.95 EUR
 currency: EUR
 price: 78.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PP3QLR7-es Toy Partner- Nerf Gafas elite Color azunaranja y azul...'
 sku: 'B07PP3QLR7-es'
-tags: [ 'gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

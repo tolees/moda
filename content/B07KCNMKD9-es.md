@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KCNMKD9-es adidas T19 Hoody W Sudadera Mujer Black/White 2XS'
 sku: 'B07KCNMKD9-es'
-tags: [ 'sudadera', ]
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

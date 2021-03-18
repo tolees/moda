@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NGWMZ-es GEOX D HAPPY A BLACK Women s Trainers Low-Top Trainers...'
 sku: 'B0825NGWMZ-es'
-tags: [ 'geox', ]
 actualPrice: 42.67 EUR
 currency: EUR
 price: 42.67

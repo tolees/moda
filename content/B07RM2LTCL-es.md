@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RM2LTCL-es Tommy Hilfiger TJM Straight Small Logo Hoodie Jersey de...'
 sku: 'B07RM2LTCL-es'
-tags: [ 'jersey', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

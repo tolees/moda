@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J28BDX3-es Pepe Jeans Art Camiseta Azul 595navy 595 6-7 años Talla...'
 sku: 'B07J28BDX3-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

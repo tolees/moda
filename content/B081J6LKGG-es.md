@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081J6LKGG-es SANRF Raspador de Hielo Guante Raspador de Hielo del Coche...'
 sku: 'B081J6LKGG-es'
-tags: [ 'guantes', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

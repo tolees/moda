@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792JWYKR-es Geox JR Agata D Zapatos de Cordones Brogue para Niñas...'
 sku: 'B0792JWYKR-es'
-tags: [ 'geox','zapatos', ]
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

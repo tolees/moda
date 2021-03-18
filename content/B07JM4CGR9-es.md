@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM4CGR9-es Lee Basic Graphic Crew Sudadera Azul Sky Captain Hy XX-...'
 sku: 'B07JM4CGR9-es'
-tags: [ 'sudadera', ]
 actualPrice: 15.21 EUR
 currency: EUR
 price: 15.21

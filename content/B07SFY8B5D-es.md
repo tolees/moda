@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFY8B5D-es Jacqueline de Yong NOS Jdycrea Treats L/s Noos Cardigan...'
 sku: 'B07SFY8B5D-es'
-tags: [ 'chaqueta', ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

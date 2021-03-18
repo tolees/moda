@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781ZSNFX-es Puma Liga TR JSY Camiseta de Manga Corta Hombre Azul...'
 sku: 'B0781ZSNFX-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

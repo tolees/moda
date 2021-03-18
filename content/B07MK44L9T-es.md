@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MK44L9T-es Under Armour Sportstyle Terry Logo Hoodie Sudadera con...'
 sku: 'B07MK44L9T-es'
-tags: [ 'sudadera', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

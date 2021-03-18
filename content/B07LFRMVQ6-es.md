@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRMVQ6-es Geox U HALLSON A Botas Chukka para Hombre Negro Black...'
 sku: 'B07LFRMVQ6-es'
-tags: [ 'geox', ]
 actualPrice: 29.02 EUR
 currency: EUR
 price: 29.02

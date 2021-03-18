@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQZQ92-es adidas CORE18 SW Top Sudadera Hombre Rojo Rojo/Blanco L'
 sku: 'B076HQZQ92-es'
-tags: [ 'sudadera', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VVR6LT2-es Pepe Jeans Soho Vaqueros Naranja Jaffa 188 31W / 28L para...'
 sku: 'B07VVR6LT2-es'
-tags: [ 'vaqueros', ]
 actualPrice: 8.83 EUR
 currency: EUR
 price: 8.83

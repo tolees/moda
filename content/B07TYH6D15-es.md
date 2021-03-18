@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYH6D15-es Levi s LS Original Hm tee Camiseta Negro Black 0009...'
 sku: 'B07TYH6D15-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.83 EUR
 currency: EUR
 price: 18.83

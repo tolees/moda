@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XFV8HZL-es Marca Amazon - find. Camisa Hombre Naranja Apricot Gingham...'
 sku: 'B06XFV8HZL-es'
-tags: [ '-','camisa','find.', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

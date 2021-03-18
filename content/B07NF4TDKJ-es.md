@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NF4TDKJ-es Adidas Adilette Shower Zapatos de Playa y Piscina Hombre...'
 sku: 'B07NF4TDKJ-es'
-tags: [ 'zapatos', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B6DJW6V-es Changhants 6-16 Años Niña Conjunto de Bikini Multicolor a...'
 sku: 'B08B6DJW6V-es'
-tags: [ 'bikini', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

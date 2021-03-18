@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EAQDLKA-es Halti Collar 8" - 12"'
 sku: 'B01EAQDLKA-es'
-tags: [ 'collar', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

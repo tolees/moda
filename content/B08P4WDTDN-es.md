@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P4WDTDN-es VisSec Traje de Disfraz Sexy Colegiala Traviesa para Mujer...'
 sku: 'B08P4WDTDN-es'
-tags: [ 'falda', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

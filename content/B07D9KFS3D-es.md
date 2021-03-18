@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9KFS3D-es Baoblaze Bolsa de Hombro de Lona de Moda para 1/3 Lolita...'
 sku: 'B07D9KFS3D-es'
-tags: [ 'moda', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

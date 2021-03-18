@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N45PZ1K-es Tommy Hilfiger Corp Long Slv tee Camiseta de Manga Larga...'
 sku: 'B07N45PZ1K-es'
-tags: [ 'camiseta', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

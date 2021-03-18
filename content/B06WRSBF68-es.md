@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WRSBF68-es Lacoste TH6709 Camiseta para Hombre Negro Noir S Talla del...'
 sku: 'B06WRSBF68-es'
-tags: [ 'camiseta', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RP1ZV5-es Helly Hansen HH Tech T-Shirt Camiseta Técnica Hombre White M'
 sku: 'B073RP1ZV5-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

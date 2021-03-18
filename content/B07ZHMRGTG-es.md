@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZHMRGTG-es Pepe Jeans Lexi Sky High Vaqueros Azul Denim E80 34W / 28L...'
 sku: 'B07ZHMRGTG-es'
-tags: [ 'vaqueros', ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

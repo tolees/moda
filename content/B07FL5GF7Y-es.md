@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FL5GF7Y-es Superdry Orange Label Vntge Emb S/s tee Camiseta Gris...'
 sku: 'B07FL5GF7Y-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

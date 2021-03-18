@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFV95G7-es Geox U Renan B Zapatillas para Hombre Negro Black/Mud...'
 sku: 'B07LFV95G7-es'
-tags: [ 'geox', ]
 actualPrice: 35.14 EUR
 currency: EUR
 price: 35.14

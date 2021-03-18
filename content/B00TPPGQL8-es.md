@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TPPGQL8-es Lacoste Sh7613 Sudadera para Hombre Black 31 XX-Large...'
 sku: 'B00TPPGQL8-es'
-tags: [ 'sudadera', ]
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

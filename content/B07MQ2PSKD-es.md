@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ2PSKD-es HKT by Hackett Hkt Crew Sudadera Red 255 Medium para Hombre'
 sku: 'B07MQ2PSKD-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

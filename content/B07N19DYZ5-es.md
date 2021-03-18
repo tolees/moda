@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N19DYZ5-es Lee Shirt Dress Vestido Rojo Warp Red Kg X-Large para Mujer'
 sku: 'B07N19DYZ5-es'
-tags: [ 'vestido', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

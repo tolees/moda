@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077P82QKX-es DIDINSKY Gafas de lectura sin patillas graduadas para...'
 sku: 'B077P82QKX-es'
-tags: [ 'gafas', ]
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

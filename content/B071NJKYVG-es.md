@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071NJKYVG-es ECCO Offroad Sandalias con Punta Abierta Hombre Azul Azul...'
 sku: 'B071NJKYVG-es'
-tags: [ 'sandalias', ]
 actualPrice: 64.07 EUR
 currency: EUR
 price: 64.07

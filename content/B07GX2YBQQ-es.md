@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GX2YBQQ-es JIVANER Ultra Slim: Cartera Hombre de Piel Azul - Cartera...'
 sku: 'B07GX2YBQQ-es'
-tags: [ 'billetera','monedero', ]
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081CDVHP4-es Geographical Norway Chaqueta NIÑO BOKER 068 rol 7+ BS'
 sku: 'B081CDVHP4-es'
-tags: [ 'chaqueta', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

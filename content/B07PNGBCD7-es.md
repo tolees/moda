@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PNGBCD7-es Celio Portal5 Vaqueros Regular Hombre Azul Bleached...'
 sku: 'B07PNGBCD7-es'
-tags: [ 'vaqueros', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

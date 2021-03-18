@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HEXG27A-es Crocs Classic Clog K Zuecos Unisex Niños Ocean 34/35 EU'
 sku: 'B01HEXG27A-es'
-tags: [ 'zuecos', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

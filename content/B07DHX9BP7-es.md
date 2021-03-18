@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHX9BP7-es Diesel Buster Vaqueros Straight Negro Negro 069bg 31W /...'
 sku: 'B07DHX9BP7-es'
-tags: [ 'vaqueros', ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

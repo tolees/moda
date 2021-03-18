@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDS15HC-es Geox U Garret B Botas Clasicas para Hombre Marrón...'
 sku: 'B07PDS15HC-es'
-tags: [ 'geox', ]
 actualPrice: 37.15 EUR
 currency: EUR
 price: 37.15

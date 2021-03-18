@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0154DR8UC-es Hollywood Star Fashion Polo clásico de manga corta Jersey...'
 sku: 'B0154DR8UC-es'
-tags: [ 'jersey', ]
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

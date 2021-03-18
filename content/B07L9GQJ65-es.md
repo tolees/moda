@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9GQJ65-es Under Armour Tech Terry Sudadera Mujer Negro XL'
 sku: 'B07L9GQJ65-es'
-tags: [ 'sudadera', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

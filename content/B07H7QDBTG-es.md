@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7QDBTG-es Softinos Evi523sof Zapatos y Bolsos para Mujer Pearl Grey...'
 sku: 'B07H7QDBTG-es'
-tags: [ 'zapatos', ]
 actualPrice: 63.22 EUR
 currency: EUR
 price: 63.22

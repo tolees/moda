@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQVFTKC-es Napapijri Aerons Stand 2 Chaqueta Blau French Blue Bb7 S...'
 sku: 'B07MQVFTKC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 51.38 EUR
 currency: EUR
 price: 51.38

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W17SYX7-es Burton Retro Mountain Camiseta Hombre Dress Blue XS'
 sku: 'B07W17SYX7-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.21 EUR
 currency: EUR
 price: 15.21

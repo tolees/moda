@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J7YBTBF-es Funria Chaleco Calefactable EléCtrico para Hombres y...'
 sku: 'B08J7YBTBF-es'
-tags: [ 'chaleco', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

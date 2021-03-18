@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VSV1XQT-es G-STAR RAW Silber Slim Fit Camiseta Azul Servant Blue Htr...'
 sku: 'B07VSV1XQT-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

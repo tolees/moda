@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD41PMR-es Calvin Klein CK Essential Slim V Neck tee Camiseta Azul...'
 sku: 'B07VD41PMR-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

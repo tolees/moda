@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP73VHZ-es DJSJ- Disfraz Deluxe Infantil Unisex Disfraz Costume Capa...'
 sku: 'B07RP73VHZ-es'
-tags: [ 'gafas', ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

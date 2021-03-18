@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQGPB7W-es Geox UOMO Sandal Strada B Sandalias Punta Cerrada Hombre...'
 sku: 'B07SQGPB7W-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

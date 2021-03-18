@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003PPCYCE-es Eastpak The One Bolso bandolera 21 cm 2.5 L Gris Sunday Grey'
 sku: 'B003PPCYCE-es'
-tags: [ 'bolso', ]
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

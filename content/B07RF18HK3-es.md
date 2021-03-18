@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RF18HK3-es G-STAR RAW Midge Mid Waist Straight Vaqueros Gris Dusty...'
 sku: 'B07RF18HK3-es'
-tags: [ 'vaqueros', ]
 actualPrice: 19.16 EUR
 currency: EUR
 price: 19.16

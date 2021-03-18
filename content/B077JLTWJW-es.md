@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077JLTWJW-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
 sku: 'B077JLTWJW-es'
-tags: [ 'zapatos', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

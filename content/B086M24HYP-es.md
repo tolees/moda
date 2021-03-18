@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086M24HYP-es MTNG Elba Bolso para Mujer Pali Taupe/Metallic Oro Rosa...'
 sku: 'B086M24HYP-es'
-tags: [ 'bolso', ]
 actualPrice: 17.02 EUR
 currency: EUR
 price: 17.02

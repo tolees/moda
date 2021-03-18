@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2L5B4B-es Camiseta Deportiva de Tirantes para Hombre Sin Manga Slim...'
 sku: 'B07V2L5B4B-es'
-tags: [ 'camiseta', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

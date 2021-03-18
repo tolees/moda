@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S2S6B4W-es Levi s Housemark Graphic tee Camiseta White Ssnl Hm Camo...'
 sku: 'B07S2S6B4W-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

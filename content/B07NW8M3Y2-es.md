@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW8M3Y2-es Skechers Keepsakes 2.0-Broken Arrow Botines para Mujer...'
 sku: 'B07NW8M3Y2-es'
-tags: [ 'botines', ]
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

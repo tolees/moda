@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRXLXMR-es Salomon PROPELLER DRY M Guantes para hombre'
 sku: 'B07KRXLXMR-es'
-tags: [ 'guantes', ]
 actualPrice: 52.36 EUR
 currency: EUR
 price: 52.36

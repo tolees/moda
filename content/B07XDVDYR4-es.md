@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XDVDYR4-es YINSAN 120 en 1 Juego de Destornilladores de Precisión con...'
 sku: 'B07XDVDYR4-es'
-tags: [ 'gafas', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG77Z6F-es Marca Amazon - find. Camisa Hombre Verde Mint Green...'
 sku: 'B06XG77Z6F-es'
-tags: [ '-','camisa','find.', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

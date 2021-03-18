@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DJ3VZ4Y-es Geox D Nebula C Zapatillas Mujer Azul Navy C4002 36 EU'
 sku: 'B07DJ3VZ4Y-es'
-tags: [ 'geox', ]
 actualPrice: 55.2 EUR
 currency: EUR
 price: 55.2

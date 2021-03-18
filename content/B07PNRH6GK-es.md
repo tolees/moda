@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PNRH6GK-es CARE OF by PUMA Sudadera de manga larga y tejido de rizo...'
 sku: 'B07PNRH6GK-es'
-tags: [ 'sudadera', ]
 actualPrice: 12.53 EUR
 currency: EUR
 price: 12.53

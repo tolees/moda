@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5ZJ5ZJ-es Lee Elly Vaqueros Naranja Potter S Clay 93 27W / 33L para...'
 sku: 'B07P5ZJ5ZJ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 15.93 EUR
 currency: EUR
 price: 15.93

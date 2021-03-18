@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HQAMFCW-es Crocs Crocband U Zuecos Unisex Adulto Rojo Pepper 36-37 EU'
 sku: 'B01HQAMFCW-es'
-tags: [ 'zuecos', ]
 actualPrice: 26.41 EUR
 currency: EUR
 price: 26.41

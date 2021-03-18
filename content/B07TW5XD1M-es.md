@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TW5XD1M-es KATOOM Guantes Bebé Algodón 6 pares Guantes Antiarañazos...'
 sku: 'B07TW5XD1M-es'
-tags: [ 'guantes', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

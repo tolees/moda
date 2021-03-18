@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N67HAW3-es Wrangler SKINNY Vaqueros Negro Black 25W / 32L para Mujer'
 sku: 'B01N67HAW3-es'
-tags: [ 'vaqueros', ]
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

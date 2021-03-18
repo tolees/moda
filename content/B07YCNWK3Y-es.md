@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YCNWK3Y-es Levi s Kids Lvb Batwing Tee Camiseta Grey Heather para Niños'
 sku: 'B07YCNWK3Y-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

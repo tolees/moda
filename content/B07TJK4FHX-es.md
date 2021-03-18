@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJK4FHX-es Clarks Maritsa Lara Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TJK4FHX-es'
-tags: [ 'sandalias', ]
 actualPrice: 45.81 EUR
 currency: EUR
 price: 45.81

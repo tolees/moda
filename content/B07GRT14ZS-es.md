@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GRT14ZS-es Uvex sportstyle 225 Gafas de deporte Adultos unisex white...'
 sku: 'B07GRT14ZS-es'
-tags: [ 'gafas', ]
 actualPrice: 31.65 EUR
 currency: EUR
 price: 31.65

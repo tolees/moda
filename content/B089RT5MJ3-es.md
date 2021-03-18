@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089RT5MJ3-es DGP - Collar con colgante de acero inoxidable para hombre...'
 sku: 'B089RT5MJ3-es'
-tags: [ 'collar', ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

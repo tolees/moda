@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078SYS2L4-es Timberland Union Wharf 2 Eye Oxford Náuticos Hombre Negro...'
 sku: 'B078SYS2L4-es'
-tags: [ 'timberland', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

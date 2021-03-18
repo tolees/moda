@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SC5K4FS-es Adidas Adilette Aqua K Chanclas Unisex Adulto Gris Grey...'
 sku: 'B07SC5K4FS-es'
-tags: [ 'chanclas', ]
 actualPrice: 5.01 EUR
 currency: EUR
 price: 5.01

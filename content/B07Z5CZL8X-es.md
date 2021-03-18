@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5CZL8X-es G-STAR RAW Perspective Logo Graphic Slim Camiseta Dk Black...'
 sku: 'B07Z5CZL8X-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

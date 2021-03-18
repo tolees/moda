@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MKY6GD-es Havaianas Brasil Logo Chanclas Unisex adulto Amarillo...'
 sku: 'B074MKY6GD-es'
-tags: [ 'chanclas','havaianas', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

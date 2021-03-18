@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QD6XJD7-es PUMA Rebel Bold tee Camiseta Hombre White S'
 sku: 'B07QD6XJD7-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

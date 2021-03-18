@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P1CVFHN-es Monedero Movom Cactus'
 sku: 'B07P1CVFHN-es'
-tags: [ 'monedero', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

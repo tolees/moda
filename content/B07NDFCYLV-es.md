@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDFCYLV-es CTAS Platform Layer HI Zapatos Deportivos Mujer Blanco...'
 sku: 'B07NDFCYLV-es'
-tags: [ 'zapatos', ]
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

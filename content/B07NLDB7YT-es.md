@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLDB7YT-es Meller - Waga Minor Carbon - Gafas de sol para hombre y mujer'
 sku: 'B07NLDB7YT-es'
-tags: [ 'gafas', ]
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

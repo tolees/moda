@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBCOZFG-es Pepe Jeans Spike Vaqueros Azul Denim S55 W40/L30 para Hombre'
 sku: 'B01NBCOZFG-es'
-tags: [ 'vaqueros', ]
 actualPrice: 47.26 EUR
 currency: EUR
 price: 47.26

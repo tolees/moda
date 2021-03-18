@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2MCNLS-es Marca Amazon - AURIQUE Super Soft Contrast Print - Mallas...'
 sku: 'B07G2MCNLS-es'
-tags: [ 'aurique', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

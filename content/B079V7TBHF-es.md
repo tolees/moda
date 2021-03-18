@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079V7TBHF-es Wrangler Slim Vaqueros Azul Perfect Blue 17P 29W / 30L...'
 sku: 'B079V7TBHF-es'
-tags: [ 'vaqueros', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

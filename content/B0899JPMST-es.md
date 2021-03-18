@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899JPMST-es Zapatos de Seguridad para Mujer Zapatillas Zapatos de...'
 sku: 'B0899JPMST-es'
-tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

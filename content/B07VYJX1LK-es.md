@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VYJX1LK-es Pepe Jeans Fringe Bolso Shopper Marrón 30x31x12 cms Piel...'
 sku: 'B07VYJX1LK-es'
-tags: [ 'bolso', ]
 actualPrice: 74.88 EUR
 currency: EUR
 price: 74.88

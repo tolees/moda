@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMCYQBY-es Lee Emblem T Camiseta Amarillo Yellow Sign Ln X-Small para...'
 sku: 'B07JMCYQBY-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

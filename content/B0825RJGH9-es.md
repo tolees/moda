@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RJGH9-es GEOX D ANYLLA WEDGE C COFFEE Women s Boots Chelsea size 41 EU'
 sku: 'B0825RJGH9-es'
-tags: [ 'geox', ]
 actualPrice: 41.98 EUR
 currency: EUR
 price: 41.98

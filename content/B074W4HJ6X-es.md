@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074W4HJ6X-es Wantdo Chaqueta Impermeable Contraviento Ligera para...'
 sku: 'B074W4HJ6X-es'
-tags: [ 'chaqueta', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

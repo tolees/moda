@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDDH2X4-es HEMING Cartera para Hombre Azul Cartera tarjetero hombre...'
 sku: 'B07MDDH2X4-es'
-tags: [ 'billetera', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG19R2M-es Geox D Nebula D Zapatillas para Mujer Gris Dk Grey C9002...'
 sku: 'B07LG19R2M-es'
-tags: [ 'geox', ]
 actualPrice: 94.5 EUR
 currency: EUR
 price: 94.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS3SJNT-es Fila 4516_21192 Talla S 2 Boxer Verde-95% algodón 5%...'
 sku: 'B07RS3SJNT-es'
-tags: [ 'boxer', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

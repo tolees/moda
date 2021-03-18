@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MVJMVFP-es safta - Atlético de Madrid "In Blue" Oficial Cartera...'
 sku: 'B07MVJMVFP-es'
-tags: [ 'billetera', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

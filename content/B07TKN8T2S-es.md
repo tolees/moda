@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKN8T2S-es Clarks Lexi Carmen Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TKN8T2S-es'
-tags: [ 'sandalias', ]
 actualPrice: 58.33 EUR
 currency: EUR
 price: 58.33

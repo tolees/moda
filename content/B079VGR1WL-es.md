@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VGR1WL-es Miraculous - Camiseta para niñas Ladybug y Cat Noir - 8-9...'
 sku: 'B079VGR1WL-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

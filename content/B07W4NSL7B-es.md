@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4NSL7B-es AIPER Chaleco Calefactable para Hombres y Mujeres con...'
 sku: 'B07W4NSL7B-es'
-tags: [ 'chaleco','chaqueta', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

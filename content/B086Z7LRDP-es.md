@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086Z7LRDP-es Levi s Kids Lvg Sweatshirt Dress Vestido Bebé-Niñas Gray...'
 sku: 'B086Z7LRDP-es'
-tags: [ 'vestido', ]
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

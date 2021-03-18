@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081KJXKQH-es Pepe Jeans Zoe Bolso Marrón 29x25x12 cms Piel Sintética'
 sku: 'B081KJXKQH-es'
-tags: [ 'bolso', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079Y8PSGT-es PUMA Liga TR JSY Camiseta de Manga Corta Hombre Blanco...'
 sku: 'B079Y8PSGT-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.85 EUR
 currency: EUR
 price: 14.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AZGDRVI-es Smiffy S 22417M Disfraz De Chica Joven Divertida Años 20...'
 sku: 'B00AZGDRVI-es'
-tags: [ 'collar','vestido', ]
 actualPrice: 12.92 EUR
 currency: EUR
 price: 12.92

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PJGQ4R-es Réplica oficial camiseta primera equipación rfef 2020...'
 sku: 'B085PJGQ4R-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.3 EUR
 currency: EUR
 price: 21.3

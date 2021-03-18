@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T7KM3V9-es Lee 5 Pocket Wide Leg Vaqueros straight Mujer Negro Subtle...'
 sku: 'B07T7KM3V9-es'
-tags: [ 'vaqueros', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

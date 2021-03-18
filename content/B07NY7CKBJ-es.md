@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY7CKBJ-es Superdry Vintage Logo Linear LS tee Camisa Manga Larga...'
 sku: 'B07NY7CKBJ-es'
-tags: [ 'camisa', ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

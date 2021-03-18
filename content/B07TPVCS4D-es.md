@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPVCS4D-es Superdry Merchant Milled Lite L/s Shirt Camisa Azul Indigo...'
 sku: 'B07TPVCS4D-es'
-tags: [ 'camisa', ]
 actualPrice: 23.01 EUR
 currency: EUR
 price: 23.01

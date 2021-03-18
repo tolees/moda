@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EOX01JS-es Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable...'
 sku: 'B01EOX01JS-es'
-tags: [ 'Chaquetas para hombre','helly hansen','parka', ]
 actualPrice: 81.77 EUR
 currency: EUR
 price: 81.77

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXWMH7P-es Desigual 19WAXP47 - Bolso de hombro de Sintético Mujer...'
 sku: 'B07MXWMH7P-es'
-tags: [ 'bolso', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

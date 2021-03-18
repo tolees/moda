@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFV93WM-es Geox D New ANNYA A Zapatos de Tacón Mujer Azul Navy C4002...'
 sku: 'B07LFV93WM-es'
-tags: [ 'geox','zapatos', ]
 actualPrice: 63.7 EUR
 currency: EUR
 price: 63.7

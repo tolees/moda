@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KF4TFMZ-es Levi s Type 3 Chaqueta Vaquera Berk Sherpa Trucker L para...'
 sku: 'B07KF4TFMZ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 86.49 EUR
 currency: EUR
 price: 86.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5K4MZL-es Leeharu - Abrigo de invierno para niña con capucha Bleu...'
 sku: 'B08B5K4MZL-es'
-tags: [ 'abrigo', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

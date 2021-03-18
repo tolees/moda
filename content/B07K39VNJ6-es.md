@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K39VNJ6-es BOSS Ivelna vestido Mujer Azul Medium Blue 422 Large'
 sku: 'B07K39VNJ6-es'
-tags: [ 'vestido', ]
 actualPrice: 96.41 EUR
 currency: EUR
 price: 96.41

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ79KBH-es ESPRIT Collection 999eo1k809 Camisa Manga Larga Blanco Off...'
 sku: 'B07RZ79KBH-es'
-tags: [ 'camisa', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

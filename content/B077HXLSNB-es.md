@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HXLSNB-es Lacoste TH7618 Camiseta para Hombre Rojo Rouge 240 Large...'
 sku: 'B077HXLSNB-es'
-tags: [ 'camiseta', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

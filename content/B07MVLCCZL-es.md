@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVLCCZL-es Gant D1. The Light Down Jacket Chaqueta Negro Black 5...'
 sku: 'B07MVLCCZL-es'
-tags: [ 'chaqueta', ]
 actualPrice: 154.81 EUR
 currency: EUR
 price: 154.81

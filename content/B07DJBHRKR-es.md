@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DJBHRKR-es Calvin Klein J30J307855 Camisa 099 L para Hombre'
 sku: 'B07DJBHRKR-es'
-tags: [ 'camisa', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

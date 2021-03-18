@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3TLNV9-es Desigual Blouse Amandine Blusa Azul Marino 5001 L para Mujer'
 sku: 'B07N3TLNV9-es'
-tags: [ 'blusa', ]
 actualPrice: 20.17 EUR
 currency: EUR
 price: 20.17

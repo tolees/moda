@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0085SFZZE-es Jack & Jones Storm Sweat - Camiseta de manga larga con...'
 sku: 'B0085SFZZE-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

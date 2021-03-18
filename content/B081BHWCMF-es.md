@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081BHWCMF-es Columbia Challenger Chaqueta cortavientos Mujer...'
 sku: 'B081BHWCMF-es'
-tags: [ 'chaqueta', ]
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42

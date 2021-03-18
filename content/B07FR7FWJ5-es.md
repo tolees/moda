@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR7FWJ5-es Clarks Vennor Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07FR7FWJ5-es'
-tags: [ 'zapatos', ]
 actualPrice: 43.76 EUR
 currency: EUR
 price: 43.76

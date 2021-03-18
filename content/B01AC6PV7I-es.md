@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AC6PV7I-es Nike Park VI Camiseta de Manga Corta para hombre Amarillo L'
 sku: 'B01AC6PV7I-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

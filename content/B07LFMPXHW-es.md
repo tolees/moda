@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFMPXHW-es Levi s Original Trucker Chaqueta vaquera Negro Black Rose...'
 sku: 'B07LFMPXHW-es'
-tags: [ 'chaqueta', ]
 actualPrice: 40.18 EUR
 currency: EUR
 price: 40.18

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BRG2PSQ-es BOSS Maine BC-c Vaqueros Straight Negro Black 002 32W/32L...'
 sku: 'B07BRG2PSQ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 46.16 EUR
 currency: EUR
 price: 46.16

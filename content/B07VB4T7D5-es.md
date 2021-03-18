@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VB4T7D5-es Scotch & Soda Oversized Boxy Fit Cotton Viscose Shirt In...'
 sku: 'B07VB4T7D5-es'
-tags: [ 'blusa', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

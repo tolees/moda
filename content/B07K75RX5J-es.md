@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K75RX5J-es Levi s Original Hm tee Camiseta LS Cotton + Patch Dress...'
 sku: 'B07K75RX5J-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

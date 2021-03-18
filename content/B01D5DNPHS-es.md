@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D5DNPHS-es Compactor Taupe Home Zapatos Bolsa de Almacenamiento...'
 sku: 'B01D5DNPHS-es'
-tags: [ 'zapatos', ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

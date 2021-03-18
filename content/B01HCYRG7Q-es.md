@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HCYRG7Q-es JACK & JONES JACLICHFIELD TRUNKS 3 PACK Bóxer Hombre...'
 sku: 'B01HCYRG7Q-es'
-tags: [ 'bóxer', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

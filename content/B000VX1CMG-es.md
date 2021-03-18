@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VX1CMG-es Timberland 6-Inch Premium Boot Botas para Hombre Amarillo...'
 sku: 'B000VX1CMG-es'
-tags: [ 'timberland', ]
 actualPrice: 135.46 EUR
 currency: EUR
 price: 135.46

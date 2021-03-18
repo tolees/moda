@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XJV3HRN-es Desconocido - Sexy Lingerie Conjunto de Lencería 3 Piezas...'
 sku: 'B08XJV3HRN-es'
-tags: [ 'moda', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

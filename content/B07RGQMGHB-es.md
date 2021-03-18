@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGQMGHB-es Tommy Hilfiger Tjw Logo Text tee Camiseta Blanco White Ya2...'
 sku: 'B07RGQMGHB-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.85 EUR
 currency: EUR
 price: 13.85

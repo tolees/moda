@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LF5RF22-es Levi s 2Pk Crewneck Graphic Camiseta 2 Pack Hm White/Mid...'
 sku: 'B07LF5RF22-es'
-tags: [ 'camiseta', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

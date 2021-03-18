@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CSTOOSO-es Joma Combi Camiseta Manga Corta Hombre Verde Fluor 6XS-5XS'
 sku: 'B01CSTOOSO-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

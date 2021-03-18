@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNMNTYJ-es G-STAR RAW Denim Mix Hooded Chaqueta Azul Mazarine Blue...'
 sku: 'B07VNMNTYJ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 104.97 EUR
 currency: EUR
 price: 104.97

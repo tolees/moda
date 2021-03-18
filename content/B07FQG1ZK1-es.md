@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQG1ZK1-es The North Face Sport Hoodie Sudadera Deportiva con Capucha...'
 sku: 'B07FQG1ZK1-es'
-tags: [ 'sudadera', ]
 actualPrice: 85.54 EUR
 currency: EUR
 price: 85.54

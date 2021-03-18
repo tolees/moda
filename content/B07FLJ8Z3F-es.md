@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FLJ8Z3F-es adidas Run IT tee 3S M Camiseta de Manga Corta Hombre...'
 sku: 'B07FLJ8Z3F-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

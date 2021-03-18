@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1P58HB-es Levi s LS Baby tee Camisa Manga Larga Multicolor Agnes...'
 sku: 'B07S1P58HB-es'
-tags: [ 'camisa', ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

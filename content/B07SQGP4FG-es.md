@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQGP4FG-es Geox U WALEE A Zapatillas Hombre Azul Navy C4002 41 EU'
 sku: 'B07SQGP4FG-es'
-tags: [ 'geox', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

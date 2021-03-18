@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SC4JYTL-es Levi s 724 High Rise Straight Vaqueros London Bridge 28W /...'
 sku: 'B07SC4JYTL-es'
-tags: [ 'vaqueros', ]
 actualPrice: 86.09 EUR
 currency: EUR
 price: 86.09

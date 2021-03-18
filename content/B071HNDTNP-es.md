@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HNDTNP-es JACK & JONES PREMIUM Jprsteven Blazer STS Chaqueta de...'
 sku: 'B071HNDTNP-es'
-tags: [ 'chaqueta', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

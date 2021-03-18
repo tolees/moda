@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0821QQXLF-es GEOX J SKYLIN GIRL B NAVY/SKY Girls Trainers Hi-Top...'
 sku: 'B0821QQXLF-es'
-tags: [ 'geox', ]
 actualPrice: 17.14 EUR
 currency: EUR
 price: 17.14

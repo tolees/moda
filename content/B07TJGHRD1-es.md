@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TJGHRD1-es Superdry OL Vintage Emb Crew Camiseta Naranja Volcanic...'
 sku: 'B07TJGHRD1-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

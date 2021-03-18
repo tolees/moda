@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXR5YTF-es El Naturalista Aqua Sandalias con Punta Abierta para Mujer...'
 sku: 'B07VXR5YTF-es'
-tags: [ 'sandalias', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

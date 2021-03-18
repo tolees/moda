@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N19BJCC-es G-STAR RAW 3301 Slim Fit Vaqueros Antic Charcoal 30W / 30L...'
 sku: 'B07N19BJCC-es'
-tags: [ 'vaqueros', ]
 actualPrice: 47.81 EUR
 currency: EUR
 price: 47.81

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDHP2K4-es Crocs Literide Flip Chanclas Unisex Adulto Azul Ice...'
 sku: 'B07SDHP2K4-es'
-tags: [ 'chanclas', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

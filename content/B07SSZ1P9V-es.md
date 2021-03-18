@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SSZ1P9V-es Rosenryan Bolsas de colofonia de 90 micras Bolsa de nylon...'
 sku: 'B07SSZ1P9V-es'
-tags: [ 'bolso', ]
 actualPrice: 18.96 EUR
 currency: EUR
 price: 18.96

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0853WTDR9-es Zapatos Casual Niña Pablosky Azul 342329 31'
 sku: 'B0853WTDR9-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','pablosky','zapatos', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

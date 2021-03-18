@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KM8NG17-es Yakmoo Bolso de Cintura Estilo Militar Táctico Bolsa de...'
 sku: 'B07KM8NG17-es'
-tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

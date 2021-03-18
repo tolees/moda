@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSTVF6X-es WISHDOIT Relojes para Hombres Impermeable Acero Inoxidable...'
 sku: 'B07HSTVF6X-es'
-tags: [ 'vestido', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

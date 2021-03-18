@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5LSH43-es BOSS Boxer Brief 24 Logo Negro Black 1 XX-Large para Hombre'
 sku: 'B07S5LSH43-es'
-tags: [ 'boxer', ]
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

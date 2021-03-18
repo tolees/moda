@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DKDV19-es BILLABONG™ - Bañador de Surf de pantalón - Hombre - L - Negro'
 sku: 'B081DKDV19-es'
-tags: [ 'pantalón', ]
 actualPrice: 20.44 EUR
 currency: EUR
 price: 20.44

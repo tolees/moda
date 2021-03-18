@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7KJQ2M-es Crocs Crocband Flip Chanclas Unisex-Adult Multi 42/43 EU'
 sku: 'B01N7KJQ2M-es'
-tags: [ 'chanclas', ]
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

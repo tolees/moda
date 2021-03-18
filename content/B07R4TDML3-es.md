@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R4TDML3-es Wrangler Greensboro Regular Jeans Vaqueros Azul Smooth...'
 sku: 'B07R4TDML3-es'
-tags: [ 'vaqueros', ]
 actualPrice: 36.22 EUR
 currency: EUR
 price: 36.22

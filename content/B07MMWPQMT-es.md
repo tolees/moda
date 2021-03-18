@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMWPQMT-es Wrangler Super High Skinny Vaqueros Azul Dark Indigo X1e...'
 sku: 'B07MMWPQMT-es'
-tags: [ 'vaqueros', ]
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

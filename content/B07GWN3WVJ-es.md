@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWN3WVJ-es LEABAGS Detroit Bolso Bandolera de auténtico Cuero búfalo...'
 sku: 'B07GWN3WVJ-es'
-tags: [ 'bolso', ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

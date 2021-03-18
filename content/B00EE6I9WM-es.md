@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EE6I9WM-es Fossil Collar para Hombre JF00899797'
 sku: 'B00EE6I9WM-es'
-tags: [ 'collar', ]
 actualPrice: 33.15 EUR
 currency: EUR
 price: 33.15

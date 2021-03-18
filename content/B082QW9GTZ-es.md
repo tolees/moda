@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082QW9GTZ-es oodji Ultra Mujer Blusa de Viscosa con Mangas 3/4...'
 sku: 'B082QW9GTZ-es'
-tags: [ 'blusa', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

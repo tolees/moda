@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQX5H1T-es Clarks Un Trail Form Zapatos de Cordones Derby Azul Navy...'
 sku: 'B07FQX5H1T-es'
-tags: [ 'zapatos', ]
 actualPrice: 44.8 EUR
 currency: EUR
 price: 44.8

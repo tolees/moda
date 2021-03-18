@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081CFKVQB-es Geographical Norway Chaqueta NIÑA Anson Azul Marino 10'
 sku: 'B081CFKVQB-es'
-tags: [ 'chaqueta', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

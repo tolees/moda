@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJM89GF-es Puma Men s MCFC Stadium INT SS Jersey Black/Georgia Peach...'
 sku: 'B07QJM89GF-es'
-tags: [ 'jersey', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

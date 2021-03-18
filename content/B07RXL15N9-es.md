@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXL15N9-es Levi s Innovation Super Skinny Vaqueros Gris Freak out...'
 sku: 'B07RXL15N9-es'
-tags: [ 'vaqueros', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

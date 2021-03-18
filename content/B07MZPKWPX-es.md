@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPKWPX-es Pepe Jeans Elcano Chaqueta Marrón Brass 891 3-4 años Talla...'
 sku: 'B07MZPKWPX-es'
-tags: [ 'chaqueta', ]
 actualPrice: 60.48 EUR
 currency: EUR
 price: 60.48

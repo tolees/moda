@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TW9RVBL-es Levi s Graphic tee Camiseta Blue Boxtab SS T2 Dress Blues...'
 sku: 'B07TW9RVBL-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

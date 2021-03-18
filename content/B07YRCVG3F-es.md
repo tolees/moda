@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YRCVG3F-es Marca Amazon - AURIQUE Shorts para Correr con Banda...'
 sku: 'B07YRCVG3F-es'
-tags: [ 'aurique', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VQXRCCJ-es TTYAOVO Vestido de Princesa con Encaje para Niñas Vestido...'
 sku: 'B07VQXRCCJ-es'
-tags: [ 'vestido', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

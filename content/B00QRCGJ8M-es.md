@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QRCGJ8M-es Geox U NEBULA B - zapatilla deportiva de cuero hombre Azul...'
 sku: 'B00QRCGJ8M-es'
-tags: [ 'geox','zapatilla', ]
 actualPrice: 58.59 EUR
 currency: EUR
 price: 58.59

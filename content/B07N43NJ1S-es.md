@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N43NJ1S-es Tommy Hilfiger Organic Cotton Silk V Neck Sudadera Pine...'
 sku: 'B07N43NJ1S-es'
-tags: [ 'sudadera', ]
 actualPrice: 43.88 EUR
 currency: EUR
 price: 43.88

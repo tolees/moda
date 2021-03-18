@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ59FK7-es Women s Secret Cozy Animals Ca Flamingo PJ Conjuntos de...'
 sku: 'B07TZ59FK7-es'
-tags: [ 'pijama', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

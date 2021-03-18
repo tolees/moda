@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ABQKUU-es Havaianas Brasil Chanclas Unisex Adulto Azul Brasil Logo...'
 sku: 'B003ABQKUU-es'
-tags: [ 'chanclas', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

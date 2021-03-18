@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0044WVPUY-es Crocs Crocband U Zuecos Unisex Adulto Marrón Espresso-...'
 sku: 'B0044WVPUY-es'
-tags: [ 'zuecos', ]
 actualPrice: 33.74 EUR
 currency: EUR
 price: 33.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H5Q1GX3-es Nero Giardini - NeroGiardini A923750M Zapatos De Cordones...'
 sku: 'B08H5Q1GX3-es'
-tags: [ 'zapatos', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

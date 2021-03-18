@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C62RKWB-es JACK & JONES Jjegingham Shirt L/s Camisa Multicolor Port...'
 sku: 'B07C62RKWB-es'
-tags: [ 'camisa', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF56DRZ-es Levi s 511 Slim Fit Vaqueros Durian Od Subtle 3720 32W /...'
 sku: 'B07KF56DRZ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IJFG5C4-es VNOX Hombres de Acero Inoxidable Sencilla Cruz Collar con...'
 sku: 'B01IJFG5C4-es'
-tags: [ 'collar', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

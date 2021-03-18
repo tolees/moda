@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SR3GSS6-es Lonsdale - Camiseta de manga corta con logotipo grande...'
 sku: 'B07SR3GSS6-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

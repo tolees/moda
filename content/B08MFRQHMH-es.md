@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MFRQHMH-es Vans Left Chest Logo tee Camiseta Vestido Blues-Blanco M...'
 sku: 'B08MFRQHMH-es'
-tags: [ 'camiseta','vestido', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

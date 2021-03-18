@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZVWC8Z-es SERAPHY Trajes de Calabaza encantadores de Halloween Bebés...'
 sku: 'B07WZVWC8Z-es'
-tags: [ 'chaleco', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

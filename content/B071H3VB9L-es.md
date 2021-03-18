@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071H3VB9L-es find. Botines con Suela de Crepe Estilo Óxford para Hombre...'
 sku: 'B071H3VB9L-es'
-tags: [ 'botines', ]
 actualPrice: 22.12 EUR
 currency: EUR
 price: 22.12

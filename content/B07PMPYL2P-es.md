@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PMPYL2P-es Wrangler Icons Camisa Azul 2 Years 922 Small para Hombre'
 sku: 'B07PMPYL2P-es'
-tags: [ 'camisa', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

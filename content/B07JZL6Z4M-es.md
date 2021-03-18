@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZL6Z4M-es adidas Estro 19 JSY Camiseta de Manga Corta Niños Power Red M'
 sku: 'B07JZL6Z4M-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

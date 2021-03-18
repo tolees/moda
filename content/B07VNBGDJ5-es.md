@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNBGDJ5-es Marca Amazon - find. Vaqueros Ceñidos con Bajo Elástico...'
 sku: 'B07VNBGDJ5-es'
-tags: [ '-','find.','vaqueros', ]
 actualPrice: 7.52 EUR
 currency: EUR
 price: 7.52

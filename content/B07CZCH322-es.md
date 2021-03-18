@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZCH322-es Under Armour UA Qualifier Camiseta Hombre Amarillo High-...'
 sku: 'B07CZCH322-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089T6GZ9K-es BOSS T-Shirt RN Camiseta Blanco Natural107 XS para Hombre'
 sku: 'B089T6GZ9K-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

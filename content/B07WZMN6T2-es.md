@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZMN6T2-es BOYOU Guantes de Ciclismo a Prueba de Viento para Hombre...'
 sku: 'B07WZMN6T2-es'
-tags: [ 'guantes', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

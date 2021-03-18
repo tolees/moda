@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KYMT8HA-es Geox U Siron Mocasines para Hombre Marrón Cognac C6001 39 EU'
 sku: 'B00KYMT8HA-es'
-tags: [ 'geox', ]
 actualPrice: 51.45 EUR
 currency: EUR
 price: 51.45

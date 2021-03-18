@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZV2VJSQ-es Helly Hansen Verglas Light Hoodie Chaqueta con Capucha...'
 sku: 'B07ZV2VJSQ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 42.03 EUR
 currency: EUR
 price: 42.03

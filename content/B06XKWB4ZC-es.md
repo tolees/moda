@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XKWB4ZC-es Nike Court Borough Low PSV Zapatos de Baloncesto para...'
 sku: 'B06XKWB4ZC-es'
-tags: [ 'zapatos', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

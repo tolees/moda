@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PGCS2-es Roxy Early Conjunto De Bikini Tiki Tri para Chicas 8-16...'
 sku: 'B0825PGCS2-es'
-tags: [ 'bikini', ]
 actualPrice: 19.05 EUR
 currency: EUR
 price: 19.05

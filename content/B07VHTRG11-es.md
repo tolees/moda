@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHTRG11-es Desigual Vest cuautitlá Vestido Blanco Blanco 1000 116...'
 sku: 'B07VHTRG11-es'
-tags: [ 'vestido', ]
 actualPrice: 24.62 EUR
 currency: EUR
 price: 24.62

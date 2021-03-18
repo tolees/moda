@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081D82BKY-es LEGO Wear Mwb - Sweatshirt Mit Kapuze Sudadera con Capucha...'
 sku: 'B081D82BKY-es'
-tags: [ 'sudadera', ]
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

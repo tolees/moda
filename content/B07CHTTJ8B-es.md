@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CHTTJ8B-es Levi s SS Original Hm tee Camiseta Cotton + Patch White M...'
 sku: 'B07CHTTJ8B-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CJ2GQPB-es adidas M MHS Aero FZHD Sudadera Hombre Blanco 2XL'
 sku: 'B08CJ2GQPB-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.39 EUR
 currency: EUR
 price: 27.39

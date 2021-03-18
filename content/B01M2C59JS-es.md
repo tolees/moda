@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M2C59JS-es NAME IT NITSTAR RIKA DNM JACKET NMT NOOS Chaqueta Niños...'
 sku: 'B01M2C59JS-es'
-tags: [ 'chaqueta', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

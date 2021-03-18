@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084J3YZGJ-es Petit Bateau 5710501 - Pijama de Flores para niña...'
 sku: 'B084J3YZGJ-es'
-tags: [ 'petit bateau','pijama', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F2QLZNY-es Helly Hansen W Crew Midlayer Jacket Chaqueta Impermeable...'
 sku: 'B07F2QLZNY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 68.15 EUR
 currency: EUR
 price: 68.15

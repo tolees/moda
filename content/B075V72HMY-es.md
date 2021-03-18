@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075V72HMY-es Marca Amazon - AURIQUE Leggings Deporte Petite Mujer Azul...'
 sku: 'B075V72HMY-es'
-tags: [ 'aurique', ]
 actualPrice: 9.64 EUR
 currency: EUR
 price: 9.64

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013V6O4WO-es Levi s Housemark Polo Camiseta para Hombre Azul 104 DRESS...'
 sku: 'B013V6O4WO-es'
-tags: [ 'camiseta', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

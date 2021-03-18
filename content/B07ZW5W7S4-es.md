@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZW5W7S4-es Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón...'
 sku: 'B07ZW5W7S4-es'
-tags: [ '-','find.','zapatos', ]
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

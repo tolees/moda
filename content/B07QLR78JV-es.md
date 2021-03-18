@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLR78JV-es Tuopuda Calzoncillos para Hombre Ropa Interior Boxer Slip...'
 sku: 'B07QLR78JV-es'
-tags: [ 'boxer', ]
 actualPrice: 12.16 EUR
 currency: EUR
 price: 12.16

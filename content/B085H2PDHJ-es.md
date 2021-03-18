@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085H2PDHJ-es Tuc Tuc Camiseta Punto Patch Azul 6A para Niñas'
 sku: 'B085H2PDHJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

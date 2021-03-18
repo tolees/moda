@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W36BKZ8-es Pepe Jeans Rocio Vestido Azul Denim 000 8-9 años Talla del...'
 sku: 'B07W36BKZ8-es'
-tags: [ 'vestido', ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJD9PKY-es Geox D Vega Moc B Mocasines para Mujer Rojo Scarlet/Off...'
 sku: 'B07DJD9PKY-es'
-tags: [ 'geox', ]
 actualPrice: 44.44 EUR
 currency: EUR
 price: 44.44

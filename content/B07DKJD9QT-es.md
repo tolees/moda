@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DKJD9QT-es Puma Essentials HD Sudadera con Capucha Hombre Negro Black L'
 sku: 'B07DKJD9QT-es'
-tags: [ 'sudadera', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ERZ3JG0-es Joma Combi Camiseta Manga Corta Hombre Naranja Coral Fluor...'
 sku: 'B01ERZ3JG0-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

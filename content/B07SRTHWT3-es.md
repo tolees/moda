@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRTHWT3-es Quiksilver Molokai Marled Zapatos de Playa y Piscina...'
 sku: 'B07SRTHWT3-es'
-tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

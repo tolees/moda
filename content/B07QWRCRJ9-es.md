@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QWRCRJ9-es LIGE Reloj para Hombre Militar Deportivo Luminoso...'
 sku: 'B07QWRCRJ9-es'
-tags: [ 'moda', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

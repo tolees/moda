@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SL3VYD3-es Vans MN Classic Crew II Sudadera Negro Black-White Y28 M...'
 sku: 'B07SL3VYD3-es'
-tags: [ 'sudadera', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

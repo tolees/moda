@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGSLVXR-es edc by Esprit 999cc2k803 Camiseta Blanco White 100 Medium...'
 sku: 'B07KGSLVXR-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

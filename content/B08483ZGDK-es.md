@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08483ZGDK-es Pepe Jeans New Virginia LS Camiseta Rojo 288 Small para Mujer'
 sku: 'B08483ZGDK-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXCN2TH-es GRAT.UNIC Leggins Mujer de Yoga Leggings Fitness Mallas...'
 sku: 'B08CXCN2TH-es'
-tags: [ 'leggins', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

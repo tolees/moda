@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F691PYS-es oodji Ultra Mujer Blusa de Manga Corta con Acabado en...'
 sku: 'B07F691PYS-es'
-tags: [ 'blusa', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

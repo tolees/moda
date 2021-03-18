@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V1GCV6S-es Starpro Guantes de boxeo 8 oz 10 oz 12 oz 14 oz 16 oz...'
 sku: 'B07V1GCV6S-es'
-tags: [ 'guantes', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

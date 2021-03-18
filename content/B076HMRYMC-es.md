@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HMRYMC-es adidas CORE18 PES JKT Chaqueta de Deporte Hombre Azul...'
 sku: 'B076HMRYMC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

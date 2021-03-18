@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2DRB3C-es Marca Amazon - AURIQUE Printed - Chaqueta bomber Mujer...'
 sku: 'B07G2DRB3C-es'
-tags: [ 'aurique','chaqueta', ]
 actualPrice: 10.67 EUR
 currency: EUR
 price: 10.67

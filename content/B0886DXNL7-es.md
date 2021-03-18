@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0886DXNL7-es deAO Juego de Lanza y Atrapa Conjunto Incluye 2 Guantes de...'
 sku: 'B0886DXNL7-es'
-tags: [ 'guantes', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

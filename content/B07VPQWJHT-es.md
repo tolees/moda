@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPQWJHT-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte...'
 sku: 'B07VPQWJHT-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

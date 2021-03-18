@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3WK3X1-es Desigual Dress LENCY Vestido Azul Medieval Blue 5074 Talla...'
 sku: 'B07N3WK3X1-es'
-tags: [ 'vestido', ]
 actualPrice: 21.47 EUR
 currency: EUR
 price: 21.47

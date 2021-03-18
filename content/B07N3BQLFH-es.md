@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3BQLFH-es Desigual Coat SIGRUN Abrigo blanco Blanco 1000 40 para Mujer'
 sku: 'B07N3BQLFH-es'
-tags: [ 'abrigo', ]
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072NCTMYX-es adidas ESS Lin Fzhoodb Sudadera Hombre Azul Maruni/Blanco XS'
 sku: 'B072NCTMYX-es'
-tags: [ 'sudadera', ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

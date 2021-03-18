@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081CCFW1S-es Geographical Norway Chaqueta NIÑO BOKER 068 rol 7+ BS'
 sku: 'B081CCFW1S-es'
-tags: [ 'chaqueta', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

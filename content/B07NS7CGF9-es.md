@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NS7CGF9-es Marco Tozzi 2-2-22416-33 Zapatos de Tacón para Mujer...'
 sku: 'B07NS7CGF9-es'
-tags: [ 'zapatos', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

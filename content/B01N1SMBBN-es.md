@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1SMBBN-es find. 13646 vestido fiesta mujer Negro Black 36 Talla del...'
 sku: 'B01N1SMBBN-es'
-tags: [ 'vestido', ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

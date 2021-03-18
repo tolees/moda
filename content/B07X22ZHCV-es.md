@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X22ZHCV-es G-STAR RAW Pocket Long Sleeve Sudadera Beige Khaki 047-367...'
 sku: 'B07X22ZHCV-es'
-tags: [ 'sudadera', ]
 actualPrice: 23.72 EUR
 currency: EUR
 price: 23.72

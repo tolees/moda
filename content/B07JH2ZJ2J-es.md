@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH2ZJ2J-es PUMA ftblNXT Shirt Camiseta Hombre Azul Bleu Azur/Red...'
 sku: 'B07JH2ZJ2J-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

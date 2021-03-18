@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MNZN1CP-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
 sku: 'B07MNZN1CP-es'
-tags: [ 'zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

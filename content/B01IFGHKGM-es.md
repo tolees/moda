@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IFGHKGM-es Timberland Heritage 6 Inch Premium Waterproof Botas para...'
 sku: 'B01IFGHKGM-es'
-tags: [ 'timberland', ]
 actualPrice: 147.49 EUR
 currency: EUR
 price: 147.49

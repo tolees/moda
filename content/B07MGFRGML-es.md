@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGFRGML-es Napapijri BOVES C Sudadera Azul BLU Marine 176 M para Hombre'
 sku: 'B07MGFRGML-es'
-tags: [ 'sudadera', ]
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

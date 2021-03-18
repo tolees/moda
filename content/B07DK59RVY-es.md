@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DK59RVY-es Geox J Dakin Boy A Zapatillas Niños Azul Navy/Lime C0749...'
 sku: 'B07DK59RVY-es'
-tags: [ 'geox', ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

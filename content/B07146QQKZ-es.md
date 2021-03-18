@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07146QQKZ-es Hill Burry Cartera de Cuero para Mujer | Billetera -...'
 sku: 'B07146QQKZ-es'
-tags: [ 'billetera','monedero', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

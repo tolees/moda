@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WCV6N3Q-es TEEHON Carteras Hombre con Monedero Cartera RFID Cartera...'
 sku: 'B07WCV6N3Q-es'
-tags: [ 'monedero', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

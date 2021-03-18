@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3BNL5S-es adidas Stockhorn FL J Sudadera Hombre Black 46'
 sku: 'B07G3BNL5S-es'
-tags: [ 'sudadera', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

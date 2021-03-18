@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085H2SQ6T-es Tuc Tuc Camiseta Punto BÁSICOS BEBÉ Verde 6A para Niñas'
 sku: 'B085H2SQ6T-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JFXQTX5-es GLOGLOW Capa Casual de otoño de Las Mujeres Encaje...'
 sku: 'B07JFXQTX5-es'
-tags: [ 'blusa','chaqueta', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

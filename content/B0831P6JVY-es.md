@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0831P6JVY-es Canadian Peak Sudadera DE Mujer GYRELLE Azul Marino 03'
 sku: 'B0831P6JVY-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

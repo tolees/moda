@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNVPDK3-es Clarks Willow Gild Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TNVPDK3-es'
-tags: [ 'sandalias', ]
 actualPrice: 14.93 EUR
 currency: EUR
 price: 14.93

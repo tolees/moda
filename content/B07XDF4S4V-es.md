@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XDF4S4V-es NUBILY - Bolso Mujer Bolsos Bandolera para Ordenador...'
 sku: 'B07XDF4S4V-es'
-tags: [ 'bolso', ]
 actualPrice: 23.11 EUR
 currency: EUR
 price: 23.11

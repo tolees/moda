@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HTGB7HM-es Columbia Powder Lite Chaqueta para Hombre Negro S'
 sku: 'B01HTGB7HM-es'
-tags: [ 'chaqueta', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

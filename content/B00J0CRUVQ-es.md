@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J0CRUVQ-es Polaroid 07886- Gafas de sol color 9CA RC negro black...'
 sku: 'B00J0CRUVQ-es'
-tags: [ 'gafas', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

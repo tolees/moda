@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T4KC9Y8-es FeelinGirl Mujer Vestido Maxi Estampado Floral Espalda...'
 sku: 'B07T4KC9Y8-es'
-tags: [ 'falda','vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

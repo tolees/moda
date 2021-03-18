@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000G23ELY-es Timberland Classic 2 Eye Náuticos para Hombre Marrón...'
 sku: 'B000G23ELY-es'
-tags: [ 'timberland', ]
 actualPrice: 105.21 EUR
 currency: EUR
 price: 105.21

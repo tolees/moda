@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079WCMX8N-es Carrera 154/S Gafas de sol Negro BLACK 51 Unisex Adulto'
 sku: 'B079WCMX8N-es'
-tags: [ 'gafas', ]
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

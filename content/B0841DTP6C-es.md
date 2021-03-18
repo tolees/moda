@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841DTP6C-es Tommy Hilfiger TJM Colorado Graphic tee Camisa Blanco XL...'
 sku: 'B0841DTP6C-es'
-tags: [ 'camisa', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

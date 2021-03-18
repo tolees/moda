@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DYXVYZ6-es Columbia Bugaboo II Chaqueta Interchange con Forro Polar...'
 sku: 'B07DYXVYZ6-es'
-tags: [ 'chaqueta', ]
 actualPrice: 78.75 EUR
 currency: EUR
 price: 78.75

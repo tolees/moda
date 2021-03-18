@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776XXJ6D-es Tommy Hilfiger Original Rib Camisa Negro Tommy Black 078...'
 sku: 'B0776XXJ6D-es'
-tags: [ 'camisa', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HDPPU22-es Columbia Vapor Vent Zapatos Hombre Black Black White 010...'
 sku: 'B01HDPPU22-es'
-tags: [ 'zapatos', ]
 actualPrice: 53.19 EUR
 currency: EUR
 price: 53.19

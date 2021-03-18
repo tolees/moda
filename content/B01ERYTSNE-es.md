@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ERYTSNE-es Joma Elite V Camiseta Unisex Adulto Azul Marino S'
 sku: 'B01ERYTSNE-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

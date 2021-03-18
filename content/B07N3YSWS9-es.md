@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3YSWS9-es G-STAR RAW 3301 Slim Vaqueros Vintage Medium Aged...'
 sku: 'B07N3YSWS9-es'
-tags: [ 'vaqueros', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TTDSM9-es adidas Tech Bos Tank Camiseta sin Mangas Mujer Black/White...'
 sku: 'B081TTDSM9-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.21 EUR
 currency: EUR
 price: 17.21

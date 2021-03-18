@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNKZLF2-es Apretón de Zapatos Crampones Nieve Accesorios Deportivo...'
 sku: 'B07FNKZLF2-es'
-tags: [ 'zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

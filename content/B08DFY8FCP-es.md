@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DFY8FCP-es Fendysey - Inserciones de tacón alto 2 pares de...'
 sku: 'B08DFY8FCP-es'
-tags: [ 'sandalias','zapatos', ]
 actualPrice: 1.29 EUR
 currency: EUR
 price: 1.29

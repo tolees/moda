@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HYKQDSF-es HAWKERS · ONE LS · Burgundy · Dark · Gafas de sol para...'
 sku: 'B07HYKQDSF-es'
-tags: [ 'gafas', ]
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

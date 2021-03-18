@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBT1MQQ-es DANISH ENDURANCE Boxer Bambu Pack de 3 Negro Medium'
 sku: 'B07XBT1MQQ-es'
-tags: [ 'boxer', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

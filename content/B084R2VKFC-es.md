@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084R2VKFC-es G-STAR RAW Text Slim Camiseta azufre Verde 336-5164 Medium...'
 sku: 'B084R2VKFC-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

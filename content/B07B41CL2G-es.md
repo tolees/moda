@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B41CL2G-es Clarks Walbeck Edge II Zapatos de Cordones Derby para...'
 sku: 'B07B41CL2G-es'
-tags: [ 'zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

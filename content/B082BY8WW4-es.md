@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082BY8WW4-es Levi s - LEVIS FOOTWEAR AND ACCESORIAS Turner zapatos de...'
 sku: 'B082BY8WW4-es'
-tags: [ 'zapatos', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

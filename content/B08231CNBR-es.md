@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08231CNBR-es Charles Wilson Pantalón Deportivo Polar Mezcla de Algodón...'
 sku: 'B08231CNBR-es'
-tags: [ 'pantalón', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

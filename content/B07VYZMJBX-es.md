@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYZMJBX-es Pepe Jeans Jerrod Camiseta Azul Indigo 561 X-Large para...'
 sku: 'B07VYZMJBX-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

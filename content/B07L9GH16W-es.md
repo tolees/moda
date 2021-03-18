@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9GH16W-es Under Armour Storm Launch Linked Up Chaqueta Mujer Verde MD'
 sku: 'B07L9GH16W-es'
-tags: [ 'chaqueta', ]
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FR4VND9-es Clarks Deva Mae Zapatos con Tacon y Correa de Tobillo...'
 sku: 'B07FR4VND9-es'
-tags: [ 'zapatos', ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

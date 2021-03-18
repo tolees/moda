@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VB746GJ-es Napapijri Agard Chaqueta bomber Azul Blu Marine 1761 Small...'
 sku: 'B07VB746GJ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 77.22 EUR
 currency: EUR
 price: 77.22

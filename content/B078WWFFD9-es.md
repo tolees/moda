@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WWFFD9-es Roxy Napili II J SNDL Zapatos de Playa y Piscina para...'
 sku: 'B078WWFFD9-es'
-tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

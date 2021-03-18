@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MYXPNYL-es Zhao Xuan Trade Los Angeles Lakers Lebron James Baloncesto...'
 sku: 'B07MYXPNYL-es'
-tags: [ 'jersey', ]
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

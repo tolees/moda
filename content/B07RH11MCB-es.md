@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH11MCB-es LAOYE Collar de pulgas - 8 Meses de protección el Collar...'
 sku: 'B07RH11MCB-es'
-tags: [ 'collar', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

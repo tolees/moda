@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N99DZJL-es Pepe Jeans Rhye Camiseta Blanco Optic White 802 Medium...'
 sku: 'B07N99DZJL-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF67PSW-es Levi s 510 Skinny Fit Vaqueros para Hombre Gris Deathcap...'
 sku: 'B07LF67PSW-es'
-tags: [ 'vaqueros', ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

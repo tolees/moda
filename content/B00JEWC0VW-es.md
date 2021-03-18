@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JEWC0VW-es Blend 700522 Blizzard - Vaqueros para hombres color azul...'
 sku: 'B00JEWC0VW-es'
-tags: [ 'vaqueros', ]
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

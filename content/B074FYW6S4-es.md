@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074FYW6S4-es Farah Brewer Camisa Blanco White 104 X-Small Talla del...'
 sku: 'B074FYW6S4-es'
-tags: [ 'camisa', ]
 actualPrice: 25.14 EUR
 currency: EUR
 price: 25.14

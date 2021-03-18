@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT6BZ29-es Levi s The Original Camiseta Azul Hm Patch OG tee...'
 sku: 'B07TT6BZ29-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

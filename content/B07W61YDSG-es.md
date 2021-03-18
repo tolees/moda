@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W61YDSG-es Springfield Solid Pinpoint Color-c/16 Camisa Casual Azul...'
 sku: 'B07W61YDSG-es'
-tags: [ 'camisa', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

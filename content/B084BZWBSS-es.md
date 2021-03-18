@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084BZWBSS-es PUMA teamFINAL Indoor Jersey Camiseta Hombre Puma...'
 sku: 'B084BZWBSS-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

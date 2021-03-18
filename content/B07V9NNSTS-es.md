@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V9NNSTS-es Hackett London Garment Dye LN BS Camisa de Oficina Blanco...'
 sku: 'B07V9NNSTS-es'
-tags: [ 'camisa', ]
 actualPrice: 33.74 EUR
 currency: EUR
 price: 33.74

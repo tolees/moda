@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TT8YM1-es adidas M BB T Camiseta de Manga Corta Hombre Scarlet/Black S'
 sku: 'B081TT8YM1-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

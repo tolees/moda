@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H92LPHW-es Gennia RESPIRO. - Zapatos de Tacon de Aguja 9 cm con Punta...'
 sku: 'B07H92LPHW-es'
-tags: [ 'zapatos', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

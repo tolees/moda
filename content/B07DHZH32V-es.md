@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DHZH32V-es Geox D Annytah D Bailarinas Mujer Verde Lt Green C3001 36 EU'
 sku: 'B07DHZH32V-es'
-tags: [ 'geox', ]
 actualPrice: 35.01 EUR
 currency: EUR
 price: 35.01

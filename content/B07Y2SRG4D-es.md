@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y2SRG4D-es Botines Impermeables Hombre Mujer Botas de Nieve Botines...'
 sku: 'B07Y2SRG4D-es'
-tags: [ 'botines','zapatos', ]
 actualPrice: 32.3 EUR
 currency: EUR
 price: 32.3

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VFL3YY8-es HUGO Elisha02 Camisa Blanco Open White 199 46 para Hombre'
 sku: 'B07VFL3YY8-es'
-tags: [ 'camisa', ]
 actualPrice: 34.14 EUR
 currency: EUR
 price: 34.14

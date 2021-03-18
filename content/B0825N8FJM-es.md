@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825N8FJM-es GEOX D TABELYA A TOBACCO/BLACK Women s Trainers Low-Top...'
 sku: 'B0825N8FJM-es'
-tags: [ 'geox', ]
 actualPrice: 40.46 EUR
 currency: EUR
 price: 40.46

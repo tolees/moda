@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MRAS5V7-es G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros Dk...'
 sku: 'B01MRAS5V7-es'
-tags: [ 'vaqueros', ]
 actualPrice: 17.46 EUR
 currency: EUR
 price: 17.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G1FTPL4-es Ocobudbxw Mujeres niñas Moda en Forma de corazón Embrague...'
 sku: 'B08G1FTPL4-es'
-tags: [ 'bolso','moda','monedero', ]
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

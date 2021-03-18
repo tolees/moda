@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7JN2E8-es Columbia Heather Canyon Chaqueta Softshell Hombre Gris...'
 sku: 'B01N7JN2E8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 55.89 EUR
 currency: EUR
 price: 55.89

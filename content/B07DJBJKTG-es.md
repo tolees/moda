@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJBJKTG-es Geox D Rubidia A Zapatillas para Mujer Marrón Curry C2021...'
 sku: 'B07DJBJKTG-es'
-tags: [ 'geox', ]
 actualPrice: 45.57 EUR
 currency: EUR
 price: 45.57

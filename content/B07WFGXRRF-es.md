@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WFGXRRF-es Pepe Jeans Irvin Bolso de Mano Gris 24 5x15x6 cms Poliéster'
 sku: 'B07WFGXRRF-es'
-tags: [ 'bolso', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

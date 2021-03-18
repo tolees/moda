@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X5JZZ1K-es Gafas de Presbicia con Filtro Anti Luz Azul para...'
 sku: 'B07X5JZZ1K-es'
-tags: [ 'gafas', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

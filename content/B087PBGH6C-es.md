@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PBGH6C-es Suhctup Funda Compatible con Xiaomi Mi CC9e/Mi A3...'
 sku: 'B087PBGH6C-es'
-tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

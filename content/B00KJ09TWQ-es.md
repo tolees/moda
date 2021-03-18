@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KJ09TWQ-es Calvin Klein Damen Slip MODERN COTTON - BIKINI Einfarbig...'
 sku: 'B00KJ09TWQ-es'
-tags: [ 'bikini', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

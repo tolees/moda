@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGC4S7B-es Lacoste Sh6382 Sudadera Gris Argent Chiné Cca XX-Large...'
 sku: 'B07JGC4S7B-es'
-tags: [ 'sudadera', ]
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

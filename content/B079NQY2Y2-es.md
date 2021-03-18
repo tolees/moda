@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079NQY2Y2-es Vero Moda Vmverodona LS Jacket Noos Abrigo Gris Light Grey...'
 sku: 'B079NQY2Y2-es'
-tags: [ 'abrigo','moda', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

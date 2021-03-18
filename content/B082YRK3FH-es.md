@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082YRK3FH-es Superdry R&p Chestband tee Camiseta óptico L para Hombre'
 sku: 'B082YRK3FH-es'
-tags: [ 'camiseta', ]
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VQ8LGJB-es ARTESANIA CERDA Bolso Bandolera Star Wars Mochila para...'
 sku: 'B07VQ8LGJB-es'
-tags: [ 'bolso', ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

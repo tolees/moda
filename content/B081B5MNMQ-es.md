@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081B5MNMQ-es Columbia Silver Ridge 2.0 Camisa de Manga Corta Hombre...'
 sku: 'B081B5MNMQ-es'
-tags: [ 'camisa', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

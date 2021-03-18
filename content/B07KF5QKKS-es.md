@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KF5QKKS-es Levi s 511 Slim Vaqueros Fennel Subtle 32W / 32L para Hombre'
 sku: 'B07KF5QKKS-es'
-tags: [ 'vaqueros', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M83W2ZW-es Napapijri K Rainforest 1 Chaqueta Rosa Dahlia Pink PA5 4...'
 sku: 'B07M83W2ZW-es'
-tags: [ 'chaqueta', ]
 actualPrice: 76.95 EUR
 currency: EUR
 price: 76.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UC13XCO-es Fruit of the Loom Heavy Cotton Tee Shirt 3 Pack Camiseta...'
 sku: 'B00UC13XCO-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

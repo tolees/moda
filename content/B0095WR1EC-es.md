@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0095WR1EC-es Ray Ban Erika - Gafas de sol unisex rama color marron y...'
 sku: 'B0095WR1EC-es'
-tags: [ 'gafas', ]
 actualPrice: 91.68 EUR
 currency: EUR
 price: 91.68

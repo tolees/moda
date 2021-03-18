@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012N51ZQC-es Desconocido Ajustables Cordon Elastico Cuello Deporte...'
 sku: 'B012N51ZQC-es'
-tags: [ 'gafas', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

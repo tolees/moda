@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JW7D8Y3-es G-STAR RAW Graphic 8 Round Neck Camiseta Negro dk Black...'
 sku: 'B07JW7D8Y3-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

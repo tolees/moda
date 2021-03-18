@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XCJYQC2-es Clarks Adriel Viola Zapatos de Tacón para Mujer Negro...'
 sku: 'B06XCJYQC2-es'
-tags: [ 'zapatos', ]
 actualPrice: 55.97 EUR
 currency: EUR
 price: 55.97

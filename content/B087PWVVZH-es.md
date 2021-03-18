@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PWVVZH-es Mediffen Mujer Noche Tacón De Aguja Tacón Alto Cierre De...'
 sku: 'B087PWVVZH-es'
-tags: [ 'sandalias', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

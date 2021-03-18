@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1BX6MS-es Lee Essential Logo SWS Sudadera Gris Grey Mele MP XXX-...'
 sku: 'B07N1BX6MS-es'
-tags: [ 'sudadera', ]
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

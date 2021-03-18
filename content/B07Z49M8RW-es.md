@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z49M8RW-es Jack & Jones Jjeeric Puffer Collar Noos Chaqueta Gris...'
 sku: 'B07Z49M8RW-es'
-tags: [ 'chaqueta','collar', ]
 actualPrice: 31.15 EUR
 currency: EUR
 price: 31.15

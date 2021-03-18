@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TW9RZ7L-es Levi s 511 Slim Vaqueros Beige Harvest Gold Sueded Sateen...'
 sku: 'B07TW9RZ7L-es'
-tags: [ 'vaqueros', ]
 actualPrice: 38.59 EUR
 currency: EUR
 price: 38.59

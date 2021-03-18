@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUHIN3I-es Braun Silk-épil 7 7-561 - Pack depiladora eléctrica para...'
 sku: 'B01MUHIN3I-es'
-tags: [ 'bikini', ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

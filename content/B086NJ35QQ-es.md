@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086NJ35QQ-es Mariamare Polaris Botas de Moda para Mujer Brush Negro 40 EU'
 sku: 'B086NJ35QQ-es'
-tags: [ 'moda', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

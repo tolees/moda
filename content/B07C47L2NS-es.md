@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C47L2NS-es Pepe Jeans Thrift Pl400755cf7 Chaqueta Vaquera Azul Denim...'
 sku: 'B07C47L2NS-es'
-tags: [ 'chaqueta', ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

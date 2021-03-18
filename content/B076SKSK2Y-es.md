@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076SKSK2Y-es oodji Ultra Mujer Blusa Básica de Viscosa con Bolsillos en...'
 sku: 'B076SKSK2Y-es'
-tags: [ 'blusa', ]
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8T7S9N-es Morgan 192-rmubli.n Vestido Negro Noir Noir X-Large Talla...'
 sku: 'B07P8T7S9N-es'
-tags: [ 'vestido', ]
 actualPrice: 23.13 EUR
 currency: EUR
 price: 23.13

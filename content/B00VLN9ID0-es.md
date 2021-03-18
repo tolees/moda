@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VLN9ID0-es Levi s Graphic Set-In Neck Camiseta para Hombre Azul...'
 sku: 'B00VLN9ID0-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

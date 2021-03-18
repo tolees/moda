@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHJF5NJ-es Burton Oak Sudadera Hombre Keef Heather M'
 sku: 'B07SHJF5NJ-es'
-tags: [ 'sudadera', ]
 actualPrice: 26.37 EUR
 currency: EUR
 price: 26.37

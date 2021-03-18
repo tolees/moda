@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJP4L2N-es Clarks Annadel Parker Sandalias de Talón Abierto para...'
 sku: 'B07TJP4L2N-es'
-tags: [ 'sandalias', ]
 actualPrice: 30.31 EUR
 currency: EUR
 price: 30.31

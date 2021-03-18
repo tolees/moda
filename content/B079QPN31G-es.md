@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QPN31G-es Levi s 502 Regular Taper Vaqueros Azul Stonewash 95978...'
 sku: 'B079QPN31G-es'
-tags: [ 'vaqueros', ]
 actualPrice: 40.14 EUR
 currency: EUR
 price: 40.14

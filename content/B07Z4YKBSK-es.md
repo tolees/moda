@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4YKBSK-es Bolso de Fiesta Noche Mujer Embrague Cartera de Mano de...'
 sku: 'B07Z4YKBSK-es'
-tags: [ 'bolso','monedero', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

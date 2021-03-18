@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FGWG31-es Lacoste Pf5464 Camisa de Polo Negro 38 para Mujer'
 sku: 'B083FGWG31-es'
-tags: [ 'camisa', ]
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001XYAAVG-es Craft Cool Mesh Camiseta Interior para Hombre Hombre Black L'
 sku: 'B001XYAAVG-es'
-tags: [ 'camiseta', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

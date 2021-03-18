@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CDMT39-es Geographical Norway Chaqueta NIÑA Anson Rosa Llamativo 12'
 sku: 'B081CDMT39-es'
-tags: [ 'chaqueta', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

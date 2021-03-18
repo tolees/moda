@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKFWY4H-es Nike Sunray Adjust 5 GS/PS Zapatos de Playa y Piscina para...'
 sku: 'B07FKFWY4H-es'
-tags: [ 'zapatos', ]
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

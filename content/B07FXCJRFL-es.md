@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXCJRFL-es ENKEEO - Gafas de Esquí Snowboard Esquiar VLT 13.67% Lente...'
 sku: 'B07FXCJRFL-es'
-tags: [ 'gafas', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

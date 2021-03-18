@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQGWM44-es Geox D Hiver A Zapatillas para Mujer Plateado Silver/Lt...'
 sku: 'B07SQGWM44-es'
-tags: [ 'geox', ]
 actualPrice: 29.32 EUR
 currency: EUR
 price: 29.32

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRN6KY-es Geox D ANNYTAH Moc A Mocasines Mujer Azul Dk Blue C4007...'
 sku: 'B07LFRN6KY-es'
-tags: [ 'geox', ]
 actualPrice: 46.72 EUR
 currency: EUR
 price: 46.72

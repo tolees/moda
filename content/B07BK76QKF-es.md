@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BK76QKF-es Panama Jack Sanders Basics Sandalias con Punta Abierta...'
 sku: 'B07BK76QKF-es'
-tags: [ 'sandalias', ]
 actualPrice: 49.05 EUR
 currency: EUR
 price: 49.05

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TPPJXD5-es Levi s Housemark Graphic tee Camiseta Green Hm Ssnl Emb...'
 sku: 'B07TPPJXD5-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

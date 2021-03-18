@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00W3T5YVQ-es Joma Combi Camiseta Manga Corta Hombres Rosa Fucsia 6XS-5XS'
 sku: 'B00W3T5YVQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

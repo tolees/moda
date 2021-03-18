@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M7MZFW1-es Lover-Beauty Camisa Mujer Raya Cuello Redondo Manga Corta...'
 sku: 'B07M7MZFW1-es'
-tags: [ 'blusa','camisa','camiseta','jersey', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

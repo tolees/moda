@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTRRJDK-es Jack & Jones Jjiglenn Jjoriginal JOS 800 I.K Vaqueros Slim...'
 sku: 'B07XTRRJDK-es'
-tags: [ 'vaqueros', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ51WJ5-es Women s Secret Home Hm Weekend Set Conjuntos de Pijama...'
 sku: 'B07TZ51WJ5-es'
-tags: [ 'pijama', ]
 actualPrice: 14.73 EUR
 currency: EUR
 price: 14.73

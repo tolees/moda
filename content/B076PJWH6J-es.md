@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PJWH6J-es Speedo Futura Biofuse Flexiseal Junior Gafas de Natación...'
 sku: 'B076PJWH6J-es'
-tags: [ 'gafas', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

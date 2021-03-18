@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQDNK3-es Levi s The Perfect tee Camiseta Batwing Greenery Film...'
 sku: 'B07ZVQDNK3-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

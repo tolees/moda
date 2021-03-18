@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2R7DG5-es Talbot Torro Set de Badminton 2 Attacker Junior para Niños...'
 sku: 'B07N2R7DG5-es'
-tags: [ 'bolso', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

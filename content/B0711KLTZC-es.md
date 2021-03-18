@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0711KLTZC-es Amison - Barbacoa Grill guantes resistente al calor con...'
 sku: 'B0711KLTZC-es'
-tags: [ 'guantes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

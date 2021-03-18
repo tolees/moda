@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYMNH33-es HUGO Trunk Brother Pack Bóxer Blanco Open White 122 Small...'
 sku: 'B07RYMNH33-es'
-tags: [ 'bóxer', ]
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

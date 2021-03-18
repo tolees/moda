@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDXXNH2-es Canadian Peak - Sudadera para Hombre Turquesa L'
 sku: 'B07YDXXNH2-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797NJXJ5-es Spalding Team II Sudadera con Capucha Hombre Azul Royal M'
 sku: 'B0797NJXJ5-es'
-tags: [ 'sudadera', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

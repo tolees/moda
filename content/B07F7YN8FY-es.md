@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7YN8FY-es Only Onlpaola HW SK Dnm Jeans Azgz878 Noos Vaqueros Skinny...'
 sku: 'B07F7YN8FY-es'
-tags: [ 'vaqueros', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

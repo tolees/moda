@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGKTRQH-es Napapijri Acalmar 3 Chaqueta Gris Volcano H741 XXX-Large...'
 sku: 'B07VGKTRQH-es'
-tags: [ 'chaqueta', ]
 actualPrice: 75.6 EUR
 currency: EUR
 price: 75.6

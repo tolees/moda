@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074H3HYQH-es Marca Amazon - find. Blusa de Rayas con Lazada para Mujer...'
 sku: 'B074H3HYQH-es'
-tags: [ '-','blusa','find.', ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

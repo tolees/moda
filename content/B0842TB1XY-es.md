@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0842TB1XY-es Calvin Klein Archive Logo tee Camisa Cherry Tomato L para...'
 sku: 'B0842TB1XY-es'
-tags: [ 'camisa', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

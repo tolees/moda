@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G7ZC5BS-es wilbest® Cartera Hombre Billetera Hombre Carteras Hombre...'
 sku: 'B07G7ZC5BS-es'
-tags: [ 'billetera','monedero', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

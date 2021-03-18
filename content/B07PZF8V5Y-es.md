@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PZF8V5Y-es Clarks Scala Seek K Sandalias Punta Cerrada para Niñas...'
 sku: 'B07PZF8V5Y-es'
-tags: [ 'sandalias', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

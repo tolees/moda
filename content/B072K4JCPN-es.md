@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072K4JCPN-es Teva W Hurricane Xlt2 Sandalias de Punta Descubierta para...'
 sku: 'B072K4JCPN-es'
-tags: [ 'sandalias', ]
 actualPrice: 29.12 EUR
 currency: EUR
 price: 29.12

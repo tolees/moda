@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XZP3NMY-es Hauck Cuna de Viaje Play N Relax Center de Nacimiento...'
 sku: 'B07XZP3NMY-es'
-tags: [ 'bolso', ]
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

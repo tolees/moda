@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMLNZJ1-es Napapijri SOVES Camiseta Azul French Blue BB7 XL para Hombre'
 sku: 'B07MMLNZJ1-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.82 EUR
 currency: EUR
 price: 12.82

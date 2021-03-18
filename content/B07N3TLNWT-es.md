@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3TLNWT-es Desigual Coat Dante Abrigo Negro Negro 2000 38 Talla del...'
 sku: 'B07N3TLNWT-es'
-tags: [ 'abrigo', ]
 actualPrice: 55.82 EUR
 currency: EUR
 price: 55.82

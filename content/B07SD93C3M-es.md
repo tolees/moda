@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD93C3M-es Helly Hansen Logo Hoodie Sudadera con Capucha Hombre Rojo...'
 sku: 'B07SD93C3M-es'
-tags: [ 'sudadera', ]
 actualPrice: 41.33 EUR
 currency: EUR
 price: 41.33

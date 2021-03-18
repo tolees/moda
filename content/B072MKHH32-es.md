@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072MKHH32-es Marca Amazon - find. Camisa Hombre Azul Navy S Label: S'
 sku: 'B072MKHH32-es'
-tags: [ '-','camisa','find.', ]
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

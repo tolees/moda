@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTWWYXP-es adidas Harden Logo tee Camiseta de Manga Corta Hombre White S'
 sku: 'B07KTWWYXP-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.16 EUR
 currency: EUR
 price: 15.16

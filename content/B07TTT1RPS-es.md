@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTT1RPS-es Women s Secret Cozy Animals Ca Unicorn PJ Conjuntos de...'
 sku: 'B07TTT1RPS-es'
-tags: [ 'pijama', ]
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PBP56Q-es Suhctup Funda Compatible con Samsung Galaxy S9 Plus...'
 sku: 'B087PBP56Q-es'
-tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

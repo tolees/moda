@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBBN5DC-es HUGO Elisha02 Camisa Azul Light/Pastel Blue 459 X-Large...'
 sku: 'B07VBBN5DC-es'
-tags: [ 'camisa', ]
 actualPrice: 24.35 EUR
 currency: EUR
 price: 24.35

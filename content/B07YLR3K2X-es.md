@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLR3K2X-es Superdry Lily Crochet Insert Vest Camiseta de Tirantes...'
 sku: 'B07YLR3K2X-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.14 EUR
 currency: EUR
 price: 7.14

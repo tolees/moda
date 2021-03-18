@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLZKYP3-es Havaianas Fantasy Chanclas para Niñas Multicolor Ice...'
 sku: 'B07SLZKYP3-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','Sandalias y chanclas para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas','havaianas', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

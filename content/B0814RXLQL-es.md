@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814RXLQL-es Under Armour Men s UA GL Foundation Short Sleeve T-Shirt...'
 sku: 'B0814RXLQL-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

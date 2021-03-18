@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MDBPY1C-es Lee Ivy Vaqueros Azul Summer Night Vy 24W / 31L para Mujer'
 sku: 'B07MDBPY1C-es'
-tags: [ 'vaqueros', ]
 actualPrice: 44.8 EUR
 currency: EUR
 price: 44.8

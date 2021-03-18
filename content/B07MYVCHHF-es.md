@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYVCHHF-es Gafas de sol para hombre polarizadas para mujer - UV 400...'
 sku: 'B07MYVCHHF-es'
-tags: [ 'gafas', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

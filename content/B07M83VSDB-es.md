@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M83VSDB-es Napapijri GOAYO Camisa Casual Naranja Orange Check 15C M...'
 sku: 'B07M83VSDB-es'
-tags: [ 'camisa', ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

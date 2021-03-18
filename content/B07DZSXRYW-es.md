@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DZSXRYW-es Marca Amazon – Goodthreads – Camisa de manga corta y corte...'
 sku: 'B07DZSXRYW-es'
-tags: [ 'camisa','goodthreads', ]
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

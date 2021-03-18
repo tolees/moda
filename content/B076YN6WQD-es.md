@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076YN6WQD-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera Azul Stoop...'
 sku: 'B076YN6WQD-es'
-tags: [ 'chaqueta', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

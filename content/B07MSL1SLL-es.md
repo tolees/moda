@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MSL1SLL-es TTYAOVO Vestido de tutú de Verano para bebé Princesa...'
 sku: 'B07MSL1SLL-es'
-tags: [ 'vestido', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

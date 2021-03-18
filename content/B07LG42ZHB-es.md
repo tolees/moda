@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG42ZHB-es Geox J BULLER Boy D Zapatillas para Niños Azul Navy/Dk Red...'
 sku: 'B07LG42ZHB-es'
-tags: [ 'geox', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

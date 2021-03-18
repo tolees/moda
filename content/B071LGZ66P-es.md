@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LGZ66P-es Under Armour Tech Graphic Short Pantalón Corto Hombre...'
 sku: 'B071LGZ66P-es'
-tags: [ 'pantalón', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

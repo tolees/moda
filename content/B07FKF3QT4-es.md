@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKF3QT4-es Superdry Vintage Logo Tri tee Camiseta de Tirantes Gris...'
 sku: 'B07FKF3QT4-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

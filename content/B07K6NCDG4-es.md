@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K6NCDG4-es adidas Tiro 19 Training Jersey Hombre Blanco White/Black S'
 sku: 'B07K6NCDG4-es'
-tags: [ 'jersey', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

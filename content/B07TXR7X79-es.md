@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXR7X79-es Wrangler Icons Vaqueros Blue 3 Years 10K 30W / 34L para...'
 sku: 'B07TXR7X79-es'
-tags: [ 'vaqueros', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

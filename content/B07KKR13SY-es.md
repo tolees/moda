@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KKR13SY-es Naf Naf Kenr2d Vestido Marfil Ecru/Fadded A and 34 para Mujer'
 sku: 'B07KKR13SY-es'
-tags: [ 'vestido', ]
 actualPrice: 44.59 EUR
 currency: EUR
 price: 44.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9GV6JJ-es KRISP 6252-TUR-20 Vestido Corto Patinadora Vuelo Fruncido...'
 sku: 'B01N9GV6JJ-es'
-tags: [ 'vestido', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

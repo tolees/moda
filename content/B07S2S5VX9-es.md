@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S2S5VX9-es Levi s The Jacket Chaqueta vaquera Blue Moon Lit Trucker...'
 sku: 'B07S2S5VX9-es'
-tags: [ 'chaqueta', ]
 actualPrice: 87.87 EUR
 currency: EUR
 price: 87.87

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTDX9FK-es Marca Amazon - MERAKI Shorts de Natación Hombre Turquesa...'
 sku: 'B07MTDX9FK-es'
-tags: [ 'meraki', ]
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

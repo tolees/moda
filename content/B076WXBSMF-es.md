@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076WXBSMF-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros Lt Aged 6745-424...'
 sku: 'B076WXBSMF-es'
-tags: [ 'vaqueros', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

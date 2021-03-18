@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXQ1JZ9-es sjqc9561 Rana Verde Lindo Bolso De La Moneda De Cosplay...'
 sku: 'B08CXQ1JZ9-es'
-tags: [ 'bolso','monedero', ]
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9JB5Y8-es Under Armour Armour Insulated Jacket Chaqueta Mujer Rosa MD'
 sku: 'B07L9JB5Y8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 38.52 EUR
 currency: EUR
 price: 38.52

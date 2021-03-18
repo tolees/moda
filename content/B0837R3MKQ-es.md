@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0837R3MKQ-es Germinate - Pareja Pijamas Mujer Elefante Algodón Blanco...'
 sku: 'B0837R3MKQ-es'
-tags: [ 'moda', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

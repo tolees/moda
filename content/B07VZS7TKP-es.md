@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VZS7TKP-es Camper Match Sandalias con Tira Vertical Hombre Multicolor...'
 sku: 'B07VZS7TKP-es'
-tags: [ 'sandalias', ]
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

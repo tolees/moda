@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BMMJON4-es Geox U Dublin A Derby para Hombre Negro BLACKC9999 42 EU'
 sku: 'B00BMMJON4-es'
-tags: [ 'geox', ]
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

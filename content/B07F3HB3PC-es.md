@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3HB3PC-es Tommy Hilfiger T Camiseta Básica de Manga Corta Blanco...'
 sku: 'B07F3HB3PC-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

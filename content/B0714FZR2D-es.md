@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0714FZR2D-es KAPORAL NEGOR Camiseta Verde Army 10 Años para Niñas'
 sku: 'B0714FZR2D-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

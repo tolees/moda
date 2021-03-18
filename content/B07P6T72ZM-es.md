@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6T72ZM-es Tous Brunock Chain Bolso Mochila para Mujer Beige Topo...'
 sku: 'B07P6T72ZM-es'
-tags: [ 'bolso', ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

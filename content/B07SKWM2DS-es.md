@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKWM2DS-es Havaianas Top Nautical Chanclas para Hombre Multicolor...'
 sku: 'B07SKWM2DS-es'
-tags: [ 'chanclas', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q3SX85L-es Sportbull - Camiseta de lobo para hombre diseño de galaxia'
 sku: 'B08Q3SX85L-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

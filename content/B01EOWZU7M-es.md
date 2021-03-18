@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EOWZU7M-es Helly Hansen Dubliner Parka Chaqueta 3/4 Impermeable...'
 sku: 'B01EOWZU7M-es'
-tags: [ 'chaqueta','parka', ]
 actualPrice: 111.85 EUR
 currency: EUR
 price: 111.85

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5F7DTQ-es Wrangler Greensboro Vaqueros Azul Gin Fuzz 77h 38W / 32L...'
 sku: 'B07M5F7DTQ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

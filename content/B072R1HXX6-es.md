@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072R1HXX6-es KLIM Optics - Gafas para Ordenador Anti luz Azul + Evita...'
 sku: 'B072R1HXX6-es'
-tags: [ 'gafas', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

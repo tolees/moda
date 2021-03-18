@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z1HWP68-es EVERU Conjunto de Joyas Corazón de Plata 925 para Mujeres...'
 sku: 'B07Z1HWP68-es'
-tags: [ 'collar', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

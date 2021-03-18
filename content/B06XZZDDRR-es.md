@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XZZDDRR-es BROOKS BROTHERS Camicia Regent Manica Lunga Camisa de...'
 sku: 'B06XZZDDRR-es'
-tags: [ 'camisa', ]
 actualPrice: 43.7 EUR
 currency: EUR
 price: 43.7

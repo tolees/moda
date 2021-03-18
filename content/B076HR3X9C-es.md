@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HR3X9C-es adidas Core18 Sw Pantalón Sin género Negro Negro/Blanco L'
 sku: 'B076HR3X9C-es'
-tags: [ 'pantalón', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

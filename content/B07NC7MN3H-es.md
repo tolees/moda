@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC7MN3H-es Pepe Jeans Stanley Vaqueros Straight Azul Medium Destroy...'
 sku: 'B07NC7MN3H-es'
-tags: [ 'vaqueros', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

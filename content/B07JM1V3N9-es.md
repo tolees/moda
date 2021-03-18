@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM1V3N9-es Germinate Raya Jerséis Mujer Invierno Blanco Negro Tumblr...'
 sku: 'B07JM1V3N9-es'
-tags: [ 'jersey','moda', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

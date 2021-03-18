@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0823BB2NW-es Levi s Big Barstow Western Camisa Red Cast Stone XL para...'
 sku: 'B0823BB2NW-es'
-tags: [ 'camisa', ]
 actualPrice: 63.2 EUR
 currency: EUR
 price: 63.2

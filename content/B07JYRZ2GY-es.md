@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYRZ2GY-es Tommy Hilfiger Low Rise Skinny Sophie Vaqueros straight...'
 sku: 'B07JYRZ2GY-es'
-tags: [ 'vaqueros', ]
 actualPrice: 39.64 EUR
 currency: EUR
 price: 39.64

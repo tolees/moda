@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3VXB6Y-es Desigual Dress Marian Vestido Multicolor Crudo 1001 40...'
 sku: 'B07N3VXB6Y-es'
-tags: [ 'vestido', ]
 actualPrice: 71.42 EUR
 currency: EUR
 price: 71.42

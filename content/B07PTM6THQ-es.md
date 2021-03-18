@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTM6THQ-es Kipling Gleam Bolso de Tocador para Mujer Verde Seagrass...'
 sku: 'B07PTM6THQ-es'
-tags: [ 'bolso', ]
 actualPrice: 18.57 EUR
 currency: EUR
 price: 18.57

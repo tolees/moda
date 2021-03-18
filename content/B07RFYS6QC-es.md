@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RFYS6QC-es G-STAR RAW Syenite Slim Bow Blusa Blanco White 110 Small...'
 sku: 'B07RFYS6QC-es'
-tags: [ 'blusa', ]
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

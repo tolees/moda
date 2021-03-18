@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076XBQZDK-es Geox Jr Piuma Ballerine A Bailarinas para Niñas Plateado...'
 sku: 'B076XBQZDK-es'
-tags: [ 'geox', ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

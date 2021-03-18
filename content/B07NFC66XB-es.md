@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFC66XB-es Tommy Hilfiger Top Essential with V-Neck Camiseta de Manga...'
 sku: 'B07NFC66XB-es'
-tags: [ 'camiseta', ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

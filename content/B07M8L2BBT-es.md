@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8L2BBT-es Lee Button Down Camisa Casual Azul Beyond Blue X-Large...'
 sku: 'B07M8L2BBT-es'
-tags: [ 'camisa', ]
 actualPrice: 31.76 EUR
 currency: EUR
 price: 31.76

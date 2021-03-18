@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081RV2TXB-es Joyplay - Disfraz De Anime Adulto Unisex Akatsuki Capa De...'
 sku: 'B081RV2TXB-es'
-tags: [ 'abrigo', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082R7Y1MQ-es SOLEDI Cajas Almacenaje para Almacenamiento de Zapatos y...'
 sku: 'B082R7Y1MQ-es'
-tags: [ 'zapatos', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

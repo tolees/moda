@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z1F6DLH-es NEWHEY Bolso Mujer Bolso Universidad Mujer Bolso para...'
 sku: 'B07Z1F6DLH-es'
-tags: [ 'bolso', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

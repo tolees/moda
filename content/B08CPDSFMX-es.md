@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CPDSFMX-es Adidas Real Madrid Temporada 2020/21 Chaqueta Cortavientos...'
 sku: 'B08CPDSFMX-es'
-tags: [ 'chaqueta', ]
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

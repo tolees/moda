@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081WKFNGD-es DaMohony - Niñas Falda Tul de Capas Volantes Enagua Tutú...'
 sku: 'B081WKFNGD-es'
-tags: [ 'falda', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

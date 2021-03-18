@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CNTM8W-es Geographical Norway Parka Mujer BOOMERA Ass B Negro 02'
 sku: 'B081CNTM8W-es'
-tags: [ 'parka', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003F26IPG-es Lacoste L1212 Camiseta Polo Rosa Flamant T03 XS para Hombre'
 sku: 'B003F26IPG-es'
-tags: [ 'camiseta', ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

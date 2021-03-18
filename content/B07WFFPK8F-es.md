@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WFFPK8F-es VECDY Ropa Mujer Blusas Elegante 2019 Solapa para Mujer...'
 sku: 'B07WFFPK8F-es'
-tags: [ 'abrigo','chaqueta', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

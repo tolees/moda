@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5QPN9Z-es Tommy Hilfiger Hilfiger Maritime Beach Sandal Sandalias...'
 sku: 'B07V5QPN9Z-es'
-tags: [ 'sandalias', ]
 actualPrice: 24.43 EUR
 currency: EUR
 price: 24.43

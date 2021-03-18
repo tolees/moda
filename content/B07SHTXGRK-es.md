@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHTXGRK-es Levi s Orig Hm Vneck Camiseta Blue Dress Blues 0002 Medium...'
 sku: 'B07SHTXGRK-es'
-tags: [ 'Camisas casual para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas para hombre','Chaquetas para mujer','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','camiseta','levis', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

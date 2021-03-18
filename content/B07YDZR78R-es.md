@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDZR78R-es Zapatillas Casa Hombre Mujer Invierno Calido Zapatillas...'
 sku: 'B07YDZR78R-es'
-tags: [ 'zapatilla', ]
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

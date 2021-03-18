@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WWL256J-es OUTHIKER - OUTHIER Riñonera Deportiva Riñonera Mujer...'
 sku: 'B07WWL256J-es'
-tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

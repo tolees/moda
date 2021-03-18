@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08483WQHB-es Pepe Jeans Harrison Camiseta Gris 933 X-Large para Hombre'
 sku: 'B08483WQHB-es'
-tags: [ 'camiseta', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LXJ8C4B-es BOSS Boxer Brief CO Negro Black 001 X-Large Pack de 3 para...'
 sku: 'B01LXJ8C4B-es'
-tags: [ 'boxer', ]
 actualPrice: 32.71 EUR
 currency: EUR
 price: 32.71

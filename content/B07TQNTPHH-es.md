@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TQNTPHH-es Levi s The Original Camiseta Verde Hm Patch OG Hm tee...'
 sku: 'B07TQNTPHH-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

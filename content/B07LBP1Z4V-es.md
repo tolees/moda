@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LBP1Z4V-es Helly Hansen Loke Chaqueta Impermeable Hombre Electric Blue S'
 sku: 'B07LBP1Z4V-es'
-tags: [ 'chaqueta', ]
 actualPrice: 49.84 EUR
 currency: EUR
 price: 49.84

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08176LFMJ-es Columbia Outdoor Elements Sr Chaqueta con Cremallera...'
 sku: 'B08176LFMJ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 38.44 EUR
 currency: EUR
 price: 38.44

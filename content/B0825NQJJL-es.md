@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NQJJL-es GEOX U LEVICO B ABX B BROWNCOTTO/DK COFFEE Men s Trainers...'
 sku: 'B0825NQJJL-es'
-tags: [ 'geox', ]
 actualPrice: 40.61 EUR
 currency: EUR
 price: 40.61

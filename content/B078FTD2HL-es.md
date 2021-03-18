@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078FTD2HL-es Prada 0PR05TS TH71I0 53 Gafas de sol Blanco Light...'
 sku: 'B078FTD2HL-es'
-tags: [ 'gafas', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

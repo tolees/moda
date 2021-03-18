@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KXIKE3C-es Under Armour Raid Shorts Pantalones para hombre pantalón...'
 sku: 'B00KXIKE3C-es'
-tags: [ 'pantalón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

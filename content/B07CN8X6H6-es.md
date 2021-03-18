@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CN8X6H6-es Crocs Crocband U Zuecos Unisex Adulto Verde Army Green-...'
 sku: 'B07CN8X6H6-es'
-tags: [ 'zuecos', ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

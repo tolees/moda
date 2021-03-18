@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G13CXSV-es Gafas de lectura sin patillas graduadas para hombre y...'
 sku: 'B07G13CXSV-es'
-tags: [ 'gafas', ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

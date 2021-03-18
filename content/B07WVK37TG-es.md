@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVK37TG-es YUNB Gafas de Seguridad de oscurecimiento LCD automático...'
 sku: 'B07WVK37TG-es'
-tags: [ 'gafas', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

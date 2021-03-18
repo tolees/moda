@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T334QSV-es Parfois - Bolso Shopper Acolchado - Mujeres - Tallas M -...'
 sku: 'B07T334QSV-es'
-tags: [ 'bolso', ]
 actualPrice: 13 EUR
 currency: EUR
 price: 13

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NK1HK-es GEOX D WISTREY B BLACK Women s Ballet Flats Ballet size 41 EU'
 sku: 'B0825NK1HK-es'
-tags: [ 'geox', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

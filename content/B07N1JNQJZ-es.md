@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JNQJZ-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Beige...'
 sku: 'B07N1JNQJZ-es'
-tags: [ 'zapatos', ]
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

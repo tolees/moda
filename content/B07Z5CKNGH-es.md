@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5CKNGH-es G-STAR RAW Collegic Graphic Pocket Straight Camiseta Lt...'
 sku: 'B07Z5CKNGH-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005OBQMBQ-es Ray-Ban Erika Classic Gafas de sol Marrón...'
 sku: 'B005OBQMBQ-es'
-tags: [ 'gafas', ]
 actualPrice: 88.6 EUR
 currency: EUR
 price: 88.6

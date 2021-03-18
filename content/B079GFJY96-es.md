@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079GFJY96-es Under Armour UA Shoe Bag Bolsa De Zapatos Bolsa De Deporte...'
 sku: 'B079GFJY96-es'
-tags: [ 'zapatos', ]
 actualPrice: 18.86 EUR
 currency: EUR
 price: 18.86

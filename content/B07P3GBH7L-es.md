@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P3GBH7L-es LIGE La Moda Relojes Hombre Negocios Impermeable Cuarzo...'
 sku: 'B07P3GBH7L-es'
-tags: [ 'lige','moda', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

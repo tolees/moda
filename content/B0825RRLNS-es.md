@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RRLNS-es GEOX D ANYLLA HIGH G BLACK Women s Boots Chelsea size 41 EU'
 sku: 'B0825RRLNS-es'
-tags: [ 'geox', ]
 actualPrice: 58.52 EUR
 currency: EUR
 price: 58.52

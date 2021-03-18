@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ7FPWK-es Clarks Flow Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MJ7FPWK-es'
-tags: [ 'zapatos', ]
 actualPrice: 30.76 EUR
 currency: EUR
 price: 30.76

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHCS75W-es Helly Hansen Seven J Chaqueta Impermeable con Forro de...'
 sku: 'B06XHCS75W-es'
-tags: [ 'chaqueta', ]
 actualPrice: 55.67 EUR
 currency: EUR
 price: 55.67

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBB84C4-es Crocs Crocband Clog K Zuecos Unisex-Bambini Verde Neo Mint...'
 sku: 'B07SBB84C4-es'
-tags: [ 'zuecos', ]
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

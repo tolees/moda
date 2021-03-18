@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZ7YSPG-es Women s Secret PF Carey Sw Conjuntos de Bikini Rojo Red 60...'
 sku: 'B07KZ7YSPG-es'
-tags: [ 'bikini', ]
 actualPrice: 19.66 EUR
 currency: EUR
 price: 19.66

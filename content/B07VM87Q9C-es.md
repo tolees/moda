@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VM87Q9C-es Helly Hansen Bonanza Jacket Chaqueta Con Doble Capa Hombre...'
 sku: 'B07VM87Q9C-es'
-tags: [ 'chaqueta', ]
 actualPrice: 159.08 EUR
 currency: EUR
 price: 159.08

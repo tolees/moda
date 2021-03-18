@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VB74YR5-es Napapijri ACALMAR W 2 Chaqueta Rosa Petal Pink P841 XS...'
 sku: 'B07VB74YR5-es'
-tags: [ 'chaqueta', ]
 actualPrice: 75.6 EUR
 currency: EUR
 price: 75.6

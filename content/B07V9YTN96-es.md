@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V9YTN96-es Hackett London Skinny Bgl Str Camisa Azul 5arblue/White...'
 sku: 'B07V9YTN96-es'
-tags: [ 'camisa', ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

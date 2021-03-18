@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MQ8KJDB-es Geographical Norway Chaqueta de hombre BOKER NEGRO talla XL'
 sku: 'B08MQ8KJDB-es'
-tags: [ 'chaqueta', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

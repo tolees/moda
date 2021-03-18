@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CVRLH93-es SOLLOMENSI Zapatillas de Deporte Hombres Mujer Running...'
 sku: 'B08CVRLH93-es'
-tags: [ 'zapatos', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

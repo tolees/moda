@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MQPK9ML-es Efair - 117 en 1 Juego de Destornilladores de Precisión...'
 sku: 'B08MQPK9ML-es'
-tags: [ 'gafas', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

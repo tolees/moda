@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M4KJXD9-es Skechers Hobbes-Frat Zapatos de Seguridad Hombre Negro BLK...'
 sku: 'B01M4KJXD9-es'
-tags: [ 'zapatos', ]
 actualPrice: 61.43 EUR
 currency: EUR
 price: 61.43

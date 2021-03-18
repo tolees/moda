@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NCWFK-es GEOX D BACKSIE B ABX B BLACK Women s Trainers Low-Top...'
 sku: 'B0825NCWFK-es'
-tags: [ 'geox', ]
 actualPrice: 77.06 EUR
 currency: EUR
 price: 77.06

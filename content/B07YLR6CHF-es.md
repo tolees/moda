@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLR6CHF-es Superdry Layne Textured Lace Top Camiseta de Tirantes...'
 sku: 'B07YLR6CHF-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

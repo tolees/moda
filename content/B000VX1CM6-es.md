@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000VX1CM6-es Timberland 6 Inch Premium Waterproof Botas Chukka Hombre...'
 sku: 'B000VX1CM6-es'
-tags: [ 'timberland', ]
 actualPrice: 163.45 EUR
 currency: EUR
 price: 163.45

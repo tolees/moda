@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q85G8BG-es DYKHMATE Zapatillas de Deportes Hombre Ligero Transpirable...'
 sku: 'B08Q85G8BG-es'
-tags: [ 'zapatos', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

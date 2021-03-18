@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774YK5RK-es Siux Falda Cloe Negra'
 sku: 'B0774YK5RK-es'
-tags: [ 'falda', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

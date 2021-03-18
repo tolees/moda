@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YSYB3D-es Sandalias Odetina Mary Jane de tacón grueso con correa de...'
 sku: 'B086YSYB3D-es'
-tags: [ 'sandalias', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

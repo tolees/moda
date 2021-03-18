@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N95R9DZ-es BOSS Trek 4 Camiseta Blanco White 100 XX-Large para Hombre'
 sku: 'B07N95R9DZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.46 EUR
 currency: EUR
 price: 12.46

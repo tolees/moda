@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN83YBQ-es Wrangler Crewneck Knit Sudadera Amarillo Mineral Yellow...'
 sku: 'B07MN83YBQ-es'
-tags: [ 'sudadera', ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

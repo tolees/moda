@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FQVDGLH-es QINCAO Calzoncillos Hombre Boxer Pack de 8 Bóxer Algodón...'
 sku: 'B08FQVDGLH-es'
-tags: [ 'boxer','bóxer', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

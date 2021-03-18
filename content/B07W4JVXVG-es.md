@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4JVXVG-es Only Onlally Boucle Wool Coat CC Otw Abrigo Azul Peacoat...'
 sku: 'B07W4JVXVG-es'
-tags: [ 'abrigo', ]
 actualPrice: 19.38 EUR
 currency: EUR
 price: 19.38

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQGY4T-es Levi s tee Camiseta Benitoite Cloud Dancer XX-Small para...'
 sku: 'B07ZVQGY4T-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

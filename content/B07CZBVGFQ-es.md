@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZBVGFQ-es Under Armour UA Streaker 2.0 Camiseta Mujer Negro...'
 sku: 'B07CZBVGFQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 22.54 EUR
 currency: EUR
 price: 22.54

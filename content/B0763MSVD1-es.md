@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0763MSVD1-es Marvel Avengers - Camiseta para hombre - Thor - Large'
 sku: 'B0763MSVD1-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

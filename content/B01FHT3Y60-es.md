@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FHT3Y60-es MaxMuxun Sandalias de Vestir Moderna Azul Cotidiana...'
 sku: 'B01FHT3Y60-es'
-tags: [ 'sandalias', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

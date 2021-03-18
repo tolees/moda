@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1QHNVX-es Geox Zapatillas JR CIAK Girl para Niñas Morado 29 EU'
 sku: 'B07Y1QHNVX-es'
-tags: [ 'geox', ]
 actualPrice: 38.94 EUR
 currency: EUR
 price: 38.94

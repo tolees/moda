@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSJ8XWM-es Geox Jr Sandal Strada A Sandalias con Punta Abierta para...'
 sku: 'B07SSJ8XWM-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 38.34 EUR
 currency: EUR
 price: 38.34

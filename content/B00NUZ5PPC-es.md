@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NUZ5PPC-es Pepe Jeans Venus Vaqueros Azul 10Oz Authentic Rope Str Med...'
 sku: 'B00NUZ5PPC-es'
-tags: [ 'vaqueros', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

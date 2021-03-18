@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFWP8J5-es Reebok Boxer para Hombre Multicolor Small pack de 4'
 sku: 'B07VFWP8J5-es'
-tags: [ 'boxer', ]
 actualPrice: 17.07 EUR
 currency: EUR
 price: 17.07

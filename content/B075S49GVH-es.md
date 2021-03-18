@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075S49GVH-es Marca Amazon - MERAKI Sudadera con Capucha y Cremallera...'
 sku: 'B075S49GVH-es'
-tags: [ 'meraki','sudadera', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

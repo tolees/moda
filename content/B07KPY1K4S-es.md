@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPY1K4S-es dPois Vestidos de Princesa Diadema Niña Bebé Fiesta...'
 sku: 'B07KPY1K4S-es'
-tags: [ 'falda', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

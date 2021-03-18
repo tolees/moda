@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083YSM9HH-es Jack & Jones JJEPAULOS Polo SS Noos Camisa Ojo XXL para...'
 sku: 'B083YSM9HH-es'
-tags: [ 'camisa', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRB8V1S-es Pepe Jeans Art Camiseta Gris 933grey Marl 933 3 años Talla...'
 sku: 'B07VRB8V1S-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.62 EUR
 currency: EUR
 price: 15.62

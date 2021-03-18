@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N45CRQ4-es United Colors of Benetton Highlands Man Abrigo Marrón 2c0...'
 sku: 'B07N45CRQ4-es'
-tags: [ 'abrigo', ]
 actualPrice: 42.66 EUR
 currency: EUR
 price: 42.66

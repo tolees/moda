@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015MTS5XC-es Songmics HSR02S Perchero para cargas pesadas con estante...'
 sku: 'B015MTS5XC-es'
-tags: [ 'zapatos', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

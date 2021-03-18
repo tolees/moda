@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDWCY8B-es Levi s LS Battery Hm Shirt Camisa Negro Black 0002 Large...'
 sku: 'B07GDWCY8B-es'
-tags: [ 'camisa', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

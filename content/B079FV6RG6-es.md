@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FV6RG6-es Under Armour Sport Style Wind Anorak Chaqueta Hombre Negro...'
 sku: 'B079FV6RG6-es'
-tags: [ 'chaqueta', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

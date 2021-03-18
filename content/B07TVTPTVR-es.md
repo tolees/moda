@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVTPTVR-es Women s Secret Home Hm Weekend Set Conjuntos de Pijama...'
 sku: 'B07TVTPTVR-es'
-tags: [ 'pijama', ]
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

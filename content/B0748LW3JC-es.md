@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0748LW3JC-es find. Jersey de Algodón para Mujer Rojo Burgandy 46 Talla...'
 sku: 'B0748LW3JC-es'
-tags: [ 'jersey', ]
 actualPrice: 14 EUR
 currency: EUR
 price: 14

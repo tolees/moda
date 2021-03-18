@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078THWXGS-es PUMA Camiseta para Hombre Liga Jersey Core Hombre Jersey...'
 sku: 'B078THWXGS-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

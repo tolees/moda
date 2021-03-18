@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BMVLJWJ-es MISS MOLY Mujer Blusa de Mangas Cortas y Dobladillo con...'
 sku: 'B07BMVLJWJ-es'
-tags: [ 'blusa', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFVMPBS-es YOSICIL Princesa Disfraz Frozen Elsa Verde Disfraces...'
 sku: 'B07VFVMPBS-es'
-tags: [ 'vestido', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

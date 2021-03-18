@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TPYPX36-es Clarks Un Adorn Lace Zapatos de Cordones Derby para Mujer...'
 sku: 'B07TPYPX36-es'
-tags: [ 'zapatos', ]
 actualPrice: 39.35 EUR
 currency: EUR
 price: 39.35

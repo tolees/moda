@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGMSK28-es Timberland Davis Square 6 Inch Zapatillas Altas Unisex-...'
 sku: 'B07DGMSK28-es'
-tags: [ 'timberland', ]
 actualPrice: 24.22 EUR
 currency: EUR
 price: 24.22

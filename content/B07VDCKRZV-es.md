@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VDCKRZV-es Napapijri Sishop Camiseta Gris Dove Grey H361 Large para...'
 sku: 'B07VDCKRZV-es'
-tags: [ 'camiseta', ]
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

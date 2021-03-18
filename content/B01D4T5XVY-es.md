@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D4T5XVY-es Elli Pendientes básicos de moda forma circular en plara de...'
 sku: 'B01D4T5XVY-es'
-tags: [ 'moda', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

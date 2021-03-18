@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016Y7HYXI-es Luz Para Bolso Seguridad de Luz con Sensor de...'
 sku: 'B016Y7HYXI-es'
-tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRC3Z3T-es Gafas de Lectura sin Patillas Graduadas Anti-bluelight...'
 sku: 'B07KRC3Z3T-es'
-tags: [ 'gafas', ]
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

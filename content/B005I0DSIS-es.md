@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005I0DSIS-es Carissima Gold Collar con colgante de mujer con oro...'
 sku: 'B005I0DSIS-es'
-tags: [ 'collar', ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

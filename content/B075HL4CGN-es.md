@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075HL4CGN-es CAMISETA TERMICA YSABEL MORA'
 sku: 'B075HL4CGN-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

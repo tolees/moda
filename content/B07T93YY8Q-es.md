@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T93YY8Q-es Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta...'
 sku: 'B07T93YY8Q-es'
-tags: [ 'chaqueta','moda', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS6DNRK-es Tommy Hilfiger Lacie Shirt LS W2 Camisa Naranja Bitonal...'
 sku: 'B07VS6DNRK-es'
-tags: [ 'camisa', ]
 actualPrice: 20.46 EUR
 currency: EUR
 price: 20.46

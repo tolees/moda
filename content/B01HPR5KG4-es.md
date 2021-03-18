@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HPR5KG4-es IEFIEL Conjuntos de Top y Pantalones Largos Camiseta Manga...'
 sku: 'B01HPR5KG4-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

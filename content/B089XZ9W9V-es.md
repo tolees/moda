@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089XZ9W9V-es Cuero Vistoso Billetera Carcasa Compatible con Sony Xperia...'
 sku: 'B089XZ9W9V-es'
-tags: [ 'billetera', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

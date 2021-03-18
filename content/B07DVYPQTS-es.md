@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVYPQTS-es oodji Ultra Mujer Blusa de Viscosa con Espalda Larga Azul...'
 sku: 'B07DVYPQTS-es'
-tags: [ 'blusa','oodji ultra', ]
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

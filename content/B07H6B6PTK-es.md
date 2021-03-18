@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H6B6PTK-es Skechers Ultra Flex-Neon Star Sandalias de Talón Abierto...'
 sku: 'B07H6B6PTK-es'
-tags: [ 'sandalias', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

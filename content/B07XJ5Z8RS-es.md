@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XJ5Z8RS-es Munich 499903 Bolso mochila para Mujer Negro Negro...'
 sku: 'B07XJ5Z8RS-es'
-tags: [ 'bolso', ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

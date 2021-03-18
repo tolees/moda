@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5VCJ2Q-es Puma ESS Logo tee Camiseta Deportiva Mujer Blanco White S'
 sku: 'B07D5VCJ2Q-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

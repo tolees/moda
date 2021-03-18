@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PHV2KWR-es Ray-Ban 0RB1971 Gafas de sol Silver 54 Unisex'
 sku: 'B07PHV2KWR-es'
-tags: [ 'gafas', ]
 actualPrice: 108.5 EUR
 currency: EUR
 price: 108.5

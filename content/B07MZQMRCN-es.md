@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQMRCN-es Pepe Jeans Spike Vaqueros Straight Azul Medium Used...'
 sku: 'B07MZQMRCN-es'
-tags: [ 'vaqueros', ]
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

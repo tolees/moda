@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TQWG815-es Clarks Hero Limit Zapatos de Cordones Derby Hombre Marrón...'
 sku: 'B07TQWG815-es'
-tags: [ 'zapatos', ]
 actualPrice: 64.18 EUR
 currency: EUR
 price: 64.18

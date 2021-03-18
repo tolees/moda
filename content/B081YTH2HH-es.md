@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081YTH2HH-es Hurley M Halfer Stripe S/S Camiseta Hombre Cedar S'
 sku: 'B081YTH2HH-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

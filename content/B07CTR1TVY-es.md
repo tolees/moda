@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTR1TVY-es Ecco Lisbon Zapatos de Cordones Derby para Hombre Marrón...'
 sku: 'B07CTR1TVY-es'
-tags: [ 'zapatos', ]
 actualPrice: 39.31 EUR
 currency: EUR
 price: 39.31

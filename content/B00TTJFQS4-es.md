@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TTJFQS4-es Clarks Tilden Walk Zapatos de Cordones Derby Negro Black...'
 sku: 'B00TTJFQS4-es'
-tags: [ 'zapatos', ]
 actualPrice: 33.7 EUR
 currency: EUR
 price: 33.7

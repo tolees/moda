@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TJZPMZP-es Disney Pijama para Mujer Toy Story Multicolor Size Medium'
 sku: 'B07TJZPMZP-es'
-tags: [ 'pijama', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

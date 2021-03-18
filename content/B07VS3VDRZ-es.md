@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VS3VDRZ-es Art Vancouver Sandalias con Punta Abierta Hombre Marrón...'
 sku: 'B07VS3VDRZ-es'
-tags: [ 'sandalias', ]
 actualPrice: 22.15 EUR
 currency: EUR
 price: 22.15

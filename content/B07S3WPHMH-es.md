@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S3WPHMH-es Levi s Relaxed Graphic Long Sleeve Sudadera White Crew Box...'
 sku: 'B07S3WPHMH-es'
-tags: [ 'sudadera', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

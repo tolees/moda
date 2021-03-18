@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TXD6VC5-es Levi s Graphic tee Camiseta White Boxtab SS T2 White 0000...'
 sku: 'B07TXD6VC5-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BVMZNVN-es adidas C.RDY TRG Crew Sudadera Hombre Bayint M'
 sku: 'B08BVMZNVN-es'
-tags: [ 'sudadera', ]
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

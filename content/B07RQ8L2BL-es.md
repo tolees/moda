@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RQ8L2BL-es HAWKERS Lauper Gafas de sol Verde One Size Unisex-Adult'
 sku: 'B07RQ8L2BL-es'
-tags: [ 'gafas', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

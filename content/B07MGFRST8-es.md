@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MGFRST8-es Napapijri Avio Chaqueta Verde Green Forest 2 Ge3 L para...'
 sku: 'B07MGFRST8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 159.6 EUR
 currency: EUR
 price: 159.6

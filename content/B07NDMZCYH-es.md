@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDMZCYH-es G-STAR RAW Graphic 8 Round Neck Camiseta Marrón Aged...'
 sku: 'B07NDMZCYH-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.64 EUR
 currency: EUR
 price: 9.64

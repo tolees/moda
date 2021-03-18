@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQCT9VW-es Mujer Camisa Básica Mujer Slim Fit - Camisa Blusa Casual...'
 sku: 'B07XQCT9VW-es'
-tags: [ 'blusa','camisa', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

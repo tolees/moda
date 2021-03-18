@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797JN6HC-es Puma LIGA Sideline Poly Core Chaqueta de Entrenamiento...'
 sku: 'B0797JN6HC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

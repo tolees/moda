@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BONZ91G-es ECCO Soft 2.0 Zapatos de Cordones Derby para Mujer Negro...'
 sku: 'B01BONZ91G-es'
-tags: [ 'zapatos', ]
 actualPrice: 35.28 EUR
 currency: EUR
 price: 35.28

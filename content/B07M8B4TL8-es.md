@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8B4TL8-es Wrangler Jacket Chaqueta Bomber Negro Black 100 Small para...'
 sku: 'B07M8B4TL8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 37.46 EUR
 currency: EUR
 price: 37.46

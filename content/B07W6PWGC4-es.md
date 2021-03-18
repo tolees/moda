@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6PWGC4-es adidas Terrex Agravic TR GTX Zapatos de Low Rise...'
 sku: 'B07W6PWGC4-es'
-tags: [ 'zapatos', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

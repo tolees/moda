@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J7ZVSWW-es Columbia Sapphire Trail Hooded FZ Chaqueta Polar Mujer...'
 sku: 'B01J7ZVSWW-es'
-tags: [ 'chaqueta', ]
 actualPrice: 51.28 EUR
 currency: EUR
 price: 51.28

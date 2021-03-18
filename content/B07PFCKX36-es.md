@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFCKX36-es Tous Doromy Bolso bandolera para Mujer Multicolor...'
 sku: 'B07PFCKX36-es'
-tags: [ 'bolso', ]
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N1BQ38C-es Wasnton Led Luces Zapatos con Ruedas Dobles para Pequeños...'
 sku: 'B08N1BQ38C-es'
-tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

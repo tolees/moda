@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SLMFFLL-es HOMCOM Maletín de Belleza para Niñas de +3 Años Juguete de...'
 sku: 'B08SLMFFLL-es'
-tags: [ 'bolso', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

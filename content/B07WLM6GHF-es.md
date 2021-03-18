@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLM6GHF-es Marca Amazon - MERAKI Abrigo de Lana Mujer Gris...'
 sku: 'B07WLM6GHF-es'
-tags: [ 'abrigo','meraki', ]
 actualPrice: 20.26 EUR
 currency: EUR
 price: 20.26

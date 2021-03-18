@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KZEQA5E-es Vero Moda Vmerika Blusa para Mujer Multicolor Snow White...'
 sku: 'B01KZEQA5E-es'
-tags: [ 'blusa','moda', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

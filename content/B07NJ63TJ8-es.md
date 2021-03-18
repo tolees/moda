@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ63TJ8-es Springfield 4.FQ. Bolsillo Plas Camisa Multicolor...'
 sku: 'B07NJ63TJ8-es'
-tags: [ 'camisa', ]
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

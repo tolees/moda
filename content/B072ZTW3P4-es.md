@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072ZTW3P4-es Champion Classic Logo Camiseta Ecru M para Hombre'
 sku: 'B072ZTW3P4-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

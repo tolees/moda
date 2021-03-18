@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWTQK75-es Geox D Nebula B Zapatillas sin Cordones para Mujer Gris Lt...'
 sku: 'B07SWTQK75-es'
-tags: [ 'geox', ]
 actualPrice: 39.62 EUR
 currency: EUR
 price: 39.62

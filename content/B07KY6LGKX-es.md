@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KY6LGKX-es Yosemy Tarjetero para Tarjetas de Crédito Delgado...'
 sku: 'B07KY6LGKX-es'
-tags: [ 'billetera', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZQ8TYS-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
 sku: 'B07KZQ8TYS-es'
-tags: [ 'zapatos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

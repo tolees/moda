@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019OLXV10-es Uneek UC902 - Pantalón de carga color negro 30 alturas'
 sku: 'B019OLXV10-es'
-tags: [ 'pantalón', ]
 actualPrice: 8 EUR
 currency: EUR
 price: 8

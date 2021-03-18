@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RHFFPQK-es Perfectmiaoxuan Gafas de sol polarizadas Hombre Mujere...'
 sku: 'B08RHFFPQK-es'
-tags: [ 'gafas', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

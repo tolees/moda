@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FKLQ7PJ-es Superdry Vintage Logo Tri tee Camiseta de Tirantes Blanco...'
 sku: 'B07FKLQ7PJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJLS66P-es Levi s Levis Optical Illusion Boxer Brief 2p Multicolor...'
 sku: 'B07MJLS66P-es'
-tags: [ 'boxer', ]
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

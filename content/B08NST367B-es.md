@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NST367B-es LBJR Animal Pijama Onesie Adultos Cosplay Animal Disfraces...'
 sku: 'B08NST367B-es'
-tags: [ 'pijama', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

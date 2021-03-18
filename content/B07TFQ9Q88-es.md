@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TFQ9Q88-es Quiksilver Omni Logo Sudadera con Capucha Hombre Blanco...'
 sku: 'B07TFQ9Q88-es'
-tags: [ 'sudadera', ]
 actualPrice: 36.57 EUR
 currency: EUR
 price: 36.57

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083MBYL6F-es Urban Classics Tall tee Camiseta Gris Dark Shadow M para...'
 sku: 'B083MBYL6F-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

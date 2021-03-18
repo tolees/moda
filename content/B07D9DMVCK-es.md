@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D9DMVCK-es adidas Real H JSY Y Camiseta Niños Multicolor Blabas/Negro...'
 sku: 'B07D9DMVCK-es'
-tags: [ 'camiseta', ]
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

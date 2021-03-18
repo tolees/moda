@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEOHKWK-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños Rosa...'
 sku: 'B01HEOHKWK-es'
-tags: [ 'zuecos', ]
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

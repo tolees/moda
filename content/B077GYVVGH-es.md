@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GYVVGH-es Crocs Crocband Sandal Kids Sandalias Unisex Niños Rosa...'
 sku: 'B077GYVVGH-es'
-tags: [ 'sandalias', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

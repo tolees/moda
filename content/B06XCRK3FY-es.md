@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCRK3FY-es find. Vestido Camisero con Estampado de Rayas y Volantes...'
 sku: 'B06XCRK3FY-es'
-tags: [ 'vestido', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

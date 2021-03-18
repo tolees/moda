@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH3FMT8-es Pepe Jeans Glover Pm506560 Camiseta Light Yellow 003...'
 sku: 'B07JH3FMT8-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.96 EUR
 currency: EUR
 price: 11.96

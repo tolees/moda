@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HPWK6H-es adidas CORE18 Hoody Sudadera con Capucha Hombre Negro...'
 sku: 'B076HPWK6H-es'
-tags: [ 'sudadera', ]
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

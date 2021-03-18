@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GP36XCR-es Zapatillas Hombre Mujer Invierno CáLido Zapatos Memory...'
 sku: 'B07GP36XCR-es'
-tags: [ 'zapatos', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

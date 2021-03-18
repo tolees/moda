@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JR8TQRY-es adidas Tiro 19 Camiseta Entrenamiento Hombre Negro...'
 sku: 'B07JR8TQRY-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

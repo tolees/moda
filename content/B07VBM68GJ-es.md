@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBM68GJ-es Calvin Klein Hooded Blocking Nylon Jacket Chaqueta Bomber...'
 sku: 'B07VBM68GJ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 75.07 EUR
 currency: EUR
 price: 75.07

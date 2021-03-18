@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VMBM83-es Columbia Powder Lite Chaqueta para Hombre Azul Bright...'
 sku: 'B087VMBM83-es'
-tags: [ 'chaqueta', ]
 actualPrice: 78.79 EUR
 currency: EUR
 price: 78.79

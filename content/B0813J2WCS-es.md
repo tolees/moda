@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813J2WCS-es Marca Amazon - find. Strippy Wedge Espadrille Sandalias...'
 sku: 'B0813J2WCS-es'
-tags: [ '-','find.','sandalias', ]
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

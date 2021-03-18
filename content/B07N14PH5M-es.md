@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N14PH5M-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros Negro...'
 sku: 'B07N14PH5M-es'
-tags: [ 'vaqueros', ]
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

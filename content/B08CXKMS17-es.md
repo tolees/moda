@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXKMS17-es Paoseven Freemason - Camiseta de manga corta unisex con...'
 sku: 'B08CXKMS17-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38

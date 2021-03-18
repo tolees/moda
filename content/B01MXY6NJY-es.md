@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXY6NJY-es Helly Hansen W Crew Hooded Midlayer Chaqueta Impermeable...'
 sku: 'B01MXY6NJY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 120.99 EUR
 currency: EUR
 price: 120.99

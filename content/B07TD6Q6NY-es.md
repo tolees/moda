@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TD6Q6NY-es Lacoste Sport Th3377 Camiseta Azul Marine/Citron 05e Ye4...'
 sku: 'B07TD6Q6NY-es'
-tags: [ 'camiseta', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDNVKCS-es G-STAR RAW Whistler Slim Down Hooded Long Abrigo Gris...'
 sku: 'B07NDNVKCS-es'
-tags: [ 'abrigo', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

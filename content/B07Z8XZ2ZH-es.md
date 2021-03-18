@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z8XZ2ZH-es Alfheim - Maletín para Hombres Bolso Bandolera Bolsa de...'
 sku: 'B07Z8XZ2ZH-es'
-tags: [ 'bolso', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

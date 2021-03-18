@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SX45PHY-es Quiksilver Molokai Tijuana Zapatos de Playa y Piscina para...'
 sku: 'B07SX45PHY-es'
-tags: [ 'zapatos', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

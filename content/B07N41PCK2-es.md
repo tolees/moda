@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N41PCK2-es Desigual Dress Karen Vestido Blanco 1000 XS para Mujer'
 sku: 'B07N41PCK2-es'
-tags: [ 'vestido', ]
 actualPrice: 18.21 EUR
 currency: EUR
 price: 18.21

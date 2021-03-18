@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ59S7R-es Women s Secret Mickey Vintage Mv DS Dots PJ FR Conjuntos...'
 sku: 'B07TZ59S7R-es'
-tags: [ 'pijama', ]
 actualPrice: 12.84 EUR
 currency: EUR
 price: 12.84

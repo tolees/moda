@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7QLFLW-es KAPORAL Joan Camiseta Blanco White White 14 años Talla del...'
 sku: 'B07V7QLFLW-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

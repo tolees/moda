@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTGFKQQ-es GANT The Reg BD Camisa Azul Lt Indigo 999 XX-Large para...'
 sku: 'B07MTGFKQQ-es'
-tags: [ 'camisa', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

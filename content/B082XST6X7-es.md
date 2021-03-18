@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XST6X7-es Lee Stencil tee Camiseta Rojo Ocre XXL para Hombre'
 sku: 'B082XST6X7-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

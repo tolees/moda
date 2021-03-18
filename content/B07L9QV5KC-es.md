@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9QV5KC-es Napapijri Acalmar 2 Chaqueta Bomber Gris Volcano H74...'
 sku: 'B07L9QV5KC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 95.11 EUR
 currency: EUR
 price: 95.11

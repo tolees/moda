@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SMCPWN-es Desigual TS Vicent Camiseta Azul Navy 5000 S para Mujer'
 sku: 'B079SMCPWN-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

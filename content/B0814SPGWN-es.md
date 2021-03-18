@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814SPGWN-es Under Armour Challenger III Midlayer camiseta de hombre...'
 sku: 'B0814SPGWN-es'
-tags: [ 'camiseta','under armour', ]
 actualPrice: 24.42 EUR
 currency: EUR
 price: 24.42

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YBHBDM9-es Vans Colorblock tee Camiseta Multicolor Black/White Y28...'
 sku: 'B07YBHBDM9-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLFMFJQ-es Levi s 2pk Crewneck Graphic Camiseta Blanco 2pack tee...'
 sku: 'B07TLFMFJQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

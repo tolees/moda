@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JGBSWPI-es IEFIEL Vestido Fiesta Boda Niña Vestido Largo de Princesa...'
 sku: 'B01JGBSWPI-es'
-tags: [ 'vestido', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

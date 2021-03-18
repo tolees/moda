@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EANTW4I-es Pepe Jeans Eggo PM500465 Camiseta Azul Navy 595 Large para...'
 sku: 'B00EANTW4I-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792TCWLB-es Geox Arzach B Zapatillas para Niños Negro Black C9999 37 EU'
 sku: 'B0792TCWLB-es'
-tags: [ 'geox', ]
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

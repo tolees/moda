@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9J4YR1-es Under Armour Armour Insulated Jacket Chaqueta Mujer Negro SM'
 sku: 'B07L9J4YR1-es'
-tags: [ 'chaqueta', ]
 actualPrice: 47.55 EUR
 currency: EUR
 price: 47.55

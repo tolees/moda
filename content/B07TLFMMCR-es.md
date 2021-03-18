@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLFMMCR-es Levi s SS Classic 1 Pkt Standrd Camisa Azul Alonzo Dress...'
 sku: 'B07TLFMMCR-es'
-tags: [ 'camisa', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

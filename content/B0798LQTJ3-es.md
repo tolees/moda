@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0798LQTJ3-es Pepe Jeans Thrift PL400755CF7 Chaqueta Vaquera Azul Denim...'
 sku: 'B0798LQTJ3-es'
-tags: [ 'chaqueta', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

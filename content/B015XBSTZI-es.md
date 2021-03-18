@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015XBSTZI-es Morgan 132-mentos.m Camiseta Marrón Bordeaux Bordeaux...'
 sku: 'B015XBSTZI-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.81 EUR
 currency: EUR
 price: 11.81

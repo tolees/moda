@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071HBMWB6-es Tommy Hilfiger Poppy Tote Bolso totes para Mujer Azul...'
 sku: 'B071HBMWB6-es'
-tags: [ 'bolso', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

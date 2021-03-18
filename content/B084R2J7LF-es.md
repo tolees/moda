@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084R2J7LF-es G-STAR RAW Attacc Heatseal Quilted HDD Jkt Chaqueta Sartho...'
 sku: 'B084R2J7LF-es'
-tags: [ 'chaqueta', ]
 actualPrice: 125.96 EUR
 currency: EUR
 price: 125.96

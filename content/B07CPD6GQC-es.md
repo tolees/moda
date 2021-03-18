@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPD6GQC-es Crocs Crocband II Sandal PS K Sandalias Unisex Niños Gris...'
 sku: 'B07CPD6GQC-es'
-tags: [ 'sandalias', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

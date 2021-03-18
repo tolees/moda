@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S75WBQS-es Crocs Classic U Zuecos con Correa Trasera Unisex Adulto...'
 sku: 'B07S75WBQS-es'
-tags: [ 'zuecos', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

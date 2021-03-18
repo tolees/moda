@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WKMBWKQ-es Pepe Jeans Art Camiseta Azul 519light SPA 519 17-18 años...'
 sku: 'B07WKMBWKQ-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

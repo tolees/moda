@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084HY39QC-es Tommy Hilfiger Th Men Sock 5p Fine Stripe Tin Giftbox...'
 sku: 'B084HY39QC-es'
-tags: [ 'vaqueros', ]
 actualPrice: 24.88 EUR
 currency: EUR
 price: 24.88

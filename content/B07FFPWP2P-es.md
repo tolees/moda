@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FFPWP2P-es Bollé FREEZE Black Matte / Grey Cat.3 | Medium - Gafas de...'
 sku: 'B07FFPWP2P-es'
-tags: [ 'gafas', ]
 actualPrice: 22.35 EUR
 currency: EUR
 price: 22.35

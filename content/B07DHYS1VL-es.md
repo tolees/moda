@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DHYS1VL-es Geox UOMO Sandal Strada A Sandalias con Punta Abierta...'
 sku: 'B07DHYS1VL-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 41.94 EUR
 currency: EUR
 price: 41.94

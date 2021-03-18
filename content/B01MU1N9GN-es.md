@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU1N9GN-es Crocs W Swiftwater Webbing Sandal 204804 Sandalias con...'
 sku: 'B01MU1N9GN-es'
-tags: [ 'sandalias', ]
 actualPrice: 30.45 EUR
 currency: EUR
 price: 30.45

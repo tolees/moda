@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081DKCTZP-es BILLABONG Unity Tank Camiseta sin Mangas Hombre Blanco...'
 sku: 'B081DKCTZP-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

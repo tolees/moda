@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZQB05W-es Milano Pantalón Marrón Oscuro ES 42'
 sku: 'B01LZQB05W-es'
-tags: [ 'pantalón', ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XC6QH5B-es Clarks Tilden Plain Zapatos de cordones derby Hombre...'
 sku: 'B06XC6QH5B-es'
-tags: [ 'zapatos', ]
 actualPrice: 51.09 EUR
 currency: EUR
 price: 51.09

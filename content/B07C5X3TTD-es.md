@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C5X3TTD-es Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera Negro...'
 sku: 'B07C5X3TTD-es'
-tags: [ 'sudadera', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

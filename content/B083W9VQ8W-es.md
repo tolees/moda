@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083W9VQ8W-es SHEEN KELLY Gafas de sol cuadradas polarizadas para...'
 sku: 'B083W9VQ8W-es'
-tags: [ 'gafas', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

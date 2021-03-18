@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DYZR04G-es Polaroid PLD 6014/S Y2 YYV Gafas de sol Negro Black...'
 sku: 'B01DYZR04G-es'
-tags: [ 'gafas', ]
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

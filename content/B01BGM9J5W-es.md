@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGM9J5W-es Veet Sensitive Precision - Recortador Eléctrico Depilador...'
 sku: 'B01BGM9J5W-es'
-tags: [ 'bikini', ]
 actualPrice: 21.21 EUR
 currency: EUR
 price: 21.21

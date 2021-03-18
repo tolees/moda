@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q5YRDKD-es Superdry VL 1st tee Camiseta Verde Pine GRL XL para Hombre'
 sku: 'B07Q5YRDKD-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

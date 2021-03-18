@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QSH53XN-es Inlefen Uniforme de Futbol Traje Niño Manga Corta Sudadera...'
 sku: 'B07QSH53XN-es'
-tags: [ 'sudadera', ]
 actualPrice: 15.61 EUR
 currency: EUR
 price: 15.61

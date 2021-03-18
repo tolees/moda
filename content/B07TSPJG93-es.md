@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSPJG93-es Women s Secret Daily Da1 Femenine PJ Conjuntos de Pijama...'
 sku: 'B07TSPJG93-es'
-tags: [ 'pijama', ]
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

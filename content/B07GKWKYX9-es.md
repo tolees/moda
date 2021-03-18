@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKWKYX9-es FITTOO Mujeres PU Leggins Cuero Brillante Pantalón...'
 sku: 'B07GKWKYX9-es'
-tags: [ 'leggins','pantalón', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

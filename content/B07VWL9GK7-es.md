@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWL9GK7-es Tommy Hilfiger TJM Corp Logo tee Camiseta Deporte Azul...'
 sku: 'B07VWL9GK7-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

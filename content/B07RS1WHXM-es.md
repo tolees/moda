@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RS1WHXM-es BRAX Chuck Five Pocket Casual Sportiv Vaqueros Slim Azul...'
 sku: 'B07RS1WHXM-es'
-tags: [ 'vaqueros', ]
 actualPrice: 65.86 EUR
 currency: EUR
 price: 65.86

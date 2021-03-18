@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078T2KKG2-es PUMA Liga JS Striped Jersey de Fútbol de Rayas Hombre...'
 sku: 'B078T2KKG2-es'
-tags: [ 'jersey', ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

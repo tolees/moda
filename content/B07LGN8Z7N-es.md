@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LGN8Z7N-es Seac Ohau Chanclas de Goma para mar Piscina Playa y Barco'
 sku: 'B07LGN8Z7N-es'
-tags: [ 'chanclas', ]
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

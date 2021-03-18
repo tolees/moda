@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DL33DG9-es NIKE Paris Saint-Germain Temporada 2020/21-PSG Y NK BRT...'
 sku: 'B08DL33DG9-es'
-tags: [ 'camiseta','nike', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

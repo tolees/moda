@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY85G6R-es Only Onlnew Lucca Parka Jacket Otw Rojo Ketchup Ketchup 40...'
 sku: 'B07RY85G6R-es'
-tags: [ 'parka', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

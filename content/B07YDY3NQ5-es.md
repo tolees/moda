@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YDY3NQ5-es Geographical Norway - Parka para Mujer Marina M'
 sku: 'B07YDY3NQ5-es'
-tags: [ 'parka', ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

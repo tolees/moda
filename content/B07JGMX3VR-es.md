@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGMX3VR-es Sunny Fashion - Vestido para niña Algodón Manga Larga...'
 sku: 'B07JGMX3VR-es'
-tags: [ 'vestido', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

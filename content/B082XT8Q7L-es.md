@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XT8Q7L-es Lee Stencil tee Camiseta Color Blanco S para Hombre'
 sku: 'B082XT8Q7L-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.71 EUR
 currency: EUR
 price: 8.71

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086NXTYZV-es PUMA Ftblnxt Track Jacket Chaqueta De Entrenamiento Hombre...'
 sku: 'B086NXTYZV-es'
-tags: [ 'chaqueta', ]
 actualPrice: 23.16 EUR
 currency: EUR
 price: 23.16

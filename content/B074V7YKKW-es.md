@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074V7YKKW-es Timberland 6 Inch Basic Alburn Waterproof Botas Chukka...'
 sku: 'B074V7YKKW-es'
-tags: [ 'timberland', ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DG54XLX-es IUREK Chaqueta Calefactable Hombre y Mujer ZD960 Chaqueta...'
 sku: 'B08DG54XLX-es'
-tags: [ 'abrigo','chaqueta', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

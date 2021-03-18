@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L2FS3FM-es Karactermania Mudito Monedero 11 cm Marrón'
 sku: 'B07L2FS3FM-es'
-tags: [ 'monedero', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

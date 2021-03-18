@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004ZKSKOE-es Pepe Jeans Venus Vaqueros Negro Black 999 27W / 32L para...'
 sku: 'B004ZKSKOE-es'
-tags: [ 'vaqueros', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

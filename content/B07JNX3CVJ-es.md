@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JNX3CVJ-es adidas TIRO19 AW JKT Chaqueta de Deporte Hombre Dark...'
 sku: 'B07JNX3CVJ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

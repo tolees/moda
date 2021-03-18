@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZZ2HPM-es Under Armour UA Launch Sw Split Short Pantalón Corto...'
 sku: 'B07CZZ2HPM-es'
-tags: [ 'pantalón', ]
 actualPrice: 32.12 EUR
 currency: EUR
 price: 32.12

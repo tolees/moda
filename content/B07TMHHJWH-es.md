@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TMHHJWH-es Levi s The Original tee Camiseta Grey Cotton + Patch...'
 sku: 'B07TMHHJWH-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMSQW39-es Kappa 304TDP0 911 S - Camiseta IRIAMI talla negro/gris S'
 sku: 'B07YMSQW39-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

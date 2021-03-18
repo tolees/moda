@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BLQWBV-es Mediffen Mujer Tacón De Agujae Elegante Fiesta Vestido...'
 sku: 'B088BLQWBV-es'
-tags: [ 'vestido', ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

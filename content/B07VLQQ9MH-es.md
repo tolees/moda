@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLQQ9MH-es Tommy Hilfiger TH Essential LW Dwn Chaqueta Blanco White...'
 sku: 'B07VLQQ9MH-es'
-tags: [ 'chaqueta', ]
 actualPrice: 65.31 EUR
 currency: EUR
 price: 65.31

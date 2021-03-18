@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T18Y7GS-es Organizador de Equipaje de Viaje 7 Piezas Impermeables...'
 sku: 'B07T18Y7GS-es'
-tags: [ 'zapatos', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

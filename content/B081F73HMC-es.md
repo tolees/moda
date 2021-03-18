@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081F73HMC-es Voova 15 15.6 14 Pulgadas Funda Maletín Ordenador...'
 sku: 'B081F73HMC-es'
-tags: [ 'bolso', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

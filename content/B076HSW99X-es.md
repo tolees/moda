@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HSW99X-es find. 59699 vaqueros mujer Azul Mid Blue W26/L32'
 sku: 'B076HSW99X-es'
-tags: [ 'vaqueros', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

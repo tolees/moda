@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NJZZRP-es Marca Amazon - find. Camiseta Manga Corta con Textura...'
 sku: 'B077NJZZRP-es'
-tags: [ '-','camiseta','find.', ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NMXKM-es GEOX U SNAKE.2 B NAVY Men s Trainers Low-Top Trainers size...'
 sku: 'B0825NMXKM-es'
-tags: [ 'geox', ]
 actualPrice: 44.86 EUR
 currency: EUR
 price: 44.86

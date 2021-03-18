@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7YJFP8-es TECOOL Funda Portátil de 14 Pulgadas Bolso Protectora...'
 sku: 'B07Q7YJFP8-es'
-tags: [ 'Fundas blandas para portátiles y netbooks','bolso','tecool', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MCMCLY5-es G-STAR RAW 3301 Slim Fit Vaqueros Light Indigo Aged 25W /...'
 sku: 'B07MCMCLY5-es'
-tags: [ 'vaqueros', ]
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

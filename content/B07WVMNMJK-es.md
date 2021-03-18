@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WVMNMJK-es Desigual TS Spray Palm Camiseta Blanco Blanco 1000 XS para...'
 sku: 'B07WVMNMJK-es'
-tags: [ 'camiseta', ]
 actualPrice: 24.01 EUR
 currency: EUR
 price: 24.01

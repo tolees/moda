@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q6XGY2Y-es SALOMON Coton Logo SS tee M Camiseta Deportiva de Manga...'
 sku: 'B07Q6XGY2Y-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

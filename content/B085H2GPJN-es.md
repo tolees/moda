@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085H2GPJN-es Tuc Tuc Vestido Felpa Gravity Gris 6A para Niñas'
 sku: 'B085H2GPJN-es'
-tags: [ 'vestido', ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

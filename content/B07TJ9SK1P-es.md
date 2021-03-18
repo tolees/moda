@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ9SK1P-es Levi s Original Hm Icon Crew Sudadera Amarillo Golden...'
 sku: 'B07TJ9SK1P-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.11 EUR
 currency: EUR
 price: 27.11

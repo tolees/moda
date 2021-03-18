@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BB5XDJ9-es Hurley M Garrison Chaqueta Hombre Negro L'
 sku: 'B07BB5XDJ9-es'
-tags: [ 'chaqueta', ]
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

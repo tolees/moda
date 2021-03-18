@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NSMY8-es GEOX U NEBULA E NAVY/BLUE Men s Trainers Low-Top Trainers...'
 sku: 'B0825NSMY8-es'
-tags: [ 'geox', ]
 actualPrice: 47.68 EUR
 currency: EUR
 price: 47.68

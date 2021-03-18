@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WSCXRLS-es YOSICIL Zapatos de la Princesa Elsa niñas con Lentejuela...'
 sku: 'B07WSCXRLS-es'
-tags: [ 'sandalias','zapatos', ]
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NX81YVD-es Superdry Orange Label Vintage EMB tee Camiseta Manga Corta...'
 sku: 'B07NX81YVD-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

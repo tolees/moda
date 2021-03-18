@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4WY9WB-es Springfield 5Ec Paisaje Montaña-c/96 Camiseta Blanco Ivory...'
 sku: 'B07W4WY9WB-es'
-tags: [ 'camiseta', ]
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

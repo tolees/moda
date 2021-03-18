@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00D08M2AU-es Timberland Euro Rock Hiker Botas Hombre Marrón Medium...'
 sku: 'B00D08M2AU-es'
-tags: [ 'timberland', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

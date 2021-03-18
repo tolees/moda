@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGKP5TS-es Parfois - Clutch - Bolso De Fiesta Con Abalorios - Mujeres...'
 sku: 'B07WGKP5TS-es'
-tags: [ 'bolso', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

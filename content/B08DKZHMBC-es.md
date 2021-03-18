@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKZHMBC-es Jack & Jones JCOLAMBO tee SS Crew Neck FST Camiseta Ajuste...'
 sku: 'B08DKZHMBC-es'
-tags: [ 'camiseta', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

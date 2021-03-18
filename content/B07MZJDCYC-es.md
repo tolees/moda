@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZJDCYC-es G-STAR RAW Graphic 8 Round Neck Camiseta Gris Lt Grey Htr...'
 sku: 'B07MZJDCYC-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MG6CZF-es OBEEII Vestido Princesa Niña Bordado de Tul Disfraz...'
 sku: 'B082MG6CZF-es'
-tags: [ 'vestido', ]
 actualPrice: 12.86 EUR
 currency: EUR
 price: 12.86

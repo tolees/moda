@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PMTLW1N-es Under Armour Challenger III Training Top Camisa Manga...'
 sku: 'B07PMTLW1N-es'
-tags: [ 'camisa', ]
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VLN6RYS-es Levi s The Perfect Tee Camiseta para Mujer Blanco Batwing...'
 sku: 'B00VLN6RYS-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

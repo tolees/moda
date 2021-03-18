@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLQ65VM-es adidas AB H JSY Perf J Camiseta Unisex niños Negro 3XL'
 sku: 'B07NLQ65VM-es'
-tags: [ 'camiseta', ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

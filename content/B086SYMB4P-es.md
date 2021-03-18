@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086SYMB4P-es Oihxse Moda Lindo Cristal Case Compatible con iPhone X/XS...'
 sku: 'B086SYMB4P-es'
-tags: [ 'moda', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

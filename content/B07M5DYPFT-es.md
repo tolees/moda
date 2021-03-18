@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M5DYPFT-es Wrangler Logo tee Camiseta Azul Navy 114 Medium para Hombre'
 sku: 'B07M5DYPFT-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

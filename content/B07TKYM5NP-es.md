@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKYM5NP-es Calvin Klein Ckj 026 Vaqueros Slim Azul Antwerp Rinse 911...'
 sku: 'B07TKYM5NP-es'
-tags: [ 'vaqueros', ]
 actualPrice: 38.66 EUR
 currency: EUR
 price: 38.66

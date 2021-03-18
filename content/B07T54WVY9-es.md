@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T54WVY9-es ZIGJOY Strangers TV Camiseta Unisex Camiseta Top One...'
 sku: 'B07T54WVY9-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

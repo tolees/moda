@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074G49MKZ-es Zuecos para adultos unisex de Crocs color Blanco talla...'
 sku: 'B074G49MKZ-es'
-tags: [ 'zuecos', ]
 actualPrice: 36.65 EUR
 currency: EUR
 price: 36.65

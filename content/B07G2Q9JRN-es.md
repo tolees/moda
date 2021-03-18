@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2Q9JRN-es Levi s Graphic Set-in Neck Camiseta para Hombre Negro...'
 sku: 'B07G2Q9JRN-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2LWVNL-es Levi s Plus Size Pl tee Camiseta Gris Plus Sportswear Logo...'
 sku: 'B07F2LWVNL-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.03 EUR
 currency: EUR
 price: 18.03

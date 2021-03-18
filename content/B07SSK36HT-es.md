@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSK36HT-es Geox D Myria C Zapatillas para Mujer Negro Black C9999 38 EU'
 sku: 'B07SSK36HT-es'
-tags: [ 'geox', ]
 actualPrice: 42.27 EUR
 currency: EUR
 price: 42.27

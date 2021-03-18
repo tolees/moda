@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HPNLCQ-es adidas CORE18 RN JKT Chaqueta Deportiva Hombre Azul Dark...'
 sku: 'B076HPNLCQ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DZVRLBG-es Targus Newport Bolso Convertible de 12 L Mochila para...'
 sku: 'B07DZVRLBG-es'
-tags: [ 'bolso', ]
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

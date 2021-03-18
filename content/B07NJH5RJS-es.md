@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJH5RJS-es El Naturalista N5310 Iris Coral Botines para Mujer Gris...'
 sku: 'B07NJH5RJS-es'
-tags: [ 'botines', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

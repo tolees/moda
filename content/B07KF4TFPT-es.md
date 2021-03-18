@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4TFPT-es Levi s 311 Shaping Skinny Vaqueros London Nights 27W / 30L...'
 sku: 'B07KF4TFPT-es'
-tags: [ 'vaqueros', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

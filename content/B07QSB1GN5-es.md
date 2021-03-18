@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QSB1GN5-es HAWKERS Gafas de Sol LS Black Daylight para Hombre y Mujer...'
 sku: 'B07QSB1GN5-es'
-tags: [ 'Accesorios para hombre','Camisetas de manga corta para niño','Camisetas, polos y camisas para niño','Gafas de sol para hombre','Gafas y accesorios para hombre','Ropa','Ropa para hombre','Ropa para niño','gafas','hawkers', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

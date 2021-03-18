@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQ7CJX-es Levi s LS Original HM tee Camiseta Sassafras S para Hombre'
 sku: 'B07ZVQ7CJX-es'
-tags: [ 'camiseta', ]
 actualPrice: 26.15 EUR
 currency: EUR
 price: 26.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y28F2SH-es Panama Jack Salman Basics Sandalias con Punta Abierta...'
 sku: 'B07Y28F2SH-es'
-tags: [ 'sandalias', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

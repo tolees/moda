@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V69YPQJ-es JACK & JONES Jcovally tee SS Crew Neck Camiseta Marrón...'
 sku: 'B07V69YPQJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 6.18 EUR
 currency: EUR
 price: 6.18

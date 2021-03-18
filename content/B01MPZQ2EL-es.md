@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MPZQ2EL-es oodji Ultra Mujer Blusa Estampada de Gasa Verde ES 34 / XXS'
 sku: 'B01MPZQ2EL-es'
-tags: [ 'blusa','oodji ultra', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

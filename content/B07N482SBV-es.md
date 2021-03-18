@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N482SBV-es United Colors of Benetton College Man Camisa Casual Azul...'
 sku: 'B07N482SBV-es'
-tags: [ 'camisa', ]
 actualPrice: 9.37 EUR
 currency: EUR
 price: 9.37

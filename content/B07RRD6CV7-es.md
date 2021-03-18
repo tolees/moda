@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRD6CV7-es HAWKERS KIDS · LACMA · Black Silver · Dark · Gafas de sol...'
 sku: 'B07RRD6CV7-es'
-tags: [ 'gafas', ]
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

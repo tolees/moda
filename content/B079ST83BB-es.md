@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ST83BB-es Desigual TS_Logan Camiseta Cemento 2012 Small para Mujer'
 sku: 'B079ST83BB-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.66 EUR
 currency: EUR
 price: 17.66

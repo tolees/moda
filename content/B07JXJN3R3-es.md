@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXJN3R3-es Firenze Artegiani Bolso Bandolera de Mujer en Piel...'
 sku: 'B07JXJN3R3-es'
-tags: [ 'bolso', ]
 actualPrice: 98.73 EUR
 currency: EUR
 price: 98.73

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC44MJP-es Calvin Klein Center Monogram Box Slim tee Camiseta Negro...'
 sku: 'B07VC44MJP-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

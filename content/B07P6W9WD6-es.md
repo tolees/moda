@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6W9WD6-es JACK & JONES Jorhotel tee SS Crew Neck Camiseta Turquesa...'
 sku: 'B07P6W9WD6-es'
-tags: [ 'camiseta', ]
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

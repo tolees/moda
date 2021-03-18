@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KR7B79M-es Under Armour Sportstyle Logo LS Camiseta Hombre Blanco...'
 sku: 'B07KR7B79M-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RBMK4RW-es find. Chunky Hiker Botines Marrón Brown 41 EU'
 sku: 'B07RBMK4RW-es'
-tags: [ 'botines', ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

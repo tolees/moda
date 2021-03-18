@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776ZNPM6-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo Negro...'
 sku: 'B0776ZNPM6-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

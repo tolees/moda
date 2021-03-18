@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07STLY2S7-es Geox D Jaysen A Zapatillas Mujer Rosa Rose Gold/Skin Ch8a5...'
 sku: 'B07STLY2S7-es'
-tags: [ 'geox', ]
 actualPrice: 54.5 EUR
 currency: EUR
 price: 54.5

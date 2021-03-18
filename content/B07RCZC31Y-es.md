@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RCZC31Y-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros Azul Worn...'
 sku: 'B07RCZC31Y-es'
-tags: [ 'vaqueros', ]
 actualPrice: 43.29 EUR
 currency: EUR
 price: 43.29

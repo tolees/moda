@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BKRHGQP-es Marca Amazon – Goodthreads – «El pantalón chino perfecto»;...'
 sku: 'B07BKRHGQP-es'
-tags: [ 'goodthreads','pantalón', ]
 actualPrice: 18.54 EUR
 currency: EUR
 price: 18.54

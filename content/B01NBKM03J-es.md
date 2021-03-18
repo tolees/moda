@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NBKM03J-es Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable...'
 sku: 'B01NBKM03J-es'
-tags: [ 'chaqueta', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

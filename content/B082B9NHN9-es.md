@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082B9NHN9-es Geographical Norway Chaqueta DE Mujer TILSIT Rojo 01'
 sku: 'B082B9NHN9-es'
-tags: [ 'chaqueta', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

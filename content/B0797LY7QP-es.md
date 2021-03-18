@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797LY7QP-es PUMA Liga Jersey Camiseta Hombre Azul Peacoat/White L'
 sku: 'B0797LY7QP-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

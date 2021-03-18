@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QYT5S6J-es OMERIL Guantes Gimnasio para Hombre y Mujer Gym Guantes...'
 sku: 'B07QYT5S6J-es'
-tags: [ 'guantes', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

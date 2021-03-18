@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089R1QLTR-es Kappa Zallard Authentic Pantalón Hombre Rojo XL'
 sku: 'B089R1QLTR-es'
-tags: [ 'pantalón', ]
 actualPrice: 47.93 EUR
 currency: EUR
 price: 47.93

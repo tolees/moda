@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N33QDL2-es Nike Kawa Shower Zapatos de Playa y Piscina para Hombre...'
 sku: 'B01N33QDL2-es'
-tags: [ 'zapatos', ]
 actualPrice: 12.05 EUR
 currency: EUR
 price: 12.05

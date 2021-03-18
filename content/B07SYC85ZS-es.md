@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SYC85ZS-es Quiksilver Monkey Caged Sandalias de Talón Abierto Hombre...'
 sku: 'B07SYC85ZS-es'
-tags: [ 'sandalias', ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

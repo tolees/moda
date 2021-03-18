@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9CC59W-es Emoji Camiseta de Manga Corta para niñas Llama Morado...'
 sku: 'B07S9CC59W-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

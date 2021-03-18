@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5Y7WP6-es Burton Underhill Camiseta Hombre True Black XXS'
 sku: 'B07W5Y7WP6-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

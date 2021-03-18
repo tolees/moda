@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WYDHQ7Z-es Omasi Gafas de esquí Máscara Gafas Esqui Snowboard para...'
 sku: 'B07WYDHQ7Z-es'
-tags: [ 'gafas', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL5RHK-es G-STAR RAW Xpo Field Chaqueta Verde Sage 724 Small para...'
 sku: 'B07NDL5RHK-es'
-tags: [ 'chaqueta', ]
 actualPrice: 37.29 EUR
 currency: EUR
 price: 37.29

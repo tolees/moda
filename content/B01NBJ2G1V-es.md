@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBJ2G1V-es G-STAR RAW Eyben Slim R T Wmn S/s Camiseta Blanco White...'
 sku: 'B01NBJ2G1V-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

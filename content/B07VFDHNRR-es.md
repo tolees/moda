@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFDHNRR-es JACK & JONES Mike Original Jos 697 I.k Vaqueros Black...'
 sku: 'B07VFDHNRR-es'
-tags: [ 'vaqueros', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

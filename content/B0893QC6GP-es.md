@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893QC6GP-es Quiksilver Ca Tried N Tur Bear - Camiseta para Hombre...'
 sku: 'B0893QC6GP-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

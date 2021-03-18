@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N36WNEC-es Levi s The Perfect Tee Camiseta Mujer Blanco White 297 M'
 sku: 'B01N36WNEC-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

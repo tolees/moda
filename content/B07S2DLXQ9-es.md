@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2DLXQ9-es Only Onlnew Lucca Parka Jacket Otw Azul Night Sky Night...'
 sku: 'B07S2DLXQ9-es'
-tags: [ 'parka', ]
 actualPrice: 21.06 EUR
 currency: EUR
 price: 21.06

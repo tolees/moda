@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VCCJKQQ-es Napapijri Acalmar W Vest 2 Chaqueta Azul Blu Marine 1761...'
 sku: 'B07VCCJKQQ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 44.44 EUR
 currency: EUR
 price: 44.44

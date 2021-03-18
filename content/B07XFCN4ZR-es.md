@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFCN4ZR-es Zapatillas de Deportivos de Running para Hombre Gimnasia...'
 sku: 'B07XFCN4ZR-es'
-tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

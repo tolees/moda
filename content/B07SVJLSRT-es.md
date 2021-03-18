@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SVJLSRT-es Geox J Android Boy C Zapatillas Deportivas Niños Azul...'
 sku: 'B07SVJLSRT-es'
-tags: [ 'geox', ]
 actualPrice: 47.64 EUR
 currency: EUR
 price: 47.64

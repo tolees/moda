@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084BKTT2N-es Cerdá Falda de Tul con Tutu de Minnie Mouse Disney para...'
 sku: 'B084BKTT2N-es'
-tags: [ 'falda', ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

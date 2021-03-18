@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DZ6LXMV-es Columbia Element Blocker II Interchange 3 en 1 Chaqueta...'
 sku: 'B07DZ6LXMV-es'
-tags: [ 'chaqueta', ]
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

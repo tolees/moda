@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0788C3NYJ-es Tommy Hilfiger RN tee SS Camiseta Gris Grey Heather 004...'
 sku: 'B0788C3NYJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

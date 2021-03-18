@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075Z5HP8C-es Vero Moda Vmsophia HW Skinny Jeans Lt Bl Noos Ci Vaqueros...'
 sku: 'B075Z5HP8C-es'
-tags: [ 'moda','vaqueros', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

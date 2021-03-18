@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVP9B66-es Levi s Fillmore Short Jacket Jacke Chaqueta Ueprint S para...'
 sku: 'B07ZVP9B66-es'
-tags: [ 'chaqueta', ]
 actualPrice: 56.83 EUR
 currency: EUR
 price: 56.83

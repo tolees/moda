@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVHZ1NN-es Kipling New S Bolso Shopper para Mujer Morado Dark Plum...'
 sku: 'B07MVHZ1NN-es'
-tags: [ 'bolso', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

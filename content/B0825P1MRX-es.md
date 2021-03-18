@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825P1MRX-es GEOX U NEBULA E BLACK/FLUO GREEN Men s Trainers Low-Top...'
 sku: 'B0825P1MRX-es'
-tags: [ 'geox', ]
 actualPrice: 54.01 EUR
 currency: EUR
 price: 54.01

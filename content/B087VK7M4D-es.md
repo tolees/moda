@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087VK7M4D-es Columbia Pike Lake Chaqueta con Capucha Hombre Rojo Negro...'
 sku: 'B087VK7M4D-es'
-tags: [ 'Chubasqueros de acampada y marcha para hombre','chaqueta','columbia', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

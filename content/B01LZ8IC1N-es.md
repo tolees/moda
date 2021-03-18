@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ8IC1N-es Marca Amazon - IRIS & LILLY Braguita para Mujer Pack de 5...'
 sku: 'B01LZ8IC1N-es'
-tags: [ '&','iris','lilly', ]
 actualPrice: 10.91 EUR
 currency: EUR
 price: 10.91

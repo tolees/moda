@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3WGGHL-es Levi s 510 Fit Vaqueros Skinny Azul Bonita City 4/Waxy...'
 sku: 'B07S3WGGHL-es'
-tags: [ 'vaqueros', ]
 actualPrice: 32.72 EUR
 currency: EUR
 price: 32.72

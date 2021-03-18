@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9LKWT8-es Tommy Hilfiger Trunk Bóxer Gris Dark Grey Htr 091 Medium...'
 sku: 'B07D9LKWT8-es'
-tags: [ 'bóxer', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

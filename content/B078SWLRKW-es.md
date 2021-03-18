@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SWLRKW-es Timberland Malibu Waves Thong Sandalias para Mujer Negro...'
 sku: 'B078SWLRKW-es'
-tags: [ 'sandalias','timberland', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

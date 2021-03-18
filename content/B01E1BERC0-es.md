@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E1BERC0-es JACK & JONES JCOBORO TEE SS CREW NECK Camiseta Hombre...'
 sku: 'B01E1BERC0-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

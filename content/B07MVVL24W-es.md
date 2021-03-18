@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVVL24W-es RATEL Kit de Chaleco Táctico para Niños 38pcs Traje de...'
 sku: 'B07MVVL24W-es'
-tags: [ 'chaleco','chaqueta','gafas', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

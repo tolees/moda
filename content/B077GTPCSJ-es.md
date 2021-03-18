@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GTPCSJ-es Under Armour Ua Classic Script SS Camiseta de manga corta...'
 sku: 'B077GTPCSJ-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

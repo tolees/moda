@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N7BFNYK-es Oakley 0OJ9006 Gafas de Sol Matte Translucent Sapphire 53...'
 sku: 'B07N7BFNYK-es'
-tags: [ 'gafas', ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

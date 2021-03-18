@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010D7C3GI-es DSstyles Toalla de Playa Extra Grande Toalla de Viaje...'
 sku: 'B010D7C3GI-es'
-tags: [ 'bikini', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

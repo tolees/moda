@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHGJKXY-es Tommy Hilfiger Corp Split tee Camiseta Deporte Blanco...'
 sku: 'B07RHGJKXY-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

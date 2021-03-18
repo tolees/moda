@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KRWSW2Q-es Columbia Silver Ridge 2.0 Camisa de manga larga para mujer...'
 sku: 'B07KRWSW2Q-es'
-tags: [ 'camisa', ]
 actualPrice: 18.1 EUR
 currency: EUR
 price: 18.1

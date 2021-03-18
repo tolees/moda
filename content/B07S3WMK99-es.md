@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S3WMK99-es Levi s The Perfect Tee Camiseta Mujer Blanco 90 s Serif T2...'
 sku: 'B07S3WMK99-es'
-tags: [ 'camiseta', ]
 actualPrice: 17.35 EUR
 currency: EUR
 price: 17.35

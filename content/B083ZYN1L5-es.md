@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083ZYN1L5-es Geox M Vincit Chaqueta Azul Oscuro 46 para Hombre'
 sku: 'B083ZYN1L5-es'
-tags: [ 'chaqueta','geox', ]
 actualPrice: 81.6 EUR
 currency: EUR
 price: 81.6

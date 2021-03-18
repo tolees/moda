@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4R96VG-es Marca Amazon - find. Jersey de Ochos Hombre Marfil Ecru S...'
 sku: 'B07D4R96VG-es'
-tags: [ '-','find.','jersey', ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

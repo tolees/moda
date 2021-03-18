@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VN7R4Y2-es Hackett London Poplin Classic DC Camisa Azul 513sky 513 42...'
 sku: 'B07VN7R4Y2-es'
-tags: [ 'camisa', ]
 actualPrice: 39.28 EUR
 currency: EUR
 price: 39.28

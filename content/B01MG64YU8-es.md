@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MG64YU8-es Pepe Jeans Kingston Zip Vaqueros Azul 11Oz Vintage 8 Dip...'
 sku: 'B01MG64YU8-es'
-tags: [ 'vaqueros', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

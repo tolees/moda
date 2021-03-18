@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBKKV9J-es adidas ZNE Pant Pantalón Hombre Negro/Blanco S'
 sku: 'B08CBKKV9J-es'
-tags: [ 'pantalón', ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYX9XRY-es Columbia Pike Lake Chaqueta Mujer Negro Black M'
 sku: 'B07DYX9XRY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079KG91CN-es Lee Rider Jeans Vaqueros Grey Used 29W / 32L para Hombre'
 sku: 'B079KG91CN-es'
-tags: [ 'vaqueros', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

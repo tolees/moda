@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KDJT4KT-es adidas T19 TRK Jkt M Chaqueta de Deporte Hombre Team Navy...'
 sku: 'B07KDJT4KT-es'
-tags: [ 'chaqueta', ]
 actualPrice: 25.83 EUR
 currency: EUR
 price: 25.83

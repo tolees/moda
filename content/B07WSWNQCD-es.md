@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSWNQCD-es Bose Frames - Gafas de sol con altavoces Alto S/M color negro'
 sku: 'B07WSWNQCD-es'
-tags: [ 'gafas', ]
 actualPrice: 159.2 EUR
 currency: EUR
 price: 159.2

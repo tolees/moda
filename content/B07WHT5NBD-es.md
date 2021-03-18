@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHT5NBD-es Jack & Jones Jormastul Sweat Hood Sudadera con Capucha...'
 sku: 'B07WHT5NBD-es'
-tags: [ 'sudadera', ]
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

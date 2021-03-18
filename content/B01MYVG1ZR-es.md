@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYVG1ZR-es adidas ESS LIN P/O FT Sudadera con capucha Hombre Gris L'
 sku: 'B01MYVG1ZR-es'
-tags: [ 'sudadera', ]
 actualPrice: 27.85 EUR
 currency: EUR
 price: 27.85

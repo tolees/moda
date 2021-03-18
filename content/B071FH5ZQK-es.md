@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071FH5ZQK-es DoGeek Transpirable Zapatos de Ballet Zapatillas de Ballet...'
 sku: 'B071FH5ZQK-es'
-tags: [ 'zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

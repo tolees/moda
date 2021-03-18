@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG2D9GZ-es Geox U Renan B Zapatillas para Hombre Marrón Mud C6372 45 EU'
 sku: 'B07LG2D9GZ-es'
-tags: [ 'geox', ]
 actualPrice: 47.64 EUR
 currency: EUR
 price: 47.64

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK46M1S-es Columbia Redmond V2 Zapatos de Senderismo Impermeables...'
 sku: 'B07KK46M1S-es'
-tags: [ 'zapatos', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJHRTQS-es DoGeek Leggins Deporte Mujer para Training Running Yoga...'
 sku: 'B07RJHRTQS-es'
-tags: [ 'leggins', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBP88NF-es Helly Hansen Paramount Resistente Al Agua Y Al Viento Y...'
 sku: 'B07LBP88NF-es'
-tags: [ 'chaqueta', ]
 actualPrice: 34.58 EUR
 currency: EUR
 price: 34.58

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NK4FBKZ-es LEVI S Free Metal Complementos y Accesorios Moda Hombres...'
 sku: 'B07NK4FBKZ-es'
-tags: [ 'moda', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

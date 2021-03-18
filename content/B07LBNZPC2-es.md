@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBNZPC2-es Helly Hansen Moss Aislado 3-In-1 Forro Polar Interior...'
 sku: 'B07LBNZPC2-es'
-tags: [ 'chaqueta', ]
 actualPrice: 66.96 EUR
 currency: EUR
 price: 66.96

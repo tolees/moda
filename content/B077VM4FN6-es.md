@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VM4FN6-es Levi s The Perfect Tee Camiseta Mujer Blanco Better...'
 sku: 'B077VM4FN6-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FHJI7GW-es Under Armour UA Woven Graphic Short Pantalón Corto Hombre...'
 sku: 'B01FHJI7GW-es'
-tags: [ 'pantalón', ]
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

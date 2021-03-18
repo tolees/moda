@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XQ2RFVK-es Desigual Vest_vermond Vestido Negro 2000 38 para Mujer'
 sku: 'B06XQ2RFVK-es'
-tags: [ 'vestido', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

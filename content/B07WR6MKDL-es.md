@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WR6MKDL-es Cómodo Zapatos para Correr Deportes en Montaña Asfalto...'
 sku: 'B07WR6MKDL-es'
-tags: [ 'zapatos', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

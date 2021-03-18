@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NH1NK5-es Tom Tailor Denim Chambray Baloon Sleeve Blouse Blusa Mujer...'
 sku: 'B075NH1NK5-es'
-tags: [ 'blusa', ]
 actualPrice: 8 EUR
 currency: EUR
 price: 8

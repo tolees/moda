@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017HMR7LI-es Rolling Stones Tour 78 Mens Blk TS Camiseta Negro Black...'
 sku: 'B017HMR7LI-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

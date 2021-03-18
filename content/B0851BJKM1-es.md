@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0851BJKM1-es HERSITY Maletín Herramientas de Juguetes con Taladro y...'
 sku: 'B0851BJKM1-es'
-tags: [ 'gafas', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

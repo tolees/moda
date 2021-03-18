@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ3VYLV-es Geox D Nebula C Zapatillas para Mujer Negro Gun C1357 38 EU'
 sku: 'B07DJ3VYLV-es'
-tags: [ 'geox', ]
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

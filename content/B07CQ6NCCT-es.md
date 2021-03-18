@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ6NCCT-es Marca Amazon - AURIQUE Mallas de Deporte sin Costuras de...'
 sku: 'B07CQ6NCCT-es'
-tags: [ 'aurique', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

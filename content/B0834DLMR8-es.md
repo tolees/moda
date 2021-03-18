@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0834DLMR8-es Zapatillas De Deporte Unisex para Niños Zapatillas De...'
 sku: 'B0834DLMR8-es'
-tags: [ 'zapatos', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

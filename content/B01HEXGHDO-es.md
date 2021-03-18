@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HEXGHDO-es Crocs Classic Clog K Zuecos Unisex Niños Black 32/33 EU'
 sku: 'B01HEXGHDO-es'
-tags: [ 'zuecos', ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZJDCXX-es G-STAR RAW Graphic 8 Round Neck Camiseta Blanco White 110...'
 sku: 'B07MZJDCXX-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

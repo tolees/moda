@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FH7NRG-es Lacoste CH2945 Camisa de Vestir Blanc/Panorama 40 para Hombre'
 sku: 'B083FH7NRG-es'
-tags: [ 'camisa', ]
 actualPrice: 63.2 EUR
 currency: EUR
 price: 63.2

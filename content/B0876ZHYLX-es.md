@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876ZHYLX-es ELEEMEE Mujer Elegant sin Cordones Zapatos con Lazos Tacón...'
 sku: 'B0876ZHYLX-es'
-tags: [ 'zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

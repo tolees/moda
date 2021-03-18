@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081GW2TBJ-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
 sku: 'B081GW2TBJ-es'
-tags: [ 'zapatos', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

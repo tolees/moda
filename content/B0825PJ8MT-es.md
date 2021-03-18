@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PJ8MT-es GEOX U KENNET A NAVY Men s Trainers Low-Top Trainers size...'
 sku: 'B0825PJ8MT-es'
-tags: [ 'geox', ]
 actualPrice: 36.63 EUR
 currency: EUR
 price: 36.63

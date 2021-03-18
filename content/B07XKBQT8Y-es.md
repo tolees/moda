@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKBQT8Y-es Skechers Summits Sandalias Punta Cerrada para Niños Gris...'
 sku: 'B07XKBQT8Y-es'
-tags: [ 'sandalias', ]
 actualPrice: 29.04 EUR
 currency: EUR
 price: 29.04

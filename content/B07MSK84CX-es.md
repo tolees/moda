@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSK84CX-es Geox D BACKSIE B ABX C Botas de Nieve para Mujer Marrón...'
 sku: 'B07MSK84CX-es'
-tags: [ 'geox', ]
 actualPrice: 70.79 EUR
 currency: EUR
 price: 70.79

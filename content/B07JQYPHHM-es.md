@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQYPHHM-es Tommy Hilfiger TH Essential Shirt LS W2 Blusa Azul Easy...'
 sku: 'B07JQYPHHM-es'
-tags: [ 'blusa', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

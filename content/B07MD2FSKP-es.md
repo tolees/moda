@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MD2FSKP-es HongHu Moda para mujer Neat Bangs Corto Gran peluca rizada...'
 sku: 'B07MD2FSKP-es'
-tags: [ 'moda', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

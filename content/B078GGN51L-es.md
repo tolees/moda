@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GGN51L-es Tommy Hilfiger Bikini Culotte Gris Grey Heather 004 Medium...'
 sku: 'B078GGN51L-es'
-tags: [ 'bikini', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

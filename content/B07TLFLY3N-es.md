@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLFLY3N-es Levi s The Original Camiseta Rojo Hm Patch OG Hm tee Earth...'
 sku: 'B07TLFLY3N-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

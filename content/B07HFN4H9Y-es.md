@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HFN4H9Y-es Rubies - Fortnite - Disfraz camiseta Skull Trooper para...'
 sku: 'B07HFN4H9Y-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.21 EUR
 currency: EUR
 price: 21.21

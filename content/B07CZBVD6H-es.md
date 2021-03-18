@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZBVD6H-es Under Armour UA Launch Sw 5 Short Pantalón Corto Hombre...'
 sku: 'B07CZBVD6H-es'
-tags: [ 'pantalón', ]
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VL3FFVT-es Hackett London Amr Hackett tee Camiseta Blanco White 800...'
 sku: 'B07VL3FFVT-es'
-tags: [ 'camiseta', ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

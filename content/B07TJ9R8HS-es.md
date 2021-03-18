@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ9R8HS-es Levi s Housemark Graphic tee Camiseta Verde Hm Ssnl Emb...'
 sku: 'B07TJ9R8HS-es'
-tags: [ 'camiseta', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XFLZQ28-es Artesania Cerda Largo AC/DC Conjuntos de pijama Negro...'
 sku: 'B07XFLZQ28-es'
-tags: [ 'pijama', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

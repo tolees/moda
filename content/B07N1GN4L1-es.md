@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1GN4L1-es Clarks Hamble Oak Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1GN4L1-es'
-tags: [ 'zapatos', ]
 actualPrice: 44.22 EUR
 currency: EUR
 price: 44.22

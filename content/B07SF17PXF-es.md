@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SF17PXF-es SALOMON Discovery Lt FZ M Chaqueta Polar Hombre Gris Ebony'
 sku: 'B07SF17PXF-es'
-tags: [ 'chaqueta', ]
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

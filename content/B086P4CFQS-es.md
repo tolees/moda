@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086P4CFQS-es PUMA Evostripe tee Camiseta Mujer White S'
 sku: 'B086P4CFQS-es'
-tags: [ 'Camisetas para mujer','camiseta','puma', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

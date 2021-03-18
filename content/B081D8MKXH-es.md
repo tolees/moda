@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081D8MKXH-es LEGO Wear MW - Sweatjacke Mit Kapuze Ninjago Sudadera 590...'
 sku: 'B081D8MKXH-es'
-tags: [ 'sudadera', ]
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

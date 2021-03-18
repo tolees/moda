@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7QF5J9-es Chicco Sandalo Corissa Sandalias para Niñas Blanco Bianco...'
 sku: 'B07V7QF5J9-es'
-tags: [ 'sandalias', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

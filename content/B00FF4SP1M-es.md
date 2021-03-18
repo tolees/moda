@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FF4SP1M-es Arena Zoom X-Fit Gafas de Natación Unisex Adulto Verde...'
 sku: 'B00FF4SP1M-es'
-tags: [ 'gafas', ]
 actualPrice: 8.46 EUR
 currency: EUR
 price: 8.46

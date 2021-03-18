@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KH1MQF8-es Under Armour EU Tech Pant Pantalón de Golf Hombre Marrón...'
 sku: 'B07KH1MQF8-es'
-tags: [ 'pantalón', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

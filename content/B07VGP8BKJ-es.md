@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGP8BKJ-es HUGO Daple202 Sudadera Beige Dark Beige 251 M para Hombre'
 sku: 'B07VGP8BKJ-es'
-tags: [ 'sudadera', ]
 actualPrice: 26.83 EUR
 currency: EUR
 price: 26.83

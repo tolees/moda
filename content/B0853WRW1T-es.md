@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0853WRW1T-es Zapatos Casual Niña Pablosky Azul 341929 32'
 sku: 'B0853WRW1T-es'
-tags: [ 'zapatos', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

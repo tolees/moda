@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWBGLFH-es Levi s Relaxed Crew New Sudadera Rosa Peach Blush 0003...'
 sku: 'B07TWBGLFH-es'
-tags: [ 'sudadera', ]
 actualPrice: 29.85 EUR
 currency: EUR
 price: 29.85

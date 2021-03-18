@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKGW3PV-es HKT by Hackett Hkt Crew Sudadera Rojo 2eylt Jack Red 2ey...'
 sku: 'B07VKGW3PV-es'
-tags: [ 'sudadera', ]
 actualPrice: 29.47 EUR
 currency: EUR
 price: 29.47

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8YKJHC-es REPLAY Anbass Vaqueros Slim Azul Dark Blue 7 W30/L32 Talla...'
 sku: 'B07L8YKJHC-es'
-tags: [ 'vaqueros', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

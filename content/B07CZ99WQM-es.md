@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZ99WQM-es Under Armour Mk1 SS Q2 Printed Camiseta Hombre Gris Mod...'
 sku: 'B07CZ99WQM-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

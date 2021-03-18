@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VR2HWND-es Lee Malone Vaqueros Washed Black OW 30W / 32L para Hombre'
 sku: 'B07VR2HWND-es'
-tags: [ 'vaqueros', ]
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MDM930F-es BOSS T-shirt VN 3P CO Camiseta Negro Black 1 Small Pack de...'
 sku: 'B01MDM930F-es'
-tags: [ 'camiseta', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

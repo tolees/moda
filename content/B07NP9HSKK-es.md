@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NP9HSKK-es New Look Ditsy Mesh Ruffle 6172444 Falda Negro Black...'
 sku: 'B07NP9HSKK-es'
-tags: [ 'falda', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

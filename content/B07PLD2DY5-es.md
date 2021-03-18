@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PLD2DY5-es Spontex - Guantes Finos Mosaik 40 Unidades Alta...'
 sku: 'B07PLD2DY5-es'
-tags: [ 'guantes', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

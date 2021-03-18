@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LCTZV7-es Lacoste TH6709 Camiseta para Hombre Azul Bleu 001 5XL...'
 sku: 'B079LCTZV7-es'
-tags: [ 'camiseta', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EOX2M9K-es Helly Hansen W Aden Chaqueta Mujer Evening Blue L'
 sku: 'B01EOX2M9K-es'
-tags: [ 'chaqueta', ]
 actualPrice: 68.5 EUR
 currency: EUR
 price: 68.5

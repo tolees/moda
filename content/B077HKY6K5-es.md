@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HKY6K5-es Vila Clothes Vitinny New S/s Dress-Noos Vestido Blanco...'
 sku: 'B077HKY6K5-es'
-tags: [ 'vestido', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

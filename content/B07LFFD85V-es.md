@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFFD85V-es Levi s Coit Down Puffer Chaqueta Negro Black 0003 Large...'
 sku: 'B07LFFD85V-es'
-tags: [ 'chaqueta', ]
 actualPrice: 68.17 EUR
 currency: EUR
 price: 68.17

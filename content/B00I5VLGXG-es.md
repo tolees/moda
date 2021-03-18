@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I5VLGXG-es Ray-Ban Rj9052S Gafas de sol Rectangulares Unisex niños negro'
 sku: 'B00I5VLGXG-es'
-tags: [ 'gafas', ]
 actualPrice: 49.2 EUR
 currency: EUR
 price: 49.2

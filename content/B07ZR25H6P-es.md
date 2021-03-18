@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZR25H6P-es Moon and Back by Hanna Andersson Pijama de una Pieza....'
 sku: 'B07ZR25H6P-es'
-tags: [ 'pijama', ]
 actualPrice: 5.63 EUR
 currency: EUR
 price: 5.63

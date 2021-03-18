@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WW9FWD-es Esprit 998ee1j800 Sudadera Azul Navy 400 X-Small para Mujer'
 sku: 'B075WW9FWD-es'
-tags: [ 'sudadera', ]
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

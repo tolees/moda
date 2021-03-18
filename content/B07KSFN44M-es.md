@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KSFN44M-es Columbia Peak to Point Pantalón de Senderismo Poliéster...'
 sku: 'B07KSFN44M-es'
-tags: [ 'pantalón', ]
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

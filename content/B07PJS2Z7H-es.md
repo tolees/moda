@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJS2Z7H-es Tous New Essence Bolso de mano para Mujer Multicolor...'
 sku: 'B07PJS2Z7H-es'
-tags: [ 'bolso', ]
 actualPrice: 90.2 EUR
 currency: EUR
 price: 90.2

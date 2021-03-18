@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9VTW8Q-es Esprit 129eo1f016 Blusa Azul Navy 4 403 38 Talla del...'
 sku: 'B07Y9VTW8Q-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Prevención y seguridad','Protección ocular','Ropa','Ropa para mujer','blusa','esprit', ]
 actualPrice: 31.11 EUR
 currency: EUR
 price: 31.11

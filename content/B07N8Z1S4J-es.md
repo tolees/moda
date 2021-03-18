@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N8Z1S4J-es Tommy Hilfiger Heritage Crew Neck Graphic tee Camiseta...'
 sku: 'B07N8Z1S4J-es'
-tags: [ 'camiseta', ]
 actualPrice: 25.33 EUR
 currency: EUR
 price: 25.33

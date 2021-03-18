@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NS5RF-es GEOX U RENAN A NAVY Men s Trainers Low-Top Trainers size...'
 sku: 'B0825NS5RF-es'
-tags: [ 'geox', ]
 actualPrice: 75.64 EUR
 currency: EUR
 price: 75.64

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QPTQGJ7-es Tommy Hilfiger Boys Gingham Shirt L/s Blusa Rojo Apple Red...'
 sku: 'B07QPTQGJ7-es'
-tags: [ 'blusa', ]
 actualPrice: 26.17 EUR
 currency: EUR
 price: 26.17

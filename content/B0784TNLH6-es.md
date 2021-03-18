@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0784TNLH6-es Lacoste L1212 Poloshirt Camisa de polo Azul Ibiza XS para...'
 sku: 'B0784TNLH6-es'
-tags: [ 'camisa', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

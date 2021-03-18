@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X3SH6BN-es adidas Adilette Shower Chanclas para Hombre Negro Core...'
 sku: 'B06X3SH6BN-es'
-tags: [ 'chanclas', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFGF64G-es Levi s 2Pk Crewneck 1 Camiseta 2 Pack Slim Crew White/Med...'
 sku: 'B07LFGF64G-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.1 EUR
 currency: EUR
 price: 18.1

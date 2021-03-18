@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZD41P3-es Under Armour Fast Left Chest 2.0 SS Camiseta Deportiva De...'
 sku: 'B07CZD41P3-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

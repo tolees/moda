@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BZYSRF-es Only onlRAIN REG Skinny Jeans CRY6060 Noos Vaqueros Negro...'
 sku: 'B072BZYSRF-es'
-tags: [ 'vaqueros', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

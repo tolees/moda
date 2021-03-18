@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015SGHCHE-es Havaianas You Metallic Sandalias para Mujer Dorado Sand...'
 sku: 'B015SGHCHE-es'
-tags: [ 'sandalias', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

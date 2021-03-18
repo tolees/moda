@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824ZJ2FL-es AOTIAN Bolsos Bandolera de Mujer Nylon Bolso de Hombro...'
 sku: 'B0824ZJ2FL-es'
-tags: [ 'bolso', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

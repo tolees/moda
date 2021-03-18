@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJS7BT1-es Tous K Shock Rever Organizadore de bolso para Mujer...'
 sku: 'B07PJS7BT1-es'
-tags: [ 'bolso', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

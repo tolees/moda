@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B655RRQ-es Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera Azul...'
 sku: 'B07B655RRQ-es'
-tags: [ 'sudadera', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

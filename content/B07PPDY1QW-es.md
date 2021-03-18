@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPDY1QW-es Felly Arnés de Seguridad para Caminar Ajustable Arnés de...'
 sku: 'B07PPDY1QW-es'
-tags: [ 'chaleco', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

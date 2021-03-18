@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079C4JFZT-es Jack & Jones Jjepocket tee SS O-Neck Noos Camiseta Blanco...'
 sku: 'B079C4JFZT-es'
-tags: [ 'camiseta', ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

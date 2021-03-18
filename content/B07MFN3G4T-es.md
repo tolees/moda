@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MFN3G4T-es Geox D PHAOLAE A Ankle Boot Mujer Negro Black C9999 35 EU'
 sku: 'B07MFN3G4T-es'
-tags: [ 'geox', ]
 actualPrice: 56.32 EUR
 currency: EUR
 price: 56.32

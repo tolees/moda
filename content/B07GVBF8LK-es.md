@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GVBF8LK-es Aibrou Pijama Hombre Algodón Invierno Largo Pijamas...'
 sku: 'B07GVBF8LK-es'
-tags: [ 'camiseta','pijama', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

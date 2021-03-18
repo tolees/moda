@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00RX1J1PO-es Millet Friction Zapatos de Escalada Unisex Adulto Gris...'
 sku: 'B00RX1J1PO-es'
-tags: [ 'zapatos', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

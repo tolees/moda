@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0758J4GTB-es edc by Esprit 997cc1b817 Vaqueros Skinny Azul Blue Dark...'
 sku: 'B0758J4GTB-es'
-tags: [ 'vaqueros', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

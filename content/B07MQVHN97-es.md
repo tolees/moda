@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQVHN97-es Napapijri K TAKY H Sudadera Negro Black 041 10 años para...'
 sku: 'B07MQVHN97-es'
-tags: [ 'sudadera', ]
 actualPrice: 29.48 EUR
 currency: EUR
 price: 29.48

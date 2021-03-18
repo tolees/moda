@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFC8MVK-es FOSTAK Bolsos totes/Bolso de hombro para mujer Bolso de...'
 sku: 'B07MFC8MVK-es'
-tags: [ 'bolso', ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

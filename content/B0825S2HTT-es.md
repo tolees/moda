@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825S2HTT-es GEOX B KILWI BOY D NAVY Baby Boys Trainers Hi-Top Trainers...'
 sku: 'B0825S2HTT-es'
-tags: [ 'geox', ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078KNZC5G-es Urban Classics 2-Tone Tech Windrunner Chaqueta Multicolor...'
 sku: 'B078KNZC5G-es'
-tags: [ 'chaqueta', ]
 actualPrice: 22.83 EUR
 currency: EUR
 price: 22.83

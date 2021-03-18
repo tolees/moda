@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XPDJRHW-es Desigual Bols Lazarus Barrel - Bolso para mujer color...'
 sku: 'B07XPDJRHW-es'
-tags: [ 'bolso', ]
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

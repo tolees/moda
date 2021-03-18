@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QJ5RYKM-es MTNG Collection 58662 Botines para Mujer Negro Vintage...'
 sku: 'B07QJ5RYKM-es'
-tags: [ 'botines', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

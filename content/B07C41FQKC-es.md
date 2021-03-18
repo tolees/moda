@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C41FQKC-es Vero Moda Vmsilla LS Short Dress Blck Noos Ga Vestido...'
 sku: 'B07C41FQKC-es'
-tags: [ 'moda','vestido', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846F7YXF-es Pepe Jeans Bee Chaqueta Azul 591 4 para Niñas'
 sku: 'B0846F7YXF-es'
-tags: [ 'chaqueta', ]
 actualPrice: 41.8 EUR
 currency: EUR
 price: 41.8

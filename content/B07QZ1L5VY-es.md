@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZ1L5VY-es UBORSE Bolso de Fiesta Noche Moda para Mujer Embrague Hard...'
 sku: 'B07QZ1L5VY-es'
-tags: [ 'billetera','bolso','moda', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

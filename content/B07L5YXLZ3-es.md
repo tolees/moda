@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5YXLZ3-es Spyder Challenger Chaqueta esquí/Snow Niños Volcano 16 años'
 sku: 'B07L5YXLZ3-es'
-tags: [ 'chaqueta', ]
 actualPrice: 58.37 EUR
 currency: EUR
 price: 58.37

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3RDR7Y-es Geox Uomo Sandal Strada B Sandalias Punta Cerrada para...'
 sku: 'B07F3RDR7Y-es'
-tags: [ 'geox','sandalias', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

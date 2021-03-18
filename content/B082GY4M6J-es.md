@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082GY4M6J-es Oihxse Cristal Case - Compatible con Samsung Galaxy A8...'
 sku: 'B082GY4M6J-es'
-tags: [ 'moda', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

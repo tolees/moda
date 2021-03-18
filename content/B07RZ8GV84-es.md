@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ8GV84-es Levi s Vneck Camiseta Azul Annalise Stripe Cloud Dancer...'
 sku: 'B07RZ8GV84-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.36 EUR
 currency: EUR
 price: 11.36

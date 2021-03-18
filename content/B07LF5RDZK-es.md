@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LF5RDZK-es Levi s LS Original Hm tee Camiseta Medium Grey Heather L...'
 sku: 'B07LF5RDZK-es'
-tags: [ 'camiseta', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

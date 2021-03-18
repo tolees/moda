@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGRJNNS-es Raging Bull Guantes Gimnasio Hombre Mujer calleras para...'
 sku: 'B07SGRJNNS-es'
-tags: [ 'guantes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R1F4LGY-es TX - 18 Piezas Parches de superhéroe Parche bordado para...'
 sku: 'B08R1F4LGY-es'
-tags: [ 'zapatos', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

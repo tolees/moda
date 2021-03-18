@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD8P9DS-es adidas 18/19 Real Madrid Home with Lfp Badge Camiseta...'
 sku: 'B07DD8P9DS-es'
-tags: [ 'camiseta', ]
 actualPrice: 33 EUR
 currency: EUR
 price: 33

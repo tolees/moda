@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K5RA5IU-es Tommy Hilfiger 3p Trunk Bóxer Negro Black 990 Large Pack...'
 sku: 'B00K5RA5IU-es'
-tags: [ 'Bóxers ajustados para hombre','bóxer','tommy hilfiger', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

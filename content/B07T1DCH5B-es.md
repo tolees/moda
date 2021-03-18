@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1DCH5B-es Timberland Newport Bay Bumper Toe Oxford Zapatillas para...'
 sku: 'B07T1DCH5B-es'
-tags: [ 'timberland', ]
 actualPrice: 21.72 EUR
 currency: EUR
 price: 21.72

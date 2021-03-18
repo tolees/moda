@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0735BGL2Y-es Napapijri Rainforest Winter Chaqueta para Hombre Blanco...'
 sku: 'B0735BGL2Y-es'
-tags: [ 'chaqueta', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

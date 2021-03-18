@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SBVY1KV-es Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros...'
 sku: 'B07SBVY1KV-es'
-tags: [ 'vaqueros', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

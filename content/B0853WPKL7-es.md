@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0853WPKL7-es Zapatos Casual Niña Pablosky Negro 341519 30'
 sku: 'B0853WPKL7-es'
-tags: [ 'zapatos', ]
 actualPrice: 19.7 EUR
 currency: EUR
 price: 19.7

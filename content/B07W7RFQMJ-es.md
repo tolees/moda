@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7RFQMJ-es Lee Ivy Vaqueros Negro Washed Black Li 27W / 33L para Mujer'
 sku: 'B07W7RFQMJ-es'
-tags: [ 'vaqueros', ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

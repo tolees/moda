@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M6C5UE5-es Simple Joys by Carter s pantalón para niñas pequeñas...'
 sku: 'B01M6C5UE5-es'
-tags: [ 'pantalón', ]
 actualPrice: 7.34 EUR
 currency: EUR
 price: 7.34

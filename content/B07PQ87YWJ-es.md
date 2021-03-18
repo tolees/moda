@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQ87YWJ-es Kipling Gleam S Bolso de Tocador para Mujer Azul Stone...'
 sku: 'B07PQ87YWJ-es'
-tags: [ 'bolso', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

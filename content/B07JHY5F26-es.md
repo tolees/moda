@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHY5F26-es Amazon Essentials - Camisa de lino a rayas de manga corta...'
 sku: 'B07JHY5F26-es'
-tags: [ 'camisa', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

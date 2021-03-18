@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E1WJC8I-es Mercedes-Benz Sonnenbrille M3019 Gafas de sol Marrón Braun...'
 sku: 'B01E1WJC8I-es'
-tags: [ 'gafas', ]
 actualPrice: 36.75 EUR
 currency: EUR
 price: 36.75

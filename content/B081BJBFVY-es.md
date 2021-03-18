@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081BJBFVY-es Columbia Flashback Chaqueta cortavientos Hombre Gris/Negro...'
 sku: 'B081BJBFVY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

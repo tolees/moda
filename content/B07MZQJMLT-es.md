@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQJMLT-es Pepe Jeans Neana Sudadera Sailor 580 3-4 años Talla del...'
 sku: 'B07MZQJMLT-es'
-tags: [ 'sudadera', ]
 actualPrice: 18.94 EUR
 currency: EUR
 price: 18.94

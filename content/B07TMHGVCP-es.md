@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMHGVCP-es Levi s 510 Vaqueros Skinny Azul Moose Tracks Cool 1035...'
 sku: 'B07TMHGVCP-es'
-tags: [ 'vaqueros', ]
 actualPrice: 35.83 EUR
 currency: EUR
 price: 35.83

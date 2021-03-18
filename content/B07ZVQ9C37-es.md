@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQ9C37-es Levi s Vneck Camiseta Annalise Stripe Sepia Rose S para Mujer'
 sku: 'B07ZVQ9C37-es'
-tags: [ 'camiseta', ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

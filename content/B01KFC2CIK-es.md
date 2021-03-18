@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KFC2CIK-es Bolso de Embrague Monedero Cartera Bolso de Lentejuelas...'
 sku: 'B01KFC2CIK-es'
-tags: [ 'bolso','monedero', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

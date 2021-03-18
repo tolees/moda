@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GYNSB47-es edc by Esprit 999cc1k802 Camisa Manga Larga Blanco White...'
 sku: 'B07GYNSB47-es'
-tags: [ 'camisa', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

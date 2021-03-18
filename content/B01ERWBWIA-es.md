@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ERWBWIA-es Joma Campus II Camiseta de Juego Manga Larga Hombre...'
 sku: 'B01ERWBWIA-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

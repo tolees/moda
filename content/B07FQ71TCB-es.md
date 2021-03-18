@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQ71TCB-es JACK & JONES Jjiglenn Jjoriginal Jos 102 STS Vaqueros Slim...'
 sku: 'B07FQ71TCB-es'
-tags: [ 'vaqueros', ]
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

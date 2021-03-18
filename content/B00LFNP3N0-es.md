@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LFNP3N0-es Marvel Capitan America - Camiseta para Hombre - Talla L'
 sku: 'B00LFNP3N0-es'
-tags: [ 'camiseta', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0747NW6ZR-es Timberland Courmayeur Valley Zapatillas Chukka para Mujer...'
 sku: 'B0747NW6ZR-es'
-tags: [ 'timberland', ]
 actualPrice: 108.86 EUR
 currency: EUR
 price: 108.86

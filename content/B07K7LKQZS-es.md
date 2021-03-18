@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K7LKQZS-es adidas TIRO19 TR TOPY Sudadera Unisex niños Bold Blue/Dark...'
 sku: 'B07K7LKQZS-es'
-tags: [ 'sudadera', ]
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

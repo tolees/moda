@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NZZ5N-es Geox D Elidia A Mocasines Mujer Azul Marino 40 EU'
 sku: 'B0825NZZ5N-es'
-tags: [ 'geox', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

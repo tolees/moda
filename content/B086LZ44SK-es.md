@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086LZ44SK-es MTNG Elba BOLSO para Mujer Pali Negro/Metallic Plomo mediano'
 sku: 'B086LZ44SK-es'
-tags: [ 'bolso', ]
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

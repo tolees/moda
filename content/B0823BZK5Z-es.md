@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823BZK5Z-es Jack & Jones Sweatshirt Sudadera Detalle: Nueva White...'
 sku: 'B0823BZK5Z-es'
-tags: [ 'sudadera', ]
 actualPrice: 11.57 EUR
 currency: EUR
 price: 11.57

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083R7FBFN-es MINCHEDA Collar Corazón Colgante de Cristal para Mujer...'
 sku: 'B083R7FBFN-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Chaquetas para mujer','Collares  para mujer','Deportes y aire libre','Fútbol','Joyería','Joyería para mujer','Polos para hombre','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa para hombre','Ropa para mujer','Ropa para niño','Sandalias de vestir para hombre','Vaqueros para hombre','Vaqueros para mujer','Zapatos','Zapatos para hombre','Zapatos y complementos','collar','mincheda', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

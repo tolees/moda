@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NH1M42Y-es El Naturalista Aqua Botines para Mujer Marrón Brown Brown...'
 sku: 'B07NH1M42Y-es'
-tags: [ 'botines', ]
 actualPrice: 54.74 EUR
 currency: EUR
 price: 54.74

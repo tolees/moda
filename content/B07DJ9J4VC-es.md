@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ9J4VC-es Geox Uomo Snake K Zapatillas para Hombre Grey Grey C1006...'
 sku: 'B07DJ9J4VC-es'
-tags: [ 'geox', ]
 actualPrice: 36.52 EUR
 currency: EUR
 price: 36.52

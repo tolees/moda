@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBQBZQM-es Marca Amazon - MERAKI Falda de Algodón Midi Mujer Beige 46...'
 sku: 'B07MBQBZQM-es'
-tags: [ 'falda','meraki', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

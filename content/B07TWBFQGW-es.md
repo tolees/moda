@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWBFQGW-es Levi s The tee Camiseta Rojo BRW T2 Tomato 0792 Medium...'
 sku: 'B07TWBFQGW-es'
-tags: [ 'camiseta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

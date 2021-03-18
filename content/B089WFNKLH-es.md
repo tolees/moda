@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WFNKLH-es HowQeen - Máquina de karaoke inalámbrica con Bluetooth...'
 sku: 'B089WFNKLH-es'
-tags: [ 'bolso', ]
 actualPrice: 23.44 EUR
 currency: EUR
 price: 23.44

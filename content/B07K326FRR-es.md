@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K326FRR-es Timberland Waterville 6 Inch Basic Waterproof Botas para...'
 sku: 'B07K326FRR-es'
-tags: [ 'timberland', ]
 actualPrice: 57.26 EUR
 currency: EUR
 price: 57.26

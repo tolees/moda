@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W61Z8WB-es Springfield Popelin Cuadros Vichy-C/21 Camisa Casual Verde...'
 sku: 'B07W61Z8WB-es'
-tags: [ 'camisa', ]
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

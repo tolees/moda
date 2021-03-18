@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZPG42G-es Levi s The Perfect Tee Camiseta Mujer Blanco New Red Box...'
 sku: 'B07CZPG42G-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

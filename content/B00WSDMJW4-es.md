@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WSDMJW4-es Morgan 152-caram.n Camisa Blanco Blanc 40 Talla del...'
 sku: 'B00WSDMJW4-es'
-tags: [ 'camisa', ]
 actualPrice: 17.35 EUR
 currency: EUR
 price: 17.35

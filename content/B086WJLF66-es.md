@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WJLF66-es Sandalias Mujer Planas Zapatillas Verano Chanclas con...'
 sku: 'B086WJLF66-es'
-tags: [ 'chanclas','sandalias','zapatos', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

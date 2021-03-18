@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZM9WC8-es Pepe Jeans Carrie Chaqueta Mousse 808 X-Small para Mujer'
 sku: 'B07MZM9WC8-es'
-tags: [ 'chaqueta', ]
 actualPrice: 59.16 EUR
 currency: EUR
 price: 59.16

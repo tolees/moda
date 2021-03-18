@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SSYJ8T-es Puma 655921 05 Camiseta de Manga Larga Infantil Negro Puma...'
 sku: 'B077SSYJ8T-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

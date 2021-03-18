@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF8RVYD-es Levi s Coit Down Puffer Chaqueta Marrón Cabernet 0000...'
 sku: 'B07LF8RVYD-es'
-tags: [ 'chaqueta', ]
 actualPrice: 50.45 EUR
 currency: EUR
 price: 50.45

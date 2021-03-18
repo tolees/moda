@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792KWJYC-es Geox J RIDDOCK Boy G School Uniform Shoe Niños Negro Black...'
 sku: 'B0792KWJYC-es'
-tags: [ 'geox', ]
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GZYL8B-es Tuc Tuc PANTALÓN Pana Detalles EN Bolsillos Traseros NIÑA...'
 sku: 'B085GZYL8B-es'
-tags: [ 'pantalón', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

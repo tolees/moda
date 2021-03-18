@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVVCWGG-es Lee Scarlett High Vaqueros Azul Mid Jelt GT 25W/31L para...'
 sku: 'B07TVVCWGG-es'
-tags: [ 'vaqueros', ]
 actualPrice: 29.55 EUR
 currency: EUR
 price: 29.55

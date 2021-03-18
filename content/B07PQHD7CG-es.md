@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PQHD7CG-es GORE WEAR C5 Thermo Guantes GORE-TEX 7 Amarillo neón/Negro'
 sku: 'B07PQHD7CG-es'
-tags: [ 'guantes', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

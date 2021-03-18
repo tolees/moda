@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HSQ1XF-es adidas CORE18 SW Top Sudadera Hombre Gris Gris/Negro M'
 sku: 'B076HSQ1XF-es'
-tags: [ 'sudadera', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

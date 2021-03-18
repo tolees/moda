@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DV4N1DB-es Columbia WAYFINDER Zapatos Multideporte para Hombre Negro...'
 sku: 'B07DV4N1DB-es'
-tags: [ 'zapatos', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLVSM2D-es Bolso Redondo de la Paja Mujeres Funda Grandes Flores...'
 sku: 'B07WLVSM2D-es'
-tags: [ 'bolso', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

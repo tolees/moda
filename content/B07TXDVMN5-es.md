@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXDVMN5-es Levi s 502 Taper Vaqueros Tapered Negro Adjustable Black...'
 sku: 'B07TXDVMN5-es'
-tags: [ 'vaqueros', ]
 actualPrice: 55.22 EUR
 currency: EUR
 price: 55.22

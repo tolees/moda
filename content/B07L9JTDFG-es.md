@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9JTDFG-es Under Armour UNDKU Heatgear Armour Pantalón Corto Mujer...'
 sku: 'B07L9JTDFG-es'
-tags: [ 'pantalón', ]
 actualPrice: 21.67 EUR
 currency: EUR
 price: 21.67

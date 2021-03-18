@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4STNBL-es Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta...'
 sku: 'B01N4STNBL-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

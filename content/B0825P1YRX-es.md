@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825P1YRX-es GEOX U DAMIANO D NAVY Men s Trainers Low-Top Trainers size...'
 sku: 'B0825P1YRX-es'
-tags: [ 'geox', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

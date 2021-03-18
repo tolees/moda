@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OLJL7JE-es Eagle Industry - Gafas de protección laboral con lentes de...'
 sku: 'B00OLJL7JE-es'
-tags: [ 'gafas', ]
 actualPrice: 2.11 EUR
 currency: EUR
 price: 2.11

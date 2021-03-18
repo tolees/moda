@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K6QWQ4X-es adidas TIRO19 TR JSY Camiseta de Manga Corta Hombre Power...'
 sku: 'B07K6QWQ4X-es'
-tags: [ 'camiseta', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

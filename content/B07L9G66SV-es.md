@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9G66SV-es Napapijri Sonthe Camiseta Azul Skydiver Blue Bc5 XX-Large...'
 sku: 'B07L9G66SV-es'
-tags: [ 'camiseta', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

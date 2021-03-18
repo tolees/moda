@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082LBM4ZS-es Zoggs Predator Flex Gafas de natación Unisex Adulto...'
 sku: 'B082LBM4ZS-es'
-tags: [ 'gafas', ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

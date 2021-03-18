@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXF9MTW-es Levi s The tee Camiseta de Manga Corta Blanco Floral...'
 sku: 'B07TXF9MTW-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JC5WJGZ-es marcello Mochilas Escolares Bolso de Escuela Adolescente...'
 sku: 'B08JC5WJGZ-es'
-tags: [ 'bolso', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

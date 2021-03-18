@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H6NPDS7-es Lee Scarlett High Zip Vaqueros Skinny Azul Blue Aged Yz...'
 sku: 'B07H6NPDS7-es'
-tags: [ 'vaqueros', ]
 actualPrice: 35.26 EUR
 currency: EUR
 price: 35.26

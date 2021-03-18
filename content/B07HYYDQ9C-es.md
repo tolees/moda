@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HYYDQ9C-es HAWKERS · CLASSIC · Burgundy Pink · Dark · Gafas de sol...'
 sku: 'B07HYYDQ9C-es'
-tags: [ 'gafas', ]
 actualPrice: 20.28 EUR
 currency: EUR
 price: 20.28

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VCCHW66-es Napapijri Decatur 2 Camisa Manga Larga Marrón Kangaroo...'
 sku: 'B07VCCHW66-es'
-tags: [ 'camisa', ]
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

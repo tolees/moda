@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085JRYBXY-es Skevic Gafas de Sol Hombre Mujer Polarizadas TR90 - Gafas...'
 sku: 'B085JRYBXY-es'
-tags: [ 'gafas', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

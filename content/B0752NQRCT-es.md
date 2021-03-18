@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0752NQRCT-es G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros Dark Aged...'
 sku: 'B0752NQRCT-es'
-tags: [ 'vaqueros', ]
 actualPrice: 23.87 EUR
 currency: EUR
 price: 23.87

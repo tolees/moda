@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005DXDUYM-es Geox U Federico V Zapatos de Cordones Derby Hombre Negro...'
 sku: 'B005DXDUYM-es'
-tags: [ 'geox','zapatos', ]
 actualPrice: 53.6 EUR
 currency: EUR
 price: 53.6

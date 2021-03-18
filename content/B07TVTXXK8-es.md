@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVTXXK8-es Women s Secret British Multilicense MB PE Rain PJ...'
 sku: 'B07TVTXXK8-es'
-tags: [ 'pijama', ]
 actualPrice: 20.76 EUR
 currency: EUR
 price: 20.76

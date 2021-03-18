@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0085SFXB0-es Jack & Jones Jones - Camiseta de manga corta con cuello...'
 sku: 'B0085SFXB0-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHTP0KY-es Under Armour UA Heatgear Armour Sleeveless Camiseta Sin...'
 sku: 'B00KHTP0KY-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

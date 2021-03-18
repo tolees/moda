@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2Z8CYZ-es Timberland Euro Sprint Hiker Waterproof Zapatillas Chukka...'
 sku: 'B07K2Z8CYZ-es'
-tags: [ 'timberland', ]
 actualPrice: 115.5 EUR
 currency: EUR
 price: 115.5

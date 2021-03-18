@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017WHA4PY-es Columbia Flashback Chaqueta cortavientos Hombre Negro Black M'
 sku: 'B017WHA4PY-es'
-tags: [ 'chaqueta', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

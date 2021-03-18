@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SM4DXMC-es Jessgirl - Juego de Toallas de baño de Lujo de algodón de...'
 sku: 'B08SM4DXMC-es'
-tags: [ 'gafas', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

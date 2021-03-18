@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M05FJZ2-es Antony Morato - Abrigo - para Hombre Azul Marino L'
 sku: 'B01M05FJZ2-es'
-tags: [ 'abrigo', ]
 actualPrice: 61.5 EUR
 currency: EUR
 price: 61.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QD5YVD1-es YIHANK - Blusa - para niña Negro Black3 XXXL'
 sku: 'B07QD5YVD1-es'
-tags: [ 'blusa', ]
 actualPrice: 4.44 EUR
 currency: EUR
 price: 4.44

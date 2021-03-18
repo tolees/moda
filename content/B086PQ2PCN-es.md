@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086PQ2PCN-es Relaxdays Caja Gafas con 8 Compartimentos Organizador 1 Ud...'
 sku: 'B086PQ2PCN-es'
-tags: [ 'gafas', ]
 actualPrice: 22.84 EUR
 currency: EUR
 price: 22.84

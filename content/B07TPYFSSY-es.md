@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TPYFSSY-es Clarks Stanford Limit Zapatos de Cordones Derby Marrón Tan...'
 sku: 'B07TPYFSSY-es'
-tags: [ 'zapatos', ]
 actualPrice: 39.47 EUR
 currency: EUR
 price: 39.47

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RC8CKNT-es Columbia Cascade Ridge Chaqueta Softshell Mujer Olive...'
 sku: 'B07RC8CKNT-es'
-tags: [ 'chaqueta', ]
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

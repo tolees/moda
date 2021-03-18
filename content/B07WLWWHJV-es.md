@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLWWHJV-es Springfield Linen Short Sleeve Franq-C/51 Camisa Casual...'
 sku: 'B07WLWWHJV-es'
-tags: [ 'camisa', ]
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

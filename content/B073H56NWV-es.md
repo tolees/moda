@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073H56NWV-es Clarks Batcombe Hall Derby - Zapatos de Cordones para...'
 sku: 'B073H56NWV-es'
-tags: [ 'zapatos', ]
 actualPrice: 68.4 EUR
 currency: EUR
 price: 68.4

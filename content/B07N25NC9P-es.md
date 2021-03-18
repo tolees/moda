@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N25NC9P-es Seidensticker X-Slim Fit Langarm Mit Business Kent-Kragen...'
 sku: 'B07N25NC9P-es'
-tags: [ 'camisa', ]
 actualPrice: 18.94 EUR
 currency: EUR
 price: 18.94

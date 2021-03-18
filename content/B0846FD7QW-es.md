@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846FD7QW-es Pepe Jeans Laia Vestido Multicolor 0AA 12 para Niñas'
 sku: 'B0846FD7QW-es'
-tags: [ 'vestido', ]
 actualPrice: 25.92 EUR
 currency: EUR
 price: 25.92

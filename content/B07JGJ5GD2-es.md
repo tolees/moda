@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGJ5GD2-es Pepe Jeans Duff Chest Logo T Camiseta Blanco Optic White...'
 sku: 'B07JGJ5GD2-es'
-tags: [ 'camiseta', ]
 actualPrice: 24.36 EUR
 currency: EUR
 price: 24.36

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TYHLKV3-es Levi s Orig Hm Vneck Camiseta White White 0000 X-Small...'
 sku: 'B07TYHLKV3-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

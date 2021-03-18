@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLFMNMR-es Levi s The Original Camiseta Verde Hm Patch OG Hm tee...'
 sku: 'B07TLFMNMR-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

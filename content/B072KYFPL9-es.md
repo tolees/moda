@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KYFPL9-es SELECTED HOMME Shhcollect Shirt Ls R Noos Camisa Hombre...'
 sku: 'B072KYFPL9-es'
-tags: [ 'camisa', ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

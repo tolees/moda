@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PK5HJY1-es HAWKERS Gafas de sol Negro/Azul One Size Womens'
 sku: 'B07PK5HJY1-es'
-tags: [ 'gafas', ]
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

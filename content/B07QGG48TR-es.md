@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGG48TR-es PUMA Collective Woven Jacket Chaqueta de Entrenamiento...'
 sku: 'B07QGG48TR-es'
-tags: [ 'chaqueta', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

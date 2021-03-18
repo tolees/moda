@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009AJFC5U-es Ray-Ban Justin RB4165 - Gafas de sol Unisex Negro Black...'
 sku: 'B009AJFC5U-es'
-tags: [ 'gafas', ]
 actualPrice: 94.41 EUR
 currency: EUR
 price: 94.41

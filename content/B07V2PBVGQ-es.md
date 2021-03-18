@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V2PBVGQ-es Geox Zapatillas Deporte J024nb 01002 J Gisli Cf4n4 Navy 30...'
 sku: 'B07V2PBVGQ-es'
-tags: [ 'geox', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

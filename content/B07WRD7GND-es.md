@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRD7GND-es Zapatos de Seguridad Hombres LM-30 Zapatillas de Trabajo...'
 sku: 'B07WRD7GND-es'
-tags: [ 'zapatos', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

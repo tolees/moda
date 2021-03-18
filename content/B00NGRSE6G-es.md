@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NGRSE6G-es Dainese D-Impact 13 D-Dry Guantes de Esquí Hombre Negro /...'
 sku: 'B00NGRSE6G-es'
-tags: [ 'guantes', ]
 actualPrice: 84.79 EUR
 currency: EUR
 price: 84.79

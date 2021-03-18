@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH2ZCMC-es G-STAR RAW Graphic 13 Sudadera Gris Lt Grey Htr A302...'
 sku: 'B07RH2ZCMC-es'
-tags: [ 'sudadera', ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

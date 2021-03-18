@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VTNF8LR-es Esprit 999EE1F808s Blusa Azul Light Blue 440 34 Talla del...'
 sku: 'B07VTNF8LR-es'
-tags: [ 'blusa', ]
 actualPrice: 9.28 EUR
 currency: EUR
 price: 9.28

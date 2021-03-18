@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WW8SW5J-es POC Do Blade Gafas Adultos Unisex Tortoise Brown VSI'
 sku: 'B07WW8SW5J-es'
-tags: [ 'gafas', ]
 actualPrice: 92.92 EUR
 currency: EUR
 price: 92.92

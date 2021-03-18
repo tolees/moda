@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F2Q48JR-es Helly Hansen Moss Outdoor Impermeable Chaqueta De Invierno...'
 sku: 'B07F2Q48JR-es'
-tags: [ 'chaqueta', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

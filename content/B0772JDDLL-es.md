@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0772JDDLL-es MERAKI Pantalón Cortos Chinos Hombre Gris Oscuro M'
 sku: 'B0772JDDLL-es'
-tags: [ 'meraki','pantalón', ]
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

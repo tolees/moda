@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TK18LYC-es Disney Pijama para Mujer Toy Story Multicolor Size Small'
 sku: 'B07TK18LYC-es'
-tags: [ 'pijama', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

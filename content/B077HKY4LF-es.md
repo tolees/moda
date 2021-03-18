@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HKY4LF-es find. Vestido de Flores y Gasa Mujer Multicolor...'
 sku: 'B077HKY4LF-es'
-tags: [ 'vestido', ]
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

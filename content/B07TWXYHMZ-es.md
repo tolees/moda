@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWXYHMZ-es Lee Logo tee Camiseta Negro Small para Mujer'
 sku: 'B07TWXYHMZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

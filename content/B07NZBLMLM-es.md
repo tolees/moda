@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZBLMLM-es Mujer Vestido Años 50 Mangas 3/4 con Volantes para Cóctel...'
 sku: 'B07NZBLMLM-es'
-tags: [ 'vestido', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

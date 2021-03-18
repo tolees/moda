@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DY2TFSE-es Geox UOMO Snake L Zapatillas Hombre Beige Beige/Dk Orange...'
 sku: 'B00DY2TFSE-es'
-tags: [ 'Zapatillas casual para hombre','geox', ]
 actualPrice: 63.8 EUR
 currency: EUR
 price: 63.8

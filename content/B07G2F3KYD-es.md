@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2F3KYD-es AURIQUE Floral Print Legging Mallas de Entrenamiento Negro...'
 sku: 'B07G2F3KYD-es'
-tags: [ 'aurique', ]
 actualPrice: 14.6 EUR
 currency: EUR
 price: 14.6

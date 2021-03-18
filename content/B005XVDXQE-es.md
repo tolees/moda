@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005XVDXQE-es NIKE M NK Dry Top LS Slim Camiseta de Manga Larga Hombre...'
 sku: 'B005XVDXQE-es'
-tags: [ 'camiseta', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

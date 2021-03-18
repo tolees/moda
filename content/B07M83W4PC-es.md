@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M83W4PC-es Napapijri Rainforest Winter 1 Chaqueta Amarillo Yellow...'
 sku: 'B07M83W4PC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 66.8 EUR
 currency: EUR
 price: 66.8

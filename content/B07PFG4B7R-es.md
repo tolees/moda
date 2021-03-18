@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PFG4B7R-es Tommy Hilfiger Boys Basic Cn Knit L/s Camiseta Negro...'
 sku: 'B07PFG4B7R-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

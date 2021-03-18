@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082YD3MDJ-es GORE WEAR Chaqueta térmica de ciclismo para hombre C3...'
 sku: 'B082YD3MDJ-es'
-tags: [ 'chaqueta', ]
 actualPrice: 107.49 EUR
 currency: EUR
 price: 107.49

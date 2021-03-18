@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMXFCBN-es Clarks Step Cali Cove Sandalias de Talón Abierto para...'
 sku: 'B07TMXFCBN-es'
-tags: [ 'sandalias', ]
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

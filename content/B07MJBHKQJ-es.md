@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJBHKQJ-es P Prettyia Moda Zapatillas de Tobillo de Alto Tacón Mini...'
 sku: 'B07MJBHKQJ-es'
-tags: [ 'moda', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

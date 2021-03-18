@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P9V48GV-es Annote - 2 x 1 GAMUZA MICROFIBRA ANTI-VAHO GAFAS x 2...'
 sku: 'B08P9V48GV-es'
-tags: [ 'gafas', ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

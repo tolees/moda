@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811L6LCX-es Vicloon Princesa Vestir Accesorios 8 Pcs Amarillo Elsa...'
 sku: 'B0811L6LCX-es'
-tags: [ 'collar','guantes', ]
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

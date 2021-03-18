@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CXR85GZ-es Levi s Graphic Camiseta 84 Sportswear Logo White White XX-...'
 sku: 'B07CXR85GZ-es'
-tags: [ 'camiseta', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ2FRG5-es Clarks - Botines de Cuero Hombre Color Negro Talla 39.5 EU'
 sku: 'B07MQ2FRG5-es'
-tags: [ 'botines', ]
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

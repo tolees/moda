@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C32SXND-es 3W GRT Ropa Deportiva Mujer Mallas de Deporte de Mujer...'
 sku: 'B08C32SXND-es'
-tags: [ 'leggins','pantalón', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

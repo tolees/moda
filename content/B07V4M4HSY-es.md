@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4M4HSY-es Love Moschino Jc4200pp0a Bolso tipo tote para Mujer Rosa...'
 sku: 'B07V4M4HSY-es'
-tags: [ 'bolso', ]
 actualPrice: 73.3 EUR
 currency: EUR
 price: 73.3

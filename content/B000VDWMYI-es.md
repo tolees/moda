@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VDWMYI-es Bolle - Gafas de seguridad Bollé Safety SILPSI "Silium"...'
 sku: 'B000VDWMYI-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Bricolaje y herramientas','Carros para tractores cortacéspedes','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Prevención y seguridad','Protección ocular','bolle','gafas', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

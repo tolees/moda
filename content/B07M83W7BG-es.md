@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M83W7BG-es Napapijri DAMAVAND Crew Jersey Rojo Red Scarlet R01 L para...'
 sku: 'B07M83W7BG-es'
-tags: [ 'jersey', ]
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

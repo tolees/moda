@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVQS69N-es Esprit 119ee2k006 Camisa Manga Larga Blanco Off White 110...'
 sku: 'B07XVQS69N-es'
-tags: [ 'camisa', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

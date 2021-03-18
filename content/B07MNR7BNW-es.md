@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MNR7BNW-es NEWHEY Bolso Bandolera Hombre Mensajero Bolsa Resistentes...'
 sku: 'B07MNR7BNW-es'
-tags: [ 'bolso', ]
 actualPrice: 32.18 EUR
 currency: EUR
 price: 32.18

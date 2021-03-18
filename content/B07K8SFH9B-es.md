@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8SFH9B-es Levi s 512 Slim Taper Fit Vaqueros Tapered Azul Abu ADV...'
 sku: 'B07K8SFH9B-es'
-tags: [ 'vaqueros', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

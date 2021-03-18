@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RWW5P9-es Columbia Carson Pass II Chaqueta impermeable Mujer Azul...'
 sku: 'B075RWW5P9-es'
-tags: [ 'chaqueta', ]
 actualPrice: 83.87 EUR
 currency: EUR
 price: 83.87

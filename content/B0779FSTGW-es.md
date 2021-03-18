@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779FSTGW-es Clarks Originals Wallabee Zapatos de Cordones Derby para...'
 sku: 'B0779FSTGW-es'
-tags: [ 'zapatos', ]
 actualPrice: 76.07 EUR
 currency: EUR
 price: 76.07

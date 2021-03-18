@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082JF8PQC-es REPLAY M3142 .000.22880 Camiseta 1 Blanco XL para Hombre'
 sku: 'B082JF8PQC-es'
-tags: [ 'camiseta', ]
 actualPrice: 16.64 EUR
 currency: EUR
 price: 16.64

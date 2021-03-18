@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MQBVNKP-es YAOJIN - 18 piezas Parches ropa Termoadhesivos DIY Coser o...'
 sku: 'B08MQBVNKP-es'
-tags: [ 'camiseta', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

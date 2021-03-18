@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079WHPR1D-es PUMA Liga Jersey Camiseta Hombre Peacoat/White 3XL'
 sku: 'B079WHPR1D-es'
-tags: [ 'camiseta','jersey', ]
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

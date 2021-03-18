@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VT2V4QW-es Tommy Hilfiger Cory Parka Beige Beige Aeg 38 Talla del...'
 sku: 'B07VT2V4QW-es'
-tags: [ 'parka', ]
 actualPrice: 145.16 EUR
 currency: EUR
 price: 145.16

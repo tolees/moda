@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC3V5WN-es Tommy Hilfiger Classic Conjuntos de Bikini Rosa Pink GLO L...'
 sku: 'B07WC3V5WN-es'
-tags: [ 'bikini', ]
 actualPrice: 15.56 EUR
 currency: EUR
 price: 15.56

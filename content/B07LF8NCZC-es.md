@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LF8NCZC-es Levi s 2Pk Crewneck 1 Camiseta 2 Pack Slim Crew Dress...'
 sku: 'B07LF8NCZC-es'
-tags: [ 'camiseta', ]
 actualPrice: 25.35 EUR
 currency: EUR
 price: 25.35

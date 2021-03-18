@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG14RT5-es Geox U Terence C Botas Clasicas para Hombre Marrón Cognac...'
 sku: 'B07LG14RT5-es'
-tags: [ 'geox', ]
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

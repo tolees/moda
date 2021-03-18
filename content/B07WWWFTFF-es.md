@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WWWFTFF-es Dickies Pine Lake Camiseta Azul Deep Blue El0 X-Large para...'
 sku: 'B07WWWFTFF-es'
-tags: [ 'camiseta', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

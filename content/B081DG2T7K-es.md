@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DG2T7K-es HALOVIE Mochila Antirrobo para Mujer Impermeable Bolsos...'
 sku: 'B081DG2T7K-es'
-tags: [ 'moda','monedero', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQK5SB5-es SINOES Hombre 91-219 720 Caña Baja Gimnasia Ligero...'
 sku: 'B07PQK5SB5-es'
-tags: [ 'zapatos', ]
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

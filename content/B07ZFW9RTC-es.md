@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZFW9RTC-es Tommy Hilfiger Tjw Basic Hooded Down Jacket Chaqueta Negro...'
 sku: 'B07ZFW9RTC-es'
-tags: [ 'chaqueta', ]
 actualPrice: 146.95 EUR
 currency: EUR
 price: 146.95

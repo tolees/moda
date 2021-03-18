@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WWPEJNU-es JACK & JONES SENSE TRUNKS 3-PACK Bóxer Negro Medium Pack...'
 sku: 'B00WWPEJNU-es'
-tags: [ 'bóxer', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

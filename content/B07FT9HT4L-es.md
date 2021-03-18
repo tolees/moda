@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FT9HT4L-es Lee SS Western Camisa Marfil Blueprint Lh XX-Large para...'
 sku: 'B07FT9HT4L-es'
-tags: [ 'camisa', ]
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

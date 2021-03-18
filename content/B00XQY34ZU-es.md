@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XQY34ZU-es Pepe Jeans Spike Vaqueros Azul Fonce Denim H05 W32/L32...'
 sku: 'B00XQY34ZU-es'
-tags: [ 'vaqueros', ]
 actualPrice: 53 EUR
 currency: EUR
 price: 53

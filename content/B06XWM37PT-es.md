@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XWM37PT-es Amazon Essentials Regular-Fit Long-Sleeve Gingham Shirt...'
 sku: 'B06XWM37PT-es'
-tags: [ 'camisa', ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

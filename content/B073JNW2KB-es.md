@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JNW2KB-es find. Camiseta Manga Larga Hombre Marfil Off White 50...'
 sku: 'B073JNW2KB-es'
-tags: [ 'camiseta', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

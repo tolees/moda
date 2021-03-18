@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086ZCSBGT-es Levi s Kids Lvg Ss High Rise Tee Shirt Camiseta Niñas...'
 sku: 'B086ZCSBGT-es'
-tags: [ 'camiseta', ]
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MK6J5NT-es KROSER Mochila para Portátil de Viaje 17.3" XL Mochila...'
 sku: 'B07MK6J5NT-es'
-tags: [ 'bolso', ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0752NJ4ZV-es G-STAR RAW 3301 Slim Vaqueros Rinsed 8970-082 26W / 30L...'
 sku: 'B0752NJ4ZV-es'
-tags: [ 'vaqueros', ]
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

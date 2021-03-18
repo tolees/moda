@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQMSLVX-es Clarks Un Trail Form Zapatos de Cordones Derby Negro Black...'
 sku: 'B07FQMSLVX-es'
-tags: [ 'zapatos', ]
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

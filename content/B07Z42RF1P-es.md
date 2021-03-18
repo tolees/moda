@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z42RF1P-es CARE OF by PUMA Slide - Sandalias deportivas para Hombre...'
 sku: 'B07Z42RF1P-es'
-tags: [ 'sandalias', ]
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

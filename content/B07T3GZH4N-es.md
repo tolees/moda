@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T3GZH4N-es Timberland Bradstreet Plain Toe Sensorflex Zapatos de...'
 sku: 'B07T3GZH4N-es'
-tags: [ 'timberland','zapatos', ]
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

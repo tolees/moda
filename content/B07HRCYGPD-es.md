@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRCYGPD-es Marca Amazon - find. Short Sleeve Flannel Shirt Hombre...'
 sku: 'B07HRCYGPD-es'
-tags: [ '-','find.', ]
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46

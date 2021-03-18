@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PB6PZ8Y-es Hanbee Gamuza Microfibra Anti-Vaho 4 Piezas Premium paño...'
 sku: 'B08PB6PZ8Y-es'
-tags: [ 'gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

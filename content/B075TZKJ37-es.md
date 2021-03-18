@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075TZKJ37-es VITIKE Hombre Zapatos de Entrenamiento de fútbol Botas de...'
 sku: 'B075TZKJ37-es'
-tags: [ 'zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

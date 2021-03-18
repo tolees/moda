@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQBKP3H-es Tool Tour 2019 - Spectre Spike Camiseta Gris Marengo S'
 sku: 'B07XQBKP3H-es'
-tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

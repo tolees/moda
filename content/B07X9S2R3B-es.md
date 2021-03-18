@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X9S2R3B-es Maquinilla de afeitar eléctrica para mujer afeitadora...'
 sku: 'B07X9S2R3B-es'
-tags: [ 'bikini', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

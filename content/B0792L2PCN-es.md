@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792L2PCN-es Geox J New Savage Boy A Zapatillas para Niños Azul...'
 sku: 'B0792L2PCN-es'
-tags: [ 'geox', ]
 actualPrice: 33.4 EUR
 currency: EUR
 price: 33.4

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L4YWPY2-es Marco Tozzi 2-2-25107-33 Botines para Mujer Rojo Bordeaux...'
 sku: 'B07L4YWPY2-es'
-tags: [ 'botines', ]
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33

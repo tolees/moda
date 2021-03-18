@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYK41RD-es YZHEN Hombre Traje de Chaqueta a Cuadros Doble y Pantalones'
 sku: 'B07TYK41RD-es'
-tags: [ 'chaqueta', ]
 actualPrice: 78.68 EUR
 currency: EUR
 price: 78.68
