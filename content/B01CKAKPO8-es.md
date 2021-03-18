@@ -28,10 +28,10 @@ En este momento está [Feliz Caminar - Zuecos Sanitarios Flotantes  Blanco  41 E
 
 🔎:
 
-- Hostelería
-- Antideslizante
 - Zuecos
 - Sanidad
+- Hostelería
+- Antideslizante
 - Calzado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CKAKPO8/?tag=tolees-21)
