@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM77D8Z-es Timberland Adventure 2.0 Cupsole Modern Oxford Zapatillas...'
 sku: 'B07JM77D8Z-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','timberland', ]
+tags: [ 'timberland', ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

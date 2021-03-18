@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079WF7RHL-es Carrera 154/S Gafas de sol Negro MTT BLACK 51 Unisex Adulto'
 sku: 'B079WF7RHL-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRMWCRM-es Columbia Silver Ridge 2.0 Pantalón Capri de Senderismo...'
 sku: 'B07KRMWCRM-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 6.34 EUR
 currency: EUR
 price: 6.34

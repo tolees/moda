@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FYNDBG-es PAW PATROL HQ7208.E00.B Pijama de Una Pieza para Niños...'
 sku: 'B074FYNDBG-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','pijama', ]
+tags: [ 'pijama', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

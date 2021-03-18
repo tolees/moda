@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X86K4RL-es LIGE Relojes de Pulsera Acero Inoxidable Negocios Cuarzo...'
 sku: 'B07X86K4RL-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','moda', ]
+tags: [ 'moda', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I7OD03U-es Polaroid P7334 RC 9CA Gafas de sol Negro Black/Green...'
 sku: 'B00I7OD03U-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY9EHZV-es IRIS & LILLY Braguita Brasileña Cotton para Mujer Pack de...'
 sku: 'B01LY9EHZV-es'
-tags: [ '&','Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','iris','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

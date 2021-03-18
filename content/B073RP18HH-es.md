@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RP18HH-es Helly Hansen HH Tech Crew Camiseta Hombre Gris Gris Oscuro...'
 sku: 'B073RP18HH-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

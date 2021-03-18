@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0875YVRVG-es Sandalias Mujer Verano Cuña Cómodos Mules Zuecos Casual...'
 sku: 'B0875YVRVG-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalias','zapatos','zuecos', ]
+tags: [ 'sandalias','zapatos','zuecos', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

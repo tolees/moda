@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XNN47J6-es Joma Torneo II Falda Mujer Marino M'
 sku: 'B06XNN47J6-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','falda', ]
+tags: [ 'falda', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

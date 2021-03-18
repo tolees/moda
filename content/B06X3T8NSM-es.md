@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X3T8NSM-es Marca Amazon - find. Slip para Hombre Y-Front Multipack...'
 sku: 'B06X3T8NSM-es'
-tags: [ '-','Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','find.', ]
+tags: [ '-','find.', ]
 actualPrice: 12.4 EUR
 currency: EUR
 price: 12.4

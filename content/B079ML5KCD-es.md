@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ML5KCD-es MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico...'
 sku: 'B079ML5KCD-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','camiseta','meraki', ]
+tags: [ 'camiseta','meraki', ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

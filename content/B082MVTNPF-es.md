@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MVTNPF-es Iris & Lilly Braga de Bikini de Algodón Mujer Pack de 10...'
 sku: 'B082MVTNPF-es'
-tags: [ '&','Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','bikini','iris','lilly', ]
+tags: [ '&','bikini','iris','lilly', ]
 actualPrice: 20.22 EUR
 currency: EUR
 price: 20.22

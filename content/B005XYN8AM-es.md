@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XYN8AM-es Dim Coton Stretch Boxer x3 Noir/Noir/Noir 6 XG/60/XXL Pack...'
 sku: 'B005XYN8AM-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','boxer', ]
+tags: [ 'boxer', ]
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

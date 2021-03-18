@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VB9Y2WP-es Marca Amazon - find. Stitch Cardigan - chaqueta punto...'
 sku: 'B07VB9Y2WP-es'
-tags: [ '-','Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chaqueta','find.', ]
+tags: [ '-','chaqueta','find.', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

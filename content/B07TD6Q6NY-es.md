@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TD6Q6NY-es Lacoste Sport Th3377 Camiseta Azul Marine/Citron 05e Ye4...'
 sku: 'B07TD6Q6NY-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

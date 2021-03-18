@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007VHBQ8-es Vileda Gr00683 - Guantes de goma'
 sku: 'B0007VHBQ8-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 4.07 EUR
 currency: EUR
 price: 4.07

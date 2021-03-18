@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C5QFRTU-es Emporio Armani Underwear 111610cc722 Bóxer Multicolor...'
 sku: 'B01C5QFRTU-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','bóxer', ]
+tags: [ 'bóxer', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

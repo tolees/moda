@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MR10E2Y-es G-Star 60885 Vaqueros para Mujer Negro Dark Aged 6545 W24/L30'
 sku: 'B00MR10E2Y-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

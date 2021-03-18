@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SWG46R-es Timberland Perkins Row 2-Strap Youth Sandalias de Punta...'
 sku: 'B078SWG46R-es'
-tags: [ 'Acampada y senderismo','Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas de acampada y marcha para hombre','Chaquetas para mujer','Chubasqueros de acampada y marcha para hombre','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Deportes y aire libre','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa de acampada','Ropa de acampada para hombre','Ropa para mujer','Sandalias de vestir para niña','Sandalias de vestir para niño','Zapatos','Zapatos para niñas pequeñas','Zapatos para niños pequeños','Zapatos y complementos','sandalias','timberland', ]
+tags: [ 'Acampada y senderismo','Chaquetas de acampada y marcha para hombre','Chubasqueros de acampada y marcha para hombre','Deportes y aire libre','Ropa de acampada','Ropa de acampada para hombre','Sandalias de vestir para niña','Sandalias de vestir para niño','Zapatos','Zapatos para niñas pequeñas','Zapatos para niños pequeños','Zapatos y complementos','sandalias','timberland', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

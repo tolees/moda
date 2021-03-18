@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCN49GH-es Eyekepper Moda Deportes Bifocal Gafas de sol TR90...'
 sku: 'B07CCN49GH-es'
-tags: [ 'Accesorios y piezas para cortacéspedes','Blusas y camisas para mujer','Bricolaje y herramientas','Camisetas, tops y blusas para mujer','Carros para tractores cortacéspedes','Chaquetas para mujer','Complementos para tractores cortacéspedes','Cortacéspedes y herramientas eléctricas para exteriores','Equipos e indumentaria de seguridad','Gafas de seguridad','Gafas protectoras','Jardín','Mocasines para niña','Prevención y seguridad','Protección ocular','Ropa','Ropa de abrigo para mujer','Ropa para mujer','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','gafas','moda', ]
+tags: [ 'gafas','moda', ]
 actualPrice: 15.06 EUR
 currency: EUR
 price: 15.06
