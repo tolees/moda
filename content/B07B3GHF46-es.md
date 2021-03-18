@@ -28,8 +28,8 @@ Está [Timberland Perkins Row 2-Strap  Toddler   Sandalias de Punta Descubierta 
 
 ℹ️:
 
-- Material de la suela: goma
-- Material exterior: sintético
 - Forro: tela
+- Material exterior: sintético
+- Material de la suela: goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B3GHF46/?tag=tolees-21)
