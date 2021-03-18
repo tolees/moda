@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'GEOX U FEDERICO V BLACK Men s Derbys  Ox con un 61.97 % de descuento'
-date: 2021-03-16 13:22:26
+title: 'GEOX U FEDERICO V BLACK Men s Derbys  Ox con un 41.77 % de descuento'
+date: 2021-03-18 08:08:25
 image: 'https://m.media-amazon.com/images/I/31GrvR8E-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005DXDV3C-es GEOX U FEDERICO V BLACK Men s Derbys Oxfords and Monk...'
 sku: 'B005DXDV3C-es'
-tags: [ 'geox', ]
-actualPrice: 41.8 EUR
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox', ]
+actualPrice: 64.0 EUR
 currency: EUR
-price: 41.8
+price: 64.0
 comparePrice: 109.9 EUR
 prodname: 'GEOX U FEDERICO V BLACK Men s Derbys  Oxfords and Monk Shoes Derby size 40 EU '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B005DXDV3C/?tag=tolees-21'
-descuento: '61.97'
-average: '41.8'
+descuento: '41.77'
+average: '56.6'
 ---
 
-En este momento está [GEOX U FEDERICO V BLACK Men s Derbys  Oxfords and Monk Shoes Derby size 40 EU ](https://www.amazon.es/dp/B005DXDV3C/?tag=tolees-21) a 41.8 EUR (original: 109.9 EUR) (61.97 %  de descuento) en el siguiente enlace!
+En este momento está [GEOX U FEDERICO V BLACK Men s Derbys  Oxfords and Monk Shoes Derby size 40 EU ](https://www.amazon.es/dp/B005DXDV3C/?tag=tolees-21) a 64.0 EUR (original: 109.9 EUR) (41.77 %  de descuento) en el siguiente enlace!
 
 [![GEOX U FEDERICO V BLACK Men s Derbys  Ox](https://m.media-amazon.com/images/I/31GrvR8E-KL._SL400_.jpg)](https://www.amazon.es/dp/B005DXDV3C/?tag=tolees-21)
 
 🔎:
 
-- adulto
 - Negro
+- adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005DXDV3C/?tag=tolees-21)

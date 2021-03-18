@@ -1,34 +1,37 @@
 ---
 layout: post
-title: 'Geox UOMO Snake L  Zapatillas Hombre  Be al 51.35 % de descuento'
-date: 2021-03-16 13:26:08
+title: 'Geox UOMO Snake L  Zapatillas Hombre  Be al 36.14 % de descuento'
+date: 2021-03-18 08:12:18
 image: 'https://m.media-amazon.com/images/I/41aaVMSwZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DY2TFSE-es Geox UOMO Snake L Zapatillas Hombre Beige Beige/Dk Orange...'
 sku: 'B00DY2TFSE-es'
-tags: [ 'geox', ]
-actualPrice: 48.6 EUR
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
+actualPrice: 63.8 EUR
 currency: EUR
-price: 48.6
+price: 63.8
 comparePrice: 99.9 EUR
 prodname: 'Geox UOMO Snake L  Zapatillas Hombre  Beige  Beige/Dk Orange C0845   44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B00DY2TFSE/?tag=tolees-21'
-descuento: '51.35'
-average: '48.6'
+descuento: '36.14'
+average: '58.7333333333333'
 ---
 
-Ahora mismo tienes [Geox UOMO Snake L  Zapatillas Hombre  Beige  Beige/Dk Orange C0845   44 EU](https://www.amazon.es/dp/B00DY2TFSE/?tag=tolees-21) a 48.6 EUR (original: 99.9 EUR) (51.35 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Geox UOMO Snake L  Zapatillas Hombre  Beige  Beige/Dk Orange C0845   44 EU](https://www.amazon.es/dp/B00DY2TFSE/?tag=tolees-21) a 63.8 EUR (original: 99.9 EUR) (36.14 %  de descuento) en el siguiente enlace!
 
 [![Geox UOMO Snake L  Zapatillas Hombre  Be](https://m.media-amazon.com/images/I/41aaVMSwZyL._SL400_.jpg)](https://www.amazon.es/dp/B00DY2TFSE/?tag=tolees-21)
 
 🔎:
 
-- Feet keep cool and dry thanks to the breathable membrane and the perforated sole
-- The rubber sole is perforated and contains a special microporous membrane, waterproof and breathable, that absorbs and expels sweat without letting water in
+- Der U Snake L für Herren von Geox ist ein atmungsaktiver Sneaker für Alltag und Freizeit.
+- Gummizug für schnelles An- und Ausziehen
+- Warnhinweis: Keine / nicht relevant
+- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
+- Leder ist strapazierfähig und langlebig
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DY2TFSE/?tag=tolees-21)
