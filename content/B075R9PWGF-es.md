@@ -28,7 +28,7 @@ Tienes [Vero Moda Vmava Plain SS Top Ga Noos Camiseta  Gris  Asphalt Asphalt   4
 
 🔎:
 
-- Cool Basic Shirt by VERO MODA
 - Made of flowing Lyocell quality with stretch
+- Cool Basic Shirt by VERO MODA
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075R9PWGF/?tag=tolees-21)

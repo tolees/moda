@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Helly Hansen Hp Fleece Jacket  Chaqueta  con un 38.19 % de descuento'
-date: 2021-03-17 17:17:17
+date: 2021-03-18 17:32:01
 image: 'https://m.media-amazon.com/images/I/41kucRmZ3pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07F2Q8WPN-es Helly Hansen Hp Fleece Jacket Chaqueta deportiva para...'
 sku: 'B07F2Q8WPN-es'
+tags: [ 'Acampada y senderismo','Chaquetas de acampada y marcha para hombre','Deportes y aire libre','Forros de acampada y marcha para hombre','Ropa de acampada','Ropa de acampada para hombre','chaqueta','helly hansen', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

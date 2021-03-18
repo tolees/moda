@@ -28,12 +28,12 @@ Tienes [Tommy Hilfiger TJM Stretch Oxford Shirt Camisa  Blanco  White   Large pa
 
 ℹ️:
 
-- Corte entallado
 - Algodón Oxford elástico
-- Cuello abotonado
-- Marca Tommy Jeans
-- Tela tejida
 - Parche de bandera Tommy Jeans en el pecho
+- Cuello abotonado
 - Puños con dos botones
+- Tela tejida
+- Corte entallado
+- Marca Tommy Jeans
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VVFJTD5/?tag=tolees-21)

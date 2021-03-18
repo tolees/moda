@@ -28,8 +28,8 @@ Tienes [BOSS T-shirt VN 3P CO Camiseta  Negro  Black 1   Medium  Pack de 3  para
 
 🔎:
 
-- Corte regular
 - Paquete de tres camisetas interiores
 - Con un logo bordado en la parte izquierda del pecho
+- Corte regular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M6WVQD4/?tag=tolees-21)
